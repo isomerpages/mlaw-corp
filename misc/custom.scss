@@ -79,31 +79,31 @@ $desktop: 960px + (2 * $gap) !default;
     &-6 {
       background-color: $media-color-six;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-six, 10%);
     }
     }
     &-7 {
       background-color: $media-color-seven;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-seven, 10%);
     }
     }
     &-8 {
       background-color: $media-color-eight;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-eight, 10%);
     }
     }
     &-9 {
       background-color: $media-color-nine;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-nine, 10%);
     }
     }
     &-10 {
       background-color: $media-color-ten;
       &:hover {
-        background-color: darken($media-color-five, 10%);
+        background-color: darken($media-color-ten, 10%);
     }
     }
   }
