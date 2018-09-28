@@ -9,11 +9,16 @@ $primary: #907051;
 $secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+$media-color-one: #633b74;
+$media-color-two: #810246;
+$media-color-three: #6e0d25;
+$media-color-four: #503b31;
+$media-color-five: #816c3c;
+$media-color-six: #4c5760;
+$media-color-seven: #2c3989;
+$media-color-eight: #35679e;
+$media-color-nine: #3b7f4e;
+$media-color-ten: #166c62;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -72,31 +77,31 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   	}
     &-6 {
-      background-color: $media-color-five;
+      background-color: $media-color-six;
       &:hover {
         background-color: darken($media-color-five, 10%);
     }
     }
     &-7 {
-      background-color: $media-color-five;
+      background-color: $media-color-seven;
       &:hover {
         background-color: darken($media-color-five, 10%);
     }
     }
     &-8 {
-      background-color: $media-color-five;
+      background-color: $media-color-eight;
       &:hover {
         background-color: darken($media-color-five, 10%);
     }
     }
     &-9 {
-      background-color: $media-color-five;
+      background-color: $media-color-nine;
       &:hover {
         background-color: darken($media-color-five, 10%);
     }
     }
     &-10 {
-      background-color: $media-color-five;
+      background-color: $media-color-ten;
       &:hover {
         background-color: darken($media-color-five, 10%);
     }
