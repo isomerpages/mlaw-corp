@@ -112,18 +112,18 @@
   - title: Legal Aid Bureau
     url: https://www.mlaw.gov.sg/eservices/io/
     external: true
-- title: Join Us
-  url: /join-us/why-minlaw/
-  sub-links:
-  - title: Why Minlaw
-    url: /join-us/why-minlaw/
-  - title: Career Opportunities
-    url: /join-us/career-opportunities/
-  - title: Meet Our Colleagues
-    url: /join-us/meet-our-colleagues/
-  - title: Minlaw Internship
-    url: /join-us/minlaw-internship/
-  - title: Meet Our Interns
-    url: /join-us/meet-our-interns/
+# - title: Join Us
+#   url: /join-us/why-minlaw/
+#   sub-links:
+#   - title: Why Minlaw
+#     url: /join-us/why-minlaw/
+#   - title: Career Opportunities
+#     url: /join-us/career-opportunities/
+#   - title: Meet Our Colleagues
+#     url: /join-us/meet-our-colleagues/
+#   - title: Minlaw Internship
+#     url: /join-us/minlaw-internship/
+#   - title: Meet Our Interns
+#     url: /join-us/meet-our-interns/
 - title: Contact Us
   url: /contact-us/
