@@ -1,0 +1,55 @@
+title: Ministry of Law
+title-abbreviated: MLaw
+description: >- # this means to ignore newlines until "baseurl:"
+  Description
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+remote_theme: isomerpages/isomerpages-template
+safe: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-sitemap
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
+# Resource Room and Pagination
+paginate: 12
+
+# Homepage sections
+homepage_hero_i_want_to: false
+homepage_resources: true
+
+# Feedback Form URL
+feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+
+# FAQ URL
+faq_url: "https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx"
+faq_url_external: true
+
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+
+
+baseurl: ""
+collections:
+  who-we-are:
+    output: true
+  our-work:
+    output: true
+  law-firms:
+    output: true
+  admission-to-the-bar:
+    output: true
+  e-services:
+    output: true
+  join-us:
+    output: true
+resources_name: resources
