@@ -60,31 +60,31 @@
     url: /admission-to-the-bar/apply-for-exemption/
   - title: Relevant Legislation
     url: /admission-to-the-bar/relevant-legislation/
-- title: News
-  url: /news/
+- title: Resources
+  url: /resources/
   sub-links:
   - title: All
-    url: /news/
+    url: /resources/
   - title: Press Releases
-    url: /news/press-releases/
+    url: /resources/press-releases/
   - title: Announcements
-    url: /news/announcements/
+    url: /resources/announcements/
   - title: Replies
-    url: /news/replies/
+    url: /resources/replies/
   - title: Speeches
-    url: /news/speeches/
+    url: /resources/speeches/
   - title: Parliamentary Speeches
-    url: /news/parliamentary-speeches/
+    url: /resources/parliamentary-speeches/
   - title: Visits
-    url: /news/visits/
+    url: /resources/visits/
   - title: Public Consultations
-    url: /news/public-consultations/
+    url: /resources/public-consultations/
   - title: Legal Industry Newsletters
-    url: /news/legal-industry-newsletters/
+    url: /resources/legal-industry-newsletters/
   - title: Events
-    url: /news/events/
+    url: /resources/events/
   - title: Others
-    url: /news/others/
+    url: /resources/others/
 - title: E Services
   url: /e-services/insolvency-office/
   sub-links:
