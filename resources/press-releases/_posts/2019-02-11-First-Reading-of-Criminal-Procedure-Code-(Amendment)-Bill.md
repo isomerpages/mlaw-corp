@@ -17,7 +17,7 @@ permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Am
 
 5.    The key amendments in the Bill are as follows:
 
-***A. Investigative procedures***
+ ***A. Investigative procedures***
 
 
 *(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*
