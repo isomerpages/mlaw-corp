@@ -21,7 +21,7 @@ permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Am
  ***A. Investigative procedures***
 
 
-_*(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*_
+<ins>*(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*</ins>
 
 * As part of the introduction of VRI, new VRI-related offences were created in Regulations, such as the unauthorised recording of the VRI process, and the unauthorised copying or distribution of a statement in audiovisual form. 
 
@@ -30,7 +30,7 @@ _*(i)     Empowering prescribed law enforcement agencies, including the Central 
 
 * To allow for better resource allocation for such investigations, the amendments empower prescribed law enforcement agencies, including the CNB, to investigate offences relating to the video-recording of interviews.
 
-_*(ii)     Allowing removal of sensitive information from materials before disclosure to the Defence*_
+<ins>*(ii)     Allowing removal of sensitive information from materials before disclosure to the Defence*</ins>
 
 * The amendments provide a statutory basis for removal of certain sensitive information from material to be disclosed by law enforcement agencies or the prosecution in the context of criminal cases. Sensitive information includes information which if disclosed, may prejudice public safety or order, be prejudicial to the interests of justice in a criminal case, or compromise the safety of any person or the operations of any law enforcement agency. This will give greater clarity about the situations in which sensitive information can be removed from materials that are disclosed to the Defence or other persons.
 
@@ -43,7 +43,7 @@ ii)    Where the law requires that sensitive information to be disclosed because
 
 ***B. Court procedures***
 
-_*(iii)    Introducing further timeline-related court powers for re-opening of concluded criminal cases*_
+<ins>*(iii)    Introducing further timeline-related court powers for re-opening of concluded criminal cases*</ins>
 
 * In the CJRA, the CPC was amended to codify and clarify the procedure for re-opening concluded criminal cases, where all avenues of appeal have been exhausted. Under those amendments, the appellate court that last dealt with the case will hear the application to re-open the case and may extend certain timelines for filing documents prescribed for the re-opening procedure.
 
@@ -51,7 +51,7 @@ _*(iii)    Introducing further timeline-related court powers for re-opening of c
 
 ***C. Sentencing***
 
-_*(iv) Removing the possibility of backdating a Reformative Training (RT) sentence*_
+<ins>*(iv) Removing the possibility of backdating a Reformative Training (RT) sentence*</ins>
 
 * The current law provides that RT sentences can be backdated (e.g. to account for periods of pre-sentence remand). RT sentences have the purpose of putting youthful offenders who commit relatively serious crimes through intensive rehabilitation. The rehabilitation programme can only be carried out effectively if it is allowed to run for a suitable length of time. Backdating RT sentences shortens the time spent by the offender in prescribed rehabilitation programmes, and may prevent them from completing those programmes as designed.   
 
