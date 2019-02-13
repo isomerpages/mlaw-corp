@@ -13,9 +13,9 @@ permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Am
  
 4.    Stakeholders, including the Criminal Bar, were consulted on these amendments.
 
-
-  **Key Amendments to the Criminal Procedure Code**
-
+**Key Amendments to the Criminal Procedure Code**
+  
+{:start="5"}
 5.    The key amendments in the Bill are as follows:
 
  ***A. Investigative procedures***
