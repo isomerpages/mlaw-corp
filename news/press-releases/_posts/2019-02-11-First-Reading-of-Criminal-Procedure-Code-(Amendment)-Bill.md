@@ -37,10 +37,10 @@ permalink: /news/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendme
 * The amendments also set out the mechanism for resolving disputes concerning such removal of sensitive information in court.   
 
 * To safeguard the interests of accused persons, sensitive information cannot be removed from materials to be disclosed to the Defence in the following two situations:
-
-    i)    Where the Prosecution intends to rely on that sensitive information as evidence; or  
-    ii)    Where the law requires that sensitive information to be disclosed because it tends to strengthen the Defence’s case.
-
+<pre>
+   i)    Where the Prosecution intends to rely on that sensitive information as evidence; or  
+   ii)    Where the law requires that sensitive information to be disclosed because it tends to strengthen the Defence’s case.
+</pre>
 ***B. Court procedures***
 
 <ins>*(iii)    Introducing further timeline-related court powers for re-opening of concluded criminal cases*</ins>
