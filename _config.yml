@@ -52,4 +52,4 @@ collections:
     output: true
   join-us:
     output: true
-resources_name: news
+resources_name: resources
