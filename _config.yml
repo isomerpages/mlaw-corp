@@ -54,4 +54,4 @@ collections:
     output: true
   news:
     output: true
-resources_name: news
+resources_name: resources
