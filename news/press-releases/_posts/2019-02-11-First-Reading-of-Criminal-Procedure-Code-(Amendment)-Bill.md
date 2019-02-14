@@ -3,6 +3,8 @@ layout: post
 title:  First Reading of Criminal Procedure Code(Amendment) Bill
 date:   2019-02-11
 permalink: /news/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendment-Bill
+breadcrumb: Press Releases
+collection_name: news
 ---
 
 1. The Ministry of Law has tabled the Criminal Procedure Code (Amendment) Bill for First Reading in Parliament today.  
