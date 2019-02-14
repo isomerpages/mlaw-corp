@@ -61,30 +61,30 @@
   - title: Relevant Legislation
     url: /admission-to-the-bar/relevant-legislation/
 - title: News
-  url: /resources/
+  url: /news/
   sub-links:
   - title: All
-    url: /resources/
+    url: /news/
   - title: Press Releases
-    url: /resources/press-releases/
+    url: /news/press-releases/
   - title: Announcements
-    url: /resources/announcements/
+    url: /news/announcements/
   - title: Replies
-    url: /resources/replies/
+    url: /news/replies/
   - title: Speeches
-    url: /resources/speeches/
+    url: /news/speeches/
   - title: Parliamentary Speeches
-    url: /resources/parliamentary-speeches/
+    url: /news/parliamentary-speeches/
   - title: Visits
-    url: /resources/visits/
+    url: /news/visits/
   - title: Public Consultations
-    url: /resources/public-consultations/
+    url: /news/public-consultations/
   - title: Legal Industry Newsletters
-    url: /resources/legal-industry-newsletters/
+    url: /news/legal-industry-newsletters/
   - title: Events
-    url: /resources/events/
+    url: /news/events/
   - title: Others
-    url: /resources/others/
+    url: /news/others/
 - title: E Services
   url: /e-services/insolvency-office/
   sub-links:
