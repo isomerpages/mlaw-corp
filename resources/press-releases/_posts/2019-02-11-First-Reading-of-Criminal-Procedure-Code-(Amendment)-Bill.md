@@ -21,7 +21,7 @@ permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Am
  ***A. Investigative procedures***
 
 
-<u> *(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)* </u>
+<ins>*(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*</ins>
 
 * As part of the introduction of VRI, new VRI-related offences were created in Regulations, such as the unauthorised recording of the VRI process, and the unauthorised copying or distribution of a statement in audiovisual form. 
 
