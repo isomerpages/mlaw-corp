@@ -39,7 +39,7 @@ permalink: /news/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendme
 * To safeguard the interests of accused persons, sensitive information cannot be removed from materials to be disclosed to the Defence in the following two situations:
 
     &nbsp;i) Where the Prosecution intends to rely on that sensitive information as evidence; or  
-    &nbsp;&nbsp;&nbsp;&nbsp;ii) Where the law requires that sensitive information to be disclosed because it tends to strengthen the Defence’s case.
+    &nbsp;ii) Where the law requires that sensitive information to be disclosed because it tends to strengthen the Defence’s case.
 
 ***B. Court procedures***
 
