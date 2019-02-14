@@ -19,7 +19,7 @@ permalink: /news/press-releases/first-high-level-international-dispute-resolutio
 6.    The organisation of this conference was supported by the CCPIT Legal Affairs Department, the CCPIT Mediation Centre, and Maxwell Chambers, Singapore.
 
 
-[Annex A: Conference Programme(PDF,0.043MB)](/files/news/press-releases/2019/01/Annex A Conference Prog.pdf)  
+[Annex A: Conference Programme(PDF, 0.043MB)](/files/news/press-releases/2019/01/Annex A Conference Prog.pdf)  
 [Annex B: Press Release on MOU(PDF,0.614MB)](/files/news/press-releases/2019/01/Annex B Press Release on MOU.pdf)
 
 
