@@ -1,8 +1,7 @@
 ---
-layout: leftnav-page-content
+layout: post
 title:  First Reading of Criminal Procedure Code(Amendment) Bill
 date:   2019-02-11
-collection_name: resources
 permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendment-Bill
 ---
 
@@ -22,7 +21,7 @@ permalink: /resources/press-releases/First-Reading-of-Criminal-Procedure-Code-Am
  ***A. Investigative procedures***
 
 
-<ins>*(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*</ins>
+<u>*(i)     Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*</u>
 
 * As part of the introduction of VRI, new VRI-related offences were created in Regulations, such as the unauthorised recording of the VRI process, and the unauthorised copying or distribution of a statement in audiovisual form. 
 
