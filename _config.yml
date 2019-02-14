@@ -52,6 +52,6 @@ collections:
     output: true
   join-us:
     output: true
-  press-releases:
+  resources:
     output: true
 resources_name: resources
