@@ -46,11 +46,13 @@ collection_name: news
 {:start="9"}
 9. Contravention of these requirements will be punishable by a range of administrative and criminal penalties, including the suspension or cancellation of registration.
 
-{:start="10"}10. Certain classes of regulated dealers will be exempted from specific requirements in the Bill. For example, all MAS-regulated financial institutions will be exempted from all requirements except the cash transaction reporting requirement. The exemptions will be prescribed by order in the Gazette.
+{:start="10"}
+10. Certain classes of regulated dealers will be exempted from specific requirements in the Bill. For example, all MAS-regulated financial institutions will be exempted from all requirements except the cash transaction reporting requirement. The exemptions will be prescribed by order in the Gazette.
 
 **Working with the PSMD Sector**
 
-{:start="11"}11. The new regime was developed in consultation with the PSMD sector and members of the public. The public consultation was held from 13 September to 12 October 2018. The proposed requirements will help regulated dealers effectively mitigate ML/TF risks and meet the international standards set by the FATF, while managing the compliance burden.
+{:start="11"}
+11. The new regime was developed in consultation with the PSMD sector and members of the public. The public consultation was held from 13 September to 12 October 2018. The proposed requirements will help regulated dealers effectively mitigate ML/TF risks and meet the international standards set by the FATF, while managing the compliance burden.
 
 {:start="12"}
 12. Regulated dealers will be given up to six months upon the commencement of the Bill to register. To ensure that they are well-placed to comply with the new requirements proposed in the Bill, MinLaw will conduct outreach efforts to raise AML/CFT awareness, and work closely with industry associations to develop guidance materials for the sector.
