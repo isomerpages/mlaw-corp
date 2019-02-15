@@ -6,7 +6,7 @@ permalink: /news/press-releases/first-high-level-international-dispute-resolutio
 breadcrumb: Press Releases
 collection_name: news
 ---
-
+24 Jan 2019 Posted in [Press releases](/news/press-releases)
 
 1.    The China Council for the Promotion of International Trade (CCPIT) and the Singapore Ministry of Law co-organised the first China-Singapore International Commercial Dispute Resolution Conference on Thursday, 24 January 2019 in Beijing, China, to support the development of the Belt & Road Initiative (BRI) and further China-Singapore cooperation in legal services.
  
