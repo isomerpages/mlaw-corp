@@ -6,6 +6,7 @@ permalink: /news/press-releases/First-reading-of-criminal-law-reform-bill-and-th
 breadcrumb: Press Releases
 collection_name: news
 ---
+11 Feb 2019 Posted in [Press releses](/news/press-releases)
 
 1. The Criminal Law Reform Bill was introduced in Parliament for First Reading today. The Bill introduces amendments to the Penal Code, to ensure that it remains relevant and up-to-date. The Bill also amends other legislation, such as the Criminal Procedure Code, the Children and Young Persons Act and the Women’s Charter to make related changes. 
  
