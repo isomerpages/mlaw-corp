@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: leftnav-page-content
 title: Singapore Copyright Review – Enhancing Creators’ Rights and Users’ Access to Copyrighted Works
 date: 2019-01-17
 permalink: /news/press-releases/singapore-copyright-review-report-2019
