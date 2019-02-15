@@ -20,7 +20,7 @@ collection_name: news
    &nbsp;c) <ins>It looks at usage rather than preferences</ins>, which is more indicative of lawyers’ and businesses’ actual decision-making processes.  
    
    &nbsp;d) <ins>It covers a balanced geographical spread</ins>, so that it is representative of users and providers across all regions in the world.
-&nbsp;
+&nbsp;  
    
 4. SIDRA’s Academic Director, Professor Nadja Alexander said, “SIDRA is thrilled to be commissioned by MinLaw to conduct the International Dispute Resolution Survey. The survey will draw on SIDRA’s wealth of experience and expertise in Asia and internationally. We are confident that the survey findings will enrich academic and policy work on international dispute resolution, and provide practical guidance to dispute resolution users, practitioners and institutions.”  
   
