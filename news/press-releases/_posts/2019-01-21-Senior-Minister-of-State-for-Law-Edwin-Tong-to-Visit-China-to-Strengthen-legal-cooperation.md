@@ -6,6 +6,8 @@ permalink: /news/press-releases/SMS-Edwin-Tong-to-visit-China-to-strengthen-lega
 breadcrumb: Press Releases
 collection_name: news
 ---
+21 Jan 2019 Posted in [Press releases](/news/press-releases)
+
 1. Senior Minister of State (SMS) for Health and Law Edwin Tong will visit the People’s Republic of China from 21 to 25 January 2019. This will be his first overseas visit as SMS for Law. SMS Edwin Tong will visit Shanghai from 21 to 22 January and Beijing from 23 to 25 January.  
 
 2. The visit seeks to strengthen Singapore-China legal cooperation and to bring together legal services providers and businesses in both countries to seize new opportunities in Asia, including in relation to the “Belt and Road” Initiative. Legal and judicial cooperation has been identified as the fourth platform of collaboration under the “Belt and Road” Framework.    
