@@ -43,7 +43,7 @@ b. <ins>New exception for text and data mining for the purpose of analysis</ins>
 6. Other changes proposed in the report include providing clarity on situations when copyright exceptions would not be restricted by contractual terms, setting an expiry date for the protection of unpublished works, and new exceptions for galleries, libraries, archives and museums. 
 
 [Annex A: Copyright Review Report(PDF, 1.13MB)](/files/news/press-releases/2019/01/Annex A - Copyright Review Report 16 Jan 2019.pdf)  
-[Annex B: Public e in Singapore (August 2016)(PDF, 0.6MB)](/files/news/press-releases/2019/01/Annex B - Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore August 2016.pdf)  
-[Annex C: Ecosystem in Singapore (May 2017)(PDF, 0.5MB)](/files/news/press-releases/2019/01/Annex C - Public Consultation Paper on CMO Ecosystem in Singapore May 2017.pdf)
+[Annex B: Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore(August 2016)(PDF, 0.6MB)](/files/news/press-releases/2019/01/Annex B - Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore August 2016.pdf)  
+[Annex C: Public Consultation Paper on CMO Ecosystem in Singapore(May 2017)(PDF, 0.5MB)](/files/news/press-releases/2019/01/Annex C - Public Consultation Paper on CMO Ecosystem in Singapore May 2017.pdf)
 
 
