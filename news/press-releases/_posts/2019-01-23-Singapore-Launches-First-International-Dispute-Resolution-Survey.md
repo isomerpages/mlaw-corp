@@ -6,6 +6,7 @@ permalink: /news/press-releases/singapore-launches-first-international-dispute-r
 breadcrumb: Press Releases
 collection_name: news
 ---
+23 Jan 2019 Posted in [Press releases](/news/press-releases)
 
 1. The Singapore Ministry of Law (MinLaw) and the Singapore International Dispute Resolution Academy (SIDRA) launched today the ‘International Dispute Resolution Survey’ to help corporations make strategic decisions on dispute resolution options, and to inform policy makers, dispute resolution institutions, and legal service providers on the dispute resolution needs of corporations. Conducted by SIDRA and commissioned by MinLaw, the survey targets over 1,000 corporations and 1,000 legal practitioners around the world.
 
