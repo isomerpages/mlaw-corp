@@ -13,7 +13,7 @@ collection_name: news
 
 2. The Bill introduces a risk-based supervisory and regulatory regime for precious stones and precious metals dealers (PSMD) to level up anti-money laundering and countering the financing of terrorism (AML/CFT) standards in the sector. The new regime will enhance the effectiveness of Singapore’s AML/CFT regime, combat crime and improve security, both domestically and globally.
 
-**Background**hg
+**Background**
 
 {:start="3"}
 3. Singapore has a strong regulatory AML/CFT framework for the prevention, supervision, enforcement, confiscation of the proceeds of crime, and targeted financial sanctions against terrorism and proliferation financing. There is robust supervision of the financial sector, with regular engagements fostering a deep understanding of AML/CFT issues within the industry. Designated non-financial sectors, such as pawnbrokers, are also subject to a comprehensive range of AML/CFT measures.
@@ -49,7 +49,7 @@ collection_name: news
 {:start="10"}
 10. Certain classes of regulated dealers will be exempted from specific requirements in the Bill. For example, all MAS-regulated financial institutions will be exempted from all requirements except the cash transaction reporting requirement. The exemptions will be prescribed by order in the Gazette.
 
-**Working with the PSMD Sector**
+<b>Working with the PSMD Sector</b>
 
 {:start="11"}
 11. The new regime was developed in consultation with the PSMD sector and members of the public. The public consultation was held from 13 September to 12 October 2018. The proposed requirements will help regulated dealers effectively mitigate ML/TF risks and meet the international standards set by the FATF, while managing the compliance burden.
@@ -57,7 +57,7 @@ collection_name: news
 {:start="12"}
 12. Regulated dealers will be given up to six months upon the commencement of the Bill to register. To ensure that they are well-placed to comply with the new requirements proposed in the Bill, MinLaw will conduct outreach efforts to raise AML/CFT awareness, and work closely with industry associations to develop guidance materials for the sector.
 
-<ins>**About the Financial Action Task Force (FATF)**</ins>
+<ins><b>About the Financial Action Task Force (FATF)</b></ins>
 
 {:start="13"}
 13. The FATF is an inter-governmental body established in 1989 by the relevant Ministers of its member jurisdictions. The FATF sets standards and promotes effective implementation of legal, regulatory and operational measures for combating money laundering, terrorism financing and other related threats to the integrity of the international financial system. The FATF monitors the progress of its members in implementing necessary measures, reviews money laundering and terrorist financing techniques and counter-measures, and promotes the adoption and implementation of appropriate measures globally. Singapore has been a member of the FATF since 1992.
