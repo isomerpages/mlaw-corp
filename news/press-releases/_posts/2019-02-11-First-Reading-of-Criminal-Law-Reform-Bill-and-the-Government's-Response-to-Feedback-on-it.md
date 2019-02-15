@@ -130,7 +130,7 @@ Enhanced punishments for offences committed against vulnerable victims
 
 41. The Government thanks the PCRC for the effort and time taken to review the Penal Code, as well as members of the public and stakeholders for providing their feedback and suggestions on the PCRC’s proposals.
 
-[Annex A: Factsheet on Criminal Law Reform Bill(PDF, MB)](/files/news/press-releases/2019/02/) 
+[Annex A: Factsheet on Criminal Law Reform Bill(PDF, 0.6MB)](/files/news/press-releases/2019/02/Factsheet on Criminal Law Reform Bill.pdf) 
 
 
 
