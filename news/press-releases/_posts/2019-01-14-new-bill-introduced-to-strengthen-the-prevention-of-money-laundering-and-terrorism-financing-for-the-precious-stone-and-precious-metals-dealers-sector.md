@@ -39,7 +39,7 @@ collection_name: news
 {:start="8"}
 8. Regulated dealers will also be required to comply with the following measures:
 
-   &nbsp;a. <ins>Transaction-based requirements</ins>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
+   &nbsp;a. <ins>Transaction-based requirements</ins>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and  
    &nbsp;  
    &nbsp;b. <ins>Entity-based requirements</ins>, including conducting ML/TF risk assessments posed by its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks amongst other requirements.
 
