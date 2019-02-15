@@ -21,7 +21,7 @@ collection_name: news
    
    &nbsp;d) <ins>It covers a balanced geographical spread</ins>, so that it is representative of users and providers across all regions in the world.
 &nbsp;  
-   
+&nbsp;    
 4. SIDRA’s Academic Director, Professor Nadja Alexander said, “SIDRA is thrilled to be commissioned by MinLaw to conduct the International Dispute Resolution Survey. The survey will draw on SIDRA’s wealth of experience and expertise in Asia and internationally. We are confident that the survey findings will enrich academic and policy work on international dispute resolution, and provide practical guidance to dispute resolution users, practitioners and institutions.”  
   
 5. MinLaw’s Deputy Secretary, Mr Han Kok Juan said, “As deals and disputes become more complex and varied, businesses need to have a more sophisticated understanding of the full suite of dispute resolution options available to them, so that they can pick the one that will best safeguard their interest. This may differ depending on the industry sector and the region they operate in. MinLaw has commissioned the survey to help build that understanding, as part of Singapore’s effort to better meet businesses’ needs, as a thought leader and business and legal services hub.”
