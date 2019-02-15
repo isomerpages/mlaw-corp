@@ -13,7 +13,7 @@ collection_name: news
 
 2. The Bill introduces a risk-based supervisory and regulatory regime for precious stones and precious metals dealers (PSMD) to level up anti-money laundering and countering the financing of terrorism (AML/CFT) standards in the sector. The new regime will enhance the effectiveness of Singapore’s AML/CFT regime, combat crime and improve security, both domestically and globally.
 
-**Background**h
+**Background**hg
 
 {:start="3"}
 3. Singapore has a strong regulatory AML/CFT framework for the prevention, supervision, enforcement, confiscation of the proceeds of crime, and targeted financial sanctions against terrorism and proliferation financing. There is robust supervision of the financial sector, with regular engagements fostering a deep understanding of AML/CFT issues within the industry. Designated non-financial sectors, such as pawnbrokers, are also subject to a comprehensive range of AML/CFT measures.
