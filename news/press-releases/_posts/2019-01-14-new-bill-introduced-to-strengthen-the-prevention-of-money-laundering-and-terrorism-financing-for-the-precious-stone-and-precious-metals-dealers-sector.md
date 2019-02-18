@@ -37,37 +37,11 @@ collection_name: news
 7. Regulated dealers must register with the Registrar. The Registrar may refuse to grant or renew registration under various circumstances, e.g. if the dealer is not a fit and proper person in the opinion of the Registrar. Registered dealers are required to abide by the conditions of registration.
 
 {:start="8"}
-8. Regulated dealers will also be required to comply with the following measures:
-
-1. Dog
-    a. German Shepherd
-    b. Belgian Shepherd
-        a. Malinois
-        b. Groenendael
-        c. Tervuren
-2. Cat
-    1. Siberian
-    2. Siamese
- 
- <u>some text</u>
- 
-1. Item A
-2. Item B
-* Item 2.1
-* Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
-
-
-1. Dog
-    1. Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
-    2. Belgian Shepherd
-        1. Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
-        2. Groenendael
-        3. Tervuren
+8. Regulated dealers will also be required to comply with the following measures:        
         
-        
-   &nbsp;a. <ins>Transaction-based requirements</ins>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and  
-   &nbsp;  
-   &nbsp;b. <ins>Entity-based requirements</ins>, including conducting ML/TF risk assessments posed by its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks amongst other requirements.
+    * <ins>Transaction-based requirements</ins>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and  
+
+    * <ins>Entity-based requirements</ins>, including conducting ML/TF risk assessments posed by its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks amongst other requirements.
 
 {:start="9"}
 9. Contravention of these requirements will be punishable by a range of administrative and criminal penalties, including the suspension or cancellation of registration.
