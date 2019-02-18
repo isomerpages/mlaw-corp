@@ -40,6 +40,7 @@ collection_name: news
 **Enhancing protection for vulnerable victims**
 
 Enhanced punishments for offences committed against vulnerable victims
+
 {:start="9"}
 9. The PCRC proposed to enhance punishments for offences committed against vulnerable victims, namely (a) children, (b) persons with mental or physical disabilities, and (c) domestic workers. Persons who commit offences under the Penal Code against such persons may be punished with up to twice the maximum punishments provided for the offence.
  
@@ -171,6 +172,7 @@ Enhanced punishments for offences committed against vulnerable victims
 
 [Annex A: Factsheet on Criminal Law Reform Bill(PDF, 0.6MB)](/files/news/press-releases/2019/02/Factsheet on Criminal Law Reform Bill.pdf) 
 
+[Annex B: Proposed Legislation(PDF, 0.4MB)](/files/news/press-releases/2019/02/Proposed_Legislation_Feb 2019.pdf)
 
 
 
