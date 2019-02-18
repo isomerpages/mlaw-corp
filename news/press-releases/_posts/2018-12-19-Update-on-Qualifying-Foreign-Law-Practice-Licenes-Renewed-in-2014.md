@@ -16,14 +16,19 @@ collection_name: news
 
 **Background**
 
+{:start="4"}
 4. The QFLP scheme was introduced in 2008 following the recommendations of the Committee to Develop the Legal Sector chaired by then Justice V K Rajah. The Committee included senior partners of local law firms.
 
+{:start="5"}
 5. The QFLP scheme seeks to grow the legal sector, support the growth of Singapore’s key economic sectors, and offer additional opportunities to Singaporean lawyers.
 
+{:start="6"}
 6. The QFLP licence allow Foreign Law Practices (“FLPs”) to practise Singapore law, except in domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law and administrative law. The QFLPs can practise the permitted areas of Singapore law through Singapore-qualified lawyers with practising certificates or foreign lawyers holding the foreign practitioner certificate.
 
+{:start="7"}
 7. The QFLPs have contributed strongly to the growth of Singapore’s legal sector. In 2017/2018, the nine QFLPs generated over S$400 million in total revenue, of which about 80% came from offshore work, or work that could have been done elsewhere. The nine firms also employ over 450 lawyers in their Singapore office, of which about 35% are Singapore-qualified lawyers.
 
+{:start="8"}
 8. To decide whether to renew a firm’s QFLP licence, the Ministry will consider the firm’s quantitative and qualitative performance, such as the value of work that the Singapore office will generate and the extent to which the Singapore office will function as the firm’s headquarter for the region, during the licence period relative to its earlier commitments, the firm’s contributions to Singapore, and the firm’s proposal for the new licence period.
 
 
