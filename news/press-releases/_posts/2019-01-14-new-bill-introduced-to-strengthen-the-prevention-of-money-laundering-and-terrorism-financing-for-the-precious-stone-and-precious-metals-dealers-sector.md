@@ -49,11 +49,16 @@ collection_name: news
     1. Siberian
     2. Siamese
     
+1. Item A
+2. Item B
+* Item 2.1
+* Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
+
 
 1. Dog
-    1. German Shepherd
+    1. Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
     2. Belgian Shepherd
-        1. Malinois
+        1. Transaction-based requirements, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and
         2. Groenendael
         3. Tervuren
         
