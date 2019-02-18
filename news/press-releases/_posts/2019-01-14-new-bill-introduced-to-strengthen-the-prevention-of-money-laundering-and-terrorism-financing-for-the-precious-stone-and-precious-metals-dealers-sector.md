@@ -48,7 +48,9 @@ collection_name: news
 2. Cat
     1. Siberian
     2. Siamese
-    
+ 
+ <u>some text</u>
+ 
 1. Item A
 2. Item B
 * Item 2.1
