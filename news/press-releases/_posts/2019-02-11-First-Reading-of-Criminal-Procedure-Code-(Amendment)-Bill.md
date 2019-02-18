@@ -24,7 +24,7 @@ collection_name: news
  ***A. Investigative procedures***
 
 
-(i)     <u>*Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)*</u>
+(i)     *<u>Empowering prescribed law enforcement agencies, including the Central Narcotics Bureau, to investigate offences relating to the video-recording of interviews (VRI)</u>*
 
 * As part of the introduction of VRI, new VRI-related offences were created in Regulations, such as the unauthorised recording of the VRI process, and the unauthorised copying or distribution of a statement in audiovisual form. 
 
@@ -64,7 +64,7 @@ collection_name: news
 * Agencies will work together to ensure that where RT is a likely sentence, remand is avoided or minimised where possible. This will prevent the offender being disadvantaged by the impossibility of backdating.
 
 
-
+wow
 
 
 
