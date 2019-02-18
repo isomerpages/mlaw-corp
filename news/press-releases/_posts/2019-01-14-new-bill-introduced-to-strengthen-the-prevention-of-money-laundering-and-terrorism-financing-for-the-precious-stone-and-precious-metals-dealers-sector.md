@@ -40,11 +40,11 @@ collection_name: news
 8. Regulated dealers will also be required to comply with the following measures:
 
 1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
+    a. German Shepherd
+    b. Belgian Shepherd
+        a. Malinois
+        b. Groenendael
+        c. Tervuren
 2. Cat
     1. Siberian
     2. Siamese
