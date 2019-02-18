@@ -46,8 +46,7 @@ collection_name: news
 {:start="9"}
 9. Contravention of these requirements will be punishable by a range of administrative and criminal penalties, including the suspension or cancellation of registration.
 
-{:start="10"}
-10. Certain classes of regulated dealers will be exempted from specific requirements in the Bill. For example, all MAS-regulated financial institutions will be exempted from all requirements except the cash transaction reporting requirement. The exemptions will be prescribed by order in the Gazette.
+<p>10. Certain classes of regulated dealers will be exempted from specific requirements in the Bill. For example, all MAS-regulated financial institutions will be exempted from all requirements except the cash transaction reporting requirement. The exemptions will be prescribed by order in the Gazette.</p>
 
 **Working with the PSMD Sector**
 
