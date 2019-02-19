@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Moneylenders (Amendment) Bill
-permalink: /news/press-releases/moneylenders-amendment-bill
+permalink: /news/press-releases/moneylenders--amendment--bill
 breadcrumb: Press Releases
 collection_name: news
 ---
