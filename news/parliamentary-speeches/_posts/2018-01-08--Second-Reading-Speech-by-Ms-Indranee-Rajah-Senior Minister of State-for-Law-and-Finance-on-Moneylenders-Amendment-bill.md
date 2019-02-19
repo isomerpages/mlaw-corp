@@ -116,7 +116,7 @@ collection_name: news
 {:start="23"}
 23. Clause 6 of the Bill introduces a new section 6A, which requires that all licensed moneylenders be companies with a minimum paid-up capital not less than the prescribed amount. Following the recommendation of the ACML, this amount will be prescribed at $100,000. Today, nearly 70% of licensed moneylenders have already registered as companies.
 
-{:start="34"}
+{:start="24"}
 24. Clause 17 of the Bill will also impose a new requirement on every moneylender to submit annual audited accounts to the Registrar. Audit requirements are not unusual and are presently imposed on many regulated entities across various sectors. Given the nature of the moneylending business, there is greater imperative for independent audit supervision.
 
 {:start="25"}
