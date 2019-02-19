@@ -29,19 +29,24 @@ collection_name: news
 
 <u>(A) Enhancing Protection for Complainants in the Court Process</u>
 
+{:start="2"}
 2. A suite of measures has been introduced to enhance protection for complainants of sexual or child abuse offences, and to reduce the stress they face when participating in the criminal process.
 
+{:start="3"}
 3. The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge or the accused, without court permission. Complainants will give testimony behind closed doors, and may be allowed to testify behind a physical screen.
 
 <u>(B) Deferred Prosecution Agreements (“DPAs”)</u>
 
+{:start="4"}
 4. There will now be a formal framework for the Prosecution to enter into DPAs with corporate offenders accused of scheduled offences. Under a DPA, the Public Prosecutor agrees not to prosecute a corporation in exchange for compliance with a series of conditions.
 
+{:start="5"}
 5. The ability to enter into DPAs will be beneficial to the public at large:
 
 * It better equips Singapore to investigate large-scale, complex corporate crimes, and bring the truly culpable individuals to justice. For instance, the Public Prosecutor may (as a condition of the DPA) require a company to produce documentary evidence or assist in investigations against its former managers and directors. This aids successful prosecutions while averting costly investigations and litigation.
 * The Public Prosecutor may also make it a condition in the DPA that the company undertakes corporate reform measures. This reduces the risk of future offending by the corporation, and thus protects the public from harm.
 
+{:start="6"}
 6. At the same time, the Ministry of Law has introduced safeguards to ensure that DPAs will lead to just outcomes. In particular,
 
 * All DPAs must be approved by the High Court. The High Court must be satisfied that (i) the agreement is in the interests of justice, and (ii) its terms are fair, reasonable and appropriate.
@@ -49,16 +54,21 @@ collection_name: news
 
 <u>(C) Expansion of Community Sentencing</u>
 
+{:start="7"}
 7. Community sentences are sentences that combine punishment with rehabilitation. They were positively received when first introduced in 2011, and have produced good results.
 
+{:start="8"}
 8. The amendments expand the eligibility criteria for community sentences in a controlled manner. For example, community sentences will now be available to offenders who had previously served short imprisonment terms or previous terms of Reformative Training. This will allow more offenders to benefit from rehabilitative opportunities.
 
+{:start="9"}
 9. Finally, to encourage compliance with community sentences, the courts are now empowered to impose a suspended imprisonment sentence along with a community sentence. The imprisonment sentence automatically takes effect if an offender breaches the conditions of his community sentence.
 
 <u>(D) Strengthening the Bail / Personal Bond Regime</u>
 
+{:start="10"}
 10. Courts will now have discretion to order electronic tagging as a condition of bail/personal bond. This will allow more accused persons to benefit from the bail/personal bond regime.
 
+{:start="11"}
 11. However, to prevent errant accused persons from absconding or perverting the course of justice, other aspects of the bail/personal bond regime have been tightened. These include:
 
 * The court will have discretion to withhold bail for bailable offences, if it believes that the accused will abscond whilst on bail.
@@ -67,10 +77,13 @@ collection_name: news
 
 <u>(E) Extending Video-Link Hearings to Pleas of Guilt and Sentencing</u>
 
+{:start="12"}
 12. Currently, an accused who is on remand can appear before a court through live video-link in proceedings such as applications for bail or release on personal bond, and applications for extension of the accused’s remand.
 
+{:start="13"}
 13. With the amendments, video-link hearings will be extended to hearings of pleas of guilt and sentencing for accused persons on remand.
 
+{:start="14"}
 14. The extension of video-link hearings will further reduce the need for escorting accused persons to the courtroom. This will minimise security risks, and reduce reliance on security manpower and other resources to conduct such escorts. At the same time, due process is not compromised: accused persons must still be physically present in complex hearings like trials, and the court retains the discretion to direct an accused to appear in court.
 
 
