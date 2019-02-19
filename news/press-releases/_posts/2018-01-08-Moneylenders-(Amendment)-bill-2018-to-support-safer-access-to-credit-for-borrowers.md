@@ -48,6 +48,6 @@ collection_name: news
 {:start="11"}
 11. MinLaw will complement these reforms to professionalise the moneylending industry by encouraging good business practices and better business models that can benefit borrowers. To spur these improvements, MinLaw will explore lifting the current moratorium in a limited and controlled fashion, to allow a few new players with established track records in related financial areas to pilot new business models. More details will be announced in due course.
 
-[1] [https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/moneylenders--amendment--bill.html](news/press-releases/moneylenders--amendment--bill)
+[1] [https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/moneylenders--amendment--bill.html](/moneylenders--amendment--bill)
 
 [2] The cap only applies to Singapore citizens and permanent residents.
