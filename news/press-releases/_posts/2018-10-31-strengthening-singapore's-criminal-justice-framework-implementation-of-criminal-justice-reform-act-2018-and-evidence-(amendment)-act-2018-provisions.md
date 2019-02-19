@@ -6,6 +6,8 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+31 Oct 2018 Posted in [Press releases](/news/press-releases)
+
 1.  The Evidence (Amendment) Act 2018 and various provisions of the Criminal Justice Reform Act 2018 (“CJRA”) will come into force on 31 October 2018.[1] These include:
     * Giving vulnerable victims added protection during court processes;
     * Providing more options for sentencing and dealing with offenders, e.g. introducing a framework for Deferred Prosecution Agreements, and expanding the eligibility criteria for Community Sentences; and
