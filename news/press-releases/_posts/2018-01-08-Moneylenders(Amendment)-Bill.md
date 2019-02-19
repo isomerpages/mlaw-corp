@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-8 Jan 2018 Posted in Press releases
+8 Jan 2018 Posted in [Press releases](/news/press-releases)
 
 **<u>First Reading on Moneylenders (Amendment) Bill - 6 Nov 2017</u>** 
 
@@ -28,7 +28,7 @@ collection_name: news
 
  
 
-Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Moneylenders (Amendment) Bill
+[Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Moneylenders (Amendment) Bill](/news/parliamentary-speeches/second-reading-speech-by-ms-indranee-rajah--senior-minister-of-s)
 
  
 
@@ -36,5 +36,5 @@ Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and
 
  
 
-Press Release on Moneylenders (Amendment) Bill 2018 to to Support Safer Access to Credit for Borrowers
+[Press Release on Moneylenders (Amendment) Bill 2018 to to Support Safer Access to Credit for Borrowers](/news/press-releases/moneylenders--amendment--bill-2018-to-support-safer-access-to-cr)
 
