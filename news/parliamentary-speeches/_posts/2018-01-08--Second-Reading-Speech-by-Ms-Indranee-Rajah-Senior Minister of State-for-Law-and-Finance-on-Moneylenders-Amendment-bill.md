@@ -5,7 +5,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-ms-indranee-raj
 collection_name: news
 ---
 
-8 Jan 2018 Posted in Parliamentary speeches and responses
+8 Jan 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches/)
 
 1. Mr Deputy Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 
