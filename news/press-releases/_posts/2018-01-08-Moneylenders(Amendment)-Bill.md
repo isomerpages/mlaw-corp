@@ -8,11 +8,11 @@ collection_name: news
 
 8 Jan 2018 Posted in Press releases
 
-<u>**First Reading on Moneylenders (Amendment) Bill - 6 Nov 2017**</u>
+**<u>First Reading on Moneylenders (Amendment) Bill - 6 Nov 2017</u>** ub
 
  
 
-[Fact Sheet on Moneylenders (Amendment) Bill](/files/new/press-releases/2018/01/FactsheetMLB.pdf)
+[Fact Sheet on Moneylenders (Amendment) Bill](/files/news/press-releases/2018/01/FactsheetMLB.pdf)
 
  
 
