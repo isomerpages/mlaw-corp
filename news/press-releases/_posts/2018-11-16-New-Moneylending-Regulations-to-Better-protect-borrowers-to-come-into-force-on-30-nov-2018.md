@@ -58,7 +58,7 @@ collection_name: news
 {:start="8"}
 8. In addition, it is now an offence for any licensed moneylender to enter into a loan contract that breaches regulatory caps on interest and fees.
 
-**Professionalising the Moneylending Industry (Phase 2) **
+**Professionalising the Moneylending Industry (Phase 2)**
 
 {:start="9"}
 9. Legislative changes relating to the professionalisation of the moneylending industry will take effect in the first quarter of 2019. All licensed moneylenders will be required to be incorporated as companies limited by shares with a minimum amount of paid-up capital of $100,000, and to submit annual audited accounts to the Registry of Moneylenders.
