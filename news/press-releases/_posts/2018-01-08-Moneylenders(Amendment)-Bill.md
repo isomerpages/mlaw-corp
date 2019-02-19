@@ -8,7 +8,7 @@ collection_name: news
 
 8 Jan 2018 Posted in Press releases
 
-**<u>First Reading on Moneylenders (Amendment) Bill - 6 Nov 2017</u>** ub
+**<u>First Reading on Moneylenders (Amendment) Bill - 6 Nov 2017</u>** 
 
  
 
@@ -24,7 +24,7 @@ collection_name: news
 
  
 
-<u>**Second Reading on Moneylenders (Amendment) Bill - 8 Jan 2018**</u>
+**<u>Second Reading on Moneylenders (Amendment) Bill - 8 Jan 2018</u>**
 
  
 
@@ -32,7 +32,7 @@ Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and
 
  
 
-<u>**Third Reading on Moneylenders (Amendment) Bill - 8 Jan 2018**</u>
+**<u>Third Reading on Moneylenders (Amendment) Bill - 8 Jan 2018</u>**
 
  
 
