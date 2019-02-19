@@ -12,15 +12,15 @@ collection_name: news
 
  
 
-[Fact Sheet on Moneylenders (Amendment) Bill](/files/news/press-releases/2018/01/FactsheetMLB.pdf)
+[Fact Sheet on Moneylenders (Amendment) Bill(PDF, 0.2MB)](/files/news/press-releases/2018/01/FactsheetMLB.pdf)
 
  
 
-[Infographic on How the New Aggregate Loan Cap Works](/files/news/press-releases/2018/01/NewAggregateLoanCap.pdf)
+[Infographic on How the New Aggregate Loan Cap Works(PDF, 0.5MB)](/files/news/press-releases/2018/01/NewAggregateLoanCap.pdf)
 
  
 
-[Infographic on the Benefits of the Changes to the Bill](/files/news/press-releases/2018/01/BenefitsChangesMLB.pdf)
+[Infographic on the Benefits of the Changes to the Bill(PDF, 0.2MB)](/files/news/press-releases/2018/01/BenefitsChangesMLB.pdf)
 
  
 
