@@ -63,7 +63,7 @@ collection_name: news
 {:start="9"}
 9. Legislative changes relating to the professionalisation of the moneylending industry will take effect in the first quarter of 2019. All licensed moneylenders will be required to be incorporated as companies limited by shares with a minimum amount of paid-up capital of $100,000, and to submit annual audited accounts to the Registry of Moneylenders.
 
-[Past Press Releases on Moneylenders (Amendment) Bill](/news/press-releases/moneylenders--amendment--bill) l
+[Past Press Releases on Moneylenders (Amendment) Bill](/news/press-releases/moneylenders--amendment--bill) 
 
 <sup>[1]</sup>The Moneylenders (Amendment) Act 2018 was passed by the Parliament on 8 January 2018.  
 <sup>[2]</sup>The aggregate loan caps apply to all holders of Work Passes, Dependant’s Passes, Student Passes and Long Term Visit Passes. Holders of Short Term Visit Passes (up to 90 days) will not be covered.
