@@ -27,13 +27,13 @@ collection_name: news
 </tr>
 <tr>
 <td>Less than $10,000</td>
-<td rowspan="2">$3,000</td>
-<td>$1,500</td>
+<td rowspan="2" align="center">$3,000</td>
+<td align="center">$1,500</td>
 </tr>
 
 <tr>
 <td>At least $10,000 and less than $20,000</td>
-<td>$3,000</td>
+<td align="center">$3,000</td>
 </tr>
 
 <tr>
