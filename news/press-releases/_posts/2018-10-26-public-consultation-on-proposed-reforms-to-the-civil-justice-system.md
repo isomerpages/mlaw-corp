@@ -112,6 +112,8 @@ Email: MLAW_Consultation@mlaw.gov.sg
 <sup>[2]</sup>P&P costs are costs awarded to the successful litigant as compensation for the legal expense he has incurred to put up his case.
 
 
+rp 
+
 
 
 
