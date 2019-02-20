@@ -8,14 +8,14 @@ collection_name: news
 
 8 Jan 2018 Posted in [Press releases](/news/press-releases)
 
-1. Parliament passed the Moneylenders (Amendment) Bill[1] today. It supports safer access to credit by providing better protection for borrowers, strengthening the regulation of licensed moneylenders and professionalising the moneylending industry.
+1. Parliament passed the Moneylenders (Amendment) Bill<sup>[1]</sup> today. It supports safer access to credit by providing better protection for borrowers, strengthening the regulation of licensed moneylenders and professionalising the moneylending industry.
 
 2. The Bill implements the recommendations by the Advisory Committee on Moneylending (ACML).
 
 **Better Protection for Borrowers**
 
 {:start="3"}
-3. The Bill allows the Minister for Law to introduce an aggregate loan cap in the Moneylenders Rules to set an overall limit on the amount that an individual[2] may borrow from all moneylenders, combined. It replaces the present loan caps, which only limit the amount that an individual may borrow from any single moneylender. The following caps will be introduced:
+3. The Bill allows the Minister for Law to introduce an aggregate loan cap in the Moneylenders Rules to set an overall limit on the amount that an individual<sup>[2]</sup> may borrow from all moneylenders, combined. It replaces the present loan caps, which only limit the amount that an individual may borrow from any single moneylender. The following caps will be introduced:
 
 * No more than $3,000 from all moneylenders combined for individuals earning less than $20,000 a year; and
 
