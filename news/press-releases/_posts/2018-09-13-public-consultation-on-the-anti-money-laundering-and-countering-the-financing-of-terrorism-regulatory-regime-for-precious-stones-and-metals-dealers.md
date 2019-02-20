@@ -41,7 +41,7 @@ collection_name: news
 
  
 {:start="7"}
-7. The full public consultation paper may be viewed online at https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html.
+7. The full public consultation paper may be viewed online at [https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html.](/news/public-consultations)
 
  
 
