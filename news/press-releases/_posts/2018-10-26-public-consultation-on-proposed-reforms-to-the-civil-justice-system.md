@@ -49,7 +49,7 @@ collection_name: news
         
     5.4. *Review of the legal costs framework<sup>[1]</sup>*
     
-      * Introduce the use of scale legal costs and to emphasise the principle that in general, solicitor-and-client costs should be equal to party-and-party (P&P) costs[2]. This is to achieve the following:
+      * Introduce the use of scale legal costs and to emphasise the principle that in general, solicitor-and-client costs should be equal to party-and-party (P&P) costs<sup>[2]</sup>. This is to achieve the following:
       * Signal clearly to parties that there is a fixed price the moment they decide to resolve the dispute in court. This allows them to weigh the consequences and decide whether it is worthwhile to incur the legal costs; and
       * Incentivise solicitors to try to resolve the dispute quickly and obtain the fixed price for less time and effort so that the solicitors can have the capacity to take on more cases.
         
