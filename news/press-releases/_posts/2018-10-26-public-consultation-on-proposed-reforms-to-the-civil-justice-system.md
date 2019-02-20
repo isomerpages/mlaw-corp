@@ -33,16 +33,16 @@ collection_name: news
 
     5.1. *Grant the courts greater control and flexibility over proceedings*
     
-       * When an action is commenced, the court will take control instead of leaving parties to determine the pace and intensity of the proceedings;
-       * The trial judge and registrar will be given the autonomy and flexibility to manage their cases.
+      * When an action is commenced, the court will take control instead of leaving parties to determine the pace and intensity of the proceedings;
+      * The trial judge and registrar will be given the autonomy and flexibility to manage their cases.
         
     5.2. *Simplify and expedite applications and appeals on procedural matters so that disputes are resolved on the factual and legal merits.*
 
-       * Speed up appeals from applications by requiring the parties to file only written submissions with the appeal proceeding as a rehearing based on documents filed by the parties, and hearing all such appeals together;
-       * Allow lower courts maximum autonomy with appellate intervention only if substantial injustice will be caused;
-       * Move parties quickly from procedural skirmishes to the main battle on the merits of the case;
-       * Require less formality for appeals in applications and more formality only for appeals on the merits after trials;
-       * Make appellate hearings more effective by allowing parties to make only such oral submissions as the appellate court orders.
+      * Speed up appeals from applications by requiring the parties to file only written submissions with the appeal proceeding as a rehearing based on documents filed by the parties, and hearing all such appeals together;
+      * Allow lower courts maximum autonomy with appellate intervention only if substantial injustice will be caused;
+      * Move parties quickly from procedural skirmishes to the main battle on the merits of the case;
+      * Require less formality for appeals in applications and more formality only for appeals on the merits after trials;
+      * Make appellate hearings more effective by allowing parties to make only such oral submissions as the appellate court orders.
         
     5.3. *Allow the court to determine the number of applications that parties can file and when parties can file them*
         * Among other objectives, this is to minimise the practice of seeking to amend pleadings very close to the commencement of trial or even on the first day of trial, resulting in wastage of trial time and possibly resulting in adjournment of the trial.
@@ -112,7 +112,7 @@ Email: MLAW_Consultation@mlaw.gov.sg
 <sup>[2]</sup>P&P costs are costs awarded to the successful litigant as compensation for the legal expense he has incurred to put up his case.
 
 
-rp 
+rpq 
 
 
 
