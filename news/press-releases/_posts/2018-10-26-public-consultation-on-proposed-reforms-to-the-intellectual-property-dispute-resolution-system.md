@@ -56,12 +56,12 @@ collection_name: news
 {:start="9"}
 9. All comments and feedback should be titled “IPDR public consultation comments” and submitted by 30 November 2018 via post or email to:
 
-<span style="text-align:center">Intellectual Property Policy Division</span>
-<span style="text-align:center">Ministry of Law</span>
-<span style="text-align:center">100 High Street</span>
-<span style="text-align:center">#08-02 The Treasury</span>
-<span style="text-align:center">Singapore 179434</span>
-<span style="text-align:center">Email: MLAW_Consultation@mlaw.gov.sg</span>
-w
+<span style="text-align:center">Intellectual Property Policy Division</span>  
+<span style="text-align:center">Ministry of Law</span>  
+<span style="text-align:center">100 High Street</span>  
+<span style="text-align:center">#08-02 The Treasury</span>  
+<span style="text-align:center">Singapore 179434</span>  
+<span style="text-align:center">Email: MLAW_Consultation@mlaw.gov.sg</span>  
+wx
 
 <sup>[1]</sup>For more information, please see the Press Release on “Public Consultation on Proposed Reforms to the Civil Justice System” (26 Oct 2018).
