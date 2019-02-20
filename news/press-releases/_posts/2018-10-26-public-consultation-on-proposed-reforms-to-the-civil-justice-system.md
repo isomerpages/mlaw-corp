@@ -16,6 +16,7 @@ collection_name: news
 
 *Civil Justice Commission (CJC)*
 
+{:start="3"}
 3. The establishment of the CJC was announced by the Chief Justice on 5 January 2015. The CJC was set up with the following terms of reference:
 
     * To transform, not merely reform, the litigation process by modernising it, enhancing efficiency and speed of adjudication and maintaining costs at reasonable levels.
@@ -24,9 +25,10 @@ collection_name: news
 
     * Such other aspects as the Chief Justice may direct from time to time.
     
-    
+{:start="4"}    
 4. The CJC also recognised the need to ensure that the Rules of Court provide flexibility for the court to do right for each individual case, and ensure that parties will not be denied justice because of accidental procedural flaws.
 
+{:start="5"}
 5. The CJC’s key recommendations include:
 
     1. *Grant the courts greater control and flexibility over proceedings*
