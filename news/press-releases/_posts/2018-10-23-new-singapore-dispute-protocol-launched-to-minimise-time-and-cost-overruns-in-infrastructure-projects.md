@@ -30,8 +30,8 @@ collection_name: news
 
 9. Mr Chow Kok Fong, Chairman of the Working Group and Board Member of SIMC and SMC, said: “The new protocol has been carefully crafted to ensure successful project delivery is not compromised by disputes that may arise during the course of the project. As infrastructure needs in Asia grow, parties will find the protocol to be a helpful tool for dispute management in mega infrastructure projects, by virtue of its flexibility, customisability, and institutional support.”
 
-Please click here for a copy of the Protocol - Singapore Infrastructure Dispute-Management Protocol 
+Please click here for a copy of the Protocol - [Singapore Infrastructure Dispute-Management Protocol(PDF ,0.5MB)](/files/news/press-releases/2018/10/SIDP Protocol.pdf) 
 
 <sup>[1]</sup>Asian Development Bank. Meeting Asia’s Infrastructure Needs. Mandaluyong City, Philippines: Asian Development Bank, 2017.
 
-<sup>[2]</sup>Tim McManus, Managing big projects: The lessons of experience, Mckinsey & Company website <https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience#> (accessed on 17 October 2018))
+<sup>[2]</sup>Tim McManus, Managing big projects: The lessons of experience, Mckinsey & Company website [<https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience#>](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience)(accessed on 17 October 2018))
