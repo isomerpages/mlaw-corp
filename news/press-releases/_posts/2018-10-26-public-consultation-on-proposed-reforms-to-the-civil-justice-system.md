@@ -60,8 +60,61 @@ collection_name: news
     * All costs agreements must be in writing and the solicitors are expected to explain to their clients the costs consequences if they opt out of scale costs.
     
 *Civil Justice Review Committee (CJRC)*    
+
+{:start="6"}
+6. The CJRC was established on 18 May 2016 by the Ministry of Law. The CJRC’s key recommendations cover reforms to pre-trial procedure, trial and appeals procedure and post-trial procedure.
+
+{:start="7"}
+7. The CJRC’s key recommendations include:
+
+    7.1. *Enhance judicial control over civil litigation.*
+     * *Judges can order parties to focus on key issues and provide case management direction to fit individual cases,and this would help reduce the length and cost of proceedings.*
+     * The enhanced judicial control also includes the following:
+         * Enable Judges to work with parties to formulate the List of Issues which crystallises the issues in                     dispute, and determine matters such as the scope of disclosure of documents, as well as the scope of factual and expert evidence which should be adduced.
+         * Issue directions relating to factual witnesses, e.g. the number of factual witnesses, the necessity and                     scope of evidence to be adduced, the manner in which evidence will be adduced;
+         * Exercise greater control of the conduct of trial by directly questioning witnesses, restricting the issues  and time for examination of witnesses, and direct the order in which any speech or evidence by a witness should be made.
+         
+    7.2. *Implement default case management track with options.*
+     * Majority of cases to proceed along a default track with streamlined procedure, with options available for time- and cost-intensive procedures.
+     * Parties will be given the flexibility and autonomy to select options for general discovery or the use of party-appointed experts, by mutual consent.
+     * If parties are unable to agree, the court will retain the discretion to allow the option on an application by any party.
     
-    
+    7.3. *Introduce professional training requirements and public education to support the recommendations.*
+     * Conduct public education to inform members of public of key features of the new civil justice framework;
+     * Conduct training for Judges and lawyers to ensure that they are suitably equipped with the skills to navigate the new civil justice system.
+     
+    7.4. *Review the implementation of the CJRC’s recommendations two years post-implementation.* 
+     * The CJRC proposes that MinLaw work with the courts to assess the implementation of its recommendations after two years.  They should do the following:
+         * Determine if the new procedures have led to time- and cost-savings.
+         * Determine if parties prefer the default positions or the options for more time-and cost-intensive procedures.
+         * Find out if court users’ (litigants, witnesses and counsel) navigation of the civil justice system has been aided by an active judge, who gives guidance at each stage of the proceedings.
+     
+**<u>Invitation to Give Feedback</u>**
+     
+{:start="8"}
+8. The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.
+
+* Annex A - Public Consultation Ppaer on Civil Justice Reforms
+* Annex B - Report of Civil Justice Review Committee
+* Annex C - Civil Justice Commission Report
+* Annex D - Supereme Court of Judicature Act (Chapter 322, Section 80) Rules of Court
+
+9. All comments and feedback should be submitted by 31 January 2019 via post or email to:
+
+Legal Policy Division  
+Ministry of Law  
+100 High Street  
+#08-02 The Treasury  
+Singapore 179434  
+Email: MLAW_Consultation@mlaw.gov.sg
+
+<sup>[1]</sup>Update: The proposal to equate solicitor-and-client costs to party-and-party costs, fixed according to a scale, is no longer a part of the consultations.  
+<sup>[2]</sup>P&P costs are costs awarded to the successful litigant as compensation for the legal expense he has incurred to put up his case.
+
+
+
+
+
     
 
     
