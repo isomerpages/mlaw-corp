@@ -94,10 +94,10 @@ collection_name: news
 {:start="8"}
 8. The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.
 
-* Annex A - Public Consultation Ppaer on Civil Justice Reforms
-* Annex B - Report of Civil Justice Review Committee
-* Annex C - Civil Justice Commission Report
-* Annex D - Supereme Court of Judicature Act (Chapter 322, Section 80) Rules of Court
+* [Annex A - Public Consultation Ppaer on Civil Justice Reforms](/files/news/press-releases/2018/10/Annex A Public consultation paper on civil justice reforms.pdf)
+* [Annex B - Report of Civil Justice Review Committee](/files/news/press-releases/2018/10/Annex B CJRC Report.pdf)
+* [Annex C - Civil Justice Commission Report](/files/news/press-releases/press-releases/2018/10/Annex C Civil Justice Commission Report.pdf)
+* [Annex D - Supereme Court of Judicature Act (Chapter 322, Section 80) Rules of Court](/files/news/press-releases/2018/10/Annex D SCJA Rules of Court 2018 Rev Ed.pdf)
 
 {:start="9"}
 9. All comments and feedback should be submitted by 31 January 2019 via post or email to:
