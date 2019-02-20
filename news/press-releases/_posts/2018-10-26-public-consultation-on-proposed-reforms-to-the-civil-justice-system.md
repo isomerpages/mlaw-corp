@@ -1,3 +1,11 @@
+---
+layout: leftnav-page-content
+title: Public Consultation on Proposed Reforms to the Civil Justice System
+permalink: /news/press-releases/public-consultation-reforms-to-civil-justice-system
+breadcrumb: Press Releases
+collection_name: news
+---
+
 26 Oct 2018 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) and Supreme Court launched a public consultation today to gather feedback on the proposed reforms to the civil justice system. The public consultation will run from 26 October to 31 January 2019.
