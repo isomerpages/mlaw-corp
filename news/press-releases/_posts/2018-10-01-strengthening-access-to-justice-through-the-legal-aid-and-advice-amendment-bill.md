@@ -10,7 +10,7 @@ collection_name: news
 
 1. The Ministry of Law (MinLaw) tabled the Legal Aid and Advice (Amendment) Bill for First Reading in Parliament today. The Bill amends the Legal Aid and Advice Act (LAAA), first, to simplify the means test for legal aid; second, to provide greater flexibility for aid to be given to those who fail the means test but have extenuating circumstances; and third, to improve the administration of legal aid. These amendments will help strengthen access to justice.
 
-2. Civil legal aid is administered by the Legal Aid Bureau (LAB), a department under MinLaw. Set up in 1958, LAB celebrates its 60th Anniversary this year. Since 1958, LAB has received about 400,000 applications for legal aid. In 2017, LAB received about 9,000 applications; most were for matrimonial, claims and probate matters.
+2. Civil legal aid is administered by the Legal Aid Bureau (LAB), a department under MinLaw. Set up in 1958, LAB celebrates its 60<sup>th</sup> Anniversary this year. Since 1958, LAB has received about 400,000 applications for legal aid. In 2017, LAB received about 9,000 applications; most were for matrimonial, claims and probate matters.
 
 **Simplifying the Means Test for Legal Aid**
 
@@ -67,10 +67,10 @@ collection_name: news
 {:start="7"}
 7. Currently, the Director of Legal Aid has the discretion under the LAAA to grant aid to those who fail the means test under four specific circumstances defined in the Act:
 
-* Applicant living separate and apart from spouse: The Director may disregard the income of the applicant’s spouse (introduced in 1958);
-* Sudden physical or mental disability: The Director may grant the applicant a deduction of $2,000 when computing his disposable income, and up to $30,000 in savings when computing his disposable capital (introduced in 2007);
-* Sudden loss of income: The Director may assess the applicant’s income over a period of 6 months (instead of 12 months) (introduced in 2007); and
-* Family proceedings involving children or protection orders between spouses/ ex-spouses: The Director may exclude a private property with an annual value of up to $20,000 (instead of $13,000) and an additional deduction of $5,000 when computing the applicant’s disposable capital (introduced in 2013).
+* <u>Applicant living separate and apart from spouse:</u> The Director may disregard the income of the applicant’s spouse (introduced in 1958);
+* <u>Sudden physical or mental disability:</u> The Director may grant the applicant a deduction of $2,000 when computing his disposable income, and up to $30,000 in savings when computing his disposable capital (introduced in 2007);
+* <u>Sudden loss of income:</u> The Director may assess the applicant’s income over a period of 6 months (instead of 12 months) (introduced in 2007); and
+* <u>Family proceedings involving children or protection orders between spouses/ ex-spouses:</u> The Director may exclude a private property with an annual value of up to $20,000 (instead of $13,000) and an additional deduction of $5,000 when computing the applicant’s disposable capital (introduced in 2013).
 
 {:start="8"}
 8. The Director has no discretion to provide aid to other applicants who fail the means test and do not satisfy any of these four circumstances.
