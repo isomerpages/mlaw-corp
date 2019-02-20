@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-13 Sep 2018 Posted in Press releases
+13 Sep 2018 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) invites the public to provide feedback on the new anti-money laundering and countering the financing of terrorism (AML/CFT) regulatory regime for precious stones and metals dealers (PSMD) in Singapore. The public consultation will run for one month, from **13 September 2018** to **12 October 2018**.    
 
@@ -61,7 +61,7 @@ Ministry of Law
 URA East Wing, #07-11  
 Singapore 069118  
   
-Email: MLAW_Consultation@mlaw.gov.sg
+Email: [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
 
  
 
