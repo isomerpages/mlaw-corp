@@ -63,6 +63,4 @@ Ministry of Law
 Singapore 179434  
 Email: MLAW_Consultation@mlaw.gov.sg
 
-nh
-
 <sup>[1]</sup>For more information, please see the Press Release on “Public Consultation on Proposed Reforms to the Civil Justice System” (26 Oct 2018).
