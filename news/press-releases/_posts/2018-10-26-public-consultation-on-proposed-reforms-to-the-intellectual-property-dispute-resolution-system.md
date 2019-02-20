@@ -21,7 +21,7 @@ collection_name: news
 
     * implementing a default case management track with streamlined procedures, with options available for time- and cost-intensive procedures; and
 
-    * enhancing judicial control over matters such as the number of factual witnesses, the necessity and scope of evidence to be adduced, and the manner in which evidence will be adduced.[1]
+    * enhancing judicial control over matters such as the number of factual witnesses, the necessity and scope of evidence to be adduced, and the manner in which evidence will be adduced.<sup>[1]</sup>
 
 **Proposed IP Dispute Resolution Reforms**
 
