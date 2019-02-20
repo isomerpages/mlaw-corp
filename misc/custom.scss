@@ -378,6 +378,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+/* style to color links */
+
+.content a{
+    color: #900	
+}
+
 .hero-dropdown {
   display: flex;
   padding-top: 1.75rem;
