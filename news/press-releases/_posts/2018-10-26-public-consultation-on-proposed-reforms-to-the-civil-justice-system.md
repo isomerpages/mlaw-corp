@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: leftnav-page-content
 title: Public Consultation on Proposed Reforms to the Civil Justice System
 permalink: /news/press-releases/public-consultation-reforms-to-civil-justice-system
 breadcrumb: Press Releases
@@ -99,6 +99,7 @@ collection_name: news
 * Annex C - Civil Justice Commission Report
 * Annex D - Supereme Court of Judicature Act (Chapter 322, Section 80) Rules of Court
 
+{:start="9"}
 9. All comments and feedback should be submitted by 31 January 2019 via post or email to:
 
 Legal Policy Division  
@@ -112,7 +113,7 @@ Email: MLAW_Consultation@mlaw.gov.sg
 <sup>[2]</sup>P&P costs are costs awarded to the successful litigant as compensation for the legal expense he has incurred to put up his case.
 
 
-rpqstu 
+rpqstuv 
 
 
 
