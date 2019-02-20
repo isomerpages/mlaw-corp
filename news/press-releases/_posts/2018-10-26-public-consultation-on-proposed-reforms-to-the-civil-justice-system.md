@@ -44,14 +44,14 @@ collection_name: news
       * Require less formality for appeals in applications and more formality only for appeals on the merits after trials;
       * Make appellate hearings more effective by allowing parties to make only such oral submissions as the appellate court orders.
         
-    5.3. *Allow the court to determine the number of applications that parties can file and when parties can file them*
+    5.3. *Allow the court to determine the number of applications that parties can file and when parties can file them*  
         * Among other objectives, this is to minimise the practice of seeking to amend pleadings very close to the commencement of trial or even on the first day of trial, resulting in wastage of trial time and possibly resulting in adjournment of the trial.
         
     5.4. *Review of the legal costs framework<sup>[1]</sup>*
     
-      * Introduce the use of scale legal costs and to emphasise the principle that in general, solicitor-and-client costs should be equal to party-and-party (P&P) costs[2]. This is to achieve the following:
-      * Signal clearly to parties that there is a fixed price the moment they decide to resolve the dispute in court. This allows them to weigh the consequences and decide whether it is worthwhile to incur the legal costs; and
-      * Incentivise solicitors to try to resolve the dispute quickly and obtain the fixed price for less time and effort so that the solicitors can have the capacity to take on more cases.
+       * Introduce the use of scale legal costs and to emphasise the principle that in general, solicitor-and-client costs should be equal to party-and-party (P&P) costs[2]. This is to achieve the following:
+       * Signal clearly to parties that there is a fixed price the moment they decide to resolve the dispute in court. This allows them to weigh the consequences and decide whether it is worthwhile to incur the legal costs; and
+       * Incentivise solicitors to try to resolve the dispute quickly and obtain the fixed price for less time and effort so that the solicitors can have the capacity to take on more cases.
         
     * No costs will be awarded for applications unless there is unreasonable conduct;
     * Parties will generally be awarded full costs even if they settle early or discontinue proceedings;
@@ -112,7 +112,7 @@ Email: MLAW_Consultation@mlaw.gov.sg
 <sup>[2]</sup>P&P costs are costs awarded to the successful litigant as compensation for the legal expense he has incurred to put up his case.
 
 
-rpqs 
+rpqst 
 
 
 
