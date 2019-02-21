@@ -15,4 +15,4 @@ collection_name: news
 2. We thank all respondents for their feedback.  The Ministry of Law considered the suggestions in detail and will be incorporating the feedback in the drafting of the omnibus Insolvency Bill.  Our consolidated responses to the report and the feedback received are provided in ANNEX A.  We did not reflect the recommendations for which no feedback was received and where the Ministry of Law was in agreement. 
 
 
-Annex A: Summary of feedback on the ILRC report and MinLaw's response
+[Annex A: Summary of feedback on the ILRC report and MinLaw's response(PDF, 0.5MB)](/files/news/public-consultations/2013/10/MinLaw Response to Feedback on ILRC Report.pdf)
