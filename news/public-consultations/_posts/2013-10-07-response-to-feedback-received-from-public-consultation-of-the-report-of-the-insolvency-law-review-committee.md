@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Response to feedback received from Public Consultation of the report of the Insolvency Law Review Committee
-permalink: /news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0.html
+permalink: /news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0
 breadcrumb: Public Consultation
 collection_name: news
 ---
