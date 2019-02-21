@@ -6,7 +6,7 @@ breadcrumb: Public Consultation
 collection_name: news
 ---
 
-Consultation Period:
+**Consultation Period:**    
 7 Oct 2013 to 2 Dec 2013
 
 1. The Ministry of Law held a public consultation from 7 October 2013 to 2 December 2013 on the report of the Insolvency Law Review Committee.  We received submissions from various sources including industry associations, members of the industry and lay persons.  The submissions were generally supportive of the Committee’s report.  There was some feedback that disagreed with certain recommendations in the report as well as proposals made on issues not considered by the Committee.  In addition, there were inputs to fine-tune recommendations in the report.
