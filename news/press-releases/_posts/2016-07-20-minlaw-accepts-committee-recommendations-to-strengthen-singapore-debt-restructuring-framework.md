@@ -33,11 +33,11 @@ collection_name: news
 * **Addressing the perception gap**, by raising international awareness of Singapore’s restructuring capabilities, with increased involvement in international insolvency organisations and/or providing thought leadership through research.
 
  
-
+{:start="5"}
 5. A full list of the Committee’s recommendations can be found in Annex A.
 
  
-[Annex A - Full list of the Committee’s recommendations](/files/news/press-releases/2016/07/Annex A-Recommendations of the Committee.pdf)
+[Annex A - Full list of the Committee’s recommendations](/files/news/press-releases/2016/07/Annex A - Recommendations of the Committee.pdf)
  
 
 **MINISTRY OF LAW**  
