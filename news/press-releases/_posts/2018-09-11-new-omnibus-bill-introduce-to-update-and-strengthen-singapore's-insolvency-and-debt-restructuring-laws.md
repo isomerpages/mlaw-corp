@@ -113,6 +113,7 @@ collection_name: news
 
 Further information on the ILRC’s recommendations, as well as the report, can be found here and here.
 
+{:start="2"}
 2. In May 2015, the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“**Restructuring Committee**”) was formed. 
 
 * Building on the ILRC’s recommendations, which noted growing demand for debt restructuring in Asia, the recommendations focused on strengthening the debt restructuring ecosystem in Singapore.
@@ -121,14 +122,19 @@ Further information on the ILRC’s recommendations, as well as the report, can 
 
 Further information on the Restructuring Committee’s recommendations, as well as the report itself, can be found here and here.
 
+{:start="3"}
 3. A phased approach was taken to implement the recommendations of the two Committees.'
 
+{:start="4"}
 4. <u>First phase:</u> In July 2015, amendments were made to the Bankruptcy Act to create a more rehabilitative discharge framework for bankrupts, and to encourage institutional creditors to exercise financial prudence when granting credit (“**BA Reforms**”).
 
+{:start="5"}
 5. <u>Second phase:</u> In March 2017, amendments to the Companies Act enhanced Singapore’s corporate rescue and restructuring processes, positioning Singapore as a forum of choice for debt restructuring (“**CA Reforms**”).
 
+{:start="6"}
 6. <u>Final phase:</u> The Insolvency, Restructuring and Dissolution Bill (first read in Parliament on 10 September 2018) implements the remaining recommendations of the ILRC and Restructuring Committee, which were not enacted in the BA Reforms and CA Reforms, together with further reforms to the debt restructuring regime, pursuant to industry feedback.
 
+{:start="7"}
 7. In addition to the public consultations on the reports of the ILRC and Debt Restructuring Committee conducted in 2013 and 2016 respectively, the proposed changes and the provisions in the Bill were finalised after consultation with industry bodies and leading practitioners. Respondents generally agreed with the proposed changes and supported the Bill. Suggestions by the respondents were considered in detail, several of which have been incorporated into the Bill.
 
 
