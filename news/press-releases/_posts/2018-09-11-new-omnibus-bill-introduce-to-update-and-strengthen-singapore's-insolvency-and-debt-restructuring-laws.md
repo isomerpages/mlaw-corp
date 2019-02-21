@@ -120,7 +120,7 @@ Further information on the ILRC’s recommendations, as well as the report, can 
 
 * Public consultation was held on the Restructuring Committee’s report in May 2016, and the Government broadly accepted the Restructuring Committee’s recommendations on 20 July 2016.
 
-Further information on the Restructuring Committee’s recommendations, as well as the report itself, can be found here and here.
+Further information on the Restructuring Committee’s recommendations, as well as the report itself, can be found [here](/news/public-consultations/public-consultation-on-the-report-of-the-committee-to-strengthen) and [here](/news/press-releases/minlaw-accepts-committee-recommendations-to-strengthen-singapore).
 
 {:start="3"}
 3. A phased approach was taken to implement the recommendations of the two Committees.'
