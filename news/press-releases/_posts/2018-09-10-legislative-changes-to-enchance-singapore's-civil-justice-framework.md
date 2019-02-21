@@ -14,35 +14,36 @@ collection_name: news
 
 **Key Amendments to the Supreme Court of Judicature Act**
 
+{:start="3"}
 3. The key features of the Bill are as follows:
 
 **<u>(A) Enhance and improve court processes</u>**
 
-* Clarify that the courts can conduct hearings via video conference or other electronic means.  
+* *Clarify that the courts can conduct hearings via video conference or other electronic means*.  
     * This will help save and time and costs as lawyers need not travel to court for hearings that can be conducted via electronic means.
 
  
 
-* Clarify that the Rules Committee is empowered to make rules relating to how factual and expert evidence is to be presented in court.
+* *Clarify that the Rules Committee is empowered to make rules relating to how factual and expert evidence is to be presented in court*.
     * This allows the Rules Committee to take into account trends in specific cases and develop rules to optimise the use of court time in the admission of evidence.
 
  
 
-* Grant the courts greater powers to control vexatious proceedings.  
+* *Grant the courts greater powers to control vexatious proceedings*.  
     * This amendment grants the courts power to make different types of civil restraint orders to address varying degrees of vexatious conduct. This introduces a more nuanced approach to restrain a vexatious litigant, taking into account the facts of each case.
     * The court may also stay the vexatious proceedings and order that no further documents be filed by a party if the filing of documents would be vexatious or for an improper purpose.  
     * These proposals were drawn from best practices in the United Kingdom and Canada.
 
  
 
-* Allowing the courts to impose late filing fees for non-compliance with the Rules of Court, court orders or directions, and practice directions.
+* *Allowing the courts to impose late filing fees for non-compliance with the Rules of Court, court orders or directions, and practice directions*.
     * This seeks to encourage parties and their lawyers to comply with the Rules of Court, court orders and practice directions, so as to ensure the effectiveness of court sessions.
  
 
-* Requiring the leave of court before an application can be made to admit further evidence on appeal, except for matters which occurred subsequent to the date of decision.
+* *Requiring the leave of court before an application can be made to admit further evidence on appeal, except for matters which occurred subsequent to the date of decision*.
     * This aims to encourage parties to present all relevant evidence at the first instance hearing.
  
-* Amend the monetary threshold to $60,000 for decisions of the District and Magistrates’ Courts which are appealable with leave to the High Court.
+* *Amend the monetary threshold to $60,000 for decisions of the District and Magistrates’ Courts which are appealable with leave to the High Court*.
     * Currently, decisions of the District and Magistrates’ Courts are appealable to the High Court with leave if the amount in dispute does not exceed $50,000. However, the jurisdiction of the Magistrates’ Court is $60,000, which results in gap where cases between $50,000 and $60,000 can be appealed to the High Court without leave. The proposed amendment seeks to close this gap.
 
  
@@ -50,26 +51,26 @@ collection_name: news
 
  
 
-* Allowing the Court of Appeal to determine a broader range of matters based on written submissions.
+* *Allowing the Court of Appeal to determine a broader range of matters based on written submissions*.
     * The Court of Appeal may determine (i) any application and (ii) appeals from the Singapore International Commercial Court if parties consent, based on written submissions.
     * This will allow appropriate cases to be dealt with in an expedited manner without the need to conduct hearings.
 
  
 
-* Allowing the Minister to specify certain matters in a Schedule to the Supreme Court of Judicature Act (SCJA).
+* *Allowing the Minister to specify certain matters in a Schedule to the Supreme Court of Judicature Act (SCJA)*.
     * The Minister will be allowed to specify the following in a Schedule to the SCJA which can be amended by the Minister in consultation with CJ:
         * Civil matters which may or may not be appealed with leave
         * Number of judges needed to exercise the civil jurisdiction of the Court of Appeal for different types of matters.
     * This allows the list of matters specified in the Schedule to be amended quickly to adapt to demands on the ground.
 
  
-* Leave of court is required to vary or discharge directions or orders made under section 36.
+* *Leave of court is required to vary or discharge directions or orders made under section 36*.
     * This amendment inserts a new requirement that leave of court is required to make an application to discharge or vary directions or orders made pursuant to applications ancillary to a pending appeal.
     * The requirement for leave of court ensures that court resources are used appropriately to deal with meritorious applications.
 
  
 
-* Empowering the Court of Appeal to summarily dismiss appeals or applications on its own motion.
+* *Empowering the Court of Appeal to summarily dismiss appeals or applications on its own motion*.
     * This power can be exercised in two circumstances:
         * Where it lacks the jurisdiction to hear the matter; or
         * Where the matter relates to an issue that has already been decided by the Court of Appeal.
@@ -109,7 +110,7 @@ collection_name: news
 
 **<u>Feedback Received</u>**
 
-(a) ***Grant the courts greater powers to control vexatious proceedings***
+***(a) Grant the courts greater powers to control vexatious proceedings***
 
 {:start="3"}
 3. Some respondents were concerned that the proposed civil restraint orders would adversely affect a party’s day in court, especially since section 74 of the SCJA already empowers the High Court to restrain a vexatious litigant. MinLaw’s view is that the existing power under section 74 is an extreme remedy and may not always be appropriate. The proposed amendments seek to introduce a more gradated approach to deal with different types of vexatious conduct. This accords with notions of fairness as varying degrees of vexatious conduct will receive different severity of orders. While MinLaw recognizes the need for a party to have his / her day in court, this right to be heard is not unfettered and mechanisms should be put in place to ensure that court processes are not being abused.
