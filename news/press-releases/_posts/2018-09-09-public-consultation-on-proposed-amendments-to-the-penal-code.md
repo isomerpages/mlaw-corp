@@ -109,7 +109,7 @@ collection_name: news
 **Invitation to Provide Feedback**
 
 {:start="20"}
-20. We welcome your views on the above proposals, as well as any other suggestions you may have on the Penal Code. The full report can be found on MHA, Mlaw and REACH’s website. Please submit your feedback to us by 30 September 2018 via email at PCR_Feedback@mha.gov.sg, or via hard copy to the below address:
+20. We welcome your views on the above proposals, as well as any other suggestions you may have on the Penal Code. The full report can be found on MHA, Mlaw and REACH’s website. Please submit your feedback to us by 30 September 2018 via email at [PCR_Feedback@mha.gov.sg](mailto:MHA_PC_consultation@mha.gov.sg), or via hard copy to the below address:
 
 **Ministry of Home Affairs**  
 New Phoenix Park   
@@ -133,7 +133,7 @@ Penal Code Review Committee Report
 
 <sup>[1]</sup> A “vulnerable person” is any person who by reason of mental or physical infirmity, disability or incapacity is substantially unable to protect himself or herself from abuse, neglect or self-neglect.
 
-**Annex**
+**Annex**  
 <u>Factsheet on the Penal Code Review Committee</u>
 
 1. The Penal Code Review Committee (PCRC) was convened by the Ministry of Home Affairs and Ministry of Law in July 2016, to undertake a review of the Penal Code, and make recommendations on reforming it.
@@ -167,7 +167,6 @@ Penal Code Review Committee Report
 
 **<u>Members of the Penal Code Review Committee</u>**
 
- 
 <table class="table-h">
  <tr>
  <th colspan="2">Current members</th>
