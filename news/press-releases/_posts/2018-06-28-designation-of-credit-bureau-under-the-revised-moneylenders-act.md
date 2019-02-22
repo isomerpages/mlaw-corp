@@ -16,9 +16,12 @@ collection_name: news
 
 **About DP Information Network Pte Ltd**
 
+{:start="4"}
 4. DP Info is a Singapore credit and business information bureau formed in 1978. It develops credit ratings and credit scoring models for Singapore companies. DP Info is a company of Experian.
 
+{:start="5"}
 5. Following a competitive tender process, DP Info was first appointed by MinLaw in November 2015 to design and develop the MLCB, which was successfully launched on 1 March 2016.
 
+{:start="6"}
 6. The MLCB is a central repository of data on borrowers’ loans and repayment records with licensed moneylenders. The MLCB allows licensed moneylenders to assess the creditworthiness of borrowers, and help borrowers to avoid borrowing beyond their means. 
 
