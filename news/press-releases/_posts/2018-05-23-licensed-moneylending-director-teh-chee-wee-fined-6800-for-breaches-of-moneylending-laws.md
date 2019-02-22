@@ -55,7 +55,7 @@ collection_name: news
   </tr>
   <tr>
     <td>1.</td>
-    <td>Car City Leasing   
+    <td>Car City Leasing 
     
 (Liew Yoon Kwai)</td>
       <td>05/09/2011</td>
@@ -164,18 +164,19 @@ collection_name: news
     <td>314,000</td>
  </tr> 
  
-  <tr>
-    <td>13.</td>
-    <td>i.        Money Plant Pte Ltd
+<tr>
+<td rowspan="2">13.</td>
+<td>i. Money Plant Pte Ltd</td>
+<td rowspan="2">10/06/2013</td>
+<td>2,000</td>
+</tr>
 
-ii.       Cho Hong Chye Alvin
+<tr>
+<td>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+<td>15,000</td>
+</tr>
 
-a.k.a. Zhu Hongcai Alvin</td>
-    <td>10/06/2013</td>
-    <td>2,000  
-15,000</td>
- </tr>
- 
+
  <tr>
     <td>14.</td>
     <td>Primacy Management Services
@@ -351,20 +352,21 @@ a.k.a. Zhu Hongcai Alvin</td>
  </tr>
  
  <tr>
-    <td>33.</td>
-    <td>Moneyline Express Pte Ltd
-
-i.   Chiang Tin Wei, Samuel  
-ii.  Chuah Kim Tiong Eric</td>
-    <td>  
-    21/04/2014
-06/02/2015</td>
-    <td>  
- 2,500  
-162,000</td>
+ <td rowspan="2">33.</td>
+ <td>Moneyline Express Pte Ltd 
+ 
+ i. Chiang Tin Wei Samuel</td>
+ <td>31/04/2014</td>
+ <td>2,500</td>
+ 
  </tr>
-
-
+ <tr>
+ <td>ii. Chuah Kim Tion Eric</td>
+ <td>06/02/2015</td>
+ <td>162,000</td>
+ </tr>
+ 
+ 
  <tr>
     <td>34.</td>
     <td>Money3 Pte Ltd 
@@ -394,18 +396,22 @@ ii.  Chuah Kim Tiong Eric</td>
  </tr>
  
  <tr>
-    <td>37.</td>
-    <td>Skyline Credit  
-  
-i. Hu Sufen  
-ii. Chng Kok Keng</td>
-    <td>25/02/2016</td>
-    <td>  
-    13,000  
-12,000</td>
+ <td rowspan="2">37.</td>
+ <td>Skyline Credit
+ 
+ i. Hu Sufen</td>
+ <td rowspan="2">25/02/2016</td>
+ 
+ <td>13,000</td>
+ 
  </tr>
  
  <tr>
+ <td>ii. Chng Kok Keng</td>
+ <td>12,000</td>
+ </tr>
+ 
+  <tr>
     <td>38.</td>
     <td>Denaro Pte Ltd 
     
@@ -459,7 +465,12 @@ ii. Chng Kok Keng</td>
     <td>22,500</td>
  </tr>
 
+
 </table>
 
-rst
+
+
+
+
+rstu
 
