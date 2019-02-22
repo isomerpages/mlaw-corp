@@ -32,7 +32,7 @@ collection_name: news
 5. <u>Allow the Rules Committee constituted under section 80 of the SCJA to make rules relating to how factual or expert evidence is to be adduced.</u> Admission of evidence can be time-consuming. Empowering the Rules Committee allows it to take into account the trends seen in specific cases and develop rules to optimise the use of court time.
 
  
-
+{:start="6"}
 6. <u>Grant the courts greater powers to control vexatious proceedings.</u> Today, the High Court is only able to ban all further legal proceedings brought by a vexatious litigant. This is an extreme remedy and may not always be appropriate. A more nuanced approach is proposed to allow the High Court or Court of Appeal to act on its own motion to restrain a vexatious litigant to varying degrees, taking into account the facts of the case. These amendments draw from the UK and Canada. It is proposed that the High Court or Court of Appeal be empowered to impose the following orders on its own motion, on an application by a party or on the application of the Attorney-General:
 
  
@@ -56,15 +56,15 @@ collection_name: news
 * An order that no further documents be filed by a party to proceedings if the court is satisfied that the filing of further documents by that party would be vexatious or for an improper purpose.
 
  
-
+{:start="7"}
 7. <u>Allow the courts to impose late filing fees for non-compliance with the Rules of Court, court orders, and practice directions.</u> The aim of this is to encourage parties and their lawyers to comply with the Rules of Court, court orders and practice directions.
 
  
-
+{:start="8"}
 8. <u>Require the leave of court before an application can be made to admit further evidence on appeal.</u> An exception will be allowed where the further evidence relates to matters that occurred subsequent to the first instance hearing. This is consistent with the principle of encouraging parties to present all relevant evidence at the first instance hearing.
 
  
-
+{:start="9"}
 9. <u>Amend the monetary threshold to $60,000 for decisions of the District and Magistrates’ Courts which are appealable with leave to the High Court to $60,000.</u> Currently, decisions of the District and Magistrates’ Courts are appealable to the High Court with leave if the amount in dispute does not exceed $50,000. However, the jurisdiction of the Magistrates’ Court is $60,000, which results in a gap where cases between $50,000 and $60,000 can be appealed to the High Court without leave. The proposed amendment seeks to close this gap.
 
  
@@ -72,11 +72,11 @@ collection_name: news
 **b. Strengthening procedures for cases before the Court of Appeal**
 
  
-
+{:start="10"}
 10. <u>Allow the Court of Appeal to determine a broader range of matters based on written submissions.</u> At present, only applications for leave to appeal may be determined without oral arguments. Broadening the scope of applications which may be determined in this manner will allow appropriate cases to be dealt with in an expedited manner.
 
  
-
+{:start="11"}
 11. <u>Allow the Minister to specify in a Schedule to the SCJA</u> -
 
  
@@ -88,23 +88,25 @@ collection_name: news
 * <u>The minimum number of judges that may hear an appeal in civil and ancillary matters.</u> This will also allow flexibility to balance judicial resources against the volume of appeals.
 
  
-
+{:start="12"}
 12. <u>Allow appeals in civil matters from the State Courts to be brought directly to the Court of Appeal in situations where a ruling by the Court of Appeal is required urgently</u>. Leave of the Court of Appeal will be required and the appeal must involve points of law of general public importance.
 
  
-
+{:start="13"}
 13. <u>Empower a Judge of Appeal to hear applications ancillary to a pending appeal.</u> These applications can also be decided based on written submissions. Having the Judge of Appeal hear the applications reduces an additional level of appeal.
 
  
-
+{:start="14"}
 14. <u>Allow the Court of Appeal to summarily dismiss appeals or applications on its own motion</u> in two circumstances, namely where it lacks jurisdiction to hear the matter or if the matter relates to an issue that has already been decided by the Court of Appeal. The court may call upon the applicant to show cause as to why the appeal or application should not be summarily dismissed.
 
  
 
 **III. Invitation to give feedback**
 
+{:start="15"}
 15. The public is invited to give comments and feedback on the proposed amendments to the SCJA from 2 July 2018 to 30 July 2018.
 
+{:start="16"}
 16. Respondents are requested to observe these guidelines:
 
  
@@ -116,7 +118,7 @@ collection_name: news
 * Focus your comments on how the policy changes can be improved or whether the changes are necessary and if not, why.
 
  
-
+{:start="17"}
 17. Comments and feedback can be submitted via post or email as follows:
 
  
@@ -129,5 +131,5 @@ Singapore 179434
 Email: <MLAW_Consultation@mlaw.gov.sg>
 
  
-
+{:start="18"}
 18.  The Ministry of Law can only consider comments and feedback that are received no later than 30 July 2018. We seek your kind understanding on this.
