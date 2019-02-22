@@ -27,7 +27,7 @@ collection_name: news
 * Mr Ho Chee Pong (Director-General, Singapore Customs)
 * Ms Lock Yin Mei (Partner, Allen & Overy LLP)
  
-6. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see Annex A for their profiles.
+6. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see [Annex A(PDF, 0.1MB))](/files/news/press-releases/2018/07/SLA Board press release 23 Jul 2018 - Annex A.pdf) for their profiles.
 
 **Out-going Member** 
  
