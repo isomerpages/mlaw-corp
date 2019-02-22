@@ -55,7 +55,7 @@ collection_name: news
   </tr>
   <tr>
     <td>1.</td>
-    <td>Car City Leasing 
+    <td>Car City Leasing   
     
 (Liew Yoon Kwai)</td>
       <td>05/09/2011</td>
@@ -461,6 +461,5 @@ ii. Chng Kok Keng</td>
 
 </table>
 
-r
-
+rs
 
