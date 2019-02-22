@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Licensed Moneylending Director, Teh Chee Wee, Fined $6,800 for Breaches of Moneylending Laws
 permalink: /news/press-releases/licensed-moneylending-director-fined-for-breaches-of-moneylending-laws
 breadcrumb: Press Releases
 collection_name: news
 ---
 
-23 May 2018 Posted in Press releases
-
+23 May 2018 Posted in [Press releases](/news/press-releases)
 
 1. The Registry of Moneylenders, a department under the Ministry of Law, brought charges in the State Courts on 18 December 2017 against Teh Chee Wee (郑 志 威), 42 years old, the director of the moneylending company, RTG Credit (S) Pte Ltd.
 
