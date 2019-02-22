@@ -13,6 +13,8 @@ collection_name: news
 
 **<u>Enhance and improve court processes</u>**
 
+
+{:start="3"}
 3. The main proposed amendments to enhance and improve court processes are: 
 
 * Allowing courts to conduct hearings via video conference or other electronic means. This promotes greater use of technology to enhance efficiency in court processes and helps to reduce time and costs.
@@ -30,6 +32,8 @@ collection_name: news
 
 **<u>Strengthen procedures for cases before the Court of Appeal</u>**
 
+
+{:start="4"}
 4. Other proposed amendments to strengthen procedures for cases before the Court of Appeal are:
 
 * Allowing the Court of Appeal to determine a broader range of matters based on written submissions. This will allow appropriate cases to be dealt with in an expedited manner without the need to conduct hearings.
@@ -44,6 +48,8 @@ collection_name: news
 
 **Invitation for feedback**
 
+
+{:start="5"}
 5. Interested parties may view the public consultation paper online at [https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act.html](https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act.html) and submit feedback in electronic or hard copy form via:
 
 Legal Policy Division  
