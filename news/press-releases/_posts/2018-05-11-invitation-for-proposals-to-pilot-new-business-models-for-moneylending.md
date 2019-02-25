@@ -13,7 +13,7 @@ collection_name: news
 
  
 
-2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at [Annex A(PDF, 0.2MB)](/files/news/press-releases/2018/05/Annex A - Pilot Invitation.pdf), and in the specified form at [Annex B(PDF, 0.04MB)](/files/new/press-releases/2018/05/Annex B - Pilot Application Form.xlsx). The deadline for the submission of proposals for the Pilot is 20 July 2018.
+2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at [Annex A(PDF, 0.2MB)](/files/news/press-releases/2018/05/Annex A - Pilot Invitation.pdf), and in the specified form at [Annex B(PDF, 0.04MB)](/files/news/press-releases/2018/05/Annex B - Pilot Application Form.xlsx). The deadline for the submission of proposals for the Pilot is 20 July 2018.
 
  
 
@@ -38,5 +38,6 @@ Applicants must have paid-up capital of at least $1 million, to ensure that they
 
 
 {:start="7"}
-7. The validity of the pilot licence is expected to begin in 2019 and conclude in 2020, following which MinLaw will evaluate the results of the pilot and consider options for refining the moneylending regulatory regime.
+7. The validity of the pilot licence is expected to begin in 2019 and conclude in 2020, following which MinLaw will evaluate the results of the pilot and consider options for refining the moneylending regulatory regime.  
+  
 For more details, please go to https://www.mlaw.gov.sg/content/rom/en/pilotprogramme.html 
