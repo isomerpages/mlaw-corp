@@ -35,7 +35,8 @@ collection_name: news
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are to be exported under the CA and TMA, and
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are imported or to be exported under the RDA.
     
-* <u>Table 1</u> below shows a summary of the enhanced border enforcement measures marked as ‘New’.
+* <u>Table 1</u> below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
+  
 
 <table class="table-h">
   <tr>
@@ -85,8 +86,9 @@ collection_name: news
   <td>Passed</td>
   <td>New</td>
   </tr>
+  </table>
   
-</table>
+  
 
 
 **(II) New Powers for Customs to Obtain and Provide Information**
@@ -159,4 +161,4 @@ collection_name: news
 
 <sup>[1]</sup> The enhanced border enforcement measures in the GIA, which have been introduced in the new GIA and passed in April 2014, will also be implemented within 3 years of the entry into force of EUSFTA, in accordance with EUSFTA obligations.
 
-
+g
