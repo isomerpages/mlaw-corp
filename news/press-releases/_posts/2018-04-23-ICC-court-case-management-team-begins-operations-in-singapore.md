@@ -6,6 +6,10 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+
+23 Apr 2018 Posted in [Press releases](/news/press-releases)
+
+
 1. The Ministry of Law and the International Chamber of Commerce today announce that the Secretariat of the International Court of Arbitration of the International Chamber of Commerce has officially inaugurated its new [case management office in Singapore](https://iccwbo.org/media-wall/news-speeches/singapore-ministry-law-international-chamber-commerce-sign-mou-boost-arbitration/){:target="_blank"} – an endeavor made possible via a Memorandum of Understanding (“MOU”) between ICC and the Singapore Ministry of Law signed in June 2017.
 
 2. The Singapore case management office will contribute to Singapore’s position as a leading dispute resolution hub and will expertly handle cases in real time, to better serve the dispute resolution needs of users in Singapore and the wider region. Extending ICC’s global footprint beyond its Paris headquarters, the Singapore office is the latest addition to the ICC Court’s case management teams located around the world, following the establishment of case management teams in Hong Kong, New York and Sao Paulo.
