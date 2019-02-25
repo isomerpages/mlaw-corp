@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Moneylenders (Amendment) Bill
 permalink: /news/press-releases/moneylenders--amendment--bill
 breadcrumb: Press Releases
