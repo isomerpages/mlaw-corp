@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Update on Qualifying Foreign Law Practice Licences Renewed in 2014
 permalink: /news/press-releases/update-on-QFLP-licences-renewed-in-2014
 breadcrumb: Press Releases
