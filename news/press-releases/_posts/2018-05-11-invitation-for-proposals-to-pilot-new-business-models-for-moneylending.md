@@ -13,7 +13,7 @@ collection_name: news
 
  
 
-2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at Annex A, and in the specified form at Annex B. The deadline for the submission of proposals for the Pilot is 20 July 2018.
+2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at [Annex A(PDF, 0.2MB)](/files/news/press-releases/2018/05/Annex A - Pilot Invitation.pdf), and in the specified form at [Annex B(PDF, 0.04MB)](/files/new/press-releases/2018/05/Annex B - Pilot Application Form.xlsx). The deadline for the submission of proposals for the Pilot is 20 July 2018.
 
  
 
