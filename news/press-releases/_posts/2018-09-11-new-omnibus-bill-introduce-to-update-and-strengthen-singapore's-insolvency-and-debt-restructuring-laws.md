@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: New Omnibus Bill Introduced to Update and Strengthen Singapore’s Insolvency and Debt Restructuring Laws
 permalink: /news/press-releases/omnibus-bill-introduced-to-update-singapore-insovlency-debtrestructuring-laws
 breadcrumb: Press Releases
