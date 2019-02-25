@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Successful Launch of the Inaugural ASEAN Law Academy
 permalink: /news/press-releases/Successful-Launch-of-the-Inaugural-ASEAN-Law-Academy
 breadcrumb: Press Releases
