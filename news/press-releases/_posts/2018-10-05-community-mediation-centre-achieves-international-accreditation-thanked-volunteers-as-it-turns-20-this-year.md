@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Community Mediation Centre achieves international accreditation, thanked volunteers as it turns 20 this year
 permalink: /news/press-releases/Community-Mediation-Centre-achieves-international-accreditation
 breadcrumb: Press Releases
