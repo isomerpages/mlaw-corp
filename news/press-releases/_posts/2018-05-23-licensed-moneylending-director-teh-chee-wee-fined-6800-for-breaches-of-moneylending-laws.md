@@ -355,13 +355,12 @@ collection_name: news
  <tr>
  <td rowspan="3">33.</td>
  <td>Moneyline Express Pte Ltd </td>
- <td rowspan="2">31/04/2014</td>
- <td rowspan="2">2,500</td>
- 
  </tr>
  
  <tr>
  <td>i. Chiang Tin Wei Samuel</td>
+ <td>31/04/2014</td>
+ <td>2,500</td>
  </tr>
  
  <tr>
@@ -481,5 +480,5 @@ collection_name: news
 
 
 
-rstuv
+
 
