@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title:  First Reading of Criminal Procedure Code(Amendment) Bill
 date:   2019-02-11
 permalink: /news/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendment-Bill
