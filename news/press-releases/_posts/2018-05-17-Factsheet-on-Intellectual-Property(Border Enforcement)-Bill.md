@@ -35,8 +35,7 @@ collection_name: news
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are to be exported under the CA and TMA, and
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are imported or to be exported under the RDA.
     
-* <u>Table 1</u> below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
-
+* Table 1 below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
 
 <table class="table-h">
   <tr>
@@ -48,45 +47,36 @@ collection_name: news
   <th>Trade Mark</th>
   <th>GI</th>
   <th>Design</th>
-  
   </tr>
-  
   <tr>
-  <td>Ex officio for imports</td>
-  <td>Existing</td>
-  <td>Existing</td>
-  <td>Passed</td>
-  <td>-</td>
-  
-  
+    <td>Ex officio for imports</td>
+    <td>Existing</td>
+    <td>Existing</td>
+    <td>Passed</td>
+    <td>-</td>  
   </tr>
-  
   <tr>
     <td>Ex officio for exports</td>
-  <td>Existing</td>
-  <td>Existing</td>
-  <td>Passed</td>
-  <td>-</td>
+    <td>Existing</td>
+    <td>Existing</td>
+    <td>Passed</td>
+    <td>-</td>
   </tr>
-  
-  
   <tr>
-  <td>IPR holder imports</td>
-  <td>Existing</td>
-  <td>Existing</td>
-  <td>Passed</td>
-  <td>New</td>
+    <td>IPR holder imports</td>
+    <td>Existing</td>
+    <td>Existing</td>
+    <td>Passed</td>
+    <td>New</td>
   </tr>
-  
-  
   <tr>
     <td>IPR holder exports</td>
-  <td>New</td>
-  <td>New</td>
-  <td>Passed</td>
-  <td>New</td>
+    <td>New</td>
+    <td>New</td>
+    <td>Passed</td>
+    <td>New</td>
   </tr>
-  </table>
+</table>
   
   
 
