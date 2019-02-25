@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: First High Level International Dispute Resolution Conference to Strengthen China-Singapore Cooperation in Legal Services
 date: 2019-01-24
 permalink: /news/press-releases/first-high-level-international-dispute-resolution-conference
