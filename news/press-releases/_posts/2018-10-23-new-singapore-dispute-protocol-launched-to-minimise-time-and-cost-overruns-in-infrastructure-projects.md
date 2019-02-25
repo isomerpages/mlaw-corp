@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: New Singapore Dispute Protocol Launched to Minimise Time and Cost Overruns in Infrastructure Projects
 permalink: /news/press-releases/launch-of-SIDP-reduces-time-and-cost-overruns-in-infrastructure-projects
 breadcrumb: Press Releases
