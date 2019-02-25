@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: First Reading of Criminal Law Reform Bill and the Government's Response to Feedback on it
 date: 2019-02-11
 permalink: /news/press-releases/First-reading-of-criminal-law-reform-bill-and-the-Governments-response
