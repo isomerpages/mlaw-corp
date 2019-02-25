@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Singapore and China lawyers link up to jointly seize Belt and Road opportunities
 permalink: /news/press-releases/singapore-and-china-lawyers-link-up-to-jointly-seize-belt-and-road-opportunities
 breadcrumb: Press Releases
