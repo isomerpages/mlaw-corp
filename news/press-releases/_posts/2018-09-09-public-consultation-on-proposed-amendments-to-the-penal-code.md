@@ -168,7 +168,8 @@ The Penal Code Review Committee Report is available here:
 **Members of the Penal Code Review Committee**
 <table>
  <tr>
- <th colspan="2">Current members</th>
+   <td>Current members</td>
+   <td></td>
  </tr>
  <tr>
     <td>Indranee Rajah, S.C. (Co-chairperson)</td>
