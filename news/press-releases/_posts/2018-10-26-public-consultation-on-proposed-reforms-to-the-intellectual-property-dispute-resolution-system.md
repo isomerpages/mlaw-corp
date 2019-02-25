@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on Proposed Reforms to the Intellectual Property Dispute Resolution System
 permalink: /news/press-releases/public-consultation-proposed-reforms-IP-dispute-resolution-system
 breadcrumb: Press Releases
