@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on Proposed Reforms to the Civil Justice System
 permalink: /news/press-releases/public-consultation-reforms-to-civil-justice-system
 breadcrumb: Press Releases
