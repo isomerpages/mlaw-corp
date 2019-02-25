@@ -402,16 +402,16 @@ collection_name: news
 
  <tr>
  <td rowspan="3">37.</td>
- <td>Skyline Credit
- 
- i. Hu Sufen</td>
+ <td>Skyline Credit</td>
  <td rowspan="3">25/02/2016</td>
+  </tr>
  
+ <tr>
+ 
+ <td>i. Hu Sufen</td>
  <td>13,000</td>
  
  </tr>
- 
- <tr>i. Hu Sufen</tr>
  
  <tr>
  <td>ii. Chng Kok Keng</td>
