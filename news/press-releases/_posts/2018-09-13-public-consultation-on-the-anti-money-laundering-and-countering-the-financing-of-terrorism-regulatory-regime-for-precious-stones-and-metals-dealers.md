@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on the Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime For Precious Stones and Metals Dealers
 permalink: /news/press-releases/public-consultation-on-aml-cft-regulatory-regime
 breadcrumb: Press Releases
