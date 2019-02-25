@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Appointment of New Board Member to the Singapore Land Authority and Reappointment of Chairman and Three Members
 permalink: /news/press-releases/SLA-Board-appointments-2018
 breadcrumb: Press Releases
