@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on Proposed Amendments to the Penal Code
 permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendements-to-the-Penal-Code
 breadcrumb: Press Releases
