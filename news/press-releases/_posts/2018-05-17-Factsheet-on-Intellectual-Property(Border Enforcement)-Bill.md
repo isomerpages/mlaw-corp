@@ -37,9 +37,10 @@ collection_name: news
     
 * Table 1 below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
 
-<table class="table-h">
+
+<table>
   <tr>
-    <th rowspan="2">Action</td>
+    <th rowspan="2">Action</th>
     <th colspan="4">Scope of IPR</th>
   </tr>
   <tr>
