@@ -37,6 +37,7 @@ collection_name: news
     
 * <u>Table 1</u> below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
   
+&nbsp;
 
 <table class="table-h">
   <tr>
@@ -161,4 +162,4 @@ collection_name: news
 
 <sup>[1]</sup> The enhanced border enforcement measures in the GIA, which have been introduced in the new GIA and passed in April 2014, will also be implemented within 3 years of the entry into force of EUSFTA, in accordance with EUSFTA obligations.
 
-g
+gh
