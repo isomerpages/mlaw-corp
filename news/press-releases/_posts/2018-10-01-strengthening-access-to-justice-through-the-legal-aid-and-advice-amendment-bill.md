@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Strengthening Access to Justice through the Legal Aid and Advice (Amendment) Bill
 permalink: /news/press-releases/Strengthening-Access-to-Justice-through-the-Legal-Aid-and-Advice-Amendment-Bill
 breadcrumb: Press Releases
