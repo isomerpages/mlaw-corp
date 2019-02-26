@@ -24,6 +24,8 @@ collection_name: news
 
 *  Even when the Committee offered the option of Video Conference on any of these 14 days, HRW declined to participate.
 
+{:start="4"}
 4. Their latest statement leaves out any explanation for why they are unable to attend through video-conferencing, from an overseas location – at any time over a period of 14 days from 15 to 29 March.
 
+{:start="5"}
 5. HRW’s lack of enthusiasm in wanting to defend its Report is obvious.
