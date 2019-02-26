@@ -21,7 +21,7 @@ collection_name: news
 
 {:start="4"}
 4. The key features of the Bills are as follows:
-* <u>Video-recording of interviews</u>
+* Video-recording of interviews
     * Investigators will be allowed to take statements from witnesses via video recording.
     * This will assist the court to try cases more effectively by:
     
@@ -76,4 +76,4 @@ collection_name: news
 [Responses to the Feedback Received from the Public Consultation(PDF, 0.1MB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
 
 
-d
+de
