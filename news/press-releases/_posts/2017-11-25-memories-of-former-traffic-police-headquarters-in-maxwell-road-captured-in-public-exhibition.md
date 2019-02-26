@@ -45,10 +45,10 @@ collection_name: news
 {:start="10"}
 10. Constructed in 1928, 28 Maxwell Road was designed by Frank Dorrington Ward, the Government Architect of the Straits Settlements Public Works Department, when Singapore was still a British colony. Mr Ward also designed other familiar landmarks such as the former Supreme Court and the former Hill Street Police Station.
 
-{:start=11"}
+{:start="11"}
 11. From the 1930s to 1999, 28 Maxwell Road was used solely as the TP Headquarters. The building also housed Singapore’s first Driving Test Centre when driving tests were introduced in 1941, and was Singapore’s only driving test centre until the Queenstown Driving Test Centre opened in 1968. In 2007, it was gazetted as a conservation building by the Urban Redevelopment Authority.
 
 
 **MINISTRY OF LAW**  
 **25 NOVEMBER 2017**  
-[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno](/files/news/press-releases/2017/11/Postcards.pdf)
+[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno(PDF, 0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
