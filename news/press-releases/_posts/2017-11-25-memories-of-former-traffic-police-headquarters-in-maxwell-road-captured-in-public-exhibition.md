@@ -16,13 +16,13 @@ collection_name: news
 
 4. The exhibition’s centrepiece is a 1:50 scale model of the former TP Headquarters and its various rooms and functions. The model was built by a team of students from the Singapore University of Technology and Design (SUTD), to pay tribute to the many generations of TP personnel who served at 28 Maxwell Road. Based on interviews with nearly 20 TP personnel past and present, stories are told from the perspectives of four different groups of occupants over four time periods spanning 50 years:
 
-* Traffic policeman (1950 – 1965)
+    * Traffic policeman (1950 – 1965)
 
-*  Driving tester (1965 – 1978)
+    *  Driving tester (1965 – 1978)
 
-* Clerical officer (1975 – 1988)
+    * Clerical officer (1975 – 1988)
 
-* Mobile Squad officer (1985 – 1999)
+    * Mobile Squad officer (1985 – 1999)
 
 {:start="5"}
 5. As part of the exhibition, MinLaw also released a set of five limited edition postcards. The postcards were drawn by Mr David Pattiselanno, 78, and depict his experiences as a TP patrol officer in the 1950s and 1960s, with various iconic Singapore landmarks as backdrops. The public can collect these postcards at the exhibition. 
@@ -52,3 +52,5 @@ collection_name: news
 **MINISTRY OF LAW**  
 **25 NOVEMBER 2017**  
 [Set of Limited Edition Postcards Drawn by Mr David Pattiselanno(PDF, 0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
+
+rog
