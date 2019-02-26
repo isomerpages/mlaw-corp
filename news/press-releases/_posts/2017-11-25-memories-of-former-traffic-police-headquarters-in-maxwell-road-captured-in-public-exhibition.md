@@ -53,4 +53,3 @@ collection_name: news
 **25 NOVEMBER 2017**  
 [Set of Limited Edition Postcards Drawn by Mr David Pattiselanno(PDF, 0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
 
-rog
