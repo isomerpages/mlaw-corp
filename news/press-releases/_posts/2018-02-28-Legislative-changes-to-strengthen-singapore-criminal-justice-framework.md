@@ -21,7 +21,7 @@ collection_name: news
 
 {:start="4"}
 4. The key features of the Bills are as follows:
-* *<u>Video-recording of interviews</u>*
+* <u>Video-recording of interviews</u>
     * Investigators will be allowed to take statements from witnesses via video recording.
     * This will assist the court to try cases more effectively by:
     
@@ -74,3 +74,6 @@ collection_name: news
 [Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act(PDF, 0.09MB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
 
 [Responses to the Feedback Received from the Public Consultation(PDF, 0.1MB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
+
+
+d
