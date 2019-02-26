@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Select Commitee On Deliberate Online Falsehoods: Causes, Consequences and Countermeasures
-permalink: /news/press-releases/select-committee-deliberate-online-falsehoods
+title: Select Commitee On Deliberate Online Falsehoods Causes, Consequences and Countermeasures
+permalink: /news/press-releases//select-committee-deliberate-online-falsehoods
 breadcrumb: Press Releases
 collection_name: news
 ---
 
+
 5 Jan 2018 Posted in [Press releases](/news/press-releases)
 
-1. The Government will be asking Parliament to appoint a Select Committee to study the problem of deliberate online falsehoods and to recommend how Singapore should respond.
+1. The Government will be asking Parliament to appoint a Select Committee to study the problem of deliberate online falsehoods and to recommend how Singapore should respond
 
  
 
