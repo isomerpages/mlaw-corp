@@ -56,6 +56,7 @@ collection_name: news
 
  
 
+{:start="12"}
 12. SIMC was launched in 2014 by Chief Justice Menon and the Minister for Law, Mr K. Shanmugam S.C. It provides mediation services for parties in cross-border commercial disputes, in particular those doing business in Asia. It has over 70 renowned mediators from around the world, and over 65 technical experts from various industry sectors who can assist the mediator in complex commercial disputes involving technical questions.
 
  
@@ -64,10 +65,12 @@ collection_name: news
 
  
 
+{:start="13"}
 13. JAA was formed in 2003 to promote the practice of arbitration, and to keep its members updated on the latest developments in alternative dispute resolution. It has 395 members from all over Japan and is headquartered in Tokyo.
 
  
 
+{:start="14"}
 14. In 2016, recognising the growing trend for mediation of cross-border commercial disputes, a committee was established to look into the formation of Japan’s first and only dedicated international mediation centre. A decision was made for the centre to be located in the iconic city of Kyoto because of its popularity with international travellers and good travel infrastructure. Seeking privately negotiated settlements is a fundamental characteristic of the Japanese culture and Kyoto, being the centre of Japanese culture, is a natural choice for the centre. In fact, many such private negotiations were conducted at temples in Kyoto in the old days.
 
 
