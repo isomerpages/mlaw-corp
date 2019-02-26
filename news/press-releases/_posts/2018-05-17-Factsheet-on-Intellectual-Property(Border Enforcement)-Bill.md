@@ -35,7 +35,7 @@ collection_name: news
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are to be exported under the CA and TMA, and
     * On IPR holders’ request, allow the seizure of suspected infringing goods that are imported or to be exported under the RDA.
     
-* Table 1 below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
+* <u>Table 1</u> below shows a summary of the enhanced border enforcement measures marked as ‘New’.  
 
 
 <table>
