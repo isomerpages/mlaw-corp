@@ -15,7 +15,8 @@ collection_name: news
 
 * **Make clear that the Singapore International Commercial Court (“SICC”) has jurisdiction to hear any proceedings  relating to international commercial arbitration that the High Court may hear; and**
 
-* **Remove the procedure for “pre-action certification” applications to the SICC.**
+* **Remove the procedure for “pre-action certification” applications to the SICC.**  
+
 ---
 
 **Singapore International Commercial Court**
