@@ -35,7 +35,7 @@ collection_name: news
 * Dr Chong Yoke Sin (Chief, Enterprise Business Group, StarHub)
  
 
-5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see [Annex A]() for their profiles.
+5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see [Annex A](/files/news/press-releases/2017/07/SLA Board 2017 Annex A.pdf) for their profiles.
 
  
 
