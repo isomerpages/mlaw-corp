@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: who
 permalink: /our-work/who/
-breadcrumb: what
+breadcrumb: who
 collection_name: news
 ---
 
@@ -13,4 +13,4 @@ news
 
 i am who 
 
-jokester 
+jokester who
