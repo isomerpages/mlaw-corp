@@ -69,7 +69,7 @@ collection_name: news
 
  
 {:start="12"}
-12. Other proposed amendments and more details can be found on the Ministry of Law website.
+12. Other proposed amendments and more details can be found on the Ministry of Law [website](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-criminal-proce).
 
  
 {:start="13"}
