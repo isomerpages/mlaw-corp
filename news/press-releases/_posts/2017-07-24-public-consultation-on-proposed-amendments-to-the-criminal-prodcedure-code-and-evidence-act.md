@@ -6,6 +6,8 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+24 Jul 2017 Posted in [Press releases](/news/press-releases)
+
 
 1. The Ministry of Law is seeking public feedback on proposed amendments to the Criminal Procedure Code (CPC) and Evidence Act. The proposed amendments, which relate to the powers of investigators, court procedures and evidence, and sentencing and other powers of the court, **seek to enhance the fairness of existing procedures** and **ensure the accuracy and equity of outcomes in the criminal justice system**.
 
@@ -73,5 +75,5 @@ collection_name: news
 {:start="13"}
 13. The CPC provides the framework for criminal investigations and the procedure for criminal hearings, including trials and appeals. The Evidence Act provides the framework for all matters concerning evidence in court, including in criminal cases.
 
-[Fact Sheet on the Background of the CPC and the Evidence Act](/files/news/press-releases/2017/07/Background of CPC and Evidence Act.pdf)  
-[Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act](/files/news/press-releases/2017/07/Key Proposed Changes.pdf)
+[Fact Sheet on the Background of the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/press-releases/2017/07/Background of CPC and Evidence Act.pdf)  
+[Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/press-releases/2017/07/Key Proposed Changes.pdf)
