@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Memories of Former Traffic Police Headquarters in Maxwell Road Captured in Public Exhibition
-permalink: /news/press-releases/memories-of-former-traffic-police-headquarters-in-maxwell-road-c
+title: Follow Up Statement by Ministry of Law on Essex Court Chambers Duxton (Singapore Group Practice)
+permalink: /news/press-releases/follow-up-statement-by-ministry-of-law-on-essex-court-chambers-d
 breadcrumb: Press Releases
 collection_name: news
 ---
