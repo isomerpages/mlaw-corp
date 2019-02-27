@@ -8,7 +8,7 @@ collection_name: news
 
 21 Nov 2017 Posted in [Press releases](/news/press-releases)
 
-1. The Registry of Moneylenders, a department under the Ministry of Law, brought charges in the State Courts on 12 June 2017 against Tan Kim Wah Steven (? ? ?), 57 years old, the sole director and shareholder of the moneylending company, WST Credit Pte Ltd.
+1. The Registry of Moneylenders, a department under the Ministry of Law, brought charges in the State Courts on 12 June 2017 against Tan Kim Wah Steven (陈 金 华), 57 years old, the sole director and shareholder of the moneylending company, WST Credit Pte Ltd.
 
 2. WST Credit Pte Ltd held a moneylending licence from 28 October 2010 to 27 October 2017. The licence was not renewed after 27 October 2017.
 
