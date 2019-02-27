@@ -24,7 +24,7 @@ collection_name: news
 4. This process has culminated in wide-ranging legislative amendments being proposed to the CPC and Evidence Act. These amendments affect (a) the powers of investigators, (b) court procedures and evidence, and (c) sentencing and other powers of the court. Taken together, they serve to enhance the fairness of existing procedures, and to ensure the accuracy and equity of outcomes in the criminal justice system. The amendments strengthen the law and increase protection for the vulnerable in the system while striking a fair balance between the Defence and Prosecution.
 
 {:start="5"}
-5. A full index of the proposed amendments can be found in Annex A. The details of each of these amendments can be found in Annex B. A bullet-point summary of the key amendments can be found in Annex C, and some key proposals will be highlighted below. Unless otherwise stated, the proposed amendments are to the CPC.
+5. A full index of the proposed amendments can be found in [Annex A](). The details of each of these amendments can be found in [Annex B](). A bullet-point summary of the key amendments can be found in [Annex C](), and some key proposals will be highlighted below. Unless otherwise stated, the proposed amendments are to the CPC.
 
 **Enhancing the fairness of existing procedures**
 
@@ -40,7 +40,7 @@ collection_name: news
 8. The implementation of video recording of interviews will be phased and adopted incrementally, starting with the recording of suspects’ statements.
 
 {:start="9"}
-9. The full details of this proposal can be found in Annex B at s/n 1.
+9. The full details of this proposal can be found in [Annex B]() at s/n 1.
 
 *Establishing a Criminal Procedure Rules Committee*
 
@@ -48,7 +48,7 @@ collection_name: news
 10. Amendments are proposed to establish a Criminal Procedure Rules Committee chaired by the Chief Justice. This Committee will have the power to make court-related procedural rules to keep the court process nimble and up-to-date in the face of changing conditions.
 
 {:start="11"}
-11. The full details of this proposal can be found in Annex B at s/n 18.
+11. The full details of this proposal can be found in [Annex B]() at s/n 18.
 
 **Ensuring the accuracy and equity of outcomes**
 
@@ -66,9 +66,9 @@ collection_name: news
     * Making it a criminal offence to abscond while on bail, leave jurisdiction without permission when one’s travel documents have been impounded by investigators, or to agree to indemnify a surety.
 
 {:start="14"}
-14. The full details of this proposal can be found in Annex B at s/n 9.
+14. The full details of this proposal can be found in [Annex B]() at s/n 9.
 
-**Enhancing protection for complainants of sexual and child abuse offences during the court process**
+*Enhancing protection for complainants of sexual and child abuse offences during the court process*
 
 {:start="15"}
 15. Persons who complain of sexual or child abuse offences often face high degrees of stress and trauma when participating in the criminal process. In addition to the hardship they personally experience during the process, this can affect their ability to give evidence, which in turn affects the ability of the system to deliver a just outcome.
@@ -85,7 +85,7 @@ collection_name: news
     * A general prohibition on asking them questions about their sexual history and behaviour that do not relate to the charge, including their appearance, unless the court finds that it would be manifestly unjust not to allow such questions.
 
 {:start="17"}
-17. The full details of this proposal can be found in Annex B at s/n 13.
+17. The full details of this proposal can be found in [Annex B]() at s/n 13.
 
 *Expanding the community sentencing regime*
 
@@ -100,7 +100,7 @@ collection_name: news
 * Allowing courts to impose a suspended imprisonment sentence together with a community sentence. Upon breach of the community sentence, this imprisonment sentence will automatically apply. This will encourage compliance with the community sentence.
 
 {:start="20"}
-20. The full details of this proposal can be found in Annex B at s/n 31.
+20. The full details of this proposal can be found in [Annex B]() at s/n 31.
 
 *Enhancing the victim compensation order regime*
 
@@ -118,19 +118,19 @@ collection_name: news
 23. An internal protocol between the courts, the prosecution and the police will also be developed to standardise and simplify the fact-finding, quantification, and enforcement processes for compensation orders.
 
 {:start="24"}
-24. The full details of this proposal can be found in Annex B at s/n 32.
+24. The full details of this proposal can be found in [Annex B]() at s/n 32.
 
 **Invitation to give feedback** 
 
 {:start="25"}
-25. The public are invited to give comments and feedback on the proposed amendments to the CPC and Evidence Act from 24 July 2017 to 24 August 2017. A full index of the proposed amendments can be found in Annex A. The details of each of these amendments can be found in Annex B. A bullet-point summary of the key amendments can be found in Annex C.
+25. The public are invited to give comments and feedback on the proposed amendments to the CPC and Evidence Act from 24 July 2017 to 24 August 2017. A full index of the proposed amendments can be found in [Annex A](). The details of each of these amendments can be found in [Annex B](). A bullet-point summary of the key amendments can be found in [Annex C]().
 
 {:start="26"}
 26. Respondents are requested to observe these guidelines:
 
     * Indicate your name and the organisation you represent (if applicable) as well as contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary;
     * Focus your comments on how the proposed amendments can be made clearer, how the policy changes can be improved or whether the changes are necessary; and
-    * State clearly which specific proposals you are giving feedback on by referring to their serial number in Annex B.
+    * State clearly which specific proposals you are giving feedback on by referring to their serial number in [Annex B]().
 
 {:start="27"}
 27. Comments and feedback can be submitted via post or email as follows:
