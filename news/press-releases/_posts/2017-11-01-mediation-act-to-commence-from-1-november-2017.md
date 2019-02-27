@@ -35,11 +35,11 @@ collection_name: news
 6. From 1 Nov 2017, the Minister for Law designates the following institutions as designated mediation service providers:
 
     * Singapore International Mediation Centre;
-
+    
     * Singapore Mediation Centre;
-
+    
     * Tripartite Alliance for Dispute Management; and
-
+    
     * World Intellectual Property Organization Arbitration and Mediation Center
 
 {:start="7"}
@@ -56,4 +56,4 @@ collection_name: news
 {:start="10"}
 10. In the area of commercial mediation, Singapore has taken steps to develop the industry further. The Mediation Act implements the last of the recommendations made by an International Commercial Mediation Working Group, set up in 2013 by the Chief Justice and the Ministry of Law to look into developing the international commercial mediation space in Singapore. The Singapore International Mediation Centre and Singapore International Mediation Institute were established in 2014 as part of a slew of measures to strengthen Singapore’s international commercial mediation services.
 
-
+u
