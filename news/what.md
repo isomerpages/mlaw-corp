@@ -6,4 +6,4 @@ breadcrumb: what
 collection_name: our-work
 ---
 
-what what 
+what what lorem
