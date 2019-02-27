@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-3 Jul 2017 Posted in Press releases
+3 Jul 2017 Posted in [Press releases](/news/press-releases)
 
 
 1. The Minister for Law has appointed a Deputy Chairman and two new members to the Board of the Singapore Land Authority (SLA), and reappointed six members.
