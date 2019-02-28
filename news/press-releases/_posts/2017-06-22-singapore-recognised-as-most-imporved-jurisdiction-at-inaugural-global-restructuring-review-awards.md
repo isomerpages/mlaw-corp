@@ -24,7 +24,7 @@ collection_name: news
 **Strengthening Singapore’s position as a leading centre for international debt restructuring in Asia**
 
  
-
+{:start="4"}
 4. In March 2017, the Companies (Amendment) Bill was passed in Singapore’s Parliament, containing amendments that would enhance Singapore’s debt restructuring and corporate rescue framework. Key changes implemented through the legislative amendments were:
 
  
@@ -40,13 +40,13 @@ collection_name: news
 * Provisions to facilitate cross-border insolvency and restructuring.
 
  
-
+{:start="5"}
 5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex]().
 
  
-
+{:start="6"}
 6. In addition to the enhanced framework, Singapore, along with Delaware, was among the first jurisdictions to adopt the Judicial Insolvency Network Guidelines for Communication and Cooperation between Courts in Cross-Border Insolvency Matters (JIN Guidelines). The guidelines were developed in an inaugural JIN meeting hosted by Singapore in October 2016 and is the first time a common framework has been adopted for courts to communicate and coordinate with each other in cross-border insolvency matters on a global level.
 
  
-
+{:start="7"}
 7. The GRR Awards and nominations demonstrate international recognition of the broad range of strengths that Singapore has to offer in the debt restructuring space. The Ministry of Law thanks all local and international contributors who have made these results possible and looks forward to extending these strong partnerships as we continue to strengthen Singapore as a centre for international debt restructuring in Asia.
