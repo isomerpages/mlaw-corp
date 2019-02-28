@@ -21,12 +21,12 @@ collection_name: news
 
 {:start="4"}
 4. The key features of the Bills are as follows:
-  * <i><u>Video-recording of interviews</u></i>
-    * Investigators will be allowed to take statements from witnesses via video recording.
-    * This will assist the court to try cases more effectively by:
-      * Allowing the court to take into account the interviewee’s demeanour, to more effectively determine the weight to be accorded to statements; and
-      * Providing an objective contemporaneous account of the interview, which will assist the court in deciding on allegations that may be made about the interview.
-    * The amendments will also allow for video-recorded statements of certain vulnerable victims to be used in place of their oral evidence-in-chief. This will be implemented in later phases, and will help minimise the trauma that victims face in repeatedly recounting their ordeal.
+* <i><u>Video-recording of interviews</u></i>
+  * Investigators will be allowed to take statements from witnesses via video recording.
+  * This will assist the court to try cases more effectively by:
+    * Allowing the court to take into account the interviewee’s demeanour, to more effectively determine the weight to be accorded to statements; and
+    * Providing an objective contemporaneous account of the interview, which will assist the court in deciding on allegations that may be made about the interview.
+  * The amendments will also allow for video-recorded statements of certain vulnerable victims to be used in place of their oral evidence-in-chief. This will be implemented in later phases, and will help minimise the trauma that victims face in repeatedly recounting their ordeal.
     
  * *<u>Enhancing protection for victims of sexual offences or child abuse</u>*
 
