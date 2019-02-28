@@ -14,16 +14,18 @@ collection_name: news
 
 **Building Singapore as trusted global exchange for international commercial transactions**
 
+{:start="2"}
 2. To serve as a trusted global exchange for financing, brokering, structuring and dispute resolution for international commercial transactions, Singapore needs to establish a strong global market position for high value, specialised and cutting-edge legal and accounting services. Singapore is in a strong position to achieve this, and its operating context provides opportunities for it to do so.
 
-
+{:start="3"}
 3. The Working Group identified nine high growth practice areas which can help drive the demand for Singapore’s legal and accounting services, and for which Singapore’s legal and accounting sectors can become globally recognised. They are Business Valuation, Corporations, Dispute Resolution, Finance, Intellectual Property, Internal Audit, Projects & Infrastructure, Restructuring, and Risk Managing & Corporate Governance.
 
-
+{:start="4"}
 4. To help the legal and accounting sectors seize opportunities, the Working Group made 15 recommendations across four key thrusts: strengthening global market position, transforming the legal and accounting sectors, building thought leadership, and equipping legal and accounting professionals to be future-ready.
 
 **Working Group's Recommendations**
 
+{:start="5"}
 5. To strengthen global market position, the Working Group’s recommendations include:
 
 * **Integrating efforts across private, public as well as law and accounting industry associations** to capture demand in identified high growth areas. Inter-agency programmes should be set up to coordinate strategies to capture growth opportunities, and strengthen and promote the identified high growth areas.
@@ -32,34 +34,41 @@ collection_name: news
 
 * **Encouraging law and accounting firms to work with companies from other sectors to internationalise** by leveraging trade missions and business and networking platforms as well as bringing together law and accounting firms with clients for overseas projects.
 
+{:start="6"}
 6. To transform the legal and accounting sectors, the Working Group’s recommendations include:
 
 * **Strengthening technology adoption among small law and accounting firms** by increasing awareness and adoption of technology to enhance productivity; and
 
 *  **Enabling greater technology adoption** by developing platforms for advanced search and analytics for law and accounting firms. This can be done by creating and curating open Application Programme Interfaces (APIs) for companies, start-ups and other interested parties to access national platforms to promote the development of innovative and intelligent solutions.
 
+{:start="7"}
 7. To build thought leadership, the Working Group’s recommendations include:
 
 * **Developing and strengthening Singapore standards and frameworks and promote their use internationally**, by working with the Singapore Academy of Law to promote the use of Singapore law, and Singapore’s dispute resolution offerings as well as promoting and marketing certification frameworks such as Chartered Accountant of Singapore and Chartered Valuer and Appraiser; and
 * **Stimulating collaboration between industry and institutes of higher learning**, by directing funding towards collaborative research projects between the two.
 
+{:start="8"}
 8. To equip legal and accounting professionals to be future-ready, the Working Group’s recommendations include:
 
 * **Developing professionals with multi-disciplinary skillsets and business orientation**, a familiarity with technology and specialist expertise in identified high growth areas and sector-specific knowledge.
 
-A full list of the Working Group’s recommendations is available [here]().
+A full list of the Working Group’s recommendations is available [here(PDF, 1.4MB)](/files/news/press-releases/2017/04/CFE-Report of the Working Group on Legal and Accounting Services-Apr2017.pdf).
 
 **Government’s Response**
 
+{:start="9"}
 9. The Government has accepted the Working Group’s recommendations. The Ministry of Law, the Ministry of Finance, the Economic Development Board, and the Singapore Accountancy Commission will work with the relevant stakeholders to implement the recommendations. The Ministry of Law, the Ministry of Finance, the Economic Development Board and the Monetary Authority of Singapore will also jointly set up a new inter-agency programme office, the Professional Services Programme Office, to develop and promote new growth areas that intersect the legal, accounting and financial services sectors (see details at Annex A). 
 
 
 **Background**
 
+{:start="10"}
 10. The Working Group on Legal and Accounting Services (Working Group) was established in February 2016 under the CFE to develop strategies to position Singapore’s legal and accounting services sectors well for the future.  
 
+{:start="11"}
 11. The 23-member Working Group is co-chaired by Ms Indranee Rajah, Senior Minister of State (SMS), Ministry of Law and Ministry of Finance, and Mr Chaly Mah, Chairman of Singapore Accountancy Commission, and comprises members from the legal and accounting services sectors. The list of members can be found in Annex B.
 
+{:start="12"}
 12. Five Working Group meetings and six Focus Group discussions were held. More than 120 professionals from law and accounting firms, law and accounting associations, companies, and institutes of higher learning were consulted. The Working Group drew on the findings from the Focus Group sessions and Working Group meetings in coming up with its recommendations.
 
 **ANNEX A**
