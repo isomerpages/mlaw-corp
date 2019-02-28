@@ -9,11 +9,11 @@ collection_name: news
 22 May 2017 Posted in [Press releases](/news/press-releases)
 
 
-1. The Companies (Amendment) Bill was passed in Parliament on 10 March 2017.[1] The Bill includes amendments aimed at enhancing Singapore’s debt restructuring and corporate rescue framework.
+1. The Companies (Amendment) Bill was passed in Parliament on 10 March 2017.<sup>[1]</sup> The Bill includes amendments aimed at enhancing Singapore’s debt restructuring and corporate rescue framework.
 
  
 
-2. With the publication of the commencement notification and relevant subsidiary legislation in the Gazette[2] today, 22 May 2017, the debt restructuring-related amendments will be in force on 23 May 2017.
+2. With the publication of the commencement notification and relevant subsidiary legislation in the Gazette<sup>[2]</sup> today, 22 May 2017, the debt restructuring-related amendments will be in force on 23 May 2017.
 
  
 
