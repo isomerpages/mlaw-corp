@@ -66,7 +66,7 @@ A full list of the Working Group’s recommendations is available [here(PDF, 1.4
 10. The Working Group on Legal and Accounting Services (Working Group) was established in February 2016 under the CFE to develop strategies to position Singapore’s legal and accounting services sectors well for the future.  
 
 {:start="11"}
-11. The 23-member Working Group is co-chaired by Ms Indranee Rajah, Senior Minister of State (SMS), Ministry of Law and Ministry of Finance, and Mr Chaly Mah, Chairman of Singapore Accountancy Commission, and comprises members from the legal and accounting services sectors. The list of members can be found in Annex B.
+11. The 23-member Working Group is co-chaired by Ms Indranee Rajah, Senior Minister of State (SMS), Ministry of Law and Ministry of Finance, and Mr Chaly Mah, Chairman of Singapore Accountancy Commission, and comprises members from the legal and accounting services sectors. The list of members can be found in <u>Annex B</u>.
 
 {:start="12"}
 12. Five Working Group meetings and six Focus Group discussions were held. More than 120 professionals from law and accounting firms, law and accounting associations, companies, and institutes of higher learning were consulted. The Working Group drew on the findings from the Focus Group sessions and Working Group meetings in coming up with its recommendations.
