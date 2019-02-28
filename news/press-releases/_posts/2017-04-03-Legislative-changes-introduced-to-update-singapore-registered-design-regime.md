@@ -28,8 +28,8 @@ Key features of the Registered Designs (Amendment) Bill
 
 The scope of registrable designs will be broadened to include:
 
-   * Virtual designs of non-physical products that can be projected onto any surface and have useful functions. An example is a light-projected keyboard which works like a physical keyboard.
-   * Colours as a design feature. For example, a new shape of a vacuum cleaner together with the yellow and black colours of its body, can be registered.
+    * Virtual designs of non-physical products that can be projected onto any surface and have useful functions. An example is a light-projected keyboard which works like a physical keyboard.
+    * Colours as a design feature. For example, a new shape of a vacuum cleaner together with the yellow and black colours of its body, can be registered.
 
 
 In addition, the amendments will clarify that the designs of artisanal or handcrafted items, such as handmade jewellery, can be registered.
@@ -62,3 +62,5 @@ This will enable designers to still obtain design protection if their works were
 
 {:start="6"}
 6. The review included two rounds of public consultation, from May to June 2014, and from October to December 2015 respectively. In addition, numerous focus group discussions and one-to-one consultations were also held, including with industry and design associations, businesses, intellectual property practitioners, and academics.
+
+h
