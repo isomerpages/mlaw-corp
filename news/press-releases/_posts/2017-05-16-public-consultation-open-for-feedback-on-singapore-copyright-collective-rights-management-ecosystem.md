@@ -16,16 +16,20 @@ collection_name: news
 
 **Background**
 
+{:start="3"}
 3. Collective Management Organisations (CMOs) manage copyright works for creators. They license out the works to numerous users, collect licence fees for their use, and distribute the monies back to individual creators in the form of royalties. 
 
+{:start="4"}
 4. Therefore, CMOs play a key role by facilitating the efficient and mass use of copyrighted works.  Without CMOs, it will be impractical for individual creators and users to negotiate and license the use of the copyrighted works. It is therefore important that the collective rights management ecosystem functions well.
 
+{:start="5"}
 5. A fuller explanation of CMOs and information on various CMOs in Singapore is found at the IPOS’ website,  
 
 [https://www.ipos.gov.sg](https://www.ipos.gov.sg)
 
 **Summary of Issues**
 
+{:start="6"}
 6. Some of the issues that feedback is sought on include the following:
 
 (i) *<u>For creators</u>*
@@ -57,7 +61,7 @@ collection_name: news
 
 * Resolving complaints and/or disputes.
  
-
+{:start="7"}
 7. The full public consultation paper may be viewed online at 
 [https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html.](/news/public-consultations/)
 
@@ -65,6 +69,7 @@ collection_name: news
 
 **Invitation for feedback**
 
+{:start="8"}
 8. Members of the public are invited to submit their views by 16 June 2017.  They may submit feedback via email or in hard copy to the following address:
 
 
