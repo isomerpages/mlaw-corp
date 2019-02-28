@@ -28,7 +28,7 @@ collection_name: news
 
 6. Some of the issues that feedback is sought on include the following:
 
-(i) <u>For creators</u>
+(i) *<u>For creators</u>*
 
 * The computation and distribution of royalties.
 
@@ -37,7 +37,7 @@ collection_name: news
 
  
 
-(ii) <u>For users</u>
+(ii) *<u>For users</u>*
 
 * The computation of licence fees.
 
@@ -46,14 +46,14 @@ collection_name: news
 * Involvement in setting of licence fees.
  
 
-(iii) <u>For CMOs</u>
+(iii) *<u>For CMOs</u>*
 
 * How creators and users are able to help CMOs perform their functions effectively.
 
 * What CMOs can do to help creators distribute their works effectively on digital platforms.
  
 
-(iv) <u>For creators, users and CMOs</u>
+(iv) *<u>For creators, users and CMOs</u>*
 
 * Resolving complaints and/or disputes.
  
