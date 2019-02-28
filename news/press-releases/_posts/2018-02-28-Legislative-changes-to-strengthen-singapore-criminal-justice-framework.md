@@ -28,28 +28,27 @@ collection_name: news
       * Providing an objective contemporaneous account of the interview, which will assist the court in deciding on allegations that may be made about the interview.
     * The amendments will also allow for video-recorded statements of certain vulnerable victims to be used in place of their oral evidence-in-chief. This will be implemented in later phases, and will help minimise the trauma that victims face in repeatedly recounting their ordeal.
     
-* *<u>Enhancing protection for victims of sexual offences or child abuse</u>*
+ * *<u>Enhancing protection for victims of sexual offences or child abuse</u>*
 
-    * A suite of measures have been introduced to enhance protection for persons who report sexual or child abuse, and reduce the stress they face when participating in the criminal process.
+   * A suite of measures have been introduced to enhance protection for persons who report sexual or child abuse, and reduce the stress they face when participating in the criminal process.
     
-    * The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge, without court permission. The court will grant permission only if the questions are in the interests of justice. Any application for permission will have to be made in the absence of the complainant.
+   * The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge, without court permission. The court will grant permission only if the questions are in the interests of justice. Any application for permission will have to be made in the absence of the complainant.
     
-* *<u>Expanded eligibility for Community Sentences</u>* 
+ * *<u>Expanded eligibility for Community Sentences</u>* 
 
-    * The eligibility criteria for Community Sentences will be expanded in a controlled manner, to allow more offenders to benefit from rehabilitative opportunities.
-    * Courts will also be empowered to impose a suspended imprisonment sentence together with a Community Sentence. The imprisonment sentence will automatically apply upon breach of the Community Sentence. This will encourage compliance with the Community Sentence.
+   * The eligibility criteria for Community Sentences will be expanded in a controlled manner, to allow more offenders to benefit from rehabilitative opportunities.
+   * Courts will also be empowered to impose a suspended imprisonment sentence together with a Community Sentence. The imprisonment sentence will automatically apply upon breach of the Community Sentence. This will encourage compliance with the Community Sentence.
     
-* *<u>Framework for Deferred Prosecution Agreements (DPAs)</u>*
+ * *<u>Framework for Deferred Prosecution Agreements (DPAs)</u>*
 
-    * MinLaw consulted the Law Society of Singapore and the Criminal Bar on the details of this proposal in the second half of 2017, and received strong support.
+   * MinLaw consulted the Law Society of Singapore and the Criminal Bar on the details of this proposal in the second half of 2017, and received strong support.
     
-    * The amendments introduce a formal framework for the Public Prosecutor to enter into DPAs with corporate offenders. DPAs serve two main purposes:
+   * The amendments introduce a formal framework for the Public Prosecutor to enter into DPAs with corporate offenders. DPAs serve two main purposes:
     
-        * Encourage corporate reform, to prevent future offending; and
+       * Encourage corporate reform, to prevent future offending; and 
+       * Facilitate investigation into wrongdoing, both by the company and by individuals.
         
-        * Facilitate investigation into wrongdoing, both by the company and by individuals.
-        
-    * All DPAs will require approval by the High Court, which must be satisfied that the agreement is in the interests of justice, and that the terms are fair, reasonable and proportionate. The DPA must be published after it has been approved by the court.
+   * All DPAs will require approval by the High Court, which must be satisfied that the agreement is in the interests of justice, and that the terms are fair, reasonable and proportionate. The DPA must be published after it has been approved by the court.
     
     
 **Background**
