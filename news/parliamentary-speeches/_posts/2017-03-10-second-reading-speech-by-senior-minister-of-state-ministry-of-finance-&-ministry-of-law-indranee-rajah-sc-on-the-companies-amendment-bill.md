@@ -261,7 +261,7 @@ collection_name: news
 64. Clause 40 sets out a list of factors for the Court to consider when deciding whether a foreign company has substantial connection to Singapore in order for it to be wound up under this Act.
 
 {:start="65"}
-65. The impact of this list goes beyond winding up, as a foreign company that can be wound up under this Act may make an application for a scheme of arrangement[12] or judicial management<sup>[13]</sup>. This list will provide greater certainty to foreign debtors that wish to restructure in Singapore.
+65. The impact of this list goes beyond winding up, as a foreign company that can be wound up under this Act may make an application for a scheme of arrangement<sup>[12]</sup> or judicial management<sup>[13]</sup>. This list will provide greater certainty to foreign debtors that wish to restructure in Singapore.
 
 {:start="66"}
 66. Clauses 41 and 50 adopt the UNCITRAL Model Law on Cross-Border Insolvency (1997), which is a well-understood and internationally respected framework that governs the recognition and assistance of foreign insolvency proceedings<sup>[14]</sup>.
