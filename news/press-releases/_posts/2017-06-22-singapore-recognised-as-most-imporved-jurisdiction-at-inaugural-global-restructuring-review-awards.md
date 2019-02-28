@@ -41,7 +41,7 @@ collection_name: news
 
  
 {:start="5"}
-5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex]().
+5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex](/news/legal-industry-newsletters/note-by-senior-minister-of-state-for-law-and-finance--indranee-r5).
 
  
 {:start="6"}
