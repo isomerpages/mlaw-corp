@@ -241,10 +241,10 @@ collection_name: news
 58. I will now move on to amendments relating to our judicial management scheme. Judicial management is a temporary court-supervised procedure where a company unable to pay its debts is managed by a judicial manager.
 
 {:start="59"}
-59. Clause 25(a) will allow the Court to make a judicial management order when a company ‘is likely to become unable to pay its debts’ as opposed the current ‘will be unable to pay its debts’[10]. This will allow the judicial management process to commence earlier in the day, when the prospects of saving a company are higher.
+59. Clause 25(a) will allow the Court to make a judicial management order when a company ‘is likely to become unable to pay its debts’ as opposed the current ‘will be unable to pay its debts’<sup>[10]</sup>. This will allow the judicial management process to commence earlier in the day, when the prospects of saving a company are higher.
 
 {:start="60"}
-60. Clause 25(d) will allow the Court to make a judicial management order despite objections from certain secured creditors if the prejudice caused to unsecured creditors is disproportionately greater[11]. Presently, the Court cannot grant a judicial management order if these secured creditors oppose the application.
+60. Clause 25(d) will allow the Court to make a judicial management order despite objections from certain secured creditors if the prejudice caused to unsecured creditors is disproportionately greater<sup>[11]</sup>. Presently, the Court cannot grant a judicial management order if these secured creditors oppose the application.
 
 {:start="61"}
 61. Clause 28 will introduce rescue financing provisions, which mirror the provisions introduced for schemes of arrangement.
@@ -261,13 +261,13 @@ collection_name: news
 64. Clause 40 sets out a list of factors for the Court to consider when deciding whether a foreign company has substantial connection to Singapore in order for it to be wound up under this Act.
 
 {:start="65"}
-65. The impact of this list goes beyond winding up, as a foreign company that can be wound up under this Act may make an application for a scheme of arrangement[12] or judicial management[13]. This list will provide greater certainty to foreign debtors that wish to restructure in Singapore.
+65. The impact of this list goes beyond winding up, as a foreign company that can be wound up under this Act may make an application for a scheme of arrangement[12] or judicial management<sup>[13]</sup>. This list will provide greater certainty to foreign debtors that wish to restructure in Singapore.
 
 {:start="66"}
-66. Clauses 41 and 50 adopt the UNCITRAL Model Law on Cross-Border Insolvency (1997), which is a well-understood and internationally respected framework that governs the recognition and assistance of foreign insolvency proceedings[14].
+66. Clauses 41 and 50 adopt the UNCITRAL Model Law on Cross-Border Insolvency (1997), which is a well-understood and internationally respected framework that governs the recognition and assistance of foreign insolvency proceedings<sup>[14]</sup>.
 
 {:start="67"}
-67. Clause 45 abolishes the current rule that requires liquidators of foreign companies to ‘ring fence’ Singapore assets and pay off debts incurred in Singapore first. However, ‘ring fencing’ for specific financial entities such as banks and insurance companies will still be retained[15].
+67. Clause 45 abolishes the current rule that requires liquidators of foreign companies to ‘ring fence’ Singapore assets and pay off debts incurred in Singapore first. However, ‘ring fencing’ for specific financial entities such as banks and insurance companies will still be retained<sup>[15]</sup>.
 
 {:start="68"}
 68. These amendments will provide greater certainty of outcome in cross-border cases and significantly enhance Singapore’s capability in dealing with cross-border insolvencies.
