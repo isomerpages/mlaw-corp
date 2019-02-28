@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-22 May 2017 Posted in Press releases
+22 May 2017 Posted in [Press releases](/news/press-releases)
 
 
 1. The Companies (Amendment) Bill was passed in Parliament on 10 March 2017.[1] The Bill includes amendments aimed at enhancing Singapore’s debt restructuring and corporate rescue framework.
