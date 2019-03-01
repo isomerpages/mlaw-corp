@@ -22,8 +22,7 @@ Key features of the Registered Designs (Amendment) Bill
 {:start="3"}
 3. The key features of the Bill are as follows:
 
-
-* *<u>Broaden scope of registrable designs</u>*
+(i) *<u>Broaden scope of registrable designs</u>*
 
 
 The scope of registrable designs will be broadened to include:
@@ -35,13 +34,13 @@ The scope of registrable designs will be broadened to include:
 In addition, the amendments will clarify that the designs of artisanal or handcrafted items, such as handmade jewellery, can be registered.
 
 
-* *<u>Allow the designer of a commissioned design, rather than the commissioning party, to own the design by default</u>*
+(ii) *<u>Allow the designer of a commissioned design, rather than the commissioning party, to own the design by default</u>*
 
 
 Currently, where a designer is commissioned to create a design, the commissioning party is the owner of the design. The amendments will instead give the design ownership to the creator by default. This is to highlight the importance of design creation and the valuable contribution of designers. Both parties would still be free to contract otherwise.
 
 
-* *<u>Broaden and lengthen the grace period provision</u>*
+(iii) *<u>Broaden and lengthen the grace period provision</u>*
 
 
 Currently, a design cannot be validly registered if it has been publicly disclosed before the application date. However, narrow exceptions are provided – a design can be validly registered if the disclosure took place in very limited circumstances (for example, when the disclosure was in breach of confidence), and the application for design protection was made within 6 months of the disclosure. The amendments will broaden the circumstances covered to any disclosure made by the designer, and lengthen the grace period to 12 months.
@@ -63,4 +62,3 @@ This will enable designers to still obtain design protection if their works were
 {:start="6"}
 6. The review included two rounds of public consultation, from May to June 2014, and from October to December 2015 respectively. In addition, numerous focus group discussions and one-to-one consultations were also held, including with industry and design associations, businesses, intellectual property practitioners, and academics.
 
-hi
