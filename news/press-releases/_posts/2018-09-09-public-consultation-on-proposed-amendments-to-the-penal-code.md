@@ -165,7 +165,7 @@ The Penal Code Review Committee Report is available here:
     * Simplifying minute and overly-granular distinctions between offences; and 
     * Reviewing punishment provisions to ensure proportionality to seriousness of the offence, and bail and arrest powers.
 
-**Members of the Penal Code Review Committee**
+**<u>Members of the Penal Code Review Committee</u>**
 
 <table class="table-h">
 <tr>
