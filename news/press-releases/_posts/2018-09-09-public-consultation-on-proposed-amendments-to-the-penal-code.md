@@ -166,75 +166,101 @@ The Penal Code Review Committee Report is available here:
     * Reviewing punishment provisions to ensure proportionality to seriousness of the offence, and bail and arrest powers.
 
 **Members of the Penal Code Review Committee**
+
 <table>
- <tr>
-   <td>Current members</td>
-   <td></td>
- </tr>
- <tr>
-    <td>Indranee Rajah, S.C. (Co-chairperson)</td>
-    <td>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for Education</td>
- <tr>
-    <td>Amrin Amin (Co-chairperson)</td>
-    <td>Senior Parliamentary Secretary, Ministry of Home Affairs & Ministry of Health</td>
- </tr>
- <tr>
-    <td>Justice See Kee Oon</td>
-    <td>Judge, Supreme Court of Singapore Presiding Judge of the State Courts</td>
- </tr>
- <tr>
-    <td>Justice Aedit Abdullah S.C</td>
-    <td>Judge, Supreme Court of Singapore</td>
- </tr>
- <tr>
-    <td>Amarjeet Singh, S.C</td>
-    <td>Senior Consultant, Withers KhattarWong</td>
- </tr>
- <tr>
-    <td>Wendell Wong</td>
-    <td>Director, Drew & Napier</td>
- </tr>
- <tr>
-    <td>Stanley Yeo Meng Heong</td>
-    <td>Professorial Fellow, Faculty of Law, National University of Singapore</td>
- </tr>
- <tr>
-    <td>Kumaralingam Amirthalingam</td>
-    <td>Professor, Faculty of Law, National University of Singapore</td>
- </tr>
- <tr>
-    <td>Chan Wing Cheong</td>
-    <td>Associate Professor, Faculty of Law, National University of Singapore</td>
- </tr>
- <tr>
-    <td>Tan Ken Hwee</td>
-    <td>Chief Prosecutor, Financial and Technology Crime Division, Attorney-General’s Chambers</td>
- </tr>
- <tr>
-    <td>Francis Ng, S.C.</td>
-    <td>Deputy Chief Prosecutor, Criminal Justice Division, Attorney-General’s Chambers</td>
- </tr>
- <tr>
-    <td>Sekher Warrier</td>
-    <td>1 Deputy Director, Criminal Investigation Department, Singapore Police Force</td>
- </tr>
- <tr>
-    <td>Lilian Tan</td>
-    <td>Deputy Director, Planning & Organisation, Singapore Police Force</td>
- </tr>
- <tr>
-    <td>Leong Kwang Ian</td>
-    <td>Senior Director, Legal Division, Ministry of Home Affairs</td>
- </tr>
- <tr>
-    <td>Lim Zhi Yang</td>
-    <td>Senior Director, Policy Development Division, Ministry of Home Affairs</td>
- </tr>
- <tr>
-    <td>Tammy Low</td>
-    <td>Director, Legal Group, Ministry of Law</td>
- </tr>
- </table>
+<tr>
+<th colspan="2">Current Members</th>
+</tr>
+
+<tr>
+<td>Indranee Rajah, S.C. (Co-chairperson)</td>
+<td>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for Education</td>
+</tr>
+
+<tr>
+<td>Amrin Amin (Co-chairperson)</td>
+<td>Senior Parliamentary Secretary, Ministry of Home Affairs & Ministry of Health</td>
+</tr>
+
+
+<tr>
+<td>Justice See Kee Oon</td>
+<td>Judge, Supreme Court of Singapore
+Presiding Judge of the State Courts</td>
+</tr>
+
+
+<tr>
+<td>Justice Aedit Abdullah S.C.</td>
+<td>Judge, Supreme Court of Singapore</td>
+</tr>
+
+<tr>
+<td>Amarjeet Singh, S.C.</td>
+<td>Senior Consultant, Withers KhattarWong</td>
+</tr>
+
+<tr>
+<td>Wendell Wong</td>
+<td>Director, Drew & Napier</td>
+</tr>
+
+<tr>
+<td>Stanley Yeo Meng Heong</td>
+<td>Professorial Fellow, Faculty of Law, National University of Singapore</td>
+</tr>
+
+<tr>
+<td>Kumaralingam Amirthalingam</td>
+<td>Professor, Faculty of Law, National University of Singapore</td>
+</tr>
+
+<tr>
+<td>Chan Wing Cheong</td>
+<td>Associate Professor, Faculty of Law, National University of Singapore</td>
+</tr>
+
+<tr>
+<td>Tan Ken Hwee</td>
+<td>Chief Prosecutor, Financial and Technology Crime Division, Attorney-General’s Chambers</td>
+</tr>
+
+
+<tr>
+<td>Francis Ng, S.C.</td>
+<td>Deputy Chief Prosecutor, Criminal Justice Division, Attorney-General’s Chambers</td>
+</tr>
+
+<tr>
+<td>Sekher Warrier</td>
+<td>1 Deputy Director, Criminal Investigation Department, Singapore Police Force</td>
+</tr>
+
+<tr>
+<td>Lilian Tan</td>
+<td>Deputy Director, Planning & Organisation, Singapore Police Force</td>
+</tr>
+
+<tr>
+<td>Leong Kwang Ian</td>
+<td>Senior Director, Legal Division, Ministry of Home Affairs</td>
+</tr>
+
+<tr>
+<td>Lim Zhi Yang</td>
+<td>Senior Director, Policy Development Division, Ministry of Home Affairs</td>
+</tr>
+
+
+<tr>
+<td>Tammy Low</td>
+<td>Director, Legal Group, Ministry of Law</td>
+</tr>
+
+
+
+
+</table>
  
  <table>
  <tr>
@@ -284,5 +310,6 @@ The Penal Code Review Committee Report is available here:
 <sup>[2]</sup> When the PCRC was formed in July 2016, it was co-chaired by Ms Indranee Rajah S.C., then-Senior Minister of State, Ministry of Law, and Mr Desmond Lee, then-Senior Minister of State, Ministry of Home Affairs. Mr Amrin took over as co-chair of the PCRC from Mr Desmond Lee from 10 September 2017. 
 
 
+13
 
 
