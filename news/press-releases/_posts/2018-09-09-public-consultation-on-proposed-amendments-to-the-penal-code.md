@@ -167,7 +167,7 @@ The Penal Code Review Committee Report is available here:
 
 **Members of the Penal Code Review Committee**
 
-<table>
+<table class="table-h">
 <tr>
 <th colspan="2">Current Members</th>
 </tr>
@@ -262,7 +262,7 @@ Presiding Judge of the State Courts</td>
 
 </table>
  
- <table>
+ <table class="table-h">
  <tr>
     <th colspan="2">Previous memebers who have since stepped down from the PCRC</th>
  </tr>
@@ -309,7 +309,5 @@ Presiding Judge of the State Courts</td>
 
 <sup>[2]</sup> When the PCRC was formed in July 2016, it was co-chaired by Ms Indranee Rajah S.C., then-Senior Minister of State, Ministry of Law, and Mr Desmond Lee, then-Senior Minister of State, Ministry of Home Affairs. Mr Amrin took over as co-chair of the PCRC from Mr Desmond Lee from 10 September 2017. 
 
-
-13
 
 
