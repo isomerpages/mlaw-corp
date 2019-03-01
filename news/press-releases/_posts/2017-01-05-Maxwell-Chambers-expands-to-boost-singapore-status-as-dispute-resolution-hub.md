@@ -47,7 +47,7 @@ collection_name: news
 
  
 
-Meeting Growing Demand 
+**Meeting Growing Demand** 
 
  
 {:start="8"}
@@ -67,11 +67,11 @@ Meeting Growing Demand
 
  
 {:start="12"}
-12. Interested organisations can contact Maxwell Chambers at tenancy@maxwell-chambers.com.
+12. Interested organisations can contact Maxwell Chambers at <tenancy@maxwell-chambers.com>.
 
  
 
-Strengthening Singapore’s Position
+**Strengthening Singapore’s Position**
 
  
 {:start="13"}
