@@ -67,13 +67,15 @@ collection_name: news
 **<u>New Board Members</u>**
 
 **Mr Ali Ijaz Ahmad**  
-**Co-Founder and CEO, Makara Capital**
+**Co-Founder and CEO, Makara Capital**  
 Mr Ali Ahmad is the Co-Founder and CEO of Singapore-based Makara Capital, a global financial services company that specialises in fund management, private equity as well as structuring and financing, with a core focus on innovation, infrastructure and energy. Mr Ahmad has previously worked at Morgan Stanley, The World Bank and Goldman Sachs & Co. He holds a Master in Public Administration from Harvard University (Kennedy School of Government).
 
 **Ms Neo Gim Huay**  
-**Managing Director, Enterprise Development and Managing Director, Sustainability, Temasek International Pte Ltd**
+**Managing Director, Enterprise Development and Managing Director, Sustainability, Temasek International Pte Ltd**  
 Ms Neo Gim Huay’s work at Temasek International includes developing new businesses, building capabilities of portfolio companies, and promoting sustainability strategies and initiatives. Ms Neo has previously worked with McKinsey & Co. in the United States and Africa, the Ministry of Trade & Industry, various other Singapore Government agencies, and Singapore Airlines. She holds a Master of Business Administration from Stanford Business School and a Master in Engineering and Bachelor of Arts from Cambridge University.
 
 **Mr Eric Teo**  
-**Adjunct Associate Professor, Division of Accounting, Nanyang Business School, Nanyang Technological University**  
+**Adjunct Associate Professor, Division of Accounting, Nanyang Business School, Nanyang Technological University**   
 Mr Eric Teo is an Adjunct Associate Professor at Nanyang Business School, Nanyang Technological University, and is the Founding and Present Chairman of the Institute of Valuers and Appraisers of Singapore (IVAS) Council.  Mr Teo is also the Chairman of the Membership and Standards Recognition Board of the International Valuation Standards Council (IVSC), the global setter of valuation standards. Previously, Mr Teo was an Executive Director of Ernst & Young (EY) Transaction Advisory Services in Singapore, and has also worked in DBS Bank. He holds a Master of Business Administration from Curtin University and is a Fellow of the Institute of Singapore Chartered Accountants, CPA Australia, Royal Institution of Chartered Surveyors and Senior Fellow of Financial Services Institute of Australasia.
+
+p
