@@ -19,10 +19,10 @@ collection_name: news
 
 <u>Key features of the Patents (Amendment) Bill</u>
 
-
+{:start="4"}
 4. The key features of the Bill are as follows:
 
-  * Closure of Foreign Route
+  * *<u>Closure of Foreign Route</u>*
     
     * Patent applications must be examined by the patent office to ensure that the invention satisfies patentability requirements before a patent is granted.
     
@@ -30,7 +30,7 @@ collection_name: news
     
     * With the closure of the foreign route, currently planned for 1 January 2020, all patent applications must be fully examined by IPOS. This ensures that all granted patents fully satisfy Singapore’s patentability criteria.
 
-  * Broadening the Grace Period Provision
+  * *<u>Broadening the Grace Period Provision</u>*
     
     * An inventor must generally keep his invention confidential before applying for a patent.
     
@@ -43,5 +43,5 @@ collection_name: news
 
 **Background**
 
-
+{:start="5"}
 5. A public consultation on the proposed amendments was conducted by IPOS. The public consultation took place from 27 October 2016 to 15 November 2016 and received feedback from the Law Society, patent agent associations and the Singapore Inventors’ Development Association (SIDA).
