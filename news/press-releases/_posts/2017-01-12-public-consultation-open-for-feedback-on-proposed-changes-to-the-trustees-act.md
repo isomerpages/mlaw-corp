@@ -20,6 +20,7 @@ collection_name: news
 
 **Summary of Key Changes**
 
+{:start="4"}
 4. The proposed amendments to the Trustees Act include provisions to empower the Minister to make rules to:
 
 * Prescribe duties on trustees to obtain and maintain financial records, as well as information on the parties relevant to and dealing with the trust:
@@ -29,13 +30,13 @@ collection_name: news
 
 **Background**
 
-
+{:start="5"}
 5. Singapore takes a tough stance on financial crime to maintain its reputation as a clean and trusted international financial centre, and has over the years invested substantial efforts to enhance its anti-money laundering and counter terrorism financing regime. They form part of Singapore’s whole-of- government ongoing review to ensure that corporate vehicles and trusts are not misused for improper purposes.
 
 
 **Invitation for feedback**
 
-
+{:start="6"}
 6. Interested parties may view the public consultation paper online at [(https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act.html)](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act) and submit feedback in electronic or hard copy form via either of the following:
 
 
