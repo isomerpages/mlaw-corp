@@ -78,4 +78,4 @@ Ms Neo Gim Huay’s work at Temasek International includes developing new busine
 **Adjunct Associate Professor, Division of Accounting, Nanyang Business School, Nanyang Technological University**   
 Mr Eric Teo is an Adjunct Associate Professor at Nanyang Business School, Nanyang Technological University, and is the Founding and Present Chairman of the Institute of Valuers and Appraisers of Singapore (IVAS) Council.  Mr Teo is also the Chairman of the Membership and Standards Recognition Board of the International Valuation Standards Council (IVSC), the global setter of valuation standards. Previously, Mr Teo was an Executive Director of Ernst & Young (EY) Transaction Advisory Services in Singapore, and has also worked in DBS Bank. He holds a Master of Business Administration from Curtin University and is a Fellow of the Institute of Singapore Chartered Accountants, CPA Australia, Royal Institution of Chartered Surveyors and Senior Fellow of Financial Services Institute of Australasia.
 
-p
+
