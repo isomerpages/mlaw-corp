@@ -21,6 +21,7 @@ collection_name: news
 
 **II. <u>SUMMARY OF PROPOSED AMENDMENTS</u>**
 
+{:start="4"}
 4. It is proposed that the Trustees Act be amended to empower the Minister for Law to enact such rules as may be necessary or desirable for the purposes of giving effect to the FATF recommendations and GF requirements. Specifically, the objective of the amendments is to enhance the transparency of the ownership and control structures of trusts, and prescribe minimum standards for financial record keeping by trustees. The proposed new provisions to the Trustees Act seek to:
 
 
@@ -42,18 +43,20 @@ collection_name: news
  
  **III. <u>PUBLIC CONSULTATION DETAILS</u>** 
  
+ {:start="5"}
  5. The Ministry of Law invites interested parties to:
  
  * provide their views and feedback on the Trustees (Amendment) Bill (see Annex A); and
  
  * in particular, to provide their views and feedback as to whether any classes of trusts should be exempted from the operation of the proposed amendments.
  
+{:start="6"} 
 6. The consultation period is from 12 January 2017 to 31 January 2017. All views and feedback may be sent in electronic form or hard copy form to the address below:
 
-Ministry of Law
-International Legal Division
-100 High Street,
-#08-02, The Treasury
-Singapore 179464
-Fax: 6332 8842
+Ministry of Law  
+International Legal Division  
+100 High Street,  
+#08-02, The Treasury  
+Singapore 179464  
+Fax: 6332 8842  
 Email: MLAW_Consultation@mlaw.gov.sg (preferred mode)
