@@ -29,8 +29,10 @@ collection_name: news
 **Summary of Bill’s provisions**
 
 
-5.    A summary of the proposed changes is as follows:
-  * Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:
+5.    A summary of the proposed changes is as follows:  
+
+  a) Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:  
+  
     * Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:
       * allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors or intends to make such an application (see Clause 2, Section 211B(1)).
       * an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see Clause 2, Section 211B(4)).
