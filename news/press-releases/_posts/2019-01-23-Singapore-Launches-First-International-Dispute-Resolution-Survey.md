@@ -14,13 +14,15 @@ collection_name: news
 
 3. The first of its kind, the International Dispute Resolution Survey differs from other surveys on dispute resolution in a number of significant ways:
 
-   * <ins>It covers not only international arbitration, but also international mediation and litigation.</ins> This better reflects the full spectrum of mechanisms that corporations use to resolve disputes and their considerations in choosing one mechanism over another.
+<ol style="list-style-type:lower-alpha;">
+  <li>It covers not only international arbitration, but also international mediation and litigation. This better reflects the full spectrum of mechanisms that corporations use to resolve disputes and their considerations in choosing one mechanism over another.  <li>
+  <li> It gathers responses not only from lawyers (the service providers) but also top corporate executives (the users). This presents a more complete picture of demand and supply and helps to identify gaps in perception and provision.</li>
+  <li> It looks at usage rather than preferences, which is more indicative of lawyers’ and businesses’ actual decision-making processes.</li>
+  <li>It covers a balanced geographical spread, so that it is representative of users and providers across all regions in the world.</li>
     
-   * <ins>It gathers responses not only from lawyers (the service providers) but also top corporate executives (the users</ins>). This presents a more complete picture of demand and supply and helps to identify gaps in perception and provision.  
-   
-   * <ins>It looks at usage rather than preferences</ins>, which is more indicative of lawyers’ and businesses’ actual decision-making processes.
-    
-   * <ins>It covers a balanced geographical spread</ins>, so that it is representative of users and providers across all regions 
+</ol>  
+  
+  
 &nbsp;  
 &nbsp;    
 4. SIDRA’s Academic Director, Professor Nadja Alexander said, “SIDRA is thrilled to be commissioned by MinLaw to conduct the International Dispute Resolution Survey. The survey will draw on SIDRA’s wealth of experience and expertise in Asia and internationally. We are confident that the survey findings will enrich academic and policy work on international dispute resolution, and provide practical guidance to dispute resolution users, practitioners and institutions.”  
@@ -33,4 +35,4 @@ collection_name: news
    
    
    
-    
+    h
