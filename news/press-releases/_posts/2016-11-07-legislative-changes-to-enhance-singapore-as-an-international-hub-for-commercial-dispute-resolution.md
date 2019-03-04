@@ -6,6 +6,8 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+7 Nov 2016 Posted in [Press releases](/news/press-releases)
+
 1. The Ministry of Law (MinLaw) has submitted the Civil Law (Amendment) Bill 2016 and Mediation Bill 2016 for First Reading in Parliament today.
 
 
