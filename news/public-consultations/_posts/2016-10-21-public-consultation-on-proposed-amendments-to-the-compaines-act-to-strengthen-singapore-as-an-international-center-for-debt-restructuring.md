@@ -21,7 +21,7 @@ collection_name: news
 3. In May 2015, building on the ILRC’s recommendations, the Minister for Law set up the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“Restructuring Committee”) to consider how to enhance Singapore’s effectiveness as a centre for international debt restructuring. After public consultation which lasted from April to May 2016, the Government broadly accepted the Restructuring Committee’s recommendations, which include proposed enhancements to our legal framework for restructuring.
 
 {:start="4"}
-4. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, the Ministry of Law is taking a phased approach to implementation. The first phase will comprise legislative amendments which are key to enhancing Singapore’s corporate rescue and restructuring framework. The relevant provisions of the proposed Companies (Amendment) Bill is enclosed at [Annex A](/files/news/public-consultations/2016/10/CAB.pdf).
+4. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, the Ministry of Law is taking a phased approach to implementation. The first phase will comprise legislative amendments which are key to enhancing Singapore’s corporate rescue and restructuring framework. The relevant provisions of the proposed Companies (Amendment) Bill is enclosed at [Annex A(PDF, 0.2MB)](/files/news/public-consultations/2016/10/CAB.pdf).
 
 
 
@@ -34,7 +34,7 @@ collection_name: news
   **a) Schemes of arrangement**: A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see **Clause 2,  Section 211A**),:    
   
   * **Enhanced moratoriums** against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:  
-    * allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors or intends to make such an application (see Clause 2, Section 211B(1)).
+    * allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors or intends to make such an application (see **Clause 2, Section 211B(1)**).
     * an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see **Clause 2, Section 211B(4)**).
     * allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, **Section 211B(2), (3) and (8)**).
     * moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor is within Singapore’s jurisdiction (see **Clause 2, Section 211B(5)(b)**).
@@ -44,12 +44,12 @@ collection_name: news
   
   * **Cram-down provisions**, to allow a scheme to be approved even if a class of creditors oppose the scheme, if such creditors will not be unfairly prejudiced by the scheme (see **Clause 2, Section 211H**).
   
-  * **Enhanced creditor protection, by
+  * **Enhanced creditor protection**, by
   
     * including debtor disclosure requirements, to allow creditors to make informed decisions in the restructuring (see **Clause 2, Section 211B(6)**); and
     * introducing provisions to safeguard against debtors dissipating assets during a moratorium (see **Clause 2, Section 211D**).
     
-  * **Pre-packaged provisions**, which will fast-track pre-negotiated schemes of arrangements between debtors and their major creditors (see Clause 2, Section 211I).
+  * **Pre-packaged provisions**, which will fast-track pre-negotiated schemes of arrangements between debtors and their major creditors (see **Clause 2, Section 211I**).
   
   * **Procedural enhancements**, including:
   
@@ -73,12 +73,12 @@ collection_name: news
  
  * the adoption of the UNCITRAL Model Law on Cross-Border Insolvency (see **Clauses 7 & 9**)
  
- * the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see **Clause 8).
+ * the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see **Clause 8**).
  
 **Public Consultation**
 
 {:start="6"}
-6. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A](/files/news/public-consultations/2016/10/CAB.pdf)). The consultation period is from 21 October 2016 to 2 December 2016. All views and feedback may be sent in electronic form or hard copy form to the address below:
+6. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A(PDF, 0.2MB)](/files/news/public-consultations/2016/10/CAB.pdf)). The consultation period is from 21 October 2016 to 2 December 2016. All views and feedback may be sent in electronic form or hard copy form to the address below:
 
 Ministry of Law  
 Policy Advisory Division  
