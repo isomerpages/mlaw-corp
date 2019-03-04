@@ -31,14 +31,15 @@ collection_name: news
 
 5.    A summary of the proposed changes is as follows:  
 
-  a) Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:  
+  a) Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:    
   
-    * Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:
-      * allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors or intends to make such an application (see Clause 2, Section 211B(1)).
-      * an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see Clause 2, Section 211B(4)).
-      * allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, Section 211B(2), (3) and (8)).
-      * moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).
-      * allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).
+  * Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:  
+    * allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors or intends to make such an application (see Clause 2, Section 211B(1)).
+    * an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see Clause 2, Section 211B(4)).
+    * allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, Section 211B(2), (3) and (8)).
+    * moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).
+    * allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).
+
 
 
 
