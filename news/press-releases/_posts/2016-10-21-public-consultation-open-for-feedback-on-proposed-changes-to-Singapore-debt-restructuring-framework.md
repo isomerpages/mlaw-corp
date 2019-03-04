@@ -20,6 +20,8 @@ collection_name: news
 
 **Summary of Key Changes**
 
+
+{:start="4"}
 4. The proposed changes form the first phase of legislative amendments, and are key to enhancing Singapore’s corporate rescue and restructuring framework. Some of the key changes are:
 
 * A new set of provisions to support creditor schemes of arrangements that implement debt restructuring proposals. These provisions include:
@@ -39,21 +41,22 @@ collection_name: news
 
 **Background**
 
-
+{:start="5"}
 5. In June 2014, MinLaw broadly accepted the recommendations of the Insolvency Law Review Committee (ILRC), which sought to holistically update Singapore’s corporate insolvency and bankruptcy laws.
 
  
-
+{:start="6"}
 6. Building on the work of the ILRC, the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (Restructuring Committee) made recommendations to enhance Singapore’s attractiveness as a venue to conduct an international debt restructuring. MinLaw broadly accepted its recommendations in July 2016.
 
  
-
+{:start="7"}
 7. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, MinLaw is taking a phased approach to implementation.
 
 
 **Invitation for feedback**
 
-8. Interested parties may view the public consultation paper online [here]() and submit feedback in electronic or hard copy form via either of the following:
+{:start="8"}
+8. Interested parties may view the public consultation paper online [here](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-companies-act-) and submit feedback in electronic or hard copy form via either of the following:
 
 
 
