@@ -19,18 +19,19 @@ collection_name: news
 
 
 
-
+{:start="4"}
 4. Third-party funding occurs when an entity unconnected to a dispute provides funds to a party, typically the claimant, in return for financial gain, such as a share of the damages awarded should the claim succeed.
 
-
+{:start="5"}
 5. Currently in Singapore, an agreement by an entity unconnected to a dispute to fund it would be unenforceable. However, third-party funding is becoming a feature in major arbitration centres around the world, such as London, Paris and Geneva.
 
-
+{:start="6"}
 6. Allowing third-party funding in Singapore for international arbitration will therefore offer international businesses an additional financing option for international commercial arbitration and consolidate Singapore’s position as a key seat of arbitration in Asia.
 
 
 <u>Key features of the Civil Law (Amendment) Bill 2016</u>
 
+{:start="7"}
 7. The proposed Bill seeks to:
 
 * clarify that the common law tort of champerty and maintenance is abolished in Singapore;
@@ -43,13 +44,16 @@ collection_name: news
 
 **Mediation Framework** 
 
+{:start="8"}
 8. The Mediation Bill 2016 supports international commercial mediation by strengthening the enforceability of mediated settlements.
 
+{:start="9"}
 9. The Bill will apply to all types of mediation including international commercial mediation and will also codify certain issues currently dealt with under common law, such as confidentiality of communications in the context of mediation. This will provide greater certainty and clarity for commercial parties who opt to conduct their mediation in Singapore.
 
 
 <u>Key features of the Mediation Bill 2016</u>
 
+{:start="10"}
 10. The key features of the Bill fall into the following four categories:
 
 * *<u>Stay of court proceedings provisions</u>*  
@@ -67,5 +71,21 @@ Currently, if there is a breach of a mediated settlement agreement, the aggrieve
 While mediation is not commonly understood to involve the practice of law, in certain cases the relevant law may be discussed during the mediation session. This amendment will make clear that participation by foreign mediators and foreign-qualified counsel in such mediation sessions will not amount to the unauthorised practice of Singapore law.
 
 **Background**
+
+{:start="11"}
+11. As Asia’s trade and business sectors continue to grow, regional demand for legal services, particularly in the area of dispute resolution, is expected to increase. Law firms and lawyers will benefit from the increase in international dispute resolution activity here.
+
+{:start="12"}
+12. Singapore provides a full suite of dispute resolution services (viz. litigation, arbitration, mediation) to cater to the varied needs of commercial users. Singapore has excelled in the area of arbitration and ranks among the world’s top seats for international arbitration, alongside London, Paris, Geneva, and Hong Kong. Singapore has also consistently ranked as the number one seat for International Chamber of Commerce arbitration in Asia.
+
+{:start="13"}
+13. In the area of commercial mediation, Singapore has taken steps to develop the industry further. The Singapore International Mediation Centre and Singapore International Mediation Institute were established in 2014 as part of a slew of measures to strengthen Singapore’s international commercial mediation services.
+
+{:start="14"}
+14. The present reforms were taken after extensive closed and public consultations earlier this year. The public consultation for the Mediation Bill 2016 took place from 17 Mar 2016 to 28 Apr 2016 and received feedback from lawyers, mediation and alternative dispute resolution practitioners and service providers, academics, mediation professional bodies and other stakeholders. The public consultation for the Civil Law (Amendment) Bill 2016 was held from 30 Jun 2016 to 29 Jul 2016 which saw lawyers, professional funders and in-house counsel providing views.
+
+**MINISTRY OF LAW**  
+**7 NOVEMBER 2016** 
+
 
 
