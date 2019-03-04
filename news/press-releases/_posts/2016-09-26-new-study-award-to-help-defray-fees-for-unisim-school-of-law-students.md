@@ -69,7 +69,7 @@ collection_name: news
 
  
 
- 
+ f
 
 **MINISTRY OF LAW**  
 **26 SEPTEMBER 2016**
