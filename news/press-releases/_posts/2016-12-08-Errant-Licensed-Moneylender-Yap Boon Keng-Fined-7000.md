@@ -25,14 +25,15 @@ collection_name: news
 * One charge under Section 26(3) of the Moneylenders Act for failing to comply with the directions of the Registrar on advertising and marketing activities by advertising Gee Credit (S) Pte Ltd’s unapproved telephone number on the exterior glass panel of its business premises.
 
 
+{:start="4"}
 4. Yap was sentenced in the State Courts to a total fine of $7,000 (in default 35 days’ imprisonment).
 
  
-
+{:start="5"}
 5. Forty-three other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex(PDF, 0.1MB)](/files/news/press-releases/2016/12/YapAnnex.pdf)). 
 
  
-
+{:start="6"}
 6. The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act and Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge. 
 
 
