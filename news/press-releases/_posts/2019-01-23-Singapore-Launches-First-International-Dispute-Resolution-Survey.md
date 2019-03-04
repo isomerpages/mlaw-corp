@@ -18,7 +18,6 @@ collection_name: news
   <li>It covers not only international arbitration, but also international mediation and litigation. This better reflects the full spectrum of mechanisms that corporations use to resolve disputes and their considerations in choosing one mechanism over another.  </li>
   <li> It gathers responses not only from lawyers (the service providers) but also top corporate executives (the users). This presents a more complete picture of demand and supply and helps to identify gaps in perception and provision.</li>
   <li> It looks at usage rather than preferences, which is more indicative of lawyers’ and businesses’ actual decision-making processes.</li>
-  
 **hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh**
 
 
