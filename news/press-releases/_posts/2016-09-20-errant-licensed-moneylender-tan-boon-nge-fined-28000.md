@@ -27,3 +27,27 @@ collection_name: news
 **20 SEPTEMBER 2016**  
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
+
+---
+
+testing
+---
+
+<ol>
+<li>lfksjlfjlsjflsjf</li>
+<li>njklhlihlh</li>
+</ol>
+**simplifying the means for**
+<ol start="3">
+<li>fhkjshfsk
+<ol style="list-style-type: lower-alpha;">
+<li>disposable income is
+<ol style="list-style-type: lower-roman;">
+<li>6000 fir th</li>
+<li>6000 income applicant</li>
+</ol>
+</li>
+<li>b. disposable cpatial</li>
+</ol>
+</li>
+</ol>
