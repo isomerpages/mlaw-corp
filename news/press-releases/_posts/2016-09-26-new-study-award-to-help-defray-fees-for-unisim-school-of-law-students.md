@@ -62,14 +62,14 @@ collection_name: news
 **Background on the UniSIM School of Law**
 
  
-{:start="11"}11. The UniSIM School of Law was set up in February 2016 to address the shortage of lawyers in the fields of criminal and family law. Fresh graduates have generally not chosen to enter family and criminal law. There is also high attrition among young lawyers practising family and criminal law due to the stresses and emotional demand of these practice areas. As a result, there is a shortage of practitioners in these fields, and the problem will become more acute as senior practitioners retire.
+{:start="11"}
+11. The UniSIM School of Law was set up in February 2016 to address the shortage of lawyers in the fields of criminal and family law. Fresh graduates have generally not chosen to enter family and criminal law. There is also high attrition among young lawyers practising family and criminal law due to the stresses and emotional demand of these practice areas. As a result, there is a shortage of practitioners in these fields, and the problem will become more acute as senior practitioners retire.
 
  
-{:start="12"}12. At least 80 percent of the students will be mature students with work and life experience, to provide an opportunity for such individuals to embark on law as a second career, while leveraging on their prior work experience. It also provides an additional path for prospective law students who may otherwise have to go overseas. Professor Leslie Chew, S.C., has been appointed the Dean of the new law school.
+{:start="12"}
+12. At least 80 percent of the students will be mature students with work and life experience, to provide an opportunity for such individuals to embark on law as a second career, while leveraging on their prior work experience. It also provides an additional path for prospective law students who may otherwise have to go overseas. Professor Leslie Chew, S.C., has been appointed the Dean of the new law school.
 
- 
 
- f
 
 **MINISTRY OF LAW**  
 **26 SEPTEMBER 2016**
