@@ -384,6 +384,18 @@ $desktop: 960px + (2 * $gap) !default;
     color: #900	
 }
 
+/* style to add space between list elements */
+
+li{
+  margin-bottom: 30px;
+}
+
+
+li>ol{
+  margin-top: 30px;
+}
+
+
 .hero-dropdown {
   display: flex;
   padding-top: 1.75rem;
