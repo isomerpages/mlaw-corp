@@ -381,18 +381,18 @@ $desktop: 960px + (2 * $gap) !default;
 /* style to color links */
 
 .content a{
-    //color: #900
-	color: green;    
+    color: #900;
+	//color: green;    
 }
 
 /* style to add space between list elements */
 
-li{
+.content li{
   margin-bottom: 30px;
 }
 
 
-li>ol{
+.content li>ol{
   margin-top: 30px;
 }
 
