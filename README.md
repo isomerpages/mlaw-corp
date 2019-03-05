@@ -2,7 +2,7 @@
 
 ## Why Markdown and YAML?
 
-Traditionally, in order to edit a website, one had to write in pure HTML. This is challenging for website administrators who had limited experience with HTML as it is not immediately readable or intuitive to non-experienced users. 
+Traditionally, to edit a website, one had to write in pure HTML. This was challenging for many website administrators as HTML is not an intuitive language for those who are inexperienced with it.
 
 Our team decided to go with Markdown (.md) – more human readable syntax – so as to empower non-technical website administrators.
 
