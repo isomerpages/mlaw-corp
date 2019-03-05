@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Moneylenders (Amendment) Bill
 permalink: /news/parliamentary-speeches/second-reading-speech-by-ms-indranee-rajah--senior-minister-of-s
 breadcrumb: Parliamentary Speeches
