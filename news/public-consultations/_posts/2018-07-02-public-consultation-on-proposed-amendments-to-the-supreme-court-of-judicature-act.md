@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act
 permalink: /news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act
 breadcrumb: Public Consultations
