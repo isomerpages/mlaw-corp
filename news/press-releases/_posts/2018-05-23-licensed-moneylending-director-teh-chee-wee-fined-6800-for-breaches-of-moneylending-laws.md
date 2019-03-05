@@ -355,17 +355,19 @@ collection_name: news
  
 
  <tr>
- <td rowspan="3">33.</td>
+ <td>33.</td>
  <td colspan="3">Moneyline Express Pte Ltd </td>
  </tr>
  
  <tr>
+ <td></td>
  <td>i. Chiang Tin Wei Samuel</td>
  <td>31/04/2014</td>
  <td>2,500</td>
  </tr>
  
  <tr>
+ <td></td>
  <td>ii. Chuah Kim Tion Eric</td>
  <td>06/02/2015</td>
  <td>162,000</td>
@@ -402,13 +404,13 @@ collection_name: news
  
 
  <tr>
- <td rowspan="3">37.</td>
+ <td>37.</td>
  <td colspan="3">Skyline Credit</td>
 
   </tr>
  
  <tr>
- 
+ <td></td>
  <td>i. Hu Sufen</td>
  <td>25/02/2016</td>
  <td>13,000</td>
@@ -416,10 +418,12 @@ collection_name: news
  </tr>
  
  <tr>
+ <td></td>
  <td>ii. Chng Kok Keng</td>
  <td>25/02/2016</td>
  <td>12,000</td>
  </tr>
+ 
  
 
  
