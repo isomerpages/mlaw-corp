@@ -165,13 +165,14 @@ collection_name: news
  </tr> 
  
 <tr>
-<td rowspan="2">13.</td>
+<td>13.</td>
 <td>i. Money Plant Pte Ltd</td>
 <td>10/06/2013</td>
 <td>2,000</td>
 </tr>
 
 <tr>
+ <td></td>
 <td>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
 <td>10/06/2013</td>
 <td>15,000</td>
