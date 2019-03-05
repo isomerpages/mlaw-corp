@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring
 permalink: /news/public-consultations/public-consultation-on-the-report-of-the-committee-to-strengthen
 breadcrumb: Public Consultation
