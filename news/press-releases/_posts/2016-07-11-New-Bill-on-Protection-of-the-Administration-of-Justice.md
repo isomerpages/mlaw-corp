@@ -59,7 +59,23 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 **MINISTRY OF LAW**  
 **11 JULY 2016**
 
+[Infographic - Protecting the Administration of Justice](/files/news/press-releases/2016/07/Infographic - Protecting the Administration of Justice - new.pdf)
+
 **Translation of “Administration of Justice (Protection) Bill”**
 
 
-TABLE 
+<table class="table-h">
+<tr>
+<td>Chinese</td>
+<td>司法维护法案</td>
+</tr>
+<tr>
+<td>Malay</td>
+<td>Rang Undang-undang Pentadbiran Keadilan (Perlindungan)</td>
+</tr>
+<tr>
+<td>Tamil</td>
+<td>நீதி நிர்வாகம் (பாதுகாப்பு) மசோதா</td>
+
+</tr>
+</table>
