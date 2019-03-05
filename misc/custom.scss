@@ -381,7 +381,8 @@ $desktop: 960px + (2 * $gap) !default;
 /* style to color links */
 
 .content a{
-    color: #900	
+    //color: #900
+	color: green;    
 }
 
 /* style to add space between list elements */
