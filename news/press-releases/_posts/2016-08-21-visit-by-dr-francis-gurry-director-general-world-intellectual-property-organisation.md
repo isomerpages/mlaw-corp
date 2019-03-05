@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Visit by Dr Francis Gurry, Director General, World Intellectual Property Organization
+permalink: /news/press-releases/visit-by-dr-francis-gurry--director-general--world-intellectual-
+breadcrumb: Press Releases
+collection_name: news
+---
+
 21 Aug 2016 Posted in [Press releases](/news/press-releases)
 
 1. Dr Francis Gurry, Director General of the World Intellectual Property Organization, will visit Singapore from 22 to 23 August 2016 at the invitation of Minister for Home Affairs and Law Mr K Shanmugam, under the inaugural Intellectual Property Distinguished Visitor Programme.
