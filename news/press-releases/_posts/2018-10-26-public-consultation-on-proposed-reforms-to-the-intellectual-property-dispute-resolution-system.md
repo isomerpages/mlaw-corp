@@ -51,7 +51,7 @@ collection_name: news
 **Invitation to Give Feedback**
 
 {:start="8"}
-8. The public is invited to share their comments and feedback on the proposed reforms. The public consultation paper, together with the report of the IPDR Committee, can be found in Annex A and Annex B respectively.
+8. The public is invited to share their comments and feedback on the proposed reforms. The public consultation paper, together with the report of the IPDR Committee, can be found in [Annex A](/files/news/press-releases/2018/10/Annex A IPDR Public Consultation Paper.pdf) and [Annex B](/files/news/press-releases/2018/10/Annex B IPDR Final Report.pdf) respectively.
 
 {:start="9"}
 9. All comments and feedback should be titled “IPDR public consultation comments” and submitted by 30 November 2018 via post or email to:
