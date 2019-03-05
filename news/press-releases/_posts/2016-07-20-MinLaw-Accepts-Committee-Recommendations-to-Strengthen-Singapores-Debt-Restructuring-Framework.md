@@ -32,10 +32,10 @@ collection_name: news
 
  
 
-5.         A full list of the Committee’s recommendations can be found in [Annex A]().
+5.         A full list of the Committee’s recommendations can be found in [Annex A](/files/news/press-releases/2016/07/Annex A - Recommendations of the Committee.pdf).
 
 
 **MINISTRY OF LAW**  
 **20 JULY 2016**
 
-[Annex A - Full list of the Committee’s recommendations]()
+[Annex A - Full list of the Committee’s recommendations](/files/news/press-releases/2016/07/Annex A - Recommendations of the Committee.pdf)
