@@ -167,12 +167,13 @@ collection_name: news
 <tr>
 <td rowspan="2">13.</td>
 <td>i. Money Plant Pte Ltd</td>
-<td rowspan="2">10/06/2013</td>
+<td>10/06/2013</td>
 <td>2,000</td>
 </tr>
 
 <tr>
 <td>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+<td>10/06/2013</td>
 <td>15,000</td>
 </tr>
 
@@ -354,7 +355,7 @@ collection_name: news
 
  <tr>
  <td rowspan="3">33.</td>
- <td>Moneyline Express Pte Ltd </td>
+ <td colspan="3">Moneyline Express Pte Ltd </td>
  </tr>
  
  <tr>
@@ -401,19 +402,21 @@ collection_name: news
 
  <tr>
  <td rowspan="3">37.</td>
- <td>Skyline Credit</td>
- <td rowspan="3">25/02/2016</td>
+ <td colspan="3">Skyline Credit</td>
+
   </tr>
  
  <tr>
  
  <td>i. Hu Sufen</td>
+ <td>25/02/2016</td>
  <td>13,000</td>
  
  </tr>
  
  <tr>
  <td>ii. Chng Kok Keng</td>
+ <td>25/02/2016</td>
  <td>12,000</td>
  </tr>
  
@@ -475,10 +478,3 @@ collection_name: news
 
 
 </table>
-
-
-
-
-
-
-
