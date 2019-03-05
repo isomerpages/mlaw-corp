@@ -76,7 +76,7 @@ collection_name: news
 
  
 
-4.         Other reforms relating to security realization, proofs of debt and bankruptcy records will also take effect on 1 August. Details of these other reforms can be found in [Annex A](/files/news/press-releases/2016/07/Annex A - Other Reforms to the Bankruptcy Framework.pdf).
+4.         Other reforms relating to security realization, proofs of debt and bankruptcy records will also take effect on 1 August. Details of these other reforms can be found in [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/07/Annex A - Other Reforms to the Bankruptcy Framework.pdf).
 
 
 
@@ -95,7 +95,7 @@ collection_name: news
 **27 JULY 2016**
 
 
-[Infographic - New Differentiated Discharge Framework for Bankrupts](/files/news/press-releases/2016/07/Infographic - New Differentiated Discharge Framework.pdf)
+[Infographic - New Differentiated Discharge Framework for Bankrupts(PDF, 0.3MB)](/files/news/press-releases/2016/07/Infographic - New Differentiated Discharge Framework.pdf)
 
 <sup>[1]</sup> “Institutional creditors” are defined as either (i) banks and finance companies regulated by MAS; or (ii) business undertakings with annual sales turnover or more than $100 million and more than 200 employees.
 
