@@ -28,48 +28,5 @@ collection_name: news
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
 
----
-
-testing
-
----
-
-<ol>
-<li>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. 
-  </li>
-<li>
-  
-  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. 
-  
-  </li>
-</ol>
-<p>simplifying the means for</p>
-
-<ol start="3">
-
-  <li>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. 
-<ol style="list-style-type: lower-alpha;">
-<li>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. 
-<ol style="list-style-type: lower-roman;">
-<li>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. </li>
-<li>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam velit arcu, ultrices sit amet scelerisque nec, consequat in nisi. Pellentesque maximus, massa id accumsan pretium, velit lacus sollicitudin velit, ut feugiat erat sem eu erat. Morbi ut rutrum purus, ut suscipit sapien. Fusce id leo vehicula, egestas libero eget, gravida sem. Praesent nunc tortor, pellentesque at ligula ut, bibendum cursus magna. Quisque sit amet arcu lobortis, consectetur tellus ac, dictum sem. Sed rutrum sit amet ipsum sit amet porttitor. Aliquam viverra interdum nisl, id luctus mauris molestie nec. Proin auctor felis eu tortor luctus, at ultricies lacus scelerisque. </li>
-</ol>
-</li>
-<li>disposable cpatial</li>
-</ol>
-</li>
-</ol>
 
 
