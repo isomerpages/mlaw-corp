@@ -46,8 +46,8 @@ Email: MLAW_Consultation@mlaw.gov.sg
 
 Annex A:
 
-[EXECUTIVE SUMMARY]()  
-[INSOLVENCY LAW REVIEW COMMITTEE REPORT]()  
+[EXECUTIVE SUMMARY (PDF, 0.1MB)](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf)  
+[INSOLVENCY LAW REVIEW COMMITTEE REPORT (PDF, 1.6MB)](/files/news/public-consultations/2013/10/Revised Report of the Insolvency Law Review Committee.pdf)  
 
 
 
