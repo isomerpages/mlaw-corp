@@ -18,7 +18,7 @@ collection_name: news
 **Summary of Key Changes to the Act**
 
 
-
+{:start="3"}
 3.    To provide creators with more recognition and practical protection, some of the key proposed recommendations for creators are:
 
   
@@ -28,7 +28,7 @@ collection_name: news
 
         (ii)    Creators will have a right of attribution – which will enable them to ask that they be credited as the creator, regardless of whether they still own the Copyright.
 
-
+{:start="4"}
 4.    In order for our Copyright regime to adapt to modern developments, some of the key proposed recommendations for users are:
 
 
@@ -43,18 +43,18 @@ collection_name: news
         (iii)    Allowing text and data mining for the purposes of data analysis. This will support the growth of the data analytics business sector.
 
  
-
+{:start="5"}
 5.    A summary of the issues under consultation can be found in [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).
 
  
-
+{:start="6"}
 6.    Commenting on the recommendations, Senior Minister of State for Law & Finance, Ms Indranee Rajah said, “This is a wide ranging review which aims to help creators gain more recognition and practical protection for their works, while providing users with reasonable and easier access to those works. We would particularly like to see individuals and small businesses come forward and provide their views in this public consultation. This will help the Government take into account all stakeholders’ views so as to improve our copyright regime to better support the creative economy.”
 
 
 **Invitation for feedback**
 
  
-
+{:start="7"}
 7.    Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback online via http://www.mlaw.gov.sg/CopyrightReview or in hard copy to the following address:
 
 
