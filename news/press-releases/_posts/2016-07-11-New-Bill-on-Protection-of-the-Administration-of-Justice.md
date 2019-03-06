@@ -8,8 +8,6 @@ collection_name: news
 
 11 Jul 2016 Posted in [Press releases](/news/press-releases)
 
-LOAD PLAYER?
-
 1.    The Administration of Justice (Protection) Bill was introduced in Parliament today for first reading by the Minister for Law, Mr K Shanmugam.
 
 
