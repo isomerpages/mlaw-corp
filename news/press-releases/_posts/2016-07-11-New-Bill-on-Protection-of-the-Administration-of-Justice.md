@@ -16,7 +16,7 @@ collection_name: news
 
 **Key features of the Bill**
 
-
+{:start="3"}
 3.    The key features of the Bill are as follows:
 
 
@@ -44,12 +44,14 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 **Background**
 
 
+{:start="4"}
 4.    Currently, the law of contempt of court is based on case law. What constitutes contempt and the available defences to contempt are based on case law.
 
 
+{:start="5"}
 5.    The Bill will consolidate the key elements of the law of contempt into statute.  The boundaries of contempt -- what is permissible or not permissible to do or say -- will not change.
 
-
+{:start="6"}
 6.    Stakeholders, including the Judiciary, the Law Society of Singapore, the media industry, legal practitioners, civil society and academia, have been actively consulted in the drafting of the Bill.
 
 
