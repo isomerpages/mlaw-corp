@@ -31,7 +31,7 @@ The remaining four charges for similar offences were taken into consideration by
 5. Chng was convicted on one out of three charges under Section 25(4)(b) of the Moneylenders Act for knowingly producing a document, which contained a false statement on the income of a borrower, to an officer duly authorised by the Registrar during an inspection. The remaining two charges for similar offences were taken into consideration by the Court for the purpose of sentencing.
 
 {:start="6"}
-6. Hu was sentenced in the State Courts to a fine of $13,000 (in default 3 weeks’ imprisonment), while Chng was sentenced to a fine of $12,000 (in default 2 weeks’ imprisonment). Thirty-six other licensed moneylenders have been convicted and fined since 2011 (see (Annex A)[/files/news/press-releases/2016/02/Annex A List of past convictions.docx]). 
+6. Hu was sentenced in the State Courts to a fine of $13,000 (in default 3 weeks’ imprisonment), while Chng was sentenced to a fine of $12,000 (in default 2 weeks’ imprisonment). Thirty-six other licensed moneylenders have been convicted and fined since 2011 (see [Annex A (DOCX, 0.02MB)](/files/news/press-releases/2016/02/Annex A List of past convictions.docx]). 
 
 {:start="7"}
 7. The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act and Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge.
