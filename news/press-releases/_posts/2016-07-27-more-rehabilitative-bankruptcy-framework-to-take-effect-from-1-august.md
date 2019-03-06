@@ -15,6 +15,7 @@ collection_name: news
 
 **Key Reforms**
 
+{:start="3"}
 3. Some of the key framework changes to be effected on 1 August are:
 
 (i)     Increased debt threshold
@@ -75,17 +76,18 @@ collection_name: news
 ·           A key consideration in a bankrupt’s eligibility for discharge will be whether he has paid his “Target Contribution” in full. The Target Contribution is determined based on the bankrupt’s earning potential.
 
  
-
+{:start="4"}
 4.         Other reforms relating to security realization, proofs of debt and bankruptcy records will also take effect on 1 August. Details of these other reforms can be found in [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/07/Annex A - Other Reforms to the Bankruptcy Framework.pdf).
 
 
 
 **Background**
 
+{:start="5"}
 5.         The reforms are in line with the recommendations made in the Insolvency Law Review Committee’s report submitted in 2013, and given legal effect through the Bankruptcy (Amendment) Bill passed in Parliament in July 2015.
 
  
-
+{:start="6"}
 6.         In reviewing the bankruptcy regime, MinLaw sought feedback on these changes through a public consultation from 16 January 2015 to 24 February 2015. Further closed dialogue sessions were also held in June 2015 and June 2016 with groups of stakeholders on operational details of the new framework.
 
 
