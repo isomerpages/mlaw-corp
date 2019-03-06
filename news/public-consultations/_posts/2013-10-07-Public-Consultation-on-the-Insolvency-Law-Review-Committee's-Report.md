@@ -6,7 +6,7 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
-**Consultation Period:**
+**Consultation Period:**  
 7 Oct 2013 to 2 Dec 2013
 
 **Background**
@@ -30,7 +30,7 @@ collection_name: news
 2. The Committee submitted its report to MinLaw on 4 October 2013. 
 
 
-3. MinLaw welcomes the report, and will carefully consider the Committee’s recommendations as well as the issues raised.  The Committee’s Report and a summary of its recommendations are at Annex A.  The Committee has also issued a press release, which may be found at Annex B.
+3. MinLaw welcomes the report, and will carefully consider the Committee’s recommendations as well as the issues raised.  The Committee’s Report and a summary of its recommendations are at **<u>Annex A</u>**.  The Committee has also issued a press release, which may be found at **<u>Annex B</u>**.
 
 **Public Consultation**
 
@@ -44,8 +44,7 @@ Singapore 179434
 Fax: 63328842  
 Email: MLAW_Consultation@mlaw.gov.sg
 
-Annex A:
-
+**Annex A:**    
 [EXECUTIVE SUMMARY (PDF, 0.1MB)](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf)  
 [INSOLVENCY LAW REVIEW COMMITTEE REPORT (PDF, 1.6MB)](/files/news/public-consultations/2013/10/Revised Report of the Insolvency Law Review Committee.pdf)  
 
