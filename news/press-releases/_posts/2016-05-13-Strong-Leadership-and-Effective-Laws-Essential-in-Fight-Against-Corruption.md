@@ -6,6 +6,8 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+13 May 2016 Posted in [Press releases](/news/press-releases)
+
 1. Senior Minister of State for Law and Finance, Ms Indranee Rajah S.C, represented Singapore at the inaugural Anti-Corruption Summit 2016 in London yesterday. The Summit was hosted by the Prime Minister of the United Kingdom, Mr David Cameron.
 
 
@@ -26,6 +28,7 @@ collection_name: news
 
 **Background of Summit**
 
+{:start="7"}
 7. The first of its kind, the Anti-Corruption Summit 2016 brings together world leaders, business leaders, and civil society to agree on a package of practical steps to expose corruption, punish the perpetrators and support those affected by corruption, and drive out the culture of corruption wherever it exists.
 
 [Annex A - Singapore Country Statement (PDF, 0.1MB)](/files/news/press-releases/2016/05/Anti Corruption 2016 Press Release Annex A.pdf)  
