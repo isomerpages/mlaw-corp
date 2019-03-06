@@ -40,7 +40,7 @@ collection_name: news
 9. This will give law practices greater flexibility to attract and retain non-lawyer talent, for example, those with strong management or finance experience, who can add value to the firm’s legal practice.
 
 {:start="10"}
-10. For further information on the LSRA, please visit https://www.mlaw.gov.sg/.
+10. For further information on the LSRA, please visit [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/).
 
 **Background**
 
