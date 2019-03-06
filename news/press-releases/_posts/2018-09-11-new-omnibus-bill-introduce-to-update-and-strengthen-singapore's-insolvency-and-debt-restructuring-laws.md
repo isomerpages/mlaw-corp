@@ -111,7 +111,7 @@ collection_name: news
 
 * Public consultation was held on the ILRC’s report in December 2013, and the Government broadly accepted the ILRC’s recommendations on 6 May 2014.
 
-Further information on the ILRC’s recommendations, as well as the report, can be found [here](/misc/404) and [here](/news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0).
+Further information on the ILRC’s recommendations, as well as the report, can be found [here](/news/public-consultations/public-consultation-on-ILRC-report) and [here](/news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0).
 
 {:start="2"}
 2. In May 2015, the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“**Restructuring Committee**”) was formed. 
