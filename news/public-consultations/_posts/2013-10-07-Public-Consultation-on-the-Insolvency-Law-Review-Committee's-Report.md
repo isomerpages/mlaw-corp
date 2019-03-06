@@ -34,6 +34,7 @@ collection_name: news
 
 **Public Consultation**
 
+{:start="4"}
 4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at www.mlaw.gov.sg and www.reach.gov.sg.  The feedback may be submitted in electronic form or hard copy form to:
 
 
