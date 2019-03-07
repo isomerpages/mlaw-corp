@@ -20,7 +20,7 @@ collection_name: news
 **Clarification of extent of underground ownership**
 
 {:start="4"}
-4. The amendments to the State Lands Act will clarify that surface landowners own the underground space up to 30 metres under the Singapore Height Datum <sup>1</sup>, unless otherwise specified in the State title. The amendments will not affect how landowners currently use and develop underground space, and landowners will continue to own all the space they need. Generally, basements of developments in Singapore extend to about 15 metres underground.
+4. The amendments to the State Lands Act will clarify that surface landowners own the underground space up to 30 metres under the Singapore Height Datum <sup>[1](#btm-foot)</sup>, unless otherwise specified in the State title. The amendments will not affect how landowners currently use and develop underground space, and landowners will continue to own all the space they need. Generally, basements of developments in Singapore extend to about 15 metres underground.
 
 
 **Introduction of strata acquisition powers** 
@@ -41,4 +41,4 @@ collection_name: news
 
 ---
 
-<sup>[1]</sup> The Singapore Height Datum is a level fixed across the whole of Singapore from which height measurements take reference. It is pegged to Singapore’s historical mean sea level. All private landowners will have 30m or more of underground space for development.
+<p id="btm-foot"><sup>[1]</sup> The Singapore Height Datum is a level fixed across the whole of Singapore from which height measurements take reference. It is pegged to Singapore’s historical mean sea level. All private landowners will have 30m or more of underground space for development.</p>
