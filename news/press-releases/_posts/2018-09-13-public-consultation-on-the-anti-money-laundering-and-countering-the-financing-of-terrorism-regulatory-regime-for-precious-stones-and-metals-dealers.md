@@ -26,11 +26,11 @@ collection_name: news
  
 
 <li><u>Registration</u>. All PSMDs, except Pawnbrokers and foreign PSMDs, are required to register with MinLaw; and</li>
-</ol>
+
  
 
 <li> <u>AML/CFT requirements</u>. PSMDs will be required to perform Customer Due Diligence<sup>[2]</sup> (CDD), keep relevant transaction and CDD records, file Suspicious Transactions Reports and Cash Transactions Reports, conduct internal ML/TF risk assessments, and introduce internal policies, procedures and controls to address ML/TF risks.  </li>
-
+</ol>
  
 {:start="5"}
 5. In developing the regulatory framework, MinLaw had conducted an industry survey and held informal discussions with industry stakeholders, including industry associations, manufacturers, wholesalers and retailers. MinLaw has also studied the Financial Action Task Force’s requirements and global best practices for AML/CFT regulation.
