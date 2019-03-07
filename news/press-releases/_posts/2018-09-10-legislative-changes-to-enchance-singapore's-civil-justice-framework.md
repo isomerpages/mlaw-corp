@@ -8,87 +8,183 @@ collection_name: news
 
 10 Sep 2018 Posted in [Press releases](/news/press-releases)
 
-1. The Ministry of Law (MinLaw) has tabled the Supreme Court of Judicature (Amendment No. 2) Bill for First Reading in Parliament today. The proposed amendments are aimed at aligning our civil procedure framework to changing socio-economic needs, technological developments and industry trends.
+<ol>
+<li>The Ministry of Law (MinLaw) has tabled the Supreme Court of Judicature (Amendment No. 2) Bill for First Reading in Parliament today. The proposed amendments are aimed at aligning our civil procedure framework to changing socio-economic needs, technological developments and industry trends.</li>
 
-2. The proposed changes in the Bill would grant the courts more flexibility to tailor court procedures according to shifting trends and to suit the needs of individual cases.
+<li>The proposed changes in the Bill would grant the courts more flexibility to tailor court procedures according to shifting trends and to suit the needs of individual cases.</li>
+
+</ol>
 
 **Key Amendments to the Supreme Court of Judicature Act**
 
-{:start="3"}
-3. The key features of the Bill are as follows:
+<ol start="3">
 
-**<u>(A) Enhance and improve court processes</u>**
+<li>The key features of the Bill are as follows:</li>
 
-* *Clarify that the courts can conduct hearings via video conference or other electronic means*.  
-    * This will help save and time and costs as lawyers need not travel to court for hearings that can be conducted via electronic means.
+</ol>
 
- 
 
-* *Clarify that the Rules Committee is empowered to make rules relating to how factual and expert evidence is to be presented in court*.
-    * This allows the Rules Committee to take into account trends in specific cases and develop rules to optimise the use of court time in the admission of evidence.
+<ol style="list-style-type: upper-alpha;  font-weight: bold;">
+<li>Enhance and improve court processes</li>
+</ol>
 
- 
+<ol style="list-style-type: lower-roman;">
+<li>Clarify that the courts can conduct hearings via video conference or other electronic means.  
 
-* *Grant the courts greater powers to control vexatious proceedings*.  
-    * This amendment grants the courts power to make different types of civil restraint orders to address varying degrees of vexatious conduct. This introduces a more nuanced approach to restrain a vexatious litigant, taking into account the facts of each case.
-    * The court may also stay the vexatious proceedings and order that no further documents be filed by a party if the filing of documents would be vexatious or for an improper purpose.  
-    * These proposals were drawn from best practices in the United Kingdom and Canada.
+<ul>
+<li>This will help save and time and costs as lawyers need not travel to court for hearings that can be conducted via electronic means.</li>
+</ul>
 
- 
+</li>
 
-* *Allowing the courts to impose late filing fees for non-compliance with the Rules of Court, court orders or directions, and practice directions*.
-    * This seeks to encourage parties and their lawyers to comply with the Rules of Court, court orders and practice directions, so as to ensure the effectiveness of court sessions.
- 
+<li>Clarify that the Rules Committee is empowered to make rules relating to how factual and expert evidence is to be presented in court.
 
-* *Requiring the leave of court before an application can be made to admit further evidence on appeal, except for matters which occurred subsequent to the date of decision*.
-    * This aims to encourage parties to present all relevant evidence at the first instance hearing.
- 
-* *Amend the monetary threshold to $60,000 for decisions of the District and Magistrates’ Courts which are appealable with leave to the High Court*.
-    * Currently, decisions of the District and Magistrates’ Courts are appealable to the High Court with leave if the amount in dispute does not exceed $50,000. However, the jurisdiction of the Magistrates’ Court is $60,000, which results in gap where cases between $50,000 and $60,000 can be appealed to the High Court without leave. The proposed amendment seeks to close this gap.
+<ul>
+<li>
+This allows the Rules Committee to take into account trends in specific cases and develop rules to optimise the use of court time in the admission of evidence.
+</li>
+</ul>
 
- 
-**(B) Strengthening procedures for cases before the Court of Appeal**
+</li>
+<li>
+Grant the courts greater powers to control vexatious proceedings.  
+</li>
 
- 
+<ul>
+<li>This amendment grants the courts power to make different types of civil restraint orders to address varying degrees of vexatious conduct. This introduces a more nuanced approach to restrain a vexatious litigant, taking into account the facts of each case.</li>
 
-* *Allowing the Court of Appeal to determine a broader range of matters based on written submissions*.
-    * The Court of Appeal may determine (i) any application and (ii) appeals from the Singapore International Commercial Court if parties consent, based on written submissions.
-    * This will allow appropriate cases to be dealt with in an expedited manner without the need to conduct hearings.
+<li>The court may also stay the vexatious proceedings and order that no further documents be filed by a party if the filing of documents would be vexatious or for an improper purpose.</li>
 
- 
+<li>These proposals were drawn from best practices in the United Kingdom and Canada.</li>
 
-* *Allowing the Minister to specify certain matters in a Schedule to the Supreme Court of Judicature Act (SCJA)*.
-    * The Minister will be allowed to specify the following in a Schedule to the SCJA which can be amended by the Minister in consultation with CJ:
-        * Civil matters which may or may not be appealed with leave
-        * Number of judges needed to exercise the civil jurisdiction of the Court of Appeal for different types of matters.
-    * This allows the list of matters specified in the Schedule to be amended quickly to adapt to demands on the ground.
 
- 
-* *Leave of court is required to vary or discharge directions or orders made under section 36*.
-    * This amendment inserts a new requirement that leave of court is required to make an application to discharge or vary directions or orders made pursuant to applications ancillary to a pending appeal.
-    * The requirement for leave of court ensures that court resources are used appropriately to deal with meritorious applications.
+</ul>
 
- 
+<li>
+Allowing the courts to impose late filing fees for non-compliance with the Rules of Court, court orders or directions, and practice directions.
 
-* *Empowering the Court of Appeal to summarily dismiss appeals or applications on its own motion*.
-    * This power can be exercised in two circumstances:
-        * Where it lacks the jurisdiction to hear the matter; or
-        * Where the matter relates to an issue that has already been decided by the Court of Appeal.
+<ul>
+<li>This seeks to encourage parties and their lawyers to comply with the Rules of Court, court orders and practice directions, so as to ensure the effectiveness of court sessions.</li>
+</ul>
 
- 
+</li>
 
-    * This allows unmeritorious appeals or applications to be dismissed without expending excessive judicial time and resources.
-    * The Court of Appeal must give the party a reasonable opportunity to show cause why that appeal or application should not be dismissed.
 
- 
+
+<li>
+Requiring the leave of court before an application can be made to admit further evidence on appeal, except for matters which occurred subsequent to the date of decision.
+
+<ul>
+<li> This aims to encourage parties to present all relevant evidence at the first instance hearing.</li>
+</ul>
+
+</li>
+
+<li>
+Amend the monetary threshold to $60,000 for decisions of the District and Magistrates’ Courts which are appealable with leave to the High Court.
+
+<ul>
+<li>Currently, decisions of the District and Magistrates’ Courts are appealable to the High Court with leave if the amount in dispute does not exceed $50,000. However, the jurisdiction of the Magistrates’ Court is $60,000, which results in gap where cases between $50,000 and $60,000 can be appealed to the High Court without leave. The proposed amendment seeks to close this gap.</li>
+</ul>
+
+
+</li>
+
+
+</ol>
+
+<ol start="2" style="list-style-type: upper-alpha;  font-weight: bold;">
+<li>Strengthening procedures for cases before the Court of Appeal</li>
+</ol>
+
+
+<ol start="7" style="list-style-type: lower-roman;">
+<li>Allowing the Court of Appeal to determine a broader range of matters based on written submissions.
+
+<ul>
+<li>The Court of Appeal may determine (i) any application and (ii) appeals from the Singapore International Commercial Court if parties consent, based on written submissions.</li>
+
+<li>
+ This will allow appropriate cases to be dealt with in an expedited manner without the need to conduct hearings.
+</li>
+</ul>
+
+</li>
+
+<li>
+Allowing the Minister to specify certain matters in a Schedule to the Supreme Court of Judicature Act (SCJA).
+
+<ul>
+<li>
+The Minister will be allowed to specify the following in a Schedule to the SCJA which can be amended by the Minister in consultation with CJ:
+</li>
+
+<ul>
+<li>Civil matters which may or may not be appealed with leave</li>
+<li>Number of judges needed to exercise the civil jurisdiction of the Court of Appeal for different types of matters.</li>
+</ul>
+
+<li>This allows the list of matters specified in the Schedule to be amended quickly to adapt to demands on the ground.</li>
+
+</ul>
+
+</li>
+
+<li>
+  Leave of court is required to vary or discharge directions or orders made under section 36.
+  
+  <ul>
+  <li>
+  This amendment inserts a new requirement that leave of court is required to make an application to discharge or vary directions or orders made pursuant to applications ancillary to a pending appeal.
+  </li>
+  
+  <li>
+  The requirement for leave of court ensures that court resources are used appropriately to deal with meritorious applications.
+  </li>
+  </ul>
+</li>
+
+
+<li>
+ Empowering the Court of Appeal to summarily dismiss appeals or applications on its own motion.
+
+<ul>
+<li> This power can be exercised in two circumstances:
+
+<ul>
+<li>Where it lacks the jurisdiction to hear the matter; or</li>
+
+<li>Where the matter relates to an issue that has already been decided by the Court of Appeal.</li>
+
+
+</ul>
+
+
+
+</li>
+
+<li>
+This allows unmeritorious appeals or applications to be dismissed without expending excessive judicial time and resources.
+</li>
+
+<li>
+The Court of Appeal must give the party a reasonable opportunity to show cause why that appeal or application should not be dismissed.
+</li>
+
+</ul>
+
+
+</li>
+
+</ol>
 
 **Background**
 
-{:start="4"}
-4. A public consultation on the proposed amendments was conducted by the Ministry of Law from 2 July 2018 to 30 July 2018. The key amendments above were finalised after the public consultation and closed consultation with key stakeholders, including the Supreme Court and the legal practitioners.
+<ol start="4">
+<li>  A public consultation on the proposed amendments was conducted by the Ministry of Law from 2 July 2018 to 30 July 2018. The key amendments above were finalised after the public consultation and closed consultation with key stakeholders, including the Supreme Court and the legal practitioners.</li>
 
-{:start="5"}
-5. Our responses to the feedback received from the public consultation exercise can be found in Annex A.
+<li>Our responses to the feedback received from the public consultation exercise can be found in Annex A.</li>
+</ol>
 
 **MINISTRY OF LAW**  
 **10 SEPTEMBER 2018**
@@ -99,14 +195,19 @@ collection_name: news
 **RESPONSES TO FEEDBACK RECEIVED ON THE PROPOSED AMENDMENTS TO THE SUPREME COURT OF JUDICATURE ACT**
 
 **<u>Background</u>**
+<ol>
+<li>On 2 July 2018, the Ministry of Law (MinLaw) released a public consultation paper on the proposed amendments to the Supreme Court of Judicature Act (“SCJA”). The public consultation exercise closed on 30 July 2018, and MinLaw received feedback on the following key proposals:
 
-1. On 2 July 2018, the Ministry of Law (MinLaw) released a public consultation paper on the proposed amendments to the Supreme Court of Judicature Act (“SCJA”). The public consultation exercise closed on 30 July 2018, and MinLaw received feedback on the following key proposals:
-    * Grant the courts greater powers to control vexatious proceedings
-    * Allow Minister to specify in a Schedule to the SCJA the civil matters which may or may not be appealed with leave to the Court of Appeal
-    * Allow Minister to specify the number of judges that may exercise the civil jurisdiction of the Court of Appeal for different types of matters
-    * Allow the Court of Appeal to summarily dismiss appeals or applications on its own motion
+<ol style="list-style-type: lower-alpha;">
+<li> Grant the courts greater powers to control vexatious proceedings</li>
+<li>Allow Minister to specify in a Schedule to the SCJA the civil matters which may or may not be appealed with leave to the Court of Appeal</li>
+<li> Allow Minister to specify the number of judges that may exercise the civil jurisdiction of the Court of Appeal for different types of matters</li>
+<li>Allow the Court of Appeal to summarily dismiss appeals or applications on its own motion</li>
+</ol>
 
-2. The respondents’ feedback and MinLaw’s responses are set out below:
+</li>
+<li>The respondents’ feedback and MinLaw’s responses are set out below:</li>
+</ol>
 
 **<u>Feedback Received</u>**
 
