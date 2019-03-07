@@ -247,3 +247,6 @@ The Court of Appeal must give the party a reasonable opportunity to show cause w
 
 {:start="9"}
 9. MinLaw would like to thank all respondents for taking the time to review the proposed amendments to the SCJA and provide their valuable feedback. These feedback has helped us to review and refine our proposed amendments to the SCJA.
+
+<p class="right-side-updated">Last updated on 10 Sep 2018
+</p>
