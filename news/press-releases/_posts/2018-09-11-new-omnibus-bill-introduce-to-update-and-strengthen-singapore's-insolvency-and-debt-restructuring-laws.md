@@ -59,9 +59,9 @@ collection_name: news
 **(B) Regulatory regime for insolvency practitioners**
 
 {:start="11"}
-<ol style="list-style-type: lower-alpha;">
-11. A new regulatory regime for practitioners acting as officeholders in the various types of restructuring and insolvency proceedings will be established. The Bill will:
 
+11. A new regulatory regime for practitioners acting as officeholders in the various types of restructuring and insolvency proceedings will be established. The Bill will:
+<ol style="list-style-type: lower-alpha;">
 <li>Impose minimum qualifications, and conditions for the grant and renewal of licences; and</li>
 
 <li>Put in place a disciplinary framework for errant officeholders in respect of breaches in their conduct as insolvency practitioners.</li>
@@ -140,9 +140,7 @@ Further information on the Restructuring Committee’s recommendations, as well 
 {:start="7"}
 7. In addition to the public consultations on the reports of the ILRC and Debt Restructuring Committee conducted in 2013 and 2016 respectively, the proposed changes and the provisions in the Bill were finalised after consultation with industry bodies and leading practitioners. Respondents generally agreed with the proposed changes and supported the Bill. Suggestions by the respondents were considered in detail, several of which have been incorporated into the Bill.
 
-<p class="right-side-updated">Last updated on 18 Sep 2018
-© 2018 Government of SingaporePrivacy StatementTerms of UseRate This Website
-Ask Jamie @ MinLaw</p>
+<p class="right-side-updated">Last updated on 18 Sep 2018 </p>
 
 
 
