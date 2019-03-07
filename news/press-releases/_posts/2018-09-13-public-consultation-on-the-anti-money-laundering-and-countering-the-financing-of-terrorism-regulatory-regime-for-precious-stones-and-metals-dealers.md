@@ -20,16 +20,16 @@ collection_name: news
 4. The proposed regime is outlined in the public consultation paper, with details on:
 
  
-
-* <u>PSMDs covered under the regime</u>. The definition of a dealer, and precious stones, metals, and products, will be as stipulated in the Corruption, Drug Trafficking and other Serious Crimes (Cash Transaction Reports) Regulations. Pawnbrokers and foreign PSMDs, will be exempted from certain requirements under the regime;
-
- 
-
-* <u>Registration</u>. All PSMDs, except Pawnbrokers and foreign PSMDs, are required to register with MinLaw; and
+<ol style="list-style-type: lower-alpha;">
+<li> <u>PSMDs covered under the regime</u>. The definition of a dealer, and precious stones, metals, and products, will be as stipulated in the Corruption, Drug Trafficking and other Serious Crimes (Cash Transaction Reports) Regulations. Pawnbrokers and foreign PSMDs, will be exempted from certain requirements under the regime;</li>
 
  
 
-* <u>AML/CFT requirements</u>. PSMDs will be required to perform Customer Due Diligence<sup>[2]</sup> (CDD), keep relevant transaction and CDD records, file Suspicious Transactions Reports and Cash Transactions Reports, conduct internal ML/TF risk assessments, and introduce internal policies, procedures and controls to address ML/TF risks.  
+<li><u>Registration</u>. All PSMDs, except Pawnbrokers and foreign PSMDs, are required to register with MinLaw; and</li>
+</ol>
+ 
+
+<li> <u>AML/CFT requirements</u>. PSMDs will be required to perform Customer Due Diligence<sup>[2]</sup> (CDD), keep relevant transaction and CDD records, file Suspicious Transactions Reports and Cash Transactions Reports, conduct internal ML/TF risk assessments, and introduce internal policies, procedures and controls to address ML/TF risks.  </li>
 
  
 {:start="5"}
@@ -71,3 +71,6 @@ Email: [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
 
 <sup>[1]</sup>The legal requirements were enacted under Part VIB of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act and the Corruption, Drug Trafficking and Other Serious Crimes (Cash Transaction Reports) Regulations 2014.  
 <sup>[2]</sup>Customer Due Diligence (CDD) is the process intended to enable a PSMD to form a reasonable belief that it knows the true identity of each customer. 
+
+<p class="right-side-updated">Last updated on 13 Sep 2018
+</p>
