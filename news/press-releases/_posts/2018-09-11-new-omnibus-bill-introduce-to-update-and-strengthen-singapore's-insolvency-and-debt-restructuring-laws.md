@@ -23,11 +23,13 @@ collection_name: news
 {:start="5"}
 5. Due to the large number of recommendations of the two Committees, a phased approach was taken to implement the recommendations, and other reforms to modernise and strengthen our laws:
 
-* The first phase involved amendments to the Bankruptcy Act in July 2015 to create a more rehabilitative discharge framework for bankrupts, and to encourage institutional creditors to exercise financial prudence when granting credit;
+<ol style="list-style-type: lower-alpha;">
+<li>The first phase involved amendments to the Bankruptcy Act in July 2015 to create a more rehabilitative discharge framework for bankrupts, and to encourage institutional creditors to exercise financial prudence when granting credit;</li>
 
-* The second phase involved amendments to the Companies Act in March 2017, to enhance our corporate rescue and restructuring processes, and to position Singapore as a forum of choice for debt restructuring; and  
+<li>The second phase involved amendments to the Companies Act in March 2017, to enhance our corporate rescue and restructuring processes, and to position Singapore as a forum of choice for debt restructuring; and</li>  
 
-* The final phase, which is the Bill submitted for First Reading in Parliament today, implements the remaining recommendations of the ILRC and Restructuring Committee.
+<li>The final phase, which is the Bill submitted for First Reading in Parliament today, implements the remaining recommendations of the ILRC and Restructuring Committee.</li>
+</ol>
 
 {:start="6"}
 6. In addition, the Bill includes further reforms to our debt restructuring regime, pursuant to industry feedback.  
@@ -39,13 +41,13 @@ collection_name: news
 
 {:start="8"}
 8. The main objectives of the Bill are to:
+<ol style="list-style-type: lower-alpha;">
+<li>Introduce a new omnibus legislation that consolidates the personal and corporate insolvency and restructuring laws.</li>
 
-* Introduce a new omnibus legislation that consolidates the personal and corporate insolvency and restructuring laws.
+<li>Establish a regulatory regime for insolvency practitioners.</li>
 
-* Establish a regulatory regime for insolvency practitioners.
-
-* Enhance Singapore’s insolvency and restructuring laws, in particular to strengthen our debt restructuring regimes.
-
+<li>Enhance Singapore’s insolvency and restructuring laws, in particular to strengthen our debt restructuring regimes.</li>
+</ol>
 **(A) New omnibus legislation**
 
 {:start="9"}
@@ -57,12 +59,13 @@ collection_name: news
 **(B) Regulatory regime for insolvency practitioners**
 
 {:start="11"}
+<ol style="list-style-type: lower-alpha;">
 11. A new regulatory regime for practitioners acting as officeholders in the various types of restructuring and insolvency proceedings will be established. The Bill will:
 
-* Impose minimum qualifications, and conditions for the grant and renewal of licences; and
+<li>Impose minimum qualifications, and conditions for the grant and renewal of licences; and</li>
 
-* Put in place a disciplinary framework for errant officeholders in respect of breaches in their conduct as insolvency practitioners.
-
+<li>Put in place a disciplinary framework for errant officeholders in respect of breaches in their conduct as insolvency practitioners.</li>
+</ol>
 {:start="12"}
 12. The Insolvency and Public Trustee’s Office under MinLaw will administer this new regulatory regime.
 
@@ -87,15 +90,15 @@ collection_name: news
 
 {:start="18"}
 18. Consolidating our corporate and personal insolvency and restructuring laws into an omnibus legislation brings benefits, which include:
+<ol style="list-style-type: lower-alpha;">
+ <li>Setting out common principles and procedures;</li>
 
-* Setting out common principles and procedures;
+<li>Addressing inconsistencies and uncertainty in current practice arising from cross-referencing of concepts across various pieces of insolvency legislation;</li>
 
-* Addressing inconsistencies and uncertainty in current practice arising from cross-referencing of concepts across various pieces of insolvency legislation;
+<li>Ehancing clarity, consistency and access to our laws by businesses; and</li>
 
-* Enhancing clarity, consistency and access to our laws by businesses; and
-
-* Assisting restructuring and insolvency practitioners, who currently have to navigate multiple primary and subsidiary legislation to advise their clients and carry out their functions.
-
+<li>Assisting restructuring and insolvency practitioners, who currently have to navigate multiple primary and subsidiary legislation to advise their clients and carry out their functions.</li>
+</ol>
 {:start="19"}
 19. Establishing a new regulatory framework for insolvency practitioners will professionalise and raise the quality of insolvency practitioners.
 
@@ -106,20 +109,20 @@ collection_name: news
 
 **BACKGROUND INFORMATION**
 1. In 2013, the Insolvency Law Review Committee (“**ILRC**”) made recommendations to holistically update Singapore’s personal and corporate insolvency and debt restructuring laws:
+<ol style="list-style-type: lower-alpha;">
+<li>The recommendations included the enactment of a new omnibus legislation. The omnibus legislation would consolidate the personal and corporate regimes, which are presently in two separate statutes, into a single piece of legislation.</li>
 
-* The recommendations included the enactment of a new omnibus legislation. The omnibus legislation would consolidate the personal and corporate regimes, which are presently in two separate statutes, into a single piece of legislation.
-
-* Public consultation was held on the ILRC’s report in December 2013, and the Government broadly accepted the ILRC’s recommendations on 6 May 2014.
-
+<li>Public consultation was held on the ILRC’s report in December 2013, and the Government broadly accepted the ILRC’s recommendations on 6 May 2014.</li>
+</ol>
 Further information on the ILRC’s recommendations, as well as the report, can be found [here](/news/public-consultations/public-consultation-on-ILRC-report) and [here](/news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0).
 
 {:start="2"}
 2. In May 2015, the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“**Restructuring Committee**”) was formed. 
+<ol style="list-style-type: lower-alpha;">
+<li>Building on the ILRC’s recommendations, which noted growing demand for debt restructuring in Asia, the recommendations focused on strengthening the debt restructuring ecosystem in Singapore.</li>
 
-* Building on the ILRC’s recommendations, which noted growing demand for debt restructuring in Asia, the recommendations focused on strengthening the debt restructuring ecosystem in Singapore.
-
-* Public consultation was held on the Restructuring Committee’s report in May 2016, and the Government broadly accepted the Restructuring Committee’s recommendations on 20 July 2016.
-
+<li>Public consultation was held on the Restructuring Committee’s report in May 2016, and the Government broadly accepted the Restructuring Committee’s recommendations on 20 July 2016.</li>
+</ol>
 Further information on the Restructuring Committee’s recommendations, as well as the report itself, can be found [here](/news/public-consultations/public-consultation-on-the-report-of-the-committee-to-strengthen) and [here](/news/press-releases/minlaw-accepts-committee-recommendations-to-strengthen-singapore).
 
 {:start="3"}
@@ -137,7 +140,9 @@ Further information on the Restructuring Committee’s recommendations, as well 
 {:start="7"}
 7. In addition to the public consultations on the reports of the ILRC and Debt Restructuring Committee conducted in 2013 and 2016 respectively, the proposed changes and the provisions in the Bill were finalised after consultation with industry bodies and leading practitioners. Respondents generally agreed with the proposed changes and supported the Bill. Suggestions by the respondents were considered in detail, several of which have been incorporated into the Bill.
 
-
+<p class="right-side-updated">Last updated on 18 Sep 2018
+© 2018 Government of SingaporePrivacy StatementTerms of UseRate This Website
+Ask Jamie @ MinLaw</p>
 
 
 
