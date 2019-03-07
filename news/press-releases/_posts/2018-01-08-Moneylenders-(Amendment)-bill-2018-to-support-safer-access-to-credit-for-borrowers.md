@@ -17,9 +17,10 @@ collection_name: news
 {:start="3"}
 3. The Bill allows the Minister for Law to introduce an aggregate loan cap in the Moneylenders Rules to set an overall limit on the amount that an individual<sup>[2]</sup> may borrow from all moneylenders, combined. It replaces the present loan caps, which only limit the amount that an individual may borrow from any single moneylender. The following caps will be introduced:
 
-* No more than $3,000 from all moneylenders combined for individuals earning less than $20,000 a year; and
-
-* No more than six times of individual’s monthly income from all moneylenders combined, for all other borrowers.
+<ol style="list-style-type: lower-alpha;">
+<li>No more than $3,000 from all moneylenders combined for individuals earning less than $20,000 a year; and</li>
+<li>No more than six times of individual’s monthly income from all moneylenders combined, for all other borrowers.</li>
+</ol>
 
 {:start="4"}
 4. The Ministry of Law (MinLaw) estimates that less than 2% of Singaporean borrowers who took out loans between March 2016 and March 2017 have an outstanding balance exceeding the aggregate loan cap. MinLaw is working with voluntary welfare organisations (VWOs) to help such borrowers manage their debt.
