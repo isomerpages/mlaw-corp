@@ -483,3 +483,6 @@ collection_name: news
 
 
 </table>
+
+<p class="right-side-updated">Last updated on 24 May 2018
+</p>
