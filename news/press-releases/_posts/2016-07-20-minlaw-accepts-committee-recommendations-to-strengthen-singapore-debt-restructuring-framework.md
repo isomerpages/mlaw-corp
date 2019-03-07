@@ -43,4 +43,4 @@ collection_name: news
 **20 JULY 2016**
 
 
-<p class="right-side-updated">Last updated on 7 Mar 2019</p>
+<p class="right-side-updated">Last updated on 20 Jul 2016</p>
