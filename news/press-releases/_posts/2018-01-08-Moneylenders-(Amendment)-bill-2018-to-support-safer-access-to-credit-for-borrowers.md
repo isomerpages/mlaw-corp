@@ -52,3 +52,5 @@ collection_name: news
 
 <sup>[1]</sup> [https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/moneylenders--amendment--bill.html](/news/press-releases/moneylenders--amendment--bill)  
 <sup>[2]</sup> The cap only applies to Singapore citizens and permanent residents.
+
+<p class="right-side-updated">Last updated on 08 Jan 2018</p>
