@@ -396,6 +396,12 @@ $desktop: 960px + (2 * $gap) !default;
   margin-top: 30px;
 }
 
+/* class to be used when styling the last updated text  */
+.right-side-updated{
+    text-align: right;
+    font-style: italic;
+}
+
 
 .hero-dropdown {
   display: flex;
