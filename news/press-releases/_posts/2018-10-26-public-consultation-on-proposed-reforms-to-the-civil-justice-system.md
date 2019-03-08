@@ -190,10 +190,44 @@ Email: MLAW_Consultation@mlaw.gov.sg
 *Civil Justice Review Committee (CJRC)*
 
 <ol start="6">
-<li>The CJRC was established on 18 May 2016 by the Ministry of Law. The CJRC’s key recommendations cover reforms to pre-trial procedure, trial and appeals procedure and post-trial procedure.</li>
-
-<li>The CJRC’s key recommendations include:</li>
-
+<li>The CJRC was established on 18 May 2016 by the Ministry of Law. The CJRC&rsquo;s key recommendations cover reforms to pre-trial procedure, trial and appeals procedure and post-trial procedure.</li>
+<li>The CJRC&rsquo;s key recommendations include:
+<ol style="list-style-type: lower-alpha;">
+<li>Enhance judicial control over civil litigation.
+<ul>
+<li>Judges can order parties to focus on key issues and provide case management direction to fit individual cases, and this would help reduce the length and cost of proceedings.</li>
+<li>The enhanced judicial control also includes the following:
+<ul>
+<li>Enable Judges to work with parties to formulate the List of Issues which crystallises the issues in dispute, and determine matters such as the scope of disclosure of documents, as well as the scope of factual and expert evidence which should be adduced.</li>
+<li>Issue directions relating to factual witnesses, e.g. the number of factual witnesses, the necessity and scope of evidence to be adduced, the manner in which evidence will be adduced;</li>
+<li>Exercise greater control of the conduct of trial by directly questioning witnesses, restricting the issues and time for examination of witnesses, and direct the order in which any speech or evidence by a witness should be made.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Implement default case management track with options.</li>
+<ul>
+<li>Majority of cases to proceed along a default track with streamlined procedure, with options available for time- and cost-intensive procedures.</li>
+<li>Parties will be given the flexibility and autonomy to select options for general discovery or the use of party-appointed experts, by mutual consent.</li>
+<li>If parties are unable to agree, the court will retain the discretion to allow the option on an application by any party.</li>
+</ul>
+<li>Introduce professional training requirements and public education to support the recommendations.</li>
+<ul>
+<li>Conduct public education to inform members of public of key features of the new civil justice framework;</li>
+<li>Conduct training for Judges and lawyers to ensure that they are suitably equipped with the skills to navigate the new civil justice system.</li>
+</ul>
+<li>Review the implementation of the CJRC&rsquo;s recommendations two years post-implementation.</li>
+<ul>
+<li>The CJRC proposes that MinLaw work with the courts to assess the implementation of its recommendations after two years. They should do the following:
+<ol style="list-style-type: lower-alpha;">
+<li>Determine if the new procedures have led to time- and cost-savings</li>
+<li>Determine if parties prefer the default positions or the options for more time-and cost-intensive procedures.</li>
+<li>Find out if court users&rsquo; (litigants, witnesses and counsel) navigation of the civil justice system has been aided by an active judge, who gives guidance at each stage of the proceedings.</li>
+</ol>
+</li>
+</ul>
+</ol>
+</li>
 </ol>
 
 
