@@ -27,9 +27,10 @@ collection_name: news
    </li>
 </ol>
  
-
+{:start="4"}
 4. The six firms will be issued moneylending licences to operate the outlets they apply for, in a one-time lifting of the moratorium imposed on the issuance of new licences. Since the moratorium was imposed in 2012, the number of moneylending outlets has decreased from 215 outlets, to 162 outlets currently. The six firms will be allowed to apply for licences for up to 15 new outlets in total, and this represents less than 10% of the 162 outlets currently operated by the 157 licensed moneylenders.
 
+{:start="5"}
 5. The licensees will be allowed to operate for up to two years beginning in 2019, following which MinLaw will evaluate the results of the pilot and consider options for refining the moneylending regulatory regime.
 
 <p class="right-side-updated">Last updated on 11 Dec 2018</p>
