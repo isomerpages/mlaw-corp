@@ -38,7 +38,7 @@ collection_name: news
 
 </ol>
 
-<u>*Aiding creators and users in the collective licensing of copyrighted works*</u>
+<ins>*Aiding creators and users in the collective licensing of copyrighted works*</ins>
 
 {:start="5"}
 5. <u>New class licensing scheme for CMOs</u>.  To support creators and users in the collective licensing of copyrighted works, the report proposes to introduce a class licensing scheme for collective management organisations (CMOs), which are unregulated today. The new scheme will help ensure that CMOs operate with high standards of transparency, governance and accountability, and are able to facilitate copyright licensing transactions efficiently. Any entity that carries out collective licensing activities in Singapore will be automatically subject to this scheme which will be administered by IPOS. Further details on the licensing scheme and licence conditions will be announced subsequently, and another public consultation will be conducted on this.
