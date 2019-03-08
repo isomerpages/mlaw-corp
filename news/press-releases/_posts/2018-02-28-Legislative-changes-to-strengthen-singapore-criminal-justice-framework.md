@@ -112,7 +112,7 @@ collection_name: news
 [Factsheet on the Recent History of Criminal Justice Reform (0.5MB)](/files/news/press-releases/2018/02/Factsheet on Recent History of Criminal Reform_updated.pdf)
 
 
-[Factsheet on Key Amendments to the Criminal Procedure Code and Evidence Act (0.4MB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
+[Factsheet on Key Amendments to the Criminal Procedure Code and Evidence Act (0.4MB)](/files/news/press-releases/2018/02/Factsheet on the key amendements to the Criminal Procedure Code and Evidence Act_updated.pdf)
 
 
 [Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act (0.09MB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
