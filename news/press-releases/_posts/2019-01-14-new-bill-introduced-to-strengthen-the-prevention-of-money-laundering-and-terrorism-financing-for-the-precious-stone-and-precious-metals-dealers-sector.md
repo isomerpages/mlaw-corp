@@ -36,12 +36,16 @@ collection_name: news
 {:start="7"}
 7. Regulated dealers must register with the Registrar. The Registrar may refuse to grant or renew registration under various circumstances, e.g. if the dealer is not a fit and proper person in the opinion of the Registrar. Registered dealers are required to abide by the conditions of registration.
 
-{:start="8"}
-8. Regulated dealers will also be required to comply with the following measures:        
-        
-    * <ins>Transaction-based requirements</ins>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and  
+<ol start="8">
+<li>Regulated dealers will also be required to comply with the following measures:       
 
-    * <ins>Entity-based requirements</ins>, including conducting ML/TF risk assessments posed by its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks amongst other requirements.
+<ol style="list-style-type: lower-alpha;">
+<li><u>Transaction-based requirements</u>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and</li>  
+
+<li><u>Entity-based requirements</u>, including conducting ML/TF risk assessments posed by its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks amongst other requirements.</li>
+</ol>
+</li>
+</ol>
 
 {:start="9"}
 9. Contravention of these requirements will be punishable by a range of administrative and criminal penalties, including the suspension or cancellation of registration.
@@ -65,3 +69,5 @@ collection_name: news
 
 [Infographic - Safeguarding the Precious Stones & Precious Metals Dealers Sector](/files/news/press-releases/2019/01/Final - SafeguardingPSMDsector.pdf)  
 [Infographic - Money Laundering & Terrorism Financing Risks in the Precious Stones & Precious Metals Dealers Sector](/files/news/press-releases/2019/01/Final - MoneyLaundering&TerrorismFinancingRisks.pdf)
+
+<p class="right-side-updated">Last updated on 14 Jan 2019</p>
