@@ -15,7 +15,7 @@ collection_name: news
 3. Maxwell Memories is held at the URA Centre, from which one can see the ongoing refurbishment works, and is open to the public till 31 January 2018.
 
 <ol start="4" >
-<li>4. The exhibition’s centrepiece is a 1:50 scale model of the former TP Headquarters and its various rooms and functions. The model was built by a team of students from the Singapore University of Technology and Design (SUTD), to pay tribute to the many generations of TP personnel who served at 28 Maxwell Road. Based on interviews with nearly 20 TP personnel past and present, stories are told from the perspectives of four different groups of occupants over four time periods spanning 50 years:
+<li>The exhibition’s centrepiece is a 1:50 scale model of the former TP Headquarters and its various rooms and functions. The model was built by a team of students from the Singapore University of Technology and Design (SUTD), to pay tribute to the many generations of TP personnel who served at 28 Maxwell Road. Based on interviews with nearly 20 TP personnel past and present, stories are told from the perspectives of four different groups of occupants over four time periods spanning 50 years:
 
 <ol style="list-style-type: lower-roman;">
 
