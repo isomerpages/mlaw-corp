@@ -29,10 +29,14 @@ collection_name: news
 
 {:start="7"}
 7. The amendments to the Penal Code will:
-(a) Enhance protection for vulnerable victims;
-(b) Update the Penal Code;
-(c) Rationalise the general principles, explanations and defences in the Penal Code;
-(d) Tackle emerging crime trends.
+
+<ol style="list-style-type: lower-alpha;">
+<li >Enhance protection for vulnerable victims;</li>
+<li>Update the Penal Code;</li>
+<li>Rationalise the general principles, explanations and defences in the Penal Code;</li>
+<li>Tackle emerging crime trends.</li>
+</ol>
+
 
 {:start="8"}
 8. The amendments will also harmonise provisions in the Penal Code by: removing outmoded offences, simplifying offences by removing distinctions that are no longer relevant, removing offences in the Penal Code that are already dealt with under dedicated legislation, and updating the sentencing framework. The key recommendations of the PCRC and the Government’s response are set out below.
@@ -57,12 +61,17 @@ Enhanced punishments for offences committed against vulnerable victims
 
 {:start="13"}
 13. The key recommendations by the PCRC are as follows:
- 
-    * To introduce new offences that criminalise the production, distribution, advertising, or possession of child abuse material. These offences will cover the entire spectrum of material depicting the sexual and physical abuse of minors below 16 years of age, and the depiction of minors’ genitalia. There will be a defence for persons who receive unsolicited child abuse material, but who then take all reasonable steps to cease possession of such material. Defences relating to legitimate purposes such as the administration of justice and education will also be included.
- 
-    * To introduce new offences relating to exploitative sexual activity with minors between 16 and below 18 years of age. Persons who engage in sexual activity with such minors in the context of an exploitative relationship will be criminally liable. To determine if a relationship is exploitative, the court will consider a non-exhaustive list of factors such as the age difference between the offender and the victim, and the degree of influence the offender has over the victim. Where the offender and the victim fall within a list of relationships set out in the Penal Code, the relationship will be presumed to be exploitative. Such relationships include teacher-student and parent-child relationships.
- 
-    * In terms of offences to deal with predatory conduct against minors by adult offenders, to introduce new offences of sexual communication with a minor, causing a minor to look at a sexual image or engaging in sexual activity before a minor.
+
+<ol style="list-style-type: lower-alpha;">
+<li>To introduce new offences that criminalise the production, distribution, advertising, or possession of child abuse material. These offences will cover the entire spectrum of material depicting the sexual and physical abuse of minors below 16 years of age, and the depiction of minors’ genitalia. There will be a defence for persons who receive unsolicited child abuse material, but who then take all reasonable steps to cease possession of such material. Defences relating to legitimate purposes such as the administration of justice and education will also be included.</li>
+
+<li>To introduce new offences relating to exploitative sexual activity with minors between 16 and below 18 years of age. Persons who engage in sexual activity with such minors in the context of an exploitative relationship will be criminally liable. To determine if a relationship is exploitative, the court will consider a non-exhaustive list of factors such as the age difference between the offender and the victim, and the degree of influence the offender has over the victim. Where the offender and the victim fall within a list of relationships set out in the Penal Code, the relationship will be presumed to be exploitative. Such relationships include teacher-student and parent-child relationships.</li>
+
+<li> In terms of offences to deal with predatory conduct against minors by adult offenders, to introduce new offences of sexual communication with a minor, causing a minor to look at a sexual image or engaging in sexual activity before a minor.</li>
+
+
+</ol>
+
  
 {:start="14"} 
 14. The proposals to protect minors from sexual exploitation received resounding support from respondents. While child abuse material featuring actual children was considered unequivocally wrong, there was mixed feedback about whether fictional child abuse material should be criminalised, since this might include cartoons or comics. Those who did not support criminalising fictional child abuse material were of the view that the production of such material did not cause harm to actual children.
@@ -143,10 +152,15 @@ Enhanced punishments for offences committed against vulnerable victims
  
 {:start="35"} 
 35. The PCRC recommended that the Government:
- 
-(a) Create new offences that criminalise the production, possession, and distribution of voyeuristic recordings. This will better address cases of “up-skirt” photography, and the circulation of such images.
-(b) Create a new offence of distributing or threatening to distribute an intimate image, which is more widely known as “revenge pornography”.
-(c) Create a new offence of sexual exposure to deal with “flashers”. This offence will cover situations where a person exposes his or her genitalia intending or knowing that such display will humiliate or cause distress or alarm to the observer.
+<ol style="list-style-type: lower-alpha;">
+<li>Create new offences that criminalise the production, possession, and distribution of voyeuristic recordings. This will better address cases of “up-skirt” photography, and the circulation of such images.</li>
+<li>Create a new offence of distributing or threatening to distribute an intimate image, which is more widely known as “revenge pornography”.</li>
+
+<li>Create a new offence of sexual exposure to deal with “flashers”. This offence will cover situations where a person exposes his or her genitalia intending or knowing that such display will humiliate or cause distress or alarm to the observer.
+
+</li>
+</ol>
+
 
 {:start="36"}
 36. Respondents and representatives from the legal and social sectors supported these recommendations.
@@ -177,4 +191,4 @@ Enhanced punishments for offences committed against vulnerable victims
 
 
 
-
+<p class="right-side-updated">Last updated on 15 Feb 2019</p>
