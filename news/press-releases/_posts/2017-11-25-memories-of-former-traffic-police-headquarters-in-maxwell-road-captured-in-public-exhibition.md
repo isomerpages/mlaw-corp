@@ -58,6 +58,6 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **25 NOVEMBER 2017**  
-[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno(PDF, 0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
+[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno (0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
 
 <p class="right-side-updated">Last updated on 24 Nov 2017</p>
