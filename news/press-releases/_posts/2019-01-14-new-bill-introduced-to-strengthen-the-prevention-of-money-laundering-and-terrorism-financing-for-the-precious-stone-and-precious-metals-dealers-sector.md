@@ -67,7 +67,7 @@ collection_name: news
 {:start="13"}
 13. The FATF is an inter-governmental body established in 1989 by the relevant Ministers of its member jurisdictions. The FATF sets standards and promotes effective implementation of legal, regulatory and operational measures for combating money laundering, terrorism financing and other related threats to the integrity of the international financial system. The FATF monitors the progress of its members in implementing necessary measures, reviews money laundering and terrorist financing techniques and counter-measures, and promotes the adoption and implementation of appropriate measures globally. Singapore has been a member of the FATF since 1992.
 
-[Infographic - Safeguarding the Precious Stones & Precious Metals Dealers Sector](/files/news/press-releases/2019/01/Final - SafeguardingPSMDsector.pdf)  
-[Infographic - Money Laundering & Terrorism Financing Risks in the Precious Stones & Precious Metals Dealers Sector](/files/news/press-releases/2019/01/Final - MoneyLaundering&TerrorismFinancingRisks.pdf)
+[Infographic - Safeguarding the Precious Stones & Precious Metals Dealers Sector (0.1MB)](/files/news/press-releases/2019/01/Final - SafeguardingPSMDsector.pdf)  
+[Infographic - Money Laundering & Terrorism Financing Risks in the Precious Stones & Precious Metals Dealers Sector (0.4MB)](/files/news/press-releases/2019/01/Final - MoneyLaundering&TerrorismFinancingRisks.pdf)
 
 <p class="right-side-updated">Last updated on 14 Jan 2019</p>
