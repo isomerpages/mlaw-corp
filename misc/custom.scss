@@ -403,7 +403,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /* quick fix for links with long name    */
-.link-long-name{
+.link-long-name::before{
   top: -19px;	
 }	
 
