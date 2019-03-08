@@ -8,47 +8,91 @@ collection_name: news
 
 1. The Ministry of Law (MinLaw) has tabled the Criminal Justice Reform Bill and the Evidence (Amendment) Bill for First Reading in Parliament today. The proposed amendments are a major step in the Government’s long-term efforts toward a more progressive, balanced and modern criminal justice system.
 
-2. The amendments further strengthen Singapore’s criminal justice framework by introducing added safeguards and processes to:
+<ol start="2">
+<li>The amendments further strengthen Singapore’s criminal justice framework by introducing added safeguards and processes to:
 
-* Enhance the <u>fairness</u> of existing procedures; and
+<ol style="list-style-type: lower-roman;">
+<li>Enhance the <u>fairness</u> of existing procedures; and</li>
+<li> Ensure the <u>accuracy</u> and <u>equity</u> of outcomes in the criminal justice system.</li>
+</ol>
 
-* Ensure the <u>accuracy</u> and <u>equity</u> of outcomes in the criminal justice system.
+</li>
+</ol>
 
 {:start="3"}
 3. In particular, the proposed amendments will give vulnerable victims added protection during the court process. This will complement improvements to investigative processes to better support such victims, some of which have already been implemented.
 
 **Key Amendments to the Criminal Procedure Code and Evidence Act**
 
-{:start="4"}
-4. The key features of the Bills are as follows:
-* <i><u>Video-recording of interviews</u></i>
-  * Investigators will be allowed to take statements from witnesses via video recording.
-  * This will assist the court to try cases more effectively by:
-    * Allowing the court to take into account the interviewee’s demeanour, to more effectively determine the weight to be accorded to statements; and
-    * Providing an objective contemporaneous account of the interview, which will assist the court in deciding on allegations that may be made about the interview.
-  * The amendments will also allow for video-recorded statements of certain vulnerable victims to be used in place of their oral evidence-in-chief. This will be implemented in later phases, and will help minimise the trauma that victims face in repeatedly recounting their ordeal.
-    
- * *<u>Enhancing protection for victims of sexual offences or child abuse</u>*
+<ol start="4">
+<li>The key features of the Bills are as follows:
 
-   * A suite of measures have been introduced to enhance protection for persons who report sexual or child abuse, and reduce the stress they face when participating in the criminal process.
-    
-   * The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge, without court permission. The court will grant permission only if the questions are in the interests of justice. Any application for permission will have to be made in the absence of the complainant.
-    
- * *<u>Expanded eligibility for Community Sentences</u>* 
+<ol style="list-style-type: lower-roman;">
+<li><u>Video recording of interviews</u></li>
 
-   * The eligibility criteria for Community Sentences will be expanded in a controlled manner, to allow more offenders to benefit from rehabilitative opportunities.
-   * Courts will also be empowered to impose a suspended imprisonment sentence together with a Community Sentence. The imprisonment sentence will automatically apply upon breach of the Community Sentence. This will encourage compliance with the Community Sentence.
-    
- * *<u>Framework for Deferred Prosecution Agreements (DPAs)</u>*
+<ul>
+<li>Investigators will be allowed to take statements from witnesses via video recording.</li>
+<li>This will assist the court to try cases more effectively by:
 
-   * MinLaw consulted the Law Society of Singapore and the Criminal Bar on the details of this proposal in the second half of 2017, and received strong support.
-    
-   * The amendments introduce a formal framework for the Public Prosecutor to enter into DPAs with corporate offenders. DPAs serve two main purposes:
-    
-       * Encourage corporate reform, to prevent future offending; and 
-       * Facilitate investigation into wrongdoing, both by the company and by individuals.
-        
-   * All DPAs will require approval by the High Court, which must be satisfied that the agreement is in the interests of justice, and that the terms are fair, reasonable and proportionate. The DPA must be published after it has been approved by the court.
+<ul>
+<li>Allowing the court to take into account the interviewee’s demeanour, to more effectively determine the weight to be accorded to statements; and</li>
+
+<li>Providing an objective contemporaneous account of the interview, which will assist the court in deciding on allegations that may be made about the interview.</li>
+</ul>
+
+</li>
+
+<li> The amendments will also allow for video-recorded statements of certain vulnerable victims to be used in place of their oral evidence-in-chief. This will be implemented in later phases, and will help minimise the trauma that victims face in repeatedly recounting their ordeal.</li>
+</ul>
+
+<li><u> Enhancing protection for victims of sexual offences or child abuse</u>
+
+<ul>
+<li>A suite of measures have been introduced to enhance protection for persons who report sexual or child abuse, and reduce the stress they face when participating in the criminal process.</li>
+
+<li>The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge, without court permission. The court will grant permission only if the questions are in the interests of justice. Any application for permission will have to be made in the absence of the complainant.</li>
+</ul>
+
+</li>
+<li><u>Expanded eligibility for Community Sentences</u>
+
+<ul>
+<li>The eligibility criteria for Community Sentences will be expanded in a controlled manner, to allow more offenders to benefit from rehabilitative opportunities.</li>
+
+<li>Courts will also be empowered to impose a suspended imprisonment sentence together with a Community Sentence. The imprisonment sentence will automatically apply upon breach of the Community Sentence. This will encourage compliance with the Community Sentence.</li>
+</ul>
+
+</li>
+
+<li><u> Framework for Deferred Prosecution Agreements (DPAs)</u>
+
+<ul>
+
+<li>MinLaw consulted the Law Society of Singapore and the Criminal Bar on the details of this proposal in the second half of 2017, and received strong support.</li>
+
+<li>The amendments introduce a formal framework for the Public Prosecutor to enter into DPAs with corporate offenders. DPAs serve two main purposes:
+
+<ul>
+<li>Encourage corporate reform, to prevent future offending; and</li>
+<li> Facilitate investigation into wrongdoing, both by the company and by individuals.</li>
+</ul>
+
+
+</li>
+<li>All DPAs will require approval by the High Court, which must be satisfied that the agreement is in the interests of justice, and that the terms are fair, reasonable and proportionate. The DPA must be published after it has been approved by the court.</li>
+</ul>
+
+
+</li>
+
+</ol>
+
+
+</li>
+
+
+
+</ol>
     
     
 **Background**
@@ -65,13 +109,16 @@ collection_name: news
 **MINISTRY OF LAW**  
 **28 FEBRUARY 2018**
 
-[Factsheet on the Recent History of Criminal Justice Reform(PDF, 0.5MB)](/files/news/press-releases/2018/02/Factsheet on Recent History of Criminal Reform_updated.pdf)
+[Factsheet on the Recent History of Criminal Justice Reform (0.5MB)](/files/news/press-releases/2018/02/Factsheet on Recent History of Criminal Reform_updated.pdf)
 
-[Factsheet on the Key Amendments to the Criminal Procedure Code and Evidence Act(PDF, 0.4MB)](/files/news/press-releases/2018/02/Factsheet on the key amendements to the Criminal Procedure Code and Evidence Act_updated.pdf)
-
-[Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act(PDF, 0.09MB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
-
-[Responses to the Feedback Received from the Public Consultation(PDF, 0.1MB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
+<a class="link-long-name" href="/files/news/press-releases/2018/02/Factsheet on the key amendements to the Criminal Procedure Code and Evidence Act_updated.pdf">Factsheet on Key Amendments to the Criminal Procedure Code and Evidence Act (0.4MB)</a>
 
 
-<a class="link-long-name" href="/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf">I am weird link on the Key Amendments to the Criminal Procedure Code and Evidence Act HOW make it even more longer lets go </a>
+<a class="link-long-name" href="/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf">Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act (0.09MB)</a>
+
+
+[Responses to the Feedback Received from the Public Consultation (0.1MB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
+
+
+<p class="right-side-updated">Last updated on 05 Mar 2018</p>
+
