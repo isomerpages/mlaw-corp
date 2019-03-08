@@ -18,13 +18,16 @@ collection_name: news
 </ol>
 
 </li>
+
+
+
+<li>With this, the majority of the provisions of the CJRA will be brought into force. Some provisions of the CJRA were brought into force earlier, on 17 September 2018. These mostly pertained to the video-recording of interviews</li>
+
+<li>The CJRA and Evidence (Amendment) Act 2018 were passed by Parliament in March this year. They amend the Criminal Procedure Code and Evidence Act, which provide the framework and procedure for criminal investigations and hearings, including how evidence is given and received in court. These changes are a major step toward a more modern and balanced criminal justice system: one that achieves accurate and equitable outcomes, through fair procedures.</li>
+
+<li>The <u>Annex</u> sets out a factsheet on the key provisions that will be brought into force on 31 October 2018.</li>
+
 </ol>
-
-2. With this, the majority of the provisions of the CJRA will be brought into force. Some provisions of the CJRA were brought into force earlier, on 17 September 2018. These mostly pertained to the video-recording of interviews
-
-3. The CJRA and Evidence (Amendment) Act 2018 were passed by Parliament in March this year. They amend the Criminal Procedure Code and Evidence Act, which provide the framework and procedure for criminal investigations and hearings, including how evidence is given and received in court. These changes are a major step toward a more modern and balanced criminal justice system: one that achieves accurate and equitable outcomes, through fair procedures.
-
-4. The <u>Annex</u> sets out a factsheet on the key provisions that will be brought into force on 31 October 2018.
 
 <sup>[1]</sup> The following provisions of the CJRA will be brought into force: sections 2(j) – (l), 3, 10 – 18, 20 – 30, 32, 33, 35, 36, 74(c) – (e), 75, 79 – 81, 87 – 97, 99 – 114, 115(b), 118, 119 (b) – (e), 121, 122, 125 – 127, and 128(6).
 
