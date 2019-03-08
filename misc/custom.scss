@@ -402,6 +402,11 @@ $desktop: 960px + (2 * $gap) !default;
     font-style: italic;
 }
 
+/* quick fix for links with long name    */
+.link-long-name{
+  top: -19px;	
+}	
+
 
 .hero-dropdown {
   display: flex;
