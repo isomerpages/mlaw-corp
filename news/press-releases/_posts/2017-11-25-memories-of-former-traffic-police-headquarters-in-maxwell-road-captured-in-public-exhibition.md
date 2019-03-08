@@ -14,15 +14,22 @@ collection_name: news
 
 3. Maxwell Memories is held at the URA Centre, from which one can see the ongoing refurbishment works, and is open to the public till 31 January 2018.
 
-4. The exhibition’s centrepiece is a 1:50 scale model of the former TP Headquarters and its various rooms and functions. The model was built by a team of students from the Singapore University of Technology and Design (SUTD), to pay tribute to the many generations of TP personnel who served at 28 Maxwell Road. Based on interviews with nearly 20 TP personnel past and present, stories are told from the perspectives of four different groups of occupants over four time periods spanning 50 years:
+<ol start="4" >
+<li>4. The exhibition’s centrepiece is a 1:50 scale model of the former TP Headquarters and its various rooms and functions. The model was built by a team of students from the Singapore University of Technology and Design (SUTD), to pay tribute to the many generations of TP personnel who served at 28 Maxwell Road. Based on interviews with nearly 20 TP personnel past and present, stories are told from the perspectives of four different groups of occupants over four time periods spanning 50 years:
 
-    * Traffic policeman (1950 – 1965)
+<ol style="list-style-type: lower-roman;">
 
-    *  Driving tester (1965 – 1978)
+<li>Traffic policeman (1950 – 1965)</li>
 
-    * Clerical officer (1975 – 1988)
+<li>Driving tester (1965 – 1978)</li>
 
-    * Mobile Squad officer (1985 – 1999)
+<li>Clerical officer (1975 – 1988)</li>
+
+<li>Mobile Squad officer (1985 – 1999)</li>
+</ol>
+</li>
+</ol>
+    
 
 {:start="5"}
 5. As part of the exhibition, MinLaw also released a set of five limited edition postcards. The postcards were drawn by Mr David Pattiselanno, 78, and depict his experiences as a TP patrol officer in the 1950s and 1960s, with various iconic Singapore landmarks as backdrops. The public can collect these postcards at the exhibition. 
@@ -53,3 +60,4 @@ collection_name: news
 **25 NOVEMBER 2017**  
 [Set of Limited Edition Postcards Drawn by Mr David Pattiselanno(PDF, 0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
 
+<p class="right-side-updated">Last updated on 24 Nov 2017</p>
