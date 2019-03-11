@@ -125,10 +125,10 @@ collection_name: news
 <ol start="8">
  <li>The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.
   <ol style="list-style-type: lower-roman;">
-   <li>a</li>
-   <li>b</li>
-   <li>c</li>
-   <li>d</li>
+   <li><a href="">a</a></li>
+   <li><a href="">b</a></li>
+   <li><a href="">c</a>/li>
+   <li><a href="">d</a></li>
   </ol>
  
  </li>
