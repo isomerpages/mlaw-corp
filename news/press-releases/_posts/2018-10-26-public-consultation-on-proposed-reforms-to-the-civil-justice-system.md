@@ -124,8 +124,7 @@ collection_name: news
 **<u>Invitation to Give Feedback</u>**
 
 <ol start="8">
-<li>The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.</li>
-</ol>
+<li>The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.
 
 <ol style="list-style-type: lower-roman;">
 <li><a href="/files/news/press-releases/2018/10/Annex A Public consultation paper on civil justice reforms.pdf">Annex A – Public Consultation Paper on Civil Justice Reforms (0.6MB)</a>
@@ -151,6 +150,10 @@ Email: <MLAW_Consultation@mlaw.gov.sg>
     
     
     
+    
+
+<p class="right-side-updated">Last updated on 07 Dec 2018
+</p>
     
     
     
