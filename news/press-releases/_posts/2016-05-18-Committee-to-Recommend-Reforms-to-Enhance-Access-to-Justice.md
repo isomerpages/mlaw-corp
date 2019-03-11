@@ -25,7 +25,7 @@ collection_name: news
 </ol>
 
 {:start="4"}
-4. The committee will also propose the professional training requirements and public education measures needed to support their recommendations.
+4. The committee will also propose the **professional training requirements** and **public education measures** needed to support their recommendations.
 
  
 {:start="5"}
