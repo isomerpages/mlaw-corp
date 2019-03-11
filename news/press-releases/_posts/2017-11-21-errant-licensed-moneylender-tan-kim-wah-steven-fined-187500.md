@@ -425,3 +425,15 @@ Lion Credit Pte Ltd</td>
 <td>5/12/2016</td>
 <td>7,000</td>
 </tr>
+
+<table class="table-h">
+<tr>
+<td>a</td>
+<td>b</td>
+</tr>
+<tr>
+<td>cd<br/>og</td>
+<td>ef</td>
+</tr>
+
+</table>
