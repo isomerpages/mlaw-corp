@@ -59,6 +59,7 @@ A full list of the Committee’s recommendations is attached [here (0.05MB)](/fi
 
 **Public Consultation**
 
+{:start="9"}
 10. Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report [here (6.8MB)](/files/news/press-releases/2016/04/Final DR Report.pdf) and submit feedback in electronic or hard copy form via:
 
 Policy Advisory Division, Ministry of Law  
@@ -68,7 +69,7 @@ Singapore 179434
 Fax: 6332 8842  
 Email: <MLAW_Consultation@mlaw.gov.sg>
 
-**MINISTRY OF LAW** 
+**MINISTRY OF LAW**  
 **20 APRIL 2016**
 
 <p class="right-side-updated">Last updated on 29 Apr 2016</p>
