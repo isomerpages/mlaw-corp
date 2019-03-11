@@ -25,34 +25,44 @@ collection_name: news
 
 **Working Group's Recommendations**
 
-{:start="5"}
-5. To strengthen global market position, the Working Group’s recommendations include:
+<ol start="5">
+<li>To strengthen global market position, the Working Group’s recommendations include:</li>
+</ol>
+<ol style="list-style-type: lower-roman;">
+<li><strong>Integrating efforts across private, public as well as law and accounting industry associations</strong> to capture demand in identified high growth areas. Inter-agency programmes should be set up to coordinate strategies to capture growth opportunities, and strengthen and promote the identified high growth areas.</li>
+<li><strong> Building capabilities and competencies to better respond to demand</strong>, by engaging clients on a regular basis to identify the new capabilities needed by law and accounting firms; and</li>
+<li><strong> Encouraging law and accounting firms to work with companies from other sectors to internationalise</strong> by leveraging trade missions and business and networking platforms as well as bringing together law and accounting firms with clients for overseas projects.</li>
+</ol>
 
-* **Integrating efforts across private, public as well as law and accounting industry associations** to capture demand in identified high growth areas. Inter-agency programmes should be set up to coordinate strategies to capture growth opportunities, and strengthen and promote the identified high growth areas.
-
-* **Building capabilities and competencies to better respond to demand**, by engaging clients on a regular basis to identify the new capabilities needed by law and accounting firms; and
-
-* **Encouraging law and accounting firms to work with companies from other sectors to internationalise** by leveraging trade missions and business and networking platforms as well as bringing together law and accounting firms with clients for overseas projects.
-
-{:start="6"}
-6. To transform the legal and accounting sectors, the Working Group’s recommendations include:
+<ol start="6">
+<li>To transform the legal and accounting sectors, the Working Group’s recommendations include:</li>
+</ol>
+<ol style="list-style-type: lower-roman;">
+<li><strong>Strengthening technology adoption among small law and accounting firms</strong> by increasing awareness and adoption of technology to enhance productivity; and</li>
+<li><strong>Enabling greater technology adoption</strong> by developing platforms for advanced search and analytics for law and accounting firms. This can be done by creating and curating open Application Programme Interfaces (APIs) for companies, start-ups and other interested parties to access national platforms to promote the development of innovative and intelligent solutions.</li>
+</ol>
 
 * **Strengthening technology adoption among small law and accounting firms** by increasing awareness and adoption of technology to enhance productivity; and
 
 *  **Enabling greater technology adoption** by developing platforms for advanced search and analytics for law and accounting firms. This can be done by creating and curating open Application Programme Interfaces (APIs) for companies, start-ups and other interested parties to access national platforms to promote the development of innovative and intelligent solutions.
 
-{:start="7"}
-7. To build thought leadership, the Working Group’s recommendations include:
+<ol start="7">
+<li>To build thought leadership, the Working Group’s recommendations include:</li>
+</ol>
 
-* **Developing and strengthening Singapore standards and frameworks and promote their use internationally**, by working with the Singapore Academy of Law to promote the use of Singapore law, and Singapore’s dispute resolution offerings as well as promoting and marketing certification frameworks such as Chartered Accountant of Singapore and Chartered Valuer and Appraiser; and
-* **Stimulating collaboration between industry and institutes of higher learning**, by directing funding towards collaborative research projects between the two.
+<ol style="list-style-type: lower-roman;">
+<li><strong>Developing and strengthening Singapore standards and frameworks and promote their use internationally</strong>, by working with the Singapore Academy of Law to promote the use of Singapore law, and Singapore’s dispute resolution offerings as well as promoting and marketing certification frameworks such as Chartered Accountant of Singapore and Chartered Valuer and Appraiser; and</li>
+<li><strong>Stimulating collaboration between industry and institutes of higher learning</strong>, by directing funding towards collaborative research projects between the two.</li>
+</ol>
 
-{:start="8"}
-8. To equip legal and accounting professionals to be future-ready, the Working Group’s recommendations include:
+<ol start="8">
+<li>To equip legal and accounting professionals to be future-ready, the Working Group’s recommendations include:</li>
+</ol>
+<ol style="list-style-type: lower-roman;">
+<li> <strong>Developing professionals with multi-disciplinary skillsets and business orientation</strong>, a familiarity with technology and specialist expertise in identified high growth areas and sector-specific knowledge.</li>
+</ol>
 
-* **Developing professionals with multi-disciplinary skillsets and business orientation**, a familiarity with technology and specialist expertise in identified high growth areas and sector-specific knowledge.
-
-A full list of the Working Group’s recommendations is available [here(PDF, 1.4MB)](/files/news/press-releases/2017/04/CFE-Report of the Working Group on Legal and Accounting Services-Apr2017.pdf).
+A full list of the Working Group’s recommendations is available [here (1.4MB)](/files/news/press-releases/2017/04/CFE-Report of the Working Group on Legal and Accounting Services-Apr2017.pdf).
 
 **Government’s Response**
 
@@ -282,6 +292,7 @@ MinLaw and EDB currently already have a joint programme office to develop and pr
 
 <sup>[4]</sup> Until 31 December 2016. 
 
-
+<p class="right-side-updated">Last updated on 07 Apr 2017
+</p>
 
 
