@@ -122,7 +122,7 @@ collection_name: news
 </ol>
 
 **<u>Invitation to Give Feedback</u>**
-<ol>
+<ol start="8">
  <li>The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.</li>
  <li> All comments and feedback should be submitted by 31 January 2019 via post or email to: </li>
 </ol>
