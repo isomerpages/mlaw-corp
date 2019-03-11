@@ -125,10 +125,10 @@ collection_name: news
 <ol start="8">
  <li>The public is invited to share its views and comments on the proposed reforms. The public consultation paper, together with the reports of CJC and CJRC, can be found at the Annexes.
   <ol style="list-style-type: lower-roman;">
-   <li><a href="">Annex A – Public Consultation Paper on Civil Justice Reforms</a></li>
-   <li><a href="">Annex B – Report of the Civil Justice Review Committee</a></li>
-   <li><a href="">Annex C – Civil Justice Commission Report</a></li>
-   <li><a href="">Annex D - Supreme Court of Judicature Act (Chapter 322, Section 80), Rules of Court</a></li>
+   <li><a href="/files/news/press-releases/2018/10/Annex A Public consultation paper on civil justice reforms.pdf">Annex A – Public Consultation Paper on Civil Justice Reforms</a></li>
+   <li><a href="/files/news/press-releases/2018/10/Annex B CJRC Report.pdf">Annex B – Report of the Civil Justice Review Committee</a></li>
+   <li><a href="/files/news/press-releases/2018/10/Annex C Civil Justice Commission Report.pdf">Annex C – Civil Justice Commission Report</a></li>
+   <li><a href="/files/news/press-releases/2018/10/Annex D SCJA Rules of Court 2018 Rev Ed.pdf">Annex D - Supreme Court of Judicature Act (Chapter 322, Section 80), Rules of Court</a></li>
   </ol>
  
  </li>
@@ -157,6 +157,6 @@ Email: <MLAW_Consultation@mlaw.gov.sg>
     
 
 
-
+g
 
 
