@@ -42,9 +42,7 @@ collection_name: news
 <li><strong>Enabling greater technology adoption</strong> by developing platforms for advanced search and analytics for law and accounting firms. This can be done by creating and curating open Application Programme Interfaces (APIs) for companies, start-ups and other interested parties to access national platforms to promote the development of innovative and intelligent solutions.</li>
 </ol>
 
-* **Strengthening technology adoption among small law and accounting firms** by increasing awareness and adoption of technology to enhance productivity; and
 
-*  **Enabling greater technology adoption** by developing platforms for advanced search and analytics for law and accounting firms. This can be done by creating and curating open Application Programme Interfaces (APIs) for companies, start-ups and other interested parties to access national platforms to promote the development of innovative and intelligent solutions.
 
 <ol start="7">
 <li>To build thought leadership, the Working Group’s recommendations include:</li>
