@@ -128,10 +128,10 @@ collection_name: news
 
 
 <ol style="list-style-type: lower-roman;">
-<li>Annex A – Public Consultation Paper on Civil Justice Reforms</li>
-<li>Annex B – Report of the Civil Justice Review Committee</li>
-<li>Annex C – Civil Justice Commission Report</li>
-<li>Annex D - Supreme Court of Judicature Act (Chapter 322, Section 80), Rules of Court</li>
+<li>[Annex A – Public Consultation Paper on Civil Justice Reforms (0.6MB)](/files/news/press-releases/2018/10/Annex A Public consultation paper on civil justice reforms.pdf)</li>
+<li>[Annex B – Report of the Civil Justice Review Committee (0.5MB)](/files/news/press-releases/2018/10/Annex B CJRC Report.pdf)</li>
+<li>[Annex C – Civil Justice Commission Report (0.5MB)](/files/news/press-releases/2018/10/Annex C Civil Justice Commission Report.pdf)</li>
+<li>[Annex D - Supreme Court of Judicature Act (Chapter 322, Section 80), Rules of Court (1.3MB)](/files/news/press-releases/2018/10/Annex D SCJA Rules of Court 2018 Rev Ed.pdf)</li>
 </ol>
 
 </li>
