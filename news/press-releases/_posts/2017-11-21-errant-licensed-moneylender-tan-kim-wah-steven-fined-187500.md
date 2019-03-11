@@ -23,7 +23,6 @@ collection_name: news
 **<u>Annex</u>**
 
 **List of past convictions since 2011**
-
 <table class="table-h">
   <tr>
   <th>No</th>
@@ -140,15 +139,11 @@ Bez One Credit
 </tr>
 
 <tr>
-<td rowspan="2">13.</td>
-<td> Money Plant Pte Ltd</td>
-<td rowspan="2">10/06/2013</td>
-<td >2,000</td>
-</tr>
-
-<tr>
-<td> Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
-<td>15,000</td>
+<td>13.</td>
+<td>  Money Plant Pte Ltd<br> Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+<td>10/06/2013</td>
+<td>2,000<br>
+15,000</td>
 </tr>
 
 <tr>
@@ -426,14 +421,6 @@ Lion Credit Pte Ltd</td>
 <td>7,000</td>
 </tr>
 
-<table class="table-h">
-<tr>
-<td>a</td>
-<td>b</td>
-</tr>
-<tr>
-<td>cd<br/>og</td>
-<td>ef</td>
-</tr>
+
 
 </table>
