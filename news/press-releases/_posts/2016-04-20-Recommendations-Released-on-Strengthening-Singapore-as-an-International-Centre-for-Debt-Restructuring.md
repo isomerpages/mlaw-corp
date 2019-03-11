@@ -47,7 +47,7 @@ collection_name: news
 
 </ol>
 
-A full list of the Committee’s recommendations is attached [here]().
+A full list of the Committee’s recommendations is attached [here (0.05MB)](/files/news/press-releases/2016/04/Recommendations of the Committee.pdf).
 
 **Background**
 
@@ -59,7 +59,7 @@ A full list of the Committee’s recommendations is attached [here]().
 
 **Public Consultation**
 
-10. Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report [here]() and submit feedback in electronic or hard copy form via:
+10. Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report [here (6.8MB)](/files/news/press-releases/2016/04/Final DR Report.pdf) and submit feedback in electronic or hard copy form via:
 
 Policy Advisory Division, Ministry of Law  
 100 High Street  
