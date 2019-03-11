@@ -16,11 +16,10 @@ collection_name: news
 <ol style="list-style-type: lower-alpha;">
 <li>The dispute must be heard only in Singapore; and</li>
 <li>The courts of other Contracting States will be obliged to recognise and enforce the  Singapore court judgment on that dispute.</li>
-If the court of another Contracting State is the chosen court, similar obligations apply.
-</ol>
-
+ </ol>
 </li>
 </ol>
+&nbsp;&nbsp;&nbsp;If the court of another Contracting State is the chosen court, similar obligations apply.
 
 {:start="3"}
 3. The ratification of the Convention will enhance the international enforceability of Singapore court judgments, including those of the Singapore International Commercial Court (SICC). This will make the SICC a more attractive dispute settlement option as a neutral litigation venue.
@@ -43,7 +42,7 @@ If the court of another Contracting State is the chosen court, similar obligatio
 8. Legal sector stakeholders including the judiciary, Law Society, industry practitioners and academia were actively consulted prior to the signing of the Convention and in the drafting of the Bill.
 
 {:start="9"}
-9.The rules in the Convention are subject to only limited and specific exceptions. They supersede the existing laws determining where international disputes are heard, and how foreign judgments are enforced in Singapore, in cases where the Convention applies.
+9. The rules in the Convention are subject to only limited and specific exceptions. They supersede the existing laws determining where international disputes are heard, and how foreign judgments are enforced in Singapore, in cases where the Convention applies.
 
 
 
