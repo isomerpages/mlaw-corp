@@ -31,36 +31,52 @@ collection_name: news
 {:start="7"}
 7. The PCRC has submitted its recommendations in the following five areas:
 
-* Enhancing protection for vulnerable victims;
-* Tackling emerging crime trends;
-* Updating the Penal Code;
-* Harmonising criminal laws; and
-* Updating the sentencing framework.
+<ol style="list-style-type: lower-roman;">
+   <li>Enhancing protection for vulnerable victims;</li>
+   <li>Tackling emerging crime trends;</li>
+   <li>Updating the Penal Code;</li>
+   <li> Harmonising criminal laws; and</li>
+   <li><Updating the sentencing framework./li>
+</ol>
+
 
 <u>Enhancing Protection for the Vulnerable in Society</u>
 
 {:start="8"}
 8. The PCRC recommended strengthening protection for the vulnerable in society. Three specific groups – children, “vulnerable persons” <sup>[1]</sup>, and domestic maids – have been identified as “vulnerable victims” for enhanced protection in the Penal Code. The recommendations will help to deter crimes against them.  The PCRC has also made a recommendation to protect married women.
 
-{:start="9"}
-9. The key recommendations to enhance protection for “vulnerable victims” include:
+<ol start="9">
+<li>The key recommendations to enhance protection for “vulnerable victims” include:</li>
+<ul>
+<li>For sexual offences committed against minors:
+<ol style="list-style-type: lower-alpha;">
+<li>Retain the age of consent for sexual activity at 16 years.</li>
+<li> Retain the age below which sexual activity with minors will be regarded as a statutory aggravating factor at 14 years.</li>
+<li>Introduce a new offence criminalising sexual penetration of minors who are between 16 and 18 years of age, where the offender has exploited or manipulated the victim.</li>
+<li>Enhance existing penalties for the offence of sexual penetration of a minor under 16, where the offender has exploited or manipulated the victim.</li>
+</ol>
 
-* For sexual offences committed against minors:
+</li>
+<li>Strengthen provisions against sexual grooming:
+<ol style="list-style-type: lower-alpha;">
+<li>Lower the threshold required for sexual grooming and enhance penalties for cases where the victims are under 14 years of age.</li>
+<li> Introduce a new offence of sexual communication with minor to cover situations where the offender has not met the victim.</li>
+<li>  Introduce a new offence of causing minor to look at sexual images.</li>
 
-    * Retain the age of consent for sexual activity at 16 years.
-    * Retain the age below which sexual activity with minors will be regarded as a statutory aggravating factor at 14 years.
-    * Introduce a **new offence** criminalising sexual penetration of minors who are between 16 and 18 years of age, where the offender has exploited or manipulated the victim.
-    * Enhance existing penalties for the offence of sexual penetration of a minor under 16, where the offender has exploited or manipulated the victim.
-* Strengthen provisions against sexual grooming:
-    * Lower the threshold required for sexual grooming and enhance penalties for cases where the victims are under 14 years of age.
-    * Introduce a new offence of sexual communication with minor to cover situations where the offender has not met the victim.
-    * Introduce a new offence of causing minor to look at sexual images.
-* General enhancement of penalties for offences knowingly committed against “vulnerable victims”:
+</ol>
+</li>
+<li>General enhancement of penalties for offences knowingly committed against “vulnerable victims”:
+<ol style="list-style-type: lower-alpha;">
+<li>Enhancing penalties for all offences in the Penal Code committed against <strong>children under 14 years of age.</strong></li>
+<li>Enhancing penalties for all offences in the Penal Code committed against “<strong>vulnerable persons</strong>”.</li>
+</ol>
+</li>
 
-    * Enhancing penalties for all offences in the Penal Code committed against **children under 14 years of age**.
-    * Enhancing penalties for all offences in the Penal Code committed against “**vulnerable persons**”.
-* The creation of a new offence to deal with cases of abuse of “vulnerable victims” leading to death or other forms of grievous hurt.
-* Increasing protection for domestic maids. The PCRC proposed that the court should have the discretion to sentence an employer, or agent of the domestic maid, who commits an offence in the Penal Code against a domestic maid to up to two times the maximum punishment prescribed for the offence.
+<li>The creation of a new offence to deal with cases of abuse of “vulnerable victims” leading to death or other forms of grievous hurt.</li>
+<li>Increasing protection for domestic maids. The PCRC proposed that the court should have the discretion to sentence an employer, or agent of the domestic maid, who commits an offence in the Penal Code against a domestic maid to up to two times the maximum punishment prescribed for the offence.</li>
+
+</ul>
+</ol>
 
 {:start="10"}
 10. The law on marital immunity for rape has been raised and discussed on many occasions and at various platforms, including in Parliament. The PCRC has recommended to repeal marital immunity for rape, based on the principle that all women should be protected from sexual abuse, regardless of their marital status or the identity of the perpetrator. The PCRC also took the view that the majority of our population no longer subscribe to the belief that a wife had irrevocably surrendered herself to sexual intercourse with her husband upon marriage.
@@ -97,14 +113,19 @@ collection_name: news
 
 <u>Updating the Sentencing Framework</u>
 
-{:start="19"}
-19. The PCRC was of the view that the relative severity of offences needed to be recalibrated from time to time. To that end, the PCRC reviewed the offences in the Penal Code, to ensure that the punishments meted out continue to be commensurate with the seriousness of the offences. Some of the sections that were reviewed are as follows:
-* Hurt and grievous hurt;
-* Assault of public servants;
-* Use of life imprisonment;
-* Use of fines;
-* Enhancement of penalties to ensure proportionate outcomes; and
-* Chapter X offences (Contempt of the lawful authority of public servants).
+<ol start="19">
+<li> The PCRC was of the view that the relative severity of offences needed to be recalibrated from time to time. To that end, the PCRC reviewed the offences in the Penal Code, to ensure that the punishments meted out continue to be commensurate with the seriousness of the offences. Some of the sections that were reviewed are as follows:
+
+<ul>
+<li>Hurt and grievous hurt;</li>
+<li> Assault of public servants;</li>
+<li>Use of life imprisonment;</li>
+<li> Use of fines;</li>
+<li>Enhancement of penalties to ensure proportionate outcomes; and</li>
+<li>Chapter X offences (Contempt of the lawful authority of public servants).</li>
+</ul>
+</li>
+</ol>
 
 **Invitation to Provide Feedback**
 
@@ -145,25 +166,38 @@ The Penal Code Review Committee Report is available here:
 
 **Objectives of the PCRC**
 
-{:start="3"}
-3. The objectives of the Committee are:
-
-* To conduct a thorough and comprehensive review of the Penal Code, and make recommendations on reforming the Penal Code; and
-* To study and make recommendations on any other specific reform areas or proposals referred to it by the Minister for Home Affairs and the Minister for Law.
+<ol start="3">
+<li>The objectives of the Committee are:
+<ol style="list-style-type: lower-alpha;">
+<li>To conduct a thorough and comprehensive review of the Penal Code, and make recommendations on reforming the Penal Code; and</li>
+<li>To study and make recommendations on any other specific reform areas or proposals referred to it by the Minister for Home Affairs and the Minister for Law.</li>
+</ol>
+</li>
+</ol>
 
 **Terms of Reference of the PCRC**
 
-{:start="4"}
-4. The Committee shall consider the following key areas of reform in relation to the Penal Code:
+<ol start="4">
+<li> The Committee shall consider the following key areas of reform in relation to the Penal Code:
 
-* Rationalising, recalibrating and modernising General Principles, Exceptions and Explanations in the Penal Code. This will include a review of the defences at law so that they properly reflect the level of moral culpability that gives rise to criminal liability; and
+<ol style="list-style-type: lower-alpha;">
+<li>Rationalising, recalibrating and modernising General Principles, Exceptions and Explanations in the Penal Code. This will include a review of the defences at law so that they properly reflect the level of moral culpability that gives rise to criminal liability; and</li>
+<li> Rationalising, recalibrating and modernising the substantive offences in the Penal Code, including proposals with respect to:
+<ol style="list-style-type: lower-roman;">
+<li>Updating or removing outmoded offences; </li>
+<li>Responding to a changing crime environment (e.g. new and more sophisticated forms of offences);</li>
+<li>Removing offences already or better dealt with under other legislations; </li>
+<li>Simplifying minute and overly-granular distinctions between offences; and </li>
+<li>Reviewing punishment provisions to ensure proportionality to seriousness of the offence, and bail and arrest powers.</li>
+</ol>
 
-* Rationalising, recalibrating and modernising the substantive offences in the Penal Code, including proposals with respect to:
-    * Updating or removing outmoded offences; 
-    * Responding to a changing crime environment (e.g. new and more sophisticated forms of offences);
-    * Removing offences already or better dealt with under other legislations; 
-    * Simplifying minute and overly-granular distinctions between offences; and 
-    * Reviewing punishment provisions to ensure proportionality to seriousness of the offence, and bail and arrest powers.
+
+</li>
+
+</ol>
+</li>
+
+</ol>
 
 **<u>Members of the Penal Code Review Committee</u>**
 
@@ -310,4 +344,4 @@ Presiding Judge of the State Courts</td>
 <sup>[2]</sup> When the PCRC was formed in July 2016, it was co-chaired by Ms Indranee Rajah S.C., then-Senior Minister of State, Ministry of Law, and Mr Desmond Lee, then-Senior Minister of State, Ministry of Home Affairs. Mr Amrin took over as co-chair of the PCRC from Mr Desmond Lee from 10 September 2017. 
 
 
-
+<p class="right-side-updated">Last updated on 12 Sep 2018</p>
