@@ -11,7 +11,7 @@ collection_name: news
 1. The Ministry of Law (MinLaw) has set up the Civil Justice Review Committee to recommend reforms to Singapore’s civil justice system to enhance access to justice for all, including for individuals who do not have legal representation and small and medium enterprises. 
 
 
-2. The eight-member committee is chaired by Senior Minister of State for Law and Finance, Ms Indranee Rajah S.C., and comprises representatives from the judiciary, senior members of the Bar and the Government. The membership of the committee is at [Annex A - Civil Justice Review Committee Composition (DOCX, 0.01 MB)](/files/news/press-releases/2016/05/Annex A Civil Justice Review Commitee Composition.docx). The committee held its first meeting on 3 May 2016. It is expected to complete its work by end 2016.
+2. The eight-member committee is chaired by Senior Minister of State for Law and Finance, Ms Indranee Rajah S.C., and comprises representatives from the judiciary, senior members of the Bar and the Government. The membership of the committee is at [Annex A (DOCX, 0.01 MB)](/files/news/press-releases/2016/05/Annex A Civil Justice Review Commitee Composition.docx). The committee held its first meeting on 3 May 2016. It is expected to complete its work by end 2016.
 
 **Key areas of review**
 
