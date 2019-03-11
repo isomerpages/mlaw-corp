@@ -36,7 +36,7 @@ collection_name: news
    <li>Tackling emerging crime trends;</li>
    <li>Updating the Penal Code;</li>
    <li> Harmonising criminal laws; and</li>
-   <li><Updating the sentencing framework./li>
+   <li>Updating the sentencing framework.</li>
 </ol>
 
 
