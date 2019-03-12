@@ -420,4 +420,5 @@ Lion Credit Pte Ltd</td>
 
 
 </table>
-hj
+
+<p class="right-side-updated">Last updated on 23 Nov 2017</p>
