@@ -20,3 +20,7 @@ collection_name: news
 5. Mr Ng How Yue, Permanent Secretary, Ministry of Law said that, “the ASEAN Law Academy is the first platform for the region where ASEAN Law and Policy issues can be discussed in a collaborative and practice-based setting. It also promotes the development of a legal education curriculum for ASEAN Law. The work of the Academy will be instrumental in developing discourse on ASEAN Law and facilitating ASEAN legal integration.”
 
 6. The Academy covered a range of topics, including the enhancement of the administration of ASEAN rules, laws regulating non-tariff barriers, rules of origin, and investments in the ASEAN Economic Community; ASEAN’s external trade and political relations; and modalities of dispute settlement in ASEAN.
+
+
+<p class="right-side-updated">Last updated on 30 Aug 2018
+</p>
