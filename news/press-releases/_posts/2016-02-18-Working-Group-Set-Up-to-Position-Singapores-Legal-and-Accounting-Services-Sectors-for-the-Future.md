@@ -56,5 +56,29 @@
 9. The Committee, comprising members from different industries, backgrounds, experiences and expertise, addresses five areas, namely:
 
 <ol style="list-style-type: lower-alpha;">
-
+ <li>Future growth industries and markets;</li>
+ <li>Corporate capabilities and innovation;</li>
+ <li>Jobs and skills;</li>
+ <li>Urban development and infrastructure; and</li>
+ <li>Connectivity.</li>
 </ol>
+
+
+**ECONOMIC DEVELOPMENT BOARD, MINISTRY OF FINANCE AND**  
+**MINISTRY OF LAW**  
+**18 FEBRUARY 2016**  
+
+[Annex A: List of members on the Working Group on Legal and Accounting Service (DOCX, 0.03MB)](/files/news/press-releases/2016/02/Annex A- List of members.docx)  
+[Annex B: Photos of the first meeting of the Committee on the Future Economy’s Working Group on Legal and Accounting Services (DOCX,1MB)](/files/news/press-releases/2016/02/Annex B - Photos of the first meeting of Committee.docx)
+
+**<u>Media Contact</u>**
+
+Fabius Chen  
+Email: fabius_chen@mlaw.gov.sg  
+DID: 6332-8650
+
+
+<p class="right-side-updated">Last updated on 19 Feb 2016
+</p>
+
+
