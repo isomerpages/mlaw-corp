@@ -32,7 +32,7 @@ collection_name: news
 * Ms Lock Yin Mei (Partner, Allen & Overy LLP)
 
 {:start="6"}
-6. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see [Annex A(PDF, 0.1MB)](/files/news/press-releases/2018/07/SLA Board press release 23 Jul 2018 - Annex A.pdf) for their profiles.
+6. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and reappointed members. Please see [Annex A (0.1MB)](/files/news/press-releases/2018/07/SLA Board press release 23 Jul 2018 - Annex A.pdf) for their profiles.
 
 **Out-going Member** 
  
@@ -56,3 +56,5 @@ collection_name: news
 * Dr Chong Yoke Sin (Chief, Enterprise Business Group, StarHub)
 * Mr Loh Lik Peng (Founder & Owner, Unlisted Collection)
 * Ms Margaret Goh (retired, former Group Managing Director, GuocoLand)
+
+<p class="right-side-updated">Last updated on 23 Jul 2018</p>
