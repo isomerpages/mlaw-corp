@@ -25,3 +25,6 @@ collection_name: news
 {:start="6"}
 6. The MLCB is a central repository of data on borrowers’ loans and repayment records with licensed moneylenders. The MLCB allows licensed moneylenders to assess the creditworthiness of borrowers, and help borrowers to avoid borrowing beyond their means. 
 
+
+<p class="right-side-updated">Last updated on 28 Jun 2018
+</p>
