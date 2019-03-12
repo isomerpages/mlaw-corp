@@ -12,7 +12,7 @@ collection_name: news
 
 2. MinLaw will work with stakeholders, including the Law Society of Singapore and the Singapore Institute of Legal Education, on the implementation of the recommendations. The three key recommendations will be implemented from the 2023 session of Part B of the Singapore Bar Examinations onwards, to give the industry time to adjust. The majority of students currently in law school will not be affected by these changes.
 
-3. The Committee for the Professional Training of Lawyers was set up by the Honourable the Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime and to make recommendations on how it might be modified to raise the quality and consistency of training standards across law practices. The Committee was chaired by Justice Quentin Loh and comprised 14 other members including representatives from the Supreme Court, the Attorney-General’s Chambers, MinLaw, the Law Society of Singapore, the Singapore Corporate Counsel Association and various Singapore law practices (see composition in [Annex A, (PDF, 0.2MB)](/files/news/press-releases/2018/08/Annex A - Composition of the Committee for the Professional Training of Lawyers.pdf)). Following the completion of the Committee’s work, its report was submitted for MinLaw’s consideration earlier this year.
+3. The Committee for the Professional Training of Lawyers was set up by the Honourable the Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime and to make recommendations on how it might be modified to raise the quality and consistency of training standards across law practices. The Committee was chaired by Justice Quentin Loh and comprised 14 other members including representatives from the Supreme Court, the Attorney-General’s Chambers, MinLaw, the Law Society of Singapore, the Singapore Corporate Counsel Association and various Singapore law practices (see composition in [Annex A, (0.2MB)](/files/news/press-releases/2018/08/Annex A - Composition of the Committee for the Professional Training of Lawyers.pdf)). Following the completion of the Committee’s work, its report was submitted for MinLaw’s consideration earlier this year.
 
 **Uncoupling admission to the Bar from the practice training contract**
 
@@ -32,11 +32,14 @@ collection_name: news
 **Other recommendations**
 
 {:start="7"}
-7. MinLaw has also accepted in principle 17 other specific recommendations made by the Committee to address discrete issues within the professional training regime. These relate to training standards, as well as the processes involved in applying for and obtaining practice training contracts. These 17 recommendations, which will support the new professional training regime, will be implemented in consultation with the relevant stakeholders (e.g. Supreme Court, the Law Society of Singapore, the Singapore Institute of Legal Education, law practices, and law schools) over the next five years. The full list of recommendations is in [Annex B(PDF, 0.2MB)](/files/news/press-releases/2018/08/Annex B - Recommendations of the Committee for the Professional Training of Lawyers.pdf).
+7. MinLaw has also accepted in principle 17 other specific recommendations made by the Committee to address discrete issues within the professional training regime. These relate to training standards, as well as the processes involved in applying for and obtaining practice training contracts. These 17 recommendations, which will support the new professional training regime, will be implemented in consultation with the relevant stakeholders (e.g. Supreme Court, the Law Society of Singapore, the Singapore Institute of Legal Education, law practices, and law schools) over the next five years. The full list of recommendations is in [Annex B (0.2MB)](/files/news/press-releases/2018/08/Annex B - Recommendations of the Committee for the Professional Training of Lawyers.pdf).
 
 <sup>[1]</sup>Qualified persons refer to local law graduates from the National University of Singapore, Singapore Management University and Singapore University of Social Sciences, and overseas law graduates from approved universities, who have met the requisite degree standards and other requirements, as set out in the Legal Profession (Qualified Persons) Rules. For more information about being a qualified person, please refer to the [website](http://www.sile.edu.sg/) of the Singapore Institute of Legal Education.
 
 
-[FAQs on Recommendations by Committee for Professional Training of Lawyers.(PDF, 0.3MB)](/files/news/press-releases/2018/08/CPTL Recommendations FAQs.pdf) 
+[FAQs on Recommendations by Committee for Professional Training of Lawyers.(0.3MB)](/files/news/press-releases/2018/08/CPTL Recommendations FAQs.pdf) 
 
-[Infographic explaining key changes to the admission and training of lawyers.(PDF, 0.1MB)](/files/news/press-releases/2018/08/CPTL Infographic.pdf) 
+[Infographic explaining key changes to the admission and training of lawyers.(0.1MB)](/files/news/press-releases/2018/08/CPTL Infographic.pdf) 
+
+<p class="right-side-updated">Last updated on 30 Aug 2018
+</p>
