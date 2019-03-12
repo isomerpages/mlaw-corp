@@ -35,13 +35,13 @@ collection_name: news
 7. The Act will also apply to offences committed outside Singapore as long as certain conditions are satisfied. For example, where an offender who is overseas stalks a victim who is in Singapore, and the offender knew or ought to have known that the victim would be in Singapore when doing so, he may be found guilty of the offence of stalking.
 
 {:start="8"}
-8. Penalties for convictions range from fines not exceeding $5,000 to imprisonment for a term not exceeding 12 months or both. For repeat offenders, this increases to $10,000 or imprisonment for a term not exceeding two years or both. Penalties for convictions are summarised in [Annex A]().
+8. Penalties for convictions range from fines not exceeding $5,000 to imprisonment for a term not exceeding 12 months or both. For repeat offenders, this increases to $10,000 or imprisonment for a term not exceeding two years or both. Penalties for convictions are summarised in [Annex A (0.08MB)](/files/news/press-releases/2015/01/Annex A_POHA.pdf).
 
 **MINISTRY OF LAW & MINISTRY OF HOME AFFAIRS**
 
 ---
 
-[Infographics on protection from harassment]()  
+[Infographics on protection from harassment (0.5MB)](files/news/press-releases/2015/01/Protection from Harassment.pdf)  
 [View videos on Protection from Harassment Act 2014]()
 
 **Translation of “Protection from Harassment Act”**
