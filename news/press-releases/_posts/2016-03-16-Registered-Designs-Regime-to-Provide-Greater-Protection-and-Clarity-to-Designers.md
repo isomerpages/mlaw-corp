@@ -6,6 +6,9 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+16 Mar 2016 Posted in [Press releases](/news/press-releases)
+
+
 1. The Ministry of Law (MinLaw) and the Intellectual Property Office of Singapore (IPOS) announced today the completion of the review of Singapore’s registered designs regime. Taking into account technological advances and modern business practices, the proposed changes will support the growth of the design industry by making it easier for designers to protect their creative works, while allowing sufficient freedom for others to innovate and build on existing creations.
 
 2. The review of Singapore’s registered designs regime will complement the Design 2025 Masterplan<sup>[1]</sup> which recommended that design firms and businesses be supported to innovate and create new products, services and experiences, capitalising on the value of intellectual property.
@@ -49,7 +52,7 @@ collection_name: news
 7. Commenting on the recommendations, IPOS Chief Executive Officer, Daren Tang said, “The proposed changes to the registered designs regime are part of Singapore’s commitment to regularly review our IP regimes to ensure that they are progressive and world-class.  Working with our partners in the design community, they take into account current design trends and business practices and are meant to support creativity and innovation in Singapore’s designs ecosystem.  We encourage designers to make full use of the enhanced regime to help them deliver differentiated products in a competitive globalised market.”
 
 {:start="8"}
-8. The full set of recommendations can be found in  [Annex A]().
+8. The full set of recommendations can be found in  [Annex A (1MB)](/files/news/press-releases/2016/03/Final Report for Designs Review.pdf).
 
 **Background**
 
@@ -61,6 +64,9 @@ collection_name: news
 
 **INTELLECTUAL PROPERTY OFFICE OF SINGAPORE & MINISTRY OF LAW**  
 **16 MARCH 2016**
+
+[Annex A - Final Report on the Review of Singapore's Registered Designs Regime (1MB)](/files/news/press-releases/2016/03/Final Report for Designs Review.pdf)  
+[Annex B - Quotes from design community (0.1MB)](/files/news/press-releases/2016/03/Annex B - Quotes from design community.pdf)
 
 <sup>[1]</sup>Announced by the DesignSingapore Council on 10 March 2016, the Masterplan identifies design as a key driver of value creation, as Singapore transitions into an innovation-driven economy.
 
