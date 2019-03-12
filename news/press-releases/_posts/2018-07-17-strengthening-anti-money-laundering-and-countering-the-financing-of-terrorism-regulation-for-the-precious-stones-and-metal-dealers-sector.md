@@ -24,3 +24,7 @@ collection_name: news
 6. The Financial Action Task Force (FATF) is an inter-governmental body established in 1989 by the relevant Ministers of its member jurisdictions. The FATF sets standards and promotes effective implementation of legal, regulatory and operational measures for combating money laundering, terrorism financing and other related threats to the integrity of the international financial system. The FATF monitors the progress of its members in implementing necessary measures, reviews money laundering and terrorist financing techniques and counter-measures, and promotes the adoption and implementation of appropriate measures globally. Singapore has been a member of the FATF since 1992.
 
 <sup>[1]</sup> The legal requirements were enacted under Part VIB of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act and the Corruption, Drug Trafficking and Other Serious Crimes (Cash Transaction Reports) Regulations 2014.
+
+
+<p class="right-side-updated">Last updated on 17 Jul 2018
+</p>
