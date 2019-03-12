@@ -47,7 +47,7 @@ collection_name: news
 {:start="8"}
 8. Credit reference agency DP Information Group (DP Info) was appointed by MinLaw in November 2015 to design and develop the MLCB. DP Info will also manage the operations of the MLCB.
 
-[Annex: Infographic on the MLCB](/files/nes/press-releases/2016/02/MLCB - Infographic.pdf)
+[Annex: Infographic on the MLCB](/files/news/press-releases/2016/02/MLCB - Infographic.pdf)
 
 **MINISTRY OF LAW**
 **24 FEBRUARY 2016**
