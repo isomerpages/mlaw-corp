@@ -164,19 +164,14 @@ collection_name: news
     <td>314,000</td>
  </tr> 
  
-<tr>
-<td>13.</td>
-<td>i. Money Plant Pte Ltd</td>
-<td>10/06/2013</td>
-<td>2,000</td>
-</tr>
 
 <tr>
- <td></td>
-<td>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
-<td>10/06/2013</td>
-<td>15,000</td>
-</tr>
+ <td>13.</td>
+ <td>i. Money Plant Pte Ltd<br>
+ ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+ <td>10/06/2013</td>
+ <td>2,000 <br> 15,000</td>
+ </tr>
 
 
  <tr>
@@ -354,24 +349,25 @@ collection_name: news
  </tr>
  
 
- <tr>
- <td>33.</td>
- <td colspan="3">Moneyline Express Pte Ltd </td>
- </tr>
- 
- <tr>
- <td></td>
- <td>i. Chiang Tin Wei Samuel</td>
- <td>31/04/2014</td>
- <td>2,500</td>
- </tr>
- 
- <tr>
- <td></td>
- <td>ii. Chuah Kim Tion Eric</td>
- <td>06/02/2015</td>
- <td>162,000</td>
- </tr>
+<tr>
+  <td>33.</td>
+  <td>
+    Moneyline Express Pte Ltd<br>
+    i.   Chiang Tin Wei, Samuel<br>
+    ii. Chuah Kim Tiong Eric
+  </td>
+  <td>
+    <br>
+    21/04/2014
+  <br>
+    06/02/2015
+  </td>
+  <td>
+    <br>
+    2,500<br>
+  162,000
+  </td>
+</tr>
  
  
  <tr>
@@ -403,26 +399,22 @@ collection_name: news
  </tr>
  
 
- <tr>
- <td>37.</td>
- <td colspan="3">Skyline Credit</td>
 
-  </tr>
- 
- <tr>
- <td></td>
- <td>i. Hu Sufen</td>
- <td>25/02/2016</td>
- <td>13,000</td>
- 
- </tr>
- 
- <tr>
- <td></td>
- <td>ii. Chng Kok Keng</td>
- <td>25/02/2016</td>
- <td>12,000</td>
- </tr>
+<tr>
+  <td>37.</td>
+  <td>Skyline Credit <br>
+  i. Hu Sufen<br>
+  ii. Chng Kok Keng  
+  </td>
+  <td>25/02/2016</td>
+  <td>
+    <br>
+    13,000
+  <br>
+    12,000
+  </td>
+</tr>
+
  
  
 
