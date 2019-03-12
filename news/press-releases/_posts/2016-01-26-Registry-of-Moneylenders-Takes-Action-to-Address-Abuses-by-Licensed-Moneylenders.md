@@ -35,7 +35,7 @@ collection_name: news
 5. To warn borrowers against accepting such loans, all licensed moneylenders will be required to provide borrowers with a cautionary statement in writing before any loan can be granted. Borrowers who have been given such loans may lodge a formal complaint with the Registry of Moneylenders.
 
 {:start="6"}
-6. A sample of the cautionary statement to be provided can be found in [Annex A](/files/news/press-releases/2016/01/Annex A - Cautionary Statement to Borrower.pdf).
+6. A sample of the cautionary statement to be provided can be found in [Annex A (0.08MB)](/files/news/press-releases/2016/01/Annex A - Cautionary Statement to Borrower.pdf).
 
 {:start="7"}
 7. Licensed moneylenders found to be in breach of the Directions will be investigated and dealt with accordingly.
