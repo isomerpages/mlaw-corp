@@ -141,16 +141,13 @@ Bez One Credit
 <td>314,000</td>
 </tr>
 
-<tr>
-<td rowspan="2">13.</td>
-<td> Money Plant Pte Ltd</td>
-<td rowspan="2">10/06/2013</td>
-<td >2,000</td>
-</tr>
 
 <tr>
-<td> Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
-<td>15,000</td>
+<td>13.</td>
+<td>i. Money Plant Pte Ltd<br>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+<td>10/06/2013</td>
+<td>2,000<br>
+15,000</td>
 </tr>
 
 <tr>
@@ -333,23 +330,23 @@ Lion Credit Pte Ltd</td>
 </tr>
 
 <tr>
-<td rowspan="3">33.</td>
-<td>Moneyline Express Pte Ltd</td>
-<td></td>
-<td></td>
-</tr>
-
-
-<tr>
-<td>i. Chiang Tin Wei, Samuel</td>
-<td>21/04/2014</td>
-<td>2,500</td>
-</tr>
-
-<tr>
-<td>ii. Chuah Kim Tiong Eric</td>
-<td>06/02/2015</td>
-<td>162,000</td>
+  <td>33.</td>
+  <td>
+    Moneyline Express Pte Ltd<br>
+    i.   Chiang Tin Wei, Samuel<br>
+    ii. Chuah Kim Tiong Eric
+  </td>
+  <td>
+    <br>
+    21/04/2014
+  <br>
+    06/02/2015
+  </td>
+  <td>
+    <br>
+    2,500<br>
+  162,000
+  </td>
 </tr>
 
 
@@ -378,21 +375,18 @@ Lion Credit Pte Ltd</td>
 </tr>
 
 <tr>
-<td rowspan="3">37.</td>
-<td>Skyline Credit</td>
-<td rowspan="3">25/02/2016</td>
-<td></td>
-</tr>
-
-<tr>
-<td>i. Hu Sufen</td>
-<td>13,000</td>
-
-</tr>
-
-<tr>
-<td>ii. Chng Kok Keng</td>
-<td>12,000</td>
+  <td>37.</td>
+  <td>Skyline Credit <br>
+  i. Hu Sufen<br>
+  ii. Chng Kok Keng  
+  </td>
+  <td>25/02/2016</td>
+  <td>
+    <br>
+    13,000
+  <br>
+    12,000
+  </td>
 </tr>
 
 
