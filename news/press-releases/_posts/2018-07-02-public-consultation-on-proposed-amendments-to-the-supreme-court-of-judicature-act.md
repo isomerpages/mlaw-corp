@@ -58,3 +58,6 @@ Ministry of Law
 #08-02 The Treasury  
 Singapore 179434  
 Email: <MLAW_Consultation@mlaw.gov.sg>
+
+<p class="right-side-updated">Last updated on 02 Jul 2018
+</p>
