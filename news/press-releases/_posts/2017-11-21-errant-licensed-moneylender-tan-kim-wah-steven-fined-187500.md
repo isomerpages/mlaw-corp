@@ -140,7 +140,7 @@ Bez One Credit
 
 <tr>
 <td>13.</td>
-<td>  Money Plant Pte Ltd<br> Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
+<td>i. Money Plant Pte Ltd<br>ii. Cho Hong Chye Alvin a.k.a. Zhu Hongcai Alvin</td>
 <td>10/06/2013</td>
 <td>2,000<br>
 15,000</td>
