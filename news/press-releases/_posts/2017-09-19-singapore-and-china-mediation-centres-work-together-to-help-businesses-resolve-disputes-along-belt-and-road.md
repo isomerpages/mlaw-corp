@@ -11,14 +11,20 @@ collection_name: news
 
 1. The Singapore International Mediation Centre (SIMC) and the Mediation Center of the China Council for the Promotion of International Trade / China Chamber of International Commerce (CCPIT/CCOIC Mediation Center) will work together to support businesses and help them resolve disputes that may arise in cross-border commercial transactions under China’s Belt and Road Initiative (BRI). The two mediation centres signed a Memorandum of Understanding (MOU) today at the International Mediation Summit held in Hangzhou, China.
 
-2. Under the MOU, the SIMC and CCPIT/CCOIC Mediation Center will: 
+<ol start="2">
+   <li>Under the MOU, the SIMC and CCPIT/CCOIC Mediation Center will: 
 
-    * Cooperate in the promotion of international commercial mediation through joint lectures, conferences and seminars;
+<ol style="list-style-type: lower-alpha;">
+  <li>Cooperate in the promotion of international commercial mediation through joint lectures, conferences and seminars;</li>
     
-    * Promote each other’s mediators and mediation-related services; and
+  <li>Promote each other’s mediators and mediation-related services; and</li>
     
-    * Recommend the use of mediation facilities at Maxwell Chambers in Singapore and the CCOIC building in Beijing, China.
-    
+  <li>Recommend the use of mediation facilities at Maxwell Chambers in Singapore and the CCOIC building in Beijing, China.</li>
+</ol>
+
+</li>
+</ol>
+
 3. The MOU was signed by Ms Ng Chai Ngee, SIMC Board Member, and Mr Li Jianning, Director-General of the CCPIT Commercial Legal Services Center. The signing was witnessed by Mr Han Kok Juan, Deputy Secretary of the Singapore Ministry of Law, and Chinese officials from the Chinese Courts, CCPIT, and the Hangzhou Municipal Government.
 
 4. The two mediation centres will serve Chinese companies investing in Singapore, Singapore companies investing in China, as well as companies investing in other markets under the BRI. China’s investment in Singapore accounts for approximately one-third of its total investment in BRI countries, while Singapore’s investment in China accounts for about 85 per cent of the total inbound investment from BRI countries.
@@ -41,3 +47,5 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **19 SEPTEMBER 2017**
+
+<p class="right-side-updated">Last updated on 18 Sep 2017</p>
