@@ -21,7 +21,9 @@ collection_name: news
 6.    The organisation of this conference was supported by the CCPIT Legal Affairs Department, the CCPIT Mediation Centre, and Maxwell Chambers, Singapore.
 
 
-[Annex A: Conference Programme(PDF, 0.04MB)](/files/news/press-releases/2019/01/Annex A Conference Prog.pdf)  
-[Annex B: Press Release on MOU(PDF, 0.6MB)](/files/news/press-releases/2019/01/Annex B Press Release on MOU.pdf)
+[Annex A: Conference Programme (0.04MB)](/files/news/press-releases/2019/01/Annex A Conference Prog.pdf)  
+[Annex B: Press Release on MOU (0.6MB)](/files/news/press-releases/2019/01/Annex B Press Release on MOU.pdf)
 
 
+<p class="right-side-updated">Last updated on 24 Jan 2019
+</p>
