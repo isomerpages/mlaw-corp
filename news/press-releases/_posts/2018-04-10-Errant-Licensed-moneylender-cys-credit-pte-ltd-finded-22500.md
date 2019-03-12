@@ -433,3 +433,5 @@ Lion Credit Pte Ltd</td>
 </tr>
 </table>
 
+<p class="right-side-updated">Last updated on 24 May 2018
+</p>
