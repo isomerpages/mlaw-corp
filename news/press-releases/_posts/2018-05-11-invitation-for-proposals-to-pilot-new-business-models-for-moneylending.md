@@ -13,17 +13,21 @@ collection_name: news
 
  
 
-2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at [Annex A(PDF, 0.2MB)](/files/news/press-releases/2018/05/Annex A - Pilot Invitation.pdf), and in the specified form at [Annex B(PDF, 0.04MB)](/files/news/press-releases/2018/05/Annex B - Pilot Application Form.xlsx). The deadline for the submission of proposals for the Pilot is 20 July 2018.
+2. Interested participants can submit proposals on how they intend to conduct their new moneylending business models in Singapore with reference to the conditions laid out in the Invitation at [Annex A (0.2MB)](/files/news/press-releases/2018/05/Annex A - Pilot Invitation.pdf), and in the specified form at [Annex B (0.04MB)](/files/news/press-releases/2018/05/Annex B - Pilot Application Form.xlsx). The deadline for the submission of proposals for the Pilot is 20 July 2018.
 
  
-
-3. All pilot proposals must fulfil specific criteria which impose higher standards over and above the current legal requirements for licensed moneylenders. These mandatory criteria relate to:
-
-* applicant profile;
-* soundndess and completeness of business model;
-* participation in debt assistance schemes;
-* customer acquisition and communication strategy; and
-* professional debt recovery practices.
+<ol start="3">
+<li>All pilot proposals must fulfil specific criteria which impose higher standards over and above the current legal requirements for licensed moneylenders. These mandatory criteria relate to:
+ 
+<ol style="list-style-type: lower-alpha;">
+<li>applicant profile;</li>
+ <li>soundndess and completeness of business model;</li>
+ <li>participation in debt assistance schemes;</li>
+ <li>customer acquisition and communication strategy; and</li>
+ <li>professional debt recovery practices.</li>
+ </ol>
+ </li>
+</ol>
 
 Applicants must have paid-up capital of at least $1 million, to ensure that they are of sufficient financial standing. Applicants must also have a demonstrated track record in providing consumer credit, whether in licensed moneylending or in other sectors of consumer credit. In addition, all pilot proposals must be in compliance with all relevant laws that apply to licensed moneylenders, including the Moneylenders Act and Rules.
 
@@ -41,3 +45,5 @@ Applicants must have paid-up capital of at least $1 million, to ensure that they
 7. The validity of the pilot licence is expected to begin in 2019 and conclude in 2020, following which MinLaw will evaluate the results of the pilot and consider options for refining the moneylending regulatory regime.  
   
 For more details, please go to https://www.mlaw.gov.sg/content/rom/en/pilotprogramme.html 
+
+<p class="right-side-updated">Last updated on 12 May 2018</p>
