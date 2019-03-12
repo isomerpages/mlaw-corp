@@ -332,11 +332,15 @@ Lion Credit Pte Ltd</td>
     i.   Chiang Tin Wei, Samuel<br>
     ii. Chuah Kim Tiong Eric
   </td>
-  <td>21/04/2014
+  <td>
+    <br>
+    21/04/2014
   <br>
     06/02/2015
   </td>
-  <td>2,500<br>
+  <td>
+    <br>
+    2,500<br>
   162,000
   </td>
 </tr>
@@ -416,4 +420,4 @@ Lion Credit Pte Ltd</td>
 
 
 </table>
-h
+hj
