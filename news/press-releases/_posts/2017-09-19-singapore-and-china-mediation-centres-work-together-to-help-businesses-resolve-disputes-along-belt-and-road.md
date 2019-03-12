@@ -25,16 +25,22 @@ collection_name: news
 </li>
 </ol>
 
+{:start="3"}
 3. The MOU was signed by Ms Ng Chai Ngee, SIMC Board Member, and Mr Li Jianning, Director-General of the CCPIT Commercial Legal Services Center. The signing was witnessed by Mr Han Kok Juan, Deputy Secretary of the Singapore Ministry of Law, and Chinese officials from the Chinese Courts, CCPIT, and the Hangzhou Municipal Government.
 
+{:start="4"}
 4. The two mediation centres will serve Chinese companies investing in Singapore, Singapore companies investing in China, as well as companies investing in other markets under the BRI. China’s investment in Singapore accounts for approximately one-third of its total investment in BRI countries, while Singapore’s investment in China accounts for about 85 per cent of the total inbound investment from BRI countries.
 
+{:start="5"}
 5. Organised by the CCPIT and the Hangzhou Municipal Government, the International Mediation Summit brought together over 400 judges, legal scholars, lawyers, corporate leaders and mediators to discuss mediation and other dispute resolution mechanisms for the BRI.
 
+{:start="6"}
 6. Addressing the Summit at its Opening Ceremony, Mr Han said: “The BRI is a game changer. It has the potential to redefine the world we know and uplift the lives of billions. As the BRI involves high value, long-term, cross-border investments, a framework for resolving disputes should they arise can help build trust and confidence amongst governments, investors and people – one that is based on rule of law, is neutral and stable, and can assure fair treatment for all parties. The MOU is a building block for such a framework.”
 
+{:start="7"}
 7. Ms Ng said: “As the BRI takes off and cross-border commercial transactions grow, there will also be a corresponding increase in disputes. Mediation provides an avenue for these disputes to be resolved quickly, cost efficiently and amicably, in a way that preserves relationships and is consistent with Asian values that both Singapore and China share. The SIMC already serves many Chinese companies, and has helped many Chinese companies with their dispute resolution needs. The MOU will allow the SIMC to reach out to even more Chinese parties and create new opportunities for Singapore.”
 
+{:start="8"}
 8. The MOU comes less than a month after the inaugural Singapore-China Legal and Judicial Roundtable in Beijing, where Singapore and China signed an MOU on legal and judicial cooperation. At the roundtable, top legal officials from both countries discussed how Singapore can play a role in financing infrastructure projects and resolving commercial disputes, as China rolls out its BRI in South-east Asia.
 
 **Background**
