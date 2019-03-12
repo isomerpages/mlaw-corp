@@ -27,18 +27,18 @@ collection_name: news
 {:start="4"}
 4. In March 2017, the Companies (Amendment) Bill was passed in Singapore’s Parliament, containing amendments that would enhance Singapore’s debt restructuring and corporate rescue framework. Key changes implemented through the legislative amendments were:
 
- 
+<ol style="list-style-type: lower-alpha;"> 
 
-* Provisions to support creditor schemes of arrangements, such as enhanced moratoriums against creditor action, rescue finance provisions, and cram-down provisions.
-
- 
-
-* Provisions to enable companies to apply for a judicial management order more easily and for rescue financing in judicial management.
+<li>Provisions to support creditor schemes of arrangements, such as enhanced moratoriums against creditor action, rescue finance provisions, and cram-down provisions.</li>
 
  
 
-* Provisions to facilitate cross-border insolvency and restructuring.
+<li>Provisions to enable companies to apply for a judicial management order more easily and for rescue financing in judicial management.</li>
 
+ 
+
+<li>Provisions to facilitate cross-border insolvency and restructuring.</li>
+</ol>
  
 {:start="5"}
 5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex](/news/legal-industry-newsletters/note-by-senior-minister-of-state-for-law-and-finance--indranee-r5).
@@ -50,3 +50,7 @@ collection_name: news
  
 {:start="7"}
 7. The GRR Awards and nominations demonstrate international recognition of the broad range of strengths that Singapore has to offer in the debt restructuring space. The Ministry of Law thanks all local and international contributors who have made these results possible and looks forward to extending these strong partnerships as we continue to strengthen Singapore as a centre for international debt restructuring in Asia.
+
+
+<p class="right-side-updated">Last updated on 20 Jul 2017
+</p>
