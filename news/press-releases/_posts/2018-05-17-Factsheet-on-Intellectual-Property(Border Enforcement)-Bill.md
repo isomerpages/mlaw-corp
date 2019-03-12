@@ -11,9 +11,14 @@ collection_name: news
 ---
 
 **The Intellectual Property (Border Enforcement) Bill (“the Bill”) seeks to amend the Copyright Act (“CA”), Trade Marks Act (“TMA”), Registered Designs Act (“RDA”) and Geographical Indications Act (“GIA”) - collectively known as “the IP Acts” to:**
-* **implement Singapore’s obligations under the European Union – Singapore Free Trade Agreement (“EUSFTA”) to enhance border enforcement measures against goods infringing intellectual property rights (“IPR”);**
-* **provide new powers for Singapore Customs (“Customs”) to obtain and provide information relating to the goods they seize; and**
-* **standardise the terms and provisions relating to border enforcement across the IP Acts.**  
+
+<ol style="list-style-type: lower-roman; font-weight: bold;">
+  <li>implement Singapore’s obligations under the European Union – Singapore Free Trade Agreement (“EUSFTA”) to enhance border enforcement measures against goods infringing intellectual property rights (“IPR”);</li>
+  
+  <li>provide new powers for Singapore Customs (“Customs”) to obtain and provide information relating to the goods they seize; and</li>
+  
+  <li>standardise the terms and provisions relating to border enforcement across the IP Acts.</li>
+  </ol>
   
 ---
 
@@ -118,33 +123,38 @@ collection_name: news
 
 <tr>
 <td>Phase 1: Upon passing the Bill</td>
-<td>New powers in the CA and TMA for Customs to obtain and provide information relating to the seized goods</td>
+<td>
+  <ul>
+    <li>
+  New powers in the CA and TMA for Customs to obtain and provide information relating to the seized goods
+  </li>
+  </ul>
+  
+  </td>
 </tr>
 
 <tr>
-<td rowspan="2">Phase 2: Upon entry into force of EUSFTA</td>
-<td>Enhanced border enforcement measures in the CA and TMA</td>
+  <td>Phase 2: Upon entry into force of EUSFTA</td>
+  <td>
+  <ul>
+    <li>Enhanced border enforcement measures in the CA and TMA</li>
+    <li>Standardised terms and provisions relating to border enforcement in the CA and TMA</li>
+    </ul>
+  </td>
+  </tr>
+  
+  <tr>
+  <td>Phase 3: Within 3 years of the entry into force of EUSFTA<sup>[1]</sup></td>
+  <td>
+  <ul>
+    <li>Enhanced border enforcement measures in the RDA</li>
+    <li>New powers in the GIA and RDA for Customs to obtain and provide information relating to the seized goods</li>
+    <li>Standardised terms and provisions relating to border enforcement in the GIA and RDA</li>
+    </ul>
+  </td>
+  </tr>
 
-</tr>
-<tr>
-<td>Standardised terms and provisions relating to border enforcement in the CA and TMA</td>
-</tr>
 
-
-<tr>
-<td rowspan="3"> Phase 3: Within 3 years of the entry into force of EUSFTA <sup>[1]</sup>  </td>
-
-
-<td>Enchanced border enforcement measure in the RDA</td>
-</tr>
-<tr>
-<td>New powers in the GIA and RDA for Customs to obtain and provide information relating to the seized goods</td>
-</tr>
-
-
-<tr>
-<td>Standardised terms and provisions relating to border enforcement in the GIA and RDA</td>
-</tr>
 
 
 </table>
@@ -152,4 +162,6 @@ collection_name: news
 
 <sup>[1]</sup> The enhanced border enforcement measures in the GIA, which have been introduced in the new GIA and passed in April 2014, will also be implemented within 3 years of the entry into force of EUSFTA, in accordance with EUSFTA obligations.
 
+<p class="right-side-updated">Last updated on 17 May 2018
+</p>
 
