@@ -9,7 +9,7 @@ collection_name: news
 **Consultation Period:**  
 10 Nov 2014 to 30 Nov 2014
 
-<ol start="1" style="list-style-type: upper-alpha font-weight: bold;">
+<ol start="1" style="list-style-type: upper-alpha; font-weight: bold;">
 <li><u>Introduction</u></li>
 </ol>
 
@@ -37,7 +37,7 @@ collection_name: news
 
 
 
-<ol start="2" style="list-style-type: upper-alpha font-weight: bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight: bold;">
 <li><u>New Community Dispute Resolution Tribunals</u></li>
 </ol>
 
@@ -74,7 +74,7 @@ collection_name: news
 13. There will only be limited provision for appealing against the decision of the Tribunal, and only when the appellant has obtained the permission of the court. This promotes finality and avoids the high costs that may be incurred through appeals. This is similar to the position for decisions of the Small Claims Tribunal.
 
 
-<ol start="3" style="list-style-type: upper-alpha font-weight: bold;">
+<ol start="3" style="list-style-type: upper-alpha; font-weight: bold;">
 <li><u>New right to seek remedies to protect enjoyment of residence</u></li>
 </ol>
 
@@ -127,8 +127,8 @@ collection_name: news
 22. Breach of the court order can result in criminal liability. If the person proves on a balance of probabilities that the neighbour has breached the order once, the Tribunal will first issue a direction for the neighbour to comply with the order. It is a criminal offence for the neighbour to breach the court order and direction.
 
 
-<ol start="4" style="list-style-type: upper-alpha;">
-<li> Invitation for feedback</li>
+<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
+ <li><u> Invitation for feedback</u></li>
 </ol>
 
 {:start="23"}
