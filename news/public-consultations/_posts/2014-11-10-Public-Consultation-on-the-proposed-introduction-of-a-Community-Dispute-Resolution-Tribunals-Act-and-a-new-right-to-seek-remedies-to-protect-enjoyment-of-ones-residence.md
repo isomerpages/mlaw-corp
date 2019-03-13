@@ -108,6 +108,13 @@ collection_name: news
 {:start="18"}
 18. If the court is satisfied that there has been disturbance to or interference with  a person’s enjoyment of his place of residence, the court can make one or more of the following orders (or decline to make any order):
  
+ <ol style="list-style-type: lower-alpha;">
+ <li>an order for the neighbour to pay damages or compensation;</li>
+ <li>an order for the neighbour to refrain from doing anything;</li>
+ <li>an order for the neighbour to do something;</li>
+ <li>an order that the neighbour provide an apology to the person;</li>
+ <li>any other order as may be necessary to give effect to any of the court’s orders.</li>
+ </ol>
 
 
 {:start="19"}
