@@ -64,11 +64,9 @@ collection_name: news
 
 ---
 
-[Annex A: Factsheet on the Constitution of the Republic of Singapore (Amendment) Bill (0.11MB))](/files/news/press-releases/2014/10/Factsheet-Constitution Bill-2014.pdf)   
-
+[Annex A: Factsheet on the Constitution of the Republic of Singapore (Amendment) Bill (0.11MB)](/files/news/press-releases/2014/10/Factsheet-Constitution Bill-2014.pdf)   
 [Annex B: Factsheet on the Supreme Court of Judicature (Amendment) Bill (0.08MB)](/files/news/press-releases/2014/10/Factsheet-SCJA Bill-2014.pdf)  
-
-[Annex C: Factsheet on the Legal Profession (Amendment) Bill (0.1MB)](/files/news/press-releases/2014/10/Factsheet - LPA Bill-2014.pdf)  
+[Annex C: Factsheet on the Legal Profession (Amendment) Bill (0.1MB)](/files/news/press-releases/2014/10/Factsheet - LPA Bill-2014.pdf)
 
 [Annex D: Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/press-releases/2014/10/Factsheet_PT Bill_2014.pdf)  
 
