@@ -66,7 +66,7 @@ collection_name: news
 </tr>
 </table>
 
-hgi
+
 
 <p class="right-side-updated">Last updated on 16 Jan 2015
 </p>
