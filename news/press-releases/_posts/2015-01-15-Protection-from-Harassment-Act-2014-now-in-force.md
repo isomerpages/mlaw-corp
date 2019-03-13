@@ -8,6 +8,17 @@ collection_name: news
 
 15 Jan 2015 Posted in [Press releases](/news/press-releases)
 
+
+<div class="section video">
+
+
+<div style="">
+<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="4976B301BC72FFB55B9D53ADCA900E9C">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("4976B301BC72FFB55B9D53ADCA900E9C").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_324088349_admin_640x360_700k.jpg",sources: [ {file: "http://vodcdn01a.evvochannel.com/cdn/_definst_/evvomedia/minlaw/admin/smil_file_default_324088349_admin.mov_13407.smil/playlist.m3u8?e=0&h=98f79ebdc6ef67fb4d8cf46c6d583eb8", }], }], });</script>
+
+</div>
+
+</div>
+
 *<u>Range of civil and criminal responses available to protect victims of harassment</u>*
 
 1. The Protection from Harassment Act 2014, which was introduced to strengthen harassment laws in Singapore, is now in force. A range of civil remedies and criminal sanctions is available to better protect people from harassment and related anti-social behaviour.
@@ -62,6 +73,8 @@ collection_name: news
 <td>தொந்தரவில் இருந்து பாதுகாக்கும் சட்டம்</td>
 </tr>
 </table>
+
+h
 
 <p class="right-side-updated">Last updated on 16 Jan 2015
 </p>
