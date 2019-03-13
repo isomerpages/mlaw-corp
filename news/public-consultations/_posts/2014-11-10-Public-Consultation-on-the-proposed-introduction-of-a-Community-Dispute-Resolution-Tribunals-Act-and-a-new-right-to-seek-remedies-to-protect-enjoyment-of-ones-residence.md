@@ -6,10 +6,10 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
-**Consultation Period:** 
+**Consultation Period:**  
 10 Nov 2014 to 30 Nov 2014
 
-<ol style="list-style-type: upper-alpha font-weight: bold;">
+<ol start="1" style="list-style-type: upper-alpha font-weight: bold;">
 <li><u>Introduction</u></li>
 </ol>
 
@@ -141,7 +141,7 @@ Singapore 179434
 Fax: 6332 8842  
 Email: <MLAW_Consultation@mlaw.gov.sg>
 
-[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)
+[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)  
 [Annex B: Draft Civil Law (Amendment) Bill 2015 (0.09MB)](/files/news/public-consultations/2014/11/Annex B - Civil Law Amendment Bill for public consultation.pdf)
 
 
