@@ -18,37 +18,40 @@ collection_name: news
 **Summary of Key Changes to the Act**
 
 
-{:start="3"}
-3.    To provide creators with more recognition and practical protection, some of the key proposed recommendations for creators are:
+<ol start="3">
+<li>To provide creators with more recognition and practical protection, some of the key proposed recommendations for creators are:
 
+  <ol style="list-style-type: lower-roman;">
+  <li>Creators will own the Copyright in certain specific works they are commissioned to create unless they agree otherwise.</li>
+  <li> Creators will have a right of attribution – which will enable them to ask that they be credited as the creator, regardless of whether they still own the Copyright.</li>
+  </ol>
   
+ </li>       
+</ol>
 
-        (i)    Creators will own the Copyright in certain specific works they are commissioned to create unless they agree otherwise.
+<ol start="4">
+<li>In order for our Copyright regime to adapt to modern developments, some of the key proposed recommendations for users are:
 
-
-        (ii)    Creators will have a right of attribution – which will enable them to ask that they be credited as the creator, regardless of whether they still own the Copyright.
-
-{:start="4"}
-4.    In order for our Copyright regime to adapt to modern developments, some of the key proposed recommendations for users are:
-
-
-        (i)    Not-for-profit schools will be able to continue to develop and enhance their pedagogy using digital tools and the internet. For example, teachers and students will now be able to fully utilise online student portals to reproduce and share content to enhance learning.
+<ol style="list-style-type: lower-roman;">
+<li>Not-for-profit schools will be able to continue to develop and enhance their pedagogy using digital tools and the internet. For example, teachers and students will now be able to fully utilise online student portals to reproduce and share content to enhance learning.</li>
 
  
 
-        (ii)    Everyone can, subject to certain conditions, use “orphan works” even though the owner cannot be identified and contacted for consent.
+<li>Everyone can, subject to certain conditions, use “orphan works” even though the owner cannot be identified and contacted for consent.</li>
 
  
-
-        (iii)    Allowing text and data mining for the purposes of data analysis. This will support the growth of the data analytics business sector.
-
+<li>Allowing text and data mining for the purposes of data analysis. This will support the growth of the data analytics business sector.</li>
+        
+  </ol>
+  </li>
+</ol>
  
 {:start="5"}
-5.    A summary of the issues under consultation can be found in [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).
+5. A summary of the issues under consultation can be found in [Annex A (0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).
 
  
 {:start="6"}
-6.    Commenting on the recommendations, Senior Minister of State for Law & Finance, Ms Indranee Rajah said, “This is a wide ranging review which aims to help creators gain more recognition and practical protection for their works, while providing users with reasonable and easier access to those works. We would particularly like to see individuals and small businesses come forward and provide their views in this public consultation. This will help the Government take into account all stakeholders’ views so as to improve our copyright regime to better support the creative economy.”
+6. Commenting on the recommendations, Senior Minister of State for Law & Finance, Ms Indranee Rajah said, “This is a wide ranging review which aims to help creators gain more recognition and practical protection for their works, while providing users with reasonable and easier access to those works. We would particularly like to see individuals and small businesses come forward and provide their views in this public consultation. This will help the Government take into account all stakeholders’ views so as to improve our copyright regime to better support the creative economy.”
 
 
 **Invitation for feedback**
@@ -64,3 +67,4 @@ Ministry of Law
 #08-02, The Treasury  
 Singapore 179434
 
+<p class="right-side-updated">Last updated on 23 Aug 2016</p>
