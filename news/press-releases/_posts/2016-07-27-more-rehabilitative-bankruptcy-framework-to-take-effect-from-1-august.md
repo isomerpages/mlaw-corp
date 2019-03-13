@@ -18,63 +18,71 @@ collection_name: news
 {:start="3"}
 3. Some of the key framework changes to be effected on 1 August are:
 
-(i)     Increased debt threshold
+<ol style="list-style-type: lower-roman;">
+ <li><u> Increased debt threshold</u></li>
+ </ol>
+
+
+<ul> 
+
+<li>The bankruptcy debt threshold, or minimum debt amount that needs to be owed before a person may be made bankrupt, will be increased from $10,000 to $15,000.</li>
 
  
 
-·           The bankruptcy debt threshold, or minimum debt amount that needs to be owed before a person may be made bankrupt, will be increased from $10,000 to $15,000.
+<li>The new threshold is based on the same income-related benchmarks that were used when the threshold was last revised in 1999.</li>
 
  
 
-·           The new threshold is based on the same income-related benchmarks that were used when the threshold was last revised in 1999.
-
- 
-
-·           This change seeks to encourage both debtors and creditors to resolve debts falling below the threshold, without resorting to the formal bankruptcy process. This will help such debtors avoid the inconveniences and social stigma associated with bankruptcy.
-
+<li>This change seeks to encourage both debtors and creditors to resolve debts falling below the threshold, without resorting to the formal bankruptcy process. This will help such debtors avoid the inconveniences and social stigma associated with bankruptcy.</li>
+</ul>
 **For Creditors**
 
-(ii)    Expedited bankruptcy application
+<ol start="2" style="list-style-type: lower-roman;">
+ <li>Expedited bankruptcy application</li>
+</ol>
+ 
+ <ul>
+
+<li>After a demand for payment has been issued to a debtor, the creditor will no longer have to wait for a 21-day period to lapse before filing a bankruptcy application.</li>
 
  
 
-·           After a demand for payment has been issued to a debtor, the creditor will no longer have to wait for a 21-day period to lapse before filing a bankruptcy application.
+<li>However, the creditor must show a serious possibility that the debtor’s property or its value will be significantly diminished before the 21-day period ends.</li>
+
+ </ul>
+
+<ol start="3" style="list-style-type: lower-roman;">
+ <li><u>Mandatory appointment of private trustees by “institutional creditors” <sup>[1]</sup></u></li>
+ 
+</ol>
+ 
+
+<ul>
+<li>Institutional creditors will be required to nominate private trustees to be appointed to administer the bankruptcy estate when applying to make a debtor bankrupt. Institutional creditors are well-placed to perform this function and have sufficient resources to do so. This will also incentivise them to undertake better risk assessments before granting credit.</li>
 
  
 
-·           However, the creditor must show a serious possibility that the debtor’s property or its value will be significantly diminished before the 21-day period ends.
+<li>The vast majority of bankruptcies in Singapore are currently administered by the Official Assignee (OA). With this change, the OA will focus its resources on administering cases where the applicant is either an individual or a small business.</li>
 
- 
-
-(iii)  Mandatory appointment of private trustees by “institutional creditors” <sup>[1]</sup>
-
- 
-
-·           Institutional creditors will be required to nominate private trustees to be appointed to administer the bankruptcy estate when applying to make a debtor bankrupt. Institutional creditors are well-placed to perform this function and have sufficient resources to do so. This will also incentivise them to undertake better risk assessments before granting credit.
-
- 
-
-·           The vast majority of bankruptcies in Singapore are currently administered by the Official Assignee (OA). With this change, the OA will focus its resources on administering cases where the applicant is either an individual or a small business.
-
-
+</ul>
 
 **For Bankrupts**
 
-
-(iv)  Introduction of differentiated discharge regime
+<ol start="4" style="list-style-type: lower-roman;">
+ <li><u>Introduction of differentiated discharge regime</u></li>
+</ol>
+ 
+<ul>
+<li>The new differentiated discharge framework will create a more rehabilitative regime that sets out fixed exit points for bankrupts to be discharged. These clear timeframes will give bankrupts an incentive to adhere to their payment plan, their conditions of bankruptcy, and seek gainful employment as a means of achieving their discharge.</li>
 
  
 
-·           The new differentiated discharge framework will create a more rehabilitative regime that sets out fixed exit points for bankrupts to be discharged. These clear timeframes will give bankrupts an incentive to adhere to their payment plan, their conditions of bankruptcy, and seek gainful employment as a means of achieving their discharge.
+<li>First-time bankrupts will generally be eligible for discharge within five to seven years. Repeat bankrupts will generally be eligible for discharge within seven to nine years.</li>
 
  
 
-·           First-time bankrupts will generally be eligible for discharge within five to seven years. Repeat bankrupts will generally be eligible for discharge within seven to nine years.
-
- 
-
-·           A key consideration in a bankrupt’s eligibility for discharge will be whether he has paid his “Target Contribution” in full. The Target Contribution is determined based on the bankrupt’s earning potential.
-
+<li>A key consideration in a bankrupt’s eligibility for discharge will be whether he has paid his “Target Contribution” in full. The Target Contribution is determined based on the bankrupt’s earning potential.</li>
+</ul>
  
 {:start="4"}
 4.         Other reforms relating to security realization, proofs of debt and bankruptcy records will also take effect on 1 August. Details of these other reforms can be found in [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/07/Annex A - Other Reforms to the Bankruptcy Framework.pdf).
@@ -102,3 +110,4 @@ collection_name: news
 <sup>[1]</sup> “Institutional creditors” are defined as either (i) banks and finance companies regulated by MAS; or (ii) business undertakings with annual sales turnover or more than $100 million and more than 200 employees.
 
 
+<p class="right-side-updated">Last updated on 27 Jul 2016</p>
