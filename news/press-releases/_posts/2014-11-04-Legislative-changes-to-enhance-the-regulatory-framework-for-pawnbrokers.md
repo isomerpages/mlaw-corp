@@ -54,7 +54,7 @@ There will be new anti-money laundering measures as well as measures to counter 
 {:start="4"}
 4. In reviewing the pawnbroking regime, MinLaw sought feedback on these features through a public consultation in 2013. 
 
-uvw
+
 
 <p class="right-side-updated">Last updated on 04 Nov 2014
 </p>
