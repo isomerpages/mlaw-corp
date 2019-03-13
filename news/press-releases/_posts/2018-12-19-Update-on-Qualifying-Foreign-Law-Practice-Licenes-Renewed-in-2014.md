@@ -33,4 +33,5 @@ collection_name: news
 
 
 
-
+<p class="right-side-updated">Last updated on 19 Dec 2018
+</p>
