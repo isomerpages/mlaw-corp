@@ -19,3 +19,7 @@ collection_name: news
 5. SMS Tong will also visit the Beijing Arbitration Commission (BJAC) in Beijing and the Shanghai International Arbitration Center (SHIAC) and the Shanghai Arbitration Commission (SHAC) in Shanghai to gain a deeper understanding of the expertise and networks of Chinese institutions and explore how they and Singapore institutions can complement one another.  
 
 6. SMS Tong will be accompanied by Deputy Secretary of the Ministry of Law, Han Kok Juan, and other MinLaw officials. A delegation of 32 lawyers led by President of the Law Society of Singapore, Mr Gregory Vijayendran, will attend the conference. They will also meet the All China Lawyers Association and visit the major Chinese law firms.   
+
+
+<p class="right-side-updated">Last updated on 21 Jan 2019
+</p>
