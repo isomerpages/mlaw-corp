@@ -8,7 +8,7 @@ collection_name: news
 
 15 Jan 2015 Posted in [Press releases](/news/press-releases)
 
-<video id="video1" '+ 'src="http://evvomedia.bc.cdn.bitgravity.com/minlaw/admin/default_324088349_admin_640x360_700k.mp4" '+ 'height="315" '+'width="560" '+'poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_324088349_admin_640x360_700k.jpg" '+'title="Ministry of Law_Protection Order" controls="controls">'+'</video>'
+<video id="video1"  src="http://evvomedia.bc.cdn.bitgravity.com/minlaw/admin/default_324088349_admin_640x360_700k.mp4" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_324088349_admin_640x360_700k.jpg" title="Ministry of Law_Protection Order" controls="controls"></video>
 
 
 *<u>Range of civil and criminal responses available to protect victims of harassment</u>*
@@ -66,7 +66,7 @@ collection_name: news
 </tr>
 </table>
 
-hg
+hgi
 
 <p class="right-side-updated">Last updated on 16 Jan 2015
 </p>
