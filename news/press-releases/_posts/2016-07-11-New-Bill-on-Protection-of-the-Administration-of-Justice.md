@@ -62,7 +62,7 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 **MINISTRY OF LAW**  
 **11 JULY 2016**
 
-[Infographic - Protecting the Administration of Justice (PDF, 0.3MB)](/files/news/press-releases/2016/07/Infographic on Protecting the Administration of Justice - new.pdf)
+[Infographic - Protecting the Administration of Justice (0.3MB)](/files/news/press-releases/2016/07/Infographic on Protecting the Administration of Justice - new.pdf)
 
 **Translation of “Administration of Justice (Protection) Bill”**
 
