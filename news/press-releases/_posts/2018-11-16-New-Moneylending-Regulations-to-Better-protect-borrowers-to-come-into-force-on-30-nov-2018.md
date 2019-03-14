@@ -67,3 +67,6 @@ collection_name: news
 
 <sup>[1]</sup>The Moneylenders (Amendment) Act 2018 was passed by the Parliament on 8 January 2018.  
 <sup>[2]</sup>The aggregate loan caps apply to all holders of Work Passes, Dependant’s Passes, Student Passes and Long Term Visit Passes. Holders of Short Term Visit Passes (up to 90 days) will not be covered.
+
+<p class="right-side-updated">Last updated on 16 Nov 2018
+</p>
