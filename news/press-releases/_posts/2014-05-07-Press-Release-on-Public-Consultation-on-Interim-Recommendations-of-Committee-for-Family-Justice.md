@@ -39,7 +39,7 @@ collection_name: news
 <ol start="6">
 <li> The Committee’s objective is to establish a problem-solving family justice system that will:
 
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Protect and support the family as the basic unit of our society;</li>
 <li>Ensure that the interests of the child are protected;</li>
 <li>Effectively and fairly resolve family conflicts;</li>
