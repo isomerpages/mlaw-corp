@@ -78,3 +78,5 @@ Intellectual Property Policy Division, Ministry of Law
 100 High Street, #08-02, The Treasury  
 Singapore 179434  
 **Email:** <MLAW_Consultation@mlaw.gov.sg>
+
+<p class="right-side-updated">Last updated on 26 Jun 2018</p> 
