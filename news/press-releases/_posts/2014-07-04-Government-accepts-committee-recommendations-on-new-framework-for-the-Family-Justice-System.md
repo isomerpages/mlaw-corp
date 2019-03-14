@@ -22,19 +22,10 @@ collection_name: news
 
 </li>
 
-<li> The Government is committed to implementing the suite of recommendations put forth by the Committee.  This will include the development of the social support framework, and the introduction of a new Family Justice Act in Parliament to establish the Family Justice Courts.
-
-<ol style="list-style-type: lower-roman;">
-<li>Provide better support to help families resolve their disputes through the development of a robust and integrated network of assistance and support; and</li>
-<li>Create a comprehensive specialist family court structure known as the Family Justice Courts.  This will introduce enhanced court management processes that will empower the court to adjudicate and resolve family disputes more effectively, while lessening the trauma and acrimony involved in the divorce process.</li>
+<li> The Government is committed to implementing the suite of recommendations put forth by the Committee.  This will include the development of the social support framework, and the introduction of a new Family Justice Act in Parliament to establish the Family Justice Courts.</li>
 </ol>
 
-</li>
 
-</ol>
-
-{:start="4"}
-4. The Government is committed to implementing the suite of recommendations put forth by the Committee.  This will include the development of the social support framework, and the introduction of a new Family Justice Act in Parliament to establish the Family Justice Courts.
 
 **MINISTRY OF LAW**  
 **MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT**
