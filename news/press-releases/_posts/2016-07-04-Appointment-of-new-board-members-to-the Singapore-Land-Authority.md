@@ -82,5 +82,6 @@ collection_name: news
 **4 JULY 2016**
 
 
+<p class="right-side-updated">Last updated on 04 Jul 2016</p>
 
 
