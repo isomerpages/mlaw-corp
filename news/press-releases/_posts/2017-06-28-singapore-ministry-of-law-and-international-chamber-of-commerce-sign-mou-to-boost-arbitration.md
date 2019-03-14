@@ -25,3 +25,6 @@ collection_name: news
 8. The new ICC Court case management office forms part of a growing presence for ICC in Singapore. Following the establishment of an Asia Regional Office, ICC’s first regional office outside its Paris HQ, in 2002, ICC and IE Singapore joined forces in 2015 to establish the ICC Academy – a market-leading e-learning platform for trade and banking professionals. Both outfits are currently located at Maxwell Chambers.
 
 9. Mr John Danilovich said: “The MOU signed today marks an ever deepening relationship with Singapore underpinned by a common vision that private enterprise, human capital development, and the rule of law are the bedrock of successful economies and prosperous societies.”
+
+
+<p class="right-side-updated">Last updated on 28 Jun 2017</p> 
