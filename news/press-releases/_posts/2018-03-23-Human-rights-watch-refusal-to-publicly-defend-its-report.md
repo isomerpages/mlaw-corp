@@ -23,3 +23,5 @@ collection_name: news
 
 7. HRW, by its conduct, has shown that it cannot be taken seriously as a commentator or interlocutor on issues relating to Singapore.
 
+
+<p class="right-side-updated">Last updated on 28 Mar 2018</p> 
