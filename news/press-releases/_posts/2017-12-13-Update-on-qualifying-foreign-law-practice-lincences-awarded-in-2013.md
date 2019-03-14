@@ -39,3 +39,5 @@ collection_name: news
  
 {:start="10"}
 10. To decide whether to renew a firm’s licence, the Ministry will consider the firm’s quantitative and qualitative performance, such as the value of work that the Singapore office will generate and the extent to which the Singapore office will function as the firm’s headquarter for the region, during the five-year licence period relative to its earlier commitments, the firm’s contributions to Singapore, and the firm’s proposal for the new licence period.
+
+<p class="right-side-updated">Last updated on 13 Dec 2017</p> 
