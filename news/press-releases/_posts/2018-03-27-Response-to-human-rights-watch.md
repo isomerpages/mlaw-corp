@@ -29,3 +29,5 @@ collection_name: news
 
 {:start="5"}
 5. HRW’s lack of enthusiasm in wanting to defend its Report is obvious.
+
+<p class="right-side-updated">Last updated on 28 Mar 2018</p>
