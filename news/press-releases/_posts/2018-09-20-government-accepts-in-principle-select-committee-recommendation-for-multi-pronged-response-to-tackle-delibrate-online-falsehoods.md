@@ -18,3 +18,5 @@ collection_name: news
  
 MINISTRY OF COMMUNICATIONS AND INFORMATION  
 MINISTRY OF LAW
+
+<p class="right-side-updated">Last updated on 20 Sep 2018</p> 
