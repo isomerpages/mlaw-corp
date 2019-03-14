@@ -6,17 +6,19 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+8 Jul 2014 Posted in [Press releases](/news/press-releases)
+
 **What the Act is about**
 
 * The Act covers the constitution, jurisdiction and powers of the Family Justice Courts, and the administration of justice in the Family Justice Courts.
 
-* It seeks to strengthen court infrastructure and enhance court management processes to better protect and support our families.
+* It seeks to **strengthen court infrastructure** and **enhance court management processes** to better protect and support our families.
 
 **Key Features of the Act**
 
 The key features of the Act are as follows:  
 
-* A new **Family Justice Courts (FJC)** comprising the High Court (Family Division), the Family Court and the Youth Court will be established to <strong>hear all family-related proceedings</strong>.
+* A new **Family Justice Courts (FJC)** comprising the High Court (Family Division), the Family Court and the Youth Court will be established to **hear all family-related proceedings**.
   * The Family Court will, by default, hear all family proceedings except cases under the Children and Young Persons Act (Cap. 38), which will be heard by the Youth Court.
   * The Juvenile Court will be renamed the **Youth Court** and come under the FJC instead of the State Courts. It will hear cases related to children and young persons, and where necessary, may direct the parties to undergo mediation or counselling, as well as to participate in available family support programmes.
   * The High Court (Family Division) will primarily hear appeals against decisions of the Family Court and the Youth Court.
@@ -31,7 +33,7 @@ The key features of the Act are as follows:
   * **Registrar, Deputy Registrar and Assistant Registrars** who will run the Registry; and
   * **Officers** who will assist in the operations of the FJC (e.g. bailiffs, interpreters, counsellors, social workers, psychologists).
   
-* In any proceedings before the **Family Justice Courts** involving the **custody** or **welfare** of **a child**, the court may, where necessary, appoint a registered medical practitioner, psychologist, counsellor, social worker or mental health professional to examine and assess the child or person for the purposes of preparing expert evidence for use in those proceedings.
+* In any proceedings before the **Family Justice Courts** involving the **custody** or **welfare of a child**, the court may, where necessary, appoint a registered medical practitioner, psychologist, counsellor, social worker or mental health professional to examine and assess the child or person for the purposes of preparing expert evidence for use in those proceedings.
 
 * **A Family Justice Rules Committee** will be established to make Family Justice Rules, regulating and prescribing the procedure and practice of the FJC. The Committee will consist of the Chief Justice, who will be Chairman of the committee, as well as Judges of the Supreme Court, Presiding Judge of the FJC and Registrar of the FJC.
 
