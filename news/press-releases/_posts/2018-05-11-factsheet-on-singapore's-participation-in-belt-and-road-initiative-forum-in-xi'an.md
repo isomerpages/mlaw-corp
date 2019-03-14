@@ -30,3 +30,5 @@ collection_name: news
  
 
 6. Besides Xi’an, Deputy Secretary (Law) will also visit Beijing, Shanghai, Guangzhou and Shenzhen to further co-operation and promote Singapore’s legal and dispute resolution services. He will meet with Chinese companies, law firms and arbitral institutions in each of these cities.
+
+<p class="right-side-updated">16 May 2018</p>
