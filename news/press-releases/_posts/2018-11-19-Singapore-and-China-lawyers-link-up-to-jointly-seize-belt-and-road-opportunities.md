@@ -36,3 +36,7 @@ Related documents:
 * Senior Minister of State for Law, Mr Edwin Tong's Opening Address ([Eng(PDF, 0.3MB)](/files/news/press-releases/2018/11/SMS Opening Address for Shaanxi Lawyers Delegation English.pdf) & [Chinese(PDF, 0.4MB)](/files/news/press-releases/2018/11/SMS Opening Address for Shaanxi Lawyers Delegation Chinese.pdf))
 * Deputy Secretary for Law, Mr Han Kok Juan's Opening Address ([Eng(PDF, 0.1MB)](/files/news/press-releases/2018/11/DS Opening Address for Shaanxi Lawyer Delegation English.pdf) & [Chinese(PDF, 0.1MB)](/files/news/press-releases/2018/11/DS Opening Address for Shaanxi Lawyer Delegation Chinese.pdf)
 * President of Shaanxi Lawyers Association ([Eng(PDF, 0.3MB)](/files/news/press-releases/2018/11/Speech by President of Shaanxi Lawyers Association English.pdf) & [Chinese(PDF, 0.3MB)](/files/news/press-releases/2018/11/Speech by President of Shaanxi Lawyers Association Chinese.pdf))
+
+
+<p class="right-side-updated">Last updated on 19 Nov 2018
+</p>
