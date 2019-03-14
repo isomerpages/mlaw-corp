@@ -77,3 +77,6 @@ collection_name: news
 
 [Fact Sheet on the Background of the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/press-releases/2017/07/Background of CPC and Evidence Act.pdf)  
 [Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/press-releases/2017/07/Key Proposed Changes.pdf)
+
+
+<p class="right-side-updated">Last updated on 24 Jul 2017</p>
