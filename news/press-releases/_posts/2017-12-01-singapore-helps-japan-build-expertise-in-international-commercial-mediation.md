@@ -76,3 +76,5 @@ collection_name: news
 
 **MINISTRY OF LAW AND SINGAPORE INTERNATIONAL MEDIATION CENTRE**  
 **1 DECEMBER 2017**
+
+<p class="right-side-updated">Last updated on 01 Dec 2017</p> 
