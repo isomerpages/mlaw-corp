@@ -59,7 +59,7 @@ collection_name: news
 11. The judicial process is expected to be more efficient, enabling rights holders to obtain injunctions with greater speed and certainty. The interests of ISPs and online location owners will also be protected through statutory requirements and procedural safeguards.
 
 {:start="12"}
-12. The Ministry of Law consulted extensively with stakeholders such as the Motion Picture Authority (MPA), Recording Industry Association of Singapore (RIAS), Composers and Authors Society of Singapore (COMPASS), StarHub and SingTel, prior to drafting the amendments. A public consultation was also held from 7 April to 21 April 2014 and some of the inputs have been incorporated into the amendments.  The consolidated responses to the feedback received can be viewed on the Ministry of Law’s [website](). 
+12. The Ministry of Law consulted extensively with stakeholders such as the Motion Picture Authority (MPA), Recording Industry Association of Singapore (RIAS), Composers and Authors Society of Singapore (COMPASS), StarHub and SingTel, prior to drafting the amendments. A public consultation was also held from 7 April to 21 April 2014 and some of the inputs have been incorporated into the amendments.  The consolidated responses to the feedback received can be viewed on the Ministry of Law’s [website](/news/public-consultations/responses-to-feedback-on-copyright-act-2014). 
 
 [Annex A - Second Reading speech (0.16MB)](/files/news/press-releases/2014/07/Annex A - Copyright Amendment Bill 2nd Reading Speech.pdf)  
 [Annex B - Copyright Act judicial process (0.11MB)](/files/news/press-releases/2014/07/Annex B - Copyright Act judicial process.pdf)
