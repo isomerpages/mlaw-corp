@@ -45,3 +45,5 @@ collection_name: news
  
 {:start="9"}
 9. Singapore became a Contracting Party to the 1907 Convention for the Pacific Settlement of International disputes on 11 September 1993. As a Contracting Party to the founding Convention of the PCA, Singapore is represented on the PCA’s panel of independent arbitrators known as Members of the Court. These Members be called upon to serve as arbitrators in PCA-administered disputes. Singapore’s Members of the Court are Chief Justice Sundaresh Menon, Justice Chan Sek Keong, Deputy Attorney General Lionel Yee SC, and Ambassador-at-Large Tommy Koh.
+
+<p class="right-side-updated">Last updated on 25 Jul 2017</p>
