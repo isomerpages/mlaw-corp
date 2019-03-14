@@ -33,4 +33,4 @@ collection_name: news
 For more information on the CMC, please refer to the [Factsheet(PDF, 0.5MB)](/files/news/press-releases/2018/10/Community Mediation Centre Factsheet.pdf).
 
 
-
+<p class="right-side-updated">Last updated on 12 Oct 2018</p>
