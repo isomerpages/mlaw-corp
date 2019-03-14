@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Errant Licensed Moneylender Chng Wee Soon Fined $24,000
-permalink: /news/press-releases/advisory-committee-on-moneylending-to-provide-recommendations-on
+permalink: /news/press-releases/errant-licensed-moneylender-chng-wee-soon-fined--24-000
 breadcrumb: Press Releases
 collection_name: news
 ---
