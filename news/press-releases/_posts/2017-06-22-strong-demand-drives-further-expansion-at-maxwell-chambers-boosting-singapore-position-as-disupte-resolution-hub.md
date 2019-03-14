@@ -69,3 +69,5 @@ collection_name: news
 
 **MINISTRY OF LAW**    
 **22 JUNE 2017**
+
+<p class="right-side-updated">Last updated on 05 Sep 2017</p> 
