@@ -44,5 +44,5 @@ collection_name: news
 * Currently, a party intending to commence an action in the SICC, or who may be a party to an action commenced in the SICC, may apply for a pre-action certificate to certify, for example, that the claims in an intended action are of an international and commercial nature. Following feedback from users that the pre-action certification procedure is of limited utility, it will be removed. 
 
 
-
+<p class="right-side-updated">Last updated on 12 Jun 2018</p>
     
