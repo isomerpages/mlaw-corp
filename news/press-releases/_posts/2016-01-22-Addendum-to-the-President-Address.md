@@ -66,3 +66,4 @@ collection_name: news
 14. We will be introducing a more rehabilitative system that allows bankrupts to be discharged within clear timeframes. We will also implement reforms to encourage credit providers to undertake better risk assessment, and borrowers to work responsibly towards clearing their debt. In parallel, we will update and unify the individual bankruptcy and corporate insolvency regimes into a single piece of legislation. 
 
 
+<p class="right-side-updated">Last updated on 21 Jan 2016</p>
