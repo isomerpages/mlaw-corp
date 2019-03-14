@@ -30,3 +30,5 @@ The second reading speech for the Bill may be accessed at [https://www.mlaw.gov.
  
 
 <sup>[2]</sup> [www.egazette.com.sg](http://www.egazette.com.sg/)
+
+<p class="right-side-updated">Last updated on 16 Oct 2018</p> 
