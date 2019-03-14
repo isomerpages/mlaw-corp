@@ -19,3 +19,6 @@ Sarawak Report and its editor Ms Clare Rewcastle Brown have issued two statement
 But Facebook does not feel all this is sufficient grounds for it to remove the post. FB cannot be relied upon to filter falsehoods or protect Singapore from a false information campaign.
 
 **MINISTRY OF LAW**
+
+<p class="right-side-updated">Last updated on 10 Nov 2018
+</p>
