@@ -51,3 +51,5 @@ collection_name: news
  
 {:start="13"}
 13. “We are proud to partner with Maxwell Chambers in their journey to become a smart hearing centre. The benefits of adopting smart solutions and leveraging technology to improve value offerings are key to organisations remaining on the forefront of the current digital push. It shows that every industry can tap into this potential and this announcement is an exciting milestone for Singapore’s legal industry.” said Mr Franklin Tang, Chief Executive Officer of property technology firm Habitap.
+
+<p class="right-side-updated">Last updated on 04 Apr 2018</p>
