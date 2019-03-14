@@ -42,8 +42,10 @@ collection_name: news
 
 **Background**
 
+{:start="5"}
 5. In 2015, MinLaw appointed a committee to review and make recommendations on the IP dispute resolution system in Singapore (“the IPDR Committee”). Based on both the IPDR Committee’s recommendations and the broader Civil Justice Reforms’ recommendations, reforms to the IP dispute resolution system were proposed and a public consultation was held in October 2018.
 
+{:start="6"}
 6. The IP (Dispute Resolution) Bill was drafted taking into account the feedback received, and is now presented to the public for feedback.
 
 **Invitation to Give Feedback**
