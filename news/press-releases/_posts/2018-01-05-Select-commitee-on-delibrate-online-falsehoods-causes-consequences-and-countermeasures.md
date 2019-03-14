@@ -26,3 +26,6 @@ collection_name: news
 [Annexe B: Factsheet on Select Committee(PDF, 0.1MB)](/files/news/press-releases/2018/01/Annexe B - Factsheet on Select Committee.pdf)  
 [Annexe C: Infographic on Deliberate Online Falsehoods(PDF, 0.08MB)](/files/news/press-releases/2018/01/Annexe C - Infographic on Deliberate Online Falsehoods.pdf)  
 [Annexe D: Infographic on the Select Committee Process(PDF, 0.1MB)](/files/news/press-releases/2018/01/Annexe D - Infographic on Select Committee Process.pdf) 
+
+
+<p class="right-side-updated">Last updated on 05 Jan 2018</p>
