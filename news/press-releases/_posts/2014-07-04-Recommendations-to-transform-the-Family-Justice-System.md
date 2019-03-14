@@ -14,7 +14,7 @@ collection_name: news
 <ol style="list-style-type: lower-roman;">
 <li> <strong>Providing better support for families to resolve their disputes through a robust and integrated network of assistance and support.</strong>
 
-<ol style="list-style-type: lower-roman;">
+<ol style="list-style-type: lower-alpha;">
 <li><strong>Strengthening community touch points</strong> such as Family Service Centres, schools, hospitals, charities, MPs and lawyers to direct families to the appropriate providers of assistance for their problems.</li>
 <li><strong>Establishment of Specialist Agencies</strong> that will provide a range of services to address issues arising from divorce. These Specialist Agencies will be in addition to the three existing agencies that specialise in addressing Family Violence issues. They will provide services such as information and non-legal advice, case management by social workers, counselling and family dispute management.</li>
 </ol>
