@@ -65,3 +65,4 @@ collection_name: news
 * Ms Lock Yin Mei (Partner, Allen & Overy LLP)
 * Mr Ang Cheng Hock (Senior Counsel, Partner, M/s Allen & Gledhill) 
 
+<p class="right-side-updated">Last updated on 04 Jul 2017</p>
