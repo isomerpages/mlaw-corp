@@ -60,3 +60,4 @@ collection_name: news
 5. The SCT are part of the State Courts of Singapore, and were established on 1 February 1985 to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers.
 
 
+<p class="right-side-updated">Last updated on 17 May 2018</p> 
