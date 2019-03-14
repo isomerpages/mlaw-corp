@@ -52,3 +52,5 @@ collection_name: news
  
 {:start="11"}
 11. “Lawyers Go Global” will be funded by IE Singapore under its Local Enterprise and Association Development (LEAD) Programme. Singapore lawyers who are interested in participating in “Lawyers Go Global” can contact the Law Society’s Secretariat at goglobal@lawsoc.org.sg for more information.   
+
+<p class="right-side-updated">Last updated on 01 Feb 2018</p>
