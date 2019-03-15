@@ -45,3 +45,6 @@ collection_name: news
 
 {:start="5"}
 5. A public consultation on the proposed amendments was conducted by IPOS. The public consultation took place from 27 October 2016 to 15 November 2016 and received feedback from the Law Society, patent agent associations and the Singapore Inventors’ Development Association (SIDA).
+
+<p class="right-side-updated">Last updated on 06 Feb 2017</p>
+
