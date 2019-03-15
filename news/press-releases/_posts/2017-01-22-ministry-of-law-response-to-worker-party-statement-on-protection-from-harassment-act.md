@@ -30,3 +30,6 @@ The Government needs to take steps to protect the public and Singapore’s insti
 
 **MINISTRY OF LAW**    
 **22 JANUARY 2017**
+
+
+<p>Last updated on 22 Jan 2017</p>
