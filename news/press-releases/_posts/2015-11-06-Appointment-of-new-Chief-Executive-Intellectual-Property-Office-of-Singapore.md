@@ -26,8 +26,11 @@ collection_name: news
 6. The Ministry of Law and IPOS deeply appreciate Mr Tan’s four years of dedicated service and contributions to IPOS, and wish him continued success and fulfilment in his future endeavours.  We welcome Mr Tang, as IPOS embarks on its next phase of development to build Singapore as an IP hub and work with other stakeholders to help drive innovation in Singapore.
 
 
-7. The write-ups of Mr Tan and Mr Tang are given at the [Annex (PDF, 0.1MB)](/files/news/press-releases/2015/11/Appointment of CE, IPOS.pdf).
+7. The write-ups of Mr Tan and Mr Tang are given at the [Annex (0.1MB)](/files/news/press-releases/2015/11/Appointment of CE, IPOS.pdf).
 
 
 **MINISTRY OF LAW**  
 **06 NOVEMBER 2015**
+
+
+<p class="right-side-updated">Last updated on 09 Nov 2015</p>
