@@ -16,20 +16,22 @@ collection_name: news
 
 **Achieving balance between competing land use needs**
 
+{:start="4"}
 4. Singapore has 17 golf courses (14 private and 3 public) on approximately 1,500 ha of land.  The majority of these are located on 30-year leasehold land.  The full list is at [Annex 1 (0.18MB)](/files/news/press-releases/2014/02/Golf Press Release _Annex 1_for website.pdf). 
 
-
+{:start="5"}
 5. Golfing is an activity that is enjoyed by many Singaporeans, with many of them owning or aspiring to own memberships in golf clubs.  In addition, the presence of golfing facilities adds to Singapore’s attractiveness as a business hub.
 
-
+{:start="6"}
 6. However, golfing and golf clubs are land intensive and there is a need to balance the competing demands for land.  As a result, the amount of land used for golfing will have to be reduced over time, and the sites reallocated for uses such as housing and public infrastructure.
 
 
 **Golf course leases**
 
+{:start="7"}
 7. Golf club leases are for a fixed term with an end date.  This information has always been public and known to those who become golf club members.  When the lease ends, the land reverts by law to the Government.  This position applies for all State leases, whether the leases are for residential, commercial, industrial or other uses. 
 
-
+{:start="8"}
 8. The Government is taking the step of letting the clubs, their members and the public know the status of expiring leases more than seven years in advance.
 
 **Lease renewal decisions**
