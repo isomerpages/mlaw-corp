@@ -11,7 +11,7 @@ collection_name: news
 <div style="">
 <script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="AF14CD712CD610565998FEDFE49ABE63">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("AF14CD712CD610565998FEDFE49ABE63").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__67b0a5_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__67b0a5_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
 </div>
-</div>
+
 
 **Protection for Victims of Harassment**
 
