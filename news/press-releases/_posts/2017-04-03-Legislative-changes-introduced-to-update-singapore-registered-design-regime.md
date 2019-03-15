@@ -62,3 +62,4 @@ This will enable designers to still obtain design protection if their works were
 {:start="6"}
 6. The review included two rounds of public consultation, from May to June 2014, and from October to December 2015 respectively. In addition, numerous focus group discussions and one-to-one consultations were also held, including with industry and design associations, businesses, intellectual property practitioners, and academics.
 
+<p>Last updated on 03 Apr 2017</p>
