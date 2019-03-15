@@ -13,7 +13,7 @@ collection_name: news
 </div>
 
 
-**Protection for Victims of Harassment**
+***Protection for Victims of Harassment***
 
 1. Minister for Law, Mr K Shanmugam, will be introducing the Protection from Harassment Bill 2014 for First Reading on 3<sup>rd</sup> March.  It will provide a range of self-help measures, civil remedies and criminal sanctions to better protect people from harassment and related anti-social behaviour.
 
