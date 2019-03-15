@@ -23,8 +23,11 @@ collection_name: news
 
 6.    The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act and Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge.
 
-[Annex A - List of past convictions since 2011]()
+[Annex A - List of past convictions since 2011 (DOCX, 0.02MB)](/files/news/press-releases/2016/06/Annex A List of past convictions.docx)
 
 **30 JUNE 2016**  
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
+
+<p>Last updated on 01 Jul 2016</p>
+
