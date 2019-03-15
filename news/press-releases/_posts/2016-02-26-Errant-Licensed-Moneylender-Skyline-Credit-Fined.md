@@ -39,3 +39,5 @@ The remaining four charges for similar offences were taken into consideration by
 **26 FEBRUARY 2016**  
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
+
+<p class="right-side-updated">Last updated on 26 Feb 2016</p>
