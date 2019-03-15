@@ -27,3 +27,5 @@ collection_name: news
 
 5. The International Tribunal for the Law of the Sea is an independent judicial body established by the 1982 United Nations Convention on the Law of the Sea (UNCLOS), to hear any dispute concerning the interpretation or application of the UNCLOS. Singapore became a party to the Convention on 17 November 1994. Currently, there are 167 parties to the Convention, which comprises 166 States and the European Union.
 
+
+<p class="right-side-updated">Last updated on 31 Aug 2015</p>
