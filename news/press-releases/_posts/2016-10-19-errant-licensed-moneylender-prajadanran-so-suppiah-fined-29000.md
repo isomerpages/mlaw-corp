@@ -32,7 +32,7 @@ collection_name: news
 4. Rajadanran was sentenced in the State Courts to a total fine of $29,000 (in default 15 weeks’ imprisonment).
 
 {:start="5"}
-5. Forty-two other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex A(PDF, 0.1MB)](/files/news/press-releases/2016/10/MLAnnex.pdf)). 
+5. Forty-two other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex A (0.1MB)](/files/news/press-releases/2016/10/MLAnnex.pdf)). 
 
 {:start="6"}
 6. The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act and Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge.
@@ -42,3 +42,7 @@ collection_name: news
 **19 OCTOBER 2016**  
 **REGISTRY OF MONEYLENDERS**  
 **MINSTRY OF LAW**
+
+<p>
+Last updated on 19 Oct 2016
+</p>
