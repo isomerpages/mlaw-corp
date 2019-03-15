@@ -42,7 +42,7 @@ collection_name: news
 
  
 {:start="8"}
-8. A victim who has false facts alleged against him can also resort to self-help remedies.  If the victim can prove in court that the facts are false, the court can direct suitable notification which alerts readers that the facts are false.  The form of notification will be at the discretion of the Courts.
+8. A victim who has <u>false facts</u> alleged against him can also resort to self-help remedies.  If the victim can prove in court that the facts are false, the court can direct suitable notification which alerts readers that the facts are false.  The form of notification will be at the discretion of the Courts.
 
 *Background*
 
