@@ -83,3 +83,5 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **05 JANUARY 2017**
+
+<p>Last updated on 05 Jan 2017</p>
