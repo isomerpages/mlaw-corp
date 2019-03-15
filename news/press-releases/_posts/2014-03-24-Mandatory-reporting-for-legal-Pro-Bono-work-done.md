@@ -24,7 +24,7 @@ The CLSI Committee was chaired by Justice of Appeal V K Rajah and included membe
 <li>Pro bono work will include:
 
 <ol style="list-style-type: lower-roman;">
-<li>Legal advisory / representation work for legal organisations and societies <sup>[1](#societies)</sup>; and</li>
+<li>Legal advisory / representation work for legal organisations and societies <a href="#societies"><sup>[1]</sup></a>; and</li>
 <li>Other law-related work (e.g. committee work for the Law Society of Singapore, the Singapore Academy of Law, the Singapore Mediation Centre, the Singapore Institute of Legal Education, any Ministry in a law reform project and sitting as a member of a Disciplinary Committee).</li>
 </ol>
 
@@ -68,7 +68,7 @@ Work will be considered as pro bono if no remuneration is received, or only an h
 <p id="societies"><sup>[1]</sup>This includes Assigned Solicitor duties with the Legal Aid Bureau and pro bono legal work with the Law Society’s Criminal Legal Aid Scheme.</p>
 
 
-[Annex A: The Committee to Study Community Legal Services Initiatives (0.01MB)](/files/news/press-releases/2014/03/Annex A - The Committee to Study Community Legal Services Initiatives.pdf)
+[Annex A: The Committee to Study Community Legal Services Initiatives (0.01MB)](/files/news/press-releases/2014/03/Annex A - The Committee to Study Community Legal Services Initiatives.pdf)  
 [Annex B: Report of the Committee to Study Community Legal Services Initiative (0.07MB)](/files/news/press-releases/2014/03/Annex B - Report of the Committee to Study Community Legal Services Initiative.pdf)
 
 <p class="right-side-updated">Last updated on 24 Mar 2014
