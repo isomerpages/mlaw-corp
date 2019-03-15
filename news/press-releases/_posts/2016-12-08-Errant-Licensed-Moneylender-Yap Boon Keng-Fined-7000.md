@@ -30,7 +30,7 @@ collection_name: news
 
  
 {:start="5"}
-5. Forty-three other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex(PDF, 0.1MB)](/files/news/press-releases/2016/12/YapAnnex.pdf)). 
+5. Forty-three other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex (0.1MB)](/files/news/press-releases/2016/12/YapAnnex.pdf)). 
 
  
 {:start="6"}
@@ -41,3 +41,5 @@ collection_name: news
 **8 DECEMBER 2016**  
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**  
+
+<p class="right-side-updated">Last updated on 08 Dec 2016</p>
