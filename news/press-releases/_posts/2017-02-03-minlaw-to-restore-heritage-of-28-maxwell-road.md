@@ -97,6 +97,9 @@ These new features will be stylistically distinguished from the historic buildin
 **MINISTRY OF LAW**  
 **03 FEBRUARY 2017**
 
-[Annex A: Artist impressions of the restored 28 Maxwell Road(PDF, 0.2MB)](/files/news/press-releases/2017/02/AnA.pdf)  
-[Annex B: CVs of Mr Mok Wei Wei and Mr Ho Weng Hin(PDF, 0.2MB)](/files/news/press-releases/2017/02/AnB.pdf)  
-[Annex C: History of 28 Maxwell Road(PDF, 0.1MB)](/files/news/press-releases/2017/02/AnC.pdf)  
+[Annex A: Artist impressions of the restored 28 Maxwell Road (0.2MB)](/files/news/press-releases/2017/02/AnA.pdf)  
+[Annex B: CVs of Mr Mok Wei Wei and Mr Ho Weng Hin (0.2MB)](/files/news/press-releases/2017/02/AnB.pdf)  
+[Annex C: History of 28 Maxwell Road (0.1MB)](/files/news/press-releases/2017/02/AnC.pdf)  
+
+<p class="right-side-updated">Last updated on 03 Feb 2017</p>
+
