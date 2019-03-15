@@ -42,3 +42,6 @@ collection_name: news
 ---
 
 <p id="btm-foot"><sup>[1]</sup> The Singapore Height Datum is a level fixed across the whole of Singapore from which height measurements take reference. It is pegged to Singapore’s historical mean sea level. All private landowners will have 30m or more of underground space for development.</p>
+
+<p class="right-side-updated">Last updated on 11 Feb 2015</p>
+
