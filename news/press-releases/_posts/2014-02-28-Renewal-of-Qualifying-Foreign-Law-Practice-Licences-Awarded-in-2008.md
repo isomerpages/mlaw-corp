@@ -48,7 +48,7 @@ collection_name: news
 {:start="10"}
 10. The QFLPs have contributed strongly to the growth of our legal sector.  Over the five-year licence period from 2009 to 2014, the first group of six QFLPs generated S$1.2 billion in total revenue, of which, about 80% came from offshore work.  The six QFLPs also currently employ more than 100 Singapore-qualified lawyers.
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**  
 **28 FEBRUARY 2014**
 
 <sup>[1]</sup>Allen & Overy’s, Clifford Chance’s and Norton Rose Fulbright’s licences will expire on 30 April 2014; and Latham & Watkins’ licence will expire on 30 June 2014.  
