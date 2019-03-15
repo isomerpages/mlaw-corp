@@ -35,3 +35,6 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **28 FEBRUARY 2017**
+
+<p class="right-side-updated">Last updated on 28 Feb 2017</p>
+
