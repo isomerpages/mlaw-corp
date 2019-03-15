@@ -134,7 +134,7 @@ collection_name: news
 7. Members queried if it would be possible to have the same expiry date for the leases of both Bukit and Island locations.  Minister responded that all options had already been explored, and the lease expiry of 2030 for one 18-hole course was already a concession as the original plan was to allow the lease for the entire location i.e. two 18-hole courses to expire.  
 
 
-<p class="right-side-updated"><
+<p class="right-side-updated">
 Last updated on 18 Feb 2014
 </p>
 
