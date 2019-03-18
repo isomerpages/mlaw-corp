@@ -56,12 +56,14 @@ collection_name: news
 
 * LSRA will focus on regulating business criteria <a href="#criteria"><sup>3</sup></a>.
 
-* The regime will also be updated to accommodate law practices wishing to adopt Alternative Business Structures (“ABS”)<a href="#ABS"><sup>4</sup></a> in Singapore for various reasons such as to permit greater participation of non-lawyers with deep management or finance experience in the law practice, and the ability to offer multi-disciplinary solutions within one entity, subject to appropriate limitations and safeguards.  For a start, Legal Disciplinary Practices (“LDPs) will be permitted, where non-lawyer managers / employees will be allowed to own equity and/or share in the profits of the LDP.  LDPs will only be allowed to provide legal services.  
+* The regime will also be updated to accommodate law practices wishing to adopt Alternative Business Structures (“ABS”)<a href="#ABS"><sup>4</sup></a> in Singapore for various reasons such as to permit greater participation of non-lawyers with deep management or finance experience in the law practice, and the ability to offer multi-disciplinary solutions within one entity, subject to appropriate limitations and safeguards.  For a start, Legal Disciplinary Practices (“LDPs) will be permitted, where non-lawyer managers / employees will be allowed to own equity and/or share in the profits of the LDP.  LDPs will only be allowed to provide legal services.
 
+
+{:start="6"}
 6. Permanent Secretary of MinLaw, Dr Beh Swan Gin, said: “The legal sector is evolving to meet the changing and increasingly varied needs of international trade and business.  We believe that the recommendations will enable Singapore’s regulatory regime to keep pace with and where possible, anticipate these changes so that the legal sector maintains its high professional standards even as it continues to grow as a high-value segment of the economy.”
 
-
-7. The composition of the Regulatory Committee is at [Annex A](/files/news/press-releases/2014/01/Annex A Composition of Regulatory Committee .pdf) and the Final Report is at [Annex B](/files/news/press-releases/2014/01/Final Report of the Committee to Review the Reg Framework of the Spore Legal Sector.pdf).
+{:start="7"}
+7. The composition of the Regulatory Committee is at [Annex A (0.16MB)](/files/news/press-releases/2014/01/Annex A Composition of Regulatory Committee .pdf) and the Final Report is at [Annex B (1.1MB)](/files/news/press-releases/2014/01/Final Report of the Committee to Review the Reg Framework of the Spore Legal Sector.pdf).
 
 ---
 
