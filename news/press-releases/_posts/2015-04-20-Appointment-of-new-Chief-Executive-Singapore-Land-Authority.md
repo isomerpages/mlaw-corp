@@ -27,3 +27,7 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **20 APRIL 2015**
+
+
+<p class="right-side-updated">Last updated on 21 Apr 2015</p>
+
