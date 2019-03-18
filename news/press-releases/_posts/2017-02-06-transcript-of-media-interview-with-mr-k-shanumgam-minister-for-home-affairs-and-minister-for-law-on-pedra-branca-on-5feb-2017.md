@@ -37,3 +37,7 @@ We have always taken the position that differences ought to be resolved accordin
 
 I have no doubt at all that they are the best team. Their knowledge in international law is unquestioned and also their knowledge on the facts of this case cannot be matched. Because they actually dealt with it for years, for 5 yrs, and then took it to the tribunal and we’re very happy that they’ve agreed to come back and deal with this issue which arises from the main dispute. So the knowledge, the understanding, the detailed assessment which they have is invaluable and we are very lucky that we’ve been able to put back the team. They will be assisted by lawyers from AGC who would be of a different generation but they will be the leaders and I have no doubt of either their stamina or their ability.
 
+
+<p class="right-side-updated">Last updated on 08 Feb 2017</p>
+
+
