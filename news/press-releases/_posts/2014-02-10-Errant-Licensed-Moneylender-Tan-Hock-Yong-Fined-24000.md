@@ -11,3 +11,6 @@ collection_name: news
 
 The report is in PDF format, to view click [here (0.23MB)](/files/news/press-releases/2014/02/Errant licensed moneylender Tan Hock Yong fined.pdf).
 
+
+<p class="right-side-updated">Last updated on 29 Aug 2018</p>
+
