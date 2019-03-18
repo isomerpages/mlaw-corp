@@ -62,12 +62,12 @@ collection_name: news
 7. Interested parties are invited to provide their views and feedback on the SICC Committee’s report.  The consultation period is from 3 December 2013 to 31 January 2014.  The public can view the report on [www.mlaw.gov.sg](http://www.mlaw.gov.sg/) and [www.reach.gov.sg](http://www.reach.gov.sg/).  Your feedback may be submitted in electronic or hard copy form to:
 
 
-Ministry of Law
-Policy Advisory Division
-100 High Street
-#08-02, The Treasury
-Singapore 179434
-Fax: 63328842
+Ministry of Law  
+Policy Advisory Division  
+100 High Street  
+#08-02, The Treasury  
+Singapore 179434  
+Fax: 63328842  
 Email: <MLAW_Consultation@mlaw.gov.sg>
 
 **Background**
