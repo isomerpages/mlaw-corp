@@ -17,6 +17,7 @@ collection_name: news
 
 **Key Recommendations by the 4th Committee**
 
+{:start="3"}
 3. The Committee examined the factors affecting the supply of and demand for lawyers in Singapore, taking into account the needs of the legal sector, local and overseas sources of supply of law graduates, and attrition.
 
 <ol start="4">
