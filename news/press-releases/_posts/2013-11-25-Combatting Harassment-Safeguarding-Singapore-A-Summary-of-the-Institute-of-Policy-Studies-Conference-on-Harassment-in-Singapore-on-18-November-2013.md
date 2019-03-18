@@ -6,6 +6,9 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+25 Nov 2013 Posted in [Press releases](/news/press-releases)
+
+
 <ol style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Background</li>
 </ol>
@@ -68,7 +71,7 @@ collection_name: news
 
 <li>Ms Esther Ng, President and Founder, Coalition Against Bullying for Children and Youth (Speaker)</li>
 
-<li>Ms Tan Bee Joo, Co-Director, Singapore Children’s Society (Speaker)<li>
+<li>Ms Tan Bee Joo, Co-Director, Singapore Children’s Society (Speaker)</li>
 
 
 </ol>
