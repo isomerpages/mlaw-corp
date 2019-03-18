@@ -38,3 +38,6 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **12 May 2016**
+
+<p class="right-side-updated">Last updated on 13 May 2016</p>
+
