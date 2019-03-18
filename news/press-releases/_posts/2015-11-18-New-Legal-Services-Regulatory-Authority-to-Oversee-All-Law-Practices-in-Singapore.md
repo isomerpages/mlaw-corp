@@ -55,4 +55,6 @@ collection_name: news
 
 
 
+<p class="right-side-updated">Last updated on 18 Nov 2015</p>
+
 
