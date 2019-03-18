@@ -77,7 +77,7 @@ collection_name: news
 </ol>
 
 {:start="6"}
-6. The 4<sup>th</sup> Committee on the Supply of Lawyers’ report can be downloaded [here (0.92MB)](/files/news/press-releases/2013/05/Routes for Admission to the Singapore Bar.pdf).
+6. The 4<sup>th</sup> Committee on the Supply of Lawyers’ report can be downloaded [here (0.92MB)](/files/news/press-releases/2013/05/4th Committee Report.pdf).
 
 **Government’s Response to the 4th  Committee’s Recommendations**
 
