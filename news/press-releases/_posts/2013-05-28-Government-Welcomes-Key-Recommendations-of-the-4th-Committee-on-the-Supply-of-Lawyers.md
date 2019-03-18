@@ -110,16 +110,16 @@ collection_name: news
 
 ---
 
-<sup>[1]</sup>The 1<sup>st</sup> Committee completed its review in April 1993. The 2<sup>nd</sup> Committee completed its review in January 2001 and the 3<sup>rd</sup> Committee completed its review in July 2006.
+<p id="fn1"><sup>[1]</sup>The 1<sup>st</sup> Committee completed its review in April 1993. The 2<sup>nd</sup> Committee completed its review in January 2001 and the 3<sup>rd</sup> Committee completed its review in July 2006.</p>
 
 
-<sup>[2]</sup> Overseas universities whose law degrees are listed in the schedule of the Legal Profession (Qualified Persons) Rules and recognised for the purposes of admission to the Singapore Bar.
+<p id="fn2"><sup>[2]</sup> Overseas universities whose law degrees are listed in the schedule of the Legal Profession (Qualified Persons) Rules and recognised for the purposes of admission to the Singapore Bar.</p>
 
 
-<sup>[3]</sup> This refers to lawyers who service the needs of the community by practising criminal and family law.
+<p id="fn3"><sup>[3]</sup> This refers to lawyers who service the needs of the community by practising criminal and family law.</p>
 
 
-<sup>[4]</sup> Law graduates from the third law school will undergo the same admission process to the Singapore Bar and will be subject to the same requirements as law graduates from NUS and SMU. This means they will have to possess a degree of at least second-lower Honours, complete the Part B course, pass the Part B Bar Examination, serve the applicable practice training period and any other applicable requirements.
+<p id="fn4"><sup>[4]</sup> Law graduates from the third law school will undergo the same admission process to the Singapore Bar and will be subject to the same requirements as law graduates from NUS and SMU. This means they will have to possess a degree of at least second-lower Honours, complete the Part B course, pass the Part B Bar Examination, serve the applicable practice training period and any other applicable requirements.</p>
 
 
 **ANNEX A:** [Composition of the 4th Committee on the Supply of Lawyers (0.14MB)](/files/news/press-releases/2013/05/Composition of the 4th Committee on the Supply of Lawyers.pdf)  
