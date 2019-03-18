@@ -75,6 +75,9 @@ E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
 <sup>1</sup> Ring-fencing will however be retained for specific financial institutions, such as banks and insurance companies.
 
+<p class="right-side-updated">Last updated on 21 Oct 2016</p>
+
+
 
 
 
