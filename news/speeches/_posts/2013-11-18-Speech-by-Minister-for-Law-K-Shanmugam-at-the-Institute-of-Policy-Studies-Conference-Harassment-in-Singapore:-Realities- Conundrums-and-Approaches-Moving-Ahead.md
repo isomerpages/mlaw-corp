@@ -125,7 +125,7 @@ collection_name: news
 
 * In the US, a 12 year old girl jumped to her death after being bullied online by as many as 15 girls who picked on her for months.<a href="#fn2"><sup>2</sup></a>
 
-* In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="fn3"><sup>3</sup></a>
+* In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="#fn3"><sup>3</sup></a>
 
 {:start="30"}
 30. Adults also manipulate cyber tools to harass, stalk, manipulate, and abuse others.
@@ -254,7 +254,7 @@ Practices of Other Jurisdictions
 
 
 
-*First principles*
+**First principles**
 
 
 {:start="59"}
