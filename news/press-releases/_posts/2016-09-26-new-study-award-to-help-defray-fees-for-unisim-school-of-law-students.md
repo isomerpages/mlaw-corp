@@ -73,3 +73,6 @@ collection_name: news
 
 **MINISTRY OF LAW**  
 **26 SEPTEMBER 2016**
+
+<p class="right-side-updated">Last updated on 26 Sep 2016</p>
+
