@@ -50,3 +50,6 @@ Email: MLAW_Consultation@mlaw.gov.sg (preferred mode)
 
 **MINISTRY OF LAW**  
 **12 JANUARY 2017**
+
+<p class="right-side-updated">Last updated on 12 Jan 2017</p>
+
