@@ -71,6 +71,7 @@ collection_name: news
 * Mr Poon Hong Yuen, Deputy Secretary, Ministry of Law
 * Mr Wong Hong Kuan, Director, Corrupt Practices Investigation Bureau
 
+<p class="right-side-updated">Last updated on 29 Jun 2015</p>
 
 
 
