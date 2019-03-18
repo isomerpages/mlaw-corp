@@ -25,3 +25,6 @@ collection_name: news
  
 
 5. Dr Gurry's visit also coincides with the launch of IP Week @ SG 2016 by the Intellectual Property Office of Singapore on 23 August 2016, where he will be a keynote speaker addressing a global audience of business leaders and IP professionals.
+
+<p class="right-side-updated">Last updated on 23 Aug 2016</p>
+
