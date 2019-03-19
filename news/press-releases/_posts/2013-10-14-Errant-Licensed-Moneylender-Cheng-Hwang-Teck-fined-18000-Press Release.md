@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-14 Oct 2013 Posted in [Press releases](news/press-releases)
+14 Oct 2013 Posted in [Press releases](/news/press-releases)
 
 The report is in PDF format, to view click [here (0.11MB)](/files/news/press-releases/2013/10/Press release for conviction of A8.pdf).
 
