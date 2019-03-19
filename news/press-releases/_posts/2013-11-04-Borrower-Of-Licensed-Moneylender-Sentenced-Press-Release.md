@@ -11,3 +11,4 @@ collection_name: news
 
 The report is in PDF format, to view click [here (0.33MB)](/files/news/press-releases/2013/11/Press release - Borrower of Licensed Moneylender sentenced.pdf).
 
+<p class="right-side-updated">Last updated on 25 Nov 2014</p>
