@@ -136,6 +136,6 @@ A comparison of the existing and new deductibles for legal aid eligibility is il
 
 <p id="fn8"><sup>[8]</sup> A Grant of Aid, currently known as a legal aid certificate, is required for the applicant to receive legal representation.</p>
 
-hg  
+
   
 <p class="right-side-updated">Last updated on 30 Jun 2013</p>
