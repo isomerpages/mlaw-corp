@@ -126,7 +126,7 @@ collection_name: news
 {:start="11"}
 11. The Ministry would like to thank all respondents for taking the time to review the SOC Bill, as well as providing us with their considered and constructive comments.   
 
-[Annex A: Status of Children (Assisted Reproduction Technology) Bill (0.21MB)](/files/news/press-releases/2013/07/Annex A - SOC Bill - Final.pdf)
+[Annex A: Status of Children (Assisted Reproduction Technology) Bill (0.21MB)](/files/news/press-releases/2013/07/Annex A - SOC Bill - Final.pdf)  
 [Annex B: Responses to feedback (0.17MB)](/files/news/press-releases/2013/07/Annex B - SOC - Responses to feedback - FINAL.pdf)
 
 ---
