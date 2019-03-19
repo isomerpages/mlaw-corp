@@ -27,7 +27,7 @@ collection_name: news
 
 <ol style="list-style-type: upper-roman;">
 <li><u>Relinquish the role of reviewing the adequacy of out-of-court settlements for motor accident victims who are legally represented or where an order of court has been made</u></li>
-</li>
+
 <br>
 Where the victims are not legally represented, the Public Trustee will continue to perform the role of ensuring that the amount of compensation for the injury sustained is adequate.
 <br>
