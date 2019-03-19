@@ -62,7 +62,7 @@ collection_name: news
 </ul>
 
 </li>
-A comparison of the existing and new deductibles for legal aid eligibility is illustrated in the [Annex](/files/news/press-releases/2013/06/Annex.pdf).
+A comparison of the existing and new deductibles for legal aid eligibility is illustrated in the [Annex (0.33MB)](/files/news/press-releases/2013/06/Annex.pdf).
 </ol>
 
 </li>
@@ -125,13 +125,13 @@ A comparison of the existing and new deductibles for legal aid eligibility is il
 <p id="fn5"><sup>[5]</sup> A deductible is a sum which is deducted from the annual gross income of a legal aid applicant to arrive at his annual disposable income.  It covers basic expenses, such as for daily necessities.</p>
 
 
-<sup>[6]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.
+<p id="fn6"><sup>[6]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.</p>
 
 
-<sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.
+<p id="fn7"><sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.</p>
 
 
-<sup>[8]</sup> A Grant of Aid, currently known as a legal aid certificate, is required for the applicant to receive legal representation.
+<p id="fn8"><sup>[8]</sup> A Grant of Aid, currently known as a legal aid certificate, is required for the applicant to receive legal representation.</p>
 
 
 <p class="right-side-updated">Last updated on 30 Jun 2013</p>
