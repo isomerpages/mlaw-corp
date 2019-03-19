@@ -6,7 +6,7 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
-**Consultation Period:**
+**Consultation Period:**  
 20 Nov 2012 to 20 Dec 2012
 
 <ol style="list-style-type: upper-alpha; font-weight: bold;">
@@ -108,7 +108,7 @@ collection_name: news
 </ol>
 
 {:start="13"}
-13. MinLaw invites interested parties to provide their feedback on the proposed Bill. The consultation period is from 20 November 2012 to 20 December 2012. The public can view the public consultation paper and draft Bill in the Annexes below and at www.reach.gov.sg/YourSay/EconsultationPaper.aspx. The feedback may be sent in electronic or hard copy form to:
+13. MinLaw invites interested parties to provide their feedback on the proposed Bill. The consultation period is from 20 November 2012 to 20 December 2012. The public can view the public consultation paper and draft Bill in the Annexes below and at [www.reach.gov.sg/YourSay/EconsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EconsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 Legal Policy Division, Ministry of Law  
 100 High Street  
@@ -117,7 +117,7 @@ Singapore 179434
 Fax: 6332 8842  
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
-[Annex A: Public Consultation Paper (0.16MB)](/files/news/public-consultations/2012/11/SOC Consultation.pdf)
+[Annex A: Public Consultation Paper (0.16MB)](/files/news/public-consultations/2012/11/SOC Consultation.pdf)  
 [Annex B: Draft Bill (0.18MB)](/files/news/public-consultations/2012/11/SOC Draft Bill.pdf)
 
 ---
