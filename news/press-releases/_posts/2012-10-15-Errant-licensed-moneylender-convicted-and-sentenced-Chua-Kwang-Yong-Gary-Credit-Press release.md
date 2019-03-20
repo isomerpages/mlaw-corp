@@ -13,3 +13,4 @@ The report is in PDF format, to view click [here (0.13MB)](/files/news/press-rel
 
 
 
+<p class="right-side-updated">Last updated on 25 Nov 2014</p>
