@@ -11,3 +11,5 @@ collection_name: news
 
 
 The report is in PDF format, to view click [here (0.36MB)](/files/news/press-releases/2013/04/Press release_Focus Credit sentenced.pdf).
+
+<p class="right-side-updated">Last updated on 25 Nov 2014</p>
