@@ -134,32 +134,31 @@ For example, the LAAA only allows legal aid to be granted for work injury compen
 
 ---
 
-<sup>[1]</sup> Disposable income is the total income of the applicant and spouse (if any) for the past 12 months, after deducting the applicable deductibles and reliefs under the Act, such as personal deductible, dependent deductibles, and CPF contributions.
+<p id="income"><sup>[1]</sup> Disposable income is the total income of the applicant and spouse (if any) for the past 12 months, after deducting the applicable deductibles and reliefs under the Act, such as personal deductible, dependent deductibles, and CPF contributions.</p>
 
 
-<sup>[2]</sup> Disposable capital is the property which the applicant possesses or is entitled to, such as, money in hand or in banks, shares or vehicles, after excluding the applicable categories of property under the Act, such as HDB flat, CPF moneys, etc.
+<p id="fn2"><sup>[2]</sup> Disposable capital is the property which the applicant possesses or is entitled to, such as, money in hand or in banks, shares or vehicles, after excluding the applicable categories of property under the Act, such as HDB flat, CPF moneys, etc.</p>
 
 
-<sup>[3]</sup> The Legal Aid Board comprises the Director of Legal Aid and at least two independent lawyers from private practice.
+<p id="aid"><sup>[3]</sup> The Legal Aid Board comprises the Director of Legal Aid and at least two independent lawyers from private practice.</p>
 
 
-<sup>[4]</sup> A deductible is a sum which is deducted from the annual gross income of a legal aid applicant to arrive at his annual disposable income. It covers basic expenses, such as for daily necessities.
+<p id="deductible"><sup>[4]</sup> A deductible is a sum which is deducted from the annual gross income of a legal aid applicant to arrive at his annual disposable income. It covers basic expenses, such as for daily necessities.</p>
 
 
-<sup>[5]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.
+<p id="fn5"><sup>[5]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.</p>
+
+<p id="estates"><sup>[6]</sup> Based on HDB’s estimates: [http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent](http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent)</p>
 
 
-<sup>[6]</sup> Based on HDB’s estimates: [http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent](http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent)
+<p id="AV"><sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.</p>
 
 
-<sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.
+<p id="fn8"><sup>[8]</sup> The Guardianship of Infants Act (Cap. 122) provides for proceedings involving the custody and maintenance of infants and matters involving the guardian of the infant.</p>
 
 
-<sup>[8]</sup> The Guardianship of Infants Act (Cap. 122) provides for proceedings involving the custody and maintenance of infants and matters involving the guardian of the infant.
+<p id="fn9"><sup>[9]</sup> A Grant of Aid, currently known as a legal aid certificate, is required for the applicant to receive legal representation.</p>
 
-
-<sup>[9]</sup> A Grant of Aid, currently known as a legal aid certificate, is required for the applicant to receive legal representation.
-
-[Annex A: Existing and proposed coverage for legal aid eligibility](/files/news/press-releases/2013/01/Annex A_ 1RLAAA2013.pdf)
+[Annex A: Existing and proposed coverage for legal aid eligibility (0.02MB)](/files/news/press-releases/2013/01/Annex A_ 1RLAAA2013.pdf)
 
 <p class="right-side-updated">Last updated on 04 Feb 2013</p>
