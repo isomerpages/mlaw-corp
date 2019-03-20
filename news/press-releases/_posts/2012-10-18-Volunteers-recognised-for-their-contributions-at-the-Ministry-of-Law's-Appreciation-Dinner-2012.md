@@ -47,11 +47,11 @@ collection_name: news
 
 ---
 
-<sup>[1]</sup> This year’s award categories are: Minister for Law Outstanding Volunteer Award, Minister for Law Appreciation Award, LAB Appreciation Award, LAB Amicus Award, LAB Best Contribution from Law Firm Award, CMU Appreciation Award and CMU Most Outstanding Newcomer Award. There was no nominee for the LAB Distinguished Service Award.
+<p id="footnote1"><sup>[1]</sup> This year’s award categories are: Minister for Law Outstanding Volunteer Award, Minister for Law Appreciation Award, LAB Appreciation Award, LAB Amicus Award, LAB Best Contribution from Law Firm Award, CMU Appreciation Award and CMU Most Outstanding Newcomer Award. There was no nominee for the LAB Distinguished Service Award.</p>
 
-<sup>[2]</sup> The MMF will institute and formalise criteria for the appointment, re-appointment and training of its mediators. Through this framework, community mediators can look forward to more training opportunities for professional development and growth. More information on the framework is available <a href="/news/press-releases/new-mediator-management-framework-to-be-rolled-out-by-the-community-mediation-unit">here</a>.
+<p id="footnote2"><sup>[2]</sup> The MMF will institute and formalise criteria for the appointment, re-appointment and training of its mediators. Through this framework, community mediators can look forward to more training opportunities for professional development and growth. More information on the framework is available <a href="/news/press-releases/new-mediator-management-framework-to-be-rolled-out-by-the-community-mediation-unit">here</a>.</p>
 
-<sup>[3]</sup> The Credit Dollars Scheme is a non-monetary reward for Assigned Solicitors who have made significant contributions. Credit dollars, sponsored by the Singapore Academy of Law (SAL), will be given to these Assigned Solicitors for their use from 2013, to register for places in SAL seminars, courses, workshops or to acquire books, journals and other publications by SAL.
+<p id="footnote3"><sup>[3]</sup> The Credit Dollars Scheme is a non-monetary reward for Assigned Solicitors who have made significant contributions. Credit dollars, sponsored by the Singapore Academy of Law (SAL), will be given to these Assigned Solicitors for their use from 2013, to register for places in SAL seminars, courses, workshops or to acquire books, journals and other publications by SAL.</p>
 
 
 
