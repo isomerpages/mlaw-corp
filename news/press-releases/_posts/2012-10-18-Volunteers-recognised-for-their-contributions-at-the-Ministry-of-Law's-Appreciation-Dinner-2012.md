@@ -28,7 +28,7 @@ collection_name: news
 5. During the event, guests were presented with copies of LAB’s inaugural Annual Review. The publication highlights LAB’s work in the past year to enhance access to justice and promote the pro bono spirit in the legal fraternity, including the formation of a Pro Bono Development Unit.  The Unit oversees, among other things, the recruitment and engagement of Assigned Solicitors as well as publicity and outreach activities to raise awareness of the Bureau’s work.  The Annual Review also included testimonials from LAB volunteers and officers, who shared their personal experiences in handling cases.
 
 {:start="6"}
-6. A soft copy of the Annual Review is available on LAB’s website.
+6. A soft copy of the Annual Review is available on [LAB’s website](https://www.mlaw.gov.sg/content/lab/en.html).
 
 
 **Appreciating our volunteers**
