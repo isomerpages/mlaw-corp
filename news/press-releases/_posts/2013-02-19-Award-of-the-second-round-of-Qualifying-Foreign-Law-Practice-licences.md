@@ -53,7 +53,7 @@ collection_name: news
 <u>Selection Process</u>
 
 {:start="9"}
-9. Following a favourable review of the performance of the first round of QFLP licensees, FLPs were invited to apply for a second round of licences.  The applications were first considered by an Evaluation Committee chaired by Dr Beh Swan Gin, Permanent Secretary (Law) <a href="#fn7"<sup>7</sup>.  A Selection Committee, chaired by Minister for Foreign Affairs and Law, Mr K Shanmugam <a href="#fn8"><sup>8</sup></a>, then decided on the award of the QFLP licences, taking into account the Evaluation Committee’s recommendations.
+9. Following a favourable review of the performance of the first round of QFLP licensees, FLPs were invited to apply for a second round of licences.  The applications were first considered by an Evaluation Committee chaired by Dr Beh Swan Gin, Permanent Secretary (Law) <a href="#fn7"><sup>7</sup></a>.  A Selection Committee, chaired by Minister for Foreign Affairs and Law, Mr K Shanmugam <a href="#fn8"><sup>8</sup></a>, then decided on the award of the QFLP licences, taking into account the Evaluation Committee’s recommendations.
 
 
 <ol start="10">
@@ -99,7 +99,7 @@ collection_name: news
 
 
 
-<p id="fn6"><sup>[6]</sup> Please refer to SIAC's press release available here.  SIAC’s 2012 statistics shows that the total number of new international cases it handled increased from 71 in 2008 to 158 in 2012. </p>
+<p id="fn6"><sup>[6]</sup> Please refer to SIAC's press release available [here](/files/news/press-releases/2013/02/SIAC PR 2013.pdf).  SIAC’s 2012 statistics shows that the total number of new international cases it handled increased from 71 in 2008 to 158 in 2012. </p>
 
 
 
@@ -110,7 +110,7 @@ collection_name: news
 <p id="fn8"><sup>[8]</sup> The other Selection Committee members are Minister for Education Mr Heng Swee Keat; Minister in the Prime Minister’s Office and Second Minister for Home Affairs and Trade and Industry Mr S Iswaran; Senior Minister of State for Law and Education Ms Indranee Rajah; Senior Minister of State for Finance and Transport Mrs Josephine Teo, and the Attorney-General Mr Steven Chong.</p>
 
 
-<p id="fn9"><sup>[9]</sup> According to American Lawyer Top 100 Firms, 2012</p>
+<p id="fn9"><sup>[9]</sup> [According to American Lawyer Top 100 Firms](http://www.americanlawyer.com/PubArticleTAL.jsp?id=1202571228982&slreturn=20130010034837), 2012</p>
 
 
 <p id="fn10"><sup>[10]</sup> These practice areas include corporate work (M&A, private equity), project finance, banking & finance, capital markets, energy, international arbitration, intellectual property, fund formation and restructuring.</p>  
