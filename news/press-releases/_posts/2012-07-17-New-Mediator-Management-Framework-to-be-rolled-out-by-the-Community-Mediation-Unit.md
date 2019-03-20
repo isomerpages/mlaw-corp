@@ -8,7 +8,7 @@ collection_name: news
 
 17 Jul 2012 Posted in [Press releases](/news/press-releases)
 
-**The Community Mediation Unit also welcomed 18 new volunteer mediators and reappointed 130 mediators**
+*The Community Mediation Unit also welcomed 18 new volunteer mediators and reappointed 130 mediators*
 
 1. The Community Mediation Unit (CMU), a department under the Ministry of Law, held its annual Mediators’ Appointment Ceremony and Appreciation Dinner on 17 July 2012 (Tuesday) at Grand Park City Hall. Senior Parliamentary Secretary (SPS) for Education and Law, Ms Sim Ann, was the Guest-of-Honour at the event.
 
@@ -35,6 +35,7 @@ collection_name: news
 
 **Conclusion**
 
+{:start="7"}
 7. As Singapore’s social landscape evolves, it is vital for us to ensure that disputes within the community are effectively and amicably resolved through mediation. The community mediators have a pivotal role to play in keeping the social fabric of Singapore strong, and maintaining social harmony within the community.
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
