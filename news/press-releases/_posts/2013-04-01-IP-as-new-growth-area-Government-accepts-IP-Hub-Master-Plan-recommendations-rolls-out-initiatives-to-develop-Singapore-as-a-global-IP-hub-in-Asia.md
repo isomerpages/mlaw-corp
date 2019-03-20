@@ -35,9 +35,9 @@ Singapore should aim to be a hub for:
 
 To achieve these outcomes, Singapore should develop:
 
-* *Skilled manpower resources networked to the region and beyond*, to effectively serve the international needs of companies; and
+* **Skilled manpower resources networked to the region and beyond**, to effectively serve the international needs of companies; and
 
-* *A conducive and progressive environment for IP activities*, to strengthen international acclaim of Singapore as a vibrant IP hub and establish Singapore as a thought leader in IP.
+* **A conducive and progressive environment for IP activities**, to strengthen international acclaim of Singapore as a vibrant IP hub and establish Singapore as a thought leader in IP.
 
 {:start="4"}
 4.  The IP Hub Master Plan report is available [here (1.6MB)](/files/news/press-releases/2013/04/IP Hub Master Plan Report.pdf). 
@@ -91,7 +91,7 @@ A hub for quality IP filings
 <td>Create a strong value proposition to attract IP filings by offering world-class services, and strengthening international collaborations with other IP offices</td>
 <td>
 6. IPOS will invest $50 million to build up patent search and examination (S&E) capabilities in technology areas of strategic importance to Singapore. This will draw companies to register IP in Singapore. IPOS has started its S&E team in September 2012, and will be expanding this team progressively. The team is expected to be operational in mid-2013, after completing training by the European and Japan Patent Offices.  <br><br>
-7. IPOS will forge stronger cooperation with other national IP offices, and establish a comprehensive network of Patent Prosecution Highways (PPHs) <a href="fn1"><sup>1</sup></a> building on our existing network with the US, Japan and South Korea. A strong network of PPHs will allow applicants to expedite the patent filing process in other jurisdictions from Singapore.
+7. IPOS will forge stronger cooperation with other national IP offices, and establish a comprehensive network of Patent Prosecution Highways (PPHs) <a href="#fn1"><sup>1</sup></a> building on our existing network with the US, Japan and South Korea. A strong network of PPHs will allow applicants to expedite the patent filing process in other jurisdictions from Singapore.
 
 </td>
 </tr>
@@ -154,14 +154,14 @@ A conducive and progressive environment for IP activities
 {:start="8"}
 8. With the emerging global IP landscape, MinLaw believes that the Master Plan will generate opportunities for Singapore to position itself as a global IP hub for IP transactions and management, quality IP filings and IP dispute resolution. We continue to welcome views that will help Singapore in this next phase of development.
 
-**ANNEX:** [Senior Minister of State for Law, Indranee Rajah's letter - Mission Impossible: IP Hub of Asia](/files/news/press-releases/2013/04/Letter from SMS Indranee Rajah.pdf)
+**ANNEX:** [Senior Minister of State for Law, Indranee Rajah's letter - Mission Impossible: IP Hub of Asia (0.54MB)](/files/news/press-releases/2013/04/Letter from SMS Indranee Rajah.pdf)
 
 
 ---
 
-<p><sup>[1]</sup>A PPH enables the sharing of search and examination results between partner IP offices so as to accelerate the grant of a patent application in either of the partner IP offices.</p>
+<p id="fn1"><sup>[1]</sup>A PPH enables the sharing of search and examination results between partner IP offices so as to accelerate the grant of a patent application in either of the partner IP offices.</p>
 
-<p><sup>[2]</sup>Expert determination is an alternative dispute resolution avenue where disputes involving technical or factual issues between parties are submitted to and determined by an expert in the field.</p>
+<p id="fn2"><sup>[2]</sup>Expert determination is an alternative dispute resolution avenue where disputes involving technical or factual issues between parties are submitted to and determined by an expert in the field.</p>
 
 <p class="right-side-updated">Last updated on 18 Apr 2013</p>
 
