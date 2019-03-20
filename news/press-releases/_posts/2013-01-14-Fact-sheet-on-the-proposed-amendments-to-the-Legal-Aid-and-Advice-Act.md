@@ -51,6 +51,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 <ol start="4">
 <li>To expand the coverage of legal aid for the needy, the Bill proposes these amendments to the means test:
 <br>
+  <br>
 <strong>Annual disposable income</strong>
 <br>
 <ol style="list-style-type: lower-roman;">
@@ -79,7 +80,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 The existing and proposed coverage for legal aid eligibility is illustrated in  [Annex A (0.02MB)](/files/news/press-releases/2013/01/Annex A_ 1RLAAA2013.pdf).
 
 <ol start="2" style="list-style-type: lower-alpha;">
-<li> Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</li>
+<li><u>Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</u></li>
 </ol>
 
 <ol start="5">
@@ -148,7 +149,7 @@ For example, the LAAA only allows legal aid to be granted for work injury compen
 
 <p id="fn5"><sup>[5]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.</p>
 
-<p id="estates"><sup>[6]</sup> Based on HDB’s estimates: [http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent](http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent)</p>
+<p id="estates"><sup>[6]</sup> Based on HDB’s estimates: <a href="http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent">http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent</a></p>
 
 
 <p id="AV"><sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.</p>
