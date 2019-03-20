@@ -50,9 +50,9 @@ The Bill also proposes technical amendments to update and clarify the current le
 
 <ol start="4">
 <li>To expand the coverage of legal aid for the needy, the Bill proposes these amendments to the means test:
-
-***Annual disposable income***
-
+<br>
+<strong>Annual disposable income</strong>
+<br>
 <ol style="list-style-type: lower-roman;">
 <li> Increase the annual deductible <a href="#deductible"><sup>4</sup></a> for the main applicant from $4,500 to $6,000, for his spouse from $3,500 to $6,000, and for his dependents from $3,500 to up to $6,000 <a href="#fn5"><sup>5</sup></a>, to account for the increase in basic living expenditure; and</li>
 <li> Increase the maximum annual rental relief from $1,000 to $20,000, based on the lower end of the prevailing open-market rental rate of three-room flats in suburban estates <a href="#estates"><sup>6</sup></a></li>
@@ -88,7 +88,7 @@ The existing and proposed coverage for legal aid eligibility is illustrated in  
 <li>Divorces where minors are involved;</li>
 
 
-<li>Custody, care and control and access of children, child maintenance, and all cases under the Guardianship of Infants Act 8, where minors are involved, and </li>
+<li>Custody, care and control and access of children, child maintenance, and all cases under the Guardianship of Infants Act <a href="#fn8"><sup>8</sup></a>, where minors are involved, and </li>
 
 
 <li>The personal protection of a child and/or spouse.</li>
@@ -125,7 +125,7 @@ For example, the LAAA only allows legal aid to be granted for work injury compen
 {:start="11"}
 11. Other amendments include an enhancement to the management of LAB’s volunteers and operations, such as empowering the Director of LAB to remove a solicitor from the volunteer solicitor panel,  for example, when the solicitor is deceased, retired or ceases to hold a practising certificate.
 
-<ol start="3" style="list-style-type: upper-alpha;" >
+<ol start="3" style="list-style-type: upper-alpha; font-weight: bold;" >
 <li>Conclusion</li>
 </ol>
 
