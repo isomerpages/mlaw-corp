@@ -75,8 +75,8 @@ collection_name: news
 7. An information brief outlining the key legislative provisions which will apply to collaborations between SLPs and FLPs, as well as SLPs which wish to employ corporate structures, can be found in [Annex B (0.17MB)](/files/news/press-releases/2012/05/linkclickca18.pdf). The relevant implemented legislation can be found in [Annex C (0.1MB)](/files/news/press-releases/2012/05/linkclick0707.pdf).
 
 
-[Annex A - Development and Expansion Incentive (DEI (0.1NB))](/files/news/press-releases/2012/05/linkclickca18.pdf)
-[Annex B - Information Brief (0.17MB)](/files/news/press-releases/2012/05/linkclickca18.pdf)
+[Annex A - Development and Expansion Incentive (DEI (0.1NB))](/files/news/press-releases/2012/05/linkclickca18.pdf)  
+[Annex B - Information Brief (0.17MB)](/files/news/press-releases/2012/05/linkclickca18.pdf)  
 [Annex C - Legislation (0.1MB)](/files/news/press-releases/2012/05/linkclick0707.pdf)
 
 ---
