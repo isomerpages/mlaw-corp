@@ -9,7 +9,7 @@ collection_name: news
 
 29 May 2012 Posted in [Press releases](/news/press-releases)
 
-1. The Committee to Develop the Singapore Legal Sector, chaired by Justice V K Rajah <a href="#fn1"><sup>1</sup></a> (and comprising several senior practitioners from leading firms, including Wong Partnership, Drew & Napier and Rajah & Tann), made several recommendations to liberalise legal services in Singapore in order to make Singapore a vibrant legal hub . 
+1. The *Committee to Develop the Singapore Legal Sector*, chaired by Justice V K Rajah <a href="#fn1"><sup>1</sup></a> (and comprising several senior practitioners from leading firms, including Wong Partnership, Drew & Napier and Rajah & Tann), made several recommendations to liberalise legal services in Singapore in order to make Singapore a vibrant legal hub . 
 
 2. One of the main recommendations made by the Committee was that foreign law firms should be allowed to practise Singapore law. These and other proposals of the Committee were accepted by the Government. This allowed foreign law practices (FLPs) to obtain licences to practise permitted areas of Singapore law. <a href="#fn2"><sup>2</sup></a>  Six FLPs were awarded QFLP licences in December 2008. <a href="#fn3"><sup>3</sup></a>
 
