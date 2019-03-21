@@ -14,9 +14,9 @@ collection_name: news
 
 <ol start="2">
 <li> The legislative changes to give effect to these changes will come into effect on 1 June 2012. They are summarised below:
-
+<br>
 <strong>Collaborations between SLPs and FLs/FLPs</strong>
-
+<br>
 <ol>
 <li><strong>SLPs which employ Foreign Lawyers (FLs) in their local practices.</strong> FLs employed within an SLP will now be able to take a greater profit and equity share of up to a maximum of one-third (33 per cent) in the SLP, beyond the 25 per cent permitted under the previous framework.</li>
 
