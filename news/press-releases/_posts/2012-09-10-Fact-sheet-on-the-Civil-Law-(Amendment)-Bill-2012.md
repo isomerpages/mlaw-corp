@@ -23,7 +23,7 @@ collection_name: news
 <ol>
 <li> <strong>Key changes.</strong>  In order to better address the range of situations that could arise, the Civil Law (Amendment) Bill seeks:
 
-<ol style="list-style-type: lower-roman;>
+<ol style="list-style-type: lower-roman;">
 
 <li>To expand the categories of assets available for distribution, and clarify the scope and process for the disposition of assets under that section; and </li>
 
@@ -53,7 +53,7 @@ collection_name: news
 7. The amendments will bring such Non-Estate Properties within the ambit of the Minister for Law’s BV discretion.  The other amendments in the Bill are of a technical nature.
 
 
-<ol style="list-style-type: lower-roman;">
+<ol start="2" style="list-style-type: lower-roman;">
 <li><u>Assignment of functions to the PT</u></li>
 </ol>
 
@@ -85,7 +85,7 @@ collection_name: news
 <p id="fn5"><sup>[5]</sup>  Section 6 of Probate and Administration Act and section 6 of Public Trustee Act.</p>
 
 
-<p class="right-side-updated">ast updated on 04 Feb 2013</p>
+<p class="right-side-updated">Last updated on 04 Feb 2013</p>
 
 
 
