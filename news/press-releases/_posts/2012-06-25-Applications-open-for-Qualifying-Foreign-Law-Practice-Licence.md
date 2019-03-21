@@ -19,9 +19,9 @@ collection_name: news
 
 <ol style="list-style-type: lower-alpha;">
 
-<li>Complete and submit the registration form in the Appendix.</li>
+<li>Complete and submit the registration form in the <strong><u>Appendix</u></strong>.</li>
 
-<li>Post or hand deliver to the Ministry’s office (as stated in the Appendix) a crossed cheque of One Thousand Singapore Dollars (S$1,000) made payable to the ‘Accountant-General’.</li>
+<li>Post or hand deliver to the Ministry’s office (as stated in the <strong><u>Appendix</u></strong>) a crossed cheque of One Thousand Singapore Dollars (S$1,000) made payable to the ‘Accountant-General’.</li>
 
 <li>Upon receipt of the cheque, registered applicants will receive an acknowledgement email from MinLaw with the QFLP website link, and a user name and password unique to their law practice, within five working days.</li>
 
