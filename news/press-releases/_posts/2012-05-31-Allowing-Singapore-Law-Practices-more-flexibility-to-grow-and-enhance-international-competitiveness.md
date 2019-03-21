@@ -15,6 +15,8 @@ collection_name: news
 <ol start="2">
 <li> The legislative changes to give effect to these changes will come into effect on 1 June 2012. They are summarised below:
 
+<strong>Collaborations between SLPs and FLs/FLPs</strong>
+
 <ol>
 <li><strong>SLPs which employ Foreign Lawyers (FLs) in their local practices.</strong> FLs employed within an SLP will now be able to take a greater profit and equity share of up to a maximum of one-third (33 per cent) in the SLP, beyond the 25 per cent permitted under the previous framework.</li>
 
@@ -75,7 +77,7 @@ collection_name: news
 7. An information brief outlining the key legislative provisions which will apply to collaborations between SLPs and FLPs, as well as SLPs which wish to employ corporate structures, can be found in [Annex B (0.17MB)](/files/news/press-releases/2012/05/linkclickca18.pdf). The relevant implemented legislation can be found in [Annex C (0.1MB)](/files/news/press-releases/2012/05/linkclick0707.pdf).
 
 
-[Annex A - Development and Expansion Incentive (DEI (0.1NB))](/files/news/press-releases/2012/05/linkclickca18.pdf)  
+[Annex A - Development and Expansion Incentive (DEI (0.1NB))](/files/news/press-releases/2012/05/linkclick26a0.pdf)  
 [Annex B - Information Brief (0.17MB)](/files/news/press-releases/2012/05/linkclickca18.pdf)  
 [Annex C - Legislation (0.1MB)](/files/news/press-releases/2012/05/linkclick0707.pdf)
 
