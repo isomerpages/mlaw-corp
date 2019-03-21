@@ -6,7 +6,7 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
-31 May 2012 Posted in [Press releases](new/press-releases)
+31 May 2012 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) made amendments to the Moneylenders Rules in March 2012 to further improve protection for borrowers, especially those in the lower-income group. These amendments will take effect on 1 June 2012.
 
