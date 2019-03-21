@@ -14,13 +14,16 @@ collection_name: news
 
 **Background**
 
-
+{:start="2"}
 2. On 9 July 2012, the Deputy Prime Minister and Minister for Home Affairs, Mr Teo Chee Hean, and the Minister for Law, Mr K Shanmugam, announced in Parliament the Government’s intention to reform the mandatory death penalty as it applies to drug trafficking and murder.
 
+{:start="3"}
 3. The Misuse of Drugs Act (MDA) will be amended to effect the changes to the mandatory death penalty as it applies to drug trafficking, alongside other amendments to the MDA. (Please refer to MHA's News Release for more details.)
 
+{:start="4"}
 4. The Penal Code will be amended to effect the changes to the mandatory death penalty as it applies to murder. Related procedural reforms will also be made to the Criminal Procedure Code.
 
+{:start="5"}
 5. A copy of the Penal Code (Amendment) Bill and the Criminal Procedure Code (Amendment) Bill are at <u>Annexes A and B</u> respectively.
 
 **Key Amendments**
@@ -78,7 +81,7 @@ collection_name: news
 15. The Government believes that the amendments strike the right balance for Singapore today. They will ensure that our criminal justice system continues to provide the framework for a safe and secure Singapore, while meeting the need for fairness and justice in each case. 
 
 
-[Annex A : Penal Code (Amendment) Bill (0.04MB)](/files/news/press-releases/2012/10/linkclickff5c.pdf)
+[Annex A : Penal Code (Amendment) Bill (0.04MB)](/files/news/press-releases/2012/10/linkclickff5c.pdf)  
 [Annex B: Criminal Procedure Code (Amendment) Bill (0.05MB)](/files/news/press-releases/2012/10/linkclick8203.pdf)
 
 ---
