@@ -20,7 +20,7 @@ collection_name: news
 
 3. Such equitable or moral claimants are typically persons whom the deceased may have reasonably expected to leave his assets to. This could be in recognition of their close relationship with the deceased or for the care rendered to the deceased during his lifetime <a href="#fn2"><sup>2</sup></a>.
 
-<ol>
+<ol start="4">
 <li> <strong>Key changes.</strong>  In order to better address the range of situations that could arise, the Civil Law (Amendment) Bill seeks:
 
 <ol style="list-style-type: lower-roman;">
