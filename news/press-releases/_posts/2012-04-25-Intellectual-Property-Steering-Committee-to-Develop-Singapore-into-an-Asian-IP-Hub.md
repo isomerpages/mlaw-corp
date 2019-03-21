@@ -48,7 +48,7 @@ Fax: 6332 8842
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
 
-[Annex A: Curriculum Vitae of Mr Teo Ming Kian (0.05MB)](/files/news/press-releases/2012/04/linkclick6ab0.pdf)
+[Annex A: Curriculum Vitae of Mr Teo Ming Kian (0.05MB)](/files/news/press-releases/2012/04/linkclick6ab0.pdf)  
 [Annex B: IP Steering Committee Members (0.02MB)](/files/news/press-releases/2012/04/linkclick5b79.pdf)
 
 
