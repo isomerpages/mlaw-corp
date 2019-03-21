@@ -17,7 +17,7 @@ collection_name: news
 
 4. More than 90 representatives from local and foreign law firms and arbitral bodies such as the Singapore International Arbitration Centre (SIAC), Singapore Chamber of Maritime Association (SCMA), Permanent Court of Arbitration (PCA), ICC International Court of Arbitration, American Arbitration Association (AAA) and the International Federation of Commercial Arbitration Institutions (IFCAI) attended this launch event.
 
-5. The contributors of the Digest – Professor Lawrence Boo, Dr Stefan Kröll and Mr. Frederic Bachand – led an interactive panel discussion on the contents of the Digest after the launch. Please refer to ***Annex A*** for the programme of the launch event.
+5. The contributors of the Digest – Professor Lawrence Boo, Dr Stefan Kröll and Mr. Frederic Bachand – led an interactive panel discussion on the contents of the Digest after the launch. Please refer to **<u>Annex A</u>** for the programme of the launch event.
 
 *Ministry of Law’s 2012 Arbitration Dialogue*
 
