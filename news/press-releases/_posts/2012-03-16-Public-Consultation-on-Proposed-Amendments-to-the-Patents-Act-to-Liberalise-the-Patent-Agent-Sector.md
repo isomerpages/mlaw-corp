@@ -72,7 +72,7 @@ Fax: 6332 8842
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
 
-[Annex A: Public consultation brief (0.02MB)](/files/news/press-releases/2012/03/linkclickf011.pdf) 
+[Annex A: Public consultation brief (0.02MB)](/files/news/press-releases/2012/03/linkclickf011.pdf)   
 [Annex B: Draft legislative amendments to Patents Act (0.05MB)](/files/news/press-releases/2012/03/linkclick5b20.pdf)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
