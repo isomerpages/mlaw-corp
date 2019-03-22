@@ -146,9 +146,9 @@ collection_name: news
 22. MinLaw would like to thank all respondents who have provided invaluable feedback during the public consultation.
 
 
-[Annex A: Responses to feedback received from public consultation (0.16MB)](/files/news/press-releases/2012/03/linkclick34ed.pdf)   
-[International Arbitration (Amendment) Bill (0.7MB)](/files/news/press-releases/2012/03/linkclick73ec.pdf)      
-[Foreign Limitation Periods Bill (0.3MB)](/files/news/press-releases/2012/03/linkclick34d3.pdf)       
+[Annex A: Responses to feedback received from public consultation (0.16MB)](/files/news/press-releases/2012/03/linkclick34ed.pdf)     
+[International Arbitration (Amendment) Bill (0.7MB)](/files/news/press-releases/2012/03/linkclick73ec.pdf)        
+[Foreign Limitation Periods Bill (0.3MB)](/files/news/press-releases/2012/03/linkclick34d3.pdf)         
 
 ---
 
