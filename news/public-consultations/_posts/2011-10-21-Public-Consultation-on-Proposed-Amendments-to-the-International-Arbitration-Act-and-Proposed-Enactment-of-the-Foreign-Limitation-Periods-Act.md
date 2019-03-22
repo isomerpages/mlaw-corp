@@ -30,7 +30,7 @@ collection_name: news
 <ol start="5">
 <li> The proposed amendments to the IAA are to:
 
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Relax the current requirement that arbitration agreements be in writing (the writing requirement);</li>
 
 <li>Allow Singapore courts to review rulings by arbitral tribunals that these tribunals do not have jurisdiction to hear the dispute (negative jurisdictional rulings);</li>
@@ -50,8 +50,10 @@ collection_name: news
 <li><u>Relaxation of the Writing Requirement</u></li>
 </ol>
 
+{:start="6"}
 6. Singapore’s IAA currently only recognises arbitration agreements that are made in writing. MinLaw has received feedback that this requirement does not accord squarely with commercial reality, as arbitration agreements are often concluded orally, and put into writing later.
 
+{:start="7"}
 7. MinLaw’s proposed amendments will extend the IAA’s application to arbitration agreements concluded by any means (orally, by conduct or otherwise), as long as their content is recorded in any form. For instance, an arbitration agreement made orally, but subsequently documented through an audio recording, will now fall within the scope of the Act. This amendment adopts one of the two options proposed by UNCITRAL in the revisions to its Model Law in 2006.
 
 
@@ -95,14 +97,19 @@ collection_name: news
 <li> Proposed Enactment of the FLPA</li>
 </ol>
 
+{:start="15"}
 15. MinLaw is also proposing the enactment of the FLPA. The main aim of the Act is to clarify the issue of which country’s limitation laws apply to disputes that are litigated in Singapore (either in court or through arbitration), but which are governed by the law of another jurisdiction.
 
+{:start="16"}
 16. This may occur, for instance, in a contractual dispute where parties decide to litigate in Singapore, but have chosen to have their contact governed by the law of another jurisdiction. In such cases, the question arises whether the applicable limitation law should be that of: (a) the foreign law governing the dispute, or (b) the law of the forum (i.e. Singapore).
 
+{:start="17"}
 17. In Singapore, this issue is currently governed by common law. In the Law Reform Committee’s recent report, the committee has highlighted that there is, at times, uncertainty as to which of these two sets of laws should apply. The Committee recommended that the rules of the law governing the dispute should apply.
 
+{:start="18"}
 18. MinLaw agrees with the Law Reform Committee’s recommendation. The amendment will clarify that the applicable limitation period will be the rules of the law that govern the dispute. This will not only apply to arbitrations, but also to disputes litigated in court. 
 
+{:start="19"}
 19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills in the Annexes below and at [REACH](http://www.reach.gov.sg/). The feedback may be sent in electronic or hard copy form to:
 
 
