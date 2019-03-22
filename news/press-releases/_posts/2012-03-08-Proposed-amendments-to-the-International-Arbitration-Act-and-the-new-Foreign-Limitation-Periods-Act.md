@@ -64,7 +64,7 @@ collection_name: news
 
 
 <ol style="list-style-type: lower-roman">
-<li>Relaxation of the Writing Requirement</li>
+<li><u>Relaxation of the Writing Requirement</u></li>
 </ol>
 
 {:start="8"}
