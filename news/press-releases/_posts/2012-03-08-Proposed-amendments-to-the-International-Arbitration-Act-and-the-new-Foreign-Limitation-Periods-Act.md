@@ -16,7 +16,7 @@ collection_name: news
 
 
 {:start="1"}
-1. As part of continuing efforts to maintain a world-class legislative framework for arbitration, the Ministry of Law (MinLaw) conducted a public consultation on a draft International Arbitration (Amendment) Bill (IA(A) Bill) in October 2011.
+1. As part of continuing efforts to maintain a world-class legislative framework for arbitration, the Ministry of Law (MinLaw) conducted a [public consultation](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-international-arbitration-act-and-proposed) on a draft International Arbitration (Amendment) Bill (IA(A) Bill) in October 2011.
 
 
 {:start="2"}
