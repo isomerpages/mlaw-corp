@@ -45,6 +45,7 @@ A copy of the Patents (Amendment) Bill and the Intellectual Property (Miscellane
 
 {:start="5"}
 5. The current self-assessment patent system allows patent applications to be granted regardless of the outcome of their examination reports. This means that patent applications may be granted without fully complying with patentability criteria <a hef="#fn3"><sup>3</sup></a>. This was a pragmatic approach when Singapore started its own patent system in 1995, when we did not have domestic patent search and examination capabilities. The proposed amendments to the Patents Act will introduce a new positive grant system where only patent applications which have fully positive examination reports (that is, which fully meet patentability criteria) can be granted.
+
 {:start="6"}
 6. The positive grant system will raise the overall quality of patents granted in Singapore, aligning our practices closer to established patent offices like the European Patent Office, Japan and the UK.  This will strengthen business and investor confidence in our IP regime, and enhance Singapore’s reputation as a leading IP hub in Asia. 
 
@@ -73,7 +74,7 @@ A copy of the Patents (Amendment) Bill and the Intellectual Property (Miscellane
 <li>Applying for or obtaining patents at any place other than IPOS;</li>
 <li>
 Preparing specifications or other documents for the purposes of:
-<ol style="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-roman">
 <li>the patent law of any country other than Singapore; or</li>
 <li>an international application for a patent, including PCT applications; and</li>
 </ol>
@@ -100,7 +101,7 @@ Preparing specifications or other documents for the purposes of:
 {:start="15"}
 15. Local patent agents, on the other hand, have expressed concern about the effects of competition from foreign patent agents on the local profession. Our view is that i f Singapore can develop stronger international patent agent capabilities, we can attract more work from the region and grow the overall market for Singapore firms. Such a move, moreover, would help improve the overall infrastructure in Singapore necessary to support national R&D efforts and the innovation economy in general.  We are also presently reviewing the registration requirements for Singapore patent agents to ensure that these are not unduly onerous, and to better support those intending to join the profession. We will also work with IE Singapore to support Singapore-based patent agent firms seeking to venture overseas and further develop their offshore markets.
 
-<ol style="list-style-type: upper-alpha; font-weight: bold;">
+<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Other amendments</li>
 </ol>
 
@@ -118,7 +119,7 @@ Preparing specifications or other documents for the purposes of:
 {:start="17"}
 17. The Medicines Act presently regulates medicinal products including pharmaceutical products for human use. HSA will be bringing the regulation of these pharmaceutical products under the Health Products Act. Consequent technical changes to the Patents Act are required.
 
-<ol style="list-style-type: upper-alpha; font-weight: bold;">
+<ol start="5" style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Conclusion</li>
 </ol>
 
@@ -129,7 +130,7 @@ Preparing specifications or other documents for the purposes of:
 {:start="19"}
 19. MinLaw and IPOS would like to thank all respondents who have provided invaluable feedback during the public consultations.
 
-[Annex A: Patents (Amendment) Bill 2012 (1.2MB)](/files/news/press-releases/2012/05/linkclickaa84.pdf)
+[Annex A: Patents (Amendment) Bill 2012 (1.2MB)](/files/news/press-releases/2012/05/linkclickaa84.pdf)  
 [Annex B: Intellectual Property (Miscellaneous Amendments) Bill 2012 (0.43MB)](/files/news/press-releases/2012/05/linkclick716e.pdf) 
 
 ---
