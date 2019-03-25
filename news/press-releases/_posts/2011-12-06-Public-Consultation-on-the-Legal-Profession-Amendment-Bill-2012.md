@@ -15,7 +15,7 @@ collection_name: news
 <ol start="2">
 <li> The proposed Legal Profession (Amendment) Bill 2012 seeks to introduce these changes:
 
-<ol>
+<ol style="list-style-type: lower-alpha;">
 
 
 <li>Widen the scope for ad hoc admission of Queen’s Counsel (and equivalent) from overseas jurisdictions to appear in Singapore Court under section 15 of the LPA;</li>
@@ -39,7 +39,7 @@ collection_name: news
 3. The contents of the Bill are summarized below:
 
 <ol style="list-style-type: lower-alpha">
-<li>   Ad hoc admission of Queen’s Counsel (and equivalent)</li>
+  <li><u>Ad hoc admission of Queen’s Counsel (and equivalent)</u></li>
 </ol>
 
 
@@ -76,7 +76,7 @@ collection_name: news
 9. The present wording of section 35 of the LPA, which governs the scope of persons who may act as counsel in arbitration proceedings in Singapore, does not require a person to be admitted and/or entitled to practise in any jurisdiction before he can act as counsel in such arbitration proceedings. In addition, the section as presently worded does not prohibit lawyers who have been suspended or struck off the bar of their respective jurisdiction from so acting.
 
 {:start="10"}
-10.The Bill will make amendments to section 35 to make clear that only persons who are qualified to practise law (regardless of jurisdiction), and who continue to be entitled to do so, will be able to act as counsel in arbitration proceedings in Singapore.
+10. The Bill will make amendments to section 35 to make clear that only persons who are qualified to practise law (regardless of jurisdiction), and who continue to be entitled to do so, will be able to act as counsel in arbitration proceedings in Singapore.
 
 
 <ol start="4" style="list-style-type: lower-alpha">
@@ -89,7 +89,7 @@ The Bill also contains miscellaneous amendments to fine-tune the process for dis
 **Feedback sought**
 
 {:start="11"}
-11. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at www.minlaw.gov.sg and www.reach.gov.sg/YourSay/EConsultationPaper.aspx. The feedback may be sent in electronic or hard copy form to:
+11. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](http://www.minlaw.gov.sg/) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx.](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 
 Legal Industry Division  
@@ -101,8 +101,7 @@ Fax: 6332 8842
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
 
-[Annex 1: Legal Profession (Amendment) BIll (0.1MB)](/files/news/press-releases/2011/12/linkclick66ee.pdf)
-
+[Annex 1: Legal Profession (Amendment) BIll (0.1MB)](/files/news/press-releases/2011/12/linkclick66ee.pdf)  
 [Annex 2: Legal Profession (Amendment) Bill Public Consultation Brief (0.1MB)](/files/news/press-releases/2011/12/linkclickcbe5.pdf)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
