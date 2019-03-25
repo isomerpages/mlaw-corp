@@ -16,9 +16,9 @@ collection_name: news
 
 1. The Ministry of Law (MinLaw) is proposing amendments to the Evidence Act (EA), which provides the framework of rules for the types of evidence that can be admitted as evidence during court proceedings. The amendments are to ensure the Act’s continued relevance.
 
-2. In October 2011, MinLaw conducted a public consultation of the proposed amendments to the EA. A draft Bill (see [Annex A (0.1MB)]())   was also posted on MinLaw’s website, and key stakeholder agencies including the Supreme Court, Attorney-General’s Chambers, Law Society and Singapore Corporate Counsel Association were consulted on the proposed amendments.
+2. In October 2011, MinLaw conducted a public consultation of the proposed amendments to the EA. A draft Bill (see [Annex A (0.1MB)](/files/news/press-releases/2012/01/linkclick1513.pdf))   was also posted on MinLaw’s website, and key stakeholder agencies including the Supreme Court, Attorney-General’s Chambers, Law Society and Singapore Corporate Counsel Association were consulted on the proposed amendments.
 
-3. The feedback received was generally in favour of the amendments put forward. The provisions in the present Bill have been fine-tuned to incorporate the feedback received from the public consultation. More details of the feedback received and incorporated in the Bill can be found at [Annex B (0.1MB)]().
+3. The feedback received was generally in favour of the amendments put forward. The provisions in the present Bill have been fine-tuned to incorporate the feedback received from the public consultation. More details of the feedback received and incorporated in the Bill can be found at [Annex B (0.1MB)](/files/news/press-releases/2012/01/linkclickf5bd.pdf).
 
 <ol start="4">
 <li> In summary, the Bill proposes amendments to the EA to reform five specific areas of the law of evidence:
@@ -116,7 +116,7 @@ collection_name: news
 
 
 
-<ol start="4" style="list-style-type:lower-roman">
+<ol start="5" style="list-style-type:lower-roman">
 <li><u>Credit of Rape Victims</u></li>
 </ol>
 
