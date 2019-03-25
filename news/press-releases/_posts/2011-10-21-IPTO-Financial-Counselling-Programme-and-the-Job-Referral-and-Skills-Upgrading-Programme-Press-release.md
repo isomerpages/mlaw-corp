@@ -12,3 +12,5 @@ collection_name: news
 
 The report is in PDF format, to view click [here (0.1MB)](/files/news/press-releases/2011/10/linkclickcc4f.pdf).
 
+
+<p class="right-side-updated">Last updated on 25 Nov 2014</p>
