@@ -63,7 +63,7 @@ collection_name: news
 </ol>
 
 <ol start="2" style="list-style-type: lower-roman;">
-<li>Clauses 2, 5, 8(a) and (b) of the Bill (Mandatory Continuing Professional Development)</li>
+ <li><u>Clauses 2, 5, 8(a) and (b) of the Bill (Mandatory Continuing Professional Development)</u></li>
 </ol>
 
 
