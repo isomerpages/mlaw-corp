@@ -36,7 +36,7 @@ collection_name: news
 <ol start="3">
 <li>Section 25 empowers the Registry to authorise only public officers <a href="#fn1"><sup>1</sup></a> to exercise statutory powers in relation to conducting inspections of licensed moneylenders , such as requiring the moneylender to furnish any information or document, and seizing and removing documents or equipment from the premises inspected. The amendments will allow the Registry to engage any person, for example, auxiliary police officers, to assist the Registrar or an authorised officer in conducting inspections. This will enhance the Registry’s ability to conduct more regular and thorough enforcement checks on moneylenders. Specifically, such persons will assist in:
 
-<ol>
+<ol style="list-style-type: lower-roman">
 
 <li>inspecting any premises where a moneylender is or is believed to be carrying on his business, as well as the documents kept in those premises;</li>
 
@@ -73,7 +73,7 @@ collection_name: news
 **Enhance clarity of the provision governing moneylenders’ place of business**
 
 {:start="7"}
-7. Enhance clarity of the provision governing moneylenders’ place of business
+7. The proposed amendments to Section 10(13)(a) will make it explicit that it is an offence for moneylenders to carry on their moneylending business at unauthorised places of business.
 
 ---
 
