@@ -106,7 +106,7 @@ collection_name: news
 12. The Ministry would like to thank all respondents for their feedback. A copy of the final Bill and a summary of the Ministry’s responses to the feedback received from the public consultation can be found below. 
 
 
-[Annex A: The Legal Profession (Amendment) Bill 2012 (0.07MB)](/files/news/press-releases/2012/01/linkclick337c.pdf)
+[Annex A: The Legal Profession (Amendment) Bill 2012 (0.07MB)](/files/news/press-releases/2012/01/linkclick337c.pdf)  
 [Annex B: Responses to the feedback received from public consultation (0.15MB)](/files/news/press-releases/2012/01/linkclick6061.pdf)
 
 
