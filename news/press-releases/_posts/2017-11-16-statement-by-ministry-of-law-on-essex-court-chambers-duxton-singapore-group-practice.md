@@ -18,7 +18,7 @@ In response to media queries, the Ministry of Law has issued the following state
 
 4. The Ministry has asked Essex Court Chambers Duxton (Singapore Group Practice) to clarify the position and avoid any misimpression. A copy of the Ministry’s letter to the Singapore group practice is enclosed.
 
-[Letter to member Singapore law practices of Essex Court Chambers Duxton (Singapore Group Practice)(PDF, 0.3MB)](/files/news/press-releases/2017/11/MinLaw statement on Essex Court Chambers Duxton.pdf)
+[Letter to member Singapore law practices of Essex Court Chambers Duxton (Singapore Group Practice) (0.3MB)](/files/news/press-releases/2017/11/MinLaw statement on Essex Court Chambers Duxton.pdf)
 
 
 <p class="right-side-updated">Last updated on 04 Jul 2018</p>
