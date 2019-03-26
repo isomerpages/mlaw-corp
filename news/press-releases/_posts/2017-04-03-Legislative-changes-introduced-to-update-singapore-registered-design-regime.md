@@ -19,7 +19,7 @@ Key features of the Registered Designs (Amendment) Bill
 
 <ol start="3">
 <li>The key features of the Bill are as follows:
-<ol>
+<ol style="list-style-type: lower-roman">
 <li><u>Broaden the scope of registrable designs</u> <br /> <br /> The scope of registrable designs will be broadened to include:
 <ul>
 <li>Virtual designs of non-physical products that can be projected onto any surface and have useful functions. An example is a light-projected keyboard which works like a physical keyboard.</li>
@@ -28,11 +28,11 @@ Key features of the Registered Designs (Amendment) Bill
 </li>
 In addition, the amendments will clarify that the designs of artisanal or handcrafted items, such as handmade jewellery, can be registered.</ol>
 <br />
-<ol start="2">
+<ol start="2" style="list-style-type: lower-roman">
 <li><u>Allow the designer of a commissioned design, rather than the commissioning party, to own the design by default</u> <br /><br /> Currently, where a designer is commissioned to create a design, the commissioning party is the owner of the design. The amendments will instead give the design ownership to the creator by default. This is to highlight the importance of design creation and the valuable contribution of designers. Both parties would still be free to contract otherwise.</li>
 </ol>
 <br />
-<ol start="3">
+<ol start="3" style="list-style-type: lower-roman">
 <li><u>Broaden and lengthen the grace period provision</u> <br /> Currently, a design cannot be validly registered if it has been publicly disclosed before the application date. However, narrow exceptions are provided &ndash; a design can be validly registered if the disclosure took place in very limited circumstances (for example, when the disclosure was in breach of confidence), and the application for design protection was made within 6 months of the disclosure. The amendments will broaden the circumstances covered to any disclosure made by the designer, and lengthen the grace period to 12 months. <br /><br /> This will enable designers to still obtain design protection if their works were disclosed inadvertently or out of necessity, and is in line with modern business realities where such disclosures could be necessary, and can take place in a wide range of situations.</li>
 </ol>
 </li>
@@ -55,4 +55,4 @@ In addition, the amendments will clarify that the designs of artisanal or handcr
 {:start="6"}
 6. The review included two rounds of public consultation, from May to June 2014, and from October to December 2015 respectively. In addition, numerous focus group discussions and one-to-one consultations were also held, including with industry and design associations, businesses, intellectual property practitioners, and academics.
 
-<p>Last updated on 03 Apr 2017</p>
+<p class="right-side-updated">Last updated on 03 Apr 2017</p>
