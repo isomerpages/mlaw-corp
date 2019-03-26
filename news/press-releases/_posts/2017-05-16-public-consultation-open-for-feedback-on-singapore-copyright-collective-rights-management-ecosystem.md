@@ -73,10 +73,10 @@ collection_name: news
 8. Members of the public are invited to submit their views by 16 June 2017.  They may submit feedback via email or in hard copy to the following address:
 
 
-**MinLaw**  
-Intellectual Property Policy Division, Ministry of Law  
-100 High Street, #08-02, The Treasury  
-Singapore 179434  
-**Email:** <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered"><strong>MinLaw</strong></p>  
+<p class="address-centered">Intellectual Property Policy Division, Ministry of Law</p>  
+<p class="address-centered">100 High Street, #08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>  
+<p class="address-centered"><a href="mailto:MLAW_Consultation@mlaw.gov.sg"><strong>Email:</strong>MLAW_Consultation@mlaw.gov.sg</a></p>
 
 <p class="right-side-updated">Last updated on 26 Jun 2018</p> 
