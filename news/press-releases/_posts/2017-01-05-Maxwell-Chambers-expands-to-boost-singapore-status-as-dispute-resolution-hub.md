@@ -34,17 +34,17 @@ collection_name: news
 7. The expansion will add to Maxwell Chambers 120,000 square feet of floor space and triple its current size.
 
  
-
-* The new building will house, over four floors, about 50 new offices for international dispute resolution institutions, arbitration chambers, law firms and ancillary legal services.  
-
- 
-
-* The existing building will be dedicated to hearing and preparation rooms for commercial dispute resolution cases. Maxwell Chambers has 10 hearing rooms and 12 preparation rooms at its current premises.
+<ol style="list-style-type: lower-roman">
+<li>The new building will house, over four floors, about 50 new offices for international dispute resolution institutions, arbitration chambers, law firms and ancillary legal services.  </li>
 
  
 
-* An overhead link-bridge will be constructed to connect the two buildings for easy access between offices and hearing rooms.  
+<li>The existing building will be dedicated to hearing and preparation rooms for commercial dispute resolution cases. Maxwell Chambers has 10 hearing rooms and 12 preparation rooms at its current premises.</li>
 
+ 
+
+<li>An overhead link-bridge will be constructed to connect the two buildings for easy access between offices and hearing rooms. </li> 
+</ol>
  
 
 **Meeting Growing Demand** 
@@ -84,4 +84,4 @@ collection_name: news
 **MINISTRY OF LAW**  
 **05 JANUARY 2017**
 
-<p>Last updated on 05 Jan 2017</p>
+<p class="right-side-updated">Last updated on 05 Jan 2017</p>
