@@ -75,7 +75,7 @@ collection_name: news
 
 * Dr Chong Yoke Sin, Chief Executive Officer, Integrated Health Information Systems
 
-[Annex A - Profiles of SLA Board Members (PDF, 0.1MB)](/files/news/press-releases/2016/07/Annex A - SLA Board 2016 Profiles.pdf)
+[Annex A - Profiles of SLA Board Members (0.1MB)](/files/news/press-releases/2016/07/Annex A - SLA Board 2016 Profiles.pdf)
 
 
 **MINISTRY OF LAW**  
