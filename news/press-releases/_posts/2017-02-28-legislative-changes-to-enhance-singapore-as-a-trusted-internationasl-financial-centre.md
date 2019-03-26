@@ -17,16 +17,20 @@ collection_name: news
 {:start="3"}
 3. The proposed amendments to the Trustees Act seek to require trustees to maintain beneficial ownership information and proper accounting records of express trusts. This will enhance the transparency of ownership and control structures of express trusts, and prescribe minimum standards for financial record keeping by trustees.
 
-{:start="4"}
-4. The amendments include provisions to empower the Minister to make rules to:
+<ol start="4">
+  <li>The amendments include provisions to empower the Minister to make rules to:
 
-* Prescribe duties on trustees to obtain and maintain financial records, as well as information on the parties relevant to and dealing with the trust;
+<ol style="list-style-type: lower-roman">
+<li>Prescribe duties on trustees to obtain and maintain financial records, as well as information on the parties relevant to and dealing with the trust;</li>
 
-* Prescribe the specific groups of trusts which are exempted from the proposed amendments;
+<li>Prescribe the specific groups of trusts which are exempted from the proposed amendments;</li>
 
-* Designate any breach of such rules as an offence; and
+<li>Designate any breach of such rules as an offence; and</li>
 
-* Impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.
+<li>Impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.</li>
+</ol>
+</li>
+</ol>
 
 **Background**
 
