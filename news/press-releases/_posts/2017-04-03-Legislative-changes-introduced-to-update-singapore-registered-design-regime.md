@@ -14,7 +14,7 @@ collection_name: news
 2. The Bill implements the recommendations from the review of Singapore’s registered designs regime conducted by MinLaw and the Intellectual Property Office of Singapore (IPOS).
 
 
-Key features of the Registered Designs (Amendment) Bill
+**Key features of the Registered Designs (Amendment) Bill**
 
 
 <ol start="3">
