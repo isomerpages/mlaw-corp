@@ -402,6 +402,12 @@ $desktop: 960px + (2 * $gap) !default;
     font-style: italic;
 }
 
+/* class to be used when styling addresses that needs to be center aligned */
+.address-centered{
+  text-align: center;	
+}
+
+
 /* quick fix for links with long name    */
 /*
 .link-long-name::before{
