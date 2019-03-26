@@ -135,12 +135,12 @@ collection_name: news
  <li> All comments and feedback should be submitted by 31 January 2019 via post or email to: </li>
 </ol>
 
-Legal Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02 The Treasury  
-Singapore 179434  
-Email: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Legal Policy Division </p> 
+<p class="address-centered">Ministry of Law  </p>
+<p class="address-centered">100 High Street </p> 
+<p class="address-centered">#08-02 The Treasury </p> 
+<p class="address-centered">Singapore 179434  </p>
+<p class="address-centered">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> </p>
 
     
 <sup>[1]</sup>Update: The proposal to equate solicitor-and-client costs to party-and-party costs, fixed according to a scale, is no longer a part of the consultations.  
