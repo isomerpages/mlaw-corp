@@ -132,11 +132,11 @@ collection_name: news
 {:start="20"}
 20. We welcome your views on the above proposals, as well as any other suggestions you may have on the Penal Code. The full report can be found on MHA, Mlaw and REACH’s website. Please submit your feedback to us by 30 September 2018 via email at [PCR_Feedback@mha.gov.sg](mailto:MHA_PC_consultation@mha.gov.sg), or via hard copy to the below address:
 
-**Ministry of Home Affairs**  
-New Phoenix Park   
-28 Irrawaddy Road   
-Singapore 329560   
-(Re: PC Consultation)
+<p class="address-centered"><strong>Ministry of Home Affairs</strong></p>  
+<p class="address-centered">New Phoenix Park</p>   
+<p class="address-centered">28 Irrawaddy Road</p>   
+<p class="address-centered">Singapore 329560</p>   
+<p class="address-centered">(Re: PC Consultation)</p>
 
 {:start="21"}
 21. Your feedback is important to us. All views and comments received will be considered. However, we will not be able to individually acknowledge or address every comment. We will consolidate and provide a summary of the key comments received at the close of the consultation exercise. This is to maintain confidentiality of feedback contributors.
@@ -147,7 +147,7 @@ Singapore 329560
 22. The Penal Code Amendment Bill is targeted to be tabled in Parliament in November this year.
 
 The Penal Code Review Committee Report is available here:  
-[Penal Code Review Committee Report(PDF, 3.09MB)](/files/news/press-releases/2018/09/PCRC Report Public Consult 9 Sept.pdf)
+[Penal Code Review Committee Report (3.09MB)](/files/news/press-releases/2018/09/PCRC Report Public Consult 9 Sept.pdf)
  
 **Ministry of Home Affairs & Ministry of Law**   
 **9 September 2018**
