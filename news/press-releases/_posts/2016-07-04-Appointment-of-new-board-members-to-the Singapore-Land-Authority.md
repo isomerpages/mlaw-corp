@@ -34,7 +34,7 @@ collection_name: news
 * Mr Ang Cheng Hock, Senior Counsel and Partner, Allen & Gledhill LLP
 
 {:start="5"}
-5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and re-appointed members. Please see [Annex A (PDF, 0.1MB)](/files/news/press-releases/2016/07/Annex A - SLA Board 2016 Profiles.pdf) for their profiles.
+5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and re-appointed members. Please see [Annex A (0.1MB)](/files/news/press-releases/2016/07/Annex A - SLA Board 2016 Profiles.pdf) for their profiles.
 
 **Out-going Member**
 
