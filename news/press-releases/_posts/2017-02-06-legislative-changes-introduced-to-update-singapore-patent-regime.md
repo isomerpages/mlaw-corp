@@ -19,27 +19,36 @@ collection_name: news
 
 <u>Key features of the Patents (Amendment) Bill</u>
 
-{:start="4"}
-4. The key features of the Bill are as follows:
+<ol start="4">
+ <li>The key features of the Bill are as follows:
 
-  * *<u>Closure of Foreign Route</u>*
+<ol style="list-style-type: lower-roman">
+ <li><u>Closure of Foreign Route</u>
     
-    * Patent applications must be examined by the patent office to ensure that the invention satisfies patentability requirements before a patent is granted.
+<ul style="list-style-type: lower-roman">    
+<li>Patent applications must be examined by the patent office to ensure that the invention satisfies patentability requirements before a patent is granted.</li>
     
-    * Currently, patent applicants can submit the examination report issued by a foreign patent office for the same invention. IPOS would then conduct a simplified examination which does not cover key patentability requirements. Thus, under this “foreign route”, granted patents may not fully satisfy Singapore’s patentability standards.
+<li>Currently, patent applicants can submit the examination report issued by a foreign patent office for the same invention. IPOS would then conduct a simplified examination which does not cover key patentability requirements. Thus, under this “foreign route”, granted patents may not fully satisfy Singapore’s patentability standards.</li>
     
-    * With the closure of the foreign route, currently planned for 1 January 2020, all patent applications must be fully examined by IPOS. This ensures that all granted patents fully satisfy Singapore’s patentability criteria.
+<li>With the closure of the foreign route, currently planned for 1 January 2020, all patent applications must be fully examined by IPOS. This ensures that all granted patents fully satisfy Singapore’s patentability criteria.</li>
+</li>
+</ul>
 
-  * *<u>Broadening the Grace Period Provision</u>*
+ <li><u>Broadening the Grace Period Provision</u>
     
-    * An inventor must generally keep his invention confidential before applying for a patent.
+ <ul>   
+ <li>An inventor must generally keep his invention confidential before applying for a patent.</li>
     
-    * Currently, public disclosures are only disregarded under very narrow circumstances – for example, when the disclosure was in breach of confidence. Public disclosures outside these narrow circumstances will lead to the invention being ineligible for patent protection.
+ <li>Currently, public disclosures are only disregarded under very narrow circumstances – for example, when the disclosure was in breach of confidence. Public disclosures outside these narrow circumstances will lead to the invention being ineligible for patent protection.</li>
     
-    * The proposed amendments will allow any public disclosure originating from the inventor to be disregarded, if it occurs within 12 months before the patent application. Hence, if inventors disclose their inventions during this period, whether inadvertently or out of necessity, they can still obtain a patent later. This is in line with modern business realities where such practices could be necessary.
+<li>The proposed amendments will allow any public disclosure originating from the inventor to be disregarded, if it occurs within 12 months before the patent application. Hence, if inventors disclose their inventions during this period, whether inadvertently or out of necessity, they can still obtain a patent later. This is in line with modern business realities where such practices could be necessary.</li>
     
-    * However, inventors are strongly encouraged to continue to avoid disclosing their inventions before applying for a patent. As not all jurisdictions have a similarly broad grace period provision, public disclosures prior to applying for a patent could jeopardise patent protection in other jurisdictions.
-
+ <li>However, inventors are strongly encouraged to continue to avoid disclosing their inventions before applying for a patent. As not all jurisdictions have a similarly broad grace period provision, public disclosures prior to applying for a patent could jeopardise patent protection in other jurisdictions.</li>
+    </li>
+   </ul>
+    </ol>
+    </li>
+</ol>
 
 **Background**
 
