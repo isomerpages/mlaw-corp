@@ -47,7 +47,7 @@ collection_name: news
 * The limitation period for bringing a claim in the SCT will be extended from 1 year to 2 years. This will provide more time for parties to explore methods to resolve their dispute before bringing the claim before SCT.
 
 
-<ol start="2" style="list-style-type: lower-roman; font-weight: bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight: bold;">
   <li> Enhancement of current processes</li>  
 </ol>
 
