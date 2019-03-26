@@ -35,7 +35,7 @@ collection_name: news
 
 <ol start="7">
 <li>The proposed Bill seeks to:
-<ol>
+<ol style="list-style-type: lower-roman">
 <li>clarify that the common law tort of champerty and maintenance is abolished in Singapore;</li>
 <li>provide that in certain prescribed categories of proceedings, third-party funding contracts are not contrary to public policy or illegal. These categories will be specified in subsidiary legislation after the Bill comes into force. The first category will be international arbitration (and related) proceedings;</li>
 <li>provide that third-party funding may only be provided by an entity which meets the criteria set out in subsidiary legislation; and allow requirements to be imposed on funders through subsidiary legislation. Non-compliant entities or funders will not be able to enforce their rights under the third-party funding agreement;</li>
@@ -57,7 +57,7 @@ collection_name: news
 
 <ol start="10">
 <li>The key features of the Bill fall into the following four categories:
-<ol>
+<ol  style="list-style-type: lower-roman">
 <li><u>Stay of court proceedings provisions</u></li>
 The Bill will provide parties with a statutory basis to apply to court for an order to stay on-going court proceedings, pending the outcome of mediation. Such provisions mirror what is available for arbitration, and will provide greater certainty and clarity to parties by ensuring that their legal positions in any court proceedings are preserved pending the outcome of the mediation.</ol>
 <ol start="2">
