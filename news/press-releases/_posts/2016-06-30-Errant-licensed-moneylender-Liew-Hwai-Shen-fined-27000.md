@@ -18,7 +18,7 @@ collection_name: news
 4.    The remaining 142 charges, which comprise 140 charges for similar offences, and two charges for recklessly furnishing false information in quarterly statements to the Registrar, were taken into consideration by the Court for the purpose of sentencing.
 
 
-5.    Liew was sentenced in the State Courts to a fine of $27,000 (in default 90 days’ imprisonment). Forty other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex A]()). 
+5.    Liew was sentenced in the State Courts to a fine of $27,000 (in default 90 days’ imprisonment). Forty other licensed moneylenders or their officers have been convicted and fined for offences under the Moneylenders Act since 2011 (see [Annex A (DOCX, 0.02MB)](/files/news/press-releases/2016/06/Annex A List of past convictions.docx)). 
 
 
 6.    The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act and Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge.
