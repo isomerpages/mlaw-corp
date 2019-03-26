@@ -16,6 +16,6 @@ collection_name: news
 
 4. With the permission of Essex Court Chambers Duxton (Singapore Group Practice), a copy of its response to the Ministry is enclosed. 
 
-[Response by Essex Court Chambers Duxton (Singapore Group Practice)(PDF, 0.9MB)](/files/news/press-releases/2017/11/ECCDSGP_Response.pdf)
+[Response by Essex Court Chambers Duxton (Singapore Group Practice)(0.9MB)](/files/news/press-releases/2017/11/ECCDSGP_Response.pdf)
 
 <p>Last updated on 24 Nov 2017</p> 
