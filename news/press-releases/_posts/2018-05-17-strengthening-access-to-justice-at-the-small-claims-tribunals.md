@@ -20,29 +20,51 @@ collection_name: news
 {:start="3"}
 3. The key features of the Bill are as follow:
 
+<ol style="list-style-type: upper-alpha; font-weight: bold;">
+  <li> Expanding the jurisdiction of the SCT</li>
+</ol>
 
-**<u>(A) Expanding the jurisdiction of the SCT</u>**
-
-(i) *Raising the claims limit of the SCT*
+<ol style="list-style-type: lower-roman">
+  <li>Raising the claims limit of the SCT</li>
+</ol>
 
 * The claims limit of the SCT will be raised from $10,000 to $20,000 (by default) and from $20,000 to $30,000 (if all parties consent). The higher limits are broadly in line with similar tribunal limits in the United Kingdom, Australia and Canada.
 
-(ii) *Inclusion of hire-purchase claims*
+
+<ol start="2" style="list-style-type: lower-roman">
+  <li>Inclusion of hire-purchase claims</li>
+</ol>
+
 
 * Hire-purchase claims under the Consumer Protection (Fair Trading) Act may now be heard by the SCT. This will enable Singaporeans to resolve hire-purchase claims under the Consumer Protection (Fair Trading) Act quickly and cost effectively.
 
 
-(iii) *Extending the limitation period*
+<ol start="3" style="list-style-type: lower-roman">
+  <li>Extending the limitation period</li>
+</ol>
+
 
 * The limitation period for bringing a claim in the SCT will be extended from 1 year to 2 years. This will provide more time for parties to explore methods to resolve their dispute before bringing the claim before SCT.
 
-**(B) Enhancement of current processes**
 
-(iv) *Judge-led approach*
+<ol start="2" style="list-style-type: lower-roman; font-weight: bold;">
+  <li> Enhancement of current processes</li>  
+</ol>
+
+
+<ol start="4" style="list-style-type: lower-roman">
+  <li>Judge-led approach</li>
+</ol>
+
 
 * The SCT tribunal magistrates can exercise greater control over proceedings and focus the attention of parties on key issues, leading to costs and time savings.
 
-(v) *Other key enhancements to strengthen case management*
+
+<ol start="5" style="list-style-type: lower-roman">
+  <li>Other key enhancements to strengthen case management</li>
+</ol>
+
+
 
 * The SCT are empowered to order parties to attend mandatory mediation at the Community Mediation Centre or before any other person.
 
