@@ -22,10 +22,10 @@ collection_name: news
 **MINISTRY OF LAW**  
 **5 JANUARY 2018**
 
-[Annexe A: Green Paper(PDF, 0.1MB)](/files/news/press-releases/2018/01/Annexe A - Green Paper on Deliberate Online Falsehoods.pdf)  
-[Annexe B: Factsheet on Select Committee(PDF, 0.1MB)](/files/news/press-releases/2018/01/Annexe B - Factsheet on Select Committee.pdf)  
-[Annexe C: Infographic on Deliberate Online Falsehoods(PDF, 0.08MB)](/files/news/press-releases/2018/01/Annexe C - Infographic on Deliberate Online Falsehoods.pdf)  
-[Annexe D: Infographic on the Select Committee Process(PDF, 0.1MB)](/files/news/press-releases/2018/01/Annexe D - Infographic on Select Committee Process.pdf) 
+[Annexe A: Green Paper (0.1MB)](/files/news/press-releases/2018/01/Annexe A - Green Paper on Deliberate Online Falsehoods.pdf)  
+[Annexe B: Factsheet on Select Committee (0.1MB)](/files/news/press-releases/2018/01/Annexe B - Factsheet on Select Committee.pdf)  
+[Annexe C: Infographic on Deliberate Online Falsehoods (0.08MB)](/files/news/press-releases/2018/01/Annexe C - Infographic on Deliberate Online Falsehoods.pdf)  
+[Annexe D: Infographic on the Select Committee Process (0.1MB)](/files/news/press-releases/2018/01/Annexe D - Infographic on Select Committee Process.pdf) 
 
 
 <p class="right-side-updated">Last updated on 05 Jan 2018</p>
