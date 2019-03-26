@@ -55,13 +55,12 @@ collection_name: news
 
  
 
-Anti-Money Laundering and Countering the Financing of Terrorism Division,  
-Ministry of Law  
-45 Maxwell Road  
-URA East Wing, #07-11  
-Singapore 069118  
-  
-Email: [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
+<p class="address-centered">Anti-Money Laundering and Countering the Financing of Terrorism Division</p>  
+<p class="address-centered">Ministry of Law</p>  
+<p class="address-centered">45 Maxwell Road</p>  
+<p class="address-centered">URA East Wing, #07-11</p>  
+<p class="address-centered">Singapore 069118</p>  
+<p class="address-centered">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
  
 
