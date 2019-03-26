@@ -404,7 +404,10 @@ $desktop: 960px + (2 * $gap) !default;
 
 /* class to be used when styling addresses that needs to be center aligned */
 .address-centered{
-  text-align: center;	
+  text-align: center;
+  margin: 0;
+  padding: 0;
+	
 }
 
 
