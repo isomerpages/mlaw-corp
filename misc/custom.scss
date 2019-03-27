@@ -410,6 +410,13 @@ $desktop: 960px + (2 * $gap) !default;
 	
 }
 
+/* class to use when center align video element */
+.video-centered{
+ margin-left: auto;
+ margin-right: auto;
+ display: block;	
+
+}
 
 /* quick fix for links with long name    */
 /*
