@@ -140,7 +140,7 @@ collection_name: news
 [Annex 1: Foreign Limitation Periods Bill (0.1MB)](/files/news/public-consultations/2011/10/linkclick2957.pdf)  
 [Annex 2: Foreign Limitation Periods Bill Public Consultation Brief (0.1MB)](/files/news/public-consultations/2011/10/linkclick6083.pdf)  
 [Annex 3: International Arbitration (Amendment) Bill (0.3MB)](/files/news/public-consultations/2011/10/linkclick5d8a.pdf)  
-[Annex 4: International Arbitration (Amendment) Bill Public Consultation Brief (0.2MB)](files/news/public-consultations/2011/10/linkclickf651.pdf)
+[Annex 4: International Arbitration (Amendment) Bill Public Consultation Brief (0.2MB)](/files/news/public-consultations/2011/10/linkclickf651.pdf)
 
 
 <p class="right-side-updated">Last updated on 05 Feb 2013</p>
