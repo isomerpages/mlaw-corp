@@ -44,13 +44,13 @@ collection_name: news
 6. Interested parties may view the public consultation paper online at [(https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act.html)](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act) and submit feedback in electronic or hard copy form via either of the following:
 
 
-<p class="right-side-updated">Ministry of Law</p>  
-<p class="right-side-updated">International Legal Division</p>  
-<p class="right-side-updated">100 High Street,</p>  
-<p class="right-side-updated">#08-02, The Treasury</p>  
-<p class="right-side-updated">Singapore 179464</p>  
-<p class="right-side-updated">Fax: 6332 8842</p>  
-<p class="right-side-updated">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> (preferred mode)</p>
+<p class="address-centered">Ministry of Law</p>  
+<p class="address-centered">International Legal Division</p>  
+<p class="address-centered">100 High Street,</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179464</p>  
+<p class="address-centered">Fax: 6332 8842</p>  
+<p class="address-centered">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> (preferred mode)</p>
 
 **MINISTRY OF LAW**  
 **12 JANUARY 2017**
