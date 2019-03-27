@@ -21,25 +21,34 @@ collection_name: news
 **Restoring the Heritage of 28 Maxwell Road**
 
  
-{:start="4"}
-4. Heritage restoration will feature strongly in the refurbishment plan: 
-  * Timbre louver windows, inner-leaf façade elements and cast-iron rainwater downpipes, which had been removed or fallen into disrepair in the last two decades, will be restored and repaired to working condition. The cast-iron rainwater downpipes were from Walter MacFarlane & Co. Ltd of Glasgow, Scotland, a key exporter of cast-ironwork to the colonies at the time.
-  * Five lush courtyards within the 161 metre long building will be landscaped and opened for public use. Ad-hoc awnings and roofs which were not part of the original building but added later will be removed, to restore the courtyards to their original open-to-sky design.  
-  * The walls of the façade will be restored to an off-white colour, reinstating the neutral tones used on the building in the past.
-  * The building will be beautifully lit at night to highlight its unique architectural features and historical value.
-
+<ol start="4">
+ <li>Heritage restoration will feature strongly in the refurbishment plan:
+  
+  <ol style="list-style-type: lower-alpha">
+  
+  <li>Timbre louver windows, inner-leaf façade elements and cast-iron rainwater downpipes, which had been removed or fallen into disrepair in the last two decades, will be restored and repaired to working condition. The cast-iron rainwater downpipes were from Walter MacFarlane & Co. Ltd of Glasgow, Scotland, a key exporter of cast-ironwork to the colonies at the time. </li>
+  <li>Five lush courtyards within the 161 metre long building will be landscaped and opened for public use. Ad-hoc awnings and roofs which were not part of the original building but added later will be removed, to restore the courtyards to their original open-to-sky design.</li>  
+  <li>The walls of the façade will be restored to an off-white colour, reinstating the neutral tones used on the building in the past.</li>
+  <li>The building will be beautifully lit at night to highlight its unique architectural features and historical value.</li>
+ </ol>
+ </li>
+</ol>
  
 {:start="5"}
 5. Constructed in 1928, 28 Maxwell Road was designed by Frank Dorrington Ward, the Government Architect of the Straits Settlements Public Works Department, when Singapore was a British colony. The building was first used as barracks for the Police Force, with the Traffic Police occupying a small office on the ground floor. From the 1930s to 1999, it was used solely as the Traffic Police Headquarters. At one time, the building also housed Singapore’s first Driving Test Centre, before the Queenstown Driving Centre opened in 1968. The building was gazetted as a Conserved Building by the Urban Redevelopment Authority in 2007.
 
  
-{:start="6"}
-6. Besides restoring historical elements, the refurbishment will also introduce new architectural features to better serve the building’s new function as modern premium offices for an international dispute resolution complex. These include:
-  * a new annex block that will add 3,230 square feet of office space to meet growing demand from international dispute resolution institutions, arbitration chambers and law firms;
-  * a new corridor block to widen the currently narrow corridor;
-  * works to the floor levels and washrooms to allow handicap access; and
-  * a new link-bridge to provide seamless connection between 28 Maxwell Road and Maxwell Chambers’ current premises. 
-
+<ol start="6">
+<li>Besides restoring historical elements, the refurbishment will also introduce new architectural features to better serve the building’s new function as modern premium offices for an international dispute resolution complex. These include:
+  
+  <ol style="list-style-type: lower-alpha">
+  <li> a new annex block that will add 3,230 square feet of office space to meet growing demand from international dispute resolution institutions, arbitration chambers and law firms;</li>
+ <li>a new corridor block to widen the currently narrow corridor</li>
+ <li>works to the floor levels and washrooms to allow handicap access; and</li>
+  <li>a new link-bridge to provide seamless connection between 28 Maxwell Road and Maxwell Chambers’ current premises. </li>
+ </ol>
+ </li>
+</ol>
  
 
 These new features will be stylistically distinguished from the historic building, to allow the heritage significance of the building to take precedence.
@@ -53,15 +62,18 @@ These new features will be stylistically distinguished from the historic buildin
 **Sharing the Heritage with Singaporeans**
 
  
-{:start="8"}
-8. MinLaw will not only restore the heritage of the building through refurbishments, but will also share the building’s storied past with Singaporeans and foreign visitors. It launched today Heritage@Maxwell. Under this heritage programme,  
-
-  * MinLaw is working with the Singapore Traffic Police to bring together retired Traffic Policemen to help identify previous uses of the different rooms and to share their experiences. Their inputs will help the architect and heritage conservation expert restore and showcase the building’s heritage. 
+<ol start="8">
+<li>MinLaw will not only restore the heritage of the building through refurbishments, but will also share the building’s storied past with Singaporeans and foreign visitors. It launched today Heritage@Maxwell. Under this heritage programme, 
+ 
+ 
+<ol style="list-style-type: lower-alpha">
+<li>MinLaw is working with the Singapore Traffic Police to bring together retired Traffic Policemen to help identify previous uses of the different rooms and to share their experiences. Their inputs will help the architect and heritage conservation expert restore and showcase the building’s heritage.</li> 
   
-  * Students from Singapore University of Technology and Design’s (SUTD) Architecture and Sustainable Design Faculty and Engineering Product Development Faculty will help develop platforms to share the building’s heritage with young Singaporeans.
+ <li>Students from Singapore University of Technology and Design’s (SUTD) Architecture and Sustainable Design Faculty and Engineering Product Development Faculty will help develop platforms to share the building’s heritage with young Singaporeans.</li>
   
-  * MinLaw invites all Singaporeans who had been to the old Traffic Police Headquarters, for example to take driving tests, to share old photographs and experiences. They can send them to <heritage@maxwell-chambers.com>. Selected photographs and stories will line the walls of the new building when it is completed.
-
+ <li> MinLaw invites all Singaporeans who had been to the old Traffic Police Headquarters, for example to take driving tests, to share old photographs and experiences. They can send them to <heritage@maxwell-chambers.com>. Selected photographs and stories will line the walls of the new building when it is completed.</li>
+</li>
+</ol>
  
 {:start="9"}
 9. Han Kok Juan, Deputy Secretary of the Ministry of Law, who chairs the Project Steering Committee, said, “28 Maxwell Road was where our pioneer generation of traffic policemen worked, and where older Singaporeans took their driving tests and got their licenses. We want to capture these memories before they are lost, and share them with younger Singaporeans. Heritage is what gives the place character. It will help distinguish Maxwell Chambers from other dispute resolution facilities in the world.” 
