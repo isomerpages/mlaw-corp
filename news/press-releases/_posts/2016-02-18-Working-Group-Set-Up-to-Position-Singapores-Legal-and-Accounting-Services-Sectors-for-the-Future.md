@@ -8,10 +8,7 @@ collection_name: news
 
 18 Feb 2016 Posted in [Press releases](/news/press-releases)
 
-
-
-![EDB MOF MinLaw Logos](/images/news/press-releases/2016/1455855108145.jpg)
-
+<img src="/images/news/press-releases/2016/1455855108145.jpg" alt="EDB MOF MinLaw Logos" height="89px" width="454px">
 
 **PRESS RELEASE**
 
@@ -22,7 +19,8 @@ collection_name: news
 
 2. The 20-member Working Group on Legal and Accounting Services is co-chaired by Ms Indranee Rajah, Senior Minister of State (SMS), Ministry of Law and Ministry of Finance, and Mr Chaly Mah, Chairman of Deloitte Singapore and Chief Executive Officer of Deloitte Southeast Asia, and comprises members from the Legal and Accounting Services sectors.
 
-3. In developing its recommendations, the Working Group will study in detail the following areas:
+<ol start="3">
+<li>In developing its recommendations, the Working Group will study in detail the following areas:
 
 <ol style="list-style-type: lower-alpha;">
 <li>Key demand drivers and growth areas, strategies and capabilities for firms to remain relevant, increase their exports of services and seize opportunities abroad;</li>
@@ -30,17 +28,19 @@ collection_name: news
 <li> Skillsets required, including those needed to adapt to changes, and how talent can be attracted and developed; and</li>
 <li>Supporting infrastructure and services for the sectors.</li>
 </ol>
+</li>
+</ol>
 
-
-{:start="4"}
-4. At its first meeting on 18 February 2016, the Working Group noted that:
+<ol start="4">
+<li>At its first meeting on 18 February 2016, the Working Group noted that:
 
 
 <ol style="list-style-type: lower-alpha;">
 <li>While the short-term economic environment is generally challenging, there are growth areas that the Legal and Accounting Services sectors can tap on. These include dispute resolution and regulatory work for the legal sector, and advisory and business valuation for the accounting sector. This is also the time to invest in capability building, such as helping firms develop deep subject matter expertise, to better position the sectors for the future.</li>
 <li>There are synergies and strong linkages between the Legal and Accounting Services sectors, which should seize opportunities in banking and finance, restructuring, projects and infrastructure, cybersecurity and wealth management. </li>
 </ol>
-
+</li>
+</ol>
 
 {:start="5"}
 5. Over the next few months, the Working Group will hold several Focus Group sessions to gather ideas and input from a broad spectrum of stakeholders, including domain experts, financiers, infrastructure firms, business consultants and technology experts.
@@ -60,8 +60,8 @@ collection_name: news
 8. On 1 October 2015, Prime Minister Lee Hsien Loong announced the establishment of the Committee on the Future Economy (CFE) to develop economic strategies to position Singapore well for the future. The 30-member Steering Committee is helmed by Mr Heng Swee Keat, Minister for Finance, and his deputy chairman Mr S Iswaran, Minister for Trade and Industry (Industry).
 
  
-{:start="9"}
-9. The Committee, comprising members from different industries, backgrounds, experiences and expertise, addresses five areas, namely:
+<ol start="9">
+<li>The Committee, comprising members from different industries, backgrounds, experiences and expertise, addresses five areas, namely:
 
 <ol style="list-style-type: lower-alpha;">
  <li>Future growth industries and markets;</li>
@@ -69,6 +69,8 @@ collection_name: news
  <li>Jobs and skills;</li>
  <li>Urban development and infrastructure; and</li>
  <li>Connectivity.</li>
+</ol>
+</li>
 </ol>
 
 
