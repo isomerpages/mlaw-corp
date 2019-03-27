@@ -66,13 +66,13 @@ collection_name: news
 {:start="10"}
 10. Members of the public are invited to share their views with the Committee. The consultation period is from 7 May 2014 to 7 June 2014.  The Public Consultation Paper is available [here (0.52MB)](/files/news/press-releases/2014/05/Public Consultation Paper on Interim Recommendations of Committee for Family Justice.pdf) and [www.reach.gov.sg](http://www.reach.gov.sg/).  Views and suggestions may be submitted in electronic form or hard copy form to:
 
-Committee for Family Justice  
-c/o Legal Policy Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-Email:<MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Committee for Family Justice</p>  
+<p class="address-centered">c/o Legal Policy Division, Ministry of Law</p>  
+<p class="address-centered">100 High Street</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>  
+<p class="address-centered">Fax: 6332 8842</p>  
+<p class="address-centered">Email:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 <p class="right-side-updated">Last updated on 16 Jun 2014
 </p>
