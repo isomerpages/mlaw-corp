@@ -20,13 +20,17 @@ collection_name: news
 
 **Summary of Key Changes**
 
-{:start="4"}
-4. The proposed amendments to the Trustees Act include provisions to empower the Minister to make rules to:
+<ol start="4">
+<li>The proposed amendments to the Trustees Act include provisions to empower the Minister to make rules to:
 
-* Prescribe duties on trustees to obtain and maintain financial records, as well as information on the parties relevant to and dealing with the trust:
-* Prescribe the specific groups of trusts which are exempted from the proposed amendments;
-* Designate any breach of such rules as an offence; and
-* Impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.
+<ol style="list-style-type: lower-roman;">
+<li>Prescribe duties on trustees to obtain and maintain financial records, as well as information on the parties relevant to and dealing with the trust:</li>
+<li>Prescribe the specific groups of trusts which are exempted from the proposed amendments;</li>
+<li>Designate any breach of such rules as an offence; and</li>
+<li>Impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.</li>
+</ol>
+</li>
+</ol>
 
 **Background**
 
@@ -40,13 +44,13 @@ collection_name: news
 6. Interested parties may view the public consultation paper online at [(https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act.html)](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act) and submit feedback in electronic or hard copy form via either of the following:
 
 
-Ministry of Law  
-International Legal Division  
-100 High Street,  
-#08-02, The Treasury  
-Singapore 179464  
-Fax: 6332 8842  
-Email: MLAW_Consultation@mlaw.gov.sg (preferred mode)
+<p class="right-side-updated">Ministry of Law</p>  
+<p class="right-side-updated">International Legal Division</p>  
+<p class="right-side-updated">100 High Street,</p>  
+<p class="right-side-updated">#08-02, The Treasury</p>  
+<p class="right-side-updated">Singapore 179464</p>  
+<p class="right-side-updated">Fax: 6332 8842</p>  
+<p class="right-side-updated">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> (preferred mode)</p>
 
 **MINISTRY OF LAW**  
 **12 JANUARY 2017**
