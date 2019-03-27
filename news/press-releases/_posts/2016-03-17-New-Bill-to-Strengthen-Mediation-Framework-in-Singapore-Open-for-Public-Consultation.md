@@ -22,16 +22,16 @@ collection_name: news
 4. The key features of the Bill fall into the following four categories:
 
 <ol style="list-style-type: lower-roman;">
-<li>  Recording of Mediated Settlement Agreement as Court Order</li>
+  <li>  <i>Recording of Mediated Settlement Agreement as Court Order</i></li>
 In order to strengthen the enforceability of mediation agreements, the Bill contains a provision to allow parties to apply to court <u>by agreement</u> to record a written and signed mediated settlement agreement as an order of court if the mediation has been (a) administered by a designated mediation service provider and (b) conducted by a certified mediator.
 
-<li>Confidentiality of Mediation Proceedings</li>
+<li><i>Confidentiality of Mediation Proceedings</i></li>
 The general duty of confidentiality applicable in mediation and the circumstances in which disclosure may take place are clearly outlined in the Bill. In addition, it clarifies the circumstances in which a piece of mediation communication may be admitted as evidence in court.
 
-<li>Stay of Court Proceedings</li>
+<li><i>Stay of Court Proceedings</i></li>
 The draft Bill will provide the statutory basis to allow parties to apply for a stay of court proceedings to ensure that their legal positions in any court proceedings are preserved whilst they enter the mediation process. The court may also make further orders to preserve the rights of all parties pending the outcome of the mediation process.
 
-<li>Legal Profession Act Exceptions</li>
+<li><i>Legal Profession Act Exceptions</i></li>
 Exceptions under the Legal Profession Act currently applicable to arbitration will be extended to mediation. While mediation is not commonly understood to involve the practice of law, in certain cases the relevant law may be discussed during the mediation session. This amendment will make clear that participation by foreign mediators and foreign-qualified counsel in such mediation sessions will not amount to the unauthorised practice of Singapore law.
 
 </ol>
