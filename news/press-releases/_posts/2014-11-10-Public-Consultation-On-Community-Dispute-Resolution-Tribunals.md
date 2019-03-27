@@ -50,12 +50,12 @@ collection_name: news
 {:start="8"}
 8. Views and suggestions may be submitted in electronic form or hard copy form to
 
-Legal Policy Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-Email: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Legal Policy Division, Ministry of Law</p>  
+<p class="address-centered">100 High Street</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>  
+<p class="address-centered">Fax: 6332 8842</p>  
+<p class="address-centered">Email: <MLAW_Consultation@mlaw.gov.sg></p>
 
 **MINISTRY OF LAW**    
 **10 NOVEMBER 2014**
