@@ -58,13 +58,13 @@ collection_name: news
 
  
 {:start="7"}
-7.    Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback online via http://www.mlaw.gov.sg/CopyrightReview or in hard copy to the following address:
+7.    Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback online via [http://www.mlaw.gov.sg/CopyrightReview](http://www.mlaw.gov.sg/CopyrightReview) or in hard copy to the following address:
 
 
-Intellectual Property Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434
+<p class="address-centered">Intellectual Property Policy Division</p>  
+<p class="address-centered">Ministry of Law</p>  
+<p class="address-centered">100 High Street</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>
 
 <p class="right-side-updated">Last updated on 23 Aug 2016</p>
