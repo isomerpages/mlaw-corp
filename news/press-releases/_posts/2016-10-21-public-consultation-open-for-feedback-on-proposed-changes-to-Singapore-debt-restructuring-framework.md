@@ -21,23 +21,27 @@ collection_name: news
 **Summary of Key Changes**
 
 
-{:start="4"}
-4. The proposed changes form the first phase of legislative amendments, and are key to enhancing Singapore’s corporate rescue and restructuring framework. Some of the key changes are:
+<ol start="4">
+<li>The proposed changes form the first phase of legislative amendments, and are key to enhancing Singapore’s corporate rescue and restructuring framework. Some of the key changes are:
 
-* A new set of provisions to support creditor schemes of arrangements that implement debt restructuring proposals. These provisions include:
+<ol style="list-style-type: lower-roman">
+<li>A new set of provisions to support creditor schemes of arrangements that implement debt restructuring proposals. These provisions include:
 
-   *  **Enhanced moratoriums** against creditor action, aimed at conferring greater protection on a debtor during a restructuring;
+<ul>
+<li><strong>Enhanced moratoriums</strong> against creditor action, aimed at conferring greater protection on a debtor during a restructuring;</li>
    
-   * **Rescue finance provisions**, to support the granting of new financing, which is provided to assist the restructuring and help Singapore expand the market for rescue financing;
+<li><strong>Rescue finance provisions</strong>, to support the granting of new financing, which is provided to assist the restructuring and help Singapore expand the market for rescue financing;</li>
    
-   * **Cram-down provisions**, to prevent debt restructurings from being stymied by dissident creditors, if such creditors will not be unfairly prejudiced by the restructuring; and
+<li><strong>Cram-down provisions</strong>, to prevent debt restructurings from being stymied by dissident creditors, if such creditors will not be unfairly prejudiced by the restructuring; and</li>
    
-   * **Other enhancements**, such as debtor disclosure requirements to protect creditors’ interests, or pre-packaged provisions to fast-track pre-negotiated schemes.
-   
-* Enabling companies to apply for a judicial management order more easily. Provisions which provide for rescue financing in judicial management will also be introduced.
+<li><strong>Other enhancements</strong>, such as debtor disclosure requirements to protect creditors’ interests, or pre-packaged provisions to fast-track pre-negotiated schemes.</li>
+</ul>   
+</li>
+<li>Enabling companies to apply for a judicial management order more easily. Provisions which provide for rescue financing in judicial management will also be introduced.</li>
 
-* The adoption of the United Nations Commission on International Trade Law (UNCITRAL) Model Law on Cross-Border Insolvency, and abolition of the general ring-fencing rule in the winding up of foreign companies<sup>1</sup>. This will facilitate the resolution of cross-border insolvencies, which are becoming increasingly common due to globalisation.
-
+<li>The adoption of the United Nations Commission on International Trade Law (UNCITRAL) Model Law on Cross-Border Insolvency, and abolition of the general ring-fencing rule in the winding up of foreign companies<sup>1</sup>. This will facilitate the resolution of cross-border insolvencies, which are becoming increasingly common due to globalisation</li>
+</li>
+</ol>
 
 **Background**
 
@@ -60,12 +64,12 @@ collection_name: news
 
 
 
-Policy Advisory Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Policy Advisory Division</p>  
+<p class="address-centered">Ministry of Law</p>  
+<p class="address-centered">100 High Street</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>  
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 **MINISTRY OF LAW**  
