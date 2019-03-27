@@ -117,7 +117,7 @@ collection_name: news
 
 
 {:start="19"}
-19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills at www.minlaw.gov.sg and http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx. The feedback may be sent in electronic or hard copy form to:
+19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 
 <p class="address-centered">Legal Policy Division</p>
@@ -137,10 +137,10 @@ collection_name: news
 
 <sup>[3]</sup> See Report of the Law Reform Committee on Right to Judicial Review of Negative Jurisdictional Rulings (January 2011) at para 14.
 
-[Annex 1: Foreign Limitation Periods Bill](/files/news/public-consultations/2011/10/linkclick2957.pdf)
-[Annex 2: Foreign Limitation Periods Bill Public Consultation Brief](/files/news/public-consultations/2011/10/linkclick6083.pdf)
-[Annex 3: International Arbitration (Amendment) Bill](/files/news/public-consultations/2011/10/linkclick5d8a.pdf)
-[Annex 4: International Arbitration (Amendment) Bill Public Consultation Brief](files/news/public-consultations/2011/10/linkclickf651.pdf)
+[Annex 1: Foreign Limitation Periods Bill (0.1MB)](/files/news/public-consultations/2011/10/linkclick2957.pdf)  
+[Annex 2: Foreign Limitation Periods Bill Public Consultation Brief (0.1MB)](/files/news/public-consultations/2011/10/linkclick6083.pdf)  
+[Annex 3: International Arbitration (Amendment) Bill (0.3MB)](/files/news/public-consultations/2011/10/linkclick5d8a.pdf)  
+[Annex 4: International Arbitration (Amendment) Bill Public Consultation Brief (0.2MB)](files/news/public-consultations/2011/10/linkclickf651.pdf)
 
 
 <p class="right-side-updated">Last updated on 05 Feb 2013</p>
