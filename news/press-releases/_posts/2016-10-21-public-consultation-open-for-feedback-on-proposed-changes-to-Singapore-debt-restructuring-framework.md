@@ -37,6 +37,7 @@ collection_name: news
 <li><strong>Other enhancements</strong>, such as debtor disclosure requirements to protect creditors’ interests, or pre-packaged provisions to fast-track pre-negotiated schemes.</li>
 </ul>   
 </li>
+</ol>
 <li>Enabling companies to apply for a judicial management order more easily. Provisions which provide for rescue financing in judicial management will also be introduced.</li>
 
 <li>The adoption of the United Nations Commission on International Trade Law (UNCITRAL) Model Law on Cross-Border Insolvency, and abolition of the general ring-fencing rule in the winding up of foreign companies<sup>1</sup>. This will facilitate the resolution of cross-border insolvencies, which are becoming increasingly common due to globalisation</li>
