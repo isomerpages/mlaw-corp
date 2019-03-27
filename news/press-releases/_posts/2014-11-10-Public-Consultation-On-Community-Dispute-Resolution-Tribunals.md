@@ -55,7 +55,7 @@ collection_name: news
 <p class="address-centered">#08-02, The Treasury</p>  
 <p class="address-centered">Singapore 179434</p>  
 <p class="address-centered">Fax: 6332 8842</p>  
-<p class="address-centered">Email: <MLAW_Consultation@mlaw.gov.sg></p>
+<p class="address-centered">Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 **MINISTRY OF LAW**    
 **10 NOVEMBER 2014**
