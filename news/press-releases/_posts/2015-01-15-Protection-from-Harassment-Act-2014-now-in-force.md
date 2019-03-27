@@ -44,7 +44,7 @@ collection_name: news
 
 ---
 
-[Infographics on protection from harassment (0.5MB)](files/news/press-releases/2015/01/Protection from Harassment.pdf)  
+[Infographics on protection from harassment (0.5MB)](/files/news/press-releases/2015/01/Protection from Harassment.pdf)  
 [View videos on Protection from Harassment Act 2014](/news/others/protection-from-harassment)
 
 **Translation of “Protection from Harassment Act”**
@@ -66,7 +66,7 @@ collection_name: news
 </tr>
 </table>
 
-
+h
 
 <p class="right-side-updated">Last updated on 16 Jan 2015
 </p>
