@@ -37,7 +37,7 @@ collection_name: news
 * Mr Lai Huen Poh, Managing Director, RSP Architects Planners & Engineers Pte Ltd
 
 {:start="5"}
-5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and re-appointed members. Please see [Annex A (PDF, 0.1MB)](/files/news/press-releases/2015/06/Profile of board members-Annex A.pdf) for their profiles.
+5. The Ministry of Law and SLA look forward to the guidance and support of the newly appointed and re-appointed members. Please see [Annex A (0.1MB)](/files/news/press-releases/2015/06/Profile of board members-Annex A.pdf) for their profiles.
 
 **Out-going members**
 
