@@ -71,7 +71,7 @@ These new features will be stylistically distinguished from the historic buildin
   
  <li>Students from Singapore University of Technology and Design’s (SUTD) Architecture and Sustainable Design Faculty and Engineering Product Development Faculty will help develop platforms to share the building’s heritage with young Singaporeans.</li>
   
- <li> MinLaw invites all Singaporeans who had been to the old Traffic Police Headquarters, for example to take driving tests, to share old photographs and experiences. They can send them to <heritage@maxwell-chambers.com>. Selected photographs and stories will line the walls of the new building when it is completed.</li>
+ <li> MinLaw invites all Singaporeans who had been to the old Traffic Police Headquarters, for example to take driving tests, to share old photographs and experiences. They can send them to <a href="mailto:heritage@maxwell-chambers.com">heritage@maxwell-chambers.com</a>. Selected photographs and stories will line the walls of the new building when it is completed.</li>
  </ol>
 </li>
 </ol>
