@@ -22,7 +22,7 @@ collection_name: news
 
 5. The Ministry of Law and SLA deeply appreciate Mr Hoong’s many years of dedicated service and contributions to SLA, and wish him continued success and fulfilment in his future endeavours.  We welcome Mr Tan, as SLA embarks on its next phase of land development in Singapore.
 
-6. The write-ups of Mr Hoong and Mr Tan are attached in [Annex A (PDF, 0.1MB)](/files/news/press-releases/2015/04/Annex A - Former CE SLA Vincent Hoong.pdf) and [Annex B (PDF, 0.1MB)](/files/news/press-releases/2015/04/Annex B - New CE SLA Tan Boon Khai.pdf) respectively.
+6. The write-ups of Mr Hoong and Mr Tan are attached in [Annex A (0.1MB)](/files/news/press-releases/2015/04/Annex A - Former CE SLA Vincent Hoong.pdf) and [Annex B (0.1MB)](/files/news/press-releases/2015/04/Annex B - New CE SLA Tan Boon Khai.pdf) respectively.
 
 
 **MINISTRY OF LAW**  
