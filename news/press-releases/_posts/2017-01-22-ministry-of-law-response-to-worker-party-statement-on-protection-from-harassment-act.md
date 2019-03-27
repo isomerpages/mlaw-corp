@@ -32,4 +32,4 @@ The Government needs to take steps to protect the public and Singapore’s insti
 **22 JANUARY 2017**
 
 
-<p class="address-centered">Last updated on 22 Jan 2017</p>
+<p class="right-side-updated">Last updated on 22 Jan 2017</p>
