@@ -37,4 +37,13 @@ collection_name: news
 **MINISTRY OF LAW**  
 **2 JUNE 2016**
 
+
+<ol style="list-style-type: lower-alpha;">
+<li>If a Singapore court is the chosen court of an exclusive choice of court agreement covered by the Convention, the dispute must be heard in Singapore only. This strengthens the enforcement of agreements which specify Singapore courts as the exclusive dispute resolution forum; and</li>
+</ol>
+
+
+a)    If a Singapore court is the chosen court of an exclusive choice of court agreement covered by the Convention, the dispute must be heard in Singapore only. This strengthens the enforcement of agreements which specify Singapore courts as the exclusive dispute resolution forum; and
+
+
 <p class="right-side-updated">Last updated on 02 Jun 2016</p>
