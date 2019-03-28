@@ -26,7 +26,7 @@ collection_name: news
 
 <li>Lawyers will only be allowed to receive and hold conveyancing money in a new type of bank account, called a Conveyancing Account. These Conveyancing Accounts will be opened with Appointed Banks designated by the Minister for Law. Withdrawal or pay-out of money from Conveyancing Accounts will require two-party authorisation. Typically, the counter-signatory will be the lawyer representing the other party in the conveyancing transaction.</li>
 
-<li>Buyers and sellers who wish to place conveyancing money in such accounts will have to indicate the payee’s name on their cheque/cashier’s order in the format: “<Name of law firm>-CVY”. Lawyers holding on to CPF money on behalf of clients or CPF Board will be able to do so in separate Conveyancing (CPF) Accounts.</li>
+<li>Buyers and sellers who wish to place conveyancing money in such accounts will have to indicate the payee’s name on their cheque/cashier’s order in the format: “&lt;Name of law firm&gt;-CVY”. Lawyers holding on to CPF money on behalf of clients or CPF Board will be able to do so in separate Conveyancing (CPF) Accounts.</li>
 
 <li>Buyers and sellers who do not wish to deposit money with their lawyers can instead instruct their lawyers to engage the Singapore Academy of Law (SAL) to hold conveyancing money, through a newly created Conveyancing Money Service. Payment of such money via cheque/cashier’s order should be made to “ **Singapore Academy of Law**”.</li>
 
@@ -51,12 +51,9 @@ collection_name: news
 
 **<u>Attachments</u>**
 
-1. [Fact Sheet on proposed measures to safeguard conveyancing money (0.1MB)](/files/news/press-releases/2011/03/linkclick86a5.pdf)
-
-2. [Conveyancing (Miscellaneous Amendments) Bill (0.03MB)](/files/news/press-releases/2011/03/linkclick9bf3.pdf)
-
-3. [Guide to legislative amendments (0.09MB)](/files/news/press-releases/2011/03/linkclicke45a.pdf)
-
+1. [Fact Sheet on proposed measures to safeguard conveyancing money (0.1MB)](/files/news/press-releases/2011/03/linkclick86a5.pdf)  
+2. [Conveyancing (Miscellaneous Amendments) Bill (0.03MB)](/files/news/press-releases/2011/03/linkclick9bf3.pdf)  
+3. [Guide to legislative amendments (0.09MB)](/files/news/press-releases/2011/03/linkclicke45a.pdf)  
 4. [Response to feedback received from second public consultation on safeguarding conveyancing money](/news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing)
 
 
