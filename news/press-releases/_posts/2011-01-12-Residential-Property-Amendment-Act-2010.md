@@ -5,6 +5,7 @@ permalink: /news/press-releases/residential-property-amendment-act-2010
 breadcrumb: Press Releases
 collection_name: news
 ---
+12 Jan 2011 Posted in [Press releases](/news/press-releases)
 
 
 1. The Residential Property (Amendment) Act 2010, enacted by Parliament on 22 November 2010, will come into force on 17 January 2011.
