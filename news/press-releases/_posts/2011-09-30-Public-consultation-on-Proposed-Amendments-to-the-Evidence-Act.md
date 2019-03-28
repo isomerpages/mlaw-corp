@@ -84,7 +84,7 @@ collection_name: news
 
 
 
-<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
+<ol start="5" style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Hearsay</li>
 </ol>
 
@@ -102,7 +102,7 @@ collection_name: news
 
 
 {:start="16"}
-16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper (0.2MB)](/files/news/press-releases/2011/09/linkclickbd8a.pdf) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
+16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper (0.2MB)](/files/news/press-releases/2011/09/linkclickbd8a.pdf) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](http://www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">Legal Policy Division</p>
 <p class="address-centered">Ministry of Law</p>
@@ -113,7 +113,7 @@ collection_name: news
 <p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
-[Annex 1: Public consultation on proposed amendments to the Evidence Act (0.2MB)](/files/news/press-releases/2011/09/linkclickbd8a.pdf)
+[Annex 1: Public consultation on proposed amendments to the Evidence Act (0.2MB)](/files/news/press-releases/2011/09/linkclickbd8a.pdf)  
 [Annex 2: Draft Evidence (Amendment) Bill (0.1MB)](/files/news/press-releases/2011/09/linkclick5231.pdf)
 
 ---
