@@ -61,14 +61,14 @@ collection_name: news
 
 ---
 
-<sup>1</sup>Payees are divided into Categories A, B and C:  
+<sup>[1]</sup>Payees are divided into Categories A, B and C:  
   
 Category A payees include the Commissioner of Stamp Duties, Commissioner of Lands, Comptroller of Income Tax, Jurong Town Corporation, etc . Category A payees can be paid with no counter-signing.
 Category B payees include the s eller or his receiver, b uyer, mor tgagee, CPF Board, HDB, Town Council, MCST, Comptroller of Property Tax, etc. As these payees are closely connected to the conveyancing transaction, the counter-signing party only needs to check if the identity of the payee is correct.
 Category C payees include all other payees, such as real estate agencies for their commission and lawyers for their legal costs.  For this category, the counter-signing party will have to check that the identity of the payee as well as amount are correct.
 
 
-<sup>2</sup> While the most common counter-signatory is the lawyer acting for the other party, there could be non-lawyer counter-signatories such as unrepresented lay clients, CPF Board or HDB, depending on the nature of the conveyancing transaction.
+<sup>[2]</sup> While the most common counter-signatory is the lawyer acting for the other party, there could be non-lawyer counter-signatories such as unrepresented lay clients, CPF Board or HDB, depending on the nature of the conveyancing transaction.
 
 
 <p class="right-side-updated">Last updated on 05 Feb 2013</p>
