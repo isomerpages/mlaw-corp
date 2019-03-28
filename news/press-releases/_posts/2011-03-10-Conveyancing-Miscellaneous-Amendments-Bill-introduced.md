@@ -55,7 +55,7 @@ collection_name: news
 2. [Conveyancing (Miscellaneous Amendments) Bill (0.03MB)](/files/news/press-releases/2011/03/linkclick9bf3.pdf)
 3. [Guide to legislative amendments (0.09MB)](/files/news/press-releases/2011/03/linkclicke45a.pdf)
 4. [Response to feedback received from second public consultation on safeguarding conveyancing money](/news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing)
-
+h
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
 
