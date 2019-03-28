@@ -57,7 +57,7 @@ collection_name: news
 12. MinLaw’s responses to the feedback received from the second public consultation are in **<u>Annex A</u>**. Information on the proposed measures and guidebooks on the conveyancing workflow are available at [www.conveyancing.sg](http://www.conveyancing.sg).
 
 **<u>Attachment:</u>**  
-[MinLaw's responses to feedback received from the second public consultation on safeguarding conveyancing money](/files/news/announcements/2011/03/linkclickde7f.pdf)
+[MinLaw's responses to feedback received from the second public consultation on safeguarding conveyancing money (0.04MB)](/files/news/announcements/2011/03/linkclickde7f.pdf)
 
 ---
 
