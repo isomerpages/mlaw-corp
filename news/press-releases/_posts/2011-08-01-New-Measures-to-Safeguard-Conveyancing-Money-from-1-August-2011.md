@@ -61,7 +61,7 @@ collection_name: news
 <li>Stakeholders, including the Association of Banks in Singapore, Central Provident Fund Board (CPF Board), Council for Estate Agencies, Inland Revenue Authority of Singapore (IRAS), Law Society and Real Estate Developers’ Association of Singapore have issued circulars to their respective stakeholders about the new measures and the necessary steps to ensure compliance.</li>
 <li>The Ministry of Law has also taken out advertorials in the major newspapers in four languages to inform the public about the new measures. Information posters have also been distributed for display at public locations such as Community Centres and Residents’ Committees’ notice boards. Information pamphlets are available to members of the public through real estate agents, lawyers and banks that provide housing loans.</li>
 
-<li>More information is available at the one-stop portal, [www.conveyancing.sg](http://www.conveyancing.sg), where lawyers and members of the public can access useful resources such as:
+<li>More information is available at the one-stop portal, <a href="http://www.conveyancing.sg">www.conveyancing.sg</a>, where lawyers and members of the public can access useful resources such as:
 
 <ol style="list-style-type: lower-alpha">
 
@@ -94,4 +94,7 @@ collection_name: news
 
 {:start="8"}
 8. With the new measures in place, clients’ money in conveyancing transactions will enjoy a higher standard of protection.
+
+
+<p class="right-side-updated">Last updated on 25 Nov 2012</p>
 
