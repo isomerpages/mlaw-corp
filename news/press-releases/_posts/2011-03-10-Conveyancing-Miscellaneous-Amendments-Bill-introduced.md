@@ -51,7 +51,7 @@ collection_name: news
 
 **<u>Attachments</u>**
 
-1. [Fact Sheet on proposed measures to safeguard conveyancing money (0.1MB)](/files/news/press-releases/2011/03/linkclick86a5.pdf 
+1. [Fact Sheet on proposed measures to safeguard conveyancing money (0.1MB)](/files/news/press-releases/2011/03/linkclick86a5.pdf) 
 2. [Conveyancing (Miscellaneous Amendments) Bill (0.03MB)](/files/news/press-releases/2011/03/linkclick9bf3.pdf)
 3. [Guide to legislative amendments (0.09MB)](/files/news/press-releases/2011/03/linkclicke45a.pdf)
 4. [Response to feedback received from second public consultation on safeguarding conveyancing money](/news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing)
