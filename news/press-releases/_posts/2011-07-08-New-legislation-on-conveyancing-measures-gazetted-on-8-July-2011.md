@@ -34,7 +34,7 @@ collection_name: news
 
 </li>
 <li>
- Buyers or sellers who wish to place money in Conveyancing Accounts have to add the suffix, “-CVY”, to the payee name on their cheque/cashier’s order – “<Name of law firm>-CVY”. Money placed with SAL must be made payable to “Singapore Academy of Law”.
+ Buyers or sellers who wish to place money in Conveyancing Accounts have to add the suffix, “-CVY”, to the payee name on their cheque/cashier’s order – “&lt;Name of law firm&gt;-CVY”. Money placed with SAL must be made payable to “Singapore Academy of Law”.
 </li>
 
 <li>
