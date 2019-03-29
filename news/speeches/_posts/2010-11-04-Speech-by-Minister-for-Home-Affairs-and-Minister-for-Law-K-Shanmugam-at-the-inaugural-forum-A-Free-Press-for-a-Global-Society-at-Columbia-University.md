@@ -51,7 +51,7 @@ Ladies and Gentlemen
 </ol>
 
 <ol start="3" style="list-style-type: upper-roman; font-weight: bold;">
-<li>The political context in Singapore, and the development of Singapore/li>  
+<li>The political context in Singapore, and the development of Singapore</li>  
 </ol>
                                                                        
 
