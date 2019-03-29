@@ -5,15 +5,14 @@ permalink: /news/speeches/speech-by-minister-for-home-affairs-and-minister-for-l
 breadcrumb: Speeches
 collection_name: news
 ---
-
-**4 Nov 2010 Posted in [Speeches](/news/speeches)**
+4 Nov 2010 Posted in [Speeches](/news/speeches)
 
 President of Columbia University, Professor Lee Bollinger  
 Distinguished panellists and speakers  
 Ladies and Gentlemen  
 
 <ol style="list-style-type: upper-roman; font-weight: bold;">
-  <li>Introduction</li>  
+<li>Introduction</li>  
 </ol>
 
 
@@ -22,8 +21,8 @@ Ladies and Gentlemen
 2. There are, as you said, diverse views on the roles that the media should or can play in a free society, and our views often draw fairly strong reactions.
 
 
-<ol start="2 "style="list-style-type: upper-roman; font-weight: bold;">
-  <li>Political context is important when considering the role of the media/li>  
+<ol start="2" style="list-style-type: upper-roman; font-weight: bold;">
+<li>Political context is important when considering the role of the media</li>  
 </ol>
 
 {:start="3"}
