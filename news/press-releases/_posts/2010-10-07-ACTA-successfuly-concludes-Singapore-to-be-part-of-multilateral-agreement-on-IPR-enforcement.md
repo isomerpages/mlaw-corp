@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACTA successfuly concludes - Singapore to be part of multilateral agreement on IPR enforcement
-permalink: /news/press-releases/acta-successfuly-concludes-singapore-to-be-part-of-multilateral-agreement-on-ipr-enforcement.
+permalink: /news/press-releases/acta-successfuly-concludes-singapore-to-be-part-of-multilateral-agreement-on-ipr-enforcement
 breadcrumb: Press Releases
 collection_name: news
 ---
@@ -19,7 +19,7 @@ collection_name: news
 
 ---
 
-<p><sup>[1]</sup> Including the Paris Convention, Berne Convention, Madrid Protocol, Nice Agreement, Patent Cooperation Treaty, Budapest Treaty, WIPO Copyright Treaty, WIPO Performances and Phonograms Treaty.</p>
+<p id="fn1"><sup>[1]</sup> Including the Paris Convention, Berne Convention, Madrid Protocol, Nice Agreement, Patent Cooperation Treaty, Budapest Treaty, WIPO Copyright Treaty, WIPO Performances and Phonograms Treaty.</p>
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
