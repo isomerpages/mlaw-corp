@@ -395,7 +395,7 @@ Ladies and Gentlemen
 <ol start="46">
 <li> Guinea in particular is interesting. Last year, the International Herald Tribune ran a story headlined, “Ousting Guinea’s brutal junta.” The first paragraph read:-
 <br>
-<li>“Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.”  
+<i>"Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.”</i>  
   
 </li>  
 </ol>  
