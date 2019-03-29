@@ -33,6 +33,6 @@ collection_name: news
 {:start="3"}
 3. Details of the provisions and how the new regulations will be applied are in <u>Annex A</u>. 
 
-[Annex A: LTSA Transitionals](/files/news/press-releases/2010/07/linkclickc0b2.pdf)
+[Annex A: LTSA Transitionals (0.34MB)](/files/news/press-releases/2010/07/linkclickc0b2.pdf)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
