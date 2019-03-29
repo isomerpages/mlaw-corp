@@ -497,7 +497,7 @@ Ladies and Gentlemen
 
 <ol start="61">
 <li> We believe that our system works for us, and we don’t shut out the world. In terms of openness to ideas:
-</ol>
+<ol>
   
 <li>We have more than 5,500 foreign newspapers and publications in circulation in Singapore. There are close to 100 TV channels carried on our cable networks. Nearly 200 correspondents from 72 foreign media organisations are based in Singapore.</li>
 
