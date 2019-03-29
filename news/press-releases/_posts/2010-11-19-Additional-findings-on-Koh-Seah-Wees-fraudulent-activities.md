@@ -20,7 +20,7 @@ collection_name: news
 
 6. Disciplinary investigations have commenced in respect of officers whose lapses in supervision might have allowed the fraud to take place undetected.  These investigations are in progress, and disciplinary action will be taken, if and where found appropriate.
 
-**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
+**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**  
 **MINISTRY OF LAW**
 
 
