@@ -308,21 +308,22 @@ Ladies and Gentlemen
 <ol start="32">
 <li> Former British Prime Minister Tony Blair put it in these terms, when describing the consequences of the modern realities and pressures on the media:
 <br>
+  <br>
 
 <i>“The result is a media that increasingly and to a dangerous degree is driven by “impact”. Impact is what matters. It is all that can distinguish, can rise above the clamour, can get noticed.
-
+<br>
 “The audience needs to be arrested, held and their emotions engaged. Something that is interesting is less powerful than something that makes you angry or shocked. The consequences of this are acute:
-
+<br>
 “First, scandal or controversy beats ordinary reporting hands down. News is rarely news unless it generates heat as much as or more than light.
-
+<br>
 “Second, attacking motive is far more potent than attacking judgment. It is not enough for someone to make an error. It has to be venal. Conspiratorial.
-
+<br>
 “Third, the fear of missing out means today’s media, more than ever before, hunts in a pack. In these modes it is like a feral beast, just tearing people and reputations to bits. But no-one dares miss out.
-
+<br>
 “Fourth, rather than just report news, even if sensational or controversial, the new technique is commentary on the news being as, if not more important than the news itself.
-
+<br>
 “This leads to the fifth point: the confusion of news and commentary. Comment is a perfectly respectable part of journalism. But it is supposed to be separate. Opinion and fact should be clearly divisible. The truth is that a large part of the media today not merely elides the two but does so now as a matter of course.  
-
+<br>
 “The final consequence of all of this is that it is rare today to find balance in the media.”</i>
 </li>
 </ol>  
@@ -394,16 +395,11 @@ Ladies and Gentlemen
 <ol start="46">
 <li> Guinea in particular is interesting. Last year, the International Herald Tribune ran a story headlined, “Ousting Guinea’s brutal junta.” The first paragraph read:-
 <br>
-<br>
-“Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.”  
+<li>“Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.”  
   
 </li>  
 </ol>  
   
-  
-  
-</ol>  
-
 {:start="47"}
 47. We are apparently below Guinea in press freedom, and have been since 2003.
 
@@ -451,7 +447,7 @@ Ladies and Gentlemen
 
 <ol start="56">
 <li>Friedman had a commentary on US politics a few days ago and ended with this sentence:
-<br>
+<br><br>
 <i>“A dysfunctional political system is one that knows the right answers but can’t even discuss them rationally, let alone act on them, and one that devotes far more attention to cable TV preachers than to recommendations by its best scientists and engineers.”</i>  
 </li>
 </ol>
@@ -518,6 +514,45 @@ Ladies and Gentlemen
 </li>  
 </ol>  
 
+<ol start="7" style="list-style-type: upper-roman; font-weight: bold;">
+<li>Libel Laws</li>  
+</ol>  
+
+{:start="62"}
+62. Let me now address the issue of our libel laws – which often excites much interest internationally.
+
+
+{:start="63"}
+63. Our libel laws are based on English common law. Our principle is very simple.
+
+
+{:start="64"}
+64. If you make a personal attack of fact against a person’s reputation, for example by alleging that he is corrupt, or that he is a liar, or that he embezzled State funds, then you should be prepared to prove it in court. We do not believe that public discourse should degenerate to a base level, by allowing untrue personal attacks.
+
+
+{:start="65"}
+65. We would like to keep political debate focused on issues. You can attack government policies fiercely. That will not be defamatory. And let the people choose the candidates based on alternative policies.
+
+
+{:start="66"}
+66. You in America take a different view. We respect that, but deeply disagree that that approach leads to a better debate – and in saying this I am aware of the ‘chilling effect’ argument.
+
+
+{:start="67"}
+67. It is also sometimes suggested that our libel laws are used to perpetuate a one-party system in Singapore. As proof, commentators will refer to the fact that the governing party has been in power since independence in 1965 (and actually before that).
+
+{:start="68"}
+68.      There are several responses. I will just give one. Remember that Singapore is a city state. There are no great geographical variations, no serious economic differences between regions, no great demographic variations. It is one relatively small city – the comparison should be with similar-sized city politics in the US.
+
+{:start="69"}
+69. If you consider cities in the US, for example San Francisco or Chicago, you also see uninterrupted hold on power by one party for decades. (Although having said that, I wouldn’t like Singapore politics to be compared with Chicago politics of some decades ago – I think we are a little different.)
+
+{:start="70"}
+70. So in city politics, it is possible for a party to retain power for a long time – if it delivers results.
+
+
+
+
 <ol start="8" style="list-style-type: upper-roman; font-weight: bold;">
 <li>Conclusion</li>  
 </ol>  
@@ -528,7 +563,7 @@ Ladies and Gentlemen
 {:start="72"}
 72. My basic point is that each of us has to choose what works for us. Over a time, it is possible that a set of core values can evolve across countries – but this has to be agreed rather than imposed.
 
-<ol start="9">
+<ol start="9" style="list-style-type: upper-roman; font-weight: bold;">
 <li>Perspectives on China</li>  
 </ol>
 
@@ -556,11 +591,11 @@ Ladies and Gentlemen
 <br>
 <br>
 <i>“Studying China’s ability to invest for the future doesn’t make me feel we have the kind of focus, legitimacy, unity and stick-to-it-iveness to do big things – democratically – that China does autocratically.
-
+<br>
 “We’ve done it before. But we’re not doing it now because too many of our poll-driven, toxically partisan, cable-TV-addicted, money-corrupted political class are more interested in what keeps them in power than what would again make America powerful, more interested in defeating each other than saving the country. [...]
-
+<br>
 “For democracy to be effective and deliver the policies and infrastructure our societies need requires the political centre to be focused, united and energised. That means electing candidates who will do what is right for the country not just for their ideological wing or whoever comes with the biggest bag of money.
-
+<br>
 “For democracies to address big problems – and that’s all we have these days – requires a lot of people pulling in the same direction, and that is precisely what we’re lacking.”</i>
   
 </li> 
