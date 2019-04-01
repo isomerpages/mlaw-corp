@@ -40,7 +40,7 @@ collection_name: news
 {:start="8"}
 8. Other jurisdictions such as the United Kingdom, New Zealand, Australia and Hong Kong have adopted a fact-finding regime .
 
-<ol style="list-style-type: upper-alpha; font-weight: bold;">
+<ol start="3" style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Widening of Technical Expertise</li>
 </ol>
 
@@ -51,7 +51,7 @@ collection_name: news
 10. The new Act allows the Coroner or PP, if he considers appropriate to do so, to direct a forensic pathologist to assist in investigations.
 
 {:start="11"}
-11. The Coroner may, if he considers it appropriate to do so, appoint up totwo assessors with skill and experience in the matter to which the inquiry relates to assist him in the hearing of any inquiry.
+11. The Coroner may, if he considers it appropriate to do so, appoint up to two assessors with skill and experience in the matter to which the inquiry relates to assist him in the hearing of any inquiry.
 
 {:start="12"}
 12. To facilitate investigations and any subsequent inquiry, a duty will be imposed on persons in charge of hospitals, clinics or places of official custody to preserve the deceased’s medical and healthcare records. Failure to do so, without reasonable excuse, will be an offence.
