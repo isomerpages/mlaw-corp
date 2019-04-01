@@ -67,3 +67,5 @@ E-mail:<MLAW_Consultation@mlaw.gov.sg>
 [Public Consultation Paper (0.02MB)](/files/news/press-releases/2009/08/linkclick6a10.pdf)  
 [Response to feedback recieved for first public consultation (0.06MB)](/files/news/press-releases/2009/08/linkclick73ae.pdf)
 
+
+<p class="right-side-updated">Last updated on 26 Nov 2012</p>
