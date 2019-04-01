@@ -41,13 +41,13 @@ collection_name: news
 {:start="8"}
 8. Consistent with the policy of limited court intervention, the Court can exercise these new powers only when the arbitral tribunal or arbitral institution has no power to act, or is unable to actfor the time being effectively. It is envisaged that one such scenario could be where the foreign arbitral tribunal has power to make an interim order, but that order cannot otherwise be enforced in Singapore apart from an application under this new section . 
 
-<ol start"9" >
+<ol start"9">
 <li>Other examples include:
-<ol style="list-style-type: lower-alpha;">
+<ol style="list-style-type: lower-alpha">
 
-<li> a party applying to Court for relief before the arbitral tribunal has been fully or properly constituted; </li>
+<li>a party applying to Court for relief before the arbitral tribunal has been fully or properly constituted; </li>
 
-<li> a party applying to Court for relief against a non-party to the arbitration, which an arbitral tribunal has no power over; and </li>
+<li>a party applying to Court for relief against a non-party to the arbitration, which an arbitral tribunal has no power over; and </li>
 
 <li>where the arbitral tribunal is unable to hear an urgent application for interim relief sufficiently quickly. </li>
 
@@ -130,7 +130,7 @@ collection_name: news
 
 **<u>Attachments</u>**
 
-[Response to MPs Chiam See Tong and Christopher de Souza](/files/news/parliamentary-speeches/2009/10/linkclick8d65.pdf)
+[Response to MPs Chiam See Tong and Christopher de Souza (0.01MB)](/files/news/parliamentary-speeches/2009/10/linkclick8d65.pdf)  
 [Rsponse to feedback received from public consultation on IAA Bill]()
 
 <p class="right-side-updated">Last updated on 28 Jan 2013</p>
