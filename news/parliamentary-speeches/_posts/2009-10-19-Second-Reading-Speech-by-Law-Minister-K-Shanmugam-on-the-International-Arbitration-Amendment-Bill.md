@@ -41,7 +41,7 @@ collection_name: news
 {:start="8"}
 8. Consistent with the policy of limited court intervention, the Court can exercise these new powers only when the arbitral tribunal or arbitral institution has no power to act, or is unable to actfor the time being effectively. It is envisaged that one such scenario could be where the foreign arbitral tribunal has power to make an interim order, but that order cannot otherwise be enforced in Singapore apart from an application under this new section . 
 
-<ol start"9">
+<ol start="9">
 <li>Other examples include:
 <ol style="list-style-type: lower-alpha">
 
