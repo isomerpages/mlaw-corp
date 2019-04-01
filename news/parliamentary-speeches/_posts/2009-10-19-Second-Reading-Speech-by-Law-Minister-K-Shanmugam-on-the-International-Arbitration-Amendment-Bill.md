@@ -131,6 +131,6 @@ collection_name: news
 **<u>Attachments</u>**
 
 [Response to MPs Chiam See Tong and Christopher de Souza (0.01MB)](/files/news/parliamentary-speeches/2009/10/linkclick8d65.pdf)  
-[Rsponse to feedback received from public consultation on IAA Bill]()
+[Rsponse to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)
 
 <p class="right-side-updated">Last updated on 28 Jan 2013</p>
