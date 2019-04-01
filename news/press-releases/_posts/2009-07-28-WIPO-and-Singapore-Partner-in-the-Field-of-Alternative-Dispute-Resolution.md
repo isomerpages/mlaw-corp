@@ -8,7 +8,7 @@ collection_name: news
 
 28 Jul 2009 Posted in [Press releases](/news/press-releases)
 
-[wipo-minlaw-signing-ceremony](/images/news/press-releases/2019/1399988690094.jpg)
+![wipo-minlaw-signing-ceremony](/images/news/press-releases/2019/1399988690094.jpg)
 
 *WIPO Director General Dr Francis Gurry and Law Minister K Shanmugam exchanging the signing folders* 
 
