@@ -35,7 +35,7 @@ collection_name: news
 
 <li>Lawyers will be prohibited from receiving conveyancing moneys into their regular client account to which they have free access, preventing the potential for criminal breach of trust;</li>
  
-<li>Breach of this prohibition will subject the lawyer to disciplinary proceedings;<li>
+<li>Breach of this prohibition will subject the lawyer to disciplinary proceedings;</li>
  
 <li>Conveyancing moneys held by a seller's lawyer in his regular client account (for example, the Option deposit of four or nine per cent of the purchase price which a buyer passes to the seller's lawyer upon exercise of Option) will have to be held by entities approved and appointed by the Minister for Law;</li>
  
