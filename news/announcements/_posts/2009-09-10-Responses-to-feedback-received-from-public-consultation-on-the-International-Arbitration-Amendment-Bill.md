@@ -13,7 +13,7 @@ collection_name: news
 
 2. We thank all respondents for their feedback. The Ministry of Law considered these suggestions in detail and incorporated some of the feedback into the Bill and its accompanying Explanatory Statement.
 
-**<u>Attachements</u>**
+**<u>Attachments</u>**
 
 [Second Reading Speech on International Arbitration (Amendment) Bill 2009](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill)  
 [Response to the feedback received from the public consultation (0.04MB)](/news/announcements/2009/09/linkclick1e3a.pdf)  
