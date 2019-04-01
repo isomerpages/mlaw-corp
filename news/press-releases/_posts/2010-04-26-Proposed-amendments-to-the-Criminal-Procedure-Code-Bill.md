@@ -20,7 +20,7 @@ The proposed key amendments in the CPC Bill are set out in the accompanying atta
 [Annex 2: Fact sheet on pre-trial discovery (0.04MB)](/files/news/press-releases/2010/04/linkclick43f3.pdf)  
 [Annex 3: Fact sheet on costs and victim compensation (0.03MB)](/files/news/press-releases/2010/04/linkclick5f80.pdf)  
 [Annex 4: Fact sheet on law reform amendments (0.04MB)](/files/news/press-releases/2010/04/linkclick3e77.pdf)  
-[Annex 5: Criminal Procedure Code Bill (1MB)(linkclick5cdb.pdf)](/files/news/press-releases/2010/04/linkclick5cdb.pdf)  
+[Annex 5: Criminal Procedure Code Bill (1MB)](/files/news/press-releases/2010/04/linkclick5cdb.pdf)  
 
 <p class="right-side-updated">Last updated on 26 Nov 2012
 </p>
