@@ -21,7 +21,7 @@ The amendments are in three key areas:
 
 <li> The current definition of an arbitration agreement will be modernised to make it clear that Singapore recognises that an arbitration agreement can be contained in "electronic communications" such as electronic emails or electronic data exchange.</li>
  
-<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).</li> <a href="NYConvention"><sup>2</sup></a>
+<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).</li> <a href="#NYConvention"><sup>2</sup></a>
 
 </ol>
 
@@ -35,13 +35,13 @@ The amendments are in three key areas:
 {:start="5"}
 5. The Ministry invites interested parties to provide their feedback on the draft International Arbitration (Amendment) Bill. The consultation period is from 27 July 2009 to 17 August 2009. The feedback may be sent in electronic or hard copy form to:
 
-Legal Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Legal Policy Division</p>  
+<p class="address-centered">Ministry of Law</p>  
+<p class="address-centered">100 High Street</p>  
+<p class="address-centered">#08-02, The Treasury</p>  
+<p class="address-centered">Singapore 179434</p>  
+<p class="address-centered">Fax: 6332 8842 </p> 
+<p class="address-centered">E-mail: <MLAW_Consultation@mlaw.gov.sg></p>
 
 
 **<u>Notes:</u>**
@@ -53,11 +53,11 @@ E-mail: <MLAW_Consultation@mlaw.gov.sg>
 
 
 **<u>Attachments</u>**
-[Backgrounder on Arbitration (0.03MB)](/files/news/press-releases/2009/07/linkclickf8e7.pdf)
-[Public consultation paper (0.03MB)](/files/news/press-releases/2009/07/linkclick17e0.pdf)
-[Draft Bill (0.04MB)](/files/news/press-releases/2009/07/linkclickef67.pdf)
-[Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)
-[Second Reading Speech on IAA Bill](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill)
+[Backgrounder on Arbitration (0.03MB)](/files/news/press-releases/2009/07/linkclickf8e7.pdf)  
+[Public consultation paper (0.03MB)](/files/news/press-releases/2009/07/linkclick17e0.pdf)  
+[Draft Bill (0.04MB)](/files/news/press-releases/2009/07/linkclickef67.pdf)  
+[Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)  
+[Second Reading Speech on IAA Bill](//)
 
 
 <p class="right-side-updated">Last updated on 26 Feb 2013</p>
