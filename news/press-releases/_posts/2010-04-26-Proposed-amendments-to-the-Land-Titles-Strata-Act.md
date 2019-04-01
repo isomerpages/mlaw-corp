@@ -50,7 +50,7 @@ collection_name: news
 
 
 {:start="9"}
-9.The disclosure requirements under the LT(S)A will be expanded to stipulate that a person standing for election to the Collective Sale Committee (SC) must declare the extent of ownership that he/she, or a connected person <a href="#connected"><sup>1</sup></a>, has in the strata development, and also the date of purchase of the relevant strata units. This is in addition to the current disclosure requirements, if a person standing for election has an interest in any property developer, property consultant, marketing agent or legal firm. These additional disclosure requirements will allow owners to make a more informed choice on who they want to elect into their SC. 
+9. The disclosure requirements under the LT(S)A will be expanded to stipulate that a person standing for election to the Collective Sale Committee (SC) must declare the extent of ownership that he/she, or a connected person <a href="#connected"><sup>1</sup></a>, has in the strata development, and also the date of purchase of the relevant strata units. This is in addition to the current disclosure requirements, if a person standing for election has an interest in any property developer, property consultant, marketing agent or legal firm. These additional disclosure requirements will allow owners to make a more informed choice on who they want to elect into their SC. 
 
 
 {:start="10"}
@@ -68,16 +68,16 @@ collection_name: news
 
 
 {:start="13"}
-13. Other proposed amendments include replacing the requirement for EOGMs with simple meetings for purposes of providing updates to owners pertaining to the consent level, sale proposal and process, number of bids and bid amounts, and the terms and conditions of the sale and purchase agreement with the eventual buyer. As no decision making is needed, simple meetings will suffice. This is to avoid making the process of updating owners too onerous. The current EOGM requirements for meetings held to appoint lawyers and property consultants, to approve the apportionment method, and to approve the terms and conditions of the CSA, will remain.
+13. Other proposed amendments include replacing the requirement for <u>EOGMs</u> with <u>simple meetings</u> for purposes of providing updates to owners pertaining to the consent level, sale proposal and process, number of bids and bid amounts, and the terms and conditions of the sale and purchase agreement with the eventual buyer. As no decision making is needed, simple meetings will suffice. This is to avoid making the process of updating owners too onerous. The current EOGM requirements for meetings held to appoint lawyers and property consultants, to approve the apportionment method, and to approve the terms and conditions of the CSA, will remain.
 
 
 <ol start="14">
 <li>For strata developments where there has been a failed en bloc sale attempt <a href="#attempt"><sup>2</sup></a>, a “restriction period” of two years, starting from the date of the initial failed attempt, shall be imposed. Within this “restriction period”:
 
 <ul>
-<li>The first re-try to convene an EOGM to reappoint a SC will need to meet a higher 50 per cent requisition threshold (by share value or total number of owners); </li>
+<li>The first re-try to convene an EOGM to reappoint a SC will need to meet a higher **<u>50 per cent</u>** requisition threshold (by share value or total number of owners); </li>
 
-<li>Any subsequent attempts to convene EOGMs within this period will need to meet an 80 per cent requisition level (by share value or total number of owners). </li>
+<li>Any subsequent attempts to convene EOGMs within this period will need to meet an **<u>80 per cent</u>** requisition level (by share value or total number of owners). </li>
 
 <li>At the end of the two-year “restriction period”, the requisition level for an EOGM to appoint an SC will revert to the usual level of 20 per cent by share value or 25 per cent of the total number of owners.  If there is another failed attempt, it will start another two-year “restriction period”. </li>
 </ul>
@@ -93,9 +93,9 @@ collection_name: news
 <p id="connected"><sup>[1]</sup> Connected persons include immediate family members and also connections to a firm, limited liability partnership or corporation in which the person holds at least five per cent voting power.</p>
 <p id="attempt"><sup>[2]</sup> A failed attempt occurs if the quorum for an EOGM convened to elect an SC is not met; when a resolution to elect an SC at an EOGM is not passed; when the SC is dissolved or terminated; or when the CSA expires. </p>
 
-[Annex A: Proposed amendments to the Land Titles (Strata) Act (0.03MB)](/files/news/press-releases/2010/04/linkclick10fa.pdf)
-[Annex B: Transitional provisions (0.1MB)](/files/news/press-releases/2010/04/linkclick19a9.pdf)
-[Annex C: Land Titles (Strata) (Amendment) Bill (1.9MB)](/files/news/press-releases/2010/04/linkclick82be.pdf)
+[Annex A: Proposed amendments to the Land Titles (Strata) Act (0.03MB)](/files/news/press-releases/2010/04/linkclick10fa.pdf)  
+[Annex B: Transitional provisions (0.1MB)](/files/news/press-releases/2010/04/linkclick19a9.pdf)  
+[Annex C: Land Titles (Strata) (Amendment) Bill (1.9MB)](/files/news/press-releases/2010/04/linkclick82be.pdf)  
 
 
 <p class="right-side-updated">Last updated on 22 Feb 2013</p>
