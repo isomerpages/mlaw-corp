@@ -75,9 +75,9 @@ collection_name: news
 <li>For strata developments where there has been a failed en bloc sale attempt <a href="#attempt"><sup>2</sup></a>, a “restriction period” of two years, starting from the date of the initial failed attempt, shall be imposed. Within this “restriction period”:
 
 <ul>
-<li>The first re-try to convene an EOGM to reappoint a SC will need to meet a higher **<u>50 per cent</u>** requisition threshold (by share value or total number of owners); </li>
+<li>The first re-try to convene an EOGM to reappoint a SC will need to meet a higher <strong><u>50 per cent</u></strong> requisition threshold (by share value or total number of owners); </li>
 
-<li>Any subsequent attempts to convene EOGMs within this period will need to meet an **<u>80 per cent</u>** requisition level (by share value or total number of owners). </li>
+<li>Any subsequent attempts to convene EOGMs within this period will need to meet an <strong><u>80 per cent</u></strong> requisition level (by share value or total number of owners). </li>
 
 <li>At the end of the two-year “restriction period”, the requisition level for an EOGM to appoint an SC will revert to the usual level of 20 per cent by share value or 25 per cent of the total number of owners.  If there is another failed attempt, it will start another two-year “restriction period”. </li>
 </ul>
