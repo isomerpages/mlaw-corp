@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPTO to remove information on annulled bankruptcy orders from its online information search service -- Press Release.
-permalink: ipto-to-remove-information-on-annulled-bankruptcy-orders-from-its-online-information-search-service
+permalink: /news/press-releases/ipto-to-remove-information-on-annulled-bankruptcy-orders-from-its-online-information-search-service
 breadcrumb: Press Releases
 collection_name: news
 ---
