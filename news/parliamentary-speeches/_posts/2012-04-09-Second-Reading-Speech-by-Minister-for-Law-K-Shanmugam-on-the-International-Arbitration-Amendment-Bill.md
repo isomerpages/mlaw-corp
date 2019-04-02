@@ -73,8 +73,11 @@ collection_name: news
 
 **Tribunal's power to award interest**
 
-<ol start="17">
-<li>Clause 9 amends section 20 to clarify the power of arbitral tribunals to award interest.
+{:start="17"}
+17. Clause 9 amends section 20 to clarify the power of arbitral tribunals to award interest.
+
+<ol start="18">
+<li>Subject to the arbitral agreement, the tribunal will be able to: 
 
 <ul>
 
@@ -87,46 +90,46 @@ collection_name: news
 </ol>
 
 
-{:start="18"}
+{:start="19"}
 18. In other words, full discretion will be given to the arbitral tribunals to award interest.
 
 
 **Emergency arbitrators and interim measures ordered by the tribunal**
 
-{:start="19"}
-19. Clause 2(a) amends the definition of an arbitral tribunal in section 2(1) to include emergency arbitrators.
-
 {:start="20"}
-20. Emergency arbitrators provide urgent interim relief to parties before the arbitral tribunal is constituted.
+20. Clause 2(a) amends the definition of an arbitral tribunal in section 2(1) to include emergency arbitrators.
 
 {:start="21"}
-21. They are a fairly recent innovation in international arbitration. The Singapore International Arbitration Centre was one of the first in the world to introduce them. Other arbitral institutions have now followed suit.
+21. Emergency arbitrators provide urgent interim relief to parties before the arbitral tribunal is constituted.
 
 {:start="22"}
-22. With the amendments, there will be clear legislative support for emergency arbitrators. They will be able to exercise the full range of powers available to the tribunal under the Act. Their awards will be enforceable in our courts in the same way as awards by any other arbitral tribunal.
+22. They are a fairly recent innovation in international arbitration. The Singapore International Arbitration Centre was one of the first in the world to introduce them. Other arbitral institutions have now followed suit.
 
 {:start="23"}
-23. In addition, clause 10 amends the definition of foreign arbitration awards in section 27(1).
+23. With the amendments, there will be clear legislative support for emergency arbitrators. They will be able to exercise the full range of powers available to the tribunal under the Act. Their awards will be enforceable in our courts in the same way as awards by any other arbitral tribunal.
 
 {:start="24"}
-24. The amended definition will then encompass interim measures made by an arbitral tribunal, such as orders for the preservation of property. Such interim measures will now be enforceable in our courts.
+24. In addition, clause 10 amends the definition of foreign arbitration awards in section 27(1).
+
+{:start="25"}
+25. The amended definition will then encompass interim measures made by an arbitral tribunal, such as orders for the preservation of property. Such interim measures will now be enforceable in our courts.
 
 **Conclusion**
 
-{:start="25"}
-25. Clause 11 makes similar amendments, where relevant, to the Arbitration Act.
-
 {:start="26"}
-26. The remaining clauses make miscellaneous, consequential, and other minor amendments.
+26. Clause 11 makes similar amendments, where relevant, to the Arbitration Act.
 
 {:start="27"}
-27. In conclusion, Sir, may I mention that the Bill comes before this House at a significant moment in the context of arbitration. In June this year, Singapore will host the 21st Congress of the International Council for Commercial Arbitration (ICCA). This is a significant global arbitration meeting. It is the first time since 2004 that the ICCA is meeting in Asia, and it emphasises Singapore’s growing status as a hub for international arbitration.
+27. The remaining clauses make miscellaneous, consequential, and other minor amendments.
 
 {:start="28"}
-28. The passage of this Bill will signal to the international arbitration community our continued commitment to providing the fullest legislative support for international arbitration.
+28. In conclusion, Sir, may I mention that the Bill comes before this House at a significant moment in the context of arbitration. In June this year, Singapore will host the 21st Congress of the International Council for Commercial Arbitration (ICCA). This is a significant global arbitration meeting. It is the first time since 2004 that the ICCA is meeting in Asia, and it emphasises Singapore’s growing status as a hub for international arbitration.
 
 {:start="29"}
-29. Sir, I beg to move.
+29. The passage of this Bill will signal to the international arbitration community our continued commitment to providing the fullest legislative support for international arbitration.
+
+{:start="30"}
+30. Sir, I beg to move.
 
 [Annex: International Arbitration in Singapore (0.2MB)](/files/news/parliamentary-speeches/2012/04/linkclick7460.pdf)
 
