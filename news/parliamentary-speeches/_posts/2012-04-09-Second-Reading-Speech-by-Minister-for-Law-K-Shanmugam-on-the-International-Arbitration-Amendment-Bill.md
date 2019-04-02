@@ -37,28 +37,37 @@ collection_name: news
 
 **Broadening the definition of an arbitration agreement**
 
-
+{:start="7"}
 7. Clause 2(b) deletes the existing definition of an arbitration agreement in section 2.
 
+{:start="8"}
 8. Clause 3 inserts a new section 2A, containing a broader definition of an arbitration agreement.
 
+{:start="9"}
 9. The new section 2A incorporates Option I of Article 7 of the 2006 Amendments to the 1985 UNCITRAL 1 Model Law on International Commercial Arbitration.
 
+{:start="10"}
 10. Under the new definition, an arbitration agreement which is concluded orally, by conduct or through any other means, if its content is recorded in any form, it will be recognised as an arbitration agreement within the context of the International Arbitration Act (IAA).
 
+{:start="11"}
 11. In our consultation last year, a majority of arbitrators and practitioners were of the view that the broadened definition should be adopted.
 
 
 **Recourse against negative jurisdictional rulings by an arbitral tribunal**
 
+{:start="12"}
 12. Clause 4 repeals and re-enacts section 10 to provide recourse against negative jurisdictional rulings by an arbitral tribunal. Such a ruling is one where the tribunal holds that it does not have the jurisdiction to hear a dispute.
 
+{:start="13"}
 13. The Act currently follows the Model Law in not providing any recourse against negative jurisdictional rulings. The absence of recourse against such rulings may defeat the parties’ intention to arbitrate.
 
+{:start="14"}
 14. Academics and practitioners have called for reform in this area. In particular, t he Singapore Academy of Law’s Law Reform Committee had recommended that the review of negative jurisdictional rulings be allowed. That was in its January 2011 Report on the Right to Judicial Review of Negative Jurisdictional Rulings.
 
+{:start="15"}
 15. Such a ruling made at any stage of the arbitral proceedings can now be appealed to the High Court and appealed further to the Court of Appeal, if the High Court grants leave to appeal.
 
+{:start="16"}
 16. The Bill will also allow the tribunal and the court to award costs against any party for the arbitral and/or court proceedings, when it rules that the tribunal has no jurisdiction.
 
 
@@ -120,6 +129,7 @@ collection_name: news
 29. Sir, I beg to move.
 
 [Annex: International Arbitration in Singapore (0.2MB)](/files/news/parliamentary-speeches/2012/04/linkclick7460.pdf)
+
 ---
 
 <sup>[1]</sup>  United Nations Commission on International Trade Law.
