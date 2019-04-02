@@ -41,7 +41,7 @@ collection_name: news
 
 Attachments
 
-[Consultation paper on draft Coroners Bill (0.02MB)](/files/news/press-releases/2009/07/linkclick03d5.pdf)
+[Consultation paper on draft Coroners Bill (0.02MB)](/files/news/press-releases/2009/07/linkclick03d5.pdf)  
 [Draft Coroners Bill (0.1MB)](/files/news/press-releases/2009/07/linkclick8bfd.pdf)
 
 <p class="right-side-updated">Last updated on 27 Nov 2012</p>
