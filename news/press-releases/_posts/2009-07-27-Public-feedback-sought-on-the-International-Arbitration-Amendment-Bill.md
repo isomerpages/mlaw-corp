@@ -41,7 +41,7 @@ The amendments are in three key areas:
 <p class="address-centered">#08-02, The Treasury</p>  
 <p class="address-centered">Singapore 179434</p>  
 <p class="address-centered">Fax: 6332 8842 </p> 
-<p class="address-centered">E-mail: <MLAW_Consultation@mlaw.gov.sg></p>
+<p class="address-centered">E-mail: <a href="MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 **<u>Notes:</u>**
@@ -52,12 +52,12 @@ The amendments are in three key areas:
 <p id="NYConvention"><sup>[2]</sup> The New York Convention 1958 generally requires courts of one contracting State to recognise and enforce arbitral awards made in other States. This Convention is widely recognised as the foundation for the growth of international arbitration as a transnational commercial dispute resolution tool. The Convention entered into force on 7 June 1959. 144 countries have acceded to the Convention, including Singapore, China, India, Japan, the US, France and UK. </p>
 
 
-**<u>Attachments</u>**
-[Backgrounder on Arbitration (0.03MB)](/files/news/press-releases/2009/07/linkclickf8e7.pdf)  
-[Public consultation paper (0.03MB)](/files/news/press-releases/2009/07/linkclick17e0.pdf)  
-[Draft Bill (0.04MB)](/files/news/press-releases/2009/07/linkclickef67.pdf)  
-[Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)  
-[Second Reading Speech on IAA Bill](//)
+**<u>Attachments</u>**  
+[Backgrounder on Arbitration (0.03MB)](/files/news/press-releases/2009/07/linkclickf8e7.pdf)   
+[Public consultation paper (0.03MB)](/files/news/press-releases/2009/07/linkclick17e0.pdf)    
+[Draft Bill (0.04MB)](/files/news/press-releases/2009/07/linkclickef67.pdf)    
+[Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)    
+[Second Reading Speech on IAA Bill](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-international-arbitration-amendment)
 
 
 <p class="right-side-updated">Last updated on 26 Feb 2013</p>
