@@ -8,7 +8,7 @@ collection_name: news
 
 18 Feb 2016 Posted in [Press releases](/news/press-releases)
 
-<img src="/images/news/press-releases/2016/1455855108145.jpg" alt="EDB MOF MinLaw Logos" height="89">
+<img src="/images/news/press-releases/2016/1455855108145.jpg" alt="EDB MOF MinLaw Logos" style="height:89px">
 
 **PRESS RELEASE**
 
@@ -87,6 +87,9 @@ Fabius Chen
 Email: fabius_chen@mlaw.gov.sg  
 DID: 6332-8650
 
+
+
+j
 
 
 <p class="right-side-updated">Last updated on 19 Feb 2016
