@@ -8,7 +8,7 @@ collection_name: news
 
 18 Feb 2016 Posted in [Press releases](/news/press-releases)
 
-<img src="/images/news/press-releases/2016/1455855108145.jpg" alt="EDB MOF MinLaw Logos" style="height:89px">
+<img src="/images/news/press-releases/2016/1455855108145.jpg" alt="EDB MOF MinLaw Logos" style="width:454px">
 
 **PRESS RELEASE**
 
@@ -89,7 +89,7 @@ DID: 6332-8650
 
 
 
-j
+jl
 
 
 <p class="right-side-updated">Last updated on 19 Feb 2016
