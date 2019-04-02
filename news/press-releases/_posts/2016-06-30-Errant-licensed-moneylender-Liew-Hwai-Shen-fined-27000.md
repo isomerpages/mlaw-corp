@@ -5,6 +5,7 @@ permalink: /news/press-releases/errant-licensed-moneylender--liew-hwai-shen--fin
 breadcrumb: Press Releases
 collection_name: news
 ---
+30 Jun 2016 Posted in [Press releases](/news/press-releases) 
 
 1.    The Registry of Moneylenders, a department under the Ministry of Law, brought charges in the State Courts on 14 September 2015 against Liew Hwai Shen (刘怀森), 37 years old, a director of the moneylending business Denaro Pte Ltd.
 
@@ -29,5 +30,5 @@ collection_name: news
 **REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
 
-<p>Last updated on 01 Jul 2016</p>
+<p class="right-side-updated">Last updated on 01 Jul 2016</p>
 
