@@ -58,20 +58,10 @@ collection_name: news
 </ol>
 
 
-<ol start="3">
-<li>The enclosed Legal Profession (Amendment) Bill 2009 (Annex A) makes amendments to:
-<ol style="list-style-type: lower-roman">
-<li>Take into account the new training contract requirements (Clauses 2, 3, 4, 6, 7, 8, 10, 11, 12).</li>
-<li>Streamline the various exemption powers relating to admission requirements within the Act (Clauses 5, 9).</li>
-<li>Make consequential amendments arising from the changes introduced in (i) above, and minor amendments of a technical/law revision nature (Clause 13).</li>
-</ol>
-</li>
-</ol>
 
 
-<ol start="2" style="list-style-type: lower-alpha">
-<li><u>Legal Profession (Qualified Persons) Amendment Rules 2009 </u></li>
-</ol>
+
+
 
 
 <ol start="4">
@@ -95,7 +85,7 @@ collection_name: news
 <ol start="5">
 <li>Miscellaneous amendments are also made to the Rules in respect of the following:
 
-<ol>
+<ol style="list-style-type: lower-roman">
 
 
 <li>"Twinning Programme": Appropriate amendments are made to the definition of "approved twinning programme" in Rule 2, to ensure that certain legitimate arrangements (otherwise technically caught by the current "twinning" definition, and the "full-time internal candidate" definition), are not so caught.</li>
@@ -125,9 +115,9 @@ collection_name: news
 {:start="7"}
 7. Consultation has completed for the draft Bill and Rules posted here. The legislation is slated to come into effect in September 2009, and the site will be updated accordingly at the appropriate time.
 
-**Attachments**
-[Annex A - Legal Profession (Amendment) Bill 2009 (0.05MB)](/files/news/press-releases/2009/06/linkclicka3a2.pdf)
-[Annex B - Legal Profession (Qualified Persons) (Amendment) Rules 2009 (0.06MB)](/files/news/press-releases/2009/06/linkclick374f.pdf)
+**Attachments**  
+[Annex A - Legal Profession (Amendment) Bill 2009 (0.05MB)](/files/news/press-releases/2009/06/linkclicka3a2.pdf)  
+[Annex B - Legal Profession (Qualified Persons) (Amendment) Rules 2009 (0.06MB)](/files/news/press-releases/2009/06/linkclick374f.pdf)  
 [Annex C - Legal Profession (Amendment) Rules 2009 (0.01MB)](/files/news/press-releases/2009/06/linkclicke77f.pdf)
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
