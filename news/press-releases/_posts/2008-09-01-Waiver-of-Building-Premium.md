@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waiver of Building Premium
-permalink: /news/press-releases/press-releases/waiver-of-building-premium
+permalink: /news/press-releases/waiver-of-building-premium
 breadcrumb: Press Releases
 collection_name: news
 ---
