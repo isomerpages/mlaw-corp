@@ -35,7 +35,7 @@ The Government has further reviewed the policy on the charging of a building pre
 
 For all categories of leases, lease extension will be considered only if the proposed use and tenure are aligned with the Government's planning intention and have the support of the relevant agencies.
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 
 <li>For <u>industrial</u> uses, the Government may allow lease extension if there is substantial investment on the land or property and the use is in line with the prevailing economic priorities.</li>
 
