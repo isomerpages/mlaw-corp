@@ -31,3 +31,6 @@ E-mail: ipto_romp@ipto.gov.sg
 **Attachments**
 
 [Consultation paper on Moneylenders Bill 2008 (0.17MB)](/files/news/press-releases/2008/08/linkclicke2d7.pdf)
+
+<p class="right-side-updated">Last updated on 26 Nov 2012</p>
+
