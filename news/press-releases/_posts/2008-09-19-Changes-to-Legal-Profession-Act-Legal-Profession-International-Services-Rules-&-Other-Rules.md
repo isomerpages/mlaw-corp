@@ -21,7 +21,7 @@ The changes under the LPA 2008 will be operationalized in 3 phases.
 All provisions in the LPA 2008 will be brought into force on 19 September 2008, except the following:
 
 
-1.Section 15(b) of the LPA 2008, which makes an amendment that is consequential to the enactment of the Legal Profession (Amendment) Act 2007. This section is deemed to have come into operation together with that Act on 1 June 2007;
+1. Section 15(b) of the LPA 2008, which makes an amendment that is consequential to the enactment of the Legal Profession (Amendment) Act 2007. This section is deemed to have come into operation together with that Act on 1 June 2007;
 
 2. Sections 2(c) and (f), 4, 5, 6, 7(a) and (b), 8, 9, 11, 26 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56 of the LPA 2008, which pertain to changes affecting the issuing of practising certificates, modifications to the disciplinary processes for solicitors and legal officers, and the new measures which may be adopted where the Attorney-General or the Council of the Law Society of Singapore is satisfied that a solicitor is incapacitated by any physical or mental condition to such extent as to be unable to attend to his practice, or that a solicitor's fitness to practise appears to have been impaired by reason of his physical or mental condition.
 
@@ -31,7 +31,7 @@ The following subsidiary legislation will also be brought into force on 19 Septe
 
 <ul>
 <li><a href="/files/news/press-releases/2008/09/linkclick5f14.pdf">Legal Profession (International Services) Rules 2008 (0.1MB)</a></li>
-<li><a href="/file/news/press-releases2008/09/linkclick8d3a.pdf">Legal Profession (Modified Application of Act for International Services) Rules 2008 (0.1MB)</a></li>
+<li><a href="/files/news/press-releases2008/09/linkclick8d3a.pdf">Legal Profession (Modified Application of Act for International Services) Rules 2008 (0.1MB)</a></li>
 <li>Legal Profession (Accountant's Report) (Amendment) Rules 2008</li>
 <li>Legal Profession (Solicitors' Accounts) (Amendment) Rules 2008</li>
 </ul>
@@ -48,7 +48,7 @@ Singapore solicitors wishing to practise Singapore Law in foreign entities in ac
 
 
 <ol style="list-style-type: lower-alpha; font-weight: bold;">
-<li>Register with the [International Services Secretariat of the Attorney-General's Chambers.](http://www.agc.gov.sg/lps/)</li>
+<li><a href="http://www.agc.gov.sg/lps/">Register with the International Services Secretariat of the Attorney-General's Chambers.</a></li>
 </ol>
 
 
