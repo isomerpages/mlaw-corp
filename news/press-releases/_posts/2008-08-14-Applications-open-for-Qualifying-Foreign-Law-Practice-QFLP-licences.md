@@ -10,7 +10,7 @@ collection_name: news
 
 1. The Singapore Government has announced plans to liberalise the legal services sector, through the introduction of a Qualifying Foreign Law Practice (QFLP) Scheme. <a href="#scheme"><sup>1</sup></a> The Scheme provides for licences to be given to foreign law practices (FLPs) to practise Singapore law in permitted areas through Singapore-qualified solicitors employed by them.
 
-2. Application forms for the QFLP licences are available from the Ministry of Law from today. Foreign law practices are invited to submit an application for a licence. The invitation for applications will close at **<u>4:00pm (Singapore time), 9 October 2008.**</u> 
+2. Application forms for the QFLP licences are available from the Ministry of Law from today. Foreign law practices are invited to submit an application for a licence. The invitation for applications will close at **<u>4:00pm (Singapore time), 9 October 2008.</u>** 
 
 3. The applications will be considered by an Evaluation Committee chaired by Mr Teo Ming Kian, Permanent Secretary, Ministry of Finance. The members will comprise Mr Heng Swee Keat, Managing Director, Monetary Authority of Singapore, Mr Peter Ong, Permanent Secretary, Ministry of Trade and Industry, Ms Chan Lai Fung, Permanent Secretary, Ministry of Law, and Mrs Koh Juat Jong, Solicitor-General, Attorney-General's Chambers.
 
