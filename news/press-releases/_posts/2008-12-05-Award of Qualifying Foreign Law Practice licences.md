@@ -43,7 +43,7 @@ collection_name: news
 
 **Attachments**
 
-[Transcript of Minister for Law's Opening Remarks (0.7MB)](/files/news/press-releases/2008/12/linkclickf8ea.pdf)
+[Transcript of Minister for Law's Opening Remarks (0.03MB)](/files/news/press-releases/2008/12/linkclick0411.pdf)
 
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
