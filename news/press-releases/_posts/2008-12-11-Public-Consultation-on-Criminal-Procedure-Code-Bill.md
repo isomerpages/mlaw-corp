@@ -12,10 +12,11 @@ collection_name: news
 **Update: The consultation period has been extended to 28 February 2009.**
 
 Ministry of Law  
-6 Jan 2009  
+6 Jan 2009   
+
 ---
 
-The Ministry of Law, together with the Attorney-General's Chambers and the Ministry of Home Affairs, are proposing the introduction of a Criminal Procedure Code Bill ("CPC Bill") to repeal and replace the current CPC. A copy of the draft CPC Bill is attached.
+1. The Ministry of Law, together with the Attorney-General's Chambers and the Ministry of Home Affairs, are proposing the introduction of a Criminal Procedure Code Bill ("CPC Bill") to repeal and replace the current CPC. A copy of the draft CPC Bill is attached.
 
 <ol start="2">
 <li>The proposed changes cover the following main areas:
@@ -54,8 +55,8 @@ The Ministry of Law, together with the Attorney-General's Chambers and the Minis
 <p class="address-centered">Fax: 6332 8842</p>
 <p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
-**Attachments**
-[Criminal Procedure Code Bill (0.7MB)](/files/news/press-releases/2008/12/linkclickf8ea.pdf)
+**Attachments**  
+[Criminal Procedure Code Bill (0.7MB)](/files/news/press-releases/2008/12/linkclickf8ea.pdf)  
 [Criminal Procedure Code Consultation Paper (0.09MB)](/files/news/press-releases/2008/12/linkclick15f8.pdf)
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
