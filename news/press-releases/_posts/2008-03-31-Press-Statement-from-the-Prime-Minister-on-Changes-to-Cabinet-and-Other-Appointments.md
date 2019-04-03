@@ -18,7 +18,7 @@ collection_name: news
 {:start="3"}
 3. Mr Tharman Shanmugaratnam will relinquish his appointment as Minister for Education and continue as Minister for Finance.
 
-{:start="5"}
+{:start="4"}
 4. Dr Ng Eng Hen will relinquish his appointment as Minister for Manpower, and will be appointed as Minister for Education. He will continue as Second Minister for Defence.
 
 {:start="5"}
