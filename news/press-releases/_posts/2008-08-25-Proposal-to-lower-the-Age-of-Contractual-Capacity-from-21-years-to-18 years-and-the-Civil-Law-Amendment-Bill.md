@@ -32,9 +32,9 @@ collection_name: news
 {:start="6"}
 6. MOF and MinLaw reserve the right to make public all or parts of any written submission unless confidentiality is specifically requested for the whole or any part of the submission.
 
-<u>Attachments</u>
-[Consultation paper (0.02MB)](/files/news/press-releases/2008/08/linkclick6c0c.pdf)
-[Draft Civil Law (Amendment) Bill 2008 (0.04MB)](/files/news/press-releases/2008/08/linkclick4c83.pdf)
+<u>Attachments</u>  
+[Consultation paper (0.02MB)](/files/news/press-releases/2008/08/linkclick6c0c.pdf)  
+[Draft Civil Law (Amendment) Bill 2008 (0.04MB)](/files/news/press-releases/2008/08/linkclick4c83.pdf)  
 
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
