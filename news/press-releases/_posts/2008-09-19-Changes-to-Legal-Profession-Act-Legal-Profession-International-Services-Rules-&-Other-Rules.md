@@ -31,7 +31,7 @@ The following subsidiary legislation will also be brought into force on 19 Septe
 
 <ul>
 <li><a href="/files/news/press-releases/2008/09/linkclick5f14.pdf">Legal Profession (International Services) Rules 2008 (0.1MB)</a></li>
-<li><a href="/files/news/press-releases2008/09/linkclick8d3a.pdf">Legal Profession (Modified Application of Act for International Services) Rules 2008 (0.1MB)</a></li>
+<li><a href="/files/news/press-releases/2008/09/linkclick8d3a.pdf">Legal Profession (Modified Application of Act for International Services) Rules 2008 (0.1MB)</a></li>
 <li>Legal Profession (Accountant's Report) (Amendment) Rules 2008</li>
 <li>Legal Profession (Solicitors' Accounts) (Amendment) Rules 2008</li>
 </ul>
@@ -48,7 +48,7 @@ Singapore solicitors wishing to practise Singapore Law in foreign entities in ac
 
 
 <ol style="list-style-type: lower-alpha; font-weight: bold;">
-<li><a href="http://www.agc.gov.sg/lps/">Register with the International Services Secretariat of the Attorney-General's Chambers.</a></li>
+<li>Register with the <a href="http://www.agc.gov.sg/lps/">International Services Secretariat of the Attorney-General's Chambers.</a></li>
 </ol>
 
 
@@ -73,7 +73,7 @@ The brief below outlines the key changes that will apply to foreign lawyers and 
 
 **[Updated on 22 Sept 2008]**
 <ul>
-<li><a href="/files/news/press-releases/2009/08/linkclick8265.pdf">Brief outlining changes (0.02MB)</a></li>
+<li><a href="/files/news/press-releases/2008/09/linkclick8265.pdf">Brief outlining changes (0.02MB)</a></li>
 </ul>
 
 
