@@ -42,7 +42,7 @@ collection_name: news
  
 
 {:start="4"}
-4. Consultation paper on legislative amendments to unsecured credit rules.
+4. [Consultation paper (0.4MB)](/files/news/press-releases/2007/12/linkclickcdee.pdf) on legislative amendments to unsecured credit rules.
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
