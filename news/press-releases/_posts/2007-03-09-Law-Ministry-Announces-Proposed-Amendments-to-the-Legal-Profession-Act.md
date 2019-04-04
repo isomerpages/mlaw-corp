@@ -7,7 +7,7 @@ collection_name: news
 
 9 Mar 2007 Posted in [Press releases](/news/press-releases)
 
-1. Senior Minister of State for Law Associate Professor Ho Peng Kee tabled the Legal Profession (Amendment) Bill in Parliament today. The main aim of the Bill is to implement the recommendations made by the Review Committee formed to evaluate the Joint Law Venture (JLV) and Formal Law Alliance (FLA) schemes, and the recommendations of the Third Committee of Supply of Lawyers. Both committees were chaired by former Attorney-General Chan Sek Keong. These recommendations were earlier publicised. <a href="#MinLaw"><sup>1</sup></a> 
+1. Senior Minister of State for Law Associate Professor Ho Peng Kee tabled the Legal Profession (Amendment) Bill in Parliament today. The main aim of the Bill is to implement the recommendations made by the Review Committee formed to evaluate the Joint Law Venture (JLV) and Formal Law Alliance (FLA) schemes, and the recommendations of the Third Committee of Supply of Lawyers. Both committees were chaired by former Attorney-General Chan Sek Keong. These recommendations were earlier publicised. <a href="#Minlaw"><sup>1</sup></a> 
 
 
 **Recommendations of the Review Committee on JLV and FLA Schemes** 
