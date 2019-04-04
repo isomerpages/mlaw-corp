@@ -8,14 +8,14 @@ collection_name: news
 
 6 Dec 2007 Posted in [Press releases](/news/press-releases)
 
-**<u>Update</u>**
+**<u>Update</u>**  
 Please note the amendment to paragraph 10 in the following press release.  
 Issued by Ministry of Law  
 7 Dec 2007  
 
 ---
 
-1. The Committee<<a href="#enclosure">sup>1</sup></a>  to comprehensively review the entire legal services sector and to propose measures to enhance Singapore's position as an international centre for the provision of legal services submitted its report and recommendations in September this year. The Government has accepted in principle the recommendations of the Committee.
+1. The Committee<a href="#enclosure">sup>1</sup></a>  to comprehensively review the entire legal services sector and to propose measures to enhance Singapore's position as an international centre for the provision of legal services submitted its report and recommendations in September this year. The Government has accepted in principle the recommendations of the Committee.
  
 
 2. The Committee has made many important proposals ranging from university education, postgraduate and professional training, liberalisation of legal services, and to disciplinary procedures.
@@ -107,7 +107,7 @@ However, domestic areas of litigation and general practice, for example, crimina
 13. The Government has accepted in-principle the Committee's recommendations in the areas of legal education and legal profession training. These proposals will support our vision of developing Singapore as a legal education hub. They include: compulsory continuing legal education (CLE) for all lawyers; the introduction of a Vocational Training Course (VTC) to replace the Practical Law Course; replacement of the pupillage programme with a training contract; and the establishment of an Institute of Legal Education (ILE), which will chart the development of post-university education including vocational training and CLE.
 
 {:start="14"}
-14. The findings and recommendations of the Committee can be found in Enclosure 3. The Government will work with relevant stakeholders to further study and implement the recommendations. For the recommendations made in relation to the National University of Singapore's Faculty of Law and the Singapore Management University's School of Law, the law schools will decide on the implementation in consultation with the Ministry of Education and the ILE.
+14. The *findings and recommendations* of the Committee can be found in *<u>Enclosure 3</u>*. The Government will work with relevant stakeholders to further study and implement the recommendations. For the recommendations made in relation to the National University of Singapore's Faculty of Law and the Singapore Management University's School of Law, the law schools will decide on the implementation in consultation with the Ministry of Education and the ILE.
 
 
 
@@ -117,7 +117,7 @@ However, domestic areas of litigation and general practice, for example, crimina
 15. There must be public confidence in the legal profession. Such confidence requires a sound disciplinary system for errant lawyers. The Honourable the Chief Justice raised the pressing need to revise and enhance the disciplinary process for the legal profession at the Opening of the Legal Year 2007. The changes to the disciplinary process recommended by the Committee, after consultation with the Chief Justice, the Law Society and members of the legal profession, seek to put in place measures to ensure that timely and effective action is taken against errant lawyers. For example, the Committee found that the average time taken by Disciplinary Committees to complete their cases doubled from 7.5 months in 2002 to 15.4 months in 2006. A Disciplinary Tribunal to replace the Disciplinary Committee is recommended to address this.
  
 {:start="16"}
-16. The findings and recommendations of the Committee can be found in *<u>Enclosure 4</u>*. The Government views these recommendations as positive moves to fine-tune and improve the disciplinary process for the legal profession.
+16. The *findings and recommendations* of the Committee can be found in *<u>Enclosure 4</u>*. The Government views these recommendations as positive moves to fine-tune and improve the disciplinary process for the legal profession.
 
 
 <u>Other Changes pertaining to the Legal Profession</u>
@@ -132,8 +132,8 @@ However, domestic areas of litigation and general practice, for example, crimina
 **<u>Attachments</u>**
 
 <ul>
-<li>Press release [enclosures (0.05MB)](/files/news/press-releases/2007/12/linkclick3d28.pdf) 1 to 5</li>
-<li>[Full report (0.6MB)](/files/news/press-releases/2007/12/linkclicke1d7.pdf) of the Committee to develop Singapore legal sector [118 pages]</li>
+<li><a href="/files/news/press-releases/2007/12/linkclick3d28.pdf">Press release enclosures 1 to 5 (0.05MB)</a></li>
+ <li><a href="/files/news/press-releases/2007/12/linkclicke1d7.pdf">Full report of the Committee to develop Singapore legal sector [118 pages](0.6MB)</a></li>
 </ul>
 
 
