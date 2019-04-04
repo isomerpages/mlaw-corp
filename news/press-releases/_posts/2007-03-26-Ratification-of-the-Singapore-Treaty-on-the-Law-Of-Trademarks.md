@@ -14,8 +14,8 @@ collection_name: news
 
 3. The ratification underscores Singapore's strong support for the objectives of the Treaty. To-date, more than 50 states have signed the Treaty, signalling their intention to ratify and be bound by the Treaty. The Treaty will enter into force three months after ten WIPO members have deposited their instruments of ratification or accession.
 
-4. Further information on the Treaty is available on the website of the WIPO at [http://www.wipo.int/treaties/en/ip/singapore/](http://www.wipo.int/treaties/en/ip/singapore/)
-
+4. Further information on the Treaty is available on the website of the WIPO at [http://www.wipo.int/treaties/en/ip/singapore/](http://www.wipo.int/treaties/en/ip/singapore/)  
+  
 Issued by: Ministry of Law and The Intellectual Property Office of Singapore - 26 March 2007
 
 
