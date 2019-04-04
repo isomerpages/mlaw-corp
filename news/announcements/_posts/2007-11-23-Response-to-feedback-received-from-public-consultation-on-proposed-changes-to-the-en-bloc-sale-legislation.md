@@ -44,7 +44,7 @@ collection_name: news
 </ol>
 
 To view MinLaw's full response to feedback received from the public consultation, [click here. (0.05MB)](/files/news/announcements/2007/11/linkclick196d.pdf)  
-To view the earlier public consultation paper, [click here.]() 
+To view the earlier public consultation paper, [click here.](/news/press-releases/public-to-be-consulted-on-proposed-changes-to-the-en-bloc-sale-legislation-2-april-to-12-may-2007) 
 
 <p class="right-side-updated">Last updated on 16 Jan 2013</p>
 
