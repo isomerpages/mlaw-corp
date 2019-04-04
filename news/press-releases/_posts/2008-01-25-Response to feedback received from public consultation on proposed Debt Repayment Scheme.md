@@ -18,7 +18,7 @@ collection_name: news
 4. A Bill is being drafted to introduce the DRS framework into the Bankruptcy Act. We will put up the draft Bill for public consultation in early 2008.
 
 <ul>
-<li>To view Annex A, please click <a href="/files/news/press-releases/2008/01/linkclick54f6.pdf">here (0.03MB)</a>/li>
+<li>To view Annex A, please click <a href="/files/news/press-releases/2008/01/linkclick54f6.pdf">here (0.03MB)</a></li>
 <li>To view Annex B, please click <a href="/files/news/press-releases/2008/01/linkclick5750.pdf">here (0.06MB)</a></li>
 </ul>
 
