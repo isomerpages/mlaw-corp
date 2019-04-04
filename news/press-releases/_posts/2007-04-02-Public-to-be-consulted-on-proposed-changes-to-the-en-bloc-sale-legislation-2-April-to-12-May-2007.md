@@ -89,7 +89,7 @@ Attn: Mr Gary Goh
 <li>Following evaluation of the feedback, the confirmed amendments are expected to be implemented by the third quarter of this year.
 <ul>
 <li>View the Consultation Paper on the Review of En Bloc Sale Legislation <a href="/files/news/press-releases/2007/04/linkclick2457.pdf">here (0.04MB)</a></li>
-<li>View the Draft Legislative Amendments to the Land Titles (Strata) Act <a href="/files/news/press=releases/2007/04/linkclickca8f.pdf">here (0.1MB)</a></li>
+<li>View the Draft Legislative Amendments to the Land Titles (Strata) Act <a href="/files/news/press-releases/2007/04/linkclickca8f.pdf">here (0.1MB)</a></li>
 </ul>
 </li>
 </ol>
