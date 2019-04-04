@@ -74,7 +74,7 @@ The Government has accepted the Committee's key recommendations.
 <u>Overseas Law Graduates</u>
 
 {:start="9"}
-9. Additional recognised overseas law schools: With regard to the supply of overseas law graduates, the Government agreed with the Third Committee that the current list of Overseas Scheduled Universities should be maintained. More schools may be added in the future under any Free Trade Agreements or Comprehensive Economic Cooperation Agreements.
+9. *Additional recognised overseas law schools:* With regard to the supply of overseas law graduates, the Government agreed with the Third Committee that the current list of Overseas Scheduled Universities should be maintained. More schools may be added in the future under any Free Trade Agreements or Comprehensive Economic Cooperation Agreements.
 
 {:start="10"}
 10. *Allowing Graduates with Second Class Lower Division Honours degrees to practise law:* The Government also agreed in-principle with the Committee's recommendation to allow Singaporean citizens or PRs who graduated from Overseas Scheduled Universities with Second Class (Lower Division) Honours to practice, provided they possess certain relevant work experience or qualifications. To ensure that the quality of our lawyers is maintained, in addition to the requirements (3 years relevant work experience or having the qualification as solicitors of Hong Kong or England & Wales), they will be interviewed by the Board of Legal Education (which will consider factors such as the actual results they obtained and the nature of their work experience). The Board of Legal Education will announce the details in the next two to three months.
@@ -104,7 +104,7 @@ The Government has accepted the Committee's key recommendations.
 </ol>
 
 Footnoes:
-<sup>[1] </sup> This will involve not requiring them to have:
+<p id="fn1"><sup>[1] </sup> This will involve not requiring them to have:</p>
 <ol style="list-style-type: lower-alpha">
 <li>
 <ol style="list-style-type: lower-roman">
@@ -118,7 +118,7 @@ completed and passed the Diploma in Singapore Law course (conducted by NUS) and 
 </ol>
 
 
-<sup>[2]</sup>Tier 1 and Tier 2 banking, finance and corporate work had been defined in the 1999 Report of the Legal Services Review Committee as follows:
+<p id="fn2"><sup>[2]</sup>Tier 1 and Tier 2 banking, finance and corporate work had been defined in the 1999 Report of the Legal Services Review Committee as follows:</p>
 
 <ul>
 <li>"Tier 1" legal software was described as the legal software required for "cutting edge" financial products and other strategic financial products as follows: products developed in connection with (i) project finance of infrastructure such as power, roads, water and telecommunications; (ii) international capital markets; (iii) asset securitisation; and (iv) structured finance including leasing and acquisitions (collectively referred to as "tier 1 financial products"). </li>
@@ -127,8 +127,8 @@ completed and passed the Diploma in Singapore Law course (conducted by NUS) and 
 
 **Attachments**
 
-[Factsheet 1 (0.04MB)](/files/news/press-releases/2006/08/linkclick62ed.pdf)
-[Factsheet 2 (0.01MB)](/files/news/press-releases/2006/08/linkclick745d.pdf)
+[Factsheet 1 (0.04MB)](/files/news/press-releases/2006/08/linkclick62ed.pdf)  
+[Factsheet 2 (0.01MB)](/files/news/press-releases/2006/08/linkclick745d.pdf)  
 [Remarks by DPM at Media Interview (0.05MB)](/files/news/press-releases/2006/08/linkclick5561.pdf)
 
 <p class="right-side-updated">Last updated on 24 Nov 2012</p>
