@@ -103,7 +103,7 @@ The Government has accepted the Committee's key recommendations.
 </li>
 </ol>
 
-Footnoes:
+Footnotes:
 <p id="fn1"><sup>[1] </sup> This will involve not requiring them to have:</p>
 <ol style="list-style-type: lower-alpha">
 <li>
