@@ -29,19 +29,22 @@ To view MinLaw's response to feedback received on the proposed Debt Repayment Sc
 
 **Public Consultation Exercise**
 
+{:start="8"}
 8. The Ministry of Law and IPTO will hold a public consultation on the proposed DRS. The public will have from **<u>23 April 2007 to 1 June 2007</u>** to review and comment on the proposed scheme. The feedback given will be taken into consideration in finalising the DRS. A second public consultation will be conducted subsequently on the draft legislation to enact the scheme.
 
+{:start="9"}
 9. The public consultation paper (see Annex I) can be viewed at IPTO's website [www.ipto.gov.sg](http://www.ipto.gov.sg/). The paper is also accessible through the Ministry of Law's website [www.minlaw.gov.sg](http://www.minlaw.gov.sg/) or the Government Consultation Portal - REACH's website at [www.reach.gov.sg](http://www.reach.gov.sg/).
 
+{:start="10"}
 10. All feedback should be submitted via email by 1 June 2007 to IPTO_drsfeedback@ipto.gov.sg or by mail to:
 
 
-<p class="right-side-updated">Attn: Ms Beverly Wee</p>
-<p class="right-side-updated">Debt Repayment Scheme Feedback</p>
-<p class="right-side-updated">Insolvency & Public Trustee's Office</p>
-<p class="right-side-updated">The URA Centre East Wing</p>
-<p class="right-side-updated">45 Maxwell Road, #06-11</p>
-<p class="right-side-updated">Singapore 069118</p>
+<p class="address-centered">Attn: Ms Beverly Wee</p>
+<p class="address-centered">Debt Repayment Scheme Feedback</p>
+<p class="address-centered">Insolvency & Public Trustee's Office</p>
+<p class="address-centered">The URA Centre East Wing</p>
+<p class="address-centered">45 Maxwell Road, #06-11</p>
+<p class="address-centered">Singapore 069118</p>
 
 <p class="right-side-updated">Last updated on 26 Jan 2013</p>
 
