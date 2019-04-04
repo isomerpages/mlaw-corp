@@ -15,7 +15,7 @@ Issued by Ministry of Law
 
 ---
 
-1. The Committee<a href="#enclosure">sup>1</sup></a>  to comprehensively review the entire legal services sector and to propose measures to enhance Singapore's position as an international centre for the provision of legal services submitted its report and recommendations in September this year. The Government has accepted in principle the recommendations of the Committee.
+1. The Committee<a href="#enclosure"><sup>1</sup></a>  to comprehensively review the entire legal services sector and to propose measures to enhance Singapore's position as an international centre for the provision of legal services submitted its report and recommendations in September this year. The Government has accepted in principle the recommendations of the Committee.
  
 
 2. The Committee has made many important proposals ranging from university education, postgraduate and professional training, liberalisation of legal services, and to disciplinary procedures.
@@ -91,7 +91,7 @@ However, domestic areas of litigation and general practice, for example, crimina
 </ol>
 
 {:start="10"}
-10. As this is a new scheme, the Government will issue up to five QFLF licenses. The QFLF scheme is significant in that this is the first formalised scheme in which FLFs will be able to practise Singapore law on their own without being part of a JLV with an SLF. It opens up a new avenue for FLFs, especially those which are not keen to go into any joint ventures, to participate in and contribute to the Singapore legal services market. The new scheme is expected to add greater diversity, competitiveness, and vibrancy to the legal market.
+10. As this is a new scheme, the Government will issue up to five QFLF licenses. The QFLF scheme is significant in that **this is the first formalised scheme in which** FLFs will be able to practise Singapore law on their own without being part of a JLV with an SLF. It opens up a new avenue for FLFs, especially those which are not keen to go into any joint ventures, to participate in and contribute to the Singapore legal services market. The new scheme is expected to add greater diversity, competitiveness, and vibrancy to the legal market.
 
 
 {:start="11"}
@@ -123,7 +123,7 @@ However, domestic areas of litigation and general practice, for example, crimina
 <u>Other Changes pertaining to the Legal Profession</u>
 
 {:start="17"}
-17. Other miscellaneous recommendations include proposals for work-life balance for lawyers, specialist accreditation, conditional fee arrangements and class actions. The findings and recommendations of the Committee can be found in Enclosure 5. The Ministry of Law will further study these issues with relevant stakeholders to develop these proposals further.
+17. Other miscellaneous recommendations include proposals for work-life balance for lawyers, specialist accreditation, conditional fee arrangements and class actions. The *findings and recommendations of the Committee* can be found in *<u>Enclosure 5</u>*. The Ministry of Law will further study these issues with relevant stakeholders to develop these proposals further.
 
 ---
 
