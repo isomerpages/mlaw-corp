@@ -79,11 +79,11 @@ To view MinLaw's response to feedback received on the proposed changes to the en
 {:start="4"}
 4. The public can forward their responses via email or by mail to:
 
-The Ministry of Law
-100 High Street
-The Treasury, #08-02
-Singapore 179434
-Attn: Mr Gary Goh
+The Ministry of Law  
+100 High Street  
+The Treasury, #08-02  
+Singapore 179434  
+Attn: Mr Gary Goh  
 
 <ol start="5">
 <li>Following evaluation of the feedback, the confirmed amendments are expected to be implemented by the third quarter of this year.
