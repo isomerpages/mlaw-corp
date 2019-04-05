@@ -23,10 +23,10 @@ collection_name: news
 **Key Features of the Bill**
 
 {:start="7"}
-7. The Bill targets falsehoods, not opinions and criticisms. The Bill defines a falsehood as a statement of fact that is false or misleading. It does not cover opinions, criticisms, satire or parody. Annex E sets out some examples of falsehoods and opinions to demonstrate the scope of the Bill.
+7. <u>The Bill targets falsehoods, not opinions and criticisms.</u> The Bill defines a falsehood as a statement of fact that is false or misleading. It does not cover opinions, criticisms, satire or parody. Annex E sets out some examples of falsehoods and opinions to demonstrate the scope of the Bill.
 
 {:start="8"}
-8. Corrections will be the primary action. Corrections will be the primary response to a harmful online falsehood that is actively spreading. Corrections will usually require the facts to be put up alongside the falsehood, so that the facts can travel together with the falsehood. Online platforms may also be required to ensure that those who previously saw the falsehood also see the correction (see Annex F for why this is needed).
+8. <u>Corrections will be the primary action.</u> Corrections will be the primary response to a harmful online falsehood that is actively spreading. Corrections will usually require the facts to be put up alongside the falsehood, so that the facts can travel together with the falsehood. Online platforms may also be required to ensure that those who previously saw the falsehood also see the correction (see Annex F for why this is needed).
 
 {:start="9"}
 9. The falsehood will not be removed; the facts will be put up alongside, so people can decide for themselves. Research shows that corrections work, and are an important antidote to falsehoods.
@@ -35,10 +35,10 @@ collection_name: news
 10. Corrections are not criminal sanctions (Annex G).
 
 {:start="11"}
-11. Criminal offences apply only to malicious actors. Only those who act to deliberately undermine society using falsehoods will be subject to the criminal offences.
+11. <u>Criminal offences apply only to malicious actors.</u> Only those who act to deliberately undermine society using falsehoods will be subject to the criminal offences.
 
 {:start="12"}
-12. The Courts will have the final say on what is false. Any decision by the Government on what is false can be overridden by the Courts on appeal. What is false is ultimately for the Courts to decide.
+12. <u>The Courts will have the final say on what is false.</u> Any decision by the Government on what is false can be overridden by the Courts on appeal. What is false is ultimately for the Courts to decide.
 
 {:start="13"}
 13. The Bill will not affect most average citizens. For most people, the right response is instead education and fact-checking. These are areas the Government is strengthening.
@@ -76,14 +76,14 @@ Please see Annex H – *Infographic on Four Key Things About the Bill*.
 
 *Annexes*  
 
-[Annex A: Consequences of Online Falsehoods (2.2MB)](/files/news/press-releases/2019/04/Annex A - Consequences of Online Falsehoods.pdf)
-[Annex B: International Developments (0.7MB)](/files/news/press-releases/2019/04/Annex B - International Approaches.pdf)
-[Annex C: Government’s Implementation of Select Committee’s Recommendations (0.15MB)](/files/news/press-releases/2019/04/Annex C - Govt implementation of SC recommendations.pdf)
-[Annex D: Factsheet on Public Education Initiatives (0.4MB)](/files/news/press-releases/2019/04/Annex D - Media Factsheet - Public Education Efforts.pdf)
-[Annex E: Infographic on Falsehood vs Opinion (0.1MB)](/files/news/press-releases/2019/04/Annex E - Falsehoods v Opinions.pdf)
-[Annex F: Infographic on Corrections (0.1MB)](/files/news/press-releases/2019/04/Annex F - Corrections.pdf)
-[Annex G: How Corrections and Criminal Sanctions Will Apply (0.09MB)](/files/news/press-releases/2019/04/Annex G - How Corrections and Criminal Sanctions Apply.pdf)
-[Annex H: Four Key Things About the Bill (0.1MB)](/files/news/press-releases/2019/04/Annex H - Four Key Things.pdf)
+[Annex A: Consequences of Online Falsehoods (2.2MB)](/files/news/press-releases/2019/04/Annex A - Consequences of Online Falsehoods.pdf)  
+[Annex B: International Developments (0.7MB)](/files/news/press-releases/2019/04/Annex B - International Approaches.pdf)  
+[Annex C: Government’s Implementation of Select Committee’s Recommendations (0.15MB)](/files/news/press-releases/2019/04/Annex C - Govt implementation of SC recommendations.pdf)  
+[Annex D: Factsheet on Public Education Initiatives (0.4MB)](/files/news/press-releases/2019/04/Annex D - Media Factsheet - Public Education Efforts.pdf)  
+[Annex E: Infographic on Falsehood vs Opinion (0.1MB)](/files/news/press-releases/2019/04/Annex E - Falsehoods v Opinions.pdf)  
+[Annex F: Infographic on Corrections (0.1MB)](/files/news/press-releases/2019/04/Annex F - Corrections.pdf)  
+[Annex G: How Corrections and Criminal Sanctions Will Apply (0.09MB)](/files/news/press-releases/2019/04/Annex G - How Corrections and Criminal Sanctions Apply.pdf)  
+[Annex H: Four Key Things About the Bill (0.1MB)](/files/news/press-releases/2019/04/Annex H - Four Key Things.pdf)  
 
 <p class="right-side-updated">Last updated on 02 Apr 2019</p>
 
