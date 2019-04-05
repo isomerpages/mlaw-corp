@@ -64,20 +64,20 @@ collection_name: news
 {:start="7"}
 7. A brief write-up on the new members and the full list of IPOS board members are attached in <u>Annex A</u>.
 
-**<u>Annex A</u>**
-**<u>New Board Members</u>**
-**Mr Nicky Tan**
-**CEO, nTan Corporate Advisory Pte Ltd**
+**<u>Annex A</u>**  
+**<u>New Board Members</u>**  
+**Mr Nicky Tan**  
+**CEO, nTan Corporate Advisory Pte Ltd**  
 
 Mr Nicky Tan currently runs nTan Corporate Advisory, a boutique corporate finance and corporate restructuring firm. Prior to forming his own consultancy firm, he was Partner and Head of Global Corporate Finance at Arthur Andersen Singapore and ASEAN. He was also previously Partner and Head of Financial Advisory Services at PricewaterhouseCoopers Singapore and Chairman of Financial Advisory Services at PricewaterhouseCoopers Asia Pacific. A qualified chartered accountant, Mr Tan is a member of the Institute of Singapore Chartered Accountants.
 
 
 
-**Mr Ted Tan**
-**Deputy Chief Executive Officer, Enterprise Singapore**
+**Mr Ted Tan**  
+**Deputy Chief Executive Officer, Enterprise Singapore**  
 Mr Ted Tan is the Deputy Chief Executive Officer of Enterprise Singapore, where he oversees the Industry Clusters. Prior to assuming his current role in April 2018, he was the Deputy Chief Executive of SPRING Singapore and International Enterprise (IE) Singapore. He is currently the Chairman of IPI and Chairman of SEEDS Capital Pte Ltd, as well as a Board Member of Advanced Remanufacturing and Technology Centre (ARTC), SMU Academy, and Singapore Academy of Law (SAL) Ventures Ltd.
 
-**<u>Board Members of Intellectual Property Office of Singapore (as of 1 April 2019)</u>**
+**<u>Board Members of Intellectual Property Office of Singapore (as of 1 April 2019)</u>**  
 
 **Chairman**  
 Dr Stanley Lai  
