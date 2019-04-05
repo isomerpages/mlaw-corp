@@ -31,7 +31,7 @@ Dr. Idris expressed his personal gratitude to the Government of Singapore for it
 
 Delegations representing the 183 WIPO member states as well as a number of intergovernmental organizations (IGOs) and non-governmental organizations (NGOs) are invited to participate in the conference. The proposed revision of the Trademark Law Treaty, which deals mainly with procedural aspects of trademark registration and licensing, will help to ensure that brand owners using the trademark system benefit from greater flexibilities and efficiencies in the delivery of trademark registration services. It will also bring the existing Trademark Law Treaty in line with the technological advances of the past decade.
 
-Background on the Trademark Law Treaty 
+*Background on the Trademark Law Treaty* 
 
 The Trademark Law Treaty (TLT) was concluded in 1994 with a view to streamlining and simplifying, on a worldwide basis, administrative procedures relating to national and regional trademark applications and the maintenance of trademark registrations. The TLT currently has 33 member countries. Companies seeking to clear and register trademarks or to license their brands must, as a first step, meet certain formal registration requirements in order to avoid rejection of their application and a consequent loss of rights. These formalities generally vary from one country to another and the TLT has successfully introduced standard requirements to be followed in procedures before trademark offices.
 
