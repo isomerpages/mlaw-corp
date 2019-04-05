@@ -129,7 +129,7 @@ Further, enhanced penalties will be introduced for subsequent breaches of POs an
 </table>
 
 <ol start="3">
-<li><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour</u>/li>
+<li><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour</u></li>
 </ol>
 
 {:start="15"}
