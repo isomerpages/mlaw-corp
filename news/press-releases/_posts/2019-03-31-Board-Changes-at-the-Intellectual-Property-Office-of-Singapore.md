@@ -64,8 +64,10 @@ collection_name: news
 {:start="7"}
 7. A brief write-up on the new members and the full list of IPOS board members are attached in <u>Annex A</u>.
 
-**<u>Annex A</u>**  
-**<u>New Board Members</u>**  
+**<u>Annex A</u>**
+  
+**<u>New Board Members</u>**
+  
 **Mr Nicky Tan**  
 **CEO, nTan Corporate Advisory Pte Ltd**  
 
