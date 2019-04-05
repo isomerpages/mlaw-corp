@@ -69,7 +69,7 @@ collection_name: news
 
 <ol style="list-style-type: lower-alpha">
 <li><u>Protection afforded by POs and EPOs will be enhanced.</u> POs and EPOs will be extended to protect persons related to the victim, as these persons are often at risk of violence from the harasser as well. Further, under the Bill, EPOs will remain in effect until the PO hearing is concluded. Additionally, it will be clarified that domestic exclusion orders (i.e. orders restraining the respondent from entering the applicant’s residence or parts of the residence) can be granted as part of a PO. This will ensure better protection for victims who may reside in the same residence as the harasser.</li>
-<li><u>Applications for POs will be facilitated.</u><For example, where a respondent has been convicted of a hurt-related offence, some of the conditions required for the grant of a PO will be deemed to be satisfied.</li>
+<li><u>Applications for POs will be facilitated.</u>For example, where a respondent has been convicted of a hurt-related offence, some of the conditions required for the grant of a PO will be deemed to be satisfied.</li>
 <li><u>Recourse for breaches of POs and EPOs will be strengthened.</u>The Bill will strengthen the remedies available when a PO or EPO is breached (so as to deter such conduct early). Community orders can be made for breaches of POs. Additionally, breaches of POs and EPOs will be deemed arrestable offences in prescribed circumstances (e.g., where there is hurt or continued harassment).</li>
 </ol>
 
