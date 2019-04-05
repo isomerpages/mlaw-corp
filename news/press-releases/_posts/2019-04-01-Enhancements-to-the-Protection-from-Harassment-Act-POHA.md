@@ -159,7 +159,7 @@ Further, enhanced penalties will be introduced for subsequent breaches of POs an
 
 **1 April 2019**
 
-*Annexes*
+*Annexes*  
 [Annex A: What are the key changes to POHA (0.03MB)](/files/news/press-releases/2019/04/AKeyChangesToPohaAct.pdf)    
 [Annex B: Greater protection for victims (0.02MB)](/files/news/press-releases/2019/04/B_Greater_Protection_From_Victim.pdf)    
 [Annex C: The Protection from Harassment Court -  Processes and General Timelines (0.02MB)](/files/news/press-releases/2019/04/C_court_processes_time.pdf)    
