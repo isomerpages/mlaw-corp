@@ -28,7 +28,7 @@ collection_name: news
 
 **Key Amendments**
 
-<ol style="list-style-type: upper-alpha">
+<ol style="list-style-type: upper-alpha; font-weight: bold;">
 <li>Establishment of a specialist court</li>
 </ol>
 
@@ -129,7 +129,7 @@ Further, enhanced penalties will be introduced for subsequent breaches of POs an
 </table>
 
 <ol start="3">
-<li><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour<</u>/li>
+<li><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour</u>/li>
 </ol>
 
 {:start="15"}
@@ -160,10 +160,10 @@ Further, enhanced penalties will be introduced for subsequent breaches of POs an
 **1 April 2019**
 
 *Annexes*
-[Annex A: What are the key changes to POHA (0.03MB)](/files/news/press-releases/2019/04/AKeyChangesToPohaAct.pdf)  
-[Annex B: Greater protection for victims (0.02MB)](/files/news/press-releases/2019/04/B_Greater_Protection_From_Victim.pdf)  
-[Annex C: The Protection from Harassment Court -  Processes and General Timelines (0.02MB)](/files/news/press-releases/2019/04/C_court_processes_time.pdf)  
-[Annex D: What is Doxxing (0.1MB)](/files/news/press-releases/2019/04/D_Doxxing_General.pdf)  
-[Annex E: Examples of Doxxing (0.7MB)](/files/news/press-releases/2019/04/E_Doxxing_Examples.pdf)
+[Annex A: What are the key changes to POHA (0.03MB)](/files/news/press-releases/2019/04/AKeyChangesToPohaAct.pdf)    
+[Annex B: Greater protection for victims (0.02MB)](/files/news/press-releases/2019/04/B_Greater_Protection_From_Victim.pdf)    
+[Annex C: The Protection from Harassment Court -  Processes and General Timelines (0.02MB)](/files/news/press-releases/2019/04/C_court_processes_time.pdf)    
+[Annex D: What is Doxxing (0.1MB)](/files/news/press-releases/2019/04/D_Doxxing_General.pdf)    
+[Annex E: Examples of Doxxing (0.7MB)](/files/news/press-releases/2019/04/E_Doxxing_Examples.pdf)  
 
 <p class="right-side-updated">Last updated on 02 Apr 2019</p>
