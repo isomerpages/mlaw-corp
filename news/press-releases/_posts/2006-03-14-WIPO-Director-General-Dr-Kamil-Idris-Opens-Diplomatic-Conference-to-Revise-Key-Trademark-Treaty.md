@@ -6,6 +6,8 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+14 Mar 2006 Posted in [Press releases](/news/press-releases)
+
 The Director General of the World Intellectual Property Organization (WIPO), Dr. Kamil Idris, in the presence of Singapore's Deputy Prime Minister, Professor S. Jayakumar, opened on Monday evening, March 13, 2006, a diplomatic conference on intellectual property (IP) for a new treaty in the field of trademarks. It is the first time that a diplomatic conference organized by WIPO is held in Asia. On Tuesday, March 14, 2006, Dr. Idris attended the first plenary session, which resulted in the election of Ambassador Burhan Gafoor, Singapore's Permanent Representative to the United Nations in Geneva, as President of the Diplomatic Conference for the Adoption of a Revised Trademark Law Treaty.
 
 Ambassador Gafoor thanked delegates for the confidence placed in him as President of Conference and pledged to "facilitate and lead the process of consensus building." He said the objective is clear, to bring the diplomatic conference to a successful conclusion. "We need to accomplish the task before us for the benefit of all stakeholders in the trademark system, the brand owners, consumers and member states, alike. We must not fail them," he said.
