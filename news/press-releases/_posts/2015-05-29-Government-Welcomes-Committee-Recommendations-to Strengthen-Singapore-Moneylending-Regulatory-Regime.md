@@ -33,3 +33,6 @@ collection_name: news
 {:start="5"}
 5. The Government remains committed to improving the professionalism of the moneylending industry to ensure borrowers are able to access credit safely.
 
+
+<p class="right-side-updated">Last updated on 16 Jun 2015
+</p>
