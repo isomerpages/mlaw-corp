@@ -41,7 +41,7 @@ collection_name: news
 
 <p id="onwards"><sup>[2]</sup> I.e. UK Academic Year commencing September/October 2016.</p>
 
-<p id="residents"><sup>[3]</up> Including National Servicemen who may apply to universities early and defer their enrolment</p>
+<p id="residents"><sup>[3]</sup> Including National Servicemen who may apply to universities early and defer their enrolment</p>
 
 <p id="list"><sup>[4]</sup> The omitted UK universities are: University of Exeter; University of Leeds; University of Leicester; University of Liverpool; School of Oriental and African Studies, University of London;  University of Manchester; University of Sheffield; and University of Southampton.</p>
 
