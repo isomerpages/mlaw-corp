@@ -27,7 +27,7 @@ This is the first review of the Registered Designs Act, which was first enacted 
 
 **Proposed issues**
 
-<ol start="3">
+<ol start="3" style="list-style-type: lower-roman">
 <li>The proposed issues which are being put up for public feedback fall into the following five categories:
 <ol>
 <li>Scope of protection - Whether IP protection should be extended to a wider range of subject matter. </li>
