@@ -9,7 +9,7 @@ collection_name: news
 
 4 Oct 2018 Posted in [Press releases](/news/press-releases)
 
-1. Today, the Ministry of Law (MinLaw) announced plans to extend the aggregate loan caps and the self-exclusion framework for borrowing from licensed moneylenders for Singapore Citizens (SCs) and Permanent Residents (PRs) to all foreigners residing in Singapore <sup>1</sup>, to better protect them and their employers from the effects of over-borrowing. To complement these measures, the Ministry of Manpower (MOM) will impose administrative penalties on foreign work pass holders who borrow from unlicensed moneylenders. MOM and the Police will also step up their education efforts for foreign work pass holders on the risks of borrowing.
+1. Today, the Ministry of Law (MinLaw) announced plans to extend the aggregate loan caps and the self-exclusion framework for borrowing from licensed moneylenders for Singapore Citizens (SCs) and Permanent Residents (PRs) to all foreigners residing in Singapore <sup>[1]</sup>, to better protect them and their employers from the effects of over-borrowing. To complement these measures, the Ministry of Manpower (MOM) will impose administrative penalties on foreign work pass holders who borrow from unlicensed moneylenders. MOM and the Police will also step up their education efforts for foreign work pass holders on the risks of borrowing.
 
 
 **Extending Protections for Borrowers of Licensed Moneylenders**
