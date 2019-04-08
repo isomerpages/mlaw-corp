@@ -58,7 +58,7 @@ This is the first review of the Registered Designs Act, which was first enacted 
 <p class="address-centered">Singapore 189554</p>
 
 <p class="address-centered">Email: ipos_consultation@ipos.gov.sg</p>
-
+<br>
 
 <p class="address-centered">Intellectual Property Policy Division, Ministry of Law</p>
 
@@ -72,9 +72,9 @@ This is the first review of the Registered Designs Act, which was first enacted 
 
 <p class="address-centered">E-mail: MLAW_Consultation@mlaw.gov.sg</p>
 
-**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
-**MINISTRY OF LAW**
-**12 OCTOBER 2015**
+**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**  
+**MINISTRY OF LAW**  
+**12 OCTOBER 2015**  
 
 
 <p class="right-side-updated">Last updated on 12 Oct 2015</p>
