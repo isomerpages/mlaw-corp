@@ -53,3 +53,43 @@ collection_name: news
 
 {:start="8"}
 8. The proposed caps should allow most moneylenders to continue to earn a reasonable return. Moneylenders will be incentivised to review their cost structures and undertake better credit risk assessment. Some level of consolidation is expected as less efficient operators leave the industry.
+
+
+**Moneylender business practices**
+
+{:start="9"}
+9. The Committee also made recommendations related to practices in the moneylending industry. In particular, it recommended that a formalised debt restructuring regime with collective representation of the moneylenders be introduced, and that moneylenders adhere to a standardised set of loan terms and practices, including guidelines on debt collection.
+
+ 
+{:start="10"}
+10. The full list of recommendations made by the Committee can be found in [Annex A (0.07MB)](/files/news/press-releases/2015/05/A.pdf).
+
+
+**Stakeholder consultation**
+
+{:start="11"}
+11. The recommendations were shared with members of the moneylending industry and voluntary welfare organisations (VWOs) that provide debt-management counselling, as well as grassroots leaders, at a conference organised by the Institute of Policy Studies.
+
+ 
+{:start="12"}
+12. The views of various stakeholder groups had been sought at various focus group discussions, and a conference held in November 2014.
+
+ 
+{:start="13"}
+13. Mr K Shanmugan, Minister for Law and Foreign Affairs, addressed stakeholder questions on several issues, including the controls on borrowing cost and the aggregate unsecured borrowing cap, at today’s conference.
+
+**Background**
+
+{:start="14"}
+14. Chaired by Mr Manu Bhaskaran, Director of Centennial Group International and Vice President of the Economics Society of Singapore, the Committee included representatives from the moneylending industry and VWOs, academics with expertise in finance-related areas, and Members of Parliament who have previously spoken on moneylending issues.
+
+ 
+{:start="15"}
+15. The full list of Committee members can be found in [Annex B (0.2MB)](/files/news/press-releases/2015/05/B.pdf).
+
+[Infographic on Controls on Borrowing Costs (JPG, 0.5MB)](/files/news/press-releases/2015/05/IG.JPG)
+[Final Report of the Advisory Committee on Moneylending (0.6MB)](/files/news/press-releases/2015/05/Rep.pdf)
+
+
+<p class="right-side-updated">Last updated on 16 Jun 2015</p>
+
