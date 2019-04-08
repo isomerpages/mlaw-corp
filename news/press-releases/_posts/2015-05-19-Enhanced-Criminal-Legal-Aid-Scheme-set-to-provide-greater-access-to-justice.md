@@ -19,16 +19,23 @@ collection_name: news
 <ol start="4">
 <li>To serve the potential bigger pool of people seeking assistance, having adequate lawyers and the support of law firms is critical. Therefore, the following three mechanisms to grow the pool of lawyers for CLAS have been implemented:
 
-<ol style="list-style-type: upper-roman; font-weight: bold;">
-<li>Lead Lawyers</li>
-Senior criminal law practitioners appointed as Lead Lawyers will provide basic legal advice, assess the merits of a case and decide on the level of aid to be given;
+<ol style="list-style-type: lower-roman">
+ <li><strong>Lead Lawyers</strong>
+<br>
+Senior criminal law practitioners appointed as Lead Lawyers will provide basic legal advice, assess the merits of a case and decide on the level of aid to be given;</li>
 
-<li>CLAS Fellows</li>
+
+
+<li><strong>LAS Fellows</strong>
+<br>
 Law firms will second or sponsor lawyers to work full-time at the Pro Bono Services Office exclusively on CLAS cases; and
+  
+</li>
 
-<li>MOUs</li>
+<li><strong>MOUs</strong>
+<br> 
 22 law firms thus far have pledged to take on more than 300 CLAS cases per year between them.
-
+</li>
 
 
 </ol>
@@ -68,5 +75,5 @@ Law firms will second or sponsor lawyers to work full-time at the Pro Bono Servi
 
 *Click [here (0.1MB)](/files/news/press-releases/2015/05/Enhanced CLAS_Infographic 1_for Media_FINAL.pdf) for a quick summary of the Enhanced Criminal Legal Aid Scheme.*
 
-<p class="address-centered">Last updated on 16 Jun 2015</p>
+<p class="right-side-updated">Last updated on 16 Jun 2015</p>
 
