@@ -10,7 +10,7 @@ collection_name: news
 
 1. The Ministry of Law (MinLaw) and the Intellectual Property Office of Singapore (IPOS) have today commenced a joint public consultation to seek feedback on proposed changes to Singapore’s registered designs regime. The public consultation will conclude on 7 December 2015.
 
-Current system
+**Current system**
 
 {:start="2"}
 2. Singapore’s current registered designs regime is governed by Registered Designs Act and the Copyright Act.  
