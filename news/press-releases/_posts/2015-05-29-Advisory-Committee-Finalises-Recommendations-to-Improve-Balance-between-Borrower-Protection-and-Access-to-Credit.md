@@ -87,7 +87,7 @@ collection_name: news
 {:start="15"}
 15. The full list of Committee members can be found in [Annex B (0.2MB)](/files/news/press-releases/2015/05/B.pdf).
 
-[Infographic on Controls on Borrowing Costs (JPG, 0.5MB)](/files/news/press-releases/2015/05/IG.JPG)
+[Infographic on Controls on Borrowing Costs (JPG, 0.5MB)](/files/news/press-releases/2015/05/IG.JPG)  
 [Final Report of the Advisory Committee on Moneylending (0.6MB)](/files/news/press-releases/2015/05/Rep.pdf)
 
 
