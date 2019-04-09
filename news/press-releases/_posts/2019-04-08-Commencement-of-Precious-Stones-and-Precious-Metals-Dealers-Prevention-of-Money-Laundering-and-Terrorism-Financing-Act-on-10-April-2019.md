@@ -29,7 +29,7 @@ collection_name: news
 
 <ol start="5">
 <li>Regulated dealers, unless exempted, will be required to comply with:
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li><u>Transaction-based requirements</u>, including filing cash transaction reports; filing suspicious transaction reports; performing customer due diligence (CDD) measures; and keeping records of transactions for which CDD measures are performed and information obtained through CDD measures; and</li>
 <li><u>Entity-based requirements</u>, including conducting ML/TF risk assessments of its customers and transactions; and putting in place internal policies, procedures and controls to mitigate these risks, amongst other requirements.</li>
 </ol>
@@ -46,7 +46,8 @@ collection_name: news
 7. For more information on the PSPM Act and for updates on the onboarding conferences and workshops, please refer to: [https://acd.mlaw.gov.sg](https://acd.mlaw.gov.sg/)
 
 
-**Annex A**
+**Annex A**  
+  
 [Brochure on Registration of Precious Stones and Precious Metals Dealers (PSMD)(0.2MB)](/files/news/press-releases/2019/04/Annex A Brochure on registration of PSPM Dealers.pdf)
 
 
