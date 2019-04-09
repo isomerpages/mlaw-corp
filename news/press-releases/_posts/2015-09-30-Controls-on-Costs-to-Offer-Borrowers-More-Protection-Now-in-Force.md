@@ -6,6 +6,7 @@ breadcrumbs: Press Releases
 collection_name: news
 ---
 
+30 Sep 2015 Posted in [Press releases](/news/press-releases)
 
 1. From 1 October 2015, the Ministry of Law (MinLaw) will implement new controls on the cost of borrowing from licensed moneylenders.
 
@@ -58,6 +59,8 @@ collection_name: news
 {:start="10"}
 10. The Government has accepted 12 of the 15 recommendations and will be implementing them progressively starting from 1 October 2015. The remaining three recommendations will be reviewed in time, as the industry adapts to the regulatory changes.
 
+
+[Infographic on New Controls on Borrowing Costs (0.09MB)](/files/news/press-releases/2015/09//Moneylending - Infographic.pdf)
 
 <p class="right-side-updated">Last updated on 30 Sep 2015</p>
 
