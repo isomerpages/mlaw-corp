@@ -49,3 +49,6 @@ collection_name: news
 **Annex A**
 [Brochure on Registration of Precious Stones and Precious Metals Dealers (PSMD)(0.2MB)](/files/news/press-releases/2019/04/Annex A Brochure on registration of PSPM Dealers.pdf)
 
+
+<p class="right-side-updated">Last updated on 08 Apr 2019</p>
+
