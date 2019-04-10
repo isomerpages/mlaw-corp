@@ -54,6 +54,13 @@ Ladies and Gentlemen
 
 7. Before I turn to these issues, it would be useful to recall the desired outcomes of business legal convergence.
 
+<ol start="2" style="list-style-type: upper-roman;font-weight: bold">
+<li>DESIRED OUTCOMES</li>
+</ol>
+
+
+8. These  stem from our economic reality.
+
 <ol start="9">
 <li>In our region, trade and investments are growing at a rapid rate.</li>
 <ol style="list-style-type: lower-alpha;">
@@ -66,6 +73,21 @@ Ladies and Gentlemen
 </li>
 </ol>
 </ol>
+
+
+<ol start="10">
+ <li> As Asian countries, our shared goal is to unlock our future economic potential and sustain our economic growth and development, for the benefit of the people. You are probably familiar with two important initiatives – the ASEAN Economic Community (or AEC), and the Belt and Road Initiative.
+ 
+ <ol style="list-style-type: lower-alpha">
+ <li> The AEC enjoys the commitment of all ASEAN Member States to achieve regional economic integration. It aims to provide access to opportunities in ASEAN’s market of US$2.6 trillion and over 622 million people.</li>
+ <li><The Belt and Road Initiative, initiated by China, is stimulating the creation of new economic opportunities for the region./li>
+ </ol>
+ 
+
+ 
+ </li>
+ </ol>
+
 <ol start="17">
 <li>On contracts: Businesses may face uncertainty as to how the law will determine what contractual rights and obligations they have. Singapore has used legal convergence to give businesses greater clarity about what rules govern their cross-border contracts, both offline and online.
 <ol style="list-style-type: lower-alpha;">
