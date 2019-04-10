@@ -178,7 +178,7 @@ Ladies and Gentlemen
 28. We believe that the reforms to our insolvency laws have started to bear fruit.
  
 {:start="29"} 
-29. Adoption of the Model Law was well received by the international community – one of the reasons Singapore was awarded ‘Most Improved Jurisdiction’ at the inaugural Global Restructuring Review awards ceremony in London in 2017.
+29. Adoption of the Model Law was well received by the international community – one of the reasons Singapore was awarded <u>‘Most Improved Jurisdiction’ at the inaugural Global Restructuring Review awards ceremony</u> in London in 2017.
 
 {:start="30"} 
 30. <u>In over a year and a half</u> after the 2017 Companies Act came into force, our Courts have seen <u>more than 100 applications made under the new provisions</u>.  Notable cases include <u>Nam Cheong, Hoe Leong, and H&C S Holdings.</u>
@@ -286,9 +286,9 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
 {:start="43"}
 43. Thank you, and I hope you enjoy the rest of the Conference and that your stay in Singapore is fruitful.
 
-<sup>[1]</sup> World Trade Statistical Review 2018, World Trade Organisation
-<sup>[2]</sup> The World in 2050 (2017), PWC Report
-<sup>[3]</sup> The World in 2050 (2017), PWC Report
+<sup>[1]</sup> World Trade Statistical Review 2018, World Trade Organisation  
+<sup>[2]</sup> The World in 2050 (2017), PWC Report  
+<sup>[3]</sup> The World in 2050 (2017), PWC Report  
 <sup>[4]</sup> Enhanced stay provision: automatic 30-day moratorium against creditor action immediately upon the filing of an application by the debtor company. This applies even if the restructuring proposal has not been fully worked out and there is only an intention to present a restructuring proposal as soon as practicable. The court can extend the moratorium if it is satisfied there are good reasons to do so. (s 211B(8) of Companies Act).
 
 
