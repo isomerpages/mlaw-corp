@@ -16,7 +16,7 @@ Judges
 Distinguished Delegates  
 Ladies and Gentlemen
 
-<ol style="list-style-type: upper-roman";font-weight: bold;">
+<ol style="list-style-type: upper-roman; font-weight: bold;">
 <li><u>INTRODUCTION</u></li>
 </ol>
 
@@ -51,14 +51,14 @@ Ladies and Gentlemen
 </li>
 </ol>
 
-
+{:start="7"}
 7. Before I turn to these issues, it would be useful to recall the desired outcomes of business legal convergence.
 
 <ol start="2" style="list-style-type: upper-roman;font-weight: bold">
-<li>DESIRED OUTCOMES</li>
+ <li><u>DESIRED OUTCOMES</u></li>
 </ol>
 
-
+{:start="8"}
 8. These  stem from our economic reality.
 
 <ol start="9">
@@ -87,6 +87,45 @@ Ladies and Gentlemen
  
  </li>
  </ol>
+ 
+{:start="11"} 
+11. However, businesses in Asia have said that they face difficulties tapping on these huge economic opportunities. The difficulties they have identified include trade restrictive measures, such as those relating to cross-border data transfers, as well as cross-border regulatory complexities, such as legal uncertainty and the poor enforcement of judgments.
+
+ 
+{:start="12"}
+12. In summary, from the business perspective, Asia’s cross-border legal infrastructure is not yet adequately supporting the region’s economic aspirations.
+
+ 
+{:start="13"}
+13. Legal convergence can provide solutions to these business challenges, by providing a robust cross-border legal infrastructure that facilitates access to economic opportunities for businesses.  This will in turn animate the achievement of prosperity for our people.
+
+ 
+{:start="14"}
+14. This also requires a stable and transparent rules-based environment, where the rule of law is upheld.
+ 
+<ol start="3" style="list-style-type: upper-roman; ">
+<li><u>SINGAPORE’S EXPERIENCE</u></li>
+</ol>
+ 
+{:start="15"} 
+15. Let me turn now to Singapore’s experience. I think our experience has demonstrated the value of legal convergence.
+
+<ol start="16">
+ <li> I will briefly touch on examples of how Singapore has harnessed international legal convergence efforts to give our businesses needed legal certainty. In various areas of business operations, different countries have applied different legal rules and approaches. Sometimes, it is not clear what legal rules a country will apply. There have been international efforts to establish clear and uniform rules that countries can adopt in their national laws.  I will focus on efforts in three fundamental areas of business operations:
+ 
+<ol style="list-style-type: lower-alpha">
+ 
+<li>First, on contracts - for the formation of business relationships and transactions.</li>
+<li> Second, on dispute resolution – to deal with the curve-balls that disrupt business relationships.</li>
+<li>Third, on re-structuring and insolvency – for businesses that have run into financial trouble.</li>
+</ol>
+ 
+ 
+ 
+</li>
+</ol>
+
+*Contacts*
 
 <ol start="17">
 <li>On contracts: Businesses may face uncertainty as to how the law will determine what contractual rights and obligations they have. Singapore has used legal convergence to give businesses greater clarity about what rules govern their cross-border contracts, both offline and online.
@@ -114,6 +153,15 @@ Ladies and Gentlemen
 </ol>
 </li>
 </ol>
+
+*Re-structuring and insolvency*
+
+
+{:start="19"}
+19. Businesses involved in cross-border insolvency or re-structuring have run into difficulties coordinating their efforts across the different countries in which they have assets. For example, it is often uncertain whether an insolvency proceeding will be recognised in the other countries where the business has its assets.  That is why Singapore enacted legislation in 2017 to adopt the UNCITRAL Model Law on Cross-Border Insolvency, which provides a uniform framework to help address these difficulties.
+
+*Value reaped*
+
 <ol start="20">
 <li>These are some of the ways in which Singapore has used legal convergence to provide solutions to business challenges. The value of legal convergence, when implemented effectively, is reflected by Singapore&rsquo;s record.</li>
 <ol style="list-style-type: lower-alpha;">
@@ -138,6 +186,51 @@ Ladies and Gentlemen
 </ol>
 </li>
 </ol>
+
+<ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
+<li>ADVANCING LEGAL CONVERGENCE IN ASIA</li>
+</ol>
+
+{:start="22"}
+22. Let me now come to the legal convergence project in Asia.
+
+{:start="23"}
+23. Greater legal convergence will benefit the region, not just Singapore. It is in our common interest for the region to unlock its economic potential, so that we may prosper together.
+
+<ol start="24">
+<li>As more countries come on board the Asian legal convergence project, I would like to humbly suggest three guiding principles.
+ 
+<ol style="list-style-type: lower-alpha">
+ 
+ 
+<li>First, convergence should be relevant to real business needs. It should be able to help solve real business challenges. Convergence is a means, not an ends.</li>
+
+ 
+
+<li>Second, there should be inclusive representation of interested countries in the process. Different perspectives need to be taken into account. Laws need to operate in diverse local environments.</li>
+
+ 
+
+<li>Third, convergence should be respectful of the region’s diverse legal traditions and systems. Complete uniformity is not always required or desirable. It may seem paradoxical, but legal convergence can and should accommodate diversity. Hence, a range of legal convergence tools has been developed to accommodate different degrees of diversity, from treaties, to model laws, to guiding principles.</li>
+ 
+ 
+</ol>
+ 
+</li> 
+</ol>
+
+{:start="25"}
+25. In short, three “Rs” - Relevance, Representation, and Respect.
+
+ 
+{:start="26"}
+26. Singapore is happy to support and facilitate the process of Asian legal convergence. Several things are being done.
+
+
+{:start="27"}
+27. One is that Singapore continues to support UNCITRAL’s work, as it has for a long time. Singapore has been actively involved in drafting UNCITRAL texts, and has adopted several. These important texts provide businesses, lawyers and judges with a common reference point and language, regardless of their nationality or legal tradition.
+
+
 <ol start="28">
 <li>The Ministry of Law is also supporting the work of ABLI, which the Chief Justice spoke about just now. I have a few reflections on ABLI&rsquo;s work.
 <ol style="list-style-type: lower-alpha;">
@@ -149,7 +242,7 @@ Ladies and Gentlemen
 </ol>
 </li>
 <li>ABLI&rsquo;s Foreign Judgments Project is of particular interest, as the Ministry of Law oversees Singapore&rsquo;s foreign judgments policy.
-<ol style="list-style-type: lower-roman;">
+<ol style="list-style-type: lower-roman; font-weight: bold;">
 <li>The high quality of analysis of the compendium of country reports published in December last year gave us valuable insight into our region&rsquo;s legal landscape.</li>
 <li>We look forward to the Statement of Principles that will be produced in the second phase of this Project. It will be an unprecedented common reference point for policy-makers around the region to understand the legal gaps that we may need to fill, and how we could do so. The work involved is complex, and could be successful only with the help of some of our region&rsquo;s leading legal experts.</li>
 </ol>
@@ -157,3 +250,64 @@ Ladies and Gentlemen
 </ol>
 </li>
 </ol>
+
+{:start="29"}
+29. I am confident that ABLI’s ground-up and context-specific work will achieve its aim of being a unique and important enabler of legal convergence in the region.    
+
+<ol start="30">
+<li>Another exciting effort is the recent launch of the ASEAN Law Academy by the Centre for International Law at the National University of Singapore.
+ 
+ <ol style="list-style-type: lower-alpha">
+ 
+ 
+ <li>The Academy was announced by Singapore’s Prime Minister Mr Lee Hsien Loong at the 32nd ASEAN Summit in April this year.</li>
+
+ 
+
+<li>The inaugural ASEAN Law Academy is taking place right now.</li>
+
+ 
+
+<li>It aims to promote a greater understanding of the different legal systems in ASEAN, to enhance legal integration.</li> 
+
+ 
+
+<li>It emphasises effectiveness through a collaborative and practice-based approach.</li>
+ 
+ 
+ 
+ </ol>
+ 
+ </li> 
+</ol>
+
+
+{:start="31"}
+31. ABLI and the ASEAN Law Academy are equipping the region’s legal professionals to understand each other despite their different “legal languages”. This cultivates a supportive environment for the legal convergence project to grow.
+
+ 
+{:start="32"}
+32. Legal convergence in Asia is growing in momentum. This week, as the Chief Justice has mentioned, Singapore is pleased to host several major events relevant to legal convergence, not least the present UNCITRAL ABLI Emergence Conference.
+
+
+<ol start="4" style="list-style-type: upper-roman; ">
+<li>Conclusion</li>
+</ol>
+
+{:start="33"}
+33. These are all serious efforts, which is heartening.
+
+ 
+{:start="34"}
+34. A 2017 report by UNESCAP found that a lack of political commitment to develop common solutions for cross-border commerce cost one region over US$54 billion per year in lost export opportunities.  
+
+ 
+{:start="35"}
+35. Thankfully, there is growing political will in the region to advance legal convergence. Singapore is here to support and facilitate this project.
+
+ 
+{:start="36"}
+36. Thank you for giving me your attention this morning. I am sure that you will have a fruitful Conference today.
+
+<p class="right-side-updated">Last updated on 25 Jul 2018</p>
+
