@@ -139,3 +139,42 @@ Distinguished Judges, distinguished ladies and gentlemen
 </li>
 </ol>
 
+<ol start="12">
+<li>Singapore is in a  unique position to bridge this infrastructure gap.
+
+<ol style="list-style-type: lower-alpha">
+<li>We are developing ourselves as an infrastructure hub for Asia, to connect supply and demand, where                         infrastructure-related expertise, financing, and support can come together.</li>
+ <li>   We have built up our own expertise in infrastructure, arising from our own experience in urbanisation. This                   technical knowledge can be put to good use to serve the region’s needs.</li>
+ <li> As an international financial centre, we are a one-stop shop for all the infrastructure financing and project                    structuring needs for the region.
+      
+ <ol style="list-style-type: lower-roman">
+ <li>  The World Bank’s first Infrastructure and Urban Development Hub is situated in Singapore,
+ co-locating the International Finance Corporation (IFC) and the Multilateral Investment Guarantee                              Agency (MIGA). They provide a critical source of project structuring knowledge and financing.</li>
+<li>Through the Hub, regional governments can access the Global Infrastructure Facility (GIF), which                              facilitates the preparation and structuring of complex infrastructure public-private partnerships.                                    Singapore is a founding funding partner of GIF.<sup>[5]</sup> </li>
+          
+<li>  Our strong position in world capital markets makes us an ideal place to raise financing and mobilise                            investments.</li>
+<li> Our banks have a deep understanding of Asia’s infrastructure investment needs, and a track record of                        financing projects. </li>
+          
+</ol>
+      
+      </li>
+      
+      <li>
+        And of course, we also have strong professional services to support infrastructure work.
+        
+        <ol style="list-style-type: lower-roman">
+          <li>Our largest accounting firms – PwC, Deloitte, Ernst & Young and KPMG – provide project advisory                              services to the region, including in financial optimisation, model development and stress testing.</li>
+          <li>
+              As an international legal services hub, we are also able to provide strong advice on infrastructure                               work.
+            <ul>
+              <li>Our 5 largest Singapore Law Practices – Allen & Gledhill, Dentons Rodyk & Davidson, Drew &                                    Napier, Rajah & Tann and WongPartnership – are the largest in Southeast Asia, with strong                                        regional practices.</li>
+              <li> Top international law firms here, such as Latham & Watkins and Allen & Overy, to name just a few,                              have active infrastructure practices.  </li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+      
+    </ol>
+    
+</li>
+</ol>
