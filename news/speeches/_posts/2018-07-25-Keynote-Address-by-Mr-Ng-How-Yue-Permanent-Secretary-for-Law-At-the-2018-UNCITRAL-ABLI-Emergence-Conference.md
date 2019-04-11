@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keynote Address by Mr Ng How Yue, Permanent Secretary for Law, At the 2018 UNCITRAL ABLI Emergence Conference
-permalink: /news/speeches/opening-address-sms-edwin-tong-jones-day-professorship-commercial-law-lecture
+permalink: /news/speeches/Keynote-Address-Ng-How-Yue-Permanen-Secretary-for-Law-2018-UNCITRAL-ABLI-Emergence-Conference
 breadcrumb: Speeches
 collection_name: news
 ---
