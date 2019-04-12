@@ -343,8 +343,8 @@ Parties who resolve their infrastructure disputes in Singapore can also tap on a
 
 <ol start="31">
 <li>We continually review our laws to ensure they remain arbitration-friendly.
-<ol start="lower-roman">
- <li>Last year, we introduced a legislative framework for third-party funding, to provide arbitration users                              with an additional financing tool. This was in response to feedback that there was demand for such                            funding in international arbitration cases.</li> 
+<ol style="list-style-type: lower-roman">
+<li>Last year, we introduced a legislative framework for third-party funding, to provide arbitration users                              with an additional financing tool. This was in response to feedback that there was demand for such funding in international arbitration cases.</li> 
 </ol> 
 </li> 
 </ol>
@@ -377,7 +377,7 @@ Parties who resolve their infrastructure disputes in Singapore can also tap on a
 {:start="35"}
 35. There are synergies between what the Government and institutions can do. The SIAC and the Government have a strong collaborative approach. That is the reason why Singapore and SIAC are today the world’s 3<sup>rd</sup> most preferred seat and institution respectively. It is the result of this collaboration. However to take arbitration further, we want to partner with all the stakeholders in international arbitration, such as yourselves – those of you who are here today. We hope to work with you to do even better.
 
-<ol start="6">
+<ol start="6" style="list-style-type: upper-roman; font-weight: bold;">
 <li>Conclusion</li> 
 </ol>
 
