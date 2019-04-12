@@ -57,8 +57,8 @@ Ladies and gentlemen, fellow members of the legal profession,
 5. So, we’ve done well as the numbers are not bad. But, we still have some way to go. So what are the challenges?
 
 
-<ol style="list-style-type: upper-roman">
-<li>Challenges</li>
+<ol style="list-style-type: upper-roman; font-weight: bold;">
+ <li><u>Challenges</u></li>
 </ol>
 
 
@@ -89,7 +89,7 @@ Ladies and gentlemen, fellow members of the legal profession,
 </ol>
 
 <ol start="2" style="list-style-type: upper-roman; font-weight: bold;">
-<li>So, what does it takes to succeed ?</li>
+ <li><u>So, what does it takes to succeed ?</u></li>
 </ol>
 
 {:start="7"}
@@ -235,13 +235,13 @@ Ladies and gentlemen, fellow members of the legal profession,
 
 
 <sup>[1]</sup>[https://www.thetimes.co.uk/article/top-law-firms-lose-their-magic-for-women-in-senior-roles-fsnp552lv](https://www.thetimes.co.uk/article/top-law-firms-lose-their-magic-for-women-in-senior-roles-fsnp552lv)  
-<sup>[2]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
-<sup>[3]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
+<sup>[2]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf (0.24MB)](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
+<sup>[3]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf (0.24MB)](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
 <sup>[4]</sup> In 2017, there were a total of 842 male law undergraduates and 731 female undergraduates at NUS and SMU. Figures excludes SUSS, whose first intake of students started classes in 2017.    
 <sup>[5]</sup> In 2017, there were 2,975 male lawyers and 2,216 female lawyers holding practising certificates. Source: Law Society of Singapore.  
 <sup>[6]</sup> This includes Senior Judges and Judicial Commissioners. Source: Supreme Court.  
 <sup>[7]</sup> 177 out of 379 partners in the six firms that responded were women.  
-[www.legalbusinessonline.com/features/closing-gender-divide/74579](http://www.legalbusinessonline.com/features/closing-gender-divide/74579) 
+[www.legalbusinessonline.com/features/closing-gender-divide/74579](http://www.legalbusinessonline.com/features/closing-gender-divide/74579)   
 <sup>[8]</sup> Source: Singapore Academy of Law  
 <sup>[9]</sup> 1 in 4 employees in science and technology sector were women. Source: Speech by Second Minister for Manpower at the SUTD Conference on Women in Technology and Design, 15 January 2018.  
 <sup>[10]</sup> Speech by Minister in the Prime Minister’s Office Josephine Teo at Committee of Supply Debate, 1 March 2018.  
