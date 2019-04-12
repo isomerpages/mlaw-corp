@@ -86,7 +86,7 @@ collection_name: news
 
  
 {:start="19"}
-19. There is no doubt too as we move into the new age that information technology will support, replace or more likely disrupt the way disputes are settled. [8] Online dispute resolution already exists, and this is one tool which I think more and more are considering to be a serious viable option, or even as a substitute to arbitration or mediation. As artificial intelligence continues to draw from the well of human intelligence, it is not a stretch that one day AI can help to negotiate with parties to identify and locate, and also to bring parties together from two ends of a spectrum into a more common agreeable zone.
+19. There is no doubt too as we move into the new age that information technology will support, replace or more likely disrupt the way disputes are settled. <sup>[8]</sup> Online dispute resolution already exists, and this is one tool which I think more and more are considering to be a serious viable option, or even as a substitute to arbitration or mediation. As artificial intelligence continues to draw from the well of human intelligence, it is not a stretch that one day AI can help to negotiate with parties to identify and locate, and also to bring parties together from two ends of a spectrum into a more common agreeable zone.
 
 **Seizing the Opportunities**
 
@@ -103,14 +103,14 @@ collection_name: news
 
  
 
-<sup>[1]</sup> Chair and co-chair of the Law Society’s ADR Committee
-<sup>[2]</sup> Asian Development Bank, Asian Development Outlook 2018, April 2018.
-<sup>[3]</sup> ADR Principles and Practice at 2-030.
-<sup>[4]</sup> Susan Blake, Julie Browne, Stuart Sime, The Jackson ADR Handbook (Oxford University Press, 2013) (“Jackson”) at 22.05.
-<sup>[5]</sup> Seals and another v Williams [2015] EWHC 1829 (Ch).
+<sup>[1]</sup> Chair and co-chair of the Law Society’s ADR Committee  
+<sup>[2]</sup> Asian Development Bank, Asian Development Outlook 2018, April 2018.  
+<sup>[3]</sup> ADR Principles and Practice at 2-030.  
+<sup>[4]</sup> Susan Blake, Julie Browne, Stuart Sime, The Jackson ADR Handbook (Oxford University Press, 2013) (“Jackson”) at 22.05.  
+<sup>[5]</sup> Seals and another v Williams [2015] EWHC 1829 (Ch).  
 <sup>[6]</sup> Arnold Ingen-Housz (ed), ADR in Business: Practice and Issues across Countries and Cultures, Volume II (Wolters Kluwer Law & Business, 2011) (“ADR in Business”) at p 366.  
-<sup>[7]</sup> Richard Susskind, Tomorrow’s Lawyers (Oxford University Press, 2013) at pp 85–86.
-<sup>[8]</sup> Tania Sourdin, “Justice and Technological Innovation” (1 Dec 2015), Journal of Judicial Administration (Volume 25, 2).
-<sup>[9]</sup> Law Society Neutral Evaluation and Determination Scheme Handbook; Law Society Arbitration Scheme Handbook 2017.
+<sup>[7]</sup> Richard Susskind, Tomorrow’s Lawyers (Oxford University Press, 2013) at pp 85–86.  
+<sup>[8]</sup> Tania Sourdin, “Justice and Technological Innovation” (1 Dec 2015), Journal of Judicial Administration (Volume 25, 2).  
+<sup>[9]</sup> Law Society Neutral Evaluation and Determination Scheme Handbook; Law Society Arbitration Scheme Handbook 2017.  
 
 <p class="right-side-updated">Last updated on 21 Sep 2018</p>
