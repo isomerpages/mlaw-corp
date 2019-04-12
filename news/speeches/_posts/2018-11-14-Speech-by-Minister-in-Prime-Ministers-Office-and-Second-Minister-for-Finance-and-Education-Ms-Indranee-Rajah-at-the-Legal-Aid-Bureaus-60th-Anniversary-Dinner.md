@@ -11,12 +11,19 @@ collection_name: news
 **INTRODUCTION**
 
 The Honourable Justice Debbie Ong, Presiding Judge of the Family Justice Courts  
-Judicial Commissioner, Tan Puay Boon  
-Registrar of the Supreme Court, Vincent Hoong  
-Director of Legal Aid, Lim Hui Min, and former Directors of Legal Aid  
-Distinguished guests  
-Colleagues  
-Members of the Bar  
+<br>
+Judicial Commissioner, Tan Puay Boon
+<br>
+Registrar of the Supreme Court, Vincent Hoong
+<br>
+Director of Legal Aid, Lim Hui Min, and former Directors of Legal Aid
+<br>
+Distinguished guests
+<br>
+Colleagues
+<br>
+Members of the Bar
+<br>
 Ladies and gentlemen  
 
 1. Good evening.
