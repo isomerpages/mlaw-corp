@@ -80,7 +80,7 @@ Ladies and gentlemen
 <ol start="11">
 <li>Having good dispute resolution facilities can make a big difference to the entire experience.  What we aim to do is to support you by making the environment conducive, and the hearings as fuss-free as possible, in practical ways. These include:
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 
 <li>Easy booking of rooms, for whenever you need them;</li>
 
