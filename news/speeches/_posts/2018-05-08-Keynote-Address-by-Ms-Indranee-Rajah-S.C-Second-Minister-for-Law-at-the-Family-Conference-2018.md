@@ -101,7 +101,7 @@ Ladies and Gentlemen,*
 <ol start="22">
 <li> Again, those kinds of things have an impact on the children. So, that is why family law is different.
 <ol style="list-style-type:lower-alpha">
-<li>Impact on divorcing couples</li>
+<li><strong>Impact on divorcing couples</strong></li>
 </ol>
 </li>
 </ol>
@@ -112,8 +112,8 @@ Ladies and Gentlemen,*
 <ol start="24">
 <li>The Holmes and Rahe Stress Scale – which contains a list of stressful life events – ranks divorce as the second most stressful life event after the death of a spouse.
 
-<ol start="2" style="lower-alpha">
-<li> Impact of divorce and domestic violence on children</li>
+<ol start="2" style="list-style-type: lower-alpha">
+<li><strong>Impact of divorce and domestic violence on children</strong></li>
 </ol>
 </li>
 </ol>
@@ -176,7 +176,7 @@ Ladies and Gentlemen,*
 <ol start="35">
 <li>The recommendations in our report included:
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 
 <li>the setting up the Family Courts. So that is why, Debbie, I am very happy to see you here today as the second presiding judge of the Family Courts. That is really the implementation of the recommendations we made. On 1 October 2014, that was when for the first time, a specialised family court structure was formed. We set up the Family Justice Courts, comprising the High Court (Family Division), the Family Court, and the Youth Court.    </li>
 
@@ -286,12 +286,12 @@ Ladies and Gentlemen,*
 57.Parties themselves will have to adopt a new mindset. But, obviously, that is not something that is going to happen spontaneously. So, they are going to have to be helped along the way by judges, lawyers and the Government.
 
  
-
-58.          To take this forward, we have set up an inter-agency committee to Review and Enhance Reforms in the Family Justice System ("RERF Committee"). We set that up in November 2017. That is basically Family Justice Reforms Version 2.0 to see how we can move forward.
+{:start="58"}
+58. To take this forward, we have set up an inter-agency committee to Review and Enhance Reforms in the Family Justice System ("RERF Committee"). We set that up in November 2017. That is basically Family Justice Reforms Version 2.0 to see how we can move forward.
 
  
-
-59.          The RERF Committee is going to look at how family justice can further benefit from the restorative and therapeutic components of justice. Some aspects the RERF Committee is looking at include the promotion of alternative and multi-disciplinary approaches to conflict resolution and measures to empower the parties to make decisions that are in their children's best interests.
+{:start="59"}
+59. The RERF Committee is going to look at how family justice can further benefit from the restorative and therapeutic components of justice. Some aspects the RERF Committee is looking at include the promotion of alternative and multi-disciplinary approaches to conflict resolution and measures to empower the parties to make decisions that are in their children's best interests.
 
 
 
@@ -299,23 +299,23 @@ Ladies and Gentlemen,*
 <li>   Emphasising non-adversarial modes of conflict resolution</li>
 </ol>
 
-
+{:start="60"}
 60.          Let me touch briefly on non-adversarial modes of conflict resolution. Because of the nature of family cases as I have described, really the better way is not so much litigating but more of mediation and counselling.
 
  
-
+{:start="61"}
 61.          Mediation and counselling have long featured as an integral component of family justice. But, there is much potential for it to be used more, and we must build up our capacity in this area. Good mediators and counsellors are needed. We have some very good ones, but we need more.  We also need good counsel. And this type of alternative dispute resolution requires a different set of skills.
 
  
-
+{:start="62"}
 62.          This is one of the reasons why we set up the third law school at the Singapore University of Social Sciences (SUSS). That is going to be an important pipeline in our capacity building for family lawyers. It focuses on family and criminal law, but importantly, it brings a multi-disciplinary perspective to our family justice system.
 
  
-
+{:start="63"}
 63.          Their curriculum includes modules in mediation and interest-based conflict resolution. Electives, reflecting the most current challenges facing the family justice system such as cross-border issues are also offered.  Leslie Chew, who is the Dean of the SUSS Law School is right here, so he can answer your questions on the curriculum at the end of the session. 
 
  
-
+{:start="64"}
 64.          In addition, there is a practicum component comprising a legal clerkship in the final six months of the students' studies. Their experience as mid-career professionals who have worked in related fields like social work, will allow them to view the family justice system with lenses that go beyond the purely legal.  
 
 
