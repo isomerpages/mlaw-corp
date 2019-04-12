@@ -71,7 +71,7 @@ Ladies and Gentlemen
 12. Businesses will find in Singapore laws that are responsive and keenly attuned to their needs. We keep abreast of commercial developments and international best practices, knowing that the law cannot remain static in this age.
  
 {:start="13"} 
-13. For example, on restructuring and insolvency, we have, over the years, strengthened our corporate rehabilitation processes and our capability to deal with cross-border restructuring and insolvency cases. These steps were taken in response to the changing needs of the market as communicated to us by the industry, and were sensitive to the global developments in insolvency and restructuring. 
+13. For example, on <u>restructuring and insolvency</u>, we have, over the years, strengthened our corporate rehabilitation processes and our capability to deal with cross-border restructuring and insolvency cases. These steps were taken in response to the changing needs of the market as communicated to us by the industry, and were sensitive to the global developments in insolvency and restructuring. 
  
 {:start="14"} 
 14. As a global financial centre, while we want businesses set up here to thrive, we also want to provide them with the best possible tools and regime to restructure when they fall into trying times and help them get back on their feet. Hence, we seek to provide a comprehensive suite of options for these businesses and transactions from start to end.  
@@ -122,7 +122,7 @@ Ladies and Gentlemen
 <ol style="list-style-type: lower-alpha">
 
 <li>97 recommendations were submitted by the Committee in October 2013, including for Cross-border Insolvency reform.</li>
-<li>Among these, the Committee recommended adoption of the Model Law for a few reasons, including the need for a comprehensive and predictable framework for cross-border restructuring, which would enhance clarity and certainty for the industry.</li>
+<li>Among these, the Committee <u>recommended adoption of the Model Law</u> for a few reasons, including the need for a comprehensive and predictable framework for cross-border restructuring, which would enhance clarity and certainty for the industry.</li>
 
 
 </ol>
@@ -148,7 +148,7 @@ Ladies and Gentlemen
 24. In <u>May 2014</u>, after a process of public consultation, the Government issued its response to the Committee’s report, and in particular accepted the recommendation to adopt the Model Law.
 
 <ol start="25">
-<li>On the issue of <u>reciprocity</u> – a policy decision was made not to impose a requirement for reciprocity. This stemmed from a conscious effort to keep Singapore open and was consistent with our support for a universalist approach to insolvency and restructuring.</li>
+<li>On the issue of <u>reciprocity</u> – a policy decision was made not to impose a requirement for reciprocity. This stemmed from a conscious effort to keep Singapore <strong>open and was consistent with our support</strong> for a universalist approach to insolvency and restructuring.</li>
 
 <ol style="list-style-type: lower-alpha">
 <li>   Only a small number of countries have imposed a reciprocity requirement, while Singapore has historically enjoyed the benefits of other countries’ enactment of the Model Law, e.g. the US’ Chapter 15, and the UK’s Cross-Border Insolvency Regulations, neither of which imposed reciprocity.</li>
@@ -158,7 +158,7 @@ Ladies and Gentlemen
 </ol>
 
 {:start="26"}
-26. On the issue of exclusions, the Government decided to exclude certain classes of entities/persons from the Model Law. This motivated by the need to **stay practical and sensible to commercial realities** in practice.
+26. On the issue of <u>exclusions,</u> the Government decided to exclude certain classes of entities/persons from the Model Law. This motivated by the need to **stay practical and sensible to commercial realities** in practice.
 
 <ol style="list-style-type: lower-alpha">
 <li>There are 2 classes of exclusion:</li>
