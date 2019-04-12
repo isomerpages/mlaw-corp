@@ -166,7 +166,7 @@ Ladies and Gentlemen,
 38. The abusers usually cut them off - from family and friends, and keep them virtually as prisoners, mentally and physically.
 
 
-**Real Life Examples**
+**<u>Real Life Examples</u>**
 
 {:start="39"}
 39. In BBC earlier this week, a man spoke about how his wrists were cut down to the vein with a bread knife.
