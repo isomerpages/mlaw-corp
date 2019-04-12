@@ -80,7 +80,7 @@ Ladies and Gentlemen
  
  <ol style="list-style-type: lower-alpha">
  <li> The AEC enjoys the commitment of all ASEAN Member States to achieve regional economic integration. It aims to provide access to opportunities in ASEAN’s market of US$2.6 trillion and over 622 million people.</li>
- <li><The Belt and Road Initiative, initiated by China, is stimulating the creation of new economic opportunities for the region./li>
+ <li>The Belt and Road Initiative, initiated by China, is stimulating the creation of new economic opportunities for the region.</li>
  </ol>
  
 
