@@ -104,7 +104,7 @@ Good evening.
 <ol style="list-style-type: lower-alpha;">
 <li>Last year, MinLaw, together with LawSoc and SPRING Singapore (now Enterprise Singapore) launched Tech Start for Law to help Singapore law practices attain a baseline level of technology.
 <ol style="list-style-type: lower-roman;">
-<li><strong>115</strong> Singapore law practices benefited from the programme and adopted more than 140 technology solutions. 99% of the participating law firms were small and medium firms. This is a good start.</li>
+<li><strong>115</strong> Singapore law practices benefited from the programme and adopted <strong>more than 140 technology solutions</strong>. 99% of the participating law firms were small and medium firms. This is a good start.</li>
 </ol>
 </li>
 <li>For law firms which have the appetite to transform their practices by conducting more innovative activities, there are tailored government schemes available, depending on the firm&rsquo;s needs and plans. Come to us with a plan and we are prepared to facilitate.</li>
@@ -136,6 +136,7 @@ Good evening.
 </ol>
 </li>
 </ol>
+
 
 {:start="14"}
 14. How much our legal sector benefits from technology in the future depends on what we do today. It is our hope that all in the sector will work with the Ministry to leverage technology to enhance Singapore’s status as an international legal services hub.
