@@ -35,7 +35,7 @@ Distinguished Judges, distinguished ladies and gentlemen
 <ol style="list-style-type: lower-alpha">
 
 <li>SIAC is now the 3<sup>rd</sup> most preferred arbitral institution in the world; and</li>
-<li>Singapore is now 3<sup>rd</up> most preferred seat of arbitration globally.<sup>[1]</sup></li> 
+<li>Singapore is now 3<sup>rd</sup> most preferred seat of arbitration globally.<sup>[1]</sup></li> 
 <li>This also means that SIAC and Singapore are now the most preferred institution and seat in Asia.</li>
 
 </ol>
