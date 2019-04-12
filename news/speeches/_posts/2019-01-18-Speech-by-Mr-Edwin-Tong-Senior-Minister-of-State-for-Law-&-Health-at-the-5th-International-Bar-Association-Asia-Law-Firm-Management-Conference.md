@@ -9,7 +9,7 @@ collection_name: news
 
 18 Jan 2019 Posted in [Speeches](/news/speeches)
 
-Distinguished guests,
+Distinguished guests,  
 Ladies and gentlemen,
 
 1. First of all, let me warmly welcome you to Singapore.  In terms of legal industry and legal reform, we have seen so much. But at the same time, we do see that there is also so much more we can learn from each other. Being in a room like this, in a room full of so many distinguished leaders of successful firms in Asia and beyond, I think we can certainly learn a lot from each other, not just amongst ourselves but also from the policy-makers’ perspective, so I look forward to chatting with you over lunch.
@@ -153,7 +153,7 @@ Ladies and gentlemen,
 <ol start="34">
 <li>We also have programmes to help law firms develop talent. The SkillsFuture Study Award for the legal sector offers Singaporean lawyers SGD$5,000 to defray out-of-pocket expenses for two eligible courses, and these are: 
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>The Singapore Academy of Law - INSEAD Law Firm Leadership Programme, a three-day intensive management programme specifically designed and contextualised to address the needs of leaders of law firms such as yourselves, and</li>
 <li>the UK’s Qualified Lawyers Transfer Scheme, which allows lawyers to pursue dual qualification as a solicitor of England and Wales. The thinking is that having the dual qualification enhances their standing and allows them also to offer a service that they previously did not have.</li>
 </ol>
@@ -226,20 +226,20 @@ Ladies and gentlemen,
 46. I wish to end off here by saying that you have not been having your lunch so I’ll step off this podium shortly. I do want to end by commending the efforts of IBA and of course all of you. IBA continues to lead the field on law firm management skills, talking about and trying to bring about change, in a way which I think the legal fraternity would need, and also takes the lead in so many other ways.  I know that the IBA’s membership has grown from 34 in 1947 to now more than 190 bar associations spanning across 170 countries. In that way alone, the voice that IBA has is strong, powerful, influential, and certainly I would encourage you to take the lead in encouraging change to happen amongst lawyers not just in Asia, as is the focus today, but really right across the world. And keep Singapore at the forefront of that development as well. With that, thank you very much, you can really now have your lunch!
 
 
-<sup>[1]</sup> Mr Jerry Koh, Conference Co-Chair, Deputy Managing Partner, Allen & Gledhill LLP, Singapore
-<sup>[2]</sup> Larry E. Ribstein, “The Death of Big Law”, 1 August 2010, Wisconsin Law Review, Vol. 2010, No. 3 2010. 
-<sup>[3]</sup> Richard Susskind,  “The End of Lawyers?: Rethinking the nature of legal services”, 2008, Oxford University Press
-<sup>[4]</sup> ALM Intelligence, Elephants in the Room, Part I: The Big Four’s Expansion in the Legal Services Market, 2017,
-<sup>[5]</sup> Alternative Legal Service Providers – Understanding the growth and benefits of these new legal providers, Thomson Reuters, 2 May 2017
-<sup>[6]</sup> Center for the Study of the Legal Profession at the Georgetown University Law Center, Thomson Reuters Legal Executive Institute and Peer Monitor: 2018 Report on the State of the Legal Market.
-<sup>[7]</sup> https://www.michbar.org/file/barjournal/article/documents/pdf4article1834.pdf
-<sup>[8]</sup> https://www.sfo.gov.uk/2018/04/10/ai-powered-robo-lawyer-helps-step-up-the-sfos-fight-against-economic-crime/
-<sup>[9]</sup> https://www.pwc.com/gx/en/services/advisory/forensics/economic-crime-survey.html
-<sup>[10]</sup> https://www.ft.com/content/19dc6b3a-64f7-11e8-a39d-4df188287fff
-<sup>[11]</sup> [https://www.sra.org.uk/sra/how-we-work/reports/first-tier-complaints.page](https://www.sra.org.uk/sra/how-we-work/reports/first-tier-complaints.page)
-<sup>[12]</sup> Economic Outlook for Southeast Asia, China and India 2018, Fostering Growth Through Digitalisation OECD.
-<sup>[13]</sup> The Business Times, Positioning ASEAN for Further Economic Growth, 29 Aug 2018.
-<sup>[14]</sup> Fitch Ratings BRI report, 2018
+<sup>[1]</sup> Mr Jerry Koh, Conference Co-Chair, Deputy Managing Partner, Allen & Gledhill LLP, Singapore  
+<sup>[2]</sup> Larry E. Ribstein, “The Death of Big Law”, 1 August 2010, Wisconsin Law Review, Vol. 2010, No. 3 2010.   
+<sup>[3]</sup> Richard Susskind,  “The End of Lawyers?: Rethinking the nature of legal services”, 2008, Oxford University Press  
+<sup>[4]</sup> ALM Intelligence, Elephants in the Room, Part I: The Big Four’s Expansion in the Legal Services Market, 2017,  
+<sup>[5]</sup> Alternative Legal Service Providers – Understanding the growth and benefits of these new legal providers, Thomson Reuters, 2 May 2017  
+<sup>[6]</sup> Center for the Study of the Legal Profession at the Georgetown University Law Center, Thomson Reuters Legal Executive Institute and Peer Monitor: 2018 Report on the State of the Legal Market.  
+<sup>[7]</sup> https://www.michbar.org/file/barjournal/article/documents/pdf4article1834.pdf  
+<sup>[8]</sup> https://www.sfo.gov.uk/2018/04/10/ai-powered-robo-lawyer-helps-step-up-the-sfos-fight-against-economic-crime/  
+<sup>[9]</sup> https://www.pwc.com/gx/en/services/advisory/forensics/economic-crime-survey.html  
+<sup>[10]</sup> https://www.ft.com/content/19dc6b3a-64f7-11e8-a39d-4df188287fff  
+<sup>[11]</sup> [https://www.sra.org.uk/sra/how-we-work/reports/first-tier-complaints.page](https://www.sra.org.uk/sra/how-we-work/reports/first-tier-complaints.page)  
+<sup>[12]</sup> Economic Outlook for Southeast Asia, China and India 2018, Fostering Growth Through Digitalisation OECD.  
+<sup>[13]</sup> The Business Times, Positioning ASEAN for Further Economic Growth, 29 Aug 2018.  
+<sup>[14]</sup> Fitch Ratings BRI report, 2018  
 
 
 <p class="right-side-updated">Last updated on 31 Jan 2019</p>
