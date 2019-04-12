@@ -138,13 +138,8 @@ Good evening.
 </ol>
 
 
-{:start="14"}  
-14. How much our legal sector benefits from technology in the future depends on what we do today. It is our hope that all in the sector will work with the Ministry to leverage technology to enhance Singapore’s status as an international legal services hub.
 
- 
-{:start="15"}  
-15. Thank you and I wish you all a fruitful discussion this evening. 
 
-t
+
 <p class="right-side-updated">Last updated on 04 Sep 2018</p>
 
