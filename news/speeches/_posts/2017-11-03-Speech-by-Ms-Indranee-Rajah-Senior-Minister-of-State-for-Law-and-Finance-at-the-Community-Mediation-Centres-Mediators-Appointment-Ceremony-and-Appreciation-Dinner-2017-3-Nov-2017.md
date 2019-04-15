@@ -15,19 +15,25 @@ collection_name: news
 
 **Appreciating and recognising contributions of volunteer mediators**
 
-
+{:start="2"}
 2. As a volunteer mediator, you are the bridge between two parties who are in conflict within the community. It sounds simple in theory, but in practice as you know, this requires a delicate balance. You have to remain impartial and objective while getting both sides to come to an agreement and the real challenge is when two sides have had long-standing misperceptions of each other and then simply refuse to be the first to ‘soften their stance’.
- 
+
+{:start="3"}
 3. In March this year, during a Meet-the-People Session in my constituency, an elderly constituent in her 60s approached me regarding a long-standing disagreement she had with her neighbours. I decided to refer her case to the Community Mediation Centre (CMC) because I thought that both sides would benefit from the face to face communication during mediation.  I shall refer to them as Madam T and Mr G, to protect their privacy.
  
+{:start="4"} 
 4. Madam T and her children live along the same corridor as her neighbour Mr G and his family. Madam T’s frustration with Mr G and his family arose from the objects that they often placed outside and the activities that they would carry out along the corridor. All of you must be familiar with this kind of issue. Now, Madam T was certain they were doing this intentionally to upset her.
  
+{:start="5"} 
 5. I understand that during the mediation, Mr G shared that the dispute started when Madam T’s unit was splashed with paint by unknown persons. In another incident, Mr G’s shoes were mistakenly left on Madam T’s bicycle by Town Council workers who were cleaning the corridor. These two incidents aggravated the misunderstanding between the two neighbours. Mr G also claimed Madam T’s family would scold him and his family whenever they walked past her unit. And it didn’t help of course that he would retaliate in kind. Such behaviour dragged on for a long time and left both families emotionally drained.
  
+{:start="6"} 
 6. I learnt that our two volunteer mediators controlled the process tactfully, and they allowed the emotionally distressed Madam T to air her frustrations. You know what it’s like, they need to get it off their chest. Through the joint and caucus sessions, the two mediators ensured that despite the heated moments, the discussion remained constructive.  And eventually, both parties agreed to look past their differences and came to a settlement.
  
+{:start="7"} 
 7. So this case of Madam T and Mr G is just one of over 8,000 cases that have been handled by the CMC since its inception in 1998. Today, 19 years on, more than 70% of the cases that came through CMC are resolved.
  
+{:start="8"}
 8. This is only possible because of dedicated volunteer mediators like yourselves. Because of your desire to help these parties, you are prepared to take the time out of your professional and personal schedules to mediate the cases and attend continuous training to remain relevant in your skills. I am glad to see that some of you have brought along a family member to join us in the celebrations this evening. It is because of the strong support from your family and employers that you are able to invest your time volunteering at the CMC. So I would like to affirm the good work put in by all of you and your continued commitment. So thank you all and please do keep it up.
  
 **Developing the skills of its mediators**
