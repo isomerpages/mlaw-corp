@@ -107,7 +107,6 @@ Distinguished guests, ladies and gentlemen
 <ol style="list-style-type: lower-alpha">
 <li>For example, the 1980 Hague Convention on the Civil Aspects of International Child Abduction helps parents whose children are taken from them to another country, in breach of their custody rights. If that country is a party to this Convention, like Singapore is, that country must give the parent the right to apply to them for assistance in securing the child’s return.</li>
 <li>The cross-border enforcement of court judgments and arbitral awards is another example. Cross-border legal disputes are rising. States are therefore entering into international agreements to help secure the enforcement of their court judgments or arbitral awards in other countries.
-<li></li>
 <ol style="list-style-type: lower-roman">
 <li>One well-known example of course is the New York Convention on the Recognition and Enforcement of Arbitral Awards and Singapore has been a party to this Convention since 1986,</li>
 <li>More recently, in 2015, the Hague Convention on Choice of Court Agreements entered into force, which provides for States to enforce judgments by courts chosen by the parties. Singapore was among the first to ratify this Convention, which is a significant step forward for promoting legal certainty in cross-border disputes.  </li>
@@ -145,9 +144,13 @@ Distinguished guests, ladies and gentlemen
 {:start="14"} 
 14. It will also become more common in private legal practice for our lawyers to turn to international law to pursue a client’s interests. Lawyers and legal academics in private law will find themselves increasingly confronted with issues of international law and practice.   
 
-<ol start="15" style="list-style-type: upper-roman; font-weight: bold;">
+<ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
 <li><u>Shaping International Law</u></li>
 </ol>
+
+{:start="15"}
+15. The requirements of legal practice are one reason for developing international law expertise. But there is a more fundamental reason: Singapore should not simply be a recipient of international law. We must also be active in helping to shape it.
+
 
 {:start="16"} 
 16. International law, like domestic law, embodies values and policy choices that are continually contested and negotiated. For a brief illustration, we can look to the interpretation of international investment treaties by international investment tribunals. Some investment arbitrators are said to have brought with them a private law lens, and adopted interpretations that prioritise contractual sanctity. Others have argued that the issues in dispute concern public law issues, and advocated for the adoption of a public law approach instead.[5] So here, we see the schism between public and private law values.
@@ -254,15 +257,15 @@ Distinguished guests, ladies and gentlemen
 {:start="26"} 
 26. Thank you very much, and I wish you all a good conference. 
 
-<sup>[1]</sup> See Article 2(1) of the United Nations Charter.
-<sup>[2]</sup> E.g. Compañía de Aguas del Aconquija S.A. and Vivendi Universal v. Argentine Republic (ICSID Case no. ARB/97/3); Aguas Provinciales de Santa Fe, S.A., Suez, Sociedad General de Aguas de Barcelona, S.A. and Interagua Servicios Integrales de Agua, S.A. v. Argentine Republic (Case no. ARB/03/17).
-<sup>[3]</sup> Chevron Corp. v Republic of Ecuador, PCA Case No. 2009-23.
-<sup>[4]</sup> See eg. Article 8 of the International Convention for the Suppression of Terrorist Bombings. 
-<sup>[5]</sup> Louis T. Wells, Backlash to Investment Arbitration: Three Causes, The Backlash against Investment Arbitration. Perceptions and Reality, Waibel et. al. eds., (Kluwer Law International: The Netherlands), 2010, 342.
-<sup>[6]</sup> See e.g. Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations (Cambridge University Press: Cambridge), 2017. 
-<sup>[7]</sup> See e.g. the Council of Europe’s Convention on Cybercrime. 
-<sup>[8]</sup> UN Open-Ended Inter-Governmental Working Group on Transnational Corporations and Other Business Enterprises.
-<sup>[9]</sup> See Lecture by Chief Justice Sundaresh Menon, The impact of public international law in the commercial sphere and its significance to Asia, (19 April 2013, organised jointly by the International Council of Jurists and the University of Mumbai) at <sup>[52]</sup> and <sup>[53]</sup>.
+<sup>[1]</sup> See Article 2(1) of the United Nations Charter.  
+<sup>[2]</sup> E.g. Compañía de Aguas del Aconquija S.A. and Vivendi Universal v. Argentine Republic (ICSID Case no. ARB/97/3); Aguas Provinciales de Santa Fe, S.A., Suez, Sociedad General de Aguas de Barcelona, S.A. and Interagua Servicios Integrales de Agua, S.A. v. Argentine Republic (Case no. ARB/03/17).  
+<sup>[3]</sup> Chevron Corp. v Republic of Ecuador, PCA Case No. 2009-23.  
+<sup>[4]</sup> See eg. Article 8 of the International Convention for the Suppression of Terrorist Bombings.   
+<sup>[5]</sup> Louis T. Wells, Backlash to Investment Arbitration: Three Causes, The Backlash against Investment Arbitration.   Perceptions and Reality, Waibel et. al. eds., (Kluwer Law International: The Netherlands), 2010, 342.  
+<sup>[6]</sup> See e.g. Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations (Cambridge University Press: Cambridge), 2017.     
+<sup>[7]</sup> See e.g. the Council of Europe’s Convention on Cybercrime.  
+<sup>[8]</sup> UN Open-Ended Inter-Governmental Working Group on Transnational Corporations and Other Business Enterprises.  
+<sup>[9]</sup> See Lecture by Chief Justice Sundaresh Menon, The impact of public international law in the commercial sphere and its   significance to Asia, (19 April 2013, organised jointly by the International Council of Jurists and the University of Mumbai) at <sup>[52]</sup> and <sup>[53]</sup>.  
 
 
 <p class="right-side-updated">Last updated on 09 Feb 2018</p> 
