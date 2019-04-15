@@ -47,7 +47,7 @@ collection_name: news
 <ol start="12">
 <li>The growth of the BRI will thus need to be supported by the parallel development of a dispute resolution mechanism. This mechanism can take different shapes and forms. It is quite natural for countries and companies to desire a framework that maximises their own respective benefits and interests. However, for such a mechanism to truly support the BRI’s growth and advance investment, trade and commerce, it needs to foster trust and further cooperation. In my view, the BRI dispute resolution mechanism should have a few key characteristics.     
 
-<ol>
+<ol style="list-style-type: lower-roman">
 
 <li>First, the dispute resolution mechanism should have rule of law as its foundation. Disputes should be resolved based on well-established, fair and transparent rules and procedures.</li>  
  
@@ -85,16 +85,16 @@ collection_name: news
 </ol>
 
 {:start="16"}
-16.    Fourth, Singapore adopts an open and inclusive approach. We understand that businesses want choice of institution, arbitrator and counsel they are familiar with. We set up Maxwell Chambers, the world’s first integrated dispute resolution complex. We are expanding Maxwell Chambers to meet growing demand for space from international dispute resolution institutions, chambers and law firms. The International Court of Arbitration of the International Chamber of Commerce (ICC) and the Permanent Court of Arbitration (PCA) are setting up their physical offices here. We have also built ourselves as a hub for legal services so that parties can capitalise on the openness and flexibility of our dispute resolution regime to tap on the expertise of the top international and regional law firms based in Singapore.
+16. Fourth, Singapore adopts an open and inclusive approach. We understand that businesses want choice of institution, arbitrator and counsel they are familiar with. We set up Maxwell Chambers, the world’s first integrated dispute resolution complex. We are expanding Maxwell Chambers to meet growing demand for space from international dispute resolution institutions, chambers and law firms. The International Court of Arbitration of the International Chamber of Commerce (ICC) and the Permanent Court of Arbitration (PCA) are setting up their physical offices here. We have also built ourselves as a hub for legal services so that parties can capitalise on the openness and flexibility of our dispute resolution regime to tap on the expertise of the top international and regional law firms based in Singapore.
 
 {:start="17"}
-17.    To conclude, Singapore is pro-trade, pro-commerce and pro-rule of law. These are not just our policy choices or values that we adhere to. They are part of the Singapore DNA, and are core to Singapore’s very existence and survival as a nation. You can thus count on this when you set up your businesses here, or choose Singapore as your seat for dispute resolution. With this as our foundation and a strong base of legal talents and high-quality dispute resolution service providers, Singapore will continue to improve ourselves and develop offerings that provide the best solutions for you and your corporations.
+17. To conclude, Singapore is pro-trade, pro-commerce and pro-rule of law. These are not just our policy choices or values that we adhere to. They are part of the Singapore DNA, and are core to Singapore’s very existence and survival as a nation. You can thus count on this when you set up your businesses here, or choose Singapore as your seat for dispute resolution. With this as our foundation and a strong base of legal talents and high-quality dispute resolution service providers, Singapore will continue to improve ourselves and develop offerings that provide the best solutions for you and your corporations.
 
 {:start="18"}
-18.    This forum provides a valuable platform for the exchange of ideas and insights and fostering stronger relationships among our legal professionals. I thank the organisers for putting this together and for inviting me to share my views. I wish all of you a meaningful and fruitful conference.
+18. This forum provides a valuable platform for the exchange of ideas and insights and fostering stronger relationships among our legal professionals. I thank the organisers for putting this together and for inviting me to share my views. I wish all of you a meaningful and fruitful conference.
 
 {:start="19"}
-19.    Thank you.
+19. Thank you.
 
 
 <p class="right-side-updated">Last updated on 02 Nov 2017</p> 
