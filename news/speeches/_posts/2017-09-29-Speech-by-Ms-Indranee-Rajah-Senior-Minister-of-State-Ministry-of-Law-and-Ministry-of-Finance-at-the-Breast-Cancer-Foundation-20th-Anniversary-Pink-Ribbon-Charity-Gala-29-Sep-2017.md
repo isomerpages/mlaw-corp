@@ -111,7 +111,7 @@ Donors, sponsors and volunteers,
 
  
 {:start="20"}
-20.Thank you very much.
+20. Thank you very much.
 
 ---
 
