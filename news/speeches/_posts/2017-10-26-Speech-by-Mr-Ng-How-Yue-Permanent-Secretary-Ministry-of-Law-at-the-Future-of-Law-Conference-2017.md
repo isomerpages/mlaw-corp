@@ -157,7 +157,7 @@ The smart contract acts as an impartial judge. It executes contracts faithfully 
 
 **<u>What is MinLaw doing?</u>**
 
-{:start="26"}
+{:start="25"}
 25. Uncertainly about how and the pace with which the technology will pan out, as well as the impact. We are watching, and analyzing, but need to lay the ground as well.
 
 {:start="26"}
@@ -204,6 +204,13 @@ The smart contract acts as an impartial judge. It executes contracts faithfully 
 </ol>
 
 **<u>Systems level</u>**
+
+{:start="31"}
+31. We are working with the Singapore Academy of Law to see if there are standards, data, and other infrastructure that ought to be upgraded in view of tech advancements.
+
+ 
+{:start="32"}
+32. Key piece is court systems. Fortunately, our Courts are keen supporters and adopters of IT, and have moved strongly into digitisation, and this will challenge law firms and lawyers to do likewise.
 
 **<u>Some pointers on how lawyers can approach the changing legal landscape</u>**
 
