@@ -11,17 +11,17 @@ collection_name: news
 *Translated to English. Please click [here (0.1MB)](/files/news/speeches/2017/09/IMS Reception Dinner - Address by DS Han Kok Juan_Chinese.pdf)
 
 Dr Lu Pengqi, Vice Chairman, China Council for Promotion of International Trade
-<br>
+<br>  
 Mr Xie Shuangcheng, Vice Mayor, Hangzhou Municipal Government
-<br>
+<br>  
 Ms Chen Kit Yi, Commissioner, Joint Dispute Resolution Strategy Office, Hong Kong Department of Justice
-<br>
+<br>  
 Mr George Varughese, President, Malaysian Bar Association
-<br>
+<br>  
 Mr Li Jianning, Director-General, CCPIT Commercial Legal Services Centre
-<br>
+<br>  
 Ladies and Gentlemen,
-<br>
+<br>  
 Good evening,
 
 1. I am happy to be in Hangzhou to attend the International Mediation Summit and to witness the signing of a Memorandum of Understanding (MOU) between China Council for Promotion of International Trade/China Chamber of International Commerce (CCPIT/CCOIC) Mediation Center and the Singapore International Mediation Centre (SIMC).
