@@ -43,6 +43,9 @@ Ladies and Gentlemen,
 {:start="3"}
 3. However, as we know, all good things are not without challenges. In my remarks for tonight’s session, I would like to address some of the issues faced by the arbitration industry and address them directly – this being, after all, a Hard Talk session.
 
+
+**Arbitration in Asia – a Long Golden Summer**
+
 <ol start="4">
 <li>I mentioned this morning that the world’s centre of economic gravity is in Asia. The hive of activity in Asia is reflected by the increasing disputes here.
 
@@ -118,7 +121,7 @@ This results in the same arbitrators being appointed for multiple cases. We shou
 <ol start="9">
 <li>  However, a trend that should be of concern to arbitrators is the rise of competing dispute resolution models.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> Litigation is fighting back. The wide enforceability afforded arbitral awards by the New York Convention has long been a bulwark of arbitration’s popularity. However, there are now new instruments for international enforcement of court judgments, an important one being the Hague Choice of Court Convention. Signatories include the EU, US, Mexico and Singapore. It has gathered pace in recent years. The EU, Mexico and Singapore have ratified it. Last month, China signed the Convention as well.</li> 
 <li>On the mediation front, there are now discussions about an equivalent to the New York Convention, i.e. a multilateral agreement on the enforcement of settlement agreements arising from mediation or conciliation.</li> 
  
@@ -172,7 +175,7 @@ This results in the same arbitrators being appointed for multiple cases. We shou
 <ol start="13">
 <li>What is our assessment of the broad parameters?
 
-<ol style="list-stype-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
  
 <li>The trend of globalisation will persist, notwithstanding the inward turn of some countries today. It has brought prosperity to millions, if not billions of people. The global trading regime is here to stay.</li>
 
@@ -201,12 +204,12 @@ This results in the same arbitrators being appointed for multiple cases. We shou
 
 <ol start="15">
 <li>Hence in Singapore, we have in recent years made several changes to keep up with the evolving landscape:
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>There are disputes where parties need emergency relief even before a Tribunal is formed. This used to be a bugbear in Singapore arbitrations, when parties&rsquo; activities in the interval before the appointment of the tribunal could adversely alter the situation in a way that would not be easily compensatable in damages, or would present the other side with an irreversible fait accompli. So SIAC introduced an emergency arbitrator mechanism and was the first arbitral institution in Asia to do so.</li>
 <li>In December last year, SIAC launched their investment arbitration rules, which seek to improve on existing frameworks.</li>
 <li>Most recently, we amended our legislation earlier this year to allow third-party funding for arbitration.</li>
 <li>For those less familiar with third-party funding, allow me to elaborate.
-<ol>
+<ol style="list-style-type: lower-roman">
 <li>Third-party funding is a situation when an entity unconnected to the dispute provides funds to a party to pursue a legal claim. This typically addresses a situation when a party has got a good claim on the merits, but has insufficient funds to pursue it.</li>
 <li>The claimant uses the funds to cover its legal costs.</li>
 <li>In return for funding, the funder receives a share of the amount(s) awarded to the claimant if the claimant is successful.</li>
