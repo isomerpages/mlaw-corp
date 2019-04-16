@@ -135,7 +135,7 @@ Ladies and Gentlemen,
 <ol style="list-style-type: lower-alpha">
 <li> Before the word ‘dispute’ entered our lexicon, it was already present in the ancient Sanskrit epic, the Mahabharata. Its narrative is replete with scenes of disputes and attempts to resolve them.
 
-<ol start="list-style-type: lower-roman">
+<ol style="list-style-type: lower-roman">
 <li>One such effort involved Lord Krishna’s attempt to settle the feud between the Pandavas and Kauvaras, the failure of which led to an epic battle between the two sides. </li>
 <li>Apart from its many other cultural and historical attributes, the Mahabharata is a salutary example of what can happen if you don’t have a quick, efficient, decisive means of dispute resolution.</li>
 <li>The result is a protracted war of attrition with high costs on all sides. </li>
@@ -163,7 +163,7 @@ Ladies and Gentlemen,
 <ol start="12">
 <li> At the same time, there has been a growth of arbitral institutions in India.
 
-<ol style="list-style-type-lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>This will boost the popularity of arbitration as a means of resolving disputes, and, in particular, the use of institutional arbitration as a neutral and effective method to settle disputes.</li>
 </ol>
 
@@ -267,7 +267,7 @@ Ladies and Gentlemen,
 <li><u>Gold Necklace of Kasumalai</u>. First, a gold necklace.</li>
 <li>It belongs to the family of the late Mr Gnanapragasam Pillai (1872-1915). Mr Pillai was an early trader who established a grocery business in Singapore in the early 1900s, after moving there from Pondicherry in Southern India. He had ordered the necklace to be made in Madras (now Chennai) for his wife.</li>
 <li>The necklace is not just an example of superior craftsmanship, but also bears testimony to the heritage and roots of a pioneering Singapore-Indian family.</li>
-<li>Late 19<sup>th</sup> Century Chettinad Doorway. The IHC also has a late 19<sup>th</sup> century wooden doorway from Chettinad in Tamil Nadu, with thousands of elaborate carvings.</li>
+ <li><u>Late 19<sup>th</sup> Century Chettinad Doorway.</u> The IHC also has a late 19<sup>th</sup> century wooden doorway from Chettinad in Tamil Nadu, with thousands of elaborate carvings.</li>
 <li>The Chettinad region is the origin of the chettiar business community, who were among the early migrants to Southeast Asia, including Singapore.</li>
 <li>The Chettinad region is the origin of the chettiar business community, who were among the early migrants to Southeast Asia, including Singapore.</li>
 <li>I think it is also a fitting symbol of how Singapore can be your partner &ndash; the gateway &ndash; for your dispute resolution needs.</li>
