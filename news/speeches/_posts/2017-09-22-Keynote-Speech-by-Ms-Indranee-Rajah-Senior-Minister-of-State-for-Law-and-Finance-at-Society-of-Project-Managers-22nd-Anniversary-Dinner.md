@@ -6,14 +6,14 @@ breadcrumb: Speeches
 collection_name: news
 ---
 
-22 Sep 2017 Posted in [Speeches](/news/speeches)
-<br>
+22 Sep 2017 Posted in [Speeches](/news/speeches)  
+<br>  
 Dr Ting Seng Kiong, President of the Society of Project Managers,
-<br>
+<br>  
 Council Members,
-<br>
+<br>  
 Distinguished guests,
-<br>
+<br>  
 Ladies and gentlemen,
 
 
@@ -35,7 +35,7 @@ Ladies and gentlemen,
 <ol start="4">
 <li> To give you a sense of the growth in demand:
 
-<ol>
+<ol style="list-style-type: lower-roman">
 <li>The urban population in Southeast Asia – right in our backyard - is expected to increase from 36% today to 45% by 2030.</li>
 <li> From now till 2030, Asia is expected to need US$20 trillion of additional infrastructure investments.    </li>
 </ol>
