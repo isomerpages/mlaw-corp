@@ -18,7 +18,7 @@ Donors, sponsors and volunteers,
 <u>Introduction</u>
 
 
-1. I am delighted to be here with you this evening at the Breast Cancer Foundation 20<sup>th</sup Anniversary Gala today. It is a time of celebration of the organisation’s various successes and also a time to bring even more attention to the fight against breast cancer.
+1. I am delighted to be here with you this evening at the Breast Cancer Foundation 20<sup>th</sup> Anniversary Gala today. It is a time of celebration of the organisation’s various successes and also a time to bring even more attention to the fight against breast cancer.
 
 
 **<u>Impact of Breast Cancer</u>**
@@ -26,7 +26,7 @@ Donors, sponsors and volunteers,
 <ol start="2">
 <li>Despite becoming a healthier society, breast cancer is still the most common cancer among women in Singapore<sup>1</sup>. Let’s just take a quick look at the statistics:
 
-<ol style="list-style-typer: lower-roman">
+<ol style="list-style-type: lower-roman">
 <li>1 in 14 women will develop breast cancer before the age of 752<sup>2</sup>.</li>
 <li> In the period between 2011 and 2015, an average of 5 women were newly diagnosed with breast cancer every day<sup>3</sup>.</li>
 <li>During the same period, breast cancer was the leading cause of cancer deaths, accounting for 17% of cancer deaths in women<sup>4</sup>.</li>
@@ -42,7 +42,7 @@ Donors, sponsors and volunteers,
 **<u>The Importance of Screening</u>**
 
 {:start="4"}
-4. Prevention is better than cure and regular screening is key. In particular, it is important to go for cancer screening at the recommended screening intervals because early detection saves lives, saves breasts. From 2011 to 2015, almost 30% of new breast cancer cases were diagnosed at the later stages. Yet only 2 in 5 women aged between 50 to 69 years have gone for breast cancer screening in the last 2 years<sup>5</suo>. 
+4. Prevention is better than cure and regular screening is key. In particular, it is important to go for cancer screening at the recommended screening intervals because early detection saves lives, saves breasts. From 2011 to 2015, almost 30% of new breast cancer cases were diagnosed at the later stages. Yet only 2 in 5 women aged between 50 to 69 years have gone for breast cancer screening in the last 2 years<sup>5</sup>. 
 
  
 {:start="5"}
@@ -68,35 +68,35 @@ Donors, sponsors and volunteers,
 
  
 {:start="10"}
-10.     Tonight’s 20<sup>th</sup> Anniversary Pink Ribbon Charity Gala for BCF is a celebration of the resilience of breast cancer survivors and their families. It acknowledges the tireless work of BCF staff, and the contribution of the many supporters, donors and volunteers in BCF’s journey for the past 20 years.
+10. Tonight’s 20<sup>th</sup> Anniversary Pink Ribbon Charity Gala for BCF is a celebration of the resilience of breast cancer survivors and their families. It acknowledges the tireless work of BCF staff, and the contribution of the many supporters, donors and volunteers in BCF’s journey for the past 20 years.
 
  
 {:start="11"}
-11.     I would like to highlight two of BCF’s initiatives. BCF initiated the first breast cancer support groups that were conducted in English and Mandarin, from its inception 20 years ago.
+11. I would like to highlight two of BCF’s initiatives. BCF initiated the first breast cancer support groups that were conducted in English and Mandarin, from its inception 20 years ago.
 
  
 {:start="12"}
-12.     From these first English and Mandarin support groups set up specifically for breast cancer survivors, to the Men’s Support League focused on men whose loved ones have been impacted by breast cancer, all initiated since BCF’s early years, these have grown to the formation of the Malay, Indian and Expatriate groups and more recently, the Caregivers support group.  Each of these meet monthly at support group meetings at BCF where an understanding and caring environment is provided for them to share their emotions and experiences with one another and to ask questions. 
+12. From these first English and Mandarin support groups set up specifically for breast cancer survivors, to the Men’s Support League focused on men whose loved ones have been impacted by breast cancer, all initiated since BCF’s early years, these have grown to the formation of the Malay, Indian and Expatriate groups and more recently, the Caregivers support group.  Each of these meet monthly at support group meetings at BCF where an understanding and caring environment is provided for them to share their emotions and experiences with one another and to ask questions. 
 
  
 {:start="13"}
-13.     Many survivor members have shared how these monthly meetings have helped them gain strength in their journey, and equally importantly, cultivate many close friendships. And they continue to join these support group meetings - so that they can help give strength to others.
+13. Many survivor members have shared how these monthly meetings have helped them gain strength in their journey, and equally importantly, cultivate many close friendships. And they continue to join these support group meetings - so that they can help give strength to others.
 
  
 {:start="14"}
-14.     For those affected by breast cancer, the network of support provides essential mental, emotional and educational help, at a time when they need a safe and caring environment.
+14. For those affected by breast cancer, the network of support provides essential mental, emotional and educational help, at a time when they need a safe and caring environment.
 
  
 {:start="15"}
-15.     More recently, BCF has conducted a Needs Assessment survey to understand the top unmet psychosocial needs of breast cancer patients, survivors, and their caregivers or families - from the point of diagnosis and treatment to rehabilitation. BCF will work with relevant partners to identify opportunities and enhance its programmes where specific unmet needs are identified.
+15. More recently, BCF has conducted a Needs Assessment survey to understand the top unmet psychosocial needs of breast cancer patients, survivors, and their caregivers or families - from the point of diagnosis and treatment to rehabilitation. BCF will work with relevant partners to identify opportunities and enhance its programmes where specific unmet needs are identified.
 
  
 {:start="16"}
-16.     Many of you wearing the Pink Ribbon pins – the enduring symbol for breast cancer awareness and it is encouraging that so many of you here today – men, women, individuals, friends and corporates, support this important cause.
+16. Many of you wearing the Pink Ribbon pins – the enduring symbol for breast cancer awareness and it is encouraging that so many of you here today – men, women, individuals, friends and corporates, support this important cause.
 
  
 {:start="17"}
-17.     We heard Mrs Catherine Ng’s story in the video shown earlier – it is a brave, touching and inspirational one that epitomises the strength of each breast cancer survivor, her journey, and the immeasurable value of strong support in the fight against the challenges she faces. It shows us BCF’s reason for being, and whom it exists to serve. With us this evening, is a brave group of breast cancer survivors, who are participating in tonight’s programme. Please do show your support for them and give them a round of applause.
+17. We heard Mrs Catherine Ng’s story in the video shown earlier – it is a brave, touching and inspirational one that epitomises the strength of each breast cancer survivor, her journey, and the immeasurable value of strong support in the fight against the challenges she faces. It shows us BCF’s reason for being, and whom it exists to serve. With us this evening, is a brave group of breast cancer survivors, who are participating in tonight’s programme. Please do show your support for them and give them a round of applause.
 
 
 **<u>Conclusion</u>**
