@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Keynote Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at Society of Project Managers' 22nd Anniversary Dinner
