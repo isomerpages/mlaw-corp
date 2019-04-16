@@ -76,7 +76,7 @@ Good evening.
 13.    For example, Ms June Lim, Managing Director of Eden Law, started getting involved in pro bono work as a student, and was the former President of the NUS Pro Bono Group. She continued to be actively involved in pro bono work after graduation and has over a decade of volunteer experience today, by helping out in the Community Legal Clinics, Law Awareness Week, and also giving legal talks at CCs. June continues to get involved in pro bono work because she has been passionate about community law since a teenager and is committed to using her legal skills for the benefit of the community.
 
  
-{:start="114"}
+{:start="14"}
 14.    So I hope that students will be inspired by the pro bono lawyers whom they work with, and follow in June’s footsteps to continue serving those who need help most, even after they graduate and join the legal fraternity.
 
 
