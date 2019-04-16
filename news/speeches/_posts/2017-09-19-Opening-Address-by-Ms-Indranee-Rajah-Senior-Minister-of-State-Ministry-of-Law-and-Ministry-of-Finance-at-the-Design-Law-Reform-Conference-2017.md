@@ -9,17 +9,17 @@ collection_name: news
 19 Sep 2017 Posted in [Speeches](/news/speeches)
 
 His Excellency Scott Wightman, British High Commissioner to Singapore
-<br>
+<br>  
 Professor Simon Chesterman, Dean of NUS Faculty of Law
-<br>
+<br>  
 Associate Professor Ng Siew Kuan, Elizabeth, Deputy Chairwoman and Director of the IP Research Unit, EW Barker Centre for Law and Business, and NUS Faculty of Law
-<br>
+<br>  
 Professor Graeme Dinwoodie, Director, Oxford IP Research Centre, and University of Oxford Law Faculty
-<br>
+<br>  
 Mr David Stone, Research Fellow, Oxford IP Research Centre
-<br>
+<br>  
 Distinguished Guests
-<br>
+<br>  
 Ladies and Gentlemen
 
 
@@ -41,7 +41,7 @@ Ladies and Gentlemen
 
 4. Over the next two days, speakers from the design industry, academia, and the IP profession will share their thoughts about various aspects of design protection, and how it supports business growth.
 
-<ol start="2" style="list-style-type: upper-roman">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
 <li> Design is an important growth driver in the future economy</li>
 </ol>
 
@@ -71,7 +71,7 @@ Ladies and Gentlemen
 <ol start="8">
 <li> How does good design allow a business to gain a competitive edge, especially in the global marketplace?
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Firstly, it enhances the value of a product. It has the potential to turn something plain and commonplace into something appealing and inspiring.</li>
 <li>Secondly, good design is an important means by which a business can differentiate its products from its competitors’.</li>
 </ol>
@@ -167,7 +167,7 @@ Ladies and Gentlemen
 26.    Singapore businesses are harnessing the transformative powers of design, and we should encourage them to continue to do so.
 
  
-<ol start="3" style="list-style-type: upper-roman">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
 <li>A robust design protection regime is necessary for creative and design activities to flourish.</li>
 </ol>
  
@@ -193,7 +193,7 @@ Ladies and Gentlemen
 <ol start="31">
 <li> To better support the design sector in Singapore, the Ministry of Law and the Intellectual Property Office of Singapore (“IPOS”) recently reviewed our design protection regime.
 
-<ol>
+<ol start="list-style-type: lower-alpha">
 <li>We consulted widely – from IP practitioners to designers, design-centric business, and industry associations.</li>
 <li>We also learnt from the experiences and best practices of overseas counterparts.</li>
 <li>  The review culminated in the Registered Designs (Amendment) Bill 2017, which was passed in Parliament on 8 May this year.</li>
@@ -232,7 +232,7 @@ Ladies and Gentlemen
 <ol start="34">
 <li>Secondly, we are switching the default ownership position in situations where a design is created under commission.
 
-<ol style="list-style-typer: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Currently, the ownership of such designs resides with the commissioning party, unless there is an agreement otherwise.</li>
 <li>We are changing the law so that the designer is treated as the owner by default, but still allowing this to be varied by agreement.</li>
 <li>We are doing this because we recognise the value of designs, and the important contribution that designers make to the economy and society.</li>
@@ -348,7 +348,7 @@ Ladies and Gentlemen
 48.    Let me end with an example of how the IP lifecycle plays a critical role in a business’ growth strategy.
  
  
-<u>Innosparks Air+ Smart Mask</ul>
+<u>Innosparks Air+ Smart Mask</u>
 
 
 
@@ -426,7 +426,7 @@ Ladies and Gentlemen
 {:start="62"}
 62.    Today, it is sold in major Chinese cities such as Beijing, Shanghai and Guangzhou through 9,000 retail stores.
 
-<ol start="5" list-style-type="upper-roman;font-weight:bold;">
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Conclusion</li>
 </ol>
 
