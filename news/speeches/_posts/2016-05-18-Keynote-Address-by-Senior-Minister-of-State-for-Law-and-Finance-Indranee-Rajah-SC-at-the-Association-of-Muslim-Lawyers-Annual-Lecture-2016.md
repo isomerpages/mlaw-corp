@@ -36,7 +36,7 @@ Ladies and gentlemen,
 One might say that “community justice”, like any other form of justice, is served by an outcome which enforces one’s legal rights in a fair and timely manner.  While this is not wrong, I believe that the delivery of community justice is more nuanced than that. I would venture to suggest that there are two defining features of community justice.  
 
 <ol>
-<li>  First, you do not want an outcome which leads to continued or greater enmity between members of our society. In that situation, community justice is not served even if, strictly speaking, the outcome is legally correct.  Whether parties like it or not, oftentimes their lives continue to be intertwined even after the end of a legal suit. Community justice should thus facilitate enduring relationships between parties as far as possible, rather than to emphasise strict enforcement of legal rights through an adversarial process.</lu>
+<li>  First, you do not want an outcome which leads to continued or greater enmity between members of our society. In that situation, community justice is not served even if, strictly speaking, the outcome is legally correct.  Whether parties like it or not, oftentimes their lives continue to be intertwined even after the end of a legal suit. Community justice should thus facilitate enduring relationships between parties as far as possible, rather than to emphasise strict enforcement of legal rights through an adversarial process.</li>
 <li>  And second, community justice must be affordable and accessible by all, especially for the individuals who are the parties involved. Community justice is not served if individuals are forced to spend a disproportionate amount of time and money to resolve their disputes.</li>
 </ol>
 </li>
