@@ -29,7 +29,7 @@ Ladies and gentlemen
 5. In the face of turbulent international markets and the slowdown of the global economy, South Asia continues to enjoy strong economic prospects.
 
 <ol start="6">
-<li>According to a World Bank report published in April this year<sup>[1]<sup>,
+<li>According to a World Bank report published in April this year<sup>[1]</sup>,
 <ol list-style-type="lower-alpha">
 <li>  South Asia was the fastest growing region in the world in 2015; and</li>
 <li> growth in this region is forecasted to accelerate from 7.1 percent in 2016 to 7.3 percent in 2017.</li>
