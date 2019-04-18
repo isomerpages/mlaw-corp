@@ -357,7 +357,7 @@ Ladies and gentlemen
 {:start="56"}
 56. I wish you all a productive and fruitful conference.
 
-<sup>[1] Qualcomm quarterly results, 4th quarter 2014</sup>
+<sup>[1]</sup> Qualcomm quarterly results, 4th quarter 2014
 
 <u>Speech Highlights </u>
 
