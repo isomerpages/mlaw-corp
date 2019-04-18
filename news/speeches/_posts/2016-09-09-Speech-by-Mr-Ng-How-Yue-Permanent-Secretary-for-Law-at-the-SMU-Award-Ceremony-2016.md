@@ -63,6 +63,8 @@ Students, parents and distinguished guests.
 {:start="15"}
 15. Thank you very much.
 
+[List of Winners (0.2MB)](/files/news/speeches/2016/09/Winners List.pdf)
+
 <p class="right-side-updated">Last updated on 14 Oct 2016</p>
 
 
