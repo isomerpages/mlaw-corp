@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opening remarks by Mr K Shanmugam, Minister for Home Affairs and Minister for Law at the 2017 Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” at the Lee Kuan Yew School of Public Policy, NUS
+title: "Opening remarks by Mr K Shanmugam, Minister for Home Affairs and Minister for Law at the 2017 Asia Economic Forum on “The One-Belt One-Road Initiative: Impact and Implications” at the Lee Kuan Yew School of Public Policy, NUS"
 permalink: /news/speeches/opening-remarks-by-mr-k-shanmugam--minister-for-home-affairs-and0
 breadcrumb: Speeches
 collection_name: news
