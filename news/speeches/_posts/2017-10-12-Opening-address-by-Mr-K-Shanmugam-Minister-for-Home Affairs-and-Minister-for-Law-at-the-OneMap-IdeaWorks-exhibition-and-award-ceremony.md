@@ -62,6 +62,7 @@ Ladies and Gentlemen,
 <li>One example is the myResponder app, used by SCDF. It alerts nearby volunteers, people who have signed up, to people who need help in the neighbourhood. </li>
  
 <li> Another example is the OneService app. It allows any citizen to locate, pinpoint and identify, a municipal service that is offered and give feedback as well; and that allows public agencies to respond much faster. </li>
+</ol>
 </li>
 </ol>
 
