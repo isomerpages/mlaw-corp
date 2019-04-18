@@ -165,7 +165,7 @@ Colleagues or ex-colleagues,
 <li>If you look at e-commerce giants Amazon and Alibaba, they have put out an integrated online dispute resolution platform which uses algorithms. It will settle claims, it will settle compensation, without lawyers.</li>
 <li>eBay’s platform today resolves more than 60 million disputes per annum, and 90 per cent of it is resolved through the software alone, without any human intervention.</li>
 </ol>
-<li>
+</li>
 </ol>
 
 {:start="28"}
