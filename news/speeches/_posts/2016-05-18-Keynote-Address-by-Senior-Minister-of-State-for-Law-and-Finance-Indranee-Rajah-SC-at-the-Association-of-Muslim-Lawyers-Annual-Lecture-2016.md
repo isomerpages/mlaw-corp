@@ -35,7 +35,7 @@ Ladies and gentlemen,
 <li>
 One might say that “community justice”, like any other form of justice, is served by an outcome which enforces one’s legal rights in a fair and timely manner.  While this is not wrong, I believe that the delivery of community justice is more nuanced than that. I would venture to suggest that there are two defining features of community justice.  
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>  First, you do not want an outcome which leads to continued or greater enmity between members of our society. In that situation, community justice is not served even if, strictly speaking, the outcome is legally correct.  Whether parties like it or not, oftentimes their lives continue to be intertwined even after the end of a legal suit. Community justice should thus facilitate enduring relationships between parties as far as possible, rather than to emphasise strict enforcement of legal rights through an adversarial process.</li>
 <li>  And second, community justice must be affordable and accessible by all, especially for the individuals who are the parties involved. Community justice is not served if individuals are forced to spend a disproportionate amount of time and money to resolve their disputes.</li>
 </ol>
@@ -92,7 +92,7 @@ One might say that “community justice”, like any other form of justice, is s
 <ol start="9">
 <li> Second, as opposed to the zero-sum approach of adversarial proceedings, there is generally a heavy emphasis on conciliatory dispute resolution processes in these forums. 
 
-<ol style="list-style-type: alpha">
+<ol style="list-style-type: lower-alpha">
 <li>In relation to applications for Protection Orders under the POHA, out of 203 Protection Order applications filed as at 30 April 2016, 38 Protection Orders were granted by consent while 73 applications were withdrawn, suggesting amiable resolution of the disputes.</li>   
 
  
@@ -151,7 +151,7 @@ One might say that “community justice”, like any other form of justice, is s
 <ol start="20">
 <li> It also leads me to reflect on how the existing community justice infrastructure in Singapore would fare under the pressures of these new challenges. 
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>  Given the likely resource pressures from increased and new community disputes in future, how can we ensure that individuals in our society continue to have access to affordable and accessible justice?</li>
 <li> Our existing community dispute resolution forums were each set up to tackle specific pockets of community disputes.  Will novel community disputes be effectively absorbed into the existing infrastructure, and how may we achieve this?</li>
 </ol>
