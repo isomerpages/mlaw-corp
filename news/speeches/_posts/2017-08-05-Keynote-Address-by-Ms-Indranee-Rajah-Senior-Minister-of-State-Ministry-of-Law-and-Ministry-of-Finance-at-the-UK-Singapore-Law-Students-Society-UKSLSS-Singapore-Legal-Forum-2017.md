@@ -186,9 +186,9 @@ Good morning everyone.
 **Video highlights from speech**
 
 <video class="video-centered" height="360" width="640" src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.mp4" 
-poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.jpg" controls="controls"></video>
+poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.jpg"></video>
 
-m 
+mo 
 
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p> 
