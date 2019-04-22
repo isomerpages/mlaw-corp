@@ -185,8 +185,10 @@ Good morning everyone.
 
 **Video highlights from speech**
 
+<video class="video-centered" height="360" width="640" src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.mp4" 
+poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.jpg" controls="controls"></video>
 
-<video class="jw-video jw-reset video-centered" src="blob:https://www.mlaw.gov.sg/56b17b2a-1beb-4204-aff1-67034d19a7d8"></video>
+m 
 
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p> 
