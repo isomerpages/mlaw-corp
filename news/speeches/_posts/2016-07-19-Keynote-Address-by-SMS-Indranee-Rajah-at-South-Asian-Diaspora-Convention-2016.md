@@ -229,7 +229,7 @@ Ladies and gentlemen
 <li>  The recommendations put forth by the Committee include
 
 <ol style="list-style-type: lower-alpha">
-<li> enhancing our legal framework to complete restructurings quickly and cost-effectively and with a high certainty in outcome;<li>
+<li> enhancing our legal framework to complete restructurings quickly and cost-effectively and with a high certainty in outcome;</li>
 <li> increasing availability of rescue financing; and</li>
 <li> strengthening insolvency professionals.</li>
 </ol>
