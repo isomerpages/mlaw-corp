@@ -27,7 +27,7 @@ Distinguished guests
 <ol start="3">
 <li>Later, the ICC Court and the Ministry of Law will sign a Memorandum of Understanding (MOU). Under this MOU, the ICC Court and the Government of Singapore will work together to do the following: 
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Set up an ICC Court case management office in Singapore to serve the arbitration needs of businesses in Asia; and</li>
 <li>Develop and promote Singapore as a seat and venue for arbitration in Asia through advancing thought leadership, developing manpower talent and arbitration services, and undertaking joint marketing. </li>
 </ol>
@@ -60,7 +60,7 @@ Distinguished guests
 <ol start="9">
 <li>As the economic centre of gravity shifts to Asia, so too will the centre of gravity for legal activities, because legal work follows economic activities. There will be a lag in this shift, because there are habits and established practices. Nonetheless, we will see Asia’s magnetic pull on business having a similar knock-on effect for legal activities.
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Take infrastructure as an example. Asia's rapid urbanisation, development and population growth creates an urgent need: US$20 trillion of additional infrastructure investments from now till 2030. These infrastructure projects need financing and project structuring. They will also need legal services to bring the projects into being.  The nature of infrastructure projects is such that delays and variations are common. Demand for infrastructure in Asia will translate to demand for dispute resolution services.</li>
 <li>And we see this from the numbers already. Between 2014 and 2019, legal services are projected to grow at 3.3% a year globally. Over the same period, legal services in the Asia-Pacific region is expected to grow at 5.5% annually. What this means is that while we can continue to do good work around the globe, there are simply more opportunities in the Asia-Pacific region. And because the 2.2%-point difference in growth rate is compounded each year, this gap is widening very quickly. </li>
 </ol>
