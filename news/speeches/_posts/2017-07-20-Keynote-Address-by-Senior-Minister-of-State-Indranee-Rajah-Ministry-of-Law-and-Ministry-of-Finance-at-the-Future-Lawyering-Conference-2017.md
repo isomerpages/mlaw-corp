@@ -144,3 +144,181 @@ Friends from the Malaysian Bar Council
 19. If you have feedback on how our rules and regulations can better support technology innovation, do let us know. MinLaw will be happy to work with you on this.
 
 
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>GOING GLOBAL</li>
+</ol>
+
+{:start="20"}
+20. Globalisation is another key driver of change. Companies are internationalizing and have businesses in multiple countries. Consequently, legal work has become more and more cross-border in nature.
+
+
+<ol start="21">
+<li>Singapore law firms seeking to grow and get a greater share of the legal services pie have to look beyond our shores. The domestic market may be small but the Asian market is large.
+
+<ol style="list-style-type: lower-alpha">
+
+<li>Asia is the world's fastest growing economy. </li>
+ 
+<li>ASEAN is the 7th largest economy in the world, with a combined GDP of US$2.5 trillion in 2016. It is projected to be the 4th largest economy by 2050. </li>
+ 
+<li>Global legal services is expected to grow at a CAGR of 3.3% by 2019. </li>
+ 
+<li> The Asia-Pacific legal services market is expected to grow at an even higher CAGR of 5.5% over the same period.</li>
+ 
+</ol>
+ 
+</li> 
+</ol>
+
+
+
+<ol start="22">
+<li>International law firms and other Asian law firms have woken up to this fact. They are internationalizing and expanding aggressively into the region.
+
+<ol style="list-style-type: lower-alpha">
+<li>There are 150 foreign firms with a presence in South East Asia.</li> 
+<li>Of the 30 largest foreign firms with a presence in Southeast Asia, almost two-thirds are present in more than one jurisdiction and about half have a base in three or more countries.</li>
+<li>The total number of lawyers in the 100 largest firms in Asia grew by 15% from about 39,000 in 2015 to more than 44,000 today. This is largely driven by the law firms opening new offices outside their home jurisdiction.</li>
+</ol>
+
+ 
+</li> 
+</ol>
+
+{:start="23"}
+23. Singapore law firms must seize the opportunities afforded by the growth of Asia and ASEAN and internationalise. Different firms will internationalise in different ways, depending on your business model and strategies. Some may choose to set up overseas offices, some may choose to be part of an international network (the Swiss verein model) and others may choose to tie up with a firm in the foreign jurisdiction.
+ 
+{:start="24"} 
+24. In doing this, you start from a position of strength - strong substantive knowledge and legal skills, a reputation for professionalism and integrity and you are part of Singapore's trusted brand.
+
+
+<ol start="25">
+<li>The other big advantage in your favour is the fact that Singapore is a hub for many of the economic activities that will capture the demand for legal services. We are a financial centre. We are a dispute resolution centre. We are an IP hub.  We are now working to make Singapore a trusted global exchange for financing, brokering and structuring international commercial transactions. What this does is that it anchors economic activity here. What this means is that:
+ 
+<ol style="list-style-type: lower-alpha">
+
+<li>Singapore will be a springboard from which law firms, and Singapore Law Practices (SLPs) in particular, can provide services to the region;</li>
+ 
+<li>it will also be the place to which Asia and region will look if they want to get a complete suite of professional services - be it financing, consultancy or legal.</li>
+
+</ol>
+ 
+</li> 
+</ol>
+
+
+<ol start="26">
+<li> To add to this, we have taken steps to strengthen Singapore as an international centre for debt restructuring with the recent amendments to the Companies Act. These efforts have not gone unnoticed on the international front. At the Global Restructuring Review awards:
+
+<ol style="list-style-type: lower-alpha">
+<li>Singapore won the "Most Improved Jurisdiction" award; and</li> 
+<li> the guidelines issued by the Judicial Insolvency Network, of which Singapore is a member, won the "Most Important Overall Development" award.</li>
+</ol>
+ 
+</li> 
+</ol>
+
+{:start="27"}
+27. We are also positioning Singapore to be an infrastructure hub for the region. This will generate many opportunities for the project finance lawyers as well as those who handle infrastructure dispute resolution.
+ 
+{:start="28"} 
+28. Finance is an important driver for legal services. MinLaw and EDB have commissioned a study on the finance sector and its linkages to legal and accounting services to identify financial activities that would generate substantive and valuable legal work that can be provided out of Singapore.
+
+{:start="29"}
+29. Some of you may have already been contacted by the Consultants for input. The study will help us to better develop policy levers to create spin-offs for legal services.
+
+
+<ol style="list-style-type: upper-alpha; font-weight:bold;" start="3">
+<li> THE FUTURE LAWYER</li> 
+</ol>
+
+{:start="30"}
+30. Lawyers have to prepare themselves now to be ready for the future. Lawyers need to invest in building the requisite capability, skills and expertise in order to maximise the opportunities presented and minimise the disruption caused by technology and globalisation.
+ 
+{:start="31"} 
+31. As mentioned earlier, you start from a position of strength. Singapore lawyers are well regarded for their strong technical knowledge. However this is no longer enough. Clients want more. In addition to technical knowledge, they want lawyers who understand their business, their industries and the markets they operate in. They need you to be someone who is a trusted business advisor by virtue of your knowledge of the law and their business.
+
+<ol start="32">
+<li> The lawyer of the future needs the following:
+<ol style="list-style-typw: lower-alpha">
+
+
+<li>deep expertise in specific practice areas; </li>
+ 
+<li>market knowledge; </li>
+ 
+<li>leadership and business skills. </li>
+
+ 
+</ol>
+ 
+</li> 
+</ol>
+
+{:start="33"}
+33. It is the responsibility of the legal firms as well as individual lawyers to acquire these capabilities. At the same time, the government will do its part to help.
+
+<ol start="34">
+<li>  So one of the ways in which you can build deep expertise is secondments. Secondments immerse you in an environment outside of your law firm but at the same time, allows you to acquire the industry and the business knowledge. These include:
+
+<ol style="list-style-type: lower-alpha">
+<li>secondments to clients; </li>
+ 
+<li>secondments to firm's overseas offices or regional partner firms; </li>
+ 
+<li>secondments to overseas specialist law firms. </li>
+ 
+</ol>
+ 
+ 
+</li> 
+</ol>
+
+{:start="35"}
+35. EDB is piloting with the World Bank a secondment programme for professionals in the Projects and Infrastructure area. The programme is open to lawyers. Secondees will be delegated to various World Bank projects where they will be able to gain first-hand experience of infrastructure development and project finance.
+ 
+{:start="36"} 
+36. I would encourage those of you who are in the Project Finance and Infrastructure dispute resolution space to sign up for this secondment, because it would really give you an insight to how public sector infrastructure financing is done. And increasingly, bodies like the World Bank, Asian Development Bank, Asian Infrastructure Bank, are looking to partner with private sector financing. So there will be a convergence of the public sector infrastructure work and the private sector infrastructure work. And you need to understand how this convergence is happening and how that space operates if you want to take advantage of the Belt and Road initiative. So that is just an example of what the secondment can do. There are many ways in which this can be arranged. The Government is working on some, but your firms can work on others. But go and acquire that industry expertise and knowledge that will make you a truly complete lawyer.
+ 
+{:start="37"} 
+37. There are other programmes that the Government has done, for example the INSEAD Leadership Programme, that is really to help those at the junior partner or associate director level to acquire the business skills that will enable them to take up the leadership of the law firms in due course. So there are many of these things out there, but the point I am making is that you have acquire capabilities beyond the purely technical legal skills.
+
+
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>GETTING KNOWN</li> 
+</ol>
+
+{:start="38"}
+38. Finally, let me say something about branding and marketing.
+ 
+{:start="39"} 
+39. You can be the best lawyer or the best firm with the best technical skills but if clients don't know you, you won't get the work. Out of sight is out of mind.
+ 
+{:start="40"} 
+40. Singapore law practices need to more actively market their services. A Law Society study of small and medium sized practices found that 53% of interviewees had no deliberate business development plans.
+
+{:start="41"}
+41. Business development should not be left to chance. Singapore law practices must have proper business development plans to grow their businesses especially if they want to regionlise and internationalise.
+ 
+{:start="42"} 
+42. Branding and marketing will become even more important as law firms regionalise. And this is branding and marketing not just for law firms but for the individual lawyers themselves. Because each of you have to differentiate yourselves from the others, in order to capture your share of the work. So you have to think of your value proposition: what is it that differentiates you from the others? What is your personal brand? And then you have to work out how it fits into your firm’s brand.
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Conclusion</li> 
+</ol> 
+
+{:start="43"}
+43. Times are changing. Change is not easy. However it will be easier if you prepare ahead of time and manage the change, rather than to be caught unaware and have change imposed upon you.
+ 
+{:start="44"} 
+44. We hope that you will work with us to position yourselves and Singapore to capture the legal sector’s growth in Asia and make Singapore a truly global hub for legal services.
+
+Thank you very much.
+
+<sup>[1]</sup> Terminator 3: Rise of the Machines (2003)  
+<sup>[2]</sup> The Terminator (1984)
+
+
+<p class="right-side-updated">Last updated on 21 Jul 2017 </p>
+
+
