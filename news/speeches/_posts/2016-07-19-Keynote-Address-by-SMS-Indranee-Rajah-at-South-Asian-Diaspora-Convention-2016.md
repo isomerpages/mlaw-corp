@@ -250,11 +250,11 @@ Ladies and gentlemen
 33. On this note, I wish you all an engaging session, and an enjoyable stay in Singapore. Thank you.
 
 
-<sup>[1]</sup> <i>South Asia Economic Focus, Spring 2016: Fading Tailwinds.</i>  The World Bank, April 2016.
-<sup>[2]</sup> <i>South Asia’s 2.5 Trillion Infrastructure Gap.</i>  The World Bank, April 2014.
-<sup>[3]</sup> <i>ASEAN 2015 Seeing Around the Corner in a New Asian Landscape.<i> The Neilson Company, 2014.
-<sup>[4]</sup> International Chamber of Commerce
-<sup>[5]</sup> International Centre for Dispute Resolution
+<sup>[1]</sup> <i>South Asia Economic Focus, Spring 2016: Fading Tailwinds.</i>  The World Bank, April 2016.  
+<sup>[2]</sup> <i>South Asia’s 2.5 Trillion Infrastructure Gap.</i>  The World Bank, April 2014.  
+<sup>[3]</sup> <i>ASEAN 2015 Seeing Around the Corner in a New Asian Landscape.<i> The Neilson Company, 2014.  
+<sup>[4]</sup> International Chamber of Commerce  
+<sup>[5]</sup> International Centre for Dispute Resolution  
 
 <p class="right-side-updated">Last updated on 19 Jul 2016</p>
 
