@@ -20,7 +20,7 @@ Ladies and Gentlemen
 
 
 
-<ol style="list-style-type" upper-roman; font-weight:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li> INTRODUCTION</li>
 </ol>
 
