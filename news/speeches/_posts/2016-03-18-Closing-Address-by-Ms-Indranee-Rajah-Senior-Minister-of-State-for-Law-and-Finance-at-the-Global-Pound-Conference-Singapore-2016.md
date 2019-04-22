@@ -282,13 +282,13 @@ Dispute resolution practitioners,
 50. Thank you very much.
 
 
-<sup>1</sup> Hogan Lovells, “Global Currents: Trends in Complex Cross-Border Disputes” (2014)  
+<sup>1</sup> Hogan Lovells, “Global Currents: Trends in Complex Cross-Border Disputes” (2014)   
 
-<sup>2</sup> AlixPartners, “Litigation and Corporate Compliance Survey” (2015)  
+<sup>2</sup> AlixPartners, “Litigation and Corporate Compliance Survey” (2015)    
 
-<sup>3</sup> Global Arbitration Review, Vol. 4 Issue 5, “ICSID arbitration: how long does it take?” (2009)  
+<sup>3</sup> Global Arbitration Review, Vol. 4 Issue 5, “ICSID arbitration: how long does it take?” (2009)    
 
-<sup>4</sup> Including: AAA-ICDR, LCIA, HKIAC.  
+<sup>4</sup> Including: AAA-ICDR, LCIA, HKIAC.    
 
 <p class="right-side-updated">Last updated on 19 Mar 2016</p>
 
