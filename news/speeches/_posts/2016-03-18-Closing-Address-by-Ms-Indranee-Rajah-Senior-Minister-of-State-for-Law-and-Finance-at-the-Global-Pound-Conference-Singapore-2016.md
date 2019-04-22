@@ -284,7 +284,7 @@ Dispute resolution practitioners,
 
 <sup>1</sup> Hogan Lovells, “Global Currents: Trends in Complex Cross-Border Disputes” (2014)  
 
-<suo>2</sup> AlixPartners, “Litigation and Corporate Compliance Survey” (2015)  
+<sup>2</sup> AlixPartners, “Litigation and Corporate Compliance Survey” (2015)  
 
 <sup>3</sup> Global Arbitration Review, Vol. 4 Issue 5, “ICSID arbitration: how long does it take?” (2009)  
 
