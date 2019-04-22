@@ -29,11 +29,11 @@ collection_name: news
 
  
 
-7. described his loss as a loss to Singapore, and I meant everything I said then. We have lost a legend, and it’s a loss that’s not going to be replaced easily but this is a very nice way of remembering him.
+7. I described his loss as a loss to Singapore, and I meant everything I said then. We have lost a legend, and it’s a loss that’s not going to be replaced easily but this is a very nice way of remembering him.
 
  
 
-8.The book talks about Vimala and Sujesh – they are referred to quite liberally in the book, but also his cases. And they show his approach to the law and what he felt should be done.
+8. The book talks about Vimala and Sujesh – they are referred to quite liberally in the book, but also his cases. And they show his approach to the law and what he felt should be done.
 
  
 
