@@ -361,7 +361,8 @@ Ladies and gentlemen
 
 <u>Speech Highlights </u>
 
-<video class="jw-video jw-reset" src="blob:https://www.mlaw.gov.sg/71a9a9df-3a82-4ae2-bcb4-3569cf5ec1d9"></video>
+<video id="video1" class="video-centered" height="360" width="640" src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_IPOSAug2016Highlightshr_admin_640x360_700k.mp4/playlist.m3u8" 
+poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_IPOSAug2016Highlightshr_admin_640x360_700k.jpg" controls="controls"></video>
 
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p>
