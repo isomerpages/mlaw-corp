@@ -70,7 +70,7 @@ Fellow Litigators,
 9. My purpose is not to bludgeon you with statistics and figures, but really to highlight this, to bring to your attention, the significance of what this means, for you, and for the international commercial litigation landscape.
 
 {:start="10"}
-10. Obviously, with this spike of trans-national commerce in Asia, the number and complexity of cross-border disputes are going to increase.  This is going to result in higher demand for timely and cost-efficient dispute resolution, and this dispute resolution will be more complex as parties will be from different jurisdictions, they will have to contend with different backgrounds, languages and legal cultures, all of which may act as obstacles to the successful resolution of the dispute[11].
+10. Obviously, with this spike of trans-national commerce in Asia, the number and complexity of cross-border disputes are going to increase.  This is going to result in higher demand for timely and cost-efficient dispute resolution, and this dispute resolution will be more complex as parties will be from different jurisdictions, they will have to contend with different backgrounds, languages and legal cultures, all of which may act as obstacles to the successful resolution of the dispute<sup>[11]</sup>.
 
 
 {:start="11"}
@@ -125,7 +125,7 @@ Fellow Litigators,
 <ol start="17">
 <li> The SICC has existing advantages which it can build on to become an attractive dispute resolution option. These include the strong reputation of Singapore, our judiciary and our legal services sector -  yourselves. </li>
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>First, Singapore’s reputation.  Obviously, we are well known for good governance, low corruption, efficiency, rule of law and a trusted legal system.  These are great strengths, and they are valuable to people who need disputes resolved.</li>
 <li>Second, the Singapore Judiciary. Our judiciary is highly regarded for its legal expertise and jurisprudence, as well as its efficiency, competence and honesty. Its experience in handling commercial disputes internationally has been recognised. Our judiciary has consistently ranked highly in international surveys<sup>[13]</sup>.</li>
 <li>Third, the Singapore legal sector.  Singapore lawyers and law firms have also developed a reputation for providing high quality legal services.  I like to believe we have an “Asian” advantage – we understand Asian context and culture, and that gives us an advantage in dealing with Asian clients. The presence of 37 of the top 100 law firms in the world has further augmented what Singapore has to offer in terms of legal services.</li>
@@ -151,7 +151,7 @@ Fellow Litigators,
 22. First, in addition to Singapore Judges, the SICC will have International Judges.  Currently, 11 International Judges from various jurisdictions and legal traditions have been appointed[14].  These include present and former judges, as well as senior academics from the USA, Australia, the UK, Hong Kong, as well as the civil law jurisdictions, such as Austria, France and Japan.  Further appointments are expected to follow in due course.  This will add to the strength and depth of our Bench.
 
 {:start="23"}
-23. This means that as with arbitration, parties in the SICC will be able to have a specialist commercial bench, which could, if the judge is trained in the relevant law, also be tailored to particular legal and cultural dynamics of the case[15].  This is particularly important as parties with international disputes are likely to prefer to have a judge who is well versed in the relevant law of their case.  
+23. This means that as with arbitration, parties in the SICC will be able to have a specialist commercial bench, which could, if the judge is trained in the relevant law, also be tailored to particular legal and cultural dynamics of the case<sup>[15]</sup>.  This is particularly important as parties with international disputes are likely to prefer to have a judge who is well versed in the relevant law of their case.  
 
 {:start="24"}
 24. Secondly, allowing parties in the SICC to be represented by foreign lawyers in certain circumstances. This is an innovation where, understandably, the local bar may have some concerns that allowing foreign representation in the SICC will affect local lawyers’ practice.  So let me address these concerns.
@@ -329,7 +329,7 @@ Fellow Litigators,
 63. Apex courts of many jurisdictions have been increasingly looking to foreign decisions not only in cases with cross-border elements but even those without. 
 
 {:start="64"}
-64. This is also the case in Singapore where our courts are generally at ease with citing the views of foreign courts.  In 2013, Singapore courts considered over 1,500 foreign cases, five times as many foreign cases compared with 20 years ago[34].  Whereas we have traditionally relied on English decisions, judgments today also tend to consider a wider diversity of foreign judgments including those of Australia, Malaysia, Canada, India, Hong Kong, New Zealand, America, and even South Africa[35]. 
+64. This is also the case in Singapore where our courts are generally at ease with citing the views of foreign courts.  In 2013, Singapore courts considered over 1,500 foreign cases, five times as many foreign cases compared with 20 years ago<sup>[34]</sup>.  Whereas we have traditionally relied on English decisions, judgments today also tend to consider a wider diversity of foreign judgments including those of Australia, Malaysia, Canada, India, Hong Kong, New Zealand, America, and even South Africa<sup>[35]</sup>. 
 
 {:start="65"}
 65. Second, the use of technology has and will continue to be an integral part of litigation in this digital age. 
@@ -369,7 +369,7 @@ Fellow Litigators,
 <ol start="75">
 <li>There is also a whole range of complementary skills to be acquired.
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li> First, project management skills: With litigation becoming more international, the size and complexity of the disputes will increase.  Managing mega cross-border litigation is going to require not only legal skills but also cross-jurisdictional co-ordination and project management capabilities.  The ability to plan, organise and manage resources is essential to ensure the seamless delivery of legal services, if you look at it from the client perspective, because what the client wants is the one-stop shop that can deliver all of its needs.  Lawyers must be able to strike that balance between cost and quality of delivery, and project management skills are essential to helping lawyers achieve that balance.</li>
 <li>Second, the use of technology: Technology can be a friend, although it frequently feels like a foe. It can enhance your firm’s internal processes. Law firms can use document and practice management software to organise and streamline practices by automating processes and workflows.  They can also adopt knowledge management systems to manage and institutionalise firm knowledge and share it seamlessly across the firm.  Technology can also change the way legal services are delivered. For example, some law firms have started offering online subscription products over the internet and have developed mobile apps. Where law firms are investing in IT, they can leverage existing schemes like the Productivity and Innovation Credit (PIC) scheme, which allows firms to enjoy tax deductions and allowances.</li>
 <li>Second, the use of technology: Technology can be a friend, although it frequently feels like a foe. It can enhance your firm’s internal processes. Law firms can use document and practice management software to organise and streamline practices by automating processes and workflows.  They can also adopt knowledge management systems to manage and institutionalise firm knowledge and share it seamlessly across the firm.  Technology can also change the way legal services are delivered. For example, some law firms have started offering online subscription products over the internet and have developed mobile apps. Where law firms are investing in IT, they can leverage existing schemes like the Productivity and Innovation Credit (PIC) scheme, which allows firms to enjoy tax deductions and allowances.</li>
