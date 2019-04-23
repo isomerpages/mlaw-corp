@@ -105,14 +105,14 @@ collection_name: news
 <li>With that I would like to wrap up by saying that I would encourage you to:
 
 <ol style="list-style-type: lower-alpha">
-<li>Be constantly hungry for exposure that will help you develop your skills in advocacy </li>
+<li>Be <strong>constantly hungry</strong> for exposure that will help you develop your skills in advocacy </li>
 
-<li>Stay up to date on developments in the law and dispute resolution. </li>
+<li><strong>Stay up to date on developments</strong> in the law and dispute resolution. </li>
 
-<li>Acquire multi-disciplinary and multi-cultural skills to complement your legal work </li>
+<li><strong>Acquire multi-disciplinary and multi-cultural skills</strong> to complement your legal work </li>
 
-<li>Take calculated risks and do not be afraid to seek opportunities in the region even if it means stepping out into something new and untried. </li>
-<li> Maintain high standards of practice, ethics and service standards. </li> 
+<li><strong>Take calculated risks</strong> and do not be afraid to seek opportunities in the region even if it means stepping out into something new and untried. </li>
+<li><strong>Maintain high standards</strong> of practice, ethics and service standards. </li> 
 </ol>
 
 </li>
