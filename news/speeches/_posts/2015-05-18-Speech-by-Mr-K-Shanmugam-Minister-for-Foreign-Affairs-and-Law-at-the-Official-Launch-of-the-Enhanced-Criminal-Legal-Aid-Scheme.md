@@ -15,7 +15,7 @@ Deputy Attorney-General Tan Siong Thye
 Presiding Judge of the State Courts See Kee Oon
 <br>  
 President of the Law Society Thio Shen Yi
-<br>
+<br>  
 Colleagues from Ministry of Law
 <br>  
 Friends
