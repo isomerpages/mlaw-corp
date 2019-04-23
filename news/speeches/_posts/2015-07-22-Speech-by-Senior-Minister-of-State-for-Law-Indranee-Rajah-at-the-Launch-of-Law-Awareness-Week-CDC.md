@@ -8,14 +8,14 @@ collection_name: news
 
 22 Jul 2015 Posted in [Speeches](/news/speeches)
 
-Ms Denise Phua, Host Mayor, Central CDC;
-Dr Teo Ho Pin, Chairman of the Mayors’ Committee and Mayor, North West District;
-Dr Mohamad Maliki Osman, Mayor, South East District;
-Ms Low Yen Ling, Mayor, South West District;
-Grassroots Advisers;
-Mr Thio Shen Yi, Senior Counsel, President of the Law Society of Singapore;
-Mr Ang Hak Seng, BBM, Chief Executive Director, People’s Association;
-Lawyers, students and friends,
+Ms Denise Phua, Host Mayor, Central CDC;  
+Dr Teo Ho Pin, Chairman of the Mayors’ Committee and Mayor, North West District;  
+Dr Mohamad Maliki Osman, Mayor, South East District;  
+Ms Low Yen Ling, Mayor, South West District;  
+Grassroots Advisers;  
+Mr Thio Shen Yi, Senior Counsel, President of the Law Society of Singapore;  
+Mr Ang Hak Seng, BBM, Chief Executive Director, People’s Association;  
+Lawyers, students and friends,  
 <br>  
 It is with great pleasure that I welcome you all to the Launch of Law Awareness Week @ CDC.
 
