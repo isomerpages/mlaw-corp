@@ -41,7 +41,7 @@ Fellow Litigators,
 
 <ol style="list-style-type: lower-roman">
 <li>Asia is the world’s top recipient of FDI inflows, accounting for nearly 30 % of global FDI inflows<sup>[6]</sup>. </li>
-<li>In Southeast Asia, nearly US$1 trillion of infrastructure investment will be required through to 2020<sup>[7]</aup>. </li>
+<li>In Southeast Asia, nearly US$1 trillion of infrastructure investment will be required through to 2020<sup>[7]</sup>. </li>
 </ol>
 
 </li>
