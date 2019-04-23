@@ -7,13 +7,13 @@ collection_name: news
 ---
 
 8 Jul 2015 Posted in [Speeches](/news/speeches)
-<br>
+<br>  
 The Honourable Chief Justice
-<br>
+<br>  
 The Honourable Attorney General
-<br>
+<br>  
 Distinguished speakers, friends of the legal profession and panellists
-
+<br>  
 1. We have witnessed, and are witnessing, revolutionary changes the world over.  
 
 2. These changes have impacted many aspects of our society, including the legal profession. 
