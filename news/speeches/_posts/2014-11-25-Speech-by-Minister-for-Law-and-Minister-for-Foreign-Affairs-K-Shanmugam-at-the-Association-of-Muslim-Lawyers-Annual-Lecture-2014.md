@@ -7,7 +7,7 @@ collection_name: news
 ---
 
 
-25 Nov 2014 Posted in [Speeches](/new/speeches)
+25 Nov 2014 Posted in [Speeches](/news/speeches)
 
 **Introduction**
 
@@ -130,7 +130,7 @@ collection_name: news
 34. And we will help small law firms get access to technology to improve the quality and efficiency of their legal services,
  
 
-{:start="53"}
+{:start="35"}
 35. For example: the PIC; and IDA has got an iSPRINT scheme; and SPRING’s Capability Development Grant.
 
 
