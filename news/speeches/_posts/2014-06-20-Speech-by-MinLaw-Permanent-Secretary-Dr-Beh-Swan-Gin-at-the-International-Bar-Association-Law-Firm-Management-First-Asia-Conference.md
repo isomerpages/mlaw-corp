@@ -193,4 +193,4 @@ This growth in Asia is expected to continue.
 {:start="35"}
 35. Thank you. 
 
-<p class="address-centered">Last updated on 24 Jun 2014</p>
+<p class="right-side-updated">Last updated on 24 Jun 2014</p>
