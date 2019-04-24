@@ -252,29 +252,29 @@ People may ask in this case, why a third law school? It’s slightly different.
 * Second, I personally felt, there should be an alternative career pathway given to mature students who have done another degree or taken a career, now they have become teachers, or police officers or engineers, they have done something. In their 20s, they decide, this is not for me, I want to do law. I think people like that ought to be given a chance. They may not practice, they probably, very few of them will practice, counsellors and so on.
 
 So the target is mature students with relevant work experience in contrast to students in SMU and NUS. And also the greater focus on criminal and matrimonial law.
-<br>
-And going back to the point on training contracts, I’m deeply seized with the issue, and we will look at the rules to see what we can do to try and make it easier for more students to get training contracts. We now have some rules which say that lawyers of this experience, trainings, you cannot charge out for trainees and so on, this is to protect the trainees and make sure they get experience rather than be used as additional hired labour, slave labour. But we want to see how we can relook at these rules to make sure that more students can get training contracts.
-<br>
-But ultimately, there is a limit to how much the government can intervene in the market. You’ve seen the figures.
-<br>
-We can also of course do things from the big picture perspective to try and increase the economy and the legal market.
-<br>
-One hugely successful area has been arbitration. There has been a substantial increase in the last five years, and all of this is fresh work, arbitral work, coming in, unconnected to Singapore usually, big work involving lots of lawyers and that has provided a huge amount of work for law firms. And we, through a series of very careful, structured initiatives, changing the laws, setting up a proper institute, board of directors, having conferences and publicizing, and primarily creating an ecosystem that is very favourable for arbitration. Within five years, we have become Asia’s leading destination, jurisdiction for arbitration and one of the world’s top four or five. It’s a little more complicated than that, but it requires very active effort, and we will do that. So that has led to an explosion of work, which is helpful.
-<br>
-Another completely new dimension, a game-changer, will be the International Commercial Court which we will set up by next year, the laws will be in place by this year. And that will bring in fresh work into the litigation scene, the court scene, which would otherwise have not been done in Singapore.
-<br>
-We are also going to emphasize quite a bit on mediation and make Singapore a world-class mediation centre.
-<br>
-And I have some hopes on ASEAN integration. If ASEAN can get more integrated and by 2015 December we hope for greater economic integration. There are hurdles along the way, it’s not going to be easy, it’s not going to be hunky-dory, but if we integrate better, then you are looking at a US$2.5 trillion economy which is bigger than the economy of India with 600 million people. And you need one centre in ASEAN, the 10 countries of ASEAN, that is a premier logistics, financial, services centre where there is rule of law, and your money is safe and where you are safe and where disputes can be handled effectively. And there is really one place, only one place, there is no other place. But the big if is, to make sure that all these things can be done. But it’s not just dispute resolution, we also want our lawyers to handle the project work, because not everyone is a litigator and not all litigation will come here. And the difficulties are that legal markets in every jurisdiction are fairly protective of their work. So ideally there would have been free movement of lawyers across jurisdictions, but that’s not going to be easy to achieve. But we will try and see what we can do.
-<br>
-So we have to really constantly think of ways of making sure we grow the legal market, we will.
-<br>
-**<u>Conclusion</u>**
 <br>  
+And going back to the point on training contracts, I’m deeply seized with the issue, and we will look at the rules to see what we can do to try and make it easier for more students to get training contracts. We now have some rules which say that lawyers of this experience, trainings, you cannot charge out for trainees and so on, this is to protect the trainees and make sure they get experience rather than be used as additional hired labour, slave labour. But we want to see how we can relook at these rules to make sure that more students can get training contracts.
+<br>  
+But ultimately, there is a limit to how much the government can intervene in the market. You’ve seen the figures.
+<br>  
+We can also of course do things from the big picture perspective to try and increase the economy and the legal market.
+<br>  
+One hugely successful area has been arbitration. There has been a substantial increase in the last five years, and all of this is fresh work, arbitral work, coming in, unconnected to Singapore usually, big work involving lots of lawyers and that has provided a huge amount of work for law firms. And we, through a series of very careful, structured initiatives, changing the laws, setting up a proper institute, board of directors, having conferences and publicizing, and primarily creating an ecosystem that is very favourable for arbitration. Within five years, we have become Asia’s leading destination, jurisdiction for arbitration and one of the world’s top four or five. It’s a little more complicated than that, but it requires very active effort, and we will do that. So that has led to an explosion of work, which is helpful.
+<br>  
+Another completely new dimension, a game-changer, will be the International Commercial Court which we will set up by next year, the laws will be in place by this year. And that will bring in fresh work into the litigation scene, the court scene, which would otherwise have not been done in Singapore.
+<br>  
+We are also going to emphasize quite a bit on mediation and make Singapore a world-class mediation centre.
+<br>  
+And I have some hopes on ASEAN integration. If ASEAN can get more integrated and by 2015 December we hope for greater economic integration. There are hurdles along the way, it’s not going to be easy, it’s not going to be hunky-dory, but if we integrate better, then you are looking at a US$2.5 trillion economy which is bigger than the economy of India with 600 million people. And you need one centre in ASEAN, the 10 countries of ASEAN, that is a premier logistics, financial, services centre where there is rule of law, and your money is safe and where you are safe and where disputes can be handled effectively. And there is really one place, only one place, there is no other place. But the big if is, to make sure that all these things can be done. But it’s not just dispute resolution, we also want our lawyers to handle the project work, because not everyone is a litigator and not all litigation will come here. And the difficulties are that legal markets in every jurisdiction are fairly protective of their work. So ideally there would have been free movement of lawyers across jurisdictions, but that’s not going to be easy to achieve. But we will try and see what we can do.
+<br>  
+So we have to really constantly think of ways of making sure we grow the legal market, we will.
+<br>  
+**<u>Conclusion</u>**
+<br>      
 In conclusion, I’m looking forward to having the dialogue later and in this conference, the purpose of my speech is not to make you morose in the morning or pessimistic, it is to be realistic. You are among the elite who have gotten in, and for those of you doing law overseas, you are doing an excellent course.
-<br>
+<br>  
 All I’m saying is, there’s nothing wrong with the course, but be realistic as to what you can do if you are thinking of practice. A lot of people are not thinking about practice, but just be aware of the numbers. There’s already been a 25% increase in the size of the legal profession in the last three years and if you look at the current numbers of students, that represents 30% of the current size of the legal profession. And I think the numbers keep growing, because more and more students that I meet, more and more parents that I meet, say my son or daughter is going to go and do law at such and such university.
-<br>
+<br>  
 Thank you.
 
 
