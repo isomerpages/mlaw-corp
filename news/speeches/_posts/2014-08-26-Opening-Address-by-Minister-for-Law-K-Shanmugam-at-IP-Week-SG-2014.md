@@ -91,7 +91,7 @@ Ladies and Gentlemen
 {:start="13"}
 13. That is the purpose for our IP Hub Master Plan launched last year. That Master Plan will serve as a roadmap for us to enhance our IP infrastructure and assets to help companies bring IP into play for their businesses in Asia.
 
-<ol start="5" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Encouraging IP Filings: helping businesses to reach out to the region</li>
 </ol>
 
@@ -111,7 +111,7 @@ Ladies and Gentlemen
 
  
 {:start="17"}
-17. We wish to help businesses recognise the value of their ideas and innovations, and better commercialise them. As part of the programme today, we are launching the "IP ValueLab", which is an enterprise engagement arm of IPOS. This ValueLab will help businesses unlock the value of their intellectual property, and will present them with a suite of solutions in IP management, valuation and monetisation. It will establish industry-wide valuation standards, promote research on IP valuation standards and best practices, and collaborate with top valuation experts such as the Singapore Accountancy Commission. It will develop a curriculum for the training of IP valuers, as well as administer the IP financing scheme in conjunction with participating banks. Beyond financing, the Lab will also look into programmes to assist companies in their IP management practices.
+17. We wish to help businesses recognise the value of their ideas and innovations, and better commercialise them. As part of the programme today, we are launching the **"IP ValueLab"**, which is an enterprise engagement arm of IPOS. This ValueLab will help businesses unlock the value of their intellectual property, and will present them with a suite of solutions in IP management, valuation and monetisation. It will establish industry-wide valuation standards, promote research on IP valuation standards and best practices, and collaborate with top valuation experts such as the Singapore Accountancy Commission. It will develop a curriculum for the training of IP valuers, as well as administer the IP financing scheme in conjunction with participating banks. Beyond financing, the Lab will also look into programmes to assist companies in their IP management practices.
 
  
 {:start="18"}
@@ -150,23 +150,23 @@ Ladies and Gentlemen
 
 ---
 
-<sup>[1]</sup> Derived from UNCTAD Statistics database. See http://unctadstat.unctad.org
+<p id="2013"><sup>[1]</sup> Derived from UNCTAD Statistics database. See [http://unctadstat.unctad](http://unctadstat.unctad.org/). </p>
 
-<sup>[2]</sup> ASEAN Statistics database – Selected Key Indicators, Table 1. See https://data.aseanstats.org/#.
+<p id="asia"><sup>[2]</sup> ASEAN Statistics database – Selected Key Indicators, Table 1. See [https://data.aseanstats.org/#](https://data.aseanstats.org/). </p>
 
-<sup>[3]</sup> Derived from UNCTAD Statistics database. See http://unctadstat.unctad.org
+<p id="world">sup>[3]</sup> Derived from UNCTAD Statistics database. See [http://unctadstat.unctad.org](http://unctadstat.unctad.org/) </p>
 
-<sup>[4]</sup> Kharas, H. and Gertz, G. (2010) The New Global Middle Class: A Cross-over From West to East In C. Li (Ed.) China’s Emerging Middle Class: Beyond Economic Transformation. Washington, DC: Brookings Institution Press.
+<p id="households"><sup>[4]</sup> Kharas, H. and Gertz, G. (2010) The New Global Middle Class: A Cross-over From West to East In C. Li (Ed.) China’s Emerging Middle Class: Beyond Economic Transformation. Washington, DC: Brookings Institution Press. </p>
 
-<sup>[5]</sup> See “Highlights” section of World Intellectual Property Indicators – 2013 Edition, page 2.
+<p id="applications"><sup>[5]</sup> See “Highlights” section of World Intellectual Property Indicators – 2013 Edition, page 2. </p>
 
-<sup>[6]</sup> For example, Indonesia apparently only granted 19 patents in 2012.  In contrast, Malaysia granted 2,460 that year, against Singapore’s 5,633.  Korea granted 113,467.  See WIPO’s Table P2 – Patent grants by patent office and origin, and patents in force 2012 at http://www.wipo.int/ipstats/en/wipi/.
+<p id="years"><sup>[6]</sup> For example, Indonesia apparently only granted 19 patents in 2012.  In contrast, Malaysia granted 2,460 that year, against Singapore’s 5,633.  Korea granted 113,467.  See WIPO’s Table P2 – Patent grants by patent office and origin, and patents in force 2012 at [http://www.wipo.int/ipstats/en/wipi/](http://www.wipo.int/ipstats/en/wipi/). </p>
 
-<sup>[7]</sup> Source : WIPO IP Facts and Figures 2013, at page 8.
+<p id="europe"><sup>[7]</sup> Source : WIPO IP Facts and Figures 2013, at page 8. </p>
 
-<sup>[8]</sup> Press Release – Thomson Reuters Names the World's Top 100 Most Innovative Organisations for 2013 (http://thomsonreuters.com)
+<p id="growth"><sup>[8]</sup> Press Release – Thomson Reuters Names the World's Top 100 Most Innovative Organisations for 2013 [http://thomsonreuters.com](http://thomsonreuters.com/)</p>
 
-<sup>[9]</sup> Co-published by Cornell University, INSEAD and WIPO, the GII ranks world economies’ innovation capabilities and results.  It hopes to guide good policies, and highlight good practices and metrics to be used to assess innovation and related policy performance.  Citing the United Arab Emirates as an example of a knowledge based economy, a conducive IP structure was a cited as a key contributor to technological capital, which in turn is a key driver to innovation.  See page 134 at http://www.wipo.int/publications/en/details.jsp?id=3254&plang=EN  
+<p id="index"><sup>[9]</sup> Co-published by Cornell University, INSEAD and WIPO, the GII ranks world economies’ innovation capabilities and results.  It hopes to guide good policies, and highlight good practices and metrics to be used to assess innovation and related policy performance.  Citing the United Arab Emirates as an example of a knowledge based economy, a conducive IP structure was a cited as a key contributor to technological capital, which in turn is a key driver to innovation.  See page 134 at [http://www.wipo.int/publications/en/details.jsp?id=3254&plang=EN](http://www.wipo.int/publications/en/details.jsp?id=3254&plang=EN) </p>  
 
 
 <p class="right-side-updated">Last updated on 26 Jun 2018</p>
