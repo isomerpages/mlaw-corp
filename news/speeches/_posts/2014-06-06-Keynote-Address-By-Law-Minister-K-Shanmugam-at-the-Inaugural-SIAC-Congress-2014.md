@@ -10,10 +10,13 @@ collection_name: news
 6 Jun 2014 Posted in [Speeches](/news/speeches)
 
 *Mr Lucien Wong, Chairman of SIAC,*
+<br>  
 *Professor Michael Pryles, President of the SIAC Court,*
+<br>  
 *Distinguished guests,*
+<br>  
 *Ladies and Gentlemen,*
-
+<br>  
 
 **Introduction**
 1. Thank you for inviting me for your inaugural Congress. SIAC was set up about 25 years ago. Since then, particularly in recent years, SIAC has achieved many significant milestones.
