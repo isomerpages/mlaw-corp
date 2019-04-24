@@ -46,7 +46,7 @@ Now we’ve changed the laws on mandatory death penalty for drug trafficking, in
 
 <li>Only played the role of a courier; and </li>
 
-<li>Cooperated with Central Narcotics Bureau in a substantive way, or has a mental disability which substantially impairs his appreciation of the gravity of his acts, without it having qualified as a defence previously. I mean insanity or inability to comprehend the nature of the act was always a defence so this extends it further. <li>
+<li>Cooperated with Central Narcotics Bureau in a substantive way, or has a mental disability which substantially impairs his appreciation of the gravity of his acts, without it having qualified as a defence previously. I mean insanity or inability to comprehend the nature of the act was always a defence so this extends it further. </li>
 
 </ul>
 
