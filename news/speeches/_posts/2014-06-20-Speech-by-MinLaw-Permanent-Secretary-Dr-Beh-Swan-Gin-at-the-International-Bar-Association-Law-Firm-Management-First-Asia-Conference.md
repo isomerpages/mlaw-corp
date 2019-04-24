@@ -40,7 +40,7 @@ Ladies and gentlemen.
 <li>
 This growth in Asia is expected to continue.
 <ul>
-<li> The Asian Development Bank suggests that by 2050, Asia could account for half of global GDP, trade and investment.<li>
+<li> The Asian Development Bank suggests that by 2050, Asia could account for half of global GDP, trade and investment.</li>
 </ul>
 
 </li>
