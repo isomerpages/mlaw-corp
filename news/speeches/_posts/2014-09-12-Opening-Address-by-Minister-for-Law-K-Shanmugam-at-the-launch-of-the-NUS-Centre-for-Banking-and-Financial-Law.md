@@ -33,17 +33,13 @@ Ladies and gentleman,
 <ol start="4">
 <li> The context is this: the banking and financial sector is one of the key planks of our economy as all of you know.
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li> We have succeeded in positioning ourselves as one of the world’s top five  financial centres,  and we are now home to more than 200 banks and 700  financial institutions. </li>
-
-
 <li> Our banking and financial services sector contributes about 12 per cent of our  GDP and just  under 200,000 jobs in Singapore. </li>
-
-
 <li>We expect to continue to grow this sector as our regional economies and Asia  grows. </li>
 </ol>
 
-<li>
+</li>
 </ol>
 
 {:start="5"}
@@ -65,7 +61,7 @@ Ladies and gentleman,
 <ol start="8">
 <li>In that context, my Ministry will continue to develop initiatives to strengthen the legal sector in Singapore.
 
-<ol style="list-style-type: lower-alpha" >
+<ol style="list-style-type: lower-alpha">
 <li> We have focused quite a lot on arbitration, we’re now going to set up the  Singapore  International Commercial Court (SICC). </li>
 <li> We have announced plans for the Singapore International Mediation Centre  (SIMC) and the  Singapore International Mediation Institute (SIMI). They will  be launched towards the end of  this year.</li>
 <li> And we will support the efforts to regionalise by our Singapore law practices  by providing  schemes and incentives to help them develop international  capabilities.</li>
