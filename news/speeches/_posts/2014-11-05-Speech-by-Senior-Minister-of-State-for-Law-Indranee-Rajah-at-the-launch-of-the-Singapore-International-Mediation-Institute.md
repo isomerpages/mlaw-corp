@@ -138,7 +138,7 @@ Ladies and gentlemen
 <ol start="15">
 <li>I am heartened to see that SIMI is already off to a strong start.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> It will be housed in NUS, a leading global university in Asia with a strong and highly-regarded law faculty.</li>
 <li>  A distinguished member of the NUS law faculty, Associate Professor Joel Lee, chairs SIMI’s Board of Directors, which comprises exceptional individuals and experts in mediation and related fields.</li>
 <li> SIMI also shares an international partnership with the International Mediation Institute, the professional body for mediation worldwide.  The two entities will be working closely together to ensure that SIMI’s and IMI’s professional standards remain relevant and at the cutting edge of mediation best practices.</li>
