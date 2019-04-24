@@ -5,7 +5,7 @@ permalink: /news/speeches/speech-by-sms-at-SISV-dinner-2014
 breadcrumb: Speeches
 collection_name: news
 ---
-
+30 Oct 2014 Posted in [Speeches](/news/speeches)
 
 Mr Loi Hwee Yong and Mr Silas Loh, Presidents, SISV,  
 Members of SISV,  
@@ -20,7 +20,7 @@ Ladies and gentlemen.
 
 **Need to Unlock Full Potential of Limited Land**
 
-{:start="5"}
+{:start="3"}
 3. As a small country, we must unlock the full potential of our limited land. To do so, we must continue to be at the forefront of innovation in urban development. This relentless pursuit of excellence and innovation is not an option – it is a necessity. Creative approaches to use our land more efficiently will become even more important in the future as we continue to develop.
 
 {:start="4"}
