@@ -137,3 +137,27 @@ The sector’s growth has been catalysed by various measures that have been prog
 
 **Four Tiers of Assistance for Expanded Legal Aid**
 
+<ol start="23">
+<li>We anticipate – as I said details are being worked out – four tiers of legal assistance in this expanded legal aid.
+
+<ol style="list-style-type: lower-alpha">
+<li>The first tier – to provide all accused persons with awareness of channels for legal advice and representation, as well as relevant social service agency assistance.</li>
+
+
+<li>The second tier, a smaller number, will be given basic legal advice - for the accused persons who are facing charges which may attract a custodial sentence.</li>
+
+<li>The Third Tier support services would include help not involving Court attendance by a lawyer, which                 could include: 
+
+<ol style="list-style-type: lower-roman">
+<li> Writing letters of representation to the Attorney-General’s Chambers;</li>  
+<li> Preparing mitigation pleas; or</li>
+<li>Drafting the Defence Case.</li>
+We think that maybe up to 3,000 cases could be eligible for this limited assistance in the third tier.  
+</ol>  
+
+</li>
+<li>  The Fourth Tier, of these 3,000 accused persons, the fourth tier of assistance – which is full representation in court – could perhaps help about 1,000 persons.</li>
+</ol>
+  
+</li>  
+</ol>
