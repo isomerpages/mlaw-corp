@@ -41,10 +41,10 @@ Ladies & Gentlemen;
 <ol start="4">
 <li>The maritime sector has experienced similar growth:
 
-<ul>
+<ol style="list-style-type: lower-alpha">
 <li> Global seaborne trade has risen, reaching a record high of over 9 billion tons in 2012.  This growth has been driven by growing domestic demand in China and increased intra-Asian and South-South trade; and</li>
 <li> Asia also continued to dominate as the main loading and unloading region in 2013 for gas, oil and other dry cargo.  </li>
-</ul>
+</ol>
 
 </li>
 </ol>
