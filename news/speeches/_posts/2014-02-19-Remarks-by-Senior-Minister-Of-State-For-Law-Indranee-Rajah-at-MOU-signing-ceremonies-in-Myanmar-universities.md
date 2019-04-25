@@ -127,6 +127,6 @@ Ladies and Gentlemen
 {:start="8"}
 8. Thank you very much.   
 
-**University of Mandalay, 19 February 2014**
+***University of Mandalay, 19 February 2014***
 
 <p class="right-side-updated">Last updated on 21 Feb 2014</p>
