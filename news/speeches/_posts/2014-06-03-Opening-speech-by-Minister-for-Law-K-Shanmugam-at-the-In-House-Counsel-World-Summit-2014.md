@@ -231,3 +231,135 @@ Ladies and Gentlemen
 
 </li>
 </ol>
+
+<ol start="27">
+<li>This did not happen by accident. It is the result of the very comprehensive approach that Singapore has employed to develop the arbitration ecosystem:
+
+<ol style="list-style-type: lower-alpha">
+<li>First, we have a completely open regime for international commercial arbitration.  Parties engaging in arbitration in Singapore have the freedom to engage lawyers of any nationality and use any governing law. </li>
+
+ 
+
+<li>Second, our Courts have been supportive and pro-arbitration, and consistently supported the finality of awards from arbitrations with minimal intervention, except within very clearly defined, internationally accepted rubric. </li>
+
+ 
+
+<li>Third, we are a signatory to the New York Convention and our International Arbitration Act is modelled after the UNCITRAL Model Law.</li>
+
+ 
+<li>
+Fourth, in terms of hardware, we have set up Maxwell Chambers, which is the world’s first, and perhaps the most sought after, integrated dispute resolution complex.  It houses many international arbitral institutions from around the world, including the ICC and the World Intellectual Property Organisation Arbitration and Mediation Centre.
+</li>
+
+</ol>
+ 
+ 
+</li>
+</ol>
+
+{:start="28"}
+28. We will continue to make sure our arbitration services are attractive and continue to attract work, most of which comes from the outside.
+
+ 
+{:start="29"}
+29. Beyond arbitration, we are now looking to develop our international commercial litigation and mediation services to offer international parties the full suite of dispute resolution options.
+
+ 
+{:start="30"}
+30. Specifically, we will be setting up the Singapore International Commercial Court (SICC) and the Singapore International Mediation Centre (SIMC).
+
+ 
+{:start="31"}
+31. The Singapore International Commercial Court will be a superior court of law that is part of the Supreme Court of Singapore.
+
+ 
+{:start="32"}
+32. It will deal only with international commercial cases and  aim to support and help international litigants engaged in cross-border disputes by leveraging on our strengths such as strong rule of law and high judicial integrity.
+
+ 
+{:start="33"}
+33. The panel of judges will comprise specialist commercial judges and eminent foreign jurists from both the common law and civil law traditions.  If an MNC, not necessarily based in Singapore, had an investment in one of the regional countries or anywhere else in the Asia Pacific, the normal choice would have been arbitration.  But if the parties decide instead that they would prefer litigation, and would rather the tribunal comprise a judge appointed by the Chief Justice of Singapore, instead of party-appointed arbitrators, then they can come to Singapore.  Depending on the nature of the case and the governing law, an appropriate jurist will be appointed.
+
+ 
+{:start="34"}
+34. There is no exactly analogous model anywhere else.  While Dubai has its financial centre, and London handles a lot of international commercial disputes, this will be a slightly different structure, and we think it will be an attractive destination for people who for one reason or another do not want to go for arbitration.  Parties may be represented by lawyers from any jurisdiction where the case has no substantial connection to Singapore.
+
+ 
+{:start="35"}
+35. The SICC will be attractive to parties who prefer having the transparency of open proceedings, the availability of appeal, and the avoidance of having party-appointed tribunals. 
+
+ 
+{:start="36"}
+36. We have announced the plans.  The legislation will be in place this year and the Courts will start next year.
+
+ 
+{:start="37"}
+37. We also see mediation as an important complement to arbitration and litigation. 
+
+ 
+{:start="38"}
+38. In a world that is becoming more interconnected and interdependent, businesses would need to look to forms of dispute resolution mechanisms that can also help to preserve long-term relationships.  We will again appoint top experts from around the world to be on our mediation panel, and provide world-class, high quality mediation services.
+
+ 
+{:start="39"}
+39. To summarise, there will be mediation services provided by a high quality panel, there will be litigation services provided through the SICC, and of course, there will be arbitration services provided by the various arbitral institutions.
+
+<ol start="4" style="list-style-type: upper-roman;font-weight:bold;">
+<li><u> Singapore’s Legal Industry</u></li>
+</ol>
+
+{:start="40"}
+40. On to our own legal industry.  We intend to make it more attractive for in-house legal counsel as well as lawyers to practise from Singapore.
+
+ 
+{:start="41"}
+41. We have had a number of schemes in the last two years – for instance the Joint Law Ventures and the Qualifying Foreign Law Practices (which allow foreign law firms to practise Singapore law within specific areas).
+
+
+<ol start="42">
+<li>We now have about 130 international law firms and slightly more than a thousand foreign lawyers in Singapore.  There are also over 800 local law firms, and a total of almost 6,000 lawyers.
+
+<ol style="list-style-type: lower-alpha">
+<li> Out of the top 100 law firms in the world, about 40 have a presence in Singapore.  Hence there is a deep pool of specialist expertise available on quick notice.</li> 
+ <li>Singapore law practices are also developing a strong regional presence, and with their knowledge and networks, they can serve as market connectors to the rest of Asia.</li>
+</ol>
+
+</li>
+</ol>
+
+{:start="43"}
+43. Together, the international and local law practices can provide a comprehensive set of legal services to global clients.
+
+<ol start="5">
+<li><u>Conclusion</u></li> 
+</ol>
+
+{:start="44"}
+44. In conclusion, the rapid growth of Asia provides tremendous opportunities.  We can expect tremendous development and unparalleled change over the next 10 – 15 years.
+
+ 
+{:start="45"}
+45. We will continue to look ahead and develop both our business sector and ancillary services, including legal services, to keep pace and to achieve our own vision for where we think Singapore should be in the future.
+
+ 
+{:start="46"}
+46. This World Summit comes at an opportune time, in providing a platform for the profession to come together and explore the possibilities that this changing world offers.
+
+ 
+{:start="47"}
+47. On this note, I wish all of you a good conference and an enjoyable time.  Thank you.
+
+---
+
+<p id="world"><sup>[1]</sup>World ranking in terms of GDP at current market prices (2012): China: 2nd, Japan: 3rd, India: 10th, South Korea: 15th.  Source: World Bank. </p>
+
+<p id="countries"><sup>[2]</sup> Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, the United States, Vietnam and Singapore. </p>
+
+<p id="worldwide"><sup>[3]</sup>On par with Tokyo and Paris, and after London and Geneva.  Source: 2010 International Arbitration Survey by White & Case.</p>
+
+<p id="worldwide2"><sup>[4]</sup>After the ICC, LCIA, and AAA/ICDR.  Source: 2010 International Arbitration Survey by White & Case. </p>
+
+
+<p class="right-side-updated">Last updated on 05 Jun 2014</p>
+
+
