@@ -94,7 +94,7 @@ Distinguished speakers and panellists
 
 
 <ol style="font-weight: bold;">
-<li>Reforming the law of evidence</li>
+<li><i>Reforming the law of evidence</i></li>
 </ol>
 
 {:start="23"}
@@ -217,7 +217,7 @@ Distinguished speakers and panellists
 57. As this is something that the public and sometimes even lawyers are not aware of, I stress: Our penal philosophy is not simply grounded on notions of retribution and deterrence. Rehabilitation has to be and is an important part of our sentencing regime.
 
 {:start="58"}
-58. Thus changes to the laws recently have introduced a range of community sentencing options, for example the mandatory treatment orders and community work orders, in the CPC.
+58. Thus changes to the laws recently have introduced a range of <u>community sentencing options</u>, for example the mandatory treatment orders and community work orders, in the CPC.
 
 {:start="59"}
 59. The changes are targeted at minor offences; offences involving younger accused persons and persons with specific and relatively minor mental conditions
@@ -235,7 +235,7 @@ Distinguished speakers and panellists
 63. Resentencing was made available for accused persons who had already been sentenced to death, and those resentencing options were available under the new law.
 
 {:start="64"}
-64.  For less serious offences, the Supreme Court has established a Sentencing Council to look into developing a methodology and framework to enhance consistency in sentencing in Subordinate Courts cases, such as through the issuance of Guideline Judgments in Magistrates’ Appeals.
+64.  For less serious offences, the Supreme Court has established a <u>Sentencing Council</u> to look into developing a methodology and framework to enhance consistency in sentencing in Subordinate Courts cases, such as through the issuance of Guideline Judgments in Magistrates’ Appeals.
 
 {:start="65"}
 65.  There are no sacred cows.
@@ -266,7 +266,7 @@ Distinguished speakers and panellists
 72. So we needed to break that cycle, and not many societies have focused on this.
 
 {:start="73"}
-73. These efforts, which are not very well known, were targeted to help our offenders make a fresh start and the results are that our recidivism rates are lower than many other jurisdictions.
+73. These efforts, which are not very well known, were targeted to help our offenders make a fresh start and the results are that our <u>recidivism rates are lower</u> than many other jurisdictions.
 
 {:start="74"}
 74. Our prison population has decreased from 18,000 in 2002 to 12,500 in 2011.
@@ -275,7 +275,7 @@ Distinguished speakers and panellists
 75. Prisons statistics show that between the year 2000 and 2010, the two-year recidivism rate for inmates dropped from 40% to about 24%.
 
 {:start="76"}
-76. By comparison, if we compare ourselves to Japan, New Zealand, UK, US, the recidivism rate in Japan is 43% in 2011, New Zealand is, I think nearly 50% and US is even higher.
+76. By comparison, if we compare ourselves to Japan, New Zealand, UK, US, the [recidivism rate in Japan](http://www.japantimes.co.jp/opinion/2013/07/08/editorials/reducing-rate-of-recidivism/#.UtX3f9IW1jQ) is 43% in 2011, New Zealand is, I think nearly 50% and US is even higher.
 
 {:start="77"}
 77. So these are not the sexy parts of any story but really, one should not just focus on trial processes but before, during and after, and if you can prevent the person from re-offending, you’ve done a great service to society.
@@ -300,7 +300,7 @@ Distinguished speakers and panellists
 82.  We do well in international comparisons between Singapore and major cities like London, New York and Hong Kong.
 
 {:start="83"}
-83.  For example, in Singapore, the crime rate for violent crimes is 79 cases per 100,000 people in 2012, 79 out of 100,000.
+83.  For example, in Singapore, the crime rate for violent crimes is 79 cases per 100,000 people [in 2012](http://www.spf.gov.sg/stats/stats2012_table1.htm), 79 out of 100,000.
 
 {:start="84"}
 84.  In the same year, in New York, there were 1,333 similar cases per 100,000 people, 13 times that of Singapore.
@@ -348,7 +348,7 @@ Distinguished speakers and panellists
 
 
 <ol style="font-weight: bold">
-<li><u>Committee to review the law of homicide and treatment of mental-disabled offenders</u></li>
+<li><i>Committee to review the law of homicide and treatment of mental-disabled offenders</i></li>
 </ol>
 
 
@@ -377,7 +377,7 @@ Distinguished speakers and panellists
 104. Let me also touch on early case resolution framework which we are looking at.
 
 <ol start="2" style="font-weight:bold">
-<li>Early case resolution framework</li>
+<li><i>Early case resolution framework</i></li>
 </ol>
 
 {:start="105"}
@@ -416,7 +416,7 @@ Distinguished speakers and panellists
 114. So for example, from SMU, professor Mahdev Mohan has been helping us in a number of areas, both in the law and foreign affairs ministries, we’ve other professors coming in, and we’ll be working closely with NUS law professors as well, and we’ll certainly look at the scope.
 
 
-<ol start="9" style="font-weight:bold">
+<ol style="font-weight:bold">
 <li> CONCLUSION</li>
 </ol>
 
