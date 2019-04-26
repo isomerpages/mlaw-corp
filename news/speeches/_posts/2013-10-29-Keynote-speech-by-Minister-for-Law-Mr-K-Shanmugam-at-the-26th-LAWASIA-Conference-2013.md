@@ -8,9 +8,12 @@ collection_name: news
 
 29 Oct 2013 Posted in [Speeches](/news/speeches)
 
-***International Dispute Resolution:***
 
-***The Singapore Perspective in an Evolving Landscape***
+<div style="text-align: center">
+<strong>International Dispute Resolution:
+<br>
+The Singapore Perspective in an Evolving Landscape </strong>
+</div>
 
 1. In the last 20 years, if you look at the global trade, that’s grown at an average of 5.5 per cent per annum. 
 
@@ -34,7 +37,7 @@ collection_name: news
 {:start="3"}
 3. All of these, obviously, calls for adequate dispute resolution mechanisms.
 
-* Against this backdrop, we expect that the legal services sector in Asia-Pacific will grow significantly[1]. And the cities in Asia - Singapore, Hong Kong, other cities - are in a position to service large, growing economies such as India and China.
+* Against this backdrop, we expect that the legal services sector in Asia-Pacific will grow significantly<sup>[1]</sup>. And the cities in Asia - Singapore, Hong Kong, other cities - are in a position to service large, growing economies such as India and China.
 
 * From Singapore, within seven hours, you reach pretty much all of China, as well as India, and of course, all of ASEAN. And if you combine the Australian economy, which increasingly is integrating with the ASEAN economy, you’re really looking at a very large footprint.
 
@@ -122,7 +125,7 @@ collection_name: news
 {:start="17"}
 17. Mediation is well established in our domestic fields but we believe that the same factors that made Singapore such a successful arbitration venue, will help us focus and succeed in the mediation context as well.
 
-* We have established a Working Group on International Commercial Mediation to make recommendations on what we need to do.
+* We have established a **Working Group on International Commercial Mediation** to make recommendations on what we need to do.
 
 * For example, when we wanted to succeed in the international arbitration sphere, we said that the SIAC’s board has to be international.
 
@@ -163,6 +166,7 @@ collection_name: news
 
 * Judgments from the Singapore Court of Appeal have been frequently cited in the judgments of higher Courts of other jurisdictions.
 
+{:start="26"}
 26. Earlier I said to you, the rise in investments will inevitably lead to cross border disputes:
 
 * A rise in cross border commercial activity and the increasingly complexity of commercial transactions means more disputes of an international character.
