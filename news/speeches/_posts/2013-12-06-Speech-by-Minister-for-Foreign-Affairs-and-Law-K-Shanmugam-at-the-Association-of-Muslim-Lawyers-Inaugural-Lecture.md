@@ -41,7 +41,7 @@ Friends.
 </ol>
 
 {:start="4"}
-The sector’s growth has been catalysed by various measures that have been progressively introduced to bring more international work into Singapore.
+4. The sector’s growth has been catalysed by various measures that have been progressively introduced to bring more international work into Singapore.
 
 <ul>
 <li>For instance, QFLP licences have given tremendous opportunities to local lawyers to do cross     border work and develop deep specialisation. The realisation Mr Marican mentioned, it’s a matter of public record, that I have said, that when it was first suggested, I had grave doubts on the efficacy of opening up, particularly QFLPs. But when I became Minister, I had the government policy to implement and  implemented it. With hindsight, on my perspective, I think it was the right move. At that time, if you look at the committee which recommended it, it comprised – all the people who supported it came from all the major firms, Drew & Napier was supportive, so was I believe, Rodyk, so was I think, Rajah and Tann and Wong Partnership. You had the senior partners, the more significant lawyers from these firms represented in the committee which signed off on it. I think the one notable exception was Allen & Gledhill, which didn’t sign off on it. And, I mean, there were competing views as to whether it made sense or didn’t made sense. And one argument would be why is there a need to let QFLPs into Singapore to do local work? How does that increase international work in Singapore? A perfectly valid argument, which is the argument that I thought made sense, but obviously I was overruled on that.</li>
@@ -111,7 +111,7 @@ The sector’s growth has been catalysed by various measures that have been prog
 
 <li>The Government also gives indirect criminal legal aid – it provides annual funding to the Law Society’s Pro Bono Services Office.</li>
 
-<li>And of course lawyers, do a bulk of the heavy lifting, volunteering their services through ‘CLAS’, and various Community Legal</li> Clinics. 
+<li>And of course lawyers, do a bulk of the heavy lifting, volunteering their services through ‘CLAS’, and various Community Legal Clinics.</li> 
 </ul>  
 
 </li>  
@@ -141,12 +141,12 @@ The sector’s growth has been catalysed by various measures that have been prog
 <li>We anticipate – as I said details are being worked out – four tiers of legal assistance in this expanded legal aid.
 
 <ol style="list-style-type: lower-alpha">
-<li>The first tier – to provide all accused persons with awareness of channels for legal advice and representation, as well as relevant social service agency assistance.</li>
+  <li>The <u>first tier</u> – to provide <u>all</u> accused persons with awareness of channels for legal advice and representation, as well as relevant social service agency assistance.</li>
 
 
-<li>The second tier, a smaller number, will be given basic legal advice - for the accused persons who are facing charges which may attract a custodial sentence.</li>
+<li>The <u>second tier</u>, a smaller number, will be given <u>basic legal advice</u> - for the accused persons who are facing charges which may attract a custodial sentence.</li>
 
-<li>The Third Tier support services would include help not involving Court attendance by a lawyer, which                 could include: 
+<li>The <u>Third Tier</u> support services would include help not involving Court attendance by a lawyer, which                 could include: 
 
 <ol style="list-style-type: lower-roman">
 <li> Writing letters of representation to the Attorney-General’s Chambers;</li>  
@@ -156,7 +156,7 @@ We think that maybe up to 3,000 cases could be eligible for this limited assista
 </ol>  
 
 </li>
-<li>  The Fourth Tier, of these 3,000 accused persons, the fourth tier of assistance – which is full representation in court – could perhaps help about 1,000 persons.</li>
+<li>  The <u>Fourth Tier</u>, of these 3,000 accused persons, the fourth tier of assistance – which is full representation in court – could perhaps help about 1,000 persons.</li>
 </ol>
   
 </li>  
@@ -185,7 +185,7 @@ We think that maybe up to 3,000 cases could be eligible for this limited assista
 <li>The policies the Committee will oversee will include:
  
 <ol style="list-style-type: lower-roman">
-<li>The types of offences for which aid will be granted; <li>
+<li>The types of offences for which aid will be granted; </li>
 <li>The nature of the means test; and</li>
 <li>The nature of the merits scheme to be used to ensure that the funds are used only to defend reasonably deserving cases.</li>  
   
