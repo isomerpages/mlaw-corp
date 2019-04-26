@@ -88,3 +88,5 @@ I am delighted to join all of you to celebrate the 55th anniversary of the Legal
 
 {:start="21"}
 21. Thank you very much.
+
+<p class="right-side-updated">Last updated on 13 Nov 2013</p>
