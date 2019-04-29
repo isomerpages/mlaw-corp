@@ -100,7 +100,7 @@ Distinguished guests, ladies and gentlemen, parents, and of course, the graduati
 21. Thank you very much.
 
 ---
-<p id="fn1"><sup>[1]</sup> [http://www.imf.org/external/pubs/ft/reo/2012/apd/eng/areo1012.htm](http://www.imf.org/external/pubs/ft/reo/2012/apd/eng/areo1012.htm) -Regional Economic Outlook, October 2012 </p>
+<p id="fn1"><sup>[1]</sup> <a href="http://www.imf.org/external/pubs/ft/reo/2012/apd/eng/areo1012.htm">http://www.imf.org/external/pubs/ft/reo/2012/apd/eng/areo1012.htm</a> -Regional Economic Outlook, October 2012 </p>
 
 
 
