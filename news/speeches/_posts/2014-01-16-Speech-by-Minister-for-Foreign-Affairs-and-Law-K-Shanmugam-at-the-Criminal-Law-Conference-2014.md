@@ -127,7 +127,7 @@ Distinguished speakers and panellists
 30. We are also considering allowing lawyers to help accused persons as a Mackenzie friend, where an accused person chooses not to use a LASCO lawyer.
 
 {:start="31"}
-31. The Ministry of Law has recently announced, just a few weeks ago, significant changes to Criminal Legal Aid that will improve access to justice.
+31. The Ministry of Law has recently announced, just a few weeks ago, significant changes to <u>Criminal Legal Aid</u> that will improve access to justice.
 
 {:start="32"}
 32. To date, the Government has not directly funded criminal legal aid but has supported it indirectly through support to the Law Society for the operation of its pro bono criminal legal aid efforts.
@@ -416,7 +416,7 @@ Distinguished speakers and panellists
 114. So for example, from SMU, professor Mahdev Mohan has been helping us in a number of areas, both in the law and foreign affairs ministries, we’ve other professors coming in, and we’ll be working closely with NUS law professors as well, and we’ll certainly look at the scope.
 
 
-<ol style="font-weight:bold">
+<ol start="9" style="list-style-type:upper-alpha;font-weight:bold;">
 <li> CONCLUSION</li>
 </ol>
 
