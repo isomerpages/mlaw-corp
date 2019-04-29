@@ -93,3 +93,71 @@ collection_name: news
  
 {:start="25"} 
 25. We thank all of our volunteers with these awards, who have helped us in these efforts. 
+
+<ol start="4" list-style-type: upper-alpha; font-weight: bold;>
+<li><u> LAW REFORM </u></li>
+</ol>
+
+{:start="26"}
+26. Regular reviews of laws are necessary for us to keep up to date. They ensure that our laws remain relevant, and are in sync with the needs of society and social norms.
+ 
+{:start="27"} 
+27. The Law Society and law academics from NUS and SMU have worked with us and contributed tremendously to the efforts we have made in these areas including most recently, our review of the Mandatory Death Penalty. They have taken time off to work with us, share their views, and we have ongoing engagements.
+ 
+{:start="28"}
+28. We hope that that will continue and we acknowledge their contributions.
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight: bold;">
+<li><u>LAND</u></li> 
+</ol>
+
+{:start="29"}
+29. The Board of SLA comprises leading private sector professionals and industry leaders.
+ 
+{:start="30"} 
+30. We thank them for providing SLA with good insights, broader perspectives and for setting the strategic direction in the management of our State land and properties, key assets of the government.
+ 
+{:start="31"} 
+31. We are also grateful to members of the Strata Titles Board, Land Surveyors Board and the Appeals Board for Land Acquisition.
+ 
+{:start="32"} 
+32. The Appeals Board ensures that property owners dissatisfied with awards made for the acquisition of their properties can get a fair and expeditious hearing.
+ 
+{:start="33"} 
+33. As a side note, the compensation regime MinLaw has put in place over the last two years is now – most objective people would say - completely market-focused and extremely fair.
+
+<ol start="6" style="list-style-type: upper-alpha; font-weight:bold;">
+<li><u>INTELLECTUAL PROPERTY</U></li>
+</ol>
+
+
+{:start="34"}
+34. The IPOS Board of Directors provides valuable direction and guidance to IPOS . It has enabled us to continually improve the IP regime and achieve international recognition.
+ 
+{:start="35"} 
+35. We also thank the IP Academy’s Board of Governors , the IP Competency Framework Steering and Working Committee, the IP Consult Series, the Patent Agent Qualifying Examination Board and Committee, and the various volunteers whom we regularly consult.
+ 
+{:start="36"} 
+36. They have also contributed significantly to the growth of the IP services sector and IP professions in Singapore. And in this context, the Copyright Tribunal – they play an important role in the resolution of copyri g ht licensing disputes.
+
+
+<ol start="7" style="list-style-type:upper-alpha; font-weight:bold;">
+<li><u>NATIONAL DAY AWARDS</u></li> 
+</ol> 
+
+{:start="37"}
+37. We congratulate the recipients of National Day Awards from MinLaw and the Attorney General’s Chambers who have performed well beyond the call of duty, and deserve recognition for the good service they have rendered to the State.
+
+**<u>CONCLUSION</u>**
+
+{:start="38"}
+38. We thank each one of you and those who are not here, for the invaluable contributions you have made, and of course, we hope that you will continue to help us.
+ 
+{:start="39"} 
+39. We hope that it is a journey that you will find meaningful and fulfilling as you walk it with us, for a better, more just society.
+
+{:start="40"}
+40. We look forward to seeing you again next year.
+
+<p class="right-side-updated">Last updated on 22 Nov 2012</p>
+
