@@ -32,7 +32,7 @@ Ladies and Gentlemen
 3. Let me say a few words about IP in the Asian context.
 
 {:start="4"}
-4. Foreign direct investment (FDI) inflows into Asia reached US$440 billion in 2013 - almost a 30 percent growth from 2009. In Southeast Asia, FDI into Indonesia, Malaysia, Philippines, Singapore and Thailand grew by 7 percent to about US$130 billion from 2012 to 2013 <a href="#2013"><sup>1</sup></a>, within one year. If you look at the ten countries of ASEAN with a population of 610 million and a combined GDP of US$2.5 trillion, they make up the third largest economy in Asia <a href="#asia"><sup>2</sup></a>, after China and Japan.  And larger than the economy of India. In fact, if you take the ten countries in ASEAN as a whole, it is the seventh or eighth largest economy in the world <sup>3</sup>.
+4. Foreign direct investment (FDI) inflows into Asia reached US$440 billion in 2013 - almost a 30 percent growth from 2009. In Southeast Asia, FDI into Indonesia, Malaysia, Philippines, Singapore and Thailand grew by 7 percent to about US$130 billion from 2012 to 2013 <a href="#2013"><sup>1</sup></a>, within one year. If you look at the ten countries of ASEAN with a population of 610 million and a combined GDP of US$2.5 trillion, they make up the third largest economy in Asia <a href="#asia"><sup>2</sup></a>, after China and Japan.  And larger than the economy of India. In fact, if you take the ten countries in ASEAN as a whole, it is the seventh or eighth largest economy in the world <a href="#world"><sup>3</sup></a>.
 
  
 {:start="5"}
@@ -40,7 +40,7 @@ Ladies and Gentlemen
 
  
 {:start="6"}
-6. Businesses are generally very optimistic about Asia.  Asian economies (including those in ASEAN) are relatively young, and the demand for sophisticated products and services will grow.  According to estimates, by 2015, the number of Asian middle class consumers will equal the combined number in Europe and North America. By 2021, on present trends, there could be more than 2 billion Asians, qualifying as middle class households <sup>4</sup>.
+6. Businesses are generally very optimistic about Asia.  Asian economies (including those in ASEAN) are relatively young, and the demand for sophisticated products and services will grow.  According to estimates, by 2015, the number of Asian middle class consumers will equal the combined number in Europe and North America. By 2021, on present trends, there could be more than 2 billion Asians, qualifying as middle class households <a href="#households"><sup>4</sup></a>.
 
  
 {:start="7"}
@@ -60,9 +60,9 @@ Ladies and Gentlemen
 
 <ol style="list-style-type: lower-alpha">
 
-<li>Amongst national and regional IP offices, China and Korea have joined Japan in the list of 5 fastest growing in the world in terms of patent applications for 2011-2012.  Korea and China were also amongst the <sup>5</sup> fastest growing IP offices for registered design applications 5.  While IP activity in Indo-China and Indonesia remain nascent, their sizeable populations and growing middle class demonstrate potential for such activity to increase in the coming years <sup>6</sup>.</li> 
+<li>Amongst national and regional IP offices, China and Korea have joined Japan in the list of 5 fastest growing in the world in terms of patent applications for 2011-2012.  Korea and China were also amongst the <a href="#"><sup>5</sup></a> fastest growing IP offices for registered design applications <a href="#applications"><sup>5</sup></a>.  While IP activity in Indo-China and Indonesia remain nascent, their sizeable populations and growing middle class demonstrate potential for such activity to increase in the coming years <a href="#years"><sup>6</sup></a>.</li> 
 
-<li>In quantitative terms, Asia already leads Europe and US in filings for patent, trademark and registered designs.  Asian IP offices received a combined share of 56% of all patent applications worldwide, in contrast with Europe’s 15%.  For trademarks, Asia accounted for 47% of all trademark filings, in contrast with Europe’s 31% <sup>7</sup>.</li>
+<li>In quantitative terms, Asia already leads Europe and US in filings for patent, trademark and registered designs.  Asian IP offices received a combined share of 56% of all patent applications worldwide, in contrast with Europe’s 15%.  For trademarks, Asia accounted for 47% of all trademark filings, in contrast with Europe’s 31% <a href="#europe"><sup>7</sup></a>.</li>
 
 <li>Advanced Asian economies like Japan, China and Korea are now strong creators of IP; from being mere users of IP, they have seen the rise of conglomerates which have developed and leveraged on their own IP for business exploitation.</li>
 
