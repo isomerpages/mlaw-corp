@@ -19,7 +19,7 @@ Distinguished mediators and friends,
 
 2.  This evening is not only a gathering of friends, but also an occasion for the Ministry of Law to recognise the invaluable contributions of our panel of volunteer mediators. 
 
-**Appreciation**
+**Appreciation to Mediators and Welcome the New Mediators**
 
 {:start="3"}
 3. Some of you have volunteered with the CMC since its inception, truly pioneers in every sense of the word. Many of you are actively engaged in the community, and juggling grassroots and community commitments, on top of your full-time careers. Despite your hectic schedules, you have devoted your precious time to volunteering with the CMC. We deeply appreciate your selfless sense of duty all these years, in doing a remarkable service to the community.
