@@ -52,7 +52,7 @@ collection_name: news
 <ol start="12">
 <li>In 2010, the Minister for Law established an Insolvency Law Review Committee (ILRC) to carry out a comprehensive review of Singapore’s insolvency regime. The ILRC comprises experienced practitioners and academics. The mandate of the ILRC is to make recommendations on what should be included in the omnibus insolvency legislation, with a view to:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li> unify both the bankruptcy and corporate insolvency regimes into a single piece of legislation;</li>
 <li> modernise the law on bankruptcy and corporate insolvency to adopt practices which are best suited to promote the sustainability of Singapore’s commercial sector;</li>
 <li>make the attendant processes user friendly and accessible for individuals and corporations alike; and</li>
