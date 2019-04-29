@@ -9,7 +9,7 @@ collection_name: news
 19 Feb 2013 Posted in [Speeches](/news/speeches)
 <br>  
 Dr Michael Pryles, Chairman of the Singapore International Arbitration Centre (SIAC),
-<br>
+<br>  
 Distinguished guests,
 <br>
 
