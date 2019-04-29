@@ -167,7 +167,7 @@ Ladies and gentleman,
 </ol>
 
 {:start="19"}
-This will benefit Singapore and our Bar, and it will help to raise the profile and use of Singapore law for various financial transactions.
+19. This will benefit Singapore and our Bar, and it will help to raise the profile and use of Singapore law for various financial transactions.
 
 <ol start="20">
 <li> The official launch today, together with Professor Wood’s lecture is a good beginning, and I think most of us, if not all of us will know Professor Wood, a well-known scholar in the field of corporate finance.
