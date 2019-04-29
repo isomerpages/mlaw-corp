@@ -25,7 +25,7 @@ Good morning.
 
 2. The IP Expedition, organised by IPOS, aims to share with students like all of you here, the importance of respecting copyrighted works in recognition of the hard work of the creators. Delivered through a 30-minute interactive skit, the IP Expedition is part of IPOS’ Honour Intellectual Property (or HIP) Alliance programme to help students like yourself understand and appreciate intellectual property and copyright concepts better.
 
-3. I am heartened to hear from IPOS that our schools have been very supportive of this programme. Before the official launch today, 37 schools had already booked the IP Expedition skit for 37,659 students <sup>1</sup> ,which will run from now till the end of 2014. This is a very encouraging start and I hope that many more schools will join us and benefit from this exciting initiative.
+3. I am heartened to hear from IPOS that our schools have been very supportive of this programme. Before the official launch today, 37 schools had already booked the IP Expedition skit for 37,659 students <a href="#students"><sup>1</sup></a> ,which will run from now till the end of 2014. This is a very encouraging start and I hope that many more schools will join us and benefit from this exciting initiative.
 
 **Creators and Consumers of Intellectual Property**
 
@@ -55,7 +55,7 @@ Good morning.
 {:start="10"}
 10. In closing, I would like to thank our guests, principal and staff of River Valley Primary School for being so supportive of the IP Expedition programme. I can see that every one of you is excited to watch the skit. Before I close, I would like to quote HIP Alliance, “Support Originality, You Make a Difference!” Thank you.
 
-<sup>[1]</sup> Accurate as of 17 July2013, 1500hrs
+<p id="students"><sup>[1]</sup> Accurate as of 17 July2013, 1500hrs</p>
 
 
 <p class="right-side-updated">Last updated on 24 Jul 2013</p> 
