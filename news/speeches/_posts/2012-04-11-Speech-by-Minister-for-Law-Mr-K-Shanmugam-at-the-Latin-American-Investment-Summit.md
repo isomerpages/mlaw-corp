@@ -14,7 +14,7 @@ Your Excellencies,
 Mr Eduardo Ramos-Gomez, Managing Partner, Duane Morris & Selvam LLP,  
 
 
-<ol style="list-style-type: upper-roman: font-weight:bold; ">
+<ol style="list-style-type: upper-roman; font-weight:bold; ">
 <li> Introduction</li>
 </ol>
 
@@ -91,7 +91,6 @@ Thank you for inviting me for this summit.
 <ol style="list-style-type: lower-alpha">
 <li>It was a 38.3 per cent increase over 2010.</li>  
 <li> It represents 3.8 per cent of Singapore’s total trade and there is substantial room to grow. </li>
-</li>
 </ol>
   
 </li> 
@@ -131,7 +130,8 @@ Thank you for inviting me for this summit.
 <li>Costa Rica, signed in April 2010 and awaiting Costa Rica’s ratification. </li>
 <li>We are currently negotiating the Trans-Pacific Partnership FTA with eight other countries including Peru and Chile. </li>
 </ol>  
-  
+</li> 
+</ol>
 
 {:start="14"}  
 14. A Memorandum of Understanding which was signed between International Enterprise Singapore and Development Bank of Latin America (CAF) provides for greater collaboration in areas such as infrastructure development.
@@ -142,12 +142,9 @@ Thank you for inviting me for this summit.
 
 
 {:start="16"}
-16. All of this is also reflected in the increased establishment of diplomatic relationships. We will be opening our embassy in Brazil which will be the first resident diplomatic mission in Latin America for Singapore. Ecuador recently established an embassy in Singapore as well, to drive the economic agenda in the region.  
+16. All of this is also reflected in the increased establishment of diplomatic relationships. We will be opening our embassy in Brazil which will be the first resident diplomatic mission in Latin America for Singapore. Ecuador recently established an embassy in Singapore as well, to drive the economic agenda in the region.
 
-</li> 
-</ol>
-
-<ol start="6">
+<ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Singapore - a natural partner in Asia for Latin America</li>  
 </ol>
 
@@ -279,7 +276,7 @@ Thank you for inviting me for this summit.
 
 
 {:start="47"}
-47. According to a 2010 White & Case International Arbitration Survey , Singapore, it said that we are clearly the most popular Asian seat. In this context, we are not talking about local construction arbitration or domain name disputes, but if we talk about international arbitrations, Singapore is the leading seat, and it is the third most preferred seat by companies, tied with Paris and Tokyo, and after London and Geneva. 
+47. According to a [2010 White & Case International Arbitration Survey](http://www.whitecase.com/files/upload/fileRepository/2010-International-Arbitration-Survey-Choices-International-Arbitration.PDF) , Singapore, it said that we are clearly the most popular Asian seat. In this context, we are not talking about local construction arbitration or domain name disputes, but if we talk about international arbitrations, Singapore is the leading seat, and it is the third most preferred seat by companies, tied with Paris and Tokyo, and after London and Geneva. 
 
 
 {:start="48"}
@@ -331,7 +328,7 @@ Thank you for inviting me for this summit.
 55. We also have a very well-known arbitral body, the Singapore International Arbitration Centre (SIAC). It is one of the fastest-growing arbitral institutions in the world. It has administered more than 1,200 cases, of which 80 per cent are international. In 2010, it was shortlisted by Global Arbitration Review as one of the top arbitral institutions in the world, with the Board of Directors that reflected our philosophy – chaired by an Australian, with a blue ribboned board from across the world. We have taken an international approach for this whole centre.
 
 
-<ol start="7">
+<ol style="list-style-type: upper-roman; font-weight:bold;" start="7">
 <li> Conclusion</li>  
 </ol>
 
