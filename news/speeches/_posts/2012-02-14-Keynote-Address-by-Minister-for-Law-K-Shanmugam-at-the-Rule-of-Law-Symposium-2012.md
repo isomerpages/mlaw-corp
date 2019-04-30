@@ -478,12 +478,12 @@ Burglary / Housebreaking
 <ol start="51">
 <li> Other jurisdictions approach the issue differently. If you take the US,
 
-<ol>
+<ul>
 <li>The war on terror was approached as an armed conflict, and not a law and order issue </li>
 <li>Terrorists treated as enemy combatants </li>
 <li>Detention at Guantanamo Bay as enemy combatants – intended to put detainees out of reach of US laws – although the US courts have now declared that habeas corpus runs to Guantanamo </li>
 <li>That is one approach. </li>
-</ol>
+</ul>
 
 
 </li>
@@ -499,7 +499,7 @@ Burglary / Housebreaking
 
 <ol start="53">
 <li> What is clear is it is not possible to say without qualification that the ordinary process of law must be inflexibly adhered to, and that there is no trade-off involved.
-
+<ul>
 <li>Former US AG Alberto Gonzalez argued that civilian trials of terror suspects are simply not realistic. </li>
 
 <li>And to paraphrase the dissenting judgment of Justice Jackson in Terminiello v. Chicago (1948) </li>
@@ -507,7 +507,7 @@ Burglary / Housebreaking
 <li>Choice is not between with order and liberty. It is between liberty with order and anarchy with neither. </li>
 
 <li>If we do not temper doctrinal logic with practical wisdom, we turn the law into a suicide pact. </li>
-
+</ul>
 </li>
 </ol>
 
@@ -543,7 +543,7 @@ Burglary / Housebreaking
 {:start="60"}
 60. Thank you once again for inviting me to speak to you, and I look forward to hearing your views in tomorrow’s panel.
 
- h
+ 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012
 </p>
