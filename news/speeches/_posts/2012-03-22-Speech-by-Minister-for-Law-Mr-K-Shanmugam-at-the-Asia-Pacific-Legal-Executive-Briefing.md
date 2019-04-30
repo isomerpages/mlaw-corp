@@ -36,7 +36,7 @@ Thank you for inviting me here this morning to speak to you.
 {:start="6"}
 6. And this is a government that understands what needs to be done to achieve that.
 
-**Economic context**
+*Economic context*
 
 {:start="7"}
 7. If we take the economic context for Singapore, we are within a seven-hour flight radius of half the world’s population, and also offer easy access to major Asian business centres like Jakarta, Mumbai, New Delhi, Beijing, Shanghai, Hong Kong, Tokyo and Seoul.
@@ -207,7 +207,7 @@ Thank you for inviting me here this morning to speak to you.
 {:start="57"}
 57. We intend to take further steps to make sure we stay at the forefront in this field.  
 
-**Arbitration**
+*Arbitration*
 
 {:start="58"}
 58. If I could illustrate my points by taking arbitration as an example: 
@@ -236,7 +236,7 @@ Thank you for inviting me here this morning to speak to you.
 <ol start="66">
 <li>The key reasons why our approach has put Singapore on the international arbitration map are that we:
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>allow lawyers from any place in the world to appear in Singapore for arbitration cases;</li>
 
 <li>have a legislative framework that incorporates international best practices and that we keep changing to ensure relevance; </li>    
@@ -291,7 +291,7 @@ Thank you for inviting me here this morning to speak to you.
 {:start="79"}
 79. We also have a lot of law graduates who come back from overseas universities.
 
-<ol  style="list-style-type: upper-roman; font-weight:bold;" "start="3">
+<ol style="list-style-type: upper-roman; font-weight:bold;" start="3">
 <li> Conclusion</li>
 </ol>
 
