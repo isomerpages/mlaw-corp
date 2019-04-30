@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Minister for Law, Mr K Shanmugam, at the 2nd Annual Singapore Chamber of Maritime Arbitration (SCMA) Conference
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-2nd-annual-singapore-chamber-of-maritime
+permalink: /news/speeches/speech-by-sps-sim-ann-at-the-i-mediate-youth-mediation-day-2012
 breadcrumb: Speeches
 collection_name: news
 ---
