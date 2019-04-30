@@ -75,6 +75,8 @@ Ladies and gentlemen
 <li> A common ancestry or tradition; or</li>
 <li>A unity born out of revolution.</li>
 </ul>
+</li>
+</ol>
 
 {:start="6"}
 6. In fact, we were a highly improbable nation:
@@ -204,7 +206,7 @@ Ladies and gentlemen
 <li>One model, that of the US:
 
 <ol>
-<li>The Constitution is virtually impossible to amend. </li?>
+<li>The Constitution is virtually impossible to amend. </li>
 <li>The President, two Houses of Congress, federal and state structures – all set up to check each other, because of a deep distrust in the power of government. </li>
 <li>The result is that the US finds that it is not always able to move quickly. It takes some time to get to a consensus, decide, and then move.</li>
 </ol>
@@ -236,7 +238,7 @@ Ladies and gentlemen
 </li>
 </ol>
 
-<ol start="2">
+<ol start="2" style="list-style-type: lower-roman">
 <li><u>Criminal justice system</u></li>
 </ol>
 
@@ -540,6 +542,8 @@ Burglary / Housebreaking
 
 {:start="60"}
 60. Thank you once again for inviting me to speak to you, and I look forward to hearing your views in tomorrow’s panel.
+
+ h
 
 <p class="right-side-updated">Last updated on 25 Nov 2012
 </p>
