@@ -7,8 +7,8 @@ collection_name: news
 ---
 
 19 Oct 2011 Posted in [Speeches](/news/speeches)
-<br>
-Attorney-General,
+<br>  
+Attorney-General,  
 Friends,
 
 
@@ -86,7 +86,7 @@ Friends,
 17. Our appreciation also goes to Copyright Tribunal, who played an important role in resolving copyright licensing disputes.
 
 
-<ol start="7">
+<ol start="7" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Conclusion</li>
 </ol>
 
