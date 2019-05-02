@@ -52,3 +52,6 @@ Teachers and students,
 11. Thank you.
 
 [Annex A - Press Release (0.32MB)](/files/news/speeches/2012/02/linkclickc3f2.pdf)
+
+
+<p class="right-side-updated">Last updated on 25 Nov 2012</p>
