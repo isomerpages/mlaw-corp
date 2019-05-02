@@ -6,12 +6,15 @@ breadcrumb: Speeches
 collection_name: news
 ---
 
-Mr Quek Tong Boon, Chairman of the Intellectual Property Office of Singapore (IPOS),
-Mr Tan Yih San, Chief Executive of IPOS,
-Mr Tan Hang Cheong, Principal of Singapore Polytechnic,
-Mrs Woo Soo Min, Principal of Pasir Ris Crest Secondary School,
-Distinguished guests,
-Parents, educators, students and competitors,
+24 Jun 2011 Posted in [Speeches](/news/speeches)
+
+
+Mr Quek Tong Boon, Chairman of the Intellectual Property Office of Singapore (IPOS),  
+Mr Tan Yih San, Chief Executive of IPOS,  
+Mr Tan Hang Cheong, Principal of Singapore Polytechnic,  
+Mrs Woo Soo Min, Principal of Pasir Ris Crest Secondary School,  
+Distinguished guests,  
+Parents, educators, students and competitors,  
 
 1. Good evening. I am delighted to join all of you for the finale of "The Originals" Intellectual Property (IP) Champion Music Fiesta 2011.  Tonight marks the culmination of a four-day journey of learning about IP in a fun and creative environment. I am sure it has been intensive yet exciting for all of you.
 
@@ -19,7 +22,7 @@ Parents, educators, students and competitors,
 
 3. Since its inception in 2004, the IP Champion Camp has steadily grown in scale and involvement.  In 2004, we had 55 participants from nine schools. This year, 145 students from 21 schools participated. 
 
-4.This IP Champion Camp is part of IPOS' ongoing efforts to bring IP closer to the people.  At every Camp, all participants undergo a learning journey that enables them to appreciate that the original and creative expression of music and other art forms are IP which creative artists hold dearly and seek to protect. IP protection ensures that artists in the creative industry are rewarded for their hard work and they are in turn inspired to produce even more creative works for all of us to enjoy.  This is a key pillar towards building a buoyant creative industry in Singapore, and it is one of the things that keeps our economy special. 
+4. This IP Champion Camp is part of IPOS' ongoing efforts to bring IP closer to the people.  At every Camp, all participants undergo a learning journey that enables them to appreciate that the original and creative expression of music and other art forms are IP which creative artists hold dearly and seek to protect. IP protection ensures that artists in the creative industry are rewarded for their hard work and they are in turn inspired to produce even more creative works for all of us to enjoy.  This is a key pillar towards building a buoyant creative industry in Singapore, and it is one of the things that keeps our economy special. 
 
 5. As the Camp evolve over the years, our participants get to try their hand at different things. In previous years, we created comic strips and sculpted clay. This year’s Camp is about composing original songs. Through sharing sessions with music practitioners, artists and the hands-on experience of music creation, I am sure many of you now have a much more personal appreciation for IP.  
 
