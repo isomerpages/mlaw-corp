@@ -73,3 +73,6 @@ Ladies and gentlemen,
 
 {:start="17"}
 17. Thank you.
+
+
+<p class="right-side-updated">Last updated on 02 Dec 2012 </p>
