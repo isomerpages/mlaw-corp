@@ -97,8 +97,6 @@ Ladies and gentlemen
 </li>
 </ol>
 
-</li>
-</ol>
 
 {:start="8"}
 8. These ideals could only be realised through the law and the legal framework.
@@ -422,7 +420,7 @@ Burglary / Housebreaking
 45. But we never forget, and despite all that, people still fall short. So the principle is - Be you ever so high, the law is still above you. This is a quote from Thomas Fuller.
 
 <ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
- Some exceptions to due process
+<li> Some exceptions to due process </li>
 </ol>
 
 
