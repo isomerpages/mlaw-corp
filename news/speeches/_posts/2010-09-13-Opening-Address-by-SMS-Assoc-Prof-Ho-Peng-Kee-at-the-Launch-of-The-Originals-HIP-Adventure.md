@@ -19,31 +19,31 @@ Ladies and gentlemen,
 
 **IP Rights Infringement Poses a Threat to Creativity**
 
-
+{:start="2"}
 2. You may not be aware but IP is an integral part of our everyday lives. From the clothes we wear to the games we play; the movies we watch to the songs we listen to, they are all powered by IP.
 
 
-
+{:start="3"}
 3. Each of these works starts off as an idea which is the precious fruits of labour of a creative mind. These ideas are IP.
 
 
-
+{:start="4"}
 4. So why do we need to protect IP?
 
 
-
+{:start="5"}
 5. Imagine if you are the creator of such a work. You have invested time, effort and money, and your product is finally complete. Would you like your product to be used without your permission? This is where IP protection comes in. It helps to ensure that inventors or creators are rewarded for their work and inspire them to create more things for all of us to enjoy.
 
 
-
+{:start="6"}
 6. Today, the Internet has given us greater access to these materials. At a click of a mouse, we can share, download, or stream videos, games and MP3 songs.
 
 
-
+{:start="7"}
 7. This convenience, however, also has its downside. Many of these materials have been placed online without the knowledge of its creators. By accessing and sharing such works without the authorisation of the creators, users may unknowingly be infringing IP rights.
 
 
-
+{:start="8"}
 8. So how can you, as a user of the Internet, avoid infringing IP rights?
 
 
