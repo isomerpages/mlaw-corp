@@ -8,14 +8,13 @@ collection_name: news
 
 
 8 Jan 2011 Posted in [Speeches](/news/speeches)
-
 <br>  
 Good Morning
 <br>  
-Mr Harry Elias, Chairman, Pro-tem Committee, Senior Counsel Forum
-Mr Yam Ah Mee, Chief Executive Director, People’s Association
-Mr Jeffrey Chan, Deputy Solicitor-General
-Grassroots Leaders
+Mr Harry Elias, Chairman, Pro-tem Committee, Senior Counsel Forum  
+Mr Yam Ah Mee, Chief Executive Director, People’s Association  
+Mr Jeffrey Chan, Deputy Solicitor-General  
+Grassroots Leaders  
 Friends from the Legal Fraternity and People’s Association
 
 
