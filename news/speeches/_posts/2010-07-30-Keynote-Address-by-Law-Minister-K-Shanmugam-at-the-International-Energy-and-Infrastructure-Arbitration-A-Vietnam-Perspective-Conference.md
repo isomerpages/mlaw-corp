@@ -66,7 +66,7 @@ Ladies and gentlemen,
 {:start="12"}
 12. Let me highlight some of the key factors that make Singapore a good place for international arbitration in this context.
 
-<ol style="list-style-type: lower-alpha">
+<ol style="list-style-type: upper-alpha">
 <li><u>Neutrality</u></li>
 </ol>
 
@@ -85,7 +85,7 @@ Ladies and gentlemen,
 15. We also keep a close eye on developments in the arbitration industry.  When necessary, we move quickly and amend our legislation in a matter of months to keep up with global changes. This is in line with the government philosophy to support arbitration.  And with effect from the start of this year, our International Arbitration Act expressly empowers the Singapore Courts to grant interim orders in aid of international arbitration, irrespective of whether Singapore is the place of arbitration.
 
 
-<ol start="3">
+<ol start="3" style="list-style-type: upper-alpha">
 <li><u> Judicial Context and Philosophy</u></li>
 </ol>
 
@@ -101,8 +101,8 @@ Ladies and gentlemen,
 {:start="19"}
 19. Singapore’s Court of Appeal, our highest court, ruled last year and stated emphatically its philosophy: “An unequivocal judicial policy of facilitating and promoting arbitration has firmly taken root in Singapore.” And later in the same judgment: “The role of the court is now to support, and not to displace, the arbitral process.”
 
-<ol start="4">
-<li><u>Arbitral Institutions<</u>/li>
+<ol start="4" style="list-style-type: upper-alpha">
+<li><u>Arbitral Institutions</u></li>
 </ol>
 
 {:start="20"}
