@@ -20,8 +20,10 @@ Ladies and Gentlemen,
 
 **The Role of Developers and Architects**
 
+{:start="3"}
 3. Our vision for Singapore is a distinctive cosmopolitan city that is both a shining example of a global city of tomorrow and an endearing home for all.  As developers and architects, you play a critical role in shaping our constantly evolving cityscape. Your works form the elements of the urban backdrop to our daily life and help forge a distinctive Singapore skyline that Singaporeans can be proud of, and that visitors to our shores find memorable!   
 
+{:start="4"}
 4. Whilst achieving this, you also need to create and enhance the working, living and public spaces within which Singaporeans and other residents living here interact with one another. The challenge therefore is that Singapore must not only be a city known for its dramatic and exciting cityscape, but is also an inclusive, liveable and vibrant city that is enjoyed and embraced by citizens and visitors alike.
 
 **Architecture and Urban Design Excellence**
