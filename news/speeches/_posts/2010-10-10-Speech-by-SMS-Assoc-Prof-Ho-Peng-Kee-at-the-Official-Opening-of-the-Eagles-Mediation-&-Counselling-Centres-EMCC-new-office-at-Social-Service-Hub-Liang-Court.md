@@ -12,7 +12,7 @@ Mr. John Ng, Honorary Chairman
 Distinguished Guests  
 Ladies and Gentlemen  
 <br>  
-Introduction
+**Introduction**
 <br>
 1. I am happy to be here this afternoon at the official opening of this new EMCC office. I was present at the opening of your first centre in 1998. Hence, it gives me great joy to join all of you in celebrating this further milestone in EMCC’s development.
 
