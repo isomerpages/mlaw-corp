@@ -36,7 +36,7 @@ collection_name: news
 {:start="7"}
 7. Sir, MinLaw will continue to collaborate with the Law Society’s Pro Bono Services Office to strengthen our lawyers’ spirit of volunteerism, especially in the younger ones – I think a point that Mr Ong also makes – by creating opportunities for them to work on actual cases. LAB is working with NUS to set up an elective Clinical Legal Education programme, where third and fourth-year law students will be trained to assist clinical professors in legal aid cases, I think primarily family law type cases. LAB is also participating in an SAL programme involving junior college students aspiring to study law. In addition, LAB and the Pro Bono Services Office are working with NUS and SMU to foster student interest in pro bono legal work. So with successive batches of graduating students, we will lay strong foundations to foster volunteerism in lawyers.
 
-**Encouraging Practising Lawyers to Undertake Pro Bono Work^*
+**Encouraging Practising Lawyers to Undertake Pro Bono Work**
 
 {:start="8"}
 8. Now, as some lawyers, wishing to volunteer, may not know how to do so, the Pro Bono Services Office recently published a “Guide to Legal Pro Bono Opportunities” on its website. Lawyers can now choose something in line with their interests and available time.
