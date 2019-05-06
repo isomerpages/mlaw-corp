@@ -123,7 +123,7 @@ Ladies and gentlemen,
 {:start="25"}
 25. Last year, a new blue-ribboned SIAC Board was appointed, comprising nine arbitrators and arbitration counsel, several of whom are internationally known. The new Board is chaired by Professor Michael Pryles, who is ranked among the top 20 arbitration specialists in the world and who is a non-Singaporean.  There are seven other members of whom six are non-Singaporeans.  These appointments to SIAC’s Board bring a new depth of international expertise to SIAC and further boost its reputation as a premier international arbitral institution.
 
-<ol start="5">
+<ol style="list-style-typer: upper-alpha" start="5">
 <li><u>Maxwell Chambers</u></li>
 </ol>
 
