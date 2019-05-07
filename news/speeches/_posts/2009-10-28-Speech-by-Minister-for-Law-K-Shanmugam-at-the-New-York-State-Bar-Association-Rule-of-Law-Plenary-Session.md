@@ -294,10 +294,17 @@ Ladies and gentlemen.
 56. Let me illustrate by reference to a concrete example. Take healthcare. You are able to consider healthcare reforms over four Presidential terms, assuming we start counting from the first Clinton Presidency. And you are able to spend 17 per cent of your GDP on healthcare. You debate about 40 odd million American not having coverage. And in the latest debate, you are able to have many different groups express their views, and lobby groups contribute several hundred million dollars to this debate.
 
 <ol start="57">
+<li>  In our situation, we:
+ 
+<ol>
 <li>Do not think we can debate such an issue for years. </li>
 <li> We do not think our people will accept it if a significant number do not have some coverage. </li>
 <li> We can’t afford to spend 17 per cent of our GDP on healthcare – if we did, the NYSBA will not be having its Conference here. We spend four per cent. </li>
-<li>And we do not think lobby groups can or should intervene with the Executive, in Singapore, on any debate. </li>
+<li>And we do not think lobby groups can or should intervene with the Executive, in Singapore, on any debate. </li> 
+</ol>
+ 
+</li> 
+
 </ol>
 
 
@@ -320,6 +327,8 @@ Ladies and gentlemen.
 63. In detention, they undergo reformative training. Independent clerics discuss the theology with them. If they renounce their jihadist beliefs and pose no threat to society, they are released and several have been released. The release can be on conditions.
 
 <ol start="64">
+<li> The powers of preventive detention are subject to some important checks and balances provided in the Constitution and the ISA . For instance:
+ <ol>
 <li>The detainee has the right to make representations to an Advisory Board, which must be considered, and is free to engage a lawyer of his choice for this purpose. </li>
 <li>The Advisory Board is appointed by the President, and is headed by a Supreme Court judge. It has the powers of a court of law to subpoena witnesses including investigators, and examine documents, including classified intelligence. </li>
 <li>It is required to review the detainees’ detentions on a regular basis. </li>
@@ -327,7 +336,8 @@ Ladies and gentlemen.
 <li>Apart from the Advisory Board, members of a Board of Inspection, comprising Justices of the Peace and community leaders, are empowered to make unscheduled visits to the ISA detention facility and meet the detainees. By law, the Inspection Board is required to make an inspection at least once a month. Members are entitled to speak to the detainees and report their complaints and concerns. </li>
 <li>Doctors examine detainees regularly, although detainees may ask for a doctor at any time. Any injuries sustained by the detainees must be reported. </li>
 <li>Finally, detainees receive weekly visits from their families. This is an important component of their rehabilitation and helps prepare them for reintegration into society after their release. </li> 
-  
+ </ol>
+</li>  
 </ol>
 
 {:start="65"}
@@ -347,7 +357,7 @@ Ladies and gentlemen.
 {:start="68"}
 68. We also have active diplomacy and good relationships with a large number of countries – a key aspect of our strategic security.
 
-<ol start="9" style="list-style=type: upper-roman; font-weight:bold;">
+<ol start="9" style="list-style-type:upper-roman; font-weight:bold;">
 <li>High Quality Public Service</li> 
 </ol>  
 
@@ -372,7 +382,7 @@ Ladies and gentlemen.
 {:start="75"}
 75. Those are the four fundamentals. It puts in context the Rule of Law as we see it.
 
-<ol start="10" style="list-style=type: upper-roman; font-weight:bold;">
+<ol start="10" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Broader Issues</li> 
 </ol>  
 
@@ -408,7 +418,7 @@ Ladies and gentlemen.
 84. The Privy Council of England explained this in <u>Haw Tua Tau v Public Prosecutor</u> [1982] 1 AC 136:
 
 
-<u>English law has always recognised the right of the deciders of fact in a criminal trial to draw inferences from the failure of a defendant to exercise his right to give evidence and thereby submit himself to cross-examination.</u>. ***It would in any event be hopeless to expect jurors or judges, as reasonable men, to refrain from doing so.***
+<u>English law has always recognised the right of the deciders of fact in a criminal trial to draw inferences from the failure of a defendant to exercise his right to give evidence and thereby submit himself to cross-examination.</u>. ***It would in any event be hopeless to expect jurors or judges, as <u>reasonable men</u>, to refrain from doing so.***
 
 {:start="85"}
 85. These principles were tested in the <u>Haw Tua Tau</u> case, which I intend to touch on briefly. It is an important illustration of the approach of our criminal justice system. 
@@ -420,7 +430,7 @@ Ladies and gentlemen.
 87. He subsequently decided to appeal to the Privy Council in London. The point was a technical point of law.
 
 {:start="88"}
-88. The argument ran as follows. The High Court had called on Haw to give evidence during his trial. In line with the statutory requirement, the Court had informed Haw of the consequences of refusing to give evidence. He argued that this had the effect of putting him under a compulsion to give evidence (despite his being told in the course of the standard allocution that he is not). He alleged breach of natural justice, by compelling him to give evidence despite his privilege against self incrimination. 
+88. The argument ran as follows. The High Court had called on Haw to give evidence during his trial. In line with the statutory requirement, the Court had informed Haw of the consequences of refusing to give evidence. He argued that this had the effect of putting him under a <u>compulsion</u> to give evidence (despite his being told in the course of the standard allocution that he is not). He alleged breach of natural justice, by compelling him to give evidence despite his privilege against self incrimination. 
 
 {:start="89"}
 89. Accordingly, he argued that the relevant provisions of the Criminal Procedure Code ( CPC ) were <u>unconstitutional</u>, for failing to comply with Article 9(1) of the Constitution:
@@ -447,10 +457,11 @@ Ladies and gentlemen.
 {:start="95"}  
 95. The Council saw nothing wrong with that either. It held (at p152 to 153):
 
+*English law has always recognised the right of the deciders of fact in a criminal trial to draw inferences from the failure of a defendant to exercise his right to give evidence …<u>very often the judge did comment and draw to the attention of the jury inferences that they might properly draw, if they thought fit, from the failure of the accused to go into the witness box to contradict the evidence of the prosecution</u> on matters that were **<u>within his own knowledge</u>** or to **<u>displace a natural inference as to his mental attitude at the time of the alleged offence that</u>**, in the absence of some other explanation, would properly be drawn by any **<u>reasonable person from his conduct at that time.</u>*** 
 
-English law has always recognised the right of the deciders of fact in a criminal trial to draw inferences from the failure of a defendant to exercise his right to give evidence …<u>very often the judge did comment and draw to the attention of the jury inferences that they might properly draw, if they thought fit, from the failure of the accused to go into the witness box to contradict the evidence of the prosecution</u? on matters that were **<u>within his own knowledge</u>** or to **<u>displace a natural inference as to his mental attitude at the time of the alleged offence that,</u>** in the absence of some other explanation, would properly be drawn by **<u>any reasonable person from his conduct at that time.</u>**
+*…What inferences are proper to be drawn from an accused's refusal to give evidence depend upon the circumstances of the particular case, and is **<u>a question to be decided by applying ordinary commonsense - on which the judiciary of Singapore needs no instruction by this Board.”</u>*** 
 
-…What inferences are proper to be drawn from an accused's refusal to give evidence depend upon the circumstances of the particular case, and is **<u>a question to be decided by applying ordinary commonsense - on which the judiciary of Singapore needs no instruction by this Board.”</u>**
+
 
 <ol start="96">
 <li>  What is the result of our approach?:
@@ -489,7 +500,7 @@ English law has always recognised the right of the deciders of fact in a crimina
 102. I also said in my Opening: Look at the countries that became independent after World War II. Most of them have more natural resources, larger territory, bigger population than us. How do we compare relatively, on broad measures of progress?
 
 {:start="103"}
-103.Over the years, we have faced various criticisms. We looked at them and worked on those which were sensible. We ignored the rest.
+103. Over the years, we have faced various criticisms. We looked at them and worked on those which were sensible. We ignored the rest.
 
 
 <ol start="104">
