@@ -36,9 +36,9 @@ Good morning.
 
 *“Money is indeed the most important thing in the world; and all sound and successful personal and national morality should have this fact for its basis.”*
 <br>    
-Who said this? Walter Bagehot? No. Some outstanding Governor of the Bank of England , perhaps Montagu Norman? Again, no. Milton Friedman? Friedrich von Hayek? Wrong again.
+*Who said this? Walter Bagehot? No. Some outstanding Governor of the Bank of England , perhaps Montagu Norman? Again, no. Milton Friedman? Friedrich von Hayek? Wrong again.*
 <br>  
-It was none other than George Bernard Shaw, a socialist thinker, one of the intellectual high priests of the Fabian Society, the think-tank of the British Labour Party.
+*It was none other than George Bernard Shaw, a socialist thinker, one of the intellectual high priests of the Fabian Society, the think-tank of the British Labour Party.*
 <br>  
 
 {:start="4"}
@@ -51,7 +51,7 @@ It was none other than George Bernard Shaw, a socialist thinker, one of the inte
 *The Reply he gave deserves to be recorded in history. “Money,” he said, “is one of the great institutions of human civilisation. It must therefore be treated with proper respect. Where money is mistreated, such as through government expropriation, or inflation caused by deficit financing, a safe refuge should be provided.”*
 
 {:start="5"}
-5. Dr Goh ended with this comment: “All those connected with money – managing it, making it or printing it – must be people of impeccable moral character.”
+5. Dr Goh ended with this comment: “*All those connected with money – managing it, making it or printing it – must be people of impeccable moral character.*”
 
 {:start="6"}
 6. Now you can see why I chose to quote Dr Goh at some length.
@@ -73,7 +73,7 @@ It was none other than George Bernard Shaw, a socialist thinker, one of the inte
 <ol start="10">
 <li>On the related question of how we treat money, our fundamental approach has always been and continues to be: Your money is safe in Singapore . We treat money with respect and protect it with honesty and a legitimate framework of laws. To achieve this:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Our legal framework has to be comparable to the best in the world. We ensure that. </li>
 <li>The framework has to be underpinned by a strong adherence to the Rule of Law and an excellent judicial system. Our Judiciary is ranked among the top in the world by international institutions. </li>
 <li> We must have an environment that is conducive to international Financial Institutions, Trust and Estate Practitioners, lawyers and allied professionals. In such an environment, comprehensive wealth management services can be offered. We provide that. </li>
@@ -96,15 +96,19 @@ It was none other than George Bernard Shaw, a socialist thinker, one of the inte
 {:start="13"}
 13. Let me state clearly our approach to this issue.
 
-
+{:start="1"}
 1. We are a responsible financial centre built on sound prudential standards and trust.
 
+{:start="2"}
 2. We do not see ourselves as a haven for laundered money. We do not seek to welcome such monies. We have a strong framework of laws to deal with money laundering.
 
+{:start="3"}
 3. We play an active role in the global fight against financial crimes. 
 
+{:start="4"}
 4. Singapore is a member of the Financial Action Task Force (FATF), a founding member of the Asia-Pacific Group on Money Laundering, and actively contributes to the development of international financial standards to combat money laundering and terrorist financing.
 
+{:start="5"}
 5. We offer assistance on bona fide requests for tax information through our Avoidance of Double Taxation Agreements. 
 
 <ol start="6">
@@ -134,16 +138,16 @@ It was none other than George Bernard Shaw, a socialist thinker, one of the inte
 </li>
 </ol>
 
-{:start="10"}
-10. However, implementing the Standard and the DTAs for Exchange of Information does not mean that fishing expeditions will be entertained. 
+{:start="14"}
+14. However, implementing the Standard and the DTAs for Exchange of Information does not mean that fishing expeditions will be entertained. 
 
-{:start="11"}
-11. Under the standard, as set out in the DTAs, certain conditions have to be fulfilled before there can be access to information.
+{:start="15"}
+15. Under the standard, as set out in the DTAs, certain conditions have to be fulfilled before there can be access to information.
 
-{:start="12"}
-12. Spurious requests and fishing expeditions will not be entertained. The request for information has to be specific, detailed and relevant to the tax affairs of the tax payer in question. We will only provide assistance where there is a genuine case, and the requested information is specific and relevant to the case. The Requesting Jurisdiction must also comply with documentary requirements set out in the legislation. 
+{:start="16"}
+16. Spurious requests and fishing expeditions will not be entertained. The request for information has to be specific, detailed and relevant to the tax affairs of the tax payer in question. We will only provide assistance where there is a genuine case, and the requested information is specific and relevant to the case. The Requesting Jurisdiction must also comply with documentary requirements set out in the legislation. 
 
-<ol start="13">
+<ol start="17">
 <li>The Finance Minister told Parliament yesterday, and I quote:
 
 <ol>
@@ -200,7 +204,7 @@ It was none other than George Bernard Shaw, a socialist thinker, one of the inte
 {:start="21"}
 21. Despite the recent financial crisis, the prospects for the trust industry remain positive. 
 
-
+{:start="1"}
 1. **Robust Asian Growth** : Although real GDP growth in Asia , excluding Japan , is expected to slow in the immediate term, from 6.6 per cent in 2008 to 4.6 per cent in 2009, the region is still expected to outperform the global economy.
 
 {:start="2"}
