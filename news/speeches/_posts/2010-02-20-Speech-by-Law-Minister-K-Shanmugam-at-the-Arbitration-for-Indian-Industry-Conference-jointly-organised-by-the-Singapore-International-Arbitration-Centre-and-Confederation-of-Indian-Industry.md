@@ -102,7 +102,7 @@ Ladies and gentlemen,
 {:start="18"}
 18. And just to see how far Singapore has moved, in 1989, there was a decision (it was circulated all around the world to say why Singapore should not be a place to arbitrate) where our High Court ruled, correctly, on the law as it then stood, that foreign lawyers cannot take part in arbitrations in Singapore. And the person who got that injunction is now the Deputy Chairman of the SIAC sitting here, Mr Sundaresh Menon, considered one of the leading arbitrators in Asia now. Again, today we have moved our legislative system and changed the laws such that anyone from anywhere in the world can come and arbitrate in Singapore without having to use Singapore lawyers. So, you could and frequently have a situation where two sets of law firms from two different jurisdictions appointing arbitrators from all over the world; and the only connection to Singapore is that the seat of the arbitration is in Singapore. If they need the assistance of the Singapore Courts, then they need to get some Singapore lawyers who can appear at the Bar. But other than that, you can envisage a situation where two Indian law firms, for example, resolve a dispute through arbitration in Singapore employing a panel of three Indian arbitrators. Legislatively and philosophically, that is encouraged now.
 
-<ol start="4">
+<ol start="4" style="list-style-type: upper-alpha">
 <li><u>Arbitral Institutions</u></li>
 </ol>
 
