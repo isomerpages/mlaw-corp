@@ -238,7 +238,7 @@ Good evening.
 
 <ol start="3" style="list-style-type: upper-alpha">
 <li><u>  Liveable City</u></li>
-</ol
+</ol>
 
 {:start="42"}
 42. We also have low taxes. The top bracket for personal income tax is 20 per cent and for corporate income tax only 18 per cent. These rates are amongst the lowest in the world. Many tax incentives are also available. Quality of life here is excellent. Mercer’s 2009 Report ranks us top in the world for City Infrastructure and 26<sup>th</sup> overall. The Mori Report, based on a comprehensive survey places us 5<sup>th</sup> in the world, after NY, London, Paris and Tokyo. The survey is based on the economy, R&D, cultural interaction, liveability, ecology, natural environment and accessibility. Singapore is a great place to bring up a family, with excellent schools, parks and recreation. And you get great access to nature within – one to two hours of flight.
