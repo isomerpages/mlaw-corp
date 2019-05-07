@@ -44,7 +44,7 @@ Ladies and gentlemen,
 {:start="4"}  
 4. The question that has been posed in this conference can however be asked of India, at this point in time: it is the biggest economy in South Asia, it is plugged in relatively more to the world economy and has therefore felt more of the impact of the crisis; and while it has some very serious non-economic challenges, on the whole, its economic transformation can be expected to have some impact on the world. I will therefore speak on India. 
 
-<ol start="2" style="list-style-type: upper-alpha">
+<ol start="2" style="list-style-type: upper-roman">
 <li><u> “Beyond” the Crisis”</u></li>
 </ol>
 
