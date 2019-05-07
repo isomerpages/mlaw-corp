@@ -44,7 +44,7 @@ Good morning.
 {:start="4"}
 4. What Dr Goh then went on to say, 25 years ago, is startlingly relevant now (I am quoting and paraphrasing only parts):
 
-*“The world has obviously changed since Shaw wrote these words at the turn of the century, nearly a hundred years ago. In some respects the change has been for the better, but in the way money is managed in most states – modern, developing or broken-backed – the change has nearly always been for the worse. This would have to start with the collapse in 1971 of the Bretton Woods system of fixed exchange rate parities, the OPEC oil shocks and the frightening problem of international debt. **[Wonder what he thinks about international debt today!]*
+*“The world has obviously changed since Shaw wrote these words at the turn of the century, nearly a hundred years ago. In some respects the change has been for the better, but in the way money is managed in most states – modern, developing or broken-backed – the change has nearly always been for the worse. This would have to start with the collapse in 1971 of the Bretton Woods system of fixed exchange rate parities, the OPEC oil shocks and the frightening problem of international debt. **[Wonder what he thinks about international debt today!]***
 
 *It is more useful that I relate a discussion I had during my last stint in the Finance Ministry, with a banker. This episode supports the point I am making about low standards of money management.   I asked him why banks ran secret numbered accounts.*
 
@@ -161,32 +161,6 @@ Good morning.
 </li>
 </ol>
 
-{:start="14"}
-14. These requirements are not meant to frustrate or delay the request. They are consistent with the Standard and have been put in to ensure that the procedures are not abused.
-
-{:start="15"}
-15. We believe that this framework is fair. It conforms to international standards while safeguarding an individual’s right to privacy.
-
-<ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
-<li>Prospects for Trust Industry</li>
-</ol>
-
-{:start="16"}
-16. Let me now turn to the prospects for the Trust Industry in Singapore , as we see it. We believe that our regulatory and supervisory framework, together with good corporate governance, will ensure high standards of probity, professionalism and good business conduct, in the trust services industry here.  Singapore will continue to grow as a trust jurisdiction. To date, Singapore has licensed close to 40 trust companies. 
-
-<ol start="17">
-<li>The Finance Minister told Parliament yesterday, and I quote:
-
-<ol>
-<li>“The Standard does not allow jurisdictions to take advantage of the information system of another jurisdiction if it is wider than their own system. Hence, we will only exchange information that a requesting jurisdiction would have ordinarily been able to obtain under its own laws or administrative practices, had the information resided in that jurisdiction in the first place. Jurisdictions must also have pursued all domestic means to access the requested information before putting forth a request to us. </li>
-
-<li>The Standard also sets out clear limits on the types of information that jurisdictions are obliged to exchange. Jurisdictions are not obliged to exchange trade or business secrets, or information that is subject to legal privilege. They may also decline to exchange certain information if doing so would be contrary to public policy. </li>
-
-<li>There will be safeguards for assisting in requests relating to information that is protected from unauthorised disclosure under the Banking Act and Trust Companies Act.  The affected taxpayer and bank or trust company will be notified of the request, unless there are exceptional circumstances, such as if doing so would prejudice an investigation into any breach of tax laws, or prevent or unduly delay the effective exchange of information. An application has to be made to the High Court for a production order to access the requested information. The affected taxpayer and bank or trust company has the right to apply to the Court to discharge or vary the Court order.”   </li> 
-</ol>
-
-</li>
-</ol>
 
 {:start="18"}
 18. These requirements are not meant to frustrate or delay the request. They are consistent with the Standard and have been put in to ensure that the procedures are not abused.
