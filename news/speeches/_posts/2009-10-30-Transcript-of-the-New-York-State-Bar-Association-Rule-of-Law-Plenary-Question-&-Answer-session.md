@@ -7,9 +7,9 @@ collection_name: news
 ---
 
 30 Oct 2009 Posted in [Speeches](/news/speeches)
-<br>
+<br>  
 Minister for Law K Shanmugam participated in the Question & Answer session at the New York State Bar Association (NYSBA) Rule of Law Plenary, held on 28 October 2009 (Wednesday). Minister Shanmugam spoke on the political landscape here as well as freedoms. Below is the transcript of the Question & Answer session.
-<br>
+<br>  
 <u>Attachment</u>
 
 
