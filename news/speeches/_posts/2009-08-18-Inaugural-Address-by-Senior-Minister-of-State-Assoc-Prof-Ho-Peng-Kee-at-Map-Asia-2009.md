@@ -8,9 +8,9 @@ collection_name: news
 
 18 Aug 2009 Posted in [Speeches](/news/speeches)
 
-*President of GIS Development, Doctor Narayanan*
-*Distinguished Guests*
-*Ladies and Gentlemen*
+*President of GIS Development, Doctor Narayanan*  
+*Distinguished Guests*  
+*Ladies and Gentlemen*  
 
 1. Good morning. I am happy to be here at the opening of Map Asia 2009.  It’s good to see so many overseas and local participants gather to exchange ideas, share experiences and discuss new trends for the geospatial industry.  
 
