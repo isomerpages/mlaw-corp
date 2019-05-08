@@ -74,6 +74,7 @@ Ladies and gentlemen,
 <li><u>Institute of Legal Education</u></li>
 </ol>
 
+{:start="12"}
 12. Fourth, next year, the Institute of Legal Education (ILE) will be set up. The ILE will be an umbrella body to coordinate, and handle Continuing Legal Education as well as the Bar Exams. There will be much more emphasis on Continuing Legal Education. It will function under the supervision and direction of the Honourable Chief Justice and the Academy.
 
 <ol start="5" style="list-style-type: upper-alpha">
@@ -138,10 +139,11 @@ Ladies and gentlemen,
 
 <ol start="22">
 <li>The main impact of the QFLPs will be on:
+<ol style="list-style-type: lower-roman">  
 <li>Talent: both inflow and retention. </li>
 <li>Remuneration: comparisons will be made with what the QFLPs pay. </li>
 <li>Clients: the QFLPs will compete for blue chip clients. </li>
-
+</ol>
 </li>
 </ol>
 
@@ -158,7 +160,7 @@ Ladies and gentlemen,
 <ol start="26">
 <li>In some ways medium sized firms may be particularly affected by the changes.
 
-<ol start="list-style-type: lower-roman">
+<ol style="list-style-type: lower-roman">
 <li>Before the changes, they were aiming to grow bigger and do the top tier work. </li>
 <li>With the altered landscape, there will be pressures on:
 
