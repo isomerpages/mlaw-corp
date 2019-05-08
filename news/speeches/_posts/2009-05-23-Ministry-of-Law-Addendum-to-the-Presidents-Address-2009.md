@@ -59,7 +59,7 @@ collection_name: news
 {:start="14"}
 14. We will monitor how other countries implement arrangements to process patent applications more expeditiously, to facilitate the protection of the interests of overseas businesses. We will also support and nurture Singapore's standing as a centre of excellence for IP education and training. 
 
-**<u>Attachment</u>**
+**<u>Attachment</u>**  
 [Supplementary information (0.02MB)](/files/news/speeches/2009/05/linkclick8cfa.pdf)
 
 
