@@ -188,10 +188,13 @@ collection_name: news
 
 * *Needs to be made more accessible and visit has to be a pleasant, informative experience. If enough is done, tourism figures will explore. Every visitor is a potential ambassador of Indian culture.*
 
+{:start="20"}
 20. *At present, to visit several of these places, using a recurrent theme in Hindu philosophy and Puranans to draw an analogy of this experience.*
 
+{:start="21"}
 21. *Idea of Penance: you have to persevere, go through a long and arduous journey with extreme discipline and then you are rewarded by the divine. Visiting some such places of interest has reminded me of that idea of penance. But most of us are humans, weak of flesh and weaker in spirit, who prefer the modern conveniences even in ancient historical places. We are not Karnas or Arjunas who can sit absolutely still while being painfully bitten or stand on one leg for too long.*  
 
+{:start="22"}
 22. *The treasures of India can be made more fully and freely accessible to the vast majority of the world. When that happens, allied with economic progress, we will not need to be talking about preserving Indian culture and heritage. It will happen by itself.*
 
 
