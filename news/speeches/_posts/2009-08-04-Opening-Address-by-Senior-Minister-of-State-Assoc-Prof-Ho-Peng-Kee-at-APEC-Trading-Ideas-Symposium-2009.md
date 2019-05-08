@@ -10,13 +10,13 @@ collection_name: news
 
 <br>
 
-*Director-General of the World Intellectual Property Organisation,*
-*Dr Francis Gurry,*
-<br> 
+*Director-General of the World Intellectual Property Organisation,*  
+*Dr Francis Gurry,*  
+<br>   
 *Heads of IP Offices,*
-<br> 
+<br>   
 *Distinguished guests,*
-<br> 
+<br>   
 *Ladies and gentlemen,*
 
 
