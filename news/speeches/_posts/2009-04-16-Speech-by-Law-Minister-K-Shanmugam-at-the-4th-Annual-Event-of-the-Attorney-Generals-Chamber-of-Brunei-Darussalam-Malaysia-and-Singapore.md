@@ -9,13 +9,13 @@ collection_name: news
 
 16 Apr 2009 Posted in [Speeches](/news/speeches)
 <br>  
-Your Excellencies, the Attorneys-General of Brunei Darussalam, Malaysia and Singapore,
+*Your Excellencies, the Attorneys-General of Brunei Darussalam, Malaysia and Singapore,*
 <br>  
-Solicitors-General,
+*Solicitors-General,*
 <br>  
-Distinguished guests,
+*Distinguished guests,*
 <br>  
-Ladies and gentlemen,
+*Ladies and gentlemen,*
 <br>  
 
 
