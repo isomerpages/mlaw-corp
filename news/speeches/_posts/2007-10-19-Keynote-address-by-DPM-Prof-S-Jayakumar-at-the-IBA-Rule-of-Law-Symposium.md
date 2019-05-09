@@ -74,7 +74,7 @@ Singapore has a population of 4.68 million, of whom slightly more than 1 million
 
 **Illustrations from Singapore's experience: social, law and order, national security**
 
-<u>Social</u>
+*<u>Social</u>*
 
 {:start="16"}
 16. A homogenous population with settled customs and expectations can get on without many explicit laws, because so much is understood without having to be spelled out. Social responsibility in such societies is enforced by peer pressure.
@@ -101,7 +101,7 @@ Singapore has a population of 4.68 million, of whom slightly more than 1 million
 23. To have a culture of rule of law needs more than enactment of sound legislation and the will to enforce the legislation. It needs to be actively nurtured and fostered. In Singapore, we have set up Inter-Racial and Religious Confidence Circles where different faiths have a regular platform to engage in dialogue. In 2003, the Government adopted a Declaration of Religious Harmony, which is an affirmation on the importance of, and Singaporeans' commitment towards peace and harmony. Every year our schools commemorate Religious Harmony Day and celebrate our diversity.
 
 
-<u>Law and order</u>
+*<u>Law and order</u>*
 
 {:start="24"}
 24. We believe that the society at large, whether Singaporeans, foreigners or tourists, should live and work free of molestation and harm from criminals.
@@ -134,13 +134,13 @@ Singapore has a population of 4.68 million, of whom slightly more than 1 million
 32. This need for balance can be seen in the Asian Wall Street Journal's (AWSJ) response to recently enacted anti-terror law in the Philippines. Rights groups and NGOs in the Philippines had criticised this law, but AWSJ in its editorial on 23 July 2007 argued that the law did not go far enough:
 
 *"Overall, the law lays out 22 penalties for law enforcement, and only four for the terrorists.
-Much of that strikes us as tipping the balance too far toward suspects at the expense of security. By so scrupulously protecting alleged terrorists' rights, the Human Security Act may deter Filipino law enforcement from acting when it should to protect the rights of its citizens to life and safety. The three-day detention without charge provision is far too short to be effective. The explicit protections for journalists, doctors and lawyers may encourage terrorists to exploit those professions. And the outlawing of "psychological" and "moral" torture -- which could be construed as almost anything -- leaves law enforcements with very few tools through which to extract information out of their subjects.*
+Much of that strikes us as **tipping the balance too far toward suspects** at the expense of security. By so scrupulously protecting alleged terrorists' rights, the Human Security Act may deter Filipino law enforcement from acting when it should to protect the rights of its citizens to life and safety. The three-day detention without charge provision is far too short to be effective. The explicit protections for journalists, doctors and lawyers may encourage terrorists to exploit those professions. And the outlawing of "psychological" and "moral" torture -- which could be construed as almost anything -- leaves law enforcements with very few tools through which to extract information out of their subjects.*
 <br>  
 
 *Given that, it's ironic -- and misleading -- for NGOs to rail against the Filipino law, which contains far more legal protections for terrorist suspects than it does for law enforcement. "The Philippine Congress should repeal or revise the act to comply with human rights standards," Human Rights Watch complained. Even United Nations special rapporteur Martin Scheinin called on the legislature to reconsider the law.*
 <br>  
 
-*We agree, Filipino policy makers should reconsider it -- and make it stronger."*
+*We agree, Filipino policy makers should reconsider it -- **and make it stronger**."*
 
 **Singapore's experience with terrorism and religious extremism**
 
