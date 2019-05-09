@@ -44,11 +44,17 @@ Trademark filings under the Madrid system grew by nearly 70% over the same perio
 {:start="9"}
 9. As a responsible and constructive member of the international IP community, Singapore is committed to supporting and contributing to IP manpower development in the region. For instance, the Singapore IP Academy has seen an increasing number of overseas participants in its courses and seminars. IPOS also collaborates with WIPO and regional groupings like ASEAN and APEC in their capacity building initiatives.
 
+**Conclusion**
+
 {:start="10"}
-10. I would like to wish all of you very fruitful discussions at this APAA Council Meeting. 
+10. IP will continue to grow in importance in the development of many economies, particularly those in Asia, and IP professionals like you play a critical role. I am confident that the IP profession and the IP services sector in the region will grow from strength to strength on the back of the surge in creative endeavours, technological advances and enterprise that we are witnessing today. There will be many challenges ahead for the profession, but there will also be vast opportunities.
+
 
 {:start="11"}
-11. Thank you.
+11. I would like to wish all of you very fruitful discussions at this APAA Council Meeting. 
+
+{:start="12"}
+12. Thank you.
 
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
