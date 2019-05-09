@@ -10,7 +10,7 @@ collection_name: news
 
 1. Dr Teo Ho Pin, Mr Michael Palmer and Mr Masagos Zulkifli's cuts generally involve the issue of "access to justice". It is to facilitate access to justice that we continually review the legal aids means test and established the Community Legal Clinics (CLCs) and Community Mediation Centres (CMCs).
 
-*Legal Aid Bureau*
+**Legal Aid Bureau**
 
 <u>Revisions to Legal Aid Means Test made last year</u>
 
