@@ -48,5 +48,5 @@ The opening of the Pro Bono Services Office is an important milestone for the La
 
 Thank you.
 
-g
+
 <p class="right-side-updated">Last updated on 26 Nov 2012</p> 
