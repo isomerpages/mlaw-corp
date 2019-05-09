@@ -8,7 +8,7 @@ collection_name: news
 
 8 Jan 2008 Posted in [Speeches](/news/speeches)
 
-![biannual-meeting-of-the-icc](/images/news/speeches/1399988690780.jpg)
+<img src="/images/news/speeches/1399988690780.jpg" alt="biannual-meeting-of-the-icc" style="width:300px;height:201px;"> 
 
 Deputy Prime Minister and Minister for Law Prof S Jayakumar delivering his introductory remarks at the biannual meeting of the ICC Commission on Arbitration. Joining him on stage are Chair of ICC Commission on Arbitration Mr Peter Wolrich, Chairman of UNCITRAL Working Group on Arbitration Mr Michael Schneider and Chairman of ICC International Court of Arbitration Prof Pierre Tercier. 
 
