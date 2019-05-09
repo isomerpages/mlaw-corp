@@ -8,7 +8,7 @@ collection_name: news
 
 27 Mar 2008 Posted in [Speeches](/news/speeches)
 
-![address-by-sms-ap](/images/news/speeches/1399988674478.jpg)
+<img src="/images/news/speeches/1399988674478.jpg" alt="address-by-sms-ap" style="width:354px;height:243px;" />
 
 Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee delivered the welcome address at the launch of the Law Society's Pro Bono Services Office at the Subordinate Courts on 10 Sept 2007. He is accompanied by Mr Philip Jeyaretnam, SC, President of Law Society and Mr Jimmy Yim, SC, from Drew & Napier.
 
@@ -48,5 +48,5 @@ The opening of the Pro Bono Services Office is an important milestone for the La
 
 Thank you.
 
-
+g
 <p class="right-side-updated">Last updated on 26 Nov 2012</p> 
