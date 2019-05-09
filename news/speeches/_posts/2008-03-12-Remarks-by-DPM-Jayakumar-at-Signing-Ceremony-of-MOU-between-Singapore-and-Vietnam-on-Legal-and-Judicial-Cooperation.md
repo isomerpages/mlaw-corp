@@ -18,7 +18,7 @@ collection_name: news
 *His Excellency Nguyen Trung Thanh, Ambassador to the Republic of Singapore,*
 <br>  
 *Distinguished guests,* 
-<br>
+<br>  
 *Ladies and gentlemen,*
 <br>  
 
