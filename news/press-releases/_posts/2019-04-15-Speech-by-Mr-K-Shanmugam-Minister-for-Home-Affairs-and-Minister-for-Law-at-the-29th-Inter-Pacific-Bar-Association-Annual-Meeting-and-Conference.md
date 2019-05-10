@@ -22,11 +22,11 @@ collection_name: news
 {:start="5"}
 5. All feedback should be titled “REFJA (Amendment) Bill public consultation comments” and submitted by 24 May 2019 via post or email to:
 
-**International Legal Division**  
-**Ministry of Law**  
-**100 High Street**  
-**#08-02 The Treasury**  
-**Singapore 179434**  
-**E-mail: <MLAW_Consultation@mlaw.gov.sg>**
+<p class="address-centered"><strong>International Legal Division</strong></p>  
+<p class="address-centered"><strong>Ministry of Law</strong></p>  
+<p class="address-centered"><strong>100 High Street</strong></p>  
+<p class="address-centered"><strong>#08-02 The Treasury</strong></p>  
+<p class="address-centered"><strong>Singapore 179434</strong></p>  
+<p class="address-centered"><strong>E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></strong></p>
 
 <p class="right-side-updated">Last updated on 25 Apr 2019</p>
