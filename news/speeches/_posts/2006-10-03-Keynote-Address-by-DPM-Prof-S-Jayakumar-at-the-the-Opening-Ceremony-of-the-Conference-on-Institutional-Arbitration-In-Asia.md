@@ -92,7 +92,7 @@ Ladies and Gentlemen,
 
 **<u>Annex A</u>**
 
-**[1]The arbitration scene in Singapore**
+**[1]The arbitration scene in Singapore**  
 (Refer to Paragraph 7) 
 
 
@@ -104,7 +104,7 @@ In a survey of ten of the largest local and offshore law firms in Singapore abou
 <li>Arbitration departments of law firms have been steadily growing in size, by about 15% annually </li>
 </ul>
 
-**[2] Factors for growth- ICC statistics about arbitration in Asia 2005**
+**[2] Factors for growth- ICC statistics about arbitration in Asia 2005**  
 (Refer to Paragraph 12)
 
 <ul>
@@ -115,7 +115,7 @@ In a survey of ten of the largest local and offshore law firms in Singapore abou
 </ul>
 
 
-**[3] Singapore's initiatives**
+**[3] Singapore's initiatives**  
 (Refer to Paragraph 15) 
 
 Minlaw and EDB are setting up an integrated dispute resolution complex for arbitration and other dispute resolution work. The complex is intended not only to provide world-class hearing room facilities, but will also house major international arbitration institutions. The aim is to develop the complex into the premiere international arbitration venue in the region, for both ad-hoc and institutional arbitration cases.
