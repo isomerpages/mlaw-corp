@@ -76,7 +76,7 @@ Distinguished guests, ladies and gentlemen
 <ol start="14">
 <li>  On top of that:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Our population is not growing; and </li>
 <li> We have an aging workforce and just to give you an indication with numbers – today we have about 420,000 Singaporeans who are aged 65 and above. In about 12 years’ time in 2030, that number will double to about 900,000. So what it means is that we have the increased burden of ageing population such as healthcare costs but also more importantly, we have a shrinking workforce that is economically active. </li>
 </ol>
@@ -106,7 +106,9 @@ Distinguished guests, ladies and gentlemen
 <ol start="19">
 <li> A study conducted by the International Bar Association several years back suggested that AI may eventually replace a third of graduate-level jobs worldwide:
 
-<ol start="20">
+
+
+<ol style="list-style-type: lower-alpha">
 <li>Technology solutions have been developed to aid lawyers with high volume routine work. For instance, Verifi, an AI application developed by Linklaters, can sift through regulatory registers in Europe to check client names for banks at a much faster rate than human lawyers. This is obvious given the routine, rote work involved and also the volume. This frees up the time of lawyers to focus on higher value work. </li>
 <li>Legaltech is also being developed to automate certain legal tasks traditionally done by junior lawyers. </li>
 <li>AI platforms have also been developed that can take on board precedents, facts of the case, look at the outcome of previous decisions by a particular judge and predict how this judge might rule in respect of specific arguments – a skill we now employ with a lot of guesswork today as counsel. </li>
@@ -114,9 +116,12 @@ Distinguished guests, ladies and gentlemen
 </li>
 </ol>
 
+{:start="20"}
+20. The consequence of a greater adoption of technology will likely be to reduce demand for administrative staff in law firms. The range of job options and skills that junior lawyers must have will also change.
+
 
 <ol start="21">
-<li>   Next, globalisation.  With the rise of globalisation:
+<li>Next, globalisation.  With the rise of globalisation:
 
 <ol start="list-style-type: lower-alpha">
 <li>Legal services can now be outsourced to lower cost jurisdictions for a fraction of the amount it would cost to instruct Singapore lawyers; </li>
@@ -226,7 +231,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 <ol start="33">
 <li>We each have our own strengths, but the lawyer of the future that wishes to harness the opportunities coming to Singapore must really be not a jack-of-all-trades, rather, he must be a master of all trades. You must develop:'
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>An understanding of the language, culture and practice of the places where your foreign clients may come from; </li>
 
 <li>Deep expertise in specialised practice areas; </li>
@@ -400,7 +405,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 <ol start="57">
 <li> We have agreed with Supreme Court that we will amend the proposal to allow for the sequential filing and exchange of AEICs in appropriate cases. With this amendment, the type of orders that are open to the courts to make depending on the nature of the case, will be:
  
- <ol>
+ <ol style="list-style-type: lower-alpha">
  <li>Whether AEICs are to be filed and exchanged before or after the disclosure of documents – so in the right case, you can still have discovery first, before AEICs; and </li>
 
  
@@ -531,7 +536,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 
 
 <ol start="5" style="list-style-type: upper-alpha">
-<li><u>Party-and-Party Costs<</u>/li> 
+<li><u>Party-and-Party Costs</u></li> 
 </ol>
 
 {:start="84"}
@@ -540,7 +545,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 <ol start="85">
 <li>But on party-and-party costs, my Ministry’s position on this has been previously articulated. Let me reiterate our principles:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>First, costs must be reflective of and also be commensurate with value of legal services in society; </li>
 
  
@@ -564,7 +569,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 87. We will review them with these principles in mind, and eventually, discuss them also with the Supreme Court, to finalise our proposals on costs.
 
 <ol start="6" style="list-style-type: upper-alpha">
- <li><u>The Appellate Division</u></li> 
+<li><u>The Appellate Division</u></li> 
 </ol>
 
 {:start="88"}
@@ -599,7 +604,7 @@ The opportunities for legal work will be immense, if you are willing to step out
 <ol start="93">
 <li> To give an idea of the numbers:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>In 2013, the number of civil and criminal matters that were filed in the Court of Appeal was 314. </li>
 <li>In 2018, the total number of matters before the Court of Appeal stood at 490.  This represents a 56% increase in caseload. </li> 
 </ol>
