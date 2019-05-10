@@ -31,14 +31,11 @@ Dato’ Seri – I hope you have the opportunity of meeting him on his very tigh
 <br>  
 I will give you a personal experience. I was working one night during GE13, Malaysia. One-screen, was streaming in rallies from Malaysia’s elections. I was working on another screen, and was focused on my work. Screens, side by side, at home.
 <br>    
-When he speaks – and this is in Malay – you forget your work, inevitably you are drawn to listen to what he has to say. It is a power of his speech. He doesn’t know this, but one of the things I do, I talk in small closed-door sessions on a variety of issues including security and other issues, Malaysia.
-<br>  
+When he speaks – and this is in Malay – you forget your work, inevitably you are drawn to listen to what he has to say. It is a power of his speech. He doesn’t know this, but one of the things I do, I talk in small closed-door sessions on a variety of issues including security and other issues, Malaysia.  
 I use one of his videos to illustrate some points.
-<br>  
-Very crystal clear, very powerful. And more importantly, anyone who is about to fall asleep when his video comes up, they will immediately wake up and watch.
-<br>  
-One of my friends - a very astute observer - said slightly irreverently, it’s a supreme compliment, that when Dato’ Seri speaks, some of his speeches equal MM at his rabble-rousing best. It’s meant as a compliment, but of course, like MM he also has other speaking styles.
-<br>    
+<br> 
+Very crystal clear, very powerful. And more importantly, anyone who is about to fall asleep when his video comes up, they will immediately wake up and watch.One of my friends - a very astute observer - said slightly irreverently, it’s a supreme compliment, that when Dato’ Seri speaks, some of his speeches equal MM at his rabble-rousing best. It’s meant as a compliment, but of course, like MM he also has other speaking styles.
+<br>      
 So I think in the last 30, 40 years, very, very few who can match his political skills, on either side of the Causeway, and can present themselves that way. But at the same time it has been a roller coaster ride in politics.
 <br>  
 I think, Dato’ Seri, you reach the heights and also there have been some very difficult moments of extreme turbulence.
@@ -60,7 +57,7 @@ Now let me move on to ASEAN.
 642 million people, US $2.8 trillion in GDP, it is the third largest economy in Asia. It’s anywhere between the 5<sup>th</sup> to the 7<sup>th</sup> largest economy in the world, depending on the source. Depending on whether you consider UK and France as being ahead or slightly behind, but growing at 5% and projected to be within 5 largest economies of the world in the very near future, in the next 6-7 years. The infrastructure investment demands top US$180 billion.
 <br>  
 So strong economic growth, rapid urbanisation, increased demand for transportation, trade, close proximity to other large economics like China, India and Japan. This is a region with a very bright future. It will have its ups and downs, but it presents excellent prospects for businesses, and lawyers.
-![Slide 2](images/news/speeches/1556633949110.jpg)
+![Slide 2](/images/news/speeches/1556633949110.jpg)
 
 <u>Singapore</u>
 <br>  
@@ -70,7 +67,7 @@ Singapore is the second smallest country in ASEAN, but ASEAN’s 4<sup>th</sup> 
 <u>SIAC</u>
 <br>    
 We provide a whole suite of dispute resolution services.
-![Slide 3](images/news/speeches/1556633962573.jpg)
+![Slide 3](/images/news/speeches/1556633962573.jpg)
 
 Just to take one aspect, you look at the Singapore International Arbitration Centre (SIAC), the cases have been growing. Last year there was a slight dip, but that was for economic reasons. But Singapore is ranked the most preferred seat of arbitration in Asia today, and third most preferred seat globally.
 <br>  
