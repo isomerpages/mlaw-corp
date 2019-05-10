@@ -17,7 +17,7 @@ collection_name: news
 **Invitation for feedback**
 
 {:start="4"}
-4. Interested members of the public are invited to view the public consultation paper in [Annex A]().
+4. Interested members of the public are invited to view the public consultation paper in [Annex A](/news/public-consultations/public-consultation-on-proposed-amendments-reciprocal-enforcement-foreign-judgements-act).
 
 {:start="5"}
 5. All feedback should be titled “REFJA (Amendment) Bill public consultation comments” and submitted by 24 May 2019 via post or email to:
