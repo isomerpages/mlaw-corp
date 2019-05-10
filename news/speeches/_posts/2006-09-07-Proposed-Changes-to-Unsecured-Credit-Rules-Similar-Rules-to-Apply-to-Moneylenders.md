@@ -7,14 +7,12 @@ collection_name: news
 ---
 
 7 Sep 2006 Posted in [Speeches](/news/speeches)
-
-<br>  
-
+<br>    
 **The Monetary Authority of Singapore and Ministry of Law would like to thank everyone who responded to the Joint Consultation on Unsecured Credit Rules that was held from 7 Aug to 7 Sep 2006. The feedback from the respondents would be taken into consideration in the policy formulation.**
 <br>  
 **We thank you for your participation.**
 <br>  
-**Ministry of Law**
+**Ministry of Law**  
 **7 Sept 2006**
 
 
