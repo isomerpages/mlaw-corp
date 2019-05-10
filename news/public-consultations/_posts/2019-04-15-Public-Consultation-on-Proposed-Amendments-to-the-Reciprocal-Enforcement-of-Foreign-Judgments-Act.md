@@ -95,5 +95,5 @@ collection_name: news
 <p class="address-centered"><strong>Singapore 179464</strong></p>
 <p class="address-centered"><strong>Fax: 6332 8842</strong></p>
 <p class="address-centered"><strong>Email: MLAW_Consultation@mlaw.gov.sg</strong></p>
-h
+
 <p class="right-side-updated">Last updated on 25 Apr 2019 </p>
