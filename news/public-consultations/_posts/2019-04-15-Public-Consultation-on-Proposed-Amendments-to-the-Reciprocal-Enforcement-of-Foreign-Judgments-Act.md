@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Foreign Judgements Act
-permalink: /news/public-consultations/Speech-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Minister-for-Law-29th-Inter-Pacific-Bar-Association-Annual-Meeting-and-Conference
+permalink: /news/public-consultations/public-consultation-on-proposed-amendments-reciprocal-enforcement-foreign-judgements-act
 breadcrumb: Public Consultations
 collection_name: news
 ---
