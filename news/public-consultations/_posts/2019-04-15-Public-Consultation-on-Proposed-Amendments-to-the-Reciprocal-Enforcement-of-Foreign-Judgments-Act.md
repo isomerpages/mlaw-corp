@@ -31,7 +31,7 @@ collection_name: news
 
 4. The amendments will not impact the Choice of Court Agreements Act (Cap. 39A).
 
-<ol style="list-style-style: upper-roman" start="2">
+<ol style="list-style-type: upper-roman" start="2">
 <li>SUMMARY OF PROPOSED AMENDMENTS</li>
 </ol>
 
@@ -47,7 +47,7 @@ collection_name: news
 <ol start="7">
 <li>  Clause 2 of the Bill updates the definition of “judgment” in the REFJA:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>to include judicial settlements, non-money judgments, and interlocutory orders; and </li>
 <li>excludes foreign judgments that are founded on a judgment of a court in another foreign country, and judgments given by a recognised court on appeal from a court that is not a recognised court, in order to prevent the reciprocity requirement from being circumvented. </li>
 </ol>
