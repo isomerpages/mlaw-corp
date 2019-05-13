@@ -502,7 +502,7 @@ Ladies and gentlemen,
 {:start="68"}
 68. That tells you the nature and extent of the problem. News underpins how a society functions. This is a serious problem.
 
-<ol start="5" style="list-style-typer: upper-roman">
+<ol start="5" style="list-style-type: upper-roman">
 <li>WHAT SHOULD WE DO ABOUT IT?</li>
 </ol>
 
@@ -628,11 +628,11 @@ Ladies and gentlemen,
 <ol start="80">
 <li> Ideally, most misinformation will be dealt with through
 
-<ol>
+<ul>
 <li>a resilient society; </li>
 <li>a responsible and effective media; and </li>
 <li>the voluntary actions of Internet companies. </li>
-</ol>
+</ul>
 
 </li>
 </ol>
@@ -676,5 +676,5 @@ Ladies and gentlemen,
 {:start="84"}
 84. Thank you.
 
-kp
+
 <p class="right-side-updated">Last updated on 21 Jun 2017</p>
