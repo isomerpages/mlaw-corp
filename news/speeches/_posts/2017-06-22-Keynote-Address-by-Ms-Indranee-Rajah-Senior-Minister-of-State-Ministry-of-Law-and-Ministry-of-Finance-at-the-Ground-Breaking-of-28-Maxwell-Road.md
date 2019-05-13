@@ -18,25 +18,25 @@ Friends,
 **Introduction**
 
 
-1.    I am delighted to see so many members of Singapore’s dispute resolution community here today, for the ground-breaking of 28 Maxwell Road.
+1. I am delighted to see so many members of Singapore’s dispute resolution community here today, for the ground-breaking of 28 Maxwell Road.
 
  
 
-2.    As everyone here knows, the Ministry of Law is refurbishing the conserved heritage building at 28 Maxwell Road. Let me say a few words about why we are doing this, and why it is significant.
+2. As everyone here knows, the Ministry of Law is refurbishing the conserved heritage building at 28 Maxwell Road. Let me say a few words about why we are doing this, and why it is significant.
 
 
 **Expanding Maxwell Chambers**
 
 
  
-
-3.    In 2010, the Ministry of Law set up Maxwell Chambers, the world’s first integrated dispute resolution complex. It houses custom-designed hearing facilities, as well as top dispute resolution institutions and arbitration chambers.
+{:start="3"}
+3. In 2010, the Ministry of Law set up Maxwell Chambers, the world’s first integrated dispute resolution complex. It houses custom-designed hearing facilities, as well as top dispute resolution institutions and arbitration chambers.
 
 
 <ol start="4">
 <li> Maxwell Chambers has done well over the years.
 
-<ol style="list-style-type: lower-roman">
+<ol style="list-style-type: lower-alpha">
 
 <li>The measure of its success can be seen in how quickly it was emulated by others. </li>
 
@@ -197,12 +197,13 @@ Friends,
   <li>Mediation, through the Singapore International Mediation Centre (SIMC); and</li>
   <li>Litigation, through the Singapore International Commercial Court (SICC).</li>
   SIAC in particular has seen its caseload quadruple in the last decade. In 2016, it achieved a record 343 cases, surpassing the London Court of International Arbitration (LCIA).
-  <li> We are also continuously engaging industry to identify and to grow new areas of opportunity.</li>
+ 
   </ul>
  
  
  
  </li>
+ <li>We are also continuously engaging industry to identify and to grow new areas of opportunity.</li>
  
  
  </ol>
