@@ -8,7 +8,7 @@ collection_name: news
 
 11 Nov 2014 Posted in [Speeches](/news/speeches)
 
-Associate Professor Ho Peng Kee, 
+Associate Professor Ho Peng Kee,   
 Distinguished mediators and friends, 
 <br>  
 
