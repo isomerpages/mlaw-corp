@@ -159,7 +159,7 @@ Ladies and Gentlemen.
 {:start="23"}
 23. Today, Maxwell Chambers is a sought after venue for many international dispute resolution institutions around the world. In fact, to meet rising demand for space, Maxwell Chambers will soon expand to triple its current size. Service offerings to users and tenants will also be upgraded.
 
-<ol style-"list-style-type: lower-alpha; font-weight:bold;" start="3">
+<ol style="list-style-type: lower-alpha; font-weight:bold;" start="3">
 <li><u>Arbitrators / Counsel</u></li>
 </ol>
 
