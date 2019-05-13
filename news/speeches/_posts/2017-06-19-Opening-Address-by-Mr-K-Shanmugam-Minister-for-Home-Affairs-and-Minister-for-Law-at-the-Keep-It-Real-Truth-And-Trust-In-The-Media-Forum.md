@@ -430,12 +430,12 @@ Ladies and gentlemen,
 
 <u>WhatsApp Rumours</u>
 
-
-<li>And now an additional phenomena along the same lines, that confuses and promotes distrust. I will give two examples.<li>
+{:start="59"}
+59. And now an additional phenomena along the same lines, that confuses and promotes distrust. I will give two examples.
 
  
-
-<li>Back in 2015, someone spread a rumour that the Government was conducting cloud-seeding not to help the Indonesian fires, but to help the upcoming Formula One race.
+<ol start="60">
+<li> Back in 2015, someone spread a rumour that the Government was conducting cloud-seeding not to help the Indonesian fires, but to help the upcoming Formula One race. 
 
 <ul>
 <li>And that the Government was harming people with chemically induced rain.</li>
@@ -444,10 +444,10 @@ Ladies and gentlemen,
 
 
 </li>
-
+</ol>
 
 <ol start="61">
-<li>  Earlier this year, there was a relatively less serious example. A viral Whatsapp message claimed that people had been fined for leaving used tissue paper in coffee-shops and hawker centres.
+<li>Earlier this year, there was a relatively less serious example. A viral Whatsapp message claimed that people had been fined for leaving used tissue paper in coffee-shops and hawker centres.
 
 <ul>
 <li> This caused confusion.</li>
@@ -676,5 +676,5 @@ Ladies and gentlemen,
 {:start="84"}
 84. Thank you.
 
-k
+kp
 <p class="right-side-updated">Last updated on 21 Jun 2017</p>
