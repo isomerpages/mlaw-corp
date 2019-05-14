@@ -8,17 +8,17 @@ collection_name: news
 
 30 Jun 2009 Posted in [Speeches](/news/speeches)
 <br>  
-Mr Roy Adair, President and CEO of Senoko Power,
+*Mr Roy Adair, President and CEO of Senoko Power,*
 <br>  
-Prof Leo Tan, Chairman of the National Weather Study Project (NWSP) Advisory Committee,
+*Prof Leo Tan, Chairman of the National Weather Study Project (NWSP) Advisory Committee,*
 <br>  
-Mr Tony Leemburg, CEO of the Energy Sector, Siemens Pte Ltd, 
+*Mr Tony Leemburg, CEO of the Energy Sector, Siemens Pte Ltd,* 
 <br>  
-Distinguished guests, 
+*Distinguished guests,* 
 <br>  
-Ladies and gentlemen, 
+*Ladies and gentlemen,* 
 <br>  
-Boys and girls, 
+*Boys and girls,* 
 
 1. Good morning.  It gives me great pleasure to be present here with you this morning for the National Weather Study Project Competition Awards Ceremony.
 
