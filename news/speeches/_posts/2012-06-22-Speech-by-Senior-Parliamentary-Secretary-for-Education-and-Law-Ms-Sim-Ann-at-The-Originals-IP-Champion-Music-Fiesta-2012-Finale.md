@@ -17,7 +17,7 @@ Educators and students
 
 1. Good afternoon. I am very happy to join you for the finale of The Originals Intellectual Property (IP) Champion Music Fiesta 2012. This evening is the result of hard work by every one of you. I believe you have had an intense yet delightful learning journey over the last four-and-a-half days.
 
-IP Champion Music Fiesta
+**IP Champion Music Fiesta**
 
 {:start="2"}
 2. The IP Champion Music Fiesta, now into its second year, is jointly organised by the Honour Intellectual Property (HIP) Alliance and Singapore Polytechnic (SP). During the Camp, 88 aspiring young musicians from 13 secondary schools learnt about songwriting and gained knowledge on the management of copyright. They had a chance to interact with local music veterans to learn about the music industry. They also composed their own song – a piece of creative work which they can now proudly declare as their own intellectual property.
@@ -33,11 +33,10 @@ IP Champion Music Fiesta
 {:start="5"}
 5. Last year, YouTube launched a localised version of the site in Singapore to enable more local content creators to share and monetise content. Content owners will not only be able to gain greater online exposure and royalties, but will also get a share of the online advertisement revenue, as part of the licensing arrangements with the Composers  and Authors Society of Singapore ( COMPASS).  This is certainly a very encouraging development that helps to better reward IP creators in Singapore.
 
-**Conclusion**
-
-
 {:start="6"}
 6. As such, we must continue to play our part in giving due recognition and respect to IP creators and their original works in Singapore. JJ Lin, IPOS' recently appointed IP ambassador, was honoured as the Top Local Artiste of the Year at the 14th annual COMPASS Awards Presentations in 2009 for generating the highest royalties' earnings that year. With the assistance of JJ Lin and other IPOS' ambassadors, Tay Kewei and Dick Lee, we hope to promote and inspire greater awareness and respect for intellectual property.
+
+**Conclusion**
 
 {:start="7"}
 7. This IP Camp has been an exciting learning journey for everyone to gain a better understanding and appreciation of IP, and to ensure that innovation and creativity continue to thrive in Singapore. I am confident that after the Camp, participants will recognise the efforts put in by creators and will better appreciate and respect the original works of others.
