@@ -40,7 +40,7 @@ collection_name: news
 7. Mdm Speaker, let me now take members through the key amendments in the Bill.
 
 
-<ol style="list-style-type: upper-roman; font-wieght:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li>Improve transparency of companies</li>   
 </ol>
 
@@ -259,9 +259,9 @@ collection_name: news
 <li>Features of Chapter 11 that will be adapted include:
 
 <ol style="list-style-type: lower-alpha">
-<li>providing an automatic moratorium on filing an application, for a period of up to 30 days <sup>[2]</sup> ; </li> 
-<li>allowing the Court to give the moratorium worldwide effect <sup>[3]</sup> ; </li>
-<li>extending the moratorium to related entities relevant to the restructuring <sup>[4]</sup>. </li>
+<li>providing an automatic moratorium on filing an application, for a period of up to 30 days <sup>[2]</sup>;</li> 
+<li>allowing the Court to give the moratorium worldwide effect <sup>[3]</sup>;</li>
+<li>extending the moratorium to related entities relevant to the restructuring <sup>[4]</sup>.</li>
 </ol>
 </li>
 </ol>
@@ -327,7 +327,7 @@ collection_name: news
 62. These three enhancements to the judicial management regime will improve its efficacy as a corporate rescue process.
 
 <ol start="3" style="list-style-type: lower-alpha">
-<li style="font-style: italic"><i>Cross-border Insolvency</i>/li>   
+<li style="font-style: italic"><i>Cross-border Insolvency</i></li>   
 </ol>   
 
 
