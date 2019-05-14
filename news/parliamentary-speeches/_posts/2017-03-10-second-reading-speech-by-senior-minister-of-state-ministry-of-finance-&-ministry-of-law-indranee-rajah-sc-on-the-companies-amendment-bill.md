@@ -362,37 +362,23 @@ collection_name: news
 71. Mdm Speaker, I beg to move.
 
 
-<sup>[1]</sup> see Clause 22, new Section 211B.
-
-<sup>[2]</sup> see Clause 22, new Section 211B(8).
-
-<sup>[3]</sup> see Clause 22, new Section 211B(5)(b).
-
-<sup>[4]</sup> see Clause 22, new Section 211C.
-
-<sup>[5]</sup> see Clause 22, new Section 211B(12).
-
-<sup>[6]</sup> see Clause 22, new Section 211E(1).
-
-<sup>[7]</sup> see Clause 22, new Section 211H.
-
-<sup>[8]</sup> see Clause 22, new Section 211H(4).
-
-<sup>[9]</sup> see Clause 22, New Section 211I
-
-<sup>[10]</sup> see Clause 25(a)
-
-<sup>[11]</sup> see Clause 25(d)
-
-<sup>[12]</sup> see Companies Act Section 210(12)
-
-<sup>[13]</sup> see Clause 24
-
-<sup>[14]</sup> see Clause 50, New Tenth Schedule
-
+<sup>[1]</sup> see Clause 22, new Section 211B.  
+<sup>[2]</sup> see Clause 22, new Section 211B(8).  
+<sup>[3]</sup> see Clause 22, new Section 211B(5)(b).  
+<sup>[4]</sup> see Clause 22, new Section 211C.  
+<sup>[5]</sup> see Clause 22, new Section 211B(12).  
+<sup>[6]</sup> see Clause 22, new Section 211E(1).  
+<sup>[7]</sup> see Clause 22, new Section 211H.  
+<sup>[8]</sup> see Clause 22, new Section 211H(4).  
+<sup>[9]</sup> see Clause 22, New Section 211I  
+<sup>[10]</sup> see Clause 25(a)  
+<sup>[11]</sup> see Clause 25(d)  
+<sup>[12]</sup> see Companies Act Section 210(12)  
+<sup>[13]</sup> see Clause 24  
+<sup>[14]</sup> see Clause 50, New Tenth Schedule  
 <sup>[15]</sup> See Clause 45(c) for the full list of financial institutions where the ‘ring fencing’ rule still applies
 
-
+<p class="right-side-updated">Last updated on 10 Mar 2017</p> 
 
 
 
