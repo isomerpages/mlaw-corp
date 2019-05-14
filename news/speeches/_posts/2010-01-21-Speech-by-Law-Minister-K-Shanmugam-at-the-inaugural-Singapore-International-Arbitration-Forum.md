@@ -10,21 +10,21 @@ collection_name: news
 <br>  
 
 The Honourable the Chief Justice, Mr Chan Sek Keong,
-<br>
+<br>  
 Attorney-General, Professor Walter Woon,
-<br>
+<br>  
 Judges of Appeal, Justice Chao Hick Tin, Justice Andrew Phang and Justice V K Rajah,
-<br>
+<br>  
 Senior District Judge, Mr Tan Siong Thye,
 <br>
 Chairman, Singapore International Arbitration Centre, Mr Michael Pryles,
-<br>
+<br>  
 Chairman, Maxwell Chambers, Mr Chelva Rajah,
-<br>
+<br>  
 Distinguished guests,
-<br>
+<br>  
 Ladies and gentlemen,
-<br>
+<br>  
 
 1. Good morning. Thank you for inviting me to this inaugural Singapore International Arbitration Forum. We have great pleasure in welcoming the distinguished speakers and delegates from the international arbitration community, including those from abroad, who have made a special effort to be here today. I understand more than 300 of you have joined us here in a strong show of support.
 
