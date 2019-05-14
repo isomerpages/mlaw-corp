@@ -25,7 +25,7 @@ collection_name: news
 <li>MinLaw accepted 12 of the Committee’s 15 recommendations and has worked with the industry and the VWOs to implement them progressively. 
 
 <ol style="list-style-type: lower-alpha">
- <li>In 2015, we introduced stricter caps on borrowing costs. </li>
+<li>In 2015, we introduced stricter caps on borrowing costs. </li>
 
 <li>In March 2016, we launched the Moneylenders Credit Bureau (“MLCB”), which facilitates better tracking and monitoring of unsecured loans. The MLCB provides up-to-date details of a borrower’s creditworthiness and indebtedness, to enable moneylenders to make a more informed and responsible lending decision. </li>
 </ol>
@@ -125,7 +125,7 @@ collection_name: news
 
 
 <ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
-<li>Strenghtening regulation of moneylenders</li> 
+<li>Professionalising the moneylending industry</li> 
 </ol>
 
 
