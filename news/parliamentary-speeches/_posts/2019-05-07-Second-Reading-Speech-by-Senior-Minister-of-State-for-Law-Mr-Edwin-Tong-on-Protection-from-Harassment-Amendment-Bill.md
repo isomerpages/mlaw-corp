@@ -674,3 +674,8 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
  
 
 52. The victim will be able to file an application for a PO using a simplified form, at the PHC or online.
+
+
+<ol start="53">
+<li>Relief will also be quicker and more permanent:</li>
+</ol>
