@@ -677,5 +677,414 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 
 
 <ol start="53">
-<li>Relief will also be quicker and more permanent:</li>
+<li>Relief will also be quicker and more permanent:
+
+<ol>
+<li>Clause 17 will ensure that EPOs will be in place until conclusion of proceedings unless they are successfully challenged – the victim will no longer have to renew EPOs every 28 days </li>
+<li>The hearings will also be conducted more quickly. </li>
+<li> The PHC will aim to conduct hearings for EPOs within 48 to 72 hours of application. </li>
+<li>Where there is an element of violence involved, the PHC will try to conduct hearings for EPOs within 24 hours of the application.
+</li>
+<li>The PHC will aim to conduct hearings for final POs within 4 weeks of the application. </li>
+<li>The timelines, of course, will be subject to practical constraints. 
+<ol>
+ <li>Such as for example, if the application is filed over the weekend, the Courts may only be able to hear it on the next working day.</li>
+ <li>Applicants should, of course, always seek police intervention if they are in immediate physical danger.</li>
+ <li>Finally, should the court decide to stay proceedings for a PO under the new Section 13A pending a criminal investigation, it may take longer for a PO to be granted. However, in that situation, an EPO will be in place until the PO is granted.</li>
 </ol>
+</li>
+</ol>
+ 
+</li>
+</ol>
+
+{:start="54"}
+54. We hope that these measures will relieve some of the anxieties that an applicant faces when invoking the court process and encourage those in need to come forward.
+
+<ol start="2" style="list-style-type: upper-alpha">
+<li> Enhancing the Protection for Harassment Victims and Related Persons</li>
+</ol>
+
+{:start="55"}
+55. Next, in terms of enhancing the protection for harassment victims and related persons, we will enhance the protection for this category of persons, expand the scope of POs and the powers available to the court when granting the PO.
+
+<ol style="list-style-type: lower-roman">
+<li>Enhancing protection afforded by POs/EPOs</li> 
+</ol>
+
+{:start="56"}
+56. Let me explain.
+
+ 
+{:start="57"}
+57. First, clause 16(1) widens the ambit of POs to deal specifically with the situation where an offender may publish a harassing communication which is then shared by others.
+
+* A PO can now be made to prevent the publication of communications which are not just identical, but also substantially similar to the offending communication.
+* In addition, clause 16(2) clarifies that internet intermediaries can be ordered to disable access to an offending communication published on their platforms. This is to try to clamp down on harassing communications going viral, or spreading even further.
+
+{:start="58"}
+58. Second, clause 16(2) extends the scope of POs to protect related persons of the victim.
+
+* This will ensure that individuals, such as Mdm A in my example, will be able to obtain POs for herself and her children, rather than have to live with the abuse and to worry about the potential harassment or abuse to her children.
+
+<ol start="59">
+<li>  Third, we have acted on feedback that the courts should be empowered to proactively intervene in cases where the harasser’s conduct may not cross the threshold of criminal or dangerous conduct, but where the facts demonstrate that the harasser is mentally ill.</li> 
+</ol>
+
+* Clause 19 empowers the court to:
+  * Order the respondent to undergo a psychiatric assessment after it grants a PO and undergo psychiatric treatment if certain criteria are fulfilled –
+    * The respondent must have psychiatric conditions susceptible to treatment, capable of being treated
+    * The respondent must be suitable for treatment
+    * And the psychiatric condition must have contributed to contravention that formed basis for making the PO, having a nexus with the conduct complained of.
+    
+* The criteria and nature of the treatment will largely mirror the treatment regime under the Criminal Procedure Code, with appropriate safeguards.
+  * Failure to comply with the orders will be punishable as contempt of court.
+
+{:start="60"}
+60. Two further amendments in clause 16(1)(a) clarify the law.
+
+* POs can be obtained against entities who commit contraventions under the Act. The common law principles of attribution will apply.
+  * This will address cases that have already been brought before our courts, for example, where wayward companies might have crossed the threshold of lawful debt collection into criminal behavior such as intentional harassment or violence, in the context of carrying out their debt collection.
+  * Companies may have sent different runners to harass a victim.
+  * Victims can now obtain a single PO against the company and do not have to bring each runner who conducts each of these harassing acts to court each time.
+* Domestic exclusion orders are available under the Act.
+  * These orders, which are also available under the Women’s Charter, will allow victims to exclude a harasser from their shared residence.
+  * This is so even if the harasser has a proprietary interest in the property.
+
+{:start="61"}
+61. We are also taking measures to strengthen the recourse available to victims, and increase the deterrence factor of the remedies available under the Act.  
+  
+* First, clauses 4 to 10 and 13 clarify that entities can be liable for contraventions under the Act.
+  * They can be prosecuted or sued for damages.
+  * The common law principles of attribution will apply.
+  * This will discourage entities from allowing their employees to harass customers.
+* Second, this House heard yesterday about amendments to the Penal Code to double penalties for offences committed against vulnerable persons.
+  * Under the proposed POHA amendments, clause 10 provides that penalties for POHA offences against vulnerable persons, be they adults or children, will likewise be doubled.
+* Third, we spoke earlier about the pressing need to protect victims of intimate partner violence. The Government has amended the Penal Code to provide for enhanced penalties for specific offences committed against intimate partners.
+  * In a similar vein, Clause 11 of this Bill doubles the penalty if a POHA offence is committed against an intimate partner.
+ 
+{:start="62"} 
+62. We are also taking steps to ensure that a harasser who reoffends is also dealt with severely.
+
+* At present, as I mentioned earlier, breach of a PO under POHA is not an arrestable offence.
+  * This is in contrast with the position under the Women’s Charter.
+* In response to concerns that POs issued under the Act are perceived as ineffective, we propose to amend the law.
+  * Clause 22 provides that if a harasser breaches a PO, this will be arrestable in prescribed circumstances, such as where hurt is caused or where the harassing conduct persists despite the issuance of a PO.   
+  * In addition, Clause 9(b) provides that if a harasser breaches a PO more than once, he will be liable on subsequent conviction to twice the maximum punishment prescribed.   This also brings the Act in line with the Women’s Charter. 
+  
+  
+<ol start="3" style="list-style-type: upper-alpha">
+<li>Online Harassment</li> 
+</ol>
+
+{:start="63"} 
+63. I turn now to online harassment. I spoke earlier about the scourge of technology when not handled properly. I would now like to turn to amendments that have been targeted towards online behaviour and harassment.
+
+<ol style="list-style-type: lower-roman">
+<li> Doxxing</li> 
+</ol>
+
+<ol start="64">
+<li>  First, on doxxing. To understand the basis of the doxxing amendments, let me first highlight a case that might fall through the cracks today:
+
+<ol>
+<li>A Singaporean girl, whom I shall not name, was in the middle of her ‘O’ levels.</li>
+<li>She discovered edited photographs of herself on a Tumblr blog with pornographic content.</li>
+<li>She started receiving unsolicited messages on her social media platforms.</li>
+<li>One day, she noticed a man following her home.</li>
+<li>Her former best friend, it turned out, had emailed her full name, photos, address and names of the school and tuition centres that she attended to over 60 porn blogs.</li>
+<li>With this knowledge, she retreated from her social interactions, afraid to even leave home.</li>
+<li>This young girl was a victim of harassment.</li>
+<li>However, the email sent by her friend to the porn blogs, despite its malicious intent, may not have been caught by existing POHA provisions which require communications to be “threatening, abusive or insulting” in themselves.</li> 
+</ol>
+ 
+</li> 
+</ol>
+
+{:start="65"}
+65. The doxxing amendments are an extension of the existing provisions on harassment, and seek to deal with this lacuna in the law today.
+
+<ol start="66">
+<li>Clauses 4(a) and 6(d) introduce the offence of doxxing. For this offence, the intention or knowledge of the publisher is key. Doxxing will be made out if the person published identity information of another person:
+
+<ul>
+ <li>Intending to cause harassment, alarm or distress; </li>
+<li>Intending to cause the victim to fear that unlawful violence will be used against him or another person, or to facilitate unlawful violence against the person; or </li>
+<li>Knowing or having reasonable cause to believe that the publication is likely to cause the victim to fear that unlawful violence will be used against him or another person, or to facilitate unlawful violence against the victim. </li>
+</ul>
+ 
+</li> 
+</ol>
+
+{:start="67"}
+67. Identity information is defined as information that on its own or with other information identifies, or purports to identify, the victim. This includes photographs, contact details, address and place of employment.
+
+ 
+<ol start="68">
+<li> The new offence will not affect most people, who continue to engage constructively on the internet. It does not stop them from:
+
+<ul>
+<li>Identifying the perpetrators of crimes, including traffic offences or POHA offences.</li> 
+<li>Or indeed from posting videos of public disputes to give a factual account of an incident</li>
+</ul>
+</li>
+</ol>
+
+<ol start="69">
+<li>  On the other hand,
+
+<ol>
+<li>Publishing someone’s contact details to netizens intending to harass or alarm that person, or intending that other netizens use the information to harass or hurt the person, is unacceptable.</li> 
+<li>Publishing photographs and contact details of a girl, intending that others use those details to harass her, is likewise unacceptable.</li>
+</ol>
+
+</li> 
+</ol> 
+
+{:start="70"}
+70. There have been concerns raised that the new doxxing provisions could be too broad
+
+* Similar concerns were raised about the existing harassment provisions back in 2014
+* Harassment is heavily fact specific
+  * Doxxing – a subset of that, is no different
+* The law today, in fact with these amendments adds clarity:
+  * Doxxing is currently prosecuted through a mix of provisions arising in different pieces of legislation
+  * Courts will now be able to develop a body of jurisprudence on when the offence is made out
+  * Furthermore, existing case law on when intent is made out in the circumstances can be relied upon
+
+{:start="71"}
+71. Other concerns have also been raised about whether the new provisions can deal with anonymous posters. Let me deal with that.
+
+* Anonymity is not a new issue under the Act
+* Minister Shanmugam, when he spoke on this Bill in 2014, addressed this.
+* Even if the respondent or publisher is anonymous, he may be identified by an internet location address, website, or other unique * identifiers as the court may order
+* In addition, POs are binding, even if person behind account may not be identified
+* The POs can be served on multiple accounts as well
+
+{:start="72"}
+72. As with other victims of harassment such as cyberbullying and intimate partner violence, a victim of doxxing will be able to avail himself of the streamlined processes and expedited court timelines.
+* The court may order that the offending communication be taken down by the offender and persons who have shared the original post or substantially similar posts.
+* Where appropriate, the court may also order that an internet intermediary disable access to the offending post.
+* And finally, where an EPO involving online doxxing is involved, the Court will aim to hear the application within 24 hours.
+
+
+<ol start="2" style="list-style-type: lower-roman">
+<li>Online Falsehoods</li> 
+</ol>
+
+<ol style="list-style-type: lower-alpha">
+<li> Context</li> 
+</ol>
+
+{:start="73"}
+73. Let me now turn to online falsehoods, first, in terms of setting the context. Aside from doxxing, the Bill also enhances existing measures available to address the spread of falsehoods by repealing and reenacting the falsehoods regime.
+
+* The falsehoods regime under POHA aims to help individuals, to give recourse and redress against the effects of falsehoods
+* Whilst at the same time, striking the balance with the right of people to hold their own opinion and debate matters of interest
+
+{:start="74"}
+74. Broadly, POHA categorises the remedies available by types of orders which are available (split into five categories). Section 15 deals with the final orders which can be given in cases of falsehoods and section 16 deals, amongst others, with interim orders for the same.
+
+* This is similar to the approach taken in section 12, which makes a PO available against both persons, entities and internet intermediaries.
+* In contrast, the Protection from Online Falsehoods and Manipulation Bill has distinct parts dealing with individuals versus corporate entities. These are found in parts III and parts IV of that Bill.
+
+{:start="75"}
+75. For the avoidance of doubt, the falsehoods regime under sections 15 and 16 of POHA, and clause 20 of the Bill, deals with false statements of fact. This includes misleading statements but does not cover criticism, opinions, satire and parody.
+
+* Let me make this clear
+  * First, a statement that omits material facts is misleading if the statement would have been considered by a reasonable person to be misleading by reason of such an omission.
+  * If, for example, A says that B is dishonest, that is a statement of opinion and not a false statement of fact. However, if A goes on to say that B was convicted by a court of cheating, then
+    * This is a false statement of fact if B was never convicted of such an offence;
+    * Going back to my example, the statement is also false if B was subsequently acquitted on appeal, because the statement conveys a false meaning by reason of its omission of B’s subsequent acquittal
+    
+<ol start="2" style="list-style-type: lower-alpha">
+<li>Expanding Scope of Orders</li> 
+</ol>
+
+{:start="76"}
+76. Once a false statement about a subject is established,
+
+* Clause 20 sets out five orders that may be available to address it.
+* Interim relief will be available for all orders save the General Correction Order.
+  * This was necessary given the speed at which online falsehoods can now spread.
+* Interim relief can be obtained ex parte in the case of interim stop publication and interim notification orders, both of which are targeted at individuals or entities which publish falsehoods.
+  * In the case of interim disabling orders and targeted interim notification orders, which are directed at internet intermediaries, notice of the application first has to be served on the intermediary
+  * This is because the internet intermediary is not directly responsible for the falsehood, and should be given a chance to explain its position in court, should it wish to contest the application 
+  
+<ol start="77">
+<li>Let me explain each order in turn, and start by saying that all of the orders, save the General Correction Order, are already available under the Act today. As is the case under the current Act, the court will not make any of these orders unless satisfied, amongst other things, that:
+
+<ul>
+<li>One: The statement being complained of is false, and</li> 
+<li>Two: It is just and equitable in the circumstances to make the order being sought.</li>
+</ul> 
+
+</li> 
+</ol>
+
+{:start="78"}
+78. The test of when it is just and equitable to grant a section 15 order has been set out by our courts in case law.  
+
+<ul>
+<li>It is a flexible one, taking into account various factors including but not limited to:
+<ul>
+<li>Nature of the statement;</li>
+<li>The seriousness of the allegation made;</li>
+<li>The degree to which the statement has been publicized;</li>
+<li>Whether the subject of the false statement has the means to publicise his or her own version of the truth.</li>
+</ul>
+</li> 
+</ul>
+
+{:start="79"}
+79. A stop publication order requires a person or entity not to publish a false statement or any substantially similar statement.
+
+* It is already available today as I mentioned.
+* The orders have been amended to include substantially similar statements.
+* This ensures that publishers cannot game the system by simply amending the statement slightly, but such that it is still false.
+* As with the present regime, stop publication orders can be taken out against multiple individuals or entities
+  * Applicant need not take out separate applications against multiple persons.
+  * Anyone who publishes the false statement or a substantially similar statement is bound upon service unless the court has dispensed with service.
+  * This deals with the situation where an anonymous user may use different online accounts to publish the same false statement.
+  * This will be covered by the order, regardless of which account is used.
+  
+<ol start="80">
+<li>Correction orders:
+
+<ul>
+<li>Next, on correction orders. These are available today, but fleshed out in the amendment Bill. </li> 
+<li>Spoke earlier about how falsehoods travel faster, deeper and more broadly than truth; and that repeated exposure to false statements on social media make them more believable. </li>
+ <li>Correction orders seek to address this problem. </li>
+<li>There may be cases where it is not enough to order a respondent to stop publishing a falsehood, </li>
+<li>And it may need to go beyond that to require the responding person or entity to put the truth out there. </li>
+<li>The respondent in such a case will be required to: 
+<ul>
+<li>Publish a notice online or in a printed publication, stating that the statement in question has been found to be false, and correcting the false statement;</li>
+<li>The respondent will also be required to make the notice available to persons, or specified description of persons, as determined by the court.</li>
+</ul>
+</li> 
+</ul>
+</li> 
+</ol>
+
+{:start="81"}
+81. Next, on disabling orders which are available today.
+
+<ul>
+<li>They can be made to require an internet intermediary to disable access to a material containing a false statement on the internet intermediary’s platform,</li> 
+<li>So that it is no longer available to viewers.</li>
+</ul>
+
+<ol start="82">
+<li> Next, targeted correction orders which are also available today. They are in like vein to correction orders but can be made against an internet intermediary.
+
+<ul>
+<li>It requires an internet intermediary to distribute a correction of the false statement to viewers of a false statement on the internet intermediary’s platform, so it carries the corrections on the platform.</li> 
+<li>Again, the purpose of this is to ensure that where the false statement has been published by way of the internet intermediary service, the truth is made accessible to viewers of the false statement.</li>
+</ul>
+ 
+</li> 
+</ol>
+
+<ol start="83">
+<li>Finally, the general correction orders which are new.
+<br> 
+Let me describe them: 
+<ul>
+<li>They can be made where the court is satisfied that serious harm to the reputation of the subject, whether professional or otherwise, has been caused or is likely to be caused. </li>
+<li>Unlike the other orders, they operate against a prescribed third party who has not been responsible for the publication of the false statement.
+<ul>
+<li>This third party, as an example, could be a news outlet, broadcaster, or internet intermediary. </li> 
+</ul>
+ 
+</li> 
+<li>
+The prescribed third party can be required to publish a notice stating that the statement in question has been found to be false, as well as a correction of that false statement. 
+</li>
+<li>
+The rationale of this:
+<ul>
+<li>Well, the ubiquity of technology nowadays means that falsehoods may spread across different platforms. It may start on one, it may carry through to one or several others.</li> 
+<li>It might be difficult to identify who has been exposed to a falsehood.</li>
+<li>As mainstream purveyors of information, prescribed third parties have a sufficiently wide reach to help to correct viral falsehoods which are particularly serious or persistent.</li>
+</ul>
+</li>
+<li>What are some of the safeguards:
+<ul> 
+<li>As this order imposes obligations on third parties, interim relief will not be available. </li>
+<li>The third party should be allowed to fully contest the claim if it wishes to, before an order is granted. </li>
+<li>However, a victim can still rely on other forms of interim relief to stop or stem the spread of falsehood, such as an interim disabling order or interim stop publication order. </li> 
+</ul>
+</li>
+</ul>
+</li> 
+</ol>
+
+<ol start="3" style="list-style-type: lower-alpha">
+<li>  Procedure</li> 
+</o>
+
+{:start="84"}
+84. In terms of the relevant procedure for these orders,
+
+* The same streamlined processes and expedited timelines I spoke of will apply.
+* The PHC will aim to conduct hearings for interim orders within 48-72 hours of application.
+* And given the speed at which online publications can go viral, the PHC will aim to hear an application for an interim order within 24 hours of application if the false statement has been published online, subject to any requirements to give notice.  
+* The interim order will remain in place until it expires or has been cancelled.
+* As with POs, the PHC will aim to hear applications for final section 15 orders within 4 weeks of application.
+
+
+<ol start="4" style="list-style-type: lower-alpha">
+<li>Compliance</li> 
+</ol>
+
+{:start="85"}
+85. Finally, non-compliance with orders will be punishable with contempt.
+
+* It is similar to the current regime
+* And contempt only if non-compliance is intentional
+
+{:start="86"}
+86. For those who want to appeal against an order under section 15
+
+* They will still need to seek leave under Section 21 of the Supreme Court of Judicature Act.
+
+<ol style="list-style-type: lower-alpha" start="5">
+<li>Extending protection to entities</li> 
+</ol>
+
+{:start="87"}
+87. In light of the decision by the Court of Appeal in AG v Ting Choon Meng, which ruled that only individual persons have recourse under section 15, clause 20 of the Bill states that both individuals and entities can apply for remedies under section 15.
+
+* As with the other remedies under POHA, the Government will not have recourse under section 15 – Government will have to rely on POFMA, currently a Bill.
+* Likewise, section 15 orders can be made against both individual persons and corporate entities, but not the Government.
+
+{:start="88"}
+88. Allowing entities to seek relief will ensure that the companies and their staff do not suffer, lose their livelihoods, as a result of falsehoods.
+
+<ol start="5" style="list-style-type: upper-roman">
+<li> Conclusion</li> 
+</ol>
+
+{:start="89"}
+89. Mr Speaker, Sir, after five years, we have introduced a significant number of amendments to keep pace with changes in technology, and to be responsive to feedback as to the ease with which applications can be brought, and relief granted.
+
+ 
+{:start="90"}
+90. The Bill builds upon an existing ecosystem to deal with harassment and to offer victims recourse and redress.
+
+* Equally integral to this ecosystem are the many volunteers, psychiatric institutions, the police, news agencies, schools and many others.
+* We are grateful for their efforts in highlighting harassment issues, broadcasting the remedies available, and also assisting the victims.
+
+{:start="91"}
+91. Finally, I must underline that the levers that we have devised under the Act are responsive in nature. They offer protection, recourse and redress.
+
+* At the end of the day, harassment is a social problem which requires a concerted social response.
+* We all bear a responsibility for ensuring that harassment is not perpetrated, or escalated.
+* This is the surest way to provide victims with protection.
+* We should not tolerate any harassment or violence, least of all those which occur in an intimate partner or family setting.
+
+{:start="92"}
+92. Mr Speaker, Sir, I beg to move.
+
+<p class="right-side-updated">Last updated on 08 May 2019 </p>
