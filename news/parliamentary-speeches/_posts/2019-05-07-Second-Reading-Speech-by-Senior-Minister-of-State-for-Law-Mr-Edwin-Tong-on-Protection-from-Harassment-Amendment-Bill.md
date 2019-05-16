@@ -247,11 +247,6 @@ In the US: a 12-year-old girl in Florida hung herself
 </li>
 </ul>
 
-</li>
-</ol>
-
-
-
 
 </li>
 </ol>
@@ -583,7 +578,7 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 
 <ul>
 <li>Mdm A dated a man for 5 years, they had 5 children </li>
-<li>Dating violence started in the first year of their relationship. </li?
+<li>Dating violence started in the first year of their relationship. </li>
 <li>The man began by shouting vulgarities at her. </li>
 <li>It escalated to physical violence – he hit, kicked, slammed her on the floor, threatened her with a knife. </li>
 <li>And all of these, in front of the children. </li>
@@ -669,17 +664,18 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 <li>In terms of streamlining procedures and expediting timelines</li>
 </ol>
 
+{:start="51"}
 51. We have worked with the State Courts to do so, so that the process of applying for a PO under POHA will, as far as possible, be aligned to that under the Women’s Charter.
 
  
-
+{:start="52"}
 52. The victim will be able to file an application for a PO using a simplified form, at the PHC or online.
 
 
 <ol start="53">
 <li>Relief will also be quicker and more permanent:
 
-<ol>
+<ul>
 <li>Clause 17 will ensure that EPOs will be in place until conclusion of proceedings unless they are successfully challenged – the victim will no longer have to renew EPOs every 28 days </li>
 <li>The hearings will also be conducted more quickly. </li>
 <li> The PHC will aim to conduct hearings for EPOs within 48 to 72 hours of application. </li>
@@ -687,16 +683,16 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 </li>
 <li>The PHC will aim to conduct hearings for final POs within 4 weeks of the application. </li>
 <li>The timelines, of course, will be subject to practical constraints. 
-<ol>
+<ul>
  <li>Such as for example, if the application is filed over the weekend, the Courts may only be able to hear it on the next working day.</li>
  <li>Applicants should, of course, always seek police intervention if they are in immediate physical danger.</li>
  <li>Finally, should the court decide to stay proceedings for a PO under the new Section 13A pending a criminal investigation, it may take longer for a PO to be granted. However, in that situation, an EPO will be in place until the PO is granted.</li>
-</ol>
+</ul>
 </li>
 </ol>
  
 </li>
-</ol>
+</ul>
 
 {:start="54"}
 54. We hope that these measures will relieve some of the anxieties that an applicant faces when invoking the court process and encourage those in need to come forward.
@@ -731,46 +727,96 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 <li>  Third, we have acted on feedback that the courts should be empowered to proactively intervene in cases where the harasser’s conduct may not cross the threshold of criminal or dangerous conduct, but where the facts demonstrate that the harasser is mentally ill.</li> 
 </ol>
 
-* Clause 19 empowers the court to:
-  * Order the respondent to undergo a psychiatric assessment after it grants a PO and undergo psychiatric treatment if certain criteria are fulfilled –
-    * The respondent must have psychiatric conditions susceptible to treatment, capable of being treated
-    * The respondent must be suitable for treatment
-    * And the psychiatric condition must have contributed to contravention that formed basis for making the PO, having a nexus with the conduct complained of.
-    
-* The criteria and nature of the treatment will largely mirror the treatment regime under the Criminal Procedure Code, with appropriate safeguards.
-  * Failure to comply with the orders will be punishable as contempt of court.
+<ul>
+<li>Clause 19 empowers the court to:
+
+<ul>
+<li>Order the respondent to undergo a psychiatric assessment after it grants a PO and undergo psychiatric treatment if certain criteria are fulfilled –
+
+<ul>
+<li>The respondent must have psychiatric conditions susceptible to treatment, capable of being treated</li> 
+<li>The respondent must be suitable for treatment</li>
+<li>And the psychiatric condition must have contributed to contravention that formed basis for making the PO, having a nexus with the conduct complained of.</li>
+</ul>
+
+</li> 
+</ul>
+
+</li>
+  <li>The criteria and nature of the treatment will largely mirror the treatment regime under the Criminal Procedure Code, with appropriate safeguards.
+
+ <ul>
+ <li>Failure to comply with the orders will be punishable as contempt of court.</li>     
+ </ul>
+</li>
+</ul>
+
 
 {:start="60"}
 60. Two further amendments in clause 16(1)(a) clarify the law.
+<ul>
+<li>POs can be obtained against entities who commit contraventions under the Act. The common law principles of attribution will apply.
+<ul>
+<li>This will address cases that have already been brought before our courts, for example, where wayward companies might have crossed the threshold of lawful debt collection into criminal behavior such as intentional harassment or violence, in the context of carrying out their debt collection.</li>
+<li>Companies may have sent different runners to harass a victim.</li>
+<li>Victims can now obtain a single PO against the company and do not have to bring each runner who conducts each of these harassing acts to court each time.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Domestic exclusion orders are available under the Act.
+<ul>
+<li>These orders, which are also available under the Women&rsquo;s Charter, will allow victims to exclude a harasser from their shared residence.</li>
+<li>This is so even if the harasser has a proprietary interest in the property.</li>
+</ul>
+</li>
+</ul>
 
-* POs can be obtained against entities who commit contraventions under the Act. The common law principles of attribution will apply.
-  * This will address cases that have already been brought before our courts, for example, where wayward companies might have crossed the threshold of lawful debt collection into criminal behavior such as intentional harassment or violence, in the context of carrying out their debt collection.
-  * Companies may have sent different runners to harass a victim.
-  * Victims can now obtain a single PO against the company and do not have to bring each runner who conducts each of these harassing acts to court each time.
-* Domestic exclusion orders are available under the Act.
-  * These orders, which are also available under the Women’s Charter, will allow victims to exclude a harasser from their shared residence.
-  * This is so even if the harasser has a proprietary interest in the property.
+<ol start="2" style="list-style-type: lower-roman">
+<li>  Strengthening Recourse and Increasing Deterrence</li> 
+</ol>
 
 {:start="61"}
 61. We are also taking measures to strengthen the recourse available to victims, and increase the deterrence factor of the remedies available under the Act.  
+
+<ul>
+<li>First, clauses 4 to 10 and 13 clarify that entities can be liable for contraventions under the Act.
+<ul>
+<li>They can be prosecuted or sued for damages.</li>
+<li>The common law principles of attribution will apply.</li>
+<li>This will discourage entities from allowing their employees to harass customers.</li>
+</ul>
+</li>
+<li>Second, this House heard yesterday about amendments to the Penal Code to double penalties for offences committed against vulnerable persons.
+<ul>
+<li>Under the proposed POHA amendments, clause 10 provides that penalties for POHA offences against vulnerable persons, be they adults or children, will likewise be doubled.</li>
+</ul>
+</li>
+<li>Third, we spoke earlier about the pressing need to protect victims of intimate partner violence. The Government has amended the Penal Code to provide for enhanced penalties for specific offences committed against intimate partners.
+<ul>
+<li>In a similar vein, Clause 11 of this Bill doubles the penalty if a POHA offence is committed against an intimate partner.</li>
+</ul>
+</li>
+</ul>
   
-* First, clauses 4 to 10 and 13 clarify that entities can be liable for contraventions under the Act.
-  * They can be prosecuted or sued for damages.
-  * The common law principles of attribution will apply.
-  * This will discourage entities from allowing their employees to harass customers.
-* Second, this House heard yesterday about amendments to the Penal Code to double penalties for offences committed against vulnerable persons.
-  * Under the proposed POHA amendments, clause 10 provides that penalties for POHA offences against vulnerable persons, be they adults or children, will likewise be doubled.
-* Third, we spoke earlier about the pressing need to protect victims of intimate partner violence. The Government has amended the Penal Code to provide for enhanced penalties for specific offences committed against intimate partners.
-  * In a similar vein, Clause 11 of this Bill doubles the penalty if a POHA offence is committed against an intimate partner.
+
  
 {:start="62"} 
 62. We are also taking steps to ensure that a harasser who reoffends is also dealt with severely.
 
-* At present, as I mentioned earlier, breach of a PO under POHA is not an arrestable offence.
-  * This is in contrast with the position under the Women’s Charter.
-* In response to concerns that POs issued under the Act are perceived as ineffective, we propose to amend the law.
-  * Clause 22 provides that if a harasser breaches a PO, this will be arrestable in prescribed circumstances, such as where hurt is caused or where the harassing conduct persists despite the issuance of a PO.   
-  * In addition, Clause 9(b) provides that if a harasser breaches a PO more than once, he will be liable on subsequent conviction to twice the maximum punishment prescribed.   This also brings the Act in line with the Women’s Charter. 
+<ul>
+<li>At present, as I mentioned earlier, breach of a PO under POHA is not an arrestable offence.
+<ul>
+<li>This is in contrast with the position under the Women&rsquo;s Charter.</li>
+</ul>
+</li>
+<li>In response to concerns that POs issued under the Act are perceived as ineffective, we propose to amend the law.
+<ul>
+<li>Clause 22 provides that if a harasser breaches a PO, this will be arrestable in prescribed circumstances, such as where hurt is caused or where the harassing conduct persists despite the issuance of a PO.</li>
+<li>In addition, Clause 9(b) provides that if a harasser breaches a PO more than once, he will be liable on subsequent conviction to twice the maximum punishment prescribed. This also brings the Act in line with the Women&rsquo;s Charter.</li>
+</ul>
+</li>
+</ul>
   
   
 <ol start="3" style="list-style-type: upper-alpha">
@@ -787,7 +833,7 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 <ol start="64">
 <li>  First, on doxxing. To understand the basis of the doxxing amendments, let me first highlight a case that might fall through the cracks today:
 
-<ol>
+<ul>
 <li>A Singaporean girl, whom I shall not name, was in the middle of her ‘O’ levels.</li>
 <li>She discovered edited photographs of herself on a Tumblr blog with pornographic content.</li>
 <li>She started receiving unsolicited messages on her social media platforms.</li>
@@ -796,7 +842,7 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 <li>With this knowledge, she retreated from her social interactions, afraid to even leave home.</li>
 <li>This young girl was a victim of harassment.</li>
 <li>However, the email sent by her friend to the porn blogs, despite its malicious intent, may not have been caught by existing POHA provisions which require communications to be “threatening, abusive or insulting” in themselves.</li> 
-</ol>
+</ul>
  
 </li> 
 </ol>
@@ -833,13 +879,19 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 <ol start="69">
 <li>  On the other hand,
 
-<ol>
+<ul>
 <li>Publishing someone’s contact details to netizens intending to harass or alarm that person, or intending that other netizens use the information to harass or hurt the person, is unacceptable.</li> 
 <li>Publishing photographs and contact details of a girl, intending that others use those details to harass her, is likewise unacceptable.</li>
-</ol>
+</ul>
 
 </li> 
 </ol> 
+
+70 to 72
+73 to 76
+78  and 79 is wrong
+
+85 to 92
 
 {:start="70"}
 70. There have been concerns raised that the new doxxing provisions could be too broad
