@@ -33,13 +33,13 @@ collection_name: news
 </ol>
 
 <ol start="2">
-<li style="border-bottom: 1px solid black; color:#900">  Theme 1: Maintaining trust in our legal system – serving the needs of all who live, work and play, in Singapore</li>  
+<li>  Theme 1: Maintaining trust in our legal system – serving the needs of all who live, work and play, in Singapore</li>  
 </ol>
 
 {:start="3"}
 3. I will begin by giving an update on my Ministry’s efforts to continually update the legal framework to meet evolving needs. Mr Christopher De Souza touched on this.
 
-<ol style="list-style-type: upper-alpha font-weight:bold; color:#900">
+<ol style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Criminal Justice.</li>
 </ol>
 
@@ -358,7 +358,7 @@ collection_name: news
 
 <ol start="50">
 <li>   But it is not just about size or how big the physical infrastructure, we need to  deepen our collaborations with international institutions.
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>  And on this score, we have attracted top arbitral institutions to set up offices in Singapore –
 <ul>
 <li> The International Court of Arbitration of the International Chamber of Commerce (ICC Court) has set up a case management office here.</li>
@@ -390,7 +390,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
  
 
 {:start="52"} 
-52. First, in the area of insolvency and debt restructuring. We amended the Companies Act previously and now we have got an omnibus was passed in 2018, the Insolvency Restructuring and Dissolution Act, was the final piece of principal legislation in our phased implementation of the recommendations of the Insolvency Law Review Committee and the Committee to Strengthen Singapore as an International Centre for Debt Structuring. So we now have legislation that seeks to properly balance the interests of debtors and creditors undergoing restructuring in Singapore.
+52. First, in the area of <u>insolvency and debt restructuring</u>. We amended the Companies Act previously and now we have got an omnibus was passed in 2018, the Insolvency Restructuring and Dissolution Act, was the final piece of principal legislation in our phased implementation of the recommendations of the Insolvency Law Review Committee and the Committee to Strengthen Singapore as an International Centre for Debt Structuring. So we now have legislation that seeks to properly balance the interests of debtors and creditors undergoing restructuring in Singapore.
 
 
 {:start="53"}
@@ -460,7 +460,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 <ol start="60">
 <li>First, we want to establish Singapore as an advocate of, and thought leader in, international rule of law efforts.
 
-<ol style="list-style-type: loower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> The Singapore Convention on Mediation will be the first convention under the UN auspices to be named after Singapore. This reinforces Singapore’s reputation brand as a forum of choice, for cross-border dispute resolution and also other form of alternative dispute resolution.</li>
 <li>  We also engage actively in international efforts to design new international rules, to ensure that Singapore’s perspectives and our unique circumstances are not ignored.      
 <ul>
@@ -528,7 +528,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 </ol>
 
 {:start="69"}
-69. Second, internationalisation. MinLaw is supporting the efforts of SLPs to capture a greater share of international demand for legal services. In other words, look not just at Singapore as the market, but to go beyond Singapore into the region and globally.
+69. Second, <u>internationalisation</u>. MinLaw is supporting the efforts of SLPs to capture a greater share of international demand for legal services. In other words, look not just at Singapore as the market, but to go beyond Singapore into the region and globally.
  
 {:start="70"} 
 70. Together with the Law Society of Singapore and the then-International Enterprise Singapore, we launched the Lawyers Go Global programme in Feb 2018.
@@ -546,11 +546,11 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 </ol>
 
 {:start="71"}
-71. Third, adoption of technology. We are supporting law practices’ efforts to keep up to date with technology.
+71. Third, <u>adoption of technology</u>. We are supporting law practices’ efforts to keep up to date with technology.
 
 <ol start="72">
 <li>So members might like to know that under the Tech Start for Law scheme, SLPs were given 70% funding:
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>115 Singapore Law Practices, of which 99% are small and medium sized ones, have collectively adopted 143 technology solutions.</li>
 </ol>
 </li>
