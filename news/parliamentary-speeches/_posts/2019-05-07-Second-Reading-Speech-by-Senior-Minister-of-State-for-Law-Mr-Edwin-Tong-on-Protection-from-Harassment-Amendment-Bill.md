@@ -1162,5 +1162,5 @@ The rationale of this:
 {:start="92"}
 92. Mr Speaker, Sir, I beg to move.
 
-17m
+
 <p class="right-side-updated">Last updated on 08 May 2019 </p>
