@@ -672,27 +672,24 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 52. The victim will be able to file an application for a PO using a simplified form, at the PHC or online.
 
 
-<ol start="53">
-<li>Relief will also be quicker and more permanent:
+{:start="53"}
+53. The victim will be able to file an application for a PO using a simplified form, at the PHC or online.
 
 <ul>
-<li>Clause 17 will ensure that EPOs will be in place until conclusion of proceedings unless they are successfully challenged – the victim will no longer have to renew EPOs every 28 days </li>
-<li>The hearings will also be conducted more quickly. </li>
-<li> The PHC will aim to conduct hearings for EPOs within 48 to 72 hours of application. </li>
-<li>Where there is an element of violence involved, the PHC will try to conduct hearings for EPOs within 24 hours of the application.
-</li>
-<li>The PHC will aim to conduct hearings for final POs within 4 weeks of the application. </li>
-<li>The timelines, of course, will be subject to practical constraints. 
+<li>Clause 17 will ensure that EPOs will be in place until conclusion of proceedings unless they are successfully challenged &ndash; the victim will no longer have to renew EPOs every 28 days</li>
+<li>The hearings will also be conducted more quickly.</li>
+<li>The PHC will aim to conduct hearings for EPOs within 48 to 72 hours of application.</li>
+<li>Where there is an element of violence involved, the PHC will try to conduct hearings for EPOs within 24 hours of the application.</li>
+<li>The PHC will aim to conduct hearings for final POs within 4 weeks of the application.</li>
+<li>The timelines, of course, will be subject to practical constraints.
 <ul>
- <li>Such as for example, if the application is filed over the weekend, the Courts may only be able to hear it on the next working day.</li>
- <li>Applicants should, of course, always seek police intervention if they are in immediate physical danger.</li>
- <li>Finally, should the court decide to stay proceedings for a PO under the new Section 13A pending a criminal investigation, it may take longer for a PO to be granted. However, in that situation, an EPO will be in place until the PO is granted.</li>
+<li>Such as for example, if the application is filed over the weekend, the Courts may only be able to hear it on the next working day.</li>
+<li>Applicants should, of course, always seek police intervention if they are in immediate physical danger.</li>
+<li>Finally, should the court decide to stay proceedings for a PO under the new Section 13A pending a criminal investigation, it may take longer for a PO to be granted. However, in that situation, an EPO will be in place until the PO is granted.</li>
 </ul>
 </li>
-</ol>
- 
-</li>
 </ul>
+
 
 {:start="54"}
 54. We hope that these measures will relieve some of the anxieties that an applicant faces when invoking the court process and encourage those in need to come forward.
@@ -743,11 +740,10 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 </ul>
 
 </li>
-  <li>The criteria and nature of the treatment will largely mirror the treatment regime under the Criminal Procedure Code, with appropriate safeguards.
-
- <ul>
- <li>Failure to comply with the orders will be punishable as contempt of court.</li>     
- </ul>
+<li>The criteria and nature of the treatment will largely mirror the treatment regime under the Criminal Procedure Code, with appropriate safeguards.
+<ul>
+<li>Failure to comply with the orders will be punishable as contempt of court.</li>     
+</ul>
 </li>
 </ul>
 
@@ -887,22 +883,24 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 </li> 
 </ol> 
 
-70 to 72
-73 to 76
-78  and 79 is wrong
-
-85 to 92
 
 {:start="70"}
 70. There have been concerns raised that the new doxxing provisions could be too broad
-
-* Similar concerns were raised about the existing harassment provisions back in 2014
-* Harassment is heavily fact specific
-  * Doxxing – a subset of that, is no different
-* The law today, in fact with these amendments adds clarity:
-  * Doxxing is currently prosecuted through a mix of provisions arising in different pieces of legislation
-  * Courts will now be able to develop a body of jurisprudence on when the offence is made out
-  * Furthermore, existing case law on when intent is made out in the circumstances can be relied upon
+<ul>
+<li>Similar concerns were raised about the existing harassment provisions back in 2014</li> 
+<li>Harassment is heavily fact specific
+<ul>
+<li>Doxxing – a subset of that, is no different</li> 
+</ul>
+</li>
+<li>The law today, in fact with these amendments adds clarity:
+<ul>
+<li>Doxxing is currently prosecuted through a mix of provisions arising in different pieces of legislation</li> 
+<li>Courts will now be able to develop a body of jurisprudence on when the offence is made out</li>
+<li>Furthermore, existing case law on when intent is made out in the circumstances can be relied upon</li>
+</ul>
+</li>
+</ul> 
 
 {:start="71"}
 71. Other concerns have also been raised about whether the new provisions can deal with anonymous posters. Let me deal with that.
@@ -915,6 +913,7 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 
 {:start="72"}
 72. As with other victims of harassment such as cyberbullying and intimate partner violence, a victim of doxxing will be able to avail himself of the streamlined processes and expedited court timelines.
+
 * The court may order that the offending communication be taken down by the offender and persons who have shared the original post or substantially similar posts.
 * Where appropriate, the court may also order that an internet intermediary disable access to the offending post.
 * And finally, where an EPO involving online doxxing is involved, the Court will aim to hear the application within 24 hours.
@@ -943,11 +942,21 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 {:start="75"}
 75. For the avoidance of doubt, the falsehoods regime under sections 15 and 16 of POHA, and clause 20 of the Bill, deals with false statements of fact. This includes misleading statements but does not cover criticism, opinions, satire and parody.
 
-* Let me make this clear
-  * First, a statement that omits material facts is misleading if the statement would have been considered by a reasonable person to be misleading by reason of such an omission.
-  * If, for example, A says that B is dishonest, that is a statement of opinion and not a false statement of fact. However, if A goes on to say that B was convicted by a court of cheating, then
-    * This is a false statement of fact if B was never convicted of such an offence;
-    * Going back to my example, the statement is also false if B was subsequently acquitted on appeal, because the statement conveys a false meaning by reason of its omission of B’s subsequent acquittal
+<ul>
+<li>Let me make this clear
+<ul>
+<li>First, a statement that omits material facts is misleading if the statement would have been considered by a reasonable person to be misleading by reason of such an omission.</li> 
+<li>If, for example, A says that B is dishonest, that is a statement of opinion and not a false statement of fact. However, if A goes on to say that B was convicted by a court of cheating, then
+
+<ul>
+<li>This is a false statement of fact if B was never convicted of such an offence;</li> 
+<li>Going back to my example, the statement is also false if B was subsequently acquitted on appeal, because the statement conveys a false meaning by reason of its omission of B’s subsequent acquittal</li>
+</ul> 
+ 
+</li>
+</ul>
+</li> 
+</ul>
     
 <ol start="2" style="list-style-type: lower-alpha">
 <li>Expanding Scope of Orders</li> 
@@ -956,12 +965,20 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 {:start="76"}
 76. Once a false statement about a subject is established,
 
-* Clause 20 sets out five orders that may be available to address it.
-* Interim relief will be available for all orders save the General Correction Order.
-  * This was necessary given the speed at which online falsehoods can now spread.
-* Interim relief can be obtained ex parte in the case of interim stop publication and interim notification orders, both of which are targeted at individuals or entities which publish falsehoods.
-  * In the case of interim disabling orders and targeted interim notification orders, which are directed at internet intermediaries, notice of the application first has to be served on the intermediary
-  * This is because the internet intermediary is not directly responsible for the falsehood, and should be given a chance to explain its position in court, should it wish to contest the application 
+<ul>
+<li>Clause 20 sets out five orders that may be available to address it.</li> 
+<li>Interim relief will be available for all orders save the General Correction Order.
+<ul>
+<li>This was necessary given the speed at which online falsehoods can now spread.</li> 
+</ul> 
+</li>
+<li>Interim relief can be obtained ex parte in the case of interim stop publication and interim notification orders, both of which are targeted at individuals or entities which publish falsehoods.
+<ul>
+<li>In the case of interim disabling orders and targeted interim notification orders, which are directed at internet intermediaries, notice of the application first has to be served on the intermediary</li> 
+<li>This is because the internet intermediary is not directly responsible for the falsehood, and should be given a chance to explain its position in court, should it wish to contest the application</li>
+</ul>
+</li>
+</ul>
   
 <ol start="77">
 <li>Let me explain each order in turn, and start by saying that all of the orders, save the General Correction Order, are already available under the Act today. As is the case under the current Act, the court will not make any of these orders unless satisfied, amongst other things, that:
@@ -991,14 +1008,20 @@ Bots can sometimes take the place of these low cost workers as well, enhancing t
 {:start="79"}
 79. A stop publication order requires a person or entity not to publish a false statement or any substantially similar statement.
 
-* It is already available today as I mentioned.
-* The orders have been amended to include substantially similar statements.
-* This ensures that publishers cannot game the system by simply amending the statement slightly, but such that it is still false.
-* As with the present regime, stop publication orders can be taken out against multiple individuals or entities
-  * Applicant need not take out separate applications against multiple persons.
-  * Anyone who publishes the false statement or a substantially similar statement is bound upon service unless the court has dispensed with service.
-  * This deals with the situation where an anonymous user may use different online accounts to publish the same false statement.
-  * This will be covered by the order, regardless of which account is used.
+<ul>
+<li>It is already available today as I mentioned.</li> 
+<li>The orders have been amended to include substantially similar statements.</li>
+<li>This ensures that publishers cannot game the system by simply amending the statement slightly, but such that it is still false.</li>
+<li>As with the present regime, stop publication orders can be taken out against multiple individuals or entities
+<ul>
+ <li>Applicant need not take out separate applications against multiple persons. </li>
+<li>Anyone who publishes the false statement or a substantially similar statement is bound upon service unless the court has dispensed with service. </li>
+<li>This deals with the situation where an anonymous user may use different online accounts to publish the same false statement. </li>
+ <li>This will be covered by the order, regardless of which account is used. </li> 
+</ul>
+
+</li> 
+</ul>
   
 <ol start="80">
 <li>Correction orders:
@@ -1074,7 +1097,7 @@ The rationale of this:
 
 <ol start="3" style="list-style-type: lower-alpha">
 <li>  Procedure</li> 
-</o>
+</ol>
 
 {:start="84"}
 84. In terms of the relevant procedure for these orders,
@@ -1139,4 +1162,5 @@ The rationale of this:
 {:start="92"}
 92. Mr Speaker, Sir, I beg to move.
 
+17m
 <p class="right-side-updated">Last updated on 08 May 2019 </p>
