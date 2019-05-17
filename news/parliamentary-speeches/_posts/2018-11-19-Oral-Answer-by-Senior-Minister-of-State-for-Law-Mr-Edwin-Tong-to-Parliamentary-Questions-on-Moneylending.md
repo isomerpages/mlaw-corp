@@ -87,6 +87,6 @@ Ministry of Law and Ministry of Manpower provided a joint reply, where SMS (Law)
 13. The Ministry of Law, together with the Ministry of Manpower and the Singapore Police Force, will continue to monitor the situation following the implementation of these measures, and will assess if more stringent measures are necessary.
 
 
-For MOM's response click [here](//).
+For MOM's response click [here](/news/parliamentary-speeches/written-answer-by-ministry-of-manpower-on-fdws-and-moneylending).
 
 <p class="right-side-updated">Last updated on 19 Nov 2018</p> 
