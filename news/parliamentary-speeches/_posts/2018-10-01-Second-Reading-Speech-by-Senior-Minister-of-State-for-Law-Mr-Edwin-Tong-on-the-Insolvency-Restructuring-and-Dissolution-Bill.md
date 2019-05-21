@@ -112,7 +112,7 @@ Mr Speaker,
 {:start="16"}
 16. The repeals however will not affect existing cases and pending applications that are now before the courts under the current <i>Bankruptcy Act</i> and <i>Companies Act</i>, as long as they are before the date of commencement of the Bill. The relevant provisions of the Bankruptcy Act and Companies Act will continue to apply to those cases and applications.
 
-<u>Personal Bankruptcy</u>
+*<u>Personal Bankruptcy</u>*
 
 {:start="17"}
 17. I will go over some of the key provisions relating to personal bankruptcy.
@@ -131,18 +131,25 @@ Mr Speaker,
 
 *<u>Liquidation</u>*
 
+{:start="22"}
 22. Next, I turn to liquidation which appear in clauses 119 to 250.These provisions have also been ported over from the Companies Act with various amendments. The key changes include the reforms made to the appointment of the Official Receiver as liquidator, the introduction of a new early dissolution procedure, and also a new wrongful trading provision. Let me deal with these.
  
+{:start="23"} 
 23. Clause 135 sets out the circumstances where the Official Receiver may be nominated as liquidator in a Court application to wind up a company. Currently, the Official Receiver is the default liquidator where there is no liquidator appointed by the Court, or there is a vacancy in the position of liquidator in a Court-ordered winding up.
- 
+
+{:start="24"}
 24. This is undesirable because there is no obligation imposed on the applicant to attempt to appoint a private liquidator, even where the company may have sufficient assets to pay for such liquidators. This amendment thus re-focuses the Official Receiver’s role on overseeing the conduct of liquidation and cases.
  
+{:start="25"} 
 25. Under clause 135(3) of the Bill, the Official Receiver may only be nominated to act as liquidator if the applicant for a winding up has taken reasonable steps, but is unable, to obtain the consent of a licensed insolvency practitioner to be appointed as liquidator, and the Official Receiver then consents to such nomination.
  
+{:start="26"} 
 26. Second, clauses 209 to 211 introduce a new procedure for the early dissolution of a company in liquidation. In the present regime, there is no summary procedure that caters to cases where companies may have insufficient assets to pay for the administration of their own winding up.
  
+ {:start="27"} 
 27. The impetus for this new procedure is to streamline the use of public resources and funds in administering cases where there are insufficient assets to fund even the administration of the liquidation. There are a sizeable number of such cases and to give Members a sense of the scale: As of 31 August2018, there were more than 100 companies undergoing winding up by the Official Receiver, with estimated realisable assets of less than S$1,000 in each case.
  
+{:start="28"}  
 28. Without the new provision, significant number of man-hours and public resources will need to be expended to liquidate such companies, with little or even no return to creditors.
 
 
@@ -184,7 +191,7 @@ In such cases, the liquidator may give notice to the creditors and contributorie
 <ol start="36">
 <li> To raise standards and improve accountability, the Insolvency and Public Trustee’s Office under the Ministry of Law will regulate more than 300 insolvency practitioners, who will fall under this new regime. Its key features include:
 
-<ol style="list-style-type: alpha">
+<ol style="list-style-type: lower-alpha">
 <li>  First, the licensing of insolvency practitioners, who must meet minimum qualifications and prescribed requirements to obtain and renew their licences under clauses 50 to 51. In particular, clause 50 provides that a “<i>qualified person</i>” means any person who is an advocate or solicitor, a public accountant, a chartered accountant or possesses such other qualifications as the Minister may prescribe; and</li>
 <li>   Second, the investigation and discipline against insolvency practitioners for breaches of their conduct as insolvency practitioners under clauses 56 to 60.</li>
 </ol>
