@@ -758,9 +758,9 @@ l
 {:start="84"}
 84. Sir, I beg to move.
 
-<sup>[1]</sup>“Ministry of Law to review framework for granting bail in wake of Sydney siege”, The Straits Times, 16 December 2014.  
-<sup>[2]</sup>“Rebuked lawyer to face Court of 3 Judges”, The Straits Times, 26 October 2017  
-<sup>[3]</sup>“The tragic and violent case of Richard Hawkins, his brother and another attack”, Stuff.co.nz, 26 March 2016.  
+<sup>[1]</sup>“Ministry of Law to review framework for granting bail in wake of Sydney siege”, The Straits Times, 16 December 2014.    
+<sup>[2]</sup>“Rebuked lawyer to face Court of 3 Judges”, The Straits Times, 26 October 2017    
+<sup>[3]</sup>“The tragic and violent case of Richard Hawkins, his brother and another attack”, Stuff.co.nz, 26 March 2016.    
 
 
 <p class="right-side-updated">Last updated on 20 Mar 2018</p>
