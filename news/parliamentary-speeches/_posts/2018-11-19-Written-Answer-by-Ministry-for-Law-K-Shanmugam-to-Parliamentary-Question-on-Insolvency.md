@@ -10,7 +10,7 @@ collection_name: news
 
 **Mr Png Eng Huat (Member of Parliament for Hougang SMC)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law (a) what is the current number of Singaporeans aged 65 and above who have remained in bankruptcy beyond five years; (b) what is the number of such Singaporeans who have made bankrupt by Government agencies; and (c) what are these agencies
 
 
