@@ -119,7 +119,7 @@ INTRODUCTION
 {:start="13"} 
 13. Mr de Souza asked for an elaboration of the rigorous training that public officers who are not qualified persons under the Legal Profession Act will undergo, in order to appear and plead in Court for an aided person. Mr Henry Kwek asked if MinLaw would decide what cases these public officers would take on, and whether this would compromise the interest of aided persons. The LAB will ensure the thorough and proper training of such persons and will ensure that no aided persons’ interests will be compromised as a result of the use of such public officers.
 
-<ol style="list-tyle-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>The LAB’s Legal Executives are well-trained and they do complement the work of the Legal Officers. </li>
 <li>Currently, Legal Executives already perform a significant amount of work at LAB, and this includes taking of instructions and preparing drafts of certain documents. And we feel that many of them are capable of doing more and can be made to do more. </li>
 <li>So we will allow our best Legal Executives to be appointed by the Director to provide legal advice and also represent applicants in Court proceedings and at mediation. </li>
@@ -133,7 +133,7 @@ INTRODUCTION
 {:start="14"}
 14. Mr Kwek asked about the rationale for allowing the Director, instead of the Legal Aid Board, to grant aid for straightforward matters. Mr Kwek asked if we could avoid the Director being a bottleneck.
 
-<ol style="list-style-type: upper-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Currently, at this point in time, the merits of all applications are assessed by the Legal Aid Board which comprises the Legal Aid Director and not fewer than two solicitors from a panel of solicitors maintained under the Act. And the Board meets once fortnightly. </li>
 <li>This means that after LAB has prepared a legal opinion for an applicant, the applicant may have to wait for up to two weeks before aid is granted, or deferred, or refused. </li>
 <li>Allowing the Director in such cases to grant aid for straightforward matters will help and not hinder, the applicant’s case by up to two weeks, as the Director can now immediately determine whether in that case, aid should be granted or not, assuming the means criteria is satisfied, without waiting for the Board to convene. </li>
@@ -176,7 +176,7 @@ INTRODUCTION
 19. Mr Irshad asked if we can equip micro enterprises with the legal resources such as business contract templates. This would no doubt simplify process and the way in which legal services may be delivered on simple matters, but it is probably more appropriate for the Law Society to take this on, and we will consult with the Law Society Pro Bono Service Office and other volunteer groups to see if we can provide micro enterprises with such assistance.
 
 
-<ol start="7">
+<ol start="7" style="list-style-type: upper-alpha">
 <li> PROVIDING HOLISTIC SUPPORT</li>
 </ol>
 
