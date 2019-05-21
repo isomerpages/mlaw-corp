@@ -75,13 +75,14 @@ Mr Speaker,
 </li>
 </ol>
 
-{:start="12"}
-12. This clause allows unmeritorious appeals or applications to be dismissed without expending unnecessary judicial time and resources. However, safeguards are put in place to ensure that the interests of the appellant or applicant are adequately protected.  
+<ol start="12">
+<li>This clause allows unmeritorious appeals or applications to be dismissed without expending unnecessary judicial time and resources. However, safeguards are put in place to ensure that the interests of the appellant or applicant are adequately protected.  
 
 <ol style="list-style-type: lower-alpha">
 <li>In this regard, before a court can summarily dismiss an appeal or application, it must give the appellant or applicant a reasonable opportunity to show cause as to why the appeal or application                               should not be dismissed and consider the representations of the appellant or applicant.</li>
 </ol>
-
+</li>
+</ol>
 
 *Admission of further evidence on appeal except where matters occurred subsequent to the date of decision*
 
@@ -254,8 +255,10 @@ to be moved from the primary Act to the Fourth to Sixth Schedules.
 <li><u>Conclusion</u></li>
 </ol>
 
+{:start="45"}
 45. Sir, in summary, these amendments are part of our continuing efforts to improve civil procedure in court proceedings in Singapore. This is an ongoing and worthy endeavour, for it has often been said, and in my view correctly, that procedure is the handmaid of justice. By enhancing our court processes, and strengthening court procedures, while at the same time ensuring that the interests of litigants are safeguarded, these amendments will enable the courts to continue to fulfil their mission of providing a just, efficient and effective avenue for all its users.
- 
+
+{:start="46"}
 46. Mr Speaker, I beg to move.
 
 <p class="right-side-updated">Last updated on 02 Oct 2018 </p>
