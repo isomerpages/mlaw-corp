@@ -90,7 +90,7 @@ Mr Speaker,
 {:start="13"}
 13. With that, Mr Speaker, let me take the members through the key provisions of the Bill.
 
-<ol start="list-style-type: upper-roman; font-weight:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li>NEW SINGLE LEGISLATION</li>
 </ol>
 
@@ -103,7 +103,7 @@ Mr Speaker,
 
 <ol style="list-style-type: lower-alpha">
 <li>The <i>Bankruptcy Act</i> will be repealed in its entirety; </li>
-<li>The provisions in the <i>Companies Act</i> relating to corporate insolvency and restructuring will be repealed.; and
+<li>The provisions in the <i>Companies Act</i> relating to corporate insolvency and restructuring will be repealed.; and</li>
 <li>Necessary consequential or related amendments will be made to about 70 other Acts of Parliament. </li>
 </ol>
 </li>
