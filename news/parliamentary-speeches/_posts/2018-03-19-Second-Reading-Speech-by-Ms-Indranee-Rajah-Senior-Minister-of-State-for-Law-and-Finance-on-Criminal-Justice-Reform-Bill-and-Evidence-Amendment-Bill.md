@@ -269,12 +269,12 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 <li>The Court will be given the discretion to withhold bail for bailable offences punishable with imprisonment, if there are substantial grounds to believe that the accused person would abscond.</li>
 <li>The rules on execution of bail pending a bail review will be tightened &ndash;
 <ul>
-<li>If the State Courts grant bail for a non-bailable offence, and the Prosecution intends to apply to the High Court for a review of bail, the State Courts will be required to order that the accused person is not allowed to go on bail until the review is determined.</li>
+ <li>If the State Courts grant bail for a <u>non-bailable offence</u>, and the Prosecution intends to apply to the High Court for a review of bail, the State Courts will be <u>required</u> to order that the accused person is not allowed to go on bail until the review is determined.</li>
 </ul>
 </li>
 <li>In other words, the accused person will have to be remanded until the High Court decides on the bail review.
 <ul>
-<li>If the State Courts grant bail for a bailable offence, and the Prosecution intends to apply for review, the State Courts will have a discretion on whether to allow the accused person to go on bail pending determination of the review.</li>
+ <li>If the State Courts grant bail for a <u>bailable offence</u>, and the Prosecution intends to apply for review, the State Courts will have a <u>discretion</u> on whether to allow the accused person to go on bail pending determination of the review.</li>
 </ul>
 </li>
 </ul>
@@ -351,7 +351,7 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 </li>
 </ol>
 
-*Enhancing the courts’ discretion to order exceptions to open court proceedings*
+*<u>Enhancing the courts’ discretion to order exceptions to open court proceedings</u>*
 
 {:start="32"}
 32. The Bill also makes amendments to the State Courts Act and Supreme Court of Judicature Act, to fine-tune the courts’ discretion to order exceptions to open court proceedings.
@@ -374,12 +374,12 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 </li>
 </ol>
 
-<u>Enhancing and rationalising the fitness to plead/unsoundness of mind regime</u>
+*<u>Enhancing and rationalising the fitness to plead/unsoundness of mind regime</u>*
 
 
 <ol start="36">
 <li>The law provides for special procedures to deal with two categories of accused persons with special needs &ndash;
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>those who are &lsquo;unfit to plead&rsquo;, in other words not capable of making their defence at the time of trial; and</li>
 <li>those who are acquitted on the basis that they were of unsound mind at the time that they committed the offences.</li>
 </ol>
@@ -492,6 +492,8 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 {:start="49"}
 49. We have discussed this proposal with the Courts, and they are supportive.
 
+*<u>Streamlining pre-trial procedures in the High Court – extending the transmission procedure to replace the committal hearing procedure</u>*
+
 <ol start="50">
 <li>Under the present law, cases triable in the High Court must first go through a procedure called a Committal Hearing, before the case is put before the High Court.
 <ul>
@@ -561,6 +563,9 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 </ul>
 </li>
 </ol>
+
+*<u>Expanding the CCD procedure to cover more offences</u>*
+
 <ol start="60">
 <li>Pre-trial disclosure was introduced in the CPC in 2010, as one of the most major changes to criminal procedure in the history of our criminal justice system.
 <ul>
@@ -578,7 +583,6 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 <ul>
 <li>Most of the psychiatrists who give evidence are objective and professional.</li>
 <li>However, there have been a few instances where such evidence has fallen short of the basic standards of objectivity and competence expected of expert witnesses.</li>
-l
 <li>In one case, the Chief Justice had this to say about the psychiatrist who had given evidence &ndash;
 <ul>
 <li>&ldquo;not only was the report <strong>patently lacking in objectivity</strong>, it was <strong>plainly erroneous</strong>... <strong>experts owe their duty first and foremost to the court</strong> and not to the client who pays their fee...&rdquo; (Mehra Radhika v Public Prosecutor [2015] 1 SLR 96 at [68])</li>
@@ -607,6 +611,13 @@ l
 </ul>
 </li>
 </ol>
+
+**<u>Sentencing and other powers of the court</u>**
+
+*<u>The community sentencing regime</u>*
+
+
+
 <ol start="66">
 <li>The introduction of community sentences in 2010 was widely welcomed by members of this House, and by stakeholders in the criminal justice system.
 <ul>
