@@ -16,7 +16,7 @@ Mr Speaker,
 **Introduction**
 
 <ol start="2">
-<li> Under our current Intellectual Property ("IP") border enforcement regime, Singapore Customs (“Customs”) can seize or detain goods that are suspected to have infringed trade marks or copyright at the borders in 2 different situations:
+ <li> Under our current Intellectual Property ("<strong>IP</strong>") border enforcement regime, Singapore Customs (“<strong>Customs</strong>”) can seize or detain goods that are suspected to have infringed trade marks or copyright at the borders in 2 different situations:
 
 <ol style="list-style-type: lower-alpha">
 
