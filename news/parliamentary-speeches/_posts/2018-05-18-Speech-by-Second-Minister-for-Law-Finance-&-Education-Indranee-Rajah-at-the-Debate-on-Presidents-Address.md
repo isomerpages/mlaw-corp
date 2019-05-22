@@ -327,7 +327,7 @@ collection_name: news
 
  
 {:start="72"}
-72. SIA is the number 1 Airline in the World ( Source: Annual Travellers Choice Awards by TripAdvisor (CNA 9 April 2018)
+72. SIA is the number 1 Airline in the World (*<u>Source</u>: Annual Travellers Choice Awards by TripAdvisor (CNA 9 April 2018)*
 
  
 {:start="73"}
@@ -498,7 +498,7 @@ collection_name: news
 <ol start="110">
 <li>In this regard, I was struck by what the former Director-General of Education Ms Ho Peng said in her speech at the Appreciation Dinner upon her retirement.  She said:
 </li>
-* “We never went out to be a world class education system but through good thinking, planning and sheer hard work, we woke up one day to the realisation that we were regarded as world class. The idea took  some getting used to - and I hope never - because education is such a complex business, it is after all to  mould the future of our nation, that we must never be complacent, to always keep on our toes, to be  forward-looking and yet remain connected with the ground, the voices of students, teachers, school leaders,parents and the community.*
+<i>“We never went out to be a world class education system but through good thinking, planning and sheer hard work, we woke up one day to the realisation that we were regarded as world class. The idea took  some getting used to - and I hope never - because education is such a complex business, it is after all to  mould the future of our nation, that we must never be complacent, to always keep on our toes, to be  forward-looking and yet remain connected with the ground, the voices of students, teachers, school leaders,parents and the community.</i>
 </ol>
 
 {:start="111"}
@@ -531,19 +531,19 @@ collection_name: news
 
  
 {:start="118"}
-118. We are the 2nd most competitive economy in the world (Source: WEF, The Global Competitiveness Forum 2016 - 2017 rankings)
+118. We are the 2nd most competitive economy in the world (*<u>Source</u>: WEF, The Global Competitiveness Forum 2016 - 2017 rankings*)
 
  
 {:start="119"}
-119. 2nd among 190 economies for ease of doing business (Source: World Bank’s annual “Doing Business 2018 Report”)
+119. 2nd among 190 economies for ease of doing business (*<u>Source</u>*: World Bank’s annual “Doing Business 2018 Report”*)
 
  
 {:start="120"}
-120. Top in Asia for best protection of IP (Source: WEF, Global Competitiveness Report 2015/2016)
+120. Top in Asia for best protection of IP (*<u>Source</u>: WEF, Global Competitiveness Report 2015/2016*)
 
  
 {:start="121"}
-121. Top in Asia for innovation (Source: Global Innovation Index, 2017)
+121. Top in Asia for innovation (*<u>Source</u>: Global Innovation Index, 2017*)
 
  
 {:start="122"}
