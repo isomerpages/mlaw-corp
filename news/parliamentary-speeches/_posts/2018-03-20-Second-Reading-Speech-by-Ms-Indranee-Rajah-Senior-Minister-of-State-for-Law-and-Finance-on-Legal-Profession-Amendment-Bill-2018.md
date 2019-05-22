@@ -22,7 +22,7 @@ Mr Deputy Speaker,
 <ol start="2">
 <li>  This Bill makes amendments to the Legal Profession Act in three main areas:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>First, it introduces new measures to the disciplinary framework for lawyers, to supplement the existing suite of measures. </li>
 <li>Second, it introduces a framework to deal with unclaimed client money and brings unclaimed intervention money within the same framework; and </li>
 <li>Third, it introduces a registration category for non-practising foreign law experts to appear in the Singapore International Commercial Court or “SICC” for short, to make submissions on matters of foreign law. </li>
@@ -43,11 +43,11 @@ Mr Deputy Speaker,
 {:start="5"}
 5. Let me now take the House through the key amendments in the Bill.  
 
-<ol start="2" style="list-style-type: upper-roman">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u> Bill’s key amendments</u></li>
 </ol>
 
-<ol style="list-style-type: upper-alpha">
+<ol style="list-style-type: upper-alpha; font-weight:bold;">
 <li style="font-style:italic;"><i>Introduction of new measures to the disciplinary framework for lawyers</i></li>
 </ol>
 
@@ -203,7 +203,7 @@ Mr Deputy Speaker,
 22. It is common in international commercial arbitration practice for law experts to make submissions on foreign law before tribunals. Extending this option to users of the SICC will further enhance the attractiveness of the SICC as a premier international commercial court.
 
 <ol start="5" style="list-style-type: upper-alpha; font-weight:bold;">
-<li style="font-style:italic;>Miscellaneous amendments</li>
+<li style="font-style:italic">Miscellaneous amendments</li>
 </ol>
 
 {:start="23"}
@@ -211,7 +211,7 @@ Mr Deputy Speaker,
 
  
 {:start="24"}
-24. First: Clauses 3 and 20 of the Bill amend the Act to give the Law Society Council the power to require prescribed classes of solicitors who practise or intend to practise in a prescribed area of law, to make a declaration when applying for a practising certificate<sup>[18]</sup>.
+24. <u>First</u>: Clauses 3 and 20 of the Bill amend the Act to give the Law Society Council the power to require prescribed classes of solicitors who practise or intend to practise in a prescribed area of law, to make a declaration when applying for a practising certificate<sup>[18]</sup>.
 
  
 {:start="25"}
@@ -233,7 +233,7 @@ Mr Deputy Speaker,
 
 
 <ol start="28">
-<li>Second: Currently, the Law Society Council is only able to apply interest, dividends and other accretions of capital arising from the Compensation Fund<sup>[19]</sup> which consists of contributions from solicitors, to purchase and maintain a library for its members’ use.
+ <li><u>Second</u>: Currently, the Law Society Council is only able to apply interest, dividends and other accretions of capital arising from the Compensation Fund<sup>[19]</sup> which consists of contributions from solicitors, to purchase and maintain a library for its members’ use.
 
 <ol style="list-style-type: lower-alpha">
 <li>Clause 19 of the Bill makes amendments to provide Council with greater flexibility to use such interest, dividends and other accretions of capital towards a wider range of worthwhile causes.</li>
