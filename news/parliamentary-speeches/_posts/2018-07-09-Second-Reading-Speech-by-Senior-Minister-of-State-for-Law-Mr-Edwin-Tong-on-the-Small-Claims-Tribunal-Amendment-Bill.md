@@ -13,7 +13,7 @@ Mr Deputy Speaker,
 1. On behalf of the Minister for Law, I beg to move, ‘That the Bill be now read a Second time’. 
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
-<li>Introduction</li>
+ <li><u>Introduction</u></li>
 </ol>
 
 <ol start="2">
@@ -45,7 +45,7 @@ In all, the amendments will strengthen access to justice by allowing the Tribuna
 6. I will now take the House through the key features of this Bill.
 
 <ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
-<li>  Expanding the Jurisdiction of the Tribunals</li>
+ <li>  <u>Expanding the Jurisdiction of the Tribunals</u></li>
 </ol>
 
 {:start="7"}
@@ -81,7 +81,7 @@ In all, the amendments will strengthen access to justice by allowing the Tribuna
 
 
 
-<ol start="3">
+<ol start="3" style="list-style-type: upper-roman">
 <li><u>Enhancing Processes in the Tribunals</u></li>
 </ol>
 
@@ -142,7 +142,7 @@ In all, the amendments will strengthen access to justice by allowing the Tribuna
 
 
 <ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
-<li>  Conclusion</li>
+ <li><u>Conclusion</u></li>
 </ol>
 
 {:start="25"}
