@@ -26,22 +26,26 @@ You see the details in the Green Paper that has been filed.
 {:start="3"}
 3. It gives a framework for the Government’s reasons for bringing this Motion.
 
-<ol start="2" style-"list-style-type: upper-roman">
+<ol start="2" style="list-style-type: upper-roman">
 <li><u>SERIOUS THREATS POSED TO SINGAPORE</u></li>
 </ol>
 
 
 <ol start="4">
 <li>  Countries across the world have been the subject of organised, deliberate disinformation campaigns.
-</li>
+<br>
 Conducted both by state actors, targeted at destabilising other countries, and also non-state actors.
+<br>
 They spread the falsehoods deliberately to both interfere with the democratic processes, within countries, and to also destabilise and undermine institutions, within a specific country.
+</li>
 </ol>
 
 <ol start="5">
 <li>Most Members, if not all, will have come across these examples reported almost on a daily basis in the media.
+<br>
+And the Green Paper sets out in a summary some of the more serious ones. 
 </li>
-And the Green Paper sets out in a summary some of the more serious ones.
+
 </ol>
 
 
@@ -61,19 +65,26 @@ So it is easy to attack and spread falsehoods in Singapore.  We have seen it hap
 
 <ol start="8">
 <li> Second, our diversity – as a multi-racial, multi-religious society. That makes it easy to exploit the fault-lines through falsehoods.
-<br>
+<br> 
+<br> 
 You get completely fabricated stories spreading.
+<br>
 <br>
 For example, June of last year – that cat and dog meat were mixed into a marinade of satay in a Geylang bazaar.
 <br>
+<br>
 That’s a relatively minor example though it can make a lot of people very angry.
+<br>
 <br>
 But you have more serious examples from other countries.
 <br>
+<br>
 You see some of them in the Green Paper.
+<br>
 <br>
 People can and have targeted specific sections of populations.
 <br>
+<br> 
 They can target specific sections of our population – using falsehoods based on race, religion.
 </li>
 </ol>
@@ -81,11 +92,15 @@ They can target specific sections of our population – using falsehoods based o
 <ol start="9">
 <li>Third, our international position, both in this region and internationally, makes us an attractive target.
 <br>
+<br>
 We are a key strategic node; a key player in ASEAN.
+<br>
 <br>
 We are a trade hub, commercial hub, financial hub, for this entire region.
 <br>
+<br>
 What we say on regional issues, international issues carries weight.
+<br>
 <br>
 So if we can be influenced and swayed, then foreign interests can be advanced through us.
 </li>
@@ -96,10 +111,13 @@ So if we can be influenced and swayed, then foreign interests can be advanced th
 <br>
 For example, a Malaysian politician financing a newspaper in Singapore which campaigns against National Service.
 <br>
+<br>
 You can’t get a more obvious example.
+<br>
 <br>
 Of course, technology has added a completely new dimension.  
 <br>
+<br> 
 Minister Yaacob will touch on the points relating to technology and how it has completely changed the landscape.
 </li>
 </ol>
@@ -111,7 +129,9 @@ Minister Yaacob will touch on the points relating to technology and how it has c
 <ol start="11">
 <li>   Wide spreading of falsehoods can drown out the facts; can cause people to be disillusioned; can be manipulated to create rifts, and damage social cohesion.
 <br>
+<br> 
 So the people who shout loudest and shout falsehoods, are those who will get hurt.
+<br>
 <br>
 Falsehoods, because they tend to be focused on playing to people’s feelings and getting them to be angry, by putting forward points which are completely fabricated.
 </li>
@@ -120,6 +140,7 @@ Falsehoods, because they tend to be focused on playing to people’s feelings an
 <ol start="12">
 <li>A very senior official in Sweden is reported by BBC to have said and this was reported last week. Disinformation, as a tool, as a campaign, in context of Sweden, has had effect.
 <br>
+<br> 
  It “affect[s] [Sweden’s] fundamental values – freedom of speech, democracy and individual rights.”
 </li>
 </ol>
@@ -127,6 +148,7 @@ Falsehoods, because they tend to be focused on playing to people’s feelings an
 <ol start="13">
 <li>We are no different from these other societies which have been targeted and affected.
 <br>
+<br> 
 No reason to believe that we are immune.
 </li>
 </ol>
@@ -155,8 +177,10 @@ to examine and report on:
 <ol start="17">
 <li>Select Committee can study the issue in-depth with a smaller group of MPs, and then present a report to Parliament.
 <br>
+<br> 
 It will be open to the Select Committee to decide whether to hold public hearings, whether to hear from witnesses.
 <br>
+<br> 
 I think it would be useful, to do so.
 </li>
 </ol>
@@ -167,12 +191,16 @@ I think it would be useful, to do so.
 <ol start="19">
 <li>  The Composition of the Select Committee – we suggest - a default position is for 10 members:
 <br>
+<br> 
 9 Government MPs, and 1 MP from the Opposition bench.
 <br>
+<br> 
 But we propose replacing 1 of the Government MP with a NMP, to have more diversity.
 <br>
+<br> 
 So we will have:
 <br>
+<br> 
 8 Government MPs, 1 Opposition MP and 1 NMP.
 </li>
 </ol>
