@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Response by Senior Minister of State for Law, Ms Indranee Rajah S.C., to the Motion for the Adjournment - 'Power Imbalance in Contracts Involving Small Businesses'
-permalink: /news/parliamentary-speeches/response-by-senior-minister-of-state-for-law--ms-indranee-rajah
+permalink: /news/parliamentary-speeches/response-by-senior-minister-of-state-for-law--ms-indranee-rajah-
 breadcrumb: Parliamentary Speeches
 collection_name: news
 ---
