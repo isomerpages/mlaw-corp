@@ -15,11 +15,11 @@ Mr Png Eng Huat (Hougang SMC)
 **<u>Questions</u>**
 
 **Ms Sylvia Lim:** To ask the Minister for Law (a) whether the penalty of US$422 million to be paid by Keppel Offshore & Marine Ltd for corrupt payments between 2001 to 2014 to officials of Petroleo Brasileiro SA and Brazil's then ruling party was part of a three-nation plea bargain agreement, involving United States, Brazil and Singapore, and Keppel companies; and (b) what are the considerations in reaching such arrangements, which have implications on local law enforcement and prosecutorial decisions.
-<br>
+<br>  
 **Mr Pritam Singh:** To ask the Minister for Law in respect of Keppel Offshore and Marine's (KOM) agreement to pay a US$422 million fine as part of a three-nation corruption probe settlement (a) whether the US Department of Justice's (DoJ) Deferred Prosecution Agreement on the KOM corruption probe settlement, or any other agreement, includes any condition that prevents the public disclosure of the identities of the Singaporeans who are involved; and (b) when does the Government expect the CPIB and AGC to formally complete investigations and to charge the individuals in question in view of the criminal findings made against KOM by the US DoJ.
-<br>
+<br>  
 **Mr Png Eng Huat:** To ask the Minister for Law (a) how much more time will the Corrupt Practices Investigation Bureau (CPIB) need to complete the investigations in respect of the Singaporeans involved in the Keppel Offshore & Marine (KOM) corruption case since KOM and its wholly-owned US subsidiary, KOM USA, have agreed to pay more than US$422 million in penalty to resolve corruption charges of paying about US$55 million in bribes to secure contracts; and (b) how far back in time will CPIB go to in its investigation into the Singaporeans involved since the corrupt activities were committed as early as 2001.
-<br>
+<br>  
 **Mr Pritam Singh:** To ask the Minister for Law (a) how many Singapore Government-Linked Companies (GLCs) or their subsidiaries locally or overseas have been investigated or continue to be investigated by local or overseas authorities for corrupt practices over the last 30 years; and (b) what role do the Ministry and Temasek Holdings play to ensure that GLCs or their subsidiaries do not engage in corrupt practices when conducting business overseas.
 
 **<u>Answer: </u>**
@@ -30,7 +30,7 @@ Mr Png Eng Huat (Hougang SMC)
 <ol start="2">
 <li>Domestically –
 
-<ol style="list-style-type: upper-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> Corruption cases are investigated by the Corrupt Practices Investigations Bureau. The CPIB can investigate anyone.</li>
 <li>Thereafter cases are assessed by the Public Prosecutor, who acts independently.</li>
 <li> Incorruptibility is a foundational value for Singapore. We must keep Singapore clean.</li>
@@ -118,6 +118,8 @@ Mr Png Eng Huat (Hougang SMC)
 
 </li>
 </ol>
+
+**Investigations re: individuals**
 
 {:start="11"}
 11. Mr Pritam Singh and Mr Png Eng Huat asked about the action to be taken against the individuals concerned.
