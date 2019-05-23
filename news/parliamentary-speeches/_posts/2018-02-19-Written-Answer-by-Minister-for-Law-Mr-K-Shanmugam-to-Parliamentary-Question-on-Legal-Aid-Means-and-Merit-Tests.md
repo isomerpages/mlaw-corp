@@ -10,7 +10,7 @@ collection_name: news
 
 **Mr Louis Ng Kok Kwang (Member of Parliament for Nee Soon GRC)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law for each year in the past five years, how many applicants applied for legal aid and of these applicants, how many failed at the stage of (i) the means test and (ii) the merits test.
 
 
@@ -75,6 +75,7 @@ To ask the Minister for Law for each year in the past five years, how many appli
  </tr>
 </table>
 
+{:start="3"}
 3. The data from 2013 to 2017 for those who applied for Legal Aid is set out in the following table:
 
 <u>Legal Aid</u>
