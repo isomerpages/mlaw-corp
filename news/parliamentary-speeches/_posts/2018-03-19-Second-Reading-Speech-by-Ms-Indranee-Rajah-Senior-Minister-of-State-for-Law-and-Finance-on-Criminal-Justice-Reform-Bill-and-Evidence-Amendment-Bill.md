@@ -183,9 +183,9 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 <li>Third, the officer believes in good faith that the search cannot be made within a reasonable time by a woman officer. </li>
 </ul>
 </li>
+<li>This will allow searches of women suspected of being terrorists where time is of the essence and any delay could mean loss of lives.</li>
 </ul>
 </li>
-<li>This will allow searches of women suspected of being terrorists where time is of the essence and any delay could mean loss of lives.</li>
 </ol>
 
 
@@ -323,14 +323,12 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 </ul>
 </li>
 <li>This means that if a person gets wind of the identity of a victim, and the case has not yet come before the courts under current law, that person can make public information revealing the victim&rsquo;s identity</li>
-.
 <li>Some suspects may even do this to intimidate the victim and make them basically pay a price for making a police report.</li>
 <li>To prevent this, the Bills will move the restrictions upstream &ndash; anyone who knows that another person is an alleged victim of a sexual offence will not be allowed to publish any information that may lead to the identification of the victim&rsquo;s identity
 <ul>
 <li>So for example, a person could have confided in a colleague that she was the victim of a sexual offence. If this colleague makes public the fact that the person was such a victim, the colleague would be committing an offence. And this applies even if the person has not reported the offence to the police.</li>
 </ul>
 </li>
-.
 <li>Second, all victims of sexual or child abuse offences will give testimony in a closed-door hearing, unless they wish to give evidence in open court.</li>
 <li>Third, we will amend the Evidence Act so that we can put in place subsidiary legislation that restricts the kinds of questions the Defence can ask.
 <ul>
@@ -379,7 +377,7 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 
 <ol start="36">
 <li>The law provides for special procedures to deal with two categories of accused persons with special needs &ndash;
-<ol style="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-roman">
 <li>those who are &lsquo;unfit to plead&rsquo;, in other words not capable of making their defence at the time of trial; and</li>
 <li>those who are acquitted on the basis that they were of unsound mind at the time that they committed the offences.</li>
 </ol>
@@ -661,6 +659,8 @@ Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 </ul>
 </li>
 </ol>
+
+*<u>Introducing changes to reformative training</u>*
 
 {:start="71"}
 71. Besides community sentences, the Bills also make major changes to another sentencing option that is focused on rehabilitation – the reformative training (“RT”) regime.
