@@ -109,10 +109,10 @@ individuals to seek assistance and redress.
 <li>They are equipped to handle cases involving parties with suspected mental health issues. Where appropriate, in-house psychologists and court counsellors will first conduct a preliminary assessment on the individual, and may, with the person’s consent, refer him to the on-site psychiatrist for a preliminary diagnosis and follow up plan.</li>
 <li>In the usual case, a successful applicant will in the first instance obtain an Order from the Tribunal. In the event of non-compliance with the Tribunal’s order, the affected party can apply for a “special direction" directing the respondent to comply with the disobeyed order.  
 
-<ul>
+<ol style="list-style-type: lower-roman">
 <li>  During the application for a special direction, the Tribunal may order any person (e.g. a family member of the respondent) to enter into a bond. In making this order, the Tribunal may impose conditions or give directions to that person. One such direction or condition could be to order a person suspected of mental illness for assessment and/or treatment.</li>  
 <li> If this special direction is further breached without reasonable excuse, the respondent is guilty of an offence, and the criminal court convicting the respondent may make a community order against him. A community order includes a Mandatory Treatment Order.</li>  
-</ul>
+</ol>
   
 </li>  
 <li> Not all mental health cases need to be dealt with through the courts. Persons with concerns about neighbours with mental health issues who may require assistance can contact the Agency for Integrated Care and its community partners for assistance. If a person is a danger to himself or others by reason of his or her mental disorder, the Police can bring the person to the Institute of Mental Health (IMH) for mental health treatment. The person will be warded if assessed to require management in an in-patient setting.</li>
@@ -329,7 +329,7 @@ individuals to seek assistance and redress.
 33. However, the private sector too must do its part and get their firms and people ready to compete in this fast-changing landscape.
 
 <ol start="6" style="list-style-type: upper-roman">
-<li> Extradition</li>  
+<li style="border-bottom: 1px solid black"> Extradition</li>  
 </ol>  
 
 {:start="34"}
@@ -375,7 +375,7 @@ individuals to seek assistance and redress.
 <ol start="40">
 <li>Furthermore:
   
-<ol style="list-style-type: lower-alpha"
+<ol style="list-style-type: lower-alpha">
 <li>Extradition is a resource intensive process. The volume of requests can place a significant burden on our government agencies, and judicial system. </li>
 
 <li>More importantly, an extradition arrangement, without adequate protections, carries risks to people in Singapore, including our citizens. </li>
