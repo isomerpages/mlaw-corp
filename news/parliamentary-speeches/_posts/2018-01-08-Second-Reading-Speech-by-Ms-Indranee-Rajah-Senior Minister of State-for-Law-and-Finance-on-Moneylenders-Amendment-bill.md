@@ -61,7 +61,7 @@ collection_name: news
 11. Let me now take the House through the key amendments in the Bill.
 
 <ol style="list-style-type: upper-alpha; font-weight: bold;">
-<li><Better protection for borrowers/li>
+<li>Better protection for borrowers</li>
 </ol>
 
 
