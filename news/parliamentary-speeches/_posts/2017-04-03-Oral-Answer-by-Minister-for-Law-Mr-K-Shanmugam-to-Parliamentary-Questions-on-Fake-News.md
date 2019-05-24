@@ -5,9 +5,12 @@ date:   2017-04-03
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law--mr-k-shanmugam--to-parliamentar
 ---
 
+3 Apr 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+
+
 **Mr Yee Chia Hsing (Member of Parliament for Chua Chu Kang GRC)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law whether the existing laws can be strengthened to increase the penalties against the author or publisher of fake news on the Internet.
 
 
