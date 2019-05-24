@@ -11,7 +11,7 @@ collection_name: news
 
 **Mr Pritam Singh (Member of Parliament for Aljunied GRC)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law (a) how does the Government identify and define what is fake news; and (b) what role does the Government envisage social media platforms and Internet service providers to play in addressing fake news. 
 
 
