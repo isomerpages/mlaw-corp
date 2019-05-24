@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Response by Senior Minister of State for Law, Indranee Rajah SC, to the Motion for the Adjournment – ‘Community Sentencing and Other Rehabilitative Options’
-permalink: /news/parliamentary-speeches/response-by-senior-minister-of-state-for-law--indranee-rajah-sc-
+title: "Response by Senior Minister of State for Law, Indranee Rajah SC, to the Motion for the Adjournment – ‘Community Sentencing and Other Rehabilitative Options’"
+permalink: /news/parliamentary-speeches/response-by-senior-minister-of-state-for-law-indranee-rajah-sc-
 breadcrumb: Parliamentary Speeches
-collection_name: news
+date: 2017-09-11
 ---
 
 
