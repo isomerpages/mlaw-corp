@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Responsibility of Social Media Platforms and Internet Service Providers in Addressing Fake News
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen4
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam-to-parliament
+date:   2015-05-08
 breadcrumb: Parliamentary Speeches
 collection_name: news
 ---
