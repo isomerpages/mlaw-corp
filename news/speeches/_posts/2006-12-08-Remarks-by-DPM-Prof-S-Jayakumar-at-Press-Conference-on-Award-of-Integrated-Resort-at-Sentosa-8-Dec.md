@@ -31,7 +31,7 @@ Good afternoon
 <ol start="6">
 <li>With these objectives in mind, we evaluated the proposals based on 4 key criteria with approximate weights as follows:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li> tourism appeal & contribution (45%); </li>
 <li>architectural concept & design (25%); </li>
 <li> quantum of development investment (20%); and </li>

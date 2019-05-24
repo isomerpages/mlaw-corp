@@ -92,7 +92,7 @@ collection_name: news
 <ol start="20">
 <li>  Rather than wait to see what happens, we should continue to move towards ensuring that there is an entire corporate governance ecosystem that is effective.  That requires:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Regulators who have to be effective, without being over arching.  We can't forget that we thrive by being an open, innovative economy.  To get the balance right in regulation and enforcement is important but is never easy. </li>
 <li>Boards - The Chairmen, Audit Committees, Independent Directors and top management all play crucial roles.  Much will in particular be expected of independent directors.  They cannot simply make up the numbers. </li>
 <li> Professional groups representing accountants, auditors, lawyers and business consultants will need to play an active role in setting standards and promulgating best practices for the business they are advising. </li>

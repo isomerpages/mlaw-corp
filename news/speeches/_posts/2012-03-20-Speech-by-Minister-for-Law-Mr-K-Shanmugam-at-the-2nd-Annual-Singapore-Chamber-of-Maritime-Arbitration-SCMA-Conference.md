@@ -93,6 +93,7 @@ In the end, we are in an interlinked economy – we will either sink or swim tog
 <li>The acceptance of SCMA Rules is also rising with more than 50 per cent of the parties involved in registered disputes not being Singapore based.</li>
 
 </ul>
+</li>
 </ol>
 
 

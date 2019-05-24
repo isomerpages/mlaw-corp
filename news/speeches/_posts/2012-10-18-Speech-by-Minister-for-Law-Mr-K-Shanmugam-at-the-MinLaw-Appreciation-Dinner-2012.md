@@ -94,7 +94,7 @@ collection_name: news
 {:start="25"} 
 25. We thank all of our volunteers with these awards, who have helped us in these efforts. 
 
-<ol start="4" list-style-type: upper-alpha; font-weight: bold;>
+<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
 <li><u> LAW REFORM </u></li>
 </ol>
 

@@ -8,17 +8,18 @@ collection_name: news
 
 11 Sep 2007 Posted in [Speeches](/news/speeches)
 
-![speech-by-dpm-prof-s-jayakumar](/images/news/speeches/1399988696849.jpg)
+![speech-by-dpm-prof-s-jayakumar]()
+<img src="/images/news/speeches/1399988696849.jpg" alt="speech-by-dpm-prof-s-jayakumar" style="width:400px;height:268px;"> 
 
 *Deputy Prime Minister and Minister for Law Prof S Jayakumar and and the Secretary General of the Permanent Court of Arbitration (PCA) Mr Tjaco Van den Hout have signed an Agreement to establish a facility of the PCA in Singapore.*
 
-*Secretary General of the Permanent Court of Arbitration, Mr Tjaco Van den Hout,*
-*Chief Justice Chan Sek Keong,*
-*His Excellency Dr Mohamad Amin Kurdi, Ambassdor, Saudi Arabia and Dean of Diplomatic Corps*
-*Attorney-General Chao Hick Tin,* 
-*Distinguished guests,*
-*Ladies and Gentlemen,*
-*Good morning,*
+*Secretary General of the Permanent Court of Arbitration, Mr Tjaco Van den Hout,*  
+*Chief Justice Chan Sek Keong,*  
+*His Excellency Dr Mohamad Amin Kurdi, Ambassdor, Saudi Arabia and Dean of Diplomatic Corps*  
+*Attorney-General Chao Hick Tin,*   
+*Distinguished guests,*  
+*Ladies and Gentlemen,*  
+*Good morning,*  
 
 
 1. The signing of the Singapore-PCA Agreement today is significant.

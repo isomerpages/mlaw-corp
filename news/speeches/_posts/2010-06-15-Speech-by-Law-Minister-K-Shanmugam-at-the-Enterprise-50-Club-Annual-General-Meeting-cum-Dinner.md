@@ -78,13 +78,13 @@ Ladies and Gentlemen,
 </ol>
 
 {:start="10"}
-10. The point is: we must honestly decide what is in our best interests – and our people, you know what works best in our country. We must listen carefully to what others say, but then adapt it to our own circumstances. </li>
+10. The point is: we must honestly decide what is in our best interests – and our people, you know what works best in our country. We must listen carefully to what others say, but then adapt it to our own circumstances. 
 
 {:start="11"}
 11. Coming back to the region, there is no clear end in sight for terror-related activity, for instance, in the southern parts of Philippines. Despite continued action by the Philippines military against the Abu Sayyaf, the Abu Sayyaf group has managed to continue conducting occasional terror attacks on civilians. A positive development nonetheless has been the recent signing on 3 June 2010 of the “Declaration of Continuity of Peace Negotiations” between the Philippines government and the Moro Islamic Liberation Front. </li>
 
 {:start="12"}
-12. Southern Thailand has also seen high levels of terror activity. The situation in Thailand is fairly unique as insurgent leaders have remained anonymous making it difficult for the government to identify the appropriate persons to open negotiations with. Thailand’s deployment of Peace Development Units of 26 men each to villages which are insurgent dominated aims to collect intelligence on village insurgent activities, and to win the hearts and minds of the villagers. </li>
+12. Southern Thailand has also seen high levels of terror activity. The situation in Thailand is fairly unique as insurgent leaders have remained anonymous making it difficult for the government to identify the appropriate persons to open negotiations with. Thailand’s deployment of Peace Development Units of 26 men each to villages which are insurgent dominated aims to collect intelligence on village insurgent activities, and to win the hearts and minds of the villagers. 
 
 **Terrorist Ideology and Propaganda**
 
@@ -99,18 +99,18 @@ Ladies and Gentlemen,
 {:start="15"}
 15. This trans-national and persistent threat is highly complex and constantly evolving to attack areas of weakness. We have thus adopted a multi-faceted counter-terrorism strategy.
 
-**International and Regional Cooperation**
+<u>International and Regional Cooperation</u>
 
 {:start="16"}
-16. Firstly, we cooperate closely with international and regional security and intelligence agencies to share information on terrorists. 
+16. Firstly, we **<u>cooperate</u>** closely with international and regional security and intelligence agencies to share information on terrorists. 
 
 {:start="17"}
 17. We also engage other governments and participate in international government organisations (e.g. United Nations) platforms to forge a united commitment to countering terrorism.
 
-**Border Security**
+<u>Border Security </u>
 
 {:start="18"}
-18. Secondly, <u>Border Security</u> measures are put in place to prevent the entry of terrorists and the weapons and explosives which they use. As an island nation heavily dependent on sea-borne trade, maritime security is a major component of border security.
+18. Secondly, **<u>Border Security</u>** measures are put in place to prevent the entry of terrorists and the weapons and explosives which they use. As an island nation heavily dependent on sea-borne trade, maritime security is a major component of border security.
 
 {:start="19"}
 19. In this aspect, our Navy works closely with their Indonesia and Malaysia counterparts in conducting joint maritime and air patrols to enhance security in the Malacca Strait. This joint programme, also supported by Thailand, has been highly effective in reducing the piracy in the Malacca Straits, from 150 attacks in 2005 down to two attacks each in 2008 and 2009.
@@ -122,7 +122,7 @@ Ladies and Gentlemen,
 <u>Hardening of Targets</u>
 
 {:start="21"}
-21. The third aspect is <u>hardening</u> of potential terrorist targets to reduce the possibility of a successful attack, and to mitigate the effects of an attack. We have taken measures that include deployment of security guards to patrol the premises, X-ray scanning of items brought into the facility and incorporating design features that reduce the susceptibility of the structure to bomb blasts.
+21. The third aspect is **<u>hardening</u>** of potential terrorist targets to reduce the possibility of a successful attack, and to mitigate the effects of an attack. We have taken measures that include deployment of security guards to patrol the premises, X-ray scanning of items brought into the facility and incorporating design features that reduce the susceptibility of the structure to bomb blasts.
 
 <u>Well-trained and Coordinated Security Forces </u>
 
@@ -132,7 +132,7 @@ Ladies and Gentlemen,
 <u>United and Involved Community</u>
 
 {:start="23"}
-23. Last but not least, it is important for Singapore to have a united and involved community. This includes community and religious leaders who provide moral guidance and act as role models to prevent their followers from being led astray by the extremist ideology used to justify terrorist acts. Their role in fostering harmonious resolution of inter-community disputes is particularly crucial in countering the terrorist’s myth that violence is an appropriate way to resolve religious or racial disagreements.
+23. Last but not least, it is important for Singapore to have a **<u>united and involved community</u>**. This includes community and religious leaders who provide moral guidance and act as role models to prevent their followers from being led astray by the extremist ideology used to justify terrorist acts. Their role in fostering harmonious resolution of inter-community disputes is particularly crucial in countering the terrorist’s myth that violence is an appropriate way to resolve religious or racial disagreements.
 
 {:start="24"}
 24. The public must also realise that security is a shared responsibility, and that everyone plays a part in keeping Singapore safe and secure.  The two street vendors who alerted the authorities who then evacuated Times Square would have saved many lives had the bomb exploded instead of fizzling out. Singaporeans must similarly play their part by acting as “eyes and ears on the ground” and reporting suspicious happenings to the authorities. 

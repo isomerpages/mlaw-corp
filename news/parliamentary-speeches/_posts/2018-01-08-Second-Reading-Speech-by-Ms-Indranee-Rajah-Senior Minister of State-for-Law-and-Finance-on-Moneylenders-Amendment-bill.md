@@ -21,21 +21,29 @@ collection_name: news
 {:start="4"}
 4. The Advisory Committee on Moneylending (ACML) was convened in June 2014 to comprehensively review the regulatory regime for moneylending with these objectives in mind.  The Committee issued its Final Report in May 2015 with 15 recommendations to MinLaw.
 
-{:start="5"}
-5. MinLaw accepted 12 of the Committee’s 15 recommendations and has worked with the industry and the VWOs to implement them progressively.
+<ol start="5">
+<li>MinLaw accepted 12 of the Committee’s 15 recommendations and has worked with the industry and the VWOs to implement them progressively. 
 
-* In 2015, we introduced stricter caps on borrowing costs.
+<ol style="list-style-type: lower-alpha">
+<li>In 2015, we introduced stricter caps on borrowing costs. </li>
 
-* In March 2016, we launched the Moneylenders Credit Bureau (“MLCB”), which facilitates better tracking and monitoring of unsecured loans. The MLCB provides up-to-date details of a borrower’s creditworthiness and indebtedness, to enable moneylenders to make a more informed and responsible lending decision.
+<li>In March 2016, we launched the Moneylenders Credit Bureau (“MLCB”), which facilitates better tracking and monitoring of unsecured loans. The MLCB provides up-to-date details of a borrower’s creditworthiness and indebtedness, to enable moneylenders to make a more informed and responsible lending decision. </li>
+</ol>
+</li>
+</ol>
 
-{:start="6"}
-6. The Moneylenders (Amendment) Bill is the latest step in these efforts. Its key objectives are to:
+<ol start="6">
+<li>The Moneylenders (Amendment) Bill is the latest step in these efforts. Its key objectives are to:
 
-* provide better protection for borrowers;
+<ol style="list-style-type: lower-alpha">
+<li>provide better protection for borrowers; </li>
 
-* strengthen the regulatiion of moneylenders; and
+<li>strengthen the regulatiion of moneylenders; and </li>
 
-* professionalise the moneylending industry. 
+<li>professionalise the moneylending industry. </li> 
+</ol>
+</li>
+</ol>
 
 {:start="7"}
 7. One key change introduced by clause 19 in this Bill is the aggregate loan cap. The Moneylenders Rules presently cap the amount of unsecured credit an individual may borrow from any single moneylender. However there are borrowers who approach multiple moneylenders for loans and consequently may still become over-indebted despite the current restrictions. The proposed aggregate loan cap in the Bill addresses this issue. It sets an overall limit on the amount an individual can borrow from all licensed moneylenders, combined.
@@ -52,7 +60,10 @@ collection_name: news
 {:start="11"}
 11. Let me now take the House through the key amendments in the Bill.
 
-**(A)   Better protection for borrowers**
+<ol style="list-style-type: upper-alpha; font-weight: bold;">
+<li>Better protection for borrowers</li>
+</ol>
+
 
 {:start="12"}
 12. To facilitate the implementation of the aggregate loan cap, clause 18 of the Bill introduces a new Part IIIA, which sets out the regulatory framework for the MLCB, and imposes new obligations on moneylenders:
@@ -75,7 +86,10 @@ collection_name: news
 {:start="14"}
 14. Together, these amendments provide a stronger regulatory framework to provide individual borrowers with safer access to personal credit.
 
-**(B) Strenghtening regulation of moneylenders**
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Strenghtening regulation of moneylenders</li>
+</ol>
+
 
 {:start="15"}
 15. Next, the Bill also seeks to strengthen the regulation of the moneylending industry in three ways.
@@ -109,7 +123,11 @@ collection_name: news
 * Under the Bill, it will be an offence for a moneylender to enter into a loan contract that breaches the caps on interest or late interest, which will be punishable by a fine of up to $20,000 and / or imprisonment of up to 6 months.  
 * The Bill also makes such a loan contract unenforceable, and any guarantee or money paid out by the moneylender under the contract will not be recoverable in any court of law. 
 
-**(C) Professionalising the moneylending industry**
+
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Professionalising the moneylending industry</li> 
+</ol>
+
 
 {:start="22"}
 22. The third area which the Bill touches on is the professionalisation of the moneylending industry.
@@ -140,5 +158,5 @@ collection_name: news
 
 
 
-
+<p class="right-side-updated">Last updated on 08 Jan 2018  </p>
 

@@ -7,16 +7,15 @@ collection_name: news
 ---
 
 25 Nov 2017 Posted in [Speeches](/news/speeches)
-
-
+<br>  
 Ms Hwang Yu-Ning, Deputy CEO and Chief Planner, the Urban Redevelopment Authority of Singapore
-<br> 
+<br>   
 Prof Lucienne Blessing, Co-Director, International Design Centre, Singapore University of Technology and Design
-<br> 
+<br>   
 Our pioneers from the Singapore Traffic Police Force
-<br> 
+<br>   
 Colleagues from the Ministry of Law
-<br> 
+<br>   
 Ladies and gentlemen, boys and girls
 
 1. I am happy to join all of you today for the opening of Maxwell Memories, a public exhibition showcasing the heritage of 28 Maxwell Road.
@@ -53,13 +52,13 @@ Ladies and gentlemen, boys and girls
 <ol start="9">
 <li>Maxwell Memories, which we will later open, is the fruit of much labour. There are many people I would like to thank for making this possible.
 
-
+<ol style="list-style-type: lower-alpha">
 <li>First, to our pioneers from the Singapore Traffic Police Force. You built today’s Singapore. Thank you for sharing with us your memories, capturing them and passing them on to younger Singaporeans. Special thanks to Mr David Pattiselanno for allowing us to make postcards out of your sketches, so that more Singaporeans can get to know of the work of Traffic Police officers against the backdrop of old Singapore. </li>
  
 <li>Second, to our six SUTD students for your six months of hard work to create this showcase, and to SUTD for the support. I know you have put in many hours. I hope you found working on this project meaningful, connecting with old Singapore and using your talent and craft to pass it on to younger Singaporeans.</li>
  
 <li>Last but not least, to the Urban Redevelopment Authority for giving us valuable guidance and support for the refurbishment project, and for providing the space and making this exhibition possible. Special thanks to Mdm Fun Siew Leng, Assistant Chief Planner, who has been my personal special adviser for this refurbishment project.</li>
-
+</ol>
 
 
 </li>

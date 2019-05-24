@@ -170,7 +170,7 @@ And so on.
 
 
 {:start="23"}
-23. We hav2e several challenges. I will only mention a couple of challenges, both external.
+23. We have several challenges. I will only mention a couple of challenges, both external.
 
 <ol style="list-style-type: upper-alpha">
 <li><u> Security</u></li>
@@ -388,7 +388,7 @@ And so on.
 73. Further point: Many Singaporeans feel passionately about Singapore. It means something to be Singaporean. That passion has to be acknowledged. We must continue to nurture the Singaporean identity and make it meaningful.
 
 
-<ol start="8" list-style-type="upper-roman; font-weight:bold;">
+<ol start="8" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Conclusion</u></li>
 </ol>
 
