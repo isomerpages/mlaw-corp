@@ -3,7 +3,7 @@ layout: post
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Defence Counsel Scandalising and Insulting Moral Integrity of Complainants or Witnesses During Cross-Examination in Criminal Trials for Sexual or Child Abuse Offences
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-parliament
 breadcrumb: Parliamentary Speeches
-collection_name: news
+date: 2017-09-11
 ---
 
 11 Sep 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
