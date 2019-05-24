@@ -34,7 +34,7 @@ Ladies and Gentlemen
 <ol start="3">
 <li>Today, we are taking another step to further strengthen these relations.  The MOU on Cooperation in Legal Education marks a milestone in formalising a partnership between our universities. The key areas of cooperation under the MOU include:
 
-<ol style="list-style-type: alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Faculty exchanges and study visits with a view to enhancing linkages and knowledge sharing among the academic staff;</li>
 <li>Assistance in curriculum design; </li>
 <li>Teacher training; and </li>

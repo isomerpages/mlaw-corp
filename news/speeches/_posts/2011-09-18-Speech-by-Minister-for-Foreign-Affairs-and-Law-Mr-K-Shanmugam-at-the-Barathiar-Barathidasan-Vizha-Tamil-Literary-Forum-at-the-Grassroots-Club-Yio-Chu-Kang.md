@@ -23,6 +23,7 @@ Ladies and gentlemen,
 
 **The Indian Community in Singapore**
 
+{:start="2"}
 2. Indian community is thriving and growing
 
 * Tamils are part of a vibrant Indian community in Singapore
@@ -42,6 +43,7 @@ Ladies and gentlemen,
 
 **Educational Indicators**
 
+{:start="3"}
 3. Indian students performing well in Singapore
 
 * Literacy rate of Indians increased (95.1 per cent in 2000 to 98.1 per cent  in 2010)
@@ -57,6 +59,7 @@ Ladies and gentlemen,
 </li>
 </ul>
 
+{:start="4"}
 4. Overall, tremendous progress at all levels of education in the last 10 years:
 
 <table class="table-h">

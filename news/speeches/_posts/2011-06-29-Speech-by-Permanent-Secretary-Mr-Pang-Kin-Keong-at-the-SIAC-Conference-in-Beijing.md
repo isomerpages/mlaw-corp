@@ -113,7 +113,7 @@ tactics.
 <u>Integrated Dispute Resolution Centre</u>
 
 {:start="27"}
-27. The opening of Singapore’s Maxwell Chambers in 2009 has greatly facilitated the conduct of international arbitration in Singapore. Maxwell Chambers is the world’s first integrated dispute resolution centre whose mission is to “provide one-stop, best of class facilities and services for the conduct of Alternative Dispute Resolution (ADR) activities in Singapore". 
+27. The opening of Singapore’s [Maxwell Chambers](http://www.maxwell-chambers.com/index.html) in 2009 has greatly facilitated the conduct of international arbitration in Singapore. Maxwell Chambers is the world’s first integrated dispute resolution centre whose mission is to “provide one-stop, best of class facilities and services for the conduct of Alternative Dispute Resolution (ADR) activities in Singapore". 
 
 {:start="28"}
 28. Maxwell has state-of-the-art facilities, immediate translation services, transcription services and a courtroom-like atmosphere, for the conduct of arbitration hearings.   

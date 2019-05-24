@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the "Keep It Real: Truth And Trust In The Media" Forum
+title: Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the &quot;Keep It Real&#58; Truth And Trust In The Media&quot; Forum
 permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and1
 breadcrumb: Speeches
 collection_name: news
@@ -431,12 +430,12 @@ Ladies and gentlemen,
 
 <u>WhatsApp Rumours</u>
 
-
-<li>And now an additional phenomena along the same lines, that confuses and promotes distrust. I will give two examples.<li>
+{:start="59"}
+59. And now an additional phenomena along the same lines, that confuses and promotes distrust. I will give two examples.
 
  
-
-<li>Back in 2015, someone spread a rumour that the Government was conducting cloud-seeding not to help the Indonesian fires, but to help the upcoming Formula One race.
+<ol start="60">
+<li> Back in 2015, someone spread a rumour that the Government was conducting cloud-seeding not to help the Indonesian fires, but to help the upcoming Formula One race. 
 
 <ul>
 <li>And that the Government was harming people with chemically induced rain.</li>
@@ -445,10 +444,10 @@ Ladies and gentlemen,
 
 
 </li>
-
+</ol>
 
 <ol start="61">
-<li>  Earlier this year, there was a relatively less serious example. A viral Whatsapp message claimed that people had been fined for leaving used tissue paper in coffee-shops and hawker centres.
+<li>Earlier this year, there was a relatively less serious example. A viral Whatsapp message claimed that people had been fined for leaving used tissue paper in coffee-shops and hawker centres.
 
 <ul>
 <li> This caused confusion.</li>
@@ -503,7 +502,7 @@ Ladies and gentlemen,
 {:start="68"}
 68. That tells you the nature and extent of the problem. News underpins how a society functions. This is a serious problem.
 
-<ol start="5" style="list-style-typer: upper-roman">
+<ol start="5" style="list-style-type: upper-roman">
 <li>WHAT SHOULD WE DO ABOUT IT?</li>
 </ol>
 
@@ -629,11 +628,11 @@ Ladies and gentlemen,
 <ol start="80">
 <li> Ideally, most misinformation will be dealt with through
 
-<ol>
+<ul>
 <li>a resilient society; </li>
 <li>a responsible and effective media; and </li>
 <li>the voluntary actions of Internet companies. </li>
-</ol>
+</ul>
 
 </li>
 </ol>
@@ -676,5 +675,6 @@ Ladies and gentlemen,
  
 {:start="84"}
 84. Thank you.
+
 
 <p class="right-side-updated">Last updated on 21 Jun 2017</p>

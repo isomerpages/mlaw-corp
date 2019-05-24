@@ -92,21 +92,28 @@ Ladies and gentlemen,
 </ol>
 
 <ol start="14">
-<li>It deals with the well being of the community.</li>
+<li>This is a serious and great responsibility:
+
+<ul>
+<li>It deals with the well being of the community.</li>  
 <li>And the liberty of the individual.</li>
 <li>Abdication of this responsibility would take place if prosecutors take the attitude
 <ul>
-<li> let us charge and let the Court decide. That should never happen.</li>
+<li>let us charge and let the Court decide. That should never happen.</li>  
 </ul>
 </li>
-<li>The exercise of this discretion is quasi judicial.</li>
+<li>The exercise of this discretion is quasi judicial.</li>  
 <li>The act of bringing a charge itself has serious consequences for people’s lives and their careers.</li>
+<li>So great care and discretion is necessary.</li>
+<li>In some cases, the Courts have commented that the prosecution should never have been brought. If the reason for that prosecution having been brought is an exercise of judgment wrongly, we can understand, though we should minimise that. But it should never happen because judgment was never exercised in the first place.</li>
+<li>And I emphasize another point – equally, it is also abdication of responsibility if a prosecutor believes honestly that an offence is disclosed, but lacks the will or will not proceed for extraneous reasons.</li>  
+<li>So, we need clear minded, strong prosecutors, who will exercise the prosecutorial discretion according to the law as they see it.</li>
+</ul>
 
-<li>So great care and discretion is necessary. </li>
-<li>In some cases, the Courts have commented that the prosecution should never have been brought. If the reason for that prosecution having been brought is an exercise of judgment wrongly, we can understand, though we should minimise that. But it should never happen because judgment was never exercised in the first place. </li>
-<li>And I emphasize another point – equally, it is also abdication of responsibility if a prosecutor believes honestly that an offence is disclosed, but lacks the will or will not proceed for extraneous reasons. </li>
-<li>So, we need clear minded, strong prosecutors, who will exercise the prosecutorial discretion according to the law as they see it. </li>
+</li>  
 </ol>
+
+
 
 {:start="15"}
 15. In summary, on that point: we need an outstanding, world class Prosecution. That is also the Government’s philosophy on how prosecutions should be conducted.
