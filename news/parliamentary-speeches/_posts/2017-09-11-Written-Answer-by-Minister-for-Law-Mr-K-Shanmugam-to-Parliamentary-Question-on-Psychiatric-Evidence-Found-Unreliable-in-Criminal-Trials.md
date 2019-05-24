@@ -10,6 +10,12 @@ collection_name: news
 
 **Asst Prof Mahdev Mohan (Nominated Member of Parliament)**
 
+
+**<u>Question:</u>**
+ 
+To ask the Minister for Law in each year since 2011 (a) what is the number of cases in which psychiatric expert evidence has been found to be unreliable in criminal trials; and (b) whether this number is impacted by standards established by the relevant professional accreditation body. 
+
+
 **<u>Answer:</u>**
 
 1. In a case where psychiatric expert evidence is adduced, the judge may accept or reject it for various reasons. The same goes for any other expert evidence (and indeed any other evidence which is tendered in court). Not all of these instances and reasons may be recorded in written judgments. The most common reason for rejecting such evidence is that the judge did not accept the expert’s evidence in the light of the specific factual context of the case. This could be because of other evidence adduced, or because a different expert’s opinion was more convincing when applied to the facts and the existing state of medical knowledge, or some combination of similar factors.
