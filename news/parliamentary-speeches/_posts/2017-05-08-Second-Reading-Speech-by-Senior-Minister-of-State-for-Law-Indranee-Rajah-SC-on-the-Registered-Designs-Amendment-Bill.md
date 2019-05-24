@@ -119,7 +119,7 @@ Madam Speaker,
 {:start="13"}
 13. These amendments to broaden the scope of design protection are timely, as the design landscape has evolved significantly since the RDA was first enacted more than 10 years ago. With these amendments, the design registration system will better serve the needs of designers and businesses.
 
-<ol start="3" style="list-style-type: upper-roman">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Changing the default position on ownership of a commissioned design</u></li>
 </ol>
 
