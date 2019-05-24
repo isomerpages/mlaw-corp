@@ -10,7 +10,7 @@ collection_name: news
 
 **Mr Murali Pillai (Member of Parliament for Bukit Batok SMC)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law whether the Ministry will consider expanding the requirement under section 305(3) of the Criminal Procedure Code that the court must call for and consider the Commissioner of Prisons' report on an offender's mental condition for imposition of a sentence of reformative training to include an independent report from a court-appointed psychiatrist.
 
 
