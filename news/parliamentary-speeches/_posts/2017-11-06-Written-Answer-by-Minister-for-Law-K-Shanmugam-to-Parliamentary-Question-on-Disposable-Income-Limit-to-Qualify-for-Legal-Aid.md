@@ -10,7 +10,7 @@ collection_name: news
 
 **Cheryl Chan Wei Ling (Member of Parliament for Fengshan SMC)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law whether the current disposable income limit of $10,000 under the means testing to qualify for legal aid is still relevant compared with the cap of per capita income in other schemes which have increased over time.
 
 **<u>Answer:</u>**
