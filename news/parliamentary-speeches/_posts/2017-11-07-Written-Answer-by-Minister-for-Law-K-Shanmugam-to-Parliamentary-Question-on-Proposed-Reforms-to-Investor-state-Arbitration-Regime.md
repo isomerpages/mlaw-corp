@@ -10,7 +10,7 @@ collection_name: news
 
 **Asst Prof Mahdev Mohan (Nominated Member of Parliament)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law what is the Ministry's position on the proposed reforms to the investor-state arbitration regime, particularly the creation of a stand-alone appellate body in the current regime or a new international investment court as a multilateral permanent tribunal. 
 
 
