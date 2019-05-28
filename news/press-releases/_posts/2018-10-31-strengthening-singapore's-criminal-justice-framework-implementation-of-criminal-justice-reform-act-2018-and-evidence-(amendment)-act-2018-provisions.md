@@ -52,23 +52,27 @@ collection_name: news
 {:start="4"}
 4. There will now be a formal framework for the Prosecution to enter into DPAs with corporate offenders accused of scheduled offences. Under a DPA, the Public Prosecutor agrees not to prosecute a corporation in exchange for compliance with a series of conditions.
 
-{:start="5"}
-5. The ability to enter into DPAs will be beneficial to the public at large:
+<ol start="5">
+<li>The ability to enter into DPAs will be beneficial to the public at large:
 
 <ol style="list-style-type: lower-alpha;">
 <li>It better equips Singapore to investigate large-scale, complex corporate crimes, and bring the truly culpable individuals to justice. For instance, the Public Prosecutor may (as a condition of the DPA) require a company to produce documentary evidence or assist in investigations against its former managers and directors. This aids successful prosecutions while averting costly investigations and litigation.</li>
    
 <li>The Public Prosecutor may also make it a condition in the DPA that the company undertakes corporate reform measures. This reduces the risk of future offending by the corporation, and thus protects the public from harm.</li>
 </ol>
+</li>
+</ol>
 
-{:start="6"}
-6. At the same time, the Ministry of Law has introduced safeguards to ensure that DPAs will lead to just outcomes. In particular,
+
+<ol start="6">
+<li>At the same time, the Ministry of Law has introduced safeguards to ensure that DPAs will lead to just outcomes. In particular,
 
 <ol style="list-style-type: lower-alpha;">
 <li> All DPAs must be approved by the High Court. The High Court must be satisfied that (i) the agreement is in the interests of justice, and (ii) its terms are fair, reasonable and appropriate.</li>
 <li> DPAs must be published once they are approved by the court.</li>
 </ol>
-
+</li>
+</ol>
 <u>(C) Expansion of Community Sentencing</u>
 
 {:start="7"}
@@ -85,13 +89,15 @@ collection_name: news
 {:start="10"}
 10. Courts will now have discretion to order electronic tagging as a condition of bail/personal bond. This will allow more accused persons to benefit from the bail/personal bond regime.
 
-{:start="11"}
-11. However, to prevent errant accused persons from absconding or perverting the course of justice, other aspects of the bail/personal bond regime have been tightened. These include:
+<ol start="11">
+<li>However, to prevent errant accused persons from absconding or perverting the course of justice, other aspects of the bail/personal bond regime have been tightened. These include:
 
 <ol style="list-style-type: lower-alpha;">
 <li> The court will have discretion to withhold bail for bailable offences, if it believes that the accused will abscond whilst on bail. </li>
 
 <li> 3 new offences have been created: absconding whilst on bail or personal bond; leaving the jurisdiction without permission; and entering agreements to indemnify a surety. </li>
+</ol>
+</li>
 </ol>
 
 <u>(E) Extending Video-Link Hearings to Pleas of Guilt and Sentencing</u>
