@@ -125,7 +125,7 @@ Madam Chairman,
 </ol>
 
 <ol style="list-style-type: upper-alpha">
-<li>Legal Aid, Pro Bono Advice and Awareness</li>
+<li><u>Legal Aid, Pro Bono Advice and Awareness</u></li>
 </ol>
 
 {:start="11"}
