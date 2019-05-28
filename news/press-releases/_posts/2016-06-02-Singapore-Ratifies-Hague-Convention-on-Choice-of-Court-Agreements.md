@@ -12,12 +12,14 @@ collection_name: news
 
 2. The Convention has two basic aims – first, to ensure that exclusive choice of court agreements in favour of courts of Contracting States are effectively enforced, and second, that judgments rendered by the chosen courts are recognised and enforced in Contracting States.
 
-
-3. The ratification strengthens Singapore’s position as a dispute resolution hub in Asia in the following ways:
+<ol start="3">
+<li>The ratification strengthens Singapore’s position as a dispute resolution hub in Asia in the following ways:
 
 <ol style="list-style-type: lower-alpha;">
 <li>If a Singapore court is the chosen court of an exclusive choice of court agreement covered by the Convention, the dispute must be heard in Singapore only. This strengthens the enforcement of agreements which specify Singapore courts as the exclusive dispute resolution forum; and</li>
 <li>The courts of other Contracting States will be obliged to recognise and enforce the Singapore court judgment on that dispute. This enhances the international enforceability of Singapore court judgments, including those of the Singapore International Commercial Court (SICC). This will make the SICC a more attractive dispute settlement option as a neutral litigation venue.</li>
+</ol>
+</li>
 </ol>
 
 {:start="4"}
