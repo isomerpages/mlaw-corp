@@ -50,7 +50,7 @@ Madam Speaker,
 <ol start="6">
 <li> To provide some background, let me briefly describe IPOS’ patent search and examination process.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Before a patent is granted for an invention, it must be “new” and “inventive”. </li>
 
 <li>An IPOS examiner searches publicly available information at the time of the patent application to understand the current state of technology. This is known as the “state of the art”<sup>[1]</sup>. </li>
@@ -119,7 +119,7 @@ Madam Speaker,
 <ol start="18">
 <li> Patent applications undergo search and examination before a patent is granted. There are currently 3 search and examination routes in Singapore:
 
-<ol style="list-style-typer: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> First, under the “local route”, the full search and examination is conducted by IPOS.</li>
 <li>Second, under the “mixed route”, applicants submit the search report issued by a foreign patent office for the same invention, and IPOS conducts only the examination.
 </li>
