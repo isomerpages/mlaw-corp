@@ -132,7 +132,7 @@ Madam Speaker,
 
  
 {:start="16"}
-16. The Bill clarifies that the common law tort of champerty and maintenance is abolished in Singapore<sup>[1]</sup>, as had previously been stated by the High Court in Jane Rebecca Ong v Lim Lie Hoa <sup>[2]</sup>.
+16. The Bill clarifies that the common law tort of champerty and maintenance is abolished in Singapore<sup>[1]</sup>, as had previously been stated by the High Court in <i>Jane Rebecca Ong v Lim Lie Hoa</i> <sup>[2]</sup>.
 
  
 {:start="17"}
@@ -153,7 +153,7 @@ Madam Speaker,
 </ol>
 
 <ol start="2" style="list-style-type: upper-alpha">
-<li> Regulation of Third-Party Funding</li>
+<li> <i>Regulation of Third-Party Funding</i></li>
 </ol> 
 
 {:start="19"}
@@ -187,7 +187,7 @@ Madam Speaker,
 <ol start="25">
 <li>In addition, the Legal Profession (Professional Conduct) Rules will be amended to impose a duty on lawyers to disclose the existence of any third-party funding which their client is receiving.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Disclosure of third-party funding is necessary to ensure there is no conflict of interest.</li> 
  
 </ol>
@@ -245,7 +245,7 @@ Madam Speaker,
 
 <sup>[1]</sup> Clause 2 of the Bill (New section 5A(1)).  
 <sup>[2]</sup> [1996] SGHC 140. At [16], the Court held:  
-“[B]y virtue of the English Criminal Law Act 1967 neither maintenance nor champerty is a crime or tort in England. However, champerty and/or unlawful maintenance will still be struck down as being against public policy. That is also the law in Singapore.”  
+<i>“[B]y virtue of the English Criminal Law Act 1967 neither maintenance nor champerty is a crime or tort in England. However, champerty and/or unlawful maintenance will still be struck down as being against public policy. That is also the law in Singapore.”  </i>
 <sup>[3]</sup> Clause 2 of the Bill (New section 5A(2)).  
 <sup>[4]</sup> Clause 2 of the Bill (New section 5B(2)).  
 <sup>[5]</sup> Clause 2 of the Bill (New section 5B(8)(b)).  
