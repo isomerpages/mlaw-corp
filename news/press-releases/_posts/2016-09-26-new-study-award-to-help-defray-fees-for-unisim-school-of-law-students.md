@@ -42,16 +42,18 @@ collection_name: news
 **Background and Eligibility Criteria on MinLaw-UniSIM Study Award**
 
  
-{:start="9"}
-9. Singapore Citizens who are not eligible for the MOE Tuition Grant scheme can be considered for the MinLaw-UniSIM Study Award. To qualify, applicants must additionally meet the following criteria:
+<ol start="9">
+<li>Singapore Citizens who are not eligible for the MOE Tuition Grant scheme can be considered for the MinLaw-UniSIM Study Award. To qualify, applicants must additionally meet the following criteria:
 
  
 <ol style="list-style-type: lower-roman">
- <li>Not sponsored by any organisation for the LL.B. or J.D. programme; and</li>
+<li>Not sponsored by any organisation for the LL.B. or J.D. programme; and</li>
 
 <li> Monthly household income per capita does not exceed S$2,600 or face financial difficulties. </li>
 </ol>
- 
+</li>
+</ol>
+
 {:start="10"}
 10. The eligibility of the applicants will be assessed by UniSIM School of Law.
 
