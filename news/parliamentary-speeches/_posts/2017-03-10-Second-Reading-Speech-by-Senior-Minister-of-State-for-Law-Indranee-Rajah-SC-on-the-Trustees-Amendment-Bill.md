@@ -121,7 +121,7 @@ Madam Speaker,
 <ol start="18">
 <li>The Bill introduces a new Part VII to the Trustees Act, which will apply to an express trust that is:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li> governed by Singapore law;</li>
 <li> administered in Singapore; or</li>
 <li>in respect of which any of the trustees is resident in Singapore.</li>
@@ -135,7 +135,7 @@ Madam Speaker,
 <ol style="list-style-type: lower-alpha">
 <li>First, the Minister may require the trustee to obtain, maintain, and keep up-to-date information relating to and records of the trust. These include:
 
-<ol>
+<ol style="list-style-type: lower-roman">
 <li>the identity and particulars of the parties relevant to the trust, which include the settlors, trustees, beneficiaries, and those who effectively control these parties;</li>
 <li>the identity and particulars of an agent of, or a service provider to, the trust; and</li>
 <li> accounting records relating to the trusts and information on the assets of the trust.</li>
