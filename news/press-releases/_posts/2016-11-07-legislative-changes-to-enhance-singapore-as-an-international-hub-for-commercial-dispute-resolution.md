@@ -56,19 +56,31 @@ collection_name: news
 <u>Key features of the Mediation Bill 2016</u>
 
 <ol start="10">
-<li>The key features of the Bill fall into the following four categories:
-<ol  style="list-style-type: lower-roman">
-<li><u>Stay of court proceedings provisions</u></li>
-The Bill will provide parties with a statutory basis to apply to court for an order to stay on-going court proceedings, pending the outcome of mediation. Such provisions mirror what is available for arbitration, and will provide greater certainty and clarity to parties by ensuring that their legal positions in any court proceedings are preserved pending the outcome of the mediation.</ol>
-<ol start="2">
-<li><u>Restrictions on disclosure and admissibility provisions</u></li>
-The Bill also contains provisions that preserve the confidentiality of mediation proceedings, and clarify the circumstances in which such communications can be disclosed, or else admitted into court as evidence. Currently, such rules are based on common law principles, which could be subject to different interpretations.</ol>
-<ol start="3">
-<li><u>Enforceability of settlement agreements resulting from mediation</u></li>
-Currently, if there is a breach of a mediated settlement agreement, the aggrieved party will need to institute court proceedings to enforce the mediated settlement agreement as a breach of contract, unless the dispute is already being heard by the court. The Bill provides an additional method of enforcement for these mediated settlement agreements. The proposed provision will allow parties by consent, and subject to fulfilling certain requirements, to record a mediated settlement agreement as an order of court upon reaching their settlement. This will enable the settlement agreement to be directly enforceable as a court order should there be a breach of its terms subsequently.</ol>
-<ol start="4">
-<li><u> Exceptions under the Legal Profession Act currently applicable to arbitration will be extended to mediation</u></li>
-While mediation is not commonly understood to involve the practice of law, in certain cases the relevant law may be discussed during the mediation session. This amendment will make clear that participation by foreign mediators and foreign-qualified counsel in such mediation sessions will not amount to the unauthorised practice of Singapore law.</ol>
+<li> The key features of the Bill fall into the following four categories:
+ 
+<ol style="list-style-type: lower-roman">
+<li> <u>Stay of court proceedings provisions</u>
+<br>
+The Bill will provide parties with a statutory basis to apply to court for an order to stay on-going court proceedings, pending the outcome of mediation.  Such provisions mirror what is available for arbitration, and will provide greater certainty and clarity to parties by ensuring that their legal positions in any court proceedings are preserved pending the outcome of the mediation.
+</li>
+<li>
+<u>Restrictions on disclosure and admissibility provisions</u>
+<br>
+The Bill also contains provisions that preserve the confidentiality of mediation proceedings, and clarify the circumstances in which such communications can be disclosed, or else admitted into court as evidence. Currently, such rules are based on common law principles, which could be subject to different interpretations.
+</li>
+     
+<li>
+<u>Enforceability of settlement agreements resulting from mediation </u>
+<br>
+ Currently, if there is a breach of a mediated settlement agreement, the aggrieved party will need to institute court proceedings to enforce the mediated settlement agreement as a breach of contract, unless the dispute is already being heard by the court. The Bill provides an additional method of enforcement for these mediated settlement agreements. The proposed provision will allow parties by consent, and subject to fulfilling certain requirements, to record a mediated settlement agreement as an order of court upon reaching their settlement.  This will enable the settlement agreement to be directly enforceable as a court order should there be a breach of its terms subsequently.
+</li>
+<li>
+<u>Exceptions under the Legal Profession Act currently applicable to arbitration will be extended to mediation </u>
+<br>
+While mediation is not commonly understood to involve the practice of law, in certain cases the relevant law may be discussed during the mediation session. This amendment will make clear that participation by foreign mediators and foreign-qualified counsel in such mediation sessions will not amount to the unauthorised practice of Singapore law.
+</li>
+</ol>
+  
 </li>
 </ol>
 
