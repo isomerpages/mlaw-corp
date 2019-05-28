@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Trustees (Amendment) Bill
