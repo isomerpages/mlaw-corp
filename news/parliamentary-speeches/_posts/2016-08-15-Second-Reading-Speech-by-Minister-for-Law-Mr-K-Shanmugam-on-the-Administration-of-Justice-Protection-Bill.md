@@ -126,7 +126,7 @@ Madam Speaker,
 28. Now, let me deal with contempt by interfering with Court proceedings.
 
 
-<ol start="2" style="list-style-type: upper-alpha"; font-weight:bold;>
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
 <li><u>Interference with Court Proceedings</u></li>
 </ol>
 
@@ -593,6 +593,9 @@ Madam Speaker,
 147. Based on the empirical analysis, commentators concluded:
 
 *“the emergence of the press politics of outrage, is undermining trust not just in the political class as individuals – now a well-rehearsed debate – but in entire institutions”.*
+
+{:start="148"}
+148. That means it is undermining confidence and trust in entire institutions, beyond the politicians.
 
 {:start="149"}
 149. Likewise, in Singapore, if you allow baseless attacks on the Judiciary, you get erosion of trust in the Judiciary.
