@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on young persons processed for criminal offences through State Courts
