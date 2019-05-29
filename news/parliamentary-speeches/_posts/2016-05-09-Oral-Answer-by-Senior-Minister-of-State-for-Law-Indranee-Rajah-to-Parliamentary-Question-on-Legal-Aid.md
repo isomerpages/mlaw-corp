@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-
 
 9 May 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-**Dr Lim Wee Kiak, Member of Parliament for Sembawang GRC&&
+**Dr Lim Wee Kiak, Member of Parliament for Sembawang GRC**
 
 **<u>Question: </u>**  
 To ask the Minister for Law (a) whether the Government will review the current annual disposable income criteria for a person to qualify for legal aid; (b) what are the reasons for applicants failing to qualify for legal aid; and (c) among applicants who qualify for legal aid, what are the broad categories of their cases. 
