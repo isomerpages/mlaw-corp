@@ -11,7 +11,7 @@ Madam Speaker,
 
 1. I beg to move, “That the Bill be now read a Second Time”.
 
-<ol style="list-style-type: upper-roman; font-wieght:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li><u> Introduction</u></li>
 </ol>
 
@@ -213,7 +213,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 </li>
 </ol>
 
-<ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="9" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Amendments to Legal Aid and Advice Act</u></li>
 </ol>
 
@@ -221,7 +221,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 28. Clause 15 amends the Legal Aid and Advice Act to enable the Legal Aid Bureau not to charge any registration fees for an application for legal aid or advice. This takes out one step in the registration process and makes it administratively more convenient for applicants when they apply for legal aid.
 
 
-<ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="10" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u> Amendments to Remote Gambling Act 2014</u></li>
 </ol>
 
@@ -229,7 +229,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 29. Clause 35 amends the Remote Gambling Act 2014 to enlarge the jurisdiction of the District Court or a Magistrate’s Court to try cases and sentence offenders under that Act. This allows the District Court or a Magistrate’s Court to hear cases and impose the maximum fine or imprisonment term set out under the Remote Gambling Act 2014, notwithstanding the limits prescribed under the Criminal Procedure Code.
 
 
-<ol start="7" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="11" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Amendments to the Trade Marks Act</u></li>
 </ol>
 
@@ -248,7 +248,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 32. This amendment will allow the Courts to better give effect to the testator’s testamentary intention. It arises from a recent decision of the Court of Appeal, which strongly suggested that the power to rectify wills is not available to our Courts.
 
 
-<ol start="9" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="12" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Conclusion</u></li>
 </ol>
 
