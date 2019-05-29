@@ -14,11 +14,11 @@ To ask the Minister for Law (a) how does the Singapore Academy of Law decide on 
 
 **<u>Answer:</u>**
 
-1. The Singapore Academy of Law (“SAL”) manages two websites which contain judgments, namely the Singapore Law Watch website [at www.singaporelawwatch.sg](http://www.singaporelawwatch.sg/) (“the SLW Website”) and the Singapore Law website [at www.singaporelaw.sg](http://www.singaporelawwatch.sg/) (“the SgLaw Website”).
+1. The Singapore Academy of Law (“SAL”) manages two websites which contain judgments, namely the Singapore Law Watch website at[www.singaporelawwatch.sg](http://www.singaporelawwatch.sg/) (“the SLW Website”) and the Singapore Law website at[www.singaporelaw.sg](http://www.singaporelawwatch.sg/) (“the SgLaw Website”).
 
 <ol start="2">
 <li>  According to SAL:
-<ol style="list-style-type: lower-roman">
+<ol style="list-style-type: lower-alpha">
 <li> All judgments from the Supreme Court of Singapore are published on the SLW Website and the SgLaw Website. There is no selection process.</li>
 <li>Judgments from the Supreme Court of Singapore are published on the SLW Website for a period of three months, and on the SgLaw Website in perpetuity. </li>
 <li>Judgments are redacted or not published only where this is required by law, or by an order of Court. </li>
