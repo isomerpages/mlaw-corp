@@ -67,14 +67,14 @@ Madam Speaker,
 <ol start="8">
 <li> This increase is a result of the tremendous growth in the volume of trade, business, investment and finance in Asia in recent years.
 <ol style="list-style-type: lower-alpha">
-<li>Trade
+ <li><strong>Trade</strong>
 <ol style="list-style-type: lower-roman">
 <li>A study by the Asian Development Bank suggests that Asia could account for half of the world’s GDP, trade and investment by 2050.</li>
 <li>Last year, the ASEAN economies achieved a combined annual growth rate of 5%, compared to the estimated global  growth rate of less than 3%.</li>
 <li> ASEAN is also working towards the ASEAN Economic Community to integrate and transform ASEAN into a single regional market with freer flows of goods, services, investment, skilled labour and capital.</li>
 </ol>
 </li>
-<li>Foreign Direct Investments (FDIs).
+ <li><strong>Foreign Direct Investments (FDIs). </strong>
   
  <ol style="list-style-type: lower-roman;">
  <li>Second, FDI into Indonesia, Malaysia, the Philippines, Singapore and Thailand, known as the ASEAN 5, grew by 7% from US$120 billion in 2012 to US$128.4 billion in 2013.</li>
@@ -83,7 +83,7 @@ Madam Speaker,
     
     
  </li>
- <li>Infrastructure spending.
+ <li><strong>Infrastructure spending.</strong>
  <ol style="list-style-type: lower-roman">
  <li>  In Southeast Asia, nearly US$1 trillion of infrastructure investment will be required until 2020, the next 6 years.</li>
  <li>Likewise, India’s infrastructure sector potential is estimated to require US$1 trillion in funding from 2012 to 2017, in the next 3 yrs.</li>
@@ -157,13 +157,16 @@ Madam Speaker,
 <li>The SICC – A Court for International Commercial Disputes</li>
 </ol>
 
+{:start="14"}
 14. The SICC will be an international court with specialist jurists hearing international commercial disputes.
 
-
+{:start="15"}
 15. We want the SICC to hear disputes governed by foreign law as well.  
- 
+
+{:start="16"}
 16. The SICC will complement existing arbitration services and broaden the suite of dispute resolution options that are available to regional as well as international parties.
- 
+
+{:start="17"}
 17. It will attract parties who would not otherwise have come to Singapore to have their disputes resolved here.
 
 <ol start="18">
@@ -192,7 +195,7 @@ That process has taken place in the arbitration scene so that even when disputes
 <li style="list-style-type: none">Our neutrality is also an important factor which will help.
 <ol style="list-style-type: lower-alpha" start="2">
 <li><strong>Our judiciary</strong> is highly regarded as being efficient, competent and honest.  It is consistently ranked highly in international surveys.</li>
-<li> Singapore Legal Sector: Our lawyers and law firms have developed a good reputation for providing high quality legal services.
+ <li><strong> Singapore Legal Sector</strong>: Our lawyers and law firms have developed a good reputation for providing high quality legal services.
 <ol style="list-style-type: lower-roman">
 <li>We have the “Asian advantage” in that we understand Asian context and culture. This advantage is important as arbitration users have indicated that a personal connection to the city in which the arbitration is held is one of the main reasons for selecting the venue.</li>
  <li>37 of the top 100 law firms in the world are present in Singapore. This further helps in what we have to offer - in terms of legal services.</li>
@@ -257,7 +260,7 @@ That process has taken place in the arbitration scene so that even when disputes
 <ol start="31">
 <li>Foreign lawyers will have to register to appear before the SICC and appeals from the SICC in certain situations to be prescribed in the Rules of Court.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>This will be covered in greater detail when I speak on the Legal Profession (Amendment) Bill.</li>
 </ol>
 </li>
@@ -504,10 +507,10 @@ That process has taken place in the arbitration scene so that even when disputes
 77. The DAG will be a constitutional appointment, and there may be one or more DAGs.
 
 {:start="78"}
-78. A DAG will be accorded the status of a High Court Judge and conferred the same security of tenure as that of the Attorney-General 11.
+78. A DAG will be accorded the status of a High Court Judge and conferred the same security of tenure as that of the Attorney-General <a href="#AG"><sup>11</sup></a>.
 
 {:start="79"}
-79. The remuneration and allowances of the DAG will be charged to the Consolidated Fund 12.
+79. The remuneration and allowances of the DAG will be charged to the Consolidated Fund <a href="#fund"><sup>12</sup></a>.
 
 {:start="80"}
 80. Creating the office of the DAG will enable AGC to have and retain, at its apex, individuals of the same standing and ability as our Judges.
@@ -582,48 +585,31 @@ That process has taken place in the arbitration scene so that even when disputes
 
 ---
 
-[Factsheet on the Constitution of the Republic of Singapore Bill(0.11MB)](/files/news/parliamentary-speeches/2014/11/Factsheet-Constitution Bill-2014.pdf )
+[Factsheet on the Constitution of the Republic of Singapore Bill(0.11MB)](/files/news/parliamentary-speeches/2014/11/Factsheet-Constitution Bill-2014.pdf)
 
-<p id="judge"><sup>[1]</sup> Clause 8, New Art 95(4)(c) </p>         
-
-
-<p id="minister"><sup>[2]</sup> Clause 8, New Art 95(4)(c) </p>
-
-
-<p id="constitution"><sup>[3]</sup> Clause 16(b)</p>
-
-
-<p id="case"><sup>[4]</sup> Clause 8, Art 95(5)</p>
-
-
-<p id="court"><sup>[5]</sup> Clause 8, Art 95(4)(a) </p>
-
-
-<p id="international"><sup>[6]</sup> Clause 8, Art 95(4)(a) </p>
-
-
-<p id="specific"><sup>[7]</sup> Clause 8, New Art 95(5) </p>
-
-
-<p id="adviser"><sup>[8]</sup> Art 35(7) of the Constitution</p>
-
-<p id="prosecutor"><sup>[9]</sup> Art 35(8) of the Constitution </p>
-
-
-<p id="assign"><sup>[10]</sup> Clause 5, New Art 35A(4) </p>
-
-
-<p id="AG"><sup>[11]</sup> Clause 5, Art 35A(6) </p>
-
-
-<p id="fund"><sup>[12]</sup> Clause 5, Art 35A(11)</p>
-
-
-
-
-
-
-
+<span id="judge"><sup>[1]</sup> Clause 8, New Art 95(4)(c) </span>         
+<br>
+<span id="minister"><sup>[2]</sup> Clause 8, New Art 95(4)(c) </span>
+<br>
+<span id="constitution"><sup>[3]</sup> Clause 16(b)</span>
+<br>
+<span id="case"><sup>[4]</sup> Clause 8, Art 95(5)</span>
+<br>
+<span id="court"><sup>[5]</sup> Clause 8, Art 95(4)(a) </span>
+<br>
+<span id="international"><sup>[6]</sup> Clause 8, Art 95(4)(a) </span>
+<br>
+<span id="specific"><sup>[7]</sup> Clause 8, New Art 95(5) </span>
+<br>
+<span id="adviser"><sup>[8]</sup> Art 35(7) of the Constitution</span>
+<br>
+<span id="prosecutor"><sup>[9]</sup> Art 35(8) of the Constitution </span>
+<br>
+<span id="assign"><sup>[10]</sup> Clause 5, New Art 35A(4) </span>
+<br>
+<span id="AG"><sup>[11]</sup> Clause 5, Art 35A(6) </span>
+<br>
+<span id="fund"><sup>[12]</sup> Clause 5, Art 35A(11)</span>
 
 
 <p class="right-side-updated">Last updated on 04 Nov 2014</p> 
