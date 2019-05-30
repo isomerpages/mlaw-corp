@@ -587,9 +587,9 @@ That process has taken place in the arbitration scene so that even when disputes
 
 [Factsheet on the Constitution of the Republic of Singapore Bill(0.11MB)](/files/news/parliamentary-speeches/2014/11/Factsheet-Constitution Bill-2014.pdf)
 
-<span id="judge"><sup>[1]</sup> Clause 8, New Art 95(4)(c) </span>         
+<span id="judge"><sup>[1]</sup> Clause 8, New Art 95(4)(c)</span>
 <br>
-<span id="minister"><sup>[2]</sup> Clause 8, New Art 95(4)(c) </span>
+<span id="minister"><sup>[2]</sup> Clause 8, New Art 95(4)(c)</span>
 <br>
 <span id="constitution"><sup>[3]</sup> Clause 16(b)</span>
 <br>
@@ -610,6 +610,5 @@ That process has taken place in the arbitration scene so that even when disputes
 <span id="AG"><sup>[11]</sup> Clause 5, Art 35A(6) </span>
 <br>
 <span id="fund"><sup>[12]</sup> Clause 5, Art 35A(11)</span>
-
 
 <p class="right-side-updated">Last updated on 04 Nov 2014</p> 
