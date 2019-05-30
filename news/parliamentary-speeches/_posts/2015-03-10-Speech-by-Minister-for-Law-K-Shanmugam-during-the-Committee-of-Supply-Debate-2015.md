@@ -306,9 +306,8 @@ In addition, a framework has been established to train and certify family lawyer
 
 
 
-<p id="infants"><sup>[1]</sup> For instance, under the current GIA, a child has parents or guardians who are unsuitable or unable to fulfil their parental responsibility, an interested applicant such as a grandparent will have difficulties making an application to be appointed as the child’s guardian. The review aims to address this issue. </p>
-<p id="succession"><sup>[2]</sup> Review of ISA to address issue of the claim of illegitimate child to a share of the deceased parent’s estate. </p>
-<p id="provision"><sup>[3]</sup> For instance, IFPA review deals with right of an illegitimate child, a stepchild and an elderly parent’s to apply for reasonable provision for maintenance from the deceased’s estate. </p>
-
+<span id="infants"><sup>[1]</sup> For instance, under the current GIA, a child has parents or guardians who are unsuitable or unable to fulfil their parental responsibility, an interested applicant such as a grandparent will have difficulties making an application to be appointed as the child’s guardian. The review aims to address this issue. </span> <br>
+<span id="succession"><sup>[2]</sup> Review of ISA to address issue of the claim of illegitimate child to a share of the deceased parent’s estate. </span> <br>
+<span id="provision"><sup>[3]</sup> For instance, IFPA review deals with right of an illegitimate child, a stepchild and an elderly parent’s to apply for reasonable provision for maintenance from the deceased’s estate. </span>
 
 <p class="right-side-updated">Last updated on 11 Mar 2015</p> 
