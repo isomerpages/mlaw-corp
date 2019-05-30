@@ -2,7 +2,7 @@
 layout: post
 title: Second Reading Speech by Minister for Law, K Shanmugam, on the Constitution of the Republic of Singapore Bill
 date:   2014-11-04
-permalink: /news/parliamentary-speeches/2R-speech-SMS-pawnbrokers-bill-2015
+permalink: /news/parliamentary-speeches/2R-speech-Min-constitution-bill-2014
 ---
 
 4 Nov 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
