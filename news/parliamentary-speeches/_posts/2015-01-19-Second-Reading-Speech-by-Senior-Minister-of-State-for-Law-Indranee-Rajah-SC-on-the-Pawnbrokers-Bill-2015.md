@@ -16,6 +16,7 @@ Madam Speaker,
 <li><u>Introduction</u></li>
 </ol>
 
+{:start="2"}
 2. Madam Speaker, the pawnbroking industry caters to the needs of individuals who require short-term financial relief and possess assets that can be offered as collateral. 
 
 
