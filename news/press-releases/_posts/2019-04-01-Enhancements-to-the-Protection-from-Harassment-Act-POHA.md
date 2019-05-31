@@ -61,7 +61,7 @@ collection_name: news
 9. The Bill will strengthen protection for victims of harassment and persons related to victims in three ways: (i) improving the PO and EPO regime; (ii) enhancing the penalties for offences against vulnerable persons and intimate partners; and (iii) clarifying that entities can be liable in proceedings for harassment-related behaviour.
 
 <ol>
-<li><u>Improved PO and EPO regime</u></li>
+<li style="font-style:italic;"><u>Improved PO and EPO regime</u></li>
 </ol>
 
 {:start="10"}
@@ -76,7 +76,7 @@ collection_name: news
 Further, enhanced penalties will be introduced for subsequent breaches of POs and EPOs. Currently, a breach of a PO or an EPO is punishable with a fine not exceeding $5,000 or imprisonment for a term not exceeding 6 months or both. The amendments will increase the penalty to a fine not exceeding $10,000 or imprisonment for a term not exceeding 12 months or both.
 
 <ol start="2">
-<li><u>Enhancing penalties for offences against vulnerable persons and intimate persons</u></li>
+<li style="font-style:italic;"><u>Enhancing penalties for offences against vulnerable persons and intimate persons</u></li>
 </ol>
 
 {:start="11"}
@@ -129,7 +129,7 @@ Further, enhanced penalties will be introduced for subsequent breaches of POs an
 </table>
 
 <ol start="3">
-<li><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour</u></li>
+<li style="font-style:italic;"><u>Clarifying that entities can be liable in proceedings for harassment-related behaviour</u></li>
 </ol>
 
 {:start="15"}
