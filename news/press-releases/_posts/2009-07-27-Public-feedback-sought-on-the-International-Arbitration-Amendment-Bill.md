@@ -21,7 +21,7 @@ The amendments are in three key areas:
 
 <li> The current definition of an arbitration agreement will be modernised to make it clear that Singapore recognises that an arbitration agreement can be contained in "electronic communications" such as electronic emails or electronic data exchange.</li>
  
-<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).</li> <a href="#NYConvention"><sup>2</sup></a>
+<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).</li><a href="#NYConvention"><sup>2</sup></a>
 
 </ol>
 
@@ -59,7 +59,7 @@ The amendments are in three key areas:
 [Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)    
 [Second Reading Speech on IAA Bill](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-international-arbitration-amendment)
 
-
+rr
 <p class="right-side-updated">Last updated on 26 Feb 2013</p>
 
 
