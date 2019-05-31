@@ -43,9 +43,9 @@ Issued by Ministry of Law
 </li>
 </ol>
 
-<ol style="list-style-type: none;">
-<li>However, domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, administrative law and all aspects of criminal and commercial litigation, will continue to be excluded.</li>
-</ol>
+
+<p>However, domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, administrative law and all aspects of criminal and commercial litigation, will continue to be excluded.</p>
+
 
 
 **International Commercial Arbitration**
