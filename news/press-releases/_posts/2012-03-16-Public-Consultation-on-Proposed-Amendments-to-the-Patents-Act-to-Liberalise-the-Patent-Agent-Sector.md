@@ -63,13 +63,14 @@ collection_name: news
 {:start="14"}
 14. MinLaw invites interested parties to provide their feedback on the proposed draft legislative amendments. The consultation period is from **16 March to 12 April 2012**. The public can view the consultation paper and draft legislative amendments at [www.minlaw.gov.sg](http://www.minlaw.gov.sg/) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
-Intellectual Property Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+
+<p class="address-centered">Intellectual Property Policy Division </p>  
+<p class="address-centered">Ministry of Law </p>  
+<p class="address-centered">100 High Street </p>  
+<p class="address-centered">#08-02, The Treasury </p>  
+<p class="address-centered">Singapore 179434 </p>  
+<p class="address-centered">Fax: 6332 8842 </p>  
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> </p>
 
 
 [Annex A: Public consultation brief (0.02MB)](/files/news/press-releases/2012/03/linkclickf011.pdf)   
