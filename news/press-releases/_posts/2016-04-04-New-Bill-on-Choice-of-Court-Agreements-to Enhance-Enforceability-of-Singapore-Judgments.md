@@ -49,7 +49,7 @@ If the court of another Contracting State is the chosen court, similar obligatio
 **MINISTRY OF LAW**  
 **4 APRIL 2016**
 
-h
+
 
 <p class="right-side-updated">Last updated on 04 Apr 2016
 </p>
