@@ -57,12 +57,12 @@ collection_name: news
 8. All feedback should be titled “IP (Dispute Resolution) Bill Public Consultation Comments” and submitted by 5 April 2019 via post or email to:
 
 
-Intellectual Property Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02 The Treasury  
-Singapore 179434  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Intellectual Property Policy Division </p>  
+<p class="address-centered">Ministry of Law </p>  
+<p class="address-centered">100 High Street  </p> 
+<p class="address-centered">#08-02 The Treasury </p> 
+<p class="address-centered">Singapore 179434 </p>  
+<p class="address-centered"><a href="mailto:MLAW_Consultation@mlaw.gov.sg">E-mail: MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 [Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill (0.26MB)](/files/news/press-releases/2019/03/Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill.pdf)
