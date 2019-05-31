@@ -55,8 +55,7 @@ collection_name: news
 
 <ol start="2" style="list-style-type: lower-alpha">
 <li><u>Mandatory Continuing Professional Development requirements</u>
-</li>
-</ol>
+</li></ol>
 
 {:start="7"}
 7. In May 2011, the Singapore Institute of Legal Education (SILE) was formally established as an umbrella institution to co-ordinate, administer and exercise oversight over legal education in Singapore. One of the SILE’s functions is to oversee the implementation of mandatory Continuing Professional Development (CPD) requirements for the legal profession in Singapore (on which SILE has previously sought consultation).
@@ -92,13 +91,13 @@ The Bill also contains miscellaneous amendments to fine-tune the process for dis
 11. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](http://www.minlaw.gov.sg/) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx.](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 
-Legal Industry Division  
-Ministry of Law    
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="right-side-updated">Legal Industry Division</p>  
+<p class="right-side-updated">Ministry of Law</p>    
+<p class="right-side-updated">100 High Street</p>  
+<p class="right-side-updated">#08-02, The Treasury </p>  
+<p class="right-side-updated">Singapore 179434 </p>  
+<p class="right-side-updated">Fax: 6332 8842 </p>  
+<p class="right-side-updated">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg </a></p>
 
 
 [Annex 1: Legal Profession (Amendment) BIll (0.1MB)](/files/news/press-releases/2011/12/linkclick66ee.pdf)  
