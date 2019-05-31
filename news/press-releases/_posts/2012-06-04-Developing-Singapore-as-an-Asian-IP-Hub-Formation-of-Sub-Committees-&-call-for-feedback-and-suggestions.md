@@ -82,13 +82,13 @@ To recommend strategies to:
 {:start="7"}
 7. The Steering Committee aims to finalise and submit its recommendations to the Government by early 2013.  We would appreciate all feedback and suggestions to be sent by **31 August 2012** to:
 
-Intellectual Property Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>  
+<p class="address-centered">Intellectual Property Policy Division </p>  
+<p class="address-centered">Ministry of Law </p>  
+<p class="address-centered">100 High Street </p> 
+<p class="address-centered">#08-02, The Treasury </p>  
+<p class="address-centered">Singapore 179434 </p> 
+<p class="address-centered">Fax: 6332 8842 </p> 
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>  </p>
 
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p>
