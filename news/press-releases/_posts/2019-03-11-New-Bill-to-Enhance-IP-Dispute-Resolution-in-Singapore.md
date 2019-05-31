@@ -62,7 +62,7 @@ collection_name: news
 <p class="address-centered">100 High Street  </p> 
 <p class="address-centered">#08-02 The Treasury </p> 
 <p class="address-centered">Singapore 179434 </p>  
-<p class="address-centered"><a href="mailto:MLAW_Consultation@mlaw.gov.sg">E-mail: MLAW_Consultation@mlaw.gov.sg</a></p>
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 [Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill (0.26MB)](/files/news/press-releases/2019/03/Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill.pdf)
