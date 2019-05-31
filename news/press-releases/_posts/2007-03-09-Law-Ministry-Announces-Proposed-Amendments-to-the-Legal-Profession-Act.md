@@ -41,34 +41,16 @@ Other Proposed Amendments to the Act</li>
 </li>
 </ol>
 
-{:start="6"}
-6. Apart from amendments relating to the recommendations made by the two committees, the following amendments are proposed;
-
-<ol style="list-style-type: lower-alpha">
-<li><u>Enhance the penalty for practising without a practising certificate</u></li>
+<ol start="6">
+<li>Apart from amendments relating to the recommendations made by the two committees, the following amendments are proposed;
+<ol style="list-style-type: lower-alpha;">
+<li><u>Enhance the penalty for practising without a practising certificate</u> <br /> Currently, any person practising law without a valid practising certificate is liable to a fine of up to $1,000 or to imprisonment of up to 6 months or both. This penalty, prescribed in 1966, will be enhanced to act as an effective deterrent to errant lawyers.</li>
+<li><u>Mandatory legal practise management course </u> <br /> The amendments provide that all lawyers complete a legal practice management course before being allowed to practise as a sole proprietor, a partner in a law firm or a director in a law corporation; and</li>
+<li><u>Service as Assistant Public Prosecutors in AG's Chambers recognised as pupillage</u> <br /> Assistant Public Prosecutors (APP) receive rigorous training for conducting prosecutions and criminal trials in the Subordinate Courts. It is thus proposed that the service as APP in the Attorney General's Chambers be recognised as pupillage.</li>
+<li>The Attorney-General and Solicitor-General will be deemed appointed as ex officio Senior Counsels</li>
 </ol>
-
-Currently, any person practising law without a valid practising certificate is liable to a fine of up to $1,000 or to imprisonment of up to 6 months or both. This penalty, prescribed in 1966, will be enhanced to act as an effective deterrent to errant lawyers.
-
-
-<ol start="2" style="list-style-type: lower-alpha">
-<li><u>Mandatory legal practise management course</u></li>
+</li>
 </ol>
-
-The amendments provide that all lawyers complete a legal practice management course before being allowed to practise as a sole proprietor, a partner in a law firm or a director in a law corporation; and
-
-
-<ol start="3" style="list-style-type: lower-alpha">
-<li><u>Service as Assistant Public Prosecutors in AG's Chambers recognised as pupillage</u></li>
-</ol>
-
-Assistant Public Prosecutors (APP) receive rigorous training for conducting prosecutions and criminal trials in the Subordinate Courts. It is thus proposed that the service as APP in the Attorney General's Chambers be recognised as pupillage.
-
-
-<ol start="4" style="list-style-type: lower-alpha">
-<li><u>The Attorney-General and Solicitor-General will be deemed appointed as ex officio Senior Counsels</u></li>
-</ol>
-
 
 <p id="Minlaw"><sup>[1]</sup> MinLaw press release for recommendations of Review Committee on JLV and FLA schemes issued on 7 March 2006.</p>
 
