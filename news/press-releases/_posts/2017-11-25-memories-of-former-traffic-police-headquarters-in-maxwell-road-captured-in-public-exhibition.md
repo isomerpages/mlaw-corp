@@ -55,7 +55,7 @@ collection_name: news
 {:start="11"}
 11. From the 1930s to 1999, 28 Maxwell Road was used solely as the TP Headquarters. The building also housed Singapore’s first Driving Test Centre when driving tests were introduced in 1941, and was Singapore’s only driving test centre until the Queenstown Driving Test Centre opened in 1968. In 2007, it was gazetted as a conservation building by the Urban Redevelopment Authority.
 
-[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno (0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)
+[Set of Limited Edition Postcards Drawn by Mr David Pattiselanno (0.4MB)](/files/news/press-releases/2017/11/Postcards.pdf)  
 **MINISTRY OF LAW**  
 **25 NOVEMBER 2017**  
 
