@@ -19,7 +19,7 @@ collection_name: news
  </ol>
 </li>
 </ol>
-&nbsp;&nbsp;&nbsp;If the court of another Contracting State is the chosen court, similar obligations apply.
+If the court of another Contracting State is the chosen court, similar obligations apply.
 
 {:start="3"}
 3. The ratification of the Convention will enhance the international enforceability of Singapore court judgments, including those of the Singapore International Commercial Court (SICC). This will make the SICC a more attractive dispute settlement option as a neutral litigation venue.
