@@ -5,7 +5,7 @@ permalink: /news/press-releases/govt-steps-up-support-to-help-singapore-law-prac
 breadcrumb: Press Releases
 collection_name: news
 ---
-o
+p
 2 May 2019 Posted in [Press releases](/news/press-releases)
 
 1. Today, the Ministry of Law (MinLaw), the Law Society of Singapore (LawSoc), Enterprise Singapore and the Infocomm Media Development Authority (IMDA) announced the launch of a new $3.68m scheme to help Singapore Law Practices adopt technology.
@@ -21,7 +21,7 @@ o
 </li>
 </ol>
 
-&nbsp;&nbsp;Each law practice can receive funding of up to $30,000 for baseline solutions and up to $100,000 for advanced solutions. More information on these solutions can be found at Annex A.
+<p style="margin-left:10px;">Each law practice can receive funding of up to $30,000 for baseline solutions and up to $100,000 for advanced solutions. More information on these solutions can be found at Annex A. </p>
 
 {:start="3"}
 3. Mr Edwin Tong, Senior Minister of State for Law and Health, said at the launch of Tech-celerate for Law, “Technology is changing the way legal services are delivered and will help power the growth and development of Singapore legal services. MinLaw and LawSoc will support Singapore Law Practices in technology adoption. We launched Tech Start for Law in 2017. The new Tech-celerate for Law is a step up. We are extending support beyond baseline to also cover advanced solutions. We have also earmarked more funds for Tech-celerate for Law. We would encourage the Singapore Law Practices to make good use of this extra government support to accelerate their own technology adoption.”
