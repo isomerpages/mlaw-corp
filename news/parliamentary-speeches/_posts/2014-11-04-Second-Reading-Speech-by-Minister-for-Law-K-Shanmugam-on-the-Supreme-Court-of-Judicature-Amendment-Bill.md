@@ -52,20 +52,6 @@ Madam Speaker,
 
 <ol start="8">
 <li>The SICC will have jurisdiction to hear cases that can be heard by the High Court in its original civil jurisdiction, and are international and commercial in nature 3.
-<ol style="list-style-type: lower-alpha">
-<li>The Rules of Court will set out the types of cases that are considered international and commercial in nature.</li>
-<li> For certainty, potential parties will have the option of applying for a pre-action certificate to certify that the intended action is international and commercial in nature 4.
-<ol style="list-style-type: lower-roman">
-<li>The pre-action certificate may also certify such other matters as the Rules of Court may prescribe.  </li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-
-
-<ol start="8">
-<li>The SICC will have jurisdiction to hear cases that can be heard by the High Court in its original civil jurisdiction, and are international and commercial in nature 3.
 <ol style="list-style-type: lower-alpha;">
 <li>The Rules of Court will set out the types of cases that are considered international and commercial in nature.</li>
 <li>For certainty, potential parties will have the option of applying for a pre-action certificate to certify that the intended action is international and commercial in nature 4.
@@ -79,6 +65,17 @@ Madam Speaker,
 <li>The procedure and conditions for such transfer of cases will be set out in the Rules of Court.</li>
 </ol>
 </li>
+</ol>
+</li>
+</ol>
+
+
+<ol start="9">
+<li>Proceedings in the SICC will be heard either by a single Judge or by 3 Judges <a href="#judges"><sup>6</sup></a>.
+
+<ol style="list-style-type: lower-alpha">
+<li>Where proceedings are heard by 3 Judges, the Chief Justice shall appoint one of the Judges to preside.</li>
+<li>The case will be decided in accordance with the decision of the majority <a href="#majority"><sup>7</sup></a>.</li>
 </ol>
 </li>
 </ol>
