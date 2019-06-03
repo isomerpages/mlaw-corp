@@ -19,11 +19,11 @@ collection_name: news
 
 5. Interested parties are invited to fax/email their feedback on the Moneylenders Bill 2008 to:
 
-The Registry of Moneylenders  
-45 Maxwell Road, #06-11  
-The URA Centre East Wing, Singapore 069118  
-Fax: 6325 1416  
-E-mail: ipto_romp@ipto.gov.sg
+<p class="address-centered">The Registry of Moneylenders</p> 
+<p class="address-centered">45 Maxwell Road, #06-11</p>  
+<p class="address-centered">The URA Centre East Wing, Singapore 069118</p>  
+<p class="address-centered">Fax: 6325 1416 </p>  
+<p class="address-centered">E-mail: <a href="mailto:ipto_romp@ipto.gov.sg">ipto_romp@ipto.gov.sg</a> </p>
 
 {:start="6"}
 6. The consultation period ends on Friday, 12 September 2008.
