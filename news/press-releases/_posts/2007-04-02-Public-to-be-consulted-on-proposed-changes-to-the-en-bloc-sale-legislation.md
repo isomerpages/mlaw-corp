@@ -9,7 +9,7 @@ collection_name: news
 2 Apr 2007 Posted in [Press releases](/news/press-releases)
 
 
-During the Committee of Supply Debate 2007, Deputy Prime Minister, Co-ordinating Minister for National Security and Minister for Law, Professor S Jayakumar announced the main proposed amendments to the en bloc sale legislation. These and other amendments were recommended by a study team that was set up to review the en bloc sale legislation.
+1. During the Committee of Supply Debate 2007, Deputy Prime Minister, Co-ordinating Minister for National Security and Minister for Law, Professor S Jayakumar announced the main proposed amendments to the en bloc sale legislation. These and other amendments were recommended by a study team that was set up to review the en bloc sale legislation.
 
 
 **Proposed Amendments to the En Bloc Sale Legislation**
