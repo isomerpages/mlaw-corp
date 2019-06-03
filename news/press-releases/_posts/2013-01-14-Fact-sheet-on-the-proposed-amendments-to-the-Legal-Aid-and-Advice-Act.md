@@ -42,7 +42,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 </ol>
 
 <ol style="list-style-type: lower-alpha;">
-<li><u>Update the legal aid means test to expand the coverage of legal aid</u></li>
+<li style="font-style:italic;"><u>Update the legal aid means test to expand the coverage of legal aid</u></li>
 </ol>
 
 {:start="3"}
@@ -80,7 +80,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 The existing and proposed coverage for legal aid eligibility is illustrated in  [Annex A (0.02MB)](/files/news/press-releases/2013/01/Annex A_ 1RLAAA2013.pdf).
 
 <ol start="2" style="list-style-type: lower-alpha;">
-<li><u>Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</u></li>
+<li style="font-style:italic;"><u>Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</u></li>
 </ol>
 
 <ol start="5">
@@ -101,7 +101,7 @@ The existing and proposed coverage for legal aid eligibility is illustrated in  
 6. Applicants for such cases will enjoy an additional relief of $5,000, and a higher assessed AV of up to $20,000 (instead of $13,000), for the disposable capital portion of the means test.
 
 <ol start="3" style="list-style-type: lower-alpha;">
-<li><u>Enhance the co-payment principle</u></li>
+<li style="font-style:italic;"><u>Enhance the co-payment principle</u></li>
 </ol>
 
 {:start="7"}
@@ -112,7 +112,7 @@ The existing and proposed coverage for legal aid eligibility is illustrated in  
 
 
 <ol start="4" style="list-style-type: lower-alpha;">
-<li><u>Other amendments</u></li>
+<li style="font-style:italic;"><u>Other amendments</u></li>
 </ol>
 
 {:start="9"}
