@@ -71,9 +71,13 @@ collection_name: news
 <li><u>Protection afforded by POs and EPOs will be enhanced.</u> POs and EPOs will be extended to protect persons related to the victim, as these persons are often at risk of violence from the harasser as well. Further, under the Bill, EPOs will remain in effect until the PO hearing is concluded. Additionally, it will be clarified that domestic exclusion orders (i.e. orders restraining the respondent from entering the applicant’s residence or parts of the residence) can be granted as part of a PO. This will ensure better protection for victims who may reside in the same residence as the harasser.</li>
 <li><u>Applications for POs will be facilitated.</u>For example, where a respondent has been convicted of a hurt-related offence, some of the conditions required for the grant of a PO will be deemed to be satisfied.</li>
 <li><u>Recourse for breaches of POs and EPOs will be strengthened.</u>The Bill will strengthen the remedies available when a PO or EPO is breached (so as to deter such conduct early). Community orders can be made for breaches of POs. Additionally, breaches of POs and EPOs will be deemed arrestable offences in prescribed circumstances (e.g., where there is hurt or continued harassment).</li>
+
+
+<li style="list-style-type: none">Further, enhanced penalties will be introduced for subsequent breaches of POs and EPOs. Currently, a breach of a PO or an EPO is punishable with a fine not exceeding $5,000 or imprisonment for a term not exceeding 6 months or both. The amendments will increase the penalty to a fine not exceeding $10,000 or imprisonment for a term not exceeding 12 months or both.</li>
+
 </ol>
 
-Further, enhanced penalties will be introduced for subsequent breaches of POs and EPOs. Currently, a breach of a PO or an EPO is punishable with a fine not exceeding $5,000 or imprisonment for a term not exceeding 6 months or both. The amendments will increase the penalty to a fine not exceeding $10,000 or imprisonment for a term not exceeding 12 months or both.
+
 
 <ol start="2">
 <li style="font-style:italic;"><u>Enhancing penalties for offences against vulnerable persons and intimate persons</u></li>
