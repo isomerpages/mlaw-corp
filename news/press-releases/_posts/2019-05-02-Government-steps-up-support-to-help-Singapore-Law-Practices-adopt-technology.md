@@ -5,7 +5,7 @@ permalink: /news/press-releases/govt-steps-up-support-to-help-singapore-law-prac
 breadcrumb: Press Releases
 collection_name: news
 ---
-p
+
 2 May 2019 Posted in [Press releases](/news/press-releases)
 
 1. Today, the Ministry of Law (MinLaw), the Law Society of Singapore (LawSoc), Enterprise Singapore and the Infocomm Media Development Authority (IMDA) announced the launch of a new $3.68m scheme to help Singapore Law Practices adopt technology.
