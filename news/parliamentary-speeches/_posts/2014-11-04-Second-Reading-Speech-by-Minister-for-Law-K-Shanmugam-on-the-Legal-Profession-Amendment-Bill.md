@@ -133,7 +133,6 @@ Madam Speaker,
 <ol style="list-style-type: lower-alpha">
 <li>the regulation of individual lawyers; and</li>
 <li> the regulation of entities.</li>
-</li>
 </ol>
 </li>
 </ol>
@@ -146,7 +145,7 @@ Madam Speaker,
 <ol start="16">
 <li> Presently, Singapore-qualified lawyers:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>have to adhere to the Legal Profession (Professional  Conduct) Rules;</li>
 <li>come under a professional disciplinary process administered by the Law Society; and</li>
 <li>are subject to the ultimate oversight of the Supreme Court.</li>
@@ -203,6 +202,11 @@ Madam Speaker,
 </ol>
 </li>
 </ol>
+
+<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<li> Entity Regulation</li>
+</ol>
+
 
 <ol start="22">
 <li>I will now turn to the regulation of entities within the legal profession.</li>
@@ -356,7 +360,7 @@ Madam Speaker,
 <ol start="33">
 <li> Secondly, the Bill enables the Law Society to introduce a new requirement for Singapore lawyers to disclose the number of hours spent in each preceding year on pro bono work.
 
-<ol style="list-style-tyep: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> This will take effect from 2015 onwards.</li>
 <li>This requirement was recommended by the Committee to Study Community Legal Services Initiatives.
 
@@ -420,19 +424,19 @@ Madam Speaker,
 [Factsheet on the Legal Profession (Amendment) Bill (0.1MB)](/files/news/parliamentary-speeches/2014/11/Factsheet - LPA Bill-2014.pdf)
 
 
-<p id="registration"><sup>[1]</sup> Clause 18, new section 36P </p>
-<p id="jurisdiction"<sup>[2]</sup> New sections 36P(7) and (9) </p>
-<p id="court"<sup>[3]</sup> New section 36S(1) </p>
-<p id="complaint"><sup>[4]</sup> New section 36S(5) </p>
-<p id="solicitor"><sup>[5]</sup> New sections 36S(9)(c)-(d) </p>
-<p id="committee"><sup>[6]</sup> New section 36S(11) </p>
-<p id="judges"><sup>[7]</sup> New section 36U </p>
-<p id="chief"><sup>[8]</sup> Clause 27 </p>
-<p id="matters"><sup>[9]</sup> Clause 27, especially new section 71(2) </p>
-<p id="practice"><sup>[10]</sup> Clause 17, new section 36G </p>
-<p id="counterparts"><sup>[11]</sup> Clause 34, section 82B </p>
-<p id="legislation"><sup>[12]</sup> Clause 25 </p>
-<p id="society"><sup>[13]</sup> Clause 20 </p>
+<span id="registration"><sup>[1]</sup> Clause 18, new section 36P </span>  
+<span id="jurisdiction"><sup>[2]</sup> New sections 36P(7) and (9) </span>  
+<span id="court"><sup>[3]</sup> New section 36S(1) </span>  
+<span id="complaint"><sup>[4]</sup> New section 36S(5) </span>  
+<span id="solicitor"><sup>[5]</sup> New sections 36S(9)(c)-(d) </span>  
+<span id="committee"><sup>[6]</sup> New section 36S(11) </span>  
+<span id="judges"><sup>[7]</sup> New section 36U </span>  
+<span id="chief"><sup>[8]</sup> Clause 27 </span>  
+<span id="matters"><sup>[9]</sup> Clause 27, especially new section 71(2) </span>  
+<span id="practice"><sup>[10]</sup> Clause 17, new section 36G </span>  
+<span id="counterparts"><sup>[11]</sup> Clause 34, section 82B </span>  
+<span id="legislation"><sup>[12]</sup> Clause 25 </span>  
+<span id="society"><sup>[13]</sup> Clause 20 </span>  
 
 
 
