@@ -20,7 +20,7 @@ Madam Speaker,
 <ol start="2">
 <li>Madam, this Bill seeks to amend the Land Acquisition Act ("LAA") to
 
-<ol style="list-style-tupe: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>enhance the compensation framework for landowners who have part of their land acquired; and</li>
 <li>to improve the efficiency of the land acquisition process.</li>
 </ol>
