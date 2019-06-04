@@ -203,7 +203,7 @@ Madam Speaker,
 </li>
 </ol>
 
-<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
 <li> Entity Regulation</li>
 </ol>
 
@@ -299,7 +299,7 @@ Madam Speaker,
 <ol style="list-style-type: lower-roman">
 <li> This allows non-lawyer employees to become partners, directors or shareholders, or to share in the profits of the law practice (“Non-Lawyer Owners”).</li>
  <li>However, LDPs will only be permitted to provide legal services.</li>
-<li>  Further, Non-Lawyer Owners will need to apply for approval to become an owner or manager of the law practice <a href=""><sup>10</sup></a>.
+<li>  Further, Non-Lawyer Owners will need to apply for approval to become an owner or manager of the law practice <a href="#practice"><sup>10</sup></a>.
  <ol>
   <li>The suitability of each applicant will be carefully assessed by the DLS.</li>
   </ol>
