@@ -294,19 +294,89 @@ Madam Speaker,
 
 86. Third, the Bill provides the court with a wider range of sentencing options to ensure that the sentence meted out in each case better takes into account the culpability of the offender and the harm caused to the victim.
  
-87.                  Clauses 3 to 6 update the existing penalties under sections 13A to D of the MOA to better reflect the gravity of the offences.
+87. Clauses 3 to 6 update the existing penalties under sections 13A to D of the MOA to better reflect the gravity of the offences.
  
-88.                  Some offences will now attract an imprisonment term where appropriate, instead of merely a fine under the MOA.
+88. Some offences will now attract an imprisonment term where appropriate, instead of merely a fine under the MOA.
  
-89.                  Clause 8 further provides enhanced penalties for repeat offenders. This is not available under the present MOA.
+89. Clause 8 further provides enhanced penalties for repeat offenders. This is not available under the present MOA.
  
  
-90.                  Clause 9 empowers the Court to make Community Orders where appropriate. And that is new as well.
+90. Clause 9 empowers the Court to make Community Orders where appropriate. And that is new as well.
  
-91.                  For example, take Mandatory Treatment Orders (MTOs), which is a type of community order.
+91. For example, take Mandatory Treatment Orders (MTOs), which is a type of community order.
  
-92.                  Offenders who harass due to an underlying mental condition need help to resolve the root causes of their behaviour.
+92. Offenders who harass due to an underlying mental condition need help to resolve the root causes of their behaviour.
  
-93.                  MTOs allow such offenders to undergo psychiatric treatment in lieu of other criminal penalties.
+93. MTOs allow such offenders to undergo psychiatric treatment in lieu of other criminal penalties.
  
-94.                  This approach recognises that there are some people who are ill and it may be better to try and treat them rather than simply send them to jail.
+94. This approach recognises that there are some people who are ill and it may be better to try and treat them rather than simply send them to jail.
+
+
+<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
+<li>  Stalking</li>
+</ol>
+
+
+95. Fourth, the Bill introduces a new offence which is not found in current legislation – that of unlawful stalking.
+ 
+96. Stalking can be highly disruptive to the lives of many people, often in devastating ways.
+ 
+97. I will refer to two illustrations.
+ 
+98. First example, American singer Ms Leandra Ramm. She was terrorised by a Singaporean cyberstalker for 6 years.
+ 
+99. The man professed his love.  He showed his love by making numerous death threats to her.
+ 
+100. The Court sentenced him to 3 years’ imprisonment.  The Court said that his actions were a perverse form of “mental assault” and “emotional terrorism” and that the matter was an “abhorrent case of cross-border cyberstalking”.
+ 
+101. Second, Ms Joanne Lee, a local journalist, received countless voicemails and numerous unwanted gifts and letters from her harasser.
+ 
+102. She eventually quit her job because of the trauma and anxiety.
+ 
+103. In Ms Lee’s case, her harasser was eventually fined $4,000.
+ 
+104. I think we will agree that a fine is not an adequate response to the harrowing experience that Ms Lee and other victims of such persistent, unwanted attention go through.
+ 
+105. What they need is for the stalking to stop, immediately and permanently.
+ 
+106. Clause 7 seeks to address the problem of stalking head on.
+ 
+107. Instead of trying to look for existing legislation which may or may not cover all forms of stalking and which, even when you find it, does not give you adequate remedies, we seek to comprehensively deal with the issue of stalking, with the new proposed legislation. 
+ 
+108. Clause 7 criminalises a “course of conduct” related to stalking, and which has the effect of causing harassment, alarm or distress.
+ 
+109. Clause 7 revolves around the concept of a “course of conduct”.
+ 
+110. The ‘course of conduct’ referred to in Clause 7 will cover acts which may in themselves be innocuous, but which when done repeatedly, and especially where unwanted, may cause victims harassment, alarm and distress.
+ 
+111. Clause 7 is drawn from the UK’s Protection from Harassment Act 1997, as amended by its Protection from Freedoms Act 2012. It also takes inspiration from the Singapore Academy of Law (SAL) Law Reform Committee’s 2001 “Report on Proposed Legislation to Curb Stalking”.
+ 
+112. The Bill does not limit the type of acts or omissions associated with stalking.
+ 
+113. Clause 7(3) provides some examples of such acts or omissions, for example, following the victim or repeatedly sending unwanted gifts and letters and so on.
+ 
+114. Clause 7(5) further provides a list of factors to guide the Court in deciding whether a course of conduct is likely to cause harassment, alarm or distress, for example, frequency and duration of conduct.
+ 
+115. The lists in clauses 7(3) and 7(5) are not meant to be exhaustive or to limit the Court’s discretion.
+ 
+116. It is for the Court to determine whether conduct in each case amounts to an offence under clause 7.
+ 
+117. Clause 7 as drafted is not intended to apply to inconsiderate behaviour in the context of neighbour disputes, for example. That will have to be dealt through separate legislation, as announced by the Minister for MCCY.
+ 
+118. It also excludes legitimate courses of conduct, for example, sending of a letter of demand for money owed under a contract or actions by police in pursuance of their duties. Such conduct will continue to be lawful.
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Public Servants</li>
+</ol>
+
+
+119.    Fifth, clause 6 extends the existing protection for public servants to workers who deliver services that are essential for the well-being of the general public but who are not regarded as “public servants” under existing laws.
+ 
+120.               Examples will include public healthcare workers and public transport workers.
+ 
+121.               This is to better protect workers who provide essential public services against abuse.
+ 
+122.               The phrase “in relation to” the execution of the public servant or public service worker’s duty, which is a slight departure from the original s 13D, is intended to indicate that the offending conduct need not be committed during the performance of that duty, as long as it is committed in relation to the performance of that duty.
+ 
+123.               Those are the five points with regard to the criminal sanctions and penalties.
+
