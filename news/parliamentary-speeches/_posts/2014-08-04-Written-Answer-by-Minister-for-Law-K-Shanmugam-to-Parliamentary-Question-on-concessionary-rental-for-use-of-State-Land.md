@@ -10,7 +10,7 @@ permalink: /news/parliamentary-speeches/written-answer-by-minister-on-state-land
 
 **Mr Png Eng Huat, Hougang SMC**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law (a) what is the basis for giving Government institutions a concessionary rental to use state and reserve land for recreational and commercial activities; (b) which other Ministries benefited from such concessionary rentals; and (c) whether the land at the old Ministry of Defence and Central Manpower Base along Holland Road is still leased to the Ministry of Defence.
  
  
