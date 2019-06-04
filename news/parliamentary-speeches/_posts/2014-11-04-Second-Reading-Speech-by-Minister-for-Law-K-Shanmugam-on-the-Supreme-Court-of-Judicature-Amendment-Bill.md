@@ -11,7 +11,7 @@ Madam Speaker,
 
 1. I beg to move, ‘That the Bill be now read a second time’.
 
-<ol style="list-style-type: upper-roman">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Introduction</u></li>
 </ol>
 
