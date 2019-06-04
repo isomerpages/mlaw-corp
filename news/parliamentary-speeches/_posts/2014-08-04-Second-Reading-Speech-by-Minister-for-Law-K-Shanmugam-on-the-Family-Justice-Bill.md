@@ -319,4 +319,8 @@ to examine and assess the child or person so as to prepare expert evidence for t
 {:start="71"}
 71. Madam, I beg to move.
 
+[Fact Sheet (0.11MB)](/files/news/parliamentary-speeches/2014/08/Family Justice Fact Sheet.pdf)
+[Infographics on Family Justice Court (JPG, 0.64MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-FamilyCourt.jpg)
+[Infographics on Streamlined Court Processes (JPG, 0.63MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-CourtProcess.jpg)
+
 <p class="right-side-updated">Last updated on 06 Aug 2014</p> 
