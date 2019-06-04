@@ -124,7 +124,7 @@ Madam Speaker,
 25. Madam Speaker, I beg to move.
 
 
-[Factsheet to the Land Acquisition (Amendment) Bill (0.07MB)](/files/news/parliamentary_speeches/2014/08/Factsheet for LAA_2R_2014.pdf)
+[Factsheet to the Land Acquisition (Amendment) Bill (0.07MB)](/files/news/parliamentary-speeches/2014/08/Factsheet for LAA_2R_2014.pdf)
 
 
 <p class="right-side-updated">Last updated on 05 Aug 2014 </p> 
