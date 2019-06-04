@@ -29,7 +29,7 @@ Madam Speaker,
 </ol>
 
 </li>
-</ol
+</ol>
 
 {:start="4"}
 4. These amendments arose from the Ministry of Law’s regular review of the Act, and seek to enhance the operations of the Public Trustee. 
@@ -133,6 +133,7 @@ Madam Speaker,
 22. Madam Speaker, I beg to move.
 
 ---
+
 [Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/parliamentary_speeches/2014/11/Factsheet_PT Bill_2014.pdf)
 
 <p class="right-side-updated">Last updated on 03 Nov 2014</p> 
