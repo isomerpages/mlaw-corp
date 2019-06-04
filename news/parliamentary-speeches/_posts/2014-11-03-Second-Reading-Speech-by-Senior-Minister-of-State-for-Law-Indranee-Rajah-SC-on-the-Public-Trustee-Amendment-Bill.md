@@ -122,7 +122,7 @@ Madam Speaker,
 
 
 
-<ol start="6" style="list-style-tupe: upper-roman; font-weight:bold;">
+<ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Conclusion</li>
 </ol>
 
@@ -134,6 +134,6 @@ Madam Speaker,
 
 ---
 
-[Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/parliamentary_speeches/2014/11/Factsheet_PT Bill_2014.pdf)
+[Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/parliamentary_speeches/2014/11/Factsheet_PT Bill_2014.pdf )
 
 <p class="right-side-updated">Last updated on 03 Nov 2014</p> 
