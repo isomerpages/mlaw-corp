@@ -134,6 +134,6 @@ Madam Speaker,
 
 ---
 
-[Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/parliamentary_speeches/2014/11/Factsheet_PT Bill_2014.pdf )
+[Factsheet on the Public Trustee (Amendment) Bill (0.08MB)](/files/news/parliamentary-speeches/2014/11/Factsheet_PT Bill_2014.pdf )
 
 <p class="right-side-updated">Last updated on 03 Nov 2014</p> 
