@@ -51,15 +51,15 @@ Madam Speaker,
 7. The President of the SICC shall be the Chief Justice, unless he appoints a Judge of Appeal, a Judge of the High Court, a Senior Judge or an International Judge to be the President <a href="#president"><sup>2</sup></a>.
 
 <ol start="8">
-<li>The SICC will have jurisdiction to hear cases that can be heard by the High Court in its original civil jurisdiction, and are international and commercial in nature 3.
+<li>The SICC will have jurisdiction to hear cases that can be heard by the High Court in its original civil jurisdiction, and are international and commercial in nature <a href="#nature"><sup>3</sup></a>.
 <ol style="list-style-type: lower-alpha;">
 <li>The Rules of Court will set out the types of cases that are considered international and commercial in nature.</li>
-<li>For certainty, potential parties will have the option of applying for a pre-action certificate to certify that the intended action is international and commercial in nature 4.
+<li>For certainty, potential parties will have the option of applying for a pre-action certificate to certify that the intended action is international and commercial in nature <a href="#commercial"><sup>4</sup></a>.
 <ol style="list-style-type: lower-roman;">
 <li>The pre-action certificate may also certify such other matters as the Rules of Court may prescribe.</li>
 </ol>
 </li>
-<li>In addition, cases commenced in the SICC may be transferred to the High Court, and vice versa 5.
+<li>In addition, cases commenced in the SICC may be transferred to the High Court, and vice versa <a href="#versa"><sup>5</sup></a>.
 <ol style="list-style-type: lower-roman;">
 <li>This enables cases which would be more appropriately heard in the other Court to be transferred.</li>
 <li>The procedure and conditions for such transfer of cases will be set out in the Rules of Court.</li>
@@ -101,7 +101,7 @@ Madam Speaker,
 </li>  
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha; font-wieght:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
 <li>Jurisdiction of the SICC
 </li>  
 </ol>
@@ -174,17 +174,17 @@ Madam Speaker,
 [Factsheet on the Supreme Court of Judicature (Amendment) Bill (0.11MB)](/files/news/parliamentary-speeches/2014/11/Factsheet-Constitution Bill-2014.pdf)
 
 
-<p id="court"><sup>[1]</sup> Clause 7, new Section 18A.</p>
-<p id="president"><sup>[2]</sup> Clause 7, New Section 18B</p>
-<p id="nature"><sup>[3]</sup> Clause 7, New Section 18D</p>
-<p id="commercial"><sup>[4]</sup> Clause 7, New Section 18E </p>
-<p id="versa"><sup>[5]</sup> Clause 7, New Section 18J </p>
-<p id="judges"><sup>[6]</sup> Clause 7, New Section 18G </p>
-<p id="majority"><sup>[7]</sup> Clause 7, New Section 18H</p>
-<p id="rules"><sup>[8]</sup> Clause 7, New Section 18K</p>
-<p id="SICC"><sup>[9]</sup> Clause 13</p>
-<p id="experts"><sup>[10]</sup> Claus e7, New Section 18L</p>
-<p id="agreed"><sup>[11]</sup> Clause 7, New Clause 18F</p>
+<span id="court"><sup>[1]</sup> Clause 7, new Section 18A.</span>  
+<span id="president"><sup>[2]</sup> Clause 7, New Section 18B</span>  
+<span id="nature"><sup>[3]</sup> Clause 7, New Section 18D</span>  
+<span id="commercial"><sup>[4]</sup> Clause 7, New Section 18E </span>  
+<span id="versa"><sup>[5]</sup> Clause 7, New Section 18J </span>  
+<span id="judges"><sup>[6]</sup> Clause 7, New Section 18G </span>  
+<span id="majority"><sup>[7]</sup> Clause 7, New Section 18H</span>  
+<span id="rules"><sup>[8]</sup> Clause 7, New Section 18K</span>  
+<span id="SICC"><sup>[9]</sup> Clause 13</span>  
+<span id="experts"><sup>[10]</sup> Claus e7, New Section 18L</span>  
+<span id="agreed"><sup>[11]</sup> Clause 7, New Clause 18F</span>  
 
 
 
