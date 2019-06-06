@@ -7,8 +7,8 @@ permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-on-cy
 
 21 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 <br>  
-Er Dr Lee Bee Wah, Nee Soon GRC
-<br>
+**Er Dr Lee Bee Wah, Nee Soon GRC** 
+<br>  
 **<u>Question</u>**  
 To ask the Minister for Law if he can provide an update of the multi-Ministry review to tighten the laws and civil measures to curb cyberbullying.
 <br>  
