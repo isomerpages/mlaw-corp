@@ -26,7 +26,7 @@ Madam Speaker,
 4. The MACMA sets out various forms of assistance that Singapore may request from a foreign country, and vice versa. These forms of assistance range from arrangements for an individual to travel to a foreign country to give evidence, which is voluntary in nature; to assistance in search and seizure, which involves using a State’s domestic enforcement powers.
 
 {:start="5"}
-5. The MACMA signals Singapore’s commitment to combat crime on a global scale. This commitment is more relevant than ever today. With growing cross-border crime [1], the need for enhanced international criminal cooperation has also increased. Left unchecked, transnational crime will undermine the Rule of Law and global governance.
+5. The MACMA signals Singapore’s commitment to combat crime on a global scale. This commitment is more relevant than ever today. With growing cross-border crime <a href="#crime"><sup>[1]</sup></a>, the need for enhanced international criminal cooperation has also increased. Left unchecked, transnational crime will undermine the Rule of Law and global governance.
 
 {:start="6"}
 6. Madam Speaker, the Ministry periodically reviews the MACMA to study how Singapore can be more facilitative as a mutual legal assistance partner and at the same time, to ensure that Singapore continues to be armed with effective tools to combat transnational crime. In 2006, the MACMA was amended to dispense with the requirement for a mutual legal assistance treaty before Singapore can render assistance to a foreign country’s request when made appropriately. The legislative amendments tabled today represent further strides to enhance Singapore’s mutual legal assistance framework.
@@ -46,7 +46,7 @@ Madam Speaker,
 {:start="8"}
 8. I will now take the House through the main features of the Bill.
 
-<ol start="2" style=="list-style-type: upper-roman; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Remove the Dual Criminality requirement for selected types of assistance</li>
 </ol>
 
@@ -54,13 +54,13 @@ Madam Speaker,
 9. The first pertains to removing the Dual Criminality requirement for selected types of assistance. We have to calibrate the conditions which must be fulfilled before mutual legal assistance is rendered.  The current MACMA provisions impose a Dual Criminality requirement for all forms of mutual legal assistance. The proposed amendments remove the Dual Criminality requirement for those forms of mutual legal assistance which do not involve coercive forms of assistance. These are the types of assistance that neither attract penal consequences for non-compliance nor adversely affect the property rights of individuals. The Dual Criminality requirement will be retained for coercive forms of assistance.
 
 {:start="10"}
-10. Dual Criminality refers to a situation where the foreign offence involves conduct which, if it had occurred in Singapore, would have constituted a serious offence. [2] If it concerns conduct that is not listed as a serious offence in Singapore, there will be no Dual Criminality requirement for such conduct.
+10. Dual Criminality refers to a situation where the foreign offence involves conduct which, if it had occurred in Singapore, would have constituted a serious offence. <a href="#offence"><sup>[2]</sup></a> If it concerns conduct that is not listed as a serious offence in Singapore, there will be no Dual Criminality requirement for such conduct.
 
 {:start="11"}
 11. The general rationale for the Dual Criminality requirement is that a State should not use its powers to promote aims that are at odds with that State’s standards of acceptable behaviour and its view of what constitutes criminal conduct. It also protects individuals against the excessive exercise of power by one State in another sovereign State. And this is one of the legal safeguards built into the MACMA.
 
 {:start="12"}
-12. Under the existing MACMA, all foreign mutual legal assistance requests that do not satisfy the Dual Criminality requirement must automatically be rejected.
+12. Under the existing MACMA, all foreign mutual legal assistance requests that do not satisfy the Dual Criminality requirement must *automatically be rejected*.
 
 {:start="13"}
 13. The international practice of the Dual Criminality requirement varies across States. Some States adopt an approach similar to Singapore’s current regime while a few have dispensed with the requirement entirely. However, most leading jurisdictions, such as the United Kingdom, the United States, and Canada, have moved towards a more calibrated application of the Dual Criminality requirement. In these States, the Dual Criminality requirement still applies but it is confined only to requests involving coercive forms of assistance, for example, search and seizure requests, or requests to confiscate assets. The requirement is removed for forms of assistance which do not involve the use of their enforcement powers.
@@ -146,7 +146,7 @@ Madam Speaker,
 {:start="30"}
 30. Both of these amendments will allow Singapore to provide and obtain international mutual legal assistance for a wider scope of serious offences.
 
-<ol start="4" style="list-style-type: upper-roman; font-wieght:bold;">
+<ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
 <li>  Permit the enforcement of foreign confiscation orders where they apply to instrumentalities of all serious offences</li>
 </ol>
 
