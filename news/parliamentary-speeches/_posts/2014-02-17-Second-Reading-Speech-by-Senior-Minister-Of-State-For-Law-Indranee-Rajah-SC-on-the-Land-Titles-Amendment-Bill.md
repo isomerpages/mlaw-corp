@@ -15,9 +15,10 @@ Madam Speaker,
 <li><u> Introduction</u></li>
 </ol>
 
-
+{:start="2"}
 2. Madam Speaker, this Bill seeks to amend the Land Titles Act (LTA) to improve our laws on land administration, and for greater operational efficiency.
 
+{:start="3"}
 3. The amendments proposed in this Bill were arrived at after consultation with the relevant Government departments, the Law Society of Singapore, and experienced conveyancing lawyers and are also in response to public feedback.
 
 <ol start="4">
@@ -113,11 +114,11 @@ Madam Speaker,
 <li>When a caveat is lodged against a property and the property owner is of the view that it is frivolous or vexatious, the property owner must file a statutory declaration with the Registrar of Titles to that effect; </li>
 <li>The Registrar will allow the caveat to remain if the caveator is able to: 
 
-<ul>
+<ol style="list-style-type: lower-roman">
 <li>produce documentary evidence to show that he has an interest in the property; or </li>
 <li>obtain a court order for the caveat to be retained. </li>
 
-</ul>
+</ol>
 
 
 </li>
