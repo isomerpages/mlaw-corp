@@ -410,6 +410,11 @@ $desktop: 960px + (2 * $gap) !default;
 	
 }
 
+/* class to use when the item of an ordered list need to have decimal place */
+.sub-list ol { counter-reset: item }
+.sub-list li { display: block }
+.sub-list li p:before {content: counters(item,".")". "; counter-increment: item}
+
 /* class to use when center align video element */
 .video-centered{
  margin-left: auto;
@@ -418,12 +423,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 }
 
-/* quick fix for links with long name    */
-/*
-.link-long-name::before{
-  top: -19px !important;	
-}	
-*/
+
 
 .hero-dropdown {
   display: flex;
