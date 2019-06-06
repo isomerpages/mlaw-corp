@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Licensed Moneylenders
+title: Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Licensed Moneylenders
 date:   2014-07-07
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-licensed-moneylenders-july-2014
 ---
