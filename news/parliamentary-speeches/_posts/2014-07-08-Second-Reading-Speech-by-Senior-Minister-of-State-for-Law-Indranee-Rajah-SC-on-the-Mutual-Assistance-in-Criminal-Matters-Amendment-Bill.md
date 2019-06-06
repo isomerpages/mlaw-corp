@@ -57,7 +57,7 @@ Madam Speaker,
 10. Dual Criminality refers to a situation where the foreign offence involves conduct which, if it had occurred in Singapore, would have constituted a serious offence. <a href="#offence"><sup>[2]</sup></a> If it concerns conduct that is not listed as a serious offence in Singapore, there will be no Dual Criminality requirement for such conduct.
 
 {:start="11"}
-11. The general rationale for the Dual Criminality requirement is that a State should not use its powers to promote aims that are at odds with that State’s standards of acceptable behaviour and its view of what constitutes criminal conduct. It also protects individuals against the excessive exercise of power by one State in another sovereign State. And this is one of the legal safeguards built into the MACMA.
+11. The general rationale for the Dual Criminality requirement is that a State should not use its powers to promote aims that are at odds with that State’s standards of acceptable behaviour and its view of what constitutes criminal conduct. It also protects individuals against the excessive exercise of power by one State in another sovereign State. And this is one of the *legal safeguards* built into the MACMA.
 
 {:start="12"}
 12. Under the existing MACMA, all foreign mutual legal assistance requests that do not satisfy the Dual Criminality requirement must *automatically be rejected*.
@@ -98,7 +98,7 @@ Madam Speaker,
 18. In addition, the Bill seeks to amend and clarify the application of the Dual Criminality requirement for coercive forms of assistance with respect to foreign tax evasion offences.
 
 {:start="19"}
-19. In respect of foreign requests for a court order to produce information or items <a href="#items"><sup>[10]</sup></a> , Dual Criminality will not apply if the act or omission underlying a tax evasion offence falls within the act or omission prescribed under the MACMA .
+19. In respect of foreign requests for a court order to produce information or items <a href="#items"><sup>[10]</sup></a> , Dual Criminality will not apply if the *act or omission underlying a tax evasion offence falls within the act or omission prescribed under the MACMA*.
 
 {:start="20"}
 20. When Singapore designated tax evasion offences as money laundering predicate offences last year, the aim was to allow mutual legal assistance to be rendered in cases of wilful or fraudulent tax evasion.  However, owing to the different types and names of taxes imposed in Singapore and overseas, there is some legal uncertainty about whether the dual criminality requirement would prevent Singapore from rendering assistance where there is clearly wilful or fraudulent tax evasion but the foreign tax evaded (e.g. capital gains tax) is not a tax that is imposed in Singapore. 
