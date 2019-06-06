@@ -235,7 +235,7 @@ Madam Speaker,
 59. And the fact is that our existing civil remedies and self-help avenues are also limited.
 
 {:start="60"}
-60. The High Court’s recent decision in AXA Insurance [Singapore Pte Ltd v Chandran s/o Natesan [2013] 4 SLR 545] and its earlier decision in Malcomson [Nicholas Hugh Bertram and another v Mehta Naresh Kumar [2001] 3 SLR(R) 379] cast doubt as to whether one can even bring a civil action for harassment in Singapore.
+60. The High Court’s recent decision in *<u>AXA Insurance</u> [Singapore Pte Ltd v Chandran s/o Natesan* [2013] 4 SLR 545] and its earlier decision in *<u>Malcomson</u> [Nicholas Hugh Bertram and another v Mehta Naresh Kumar* [2001] 3 SLR(R) 379] cast doubt as to whether one can even bring a civil action for harassment in Singapore.
 
 {:start="61"}
 61. Other forms of private action, e.g. nuisance, assault, battery and so on also have obvious limitations.
@@ -620,7 +620,7 @@ Madam Speaker,
 <ol start="155">
 <li> What this legislation does is to make this clear, that it is harassment, regardless of the means in which it is committed, whether online or offline. And then if you can prove harassment i.e. illegal conduct, then you will get a set of remedies to try and deal with the illegal conduct.
 <ol>
-<li><u>  Grant of POs and EPOs</u></li>  
+<li style="list-style-type: none"><u>  Grant of POs and EPOs</u></li>  
 </ol>
 </li>  
 </ol>
@@ -756,7 +756,7 @@ Madam Speaker,
 <ol start="189">
 <li>  This will allow readers to access the truth.
 <ol>  
-<li><u><i>Grant of Court Order</i></u></li>  
+<li style="list-style-type: none"><u><i>Grant of Court Order</i></u></li>  
 </ol>  
 </li>  
 </ol>
@@ -765,7 +765,7 @@ Madam Speaker,
 <ol start="190">
 <li>  It is really for the Court to decide when it would be just and equitable for a court order to be made, and in what form that order should be made.
 <ol>  
-<li> <u><i>Against whom the order is made</i></u></li>
+<li style="list-style-type: none"> <u><i>Against whom the order is made</i></u></li>
 </ol>
 </li>  
 </ol>
