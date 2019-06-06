@@ -229,7 +229,7 @@ to examine and assess the child or person so as to prepare expert evidence for t
 <ol start="51">
 <li>  To this end, we will be putting in place:
 
-<ol style="list-style-tupe: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>A differentiated case management process;</li>
 <li>A judge-led approach to adjudicating family disputes; and</li>
 <li>Simplified and streamlined court processes.</li>
@@ -319,8 +319,8 @@ to examine and assess the child or person so as to prepare expert evidence for t
 {:start="71"}
 71. Madam, I beg to move.
 
-[Fact Sheet (0.11MB)](/files/news/parliamentary-speeches/2014/08/Family Justice Fact Sheet.pdf)
-[Infographics on Family Justice Court (JPG, 0.64MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-FamilyCourt.jpg)
-[Infographics on Streamlined Court Processes (JPG, 0.63MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-CourtProcess.jpg)
+[Fact Sheet (0.11MB)](/files/news/parliamentary-speeches/2014/08/Family Justice Fact Sheet.pdf)  
+[Infographics on Family Justice Court (JPG, 0.64MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-FamilyCourt.jpg)  
+[Infographics on Streamlined Court Processes (JPG, 0.63MB)](/files/news/parliamentary-speeches/2014/08/Minlaw-CourtProcess.jpg)  
 
 <p class="right-side-updated">Last updated on 06 Aug 2014</p> 
