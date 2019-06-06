@@ -79,16 +79,16 @@ the protected plant variety.
 <li>The current list of plant genera and species covers specific plants from:
 <ol style="list-style-type: lower-alpha">
 <li> the Orchid family; e.g. Dendrobium and Phalaenopsis;
-<img src="/images/news/parliamentary-speeches/Dendrobium%20Orchid.png" alt="Dendrobium">
+<img src="/images/news/parliamentary-speeches/Dendrobium%20Orchid.png" alt="Dendrobium" style="width:230px;height:197px;">
 </li>
 
 <li>  the Aquatic plants and Ornamentals group; e.g. Heliconias; and
-<img src="/images/news/parliamentary-speeches/Heliconia.png" alt="Heliconia">
+<img src="/images/news/parliamentary-speeches/Heliconia.png" alt="Heliconia" style="width:198px;height:281px;">
 </li>
 
 <li>
 the Vegetables group; e.g. Baicai and Caixin.
-<img src="/images/news/parliamentary-speeches/Bai%20cai.png" alt="Baicai">
+<img src="/images/news/parliamentary-speeches/Bai%20cai.png" alt="Baicai" style="width:204px;height:139px;">
 </li>
 
 
@@ -111,8 +111,8 @@ the Vegetables group; e.g. Baicai and Caixin.
 
 <ol start="18">
 <li>With your permission, Mdm Speaker, may I display some slides/photos of the “Jatropha curcas” on the LED screens.</li>
-<img src="/images/news/parliamentary-speeches/Oil%20bearing%20fruits.png" alt="Jatropha curcas">
-<img src="/images/news/parlimentary-speeches/Plant%20in%20flowering%20stage.png" alt="Jatropha curcas">
+<img src="/images/news/parliamentary-speeches/Oil%20bearing%20fruits.png" alt="Jatropha curcas" style="width:236px;height:163px;">
+<img src="/images/news/parliamentary-speeches/Plant%20in%20flowering%20stage.png" alt="Jatropha curcas" style="width:238px;height:204px;">
 </ol>
 
 {:start="19"}
