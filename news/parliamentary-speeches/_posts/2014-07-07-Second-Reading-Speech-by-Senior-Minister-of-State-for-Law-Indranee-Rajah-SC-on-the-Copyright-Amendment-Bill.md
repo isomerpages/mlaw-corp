@@ -121,7 +121,7 @@ Mr Deputy Speaker,
 {:start="23"}
 23. To facilitate the distribution of such copies internationally, the Bill further allows institutions in Singapore, such as the Singapore Association of the Visually Handicapped and the Lighthouse School, to make copies for the purposes of exporting them.
 
-<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u> Online Piracy</u></li>
 </ol>
 
@@ -184,7 +184,7 @@ Mr Deputy Speaker,
 <li>    Existing Framework</li>
 </ol>
 
-<u><<i>Notice and Take Down Regime</i>/u>
+<u><i>Notice and Take Down Regime</i></u>
 
 {:start="42"}
 42. First, rights holders can request network service providers to disable access to or remove copyright infringing material from its network.
