@@ -370,13 +370,400 @@ Madam Speaker,
 </ol>
 
 
-119.    Fifth, clause 6 extends the existing protection for public servants to workers who deliver services that are essential for the well-being of the general public but who are not regarded as “public servants” under existing laws.
+119. Fifth, clause 6 extends the existing protection for public servants to workers who deliver services that are essential for the well-being of the general public but who are not regarded as “public servants” under existing laws.
  
-120.               Examples will include public healthcare workers and public transport workers.
+120. Examples will include public healthcare workers and public transport workers.
  
-121.               This is to better protect workers who provide essential public services against abuse.
+121. This is to better protect workers who provide essential public services against abuse.
  
-122.               The phrase “in relation to” the execution of the public servant or public service worker’s duty, which is a slight departure from the original s 13D, is intended to indicate that the offending conduct need not be committed during the performance of that duty, as long as it is committed in relation to the performance of that duty.
+122. The phrase “in relation to” the execution of the public servant or public service worker’s duty, which is a slight departure from the original s 13D, is intended to indicate that the offending conduct need not be committed during the performance of that duty, as long as it is committed in relation to the performance of that duty.
  
-123.               Those are the five points with regard to the criminal sanctions and penalties.
+123. Those are the five points with regard to the criminal sanctions and penalties.
 
+
+<ol start="6" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Other observations</li> 
+</ol>
+
+
+124. Conduct falling under the Bill may also amount to offences under other Acts, for example, criminal intimidation (s 506 of the Penal Code), racially or religiously linked offences (ss 298 and 298A of the Penal Code) or sexual grooming (s 376E of the Penal Code)
+ 
+125. Offences under the Bill will apply to acts committed outside Singapore, under certain conditions.
+ 
+126. This is to address the ease with which acts of harassment may be pursued using electronic means, transcending territorial borders, e.g. by mobile phone, over the Internet.
+
+
+
+<ol start="127">
+<li>Take stalking as an example:
+
+<ol style="list-style-type: lower-alpha">
+
+
+<li>Offender could be overseas </li>
+<li>Offender could commit acts of stalking against victim </li>
+<li>Victim is in Singapore </li> 
+  
+</ol>
+  
+  
+</li>  
+</ol>
+
+128. Under clause 17, if the offender knew or had reason to believe that the victim would be in Singapore at the time the acts were committed, the Court will have jurisdiction over the matter.
+ 
+129. There was consensus at the IPS Conference that our harassment laws should apply, even where the offender is overseas, so long as the harm is felt by the victim in Singapore.
+ 
+130. Under the Bill, offenders ordinarily outside Singapore too cannot escape liability simply because the acts of harassment were committed overseas, as long as the harm is caused to the victim in Singapore.
+ 
+131. In a similar vein, offenders in Singapore who commit acts of harassment against victims who are outside of Singapore will also not be able to escape liability.
+
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
+<li> PART III OF THE BILL – SELF-HELP AND CIVIL REMEDIES</li>  
+</ol>
+
+
+132. Let me now turn next to avenues for self-help and civil remedies under the Bill.
+ 
+133. Again there are five aspects which I will highlight.
+
+<ol style="list-style-type: upper-alpha; font-weight: bold;">
+<li> Abolishing the common law tort of harassment</li>
+</ol>
+
+134. First, clause 14 abolishes the common law tort of harassment. All actions for harassment will be covered under this new legislation.
+ 
+135. This clarifies the uncertainty arising from the two High Court decisions, AXA Insurance and Malcomson, as to whether there is a course of action under the common law tort of harassment in Singapore.
+
+<ol start="2" style="list-style-type: upper-alpha; font-weight: bold;">
+<li> Damages</li>
+</ol>
+
+
+136. Second, clause 11 will create a statutory right to bring an action for damages against a person who has contravened any of clauses 3, 4, 5, or 7.
+ 
+137. So apart from criminal sanctions, the victim can sue and claim damages against the perpetrator. 
+ 
+138. Damages are however not recoverable where clause 6 is contravened as the harm results to the victim in his capacity as a public servant or public service worker.
+ 
+139. However, damages will still be recoverable if the same acts also contravene clauses 3, 4, 5 or 7.
+ 
+140. Such damages will be quantified by the courts in accordance with existing common law principles.
+
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>  Protection Order and Expedited Protection Order</li>
+</ol>  
+
+
+141. Third, victims of harassment and related anti-social behaviour under clauses 3 to 7 may apply to the Court for a Protection Order (“PO”) under clause 12.
+ 
+142. So to explain to members, this is the kind of architecture that the new law encompasses.
+ 
+143. Earlier, as I said, clauses 3 to 6 exist under current law, clause 7 stalking is new, but the remedies that the victim can get were very limited. Now, for example, we are looking at POs and Expedited Protection Order (EPO). 
+ 
+144. The purpose of the PO is to protect victims from further harassment.
+
+
+<ol start="145">
+<li>In this context, we also took reference from the 2001 SAL Law Reform Committee’s Report on Stalking.
+<ol>
+<li style="list-style-type: none;"><u><i>Effect of POs</i></u></li>  
+</ol>
+</li>  
+</ol>
+
+<ol start="146">
+<li>What is the effect of the PO? Such an order may require harassers to:
+<ol style="list-style-type: lower-alpha">
+<li>First, desist from doing that which is stated in the order, for example, stop sending the unwanted gifts or loitering outside the victim’s house. </li>
+ 
+<li>Second, remove harassing publications and other forms of communication, if these were the cause of the harassment, for example, to remove a nude photograph of the victim which the harasser had uploaded on an online forum without the victim’s consent. </li>
+ 
+<li>Third, require the harasser to attend counselling or mediation. </li>  
+</ol>  
+</li>  
+</ol>
+
+
+147. Where harassment arose from published communication, POs may also require third parties, e.g. a publisher or website administrator, in addition to harassers, to remove the offending communication.
+ 
+148. This seeks to address the nature of online communication, especially over the Internet.
+ 
+149. These measures are in line with public sentiment.
+ 
+150. As I have stated earlier, 83% of those polled by REACH support tougher measures to deal with harassment both online and offline.
+ 
+151. They are in favour of giving courts powers to order that online comments be taken down if they amount to harassing conduct.
+ 
+152. The overwhelming public view is that if the harasser does not take those comments down, the courts should be given the power to do so.
+ 
+153. The PO achieves this result.
+ 
+154. Obviously the underlying point is that the conduct must amount to harassment. And harassment is not a new concept; it already exists in our law.
+
+<ol start="155">
+<li> What this legislation does is to make this clear, that it is harassment, regardless of the means in which it is committed, whether online or offline. And then if you can prove harassment i.e. illegal conduct, then you will get a set of remedies to try and deal with the illegal conduct.
+<ol>
+<li><u>  Grant of POs and EPOs</u></li>  
+</ol>
+</li>  
+</ol>
+
+<ol start="156">
+<li> POs will be granted where
+<ol style="list-style-type: lower-alpha">
+<li>Clauses 3, 4, 5, 6 or 7 have been contravened, or if any one of them has been contravened; </li>
+<li>The contravention is likely to continue, or the respondent is likely to commit a contravention; and </li>
+<li>It is “just and equitable” in the circumstances to do so. </li>  
+  
+</ol>  
+</li>  
+</ol>
+
+
+157. So what orders we make will really depend on the court, and looking at the facts and circumstances of each case.
+
+
+158. In cases of urgency, the Court may grant an EPO under clause 13 against harassers and third parties, as the case may be.
+ 
+159. The effect of EPOs is similar to that of POs, which I explained earlier.
+ 
+160. EPOs can be granted where the offending conduct is likely to have a “substantial adverse effect on the victim or the victim’s day-to-day activities”.
+
+<ol start="161">
+<li>Examples of such effect could be:
+<ol style="list-style-type: lower-alpha">  
+<li> Changing routes to work, work patterns or daily routine, if the victim is forced to change how they go to work</li>
+<li>Putting in place additional security measures in their home </li>
+<li>Moving out of his or her home </li>
+<li>The victim is forced to or withdraws from social interaction</li>
+</ol>
+</li>  
+</ol>
+
+
+162. And of course the courts have to see if the victim is behaving unreasonably or whether indeed the conduct amounts to harassment vis-à-vis a reasonable person.
+ 
+163. This is not an exhaustive list.
+ 
+ 
+164. The absence of any of the types of conduct or changes of patterns of conduct that I outlined does not necessarily mean that an EPO may not be granted. It really depends on the facts in each case and the approach we have taken in the Bill is to give discretion to the courts. That is how our laws have always worked.
+ 
+165. To help laypersons navigate the court process without involving lawyers, it is our intention that POs and EPOs will be governed by a set of simplified court procedures and court forms.
+ 
+166. One of the comments that repeatedly came up from the Conference and following the Conference, is that going to lawyers, going to courts, both take time and money. Often the victims will not be in the position to do so and they are very mindful of this.
+ 
+167. This is really focusing on the man on the street, woman on the street, who is harassed and victimised.
+ 
+168. Therefore, we will try and make sure a set of processes are put in place, which will simplify applications to court, as far as possible, even without the need for lawyers. We will have expedited processes in the courts which can give this remedy immediately within a day, two days, sometimes.   
+
+
+<ol start="169">
+<li>  Victims should not be frustrated by the process in their bid to seek redress.
+<ol>
+<li style="list-style-type: none"><u><i>Breach of POs and EPOs</i></u></li>  
+</ol>  
+</li>  
+</ol>
+
+
+170. A severe approach will be taken towards breaches of POs and EPOs.
+ 
+171. The Bill criminalises such breaches (save for breaches of an order to attend counselling or mediation).
+ 
+172. Breaches of such orders will amount to offences under clause 10 and may attract a fine or an imprisonment or both.
+ 
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>False statements of fact</li>
+</ol>
+
+
+
+173. Fourth, in striking the balance between legislation, criminalising the conduct and self-help, getting recourse through criminal law or claim for damages through a civil claim, we shouldn’t make those the only avenues
+ 
+174. It shouldn’t be the case that every time a person is harassed, or experiences a wide range of conduct that amounts to harassment, the victim is forced to always either go and file a criminal complaint or make a civil claim.
+ 
+175. There are many victims who will feel that as long as there is some redress, without having to claim damages, they would be satisfied because their feelings of alarm or distress would be settled as long as the truth is set out.
+ 
+176. We should really give people the ability to help themselves and try and sort out matters themselves where possible.
+ 
+177. Take attacks against someone involving lies, untruths or inaccuracies about someone.
+ 
+178. 75% of those polled by REACH were of the view that such conduct should be treated as harassment.
+ 
+179. Our view is that we shouldn’t criminalise all such conduct. We should keep to the definition of harassment which already exists in the law and simply give greater remedies - to be criminal, the conduct must fall under the categories in clauses 3 to 7, which I have also explained - and not change the law, except to update it as I have explained,
+ 
+180. If there are falsehoods, and let’s say there’s harassment or it’s borderline harassment, or maybe nearly harassment, or not harassment, then we give the victim the right to request, to ask the relevant parties, that the falsehood be corrected, maybe through clarification of replies, which set out the correct facts.
+ 
+181. Some victims of harassment may well choose that route instead of having to make a complaint, like I said earlier, or claim damages. They just want the truth to be out and they don’t want to escalate the matter further. We should allow that.
+ 
+182. So it’s a matter of providing remedies rather than having to go to the criminal and civil law all the time and make claims.
+ 
+183. Of course, if the offending party or websites refuse to carry the clarification or the response or the correction or the notation that the true facts can be found somewhere else, or the victim’s reply is not able to get the same level of visibility as the falsehood, the law should provide some recourse.
+ 
+184. Going back to public opinion, 82% of those polled by REACH felt that people should have a legal right to require that factual inaccuracies about themselves should be corrected.
+ 
+185. This is the thinking behind cl 15.
+ 
+186. But there will be no claim for damages or criminal sanctions. If you choose not to file a criminal complaint, if you choose not to make a civil claim, if you choose to clarify in some form, then that’s all you will get. You don’t get money, you don’t get to send the other person to jail.
+ 
+187. A simple process, self-help, can apply to a range of situations but you must prove or show that there was a false statement of fact. 
+ 
+188. Cl 15 therefore allows the subject of the falsehood to apply for a court order that will give the Court the discretion to make an order for the publication, for example, a notification that draws attention to the falsehood and the publication of the correct facts. 
+
+
+<ol start="189">
+<li>  This will allow readers to access the truth.
+<ol>  
+<li><u><i>Grant of Court Order</i></u></li>  
+</ol>  
+</li>  
+</ol>
+
+
+<ol start="190">
+<li>  It is really for the Court to decide when it would be just and equitable for a court order to be made, and in what form that order should be made.
+<ol>  
+<li> <u><i>Against whom the order is made</i></u></li>
+</ol>
+</li>  
+</ol>
+
+
+191. Clause 15 not intended to apply to mere conduits such as Network Service Providers, or search engines.
+ 
+192. However, content providers which have some degree of control over the content published on their website could be subject to a clause 15 order.
+
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold;">
+<li>Provisions to address the challenges of modern day technology</li>  
+</ol>
+
+
+{:start="193"}
+193. Finally, I would like to highlight two arrangements which have been introduced to address specific challenges associated with cyber space, which make harassment and perpetuating falsehoods easier, and in some ways more egregious. These are anonymity, as well as the borderless and viral nature of online publications
+
+{:start="194"}
+194. These apply only to harassment or falsehoods arising from published communications, for example over the Internet, under clauses 12 (POs), 13 (EPOs) and 15 (notification orders).
+
+<ol start="195">
+<li> I will refer in this context to the party putting out the offending communication in clauses 12, 13 and 15 as the publisher.
+<ol>
+<li style="list-style-type: none"><u><i>Anonymity</i></u></li>  
+</ol>  
+</li>  
+</ol>
+
+{:start="196"}
+196. First, anonymity in cyber space often emboldens one to pepper online discussions with abuse, insults, rumors, lies and untruths.
+ 
+197. Many say things which they would otherwise not utter in the physical world. For example telling a mother that her baby should be euthanised.
+ 
+198. Clause 19 therefore provides that if the identity of the publisher cannot be ascertained, rules may be made for such persons to be identified by a unique identifier, for example, Internet location address, website, username or account, or electronic mail address.
+ 
+199. Thus, it is not necessary for victims to discover the real name of a publisher before applications for protection orders or notification orders can be made.
+ 
+200. The aim is to prevent publishers from hiding behind the cloak of anonymity.
+
+<ol start="201">
+<li>  Clause 19 is drawn from  Nova Scotia’s Cyber-Safety Act 2013.
+<ol>
+<li style="list-style-type: none"><u><i>Borderless and viral nature of online publications</i></u></li>  
+</ol>
+  
+</li>  
+</ol>
+
+
+202. Second, to address the borderless and viral nature of online publications, the Court may grant POs, EPOs and clause 15 orders which are good against all publishers.
+
+<ol start="203">
+<li>Take the example of the harasser who uploads a nude photograph of the victim on an online forum.
+<ol style="list-style-type: lower-alpha">
+<li>Say the victim has gone to court and obtained a PO requiring the harasser to remove the photograph. </li>
+ 
+<li> After the PO was granted, the victim discovers that other persons, say “Jane” and “Peter”, have also re-posted her nude photograph on other online platforms. </li>
+
+<li>The same PO will also now require “Jane” and “Peter” to remove the nude photographs which they had re-posted on those other platforms as well. The victim does not have to go back to court to obtain another PO. </li>
+</ol>
+</li>  
+</ol>
+
+
+204.These orders will bind publishers such as “Jane” and “Peter” if they are aware of the terms of the orders.
+
+<ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
+<li>CONCLUSION</li>  
+</ol>
+
+<ol start="205">
+<li>Madam Speaker, to sum up, what we are really doing today, is to:
+
+<ol style="list-style-type: lower-alpha">
+<li> Look at the consequences to victims;</li>  
+<li>Ask whether those consequences – that threat, abuse, alarm, distress, etc – need to be protected against; and</li>  
+<li>  Decide for ourselves the extent to which the law should intervene and give remedies, or whether we should just leave the situation alone.</li>
+</ol>
+  
+</li>  
+</ol>
+
+206. Anti-social and disruptive behaviour, if left unchecked, will strike at the heart and foundations of our society, and the concept of the rule of law.
+
+
+<ol start="207">
+<li>Public opinion is strong and clear:
+
+<ol style="list-style-type: lower-alpha">
+  <li>Harassment is not acceptable. </li>
+
+
+<li>We must do something about it. </li>
+
+
+<li>The law must deal firmly with those who harass others. </li>
+
+
+</ol>  
+  
+</li>
+</ol>
+
+{:start="208"}
+208. We responded with a Bill that provides a calibrated and graduated response to harassing conduct so as to better protect our people from harassment and related anti-social behaviour.
+
+
+<ol start="209">
+<li> Our thinking underlying the Bill is as follows:
+<ol style="list-style-type: lower-alpha">  
+<li>   As far as possible, we keep the strong arm of the law to the background.</li>
+<li> But where it is serious, civil and criminal remedies must be applicable.</li>
+</ol>
+  
+  
+
+</li>  
+</ol>
+
+210. More fundamentally, harassment cannot be dealt with by legislation alone.
+ 
+211. Ultimately, it also has to be addressed by cultivating community norms and public education on what is socially acceptable behaviour.
+ 
+212. If everyone frowns upon a particular type of behaviour, that will cast a powerful norm without even having to resort to the law.
+ 
+213. The Bill provides a legislative framework which sets standards and can be the basis on which such norms can be cultivated.
+ 
+214. Conferences such as the Cyber Wellness Student Ambassador Programme of 2014, where students learn how to have a positive online presence by creating meaningful and responsible relationships online, and the Media Literacy Council’s Safer Internet Day Campaign 2014, a campaign to encourage Singaporeans to pledge what we can do to make a better internet, are a good start.
+ 
+215. We should try and ensure that our children grow up in a stable and safe environment, free from bullying by peers and discrimination.
+ 
+216. Our people, women and men alike, should be free from intimidating, hostile, abusive environments, be it at home or in the workplace.
+ 
+217. The Bill is about these, trying to create those norms, and putting in place a framework for criminalising conduct which is unacceptable.
+ 
+218. What we have tried to do is to take it from existing legislation and draw reference from legislation, that is in the works.
+ 
+219. Madam Speaker, I beg to move.
+
+
+<p class="right-side-updated">Last updated on 27 Jan 2015</p> 
