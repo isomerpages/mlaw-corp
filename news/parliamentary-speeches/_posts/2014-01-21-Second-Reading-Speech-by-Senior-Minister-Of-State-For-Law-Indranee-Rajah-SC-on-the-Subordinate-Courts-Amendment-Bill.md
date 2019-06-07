@@ -13,6 +13,10 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-subordinate-cou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Dy3W2XBY6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+<p class="right-side-updated"><a href="#translation">See also: Translation of key terms</a></p>
+
+
 Madam Speaker,
 
 1. I beg to move, ‘That the Bill be now read a second time’. 
@@ -236,7 +240,7 @@ Madam Speaker,
 
 ---
 
-*Note : Please refer to translation of key terms below*  
+<p id="translation"><i>Note : Please refer to translation of key terms below</i></p>  
 <table class="table-h">
 <tr>
 <td>Chinese</td>
