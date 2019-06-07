@@ -58,9 +58,9 @@ Changes have also been introduced to allow SLs working in a SLP to hold executiv
  </p></li>
 </ol>
     
-<span><a href="/files/news/press-releases/2012/05/linkclick26a0.pdf">Annex A - Development and Expansion Incentive (DEI (0.1NB)</a></span>  
-<span><a href="/files/news/press-releases/2012/05/linkclickca18.pdf">Annex B - Information Brief (0.17MB)</a></span>   
-<span><a href="/files/news/press-releases/2012/05/linkclick0707.pdf">Annex C - Legislation (0.1MB)</a></span>   
+<p><a href="/files/news/press-releases/2012/05/linkclick26a0.pdf">Annex A - Development and Expansion Incentive (DEI (0.1NB)</a></p>    
+<p><a href="/files/news/press-releases/2012/05/linkclickca18.pdf">Annex B - Information Brief (0.17MB)</a></p>     
+<p><a href="/files/news/press-releases/2012/05/linkclick0707.pdf">Annex C - Legislation (0.1MB)</a></p>   
     
 </div>
 
