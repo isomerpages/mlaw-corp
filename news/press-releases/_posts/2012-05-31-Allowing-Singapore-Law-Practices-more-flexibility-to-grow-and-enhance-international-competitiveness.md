@@ -11,7 +11,7 @@ collection_name: news
 
 <div class="sub-list">
 <p>31 May 2012 Posted in <a href="/news/press-releases">Press releases</a></p>            
-<strong>Introduction</strong>        
+<p><strong>Introduction</strong></p>        
 <ol>
 <li><p>In February 2012, the Ministry of Law (MinLaw) announced that a package of measures  would be implemented in the second quarter of the year to give Singapore Law Practices (SLPs) greater flexibility to develop and grow their capabilities, and collaborate with Foreign Law Practices (FLPs), to enhance their competitiveness.</p></li>
 <li><p>  The legislative changes to give effect to these changes will come into effect on <u><strong>1 June 2012</strong></u>. They are summarised below:</p>   
@@ -58,9 +58,9 @@ Changes have also been introduced to allow SLs working in a SLP to hold executiv
  </p></li>
 </ol>
     
-<a href="/files/news/press-releases/2012/05/linkclick26a0.pdf">Annex A - Development and Expansion Incentive (DEI (0.1NB)</a>
-<a href="/files/news/press-releases/2012/05/linkclickca18.pdf">Annex B - Information Brief (0.17MB)</a>   
-<a href="/files/news/press-releases/2012/05/linkclick0707.pdf">Annex C - Legislation (0.1MB)</a>   
+<span><a href="/files/news/press-releases/2012/05/linkclick26a0.pdf">Annex A - Development and Expansion Incentive (DEI (0.1NB)</a></span>  
+<span><a href="/files/news/press-releases/2012/05/linkclickca18.pdf">Annex B - Information Brief (0.17MB)</a></span>   
+<span><a href="/files/news/press-releases/2012/05/linkclick0707.pdf">Annex C - Legislation (0.1MB)</a></span>   
     
 </div>
 
