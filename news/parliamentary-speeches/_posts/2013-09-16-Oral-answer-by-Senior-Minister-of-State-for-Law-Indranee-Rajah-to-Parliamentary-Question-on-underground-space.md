@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-underground-space
 16 Sep 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 
-<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__619416_640x360_700k.mp4" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__619416_640x360_700k.jpg" controls="controls ></video>
+<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__619416_640x360_700k.mp4" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__619416_640x360_700k.jpg" controls="controls" ></video>
 
 **Mr Liang Eng Hwa, Holland-Bukit Timah GRC**
 
