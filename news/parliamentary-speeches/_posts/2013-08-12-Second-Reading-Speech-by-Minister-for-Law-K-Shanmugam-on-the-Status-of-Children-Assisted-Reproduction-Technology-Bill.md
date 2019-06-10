@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/2R-speech-on-SOC
 
 12 Aug 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__68c467_640x360_700k.mp4/playlist.m3u8" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__68c467_640x360_700k.jpg" controls="controls ></video>
+<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__68c467_640x360_700k.mp4/playlist.m3u8" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__68c467_640x360_700k.jpg" controls="controls"></video>
 
 Mr Speaker,
 
