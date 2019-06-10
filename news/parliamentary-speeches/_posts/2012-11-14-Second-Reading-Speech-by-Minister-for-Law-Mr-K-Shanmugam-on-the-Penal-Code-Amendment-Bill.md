@@ -96,7 +96,7 @@ Mr Speaker, Sir
 **<u>Law reform</u>**
 
 {:start="16"}
-16. Sir, in this process, of changing our laws we have consulted a number of academics and criminal law practitioners. Their names are set out at  [Annex A](//). We are grateful for their contributions.
+16. Sir, in this process, of changing our laws we have consulted a number of academics and criminal law practitioners. Their names are set out at  <a href="#annex">Annex A</a>. We are grateful for their contributions.
 
 **<u>Transitional provisions</u>**
 
@@ -132,6 +132,6 @@ Mr Speaker, Sir
 {:start="20"}
 20. Sir, I beg to move.
 
-[Annex A: Names of lawyers and academics consulted](//)
+<a href="/files/news/parliamentary-speeches/2012/04/Annex A: Names of lawyers and academics consulted">Annex A: Names of lawyers and academics consulted(0.05MB)</a>
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p> 
