@@ -11,17 +11,17 @@ permalink: /news/parliamentary-speeches/oral-answer-pqs-on-haze
 
 **<u>Questions</u>**  
 
-Mr Zaqy Mohamad: To ask the Minister for Foreign Affairs whether there are any bilateral engagements or a special action plan by ASEAN to contain the current haze faced by Singapore.   
+**Mr Zaqy Mohamad**: To ask the Minister for Foreign Affairs whether there are any bilateral engagements or a special action plan by ASEAN to contain the current haze faced by Singapore.   
 
-Mr Christopher de Souza: To ask the Minister for Law whether the use of international law provides an avenue to deter irresponsible parties from causing fires that result in the annual haze hazard. 
+**Mr Christopher de Souza**: To ask the Minister for Law whether the use of international law provides an avenue to deter irresponsible parties from causing fires that result in the annual haze hazard. 
 
-Er Dr Lee Bee Wah: To ask the Minister for Foreign Affairs whether Singapore can take this matter up at the United Nations to seek a resolution should the burning persist.
+**Er Dr Lee Bee Wah**: To ask the Minister for Foreign Affairs whether Singapore can take this matter up at the United Nations to seek a resolution should the burning persist.
 
-Mr Lim Biow Chuan: To ask the Minister for Law whether there are any criminal sanctions which can be imposed on local or foreign companies that have caused the haze in Singapore by their illegal burning.
+**Mr Lim Biow Chuan**: To ask the Minister for Law whether there are any criminal sanctions which can be imposed on local or foreign companies that have caused the haze in Singapore by their illegal burning.
 
-Ms Irene Ng Phek Hoong: To ask the Minister for Foreign Affairs what pressure can be brought to bear on Indonesia to prevent future recurrence of the haze caused by forest fires in Indonesia.
+**Ms Irene Ng Phek Hoong**: To ask the Minister for Foreign Affairs what pressure can be brought to bear on Indonesia to prevent future recurrence of the haze caused by forest fires in Indonesia.
 
-Assoc Prof Tan Kheng Boon Eugene: To ask the Minister for Law (a) whether the Government will consider introducing legislation that has extra-territorial jurisdiction over Singaporean or Singapore-based companies and their subsidiaries whose overseas business activities have detrimental environmental or economic effects on Singapore; and (b) whether legislation can be introduced to enable Singapore to claim jurisdiction over non-Singaporean individuals and organisations for activities outside Singapore that result in production of negative environmental and economic effects within Singapore. 
+**Assoc Prof Tan Kheng Boon Eugene**: To ask the Minister for Law (a) whether the Government will consider introducing legislation that has extra-territorial jurisdiction over Singaporean or Singapore-based companies and their subsidiaries whose overseas business activities have detrimental environmental or economic effects on Singapore; and (b) whether legislation can be introduced to enable Singapore to claim jurisdiction over non-Singaporean individuals and organisations for activities outside Singapore that result in production of negative environmental and economic effects within Singapore. 
 
 Mr Pritam Singh: To ask the Minister for Foreign Affairs (a) what is Singapore's regional and international strategy in dealing with the haze problem going forward; and (b) what is the Government's proposed regional and international course of action in exerting pressure against companies found to be causing the haze.
 
