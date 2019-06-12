@@ -5,6 +5,7 @@ date:   2012-11-12
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar0
 ---
 
+12 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 **Ms Ellen Lee, Sembawang GRC**
 
