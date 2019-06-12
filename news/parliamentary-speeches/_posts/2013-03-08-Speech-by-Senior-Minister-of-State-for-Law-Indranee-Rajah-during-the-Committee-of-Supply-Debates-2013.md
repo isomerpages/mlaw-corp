@@ -115,12 +115,12 @@ permalink: /news/parliamentary-speeches/speech-sms-cos-debates-2013
 20. On a slightly broader note, because Mr Kumar also mentioned what the Law Ministry has done over the past year, if I may just say a few words on the legal sector in general. The legal sector has grown, as mentioned by the Minister. If I may just add that the arbitration sector in particular, has also seen stellar growth.  Singapore is now recognised as the leading international arbitration hub in Asia.
 
 {:start="21"}
-21. A 2010 White & Case International Arbitration Survey found that we are clearly the most popular Asian seat. And worldwide, we are the third most preferred seat by companies, together with Paris and Tokyo, and after London and Geneva.
+21. A [2010 White & Case International Arbitration Survey](http://www.whitecase.com/files/upload/fileRepository/2010-International-Arbitration-Survey-Choices-International-Arbitration.PDF) found that we are clearly the most popular Asian seat. And worldwide, we are the third most preferred seat by companies, together with Paris and Tokyo, and after London and Geneva.
 
 {:start="22"}
 22. The growing caseload of the Singapore International Arbitration Centre reflects our rising stature in international arbitration. The number of new cases handled rose from 99 in 2008 to 235 in 2012. The total value of disputes reached a record high of S$3.61 billion in 2012, well in excess of the total for 2010 and 2011 (S$2.67 billion) put together.
 
-<ol atart="23">
+<ol start="23">
 <li>    This growth is the result of the aggressive and holistic approach we have taken to develop the arbitration sector over the years.
 <ul>
 
