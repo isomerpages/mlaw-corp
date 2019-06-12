@@ -18,21 +18,17 @@ To ask the Minister for Law following SLA's call for new tenders for nursery lan
 
 There are eight nurseries at Bah Soon Pah Road operating under tenancy agreements managed by SLA. These tenants can continue to operate on the land until the expiry of their tenancies, the earliest of which will expire only in 2018. It is premature, at this stage, to comment on how many nurseries will be subject to new tenders beyond 2018, as the planning agencies have not determined if the sites will be required for development upon expiry of the tenancies.
 
-<ol>
-<li style="list-style-type: none">The eight nurseries are operating on properties that are available only for interim use. We adopt the following practices in the management of properties that are available for interim use:
+The eight nurseries are operating on properties that are available only for interim use. We adopt the following practices in the management of properties that are available for interim use:
 
-<ol style="list-style-type: lower-alpha">
-<li>First, we ensure that the duration of tenure and option for renewal, if any, are explicitly spelt out in the tenancy agreement to provide clarity and certainty. A tenancy is typically for a total tenure of nine years unless the development of the site concerned needs to start earlier. </li>  
- 
-<li>After nine years, in the interest of fairness and transparency, an open tender is conducted so that all interested parties have the opportunity to bid for use of the property. </li>
- 
-<li>Third, we generally conduct the tender six months in advance of the expiry of the existing tenancy. If the incumbent wins the tender, he can continue operating on site without disruption. If the incumbent does not win the tender, he will have sufficient time to plan for relocation. </li>
 
+<ol style="list-style-type: lower-alpha; margin-left:10px">
+<li>First, we ensure that the duration of tenure and option for renewal, if any, are explicitly spelt out in the tenancy agreement to provide clarity and certainty. A tenancy is typically for a total tenure of nine years unless the development of the site concerned needs to start earlier.</li>
+  
+<li>After nine years, in the interest of fairness and transparency, an open tender is conducted so that all interested parties have the opportunity to bid for use of the property.</li>
+  
+  
+<li>Third, we generally conduct the tender six months in advance of the expiry of the existing tenancy. If the incumbent wins the tender, he can continue operating on site without disruption. If the incumbent does not win the tender, he will have sufficient time to plan for relocation.</li>
 </ol>
-
-</li>
-</ol>
-
 
 
 <p class="right-side-updated">Last updated on 13 May 2013</p> 
