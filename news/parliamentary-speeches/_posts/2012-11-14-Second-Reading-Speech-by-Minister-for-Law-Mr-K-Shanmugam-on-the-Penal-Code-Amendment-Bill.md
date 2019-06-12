@@ -36,7 +36,7 @@ Mr Speaker, Sir
 <ol start="5">
 <li>    Murder is defined in section 300 of the Penal Code (taken from the Indian Penal Code 1860) as culpable homicide committed with one of four mental states:
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>The intention to kill; </li>
 
 <li> The intention to cause injury, coupled with the knowledge that such injury is likely to cause death; </li>
