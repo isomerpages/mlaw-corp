@@ -5,6 +5,9 @@ date:   2012-08-13
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-moneylending-tactics
 ---
 
+13 Aug 2012 Posted in Parliamentary speeches and responses 
+
+
 **Er Dr Lee Bee Wah, Nee Soon GRC**
 
 **<u>Question</u>**  
