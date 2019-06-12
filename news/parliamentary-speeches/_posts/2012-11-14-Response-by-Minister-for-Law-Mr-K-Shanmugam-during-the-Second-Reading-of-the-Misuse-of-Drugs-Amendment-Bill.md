@@ -13,7 +13,7 @@ permalink: /news/parliamentary-speeches/response-by-minister-for-law--mr-k-shanm
 
 Mr Speaker, Sir
 
-<ol style="lists-tyle-type: upper-roman; font-weight:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>INTRODUCTION</u></li>
 </ol>
 
@@ -207,7 +207,7 @@ Mr Speaker, Sir
 
 <ol>
 
-<li><i><strong>Limited Authority To Impose a Sentence Below a Statutory Minimum.</strong>—
+<li style="list-style-type: none"><i><strong>Limited Authority To Impose a Sentence Below a Statutory Minimum.</strong>—
 <br>
 Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant’s substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.</i></li>
 </ol>
@@ -249,7 +249,7 @@ Upon motion of the Government, the court shall have the authority to impose a se
 <li>   This is not just the position in Singapore. I have mentioned the U.S. position earlier. Section 3553(e)’s constitutionality has been upheld by a number of federal Courts of Appeals. In the case of U.S. v Huerta (1989), the Court of Appeals for the Second Circuit had this to say:
 
 <ol>
-<li><i>“We believe that whether a defendant's cooperation has risen to the level of "substantial assistance" to the government is self-evidently a question that <u>the prosecution is uniquely fit to resolve.</u> Nor do we perceive any danger of misuse of this power. There are significant institutional incentives for the prosecution to exercise sound judgment and to act in good faith in deciding whether to make a Section 3553(e) motion. <u>The government has an interest in encouraging defendants to cooperate with law enforcement efforts. The reasonable use of substantial assistance motions for those who cooperate will make others more likely to do so in the future.”</u></i></li>
+<li style="list-style-type: none"><i>“We believe that whether a defendant's cooperation has risen to the level of "substantial assistance" to the government is self-evidently a question that <u>the prosecution is uniquely fit to resolve.</u> Nor do we perceive any danger of misuse of this power. There are significant institutional incentives for the prosecution to exercise sound judgment and to act in good faith in deciding whether to make a Section 3553(e) motion. <u>The government has an interest in encouraging defendants to cooperate with law enforcement efforts. The reasonable use of substantial assistance motions for those who cooperate will make others more likely to do so in the future.”</u></i></li>
 </ol>
 
 </li>
