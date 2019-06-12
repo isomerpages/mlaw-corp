@@ -93,7 +93,7 @@ Madam Speaker,
 <ol start="14">
 <li> The means test is therefore structured to look at the resources which are reasonably available to the applicant to fund his legal needs.
 
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>The applicant’s disposable income should therefore not be confused with the applicant’s gross income. </li>
 
 <li>His disposable capital does not include assets which we cannot reasonably expect the applicant to liquidate, for example, the home in which he lives, up to a certain value. </li>
@@ -161,7 +161,7 @@ His spouse’s CPF contributions.
 <ol start="18">
 <li> As for the disposable capital, an applicant can now disregard the following:
 
-<ol style="lists-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>His CPF investments. 
 <ul>
 <li>These are to be disregarded because he can’t withdraw these to pay for legal services.</li>
@@ -281,7 +281,7 @@ His spouse’s CPF contributions.
 </li>
 
 
-</li>
+
 
 </ol>
 
