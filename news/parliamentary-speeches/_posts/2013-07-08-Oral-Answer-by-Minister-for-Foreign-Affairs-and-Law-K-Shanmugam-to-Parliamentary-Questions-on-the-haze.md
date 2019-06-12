@@ -23,9 +23,9 @@ permalink: /news/parliamentary-speeches/oral-answer-pqs-on-haze
 
 **Assoc Prof Tan Kheng Boon Eugene**: To ask the Minister for Law (a) whether the Government will consider introducing legislation that has extra-territorial jurisdiction over Singaporean or Singapore-based companies and their subsidiaries whose overseas business activities have detrimental environmental or economic effects on Singapore; and (b) whether legislation can be introduced to enable Singapore to claim jurisdiction over non-Singaporean individuals and organisations for activities outside Singapore that result in production of negative environmental and economic effects within Singapore. 
 
-Mr Pritam Singh: To ask the Minister for Foreign Affairs (a) what is Singapore's regional and international strategy in dealing with the haze problem going forward; and (b) what is the Government's proposed regional and international course of action in exerting pressure against companies found to be causing the haze.
+**Mr Pritam Singh**: To ask the Minister for Foreign Affairs (a) what is Singapore's regional and international strategy in dealing with the haze problem going forward; and (b) what is the Government's proposed regional and international course of action in exerting pressure against companies found to be causing the haze.
 
-Ms Tan Su Shan: To ask the Minister for Foreign Affairs (a) what is the likelihood of Indonesia's ratification of the ASEAN Agreement on Transboundary Haze Pollution being concluded before the next period of potential haze development; and (b) whether there is real scope for ASEAN to come up with concrete action under this Agreement to tackle the haze problem.
+**Ms Tan Su Shan**: To ask the Minister for Foreign Affairs (a) what is the likelihood of Indonesia's ratification of the ASEAN Agreement on Transboundary Haze Pollution being concluded before the next period of potential haze development; and (b) whether there is real scope for ASEAN to come up with concrete action under this Agreement to tackle the haze problem.
 
 
 **<u>Answer</u>**  
