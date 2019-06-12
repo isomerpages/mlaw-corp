@@ -61,7 +61,7 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 <li> <strong>Once legislation has been put in place, all accused persons who meet the requirements can elect to be considered for resentencing under the new law.</strong>  This will include accused persons in on-going cases, as well as convicted persons who have already exhausted their appeals and are currently awaiting execution. <strong>Draft legislation implementing the changes outlined today will be introduced later this year.</strong></li>
 <li> In making the changes today, the Government seeks to achieve and balance <strong>two broad objectives</strong>:
 
-<ol>
+<ol style="list-style-type: lower-roman">
 <li><strong>The first is to continue taking a strong stance on crime. Singapore's homicide rate is one of the lowest in the world, and we believe that the  deterrent effect of the death penalty has played an important part in this. </strong>
 </li>
 
@@ -78,8 +78,8 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 4. For the full Ministerial Statements, please refer to the attached documents.
 
 [MINISTRY OF HOME AFFAIRS](http://www.mha.gov.sg/news_details.aspx?nid=MjUzMg%3d%3d-N4I1YQwYBNE%3d)  
-[MINISTRY OF LAW (0.04MB)](/files/news/parliamentary-speeches/2012/07/linkclick4dc3.pdf)
-[Response to NMP Eugene Tan (0.01MB)](/files/news/parliamentary-speeches/2012/07/linkclickc273.pdf)
+[MINISTRY OF LAW (0.04MB)](/files/news/parliamentary-speeches/2012/07/linkclick4dc3.pdf)  
+[Response to NMP Eugene Tan (0.01MB)](/files/news/parliamentary-speeches/2012/07/linkclickc273.pdf)  
 [Response to NMP Faizah Jamal (0.02MB)](/files/news/parliamentary-speeches/2012/07/linkclick31fb.pdf)
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p> 
