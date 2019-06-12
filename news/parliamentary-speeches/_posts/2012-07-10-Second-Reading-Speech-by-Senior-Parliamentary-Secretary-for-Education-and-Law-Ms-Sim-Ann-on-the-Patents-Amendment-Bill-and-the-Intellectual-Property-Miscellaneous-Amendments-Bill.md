@@ -136,7 +136,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-parliame
 </li>
 </ol>
 
-<ol staart="27">
+<ol start="27">
 <li>The scope of offshore patent agency work that registered foreign-qualified patent agents can undertake will be restricted to:
 
 <ol style="list-style-type: lower-alpha">
@@ -222,4 +222,4 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-parliame
 
 [Amendments to the Patents Act and other IP related Acts passed in Parliament (0.05MB)](/files/news/parliamentary-speeches/2012/07/linkclick3c75.pdf)
 
-<p class="right-side-updated"><Last updated on 25 Nov 2012</p>
+<p class="right-side-updated">Last updated on 25 Nov 2012</p>
