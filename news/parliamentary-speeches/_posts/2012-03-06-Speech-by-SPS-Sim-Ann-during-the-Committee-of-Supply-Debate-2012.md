@@ -92,19 +92,19 @@ permalink: /news/parliamentary-speeches/speech-by-sps-sim-ann-during-the-committ
 
 [Translation:
 
-*In November last year, MinLaw put in place new rules relating to moneylending advertisements.
+*In November last year, MinLaw put in place new rules relating to moneylending advertisements.*
 
-Recently, the Chinese press reported that new restrictions on advertisements by licensed moneylenders has led to a proliferation of advertisements by unlicensed moneylenders, which were misleading the public into believing that they were legal.
+*Recently, the Chinese press reported that new restrictions on advertisements by licensed moneylenders has led to a proliferation of advertisements by unlicensed moneylenders, which were misleading the public into believing that they were legal.*
 
-Let me reiterate that the purpose of the rules is to prevent moneylending companies from using advertisements to stimulate excessive demand for loans by the public.
+*Let me reiterate that the purpose of the rules is to prevent moneylending companies from using advertisements to stimulate excessive demand for loans by the public.*
 
-In the past, we permitted licensed moneylenders to advertise in a variety of media, to allow borrowers to compare terms across different moneylenders. However, we noticed that excessive advertising could stimulate excessive demand for loans amongst those who did not truly require them, resulting in unnecessary debt. In addition, borrowers needed to check the Registry of Moneylenders’ website to determine whether the advertisements were being put out by licensed or unlicensed moneylenders.
+*In the past, we permitted licensed moneylenders to advertise in a variety of media, to allow borrowers to compare terms across different moneylenders. However, we noticed that excessive advertising could stimulate excessive demand for loans amongst those who did not truly require them, resulting in unnecessary debt. In addition, borrowers needed to check the Registry of Moneylenders’ website to determine whether the advertisements were being put out by licensed or unlicensed moneylenders.*
 
-We therefore put in new rules: if moneylending companies wish to advertise, they can only do so through business and consumer directories of services, their own websites, and through advertisements at their premises. They are not disallowed from advertising; they are only disallowed from unsolicited advertising.
+*We therefore put in new rules: if moneylending companies wish to advertise, they can only do so through business and consumer directories of services, their own websites, and through advertisements at their premises. They are not disallowed from advertising; they are only disallowed from unsolicited advertising.*
 
-The new rules help the public differentiate between licensed and unlicensed moneylenders. Now the public no longer need to verify if the flyers, SMSes, emails or other forms of advertisement they received are from licensed moneylenders because they can be sure that all such activities are not allowed. Such advertisements would either be from licensed moneylenders operating in violation of our rules, or loansharks.  Errant licensed moneylenders would be investigated by the Registry and loansharks would be investigated by the police.
+*The new rules help the public differentiate between licensed and unlicensed moneylenders. Now the public no longer need to verify if the flyers, SMSes, emails or other forms of advertisement they received are from licensed moneylenders because they can be sure that all such activities are not allowed. Such advertisements would either be from licensed moneylenders operating in violation of our rules, or loansharks.  Errant licensed moneylenders would be investigated by the Registry and loansharks would be investigated by the police.*
 
-We urge the public to avoid taking loans from them. We will continue to spread the message to let the public understand such unsolicited advertisement is illegal.*]
+*We urge the public to avoid taking loans from them. We will continue to spread the message to let the public understand such unsolicited advertisement is illegal.*]
 
 {:start="21"}
 21. Sir, back to English.
