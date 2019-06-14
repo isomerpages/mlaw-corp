@@ -46,7 +46,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 
 <ol start="4">
 <li> This Bill has benefited from:-
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>the views of professors at the Law Faculty of the National University of Singapore; </li>
 
 <li>the 2003 consultation paper and the 2004 report on computer output as evidence, by the Technology Law Development Group of the Singapore Academy of Law;</li>
@@ -174,7 +174,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 
 <ol start="34">
 <li>Currently, expert opinion is only admissible in respect of points
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>of foreign law, </li>
 
 <li>of science or art, </li>
@@ -199,7 +199,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 {:start="39"}
 39. As in the case of hearsay, the court will have the discretion to exclude expert opinion in the interests of justice.
 
-{:start="30"}
+{:start="40"}
 40. This is in addition to the court’s inherent jurisdiction to exclude prejudicial evidence.
 
 **Legal professional privilege** 
