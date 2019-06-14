@@ -127,31 +127,97 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 {:start="20"}
 20. The amendments provide for the courts to grant bail in all cases except those where the accused person is charged with an offence punishable by death or life imprisonment.
 
+{:start="21"}
 21. In such cases where the accused person is charged with an offence punishable by death or life imprisonment and also an alternative punishment, the court can also grant bail if the accused person is to be tried in the Subordinate Courts.
 
+{:start="22"}
 22. The second main amendment refines the Subordinate Courts’ power to remand accused persons.
 
+{:start="23"}
 23. Currently, a Magistrate can only remand an accused person for eight days at a time. There is no similar limit for the District Courts.
 
+{:start="24"}
 24. We have received feedback from the Law Society that this does not work well.
 
+{:start="25"}
 25. An accused person who is in remand pending trial must be brought before the court every eight days even though there are no updates to give to the court.
 
+{:start="26"}
 26. This affects the Magistrates’ Arrest Cases, as well as committal and transmission cases, which are mentioned before Magistrates.
 
+{:start="27"}
 27. With the amendments, there will no longer be a distinction between a Magistrate’s Court and a District Court with regard to remand.
 
+{:start="28"}
 28. The distinction will be between cases where investigations are ongoing, and cases where investigations are complete.
 
+{:start="29"}
 29.  Where investigations are ongoing, an accused person can only be remanded for eight days at a time and must be brought before the court again if further remand is sought.
 
+{:start="30"}
 30. This ensures that investigations are completed in good time and where applicable, bail can be offered as soon as possible after investigations are complete.
 
+{:start="31"}
 31. Once investigations are complete, the accused person will be remanded pending the resolution of his case and if he is refused bail or cannot raise bail.
 
+{:start="32"}
 32. At this point, no reason to require that he can be remanded only for eight days at a time.
 
+{:start="33"}
 33. Sections 174 and 238 are to be amended accordingly, and that will allow more efficient management of cases by the courts.  
 
+**Notices of land acquisition**
 
+{:start="34"}
+34. Clause 23 amends the Land Acquisition Act. It is to primarily to change the mode by which interested persons are notified in relation to land acquisitions.
+
+{:start="35"}
+35. Section 8(1) requires the Collector to notify interested persons by physically posting notices at or near the land to be acquired.
+
+{:start="36"}
+36. The feedback is that owners prefer not to have this process.
+
+{:start="37"}
+37. So we propose replacing that mode with a new requirement to publish notices in at least four daily local newspapers in each of the four official languages, which is more effective and reaches a larger audience. 
+
+{:start="38"}
+38. This, of course, is in addition to other existing means of notification, which include notification in the Gazette, and sending registered letters to known interested parties.
+
+
+**Reciprocal enforcement of maintenance orders**  
+
+{:start="39"}
+39. Clause 26 clarifies and updates the provisions of the Maintenance Orders (Reciprocal Enforcement) Act.
+
+{:start="40"}
+40. First, the definition of “maintenance order” is expanded to allow the reciprocal enforcement of lump sum maintenance orders, in addition to orders for periodic payments, and that would better reflect the practice of local and foreign courts in awarding maintenance.
+
+{:start="41"}
+41. The other amendments refine the scope and operation of the Act so as to better reflect how it operates in practice.
+
+{:start="42"}
+42. One example is the removal of a provision that deems an applicant for maintenance as a legal custodian of the child.
+
+{:start="43"}
+43. This deeming provision was originally taken from the United Kingdom. It is irrelevant in our local context because legal custody is not a pre-requisite for ordering maintenance.
+
+**Investment powers of trustees**  
+
+{:start="44"}
+44. Clauses 33 and 34 relate to the Public Trustee Act, as well as the Trustees Act.
+
+{:start="45"}
+45. They clarify that the Public Trustee, and trustees generally, can make specific investments that they were empowered to make before section 4(1) of the Trustees Act was amended in 2004. These amendments conferred upon the trustees a broad general power of investment.
+
+
+**Housekeeping amendments**
+
+{:start="46"}
+46. Finally, there are various housekeeping amendments have been made to various Acts, to improve the readability and administration of existing provisions and to repeal obsolete provisions.
+
+{:start="47"}
+47. Sir, I beg to move.
+
+
+<p class="right-side-updated">Last updated on 30 Aug 2013</p> 
 
