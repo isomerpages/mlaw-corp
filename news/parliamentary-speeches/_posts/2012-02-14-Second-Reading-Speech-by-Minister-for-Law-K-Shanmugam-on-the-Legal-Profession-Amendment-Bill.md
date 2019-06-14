@@ -95,7 +95,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 <ol start="26">
 <li>Again I quote:
 <ol>
-<li style="list-style-type: nonee"><i>This year will see the revival of the Singapore Circuit – not the Singapore Grand Prix – but something older which was sidelined by the need to grow our own pool of expert advocates. We now have a sizeable pool of Senior Counsel who provide advisory, arbitral and litigation services to offshore and onshore clients. However, experience has shown that their services may not be available to the general public in times of need. We have a very large financial and business sector in terms of contributions to our GDP – it grew from 24.4% out of a nominal GDP of S$158.1 billion in 2002 to 25.9% out of a nominal GDP of S$303.7 billion in 2010. But, the legal services provided to these sectors are dominated by a small number of large law firms. The result is that the best litigation counsel are usually conflicted out of advising or acting for claimants against big business as they are mainly concentrated in the large firms. So we need a greater diversity of expert counsel to advise, negotiate and pursue legitimate claims in court. This is not a new problem. The Ministry of Law has consulted the Law Society and the Senior Counsel Forum on the best way forward. We can expect amending legislation to be enacted this year. The Bar can rest assured that this will not be a free for all. The courts will admit ad hoc expert counsel on the basis of need, and not simply because a litigant can afford to pay. We do not want to disadvantage litigants who cannot afford equivalent representation, nor do we want to impede the nurturing of our own Senior Counsel. So, ad hoc admission will be on a case by case basis, with the court doing a judicious balancing of competing interests in each case.</i></li>
+<li style="list-style-type: none"><i>This year will see the revival of the Singapore Circuit – not the Singapore Grand Prix – but something older which was sidelined by the need to grow our own pool of expert advocates. We now have a sizeable pool of Senior Counsel who provide advisory, arbitral and litigation services to offshore and onshore clients. However, experience has shown that their services may not be available to the general public in times of need. We have a very large financial and business sector in terms of contributions to our GDP – it grew from 24.4% out of a nominal GDP of S$158.1 billion in 2002 to 25.9% out of a nominal GDP of S$303.7 billion in 2010. But, the legal services provided to these sectors are dominated by a small number of large law firms. The result is that the best litigation counsel are usually conflicted out of advising or acting for claimants against big business as they are mainly concentrated in the large firms. So we need a greater diversity of expert counsel to advise, negotiate and pursue legitimate claims in court. This is not a new problem. The Ministry of Law has consulted the Law Society and the Senior Counsel Forum on the best way forward. We can expect amending legislation to be enacted this year. The Bar can rest assured that this will not be a free for all. The courts will admit ad hoc expert counsel on the basis of need, and not simply because a litigant can afford to pay. We do not want to disadvantage litigants who cannot afford equivalent representation, nor do we want to impede the nurturing of our own Senior Counsel. So, ad hoc admission will be on a case by case basis, with the court doing a judicious balancing of competing interests in each case.</i></li>
 
 </ol>
 
@@ -148,10 +148,10 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 <ol start="38">
 <li>Sir, the legal services market today is
 
-<ol>
+<ul>
 <li>  a globalised one</li>
 <li>and increasingly competitive.</li>
-</ol>
+</ul>
 
 </li>
 </ol>
@@ -271,7 +271,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 {:start="63"}
 63. Sir, I beg to move.
 
-[Fact Sheet - Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness](/files/news/parliamentary-speeches/2012/02/linkclick64a5.pdf)
+[Fact Sheet - Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness](/files/news/parliamentary-speeches/2012/02/linkclick64a5.pdf)  
 [Video: Channel NewsAsia 14 Feb 2011 - Legal Profession Act changes passed](http://www.youtube.com/watch?v=vGVb0OUGOSQ&feature=youtu.be&noredirect=1)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p> 
