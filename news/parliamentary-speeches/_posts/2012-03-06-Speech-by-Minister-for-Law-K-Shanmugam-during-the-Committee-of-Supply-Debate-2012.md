@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/speech-by-minister-for-law-k-shanmugam-d
 
 6 Mar 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<ol start="list-style-type: upper-roman; font-weight:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li>Developing Singapore as an Asian Intellectual Property (IP) Hub 
 </li>
 </ol>
@@ -126,7 +126,7 @@ This will also benefit local companies which, as Mr Tong points out, are creatin
 24. Taken together, the initiatives will help grow our capabilities and expertise in IP dispute resolution. 
 
 
-<ol start="2" style="list-style-type: upper-roman; font-wight:bold;">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
 <li>  Supply of lawyers</li>
 </ol>
 
