@@ -10,7 +10,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-foreign-affa
 
 <video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__a91f77_640x360_700k.mp4/playlist.m3u8" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__a91f77_640x360_700k.jpg" controls="controls"></video>
 
-<p style="text-align: cernter">Video of Minister delivering the answer in Parliament </p>
+<p style="text-align: center">Video of Minister delivering the answer in Parliament </p>
 
 
 **Mr Desmond Lee Ti-Seng, Jurong GRC**
@@ -25,7 +25,8 @@ To ask the Minister for Law in view of the Court of Appeal's recent ruling in th
 2. During the Second Reading, I had said the following, in respect of general disclosure obligations:
  
 “...  lawyers appearing in Court, whether Prosecution or defence lawyers, are officers of the Court. If they deliberately suppress material evidence, they will be acting in gross breach of their duties. One cannot put forward evidence in Court while holding back other evidence which could put a different complexion on the evidence that has in fact been tendered in Court. I have no doubt that the Court will take a serious view of such conduct.”
- 
+
+{:start="3"}
 3. In Muhammad Kadar’s case, the Court of Appeal referred to and relied on this statement, and explained the nature and extent of the Prosecution’s duty, to disclose material in its possession which it does not intend to use as part of its case.
 
 <ol start="4">
@@ -41,7 +42,7 @@ To ask the Minister for Law in view of the Court of Appeal's recent ruling in th
 
 
 </li>
-</ol
+</ol>
 
 {:start="5"}
 5. Any doubt on these issues is to be resolved in favour of disclosure.
