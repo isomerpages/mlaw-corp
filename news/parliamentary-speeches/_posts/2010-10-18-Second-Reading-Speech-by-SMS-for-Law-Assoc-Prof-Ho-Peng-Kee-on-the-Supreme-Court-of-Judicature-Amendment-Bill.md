@@ -106,7 +106,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-for-law-ass
 </ol>
 
 {:start="21"}
-21. Next, **Clause 11** amends section 74(2) to clarify that the power of the High Court to restrain litigants from instituting vexatious proceedings applies to both civil and criminal proceedings originating at both the High Court and Subordinate Courts. This amendment codifies existing case law. 3
+21. Next, **Clause 11** amends section 74(2) to clarify that the power of the High Court to restrain litigants from instituting vexatious proceedings applies to both civil and criminal proceedings originating at both the High Court and Subordinate Courts. This amendment codifies existing case law. <a href="#fn3"><sup>3</sup></a>
 
 <ol start="5">
 <li><i>Approval for Registrar and other judicial officers to hold other offices of emolument  </i></li>
@@ -121,9 +121,9 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-for-law-ass
 
 
 ---
-<sup>[1]</sup>
-<sup>[2]</sup>
-<sup>[3]</sup>
+<p id="fn1"><sup>[1]</sup>Blenwel Agencies v Tan Lee King [2008] and SBS Transit v Koh Swee Ann [2004]</p>
+<p id="fn2"><sup>[2]</sup>Bright Impex v PP [1998] and Tee Kok Boon v PP [2006] </p>
+<p id="fn3"><sup>[3]</sup>AG v Tee Kok Boon [2008] </p>
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p> 
