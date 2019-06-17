@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Written answer by Law Minister K Shanmugam on the Subordinate Courts’ caseload and manpower resources
-date:   2011-08-16
+date:   2010-08-16
 permalink: /news/parliamentary-speeches/written-answer-by-law-minister-k-shanmugam-on-the-subordinate-courts-caseload-and-manpower
 ---
 
