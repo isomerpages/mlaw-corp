@@ -118,6 +118,7 @@ permalink: /news/parliamentary-speeches/speech-by-sms-assoc-prof-ho-peng-kee-dur
 {:start="25"}
 25. What is important is that the key organizations in a constituency, for example the Constituency Secretariat, or the Town Council, or the CCC should know who to call should maintenance be required. My experience on the ground these past 20 years is that residents will call these organizations should they find that a place needs maintenance. Indeed, some of our newsletters, the Grassroots newsletters, the Town Council newsletters, also carry the phone numbers of these organizations. So Mr Chiam’s Town Council’s newsletter, if he has one, may want to consider this. 
 
+**Community Mediation** 
 
 {:start="26"}
 26. For example, I think in Mr Chiam’s constituency, there is a Blk 142 and the field is in front of it. The field itself is on a TOL to the CCC, and the CCC is maintaining that, while the road-side table, between the pedestrian walkway and the road is managed by LTA. So if there is any problem, Town Council should call LTA. Indeed, if you are not sure as to who to call, the Town Council can also call HDB. The HDB will then ask the right agency to come and do the maintenance. Sir, I thank Mr Chiam for his suggestion but there is really no need for all these signs to be put up all over the estate to indicate the maintenance responsibilities. 
