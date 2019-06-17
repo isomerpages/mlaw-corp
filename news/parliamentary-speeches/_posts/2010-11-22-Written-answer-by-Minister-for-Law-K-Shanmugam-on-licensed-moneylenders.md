@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Written answer by Minister for Law K Shanmugam on licensed moneylenders
-date:   2011-11-22
+date:   2010-11-22
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-on-licensed-moneylenders
 ---
 
