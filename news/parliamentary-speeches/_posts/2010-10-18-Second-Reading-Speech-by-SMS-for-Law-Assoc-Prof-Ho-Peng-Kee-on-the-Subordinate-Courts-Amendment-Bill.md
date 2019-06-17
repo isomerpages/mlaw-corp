@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Reading Speech by SMS for Law Assoc Prof Ho Peng Kee on the Subordinate Courts (Amendment) Bill
-date:   2011-10-18
+date:   2010-10-18
 permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-for-law-assoc-prof-ho-peng-kee-on-the-subordinate-courts-amendment
 ---
 
