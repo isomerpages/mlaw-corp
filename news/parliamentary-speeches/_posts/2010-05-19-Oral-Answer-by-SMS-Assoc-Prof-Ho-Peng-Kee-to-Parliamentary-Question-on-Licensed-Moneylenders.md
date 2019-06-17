@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oral Answer by SMS Assoc Prof Ho Peng Kee to Parliamentary Question on Licensed Moneylenders
-date:   2011-05-19
+date:   2010-05-19
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-assoc-prof-ho-peng-kee-to-parliamentary-question-on-licensed-moneylenders
 ---
 
