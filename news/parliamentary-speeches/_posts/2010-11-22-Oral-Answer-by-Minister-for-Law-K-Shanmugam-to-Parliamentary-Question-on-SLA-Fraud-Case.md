@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oral Answer by Minister for Law K Shanmugam to Parliamentary Question on SLA Fraud Case
-date:   2011-11-22
+date:   2010-11-22
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-sla-fraud-case
 ---
 
