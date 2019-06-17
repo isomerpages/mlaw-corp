@@ -69,7 +69,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-for-law-ass
 
 
 <ol start="3" style="list-style-type: lower-roman">
-<li>Clarification of protection of judicial and other officers
+  <li><i>Clarification of protection of judicial and other officers</i>
 </li>
 </ol>
 
