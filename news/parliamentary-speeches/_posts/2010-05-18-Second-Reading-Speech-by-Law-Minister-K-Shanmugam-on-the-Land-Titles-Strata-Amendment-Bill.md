@@ -96,7 +96,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 26. Hereafter, if a strata development encounters a failed attempt and the two-year restriction period is imposed, the first re-try to convene a general meeting to form a new Sale Committee will need to meet a higher requisition level of <u>50 per cent</u>, either by share value or total number of owners.
 
 {:start="27"}
-27. If there is a further failed attempt within this same “restriction period”, subsequent re-tries to convene a general meeting to form a Sale Committee will need to meet an even higher requisition level of 80 per cent, either by share value or total number of owners ie there must be a high degree of certainty that the proposal will succeed before a general meeting can be convened.
+27. If there is a further failed attempt within this same “restriction period”, subsequent re-tries to convene a general meeting to form a Sale Committee will need to meet an even higher requisition level of <u>80 per cent</u>, either by share value or total number of owners ie there must be a high degree of certainty that the proposal will succeed before a general meeting can be convened.
 
 {:start="28"}
 28. The 50 and 80 per cent requisition levels will only apply to general meetings to form a Sale Committee. For all other general meetings convened for the purposes of the en bloc sale, the existing requirement for a 20 or 25 per cent requisition level will continue to apply.
@@ -201,7 +201,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 
 **<u>Annexes:</u>**
 
-[Response to questions by Law Minister K Shanmugam on the Land Titles (Strata) (Amendment) Bill (0.1MB)](/files/news/parliamentary-speeches/2010/05/linkclickb47a.pdf)
+[Response to questions by Law Minister K Shanmugam on the Land Titles (Strata) (Amendment) Bill (0.1MB)](/files/news/parliamentary-speeches/2010/05/linkclickb47a.pdf)  
 [Press Release: Proposed amendments to the Land Titles (Strata) Act to be tabled in Parliament](/news/press-releases/proposed-amendments-to-the-land-titles-strata-act)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012 </p>
