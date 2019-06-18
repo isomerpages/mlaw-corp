@@ -122,7 +122,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 19. Clause 7 of the Bill increases the jurisdiction of the Magistrates’ Courts to hear offences which carried a maximum term of imprisonment of three years to five years instead. The jurisdiction of the District Court and the High Court remains the same.
 
 
-<ol style="list-style-type: upper-alpha">
+<ol start="2" style="list-style-type: upper-alpha">
 <li><u>Private Prosecution</u></li>
 </ol>
 
@@ -529,7 +529,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 103. Under clause 354, if the offender commits a fresh offence while serving a community sentence and is convicted for it, the CBS order will be revoked and he will be brought back to the courts for re-sentencing.
 
 
-<ol start="5" style="list-style-type: upper-roman">
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
 <li>Conclusion</li>  
 </ol>
 
@@ -559,52 +559,52 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 **MEMBERS OF THE CRIMINAL PROCEDURE CODE WORKING GROUP** 
 
 
-Mr Amarjeet Singh, SC
+Mr Amarjeet Singh, SC  
 *KhattarWong*
 
-Mr Ang Cheng Hock, SC
+Mr Ang Cheng Hock, SC  
 *Allen and Gledhill LLP*
 
-Mr Bala Reddy
+Mr Bala Reddy  
 *Attorney-General's Chambers*
 
-Mr Hri Kumar, SC
+Mr Hri Kumar, SC  
 *Drew and Napier LLC*
 
-Ms Jennifer Marie, SC
+Ms Jennifer Marie, SC  
 *Attorney-General’s Chambers*
 
-Professor Michael Hor
+Professor Michael Hor  
 *National University of Singapore*
 
-Assistant Professor Rathna Nathan
+Assistant Professor Rathna Nathan  
 *Singapore Management University*
 
-Mr S Rajendran
+Mr S Rajendran  
 *Hindu Endowments Board*
 
-Mr Sant Singh, SC
+Mr Sant Singh, SC  
 *Chairman, Criminal Practice Committee of the Law Society 2009*
 
-Mr Subhas Anandan
+Mr Subhas Anandan  
 *President, the Association of Criminal Lawyers of Singapore*
 
-Mr Sunil Sudheesan
+Mr Sunil Sudheesan  
 *Association of Criminal Lawyers of Singapore*
 
-Mr Tai Wei Shyong
+Mr Tai Wei Shyong  
 *Ministry of Home Affairs*
 
-Mr Tan Siong Thye
+Mr Tan Siong Thye  
 *Subordinate Courts*
 
-Ms Valerie Thean
+Ms Valerie Thean  
 *Ministry of Law*
 
-Mr Wendell Wong
+Mr Wendell Wong  
 *Vice-Chairman, Criminal Practice Committee of the Law Society 2009*
 
-Mr Wong Hong Kuan
+Mr Wong Hong Kuan  
 *Singapore Police Force*
 
 
