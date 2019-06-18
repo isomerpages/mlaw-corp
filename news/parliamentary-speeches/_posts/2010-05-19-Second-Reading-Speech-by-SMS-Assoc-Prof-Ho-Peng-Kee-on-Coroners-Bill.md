@@ -18,7 +18,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-assoc-prof-
 **Key Provisions of the Bill**
 
 
-<ol style="list-style-tyoe: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li><u>Shift to a fact-finding inquiry</u></li>
 </ol>
 
