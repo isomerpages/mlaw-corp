@@ -143,4 +143,246 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 {:start="23"}
 23. The Bill makes a number of amendments to rationalise Police enforcement powers. I will touch on two key changes: the seizure of property and police powers of intervention.
 
+<ol>
+<li style="font-style:italic;">Seizure of Property</li>  
+</ol>
+
+<ol start="24">
+<li>  Clause 35 of the Bill builds upon the existing powers of the Police to seize property under certain circumstances, by expanding the powers to three specific classes of property: 
+
+<ol style="list-style-type: lower-roman">
+<li>property in respect of which an offence is suspected to have been committed. </li>
+
+<li>property suspected to have been used or intended to be used to commit an offence - for example, dangerous weapons used to commit gang robbery. </li>  
+
+<li>property suspected to constitute evidence of an offence – for example, bits of clothing found at a crime scene. </li> 
+  
+  
+</ol>
+  
+</li>  
+</ol>
+
+
+{:start="25"}
+25. Property falling within the first and second classes will include not only the original property, but also any property that it has been converted into. So, for example, if a suspected watch thief has sold the stolen watch and used the proceeds to buy a computer, the police may seize the computer instead.
+
+{:start="26"}
+26. If property liable to be seized is held with a financial institution, a police officer of inspector rank or above may issue a written order to direct the financial institution to either deliver the property to any police officer, or refrain from dealing in respect of such property within a specified period.
+
+{:start="27"}
+27. At the same time, an absolute power to freeze property in a bank account may be unduly harsh on the affected person. Hence, a person whose bank account has been the subject of a written order may apply to court for the release of such property to meet legitimate expenses – for example, the payment of basic expenses, reasonable professional fees or, in the context of a company, day-to-day running expenses.
+
+
+<ol start="2">
+<li style="font-style:italic;"> Police Powers to Intervene</li>  
+</ol>
+
+{:start="28"}
+28. The previous s111 of the CPC gave the police powers to interpose to prevent crime.
+
+
+{:start="29"}
+29. In the new security climate, it is appropriate for changes to be made to deal specifically with issues of terrorism. While the Police currently have the necessary powers to deal with acts of terrorism, clarity is useful for officers on the ground. This is in line with the amendments to the Penal Code in 2008, when illustrations were added to sections 79 and 81 of the Penal Code to give further clarity to officers dealing with terrorism.
+
+
+<ol start="30">
+<li>The new Clause 63 of the Bill puts in place the following safeguards in the use of lethal force by the police:
+
+<ol style="list-style-type: lower-roman">
+
+<li>the police officer must have reasonable grounds to believe that a person is doing or about to do something which may amount to a terrorist act; and </li>
+<li>the use of lethal force is necessary to apprehend the person. </li>
+
+</ol>
+  
+</li> 
+</ol>
+
+{:start="31"}
+31. A definition of what constitutes a “terrorist act” is provided in the Bill. 
+
+<ol start="4" style="list-style-type: upper-alpha">
+<li><u>Criminal Discovery</u></li>  
+</ol>
+
+{:start="32"}
+32. The Law Society, criminal law practitioners and various members in this House, such as Dr Teo Ho Pin, Mr Alvin Yeo and Ms Sylvia Lim, have urged reform in this area.
+
+{:start="33"}
+33. Disclosure is familiar to lawyers operating within the common law system. In civil proceedings, the timely disclosure of information has helped parties to prepare for trial and assess their cases more fully.
+
+{:start="34"}
+34. Criminal cases can benefit from the same approach. However, discovery in the criminal context would need to be tailored to deal with complexities of criminal practice, such as the danger of witnesses being suborned.
+
+{:start="35"}
+35. To this end, Part IX of the Bill introduces a formalised framework obliging the Prosecution and the Defence to exchange relevant information about their respective cases before trial. This will introduce greater transparency and consistency to the pre-trial process.
+
+{:start="36"}
+36. After the charge is tendered against an accused, the Prosecution is required to provide the Defence with a “Case for the Prosecution”. This document must include information about the facts, witnesses and evidence supporting the charge, together with the statements of the accused which the prosecution intends to rely on at the trial. 
+
+{:start="37"}
+37. The Defence is then required to serve on the Prosecution its “Case for the Defence”. This document will, in turn, contain information about the facts, evidence and witnesses that the Defence will adduce at the trial.
+
+{:start="38"}
+38. After the Case for the Defence is served, the Prosecution will then be required to furnish to the Defence all other statements made by the accused person, documentary exhibits in the Case for the Prosecution, as well as the accused person’s criminal records (if any).
+
+{:start="39"}
+39. The framework has a number of safeguards to try and prevent abuse.
+
+{:start="40"}
+40. The sequential nature of the process protects the interests of prosecution and defence. The onus is on the prosecution to set out its Case first, with the accused’s statements that it is relying upon. The provision of all statements after the Defence Case is filed, cuts down on opportunities to tailor evidence. At the same time, if either party refuses to file its Case, or files an incomplete Case, or advances an argument at trial inconsistent with its previously filed Case, the Court may draw any inference it deems fit. In addition, where the Prosecution fails to comply with its obligations, the Court may order a discharge not amounting to an acquittal. This approach tries to ensure that parties take discovery seriously.
+
+{:start="41"}
+41. The new procedure will initially apply automatically to High Court cases and the majority of offences tried in the District Court. The accused may opt out of the system if he prefers. For Magistrate’s Court cases, the procedure will be available if all parties consent.
+
+<ol start="5" style="list-style-type: upper-alpha">
+<li><u> Trial Proceedings</u></li>  
+</ol>
+
+<ol>
+<li style="font-style:italic;">Video Conferencing</li>  
+</ol>
+
+{:start="42"}
+42. The new Clause 281 follows upon the recent amendments to Article 9(4) of the Constitution, announced and taken through by Deputy Prime Minister Wong Kan Seng in this House last month, which allows an arrested person to be produced for First Mentions in court by video conferencing. 
+
+{:start="43"}
+43. In line with those amendments, Clause 281 of the Bill sets out safeguards in relation to the use of video conferencing. The Court will have the discretion to summon the arrested person, or consider the application of the arrested person to be physically produced in court at any time before or during the First Mentions. Video conferencing will also not be used for accepting guilty pleas or passing of sentences.
+
+<ol start="2">
+<li style="font-style:italic;">Composition</li>  
+</ol>
+
+{:start="44"}
+44. To streamline the prosecution process, the Public Prosecutor (PP) will be empowered to consent to composition between parties, and compound certain prescribed offences by requiring a person to pay a composition sum.
+
+{:start="45"}
+45. At present, once an accused has been charged in court, composition requires the consent of the court.
+
+{:start="46"}
+46. The new clause 241 requires the consent of the PP instead, since he has control and direction of all criminal proceedings. This follows logically from the PP’s prosecutorial discretion. Even when the proceedings are ongoing in court, and the court does not consent to composition, the PP is empowered to withdraw the charge in an appropriate case.
+
+{:start="47"}
+47. Clause 242 is a new provision which allows the PP to compound certain prescribed offences. These will be offences which do not involve specific victims, such as offences relating to damage to public property. Composition will be allowed to take place any time, even before the offender is charged in court. This composition regime is similar to composition of minor regulatory offences by enforcement agencies.
+
+
+<ol start="6" style="list-style-type: upper-alpha">
+<li> Admissibility of Statements</li>  
+</ol>
+
+{:start="48"}
+48. I now turn to the admissibility of accused persons’ statements, at Clause 258 of the Bill.
+
+{:start="49"}
+49. Under this provision, the statement of an accused person is inadmissible if it is made as the result of a threat, inducement or promise which operates on his mind, such that it robs him of his free will and thereby rendering the statement involuntary.
+
+{:start="50"}
+50. This admissibility test, developed by our courts in Seow Choon Meng v PP (1994) 2 SLR 853 and Gulam bin Notan Mohd Shariff Jamalddin v PP (1999) 2 SLR 181, is now codified in Explanation 1 to Clause 258.
+
+{:start="51"}
+51. Clause 258 extends the protection of the admissibility test to all statements made by an accused person, whether made to a police officer (above the rank of sergeant) or otherwise. This plugs a gap in the existing section 121 of the Code, which confines the admissibility test only to statements made to a police officer (but not any other enforcement personnel).
+
+{:start="52"}
+52. I should also comment briefly on Explanation 2 to Clause 258 of the Bill, which has been the source of some degree of debate (and I think, confusion), during the public consultation and working group phases.
+
+{:start="53"}
+53. Explanation 2 is a reproduction of s 29 of the Evidence Act (which is now ported to the Code). Its purpose is simply to clarify that the sole test of admissibility is the absence of threat, inducement or promise as set out in Clause 258. This reflects the position taken by our courts. Thus, and I emphasise this – there is no change in the law as a result of the amendments. (The only addition is Sub clause (e) to Clause 258). The main change is that the test of voluntariness is now applied to all statements and that is an extension of the rights.
+
+{:start="54"}
+54. However, I note from an article in TODAY 17 May (entitled “Criminal Lawyers concerned over Clause in proposed Criminal Procedure Code”) that both Mr Subhas Anandan and Mr Edmond Pereira are quoted on this clause. Mr Anandan is concerned that a part of the law on what is admissible evidence is being “further entrenched”. Mr Pereira has said that clause 258 was a “talking point”, among the changes to the CPC.  But as I have stated earlier, clause 258 does not change the law. It does not detract from the rights of the accused. Clause 258 simply brings over a similar provision in the Evidence Act – which is already the law. The only change is the addition of sub clause (e). Thus, there is no “further entrenching” of this aspect of the law on what is admissible evidence. The law is set out in black and white in the Evidence Act and that is the law that the Courts have been applying all these years. And to the extent that this Clause 258 is a talking point, it may be that its current avatar in the Evidence Act has perhaps been overlooked. We had explained these points to relevant stakeholders, as well as the Law Society.
+
+{:start="55"}
+55. I understand now that the ACLS accepts that the real test of Section 258 – that is, whether a threat, inducement or promise operated on the accused person at the material time, and that deception is technically irrelevant.
+
+
+{:start="56"}
+56. I can understand arguments that such a provision should be qualified. But it is difficult to understand arguments that object to the CPC essentially replicating a provision from the Evidence Act.
+
+
+<ol start="7" style="list-style-type: upper-alpha">
+<li><u>Ancillary Hearings</u></li>  
+</ol>
+
+{:start="57"}
+57. If the court, after hearing any submissions from parties, decides to reverse its earlier decision in admitting such evidence, it must disregard such evidence when determining whether or not to call for the defence or when determining the guilt of the accused person. The converse will apply if the court, after hearing any submissions, decides to reverse its earlier decision in refusing to admit the evidence. Where this is the case, such evidence may be admitted in court for the purpose of determining whether or not to call for the defence or when determining the guilt of the accused.
+
+
+<ol start="8" style="list-style-type: upper-alpha">
+<li><u>Appeals</u></li>  
+</ol>  
+
+
+{:start="58"}
+58. Under clause 390 of the Bill, the appellate court will be allowed to frame an altered charge and convict on it if there is sufficient evidence for it to do so based on records before the court.  The amendment is a codification of case law as decided by the Court of Appeal in *Lee Ngin Kiat* [1993] 2 SLR 511 .
+
+{:start="59"}
+59. The amendments go one step further to provide safeguards should the appellate court decide to frame an altered charge. The appellate court is required to ask the accused if he intends to offer a defence to the newly framed charge. The appellate court will then have to decide, with reference to the nature of the defence and the records before the court, whether to convict him of the freshly-framed charge or to send the matter for trial in the lower courts.
+
+{:start="60"}
+60. Clause 396 contains a new provision which allows both the Public Prosecutor and the Defence to state a case directly on a question of law of public importance, from the District Court directly to the Court of Appeal.
+
+{:start="61"}
+61. The situations where a “leapfrog”, as such provisions are known, will apply are: (a) where the High Court is already bound by a prior decision of the Court of Appeal on the point of law being stated, or (b) where there is a conflict of binding authority on the High Court on the question at hand.  In these situations, the legal issues (for example, binding precedent on the High Court) are more appropriately dealt with by the Court of Appeal, than the High Court.   A leapfrog appeal direct to the Court of Appeal would thus save parties time and cost.
+
+{:start="62"}
+62. To ensure that the provision is not abused, the leave of the Court of Appeal is required before a “leapfrog” is allowed. The Court of Appeal will determine whether the question of law is indeed of public importance, and whether a leapfrog is appropriate in the circumstances of the case. 
+
+
+<ol start="9" style="list-style-type: upper-alpha">
+<li><u> Rectification of Clerical Errors</u></li>  
+</ol>
+
+{:start="63"}
+63. Clause 301 of the Bill relates to the powers of the courts to rectify errors in their judgments. Currently, only the High Court can alter or review its judgments. To the extent that the error was a clerical one, it can be rectified at any time. Any other mistake may only be rectified before the court has risen for the day.
+
+{:start="64"}
+64. The Bill extends the power to rectify errors to all courts (including the District and Magistrates’ Courts). The existing practice has been retained. For all other errors, including errors in the exercise of the court’s sentencing powers, the time in which the court may rectify such errors has been extended to the next working day after the delivery of the judgment.
+
+{:start="65"}
+65. Illustrations are also included in Clause 301 to clarify how the provision will work. For instance, where a District Court imposes a sentence of caning on a man who was 54 years old when he committed the offence in question, the court would have made an error. Exercising its powers of rectification under Clause 301 of the Bill, the court may now revoke the sentence of caning and impose the appropriate sentence provided this is done by the next day after it had imposed the original sentence of caning.
+
+{:start="66"}
+66. Notwithstanding this, there is a further limit on the courts’ rectification powers. Clause 301(2) expressly states that a court may not exercise its powers under this Clause to rectify any error resulting from a sentence which the court subsequently views as being too harsh or lenient.
+
+
+<ol start="10" style="list-style-type: upper-alpha">
+<li><u> Sentencing jurisdiction of the Courts</u></li>  
+</ol>
+
+{:start="67"}
+67. Clause 303 of the Bill increases the sentencing powers of both the Magistrates’ Courts and the District Courts to align them with the recent amendments to the penalties in the Penal Code. Essentially, the Magistrates’ Courts sentencing powers have been increased from two years to three years of imprisonment, and the District Court’s sentencing powers will be increased from seven years to 10 years of imprisonment.
+
+{:start="68"}
+68. Clause 303 also increases the quantum of fines which can be imposed by the Subordinate Courts. For the Magistrates’ Courts, the limit will be increased from $2,000 to $10,000; whereas the limit for the District Court will be increased from $10,000 to $30,000. The revision is necessary to take into account the increase in the purchasing power of money, since the jurisdiction for imposing fines for the District Court was last revised in 1986 and the jurisdiction for the Magistrates’ Courts since 1959.
+
+
+<ol start="11" style="list-style-type: upper-alpha">
+<li><u>Caning</u></li>
+</ol>
+
+
+{:start="69"}
+69. Two main changes will be made to the provisions on caning.
+
+{:start="70"}
+70. The first change is the imposition of a cap of 24 strokes for each occasion of sentencing or caning.
+
+{:start="71"}
+71. The amendments will make clear that on each occasion of sentencing, a cap of 24 strokes will apply, even where the mandatory number of strokes for multiple charges could add up to more than 24. As an example, if the Prosecution has, in the same set of proceedings, preferred five counts of robbery under section 392 of the Penal Code (each carrying a sentence of not less than six strokes of the cane), the court cannot impose a sentence of 30 strokes. In such a case, the court can only impose a maximum of 24 strokes.
+
+{:start="72"}
+72. A similar rule will be imposed for the execution of caning. Whilst sentences for caning can be combined, the maximum strokes for any one sitting would be capped at 24.
+
+{:start="73"}
+73. The cap does not apply for repeat offenders sentenced and caned over different periods of time. There is no immunity from further caning for serial offenders. This is because we cannot treat serial offenders in the same way as we do an offender who has only committed, for example, two offences.
+
+{:start="74"}
+74. The second amendment relates to imprisonment in lieu of strokes where the statutory cap of 24 strokes applies and in excepted cases.
+
+{:start="75"}
+75. Where an accused person would have been sentenced to an aggregate sentence of caning which exceeds the specified limit (i.e. 24 strokes for an adult or 10 strokes for a juvenile), the court may impose a term of imprisonment of not more than 12 months in lieu of all such strokes which exceed the specified limit. Thus, in the example which I had used since the court can only impose 24 strokes instead of 30 strokes, the court may impose an additional term of say, eight months imprisonment in lieu of the 6 strokes of caning.
+
+{:start="76"}
+76. Another category of cases where imprisonment would be ordered in lieu of caning would be where caning is not possible from the outset (e.g. male offenders over 50 years old and those who are medically unfit). For these categories of offenders, the court has the discretion to impose an imprisonment term of up to 12 months in lieu of the strokes which were forgone. This will give the court discretion in exercising parity between co-accused persons, one of whom may be caned and the other may not.
 
