@@ -386,3 +386,228 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 {:start="76"}
 76. Another category of cases where imprisonment would be ordered in lieu of caning would be where caning is not possible from the outset (e.g. male offenders over 50 years old and those who are medically unfit). For these categories of offenders, the court has the discretion to impose an imprisonment term of up to 12 months in lieu of the strokes which were forgone. This will give the court discretion in exercising parity between co-accused persons, one of whom may be caned and the other may not.
 
+
+<ol start="12" style="list-style-type: upper-alpha">
+<li><u>Community Sentences</u></li>  
+</ol>
+
+{:start="77"}
+77. I turn now to the main change to our sentencing regime: Community Sentences (CBS), detailed in the new Part XVII of the Bill.
+
+
+<ol>
+<li style="font-style:italic;"> Rationale for having new community sentences</li>  
+</ol>
+
+{:start="78"}
+78. Our sentencing philosophy is aimed at deterrence, prevention, retribution and rehabilitation. A fair sentencing framework is one that enables the Court to deliver the correct mix of these four objectives on the specific facts of each case.
+
+{:start="79"}
+79. CBS gives more flexibility to the Courts. Not every offender should be put in prison. CBS targets offences and offenders traditionally viewed by the Courts to be on the rehabilitation end of the spectrum: regulatory offences, offences involving younger accused persons, and persons with specific and minor mental conditions. For such cases, it is appropriate to harness the resources of the community. The offender remains gainfully employed and his family benefits from the focused treatment.
+
+
+<ol start="2">
+<li style="font-style:italic;">Eligibility criteria</li>  
+</ol>
+
+{:start="80"}
+80. In line with those considerations, Clause 337 of the Bill sets out the circumstances that prevent the making of a community order.
+
+{:start="81"}
+81. A community order cannot be made in respect of an offence for which the sentence is fixed by law or which attracts a specified minimum sentence or mandatory minimum sentence of imprisonment or caning.
+
+{:start="82"}
+82. Community orders, except for the community work order, cannot be made in respect of an offence which attracts a specified minimum sentence or mandatory minimum sentence of a fine.
+
+{:start="83"}
+83. Community sentences cannot be handed down for the serious offences which are specified in the Third Schedule to the Registration of Criminals Act. Offences which are punishable with a maximum sentence of more than three years’ imprisonment are excluded from the community sentencing framework.
+
+{:start="84"}
+84. Finally, a court cannot hand down a community sentence if an offender had previously been detained or subjected to police supervision under the Criminal Law (Temporary Provisions) Act, detained in a Drug Rehabilitation Centre, sentenced to imprisonment, corrective training, reformative training, or preventive detention.
+
+<ol start="3">
+<li style="font-style:italic;"> Community sentences</li>  
+</ol>
+
+<ol start="85">
+<li>The Bill introduces five new types of CBS orders:
+<ol style="list-style-type: lower-alpha">  
+<li>a mandatory treatment order (MTO); </li>
+<li>a day reporting order (DRO); </li>
+<li>a community work order (CWO); </li>
+<li> a community service order (CSO); and </li>
+<li>a short detention order (SDO). </li>
+</ol>
+</li>  
+</ol>
+
+{:start="86"}
+86. A court may pass a CBS order comprising one or more of these orders at the same proceeding.
+
+{:start="87"}
+87. Let me highlight the key features of the various community orders.
+
+
+<ol start="4">
+<li style="font-style:italic;">Mandatory treatment orders</li>  
+</ol>
+
+{:start="88"}
+88. Clause 339 and 340 provide for MTOs. The MTO allows the court to order an offender to undergo psychiatric treatment in lieu of imprisonment. The period of treatment can be up to 24 months.
+
+{:start="89"}
+89. Before making a MTO, the court must call for a suitability report by a psychiatrist who is appointed by the Director of Medical Services of the Ministry of Health. The appointed psychiatrist will have to assess (a) first, if the offender is suffering from a treatable psychiatric condition; (b) secondly, if he is suitable for treatment; and (c) thirdly, if his psychiatric condition had contributed to the commission of the offence. If the offender does not meet any of these requirements, the court will not be able to make the MTO.
+
+
+<ol start="5">
+<li style="font-style:italic;">Day reporting orders</li>  
+</ol>
+
+{:start="90"}
+90. Clauses 341 to 343 provide for the DRO. This order requires the offender to report to a reporting centre on a regular basis for supervision and to undergo counselling and rehabilitation. An offender may also be monitored electronically, if necessary. The duration of a DRO can be from three to 12 months. This imposes discipline and aids in rehabilitation as the offender’s progress is monitored closely.
+
+{:start="91"}
+91. Before making a DRO, the court must call for a suitability report by a day reporting officer appointed by the Director of Prisons.
+
+{:start="92"}
+92. However, even if the report concludes that the offender is unsuitable, the court may still sentence him to a DRO, as the court may take into account broader considerations. Where rehabilitation is the key consideration, the courts would still impose a DRO, if satisfied that the offender will be sufficiently punished by having restrictions imposed, and is unlikely to re-offend if there is no significant disruption to his employment or family.
+
+<ol start="6">
+<li style="font-style:italic;">Community work orders</li>  
+</ol>
+
+{:start="93"}
+93. Clause 346 provides for CWOs. The CWO is modelled after the “Corrective Work Order” for litterbugs, but will allow for a wider range of offences and types of work to be mandated.
+
+{:start="94"}
+94. The type of community work will have some nexus to the offence committed. By performing work associated with the offence, the intention is to let the offender take responsibility for, and acknowledge the harm caused by his offence.
+
+<ol start="7">
+<li style="font-style:italic;">Community service orders</li>  
+</ol>
+
+{:start="95"}
+95. The courts are currently empowered to make a CSO under the Children and Young Persons’ Act, or as a condition of probation. Clause 346 and 347 of the Bill expands the existing order to allow offenders aged 16 and above to receive a CSO as a standalone sentence or with other community orders. This would allow the offender to make reparations to the community while being punished for his actions.
+
+{:start="96"}
+96. The courts will have to call for a suitability report before sentencing an offender to perform community service. The court may make a CSO even if the community service officer finds the offender unsuitable.
+
+
+<ol start="8">
+<li style="font-style:italic;">Short detention orders</li>  
+</ol>
+
+{:start="97"}
+97. Clause 348 allows the courts to detain an offender in prison for up to 14 days. By limiting the detention period, the SDO is less disruptive and stigmatising than a longer prison stay. Prisons will also put in place measures that prevent first-time offenders from being “contaminated” by hardcore criminals.
+
+
+<ol start="9">
+<li style="font-style:italic;"> Taking and forfeiture of security</li>  
+</ol>
+
+{:start="98"}
+98. Clause 349 empowers the court to take a security from the offender or any other person to ensure that the offender complies with the community order. Clause 350 provides for the forfeiture of the security if the offender breaches the order or any of its conditions.
+
+
+<ol start="10">
+<li style="font-style: italic">Breach of community order, conviction of offence committed before emplacement on community sentence, commission of further offence</li>  
+</ol>
+
+{:start="99"}
+99. A CBS order gives an offender the chance to reflect on his actions. The onus is on him to complete the community sentence.
+
+{:start="100"}
+100. Under clause 352, if the offender breaches the conditions of a CBS order, he can be summoned back to court.
+
+{:start="101"}
+101. After being notified of the breach, the court can give a warning or impose a fine of up to S$1,000, while at the same time allowing the offender to continue serving the community sentence. The court can also vary the community sentence by extending or reducing it, up to the maximum length permitted for each order. If the community sentence is not a SDO, the court may detain the offender in prison for not more than 14 days. Lastly, the court may revoke the community sentence and impose the traditional sentence originally mandated for the offence.
+
+{:start="102"}
+102. Under clause 353, if the offender is sentenced to imprisonment for a crime committed before the CBS order is made, the community sentence will be revoked and he will be re-sentenced. The community sentence will also be revoked if the prior offence cannot be punished with a community sentence. Otherwise, the offender will be allowed to continue to serve his community sentence.
+
+{:start="103"}
+103. Under clause 354, if the offender commits a fresh offence while serving a community sentence and is convicted for it, the CBS order will be revoked and he will be brought back to the courts for re-sentencing.
+
+
+<ol start="5" style="list-style-type: upper-roman">
+<li>Conclusion</li>  
+</ol>
+
+{:start="104"}
+104. Sir, I have taken the House through the main amendments to the CPC.
+
+{:start="105"}
+105. This Bill, although wide ranging, should be seen as part of the on-going evolution of our criminal justice system since our independence in 1965.
+
+{:start="106"}
+106. In 1966, the Code was amended to mirror the practice in the UK Judge’s rules to grant discretion to the court to admit an accused person’s statement which was obtained in non-compliance with certain conditions provided the statement was made voluntarily. In 1967, offences such as rioting and unlawful assembly were made non-bailable. In the wake of a number of cases in 1969 where accused persons were acquitted by juries despite there having been clear evidence of guilt, the jury system was abolished. The 1970s saw amendments to allow sentences of corrective training for young offenders who showed signs of embarking on a lifetime of crime. Amendments were also made in respect of an accused person’s “right of silence” by permitting the court to draw adverse inferences in appropriate circumstances. In 1984, the period in which a suspect could be detained when arrested without a warrant was extended from 24 hours to 48 hours to give the police adequate time to complete investigations. Later, in 1995, vulnerable witnesses were allowed to give evidence via video link to shield them from direct confrontation with the accused person.
+
+{:start="107"}
+107. The present Bill represents a significant point in the developmental continuum of our criminal justice framework. As our society continues to evolve and mature, our criminal procedure will have to be reviewed and updated to keep pace. In the process, we will continue to examine developments and innovations occurring elsewhere in the world.
+
+{:start="108"}
+108. For instance, the Law Society has highlighted that the United Kingdom introduced, in 2003, an indeterminate sentencing regime, known as “Imprisonment for Public Protection”, where courts are empowered to incarcerate an offender for as long as he or she is assessed to be a danger to the community, rather than for a fixed term of years. Similar regimes exist in Australia, New Zealand and Canada. We will study this, and other reforms, in close consultation with our criminal justice stakeholders. We will continue to search for solutions which work for us.
+
+{:start="109"}
+109. Mr Speaker, Sir, I beg to move.
+
+
+---
+
+<p id="fn1"><u><strong>ANNEX</strong></u></p>
+
+**MEMBERS OF THE CRIMINAL PROCEDURE CODE WORKING GROUP** 
+
+
+Mr Amarjeet Singh, SC
+*KhattarWong*
+
+Mr Ang Cheng Hock, SC
+*Allen and Gledhill LLP*
+
+Mr Bala Reddy
+*Attorney-General's Chambers*
+
+Mr Hri Kumar, SC
+*Drew and Napier LLC*
+
+Ms Jennifer Marie, SC
+*Attorney-General’s Chambers*
+
+Professor Michael Hor
+*National University of Singapore*
+
+Assistant Professor Rathna Nathan
+*Singapore Management University*
+
+Mr S Rajendran
+*Hindu Endowments Board*
+
+Mr Sant Singh, SC
+*Chairman, Criminal Practice Committee of the Law Society 2009*
+
+Mr Subhas Anandan
+*President, the Association of Criminal Lawyers of Singapore*
+
+Mr Sunil Sudheesan
+*Association of Criminal Lawyers of Singapore*
+
+Mr Tai Wei Shyong
+*Ministry of Home Affairs*
+
+Mr Tan Siong Thye
+*Subordinate Courts*
+
+Ms Valerie Thean
+*Ministry of Law*
+
+Mr Wendell Wong
+*Vice-Chairman, Criminal Practice Committee of the Law Society 2009*
+
+Mr Wong Hong Kuan
+*Singapore Police Force*
+
+
+
+<p class="right-side-updated">Last updated on 25 Nov 2012</p> 
+
