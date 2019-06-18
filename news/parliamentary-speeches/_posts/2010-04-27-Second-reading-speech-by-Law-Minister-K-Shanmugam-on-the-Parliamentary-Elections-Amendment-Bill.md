@@ -173,10 +173,182 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-
 
 **Technical amendment: Election contingencies**
 
-48.          I will next move on to the more technical aspects of the Bill.
+{:start="48"}
+48. I will next move on to the more technical aspects of the Bill.
 
-49.          After the 2006 General Election, a Review Committee was established to identify gaps in the conduct of the election, and to recommend improvements for the future.
+{:start="49"}
+49. After the 2006 General Election, a Review Committee was established to identify gaps in the conduct of the election, and to recommend improvements for the future.
 
-50.          DPM Wong announced during the Committee of Supply Debates in 2008, that one of the recommendations of the Review Committee was for the Elections Department to draw up contingency plans to deal with potential disruptions to an election. These would include man-made situations, such as bomb threats or open violence, as well as natural calamities, such as flood, fire or public health threats. Legislative amendments were necessary as the current electoral laws provided for only a limited range of responses to deal with crisis situations and disruptions.
+{:start="50"}
+50. DPM Wong announced during the Committee of Supply Debates in 2008, that one of the recommendations of the Review Committee was for the Elections Department to draw up contingency plans to deal with potential disruptions to an election. These would include man-made situations, such as bomb threats or open violence, as well as natural calamities, such as flood, fire or public health threats. Legislative amendments were necessary as the current electoral laws provided for only a limited range of responses to deal with crisis situations and disruptions.
 
-51.          The Bill therefore introduces a range of contingency measures to deal with these situations, while at the same time seeking to ensure the safety of the public and officials, as well as the integrity of the election process.
+{:start="51"}
+51. The Bill therefore introduces a range of contingency measures to deal with these situations, while at the same time seeking to ensure the safety of the public and officials, as well as the integrity of the election process.
+
+
+<u>Total failure of election</u>
+
+{:start="52"}
+52. Clause 6 of the Bill deals with the situation where a total failure of election occurs. This is a situation where no candidate is nominated or returned as elected in an electoral division. For instance, if polls have to be aborted midway due to some natural or man-made catastrophe, or where no candidate is nominated due to such a situation.
+
+{:start="53"}
+53. In such an event, the President may, on the advice of the Cabinet, issue a fresh writ of election.
+
+<u>Postponement etc of nomination proceedings</u>
+
+{:start="54"}
+54. Clause 18 of the Bill introduces new sections 56A to 56F to the Act. New section 56A empowers the President, on the advice of Cabinet, to postpone Nomination day or change the location of nomination centres because of a crisis situation. Section 56B empowers the Returning Officer (RO) to change the time for nomination proceedings because of a crisis.
+
+
+<u>Adjournment etc of polling</u>
+
+{:start="55"}
+55. Section 56C allows the RO to postpone polling at all polling stations to another day, if it appears that polling at all stations is likely to be obstructed, disrupted, undermined or seriously affected by a crisis situation.
+
+
+<ol start="56">
+<li>   If the concern surrounds only one or some polling stations, then the RO may take any of the following steps:
+
+<ol>
+<li>First, he may temporarily suspend polling for not more than two hours, to see if the crisis dissipates; </li>
+
+<li>Second, he may adjourn and postpone polling to another day; </li>
+
+<li>Third, he may wholly abandon and restart polling on another day; </li>
+
+<li> Fourth, he may terminate polling early; or </li>
+
+<li>Fifth, in an overseas polling station, he may abandon that poll if polling cannot start or be resumed or completed. </li>
+
+  
+</ol>
+
+</li>
+</ol>
+
+{:start="57"}
+57. If polling is resumed or held in place of a postponed overseas poll, it must not close later than the close of the poll on Polling day in Singapore.
+
+{:start="58"}
+58. Any poll held in place of a postponed poll must also be held within three months after the dissolution of Parliament.
+
+<u>Adjournment etc of counting</u>
+
+<ol start="59">
+<li>Section 56E empowers the RO to take action during the counting of votes, if he is satisfied that counting at all or any counting place is likely to be obstructed, disrupted, undermined or seriously affected by a crisis. In such a situation, he may:
+
+<ol>
+<li>temporarily suspend counting for up to two hours; </li>
+
+<li>adjourn and postpone counting to another day; </li>
+
+<li>wholly abandon counting if it cannot be resumed or completed and the number of votes to be counted will not affect the result of the election for that electoral division; or </li>
+
+<li>wholly abandon counting and restart polling at stations which were affected by the abandonment of counting, if counting cannot be resumed or completed, and if the votes to be counted will affect the result of the election at the electoral division. </li>   
+  
+  
+</ol>
+
+</li>
+</ol>
+
+{:start="60"}
+60. If a recount of votes is wholly abandoned, then the results of the first count will be used.
+
+{:start="61"}
+61. If counting of votes is wholly abandoned and polling is restarted, the restarted poll must take place within three months of the dissolution of Parliament.
+
+
+<u>Adjournment etc. of adding of counted votes</u>
+
+
+{:start="62"}
+62. Finally, section 56F allows the RO to temporarily suspend the addition or tallying of votes at a principal counting place for up to two hours , or to the next day, where the adding of counted votes may be obstructed, disrupted, undermined or seriously affected by a crisis.
+
+{:start="63"}
+63. When any of the contingency measures outlined above are activated, a notice of the action taken with regard to the election proceedings must be published in the Gazette. If this is not practicable, then it must be published in such a manner as to secure its adequate publicity. This ensures transparency and accountability in the manner that the powers are exercised.
+
+{:start="64"}
+64. The contingency measures are also accompanied by requirements that safeguard the integrity of the ongoing electoral process. For instance, before counting of votes is suspended or adjourned, the Bill requires all counted ballot papers, uncounted ballot papers, and all other documents relating to the counting of votes to be sealed up in separate packets and placed in ballot boxes. These boxes must then be sealed with the RO’s seal and the seals of any candidate or election agent present. Subsequently, before counting can resume, the RO must show the candidates and their counting agents who are present that each ballot box remains sealed, before the uncounted ballot papers can be taken out.
+
+{:start="65"}
+65. To sum up, the various contingency powers outlined above are necessary, so that the Returning Officer can take appropriate and authoritative measures during election proceedings, if and when they are threatened or actually disrupted by unexpected events. Contingency powers are not unprecedented. For example, the flexibility to adjourn polling in the event of a disruptive event can also be found in Australian electoral legislation. 
+
+
+**Technical amendment: streamlining of election spending rules**
+
+
+{:start="66"}
+66. The next set of technical amendments relate to the rules that regulate election expenditure and reporting by candidates and their parties. 
+
+{:start="67"}
+67. The Parliamentary Elections Act places a limit on how much each candidate can spend in an election. It also regulates the types of permissible expenditure and the manner in which expenditure must be reported to the RO.
+
+{:start="68"}
+68. The Act requires every candidate to appoint an election agent, through whom all expenditure must be made (with minor exceptions). The election agent must keep an accurate account of all expenses incurred and donations received, and all disputed claims and unpaid claims for payment. Within 31 days after election results are published in the Gazette, the election agent must submit the Return of Election Expenses to the RO, together with all bills and receipts. This must be signed and declared to be accurate and complete by the election agent, and be accompanied by a similar declaration by the candidate.
+
+{:start="69"}
+69. The election spending rules in the Act were adapted from the Singapore Legislative Elections Ordinance in the 1960s. They were designed principally to regulate election expenses and reporting by individual candidates (and their agents).
+
+<u>Streamlining and modernising election spending rules</u>
+
+{:start="70"}
+70. The Bill seeks to modernise the regulatory framework and streamline the reporting procedures for election expenses.
+
+
+<u>Amendments to cater to party-level expenditure</u>
+
+{:start="71"}
+71. The first set of amendments relate to election expenditure at party-level. Under the Bill, an election agent can give a written authority to the party to pay expenses (up to a total amount spelt out in the authority) in respect of the conduct or management of the election of its candidate. The expenses may then be paid by the party or an authorised officer of the party.
+
+{:start="72"}
+72. The party must then submit a statement of the particulars of payment to the election agent within the time limit for the sending in of claims and vouched for by a bill containing the receipt of the party.
+
+<u>Amendments to cater to GRC-level expenditure</u>
+
+{:start="73"}
+73. The second set of technical amendments caters to GRC-level expenditure.
+
+{:start="74"}
+74. The Bill introduces the concept of ‘sub-agent’, who would be one of the GRC slate’s election agents who can be authorised in writing by the other agents to incur expenditure collectively for them. One or more sub-agents can be appointed per GRC slate. This would allow the team of agents to divide the work of organising the GRC slate’s campaign by authorising each other to handle different types of expenses.
+
+{:start="75"}
+75. The principal election agent of the team will be required to file a consolidated return of election expenses, which must contain all payments made by the sub-agents (together with all bills and receipts and dates of payment for all sums for which no receipt is attached), and the amount of those payments apportioned by agreement to each candidate. The consolidated return must be signed by the principal election agent and be accompanied by a statement made by the principal election agent and every authorised sub-agent in the team.
+
+
+<u>Individual returns by candidates</u>
+
+
+{:start="76"}
+76. Election agents of the individual candidates must, however, still fulfill the existing requirement of filing individual returns. These returns must reflect the portion of the expenses incurred by the political party on behalf of the candidates. For GRC candidates, the individual returns must also take into account the expenses incurred for the candidates by the sub-agents. 
+
+**Review of election offences**
+
+{:start="77"}
+77. Next, I will deal with Election Offences. Most of the offences in the Parliamentary Elections Act originated from the Singapore Legislative Assembly Elections Ordinance of 1954. Their maximum penalties have not been reviewed since then. Some other offences were introduced in 1959, while a few others were introduced in more recent years. As a result, many of the penalties in the Act have not kept pace with those in contemporary legislation.
+
+{:start="78"}
+78. As part of the ongoing review of electoral laws, penalties in the Act have been reviewed.
+
+{:start="79"}
+79. For instance, section 55 of the Act contains a list of offences that we can broadly describe as deliberate electoral fraud. These include forging of nomination papers and ballot papers, stuffing ballot boxes, and using devices or appliances that can manipulate ballot papers. Under the current Act, these serious offences carry a maximum penalty of imprisonment for up to two years. The offender would also be disqualified for seven years from voting or standing for elections. The Bill enhances the maximum penalty to mandatory imprisonment of up to five years, as well as fine. The seven-year disqualification remains.
+
+{:start="80"}
+80. The proposed changes (subject to one exception), do not add offences to the list of offences for which disqualification for membership of Parliament may potentially follow, if the sentence exceeds the threshold set out in Article 45 of the Constitution. Under the Constitution, a person will be disqualified from being an MP if he is convicted of an offence and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000.
+
+{:start="81"}
+81. The one exception is this: The existing offence of voting when a person is not entitled to vote, in section 38(5) of the Parliamentary Elections Act, will be made an offence for which an automatic disqualification of three years from voting or from being elected, will apply. This change will bring the penalty for this offence in line with the offence of plural voting, which already attracts a three-year disqualification.
+
+**Concluding remarks**
+
+{:start="82"}
+82. Mr Speaker, Sir, this Bill moves our political system gradually in a direction that better reflects the growing aspirations of our society, and in a way that we believe will continue to serve Singapore well as we face the challenges of the future.
+
+{:start="83"}
+83. They ensure that the Government, which is elected by popular vote, will have a clear mandate to govern in the interests of Singapore, so that our political system will continue to serve Singapore well, now and into the future.
+
+{:start="84"}
+84. Mr Speaker, Sir, I beg to move.
+
+
+<p class="right-side-updated">Last updated on 25 Nov 2012</p> 
