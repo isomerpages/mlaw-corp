@@ -152,7 +152,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-durin
 40. Sir, thank you and Professor Ho will respond to the other questions.
 
 
-**<u>Annex:</u>**
+**<u>Annex:</u>**  
 [Transcript of Clarifications on Legal Services Sector (0.01MB)](/files/news/parliamentary-speeches/2010/03/linkclick083f.pdf)
 
 <p class="right-side-updated">Last updated on 26 Nov 2012</p> 
