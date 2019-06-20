@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amend
 
 1. Mr Speaker, Sir, I beg to move, "That the Bill be now read a Second time".
 
-**Objective of Bill **
+**Objective of Bill**
 
 {:start="2"}
 2. Sir, this Bill seeks to make 2 sets of amendments to the Civil Law Act. The first concerns the lowering of the age of contractual capacity from 21 to 18 years; the second refines the regime applicable to claims resulting from fatal accidents. A public consultation on the draft Bill in relation to the lowering of the contractual age, was held from 25 August to 19 September last year.
