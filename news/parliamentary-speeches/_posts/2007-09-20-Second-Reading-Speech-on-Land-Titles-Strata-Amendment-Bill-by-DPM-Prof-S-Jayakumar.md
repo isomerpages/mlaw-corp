@@ -72,7 +72,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-land-titles-str
 <li>A decision to form an en bloc sale committee will have to be made by ordinary resolution passed at a general meeting. The intention is that there can only be one sale committee per development at any time. </li>
 <li>Members of the sale committee will have to be elected at the meeting. Similarly, a sale committee may be dissolved by ordinary resolution at a general meeting. </li>
 <li>A person standing for election to the sale committee must meet certain eligibility criteria. For example, such a person has to be an owner of a unit in the development; or be nominated by an owner which is a company; or be a member of the immediate family of the owner who is nominating him. </li>
-<li>A person standing for election to the sale committee must declare his interest or relationship, if any, with a property developer, property consultant, marketing agent or legal firm. \
+<li>A person standing for election to the sale committee must declare his interest or relationship, if any, with a property developer, property consultant, marketing agent or legal firm.
 <br>
 As for proceedings of a sale committee, the Bill sets out, among others, that:
 </li>
@@ -98,7 +98,7 @@ As for proceedings of a sale committee, the Bill sets out, among others, that:
 
 
 <ol start="4" style="list-style-type: upper-roman">
-<li>Mode of Sale: By Public Tender or Public Auction </li>
+<li><u>Mode of Sale: By Public Tender or Public Auction</u></li>
 </ol>
 
 {:start="16"}
@@ -108,7 +108,7 @@ As for proceedings of a sale committee, the Bill sets out, among others, that:
 17. First, every launch of an en bloc sale must be by public tender or auction. Following a tender or auction, especially one which fails to achieve the price acceptable to the sale committee, the sale committee can engage in follow-up negotiations for sale by private treaty with any bidder to get the best deal for the owners. But any sale by private treaty must be concluded within 10 weeks from the close of the tender or auction. Second, the sale committee must obtain from an independent valuer a valuation report on the value of the en bloc sale site as at the date of the close of the tender or auction on the same date. Third, the sale committee will be required to provide the owners with information on the bids received as soon as practicable after the close of the tender or auction or, where applicable, after the sale committee has entered into a sale by private treaty.
 
 <ol start="5" style="list-style-type: upper-roman">
-<li>Return of Moneys in Management Fund and Sinking Fund </li>
+  <li><u>Return of Moneys in Management Fund and Sinking Fund </u></li>
 </ol>
 
 {:start="18"}
