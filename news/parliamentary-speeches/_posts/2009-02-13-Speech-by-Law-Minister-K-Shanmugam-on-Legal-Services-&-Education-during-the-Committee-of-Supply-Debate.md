@@ -162,7 +162,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 22. We will also replace Pupillage with Training Contracts.
 
 
-**Rationale**
+*Rationale*
 
 
 {:start="23"}
@@ -403,7 +403,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 70. I would say this, at this juncture. The Review Committee's recommendation has been greeted with dismay by some lawyers. On the other side, there are other lawyers, who have expressed relief. Many lawyers have borne the burden of stakeholding only because lawyers have traditionally been expected to hold monies as stakeholders as an ancillary service to their clients. They will now be freed to concentrate on their core work of providing legal services. This change is long overdue.
 
 <ol start="6" style="list-style-type: upper-alpha">
-<li>Mr Hri Kumar's questions 
+<li><u>Mr Hri Kumar's questions</u> 
 </li>  
 </ol>
 
