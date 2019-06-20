@@ -37,21 +37,22 @@ Opening up of our legal services sector will partially reverse or slow down the 
  </p></li>
 </ol>
 </li>
-<li><p>
-The Committee also made recommendations to improve the disciplinary process of lawyers.
-</p></li>
-<li><p>
-This Bill seeks to (inter alia) effectuate the proposals that have been accepted by the Government.
-</p></li>
+ </ol>  
+<p>Several of the Committee's recommendations were accepted by the Government in December 2007.</p>
+<p>
+3. The Committee also made recommendations to improve the disciplinary process of lawyers.
+</p>
+<p>
+4. This Bill seeks to (inter alia) effectuate the proposals that have been accepted by the Government.
+</p>
   
-<strong>Major Changes</strong>
-</ol> 
+<p><strong>Major Changes</strong></p>
 
 <p>
 5. Sir, now let me explain some of the more important amendments that provide a framework for liberalisation of the legal services sector.</p>
   
 
-<p><u>A. Liberalisation of the legal services sector</u></p>
+<p>A. <u>Liberalisation of the legal services sector</u></p>
 
   
 <p><i>i. Repeal and re-enactment of Part IXA </i></p>
@@ -93,10 +94,10 @@ This Bill seeks to (inter alia) effectuate the proposals that have been accepted
 </p>
 <p>
 11. The amendments will now create a new category of Singapore-qualified lawyers who will be allowed to retain their PCs and practise Singapore law in foreign legal entities in the areas outlined earlier. In general, the policy intent is for similar regulatory and other requirements to equally apply to PC holders regardless of whether they are in SLPs or FLPs. For this new category of Singapore-qualified lawyers, however, it would be quite onerous to subject them to the overlapping disciplinary jurisdictions of both the Law Society and the Attorney-General. Thus the AG will have the primary oversight in respect of lawyers working solely within a foreign entity, referring matters where relevant to the Law Society. Lawyers in JLVs who are employed by Singapore law practices will continue to be the subject to the Law Society's regulation, in relation to their practice in the Singapore law practice.</p>
-</ol>
+
   
 <p>
-<u>B. Enhancement of the Disciplinary Process </u>
+B. <u>Enhancement of the Disciplinary Process </u>
 </p>
   
 <p>
@@ -125,7 +126,7 @@ Complaint and Inquiry Procedures
 15. This change is in response to strong feedback from the Law Society which had raised concerns about disciplinary matters being decided by only one person, without the element of "judgement by peers" which is in the current process. The Law Society has given the assurance that it will commit to completing the prosecution of disciplinary cases heard before a Disciplinary Tribunal within 9 months, barring any unforeseen circumstances and cases of unusual complexity. We believe this should adequately address the problem of delay. We will however monitor the situation closely.
 </p>
     
-</ol>
+
   
 <p>iii. <i>Mental or Physical Incapacity</i></p>
 
