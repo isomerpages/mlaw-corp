@@ -24,7 +24,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-
 </ol>
 
 {:start="2"}
-2. AGC made two statements on 8 and 14 May 2008, to the effect that "an acquittal does not mean that an accused is innocent" and that an acquitted person could be "guilty in fact".  These statements were made in response to a journalist's question.  The question posed was whether compensation ought to be awarded where there has been an acquittal.  The AG's statements must therefore be understood in the context that the AG was dealing only with the issue of compensation.  He was explaining why compensation could not be paid to everyone who gets acquitted, by pointing out that not everyone who gets acquitted is necessarily innocent.
+2. AGC made two statements on 8 and 14 May 2008, to the effect that "an acquittal does not mean that an accused is innocent" and that an acquitted person could be "guilty in fact".  These statements were made in response to a journalist's question.  The question posed was whether compensation ought to be awarded where there has been an acquittal.  The AG's statements must therefore be understood in the context that the AG was dealing <strong>only with the issue of compensation.</strong>  He was explaining why compensation could not be paid to everyone who gets acquitted, by pointing out that not everyone who gets acquitted is necessarily innocent.
 
 {:start="3"}
 3. Having set out the context in which the statements had been made, let me now deal with the specific issues on the presumption of innocence that have been raised by the two Honourable Members.
@@ -90,7 +90,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-
 <li>In the English House of Lords, in Director of Public Prosecutions v Shannon [1975] AC 717, the effect of an acquittal was considered by Lord Salmon in the following terms:-
 
 <ol>
-<li style="list-style-type: none"><i>"Interesting questions have been debated before your Lordships as to the true effect of an acquittal. An accused is entitled to be acquitted unless the evidence satisfies the jury beyond reasonable doubt that he is guilty.  <strong>A verdict of not guilty may mean that the jury is certain that the accused is innocent, or it may mean that, although the evidence arouses considerable suspicion, it is insufficient to convince the jury of the accused's guilt beyond reasonable doubt. The verdict of not guilty is consistent with the jury having taken either view. The only effect of an acquittal, in law, is that the accused can never again be brought before a criminal court and tried for the same offence.</strong> So far as the Crown is concerned, the accused is deemed, in law, to be innocent <a href="#772"><sup>1</sup></a>." (emphasis added)</i></li>
+<li style="list-style-type: none"><i>"Interesting questions have been debated before your Lordships as to the true effect of an acquittal. An accused is entitled to be acquitted unless the evidence satisfies the jury beyond reasonable doubt that he is guilty. <strong>A verdict of not guilty may mean that the jury is certain that the accused is innocent, or it may mean that, although the evidence arouses considerable suspicion, it is insufficient to convince the jury of the accused's guilt beyond reasonable doubt. The verdict of not guilty is consistent with the jury having taken either view. The only effect of an acquittal, in law, is that the accused can never again be brought before a criminal court and tried for the same offence.</strong> So far as the Crown is concerned, the accused is deemed, in law, to be innocent <a href="#772"><sup>1</sup></a>." (emphasis added)</i></li>
 </ol>
 
 </li>
@@ -124,7 +124,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-
 
 
 {:start="16"}
-16. Mr de Souza has asked if the Government supports <strong>the "presumption of innocence".  Sir, let there not be any doubt on this point: the presumption of innocence is an important and fundamental principle, and is one of the foundations of our Criminal Justice System. The Government is absolutely committed to upholding the presumption of innocence, as a core principle in our commitment to the Rule of Law.  There is no intention to question or qualify that principle in any way.</strong>  I am surprised that any doubt at all should have arisen about this and I thank Mr de Souza and Mr Yeo for raising this issue and allowing me to clarify the position.
+16. Mr de Souza has asked if the Government supports the "presumption of innocence".  Sir, let there not be any doubt on this point:<strong> the presumption of innocence is an important and fundamental principle, and is one of the foundations of our Criminal Justice System. The Government is absolutely committed to upholding the presumption of innocence, as a core principle in our commitment to the Rule of Law.  There is no intention to question or qualify that principle in any way.</strong>  I am surprised that any doubt at all should have arisen about this and I thank Mr de Souza and Mr Yeo for raising this issue and allowing me to clarify the position.
 
 
 {:start="17"}
