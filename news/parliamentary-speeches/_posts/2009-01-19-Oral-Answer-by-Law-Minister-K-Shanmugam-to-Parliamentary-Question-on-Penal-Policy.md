@@ -81,14 +81,14 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 {:start="10"}
 10. Hence, both in prescribing punishments and sentencing offenders, much thought has been given to how justice can be best secured for each individual offender.  The Government is also at present exploring Community Based Sentencing options, which will further equip our penal framework with the best tools to advance justice in each particular case.
 
-<ol start="2" style="list-style-type: lower-roman">
+<ol start="2" style="list-style-type: lower-roman; font-weight:bold;">
 <li>Treatment and Rehabilitation of Prisoners in Prison </li>
 </ol>
 
 {:start="11"}
 11. Let me now deal with treatment and rehabilitation of prisoners in prison.  As stated earlier, we believe strongly in rehabilitation and we believe that the process of rehabilitation should start even while the sentences are being served. Thus, during incarceration, inmates who are genuinely willing to change are given education, training and rehabilitative opportunities that will better help them to reintegrate into society after their prison sentences.
 
-<ol start="3" style="list-style-type: lower-roman">
+<ol start="3" style="list-style-type: lower-roman; font-weight:bold;">
 <li>Reintegration of Ex-Offenders Into Society </li>
 </ol>
 
@@ -102,7 +102,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 14. Another example of the successful rehabilitation and reintegration programmes for offenders is the Home Detention Scheme. Deserving inmates are released earlier, at the tail-end of their sentences and placed on electronic monitoring to work or study.  Prisoners on Home Detention have lower recidivism rates compared to the general population.
 
 {:start="15"}
-15  Thus far from being unprincipled, our penal philosophy has been carefully thought through and has, been articulated publicly several times.  Theoretical arguments on our penal policy, bereft of any reference to these key aspects in our system, may make for good sound bites.  But they do not have any real merit.  In evolving our policies we take into account the views of parties involved in the administration of justice, including the courts, law enforcement agencies, civic interest groups, the legal profession, academia and the Law Society.
+15. Thus far from being unprincipled, our penal philosophy has been carefully thought through and has, been articulated publicly several times.  Theoretical arguments on our penal policy, bereft of any reference to these key aspects in our system, may make for good sound bites.  But they do not have any real merit.  In evolving our policies we take into account the views of parties involved in the administration of justice, including the courts, law enforcement agencies, civic interest groups, the legal profession, academia and the Law Society.
 
 {:start="16"}
 16. I will now deal with Mr Hwang's final assertion relating to capital punishment.
@@ -131,7 +131,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 22. Why have we succeeded so far, when so many others have not?  It is because we took a practical, hard headed approach to the problem and tackled it decisively.  In this context, the introduction of the death penalty for drug trafficking has, we believe, had the deterrent effect. There are no widely prevalent syndicated drug activities linked to organised crimes in Singapore, in contrast to the hierarchical and organised drug syndicates and cartels in various countries.  As a result of our policies, thousands of young people have been saved from the drug menace.
 
 
-**Conclusion**
+***Conclusion***
 
 {:start="23"}
 23. In conclusion, Sir, Singaporeans appreciate the safe environment here. And the international community has taken note of our success in maintaining law and order. In 2008 the Institute for Management Development (IMD) World Competitiveness Yearbook ranked Singapore first in personal security and private property.
