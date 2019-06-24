@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Second reading speech on Inquiries Bill by DPM Prof S Jayakumar
-date:   2007-09-19
-permalink: /news/parliamentary-speeches/second-reading-speech-on-inquiries-bill-by-dpm-prof-s-jayakumar
+title: Oral Answer by Assoc Prof Ho Peng Kee on the Community Court's Sentencing Powers, 27 August 2007
+date:   2007-08-27
+permalink: /news/parliamentary-speeches/oral-answer-by-assoc-prof-ho-peng-kee-on-the-community-court-s-sentencing-powers-27-august-2007
 ---
 
 27 Aug 2007 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
