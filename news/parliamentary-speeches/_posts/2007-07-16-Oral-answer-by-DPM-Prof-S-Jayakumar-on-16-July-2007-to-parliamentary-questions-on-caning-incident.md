@@ -62,9 +62,9 @@ As to the settlement talks or the progress of the mediation, there was a mediati
 
 **Ms Sylvia Lim**: Sir, there has been an allegation by the prisoner's family that after the caning took place, he attempted to write a letter to his family informing them of the mistake that had taken place. The allegation is that the Prison authorities stopped the letter from going out to the family. I would like to ask the Minister whether this allegation has been investigated and the facts have been found about this allegation.
 
-Prof Jayakumar: Sir, I have inquired from the authorities - the Ministry of Home Affairs - and it is very clear that there is no truth in this allegation. No letters were prevented from reaching the recipient intended by Mr Dickson Tan.
+**Prof Jayakumar**: Sir, I have inquired from the authorities - the Ministry of Home Affairs - and it is very clear that there is no truth in this allegation. No letters were prevented from reaching the recipient intended by Mr Dickson Tan.
 
-Mr Speaker: Ms Lim, last question from you.
+**Mr Speaker**: Ms Lim, last question from you.
 
 **Ms Sylvia Lim**: Sir, I wonder whether the Minister could further clarify on this issue of compensation. In his earlier statement, he mentioned that the authorities first became aware of the mistake on 2nd April when the family telephoned the court to inquire about the case. I would like the Minister to tell us when was the first offer of compensation made. And was that urgency brought about because of a threat of a law suit against the Government?
 
