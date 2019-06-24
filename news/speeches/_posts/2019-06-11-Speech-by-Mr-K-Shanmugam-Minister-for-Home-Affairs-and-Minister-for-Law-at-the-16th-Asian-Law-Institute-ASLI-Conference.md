@@ -14,7 +14,7 @@ Professor Gary Bell, Director of the Asian Law Institute
 <br>     
 Professor Mariko Igimi, Chairperson of the Board of Governors of the Asian Law Institute
 <br>     
-Distinguished guests,
+Distinguished guests,  
 Ladies and gentlemen,
 
 <u>Introduction</u>
@@ -35,18 +35,26 @@ Ladies and gentlemen,
 {:start="3"}
 3. <u>First : on economic growth in Asia, and ASEAN</u>
 
-![11 Jun. Asia share of global GDP](/images/news/speeches/1560336976032.png)
+
+<img src="/images/news/speeches/1560336976032.png" alt="11 June. Aisa share of global GDP" style="width:475px;height:300px;"> 
+
+
 
 {:start="4"}
 4. In January 2019, Standard Chartered forecasted that Asia’s share of global GDP will rise to 35% by 2030.
 
-![11 Jun. ADB Asia share of global GDP](images/news/speeches/1560336984799.png)
+
+
+<img src="/images/news/speeches/1560336984799.png" alt="11 June. Aisa share of global GDP" style="width:475px;height:300px;">
 
 
 {:start="5"}
 5. An earlier, perhaps more optimistic, projection – by the Asian Development Bank – forecasted that Asia’s share of global GDP will rise to 40% by 2030 and to 50% by 2050.[1]
 
-![11 Jun. ASEAN economic growth has far exceeded global avg](/images/news/speeches/1560336992630.png)
+
+<img src="/images/news/speeches/1560336992630.png" alt="11 Jun. Economic growth in ASEAN" style="width:475px;height:300px;">
+
+
 
 {:start="6"}
 6. ASEAN’s annual average growth since 2000
@@ -55,7 +63,10 @@ stands at 5.3%; far higher than the global average of 3.8%.[2]
 {:start="7"} 
 7. Some projections place ASEAN as the fourth largest economy in the world, by 2030.[3]
 
-![11 Jun. Economic growth in asia](/images/news/speeches/1560337003659.png)
+
+
+<img src="/images/news/speeches/1560337003659.png" alt="11 Jun. Economic growth in Asia" style="width:475px;height:300px;">
+
 
 <ol start="8">
 <li>If you look at specific countries:
@@ -76,7 +87,9 @@ stands at 5.3%; far higher than the global average of 3.8%.[2]
 
 Let me just refer to two illustrative examples of these opportunities.
 
-![11 jun. developing asia](/images/news/speeches/1560337027495.png)
+<img src="/images/news/speeches/1560337027495.png" alt="11 Jun. Developing asia" style="width:475px;height:300px;">
+
+
 {:start="10"}
 10. Projects and infrastructure.
 
@@ -84,7 +97,11 @@ The Asian Development Bank has estimated in 2017 that developing Asia will need 
  
 That is going to need to be financed, and allied services will have to be provided.
 
-![11 Jun.Debt](/images/news/speeches/1560337085760.png)
+
+
+<img src="/images/news/speeches/1560337085760.png" alt="11 Jun. Debt" style="width:475px;height:300px;">
+
+
 
 
 {:start="11"}
@@ -99,7 +116,7 @@ That is going to need to be financed, and allied services will have to be provid
 {:start="14"} 
 14. We have taken some steps to tap into these opportunities.
 
-![11 Jun. Infrastucutre office launched](/images/news/speeches/1560335639918.png)
+<img src="/images/news/speeches/1560335639918.png" alt="11 Jun. Infrastructure office launched" style="width:475px;height:300px;">
 
 
 
@@ -116,7 +133,10 @@ That is going to need to be financed, and allied services will have to be provid
 </li>
 </ol>
 
-![11 Jun. Insolvency](/images/news/speeches/1560337276856.png)
+
+
+
+<img src="/images/news/speeches/1560337276856.png" alt="11 Jun. Insolvency" style="width:475px;height:300px;">
 
 <ol start="16">
 <li>On insolvency and debt restructuring,
@@ -166,12 +186,13 @@ I hope ASLI and NUS Law School can contribute in this field.
 {:start="24"}
 24. My Ministry regards it as important, to support work in this area. 
 
-![11 Jun. Launch of academy](/images/news/speeches/1560337442135.png)
+
+<img src="/images/news/speeches/1560337442135.png" alt="11 Jun. Launch of academy" style="width:475px;height:300px;">
 
 {:start="25"}
 25. Last year, we supported the launch of the ASEAN Law Academy, here in NUS.
 
-![11 Jun.Support for nus](/images/news/speeches/1560337497124.png)
+<img src="/images/news/speeches/1560337497124.png" alt="11 Jun. Support for NUS" style="width:475px;height:300px;">
 
 
 MinLaw also provides funding to a number of research centres within NUS including the Centre for Asian Legal Studies
