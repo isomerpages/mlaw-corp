@@ -62,10 +62,9 @@ Photos
 
 <table>
 <tr>
-<td>[![Alt text](/images/sample/MACAD2018-03.jpg)](http://www.google.com)</td>
-<td>[![Alt text](/images/sample/MACAD2018-03.jpg)](http://www.google.com)</td>
-<td>[![Alt text](/images/sample/MACAD2018-03.jpg)](http://www.google.com)</td>
-<td>[![Alt text](/images/sample/MACAD2018-03.jpg)](http://www.google.com)</td>  
+<td><a href="www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
+<td><a href="www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
+
   
 </tr>
 
