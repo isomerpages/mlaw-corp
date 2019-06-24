@@ -18,7 +18,7 @@ permalink: /news/press-releases/sms-edwin-tong-to-visit-russia-to-promote-legal-
 5. The St. Petersburg International Legal Forum is an annual event jointly organised by the Russian Ministry of Justice, the State Hermitage Museum and the St. Petersburg International Legal Forum Foundation. The forum aims to promote ideas related to modernising the law amidst the global changes.
 
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**  
 **16 MAY 2019**
 
 
