@@ -52,7 +52,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-constitution-of
 {:start="14"}
 14. Arising from these Constitutional amendments, related amendments to the Public Service Commission Act will also be necessary to extend its scope and protection to the LSC and its members and to the Personnel Boards for the Legal Service. I will explain those amendments in greater detail during the Second Reading of the Public Service Commission (Amendment) Bill, which is the second item on the Order Paper.
 
-Council of Presidential Advisers 
+**Council of Presidential Advisers** 
 
 {:start="15"}
 15. Mr Speaker, let me now deal with the amendments to allow for the appointment of alternate members to act in place of members of the Council of Presidential Advisers ("the Council") who are temporarily unable to take part in any proceedings of the Council.
