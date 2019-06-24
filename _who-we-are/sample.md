@@ -8,24 +8,7 @@ collection_name: who-we-are
 
 Photos
 ---
-**2018**
-<table>
-<tr>
-<td><img src="/images/sample/MACAD2018-03.jpg"></td>
-<td><img src="/images/sample/P2M-Mediator-Appointment-Ceremony-P2-331.jpg"></td>
-</tr>
 
-</table>
-
-
-**2017**
-<table>
-<tr>
-<td><img src="/images/sample/MACAD2018-03.jpg"></td>
-<td><img src="/images/sample/P2M-Mediator-Appointment-Ceremony-P2-331.jpg"></td>
-</tr>
-
-</table>
 
 **2016**
 
@@ -39,12 +22,16 @@ Photos
 </div>
 
 
-**2014**
-<table>
-<tr>
-<td><a href="http://www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
-<td><a href="http://www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
-</tr>
-</table>
+**2015**
+<div class="row">
+<div class="col is-6">
+<a href="http://www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a>  
+</div>
+<div class="col is-6">
+<a href="http://www.google.com"><img src="/images/sample/P2M-Mediator-Appointment-Ceremony-P2-331.jpg"></a>  
+</div>  
+</div>
+
+
 
 
