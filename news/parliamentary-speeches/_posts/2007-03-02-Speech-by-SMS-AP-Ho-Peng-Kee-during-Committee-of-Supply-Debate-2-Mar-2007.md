@@ -73,7 +73,7 @@ permalink: /news/parliamentary-speeches/speech-by-sms-a-p-ho-peng-kee-during-com
 
 **Criminal Procedure**
 
-<u>Pre-trial disclosure of evidence</u>
+**<u>Pre-trial disclosure of evidence</u>**
 
 {:start="18"}
 18. We have announced that we are amending the Criminal Procedure Code ("CPC"). In amending the CPC, we are looking at formalizing a framework where the prosecution would formally inform the defence of its case against the accused.
