@@ -62,8 +62,8 @@ Photos
 
 <table>
 <tr>
-<td><a href="www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
-<td><a href="www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
+<td><a href="http://www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
+<td><a href="http://www.google.com"><img src="/images/sample/MACAD2018-03.jpg"></a></td>
 
   
 </tr>
