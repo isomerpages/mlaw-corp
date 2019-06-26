@@ -47,7 +47,7 @@ collection_name: news
 </ol>
  
 {:start="5"}
-5. A summary of the issues under consultation can be found in [Annex A (0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).The full consultation document can be downloaded [here (0.6MB)](/files/news/press-releases/2016/08/Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore August 2016.pdf).
+5. A summary of the issues under consultation can be found in [Annex A (0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).The full consultation document can be downloaded [here (0.6MB).](/files/news/press-releases/2016/08/PublicConsultationProposedChangestoCopyrightRegimeAugust2016.pdf) 
 
  
 {:start="6"}
@@ -58,7 +58,7 @@ collection_name: news
 
  
 {:start="7"}
-7.    Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback in hard copy to the following address:
+7. Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback in hard copy to the following address:
 
 
 <p class="address-centered">Intellectual Property Policy Division</p>  
