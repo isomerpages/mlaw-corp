@@ -89,7 +89,9 @@ Some consequential changes will also need to be made to the Legal Profession (So
 <li><a href="/files/news/announcements/2010/01/linkclick6f06.pdf">Overview of changes to legislation (0.1MB)</a></li>
 <li><a href="/files/news/press-releases/2009/08/linkclick73ae.pdf ">Response to feedback from first public consultation (0.06MB)</a> </li>
 </ol>
+
 ---
+
 Note: Please follow this link for the [response to feedback from second public consultation (0.04MB)](/files/news/announcements/2011/03/linkclickde7f.pdf)
 
 
