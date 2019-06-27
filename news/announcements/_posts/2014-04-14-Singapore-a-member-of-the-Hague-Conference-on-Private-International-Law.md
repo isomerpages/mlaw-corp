@@ -7,7 +7,8 @@ permalink: /news/announcements/singapore-member-of-hague-conference-on-pte-intl-
 
 14 Apr 2014 Posted in [Announcements](/news/announcements)
 
-![Legal Group Hauge Conference](/images/news/announcements/1399988823645.jpg)
+
+<img src="/images/news/announcements/1399988823645.jpg" alt="Legal Group Hauge Conference" style="width:450px;height:340px;">
 
 
 <p style="text-align: center"><i>The Singapore delegation with the Secretary-General of the Permanent Bureau of the Hague Conference</i></p>
