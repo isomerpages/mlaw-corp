@@ -7,11 +7,11 @@ permalink: /news/announcements/notice-of-fee-increase
 
 24 Mar 2014 Posted in [Announcements](/news/announcements)
 
-**THE PUBLIC TRUSTEE**
+**THE PUBLIC TRUSTEE**  
 **NOTICE OF FEE INCREASE**
 
 
-With effect from **<u>1 April 2014</u>**, the fee rates charged by the Public Trustee when administering CPF moneys, etc, and motor accident compensation moneys held in trust will be revised as follows:  
+1. With effect from **<u>1 April 2014</u>**, the fee rates charged by the Public Trustee when administering CPF moneys, etc, and motor accident compensation moneys held in trust will be revised as follows:  
 
 
 
@@ -65,14 +65,15 @@ With effect from **<u>1 April 2014</u>**, the fee rates charged by the Public Tr
 
 <sup>1</sup> Inclusive of GST
 
+{:start="2"}
 2. The minimum fee payable for the administration of CPF moneys, etc, motor accident compensation moneys held in trust, and trusts in general will also be revised from $12.00 to $15.00 (inclusive of GST).
  
- 
+{:start="3"} 
 3. For queries regarding this notice please contact us at Tel: 6325 1500 or by e-mail at ipto_enquiry@ipto.gov.sg.
 
 
-TAN YU-WEN (MS)
-SENIOR ASSISTANT DIRECTOR (TRUST)
+TAN YU-WEN (MS)  
+SENIOR ASSISTANT DIRECTOR (TRUST)  
 for PUBLIC TRUSTEE
 
 <p class="right-side-updated">Last updated on 25 Nov 2014</p>
