@@ -26,7 +26,7 @@ permalink: /news/announcements/allowing-singapore-law-practices-more-flexibility
 
 
 </li>
-<li><strong>SLPs which tie up with FLPs based in Singapore.  SLPs and FLPs based in Singapore will have increased scope for collaboration within an amended Formal Law Alliance (FLA) framework. For SLPs and FLPs which enter into a Joint Law Venture (JLV), concurrent partnerships between the two constituents of the JLV will now be allowed.</strong></li>
+<li><strong>SLPs which tie up with FLPs based in Singapore.</strong>  SLPs and FLPs based in Singapore will have increased scope for collaboration within an amended Formal Law Alliance (FLA) framework. For SLPs and FLPs which enter into a Joint Law Venture (JLV), concurrent partnerships between the two constituents of the JLV will now be allowed.</li>
 <li><strong>Qualifying Foreign Law Practices (QFLPs).</strong>  QFLPs will be allowed to enter into FLAs or JLVs, and retain their QFLP licence.</li>
 <li><strong>SLPs which want to employ corporate structures.</strong> SLPs will be allowed to establish a related law corporation. Singapore Lawyers will be able to hold executive appointments in companies set up by the SLP for related activities.</li>
 </ol>
