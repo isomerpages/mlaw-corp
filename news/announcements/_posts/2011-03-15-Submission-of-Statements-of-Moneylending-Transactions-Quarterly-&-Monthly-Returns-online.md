@@ -15,7 +15,7 @@ With effect from 1 Apr 2011, all moneylenders are required to submit their State
 
 
 
-Moneylenders should ensure that the Statements are in Excel format according to the template provided in the following website:
+Moneylenders should ensure that the Statements are in **Excel format** according to the template provided in the following website:
 [http://www.iptoonline.gov.sg/download.html](http://www.iptoonline.gov.sg/download.html) 
 
 
