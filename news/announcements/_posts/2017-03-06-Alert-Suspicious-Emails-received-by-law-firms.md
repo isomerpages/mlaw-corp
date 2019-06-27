@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Alert: Suspicious Emails received by law firms
-date:   2017-03-06
+title: "Alert: Suspicious Emails received by law firms"
+date: 2017-03-06
 permalink: /news/announcements/alert--suspicious-emails-received-by-law-firms
 ---
 
