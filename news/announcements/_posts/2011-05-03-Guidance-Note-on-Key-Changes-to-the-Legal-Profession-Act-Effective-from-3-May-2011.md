@@ -67,7 +67,7 @@ permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profess
 
 <p>7.3. This streamlined process gives more time to stakeholders involved in the call process, namely, the Law Society, Attorney-General’s Chambers and Singapore Institute of Legal Education, to conduct assessments of each application and raise objections, if any, about the applicants’ suitability (Rule 29). With the amendments, the overall minimum time required for a person to be admitted will be shortened from the current 6 months to around 2 months.</p>
 
-<p>7.4. The differences between the current and new admission procedure are illustrated in <a href="/files/news/announcements/2011/05/linkclickb813.pdf">Appendix</a>.</p>
+<p>7.4. The differences between the current and new admission procedure are illustrated in <a href="/files/news/announcements/2011/05/linkclickb813.pdf">Appendix A (0.28MB)</a>.</p>
 
 
 <ol start="2" style="list-style-type: upper-alpha">
