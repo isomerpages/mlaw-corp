@@ -29,19 +29,19 @@ permalink: /news/announcements/public-consultation-on-the-insolvency-law-review-
 2. The Committee submitted its report to MinLaw on 4 October 2013. 
 
 {:start="3"}
-3. MinLaw welcomes the report, and will carefully consider the Committee’s recommendations as well as the issues raised.  The Committee’s Report and a summary of its recommendations are at Annex A.  The Committee has also issued a press release, which may be found at Annex B.
+3. MinLaw welcomes the report, and will carefully consider the Committee’s recommendations as well as the issues raised.  The Committee’s Report and a summary of its recommendations are at **<u>Annex A</u>**.  The Committee has also issued a press release, which may be found at **<u>Annex B</u>**.
 
 **Public Consultation**
 
 {:start="4"}
 4. MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at www.mlaw.gov.sg and www.reach.gov.sg.  The feedback may be submitted in electronic form or hard copy form to:
 
-Community Legal Services Division, Ministry of Law
-100 High Street
-#08-02, The Treasury
-Singapore 179434
-Fax: 63328842
-Email: MLAW_Consultation@mlaw.gov.sg
+<p class="address-centered">Community Legal Services Division, Ministry of Law</p>
+<p class="address-centered">100 High Street</p>
+<p class="address-centered">#08-02, The Treasury</p>
+<p class="address-centered">Singapore 179434</p>
+<p class="address-centered">Fax: 63328842</p>
+<p class="address-centered">Email: MLAW_Consultation@mlaw.gov.sg</p>
 
 **Annex A:**
 
