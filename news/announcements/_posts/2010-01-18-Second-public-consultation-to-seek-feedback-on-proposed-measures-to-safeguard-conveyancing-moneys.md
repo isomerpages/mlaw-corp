@@ -19,17 +19,19 @@ permalink: /news/announcements/second-public-consultation-to-seek-feedback-on-pr
 
 <ol start="4">
 <li>The key features of the new measures are:
+  
 <ol style="list-style-type: lower-roman">
-<li>Lawyers (or other persons) will no longer be allowed to receive and hold conveyancing moneys in their normal client accounts as they do today. Breach of this new prohibition will be a criminal offence. </li>
-
-<li>Lawyers will only be allowed to receive and hold conveyancing moneys in a new type of account, called a Conveyancing Account,with an Approved Bank or through an escrow agreement between buyers’ and sellers’ lawyers for the transaction. </li>
-
-<li>There will be strict controls governing withdrawal of moneys from Conveyancing Accounts. Approved Banks will require signatures from both parties’ (generally, buyers’ and sellers’) lawyers before they allow money to be paid out from the Conveyancing Accounts. </li>
-<li>Under the new arrangements, clients who wish to place conveyancing moneys with their lawyer will make the cheque/cashier’s order in this format: “<Name of Law Firm> – Conveyancing”.</li>
+<li>Lawyers (or other persons) will no longer be allowed to receive and hold conveyancing moneys in their normal client accounts as they do today. Breach of this new prohibition will be a criminal offence.
+</li>
+<li>  Lawyers will only be allowed to receive and hold conveyancing moneys in a new type of account, called a Conveyancing Account,with an Approved Bank or through an escrow agreement between buyers’ and sellers’ lawyers for the transaction.</li>
+<li>There will be strict controls governing withdrawal of moneys from Conveyancing Accounts. Approved Banks will require signatures from both parties’ (generally, buyers’ and sellers’) lawyers before they allow money to be paid out from the Conveyancing Accounts.</li>
+<li> Under the new arrangements, clients who wish to place conveyancing moneys with their lawyer will make the cheque/cashier’s order in this format: <strong>“&#60;Name of Law Firm&#62; – Conveyancing”</strong>.
+</li>
 <li>For moneys traditionally held by a lawyer on behalf of both parties, such as the option deposit, an alternative would be for clients to place these with the Singapore Academy of Law.</li>
 </ol>
 </li>
 </ol>
+
 
 <ol start="5">
 <li>The key distinctions between the service provided by Approved Banks and SAL are:
