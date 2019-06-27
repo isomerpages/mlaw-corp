@@ -50,9 +50,9 @@ permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profess
 
 <ol style="list-style-type: lower-alpha">
 
-<li>The <u>requirements</u> to be “a qualified person” in order to seek admission to the Singapore Bar which were previously found both within the main Act and the **Legal Profession (Qualified Persons) Rules**, will be consolidated into the Legal Profession (Qualified Persons) Rules through amendments introduced by the Legal Profession (Qualified Persons) (Amendment) Rules 2011. Historical and transitional provisions which have run their course have been repealed or will be phased out by 2 May 2012 (refer in particular to new Rule 17). </li>
+<li>The <u>requirements</u> to be “a qualified person” in order to seek admission to the Singapore Bar which were previously found both within the main Act and the <strong>Legal Profession (Qualified Persons) Rules</strong>, will be consolidated into the Legal Profession (Qualified Persons) Rules through amendments introduced by the Legal Profession (Qualified Persons) (Amendment) Rules 2011. Historical and transitional provisions which have run their course have been repealed or will be phased out by 2 May 2012 (refer in particular to new Rule 17). </li>
 
-<li>The <u>admission procedures</u> which a “qualified person” must comply with in order to be admitted to the Singapore Bar will be consolidated into a new set of rules entitled the **Legal Profession (Admission) Rules 2011**. The Legal Profession (Admission) Rules 2011 contain in particular, a new streamlined admission procedure governing a “qualified person’s” call to to the Singapore Bar. Details of these changes are explained below. </li>
+<li>The <u>admission procedures</u> which a “qualified person” must comply with in order to be admitted to the Singapore Bar will be consolidated into a new set of rules entitled the <strong>Legal Profession (Admission) Rules 2011</strong>. The Legal Profession (Admission) Rules 2011 contain in particular, a new streamlined admission procedure governing a “qualified person’s” call to to the Singapore Bar. Details of these changes are explained below. </li>
 
 
 </ol>
@@ -67,7 +67,7 @@ permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profess
 
 <p>7.3. This streamlined process gives more time to stakeholders involved in the call process, namely, the Law Society, Attorney-General’s Chambers and Singapore Institute of Legal Education, to conduct assessments of each application and raise objections, if any, about the applicants’ suitability (Rule 29). With the amendments, the overall minimum time required for a person to be admitted will be shortened from the current 6 months to around 2 months.</p>
 
-<p>7.4. The differences between the current and new admission procedure are illustrated in [Appendix A (0.28MB)](/files/news/announcements/2011/05/linkclickb813.pdf).</p>
+<p>7.4. The differences between the current and new admission procedure are illustrated in <a href="/files/news/announcements/2011/05/linkclickb813.pdf">Appendix</a>.</p>
 
 
 <ol start="2" style="list-style-type: upper-alpha">
@@ -81,7 +81,7 @@ permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profess
 9. Previously, a practice trainee could only apply for part-call if he had served at least 4 months of his practice training period. Once part-called, he would be able to appear before the courts in limited situations (generally only hearings in chambers and to mention a case or apply for bail before a District Judge or a Magistrate).
 
 {:start="10"}
-10. The LPA 2011 amends section 32 of the main Act to reduce the minimum period from 4 months to 3 months. With this change, a practice trainee may, with effect from 3 May 2011, apply to be part-called after he has served 3 months of his practice training period (new section 32(3) of the main Act). A further enhancement to the part-call framework is that once part-called, a practice trainee may appear in court for all types of hearings (new section 32(4) of the main Act) instead of limited types of hearings under the old framework.
+10. The LPA 2011 amends section 32 of the main Act to reduce the minimum period from 4 months to 3 months. With this change, a practice trainee may, with effect from 3 May 2011, apply to be part-called after he has served 3 months of his practice training period (new section 32(3) of the main Act). A further enhancement to the part-call framework is that once part-called, a practice trainee may appear in court for <u>all</u> types of hearings (new section 32(4) of the main Act) instead of limited types of hearings under the old framework.
 
 
 **New Foreign Practitioner Certificate Scheme**
@@ -118,18 +118,18 @@ permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profess
 
 **Print Versions**
 
-* [Guidance Note on Key Changes to the Legal Profession Act](/files/news/announcements/2011/05/linkclickb21f.pdf)
-* [Appendix A](/files/news/announcements/2011/05/linkclickb813.pdf)
+* [Guidance Note on Key Changes to the Legal Profession Act (0.1MB)](/files/news/announcements/2011/05/linkclickb21f.pdf)
+* [Appendix A (0.2MB)](/files/news/announcements/2011/05/linkclickb813.pdf)
 
 
 
 **Links to Relevant Legislation:**
 
-* [Legal Profession (Amendment) Act 2011](/files/news/announcements/2011/05/linkclickf859.pdf)
-* [Legal Profession (Qualified Persons) (Amendment) Rules 2011](/files/news/announcements/2011/05/linkclickbe16.pdf)
-* [Legal Profession (Admission) Rules 2011](/files/news/announcements/2011/05/linkclick89a9.pdf)
-* [Legal Profession (International Services)(Amendment) Rules 2011](/files/news/announcements/2011/05/linkclick79c5.pdf)
-* [Legal Profession (Modified Application of Act for International Services) (Amendment) Rules 2011](/files/news/announcements/2011/05/linkclick79c5.pdf)
+* [Legal Profession (Amendment) Act 2011 (0.2MB)](/files/news/announcements/2011/05/linkclickf859.pdf)
+* [Legal Profession (Qualified Persons) (Amendment) Rules 2011 (0.04MB)](/files/news/announcements/2011/05/linkclickbe16.pdf)
+* [Legal Profession (Admission) Rules 2011 (0.1MB)](/files/news/announcements/2011/05/linkclick89a9.pdf)
+* [Legal Profession (International Services)(Amendment) Rules 2011 (0.05MB)](/files/news/announcements/2011/05/linkclick79c5.pdf)
+* [Legal Profession (Modified Application of Act for International Services) (Amendment) Rules 2011 (0.2MB)](/files/news/announcements/2011/05/linkclickec10.pdf)
 
 
 
