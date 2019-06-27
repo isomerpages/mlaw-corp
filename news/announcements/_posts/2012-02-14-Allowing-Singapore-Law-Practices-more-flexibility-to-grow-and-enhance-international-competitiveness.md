@@ -7,11 +7,11 @@ permalink: /news/announcements/allowing-singapore-law-practices-more-flexibility
 
 14 Feb 2012 Posted in [Announcements](/news/announcements)
 
-1. At the Second Reading of the Legal Profession (Bill) 2012 (LPA Bill 2012), the Minister for Law announced that the Ministry will be implementing a package of measures to give Singapore Law Practices (SLPs) greater flexibility to grow and work more closely with Foreign Law Practices (FLPs). See this [link].   
+1. At the Second Reading of the Legal Profession (Bill) 2012 (LPA Bill 2012), the Minister for Law announced that the Ministry will be implementing a package of measures to give Singapore Law Practices (SLPs) greater flexibility to grow and work more closely with Foreign Law Practices (FLPs).  
 
 
 <ol start="2">
-<li>Refer to [Media Fact Sheet (0.15MB)](/files/news/parliamentary-speeches/2012/02/linkclick64a5.pdf) for details, which are, in summary:
+<li><a href="/files/news/parliamentary-speeches/2012/02/linkclick64a5.pdf">Refer to Media Fact Sheet (0.15MB)</a> for details, which are, in summary:
 <ol>
 <li><strong>SLPs which employ Foreign Lawyers (FLs) within their local practices.</strong>FLs employed within the SLP will be able to take a greater profit and equity share in the SLP. </li>
 <li><strong>SLPs which tie up with FLPs based overseas : </strong>
@@ -33,6 +33,7 @@ permalink: /news/announcements/allowing-singapore-law-practices-more-flexibility
 </li>
 </ol>
 
+{:start="3"}
 3. A separate announcement will be made prior to the implementation of these changes in the second quarter of this year. Law firms may contact the Ministry of Law for more details.
 
 
