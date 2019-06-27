@@ -7,7 +7,9 @@ permalink: /news/announcements/sg-signs-cocagreement
 
 26 Mar 2015 Posted in [Announcements](/news/announcements/)
 
-![Hague COC](/images/news/announcements/1427875746770.jpg)
+
+
+<img src="/images/news/announcements/1427875746770.jpg" alt="Hague COC" style="width:467px;height:313px;">
 
 
 Ms Thian Yee Sze, Director-General of the Ministry of Law’s Legal Group, at the signing ceremony. Photo credit: Hague Convention on Private International Law
