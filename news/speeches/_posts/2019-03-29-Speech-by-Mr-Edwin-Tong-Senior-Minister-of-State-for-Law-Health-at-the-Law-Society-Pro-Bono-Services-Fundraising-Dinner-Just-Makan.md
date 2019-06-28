@@ -147,7 +147,10 @@ Colleagues and friends,
 {:start="19"}
 19. Those who seek help at these clinics are often stressed and worried. They really are faced with a myriad of different legal problems and they often don’t know who to turn to, where to turn to, and what to do. The lawyers who volunteer at these clinics provide a listening ear, work out what the problems are, give legal advice and most importantly, handhold and guide them on the next possible steps.
 
-<ol start="20" style="list-style-type: lower-alpha">
+<ol start="20">
+<li>For example, John (which is not his real name), drives a rental car for a living. John went on holiday and found another driver to take over the car for two weeks, which is really not that uncommon.
+<ol style="list-style-type: lower-alpha">
+
 
 <li>He gave the other driver money to pay for the car rental, but the other driver ran away with the money, and the car rental company then demanded more than $5,000 in damages. Not at first blush necessarily a large sum of money, but for someone like John, it meant the world.</li>
 
@@ -157,8 +160,10 @@ Colleagues and friends,
 
  
 
-<li>A few months later, John took the time to write a thank-you note to LSPBS. He said that he had been able to resolve the issue peacefully through greater knowledge of the situation. He especially thanked his volunteer lawyer. He wrote this, and I quote, <i>“Dickson – if you happen to read this, I just want to express my gratitude for your advice. I am thankful for people like you”.</i></li>
+<li>A few months later, John took the time to write a thank-you note to LSPBS. He said that he had been able to resolve the issue peacefully through greater knowledge of the situation. He especially thanked his volunteer lawyer. He wrote this, and I quote, <i>“Dickson – if you happen to read this, I just want to express my gratitude for your advice. I am thankful for people like you”.</i>
+</li>
 
+</ol>
 </ol>
 
 {:start="21"}
@@ -187,13 +192,15 @@ Colleagues and friends,
 26. So I encourage all of you to give and bid generously at tonight’s Live Auction and also the silent one, and support this very meaningful cause. All proceeds from Just Makan will enable LSPBS to carry on making a difference in the lives of so many people.
 
  
-{:start="27"}
-27. Lastly, I do want to share another quote with you, on why we do pro bono work. This is something that the first female judge of the Supreme Court of the United States, Justice Sandra Day O’Connor, said in 1999, not that long ago and still holds true today. She said, and I quote:
+<ol start="27">
+<li>Lastly, I do want to share another quote with you, on why we do pro bono work. This is something that the first female judge of the Supreme Court of the United States, Justice Sandra Day O’Connor, said in 1999, not that long ago and still holds true today. She said, and I quote:
 
  
-
-“Public service marks the difference between a business and a profession. While a business can afford to focus solely on profits, a profession cannot. It must devote itself first to the community it is responsible to serve. I can imagine no greater duty than fulfilling this obligation. And I can imagine no greater pleasure.”
-
+<ol style="list-style-type: none">
+<li>“Public service marks the difference between a business and a profession. While a business can afford to focus solely on profits, a profession cannot. It must devote itself first to the community it is responsible to serve. I can imagine no greater duty than fulfilling this obligation. And I can imagine no greater pleasure.” </li>
+</ol>
+</li>
+</ol>
  
 {:start="28"}
 28. I believe that’s the sentiment of everyone in this room today, and that’s why you’ve given, and that’s why you continue to give, to pro bono services. On that note, I would like to thank all of you in our most esteemed and noble profession, every donor and every volunteer, everyone who has given time and effort and compassion, for playing a part in giving back to the community. Your efforts have made all of this possible, and long may it continue.
