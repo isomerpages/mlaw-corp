@@ -98,7 +98,7 @@ collection_name: news
 22. And unfortunately, we have the 2<sup>nd</sup> highest rate of online bullying of youths (58%), behind only China (70%).
 
 {:start="23"}
-23.Together with China, we are the only two countries among the 25 surveyed where online bullying is more pervasive than bullying in the physical world. I do not know about China, but for us, I can try and guess at a reason. In the physical world, our laws are strict. We enforce them, so law and order is very pervasive in Singapore. We know what the limits are.
+23. Together with China, we are the only two countries among the 25 surveyed where online bullying is more pervasive than bullying in the physical world. I do not know about China, but for us, I can try and guess at a reason. In the physical world, our laws are strict. We enforce them, so law and order is very pervasive in Singapore. We know what the limits are.
 
 
 {:start="24"}
