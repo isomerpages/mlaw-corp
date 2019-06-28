@@ -157,17 +157,18 @@ Ladies and Gentlemen
 
 </ol>
 
-{:start="26"}
-26. On the issue of <u>exclusions,</u> the Government decided to exclude certain classes of entities/persons from the Model Law. This motivated by the need to **stay practical and sensible to commercial realities** in practice.
-
-<ol style="list-style-type: lower-alpha">
-<li>There are 2 classes of exclusion:</li>
+<ol start="26">
+<li>On the issue of <u>exclusions,</u> the Government decided to exclude certain classes of entities/persons from the Model Law. This motivated by the need to <strong>stay practical and sensible to commercial realities</strong> in practice.
+<ol style="list-style-type: lower-alpha;">
+<li>There are 2 classes of exclusion:
+<ol style="list-style-type: none;">
+<li><u>Individuals</u>: Singapore amended the Bankruptcy Act in 2015 to introduce a new &lsquo;differentiated discharge framework&rsquo; for bankruptcy administration. Adoption of the Model law in this context would have introduced complications and conflict with this new framework.</li>
+<li><u>Financial Institutions</u>:Entities with special rules that protect customer deposits in insolvency were excluded. This is in line with many other Model Law countries. This exclusion effectively replaced the previous ringfence rule which was much broader.</li>
 </ol>
-
-
-<u>Individuals</u>: Singapore amended the Bankruptcy Act in 2015 to introduce a new ‘differentiated discharge framework’ for bankruptcy administration. Adoption of the Model law in this context would have introduced complications and conflict with this new framework.
- 
-<u>Financial Institutions</u>: Entities with special rules that protect customer deposits in insolvency were excluded.  This is in line with many other Model Law countries. This exclusion effectively replaced the previous ringfence rule which was much broader.
+</li>
+</ol>
+</li>
+</ol>
 
 {:start="27"}
 27. The Model Law provisions were passed in Parliament in March 2017 and came into force in May 2017 under the Companies (Amendment) Act 2017.
@@ -183,12 +184,15 @@ Ladies and Gentlemen
 {:start="30"} 
 30. <u>In over a year and a half</u> after the 2017 Companies Act came into force, our Courts have seen <u>more than 100 applications made under the new provisions</u>.  Notable cases include <u>Nam Cheong, Hoe Leong, and H&C S Holdings.</u>
 
-{:start="31"} 
-31. **Nam Cheong** – Company listed on the Singapore Exchange; benefitted from the enhanced stay provision introduced in the amended Companies Act<sup>[4]</sup>
-
+<ol start="31">
+<li>  <strong>Nam Cheong</strong> – Company listed on the Singapore Exchange; benefitted from the enhanced stay provision introduced in the amended Companies Act<sup>[4]</sup>
+  
 <ol style="list-style-type: lower-alpha">
 <li>Was granted a four months’ moratorium extension by the court beyond the original six-month moratorium, which allowed it to successfully complete its scheme of arrangement process.</li>
 </ol>
+</li>
+</ol>
+
 
 
 <ol start="32">
