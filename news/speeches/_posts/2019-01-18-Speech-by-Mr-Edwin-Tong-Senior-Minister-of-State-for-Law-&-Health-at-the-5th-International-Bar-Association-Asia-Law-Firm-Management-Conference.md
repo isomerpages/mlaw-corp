@@ -9,7 +9,8 @@ collection_name: news
 
 18 Jan 2019 Posted in [Speeches](/news/speeches)
 
-Distinguished guests,  
+Distinguished guests,
+<br>  
 Ladies and gentlemen,
 
 1. First of all, let me warmly welcome you to Singapore.  In terms of legal industry and legal reform, we have seen so much. But at the same time, we do see that there is also so much more we can learn from each other. Being in a room like this, in a room full of so many distinguished leaders of successful firms in Asia and beyond, I think we can certainly learn a lot from each other, not just amongst ourselves but also from the policy-makers’ perspective, so I look forward to chatting with you over lunch.
