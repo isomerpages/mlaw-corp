@@ -10,15 +10,15 @@ collection_name: news
 28 Sep 2017 Posted in [Speeches](/news/speeches)
 
 Mayors Ms Low Yen Ling, Dr Teo Ho Pin, Ms Denise Phua, Mr Desmond Choo
-<br>
+<br>  
 Grassroots Adviser Mr Lim Biow Chuan, PBM
-<br>
+<br>  
 President, Law Society of Singapore, Mr Gregory Vijayendran,
-<br>
+<br>  
 Deans and Professors from NUS, SMU and SUSS,
-<br>
+<br>  
 Distinguished Guests, Ladies and Gentlemen,
-<br>
+<br>  
 Good evening.
 
 1. I am delighted to be here today, to celebrate the strong partnership between the CDCs, LawSoc, and the universities to serve the community by increasing access to justice.
