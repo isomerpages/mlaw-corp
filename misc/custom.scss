@@ -396,6 +396,13 @@ $desktop: 960px + (2 * $gap) !default;
   margin-top: 30px;
 }
 
+/* style for list where there is no margin between list items */
+.ol-no-margin li{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+
 /* class to be used when styling the last updated text  */
 .right-side-updated{
     text-align: right;
