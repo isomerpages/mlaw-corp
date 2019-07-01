@@ -8,7 +8,7 @@ collection_name: news
 
 18 Nov 2013 Posted in [Speeches](/news/speeches)
 
-bcdef
+
 
    **Social context in which we operate**
 
