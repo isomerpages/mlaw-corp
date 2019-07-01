@@ -11,5 +11,4 @@ Our Management
 
 **Political Appointees**
 
-<table></table>
-![test run]()
+![test run](1510806764644.jpg)
