@@ -8,12 +8,18 @@ collection_name: news
 
 25 Jul 2018 Posted in [Speeches](/news/speeches)
 
-Chief Justice Sundaresh Menon  
+Chief Justice Sundaresh Menon
+<br>  
 Mr Luca Castellani, Secretary of UNCITRAL Working Group IV  
+<br>
 Professor Khory McCormick, Rapporteur of UNCITRAL Working Group II  
+<br>
 Professor Yeo Tiong Min, Academic Director of the Asian Business Law Institute  
+<br>
 Judges  
+<br>
 Distinguished Delegates  
+<br>
 Ladies and Gentlemen
 
 <ol style="list-style-type: upper-roman; font-weight: bold;">
@@ -103,7 +109,7 @@ Ladies and Gentlemen
 {:start="14"}
 14. This also requires a stable and transparent rules-based environment, where the rule of law is upheld.
  
-<ol start="3" style="list-style-type: upper-roman; ">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold; ">
 <li><u>SINGAPORE’S EXPERIENCE</u></li>
 </ol>
  
@@ -115,7 +121,7 @@ Ladies and Gentlemen
  
 <ol style="list-style-type: lower-alpha">
  
-<li>First, on contracts - for the formation of business relationships and transactions.</li>
+<li>First, on contacts - for the formation of business relationships and transactions.</li>
 <li> Second, on dispute resolution – to deal with the curve-balls that disrupt business relationships.</li>
 <li>Third, on re-structuring and insolvency – for businesses that have run into financial trouble.</li>
 </ol>
@@ -140,6 +146,9 @@ Ladies and Gentlemen
 </ol>
 </li>
 </ol>
+
+*Dispute resolution*
+
 <ol start="18">
 <li>On dispute resolution: Businesses need the assurance that their dispute resolution outcomes will be enforceable overseas. However, because of legal diversity, they face uncertainty as to when a country will enforce a foreign judgment or arbitration award; even more so for mediated settlements. Singapore is using legal convergence to give businesses greater assurance, across the suite of dispute resolution options.
 <ol style="list-style-type: lower-alpha;">
@@ -188,7 +197,7 @@ Ladies and Gentlemen
 </ol>
 
 <ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
-<li>ADVANCING LEGAL CONVERGENCE IN ASIA</li>
+ <li><u>ADVANCING LEGAL CONVERGENCE IN ASIA</u></li>
 </ol>
 
 {:start="22"}
@@ -242,7 +251,7 @@ Ladies and Gentlemen
 </ol>
 </li>
 <li>ABLI&rsquo;s Foreign Judgments Project is of particular interest, as the Ministry of Law oversees Singapore&rsquo;s foreign judgments policy.
-<ol style="list-style-type: lower-roman; font-weight: bold;">
+<ol style="list-style-type: lower-roman;">
 <li>The high quality of analysis of the compendium of country reports published in December last year gave us valuable insight into our region&rsquo;s legal landscape.</li>
 <li>We look forward to the Statement of Principles that will be produced in the second phase of this Project. It will be an unprecedented common reference point for policy-makers around the region to understand the legal gaps that we may need to fill, and how we could do so. The work involved is complex, and could be successful only with the help of some of our region&rsquo;s leading legal experts.</li>
 </ol>
@@ -290,8 +299,8 @@ Ladies and Gentlemen
 32. Legal convergence in Asia is growing in momentum. This week, as the Chief Justice has mentioned, Singapore is pleased to host several major events relevant to legal convergence, not least the present UNCITRAL ABLI Emergence Conference.
 
 
-<ol start="4" style="list-style-type: upper-roman; ">
-<li>Conclusion</li>
+<ol start="5" style="list-style-type: upper-roman; ">
+<li><u>Conclusion</u></li>
 </ol>
 
 {:start="33"}
