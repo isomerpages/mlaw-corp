@@ -9,13 +9,13 @@ collection_name: news
 12 Oct 2017 Posted in [Speeches](/news/speeches)
 
 Mr Gary Born, President of the SIAC Court of Arbitration,
-<br>
+<br>  
 Members of the SIAC Board and Court,
-<br>
+<br>  
 Ms Lim Seok Hui, CEO of SIAC,
-<br>
+<br>  
 Distinguished guests,
-<br>
+<br>  
 Ladies and Gentlemen,
 
 
