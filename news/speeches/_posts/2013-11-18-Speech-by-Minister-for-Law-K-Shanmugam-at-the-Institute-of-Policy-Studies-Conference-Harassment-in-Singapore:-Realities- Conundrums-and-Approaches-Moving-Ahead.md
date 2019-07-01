@@ -8,7 +8,9 @@ collection_name: news
 
 18 Nov 2013 Posted in [Speeches](/news/speeches)
 
-  **Social context in which we operate**
+bcd
+
+    **Social context in which we operate**
 
  1. As we start this conference, I think it would be good to look at the social context and the background leading us to have this conference, and start thinking about whether and what we should do about harassment.
 
@@ -112,13 +114,15 @@ collection_name: news
 28. Children are physically and psychologically less resilient than adults. They do not know how to protect themselves. They do not know where to look for help.
 
 
+<ol start="29">
+<li>Sometimes, that helplessness may then manifest as violence. On other occasions, their helplessness often leads to infliction of damage on oneself, for example, suicide. There were two recent examples in 2013. There were many more:
+<ul>
+<li>In the US, a 12 year old girl jumped to her death after being bullied online by as many as 15 girls who picked on her for months.<a href="#fn2"><sup>2</sup></a></li>
 
-29. Sometimes, that helplessness may then manifest as violence. On other occasions, their helplessness often leads to infliction of damage on oneself, for example, suicide. There were two recent examples in 2013. There were many more:
-
-* In the US, a 12 year old girl jumped to her death after being bullied online by as many as 15 girls who picked on her for months.<a href="#fn2"><sup>2</sup></a>
-
-* In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="#fn3"><sup>3</sup></a>
-
+<li>In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="#fn3"><sup>3</sup></a></li>
+</ul>
+</li>
+</ol>
 
 30. Adults also manipulate cyber tools to harass, stalk, manipulate, and abuse others.
 
