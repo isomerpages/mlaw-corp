@@ -49,7 +49,9 @@ Ladies and Gentlemen
 11. In this respect, we believe that Singapore is well placed to meet the legal needs of businesses in Asia:
     
     a. We are strategically located at the heart of the Asian trade routes, with excellent transportation and communication links which make us one of the most well-connected cities in the world.
+    
     b. Singapore offers trustworthiness, certainty and stability, all of which are intrinsically linked to our system of governance – one with low corruption, high efficiency, where the rule of law is upheld.
+    
     c. The Government proactively reviews legislation to ensure that it stays up to date. Our courts also have a strong international outlook, and consider a wide diversity of foreign judgments in their decisions.
    
     **<u>Singapore’s approach to policy making</u>**
@@ -83,14 +85,19 @@ Ladies and Gentlemen
 
 
 20. Under our previous insolvency regime:
+    
     a. There was limited recognition of foreign insolvency officeholders under the Common Law.
+    
     b. There were also very few legislative provisions on cross-border insolvency, touching only on the recognition of Malaysian bankruptcies and reciprocal recognition of Official Assignees.
 
 
 
 21. The government recognised the pressing need for reforms in cross-border restructuring for several reasons:
+
     a. Globalisation had resulted in many businesses having assets, debts and operations across multiple countries. This was especially true in Singapore.
-    b. Further, a large insolvency or restructuring of Singapore business almost always has a cross-border element. </li>
+    
+    b. Further, a large insolvency or restructuring of Singapore business almost always has a cross-border element.
+    
     c. Finally, the lack of a formal cross-border framework to deal with issues that arise in these cases had caused significant uncertainty.
 
 
@@ -98,6 +105,7 @@ Ladies and Gentlemen
 22. In November 2010, the Insolvency Law Reform Committee was appointed to conduct a holistic review of Singapore’s insolvency laws. The Committee was chaired by Mr Tan Eng Beng, Senior Counsel at law firm Rajah & Tann, which is represented here today among the G36, and included insolvency experts from legal practice, accountancy, academia and government. The Committee recommended a broad based reform of our insolvency laws.
     
     a. 97 recommendations were submitted by the Committee in October 2013, including for Cross-border Insolvency reform.
+    
     b. Among these, the Committee <u>recommended adoption of the Model Law</u> for a few reasons, including the need for a comprehensive and predictable framework for cross-border restructuring, which would enhance clarity and certainty for the industry.
 
 
@@ -105,14 +113,18 @@ Ladies and Gentlemen
 
 
 23. However, <u>two issues were left open</u> for the Government’s consideration:
+
     a. Whether a reciprocity requirement should be included. In other words, whether Singapore would only apply the Model Law vis-a-vis another jurisdiction which had also accepted the Model Law; and
+    
     b. The scope of application of Model Law e.g. whether it should extend to personal insolvency.
 
 
 24. In <u>May 2014</u>, after a process of public consultation, the Government issued its response to the Committee’s report, and in particular accepted the recommendation to adopt the Model Law.
 
-25. On the issue of <u>reciprocity</u> – a policy decision was made not to impose a requirement for reciprocity. This stemmed from a conscious effort to keep Singapore <strong>open and was consistent with our support</strong> for a universalist approach to insolvency and restructuring.</li>
+25. On the issue of <u>reciprocity</u> – a policy decision was made not to impose a requirement for reciprocity. This stemmed from a conscious effort to keep Singapore <strong>open and was consistent with our support</strong> for a universalist approach to insolvency and restructuring.
+
     a. Only a small number of countries have imposed a reciprocity requirement, while Singapore has historically enjoyed the benefits of other countries’ enactment of the Model Law, e.g. the US’ Chapter 15, and the UK’s Cross-Border Insolvency Regulations, neither of which imposed reciprocity.
+    
     b.At the same time, and for similar reasons, we abolished the ring fence which previously existed, which required liquidators of registered foreign companies to pay off debts incurred in Singapore before transferring to foreign liquidation, and replaced it with a limited exclusion, which I will explain shortly.
 
 
@@ -163,6 +175,7 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
 33. <strong>H&C S Holdings</strong> – In a landmark decision, the High Court of England and Wales recognised Singapore’s new moratorium proceedings as foreign main proceedings under the UK’s enactment of the UNCITRAL Model Law.
     
     a. This addresses any uncertainty on whether the English courts would recognise Singapore’s new moratorium order.
+    
     b. This follows recognition of Singapore proceedings in the world’s leading jurisdiction, such as the US. Examples include Berlian Laju Tanker – an Indonesian liquid bulk cargo firm – where the US courts recognised its Singapore proceedings under the Model Law, consequently ordering a moratorium against creditor action.
 
 
@@ -175,7 +188,9 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
 35. As a whole, the reforms to our insolvency laws have brought the following benefits:
     
     a. First, to local businesses undergoing financial difficulties, by <u>providing more robust tools for them to rehabilitate</u> and to <u>get back onto their feet.</u>
+    
     b. Second, positioning Singapore as a <u>forum of choice for foreign companies to restructure;</u> and
+    
     c. Third, <u>creating greater value for our economy</u>, by buttressing Singapore’s position as an international legal, financial and business centre through a strong restructuring and insolvency regime.
 
 
@@ -189,7 +204,8 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
 38. In November 2018, INSOL International published a <u>Special Report titled “Will Singapore become an international centre of debt restructuring? A comparative analysis of Singapore’s bold insolvency reforms”.
     
     a. Report concluded that there is <u>good reason to believe Singapore will accomplish its mission to be an international centre of debt restructuring,</u> particularly in the medium to long term.
-    b. The author cited the strength of Singapore’s legislative reforms, our existing competitive advantages, the growing Asian markets, and the determination shared by the Singapore government and judiciary for the success of this project, as factors leading to his conclusion.
+   
+   b. The author cited the strength of Singapore’s legislative reforms, our existing competitive advantages, the growing Asian markets, and the determination shared by the Singapore government and judiciary for the success of this project, as factors leading to his conclusion.
 
 
 
@@ -206,6 +222,7 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
 42. Where do we go forward from here? On the Ministry’s part, we will continue to support the industry and stay attuned to developments:
     
     a. For instance, we will <u>support opportunities for professional training and education for insolvency and restructuring professionals to upgrade themselves</u>, which we hope will increase our existing talent pool. We will also encourage cross-accreditation of professional development courses, between the legal and accounting sectors.
+    
     b. We look forward to maintaining existing partnerships and fostering new collaborations with the industry and other stakeholders, continue to monitor developments, and engage with relevant groups to refine the framework over time. This is the only way forward in our evolving world.
 
 
