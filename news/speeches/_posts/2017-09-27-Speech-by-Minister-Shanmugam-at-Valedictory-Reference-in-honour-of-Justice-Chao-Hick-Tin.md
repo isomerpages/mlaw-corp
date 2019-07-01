@@ -106,14 +106,13 @@ Ladies and Gentlemen
 19.                   But what transpired showed Justice Chao’s wisdom beyond his years.
 
  
-<ol start="20">
-<li>During the discussions, the Malaysian representative acknowledged that: 
-<ol style="list-style-type: none">
- <li><i>“Some treaties might be so fundamental to the very existence of States that they simply could not be dispensed with, whatever political differences might arise.</i></li>
- <li><i>“Some treaties might be so fundamental to the very existence of States that they simply could not be dispensed with, whatever political differences might arise.</i></li>
-</ol>
-</li>
-</ol>
+{:start="20"}
+20. During the discussions, the Malaysian representative acknowledged that:
+
+*“Some treaties might be so fundamental to the very existence of States that they simply could not be dispensed with, whatever political differences might arise.*
+ 
+*For example, the new island State of Singapore was dependent on Malaysia for its water supply; The treaty under which Malaysia had to supply a certain quantity of water daily to Singapore could not be terminated or suspended between the two States for any political reason."*
+
 
 {:start="21"}
 21.                   Justice Chao heard this. He seized on it. He had the presence of mind and astuteness to quickly realise that this must be put on record.
@@ -158,7 +157,7 @@ Ladies and Gentlemen
 28.                   Not everyone may recall, but in 2002, 15 years ago, Malaysia’s then-PM Dr Mahathir criticised the water agreements, as being unfair. He said, by reference to the water agreements:
 
 <i>“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”</i>
-<br>
+<br>  
 <i>“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”</i>
 
 
