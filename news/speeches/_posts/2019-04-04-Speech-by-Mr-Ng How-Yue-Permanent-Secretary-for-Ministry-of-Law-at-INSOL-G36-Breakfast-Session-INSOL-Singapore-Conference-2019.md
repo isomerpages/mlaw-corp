@@ -127,6 +127,7 @@ Ladies and Gentlemen
 
 
 27. The Model Law provisions were passed in Parliament in March 2017 and came into force in May 2017 under the Companies (Amendment) Act 2017.
+    
     **<u>Results of reform</u>**
 
 
