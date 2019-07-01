@@ -8,7 +8,7 @@ collection_name: news
 
 
 4 Apr 2019 Posted in [Speeches](/news/speeches)
-
+f
 Distinguished Guests,  
 Ladies and Gentlemen  
 
