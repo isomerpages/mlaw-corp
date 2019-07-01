@@ -8,7 +8,7 @@ collection_name: news
 
 18 Nov 2013 Posted in [Speeches](/news/speeches)
 
-**Social context in which we operate**
+  **Social context in which we operate**
 
  1. As we start this conference, I think it would be good to look at the social context and the background leading us to have this conference, and start thinking about whether and what we should do about harassment.
 
