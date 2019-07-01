@@ -16,8 +16,7 @@
   - title: What We Do
     url: /about-us/what-we-do/
   - title: Contact Us
-    url: /about-us/contact-us/
-    
+    url: /contact-us/
 - title: Our Work
   url: /our-work/legal-group/
   sub-links:
@@ -35,7 +34,6 @@
     url: /our-work/community-legal-services-group/
   - title: Our Legal System
     url: /our-work/our-legal-system/
-    
 - title: Law Firms
   url: /law-firms/find-law-practice-entity-or-lawyer/
   sub-links:
@@ -95,7 +93,6 @@
     url: /news/events/
   - title: Others
     url: /news/others/
-    
 - title: E Services
   url: /e-services/insolvency-office/
   sub-links:
@@ -136,5 +133,3 @@
 #     url: /join-us/minlaw-internship/
 #   - title: Meet Our Interns
 #     url: /join-us/meet-our-interns/
-- title: Contact Us
-  url: /contact-us/
