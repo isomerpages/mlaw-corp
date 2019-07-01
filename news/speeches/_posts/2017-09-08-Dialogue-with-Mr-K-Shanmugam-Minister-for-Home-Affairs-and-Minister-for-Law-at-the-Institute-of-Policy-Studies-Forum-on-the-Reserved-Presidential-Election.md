@@ -8,10 +8,17 @@ collection_name: news
 
 8 Sep 2017 Posted in [Speeches](/news/speeches)
 
-![IPS](/images/news/speeches/1504934866944.jpg)
+
+
+<img src="/images/news/speeches/1504934866944.jpg" alt="IPS" style="width:307px;height:212px;"> 
 
 
 
-Please click [here (1.3MB)](/files/news/speeches/2007/09/IPS Forum - Reserved Presidential Election.pdf) for the accompanying slides.
+
+
+
+Please click [here (1.3MB)](/files/news/speeches/2017/09/IPSForum-ReservedPresidentialElection.pdf) for the accompanying slides.
+
+
 
 <p class="right-side-updated">Last updated on 09 Sep 2017</p>
