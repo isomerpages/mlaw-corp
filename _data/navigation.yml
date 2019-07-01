@@ -4,13 +4,19 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/overview/
+- title: About Us
+  url: /about-us/ourvision-mission-corevalues/
   sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
+  - title: Our Vision, Mission and Core Values
+    url: /about-us/ourvision-mission-corevalues/
+  - title: Our Management
+    url: /about-us/our-management/
   - title: Organisation Structure
-    url: /who-we-are/organisation-structure/
+    url: /about-us/organisation-structure/
+  - title: What We Do
+    url: /about-us/what-we-do/
+  - title: Contact Us
+    url: /about-us/contact-us/
 - title: Our Work
   url: /our-work/legal-group/
   sub-links:
