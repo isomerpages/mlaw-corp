@@ -89,9 +89,9 @@ Ladies and Gentlemen
 15. Under the Master Plan’s industry track, SLA aims to develop a thriving geospatial industry. 
 
 <ol start="16">
-<li> Using its geospatial expertise, government datasets and networks built up over the years, SLA will:
+<li>Using its geospatial expertise, government datasets and networks built up over the years, SLA will:
 <ul>
-<li> Help Singaporeans benefit from geospatial information and technology;</li>
+<li>Help Singaporeans benefit from geospatial information and technology;</li>
 <li>Foster a vibrant geospatial ecosystem -  driving innovation, promoting business opportunities and a well-connected community.</li>
 </ul>
 
