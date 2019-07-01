@@ -19,7 +19,7 @@ The Ministry of Law plays the following key roles:
 
 * To regulate and license all law practice entities and register foreign-qualified lawyers in Singapore.<br><br>
 
-The Ministry of Law's Community Legal Services Group handles matters relating to insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation..
+The Ministry of Law's Community Legal Services Group handles matters relating to insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation. <br>
 
 The Ministry of Law also comprises these Statutory Boards and Agency:
 
