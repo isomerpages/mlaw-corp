@@ -283,7 +283,7 @@ Ladies and Gentlemen,*
 
  
 {:start="57"}
-57.Parties themselves will have to adopt a new mindset. But, obviously, that is not something that is going to happen spontaneously. So, they are going to have to be helped along the way by judges, lawyers and the Government.
+57. Parties themselves will have to adopt a new mindset. But, obviously, that is not something that is going to happen spontaneously. So, they are going to have to be helped along the way by judges, lawyers and the Government.
 
  
 {:start="58"}
