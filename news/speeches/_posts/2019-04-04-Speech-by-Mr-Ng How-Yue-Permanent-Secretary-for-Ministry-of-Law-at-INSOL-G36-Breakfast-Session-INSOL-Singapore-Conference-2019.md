@@ -8,7 +8,7 @@ collection_name: news
 
 
 4 Apr 2019 Posted in [Speeches](/news/speeches)
-f
+fg
 Distinguished Guests,  
 Ladies and Gentlemen  
 
@@ -205,7 +205,7 @@ The cost and time savings, and ability to obtain swift relief through such pre-p
     
     a. Report concluded that there is <u>good reason to believe Singapore will accomplish its mission to be an international centre of debt restructuring,</u> particularly in the medium to long term.
    
-   b. The author cited the strength of Singapore’s legislative reforms, our existing competitive advantages, the growing Asian markets, and the determination shared by the Singapore government and judiciary for the success of this project, as factors leading to his conclusion.
+    b. The author cited the strength of Singapore’s legislative reforms, our existing competitive advantages, the growing Asian markets, and the determination shared by the Singapore government and judiciary for the success of this project, as factors leading to his conclusion.
 
 
 
