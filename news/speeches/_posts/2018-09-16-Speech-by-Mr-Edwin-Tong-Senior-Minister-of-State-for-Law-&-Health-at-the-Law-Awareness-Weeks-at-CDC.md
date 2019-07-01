@@ -113,19 +113,27 @@ Support of Pro Bono Lawyers and Student Volunteers
 22. In the course of this afternoon, I also see many young faces. As Gregory mentioned, we start them early, when they are in law school, to inculcate in them, that being a lawyer is not about what you can do for yourself in the firm, but also what you can do for your society as an individual. 
 
  
-{:start="23"}
-23. So with that, I want to share a quote with you. This is someone who said this many years ago. And he is David Kutik, who was at that time the president of the Cleveland Bar Association where he was talking about giving back and pro bono services. And he said this and I quote:
+<ol start="23">
+<li>So with that, I want to share a quote with you. This is someone who said this many years ago. And he is David Kutik, who was at that time the president of the Cleveland Bar Association where he was talking about giving back and pro bono services. And he said this and I quote:
 
-*David Kutik, Cleveland Bar Association
-(Jones Day, specializing in complex commercial litigation)*
+<ol style="list-style-type: none">
+<li><i>David Kutik, Cleveland Bar Association<br>
+(Jones Day, specializing in complex commercial litigation)</i></li> 
 
-*“Doing pro bono connects us to people. We make the law and the justice system work for people who have nothing to give us but their gratitude. We empower them. We give them hope; we help them when they have nowhere else to turn. It makes us feel like a lawyer. It makes us feel that our training, our experiences, and our judgment can do some good. It makes us feel that we are better people. And indeed we are.”*
 
+<li><i>“Doing pro bono connects us to people. We make the law and the justice system work for people who have nothing to give us but their gratitude. We empower them. We give them hope; we help them when they have nowhere else to turn. It makes us feel like a lawyer. It makes us feel that our training, our experiences, and our judgment can do some good. It makes us feel that we are better people. And indeed we are.”</i></li>
+
+</ol>
+
+</li> 
+</ol>
+ 
+ 
 {:start="24"}
 24. So, this is to all of you, who have volunteered your services, young and old, past and present, students, practitioners, academics alike, all of you have played in any role, a part in our society in giving back on this Law Awareness Weeks, thank you very much.
 
 I would like to thank:
-<ol style="list-style-type: lower-alpha">
+<ol class="ol-no-margin" style="list-style-type: lower-alpha">
 <li>The Mayors</li>
 <li>Their CDCs, and</li>
 <li>Law Society Pro Bono Services,                                      
