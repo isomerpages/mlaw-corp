@@ -156,9 +156,9 @@ Ladies and Gentlemen
 {:start="28"}
 28.                   Not everyone may recall, but in 2002, 15 years ago, Malaysia’s then-PM Dr Mahathir criticised the water agreements, as being unfair. He said, by reference to the water agreements:
 
-<i>“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”</i>
-<br>  
-<i>“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”</i>
+*“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”*
+ 
+*“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”*
 
 
 {:start="29"}
@@ -295,9 +295,9 @@ Ladies and Gentlemen
 
 
 *“He was wise because his spirit was uncontaminated, because he knew no violence, or hatred, or envy, or jealousy or ill-will…*
-<br>
+<br>  
 *I believe that it was this purity that chiefly made him the judge we so much revere; more than his learning, his acuteness, and his fabulous industry.*
-<br>
+<br>  
 *…[I]t was a rare and good fortune that brought to such eminence a man so reserved, so unassuming, so retiring, so gracious to high and low, and so serene.”*
 
 {:start="61"}
