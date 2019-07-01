@@ -9,7 +9,7 @@ collection_name: about-us
 Our Vision, Mission and Core Values
 ---
 
-![About Us](/files/about_us.jpg)
+![About Us](/images/about_us.jpg)
 
 ### **Vision**
 
