@@ -9,14 +9,14 @@ collection_name: news
 3 Apr 2018 Posted in [Speeches](/news/speeches)
 
 Mr Umesh Pralhad Ursekar, President of the Singapore Project Management Institute
-<br>
+<br>  
 Distinguished Guests
-<br>
+<br>  
 Ladies and Gentlemen
 
 
 
-<u>Introduction</u>
+**<u>Introduction</u>**
 
 1. Good evening. I am delighted to be here this evening.
 
