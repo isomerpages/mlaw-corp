@@ -17,7 +17,7 @@ Good evening.
 
 1. Thank you for the invitation to the 19th Investors’ Choice Awards Dinner Presentation Ceremony. I am delighted to join you this evening, and to celebrate the achievement of companies and individuals who have flown the flag, and held up high corporate governance standards in Singapore.
 
-*Background of SIAS and Corporate Governance Week* 
+**Background of SIAS and Corporate Governance Week** 
 
 
 {:start="2"}
@@ -49,7 +49,7 @@ Good evening.
 8. However, there remains room for improvement in two areas, enhancing transparency,<sup>[3]</sup> and board diversity. These factors help companies to manage their risks and grow sustainably, and take on added significance in the face of market complexities. I will share some key developments in these two areas.
 
 <ol style="list-style-type: upper-alpha">
-<li>Enhancing corporate transparency</li>
+<li><u>Enhancing corporate transparency</u></li>
 </ol>
 
 {:start="9"}
@@ -95,7 +95,7 @@ Good evening.
 16. MOF and ACRA will be conducting a study on the legal and operational framework needed to implement such a central, non-public beneficial ownership register. Feedback will be sought on the proposed framework in due course on what the appropriate mechanisms might be, what the appropriate levers are, and how the structure might be built.
 
 <ol start="2" style="list-style-type: upper-alpha">
-<u>Board Diversity</u> 
+<li><u>Board Diversity</u></li> 
 </ol>
 
 {:start="17"}
