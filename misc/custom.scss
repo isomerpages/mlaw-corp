@@ -397,7 +397,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /* style for list where there is no margin between list items */
-.ol-no-margin li{
+.content .ol-no-margin li{
   margin-bottom: 0;
   margin-top: 0;
 }
