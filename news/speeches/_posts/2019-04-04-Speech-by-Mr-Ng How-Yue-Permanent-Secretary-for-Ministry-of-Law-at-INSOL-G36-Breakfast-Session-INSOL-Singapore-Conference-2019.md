@@ -52,7 +52,7 @@ Ladies and Gentlemen
     b. Singapore offers trustworthiness, certainty and stability, all of which are intrinsically linked to our system of governance – one with low corruption, high efficiency, where the rule of law is upheld.
     c. The Government proactively reviews legislation to ensure that it stays up to date. Our courts also have a strong international outlook, and consider a wide diversity of foreign judgments in their decisions.
    
-   **<u>Singapore’s approach to policy making</u>**
+    **<u>Singapore’s approach to policy making</u>**
 
 
 12. Businesses will find in Singapore laws that are responsive and keenly attuned to their needs. We keep abreast of commercial developments and international best practices, knowing that the law cannot remain static in this age.
