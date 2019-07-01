@@ -9,43 +9,43 @@ collection_name: news
 5 Oct 2017 Posted in [Speeches](/news/speeches)
 
 Mr Gregory Vijayendran, President, Law Society of Singapore,
-<br>
+<br>  
 Distinguished guests,
-<br>
+<br>  
 Ladies and Gentlemen,
 
 
 **Introduction**
 
-1.     I am delighted to join all of you here today at the 6th edition of the International Conference of Legal Regulators. 
+1. I am delighted to join all of you here today at the 6th edition of the International Conference of Legal Regulators. 
 
  
 
-2.     Let me begin by first extending a warm welcome to each of you to Singapore.  
+2. Let me begin by first extending a warm welcome to each of you to Singapore.  
 
  
 
-3.     Singapore’s journey with the International Conference of Legal Regulators 2017 first started at the inaugural ICLR in London in 2012, which was attended by representatives from my Ministry. They were soon joined by representatives from the Law Society of Singapore for the 2014 and 2016 sessions. More recently, in 2016, representatives from the Supreme Court of Singapore also attended.  
+3. Singapore’s journey with the International Conference of Legal Regulators 2017 first started at the inaugural ICLR in London in 2012, which was attended by representatives from my Ministry. They were soon joined by representatives from the Law Society of Singapore for the 2014 and 2016 sessions. More recently, in 2016, representatives from the Supreme Court of Singapore also attended.  
 
  
 
-4.     Looking back, our attendance at the International Conference of Legal Regulators over the last 5 years has been invaluable. We have built strong connections and have learnt from other jurisdictions in this very important but specialised area. We have also had the opportunity to share with others our own lessons and successes, in the hope that they may be of use to other regulators grappling with similar matters.
+4. Looking back, our attendance at the International Conference of Legal Regulators over the last 5 years has been invaluable. We have built strong connections and have learnt from other jurisdictions in this very important but specialised area. We have also had the opportunity to share with others our own lessons and successes, in the hope that they may be of use to other regulators grappling with similar matters.
 
  
 
-5.     The International Conference of Legal Regulators is unique in that it remains the only platform for legal services regulators of its kind to date. Having benefited from the experience, we were keen to give our support to widening the network and make it more accessible to others, especially our peers in the Asia Pacific region.
+5. The International Conference of Legal Regulators is unique in that it remains the only platform for legal services regulators of its kind to date. Having benefited from the experience, we were keen to give our support to widening the network and make it more accessible to others, especially our peers in the Asia Pacific region.
 
  
 
-6.     My Ministry and the Law Society of Singapore therefore proposed to extend the reach of the network by hosting the Conference in Asia and in Singapore and we were heartened to receive the support and agreement of members of the ICLR network last year in Washington D.C. It is for this reason that the Organising Committee settled upon this Conference’s theme: “Legal Regulation in a Borderless World: Building Networks”.
+6. My Ministry and the Law Society of Singapore therefore proposed to extend the reach of the network by hosting the Conference in Asia and in Singapore and we were heartened to receive the support and agreement of members of the ICLR network last year in Washington D.C. It is for this reason that the Organising Committee settled upon this Conference’s theme: “Legal Regulation in a Borderless World: Building Networks”.
 
  
 
-7.     We are grateful to each of you for making the journey here (for some of you, this has been an incredibly long journey) and we hope that you will find the next two days of discussions extremely fulfilling.
+7. We are grateful to each of you for making the journey here (for some of you, this has been an incredibly long journey) and we hope that you will find the next two days of discussions extremely fulfilling.
 
  
 
-8.     I am happy to note, that the ICLR has successfully extended its reach to new jurisdictions. For the first time, we have representatives from 8 new jurisdictions, namely, Guam, Kenya, Malaysia, Myanmar, Nigeria, Qatar, United Arab Emirates and Vietnam. We also have broader representation from several countries and are pleased to welcome new representative institutions from Australia, Germany, New Zealand and the United Kingdom.
+8. I am happy to note, that the ICLR has successfully extended its reach to new jurisdictions. For the first time, we have representatives from 8 new jurisdictions, namely, Guam, Kenya, Malaysia, Myanmar, Nigeria, Qatar, United Arab Emirates and Vietnam. We also have broader representation from several countries and are pleased to welcome new representative institutions from Australia, Germany, New Zealand and the United Kingdom.
 
  
 
@@ -53,27 +53,27 @@ Ladies and Gentlemen,
 
  
 {:start="9"}
-9.     Singapore’s framework for legal services regulation has a tripartite structure and each of these regulators have been represented in the organisation of this Conference – the Law Society of Singapore; the Supreme Court of Singapore (which co-hosted the welcome reception yesterday evening) and the Legal Services Regulatory Authority (“LSRA”) (a department under my Ministry). There is a strong culture of collaboration, cooperation and partnership between these three bodies, based on mutual respect and shared objectives and values.    
+9. Singapore’s framework for legal services regulation has a tripartite structure and each of these regulators have been represented in the organisation of this Conference – the Law Society of Singapore; the Supreme Court of Singapore (which co-hosted the welcome reception yesterday evening) and the Legal Services Regulatory Authority (“LSRA”) (a department under my Ministry). There is a strong culture of collaboration, cooperation and partnership between these three bodies, based on mutual respect and shared objectives and values.    
 
  
 {:start="10"}
-10.   Our current tripartite regulatory regime was introduced in November 2015, following a comprehensive review of our regulatory structure for legal services. I would like to take a few moments to share what we did and some of the thinking behind this.
+10. Our current tripartite regulatory regime was introduced in November 2015, following a comprehensive review of our regulatory structure for legal services. I would like to take a few moments to share what we did and some of the thinking behind this.
 
  
 {:start="11"}
-11.   Prior to our reforms, Singapore had a bifurcated system for Singapore and foreign-qualified lawyers. Singapore lawyers came under a disciplinary regime that was administered by the Law Society and which was subject to the ultimate oversight of the Supreme Court, while foreign-qualified lawyers came under the oversight and discipline of the Attorney-General. This regulatory approach served its purpose for a season.
+11. Prior to our reforms, Singapore had a bifurcated system for Singapore and foreign-qualified lawyers. Singapore lawyers came under a disciplinary regime that was administered by the Law Society and which was subject to the ultimate oversight of the Supreme Court, while foreign-qualified lawyers came under the oversight and discipline of the Attorney-General. This regulatory approach served its purpose for a season.
 
  
 {:start="12"}
-12.   As Singapore’s legal market matured and the legal profession became increasingly cosmopolitan in nature, the traditional lines between members of the Singapore Bar and foreign Bars were increasingly blurred.
+12. As Singapore’s legal market matured and the legal profession became increasingly cosmopolitan in nature, the traditional lines between members of the Singapore Bar and foreign Bars were increasingly blurred.
 
  
 {:start="13"}
-13.   With the growth and evolution of law firms, we also observed that the management’s role in law practices was of increasing importance. Although we still have many firms which are traditional sole proprietorships and small partnerships, the larger law firms of today adopt more sophisticated entity structures through which they provide their legal services.  These include limited liability partnerships and law corporations. It was therefore timely to introduce a more holistic regulatory framework for all law practices at the entity level in addition to regulation of the individual lawyer. With entity level regulation, we added flexibility to accommodate new developments and trends in the profession and the legal services market.
+13. With the growth and evolution of law firms, we also observed that the management’s role in law practices was of increasing importance. Although we still have many firms which are traditional sole proprietorships and small partnerships, the larger law firms of today adopt more sophisticated entity structures through which they provide their legal services.  These include limited liability partnerships and law corporations. It was therefore timely to introduce a more holistic regulatory framework for all law practices at the entity level in addition to regulation of the individual lawyer. With entity level regulation, we added flexibility to accommodate new developments and trends in the profession and the legal services market.
 
  
 {:start="14"}
-14.   In 2015, we therefore implemented a number of changes. First, we looked at unifying our professional disciplinary regime and refining the architecture of our Legal Profession (Professional Conduct) Rules. The disciplinary framework for individual lawyers was streamlined to cover all Singapore and foreign-qualified lawyers under the same processes administered by the Law Society under the ultimate oversight of the Supreme Court.
+14. In 2015, we therefore implemented a number of changes. First, we looked at unifying our professional disciplinary regime and refining the architecture of our Legal Profession (Professional Conduct) Rules. The disciplinary framework for individual lawyers was streamlined to cover all Singapore and foreign-qualified lawyers under the same processes administered by the Law Society under the ultimate oversight of the Supreme Court.
 
 <ol start="15">
 <li>Second, a new Professional Conduct Council, which was chaired by the Chief Justice, was established to oversee the rules relating to professional conduct matters. The current rules apply to both Singapore lawyers and foreign-qualified lawyers and comprise:
@@ -101,11 +101,11 @@ Ladies and Gentlemen,
 </ol>
 
 {:start="17"}
-17.   Third, to put in place entity regulation, we created a new office of the Director of Legal Services (“DLS”), a statutory appointment under the Legal Profession Act. To support the work of the DLS, the LSRA was established as a new department under the Ministry of Law. The DLS regulates and licenses all law practice entities and registers foreign lawyers, as well as Singapore solicitors practising in foreign law practices, the latter being functions which were previously performed by the Attorney-General. The DLS also regulates the business criteria applicable to law practices, such as foreign ownership, profit-sharing and the names of law practices.
+17. Third, to put in place entity regulation, we created a new office of the Director of Legal Services (“DLS”), a statutory appointment under the Legal Profession Act. To support the work of the DLS, the LSRA was established as a new department under the Ministry of Law. The DLS regulates and licenses all law practice entities and registers foreign lawyers, as well as Singapore solicitors practising in foreign law practices, the latter being functions which were previously performed by the Attorney-General. The DLS also regulates the business criteria applicable to law practices, such as foreign ownership, profit-sharing and the names of law practices.
 
  
 {:start="18"}
-18.   This new regime has enabled us to be more flexible and responsive to change. For example, non-lawyer employees of law practices can now apply to the LSRA to be partners, directors or shareholders in, or to share in the profits of Singapore law practices, up to certain prescribed limits. This gives law practices greater flexibility to attract and retain non-lawyer talent, such as those with strong finance or management expertise, who can bring added value to a law practice.
+18. This new regime has enabled us to be more flexible and responsive to change. For example, non-lawyer employees of law practices can now apply to the LSRA to be partners, directors or shareholders in, or to share in the profits of Singapore law practices, up to certain prescribed limits. This gives law practices greater flexibility to attract and retain non-lawyer talent, such as those with strong finance or management expertise, who can bring added value to a law practice.
 
  
 {:start="19"}
