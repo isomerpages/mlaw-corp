@@ -8,7 +8,7 @@ collection_name: news
 
 18 Nov 2013 Posted in [Speeches](/news/speeches)
 
-bcde
+bcdef
 
    **Social context in which we operate**
 
@@ -114,28 +114,27 @@ bcde
 28. Children are physically and psychologically less resilient than adults. They do not know how to protect themselves. They do not know where to look for help.
 
 
-<ol start="29">
-<li>Sometimes, that helplessness may then manifest as violence. On other occasions, their helplessness often leads to infliction of damage on oneself, for example, suicide. There were two recent examples in 2013. There were many more:
-<ul>
-<li>In the US, a 12 year old girl jumped to her death after being bullied online by as many as 15 girls who picked on her for months.<a href="#fn2"><sup>2</sup></a></li>
 
-<li>In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="#fn3"><sup>3</sup></a></li>
-</ul>
-</li>
-</ol>
+29. Sometimes, that helplessness may then manifest as violence. On other occasions, their helplessness often leads to infliction of damage on oneself, for example, suicide. There were two recent examples in 2013. There were many more:
+
+    * In the US, a 12 year old girl jumped to her death after being bullied online by as many as 15 girls who picked on her for months.<a href="#fn2"><sup>2</sup></a>
+
+    * In the UK, a 14 year old girl hung herself after weeks of taunting by anonymous cyber bullies, including receiving messages telling her to kill herself.<a href="#fn3"><sup>3</sup></a>
+
+
 
 30. Adults also manipulate cyber tools to harass, stalk, manipulate, and abuse others.
 
 
 31.  Online harassment can be multi-dimensional.
 
-* Pretending to be someone else
-* Spreading malicious rumours, lies, deliberate untruths, inaccuracies
-* Posting pictures of others without consent
-* Tricking people into revealing personal information
-* Hacking of email account 
-* Cyberstalking
-* Peppering online discussions with abuses and insults which one would otherwise not utter in the context of the physical world.
+     * Pretending to be someone else
+     * Spreading malicious rumours, lies, deliberate untruths, inaccuracies
+     * Posting pictures of others without consent
+     * Tricking people into revealing personal information
+     * Hacking of email account 
+     * Cyberstalking
+     * Peppering online discussions with abuses and insults which one would otherwise not utter in the context of the physical world.
 
 
 32. Prior to this conference, REACH commissioned a study, with a three per cent margin of error, so it is quite accurate. It gave us a good sense of what people on the ground thought, rather than just people who might be louder in making their voices heard.
