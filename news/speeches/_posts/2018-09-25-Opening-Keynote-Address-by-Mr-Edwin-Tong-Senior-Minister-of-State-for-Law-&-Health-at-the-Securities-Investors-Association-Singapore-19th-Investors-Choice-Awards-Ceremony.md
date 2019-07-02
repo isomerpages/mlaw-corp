@@ -45,14 +45,15 @@ Good evening.
  
 
  8. However, there remains room for improvement in two areas, enhancing transparency,<sup>[3]</sup> and board diversity. These factors help companies to manage their risks and grow sustainably, and take on added significance in the face of market complexities. I will share some key developments in these two areas.
+    
+    <ol style="list-style-type: upper-alpha">
+ <li><u>Enhancing corporate transparency</u></li>
+    </ol>
 
 
- A. <u>Enhancing corporate transparency</u>
 
+ 9. First, there are increased efforts to strengthen Singapore’s governance, through greater transparency of corporate entities. It is an ever changing paradigm, because businesses have to change with the times and catch up with new ways of doing business and new ways of transactions as well. So, issues like how we regulate cryptocurrency, Bitcoins and other such mechanisms will come to the fore.
 
-
- <p>9. First, there are increased efforts to strengthen Singapore’s governance, through greater transparency of corporate entities. It is an ever changing paradigm, because businesses have to change with the times and catch up with new ways of doing business and new ways of transactions as well. So, issues like how we regulate cryptocurrency, Bitcoins and other such mechanisms will come to the fore.
-</p>
  
 
 10. Money laundering, terrorism financing and tax evasion are increasingly becoming global concerns. As such, the identities of ultimate owners and controllers of business entities is also gaining international importance.
@@ -86,10 +87,9 @@ Good evening.
 
 16. MOF and ACRA will be conducting a study on the legal and operational framework needed to implement such a central, non-public beneficial ownership register. Feedback will be sought on the proposed framework in due course on what the appropriate mechanisms might be, what the appropriate levers are, and how the structure might be built.
 
-
- B. <u>Board Diversity</u> 
-
-
+    <ol style="list-style-type: upper-alpha" start="2">
+    <li><u>Board Diversity</u></li>
+    </ol>
 
 17. Another facet of corporate governance is board diversity. The board is the nerve centre of a company, controls the activities, and is where the heart and soul of the company resides. Board diversity encourages more robust and constructive decision-making processes, and it generally makes for more effective boards. For example, studies have shown that more gender diverse boards generally lead to better financial performance.<sup>[4]</sup>
 
