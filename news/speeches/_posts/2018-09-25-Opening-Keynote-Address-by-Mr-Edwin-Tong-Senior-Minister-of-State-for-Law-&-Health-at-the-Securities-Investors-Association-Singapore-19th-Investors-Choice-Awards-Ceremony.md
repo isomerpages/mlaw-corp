@@ -8,7 +8,7 @@ collection_name: news
 
 25 Sep 2018 Posted in [Speeches](/news/speeches)
 
-gh
+
 
 Mr David Gerald, Founder, President & CEO of Securities Investors Association (Singapore)  
 Mr Daniel Teo, Chairman, SIAS  
