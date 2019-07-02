@@ -63,7 +63,7 @@ A very good afternoon to all of you.
 
 11. And so, it is in that context, that lawyers play a significant role, in bridging the divide between what might start as a family difference, to one that has a legal consequence. And so, to take the example a bit further, if the lawyer is not there, to guide, not only in the law, but in what society needs, then sometimes, a family conflict can very quickly escalate to a serious legal conflict. And lawyers are here to prevent precisely that.
 
-**Law Awareness Weeks (LAWs)**
+    **Law Awareness Weeks (LAWs)**
 
 {:start="12"}
 12. Over the years, LAWs @ CDC has been extended from one to six weeks, so that many more residents can benefit from this programme, from the different talks that have been held.
