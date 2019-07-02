@@ -167,76 +167,64 @@ Ladies and Gentlemen
 21. Apart from facilitating economic benefits, legal convergence has also helped Singapore&rsquo;s legal professionals grow their knowledge capital.
     
     a. At minimum, incorporating international legal convergence instruments in our domestic laws has given Singapore lawyers the opportunity to acquire expertise in these international legal frameworks. This puts them in good stead to support transnational business.
-<li>There is also a first mover advantage that comes from being among the first to adopt legal convergence initiatives. It has allowed Singapore&rsquo;s legal professionals to develop know-how and thought leadership to operationalise legal convergence.
-
-
-<li>For example, this year, the Singapore Courts issued its first judgments on the UNCITRAL Model Law on Cross-Border Insolvency and the Hague Convention on Choice of Court Agreements, in cases argued by Singapore lawyers. The decision on the Choice of Court Convention may be the first made in any country.</li>
+    
+    b.There is also a first mover advantage that comes from being among the first to adopt legal convergence initiatives. It has allowed Singapore&rsquo;s legal professionals to develop know-how and thought leadership to operationalise legal convergence.
+    
+      i. For example, this year, the Singapore Courts issued its first judgments on the UNCITRAL Model Law on Cross-Border Insolvency and the Hague Convention on Choice of Court Agreements, in cases argued by Singapore lawyers. The decision on the Choice of Court Convention may be the first made in any country.
 
 <ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
- <li><u>ADVANCING LEGAL CONVERGENCE IN ASIA</u></li>
+<li><u>ADVANCING LEGAL CONVERGENCE IN ASIA</u></li>
 </ol>
 
-{:start="22"}
+
 22. Let me now come to the legal convergence project in Asia.
 
-{:start="23"}
+
 23. Greater legal convergence will benefit the region, not just Singapore. It is in our common interest for the region to unlock its economic potential, so that we may prosper together.
 
-<ol start="24">
-<li>As more countries come on board the Asian legal convergence project, I would like to humbly suggest three guiding principles.
- 
-<ol style="list-style-type: lower-alpha">
- 
- 
-<li>First, convergence should be relevant to real business needs. It should be able to help solve real business challenges. Convergence is a means, not an ends.</li>
 
+24. As more countries come on board the Asian legal convergence project, I would like to humbly suggest three guiding principles.
+    
+    a. First, convergence should be relevant to real business needs. It should be able to help solve real business challenges. Convergence is a means, not an ends.
+
+    b. Second, there should be inclusive representation of interested countries in the process. Different perspectives need to be taken into account. Laws need to operate in diverse local environments.
+    
+    c. Third, convergence should be respectful of the region’s diverse legal traditions and systems. Complete uniformity is not always required or desirable. It may seem paradoxical, but legal convergence can and should accommodate diversity. Hence, a range of legal convergence tools has been developed to accommodate different degrees of diversity, from treaties, to model laws, to guiding principles.
  
-
-<li>Second, there should be inclusive representation of interested countries in the process. Different perspectives need to be taken into account. Laws need to operate in diverse local environments.</li>
-
  
 
-<li>Third, convergence should be respectful of the region’s diverse legal traditions and systems. Complete uniformity is not always required or desirable. It may seem paradoxical, but legal convergence can and should accommodate diversity. Hence, a range of legal convergence tools has been developed to accommodate different degrees of diversity, from treaties, to model laws, to guiding principles.</li>
- 
- 
-</ol>
- 
-</li> 
-</ol>
 
-{:start="25"}
 25. In short, three “Rs” - Relevance, Representation, and Respect.
 
  
-{:start="26"}
+
 26. Singapore is happy to support and facilitate the process of Asian legal convergence. Several things are being done.
 
 
-{:start="27"}
+
 27. One is that Singapore continues to support UNCITRAL’s work, as it has for a long time. Singapore has been actively involved in drafting UNCITRAL texts, and has adopted several. These important texts provide businesses, lawyers and judges with a common reference point and language, regardless of their nationality or legal tradition.
 
 
-<ol start="28">
-<li>The Ministry of Law is also supporting the work of ABLI, which the Chief Justice spoke about just now. I have a few reflections on ABLI&rsquo;s work.
-<ol style="list-style-type: lower-alpha;">
-<li>One is that its approach to legal convergence reflects the three &ldquo;Rs&rdquo;.
-<ol style="list-style-type: lower-roman;">
-<li>On relevance - It decides on the projects it will undertake based on consultations with stakeholders from the business and legal communities. This ensures that its output is relevant to real needs.</li>
-<li>On representation - its output relies on contributions by experts who are local to the countries they are writing about.</li>
-<li>Finally, on respect - ABLI is neutral and does not pre-judge solutions. Its working methods ensure that any recommendations for how to operationalise legal convergence are based on a respect for each country&rsquo;s context and perspectives.</li>
-</ol>
-</li>
-<li>ABLI&rsquo;s Foreign Judgments Project is of particular interest, as the Ministry of Law oversees Singapore&rsquo;s foreign judgments policy.
-<ol style="list-style-type: lower-roman;">
-<li>The high quality of analysis of the compendium of country reports published in December last year gave us valuable insight into our region&rsquo;s legal landscape.</li>
-<li>We look forward to the Statement of Principles that will be produced in the second phase of this Project. It will be an unprecedented common reference point for policy-makers around the region to understand the legal gaps that we may need to fill, and how we could do so. The work involved is complex, and could be successful only with the help of some of our region&rsquo;s leading legal experts.</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
 
-{:start="29"}
+28. The Ministry of Law is also supporting the work of ABLI, which the Chief Justice spoke about just now. I have a few reflections on ABLI&rsquo;s work.
+
+    a. One is that its approach to legal convergence reflects the three &ldquo;Rs&rdquo;.
+       
+       i. On relevance - It decides on the projects it will undertake based on consultations with stakeholders from the business and legal communities. This ensures that its output is relevant to real needs.
+
+
+       ii. On representation - its output relies on contributions by experts who are local to the countries they are writing about.
+
+       iii. Finally, on respect - ABLI is neutral and does not pre-judge solutions. Its working methods ensure that any recommendations for how to operationalise legal convergence are based on a respect for each country&rsquo;s context and perspectives.
+
+    b. ABLI&rsquo;s Foreign Judgments Project is of particular interest, as the Ministry of Law oversees Singapore&rsquo;s foreign judgments policy.
+        
+       i. The high quality of analysis of the compendium of country reports published in December last year gave us valuable insight into our region&rsquo;s legal landscape.</li>
+       
+       ii. We look forward to the Statement of Principles that will be produced in the second phase of this Project. It will be an unprecedented common reference point for policy-makers around the region to understand the legal gaps that we may need to fill, and how we could do so. The work involved is complex, and could be successful only with the help of some of our region&rsquo;s leading legal experts.
+
+
+
 29. I am confident that ABLI’s ground-up and context-specific work will achieve its aim of being a unique and important enabler of legal convergence in the region.    
 
 <ol start="30">
