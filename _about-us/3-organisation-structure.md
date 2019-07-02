@@ -12,5 +12,5 @@ Organisation Structure
 Click image below to enlarge<br>
 <a href="/files/MinLaw Org Structure May 19.pdf"><img src="/images/1557104237572.png"></a>
 
-*Last updated on 06 May 2019*
+
 
