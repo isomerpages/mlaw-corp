@@ -47,7 +47,7 @@ Monday to Friday: 8:30am to 5:00pm<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.823061336999!2d103.84296491492545!3d1.2797883621526143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d5b1ca245%3A0xc33e99eb86f0cdb6!2sSingapore+City+Gallery!5e0!3m2!1sen!2sus!4v1562045948763!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <div class="bp-youtube">
