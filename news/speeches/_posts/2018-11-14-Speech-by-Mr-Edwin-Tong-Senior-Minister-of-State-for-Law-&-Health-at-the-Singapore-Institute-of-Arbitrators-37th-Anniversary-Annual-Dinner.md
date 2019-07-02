@@ -17,14 +17,14 @@ Ladies and Gentlemen
 
  2. I would like to focus on a couple of these points, starting with achievements in 2018.
 
-   **<u>Key Achievements in 2018</u>**
+    **<u>Key Achievements in 2018</u>**
 
 
  3. 2018 has been a rewarding year in many aspects for the dispute resolution space in Singapore and I’d think many of you would, I hope, agree with that. Let me just briefly recap some of these milestones.
    
     a. The first is that Singapore has moved up the ranks to be the third most preferred seat of arbitration globally in the Queen Mary White & Case survey. That is something that we take quite seriously and we always, although it’s not only a race, measure ourselves against the other leading arbitral centres in the world.
    
-    b. The Singapore International Arbitration Centre (SIAC) has been doing well. It’s the third most preferred arbitral institution in the world. It also set the record for the highest number of new case filings and cases administered in 2017.</li>
+    b. The Singapore International Arbitration Centre (SIAC) has been doing well. It’s the third most preferred arbitral institution in the world. It also set the record for the highest number of new case filings and cases administered in 2017.
    
     c. We have made huge strides in the area of international mediation, which has become increasingly, at least anecdotally, a preferred method of dispute resolution, partly because parties see the need to preserve and maintain the relationships as we embark on larger projects to keep the relationship growing for the mutual benefit of all parties. So you’ve seen the advent and growth of international mediation.
    
