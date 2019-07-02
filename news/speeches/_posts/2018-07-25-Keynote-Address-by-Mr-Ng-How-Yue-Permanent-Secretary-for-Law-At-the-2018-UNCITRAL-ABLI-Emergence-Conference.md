@@ -227,39 +227,23 @@ Ladies and Gentlemen
 
 29. I am confident that ABLI’s ground-up and context-specific work will achieve its aim of being a unique and important enabler of legal convergence in the region.    
 
-<ol start="30">
-<li>Another exciting effort is the recent launch of the ASEAN Law Academy by the Centre for International Law at the National University of Singapore.
- 
- <ol style="list-style-type: lower-alpha">
- 
- 
- <li>The Academy was announced by Singapore’s Prime Minister Mr Lee Hsien Loong at the 32nd ASEAN Summit in April this year.</li>
-
- 
-
-<li>The inaugural ASEAN Law Academy is taking place right now.</li>
-
+30. Another exciting effort is the recent launch of the ASEAN Law Academy by the Centre for International Law at the National University of Singapore.
+    
+    a. The Academy was announced by Singapore’s Prime Minister Mr Lee Hsien Loong at the 32nd ASEAN Summit in April this year.
+    
+    b. The inaugural ASEAN Law Academy is taking place right now.
+    
+    c. It aims to promote a greater understanding of the different legal systems in ASEAN, to enhance legal integration.
+    
+    d. It emphasises effectiveness through a collaborative and practice-based approach.
  
 
-<li>It aims to promote a greater understanding of the different legal systems in ASEAN, to enhance legal integration.</li> 
-
- 
-
-<li>It emphasises effectiveness through a collaborative and practice-based approach.</li>
- 
- 
- 
- </ol>
- 
- </li> 
-</ol>
 
 
-{:start="31"}
 31. ABLI and the ASEAN Law Academy are equipping the region’s legal professionals to understand each other despite their different “legal languages”. This cultivates a supportive environment for the legal convergence project to grow.
 
  
-{:start="32"}
+
 32. Legal convergence in Asia is growing in momentum. This week, as the Chief Justice has mentioned, Singapore is pleased to host several major events relevant to legal convergence, not least the present UNCITRAL ABLI Emergence Conference.
 
 
@@ -267,19 +251,19 @@ Ladies and Gentlemen
 <li><u>Conclusion</u></li>
 </ol>
 
-{:start="33"}
+
 33. These are all serious efforts, which is heartening.
 
  
-{:start="34"}
+
 34. A 2017 report by UNESCAP found that a lack of political commitment to develop common solutions for cross-border commerce cost one region over US$54 billion per year in lost export opportunities.  
 
  
-{:start="35"}
+
 35. Thankfully, there is growing political will in the region to advance legal convergence. Singapore is here to support and facilitate this project.
 
  
-{:start="36"}
+
 36. Thank you for giving me your attention this morning. I am sure that you will have a fruitful Conference today.
 
 <p class="right-side-updated">Last updated on 25 Jul 2018</p>
