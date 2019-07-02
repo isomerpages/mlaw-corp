@@ -106,6 +106,7 @@ Ladies and gentlemen
 18. To better serve these applicants, the Bureau has been reaching out to, and partnering, with various social service agencies, since 2016.  These include PAVE, a Family Service Centre specialising in helping family violence victims; the Child Protective Service; and the Big Love Child Protection Specialist Centre.  The Bureau has a referral protocol with PAVE, for family violence victims, and with the Ministry of Social and Family Development, to refer applicants with social service needs to Family Service Centres (FSCs) for help.
 
 19. Referring the applicant for social service help can make a significant difference to their lives.
+
     a. In one case, the applicant came to the Bureau for help with her divorce.  Her ex-husband had suddenly taken their 10-year old child away from her and cut off all contact with her.  She was overwhelmed with grief at not being able to see her child and she said that she had attempted suicide many times.
 
     b. The Bureau immediately referred the matter to an FSC.  The FSC got in touch with the applicant on the same day and calmed her down.  The Bureau helped the applicant obtain orders to ensure that the husband brought the child to see her.  The applicant was delighted at the outcome, and no longer had suicidal thoughts.
