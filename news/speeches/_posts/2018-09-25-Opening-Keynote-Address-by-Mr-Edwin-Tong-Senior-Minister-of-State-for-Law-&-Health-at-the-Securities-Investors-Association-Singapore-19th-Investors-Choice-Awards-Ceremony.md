@@ -60,11 +60,10 @@ Good evening.
 
 
 11. To address the concern of the misuse of corporate entities for illicit purposes, international efforts have focused on making the ownership and control of corporate entities more transparent. For instance:-
-    
-    a. European Union (EU) member states are required, under the new and more stringent EU Fifth Anti-Money Laundering Directive, to set up full public registers of corporate beneficial ownership information by January 2020.  
-    
-    b. The United Kingdom and several other jurisdictions are now also working toward automatic exchange of beneficial ownership information.  
-
+    <ol style="list-style-type: lower-alpha">
+    <li>European Union (EU) member states are required, under the new and more stringent EU Fifth Anti-Money Laundering Directive, to set up full public registers of corporate beneficial ownership information by January 2020.</li>  
+    <li>he United Kingdom and several other jurisdictions are now also working toward automatic exchange of beneficial ownership information.</li>  
+    </ol>
 
 12. Given that our major trade and economic links to Europe are strong, and our status as a responsible, trusted, and clean international financial centre, it is important that Singapore also has measures in place, so that beneficial ownership information is available and accessible to regulators and for law enforcement purposes.
 
@@ -78,11 +77,11 @@ Good evening.
 
 
 15. A central non-public register is likely to have the following characteristics:
+    <ol style="list-style-type: lower-alpha">
+    <li>First, corporate entities, whether local or foreign, and limited liability partnerships will be required to file beneficial ownership information with ACRA in the future. Such information is already being maintained at the offices of such entities, or by their corporate service providers.</li>
     
-    a. First, corporate entities, whether local or foreign, and limited liability partnerships will be required to file beneficial ownership information with ACRA in the future. Such information is already being maintained at the offices of such entities, or by their corporate service providers.
-    
-    b. Second, the register will not be accessible to the public. Access will be given to public agencies, similar to the access rights under the current regime. Law enforcement agencies, in particular, will have access.
-
+    <li>Second, the register will not be accessible to the public. Access will be given to public agencies, similar to the access rights under the current regime. Law enforcement agencies, in particular, will have access. </li>
+    </ol> 
 
 
 16. MOF and ACRA will be conducting a study on the legal and operational framework needed to implement such a central, non-public beneficial ownership register. Feedback will be sought on the proposed framework in due course on what the appropriate mechanisms might be, what the appropriate levers are, and how the structure might be built.
@@ -100,11 +99,10 @@ Good evening.
 
 
 19. Last month, MAS issued a revised and streamlined Code of Corporate Governance aimed, in part, at board renewal and diversity, and strengthening director independence. SGX has also amended its listing rules in line with the Code revisions. For example:-
-    
-    a. At least one-third of the board should be made up of independent directors,<sup>[7]</sup> so as to strengthen board independence and oversight.
-    
-    b. Companies must also disclose their board diversity policy and the progress made towards implementing this policy.<sup>[8]</sup> This creates a culture of transparency and accountability to shareholders. Globally, investors are also sitting up and taking more notice of each company’s diversity policy.<sup>[9]</sup>
-
+    <ol style="list-style-type: lower-alpha">
+    <li>At least one-third of the board should be made up of independent directors,<sup>[7]</sup> so as to strengthen board independence and oversight.</li>
+    <li>Companies must also disclose their board diversity policy and the progress made towards implementing this policy.<sup>[8]</sup> This creates a culture of transparency and accountability to shareholders. Globally, investors are also sitting up and taking more notice of each company’s diversity policy.<sup>[9]</sup></li>
+    </ol>
 
 
 20. The amendments to the Code of Corporate Governance and the Listing Rules reflect a growing awareness and a strong acceptance from the business community for board diversity. However, these amendments are only one facet of helping the board to become more diverse. Meaningful transformation can only happen if it is embraced by the corporates themselves as part of the corporate culture, and it must happen at the individual, organizational and governmental level, requiring all quarters to get on board and be proactive about having diversity. Sustained commitment in this area will boost our standing as a progressive player on the international stage.
