@@ -47,7 +47,6 @@ Monday to Friday: 8:30am to 5:00pm<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)
 
-<iframe src='https://tools.onemap.sg/minimap/minimap.html?mWidth=440&mHeight=445&latLng=1.319518003,103.8421548&zoomLevl=17&iwt=<br>&popupWidth=200&popupHeight=500&includePopup=false&onloadPopup=false&design=original' height=450px width=450px scrolling='no' frameborder='0' allowfullscreen='allowfullscreen'></iframe>
 
 <img src="/images/enq.png" width="40" height="40"> Contact Us @ OneMinLaw
 ---
