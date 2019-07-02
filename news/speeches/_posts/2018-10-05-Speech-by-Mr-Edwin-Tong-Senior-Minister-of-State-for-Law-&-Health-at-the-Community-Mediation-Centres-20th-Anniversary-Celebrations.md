@@ -82,7 +82,7 @@ collection_name: news
 
 18. A number of you are retirees who have chosen to mark the beginning of a bright new phase of your retirement years as volunteers giving back to society, and reaping the rewards of an active and fulfilling retirement lifestyle. Thank you very much for volunteering your time, even in retirement.
 
-    **<u>Minister for Law Community Mediator Award</u>**
+    ***<u>Minister for Law Community Mediator Award</u>***
 
 
 19. There is no monetary incentive or elaborate titles when one chooses to be a community mediator. But despite this, and maybe in spite of this, we continue to have a steady stream of committed mediators, including all of you, who have served with us since the CMC first started 20 years ago. 
@@ -120,7 +120,7 @@ collection_name: news
 
 27. The CMC also collaborates with the Agency for Integrated Care (AIC) which trains the mediators to identify symptoms of common mental illnesses, such as dementia, and to mediate cases involving parties showing such symptoms tactfully and sensitively.
 
-    **<u>Singapore International Mediation Institute (SIMI) Qualifying Assessment Programme (QAP)</u>**
+    ***<u>Singapore International Mediation Institute (SIMI) Qualifying Assessment Programme (QAP)</u>***
 
 
 28. Last year the CMC worked with the Singapore International Mediation Institute or SIMI to enhance its training framework. The new framework requires all new CMC mediators to undergo 40 hours of basic training, up from 16 previously. New mediators will be required to undergo more role play exercises during their basic training to ensure that they are adequately skilled to handle different situations in real life and more complex scenarios that crop up amongst neighbours all too often.  In such scenarios, role-playing will help to prepare them in advance for how to deal with the situations.
@@ -146,11 +146,11 @@ collection_name: news
 
 33. The CMC also enlists the following partners who have been assisting the Centre with the training, professional development and accreditation of CMC’s volunteer mediators.
 
-    a. The Singapore Mediation Centre</li>
+    a. The Singapore Mediation Centre
     
-    b. Temasek Polytechnic; and</li>
+    b. Temasek Polytechnic; and
     
-    c. SIMI</li>
+    c. SIMI
 
 
 34. We give our thanks and look forward to the continued strong relationships with these partners, which we have established over the years. I hope that we will continue to build on these partnerships, foster these relationships for many years to come, because together we can do better in helping our community to resolve conflicts.
