@@ -51,8 +51,8 @@ Good evening.
 
 
 
- 9. First, there are increased efforts to strengthen Singapore’s governance, through greater transparency of corporate entities. It is an ever changing paradigm, because businesses have to change with the times and catch up with new ways of doing business and new ways of transactions as well. So, issues like how we regulate cryptocurrency, Bitcoins and other such mechanisms will come to the fore.
-
+ <p>9. First, there are increased efforts to strengthen Singapore’s governance, through greater transparency of corporate entities. It is an ever changing paradigm, because businesses have to change with the times and catch up with new ways of doing business and new ways of transactions as well. So, issues like how we regulate cryptocurrency, Bitcoins and other such mechanisms will come to the fore.
+</p>
  
 
 10. Money laundering, terrorism financing and tax evasion are increasingly becoming global concerns. As such, the identities of ultimate owners and controllers of business entities is also gaining international importance.
