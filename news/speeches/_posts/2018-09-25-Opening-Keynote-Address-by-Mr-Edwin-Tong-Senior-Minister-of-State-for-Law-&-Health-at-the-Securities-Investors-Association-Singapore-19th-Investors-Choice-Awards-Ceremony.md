@@ -47,7 +47,7 @@ Good evening.
  8. However, there remains room for improvement in two areas, enhancing transparency,<sup>[3]</sup> and board diversity. These factors help companies to manage their risks and grow sustainably, and take on added significance in the face of market complexities. I will share some key developments in these two areas.
     
     <ol style="list-style-type: upper-alpha">
- <li><u>Enhancing corporate transparency</u></li>
+    <li><u>Enhancing corporate transparency</u></li>
     </ol>
 
 
