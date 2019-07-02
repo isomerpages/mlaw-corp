@@ -107,11 +107,12 @@ Ladies and Gentlemen
 
  
 {:start="20"}
-20.                   During the discussions, the Malaysian representative acknowledged that:
+20. During the discussions, the Malaysian representative acknowledged that:
 
-<i>"Some treaties might be so fundamental to the very existence of States that they simply could not be dispensed with, whatever political differences might arise.
-<br>
-For example, the new island State of Singapore was dependent on Malaysia for its water supply; The treaty under which Malaysia had to supply a certain quantity of water daily to Singapore could not be terminated or suspended between the two States for any political reason."</i>                
+*“Some treaties might be so fundamental to the very existence of States that they simply could not be dispensed with, whatever political differences might arise.*
+ 
+*For example, the new island State of Singapore was dependent on Malaysia for its water supply; The treaty under which Malaysia had to supply a certain quantity of water daily to Singapore could not be terminated or suspended between the two States for any political reason."*
+
 
 {:start="21"}
 21.                   Justice Chao heard this. He seized on it. He had the presence of mind and astuteness to quickly realise that this must be put on record.
@@ -155,9 +156,9 @@ For example, the new island State of Singapore was dependent on Malaysia for its
 {:start="28"}
 28.                   Not everyone may recall, but in 2002, 15 years ago, Malaysia’s then-PM Dr Mahathir criticised the water agreements, as being unfair. He said, by reference to the water agreements:
 
-<i>“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”</i>
-<br>
-<i>“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”</i>
+*“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”*
+ 
+*“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”*
 
 
 {:start="29"}
@@ -294,9 +295,9 @@ For example, the new island State of Singapore was dependent on Malaysia for its
 
 
 *“He was wise because his spirit was uncontaminated, because he knew no violence, or hatred, or envy, or jealousy or ill-will…*
-<br>
+<br>  
 *I believe that it was this purity that chiefly made him the judge we so much revere; more than his learning, his acuteness, and his fabulous industry.*
-<br>
+<br>  
 *…[I]t was a rare and good fortune that brought to such eminence a man so reserved, so unassuming, so retiring, so gracious to high and low, and so serene.”*
 
 {:start="61"}

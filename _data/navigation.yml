@@ -4,13 +4,20 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/overview/
+- title: About Us
+  url: /about-us/ourvision-mission-corevalues/
   sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
+  - title: Our Vision, Mission and Core Values
+    url: /about-us/ourvision-mission-corevalues/
+  - title: Our Management
+    url: /about-us/our-management/
   - title: Organisation Structure
-    url: /who-we-are/organisation-structure/
+    url: /about-us/organisation-structure/
+  - title: What We Do
+    url: /about-us/what-we-do/
+  - title: Contact Us
+    url: /about-us/contact-us/
+    
 - title: Our Work
   url: /our-work/legal-group/
   sub-links:
@@ -28,6 +35,7 @@
     url: /our-work/community-legal-services-group/
   - title: Our Legal System
     url: /our-work/our-legal-system/
+    
 - title: Law Firms
   url: /law-firms/find-law-practice-entity-or-lawyer/
   sub-links:
@@ -45,6 +53,7 @@
     url: /law-firms/incentive-and-exemption-schemes/
   - title: Other Useful Information
     url: /law-firms/other-useful-information/
+    
 - title: Admission To The Bar
   url: /admission-to-the-bar/admission-requirements/
   sub-links:
@@ -60,6 +69,7 @@
     url: /admission-to-the-bar/apply-for-exemption/
   - title: Relevant Legislation
     url: /admission-to-the-bar/relevant-legislation/
+    
 - title: News
   url: /news/
   sub-links:
@@ -85,6 +95,7 @@
     url: /news/events/
   - title: Others
     url: /news/others/
+    
 - title: E Services
   url: /e-services/insolvency-office/
   sub-links:
@@ -112,6 +123,7 @@
   - title: Legal Aid Bureau
     url: https://www.mlaw.gov.sg/eservices/io/
     external: true
+    
 # - title: Join Us
 #   url: /join-us/why-minlaw/
 #   sub-links:
@@ -125,5 +137,3 @@
 #     url: /join-us/minlaw-internship/
 #   - title: Meet Our Interns
 #     url: /join-us/meet-our-interns/
-- title: Contact Us
-  url: /contact-us/

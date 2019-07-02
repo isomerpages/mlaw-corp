@@ -10,15 +10,15 @@ collection_name: news
 12 Oct 2017 Posted in [Speeches](/news/speeches)
 
 The Honourable Mr Dipak Misra, Chief Justice of India,
-<br> 
+<br>   
 The Honourable Mdm Gita Mittal, Acting Chief Justice of the Delhi High Court,
-<br> 
+<br>   
 Members of the SIAC Board and Court,
-<br> 
+<br>   
 Ms Lim Seok Hui, CEO of SIAC,
-<br> 
+<br>   
 Distinguished guests,
-<br> 
+<br>   
 Ladies and Gentlemen,
 
 1. This is the “Hard Talk” session in the second part of SIAC’s day-long conference. Earlier this afternoon, in the Conference segment, we did some crystal ball-gazing, to consider the future of arbitration, particularly between India and Singapore.

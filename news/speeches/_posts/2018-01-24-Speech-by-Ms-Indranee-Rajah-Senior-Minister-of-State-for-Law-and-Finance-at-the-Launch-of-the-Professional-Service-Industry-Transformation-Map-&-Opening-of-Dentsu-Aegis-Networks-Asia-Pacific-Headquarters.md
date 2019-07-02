@@ -9,11 +9,11 @@ collection_name: news
 24 Jan 2018 Posted in [Speeches](/news/speeches) 
 
 Distinguished Guests,
-<br> 
+<br>   
 Ladies and Gentlemen, 
-<br> 
+<br>   
 Lay Lim, my co-chair for the Modern Services Sub-Committee,
-<br> 
+<br>   
 Chaly Mah, my co-chair for the Committe on the Future Economy Working Working Group on Legal and Accounting Services.
 
 **Introduction**

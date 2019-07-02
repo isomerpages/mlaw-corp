@@ -54,4 +54,6 @@ collections:
     output: true
   news:
     output: true
+  about-us:
+    output: true
 resources_name: news

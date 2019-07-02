@@ -193,7 +193,7 @@ Ladies and Gentlemen
 <ol start="31">
 <li> To better support the design sector in Singapore, the Ministry of Law and the Intellectual Property Office of Singapore (“IPOS”) recently reviewed our design protection regime.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>We consulted widely – from IP practitioners to designers, design-centric business, and industry associations.</li>
 <li>We also learnt from the experiences and best practices of overseas counterparts.</li>
 <li>  The review culminated in the Registered Designs (Amendment) Bill 2017, which was passed in Parliament on 8 May this year.</li>

@@ -84,7 +84,7 @@ Good evening.
 
 </li>
 
-<ol>
+</ol>
 
 <ol start="11">
 <li>Speaking of younger lawyers, at the undergraduate level, we want our law schools to infuse relevant elements on technology into their curriculum.
