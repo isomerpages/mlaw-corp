@@ -55,7 +55,7 @@ collection_name: news
 
 12. To build on our success, I think we must first be aware of the environment that we are in. This will allow us to capitalise on the opportunities as they come. Here, I mention two important developments which many of you in this room will already be familiar with, if not very familiar with: (i) first, the growth of Asia, not just as an economy, but also as a source of jurisprudence and as a jurisdiction for dispute resolution; and (ii) secondly, the ever changing face of dispute resolution. 
     
-    **The Growth of Asia**
+    ***The Growth of Asia***
 
 
 13. The centre of economic gravity continues to shift towards Asia. ASEAN is today a growing economy; and you would have heard that by 2030, ASEAN will likely become the 4<sup>th</sup> largest economy. behind only the United States, China and the European Union. That is in 12 years’ time. And what we do in these 12 years to be in that position and take advantage of this growth proposition will define where we might end over the next 25 years or so. Asia alone is expected to grow; over 6.0% this year, more than double the expected growth of other regions, and this is based on the Asian Development Bank’s latest 2018 outlook. <sup>[2]</sup>
