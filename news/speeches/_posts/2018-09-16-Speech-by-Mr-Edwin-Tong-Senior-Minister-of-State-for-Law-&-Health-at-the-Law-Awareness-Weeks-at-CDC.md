@@ -98,10 +98,10 @@ A very good afternoon to all of you.
 
 23. So with that, I want to share a quote with you. This is someone who said this many years ago. And he is David Kutik, who was at that time the president of the Cleveland Bar Association where he was talking about giving back and pro bono services. And he said this and I quote:
     
-    *David Kutik, Cleveland Bar Association*
-    *(Jones Day, specializing in complex commercial litigation)*
+     *David Kutik, Cleveland Bar Association*
+     *(Jones Day, specializing in complex commercial litigation)*
     
-    *“Doing pro bono connects us to people. We make the law and the justice system work for people who have nothing to give us but their gratitude. We empower them. We give them hope; we help them when they have nowhere else to turn. It makes us feel like a lawyer. It makes us feel that our training, our experiences, and our judgment can do some good. It makes us feel that we are better people. And indeed we are.”*
+     *“Doing pro bono connects us to people. We make the law and the justice system work for people who have nothing to give us but their gratitude. We empower them. We give them hope; we help them when they have nowhere else to turn. It makes us feel like a lawyer. It makes us feel that our training, our experiences, and our judgment can do some good. It makes us feel that we are better people. And indeed we are.”*
  
  
 
