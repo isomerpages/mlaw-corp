@@ -188,7 +188,7 @@ Ladies and Gentlemen
     </ol>
     </li>
     <li>ABLI&rsquo;s Foreign Judgments Project is of particular interest, as the Ministry of Law oversees Singapore&rsquo;s foreign judgments policy.
-    <ol style="list-style-type: lower-roman; font-weight: bold;">
+    <ol style="list-style-type: lower-roman;">
     <li>The high quality of analysis of the compendium of country reports published in December last year gave us valuable insight into our region&rsquo;s legal landscape.</li>
     <li>We look forward to the Statement of Principles that will be produced in the second phase of this Project. It will be an unprecedented common reference point for policy-makers around the region to understand the legal gaps that we may need to fill, and how we could do so. The work involved is complex, and could be successful only with the help of some of our region&rsquo;s leading legal experts.</li>
     </ol>
@@ -223,7 +223,7 @@ Ladies and Gentlemen
 
 32. Legal convergence in Asia is growing in momentum. This week, as the Chief Justice has mentioned, Singapore is pleased to host several major events relevant to legal convergence, not least the present UNCITRAL ABLI Emergence Conference.
 
-    <ol start="5" style="list-style-type: upper-roman; ">
+    <ol start="5" style="list-style-type: upper-roman; font-weight:bold;">
     <li><u>Conclusion</u></li>
     </ol>
 
