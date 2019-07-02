@@ -56,9 +56,9 @@ Ladies and Gentlemen
 
  7. Before I turn to these issues, it would be useful to recall the desired outcomes of business legal convergence.
 
-<ol start="2" style="list-style-type: upper-roman;font-weight: bold">
-<li><u>DESIRED OUTCOMES</u></li>
-</ol>
+
+**II. <u>DESIRED OUTCOMES</u>**
+
 
 
  8. These  stem from our economic reality.
@@ -70,9 +70,9 @@ Ladies and Gentlemen
     
     b. By 2030- 
        
-       i. Asia is expected to account for 40% of the world&rsquo;s GDP; and
+        i. Asia is expected to account for 40% of the world&rsquo;s GDP; and
        
-       ii. ASEAN is expected to be the world&rsquo;s fourth-largest economy.
+        ii. ASEAN is expected to be the world&rsquo;s fourth-largest economy.
 
 
 
