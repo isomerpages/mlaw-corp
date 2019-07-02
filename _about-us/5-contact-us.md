@@ -53,10 +53,6 @@ Closed on Weekends & Public Holidays<br>
 
 <iframe src="https://tools.onemap.sg/minimap/minimap.html?mWidth=440&mHeight=445&latLng=1.28011512900538,103.845666409192&zoomLevl=17&iwt=" height=450px width=450px scrolling='no' frameborder='0' allowfullscreen='allowfullscreen'></iframe><br>
 
-
-<iframe src='https://tools.onemap.sg/minimap/minimap.html?mWidth=440&mHeight=445&latLng=1.28011512900538,103.845666409192&zoomLevl=17&iwt=<b>Please enter your Text in the Popup Creator.</b><br><img width="60px" height="60px" src="https://docs.onemap.sg/images/logo.png"><br><br><a href="https://www.onemap.sg/" target="_blank">New OneMap</a>&popupWidth=200&popupHeight=500&includePopup=true&onloadPopup=false&design=original' height=450px width=450px scrolling='no' frameborder='0' allowfullscreen='allowfullscreen'></iframe>
-
-
 <img src="/images/enq.png" width="40" height="40"> Contact Us @ OneMinLaw
 ---
 
