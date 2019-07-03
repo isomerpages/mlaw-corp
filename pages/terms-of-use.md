@@ -9,9 +9,9 @@ breadcrumb: Terms of Use
 #### **Terms of Use**
 
 1. **Agreement**<br> 
-    i.    Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as "the Digital Service"). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (“MLAW”).<br> 
+    i.    Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **"the Digital Service"**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).<br> 
     
-    ii.    Access to the Digital Service is governed by the terms and conditions of use as stated below (“Terms of Use”). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
+    ii.    Access to the Digital Service is governed by the terms and conditions of use as stated below (**“Terms of Use”**). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
     
     iii.    These Terms of Use may be changed from time to time. All changes to the Terms of Use will be incorporated directly onto this page, and your use of this Digital Service after such changes have been incorporated will constitute your agreement to the modified Terms of Use and all of the changes.<br>
     
@@ -43,7 +43,7 @@ breadcrumb: Terms of Use
     iv.     This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.<br> 
     v.     You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.<br> 
 
-    vi.     For infocomm security best practices and tips, you may wish to visit https://www.gosafeonline.sg.<br> 
+    vi.     For infocomm security best practices and tips, you may wish to visit https://www.gosafeonline.sg{:target="blank"}.<br> 
 
 5. **Links to this Digital Service**<br> 
 
