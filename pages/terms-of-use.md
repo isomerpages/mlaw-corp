@@ -8,7 +8,8 @@ breadcrumb: Terms of Use
 Terms of Use
 ---
 
-1. **Agreement**<br> 
+1. **Agreement**
+
     i.    Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **"the Digital Service"**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).<br> 
     
     ii.    Access to the Digital Service is governed by the terms and conditions of use as stated below (**“Terms of Use”**). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
@@ -17,7 +18,8 @@ Terms of Use
     
     iv.    References to “the Digital Service” in these Terms of Use shall include the Digital Service in its entirety as well as its individual pages, and shall include any services offered by MLAW on the Digital Service.<br> 
     
-2. **Access to the Digital Service**<br>
+2. **Access to the Digital Service**
+
      i.     The accessibility and operation of the Digital Service relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of the Digital Service.<br>
 
     ii.     MLAW reserves the right to temporarily suspend or shut down the Digital Service for system maintenance or for such other purpose as MLAW may require, as and when necessary.<br>
@@ -26,13 +28,13 @@ Terms of Use
 
     iv.     Any transactions which you carry out on this Digital Service (including the use of any services offered by MLAW on the Digital Service) shall be subject to such additional terms and conditions as MLAW finds necessary. These additional terms and conditions shall be brought to your attention at the time of your transaction, and by carrying out your transaction you shall be deemed to have accepted and agreed to be legally bound by the additional terms and conditions. <br> 
 
-3. **Reliance on Information on the Digital Service**<br> 
+3. **Reliance on Information on the Digital Service**
 
     i.     MLAW provides the Digital Service as a general information source only. The Digital Service should not be taken as giving professional advice, and may not cover all the relevant information on a particular issue. Before relying in any way on the information on the Digital Service, you should do your own checks and/or obtain the necessary professional advice on your particular issue.<br> 
 
     ii.     MLAW may modify or discontinue any information or features that form part of the Digital Service at any time, with or without notice to you, and without liability.<br> 
 
-4. **Security**<br>
+4. **Security**
 
     i.     Where appropriate, MLAW uses available technology to protect the security of communications made through the Digital Service. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any transactions or other communications made through the Digital Service. You carry out any such transactions or communications at your own risk.<br> 
 
@@ -45,7 +47,7 @@ Terms of Use
 
     vi.     For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg]{:target="blank"}.<br> 
 
-5. **Links to this Digital Service**<br> 
+5. **Links to this Digital Service**
 
     i. This Digital Service contains links to non-Government Digital Service which are not maintained by MLAW (“private digital service”). MLAW is not responsible or liable for the availability or the contents of any private Digital Service linked to or from the Site.<br> 
 
@@ -65,7 +67,7 @@ d. MLAW reserves all rights to disable any links to, or frames of any Digital Se
 
 e. MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
 
-6. **Intellectual Property**<br> 
+6. **Intellectual Property**
 
     i. The materials located on this Digital Service including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.<br> 
 
@@ -73,11 +75,11 @@ e. MLAW reserves the right to disable any unauthorised links or frames to the Di
 
     iii. You may make copies of the text for the purposes of applying for licences, permits and registrations on the Digital Service. You may also print out, and copy portions of the text in accordance with the provisions of the Copyright Act.<br> 
 
-7. **Privacy Policy**<br>
+7. **Privacy Policy**
 
      i. Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/){:target="_blank"} to review the Digital Service’s Privacy Statement. .<br> 
 
-8. **Disclaimers and Limitation of Liability**<br> 
+8. **Disclaimers and Limitation of Liability**
 
     i. While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:<br>
 
@@ -99,6 +101,6 @@ d. Any delay or errors in operation or transmission of the Digital Service arisi
 e. Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and<br> 
 f. Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
 
-9. **Applicable Law**<br>
+9. **Applicable Law**
 
     i. Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.<br>
