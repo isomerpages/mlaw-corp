@@ -22,19 +22,17 @@ Ladies and gentlemen
     **Achieving Many Firsts**
  
  3. Maxwell Chambers was set up in 2010. Since then, it has achieved many firsts:
-    <ol style="list-style-type: lower-alpha">
-    <li>It is the world’s first integrated dispute resolution complex, bringing under one roof hearing facilities and offices for           practitioners and institutions.</li>
-    <li>As a hearing centre, Maxwell was ranked the most preferred hearing centre in the world in the Global Arbitration Review’s first     hearing centre survey in 2013, just three years after it was established.</li>
+    <ol style="list-style-type: lower-alpha;">
+    <li>It is the world&rsquo;s first integrated dispute resolution complex, bringing under one roof hearing facilities and offices for     practitioners and institutions.</li>
+    <li>As a hearing centre, Maxwell was ranked the most preferred hearing centre in the world in the Global Arbitration Review&rsquo;s     first hearing centre survey in 2013, just three years after it was established.</li>
     <li>As an office complex for practitioners and institutions, it is
-    
-    <ol style="list-style-type: lower-roman">
-    <li>The International Centre for Dispute Resolution of the American Arbitration Association
-    <br>
-    (AAA- ICDR)’s first overseas office outside the United States;</li>
-    <li>The World Intellectual Property Organisation Arbitration and Mediation Centre (WIPO AMC)’s first                                     overseas office outside Geneva;</li>
-    <li>The International Chamber of Commerce (ICC)’s first regional office in Asia;</li>
-    <li>The Permanent Court of Arbitration (PCA)’s first office in Asia.</li>
+    <ol style="list-style-type: lower-roman;">
+    <li>The International Centre for Dispute Resolution of the American Arbitration Association <br /> (AAA- ICDR)&rsquo;s first             overseas office outside the United States;</li>
+    <li>The World Intellectual Property Organisation Arbitration and Mediation Centre (WIPO AMC)&rsquo;s first overseas office outside       Geneva;</li>
+    <li>The International Chamber of Commerce (ICC)&rsquo;s first regional office in Asia;</li>
+    <li>The Permanent Court of Arbitration (PCA)&rsquo;s first office in Asia.</li>
     </ol>
+    </li>
     </ol>
 
  4. Maxwell Chambers has been setting new standards, but it is also staying ahead of competition.
