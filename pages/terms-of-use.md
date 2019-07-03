@@ -45,7 +45,7 @@ Terms of Use
     iv.     This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.<br> 
     v.     You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.<br> 
 
-    vi.     For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg]{:target="blank"}.<br> 
+    vi.     For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg){:target="blank"}.<br> 
 
 5. **Links to this Digital Service**
 
