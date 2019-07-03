@@ -8,40 +8,37 @@ collection_name: news
 
 2 Nov 2017 Posted in [Speeches](/news/speeches)
 
-1. I am very happy to see so many of you here today at the Asian Legal Business Cross-Border Dispute Resolution and Arbitration Forum.
+ 1. I am very happy to see so many of you here today at the Asian Legal Business Cross-Border Dispute Resolution and Arbitration Forum.
  
-2. As in-house counsel, you play a critical role advancing and safeguarding your companies’ legal interest, which includes planning for how disputes, if they were to arise, are to be resolved. Dispute resolution is an important, but often neglected, aspect of commercial transactions and contract negotiations. When the business focus is to seal a partnership, it takes special effort and a determined in-house counsel to anticipate problems that may arise should the relationship go sour later, and to actively plan for dispute resolution to protect the company’s interest under those circumstances.
+ 2. As in-house counsel, you play a critical role advancing and safeguarding your companies’ legal interest, which includes planning for how disputes, if they were to arise, are to be resolved. Dispute resolution is an important, but often neglected, aspect of commercial transactions and contract negotiations. When the business focus is to seal a partnership, it takes special effort and a determined in-house counsel to anticipate problems that may arise should the relationship go sour later, and to actively plan for dispute resolution to protect the company’s interest under those circumstances.
  
-3. I understand that you will later have in-depth discussions on practical issues like how to choose a good seat for international arbitration, how to negotiate the arbitration clause in your dispute resolution agreement, and the challenges you can expect in enforcement. Many of you, while based in Singapore, may also cover your companies’ regional transactions. I would thus like to take this opportunity to share my personal views on some of the key regional developments which can help set the context for your discussions later.
+ 3. I understand that you will later have in-depth discussions on practical issues like how to choose a good seat for international arbitration, how to negotiate the arbitration clause in your dispute resolution agreement, and the challenges you can expect in enforcement. Many of you, while based in Singapore, may also cover your companies’ regional transactions. I would thus like to take this opportunity to share my personal views on some of the key regional developments which can help set the context for your discussions later.
 
-**Asia**
+    **Asia**
 
-{:start="4"}
-4. As we all know, the economic centre of gravity of the world is shifting to Asia. As this happens, the centre of gravity for legal activities will follow also. There will be a lag in this shift, because of habits and established practices. Nonetheless, Asia’s magnetic pull on trade and commerce will most certainly have a knock-on effect for legal activities. Asia will be a land of opportunity, not just for companies, but also for law firms, lawyers and in-house counsels.
+ 4. As we all know, the economic centre of gravity of the world is shifting to Asia. As this happens, the centre of gravity for legal activities will follow also. There will be a lag in this shift, because of habits and established practices. Nonetheless, Asia’s magnetic pull on trade and commerce will most certainly have a knock-on effect for legal activities. Asia will be a land of opportunity, not just for companies, but also for law firms, lawyers and in-house counsels.
 
-{:start="5"}
-5. Take infrastructure as an example. Asia’s rapid urbanisation, development and population growth create an urgent need: US$20 trillion of additional infrastructure investments from now till 2030. These infrastructure projects need financing and project structuring. They will also need legal services to bring the projects into being. The nature of infrastructure projects is such that delays and variations are common. Demand for infrastructure in Asia will translate to demand for dispute resolution services.
-
-{:start="6"}
-6. The numbers already show this. Between 2014 and 2019, legal services is projected to grow at 3.3 per cent a year globally. Over the same period, legal services in the Asia-Pacific region is expected to grow at 5.5 per cent annually. There is a 2.2 percentage point difference in growth rate. What this means is that while we can continue to do good legal work around the globe, there are simply more opportunities in the Asia-Pacific. And because the 2.2 percentage point difference in growth rate is compounded each year, this “legal opportunity gap” between Asia and the rest of the world is widening with each passing year.
+ 5. Take infrastructure as an example. Asia’s rapid urbanisation, development and population growth create an urgent need: US$20 trillion of additional infrastructure investments from now till 2030. These infrastructure projects need financing and project structuring. They will also need legal services to bring the projects into being. The nature of infrastructure projects is such that delays and variations are common. Demand for infrastructure in Asia will translate to demand for dispute resolution services.
 
 
-**China**
+ 6. The numbers already show this. Between 2014 and 2019, legal services is projected to grow at 3.3 per cent a year globally. Over the same period, legal services in the Asia-Pacific region is expected to grow at 5.5 per cent annually. There is a 2.2 percentage point difference in growth rate. What this means is that while we can continue to do good legal work around the globe, there are simply more opportunities in the Asia-Pacific. And because the 2.2 percentage point difference in growth rate is compounded each year, this “legal opportunity gap” between Asia and the rest of the world is widening with each passing year.
+    
+    **China**
 
-{:start="7"}
-7.    One major engine of growth in Asia, alongside Southeast Asia and India, is China. Just as China is today already an economic powerhouse, China will become a powerhouse for international dispute resolution. In 2016, China’s arbitral caseload involving a foreign party was over 1,500. This far exceeded the caseload of any other international arbitral institution. This important statistic is under-reported in international arbitral publications, and China’s current ability is under-appreciated by legal practitioners and companies.
+
+ 7. One major engine of growth in Asia, alongside Southeast Asia and India, is China. Just as China is today already an economic powerhouse, China will become a powerhouse for international dispute resolution. In 2016, China’s arbitral caseload involving a foreign party was over 1,500. This far exceeded the caseload of any other international arbitral institution. This important statistic is under-reported in international arbitral publications, and China’s current ability is under-appreciated by legal practitioners and companies.
  
-{:start="8"} 
-8.    Notwithstanding this, China is far from reaching its full potential. Chinese arbitral institutions are still largely domestic in focus. This is because China’s international caseload, high by global standards, is but a mere 0.7 per cent of the over 200,000 arbitral cases it handles a year.
 
-{:start="9"}
-9.    However, this will change as China’s Belt and Road Initiative (BRI) pushes Chinese arbitral institutions overseas. As more Chinese companies internationalise and worry about disputes that may arise, they will compel Chinese arbitral institutions to beef up their international expertise to handle cases involving foreign parties as well as to go overseas, either by setting up overseas offices or by partnering international institutions. If they can, these Chinese companies will prefer to have their disputes administered by a Chinese arbitral institution and appoint Chinese arbitrators whom they are familiar with. This is no different from any other multi-national corporations who also have their own preferred institutions and arbitrators and whose motivation is to safeguard their own commercial interest. Today, there are over 200 arbitral institutions in China. I am confident that amongst them, at least a few will succeed and emerge major international dispute resolution institutions handling high volumes of cases involving Chinese and foreign parties.
+ 8. Notwithstanding this, China is far from reaching its full potential. Chinese arbitral institutions are still largely domestic in focus. This is because China’s international caseload, high by global standards, is but a mere 0.7 per cent of the over 200,000 arbitral cases it handles a year.
 
-{:start="10"}
-10.    The BRI is a major game-changer. It has the potential to create exciting opportunities for businesses, and to improve the lives of billions. The BRI is bridging civilisations and bringing together governments, businesses and people to realise the vision of a BRI built on mutual trust and benefit.     
+
+ 9. However, this will change as China’s Belt and Road Initiative (BRI) pushes Chinese arbitral institutions overseas. As more Chinese companies internationalise and worry about disputes that may arise, they will compel Chinese arbitral institutions to beef up their international expertise to handle cases involving foreign parties as well as to go overseas, either by setting up overseas offices or by partnering international institutions. If they can, these Chinese companies will prefer to have their disputes administered by a Chinese arbitral institution and appoint Chinese arbitrators whom they are familiar with. This is no different from any other multi-national corporations who also have their own preferred institutions and arbitrators and whose motivation is to safeguard their own commercial interest. Today, there are over 200 arbitral institutions in China. I am confident that amongst them, at least a few will succeed and emerge major international dispute resolution institutions handling high volumes of cases involving Chinese and foreign parties.
+
+
+10. The BRI is a major game-changer. It has the potential to create exciting opportunities for businesses, and to improve the lives of billions. The BRI is bridging civilisations and bringing together governments, businesses and people to realise the vision of a BRI built on mutual trust and benefit.     
  
-{:start="11"} 
-11.    The BRI covers over 60 countries – 65 to be exact – and many civilisations. As BRI projects involve cross-border, high value and long-term investments, there will inevitably be some political and financing risks, operational challenges and differences in systems and practices. While businesses seek cooperation, they need to also plan for disputes. Agreeing in advance on how disputes will be resolved should they arise can strengthen trust and further cooperation.  
+
+11. The BRI covers over 60 countries – 65 to be exact – and many civilisations. As BRI projects involve cross-border, high value and long-term investments, there will inevitably be some political and financing risks, operational challenges and differences in systems and practices. While businesses seek cooperation, they need to also plan for disputes. Agreeing in advance on how disputes will be resolved should they arise can strengthen trust and further cooperation.  
 
 
 <ol start="12">
