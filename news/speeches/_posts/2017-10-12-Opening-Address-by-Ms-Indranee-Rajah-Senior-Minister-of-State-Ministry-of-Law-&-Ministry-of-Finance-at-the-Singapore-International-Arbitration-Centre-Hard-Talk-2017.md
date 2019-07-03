@@ -189,7 +189,7 @@ Ladies and Gentlemen,
 
 
 
-    **Conclusion**
+   **Conclusion**
 
 {:start="17"}    
 17. In conclusion, the answer to the question of whether what lies ahead of arbitration is a long gradual decline into the frozen wastes of winter, or an ascent into a bright shining golden summer, is that it really depends on how the arbitration industry – the institutions, arbitrators and counsel – respond to the needs of parties and to the changes that will inevitably be wrought by technology, a changing world economy, and international considerations.
@@ -203,5 +203,5 @@ Ladies and Gentlemen,
 <p class="right-side-updated">Last updated on 13 Oct 2017</p>
 
 
-g
+gh
 
