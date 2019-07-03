@@ -9,7 +9,7 @@ collection_name: news
 31 Oct 2017 Posted in [Speeches](/news/speeches)
 
 
-Professor Simon Chesterman, Dean, National University of Singapore Faculty of Law,  
+Professor Simon Chesterman, Dean, National University of Singapore Faculty of Law,
 Justice See Kee Oon, Presiding Judge, State Courts,  
 Faculty of Law Faculty Members,  
 Students of NUS Law School,  
