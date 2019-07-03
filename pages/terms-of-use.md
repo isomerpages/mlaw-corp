@@ -10,42 +10,43 @@ Terms of Use
 
 1. **Agreement**
 
-    i.    Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **"the Digital Service"**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).<br> 
+    i. Thank you for visiting MLAW.GOV.SG/MINLAW.GOV.SG, the official digital service of the Ministry of Law of the Republic of Singapore, and any applications or services related to or linked to or from this digital service (henceforth collectively known as **"the Digital Service"**). The digital service is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (**“MLAW”**).<br> 
     
-    ii.    Access to the Digital Service is governed by the terms and conditions of use as stated below (**“Terms of Use”**). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
+    ii. Access to the Digital Service is governed by the terms and conditions of use as stated below (**“Terms of Use”**). By accessing and using the Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave the Digital Service.<br>
     
-    iii.    These Terms of Use may be changed from time to time. All changes to the Terms of Use will be incorporated directly onto this page, and your use of this Digital Service after such changes have been incorporated will constitute your agreement to the modified Terms of Use and all of the changes.<br>
+    iii. These Terms of Use may be changed from time to time. All changes to the Terms of Use will be incorporated directly onto this page, and your use of this Digital Service after such changes have been incorporated will constitute your agreement to the modified Terms of Use and all of the changes.<br>
     
-    iv.    References to “the Digital Service” in these Terms of Use shall include the Digital Service in its entirety as well as its individual pages, and shall include any services offered by MLAW on the Digital Service.<br> 
+    iv. References to “the Digital Service” in these Terms of Use shall include the Digital Service in its entirety as well as its individual pages, and shall include any services offered by MLAW on the Digital Service.<br> 
     
 2. **Access to the Digital Service**
 
-     i.     The accessibility and operation of the Digital Service relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of the Digital Service.<br>
+     i. The accessibility and operation of the Digital Service relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of the Digital Service.<br>
 
-    ii.     MLAW reserves the right to temporarily suspend or shut down the Digital Service for system maintenance or for such other purpose as MLAW may require, as and when necessary.<br>
+    ii. MLAW reserves the right to temporarily suspend or shut down the Digital Service for system maintenance or for such other purpose as MLAW may require, as and when necessary.<br>
 
-     iii.     MLAW reserves all rights to deny or restrict access to this Digital Service to any particular person or to block access from any Internet address to this Digital Service or any part thereof, at any time, without ascribing any reasons whatsoever.<br> 
+     iii. MLAW reserves all rights to deny or restrict access to this Digital Service to any particular person or to block access from any Internet address to this Digital Service or any part thereof, at any time, without ascribing any reasons whatsoever.<br> 
 
-    iv.     Any transactions which you carry out on this Digital Service (including the use of any services offered by MLAW on the Digital Service) shall be subject to such additional terms and conditions as MLAW finds necessary. These additional terms and conditions shall be brought to your attention at the time of your transaction, and by carrying out your transaction you shall be deemed to have accepted and agreed to be legally bound by the additional terms and conditions. <br> 
+    iv. Any transactions which you carry out on this Digital Service (including the use of any services offered by MLAW on the Digital Service) shall be subject to such additional terms and conditions as MLAW finds necessary. These additional terms and conditions shall be brought to your attention at the time of your transaction, and by carrying out your transaction you shall be deemed to have accepted and agreed to be legally bound by the additional terms and conditions. <br> 
 
 3. **Reliance on Information on the Digital Service**
 
-    i.     MLAW provides the Digital Service as a general information source only. The Digital Service should not be taken as giving professional advice, and may not cover all the relevant information on a particular issue. Before relying in any way on the information on the Digital Service, you should do your own checks and/or obtain the necessary professional advice on your particular issue.<br> 
+    i. MLAW provides the Digital Service as a general information source only. The Digital Service should not be taken as giving professional advice, and may not cover all the relevant information on a particular issue. Before relying in any way on the information on the Digital Service, you should do your own checks and/or obtain the necessary professional advice on your particular issue.<br> 
 
-    ii.     MLAW may modify or discontinue any information or features that form part of the Digital Service at any time, with or without notice to you, and without liability.<br> 
+    ii. MLAW may modify or discontinue any information or features that form part of the Digital Service at any time, with or without notice to you, and without liability.<br> 
 
 4. **Security**
 
-    i.     Where appropriate, MLAW uses available technology to protect the security of communications made through the Digital Service. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any transactions or other communications made through the Digital Service. You carry out any such transactions or communications at your own risk.<br> 
+    i. Where appropriate, MLAW uses available technology to protect the security of communications made through the Digital Service. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any transactions or other communications made through the Digital Service. You carry out any such transactions or communications at your own risk.<br> 
 
-    ii.     Internet communications may be susceptible to interference or interception by third parties. Despite MLAW’s best efforts, MLAW makes no warranties that the Digital Service is free of infection by computer viruses or other unauthorised software.<br> 
+    ii. Internet communications may be susceptible to interference or interception by third parties. Despite MLAW’s best efforts, MLAW makes no warranties that the Digital Service is free of infection by computer viruses or other unauthorised software.<br> 
 
-    iii.     You should take appropriate steps to keep your information, software and equipment secure.<br> 
+    iii. You should take appropriate steps to keep your information, software and equipment secure.<br> 
 
-    iv.     This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.<br> 
-    v.     You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.<br> 
+    iv. This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.
+    
+    v. You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.
 
-    vi.     For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg){:target="blank"}.<br> 
+    vi. For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg){:target="blank"}.<br> 
 
 5. **Links to this Digital Service**
 
@@ -83,7 +84,7 @@ Terms of Use
 
     i. While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:<br>
 
-   1. That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;<br> 
+ 1. That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;<br> 
 
    2. As regards the security of the Digital Service or the security of your information captured in or made available through applications for licences, permits or registrations at the Digital Service; and<br>
 
