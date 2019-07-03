@@ -91,17 +91,17 @@ Terms of Use
 
    ii. MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:<br>
 
-  * Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
+   * Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
   
-  * The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
+   * The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
             
-  * Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
+   * Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
 
-  * Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;<br> 
+   * Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;<br> 
 
-  * Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
+   * Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
  
-  * Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
+   * Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
 
 9. **Applicable Law**
 
