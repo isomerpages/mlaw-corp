@@ -41,56 +41,42 @@ collection_name: news
 11. The BRI covers over 60 countries – 65 to be exact – and many civilisations. As BRI projects involve cross-border, high value and long-term investments, there will inevitably be some political and financing risks, operational challenges and differences in systems and practices. While businesses seek cooperation, they need to also plan for disputes. Agreeing in advance on how disputes will be resolved should they arise can strengthen trust and further cooperation.  
 
 
-<ol start="12">
-<li>The growth of the BRI will thus need to be supported by the parallel development of a dispute resolution mechanism. This mechanism can take different shapes and forms. It is quite natural for countries and companies to desire a framework that maximises their own respective benefits and interests. However, for such a mechanism to truly support the BRI’s growth and advance investment, trade and commerce, it needs to foster trust and further cooperation. In my view, the BRI dispute resolution mechanism should have a few key characteristics.     
 
-<ol style="list-style-type: lower-roman">
+12. The growth of the BRI will thus need to be supported by the parallel development of a dispute resolution mechanism. This mechanism can take different shapes and forms. It is quite natural for countries and companies to desire a framework that maximises their own respective benefits and interests. However, for such a mechanism to truly support the BRI’s growth and advance investment, trade and commerce, it needs to foster trust and further cooperation. In my view, the BRI dispute resolution mechanism should have a few key characteristics.     
+    <ol style="list-style-type: lower-roman">
+    <li>First, the dispute resolution mechanism should have rule of law as its foundation. Disputes should be resolved based on well-       established, fair and transparent rules and procedures.</li>  
+    <li>Second, the administration of the mechanism should be independent and neutral. It should instil in parties trust that the           administration of the agreed rules will be fair and consistent, regardless of who the parties are.</li>
+    <li>Third, the system should be stable. It should give parties the confidence that if and when disputes arise 10, 20 years down the     road, the system earlier agreed upon will still apply and remain robust and sustainable.</li>
+    <li>Fourth, it should cover all dispute resolution instruments, including litigation, arbitration or mediation, to cater to the         varying needs of business.</li>
+    </ol>
+    
+    **Singapore**
 
-<li>First, the dispute resolution mechanism should have rule of law as its foundation. Disputes should be resolved based on well-established, fair and transparent rules and procedures.</li>  
- 
-<li>Second, the administration of the mechanism should be independent and neutral. It should instil in parties trust that the administration of the agreed rules will be fair and consistent, regardless of who the parties are.</li>
- 
-<li>Third, the system should be stable. It should give parties the confidence that if and when disputes arise 10, 20 years down the road, the system earlier agreed upon will still apply and remain robust and sustainable.</li>
- 
-<li>Fourth, it should cover all dispute resolution instruments, including litigation, arbitration or mediation, to cater to the varying needs of business.</li>
-
-
-</ol>
-
-
-</li>
-</ol>
-
-**Singapore**
-
-{:start="13"}
 13. Singapore supports the BRI and is happy to play our part to contribute to the development of such a mechanism. We also welcome Chinese arbitral institutions to set up offices in Singapore and/or to partner Singapore dispute resolution institutions to offer joint services. This will offer more options for businesses so that they can choose the services that best suit their purposes.
  
-{:start="14"} 
+ 
 14. Singapore is today an international business hub. Many multinational corporations use Singapore as a base to serve the Asia-Pacific region, including over 7,000 Indian companies as well as another over 7,000 Chinese companies.
 
-<ol start="15">
-<li> At the same time, Singapore is also a hub for international dispute resolution, as part of a full spectrum of professional services Singapore offers. Going forward, Singapore is committed to further strengthening this, so that we can better serve the legal needs of businesses. We are doing so in four ways.
 
-<ol style="list-style-type: lower-roman">
-
-<li>First, Singapore has a trusted legal system that delivers high quality jurisprudence and is neutral and stable. Today, Singapore is one of the top five seats of arbitration in the world, alongside London, Paris, Geneva and Hong Kong. Businesses who plan long-term choose Singapore as the seat of arbitration in their contracts, even those that have no connection whatsoever with Singapore. They know that if and when disputes arise many years later, Singapore will be Singapore: trusted, consistent and reliable in its approach, delivering the same high-quality jurisprudence as it does now, if not better. And more businesses will come to appreciate the trust, neutrality and stability that Singapore offers, as these command an even higher premium in an increasingly uncertain world. What we offer is intrinsically linked to our system of governance. It cannot be created overnight and is not easily replicated. </li>
+15. At the same time, Singapore is also a hub for international dispute resolution, as part of a full spectrum of professional services Singapore offers. Going forward, Singapore is committed to further strengthening this, so that we can better serve the legal needs of businesses. We are doing so in four ways.
+    <ol style="list-style-type: lower-roman">
+    <li>First, Singapore has a trusted legal system that delivers high quality jurisprudence and is neutral and stable. Today, Singapore     is one of the top five seats of arbitration in the world, alongside London, Paris, Geneva and Hong Kong. Businesses who plan long-     term choose Singapore as the seat of arbitration in their contracts, even those that have no connection whatsoever with Singapore.     They know that if and when disputes arise many years later, Singapore will be Singapore: trusted, consistent and reliable in its       approach, delivering the same high-quality jurisprudence as it does now, if not better. And more businesses will come to appreciate     the trust, neutrality and stability that Singapore offers, as these command an even higher premium in an increasingly uncertain         world. What we offer is intrinsically linked to our system of governance. It cannot be created overnight and is not easily             replicated. </li>
+    
+    <li>Second, Singapore proactively reviews legislation to make sure that they stay up-to-date and support businesses. For example, we     recently amended legislation to allow third party funding in relation to international commercial arbitration. This offers             businesses an additional financing and risk management tool, where businesses can finance valid claims, which they might not have       otherwise pursued due to financial constraints. This adds to our arbitration regime that is completely open and our pro-arbitration     judiciary that reliably upholds parties’ agreement to arbitrate. We have also introduced a new legislative framework to strengthen     the enforceability of mediated settlements. </li>
  
-<li>Second, Singapore proactively reviews legislation to make sure that they stay up-to-date and support businesses. For example, we recently amended legislation to allow third party funding in relation to international commercial arbitration. This offers businesses an additional financing and risk management tool, where businesses can finance valid claims, which they might not have otherwise pursued due to financial constraints. This adds to our arbitration regime that is completely open and our pro-arbitration judiciary that reliably upholds parties’ agreement to arbitrate. We have also introduced a new legislative framework to strengthen the enforceability of mediated settlements. </li>
- 
-<li>Third, Singapore offers a complete suite of dispute resolution services, including international commercial arbitration, mediation and litigation, to meet businesses’ needs. The Singapore International Arbitration Centre (SIAC), Singapore’s flagship arbitral institution, is today the fourth most preferred arbitration institution globally; its caseload last year exceeded that of the London Centre of International Arbitration (LCIA). In particular, SIAC is a popular independent third party institution for businesses whose counter-party cannot agree to a dispute resolution institution from their home country. The Singapore International Mediation Centre (SIMC) offers parties a non-adversarial mode of resolving disputes. Its Arb-Med-Arb Protocol, jointly administered with SIAC, builds on the advantages of mediation while providing it with cross-border enforceability through the New York Convention. The Singapore International Commercial Court (SICC) provides a neutral and high-quality forum for international commercial litigation, even for disputes which have no connection with Singapore and are not governed by Singapore Law. Parties who bring disputes before the SICC enjoy the advantages of a court-based dispute resolution mechanism, as well as SICC’s innovative features, including the joinder of third parties, which may be important in multi-party transnational disputes, the right of appeal and a panel of eminent international jurists.</li>
-</ol>
+    <li>Third, Singapore offers a complete suite of dispute resolution services, including international commercial arbitration,             mediation and litigation, to meet businesses’ needs. The Singapore International Arbitration Centre (SIAC), Singapore’s flagship       arbitral institution, is today the fourth most preferred arbitration institution globally; its caseload last year exceeded that of     the London Centre of International Arbitration (LCIA). In particular, SIAC is a popular independent third party institution for         businesses whose counter-party cannot agree to a dispute resolution institution from their home country. The Singapore                 International Mediation Centre (SIMC) offers parties a non-adversarial mode of resolving disputes. Its Arb-Med-Arb Protocol,           jointly administered with SIAC, builds on the advantages of mediation while providing it with cross-border enforceability through       the New York Convention. The Singapore International Commercial Court (SICC) provides a neutral and high-quality forum for             international commercial litigation, even for disputes which have no connection with Singapore and are not governed by Singapore       Law. Parties who bring disputes before the SICC enjoy the advantages of a court-based dispute resolution mechanism, as well as         SICC’s innovative features, including the joinder of third parties, which may be important in multi-party transnational disputes,       the right of appeal and a panel of eminent international jurists.</li>
+    </ol>
 
-{:start="16"}
+
 16. Fourth, Singapore adopts an open and inclusive approach. We understand that businesses want choice of institution, arbitrator and counsel they are familiar with. We set up Maxwell Chambers, the world’s first integrated dispute resolution complex. We are expanding Maxwell Chambers to meet growing demand for space from international dispute resolution institutions, chambers and law firms. The International Court of Arbitration of the International Chamber of Commerce (ICC) and the Permanent Court of Arbitration (PCA) are setting up their physical offices here. We have also built ourselves as a hub for legal services so that parties can capitalise on the openness and flexibility of our dispute resolution regime to tap on the expertise of the top international and regional law firms based in Singapore.
 
-{:start="17"}
+
 17. To conclude, Singapore is pro-trade, pro-commerce and pro-rule of law. These are not just our policy choices or values that we adhere to. They are part of the Singapore DNA, and are core to Singapore’s very existence and survival as a nation. You can thus count on this when you set up your businesses here, or choose Singapore as your seat for dispute resolution. With this as our foundation and a strong base of legal talents and high-quality dispute resolution service providers, Singapore will continue to improve ourselves and develop offerings that provide the best solutions for you and your corporations.
 
-{:start="18"}
+
 18. This forum provides a valuable platform for the exchange of ideas and insights and fostering stronger relationships among our legal professionals. I thank the organisers for putting this together and for inviting me to share my views. I wish all of you a meaningful and fruitful conference.
 
-{:start="19"}
+
 19. Thank you.
 
 
