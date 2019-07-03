@@ -76,7 +76,7 @@ breadcrumb: Terms of Use
 
 7. **Privacy Policy**<br>
 
-     i.     Please click here to review the Digital Service’s Privacy Statement.<br> 
+     i.     Please click here(https://staging-isomer-mlaw.netlify.com/privacy/){:target="_blank"}to review the Digital Service’s Privacy Statement.<br> 
 
 8. **Disclaimers and Limitation of Liability**<br> 
 
