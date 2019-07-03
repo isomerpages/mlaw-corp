@@ -57,15 +57,15 @@ Terms of Use
 
     iv. Except as set forth below, caching and links to, and the framing of this Digital Service or any of the content therein is prohibited:<br> 
 
-a. You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.<br>
+    a. You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.<br>
  
-b. Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service  or any of the content.<br> 
+    b. Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service  or any of the content.<br> 
 
-c. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.<br>
+    c. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.<br>
             
-d. MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.<br> 
+    d. MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.<br> 
 
-e. MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
+    e. MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
 
 6. **Intellectual Property**
 
