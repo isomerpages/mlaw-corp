@@ -58,15 +58,15 @@ Terms of Use
 
     iv. Except as set forth below, caching and links to, and the framing of this Digital Service or any of the content therein is prohibited:<br> 
 
-    1. You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.<br>
+    * You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.<br>
  
-    2. Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service  or any of the content.<br> 
+    * Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service  or any of the content.<br> 
 
-    3. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.<br>
+    * Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.<br>
             
-    4. MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.<br> 
+    * MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.<br> 
 
-    5. MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
+    * MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.<br> 
 
 6. **Intellectual Property**
 
@@ -84,25 +84,25 @@ Terms of Use
 
     i. While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:<br>
 
-   1. That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;<br> 
+   * That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;<br> 
 
-   2. As regards the security of the Digital Service or the security of your information captured in or made available through applications for licences, permits or registrations at the Digital Service; and<br>
+   * As regards the security of the Digital Service or the security of your information captured in or made available through applications for licences, permits or registrations at the Digital Service; and<br>
 
-   3. As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of the Digital Service.<br> 
+   * As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of the Digital Service.<br> 
 
    ii. MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:<br>
 
-   1. Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
+   * Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
   
-   2. The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
+   * The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
             
-   3. Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
+   * Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
 
-   4. Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;<br> 
+   * Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;<br> 
 
-   5. Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
+   * Use or access to the Digital Serviceor any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
  
-   6. Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
+   * Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.<br> 
 
 9. **Applicable Law**
 
