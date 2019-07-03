@@ -26,7 +26,7 @@ Privacy Statement
 
 6. This digital service may contain links to non-Government digital service whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital service and encourage you to consult the privacy notices of those digital service.
 
-Please [contact us](https://www.gov.sg/) if you :
+   Please [contact us](https://www.gov.sg/) if you :
 
    a. have any enquires or feedback on our data protection policies and procedures,
    
