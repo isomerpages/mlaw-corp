@@ -131,14 +131,16 @@ Ladies and Gentlemen,
     <li>These are some of the challenges that face arbitration today.</li>
     </ol>
     
-   **Possible Responses**
-        
+    **Possible Responses**
+
+{:start="11"}        
 11. So what can we do? Perhaps I can share a Singapore perspective.
 
+{:start="12"}    
 12. Singapore is a small country, with no natural resources. If nothing else, our situation has forced us to be very practical about things. 
 
 
-
+{:start="13"}    
 13. What is our assessment of the broad parameters?
     <ol style="list-style-type: lower-alpha">
     <li>The trend of globalisation will persist, notwithstanding the inward turn of some countries today. It has brought prosperity to       millions, if not billions of people. The global trading regime is here to stay.</li>
@@ -150,13 +152,13 @@ Ladies and Gentlemen,
 
 
 
-
+{:start="14"}    
 14. The conclusion is that dispute resolution – and arbitration in particular – remains critical to the growth of global commerce, but it must be responsive to demand and user requirements. In order for arbitration to not only survive but thrive, it must innovate to meet customer needs amidst changing trends.
 
 
 
 
-
+{:start="15"}    
 15. Hence in Singapore, we have in recent years made several changes to keep up with the evolving landscape:
     <ol style="list-style-type: lower-alpha;">
     <li>There are disputes where parties need emergency relief even before a Tribunal is formed. This used to be a bugbear in Singapore     arbitrations, when parties&rsquo; activities in the interval before the appointment of the tribunal could adversely alter the           situation in a way that would not be easily compensatable in damages, or would present the other side with an irreversible fait         accompli. So SIAC introduced an emergency arbitrator mechanism and was the first arbitral institution in Asia to do so.</li>
@@ -174,7 +176,7 @@ Ladies and Gentlemen,
     </ol>
 
 
-
+{:start="16"}    
 16. Responding to change is not simply about fighting a rear-guard action. It is also an opportunity to innovate and move ahead. Arbitrators and arbitration counsel should be prepared for change, and ride on it. Arbitration is still popular, for good reason. But users have said, and you must respect, that it is no longer the only game in town.
     <ol style="list-style-type: lower-alpha">
     <li>Being cognisant of this, we in Singapore consciously developed alternative products for dispute resolution. In this way, clients     have a suite of things from which to choose, depending on what best fits their needs.</li> 
@@ -187,15 +189,19 @@ Ladies and Gentlemen,
 
 
 
-   **Conclusion**
+    **Conclusion**
 
+{:start="17"}    
 17. In conclusion, the answer to the question of whether what lies ahead of arbitration is a long gradual decline into the frozen wastes of winter, or an ascent into a bright shining golden summer, is that it really depends on how the arbitration industry – the institutions, arbitrators and counsel – respond to the needs of parties and to the changes that will inevitably be wrought by technology, a changing world economy, and international considerations.
 
+{:start="18"}    
 18. The future, ladies and gentlemen, is in your hands.
 
+{:start="19"}    
 19. Thank you. 
 
 <p class="right-side-updated">Last updated on 13 Oct 2017</p>
 
 
+g
 
