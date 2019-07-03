@@ -103,19 +103,16 @@ A very good afternoon to all of you.
     
      *“Doing pro bono connects us to people. We make the law and the justice system work for people who have nothing to give us but their gratitude. We empower them. We give them hope; we help them when they have nowhere else to turn. It makes us feel like a lawyer. It makes us feel that our training, our experiences, and our judgment can do some good. It makes us feel that we are better people. And indeed we are.”*
  
- 
-
 24. So, this is to all of you, who have volunteered your services, young and old, past and present, students, practitioners, academics alike, all of you have played in any role, a part in our society in giving back on this Law Awareness Weeks, thank you very much.
 
 I would like to thank:
-<ol style="list-style-type: lower-alpha">
-<li>The Mayors,</li> 
-<li>Their CDCs, and</li>
-<li>Law Society Pro Bono Services, 
 <br>
+a. The Mayors,
+<br>
+b. Their CDCs, and
+<br>
+c. Law Society Pro Bono Services,                                    
 for coming together to put together these excellent programmes for our community.
-</li>
-</ol> 
 
 
 25. Thank you very much.
