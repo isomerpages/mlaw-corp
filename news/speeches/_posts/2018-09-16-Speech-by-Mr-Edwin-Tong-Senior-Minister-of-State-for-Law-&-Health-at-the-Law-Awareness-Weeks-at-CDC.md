@@ -106,15 +106,14 @@ A very good afternoon to all of you.
 24. So, this is to all of you, who have volunteered your services, young and old, past and present, students, practitioners, academics alike, all of you have played in any role, a part in our society in giving back on this Law Awareness Weeks, thank you very much.
 
 I would like to thank:
-<br>
-a. The Mayors,
-<br>
-b. Their CDCs, and
-<br>
-c. Law Society Pro Bono Services,                                    
-for coming together to put together these excellent programmes for our community.
+<ol style="list-style-type: lower-alpha">
+<li>The Mayors, </li>
+<li>Their CDCs, and </li>
+<li>Law Society Pro Bono Services, 
+for coming together to put together these excellent programmes for our community.</li>
+</ol>
 
-
+{:start="25"}
 25. Thank you very much.
 
 <p class="right-side-updated">Last updated on 16 Oct 2018</p>
