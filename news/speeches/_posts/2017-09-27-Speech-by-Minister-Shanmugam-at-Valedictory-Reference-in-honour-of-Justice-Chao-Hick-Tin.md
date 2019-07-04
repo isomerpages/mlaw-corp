@@ -46,8 +46,7 @@ Ladies and Gentlemen
 
  
 
- 8. In the limited time we have, it is difficult to do justice to all his contributions. But I will try and sketch out some vignettes.       
- <ol style="list-style-type: upper-alpha; font-weight:bold;">
+ 8. In the limited time we have, it is difficult to do justice to all his contributions. But I will try and sketch out some vignettes.       <ol style="list-style-type: upper-alpha; font-weight:bold;">
     <li><u>IN AGC</u></li>
     </ol>
 
