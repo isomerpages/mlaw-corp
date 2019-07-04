@@ -35,7 +35,7 @@ Ladies and gentlemen;
 4. It’s good to see that IPOS and Deloitte will be signing an MOU later, to drive the growth of innovative enterprises. They will try to build a base of at least a hundred innovative enterprises in Singapore, to help them grow into market leaders in the future.
 
 <ol start="2" style="list-style-type: upper-roman">
-<li>  INNOVATION AN IMPORTANT DRIVER FOR FUTURE ECONOMY</li>
+<li><u>INNOVATION AN IMPORTANT DRIVER FOR FUTURE ECONOMY</u></li>
 </ol>
 
 
