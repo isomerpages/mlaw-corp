@@ -133,11 +133,21 @@ Ladies and Gentlemen,
     **Possible Responses**
     
     
-    roku
+11. So what can we do? Perhaps I can share a Singapore perspective. 
+
+12.  Singapore is a small country, with no natural resources. If nothing else, our situation has forced us to be very practical about things.
+
+
+13. What is our assessment of the broad parameters?
+    <ol style="list-style-type: lower-alpha">
+    <li>The trend of globalisation will persist, notwithstanding the inward turn of some countries today. It has brought prosperity to       millions, if not billions of people. The global trading regime is here to stay.</li>
+    <li>At the same time, technology is developing at an accelerating pace, which will bring us to places we cannot yet even imagine. So     you can do your best to prepare for them, but sometimes it is indeed like crystal ball-gazing. What is beneficial and what is           disruptive? Who benefits and who is disrupted? We don’t quite know yet.</li>
+    <li> Then there are the concerns of arbitration clients which I highlighted earlier.</li>
+    </ol>  
 
 
 
-
+14. The conclusion is that dispute resolution – and arbitration in particular – remains critical to the growth of global commerce, but it must be responsive to demand and user requirements. In order for arbitration to not only survive but thrive, it must innovate to meet customer needs amidst changing trends.
 
  
 
