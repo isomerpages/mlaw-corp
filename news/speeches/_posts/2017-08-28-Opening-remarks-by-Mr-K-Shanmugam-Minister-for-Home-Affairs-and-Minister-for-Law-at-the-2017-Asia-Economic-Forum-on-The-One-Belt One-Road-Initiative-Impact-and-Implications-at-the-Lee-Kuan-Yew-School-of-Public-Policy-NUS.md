@@ -152,7 +152,7 @@ Khee Giap asked me in June, and I agreed.
 28. The OBOR is both a result of these trends and may well accelerate them. Will come back to this later.
 
 <ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
-<li>   CONTEXT: (2) HISTORY</li>
+<li><u>CONTEXT: (2) HISTORY</u></li>
 </ol>
 
 {:start="29"}
@@ -176,7 +176,7 @@ Khee Giap asked me in June, and I agreed.
 </ol>
 
 {:start="33"}
-33. But there is another perspective, which is quite important. Before you had Columbus, Magellan, Vasco da Gama, you had the Silk Route: [Refer to Slide 15]. And again the slide speaks for itself in terms of the share of world trade throughout most of the last 2000 years, except for the last 300 years.
+33. But there is another perspective, which is quite important. Before you had Columbus, Magellan, Vasco da Gama, you had the <u>Silk Route</u>: [Refer to Slide 15]. And again the slide speaks for itself in terms of the share of world trade throughout most of the last 2000 years, except for the last 300 years.
 
 {:start="34"}
 34. The history of trade shows that the global economic centre of gravity for much of human history was in China and India. And the Silk Route was the spine of World Trade. It played a key role in World Trade. Great cities of the past – Samarkand, Bukhara [in Uzbekistan], Merv [in Turkmenistan], prospered from their locations on this Silk Route.
@@ -488,7 +488,7 @@ Just to mention a few of the challenges.
 
 
 <ol start="3" style="list-style-type: upper-alpha">
-<li>SEA</li>
+<li><u>SEA</u></li>
 </ol>
 
 {:start="121"}
