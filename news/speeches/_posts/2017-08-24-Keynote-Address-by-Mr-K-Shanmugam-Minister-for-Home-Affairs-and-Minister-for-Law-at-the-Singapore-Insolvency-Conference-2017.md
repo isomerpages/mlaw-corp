@@ -13,7 +13,7 @@ Esteemed Judges,
 Distinguished guests,  
 Ladies and gentlemen,  
 
-<ol start="1">
+<ol start="1" list-style-type="upper-roman">
 <li><u>INTRODUCTION</u></li>
 </ol>
 
@@ -34,7 +34,7 @@ Ladies and gentlemen,
 
 
 <ol start="2" style="list-style-type: upper-roman">
-<li>WHAT WE HAVE DPME</li>
+<li><u>WHAT WE HAVE DONE</u></li>
 </ol>
 
 {:start="6"}
@@ -102,7 +102,7 @@ Ladies and gentlemen,
 {:start="21"}
 21.    A lot of the credit for these changes should go to the members of both committees, and the officers under Second Director General Joan Janssen in the Ministry of Law. We saw that these changes were needed, so we talked to the courts and the insolvency practitioners. Senior Minister of State Indranee Rajah is on one of the committees; and so is Justice Kannan Ramesh, who understands the market and the issues, being a former practitioner himself. They were assisted by Joan Janssen. These people understand what is needed.
 
-<ol start="3">
+<ol start="3" style="list-style-type: upper-roman">
 <li><u>VALUE OF THE MARKET</u></li>
 </ol>
 
@@ -142,7 +142,7 @@ Ladies and gentlemen,
 
 
 <ol start="4" style="list-style-type: upper-roman">
-<li>  SINGAPORE AS AN INTERNATIONAL CENTRE FOR CROSS-BORDER DEBT RESTRUCTURING</li>
+ <li><u>SINGAPORE AS AN INTERNATIONAL CENTRE FOR CROSS-BORDER DEBT RESTRUCTURING</u></li>
 </ol>
 
 {:start="28"}
@@ -216,7 +216,7 @@ Ladies and gentlemen,
 43. Last but not least, the Singapore Accountancy Commission is setting up a taskforce to study the restructuring industry with a focus on training and ensuring high quality professionals.
 
 
-<ol start="5">
+<ol start="5" style="list-style-type: upper-roman">
 <li><u>CONCLUSION</u></li>
 </ol>
 
