@@ -102,27 +102,22 @@ Ladies and Gentlemen,
     <li> Litigation is fighting back. The wide enforceability afforded arbitral awards by the New York Convention has long been a           bulwark    of arbitration’s popularity. However, there are now new instruments for international enforcement of court judgments, an     important    one being the Hague Choice of Court Convention. Signatories include the EU, US, Mexico and Singapore. It has gathered     pace in recent    years. The EU, Mexico and Singapore have ratified it. Last month, China signed the Convention as well.</li> 
     <li>On the mediation front, there are now discussions about an equivalent to the New York Convention, i.e. a multilateral agreement     on the enforcement of settlement agreements arising from mediation or conciliation.</li> 
     </ol>
-
-
-
-
-
-
+    
 10. Now consider, on top of this, other global trends.
-    <ol style="list-style-type: lower-alpha">
+    <ol style="list-style-type: lower-alpha;">
     <li>As Mr Gary Born mentioned in this afternoon&rsquo;s session, there is growing resistance to arbitration in the area of investor-    state arbitration. Some states have voiced opposition to arbitration; in some cases citing factors that were the very reasons why       arbitration came into being in the first place &ndash; confidentiality; the lack of the right of appeal; and a sense, rightly or       wrongly, that awards against states have been disproportionate or unjustifiable.
-    <ol style="list-style-type: lower-roman">
+    <ol style="list-style-type: lower-roman;">
     <li>It is against this backdrop that the EU is now discussing a multilateral court system.</li>
     </ol>
     </li>
     <li>This presents further competition to arbitration, which has dominated cross-border dispute resolution since 1958.</li>
     <li>Then there is technology.
-    <ol style="list-style-type: lower-roman">
+    <ol style="list-style-type: lower-roman;">
     <li>Technology is changing the legal sector. Clients demand value and speed, and are increasingly capable of parcelling work out to     machines which can meet their needs.</li>
     <li>Technology will increasingly augment the arbitrators&rsquo; and counsels&rsquo; work.
     <ul>
     <li>Courts are increasingly moving into e-filing and technology courts that provide convenience for parties and counsel. There will     be pressure for arbitrators to do the same.</li>
-    <li>Artificial intelligence or AI is making ever-increasing inroads into discovery, case analysis and research. Clients will no         longer be willing to be billed by the hour for such work to be done manually, if software solutions can turn up the same results in     a matter of minutes, if not seconds.</li>
+    <li>Courts are increasingly moving into e-filing and technology courts that provide convenience for parties and counsel. There will     be pressure for arbitrators to do the same.</li>
     <li>In the US, there is a software known as Lex Machina. It predicts the outcome probabilities of cases, using data aggregated from     past cases. This could impact expensive pre-arbitration advisory opinions.</li>
     <li>In the US, there is also Premonition Analytics. It mines data to inform users which lawyers win before which judges. This           basically means that clients can run a search for your win-loss record.</li>
     <li>Another US start-up, Ravel Law, mines data to reveal insights about judges, lawyers, parties and subjects of cases. Whilst           arbitration is confidential, one can well envisage that in the not too distant future, someone will start aggregating data about       arbitrators, counsel and parties based on either publicly available information or using an Uber-like software to rank arbitration     professionals based on clients&rsquo; direct feedback.</li>
@@ -130,8 +125,15 @@ Ladies and Gentlemen,
     </li>
     <li>These are some of the challenges that face arbitration today.</li>
     </ol>
+    </li>
+    </ol>
+    
+    
     
     **Possible Responses**
+    
+    
+    roku
 
 
 
