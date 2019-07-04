@@ -45,8 +45,8 @@ Ladies and Gentlemen
  7. Beyond the law, Justice Chao served in the VSC for 20 years. He was our first volunteer Commander, something not many people may know.
 
  
-
- 8. In the limited time we have, it is difficult to do justice to all his contributions. But I will try and sketch out some vignettes.       <ol style="list-style-type: upper-alpha; font-weight:bold;">
+ 8. In the limited time we have, it is difficult to do justice to all his contributions. But I will try and sketch out some vignettes.       
+    <ol start="1" style="list-style-type: upper-alpha; font-weight:bold;">
     <li><u>IN AGC</u></li>
     </ol>
 
@@ -138,7 +138,7 @@ Ladies and Gentlemen
 
     *“Well, international agreements have been broken before. I have seen people go to war even, which is not by agreement.”*
  
-    *“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war. I am not talking about going to war with Singapore, I am just giving an example.”*
+    *“They don’t go to war by agreement. They don’t say that this thing cannot be resolved so they go to war, but they still go to war.     I am not talking about going to war with Singapore, I am just giving an example.”*
 
 
 
