@@ -64,7 +64,7 @@ Ladies and Gentlemen,
 
 
 14. Now, SLA is working on two key projects:
-    <ol style="list-style-type: lower-alpha">
+    <ol style="list-style-type: lower-alpha" class="ol-no-margin">
     <li>GeoWorks, and</li>
     <li>the new OneMap.</li>
     </ol>
