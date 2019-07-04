@@ -32,7 +32,7 @@ Friends from the Malaysian Bar Council
 
  5. The penetration of technology into the practice of law is not something on the distant horizon. It is here and it is now.
 
- *Corporate clients have begun to develop their own legal technology tools*
+    *Corporate clients have begun to develop their own legal technology tools*
 
  
  6. JPMorgan has developed a programme called COIN, short for Contract Intelligence. It interprets commercial loan agreements that used to consume 360,000 hours of work each year by lawyers and loan officers.  Now COIN reviews documents in a matter of seconds and is less prone to error.
@@ -82,8 +82,7 @@ Friends from the Malaysian Bar Council
  
     <li>Earlier this month, Singapore lawyer Jonathan Wong launched LawGuide Singapore, a free online portal which provides information     on different areas of the law. LawGuide also has an AI powered chatbot on the Facebook Messenger platform which helps the public       understand general legal terms and processes. </li>
     </ol>
-    </li>  
-    </ol>
+
 
 16. Different law firms and lawyers are at different stages of this journey but we want to bring everyone on board.
 
