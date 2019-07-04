@@ -8,33 +8,26 @@ collection_name: news
 
 28 Aug 2017 Posted in [Speeches](/news/speeches)
 
-**[Please click [here (6MB)](/files/news/speeches/2017/08/OBOR Speech with Slides.pdf) for the speech with the accompanying slides]**
+**[Please click [here (6MB)](/files/news/speeches/2017/08/OBOR Speech with Slides.pdf) for the speech with the accompanying slides]**  
 **[Please click [here (0.3MB)](/files/news/speeches/2017/08/QA Consolidated.pdf) for the Q&A session transcript with the participants]**
 
 
-Ms Fatouma Toure Ibrahima,
-Acting Director and Operations Adviser,
+Ms Fatouma Toure Ibrahima,  
+Acting Director and Operations Adviser,  
 World Bank Infrastructure and Urban Development Hub,
-<br>    
 
-
-Professor Tan Eng Chye,
+Professor Tan Eng Chye,  
 President Designate and Provost, NUS,
-<br>    
+    
+Professor Liew Mun Leong,  
+Chairman, Changi Airport Group & Surbana Jurong Group,  
 
-
-Professor Liew Mun Leong,
-Chairman, Changi Airport Group & Surbana Jurong Group,
-<br>  
-
-Professor Kishore Mahbubani,
+Professor Kishore Mahbubani,  
 Dean, Lee Kuan Yew School of Public Policy, NUS,
-<br>  
-
-
-Associate Professor Tan Khee Giap,  
+  
+Associate Professor Tan Khee Giap,    
 Co-Director, Asia Competitiveness Institute, NUS,  
-<br>  
+  
 
 Ladies and Gentlemen,  
 
@@ -495,7 +488,7 @@ Just to mention a few of the challenges.
 
 
 <ol start="3" style="list-style-type: upper-alpha">
-<li>ASEAN</li>
+<li>SEA</li>
 </ol>
 
 {:start="121"}
@@ -527,7 +520,7 @@ Just to mention a few of the challenges.
 </ol>
 
 {:start="125"}
-125. Three: ASEAN. China has been very active in engaging ASEAN, driving robust infrastructure growth in this region; actively engaging ASEAN countries along the Mekong River on water resource cooperation issues. Water in the Mekong region, as many of you know, is a basic, important resource, with economic and national security implications.
+125. Three: ASEAN. China has been very active in engaging ASEAN, driving robust <u>infrastructure growth</u> in this region; <u>actively engaging ASEAN countries along the Mekong River on water resource cooperation</u> issues. Water in the Mekong region, as many of you know, is a basic, important resource, with economic and national security implications.
 
 {:start="126"}
 126. The BRI will therefore improve infrastructure, physical connectivity greatly, across the region. And has the potential to be a game-changer.
@@ -535,7 +528,7 @@ Just to mention a few of the challenges.
 {:start="127"}
 127. Now let me move, to set out what I see as the impact, implications of BRI on the world economy, security architecture, geopolitics.
 
-<ol start="6" style="list-style-tyep: upper-roman; font-weight:bold;">
+<ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>IMPLICATIONS, IMPACT</u></li>
 </ol>
 
@@ -553,7 +546,7 @@ Just to mention a few of the challenges.
 130. This is on the assumption that the major economies of Asia work together, there is no trade war, and no alliances which face off against each other.
 
 <ol start="2" style="list-style-type: upper-alpha">
-<li>Security Architecture</li>
+<li><u>Security Architecture</u></li>
 </ol>
 
 {:start="131"}
@@ -563,7 +556,7 @@ Just to mention a few of the challenges.
 132. As its trade routes expand, China will probably seek to protect those routes. Both the land and the maritime routes. So you may well see more Chinese military bases, security arrangements, along the new Silk Routes.
 
 <ol start="3" style="list-style-type: upper-alpha">
-<li>Geopolitical impact</li>
+ <li><u>Geopolitical impact</u></li>
 </ol>
 
 {:start="133"}
@@ -650,7 +643,7 @@ Just to mention a few of the challenges.
 158. We can’t be complacent; we must take competitors very seriously; we should be paranoid; but don’t be spooked by social media disinformation campaigns that claim we are about to be surrounded and cut off.
 
 {:start="159"}
-159. And let me end by saying this: we achieved what we have by thinking bold, and thinking big.  We didn’t allow anyone to bully us, or subject ourselves to the demands of other countries. Many have tried. We resisted. 
+159. And let me end by saying this: we achieved what we have by <u>thinking bold</u>, and <u>thinking big</u>.  We didn’t allow anyone to bully us, or subject ourselves to the demands of other countries. Many have tried. We resisted. 
 
 {:start="160"}
 160. International relations, it is not unlike a jungle. And small states are at risk.
