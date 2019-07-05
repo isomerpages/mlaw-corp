@@ -87,7 +87,7 @@ Ladies and gentlemen
 
 
 19. With the Internet, the whole world now communicates in sounds, words and images, all at the same time.
-    <ol start="4">
+    <ol start="4" style="list-style-type: lower-alpha">
     <li>Satellites and Space</li>
     </ol>
 
