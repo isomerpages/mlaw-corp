@@ -51,7 +51,7 @@ Ladies and gentlemen,
  8. In a nutshell – the lawyers are taking over 28 Maxwell Road! But don’t be alarmed. We will take great care to ensure that the place does not lose its soul and its unique character.
 
  9. Heritage restoration will be a very important part of the refurbishment works. For example: 
-    <ol style="list-style-type: lower-roman">
+    <ol style="list-style-type: lower-alpha">
     <li>In the past ten years or so, after the Traffic Police had vacated the building, several ad hoc awnings and roofs have been added     to the building by its then new occupants. All these awnings and roofs will be removed to restore the courtyards to their original     open-to-sky design.</li>
     <li>The façade of the building has been bright red since 2005. In the 12 years since, Red Dot Traffic Building has been a striking       landmark in Tanjong Pagar, housing the Red Dot Design Museum, various creative agencies and other offices. But soon, the walls will     be restored to an off-white colour – closer to what you remember from your time there.</li>
     <li>The building will be beautifully lit at night to highlight its unique architectural features and historical value.</li>
@@ -69,7 +69,7 @@ Ladies and gentlemen,
 
 
 12. I understand that the SUTD students have already interviewed over a dozen of you. Some of your stories have been featured on their Humans of 28 Maxwell Road Facebook page and Instagram account:
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li> Mr Pattiselanno Senior joined the Mobile Squad in 1956, when Singapore was still a British colony. His son followed in his         footsteps and is now serving in the Traffic Police. Both father and son are here with us today to share with us their different         experiences. </li> 
     <li>Mr Richard Tan met, and fell in love with his wife, Esther, at 28 Maxwell Road. Both husband and wife are here today. I am sure     this place holds many sweet memories for them.</li>
     <li>
@@ -79,7 +79,7 @@ Ladies and gentlemen,
 
 
 13. Several other interesting memories were shared through the interviews.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>The Traffic Police Headquarters used to extend into what is now an open-air public car park. The “mobile garage” used to be         there. This photograph from Mr Pattiselanno Senior shows patrol officers from the Mobile Squad with their bikes lined up for           inspection. I am told that officers who failed the inspection would have to patrol on foot! </li>
     <li>I believe this was the former Registry of Vehicles, where members of the public would apply for driving licenses and pay their       traffic fines. I understand that officers had to work from behind these cage-like wire frames for their protection. Gangsters were     known to hurl foul substances at officers – perhaps in anger at being “summoned”? </li>
 
