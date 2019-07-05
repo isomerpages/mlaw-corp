@@ -275,6 +275,9 @@ Ladies and gentlemen
 
 
 53. The IP management skillset is multi-disciplinary.  It is a combination of law, business and technology. 
+    
+54. IPOS will be launching a Graduate Programme in IP and Innovation Management with UniSIM.     
+    
     <ul>
     <li>The programme will be practice-based. </li>
     <li>The goal is to equip 20 to 25 professionals with IP and innovation management skills each year, over the next three years. </li>
@@ -286,13 +289,13 @@ Ladies and gentlemen
     </ol>
 
 
-54. Innovation and IP are important and valuable business assets in our future economy. 
+55. Innovation and IP are important and valuable business assets in our future economy. 
 
 
-55. This conference is timely as it explores some of the exciting opportunities for businesses to capitalise on IP, to drive future innovation and business growth. 
+56. This conference is timely as it explores some of the exciting opportunities for businesses to capitalise on IP, to drive future innovation and business growth. 
 
 
-56. I wish you all a productive and fruitful conference.
+57. I wish you all a productive and fruitful conference.
 
 <sup>[1]</sup> Qualcomm quarterly results, 4th quarter 2014
 
