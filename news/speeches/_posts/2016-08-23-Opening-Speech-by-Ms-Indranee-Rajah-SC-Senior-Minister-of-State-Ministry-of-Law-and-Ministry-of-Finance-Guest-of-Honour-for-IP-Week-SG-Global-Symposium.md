@@ -48,7 +48,7 @@ Ladies and gentlemen
     
     <ol start="2" style="list-style-type: lower-alpha">
     <li> Clay and Books</li>
-   </ol>
+    </ol>
 
  8. During the site clearance for Bloomberg’s new European HQ in London, 405 waxed Roman clay tablets were discovered.
 
