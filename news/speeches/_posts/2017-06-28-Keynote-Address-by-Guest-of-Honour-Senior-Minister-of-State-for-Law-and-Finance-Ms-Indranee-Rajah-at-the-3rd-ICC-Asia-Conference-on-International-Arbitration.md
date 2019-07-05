@@ -10,10 +10,10 @@ collection_name: news
 
 Mr John Danilovich
 Secretary-General, International Chamber of Commerce
-<br>
+
 Mr Alexis Mourre
 President, International Court of Arbitration of the International Chamber of Commerce
-<br>
+
 Distinguished guests
 
    **Introduction**
