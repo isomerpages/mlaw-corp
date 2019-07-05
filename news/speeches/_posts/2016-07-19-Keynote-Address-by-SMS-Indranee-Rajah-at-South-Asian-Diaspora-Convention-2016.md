@@ -30,7 +30,7 @@ Ladies and gentlemen
 
 
  6. According to a World Bank report published in April this year<sup>[1]</sup>,
-    <ol list-style-type="lower-alpha"> 
+    <ol style="list-style-type:lower-alpha"> 
     <li>  South Asia was the fastest growing region in the world in 2015; and</li>
     <li> growth in this region is forecasted to accelerate from 7.1 percent in 2016 to 7.3 percent in 2017.</li>
     </ol>
@@ -73,7 +73,7 @@ Ladies and gentlemen
 
 
 14. Our success as an arbitration centre has been fuelled by the growing demand for dispute resolution services in the region, and is supported by a series of comprehensive and focused efforts we have taken to develop the sector.
-    <ol style="list-style-tyep: lower-alpha">
+    <ol style="list-style-type: lower-alpha">
     <li>First, we have a complete open regime for international commercial arbitration. Parties engaging in arbitration in Singapore         have the freedom to engage lawyers of any nationality to arbitrate on contracts under any governing law.</li>
     <li> Second, we are a signatory to the New York Convention.  As such, awards issued here are enforceable in over 150 Convention         countries.</li>
     <li> Third, our International Arbitration Act is modelled after the UNCITRAL Model Law, and we have also continuously reviewed and       revised our legislation, to ensure that it is on par with the best international practices. For instance, Singapore was one of the     first jurisdictions to provide clear legislative support for the appointment of an emergency arbitrator.
@@ -157,13 +157,13 @@ Ladies and gentlemen
     <li>The SIMC features an international panel of more than 65 mediators from 14 jurisdictions, who are able to mediate in 14             languages.  All of them are certified by the Singapore International Mediation Institute, the professional body for mediation in       Singapore.</li>
     <li> Mediation at SIMC also comes with the unique benefit of enforceability if parties choose to adopt the Arb-Med-Arb protocol a       unique dispute resolution protocol jointly administered by SIAC and SIMC.
 
-    <ul>
+    <ol style="list-style-type: lower-roman">
     <li>Under the Arb-Med-Arb Protocol, parties would file a Notice of Arbitration and Response to Notice of Arbitration with SIAC, and     have an arbitrator appointed.</li>
     <li>The arbitral tribunal would then order a stay of proceedings to allow for a mediation to take place under SIMC. </li>
     <li>If the mediation results in a full settlement, parties may apply to the tribunal to reflect the settlement in the form of a         consent award. This will allow the parties to take advantage of the enforcement provision of the New York Convention.</li>
     <li>If the mediation does not result in a full settlement, the parties may proceed with the arbitration of the dispute or the           unresolved issues at the SIAC. </li>
     <li>The Arb-Med-Arb Protocol allows the parties to leverage mediation to arrive at a quick and effective resolution, yet ensure that     the outcome of the mediated settlement is enforceable as an award under the New York Convention.</li>
-    </ul>
+    </ol>
     </li>
     </ol>
 
