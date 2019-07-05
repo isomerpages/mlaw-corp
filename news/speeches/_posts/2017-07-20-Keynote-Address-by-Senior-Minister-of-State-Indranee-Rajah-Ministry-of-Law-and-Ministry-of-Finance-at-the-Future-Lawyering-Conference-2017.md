@@ -18,7 +18,7 @@ Friends from the Malaysian Bar Council
 
  1. Let me first thank the Law Society for giving me the opportunity to sketch out our thoughts on the future of lawyering. Let me start with my first section which is the Rise of the Machines. I am going to give you a quote, I am not sure how many in the room will recognize the quote - I suspect those born after 1984 may not. But the baby boomers and the Gen X people might.
 
-*"The machines rose from the ashes...Their war to exterminate mankind had raged for decades, but the final battle would not be fought in the future. It would be fought here, in our present. <sup>[2]</sup>"*
+    *"The machines rose from the ashes...Their war to exterminate mankind had raged for decades, but the final battle would not be           fought in the future. It would be fought here, in our present. <sup>[2]</sup>"*
 
 
  2. Well, for those of you who are Terminator aficionados, would recognize this from the opening scene of "Terminator" (1984). That opening scene harks of a future where the machines have taken over the world and the humans are fighting a battle for survival.
