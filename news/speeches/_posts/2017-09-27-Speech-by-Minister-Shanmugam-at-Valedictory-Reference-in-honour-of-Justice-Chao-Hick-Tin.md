@@ -120,6 +120,7 @@ Ladies and Gentlemen
 23. In that context, to have an acknowledgment from the Malaysian representative, at the UN, in these terms, was very valuable.
 
 24. Justice Chao quickly jumped in. He reiterated what the Malaysian representative had said, and I quote:
+
     *“that the representative of Malaysia had said that even the severance of diplomatic relations, which he hoped would never occur, would not affect the water agreement between Singapore and Malaysia.”*
 
 
