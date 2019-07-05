@@ -26,16 +26,17 @@ All the gods were invited except Eris, the goddess of Discord.
 
 Angered at being turned away from the festivities, Eris tossed a golden apple among the goddesses assembled at the festivities, addressed “To the Fairest”.
 
-<ol>
-<li>A huge dispute arose when three goddesses laid claim to the apple and the title:
+
+A huge dispute arose when three goddesses laid claim to the apple and the title:
 
 <ul>
 <li>Hera (Wife of Zeus – the Goddess of Marriage and Family), and</li>
 <li>Athena (Daughter of Zeus – the Goddess of Wisdom and War)</li>
 <li>Aphrodite (the Goddess of Love)</li>
 </ul>
-</li>
-</ol>
+
+
+
 
 Zeus was asked to arbitrate the issue, but – because Hera was his wife (conflict of interest!) – he declined and re-directed it to Paris, the son of King Priam of Troy, to decide the issue.
 
@@ -71,19 +72,13 @@ Paris inspected the three goddesses but was unable to make up his mind.  The god
 Paris accepted Aphrodite's gift of Helen, ruled in Aphrodite's favour, and awarded her the apple - thus sparkling off the Trojan War.
 
 
-<ol>
-<li>Now, there are of course all sorts of wrong with this arbitration! 
-
+Now, there are of course all sorts of wrong with this arbitration! 
 <ul>
 <li>Paris was clearly not an exemplary arbitrator.  There would have been clear grounds to set aside the judgment on the basis of corruption under Section 24(a) of the International Arbitration Act! </li>
-
 <li>Moreover, was it even an arbitrable issue? </li>
-
 <li>Surely it must have been against public policy to run off with someone else’s wife! </li>
 </ul>
 
-</li>
-</ol>
 
 
 <ol start="2" style="list-style-type: lower-alpha; font-weight:bold;">
@@ -246,6 +241,7 @@ Factors that will help SIAC stay competitive :
 * the costs;
 * speed;
 * the enforceability of its awards.
+
 Another key factor – innovation: e.g. products and services such as :
 * the Arb-Med-Arb procedure; and
 * the Emergency Arbitrator and Expedited Procedure provisions.
