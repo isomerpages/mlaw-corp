@@ -25,17 +25,29 @@ Let me start by thanking UniSIM for inviting me to address all of you on what is
 
 
  5. Let me highlight some of them. This is their graduation photo. They are: 
-    <ul style="list-style-type: none">
+    <ol style="list-style-type: none">
     <li>Mr Chan Sek Keong: He was Attorney-General from May 1992 to April 2006 and of course, was Chief Justice from April 2006 to           November 2012.</li>
+ 
     <li>And then we have, Mr Amarjeet Singh, who is in our presence today. Now a senior consultant in the litigation and disputes           resolution department of KhattarWong, but also Judicial Commissioner from 1992 to 2000 and; Ad litem Judge with the United Nations     war crimes tribunal for the Balkans at the Hague.
     <i>Mr Tommy Koh</i>: Ambassador-At-Large, Ministry of Foreign Affairs, Special Adviser, Institute of Policy Studies, NUS, Chairman,     Centre for International Law, NUS, and Dean, Faculty of Law, University of Singapore from 1971 to 1974.</li>
+    
+    <li>And we have Mr. Goh Yong Hong: Commissioner of Police from 1979 – 1992. He was Singapore’s longest serving police chief and the     first lawyer to hold the job of police commissioner of Singapore.</li>  
+    
     <li><i>Koh Eng Tian</i>: Solicitor-General from 1981 to 1991 and appointed in 1997 as one of the first two Senior Counsel in             Singapore.</li>
+    
+    
     <li><i>Thio Su Mien</i>: Senior Executive Director, TSMP Law Corporation (Retired). She was the first alumnus to join the teaching       staff in 1962, and in 1968, became the first woman, first local graduate, and youngest person ever to be elected Dean of the           Faculty of Law, University of Singapore. She also had a stint as a judge in the World Bank Administrative Tribunal and after her       term, was Senior Vice President of the World Bank.</li>
+    
+    
     <li><i>Nesadevi Sandrasegara</i>: A legal officer by training, Nesadevi joined the Port of Singapore Authority (PSA) in 1971 and was     due to retire after spending 25 years with PSA. However, she offered to continue contributing to the maritime sector and was           instrumental in setting up the Legal Department in the newly-formed MPA in 1996. When Singapore experienced one of its worst oil       spills in 1997 from the tanker 'Evoikos', Nesadevi cut short her holidays to assist MPA in the oil spill claims.</li>
+    
+    
     <li>No stranger to you all will be, Ms Koh Kheng Lian, Emeritus Professor, Faculty of Law, NUS, Founder and Director, Asia-Pacific       Centre for Environmental Law.</li>
+    
     <li>Mr T.P.B. Menon: Consultant, Wee Swee Teow & Company, former Law Society president from 1980 – 1983.</li>
-    <li>And<i>Mr Sachi Saurajen</i>: Crown Counsel and former Deputy Public Prosecutor and formerly a Joint Managing Partner in Drew &       Napier with Dr Thio Su Mien.</li>
-    </ul>
+    
+    <li>And <i>Mr Sachi Saurajen</i>: Crown Counsel and former Deputy Public Prosecutor and formerly a Joint Managing Partner in Drew &       Napier with Dr Thio Su Mien.</li>
+    </ol>
 
 
 
