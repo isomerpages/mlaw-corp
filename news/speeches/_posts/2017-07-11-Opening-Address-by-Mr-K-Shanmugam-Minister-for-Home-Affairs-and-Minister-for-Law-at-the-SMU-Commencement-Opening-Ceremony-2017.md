@@ -21,7 +21,7 @@ Faculty, staff and students of SMU
 Parents, guests  
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
-<li>INTRODUCTION</li>
+<li><u>INTRODUCTION</u></li>
 </ol>
 
  1. It is a privilege to be here with everyone today. A joyous occasion, and the first time this ceremony is being held in the new School of Law building.
@@ -336,7 +336,7 @@ Parents, guests
 
 74. So what have we been doing, to try and identify these opportunities? I’ll just share with you a couple of examples, so it gives you an idea, what kind of areas to look for. I won’t say all of you should go and do this, but it gives you an idea of the kind of things that you can specialise in, look to, so that you don’t become irrelevant.
     
-    <ol start="4">
+    <ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
     <li><u>EFFORTS TO BOOST LEGAL SECTOR</u></li>
     </ol>
 
