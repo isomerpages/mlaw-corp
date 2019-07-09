@@ -8,8 +8,8 @@ collection_name: news
 
 5 Oct 2018 Posted in [Speeches](/news/speeches)
 
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
 
-   **Introduction** 
 
  1. Good evening Associate Professor Ho Peng Kee. Thank you very much for joining us again. You’ve been such an instrumental part of the success of the Community Mediation Centre (CMC) and you were around during its formative years. We welcome you here to dinner tonight. Thank you for gracing us with your presence.
 
