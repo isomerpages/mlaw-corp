@@ -21,7 +21,7 @@ Faculty, staff and students of SMU
 Parents, guests  
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
-<li><u>INTRODUCTION</u></li>
+<li style="margin-left: 18px"><u>INTRODUCTION</u></li>
 </ol>
 
  1. It is a privilege to be here with everyone today. A joyous occasion, and the first time this ceremony is being held in the new School of Law building.
