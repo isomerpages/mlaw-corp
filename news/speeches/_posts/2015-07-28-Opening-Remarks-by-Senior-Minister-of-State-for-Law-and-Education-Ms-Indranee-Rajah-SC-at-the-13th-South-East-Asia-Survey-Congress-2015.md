@@ -17,7 +17,7 @@ Mr Chua Keng Guan, Chairman of the 13th South East Asian Survey Congress 2015
   
 Distinguished guests and participants
   
-   **Harnessing Technology for Accurate 3D Geospatial Information**
+<p style="margin-left: 18px; font-weight:bold">Harnessing Technology for Accurate 3D Geospatial Information</p>
 
  1. First, a warm welcome to Singapore for those of you who came in from other countries. I would like to thank the conference organisers for inviting me as the guest-of-honour. Today I think will be an excellent opportunity for all the participants to pull ideas, have a discussion and have a great conference.
 
