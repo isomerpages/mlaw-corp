@@ -14,7 +14,8 @@ Former Commanders Mr Chua Chin Kiat and Mr Rajoo Gopal,
 
 Ladies and gentlemen,
 
-   **Introduction**
+
+<p style="margin-left: 18px; font-weight: bold">Introduction</p>
 
  1. I am delighted to join all of you this afternoon.
 
