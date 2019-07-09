@@ -16,7 +16,9 @@ Lay Lim, my co-chair for the Modern Services Sub-Committee,
   
 Chaly Mah, my co-chair for the Committe on the Future Economy Working Working Group on Legal and Accounting Services.
 
-   **Introduction**
+
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
+
  1. It is a great pleasure to be here with all of you today at the opening for Dentsu Aegis Network’s Asia-Pacific Headquarters. Dentsu Aegis is not only a digital leader in their field, but is a data-led business. I understand that their new office is purpose-fitted with the latest technologies and has some of the best talent. I am looking forward to having the opportunity to visit and meet with the team this afternoon. Dentsu Aegis represents the transformation that the marketing industry is undergoing, and is therefore an ideal setting for the launch of the Professional Services Industry Transformation Map (ITM).
     
     **Professional Services – A Key Growth Sector for Singapore**
