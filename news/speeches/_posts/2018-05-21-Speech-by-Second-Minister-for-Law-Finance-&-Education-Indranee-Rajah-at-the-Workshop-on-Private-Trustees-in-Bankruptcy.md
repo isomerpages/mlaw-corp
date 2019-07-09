@@ -9,7 +9,7 @@ collection_name: news
 21 May 2018 Posted in [Speeches](/news/speeches)
 
 
-   **Introduction**
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
 
  1. Hello everyone, and welcome to the Treasury. Some faces I recognize, and it’s very good to see you. This workshop on Private Trustees in Bankruptcy, or “PTIB” in short, is really intended to acquaint everyone with the new regime, and what you can do in it.
 
