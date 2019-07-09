@@ -66,7 +66,7 @@ Distinguished guests and participants
 
 
 
-13. My colleagues at the Singapore Land Authority have prepared a video showcasing Singapore’s 3D National Map which will show its applications in more detail. Perhaps we can have a look at that. [Video screene]
+13. My colleagues at the Singapore Land Authority have prepared a video showcasing Singapore’s 3D National Map which will show its applications in more detail. Perhaps we can have a look at that. [Video screened]
 
     **Conclusion**
 
