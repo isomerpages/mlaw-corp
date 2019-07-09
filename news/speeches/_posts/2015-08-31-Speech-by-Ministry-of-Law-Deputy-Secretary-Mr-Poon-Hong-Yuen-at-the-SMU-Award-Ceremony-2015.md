@@ -56,7 +56,7 @@ collection_name: news
 
 16. The law reform initiatives which I have just mentioned are just a small selection of the wide-ranging work which MinLaw does. Our work also extends to intellectual property, land law and community legal services.
     
-    Competition topic – Privacy
+    **Competition topic – Privacy**
 
 
 17. We hope the Competition has increased the awareness of law reform work in Singapore and your views will be given serious consideration in any review into this area of law.
