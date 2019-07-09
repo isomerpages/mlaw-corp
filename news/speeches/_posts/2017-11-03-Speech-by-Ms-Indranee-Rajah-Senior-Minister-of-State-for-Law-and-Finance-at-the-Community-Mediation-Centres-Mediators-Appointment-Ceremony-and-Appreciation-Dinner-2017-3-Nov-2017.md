@@ -9,7 +9,8 @@ collection_name: news
 
 3 Nov 2017 Posted in [Speeches](/news/speeches)
 
-   **Introduction**
+
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
 
  1. Good evening everyone. I am delighted to join you once again at our appointment ceremony and appreciation dinner. We really want to have this every year to appreciate and recognise the contribution of our volunteer mediators.
    
