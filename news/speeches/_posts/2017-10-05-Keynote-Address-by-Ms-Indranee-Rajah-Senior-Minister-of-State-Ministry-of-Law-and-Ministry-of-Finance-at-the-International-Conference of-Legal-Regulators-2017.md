@@ -15,7 +15,8 @@ Distinguished guests,
 Ladies and Gentlemen,
 
 
-   **Introduction**
+
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
 
  1. I am delighted to join all of you here today at the 6th edition of the International Conference of Legal Regulators. 
 
