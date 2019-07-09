@@ -10,11 +10,11 @@ collection_name: news
 
 Chief Justices Sundaresh Menon, Robert French  
 And Geoffrey Ma   
-<br>      
+    
 Professor Jayakumar
-<br>      
+    
 Honourable Judges  
-<br>  
+
 Ladies and Gentlemen 
 
 
