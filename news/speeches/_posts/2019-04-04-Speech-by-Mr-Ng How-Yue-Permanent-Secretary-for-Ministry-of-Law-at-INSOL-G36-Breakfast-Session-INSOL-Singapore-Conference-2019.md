@@ -8,12 +8,11 @@ collection_name: news
 
 
 4 Apr 2019 Posted in [Speeches](/news/speeches)
-fg
+
 Distinguished Guests,  
 Ladies and Gentlemen  
 
-   **<u>Introduction</u>**
-
+<p style="margin-left: 18px; font-weight:bold;"><u>Introduction</u></p>
 
  1. It gives me great pleasure to join you today at this breakfast session on the sidelines of the INSOL Singapore Conference 2019. I would like to extend a warm welcome to all overseas delegates. I trust that yesterday’s Conference programme, and your time in Singapore, have been fruitful.
  
