@@ -22,7 +22,8 @@ Ladies and Gentlemen,
 
 Good morning.
 
-   **<u>Introduction</u>**
+
+<p style="margin-left: 18px">Introduction</p>
 
  1. Thank you for inviting me to the inaugural SMU-Osborne Clarke Future of Law Conference.
  
