@@ -15,7 +15,7 @@ Distinguished guests
 Ladies and gentlemen  
 
 <ol style="list-style-type: upper-roman; font-weight: bold;">
-<li>INTRODUCTION</li>
+<li style="margin-left: 12px">INTRODUCTION</li>
 </ol>
 
  1. Welcome to this Global Symposium at IP Week @ SG 2016.
