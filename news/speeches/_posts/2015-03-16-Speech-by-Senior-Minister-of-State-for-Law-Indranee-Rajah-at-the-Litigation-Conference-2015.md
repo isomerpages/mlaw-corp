@@ -54,7 +54,7 @@ Fellow Litigators,
     <ol style="list-style-type: lower-alpha">
     <li>An Economist Corporate Network survey found that of 500 MNCs based in Europe or North America, more than half said that they         will have at least one board member in Asia by 2017.<sup>[8]</sup> </li>
     <li>Home-grown Asian MNCs have also increased.  Fortune’s “Global 500” list of Asian MNCs has grown from just above 100 in the early     2000s to close to 200 in the recent years<sup>[9]</sup>. </li>  
-    <li>Today, four of the top ten companies in the world are Asian<sup>[10]</sup></li>.
+    <li>Today, four of the top ten companies in the world are Asian<sup>[10]</sup>.</li>
     </ol>
     
     **Singapore’s Response to New Opportunities in International Commercial Litigation**
