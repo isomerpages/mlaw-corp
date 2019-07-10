@@ -53,16 +53,18 @@ Now we’ve changed the laws on mandatory death penalty for drug trafficking, in
 It also gives the CNB a better tool because it gives a powerful incentive to the accused to cooperate
 <br>  
 We have reformed in the last year the criminal legal aid scheme which is still in progress: But it represents a fundamental change in philosophy that – previous position was the Government will not directly fund criminal legal aid, some civil legal aid but that has been changed.
-<br>
+
 And a committee has been constituted to look into:
 * rationalising some of the Penal Code offences, and
 
 * the treatment of mentally less able offenders
+
 And that is in progress. The law provides a variety of ways in which how mentally disabled offenders ought to be treated. We want to see whether we can refine this further and make it better for them.
-<br>
+
 These are not exclusive. They are intended to provide just a gist of the changes that have been made, or which we are currently studying.
 * And I have spoken on these issues before
 * And the Director-General of Ministry of Law, Yee Sze, who is here has written an article as well in the Law Gazette which appeared in February of this year, which summarises our philosophy.
+
 And some steps of the steps we have taken to reform the justice system are quite novel. We have taken best practices elsewhere and have gone further or changed or taken a completely different approach:
 * One of the examples is the Protection from Harassment Act or POHA
 
@@ -74,7 +76,6 @@ Overwhelming support from the public to deal with this issue of harassment.
 Our surveys showed:
 * More than 80% of those surveyed felt that online harassment was a serious issue
 * And 85% wanted tougher legislation to deal with harassment
-
 So we looked at other jurisdictions. And the Act here covers a range of behaviour
 
 * It introduces a new offence of stalking
@@ -82,6 +83,7 @@ So we looked at other jurisdictions. And the Act here covers a range of behaviou
 * It includes cyber harassment, bullying of children, sexual harassment within and outside the workplace. So for the first time it has been made clear. Sexual harassment whether in the real world or online would be an offence.
 
 Path-breaking in some ways
+
 And a complementary suite of remedies for victims:
 * It enhances the criminal penalties for harassment.
 
@@ -125,7 +127,7 @@ The approach is:
 We are now giving some thought to how we can change all of this. And we are looking at - and it’s a departure for us also - at continental systems, automatic enforcements, and a greater role for the Court system to take over the enforcement and enforce it, without requiring the parties to take a series of steps. Hopefully it will create a more cost-effective and efficient framework and ensure adequate disclosure of assets.
 
 And we are also looking at how we can provide more practical support for women who want to enforce maintenance orders.
-<br>
+
 I put up some fact scenarios, these are real cases.
 
 <u>Case 1</u>: A lady, Ms B, attended MPS earlier this year. Ms B She and her ex-husband have two children who are both below 10 years old.
@@ -150,10 +152,9 @@ So this I have intended to give a snapshot of the criminal justice system, outsi
 
 Now let me now deal with a completely different question: the increasing number of students who are taking up law, and the potential impact on those wanting to practise law, as opposed to somebody having legal training.
 
-<u>Supply of Lawyers</u>
+**<u>Supply of Lawyers</u>**
 
-Our economy is entering into a mature phase.
-<br>  
+Our economy is entering into a mature phase.  
 We used to grow at 8%, 9%, 10%. People sometimes question why we need to grow. I’ll tell you why. Because each time you want better bonuses or you want new employment, unless the businesses are growing, how does the employee get better income. We are however unlikely to grow at the same rate since its independence. We are now looking at 3% - 4% and beyond 2020, perhaps 2% or even less. At the same time, because of the factors of economic growth are levelling off – factors of economic growth are population and space and raw material – all of which you know the story on Singapore.
 <br>  
 We have now 6 people working for 1 person above sixty five. For 2030, that is fourteen years from now, most of you’ll will be in your mid to late thirties, that will come down very sharply to 2 persons working for 1 person above sixty five. So you can imagine the demographic challenges, the impact on taxes, all things being equal – and all things are not equal because once you hit above sixty five, you visit the doctor more often, for those of you with parents above sixty five will know – medical costs are going to shoot up. People above sixty five, people above seventy will come to the government and say “what are you going to do to look after me”. And they have the voting power. And they will make up 40% of the population. That’s 900,000 people passing the threshold of sixty five in the next fifteen years. I don’t think our people have understand the economic and existential issues that will come from that.
@@ -161,118 +162,117 @@ We have now 6 people working for 1 person above sixty five. For 2030, that is fo
 We will look at and we always look at not just current issues but issues down the road, in fifteen years, twenty years.  
 <br>
 Even if it is shocking for the population now, which we have to. That’s the duty of a responsible government. And that is what concerns most of us. And if you look at challenges, the regional challenges and issues, internally our demography is a huge challenge And as people cross over sixty five, and we are taking steps to ensure they can continue to work after sixty five, but some will stop, the productivity will be much less, the impact is that the economy will be much lower. And the prospects in the economy will be very different.
-<br>
+
 So the prospects for lawyers and other professions must be viewed in this context.
-<br>
 
 **<u>The Singapore legal profession</u>**
 
 What’s the state of our profession? March 2013, there were 4,432 lawyers with practicing certificates, just under 4,500.
-<br>  
+ 
 But that’s nearly a one quarter increase, 25 percent increase from 2009. So between 2009 and 2013, just in those four years, the number of lawyers with practicing certificates has gone up by 25%. The economy hasn’t gone up by 25% between 2009 to 2013.
-<br>  
+
 And there’s also been a substantial increase in the number of students reading law.
-<br>  
+
 In particular the number of overseas law undergraduates from Singapore has increased.
-<br>  
+
 If you look at the UK universities, the number has more than doubled. Between 2010 and 2013, just in those three years, the number has doubled from 510 to 1,142. The number has increased very significantly and very quickly. This has implications for students in the context of a relatively small legal market in Singapore.
-<br>  
+
 Number of students in Australian universities has also increased by more than 25% just between 2011 and 2013, so there’s been an explosion. If you take 2010 to 2013 there has been a very significant explosion from 303 to 386.
-<br>  
+
 From 2009 we’ve been studying these figures and it hasn’t been easy to get the figures in the first place because people can go overseas and they don’t need to tell us that they are studying law, there is no rule or law which says you got to register with the government of Singapore, and often people could start in one course and switch, so we really don’t have a clear fix on what students are doing, but these are the numbers we are able to get, and they may understate rather than overstate.
-<br>  
+ 
 And part of the problem is, law is now increasingly replacing social science, it’s a new social science. Everyone wants to read law. This is an observed tendency. The number of local law graduates, has obviously remained fairly consistent between 345 to 384 between 2011 and 2014. Your law school is at 150 here, others have been talking to us to increase it, and we have said, go easy, and this is one of the reasons.
-<br>  
+
 What are the possible consequences in Singapore?
-<br>  
+
 Between 2010 and 2013, less than 10% of the graduates who passed Part B were not able to obtain practicing training contracts, less than 10% meaning more than 90% were able to get training contracts.
-<br>  
+
 On average, if you look at local graduates, 94% got training contracts between 2009 and 2013. So if you went into a local university, you are guaranteed a training contract.
-<br>  
+
 But about only 70% of overseas graduates secured a practicing training contract during the same period.
-<br>  
+  
 But this year, we estimate that 642 graduates will be competing for perhaps about 490 practicing training contracts. That means about 150 students will have difficulties even getting a training contract, let alone getting employment after that. And that’s only an estimate, I emphasize, we cannot be sure of the actual situation but the broad trend is what I want to say.
-<br>  
+ 
 Take for example the 1,500 students, but the 1,100 odd students in UK and close to 400 students in Australia makes up 1,500. Now if you recall earlier I said there are 4,439 lawyers with practicing certs in Singapore, that means the entire legal profession is under 4,500. And within the next three years or so, that population of 4,500 is going to be added on by 30%, 1,500 new entrants into the market.
-<br>  
+
 Now, I’m not sure how many economies in the world can absorb that kind of percentages, 30%.
-<br>  
+
 And of course, the numbers keep going up, and while I can control the numbers in Singapore law schools, I have no say and control over who goes overseas and does what. Economy at the same time is growing at 2.5, three, 3.5%. The market is not going to grow by 30%.
-<br>  
+
 So the first stage is just getting a training contract, the second stage is getting employment. So the point is that demand from students and parents to get into law school is huge.
-<br>  
+
 There are more than a thousand applicants for the 150 places that are available here, and NUS has similar kind of data, and everyone wants to do law. I have decided to highlight this because I think it’s important that parents and students have an understanding of the legal market, and they make their choices.
 <br>  
 And there is a further point, the globalisation for most of you may simply be a word that you heard, I don’t think you’ve understood the implications but let me tell you what the implications are.
-<br>  
+
 You have law firms in Bangalore now, each with 500 to 1,000 lawyers. They are bright, they are educated in the common law system, and resources are now available online, meaning any research on Singapore law can be done online. So a client can come to a law firm in Singapore and say, there is this piece of work, I want you to blend it, meaning I want all the research and analysis and opinions to be first drafted in Bangalore because their lawyers get paid $1,500 a month. I want that cost. Then I want you to supervise it and look at it, and give me the final product. So the lawyer in Singapore gets paid more for the supervision, no longer for the underlying work.
-<br>  
+ 
 Which means a reduction in work, a substantial reduction in the work. So the only work that would be done here, it’s not yet the case, but in a borderless world with globalisation, these are the natural implications and it is happening in many places, in the US and UK, given the high legal fees, clients go to a law firm and say, I’m not going to do what was so in the past.
-<br>  
+
 In the past, my time and so on, client comes to you and you say these are my fees, and for lots of corporate work, the way it works is, if I have to put ten lawyers on the job, I put ten lawyers on the job, they get charged whatever rates according to their seniority, at the end all of that is added up plus disbursements that the client pays. But law firms used to be the only ones who had that kind of advantage where the law firms decide what the cost will be, what they will charge each lawyer out, and pay up.
-<br>  
+ 
 That luxury is gone, by and large, now clients say this is the fee I will pay you, how you structure it is up to you. You go and work it out. And there is an increasing tendency to cut down on legal fees, because it’s seen as an add on cost. And I leave it to you, you go and decide whether you want to use lawyers in Malaysia, you want to use lawyers in India or elsewhere, or large law firms elsewhere which provide these sorts of background services, but you cut down.
-<br>  
+
 So that is also happening at the same time while we have this huge explosion in the number of lawyers.
-<br>  
+ 
 Now the study of the law provides good training of the mind. Let me go back one more point.
-<br>  
+
 Again, you see headline numbers, first year lawyers getting five thousand dollars and so on, yes true, but not all.
-<br>  
+ 
 And you see headline numbers that top lawyers make x million dollars, let me tell you, there is a huge difference between what the top two or three make, and what everyone else makes. Huge difference.
-<br>  
+
 The number one, number two, number three could make 10 million, number four and number five could be making 1.5. That’s the reality of the market because if I’ve a billion dollar project or dispute, I want that particular lawyer, and I will pay anything for number 1. And both sides will pay anything for number 1 and number 2, or usually the top three, four lawyers. Beyond that, I’m not interested in paying. So often the screaming headlines I think mislead people. Now I’m not saying $1.5 million is bad, I’m just saying that‘s the top three, four, doesn’t represent the entire market.
-<br>  
+
 Now the study of the law provides good training of the mind. Let me go back one more point.
-<br>   
+   
 Again, you see headline numbers, first year lawyers getting five thousand dollars and so on, yes true, but not all.
-<br>  
+
 And you see headline numbers that top lawyers make x million dollars, let me tell you, there is a huge difference between what the top two or three make, and what everyone else makes. Huge difference.
-<br>  
+ 
 The number one, number two, number three could make 10 million, number four and number five could be making 1.5. That’s the reality of the market because if I’ve a billion dollar project or dispute, I want that particular lawyer, and I will pay anything for number 1. And both sides will pay anything for number 1 and number 2, or usually the top three, four lawyers. Beyond that, I’m not interested in paying. So often the screaming headlines I think mislead people. Now I’m not saying $1.5 million is bad, I’m just saying that‘s the top three, four, doesn’t represent the entire market.
-<br>  
+
 And then there is a big difference between the number five and number 35. So you’ve got to decide, are you sure you’re going to be number one, number two, number three, otherwise forget about those figures. Are you going to be number four to number 20, otherwise forget about those figures, look at what’s realistic for a start. Then of course good luck to you if you work your way up.
-<br>  
+  
 This is more for a realistic assessment of what the incomes are likely to be.
-<br>
+
 The study of law provides an excellent training of the mind, and therefore I don’t want to be seen as discouraging people from studying law, because you can apply your mind, you train your mind, it is an excellent training of the mind, as long as you don’t think: automatically when you come up the road is paved with riches and you are going to be all these things.
-<br>
+
 You have to have a realistic understanding of the market, the economy, the total structure.
-<br>
+
 Industry as a whole is becoming more competitive than the past, and you can do many things with a law degree.
-<br>
+
 You can develop skills that are useful in many fields - in-house academia, or you can go into business.
-<br>
+
 There are many people in banking, public service, arts sector have law degrees and make good use of them.
-<br>
+
 And ultimately if you cannot practice law you can always go into politics.
-<br>
+
 People may ask in this case, why a third law school? It’s slightly different.
 * First of all, it will be very small, 70, 80 students.
 * Second, I personally felt, there should be an alternative career pathway given to mature students who have done another degree or taken a career, now they have become teachers, or police officers or engineers, they have done something. In their 20s, they decide, this is not for me, I want to do law. I think people like that ought to be given a chance. They may not practice, they probably, very few of them will practice, counsellors and so on.
 
 So the target is mature students with relevant work experience in contrast to students in SMU and NUS. And also the greater focus on criminal and matrimonial law.
-<br>  
+
 And going back to the point on training contracts, I’m deeply seized with the issue, and we will look at the rules to see what we can do to try and make it easier for more students to get training contracts. We now have some rules which say that lawyers of this experience, trainings, you cannot charge out for trainees and so on, this is to protect the trainees and make sure they get experience rather than be used as additional hired labour, slave labour. But we want to see how we can relook at these rules to make sure that more students can get training contracts.
-<br>  
+
 But ultimately, there is a limit to how much the government can intervene in the market. You’ve seen the figures.
-<br>  
+
 We can also of course do things from the big picture perspective to try and increase the economy and the legal market.
-<br>  
+
 One hugely successful area has been arbitration. There has been a substantial increase in the last five years, and all of this is fresh work, arbitral work, coming in, unconnected to Singapore usually, big work involving lots of lawyers and that has provided a huge amount of work for law firms. And we, through a series of very careful, structured initiatives, changing the laws, setting up a proper institute, board of directors, having conferences and publicizing, and primarily creating an ecosystem that is very favourable for arbitration. Within five years, we have become Asia’s leading destination, jurisdiction for arbitration and one of the world’s top four or five. It’s a little more complicated than that, but it requires very active effort, and we will do that. So that has led to an explosion of work, which is helpful.
-<br>  
+  
 Another completely new dimension, a game-changer, will be the International Commercial Court which we will set up by next year, the laws will be in place by this year. And that will bring in fresh work into the litigation scene, the court scene, which would otherwise have not been done in Singapore.
-<br>  
+
 We are also going to emphasize quite a bit on mediation and make Singapore a world-class mediation centre.
-<br>  
+
 And I have some hopes on ASEAN integration. If ASEAN can get more integrated and by 2015 December we hope for greater economic integration. There are hurdles along the way, it’s not going to be easy, it’s not going to be hunky-dory, but if we integrate better, then you are looking at a US$2.5 trillion economy which is bigger than the economy of India with 600 million people. And you need one centre in ASEAN, the 10 countries of ASEAN, that is a premier logistics, financial, services centre where there is rule of law, and your money is safe and where you are safe and where disputes can be handled effectively. And there is really one place, only one place, there is no other place. But the big if is, to make sure that all these things can be done. But it’s not just dispute resolution, we also want our lawyers to handle the project work, because not everyone is a litigator and not all litigation will come here. And the difficulties are that legal markets in every jurisdiction are fairly protective of their work. So ideally there would have been free movement of lawyers across jurisdictions, but that’s not going to be easy to achieve. But we will try and see what we can do.
-<br>  
+ 
 So we have to really constantly think of ways of making sure we grow the legal market, we will.
-<br>  
+
 **<u>Conclusion</u>**
-<br>      
+     
 In conclusion, I’m looking forward to having the dialogue later and in this conference, the purpose of my speech is not to make you morose in the morning or pessimistic, it is to be realistic. You are among the elite who have gotten in, and for those of you doing law overseas, you are doing an excellent course.
-<br>  
+ 
 All I’m saying is, there’s nothing wrong with the course, but be realistic as to what you can do if you are thinking of practice. A lot of people are not thinking about practice, but just be aware of the numbers. There’s already been a 25% increase in the size of the legal profession in the last three years and if you look at the current numbers of students, that represents 30% of the current size of the legal profession. And I think the numbers keep growing, because more and more students that I meet, more and more parents that I meet, say my son or daughter is going to go and do law at such and such university.
 <br>  
 Thank you.
