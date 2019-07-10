@@ -106,13 +106,13 @@ I will elaborate on each of these points in turn.
 <li> These principles are articulated in Articles 21(1) and 24(2) of the Constitution, which in turn reflect the constitutional position and law in the UK and the Commonwealth, developed over centuries:
 
 <ul>
-<li><strong>Article 21(1) - Discharge and performance of functions of President</strong>
+<li><i><strong>Article 21(1) - Discharge and performance of functions of President</strong>
 <br>
-Except as provided by this Constitution, the President <u>shall</u> [- and not “may”] , in the exercise of his functions under this Constitution or any other written law, <u>act in accordance with the advice of the Cabinet</u> or of a Minister acting under the general authority of the Cabinet. (Emphasis added.)</li>
-<li><strong>Article 24(2) - Cabinet</strong>
+Except as provided by this Constitution, the President <u>shall</u> [- and not “may”] , in the exercise of his functions under this Constitution or any other written law, <u>act in accordance with the advice of the Cabinet</u> or of a Minister acting under the general authority of the Cabinet. (Emphasis added.)</i></li>
+<li><i><strong>Article 24(2) - Cabinet</strong>
 <br>
-Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament .
-</li>
+Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament.
+</i></li>
 </ul>
 
 </li>
