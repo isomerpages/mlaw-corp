@@ -7,17 +7,17 @@ collection_name: news
 ---
 
 24 Jul 2013 Posted in [Speeches](/news/speeches)
-<br>  
+
 Mr. Tan Yih San  
 Chief Executive of IPOS
-<br>  
+
 Mr. Danny Poh  
 Principal of River Valley Primary School
-<br>  
+
 Guests, teachers and students of River Valley Primary School
-<br>  
+ 
 Good morning.
-<br>
+
 **IP Expedition**
 
 
