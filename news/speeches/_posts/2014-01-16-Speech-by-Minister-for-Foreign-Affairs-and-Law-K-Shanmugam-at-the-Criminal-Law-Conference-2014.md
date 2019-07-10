@@ -340,7 +340,7 @@ Distinguished speakers and panellists
 
 
 <ol start="8" style="list-style-type: upper-alpha; font-weight:bold;">
-<li>LOKING AHEAD</li>
+<li>LOOKING AHEAD</li>
 </ol>
 
 {:start="96"}
