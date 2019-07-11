@@ -18,7 +18,9 @@ After the opening ceremony, a skit dubbed "Community Watch" was performed by a t
 <img src="/images/news/announcements/1399988688643.jpg " alt="cmc sms 1" style="width:287px;height:219px;"> 
 
 *- SMS Ho Peng Kee enthusiastically extolling the benefits of CMC* 
+
 <img src="/images/news/announcements/1399988692559.jpg " alt="cmc aud 1" style="width:356px;height:328px;"> 
+
 *- An enthused crowd enjoying our skit performance*
 
 More than 670 residents participated in the fringe activities. A survey was conducted with the audience to gauge the level of awareness on mediation and CMCs' services. The majority of respondents indicated that they were willing to try mediation if they had an unresolved dispute.
