@@ -19,7 +19,7 @@ Distinguished Guests, Ladies and Gentlemen,
 
  1. I am delighted to be here this morning at this Insolvency Conference 2014 organised by the Insolvency Practice Committee of the Law Society of Singapore.
     
-    <u>Regional Economic Outlook</u>
+    **<u>Regional Economic Outlook</u>**
 
 
  2. The International Monetary Fund (‘IMF’) reported in April this year that economic recovery in the Asia Pacific is expected to continue, with growth figures projected to remain steady over the course of 2014 and 2015.
