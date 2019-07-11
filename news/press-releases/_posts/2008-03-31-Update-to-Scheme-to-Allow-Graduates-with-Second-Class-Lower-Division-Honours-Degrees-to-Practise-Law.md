@@ -21,7 +21,7 @@ collection_name: news
 <ol style="list-style-type: lower-roman">
 <li>Submit completed Form I together with supporting documents to the Board; and</li>
 <li>Concurrently submit an application to NUS for admission to the NUS Diploma in Singapore Law course using the relevant forms that can be downloaded from
-<a href="http://law.nus.edu.sg/prospective/postgrad/application.htm">http://law.nus.edu.sg/prospective/postgrad/application.htm</a></li>
+<a href="https://law.nus.edu.sg/admissions/app_periods_forms.html">https://law.nus.edu.sg/admissions/app_periods_forms.html</a></li>
 </ol>
 
 </li>
