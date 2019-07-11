@@ -6,8 +6,7 @@ permalink: /news/announcements/top-officials-to-open-diplomatic-conference-to-re
 ---
 18 Apr 2006 Posted in [Announcements](/news/announcements)
 
-
-![top officials to open diplomatic](/images/news/announcements/1399988700889.jpg)
+<img src="/images/news/announcements/1399988700889.jpg" alt="top officials to open diplomatic" style="width:138px;height:150px;"> 
 
 A major conference to revise a key international treaty in the field of trademarks, convened by the World Intellectual Property Organization (WIPO), opens today in Singapore in the presence of top officials. The three-week conference will be formally launched by WIPO Director General, Dr. Kamil Idris, in the presence of Singapore's Deputy Prime Minister and Minister for Law, Professor S. Jayakumar. High-ranking diplomatic delegations from the 183 WIPO member states, many led by senior officials, as well as observer delegations representing the branded goods industry and the trademark profession, will be attending the conference.
 Singapore is the first country in Asia to host an intellectual property (IP) Diplomatic Conference, signifying the Republic's commitment in contributing to the development of an international IP framework.
