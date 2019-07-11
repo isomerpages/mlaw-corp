@@ -45,7 +45,7 @@ collection_name: news
 
 **Related Link**
 
-See [MAS' press release](http://www.mas.gov.sg/News-and-Publications/Press-Releases/2009/MAS-Implements-Revised-Unsecured-Credit-Rules-for-Financial-Institutions.aspx) on unsecured credit rules
+See [MAS' press release](https://www.mas.gov.sg/news/media-releases/2009/mas-implements-revised-unsecured-credit-rules-for-financial-institutions) on unsecured credit rules
 
 <p class="right-side-updated">Last updated on 27 Nov 2012</p>
 
