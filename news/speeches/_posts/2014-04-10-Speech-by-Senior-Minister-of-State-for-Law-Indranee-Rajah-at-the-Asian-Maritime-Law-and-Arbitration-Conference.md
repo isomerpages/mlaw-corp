@@ -34,11 +34,11 @@ Ladies & Gentlemen;
 
 
 
-4. The maritime sector has experienced similar growth:
-   <ol style="list-style-type: lower-alpha">
-   <li> Global seaborne trade has risen, reaching a record high of over 9 billion tons in 2012.  This growth has been driven by growing    domestic demand in China and increased intra-Asian and South-South trade; and</li>
-   <li> Asia also continued to dominate as the main loading and unloading region in 2013 for gas, oil and other dry cargo.  </li>
-   </ol>
+ 4. The maritime sector has experienced similar growth:
+    <ol style="list-style-type: lower-alpha">
+    <li> Global seaborne trade has risen, reaching a record high of over 9 billion tons in 2012.  This growth has been driven by growing     domestic demand in China and increased intra-Asian and South-South trade; and</li>
+    <li> Asia also continued to dominate as the main loading and unloading region in 2013 for gas, oil and other dry cargo.  </li>
+    </ol>
 
 
  5. With the increase in maritime activity and cross border transactions in this part of the world, we can expect that the demand for legal and dispute resolution services to increase in tandem. 
