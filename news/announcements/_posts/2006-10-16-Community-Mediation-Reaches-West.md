@@ -19,7 +19,7 @@ After the opening ceremony, a skit dubbed "Community Watch" was performed by a t
 
 *- SMS Ho Peng Kee enthusiastically extolling the benefits of CMC* 
 
-<img src="/images/news/announcements/1399988692559.jpg " alt="cmc aud 1" style="width:356px;height:328px;"> 
+<img src="/images/news/announcements/1399988692559.jpg " alt="cmc aud 1" style="width:287px;height:219px;"> 
 
 *- An enthused crowd enjoying our skit performance*
 
@@ -27,6 +27,6 @@ More than 670 residents participated in the fringe activities. A survey was cond
 
 Children participated eagerly in stage games:
 
-<img src="/images/news/announcements/1399988673651.jpg" alt="cmc children 1" style="width:500px;height:600px;"> 
+<img src="/images/news/announcements/1399988673651.jpg" alt="cmc children 1" style="width:356px;height:328px;"> 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p> 
