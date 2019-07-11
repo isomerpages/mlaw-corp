@@ -16,6 +16,7 @@ Distinguished Guests, Ladies and Gentlemen,
  2. The opening of IP 101 is therefore a fitting occasion to unveil a new IPOS campaign called “Embracing IP”.  “Embracing IP” is purposefully couched to bring IP closer to innovators, creators, and businesses.  “Embracing IP” comprises 3 key thrusts.  They are: "Enabling local businesses through IP", "Growing Singapore-based businesses with IP" and "Respecting and Caring with IP".   
     
     **Enabling local businesses through IP**
+    
     <u>IP Financing Scheme</u> 
 
  3. Singapore businesses can grow through exploiting new ideas. There is a growing trend of businesses being valued based on intangible assets. According to a report by Brand Finance (a global intangible asset valuation consultancy), 42 per cent of enterprise value in Singapore was in intangible assets in 2012, up from 35 per cent in 2011.   
