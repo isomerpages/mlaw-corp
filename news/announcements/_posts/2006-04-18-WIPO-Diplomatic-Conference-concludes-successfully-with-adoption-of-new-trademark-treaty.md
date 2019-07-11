@@ -7,7 +7,10 @@ permalink: /news/announcements/wipo-diplomatic-conference-concludes-successfully
 
 18 Apr 2006 Posted in [Announcements](/news/announcements) 
 
-![wipo diplomatic conference](/images/news/announcements/1395402406272.jpg)
+
+
+<img src="/images/news/announcements/1395402406272.jpg" alt="wipo diplomatic conference" style="width: 283px;height:190px;"> 
+
 
 A new international treaty on trademarks, known as the "Singapore Treaty on the Law of Trademarks", in recognition of the country that hosted the final round of negotiations, was adopted on March 28, 2006 by member states of the World Intellectual Property Organization (WIPO). The revised treaty will benefit national and regional trademark administration authorities in terms of simplified and streamlined procedures. Brand owners can also look forward to lower transaction costs in trademark applications.
 
