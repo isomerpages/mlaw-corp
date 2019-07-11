@@ -149,7 +149,7 @@ For example, the LAAA only allows legal aid to be granted for work injury compen
 
 <p id="fn5"><sup>[5]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.</p>
 
-<p id="estates"><sup>[6]</sup> Based on HDB’s estimates: <a href="http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent">http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent</a></p>
+<p id="estates"><sup>[6]</sup>Based on HDB’s 2013 estimates</p>
 
 
 <p id="AV"><sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.</p>
