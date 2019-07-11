@@ -48,7 +48,7 @@ Singapore solicitors wishing to practise Singapore Law in foreign entities in ac
 
 
 <ol style="list-style-type: lower-alpha; font-weight: bold;">
-<li>Register with the <a href="http://www.agc.gov.sg/lps/">International Services Secretariat of the Attorney-General's Chambers.</a></li>
+<li>Register with the International Services Secretariat of the Attorney-General's Chambers.</li>
 </ol>
 
 
