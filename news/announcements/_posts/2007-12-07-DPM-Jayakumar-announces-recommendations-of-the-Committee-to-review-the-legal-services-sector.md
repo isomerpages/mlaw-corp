@@ -11,7 +11,7 @@ Update
 
 Please note the amendment to paragraph 10 in the following press release.
 
-Issued by Ministry of Law
+Issued by Ministry of Law  
 7 Dec 2007
 
  1. The Committee <sup>1</sup> to comprehensively review the entire legal services sector and to propose measures to enhance Singapore's position as an international centre for the provision of legal services submitted its report and recommendations in September this year. The Government has accepted in principle the recommendations of the Committee.
