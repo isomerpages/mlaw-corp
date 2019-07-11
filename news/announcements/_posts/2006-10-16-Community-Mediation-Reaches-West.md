@@ -15,16 +15,16 @@ Spirits heightened when the invited guests comprising representatives from MinLa
 
 After the opening ceremony, a skit dubbed "Community Watch" was performed by a talented acting cast to convey the advantages of mediation. Through witty and light-hearted re-enactments, they demonstrated how the public could approach Community Mediation Centres (CMC) to resolve their conflicts.
 
-<img src="/images/news/announcements/1399988688643.jpg " alt="Girl in a jacket" style="width:500px;height:600px;"> 
+<img src="/images/news/announcements/1399988688643.jpg " alt="cmc sms 1" style="width:287px;height:219px;"> 
 
 *- SMS Ho Peng Kee enthusiastically extolling the benefits of CMC* 
-<img src="/images/news/announcements/1399988692559.jpg " alt="Girl in a jacket" style="width:500px;height:600px;"> 
+<img src="/images/news/announcements/1399988692559.jpg " alt="cmc aud 1" style="width:356px;height:328px;"> 
 *- An enthused crowd enjoying our skit performance*
 
 More than 670 residents participated in the fringe activities. A survey was conducted with the audience to gauge the level of awareness on mediation and CMCs' services. The majority of respondents indicated that they were willing to try mediation if they had an unresolved dispute.
 
 Children participated eagerly in stage games:
 
-<img src="/images/news/announcements/1399988673651.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"> 
+<img src="/images/news/announcements/1399988673651.jpg" alt="cmc children 1" style="width:500px;height:600px;"> 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p> 
