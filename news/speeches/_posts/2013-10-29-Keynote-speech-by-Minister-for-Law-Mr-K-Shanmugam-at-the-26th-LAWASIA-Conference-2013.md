@@ -10,9 +10,9 @@ collection_name: news
 
 
 <p style="text-align: center; font-weight:bold">
-International Dispute Resolution:
+  <i>International Dispute Resolution:</i>
 <br>
-The Singapore Perspective in an Evolving Landscape
+  <i>The Singapore Perspective in an Evolving Landscape</i>
 </p>
 
 1. In the last 20 years, if you look at the global trade, that’s grown at an average of 5.5 per cent per annum. 
