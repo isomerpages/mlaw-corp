@@ -13,7 +13,7 @@ Mr Gregory Vijayendran, President, Law Society of Singapore,
 Friends from the Malaysian Bar Council
 
 <ol style="list-style-type: upper-alpha; font-weight: bold;">
-<li>THE RISE OF THE MACHINES<sup>[1]</sup></li>
+<li style="margin-left: 20px">THE RISE OF THE MACHINES<sup>[1]</sup></li>
 </ol>
 
  1. Let me first thank the Law Society for giving me the opportunity to sketch out our thoughts on the future of lawyering. Let me start with my first section which is the Rise of the Machines. I am going to give you a quote, I am not sure how many in the room will recognize the quote - I suspect those born after 1984 may not. But the baby boomers and the Gen X people might.
@@ -180,7 +180,7 @@ Friends from the Malaysian Bar Council
 31. As mentioned earlier, you start from a position of strength. Singapore lawyers are well regarded for their strong technical knowledge. However this is no longer enough. Clients want more. In addition to technical knowledge, they want lawyers who understand their business, their industries and the markets they operate in. They need you to be someone who is a trusted business advisor by virtue of your knowledge of the law and their business.
 
 32. The lawyer of the future needs the following:
-    <ol style="list-style-typw: lower-alpha">
+    <ol style="list-style-type: lower-alpha">
     <li>deep expertise in specific practice areas; </li>
     <li>market knowledge; </li>
     <li>leadership and business skills. </li>
