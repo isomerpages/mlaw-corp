@@ -148,7 +148,7 @@ Colleagues or ex-colleagues,
 
 
 30. This has been exercising my mind for several years. We have been thinking about this for a while, which will explain why we have         taken the steps that we have taken for the last few years.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>The International Bar Association did a study on this in April 2017. They think that machines will replace one-third of all         graduate jobs. </li>
     <li>Boston Consulting Group think that even the existing tech solutions can do up to 50 per cent of the work that junior lawyers do     today. </li>
     </ol>
@@ -163,7 +163,7 @@ Colleagues or ex-colleagues,
 
 
 33. We talked about technology and the threats that it poses. But it can also help us work better, and it can provide new work for those     who are prepared to move into it, understand and make use of it.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li> A study by Accenture in 2016 showed that 20 per cent of the global GDP – that is a huge amount – is digital now, and it is         going to accelerate. It can only increase.</li>
     <li>A Deloitte study last year said that technology removed 31,000 jobs in the legal sector, but there was nevertheless a net           increase of 80,000 jobs. So that is good news.  If you can ride on it, it can actually be productive. The new jobs were higher-         skilled, better-paid.</li>
     </ol>
@@ -237,7 +237,6 @@ Colleagues or ex-colleagues,
     <ol style="list-style-type: lower-alpha">
     <li> So, we funded centres of excellence in the National University of Singapore (NUS) – Centre for Law and Business, Centre for         Maritime Law, Centre for Asian Legal Studies, Centre for Banking and Financial Law.</li>
     <li>The Singapore Management University – no direct Government funding, but they have set up a centre for cross-border commercial       law, and an applied research centre for intellectual assets and law in Asia.</li>
-    </li>
     </ol>
 
     <u>Debt Restructuring</u>
