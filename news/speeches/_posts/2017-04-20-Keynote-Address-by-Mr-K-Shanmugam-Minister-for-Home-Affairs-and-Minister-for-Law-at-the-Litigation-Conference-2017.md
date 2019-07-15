@@ -27,10 +27,10 @@ Colleagues or ex-colleagues,
  3. This context has to be seen against how our profession is structured today, to see what advantage we can take; how can we go forward.
 
  4. Let’s look at some statistics.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li> If you look at the total number of lawyers with practising certificates, there are 5,220.</li>
     <li>As at December 2016, there were 874 Singapore law firms. Of these:
-    <ol>
+    <ol style="list-style-type: lower-roman">
     <li> 22 firms had more than 31 lawyers. These 22 firms comprised 45 per cent of all lawyers with practising certificates.</li>
     <li> 717 firms had between one to five lawyers. Of these, more than half were sole practitioners.</li>
     </ol>
@@ -47,7 +47,7 @@ Colleagues or ex-colleagues,
 
 
  8. Essentially, many law firms were structured around:
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>The conveyancing department. Singapore was booming – property developments everywhere, purchases, scale fees linked to the value     of the property. What did the lawyers have to do? They had to check manually through the title deeds; ensure clean chain of             ownership; confirm that there were no encumbrances. The fees were tied to the value of the property, on the basis that the lawyer       was taking a risk, effectively insuring the title was clean.</li>
     <li> Some basic corporate work.</li>
     <li> And of course, litigation work.</li>
@@ -57,7 +57,7 @@ Colleagues or ex-colleagues,
 
 
 10. Today, that is no longer so. If you look at how it has changed – again, take conveyancing as an example.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>Scale fees were completely abolished in 2003</li>
     <li> And, if you look at the way in which it now proceeds – ownership details, encumbrance of the property – all are contained in a     single document. You click a button online, it is available.</li>
     </ol>
@@ -92,7 +92,7 @@ Colleagues or ex-colleagues,
 16. Our GDP per capita today puts us as the third-highest in the world. Once you reach those sorts of numbers, it is difficult for you to continue to grow at 7 to 10 per cent.
 
 17. If you look at what are the factors that drive economic growth –
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>  Land. Are we going to have more land? No.</li>
     <li> Second and most crucially, labour and population. Look at our population. We had 13.5 persons under 65 for every one above 65       in 1970. In 2015, that came down to five persons under 65 for every one above 65. Within 13 years, that will come to two persons       under 65 for every one above 65. So you are not seeing a population increase, you are seeing an aging population.</li>
     </ol>
@@ -176,7 +176,7 @@ Colleagues or ex-colleagues,
 
 
 35. The shift of the economic centre of gravity of the world to Asia is inexorable.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li> Asia-Pacific will account for more than half of the world’s GDP within the next 20 years or so.</li>
     <li> China is already the largest economy in the world on purchasing power parity terms, and it is already a US$12 trillion             economy.</li>
     <li> The second largest economy in the world – soon to be the largest – as well as currently the third largest economy in the world,     Japan, are in Asia.</li>
@@ -204,7 +204,7 @@ Colleagues or ex-colleagues,
 
 
 38. One story all of you know is, of course, arbitration. We do not owe our success in arbitration to fluke or luck. It was a carefully coordinated policy over several years, and it had a number of different aspects to it.
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>First, you have got to get the legislation right. If you go back and check over a period of time, we constantly upgraded it,         amended it, made it arbitration-friendly.</li>
 
     <li>We then put a lot of money into physical infrastructure – Maxwell Chambers, and we’re going to make it three times the size it       is today. But even when it was unveiled, it was the best in class in the world. That makes a big difference to arbitrators.</li>
@@ -294,7 +294,7 @@ Colleagues or ex-colleagues,
 
 
 52. We are looking at four broad areas:
-    <ol>
+    <ol style="list-style-type: lower-alpha">
     <li>Internationalisation</li>
     <li> Deepening expertise in high-value practice areas – you identify a law firm or company overseas, these people have the               expertise, you say that I want to send someone to learn, and he can come back and do that work here.</li>
     <li>Technology adoption –
