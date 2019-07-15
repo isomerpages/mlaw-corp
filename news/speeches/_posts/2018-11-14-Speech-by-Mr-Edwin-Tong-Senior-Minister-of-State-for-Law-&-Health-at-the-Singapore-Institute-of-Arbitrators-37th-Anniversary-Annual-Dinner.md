@@ -21,16 +21,18 @@ Ladies and Gentlemen
 
 
  3. 2018 has been a rewarding year in many aspects for the dispute resolution space in Singapore and I’d think many of you would, I hope, agree with that. Let me just briefly recap some of these milestones.
-   
-    a. The first is that Singapore has moved up the ranks to be the third most preferred seat of arbitration globally in the Queen Mary White & Case survey. That is something that we take quite seriously and we always, although it’s not only a race, measure ourselves against the other leading arbitral centres in the world.
-   
-    b. The Singapore International Arbitration Centre (SIAC) has been doing well. It’s the third most preferred arbitral institution in the world. It also set the record for the highest number of new case filings and cases administered in 2017.
-   
-    c. We have made huge strides in the area of international mediation, which has become increasingly, at least anecdotally, a preferred method of dispute resolution, partly because parties see the need to preserve and maintain the relationships as we embark on larger projects to keep the relationship growing for the mutual benefit of all parties. So you’ve seen the advent and growth of international mediation.
-   
-    d. We have been successful in our bid to host the signing of the UN Convention on Mediation. We regard this as an achievement because for the first time we will have a UN treaty that will be named after Singapore, and the signing ceremony will take place in Singapore in August next year. Along with that, there will be an alignment of several other projects, such as seminars and conferences, that will showcase Singapore’s thought leadership particularly in mediation.
-   
-    e. In the international litigation space, SICC has made great strides. A couple of leading cases have hit the news in the last few months. One of which has been the Macquarie’s case on the ISDA master agreements. I met ISDA and team a few weeks ago and they were particularly quite happy with the way in which the master agreement was construed by the SICC. So there has been some traction there as well.
+    <ol style="list-style-type: lower-alpha">
+    <li>The first is that Singapore has moved up the ranks to be the third most preferred seat of arbitration globally in the Queen Mary White & Case survey. That is something that we take quite seriously and we always, although it’s not only a race, measure ourselves against the other leading arbitral centres in the world. </li>
+ 
+    <li>The Singapore International Arbitration Centre (SIAC) has been doing well. It’s the third most preferred arbitral institution in the world. It also set the record for the highest number of new case filings and cases administered in 2017. </li>
+ 
+    <li>We have made huge strides in the area of international mediation, which has become increasingly, at least anecdotally, a preferred method of dispute resolution, partly because parties see the need to preserve and maintain the relationships as we embark on larger projects to keep the relationship growing for the mutual benefit of all parties. So you’ve seen the advent and growth of international mediation.</li>
+ 
+    <li>We have been successful in our bid to host the signing of the UN Convention on Mediation. We regard this as an achievement because for the first time we will have a UN treaty that will be named after Singapore, and the signing ceremony will take place in Singapore in August next year. Along with that, there will be an alignment of several other projects, such as seminars and conferences, that will showcase Singapore’s thought leadership particularly in mediation.</li>
+ 
+    <li>In the international litigation space, SICC has made great strides. A couple of leading cases have hit the news in the last few months. One of which has been the Macquarie’s case on the ISDA master agreements. I met ISDA and team a few weeks ago and they were particularly quite happy with the way in which the master agreement was construed by the SICC. So there has been some traction there as well.</li>
+    </ol>
+  
 
 
 
@@ -51,10 +53,10 @@ Ladies and Gentlemen
 
 
  8. So we must continually review our laws to ensure that we remain relevant. They must not only look after the nation’s interest but also promote the business interest. They must promote the industry and allow people operating the ecosystem to grow and find the opportunities.
-    
-    a. For instance, we amended our laws in 2017 to allow for third party funding in international commercial arbitrations.
-    
-    b. We have also introduced the Mediation Bill to enhance the enforcement of mediated settlements as a further option to resolve disputes. This also supports what is popularly known as the Arb-Med-Arb cases that I am very sure many of you are familiar with.
+    <ol style="list-style-type: lower-alpha">
+    <li>For instance, we amended our laws in 2017 to allow for third party funding in international commercial arbitrations.</li>
+    <li>We have also introduced the Mediation Bill to enhance the enforcement of mediated settlements as a further option to resolve         disputes. This also supports what is popularly known as the Arb-Med-Arb cases that I am very sure many of you are familiar with.</li>
+    </ol>
 
 
 
@@ -62,18 +64,18 @@ Ladies and Gentlemen
 
 
 10. Dinesh earlier mentioned building thought leadership and I think that is important if we want to establish ourselves at the forefront of dispute resolution.
-    
-    a. A recent example is the Singapore Infrastructure Dispute-Management Protocol. That has been launched a few weeks ago to help parties involved in mega infrastructure projects to manage the differences and the disputes moving forward. The new protocol has already attracted interest from parties who seek to incorporate the protocol into their projects, estimated to be worth $500 million or more. This is not a bad achievement given that it was launch only about two to three weeks ago.
+    <ol style="list-style-type: lower-alpha">
+    <li>A recent example is the Singapore Infrastructure Dispute-Management Protocol. That has been launched a few weeks ago to help parties involved in mega infrastructure projects to manage the differences and the disputes moving forward. The new protocol has already attracted interest from parties who seek to incorporate the protocol into their projects, estimated to be worth $500 million or more. This is not a bad achievement given that it was launch only about two to three weeks ago.</li>
+    </ol>
 
 
 
 11. I’m equally pleased to see that SIArb has taken on the role of developing thought leadership seriously.
-    
-    a. Some of the examples include the Commercial Arbitration Symposium tomorrow. I am told that you have a very stellar cast of ladies who will be leading in many of the discussions. Dinesh told me that it is very progressive and I think that’s probably true.
-    
-    b. Professor Khory McCormick is speaking to all of you as well next week and I think you are also embarking on collaborations with SCMA.
-    
-    c. I agree with Dinesh that the efforts on the Singapore Arbitration Journal, which will be launched in 2019 next year, together with your strong group of editors, sub-editors, assistant editors, really make for an advancement in thought leadership. I think it gives players in this ecosystem - whether it is counsel or arbitrators - a platform to showcase knowledge and thought leadership on what can be done and also to give guidance on key issues in the arbitral space across the region.</li>
+    <ol style="list-style-type: lower-alpha">
+    <li>  Some of the examples include the Commercial Arbitration Symposium tomorrow. I am told that you have a very stellar cast of ladies who will be leading in many of the discussions. Dinesh told me that it is very progressive and I think that’s probably true.</li>
+    <li>Professor Khory McCormick is speaking to all of you as well next week and I think you are also embarking on collaborations with SCMA.</li>
+    <li>  I agree with Dinesh that the efforts on the Singapore Arbitration Journal, which will be launched in 2019 next year, together with your strong group of editors, sub-editors, assistant editors, really make for an advancement in thought leadership. I think it gives players in this ecosystem - whether it is counsel or arbitrators - a platform to showcase knowledge and thought leadership on what can be done and also to give guidance on key issues in the arbitral space across the region.</li>
+    </ol> 
 
 
 12. All of this is, of course, work in progress. Some are more advanced than others but at MinLaw and the rest of the Government, we remain committed to working with the industry and stakeholders to grow this space.
@@ -144,21 +146,21 @@ Ladies and Gentlemen
 
 
 29. What else has happened? The SIAC has signed MOUs with arbitral institutions of Shenzhen and Xi’an as well. These are two key nodes of the BRI dispute resolution forums. Those were done in August and September of this year.
-
-    a. In October, SIAC signed an MOU with the China International Economic and Trade Arbitration Commission (CIETAC) to work on a cross-institution consolidation protocol to improve the efficiency and efficacy of arbitration for complex commercial disputes.
-    
-    b. In the mediation space, SIMC have MOUs with the China Council for Promotion of International Trade (CCPIT) and the Hangzhou Arbitration Commission which allow it to reach out to more Chinese parties.
-    
-    c. SIMC will also sign an MOU with CCPIT to set up a BRI Mediators Panel.
-    
-    d. To strengthen bilateral litigation and judicial cooperation, our Chief Justice Sundaresh Menon also co-chairs an annual roundtable with the Chinese PRC Chief Justice Zhou Qiang. Both Courts agreed to set up a Working Group to further look into and develop an infrastructure to support BRI disputes.
+    <ol style="list-style-type: lower-alpha">
+    <li>In October, SIAC signed an MOU with the China International Economic and Trade Arbitration Commission (CIETAC) to work on a cross-institution consolidation protocol to improve the efficiency and efficacy of arbitration for complex commercial disputes.</li>
+    <li> In the mediation space, SIMC have MOUs with the China Council for Promotion of International Trade (CCPIT) and the Hangzhou Arbitration Commission which allow it to reach out to more Chinese parties.</li>
+    <li>  SIMC will also sign an MOU with CCPIT to set up a BRI Mediators Panel.</li>
+    <li> To strengthen bilateral litigation and judicial cooperation, our Chief Justice Sundaresh Menon also co-chairs an annual roundtable with the Chinese PRC Chief Justice Zhou Qiang. Both Courts agreed to set up a Working Group to further look into and develop an infrastructure to support BRI disputes.</li>
+    </ol>
+   
 
 
 
 
 30. Next week, MinLaw will be hosting a delegation from Shaanxi, China.
-    
-    a. A delegation of 24 lawyers, comprising senior lawyers –managing partners, partners, associates - will be on a one-month attachment programme in Singapore. They chose Singapore partly because the strong degree of cooperation that we have expressed an interest in and to develop the stronger bilateral ties we have with the Chinese. The Shaanxi lawyers will be attached to Singapore firms (some of you are here this evening), during which they will have the chance to network with Singapore lawyers to understand how work is done here. For the Singapore lawyers, it will allow them to engage with the Shaanxi counterparts to broaden and deepen those relations.
+    <ol style="list-style-type: lower-alpha">
+    <li>A delegation of 24 lawyers, comprising senior lawyers –managing partners, partners, associates - will be on a one-month attachment programme in Singapore. They chose Singapore partly because the strong degree of cooperation that we have expressed an interest in and to develop the stronger bilateral ties we have with the Chinese. The Shaanxi lawyers will be attached to Singapore firms (some of you are here this evening), during which they will have the chance to network with Singapore lawyers to understand how work is done here. For the Singapore lawyers, it will allow them to engage with the Shaanxi counterparts to broaden and deepen those relations.</li>
+    </ol>
 
 
 31. Ultimately, whilst we do all these, the opportunities must be seized by the individuals. They have to do that on a personal basis. Many of us here, as practitioners, know that it is the building of those personal ties, those relations, the trust, that engenders the fostering of good relations.
