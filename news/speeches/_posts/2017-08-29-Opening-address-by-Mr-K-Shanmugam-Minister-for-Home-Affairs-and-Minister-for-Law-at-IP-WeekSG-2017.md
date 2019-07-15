@@ -126,7 +126,7 @@ Ladies and gentlemen;
 
 
 <ol style="list-style-type: upper-alpha" start="2">
-<li>Strong research and talent base, with a skilled workforce</li>
+<li><u>Strong research and talent base, with a skilled workforce</u></li>
 </ol>
 
 {:start="21"}
@@ -160,7 +160,7 @@ Ladies and gentlemen;
 
 
 <ol start="3" style="list-style-type: upper-alpha">
-<li>  Network of innovative enterprises, investors and support services</li>
+ <li><u>Network of innovative enterprises, investors and support services</u></li>
 </ol>
 
 {:start="26"}
