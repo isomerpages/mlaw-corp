@@ -78,20 +78,20 @@ Ladies and gentlemen
     <li> Second, we are a signatory to the New York Convention.  As such, awards issued here are enforceable in over 150 Convention         countries.</li>
     <li> Third, our International Arbitration Act is modelled after the UNCITRAL Model Law, and we have also continuously reviewed and       revised our legislation, to ensure that it is on par with the best international practices. For instance, Singapore was one of the     first jurisdictions to provide clear legislative support for the appointment of an emergency arbitrator.
 
-    <ul>
+    <ol style="list-style-type: lower-roman">
     <li>  Traditionally, parties could only apply to the courts under UNCITRAL Model Law, which gives courts the power to order interim     relief in support of arbitration proceedings.</li>
     <li>The Emergency Arbitrator procedure was introduced as an alternative method of obtaining emergency interim relief. It allows for     a hearing and decision on a party’s urgent application for interim relief before the arbitral tribunal is constituted.</li>
     <li>The Emergency Arbitrator procedure is now widely used and offered by top arbitration institutions including the SIAC, the           ICC<sup>[4]</sup>, and the ICDR<sup>[5]</sup>.</li>
-    </ul>
+    </ol>
 
     </li>
     <li>Fourth, our Courts are pro-arbitration.  They have consistently supported and adopted the principle of the finality of arbitral     awards with minimal intervention, except within the very clearly defined, internationally accepted rubric.</li>
     <li>Fifth, we set up Maxwell Chambers, the world’s first integrated dispute resolution complex.
 
-    <ul>
+    <ol style="list-style-type: lower-roman">
     <li>  It houses state-of-the-art hearing facilities and a full suite of support services, including video conferencing, long term       document storage and a private space lounge space for arbitrators.</li>
     <li>  Today, it is also a sought after venue for many international dispute resolution institutions around the world. In fact, to       meet the rising demand for space, Maxwell Chambers will soon be expanding to triple its current size.  Service offerings to users       and tenants will also be upgraded.</li>
-    </ul>
+    </ol>
 
     </li>
 
