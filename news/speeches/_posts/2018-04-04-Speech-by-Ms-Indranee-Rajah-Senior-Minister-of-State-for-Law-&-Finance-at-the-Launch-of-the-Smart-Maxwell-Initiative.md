@@ -69,12 +69,10 @@ Ladies and gentlemen
     <li>Convenient access to secretariat services such as printing;</li>
     <li>Of course, easy ordering of food, as and when, as fuel for mind and body; </li>
     <li>And there will be an introduction to the surrounding area for all that it has to offer in terms of
-    <br>
     food options, culture and heritage, when you have to take an hour or two to take a short walk around
-    <br>
-    to clear your mind;</li><li>
+    to clear your mind;</li>
+    <li>
     Last but perhaps most importantly, is the ability to get good hot coffee! Given the many late nights
-    <br>
     and long hearings that dispute resolution entails having good coffee on hand is a must.
     </li>
     </ol>
