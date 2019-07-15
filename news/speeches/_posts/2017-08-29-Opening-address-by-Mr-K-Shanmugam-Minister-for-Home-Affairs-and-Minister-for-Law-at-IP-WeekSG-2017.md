@@ -224,7 +224,7 @@ Ladies and gentlemen;
 35. They are a well-deserved winner of the WIPO IP Enterprise Trophy, and the IPOS Award for IP Champions. We congratulate them.
 
 
-<ol start="5">
+<ol start="5" style="list-style-type: upper-roman">
 <li><u>CONCLUDING REMARKS</u></li>
 </ol>
 
