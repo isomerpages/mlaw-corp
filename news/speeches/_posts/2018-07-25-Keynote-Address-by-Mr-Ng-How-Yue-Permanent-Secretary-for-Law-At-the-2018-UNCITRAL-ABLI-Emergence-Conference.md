@@ -94,7 +94,7 @@ Ladies and Gentlemen
     <li>Third, on re-structuring and insolvency – for businesses that have run into financial trouble.</li>
     </ol>
 
-    *Contacts*
+    *Contracts*
 
 17. On contracts: Businesses may face uncertainty as to how the law will determine what contractual rights and obligations they have. Singapore has used legal convergence to give businesses greater clarity about what rules govern their cross-border contracts, both offline and online.
 
