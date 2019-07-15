@@ -122,7 +122,7 @@ Good morning.
 
 
 24. These three technologies affect what I call the ring-fences for legal services.
-    <ul>
+    <ul style="list-style-type: none">
     <li>First, there is a jurisdiction ringfence – to reserve the practice of law here to lawyers based here. The Internet threatens to     breach this ringfence.</li>
     <li>Second, we ringfence the practice of law to humans. AI threatens this.</li>
     <li>Third, the rule of law, as in using the law to enforce trust in transactions. Blockchain threatens this role.</li>
