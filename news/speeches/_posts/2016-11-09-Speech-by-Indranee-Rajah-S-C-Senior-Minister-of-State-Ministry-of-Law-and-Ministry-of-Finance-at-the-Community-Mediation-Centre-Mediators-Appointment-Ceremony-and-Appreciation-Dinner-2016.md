@@ -67,7 +67,7 @@ Distinguished guests, mediators and friends
 ---
 
 
-
+{:start="12"}
 12. There is one for Mr Gan Ong Peng and Mr Ganesan as well. This person said:
 
 ---
@@ -77,109 +77,109 @@ Distinguished guests, mediators and friends
 ---
 
 
-
-13.    Such compliments are a testament to your professionalism and ability to help affected parties mediate their disputes.
-
- 
-
-
-14.    In line with the CMC’s commitment to build the competencies of our mediators to help them better handle the increasingly complex cases, our mediators are encouraged to hone their skills as part of their lifelong learning journey.
+{:start="13"}
+13. Such compliments are a testament to your professionalism and ability to help affected parties mediate their disputes.
 
  
 
+{:start="14"}
+14. In line with the CMC’s commitment to build the competencies of our mediators to help them better handle the increasingly complex cases, our mediators are encouraged to hone their skills as part of their lifelong learning journey.
+
+ 
+{:start="15"}
 15. To this end, eligible mediators have been co-sponsored for relevant mediation-related courses since 2013. One such programme is the one and a half year Certificate in Law for Community Mediators programme offered by Temasek Polytechnic. This year, our third cohort of five mediators are being co-sponsored for this programme, which is conducted on a part-time basis. I understand that classes commenced earlier this year. I commend you for your interest to pursue lifelong learning and upgrade your skills.
 
  
 
-
+{:start="16"}
 16. I would also like to take this opportunity to thank our partners from Temasek Polytechnic, Carol and her team who are here with us tonight, for working with the CMC to facilitate this programme.
 
  
 
-
+{:start="17"}
 17. Besides training programmes, the CMC also organises regular ‘Community of Practices’, or COP, sessions for our mediators such as the Mediators’ Retreat and Quarterly Sharing Sessions. These COP sessions not only allow our mediators to share best practices with one another, but also enhance bonding.
     
     **Collaboration with State Courts’ Community Justice and Tribunals Division: Use of video conferencing to conduct Pre-Trial Conference**
 
 
-
+{:start="18"}
 18. Following the implementation of the Community Disputes Resolution Tribunals in October 2015, I am pleased to announce that the CMC was able to successfully resolve about fifty percent of the cases that they received from the Tribunals.
 
  
 
-
+{:start="19"}
 19. The cases that were referred by the Tribunals were acrimonious in nature. Kudos to our 26 Tribunal Mediators who exhibited patience and perseverance in guiding the hostile parties towards peaceful resolutions.
 
  
 
-
+{:start="20"}
 20. The CMC also works closely with the Community Justice and Tribunals Division from State Courts to review workflow process and make improvements where necessary to increase service efficiency for members of the public.
 
  
 
-
+{:start="21"}
 21. For instance, in July this year, we implemented the use of video conferencing to conduct Pre-Trial Conference. With the use of technology, a Tribunal Judge can give directions to parties who are unable to settle at the CMC, soon after a mediation ends. Without the aid of such technology, parties would have to wait for three working days to appear in person before the Tribunal Judge for further directions on the case. So here, waiting time has been reduced from three days to one hour.
 
  
 
-
+{:start="22"}
 22. I would like to express my appreciation to our partners from the State Courts, particularly to District Judge Samuel Chua, who has been key to our partnership. Thank you DJ Chua and team.
     
     **Updates on outreach and partnership efforts to promote self-help conflict management and prevention**
 
 
-
+{:start="23"}
 23. The CMC advocates mediation as a friendlier approach for parties to resolve their conflicts than going to Court. We believe that everyone can play a part in preventing conflicts from escalating by learning how to manage our own conflicts in a better way.
 
  
 
-
+{:start="24"}
 24. Since last year, the CMC has been promoting the 5-step “FOCUS” tips as a self-help approach to manage our conflicts at the first instance. We hope that over time, it will encourage a culture of mediation in the community.
 
  
 
-
+{:start="25"}
 25. “The ME in MEdiation”, is the chosen theme for our new set of collaterals. The “ME” highlighted in “MEdiation” aims to convey how important the individual is in the eventual outcome of a conflict and the relationship between the disputing parties. More often than not, the most effective solutions are derived when the individuals take ownership of their issues, adopt an open mindset to collaborate with one another and work out amicable solutions that are win-win for all.
 
  
 
-
+{:start="26"}
 26. In reaching out to the community, the CMC works closely with its partners by participating in their community events and exploring possible collaboration to heighten the awareness of our mediation services as well as to promote the FOCUS tips for self-help conflict management.
 
  
 
-
+{:start="27"}
 27. Since January this year, the CMC has participated in more than 15 events organised by our partners such as the Housing and Development Board (“HDB”) and People’s Association (“PA”). These events provided opportunities for the CMC to interact and distribute our new collaterals to the residents, and share the benefits of mediation as well as encourage self-help conflict management. We also stage community skits that enact a typical neighbour dispute scene and demonstrate how FOCUS is applied to convey the message in a light-hearted manner.
 
  
 
-
+{:start="28"}
 28. To further spread such messages to youths, the CMC has been working with the Ministry of Education’s Guidance Branch (“MOE”) and the Singapore Kindness Movement (“SKM”). For a start, the CMC is currently working with MOE to promote the use of FOCUS tips for students to resolve their relational conflicts in schools.
 
  
 
-
+{:start="29"}
 29. In addition, our grassroots leaders who walk the ground, act as our eyes, ears and hands. They are usually the first responders on the ground, they can be peacemakers and make a difference to prevent a conflict from escalating.
 
  
 
-
+{:start="30"}
 30. Over the last two years, the CMC has trained close to 500 grassroots leaders with basic mediation skills through a programme conducted by CMC’s advisor, Dr Lim Lan Yuan. I hope that the grassroots leaders have found the training useful, where the skills learnt will help nip conflicts in the bud to create a more harmonious community. The CMC will continue to partner PA so that more grassroots leaders can be trained.
 
  
 
-
+{:start="31"}
 31. We appreciate our community partners for the valued partnership in working together with us in our outreach efforts. Special thanks to Chay Yean and her team from HDB, Juay Hong, Suzana, Mark, and their teams from PA. We would also like to express our heartfelt thanks to Dennis, William and their teams from MOE and SKM respectively, as the CMC’s new partners to reach out to the youths.
     
     **Conclusion**
 
 
-
+{:start="32"}
 32. In conclusion, let me say that it is my great pleasure to be here tonight and I would like to pay tribute to all the mediators present. Congratulations to the 14 new mediators who are appointed to the panel and to the 17 mediators who are promoted, re-appointed and receiving their awards. Keep up the good work!
 
  
 
-
+{:start="33"}
 33. Thank you and please enjoy the evening.
 
 
