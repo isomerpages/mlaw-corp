@@ -143,7 +143,7 @@ Distinguished guests, ladies and gentlemen
 <ol start="17">
 <li> To ensure that Singapore has the capabilities to support the needs of infrastructure players, we have developed courses to help professionals build or deepen their expertise in infrastructure.
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li> If you are a lawyer thinking of moving into the infrastructure space, NUS Law will be introducing a                               new course – the Project Finance Academy. The course is a practical “hands-on” workshop that will                           take you through the main legal considerations in structuring project finance transactions. The first                             run will take place in November this year.</li>
 <li> If you already have some infrastructure knowledge but would like to deepen your expertise and                                   mingle with other players in the space, you can consider signing up for the Asia Leaders                                             Programme in Infrastructure Excellence or ALPINE. This course is organised by SMU and is open                             to all players in the infrastructure space. It brings together leaders to share and gain an                                               understanding of one another’s perspectives and objectives.</li>
 </ol>
