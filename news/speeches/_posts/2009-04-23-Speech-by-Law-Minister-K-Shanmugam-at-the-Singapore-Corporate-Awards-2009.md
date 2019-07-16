@@ -92,17 +92,16 @@ collection_name: news
     <li>Boards - The Chairmen, Audit Committees, Independent Directors and top management all play crucial roles.  Much will in             particular be expected of independent directors.  They cannot simply make up the numbers. </li>
     <li> Professional groups representing accountants, auditors, lawyers and business consultants will need to play an active role in       setting standards and promulgating best practices for the business they are advising. </li>
     </ol>
-    </li>  
-    </ol>
+
 
 21. It will certainly be interesting in the corporate world, but thankfully, (and hopefully) not as interesting as the past year.
 
 
 22. Let me end with a somewhat amusing diversion - it has little to do with Corporate Governance but throws an unusual light on how loansharks and bankers are viewed and is reflective of the times we live in.  There was an article in The New Paper today on loansharks.  It carried the view of two Grassroots leaders.  I will read a summary that I received on the article:
     <ol style="list-style-type: none">
-    <li>"Francis Han felt that loan sharks "help people on the spot, "don't check your background" or "ask for a guarantor", and that this was "fantastic". An analogy was drawn between how loansharks could be legalised, as prostitutes were.</li>
-    <li>On the government's suggestion to make it a criminal offence to borrow from loansharks, Henry Ling believed that legalising loansharks would create more flexibility in the system.   He asked how different a licensed loanshark would be from the 172 legal moneylenders here.</li>
-    <li>[Punch line] There was only "a small difference between a bank and a loanshark", Han added, as sticking notices and taking away defaulters' stuff could be a form of harassment too."</li>
+    <li><i>"Francis Han felt that loan sharks "help people on the spot, "don't check your background" or "ask for a guarantor", and that this was "fantastic". An analogy was drawn between how loansharks could be legalised, as prostitutes were.</i></li>
+    <li><i>On the government's suggestion to make it a criminal offence to borrow from loansharks, Henry Ling believed that legalising loansharks would create more flexibility in the system.   He asked how different a licensed loanshark would be from the 172 legal moneylenders here.</i></li>
+    <li><i>[Punch line] There was only "a small difference between a bank and a loanshark", Han added, as sticking notices and taking away defaulters' stuff could be a form of harassment too."</i></li>
     </ol>
     
 
