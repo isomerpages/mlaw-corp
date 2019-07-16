@@ -9,13 +9,13 @@ collection_name: news
 29 Jun 2018 Posted in [Speeches](/news/speeches)
 
 Mr Gregory Vijayendran, President of The Law Society of Singapore  
-<br>
+
 Mr James Lee, Chairman, ACCA Singapore  
-<br>
+
 Mr Reuter Chua, Head of ACCA, Singapore  
-<br>
+
 My Chaly Mah, Chairman of SAC  
-<br>
+
 Distinguished guests, ladies and gentlemen
 
 <ol style="list-style-type: upper-alpha; font-weight: bold;">
@@ -129,8 +129,8 @@ Distinguished guests, ladies and gentlemen
 
 
 <ol style="list-style-type: lower-alpha">
-<li>  the accounting firms with project advisory teams;</li>
-<li>  the local and international law firms with project financing and infrastructure dispute resolution expertise; and</li>                                     expertise; and</li>
+<li>the accounting firms with project advisory teams;</li>
+<li>the local and international law firms with project financing and infrastructure dispute resolution expertise; and</li>              
 <li> other professional services companies such as engineering consultancies and architecture firms.</li>
 </ol>
 
