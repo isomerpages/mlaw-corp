@@ -10,11 +10,11 @@ collection_name: news
 27 Oct 2016 Posted in [Speeches](/new/speeches)
 
 Mr Chan Leng Sun, S.C., SIArb President,
-<br>  
+ 
 Distinguished guests,
-<br>  
+
 Ladies and Gentlemen.
-<br>  
+
 
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
@@ -54,7 +54,7 @@ Ladies and Gentlemen.
 4. SIArb’s growth is in tandem with the growth of the International Arbitration ecosystem in Singapore.
 
 <ol start="5">
-<li>Singapore has been<u>successful at building itself as an arbitration hub</u>.
+<li>Singapore has been <u>successful at building itself as an arbitration hub</u>.
 
 <ul>
 <li>It ranks among the world’s top seats for arbitration, alongside London, Paris, Geneva, and Hong Kong.</li>
