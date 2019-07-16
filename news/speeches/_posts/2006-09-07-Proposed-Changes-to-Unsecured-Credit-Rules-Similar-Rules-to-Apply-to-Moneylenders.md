@@ -7,12 +7,12 @@ collection_name: news
 ---
 
 7 Sep 2006 Posted in [Speeches](/news/speeches)
-<br>    
+ 
 **The Monetary Authority of Singapore and Ministry of Law would like to thank everyone who responded to the Joint Consultation on Unsecured Credit Rules that was held from 7 Aug to 7 Sep 2006. The feedback from the respondents would be taken into consideration in the policy formulation.**
-<br>  
+
 **We thank you for your participation.**
-<br>  
-**Ministry of Law**  
+
+**Ministry of Law**    
 **7 Sept 2006**
 
 
@@ -43,7 +43,7 @@ The key recommendations in the Consultation Paper include:
 5. MAS and the Ministry of Law invite interested parties to give their views and comments on the proposals contained in the Consultation Paper. Electronic submissions are encouraged.
 
 {:start="6"}
-6. A copy of the Consultation Paper is available by clicking here. Please submit your written comments by [7 September 2006] to:
+6. Please submit your written comments by [7 September 2006] to:
 
 Prudential Policy Department  
 Monetary Authority of Singapore  
