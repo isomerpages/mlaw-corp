@@ -183,34 +183,29 @@ Distinguished guests, ladies and gentlemen
 
 <ol start="29">
 <li>There are several simultaneous efforts taking place. I will share a few examples:
-<ol style="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha;">
 <li>We worked closely with the Law Society on Lawyers Go Global, and then IE Singapore. We launched this in February 2018 to help lawyers expand their networks and promote the Singapore Lawyer brand overseas.
 <ul>
-<li>Singapore lawyers have under this umbrella programme, been to places like Sri Lanka, China, Japan &ndash; markets that we see opportunities in, to not just raise awareness of Singapore as a jurisdiction, but to also enhance people-to-people relationships that lawyers have with people in those jurisdictions.
+<li>Singapore lawyers have under this umbrella programme, been to places like Sri Lanka, China, Japan &ndash; markets that we see opportunities in, to not just raise awareness of Singapore as a jurisdiction, but to also enhance people-to-people relationships that lawyers have with people in those jurisdictions.</li>
+</ul>
+</li>
+<li>Engaging key legal markets. As I had mentioned, China is one of them. With their growing Belt and Road Initiative (BRI) initiatives, this will become a great opportunity. The entirety of projects lined up in the BRI scheme is valued upwards of US$4 trillion. With many jurisdictions viewing us favourably as a neutral ground where they can resolve their disputes, we do stand a good chance of capturing this BRI work and we are working on that. What do we have? A strong rule of law, a progressive system that is neutral and fair, trusted and familiar. These are all ingredients that we can continue to hold up as investors come into China, India and the rest of ASEAN. We can offer ourselves as services relying on these values and bringing work into Singapore.
 <ul>
-<li>Engaging key legal markets. As I had mentioned, China is one of them. With their growing Belt and Road Initiative (BRI) initiatives, this will become a great opportunity. The entirety of projects lined up in the BRI scheme is valued upwards of US$4 trillion. With many jurisdictions viewing us favourably as a neutral ground where they can resolve their disputes, we do stand a good chance of capturing this BRI work and we are working on that. What do we have? A strong rule of law, a progressive system that is neutral and fair, trusted and familiar. These are all ingredients that we can continue to hold up as investors come into China, India and the rest of ASEAN. We can offer ourselves as services relying on these values and bringing work into Singapore.</li>
-</ul>
-</li>
-</ul>
-</li>
 <li>To that end, we have established Infrastructure Asia, an agency which provides a platform for information exchange on infrastructure opportunities, to facilitate infrastructure investments and financing, and also enables the relevant players in the region, including law firms, to access these opportunities.</li>
-<li>Second, we also launched the Singapore Infrastructure Dispute-Management Protocol (SIDP). Why SIDP at this point in time? It is a useful regime to have when big projects are being undertaken in China, in India, and aligned with our efforts on mediation. As Greg mentioned, we are signing the UN Convention later this year. The SIDP allows large investors to come into investments safe in the knowledge that should there be a conflict, there is a suite of options available. Mediation is one of the options where they can find a win-win solution and not have their big project derailed. The protocol has attracted interest from parties keen to incorporate it into their projects, and so far since we started, these have been estimated to be worth S$500 million or more. The seeds have been planted and we do want Singapore lawyers to take advantage of this.
-<ul>
+<li>Second, we also launched the Singapore Infrastructure Dispute-Management Protocol (SIDP). Why SIDP at this point in time? It is a useful regime to have when big projects are being undertaken in China, in India, and aligned with our efforts on mediation. As Greg mentioned, we are signing the UN Convention later this year. The SIDP allows large investors to come into investments safe in the knowledge that should there be a conflict, there is a suite of options available. Mediation is one of the options where they can find a win-win solution and not have their big project derailed. The protocol has attracted interest from parties keen to incorporate it into their projects, and so far since we started, these have been estimated to be worth S$500 million or more. The seeds have been planted and we do want Singapore lawyers to take advantage of this.</li>
+</ul>
+</li>
 <li>In the last couple of years, we have updated our laws on several key fronts. We have looked at how we can enhance Singapore as an IP Hub, we have look at how Singapore is best positioned to handle large, big-scale, complex, restructuring matters, and we will continue to grow that.</li>
-<li>We have set ourselves up as an international dispute resolution hub, and I really don&rsquo;t need to mention the growth of SIAC, SIMC and SICC. Together, they give a third party investing in other parts of Asia the best possible range of options for dispute resolution. We continue to ensure that thought leadership is located in Singapore, and continues to thrive.</li>
-</ul>
-</li>
-<li>We have had the International Court of Arbitration of the International Chamber of Commerce set up a case management office here while the Permanent Court of Arbitration established its first office in Asia here in Singapore. Most recently, about two weeks ago, you would have heard that INSOL located its first office outside of London in Singapore. We continue to attract talent, to attract thought leadership into Singapore, to make Singapore vibrant and always in people&rsquo;s minds when they think of a good, first-class, dispute resolution centre.
+<li>We have set ourselves up as an international dispute resolution hub, and I really don&rsquo;t need to mention the growth of SIAC, SIMC and SICC. Together, they give a third party investing in other parts of Asia the best possible range of options for dispute resolution. We continue to ensure that thought leadership is located in Singapore, and continues to thrive.
 <ul>
-<li>To complement these efforts, we have invested heavily in the expansion and upgrading of Maxwell Chambers to ensure that we have sufficient facilities to accommodate our growing dispute resolution sector.</li>
+<li>We have had the International Court of Arbitration of the International Chamber of Commerce set up a case management office here while the Permanent Court of Arbitration established its first office in Asia here in Singapore. Most recently, about two weeks ago, you would have heard that INSOL located its first office outside of London in Singapore. We continue to attract talent, to attract thought leadership into Singapore, to make Singapore vibrant and always in people&rsquo;s minds when they think of a good, first-class, dispute resolution centre.</li>
 </ul>
 </li>
+<li>To complement these efforts, we have invested heavily in the expansion and upgrading of Maxwell Chambers to ensure that we have sufficient facilities to accommodate our growing dispute resolution sector.</li>
+<li style="list-style-type: none;">The opportunities for legal work will be immense, if you are willing to step out of your comfort zones.</li>
 </ol>
 </li>
 </ol>
-
-
-The opportunities for legal work will be immense, if you are willing to step out of your comfort zones.
 
 <ol start="5" style="list-style-type: upper-alpha">
  <li><u>To the young lawyer</u></li> 
