@@ -8,7 +8,7 @@ collection_name: news
 
 11 Sep 2007 Posted in [Speeches](/news/speeches)
 
-![speech-by-dpm-prof-s-jayakumar]()
+
 <img src="/images/news/speeches/1399988696849.jpg" alt="speech-by-dpm-prof-s-jayakumar" style="width:400px;height:268px;"> 
 
 *Deputy Prime Minister and Minister for Law Prof S Jayakumar and and the Secretary General of the Permanent Court of Arbitration (PCA) Mr Tjaco Van den Hout have signed an Agreement to establish a facility of the PCA in Singapore.*
