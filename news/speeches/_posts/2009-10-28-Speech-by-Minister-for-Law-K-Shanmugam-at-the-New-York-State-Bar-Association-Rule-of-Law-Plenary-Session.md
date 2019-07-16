@@ -7,19 +7,19 @@ collection_name: news
 ---
 
 28 Oct 2009 Posted in [Speeches](/news/speeches)
-<br>  
+
 Mr Michael Getnick, President of the New York State Bar Association,
-<br>  
+ 
 Mr Michael Galligan, Chairman of the International Section of the New York State Bar Association,
-<br>  
+ 
 Mr James Duffy III , Chair of today's Plenary,
-<br>  
+
 Mr M N Krishnamani, President of the Supreme Court of India Bar Association, and
-<br>  
+
 Mr James Silkenat, of the World Justice Project, both members of today's Plenary panel,
-<br>  
+
 Distinguished delegates,
-<br>  
+ 
 Ladies and gentlemen.
 
 
@@ -279,13 +279,16 @@ Ladies and gentlemen.
 {:start="53"}
 53. Achieving stability for us thus had many facets. I will share with you two.
 
-
 <ol start="54">
+<li> The first is on Executive Power:  
+<ol> 
 <li>The Executive to be effective. For that, it has to have power to act.  Your system is based on strong checks and balances. Philosophically, our approach is slightly different:</li>
 <li>The Government must get its mandate from the people regularly. </li>
 <li> Once elected, it must be able to conceptualise and implement its policies, with Parliamentary approval and oversight. Street protests, lobbying, and so on is not an integral part of our system. </li>
 <li> Government action has to be effective, efficient and speedy. </li>
 </ol>
+</li>
+</ol> 
 
 {:start="55"}
 55. For us, it is important to move quickly, to respond to the external environment. For you, it is slightly different: you have largely expected the world to react to you and largely that has been the case. We will move ourselves into irrelevancy if we took that approach. We see ourselves as a skiff in the ocean. You are a supertanker. Different reactions are needed from both, towards external and internal challenges.
