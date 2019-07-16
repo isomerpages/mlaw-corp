@@ -123,7 +123,7 @@ Distinguished guests, ladies and gentlemen
 <ol start="21">
 <li>Next, globalisation.  With the rise of globalisation:
 
-<ol start="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Legal services can now be outsourced to lower cost jurisdictions for a fraction of the amount it would cost to instruct Singapore lawyers; </li>
 <li>There is growing competition for legal work; and </li>
 <li>Increasingly savvy clients who will demand more choice, more transparency, and you will face more competition and price pressures as well.</li>
