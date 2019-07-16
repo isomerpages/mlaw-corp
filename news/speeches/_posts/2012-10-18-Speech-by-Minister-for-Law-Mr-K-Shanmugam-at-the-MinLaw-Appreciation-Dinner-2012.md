@@ -8,7 +8,7 @@ collection_name: news
 
 18 Oct 2012 Posted in [Speeches](/news/speeches)
 
-<u>INTRODUCTION </u>
+**<u>INTRODUCTION</u>**
 
 1. Attorney-General, friends, good evening.
  
