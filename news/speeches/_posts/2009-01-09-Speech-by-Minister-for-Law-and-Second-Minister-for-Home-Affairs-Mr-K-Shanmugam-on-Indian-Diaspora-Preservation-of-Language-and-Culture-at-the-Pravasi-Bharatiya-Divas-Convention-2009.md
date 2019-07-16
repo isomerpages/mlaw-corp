@@ -76,7 +76,7 @@ collection_name: news
     <li>Culture preserved through parental and governmental efforts </li>
     <li>But on a long term basis: unsustainable </li>
     </ul>
-    </li>
+
 
 
 
@@ -112,7 +112,7 @@ collection_name: news
 
 15. So what can India do? I will share with you three thoughts.
     
-    <ol start="list-style-type: upper-alpha">
+    <ol style="list-style-type: upper-alpha">
     <li> Economy </li>
     </ol>
 
