@@ -9,17 +9,17 @@ collection_name: news
 19 Jun 2017 Posted in [Speeches](/news/speeches)
 
 Mr Alan Chan, CEO, and
-<br>  
+
 Mr Patrick Daniel, Deputy CEO, Singapore Press Holdings,
-<br>  
+  
 Mr Warren Fernandez, Editor-in-Chief of the English/Malay/Tamil Media Group, and Editor, The Straits Times,
-<br>  
+
 Mr Gilles Demptos, Director, Asia, World Association of Newspapers and News Publishers,
-<br>  
+ 
 Professor Arnoud de Meyer, President, Singapore Management University,
-<br>  
+ 
 Friends,
-<br>  
+
 Ladies and gentlemen,
 
 <ol style="list-style-type: upper-roman;font-weight:bold;">
@@ -502,7 +502,7 @@ Ladies and gentlemen,
 {:start="68"}
 68. That tells you the nature and extent of the problem. News underpins how a society functions. This is a serious problem.
 
-<ol start="5" style="list-style-type: upper-roman">
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold">
 <li>WHAT SHOULD WE DO ABOUT IT?</li>
 </ol>
 
