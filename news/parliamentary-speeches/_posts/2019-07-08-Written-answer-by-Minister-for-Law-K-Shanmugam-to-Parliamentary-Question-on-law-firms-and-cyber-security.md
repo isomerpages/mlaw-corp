@@ -33,16 +33,16 @@ To ask the Minister for Law in light of scammers targeting law firms and imperso
 
 Note(s):
 
-<sup>1</sup> https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Information-on-Email-Scams
+<sup>1</sup> [https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Information-on-Email-Scams](https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Information-on-Email-Scams)
  
 <sup>2</sup> Rules 35(4) to (6), Legal Profession (Professional Conduct) Rules 2015
  
-<sup>3</sup> https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Practice-Support/Practice-Management-Resources
+<sup>3</sup> [https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Practice-Support/Practice-Management-Resources]( https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Practice-Support/Practice-Management-Resources)
  
-<sup>4</sup> https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Guidance-on-Porfessional-and-Practice-Issues
+<sup>4</sup> [https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Guidance-on-Porfessional-and-Practice-Issues](https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Guidance-on-Porfessional-and-Practice-Issues)
  
-<sup>5</sup> https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Advisories
+<sup>5</sup> [https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Advisories](https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Advisories)
  
-<sup>6</sup> https://www.ibanet.org/LPRU/cybersecurity-guidelines.aspx 
+<sup>6</sup> [https://www.ibanet.org/LPRU/cybersecurity-guidelines.aspx](https://www.ibanet.org/LPRU/cybersecurity-guidelines.aspx ) 
 
 <p class="right-side-updated">Last updated on 10 Jul 2019</p> 
