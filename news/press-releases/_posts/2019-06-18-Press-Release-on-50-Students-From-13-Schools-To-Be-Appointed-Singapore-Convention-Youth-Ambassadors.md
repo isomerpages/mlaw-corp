@@ -14,8 +14,8 @@ permalink: /news/press-releases/Press-Release-50-students-from-13-schools-to-be-
  3. In December 2018, the United Nations General Assembly adopted the United Nations Convention on International Settlement Agreements Resulting from Mediation and authorised the naming of the Convention after Singapore and for the signing ceremony to be held in Singapore. The Convention will be the first international treaty under the auspices of the United Nations (UN) to be named after Singapore. This is expected to boost Singapore’s position as an international dispute resolution hub and reinforce our reputation as a trusted, neutral jurisdiction with strong rule of law.
  
  4. The Singapore Convention Youth Involvement Programme is part of the Singapore Convention signing ceremony and conference co-organised by MinLaw and the United Nations Commission On International Trade Law (UNCITRAL) which will take place on 7 August 2019. The conference is expected to attract over 700 delegates from around the world, including overseas ministers, senior UN and UNCITRAL officials, Presidents of Bar Associations, Chair-persons and Board Members of dispute resolution institutions, Managing Partners of law firms and C-suites of multinational corporations. The delegates will also be invited to participate in a series of related conferences as part of the Singapore Convention Week stretching from 3 to 9 August, and to join Singaporeans in celebrating Singapore’s 54th National Day and marking our bicentennial year.
-
-**Singapore Convention Youth Involvement Programme**
+    
+    **Singapore Convention Youth Involvement Programme**
 
 
  5. As Singapore Convention Youth Ambassadors, the students will host guided tours to six places of interest in Singapore, namely The Bicentennial Experience, Maxwell Chambers, the Singapore City Gallery, Chinatown Food Street, the Singapore Botanic Gardens and the Gardens by the Bay, on 8 and 9 August after the Singapore Convention Signing Convention and Ceremony on 7 August. Each student will be matched to a small group of delegates and serve as their personal guides at these locations. They will share with their foreign guests Singapore’s history and heritage and approach to nation-building, in the areas of rule of law, urban planning and greening.
@@ -37,7 +37,7 @@ permalink: /news/press-releases/Press-Release-50-students-from-13-schools-to-be-
 
  7. Other than building up knowledge in the respective domain areas, the students will also receive basic competency training in protocol. This will help them understand the need for facilitation and be able to do this more effectively, look out for body languages and acquire sensitivity to different cultures.
     
-**Reaching Out to Other Youths through Social Media**
+    **Reaching Out to Other Youths through Social Media**
 
  8.    The Singapore Convention Youth Ambassadors will be encouraged to share with their peers through social media platforms what they have learnt about Singapore through the training programme and their personal experiences hosting international delegations. They will receive social media training in production and marketing. They will also participate in a Social Media Competition where they will produce short-form videos of their experiences and the top three videos with the most “likes” will win.
  
