@@ -51,7 +51,7 @@ permalink: /news/others/statement-on-amos-yee
 14. Yee did not comply with the order. In December 2016, Yee left Singapore the day before his reporting date for the medical examination, and sought political asylum in the US. Yee is an NS defaulter. Defaulting on one’s NS obligations is an offence in Singapore. 
 
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**  
 **19 APRIL 2017**
 
 
