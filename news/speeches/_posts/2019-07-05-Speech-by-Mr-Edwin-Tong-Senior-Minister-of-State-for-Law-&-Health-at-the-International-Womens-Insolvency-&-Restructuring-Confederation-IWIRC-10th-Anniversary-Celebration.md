@@ -160,7 +160,7 @@ permalink: /news/speeches/speech-by-sms-edwin-tong-IWIRC-10th-anniversary-celebr
 <sup>[15]</sup> Women’s International Shipping & Trading Association.  
 <sup>[16]</sup> Sheila Ng, Partner, Rajah & Tann.  
 <sup>[17]</sup> Jo Tay, Senior Associate, Allen & Gledhill.      
-<sup>[18]</sup> In *re: Agrokor DD et. al. [2018] Case No. 18-12104.  
+<sup>[18]</sup> In *re: Agrokor DD et. al. *[2018] Case No. 18-12104.  
 <sup>[19]</sup> *Pacific Andes Resources Development Ltd* [2016] SGHC 210.
 
 
