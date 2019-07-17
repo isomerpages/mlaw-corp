@@ -86,7 +86,7 @@ permalink: /news/press-releases/Press-Release-New-Measures-to-Stem-the-Increase-
 
 
 14. MOM will continue reaching out to and educating work pass holders on how they may manage their finances to reduce the need for borrowing, and to approach their employers and NGOs/VWOs for advice and help if they have genuine needs. For example, MOM recently produced a new money management booklet for foreign workers and a video to further raise awareness on the issues of borrowing. For FDWs in particular, MOM will also educate them and their employers of the new measures through the Settling-in-Programme and the Employer Orientation Programme respectively, and work with employment agencies and employers to inform FDWs of the implications of borrowing from unlicensed moneylenders.
-    <ol start="4" style="list-style-type: lower-alpha">
+    <ol start="4" style="list-style-type: lower-alpha; font-weight:bold">
     <li>Enforcement</li>
     </ol>
     
