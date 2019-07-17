@@ -27,8 +27,8 @@ permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendments-to-th
    <li> whether parties should have the option to limit or waive by agreement, the annulment grounds set forth in Section 24(b) of the IAA and Article 34(2)(a), but not to the annulment grounds in section 24(a) and Article 34(2)(b); and</li>
    <li>whether legislative amendments should be introduced to empower the court to make an order providing for costs of the arbitration following a successful application under section 24 of the IAA or article 34(2) of the Model Law to set aside an award, whether wholly or in part.</li>
    </ol>
-
-**Invitation for feedback**
+   
+   **Invitation for feedback**
 
 
 5. Interested members of the public are invited to view the public consultation paper here. Please note that the draft amendments set out in the paper have been framed with a view to giving form to the provisions currently contemplated, and will be subject to further changes following the consultation process.
