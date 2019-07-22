@@ -300,7 +300,7 @@ Distinguished speakers and panellists
 82.  We do well in international comparisons between Singapore and major cities like London, New York and Hong Kong.
 
 {:start="83"}
-83.  For example, in Singapore, the crime rate for violent crimes is 79 cases per 100,000 people [in 2012](http://www.spf.gov.sg/stats/stats2012_table1.htm), 79 out of 100,000.
+83.  For example, in Singapore, the crime rate for violent crimes is 79 cases per 100,000 people in 2012, 79 out of 100,000.
 
 {:start="84"}
 84.  In the same year, in New York, there were 1,333 similar cases per 100,000 people, 13 times that of Singapore.
