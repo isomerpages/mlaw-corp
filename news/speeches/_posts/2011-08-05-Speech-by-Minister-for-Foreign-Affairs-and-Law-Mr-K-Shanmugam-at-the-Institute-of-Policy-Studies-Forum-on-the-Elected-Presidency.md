@@ -232,7 +232,7 @@ These are <u>extremely important roles and powers</u>.
 26. Taking a step back, some have asked what the Elected President does then, if he has no powers. Actually, it is quite untrue that the President is powerless; the exercise of the powers I have mentioned are critically important if the Government is corrupt or incompetent . So far however, there has been little or no public discussion on these points.
 
 {:start="27"}
-27. It is worth noting that i n some areas, the Elected President has discretion to act; in other areas, he has to consult the Council of Presidential Advisors , and so on. The President’s direct election gives him the moral authority to exercise these important powers.
+27. It is worth noting that in some areas, the Elected President has discretion to act; in other areas, he has to consult the Council of Presidential Advisors , and so on. The President’s direct election gives him the moral authority to exercise these important powers.
 
 {:start="28"}
 28. In all other aspects, the office and powers of the President remain unchanged, and the <u>same constitutional position as before holds</u>. This was made clear in the 1988 White Paper . In the Parliamentary debates thereafter , various ministers have made clear that the changes in the President’s powers are only in the specific areas covered by the Constitutional amendments. (See **<u>Annex E</u>**.)  Articles 21(1) and 24(2) of the Constitution remain in full force – without any change. Then SM Lee put it in his own inimitable words, and said that as a lawyer, he had paid careful attention to the words of the proposed amendments to make sure that the President’s position was essentially unchanged except for the areas specifically added thorough the  1991 amendments.
