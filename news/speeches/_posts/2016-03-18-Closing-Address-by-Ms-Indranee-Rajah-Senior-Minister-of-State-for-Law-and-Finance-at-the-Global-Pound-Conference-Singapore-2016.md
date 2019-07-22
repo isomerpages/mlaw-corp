@@ -164,7 +164,7 @@ Dispute resolution practitioners,
 29. Let me just tell you a little story about community mediation. Those of us who are Members of Parliament have to deal with this all the time, and one of our community mediators came to me with this story.
 
 
-30. There were these two neighbours. I’m not sure if you’re familiar with this but for the Chinese, there is what they call the bagua that’s meant to be for protection. One neighbour decided to put it on his front door for protection. His opposite neighbour took great offence, because he was wondering why this neighbour needed to be protected from him. Obviously, relations went downhill from there.
+30. There were these two neighbours. I’m not sure if you’re familiar with this but for the Chinese, there is what they call the *bagua* that’s meant to be for protection. One neighbour decided to put it on his front door for protection. His opposite neighbour took great offence, because he was wondering why this neighbour needed to be protected from him. Obviously, relations went downhill from there.
 
 31. And so, the community mediator had to step into the picture and try to resolve this. Obviously on the one hand, you have somebody who wanted protection from his viewpoint, and the other who really didn’t want to feel that he was the evil person that needed being protected against.
 
