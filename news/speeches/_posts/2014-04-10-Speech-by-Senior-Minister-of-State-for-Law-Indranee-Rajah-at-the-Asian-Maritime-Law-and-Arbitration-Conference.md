@@ -26,11 +26,11 @@ Ladies & Gentlemen;
 
 
  3. In recent years, we have seen tremendous growth in the volume of trade, business, investment and finance into Asia:
-   <ol style="list-style-type: lower-alpha">
-   <li>Total ASEAN trade has more than tripled from US$759bn in 2000 to US$2.386 trillion in 2011. </li>
-   <li>Foreign Direct Investment (FDI) inflows into Asia have grown by nearly 30% since 2009. (It stood at about US$400 billion as of      2012. That accounted for 30% of global FDI flows in 2012). </li> 
-   <li>In 2013, FDI into the ASEAN 5 countries (namely: Indonesia, Malaysia, the Philippines, Singapore and Thailand) grew by 7%            (totalling US$ 128.4 billion) and outstripped FDI into China (US$117.6 billion) for the first time. </li> 
-   </ol>
+    <ol style="list-style-type: lower-alpha">
+    <li>Total ASEAN trade has more than tripled from US$759bn in 2000 to US$2.386 trillion in 2011. </li>
+    <li>Foreign Direct Investment (FDI) inflows into Asia have grown by nearly 30% since 2009. (It stood at about US$400 billion as of       2012. That accounted for 30% of global FDI flows in 2012). </li> 
+    <li>In 2013, FDI into the ASEAN 5 countries (namely: Indonesia, Malaysia, the Philippines, Singapore and Thailand) grew by 7%           (totalling US$ 128.4 billion) and outstripped FDI into China (US$117.6 billion) for the first time. </li> 
+    </ol>
 
 
 
