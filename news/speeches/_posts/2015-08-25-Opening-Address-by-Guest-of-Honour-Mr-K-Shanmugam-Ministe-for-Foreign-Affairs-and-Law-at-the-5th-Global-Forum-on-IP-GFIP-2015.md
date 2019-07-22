@@ -37,8 +37,7 @@ Ladies and gentlemen
     </ol>
 
 
- 3. A few weeks ago, five Singapore companies that have built strong and enduring brands  
-were honoured with the Intellectual Property Office of Singapore’s SG50 Trade Mark Awards.  
+ 3. A few weeks ago, five Singapore companies that have built strong and enduring brands were honoured with the Intellectual Property Office of Singapore’s SG50 Trade Mark Awards.  
 
 
  4. IPOS recently surveyed the industries that use IP intensively and found that, from 2011 to 2013, IP intensive industries accounted for almost half of Singapore’s GDP. That is very significant. If you look at Singapore’s GDP, we are at S$397 billion. That is the fourth largest GDP in the whole of ASEAN after Indonesia, Thailand and Malaysia.
