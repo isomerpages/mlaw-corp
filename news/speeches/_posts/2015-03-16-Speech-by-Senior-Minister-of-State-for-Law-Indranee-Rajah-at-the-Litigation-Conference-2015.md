@@ -239,7 +239,7 @@ Fellow Litigators,
 
 
 
-50. Each of these existing methods of enforcement are complemented by the deeming provisions in the Supreme Court of Judicature Act<sup     [28]</sup>, which provides that parties to an agreement to submit to the jurisdiction of the SICC shall be considered to have           agreed to:
+50. Each of these existing methods of enforcement are complemented by the deeming provisions in the Supreme Court of Judicature Act<sup>[28]</sup>, which provides that parties to an agreement to submit to the jurisdiction of the SICC shall be considered to have           agreed to:
     <ol style="list-style-type: lower-alpha">
     <li>carry out any SICC judgment without undue delay; and</li>
     <li>waive any recourse to any court or tribunal outside Singapore against any SICC judgment and the enforcement of such judgment         unless they provide otherwise.</li>
