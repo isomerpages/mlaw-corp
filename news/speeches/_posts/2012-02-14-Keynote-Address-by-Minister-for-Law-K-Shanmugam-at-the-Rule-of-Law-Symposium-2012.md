@@ -391,8 +391,10 @@ Burglary / Housebreaking
 
 <ol start="39">
 <li>Thomas Jefferson:
+<ol style="list-style-type: none;">
+<li><i>&ldquo;...laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times. We might as well require a man to wear still the coat which fitted him when a boy, as civilized society to remain ever under the regimen of their barbarous ancestors.&rdquo;</i></li>
+</ol>
 </li>
-“...laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times. We might as well require a man to wear still the coat which fitted him when a boy, as civilized society to remain ever under the regimen of their barbarous ancestors.”
 </ol>
 
 
@@ -509,7 +511,7 @@ Burglary / Housebreaking
 </li>
 </ol>
 
-<ol start="5" style="list-style-type: lower-roman; font-weight: bold;">
+<ol start="5" style="list-style-type: upper-roman; font-weight: bold;">
 <li>Conclusion</li>
 </ol>
 
