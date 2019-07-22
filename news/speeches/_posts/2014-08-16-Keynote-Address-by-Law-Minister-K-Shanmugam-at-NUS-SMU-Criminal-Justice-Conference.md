@@ -154,7 +154,8 @@ Now let me now deal with a completely different question: the increasing number 
 
 **<u>Supply of Lawyers</u>**
 
-Our economy is entering into a mature phase.  
+Our economy is entering into a mature phase. 
+
 We used to grow at 8%, 9%, 10%. People sometimes question why we need to grow. I’ll tell you why. Because each time you want better bonuses or you want new employment, unless the businesses are growing, how does the employee get better income. We are however unlikely to grow at the same rate since its independence. We are now looking at 3% - 4% and beyond 2020, perhaps 2% or even less. At the same time, because of the factors of economic growth are levelling off – factors of economic growth are population and space and raw material – all of which you know the story on Singapore.
 <br>  
 We have now 6 people working for 1 person above sixty five. For 2030, that is fourteen years from now, most of you’ll will be in your mid to late thirties, that will come down very sharply to 2 persons working for 1 person above sixty five. So you can imagine the demographic challenges, the impact on taxes, all things being equal – and all things are not equal because once you hit above sixty five, you visit the doctor more often, for those of you with parents above sixty five will know – medical costs are going to shoot up. People above sixty five, people above seventy will come to the government and say “what are you going to do to look after me”. And they have the voting power. And they will make up 40% of the population. That’s 900,000 people passing the threshold of sixty five in the next fifteen years. I don’t think our people have understand the economic and existential issues that will come from that.
