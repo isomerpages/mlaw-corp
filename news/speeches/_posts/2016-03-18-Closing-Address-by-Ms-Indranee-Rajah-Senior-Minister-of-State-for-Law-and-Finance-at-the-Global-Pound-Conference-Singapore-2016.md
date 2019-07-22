@@ -49,7 +49,7 @@ Dispute resolution practitioners,
  9. Disputes all have unique circumstances and considerations but most of the time, the parties want the same thing, which is to end the dispute quickly and cost-efficiently and to be able to move on.
 
 
-10. A dispute can impose great strains on productivity, resources and well-being. It can bring a company down or tear apart a family. Take arbitration cases handled by the International Centre for Settlement of Investment Disputes (ICSID) at one end of the spectrum, for example. These are typically large, complex, cross-border cases. The Global Arbitration Review found that the average time taken for such cases is more than three years. The longest of these took more than 10 years3!
+10. A dispute can impose great strains on productivity, resources and well-being. It can bring a company down or tear apart a family. Take arbitration cases handled by the International Centre for Settlement of Investment Disputes (ICSID) at one end of the spectrum, for example. These are typically large, complex, cross-border cases. The Global Arbitration Review found that the average time taken for such cases is more than three years. The longest of these took more than 10 years<sup>3</sup>!
 
 
 11. And these are the cases handled efficiently, to the best of the abilities of a top institution. So you can imagine if the dispute, whether it be the case itself or the procedure of hearings, were handled poorly.
