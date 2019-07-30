@@ -45,11 +45,14 @@ Mr Deputy Speaker,
 {:start="5"}
 5. Since its establishment, the SICC has heard 17 cases, with diverse subject matters including construction, investment, banking and finance, and shipbuilding, and involving parties from jurisdictions including Japan, Israel, the UAE, Hong Kong, India, Indonesia and Australia. These are all high-value cases. Two of the 17 cases included parties who availed themselves of the option to engage foreign lawyers. In the others, parties were fully represented by Singapore counsel.
 
-{:start="6"}
-6. The SICC has received positive reviews for the quality and speed of its judgments. For example, the first case heard in the SICC concerned a large-scale industrial project involving business interests in Australia, Indonesia and Singapore. The SICC issued two judgments for the case, which included a claim of about USD750 million and a counterclaim of about USD59 million. The first of the two judgments was described in the Global Arbitration Review as a “masterclass” in how to deal with rules of interpretation, public policy and the implication of terms.<sup>[1]</sup> Commentators have noted that the SICC is, I quote,
+<ol start="6">
+<li>The SICC has received positive reviews for the quality and speed of its judgments. For example, the first case heard in the SICC concerned a large-scale industrial project involving business interests in Australia, Indonesia and Singapore. The SICC issued two judgments for the case, which included a claim of about USD750 million and a counterclaim of about USD59 million. The first of the two judgments was described in the Global Arbitration Review as a “masterclass” in how to deal with rules of interpretation, public policy and the implication of terms.<sup>[1]</sup> Commentators have noted that the SICC is, I quote, 
 
-
-*“…an innovative commercial court designed for international commercial cases … and the option of having their disputes adjudicated by experienced commercial judges from Singapore and international judges from common law and civil law jurisdictions”.<sup>[2]</sup>*
+<ol style="list-style-type: none">
+<li><i>“…an innovative commercial court designed for international commercial cases … and the option of having their disputes adjudicated by experienced commercial judges from Singapore and international judges from common law and civil law jurisdictions”.</i><sup>[2]</sup></li>
+</ol>
+</li>
+</ol>
 
 {:start="7"}
 7. It has also been noted - and here I quote again -“[d]espite being in its infancy, the SICC is proving to be a key contributor to international construction law jurisprudence…”. <sup>[3]</sup>
