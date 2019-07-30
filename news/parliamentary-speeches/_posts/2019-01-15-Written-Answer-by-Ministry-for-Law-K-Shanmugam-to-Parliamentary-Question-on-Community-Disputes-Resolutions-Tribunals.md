@@ -10,7 +10,7 @@ collection_name: news
 
 **Mr Gan Thiam Poh (Member of Parliament for Ang Mo Kio GRC)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law since February 2017 (a) how many applications have been received by the Community Disputes Resolutions Tribunals; (b) how many cases have been resolved successfully; and (c) whether any of the parties have failed to observe the resolution granted by the tribunal resulting in the tribunal bringing the party concerned to task.
 
 
