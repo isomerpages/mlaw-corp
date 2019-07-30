@@ -31,7 +31,7 @@ Mr Speaker,
 4. The amendments can be split into three main categories. First, investigative processes. Second, court procedure. Third, the sentencing powers of the Court. Let me elaborate on each of these:
 
 
-<ol style="list-style-type: lower-roman; font-weight:bold;">
+<ol style="list-style-type: upper-roman; font-weight:bold;">
 <li>Investigative processes</li>
 </ol>
 
@@ -79,7 +79,7 @@ Mr Speaker,
 13. To take a further example, let us say that CNB takes a VRI statement from a suspect, who is a member of a drug trafficking syndicate. In the course of the interview, it is revealed that CNB has certain intelligence-gathering capabilities. If this part of the video-recording were to be publicly disclosed, it could compromise CNB’s intelligence-gathering and undermine investigations not just into that syndicate, but also others as well. The proposed amendments would expressly allow that part of the VRI statement to be redacted.
 
 {:start="14"}
-14. We were of course mindful that any exercise of this power should not prejudice an accused person’s ability to conduct their defence. A key objective of the criminal justice system is to produce accurate and equitable outcomes, through procedures that are fair – not just fair but  seen to be fair as well. With this in mind, the power to redact comes with certain limitations. The Prosecution will not be allowed to redact sensitive information from material disclosed to the Defence (a) where the Prosecution intends to rely on that sensitive information as evidence, or (b) where the law requires the disclosure of the sensitive information because it tends to undermine the Prosecution’s case or to strengthen the defence’s case. This latter type of disclosure refers to the principle in the Court of Appeal’s decision in Muhammad bin Kadar and another v Public Prosecutor[3] and the cases that elaborate on that decision.
+14. We were of course mindful that any exercise of this power should not prejudice an accused person’s ability to conduct their defence. A key objective of the criminal justice system is to produce accurate and equitable outcomes, through procedures that are fair – not just fair but  seen to be fair as well. With this in mind, the power to redact comes with certain limitations. The Prosecution will not be allowed to redact sensitive information from material disclosed to the Defence (a) where the Prosecution intends to rely on that sensitive information as evidence, or (b) where the law requires the disclosure of the sensitive information because it tends to undermine the Prosecution’s case or to strengthen the defence’s case. This latter type of disclosure refers to the principle in the Court of Appeal’s decision in *Muhammad bin Kadar and another v Public Prosecutor*[3] and the cases that elaborate on that decision.
  
 {:start="15"} 
 15. Where the Defence wishes to dispute a redaction made under this power, the amendments provide that they may apply to the court in a closed-door hearing. The court will view the material in the absence of the Defence and it may order that the Prosecution disclose the redacted information.
