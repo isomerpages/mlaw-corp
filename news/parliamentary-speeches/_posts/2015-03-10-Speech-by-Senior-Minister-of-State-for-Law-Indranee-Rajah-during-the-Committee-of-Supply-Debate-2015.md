@@ -89,11 +89,19 @@ Madam Chairman,
 {:start="15"}
 15. However, general employment prospects for law graduates, on the other hand, are good. A law degree provides excellent training for numerous other areas of work besides practice, and law graduates have many other employment options aside from practice.  
 
-{:start="16"}
-16. For overseas universities, we maintain a list of Overseas Scheduled Universities (“OSUs”). The Fourth Committee on the Supply of Lawyers (“Fourth Committee”) had recommended that the list of OSUs be reviewed and updated every 5 years to better reflect current rankings of UK Law Schools, as a “qualitative sieve”. 
+<ol start="16">
+<li>For overseas universities, we maintain a list of Overseas Scheduled Universities (“OSUs”). The Fourth Committee on the Supply of Lawyers (“Fourth Committee”) had recommended that the list of OSUs be reviewed and updated every 5 years to better reflect current rankings of UK Law Schools, as a “qualitative sieve”. 
+
+<ol style="list-style-type: none">
+<li>The SILE’s recommendations were arrived at after applying the methodology in the Fourth Committee’s report and considering the universities’ representations. The Ministry has accepted these recommendations, which will take effect from Academic Year 2016/2017, so those who have secured places to read law at the omitted OSUs before 1 October 2015 or for the Academic Year 2015/2016 intake will not be affected. They remain eligible for admission to the Singapore Bar if they satisfy the other general criteria for admission. </li>  
+</ol>  
+  
+</li>  
+</ol>
 
 
-The SILE’s recommendations were arrived at after applying the methodology in the Fourth Committee’s report and considering the universities’ representations. The Ministry has accepted these recommendations, which will take effect from Academic Year 2016/2017, so those who have secured places to read law at the omitted OSUs before 1 October 2015 or for the Academic Year 2015/2016 intake will not be affected. They remain eligible for admission to the Singapore Bar if they satisfy the other general criteria for admission. 
+
+
 
 {:start="17"}
 17. Separately, there is a need to ensure that sufficient law students are interested in joining practice areas where there is an unfilled demand for lawyers. In this regard, while there is no overall shortage of lawyers, there is a shortage of lawyers entering and staying in criminal and family law practice. This shortage is unlikely to be addressed by the current supply of law graduates as many of them aspire to practise commercial and business law. 
