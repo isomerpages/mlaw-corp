@@ -33,7 +33,7 @@ collection_name: news
 </ol>
 
 <ol start="2">
-<li>  Theme 1: Maintaining trust in our legal system – serving the needs of all who live, work and play, in Singapore</li>  
+<li style="border-bottom: 1px solid black">  Theme 1: Maintaining trust in our legal system – serving the needs of all who live, work and play, in Singapore</li>  
 </ol>
 
 {:start="3"}
@@ -53,14 +53,14 @@ collection_name: news
 6. A major focus of these amendments is to enhance legal protections for vulnerable victims of crime, and ensure that our criminal justice framework addresses new forms of crime effectively.
 
 
-<ol start="2" style="list-style-type: upper-alpha; color:#900">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Family justice.</li>
 </ol>
 
 {:start="7"}
 7. As for family justice, we set up a committee with the Ministry of Social and Family Development (MSF) and the Family Justice Courts last year, to build on the wide-ranging changes made in 2014. Its report will be released soon. We will consider the committee’s recommendations thereafter.
 
-<ol start="3" style="list-style-type: upper-alpha; color:#900">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Civil Justice – Court procedure and enforcement</li>
 </ol>
 
