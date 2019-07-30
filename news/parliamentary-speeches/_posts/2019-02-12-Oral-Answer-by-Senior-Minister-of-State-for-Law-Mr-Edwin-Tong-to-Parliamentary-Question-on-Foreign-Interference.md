@@ -10,7 +10,7 @@ collection_name: news
 
 **Ms Cheng Li Hui (Member of Parliament for Tampines GRC)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Prime Minister (a) what can Singapore learn from the various incidences of foreign interferences in the elections and politics of countries such as the US, Australia, France and Germany; and (b) whether there is a need to introduce new laws or further strengthen existing laws to deal with foreign interference and Singaporeans who work with foreign actors to influence Singapore's elections and politics.
 
 
