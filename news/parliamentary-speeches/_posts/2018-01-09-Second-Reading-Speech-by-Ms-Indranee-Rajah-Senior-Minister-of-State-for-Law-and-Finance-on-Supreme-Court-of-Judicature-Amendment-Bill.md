@@ -12,7 +12,7 @@ Mr Deputy Speaker,
 
 1. I beg to move, ‘That the Bill be now read a second time’.
 
-<ol style="list-style-type: upper-roman">
+<ol style="list-style-type: upper-roman; font-weight:bold">
 <li><u> Objectives of the Bill</u></li>
 </ol>
 
@@ -49,7 +49,7 @@ Mr Deputy Speaker,
 6. The SICC has received positive reviews for the quality and speed of its judgments. For example, the first case heard in the SICC concerned a large-scale industrial project involving business interests in Australia, Indonesia and Singapore. The SICC issued two judgments for the case, which included a claim of about USD750 million and a counterclaim of about USD59 million. The first of the two judgments was described in the Global Arbitration Review as a “masterclass” in how to deal with rules of interpretation, public policy and the implication of terms.<sup>[1]</sup> Commentators have noted that the SICC is, I quote,
 
 
-“…an innovative commercial court designed for international commercial cases … and the option of having their disputes adjudicated by experienced commercial judges from Singapore and international judges from common law and civil law jurisdictions”.<sup>[2]</sup>
+*“…an innovative commercial court designed for international commercial cases … and the option of having their disputes adjudicated by experienced commercial judges from Singapore and international judges from common law and civil law jurisdictions”.<sup>[2]</sup>*
 
 {:start="7"}
 7. It has also been noted - and here I quote again -“[d]espite being in its infancy, the SICC is proving to be a key contributor to international construction law jurisprudence…”. <sup>[3]</sup>
