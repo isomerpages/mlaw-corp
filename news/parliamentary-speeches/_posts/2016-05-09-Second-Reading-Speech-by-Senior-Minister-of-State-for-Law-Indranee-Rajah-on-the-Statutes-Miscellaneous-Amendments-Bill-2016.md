@@ -237,7 +237,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 {:start="30"}
 30. Currently, in contentious proceedings before the Registrar of Trade Marks, there is no avenue for appealing against interlocutory decisions.  There can be potentially severe consequences where interlocutory decisions have the effect of bringing proceedings to an end.  An example would be when an interlocutory decision leads to a trade mark application being treated as withdrawn. Clause 45 amends section 75 of the Trade Marks Act to allow for appeals in such situations.
 
-<ol start="8" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="12" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Amendments to Wills Act</u></li>
 </ol>
 
@@ -248,7 +248,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 32. This amendment will allow the Courts to better give effect to the testator’s testamentary intention. It arises from a recent decision of the Court of Appeal, which strongly suggested that the power to rectify wills is not available to our Courts.
 
 
-<ol start="12" style="list-style-type: upper-roman; font-weight:bold;">
+<ol start="13" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Conclusion</u></li>
 </ol>
 
