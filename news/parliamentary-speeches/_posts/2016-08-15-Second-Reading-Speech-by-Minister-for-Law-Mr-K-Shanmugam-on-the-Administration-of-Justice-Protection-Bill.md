@@ -23,7 +23,7 @@ Madam Speaker,
 3. In my speech, I will deal with the need to set out the laws in written form. I will then take Members through the clauses in the Bill and in doing so, I will deal with concerns that have been raised; and some of the points that have been made as reflected in the Motion of Amendment which has been filed.
 
 <ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
-<li><u>he Need to Set Out the Law in Writing
+<li><u>The Need to Set Out the Law in Writing
 </u></li>
 </ol>
 
@@ -882,7 +882,7 @@ Madam Speaker,
 224. They were of the view that such a situation could no longer be reversed. The offence had limited symbolic value, as everyone was scandalising the court anyway. It was happening frequently, and was rarely prosecuted in the UK.
 
 {:start="225"}
-225. he Law Commission also considered that the offence was in principle an infringement of freedom of expression, which was a basic right under the European Convention on Human Rights.
+225. The Law Commission also considered that the offence was in principle an infringement of freedom of expression, which was a basic right under the European Convention on Human Rights.
 
 {:start="226"}
 226. While the Law Commission did not believe that the existence of the offence was contrary to the European Convention, they felt that there was a risk that particular prosecutions may be disapproved by reason of the ECHR.
@@ -929,8 +929,11 @@ Madam Speaker,
 <li> how the UK Government has treated its Judges; </li>
 <li>how it has paid them; </li>
 <li>how it has resourced them; </li>
-<li>how it has protected the Judiciary as an institution, </li>
-<li>offer a good model for us to follow. </li>
+<li>how it has protected the Judiciary as an institution,
+<br>
+offer a good model for us to follow. 
+</li>
+
 </ul>
 
 </li>
