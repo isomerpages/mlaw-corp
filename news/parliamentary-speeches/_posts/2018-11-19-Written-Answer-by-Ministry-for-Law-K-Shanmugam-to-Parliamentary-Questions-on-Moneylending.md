@@ -10,7 +10,7 @@ collection_name: news
 
 **Mr Gan Thiam Poh (Member of Parliament for Ang Mo Kio GRC)**
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law (a) in the past 10 years, how many reports have been lodged by residents that their foreign domestic workers have borrowed from legal and illegal moneylenders respectively; (b) how many of such residents became the victims of harassment from loan sharks or legal money collectors respectively; and (c) whether there are plans to ban borrowings by foreign domestic workers from legal moneylenders.
 
 
