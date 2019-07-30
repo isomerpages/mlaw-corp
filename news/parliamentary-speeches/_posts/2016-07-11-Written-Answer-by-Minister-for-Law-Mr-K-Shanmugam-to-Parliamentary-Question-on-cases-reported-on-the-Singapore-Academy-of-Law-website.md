@@ -14,7 +14,7 @@ To ask the Minister for Law (a) how does the Singapore Academy of Law decide on 
 
 **<u>Answer:</u>**
 
-1. The Singapore Academy of Law (“SAL”) manages two websites which contain judgments, namely the Singapore Law Watch website at[www.singaporelawwatch.sg](http://www.singaporelawwatch.sg/) (“the SLW Website”) and the Singapore Law website at[www.singaporelaw.sg](http://www.singaporelawwatch.sg/) (“the SgLaw Website”).
+1. The Singapore Academy of Law (“SAL”) manages two websites which contain judgments, namely the Singapore Law Watch website at [www.singaporelawwatch.sg](http://www.singaporelawwatch.sg/) (“the SLW Website”) and the Singapore Law website at [www.singaporelaw.sg](http://www.singaporelawwatch.sg/) (“the SgLaw Website”).
 
 <ol start="2">
 <li>  According to SAL:
