@@ -306,7 +306,7 @@ collection_name: news
 57. The new provisions facilitate approval of these pre-packs as the Court may dispense with calling creditor meetings, if certain safeguards are met<sup>[9]</sup>.
 
 
-<ol start="2" style="list-style-type: lower-roman">
+<ol start="2" style="list-style-type: lower-alpha">
 <li style="font-style: italic"><i>Judicial Management</i></li>   
 </ol>   
 
