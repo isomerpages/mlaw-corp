@@ -10,7 +10,7 @@ permalink: /news/parliamentary-speeches/speech-by-senior-minister-of-state-for-l
 
 Madam Chairman,
 
-1. I will address the rest of the Members’ cuts
+1. I will address the rest of the Members’ cuts. 
 
 <ol style="list-style-type: upper-roman; font-weight: bold;">
 <li>Ensure quality and sufficient legal industry manpower</li>
