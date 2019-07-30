@@ -97,7 +97,7 @@ collection_name: news
 </li>
 </ol>
 
-<ol start="4" style="list-style-type: upper-alpha; color:#900">
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Civil Justice – Community justice.</li>
 </ol>
 
@@ -135,7 +135,7 @@ collection_name: news
 21. On top of that, we are also considering ways in which we can simplify estate administration; the process, how the process is for affected families, particularly where smaller estates are concerned. So, we are making the process simpler, more straightforward, less expensive for the smaller, simpler cases. But at the same time, also going upstream to help with the estate management and planning prior to that stage.
 
 
-<ol start="5" style="list-style-type: upper-alpha; color:#900">
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li> Access to justice.</li>
 </ol>
 
@@ -179,7 +179,7 @@ collection_name: news
 {:start="27"}
 27. A number of Members have asked specifically about the Intellectual Property (IP) regime in Singapore and I’ll turn to that next. The Minister for Finance spoke about positioning Singapore as a “Global-Asia node of technology, innovation and enterprise” for our next phase of growth, so these are quite pertinent questions which members have raised.  My Ministry’s efforts in the area of IP will support this push in four major ways.
 
-<ol style="list-style-type: upper-alpha; color:#900">
+<ol style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Positioning our IP system to better support creators and innovators.</li>
 </ol>
 
@@ -206,7 +206,7 @@ collection_name: news
 {:start="32"} 
 32. Mr Tay also asked about helping Fintech start-ups to protect their IP. Last year, the Intellectual Property Office of Singapore (IPOS) introduced a FinTech Fast Track Initiative which accelerates the file-to-grant period of deserving FinTech patents to approximately 6 months, in place of the usual 2 to 4 years. IPOS will extend this initiative for a further year, to 25 April 2020. FinTech start-ups can also avail themselves of the other assistance schemes available to Singapore businesses, some of which I am going to highlight.
 
-<ol start="2" style="list-style-type: upper-alpha; color:#900">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li> Helping enterprises protect and use IP</li>
 </ol>
 
@@ -234,7 +234,7 @@ collection_name: news
 </li>
 </ol>
 
-<ol start="3" style="list-style-type: upper-alpha; color:#900">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li> Making it easier for businesses to commercialise IP from the public sector.</li>
 </ol>
 
@@ -242,7 +242,7 @@ collection_name: news
 35. Third, we are making it easier for businesses to commercialise IP from the public sector. The National IP Protocol was developed and rolled out in April 2018 to encourage commercialisation of public sector IP and R&D outputs. It streamlines IP practices in our public research institutes, universities and public agencies to reduce the time and effort needed to structure commercialisation arrangements with the private sector. This will foster greater collaboration between private sector businesses on one hand and the public sector on the other.
 
 
-<ol start="4" style="list-style-type: upper-alpha; color:#900">
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>  Creating better jobs for Singaporeans in the growing IP sector</li>
 </ol>
 
@@ -295,7 +295,7 @@ collection_name: news
 </li>
 </ol>
 
-<ol style="list-style-type: upper-alpha; color:#900">
+<ol style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>International hub for dispute resolution</li>
 </ol>
 
@@ -380,7 +380,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha; color:#900">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Capturing demand for legal services in high-growth practice areas</li>
 </ol>
 
@@ -418,7 +418,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 </li>
 </ol>
 
-<ol start="3" style="list-style-type: upper-alpha; color:#900">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li> Promoting Singapore law</li>
 </ol>
 
@@ -452,7 +452,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 {:start="59"}
 59. We continue to welcome views and suggestions from practitioners and businesses on how we can further strengthen and enhance these laws.
 
-<ol style="list-style-type: upper-alpha; color:#900">
+<ol style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Establishing Singapore as a thought leader in international rule of law efforts</li>
 </ol>
 
@@ -473,7 +473,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 </li>
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha; color:#900">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Pursuing International Legal Cooperation</li>
 </ol>
 
@@ -506,7 +506,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 <li style="border-bottom: 1px solid black"> Theme 3: Supporting Singapore Law Practices to be future-ready</li>
 </ol>
 
-<ol style="list-style-type: upper-alpha; color:#900">
+<ol style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>New Business Areas</li>
 </ol>
 
@@ -523,7 +523,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 {:start="68"}
 68. On Ms Rahayu’s point about providing customised consultancy services to small and medium firms, SAL’s Future Law Innovation Programme (FLIP) recently launched an initiative, where for as low as $1,500, small and medium law firms in Singapore can engage a consultant to review their work flows and advise how they can better harness and adopt technology to operate more efficiently. And perhaps more importantly, for these small firms also more cost effectively.
 
-<ol start="2" style="list-style-type: upper-alpha; color:#900">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Internationalisation</li>
 </ol>
 
@@ -541,7 +541,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 <li>Prior to this visit, 24 lawyers from six leading firms in China’s Shaanxi province undertook a one-month attachment in Singapore as part of a MinLaw initiative to help Chinese lawyers better understand what Singapore has to offer as a business hub for Chinese companies as well as to help Singapore lawyers connect with their Chinese counterparts and learn about and tap into opportunities in China and the BRI. </li>
 </ol>
 
-<ol start="3" style="list-style-type: upper-alpha; color:#900">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; color:#900">
 <li>Adoption of technology</li>
 </ol>
 
@@ -559,7 +559,7 @@ The SIAC signed MOUs with a number of Chinese institutions in 2018 alone:
 {:start="73"}
 73. In the longer term, MinLaw will be working with A*STAR to develop a broader term  roadmap up to 2030 in identifying technologies that will impact and change the delivery of legal services.
 
-<ol start="4" style="list-style-type: upper-alpha; color: #900">
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold; color: #900">
 <li>Development of legal talent</li>
 </ol>
 
