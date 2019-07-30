@@ -24,7 +24,7 @@ Madam Chairman,
 5. Like many other sectors, the legal sector faces some challenges. I will touch on what we are doing to make Singapore a leading legal hub, and to support the legal industry.
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
-<li>SUPPORTING THE LEGAL INDUSTRY</li>
+<li><u>SUPPORTING THE LEGAL INDUSTRY</u></li>
 </ol>
 
 
@@ -171,7 +171,7 @@ For example:
 
 
 <ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
-<li><u>CENTRE FOR INTERNATIONAL DEBT RESTRUCTURING</u></li>
+<li>CENTRE FOR INTERNATIONAL DEBT RESTRUCTURING</li>
 </ol>
 
 
