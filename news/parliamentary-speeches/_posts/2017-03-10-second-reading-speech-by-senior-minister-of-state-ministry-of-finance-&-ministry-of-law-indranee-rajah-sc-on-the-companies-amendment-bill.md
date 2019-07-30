@@ -120,14 +120,14 @@ collection_name: news
 24. Let me now deal with the next register. Clause 46 will require foreign companies registered in Singapore to maintain public registers of their members. This brings the position of foreign companies into alignment with the current requirement for locally incorporated companies. The change will not impose any additional compliance responsibility for foreign companies who already maintain registers of members in their place of incorporation.
 
 <ol style="list-style-type: lower-roman" start="3">
-<li style="font-sytle:italic;">Singapore incorporated companies – Registers of Nominee Directors</li> 
+<li style="font-style:italic;">Singapore incorporated companies – Registers of Nominee Directors</li> 
 </ol>
 
 {:start="25"}
 25. Clause 47 will require locally incorporated companies to maintain the third new register, which is the register of nominee directors. The Bill will also require nominee directors to disclose their nominee status and the particulars of their nominators to their companies. This mitigates the risks of money laundering and terrorist financing being done through nominees.
 
 <ol style="list-style-type: lower-alpha" start="2">
-<li> Record retention</li>   
+<li style="font-style:italic;"> Record retention</li>   
 </ol>
  
 
@@ -231,7 +231,7 @@ collection_name: news
 
 
 <ol style="list-style-type: lower-alpha">
-<li style="font-style:italic;">Schemese of Arrangement</li>   
+<li style="font-style:italic;">Schemes of Arrangement</li>   
 </ol>
 
 
