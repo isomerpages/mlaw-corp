@@ -284,7 +284,7 @@ collection_name: news
 
 
 <ol start="3" style="list-style-type: lower-roman">
-<li style="font-style: itailc;"><i>Cram Down Provisions</i></li>   
+<li style="font-style: italic;"><i>Cram Down Provisions</i></li>   
 </ol>
 
 {:start="54"}
