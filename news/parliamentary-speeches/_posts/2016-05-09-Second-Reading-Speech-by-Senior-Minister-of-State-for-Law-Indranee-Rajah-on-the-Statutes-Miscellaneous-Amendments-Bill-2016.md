@@ -80,7 +80,7 @@ The amendment will also make clear that the presumption is applicable only to of
 
 
 <ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
-<li>Requiring all Family Proceedings to be commenced in the Family Court</li>
+<li><i>Requiring all Family Proceedings to be commenced in the Family Court</i></li>
 </ol>
 
 {:start="9"}
@@ -94,7 +94,7 @@ The amendment will also make clear that the presumption is applicable only to of
 
 
 <ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
-<li>Protection from Personal Liability</li>
+<li><i>Protection from Personal Liability</i></li>
 </ol>
 
 {:start="12"}
@@ -176,7 +176,7 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 
 
 <ol style="list-style-type: upper-alpha; font-weight:bold;">
-<li>Allowing SILE to enact rules for the administration of the Part A Course and Examinations</li>
+<li><i>Allowing SILE to enact rules for the administration of the Part A Course and Examinations</i></li>
 </ol>
 
 {:start="24"}
@@ -184,14 +184,14 @@ Clause 16 of the Bill also contains a number of amendments which were proposed b
 
 
 <ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
-<li> Amendments pursuant to recent establishment of UniSIM Law School</li>
+<li><i>Amendments pursuant to recent establishment of UniSIM Law School</i></li>
 </ol>
 
 {:start="25"}
 25. The UniSIM Law School was recently established and its law degrees will be recognised for the purposes of admission to the Singapore Bar, similar to those from the National University of Singapore (NUS) and the Singapore Management University (SMU). The Legal Profession Actand the Singapore Academy of Law Act will be amended to ensure that UniSIM Law School and the members of its faculty will have the same standing or restrictions as those which are correspondingly applicable to NUS, SMU or their faculty members.
 
 <ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
-<li>Allowing the Presiding Judge of the Family Justice Courts and the Presiding Judge of the State Courts to refer matters to the Law Society or the Disciplinary Tribunal</li>
+<li><i>Allowing the Presiding Judge of the Family Justice Courts and the Presiding Judge of the State Courts to refer matters to the Law Society or the Disciplinary Tribunal</i></li>
 </ol>
 
 {:start="26"}
