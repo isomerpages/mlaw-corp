@@ -55,7 +55,7 @@ Mr Deputy Speaker,
 </ol>
 
 {:start="7"}
-7. It has also been noted - and here I quote again -“[d]espite being in its infancy, the SICC is proving to be a key contributor to international construction law jurisprudence…”. <sup>[3]</sup>
+7. It has also been noted - and here I quote again -“*[d]espite being in its infancy, the SICC is proving to be a key contributor to international construction law jurisprudence*…”. <sup>[3]</sup>
 
  
 {:start="8"}
