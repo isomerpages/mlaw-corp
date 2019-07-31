@@ -162,9 +162,9 @@ No reason to believe that we are immune.
 </li>
 </ol>
 
-{:start="14"}
-14. Ultimately – if left unchecked, such deliberate spread of online falsehoods can undermine trust in the country, in its institutions, in democracy, and affect social cohesion. 
-
+<ol start="14">
+<li>Ultimately – if left unchecked, such deliberate spread of online falsehoods can undermine trust in the country, in its institutions, in democracy, and affect social cohesion. </li> 
+</ol>
 
 <ol style="list-style-type: lower-roman">
 <li><u>  WHY WE ARE APPOINTING A SELECT COMMITTEE</u></li>
@@ -180,8 +180,9 @@ to examine and report on:
 </li>
 </ol>
 
-{:start="16"}
-16. Government has been studying this problem for a while.
+<ol start="16">
+<li>Government has been studying this problem for a while. </li>
+</ol>
 
 <ol start="17">
 <li>Select Committee can study the issue in-depth with a smaller group of MPs, and then present a report to Parliament.
@@ -194,8 +195,9 @@ I think it would be useful, to do so.
 </li>
 </ol>
 
-{:start="18"}
-18. The process will allow for a formal dialogue with the selected groups.
+<ol start="18">
+<li>The process will allow for a formal dialogue with the selected groups. </li>
+</ol>
 
 <ol start="19">
 <li>  The Composition of the Select Committee – we suggest - a default position is for 10 members:
@@ -208,14 +210,13 @@ But we propose replacing 1 of the Government MP with a NMP, to have more diversi
 <br>
 <br> 
 So we will have:
-<br>
-<br> 
 8 Government MPs, 1 Opposition MP and 1 NMP.
 </li>
 </ol>
 
-{:start="20"}
-20. Terms of Reference have been broadly framed – intentionally - so the Select Committee will have to consider relevant views, options. 
+<ol start="20">
+<li>Terms of Reference have been broadly framed – intentionally - so the Select Committee will have to consider relevant views, options.</li> 
+</ol>
 
 <ol start="21">
 <li>Sir, I ask that Select Committee be appointed, to:
