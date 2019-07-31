@@ -987,7 +987,7 @@ offer a good model for us to follow.
 <ol start="253">
 <li>In 2011, the British Government commissioned the Leveson Inquiry. The Inquiry said:
 <ul>
-<li> That “the evidence clearly demonstrates that, over the last 30-35 years and probably much longer, the political parties of UK national Government and of UK official Opposition, have had or developed too close a relationship with the press in a way which has not been in the public interest…”</li>
+<li> That “<i>the evidence clearly demonstrates that, over the last 30-35 years and probably much longer, the political parties of UK national Government and of UK official Opposition, have had or developed too close a relationship with the press in a way which has not been in the public interest</i>…”</li>
 <li>That politicians considered that their control of the supply of news and information to the public, in return for the hope of favourable treatment by sections of the press, was “necessary to counteract the attempts of some sections of the press to discredit their motives and distort the policies that they seek to promote”.</li>
 </ul>
 
