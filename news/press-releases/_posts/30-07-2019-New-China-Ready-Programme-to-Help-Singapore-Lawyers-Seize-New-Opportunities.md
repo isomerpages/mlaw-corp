@@ -46,7 +46,7 @@ permalink: /news/press-releases/press-releases-New-China-Ready-Programme-to-Help
 
 [Annex A (0.1MB)](/files/news/press-releases/2019/07/AnnexAforChinaReady30July.pdf)
 
-**MINISTRY OF LAW**  
+**MINISTRY OF LAW**    
 **30 JULY 2019**
 
 <p class="right-side-updated">Last updated on 30 Jul 2019</p> 
