@@ -27,7 +27,7 @@ permalink: /news/press-releases/Press-Release-Singapore-Convention-on-Mediation-
  
 Please see attached information sheet and visit https://www.singaporeconvention.org for more information on the Singapore Convention Signing Ceremony and Conference
  
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**  
 **22 JULY 2019**
 
 [Information Sheet (PDF, 1.01MB)](/files/news/press-releases/2019/07/SingaporeConventionProgramme.pdf) 
