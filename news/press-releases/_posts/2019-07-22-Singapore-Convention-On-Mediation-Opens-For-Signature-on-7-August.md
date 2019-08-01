@@ -25,7 +25,7 @@ permalink: /news/press-releases/Press-Release-Singapore-Convention-on-Mediation-
  
 8. Notable speakers at the Conference include Judge Xue Hanqin, Vice-President, International Court of Justice, Mr Dilhan Pillay Sandrasegara, Chief Executive Officer, Temasek International Pte Ltd, Dr Marty Natalegawa, Former Foreign Minister, Indonesia, Professor Gabrielle Kaufmann-Kohler, President, International Council for Commercial Arbitration and Justice Edward Torgbor, Former Judge of the High Court, Kenya and Visiting Academic, University of Oxford.
  
-Please see attached information sheet and visit https://www.singaporeconvention.org for more information on the Singapore Convention Signing Ceremony and Conference
+Please see attached information sheet and visit [https://www.singaporeconvention.org](https://www.singaporeconvention.org) for more information on the Singapore Convention Signing Ceremony and Conference
  
 **MINISTRY OF LAW**  
 **22 JULY 2019**
