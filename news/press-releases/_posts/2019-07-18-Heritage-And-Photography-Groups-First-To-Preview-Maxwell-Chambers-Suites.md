@@ -44,7 +44,7 @@ permalink: /news/press-releases/Press-Release-Heritage-Tour-at-Maxwell-Chambers-
 <li>Maxwell Chambers Suites adds 120,000 square feet of space to Maxwell Chambers and triples its current size. Its opening is slated to coincide with the signing of the momentous Singapore Convention on Mediation. It will house at least 11 international institutions and 20 dispute chambers and practices from 11 countries. Maxwell Chambers Suites has the highest concentration of case management offices anywhere in the world and will see more high-value cross-border disputes managed in and out of Singapore. </li>
 </ol>
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**  
 **18 JULY 2019**
 
 
