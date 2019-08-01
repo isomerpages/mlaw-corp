@@ -47,7 +47,7 @@ permalink: /news/press-releases/press-releases-more-than-50-countries-in-singapo
 [Annex A: List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) (0.1MB)](/files/news/press-releases/2019/07/AnnexAListCountriesAttnedingSingaporeConventionSinging.pdf)  
 [Annex B: Programme of the Singapore Convention Week (1MB)](/files/news/press-releases/2019/07/AnnexB-Programme.pdf)  
 [Annex C – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference (0.4MB)](/files/news/press-releases/2019/07/AnnexCLaunchOfTheINSOLAsiaHUb.pdf)  
-[Annex D – Singapore Convention on Mediation (0.41MB)](/files/news/press-releases/2019/07/AnnexDSingaporeConventionOnMediation.pdf)
+[Annex D – Singapore Convention on Mediation (0.4MB)](/files/news/press-releases/2019/07/AnnexDSingaporeConventionOnMediation.pdf)
 
 **MINISTRY OF LAW**  
 **29 JULY 2019**
