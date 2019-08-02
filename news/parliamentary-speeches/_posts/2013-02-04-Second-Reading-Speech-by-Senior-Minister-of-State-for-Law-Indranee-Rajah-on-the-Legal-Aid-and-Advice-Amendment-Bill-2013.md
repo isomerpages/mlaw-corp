@@ -6,6 +6,9 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister
 ---
 
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rY_5VXIJc-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+</div>
 
 
 
