@@ -301,8 +301,9 @@ Ladies and gentlemen
 
 <u>Speech Highlights </u>
 
-<video id="video1" class="video-centered" height="360" width="640" src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_IPOSAug2016Highlightshr_admin_640x360_700k.mp4/playlist.m3u8" 
-poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_IPOSAug2016Highlightshr_admin_640x360_700k.jpg" controls="controls"></video>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAh2wP6U9Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+</div>
 
 
 <p class="right-side-updated">Last updated on 27 Dec 2017</p>
