@@ -7,7 +7,9 @@ permalink: /news/parliamentary-speeches/tribute-to-retired-chief-justice-chan-se
 
 12 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__7b7642_640x360_700k.mp4/playlist.m3u8" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__7b7642_640x360_700k.jpg" controls="controls"></video>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvpvSB0W0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Mr. Speaker, Sir
 
