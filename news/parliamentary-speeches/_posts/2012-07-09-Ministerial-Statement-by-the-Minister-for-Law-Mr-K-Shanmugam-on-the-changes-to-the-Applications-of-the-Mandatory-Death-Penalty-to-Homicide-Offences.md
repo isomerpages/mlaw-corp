@@ -7,7 +7,9 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 
 9 Jul 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<video class="video-centered" id="video1"  src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/profilea_HD__57659a_640x360_700k.mp4/playlist.m3u8" height="315" width="560" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/profilea_HD__57659a_640x360_700k.jpg" controls="controls"></video>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5n0jvzU0_zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <p style="text-align: center"><i>Video of Ministerial Statement by Minister for Law, Mr K Shanmugam, on the the changes to the Applications of the Mandatory Death Penalty to Homicide Offences and responses to NMPs Eugene Tan and Faizah Jamal</i></p>
