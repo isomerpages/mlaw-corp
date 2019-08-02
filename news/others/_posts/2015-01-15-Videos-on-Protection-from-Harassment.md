@@ -10,58 +10,30 @@ collection_name: news
 
 **Applying for Protection Order under Harassment Act**
 
-<div class="section video">
-
-
-<div style="">
-<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="4976B301BC72FFB55B9D53ADCA900E9C">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("4976B301BC72FFB55B9D53ADCA900E9C").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_324088349_admin_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_324088349_admin_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
-
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvzCO4R2me8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-</div>
-
 
 **Applying for Protection Order under Harassment Act (Chinese Subtitles)**
 
 
-<div class="section video">
-
-
-<div style="">
-<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="0BD00CC8F702BF9615A56E0C41D2EC08">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("0BD00CC8F702BF9615A56E0C41D2EC08").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_MinLawProtectionOrderChinese310315HD_admin_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_MinLawProtectionOrderChinese310315HD_admin_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
-
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GvABuLb2m6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-</div>
-
-
 
 
 **Application for Protection Order under Harassment Act (Malay Subtitles)**
 
-<div class="section video">
-
-
-<div style="">
-<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="55AAC12980C41FD70E9B7095A7609223">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("55AAC12980C41FD70E9B7095A7609223").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_MinLawProtectionOrderMalay310315HD_admin_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_MinLawProtectionOrderMalay310315HD_admin_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
-
-</div>
-
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HVkcNPkuQGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </div>
 
 
 **Application for Protection Order under Harassment Act (Tamil Subtitles)**
 
-<div class="section video">
-
-
-<div style="">
-<script type="text/javascript" src="https://www.evvochannel.tv/jwplayer7/jwplayer.js"></script><div id="ED76F62621F598D1B58DE1E23E6E0A83">Loading the player ...</div><script type="text/javascript">jwplayer.key="yZQCaeGpajGSFqDgOGIs2hEY5ugIiTnmdzTJ57lVyao=";jwplayer("ED76F62621F598D1B58DE1E23E6E0A83").setup({width: "640px",height: "360px",playlist: [{ image: "http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_MinLawProtectionOrderTamil310315HD_admin_640x360_700k.jpg",sources: [ {file: "https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_MinLawProtectionOrderTamil310315HD_admin_640x360_700k.mp4/playlist.m3u8", }], }], });</script>
-
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1Qun1PMXus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-</div>
-
 
 **Voices against harassment**
 
