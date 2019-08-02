@@ -173,9 +173,10 @@ Good morning everyone.
 44. With that I would like to conclude by wishing you all the best. Whether you end up as a practitioner, legal service officer, or some other capacity, remember that you have an important part to play in the future of the legal sector in Singapore.
 
 **Video highlights from speech**
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w0GNx2GJpmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<video class="video-centered" height="360" width="640" src="https://evvomedia.pc-s.cdn.bitgravity.com/cdn/_definst_/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.mp4/playlist.m3u8" 
-poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_UKSGLawStudentsSocietySGLegalFINAL250817_640x360_700k.jpg" controls="controls"></video>
 
 
 
