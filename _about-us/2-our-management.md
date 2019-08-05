@@ -7,11 +7,11 @@ collection_name: about-us
 ---
 
 <style>
-  .img-gallery{
+  .img-gallery {
   width=150px;
   height=300px;
   }
-  .img-gallery img{
+  .img-gallery img {
   max-width=100%;
   }
 </style>
