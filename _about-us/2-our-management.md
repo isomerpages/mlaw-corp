@@ -7,7 +7,7 @@ collection_name: about-us
 ---
 
 <style>
-  img{width= 100px; height=200px;}
+  img{width=100px; height=200px;}
 </style>
 
 Our Management
