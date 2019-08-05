@@ -11,7 +11,7 @@ collection_name: about-us
   width=10px;
   height=20px;
   }
-  .imgs{
+  .img-gallery img{
   max-width=100%;
   }
 </style>
@@ -43,9 +43,7 @@ Our Management
   Ministry of Law<br>
 
 <div class="img-gallery">
-  <div class="imgs">
     <img src="/images/1515047430356.jpg">
-  </div>
 </div>
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
