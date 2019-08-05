@@ -62,4 +62,13 @@ Our Management
       Minister for
     </td>
   <tr>
+  <tr>
+   <td><img src="/images/1532069362285.jpg"></td>
+   <td>
+    <b>Mr Edwin Tong</b><br>
+    Senior Minister of State<br>
+    Ministry of Law and<br>
+    Ministry of Health<br>
+  </td>
+ <tr>
 </table>
