@@ -14,6 +14,9 @@ collection_name: about-us
   .img-gallery img {
   max-width: 100%;
   }
+  table {
+  border-collapse: collapse;
+  }
 </style>
 
 Our Management
