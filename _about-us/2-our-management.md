@@ -7,7 +7,13 @@ collection_name: about-us
 ---
 
 <style>
-  img{width=100px; height=200px;}
+  .img-gallery{
+  width=100px;
+  height=200px;
+  }
+  .img-gallery img{
+  max-width=100%;
+  }
 </style>
 
 Our Management
@@ -15,7 +21,8 @@ Our Management
 
 ### **Political Appointees**
 
-  <img src="/images/1510806764644.jpg"><br>
+<div class="img-gallery">
+  <img src="/images/1510806764644.jpg"></div><br>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
