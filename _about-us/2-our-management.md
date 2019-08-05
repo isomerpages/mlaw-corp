@@ -15,8 +15,7 @@ Our Management
 
 ### **Political Appointees**
 
-<div class="img-gallery">
-  <img src="/images/1510806764644.jpg"></div><br>
+  <img src="/images/1510806764644.jpg"><br>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
