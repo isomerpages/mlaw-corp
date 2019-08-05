@@ -180,11 +180,11 @@ Ladies and Gentlemen.
 </ol>
 
 {:start="26"}
-26. Arbitrators play an important role in ensuring trust in the system, through sound and enforceable awards delivered in a timely manner, and fair, efficient and effective management of the arbitral process.
+26. <u>Arbitrators</u> play an important role in ensuring trust in the system, through sound and enforceable awards delivered in a timely manner, and fair, efficient and effective management of the arbitral process.
 
  
 {:start="27"}
-27. Good awards cannot come out of poorly presented cases. Counsel must also raise standards if the sector is to continue to thrive. And this applies to the quality of advocacy and case management, and service. Counsel also need ensure that costs remain constantly competitive, so that we retain our cost advantage for clients.
+27. Good awards cannot come out of poorly presented cases. <u>Counsel</u> must also raise standards if the sector is to continue to thrive. And this applies to the quality of advocacy and case management, and service. Counsel also need ensure that costs remain constantly competitive, so that we retain our cost advantage for clients.
 
  
 {:start="28"}
