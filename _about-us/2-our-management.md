@@ -8,11 +8,11 @@ collection_name: about-us
 
 <style>
   .img-gallery {
-  width=150px;
-  height=300px;
+  width= 150px;
+  height= 300px;
   }
   .img-gallery img {
-  max-width=100%;
+  max-width= 100%;
   }
 </style>
 
