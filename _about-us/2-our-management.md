@@ -11,7 +11,7 @@ collection_name: about-us
   img{max-width= 100%;}
 </style>
 
-Our Managementss
+Our Management
 ---
 
 ### **Political Appointees**
