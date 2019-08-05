@@ -46,7 +46,7 @@ Distinguished guests, ladies and gentlemen
 
 
 <ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
-<li>Our Fundamentals: National Security and Survival</li>
+ <li><u>Our Fundamentals: National Security and Survival</u></li>
 </ol>
 
 
@@ -246,7 +246,7 @@ Distinguished guests, ladies and gentlemen
 
 
 <ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
-<li>Conclusion</li>
+ <li><u>Conclusion</u></li>
 </ol>
 
 
