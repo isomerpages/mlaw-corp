@@ -21,28 +21,24 @@ Our Management
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
-<br>
 
 <div class="image">
-  <img src="/images/1532069362285.jpg"><br>
+  <img src="/images/1532069362285.jpg"></div><br>
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
   Ministry of Law and<br>
   Ministry of Health<br>
-</div>
 
 ### **Senior Management**
 
 <div class="image">
-  <img src="/images/1514972152202.jpg"><br>
+  <img src="/images/1514972152202.jpg"></div><br>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
   Ministry of Law<br>
-</div><br>
 
 <div class="image">
-  <img src="/images/1515047430356.jpg"><br>
+  <img src="/images/1515047430356.jpg"></div><br>
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
   Ministry of Law<br>
-</div>
