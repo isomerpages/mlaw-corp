@@ -26,7 +26,7 @@ Our Management
 </div>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
-  Minister for Law<br>
+  Minister for Law<br><br>
   
 <div class="img-gallery">
   <img src="/images/1532069362285.jpg">
@@ -34,7 +34,7 @@ Our Management
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
   Ministry of Law and<br>
-  Ministry of Health<br>
+  Ministry of Health<br><br>
 
 ### **Senior Management**
 
@@ -43,7 +43,7 @@ Our Management
 </div>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
-  Ministry of Law<br>
+  Ministry of Law<br><br>
 
 <div class="img-gallery">
     <img src="/images/1515047430356.jpg">
