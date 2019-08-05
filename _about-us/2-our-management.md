@@ -26,7 +26,7 @@ Our Management
 </div>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
-  Minister for<br>
+  Minister for Law<br>
   
 <div class="img-gallery">
   <img src="/images/1532069362285.jpg">
