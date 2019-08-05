@@ -51,3 +51,15 @@ Our Management
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
   Ministry of Law<br>
+  
+  
+  <table>
+  <tr>
+    <td><img src="/images/1510806764644.jpg"></td>
+    <td>
+      <b>Mr K Shanmugam</b><br>
+      Minister for Home Affairs and<br>
+      Minister for
+    </td>
+  <tr>
+</table>
