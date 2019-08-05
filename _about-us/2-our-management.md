@@ -22,15 +22,13 @@ Our Management
 ### **Political Appointees**
 
 <div class="img-gallery">
-  <img src="/images/1510806764644.jpg"></div>
-  
+  <img src="/images/1510806764644.jpg"></div><br>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for
   
 <div class="img-gallery">
-  <img src="/images/1532069362285.jpg"></div>
-  
+  <img src="/images/1532069362285.jpg"></div><br>
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
   Ministry of Law and<br>
@@ -39,16 +37,14 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/1514972152202.jpg"></div>
-  
+  <img src="/images/1514972152202.jpg"></div><br>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
   Ministry of Law
 
 <div class="img-gallery">
     <img src="/images/1515047430356.jpg">
-</div>
-
+</div><br>
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
   Ministry of Law<br>
