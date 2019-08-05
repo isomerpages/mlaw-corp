@@ -13,14 +13,15 @@ Our Management
   .image{width= 400px; height= 200px;}
   img{max-width= 100%;}
 </style>
+
 ### **Political Appointees**
 
 <div class="image">
-  <img src="/images/1510806764644.jpg"><br>
+  <img src="/images/1510806764644.jpg"></div><br>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
-</div><br>
+<br>
 
 <div class="image">
   <img src="/images/1532069362285.jpg"><br>
