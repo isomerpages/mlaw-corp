@@ -169,7 +169,7 @@ Ladies and gentlemen;
 <ol start="27">
 <li>On this front, IPOS has been helping to develop IP strategy and management expertise for our businesses:
 
-<ol style="list-style-typer: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 
 
 <li>IPOS has developed the Master of IP and Innovation Management; working with the Singapore University of Social Sciences. </li>
