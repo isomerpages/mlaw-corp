@@ -9,7 +9,7 @@ collection_name: about-us
 <style>
   .img-gallery {
   width: 200px;
-  height: 400px;
+  height: 300px;
   }
   .img-gallery img {
   max-width: 100%;
