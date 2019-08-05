@@ -9,7 +9,7 @@ collection_name: about-us
 <style>
   .img-gallery {
   width: 200px;
-  height: 200px;
+  height: 400px;
   }
   .img-gallery img {
   max-width: 100%;
@@ -25,14 +25,14 @@ Our Management
   <img src="/images/1510806764644.jpg"></div>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
-  Minister for <br>
-
+  Minister for
+  
 <div class="img-gallery">
   <img src="/images/1532069362285.jpg"></div>
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
   Ministry of Law and<br>
-  Ministry of Health<br>
+  Ministry of Health
 
 ### **Senior Management**
 
@@ -40,7 +40,7 @@ Our Management
   <img src="/images/1514972152202.jpg"></div>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
-  Ministry of Law<br>
+  Ministry of Law
 
 <div class="img-gallery">
     <img src="/images/1515047430356.jpg">
