@@ -7,8 +7,7 @@ collection_name: about-us
 ---
 
 <style>
-  .img-gallery{width= 100px; height=200px;}
-  .img-gallery img{max-width=100%;}
+  img{width= 100px; height=200px;}
 </style>
 
 Our Management
