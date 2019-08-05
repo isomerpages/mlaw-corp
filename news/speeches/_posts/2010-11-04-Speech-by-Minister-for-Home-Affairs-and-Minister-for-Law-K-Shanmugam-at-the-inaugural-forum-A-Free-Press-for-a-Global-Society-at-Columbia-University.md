@@ -306,34 +306,19 @@ Ladies and Gentlemen
 </ol>  
 
 <ol start="32">
-<li> Former British Prime Minister Tony Blair put it in these terms, when describing the consequences of the modern realities and pressures on the media:
-<br>
-  <br>
-
-<i>“The result is a media that increasingly and to a dangerous degree is driven by “impact”. Impact is what matters. It is all that can distinguish, can rise above the clamour, can get noticed.
-<br>
-“The audience needs to be arrested, held and their emotions engaged. Something that is interesting is less powerful than something that makes you angry or shocked. The consequences of this are acute:
-<br>
-“First, scandal or controversy beats ordinary reporting hands down. News is rarely news unless it generates heat as much as or more than light.
-<br>
-“Second, attacking motive is far more potent than attacking judgment. It is not enough for someone to make an error. It has to be venal. Conspiratorial.
-<br>
-“Third, the fear of missing out means today’s media, more than ever before, hunts in a pack. In these modes it is like a feral beast, just tearing people and reputations to bits. But no-one dares miss out.
-<br>
-“Fourth, rather than just report news, even if sensational or controversial, the new technique is commentary on the news being as, if not more important than the news itself.
-<br>
-“This leads to the fifth point: the confusion of news and commentary. Comment is a perfectly respectable part of journalism. But it is supposed to be separate. Opinion and fact should be clearly divisible. The truth is that a large part of the media today not merely elides the two but does so now as a matter of course.  
-<br>
-“The final consequence of all of this is that it is rare today to find balance in the media.”</i>
+<li>Former British Prime Minister Tony Blair put it in these terms, when describing the consequences of the modern realities and pressures on the media:
+<ol style="list-style-type: none;">
+<li>&ldquo;<i>The result is a media that increasingly and to a dangerous degree is driven by &ldquo;impact&rdquo;. Impact is what matters. It is all that can distinguish, can rise above the clamour, can get noticed.</i> <br /> <br /> &ldquo;<i>The audience needs to be arrested, held and their emotions engaged. Something that is interesting is less powerful than something that makes you angry or shocked. The consequences of this are acute:</i? <br /> <br /> &ldquo;<i>First, scandal or controversy beats ordinary reporting hands down. News is rarely news unless it generates heat as much as or more than light. </i> <br /> <br /> &ldquo; <i>Second, attacking motive is far more potent than attacking judgment. It is not enough for someone to make an error. It has to be venal. Conspiratorial. </i><br /> <br /> &ldquo;<i>Third, the fear of missing out means today&rsquo;s media, more than ever before, hunts in a pack. In these modes it is like a feral beast, just tearing people and reputations to bits. But no-one dares miss out.</i> <br /> <br /> &ldquo;<i>Fourth, rather than just report news, even if sensational or controversial, the new technique is commentary on the news being as, if not more important than the news itself.</i> <br /> <br /> &ldquo;<i>This leads to the fifth point: the confusion of news and commentary. Comment is a perfectly respectable part of journalism. But it is supposed to be separate. Opinion and fact should be clearly divisible. The truth is that a large part of the media today not merely elides the two but does so now as a matter of course.</i> <br /> <br /> &ldquo;<i>The final consequence of all of this is that it is rare today to find balance in the media. </i>&rdquo;</li>
+</ol>
 </li>
-</ol>  
+</ol>
 
 
 {:start="33"}
 33. I am not saying that this reality is good or bad. My point is that these are facts and they should be acknowledged frankly, before there can be a sensible discussion on the role that the media can play in any particular society – rather than having a discussion based on an idealised notion of the media, which is divorced from reality.
 
 
-<ol start="4" style="list-style-type: upper-roman; font-weight: bold;">
+<ol start="5" style="list-style-type: upper-roman; font-weight: bold;">
 <li>Approaches to the Media</li>  
 </ol> 
 
@@ -393,11 +378,14 @@ Ladies and Gentlemen
 
 
 <ol start="46">
-<li> Guinea in particular is interesting. Last year, the International Herald Tribune ran a story headlined, “Ousting Guinea’s brutal junta.” The first paragraph read:-
-<br>
-<i>"Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.”</i>  
+<li>Guinea in particular is interesting. Last year, the International Herald Tribune ran a story headlined, “Ousting Guinea’s brutal junta.” The first paragraph read:-
+
+<ol style="list-style-type: none">
+<li>“<i>Over 150 people were gunned down by soldiers in the West Africa country of Guinea. Women were raped on the streets and opposition leaders were locked up. This was the response of a brutal military junta to a group of brave citizens who dared to hold a peaceful pro-democracy rally.</i>”</li>  
+</ol>  
   
 </li>  
+  
 </ol>  
   
 {:start="47"}
@@ -586,20 +574,13 @@ Ladies and Gentlemen
 78. The media as well as commentators could do more to recognise the true extent of China’s astonishing achievements, and ask themselves: is it really clear that the prescriptions being offered, would help China in its continued development? Do we not think that the Chinese leaders know what is good for their country?
 
 
-<ol start="79"> 
+<ol start="79">
 <li>I will refer to another Friedman quote published in September:
-<br>
-<br>
-<i>“Studying China’s ability to invest for the future doesn’t make me feel we have the kind of focus, legitimacy, unity and stick-to-it-iveness to do big things – democratically – that China does autocratically.
-<br>
-“We’ve done it before. But we’re not doing it now because too many of our poll-driven, toxically partisan, cable-TV-addicted, money-corrupted political class are more interested in what keeps them in power than what would again make America powerful, more interested in defeating each other than saving the country. [...]
-<br>
-“For democracy to be effective and deliver the policies and infrastructure our societies need requires the political centre to be focused, united and energised. That means electing candidates who will do what is right for the country not just for their ideological wing or whoever comes with the biggest bag of money.
-<br>
-“For democracies to address big problems – and that’s all we have these days – requires a lot of people pulling in the same direction, and that is precisely what we’re lacking.”</i>
-  
-</li> 
-</ol>  
+<ol style="list-style-type: none;">
+<li>&ldquo;<em>Studying China&rsquo;s ability to invest for the future doesn&rsquo;t make me feel we have the kind of focus, legitimacy, unity and stick-to-it-iveness to do big things &ndash; democratically &ndash; that China does autocratically. </em> <br /> <br /> &ldquo;<em>We&rsquo;ve done it before. But we&rsquo;re not doing it now because too many of our poll-driven, toxically partisan, cable-TV-addicted, money-corrupted political class are more interested in what keeps them in power than what would again make America powerful, more interested in defeating each other than saving the country. [...] </em> <br /> <br /> &ldquo;<em>For democracy to be effective and deliver the policies and infrastructure our societies need requires the political centre to be focused, united and energised. That means electing candidates who will do what is right for the country not just for their ideological wing or whoever comes with the biggest bag of money. </em> <br /> <br /> &ldquo;<em>For democracies to address big problems &ndash; and that&rsquo;s all we have these days &ndash; requires a lot of people pulling in the same direction, and that is precisely what we&rsquo;re lacking.</em>&rdquo;</li>
+</ol>
+</li>
+</ol> 
 
 <ol start="80">
 <li>Chinese leaders know that they need the country to pull together. It’s quite clear that you have a highly talented group of leaders in China who will not let anything stand in their way of their goal of making China a great power. China and its leadership:
