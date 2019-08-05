@@ -20,7 +20,7 @@ Our Management
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
-</div>
+</div><br>
 
 <div class="image">
   <img src="/images/1532069362285.jpg"><br>
@@ -37,7 +37,7 @@ Our Management
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
   Ministry of Law<br>
-</div>
+</div><br>
 
 <div class="image">
   <img src="/images/1515047430356.jpg"><br>
