@@ -6,13 +6,13 @@ breadcrumb: Our Management
 collection_name: about-us
 ---
 
-Our Managementss
----
-
 <style>
   .image{width= 400px; height= 200px;}
   img{max-width= 100%;}
 </style>
+
+Our Managementss
+---
 
 ### **Political Appointees**
 
