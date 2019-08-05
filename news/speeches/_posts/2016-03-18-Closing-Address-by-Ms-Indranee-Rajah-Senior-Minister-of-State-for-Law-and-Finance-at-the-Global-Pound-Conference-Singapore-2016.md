@@ -185,7 +185,7 @@ Dispute resolution practitioners,
 
  
 
-37. Arbitration institutions are similarly introducing mediation into their rules, whether as necessary or optional steps to take before or during the arbitration process4.
+37. Arbitration institutions are similarly introducing mediation into their rules, whether as necessary or optional steps to take before or during the arbitration process<sup>4</sup>.
 
 
 38. The SIAC and SIMC work together on a joint service known as the Arb-Med-Arb Protocol, which allows a mediated settlement agreement to be formalised as a consent arbitral award, thereby gaining the bite and reach of enforceability allowable under the New York Convention.
