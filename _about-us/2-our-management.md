@@ -7,8 +7,8 @@ collection_name: about-us
 ---
 
 <style>
-  .images{width= 100px; height=100px;}
-  .images img{max-width=100%;}
+  .img-gallery{width= 100px; height=200px;}
+  .img-gallery img{max-width=100%;}
 </style>
 
 Our Management
@@ -16,13 +16,13 @@ Our Management
 
 ### **Political Appointees**
 
-<div class="images">
+<div class="img-gallery">
   <img src="/images/1510806764644.jpg"></div><br>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
   Minister for Law<br>
 
-<div class="images">
+<div class="img-gallery">
   <img src="/images/1532069362285.jpg"></div><br>
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
@@ -31,13 +31,13 @@ Our Management
 
 ### **Senior Management**
 
-<div class="images">
+<div class="img-gallery">
   <img src="/images/1514972152202.jpg"></div><br>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
   Ministry of Law<br>
 
-<div class="images">
+<div class="img-gallery">
   <img src="/images/1515047430356.jpg"></div><br>
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
