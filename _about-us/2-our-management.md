@@ -13,6 +13,7 @@ collection_name: about-us
   }
   .img-gallery img {
   max-width: 100%;
+  max-height: 100%;
   }
 </style>
 
