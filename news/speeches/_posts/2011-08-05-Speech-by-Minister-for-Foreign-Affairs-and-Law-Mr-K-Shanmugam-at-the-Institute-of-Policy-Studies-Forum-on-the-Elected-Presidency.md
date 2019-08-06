@@ -163,7 +163,7 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 
 
 <ol start="2" style="list-style-type: upper-alpha">
-<li>President can be highly influential and effective</li>
+  <li><u>President can be highly influential and effective</u></li>
 </ol>
 
 {:start="19"}
