@@ -27,7 +27,7 @@ permalink: /news/press-releases/Launch-of-the-INSOL-International-Asia-Hub-at-Si
  
 10. Mr K Shanmugam, SC, Singapore Minister for Home Affairs and Minister for Law said “INSOL’s Asia Hub in Singapore will add to the vibrancy and development of the sector in Asia. INSOL will seek to raise industry standards, thought leadership and scholarship; and assist in the development of insolvency and restructuring systems in Asia. I am confident that INSOL and Singapore will realise these opportunities and synergies, through collaboration between INSOL and Singapore practitioners, academics, and regulators.” 
  
-**<u>About INSOL International</u>**
+**<u>About INSOL International</u>**  
 INSOL International is a world-wide federation of national member associations of accountants, lawyers and other professionals who specialise in restructuring, insolvency and turnaround. There are currently over 40 Member Associations (and growing) with over 10,500 professionals participating as members of INSOL International. INSOL International is a non-profit making association with a head office located in London.
  
 INSOL International was formed in 1982 and has grown in stature to become the leading restructuring, insolvency and turnaround association in the world.  It is a valuable source of professional knowledge, which is being put to use globally on diverse projects for the benefit of the business and financial communities.
