@@ -60,7 +60,7 @@ Ladies and gentlemen;
 
 
 <ol start="3" style="list-style-type: upper-roman">
-<li><u>INGAPORE’S COMPETITIVE ADVANTAGES</u></li>
+<li><u>SINGAPORE’S COMPETITIVE ADVANTAGES</u></li>
 </ol>
 
 {:start="10"}
