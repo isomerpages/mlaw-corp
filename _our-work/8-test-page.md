@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Land Policy And Administration
-permalink: /our-work/land-policy-and-administration/
+permalink: /our-work/land-policy-and-administration-test/
 breadcrumb: Land Policy And Administration
 collection_name: our-work
 ---
