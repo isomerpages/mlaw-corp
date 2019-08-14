@@ -13,3 +13,4 @@ MinLaw formulates and reviews the following policies to support the optimal use 
 ##### **Residential Property Act**
  
 The [Residential Property Act (RPA)](https://sso.agc.gov.sg/Act/RPA1976){:target="_blank"} strikes a balance between ensuring that the limited supply of landed residential properties in Singapore remains the primary preserve of Singapore Citizens, whilst allowing selected foreigners who have demonstrated social commitment and are making a significant economic contribution to Singapore to also own landed homes. Foreigners who wish to purchase landed residential properties have to submit an application to the Land Dealings Approval Unit at the [Singapore Land Authority (SLA)](http://www.sla.gov.sg/Home.aspx){:target="_blank}. 
+Test
