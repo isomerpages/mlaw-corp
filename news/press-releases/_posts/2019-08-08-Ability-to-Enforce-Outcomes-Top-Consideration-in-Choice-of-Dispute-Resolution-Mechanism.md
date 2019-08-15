@@ -31,7 +31,7 @@ permalink: /news/press-releases/Ability-to-Enforce-Outcomes-Top-Consideration-in
 
 
 
-**SINGAPORE INTERNATIONAL DISPUTE RESOLUTION ACADEMY AND**
+**SINGAPORE INTERNATIONAL DISPUTE RESOLUTION ACADEMY AND**  
 **SINGAPORE MINISTRY OF LAW**
 
 
