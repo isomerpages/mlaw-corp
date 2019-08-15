@@ -2,7 +2,7 @@
 layout: post
 title:  Ministry of Law Strengthens Bilateral Ties on the Side of Singapore Convention Signing Ceremony and Conference
 date:   2019-08-07
-permalink: /news/press-releases/Ministry-of-Law-Strengthens-Bilateral-Ties-on-the-Side-of-Singapore-Convention-Signing-Ceremony-and-Conference
+permalink: /news/press-releases/Ministry-of-Law-Strengthens-Bilateral-Ties-on-the-Side-of-Singapore-Convention-Signing-Ceremony-and-Conference-7
 ---
 
 
