@@ -55,28 +55,40 @@ permalink: /news/press-releases/Maxwell-Chambers-Suites-Officially-Opens-Today-G
     
     **<u>Annex A: International Institutions at Maxwell Chambers Suites</u>** 
 
+ {:start="1"}
  1. American Arbitration Association, International Centre for Dispute Resolution (AAA-ICDR)*
  
+ {:start="2"}
  2. Chartered Institute of Arbitrators, Singapore (CIArb Singapore)
  
+ {:start="3"}
  3. International Chamber of Commerce Academy (ICC Academy)
  
+ {:start="4"}
  4. International Chamber of Commerce, International Court of Arbitration (ICC-ICA)*
  
+ {:start="5"}
  5. International Chamber of Commerce, Regional Office (ICC Asia)
  
+ {:start="6"}
  6. INSOL International - International Association of Restructuring, Insolvency & Bankruptcy Professionals (INSOL)
  
+ {:start="7"}
  7. Permanent Court of Arbitration (PCA)*
  
+ {:start="8"}
  8. Singapore Chamber of Maritime Arbitration (SCMA)
  
+ {:start="9"}
  9. Singapore International Arbitration Centre (SIAC)*
- 
+
+{:start="10"}
 10. Singapore International Mediation Centre (SIMC)*
  
+{:start="11"} 
 11. The Law Society of Singapore (LawSoc)
  
+{:start="12"} 
 12. World Intellectual Property Organisation Arbitration and Mediation Center (WIPO AMC)*
                             
 &#42; Also has case management office in Singapore
