@@ -56,6 +56,7 @@ will not be included under REFJA.</li>
 
 **Repeal of RECJA to operate a single statutory regime under REFJA**
 
+{:start="10"} 
 10. The Repeal Bill provides for the repeal of the RECJA on a date to be stipulated by the Minister. Before the Repeal Bill comes into effect, reciprocating countries recognised under the RECJA are expected to be transferred to the REFJA. After the Repeal Bill comes into effect, there will be a single regime under the REFJA.
 
 
@@ -64,9 +65,9 @@ will not be included under REFJA.</li>
 
 **ANNEX: KEY AMENDMENTS PROPOSED BY**
 
-**1. THE RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS (“REFJA”) (AMENDMENT) BILL  
-AND  
-2. THE RECIPROCAL ENFORCEMENT OF COMMONWEALTH JUDGMENTS (“RECJA”) (REPEAL) BILL**  
+**1. THE RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS (“REFJA”) (AMENDMENT) BILL**  
+**AND**  
+**2. THE RECIPROCAL ENFORCEMENT OF COMMONWEALTH JUDGMENTS (“RECJA”) (REPEAL) BILL**  
 
 
 <table class="table-h">
