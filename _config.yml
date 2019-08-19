@@ -56,4 +56,6 @@ collections:
     output: true
   about-us:
     output: true
+  lorem-collection:
+    output: true
 resources_name: news
