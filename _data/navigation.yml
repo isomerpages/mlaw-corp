@@ -95,6 +95,8 @@
     url: /news/events/
   - title: Others
     url: /news/others/
+  - title: lorem
+    url: /news/lorem/
 
 - title: E Services
   url: /e-services/insolvency-office/
