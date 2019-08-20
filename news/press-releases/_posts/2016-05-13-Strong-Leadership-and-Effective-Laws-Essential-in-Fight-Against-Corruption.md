@@ -32,7 +32,7 @@ collection_name: news
 7. The first of its kind, the Anti-Corruption Summit 2016 brings together world leaders, business leaders, and civil society to agree on a package of practical steps to expose corruption, punish the perpetrators and support those affected by corruption, and drive out the culture of corruption wherever it exists.
 
 [Annex A - Singapore Country Statement (0.1MB)](/files/news/press-releases/2016/05/Anti Corruption 2016 Press Release Annex A.pdf)  
-[Annex B - Prime Minister Lee Hsien Loong’s Contribution to the Anthology of Essays on Anti-Corruption (0.1MB)](/files/news/press-releases/2016/05/Anti Corruption 2016 Press Release Annex B.pdf)
+[Annex B - Prime Minister Lee Hsien Loong’s Contribution to the Anthology of Essays on Anti-Corruption (0.2MB)](/files/news/press-releases/2016/05/AntiCorruption2016PressReleaseAnnexB.pdf)
 
 
 
