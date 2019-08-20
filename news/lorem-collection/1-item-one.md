@@ -7,3 +7,5 @@ collection_name: lorem-collection
 ---
 
 I page inside folder 
+
+page inside properly named folder 
