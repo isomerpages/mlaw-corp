@@ -7,7 +7,7 @@ permalink: /news/announcements/response-to-feedback-received-from-public-consult
 
 20 Feb 2008 Posted in [Announcements](/news/announcements) 
 
-The report is in PDF format, to view click  [here (0.09MB)](/files/news/announcements/2008/02/linkclickccc3.pdf)
+The report is in PDF format, to view click  [here (0.1MB)](/files/news/announcements/2008/02/linkclickccc3.pdf)
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2014 </p>
