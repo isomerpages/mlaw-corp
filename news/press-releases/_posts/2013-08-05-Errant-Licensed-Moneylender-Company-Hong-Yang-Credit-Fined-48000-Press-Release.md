@@ -9,7 +9,7 @@ collection_name: news
 
 5 Aug 2013 Posted in [Press releases](/news/press-releases)
 
-The report is in PDF format, to view click [here (0.37MB)](/files/news/press-releases/2013/08/Press release - Conviction and sentencing of Hong Yang Credit.pdf).
+The report is in PDF format, to view click [here (0.4MB)](/files/news/press-releases/2013/08/PressReleaseConvictionAndSentencingOfHongYangCredit.pdf).
 
 <p class="right-side-updated">Last updated on 25 Nov 2014</p>
 
