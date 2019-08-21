@@ -317,7 +317,7 @@ These are “wrong” questions because the President cannot do any of these thi
 42. As we grow as a nation, we should develop the presidency as an institution of authority and prestige,    with significant c onstitutional powers. It can be a powerful , influential i nstitution, checking on a rogue Government , if the Office is held by people who can discharge the duties with great skill and care.
 
 
-[Annexes to Remarks by Minister Shanmugam at IPS Forum (0.9MB)](/files/news/speeches/2011/08/linkclickea4e.pdf)
+[Annexes to Remarks by Minister Shanmugam at IPS Forum (1.04MB)](/files/news/speeches/2011/08/linkclickea4e.pdf)
 
 ----
 <p id="fn1"><sup>[1]</sup> Bogdanor, Vernon, “The Monarchy and the Constitution”, Parliamentary Affairs, 1996, 49(3), pp410-411. </p>
