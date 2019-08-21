@@ -46,7 +46,7 @@ permalink: /news/announcements/public-consultation-on-the-insolvency-law-review-
 **Annex A:**
 
 [EXECUTIVE SUMMARY (0.17MB)](/files/news/announcements/2013/10/ILRC Report Executive Summary.pdf)  
-[INSOLVENCY LAW REVIEW COMMITTEE REPORT (1.7MB)](/files/news/announcements/2013/10/Report of the Insolvency Law Review Committee.pdf)
+[INSOLVENCY LAW REVIEW COMMITTEE REPORT (1.5MB)](/files/news/announcements/2013/10/ReportoftheInsolvencyLawReviewCommittee.pdf)
 
 <p class="right-side-updated">Last updated on 25 Nov 2014</p> 
 
