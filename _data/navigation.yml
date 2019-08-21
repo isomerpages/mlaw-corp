@@ -46,57 +46,29 @@
   - title: lorem
     url: /news/lorem-collection/item-one/
 
-- title: Our Work
-  url: /our-work/legal-group/
+- title: Law Practice Entities and Lawyers
+  url: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/
   sub-links:
-  - title: Legal Group
-    url: /our-work/legal-group/
-  - title: Legal Industry Division
-    url: /our-work/legal-industry-division/
-  - title: Legal Services Regulatory Authority
-    url: /our-work/legal-services-regulatory-authority/
-  - title: Land Policy And Administration
-    url: /our-work/land-policy-and-administration/
-  - title: Intellectual Property Policy
-    url: /our-work/intellectual-property-policy/
-  - title: Community Legal Services Group
-    url: /our-work/community-legal-services-group/
-  - title: Our Legal System
-    url: /our-work/our-legal-system/
-
-- title: Law Firms
-  url: /law-firms/find-law-practice-entity-or-lawyer/
-  sub-links:
-  - title: Find Law Practice Entity Or Lawyer
-    url: /law-firms/find-law-practice-entity-or-lawyer/
-  - title: Licensing Or Registration Of Law Practice Entities
-    url: /law-firms/licensing-or-registration-of-law-practice-entities/
-  - title: Registration Of Individuals
-    url: /law-firms/registration-of-individuals/
+  - title: Licensing or Registration of Law Practice Entities
+    url: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/
+  - title: Registration of Individuals
+    url: /law-practice-entities-and-lawyers/registration-of-individuals/
   - title: Other Services
-    url: /law-firms/other-services/
-  - title: Relevant Legislation And Communications
-    url: /law-firms/relevant-legislation-and-communications/
-  - title: Incentive And Exemption Schemes
-    url: /law-firms/incentive-and-exemption-schemes/
-  - title: Other Useful Information
-    url: /law-firms/other-useful-information/
+    url: /law-practice-entities-and-lawyers/other-services/
+  - title: Resources for Law Practice Entities
+    url: /law-practice-entities-and-lawyers/resources-for-law-practice-entities/
+  - title: Incentive and Exemption Schemes
+    url: /law-practice-entities-and-lawyers/incentive-and-exemption-schemes/
 
-- title: Admission To The Bar
+- title: Admission to the Bar
   url: /admission-to-the-bar/admission-requirements/
   sub-links:
   - title: Admission Requirements
     url: /admission-to-the-bar/admission-requirements/
-  - title: Approved Universities
-    url: /admission-to-the-bar/approved-universities/
-  - title: Omitted Universities
-    url: /admission-to-the-bar/omitted-universities/
-  - title: Alternatives For Working In The Legal Field
-    url: /admission-to-the-bar/alternatives-for-working-in-the-legal-field/
-  - title: Apply For Exemption
-    url: /admission-to-the-bar/apply-for-exemption/
-  - title: Relevant Legislation
-    url: /admission-to-the-bar/relevant-legislation/
+  - title: Alternatives for Working in the Legal Field in Singapore
+    url: /admission-to-the-bar/alternatives-for-working-in-the-legal-field-in-singapore/
+  - title: Applications to the Minister for Law for Exemption
+    url: /admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/
 
 - title: E Services
   url: /e-services/insolvency-office/
@@ -126,16 +98,16 @@
     url: https://www.mlaw.gov.sg/eservices/io/
     external: true
 
-# - title: Join Us
-#   url: /join-us/why-minlaw/
-#   sub-links:
-#   - title: Why Minlaw
-#     url: /join-us/why-minlaw/
-#   - title: Career Opportunities
-#     url: /join-us/career-opportunities/
-#   - title: Meet Our Colleagues
-#     url: /join-us/meet-our-colleagues/
-#   - title: Minlaw Internship
-#     url: /join-us/minlaw-internship/
-#   - title: Meet Our Interns
-#     url: /join-us/meet-our-interns/
+- title: Join Us
+  url: /join-us/why-minlaw/
+  sub-links:
+  - title: Why Minlaw
+    url: /join-us/why-minlaw/
+  - title: Career Opportunities
+    url: /join-us/career-opportunities/
+  - title: Meet Our Colleagues
+    url: /join-us/meet-our-colleagues/
+  - title: Minlaw Internship
+    url: /join-us/minlaw-internship/
+  - title: Meet Our Interns
+    url: /join-us/meet-our-interns/
