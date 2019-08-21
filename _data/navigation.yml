@@ -13,10 +13,38 @@
     url: /about-us/our-management/
   - title: Organisation Structure
     url: /about-us/organisation-structure/
+  - title: Our Legal System
+    url: /about-us/our-legal-system/
   - title: What We Do
     url: /about-us/what-we-do/
-  - title: Contact Us
-    url: /about-us/contact-us/
+
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: Announcements
+    url: /news/announcements/
+  - title: Replies
+    url: /news/replies/
+  - title: Speeches
+    url: /news/speeches/
+  - title: Parliamentary Speeches
+    url: /news/parliamentary-speeches/
+  - title: Visits
+    url: /news/visits/
+  - title: Public Consultations
+    url: /news/public-consultations/
+  - title: Legal Industry Newsletters
+    url: /news/legal-industry-newsletters/
+  - title: Events
+    url: /news/events/
+  - title: Others
+    url: /news/others/
+  - title: lorem
+    url: /news/lorem-collection/item-one/
 
 - title: Our Work
   url: /our-work/legal-group/
@@ -69,37 +97,6 @@
     url: /admission-to-the-bar/apply-for-exemption/
   - title: Relevant Legislation
     url: /admission-to-the-bar/relevant-legislation/
-
-- title: News
-  url: /news/
-  sub-links:
-  - title: All
-    url: /news/
-  - title: Press Releases
-    url: /news/press-releases/
-  - title: Announcements
-    url: /news/announcements/
-  - title: Replies
-    url: /news/replies/
-  - title: Speeches
-    url: /news/speeches/
-  - title: Parliamentary Speeches
-    url: /news/parliamentary-speeches/
-  - title: Visits
-    url: /news/visits/
-  - title: Public Consultations
-    url: /news/public-consultations/
-  - title: Legal Industry Newsletters
-    url: /news/legal-industry-newsletters/
-  - title: Events
-    url: /news/events/
-  - title: Others
-    url: /news/others/
-  - title: lorem
-    url: /news/lorem-collection/item-one/ 
-    
-    
-    
 
 - title: E Services
   url: /e-services/insolvency-office/
