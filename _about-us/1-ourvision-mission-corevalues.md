@@ -6,7 +6,7 @@ breadcrumb: Our Vision, Mission and Core Values
 collection_name: about-us
 ---
 
-Our Vision, Mission and Core Values
+Our Vision, Mission and Core Valueshihi
 ---
 
 ![About Us](/images/about_us.jpg)
