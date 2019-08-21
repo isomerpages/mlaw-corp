@@ -40,7 +40,7 @@ To achieve these outcomes, Singapore should develop:
 * **A conducive and progressive environment for IP activities**, to strengthen international acclaim of Singapore as a vibrant IP hub and establish Singapore as a thought leader in IP.
 
 {:start="4"}
-4.  The IP Hub Master Plan report is available [here (1.6MB)](/files/news/press-releases/2013/04/IP Hub Master Plan Report.pdf). 
+4.  The IP Hub Master Plan report is available [here (2.9MB)](/files/news/press-releases/2013/04/IPHubMasterPlanReport.pdf). 
 
 
 {:start="5"}
