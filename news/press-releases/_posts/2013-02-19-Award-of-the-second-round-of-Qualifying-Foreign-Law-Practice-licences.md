@@ -99,7 +99,7 @@ collection_name: news
 
 
 
-<p id="fn6"><sup>[6]</sup> Please refer to SIAC's press release available <a href="/files/news/press-releases/2013/02/SIAC PR 2013.pdf">here (0.15MB)</a>.  SIAC’s 2012 statistics shows that the total number of new international cases it handled increased from 71 in 2008 to 158 in 2012. </p>
+<p id="fn6"><sup>[6]</sup> Please refer to SIAC's press release available <a href="/files/news/press-releases/2013/02/SIACPR2013.pdf ">here (0.1MB)</a>.  SIAC’s 2012 statistics shows that the total number of new international cases it handled increased from 71 in 2008 to 158 in 2012. </p>
 
 
 
