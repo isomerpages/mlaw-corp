@@ -62,7 +62,7 @@ collection_name: news
 * Resolving complaints and/or disputes.
  
 {:start="7"}
-7. The full public consultation paper may be viewed online [here (0.7MB)](/files/news/press-releases/2017/05/CopyrightReviewCMOConsultationPaper.pdf)
+7. The full public consultation paper may be viewed online [here (0.7MB)](/files/news/press-releases/2017/05/CopyrightReview-CMOConsultationPaper.pdf)
 
  
 
