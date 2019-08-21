@@ -65,7 +65,7 @@ collection_name: news
 **INTELLECTUAL PROPERTY OFFICE OF SINGAPORE & MINISTRY OF LAW**  
 **16 MARCH 2016**
 
-[Annex A - Final Report on the Review of Singapore's Registered Designs Regime (1MB)](/files/news/press-releases/2016/03/Final Report for Designs Review.pdf)  
+[Annex A - Final Report on the Review of Singapore's Registered Designs Regime (2MB)](/files/news/press-releases/2016/03/AnnexA-FinalReportForDesignsReview.pdf)  
 [Annex B - Quotes from design community (0.1MB)](/files/news/press-releases/2016/03/Annex B - Quotes from design community.pdf)
 
 <sup>[1]</sup>Announced by the DesignSingapore Council on 10 March 2016, the Masterplan identifies design as a key driver of value creation, as Singapore transitions into an innovation-driven economy.
