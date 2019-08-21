@@ -75,7 +75,7 @@ Email: <MLAW_Consultation@mlaw.gov.sg>
 {:start="8"}
 8. In May 2013, a 19-member Committee, co-chaired by Ms Indranee Rajah SC, Senior Minister of State for Law, and Judge of Appeal, Justice V K Rajah, was formed to study the viability of developing a framework for establishing the SICC. The SICC Committee comprised international and local members to provide a wide range of expertise and views.  
 
-[Annex A: SICC Committee Report (0.75MB)](/files/news/press-releases/2013/12/Annex A - SICC Committee Report.pdf)
+[Annex A: SICC Committee Report (0.75MB)](/files/news/press-releases/2013/12/AnnexA-SICCCommitteeReport.pdf)
 
 ---
 <p id="signifcantly"><sup>[1]</sup> Source: MarketLine Industry Profile – “Legal Services in Asia-Pacific”, October 2012. From 2012 to 2016, the legal services sector in Asia-Pacific is projected to increase by 33.8%, from USD$90.6 billion to USD$121.2 billion.</p>
