@@ -9,6 +9,6 @@ collection_name: news
 27 May 2013 Posted in [Press releases](/news/press-releases)
 
 
-The report is in PDF format, to view click [here (0.35MB)](/files/news/press-releases/2013/05/Press release - EH Credit sentenced.pdf).
+The report is in PDF format, to view click [here (0.4MB)](/files/news/press-releases/2013/05/PressReleaseEHCreditSentenced.pdf).
 
 <p class="right-side-updated">Last updated on 25 Nov 2014</p>
