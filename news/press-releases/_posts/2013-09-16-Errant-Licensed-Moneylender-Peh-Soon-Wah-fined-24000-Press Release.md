@@ -8,6 +8,6 @@ collection_name: news
 
 16 Sep 2013 Posted in [Press releases](/news/press-releases)
 
-The report is in PDF format, to view click [here (0.37MB)](/files/news/press-releases/2013/09/Press release - Conviction and sentencing of M'tac Triple 8.pdf).
+The report is in PDF format, to view click [here (0.37MB)](/files/news/press-releases/2013/09/PressReleaseConvictionAndSentencingOfMTacTriple8.pdf).
 
 <p class="right-side-updated">Last updated on 25 Nov 2014</p>
