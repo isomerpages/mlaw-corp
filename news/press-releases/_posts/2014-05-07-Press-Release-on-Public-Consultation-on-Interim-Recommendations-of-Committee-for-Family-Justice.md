@@ -64,7 +64,7 @@ collection_name: news
 **Public Consultation**
 
 {:start="10"}
-10. Members of the public are invited to share their views with the Committee. The consultation period is from 7 May 2014 to 7 June 2014.  The Public Consultation Paper is available [here (0.3MB)](/files/news/press-releases/2014/05/PublicConsultationPaperonInterimRecommendationsofCommitteeforFamilyJustice.pdf) and [www.reach.gov.sg](http://www.reach.gov.sg/).  Views and suggestions may be submitted in electronic form or hard copy form to:
+10. Members of the public are invited to share their views with the Committee. The consultation period is from 7 May 2014 to 7 June 2014.  The Public Consultation Paper is available [here (0.3MB)](/files/news/press-releases/2014/05/PublicConsultationPaperOnInterimRecommendationOfCommitteeForFamilyJustice.pdf) and [www.reach.gov.sg](http://www.reach.gov.sg/).  Views and suggestions may be submitted in electronic form or hard copy form to:
 
 <p class="address-centered">Committee for Family Justice</p>  
 <p class="address-centered">c/o Legal Policy Division, Ministry of Law</p>  
