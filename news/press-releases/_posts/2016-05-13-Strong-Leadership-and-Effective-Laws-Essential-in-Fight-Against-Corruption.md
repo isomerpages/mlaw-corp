@@ -20,7 +20,7 @@ collection_name: news
 4. Senior Minister of State Indranee Rajah said: “Corruption is a scourge and a root cause of many of the world’s problems. Singapore takes a holistic approach to combat corruption. Most importantly, our strong political leadership and will in creating a culture of zero-tolerance to corruption is key. While Singapore has had some measure of success, we will continue to work with partners from various sectors of society to eradicate corruption, and learn from the best practices of other countries.”
 
 
-5. An anthology of essays on Anti-Corruption was also launched at the Summit by UK Prime Minister David Cameron. Prime Minister Lee Hsien Loong contributed to the collection an essay on Singapore’s experience in combating corruption. ([Annex B (0.1MB)](/files/news/press-releases/2016/05/Anti Corruption 2016 Press Release Annex B.pdf))
+5. An anthology of essays on Anti-Corruption was also launched at the Summit by UK Prime Minister David Cameron. Prime Minister Lee Hsien Loong contributed to the collection an essay on Singapore’s experience in combating corruption. ([Annex B (0.1MB)](/files/news/press-releases/2016/05/AntiCorruption2016PressReleaseAnnexB))
 
 6. Senior Minister of State Indranee Rajah also met with the Minister of State of for Civil Justice, Lord Edward Faulks, and exchanged views on civil justice in their respective countries.
 
