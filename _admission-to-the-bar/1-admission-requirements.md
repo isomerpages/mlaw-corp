@@ -10,7 +10,7 @@ collection_name: admission-to-the-bar
 
 [ANNOUNCEMENT (30 August 2018): The Ministry of Law has accepted in principle the recommendations of the Committee for the Professional Training of Lawyers, and will work with stakeholders, including the Law Society of Singapore and the Singapore Institute of Legal Education, on the implementation of the recommendations. Under the new regime, qualified persons who pass Part B of the Singapore Bar Examinations from the 2023 session onwards will be called to the Bar after passing Part B; if they wish to practise law, they will need to complete a 12-month training contract before they can obtain a practising certificate.  For more information about this and the other recommendations, please refer to the Committee’s report and our press release.]
 
-Please refer to the website of the Singapore Institute of Legal Education (SILE) for more information on the “qualified person” and admission requirements, degree and university requirements, Part A and Part B of the Singapore Bar Examinations, relevant legal training and/or work, the practice training period, the admission/call procedure, and the Foreign Practitioner Examinations (FPE).
+Please? refer to the website of the Singapore Institute of Legal Education (SILE) for more information on the “qualified person” and admission requirements, degree and university requirements, Part A and Part B of the Singapore Bar Examinations, relevant legal training and/or work, the practice training period, the admission/call procedure, and the Foreign Practitioner Examinations (FPE).
 
 Individuals who wish to be admitted to the Singapore Bar must:
 
