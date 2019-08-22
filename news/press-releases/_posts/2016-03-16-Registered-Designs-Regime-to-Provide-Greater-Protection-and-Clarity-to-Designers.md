@@ -52,7 +52,7 @@ collection_name: news
 7. Commenting on the recommendations, IPOS Chief Executive Officer, Daren Tang said, “The proposed changes to the registered designs regime are part of Singapore’s commitment to regularly review our IP regimes to ensure that they are progressive and world-class.  Working with our partners in the design community, they take into account current design trends and business practices and are meant to support creativity and innovation in Singapore’s designs ecosystem.  We encourage designers to make full use of the enhanced regime to help them deliver differentiated products in a competitive globalised market.”
 
 {:start="8"}
-8. The full set of recommendations can be found in  [Annex A (1MB)](/files/news/press-releases/2016/03/Final Report for Designs Review.pdf).
+8. The full set of recommendations can be found in  [Annex A (1MB)](/files/news/press-releases/2016/03/AnnexA-FinalReportForDesignsReview.pdf).
 
 **Background**
 
