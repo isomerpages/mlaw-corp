@@ -28,7 +28,7 @@ Relevant Legislation and Communications
     <td><b>Communications</b></td>
     <td>
       <ul>
-        <li><a href="/news/announcements/circular-on-the-establishment-of-the-legal-service-regu/">Circular on the Establishment of the Legal Services Regulatory Authority [09/2015]</a></li>
+        <li><a href="/news/announcements/circular-on-the-establishment-of-the-legal-service-regu">Circular on the Establishment of the Legal Services Regulatory Authority [09/2015]</a></li>
         <li><a href=""></a></li>
         <li><a href="" target="_blank"></a></li>
         <li><a href="" target="_blank"></a></li>
