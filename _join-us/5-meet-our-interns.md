@@ -6,6 +6,10 @@ breadcrumb: Meet Our Interns
 collection_name: join-us
 ---
 
+<style>
+  .image {width: 400px;}
+  .image img {max-width: 100%;}
+</style>
 Meet Our Interns
 ---
 
