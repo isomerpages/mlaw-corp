@@ -74,9 +74,12 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-land-titles-str
 <li>A person standing for election to the sale committee must meet certain eligibility criteria. For example, such a person has to be an owner of a unit in the development; or be nominated by an owner which is a company; or be a member of the immediate family of the owner who is nominating him. </li>
 <li>A person standing for election to the sale committee must declare his interest or relationship, if any, with a property developer, property consultant, marketing agent or legal firm.
 <br>
+<br>  
 As for proceedings of a sale committee, the Bill sets out, among others, that:
 </li>
-<li>The sale committee shall convene general meetings to consider key issues such as the appointment of any lawyer, property consultant or marketing agent; the apportionment of sale proceeds; the terms and conditions of the Collective Sale Agreement (CSA); and the terms and conditions of the sale and purchase agreement. These changes will ensure that owners will have the opportunity to discuss such key issues before consenting to them. </li>
+<li>
+<br>
+The sale committee shall convene general meetings to consider key issues such as the appointment of any lawyer, property consultant or marketing agent; the apportionment of sale proceeds; the terms and conditions of the Collective Sale Agreement (CSA); and the terms and conditions of the sale and purchase agreement. These changes will ensure that owners will have the opportunity to discuss such key issues before consenting to them. </li>
 <li>The sale committee shall keep minutes of its proceedings and must, within 7 days after each meeting, either display the minutes on the management corporation's notice board or pass the minutes to all owners. </li>
 </ul>
 
