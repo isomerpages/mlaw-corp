@@ -185,8 +185,8 @@ Madam Speaker,
 40. The minimum statutory requirement for a legally qualified person to be a Magistrate will also be increased from 1 year to 3 years under clause 7.
 
 {:start="41"}
-41. When the Subordinate Courts Act was amended 20 years ago in 1993, Assoc Prof Ho Peng Kee said before this House:
-“Dispensation of justice and application of the law do not take place in a vacuum but in the context of Singapore's social milieu. Not only is legal knowledge important but also wisdom that comes with experience in dealing with matters of the world.”
+41. When the Subordinate Courts Act was amended 20 years ago in 1993, Assoc Prof Ho Peng Kee said before this House:  
+“*Dispensation of justice and application of the law do not take place in a vacuum but in the context of Singapore's social milieu. Not only is legal knowledge important but also wisdom that comes with experience in dealing with matters of the world*.”
 
 {:start="42"}
 42. As our legal profession matures, it is timely for these minimum statutory requirements to be reviewed. 
