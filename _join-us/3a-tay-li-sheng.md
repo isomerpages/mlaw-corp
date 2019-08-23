@@ -15,7 +15,7 @@ second_nav_title: Meet Our Colleagues
 Building a Better Community
 ---
 
-<div class="image"><img src="/images/1456125355571.jpg/"</div>
+<div class="image"><img src="/images/1456125355571.jpg/"></div>
 
 **A CAREER** in the public sector was not on the cards for Ms Tay Li Shing initially. After she graduated with a law degree from the University of Bristol, she did what most law graduates would do — look for a job in a law firm.
 
