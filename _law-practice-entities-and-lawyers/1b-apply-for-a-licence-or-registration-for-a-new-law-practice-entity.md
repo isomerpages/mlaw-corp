@@ -42,14 +42,30 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
         </li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>STEP 2: Complete and submit application form and pay application fee</b></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eServices/LSRA/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
+        <li>The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
+        <li>The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+        <li>
+The application fee must be paid online using a valid credit/debit card. </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
 </table>
