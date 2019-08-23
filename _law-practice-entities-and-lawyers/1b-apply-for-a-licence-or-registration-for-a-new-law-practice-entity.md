@@ -113,15 +113,37 @@ If the application is rejected, the process will end here.
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <ul>
+        <li>Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
+        <li>If you are applying for a licence for a new law practice entity because you are converting the legal structure of an existing law practice entity, please ensure that you also submit an application via LSRA e-Services to terminate the existing law practice entity. To ensure continuity of operations, the requested start date of the new law practice entity should be the day after the requested last day of operations of the existing law practice entity. Please note that the lawyers in your law practice will also need to submit a Notice of Change via eLitigation (for Singapore solicitors) or apply to LSRA for new Certificates of Registration (for Singapore solicitors in foreign law practice entities or foreign-qualified lawyers). After the termination application is approved, the Certificates of Registration of all individuals registered under the existing law practice will be automatically terminated on the last day of operations of the existing law practice</li>
+        <li>The licence/registration fee can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+        <li>The licence/registration fee, which is non-refundable, must be paid online using a valid credit/debit card.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
+        <li>SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://www.gov.sg/">FAQ</a>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>STEP 6: Receive licence/certificate</b></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>The LSRA will issue the licence/certificate after verifying the UEN and payment.</li>
+        <li>After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
+        <li>You can now apply for Certificates of Registration for any foreign lawyer or regulated non-practitioner.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
 </table>
