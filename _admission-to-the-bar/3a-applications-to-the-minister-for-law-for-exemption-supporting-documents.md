@@ -7,6 +7,9 @@ collection_name: admission-to-the-bar
 second_nav_title: Applications to the Minister for Law for Exemption
 ---
 
+<style>
+ol li .alpha li {list-style-type: lower-alpha;}
+</style>
 Supporting Documents for Applications for Exemption
 ---
 
