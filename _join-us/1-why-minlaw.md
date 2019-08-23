@@ -40,3 +40,5 @@ People Manager - “leading teams”. MinLaw’s leadership development cycle de
 Competent Professional – “deepening expertise”.  Besides on-the-job training, you will choose from a suite of programmes and certifications which corresponds with your functional areas to develop your competency and knowledge in a structured approach throughout your career in MinLaw.
 
 If you are keen to learn beyond your area of expertise, there are also opportunities for you to take on or join cross-functional project teams.  Promising officers may be sponsored to go for ministry-sponsored courses in which lead to formal qualifications.
+
+**Video: MinLaw 50th Anniversary**
