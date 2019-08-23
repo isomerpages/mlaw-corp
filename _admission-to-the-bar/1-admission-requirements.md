@@ -19,6 +19,6 @@ Individuals who wish to be admitted to the Singapore Bar must:
 * Fulfil the other [admission requirements](http://www.sile.edu.sg/admission-to-the-singapore-bar){:target="_blank"} set out in Sections 12 and 13 of the Legal Profession Act read together with the [Legal Profession (Admission) Rules 2011](#){:target="blank"}:
 	* You have attained the age of 21 years;
 	* You are of good character;
-	* You have satisfactorily served the practice training period applicable to you (please refer to Rules 14-23 of the Legal Profession (Admission) Rules 2011);
-	* You have attended and satisfactorily completed such courses of instruction as the Board of Directors of the Singapore Institute of Legal Education (SILE) may prescribe under section 10 (please refer to Rule 3 of the Legal Profession (Admission) Rules); and
-	* You have passed such examinations as the Board of Directors of the Institute SILE may prescribe under section 10 (please refer to Rules 4 and 5 of the Legal Profession (Admission) Rules 2011).
+	* You have satisfactorily served the [practice training period](http://www.sile.edu.sg/admission-requirements/practice-training-period){:target="_blank"} applicable to you (please refer to Rules 14-23 of the [Legal Profession (Admission) Rules 2011](#){:target="_blank"});
+	* You have attended and satisfactorily completed such [courses of instruction](http://www.sile.edu.sg/part-b){:target="_blank"} as the Board of Directors of the Singapore Institute of Legal Education (SILE) may prescribe under section 10 (please refer to Rule 3 of the [Legal Profession (Admission) Rules](#){:target="_blank"}); and
+	* You have passed such [examinations](http://www.sile.edu.sg/part-b){:target="_blank"} as the Board of Directors of the Institute SILE may prescribe under section 10 (please refer to Rules 4 and 5 of the [Legal Profession (Admission) Rules 2011](#){:target="_blank"}).
