@@ -87,6 +87,6 @@ Successful candidates will be assigned to one of the preferred divisions and tak
 
 **Application**
 
-Please submit your application via the Careers@Gov portal. Alternatively, you may write-in to Human Resource Department along with a cover letter indicating your preferred division(s).
+Please submit your application via the [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=ministry%20of%20law&job-mail-subscribe-privacy=agree){:target="_blank"} portal. Alternatively, you may write-in to <a href="">Human Resource Department</a> along with a cover letter indicating your preferred division(s).
  
-Please click here to read more about what our interns have to say!
+Please [click here](/join-us/meet-our-interns/) to read more about what our interns have to say!
