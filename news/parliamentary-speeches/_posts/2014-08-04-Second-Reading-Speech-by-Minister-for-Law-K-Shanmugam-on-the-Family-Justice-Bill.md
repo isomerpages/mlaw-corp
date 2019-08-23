@@ -110,7 +110,7 @@ Madam Speaker,
 23. Let me highlight the main features of the new Family Justice Courts.
 
 
-<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style: italic">
 <li>  Types of cases that the Family Justice Courts will hear</li>
 </ol>
 
@@ -149,7 +149,7 @@ Madam Speaker,
 31. Besides court officers to support the usual court functions, there will be counsellors, social workers, psychologists to provide a full suite of services to support the operations of the Family Justice Courts.
 
 
-<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li>Powers of the Family Justice Courts under the Bill</li>
 </ol>
 
@@ -173,7 +173,7 @@ Madam Speaker,
 </ol>
 to examine and assess the child or person so as to prepare expert evidence for those proceedings.
 
-<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li> New and Streamlined Processes</li>
 </ol>
 
