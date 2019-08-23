@@ -12,7 +12,7 @@ permalink: /news/announcements/sg-signs-cocagreement
 <img src="/images/news/announcements/1427875746770.jpg" alt="Hague COC" style="width:467px;height:313px;">
 
 
-Ms Thian Yee Sze, Director-General of the Ministry of Law’s Legal Group, at the signing ceremony. Photo credit: Hague Convention on Private International Law
+<p style="font-size: 1rem">Ms Thian Yee Sze, Director-General of the Ministry of Law’s Legal Group, at the signing ceremony. Photo credit: Hague Convention on Private International Law</p>
 
 Singapore signed the Hague Convention of 30 June 2005 on Choice of Court Agreements on 25 March 2015. Ms Thian Yee Sze, Director-General of the Ministry of Law’s Legal Group, signed the Convention on behalf of Singapore. Singapore joins the likes of the European Union, the United States and Mexico who have become party to, or signed the Convention. The signing marks a major step for Singapore to become party to the Convention.
 
