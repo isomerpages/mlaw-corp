@@ -137,7 +137,7 @@ Madam Speaker,
 </li>
 </ol>
 
-<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li>Regulation of Individual Lawyers</li>
 </ol>
 
@@ -203,7 +203,7 @@ Madam Speaker,
 </li>
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li> Entity Regulation</li>
 </ol>
 
