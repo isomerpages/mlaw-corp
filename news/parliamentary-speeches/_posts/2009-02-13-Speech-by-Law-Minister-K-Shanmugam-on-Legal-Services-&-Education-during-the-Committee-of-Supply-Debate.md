@@ -33,7 +33,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 </ol>
 
 <ol style="list-style-type: lower-roman">
-<li>Liberalisation - QFLPs </li>
+<li style="font-style: italic">Liberalisation - QFLPs </li>
 </ol>
 
 
@@ -45,7 +45,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 4. The six firms are top-notch and internationally renowned. They will complement and enhance the legal services provided in Singapore.
 
 <ol start="2" style="list-style-type: lower-roman">
-<li>Developing Singapore as an International Commercial Arbitration Hub 
+<li style="font-style: italic">Developing Singapore as an International Commercial Arbitration Hub 
 </li>
 </ol>
 
@@ -103,7 +103,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 
 <ol style="list-style-type: lower-roman">
-<li>Admission to the Singapore Bar </li>  
+<li style="font-style: italic">Admission to the Singapore Bar </li>  
 </ol>
 
 
@@ -204,7 +204,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 30. These new exams should be sufficiently rigorous to ensure the required quality. And the market can be the test of professional ability. The Schedule for Universities will remain, and will serve as an additional safeguard. Changes will be made in time for the new Part A course later this year.
 
 <ol start="2" style="list-style-type: lower-roman">
-<li><i>Continuing professional education</i></li> 
+<li style="font-style: italic">Continuing professional education</li> 
 </ol>
 
 
@@ -233,7 +233,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 
 <ol start="3" style="list-style-type: lower-roman; font-weight:bold;">
-<li>Transitional committee for the ILE </li>  
+<li style="font-style: italic">Transitional committee for the ILE </li>  
 </ol>
 
 
@@ -274,7 +274,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 44. To put this issue in perspective, in a complex and globalised economy like ours, it is not negative for those with benefit of legal training to move to other fields.
 
 <ol style="list-style-type: lower-roman">
-<li>Reducing LLB course from four to three years </li>  
+<li style="font-style: italic">Reducing LLB course from four to three years </li>  
 </ol>
 
 
@@ -303,7 +303,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 
 <ol start="2" style="list-style-type: lower-roman">
-<li>Attracting overseas law schools to set up in Singapore or offer law courses here </li> 
+<li style="font-style: italic">Attracting overseas law schools to set up in Singapore or offer law courses here </li> 
 </ol>  
 
 
@@ -313,7 +313,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 
 <ol start="3" style="list-style-type: lower-roman">
-<li>Expected increase in supply </li>  
+<li style="font-style: italic">Expected increase in supply </li>  
 </ol>
 
 
@@ -345,7 +345,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 58. We will also review the existing special schemes that allow foreign lawyers to practise selected areas of Singapore law, refine the criteria and streamline the two exams into a single Corporate Practice Exam, as I stated earlier.
 
 <ol start="4" style="list-style-type: lower-roman">
-<li>To assess supply situation after economic downturn </li>  
+<li style="font-style: italic">To assess supply situation after economic downturn </li>  
 </ol>
 
 
@@ -354,7 +354,7 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 
 {:start="60"}
-60. In the current uncertain economic climate, we should allow this pipeline of lawyers to come onstream before we decide on the need to make further radical changes.
+60. In the current uncertain economic climate, we should allow this pipeline of lawyers to come onstream before we decide on the need to make further radical changes.  
 (D) Increasing Pool of Litigation Lawyers
 
 
