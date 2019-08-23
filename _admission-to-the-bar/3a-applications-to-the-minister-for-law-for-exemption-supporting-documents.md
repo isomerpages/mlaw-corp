@@ -23,13 +23,13 @@ The documents required to be submitted as part of an application for exemption c
   <li>Degree certificate(s) for your law degree and other degree(s).</li>
   <li>Academic transcripts for your law degree for each academic year.</li>
   <li>If your law degree is from a university in Australia, New Zealand or the United States of America, please submit a letter from your university: 
-    <ol class="1">
+    <ol class="alpha">
       <li>Stating your ranking in terms of academic performance, as compared to the same batch who have been conferred the degree; or</li>
       <li>Confirming that it does not rank its graduates.</li>
     </ol>
   </li>
   <li>If your law degree is any of the following:
-    <ol>
+    <ol class="alpha">
       <li>An accelerated course;</li>
       <li>A dual or combined degree; or </li>
       <li>A degree not listed in the Schedules to the Legal Profession (Qualified Persons) Rules;</li>
@@ -38,7 +38,7 @@ The documents required to be submitted as part of an application for exemption c
   </li>
   <li>Proof that you have passed Part A of the Singapore Bar Examinations.</li>
   <li>If you are qualified to practise in a country or jurisdiction other than Singapore, please submit:
-    <ol>
+    <ol class="alpha">
       <li>Certificate(s) of admission / registration / authorisation; </li>
       <li>Current practising certificate(s) to practise law in each country or jurisdiction in which you are qualified to practise; and/or</li>
       <li>Certification of Registration as a Foreign Lawyer in Singapore</li>
@@ -46,13 +46,13 @@ The documents required to be submitted as part of an application for exemption c
   </li>
   <li>A letter of offer for a practice training contract at a law practice in Singapore or an offer of employment in Singapore.</li>
   <li>If you are unable to obtain 6 months of "relevant legal training" and/ or "relevant legal practice or work" within a continuous period of 8 months, and/or complete the practice training contract within a continuous period of 8 months, please submit:
-    <ol>
+    <ol class="alpha">
       <li>Supporting documents in relation to your reasons for being unable to fulfil the requirement(s); and</li>
       <li>A letter from the Singapore Institute of Legal Education verifying the shortfall of your training.</li>
     </ol>
   </li>
   <li>Letter(s) of employment as a law practitioner or legal counsel, at: (i) one or more law practices in Singapore or elsewhere; OR (ii) as a legal counsel in a corporation or other entity the equity securities of which are listed on the official list of a securities exchange in Singapore or elsewhere, indicating:
-    <ol>
+    <ol class="alpha">
       <li>The exact duration (dd/mm/yyyy - dd/mm/yyyy) you were employed there; </li>
       <li>Whether you were employed on a full-time or part-time basis, and if part-time, details of the arrangement;</li>
       <li>Position(s) you held and the department(s) in which you worked; </li>
@@ -73,7 +73,7 @@ The documents required to be submitted as part of an application for exemption c
   <li>Degree certificate(s) for your law degree and other degree(s).</li>
   <li>Academic transcripts for your law degree for each academic year.</li>
   <li>If you are qualified to practice in a country or jurisdiction other than Singapore, please submit the following:
-    <ol>
+    <ol class="alpha">
       <li>Certificate(s) of admission / registration / authorisation; </li>
       <li>Current practising certificate(s) to practise law in each country or jurisdiction in which you are qualified to practise; and/or</li>
       <li>Certification of Registration as a Foreign Lawyer in Singapore.</li>
