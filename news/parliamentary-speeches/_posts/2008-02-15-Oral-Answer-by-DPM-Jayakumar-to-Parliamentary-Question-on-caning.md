@@ -11,9 +11,12 @@ permalink: /news/parliamentary-speeches/oral-answer-by-dpm-jayakumar-to-parliame
 
 2. To answer her question, we must first address the question as to what the legal limit is for the number of strokes that may be imposed by a court. This is governed by s 230 of the Criminal Procedure Code, formerly s 220, as interpreted by the courts.
 
-3. Section 230 reads:
-
+<ol start="3">
+<li>Section 230 reads:
+<br>
 When a person is convicted at one trial of any two or more distinct offences any two or more of which are legally punishable by caning the combined sentence of caning awarded by the court for any such offences shall not, anything in any Act to the contrary notwithstanding, exceed a total number of 24 strokes in the case of adults or 10 strokes in the case of youthful offenders.
+</li>  
+</ol>  
 
 {:start="4"}
 4. Sir, I have been advised by the Attorney-General that this provision was dealt with in a 1976 Magistrate's Appeal by then Chief Justice Wee Chong Jin in the case of PP v Suhaymi b Harith & ors, MA 153/1976, the so-called "Swimming Trunks Gang case". In interpreting this provision, the Chief Justice took the position that where an offender is convicted upon several charges, each charge constitutes a separate trial. Hence, legally, an accused person could be caned more than 24 strokes. That decision has not been overruled and therefore was - and still is - binding on all subordinate courts.
