@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Relevant Legislation and Communications
-permalink: /law-practice-entities-and-lawyers/law-practice-entities-and-lawyers/relevant-legislation-and-communications/
+permalink: /law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/
 breadcrumb: Relevant Legislation and Communications
 collection_name: law-practice-entities-and-lawyers
 second_nav_title: Resources for Law Practice Entities
