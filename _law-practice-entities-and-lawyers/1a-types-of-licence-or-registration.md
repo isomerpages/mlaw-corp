@@ -45,8 +45,27 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
       </ul>
     </td>
   </tr>
-  <tr></tr>
-  <tr></tr>
+  <tr>
+    <td>
+      <b>Qualifying Foreign Law Practice</b><br>Section 171 of the Legal Profession Act (Cap. 161)</td>
+    <td>The Qualifying Foreign Law Practice (“QFLP”) scheme was introduced in 2008, and allows foreign law practices which obtain a QFLP licence to provide in or from Singapore:
+      <ul>
+        <li>Foreign law-related legal services in all areas of legal practice that the QFLP is competent to offer; and</li>
+        <li>Singapore law-related legal services in the “permitted areas of legal practice” through certain types of registered lawyers.</li>
+        The QFLP licence is awarded after an application and selection process.<br><br><b>
+The QFLP scheme is not open for application currently and there are no details available regarding further rounds of applications.</b>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Joint Law Venture</b><br>Section 169 of the Legal Profession Act (Cap. 161)</td>
+    <td>A Joint Law Venture (“JLV”) is a legal entity formed between a Singapore Law Practice (“SLP”), and either a Foreign Law Practice (“FLP”) or a Qualifying Foreign Law Practice (“QFLP”).<br></br>A JLV is allowed to provide in or from Singapore:
+  <ul>
+    <li>Foreign law-related legal services in all areas of legal practice that the JLV is competent to offer; and</li>
+    <li>Singapore law-related legal services in the "permitted areas of legal practice" through certain types of registered lawyers.</li>However, it should be noted that the constituent FLP/QFLP can only practise law in or from Singapore through the JLV, and not through the constituent FLP/QFLP. 
+  </ul>
+  </td>
+  </tr>
   <tr>
     <td><b>Formal Law Alliance</b><br>Section 170 of the Legal Profession Act (Cap. 161)</td>
     <td>A Formal Law Alliance (“FLA”) is an arrangement between a Singapore law practice and a foreign law practice which enables them to collaborate while remaining freestanding law practices. An FLA arrangement allows the member law practices to share office premises, resources and client information as well as co-brand and bill for permitted matters. However, the member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are allowed to provide under the Legal Profession Act.<br><br>The FLA scheme was conceived as a means to facilitate cooperation between two or more independent law practice entities that are capable of dealing with each other as equal partners. The relevant legal framework for approval of these applications is interpreted and applied by the LSRA in this context.<br><br>For further information, please refer to our list of <a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">Frequently Asked Questions</a> (PDF, 565 KB) on the FLA scheme.</td>
