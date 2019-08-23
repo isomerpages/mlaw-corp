@@ -20,6 +20,12 @@ Law practice entities should submit an application via LSRA e-Services to:
      <li>The eligibility criteria and conditions for approval to hold interests in an SLP can be found in the Legal Profession (Law Practice Entities) Rules 2015.</li>
   </ul>
   </li>
-  <li>
+  <li><b>Apply for approval for a foreign law practice to hold or change the interests it holds in an SLP.</b>
+  <ul>
+     <li>Under Section 176(9) of the Legal Profession Act (Cap. 161), an SLP must apply to the LSRA for approval before entering into any arrangement that may result in a foreign law practice becoming a shareholder of the SLP, or sharing in the profits of the SLP.</li>
+     <li>The SLP must satisfy the general threshold requirements.</li>
+     <li>The eligibility criteria and conditions for approval to hold interests in an SLP can be found in the Legal Profession (Law Practice Entities) Rules 2015.</li>
+  </ul>
+  </li>
 </ul>
 
