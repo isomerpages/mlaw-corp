@@ -28,7 +28,7 @@ Relevant Legislation and Communications
     <td><b>Communications</b></td>
     <td>
       <ul>
-        <li><a href="/news/announcements/circular-on-the-establishment-of-the-legal-service-regu">Circular on the Establishment of the Legal Services Regulatory Authority [09/2015]</a></li>
+        <li><a href="/news/announcements/circular-on-the-establishment-of-the-legal-service-regu/">Circular on the Establishment of the Legal Services Regulatory Authority [09/2015]</a></li>
         <li><a href="/files/ArticleonLSRADec2016.pdf/">Feature on the Legal Services Regulatory Authority</a><br>[This article was originally published in the December 2016 issue of the Singapore Law Gazette. Reproduced with permission.]</li>
         <li><a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">FAQs on Formal Law Alliances [05/2017]</a></li>
         <li><a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing [03/2018]</a></li>
