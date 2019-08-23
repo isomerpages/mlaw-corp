@@ -15,7 +15,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-underground-space
 
 **Mr Liang Eng Hwa, Holland-Bukit Timah GRC**
 
-**<u>Quesion</u>**    
+**<u>Question</u>**    
 To ask the Minister for Law in light of plans to develop underground space more extensively, what is the Government's position on the ownership of underground space in Singapore.
 
 
