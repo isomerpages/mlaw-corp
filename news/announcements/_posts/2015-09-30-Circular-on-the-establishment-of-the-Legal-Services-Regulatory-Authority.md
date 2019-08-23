@@ -2,7 +2,7 @@
 layout: post
 title: Circular on the establishment of the Legal Services Regulatory Authority
 date:   2015-09-30
-permalink: /news/announcements/circular-on-the-establishment-of-the-legal-service-regu
+permalink: /news/announcements/circular-on-the-establishment-of-the-legal-service-regu/
 ---
 
 30 Sep 2015 Posted in [Announcements](/news/announcements) 
