@@ -28,7 +28,14 @@ The documents required to be submitted as part of an application for exemption c
       <li>Confirming that it does not rank its graduates.</li>
     </ol>
   </li>
-  <li></li>
+  <li>If your law degree is any of the following:
+    <ol>
+      <li>An accelerated course;</li>
+      <li>A dual or combined degree; or </li>
+      <li>A degree not listed in the Schedules to the Legal Profession (Qualified Persons) Rules;</li>
+    </ol>
+    please submit a letter from your university listing the required law subjects (including electives) of the law degree that you undertook or will be undertaking, as compared to that of the approved law degree of your university and indicating whether there are any material or substantial difference in the contents of the compulsory law modules between the degrees.
+  </li>
   <li></li>
   <li></li>
   <li></li>
