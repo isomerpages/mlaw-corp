@@ -317,7 +317,14 @@ That process has taken place in the arbitration scene so that even when disputes
 </ol>
 
 <ol start="40">
-<li>An International Judge may be appointed for a specified period of time, or to hear and determine a specific case <a href="#case"><sup>4</sup></a>.</li>
+<li>An International Judge may be appointed for a specified period of time, or to hear and determine a specific case <a href="#case"><sup>4</sup></a>.
+
+<ol style="list-style-type: lower-alpha">
+<li>The Supreme Court of Judicature (Amendment) Bill 2014 provides that an International Judge may only sit in the SICC, and in appeals from the SICC.</li>
+<li>Where an International Judge is appointed for a specified period of time, the Chief Justice may, from time to time require the International Judge to hear and determine any specific case or such classes of cases which the Chief Justice may specify.</li>
+</ol> 
+ 
+</li>
 </ol>
 
 <ol start="41">
@@ -450,7 +457,7 @@ That process has taken place in the arbitration scene so that even when disputes
 {:start="65"}
 65. Overall, this set of amendments will make future appointment holders non-pensionable, like most public officers.
 
-<ol start="4" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
 <li><u>Creating the Office of a Deputy Attorney-General</u></li>
 </ol>
 
