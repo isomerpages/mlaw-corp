@@ -36,7 +36,9 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-statutes-misc-a
 
 {:start="8"}
 8. Sir, as regards a Convention country with which Singapore has no extradition treaty, there is no change in position as sub-section (2) of new section 33 is not new. This sub-section gives Singapore the option of extraditing to a Convention State with whom no extradition treaty is in force, a person accused or convicted of a foreign offence which if it had taken place in Singapore, would have constituted a terrorism financing offence as defined in the Terrorism (Suppression of Financing) Act.
-Amendments to the Building Control Act (Clause 4).
+
+
+**Amendments to the Building Control Act (Clause 4)**
 
 {:start="9"}
 9. Sir next, Clause 4 amends the Building Control Act. The Building Control Act provides for the licensing of two classes of builders, Class 1 Licensed Builders who can tender for construction projects of any amount, and Class 2 Licensed Builders who can tender for projects of up to $3m. In view of rising construction costs, the amendment in Clause 4 is to give the Minister flexibility in varying the contract values of Class 2 Licensed Builders. In a similar vein, Clause 4 introduces an amendment to allow the Minister to vary the minimum cut-off contract value for "significant general building work projects" so as to cater to the volatile prices of construction.
