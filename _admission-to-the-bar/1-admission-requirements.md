@@ -15,7 +15,7 @@ Please refer to the website of the [Singapore Institute of Legal Education (SILE
 Individuals who wish to be admitted to the Singapore Bar must:
 
 
-* Meet all the requirements of being a “[qualified person](http://www.sile.edu.sg/qualified-person){:target="_blank"}” as defined in the Legal [Profession Act](#){:target="_blank"} read together with the [Legal Profession (Qualified Persons) Rules](#); and
+* Meet all the requirements of being a “[qualified person](http://www.sile.edu.sg/qualified-person){:target="_blank"}” as defined in the Legal [Profession Act](/admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"} read together with the [Legal Profession (Qualified Persons) Rules](#); and
 * Fulfil the other [admission requirements](http://www.sile.edu.sg/admission-to-the-singapore-bar){:target="_blank"} set out in Sections 12 and 13 of the Legal Profession Act read together with the [Legal Profession (Admission) Rules 2011](#){:target="blank"}:
 	* You have attained the age of 21 years;
 	* You are of good character;
