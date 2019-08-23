@@ -67,7 +67,7 @@ The key divisions at MinLaw are as follows:
     <td>Human Resource</td>
   </tr>
   <tr>
-    <td colspan="2"></td>
+    <td rowspan="2"></td>
     <td>Professional Services Programme Office</td>
     <td>Registry of Moneylenders & Pawnbrokers</td>
     <td>Information Technology</td>
