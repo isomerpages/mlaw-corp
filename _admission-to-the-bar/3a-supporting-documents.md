@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Supporting Documents for Applications for Exemption
-permalink: /admission-to-the-bar/applications-to-the-minister-for-law-for-exemption-supporting-documents/
+permalink: /admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/supporting-documents/
 breadcrumb: Supporting Documents for Applications for Exemption
 collection_name: admission-to-the-bar
 second_nav_title: Applications to the Minister for Law for Exemption
