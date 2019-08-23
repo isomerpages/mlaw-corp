@@ -7,7 +7,7 @@ collection_name: join-us
 ---
 
 <style>
-  .image {width: 400px;}
+  .image {width: 200px;}
   .image img {max-width: 100%;}
 </style>
 
