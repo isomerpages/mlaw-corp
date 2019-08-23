@@ -41,7 +41,7 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     <td>A Foreign Law Practice (“FLP”) is allowed to provide in or from Singapore:
       <ul>
         <li>Foreign law-related legal services in all areas of legal practice that the FLP is competent to offer; and</li>
-        <li>Singapore law-related legal services in the "permitted areas of legal practice" through certain types of registered lawyers.</li>
+        <li>Singapore law-related legal services only in the limited context of international commercial arbitration or in relation to the Singapore International Commercial Court (“SICC”), through certain types of registered lawyers. </li>
       </ul>
     </td>
   </tr>
