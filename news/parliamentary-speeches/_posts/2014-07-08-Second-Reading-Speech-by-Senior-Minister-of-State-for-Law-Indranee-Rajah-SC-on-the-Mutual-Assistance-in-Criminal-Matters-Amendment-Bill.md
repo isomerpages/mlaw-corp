@@ -118,7 +118,7 @@ Madam Speaker,
 </ol>
 
 {:start="24"}
-24. Second, the types of offences for which mutual legal assistance can be rendered under the MACMA will be expanded.  A standalone list of offences will be introduced into the MACMA, and this list of offences will determine whether mutual legal assistance requests may be made by Singapore, or made to Singapore by a foreign country for a coercive form of assistance where the Dual Criminality requirement is applied. <a href="#applied"><sup>[11]</sup></a> This will be done by amending the definitions of “drug trafficking offence” and “serious offence”.
+24. Second, the *types* of offences for which mutual legal assistance can be rendered under the MACMA will be expanded.  A standalone list of offences will be introduced into the MACMA, and this list of offences will determine whether mutual legal assistance requests may be made by Singapore, or made to Singapore by a foreign country for a coercive form of assistance where the Dual Criminality requirement is applied. <a href="#applied"><sup>[11]</sup></a> This will be done by amending the definitions of “drug trafficking offence” and “serious offence”.
 
 <ol start="25">
 <li> Under MACMA, as it currently stands, mutual legal assistance requests may be made or provided if the request concerns an offence that falls under two categories of offences under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (or the “CDSA” for short). These are:
