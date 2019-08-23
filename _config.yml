@@ -57,7 +57,7 @@ collections:
   about-us:
     output: true
   law-practice-entities-and-lawyers:
-    outout: true
+    output: true
   lorem-collection:
     output: true
 resources_name: news
