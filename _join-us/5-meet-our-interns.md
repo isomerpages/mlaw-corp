@@ -6,4 +6,6 @@ breadcrumb: Meet Our Interns
 collection_name: join-us
 ---
 
-[High res images or remove this section altogether]
+Meet Our Interns
+---
+
