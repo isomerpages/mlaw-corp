@@ -91,7 +91,7 @@ Madam Speaker,
 {:start="23"}
 23. However, in practice, the absence of a registration system means that a term can only be conclusively determined that it is a GI through a Court ruling in a civil suit. Thus far, there have not been any such disputes before our Courts.
 
-<ol start="3" style="list-style-type: uppe-roman; font-weight:bold;">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
 <li> Objectives of the Bill</li>
 </ol>
 
