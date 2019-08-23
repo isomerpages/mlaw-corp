@@ -9,11 +9,11 @@ permalink: /news/parliamentary-speeches/written-answer-by-min-on-undischarged-ba
 
 **Mr Chen Show Mao, Aljunied GRC**
 
-**<u>Quesion</u>**  
+**<u>Question</u>**  
 To ask the Minister for Law (a) for each year from 2007 to 2012, what is the number of undischarged bankrupts aged (i) 45-55 years (ii) 56-65 years and (iii) over 65 years; and (b) what percentage of each of these groups of undischarged bankrupts is due to (i) income not matching expenditure (ii) unemployment or (iii) business failures.
 
 
-**<u>Answeer</u>**  
+**<u>Answer</u>**  
 1. The number of undischarged bankrupts for each year from 2007 to 2012 aged (i) 45-55 years (ii) 56-65 years and (iii) over 65 years, are provided in Tables 1, 2 and 3 respectively.
 
 
