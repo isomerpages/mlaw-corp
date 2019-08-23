@@ -39,7 +39,7 @@ Madam Speaker,
 {:start="5"}
 5. I will therefore focus on the key features of the SICC that are found in this Bill.
 
-<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style: italic">
 <li>Key Features of the SICC</li>
 </ol>
 
@@ -59,7 +59,7 @@ Madam Speaker,
 <li>The pre-action certificate may also certify such other matters as the Rules of Court may prescribe.</li>
 </ol>
 </li>
-<li>In addition, cases commenced in the SICC may be transferred to the High Court, and vice versa <a href="#versa"><sup>5</sup></a>.
+<li>In addition, cases commenced in the SICC may be transferred to the High Court, and <i>vice versa</i> <a href="#versa"><sup>5</sup></a>.
 <ol style="list-style-type: lower-roman;">
 <li>This enables cases which would be more appropriately heard in the other Court to be transferred.</li>
 <li>The procedure and conditions for such transfer of cases will be set out in the Rules of Court.</li>
@@ -101,7 +101,7 @@ Madam Speaker,
 </li>  
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style: italic">
 <li>Jurisdiction of the SICC
 </li>  
 </ol>
