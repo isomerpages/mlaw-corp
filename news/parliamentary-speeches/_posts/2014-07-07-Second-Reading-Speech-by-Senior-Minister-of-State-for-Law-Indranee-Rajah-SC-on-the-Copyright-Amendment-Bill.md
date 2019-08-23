@@ -45,7 +45,7 @@ Mr Deputy Speaker,
 {:start="7"}
 7. Let me now highlight four main amendments that the Bill makes in relation to the Treaty.
 
-<ol style="list-style-type: upper-alpha; font-weight:bold;">
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li> Persons and Institutions Who May Create Accessible Format Copies</li>
 </ol>
 
@@ -70,7 +70,7 @@ Mr Deputy Speaker,
 </ol>
 
 
-<ol start="2" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li>Range of Accessible Format Copies Which May Be Created</li>
 </ol>
 
@@ -90,7 +90,7 @@ Mr Deputy Speaker,
 16. So take for instance, DAISY, or the Digital Accessible Information System. DAISY is an audio substitute for print material. It allows reading-disabled persons to navigate pages of audio books more easily. It is an increasingly popular format which the Act does not cater for. However, it would be covered under the proposed amendments.
 
 
-<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;">
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold;font-style:italic">
 <li>Works and Subject Matter Other Than Works
 </li>
 </ol>
@@ -101,7 +101,7 @@ Mr Deputy Speaker,
 {:start="18"}
 18. This will facilitate the conversion of audio books to reading disabled friendly formats like DAISY.
 
-<ol start="4" style="list-style-type: upper-alpha; font-weight: bold;">
+<ol start="4" style="list-style-type: upper-alpha; font-weight: bold; font-style:italic">
 <li>Distribution, Imports and Exports</li>
 </ol>
 
