@@ -74,7 +74,7 @@ Sir, we had a full debate in this House on these and other policy changes announ
 <u>Review penalty for holding property in trust for foreign persons</u>
 
 {:start="12"}
-12. Third, Sir, we have reviewed the penalty imposed for holding restricted residential property on trust for non-approved foreign persons. Sir, this is a serious breach. The current penalty, which is a fine not exceeding $5,000 and/or imprisonment for a term not exceeding 3 years, does not adequately reflect this. Hence, the Bill seeks to increase the maximum fine that can be imposed for such an offence to $50,0002. In addition, the Court will be empowered to make a confiscation order in respect of benefits derived by any person convicted of an offence under this provision. Sir, the stiffer penalty will ensure that there is effective deterrence to prevent attempts to circumvent the law through an arrangement where a Singaporean buys restricted residential property on trust for a foreigner.
+12. Third, Sir, we have reviewed the penalty imposed for holding restricted residential property on trust for non-approved foreign persons. Sir, this is a serious breach. The current penalty, which is a fine not exceeding $5,000 and/or imprisonment for a term not exceeding 3 years, does not adequately reflect this. Hence, the Bill seeks to increase the maximum fine that can be imposed for such an offence to $50,000<a href="#fn2"><sup>2</sup></a>. In addition, the Court will be empowered to make a confiscation order in respect of benefits derived by any person convicted of an offence under this provision. Sir, the stiffer penalty will ensure that there is effective deterrence to prevent attempts to circumvent the law through an arrangement where a Singaporean buys restricted residential property on trust for a foreigner.
 
 
 **Conclusion**
@@ -84,6 +84,6 @@ Sir, we had a full debate in this House on these and other policy changes announ
 
 <p id="fn1"><sup>[1]</sup>The ceiling for the fine for Singapore entities which do not own restricted residential property and did not seek approval before they converted to become foreign entities remains at the current $5,000</p>
 
-The maximum possible jail term will not be adjusted.
+<p id="fn2"><sup>[2]</sup>The maximum possible jail term will not be adjusted. </p>
 
 <p class="right-side-updated">Last updated on 28 Nov 2012</p> 
