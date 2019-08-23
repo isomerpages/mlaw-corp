@@ -9,11 +9,13 @@ second_nav_title: Meet Our Colleagues
 
 <style>
   .image {width: 200px;}
-  .image a img {max-width: 100%;}
+  .image img {max-width: 100%;}
 </style>
 
 Helping People Start Anew
 ---
+
+<div class="image"><img src="/images/1456125329440.jpg/"</div>
 
 **LIKE** many of her accountancy classmates from Nanyang Technological University, Ms Amanda Tan’s first job was as an auditor.
 
