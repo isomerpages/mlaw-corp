@@ -87,7 +87,7 @@ Madam Speaker,
 17. Finally, the Bill makes several technical and housekeeping amendments. I will highlight two such amendments.
 
 
-**Remove need to paste physical notices for site possession**
+***Remove need to paste physical notices for site possession***
 
 
 {:start="18"}
@@ -105,7 +105,7 @@ Madam Speaker,
 {:start="21"}
 21. The modes of service are currently set out in section 45 of the LAA and include hand delivery, fax or pre-paid registered post.
 
-**Allow Appeals Boards to Direct Costs against Non-Parties**
+***Allow Appeals Boards to Direct Costs against Non-Parties***
 
 {:start="22"}
 22. The second concerns the power of the Appeals Board to award costs against persons who are not parties to the appeal.
