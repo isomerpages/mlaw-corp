@@ -836,7 +836,7 @@ Madam Speaker,
 </ol>
 
 {:start="204"} 
-204.These orders will bind publishers such as “Jane” and “Peter” if they are aware of the terms of the orders.
+204. These orders will bind publishers such as “Jane” and “Peter” if they are aware of the terms of the orders.
 
 <ol start="6" style="list-style-type: upper-roman; font-weight:bold;">
 <li>CONCLUSION</li>  
