@@ -33,7 +33,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 2. I will deal with each of the three assertions.
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
-<li><i>Statistics not published?</i></li>
+<li style="font-style: italic">Statistics not published?</li>
 </ol>
 
 
@@ -57,7 +57,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 5. I will now deal with the second of Mr Hwang's assertions.
 
 <ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
-<li><i>The lack of statistics has led to our penal system being unprincipled?</i> 
+<li style="font-style: italic">The lack of statistics has led to our penal system being unprincipled?
 </li>
 </ol>
 
@@ -69,7 +69,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 
 
 <ol style="list-style-type: lower-roman">
-<li>Punishment and Sentencing</li>
+<li style="font-style: italic">Punishment and Sentencing</li>
 </ol>
 
 {:start="8"}
@@ -109,7 +109,7 @@ To ask the Minister for Law whether there is any need to review Singapore's pena
 
 
 <ol start="3" style="list-style-type: upper-roman; font-weight:bold;">
-<li>A definitive answer to the debate on Capital Punishment? </li>
+<li style="font-style: italic">A definitive answer to the debate on Capital Punishment? </li>
 </ol>
 
 {:start="17"}
