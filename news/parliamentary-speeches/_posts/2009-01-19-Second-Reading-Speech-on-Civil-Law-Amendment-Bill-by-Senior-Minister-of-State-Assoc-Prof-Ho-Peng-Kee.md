@@ -29,7 +29,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amend
 
 
 <ol style="list-style-type: lower-alpha">
-<li><i>New ability to contract</i> </li>
+<li style="font-style: italic">New ability to contract</li>
 </ol>
 
 {:start="6"}
@@ -43,7 +43,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amend
 
 
 <ol start="2" style="list-style-type: lower-alpha">
-<li><i>Ancillary changes for litigation and business needs</i></li>
+<li style="font-style: italic">Ancillary changes for litigation and business needs</li>
 </ol>
 
 
@@ -63,7 +63,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amend
 
 
 <ol style="list-style-type: lower-alpha">
-<li><i>Law Reform Committee's proposals on loss of inheritance and savings and the definition of "dependant"</i></li>
+<li style="font-style: italic">Law Reform Committee's proposals on loss of inheritance and savings and the definition of "dependant"</li>
 </ol>
 
 {:start="12"}
@@ -76,7 +76,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amend
 14. Furthermore, the definition of "dependant" will be extended to cover a "former wife". This will enable ex-wives who have been supported by the deceased prior to his death pursuant to maintenance orders to file dependency claims when their ex-husbands die. Indeed, these ex-wives may still be dependent on the deceased at least for some time after the marriage has ended. Such a right for ex-wives is also found in the laws of UK.
 
 <ol start="2" style="list-style-type: lower-alpha">
-<li>Refining our approach to bereavement damages </li>
+<li style="font-style: italic">Refining our approach to bereavement damages </li>
 </ol>
 
 {:start="15"}
