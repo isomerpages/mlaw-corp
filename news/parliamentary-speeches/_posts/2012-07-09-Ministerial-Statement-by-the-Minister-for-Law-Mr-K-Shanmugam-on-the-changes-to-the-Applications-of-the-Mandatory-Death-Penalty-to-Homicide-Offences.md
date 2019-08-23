@@ -44,11 +44,11 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 <li>The Minister for Law spoke on the changes to the application of the mandatory death penalty to homicide offences. The following are the key points that Minister had made:
 
 <ol style="list-style-type: lower-alpha">
-<li>The Government’s strong stance on crime has helped Singapore keep our crime rates one of the lowest in the world . This must be preserved to ensure the safety and security of Singapore. </li>
+<li><strong>The Government’s strong stance on crime has helped Singapore keep our crime rates one of the lowest in the world</strong> . This must be preserved to ensure the safety and security of Singapore. </li>
 
-<li>The mandatory death penalty will continue to apply to the most serious form of murder, intentional killing.  Offenders who intend the death of their victims ought to be punished with the most severe penalty, and the law ought to provide the most powerful deterrent against such offences. </li>
+<li><strong>The mandatory death penalty will continue to apply to the most serious form of murder, intentional killing.</strong>  Offenders who intend the death of their victims ought to be punished with the most severe penalty, and the law ought to provide the most powerful deterrent against such offences. </li>
 
-<li>Other categories of murder could be committed with different degrees of intention and under a variety of situations that may not deserve the ultimate punishment. In such cases, the courts will be given the discretion to order either life imprisonment or the death penalty. </li>
+<li><strong>Other categories of murder could be committed with different degrees of intention and under a variety of situations that may not deserve the ultimate punishment.</strong> In such cases, the courts will be given the discretion to order either life imprisonment or the death penalty. </li>
 </ol>
 </li>
 </ol>
@@ -67,7 +67,7 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 <li><strong>The first is to continue taking a strong stance on crime. Singapore's homicide rate is one of the lowest in the world, and we believe that the  deterrent effect of the death penalty has played an important part in this. </strong>
 </li>
 
-<li><strong> The second is the refinement of our approach towards sentencing  offenders. Our cardinal objectives remain the same. Crime must be deterred and society must be protected against criminals.  B ut justice can be tempered with mercy and where appropriate, offenders should be given a second chance.</strong></li>
+<li><strong> The second is the refinement of our approach towards sentencing  offenders. Our cardinal objectives remain the same. Crime must be deterred and society must be protected against criminals.  But justice can be tempered with mercy and where appropriate, offenders should be given a second chance.</strong></li>
 </ol>
 
 </li>
