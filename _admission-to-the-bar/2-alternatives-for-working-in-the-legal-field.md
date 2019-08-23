@@ -13,7 +13,7 @@ If you are not [eligible for admission to the Singapore Bar](http://www.sile.edu
 
 **(A) Practising Foreign Law as a Foreign Lawyer**
 
-If you are registered to practise law in an overseas jurisdiction, you can register with the [Legal Services Regulatory Authority](#){:target="_blank"} as a foreign lawyer under [Part IXA of the Legal Profession Act](#) to practise foreign law in Singapore. You will not need to take any courses or examinations. 
+If you are registered to practise law in an overseas jurisdiction, you can register with the [Legal Services Regulatory Authority](#){:target="_blank"} as a foreign lawyer under [Part IXA of the Legal Profession Act](/admission-to-the-bar/admission-requirements/relevant-legislation/) to practise foreign law in Singapore. You will not need to take any courses or examinations. 
 
 **(B) Practising in Permitted Areas of Singapore Law as a Foreign Practitioner**
 
