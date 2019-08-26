@@ -31,5 +31,5 @@ Useful Templates
     <td><a href="/files/Sample_Certificate_of_Good_Character.pdf/" target="_blank">Sample Certificate of Good Character</a></td>
     <td>An application to register a lawyer under <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/" target="_blank">section 36B of the Legal Profession Act</a> must include a Certificate of Good Character as a supporting document.<br><br>Applicants can refer to LSRA’s Sample Certificate of Good Character.<br><br>
 The date of issue of the Certificate of Good Character should be no earlier than 3 months prior to the submission date of the application.</td>
-  </tr>
+</tr>
 </table>
