@@ -34,7 +34,11 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -44,7 +48,11 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -54,7 +62,11 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -64,7 +76,11 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -74,6 +90,10 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
 </table>
