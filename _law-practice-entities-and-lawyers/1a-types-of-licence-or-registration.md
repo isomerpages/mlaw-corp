@@ -66,8 +66,9 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     <td>A Joint Law Venture (“JLV”) is a legal entity formed between a Singapore Law Practice (“SLP”), and either a Foreign Law Practice (“FLP”) or a Qualifying Foreign Law Practice (“QFLP”).<br><br>A JLV is allowed to provide in or from Singapore:
   <ul>
     <li>Foreign law-related legal services in all areas of legal practice that the JLV is competent to offer; and</li>
-    <li>Singapore law-related legal services in the "permitted areas of legal practice" through certain types of registered lawyers.</li>However, it should be noted that the constituent FLP/QFLP can only practise law in or from Singapore through the JLV, and not through the constituent FLP/QFLP. 
-  </ul>
+    <li>Singapore law-related legal services in the "permitted areas of legal practice" through certain types of registered lawyers.</li>
+      </ul>
+      However, it should be noted that the constituent FLP/QFLP can only practise law in or from Singapore through the JLV, and not through the constituent FLP/QFLP. 
   </td>
   </tr>
   <tr>
