@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Update the Particulars of an Individual
-permalink: /law-practice-entities-and-lawyers/registration-of-individuals/update-the-particulars-of-an-individual/
+permalink: /law-practice-entities-and-lawyers/registration-of-individuals/renew-the-registration-of-an-individual/
 breadcrumb: Update the Particulars of an Individual
 collection_name: law-practice-entities-and-lawyers
 second_nav_title: Registration of Individuals
