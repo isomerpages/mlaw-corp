@@ -33,7 +33,13 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <ul>
+        <li>CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
+        <li>CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
+        <li>A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides">website</a>.</li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li>Nil.</li>
