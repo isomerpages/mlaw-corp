@@ -17,7 +17,7 @@ collection_name: news
 **Revised measures**
 
 {:start="3"}
-3. MinLaw has considered and incorporated useful feedback received from the second public consultation, dialogue sessions with the Law Society and stakeholders and pilot trials, into the present proposed measures and legislation. The Conveyancing (Miscellaneous Amendments) Bill has been revised and a copy of the Bill can be found at [www.conveyancing.sg](www.conveyancing.sg). The accompanying conveyancing rules will be uploaded on this web-site when they have been finalised.
+3. MinLaw has considered and incorporated useful feedback received from the second public consultation, dialogue sessions with the Law Society and stakeholders and pilot trials, into the present proposed measures and legislation. The Conveyancing (Miscellaneous Amendments) Bill has been revised and a copy of the Bill can be found at [https://www.mlaw.gov.sg/conveyancing](https://www.mlaw.gov.sg/conveyancing). The accompanying conveyancing rules will be uploaded on this web-site when they have been finalised.
 
 {:start="4"}
 4. The key features of the revised measures are:
