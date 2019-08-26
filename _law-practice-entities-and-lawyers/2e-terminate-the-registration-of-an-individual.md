@@ -19,11 +19,17 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
 
 <table>
   <tr>
-    <td><b>Step</b></td>
-    <td><b>Exceptions</b></td>
+    <td>
+      <b>Step</b>
+    </td>
+    <td>
+      <b>Exceptions</b>
+    </td>
   </tr>
   <tr>
-    <td><b>STEP 1: Login to LSRA e-Services using CorpPass</b></td>
+    <td>
+      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+    </td>
     <td></td>
   </tr>
   <tr>
@@ -41,7 +47,9 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     </td>
   </tr>
   <tr>
-    <td><b>STEP 2: Complete and submit termination form</b></td>
+    <td>
+      <b>STEP 2: Complete and submit termination form</b>
+    </td>
     <td></td>
   </tr>
   <tr>
@@ -60,7 +68,9 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     </td>
   </tr>
   <tr>
-    <td><b>STEP 3: Receive outcome of termination</b></td>
+    <td>
+      <b>STEP 3: Receive outcome of termination</b>
+    </td>
     <td>
     </td>
   </tr>
@@ -78,7 +88,9 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     </td>
   </tr>
   <tr>
-    <td><b>STEP 4: Notify relevant stakeholders</b></td>
+    <td>
+      <b>STEP 4: Notify relevant stakeholders</b>
+    </td>
     <td>
     </td>
   </tr>
