@@ -89,10 +89,18 @@ However, each law practice should still submit an application via [LSRA e-Servic
 
 <table>
   <tr>
-    <td><b>Scenario</b></td>
-    <td><b>Entity 1</b></td>
-    <td><b>Entity 2</b></td>
-    <td><b><a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Relevant Legislation</a></b></td>
+    <td>
+      <b>Scenario</b>
+    </td>
+    <td>
+      <b>Entity 1</b>
+    </td>
+    <td>
+      <b>Entity 2</b>
+    </td>
+    <td>
+      <b><a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Relevant Legislation</a></b>
+    </td>
   </tr>
   <tr>
     <td>(A)</td>
