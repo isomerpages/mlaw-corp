@@ -50,6 +50,9 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
     <td>
       <b>STEP 2: Complete and submit renewal application form and pay application fee</b>
     </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>
       <ul>
         <li>The renewal application form is similar to the new registration application form. Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
@@ -59,9 +62,6 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
         <li>The application fee must be paid online using a valid credit/debit card.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td></td>
     <td>
       <ul>
         <li>Nil.</li>
