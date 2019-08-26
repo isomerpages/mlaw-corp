@@ -6,6 +6,10 @@ breadcrumb: Incentive and Exemption Schemes
 collection_name: law-practice-entities-and-lawyers
 ---
 
+<style>
+table tr td ul li {font-size: 1rem;}
+</style>
+
 Incentive Schemes
 ---
 
