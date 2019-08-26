@@ -56,7 +56,7 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
       <ul>
         <li>Foreign law-related legal services in all areas of legal practice that the QFLP is competent to offer; and</li>
         <li>Singapore law-related legal services in the “permitted areas of legal practice” through certain types of registered lawyers.</li>
-        The QFLP licence is awarded after an application and selection process.<br><br><b>
+The QFLP licence is awarded after an application and selection process.<br><br><b>
 The QFLP scheme is not open for application currently and there are no details available regarding further rounds of applications.</b>
       </ul>
     </td>
