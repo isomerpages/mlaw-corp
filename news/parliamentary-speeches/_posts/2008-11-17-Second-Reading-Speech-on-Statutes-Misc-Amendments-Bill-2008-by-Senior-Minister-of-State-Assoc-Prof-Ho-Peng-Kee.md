@@ -45,7 +45,8 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-statutes-misc-a
 
 {:start="10"}
 10. Clause 4 also amends the Building Control Act to allow different sets of qualifications and practical experience to be prescribed for the management and the technical staff of a "Licensed Builders". Currently, the Building Control Act allows only one set of qualification and practical experience to be prescribed for both the management and technical staff. This is not ideal as different abilities are required for the management of the business and the supervision of building works.
-Amendments to the Casino Control Act (Clause 5).
+
+**Amendments to the Casino Control Act (Clause 5).**
 
 {:start="11"}
 11. Sir, the next set of amendments contained in Clause 5 relates to the Casino Control Act. We are amending the language and minor details to improve the interpretation and administration of the Act.
