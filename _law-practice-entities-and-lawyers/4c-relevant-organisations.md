@@ -7,6 +7,8 @@ collection_name: law-practice-entities-and-lawyers
 second_nav_title: Resources for Law Practice Entities
 ---
 
+<style> table tr td ul li {font-size: 1rem;} </style>
+
 Relevant Organisations
 ---
 
