@@ -50,14 +50,15 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
         <li><b>Please also note that the termination of the CoR may not necessarily terminate the obligations of the regulated legal practitioners and regulated non-practitioners under the Legal Profession Act (Cap. 161) and the rules made thereunder (such as, but not limited to, the Legal Profession (Professional Conduct) Rules 2015, Legal Profession (Accountant’s Report) Rules, Legal Profession (Solicitors’ Accounts) Rules and Legal Profession (Regulated Individuals) Rules 2015).</b></li>
       </ul>
     </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>STEP 3: Receive outcome of termination</b></td>
     <td>
       <ul>
         <li> Nil.</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>STEP 3: Receive outcome of termination</b></td>
+    <td>
     </td>
   </tr>
   <tr>
