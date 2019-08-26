@@ -72,9 +72,6 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
   <tr>
     <td><b>STEP 4: Notify relevant stakeholders</b></td>
     <td>
-      <ul>
-        <li> Nil.</li>
-      </ul>
     </td>
   </tr>
   <tr>
