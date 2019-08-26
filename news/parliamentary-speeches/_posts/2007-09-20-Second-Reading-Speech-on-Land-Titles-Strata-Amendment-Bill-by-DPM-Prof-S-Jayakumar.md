@@ -67,23 +67,20 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-land-titles-str
 
 <ol start="12">
 <li>On the formation of a sale committee, the Bill sets out, for example,
-
+ 
 <ul>
-<li>A decision to form an en bloc sale committee will have to be made by ordinary resolution passed at a general meeting. The intention is that there can only be one sale committee per development at any time. </li>
-<li>Members of the sale committee will have to be elected at the meeting. Similarly, a sale committee may be dissolved by ordinary resolution at a general meeting. </li>
-<li>A person standing for election to the sale committee must meet certain eligibility criteria. For example, such a person has to be an owner of a unit in the development; or be nominated by an owner which is a company; or be a member of the immediate family of the owner who is nominating him. </li>
-<li>A person standing for election to the sale committee must declare his interest or relationship, if any, with a property developer, property consultant, marketing agent or legal firm.
-<br>
-<br>  
-As for proceedings of a sale committee, the Bill sets out, among others, that:
-</li>
-<li>
-<br>
-The sale committee shall convene general meetings to consider key issues such as the appointment of any lawyer, property consultant or marketing agent; the apportionment of sale proceeds; the terms and conditions of the Collective Sale Agreement (CSA); and the terms and conditions of the sale and purchase agreement. These changes will ensure that owners will have the opportunity to discuss such key issues before consenting to them. </li>
-<li>The sale committee shall keep minutes of its proceedings and must, within 7 days after each meeting, either display the minutes on the management corporation's notice board or pass the minutes to all owners. </li>
+<li>A decision to form an en bloc sale committee will have to be made by ordinary resolution passed at a general meeting. The intention is that there can only be one sale committee per development at any time.</li>
+<li>Members of the sale committee will have to be elected at the meeting. Similarly, a sale committee may be dissolved by ordinary resolution at a general meeting.</li>
+<li> A person standing for election to the sale committee must meet certain eligibility criteria. For example, such a person has to be an owner of a unit in the development; or be nominated by an owner which is a company; or be a member of the immediate family of the owner who is nominating him.</li>
+<li>A person standing for election to the sale committee must declare his interest or relationship, if any, with a property developer, property consultant, marketing agent or legal firm.</li>
+<li style="list-style-type: none">&nbsp;</li>
+<li style="list-style-type: none">As for proceedings of a sale committee, the Bill sets out, among others, that:</li>
+<li style="list-style-type: none">&nbsp;</li>
+<li> The sale committee shall convene general meetings to consider key issues such as the appointment of any lawyer, property consultant or marketing agent; the apportionment of sale proceeds; the terms and conditions of the Collective Sale Agreement (CSA); and the terms and conditions of the sale and purchase agreement. These changes will ensure that owners will have the opportunity to discuss such key issues before consenting to them.</li>
+<li>The sale committee shall keep minutes of its proceedings and must, within 7 days after each meeting, either display the minutes on the management corporation's notice board or pass the minutes to all owners.</li>
 </ul>
-
-</li>
+  
+</li>  
 </ol>
 
 <ol start="3" style="list-style-type: upper-roman">
