@@ -14,16 +14,32 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
 
 <table>
   <tr>
-    <td><b>Step</b></td>
-    <td><b>Exceptions</b></td>
+    <td>
+      <b>Step</b>
+    </td>
+    <td>
+      <b>Exceptions</b>
+    </td>
   </tr>
   <tr>
-    <td><b>STEP 1: Login to LSRA e-Services using CorpPass</b></td>
+    <td>
+      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+    </td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><ul><li>Nil.</li></ul></td>
+    <td>
+      <ul>
+        <li>CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
+        <li>CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
+        <li>A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides">website</a>.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nil.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>STEP 2: Complete and submit application form and pay application fee</b></td>
