@@ -620,7 +620,7 @@ Madam Speaker,
 <ol start="155">
 <li> What this legislation does is to make this clear, that it is harassment, regardless of the means in which it is committed, whether online or offline. And then if you can prove harassment i.e. illegal conduct, then you will get a set of remedies to try and deal with the illegal conduct.
 <ol>
-<li style="list-style-type: none"><u>  Grant of POs and EPOs</u></li>  
+  <li style="list-style-type: none"><u><i>Grant of POs and EPOs</i></u></li>  
 </ol>
 </li>  
 </ol>
