@@ -63,3 +63,11 @@ The prior approval in writing of the Director of Legal Services is required if c
     <td>Serviced offices (the company that owns or manages the serviced offices)</td>
   </tr>
 </table>
+
+(<sup>*</sup> A legal practitioner who holds or intends to hold an executive appointment in an entity that is not a law practice should also refer to rule 34(4) of the Legal Profession (Professional Conduct) Rules 2015, read with the Second Schedule of the said Rules, in particular paragraph 8.)
+
+To apply for approval to share premises, Entity 1 should submit an [update]() application via [LSRA e-Services](), providing details of the arrangement in the “Sharing of Premises” section of the online form.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a [new law practice licence]().
+
+If the application is approved, Entity 2, if it is a law practice, will also need to submit an application via [LSRA e-Services]() to [update]() the “Sharing of Premises” section in its own licence record.
+
+ 
