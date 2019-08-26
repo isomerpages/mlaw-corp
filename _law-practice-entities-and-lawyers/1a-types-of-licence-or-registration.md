@@ -9,6 +9,7 @@ second_nav_title: Licensing Or Registration Of Law Practice Entities
 
 <style>
 table tr td ul {font-size: 1rem;}
+table tr td ul li {font-size: 1rem;}
 
 </style>
 Types of Licence or Registration
