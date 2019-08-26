@@ -48,7 +48,7 @@ permalink: /news/announcements/scheme-to-allow-graduates-with-second-class-lower
   
 5. Candidates who seek to qualify under this scheme have to undergo and pass an interview conducted by the Board. Candidates assessed by the Board to possess the requisite standard for the purposes of admission to the Singapore Bar will be issued a Certificate of Exemption from the requirement of obtaining an Upper Second Class Honours or equivalent, from a scheduled university. The Certificate is valid for a period of 3 years from the date of issue. Thereafter, he or she must fulfil all other requirements for admission to the Singapore Bar including passing the Diploma in Singapore Law Course, Postgraduate Practical Law Course and serve pupillage.  
 
-6. Applications for exemption may be made from today. Interested candidates can visit the Board's website at [http://www.lawsociety.org.sg/ble/](http://www.lawsociety.org.sg/ble/) for further details.
+6. Applications for exemption may be made from today. Interested candidates can visit the Board's website at [http://www.sile.edu.sg/](http://www.sile.edu.sg/) for further details.
    
 **Issued by the Ministry of Law and Board of Legal Education**  
 **16 October 2006**
