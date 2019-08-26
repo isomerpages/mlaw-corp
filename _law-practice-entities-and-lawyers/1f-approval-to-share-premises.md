@@ -83,3 +83,33 @@ The approval of the Director of Legal Services is not required if the entities b
 
 However, each law practice should still submit an application via [LSRA e-Services](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) to [update](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/) the “Sharing of Premises” section in its licence record.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a [law practice licence](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/).
 
+<table>
+  <tr>
+    <td><b></b></td>
+    <td><b></b></td>
+    <td><b></b></td>
+    <td><b><a href="" target="_blank"></a></b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
