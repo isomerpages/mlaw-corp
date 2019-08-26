@@ -41,7 +41,17 @@ Relevant Organisations
         <li>E-Litigation</li>
       </ul>
     </td>
-    <td>For technical/system-related issues in eLitigation and general enquiries:<br><b>CrimsonLogic Helpdesk</b><br>Tel: 6887 7222<br>E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com</a><br><br>For queries concerning practising certificates:<br><b>Supreme Court</b><br>Tel: 6332 4244<br>E-mail: <a href="mailto:SUPCOURT_PCEF_INQ@supcourt.gov.sg">SUPCOURT_PCEF_INQ@supcourt.gov.sg</a>
-</td>
+    <td>For technical/system-related issues in eLitigation and general enquiries:<br>
+      <b>CrimsonLogic Helpdesk</b><br>Tel: 6887 7222<br>
+      E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com</a><br><br>
+      For queries concerning practising certificates:<br><b>
+      Supreme Court</b><br>Tel: 6332 4244<br>
+      E-mail: <a href="mailto:SUPCOURT_PCEF_INQ@supcourt.gov.sg">SUPCOURT_PCEF_INQ@supcourt.gov.sg</a></td>
   </tr>
 </table>
+
+Other relevant organisations:<br>
+* Accounting and Corporate Regulatory Authority
+* Ministry of Manpower
+* Singapore Academy of Law
+* Singapore Institute of Legal Education
