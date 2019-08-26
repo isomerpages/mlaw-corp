@@ -12,3 +12,57 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
 
 **For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx){:target="_blank"}.**
 
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Singapore citizens and permanent residents do not require a work pass.</li></ul></td>
+  </tr>
+</table>
