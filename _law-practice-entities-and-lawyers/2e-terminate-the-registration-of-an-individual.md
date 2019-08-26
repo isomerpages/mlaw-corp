@@ -62,7 +62,12 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     </td>
   </tr>
   <tr>
-    <td>The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</td>
+    <td>
+      <ul>
+        <li>The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
+        <li>The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li>Nil.</li>
