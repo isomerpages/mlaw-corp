@@ -14,19 +14,11 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td><b>Step</b></td>
+    <td><b>Exceptions</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><ul><li>Nil.</li></ul></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td><b>STEP 1: Login to LSRA e-Services using CorpPass</b></td>
     <td></td>
   </tr>
   <tr>
@@ -34,15 +26,7 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
     <td><ul><li>Nil.</li></ul></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><ul><li>Nil.</li></ul></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td><b>STEP 2: Complete and submit application form and pay application fee</b></td>
     <td></td>
   </tr>
   <tr>
@@ -50,7 +34,7 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
     <td><ul><li>Nil.</li></ul></td>
   </tr>
   <tr>
-    <td></td>
+    <td><b>STEP 3: Receive outcome of application</b></td>
     <td></td>
   </tr>
   <tr>
@@ -58,7 +42,23 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
     <td><ul><li>Nil.</li></ul></td>
   </tr>
   <tr>
+    <td><b>STEP 4: Pay registration fee</b></td>
     <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>STEP 5: Receive CoR</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><ul><li>Nil.</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>STEP 6: Apply for a valid work pass with MOM</b></td>
     <td></td>
   </tr>
   <tr>
