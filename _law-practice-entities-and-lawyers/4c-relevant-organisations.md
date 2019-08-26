@@ -51,7 +51,7 @@ Relevant Organisations
 </table>
 
 Other relevant organisations:<br>
-* Accounting and Corporate Regulatory Authority
-* Ministry of Manpower
-* Singapore Academy of Law
-* Singapore Institute of Legal Education
+* [Accounting and Corporate Regulatory Authority]()
+* [Ministry of Manpower]()
+* [Singapore Academy of Law]()
+* [Singapore Institute of Legal Education]()
