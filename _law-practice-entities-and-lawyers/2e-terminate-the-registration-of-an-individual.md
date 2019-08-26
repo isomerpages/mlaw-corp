@@ -82,9 +82,9 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
   <tr>
     <td>
       <ul>
-        <li>Singapore advocates and solicitors are required under the Legal Profession Act to notify the Registrar of the Supreme Court and the Council of the Law Society through eLitigation of their intention to cease practice.<li>
-        <li>Singapore advocates and solicitors should also notify Lockton Companies (Singapore) Pte Ltd (the Law Society of Singapore’s professional indemnity broker) and their clients of the intention to cease practice.<li>
-        <li>For more information, please refer to the Law Society of Singapore’s <a href="https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Ceasing-a-Practice" target="_blank">website</a>.<li>
+        <li>Singapore advocates and solicitors are required under the Legal Profession Act to notify the Registrar of the Supreme Court and the Council of the Law Society through eLitigation of their intention to cease practice.</li>
+        <li>Singapore advocates and solicitors should also notify Lockton Companies (Singapore) Pte Ltd (the Law Society of Singapore’s professional indemnity broker) and their clients of the intention to cease practice.</li>
+        <li>For more information, please refer to the Law Society of Singapore’s <a href="https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Ceasing-a-Practice" target="_blank">website</a>.</li>
       </ul>
     </td>
     <td>
