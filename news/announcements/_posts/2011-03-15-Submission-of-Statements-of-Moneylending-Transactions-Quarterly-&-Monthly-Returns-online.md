@@ -11,12 +11,12 @@ permalink: /news/announcements/submission-of-statements-of-moneylending-transact
 
 Thank you for submitting the Application Form for IPTO eServices. 
 With effect from 1 Apr 2011, all moneylenders are required to submit their Statements of Moneylending Transactions (Quarterly & Monthly Returns) online at the following website:
-[http://www.iptoonline.gov.sg/](http://www.iptoonline.gov.sg/) 
+[https://www.mlaw.gov.sg/eservices/rom/](https://www.mlaw.gov.sg/eservices/rom/) 
 
 
 
 Moneylenders should ensure that the Statements are in **Excel format** according to the template provided in the following website:
-[http://www.iptoonline.gov.sg/download.html](http://www.iptoonline.gov.sg/download.html) 
+[https://www.mlaw.gov.sg/eservices/rom/](https://www.mlaw.gov.sg/eservices/rom/)
 
 
 Please note that these Statements are to reach the Registry of Moneylenders by the following deadlines:
