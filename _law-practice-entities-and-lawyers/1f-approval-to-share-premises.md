@@ -85,31 +85,33 @@ However, each law practice should still submit an application via [LSRA e-Servic
 
 <table>
   <tr>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b><a href="" target="_blank"></a></b></td>
+    <td><b>Scenario</b></td>
+    <td><b>Entity 1</b></td>
+    <td><b>Entity 2</b></td>
+    <td><b><a href="" target="_blank">Relevant Legislation</a></b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>(A)</td>
+    <td>SLP</td>
+    <td>Another SLP</td>
+    <td>Section 32(2) of the Legal Profession Act read with Rule 81 of the Legal Profession (Law Practice Entities) Rules 2015</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr><tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>(B)</td>
+    <td>Member law practice of a group practice</td>
+    <td>Member law practice of the same group practice</td>
+    <td>Rules 44 and 65 of the Legal Profession (Law Practice Entities) Rules 2015</td>
+  </tr>
+  <tr>
+    <td>(D)</td>
+    <td>Constituent SLP of a JLV</td>
+    <td>The relevant JLV</td>
+    <td>Section 169(7) of the Legal Profession Act</td>
+  </tr>
+  <tr>
+    <td>(E)</td>
+    <td>SLP member law practice of an FLA</td>
+    <td>FLP/QFLP member law practice of the relevant FLA</td>
+    <td>Section 170(7) of the Legal Profession Act</td>
   </tr>
 </table>
