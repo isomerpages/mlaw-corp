@@ -4,6 +4,7 @@ title: Register an Individual
 permalink: /law-practice-entities-and-lawyers/registration-of-individuals/register-an-individual/
 breadcrumb: Register an Individual
 collection_name: law-practice-entities-and-lawyers
+second_nav_title: Registration of Individuals
 ---
 
 To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profession Act or a regulated non-practitioner under Section 36G of the Legal Profession Act, please follow the steps below. 
