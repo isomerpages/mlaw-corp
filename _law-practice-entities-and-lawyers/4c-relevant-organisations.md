@@ -53,7 +53,7 @@ Relevant Organisations
 </table>
 
 Other relevant organisations:<br>
-* [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/home/){target="_blank"}
-* [Ministry of Manpower](https://www.mom.gov.sg/){target="_blank"}
-* [Singapore Academy of Law](https://www.sal.org.sg/default.aspx#){target="_blank"}
-* [Singapore Institute of Legal Education](http://www.sile.edu.sg/index.php){target="_blank"}
+* [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/home/){:target="_blank"}
+* [Ministry of Manpower](https://www.mom.gov.sg/){:target="_blank"}
+* [Singapore Academy of Law](https://www.sal.org.sg/default.aspx#){:target="_blank"}
+* [Singapore Institute of Legal Education](http://www.sile.edu.sg/index.php){:target="_blank"}
