@@ -7,6 +7,10 @@ collection_name: law-practice-entities-and-lawyers
 second_nav_title: Licensing Or Registration Of Law Practice Entities
 ---
 
+<style>
+table tr td ul li {font-size: 1rem;}
+</style>
+
 Apply for a Licence or Registration for a New Law Practice Entity
 ---
 
