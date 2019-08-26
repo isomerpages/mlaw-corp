@@ -25,3 +25,41 @@ The prior approval in writing of the Director of Legal Services is required if c
 
 (For a description of each law practice entity type, please refer to this [webpage](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/).)
 
+<table>
+  <tr>
+    <td>
+      <b>Scenario</b>
+    </td>
+    <td>
+      <b>Entity 1</b>
+    </td>
+    <td>
+      <b>Entity 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td>(A)</td>
+    <td>Singapore law practice (“SLP”)</td>
+    <td>A licensed foreign law practice (“FLP”), Qualifying Foreign Law Practice (“QFLP”), representative office (“RO”), or an entity that is not a law practice<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>(B)</td>
+    <td>FLP, QFLP or RO</td>
+    <td>Any other FLP, QFLP, RO, or an entity that is not a law practice<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>(C)</td>
+    <td>Any law practice</td>
+    <td>A Joint Law Venture (“JLV”) that is unrelated to Entity 1</td>
+  </tr>
+  <tr>
+    <td>(D)</td>
+    <td>Any law practice</td>
+    <td>An FLP/QFLP that is a member law practice of a Formal Law Alliance (“FLA”), where Entity 1 is not a member of the FLA</td>
+  </tr>
+  <tr>
+    <td>(E)</td>
+    <td>Any law practice</td>
+    <td>Serviced offices (the company that owns or manages the serviced offices)</td>
+  </tr>
+</table>
