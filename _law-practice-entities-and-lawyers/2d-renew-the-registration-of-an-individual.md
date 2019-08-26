@@ -95,7 +95,13 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <ul>
+        <li>If the application is approved, login to LSRA e-Services using CorpPass, retrieve the application from myDashboard, and pay the registration fee.</li>
+        <li>The registration fee can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</li>
+        <li>The registration fee must be paid online using a valid credit/debit card.</li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li>Nil.</li>
@@ -109,7 +115,11 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <ul>
+        <li>The LSRA will issue the CoR after verifying the payment. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services using CorpPass.</li>
+      </ul>
+    </td>
     <td>
       <ul>
         <li>Nil.</li>
