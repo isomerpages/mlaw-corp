@@ -70,7 +70,7 @@ CorpPass will be required for all local entities with a Unique Entity Number (UE
     <td>
       <ul>
         <li>A JLV or an FLA is required to terminate the existing entity and submit a new application if there is a change in the constituent/member law practices.</li>
-        <li>A GP is <ul>not</u> required to terminate the existing entity if there is a change in the member law practices. This can be done via an update application.</li>
+        <li>A GP is <u>not</u> required to terminate the existing entity if there is a change in the member law practices. This can be done via an update application.</li>
       </ul>
     </td>
   </tr>
