@@ -7,10 +7,6 @@ collection_name: law-practice-entities-and-lawyers
 second_nav_title: Other Services
 ---
 
-<style>
-table tr td ul li {font-size: 1rem;}
-</style>
-
 Request a Certificate of Good Standing
 ---
 
