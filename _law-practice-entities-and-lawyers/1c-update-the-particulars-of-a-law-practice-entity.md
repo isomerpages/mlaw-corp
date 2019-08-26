@@ -56,7 +56,7 @@ To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign
     </td>
     <td>
       <ul>
-        <li>Nil./li>
+        <li>Nil.</li>
       </ul>
     </td>
   </tr>
@@ -75,7 +75,7 @@ To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign
     </td>
     <td>
       <ul>
-        <li>Nil./li>
+        <li>Nil.</li>
       </ul>
     </td>
   </tr>
