@@ -85,8 +85,8 @@ collection_name: news
 <li style="list-style-type: none"> Minister Yaacob will touch on the points relating to technology and how it has completely changed the landscape.</li> 
 </ol>
 
-<ol start="2" style="list-style-type: upper-alpha">
-<li>What can this do?</li>
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold">
+ <li><u>What can this do?</u></li>
 </ol>
 
 <ol start="11">
