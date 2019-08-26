@@ -137,7 +137,7 @@ Law firms which are structured as companies and which provide international lega
 22. Turning to Ms Sylvia Lim’s cut, she had suggested reforms to allow victims of crime to attach civil compensation claims in criminal proceedings so that separate civil suits need not be filed, although I think that, in this case, Ms Lim did accept that for complex matters, or things where there are issues heavily in dispute, those would be suitable for civil claims. I think that is in line with the judgment of Chief Justice Chan Sek Keong as he then was in PP v AOB [2011] 2 SLR 793.
 
 {:start="23"}
-23. At the current time, Section 359 of the Criminal Procedure Code allows for claim for compensation in a criminal proceeding.  That section makes it *mandatory* for a court convicting a person of any offence to consider whether a compensation order should be made, and the court will make such compensation orders where appropriate.
+23. At the current time, Section 359 of the Criminal Procedure Code allows for claim for compensation in a criminal proceeding.  That section makes it *mandatory*  for a court convicting a person of any offence to consider whether a compensation order should be made, and the court will make such compensation orders where appropriate.
 
 
 <ol start="24">
