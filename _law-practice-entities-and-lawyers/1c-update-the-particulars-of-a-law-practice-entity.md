@@ -44,15 +44,39 @@ To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Under the Legal Profession (Law Practice Entities) Rules 2015, the particulars of law practice entities should be updated as soon as practicable, in any event within 7 days of any change.</li>
+        <li>The update application form is similar to the new licence application form for the relevant law practice type. Before you begin your application, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
+        <li>The completed application form must be signed by the Managing Partner / Managing Director / Manager or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
+        <li>No fees will be charged for any updates, unless the re-issuance of a new licence/certificate is required, e.g. when there is a change in the law practice entity's name.</li>
+        <li>The re-issuance fee can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+        <li>The re-issuance fee must be paid online using a valid credit/debit card.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nil./li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>STEP 3: Receive outcome of update</b></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Some administrative details (e.g. telephone number) will be updated automatically upon submission. Other updates may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
+        <li>The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
+        <li>If the re-issuance of the licence/certificate is requested, a copy of the new licence/certificate will be emailed to the Main Contact for the Application.</li>
+        <li>After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Nil./li>
+      </ul>
+    </td>
   </tr>
 </table>
