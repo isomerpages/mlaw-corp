@@ -108,7 +108,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-for-law-ass
 {:start="21"}
 21. Next, **Clause 11** amends section 74(2) to clarify that the power of the High Court to restrain litigants from instituting vexatious proceedings applies to both civil and criminal proceedings originating at both the High Court and Subordinate Courts. This amendment codifies existing case law. <a href="#fn3"><sup>3</sup></a>
 
-<ol start="5">
+<ol start="5" style="list-style-type: lower-roman">
 <li><i>Approval for Registrar and other judicial officers to hold other offices of emolument  </i></li>
 </ol>
 
