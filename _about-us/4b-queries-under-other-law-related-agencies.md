@@ -77,3 +77,7 @@ Subordinate Courts, Level 5<br>
 Singapore 059724<br>
 Tel: 6536 0650<br>
 Fax: 6534 5237<br>
+
+**Operating Hours:**<br>
+9 am to 5.45 pm, Mondays to Fridays<br>
+Closed on Saturdays, Sundays and Public Holidays
