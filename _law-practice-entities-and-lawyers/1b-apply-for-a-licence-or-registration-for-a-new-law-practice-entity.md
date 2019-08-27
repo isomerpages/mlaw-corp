@@ -18,7 +18,7 @@ To apply for a licence for a new Singapore Law Practice ("SLP"), Foreign Law Pra
 
 **You may also wish to refer to the [User Guide](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) for step-by-step instructions on how to submit an application via LSRA e-Services.**
 
-For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx).
+**For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx)**.
 
 <table>
   <tr>
