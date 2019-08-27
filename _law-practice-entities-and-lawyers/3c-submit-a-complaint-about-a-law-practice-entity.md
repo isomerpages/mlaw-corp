@@ -47,6 +47,6 @@ Complaints against <b>individual lawyers</b> for inadequate professional service
     <td>
       <b>How do I make the complaint?</b>
   </td>
-    <td>To submit a complaint about a law practice entity in Singapore, please <a href="https://www.mlaw.gov.sg/eservices/lsra/complaint-introduction/" target="_blank">click here</a>.</td>
+    <td>To submit a complaint about a law practice entity in Singapore, please click<a href="https://www.mlaw.gov.sg/eservices/lsra/complaint-introduction/" target="_blank"> here</a>.</td>
   </tr>
 </table>
