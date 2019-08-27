@@ -18,8 +18,7 @@ To request a Certificate of Good Standing from LSRA, the foreign lawyer or law p
 
 **(a) Certificate of Good Standing for Foreign Lawyers:**
 * Full name
-* Identification number (as reflected in the individual's identification document)
-* [Note: NRIC is preferred, followed by FIN, then passport.] 
+* Identification number (as reflected in the individual's identification document)<br>[Note: NRIC is preferred, followed by FIN, then passport.] 
 * A scanned copy of the NRIC/work pass/passport
 * Current Certificate of Registration number (if any)
 * Previous Certificate(s) of Registration number(s) (if any)
