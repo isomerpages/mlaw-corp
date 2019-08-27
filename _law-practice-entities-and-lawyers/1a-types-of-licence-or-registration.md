@@ -35,10 +35,11 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     <td>A Singapore Law Practice (“SLP”) is allowed to provide in or from Singapore:
       <ul>
         <li>Singapore law-related legal services in all areas of legal practice; and</li>
-        <li>Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.
+        <li>Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li>
       </ul>
-      An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable.<br><br>An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.
-    </td>
+      <br>
+      An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable.<br>
+      An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</td>
   </tr>
   <tr>
     <td><b>Foreign Law Practice</b><br>Section 172 of the Legal Profession Act (Cap. 161)</td>
@@ -55,8 +56,8 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     <td>The Qualifying Foreign Law Practice (“QFLP”) scheme was introduced in 2008, and allows foreign law practices which obtain a QFLP licence to provide in or from Singapore:
       <ul>
         <li>Foreign law-related legal services in all areas of legal practice that the QFLP is competent to offer; and</li>
-        <li>Singapore law-related legal services in the “permitted areas of legal practice” through certain types of registered lawyers.
-      </ul>
+        <li>Singapore law-related legal services in the “permitted areas of legal practice” through certain types of registered lawyers.</li>
+      </ul><br>
       The QFLP licence is awarded after an application and selection process.<br><br><b>
       The QFLP scheme is not open for application currently and there are no details available regarding further rounds of applications.</b>
     </td>
