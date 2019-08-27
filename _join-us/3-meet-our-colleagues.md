@@ -33,7 +33,7 @@ Meet Our Colleagues
 "Sharizah Shariff’s job lets her combine her interest in working with numbers and people."</i>
 </b>
 
-<div class="image"><a href=""><img src="/images/1458223822886.png/"></a></div>
+<div class="image"><a href="/join-us/meet-our-colleagues/rachel-gan/"><img src="/images/1458223822886.png/"></a></div>
 
 <b>
   <i>
