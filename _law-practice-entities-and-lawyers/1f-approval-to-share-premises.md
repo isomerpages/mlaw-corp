@@ -80,8 +80,7 @@ The list of supporting documents required as part of the application can be foun
 * Written confirmation from the other entity recognising the obligations of the applicant law practice; and
 * The layout of the shared premises, clearly indicating the areas to be occupied by each entity, the common areas to be used jointly by both entities, and the points of entry/access to each area.
 
-Where an Update is Required
----
+**Where an Update is Required**
 
 The approval of the Director of Legal Services is not required if the entities below wish to share, occupy or use premises jointly.
 
