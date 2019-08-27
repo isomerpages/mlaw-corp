@@ -45,9 +45,7 @@ For more details, please refer to the Inland Revenue Authority of Singapore’s 
     <td>
       <b>Tax Exemption for Non-Resident Mediators</b>
     </td>
-    <td>This is a broad-based tax exemption on the income derived by a qualifying non-resident individual for mediation services rendered in Singapore, including services that were rendered in Singapore pursuant to an agreement to mediate specifying Singapore as the venue for the mediation.  A qualifying non-resident individual has to be either a (a) certified mediator; or (b) mediator conducting a mediation administered by a designated mediation service provider.<br><br><u>Qualifying mediation service providers under section 13(16) of the Income Tax Act</u>:<br>1. Singapore International Mediation Centre<br><br><u>Qualifying mediator certification or accreditation schemes under section 13(16) of the Income Tax Act</u>:<br>1. SIMI Credentialing Scheme (SIMI Certified Mediator), Singapore International Mediation Institute<br><br>For more details, please refer to the <a href="/files/IndustryCircular29042016.pdf/">tax circular</a>.
-
-1. Singapore International Mediation Centre</td>
+    <td>This is a broad-based tax exemption on the income derived by a qualifying non-resident individual for mediation services rendered in Singapore, including services that were rendered in Singapore pursuant to an agreement to mediate specifying Singapore as the venue for the mediation.  A qualifying non-resident individual has to be either a (a) certified mediator; or (b) mediator conducting a mediation administered by a designated mediation service provider.<br><br><u>Qualifying mediation service providers under section 13(16) of the Income Tax Act</u>:<br>1. Singapore International Mediation Centre<br><br><u>Qualifying mediator certification or accreditation schemes under section 13(16) of the Income Tax Act</u>:<br>1. SIMI Credentialing Scheme (SIMI Certified Mediator), Singapore International Mediation Institute<br><br>For more details, please refer to the <a href="/files/IndustryCircular29042016.pdf/">tax circular</a>.</td>
   </tr>
   <tr>
     <td>
