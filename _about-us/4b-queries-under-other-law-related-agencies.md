@@ -44,3 +44,29 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 * reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.
 
+**Small Claims Tribunal**
+
+The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:
+
+* a contract for the sale of goods; or
+
+* a contract for the provision of services; or
+
+* tortious damage to property (but not including damage arising in connection with motor vehicle accidents)
+
+* any contract relating to a lease of residential premises not exceeding 2 years
+
+**Free Legal Advice**
+
+The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
+
+* the Criminal Legal Aid Scheme;
+
+* the Project Law Help initiative;
+
+* the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)
+
+* the Community Legal Clinics.
+
+If you wish to seek assistance for any of our pro bono initiatives, please contact:
+
