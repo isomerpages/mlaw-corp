@@ -33,14 +33,14 @@ Meet Our Colleagues
 "Sharizah Shariff’s job lets her combine her interest in working with numbers and people."</i>
 </b>
 
-<div class="image"><a href="/images/1458223822886.png/"><img src="/join-us/meet-our-colleagues/rachel-gan/"></a></div>
+<div class="image"><a href=""><img src="/images/1458223822886.png/"></a></div>
 
 <b>
   <i>
 "These things make me feel like this job is worthwhile because we’re giving them so much more than just a legal solution, we’re giving them peace of mind."</i>
 </b>
 
-<div class="image"><a href="/images/1467709579904.jpg/"><img src="/images/tan-rou-en/"></a></div>
+<div class="image"><a href="/join-us/meet-our-colleagues/tan-rou-en/"><img src="/images/1467709579904.jpg/"></a></div>
 
 <b>
   <i>"While emotionally draining at times, Ms Tan Rou’en finds fulfilment in her job at the Legal Aid Bureau."</i>
