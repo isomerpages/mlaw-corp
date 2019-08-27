@@ -59,7 +59,7 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
   <tr>
     <td>
       <ul>
-        <li>Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</li>
+        <li>Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
         <li>No fees will be charged for the termination.</li>
         <li>The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li><b>Please also note that the termination of the CoR may not necessarily terminate the obligations of the regulated legal practitioners and regulated non-practitioners under the Legal Profession Act (Cap. 161) and the rules made thereunder (such as, but not limited to, the Legal Profession (Professional Conduct) Rules 2015, Legal Profession (Accountant’s Report) Rules, Legal Profession (Solicitors’ Accounts) Rules and Legal Profession (Regulated Individuals) Rules 2015).</b></li>
