@@ -70,3 +70,10 @@ The Pro Bono Services Office coordinates and administers all pro bono initiative
 
 If you wish to seek assistance for any of our pro bono initiatives, please contact:
 
+[**The Law Society of Singapore<br>
+Pro Bono Services Office**](http://probono.lawsociety.org.sg/Pages/default.aspx){:target}<br>
+Subordinate Courts, Level 5<br>
+1 Havelock Square<br>
+Singapore 059724<br>
+Tel: 6536 0650<br>
+Fax: 6534 5237<br>
