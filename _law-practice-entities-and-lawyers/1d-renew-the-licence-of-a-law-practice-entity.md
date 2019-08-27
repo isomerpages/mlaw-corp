@@ -52,8 +52,7 @@ CorpPass will be required for all local entities with a Unique Entity Number (UE
   </tr>
   <tr>
     <td>
-      <b>STEP 2: Complete and submit renewal application form and pay application fee</b><
-      /td>
+      <b>STEP 2: Complete and submit renewal application form and pay application fee</b></td>
     <td></td>
   </tr>
   <tr>
