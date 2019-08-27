@@ -14,7 +14,7 @@ Under Rule 16 of the [Legal Profession (Qualified Persons) Rules](/admission-to-
 
 Under Section 14 of the [Legal Profession Act](/admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"}, the Minister for Law may, in his discretion, if he is of the opinion that a person possesses such qualification or expertise as would contribute to, promote or enhance the quality of legal services in Singapore or the economic or technological development of Singapore, approve the person as a qualified person for the purposes of the Act, subject to such conditions as the Minister may think fit to impose. The Minister for Law may also exempt individuals from [Part B of the Bar Examinations](http://www.sile.edu.sg/part-b){:target="_blank"} and the [practice training period](http://www.sile.edu.sg/admission-requirements/practice-training-period){:target="_blank"}.
 
-### **Which Requirements Can I Seek an Exemption from?**
+**Which Requirements Can I Seek an Exemption from?**
 
 Before submitting an application for exemption, it is your responsibility to read the [Legal Profession (Qualified Persons) Rules](/admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"} and the [Legal Profession (Admission) Rules](/admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"}, or to check with the [Singapore Institute of Legal Education](http://www.sile.edu.sg/index.php){:target="_blank"}, to ascertain the requirements from which you need an exemption.
 
@@ -41,8 +41,7 @@ If the degree is not a recognised degree, but you would nonetheless like to try 
 
 If you have already embarked on the course and realise that it is not recognised for admission to the Singapore Bar, you should submit an application for an exemption as soon as possible.
 
-Exemptions from Part B and the Practice Training Period
----
+**Exemptions from Part B and the Practice Training Period**
 
 You may submit an application to the Minister for Law to be considered for an exemption from the practice training period and Part B of the Bar Examinations if you fulfil all the following requirements:
 
