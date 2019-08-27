@@ -40,7 +40,7 @@ Meet Our Colleagues
 "These things make me feel like this job is worthwhile because we’re giving them so much more than just a legal solution, we’re giving them peace of mind."</i>
 </b>
 
-<div class="image"><a href="#"><img src="/images/tan-rou-en/"></a></div>
+<div class="image"><a href="/images/1467709579904.jpg/"><img src="/images/tan-rou-en/"></a></div>
 
 <b>
   <i>"While emotionally draining at times, Ms Tan Rou’en finds fulfilment in her job at the Legal Aid Bureau."</i>
