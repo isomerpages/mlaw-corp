@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Why Join Minlaw
-permalink: /join-us/why-minlaw/
+permalink: /join-us/why-join-minlaw/
 breadcrumb: Why Join Minlaw
 collection_name: join-us
 ---
