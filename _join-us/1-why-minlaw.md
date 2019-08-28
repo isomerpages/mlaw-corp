@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Why Minlaw
+title: Why Join Minlaw
 permalink: /join-us/why-minlaw/
-breadcrumb: Why Minlaw
+breadcrumb: Why Join Minlaw
 collection_name: join-us
 ---
 <style>
