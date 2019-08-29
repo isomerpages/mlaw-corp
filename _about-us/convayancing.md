@@ -24,8 +24,8 @@ These amendments are based on further feedback and suggestions received from the
 
 An overview of the amendments is outlined in the "[Brief Overview of the Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011](/files/linkclick9205.pdf/){:target="_blank"}". The [Legislative Guide](/files/linkclickfe3c.pdf/){:target="_blank"} has also been updated.
 
-[Conveyancing accounts]()
-[Previous amendments]()
-[Pilot trials]()
-[Applicable legislation]()
+[Conveyancing accounts]()<br>
+[Previous amendments]()<br>
+[Pilot trials]()<br>
+[Applicable legislation]()<br>
 [Additional information]()
