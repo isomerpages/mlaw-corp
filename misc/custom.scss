@@ -410,14 +410,14 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /* class to be used when styling addresses that needs to be center aligned */
-/*
+
 .address-centered{
   text-align: center;
   margin: 0 !important;
   padding: 0 !important;
 	
 }
-*/
+
 /* class to use when the item of an ordered list need to have decimal place */
 .sub-list ol { counter-reset: item }
 .sub-list li { display: block }
