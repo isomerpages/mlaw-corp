@@ -15,7 +15,8 @@ second_nav_title: What We Do
 Legal Industry Division
 ---
 
-<div class="image"><img src="Maxwell-Chambers.jpg"></div>
+<div class="image"><img src="/images/Maxwell-Chambers.jpg/"></div>
+
 MinLaw develops the legal services sector to meet local, regional and international demands.
 
 Besides developing Singapore as a location of choice for international arbitration and other international legal services, MinLaw also formulates policies to ensure quality legal manpower to meet market demands.
