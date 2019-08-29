@@ -6,20 +6,25 @@ breadcrumb: Our Vision, Mission and Core Values
 collection_name: about-us
 ---
 
+<style>
+ .image {width: 600px;}
+ .image img {max-width: 100%;}
+</style>
+
 Our Vision, Mission and Core Values
 ---
 
-![About Us](/images/about_us.jpg)
+<div class="image"><img src="/images/about_us.jpg"></div>
 
-### **Vision**
+**Vision**
 
 A Trusted Legal System; A Trusted Singapore.<br><br>
 
-### **Mission**
+**Mission**
 
 Advancing access to justice, the rule of law, the economy and society through policy, law and services.<br><br>
 
-### **Our Core Values**
+**Our Core Values**
 
 **Integrity**<br>
 *We act with honesty and impartiality.*<br>
