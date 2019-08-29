@@ -49,6 +49,8 @@ permalink: /news/press-releases/Enhancing-the-Regime
 <ol style="list-style-type: lower-alpha">
 <li>a judgment given by a recognised court, on appeal from a court that is not a recognised court; or</li>
 <li>a judgment given by a recognised court in proceedings founded on a judgment of a court in another foreign country and having as their object the enforcement of the second mentioned judgment
+<br>
+ <br>
 will not be included under REFJA.</li>
 </ol>
 </li>
