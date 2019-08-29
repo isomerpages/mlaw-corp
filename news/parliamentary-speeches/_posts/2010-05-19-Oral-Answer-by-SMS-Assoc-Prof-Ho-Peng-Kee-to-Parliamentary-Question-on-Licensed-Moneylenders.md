@@ -12,7 +12,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-assoc-prof-ho-peng-ke
 
 
 **<u>Question</u>**    
-To ask the Minister for Law (a) how many licensed moneylenders were there in 2009 com pared to 2008; (b) how m uch did they lend last year co m pared to 2008; (c) since the Moneylenders Act was last amended, whether s mall borrowers are now better protected; and (d) with the lifting of the interest rate caps for loans above $3,000, h ow does the Ministry ensure that moneylenders do not charge small borrowers excessive or unconscionable rates.
+To ask the Minister for Law (a) how many licensed moneylenders were there in 2009 compared to 2008; (b) how much did they lend last year compared to 2008; (c) since the Moneylenders Act was last amended, whether small borrowers are now better protected; and (d) with the lifting of the interest rate caps for loans above $3,000, how does the Ministry ensure that moneylenders do not charge small borrowers excessive or unconscionable rates.
 
 
 
