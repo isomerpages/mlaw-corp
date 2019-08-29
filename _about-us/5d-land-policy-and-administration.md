@@ -25,25 +25,24 @@ MinLaw formulates and reviews the following policies to support the optimal use 
   <li>
     <b>Residential Property Act</b>
     <ul class="hide">
-      <li></li>
-      <li></li>
+      <li>The <a href="https://sso.agc.gov.sg/Act/RPA1976" target="_blank">Residential Property Act (RPA)</a> strikes a balance between ensuring that the limited supply of landed residential properties in Singapore remains the primary preserve of Singapore Citizens, whilst allowing selected foreigners who have demonstrated social commitment and are making a significant economic contribution to Singapore to also own landed homes. Foreigners who wish to purchase landed residential properties have to submit an application to the Land Dealings Approval Unit at the <a href="https://www.sla.gov.sg/Home.aspx" target="_blank">Singapore Land Authority (SLA)</a>.</li>
+      <li>Frequently Asked Questions (FAQs) related to <a href="http://www.ifaq.gov.sg/SLA/apps/fcd_faqmain.aspx" target="_blank">purchase of landed residential property by foreigners under the RPA.</a></li>
     </ul>
   </li>
   <li>
     <b>Land Acquisition Act</b>
     <ul class="hide">
-      <li></li>
+      <li>The <a href="https://sso.agc.gov.sg/Act/LAA1966?TransactionDate=19920325235959" target="_blank">Land Acquisition Act (LAA)</a> is a key legislation that enables the compulsory acquisition of private land for public purposes, such as the building of transportation infrastructure and public housing. Landowners whose lands are acquired are paid market value compensation under the LAA.  </li>
     </ul>
   </li>
   <li>
     <b>Land Titles (Strata) Act</b>
     <ul class="hide">
-      <li></li>
-      <li></li>
+      <li>The sale of private strata developments in en bloc sales, or collective sales, facilitates redevelopment and supports urban rejuvenation.  The requirements and procedures for an en bloc sale by majority consent are governed by the <a href="https://sso.agc.gov.sg/Act/LTSA1967" target="_blank">Land Titles (Strata) Act</a>.</li>
+      <li>Frequently Asked Questions (FAQs) related to <a href="https://www.gov.sg/" target="_blank">collective sale</a>.</li>
     </ul>
   </li>
 </ul>
-
 
 MinLaw is also the guardian of State land.  Its Statutory Board, the [Singapore Land Authority (SLA)](https://www.sla.gov.sg/Home.aspx){:target="_blank"}, manages approximately 11,000 hectares of State land and 5,000 State buildings.
 
