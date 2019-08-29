@@ -7,6 +7,11 @@ collection_name: about-us
 second_nav_title: What We Do
 ---
 
+<style> 
+ .image {width: 600px;} 
+ .image img {max-width: 100%;} 
+</style>
+
 Registry of Moneylenders
 ---
 
