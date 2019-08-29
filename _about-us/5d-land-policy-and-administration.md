@@ -52,27 +52,31 @@ SLA provides the following land administration services:
   <li>
     <b>Selling and leasing land to the public and private sector, and allocating land to support national development</b>
     <ul class="hide">
-      <li></li>
+      <li>The SLA facilitates the sale and leasing of State land to both the public and private sectors for various uses, such as public housing, industrial development, community uses.  The integrity of the land allocation and administration process is critical to meet ever-changing socio-economic needs, and to maintain confidence in land transactions. </li>
     </ul>
   </li>
   <li>
     <b>Registration of land and property transactions and the issuance and guarantee of land titles in Singapore</b>
     <ul class="hide">
-      <li></li>
+      <li>Land rights are of vital social and economic importance, because they form the basis on which many economic and business activities can take place.  The high level of home and property ownership in Singapore also necessitates a secure land titles registration system. Land titles records are maintained by the SLA, the national land registration authority for property transactions and the issuance and guarantee of land titles in Singapore.</li>
     </ul>
   </li>
   <li>
     <b>Managing and collating digitised information on Singapore's roads and MRT networks, property boundaries, outlines of public housing and industrial buildings</b>
     <ul class="hide">
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>SLA makes available information to the public through the following services:</li>
+      <li>
+       <a href="https://www.onemap.sg/main/v2/"><u>OneMap</u></a><br>
+OneMap is an integrated online geospatial platform that provides reliable, timely and accurate location-based information and services to the public. Use OneMap for street directory information as well as services such as LandQuery, SchoolQuery and PopulationQuery, amongst others. Visit <a href="https://www.onemap.sg/main/v2/">OneMap</a>.</li>
+      <li>
+       <a href="https://www1.sla.gov.sg/"><u>Integrated Land Information Service (INLIS)</u></a><br>
+Use this one-stop internet portal which provides information on land matters such as road line plans, survey plans and property boundaries. In addition, INLIS provides information on property such as ownership of property, property transaction history and surrounding amenities.</li>
     </ul>
   </li>
   <li>
     <b>Maintaining the national land survey system</b>
     <ul class="hide">
-      <li></li>
+      <li>SLA administers the national land survey system which provides the fundamental information about land in Singapore. It establishes and maintains geodetic reference system and infrastructure to support all land survey and geospatial activities. SLA regulates the process of property boundaries survey (known as the cadastral survey), which is now based on co-ordinates. The <a href="https://www.mlaw.gov.sg/content/lsb/en.html">Land Surveyors Board</a> provides for the registration of surveyors. It is also responsible for setting and maintaining standards for registered surveyors, and regulating and advancing the practice of land surveying in Singapore.</li>
     </ul>
   </li>
 </ul>
