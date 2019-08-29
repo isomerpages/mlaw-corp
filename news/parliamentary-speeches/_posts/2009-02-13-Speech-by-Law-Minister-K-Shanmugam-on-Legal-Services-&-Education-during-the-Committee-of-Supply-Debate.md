@@ -355,7 +355,11 @@ permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-le
 
 {:start="60"}
 60. In the current uncertain economic climate, we should allow this pipeline of lawyers to come onstream before we decide on the need to make further radical changes.  
-(D) Increasing Pool of Litigation Lawyers
+
+<ol start="4" style="list-style-type: upper-alpha">
+<li><u>Increasing Pool of Litigation Lawyers</u></li>  
+</ol>
+
 
 
 {:start="61"}
