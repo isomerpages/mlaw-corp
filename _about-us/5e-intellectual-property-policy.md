@@ -7,3 +7,6 @@ collection_name: about-us
 second_nav_title: What We Do
 ---
 
+Intellectual Property Policy
+---
+
