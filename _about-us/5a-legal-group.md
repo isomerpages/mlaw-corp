@@ -7,8 +7,17 @@ collection_name: about-us
 second_nav_title: What We Do
 ---
 
+<style>
+  .image {width: 600px;}
+  .image img {max-width: 100%;}
+</style>
+
 Legal Group
 ---
+
+<div class="image">
+  <img src="/images/1399988831399.jpg/">
+</div>
 
 MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
 
