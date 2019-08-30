@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Privacy Statement
+title: Conveyancing
 permalink: /about-us/legal-group/conveyancing/
 breadcrumb: What We Do
 ---
