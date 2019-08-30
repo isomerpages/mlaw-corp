@@ -31,7 +31,7 @@ On the international front, MinLaw seeks to promote and protect Singapore’s in
 
 MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and Subordinate Courts, which adjudicate on matters brought before the Courts. MinLaw is also separate from AGC. The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
 
-Video: Legal Group and Legal Industry Division
+**Video: Legal Group and Legal Industry Division**
 
 **Related Links**
 <ul>
