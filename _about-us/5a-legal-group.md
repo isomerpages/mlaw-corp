@@ -23,19 +23,19 @@ Some of MinLaw’s recent law reform projects include the [mandatory death penal
   </li>
   <ul>
     <li>
-      <a href="/conveyancing-accounts/" target="_blank">Conveyance accounts</a>
+      <a href="/conveyancing-account/" target="_blank">Conveyance accounts</a>
     </li>
     <li>
-      <a href="#" target="_blank">Previous amendments</a>
+      <a href="/previous-amendments/" target="_blank">Previous amendments</a>
     </li>
     <li>
-      <a href="#" target="_blank">Pilot trials</a>
+      <a href="/pilot-trials/" target="_blank">Pilot trials</a>
     </li>
     <li>
-      <a href="#" target="_blank">Applicable legislation</a>
+      <a href="/applicable-legislation/" target="_blank">Applicable legislation</a>
     </li>
     <li>
-      <a href="#" target="_blank">Additional information</a>
+      <a href="/additional-information/" target="_blank">Additional information</a>
     </li>
   </ul>
 </ul>
