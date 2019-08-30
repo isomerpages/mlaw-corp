@@ -7,7 +7,7 @@ collection_name: about-us
 ---
 
 <style>
-  .image {width: 800px;}
+  .image {width: 600px;}
   .image a img {max-width: 100%;}
 </style>
 
