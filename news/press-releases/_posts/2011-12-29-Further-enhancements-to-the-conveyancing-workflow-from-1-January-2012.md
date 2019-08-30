@@ -15,7 +15,7 @@ collection_name: news
 2. As a further enhancement, from 1 January 2012, the Singapore Land Authority’s Electronic Payment Instruction (ePI) service will allow lawyers to electronically notify banks of the details of conveyancing money paid into conveyancing accounts, instead of using hard copy forms. The Inland Revenue Authority of Singapore will also accept electronic stamp duty payments via the ePI service, which will reduce processing time and further streamline conveyancing transactions.
 
 
-3. More information can be found at [https://staging-isomer-mlaw.netlify.com/about-us/legal-group/conveyancing/](https://staging-isomer-mlaw.netlify.com/conveyancing/).
+3. More information can be found at [https://staging-isomer-mlaw.netlify.com/conveyancing/](https://staging-isomer-mlaw.netlify.com/conveyancing/).
 
 
 
