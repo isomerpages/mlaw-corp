@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Conveyancing Account
-permalink: conveyancing-account/
+permalink: /conveyancing-account/
 breadcrumb: What We Do
 ---
 
