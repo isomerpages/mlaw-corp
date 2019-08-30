@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Previous amendments to the Conveyancing and Law of Property (Conveyancing) Rules
-permalink: /about-us/legal-group/previous-amendments/
+permalink: /previous-amendments/
 breadcrumb: What We Do
 ---
 
