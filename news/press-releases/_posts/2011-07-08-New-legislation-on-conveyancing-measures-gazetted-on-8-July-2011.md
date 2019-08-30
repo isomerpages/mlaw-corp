@@ -91,7 +91,7 @@ Withdrawal or pay-out of money from Conveyancing Accounts will require two-party
 7. To help members of the public understand the new conveyancing measures, posters will be displayed at Community Clubs and Residents’ Committees’ notice-boards. Pamphlets on the new measures will be distributed via the relevant agencies, such as the Law Society, SAL and Association of Banks in Singapore.
 
 {:start="8"}
-8. The public can find out more about the new measures and download a copy of the pamphlet from the one-stop portal, <a href="www.conveyancing.sg">www.conveyancing.sg</a>, or call the conveyancing measures hotline at 68381 CVY (6838 1289).
+8. The public can find out more about the new measures and download a copy of the pamphlet from the one-stop portal, <a href="https://staging-isomer-mlaw.netlify.com/about-us/legal-group/conveyancing/">https://staging-isomer-mlaw.netlify.com/about-us/legal-group/conveyancing/</a>, or call the conveyancing measures hotline at 68381 CVY (6838 1289).
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
