@@ -44,6 +44,6 @@ Applicants must have paid-up capital of at least $1 million, to ensure that they
 {:start="7"}
 7. The validity of the pilot licence is expected to begin in 2019 and conclude in 2020, following which MinLaw will evaluate the results of the pilot and consider options for refining the moneylending regulatory regime.  
   
-For more details, please go to https://www.mlaw.gov.sg/content/rom/en/pilotprogramme.html 
+For more details, please go to [https://www.mlaw.gov.sg/content/rom/en/pilotprogramme.html](https://www.mlaw.gov.sg/content/rom/en/pilotprogramme.html) 
 
 <p class="right-side-updated">Last updated on 12 May 2018</p>
