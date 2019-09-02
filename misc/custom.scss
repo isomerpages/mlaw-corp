@@ -10,7 +10,7 @@ $secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #202020;
-$media-color-two: #282828;
+$media-color-two: #D3D3D3;
 $media-color-three: #303030;
 $media-color-four: #383838;
 $media-color-five: #404040;
@@ -271,14 +271,14 @@ $desktop: 960px + (2 * $gap) !default;
 */
 
 #key-highlights{
-	background-color: #202020;
+	background-color: #D3D3D3;
 	.col {
-		border-left:1px solid darken(#202020,10%);
+		border-left:1px solid darken(#D3D3D3,10%);
 		@include touch(){
-			border-top:1px solid darken(#202020,10%);
+			border-top:1px solid darken(#D3D3D3,10%);
 		}
 		&:hover{
-			background-color: darken(#202020,10%);
+			background-color: darken(#D3D3D3,10%);
 		}
 	}
 }
