@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
-permalink: /news/legal-industry-newsletter/enhancing-land-acq-compensation-framework/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
+title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r1/
+breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill 2017
 collection_name: news
 ---
 
@@ -19,9 +19,9 @@ Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tr
 The Land Acquisition (Amendment) Bill was passed at the August sitting of Parliament. In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S. C., outlines the legislative amendments that the Government has taken to enhance the compensation framework for landowners and improve the efficiency of the land acquisition process.
 
 <div class="image">
-  <a href="/files/LAA_2014_Newsletter.pdf/"><img src="/images/1412048222164.jpg/"></a>
+  <a href="/files/NoteonTrusteesAmendmentBill.pdf/"><img src="/images/1530863993117.jpg/"></a>
 </div>
 
-<a href="/files/LAA_2014_Newsletter.pdf/">Note on Enhancing Land Acquisition Compensation Framework</a>
+<a href="/files/NoteonTrusteesAmendmentBill.pdf/">Note on Trustees (Amendment) Bill</a>
 
-<p class="right-side-updated">Last updated on 30 Sep 2014</p>
+<p class="right-side-updated">Last updated on 06 Jul 2018</p>
