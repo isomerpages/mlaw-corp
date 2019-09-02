@@ -25,6 +25,3 @@ The Land Acquisition (Amendment) Bill was passed at the August sitting of Parlia
 <a href="/files/LAA_2014_Newsletter.pdf/">Note on Enhancing Land Acquisition Compensation Framework</a>
 
 <p class="right-side-updated">Last updated on 30 Sep 2014</p>
-
-<p class="right-side-updated">Last updated on 04 Nov 2014
-</p>
