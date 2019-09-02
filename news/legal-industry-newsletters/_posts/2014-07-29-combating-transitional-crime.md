@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Combating Transnational Crime
-permalink: /legal-industry-newsletter/combating-transitional-crime/
+permalink: /news/legal-industry-newsletter/combating-transitional-crime/
 breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Combating Transnational Crime
 collection_name: news
 ---
