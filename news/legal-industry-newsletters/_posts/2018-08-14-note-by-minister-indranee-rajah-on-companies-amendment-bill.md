@@ -15,12 +15,11 @@ Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018
 
 20 Nov 2018 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-In today’s economy, the success of companies is increasingly built on intangible assets - inventions, product designs, branding, data.  
-
-Second Minister for Finance and Education, Indranee Rajah, S.C.spoke about the importance of intangible assets at IP Week @ SG 2018. This Note highlights the key points of her speech, as well as schemes available to support companies looking to better use their IP and intangible assets in order to grow and maintain their competitive edge.
+The Companies (Amendment) Bill 2018 was passed in Parliament on 6 Aug 2018. The Bill exempts certain liens created under shipping contracts from the requirement of registration under section 131 of the Companies Act. This amendment is in response to the Diablo Fortune case, and preserves existing industry practice regarding such liens, while ensuring that these liens retain their fundamental nature as a security.
 
 <div class="image">
-  <a href="/files/NoteonOpeningAddressatIPWeekSG2018.pdf/"><img src="/images/1543300470682.jpg/"></a>
+  <a href="/files/NoteonCompanies(Amendment)Bill2018.pdf/"><img src="/images/1534234158622.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 27 Nov 2018</p>
+<p class="right-side-updated">Last updated on 14 Aug 2018
+</p>
