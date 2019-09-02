@@ -11,17 +11,23 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
+Note by Senior Minister of State for Law, Indranee Rajah S.C., on A More Rehabilitative Framework for Bankrupts
 ---
 
-9 Sep 2014 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+21 Jul 2015 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-The Land Acquisition (Amendment) Bill was passed at the August sitting of Parliament. In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S. C., outlines the legislative amendments that the Government has taken to enhance the compensation framework for landowners and improve the efficiency of the land acquisition process.
+The Bankruptcy (Amendment) Bill was passed in Parliament on 14 July 2015. In the attached Note, Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the key features of the Bill which will create a more rehabilitative environment for bankrupts and encourage responsible debt management. The Note will be helpful to professionals engaged in debt recovery and insolvency work. It will also be of interest to financial institutions which extend credit to individuals. 
 
 <div class="image">
-  <a href="/files/LAA_2014_Newsletter.pdf/"><img src="/images/1412048222164.jpg/"></a>
+  <a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/"><img src="/images/1437459533821.jpg/"></a>
 </div>
 
-<a href="/files/LAA_2014_Newsletter.pdf/">Note on Enhancing Land Acquisition Compensation Framework</a>
+<a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/">Note on A More Rehabilitative Framework for Bankrupts</a>
+
+<div class="image">
+  <a href="/files/Annex.pdf/"><img src="/images/1437474539181.jpg/"></a>
+</div>
+
+<a href="/files/Annex.pdf/">Annex - Infographic on Bankruptcy (Amendment) Bill</a>
 
 <p class="right-side-updated">Last updated on 30 Sep 2014</p>
