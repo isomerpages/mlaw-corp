@@ -9,11 +9,11 @@ $primary: #a40935;
 $secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #202020;
-$media-color-two: #D3D3D3;
-$media-color-three: #303030;
-$media-color-four: #383838;
-$media-color-five: #404040;
+$media-color-one: #696969;
+$media-color-two: #505050;
+$media-color-three: #708090;
+$media-color-four: #778899;
+$media-color-five: #2F4F4F;
 $media-color-six: #484848;
 $media-color-seven: #505050;
 $media-color-eight: #585858;
@@ -271,14 +271,14 @@ $desktop: 960px + (2 * $gap) !default;
 */
 
 #key-highlights{
-	background-color: #D3D3D3;
+	background-color: #696969;
 	.col {
-		border-left:1px solid darken(#D3D3D3,10%);
+		border-left:1px solid darken(#696969,10%);
 		@include touch(){
-			border-top:1px solid darken(#D3D3D3,10%);
+			border-top:1px solid darken(#696969,10%);
 		}
 		&:hover{
-			background-color: darken(#D3D3D3,10%);
+			background-color: darken(#696969,10%);
 		}
 	}
 }
