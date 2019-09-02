@@ -11,20 +11,20 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
+Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology
 ---
 
 2 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-On 7 April 2017, the Committee on the Future Economy Working Group on Legal and Accounting Services released its recommendations to position Singapore as the trusted global exchange for international commercial transactions.
+The “Tech Start for Law” programme was launched on 1 March 2017 to help Singapore law practices embrace and leverage technology. Under the programme, Singapore law practices can apply for funding support of up to 70% of the first-year cost of adopting technology products for practice management, online research and online marketing.
 
-This Note summarises the key recommendations of the Working Group.
+This Note explains why it is important for law firms to adopt technology and how they can start doing so with support from the Government.
 
 <div class="image">
-  <a href="/files/NoteonCFELegalandAccountingServices.pdf"><img src="/images/1493714260603.jpg/"></a>
+  <a href="/files/NotetoLegalProfessionOnTechnology.pdf"><img src="/images/1494926382432.jpg/"></a>
 </div>
 
-<a href="/files/NoteonCFELegalandAccountingServices.pdf/">Note on CFE Legal and Accounting Services</a>
+<a href="/files/NotetoLegalProfessionOnTechnology.pdf/">Note to Legal Profession on Technology</a>
 
-<p class="right-side-updated">Last updated on 02 May 2017</p>
+<p class="right-side-updated">Last updated on 16 May 2017</p>
 
