@@ -283,6 +283,10 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.key-highlights-text{
+  color: red;	
+}
+
 // Navbar
 .navbar{
   &-start{
