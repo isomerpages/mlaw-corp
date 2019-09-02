@@ -11,17 +11,19 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on the MinLaw-UniSIM Study Award
+Note by Senior Minister of State for Law, Indranee Rajah S.C., on Mediation Bill
 ---
 
 31 Jan 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-The Ministry of Law announced last month that it would be introducing a new MinLaw-UniSIM Study Award to help Singaporean students in need defray part of their tuition fees. In the attached Note, Senior Minister of State for Law, Ms Indranee Rajah S.C., explains why this is necessary.
+The Mediation Bill, which was passed in Parliament on 10 January 2017, is part of our on-going efforts to strengthen Singapore’s position as a premier international commercial dispute resolution hub. The establishment of a framework for commercial mediation will bolster Singapore’s overall attractiveness as a business hub, and create value for other parts of the economy.
+
+This Note summarizes the policy objectives and provisions of the Mediation Bill and related amendments to the Legal Profession Act.  
 
 <div class="image">
-  <a href="/files/AwardNote.pdf/"><img src="/images/1477984615293.jpg/"></a>
+  <a href="/files/NoteonMediationAct.pdf/"><img src="/images/1530863809189.jpg/"></a>
 </div>
 
-<a href="/files/AwardNote.pdf/">Note on the MinLaw-UniSIM Study Award</a>
+<a href="/files/NoteonMediationAct.pdf/">Note on Mediation Bill</a>
 
-<p class="right-side-updated">Last updated on 06 Nov 2016</p>
+<p class="right-side-updated">ast updated on 06 Jul 2018</p>
