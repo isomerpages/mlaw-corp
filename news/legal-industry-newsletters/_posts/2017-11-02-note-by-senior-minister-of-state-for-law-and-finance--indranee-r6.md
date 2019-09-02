@@ -22,5 +22,5 @@ On 2 October 2017, Parliament passed a trio of tax amendments aimed at easing co
   <a href="/files/NoteonTaxAmendments.pdf/"><img src="/images/1509613462494.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 31 May 2017</p>
+<p class="right-side-updated">Last updated on 02 Nov 2017</p>
 
