@@ -19,9 +19,9 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on the MinLaw-Uni
 The Ministry of Law announced last month that it would be introducing a new MinLaw-UniSIM Study Award to help Singaporean students in need defray part of their tuition fees. In the attached Note, Senior Minister of State for Law, Ms Indranee Rajah S.C., explains why this is necessary.
 
 <div class="image">
-  <a href="/files/NoteonCoCA2.pdf/"><img src="/images/1530861709125.jpg/"></a>
+  <a href="/files/AwardNote.pdf/"><img src="/images/1477984615293.jpg/"></a>
 </div>
 
-<a href="/files/NoteonCoCA2.pdf/">Note on the Choice of Court Agreements Act - Commencement</a>
+<a href="/files/AwardNote.pdf/">Note on the MinLaw-UniSIM Study Award</a>
 
-<p class="right-side-updated">Last updated on 06 Jul 2018</p>
+<p class="right-side-updated">Last updated on 06 Nov 2016</p>
