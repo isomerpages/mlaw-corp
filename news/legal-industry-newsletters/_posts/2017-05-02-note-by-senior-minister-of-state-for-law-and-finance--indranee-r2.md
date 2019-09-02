@@ -16,13 +16,15 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land
 
 2 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-The Land Acquisition (Amendment) Bill was passed at the August sitting of Parliament. In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S. C., outlines the legislative amendments that the Government has taken to enhance the compensation framework for landowners and improve the efficiency of the land acquisition process.
+On 7 April 2017, the Committee on the Future Economy Working Group on Legal and Accounting Services released its recommendations to position Singapore as the trusted global exchange for international commercial transactions.
+
+This Note summarises the key recommendations of the Working Group.
 
 <div class="image">
-  <a href="/files/LAA_2014_Newsletter.pdf/"><img src="/images/1412048222164.jpg/"></a>
+  <a href="/files/NoteonCFELegalandAccountingServices.pdf"><img src="/images/1493714260603.jpg/"></a>
 </div>
 
-<a href="/files/LAA_2014_Newsletter.pdf/">Note on Enhancing Land Acquisition Compensation Framework</a>
+<a href="/files/NoteonCFELegalandAccountingServices.pdf/">Note on CFE Legal and Accounting Services</a>
 
-<p class="right-side-updated">Last updated on 30 Sep 2014</p>
+<p class="right-side-updated">Last updated on 02 May 2017</p>
 
