@@ -11,10 +11,10 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Chapter in Family Justice
+Note by Senior Minister of State for Law, Indranee Rajah S.C., on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law
 ---
 
-06 )ct 2014 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+06 Oct 2014 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 Senior Minister of State for Law, Ms Indranee Rajah S.C., shares the possibilities and opportunities that await the legal industry in the future, and how all stakeholders can prepare for this future to further Singapore’s position as a premier legal hub.
 
@@ -24,4 +24,4 @@ Senior Minister of State for Law, Ms Indranee Rajah S.C., shares the possibiliti
 
 <a href="/files/NoteonLegalFutures.pdf/">Note on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law</a>
 
-<p class="right-side-updated">Last updated on 23 Jan 2015</p>
+<p class="right-side-updated">Last updated on 06 Oct 2015</p>
