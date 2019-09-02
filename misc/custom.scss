@@ -9,16 +9,16 @@ $primary: #a40935;
 $secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #696969;
-$media-color-two: #808080;
-$media-color-three: #A9A9A9;
-$media-color-four: #505050;
-$media-color-five: #585858;
-$media-color-six: #606060;
-$media-color-seven: #707070;
-$media-color-eight: #909090;
-$media-color-nine: #989898;
-$media-color-ten: #B8B8B8;
+$media-color-one: #202020;
+$media-color-two: #282828;
+$media-color-three: #303030;
+$media-color-four: #383838;
+$media-color-five: #404040;
+$media-color-six: #484848;
+$media-color-seven: #505050;
+$media-color-eight: #585858;
+$media-color-nine: #606060;
+$media-color-ten: #686868;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -255,6 +255,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
+/* original before modification on 2 sept 2019
 #key-highlights{
 	background-color: $primary;
 	.col {
@@ -264,6 +265,20 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 		&:hover{
 			background-color: darken($primary,10%);
+		}
+	}
+}
+*/
+
+#key-highlights{
+	background-color: #202020;
+	.col {
+		border-left:1px solid darken(#202020,10%);
+		@include touch(){
+			border-top:1px solid darken(#202020,10%);
+		}
+		&:hover{
+			background-color: darken(#202020,10%);
 		}
 	}
 }
