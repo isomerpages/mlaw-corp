@@ -58,7 +58,7 @@ collections:
     output: true
   law-practice-entities-and-lawyers:
     output: true
-  why-copyright-matters: true
+  why-copyright-matters:
     output: true
   lorem-collection:
     output: true
