@@ -14,14 +14,14 @@ collection_name: news
 Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
 ---
 
-9 Sep 2014 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+24 Jul 2015 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-The Land Acquisition (Amendment) Bill was passed at the August sitting of Parliament. In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S. C., outlines the legislative amendments that the Government has taken to enhance the compensation framework for landowners and improve the efficiency of the land acquisition process.
+The Singapore Police Force and the Central Narcotics Bureau intend to start a pilot of Video Recording of Interviews (VRI) during investigations, from 1Q’ 2016. Further information on the pilot can be found in the attached Note by Senior Minister of State for Law, Ms Indranee Rajah S.C..
 
 <div class="image">
-  <a href="/files/LAA_2014_Newsletter.pdf/"><img src="/images/1412048222164.jpg/"></a>
+  <a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/"><img src="/images/1437730103972.jpg/"></a>
 </div>
 
-<a href="/files/LAA_2014_Newsletter.pdf/">Note on Enhancing Land Acquisition Compensation Framework</a>
+<a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/">Note on Breaking New Ground in Criminal Investigations</a>
 
-<p class="right-side-updated">Last updated on 30 Sep 2014</p>
+<p class="right-side-updated">Last updated on 24 Jul 2015</p>
