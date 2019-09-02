@@ -15,14 +15,12 @@ Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018
 
 20 Nov 2018 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-In the future economy, more and more businesses will be built around intangible assets and intellectual property.
+In today’s economy, the success of companies is increasingly built on intangible assets - inventions, product designs, branding, data.  
 
-Lawyers and accountants need to gain new skills and capabilities to capture opportunities presented by this.
-
-This Note describes the resources and support schemes available to lawyers and accountants to gain these skills and capabilities.
+Second Minister for Finance and Education, Indranee Rajah, S.C.spoke about the importance of intangible assets at IP Week @ SG 2018. This Note highlights the key points of her speech, as well as schemes available to support companies looking to better use their IP and intangible assets in order to grow and maintain their competitive edge.
 
 <div class="image">
-  <a href="/files/NoteonLegalAccountingOpportunities.pdf/"><img src="/images/1530605127863.jpg/"></a>
+  <a href="/files/NoteonOpeningAddressatIPWeekSG2018.pdf/"><img src="/images/1543300470682.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 03 Jul 2018</p>
+<p class="right-side-updated">Last updated on 27 Nov 2018</p>
