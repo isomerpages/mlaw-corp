@@ -14,14 +14,12 @@ collection_name: news
 Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tax Amendments
 ---
 
-30 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+2 Nov 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 On 2 October 2017, Parliament passed a trio of tax amendments aimed at easing compliance, clarifying existing legislation, improving tax administration and giving effect to Budget 2017 tax measures. More available in the latest Note by Senior Minister of State for Law and Finance, Ms Indranee Rajah.
 
-<a href="/files/NoteonDebtRestructuring.pdf/">Note on Debt Restructuring</a>
-
 <div class="image">
-  <a href="/files/NoteonDebtRestructuring.pdf/"><img src="/images/1507866827078.jpg/"></a>
+  <a href="/files/NoteonTaxAmendments.pdf/"><img src="/images/1509613462494.jpg/"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 31 May 2017</p>
