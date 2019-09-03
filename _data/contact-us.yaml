@@ -20,15 +20,9 @@ locations:
 
 # Contact Us
 column:
-  - title: General Enquiries & Feedback
+  - title: Call Us
     content:
-    - line: +65 6225 5529
-    - line: boarch@singnet.com.sg (email)
+    - line: 1800 2255 529
+    - line: +65 62255 529
+      description: "For overseas callers please use +65 62255 529"
     # If you have an email, put (email) after the actual email
-
-  - title: Fax
-    content:
-    - line: +65 6222 4452
-
-# Image
-image-url:
