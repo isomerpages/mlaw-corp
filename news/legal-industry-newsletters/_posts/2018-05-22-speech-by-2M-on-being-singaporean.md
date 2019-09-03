@@ -24,6 +24,4 @@ Read the Minister’s speech which is particularly pertinent in a time of change
   <a href="/files/SpecialEditionNoteonBeingSingaporean.pdf/"><img src="/images/1527047602195.jpg/"></a>
 </div>
 
-<a href="/files/SpecialEditionNoteonBeingSingaporean.pdf/">Note on New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas</a>
-
 <p class="right-side-updated">Last updated on 24 Oct 2014</p>
