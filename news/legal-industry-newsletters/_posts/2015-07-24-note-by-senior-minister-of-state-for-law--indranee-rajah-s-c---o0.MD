@@ -11,7 +11,7 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
+Note by Senior Minister of State for Law, Indranee Rajah S.C., on Breaking New Ground in Criminal Investigations
 ---
 
 24 Jul 2015 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
