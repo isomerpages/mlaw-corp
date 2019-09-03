@@ -14,7 +14,7 @@ collection_name: news
 Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology
 ---
 
-2 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+16 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 The “Tech Start for Law” programme was launched on 1 March 2017 to help Singapore law practices embrace and leverage technology. Under the programme, Singapore law practices can apply for funding support of up to 70% of the first-year cost of adopting technology products for practice management, online research and online marketing.
 
