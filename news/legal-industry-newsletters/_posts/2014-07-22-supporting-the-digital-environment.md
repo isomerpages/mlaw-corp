@@ -11,7 +11,7 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas
+Note by Senior Minister of State for Law, Indranee Rajah S.C., on Supporting The Digital Environment
 ---
 
 22 Jul 2014 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
