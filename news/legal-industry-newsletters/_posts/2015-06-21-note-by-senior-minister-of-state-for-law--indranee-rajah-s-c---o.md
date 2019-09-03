@@ -30,4 +30,4 @@ The Bankruptcy (Amendment) Bill was passed in Parliament on 14 July 2015. In the
 
 <a href="/files/Annex.pdf/">Annex - Infographic on Bankruptcy (Amendment) Bill</a>
 
-<p class="right-side-updated">Last updated on 30 Sep 2014</p>
+<p class="right-side-updated">Last updated on 21 Jul 2015</p>
