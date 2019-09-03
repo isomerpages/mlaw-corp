@@ -16,7 +16,9 @@ Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tr
 
 4 Apr 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-The Land Acquisition (Amendment) Bill was passed at the August sitting of Parliament. In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S. C., outlines the legislative amendments that the Government has taken to enhance the compensation framework for landowners and improve the efficiency of the land acquisition process.
+On 10 March 2017, Parliament passed the Trustees (Amendment) Bill. The Bill introduces amendments to enhance transparency of beneficial ownership and control of express trusts. These amendments aim to deter the abuse of trust structures, so as to strengthen our standing as a highly-respected and trusted international financial hub.
+
+This Note summarises the key amendments in the Trustees (Amendment) Bill.
 
 <div class="image">
   <a href="/files/NoteonTrusteesAmendmentBill.pdf/"><img src="/images/1530863993117.jpg/"></a>
