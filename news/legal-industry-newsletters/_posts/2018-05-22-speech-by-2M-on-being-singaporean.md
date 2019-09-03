@@ -24,4 +24,4 @@ Read the Minister’s speech which is particularly pertinent in a time of change
   <a href="/files/SpecialEditionNoteonBeingSingaporean.pdf/"><img src="/images/1527047602195.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 24 Oct 2014</p>
+<p class="right-side-updated">Last updated on 23 May 2018</p>
