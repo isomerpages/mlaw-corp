@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill
-permalink: /news/legal-industry-newsletter/enhancing-land-acq-compensation-framework/
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r7/
 breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill
 collection_name: news
 ---
@@ -28,5 +28,5 @@ Find out more in the Note by SMS Indranee on the Criminal Law (Temporary Provisi
   <a href="/files/NoteonCLPTA.pdf/"><img src="/images/1523589992445.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 30 Sep 2014</p>
+<p class="right-side-updated">Last updated on 13 Apr 2018</p>
 
