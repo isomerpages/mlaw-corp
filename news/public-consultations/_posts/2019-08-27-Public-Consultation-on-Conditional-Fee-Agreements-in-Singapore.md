@@ -9,7 +9,7 @@ permalink: /news/public-consultation/Public-Consultation-on-Conditional-Fee-Agre
 **Consultation Period:**
 27 Aug 2019 to 8 Oct 2019
 
-<p> style="text-align: center">Consultation Paper on Conditional Fee Agreements in Singapore</p>
+<p style="text-align: center">Consultation Paper on Conditional Fee Agreements in Singapore</p>
 
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
@@ -149,20 +149,20 @@ permalink: /news/public-consultation/Public-Consultation-on-Conditional-Fee-Agre
 <p class="address-centered">Singapore 179434</p>
 <p class="address-centered">Email: <a href="MLAW_CFA_Consultation@mlaw.gov.sg">MLAW_CFA_Consultation@mlaw.gov.sg</a></p>
 
-<sup>[1]</sup> The Civil Law (Amendment) Act 2017.
-<sup>[2]</sup> s 5B, Civil Law Act; s 107(1)(b), Legal Profession Act; Rule 18, Legal Profession (Professional Conduct) Rules 2015.
-<sup>[3]</sup> The Right Honourable Lord Justice Jackson (May 2009) “Review of Civil Litigation Costs: Preliminary Report” Volume One, Page 166, Paragraph 1.5
-<sup>[4]</sup> “Maintenance” can be defined as officious intermeddling in litigation, while “champerty” is a particular form of maintenance where one party agrees to aid another to bring a claim on the basis that the person who gives the aid shall receive a share of what may be recovered in the action (Law Society of Singapore v Kurubalan s/o Manickam Rengaraju [2013] SGHC 135)
-<sup>[5]</sup> Section 58(3)(a) of the UK Courts and Legal Services Act 1990 (“UK CLSA”) and Clause 25(3)(c), Schedule 3 of the Legal Practitioners Act 1981 (South Australia, which is similar to legislation in other Australian states such as Victoria and New South Wales) (“South Australian LPA”).
-<sup>[6]</sup> Recommendation by the Committee to Develop the Singapore Legal Sector in their September 2007 Report, adopting recommendations in a paper by the Law Reform and Revision Division, AGC, Proposal to Allow Conditional Fees in Singapore (2004).
-<sup>[7]</sup> Clause 25(3)(d), Schedule 3 of the South Australian LPA
-<sup>[8]</sup> Clause 25(3)(e), Schedule 3 of the South Australian LPA
-<sup>[9]</sup> Clause 25(3)(a), Schedule 3 of the Australian LPA, and recommended by the Committee to Develop the Singapore Legal Sector (supra note 8)
-<sup>[10]</sup> Clause 26(2), Schedule 3 of the South Australian LPA, and recommended by the Committee to Develop the Singapore Legal Sector (supra note 8)
-<sup>[11]</sup> Clause 26(3), Schedule 3 of the South Australian LPA
-<sup>[12]</sup> Clause 29, Schedule 3 of the South Australian LPA
-<sup>[13]</sup> This disclosure requirement is similar to that under the third party funding framework (Rule 49, Legal Profession (Professional Conduct) Rules 2015), as a safeguard against the potential conflict of interest that may arise when there is a CFA.
-<sup>[14]</sup> Recommendation by the Committee to Develop the Singapore Legal Sector (supra note 6).
+<sup>[1]</sup> The Civil Law (Amendment) Act 2017.  
+<sup>[2]</sup> s 5B, Civil Law Act; s 107(1)(b), Legal Profession Act; Rule 18, Legal Profession (Professional Conduct) Rules 2015.  
+<sup>[3]</sup> The Right Honourable Lord Justice Jackson (May 2009) “Review of Civil Litigation Costs: Preliminary Report” Volume One,   Page 166, Paragraph 1.5  
+<sup>[4]</sup> “Maintenance” can be defined as officious intermeddling in litigation, while “champerty” is a particular form of maintenance where one party agrees to aid another to bring a claim on the basis that the person who gives the aid shall receive a share of what may be recovered in the action (Law Society of Singapore v Kurubalan s/o Manickam Rengaraju [2013] SGHC 135)  
+<sup>[5]</sup> Section 58(3)(a) of the UK Courts and Legal Services Act 1990 (“UK CLSA”) and Clause 25(3)(c), Schedule 3 of the Legal Practitioners Act 1981 (South Australia, which is similar to legislation in other Australian states such as Victoria and New South Wales) (“South Australian LPA”).  
+<sup>[6]</sup> Recommendation by the Committee to Develop the Singapore Legal Sector in their September 2007 Report, adopting recommendations in a paper by the Law Reform and Revision Division, AGC, Proposal to Allow Conditional Fees in Singapore (2004).  
+<sup>[7]</sup> Clause 25(3)(d), Schedule 3 of the South Australian LPA  
+<sup>[8]</sup> Clause 25(3)(e), Schedule 3 of the South Australian LPA  
+<sup>[9]</sup> Clause 25(3)(a), Schedule 3 of the Australian LPA, and recommended by the Committee to Develop the Singapore Legal Sector (supra note 8)  
+<sup>[10]</sup> Clause 26(2), Schedule 3 of the South Australian LPA, and recommended by the Committee to Develop the Singapore Legal Sector (supra note 8)  
+<sup>[11]</sup> Clause 26(3), Schedule 3 of the South Australian LPA  
+<sup>[12]</sup> Clause 29, Schedule 3 of the South Australian LPA  
+<sup>[13]</sup> This disclosure requirement is similar to that under the third party funding framework (Rule 49, Legal Profession (Professional Conduct) Rules 2015), as a safeguard against the potential conflict of interest that may arise when there is a CFA.  
+<sup>[14]</sup> Recommendation by the Committee to Develop the Singapore Legal Sector (supra note 6).  
 <sup>[15]</sup> Section 58A(6) of the UK CLSA, and recommended by the Committee to Develop the Singapore Legal Sector (supra note 6)
 
 <p class="right-side-updated">Last updated on 27 Aug 2019</p>
