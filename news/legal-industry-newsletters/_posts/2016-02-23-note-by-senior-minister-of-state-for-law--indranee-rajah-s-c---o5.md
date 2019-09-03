@@ -30,4 +30,4 @@ The Ministry of Law announced last week the setting up of Singapore’s third la
 
 <a href="/files/2NotebySMSonULS-Annex.pdf/">Annex - Key features of the UniSIM Law School</a>
 
-<p class="right-side-updated">Last updated on 16 Feb 2016</p>
+<p class="right-side-updated">Last updated on 23 Feb 2016</p>
