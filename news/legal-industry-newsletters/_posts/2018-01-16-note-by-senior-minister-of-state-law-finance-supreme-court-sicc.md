@@ -13,8 +13,7 @@ collection_name: news
 
 Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on The Supreme Court of Judicature (Amendment) Bill and the Singapore International Commercial Court
 ---
-
-06 Sep 2016 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+16 Jan 2018 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 The SICC has been a trailblazer for dispute resolution in Asia. Its establishment three years ago has broadened the suite of dispute resolution options available to regional and international parties.
 
