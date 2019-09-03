@@ -24,4 +24,4 @@ This Note summarises the key amendments.
   <a href="/files/NoteonCPC.pdf/"><img src="/images/1523589963117.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 13 Apr Sep 2018</p>
+<p class="right-side-updated">Last updated on 13 Apr 2018</p>
