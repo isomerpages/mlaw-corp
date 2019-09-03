@@ -10,10 +10,10 @@ breadcrumb: Note by Minister Indranee Rajah on Companies (Amendment) Bill 2018
   .image img {max-width: 100%;}
 </style>
 
-Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018
+Note by Minister Indranee Rajah on Companies (Amendment) Bill 2018
 ---
 
-20 Nov 2018 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+14 Aug 2018 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 The Companies (Amendment) Bill 2018 was passed in Parliament on 6 Aug 2018. The Bill exempts certain liens created under shipping contracts from the requirement of registration under section 131 of the Companies Act. This amendment is in response to the Diablo Fortune case, and preserves existing industry practice regarding such liens, while ensuring that these liens retain their fundamental nature as a security.
 
