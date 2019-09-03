@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, for SIAC India Summit 2019 Day One: Investor-State Dispute Settlement
+title:  "Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, for SIAC India Summit 2019 Day One: Investor-State Dispute Settlement"
 date:   2019-08-30
 permalink: /news/speeches/Opening-Address-by-Minister-Shanmugam-for-SIAC-Investment-arbitration-conference
 ---
