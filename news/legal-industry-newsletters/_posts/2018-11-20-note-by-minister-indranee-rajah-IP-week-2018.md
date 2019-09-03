@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018
-permalink: /news/legal-industry-newsletter/enhancing-land-acq-compensation-framework/
+permalink: /news/legal-industry-newsletter/note-by-minister-indranee-rajah-IP-week-2018/
 breadcrumb: Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018
 ---
 
