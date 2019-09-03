@@ -11,10 +11,10 @@ collection_name: news
   .image img {max-width: 100%;}
 </style>
 
-Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology
+Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Debt Restructuring
 ---
 
-30 May 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
+20 Jun 2017 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
 From now until 2030, Asia is expected to require US$20 trillion of additional infrastructure investments.
 
@@ -26,5 +26,5 @@ Senior Minister of State for Law and Finance, Ms Indranee Rajah, outlines how Si
   <a href="/files/NoteonDebtRestructuring.pdf/"><img src="/images/1507866827078.jpg/"></a>
 </div>
 
-<p class="right-side-updated">Last updated on 31 May 2017</p>
+<p class="right-side-updated">Last updated on 13 Oct 2017</p>
 
