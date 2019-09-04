@@ -80,13 +80,13 @@ collection_name: news
 {:start="6"}
 6. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A(PDF, 0.2MB)](/files/news/public-consultations/2016/10/CAB.pdf)). The consultation period is from 21 October 2016 to 2 December 2016. All views and feedback may be sent in electronic form or hard copy form to the address below:
 
-Ministry of Law  
-Policy Advisory Division  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Ministry of Law<br>
+ Policy Advisory Division<br>
+ 100 High Street<br>
+ #08-02, The Treasury<br>
+ Singapore 179434<br>
+ Fax: 6332 8842<br>
+ E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 
