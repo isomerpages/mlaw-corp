@@ -17,13 +17,13 @@ collection_name: news
 
 1. Singapore’s growth as a regional financial and business hub requires insolvency laws that are effective and keep pace with changes in the commercial context.  To this end, the Minister for Law appointed the Insolvency Law Review Committee in December 2010 to review the existing bankruptcy and corporate insolvency regimes, with a view to:
 
-a. Unify the bankruptcy and corporate insolvency regimes into a single piece of legislation;
+    a. Unify the bankruptcy and corporate insolvency regimes into a single piece of legislation;
 
-b. Modernise the law of bankruptcy and corporate insolvency as well as adopt practices best suited to Singapore;
+    b. Modernise the law of bankruptcy and corporate insolvency as well as adopt practices best suited to Singapore;
 
-c. Make the attendant processes user-friendly and accessible for individuals and corporations alike; and
+    c. Make the attendant processes user-friendly and accessible for individuals and corporations alike; and
 
-d. Where appropriate, take into account the relevant recommendations made by the Companies Legislation and Regulation Framework Steering Committee in 2002.
+    d. Where appropriate, take into account the relevant recommendations made by the Companies Legislation and Regulation Framework Steering Committee in 2002.
 
 2. The Committee submitted its report to MinLaw on 4 October 2013. 
 
@@ -42,21 +42,10 @@ Fax: 63328842
 Email: MLAW_Consultation@mlaw.gov.sg
 
 **Annex A:**    
-[EXECUTIVE SUMMARY (PDF, 0.1MB)](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf)  
+[EXECUTIVE SUMMARY (PDF, 0.1MB)](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf) 
+
 [INSOLVENCY LAW REVIEW COMMITTEE REPORT (PDF, 1.6MB)](/files/news/public-consultations/2013/10/RevisedReportoftheInsolvencyLawReviewCommittee.pdf)  
 
+**Annex B**
 
-
-<ol class="1">
-     <li>
-          <ol class="case">
-               <li>hi</li>
-               <li>hi</li>
-               <li>hi</li>
-               <li>hi</li>
-          </ol>
-     </li>
-     <li>hi</li>
-     <li>hi</li>
-     <li>hi</li>
-</ol>
+[INSOLVENCY LAW REVIEW COMMITTEE CONCLUDES REVIEW OF SINGAPORE’S BANKRUPTCY AND CORPORATE INSOLVENCY REGIMES](#)
