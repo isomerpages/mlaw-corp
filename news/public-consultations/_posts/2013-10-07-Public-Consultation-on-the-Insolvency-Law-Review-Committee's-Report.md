@@ -53,3 +53,5 @@ Public Consultation on the Insolvency Law Review Committee's Report
 **Annex B**
 
 [INSOLVENCY LAW REVIEW COMMITTEE CONCLUDES REVIEW OF SINGAPORE’S BANKRUPTCY AND CORPORATE INSOLVENCY REGIMES](#)
+
+<p class="right-side-updated">Last updated on 18 Oct 2013</p>
