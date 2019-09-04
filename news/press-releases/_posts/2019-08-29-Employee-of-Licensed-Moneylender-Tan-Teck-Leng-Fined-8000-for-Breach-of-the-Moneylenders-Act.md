@@ -21,8 +21,8 @@ permalink: /news/press-releases/press-releases-employee-of-licensed-moneylender-
 
 7. The Registry reminds all licensed moneylenders to adhere closely to the moneylending law and regulations at all times. The Registry carries out regular inspections on licensed moneylenders. Where breaches of moneylending laws are found, enforcement measures are taken, including the suspension or revocation of licences, forfeiture of security deposits, warnings and prosecutions. Those convicted of breaches of the Moneylenders Act/Rules face a fine of up to $40,000 and/or an imprisonment term of up to two years on each charge.
 
-**29 AUGUST 2019**
-**REGISTRY OF MONEYLENDERS**
+**29 AUGUST 2019**  
+**REGISTRY OF MONEYLENDERS**  
 **MINISTRY OF LAW**
 
 **<u>Annex</u>**
