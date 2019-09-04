@@ -12,7 +12,7 @@ Minister for Law and Minister for Home Affairs, Mr K Shanmugam, gave an intervie
 
 The transcript, in relation to the interview on Hong Kong are below, in English, with Mandarin translation.
 
-[Transcript (In English (313KB))](/files/news/others/Transcript11AugEnglish.pdf)
+[Transcript (In English (313KB))](/files/news/others/Transcript11AugEnglish.pdf)  
 [Transcript (Mandarin Translation)(470KB)](/files/news/others/Transcript11AugMandarin.pdf)
 
 <p class="right-side-updated">Last updated on 11 Aug 2019</p>
