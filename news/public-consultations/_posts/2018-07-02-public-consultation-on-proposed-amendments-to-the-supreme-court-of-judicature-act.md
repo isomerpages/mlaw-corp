@@ -96,3 +96,5 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
  
 {:start="18"}
 18.  The Ministry of Law can only consider comments and feedback that are received no later than 30 July 2018. We seek your kind understanding on this.
+
+<p class="right-side-updated">Last updated on 02 Jul 2018</p>
