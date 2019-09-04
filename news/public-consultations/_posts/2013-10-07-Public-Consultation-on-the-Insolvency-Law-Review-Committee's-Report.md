@@ -7,7 +7,7 @@ collection_name: news
 ---
 
 <style>
-.1 li .alpha {list-style-type: alpha-lower;}
+.1 li .case li {list-style-type: alpha-lower;}
 </style>
 
 **Consultation Period:**  
@@ -49,7 +49,7 @@ Email: MLAW_Consultation@mlaw.gov.sg
 
 <ol class="1">
      <li>
-          <ol class="alpha">
+          <ol class="case">
                <li>hi</li>
                <li>hi</li>
                <li>hi</li>
