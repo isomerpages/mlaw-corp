@@ -7,7 +7,7 @@ collection_name: news
 ---
 
 <style>
-.1 li .alpha li{list-style-type: alpha-lower;}
+.1 li .alpha {list-style-type: alpha-lower;}
 </style>
 
 **Consultation Period:**  
