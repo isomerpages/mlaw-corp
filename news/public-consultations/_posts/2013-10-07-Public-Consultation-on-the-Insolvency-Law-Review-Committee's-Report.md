@@ -10,6 +10,9 @@ collection_name: news
 .1 li .case li {list-style-type: alpha-lower;}
 </style>
 
+Public Consultation on the Insolvency Law Review Committee's Report
+---
+
 **Consultation Period:**  
 7 Oct 2013 to 2 Dec 2013
 
@@ -34,12 +37,13 @@ collection_name: news
 {:start="4"}
 4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at www.mlaw.gov.sg and www.reach.gov.sg.  The feedback may be submitted in electronic form or hard copy form to:
 
-Community Legal Services Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 63328842  
-Email: MLAW_Consultation@mlaw.gov.sg
+<p class="address-centered">
+    Community Legal Services Division, Ministry of Law<br>
+    100 High Street<br>
+    #08-02, The Treasury<br>
+    Singapore 179434<br>
+    Fax: 63328842<br>
+    Email: MLAW_Consultation@mlaw.gov.sg</p>
 
 **Annex A:**    
 [EXECUTIVE SUMMARY (PDF, 0.1MB)](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf) 
