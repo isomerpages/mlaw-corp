@@ -6,6 +6,10 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
+<style>
+.1 li .alpha li{list-style-type: alpha-lower;}
+</style>
+
 **Consultation Period:**  
 7 Oct 2013 to 2 Dec 2013
 
@@ -13,22 +17,15 @@ collection_name: news
 
 1. Singapore’s growth as a regional financial and business hub requires insolvency laws that are effective and keep pace with changes in the commercial context.  To this end, the Minister for Law appointed the Insolvency Law Review Committee in December 2010 to review the existing bankruptcy and corporate insolvency regimes, with a view to:
 
+a. Unify the bankruptcy and corporate insolvency regimes into a single piece of legislation;
 
-     a.          Unify the bankruptcy and corporate insolvency regimes into a single piece of legislation;
+b. Modernise the law of bankruptcy and corporate insolvency as well as adopt practices best suited to Singapore;
 
+c. Make the attendant processes user-friendly and accessible for individuals and corporations alike; and
 
-     b.          Modernise the law of bankruptcy and corporate insolvency as well as adopt practices best suited to Singapore;
-
-
-     c.          Make the attendant processes user-friendly and accessible for individuals and corporations alike; and
-
-
-     d.          Where appropriate, take into account the relevant recommendations made by the Companies Legislation and Regulation Framework Steering Committee in 2002.
-
-  
+d. Where appropriate, take into account the relevant recommendations made by the Companies Legislation and Regulation Framework Steering Committee in 2002.
 
 2. The Committee submitted its report to MinLaw on 4 October 2013. 
-
 
 3. MinLaw welcomes the report, and will carefully consider the Committee’s recommendations as well as the issues raised.  The Committee’s Report and a summary of its recommendations are at **<u>Annex A</u>**.  The Committee has also issued a press release, which may be found at **<u>Annex B</u>**.
 
@@ -36,7 +33,6 @@ collection_name: news
 
 {:start="4"}
 4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at www.mlaw.gov.sg and www.reach.gov.sg.  The feedback may be submitted in electronic form or hard copy form to:
-
 
 Community Legal Services Division, Ministry of Law  
 100 High Street  
@@ -51,3 +47,16 @@ Email: MLAW_Consultation@mlaw.gov.sg
 
 
 
+<ol class="1">
+     <li>
+          <ol class="alpha">
+               <li></li>
+               <li></li>
+               <li></li>
+               <li></li>
+          </ol>
+     </li>
+     <li></li>
+     <li></li>
+     <li></li>
+</ol>
