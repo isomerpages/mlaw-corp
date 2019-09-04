@@ -117,7 +117,7 @@ collection_name: news
 
 
 {:start="19"}
-19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
+19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills at [www.minlaw.gov.sg](https://staging-isomer-mlaw.netlify.com/) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 
 <p class="address-centered">Legal Policy Division</p>
