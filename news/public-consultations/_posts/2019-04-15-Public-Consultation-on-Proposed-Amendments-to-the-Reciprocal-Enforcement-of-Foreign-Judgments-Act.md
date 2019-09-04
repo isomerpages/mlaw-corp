@@ -6,12 +6,14 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
+Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Foreign Judgements Act
+---
 
 **Consultation Period:**  
 15 Apr 2019 to 24 May 2019
 
 
-<ol style="list-style-type: upper-roman">
+<ol style="list-style-type: lower-roman">
 <li>BACKGROUND</li>
 </ol>
 
