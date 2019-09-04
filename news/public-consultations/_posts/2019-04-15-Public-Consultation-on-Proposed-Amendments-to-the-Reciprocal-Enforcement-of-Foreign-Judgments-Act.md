@@ -13,7 +13,7 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
 15 Apr 2019 to 24 May 2019
 
 
-<ol style="list-style-type: lower-roman">
+<ol style="list-style-type: upper-roman">
 <li>BACKGROUND</li>
 </ol>
 
