@@ -16,7 +16,6 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
 <ol style="list-style-type: upper-roman">
 <li>BACKGROUND</li>
 </ol>
-
 ---
 
 1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed Reciprocal Enforcement of Foreign Judgments (Amendment) Bill (the “Bill”), attached at [Appendix A(0.3MB)](/files/news/public-consultations/2019/04/Appendix A Draft REFJA Bill for Public Consultation.pdf) to this public consultation paper.
