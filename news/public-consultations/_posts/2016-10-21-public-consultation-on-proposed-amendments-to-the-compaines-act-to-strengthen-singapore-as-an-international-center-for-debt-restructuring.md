@@ -6,11 +6,13 @@ breadcrumb: Press Releases
 collection_name: news
 ---
 
+Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
+---
+
 **Consultation Period:**  
 21 Oct 2016 to 2 Dec 2016
 
 1. The Ministry of Law and the Ministry of Finance plan to introduce various amendments to the Companies Act in 2017. This public consultation seeks feedback on amendments specifically concerned with reforms to Singapore’s debt restructuring and corporate rescue framework. The Ministry of Finance will be seeking public feedback on other reforms to the Companies Act in due course.
-
 
 **Background**
 
@@ -22,9 +24,6 @@ collection_name: news
 
 {:start="4"}
 4. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, the Ministry of Law is taking a phased approach to implementation. The first phase will comprise legislative amendments which are key to enhancing Singapore’s corporate rescue and restructuring framework. The relevant provisions of the proposed Companies (Amendment) Bill is enclosed at [Annex A(PDF, 0.2MB)](/files/news/public-consultations/2016/10/CAB.pdf).
-
-
-
 
 **Summary of Bill’s provisions**
 
@@ -87,8 +86,6 @@ collection_name: news
  Singapore 179434<br>
  Fax: 6332 8842<br>
  E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
-
-
 
 
   
