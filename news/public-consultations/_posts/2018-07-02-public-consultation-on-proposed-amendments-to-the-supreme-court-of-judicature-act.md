@@ -6,6 +6,9 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
+Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act
+---
+
 **Consultation Period:**  
 2 Jul 2018 to 30 Jul 2018
 
