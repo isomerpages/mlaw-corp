@@ -6,6 +6,9 @@ breadcrumb: Public Consultations
 collection_name: news
 ---
 
+Public Consultation on Proposed Amendments to the International Arbitration Act and Proposed Enactment of the Foreign Limitation Periods Act
+---
+
 **Consultation Period:**  
 21 Oct 2011 to 21 Nov 2011
 
@@ -113,15 +116,14 @@ collection_name: news
 19. MinLaw invites interested parties to provide their feedback on the consultation papers for the International Arbitration Act and the Foreign Limitation Periods Bill. The consultation period is from 21 October to 21 November 2011. The public can view the consultation papers and draft Bills in the Annexes below and at [REACH](http://www.reach.gov.sg/). The feedback may be sent in electronic or hard copy form to:
 
 
-Legal Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail: MLAW_Consultation@mlaw.gov.sg  
-
-
+<p class="address-centered">
+  Legal Policy Division<br>
+  Ministry of Law<br>
+  100 High Street<br>
+  #08-02, The Treasury<br>
+  Singapore 179434<br>
+  Fax: 6332 8842<br>
+  E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 [Annex 1: Foreign Limitation Periods Bill (0.1MB)](/files/news/public-consultations/2011/10/linkclick2957.pdf)  
 [Annex 2: Foreign Limitation Periods Bill Public Consultation Brief (0.1MB)](/files/news/public-consultations/2011/10/linkclick6083.pdf)  
@@ -129,7 +131,6 @@ E-mail: MLAW_Consultation@mlaw.gov.sg
 [Annex 4: International Arbitration (Amendment) Bill Public Consultation Brief (0.2MB)](/files/news/public-consultations/2011/10/linkclickf651.pdf)  
 
 ---
-
 
 <p id="fn1"><sup>[1]</sup> The International Arbitration Act was last amended in 2009 by way of the International Arbitration (Amendment) Act 2009. Amongst other things, these amendments: (a) updated the definition of “arbitration agreement” to clarify that an arbitration agreement can be made by electronic communications; and (b) made express provision for the Singapore High Court’s power to order interim measures in aid of an international arbitration, irrespective of whether the place of arbitration is Singapore or elsewhere. </p>
 
