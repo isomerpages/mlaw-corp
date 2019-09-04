@@ -34,7 +34,7 @@ INSOL International was formed in 1982 and has grown in stature to become the le
  
 INSOL International also has ancillary groups that represent the judiciary, regulators, lenders and academics.  These groups play an invaluable role and provide important fora for discussions of mutual problems among other pursuits.
 
-[www.insol.org](www.insol.org)
+[www.insol.org](https://www.insol.org/)
 
 
 <p class="right-side-updated">Last updated on 06 Aug 2019</p> 
