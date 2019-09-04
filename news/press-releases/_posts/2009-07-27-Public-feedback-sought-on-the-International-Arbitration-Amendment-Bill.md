@@ -41,7 +41,7 @@ The amendments are in three key areas:
 <p class="address-centered">#08-02, The Treasury</p>  
 <p class="address-centered">Singapore 179434</p>  
 <p class="address-centered">Fax: 6332 8842 </p> 
-<p class="address-centered">E-mail: <a href="MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 **<u>Notes:</u>**
