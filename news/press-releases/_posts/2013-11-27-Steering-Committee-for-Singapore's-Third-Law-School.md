@@ -41,7 +41,7 @@ collection_name: news
 10. MinLaw, together with the Ministry of Education, studied the proposal for the third law school. Minister for Education, Mr Heng Swee Kiat, announced on 16 October 2013 that the new law school will be in UniSIM.
 
 
-<sup>[1]</sup> Other key recommendations are outlined in the 28 May 2013 MinLaw press release which responded to the [4th Committee on the Supply of Lawyers.](/news/press-releases/government-welcomes-key-recommendations-of-the-4th-committee-on-the-supply-of-lawyers)
+<sup id="ABC">[1]</sup> Other key recommendations are outlined in the 28 May 2013 MinLaw press release which responded to the [4th Committee on the Supply of Lawyers.](/news/press-releases/government-welcomes-key-recommendations-of-the-4th-committee-on-the-supply-of-lawyers)
 
 **ANNEX A -** [Composition of the UniSIM Law School Steering Committee (0.02MB)](/files/news/press-releases/2013/11/TLS Annex A.pdf)  
 **ANNEX B -** [Composition of the UniSIM Law School Curriculum Working Group (0.02MB)](/files/news/press-releases/2013/11/TLS Annex B.pdf)
