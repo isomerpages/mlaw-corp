@@ -20,7 +20,7 @@ permalink: /news/press-releases/press-releases-Official-Visit-to-India-by-Minist
 6. Minister Shanmugam and SMS Tong will be accompanied by officials from the Ministry of Home Affairs and Ministry of Law.
 
 
-**MINISTRY OF LAW & MINISTRY OF HOME AFFAIRS**
+**MINISTRY OF LAW & MINISTRY OF HOME AFFAIRS**  
 **29 AUGUST 2019**
 
 <p class="right-side-updated">Last updated on 29 Aug 2019</p> 
