@@ -5,8 +5,16 @@ permalink: /news/public-consultations/public-consultation-on-proposed-amendments
 breadcrumb: Public Consultations
 collection_name: news
 ---
+
+Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act
+---
+
 **Consultation Period:**    
 24 Jul 2017 to 24 Aug 2017
+
+[Annex A - Index to the Proposed Legislative Changes to the CPC and the Evidence Act](/files/17AnnexA.pdf/)
+[Annex B - Table of Proposed Legislative Changes to the CPC and the Evidence Act](/files/17AnnexB.pdf/)
+[Annex C - Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act](/files/17AnnexC.pdf/)
 
 **Introduction**
 
@@ -135,18 +143,20 @@ collection_name: news
 {:start="27"}
 27. Comments and feedback can be submitted via post or email as follows:
 
-Legal Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-E-mail: <MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">
+   Legal Policy Division<br>
+   Ministry of Law<br>
+   100 High Street<br>
+   #08-02, The Treasury<br>
+   Singapore 179434<br>
+   E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
 {:start="28"}
 28. The Ministry of Law can only consider comments and feedback that are received no later than 24 August 2017. We seek your understanding on this. 
-
 
 [Annex A - Index to the Proposed Legislative Changes to the CPC and the Evidence Act(PDF, 0.2MB)](/files/news/public-consultations/2017/07/AnnexA.pdf)  
 [Annex B - Table of Proposed Legislative Changes to the CPC and the Evidence Act(PDF, 0.3MB)](/files/news/public-consultations/2017/07/AnnexB.pdf)  
 [Annex C - Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/public-consultations/2017/07/AnnexC.pdf)
 
+<p class="right-side-updated">Last updated on 24 Jul 2017</p>
