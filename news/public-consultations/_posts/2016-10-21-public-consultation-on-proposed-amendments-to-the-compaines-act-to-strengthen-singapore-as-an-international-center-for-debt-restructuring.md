@@ -85,9 +85,10 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
  #08-02, The Treasury<br>
  Singapore 179434<br>
  Fax: 6332 8842<br>
- E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
+ E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
-
+<p class="right-side-updated">Last updated on 17 Nov 2016</p>
   
   
 
