@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Insolvency Office
-permalink: /io/
+permalink: /content/io/en/
 breadcrumb: IO
 ---
 
