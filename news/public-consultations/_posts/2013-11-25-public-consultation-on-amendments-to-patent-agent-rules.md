@@ -29,6 +29,7 @@ Public consultation on the Amendments to the Patents (Patent Agents) Rules
   <li>Giving advice about the validity or infringement of patents under the patent law of any country other than Singapore.  </li>
 </ol>
 
+{:start="4"}
 4. Firms will be allowed to carry on a business and undertake offshore patent agency work as long as the firm has at least one partner or director who is a foreign patent agent registered with IPOS. 
 
 5. The proposed Patents (Patent Agents) (Amendment) Rules 2013 (**ANNEX A**) sets out the requirements for registration as a foreign patent agent at IPOS, and the Code of Conduct governing their practice.
@@ -37,20 +38,22 @@ Public consultation on the Amendments to the Patents (Patent Agents) Rules
 
 <ol style="list-style-type: lower-alpha">
   <li>he is resident in Singapore; and</li>
-  <li>he is recognised to be qualified to be a patent agent or patent attorney by, and is registered as a patent agent or patent attorney with – 
-  <ol style="list-style-type: lower-roman">
-    <li>any foreign or international patent office; or</li>
-    <li>any professional accreditation or regulatory body for patent agents or patent attorneys in any country or jurisdiction other than Singapore.</li>
-   </ol>
+  <li>he is recognised to be qualified to be a patent agent or patent attorney by, and is registered as a patent agent or patent attorney with –<br>
+    <ol style="list-style-type: lower-roman">
+      <li>any foreign or international patent office; or</li>
+      <li>any professional accreditation or regulatory body for patent agents or patent attorneys in any country or jurisdiction other than Singapore.</li>
+    </ol>
   </li>
 </ol>
-  
+
+{:start="7"}
 7. Further registration requirements could include (amongst others) (a) evidence that the applicant has obtained adequate professional indemnity insurance, and (b) a certificate of good standing issued by a patent agent accreditation or regulatory authority.
 
 8. The proposed Patents (Patent Agents) (Amendment) Rules 2013 also requires all foreign patent agents registered at IPOS to adhere to the Code of Conduct, already applicable to Singapore-registered patent agents.
 
 <b><u>Conclusion</u></b>
 
+{:start="9"}
 9. MinLaw invites interested parties to provide your views and feedback on the draft Patents (Patent Agents) (Amendment) Rules.  The consultation period is from **25 November 2013 to 20 December 2013**.
 
 10. The feedback may be sent in electronic or hard copy form to:
