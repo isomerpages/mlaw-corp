@@ -61,21 +61,20 @@ Public consultation on Proposed Amendments to the Evidence Act
 
 15. To ensure that these broadened / new hearsay exceptions are not abused, the courts will be given an overriding discretion to exclude hearsay evidence in the interests of justice. A party seeking to rely on hearsay evidence will also generally be subject to certain prescribed notice requirements.
 
-16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper](files/linkclickbd8a.pdf/) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx]() The feedback may be sent in electronic or hard copy form to:
+16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper](files/linkclickbd8a.pdf/) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
-The Registry of Moneylenders<br>
-45 Maxwell Road, #06-11<br>
-The URA Centre East Wing, Singapore 069118<br>
+Legal Policy Division
+Ministry of Law<br>
+100 High Street<br>
+#08-02, The Treasury<br>
+Singapore 179434<br>
 Fax: 6325 1416<br>
-E-mail: <a href="mailto:ipto_romp@ipto.gov.sg">ipto_romp@ipto.gov.sg</a>
+E-mail: <a href="mailto:iMLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-{:start="6"}
-6. The consultation period ends on Friday, 12 September 2008.
+[Annex 1: Public consultation on proposed amendments to the Evidence Act](/files/linkclickbd8a.pdf/)
 
-<b><u>Attachments</u></b>
-
-* [Consultation paper on Moneylenders Bill 2008](/files/linkclicke2d7.pdf/){:target="_blank"}
+[Annex 2: Draft Evidence (Amendment) Bill](/files/linkclick5231.pdf/)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
