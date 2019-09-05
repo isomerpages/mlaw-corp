@@ -18,10 +18,10 @@ Public consultation on the Amendments to the Patents (Patent Agents) Rules
 
 3. The scope of offshore patent agency work that foreign-registered patent agents can undertake in Singapore will include:
 
-<ol style:list-style-type:lower-alpha>
+<ol style="list-style-type: lower-alpha">
   <li>Applying for or obtaining patents at any place other than IPOS;</li>
   <li>Preparing specifications or other documents for the purposes of:
-  <ol style:list-style-type:lower-roman>
+  <ol style="list-style-type: lower-roman">
     <li>the patent law of any country other than Singapore; or</li>
     <li>an international application for a patent, including PCT applications; and</li>
    </ol>
@@ -35,13 +35,14 @@ Public consultation on the Amendments to the Patents (Patent Agents) Rules
 
 6. It is proposed that an individual will be eligible to apply for registration as a foreign patent agent if:
 
-ol style:list-style-type:lower-alpha>
+<ol style="list-style-type: lower-alpha">
   <li>he is resident in Singapore; and</li>
   <li>he is recognised to be qualified to be a patent agent or patent attorney by, and is registered as a patent agent or patent attorney with – 
-  <ol style:list-style-type:lower-roman>
-    <li><any foreign or international patent office; or/li>
+  <ol style="list-style-type: lower-roman">
+    <li>any foreign or international patent office; or</li>
     <li>any professional accreditation or regulatory body for patent agents or patent attorneys in any country or jurisdiction other than Singapore.</li>
    </ol>
+  </li>
 </ol>
   
 7. Further registration requirements could include (amongst others) (a) evidence that the applicant has obtained adequate professional indemnity insurance, and (b) a certificate of good standing issued by a patent agent accreditation or regulatory authority.
