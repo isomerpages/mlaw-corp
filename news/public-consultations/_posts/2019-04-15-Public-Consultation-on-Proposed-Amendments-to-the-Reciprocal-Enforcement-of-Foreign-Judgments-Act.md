@@ -90,14 +90,13 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
  10. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “Reciprocal Enforcement of Foreign Judgments (Amendment) Bill Public Consultation Comments” and send them by 24 May 2019 via post or email to:
 
 <p class="address-centered">
-<b>Ministry of Law<br>
+Ministry of Law<br>
 International Legal Division <br>  
 100 High Street,<br>
 #08-02, The Treasury<br>
 Singapore 179464<br>
 Fax: 6332 8842 <br>
-  Email:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
- </b>
+Email:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
 <p class="right-side-updated">Last updated on 25 Apr 2019 </p>
