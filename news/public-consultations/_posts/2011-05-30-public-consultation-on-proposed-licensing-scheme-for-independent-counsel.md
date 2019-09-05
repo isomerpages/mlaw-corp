@@ -17,21 +17,18 @@ Singapore’s steady growth as a major legal and financial centre has been accom
 {:start="2"}
 2. A greater diversity of legal representation in important commercial and financial disputes, will serve to enhance Singapore’s status as a key business and financial centre. The attached Consultation Paper details for consideration, a proposed new scheme to licence a small number of “Independent Counsel” (holding the equivalent of Senior Counsel in their respective jurisdictions) to supplement our litigation pool. The scheme envisages conferring such Independent Counsel rights of appearance in a Singapore court of law for permitted areas of advocacy (viz. corporate areas) for a limited licence period. Such Independent Counsel will be required to practise independently of law firms and be subject to other requirements to ensure the transfer of skills to young local counsel from the Singapore Bar.
 
-3. It is hoped the proposed scheme will add further depth and breadth to Singapore’s vibrant legal scene and provide a wider choice to clients in the financial and commercial marketplace. The Ministry of Law welcomes comments on the attached Consultation Paper from interested members of the public. All feedback should be submitted in writing via e-mail latest by 31 July 2011 to MLAW_Consultation@mlaw.gov.sg or by mail addressed to:
+3. It is hoped the proposed scheme will add further depth and breadth to Singapore’s vibrant legal scene and provide a wider choice to clients in the financial and commercial marketplace. The Ministry of Law welcomes comments on the attached [Consultation Paper]() from interested members of the public. All feedback should be submitted in writing via e-mail <b><u>latest by 31 July 2011</u></b> to [MLAW_Consultation@mlaw.gov.sg](MLAW_Consultation@mlaw.gov.sg) or by mail addressed to:
 
 <p class="address-centered">
-  Legal Policy Division<br>
-  Ministry of Law<br>
-  100 High Street<br>
-  #08-02, The Treasury<br>
-  Singapore 179434<br>
-  Fax: 6332 8842<br>
-  E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+  The Secretariat<br>
+  Legal Industry Division, Ministry of Law<br>
+  The Treasury, 100 High Street #08-02<br>
+  Singapore 179434
 </p>
 
-<b><u>Attachments</u></b>
+<b>Attachments</b>
 
-* [Annex A to Press Release](/files/linkclick7efa.pdf/)  
+* [Proposed scheme for Independent Counsel Consultation Paper](/files/linkclickaf3a.pdf/)  
 
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
