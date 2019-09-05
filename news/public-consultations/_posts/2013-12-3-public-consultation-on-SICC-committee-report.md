@@ -25,21 +25,18 @@ Proposal to introduce a new Moneylenders Bill 2008
 **Public Consultation**
 
 {:start="5"}
-5. Interested parties are invited to provide their views and feedback on the SICC Committee’s report. The consultation period is from 3 December 2013 to 31 January 2014. The public can view the report on www.mlaw.gov.sg and www.reach.gov.sg. The feedback may be submitted in electronic form or hard copy form to:
+5. Interested parties are invited to provide their views and feedback on the SICC Committee’s report. The consultation period is from 3 December 2013 to 31 January 2014. The public can view the report on [www.mlaw.gov.sg](www.mlaw.gov.sg) and [www.reach.gov.sg](www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
 
 <p class="address-centered">
-The Registry of Moneylenders<br>
-45 Maxwell Road, #06-11<br>
-The URA Centre East Wing, Singapore 069118<br>
-Fax: 6325 1416<br>
-E-mail: <a href="mailto:ipto_romp@ipto.gov.sg">ipto_romp@ipto.gov.sg</a>
+  Ministry of Law<br>
+  Policy Advisory Division<br>
+  100 High Street<br>
+  #08-02, The Treasury<br>
+  Singapore 179434<br>
+  Fax: 63328842<br>
+  Email: < a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-{:start="6"}
-6. The consultation period ends on Friday, 12 September 2008.
+* [Annex A: SICC Committee Report](/files/Annex-A-SICC-Committee-Report.pdf/){:target="_blank"}
 
-<b><u>Attachments</u></b>
-
-* [Consultation paper on Moneylenders Bill 2008](/files/linkclicke2d7.pdf/){:target="_blank"}
-
-<p class="right-side-updated">Last updated on 26 Sep 2013</p>
+<p class="right-side-updated">Last updated on 3 Dec 2013</p>
