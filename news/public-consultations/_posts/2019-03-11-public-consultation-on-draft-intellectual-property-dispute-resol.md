@@ -17,7 +17,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 </ol>
 ---
 
- 1. The Ministry of Law (“**MinLaw**”) is seeking feedback on a draft Intellectual Property (Dispute Resolution) Bill (“**the Bill**”), attached at [Appendix A](/files/Appendix_A-Draft _IPDR_Bill_for_Public_Consultation.pdf/){:target="_blank"} to this public consultation paper.
+ 1. The Ministry of Law (“**MinLaw**”) is seeking feedback on a draft Intellectual Property (Dispute Resolution) Bill (“**the Bill**”), attached at [Appendix A](/files/Appendix_A-Draft_IPDR_Bill_for_Public_Consultation.pdf/){:target="_blank"} to this public consultation paper.
 
  2. The Bill contains amendments to primary legislation to implement reforms to the intellectual property (“**IP**”) dispute resolution system. Two public consultations on the reforms were previously held, and more information can be found in the respective public consultation papers:
 
