@@ -87,7 +87,7 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
 ---
 
 {:start="10"}
- 10. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “Reciprocal Enforcement of Foreign Judgments (Amendment) Bill Public Consultation Comments” and send them by 24 May 2019 via post or email to:
+10. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “Reciprocal Enforcement of Foreign Judgments (Amendment) Bill Public Consultation Comments” and send them by 24 May 2019 via post or email to:
 
 <p class="address-centered">
 Ministry of Law<br>
