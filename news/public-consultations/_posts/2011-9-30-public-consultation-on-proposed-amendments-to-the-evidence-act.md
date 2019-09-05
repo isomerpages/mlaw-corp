@@ -77,4 +77,7 @@ E-mail: <a href="mailto:iMLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.g
 
 [Annex 2: Draft Evidence (Amendment) Bill](/files/linkclick5231.pdf/)
 
+<sup>[1]</sup> The EA defines “computer output evidence” to mean not just computer printouts, but any statement or representation (whether in audio, visual, graphical, multi-media, printed, pictorial, written or any other form) which is produced by a computer or translated from a statement or representation so produced.
+
+
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
