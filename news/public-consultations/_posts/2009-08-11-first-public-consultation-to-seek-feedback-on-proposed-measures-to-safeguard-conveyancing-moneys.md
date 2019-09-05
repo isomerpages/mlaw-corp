@@ -6,10 +6,6 @@ breadcrumb: First public consultation to seek feedback on proposed measures to s
 collection_name: news
 ---
 
-<style>
-.1 li .case li {list-style-type: alpha-lower;}
-</style>
-
 First public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
 ---
 
@@ -43,13 +39,15 @@ First public consultation to seek feedback on proposed measures to safeguard con
 
 8 The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys. The consultation period is from **11 to 26 August 2009**. The feedback may be sent in electronic or hard copy form to:
 
-<p class="address-centered">Legal Policy Division<br>
-Ministry of Law<br>
-100 High Street<br>
-#08-02, The Treasury<br>
-Singapore 179434<br>
-Fax: 6332 8842<br>
-E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+10 test123
+<p class="address-centered">
+  Legal Policy Division<br>
+  Ministry of Law<br>
+  100 High Street<br>
+  #08-02, The Treasury<br>
+  Singapore 179434<br>
+  Fax: 6332 8842<br>
+  E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
 <b><u>Attachments</u></b>
