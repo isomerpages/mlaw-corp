@@ -40,7 +40,8 @@ Public Consultation on the Insolvency Law Review Committee's Report
     #08-02, The Treasury<br>
     Singapore 179434<br>
     Fax: 63328842<br>
-    Email: MLAW_Consultation@mlaw.gov.sg</p>
+    E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
 **Annex A:**    
 [EXECUTIVE SUMMARY](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf) 
