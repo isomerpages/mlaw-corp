@@ -2,7 +2,7 @@
 layout: simple-page
 title: Sample
 permalink: /io/
-breadcrumb: Our
+breadcrumb: IO
 ---
 
-Sample 
+Sample IO
