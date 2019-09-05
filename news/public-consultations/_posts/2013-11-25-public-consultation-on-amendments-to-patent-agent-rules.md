@@ -64,6 +64,6 @@ Fax: 6332 8842<br>
 E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-Annex A: Patents (Patent Agents) (Amendment) Rules 2013
+[Annex A: Patents (Patent Agents) (Amendment) Rules 2013](#)
 
 <p class="right-side-updated">Last updated on 25 Nov 2013<p>
