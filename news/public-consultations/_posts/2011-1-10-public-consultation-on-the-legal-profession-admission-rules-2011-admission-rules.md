@@ -14,27 +14,26 @@ Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Ru
 
 1. The Legal Profession (Amendment) Bill 2011 contains amendments to inter alia, streamline and improve the procedural framework for admission to the Singapore Bar with a view to amalgamating the disparate admission procedures contained both within the Legal Profession Act (LPA) and various rules enacted thereunder, into a single set of rules to make them more user friendly.
 
-2. The Legal Profession (Admission) Rules 2011 (Admission Rules) to be introduced, seek to consolidate the admission criteria and various other requirements formerly found in Part II of the existing LPA, the Legal Profession Rules, the Legal (Oral Examinations) Rules, the Legal Profession (Fees for Ad Hoc Admission) Rules, the Legal Profession (Practice Training Period) Rules and the Legal Profession (Singapore Bar Examinations – Conduct and Discipline) Rules 2010 under a single piece of subsidiary legislation by:
+2. The [Legal Profession (Admission) Rules 2011 (Admission Rules)](/files/linkclick5ae7.pdf/) to be introduced, seek to consolidate the admission criteria and various other requirements formerly found in Part II of the existing LPA, the Legal Profession Rules, the Legal (Oral Examinations) Rules, the Legal Profession (Fees for Ad Hoc Admission) Rules, the Legal Profession (Practice Training Period) Rules and the Legal Profession (Singapore Bar Examinations – Conduct and Discipline) Rules 2010 under a single piece of subsidiary legislation by:
 
-3. Over the years, the moneylending business landscape has changed significantly. Thus, a major review of the Moneylenders Act was carried out to update the laws governing moneylending to ensure that they remain relevant, keeping pace with changes in consumer credit, business financing, the moneylending industry as a whole and the principles underlying the regulation of the financial industry in general.
+<ol style="list-style-type:lower-alpha">
+  <li>Consolidating the existing rules relating to prescribed courses and examinations that a “qualified person” is require to undergo to qualify for admission to the Singapore Bar (Part II);</li>
+  <li>Setting out the powers of the Singapore Institute of Legal Education (inherited from the Board of Legal Education) with regard to the conduct and discipline of its students (Part III);
+</li>
+  <li>Consolidating the existing rules relating to the practice training period (Part IV);</li>
+  <li>Consolidating the existing rules relating to the practice training requirements and responsibilities of Singapore Law Practices and supervising solicitors (Part V);</li>
+  <li>Setting out a revised and streamlined procedure for admission to the Singapore Bar (Part VI); and</li>
+  <li>Consolidating the rules relating to the Singapore Legal Education Institute’s power to revoke certificates, awards and prizes (Part VII).</li>
+</ol>
 
-4. The Ministry of Law and the Registry of Moneylenders have completed this review. A key outcome is the introduction of a Moneylenders Bill 2008 to repeal and replace the current Moneylenders Act.
+3. The Ministry of Law invites members of the public to comment on the draft Admission Rules. All feedback should be submitted in writing via e-mail latest by <b><u>31 January 2011</u><b> to [MLAW_Consultation@mlaw.gov.sg](MLAW_Consultation@mlaw.gov.sg) or by mail addressed to:
 
-5. Interested parties are invited to fax/email their feedback on the Moneylenders Bill 2008 to:
 
 <p class="address-centered">
-The Registry of Moneylenders<br>
-45 Maxwell Road, #06-11<br>
-The URA Centre East Wing, Singapore 069118<br>
-Fax: 6325 1416<br>
-E-mail: <a href="mailto:ipto_romp@ipto.gov.sg">ipto_romp@ipto.gov.sg</a>
+The Secretariat<br>
+Industry Development Division, Ministry of Law<br>
+The Treasury, 100 High Street #08-02<br>
+Singapore 179434<br>
 </p>
-
-{:start="6"}
-6. The consultation period ends on Friday, 12 September 2008.
-
-<b><u>Attachments</u></b>
-
-* [Consultation paper on Moneylenders Bill 2008](/files/linkclicke2d7.pdf/){:target="_blank"}
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
