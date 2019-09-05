@@ -21,7 +21,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 
  2. The Bill contains amendments to primary legislation to implement reforms to the intellectual property (“**IP**”) dispute resolution system. Two public consultations on the reforms were previously held, and more information can be found in the respective public consultation papers:
 
-<ol style = list-style-type:"lower-alpha">
+<ol style="list-style-type:lower-alpha">
   <li>In July 2017, the Intellectual Property Office of Singapore (“IPOS”) held a public consultation on two proposed patent proceedings, third party observations and post-grant re-examination.<sup>[1]</sup></li>
   <li>In October 2018, MinLaw held a public consultation on reforms to enhance access to our courts for IP disputes (<b>“October public consultation paper”</b>).<sup>[2]</sup></li>
 </ol>
@@ -29,7 +29,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 {:start="3"}
  3. In addition to the proposals contained in the public consultations mentioned at para 2 above, the Bill also makes the following amendments:
 
-<ol style = list-style-type:"lower-alpha">
+<ol style="list-style-type:lower-alpha">
   <li>Amendments to clarify the arbitrability of IP disputes in Singapore.</li>
   <li>Other ancillary amendments related to IP dispute resolution.</li>
 </ol>
