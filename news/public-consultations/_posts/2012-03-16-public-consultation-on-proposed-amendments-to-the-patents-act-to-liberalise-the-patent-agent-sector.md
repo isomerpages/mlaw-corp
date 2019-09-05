@@ -52,14 +52,6 @@ Public Consultation on Proposed Amendments to the Patents Act to Liberalise the 
 14. MinLaw invites interested parties to provide their feedback on the proposed draft legislative amendments. The consultation period is from **16 March to 12 April 2012**. The public can view the consultation paper and draft legislative amendments at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
-The Registry of Moneylenders<br>
-45 Maxwell Road, #06-11<br>
-The URA Centre East Wing, Singapore 069118<br>
-Fax: 6325 1416<br>
-E-mail: <a href="mailto:ipto_romp@ipto.gov.sg">ipto_romp@ipto.gov.sg</a>
-</p>
-
-<p class="address-centered">
   Intellectual Property Policy Division<br>
   Ministry of Law<br>
   100 High Street<br>
