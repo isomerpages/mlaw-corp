@@ -54,4 +54,16 @@ ol style:list-style-type:lower-alpha>
 
 10. The feedback may be sent in electronic or hard copy form to:
 
-<p class="centered"><p> 
+<p class="address-centered">
+Intellectual Property Policy Division
+Ministry of Law<br>
+100 High Street<br>
+#08-02, The Treasury<br>
+Singapore 179434<br>
+Fax: 6332 8842<br>
+E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
+
+Annex A: Patents (Patent Agents) (Amendment) Rules 2013
+
+<p class="right-side-updated">Last updated on 25 Nov 2013<p>
