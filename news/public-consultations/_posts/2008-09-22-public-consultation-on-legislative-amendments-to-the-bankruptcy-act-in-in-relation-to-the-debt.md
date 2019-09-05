@@ -12,8 +12,6 @@ Public consultation on legislative amendments to the Bankruptcy Act in in relati
 **Consultation Period:**  
 22 Sep 2008 to 17 Oct 2008
 
-<b>A <u>Background</u></b>
-
 1. MinLaw has proposed the introduction of a Debt Repayment Scheme (DRS), which seeks to assist a debtor, with debts of $100,000, or less to avert bankruptcy. The DRS provides a win-win outcome for both the debtor and his creditors. The debtor will be able to enter into a debt repayment plan with his creditors, avoid bankruptcy, its social stigma, disqualifications and disabilities, and have a fresh start, if he dutifully meets his financial obligations under the DRS. In turn, he will repay as much as possible to his creditors through apportioning his income, the realisation of his relevant assets and making adjustments to his lifestyle where necessary. His creditors will receive no less than what they would expect to receive had the debtor gone into bankruptcy.
 
 2. MinLaw and IPTO conducted a public consultation on the proposed Debt Repayment Scheme (DRS) last year. This was to seek feedback and suggestions on the DRS framework and process.
