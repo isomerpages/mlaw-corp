@@ -12,7 +12,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 **Consultation Period:**  
 11 Mar 2019 to 5 Apr 2019
 
-<ol styl="list-style-type: upper-roman">
+<ol style="list-style-type: upper-roman">
 <li>INTRODUCTION</li>
 </ol>
 ---
