@@ -17,33 +17,43 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 </ol>
 ---
 
-1. The Ministry of Law, together with the Attorney-General's Chambers and the Ministry of Home Affairs, are proposing the introduction of a Criminal Procedure Code Bill ("CPC Bill") to repeal and replace the current CPC. A copy of the draft CPC Bill is attached.
+1. The Ministry of Law (“**MinLaw**”) is seeking feedback on a draft Intellectual Property (Dispute Resolution) Bill (“**the Bill**”), attached at [Appendix A](/files/Appendix_A-Draft _IPDR_Bill_for_Public_Consultation.pdf/){:target="_blank"} to this public consultation paper.
 
-2. The proposed changes cover the following main areas:
+2. The Bill contains amendments to primary legislation to implement reforms to the intellectual property (“**IP**”) dispute resolution system. Two public consultations on the reforms were previously held, and more information can be found in the respective public consultation papers:
 
 <ol style = list-style-type:"lower-alpha">
-  <li>Investigation and pre trial framework;</li>
-  <li>Trial process;</li>
-  <li>Post trial process; and</li>
-  <li>Repeal of provisions on Coroners inquiries.</li>
+  <li>In July 2017, the Intellectual Property Office of Singapore (“IPOS”) held a public consultation on two proposed patent proceedings, third party observations and post-grant re-examination.<sup>[1]</sup></li>
+  <li>In October 2018, MinLaw held a public consultation on reforms to enhance access to our courts for IP disputes (<b>“October public consultation paper”</b>).<sup>[2]</sup></li>
 </ol>
 
 {:start="3"}
-3. The CPC provides the regulatory framework for criminal investigations, trials and appeals, and other ancillary matters. While the current criminal justice system works well, we need to update current practices, but ensure that trial procedures remain easy to understand and navigable. As our society matures, it is also no longer optimal to rely purely on traditional punishments of fines, imprisonments or caning. Other countries have introduced community based sentences with success. We should introduce more graduated punishments for certain offences which will lead to better outcomes for both the individual and the State.
+3. In addition to the proposals contained in the public consultations mentioned at para 2 above, the Bill also makes the following amendments:
 
-4. As a whole, the proposals will modernise our criminal justice framework, ensuring that it remains relevant in our current operating environment.
+<ol style = list-style-type:"lower-alpha">
+  <li>Amendments to clarify the arbitrability of IP disputes in Singapore.</li>
+  <li>Other ancillary amendments related to IP dispute resolution.</li>
+</ol>
 
-5. The Ministry invites interested parties to provide their feedback on the CPC Bill. The consultation period ends on 5 February 2009*. The feedback may be sent in electronic or hard copy form to:
+{:start="4"}
+4. The remainder of this public consultation paper contains explanatory remarks on the draft Bill. Please note that the amendments are not discussed in this paper in the same order in which they appear in the Bill. Rather, the amendments are grouped and discussed thematically.
+
+5. **Please note that the proposed amendments in the Bill are still undergoing the legislative drafting and vetting process, and are thus not finalised and subject to change.**
+
+6. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary. Please title all comments and feedback “IP (Dispute Resolution) Bill Public Consultation Comments” and send them by 5 April 2019 via post or email to:
 
 <p class="address-centered">
-Legal Policy Division<br>
-Ministry of Law<br>
-100 High Street<br>
-#08-02, The Treasury<br>
-Singapore 179434<br>
-Fax: 6332 8842<br>
-E-mail: MLAW_Consultation@mlaw.gov.sg
+  Intellectual Property Policy Division<br>
+  Ministry of Law<br>
+  100 High Street<br>
+  #08-02 The Treasury<br>
+  Singapore 179434<br>
+  Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
+
+<ol styl="list-style-type: upper-roman">
+<li>INTELLECTUAL PROPERTY (DISPUTE RESOLUTION) BILL</li>
+</ol>
+---
 
 <b><u>Attachments</u></b>
 
