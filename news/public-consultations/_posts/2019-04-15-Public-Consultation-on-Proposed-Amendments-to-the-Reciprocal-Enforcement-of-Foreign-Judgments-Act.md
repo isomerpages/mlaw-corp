@@ -18,7 +18,7 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
 </ol>
 ---
 
-1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed Reciprocal Enforcement of Foreign Judgments (Amendment) Bill (the “Bill”), attached at [Appendix A(0.3MB)](/files/news/public-consultations/2019/04/Appendix A Draft REFJA Bill for Public Consultation.pdf) to this public consultation paper.
+1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed Reciprocal Enforcement of Foreign Judgments (Amendment) Bill (the “Bill”), attached at [Appendix A](/files/news/public-consultations/2019/04/Appendix A Draft REFJA Bill for Public Consultation.pdf) to this public consultation paper.
 
  
 
@@ -87,14 +87,17 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
 ---
 
 {:start="10"}
-10. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “Reciprocal Enforcement of Foreign Judgments (Amendment) Bill Public Consultation Comments” and send them by 24 May 2019 via post or email to:
+ 10. Interested persons are invited to provide comments and feedback. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and/or telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “Reciprocal Enforcement of Foreign Judgments (Amendment) Bill Public Consultation Comments” and send them by 24 May 2019 via post or email to:
 
-<p class="address-centered"><strong>Ministry of Law</strong></p>   
-<p class="address-centered"><strong>International Legal Division</strong></p>   
-<p class="address-centered"><strong>100 High Street,</strong></p>
-<p class="address-centered"><strong>#08-02, The Treasury</strong></p>
-<p class="address-centered"><strong>Singapore 179464</strong></p>
-<p class="address-centered"><strong>Fax: 6332 8842</strong></p>
-<p class="address-centered"><strong>Email: MLAW_Consultation@mlaw.gov.sg</strong></p>
+<p class="address-centered">
+<b>Ministry of Law<br>
+International Legal Division <br>  
+100 High Street,<br>
+#08-02, The Treasury<br>
+Singapore 179464<br>
+Fax: 6332 8842 <br>
+  Email:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+ </b>
+</p>
 
 <p class="right-side-updated">Last updated on 25 Apr 2019 </p>
