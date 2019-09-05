@@ -52,7 +52,7 @@ Fax: 6332 8842<br>
 E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-<b><u>***Attachments</u></b>
+<b><u>Attachments</u></b>
 
 * [Annex A to Press Release](/files/linkclick7efa.pdf/)  
 * [Public Consultation Paper](/files/linkclick6a10.pdf/)  
