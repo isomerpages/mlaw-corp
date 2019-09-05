@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Insolvency Office
+title: Ministry of Law
 permalink: /content/minlaw/en
-breadcrumb: IO
+breadcrumb: Ministry of Law
 ---
 
-####Insolvency Office website has been relocated. Please click [here](https://www.mlaw.gov.sg/content/minlaw/en.html) to access the website. 
+#### Ministry of Law website has been relocated. Please click [here](https://www.mlaw.gov.sg/content/minlaw/en.html) to access the website. 
