@@ -27,9 +27,10 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 {:start="5"}
 5. A summary of the proposed changes is as follows:
 
-<ol style="list-style-type:lower-alpha">
+<ol style="list-style-type:lower-alpha" start="1">
  <li><b>Schemes of arrangement</b>: A new set of provisions will be introduced to specifically support creditor schemes of
   arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:
+ </ol>
   <ol style="list-style-type:lower-roman">
    <li><b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a
     restructuring. The changes include:</li>
