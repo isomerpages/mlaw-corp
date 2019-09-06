@@ -73,8 +73,10 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 
 <sup>[1]</sup> Please note that the numbering and placement of provisions in this consultation draft will be subject to technical changes and re-organisation. The final format and placement of the provisions may therefore differ in the final Bills. The final Bills will also contain other amendments that are not the subject of this public consultation.
 
-
 [Annex A: Constitution of the Republic of Singapore (Amendment) Bill 2014](/files/140407_SICC_Annex_A.PDF/){:target="_blank"}
 [Annex B: Supreme Court of Judicature (Amendment) Bill 2014](/files/140407_SICC_Annex_B.PDF/){:target="_blank"}
 [Annex C: Evidence (Amendment) Bill 2014](/files/140407_SICC_Annex_C.PDF/){:target="_blank"}
 [Annex D: Legal Profession (Amendment) Bill 2014](/files/140407_SICC_Annex_D.PDF/){:target="_blank"}
+
+<p class="right-side-updated">Last updated on 14 Apr 2014
+</p>
