@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms
+title: Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms
 permalink: /news/public-consultations/public-consultation-IP-dispute-resolution-reforms/
 breadcrumb: Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms
 collection_name: news
