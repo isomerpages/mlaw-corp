@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public Consultation on the Report of the Singapore International Commercial Court Committee
+title: Public Consultation on the Report of the Singapore International Commercial Court Committee
 permalink: /news/public-consultations/public-consultation-on-SICC-committee-report/
 breadcrumb: Public Consultation on the Report of the Singapore International Commercial Court Committee
 collection_name: news
