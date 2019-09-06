@@ -1,4 +1,3 @@
-
 ---
 layout: simple-page
 title: Registry of Pawnbrokers
