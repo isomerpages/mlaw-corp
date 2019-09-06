@@ -6,38 +6,79 @@ breadcrumb: Second public consultation to seek feedback on proposed measures to 
 collection_name: news
 ---
 
-Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
+Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
 ---
 
 **Consultation Period:**  
-25 Aug 2008 to 19 Sep 2008
+18 Jan 2010 to 12 Feb 2010
 
-1. The current minimum age of contractual capacity is tied to the age of majority, which is 21 years in Singapore. Over the years, the Pro-Enterprise Panel has received feedback that the legal barriers preventing young people from starting and conducting a business should be removed. The Government agrees that the current laws place unnecessary restriction on young people wishing to undertake business, and should be revised as part of the broader efforts to support an entrepreneurial society.
+1. A home is often a person’s most substantial asset. The money intended for its purchase or arising from its sale should be properly protected. While amendments had been made to conveyancing rules over the years, the series of tighter measures was not sufficient to prevent lawyers, such as David Rasif and Zulkifli Bin Amin, from absconding with clients’ monies in recent years.
 
-2. After a careful study, the Ministry of Finance ("MOF") has proposed de-linking the age of majority from the age of contractual capacity and to reduce the age of contractual capacity from 21 years to 18 years.
+2. The Ministry of Law intends to bring in new measures to further protect conveyancing monies. As such changes will have extensive impact on the community, the views of the public and the profession are important. 
 
-3. To give effect to this proposal, MOF and the Ministry of Law ("MinLaw") have completed drafting the amendments to the Civil Law Act as well as the consequential amendments to a number of other affected Acts that would be needed.
+3. In August 2009, the Ministry of Law sought feedback on the proposed measures to safeguard conveyancing moneys (First Public Consultation). Arising from the feedback received during the First Public Consultation and dialogue sessions with industry, the Ministry has modified these measures and now seeks a new round of feedback on the revised measures and supporting legislation that would be introduced.
 
-4. MOF and MinLaw invite interested parties to provide their feedback on this proposal and the amendments contained in the draft Civil Law (Amendment) Bill ("Bill").
+**Revised proposed measures**
 
-5. 5. The consultation period ends on <b><u>Friday, 19 September 2008</u><b>. You may send your feedback in electronic or hard copy form to:
+{:start="4"}
+4. The key features of the new measures are:
 
-<p class="address-centered">
-Legal Policy Division<br>
-Ministry of Law<br>
-100 High Street<br>
-#08-02, The Treasury<br>
-Singapore 179434<br>
-Fax: 6332 8842<br>
-E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
-</p>
+<ol style="list-style-type: lower-roman">
+  <li>Lawyers (or other persons) will no longer be allowed to receive and hold conveyancing moneys in their normal client accounts as they do today. Breach of this new prohibition will be a criminal offence.</li>
+  <li>Lawyers will only be allowed to receive and hold conveyancing moneys in a new type of account, called a Conveyancing Account,with an Approved Bank or through an escrow agreement between buyers’ and sellers’ lawyers for the transaction.</li>
+  <li>There will be strict controls governing withdrawal of moneys from Conveyancing Accounts. Approved Banks will require signatures from both parties’ (generally, buyers’ and sellers’) lawyers before they allow money to be paid out from the Conveyancing Accounts.</li>
+  <li>Under the new arrangements, clients who wish to place conveyancing moneys with their lawyer will make the cheque/cashier’s order in this format: ***“<Name of Law Firm> – Conveyancing”***.</li>
+  <li> For moneys traditionally held by a lawyer on behalf of both parties, such as the option deposit, an alternative would be for clients to place these with the Singapore Academy of Law.</li>
+</ol>
+
+{start="5"}
+5. The key distinctions between the service provided by Approved Banks and SAL are:
+
+<ol style="list-style-type: lower-roman">
+  <li>For now, SAL will only hold option deposits that are traditionally stakeheld by a seller’s lawyer on behalf of the buyers and sellers. SAL will release these moneys only when the prescribed pay-out form is signed by both buyers’ and sellers’ lawyers.</li>
+  <li>Approved Banks are banks with which conveyancing law firms can open conveyancing accounts. Unlike SAL, all forms of conveyancing moneys can be kept in these accounts, but they can still only be withdrawn if the law firm uses a prescribed pay-out form that is duly countersigned by lawyers representing the other party in the conveyancing transaction.</li>
+</ol>
 
 {:start="6"}
-6. MOF and MinLaw reserve the right to make public all or parts of any written submission unless confidentiality is specifically requested for the whole or any part of the submission.
+
+6. Buyers retain the choice of paying the balance of the purchase price, whether to IRAS or to the seller, directly, by preparing the necessary cashier’s orders and/or cheques themselves. Where the services of a lawyer are preferred, however, the use of the Conveyancing Account arrangement in Approved Banks will enhance the security of the conveyancing moneys.
+
+7. The details of the proposed measures can be found in the Second Public Consultation Paper.
+
+8. The proposed measures to safeguard moneys in conveyancing transactions will be supported by a legislative framework, which includes:
+
+
+<ol style="list-style-type: lower-roman">
+  <li>the Conveyancing (Miscellaneous Amendments) Bill;</li>
+  <li>a new set of Conveyancing and Law of Property (Conveyancing) Rules 2010 (CLPR); and</li>
+  <li>amendments to the Singapore Academy of Law (Stakeholding) Rules.</li>
+</ol>
+
+Some consequential changes will also need to be made to the Legal Profession (Solicitors’ Accounts) Rules (SAR) to provide for Conveyancing Accounts. This issue is currently being considered by the Law Society.
+
+**Feedback Sought**
+
+9. The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys as explained in the Second Public Consultation Paper as well as the legislative framework as provided in the draft legislation.
+
+10. The consultation period is from 18 January to 12 February 2010. The public can view the Second Public Consultation Paper and draft legislation at [www.minlaw.gov.sg](www.minlaw.gov.sg) and at [REACH](https://www.reach.gov.sg/){:target="_blank"}.  The feedback may be sent in electronic or hard copy form to:
+
+<p class="address-centered">
+  Legal Policy Division<br>
+  Ministry of Law<br>
+  100 High Street<br>
+  #08-02, The Treasury<br>
+  Singapore 179434<br>
+  Fax: 6332 8842<br>
+  E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
 <b><u>Attachments</u></b>
 
-* [Consultation paper](/files/linkclick6c0c.pdf/){:target="_blank"}
-* [Draft Civil Law (Amendment) Bill 2008](/files/linkclick4c83.pdf/)
+A: [Press release](/files/linkclickbadf.pdf/)
+B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)
+C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)
+D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)
+
+***Note**: Please follow this link for the  [response to feedback from second public consultation](/files/linkclickde7f.pdf/)*
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
