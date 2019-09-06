@@ -27,11 +27,9 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 5. A summary of the proposed changes is as follows:
 
-<ol>
 <ol style="list-style-type:"lower-alpha">
  <li>Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of
- arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:
- </ol>
+ arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:</li>
   <ol style="list-style-type:"lower-roman">Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:
  
   <ul>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors
@@ -50,6 +48,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
  </li>
  </ol>
  </ol>
+ 
 
   * **Rescue finance provisions**, to enable the Court to grant new financing, which is provided to assist the restructuring, priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii) secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured creditors are not unfairly prejudiced. (see **Clause 2,  Section 211E**) 
   
