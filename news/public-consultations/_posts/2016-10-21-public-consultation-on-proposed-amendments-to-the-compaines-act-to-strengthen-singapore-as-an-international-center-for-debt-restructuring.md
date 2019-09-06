@@ -30,10 +30,9 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 <ol style="list-style-type:lower-alpha">
  <li>Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of
  arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:</li>
- 
   <ol style="list-style-type:lower-roman">
-   <ol>Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a
-    restructuring. The changes include:
+   <b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a
+   restructuring. The changes include:
     <li>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its 
      creditors or intends to make such an application (see Clause 2, Section 211B(1)).</li>
     <li>an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see
@@ -44,9 +43,9 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
      is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).</li>
     <li>allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).</li>
    </ol>
-  </ol>
- <li>Judicial management: Amendments will be made to:</li>
+   <li>Judicial management: Amendments will be made to:</li>
  <li>Cross-border insolvency: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:</li>
+ </ol>
 </ol>
 
  
