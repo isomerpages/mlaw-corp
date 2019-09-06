@@ -27,27 +27,28 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 5. A summary of the proposed changes is as follows:
 
-<ol style="list-style-type:"lower-alpha">
+<ol style="list-style-type:lower-alpha">
  <li>Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of
  arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:</li>
-  <ol style="list-style-type:"lower-roman">Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:
  
-  <ul>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its creditors
- or intends to make such an application (see Clause 2, Section 211B(1)).</ul>
- 
-  <ul>an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see Clause 2, Section 211B(4)).</ul>
-   
-  <ul>allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, Section
- 211B(2), (3) and (8)).</ul>
- 
-   <ul>moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).</ul>
-   
-   <ul>allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).</ul>
-   
- </li>
- </li>
- </ol>
- </ol>
+  <ol style="list-style-type:lower-roman">
+   <ol>Enhanced moratoriums against creditor action, aimed at conferring a greater protection to a debtor during a
+    restructuring. The changes include:
+    <li>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its 
+     creditors or intends to make such an application (see Clause 2, Section 211B(1)).</li>
+    <li>an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see
+     Clause 2, Section 211B(4)).</li>
+    <li>allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, Section
+     211B(2), (3) and (8)).</li>
+    <li>moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor
+     is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).</li>
+    <li>allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).</li>
+   </ol>
+  </ol>
+ <li>Judicial management: Amendments will be made to:</li>
+ <li>Cross-border insolvency: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:</li>
+</ol>
+
  
 
   * **Rescue finance provisions**, to enable the Court to grant new financing, which is provided to assist the restructuring, priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii) secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured creditors are not unfairly prejudiced. (see **Clause 2,  Section 211E**) 
