@@ -84,7 +84,6 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
  <li><u>The minimum number of judges that may hear an appeal in civil and ancillary matters.</u> This will also allow
   flexibility to balance judicial resources against the volume of appeals.</li>
 </ol>
-</ol>
 
 {:start="12"}
 12. <u>Allow appeals in civil matters from the State Courts to be brought directly to the Court of Appeal in situations where a ruling by the Court of Appeal is required urgently</u>. Leave of the Court of Appeal will be required and the appeal must involve points of law of general public importance.
