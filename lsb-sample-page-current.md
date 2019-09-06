@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Land Surveyors Board Singapore
+title: Land Surveyors Board 
 permalink: /content/lsb/en/
 breadcrumb: LSB
 ---
