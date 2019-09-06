@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public Consultation on Draft Intellectual Property Dispute Resolution Bill
+title: Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 permalink: /news/public-consultations/public-consultation-on-draft-intellectual-property-dispute-resol/
 breadcrumb: Public Consultation on Draft Intellectual Property Dispute Resolution Bill
 collection_name: news
