@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public consultation on the Amendments to the Patents (Patent Agents) Rules
+title: Public consultation on the Amendments to the Patents (Patent Agents) Rules
 permalink: /news/public-consultations/public-consultation-on-amendments-to-patent-agent-rules/
 breadcrumb: Public consultation on the Amendments to the Patents (Patent Agents) Rules 
 collection_name: news
