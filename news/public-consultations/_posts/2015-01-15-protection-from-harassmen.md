@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
-permalink: /news/public-consultations/proposal-to-lower-the-age-of-contractual-capacity-from-21-years-to-18-years-and-the-civil-law/
-breadcrumb: Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
+title: Protection from Harassment 
+permalink: /news/public-consultations/protection-from-harassment/
+breadcrumb: Protection from Harassment 
 collection_name: news
 ---
 
@@ -25,12 +25,26 @@ Videos on Protection from Harassment
 
 **Workplace Harassment**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyaD3kho4uE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Stalking**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfmmKSTV_vg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Bullying in Schools**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRXTsgVzzNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Voices against harassment (Chinese Subtitles)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2AHaUjsHVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Voices against harassment (Malay Subtitles)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAMPaBjYWgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Voices against harassment (Tamil Subtitles)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsOeE_0xMHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="right-side-updated">Last updated on 27 Dec 2017</p>
