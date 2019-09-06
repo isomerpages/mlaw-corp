@@ -48,7 +48,6 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
   from being circumvented.
  </li>
 </ol>
-</ol>
 
 {:start="8"}
 8. Clause 3 of the Bill amends section 3 to facilitate the reciprocal enforcement of a wide range of foreign judgments, including: non-money judgments, interlocutory judgments, and judgments from foreign “inferior” courts. The exact class of judgments from a foreign country entitled to enforcement in the Singapore courts will be specified by Ministerial order. In the case of non-money foreign judgments, clause 4 creates a new section 4A providing that the High Court may only enforce a registered non-money judgment if it is satisfied that such enforcement would be just and convenient. If the High Court is of the opinion that the enforcement of a registered non-money judgment would not be just and convenient, it may grant the plaintiff a monetary equivalent of the relief sought.
@@ -69,7 +68,6 @@ Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Fore
  <li>section 2(a)(i), which sets out the situations when a defendant is deemed to have voluntarily submitted to the
  jurisdiction of a foreign court, is amended to exclude cases where a defendant had entered an appearance for the sole
  purpose of inviting the court in its discretion not to exercise its jurisdiction in the proceedings. </li>
-</ol>
 </ol>
 
 <ol style="list-style-type: upper-roman" start="3">
