@@ -54,6 +54,7 @@ Public Consultation on Proposed Amendments to the Trustees Act
  
  {:start="5"}
  5. The Ministry of Law invites interested parties to:
+ 
  <ol style="list-style-type:lower-alpha">
   <li><provide their views and feedback on the Trustees (Amendment) Bill (see Annex A); and</li>
    
