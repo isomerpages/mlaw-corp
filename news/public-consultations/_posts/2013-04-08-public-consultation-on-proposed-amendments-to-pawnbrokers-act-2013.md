@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public Consultation on the Proposed Amendments to the Pawnbrokers Act
+title: Public Consultation on the Proposed Amendments to the Pawnbrokers Act
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-pawnbrokers-act-2013/
 breadcrumb: Public Consultation on the Proposed Amendments to the Pawnbrokers Act
 collection_name: news
