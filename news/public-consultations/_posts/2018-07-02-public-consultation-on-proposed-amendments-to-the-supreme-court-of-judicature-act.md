@@ -31,8 +31,6 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
 
 5. <u>Allow the Rules Committee constituted under section 80 of the SCJA to make rules relating to how factual or expert evidence is to be adduced.</u> Admission of evidence can be time-consuming. Empowering the Rules Committee allows it to take into account the trends seen in specific cases and develop rules to optimise the use of court time.
 
-<ol>
- {:start="6"}
 6. <u>Grant the courts greater powers to control vexatious proceedings.</u> Today, the High Court is only able to ban all further legal proceedings brought by a vexatious litigant. This is an extreme remedy and may not always be appropriate. A more nuanced approach is proposed to allow the High Court or Court of Appeal to act on its own motion to restrain a vexatious litigant to varying degrees, taking into account the facts of the case. These amendments draw from the UK and Canada. It is proposed that the High Court or Court of Appeal be empowered to impose the following orders on its own motion, on an application by a party or on the application of the Attorney-General:
  
  <ol style="list-style-type: lower-alpha">
@@ -60,7 +58,6 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
    <li>An order that no further documents be filed by a party to proceedings if the court is satisfied that the filing of
     further documents by that party would be vexatious or for an improper purpose.</li>
 </ol>
-</ol>
 
 {:start="7"}
 7. <u>Allow the courts to impose late filing fees for non-compliance with the Rules of Court, court orders, and practice directions.</u> The aim of this is to encourage parties and their lawyers to comply with the Rules of Court, court orders and practice directions.
@@ -75,8 +72,6 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
 
 10. <u>Allow the Court of Appeal to determine a broader range of matters based on written submissions.</u> At present, only applications for leave to appeal may be determined without oral arguments. Broadening the scope of applications which may be determined in this manner will allow appropriate cases to be dealt with in an expedited manner.
 
-<ol>
-{:start="11"}
 11. <u>Allow the Minister to specify in a Schedule to the SCJA</u> -
 <ol style="list-style-type:lower-alpha">
  <li><u>Which civil matters may or may not be appealed with leave to the Court of Appeal.</u> Presently, the list of matters
@@ -85,6 +80,7 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
   s34(2)(a), which provides the monetary threshold for cases appealable to the Court of Appeal with leave, will remain in
   the primary Act and will not be shifted to the Schedule. The power to vary this monetary threshold remains with the
   President after consultation with CJ; and</li>
+ 
  <li><u>The minimum number of judges that may hear an appeal in civil and ancillary matters.</u> This will also allow
   flexibility to balance judicial resources against the volume of appeals.</li>
 </ol>
@@ -104,12 +100,16 @@ Public Consultation on Proposed Amendments to the Supreme Court of Judicature Ac
 
 16. Respondents are requested to observe these guidelines:
 
-* Indicate your name and the organization you represent (if applicable) as well as contact details (email address and/or telephone number) to enable us to follow up on your feedback and seek clarification, if necessary;
-
-* State clearly which specific proposals you are giving feedback on by referring to the relevant paragraph in this public consultation paper;
-
-* Focus your comments on how the policy changes can be improved or whether the changes are necessary and if not, why.
+<ol style="list-style-type:lower-alpha">
+  <li>Indicate your name and the organization you represent (if applicable) as well as contact details (email address and/or
+   telephone number) to enable us to follow up on your feedback and seek clarification, if necessary;</li>
  
+  <li>State clearly which specific proposals you are giving feedback on by referring to the relevant paragraph in this
+   public consultation paper;</li>
+   
+  <li>Focus your comments on how the policy changes can be improved or whether the changes are necessary and if not, why
+  </li>
+</ol>
 {:start="17"}
 17. Comments and feedback can be submitted via post or email as follows:
 
