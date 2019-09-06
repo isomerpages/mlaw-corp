@@ -95,4 +95,5 @@ Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and
 <sup>[5]</sup> The most recent version of the Guidelines were adopted by resolution of the IBA Council on 23 October 2014. For ease of reference, the Guidelines can be accessed at [ibanet.org](https://www.ibanet.org/Publications/publications_IBA_guides_and_free_materials.aspx#collapseOne.).
 
 <sup>[6]</sup> In Australia, the focus has been on avoiding conflicts of interest. In England, funders are regulated by the Financial Conduct Authority in connection with their asset management activities. Beyond that, there is no formal regulation, but funders who are members of the Association of Litigation Funders in England and Wales self-regulate by agreeing to abide by a voluntary code.  
+
 <p class="right-side-updated">Last updated on 30 Jun 2016</p>
