@@ -162,5 +162,33 @@ When performing CDD, PSMDs are required to perform enhanced due diligence (EDD) 
 
 24. Comments and feedback can be submitted via post or email to:
 
+<p class="address-centered">
+  Anti-Money Laundering and Countering the Financing of Terrorism Division<br>
+  Ministry of Law<br>
+  45 Maxwell Road<br>
+  URA East Wing, #07-11<br>
+  Singapore 069118<br>
+  E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
+25. The Ministry of Law can only consider comments and feedback that are received <u>no later than 12 October 2018.</u> We seek your kind understanding on this.
 
+<sup>[1]</sup> The legal requirements were enacted under Part VIB of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act and the Corruption, Drug Trafficking and Other Serious Crimes (Cash Transaction Reports) Regulations 2014.
+
+<sup>[2]</sup> “Person” includes both individual persons and entities.
+
+<sup>[3]</sup> Examples include business particulars (registered name, UEN, registered address), directors, substantial shareholders, and beneficial owners (if different from shareholders).
+
+<sup>[4]</sup> This refers to any cash transaction with a value, or any 2 or more related cash transactions in a single day with a total value, which exceeds S$20,000 (or its equivalent in foreign currency). This applies for all other requirements applicable to cash transactions above S$20,000.
+
+<sup>[5]</sup> We will take reference from international standards established by FATF to determine how the AML/CFT requirements should be performed. Details on these standards can be found at: [http://www.fatf-gafi.org/media/fatf/documents/recommendations/pdfs/FATF%20Recommendations](#)
+
+<sup>[6]</sup> This refers to transactions for which payment is partly or wholly made in Singapore.
+
+<sup>[7]</sup> Part 5 of the Pawnbrokers Act.
+
+<sup>[8]</sup> This refers to transactions for which payment is partly or wholly made in Singapore.
+
+<p class="right-side-updated">
+ Last Updated on 13 sep 20118
+</p>
