@@ -18,8 +18,9 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
  1. The Ministry of Law is proposing amendments to the Criminal Procedure Code (“CPC”) and Evidence Act. The public is invited to provide feedback on the proposed amendments. This public consultation will run from 24 July 2017 to 24 August 2017.
 
 **Background**
+
 {:start="2"}
- 2. The CPC provides the framework for criminal investigations and the procedure for criminal hearings, including trials and appeals. The Evidence Act provides the framework for all matters concerning evidence in court, including in criminal cases.
+2. The CPC provides the framework for criminal investigations and the procedure for criminal hearings, including trials and appeals. The Evidence Act provides the framework for all matters concerning evidence in court, including in criminal cases.
 
  3. The CPC was repealed and replaced in 2010, significantly modernising the criminal justice framework. Since then, the Government has been monitoring and reviewing the efficacy and effectiveness of the procedures in the CPC to ensure that the administration of criminal justice continues to meet the needs of law enforcement and to serve the public well. Feedback and suggestions from all those involved in the criminal justice system, including the judiciary, the Criminal Bar, the Attorney-General’s Chambers and victim support groups, was also obtained through regular dialogues. These have shaped our thinking and deliberations.
 
