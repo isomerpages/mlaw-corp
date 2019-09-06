@@ -118,10 +118,139 @@ The Penal Code Review Committee (PCRC) has completed its review of the Penal Cod
 {:start="20"}
 20. We welcome your views on the above proposals, as well as any other suggestions you may have on the Penal Code. The full report can be found on MHA, Mlaw and REACH’s website. Please submit your feedback to us by 30 September 2018 via email at <PCR_Feedback@mha.gov.sg>, or via hard copy to the below address:
 
-Ministry of Home Affairs
-New Phoenix Park 
-28 Irrawaddy Road 
-Singapore 329560 
+<p class="address-centered">
+<b>Ministry of Home Affairs<b><br>
+New Phoenix Park<br>
+28 Irrawaddy Road<br>
+Singapore 329560<br>
 (Re: PC Consultation)
+</p>
+ 
+{:start="21"}
+21. Your feedback is important to us. All views and comments received will be considered. However, we will not be able to individually acknowledge or address every comment. We will consolidate and provide a summary of the key comments received at the close of the consultation exercise. This is to maintain confidentiality of feedback contributors.
+
+**Timeline**
+
+{:start="22"}
+22. The Penal Code Amendment Bill is targeted to be tabled in Parliament in November this year.
+
+The Penal Code Review Committee Report is available here:<br>
+[Penal Code Review Committee Report](/files/PCRC_Report_Public_Consult_9_Sept.pdf/){:target="_blank"}
+
+<b>Ministry of Home Affairs & Ministry of Law<br>
+9 September 2018</b>
+
+<i><sup>[1]</sup> A “vulnerable person” is any person who by reason of mental or physical infirmity, disability or incapacity is substantially unable to protect himself or herself from abuse, neglect or self-neglect.</i>
+
+**Annex**
+
+<u>Factsheet on the Penal Code Review Committee</u>
+
+{:start="1"}
+1. The Penal Code Review Committee (PCRC) was convened by the Ministry of Home Affairs and Ministry of Law in July 2016, to undertake a review of the Penal Code, and make recommendations on reforming it.
+
+**Composition**
+
+{:start="2"}
+2. The PCRC is co-chaired by Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance & Second Minister for Education, and Mr Amrin Amin, Senior Parliamentary Secretary, Ministry of Home Affairs & Ministry of Health. <sup>[2]</sup> It comprises leading practitioners and thought leaders from the private sector, academia and the public sector, including the Attorney-General’s Chambers and the judiciary.
+
+**Objectives of the PCRC**
+
+{:start="3"}
+3. The objectives of the Committee are:
+
+<ol style="list-style-type: lower-alpha">
+ <li>To conduct a thorough and comprehensive review of the Penal Code, and make recommendations on reforming the Penal Code; and</li>
+ <li>To study and make recommendations on any other specific reform areas or proposals referred to it by the Minister for Home Affairs and the Minister for Law.</li>
+</ol>
+
+**Terms of Reference of the PCRC**
+4. The Committee shall consider the following key areas of reform in relation to the Penal Code:
+
+<ol style="list-style-type: lower-alpha">
+ <li>Rationalising, recalibrating and modernising General Principles, Exceptions and Explanations in the Penal Code. This will include a review of the defences at law so that they properly reflect the level of moral culpability that gives rise to criminal liability; and</li>
+ <li>Rationalising, recalibrating and modernising the substantive offences in the Penal Code, including proposals with respect to:
+  <ol style="list-style-type: lower-roman">
+   <li>Updating or removing outmoded offences; </li>
+   <li>Responding to a changing crime environment (e.g. new and more sophisticated forms of offences);</li>
+   <li>Removing offences already or better dealt with under other legislations; </li>
+   <li>Simplifying minute and overly-granular distinctions between offences; and </li>
+   <li>Reviewing punishment provisions to ensure proportionality to seriousness of the offence, and bail and arrest powers.</li>
+  </ol>
+ </li>
+</ol>
+
+<b><u>Members of the Penal Code Review Committee</u></b>
+
+<table>
+ <tr>
+  <td colspan="2"><b>Current members</b></td>
+ </tr>
+ <tr>
+  <td>Indranee Rajah, S.C. (Co-chairperson)</td>
+  <td>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for Education</td>
+ </tr>
+ <tr>
+  <td>Amrin Amin (Co-chairperson)</td>
+  <td>Senior Parliamentary Secretary, Ministry of Home Affairs & Ministry of Health</td>
+ </tr>
+ <tr>
+  <td>Justice See Kee Oon</td>
+  <td>Judge, Supreme Court of Singapore<br>Presiding Judge of the State Courts</td>
+ </tr>
+ <tr>
+  <td>Justice Aedit Abdullah S.C.</td>
+  <td>Judge, Supreme Court of Singapore</td>
+ </tr>
+ <tr>
+  <td>Amarjeet Singh, S.C.</td>
+  <td>Senior Consultant, Withers KhattarWong</td>
+ </tr>
+ <tr>
+  <td>Wendell Wong</td>
+  <td>Director, Drew & Napier</td>
+ </tr>
+ <tr>
+  <td>Stanley Yeo Meng Heong</td>
+  <td>Professorial Fellow, Faculty of Law, National University of Singapore</td>
+ </tr>
+ <tr>
+  <td>Kumaralingam Amirthalingam</td>
+  <td>Professor, Faculty of Law, National University of Singapore</td>
+ </tr>
+ <tr>
+  <td>Chan Wing Cheong</td>
+  <td>Associate Professor, Faculty of Law, National University of Singapore</td>
+ </tr>
+ <tr>
+  <td>Tan Ken Hwee</td>
+  <td>Chief Prosecutor, Financial and Technology Crime Division, Attorney-General’s Chambers</td>
+ </tr>
+ <tr>
+  <td>Francis Ng, S.C.</td>
+  <td>Deputy Chief Prosecutor, Criminal Justice Division, Attorney-General’s Chambers</td>
+ </tr>
+ <tr>
+  <td>Sekher Warrier</td>
+  <td>1 Deputy Director, Criminal Investigation Department, Singapore Police Force</td>
+ </tr>
+ <tr>
+  <td>Lilian Tan</td>
+  <td>Deputy Director, Planning & Organisation, Singapore Police Force</td>
+ </tr>
+ <tr>
+  <td>Leong Kwang Ian</td>
+  <td>	Senior Director, Legal Division, Ministry of Home Affairs</td>
+ </tr>
+ <tr>
+  <td>Lim Zhi Yang</td>
+  <td>Senior Director, Policy Development Division, Ministry of Home Affairs</td>
+ </tr>
+ <tr>
+  <td>Tammy Low</td>
+  <td>Director, Legal Group, Ministry of Law</td>
+ </tr>
+</table>
+
 
 <p class="right-side-updated">Last updated on 12 Sep 2018</p>
