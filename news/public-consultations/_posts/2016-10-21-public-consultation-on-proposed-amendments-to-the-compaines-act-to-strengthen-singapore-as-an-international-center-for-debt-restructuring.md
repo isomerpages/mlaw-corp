@@ -64,13 +64,17 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
  <ul>allowing the company, scheme manager or creditors to apply to the Court (i) to review the company’s or scheme manager’s acts, or (ii) for directions, after the scheme is sanctioned (see <b>Clause 2, Section 211J</b>).</ul>
  
 </li>
+<ol style="list-style-type:lower-alpha" start="2">
 <li><b>Judicial management</b>: Amendments will be made to:
+ </ol>
  <ol style="list-style-type:lower-roman">
   <li>enable companies to apply for a judicial management order more easily (see <b>Clause 4(a) and (c)</b>).</li>
   <li>introduce provisions for super-priority for rescue financing in judicial management (see <b>Clause 5</b>).</li>
  </ol>
 </li>
+<ol style="list-style-type:lower-alpha" start="3">
 <li><b>Cross-border insolvency</b>: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:
+ </ol>
  <ol style="list-style-type:lower-roman">
   <li>judicial management will be made available to foreign companies (see <b>Clause 3</b>).</li>
   <li>specific criteria will be set out to guide the Court on when it may exercise discretion to take jurisdiction over foreign debtors (<b>See Clause 6</b>).</li>
