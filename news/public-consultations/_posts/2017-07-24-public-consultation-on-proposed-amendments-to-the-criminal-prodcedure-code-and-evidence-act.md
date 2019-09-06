@@ -124,6 +124,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
    <li>State clearly which specific proposals you are giving feedback on by referring to their serial number in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf).</li>
 </ol>
 
+{:start="27"}
 27. Comments and feedback can be submitted via post or email as follows:
 
 <p class="address-centered">
