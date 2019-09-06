@@ -39,7 +39,6 @@ First public consultation to seek feedback on proposed measures to safeguard con
 
 8 The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys. The consultation period is from **11 to 26 August 2009**. The feedback may be sent in electronic or hard copy form to:
 
-10 test123
 <p class="address-centered">
   Legal Policy Division<br>
   Ministry of Law<br>
