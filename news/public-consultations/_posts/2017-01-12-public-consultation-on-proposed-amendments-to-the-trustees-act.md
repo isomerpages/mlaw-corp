@@ -25,31 +25,41 @@ Public Consultation on Proposed Amendments to the Trustees Act
 {:start="4"}
 4. It is proposed that the Trustees Act be amended to empower the Minister for Law to enact such rules as may be necessary or desirable for the purposes of giving effect to the FATF recommendations and GF requirements. Specifically, the objective of the amendments is to enhance the transparency of the ownership and control structures of trusts, and prescribe minimum standards for financial record keeping by trustees. The proposed new provisions to the Trustees Act seek to:
 
-  * empower the Minister to make rules concerning the following:
-
-    * Prescribe duties on trustees, to obtain, hold and keep updated information on the identity of all relevant parties to a trust (namely, the settlor, trustee, protector, beneficiary, or any other persons with power over the disposition of the trust property), and of the agents of and service providers to the trust (see proposed section 84A(2)(a)-(b), read with proposed section 83));
-    
-    * Prescribe duties on trustees to obtain, hold and keep updated accounting records relating to the trust (see proposed section 84A(2)(c), read with proposed section 83));
-    
-    * Prescribe measures which a trustee must take to discharge the duties in (i) and (ii) above (see proposed section 84A(2)(d));
-    
-    * Prescribe duties on trustees to disclose their status to business and service providers when transacting in their capacity as a trustee in any prescribed transaction (see proposed section 84A(2)(e));
-    
-  * empower the Minister to prescribe the specific groups of trusts which are exempted from the proposed amendments;
-   
-  * empower the Minister to designate any breach of such rules as an offence; and
+<ol style="list-style-type:lower-alpha">
+ <li>empower the Minister to make rules concerning the following:</li>
+ <ol style="list-style-type:lower-roman">
+    <li>Prescribe duties on trustees, to obtain, hold and keep updated information on the identity of all relevant parties 
+     to a trust (namely, the settlor, trustee, protector, beneficiary, or any other persons with power over the disposition 
+     of the trust property), and of the agents of and service providers to the trust (see proposed section 84A(2)(a)-(b), 
+     read with proposed section 83));</li>
   
-  * impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.
+   <li>Prescribe duties on trustees to obtain, hold and keep updated accounting records relating to the trust (see proposed
+    section 84A(2)(c), read with proposed section 83));</li>
+    
+  <li>Prescribe measures which a trustee must take to discharge the duties in (i) and (ii) above (see proposed section
+   84A(2)(d));</li>
+   
+  <li>Prescribe duties on trustees to disclose their status to business and service providers when transacting in their
+   capacity as a trustee in any prescribed transaction (see proposed section 84A(2)(e));</li>
+   
+ </ol>
+<ol style="list-style-type:lower-alpha" start="2">
+ <li>empower the Minister to prescribe the specific groups of trusts which are exempted from the proposed amendments;</li>
  
+ <li>empower the Minister to designate any breach of such rules as an offence; and</li>
+ 
+ <li>impose a penalty of a fine not exceeding $1,000 for any breaches of the obligations.</li>
+ </ol>
  **III. <u>PUBLIC CONSULTATION DETAILS</u>** 
  
  {:start="5"}
  5. The Ministry of Law invites interested parties to:
- 
- * provide their views and feedback on the Trustees (Amendment) Bill (see Annex A); and
- 
- * in particular, to provide their views and feedback as to whether any classes of trusts should be exempted from the operation of the proposed amendments.
- 
+ <ol style="list-style-type:lower-alpha">
+  <li><provide their views and feedback on the Trustees (Amendment) Bill (see Annex A); and/li>
+  <li>in particular, to provide their views and feedback as to whether any classes of trusts should be exempted from the
+  operation of the proposed amendments.</li>
+ </ol>
+
 {:start="6"} 
 6. The consultation period is from 12 January 2017 to 31 January 2017. All views and feedback may be sent in electronic form or hard copy form to the address below:
 
