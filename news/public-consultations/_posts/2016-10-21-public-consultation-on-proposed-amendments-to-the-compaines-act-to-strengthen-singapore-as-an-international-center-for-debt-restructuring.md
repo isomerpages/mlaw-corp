@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
-permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-companies-act-
-breadcrumb: Press Releases
+permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-companies-act-/
+breadcrumb: Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
 collection_name: news
 ---
 
@@ -28,63 +28,60 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 5. A summary of the proposed changes is as follows:
 
 <ol style="list-style-type:lower-alpha">
- <li>Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of
- arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:</li>
+ <li><b>Schemes of arrangement</b>: A new set of provisions will be introduced to specifically support creditor schemes of
+  arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:
   <ol style="list-style-type:lower-roman">
-   <b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a
-   restructuring. The changes include:
-    <li>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its 
-     creditors or intends to make such an application (see Clause 2, Section 211B(1)).</li>
-    <li>an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see
-     Clause 2, Section 211B(4)).</li>
-    <li>allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see Clause 2, Section
-     211B(2), (3) and (8)).</li>
-    <li>moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor
-     is within Singapore’s jurisdiction (see Clause 2, Section 211B(5)(b)).</li>
-    <li>allowing extension of moratorium to related entities to the debtor (see Clause 2, Section 211C).</li>
-   </ol>
-   <li>Judicial management: Amendments will be made to:</li>
- <li>Cross-border insolvency: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:</li>
+   <li><b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a
+    restructuring. The changes include:</li>
+    <ul>allowing the Court to grant a moratorium when the company has made the application to call a meeting of its
+     creditors or intends to make such an application (see <b>Clause 2, Section 211B(1)</b>).</ul>
+    <ul>an expansion in the scope of the moratorium available to be similar to what is available in judicial management (see
+     <b>Clause 2, Section 211B(4)</b>).</ul>
+    <ul>allowing for an automatic 30 day moratorium, subject to safeguards for creditor interests (see <b>Clause 2, Section
+     211B(2), (3) and (8)</b>).</ul>
+    <ul>moratoriums with in personam worldwide effect, i.e. the court may restrain creditor action overseas, if the creditor
+     is within Singapore’s jurisdiction (see <b>Clause 2, Section 211B(5)(b)</b>).</ul>
+    <ul>allowing extension of moratorium to related entities to the debtor (see <b>Clause 2, Section 211C</b>).</ul>
+   
+   <li><b>Rescue finance provisions</b>, to enable the Court to grant new financing, which is provided to assist the restructuring,
+    priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the
+    rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii)
+    secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security
+    interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured
+    creditors are not unfairly prejudiced. (see Clause 2,  Section 211E)</li>
+    <li>Cram-down provisions, to allow a scheme to be approved even if a class of creditors oppose the scheme, if such
+ creditors will not be unfairly prejudiced by the scheme (see <b>Clause 2, Section 211H</b>).</li>
+    <li><b>Enhanced creditor protection</b>, by
+    <ul>including debtor disclosure requirements, to allow creditors to make informed decisions in the restructuring (see
+     <b>Clause 2, Section 211B(6)</b>); and</ul>
+ <ul> introducing provisions to safeguard against debtors dissipating assets during a moratorium (see <b>Clause 2, Section
+  211D</b>).</ul>
+</li>
+   <li>Pre-packaged provisions, which will fast-track pre-negotiated schemes of arrangements between debtors and their major creditors (see <b>Clause 2, Section 211I</b>).</li>
+ <li><b>Procedural enhancements</b>, including:
+ <ul>rules relating to the filing, inspection and adjudication of proofs of debt and to allow the appointment of independent assessors, to resolve disputes when proofs of debt are adjudicated (see <b>Clause 2, Section 211F</b>);</ul>
+ <ul>giving the court the express power to order a re-vote (see <b>Clause 2, Section 211G</b>); and</ul>
+ <ul>allowing the company, scheme manager or creditors to apply to the Court (i) to review the company’s or scheme manager’s acts, or (ii) for directions, after the scheme is sanctioned (see <b>Clause 2, Section 211J</b>).</ul>
+ 
+</li>
+<li><b>Judicial management</b>: Amendments will be made to:
+ <ol style="list-style-type:lower-roman">
+  <li>enable companies to apply for a judicial management order more easily (see <b>Clause 4(a) and (c)</b>).</li>
+  <li>introduce provisions for super-priority for rescue financing in judicial management (see <b>Clause 5</b>).</li>
  </ol>
+</li>
+<li><b>Cross-border insolvency</b>: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:
+ <ol style="list-style-type:lower-roman">
+  <li>judicial management will be made available to foreign companies (see <b>Clause 3</b>).</li>
+  <li>specific criteria will be set out to guide the Court on when it may exercise discretion to take jurisdiction over foreign debtors (<b>See Clause 6</b>).</li>
+  <li>the adoption of the UNCITRAL Model Law on Cross-Border Insolvency (see <b>Clauses 7 & 9</b>)</li>
+  <li>the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see <b>Clause 8</b>).</li>
+ </ol>
+ </li>
+  </ol>
+ </li>
 </ol>
 
- 
-
-  * **Rescue finance provisions**, to enable the Court to grant new financing, which is provided to assist the restructuring, priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii) secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured creditors are not unfairly prejudiced. (see **Clause 2,  Section 211E**) 
-  
-  * **Cram-down provisions**, to allow a scheme to be approved even if a class of creditors oppose the scheme, if such creditors will not be unfairly prejudiced by the scheme (see **Clause 2, Section 211H**).
-  
-  * **Enhanced creditor protection**, by
-  
-    * including debtor disclosure requirements, to allow creditors to make informed decisions in the restructuring (see **Clause 2, Section 211B(6)**); and
-    * introducing provisions to safeguard against debtors dissipating assets during a moratorium (see **Clause 2, Section 211D**).
-    
-  * **Pre-packaged provisions**, which will fast-track pre-negotiated schemes of arrangements between debtors and their major creditors (see **Clause 2, Section 211I**).
-  
-  * **Procedural enhancements**, including:
-  
-    * rules relating to the filing, inspection and adjudication of proofs of debt and to allow the appointment of independent assessors, to resolve disputes when proofs of debt are adjudicated (see **Clause 2, Section 211F**);
-    
-    * giving the court the express power to order a re-vote (see **Clause 2, Section 211G**); and
-    
-    * allowing the company, scheme manager or creditors to apply to the Court (i) to review the company’s or scheme manager’s acts, or (ii) for directions, after the scheme is sanctioned (**see Clause 2, Section 211J**).
-    
-**b) Judicual management**: Amendments will be made to:
-
- * enable companies to apply for a judicial management order more easily (see **Clause 4(a) and (c)**).
- 
- * introduce provisions for super-priority for rescue financing in judicial management (see **Clause 5**).
- 
-**c) Cross-border insolvency**: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:
-
- * judicial management will be made available to foreign companies (see **Clause 3**).
- 
- * specific criteria will be set out to guide the Court on when it may exercise discretion to take jurisdiction over foreign debtors (See **Clause 6**).
- 
- * the adoption of the UNCITRAL Model Law on Cross-Border Insolvency (see **Clauses 7 & 9**)
- 
- * the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see **Clause 8**).
- 
 **Public Consultation**
 
 {:start="6"}
