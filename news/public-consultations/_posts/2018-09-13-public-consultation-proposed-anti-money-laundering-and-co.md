@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
-date:   2018-09-13
+title: Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
 permalink: /news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co/
+breadcrumb: Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
+collection_name: news
 ---
 
-##### **Consultation Period:**
+**Consultation Period:**
 
-**13 Sep 2018 to 12 Oct 2018**
+13 Sep 2018 to 12 Oct 2018
 
-### **Introduction**
+
+ **Introduction**
 
 The Ministry of Law announced on 17 July 2018 that it will be introducing a new anti-money laundering and countering the financing of terrorism (AML/CFT) regulatory regime for precious stones and metals dealers (PSMD). See <u>Annex A</u>.
 
