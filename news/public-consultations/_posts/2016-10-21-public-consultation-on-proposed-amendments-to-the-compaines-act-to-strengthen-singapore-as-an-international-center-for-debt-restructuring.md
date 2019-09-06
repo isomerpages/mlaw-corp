@@ -24,9 +24,10 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 **Summary of Bill’s provisions**
 
-<ol>
+
 5. A summary of the proposed changes is as follows:
 
+<ol>
 <ol style="list-style-type:"lower-alpha">
  <li>Schemes of arrangement: A new set of provisions will be introduced to specifically support creditor schemes of
  arrangements that implement debt restructuring proposals (see Clause 2,  Section 211A),:
