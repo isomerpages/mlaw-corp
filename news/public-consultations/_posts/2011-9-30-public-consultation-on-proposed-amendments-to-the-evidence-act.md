@@ -7,7 +7,6 @@ collection_name: news
 ---
 
 Public consultation on Proposed Amendments to the Evidence Act
-
 ---
 
 **Consultation Period:**  
