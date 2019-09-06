@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
+title: Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
 permalink: /news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds/
 breadcrumb: Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
 collection_name: news
@@ -16,5 +16,4 @@ Responses to Feedback received from Public Consultation on the Proposed Anti-Mon
 
 2. We would like to thank all respondents for their feedback. The Ministry of Law has carefully considered all the feedback and suggestions received, and will incorporate them in the proposed regime where appropriate. A summary of responses to key feedback is enclosed at  **[Annex A](/files/AMLCFT_PSMD_Public_Consult_Response.pdf/){:target="_blank"}**. 
 
-<p class="right-side-updated">Last updated on 27 Nov 2018
-</p>
+<p class="right-side-updated">Last updated on 27 Nov 2018</p>
