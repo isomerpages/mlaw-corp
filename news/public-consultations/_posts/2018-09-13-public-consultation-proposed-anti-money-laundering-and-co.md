@@ -2,7 +2,7 @@
 layout: post
 title:  Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
 date:   2018-09-13
-permalink: /news/public-consultations/public-consultation-proposed-anti-money-laundering
+permalink: /news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co/
 ---
 
 ##### **Consultation Period:**
