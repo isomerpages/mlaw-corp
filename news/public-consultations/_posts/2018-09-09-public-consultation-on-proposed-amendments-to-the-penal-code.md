@@ -252,5 +252,39 @@ The Penal Code Review Committee Report is available here:<br>
  </tr>
 </table>
 
+<table>
+ <tr>
+  <td colspan="2"><b>Previous members who have since stepped down from the PCRC</b></td>
+ </tr>
+ <tr>
+  <td>Desmond Lee (Co-chairperson)</td>
+  <td>Then-Senior Minister of State, Ministry of Home Affairs and National Development</td>
+ </tr>
+ <tr>
+  <td>Hri Kumar Nair, S.C.</td>
+  <td>Then-Director, Drew & Napier</td>
+ </tr>
+ <tr>
+  <td>Mavis Chionh, S.C.</td>
+  <td>Then-Second Solicitor-General, Attorney-General’s Chambers</td>
+ </tr>
+ <tr>
+  <td>Thian Yee Sze</td>
+  <td>Then-Director-General, Legal Group, Ministry of Law</td>
+ </tr>
+ <tr>
+  <td>Lee Lit Cheng</td>
+  <td>Then-Senior Director, Legal Division, Ministry of Home Affairs</td>
+ </tr>
+ <tr>
+  <td>How Kwang Hwee</td>
+  <td>Then-Senior Director, Policy Development Division, Ministry of Home Affairs</td>
+ </tr>
+ <tr>
+  <td>Loke Wai Yew</td>
+  <td>Then-Deputy Director, Planning & Organisation, Singapore Police Force</td>
+ </tr>
+</table>
+<i><sup>[2]</sup> When the PCRC was formed in July 2016, it was co-chaired by Ms Indranee Rajah S.C., then-Senior Minister of State, Ministry of Law, and Mr Desmond Lee, then-Senior Minister of State, Ministry of Home Affairs. Mr Amrin took over as co-chair of the PCRC from Mr Desmond Lee from 10 September 2017.</i>
 
 <p class="right-side-updated">Last updated on 12 Sep 2018</p>
