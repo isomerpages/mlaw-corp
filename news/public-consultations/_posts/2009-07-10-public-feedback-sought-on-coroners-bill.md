@@ -16,18 +16,18 @@ Public Feedback Sought on Coroners Bill
 
 2. Broadly, the proposed Bill makes three key changes to the current system:
 
-
 <ol style="list-style-type: lower-alpha">
-<li>Lawyers will be prohibited from receiving conveyancing moneys into their regular client account to which they have free access, preventing the potential for criminal breach of trust;</li>
-<li>Breach of this prohibition will subject the lawyer to disciplinary proceedings;</li>
-<li>Conveyancing moneys held by a seller's lawyer in his regular client account (for example, the Option deposit of four or nine per cent of the purchase price which a buyer passes to the seller's lawyer upon exercise of Option) will have to be held by entities approved and appointed by the Minister for Law;</li>
-<li>The Singapore Academy of Law (SAL) will be the main entity appointed to hold such conveyancing moneys. The Ministry of Law is also in ongoing discussion with potential participating banks to explore the provision of a service to hold the Option Deposit, and</li>
-<li>To prevent manipulation of names of payees, the appointed entities will only release the conveyancing moneys that they hold to approved categories of payees, namely sellers, mortgagee banks, buyers, the CPFB, the Housing & Development Board, IRAS and the Management Corporation of the subject property for arrears in management and sinking funds.</li>
+  <li>The Coroners Inquiry will become a fact-finding inquiry. Currently, the Coroners Inquiry is a quasi-criminal one, where the Coroner is required not only to inquire into the facts and circumstances behind a death but to also identify if any person is criminally responsible for the death.</li>
+  <li>It will facilitate more effective investigation into deaths where medical treatment or care is the suspected cause.</li>
+  <li>The draft Bill will define the Coroner's jurisdiction and extend it in certain specific cases.</li>
 </ol>
 
-8 The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys. The consultation period is from **11 to 26 August 2009**. The feedback may be sent in electronic or hard copy form to:
+{:start="3"}
 
-10 test123
+3. The aim of these proposals is to update our coronial system and more clearly define its role so that it can better serve the public interest.
+
+4. The Ministry invites interested parties to provide their feedback on the draft Coroners Bill. The consultation period begins on 10 July 2009 and ends on 7 August 2009. The feedback may be sent in electronic or hard copy form to:
+
 <p class="address-centered">
   Legal Policy Division<br>
   Ministry of Law<br>
@@ -40,8 +40,7 @@ Public Feedback Sought on Coroners Bill
 
 <b><u>Attachments</u></b>
 
-* [Annex A to Press Release](/files/linkclick7efa.pdf/)  
-* [Public Consultation Paper](/files/linkclick6a10.pdf/)  
-* [Response to feedback received for first public consultation](/files/linkclick73ae.pdf/)
+* [Consultation paper on draft Coroners Bill](/files/linkclick03d5.pdf/){:target="_blank"}
+* [Draft Coroners Bill](/files/linkclick8bfd.pdf/){:target="_blank"}
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
