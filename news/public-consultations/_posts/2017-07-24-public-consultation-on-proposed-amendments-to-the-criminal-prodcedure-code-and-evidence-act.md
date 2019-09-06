@@ -14,6 +14,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 [Annex C - Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/public-consultations/2017/07/AnnexC.pdf)
 
 **Introduction**
+
  1. The Ministry of Law is proposing amendments to the Criminal Procedure Code (“CPC”) and Evidence Act. The public is invited to provide feedback on the proposed amendments. This public consultation will run from 24 July 2017 to 24 August 2017.
 
 **Background**
