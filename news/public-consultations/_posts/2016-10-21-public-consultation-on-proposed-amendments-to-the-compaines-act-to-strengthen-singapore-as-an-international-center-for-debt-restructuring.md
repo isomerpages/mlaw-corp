@@ -24,6 +24,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 **Summary of Bill’s provisions**
 
+<ol>
 5. A summary of the proposed changes is as follows:
 
 <ol style="list-style-type:"lower-alpha">
@@ -46,6 +47,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
    
  </li>
  </li>
+ </ol>
  </ol>
 
   * **Rescue finance provisions**, to enable the Court to grant new financing, which is provided to assist the restructuring, priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii) secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured creditors are not unfairly prejudiced. (see **Clause 2,  Section 211E**) 
