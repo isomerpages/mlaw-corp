@@ -23,7 +23,7 @@ Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and
 5. 5. The consultation period ends on <b><u>Friday, 19 September 2008</u><b>. You may send your feedback in electronic or hard copy form to:
 
 <p class="address-centered">
-Legal Policy Division
+Legal Policy Division<br>
 Ministry of Law<br>
 100 High Street<br>
 #08-02, The Treasury<br>
