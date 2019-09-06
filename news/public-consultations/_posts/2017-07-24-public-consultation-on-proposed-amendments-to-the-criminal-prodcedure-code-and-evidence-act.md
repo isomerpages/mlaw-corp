@@ -61,7 +61,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
    <li>Making it a criminal offence to abscond while on bail, leave jurisdiction without permission when one’s travel documents have been impounded by investigators, or to agree to indemnify a surety.</li>
 </ol>
 
-{:start="15"}
+{:start="14"}
 14. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 9.
 
 *Enhancing protection for complainants of sexual and child abuse offences during the court process*
