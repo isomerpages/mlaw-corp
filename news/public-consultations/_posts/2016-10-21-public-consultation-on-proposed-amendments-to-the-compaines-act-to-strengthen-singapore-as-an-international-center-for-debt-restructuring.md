@@ -15,7 +15,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 1. The Ministry of Law and the Ministry of Finance plan to introduce various amendments to the Companies Act in 2017. This public consultation seeks feedback on amendments specifically concerned with reforms to Singapore’s debt restructuring and corporate rescue framework. The Ministry of Finance will be seeking public feedback on other reforms to the Companies Act in due course.
 
 **Background**
-
+{:start="2"}
 2. In 2013, the Insolvency Law Review Committee (“ILRC”) made recommendations to holistically update Singapore’s corporate insolvency and bankruptcy laws. Public consultation was held on the ILRC’s report in Dec 2013, and the Government has welcomed its recommendations.
 
 3. In May 2015, building on the ILRC’s recommendations, the Minister for Law set up the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“Restructuring Committee”) to consider how to enhance Singapore’s effectiveness as a centre for international debt restructuring. After public consultation which lasted from April to May 2016, the Government broadly accepted the Restructuring Committee’s recommendations, which include proposed enhancements to our legal framework for restructuring.
@@ -24,7 +24,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 **Summary of Bill’s provisions**
 
-
+{:start="5"}
 5. A summary of the proposed changes is as follows:
 
 <ol style="list-style-type:lower-alpha">
