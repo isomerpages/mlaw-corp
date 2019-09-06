@@ -165,6 +165,8 @@ The Penal Code Review Committee Report is available here:<br>
 </ol>
 
 **Terms of Reference of the PCRC**
+
+{:start="4"}
 4. The Committee shall consider the following key areas of reform in relation to the Penal Code:
 
 <ol style="list-style-type: lower-alpha">
