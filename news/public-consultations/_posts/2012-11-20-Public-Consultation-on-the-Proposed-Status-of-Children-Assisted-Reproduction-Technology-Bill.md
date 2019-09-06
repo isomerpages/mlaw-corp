@@ -2,7 +2,7 @@
 layout: post
 title: Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill
 permalink: /news/public-consultations/public-consultation-on-the-proposed-SOC-Bill
-breadcrumb: Public Consultations
+breadcrumb: Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill
 collection_name: news
 ---
 
@@ -110,13 +110,14 @@ collection_name: news
 {:start="13"}
 13. MinLaw invites interested parties to provide their feedback on the proposed Bill. The consultation period is from 20 November 2012 to 20 December 2012. The public can view the public consultation paper and draft Bill in the Annexes below and at [www.reach.gov.sg/YourSay/EconsultationPaper.aspx](http://www.reach.gov.sg/YourSay/EconsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
-Legal Policy Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
+<p class="address-centered">
+Legal Policy Division, Ministry of Law<br> 
+100 High Street<br>
+#08-02, The Treasury<br>  
+Singapore 179434<br>
+Fax: 6332 8842<br>
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
-
+</p>
 [Annex A: Public Consultation Paper (0.16MB)](/files/news/public-consultations/2012/11/SOC Consultation.pdf)  
 [Annex B: Draft Bill (0.18MB)](/files/news/public-consultations/2012/11/SOC Draft Bill.pdf)
 
