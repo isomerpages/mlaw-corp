@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Public Consultation on the Bankruptcy (Amendment) Bill
+title: Public Consultation on the Bankruptcy (Amendment) Bill
 permalink: /news/public-consultations/public-consultation-on-bankruptcy-amendment-bill/
 breadcrumb: Public Consultation on the Bankruptcy (Amendment) Bill
 collection_name: news
