@@ -5,8 +5,11 @@ permalink: /news/public-consultations/public-consultation-on-the-legal-professio
 breadcrumb: Public consultation on the Legal Profession (Amendment) Bill 2011
 collection_name: news
 ---
+
 Public consultation on the Legal Profession (Amendment) Bill 2011
 ---
+
+**Introduction**
 
 1. The proposed Legal Profession (Amendment) Bill 2011 will amend the Legal Profession Act (“LPA”) and Singapore Academy of Law Act (“SAL Act”) to introduce changes necessary to:
 
