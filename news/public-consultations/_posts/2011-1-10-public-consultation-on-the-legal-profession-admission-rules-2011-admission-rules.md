@@ -28,7 +28,6 @@ Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Ru
 
 3. The Ministry of Law invites members of the public to comment on the draft Admission Rules. All feedback should be submitted in writing via e-mail latest by <b><u>31 January 2011</u><b> to [MLAW_Consultation@mlaw.gov.sg](MLAW_Consultation@mlaw.gov.sg) or by mail addressed to:
 
-
 <p class="address-centered">
 The Secretariat<br>
 Industry Development Division, Ministry of Law<br>
