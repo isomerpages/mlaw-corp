@@ -39,7 +39,7 @@ permalink: /news/others/statement-on-amos-yee
 10. In November 2015, Yee made offensive remarks against Islam and religions in general on his blog. Yee was issued notices to report to the police to assist with investigations into his remarks. Yee ignored these notices, and instead left Singapore.
 
 {:start="11"}
-11. In April 2016, just before returning to Singapore, Yee published Facebook posts that read: “…<i>the Islamics seem to have lots of sand in their vaginas too … But don’t mind them, they do after all follow a sky wizard and a pedophile prophet. What in the world is a ‘moderate muslim’? A f&#42;&#42;g hypocrite that’s what! … With all due respect, Christians, you can shove that faith up your ass. Faith! Faith! I’d be damned at this retardation of humanity. F**k you, Christian shits</i>.” 
+11. In April 2016, just before returning to Singapore, Yee published Facebook posts that read: “…<i>the Islamics seem to have lots of sand in their vaginas too … But don’t mind them, they do after all follow a sky wizard and a pedophile prophet. What in the world is a ‘moderate muslim’? A f&#42;&#42;&#42;&#42;&#42;&#42;g hypocrite that’s what! … With all due respect, Christians, you can shove that faith up your ass. Faith! Faith! I’d be damned at this retardation of humanity. F**k you, Christian shits</i>.” 
 
 {:start="12"}
 12. For these acts, Yee was charged with failing to obey the police’s notices to him to assist in their investigations (Section 174 of the Penal Code), and for uttering words with deliberate intent to wound religious or racial feelings (Section 298 of the Penal Code). In September 2016, Yee pleaded guilty. He was sentenced to six weeks’ imprisonment and fined $2000.
