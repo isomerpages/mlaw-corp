@@ -51,3 +51,5 @@ Our Management
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
   Ministry of Law<br>
+
+<p class="right-side-updated">Last updated on 20 Jul 2018</p>
