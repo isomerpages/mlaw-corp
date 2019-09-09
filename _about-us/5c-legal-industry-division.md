@@ -22,3 +22,5 @@ MinLaw develops the legal services sector to meet local, regional and internatio
 Besides developing Singapore as a location of choice for international arbitration and other international legal services, MinLaw also formulates policies to ensure quality legal manpower to meet market demands.
 
 **Video: Legal Group and Legal Industry Division**
+
+<p class="right-side-updated">Last updated on 20 Mar 2018</p>
