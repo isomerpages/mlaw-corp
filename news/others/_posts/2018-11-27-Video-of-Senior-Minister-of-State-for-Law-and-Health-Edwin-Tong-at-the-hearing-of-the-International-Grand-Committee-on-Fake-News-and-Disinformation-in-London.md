@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Video on Dispute Resolution in Singapore
+title: Video of Senior Minister of State for Law and Health, Edwin Tong at the hearing of the International Grand Committee on Fake News and Disinformation in London
 permalink: /news/others/video-on-dispute-resolution-in-singapore/
-breadcrumb: Video on Dispute Resolution in Singapore
+breadcrumb: Video of Senior Minister of State for Law and Health, Edwin Tong at the hearing of the International Grand Committee on Fake News and Disinformation in London
 collection_name: news
 ---
 
