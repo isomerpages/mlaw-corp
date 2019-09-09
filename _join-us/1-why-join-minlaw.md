@@ -42,3 +42,5 @@ Competent Professional – “deepening expertise”.  Besides on-the-job traini
 If you are keen to learn beyond your area of expertise, there are also opportunities for you to take on or join cross-functional project teams.  Promising officers may be sponsored to go for ministry-sponsored courses in which lead to formal qualifications.
 
 **Video: MinLaw 50th Anniversary**
+
+<p class="right-side-updated">Last updated on 2 Oct 2018</p>
