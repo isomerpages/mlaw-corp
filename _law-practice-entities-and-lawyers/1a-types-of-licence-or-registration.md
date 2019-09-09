@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Types of Licence or Registration
 permalink: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/
 breadcrumb: Types of Licence or Registration
-collection_name: law-practice-entities-and-lawyer
+collection_name: law-practice-entities-and-lawyers
 second_nav_title: Licensing Or Registration Of Law Practice Entities
 ---
 
