@@ -2,7 +2,7 @@
 layout: post
 title: Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh calls on Law Minister K Shanmugam
 permalink: /news/visits/brunei-attorney-general-yb-datin-paduka-hajah-hayati-bte-poksdsp-haji-salleh-calls-on-law-minister/
-breadcrumb: Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh calls on Law Minister K Shanmugam1
+breadcrumb: Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh calls on Law Minister K Shanmugam
 collection_name: news
 ---
 
