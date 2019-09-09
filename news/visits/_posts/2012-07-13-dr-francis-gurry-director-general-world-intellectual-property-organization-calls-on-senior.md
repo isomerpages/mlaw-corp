@@ -6,14 +6,17 @@ breadcrumb: Dr Francis Gurry, Director-General, World Intellectual Property Orga
 collection_name: news
 ---
 
-Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh calls on Law Minister K Shanmugam
+Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann
 ---
 
-3 Dec 2009 Posted in [Visits](/news/visits/)
+13 Jul 2012 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/brunei-ag-3-12-09.jpg/"></div><br>
-<i>Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh exchanging gifts with Law Minister K Shanmugam</i>
+<div class="image"><img src="/images/Francis_Gurry_Sim_Ann.jpg/"></div><br>
+<i>WIPO Director-General, Dr Francis Gurry (3rd from left), with Ms Sim Ann (4th from left)
+as well as WIPO and Ministry of Law officials</i>
 
-Law Minister K Shanmugam met with Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh on 3 December 2009 at a courtesy call, where they discussed policy making and liberalisation of the legal sector.
+The Director-General of the World Intellectual Property Organization (WIPO), Dr Francis Gurry, called on Senior Parliamentary Secretary for Law, Ms Sim Ann, on 13 July 2012.  Ms Sim and Dr Gurry exchanged views about the recent amendments to IP-related legislation in Singapore and IP-related developments in the Asia-Pacific region, as well as avenues for greater cooperation between WIPO and Singapore.
 
-<p class="right-side-updated">Last updated on 30 jan 2013</p>
+During his visit to Singapore, Dr Gurry was also hosted to lunch by Permanent Secretary (Law), Dr Beh Swan Gin, and attended several IP-related events.
+
+<p class="right-side-updated">Last updated on 04 Feb 2013</p>
