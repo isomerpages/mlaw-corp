@@ -83,3 +83,5 @@ Use this one-stop internet portal which provides information on land matters suc
 </ul>
 
 **Video: Land Policy and Administration**
+
+<p class="right-side-updated">Last updated on 21 Jun 2018</p>
