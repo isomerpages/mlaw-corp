@@ -30,7 +30,6 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 <ol style="list-style-type:lower-alpha" start="1">
  <li><b>Schemes of arrangement</b>: A new set of provisions will be introduced to specifically support creditor schemes of
   arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:
- </ol>
   <ol style="list-style-type:lower-roman">
    <li><b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a
     restructuring. The changes include:</li>
@@ -67,7 +66,6 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 </li>
 <ol style="list-style-type:lower-alpha" start="2">
 <li><b>Judicial management</b>: Amendments will be made to:
- </ol>
  <ol style="list-style-type:lower-roman">
   <li>enable companies to apply for a judicial management order more easily (see <b>Clause 4(a) and (c)</b>).</li>
   <li>introduce provisions for super-priority for rescue financing in judicial management (see <b>Clause 5</b>).</li>
@@ -75,12 +73,11 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 </li>
 <ol style="list-style-type:lower-alpha" start="3">
 <li><b>Cross-border insolvency</b>: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:
- </ol>
  <ol style="list-style-type:lower-roman">
   <li>judicial management will be made available to foreign companies (see <b>Clause 3</b>).</li>
   <li>specific criteria will be set out to guide the Court on when it may exercise discretion to take jurisdiction over foreign debtors (<b>See Clause 6</b>).</li>
   <li>the adoption of the UNCITRAL Model Law on Cross-Border Insolvency (see <b>Clauses 7 & 9</b>)</li>
-  <li>the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see <b>Clause 8</b>).</li>
+  <li>the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see <b>Clause 8</b>).
  </ol>
  </li>
   </ol>
@@ -90,6 +87,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 **Public Consultation**
 
 {:start="6"}
+
 6. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A(PDF, 0.2MB)](/files/news/public-consultations/2016/10/CAB.pdf)). The consultation period is from 21 October 2016 to 2 December 2016. All views and feedback may be sent in electronic form or hard copy form to the address below:
 
 <p class="address-centered">Ministry of Law<br>
