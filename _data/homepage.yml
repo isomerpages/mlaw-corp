@@ -25,17 +25,17 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Who we are
+    description: Stat Boards and Departments
+    url: /about-us/what-we-do/legal-group/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: The Singapore Convention
+    description: A new Un treaty on Mediation 
+    url: https://www.singaporeconvention.org/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Join Us
+    description: One family, diverse opportunities
+    url: /join-us/why-join-minlaw/
 
 resources-title: Resources
 resources-subtitle: Be in the know
