@@ -56,3 +56,5 @@ MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and
     </li>
   </ul>
 </ul>
+
+<p class="right-side-updated">Last updated on 20 Mar 2018</p>
