@@ -27,3 +27,5 @@ To find out more about the licensing or registration of law practice entities, p
 To find out more about the registration of individuals, please click [here](/law-practice-entities-and-lawyers/registration-of-individuals/types-of-certificate-of-registration/){:target="_blank"}.
 
 To go to LSRA e-Services portal, please click [here](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/){:target="_blank"}.
+
+<p class="right-side-updated">Last updated on 15 Mar 2016</p>
