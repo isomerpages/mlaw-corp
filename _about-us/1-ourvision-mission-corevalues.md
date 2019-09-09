@@ -41,4 +41,4 @@ Advancing access to justice, the rule of law, the economy and society through po
 *We work together for the best results, and to bring out the best in one another.*<br>
 *We learn and innovate to do things better.*
 
- 
+<p class="right-side-updated">Last updated on 27 Jul 2017</p> 
