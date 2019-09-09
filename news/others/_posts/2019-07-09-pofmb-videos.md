@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  Protection from Online Falsehoods and Manipulation Act (POFMA) - Compilation of Public Materials
-date:   2019-07-09
-permalink: /news/others/pofmb-videos
+title: Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos
+permalink: /news/others/pofmb-videos/
+breadcrumb: Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos
+collection_name: news
+---
+
+Protection from Online Falsehoods and Manipulation Act (POFMA) - Compilation of Public Materials
 ---
 
 **Information About POFMA**
