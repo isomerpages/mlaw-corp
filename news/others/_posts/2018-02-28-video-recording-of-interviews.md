@@ -6,6 +6,9 @@ breadcrumb: Video Recording of Interviews
 collection_name: news
 ---
 
+Video Recording of Interviews
+---
+
 28 Feb 2018 Posted in [Others](/news/others)
 
 On 28 February 2018, the Ministry of Law will table in Parliament wide-ranging amendments to the Criminal Procedure Code and Evidence Act.
