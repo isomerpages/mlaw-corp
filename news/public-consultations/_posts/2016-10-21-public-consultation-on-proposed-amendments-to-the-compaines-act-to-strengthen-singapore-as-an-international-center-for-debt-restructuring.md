@@ -28,7 +28,16 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 <ol style="list-style-type: lower-alpha">
  <li>
-  <b>Schemes of arrangement:</b> A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:</li>
+  <b>Schemes of arrangement:</b> A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:
+  <ol style="list-style-type: lower-roman">
+   <li><b>Enhanced moratoriums</b> against creditor action, aimed at conferring a greater protection to a debtor during a restructuring. The changes include:</li>
+   <li><b>Rescue finance provisions</b>, to enable the Court to grant new financing, which is provided to assist the restructuring, priority over other creditor claims. The court will be able to grant four levels of priority, specifically for the rescue financing to be (i) treated as an administrative expense, (ii) have super priority over preferential debts, (iii) secured by a security interest that is subordinate to existing security, or (iv) secured by a super priority security interest. The granting of a super priority security interest will be subject to safeguards, to ensure existing secured creditors are not unfairly prejudiced. (see <b>Clause 2,  Section 211E</b>)</li>
+   <li><b>Cram-down provisions</b>, to allow a scheme to be approved even if a class of creditors oppose the scheme, if such creditors will not be unfairly prejudiced by the scheme (see <b>Clause 2, Section 211H</b>).</li>
+   <li><b>Enhanced creditor protection</b>, by</li>
+   <li><b>Pre-packaged provisions</b>, which will fast-track pre-negotiated schemes of arrangements between debtors and their major creditors (see <b>Clause 2, Section 211I</b>).</li>
+   <li><b>Procedural enhancements,</b> including:</li>
+  </ol>
+ </li>
  <li>
   <b>Judicial management:</b>Amendments will be made to: 
   <ol style="list-style-type: lower-roman">
