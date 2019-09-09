@@ -81,3 +81,5 @@ Fax: 6534 5237<br>
 **Operating Hours:**<br>
 9 am to 5.45 pm, Mondays to Fridays<br>
 Closed on Saturdays, Sundays and Public Holidays
+
+<p class="right-side-updated">Last updated on 27 Feb 2017</p>
