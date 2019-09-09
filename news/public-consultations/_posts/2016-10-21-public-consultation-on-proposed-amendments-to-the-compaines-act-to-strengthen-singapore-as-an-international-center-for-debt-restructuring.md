@@ -29,8 +29,21 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 <ol style="list-style-type: lower-alpha">
  <li>
   <b>Schemes of arrangement:</b> A new set of provisions will be introduced to specifically support creditor schemes of arrangements that implement debt restructuring proposals (see <b>Clause 2,  Section 211A</b>),:</li>
- <li><b>Judicial management:</b>Amendments will be made to:</li>
- <li><b>Cross-border insolvency: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:</b></li>
+ <li>
+  <b>Judicial management:</b>Amendments will be made to: 
+  <ol style="list-style-type: lower-roman">
+   <li>enable companies to apply for a judicial management order more easily (see <b>Clause 4(a) and (c)</b>).</li>
+   <li>introduce provisions for super-priority for rescue financing in judicial management (see <b>Clause 5</b>).</li>
+  </ol>
+ </li>
+ <li><b>Cross-border insolvency: Various reforms will also be enacted to facilitate the resolution of cross-border insolvencies:</b>
+  <ol style="list-style-type: lower-roman">
+   <li>judicial management will be made available to foreign companies (see <b>Clause 3</b>).</li>
+   <li>specific criteria will be set out to guide the Court on when it may exercise discretion to take jurisdiction over foreign debtors (See Clause 6).</li>
+   <li>the adoption of the UNCITRAL Model Law on Cross-Border Insolvency (see <b>Clauses 7 & 9</b>)</li>
+   <li>the abolition of the general ring-fencing rule in the winding up of foreign companies. Ring-fencing however will be retained for specific financial institutions, such as banks and insurance companies (see <b>Clause 8</b>).</li>
+  </ol>
+ </li>
 </ol>
 
 **Public Consultation**
