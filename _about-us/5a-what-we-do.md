@@ -29,3 +29,5 @@ The Ministry of Law also comprises these Statutory Boards and Agency:
 * [Singapore Land Authority](https://www1.sla.gov.sg/){:target="_blank"}
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
+
+<p class="right-side-updated">Last updated on 16 Nov 2017</p>
