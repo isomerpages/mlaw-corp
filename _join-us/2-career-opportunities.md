@@ -24,3 +24,4 @@ Interested applicants can apply through [Careers@Gov](http://www.careers.gov.sg/
 
 Only shortlisted candidates will be notified.
 
+<p class="right-side-updated">Last updated on 06 Jun 2017</p>
