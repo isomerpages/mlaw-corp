@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Video on the Administration of Justice Protection Bill
-date:   2019-07-09
-permalink: /news/others/protecting-administration-justice
+title: Protecting Administration Justice
+permalink: /news/others/protecting-administration-justice/
+breadcrumb: Protecting Administration Justice
+collection_name: news
 ---
 
 Video on the Administration of Justice (Protection) Bill
