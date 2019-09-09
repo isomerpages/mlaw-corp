@@ -23,3 +23,5 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 * The **Judiciary** consists of the [Supreme Court](https://www.supremecourt.gov.sg/){:target="_blank"} and the [State Courts](https://www.statecourts.gov.sg/){:target="_blank"} and the head of the Judiciary is the Chief Justice. Judicial power in Singapore is vested in the Supreme Court and in such subordinate courts as may be provided for by any written law for the time being in force.
 
 **Related Links** [Commonly mis-directed queries under other law-related agencies](/about-us/our-legal-system/queries-under-other-law-related-agencies/)
+
+<p class="right-side-updated">Last updated on 21 Jun 2018</p>
