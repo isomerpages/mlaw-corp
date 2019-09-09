@@ -6,11 +6,6 @@ breadcrumb: Organisation Structure
 collection_name: about-us
 ---
 
-<style>
-  .image {width: 600px;}
-  .image a img {max-width: 100%;}
-</style>
-
 Organisation Structure
 ---
 
