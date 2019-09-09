@@ -6,6 +6,9 @@ breadcrumb: Videos on Criminal Justice Reform Bill and The Evidence (Amendment) 
 collection_name: news
 ---
 
+Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill
+---
+
 6 Mar 2018 Posted in [Others](/news/others) 
 
 On 28 February 2018, the Ministry of Law tabled the Criminal Justice Reform Bill and the Evidence (Amendment) Bill in Parliament. The 52 proposed amendments arise from an end-to-end review of the criminal justice process, from investigation and court processes, to sentencing. These amendments are a major step in the Government's long-term efforts towards a more progressive, balanced and modern criminal justice system.
