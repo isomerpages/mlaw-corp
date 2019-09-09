@@ -11,7 +11,7 @@ Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh cal
 
 3 Dec 2009 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/files/brunei-ag-3-12-09.jpg/"></div><br>
+<div class="image"><img src="/images/brunei-ag-3-12-09.jpg/"></div><br>
 <i>Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh exchanging gifts with Law Minister K Shanmugam</i>
 
 Law Minister K Shanmugam met with Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh on 3 December 2009 at a courtesy call, where they discussed policy making and liberalisation of the legal sector.
