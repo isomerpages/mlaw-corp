@@ -59,3 +59,5 @@ In February 2017, the Committee on the Future Economy (CFE) released its recomme
 The Update builds upon the progress achieved and focuses on helping innovative enterprises harness IP for growth, particularly through the active commercialisation and monetisation of their IP.
 
 **Video: Intellectual Property Policy**
+
+<p class="right-side-updated">Last updated on 13 Sep 2018</p>
