@@ -24,6 +24,6 @@ Please refer to the attached note by Senior Minister of State for Law, Ms Indran
   <a href="/files/NoteonCoCA2.pdf/"><img src="/images/1530861709125.jpg/"></a>
 </div>
 
-<a href="/files/NoteonCoCA2.pdf/">Note on the Choice of Court Agreements Act - Commencement</a>
+<a href="/files/NoteonCoCA2.pdf/">Note on the Choice of Court Agreements Act - Commencement</a>(291KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
