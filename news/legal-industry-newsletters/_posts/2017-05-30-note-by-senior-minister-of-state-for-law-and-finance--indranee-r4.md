@@ -24,7 +24,7 @@ Senior Minister of State for Law and Finance, Ms Indranee Rajah, outlines how Si
   <a href="/files/NoteonInfrastructure.pdf/"><img src="/images/1496199774864.jpg/"></a>
 </div>
 
-<a href="/files/NoteonInfrastructure.pdf/">Note on Infrastructure</a>
+<a href="/files/NoteonInfrastructure.pdf/">Note on Infrastructure</a>(684KB)
 
 <p class="right-side-updated">Last updated on 31 May 2017</p>
 
