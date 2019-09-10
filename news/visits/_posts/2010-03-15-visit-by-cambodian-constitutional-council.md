@@ -6,6 +6,11 @@ breadcrumb: Visit by Cambodian Constitutional Council
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Cambodian Constitutional Council
 ---
 
