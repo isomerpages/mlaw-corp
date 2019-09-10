@@ -6,6 +6,11 @@ breadcrumb: Call on Minister for Law K Shanmugam by Communist Party of China Cen
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Call on Minister for Law K Shanmugam by Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary Meng Jianzhu
 ---
 
