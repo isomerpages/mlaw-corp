@@ -22,6 +22,6 @@ Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the long-term
   <a href="/files/NoteonLawyersintheFutureofUs.pdf/"><img src="/images/1452595386576.jpg/"></a>
 </div>
 
-<a href="/files/NoteonLawyersintheFutureofUs.pdf/">Note on Lawyers in the Future of Us</a>
+<a href="/files/NoteonLawyersintheFutureofUs.pdf/">Note on Lawyers in the Future of Us</a>(1MB)
 
 <p class="right-side-updated">Last updated on 12 Jan 2016</p>
