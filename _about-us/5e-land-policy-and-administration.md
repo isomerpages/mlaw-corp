@@ -84,4 +84,8 @@ Use this one-stop internet portal which provides information on land matters suc
 
 **Video: Land Policy and Administration**
 
+<div class="bp-youtube">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZRDzcYvCuo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p class="right-side-updated">Last updated on 21 Jun 2018</p>
