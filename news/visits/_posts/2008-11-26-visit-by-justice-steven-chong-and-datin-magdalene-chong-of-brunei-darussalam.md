@@ -6,6 +6,11 @@ breadcrumb: Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Da
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam
 ---
 
