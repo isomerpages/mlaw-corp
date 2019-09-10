@@ -84,3 +84,5 @@ To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign
     </td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 06 Jul 2017</p>
