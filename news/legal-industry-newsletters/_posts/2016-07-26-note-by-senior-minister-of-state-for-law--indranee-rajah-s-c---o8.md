@@ -22,6 +22,6 @@ With growing demand for debt restructuring services in the Asia-Pacific region, 
   <a href="/files/NotebySMSonRestructuringHubReport.pdf/"><img src="/images/1469514883180.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSonRestructuringHubReport.pdf/">Note on Restructuring Hub Report</a>
+<a href="/files/NotebySMSonRestructuringHubReport.pdf/">Note on Restructuring Hub Report</a>(602KB)
 
 <p class="right-side-updated">Last updated on 26 Jul 2016</p>
