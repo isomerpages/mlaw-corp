@@ -19,4 +19,4 @@ Registry of Moneylenders
 
 The Registry of Moneylenders oversees the registration and regulation of moneylenders in Singapore. For more information on the Registry of Moneylenders, please click [here](https://mlaw-rom-staging.netlify.com).
 
- 
+ <p class="right-side-updated">Last updated on 28 Jan 2015</p>
