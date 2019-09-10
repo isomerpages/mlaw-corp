@@ -24,6 +24,6 @@ SMS has outlined the legislative amendments that the Government has taken to ena
   <a href="/files/CopyrightBill2014Newsletter.pdf/"><img src="/images/1422346007800.jpg/"></a>
 </div>
 
-<a href="/files/CopyrightBill2014Newsletter.pdf/">Note on Supporting the Digital Environment</a>
+<a href="/files/CopyrightBill2014Newsletter.pdf/">Note on Supporting the Digital Environment</a>(1.2MB)
 
 <p class="right-side-updated">Last updated on 27 Jan 2015</p>
