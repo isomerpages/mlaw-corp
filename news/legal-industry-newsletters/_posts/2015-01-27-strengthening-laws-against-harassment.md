@@ -22,19 +22,19 @@ The Protection from Harassment Act 2014 was passed by Parliament in March 2014. 
   <a href="/files/NotebySMSonPOHA-0618.pdf/"><img src="/images/1530688744794.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSonPOHA-0618.pdf/">Note on Strengthening Laws Against Harassment</a>
+<a href="/files/NotebySMSonPOHA-0618.pdf/">Note on Strengthening Laws Against Harassment</a>(225KB)
 
 
 <div class="image">
   <a href="/files/2NotebySMS_Harassment.pdf/"><img src="/images/2422349422393.jpg/"></a>
 </div>
 
-<a href="/files/2NotebySMS_Harassment.pdf/">Annex - Protection from Harassment</a>
+<a href="/files/2NotebySMS_Harassment.pdf/">Annex - Protection from Harassment</a>(582KB)
 
 <div class="image">
   <a href="/files/3msd061_minlaw_infographic_annex_091215.pdf/"><img src="/images/3449653777312.jpg/"></a>
 </div>
 
-<a href="/files/3msd061_minlaw_infographic_annex_091215.pdf/">Annex - Protection Orders under Protection from Harassment Act 2014</a>
+<a href="/files/3msd061_minlaw_infographic_annex_091215.pdf/">Annex - Protection Orders under Protection from Harassment Act 2014</a>(385KB)
 
 <p class="right-side-updated">Last updated on 04 Jul 2018</p>
