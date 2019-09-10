@@ -6,6 +6,11 @@ breadcrumb: Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haj
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Brunei Attorney General YB Datin Paduka Hajah Hayati bte POKSDSP Haji Salleh calls on Law Minister K Shanmugam
 ---
 
