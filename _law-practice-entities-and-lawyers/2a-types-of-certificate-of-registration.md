@@ -15,3 +15,5 @@ Please refer to this [table](/files/Types_of_LSRA_Individual_Registration_May_20
 For full details of the applicable requirements, privileges and conditions for each type of registration, please refer to the  Legal Profession Act, [Legal Profession (Regulated Individuals) Rules 2015, and other relevant subsidiary legislation](/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/){:target="_blank"}. 
 
 For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx).
+
+<p class="right-side-updated">Last updated on 07 Jun 2018</p>
