@@ -6,6 +6,11 @@ breadcrumb: Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
 ---
 
