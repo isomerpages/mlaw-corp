@@ -6,6 +6,11 @@ breadcrumb: Myanmar Minister of Construction H.E. Khin Maung Myint calls on Seni
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamentary Secretary for Education and Law Ms Sim Ann
 ---
 
