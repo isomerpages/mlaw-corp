@@ -6,6 +6,11 @@ breadcrumb: Vietnam Minister, Inspector-General, H.E. Mr Tran Van Truyen calls o
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Vietnam Minister, Inspector-General, H.E. Mr Tran Van Truyen calls on Law Minister K Shanmugam
 ---
 
