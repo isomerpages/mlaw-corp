@@ -22,12 +22,12 @@ The Ministry of Law announced last week the setting up of Singapore’s third la
   <a href="/files/1NotebySMSonULS.pdf/"><img src="/images/1456210601575.jpg/"></a>
 </div>
 
-<a href="/files/1NotebySMSonULS.pdf/">Note on the UniSIM Law School</a>
+<a href="/files/1NotebySMSonULS.pdf/">Note on the UniSIM Law School</a>(696KB)
 
 <div class="image">
   <a href="/files/2NotebySMSonULS-Annex.pdf/"><img src="/images/2456210823256.jpg/"></a>
 </div>
 
-<a href="/files/2NotebySMSonULS-Annex.pdf/">Annex - Key features of the UniSIM Law School</a>
+<a href="/files/2NotebySMSonULS-Annex.pdf/">Annex - Key features of the UniSIM Law School</a>(1.3MB)
 
 <p class="right-side-updated">Last updated on 23 Feb 2016</p>
