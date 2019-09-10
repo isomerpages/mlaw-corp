@@ -126,3 +126,5 @@ However, each law practice should still submit an application via [LSRA e-Servic
     <td>Section 170(7) of the Legal Profession Act</td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 10 Jan 2018</p>
