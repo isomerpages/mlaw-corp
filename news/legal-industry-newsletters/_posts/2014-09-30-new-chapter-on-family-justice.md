@@ -22,13 +22,13 @@ The Family Justice Act 2014 was passed at the August sitting of Parliament. In t
   <a href="/files/FamilyJusticeNewsletter_Sep2014V2.pdf/"><img src="/images/1422000541822.jpg/"></a>
 </div>
 
-<a href="/files/FamilyJusticeNewsletter_Sep2014V2.pdf/">Note on New Chapter in Family Justice</a>
+<a href="/files/FamilyJusticeNewsletter_Sep2014V2.pdf/">Note on New Chapter in Family Justice</a>(225KB)
 
 
 <div class="image">
   <a href="/files/FamilyJusticeCourtStructureAnnex.pdf/"><img src="/images/1412070109509(1).jpg/"></a>
 </div>
 
-<a href="/files/FamilyJusticeCourtStructureAnnex.pdf/">Annex - Court Structure</a>
+<a href="/files/FamilyJusticeCourtStructureAnnex.pdf/">Annex - Court Structure</a>(184KB)
 
 <p class="right-side-updated">Last updated on 23 Jan 2015</p>
