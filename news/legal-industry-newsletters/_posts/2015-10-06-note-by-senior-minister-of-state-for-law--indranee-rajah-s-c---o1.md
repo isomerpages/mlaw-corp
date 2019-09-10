@@ -22,6 +22,6 @@ Senior Minister of State for Law, Ms Indranee Rajah S.C., shares the possibiliti
   <a href="/files/NoteonLegalFutures.pdf/"><img src="/images/1444120239904.jpg/"></a>
 </div>
 
-<a href="/files/NoteonLegalFutures.pdf/">Note on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law</a>
+<a href="/files/NoteonLegalFutures.pdf/">Note on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law</a>(1.1MB)
 
 <p class="right-side-updated">Last updated on 06 Oct 2015</p>
