@@ -23,4 +23,8 @@ Besides developing Singapore as a location of choice for international arbitrati
 
 **Video: Legal Group and Legal Industry Division**
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0wJ9lvFkUXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p class="right-side-updated">Last updated on 20 Mar 2018</p>
