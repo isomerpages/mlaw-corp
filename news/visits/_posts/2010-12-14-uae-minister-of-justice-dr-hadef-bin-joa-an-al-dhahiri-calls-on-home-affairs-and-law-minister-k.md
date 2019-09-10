@@ -6,6 +6,11 @@ breadcrumb: UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri calls on Home
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri calls on Home Affairs and Law Minister K Shanmugam
 ---
 
