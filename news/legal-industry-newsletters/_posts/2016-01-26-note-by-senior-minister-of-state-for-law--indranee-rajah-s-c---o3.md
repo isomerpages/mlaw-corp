@@ -22,6 +22,6 @@ On 15 January, the 13<sup>th</sup> Parliament was opened with the swearing in of
   <a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/"><img src="/images/1530696905034.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/">Note on a New Parliament and a Fresh Agenda</a>
+<a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/">Note on a New Parliament and a Fresh Agenda</a>(2.1MB)
 
 <p class="right-side-updated">Last updated on 04 Jul 2018</p>
