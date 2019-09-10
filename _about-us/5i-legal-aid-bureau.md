@@ -22,3 +22,5 @@ The [Legal Aid Bureau](https://mlaw-lab-staging.netlify.com/) ensures equal acce
 Persons seeking legal assistance in criminal cases may approach the Law Society of Singapore for its Criminal Legal Aid Scheme.
 
 **Video: Legal Aid Bureau**
+
+<p class="right-side-updated">Last updated on 24 May 2019</p>
