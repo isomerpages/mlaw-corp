@@ -22,12 +22,12 @@ The Bankruptcy (Amendment) Bill was passed in Parliament on 14 July 2015. In the
   <a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/"><img src="/images/1437459533821.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/">Note on A More Rehabilitative Framework for Bankrupts</a>
+<a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/">Note on A More Rehabilitative Framework for Bankrupts</a>(373KB)
 
 <div class="image">
   <a href="/files/Annex.pdf/"><img src="/images/1437474539181.jpg/"></a>
 </div>
 
-<a href="/files/Annex.pdf/">Annex - Infographic on Bankruptcy (Amendment) Bill</a>
+<a href="/files/Annex.pdf/">Annex - Infographic on Bankruptcy (Amendment) Bill</a>(340KB)
 
 <p class="right-side-updated">Last updated on 21 Jul 2015</p>
