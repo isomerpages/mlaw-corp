@@ -151,3 +151,5 @@ If the application is rejected, the process will end here.
     </td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 06 Jun 2018</p>
