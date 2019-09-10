@@ -23,4 +23,8 @@ Persons seeking legal assistance in criminal cases may approach the Law Society 
 
 **Video: Legal Aid Bureau**
 
+<div class="bp-youtube">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/NhDLZyWR2vI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <p class="right-side-updated">Last updated on 24 May 2019</p>
