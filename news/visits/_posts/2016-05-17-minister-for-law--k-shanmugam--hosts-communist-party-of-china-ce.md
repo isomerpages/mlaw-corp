@@ -6,6 +6,11 @@ breadcrumb: Minister for Law, K Shanmugam, Hosts Communist Party of China Centra
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Minister for Law, K Shanmugam, Hosts Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary, Meng Jianzhu
 ---
 
