@@ -6,6 +6,11 @@ breadcrumb: Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
 ---
 
