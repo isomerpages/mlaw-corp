@@ -83,3 +83,5 @@ A Group Practice is a grouping of law practices and cannot offer any legal servi
 An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit. </td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 30 Aug 2018</p>
