@@ -6,6 +6,11 @@ breadcrumb: Visit by Bangladesh State Minister of Law, Justice and Parliamentary
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam
 ---
 
