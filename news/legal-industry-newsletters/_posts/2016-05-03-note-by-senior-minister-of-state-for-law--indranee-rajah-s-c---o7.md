@@ -22,6 +22,6 @@ The Ministry of Law and the Intellectual Property Office of Singapore will be re
   <a href="/files/DesignsRegimeNewsletter.pdf/"><img src="/images/1530697269659.jpg/"></a>
 </div>
 
-<a href="/files/DesignsRegimeNewsletter.pdf/">Note on Designing the Future</a>
+<a href="/files/DesignsRegimeNewsletter.pdf/">Note on Designing the Future</a>(483KB)
 
 <p class="right-side-updated">Last updated on 4 Jul 2018</p>
