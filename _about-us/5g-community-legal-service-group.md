@@ -40,3 +40,5 @@ For more information on the Community Legal Services Group and the services avai
 * [Registry of Moneylenders](/about-us/what-we-do/registry-of-moneylenders/)
 
 * [Registry of Pawnbrokers](/about-us/what-we-do/registry-of-pawnbrokers/)
+
+<p class="right-side-updated">Last updated on 14 Jan 2016</p>
