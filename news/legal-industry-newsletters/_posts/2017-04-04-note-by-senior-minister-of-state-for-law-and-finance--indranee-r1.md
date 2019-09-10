@@ -24,6 +24,6 @@ This Note summarises the key amendments in the Trustees (Amendment) Bill.
   <a href="/files/NoteonTrusteesAmendmentBill.pdf/"><img src="/images/1530863993117.jpg/"></a>
 </div>
 
-<a href="/files/NoteonTrusteesAmendmentBill.pdf/">Note on Trustees (Amendment) Bill</a>
+<a href="/files/NoteonTrusteesAmendmentBill.pdf/">Note on Trustees (Amendment) Bill</a>(557KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
