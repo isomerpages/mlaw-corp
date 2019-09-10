@@ -24,7 +24,7 @@ This Note summarises the key recommendations of the Working Group.
   <a href="/files/NoteonCFELegalandAccountingServices.pdf"><img src="/images/1493714260603.jpg/"></a>
 </div>
 
-<a href="/files/NoteonCFELegalandAccountingServices.pdf/">Note on CFE Legal and Accounting Services</a>
+<a href="/files/NoteonCFELegalandAccountingServices.pdf/">Note on CFE Legal and Accounting Services</a>(614KB)
 
 <p class="right-side-updated">Last updated on 02 May 2017</p>
 
