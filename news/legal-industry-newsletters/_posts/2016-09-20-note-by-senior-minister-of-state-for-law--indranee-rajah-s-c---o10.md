@@ -22,6 +22,6 @@ The Administration of Justice (Protection) Act was enacted in Parliament on 15 A
   <a href="/files/NoteonAOJP.pdf/"><img src="/images/1530861609220.jpg/"></a>
 </div>
 
-<a href="/files/NoteonAOJP.pdf/">Note on the Administration of Justice (Protection) Act 2016</a>
+<a href="/files/NoteonAOJP.pdf/">Note on the Administration of Justice (Protection) Act 2016</a>(729KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
