@@ -22,7 +22,7 @@ On 10 March 2017, Parliament passed the Companies (Amendment) Bill and Limited L
   <a href="/files/CALLP.pdf/"><img src="/images/1490084372217.jpg/"></a>
 </div>
 
-<a href="/files/CALLP.pdf/">Note on Companies (Amendment) Bill and LLP (Amendment) Bill</a>
+<a href="/files/CALLP.pdf/">Note on Companies (Amendment) Bill and LLP (Amendment) Bill</a>(352KB)
 
 <u>Addendum</u><br>
 The debt restructuring-related amendments to the Companies (Amendment) Bill are expected to be brought into force in the second quarter of 2017. The Ministry of Law will make the relevant announcements when the law is brought into force.
