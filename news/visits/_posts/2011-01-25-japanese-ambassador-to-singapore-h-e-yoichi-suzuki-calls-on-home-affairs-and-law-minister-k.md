@@ -6,6 +6,11 @@ breadcrumb: Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home A
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and Law Minister K Shanmugam
 ---
 
