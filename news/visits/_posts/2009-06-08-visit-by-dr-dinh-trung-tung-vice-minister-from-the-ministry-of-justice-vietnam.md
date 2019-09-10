@@ -6,6 +6,11 @@ breadcrumb: Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Just
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam
 ---
 
