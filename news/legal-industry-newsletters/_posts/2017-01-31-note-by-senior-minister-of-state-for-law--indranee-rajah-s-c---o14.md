@@ -21,7 +21,7 @@ The Mediation Bill, which was passed in Parliament on 10 January 2017, is part o
 This Note summarizes the policy objectives and provisions of the Mediation Bill and related amendments to the Legal Profession Act.  
 
 <div class="image">
-  <a href="/files/NoteonMediationAct.pdf/"><img src="/images/1530863809189.jpg/"></a>
+  <a href="/files/NoteonMediationAct.pdf/"><img src="/images/1530863809189.jpg/"></a>(561KB)
 </div>
 
 <a href="/files/NoteonMediationAct.pdf/">Note on Mediation Bill</a>
