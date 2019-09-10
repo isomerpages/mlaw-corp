@@ -6,6 +6,11 @@ breadcrumb: Dr Francis Gurry, Director-General, World Intellectual Property Orga
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann
 ---
 
