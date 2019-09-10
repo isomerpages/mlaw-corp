@@ -22,6 +22,6 @@ Innovation and creativity are the engines of change. Companies that use innovati
   <a href="/files/NoteonIPWeek.pdf/"><img src="/images/1530861299630.jpg/"></a>
 </div>
 
-<a href="/files/NoteonIPWeek.pdf/">Note on IP Week 2016</a>
+<a href="/files/NoteonIPWeek.pdf/">Note on IP Week 2016</a>(672KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
