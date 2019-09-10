@@ -24,6 +24,6 @@ This Note summarises the key amendments in the Patents (Amendment) Bill and its 
   <a href="/files/NoteonPatentsAmendmentBill.pdf/"><img src="/images/1530863920373.jpg/"></a>
 </div>
 
-<a href="/files/NoteonPatentsAmendmentBill.pdf/">Note on Patents (Amendment) Bill</a>
+<a href="/files/NoteonPatentsAmendmentBill.pdf/">Note on Patents (Amendment) Bill</a>(475KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
