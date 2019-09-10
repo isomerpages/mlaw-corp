@@ -22,3 +22,5 @@ The Community Mediation Unit (CMU) promotes the resolution of community disputes
 Mediation is carried out in private between disputants by specially trained volunteers. They try to help disputants reach an amicable solution, and where necessary, a written settlement that binds the parties. 
 
 **Video: Community Mediation Centre**
+
+<p class="right-side-updated">Last updated on 27 Dec 2017</p>
