@@ -22,6 +22,6 @@ The Singapore Police Force and the Central Narcotics Bureau intend to start a pi
   <a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/"><img src="/images/1437730103972.jpg/"></a>
 </div>
 
-<a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/">Note on Breaking New Ground in Criminal Investigations</a>
+<a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/">Note on Breaking New Ground in Criminal Investigations</a>(340KB)
 
 <p class="right-side-updated">Last updated on 24 Jul 2015</p>
