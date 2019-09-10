@@ -6,6 +6,11 @@ breadcrumb: People's Republic of China Ambassador to Singapore, H.E. Wei Wei cal
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 People's Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home Affairs and Law Minister K Shanmugam
 ---
 
