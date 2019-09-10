@@ -6,6 +6,11 @@ breadcrumb: Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanmugam
 ---
 
