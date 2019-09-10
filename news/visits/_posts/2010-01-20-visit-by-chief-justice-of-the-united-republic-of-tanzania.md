@@ -6,6 +6,11 @@ breadcrumb: Visit by Chief Justice of the United Republic of Tanzania
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Chief Justice of the United Republic of Tanzania
 ---
 
