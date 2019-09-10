@@ -22,6 +22,6 @@ Singapore, together with 11 other countries signed the Trans-Pacific Partnership
   <a href="/files/NotebySMSonTPP.pdf/"><img src="/images/1455596684056.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSonTPP.pdf/">Note on TPP</a>
+<a href="/files/NotebySMSonTPP.pdf/">Note on TPP</a>(1.5MB)
 
 <p class="right-side-updated">Last updated on 16 Feb 2016</p>
