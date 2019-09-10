@@ -6,6 +6,11 @@ breadcrumb: Visit by Australian Minister for Superannuation and Corporate Law Se
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Australian Minister for Superannuation and Corporate Law Senator Nick Sherry
 ---
 
