@@ -26,6 +26,6 @@ Attached is a Note by Senior Minister of State for Law, Ms Indranee Rajah S.C., 
   <a href="/files/ChoiceofCourtAgreementsAct2016.pdf/"><img src="/images/1461649953656.jpg/"></a>
 </div>
 
-<a href="/files/ChoiceofCourtAgreementsAct2016.pdf/">Note on the Choice of Court Agreements Act 2016</a>
+<a href="/files/ChoiceofCourtAgreementsAct2016.pdf/">Note on the Choice of Court Agreements Act 2016</a>(573KB)
 
 <p class="right-side-updated">Last updated on 26 Apr 2016</p>
