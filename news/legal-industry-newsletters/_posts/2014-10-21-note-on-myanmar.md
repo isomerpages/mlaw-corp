@@ -22,6 +22,6 @@ Senior Minister of State (SMS) for Law and Education, Ms Indranee Rajah S.C., wa
   <a href="/files/SMSNoteonMyanmar.pdf/"><img src="/images/1414119872449.jpg/"></a>
 </div>
 
-<a href="/files/SMSNoteonMyanmar.pdf/">Note on New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas</a>
+<a href="/files/SMSNoteonMyanmar.pdf/">Note on New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas</a>(623KB)
 
 <p class="right-side-updated">Last updated on 24 Oct 2014</p>
