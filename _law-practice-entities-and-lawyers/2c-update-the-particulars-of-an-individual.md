@@ -93,3 +93,5 @@ To update the particulars of a lawyer registered under Section 36B, 36C, 36D, 36
     </td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 07 Jul 2017</p>
