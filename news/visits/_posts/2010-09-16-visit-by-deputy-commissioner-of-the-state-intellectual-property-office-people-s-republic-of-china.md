@@ -6,6 +6,11 @@ breadcrumb: Visit by Deputy Commissioner of the State Intellectual Property Offi
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by Deputy Commissioner of the State Intellectual Property Office, People’s Republic of China, Gan Shaoning
 ---
 
