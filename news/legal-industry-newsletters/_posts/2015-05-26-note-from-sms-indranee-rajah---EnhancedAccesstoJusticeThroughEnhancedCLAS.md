@@ -22,19 +22,19 @@ Senior Minister of State for Law, Ms Indranee Rajah S.C., has written a note out
   <a href="/files/NotebySMSonEnhancedCLAS.pdf/"><img src="/images/1530696547468.jpg/"></a>
 </div>
 
-<a href="/files/NotebySMSonEnhancedCLAS.pdf/">Note on Enhanced Access to Justice Through Enhanced CLAS </a>
+<a href="/files/NotebySMSonEnhancedCLAS.pdf/">Note on Enhanced Access to Justice Through Enhanced CLAS </a>(270KB)
 
 
 <div class="image">
   <a href="/files/2AnnexA.pdf/"><img src="/images/2432612122627.jpg/"></a>
 </div>
 
-<a href="/files/2AnnexA.pdf/">Annex A - Enhanced Criminal Legal Aid Scheme </a>
+<a href="/files/2AnnexA.pdf/">Annex A - Enhanced Criminal Legal Aid Scheme </a>(508KB)
 
 <div class="image">
   <a href="/files/3AnnexBv2.pdf/"><img src="/images/3432612717969.jpg/"></a>
 </div>
 
-<a href="/files/3AnnexBv2.pdf/">Annex B - PBSO Support Services and Training </a>
+<a href="/files/3AnnexBv2.pdf/">Annex B - PBSO Support Services and Training </a>(25KB)
 
 <p class="right-side-updated">Last updated on 04 Jul 2018</p>
