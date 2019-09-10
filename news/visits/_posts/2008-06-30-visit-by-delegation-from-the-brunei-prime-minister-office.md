@@ -6,6 +6,11 @@ breadcrumb: Visit by delegation from the Brunei Prime Minister Office
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Visit by delegation from the Brunei Prime Minister Office
 ---
 
