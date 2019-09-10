@@ -24,6 +24,6 @@ This Note by SMS Indranee Rajah summarises the provisions and policy objectives 
   <a href="/files/NoteonCivilLawAmendment.pdf/"><img src="/images/1530861795863.jpg/"></a>
 </div>
 
-<a href="/files/NoteonCivilLawAmendment.pdf/">Note on Civil Law (Amendment) Bill</a>
+<a href="/files/NoteonCivilLawAmendment.pdf/">Note on Civil Law (Amendment) Bill</a>(479KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>
