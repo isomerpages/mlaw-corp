@@ -33,12 +33,12 @@ Relevant Legislation and Communications
     <td>
       <ul>
         <li><a href="/news/announcements/circular-on-the-establishment-of-the-legal-service-regu/">Circular on the Establishment of the Legal Services Regulatory Authority</a> [09/2015]</li>
-        <li><a href="/files/ArticleonLSRADec2016.pdf/">Feature on the Legal Services Regulatory Authority</a><br>[This article was originally published in the December 2016 issue of the Singapore Law Gazette. Reproduced with permission.]</li>
-        <li><a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">FAQs on Formal Law Alliances</a> [05/2017]</li>
-        <li><a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing</a> [03/2018]</li>
-        <li><a href="/files/LSRAGuidelinesonFinancialArrangementsbetweenSLPsandFLPsinColla.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> [04/2018]</li>
+        <li><a href="/files/ArticleonLSRADec2016.pdf/">Feature on the Legal Services Regulatory Authority</a>(311KB)<br>[This article was originally published in the December 2016 issue of the Singapore Law Gazette. Reproduced with permission.]</li>
+        <li><a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">FAQs on Formal Law Alliances</a> (582KB)[05/2017]</li>
+        <li><a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing</a> (238KB)[03/2018]</li>
+        <li><a href="/files/LSRAGuidelinesonFinancialArrangementsbetweenSLPsandFLPsinColla.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (418KB)[04/2018]</li>
         <li><a href="/files/Singapore_and_Foreign_Group_Practices_7_September_2018.pdf/" target="_blank">
-Legal Profession Act amendments relating to Singapore and Foreign Group Practices</a> [09/2018]</li>
+Legal Profession Act amendments relating to Singapore and Foreign Group Practices</a> (340KB)[09/2018]</li>
       </ul>
     </td>
   </tr>
