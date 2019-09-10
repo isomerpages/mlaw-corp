@@ -6,6 +6,11 @@ breadcrumb: 2nd Singapore-Vietnam Joint Committee Meeting 2011
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 2nd Singapore-Vietnam Joint Committee Meeting 2011
 ---
 
