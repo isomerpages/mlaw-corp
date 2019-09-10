@@ -6,6 +6,11 @@ breadcrumb: Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc 
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng Kee
 ---
 
