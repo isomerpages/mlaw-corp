@@ -6,6 +6,11 @@ breadcrumb: Hong Kong Special Administrative Region Secretary for Justice Mr Won
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung calls on Home Affairs and Law Minister K Shanmugam
 ---
 
