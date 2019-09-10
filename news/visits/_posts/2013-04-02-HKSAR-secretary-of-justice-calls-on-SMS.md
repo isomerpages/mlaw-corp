@@ -6,6 +6,11 @@ breadcrumb: Hong Kong Special Administrative Region Secretary for Justice Mr Rim
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC calls on Senior Minister of State for Law Indranee Rajah
 ---
 
