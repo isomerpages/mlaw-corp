@@ -22,6 +22,6 @@ The Ministry of Law announced last month that it would be introducing a new MinL
   <a href="/files/AwardNote.pdf/"><img src="/images/1477984615293.jpg/"></a>
 </div>
 
-<a href="/files/AwardNote.pdf/">Note on the MinLaw-UniSIM Study Award</a>
+<a href="/files/AwardNote.pdf/">Note on the MinLaw-UniSIM Study Award</a>(659KB)
 
 <p class="right-side-updated">Last updated on 01 Nov 2016</p>
