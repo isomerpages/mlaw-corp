@@ -6,6 +6,11 @@ breadcrumb: Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam
 ---
 
