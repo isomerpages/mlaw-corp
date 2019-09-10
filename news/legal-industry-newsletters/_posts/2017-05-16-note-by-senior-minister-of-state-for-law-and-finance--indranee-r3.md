@@ -24,7 +24,7 @@ This Note explains why it is important for law firms to adopt technology and how
   <a href="/files/NotetoLegalProfessionOnTechnology.pdf"><img src="/images/1494926382432.jpg/"></a>
 </div>
 
-<a href="/files/NotetoLegalProfessionOnTechnology.pdf/">Note to Legal Profession on Technology</a>
+<a href="/files/NotetoLegalProfessionOnTechnology.pdf/">Note to Legal Profession on Technology</a>(319KB)
 
 <p class="right-side-updated">Last updated on 16 May 2017</p>
 
