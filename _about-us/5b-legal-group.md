@@ -33,6 +33,9 @@ MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and
 
 **Video: Legal Group and Legal Industry Division**
 
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/0wJ9lvFkUXs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 **Related Links**
 <ul>
   <li>
