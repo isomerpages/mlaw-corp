@@ -6,6 +6,11 @@ breadcrumb: United States Attorney General Eric Holder calls on Minister for Law
 collection_name: news
 ---
 
+<style>
+.image {width: 400px;}
+.image img {max-width: 100%;}
+</style>
+
 United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanmugam
 ---
 
