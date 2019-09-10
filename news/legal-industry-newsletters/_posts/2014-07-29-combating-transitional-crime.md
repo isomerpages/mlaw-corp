@@ -26,6 +26,6 @@ In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah 
   </a>
 </div>
 
-<a href="/files/MACMA_2014_Newsletter.pdf/">Note on Combating Transnational Crime</a>
+<a href="/files/MACMA_2014_Newsletter.pdf/">Note on Combating Transnational Crime</a>(1.5MB)
 
 <p class="right-side-updated">Last updated on 30 Sep 2014</p>
