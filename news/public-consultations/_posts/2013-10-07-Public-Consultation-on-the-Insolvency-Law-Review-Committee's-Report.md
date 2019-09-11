@@ -44,9 +44,9 @@ Public Consultation on the Insolvency Law Review Committee's Report
 </p>
 
 **Annex A:**    
-[EXECUTIVE SUMMARY](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf) 
+[EXECUTIVE SUMMARY](/files/news/public-consultations/2013/10/ILRC Report Executive Summary.pdf)(193KB)
 
-[INSOLVENCY LAW REVIEW COMMITTEE REPORT](/files/news/public-consultations/2013/10/RevisedReportoftheInsolvencyLawReviewCommittee.pdf)  
+[INSOLVENCY LAW REVIEW COMMITTEE REPORT](/files/news/public-consultations/2013/10/RevisedReportoftheInsolvencyLawReviewCommittee.pdf)(1.7MB)
 
 **Annex B**
 
