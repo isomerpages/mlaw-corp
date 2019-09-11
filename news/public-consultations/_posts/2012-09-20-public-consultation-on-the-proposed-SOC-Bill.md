@@ -76,8 +76,8 @@ Public Consultation on the Proposed Status of Children (Assisted Reproduction Te
   E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-* [Annex A: Public Consultation Paper](/files/SOC_Consultation.pdf/){:target="_blank"}
-* [Annex B: Draft Bill](/files/SOC_Draft_Bill.pdf/)
+* [Annex A: Public Consultation Paper](/files/SOC_Consultation.pdf/){:target="_blank"}(160KB)
+* [Annex B: Draft Bill](/files/SOC_Draft_Bill.pdf/)(188KB)
 
 <sup><a id="A"></a>[1]</sup>The Bill does not regulate ART services and treatment in Singapore, which are and will continue to be regulated by the Ministry of Health.
 <sup><a id="B"></a>[2]</sup>Defined in the Bill as a man with whom the gestational mother was living in a relationship as if he was her spouse.
