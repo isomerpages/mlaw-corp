@@ -16,8 +16,10 @@ Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md
 
 16 May 2013 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/Bangladesh_visit.jpg/"></div><br>
-<i>State Minister of Law, Justice and Parliamentary Affairs of the People’s Republic of Bangladesh, Mr Md Qamrul Islam, with Senior Minister of State for Law, Ms Indranee Rajah</i>
+<div class="image">
+  <img src="/images/Bangladesh_visit.jpg/">
+  <i>State Minister of Law, Justice and Parliamentary Affairs of the People’s Republic of Bangladesh, Mr Md Qamrul Islam, with Senior Minister of State for Law, Ms Indranee Rajah</i>
+</div>
 
 The State Minister of Law, Justice and Parliamentary Affairs of the People’s Republic of Bangladesh, Mr Md Qamrul Islam, visited the Ministry of Law on 16 May 2013 and met with Senior Minister of State Indranee Rajah.
 
