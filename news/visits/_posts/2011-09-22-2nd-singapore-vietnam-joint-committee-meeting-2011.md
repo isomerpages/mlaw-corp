@@ -31,11 +31,12 @@ Mr Le Van Thu, Deputy Director General of the Legal Department,
 Ministry of Public Security looks on.</i>
 </div>
 
-
-<div class="image"><img src="/images/IMG_0389.jpg/"></div><br>
-<i>Mr Pang Kin Keong, Permanent Secretary (Law) hosting lunch for the
+<div class="image">
+  <img src="/images/IMG_0389.jpg/">
+  <i>Mr Pang Kin Keong, Permanent Secretary (Law) hosting lunch for the
 Vietnamese delegation to mark the conclusion of the 2nd Joint Committee Meeting.
 Various representatives of law firms, arbitral institutions and 
 other legal organisations  also attended the lunch.</i>
+</div>
 
 <p class="right-side-updated">Last updated on 21 Feb 2013</p>
