@@ -21,7 +21,6 @@ Visit by delegation from Saudi Arabia
   <i>Minister Shanmugam receiving an official gift from Sheikh Saud Al Askar</i>
 </div>
 
-
 Minister for Law K Shanmugam met with the Deputy Minister of the Saudi Ministry of Justice, Sheikh Saud Al Askar, at a courtesy call on 5 Aug 2008.
 
 The delegation, made up of court judges from the Saudi Ministry of Justice and officials from the Saudi Arabian National Competitiveness Centre and the Saudi Arabian General Investment Authority, were also given a briefing on Singapore's legal system and the liberalisation of the nation's legal services sector.
