@@ -118,7 +118,7 @@ Singapore 179434<br>
 Fax: 6332 8842<br>
 E-mail: <MLAW_Consultation@mlaw.gov.sg>
 </p>
-[Annex A: Public Consultation Paper (0.16MB)](/files/news/public-consultations/2012/11/SOC Consultation.pdf)  
+[Annex A: Public Consultation Paper (0.16MB)](/files/news/public-consultations/2012/11/SOC Consultation.pdf)<br>
 [Annex B: Draft Bill (0.18MB)](/files/news/public-consultations/2012/11/SOC Draft Bill.pdf)
 
 ---
