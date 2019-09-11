@@ -37,7 +37,7 @@ E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.go
 
 <b><u>Attachments</u></b>
 
-* [Consultation paper](/files/linkclick6c0c.pdf/){:target="_blank"}
-* [Draft Civil Law (Amendment) Bill 2008](/files/linkclick4c83.pdf/)
+* [Consultation paper](/files/linkclick6c0c.pdf/){:target="_blank"}(24.9KB)
+* [Draft Civil Law (Amendment) Bill 2008](/files/linkclick4c83.pdf/)(41.3KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
