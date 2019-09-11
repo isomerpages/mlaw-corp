@@ -51,8 +51,8 @@ First public consultation to seek feedback on proposed measures to safeguard con
 
 <b><u>Attachments</u></b>
 
-* [Annex A to Press Release](/files/linkclick7efa.pdf/)  
-* [Public Consultation Paper](/files/linkclick6a10.pdf/)  
-* [Response to feedback received for first public consultation](/files/linkclick73ae.pdf/)
+* [Annex A to Press Release](/files/linkclick7efa.pdf/)(19.3KB)
+* [Public Consultation Paper](/files/linkclick6a10.pdf/)(24.7KB)
+* [Response to feedback received for first public consultation](/files/linkclick73ae.pdf/)(62.9KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
