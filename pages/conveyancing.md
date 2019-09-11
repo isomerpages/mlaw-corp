@@ -8,7 +8,7 @@ breadcrumb: What We Do
 Conveyancing
 ---
 
-<i>Announcement: From **9 June 2014**, the www.conveyancing.sg address will no longer be in use, and will be replaced by <a href="/about-us/legal-group/conveyancing/">www.mlaw.gov.sg/conveyancing</a>. If you wish to continue accessing the information here, please use the new address, or bookmark it in your browser.</i>
+<i>Announcement: From **9 June 2014**, the www.conveyancing.sg address will no longer be in use, and will be replaced by <a href="/conveyancing/">www.mlaw.gov.sg/conveyancing</a>. If you wish to continue accessing the information here, please use the new address, or bookmark it in your browser.</i>
 
 The Ministry of Law implemented new measures on 1 August 2011 to further protect conveyancing money without unduly compromising the efficiency of conveyancing practice.
 
