@@ -122,7 +122,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 <ol style="list-style-type: lower-alpha">
    <li>Indicate your name and the organisation you represent (if applicable) as well as contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary;</li>
    <li>Focus your comments on how the proposed amendments can be made clearer, how the policy changes can be improved or whether the changes are necessary; and</li>
-   <li>State clearly which specific proposals you are giving feedback on by referring to their serial number in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf/)(314KB).</li>
+   <li>State clearly which specific proposals you are giving feedback on by referring to their serial number in <a href="/files/news/public-consultations/2017/07/AnnexB.pdf/">Annex B (314KB)</a></li>
 </ol>
 
 {:start="27"}
