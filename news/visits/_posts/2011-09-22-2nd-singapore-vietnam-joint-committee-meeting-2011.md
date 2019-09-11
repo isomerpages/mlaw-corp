@@ -23,11 +23,14 @@ The 2nd Singapore-Vietnam Joint Committee Meeting (JCM), chaired by Mr Pang Kin 
 
 Members of the Singapore-Vietnam Joint Committee Meeting posing for a group photograph following the signing of the meeting minutes.
 
-<div class="image"><img src="/images/1p9221394v2.jpg/"></div><br>
-<i>Mr Pang Kin Keong, Permanent Secretary (Law) exchanging gifts with
+<div class="image">
+  <img src="/images/1p9221394v2.jpg/">
+  <i>Mr Pang Kin Keong, Permanent Secretary (Law) exchanging gifts with
 Dr Hoang The Lien, the Vietnamese Standing Deputy Minister of Justice, as
 Mr Le Van Thu, Deputy Director General of the Legal Department,
 Ministry of Public Security looks on.</i>
+</div>
+
 
 <div class="image"><img src="/images/IMG_0389.jpg/"></div><br>
 <i>Mr Pang Kin Keong, Permanent Secretary (Law) hosting lunch for the
