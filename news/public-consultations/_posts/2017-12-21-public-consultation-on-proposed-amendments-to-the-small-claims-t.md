@@ -12,7 +12,7 @@ Public Consultation on Proposed Amendments to the Small Claims Tribunals Act
 **Consultation Period:**  
 21 Dec 2017 to 11 Jan 2018
 
-[Annex A - Details of Proposed Legislative Changes to the Small Claims Tribunals Act](/files/Details_of_Proposed_Legislative_Changes_to_the_Small_Claims_Tribunals_Act.pdf/)
+[Annex A - Details of Proposed Legislative Changes to the Small Claims Tribunals Act](/files/Details_of_Proposed_Legislative_Changes_to_the_Small_Claims_Tribunals_Act.pdf/)(162KB)
 
 <b>Introduction</b>
 
