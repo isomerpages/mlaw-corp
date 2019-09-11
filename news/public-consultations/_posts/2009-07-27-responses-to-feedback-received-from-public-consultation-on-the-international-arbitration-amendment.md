@@ -20,8 +20,8 @@ The Ministry of Law held a public consultation from 27 July to 17 August 2009 on
 <b><u>Attachments</u></b>
 
 * [Second Reading Speech on International Arbitration (Amendment) Bill 2009](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill)
-* [Response to the feedback received from the public consultation](/files/linkclick1e3a.pdf/)
-* [International Arbitration (Amendment) Bill](/files/linkclick83db.pdf/)
-* [Consultation paper on draft International Arbitration (Amendment) Bill](/files/linkclick967e.pdf/)
+* [Response to the feedback received from the public consultation](/files/linkclick1e3a.pdf/)(43.2KB)
+* [International Arbitration (Amendment) Bill](/files/linkclick83db.pdf/)(29.3KB)
+* [Consultation paper on draft International Arbitration (Amendment) Bill](/files/linkclick967e.pdf/)(21KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
