@@ -16,8 +16,10 @@ Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
 
 4 Sep 2009 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/visit-by-judge-ginsburg.jpg/"></div><br>
-<i>Judge Douglas Ginsburg, Dorothy Stephens Gray and Minister Shanmugam</i>
+<div class="image">
+  <img src="/images/visit-by-judge-ginsburg.jpg/">
+  <i>Judge Douglas Ginsburg, Dorothy Stephens Gray and Minister Shanmugam</i>
+</div>
 
 Law Minister K Shanmugam met with Judge Douglas Ginsburg from the US Court of Appeals for the District of Columbia Circuit, and his wife Dorothy Stephens Gray, Vice President and Director of the Foundation for Research on Economics and the Environment at a courtesy call on 4 September 2009. Discussions were held on wide-ranging topics such as competition law, judicial activities and Judge Ginsburg's speech on the role of economics in the rule of law at the NUS Law Faculty's symposium on 7 Sept 2009.
 
