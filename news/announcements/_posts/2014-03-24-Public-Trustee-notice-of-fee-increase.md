@@ -19,8 +19,8 @@ permalink: /news/announcements/notice-of-fee-increase
 
 <table class="table-h">
   <tr>
-  <th>Tier</th>
-  <th colspan="2">Free Rates <sup>1</sup></th>
+  <th scope="col">Tier</th>
+  <th scope="col" colspan="2">Free Rates <sup>1</sup></th>
   </tr>
   <tr>
   <td></td>
