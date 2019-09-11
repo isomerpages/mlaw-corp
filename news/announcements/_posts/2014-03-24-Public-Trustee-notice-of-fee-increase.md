@@ -11,7 +11,7 @@ permalink: /news/announcements/notice-of-fee-increase
 **NOTICE OF FEE INCREASE**
 
 
-1. With effect from **<u>1 April 2014</u>**, the fee rates charged by the Public Trustee when administering CPF moneys, etc, and motor accident compensation moneys held in trust will be revised as follows:  
+1. WWith effect from **<u>1 April 2014</u>**, the fee rates charged by the Public Trustee when administering CPF moneys, etc, and motor accident compensation moneys held in trust will be revised as follows:  
 
 
 
