@@ -19,7 +19,7 @@ Responses to feedback received from Public Consultation on the Proposed Amendmen
 
 <u>Attachments</u>
 
-* [Proposed Amendments to the Pawnbrokers Act](/files/Public_consultation_brief_for_Proposed_Amendments_to_Pawnbrokers_Act_2013.pdf/)
-* [Responses to feedback received from public consultation](/files/MinLaw_Responses_to_PBA_consultation_feedback.pdf/)
+* [Proposed Amendments to the Pawnbrokers Act](/files/Public_consultation_brief_for_Proposed_Amendments_to_Pawnbrokers_Act_2013.pdf/)(190 KB)
+* [Responses to feedback received from public consultation](/files/MinLaw_Responses_to_PBA_consultation_feedback.pdf/)(198KB)
 
 <p class="right-side-updated">Last updated on 29 May 2014</p>
