@@ -19,7 +19,7 @@ Vietnam Ministry of Justice delegation visits MinLaw
 <div class="image">
   <img src="/images/1399988697051.jpg/">
   <i>Vietnam Vice Minister of Justice Dr Dinh Trung Tung (6th from left) and MinLaw Deputy Secretary BG(NS) Yap Ong Heng (7th from left), together with the delegation and MinLaw officials.</i>
-</div><br>
+</div>
 
 Assoc Prof Ho Peng Kee met with the Vice Minister of Justice of the Socialist Republic of Vietnam Dr Dinh Trung Tung who was in Singapore on a study visit from 12 to 16 June 2008. During the meeting, both sides reaffirmed the close ties between the two countries, and exchanged views on how to enhance bilateral cooperation.
 
