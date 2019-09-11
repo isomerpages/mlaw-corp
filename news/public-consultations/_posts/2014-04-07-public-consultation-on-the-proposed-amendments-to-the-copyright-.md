@@ -106,7 +106,7 @@ Public Consultation on the Proposed Amendments to the Copyright Act
 
 <sup>[1]</sup> The MCRP was appointed by the Government in March 2012 to study the issues impacting consumers, industry and society in the converged media environment and to put forth recommendations on how to address such challenges.  It was chaired by Mr Koh Boon Hwee, Chairman, Board of Trustees, Nanyang Technological University, and comprised prominent individuals from the business, media and technology, telecommunications and legal sectors, representing a diversity of expertise, views and interests. 
 
-[Annex A - Copyright Act Amendment Bill 2014](/files/AnnexA-CopyrightActAmendmentBill2014.pdf/)
+[Annex A - Copyright Act Amendment Bill 2014](/files/AnnexA-CopyrightActAmendmentBill2014.pdf/)(38KB)
 
 <p class="right-side-updated">Last updated on 7 Apr 2014</p>
 
