@@ -32,7 +32,7 @@ If you are currently employed, the SUSS School of Law’s curriculum is credit-b
 
 **(E) Exemption by the Minister for Law**
 
-If you are not eligible for admission to the Singapore Bar, you may wish to try submitting an application to the Minister for Law for an [exemption](admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/).
+If you are not eligible for admission to the Singapore Bar, you may wish to try submitting an application to the Minister for Law for an [exemption](/admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/).
 
 Please note that each application for an exemption will be considered on its individual merits and may be granted subject to conditions. The onus is on the applicant to make a strong case for the exemption sought.
 
