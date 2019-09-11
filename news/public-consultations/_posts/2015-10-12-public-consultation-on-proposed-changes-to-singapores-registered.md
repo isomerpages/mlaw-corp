@@ -53,7 +53,7 @@ Public Consultation on Proposed Changes to Singapore’s Registered Designs Regi
  <li>Utility model protection (Section 7 – Page 33)</li>
 </ol>
 
-2.7. Please refer to this [Annex](/files/Public_Consultation_Changes_to_SG_RD_Regime.pdf/){:target="_blank"} for the full publication paper.
+2.7. Please refer to this [Annex](/files/Public_Consultation_Changes_to_SG_RD_Regime.pdf/){:target="_blank"}(909KB) for the full publication paper.
 
 3. Invitation for feedback
 
