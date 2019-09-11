@@ -45,7 +45,7 @@ Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and
 </ol>
 
 {:start="8"}
- 8. The proposed Civil Law (Amendment) Bill is found at [Annex A](/files/TPF-AnnexA.pdf/).
+ 8. The proposed Civil Law (Amendment) Bill is found at [Annex A](/files/TPF-AnnexA.pdf/)(78.5 KB).
 
  9. The Civil Law (Third Party Funding) Regulations 2016 will:
 
@@ -55,7 +55,7 @@ Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and
 </ol>
 
 {:start="10"}
-10. The proposed Civil Law (Third Party Funding) Regulations 2016 is found at [Annex B](/files/TPF-AnnexB.pdf/).
+10. The proposed Civil Law (Third Party Funding) Regulations 2016 is found at [Annex B](/files/TPF-AnnexB.pdf/)(137 KB).
 
 11. Apart from the amendments to the Civil Law Act, related amendments to the Legal Profession (Professional Conduct) Rules 2015 are envisaged. These related amendments are expected to draw reference from best practices and international standards reflected in the revised International Bar Association Guidelines on Conflict of Interest in International Arbitration (October 2014)<sup>[5]</sup>. In brief,
 
