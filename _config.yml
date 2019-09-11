@@ -37,6 +37,9 @@ faq_url_external: true
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 
+include: 
+    - _redirects
+
 
 baseurl: ""
 collections:
