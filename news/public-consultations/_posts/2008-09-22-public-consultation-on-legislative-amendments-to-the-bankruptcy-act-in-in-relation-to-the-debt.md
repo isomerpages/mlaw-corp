@@ -21,7 +21,7 @@ Public consultation on legislative amendments to the Bankruptcy Act in in relati
 **Public consultation on draft Bankruptcy (Amendment) Bill**
 
 {:start="4"}
-4. MinLaw and IPTO would now like to seek feedback on the [draft Bankruptcy (Amendment) Bill](), which seeks to introduce the Debt Repayment Scheme. The public consultation will be for the period <b><u>22 September 2008 to 17 October 2008</u></b>.
+4. MinLaw and IPTO would now like to seek feedback on the [draft Bankruptcy (Amendment) Bill](/files/linkclick7192.pdf/){:target="_blank"}(129KB), which seeks to introduce the Debt Repayment Scheme. The public consultation will be for the period <b><u>22 September 2008 to 17 October 2008</u></b>.
 
 5. Please submit your feedback via email by <b><u>17 October 2008</u></b> to <beverly_wee@ipto.gov.sg> or by mail to:
 
