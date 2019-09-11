@@ -47,7 +47,7 @@ Public Consultation on the Proposed Amendments to the Pawnbrokers Act
   Email: MLAW_Consultation@mlaw.gov.sg
 </p>
 
-[Annex: Proposed Amendments to the Pawnbrokers Act](/files/PublicconsultationbriefforProposedAmendmentstoPawnbrokersAct2013.pdf/)
+[Annex: Proposed Amendments to the Pawnbrokers Act](/files/PublicconsultationbriefforProposedAmendmentstoPawnbrokersAct2013.pdf/)(190KB)
 
 <sup>[1]</sup> The pawner will be given a grace period of up to 30 days from the notice to redeem the pledge.
 
