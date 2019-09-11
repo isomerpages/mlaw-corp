@@ -21,7 +21,6 @@ Visit by delegation from the Brunei Prime Minister Office
   <i>The Bruneian delegation, together with MinLaw Deputy Secretary BG(NS) Yap Ong Heng and General Manager (CMU) Ms Gloria Lim at the Community Mediation Centre.</i>
  </div>
 
-
 The Deputy Permanent Secretary (DPS) of Brunei's Prime Minister Office, Awang Haji Abdul Aziz Bin Orang Kaya Maharaja Lela Haji Md Yussof, met Assoc Prof Ho Peng Kee on 24 June 2008 at a courtesy call.  DPS and four other senior officials visited the Ministry of Law and its departments - the Legal Aid Bureau and the Community Mediation Unit - as part of their working visit to study Singapore's legal infrastructure.
 
 <p class="right-side-updated">Last updated on 30 Jan 2013</p>
