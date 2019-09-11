@@ -25,7 +25,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 
  4. This process has culminated in wide-ranging legislative amendments being proposed to the CPC and Evidence Act. These amendments affect (a) the powers of investigators, (b) court procedures and evidence, and (c) sentencing and other powers of the court. Taken together, they serve to enhance the fairness of existing procedures, and to ensure the accuracy and equity of outcomes in the criminal justice system. The amendments strengthen the law and increase protection for the vulnerable in the system while striking a fair balance between the Defence and Prosecution.
 
- 5. A full index of the proposed amendments can be found in [Annex A](/files/news/public-consultations/2017/07/AnnexA.pdf). The details of each of these amendments can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf). A bullet-point summary of the key amendments can be found in [Annex C](/files/news/public-consultations/2017/07/AnnexC.pdf), and some key proposals will be highlighted below. Unless otherwise stated, the proposed amendments are to the CPC.
+ 5. A full index of the proposed amendments can be found in [Annex A](/files/news/public-consultations/2017/07/AnnexA.pdf)(232KB). The details of each of these amendments can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB). A bullet-point summary of the key amendments can be found in [Annex C](/files/news/public-consultations/2017/07/AnnexC.pdf)(175KB), and some key proposals will be highlighted below. Unless otherwise stated, the proposed amendments are to the CPC.
 
 **Enhancing the fairness of existing procedures**
 
@@ -38,14 +38,14 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 
  8. The implementation of video recording of interviews will be phased and adopted incrementally, starting with the recording of suspects’ statements.
 
- 9. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 1.
+ 9. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 1.
 
 *Establishing a Criminal Procedure Rules Committee*
 
 {:start="10"}
 10. Amendments are proposed to establish a Criminal Procedure Rules Committee chaired by the Chief Justice. This Committee will have the power to make court-related procedural rules to keep the court process nimble and up-to-date in the face of changing conditions.
 
-11. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 18.
+11. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 18.
 
 **Ensuring the accuracy and equity of outcomes**
 
@@ -63,7 +63,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 </ol>
 
 {:start="14"}
-14. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 9.
+14. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 9.
 
 *Enhancing protection for complainants of sexual and child abuse offences during the court process*
 
@@ -79,7 +79,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 </ol>
 
 {:start="17"}
-17. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 13.
+17. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 13.
 
 *Expanding the community sentencing regime*
 
@@ -94,7 +94,7 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 </ol>
 
 {:start="20"}
-20. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 31.
+20. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 31.
 
 *Enhancing the victim compensation order regime*
 
@@ -111,18 +111,18 @@ Public Consultation on Proposed Amendments to the Criminal Procedure Code and Ev
 {:start="23"}
 23. An internal protocol between the courts, the prosecution and the police will also be developed to standardise and simplify the fact-finding, quantification, and enforcement processes for compensation orders.
 
-24. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf) at s/n 32.
+24. The full details of this proposal can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB) at s/n 32.
 
 **Invitation to give feedback**
 
 {:start="25"}
-25. The public are invited to give comments and feedback on the proposed amendments to the CPC and Evidence Act from 24 July 2017 to 24 August 2017. A full index of the proposed amendments can be found in [Annex A](/files/news/public-consultations/2017/07/AnnexA.pdf). The details of each of these amendments can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf). A bullet-point summary of the key amendments can be found in [Annex C](/files/news/public-consultations/2017/07/AnnexC.pdf).
+25. The public are invited to give comments and feedback on the proposed amendments to the CPC and Evidence Act from 24 July 2017 to 24 August 2017. A full index of the proposed amendments can be found in [Annex A](/files/news/public-consultations/2017/07/AnnexA.pdf)(232KB). The details of each of these amendments can be found in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB). A bullet-point summary of the key amendments can be found in [Annex C](/files/news/public-consultations/2017/07/AnnexC.pdf)(175KB).
 
 26. These amendments include:
 <ol style="list-style-type: lower-alpha">
    <li>Indicate your name and the organisation you represent (if applicable) as well as contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary;</li>
    <li>Focus your comments on how the proposed amendments can be made clearer, how the policy changes can be improved or whether the changes are necessary; and</li>
-   <li>State clearly which specific proposals you are giving feedback on by referring to their serial number in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf).</li>
+   <li>State clearly which specific proposals you are giving feedback on by referring to their serial number in [Annex B](/files/news/public-consultations/2017/07/AnnexB.pdf)(314KB).</li>
 </ol>
 
 {:start="27"}
