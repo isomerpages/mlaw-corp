@@ -57,6 +57,6 @@ Fax: 6332 8842<br>
 E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-[Annex A: Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice](/files/Public_Consultation_Paper_on_Interim_Recommendations_of_Committee_for_Family_Justice.pdf)
+[Annex A: Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice](/files/Public_Consultation_Paper_on_Interim_Recommendations_of_Committee_for_Family_Justice.pdf)(523KB)
 
 <p class="right-side-updated">Last updated on 26 May 2014</p>
