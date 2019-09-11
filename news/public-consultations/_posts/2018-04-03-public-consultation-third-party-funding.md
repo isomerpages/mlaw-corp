@@ -100,8 +100,8 @@ If you provide views and feedback, please let us know whether you are willing to
 
 <sup>[12]</sup>  [https://siarb.org.sg/index.php/resources/third-party-funding](https://siarb.org.sg/index.php/resources/third-party-funding)
 
-<sup>[13]</sup> [http://www.siac.org.sg/images/stories/articles/rules/Third%20Party%20Funding%20Practice%20Note%2031%20March%202017.pdf](/files/ThirdPartyFundingPracticeNote31March2017.pdf/)
+<sup>[13]</sup> [http://www.siac.org.sg/images/stories/articles/rules/Third%20Party%20Funding%20Practice%20Note%2031%20March%202017.pdf](/files/ThirdPartyFundingPracticeNote31March2017.pdf/)(136KB)
 
-<sup>[14]</sup> [http://www.lawsociety.org.sg/Portals/0/ForLawyers/GuidanceOnProfessionalAndPracticeIssues/PDF/Council_GN_Third_Party_Funding.pdf](/files/Council_GN_Third_Party_Funding.pdf/)
+<sup>[14]</sup> [http://www.lawsociety.org.sg/Portals/0/ForLawyers/GuidanceOnProfessionalAndPracticeIssues/PDF/Council_GN_Third_Party_Funding.pdf](/files/Council_GN_Third_Party_Funding.pdf/)(356KB)
 
 <p class="right-side-updated">Last updated on 03 Apr 2018</p>
