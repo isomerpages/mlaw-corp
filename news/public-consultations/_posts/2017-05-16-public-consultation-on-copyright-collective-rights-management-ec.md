@@ -18,7 +18,7 @@ This public consultation is part of a broader overall review of Singapore’s co
 
 We invite all interested persons to provide feedback and suggestions on the questions and issues highlighted in this consultation paper. Respondents are also welcome to surface any other related issues.
 
-The full public consultation paper may be viewed [here](/files/Copyright-Review-CMO_Consultation-Paper.pdf/).
+The full public consultation paper may be viewed [here](/files/Copyright-Review-CMO-Consultation-Paper.pdf/).
 
 Alternatively, if you prefer to provide detailed comments in writing, instructions for doing so may be found in <b><u>Part VI</u></b> of the full consultation paper (link above).
 
