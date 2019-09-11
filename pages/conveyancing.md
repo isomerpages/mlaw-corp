@@ -28,7 +28,7 @@ An overview of the amendments is outlined in the "[Brief Overview of the Conveya
 
 <ul>
     <li>
-      <a href="/conveyancing-accounts/" target="_blank">Conveyance accounts</a>
+      <a href="/conveyancing-account/" target="_blank">Conveyance accounts</a>
     </li>
     <li>
       <a href="/previous-amendments/" target="_blank">Previous amendments</a>
