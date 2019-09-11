@@ -16,6 +16,6 @@ Responses to feedback received from Public Consultation on Proposed Amendments t
 
 2. The Ministry of Law would like to thank all respondents for their feedback. Respondents provided views on substantive policy issues as well as drafting suggestions.  We have carefully considered all the suggestions received and have incorporated much of the feedback into a revised Bill.
 
-3. The Ministry of Law has prepared a response to address feedback relevant to substantive policy issues, a copy of which is enclosed at [ANNEX A](/files/Annex_A-Goverment_Response_to_Public Consult_Feedback_for_Companies_Act_Amendments.pdf/){:target="_blank"}. 
+3. The Ministry of Law has prepared a response to address feedback relevant to substantive policy issues, a copy of which is enclosed at [ANNEX A](/files/Annex_A-Goverment_Response_to_Public Consult_Feedback_for_Companies_Act_Amendments.pdf/){:target="_blank"}(426 KB). 
 
 <p class="right-side-updated">Last updated on 27 Feb 2017</p>
