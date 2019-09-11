@@ -35,7 +35,7 @@ For more information on the Community Legal Services Group and the services avai
 
 * [Insolvency Office](/about-us/what-we-do/insolvency-office/)
 
-* [Public Trustee’s Office](/what-we-do/public-trustee-office/)
+* [Public Trustee’s Office](/about-us/what-we-do/public-trustee-office/)
 
 * [Registry of Moneylenders](/about-us/what-we-do/registry-of-moneylenders/)
 
