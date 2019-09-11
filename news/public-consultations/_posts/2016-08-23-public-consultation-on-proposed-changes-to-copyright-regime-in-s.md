@@ -24,7 +24,7 @@ Copyright law has to be regularly updated in order to maintain this delicate bal
 
 MinLaw and IPOS are reviewing the copyright regime with the objectives of ensuring that it has rights which are reasonable, clear and capable of being efficiently transacted.
 
-The following topics reflect MinLaw’s and IPOS’ proposals on possible changes to the Singapore copyright regime. Read the full consultation paper [here](/files/Public_Consultation_Paper_on_Proposed_Changes_to_Copyright_Regime_in_Singapore_August_2016.pdf/).
+The following topics reflect MinLaw’s and IPOS’ proposals on possible changes to the Singapore copyright regime. Read the full consultation paper [here](/files/Public_Consultation_Paper_on_Proposed_Changes_to_Copyright_Regime_in_Singapore_August_2016.pdf/)(652 KB).
 
 **Proposals**
 <ol class="1">
