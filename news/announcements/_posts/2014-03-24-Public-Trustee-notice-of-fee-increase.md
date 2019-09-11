@@ -24,8 +24,8 @@ permalink: /news/announcements/notice-of-fee-increase
   </tr>
   <tr>
   <td></td>
-  <th>Existing Rates</th>
-  <th>Revised Rates</th>
+  <th scope="col">Existing Rates</th>
+  <th scope="col">Revised Rates</th>
   </tr>
   <tr>
   <td>For the first $1,000</td>
