@@ -26,7 +26,7 @@ Public Consultation on the Bankruptcy (Amendment) Bill
 </ol>
 
 {:start="4"}
-4. This public consultation seeks the public’s views on the reforms that will be introduced by the Bill.  A summary of the key reforms is attached at [**Annex B**](/files/Annex-B-Summary-of-Key-Reforms.pdf/).
+4. This public consultation seeks the public’s views on the reforms that will be introduced by the Bill.  A summary of the key reforms is attached at [**Annex B**](/files/Annex-B-Summary-of-Key-Reforms.pdf/)(324KB).
 
 5. MinLaw invites interested parties to provide views and feedback on the proposed reforms to Singapore’s bankruptcy regime. The consultation period is from 16 January 2015 to 24 February 2015. The feedback may be sent in electronic form or hard copy form to:
 
