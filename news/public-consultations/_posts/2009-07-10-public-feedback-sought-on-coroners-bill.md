@@ -40,7 +40,7 @@ Public Feedback Sought on Coroners Bill
 
 <b><u>Attachments</u></b>
 
-* [Consultation paper on draft Coroners Bill](/files/linkclick03d5.pdf/){:target="_blank"}
-* [Draft Coroners Bill](/files/linkclick8bfd.pdf/){:target="_blank"}
+* [Consultation paper on draft Coroners Bill](/files/linkclick03d5.pdf/){:target="_blank"}(22.4KB)
+* [Draft Coroners Bill](/files/linkclick8bfd.pdf/){:target="_blank"}(144KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
