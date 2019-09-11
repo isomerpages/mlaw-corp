@@ -73,7 +73,7 @@ Public Consultation on the Legal Profession (Amendment) Bill 2012
   E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-[Annex 1: Legal Profession (Amendment) BIll](/files/linkclick66ee.pdf/)
-[Annex 2: Legal Profession (Amendment) Bill Public Consultation Brief](/files/linkclickcbe5.pdf/)
+[Annex 1: Legal Profession (Amendment) BIll](/files/linkclick66ee.pdf/)(147KB)
+[Annex 2: Legal Profession (Amendment) Bill Public Consultation Brief](/files/linkclickcbe5.pdf/)(188KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
