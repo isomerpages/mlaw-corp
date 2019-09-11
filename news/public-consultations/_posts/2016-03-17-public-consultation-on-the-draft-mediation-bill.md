@@ -57,7 +57,7 @@ One criticism of mediation is that mediated settlements are only contractually e
 
 C. <u>Invitation for Feedback</u>
 
-11. MinLaw invites interested parties to provide their feedback on the proposed Bill.  The consultation period is from 17 March to 28 April 2016.  The public can view the draft Bill in the [Annex A](/files/AnnexA-MediationBill.pdf/). The feedback may be sent in electronic or hard copy form to the address below:
+11. MinLaw invites interested parties to provide their feedback on the proposed Bill.  The consultation period is from 17 March to 28 April 2016.  The public can view the draft Bill in the [Annex A](/files/AnnexA-MediationBill.pdf/)(49.2 KB). The feedback may be sent in electronic or hard copy form to the address below:
 
 <p class="address-centered">
 Legal Industry Division<br>
