@@ -9,9 +9,9 @@ collection_name: news
 Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act
 ---
 
-[Annex A - Index to the Proposed Legislative Changes to the CPC and the Evidence Act(PDF, 0.2MB)](/files/news/public-consultations/2017/07/AnnexA.pdf)  
-[Annex B - Table of Proposed Legislative Changes to the CPC and the Evidence Act(PDF, 0.3MB)](/files/news/public-consultations/2017/07/AnnexB.pdf)  
-[Annex C - Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(PDF, 0.1MB)](/files/news/public-consultations/2017/07/AnnexC.pdf)
+[Annex A - Index to the Proposed Legislative Changes to the CPC and the Evidence Act(0.2MB)](/files/news/public-consultations/2017/07/AnnexA.pdf)  
+[Annex B - Table of Proposed Legislative Changes to the CPC and the Evidence Act(0.3MB)](/files/news/public-consultations/2017/07/AnnexB.pdf)  
+[Annex C - Fact Sheet on the Key Proposed Changes to the CPC and the Evidence Act(0.1MB)](/files/news/public-consultations/2017/07/AnnexC.pdf)
 
 **Introduction**
 
