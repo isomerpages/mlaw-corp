@@ -16,8 +16,10 @@ Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam
 
 26 Nov 2008 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/visit-by-justice-steven-chong.jpg/"></div><br>
-<i>(L-R) Ms Valerie Thean, Director (Legal Policy Division), Minister Shanmugam, Dato Steven Chong and Datin Magdalene Chong.</i>
+<div class="image">
+  <img src="/images/visit-by-justice-steven-chong.jpg/">
+  <i>(L-R) Ms Valerie Thean, Director (Legal Policy Division), Minister Shanmugam, Dato Steven Chong and Datin Magdalene Chong.</i>
+</div><br>
 
 Minister for Law K Shanmugam met with Dato Paduka Steven Chong Wan Oon, a High Court Judge and Judicial Commissioner, and Solicitor-General Datin Magdalene Chong from Brunei Darussalam on 26 Nov 2008.
 
