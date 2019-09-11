@@ -31,7 +31,7 @@ Public Consultation on Proposed Amendments to the Companies Act in respect of Sh
 **Public Consultation**
 
 {:start="5"}
-5. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A](/files/Annex_A-Companies_Amendment_Bill_2018.pdf/){:target="_blank"}). The consultation period is from 23 May 2018 to 13 June 2018. All views may be sent in electronic form or hard copy form to the address below:
+5. The Ministry of Law invites interested parties to provide their views and feedback on the Companies (Amendment) Bill (see [Annex A](/files/Annex_A-Companies_Amendment_Bill_2018.pdf/){:target="_blank"}(74.4 KB)). The consultation period is from 23 May 2018 to 13 June 2018. All views may be sent in electronic form or hard copy form to the address below:
 
 <p class="address-centered">
   Ministry of Law<br>
