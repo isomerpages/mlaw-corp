@@ -16,8 +16,11 @@ Visit by delegation from Saudi Arabia
 
 5 Aug 2008 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/visit-by-delegation-from-saudi.jpg/"></div><br>
-<i>Minister Shanmugam receiving an official gift from Sheikh Saud Al Askar</i>
+<div class="image">
+  <img src="/images/visit-by-delegation-from-saudi.jpg/">
+  <i>Minister Shanmugam receiving an official gift from Sheikh Saud Al Askar</i>
+</div>
+
 
 Minister for Law K Shanmugam met with the Deputy Minister of the Saudi Ministry of Justice, Sheikh Saud Al Askar, at a courtesy call on 5 Aug 2008.
 
