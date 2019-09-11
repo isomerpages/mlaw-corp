@@ -20,7 +20,7 @@ Public Consultation on Proposed Amendments to the Companies Act to Strengthen Si
 
 3. In May 2015, building on the ILRC’s recommendations, the Minister for Law set up the Committee to Strengthen Singapore as an International Centre for Debt Restructuring (“Restructuring Committee”) to consider how to enhance Singapore’s effectiveness as a centre for international debt restructuring. After public consultation which lasted from April to May 2016, the Government broadly accepted the Restructuring Committee’s recommendations, which include proposed enhancements to our legal framework for restructuring.
 
-4. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, the Ministry of Law is taking a phased approach to implementation. The first phase will comprise legislative amendments which are key to enhancing Singapore’s corporate rescue and restructuring framework. The relevant provisions of the proposed Companies (Amendment) Bill is enclosed at [Annex A](/files/CAB.pdf/).
+4. In view of the complexity and volume of legislative amendments required to fully implement the relevant recommendations of both the ILRC and the Restructuring Committee, the Ministry of Law is taking a phased approach to implementation. The first phase will comprise legislative amendments which are key to enhancing Singapore’s corporate rescue and restructuring framework. The relevant provisions of the proposed Companies (Amendment) Bill is enclosed at [Annex A](/files/CAB.pdf/)(241KB).
 
 **Summary of Bill’s provisions**
 
