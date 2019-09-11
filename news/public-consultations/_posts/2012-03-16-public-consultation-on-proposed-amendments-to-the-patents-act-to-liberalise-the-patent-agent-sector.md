@@ -61,8 +61,8 @@ Public Consultation on Proposed Amendments to the Patents Act to Liberalise the 
   E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-* [Annex A: Public consultation brief](/files/linkclickf011.pdf/){:target="_blank"}
-* [Annex B: Draft legislative amendments to Patents Act](/files/linkclick5b20.pdf/){:target="_blank"}
+* [Annex A: Public consultation brief](/files/linkclickf011.pdf/){:target="_blank"}(29.3KB)
+* [Annex B: Draft legislative amendments to Patents Act](/files/linkclick5b20.pdf/){:target="_blank"}(59.6KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
 
