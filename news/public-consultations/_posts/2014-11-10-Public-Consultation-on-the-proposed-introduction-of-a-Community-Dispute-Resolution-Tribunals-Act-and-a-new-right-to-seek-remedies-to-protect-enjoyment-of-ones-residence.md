@@ -151,7 +151,8 @@ Singapore 179434<br>
 Fax: 6332 8842<br>  
 Email: <MLAW_Consultation@mlaw.gov.sg>
  </p>
-[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)  
+ 
+[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)
 [Annex B: Draft Civil Law (Amendment) Bill 2015 (0.09MB)](/files/news/public-consultations/2014/11/Annex B - Civil Law Amendment Bill for public consultation.pdf)
 
 
