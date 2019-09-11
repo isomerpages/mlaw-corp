@@ -5,12 +5,6 @@ permalink: /news/visits/visit-by-delegation-from-china-s-state-intellectual-prop
 breadcrumb: Visit by delegation from China's State Intellectual Property Office
 collection_name: news
 ---
-
-<style>
-.image {width: 600px;}
-.image img {max-width: 100%;}
-</style>
-
 Visit by delegation from China's State Intellectual Property Office
 ---
 
