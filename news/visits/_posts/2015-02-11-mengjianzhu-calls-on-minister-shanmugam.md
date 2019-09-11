@@ -16,8 +16,10 @@ Call on Minister for Law K Shanmugam by Communist Party of China Central Committ
 
 11 Feb 2015 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/1423711387305.jpg/"></div><br>
-Photo credit: Ministry of Foreign Affairs, Singapore
+<div class="image">
+  <img src="/images/1423711387305.jpg/">
+  Photo credit: Ministry of Foreign Affairs, Singapore
+  </div>
 
 Minister for Law Mr K. Shanmugam hosted lunch for Communist Party of China Political and Legal Affairs Commission Secretary Meng Jianzhu on 11 February 2015. During the meal, they discussed various aspects of governance and the legal system, including the role of the rule of law.
 
