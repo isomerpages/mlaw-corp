@@ -16,9 +16,11 @@ Dr Francis Gurry, Director-General, World Intellectual Property Organization, ca
 
 13 Jul 2012 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/Francis_Gurry_Sim_Ann.jpg/"></div><br>
-<i>WIPO Director-General, Dr Francis Gurry (3rd from left), with Ms Sim Ann (4th from left)
+<div class="image">
+  <img src="/images/Francis_Gurry_Sim_Ann.jpg/">
+  <i>WIPO Director-General, Dr Francis Gurry (3rd from left), with Ms Sim Ann (4th from left)
 as well as WIPO and Ministry of Law officials</i>
+</div>
 
 The Director-General of the World Intellectual Property Organization (WIPO), Dr Francis Gurry, called on Senior Parliamentary Secretary for Law, Ms Sim Ann, on 13 July 2012.  Ms Sim and Dr Gurry exchanged views about the recent amendments to IP-related legislation in Singapore and IP-related developments in the Asia-Pacific region, as well as avenues for greater cooperation between WIPO and Singapore.
 
