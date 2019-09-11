@@ -43,7 +43,7 @@ E-mail: MLAW_Consultation@mlaw.gov.sg
 
 <b><u>Attachments</u></b>
 
-* [Criminal Procedure Code Bill](/files/linkclickf8ea.pdf/){:target="_blank"}
-* [Criminal Procedure Code Consultation Paper](/files/linkclick15f8.pdf/){:target="_blank"}
+* [Criminal Procedure Code Bill](/files/linkclickf8ea.pdf/){:target="_blank"}(713KB)
+* [Criminal Procedure Code Consultation Paper](/files/linkclick15f8.pdf/){:target="_blank"}(93.9KB)
 
 <p class="right-side-updated">Last updated on 26 Sep 2013<p>
