@@ -16,7 +16,7 @@ Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamen
 
 2 May 2012 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/MyanmarVisit.jpg/"></div><br>
+<div class="image"><img src="/images/MyanmarVisit.jpg/"></div>
 
 Minister of Construction of the Union of Myanmar, His Excellency Khin Maung Myint, called on Senior Parliamentary Secretary for Law, Ms Sim Ann, on 2 May 2012.  His Excellency and Ms Sim discussed the role played by the Ministry of Law and Singapore Land Authority in Singapore’s land policy development. The call was followed by a briefing on land-related issues in Singapore. 
 
