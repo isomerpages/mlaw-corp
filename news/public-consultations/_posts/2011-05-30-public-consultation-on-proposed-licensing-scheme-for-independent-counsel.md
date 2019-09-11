@@ -28,7 +28,7 @@ Singapore’s steady growth as a major legal and financial centre has been accom
 
 <b>Attachments</b>
 
-* [Proposed scheme for Independent Counsel Consultation Paper](/files/linkclickaf3a.pdf/)  
+* [Proposed scheme for Independent Counsel Consultation Paper](/files/linkclickaf3a.pdf/)(52.6KB)  
 
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
