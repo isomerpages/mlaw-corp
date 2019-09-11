@@ -20,7 +20,7 @@ Proposal to introduce a new Moneylenders Bill 2008
 
 3. The SICC Committee submitted its report to the Ministry of Law (MinLaw) on 29 November 2013.
 
-4. The Government welcomes the recommendations made by the SICC Committee. MinLaw and the Supreme Court will carefully consider the recommendations as well as the issues raised within. The SICC Committee’s report can be found at [Annex A](/files/Annex-A-SICC-Committee-Report.pdf). MinLaw has also issued a press release, which may be found [here](/news/press-releases/government-welcomes-recommendation-to-establish-SICC).  
+4. The Government welcomes the recommendations made by the SICC Committee. MinLaw and the Supreme Court will carefully consider the recommendations as well as the issues raised within. The SICC Committee’s report can be found at [Annex A](/files/Annex-A-SICC-Committee-Report.pdf)(754KB). MinLaw has also issued a press release, which may be found [here](/news/press-releases/government-welcomes-recommendation-to-establish-SICC).  
 
 **Public Consultation**
 
@@ -37,6 +37,6 @@ Proposal to introduce a new Moneylenders Bill 2008
   Email: < a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-* [Annex A: SICC Committee Report](/files/Annex-A-SICC-Committee-Report.pdf/){:target="_blank"}
+* [Annex A: SICC Committee Report](/files/Annex-A-SICC-Committee-Report.pdf/){:target="_blank"}(754KB)
 
 <p class="right-side-updated">Last updated on 3 Dec 2013</p>
