@@ -16,8 +16,11 @@ Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
 
 17 Nov 2009 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/qatar-cj-al-ameri-and-sms.jpg/"></div><br>
-<i>Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri exchanging gifts with Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee</i>
+<div class="image">
+  <img src="/images/qatar-cj-al-ameri-and-sms.jpg/">
+  <i>Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri exchanging gifts with Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee</i>
+</div>
+
 
 Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee met with Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri on 17 Nov 2009 at a courtesy call where they discussed the role of mediation in Singapore, and the recent signing of a legal and judicial MOU between the Qatar Supreme Judiciary Council and the Supreme Court of Singapore.
 
