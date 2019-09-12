@@ -28,7 +28,7 @@ permalink: /news/press-releases/46-States-Signed-New-International-Treaty-on-Med
 **<u>Annex A - List of Countries </u>**
 
 
-<table role="presentation" class="table-h">
+<table class="table-h">
   <tr>
    <td>1.      Afghanistan*
    <br>
