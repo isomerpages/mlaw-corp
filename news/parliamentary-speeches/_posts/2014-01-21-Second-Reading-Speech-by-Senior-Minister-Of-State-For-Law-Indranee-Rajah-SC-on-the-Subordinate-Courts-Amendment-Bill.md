@@ -243,7 +243,7 @@ Madam Speaker,
 <p id="translation"><i>Note : Please refer to translation of key terms below</i></p>  
 <table class="table-h">
 <tr>
-<td>Chinese</td>
+<td role="rowheader">Chinese</td>
 <td>
 State Courts<strong> 国家法院</strong> 
 <br>
@@ -251,7 +251,7 @@ Presiding Judge of the State Courts<strong> 国家法院首席法官</strong>
 </td>
 </tr>
 <tr>
-<td>Malay</td>
+<td role="rowheader">Malay</td>
 <td>State Courts –<strong> Mahkamah Negara</strong>
 <br>
 Presiding Judge of the State Courts – <strong>Ketua Hakim Mahkamah Negara</strong> 
@@ -259,7 +259,7 @@ Presiding Judge of the State Courts – <strong>Ketua Hakim Mahkamah Negara</str
 </tr>
 
 <tr>
-<td>Tamil</td>
+<td role="rowheader">Tamil</td>
 <td><strong>State Courts</strong> – அரசு நீத 
 <br>
 மன்றங்கள் (Arasu Neethimandrangal)
