@@ -40,7 +40,6 @@ custom_css_path: "/misc/custom.css"
 include: 
     - _redirects
 
-
 baseurl: ""
 collections:
   who-we-are:
