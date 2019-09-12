@@ -29,6 +29,9 @@ permalink: /news/press-releases/46-States-Signed-New-International-Treaty-on-Med
 
 
 <table class="table-h">
+ <tr>
+  <th colspan="2" scope="col">List of Countries</th>
+  </tr>
   <tr>
    <td>1.      Afghanistan*
    <br>
