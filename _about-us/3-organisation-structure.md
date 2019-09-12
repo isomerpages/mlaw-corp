@@ -9,7 +9,7 @@ collection_name: about-us
 Organisation Structure
 ---
 
-Click image below to enlarge<br>
+Click image below to enlarge
 <div class="image">
   <a href="/files/MinLaw_Org_Structure_May_19.pdf">
     <br><img src="/images/1557104237572.png">
