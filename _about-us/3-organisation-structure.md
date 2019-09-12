@@ -12,7 +12,7 @@ Organisation Structure
 Click image below to enlarge<br>
 <div class="image">
   <a href="/files/MinLaw_Org_Structure_May_19.pdf">
-    <img src="/images/1557104237572.png">
+    <br><img src="/images/1557104237572.png">
   </a>
 </div>
 
