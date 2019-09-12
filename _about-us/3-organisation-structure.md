@@ -6,7 +6,7 @@ breadcrumb: Organisation Structure
 collection_name: about-us
 ---
 
-Organisation Structure
+Organisation Structures
 ---
 
 Click image below to enlarge
