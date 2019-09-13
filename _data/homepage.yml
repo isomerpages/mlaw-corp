@@ -22,7 +22,7 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-us/ourvision-mission-corevalues/
 
 key-highlights:
   - title: Who we are
