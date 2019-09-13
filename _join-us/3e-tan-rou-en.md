@@ -71,3 +71,5 @@ She says: “You have to listen to every story with an open mind. Behind every l
 
 
 *Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.*
+
+<p class="right-side-updated">Last updated on 05 July 2016</p> 
