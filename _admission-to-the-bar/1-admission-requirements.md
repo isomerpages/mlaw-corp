@@ -22,3 +22,6 @@ Individuals who wish to be admitted to the Singapore Bar must:
 	* You have satisfactorily served the [practice training period](http://www.sile.edu.sg/admission-requirements/practice-training-period){:target="_blank"} applicable to you (please refer to Rules 14-23 of the [Legal Profession (Admission) Rules 2011](/admission-to-the-bar/admission-requirements/relevant-legislation//admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"});
 	* You have attended and satisfactorily completed such [courses of instruction](http://www.sile.edu.sg/part-b){:target="_blank"} as the Board of Directors of the Singapore Institute of Legal Education (SILE) may prescribe under section 10 (please refer to Rule 3 of the [Legal Profession (Admission) Rules](/admission-to-the-bar/admission-requirements/relevant-legislation/){:target="_blank"}); and
 	* You have passed such [examinations](http://www.sile.edu.sg/part-b){:target="_blank"} as the Board of Directors of the Institute SILE may prescribe under section 10 (please refer to Rules 4 and 5 of the [Legal Profession (Admission) Rules 2011](#){:target="_blank"}).
+
+
+<p class="right-side-updated">Last updated on 30 Aug 2018</p> 
