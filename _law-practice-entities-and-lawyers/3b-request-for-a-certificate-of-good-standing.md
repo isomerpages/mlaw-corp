@@ -37,3 +37,6 @@ To request a Certificate of Good Standing from LSRA, the foreign lawyer or law p
 Requests for Certificates of Good Standing may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. After we have processed your request, we will contact you with instructions to pay the fee of SGD150.00.
 
 Please also note that the LSRA only issues electronic Certificates of Good Standing. 
+
+
+<p class="right-side-updated">Last updated on 11 Aug 2017</p> 
