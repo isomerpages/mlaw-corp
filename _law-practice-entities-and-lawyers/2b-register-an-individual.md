@@ -145,3 +145,6 @@ To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profes
     </td>
   </tr>
 </table>
+
+
+<p class="right-side-updated">Last updated on 03 Sep 2018</p> 
