@@ -38,3 +38,5 @@ Meet Our Interns
  <b>
   <i>"My internship with the Ministry of Law has been enjoyable, novel and meaningful. I felt welcomed by my colleagues, who were supportive and concerned with my well-being. Additionally, they were enthusiastic about their work, and shared their passion with me by assigning me interesting projects that one might not encounter in private practice. I felt that my work has made a difference to Singapore’s legal landscape and I am more aware of the mechanisms behind Singapore’s legislation."</i>
 </b>
+
+<p class="right-side-updated">Last updated on 14 Aug 2017</p> 
