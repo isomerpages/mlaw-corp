@@ -131,3 +131,6 @@ To renew the Certificate of Registration ("CoR") of a lawyer registered under Se
     </td>
   </tr>
 </table>
+
+
+<p class="right-side-updated">Last updated on 07 Jul 2017</p> 
