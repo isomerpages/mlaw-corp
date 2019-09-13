@@ -36,3 +36,5 @@ Useful Templates
 The date of issue of the Certificate of Good Character should be no earlier than 3 months prior to the submission date of the application.</td>
 </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 20 Sep 2017</p> 
