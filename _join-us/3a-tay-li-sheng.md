@@ -50,3 +50,5 @@ She also anticipates that the public sector, as an employer, would be more porou
 Having come this far, her family’s view of her career has changed. Ms Tay says: “Having journeyed with me through my career in the service, they are now proud of what I do.”
 
 *Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.*
+
+<p class="right-side-updated">Last updated on 23 Feb 2016</p> 
