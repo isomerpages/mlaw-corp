@@ -95,3 +95,5 @@ Law practice entities should submit an application via LSRA e-Services to:
     <td><ul><li>Nil.</li></ul></td>
   </tr>
 </table>
+
+<p class="right-side-updated">Last updated on 28 Apr 2017</p> 
