@@ -113,3 +113,6 @@ For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/
     </td>
   </tr>
 </table>
+
+
+<p class="right-side-updated">Last updated on 07 Jul 2017</p> 
