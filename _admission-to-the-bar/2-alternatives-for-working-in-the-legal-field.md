@@ -36,4 +36,4 @@ If you are not eligible for admission to the Singapore Bar, you may wish to try 
 
 Please note that each application for an exemption will be considered on its individual merits and may be granted subject to conditions. The onus is on the applicant to make a strong case for the exemption sought.
 
- 
+<p class="right-side-updated">Last updated on 17 Jul 2018</p> 
