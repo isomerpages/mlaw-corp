@@ -69,3 +69,5 @@ Please note:
 * Where your application was unsuccessful, please note that repeat applications on the same facts are unlikely to produce a different result. You should consider re-applying only if there are new material facts or circumstances that demonstrate a stronger case for the particular exemption sought. 
 
 * Please note that we receive a high volume of queries and it can take up to 14 working days (about 3 weeks) for us to reply to enquiries on applications. We will contact you if we require any further information or clarification. We will inform you of our decision by email in due course.
+
+<p class="right-side-updated">Last updated on 06 Jun 2018</p> 
