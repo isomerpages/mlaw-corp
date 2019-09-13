@@ -72,3 +72,5 @@ Her advice to other non-degree holders who are heading out into the working worl
 This is the final part in a four-part collaboration between the Public Service Division and TODAY.
 
 *Copyright 2016 Mediacorp Press Ltd. Article first appeared in TODAY.*
+
+<p class="right-side-updated">Last updated on 23 Feb 2016</p> 
