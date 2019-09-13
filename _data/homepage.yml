@@ -36,6 +36,7 @@ key-highlights:
   - title: Join Us
     description: One family, diverse opportunities
     url: /join-us/why-join-minlaw/
+    external: true
 
 resources-title: Resources
 resources-subtitle: Be in the know
