@@ -38,3 +38,6 @@ One of her applicants was able to recover her ability to sleep well only after t
 “These things make me feel like this job is worthwhile because we’re giving them so much more than just a legal solution, we’re giving them peace of mind,” adds Ms Gan.
 
 *Article credit: Challenge magazine (May 2015) © 2016 Public Service Division, Prime Minister’s Office*
+
+
+<p class="right-side-updated">Last updated on 17 Mar 2016</p> 
