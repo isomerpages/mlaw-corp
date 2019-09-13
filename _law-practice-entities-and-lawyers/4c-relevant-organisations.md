@@ -57,3 +57,5 @@ Other relevant organisations:<br>
 * [Ministry of Manpower](https://www.mom.gov.sg/){:target="_blank"}
 * [Singapore Academy of Law](https://www.sal.org.sg/default.aspx#){:target="_blank"}
 * [Singapore Institute of Legal Education](http://www.sile.edu.sg/index.php){:target="_blank"}
+
+<p class="right-side-updated">Last updated on 18 Nov 2015</p> 
