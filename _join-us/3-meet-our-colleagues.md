@@ -45,3 +45,5 @@ Meet Our Colleagues
 <b>
   <i>"While emotionally draining at times, Ms Tan Rou’en finds fulfilment in her job at the Legal Aid Bureau."</i>
 </b>
+
+<p class="right-side-updated">Last updated on 29 Jul 2016</p> 
