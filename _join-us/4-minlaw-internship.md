@@ -90,3 +90,5 @@ Successful candidates will be assigned to one of the preferred divisions and tak
 Please submit your application via the [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=ministry%20of%20law&job-mail-subscribe-privacy=agree){:target="_blank"} portal. Alternatively, you may write-in to <a href="mailto:recruitment@mlaw.gov.sg">Human Resource Department</a> along with a cover letter indicating your preferred division(s).
  
 Please [click here](/join-us/meet-our-interns/) to read more about what our interns have to say!
+
+<p class="right-side-updated">Last updated on 11 Aug 2017</p> 
