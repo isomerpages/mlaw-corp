@@ -58,3 +58,5 @@ Structured development opportunities have been beneficial as well. For example, 
 “The exposure is important in our learning as it is a means to obtain new insights and perspectives for our career growth and development.” She says: “Seeing the effort put into the work we do translate into results, which can come in the number of discharges from bankruptcy or words of appreciation from our colleagues and even from the public, gives me job satisfaction.”
 
 *Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.*
+
+<p class="right-side-updated">Last updated on 23 Feb 2016</p> 
