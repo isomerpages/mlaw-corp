@@ -86,3 +86,5 @@ The documents required to be submitted as part of an application for exemption c
   <li>Reference(s) from your employer(s) in relation to your legal skills and experience (preferably including one from your current employer).</li>
   <li>Certified English translation of documents enclosed which are not in English.</li>
 </ol>
+
+<p class="right-side-updated">Last updated on 06 Jun 2018</p> 
