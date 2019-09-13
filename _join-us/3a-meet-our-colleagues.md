@@ -3,7 +3,8 @@ layout: leftnav-page-content
 title: Meet Our Colleagues
 permalink: /join-us/meet-our-colleagues/
 breadcrumb: Meet Our Colleagues
-collection_name: join-us
+collection_name: join-us 
+second_nav_title: Meet Our Colleagues
 ---
 
 <style>
