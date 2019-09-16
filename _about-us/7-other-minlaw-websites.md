@@ -17,9 +17,9 @@ Other MinLaw Websites
 
 [Land Surveyors Board](https://lsb.mlaw.gov.sg/){:target="_blank"}
 
-[Intellectual Property Office of Singapore](https://ipos.mlaw.gov.sg/){:target="_blank"}
+[Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"}
 
-[Singapore Land Authority](https://acd.mlaw.gov.sg/){:target="_blank"}
+[Singapore Land Authority](https://www1.sla.gov.sg/){:target="_blank"}
 
 [Insolvency Office](https://io.mlaw.gov.sg/){:target="_blank"}
 
