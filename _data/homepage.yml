@@ -25,20 +25,20 @@ button:
     url: /about-us/ourvision-mission-corevalues/
 
 key-highlights:
-  - title: Who we are
+  - title: What we do
     description: Stat Boards and Departments
-    url: /about-us/what-we-do/legal-group/
+    url: /about-us/what-we-do
     external: true
   - title: The Singapore Convention
     description: A new Un treaty on Mediation
     url: https://www.singaporeconvention.org/
     external: true
-  - title: Join Us
-    description: One family, diverse opportunities
-    url: /join-us/why-join-minlaw/
+  - title: Contact Us
+    description: 
+    url: /about-us/contact-us/
     external: true
 
-resources-title: Resources
-resources-subtitle: Be in the know
+resources-title: Top Stories
+resources-subtitle: News and Information
 resources-more-button: More Resources
 resources-more-button-url: /news/
