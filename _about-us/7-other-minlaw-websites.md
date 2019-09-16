@@ -29,6 +29,6 @@ Other MinLaw Websites
 
 [Registry of Pawnbrokers](https://rop.mlaw.gov.sg/){:target="_blank"}
 
-[Legal Services Regulatory Authority](https://lsra.mlaw.gov.sg/){:target="_blank"}
+[Legal Services Regulatory Authority](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/){:target="_blank"}
 
 [Anti-Money Laundering/ Countering the Financing of Terrorism Division](https://acd.mlaw.gov.sg/){:target="_blank"}
