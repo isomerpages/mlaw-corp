@@ -17,6 +17,6 @@ Registry of Pawnbrokers
 
 <div class="image"><img src="/images/1422440196035.jpg/"></div>
 
-The Registry of Pawnbrokers oversees the registration and regulation of pawnbrokers in Singapore. For more information on the Registry of Pawnbrokers, please click [here](https://mlaw-rop-staging.netlify.com/).
+The Registry of Pawnbrokers oversees the registration and regulation of pawnbrokers in Singapore. For more information on the Registry of Pawnbrokers, please click [here](https://rop.mlaw.gov.sg/).
 
 <p class="right-side-updated">Last updated on 28 Jan 2015</p>
