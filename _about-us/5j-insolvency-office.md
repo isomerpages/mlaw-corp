@@ -21,6 +21,6 @@ The Official Assignee administers the affairs of bankrupts and the Official Rece
 
 To promote enterprise and entrepreneurship, Singapore’s debt recovery system strikes a balance between meeting the interests of creditors and providing fresh starts for debtors.
 
-There are also alternative schemes for financially-distressed individuals to repay their debts to creditors, and to avoid the social stigma attached to bankruptcy. For more information on the Insolvency Office, please click [here](https://mlaw-io-staging.netlify.com/).
+There are also alternative schemes for financially-distressed individuals to repay their debts to creditors, and to avoid the social stigma attached to bankruptcy. For more information on the Insolvency Office, please click [here](https://io.mlaw.gov.sg/).
 
 <p class="right-side-updated">Last updated on 28 Jan 2015</p>
