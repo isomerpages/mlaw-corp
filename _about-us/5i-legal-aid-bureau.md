@@ -17,7 +17,7 @@ Legal Aid Bureau
 
 <div class="image"><img src="/images/DSC_6989.jpg/"></div>
 
-The [Legal Aid Bureau](https://mlaw-lab-staging.netlify.com/) ensures equal access to justice to persons of limited means, by providing them legal aid, including representing them in court. An applicant must meet the means and merits tests to qualify for legal aid. The Bureau only provides legal aid for civil matters which are handled by in-house lawyers and assigned volunteer lawyers.
+The [Legal Aid Bureau](https://lab.mlaw.gov.sg/) ensures equal access to justice to persons of limited means, by providing them legal aid, including representing them in court. An applicant must meet the means and merits tests to qualify for legal aid. The Bureau only provides legal aid for civil matters which are handled by in-house lawyers and assigned volunteer lawyers.
 
 Persons seeking legal assistance in criminal cases may approach the Law Society of Singapore for its Criminal Legal Aid Scheme.
 
