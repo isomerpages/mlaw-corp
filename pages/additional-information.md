@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Additional Information
-permalink: /additional-information/
-breadcrumb: What We Do
+permalink: /about-us/what-we-do/additional-information/
+breadcrumb: Additional Information
+second_nav_title: What We Do
 ---
 
 Additional information
