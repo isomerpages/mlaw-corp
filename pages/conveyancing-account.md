@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Conveyancing Account
-permalink: /conveyancing-account/
-breadcrumb: What We Do
+permalink: /about-us/what-we-do/conveyancing-account/
+breadcrumb: Conveyancing Account
+second_nav_title: What We Do
 ---
 
 Conveyancing Accounts / Conveyancing (CPF) Accounts
