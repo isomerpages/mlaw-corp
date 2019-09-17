@@ -12,7 +12,7 @@ Law firms can download and pre-fill the relevant Microsoft Word forms for the op
 
 <b><u>Note</u></b>: The latest version of the manual form (Version 4.0) has been updated as at 12 July 2017. Lawyers are encouraged to switch to the new version of the forms and phase out old version of the forms, even though the obsolete manual forms will continue to be acceptable for submission to Appointed Entities.
 
-1. <a href="/files/Pay-In-Form.doc/" target="blank">Pay-In Form (74KB)</a> <i>[Version 4.0]</i><br>
+1. <a href="/files/Pay-In-Form.doc/" target="blank">Pay-In Form (DOC,74KB)</a> <i>[Version 4.0]</i><br>
 This form is to be submitted concurrently with any payment of funds made into a Conveyancing Account.
  
 2. <a href="/files/Variation-Pay-in-Form.doc/" target="blank">Variation Pay-In Form (74KB)</a> <i>[Version 4.0]</i><br>
