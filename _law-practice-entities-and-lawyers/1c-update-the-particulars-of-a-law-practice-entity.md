@@ -14,11 +14,11 @@ table tr td ul li {font-size: 1rem;}
 Update the Particulars of a Law Practice Entity
 ---
 
-To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Qualifying Foreign Law Practice ("QFLP"), Joint Law Venture ("JLV"), Formal Law Alliance ("FLA"), Group Practice ("GP") or Representative Office ("RO"), please follow the steps below. 
+<p style="justify-content: justify">To update the particulars of an existing Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Qualifying Foreign Law Practice ("QFLP"), Joint Law Venture ("JLV"), Formal Law Alliance ("FLA"), Group Practice ("GP") or Representative Office ("RO"), please follow the steps below.</p>
 
-**You may also wish to refer to the [User Guide](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) for step-by-step instructions on how to submit an application via LSRA e-Services.**
+<p style="justify-content: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-**For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx){:target="_blank"}.**
+<p style="justify-content: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
 <table>
   <tr>
