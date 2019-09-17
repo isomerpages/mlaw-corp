@@ -25,7 +25,6 @@ The Ministry of Law Services Centre can be reached at:
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
-Email: <OneMinLaw@mlaw.gov.sg><br>
 
 For more information on the Community Legal Services Group and the services available at the Ministry of Law Services Centre, please click on the following links:
 
