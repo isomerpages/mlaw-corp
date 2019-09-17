@@ -39,7 +39,7 @@ MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and
 **Related Links**
 <ul>
   <li>
-    <a href="/about-us/what-we-do/legal-group/conveyancing/">Conveyancing</a>
+    <a href="/about-us/what-we-do/conveyancing/">Conveyancing</a>
   </li>
   <ul>
     <li>
