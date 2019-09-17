@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Legal Group
+title: Legal Policy Group
 permalink: /about-us/what-we-do/legal-group/
-breadcrumb: Legal Group
+breadcrumb: Legal Policy Group
 collection_name: about-us
 second_nav_title: What We Do
 ---
@@ -12,7 +12,7 @@ second_nav_title: What We Do
   .image img {max-width: 100%;}
 </style>
 
-Legal Group
+Legal Policy Group
 ---
 
 <div class="image">
@@ -21,13 +21,11 @@ Legal Group
 
 MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
 
-The Legal Group, comprising the Legal Policy Division, International Legal Division and Policy Advisory Division, regularly reviews laws, proposes law reforms, and pursues new initiatives to strengthen the legal infrastructure. Such work covers a wide spectrum ranging from domestic civil law and criminal law, to public international law. 
+The Legal Policy Group, comprising the Civil and Legislative Policy Division and the Criminal Policy Division, regularly reviews laws, proposes reforms, to civil, family, community-related and criminal related laws, and pursues new initiatives to strengthen the legal infrastructure. Under the Criminal Policy Division, The Criminology Unit conducts emprical criminalogy research.
 
-Some of MinLaw’s recent law reform projects include the [mandatory death penalty reforms](/news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code), amendments to the [Criminal Procedure Code 2010](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-criminal-procedure-code-bill), the [International Arbitration Act](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill) and the [Civil Law Act](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-civil-law-amendment-bill). MinLaw has also introduced new measures to [safeguard conveyancing money](/conveyancing/).
+Some of MinLaw’s recent law reform projects include the [mandatory death penalty reforms](/news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code), amendments to the [Criminal Procedure Code 2010](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-criminal-procedure-code-bill), and the [Civil Law Act](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-civil-law-amendment-bill). MinLaw has also introduced new measures to [safeguard conveyancing money](/conveyancing/).
 
 MinLaw vets all Government Bills to ensure that they reflect sound legal policy principles and are consistent with Singapore’s Constitution. MinLaw also plays a pivotal role in inter-ministry efforts in public policy formulation, particularly where legal policy considerations have a dominant role, and in matters relating to international law.
-
-On the international front, MinLaw seeks to promote and protect Singapore’s interests through cooperation and engagement with key international and regional organisations, and bilateral partners on transnational criminal and civil justice issues. As part of this function, MinLaw formulates and implements Singapore’s strategic policies on international legal assistance in criminal and civil matters. In this regard, MinLaw is the government agency responsible for the policy on extradition and mutual legal assistance matters, on which we work closely with the [Attorney-General’s Chambers](https://www.agc.gov.sg/) (AGC), Singapore’s central authority for such matters.
 
 MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and State Courts, which adjudicate on matters brought before the Courts. MinLaw is also separate from AGC. The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
 
