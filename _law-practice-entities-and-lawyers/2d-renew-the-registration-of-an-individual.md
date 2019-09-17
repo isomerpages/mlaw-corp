@@ -14,12 +14,11 @@ table tr td ul li {font-size: 1rem;}
 Renew the Registration of an Individual
 ---
 
-<p style="text-align: justify">To renew the Certificate of Registration ("CoR") of a lawyer registered under Section 36B, 36C, 36D, 36E or 36F of the Legal Profession Act or a regulated non-practitioner registered under Section 36G of the Legal Profession Act, please follow the steps below.</p>
+<p style="text-align: justify">To register a lawyer under Section 36B, 36C, 36D, 36E or 36F of the Legal Profession Act or a regulated non-practitioner under Section 36G of the Legal Profession Act, please follow the steps below.</p>
 
-<p style="text-align: justify">You may also wish to refer to the [User Guide](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/){:target="_blank"} for step-by-step instructions on how to submit an application via LSRA e-Services.</p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-<p style="text-align: justify">For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a>{:target="_blank"}.</p>
-
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
 <table>
   <tr>
