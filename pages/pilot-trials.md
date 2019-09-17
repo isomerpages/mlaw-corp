@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Pilot Trials
-permalink: /pilot-trials/
-breadcrumb: What We Do
+permalink: Previous amendments/pilot-trials/
+breadcrumb: Pilot Trials
+second_nav_title: What We Do
 ---
 
 Pilot trials
