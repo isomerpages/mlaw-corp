@@ -29,7 +29,7 @@ MinLaw vets all Government Bills to ensure that they reflect sound legal policy 
 
 On the international front, MinLaw seeks to promote and protect Singapore’s interests through cooperation and engagement with key international and regional organisations, and bilateral partners on transnational criminal and civil justice issues. As part of this function, MinLaw formulates and implements Singapore’s strategic policies on international legal assistance in criminal and civil matters. In this regard, MinLaw is the government agency responsible for the policy on extradition and mutual legal assistance matters, on which we work closely with the [Attorney-General’s Chambers](https://www.agc.gov.sg/) (AGC), Singapore’s central authority for such matters.
 
-MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and Subordinate Courts, which adjudicate on matters brought before the Courts. MinLaw is also separate from AGC. The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
+MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and State Courts, which adjudicate on matters brought before the Courts. MinLaw is also separate from AGC. The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
 
 **Video: Legal Group and Legal Industry Division**
 
