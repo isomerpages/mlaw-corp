@@ -36,7 +36,7 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   <li style="text-align: justify"><b>Terminate the appointment or interests held by any of the above individuals.</b></li>
 </ul>
 
-<p style="text-align: justify"><b>Please also refer to the [User Guide](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) for a detailed step-by-step procedure.</b></p>
+<p style="text-align: justify"><b>Please also refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for a detailed step-by-step procedure.</b></p>
 
 <table>
   <tr>
