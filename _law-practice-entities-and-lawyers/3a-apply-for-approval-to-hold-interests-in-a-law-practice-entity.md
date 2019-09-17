@@ -11,10 +11,10 @@ second_nav_title: Other Services
 table tr td ul li {font-size: 1rem;}
 </style>
 
-Apply for Approval to Hold Interests in a Law Practice Entity
+<p style="text-align: justify">Apply for Approval to Hold Interests in a Law Practice Entity
 ---
 
-Law practice entities should submit an application via LSRA e-Services to:
+<p style="text-align: justify">Law practice entities should submit an application via LSRA e-Services to:
 
 <ul>
   <li><b>Apply for approval for a foreign lawyer registered under Section 36B, 36C or 36D of the Legal Profession Act (Cap. 161)  to hold or change the interests they hold in a Singapore Law Practice (“SLP”).</b>
