@@ -58,7 +58,9 @@ However, please note that exemptions from Part B and the practice training perio
 
 All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.
 
-[Application for Exemption Form](https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx)
+<div class="image" style="justify-content: center">
+  <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx"><img src="/images/1520231210724.png" alt="Application for Exemption Form"></a>
+</div>
 
 Please note:
 
