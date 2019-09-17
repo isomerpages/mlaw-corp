@@ -5,6 +5,12 @@ permalink: /admission-to-the-bar/applications-to-the-minister-for-law-for-exempt
 breadcrumb: Applications to the Minister for Law for Exemption
 collection_name: admission-to-the-bar
 ---
+
+<style>
+.image {width: 400px;}
+.image a img (max-width: 100%;)
+</style>
+
 Applications to the Minister for Law for Exemption
 ---
 
@@ -59,7 +65,9 @@ However, please note that exemptions from Part B and the practice training perio
 All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.
 
 <div class="image" style="justify-content: center">
-  <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx"><img src="/images/1520231210724.png" alt="Application for Exemption Form"></a>
+  <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx">
+    <img src="/images/1520231210724.png" alt="Application for Exemption Form">
+  </a>
 </div>
 
 Please note:
