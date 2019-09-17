@@ -14,20 +14,20 @@ table tr td ul li {font-size: 1rem;}
 Approval to Share Premises
 ---
 
-A law practice that wishes to share, occupy or use premises jointly with another law practice, or an entity that is not a law practice, must ensure that it:
+<p style="text-align: justify">A law practice that wishes to share, occupy or use premises jointly with another law practice, or an entity that is not a law practice, must ensure that it:
 
 * Preserves its professional independence, by keeping itself separate and distinct from the other entity;
 * Is clearly identified as separate and distinct from the other entity;  
 * Safeguards its clients’ confidential information by preventing unauthorised access by the other entity; and
 * Complies with the rules governing law practices as set out in the [Legal Profession Act and its subsidiary legislation](/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/){:target="_blank"}.
 
-This webpage sets out common scenarios where the prior approval in writing of the Director of Legal Services is required and/or where an update application to LSRA needs to be submitted.  This guide is not intended to be legal advice and should not be relied on as such.  It also does not purport to be complete or up to date.  Law practices remain responsible for their own compliance.
+<p style="text-align: justify">This webpage sets out common scenarios where the prior approval in writing of the Director of Legal Services is required and/or where an update application to LSRA needs to be submitted.  This guide is not intended to be legal advice and should not be relied on as such.  It also does not purport to be complete or up to date.  Law practices remain responsible for their own compliance.
 
 <b><u>Where Approval is Required</u></b>
 
-The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the [Legal Profession (Law Practice Entities) Rules 2015](/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/){:target="_blank"}.
+<p style="text-align: justify">The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the [Legal Profession (Law Practice Entities) Rules 2015](/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/){:target="_blank"}.
 
-(For a description of each law practice entity type, please refer to this [webpage](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/).)
+<p style="text-align: justify">(For a description of each law practice entity type, please refer to this [webpage](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/).)
 
 <table>
   <tr>
@@ -70,11 +70,11 @@ The prior approval in writing of the Director of Legal Services is required if c
 
 (<sup>*</sup> A legal practitioner who holds or intends to hold an executive appointment in an entity that is not a law practice should also refer to rule 34(4) of the Legal Profession (Professional Conduct) Rules 2015, read with the Second Schedule of the said Rules, in particular paragraph 8.)
 
-To apply for approval to share premises, Entity 1 should submit an [update](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/) application via [LSRA e-Services](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/), providing details of the arrangement in the “Sharing of Premises” section of the online form.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a [new law practice licence](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/){:target="_blank"}.
+<p style="text-align: justify">To apply for approval to share premises, Entity 1 should submit an <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">update</a> application via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">LSRA e-Services</a>, providing details of the arrangement in the “Sharing of Premises” section of the online form.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/">new law practice licence</a>{:target="_blank"}.
 
-If the application is approved, Entity 2, if it is a law practice, will also need to submit an application via [LSRA e-Services](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) to [update](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/) the “Sharing of Premises” section in its own licence record.
+<p style="text-align: justify">If the application is approved, Entity 2, if it is a law practice, will also need to submit an application via <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">LSRA e-Services</a> to <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">update</a> the “Sharing of Premises” section in its own licence record.
 
-The list of supporting documents required as part of the application can be found in the online form, and include the following:
+<p style="text-align: justify">The list of supporting documents required as part of the application can be found in the online form, and include the following:
 
 * An undertaking from the applicant law practice to restrict access to, and maintain the confidentiality of, client files and information;
 * Written confirmation from the other entity recognising the obligations of the applicant law practice; and
@@ -82,9 +82,9 @@ The list of supporting documents required as part of the application can be foun
 
 **Where an Update is Required**
 
-The approval of the Director of Legal Services is not required if the entities below wish to share, occupy or use premises jointly.
+<p style="text-align: justify">The approval of the Director of Legal Services is not required if the entities below wish to share, occupy or use premises jointly.
 
-However, each law practice should still submit an application via [LSRA e-Services](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) to [update](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/) the “Sharing of Premises” section in its licence record.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a [law practice licence](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/).
+<p style="text-align: justify">However, each law practice should still submit an application via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">LSRA e-Services</a> to <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">update</a> the “Sharing of Premises” section in its licence record.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/">law practice licence</a>. 
 
 <table>
   <tr>
