@@ -14,11 +14,11 @@ table tr td ul li {font-size: 1rem;}
 Terminate the Licence or Registration of a Law Practice Entity
 ---
 
-To terminate the licence of a Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Qualifying Foreign Law Practice ("QFLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or the registration of a Group Practice ("GP") or Representative Office ("RO"), please follow the steps below. 
+<p style="text-align: justify">To terminate the licence of a Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Qualifying Foreign Law Practice ("QFLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or the registration of a Group Practice ("GP") or Representative Office ("RO"), please follow the steps below. 
 
-**You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.**
+<p style="text-align: justify">**You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.**
 
-**For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a> {:target="_blank"}.**
+<p style="text-align: justify">**For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a> {:target="_blank"}.**
 
 <table>
   <tr>
