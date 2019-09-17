@@ -13,7 +13,7 @@ table tr td ul li {font-size: 1rem;}
 Incentive Schemes
 ---
 
-<table>
+<table style="text-align: justify">
   <tr>
     <td>
       <b>Incentive schemes</b>
@@ -33,7 +33,7 @@ Incentive Schemes
 Exemption Schemes
 ---
 
-<table>
+<table style="text-align: justify">
   <tr>
     <td>
       <b>Tax Exemption for Non-Resident Arbitrators</b>
