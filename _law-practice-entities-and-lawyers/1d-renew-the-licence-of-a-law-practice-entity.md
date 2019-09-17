@@ -14,11 +14,11 @@ table tr td ul li {font-size: 1rem;}
 Update the Particulars of a Law Practice Entity
 ---
 
-To renew the licence of a Foreign Law Practice ("FLP") issued a term licence, please follow the steps below. 
+<p style="text-align: justify">To renew the licence of a Foreign Law Practice ("FLP") issued a term licence, please follow the steps below.</p>
 
-**You may also wish to refer to the [User Guide](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/) for step-by-step instructions on how to submit an application via LSRA e-Services.**
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-**For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx){:target="_blank"}.**
+<p style="text-align: justify"><b>For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx){:target="_blank"}.</b></p>
 
 <table>
   <tr>
