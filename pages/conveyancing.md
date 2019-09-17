@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Conveyancing
-permalink: /conveyancing/
+permalink: /about-us/what-we-do/conveyancing/
 breadcrumb: What We Do
+second_nav_title: What We Do
 ---
 
 Conveyancing
