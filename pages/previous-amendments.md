@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Previous amendments to the Conveyancing and Law of Property (Conveyancing) Rules
-permalink: /previous-amendments/
-breadcrumb: What We Do
+permalink: /about-us/what-we-do/previous-amendments/
+breadcrumb: Previous Amendments
+second_nav_title: What We Do
 ---
 
 Previous amendments to the Conveyancing and Law of Property (Conveyancing) Rules
