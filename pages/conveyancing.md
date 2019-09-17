@@ -28,18 +28,18 @@ An overview of the amendments is outlined in the "[Brief Overview of the Conveya
 
 <ul>
     <li>
-      <a href="/conveyancing-account/" target="_blank">Conveyance accounts</a>
+      <a href="/conveyancing-account/">Conveyance accounts</a>
     </li>
     <li>
-      <a href="/previous-amendments/" target="_blank">Previous amendments</a>
+      <a href="/previous-amendments/">Previous amendments</a>
     </li>
     <li>
-      <a href="/pilot-trials/" target="_blank">Pilot trials</a>
+      <a href="/pilot-trials/">Pilot trials</a>
     </li>
     <li>
-      <a href="/applicable-legislation/" target="_blank">Applicable legislation</a>
+      <a href="/applicable-legislation/">Applicable legislation</a>
     </li>
     <li>
-      <a href="/additional-information/" target="_blank">Additional information</a>
+      <a href="/additional-information/">Additional information</a>
     </li>
   </ul>
