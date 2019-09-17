@@ -17,8 +17,8 @@ Incentive Schemes
   <tr>
     <td style="text-align: justify">
       <b>Incentive schemes</b>
-    </td style="text-align: justify">
-    <td>Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:
+    </td>
+    <td style="text-align: justify">Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:
       <ul>
         <li><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html">Economic Development Board</a></li>
         <li><a href="http://www.iesingapore.gov.sg/Assistance/Overview">International Enterprise Singapore</a></li>
@@ -33,12 +33,12 @@ Incentive Schemes
 Exemption Schemes
 ---
 
-<table style="text-align: justify">
+<table>
   <tr>
-    <td>
+    <td style="text-align: justify">
       <b>Tax Exemption for Non-Resident Arbitrators</b>
     </td>
-    <td>This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
+    <td style="text-align: justify">This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
 For more details, please refer to the Inland Revenue Authority of Singapore’s (“IRAS”) <a href="https://www.iras.gov.sg/irashome/Individuals/Foreigners/Your-Situation/Non-resident-professional/Non-Resident-Arbitrators/">website</a>.</td>
   </tr>
   <tr>
