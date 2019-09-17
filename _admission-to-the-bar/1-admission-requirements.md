@@ -25,8 +25,15 @@ Individuals who wish to be admitted to the Singapore Bar must:
 <p class="right-side-updated">Last updated on 30 Aug 2018</p> 
 
 <ol style="list-style-type: lower-roman">
-<li></li>
+<li>Meet all the requirements of being a “<a href="http://www.sile.edu.sg/qualified-person" target="_blank">qualified person</a>” as defined in the Legal <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/" target="_blank">Profession Act</a> read together with the <a href="#">Legal Profession (Qualified Persons) Rules</a>; and</li>
 <li>
-<ol></ol>
-</li>
+<ol style="list-style-type: lower-alpha">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ol>
+</li>
+
+
