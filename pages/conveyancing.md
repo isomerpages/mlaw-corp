@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Conveyancing
-permalink: /what-we-do/conveyancing/
+permalink: /conveyancing/
 breadcrumb: What We Do
 ---
 
