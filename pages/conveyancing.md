@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Conveyancing
-permalink: /about-us/what-we-do/conveyancing/
+permalink: /about-us/what-we-do/legal-group/conveyancing/
 breadcrumb: Conveyancing
 second_nav_title: What We Do
 ---
