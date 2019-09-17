@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: Applicable Legislation
-permalink: /applicable-legislation/
-breadcrumb: What We Do
+permalink: /about-us/what-we-do/applicable-legislation/
+breadcrumb: Applicable Legislation
+second_nav_title: What We Do
 ---
 
 Applicable legislation
