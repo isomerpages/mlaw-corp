@@ -86,4 +86,4 @@ Useful Links
 
 * [Urban Redevelopment Authority](https://www.ura.gov.sg/Corporate/)
  
-<p class="right-side-updated"">Last updated on 27 Feb 2017</p>
+<p class="right-side-updated">Last updated on 27 Feb 2017</p>
