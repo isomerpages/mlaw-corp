@@ -79,7 +79,7 @@ Please see Annex H – *Infographic on Four Key Things About the Bill*.
 [Annex A: Consequences of Online Falsehoods (2.2MB)](/files/news/press-releases/2019/04/Annex A - Consequences of Online Falsehoods.pdf)  
 [Annex B: International Developments (0.7MB)](/files/news/press-releases/2019/04/Annex B - International Approaches.pdf)  
 [Annex C: Government’s Implementation of Select Committee’s Recommendations (0.15MB)](/files/news/press-releases/2019/04/Annex C - Govt implementation of SC recommendations.pdf)  
-[Annex D: Factsheet on Public Education Initiatives (0.4MB)](/files/news/press-releases/2019/04/Annex D - Media Factsheet - Public Education Efforts.pdf)  
+[Annex D: Factsheet on Public Education Initiatives (0.4MB)](/files/news/press-releases/2019/04/AnnexD-MediaFactsheet-PublicEducationEffortsUpdated.pdf)  
 [Annex E: Infographic on Falsehood vs Opinion (0.1MB)](/files/news/press-releases/2019/04/Annex E - Falsehoods v Opinions.pdf)  
 [Annex F: Infographic on Corrections (0.1MB)](/files/news/press-releases/2019/04/Annex F - Corrections.pdf)  
 [Annex G: How Corrections and Criminal Sanctions Will Apply (0.09MB)](/files/news/press-releases/2019/04/Annex G - How Corrections and Criminal Sanctions Apply.pdf)  
