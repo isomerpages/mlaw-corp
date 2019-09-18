@@ -25,9 +25,10 @@ Report a breach by a Law Practice Entity
     <td>
       <b>What can a person complain about?</b>
     </td>
-    <td><p>Complaints submitted to the LSRA should be limited to complaints about a <b>law practice entity</b> breaching the business criteria and conditions relevant to its licence/registration as defined in the Legal Profession Act (Cap. 161) and the Legal Profession (Law Practice Entities) Rules 2015, e.g. practice of Singapore law by a law practice which is not permitted to do so; a law practice marketing or publicising itself as providing legal services in areas of legal practice which it is not permitted to provide.</p>
+    <td>
+      <p>Complaints submitted to the LSRA should be limited to complaints about a <b>law practice entity</b> breaching the business criteria and conditions relevant to its licence/registration as defined in the Legal Profession Act (Cap. 161) and the Legal Profession (Law Practice Entities) Rules 2015, e.g. practice of Singapore law by a law practice which is not permitted to do so; a law practice marketing or publicising itself as providing legal services in areas of legal practice which it is not permitted to provide.</p>
 <p>Complaints against <b>individual lawyers</b> for inadequate professional service pursuant to Section 75B of the Legal Profession Act (Cap. 161), or professional misconduct pursuant to section 85(1) of the Legal Profession Act (Cap. 161) (e.g. alleged dishonesty, fraud, gross overcharging for work done, making misleading statements, divulging confidential information given by the client to his lawyer, acting in conflict of interest or acting in breach of the Legal Profession (Professional Conduct) Rules 2015) should be submitted to the Law Society of Singapore (“LawSoc”). For more information, please visit LawSoc’s <a href="https://www.lawsociety.org.sg/For-Public/YoutheLawyer/ComplaintsAgainstaLawyer" target="_blank">website</a>.</p>
-</td>
+    </td>
   </tr>
   <tr>
     <td>
@@ -54,6 +55,5 @@ Report a breach by a Law Practice Entity
     <td>To submit a complaint about a law practice entity in Singapore, please click<a href="https://www.mlaw.gov.sg/eservices/lsra/complaint-introduction/" target="_blank"> here</a>.</td>
   </tr>
 </table>
-
 
 <p class="right-side-updated">Last updated on 08 Mar 2018</p> 
