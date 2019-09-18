@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Other MinLaw Websites
+title: Useful Links
 permalink: /about-us/useful-links/
-breadcrumb: Other MinLaw Websites
+breadcrumb: Useful Links
 collection_name: about-us
 ---
 
