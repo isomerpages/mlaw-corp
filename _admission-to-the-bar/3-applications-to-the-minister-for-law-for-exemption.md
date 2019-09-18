@@ -51,7 +51,7 @@ Applications to the Minister for Law for Exemption
 
 <p style="text-align: justify">(ii) You are admitted to practise in a common law jurisdiction; and
 
-<p style="text-align: justify">(iii) You have obtained at least 2 years of “<a href="http://www.sile.edu.sg/relevant-legal-training-or-relevant-legal-practice-or-work">relevant legal practice or work” and/or “relevant legal training</a>{:target="_blank"}” as defined in Rule 2 of the <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Legal Profession (Qualified Persons) Rules</a>{:target="_blank"}.
+<p style="text-align: justify">(iii) You have obtained at least 2 years of “<a href="http://www.sile.edu.sg/relevant-legal-training-or-relevant-legal-practice-or-work" target="_blank">relevant legal practice or work” and/or “relevant legal training</a>” as defined in Rule 2 of the <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/" target="_blank">Legal Profession (Qualified Persons) Rules</a>.
 
 <p style="text-align: justify">However, please note that exemptions from Part B and the practice training period are not granted automatically, even if you fulfil all the above requirements. All applications for exemption are considered case-by-case on their individual merits.
 
