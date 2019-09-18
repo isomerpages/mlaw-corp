@@ -65,7 +65,7 @@ Applications to the Minister for Law for Exemption
   </a>
 </div><br>
 
-Please note:
+<p>Please note:</p>
 
 <ul>
   <li style="text-align: justify">
