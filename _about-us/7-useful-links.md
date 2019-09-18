@@ -1,0 +1,89 @@
+---
+layout: leftnav-page-content
+title: Other MinLaw Websites
+permalink: /about-us/other-minlaw-websites/
+breadcrumb: Other MinLaw Websites
+collection_name: about-us
+---
+
+Useful Links
+---
+
+**MinLaw Agencies**
+
+* [Community Mediation Centre](https://cmc.mlaw.gov.sg/)
+
+* [Insolvency Office](https://io.mlaw.gov.sg/)
+
+* [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/)
+
+* [Land Surveyors Board](https://lsb.mlaw.gov.sg/)
+
+* [Legal Aid Bureau](https://lab.mlaw.gov.sg/)
+
+* [Public Trustee's Office](https://pto.mlaw.gov.sg/)
+
+* [Registry of Moneylenders](https://rom.mlaw.gov.sg/)
+
+* [Registry of Pawnbrokers](https://rop.mlaw.gov.sg/)
+
+* [Singapore Land Authority](https://www1.sla.gov.sg/)
+
+* [Anti-Money Laundering/ Countering the Financing of Terrorism Division](https://acd.mlaw.gov.sg/)
+
+
+**Other Agencies & Information**
+
+* [ASEAN Law Association](http://www.aseanlawassociation.org/)
+
+* [Attorney-General’s Chambers](https://www.agc.gov.sg/)
+
+* [Singapore Institute of Legal Education](http://www.sile.edu.sg/)
+
+* [Consumers Association of Singapore](https://www.case.org.sg/)
+
+* [e-Gazette](http://www.egazette.com.sg/)
+
+* [Financial Industry Disputes Resolution Centre](https://www.fidrec.com.sg/website/index.html)
+
+* [IP Academy](https://iposinternational.com/){:target="_blank"}
+
+* [Istana](https://www.istana.gov.sg/)
+
+* [LawNet](https://www.lawnet.sg/lawnet/web/lawnet/home)
+
+* [Law Society of Singapore](https://www.lawsociety.org.sg/)
+
+* [Legal Systems in ASEAN](http://www.aseanlawassociation.org/legal.html)
+
+* [Maxwell Chambers](https://www.maxwellchambers.com/)
+
+* [Ministry of Home Affairs](https://www.mha.gov.sg/)
+
+* [Ministry of National Development](https://www.mnd.gov.sg/)
+
+* [Monetary Authority of Singapore](https://www.mas.gov.sg/)
+
+* [Parliament of Singapore](https://www.parliament.gov.sg/)
+
+* [Singapore Academy of Law](https://www.sal.org.sg/#)
+
+* [Singapore International Arbitration Centre](http://www.siac.org.sg/)
+
+* [Singapore International Commercial Court](https://www.sicc.gov.sg/)
+
+* [Singapore International Mediation Centre](http://simc.com.sg/)
+
+* [Singapore International Mediation Institute](https://www.simi.org.sg/)
+
+* [Singapore Mediation Centre](http://www.mediation.com.sg/)
+
+* [State Courts of Singapore](https://www.statecourts.gov.sg/){:target="_blank"}
+
+* [Strata Titles Board](https://www.mnd.gov.sg/stb)
+
+* [Supreme Court of Singapore](https://www.supremecourt.gov.sg/)
+
+* [Urban Redevelopment Authority](https://www.ura.gov.sg/Corporate/)
+ 
+<p class="right-side-updated"">Last updated on 27 Feb 2017</p>
