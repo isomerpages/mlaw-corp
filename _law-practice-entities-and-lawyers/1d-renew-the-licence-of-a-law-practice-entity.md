@@ -18,7 +18,7 @@ Update the Particulars of a Law Practice Entity
 
 <p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-**For more information, please refer to our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx){:target="_blank"}.**
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</p>.</b></p>
 
 <table>
   <tr>
