@@ -34,7 +34,7 @@ Applications to the Minister for Law for Exemption
 
 <p style="text-align: justify">However, please note that exemptions are granted sparingly. We are unable to advise you on your chances of obtaining an exemption.</p>
 
-**Applying for an Exemption in Advance**
+<b>Applying for an Exemption in Advance</b>
 
 <p style="text-align: justify">Before embarking on a law degree, you should check the relevant legislation and/or with the Singapore Institute of Legal Education to ascertain that it will be recognised for admission to the Singapore Bar.</p>
 
@@ -42,7 +42,7 @@ Applications to the Minister for Law for Exemption
 
 <p style="text-align: justify">If you have already embarked on the course and realise that it is not recognised for admission to the Singapore Bar, you should submit an application for an exemption as soon as possible.</p>
 
-**Exemptions from Part B and the Practice Training Period**
+<b>Exemptions from Part B and the Practice Training Period</b>
 
 <p style="text-align: justify">You may submit an application to the Minister for Law to be considered for an exemption from the practice training period and Part B of the Bar Examinations if you fulfil all the following requirements:</p>
 
@@ -55,7 +55,7 @@ Applications to the Minister for Law for Exemption
 
 <p style="text-align: justify">However, please note that exemptions from Part B and the practice training period are not granted automatically, even if you fulfil all the above requirements. All applications for exemption are considered case-by-case on their individual merits.</p>
 
-**Application for Exemption Form**
+<b>Application for Exemption Form</b>
 
 <p style="text-align: justify">All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.</p>
 
@@ -63,7 +63,7 @@ Applications to the Minister for Law for Exemption
   <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx">
     <img src="/images/1520231210724.png" style="width: 300px">
   </a>
-</div>
+</div><br>
 
 Please note:
 
