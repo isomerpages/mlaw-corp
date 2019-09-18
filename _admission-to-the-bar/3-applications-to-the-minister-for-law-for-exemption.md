@@ -47,11 +47,11 @@ Applications to the Minister for Law for Exemption
 <p style="text-align: justify">You may submit an application to the Minister for Law to be considered for an exemption from the practice training period and Part B of the Bar Examinations if you fulfil all the following requirements:</p>
 
 
-(i) You obtained an approved law degree from an approved university and you fulfil all the other "qualified person" requirements;
+<p style="text-align: justify">(i) You obtained an approved law degree from an approved university and you fulfil all the other "qualified person" requirements;
 
-(ii) You are admitted to practise in a common law jurisdiction; and
+<p style="text-align: justify">(ii) You are admitted to practise in a common law jurisdiction; and
 
-(iii) You have obtained at least 2 years of “<a href="http://www.sile.edu.sg/relevant-legal-training-or-relevant-legal-practice-or-work">relevant legal practice or work” and/or “relevant legal training</a>{:target="_blank"}” as defined in Rule 2 of the <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Legal Profession (Qualified Persons) Rules</a>{:target="_blank"}.
+<p style="text-align: justify">(iii) You have obtained at least 2 years of “<a href="http://www.sile.edu.sg/relevant-legal-training-or-relevant-legal-practice-or-work">relevant legal practice or work” and/or “relevant legal training</a>{:target="_blank"}” as defined in Rule 2 of the <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Legal Profession (Qualified Persons) Rules</a>{:target="_blank"}.
 
 <p style="text-align: justify">However, please note that exemptions from Part B and the practice training period are not granted automatically, even if you fulfil all the above requirements. All applications for exemption are considered case-by-case on their individual merits.
 
@@ -67,12 +67,12 @@ Applications to the Minister for Law for Exemption
 
 Please note:
 
-* It can take a few months for applications to be processed as external parties may be consulted. It is your responsibility to submit your application in a timely manner.
-* In order to complete your online application, you are also required to submit all supporting documents in softcopy via our online enquiry form ([Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)) **within 7 calendar days of the submission date of the online application. Otherwise, your application will be deemed to have lapsed and you will be required to submit a new application with payment of the applicable administrative fees**.  Therefore, you should only submit your online application for exemption when all your supporting documents are ready. Please click [here](/admission-to-the-bar/applications-to-the-minister-for-law-for-exemption-supporting-documents/){:target="_blank"} for more information on supporting documents.
-* Each application is considered case-by-case on its individual merits. We are unable to disclose the reasons why an application was successful or unsuccessful.
+<p style="text-align: justify">* It can take a few months for applications to be processed as external parties may be consulted. It is your responsibility to submit your application in a timely manner.</p>
+<p style="text-align: justify">* In order to complete your online application, you are also required to submit all supporting documents in softcopy via our online enquiry form <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a> **within 7 calendar days of the submission date of the online application. Otherwise, your application will be deemed to have lapsed and you will be required to submit a new application with payment of the applicable administrative fees**.  Therefore, you should only submit your online application for exemption when all your supporting documents are ready. Please click <a href="/admission-to-the-bar/applications-to-the-minister-for-law-for-exemption-supporting-documents/">here</a>{:target="_blank"} for more information on supporting documents.</p>
+<p style="text-align: justify">* Each application is considered case-by-case on its individual merits. We are unable to disclose the reasons why an application was successful or unsuccessful.</p>
 
-* Where your application was unsuccessful, please note that repeat applications on the same facts are unlikely to produce a different result. You should consider re-applying only if there are new material facts or circumstances that demonstrate a stronger case for the particular exemption sought. 
+<p style="text-align: justify">* Where your application was unsuccessful, please note that repeat applications on the same facts are unlikely to produce a different result. You should consider re-applying only if there are new material facts or circumstances that demonstrate a stronger case for the particular exemption sought.</p> 
 
-* Please note that we receive a high volume of queries and it can take up to 14 working days (about 3 weeks) for us to reply to enquiries on applications. We will contact you if we require any further information or clarification. We will inform you of our decision by email in due course.
+<p style="text-align: justify">* Please note that we receive a high volume of queries and it can take up to 14 working days (about 3 weeks) for us to reply to enquiries on applications. We will contact you if we require any further information or clarification. We will inform you of our decision by email in due course.</p>
 
 <p class="right-side-updated">Last updated on 06 Jun 2018</p> 
