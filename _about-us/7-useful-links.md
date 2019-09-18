@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Other MinLaw Websites
-permalink: /about-us/other-minlaw-websites/
+permalink: /about-us/useful-links/
 breadcrumb: Other MinLaw Websites
 collection_name: about-us
 ---
