@@ -57,13 +57,13 @@ Applications to the Minister for Law for Exemption
 
 <p><b>Application for Exemption Form</b></p>
 
-<p style="text-align: justify">All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.</p>
+<p style="text-align: justify">All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.</p><br>
 
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx">
     <img src="/images/1520231210724.png" style="width: 300px">
   </a>
-</div>
+</div><br>
 
 <p>Please note:</p>
 
