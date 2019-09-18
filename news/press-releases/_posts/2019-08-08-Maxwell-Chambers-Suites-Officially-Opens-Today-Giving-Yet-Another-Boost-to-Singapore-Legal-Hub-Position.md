@@ -36,7 +36,7 @@ permalink: /news/press-releases/Maxwell-Chambers-Suites-Officially-Opens-Today-G
 
  <li>For arbitration, in 2018, Singapore was ranked as the top arbitration seat in the Asia-Pacific, and third in the world, after London and Paris. Singapore was also ranked within the top four in all regions of the world, except Latin America, including Europe, North America, Africa and Middle East. Singapore was the only Asia-Pacific jurisdiction to be ranked within top four outside the Asia-Pacific. </li>
  
- <li>For mediation, in December 2018, the United Nations General Assembly adopted a new international treaty on mediation, and agreed for it to be named after Singapore. Ministers and other senior officials from [xx] countries attended the signing ceremony yesterday to support the Singapore Convention on Mediation. </li>
+ <li>For mediation, in December 2018, the United Nations General Assembly adopted a new international treaty on mediation, and agreed for it to be named after Singapore. Ministers and other senior officials from 46 countries attended the signing ceremony yesterday to support the Singapore Convention on Mediation. </li>
  </ol>
  </li> 
  </ol>
