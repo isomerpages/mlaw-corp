@@ -13,7 +13,7 @@ ol li .alpha li {list-style-type: lower-alpha;}
 Supporting Documents for Applications for Exemption
 ---
 
-In order to complete your online application for exemption, you are also required to submit all supporting documents in softcopy via our online enquiry form ([Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}) **within 7 calendar days of the submission date of the online application. Otherwise, your application will be deemed to have lapsed and you will be required to submit a new application with payment of the applicable administrative fees.** Therefore, you should only submit your online application for exemption when all your supporting documents are ready. 
+In order to complete your online application for exemption, you are also required to submit all supporting documents in softcopy via our online enquiry form <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a>{:target="_blank"}) **within 7 calendar days of the submission date of the online application. Otherwise, your application will be deemed to have lapsed and you will be required to submit a new application with payment of the applicable administrative fees.** Therefore, you should only submit your online application for exemption when all your supporting documents are ready. 
 
 The documents required to be submitted as part of an application for exemption can be found below:
 
