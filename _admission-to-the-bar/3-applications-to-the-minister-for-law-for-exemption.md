@@ -55,7 +55,7 @@ Applications to the Minister for Law for Exemption
 
 <p style="text-align: justify">However, please note that exemptions from Part B and the practice training period are not granted automatically, even if you fulfil all the above requirements. All applications for exemption are considered case-by-case on their individual merits.</p>
 
-<b>Application for Exemption Form</b>
+<p><b>Application for Exemption Form</b></p>
 
 <p style="text-align: justify">All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.</p>
 
