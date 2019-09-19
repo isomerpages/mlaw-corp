@@ -9,12 +9,17 @@ collection_name: about-us
 FAQ
 ---
 
-[Have questions](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)?
+Have questions?
 
-Contact Us @ OneMinLaw
+<div class="image">
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px">
+  </a>
+</div>
+
+![email icon](/images/enq.png/) Contact Us @ OneMinLaw
 ---
 
-You can send us your [feedback and enquiries](https://www.mlaw.gov.sg/eservices/enquiry/) on the following issues: 
+You can send us your feedback and enquiries on the following issues: 
 
 * Bankruptcy Matters
 * Public Trustee's Office & Motor Accident Compensation
@@ -27,7 +32,12 @@ You can send us your [feedback and enquiries](https://www.mlaw.gov.sg/eservices/
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
 
-Location
+<div class="image">
+  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px">
+  </a>
+</div>
+
+![location icon](/images/loc.png/) Location
 ---
 
 **Ministry of Law Services Centre**
@@ -44,7 +54,7 @@ Closed on Weekends & Public Holidays<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
-CALL US
+![Call icon](/images/call.png/) CALL US
 ---
 
 Tel: 1800 2255 529<br>
