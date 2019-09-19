@@ -47,6 +47,8 @@
     url: /news/events/
   - title: Others
     url: /news/others/
+  - title: lorem
+    url: /news/lorem/ 
 
 - title: Law Practices/Lawyers
   url: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/
