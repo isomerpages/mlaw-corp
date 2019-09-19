@@ -18,7 +18,7 @@ Our Vision, Mission and Core Values
 
 **Vision**
 
-A Trusted Legal System; A Trusted Singapore.<br><br>
+AA Trusted Legal System; A Trusted Singapore.<br><br>
 
 **Mission**
 
