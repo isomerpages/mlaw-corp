@@ -40,8 +40,7 @@ You can send us your feedback and enquiries on the following issues:
 * Anti-Money Laundering/ Countering the Financing of Terrorism
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;">
-  </a>
+  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
