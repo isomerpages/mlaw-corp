@@ -22,7 +22,7 @@ Have questions?
 <div class="image">
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/">
   </a>
-</div>
+</div><br>
 
 <div class="icons"><img src="/images/enq.png/"></div>
 <h3>Contact Us @ OneMinLaw</h3>
@@ -44,7 +44,7 @@ You can send us your feedback and enquiries on the following issues:
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px">
   </a>
-</div>
+</div><br>
 
 <div class="icons"><img src="/images/loc.png/"></div>
 <h3>Location</h3>
