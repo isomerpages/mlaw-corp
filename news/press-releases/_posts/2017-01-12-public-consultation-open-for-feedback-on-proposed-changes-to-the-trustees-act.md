@@ -41,7 +41,7 @@ collection_name: news
 **Invitation for feedback**
 
 {:start="6"}
-6. Interested parties may view the public consultation paper online at [(https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act.html)](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act) and submit feedback in electronic or hard copy form via either of the following:
+6. Interested parties may view the public consultation paper online at [(https://www.mlaw.gov.sg/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act.html)](/news/public-consultations/public-consultation-on-proposed-amendments-to-the-trustees-act) and submit feedback in electronic or hard copy form via either of the following:
 
 
 <p class="address-centered">Ministry of Law</p>  
