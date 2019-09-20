@@ -7,13 +7,13 @@ collection_name: about-us
 second_nav_title: What We Do
 ---
 
-Intellectual Property Policy
----
-
 <style> 
  .image {width: 600px;} 
  .image img {max-width: 100%;} 
 </style>
+
+Intellectual Property Policy
+---
 
 <div class="image"><img src="/images/IPPD.jpg/"></div>
 
