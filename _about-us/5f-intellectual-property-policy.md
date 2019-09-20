@@ -15,9 +15,6 @@ Intellectual Property Policy
  .image img {max-width: 100%;} 
 </style>
 
-Community Mediation Centre
----
-
 <div class="image"><img src="/images/IPPD.jpg/"></div>
 
 Intellectual property (IP) rights are essential to support an innovation-driven economy and the growth of industry and commerce in Singapore. The Ministry of Law (MinLaw) is committed to maintaining an IP regime that is balanced, well-regarded internationally, and supports value creation.
