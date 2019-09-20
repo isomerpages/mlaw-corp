@@ -12,7 +12,6 @@ second_nav_title: What We Do
  .image img {max-width: 100%;}
  ul li .no-style {list-style-type: none;}
 </style>
-
 Land Policy & Administration
 ---
 
