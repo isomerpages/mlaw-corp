@@ -178,7 +178,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
   <li>it is not contrary to public policy to enforce an award only because it is in respect of a matter that relates to an IPR dispute.</li>
 </ol>
  
-<sup>[1]</sup> “Public Consultation on Proposed Changes to Singapore’s Patents Regime”, accessible at IPOS’ website [www.ipos.gov.sg/resources/ip-legislation](www.ipos.gov.sg/resources/ip-legislation).
+<sup>[1]</sup> “Public Consultation on Proposed Changes to Singapore’s Patents Regime”, accessible at IPOS’ website [www.ipos.gov.sg/resources/ip-legislation](https://www.ipos.gov.sg/resources/ip-legislation).
 
 <sup>[2]</sup> “Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms”, accessible at MinLaw’s website [www.mlaw.gov.sg/content/minlaw/en/news/public-consultations](www.mlaw.gov.sg/content/minlaw/en/news/public-consultations).
 
