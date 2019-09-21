@@ -35,7 +35,7 @@ Public Consultation on the Proposed Amendments to the Pawnbrokers Act
 
 <b><u>(D) Feedback sought</u></b>
 
-8. MinLaw invites interested parties to provide your views and feedback on the proposed amendments to the Pawnbrokers Act. The consultation period is from 8 April 2013 to 6 May 2013. The public can view the consultation papers at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic form or hard copy form to:
+8. MinLaw invites interested parties to provide your views and feedback on the proposed amendments to the Pawnbrokers Act. The consultation period is from 8 April 2013 to 6 May 2013. The public can view the consultation papers at [https://www.mlaw.gov.sg](https://www.mlaw.gov.sg) and [https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic form or hard copy form to:
 
 <p class="address-centered">
   Community Legal Services Division<br>
