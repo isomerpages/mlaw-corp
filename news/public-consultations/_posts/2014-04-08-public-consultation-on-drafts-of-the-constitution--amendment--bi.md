@@ -59,7 +59,7 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 
 <b>C <u> Feedback sought</u></b>
 
-12. MinLaw invites interested parties to provide your views and feedback on the proposed amendments to the Constitution of the Republic of Singapore, Supreme Court of Judicature Act, Evidence Act, and Legal Profession Act. The consultation period is from 8 April 2014 to 30 April 2014. The public can view the consultation version of the four Bills <a href="#"><sup>1</sup></a>  at [www.minlaw.gov.sg](www.minlaw.gov.sg)  and [www.reach.gov.sg](www.reach.gov.sg) . The feedback may be sent in electronic or hard copy form to:
+12. MinLaw invites interested parties to provide your views and feedback on the proposed amendments to the Constitution of the Republic of Singapore, Supreme Court of Judicature Act, Evidence Act, and Legal Profession Act. The consultation period is from 8 April 2014 to 30 April 2014. The public can view the consultation version of the four Bills <a href="#"><sup>1</sup></a>  at [https://www.mlaw.gov.sg](https://www.mlaw.gov.sg)  and [https://www.reach.gov.sg](https://www.reach.gov.sg) . The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
   Ministry of Law<br>
