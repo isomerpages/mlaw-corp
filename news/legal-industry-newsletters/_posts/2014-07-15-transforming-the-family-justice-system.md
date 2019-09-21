@@ -32,6 +32,6 @@ Click on the attachments below to read the note and view the info-graphic on the
   <a href="/files/2Family%20Justice%20infographic.jpg/"><img src="/images/2412061289480.jpg/"></a>
 </div>
 
-<a href="/images/2Family%20Justice%20infographic.jpg/">Infographic on key recommendations</a>
+<a href="/images/FamilyJusticeInfographic.jpg">Infographic on key recommendations</a>
 
 <p class="right-side-updated">Last updated on 30 Sep 2014</p>
