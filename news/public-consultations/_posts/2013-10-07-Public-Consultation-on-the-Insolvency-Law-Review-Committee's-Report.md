@@ -20,7 +20,7 @@ Public Consultation on the Insolvency Law Review Committee's Report
         <li>Unify the bankruptcy and corporate insolvency regimes into a single piece of legislation;</li>
         <li>Modernise the law of bankruptcy and corporate insolvency as well as adopt practices best suited to Singapore
         </li>
-        <li> Make the attendant processes user-friendly and accessible for individuals and corporations alike; and</li
+        <li> Make the attendant processes user-friendly and accessible for individuals and corporations alike; and</li>
         <li>Where appropriate, take into account the relevant recommendations made by the Companies Legislation and Regulation Framework Steering Committee in 2002.
         </li>
     </ol>
@@ -32,7 +32,7 @@ Public Consultation on the Insolvency Law Review Committee's Report
 **Public Consultation**
 
 {:start="4"}
-4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at [www.mlaw.gov.sg](www.mlaw.gov.sg) and [www.reach.gov.sg](www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
+4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at [https://www.mlaw.gov.sg](https://www.mlaw.gov.sg) and [https://www.reach.gov.sg](https://www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
 
 <p class="address-centered">
     Community Legal Services Division, Ministry of Law<br>
