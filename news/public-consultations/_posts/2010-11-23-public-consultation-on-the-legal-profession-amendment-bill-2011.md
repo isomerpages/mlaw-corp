@@ -65,7 +65,7 @@ Public consultation on the Legal Profession (Amendment) Bill 2011
 **Feedback Sought**
 
 {:start="4"}
-4. The Ministry invites members of the public to comment on the draft Bill. All feedback should be submitted in writing via e-mail <b><i>latest by 3 December 2010</i></b> to [MLAW_Consultation@mlaw.gov.sg](MLAW_Consultation@mlaw.gov.sg) or by mail addressed to:
+4. The Ministry invites members of the public to comment on the draft Bill. All feedback should be submitted in writing via e-mail <b><i>latest by 3 December 2010</i></b> to <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> or by mail addressed to:
 
 <p class="address-centered">
   The Secretariat<br>
