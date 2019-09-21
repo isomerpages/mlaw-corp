@@ -61,7 +61,7 @@ Public Consultation on the Legal Profession (Amendment) Bill 2012
 **Feedback sought**
 
 {:start="12"}
-12. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](www.minlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
+12. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.mlaw.gov.sg](https://www.mlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
   Legal Industry Division<br>
