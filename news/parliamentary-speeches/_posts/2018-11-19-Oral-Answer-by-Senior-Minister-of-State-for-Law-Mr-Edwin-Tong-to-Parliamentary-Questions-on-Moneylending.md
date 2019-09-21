@@ -7,7 +7,7 @@ collection_name: news
 ---
 
 
-19 Nov 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary/speeches)
+19 Nov 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Mr Sitoh Yih Pin (Member of Parliament for Potong Pasir SMC)  
 Mr Darryl David (Member of Parliament for Ang Mo Kio GRC)  
