@@ -7,7 +7,7 @@ collection_name: news
 ---
 
 
-27 Oct 2016 Posted in [Speeches](/new/speeches)
+27 Oct 2016 Posted in [Speeches](/news/speeches)
 
 Mr Chan Leng Sun, S.C., SIArb President,
  
