@@ -180,7 +180,7 @@ Public Consultation on Draft Intellectual Property Dispute Resolution Bill
  
 <sup>[1]</sup> “Public Consultation on Proposed Changes to Singapore’s Patents Regime”, accessible at IPOS’ website [www.ipos.gov.sg/resources/ip-legislation](https://www.ipos.gov.sg/resources/ip-legislation).
 
-<sup>[2]</sup> “Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms”, accessible at MinLaw’s website [www.mlaw.gov.sg/content/minlaw/en/news/public-consultations](www.mlaw.gov.sg/content/minlaw/en/news/public-consultations).
+<sup>[2]</sup> “Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms”, accessible at MinLaw’s website [https://www.mlaw.gov.sg/news/public-consultations](https://www.mlaw.gov.sg/news/public-consultations).
 
 <sup>[3]</sup> See in particular para 13 of the October public consultation paper.
 
