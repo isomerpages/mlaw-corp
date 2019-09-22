@@ -16,31 +16,31 @@ On 28 February 2018, the Ministry of Law tabled the Criminal Justice Reform Bill
 **Video on the key amendments in the Bills**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W8YK43ppiT4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe title="video: key reforms to the criminal procedure code" width="560" height="315" src="https://www.youtube.com/embed/W8YK43ppiT4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 </div>
 
 **Video on the recent milestones in reforming the criminal justice system**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QH-T6KHsgBo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: a progressive,balanced and modern criminal justice system" width="560" height="315" src="https://www.youtube.com/embed/QH-T6KHsgBo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Video on Dealing More Effectively with Corporate Offending**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FR2sNV_63n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: dealing more effectively with corporate offending" width="560" height="315" src="https://www.youtube.com/embed/FR2sNV_63n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Video on 3 things you need to know about the Criminal Procedure Rules Committee (CPRC)**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9w8AI4PH1Mo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: 3 things you need to know about criminal procedure rules committee" width="560" height="315" src="https://www.youtube.com/embed/9w8AI4PH1Mo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Video on Regulating psychiatric expert evidence**
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0x1kDCu3_o?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe title="video: regulating psychiatric expert evidence " width="560" height="315" src="https://www.youtube.com/embed/G0x1kDCu3_o?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 </div>
 
 <p class="right-side-updated">Last updated on 09 Apr 2018 </p>
