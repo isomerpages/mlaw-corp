@@ -7,7 +7,7 @@ permalink: /news/parliamentary-speeches/oral-answer-pqs-on-haze
 
 8 Jul 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/WGzqWvpitdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: long term solution to combat haze" width="560" height="315" src="https://www.youtube.com/embed/WGzqWvpitdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **<u>Questions</u>**  
 
