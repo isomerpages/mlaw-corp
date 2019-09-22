@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-licensed-moneylend
 
 20 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/ywc9AQJGz90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: answers to question on moneylenders" width="560" height="315" src="https://www.youtube.com/embed/ywc9AQJGz90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 **Ms Foo Mee Har, West Coast GRC**
