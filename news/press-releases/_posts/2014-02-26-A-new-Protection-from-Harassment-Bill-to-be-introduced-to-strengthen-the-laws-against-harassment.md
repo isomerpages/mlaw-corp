@@ -9,7 +9,7 @@ collection_name: news
 26 Feb 2014 Posted in [Press releases](/news/press-releases)
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/moNuxWZ_61Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: New Protection from Harassement Bill to be introduced to strengthen laws against harassment" width="560" height="315" src="https://www.youtube.com/embed/moNuxWZ_61Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
