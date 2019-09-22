@@ -302,7 +302,7 @@ Ladies and gentlemen
 <u>Speech Highlights </u>
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dAh2wP6U9Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+<iframe title=" video: IPOS Aug 2016 Highlights" width="560" height="315" src="https://www.youtube.com/embed/dAh2wP6U9Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 </div>
 
 
