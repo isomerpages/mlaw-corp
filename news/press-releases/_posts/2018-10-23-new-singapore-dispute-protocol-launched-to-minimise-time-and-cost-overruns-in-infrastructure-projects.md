@@ -45,7 +45,7 @@ collection_name: news
 Please click here for a copy of the Protocol - [Singapore Infrastructure Dispute-Management Protocol(PDF ,0.5MB)](/files/news/press-releases/2018/10/SIDP Protocol.pdf) 
 
 <sup>[1]</sup>Asian Development Bank. Meeting Asia’s Infrastructure Needs. Mandaluyong City, Philippines: Asian Development Bank, 2017.   
-<sup>[2]</sup>Tim McManus, Managing big projects: The lessons of experience, Mckinsey & Company website [<https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience#>](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience)(accessed on 17 October 2018))
+<sup>[2]</sup>Tim McManus, Managing big projects: The lessons of experience, Mckinsey & Company website [https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/managing-big-projects-the-lessons-of-experience)(accessed on 17 October 2018))
 
 <p class="right-side-updated">Last updated on 30 Oct 2018
 </p>
