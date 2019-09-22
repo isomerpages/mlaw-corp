@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-QFLPs
 
 12 Nov 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/3AzqjV7FF1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: Trainee Lawyers Not Allowed to Serve Practice Training Requirements at QFLP Firms" width="560" height="315" src="https://www.youtube.com/embed/3AzqjV7FF1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Assoc Prof Tan Kheng Boon Eugene, Nominated Member**
 
