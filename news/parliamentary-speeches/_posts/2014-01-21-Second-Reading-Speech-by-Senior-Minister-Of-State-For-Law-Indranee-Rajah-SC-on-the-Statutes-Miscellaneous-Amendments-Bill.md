@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/second-reading-by-sms-on-statutes-misc-a
 21 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/GhrgNnXYlOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: Statutes (Miscellaneous Amendments) Bill Second Reading - SMS Indranee Rajah" width="560" height="315" src="https://www.youtube.com/embed/GhrgNnXYlOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
