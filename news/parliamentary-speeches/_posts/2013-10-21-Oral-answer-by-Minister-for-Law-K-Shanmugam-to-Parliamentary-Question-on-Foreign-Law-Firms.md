@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-on-forei
 
 21 Oct 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/hbs2gzP5GWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: SLPs and FLPs in FLAs with each other must exercise restraint in their publicity" width="560" height="315" src="https://www.youtube.com/embed/hbs2gzP5GWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 **Mr Lim Biow Chuan (Mountbatten SMC)**
