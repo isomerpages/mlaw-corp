@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/2R-speech-on-SOC
 12 Aug 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OSagELTnVKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: Second Reading Speech on the Status of Children (Assisted Reproduction Technology) Bill" width="560" height="315" src="https://www.youtube.com/embed/OSagELTnVKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Mr Speaker,
