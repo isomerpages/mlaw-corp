@@ -21,7 +21,7 @@ The Ministry of Law, the Law Society of Singapore and International Enterprise S
 The Note summarises the key components of “Lawyers Go Global”.
 
 <div class="image">
-  <a href="/files/NoteonLawyersGoGlobal.pdf/"><img src="/images/1522222808259.jpg/"></a>
+  <a href="/files/NoteonLawyersGoGlobal.pdf/"><img src="/images/1522222808259.jpg/" alt="note on lawyers go global"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 28 Mar 2018</p>
