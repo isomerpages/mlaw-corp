@@ -112,7 +112,7 @@ the Vegetables group; e.g. Baicai and Caixin.
 <ol start="18">
 <li>With your permission, Mdm Speaker, may I display some slides/photos of the “Jatropha curcas” on the LED screens.</li>
 <img src="/images/news/parliamentary-speeches/Oil%20bearing%20fruits.png" alt="Jatropha curcas" style="width:236px;height:163px;">
-<img src="/images/news/parliamentary-speeches/Plant%20in%20flowering%20stage.png" alt="Jatropha curcas" style="width:238px;height:204px;">
+<img src="/images/news/parliamentary-speeches/Plant%20in%20flowering%20stage.png" alt="Jatropha curcas plant" style="width:238px;height:204px;">
 </ol>
 
 {:start="19"}
