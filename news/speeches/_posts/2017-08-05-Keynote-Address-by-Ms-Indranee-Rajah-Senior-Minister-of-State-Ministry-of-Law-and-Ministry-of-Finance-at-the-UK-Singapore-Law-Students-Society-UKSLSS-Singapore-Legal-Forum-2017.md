@@ -174,7 +174,7 @@ Good morning everyone.
 
 **Video highlights from speech**
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w0GNx2GJpmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: Singapore Legal Forum 2017" width="560" height="315" src="https://www.youtube.com/embed/w0GNx2GJpmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
