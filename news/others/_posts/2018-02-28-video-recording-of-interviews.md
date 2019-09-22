@@ -18,7 +18,7 @@ The proposed amendments include the introduction of video-recording of interview
 For more information on VRI and its implementation, please refer to this video.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjX7DVbZHO8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: video recording of interviews" width="560" height="315" src="https://www.youtube.com/embed/pjX7DVbZHO8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p class="right-side-updated">Last updated on 28 Feb 2018</p> 
