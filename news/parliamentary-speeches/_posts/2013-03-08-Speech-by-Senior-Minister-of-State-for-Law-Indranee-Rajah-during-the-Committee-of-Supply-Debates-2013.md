@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/speech-sms-cos-debates-2013
 
 8 Mar 2013 Posted in [Parliamentary speeches and responses]
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Do6ZOG3Oe04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: An overview of Singapore's legal sector's performance" width="560" height="315" src="https://www.youtube.com/embed/Do6ZOG3Oe04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 **<u>Legal Services</u>**
