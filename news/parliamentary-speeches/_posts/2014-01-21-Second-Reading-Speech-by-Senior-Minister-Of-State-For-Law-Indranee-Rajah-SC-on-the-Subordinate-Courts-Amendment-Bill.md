@@ -10,7 +10,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-on-subordinate-cou
 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Dy3W2XBY6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: Subordinate Courts (Amendment) Bill Second Reading - SMS Indranee Rajah" width="560" height="315" src="https://www.youtube.com/embed/1Dy3W2XBY6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
