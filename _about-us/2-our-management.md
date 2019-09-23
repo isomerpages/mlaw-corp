@@ -29,7 +29,7 @@ Our Management
   Minister for Law<br><br>
   
 <div class="img-gallery">
-  <img src="/images/1532069362285.jpg" title="Mr Edwin Tong">
+  <img src="/images/1532069362285.jpg" title="Mr Edwin Tong" alt="Mr Edwin Tong">
 </div>
   <b>Mr Edwin Tong</b><br>
   Senior Minister of State<br>
@@ -39,14 +39,14 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/1514972152202.jpg" title="Mr Ng How Yue">
+  <img src="/images/1514972152202.jpg" title="Mr Ng How Yue" alt="Mr Ng How Yue">
 </div>
   <b>Mr Ng How Yue</b><br>
   Permanent Secretary<br>
   Ministry of Law<br><br>
 
 <div class="img-gallery">
-    <img src="/images/1515047430356.jpg" title="Mr Han Kok Juan">
+    <img src="/images/1515047430356.jpg" title="Mr Han Kok Juan" alt="Mr Han Kok Juan">
 </div>
   <b>Mr Han Kok Juan</b><br>
   Deputy Secretary<br>
