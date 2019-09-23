@@ -21,7 +21,7 @@ Have questions?
 
 <div class="paragraphs">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
+   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
   </div>
