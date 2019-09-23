@@ -29,7 +29,7 @@ Click on the attachments below to read the note and view the info-graphic on the
 <a href="/files/TransformingFamilyJustice2014.pdf/">Note on Transforming the Family Justice System</a>(348KB)
 
 <div class="image">
-  <a href="/images/2Family%20Justice%20infographic.jpg/"><img src="/images/2412061289480.jpg/"></a>
+  <a href="/images/FamilyJusticeInfographic.jpg"><img src="/images/2412061289480.jpg/"></a>
 </div>
 
 <a href="/images/FamilyJusticeInfographic.jpg">Infographic on key recommendations</a>
