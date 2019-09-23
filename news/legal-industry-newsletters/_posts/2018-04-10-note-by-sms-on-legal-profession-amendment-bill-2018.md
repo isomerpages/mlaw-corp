@@ -21,7 +21,7 @@ On 20 March 2018, Parliament passed the Legal Profession (Amendment) Bill. The B
 This Note summarises the key amendments of the Bill.
 
 <div class="image">
-  <a href="/files/NoteonLegalProfession(Amendment)Bill.pdf/"><img src="/images/1523589478122.jpg/" alt="note on legal profession amendment bill "></a>
+  <a href="/files/NoteonLegalProfession(Amendment)Bill.pdf/"><img src="/images/1523589478122.jpg/" title="note on legal profession amendment bill" alt="note on legal profession amendment bill"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 13 Apr 2018</p>
