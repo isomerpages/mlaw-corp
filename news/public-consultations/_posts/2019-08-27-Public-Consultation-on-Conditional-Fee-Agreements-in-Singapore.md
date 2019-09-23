@@ -172,4 +172,4 @@ Public Consultation on Conditional Fee Agreements in Singapore
 <sup>[15]</sup>Section 58A(6) of the UK CLSA, and recommended by the Committee to Develop the Singapore Legal Sector (<i>supra</i> note 6)  
 
 
-<p class="right-side-updated"Last updated on 27 Aug 2019</p>
+<p class="right-side-updated">Last updated on 27 Aug 2019</p>
