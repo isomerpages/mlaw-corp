@@ -24,7 +24,7 @@ Mediation is carried out in private between disputants by specially trained volu
 **Video: Community Mediation Centre**
 
 <div class="bp-youtube">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/dLpFHNkbJTM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/dLpFHNkbJTM?rel=0" title="Community Mediation Centre Video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
  </iframe>
 </div>
  
