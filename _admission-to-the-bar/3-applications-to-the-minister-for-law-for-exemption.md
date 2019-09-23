@@ -61,7 +61,7 @@ Applications to the Minister for Law for Exemption
 
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx">
-    <img src="/images/1520231210724.png" style="width: 300px">
+    <img src="/images/1520231210724.png" title="Application for Exemption Form" alt="Application for Exemption Form" style="width: 300px">
   </a>
 </div><br>
 
