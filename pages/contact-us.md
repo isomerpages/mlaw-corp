@@ -15,12 +15,12 @@ FAQs
 Have questions?
 
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px; float: left;"></a>
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="FAQ" alt="FAQ" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
+   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us"alt="Contact Us"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
   </div>
@@ -40,12 +40,12 @@ You can send us your feedback and enquiries on the following issues:
 * Anti-Money Laundering/ Countering the Financing of Terrorism
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
+  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us At Minlaw" alt="Contact Us At Minlaw" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/loc.png/"></a>
+   <img style="float:left; width: 40px;" src="/images/loc.png/" title="Location" alt="Location"></a>
    <div class="content-heading">
    <h3> Location</h3>
   </div>
@@ -67,7 +67,7 @@ Closed on Weekends & Public Holidays<br>
 
 <div class="paragraphs">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/call.png/"></a>
+   <img style="float:left; width: 40px;" src="/images/call.png/" title="Call Us" alt="Call Us"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
   </div>
