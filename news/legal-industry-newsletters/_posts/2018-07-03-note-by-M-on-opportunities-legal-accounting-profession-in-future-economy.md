@@ -23,7 +23,7 @@ Lawyers and accountants need to gain new skills and capabilities to capture oppo
 This Note describes the resources and support schemes available to lawyers and accountants to gain these skills and capabilities.
 
 <div class="image">
-  <a href="/files/NoteonLegalAccountingOpportunities.pdf/"><img src="/images/1530605127863.jpg/" alt="note on legal accounting opportunities"></a>
+  <a href="/files/NoteonLegalAccountingOpportunities.pdf/"><img src="/images/1530605127863.jpg/" title="note on legal accounting opportunities" alt="note on legal accounting opportunities"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 03 Jul 2018</p>
