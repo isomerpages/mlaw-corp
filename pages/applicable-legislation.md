@@ -19,7 +19,7 @@ The Ministry of Law has considered and incorporated useful feedback from public 
  
 3. <a href="/files/linkclick63d9.pdf/">Conveyancing and Law of Property (Conveyancing) (Amendment) Rules 2011</a> (29KB) <i>[gazetted 19 August 2011]</i> 
  
-4. <a href="/files/linkclick2ffc(1).pdf/">Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011</a>  (66KB)<i>[gazetted 25 November 2011]</i>
+4. <a href="/files/linkclick2ffc.pdf/">Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011</a>  (66KB)<i>[gazetted 25 November 2011]</i>
 
 5. <a href="/files/linkclick2c9d.pdf/">Conveyancing and Law of Property (Conveyancing) (Amendment No. 3) Rules 2011</a> (25KB) <i>[gazetted 22 December 2011]</i>
 
