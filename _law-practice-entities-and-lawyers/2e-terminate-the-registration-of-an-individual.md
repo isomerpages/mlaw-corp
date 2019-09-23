@@ -21,14 +21,14 @@ Terminate the Registration of an Individual
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <th>
     <td>
       <b>Step</b>
     </td>
     <td>
       <b>Exceptions</b>
     </td>
-  </tr>
+  </th>
   <tr>
     <td>
       <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
