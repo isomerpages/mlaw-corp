@@ -50,7 +50,7 @@ collection_name: news
 
 [Annex A: Copyright Review Report (1.13MB)](/files/news/press-releases/2019/01/Annex A - Copyright Review Report 16 Jan 2019.pdf)  
 [Annex B: Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore(August 2016) (0.8MB)](/files/news/press-releases/2019/01/PublicConsultationPaperOnProposedChangesToCopyrightRegimeInSingaporeAugust2016.pdf)  
-[Annex C: Public Consultation Paper on CMO Ecosystem in Singapore(May 2017) (0.5MB)](/files/news/press-releases/2019/01/Annex C - Public Consultation Paper on CMO Ecosystem in Singapore May 2017.pdf)
+[Annex C: Public Consultation Paper on CMO Ecosystem in Singapore(May 2017) (0.5MB)](/files/news/press-releases/2019/01/AnnexC-PublicConsultationPaperonCMOEcosysteminSingaporeMay2017.pdf)
 
 
 <p class="right-side-updated">Last updated on 16 Jan 2019</p>
