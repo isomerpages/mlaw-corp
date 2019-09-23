@@ -134,7 +134,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li>All foreigners who intend to work in Singapore must have a valid work pass before they commence employment. To find out which pass is suitable, whether the foreigner is eligible, and how to apply, please visit the Ministry of Manpower’s (“MOM”) <a href="mom.gov.sg/passes-and-permits" target="_blank">website</a>.</li>
+        <li>All foreigners who intend to work in Singapore must have a valid work pass before they commence employment. To find out which pass is suitable, whether the foreigner is eligible, and how to apply, please visit the Ministry of Manpower’s (“MOM”) <a href="https://www.mom.gov.sg/passes-and-permits" target="_blank">website</a>.</li>
         <li>You may also wish to use MOM's <a href="https://service1.mom.gov.sg/workpass/sat" target="_blank">Self Assessment Tool (SAT)</a> to check if the candidate qualifies for the work pass. While the SAT gives you an indication of eligibility, it does not guarantee the actual outcome of the application. This is because there are checks such as employer's quota (for S Pass) or candidate's antecedents that are not considered in the SAT.</li>
       </ul>
     </td>
