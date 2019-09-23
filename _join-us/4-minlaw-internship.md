@@ -15,7 +15,7 @@ MinLaw Internship Programme
 ---
 
 <div class="image">
-  <img src="/images/1435818880055.jpg/">
+  <img src="/images/1435818880055.jpg/" title="Minlaw Internship Programme" alt="Minlaw Internship Programme">
 </div>
 
 
