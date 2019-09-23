@@ -16,7 +16,7 @@ permalink: /news/announcements/TheLawReformEssayCompetition2015
 3. Please submit your entry by 3 July 2015, 5pm to [Law_Reform_Essay@mlaw.gov.sg](mailto:Law_Reform_Essay@mlaw.gov.sg). 
 
 
-4. Further details are available [here (0.2MB)](/files/news/announcements/2015/06/Competition Rules.pdf).
+4. Further details are available [here (0.2MB)](/files/news/announcements/2015/06/CompetitionRules.pdf).
 
 <p class="right-side-updated">Last updated on 18 Jun 2015</p> 
 
