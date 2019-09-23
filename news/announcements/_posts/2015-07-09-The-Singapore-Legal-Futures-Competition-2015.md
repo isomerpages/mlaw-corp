@@ -17,7 +17,7 @@ permalink: /news/announcements/TheSingaporeLegalFuturesCompetition2015
 
 5. Please submit your entry by 9 September 2015, 5pm to <Legal_Futures_Comp@mlaw.gov.sg>.
 
-6. Further details are available [here (0.2MB)](/files/news/announcements/2015/07/Singapore Legal Futures Competition Rules.pdf).
+6. Further details are available [here (0.2MB)](/files/news/announcements/2015/07/SingaporeLegalFuturesCompetitionRules.pdf).
 
 
 ---
