@@ -80,8 +80,7 @@ If you wish to seek assistance for any of our pro bono initiatives, please conta
       Singapore 059724<br>
       Tel: 6536 0650<br>
       Fax: 6534 5237<br>
-</p>
-
+      
 <p class="address-centered">
   <b>Operating Hours:<b><br>
     9 am to 5.45 pm, Mondays to Fridays<br>
