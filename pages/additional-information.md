@@ -14,7 +14,7 @@ Lawyers and members of the public who would like to find out more about the new 
 * <a href="/files/linkclick5d22.pdf/">Guidebook on Conveyancing Measures</a> (3.9MB) <i>[Updated 3 January 2012]</i>
 This guidebook is intended to help lawyers understand the operational steps necessary to comply with the new conveyancing regime.
  
-* <a href="/files/linkclickfe3c(2).pdf/">Legislative Guide</a> (418KB) <i>[Updated 25 November 2011]</i>
+* <a href="/files/linkclickfe3c.pdf/">Legislative Guide</a> (418KB) <i>[Updated 25 November 2011]</i>
 This document serves as an accessible guide laying out the structure of the applicable law and explaining the key legislative provisions and their operational effect. (Also available under "Applicable Legislation", below.)
  
 * <a href="/files/linkclickefd3.pdf/">Frequently Asked Questions (FAQ)</a> (1.2MB) <i>[Updated 25 November 2011]</i>
