@@ -15,7 +15,7 @@ second_nav_title: What We Do
 Community Mediation Centre
 ---
 
-<div class="image"><img src="/images/DSC_6963.jpg/" title="Community Mediation Centre"></div>
+<div class="image"><img src="/images/DSC_6963.jpg/" title="Community Mediation Centre" alt="Community Mediation Centre"></div>
 
 The Community Mediation Unit (CMU) promotes the resolution of community disputes through mediation and it currently operates the [Community Mediation Centres](https://cmc.mlaw.gov.sg/){:target="_blank"}.
 
