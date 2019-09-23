@@ -22,7 +22,7 @@ Our Management
 ### **Political Appointees**
 
 <div class="img-gallery">
-  <img src="/images/1510806764644.jpg" title="Mr K Shanmugam">
+  <img src="/images/1510806764644.jpg" title="Mr K Shanmugam" alt="Mr K Shanmugam">
 </div>
   <b>Mr K Shanmugam</b><br>
   Minister for Home Affairs and<br>
