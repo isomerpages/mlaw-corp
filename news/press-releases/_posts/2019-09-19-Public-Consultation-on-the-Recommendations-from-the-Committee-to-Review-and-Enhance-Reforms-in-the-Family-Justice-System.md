@@ -76,9 +76,9 @@ permalink: /news/press-releases/Public-Consultation-on-recommendations-from-comm
 **MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT AND MINISTRY OF LAW**  
 **19 SEPTEMBER 2019**  
 
-[Annex A: Infographic (930KB)](/files/news/press-releases/2019/09/RERFInfographic.jpg)
-[Annex B: Frequently Asked Questions (520KB)](/files/news/press-releases/2019/09/RERFANNEXB.pdf)
-[Annex D: About the RERF Committee (459KB)](/files/news/press-releases/2019/09/RERFANNEXD.pdf) 
+[Annex A: Infographic (930KB)](/files/news/press-releases/2019/09/RERFInfographic.jpg)  
+[Annex B: Frequently Asked Questions (520KB)](/files/news/press-releases/2019/09/RERFANNEXB.pdf)  
+[Annex D: About the RERF Committee (459KB)](/files/news/press-releases/2019/09/RERFANNEXD.pdf)  
 
 
 <p class="right-side-updated">Last updated on 20 Sep 2019</p>
