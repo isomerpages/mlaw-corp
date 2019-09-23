@@ -14,7 +14,7 @@ collection_name: about-us
 Our Vision, Mission and Core Values
 ---
 
-<div class="image"><img src="/images/about_us.jpg" alt="our vision our mission"></div>
+<div class="image"><img src="/images/about_us.jpg" title="our vision our mission"></div>
 
 **Vision**
 
