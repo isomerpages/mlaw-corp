@@ -60,7 +60,7 @@ Public consultation on Proposed Amendments to the Evidence Act
 
 15. To ensure that these broadened / new hearsay exceptions are not abused, the courts will be given an overriding discretion to exclude hearsay evidence in the interests of justice. A party seeking to rely on hearsay evidence will also generally be subject to certain prescribed notice requirements.
 
-16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper](files/linkclickbd8a.pdf/) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [https://www.mlaw.gov.sg](https://www.mlaw.gov.sg) and [https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
+16. MinLaw invites interested parties to provide their feedback on the [draft consultation paper](files/linkclickbd8a.pdf/) for the Evidence (Amendment) Bill. The consultation period is from 30 September to 30 October 2011. The public can view the consultation paper and draft Bill at [mlaw.gov.sg](mlaw.gov.sg) and [https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
 Legal Policy Division
