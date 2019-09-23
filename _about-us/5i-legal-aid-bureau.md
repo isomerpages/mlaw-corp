@@ -15,7 +15,7 @@ second_nav_title: What We Do
 Legal Aid Bureau
 ---
 
-<div class="image"><img src="/images/legal-aid-bureau.png/" title="Legal Aid Bureau"></div>
+<div class="image"><img src="/images/legal-aid-bureau.png/" title="Legal Aid Bureau" alt="Legal Aid Bureau"></div>
 
 The [Legal Aid Bureau](https://lab.mlaw.gov.sg/)(“LAB”) ensures equal access to justice to persons of limited means, by providing them legal aid, advice and assistance in civil matters. This includes representing applicants in many kinds of court proceedings, as set out in the Legal Aid and Advice Act. LAB cases are handled by LAB’s in-house lawyers and assigned solicitors. To qualify for legal aid, an applicant must satisfy both the Means and Merits tests.
 
