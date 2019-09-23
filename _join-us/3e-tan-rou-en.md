@@ -15,7 +15,7 @@ sixth_nav_title: Meet Our Colleagues
 Having a heart for the needy
 ---
 
-<div class="image"><img src="/images/1467709579904.jpg/"></div>
+<div class="image"><img src="/images/1467709579904.jpg/" title="Ms Tan Rou En" alt="Ms Tan Rou En"></div>
 
 **MS TAN** Rou’en had always wanted a job that would enable her to help others.
 
