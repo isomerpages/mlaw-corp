@@ -22,8 +22,8 @@ Apply for a Licence or Registration for a New Law Practice Entity
 
 <table>
   <tr>
-    <td><b>Step</b></td>
-    <td><b>Exceptions</b></td>
+    <th>Step</th>
+    <th>Exceptions</th>
   </tr>
   <tr>
     <td>
