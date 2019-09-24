@@ -110,9 +110,9 @@ Increasing protection for domestic maids. The PCRC proposed that the court shoul
 <li> The PCRC was of the view that the relative severity of offences needed to be recalibrated from time to time. To that end, the PCRC reviewed the offences in the Penal Code, to ensure that the punishments meted out continue to be commensurate with the seriousness of the offences. Some of the sections that were reviewed are as follows:
 
 <ul>
-<li>   Hurt and grievous hurt;</li> 
-<li> Assault of public servants;</li> 
-<li>  Use of life imprisonment;</li>
+<li>Hurt and grievous hurt;</li> 
+<li>Assault of public servants;</li> 
+<li>Use of life imprisonment;</li>
 <li>Use of fines;</li>
 <li> Enhancement of penalties to ensure proportionate outcomes; and</li>
 <li>Chapter X offences (Contempt of the lawful authority of public servants).</li>
@@ -127,7 +127,7 @@ Increasing protection for domestic maids. The PCRC proposed that the court shoul
 20. We welcome your views on the above proposals, as well as any other suggestions you may have on the Penal Code. The full report can be found on MHA, Mlaw and REACH’s website. Please submit your feedback to us by 30 September 2018 via email at <PCR_Feedback@mha.gov.sg>, or via hard copy to the below address:
 
 <p class="address-centered">
-<b>Ministry of Home Affairs<b><br>
+<b>Ministry of Home Affairs</b><br>
 New Phoenix Park<br>
 28 Irrawaddy Road<br>
 Singapore 329560<br>
@@ -194,7 +194,7 @@ The Penal Code Review Committee Report is available here:<br>
 
 <table>
  <tr>
-  <td colspan="2"><b>Current members</b></td>
+  <th colspan="2"><b>Current members</b></th>
  </tr>
  <tr>
   <td>Indranee Rajah, S.C. (Co-chairperson)</td>
