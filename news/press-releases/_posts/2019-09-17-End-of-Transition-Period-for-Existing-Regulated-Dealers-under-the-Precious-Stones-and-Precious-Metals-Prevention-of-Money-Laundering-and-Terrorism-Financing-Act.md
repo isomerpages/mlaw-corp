@@ -29,7 +29,7 @@ permalink: /news/press-releases/press-releases-End-of-Transition-Period-for-Exis
 {:start="4"}
 4. As at 15 September 2019, the MinLaw has received 1,475 applications for registration, with 1,889 unique outlets. MinLaw is heartened by the strong response from the precious stones and precious metals sector, and further encourages all unregistered existing regulated dealers to register immediately to meet the deadline of 9 October 2019.
 
-　
+
 {:start="5"}
 5. From 10 October 2019, it will be an offence for any person to act as or hold out to be a regulated dealer without registration. Any person convicted of this offence shall be liable to a fine not exceeding S$75,000, or to imprisonment for a term not exceeding 3 years, or to both, and in the case of a continuing offence, to a further fine not exceeding S$7,500 for every day or part of a day during which the offence continues after conviction. ACD will take the appropriate enforcement actions against regulated dealers who breach the requirements.
 
