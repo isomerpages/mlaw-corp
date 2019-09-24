@@ -14,15 +14,15 @@ Relevant Organisations
 
 <table>
   <tr>
-    <td>
-      <b>Agency</b>
-    </td>
-    <td>
-      <b>Queries related to</b>
-    </td>
-    <td>
-      <b>Contact</b>
-    </td>
+    <th>
+      Agency
+    </th>
+    <th>
+      Queries related to
+    </th>
+    <th>
+      Contact
+    </th>
   </tr>
   <tr>
     <td>The Law Society of Singapore</td>
