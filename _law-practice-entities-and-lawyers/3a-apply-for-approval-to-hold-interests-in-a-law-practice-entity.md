@@ -40,12 +40,12 @@ Apply for Approval to Hold Interests in a Law Practice Entity
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Step</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Exceptions</b>
-    </td>
+    </th>
   </tr>
   <tr>
     <td>
