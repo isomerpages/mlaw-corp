@@ -7,17 +7,12 @@ permalink: /news/speeches/speech-by-sms-edwin-tong-law-awareness-weeks-launch-CD
 
 4 Sep 2019 Posted in [Speeches](/news/speeches)
 
-Chairman Mayor and Host Ms Low Yen Ling, 
-
-Mayors Ms Denise Phua, Mr Desmond Choo, and Dr Teo Ho Pin 
-
-Grassroots Advisor to Fengshan GROs, Ms Cheryl Chan 
-
-Board Member of Law Society Pro Bono Services, Mr N Sreenivasan SC 
-
-Distinguished guests, 
-
-Ladies and gentlemen,
+Chairman Mayor and Host Ms Low Yen Ling,   
+Mayors Ms Denise Phua, Mr Desmond Choo, and Dr Teo Ho Pin   
+Grassroots Advisor to Fengshan GROs, Ms Cheryl Chan   
+Board Member of Law Society Pro Bono Services, Mr N Sreenivasan SC   
+Distinguished guests,   
+Ladies and gentlemen,  
 
 Good evening.
 
@@ -73,7 +68,7 @@ Good evening.
 
 ---
 
-<sup>[1]</sup>Mr N Sreenivasan, Board Member of Law Society Pro Bono Services (LSPBS)
+<sup>[1]</sup>Mr N Sreenivasan, Board Member of Law Society Pro Bono Services (LSPBS)  
 <sup>[2]</sup>The Legal Aid and Advice (Amendment) Bill 2018 
 
 <p class="right-side-updated">Last updated on 11 Sep 2019</p> 
