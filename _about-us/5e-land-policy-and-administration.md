@@ -15,7 +15,7 @@ second_nav_title: What We Do
 Land Policy & Administration
 ---
 
-<div class="image"><img src="/images/BlackWhite-bungalow.jpg/" title"Land Policy & Administration" alt"Land Policy & Administration"></div>
+<div class="image"><img src="/images/BlackWhite-bungalow.jpg/" title="Land Policy & Administration" alt="Land Policy & Administration"></div>
 
 In land scarce Singapore, optimising the use of land resources is integral to sustaining Singapore’s economic and social growth.  
 
