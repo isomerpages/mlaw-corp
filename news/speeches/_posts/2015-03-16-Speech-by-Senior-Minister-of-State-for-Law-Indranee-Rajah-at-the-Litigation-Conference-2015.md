@@ -346,7 +346,7 @@ Fellow Litigators,
 <sup>[1]</sup> World Trade Organisation press release, Modest trade growth anticipated for 2014 and 2015 following two year slump, 14 April 2014. <https://www.wto.org/english/news_e/pres14_e/pr721_e.htm>.  
 <sup>[2]</sup>Focus Economics, Economic Snapshot for Asia, 25 February 2015. <http://www.focus-economics.com/regions/asia-pacific>.  
 <sup>[3]</sup> Rajiv Biswas, Global Recovery Should Carry ASEAN Through Economic Headwinds, 19 Jan 2014, Forbes Asia. <http://www.forbes.com/sites/forbesasia/2014/01/19/global-recovery-should-carry-asean-through-economic-headwinds/>.  
-<sup>[4]</sup>Asia 2050 Report: Realising the Asian Century (Executive Summary) <http://adb.org/sites/default/files/asia2050-executive-summary.pdf>.  
+<sup>[4]</sup>Asia 2050 Report: Realising the Asian Century (Executive Summary) <https://www.adb.org/sites/default/files/publication/28608/asia2050-executive-summary.pdf>.  
 <sup>[5]</sup> Economic Outlook for Southeast Asia, China and India 2014 – Beyond the Middle-Income Trap <http://www.oecd.org/site/seao/Pocket%20Edition%20SAEO2014.pdf>.  
 <sup>[6]</sup> United Nations Conference on Trade and Development press release, Asia tops the world in foreign direct investment, according to new UNCTAD report, 23 June 2014.  
 <http://unctad.org/en/Pages/PressRelease.aspx?OriginalVersionID=181 >.  
