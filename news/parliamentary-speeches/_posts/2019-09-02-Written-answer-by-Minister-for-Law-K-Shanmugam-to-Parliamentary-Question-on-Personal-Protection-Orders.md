@@ -11,13 +11,10 @@ permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Sha
 Mr Leon Perera (Non-Constituency Member of Parliament)
 
 
-**<u>Question</u>**
-
+**<u>Question</u>**  
 To ask the Minister for Law (a) for each year from 2015 to 2018, how many applications for Personal Protection Orders have been rejected by the Family Justice Courts; and (b) what are the main reasons for rejection. 
 
-**<u>Written Answer:</u>**
-
-
+**<u>Written Answer:</u>**  
 1. Applications for Personal Protection Orders (“PPOs”) can either be rejected at the point the complaint is made or at the conclusion of a hearing.
  
 2. A very small fraction of applications for PPOs is rejected at the point the complaint is made. Generally, these applications are rejected if the allegation(s) averred are, on the face of the complaint, insufficient to satisfy the definition of “family violence” under s 64 of the Women’s Charter.
@@ -29,7 +26,7 @@ Applications for a PPO may also be dismissed if the court is not satisfied that 
 4. The statistics are as follows: 
 
 
-<table class="table-v">
+<table class="table-h">
 <tr>
 <th></th>
 <th>2015</th>
