@@ -29,18 +29,18 @@ The key divisions at MinLaw are as follows:
 
 <table>
   <tr>
-    <td>
-      <b>Legal Group</b>
-    </td>
-    <td>
-      <b>Policy Divisions</b>
-    </td>
-    <td>
-      <b>Community Legal Services Group</b>
-    </td>
-    <td>
-      <b>Corporate Divisions</b>
-      </td>
+    <th>
+      Legal Group
+    </th>
+    <th>
+      Policy Divisions
+    </th>
+    <th>
+      Community Legal Services Group
+    </th>
+    <th>
+      Corporate Divisions
+    </th>
   </tr>
   <tr>
     <td>Legal Policy</td>
