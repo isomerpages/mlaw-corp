@@ -22,12 +22,12 @@ Terminate the Registration of an Individual
 
 <table>
   <th>
-    <td>
+    <th>
       <b>Step</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Exceptions</b>
-    </td>
+    </th>
   </th>
   <tr>
     <td>
