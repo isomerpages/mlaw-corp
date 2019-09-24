@@ -22,12 +22,12 @@ Renew the Registration of an Individual
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Step</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Exceptions</b>
-    </td>
+    </th>
   </tr>
   <tr>
     <td>
