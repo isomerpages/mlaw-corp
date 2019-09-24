@@ -12,12 +12,12 @@ Useful Templates
 
 <table>
   <tr>
-    <td>
-      <b>Template</b>
-    </td>
-    <td>
-      <b>Explanatory Notes</b>
-    </td>
+    <th>
+      Template
+    </th>
+    <th>
+      Explanatory Notes
+    </th>
   </tr>
   <tr>
     <td><a href="/files/Sample_Clauses_for_Constitution_of_Law_Corporation_June_2016.docx/" target="_blank">Sample Clauses for Constitution of Law Corporation</a>(DOC, 29KB)
