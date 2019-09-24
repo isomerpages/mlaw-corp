@@ -20,12 +20,12 @@ Types of Licence or Registration
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Type of Licence or Registration</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Description</b>
-    </td>
+    </th>
   </tr>
   <tr>
     <td>
