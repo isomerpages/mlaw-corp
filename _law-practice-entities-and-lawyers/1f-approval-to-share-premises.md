@@ -20,7 +20,7 @@ Approval to Share Premises
   <li style="text-align: justify">Preserves its professional independence, by keeping itself separate and distinct from the other entity;</li>
   <li style="text-align: justify">Is clearly identified as separate and distinct from the other entity;  </li>
   <li style="text-align: justify">Safeguards its clients’ confidential information by preventing unauthorised access by the other entity; and</li>
-  <li style="text-align: justify">Complies with the rules governing law practices as set out in the <a href="" target="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/">Legal Profession Act and its subsidiary legislation</a></li>
+  <li style="text-align: justify">Complies with the rules governing law practices as set out in the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession Act and its subsidiary legislation</a></li>
 </ul>
 
 <p style="text-align: justify">This webpage sets out common scenarios where the prior approval in writing of the Director of Legal Services is required and/or where an update application to LSRA needs to be submitted.  This guide is not intended to be legal advice and should not be relied on as such.  It also does not purport to be complete or up to date.  Law practices remain responsible for their own compliance.</p>
