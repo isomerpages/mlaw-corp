@@ -15,31 +15,39 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
  <li>Introduction</li>
  </ol>
  
+ {:start="3"}
  3. Thank you, Sir. Sir, over the past few years, the Ministry of Law has been working on strengthening Singapore’s position as a centre for international dispute resolution. To this end –  
  
+ {:start="4"}
  4. We have built up a suite of well-regarded international dispute resolution services – the SIAC (Singapore International Arbitration Centre), the SICC (Singapore International Commercial Court) as well as the SIMC (Singapore International Mediation Centre). We have also bolstered our infrastructure significantly to support the growing demand for these services, and most recently, the opening of the Maxwell Chambers Suites has tripled Maxwell Chambers’ size in terms of offerings for venues for dispute resolution, meeting places and also working spaces.
  
+ {:start="5"}
  5. Integral to effective international dispute resolution is the ability to enforce judgments, awards and settlements – not just in the countries where they were obtained but also in the countries where the parties’ assets are located. For businesses and investors, enhanced frameworks for cross-border recognition and enforcement of foreign judgments, awards and settlements would increase legal certainty and reduce the costs and uncertainties associated with cross-border dealings and disputes.
  
- 
+ {:start="6"}
  6. Singapore actively participates in and supports the development of appropriate multilateral frameworks for the enforcement of judgments, awards and settlements resulting from international dispute resolution. We are parties to the Hague Convention on Choice of Court Agreements and the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards. Just last month, we signed and hosted the signing ceremony of the Singapore Convention on Mediation – the first United Nations Convention to be named after Singapore – which will complete the picture by filling in the long-standing gap in the enforcement of cross-border mediated settlements.
  
  <ol start="2" style="list-style-type: upper-roman; font-weight:bold">
  <li>Rationale for the Bills</li>
  </ol>
  
+ {:start="7"}
  7. In terms of foreign court judgments in civil proceedings which fall outside of the Hague Convention framework, Singapore’s existing legislative framework consists of two Acts, the Reciprocal Enforcement of Commonwealth Judgments Act (“**RECJA**”), and the Reciprocal Enforcement of Foreign Judgments Act (“**REFJA**”). These Acts have not been updated since their enactment under the British colonial administration, and the number of jurisdictions under Singapore’s reciprocal enforcement of judgments regime is very low. Further, only money judgments from superior courts of recognised jurisdictions may be enforced by registration. Money judgments from other foreign jurisdictions may still be enforced by common law, but this would entail commencing a fresh action in Singapore to enforce a debt, which may then be costlier and also more time-consuming. This route would obviously not be desirable for foreign litigants. 
  
+ {:start="8"}
  8. Singapore has a vision to be the premier dispute resolution hub in Asia, if not the world. As mentioned earlier, we have developed a comprehensive range of institutions and infrastructure. In terms of our legal regime, we have entered into a network of international agreements so as to enhance the recognition and enforcement of judgments, awards and settlement agreements from Singapore. It is therefore timely that we supplement the existing regime, to further strengthen Singapore’s value proposition for litigants considering where to resolve their disputes.
  
+ {:start="9"}
  9. Comparable Commonwealth jurisdictions, such as the UK, Australia and New Zealand, have already expanded their regimes to cover more types of civil judgments, or civil judgments from more tiers of courts. This Bill seeks to bring our legislation in line with international developments. It will give us the flexibility and the framework to expand our network of bilateral arrangements.
  
  <ol style="list-style-type: upper-roman; font-weight:bold" start="3">
  <li> Main features of the reformed regime</li>
  </ol>
  
+{:start="10"} 
 10. This Bill, together with the RECJA Repeal Bill, will consolidate our statutory regime on the reciprocal enforcement of foreign judgments into a single framework. Let me now explain the main features of the reconstituted regime.
 
+{:start="11"}
 11.  **<u>First</u>**, the new framework expands the scope of reciprocal arrangements that Singapore can enter into with foreign countries, by allowing more types of judgments to be covered by these arrangements. As mentioned earlier, currently, the scope of judgments that such arrangements can cover is limited. Only two main types of judgments are covered — and I think the legal practitioners in this House will know that the Acts cover: (a) final money judgments given by foreign superior courts in civil proceedings, which would in this case include foreign judgments that might be based on a right of action conferred by a regulatory statute, but otherwise provide for compensation — so it’s the compensatory aspect that will also be caught in the current regime); and secondly, (b) final judgments given by foreign superior courts in any criminal proceedings for the payment of damages or compensation to an injured party. Penal orders, punitive fines, and confiscation or forfeiture orders made in criminal proceedings do not fall within the present or the proposed (if this Bill is passed) scope of the REFJA.
 
 <ol start="12">
@@ -63,8 +71,10 @@ So for instance, where the Court finds that it is not just and convenient to gra
 </ol>
 </li>
 </ol>
- 
-13.These reforms provide the broad statutory framework for Singapore to negotiate reciprocal enforcement agreements or arrangements with foreign countries. However, the precise scope of enforceable judgments will be decided and negotiated with each foreign country individually. So the fact that we have the Act or the Bill being passed into the Act doesn’t automatically mean that there will be a whole series of countries that will come on board. What will happen thereafter is, armed with these amendments, we will then proceed to negotiate with foreign countries, and decide in the case of each country what is suitable, what is appropriate, and obviously on a reciprocal basis.  The factors that will be taken into account will include factors such as the compatibility of our respective court systems (Singapore’s and the foreign Courts), the needs of users of our court systems and of course our countries’ respective interests. This means that while the reformed REFJA will provide a broad menu of options available for negotiation, Singapore might enter into an agreement or arrangement with Country A for the reciprocal enforcement of only a limited category of judgments, whereas with Country B, there could be reciprocal enforcement of the full range of judgments under the REFJA.  So it really depends on what is also being negotiated, and what is also being offered by the reciprocal country.
+
+
+{:start="13"}
+13. These reforms provide the broad statutory framework for Singapore to negotiate reciprocal enforcement agreements or arrangements with foreign countries. However, the precise scope of enforceable judgments will be decided and negotiated with each foreign country individually. So the fact that we have the Act or the Bill being passed into the Act doesn’t automatically mean that there will be a whole series of countries that will come on board. What will happen thereafter is, armed with these amendments, we will then proceed to negotiate with foreign countries, and decide in the case of each country what is suitable, what is appropriate, and obviously on a reciprocal basis.  The factors that will be taken into account will include factors such as the compatibility of our respective court systems (Singapore’s and the foreign Courts), the needs of users of our court systems and of course our countries’ respective interests. This means that while the reformed REFJA will provide a broad menu of options available for negotiation, Singapore might enter into an agreement or arrangement with Country A for the reciprocal enforcement of only a limited category of judgments, whereas with Country B, there could be reciprocal enforcement of the full range of judgments under the REFJA.  So it really depends on what is also being negotiated, and what is also being offered by the reciprocal country.
 
 
 <ol start="14">
@@ -79,6 +89,7 @@ So for instance, where the Court finds that it is not just and convenient to gra
 </li> 
 </ol>
 
+{:start="15"}
 15. **<u>Third</u>**, to reduce fragmentation of the different regimes — and I think lawyers in practice will know, that for a long time we have had to contend with the REFJA and RECJA — the RECJA Repeal Bill provides for the repeal of RECJA on a date to be stipulated by the Minister.  Reciprocating countries currently recognised by the RECJA are expected to be transferred over to the REFJA regime before the RECJA Repeal Bill comes into force, so it will be consolidated into one common Reciprocal Enforcement Act.
 
 <ol start="4" style="list-style-type: upper-roman; font-weight:bold">
@@ -96,6 +107,7 @@ So for instance, where the Court finds that it is not just and convenient to gra
 </ol>
 
 
+{:start="17"}
 17. Mr Deputy Speaker, with that, I beg to move.
 
 
