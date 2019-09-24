@@ -18,7 +18,7 @@ permalink: /news/press-releases/Public-Consultation-on-recommendations-from-comm
 <li>The RERF Committee has proposed recommendations for the Government, judiciary and community partners to work together to strengthen support for families. The three key areas of recommendations are summarised below. See Annex B for more details.
 
 <ol style="list-style-type: lower-roman">
-<li>Couples considering divorce will receive more upstream support
+<li style="font-weight:bold">Couples considering divorce will receive more upstream support
 <ul>
 <li> Enhance existing Mandatory Parenting Programme for divorcing parties with children under 21</li>
 <li>Easier access to divorce-related support services on a single online platform</li>
@@ -26,7 +26,7 @@ permalink: /news/press-releases/Public-Consultation-on-recommendations-from-comm
 <li>Strengthen capabilities of professionals providing divorce support to better assist divorcing parties </li>
 </ul>
 </li>
-<li> Enhancements to the family justice system to achieve better family outcomes
+<li style="font-weight:bold"> Enhancements to the family justice system to achieve better family outcomes
 <ul>
 <li>Enhance the judge-led approach for the just, expeditious and economical disposal of proceedings.</li>
 <li>Simplify the Family Justice Rules which will result in simpler procedures, more timely processes and increased affordability.</li>
@@ -34,7 +34,7 @@ permalink: /news/press-releases/Public-Consultation-on-recommendations-from-comm
 <li>Facilitate access to more affordable legal services in order to enhance access to justice.</li>
  </ul>
  </li>
-<li> Providing more protection for persons without mental capacity and more support for their caregivers
+<li style="font-weight:bold"> Providing more protection for persons without mental capacity and more support for their caregivers
 <ul>
  <li>Simplify the deputyship application process to make it simpler and more affordable for caregivers who require deputyship powers.</li>
  <li>Provide training and support for appointed and prospective deputies to better understand their role and obligations.</li>
@@ -61,7 +61,7 @@ permalink: /news/press-releases/Public-Consultation-on-recommendations-from-comm
 
 <ul>
 <li><strong>Share your views with MinLaw and MSF</strong>: consultations@msf.gov.sg OR</li>
-<li><strong>Post tp:</strong></li>
+<li><strong>Post to:</strong></li>
 </ul>
 
 
