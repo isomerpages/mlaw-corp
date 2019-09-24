@@ -27,21 +27,21 @@ Approval to Share Premises
 
 <b><u>Where Approval is Required</u></b>
 
-<p style="text-align: justify">The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the [Legal Profession (Law Practice Entities) Rules 2015](/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/){:target="_blank"}.</p>
+<p style="text-align: justify">The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="blank">.</p>
 
 <p style="text-align: justify">(For a description of each law practice entity type, please refer to this <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/">webpage</a>.)</p>
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Scenario</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Entity 1</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Entity 2</b>
-    </td>
+    </th>
   </tr>
   <tr>
     <td>(A)</td>
@@ -93,15 +93,15 @@ Approval to Share Premises
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Scenario</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Entity 1</b>
-    </td>
-    <td>
+    </th>
+    <th>
       <b>Entity 2</b>
-    </td>
+    </th>
     <td>
       <b><a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Relevant Legislation</a></b>
     </td>
