@@ -55,7 +55,7 @@ permalink: /news/press-releases/Public-Consultation-Open-or-Feedback-on-Conditio
 
 
 {:start="10"}
-10. Interested parties may view the public consultation paper online at [https://staging-isomer-mlaw.netlify.com/news/public-consultations/public-consultation-on-conditional-fee-agreements-in-singapore](/news/public-consultations/Public-Consultation-on-Conditional-Fee-Agreements-in-Singapore) and submit feedback in electronic or hard copy form via either of the following:
+10. Interested parties may view the public consultation paper online at [https://www.mlaw.gov.sg/news/public-consultations/public-consultation-on-conditional-fee-agreements-in-singapore](/news/public-consultations/Public-Consultation-on-Conditional-Fee-Agreements-in-Singapore) and submit feedback in electronic or hard copy form via either of the following:
 
 <p class="address-centered">Ministry of Law</p>
 <p class="address-centered">Policy Advisory Division</p>
