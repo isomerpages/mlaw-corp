@@ -34,13 +34,13 @@ Approval to Share Premises
 <table>
   <tr>
     <th>
-      <b>Scenario</b>
+      Scenario
     </th>
     <th>
-      <b>Entity 1</b>
+      Entity 1
     </th>
     <th>
-      <b>Entity 2</b>
+      Entity 2
     </th>
   </tr>
   <tr>
