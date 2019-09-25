@@ -13,11 +13,11 @@ Alternatives for Working in the Legal Field in Singapore
 
 **(A) Practising Foreign Law as a Foreign Lawyer**
 
-<p style="text-align: justify">If you are registered to practise law in an overseas jurisdiction, you can register with the <a href="#">Legal Services Regulatory Authority</a>{:target="_blank"} as a foreign lawyer under <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Part IXA of the Legal Profession Act</a> to practise foreign law in Singapore. You will not need to take any courses or examinations.</p>
+<p style="text-align: justify">If you are registered to practise law in an overseas jurisdiction, you can register with the <a href="#">Legal Services Regulatory Authority</a> as a foreign lawyer under <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Part IXA of the Legal Profession Act</a> to practise foreign law in Singapore. You will not need to take any courses or examinations.</p>
 
 **(B) Practising in Permitted Areas of Singapore Law as a Foreign Practitioner**
 
-<p style="text-align: justify">Foreign-qualified lawyers who pass the <a href="http://www.sile.edu.sg/foreign-practitioner-examinations">Foreign Practitioner Examinations</a> (FPE) can register with the <a href="#">Legal Services Regulatory Authority</a> {:target="_blank"} as a foreign practitioner under Section 36B of the Legal Profession Act to practise in permitted areas of Singapore law.  Please refer to the Singapore Institute of Legal Education (SILE)’s <a href="http://www.sile.edu.sg/">website</a> for more details on the FPE.</p>
+<p style="text-align: justify">Foreign-qualified lawyers who pass the <a href="http://www.sile.edu.sg/foreign-practitioner-examinations">Foreign Practitioner Examinations</a> (FPE) can register with the <a href="#">Legal Services Regulatory Authority</a> as a foreign practitioner under Section 36B of the Legal Profession Act to practise in permitted areas of Singapore law.  Please refer to the Singapore Institute of Legal Education (SILE)’s <a href="http://www.sile.edu.sg/">website</a> for more details on the FPE.</p>
 
 **(C) Working as In-House Counsel**
 
