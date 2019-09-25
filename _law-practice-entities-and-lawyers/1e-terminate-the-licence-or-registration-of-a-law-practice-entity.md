@@ -23,10 +23,10 @@ Terminate the Licence or Registration of a Law Practice Entity
 <table>
   <tr>
     <th>
-      <b>Step</b>
+      Step
     </th>
     <th>
-      <b>Exceptions</b>
+      Exceptions
     </th>
   </tr>
   <tr>
