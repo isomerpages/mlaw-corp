@@ -23,10 +23,10 @@ Terminate the Registration of an Individual
 <table>
   <th>
     <th>
-      <b>Step</b>
+      Step
     </th>
     <th>
-      <b>Exceptions</b>
+      Exceptions
     </th>
   </th>
   <tr>
