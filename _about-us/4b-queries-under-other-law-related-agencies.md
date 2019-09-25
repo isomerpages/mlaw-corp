@@ -72,9 +72,7 @@ If you wish to seek assistance for any of our pro bono initiatives, please conta
 
 <p class="address-centered">
   <b>
-    <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">
-      <br>
-  <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank"></a>Pro Bono Services Office<br>
+  <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank"></a>The Law Society of Singapore<br>Pro Bono Services Office</b><br>
       Subordinate Courts, Level 5<br>
       1 Havelock Square<br>
       Singapore 059724<br>
@@ -82,7 +80,7 @@ If you wish to seek assistance for any of our pro bono initiatives, please conta
       Fax: 6534 5237<br>
       
 <p class="address-centered">
-  <b>Operating Hours:<b><br>
+  <b>Operating Hours:</b><br>
     9 am to 5.45 pm, Mondays to Fridays<br>
     Closed on Saturdays, Sundays and Public Holidays
     </p>
