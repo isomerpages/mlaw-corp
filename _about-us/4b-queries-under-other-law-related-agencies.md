@@ -10,7 +10,7 @@ second_nav_title: Our Legal System
 Queries under other law-related agencies
 ---
 
-In the course of our dealings with the public, the Ministry of Law often receives queries related to the Judiciary, in particular the Family Court and the Small Claims Tribunals, as well as requests for legal advice.
+<p style="text-align: justify">In the course of our dealings with the public, the Ministry of Law often receives queries related to the Judiciary, in particular the Family Court and the Small Claims Tribunals, as well as requests for legal advice.
 
 We have provided a listing of law-related agencies and their scope of services below:
 
@@ -22,7 +22,7 @@ The Subordinate Courts comprise the following:
 
 * **Magistrate's Courts** - Civil Court and Criminal Courts, and
 
-* **Specialised Courts** - Family Court, Juvenile Court, Coroner's Court, Traffic Court, Criminal Mentions Court, Filter Court, Centralised Sentencing Court, Night Criminal Mentions Court and Small Claims Tribunals. 
+<p style="text-align: justify">* **Specialised Courts** - Family Court, Juvenile Court, Coroner's Court, Traffic Court, Criminal Mentions Court, Filter Court, Centralised Sentencing Court, Night Criminal Mentions Court and Small Claims Tribunals. 
 
 **Family Court**
 
@@ -32,7 +32,7 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 * divorce, nullity and judicial separation proceedings under Part X of the Women’s Charter
 
-* guardianship, custody, care and control of and access to children under the Guardianship of Infants Act and Part X of the Women’s Charter
+<p style="text-align: justify">* guardianship, custody, care and control of and access to children under the Guardianship of Infants Act and Part X of the Women’s Charter
 
 * division of matrimonial assets under Part X and section 59 of the Women’s Charter,
 
@@ -40,13 +40,13 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 * spousal and child maintenance under Parts VIII and X of the Women’s Charter
 
-* enforcement of maintenance orders made by Singapore courts, the Maintenance of Parents Tribunal and the Syariah Court under section 71 and Part IX of the Women’s Charter and the Maintenance of Parents Tribunal Act.
+<p style="text-align: justify">* enforcement of maintenance orders made by Singapore courts, the Maintenance of Parents Tribunal and the Syariah Court under section 71 and Part IX of the Women’s Charter and the Maintenance of Parents Tribunal Act.
 
-* reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.
+<p style="text-align: justify">* reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.
 
 **Small Claims Tribunal**
 
-The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:
+<p style="text-align: justify">The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:
 
 * a contract for the sale of goods; or
 
@@ -58,13 +58,13 @@ The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The 
 
 **Free Legal Advice**
 
-The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
+<p style="text-align: justify">The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
 
 * the Criminal Legal Aid Scheme;
 
 * the Project Law Help initiative;
 
-* the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)
+<p style="text-align: justify">* the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)
 
 * the Community Legal Clinics.
 
