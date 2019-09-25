@@ -41,7 +41,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
         <li>If you are not eligible for SingPass, you can approach:
           <ul>
             <li><a href="/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
-            <li>A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://www.saicsa.org.sg/english/contact/prac.htm" target="_blank">a corporate services provider</a></li>
+            <li>A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/practitioners-directory/" target="_blank">a corporate services provider</a></li>
           </ul>
         </li>
       </ul>
@@ -126,7 +126,7 @@ The application fee must be paid online using a valid credit/debit card. </li>
     <td>
       <ul>
         <li>FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
-        <li>SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://www.gov.sg/">FAQ</a>.</li>
+        <li>SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
       </ul>
     </td>
   </tr>
