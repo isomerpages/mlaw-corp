@@ -24,10 +24,7 @@ Incentive Schemes
           <a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html">Economic Development Board</a>
         </li>
         <li>
-          <a href="http://www.iesingapore.gov.sg/Assistance/Overview">International Enterprise Singapore</a>
-        </li>
-        <li>
-          <a href="https://www.enterprisesg.gov.sg/">SPRING Singapore</a>
+          <a href="https://www.enterprisesg.gov.sg/">Enterprise Singapore</a>
         </li>
       </ul>
       Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.<br><br>
