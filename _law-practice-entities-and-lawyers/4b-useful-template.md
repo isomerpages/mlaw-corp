@@ -28,11 +28,11 @@ Useful Templates
   </tr>
   <tr>
     <td><a href="/files/CPD_declaration.pdf/" target="_blank">Continuing Professional Development Declaration Form</a>(86KB)</td>
-    <td>An application to register a lawyer under <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/" target="_blank">section 36B of the Legal Profession Act</a> must include this completed Continuing Professional Development declaration form as a supporting document.</td>
+    <td>An application to register a lawyer under <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/" target="_blank">section 36B of the Legal Profession Act</a> must include this completed Continuing Professional Development declaration form as a supporting document.</td>
   </tr>
   <tr>
     <td><a href="/files/Sample_Certificate_of_Good_Character.pdf/" target="_blank">Sample Certificate of Good Character</a>(29KB)</td>
-    <td>An application to register a lawyer under <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/" target="_blank">section 36B of the Legal Profession Act</a> must include a Certificate of Good Character as a supporting document.<br><br>Applicants can refer to LSRA’s Sample Certificate of Good Character.<br><br>
+    <td>An application to register a lawyer under <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/" target="_blank">section 36B of the Legal Profession Act</a> must include a Certificate of Good Character as a supporting document.<br><br>Applicants can refer to LSRA’s Sample Certificate of Good Character.<br><br>
 The date of issue of the Certificate of Good Character should be no earlier than 3 months prior to the submission date of the application.</td>
 </tr>
 </table>
