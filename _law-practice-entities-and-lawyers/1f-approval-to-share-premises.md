@@ -75,7 +75,7 @@ Approval to Share Premises
 <p style="text-align: justify">
   To apply for approval to share premises, Entity 1 should submit an <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">update</a> application via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">LSRA e-Services</a>, providing details of the arrangement in the “Sharing of Premises” section of the online form.  If Entity 1 is applying to set up a new law practice, it should complete the same section in the online application to the LSRA for a <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/" target="_blank">new law practice licence</a>.</p>
 
-<p style="text-align: justify">If the application is approved, Entity 2, if it is a law practice, will also need to submit an application via <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">LSRA e-Services</a> to <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">update</a> the “Sharing of Premises” section in its own licence record.</p>
+<p style="text-align: justify">If the application is approved, Entity 2, if it is a law practice, will also need to submit an application via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">LSRA e-Services</a> to <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/">update</a> the “Sharing of Premises” section in its own licence record.</p>
 
 <p style="text-align: justify">The list of supporting documents required as part of the application can be found in the online form, and include the following:</p>
 
@@ -85,7 +85,7 @@ Approval to Share Premises
   <li style="text-align: justify">The layout of the shared premises, clearly indicating the areas to be occupied by each entity, the common areas to be used jointly by both entities, and the points of entry/access to each area.</li>
 </ul>
 
-**Where an Update is Required**
+<b>Where an Update is Required</b>
 
 <p style="text-align: justify">The approval of the Director of Legal Services is not required if the entities below wish to share, occupy or use premises jointly.</p>
 
