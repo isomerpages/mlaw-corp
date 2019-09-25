@@ -14,17 +14,17 @@ Queries under other law-related agencies
 
 We have provided a listing of law-related agencies and their scope of services below:
 
-**Subordinate Courts of Singapore**
+<b>Subordinate Courts of Singapore</b>
 
 The Subordinate Courts comprise the following:
 
-* **District Courts** - Civil Court and Criminal Courts;
+* <b>District Courts</b> - Civil Court and Criminal Courts;
 
-* **Magistrate's Courts** - Civil Court and Criminal Courts, and
+* <b>Magistrate's Courts</b> - Civil Court and Criminal Courts, and
 
 <p style="text-align: justify">* **Specialised Courts** - Family Court, Juvenile Court, Coroner's Court, Traffic Court, Criminal Mentions Court, Filter Court, Centralised Sentencing Court, Night Criminal Mentions Court and Small Claims Tribunals. 
 
-**Family Court**
+<b>Family Court</b>
 
 The Family Court deals with all family proceedings in Singapore. Its jurisdiction covers:
 
@@ -44,7 +44,7 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 <p style="text-align: justify">* reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.
 
-**Small Claims Tribunal**
+<b>Small Claims Tribunal</b>
 
 <p style="text-align: justify">The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:
 
@@ -56,7 +56,7 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 * any contract relating to a lease of residential premises not exceeding 2 years
 
-**Free Legal Advice**
+<b>Free Legal Advice</b>
 
 <p style="text-align: justify">The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
 
