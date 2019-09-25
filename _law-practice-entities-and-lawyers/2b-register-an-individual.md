@@ -23,10 +23,10 @@ Register an Individual
 <table>
   <tr>
     <th>
-      <b>Step</b>
+      Step
     </th>
     <th>
-      <b>Exceptions</b>
+      Exceptions
     </th>
   </tr>
   <tr>
