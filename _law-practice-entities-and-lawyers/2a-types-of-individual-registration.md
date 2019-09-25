@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Types of Individual Registration 
-permalink: /law-practice-entities-and-lawyers/registration-of-individuals/types-of-certificate-of-registration/
+permalink: /law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/
 breadcrumb: Types of Individual Registration 
 collection_name: law-practice-entities-and-lawyers
 second_nav_title: Registration of Individuals
