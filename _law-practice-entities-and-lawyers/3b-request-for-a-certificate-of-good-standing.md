@@ -12,7 +12,7 @@ Request a Certificate of Good Standing
 
 <p style="text-align: justify">Law practices and foreign lawyers currently or previously registered with the Legal Services Regulatory Authority (“LSRA”) (or the Attorney General’s Chambers’ Legal Profession Secretariat prior to 18 November 2015) may apply to the LSRA for a Certificate of Good Standing.</p> 
 
-<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Applying-for-Certificate-of-Standing">Law Society of Singapore</a>{:target="_blank"}</p> 
+<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/For-Lawyers/Running-Your-Practice/Applying-for-Certificate-of-Standing" target="_blank">Law Society of Singapore </a></p> 
   
 <p style="text-align: justify">To request a Certificate of Good Standing from LSRA, the foreign lawyer or law practice should submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a> with the following information:</p> 
 
