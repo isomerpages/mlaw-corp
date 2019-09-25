@@ -33,7 +33,7 @@ Relevant Organisations
         <li>Legal Profession (Professional Conduct) Rules</li>
       </ul>
     </td>
-    <td>Email: <a href="mailto:represent@lawsoc.org.sg">elitigation@crimsonlogic.com</a></td>
+    <td>Email: <a href="mailto:represent@lawsoc.org.sg">represent@lawsoc.org.sg</a></td>
   </tr>
   <tr>
     <td>The Supreme Court of Singapore</td>
