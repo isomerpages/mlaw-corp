@@ -22,8 +22,8 @@ Update the Particulars of a Law Practice Entity
 
 <table>
   <tr>
-    <td><b>Step</b></td>
-    <td><b>Exceptions</b></td>
+    <th>Step<th>
+    <th>Exceptions<th>
   </tr>
   <tr>
     <td><b>STEP 1: Login to LSRA e-Services using CorpPass</b></td>
