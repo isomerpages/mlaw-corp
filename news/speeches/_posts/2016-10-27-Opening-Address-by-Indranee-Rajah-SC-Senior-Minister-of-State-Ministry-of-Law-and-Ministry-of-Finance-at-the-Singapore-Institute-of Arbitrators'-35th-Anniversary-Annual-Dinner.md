@@ -7,14 +7,14 @@ collection_name: news
 ---
 
 
-27 Oct 2016 Posted in [Speeches](/new/speeches)
+27 Oct 2016 Posted in [Speeches](/news/speeches)
 
 Mr Chan Leng Sun, S.C., SIArb President,
-<br>  
+ 
 Distinguished guests,
-<br>  
+
 Ladies and Gentlemen.
-<br>  
+
 
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
@@ -54,7 +54,7 @@ Ladies and Gentlemen.
 4. SIArb’s growth is in tandem with the growth of the International Arbitration ecosystem in Singapore.
 
 <ol start="5">
-<li>Singapore has been<u>successful at building itself as an arbitration hub</u>.
+<li>Singapore has been <u>successful at building itself as an arbitration hub</u>.
 
 <ul>
 <li>It ranks among the world’s top seats for arbitration, alongside London, Paris, Geneva, and Hong Kong.</li>
@@ -180,11 +180,11 @@ Ladies and Gentlemen.
 </ol>
 
 {:start="26"}
-26. Arbitrators play an important role in ensuring trust in the system, through sound and enforceable awards delivered in a timely manner, and fair, efficient and effective management of the arbitral process.
+26. <u>Arbitrators</u> play an important role in ensuring trust in the system, through sound and enforceable awards delivered in a timely manner, and fair, efficient and effective management of the arbitral process.
 
  
 {:start="27"}
-27. Good awards cannot come out of poorly presented cases. Counsel must also raise standards if the sector is to continue to thrive. And this applies to the quality of advocacy and case management, and service. Counsel also need ensure that costs remain constantly competitive, so that we retain our cost advantage for clients.
+27. Good awards cannot come out of poorly presented cases. <u>Counsel</u> must also raise standards if the sector is to continue to thrive. And this applies to the quality of advocacy and case management, and service. Counsel also need ensure that costs remain constantly competitive, so that we retain our cost advantage for clients.
 
  
 {:start="28"}

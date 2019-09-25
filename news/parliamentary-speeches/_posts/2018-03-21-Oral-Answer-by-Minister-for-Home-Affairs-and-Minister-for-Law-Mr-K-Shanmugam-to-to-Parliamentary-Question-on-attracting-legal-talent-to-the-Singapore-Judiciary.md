@@ -22,7 +22,7 @@ To ask the Minister for Law (a) what are the measures the Government is taking t
 The article which the Member has distributed –
 
 <ol style="list-style-type: lower-alpha">
-<li>speaks of a *“crisis in recruiting judges to the top levels of the bench”* in the United Kingdom.</li>
+ <li>speaks of a <i>“crisis in recruiting judges to the top levels of the bench”</i> in the United Kingdom.</li>
 <li>It says that the UK courts are unable to attract high-calibre legal talent to fill the vacancies in the Bench.</li>
 </ol>
 </li>
@@ -92,9 +92,9 @@ In fact, 42% of judges stated in the survey that they would leave the judiciary 
 
 <ol start="7">
 <li>This state of judicial morale in the UK owes some to the attacks on judges by the British media.
-<br>
+
 With your permission, Sir, I have asked for a couple of articles - two newspaper cuttings – to be distributed to Members in the House.
-<br>
+
 You can imagine that the standing of the Judiciary in the eyes of the public – does not get enhanced when these sort of attacks are made by mass circulation media.
 
 <ol style="list-style-type: lower-alpha">
@@ -180,7 +180,6 @@ Half of all judges – in fact 56% of all judges – see media representation of
 <li>I think the article says that the Senior Judge could get about 181,000 pounds sterling, which I think equates to less than SGD 400,000 today. </li>
 
 <li>For us – the records are public – top practitioners do take a pay cut when they become judges. </li>
-
 <li> Depending on where they were outside, it could be a significant pay cut. Some could take as much as a 70 – 80 % pay cut. But many others might take a 10 – 20% pay cut. </li>
 
 <li> But in the UK, you take a top silk earning 2 million pounds or more, and then you see the difference on average. </li>
@@ -212,10 +211,10 @@ Half of all judges – in fact 56% of all judges – see media representation of
 <li>The UK Law Commission did recommend the abolition of the offence,
 
 <ol style="list-style-type: lower-roman">
-<li>but it noted that “There [was] a great deal of extremely abusive online material </li>                                                            concerning judges ”.
+<li>but it noted that “<i>There [was] a great deal of extremely abusive online material concerning judges</i>”.</li>                                               
 <li>It also observed that the UK Judiciary had lost the deferential respect it used to enjoy, </li>
-<li> and lamented that “this change is one to be regretted”, </li>
-<li>and since the situation was so bad, and since all the Judges were being  </li>                                                                    attacked online, and because the UK judiciary no longer had the deferential respect –                                                  there was little point in keeping the offence, because you can’t reverse it anyway.  
+ <li> and lamented that “<i>this change is one to be regretted</i>”, </li>
+<li>and since the situation was so bad, and since all the Judges were being <br>                                                                      attacked online, and because the UK judiciary no longer had the deferential respect – <br>                                                 there was little point in keeping the offence, because you can’t reverse it anyway.  </li>
 
 </ol>
 

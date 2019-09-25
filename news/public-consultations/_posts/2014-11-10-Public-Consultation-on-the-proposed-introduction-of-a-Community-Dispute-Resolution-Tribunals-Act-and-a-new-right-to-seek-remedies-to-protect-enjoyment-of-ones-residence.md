@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act and a new right to seek remedies to protect enjoyment of one’s residence
-permalink: /news/public-consultations/public-consultation-on-the-proposed-introduction-of-a-community-dispute
-breadcrumb: Public Consultations
+permalink: /news/public-consultations/public-consultation-on-the-proposed-introduction-of-a-community-dispute/
+breadcrumb: Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act
 collection_name: news
 ---
 
+Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act and a new right to seek remedies to protect enjoyment of one’s residence
+---
 **Consultation Period:**  
 10 Nov 2014 to 30 Nov 2014
 
@@ -141,14 +143,16 @@ collection_name: news
 {:start="23"}
 23. Members of the public are invited to share their views on the draft Bills. The consultation period is from <strong> 10 November 2014 to 30 November 2014</strong>.  Views and suggestions may be submitted in electronic form or hard copy form to:
 
-Legal Policy Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
+<p class="address-centered">
+Legal Policy Division, Ministry of Law<br>
+100 High Street<br>
+#08-02, The Treasury<br>  
+Singapore 179434<br>  
+Fax: 6332 8842<br>  
 Email: <MLAW_Consultation@mlaw.gov.sg>
-
-[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)  
+ </p>
+ 
+[Annex A: Draft Community Dispute Resolution Tribunals Bill 2015 (0.17MB)](/files/news/public-consultations/2014/11/Annex A - Community Dispute Resolution Tribunals Bill for public consultation.pdf)
 [Annex B: Draft Civil Law (Amendment) Bill 2015 (0.09MB)](/files/news/public-consultations/2014/11/Annex B - Civil Law Amendment Bill for public consultation.pdf)
 
 

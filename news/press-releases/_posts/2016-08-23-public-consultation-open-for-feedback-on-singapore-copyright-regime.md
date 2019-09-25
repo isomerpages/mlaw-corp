@@ -9,10 +9,10 @@ collection_name: news
 23 Aug 2016 Posted in [Press releases](/news/press-releases)
 
 
-1.    The Ministry of Law (MinLaw) and the Intellectual Property Office of Singapore (IPOS) today launched a public consultation to gather public feedback on proposed changes to Singapore’s copyright regime. The public consultation will run for two months, ending on 24 October 2016.
+1. The Ministry of Law (MinLaw) and the Intellectual Property Office of Singapore (IPOS) today launched a public consultation to gather public feedback on proposed changes to Singapore’s copyright regime. The public consultation will run for two months, ending on 24 October 2016.
 
 
-2.    Technological developments in the past decade have led to immense changes in how copyrighted works are created, distributed, accessed and used.  Copyright law must keep pace with modern developments so as to support creativity and innovation. This review seeks to ensure that our copyright regime continues to provide an environment that benefits both creators and users. 
+2. Technological developments in the past decade have led to immense changes in how copyrighted works are created, distributed, accessed and used.  Copyright law must keep pace with modern developments so as to support creativity and innovation. This review seeks to ensure that our copyright regime continues to provide an environment that benefits both creators and users. 
 
 
 **Summary of Key Changes to the Act**
@@ -47,7 +47,7 @@ collection_name: news
 </ol>
  
 {:start="5"}
-5. A summary of the issues under consultation can be found in [Annex A (0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).
+5. A summary of the issues under consultation can be found in [Annex A (0.1MB)](/files/news/press-releases/2016/08/CpyRgtAnnex.pdf).The full consultation document can be downloaded [here (0.6MB).](/files/news/press-releases/2016/08/PublicConsultationProposedChangestoCopyrightRegimeAugust2016.pdf) 
 
  
 {:start="6"}
@@ -58,7 +58,7 @@ collection_name: news
 
  
 {:start="7"}
-7.    Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback online via [http://www.mlaw.gov.sg/CopyrightReview](http://www.mlaw.gov.sg/CopyrightReview) or in hard copy to the following address:
+7. Members of the public are invited to submit their views by 24 October 2016 (5pm). They may submit feedback in hard copy to the following address:
 
 
 <p class="address-centered">Intellectual Property Policy Division</p>  
@@ -67,4 +67,4 @@ collection_name: news
 <p class="address-centered">#08-02, The Treasury</p>  
 <p class="address-centered">Singapore 179434</p>
 
-<p class="right-side-updated">Last updated on 23 Aug 2016</p>
+<p class="right-side-updated">Last updated on 26 Jun 2019</p>

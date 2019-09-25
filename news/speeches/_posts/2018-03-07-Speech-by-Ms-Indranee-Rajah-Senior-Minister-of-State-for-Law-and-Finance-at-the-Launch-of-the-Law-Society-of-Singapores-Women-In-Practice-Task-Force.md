@@ -9,7 +9,7 @@ collection_name: news
 7 Mar 2018 Posted in [Speeches](/news/speeches)
 
 Mr Gregory Vijayendran, President of the Law Society,
-<br>
+
 Ladies and gentlemen, fellow members of the legal profession,
 
 1. Good evening. Thank you for inviting me for this event. I thought it was important to come and be part of this because many women lawyers make this journey. I made that journey and it has been not without ups and downs and we all know the challenges that we face. It’s an honour to be here. Let’s have a quick look at the global context.

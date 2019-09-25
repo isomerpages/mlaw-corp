@@ -9,13 +9,13 @@ collection_name: news
 30 May 2013 Posted in [Speeches](/news/speeches)
 
 Chairman of the Chartered Institute of Arbitration (CIArb) Singapore Branch, Mr Richard Tan;
-<br>
+
 Mr Neil Block QC of Thirty Nine Essex Street Chambers;
-<br>
+
 Distinguished guests;
-<br>
+
 Ladies and gentlemen,
-<br>
+
 Good evening.
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
@@ -25,7 +25,7 @@ Good evening.
 
 1. I should mention that Singapore has positioned itself as an arbitration hub and arbitration has grown significantly in Singapore. It’s now, I think, fair to say that Singapore is globally recognised as one of the preferred seats of arbitration. More firms are using Singapore as a base for their arbitration work here and in the region. Clients are using both local firms as well as international firms to arbitrate here which is a very good sign. International firms such as Shearman & Sterling, DLA Piper and Ashurst have all set up arbitration teams here.  
 
-2. More parties are coming to Singapore to have their cases arbitrated. Our flagship arbitration centre – the Singapore International Arbitration Centre (SIAC) – saw an increase in its caseload and total sum of disputes arbitration in 2012 <a href="#fn1"><sup>[1]<sup></a>. In fact, just last month, I was in Mumbai for an event to mark the opening of the SIAC office there, and the sense I got from the Indian practitioners as well as the in-house counsel was that there was a very real need for an administering authority for arbitration and there’s obviously quite a lot of potential for work there, so arbitrators and lawyers in the audience should take note of that.
+2. More parties are coming to Singapore to have their cases arbitrated. Our flagship arbitration centre – the Singapore International Arbitration Centre (SIAC) – saw an increase in its caseload and total sum of disputes arbitration in 2012 <a href="#fn1"><sup>[1]</sup></a>. In fact, just last month, I was in Mumbai for an event to mark the opening of the SIAC office there, and the sense I got from the Indian practitioners as well as the in-house counsel was that there was a very real need for an administering authority for arbitration and there’s obviously quite a lot of potential for work there, so arbitrators and lawyers in the audience should take note of that.
 
 <ol start="3">
 <li>Many factors have actually contributed to the growth of the international arbitration scene here. Some of these factors include:

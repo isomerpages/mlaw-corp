@@ -11,7 +11,7 @@ collection_name: news
 
 Mr Murali Pillai (Member of Parliament for Bukit Batok SMC)
 
-**<u>Question</u>**
+**<u>Question</u>**  
 To ask the Minister for Law what is the Ministry's views on the deliberate online falsehood appearing in recent news reports published in States Times Review, China Press and elsewhere alleging that Singapore is involved in corrupt 1MDB deals.
 
 

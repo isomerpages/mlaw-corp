@@ -70,7 +70,7 @@ The former Diploma in Singapore Law (DipSing) would no longer be a requirement f
 
 {:start="5"}
 5. The National University of Singapore (NUS) will hold the first Part A Bar Examination later in November, with the three-month optional preparation course commencing in August. In view of the changes, NUS has extended the deadline for applications for the optional course by one month to <u>15 June 2009</u>. More details are available at
-[http://law.nus.edu.sg/prospective/postgrad/graddip/partA_bar_course.htm](http://law.nus.edu.sg/prospective/postgrad/graddip/partA_bar_course.htm)
+[http://www.law.nus.edu.sg/cle/partA_bar/partA_bar_faq.html](http://www.law.nus.edu.sg/cle/partA_bar/partA_bar_faq.html)
 
 
 <p class="right-side-updated">Last updated on 27 Nov 2012</p>

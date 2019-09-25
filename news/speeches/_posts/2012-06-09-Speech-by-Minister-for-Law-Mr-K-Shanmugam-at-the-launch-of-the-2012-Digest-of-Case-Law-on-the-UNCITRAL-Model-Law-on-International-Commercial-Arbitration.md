@@ -19,7 +19,7 @@ Ladies and gentlemen.
 
 1. Welcome to Singapore and to Maxwell Chambers.
 
-2. It is a great pleasure for me to join you for the launch of the very first Digest of Case Law on the UNCITRAL <a href="fn"><sup>1</sup></a> Model Law on International Commercial Arbitration.
+2. It is a great pleasure for me to join you for the launch of the very first Digest of Case Law on the UNCITRAL <a href="#fn"><sup>1</sup></a> Model Law on International Commercial Arbitration.
 
 3. The Model Law was adopted by UNCITRAL in 1985 and aims to promote a uniform, pro-arbitration legislative framework across different jurisdictions.
 

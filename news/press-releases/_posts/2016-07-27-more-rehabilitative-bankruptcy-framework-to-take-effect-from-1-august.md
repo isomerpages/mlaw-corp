@@ -19,8 +19,8 @@ collection_name: news
 3. Some of the key framework changes to be effected on 1 August are:
 
 <ol style="list-style-type: lower-roman;">
- <li><u> Increased debt threshold</u></li>
- </ol>
+<li><u><i>Increased debt threshold</i></u></li>
+</ol>
 
 
 <ul> 
@@ -38,7 +38,7 @@ collection_name: news
 **For Creditors**
 
 <ol start="2" style="list-style-type: lower-roman;">
- <li>Expedited bankruptcy application</li>
+<li><u><i>Expedited bankruptcy application</i></u></li>
 </ol>
  
  <ul>
@@ -52,7 +52,7 @@ collection_name: news
  </ul>
 
 <ol start="3" style="list-style-type: lower-roman;">
- <li><u>Mandatory appointment of private trustees by “institutional creditors” <sup>[1]</sup></u></li>
+<li><u><i>Mandatory appointment of private trustees by “institutional creditors” <sup>[1]</sup></i></u></li>
  
 </ol>
  
@@ -69,7 +69,7 @@ collection_name: news
 **For Bankrupts**
 
 <ol start="4" style="list-style-type: lower-roman;">
- <li><u>Introduction of differentiated discharge regime</u></li>
+<li><u><i>Introduction of differentiated discharge regime</i></u></li>
 </ol>
  
 <ul>

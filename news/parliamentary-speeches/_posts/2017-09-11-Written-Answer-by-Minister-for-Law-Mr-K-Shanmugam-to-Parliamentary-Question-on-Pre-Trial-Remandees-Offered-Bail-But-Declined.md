@@ -11,7 +11,7 @@ collection_name: news
 
 **Asst Prof Mahdev Mohan (Nominated Member of Parliament)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law in each year since 2011 (a) what is the number of pre-trial remandees who have been offered the option of being released on bail but do not avail themselves of it; and (b) how many persons within this group have been ultimately remanded for a longer period of time than their custodial sentences or have been given non-custodial sentences or acquitted by the courts.
 
 

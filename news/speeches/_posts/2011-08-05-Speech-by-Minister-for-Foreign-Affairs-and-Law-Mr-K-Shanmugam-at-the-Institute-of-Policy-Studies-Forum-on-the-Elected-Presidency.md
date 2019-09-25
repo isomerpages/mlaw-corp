@@ -106,25 +106,25 @@ I will elaborate on each of these points in turn.
 <li> These principles are articulated in Articles 21(1) and 24(2) of the Constitution, which in turn reflect the constitutional position and law in the UK and the Commonwealth, developed over centuries:
 
 <ul>
-<li><strong>Article 21(1) - Discharge and performance of functions of President</strong>
+<li><i><strong>Article 21(1) - Discharge and performance of functions of President</strong>
 <br>
-Except as provided by this Constitution, the President <u>shall</u> [- and not “may”] , in the exercise of his functions under this Constitution or any other written law, <u>act in accordance with the advice of the Cabinet</u> or of a Minister acting under the general authority of the Cabinet. (Emphasis added.)</li>
-<li><strong>Article 24(2) - Cabinet</strong>
+Except as provided by this Constitution, the President <u>shall</u> [- and not “may”] , in the exercise of his functions under this Constitution or any other written law, <u>act in accordance with the advice of the Cabinet</u> or of a Minister acting under the general authority of the Cabinet. (Emphasis added.)</i></li>
+<li><i><strong>Article 24(2) - Cabinet</strong>
 <br>
-Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament .
-</li>
+Subject to the provisions of this Constitution, the Cabinet shall have the general direction and control of the Government and shall be collectively responsible to Parliament.
+</i></li>
 </ul>
 
 </li>
 </ol>
 
 {:start="11"}
-11. This point can be illustrated with reference to a famous event in British monarchic history – the romance between King Edward VIII and Mrs Simpson: in 1936, King Edward wanted to marry Mrs Simpson and was told that he had to abdicate if he wanted to marry her. The King wanted to make a speech to the public explaining his reasons for wanting to marry Mrs Simpson. Then PM Stanley Baldwin wrote to the King (see <u>Annex A</u>) to set out, in no uncertain terms, why the King was not allowed to make such a public speech. The King could not, under Constitutional principles, even speak about the lady he wanted to marry – except as authorised by the Cabinet. And the Cabinet decided that the King should not make such a speech. It is obvious that the same principles will apply with greater force if the King (or a Head of State) wanted to speak on subjects such as: transport fares, whether transport operators should be nationalised, and the cost of living.
+11. This point can be illustrated with reference to a famous event in British monarchic history – the romance between King Edward VIII and Mrs Simpson: in 1936, King Edward wanted to marry Mrs Simpson and was told that he had to abdicate if he wanted to marry her. The King wanted to make a speech to the public explaining his reasons for wanting to marry Mrs Simpson. Then PM Stanley Baldwin wrote to the King (see **<u>Annex A</u>**) to set out, in no uncertain terms, why the King was not allowed to make such a public speech. The King could not, under Constitutional principles, even speak about the lady he wanted to marry – except as authorised by the Cabinet. And the Cabinet decided that the King should not make such a speech. It is obvious that the same principles will apply with greater force if the King (or a Head of State) wanted to speak on subjects such as: transport fares, whether transport operators should be nationalised, and the cost of living.
 
 
 
 {:start="12"}
-12. Bogdanor elaborates on the rationale for this, at Annex B.
+12. Bogdanor elaborates on the rationale for this, at **<u>Annex B</u>**.
 
 
 {:start="13"}
@@ -147,7 +147,7 @@ Subject to the provisions of this Constitution, the Cabinet shall have the gener
 </ol>
 
 
-This is made clear in a summing-up speech made to the Indian Constituent Assembly, by the President of the Assembly, and India’s first President. (See <u>Annex C.</u>)
+This is made clear in a summing-up speech made to the Indian Constituent Assembly, by the President of the Assembly, and India’s first President. (See **<u>Annex C.</u>**)
 
 <ol start="16">
 <li> The Malaysian Constitution largely followed the Indian one. The Reid Commission, in its report, said:
@@ -163,7 +163,7 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 
 
 <ol start="2" style="list-style-type: upper-alpha">
-<li>President can be highly influential and effective</li>
+  <li><u>President can be highly influential and effective</u></li>
 </ol>
 
 {:start="19"}
@@ -173,8 +173,8 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 <ol start="20">
 <li>Walter Bagehot famously wrote of the nature of the monarch’s influence <a href="#fn2"><sup>2</sup></a> :
 
-<ul>
-<li>The Sovereign has, under a constitutional monarchy such as ours, three rights - the right to be consulted, the right to encourage, the right to warn. And a king of great sense and sagacity would want no others. He would find that his having no others would enable him to use these with singular effect. He would say to his minister: 'The responsibility of these measures is upon you. Whatever you think best must be done. Whatever you think best shall have my full and effectual support. But you will observe that for this reason and that reason what you propose to do is bad; for this reason and that reason what you do not propose is better. I do not oppose, it is my duty not to oppose; but observe that I warn'. Supposing the King to be right, and to have what kings often have, the gift of effectual expression, he could not help moving his minister. He might not always turn his course, but he would always trouble his mind. </li>
+<ul style="list-style-type: none">
+<li><i>The Sovereign has, under a constitutional monarchy such as ours, three rights - the right to be consulted, the right to encourage, the right to warn. And a king of great sense and sagacity would want no others. He would find that his having no others would enable him to use these with singular effect. He would say to his minister: 'The responsibility of these measures is upon you. Whatever you think best must be done. Whatever you think best shall have my full and effectual support. But you will observe that for this reason and that reason what you propose to do is bad; for this reason and that reason what you do not propose is better. I do not oppose, it is my duty not to oppose; but observe that I warn'. Supposing the King to be right, and to have what kings often have, the gift of effectual expression, he could not help moving his minister. He might not always turn his course, but he would always trouble his mind. </i></li>
 </ul>
 
 </li>
@@ -183,8 +183,8 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 <ol start="21">
 <li>Bogdanor, refers to recent British experience and the influence that the Queen can wield <a href="#fn3"><sup>3</sup></a> :
 
-<ul>
-<li>One can only speculate on the influence of the Queen. Three thoughts can perhaps be ventured. The first is that the influence of a sovereign is likely to increase during her reign, for the longer she remains on the throne the greater the political experience which she accumulates. By 1996, the Queen will have been on the throne for 44 years, known nine Prime Ministers and have enjoyed a longer experience of public life than anyone who is politically active today. 'In the course of a long reign', Bagehot declared, 'a sagacious king would acquire an experience with which few ministers could contend. The king could say: "Have you referred to the transactions which happened during such and such an administration, I think about fourteen years ago?" They afford an instructive example of the bad results which are sure to attend the policy which you propose. You did not at that time take so prominent a part in public life as you now do, and it is possible you do not fully remember all the events. I should recommend you to recur to them, and to discuss them with your older colleagues who took part in them. It is unwise to recommend a policy which so lately worked so ill.’</li>
+<ul style="list-style-type: none">
+<li><i>One can only speculate on the influence of the Queen. Three thoughts can perhaps be ventured. The first is that the influence of a sovereign is likely to increase during her reign, for the longer she remains on the throne the greater the political experience which she accumulates. By 1996, the Queen will have been on the throne for 44 years, known nine Prime Ministers and have enjoyed a longer experience of public life than anyone who is politically active today. 'In the course of a long reign', Bagehot declared, 'a sagacious king would acquire an experience with which few ministers could contend. The king could say: "Have you referred to the transactions which happened during such and such an administration, I think about fourteen years ago?" They afford an instructive example of the bad results which are sure to attend the policy which you propose. You did not at that time take so prominent a part in public life as you now do, and it is possible you do not fully remember all the events. I should recommend you to recur to them, and to discuss them with your older colleagues who took part in them. It is unwise to recommend a policy which so lately worked so ill.’</i></li>
 </ul>
 
 </li>
@@ -195,9 +195,13 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 <li><u>The President has to keep discussions confidential</u></li>
 </ol>
 
-
-{:start="22"}
-22. Another key point is that the President has to keep these discussions confidential. Again, Bogdanor has this to say <a href="#fn4"><sup>4</sup></a>:
+<ol start="22">
+<li>Another key point is that the President has to keep these discussions confidential. Again, Bogdanor has this to say <sup><a href="#fn4">4</a></sup>:
+<ul style="list-style-type: none;">
+<li><em>It is important to notice that the sovereign's right to express her opinions on government policy, &hellip; [to the Prime Minister ], entails &hellip;, that communications between her and the Prime Minister remain confidential. She is not entitled to make it known that she holds different views on some matter of public policy from those of her government. It is a fundamental condition of royal influence that it remains private. It follows, therefore, that the sovereign must observe a strict neutrality in public and great discretion in her private conversation.</em></li>
+</ul>
+</li>
+</ol>
 
 {:start="23"}
 23. Practically, if the President does not keep the discussions confidential, then the Prime Minister will most likely cease engaging in any meaningful discussion with him.
@@ -211,7 +215,7 @@ This is made clear in a summing-up speech made to the Indian Constituent Assembl
 24. The 1991 constitutional a mendments gave the President specific powers , and the Ministry of Law had issued a Statement (see **<u>Annex D</u>**) on 6 June 2011 setting out the effect of the a mendments.
 
 <ol start="25">
-<li>  In summary, the EP is given veto powers on : the spending of reserves, specific appointments, detentions without trial , and Corrupt Practices Investigation Bureau investigations. The r ationale for these powers is to :-
+<li>  In summary, the EP is given veto powers on : the spending of reserves, specific appointments, detentions without trial , and Corrupt Practices Investigation Bureau investigations. The rationale for these powers is to :-
 
 <ol style="list-style-type: lower-alpha">
 <li>Provide a check against a profligate Government, which might be tempted to spend accumulated reserves; </li>
@@ -228,7 +232,7 @@ These are <u>extremely important roles and powers</u>.
 26. Taking a step back, some have asked what the Elected President does then, if he has no powers. Actually, it is quite untrue that the President is powerless; the exercise of the powers I have mentioned are critically important if the Government is corrupt or incompetent . So far however, there has been little or no public discussion on these points.
 
 {:start="27"}
-27. It is worth noting that i n some areas, the Elected President has discretion to act; in other areas, he has to consult the Council of Presidential Advisors , and so on. The President’s direct election gives him the moral authority to exercise these important powers.
+27. It is worth noting that in some areas, the Elected President has discretion to act; in other areas, he has to consult the Council of Presidential Advisors , and so on. The President’s direct election gives him the moral authority to exercise these important powers.
 
 {:start="28"}
 28. In all other aspects, the office and powers of the President remain unchanged, and the <u>same constitutional position as before holds</u>. This was made clear in the 1988 White Paper . In the Parliamentary debates thereafter , various ministers have made clear that the changes in the President’s powers are only in the specific areas covered by the Constitutional amendments. (See **<u>Annex E</u>**.)  Articles 21(1) and 24(2) of the Constitution remain in full force – without any change. Then SM Lee put it in his own inimitable words, and said that as a lawyer, he had paid careful attention to the words of the proposed amendments to make sure that the President’s position was essentially unchanged except for the areas specifically added thorough the  1991 amendments.
@@ -267,7 +271,7 @@ These are <u>extremely important roles and powers</u>.
 34. If a Head of State challenges the Government, he would be acting unconstitutionally.  The draft of the Note which was eventually sent by PM Baldwin to King Edward VIII (a copy of which is at **<u>Annex F</u>**) points out that, “the last time when [the King acted in disregard of his Ministers’ advice] in English history was when Charles I raised His Standard at the beginning of the Civil War on August 22nd, 1642.” Eventually this sentence was changed to a more polite version (as in **<u>Annex A</u>** ) . Nowadays, thankfully, there are processes to resolve these questions, if the need arises, without requiring a revolution.  
 
 {:start="35"}
-35. Leaving aside the Constitution and the law , as a matter of principle : should the Head of State speak publicly, either in support of or in opposition to Government policies? If the purpose is to influence the Government, would the best approach be to go public, or would it be to speak in private with the Prime Minister – as is generally done? If the real purpose of going public is to be p o pulist, then the Presidency will inevitably be engaged in politics. The reality is that, once you argue a position on any issue of the day, it will be hard to avoid be seen as engaging in politics and debate. Saying that one can make statements on issues, without being partisan, is akin to saying that one can be only “a little bit pregnant”!
+35. Leaving aside the Constitution and the law , as a matter of principle : should the Head of State speak publicly, either in support of or in opposition to Government policies? If the purpose is to influence the Government, would the best approach be to go public, or would it be to speak in private with the Prime Minister – as is generally done? If the real purpose of going public is to be populist, then the Presidency will inevitably be engaged in politics. The reality is that, once you argue a position on any issue of the day, it will be hard to avoid be seen as engaging in politics and debate. Saying that one can make statements on issues, without being partisan, is akin to saying that one can be only “a little bit pregnant”!
 
 {:start="36"}
 36. These points have been considered over a long period of time in many countries, and the distilled practice on how constitutional Heads of States should conduct themselves, is now settled – for very good reasons.
@@ -313,7 +317,7 @@ These are “wrong” questions because the President cannot do any of these thi
 42. As we grow as a nation, we should develop the presidency as an institution of authority and prestige,    with significant c onstitutional powers. It can be a powerful , influential i nstitution, checking on a rogue Government , if the Office is held by people who can discharge the duties with great skill and care.
 
 
-[Annexes to Remarks by Minister Shanmugam at IPS Forum (0.9MB)](/files/news/speeches/2011/08/linkclickea4e.pdf)
+[Annexes to Remarks by Minister Shanmugam at IPS Forum (1.04MB)](/files/news/speeches/2011/08/linkclickea4e.pdf)
 
 ----
 <p id="fn1"><sup>[1]</sup> Bogdanor, Vernon, “The Monarchy and the Constitution”, Parliamentary Affairs, 1996, 49(3), pp410-411. </p>

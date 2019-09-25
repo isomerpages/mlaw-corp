@@ -9,11 +9,11 @@ collection_name: news
 29 Oct 2013 Posted in [Speeches](/news/speeches)
 
 
-<div style="text-align: center">
-<strong>International Dispute Resolution:
+<p style="text-align: center; font-weight:bold">
+  <i>International Dispute Resolution:</i>
 <br>
-The Singapore Perspective in an Evolving Landscape </strong>
-</div>
+  <i>The Singapore Perspective in an Evolving Landscape</i>
+</p>
 
 1. In the last 20 years, if you look at the global trade, that’s grown at an average of 5.5 per cent per annum. 
 

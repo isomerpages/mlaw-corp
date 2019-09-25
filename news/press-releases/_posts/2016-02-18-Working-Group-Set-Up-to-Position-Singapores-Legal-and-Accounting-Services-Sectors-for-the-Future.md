@@ -79,7 +79,7 @@ collection_name: news
 **18 FEBRUARY 2016**  
 
 [Annex A: List of members on the Working Group on Legal and Accounting Service (DOCX, 0.03MB)](/files/news/press-releases/2016/02/Annex A- List of members.docx)  
-[Annex B: Photos of the first meeting of the Committee on the Future Economy’s Working Group on Legal and Accounting Services (DOCX,1MB)](/files/news/press-releases/2016/02/Annex B - Photos of the first meeting of Committee.docx)
+[Annex B: Photos of the first meeting of the Committee on the Future Economy’s Working Group on Legal and Accounting Services (DOCX,1MB)](/files/news/press-releases/2016/02/AnnexB-PhotosOfTheFirstMeetingOfCommittee.docx)
 
 **<u>Media Contact</u>**
 

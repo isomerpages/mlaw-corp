@@ -48,7 +48,7 @@ Exceptions under the Legal Profession Act currently applicable to arbitration wi
 
 {:start="7"}
 7. Interested parties may view the public consultation paper online at 
-([https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html](/news/public-consultations)) and submit feedback in electronic or hard copy form via either of the following:  
+([https://www.mlaw.gov.sg/news/public-consultations](/news/public-consultations)) and submit feedback in electronic or hard copy form via either of the following:  
 Legal Industry Division  
 Ministry of Law  
 100 High Street  

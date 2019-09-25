@@ -24,8 +24,8 @@ collection_name: news
 **Strengthening Singapore’s position as a leading centre for international debt restructuring in Asia**
 
  
-{:start="4"}
-4. In March 2017, the Companies (Amendment) Bill was passed in Singapore’s Parliament, containing amendments that would enhance Singapore’s debt restructuring and corporate rescue framework. Key changes implemented through the legislative amendments were:
+<ol start="4">
+<li>In March 2017, the Companies (Amendment) Bill was passed in Singapore’s Parliament, containing amendments that would enhance Singapore’s debt restructuring and corporate rescue framework. Key changes implemented through the legislative amendments were:
 
 <ol style="list-style-type: lower-alpha;"> 
 
@@ -39,9 +39,11 @@ collection_name: news
 
 <li>Provisions to facilitate cross-border insolvency and restructuring.</li>
 </ol>
+</li>
+</ol>
  
 {:start="5"}
-5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex](/news/legal-industry-newsletters/note-by-senior-minister-of-state-for-law-and-finance--indranee-r5).
+5. More details on Singapore’s measures to strengthen itself as a leading centre for international debt restructuring in Asia can be found in the [Annex](/news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r5/).
 
  
 {:start="6"}

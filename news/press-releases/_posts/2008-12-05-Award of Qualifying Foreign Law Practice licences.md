@@ -14,7 +14,7 @@ collection_name: news
 **Background**
 
 {:start="2"}
-2. The Government had earlier announced the liberalisation of the legal services sector, through the introduction of a QFLP Scheme.  The Scheme provides for licences to be given to foreign law practices to practise Singapore law in permitted areas 1 through Singapore-qualified solicitors employed by them.   
+2. The Government had earlier announced the liberalisation of the legal services sector, through the introduction of a QFLP Scheme.  The Scheme provides for licences to be given to foreign law practices to practise Singapore law in permitted areas <a href="#areas"><sup>1</sup></a> through Singapore-qualified solicitors employed by them.   
  
 {:start="3"} 
 3. In August 2008, foreign law practices were invited to apply for the QFLP licences.  At the close of the application on 9 October 2008, a total of 20 proposals from foreign law firms were received.  
@@ -38,7 +38,7 @@ collection_name: news
 8. The QFLP scheme complements other recent liberalisation measures with regard to international arbitration and the Joint Law Venture scheme.  It will be reviewed in due course with a view to further liberalisation of Singapore's legal services sector.
 
 
-<sup>[1]</sup>All areas except domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, and administrative law. 
+<p id="areas"><sup>[1]</sup>All areas except domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, and administrative law. </p> 
 
 
 **Attachments**

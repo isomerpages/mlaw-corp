@@ -16,6 +16,6 @@ To ask the Minister for Law (a) how much freehold land is currently possessed by
 
 **<u>Written Answer:</u>**
 
-1 Land held by the Government is released for sale to the private sector for development mainly via open tender through the Government Land Sales (GLS) programme. The lease tenure for land sold under the GLS programme does not exceed 99 years and is determined prior to launch. 
+1. Land held by the Government is released for sale to the private sector for development mainly via open tender through the Government Land Sales (GLS) programme. The lease tenure for land sold under the GLS programme does not exceed 99 years and is determined prior to launch. 
 
 <p class="right-side-updated">Last updated on 02 Apr 2019</p>

@@ -51,17 +51,17 @@ collection_name: news
 
 <table class="table-h">
 <tr>
-<td>Chinese</td>
+<td role="rowheader">Chinese</td>
 
 <td>《防止骚扰法》</td>
 </tr>
 <tr>
-<td>Malay</td>
+<td role="rowheader">Malay</td>
 <td>Akta Perlindungan Daripada Gangguan</td>
 </tr>
 
 <tr>
-<td>Tamil</td>
+<td role="rowheader">Tamil</td>
 <td>தொந்தரவில் இருந்து பாதுகாக்கும் சட்டம்</td>
 </tr>
 </table>

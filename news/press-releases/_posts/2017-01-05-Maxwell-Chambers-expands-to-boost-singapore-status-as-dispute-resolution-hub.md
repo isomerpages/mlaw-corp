@@ -30,8 +30,8 @@ collection_name: news
 {:start="6"}
 6. Restoration works will start in May 2017 and complete in 2019. Award-winning Singaporean architect Mok Wei Wei has been appointed to lead the restoration.
 
-{:start="7"}
-7. The expansion will add to Maxwell Chambers 120,000 square feet of floor space and triple its current size.
+<ol start="7">
+<li>The expansion will add to Maxwell Chambers 120,000 square feet of floor space and triple its current size.
 
  
 <ol style="list-style-type: lower-roman">
@@ -45,7 +45,8 @@ collection_name: news
 
 <li>An overhead link-bridge will be constructed to connect the two buildings for easy access between offices and hearing rooms. </li> 
 </ol>
- 
+</li>
+</ol>
 
 **Meeting Growing Demand** 
 

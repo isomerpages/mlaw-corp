@@ -43,7 +43,10 @@ Issued by Ministry of Law
 </li>
 </ol>
 
-However, domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, administrative law and all aspects of criminal and commercial litigation, will continue to be excluded.
+
+<p>However, domestic areas of litigation and general practice, for example, criminal law, retail conveyancing, family law, administrative law and all aspects of criminal and commercial litigation, will continue to be excluded.</p>
+
+
 
 **International Commercial Arbitration**
 
@@ -135,9 +138,6 @@ However, domestic areas of litigation and general practice, for example, crimina
 <li><a href="/files/news/press-releases/2007/12/linkclick3d28.pdf">Press release enclosures 1 to 5 (0.05MB)</a></li>
  <li><a href="/files/news/press-releases/2007/12/linkclicke1d7.pdf">Full report of the Committee to develop Singapore legal sector [118 pages](0.6MB)</a></li>
 </ul>
-
-
-
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>
 

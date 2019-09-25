@@ -5,20 +5,20 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #907051;
+$primary: #a40935;
 $secondary: #a40935;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #633b74;
-$media-color-two: #810246;
-$media-color-three: #6e0d25;
-$media-color-four: #503b31;
-$media-color-five: #816c3c;
-$media-color-six: #4c5760;
-$media-color-seven: #2c3989;
-$media-color-eight: #35679e;
-$media-color-nine: #3b7f4e;
-$media-color-ten: #166c62;
+$media-color-one: #696969;
+$media-color-two: #800000;
+$media-color-three: #A0522D;
+$media-color-four: #866633;
+$media-color-five: #505050;
+$media-color-six: #484848;
+$media-color-seven: #505050;
+$media-color-eight: #585858;
+$media-color-nine: #606060;
+$media-color-ten: #686868;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -232,7 +232,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: #a40935 !important;
 }
 
 // Pagination
@@ -255,6 +255,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
+/* original before modification on 2 sept 2019
 #key-highlights{
 	background-color: $primary;
 	.col {
@@ -267,6 +268,21 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
+*/
+
+#key-highlights{
+	background-color: #696969;
+	.col {
+		border-left:1px solid darken(#696969,10%);
+		@include touch(){
+			border-top:1px solid darken(#696969,10%);
+		}
+		&:hover{
+			background-color: darken(#696969,10%);
+		}
+	}
+}
+
 
 // Navbar
 .navbar{
@@ -396,6 +412,13 @@ $desktop: 960px + (2 * $gap) !default;
   margin-top: 30px;
 }
 
+/* style for list where there is no margin between list items */
+.content .ol-no-margin li{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+
 /* class to be used when styling the last updated text  */
 .right-side-updated{
     text-align: right;
@@ -403,12 +426,18 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /* class to be used when styling addresses that needs to be center aligned */
+
 .address-centered{
   text-align: center;
   margin: 0 !important;
   padding: 0 !important;
 	
 }
+
+/* class to use when the item of an ordered list need to have decimal place */
+.sub-list ol { counter-reset: item }
+.sub-list li { display: block }
+.sub-list li p:before {content: counters(item,".")". "; counter-increment: item}
 
 /* class to use when center align video element */
 .video-centered{
@@ -418,12 +447,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 }
 
-/* quick fix for links with long name    */
-/*
-.link-long-name::before{
-  top: -19px !important;	
-}	
-*/
+
 
 .hero-dropdown {
   display: flex;

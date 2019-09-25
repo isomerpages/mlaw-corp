@@ -1,0 +1,19 @@
+/lab https://lab.mlaw.gov.sg/
+/thisdoesnotexist https://lab.mlaw.gov.sg
+/example/here https://lab.mlaw.gov.sg
+/news/abc /news/press-releases 
+/content/ab/en/ https://ab.mlaw.gov.sg
+/ab/ https://ab.mlaw.gov.sg
+/content/cmc/en/ https://cmc.mlaw.gov.sg
+/cmc/ https://cmc.mlaw.gov.sg
+/content/cmc/en.html https://cmc.mlaw.gov.sg
+/content/io/en/ https://io.mlaw.gov.sg
+/content/lab/en/ https://lab.mlaw.gov.sg
+/content/lsb/en/ https://lsb.mlaw.gov.sg
+/content/pto/en/ https://pto.mlaw.gov.sg
+/content/rom/en/ https://rom.mlaw.gov.sg
+/content/rop/en/ https://rop.mlaw.gov.sg
+/content/minlaw/en/our-legal-system.html /about-us/our-legal-system/our-legal-system/
+/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html
+
+

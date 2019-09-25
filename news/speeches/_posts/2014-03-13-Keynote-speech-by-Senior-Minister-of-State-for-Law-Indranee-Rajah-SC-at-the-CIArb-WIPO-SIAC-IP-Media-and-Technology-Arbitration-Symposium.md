@@ -10,17 +10,17 @@ collection_name: news
 
 
 **<u>Introduction</u>**
-<br>  
+
 President of the Chartered Institute of Arbitrators, Mr Michael Stephens,
-<br>  
+
 Chairman of the Chartered Institute of Arbitrators, Mr Richard Tan,
-<br>  
+
 Chief Executive Officer of the Singapore International Arbitration Centre, Ms Lim Seok Hui,
-<br>  
+
 Deputy Director of the World Intellectual Property Organization Arbitration and Mediation Center, Mr Ignacio De Castro,
-<br>  
+
 Distinguished Guests, Ladies and Gentlemen, 
-<br>
+
 A very good morning to all of you.
 
 1. Thank you for inviting me to speak at this symposium.  I am very pleased to be here with you.

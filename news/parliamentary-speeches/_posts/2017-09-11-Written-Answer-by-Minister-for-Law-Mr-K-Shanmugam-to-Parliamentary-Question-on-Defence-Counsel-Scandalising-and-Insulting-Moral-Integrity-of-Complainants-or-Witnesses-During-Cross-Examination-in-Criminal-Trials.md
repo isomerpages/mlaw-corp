@@ -10,7 +10,7 @@ date: 2017-09-11
 
 **Asst Prof Mahdev Mohan (Nominated Member of Parliament)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law in each year since 2011, how many instances have there been of cross-examination by defence counsel which have been calculated to scandalise and insult the moral integrity of complainants or witnesses in criminal trials concerning sexual or child abuse offences.  
 
 **<u>Answer:</u>**

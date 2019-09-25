@@ -330,7 +330,7 @@ Fourth, in terms of hardware, we have set up Maxwell Chambers, which is the worl
 {:start="43"}
 43. Together, the international and local law practices can provide a comprehensive set of legal services to global clients.
 
-<ol start="5" style="list-style-type: upper-roman">
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Conclusion</u></li> 
 </ol>
 

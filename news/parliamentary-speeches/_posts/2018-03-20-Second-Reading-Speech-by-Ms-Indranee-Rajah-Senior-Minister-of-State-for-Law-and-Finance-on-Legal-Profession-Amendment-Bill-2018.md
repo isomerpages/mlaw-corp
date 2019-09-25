@@ -251,7 +251,7 @@ Mr Deputy Speaker,
 
  
 {:start="31"}
-31.<u>Fifth</u>: Clause 30 of the Bill allows Singapore law practices which are structured as law corporations and limited liability law partnerships to form a group law practice. Currently, only Singapore law practices structured as sole proprietorships and partnerships may form a group law practice. This updates the group law practice scheme which was introduced prior to the introduction of law corporations and limited liability law partnerships.
+31. <u>Fifth</u>: Clause 30 of the Bill allows Singapore law practices which are structured as law corporations and limited liability law partnerships to form a group law practice. Currently, only Singapore law practices structured as sole proprietorships and partnerships may form a group law practice. This updates the group law practice scheme which was introduced prior to the introduction of law corporations and limited liability law partnerships.
 
  
 {:start="32"}

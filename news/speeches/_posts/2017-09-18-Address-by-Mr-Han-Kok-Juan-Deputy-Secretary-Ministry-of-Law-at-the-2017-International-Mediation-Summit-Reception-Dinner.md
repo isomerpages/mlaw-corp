@@ -8,7 +8,7 @@ collection_name: news
 
 18 Sep 2017 Posted in [Speeches](/news/speeches)
 
-*Translated to English. Please click [here (0.1MB)](/files/news/speeches/2017/09/IMS Reception Dinner - Address by DS Han Kok Juan_Chinese.pdf)
+*Translated to English. Please click [here (0.1MB)](/files/news/speeches/2017/09/IMS Reception Dinner - Address by DS Han Kok Juan_Chinese.pdf) for the original speech in Chinese.*
 
 Dr Lu Pengqi, Vice Chairman, China Council for Promotion of International Trade
 <br>  

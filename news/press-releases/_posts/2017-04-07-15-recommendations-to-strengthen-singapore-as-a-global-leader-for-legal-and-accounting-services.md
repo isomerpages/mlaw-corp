@@ -121,7 +121,7 @@ MinLaw and EDB currently already have a joint programme office to develop and pr
 <table class="table-h">
   <tr>
     <th ></th>
-    <th colspan="2">Co-Chairs</th>
+    <th colspan="2" scope="col">Co-Chairs</th>
   </tr>
   
   <tr>
@@ -139,7 +139,7 @@ MinLaw and EDB currently already have a joint programme office to develop and pr
 
 <tr>
 <th></th>
-<th colspan="2">Members<sup>[1]</sup></th>
+<th colspan="2" scope="col">Members<sup>[1]</sup></th>
 </tr>
 
 

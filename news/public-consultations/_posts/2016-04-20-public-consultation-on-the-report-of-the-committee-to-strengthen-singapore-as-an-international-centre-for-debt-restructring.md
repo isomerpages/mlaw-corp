@@ -2,7 +2,7 @@
 layout: post
 title: Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring
 permalink: /news/public-consultations/public-consultation-on-the-report-of-the-committee-to-strengthen
-breadcrumb: Public Consultation
+breadcrumb: Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring
 collection_name: news
 ---
 
@@ -27,22 +27,33 @@ collection_name: news
  
 {:start="5"}
 5. To enhance the legal framework for restructurings, the Committee’s recommendations include:
-    * **Creating bespoke rules and procedures for restructuring**, to ensure that Singapore’s legal framework can resolve restructurings quickly and cost-efficiently, and delivers high certainty of outcomes.
-    * **Deepening the bench with specialist insolvency judges**, who will take an active case management approach to assist in steering stakeholders to successful outcomes; and
-    * **Increasing the use of Alternative Dispute Resolution processes** such as mediation or arbitration to resolve insolvency issues where appropriate, as they can result in significant cost savings.
 
+<ol class="list-style-type:lower-roman">
+ <li><b>Creating bespoke rules and procedures for restructuring</b>, to ensure that Singapore’s legal framework can resolve
+  restructurings quickly and cost-efficiently, and delivers high certainty of outcomes.</li>
+ <li>Deepening the bench with specialist insolvency judges**, who will take an active case management approach to assist in
+  steering stakeholders to successful outcomes; and</li>
+ <li>Increasing the use of Alternative Dispute Resolution processes** such as mediation or arbitration to resolve insolvency
+  issues where appropriate, as they can result in significant cost savings.</li>
+</ol>
  
 {:start="6"}
+
 6. To create a restructuring friendly ecosystem, the Committee’s recommendations include:
-    * **Increasing the availability of rescue financing**, to allow the debtor to continue its business operations as the restructuring is being negotiated; and
-    * **Strengthening the quality of insolvency professionals based in Singapore**, to deepen expertise in handling complex cross-border restructuring work.
+<ol class="list-style-type:lower-roman">
+ <li><b>Increasing the availability of rescue financing</b>, to allow the debtor to continue its business operations as the restructuring is being negotiated; and</li>
+ <li><b>Strengthening the quality of insolvency professionals based in Singapore</b>, to deepen expertise in handling complex cross-border restructuring work.</li>
+</ol>
 
  
 {:start="7"}
 7. To address the perception gap, the Committee’s recommendations include:
-    * **Raising Singapore’s profile on the international stage**, through Singapore-based professionals, judges and academics increasing their involvement in international insolvency organisations, organising or speaking at conferences, and/or conducting research on cutting edge issues in this field.
 
- 
+<ol class="list-style-type:lower-roman">
+ <li>Raising Singapore’s profile on the international stage**, through Singapore-based professionals, judges and academics
+  increasing their involvement in international insolvency organisations, organising or speaking at conferences, and/or
+  conducting research on cutting edge issues in this field.</li>
+</ol>
 
 A full list of the Committee’s recommendations is attached [here(PDF, 0.05MB)](/files/news/public-consultations/2016/04/Recommendations of the Committee.pdf).
 
@@ -64,10 +75,12 @@ A full list of the Committee’s recommendations is attached [here(PDF, 0.05MB)]
 {:start="10"}
 10. Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report [here(PDF, 6MB)](/files/news/public-consultations/2016/04/Final DR Report.pdf) and submit feedback in electronic or hard copy form via:
 
-Policy Advisory Division, Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
+<p class="address-centered">
+Policy Advisory Division, Ministry of Law<br>
+100 High Street<br>
+#08-02, The Treasury<br>
+Singapore 179434<br>
+Fax: 6332 8842<br>
 Email: [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
+</p>
 

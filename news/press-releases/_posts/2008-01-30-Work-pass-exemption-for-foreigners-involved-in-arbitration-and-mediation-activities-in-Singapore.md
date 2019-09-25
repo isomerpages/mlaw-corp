@@ -13,7 +13,7 @@ From 1 February 2008, foreigners may enter Singapore to carry out arbitration an
 
 This exemption was recently announced by the Ministry of Manpower. It complements the Ministry of Law's efforts to grow and strengthen the international arbitration and mediation industries in Singapore, by minimising the administrative demands on foreigners performing such work here.
 
-For more information, please view MOM's [press release](http://www.mom.gov.sg/publish/momportal/en/press_room/press_releases/2008/20080125-MWP.html).
+For more information, please view MOM's [press release](https://www.mom.gov.sg/newsroom/press-releases/2008/two-new-work-pass-categories-for-foreigners-in-singapore-on-short-term-assignments).
 
 
 

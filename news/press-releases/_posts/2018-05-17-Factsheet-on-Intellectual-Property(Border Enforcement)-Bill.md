@@ -45,14 +45,14 @@ collection_name: news
 
 <table class="table-h">
 <tr>
-    <th rowspan="2">Action</th>
-    <th colspan="4">Scope of IPR</th>
+    <th rowspan="2" scope="col">Action</th>
+    <th colspan="4" scope="col">Scope of IPR</th>
   </tr>
   <tr>
-  <th>Copyright</th>
-  <th>Trade Mark</th>
-  <th>GI</th>
-  <th>Design</th>
+  <th scope="col">Copyright</th>
+  <th scope="col">Trade Mark</th>
+  <th scope="col">GI</th>
+  <th scope="col">Design</th>
   </tr>
   <tr>
     <td>Ex officio for imports</td>
@@ -117,8 +117,8 @@ collection_name: news
 
 <table class="table-h">
 <tr>
-<th>Implementation Timeline</th>
-<th>Key Changes</th>
+<th scope="col">Implementation Timeline</th>
+<th scope="col">Key Changes</th>
 </tr>
 
 <tr>

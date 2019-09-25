@@ -9,10 +9,13 @@ collection_name: news
 24 Jan 2019 Posted in [Speeches](/news/speeches)
 
 Ms Gao Yan, Chairperson, China Council for the Promotion of International Trade (CCPIT)  
-Our Many Distinguished Guests  
+<br>
+Our Many Distinguished Guests
+<br>  
 Ladies and Gentlemen  
 
-**Introduction**
+<p style="margin-left: 18px; font-weight:bold">Introduction</p>
+
 
 
 {:start="1"}

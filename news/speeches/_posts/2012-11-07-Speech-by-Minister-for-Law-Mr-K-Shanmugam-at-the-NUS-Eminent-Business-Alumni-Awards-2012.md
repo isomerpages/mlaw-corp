@@ -46,7 +46,7 @@ Ladies and Gentlemen,
 
 16. In this age of active citizen governance and public-private sector partnerships, particularly with the huge resources that private enterprises and citizens have amassed, monitoring and correcting market failures and ensuring corporate social responsibility are now being shared by individuals. Governments have to continue to intervene where there are clear market failures and where services do not get to the right social strata. In addition, individuals in businesses have the moral obligations to ensure that our society and economy continue to grow in a responsible way.
 
-17 . Corporate social responsibility is no longer only about how you spend your money. It is no longer only about donating millions to charity. It is also about how you make your money as a responsible member of our global community.
+17. Corporate social responsibility is no longer only about how you spend your money. It is no longer only about donating millions to charity. It is also about how you make your money as a responsible member of our global community.
 
 <ol start="18">
 <li>  Questions that need to be asked: 

@@ -10,7 +10,7 @@ collection_name: news
 
 **Ms Rahayu Mahzam (Member of Parliament for Jurong GRC)**
 
-**<u>Question:</u>**
+**<u>Question:</u>**  
 To ask the Minister for Law (a) whether he can provide an update on the implementation of the Family Justice Committee's reforms; (b) whether there has been an assessment of the outcomes of the cases at the Family Justice Courts after the introduction of the various reforms; (c) whether further enhancements can be made to the court processes to encourage families to heal and reconcile; and (d) how can the family law practitioners be part of this change.
 
 

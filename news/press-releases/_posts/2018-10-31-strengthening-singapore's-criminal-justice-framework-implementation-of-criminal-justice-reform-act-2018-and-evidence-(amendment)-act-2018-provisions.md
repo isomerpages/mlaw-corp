@@ -39,7 +39,11 @@ collection_name: news
 
 1. The key provisions of the Criminal Justice Reform Act 2018 and Evidence (Amendment) Act 2018 that will be brought into force on 31 October 2018 are as follows.
 
-<u>(A) Enhancing Protection for Complainants in the Court Process</u>
+
+<ol style="list-style-type: upper-alpha">
+<li><u>Enhancing Protection for Complainants in the Court Process</u></li>   
+</ol>   
+
 
 {:start="2"}
 2. A suite of measures has been introduced to enhance protection for complainants of sexual or child abuse offences, and to reduce the stress they face when participating in the criminal process.
@@ -47,29 +51,43 @@ collection_name: news
 {:start="3"}
 3. The Defence will not be allowed to ask complainants questions about their sexual history and behaviour that do not relate to the charge or the accused, without court permission. Complainants will give testimony behind closed doors, and may be allowed to testify behind a physical screen.
 
-<u>(B) Deferred Prosecution Agreements (“DPAs”)</u>
+
+
+<ol style="list-style-type: upper-alpha" start="2">
+<li><u>Deferred Prosecution Agreements (“DPAs”)</u></li>   
+</ol>
 
 {:start="4"}
 4. There will now be a formal framework for the Prosecution to enter into DPAs with corporate offenders accused of scheduled offences. Under a DPA, the Public Prosecutor agrees not to prosecute a corporation in exchange for compliance with a series of conditions.
 
-{:start="5"}
-5. The ability to enter into DPAs will be beneficial to the public at large:
+<ol start="5">
+<li>The ability to enter into DPAs will be beneficial to the public at large:
 
 <ol style="list-style-type: lower-alpha;">
 <li>It better equips Singapore to investigate large-scale, complex corporate crimes, and bring the truly culpable individuals to justice. For instance, the Public Prosecutor may (as a condition of the DPA) require a company to produce documentary evidence or assist in investigations against its former managers and directors. This aids successful prosecutions while averting costly investigations and litigation.</li>
    
 <li>The Public Prosecutor may also make it a condition in the DPA that the company undertakes corporate reform measures. This reduces the risk of future offending by the corporation, and thus protects the public from harm.</li>
 </ol>
+</li>
+</ol>
 
-{:start="6"}
-6. At the same time, the Ministry of Law has introduced safeguards to ensure that DPAs will lead to just outcomes. In particular,
+
+<ol start="6">
+<li>At the same time, the Ministry of Law has introduced safeguards to ensure that DPAs will lead to just outcomes. In particular,
 
 <ol style="list-style-type: lower-alpha;">
 <li> All DPAs must be approved by the High Court. The High Court must be satisfied that (i) the agreement is in the interests of justice, and (ii) its terms are fair, reasonable and appropriate.</li>
 <li> DPAs must be published once they are approved by the court.</li>
 </ol>
+</li>
+</ol>
 
-<u>(C) Expansion of Community Sentencing</u>
+
+<ol start="3" style="list-style-type: upper-alpha">
+<li><u>Expansion of Community Sentencing</u></li>   
+</ol>   
+
+
 
 {:start="7"}
 7. Community sentences are sentences that combine punishment with rehabilitation. They were positively received when first introduced in 2011, and have produced good results.
@@ -80,21 +98,27 @@ collection_name: news
 {:start="9"}
 9. Finally, to encourage compliance with community sentences, the courts are now empowered to impose a suspended imprisonment sentence along with a community sentence. The imprisonment sentence automatically takes effect if an offender breaches the conditions of his community sentence.
 
-<u>(D) Strengthening the Bail / Personal Bond Regime</u>
+<ol start="4" style="list-style-type: upper-alpha">
+<li><u>Strengthening the Bail / Personal Bond Regime</u></li>
+</ol>
 
 {:start="10"}
 10. Courts will now have discretion to order electronic tagging as a condition of bail/personal bond. This will allow more accused persons to benefit from the bail/personal bond regime.
 
-{:start="11"}
-11. However, to prevent errant accused persons from absconding or perverting the course of justice, other aspects of the bail/personal bond regime have been tightened. These include:
+<ol start="11">
+<li>However, to prevent errant accused persons from absconding or perverting the course of justice, other aspects of the bail/personal bond regime have been tightened. These include:
 
 <ol style="list-style-type: lower-alpha;">
 <li> The court will have discretion to withhold bail for bailable offences, if it believes that the accused will abscond whilst on bail. </li>
 
 <li> 3 new offences have been created: absconding whilst on bail or personal bond; leaving the jurisdiction without permission; and entering agreements to indemnify a surety. </li>
 </ol>
+</li>
+</ol>
 
-<u>(E) Extending Video-Link Hearings to Pleas of Guilt and Sentencing</u>
+<ol start="5" style="list-style-type: upper-alpha">
+<li><u>Extending Video-Link Hearings to Pleas of Guilt and Sentencing</u></li>
+</ol>
 
 {:start="12"}
 12. Currently, an accused who is on remand can appear before a court through live video-link in proceedings such as applications for bail or release on personal bond, and applications for extension of the accused’s remand.

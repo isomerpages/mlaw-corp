@@ -17,7 +17,7 @@ collection_name: news
 **Revised measures**
 
 {:start="3"}
-3. MinLaw has considered and incorporated useful feedback received from the second public consultation, dialogue sessions with the Law Society and stakeholders and pilot trials, into the present proposed measures and legislation. The Conveyancing (Miscellaneous Amendments) Bill has been revised and a copy of the Bill can be found at [www.conveyancing.sg](www.conveyancing.sg). The accompanying conveyancing rules will be uploaded on this web-site when they have been finalised.
+3. MinLaw has considered and incorporated useful feedback received from the second public consultation, dialogue sessions with the Law Society and stakeholders and pilot trials, into the present proposed measures and legislation. The Conveyancing (Miscellaneous Amendments) Bill has been revised and a copy of the Bill can be found at [https://www.mlaw.gov.sg/conveyancing](https://www.mlaw.gov.sg/conveyancing). The accompanying conveyancing rules will be uploaded on this web-site when they have been finalised.
 
 {:start="4"}
 4. The key features of the revised measures are:
@@ -54,7 +54,7 @@ collection_name: news
 11. To facilitate and expedite the counter-signing process, the Singapore Land Authority (SLA) has developed an electronic Payment Instruction system (ePI) to enable lawyers to securely and efficiently lodge and digitally sign electronic pay-out forms. These forms will then be retrieved by the counter-signing lawyer and digitally counter-signed before the appointed bank or SAL retrieves the pay-out form from ePI for processing.
 
 {:start="12"}
-12. MinLaw’s responses to the feedback received from the second public consultation are in **<u>Annex A</u>**. Information on the proposed measures and guidebooks on the conveyancing workflow are available at [www.conveyancing.sg](http://www.conveyancing.sg).
+12. MinLaw’s responses to the feedback received from the second public consultation are in **<u>Annex A</u>**. Information on the proposed measures and guidebooks on the conveyancing workflow are available at [https://www.mlaw.gov.sg/conveyancing](https://www.mlaw.gov.sg/conveyancing).
 
 **<u>Attachment:</u>**  
 [MinLaw's responses to feedback received from the second public consultation on safeguarding conveyancing money (0.04MB)](/files/news/announcements/2011/03/linkclickde7f.pdf)

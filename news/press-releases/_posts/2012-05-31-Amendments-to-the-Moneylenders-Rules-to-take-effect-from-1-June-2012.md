@@ -32,7 +32,7 @@ collection_name: news
 3. Before 1 June 2012, interest rate caps were based on Nominal Interest Rates (NIR) - 12 per cent NIR for secured loans and 18 per cent NIR for unsecured loans. From 1 June 2012, all licensed moneylenders must use the Effective Interest Rate (EIR) instead of NIR as the basis of compliance with the interest rate caps. The interest rate cap of 12 per cent NIR will be replaced by its equivalent in EIR, rounded up to 13 per cent, while the cap of 18 per cent NIR will be replaced by its equivalent in EIR, rounded up to 20 per cent. Licensed moneylenders will also be required to compute and disclose the EIR of their loan packages to borrowers. This is similar to banks’ practice.
 
 {:start="4"}
-4. Unlike NIR, EIR takes into account the compounding effect of the frequency of instalments over a one-year period. This means that EIR better reflects the actual cost of borrowing over the one-year period. The EIR will also help borrowers more easily compare different loan packages. From 1 June 2012, borrowers can visit [www.ipto.gov.sg](http://www.ipto.gov.sg/) to find out more about how the Effective Interest Rate is calculated.
+4. Unlike NIR, EIR takes into account the compounding effect of the frequency of instalments over a one-year period. This means that EIR better reflects the actual cost of borrowing over the one-year period. The EIR will also help borrowers more easily compare different loan packages. 
 
 
 {:start="5"}

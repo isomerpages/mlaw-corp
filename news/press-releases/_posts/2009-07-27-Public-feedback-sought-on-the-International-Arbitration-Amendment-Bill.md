@@ -21,7 +21,7 @@ The amendments are in three key areas:
 
 <li> The current definition of an arbitration agreement will be modernised to make it clear that Singapore recognises that an arbitration agreement can be contained in "electronic communications" such as electronic emails or electronic data exchange.</li>
  
-<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).</li> <a href="#NYConvention"><sup>2</sup></a>
+<li>The Minister for Law will be empowered to designate entities to authenticate, on a non-mandatory basis, "made in Singapore" arbitration awards. This facilitates the enforcement of such awards in countries which are party to the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention<a href="#NYConvention"><sup>2</sup></a>).</li>
 
 </ol>
 
@@ -41,7 +41,7 @@ The amendments are in three key areas:
 <p class="address-centered">#08-02, The Treasury</p>  
 <p class="address-centered">Singapore 179434</p>  
 <p class="address-centered">Fax: 6332 8842 </p> 
-<p class="address-centered">E-mail: <a href="MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
+<p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
 **<u>Notes:</u>**
@@ -58,7 +58,6 @@ The amendments are in three key areas:
 [Draft Bill (0.04MB)](/files/news/press-releases/2009/07/linkclickef67.pdf)    
 [Responses to feedback received from public consultation on IAA Bill](/news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment)    
 [Second Reading Speech on IAA Bill](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-international-arbitration-amendment)
-
 
 <p class="right-side-updated">Last updated on 26 Feb 2013</p>
 

@@ -15,7 +15,7 @@ collection_name: news
 
 **<u>Attachments</u>**
 
-[Second Reading Speech on International Arbitration (Amendment) Bill 2009](/files/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill)  
+[Second Reading Speech on International Arbitration (Amendment) Bill 2009](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill)  
 [Response to the feedback received from the public consultation (0.04MB)](/files/news/announcements/2009/09/linkclick1e3a.pdf)  
 [International Arbitration (Amendment) Bill (0.02MB)](/files/news/announcements/2009/09/linkclick83db.pdf)  
 [Consultation paper on draft International Arbitration (Amendment) Bill (0.02MB)](/files/news/announcements/2009/09/linkclick967e.pdf)  

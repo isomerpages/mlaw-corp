@@ -35,7 +35,7 @@ Ladies and gentlemen;
 4. It’s good to see that IPOS and Deloitte will be signing an MOU later, to drive the growth of innovative enterprises. They will try to build a base of at least a hundred innovative enterprises in Singapore, to help them grow into market leaders in the future.
 
 <ol start="2" style="list-style-type: upper-roman">
-<li>  INNOVATION AN IMPORTANT DRIVER FOR FUTURE ECONOMY</li>
+<li><u>INNOVATION AN IMPORTANT DRIVER FOR FUTURE ECONOMY</u></li>
 </ol>
 
 
@@ -60,7 +60,7 @@ Ladies and gentlemen;
 
 
 <ol start="3" style="list-style-type: upper-roman">
-<li><u>INGAPORE’S COMPETITIVE ADVANTAGES</u></li>
+<li><u>SINGAPORE’S COMPETITIVE ADVANTAGES</u></li>
 </ol>
 
 {:start="10"}
@@ -126,7 +126,7 @@ Ladies and gentlemen;
 
 
 <ol style="list-style-type: upper-alpha" start="2">
-<li>Strong research and talent base, with a skilled workforce</li>
+<li><u>Strong research and talent base, with a skilled workforce</u></li>
 </ol>
 
 {:start="21"}
@@ -160,7 +160,7 @@ Ladies and gentlemen;
 
 
 <ol start="3" style="list-style-type: upper-alpha">
-<li>  Network of innovative enterprises, investors and support services</li>
+ <li><u>Network of innovative enterprises, investors and support services</u></li>
 </ol>
 
 {:start="26"}
@@ -169,7 +169,7 @@ Ladies and gentlemen;
 <ol start="27">
 <li>On this front, IPOS has been helping to develop IP strategy and management expertise for our businesses:
 
-<ol style="list-style-typer: lower-alpha">
+<ol style="list-style-type: lower-alpha">
 
 
 <li>IPOS has developed the Master of IP and Innovation Management; working with the Singapore University of Social Sciences. </li>
@@ -224,7 +224,7 @@ Ladies and gentlemen;
 35. They are a well-deserved winner of the WIPO IP Enterprise Trophy, and the IPOS Award for IP Champions. We congratulate them.
 
 
-<ol start="5">
+<ol start="5" style="list-style-type: upper-roman">
 <li><u>CONCLUDING REMARKS</u></li>
 </ol>
 

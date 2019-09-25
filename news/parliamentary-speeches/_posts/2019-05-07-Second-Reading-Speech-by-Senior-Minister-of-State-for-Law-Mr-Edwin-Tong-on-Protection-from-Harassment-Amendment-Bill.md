@@ -234,7 +234,7 @@ In the US: a 12-year-old girl in Florida hung herself
 <ul>
 <li>In the US
 <ul>
-<li>- An ISIS-linked group published names, addresses and phone numbers of 1,400 mostly US military and government personnel, urging supporters to attack them. Can you imagine if you were one of these 1,400?</li>
+<li>An ISIS-linked group published names, addresses and phone numbers of 1,400 mostly US military and government personnel, urging supporters to attack them. Can you imagine if you were one of these 1,400?</li>
 </ul>
 </li>
 <li>In New Zealand:

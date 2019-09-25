@@ -42,7 +42,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 </ol>
 
 <ol style="list-style-type: lower-alpha;">
-<li><u>Update the legal aid means test to expand the coverage of legal aid</u></li>
+<li style="font-style:italic;"><u>Update the legal aid means test to expand the coverage of legal aid</u></li>
 </ol>
 
 {:start="3"}
@@ -80,7 +80,7 @@ The Bill also proposes technical amendments to update and clarify the current le
 The existing and proposed coverage for legal aid eligibility is illustrated in  [Annex A (0.02MB)](/files/news/press-releases/2013/01/Annex A_ 1RLAAA2013.pdf).
 
 <ol start="2" style="list-style-type: lower-alpha;">
-<li><u>Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</u></li>
+<li style="font-style:italic;"><u>Introduce greater discretion and flexibility in the administration of the legal aid scheme by LAB</u></li>
 </ol>
 
 <ol start="5">
@@ -101,7 +101,7 @@ The existing and proposed coverage for legal aid eligibility is illustrated in  
 6. Applicants for such cases will enjoy an additional relief of $5,000, and a higher assessed AV of up to $20,000 (instead of $13,000), for the disposable capital portion of the means test.
 
 <ol start="3" style="list-style-type: lower-alpha;">
-<li><u>Enhance the co-payment principle</u></li>
+<li style="font-style:italic;"><u>Enhance the co-payment principle</u></li>
 </ol>
 
 {:start="7"}
@@ -112,7 +112,7 @@ The existing and proposed coverage for legal aid eligibility is illustrated in  
 
 
 <ol start="4" style="list-style-type: lower-alpha;">
-<li><u>Other amendments</u></li>
+<li style="font-style:italic;"><u>Other amendments</u></li>
 </ol>
 
 {:start="9"}
@@ -149,7 +149,7 @@ For example, the LAAA only allows legal aid to be granted for work injury compen
 
 <p id="fn5"><sup>[5]</sup> The dependent deductible may be reduced from $6,000 to the actual amount that the main applicant and spouse are paying towards the support of the dependent.</p>
 
-<p id="estates"><sup>[6]</sup> Based on HDB’s estimates: <a href="http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent">http://www.hdb.gov.sg/fi10/fi10323p.nsf/w/RentOpenMktStatisticRent</a></p>
+<p id="estates"><sup>[6]</sup>Based on HDB’s 2013 estimates</p>
 
 
 <p id="AV"><sup>[7]</sup> The AV is the estimated annual rent of the property if it were to be rented out, excluding the furniture, furnishings and maintenance fees. It is determined after analysing the rents of similar or comparable properties. The basis of determining the AV is the same whether the property is rented out, owner-occupied or left vacant.</p>

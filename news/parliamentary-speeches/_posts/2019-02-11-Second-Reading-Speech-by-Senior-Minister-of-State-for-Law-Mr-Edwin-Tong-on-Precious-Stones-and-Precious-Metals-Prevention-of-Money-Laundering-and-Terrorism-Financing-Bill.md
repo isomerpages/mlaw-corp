@@ -70,7 +70,7 @@ Mr Speaker,
 <ol start="13">
 <li> We have developed the Bill in consultation with key stakeholders through:
 
-<ol style="list-style-type: lowwer-alpha">
+<ol style="list-style-type: lower-alpha">
 <li>Firstly, a survey of the industry; </li>
 <li>Secondly, consultations with industry associations such as the Singapore Jewellers Association, Diamond Exchange of Singapore, and the Singapore Bullion Market Association; and </li>
 <li>Finally, through a public consultation held between 13 September and 12 October 2018. </li>
@@ -90,7 +90,7 @@ Mr Speaker,
 
 <ol start="16">
 <li> The Bill:
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>  Firstly, provides for the appointment of a Registrar to supervise the PSMD sector;</li>
 <li>Secondly, imposes comprehensive AML/CFT measures on regulated dealers; and</li>
 <li> Thirdly, provides for investigation and enforcement powers, as well as the prescription of penalties for failure to abide by the requirements.</li>
@@ -98,7 +98,7 @@ Mr Speaker,
 </li>
 </ol>
 
-<ol start="list-style-type: upper-roman; font-weight: bold;">
+<ol style="list-style-type: upper-roman; font-weight: bold;">
 <li>   Scope of the Bill</li>
 </ol>
 
@@ -129,17 +129,20 @@ Mr Speaker,
 {:start="20"}
 20. Intermediaries such as auction houses and providers of trading platforms services for PSMD, whether by electronic means or otherwise, are also covered under the regime, as they facilitate transactions between buyers and sellers. Regulating these intermediaries will prevent such transactions from being used for ML/TF purposes.
 
-<ol start="2" style="list-style-type: upper-ronman; font-weight:bold;">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
 <li>  Registration of Dealers</li>  
 </ol>
 
- 
+{:start="21"} 
 21. Clause 4 of the Bill provides for the Minister to appoint a Registrar, Deputy Registrars, and Assistant Registrars, to supervise the PSMD sector.
  
+{:start="22"} 
 22. Regulated dealers, unless exempted, must register with the Registrar, in order to carry out the regulated dealing.
  
+{:start="23"} 
 23. Clause 7 of the Bill provides that the Registrar may refuse to grant or refuse to renew registration, under certain circumstances, for example, if applicants were convicted of offences such as those involving fraud, dishonesty, or money laundering. This will help ensure that individuals who are not fit and proper do not operate as regulated dealers in Singapore.
  
+{:start="24"} 
 24. Clause 9 of the Bill provides for the Registrar to impose conditions of registration on registered dealers. Conditions which may be imposed include the requirement to inform the Registrar of changes to registration details, to ensure that registered dealers remain fit and proper.
 
 <ol start="25">

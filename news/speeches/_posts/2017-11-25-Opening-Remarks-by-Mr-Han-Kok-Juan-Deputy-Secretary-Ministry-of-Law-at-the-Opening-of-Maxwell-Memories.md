@@ -68,6 +68,6 @@ Ladies and gentlemen, boys and girls
 10. Maxwell Memories will run till 31 January 2018. But our efforts to preserve the memories of Maxwell will not end with this exhibition. The Ministry of Law will put up a permanent heritage exhibit along the new 24-hour thoroughfare at the new Maxwell Chambers Suites. Next month, we will start a Design Thinking project to design this permanent heritage exhibit. I hope that this exhibition can help trigger even more Singaporeans to recollect, and to share with us their own Maxwell Memories. They can provide valuable additional inputs and materials for the permanent heritage exhibit when it opens.
  
 {:start="11"} 
-11. Thank you very much
+11. Thank you very much. 
 
 <p class="right-side-updated">Last updated on 25 Nov 2017</p> 

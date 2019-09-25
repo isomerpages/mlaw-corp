@@ -15,13 +15,15 @@ collection_name: news
 
 **Key areas of review**
 
-{:start="3"}
-3. The committee will review and make recommendations in the following areas:
+<ol start="3">
+<li>The committee will review and make recommendations in the following areas:
 
 <ol style="list-style-type: lower-roman;">
 <li><strong>Enhancing judicial control over litigation</strong> where judges play a more active role in managing cases. For instance, a judge could be involved in the early stages of a case and work with litigants to identify the issues in contention to narrow the number of issues contested in court. This can help save time and cost for the parties involved, and ensure that cases are resolved in a fair, cost-effective and timely manner.</li>
 <li><strong>More effective enforcement of civil orders</strong> by making enforcement easier and less costly for successful litigants.</li>
 <li><strong>Ensuring that legal costs are not an impediment to access to justice</strong>, and that the cost of litigation is proportionate to the value of the claim.</li>
+</ol>
+</li>
 </ol>
 
 {:start="4"}

@@ -77,7 +77,7 @@ This will introduce enhanced court management processes that will empower the co
 
 
 [Infographic on Family Justice System (JPG, 0.42MB)](/files/news/press-releases/2014/07/Family Justice infographic.jpg)  
-[Family Justice Report (0.68MB)](/files/news/press-releases/2014/07/Family Justice Report.pdf)
+[Family Justice Report (1.05MB)](/files/news/press-releases/2014/07/FamilyJusticeReport.pdf)
 
 
 <p class="right-side-updated">

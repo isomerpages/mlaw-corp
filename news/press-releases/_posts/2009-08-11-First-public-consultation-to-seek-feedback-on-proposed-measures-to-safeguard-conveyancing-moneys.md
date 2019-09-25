@@ -53,13 +53,13 @@ collection_name: news
 8. The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys. The consultation period is from 11 to 26 August 2009. The feedback may be sent in electronic or hard copy form to:
 
 
-Legal Policy Division  
-Ministry of Law  
-100 High Street  
-#08-02, The Treasury  
-Singapore 179434  
-Fax: 6332 8842  
-E-mail:<MLAW_Consultation@mlaw.gov.sg>
+<p class="address-centered">Legal Policy Division </p>  
+<p class="address-centered">Ministry of Law </p> 
+<p class="address-centered">100 High Street  </p>
+<p class="address-centered">#08-02, The Treasury  </p> 
+<p class="address-centered">Singapore 179434  </p>
+<p class="address-centered">Fax: 6332 8842  </p>
+<p class="address-centered">E-mail:<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 **<u>Attachments</u>**
 

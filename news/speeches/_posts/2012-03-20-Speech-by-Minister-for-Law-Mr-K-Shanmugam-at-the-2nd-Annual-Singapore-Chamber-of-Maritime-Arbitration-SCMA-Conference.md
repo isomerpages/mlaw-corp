@@ -9,9 +9,9 @@ collection_name: news
 20 Mar 2012 Posted in [Speeches](/news/speeches)
 
 Ladies and gentlemen,
-<br>  
+
 Good morning.
-<br>    
+    
 
 <ol style="list-style-type: upper-roman; font-weight:bold;">
 <li>   Introduction</li>
@@ -58,11 +58,11 @@ Good morning.
 <li> Other fast-growing Asian countries include India, Vietnam and Indonesia. </li>
 
 <li>European growth is forecasted to remain low as they deal with fiscal cuts. </li>
+<li style="list-style-type: none">In the end, we are in an interlinked economy – we will either sink or swim together.</li>
 </ul>
 
 </li>
 </ol>
-In the end, we are in an interlinked economy – we will either sink or swim together.
 
 {:start="7"}
 7. As an international maritime centre, Singapore is in a central position to benefit from this economic growth. 

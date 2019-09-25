@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
-permalink: /news/public-consultations/responses-to-feedback-on-copyright-act-2014
-breadcrumb: Public Consultations
+permalink: /news/public-consultations/responses-to-feedback-on-copyright-act-2014/
+breadcrumb: Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
 collection_name: news
 ---
 
+Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
+---
 **Consultation Period:**  
 7 Apr 2014 to 21 Apr 2014
 

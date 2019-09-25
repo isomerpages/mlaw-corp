@@ -81,7 +81,7 @@ In all, the amendments will strengthen access to justice by allowing the Tribuna
 
 
 
-<ol start="3" style="list-style-type: upper-roman">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Enhancing Processes in the Tribunals</u></li>
 </ol>
 

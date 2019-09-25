@@ -266,7 +266,7 @@ collection_name: news
     <td>24,000</td>
  </tr>
     
- </tr>
+
  
  
  <tr>
