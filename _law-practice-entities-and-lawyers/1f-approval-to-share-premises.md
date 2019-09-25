@@ -27,7 +27,7 @@ Approval to Share Premises
 
 <b><u>Where Approval is Required</u></b>
 
-<p style="text-align: justify">The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="blank">.</p>
+<p style="text-align: justify">The prior approval in writing of the Director of Legal Services is required if certain entities (Entity 1) wish to share, occupy or use premises jointly with other entities (Entity 2). Please refer to rule 81 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank"></a>.</p>
 
 <p style="text-align: justify">(For a description of each law practice entity type, please refer to this <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/">webpage</a>.)</p>
 
