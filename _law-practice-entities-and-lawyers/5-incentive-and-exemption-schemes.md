@@ -15,7 +15,9 @@ Incentive Schemes
 
 <table>
     <th>
+    <th>
       <b>Incentive schemes</b>
+    </th>
     </th>
   <tr>
     <td>Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:
@@ -37,7 +39,7 @@ Exemption Schemes
 ---
 
 <table>
-  <tr>
+  <th>
     <th>
       <b>Tax Exemption for Non-Resident Arbitrators</b>
     </th>
@@ -47,7 +49,7 @@ Exemption Schemes
     <th>
       <b>Work Pass Exemption for Arbitration and Mediation Services</b>
     </th>
-  </tr>
+  </th>
   <tr>
       <td>This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
 For more details, please refer to the Inland Revenue Authority of Singapore’s (“IRAS”) <a href="https://www.iras.gov.sg/irashome/Individuals/Foreigners/Your-Situation/Non-resident-professional/Non-Resident-Arbitrators/">website</a>.</td>
