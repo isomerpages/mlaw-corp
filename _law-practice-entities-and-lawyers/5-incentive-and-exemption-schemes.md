@@ -27,7 +27,7 @@ Incentive Schemes
           <a href="https://www.enterprisesg.gov.sg/">Enterprise Singapore</a>
         </li>
       </ul>
-      <p style="text-align: justify">Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.</p><br><br>
+      <p style="text-align: justify">Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.</p>
       <p style="text-align: justify">For more information, please submit your enquiry via <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg">clientservices@edb.gov.sg</a>.</p>
     </td>
     </tr>
@@ -39,7 +39,7 @@ Exemption Schemes
 <table>
   <tr>
       <th><b>Tax Exemption for Non-Resident Arbitrators</b></th>
-      <td><p style="text-align: justify">This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
+      <td><p style="text-align: justify">This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br>
 For more details, please refer to the Inland Revenue Authority of Singapore’s (“IRAS”) <a href="https://www.iras.gov.sg/irashome/Individuals/Foreigners/Your-Situation/Non-resident-professional/Non-Resident-Arbitrators/">website</a>.</p>
     </td>
     </tr>
