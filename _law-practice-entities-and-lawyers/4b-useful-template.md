@@ -10,7 +10,7 @@ second_nav_title: Resources for Law Practice Entities
 Useful Templates
 ---
 
-<table style="text-align:justify">
+<table style="text-align: justify">
   <tr>
     <th>
       Template
