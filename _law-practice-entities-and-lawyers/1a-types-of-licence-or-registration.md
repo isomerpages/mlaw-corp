@@ -35,10 +35,10 @@ Types of Licence or Registration
     <td>A Singapore Law Practice (“SLP”) is allowed to provide in or from Singapore:
       <ul>
         <li style="text-align: justify">Singapore law-related legal services in all areas of legal practice; and</li>
-        <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li>
-      <p style="text-align: justify"></ul>An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable.<br><br></p>
-      <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</td></p>
-  </tr>
+        <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li></ul>
+      <p style="text-align: justify">An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable.<br><br></p>
+      <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</p>
+  
   <tr>
     <td><b>Foreign Law Practice</b><br>Section 172 of the Legal Profession Act (Cap. 161)</td>
     <td>A Foreign Law Practice (“FLP”) is allowed to provide in or from Singapore:
