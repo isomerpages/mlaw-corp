@@ -27,7 +27,7 @@ The LSRA performs the following key functions, some of which were previously und
 
 To find out more about the licensing or registration of law practice entities, please click [here](/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/){:target="_blank"}.
   
-To find out more about the registration of individuals, please click [here](/law-practice-entities-and-lawyers/registration-of-individuals/types-of-certificate-of-registration/){:target="_blank"}.
+To find out more about the registration of individuals, please click [here](/law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/){:target="_blank"}.
 
 To go to LSRA e-Services portal, please click [here](https://www.mlaw.gov.sg/eservices/lsra/lsra-home/){:target="_blank"}.
 
