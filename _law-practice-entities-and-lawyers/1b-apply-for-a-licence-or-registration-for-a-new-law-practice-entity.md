@@ -20,7 +20,7 @@ Apply for a Licence or Registration for a New Law Practice Entity
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a></b></p>.
 
-<table style="text-align:justify">
+<table>
   <tr>
     <th>Step</th>
     <th>Exceptions</th>
