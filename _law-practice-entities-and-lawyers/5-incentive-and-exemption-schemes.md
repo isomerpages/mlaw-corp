@@ -18,7 +18,7 @@ Incentive Schemes
         <th>
       <b>Incentive schemes</b>
     </th>
-    <td>I<p style="text-align: justify">ncentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:</p>
+    <td><p style="text-align: justify">Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:</p>
       <ul>
         <li>
           <a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html">Economic Development Board</a>
