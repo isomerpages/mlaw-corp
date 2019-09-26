@@ -15,9 +15,9 @@ Incentive Schemes
 
 <table>
   <tr>
-    <td>
+    <th>
       <b>Incentive schemes</b>
-    </td>
+    </th>
     <td>Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:
       <ul>
         <li>
