@@ -39,7 +39,7 @@ Exemption Schemes
 ---
 
 <table>
-  <th>
+  <tr>
     <th><b>Tax Exemption for Non-Resident Arbitrators</b></th>
     <th><b>Tax Exemption for Non-Resident Mediators</b></th>
     <th><b>Work Pass Exemption for Arbitration and Mediation Services</b></th>
