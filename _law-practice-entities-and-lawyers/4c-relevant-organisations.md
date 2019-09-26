@@ -12,7 +12,7 @@ second_nav_title: Resources for Law Practice Entities
 Relevant Organisations
 ---
 
-<table style="text-align:justify">
+<table>
   <tr>
     <th>
       Agency
@@ -43,7 +43,7 @@ Relevant Organisations
         <li>E-Litigation</li>
       </ul>
     </td>
-    <td>For technical/system-related issues in eLitigation and general enquiries:<br>
+    <td style="text-align: justify">>For technical/system-related issues in eLitigation and general enquiries:<br>
       <b>CrimsonLogic Helpdesk</b><br>Tel: 6887 7222<br>
       E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com</a><br><br>
       For queries concerning practising certificates:<br><b>
