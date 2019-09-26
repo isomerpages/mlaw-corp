@@ -40,9 +40,9 @@ Exemption Schemes
 
 <table>
   <th>
-      <b>Tax Exemption for Non-Resident Arbitrators</b>
-      <b>Tax Exemption for Non-Resident Mediators</b>
-      <b>Work Pass Exemption for Arbitration and Mediation Services</b>
+    <th><b>Tax Exemption for Non-Resident Arbitrators</b></th>
+    <th><b>Tax Exemption for Non-Resident Mediators</b></th>
+    <th><b>Work Pass Exemption for Arbitration and Mediation Services</b></th>
   </th>
   <tr>
       <td>This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
