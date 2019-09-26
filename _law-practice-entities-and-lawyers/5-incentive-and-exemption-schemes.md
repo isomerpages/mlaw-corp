@@ -50,8 +50,8 @@ For more details, please refer to the Inland Revenue Authority of Singapore’s 
     </tr>
     <tr>
     <th><b>Work Pass Exemption for Arbitration and Mediation Services</b></th>
-        <td><p style="text-align: justify">As of 1 February 2008, non-residents do not need to apply for a work pass to carry out arbitration and mediation work in Singapore for up to 90 days in a calendar year.<br><br>They only need to have a Short-Term Visit Pass issued by the Immigration & Checkpoints Authority (ICA) of Singapore, upon arrival in Singapore, in order to stay in Singapore to carry out the arbitration and mediation work.<br><br>
-They also need to notify the Ministry of Manpower (MOM) by submitting an e-notification through MOM’s <a href="https://services.mom.gov.sg/enot/frontend/welcome.aspx" target="_blank">e-Notification system</a> after they have arrived in Singapore, but before they carry out the arbitration and mediation work.<br><br>For more information, please refer to MOM’s <a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" target="_blank">website</a>.<br><br></p>
+        <td><p style="text-align: justify">As of 1 February 2008, non-residents do not need to apply for a work pass to carry out arbitration and mediation work in Singapore for up to 90 days in a calendar year.<br><br>They only need to have a Short-Term Visit Pass issued by the Immigration & Checkpoints Authority (ICA) of Singapore, upon arrival in Singapore, in order to stay in Singapore to carry out the arbitration and mediation work.</p><br><br>
+<p style="text-align: justify">They also need to notify the Ministry of Manpower (MOM) by submitting an e-notification through MOM’s <a href="https://services.mom.gov.sg/enot/frontend/welcome.aspx" target="_blank">e-Notification system</a> after they have arrived in Singapore, but before they carry out the arbitration and mediation work.<br><br>For more information, please refer to MOM’s <a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" target="_blank">website</a>.<br><br></p>
     </td>
   </tr>
 </table>
