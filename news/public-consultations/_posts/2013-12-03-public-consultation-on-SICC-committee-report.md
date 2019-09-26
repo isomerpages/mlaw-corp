@@ -25,7 +25,7 @@ Public Consultation on the Report of the Singapore International Commercial Cour
 **Public Consultation**
 
 {:start="5"}
-5. Interested parties are invited to provide their views and feedback on the SICC Committee’s report. The consultation period is from 3 December 2013 to 31 January 2014. The public can view the report on [mlaw.gov.sg](mlaw.gov.sg) and [www.reach.gov.sg](https://www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
+5. Interested parties are invited to provide their views and feedback on the SICC Committee’s report. The consultation period is from 3 December 2013 to 31 January 2014. The public can view the report on [mlaw.gov.sg](https://www.mlaw.gov.sg) and [www.reach.gov.sg](https://www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
 
 <p class="address-centered">
   Ministry of Law<br>
