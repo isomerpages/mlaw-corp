@@ -28,7 +28,7 @@ permalink: /news/press-releases/Errant-Licensed-Moneylender-Tan-Chiu-Wui-Fined-2
 The Insolvency & Public Trustee’s Office (IPTO) in Singapore is a department under the Ministry of Law. IPTO oversees the administration of individual and corporate insolvencies, the administration of small intestate estates and un-nominated Central Provident Fund (CPF) monies, as well as the licensing and regulation of moneylenders and pawnbrokers. For more information on moneylending, please visit www.ipto.gov.sg/moneylenders.html.
 
 **<u>Annex A</u>**  
-**List of past convictions since 2011**
+**List of past convictions since 2011**  
 
 
 <table class="table-h">
@@ -288,7 +288,6 @@ A8 Credit
 26/05/2014</td>
   <td>24,000</td>
   </tr>
-  
 </table>
 
 <p class="right-side-updated">Last updated on 25 Sep 2019</p>
