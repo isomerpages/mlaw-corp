@@ -47,7 +47,7 @@ The Family Court deals with all family proceedings in Singapore. Its jurisdictio
 
 <b>Small Claims Tribunal</b>
 
-The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:</p>
+The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:
 
 <ul>
   <li>a contract for the sale of goods; or</li>
@@ -58,7 +58,7 @@ The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The 
 
   <b>Free Legal Advice</b>
 
-The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:</p>
+The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
 
 <ul>
   <li>the Criminal Legal Aid Scheme;</li>
@@ -67,11 +67,11 @@ The Pro Bono Services Office coordinates and administers all pro bono initiative
   <li>the Community Legal Clinics.</li>
 </ul>
 
-If you wish to seek assistance for any of our pro bono initiatives, please contact:</p>
+If you wish to seek assistance for any of our pro bono initiatives, please contact:
 
 <p class="address-centered">
   <b>
-  <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank"></a>The Law Society of Singapore<br>Pro Bono Services Office</b><br>
+  <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">The Law Society of Singapore</a><br>Pro Bono Services Office</b><br>
       Subordinate Courts, Level 5<br>
       1 Havelock Square<br>
       Singapore 059724<br>
