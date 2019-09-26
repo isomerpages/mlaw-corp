@@ -18,9 +18,9 @@ Legal Industry Division
 <div class="image">
   <img src="/images/Maxwell-Chambers.jpg/" title="Legal Industry Division" alt="Legal Industry Division"></div>
 
-<p style="text-align: justify">MinLaw develops the legal services sector to meet local, regional and international demands.
+MinLaw develops the legal services sector to meet local, regional and international demands.
 
-<p style="text-align: justify">Besides developing Singapore as a location of choice for international arbitration and other international legal services, MinLaw also formulates policies to ensure quality legal manpower to meet market demands.
+Besides developing Singapore as a location of choice for international arbitration and other international legal services, MinLaw also formulates policies to ensure quality legal manpower to meet market demands.
 
 **Video: Legal Group and Legal Industry Division**
 
