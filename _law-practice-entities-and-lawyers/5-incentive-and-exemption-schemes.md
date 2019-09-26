@@ -38,17 +38,19 @@ Exemption Schemes
 
 <table>
   <tr>
-    <th><b>Tax Exemption for Non-Resident Arbitrators</b></th>
-    <th><b>Tax Exemption for Non-Resident Mediators</b></th>
-    <th><b>Work Pass Exemption for Arbitration and Mediation Services</b></th>
-  </th>
-  <tr>
+      <th><b>Tax Exemption for Non-Resident Arbitrators</b></th>
       <td>This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br><br>
 For more details, please refer to the Inland Revenue Authority of Singapore’s (“IRAS”) <a href="https://www.iras.gov.sg/irashome/Individuals/Foreigners/Your-Situation/Non-resident-professional/Non-Resident-Arbitrators/">website</a>.
     </td>
-    <td>This is a broad-based tax exemption on the income derived by a qualifying non-resident individual for mediation services rendered in Singapore, including services that were rendered in Singapore pursuant to an agreement to mediate specifying Singapore as the venue for the mediation.  A qualifying non-resident individual has to be either a (a) certified mediator; or (b) mediator conducting a mediation administered by a designated mediation service provider.<br><br><u>Qualifying mediation service providers under section 13(16) of the Income Tax Act</u>:<br>1. Singapore International Mediation Centre<br><br><u>Qualifying mediator certification or accreditation schemes under section 13(16) of the Income Tax Act</u>:<br>1. SIMI Credentialing Scheme (SIMI Certified Mediator), Singapore International Mediation Institute<br><br>For more details, please refer to the <a href="/files/IndustryCircular29042016.pdf/">tax circular</a>(74KB).
+    </tr>
+    <tr>
+    <th><b>Tax Exemption for Non-Resident Mediators</b></th>
+        <td>This is a broad-based tax exemption on the income derived by a qualifying non-resident individual for mediation services rendered in Singapore, including services that were rendered in Singapore pursuant to an agreement to mediate specifying Singapore as the venue for the mediation.  A qualifying non-resident individual has to be either a (a) certified mediator; or (b) mediator conducting a mediation administered by a designated mediation service provider.<br><br><u>Qualifying mediation service providers under section 13(16) of the Income Tax Act</u>:<br>1. Singapore International Mediation Centre<br><br><u>Qualifying mediator certification or accreditation schemes under section 13(16) of the Income Tax Act</u>:<br>1. SIMI Credentialing Scheme (SIMI Certified Mediator), Singapore International Mediation Institute<br><br>For more details, please refer to the <a href="/files/IndustryCircular29042016.pdf/">tax circular</a>(74KB).
     </td>
-    <td>As of 1 February 2008, non-residents do not need to apply for a work pass to carry out arbitration and mediation work in Singapore for up to 90 days in a calendar year.<br><br>They only need to have a Short-Term Visit Pass issued by the Immigration & Checkpoints Authority (ICA) of Singapore, upon arrival in Singapore, in order to stay in Singapore to carry out the arbitration and mediation work.<br><br>
+    </tr>
+    <tr>
+    <th><b>Work Pass Exemption for Arbitration and Mediation Services</b></th>
+        <td>As of 1 February 2008, non-residents do not need to apply for a work pass to carry out arbitration and mediation work in Singapore for up to 90 days in a calendar year.<br><br>They only need to have a Short-Term Visit Pass issued by the Immigration & Checkpoints Authority (ICA) of Singapore, upon arrival in Singapore, in order to stay in Singapore to carry out the arbitration and mediation work.<br><br>
 They also need to notify the Ministry of Manpower (MOM) by submitting an e-notification through MOM’s <a href="https://services.mom.gov.sg/enot/frontend/welcome.aspx" target="_blank">e-Notification system</a> after they have arrived in Singapore, but before they carry out the arbitration and mediation work.<br><br>For more information, please refer to MOM’s <a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" target="_blank">website</a>.<br><br>
     </td>
   </tr>
