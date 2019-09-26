@@ -15,11 +15,9 @@ Incentive Schemes
 
 <table>
     <tr>
-    <th>
+        <th>
       <b>Incentive schemes</b>
     </th>
-    </tr>
-  <tr>
     <td>Incentives for growth and regionalisation as well as capability development are available and law practices can consider applying to qualify for them. Please refer to the following websites for information on incentives available:
       <ul>
         <li>
@@ -32,7 +30,7 @@ Incentive Schemes
       Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.<br><br>
       For more information, please submit your enquiry via <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg">clientservices@edb.gov.sg</a>.
     </td>
-  </tr>
+    </tr>
 </table>
 
 Exemption Schemes
