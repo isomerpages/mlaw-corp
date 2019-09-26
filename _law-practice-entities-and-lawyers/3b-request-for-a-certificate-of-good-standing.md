@@ -24,7 +24,7 @@ Request a Certificate of Good Standing
 * Previous Certificate(s) of Registration number(s) (if any)
 * Date by which the Certificate of Good Standing is required
 * Purpose of request
-* If the applicant would like to authorise another individual to liaise with the LSRA on his/her behalf, the applicant should state this in a letter or email, which should be uploaded when the request is submitted via <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a>
+<p style="text-align: justify">* If the applicant would like to authorise another individual to liaise with the LSRA on his/her behalf, the applicant should state this in a letter or email, which should be uploaded when the request is submitted via <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a></p>
 
 **(b) Certificate of Good Standing for Law Practices**
 * Name of law practice
