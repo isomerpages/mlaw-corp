@@ -10,66 +10,64 @@ second_nav_title: Our Legal System
 Queries under other law-related agencies
 ---
 
-<p style="text-align: justify">In the course of our dealings with the public, the Ministry of Law often receives queries related to the Judiciary, in particular the Family Court and the Small Claims Tribunals, as well as requests for legal advice.</p>
+In the course of our dealings with the public, the Ministry of Law often receives queries related to the Judiciary, in particular the Family Court and the Small Claims Tribunals, as well as requests for legal advice.
 
-<p style="text-align: justify">We have provided a listing of law-related agencies and their scope of services below:</p>
+We have provided a listing of law-related agencies and their scope of services below:
 
-<p style="text-align: justify"><b>Subordinate Courts of Singapore</b></p>
+<b>Subordinate Courts of Singapore</b>
 
-<p style="text-align: justify">The Subordinate Courts comprise the following:</p>
+The Subordinate Courts comprise the following:
 
 <ul>
-  <li style="text-align: justify">
+  <li>
     <b>District Courts</b> - Civil Court and Criminal Courts;
   </li>
-  <li style="text-align: justify">
+  <li>
     <b>Magistrate's Courts</b> - Civil Court and Criminal Courts, and
   </li>
-  <li style="text-align: justify">
+  <li>
     <b>Specialised Courts</b> - Family Court, Juvenile Court, Coroner's Court, Traffic Court, Criminal Mentions Court, Filter Court, Centralised Sentencing Court, Night Criminal Mentions Court and Small Claims Tribunals.
   </li>
 </ul>
 
-<p style="text-align: justify"><b>Family Court</b></p>
+<b>Family Court</b>
 
-<p style="text-align: justify">The Family Court deals with all family proceedings in Singapore. Its jurisdiction covers:</p>
-
-<ul>
-  <li style="text-align: justify">adoption proceedings under the Adoption of Children Act</li>
-  <li style="text-align: justify">divorce, nullity and judicial separation proceedings under Part X of the Women’s Charter</li>
-  <li style="text-align: justify">guardianship, custody, care and control of and access to children under the Guardianship of Infants Act and Part X of the Women’s Charter</li>
-  <li style="text-align: justify">division of matrimonial assets under Part X and section 59 of the Women’s Charter,</li>
-  <li style="text-align: justify">personal protection orders under Part VII of the Women’s Charter.</li>
-  <li style="text-align: justify">spousal and child maintenance under Parts VIII and X of the Women’s Charter</li>
-  <li style="text-align: justify">enforcement of maintenance orders made by Singapore courts, the Maintenance of Parents Tribunal and the Syariah Court under section 71 and Part IX of the Women’s Charter and the Maintenance of Parents Tribunal Act.</li>
-  <li style="text-align: justify">reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.</li>
-</ul>
-
-<p style="text-align: justify"><b>Small Claims Tribunal</b></p>
-
-<p style="text-align: justify">The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:</p>
+The Family Court deals with all family proceedings in Singapore. Its jurisdiction covers:
 
 <ul>
-  <li style="text-align: justify">a contract for the sale of goods; or</li>
-  <li style="text-align: justify">a contract for the provision of services; or</li>
-  <li style="text-align: justify">tortious damage to property (but not including damage arising in connection with motor vehicle accidents)</li>
-  <li style="text-align: justify">any contract relating to a lease of residential premises not exceeding 2 years</li>
+  <li>adoption proceedings under the Adoption of Children Act</li>
+  <li>divorce, nullity and judicial separation proceedings under Part X of the Women’s Charter</li>
+  <li>guardianship, custody, care and control of and access to children under the Guardianship of Infants Act and Part X of the Women’s Charter</li>
+  <li>division of matrimonial assets under Part X and section 59 of the Women’s Charter,</li>
+  <li>personal protection orders under Part VII of the Women’s Charter.</li>
+  <li>spousal and child maintenance under Parts VIII and X of the Women’s Charter</li>
+  <li>enforcement of maintenance orders made by Singapore courts, the Maintenance of Parents Tribunal and the Syariah Court under section 71 and Part IX of the Women’s Charter and the Maintenance of Parents Tribunal Act.</li>
+  <li>reciprocal enforcement of maintenance orders made by foreign courts or tribunals under the Maintenance Orders (Facilities for Enforcement) Act and Maintenance Orders (Reciprocal Enforcement) Act.</li>
 </ul>
 
-<p style="text-align: justify">
+<b>Small Claims Tribunal</b>
+
+The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The Tribunals were established to provide a quick and inexpensive forum for the resolution of small claims between consumers and suppliers. The Tribunals have jurisdiction to hear claims not exceeding $10,000, where the claims relate to disputes arising from:</p>
+
+<ul>
+  <li>a contract for the sale of goods; or</li>
+  <li>a contract for the provision of services; or</li>
+  <li>tortious damage to property (but not including damage arising in connection with motor vehicle accidents)</li>
+  <li>any contract relating to a lease of residential premises not exceeding 2 years</li>
+</ul>
+
   <b>Free Legal Advice</b>
-</p>
 
-<p style="text-align: justify">The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:</p>
+The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:</p>
 
 <ul>
-  <li style="text-align: justify">the Criminal Legal Aid Scheme;</li>
-  <li style="text-align: justify">the Project Law Help initiative;</li>
-  <li style="text-align: justify">the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)</li>
-  <li style="text-align: justify">the Community Legal Clinics.</li>
+  <li>the Criminal Legal Aid Scheme;</li>
+  <li>the Project Law Help initiative;</li>
+  <li>the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)</li>
+  <li>the Community Legal Clinics.</li>
 </ul>
 
-<p style="text-align: justify">If you wish to seek assistance for any of our pro bono initiatives, please contact:</p>
+If you wish to seek assistance for any of our pro bono initiatives, please contact:</p>
 
 <p class="address-centered">
   <b>
