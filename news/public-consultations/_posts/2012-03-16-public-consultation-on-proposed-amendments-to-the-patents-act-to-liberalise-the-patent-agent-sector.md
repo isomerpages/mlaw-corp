@@ -49,7 +49,7 @@ Public Consultation on Proposed Amendments to the Patents Act to Liberalise the 
 
 <b><u>Invitation for Feedback</u></b>
 
-14. MinLaw invites interested parties to provide their feedback on the proposed draft legislative amendments. The consultation period is from **16 March to 12 April 2012**. The public can view the consultation paper and draft legislative amendments at [mlaw.gov.sg](mlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
+14. MinLaw invites interested parties to provide their feedback on the proposed draft legislative amendments. The consultation period is from **16 March to 12 April 2012**. The public can view the consultation paper and draft legislative amendments at [mlaw.gov.sg](https://www.mlaw.gov.sg) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx](https://www.reach.gov.sg/YourSay/EConsultationPaper.aspx). The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
   Intellectual Property Policy Division<br>
