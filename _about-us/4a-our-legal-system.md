@@ -10,9 +10,9 @@ second_nav_title: Our Legal System
 Our Legal System
 ---
 
-<p style="text-align: justify">Singapore is a republic with a parliamentary system of Government based on the Westminster Model.</p>
+Singapore is a republic with a parliamentary system of Government based on the Westminster Model.
 
-<p style="text-align: justify">The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our <a href="https://sso.agc.gov.sg/Act/CONS1963" target="_blank">Constitution</a>,  <a href="https://sso.agc.gov.sg/" target="_blank">legislation</a>, subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.</p>
+The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our [Constitution](https://sso.agc.gov.sg/Act/CONS1963){:target="_blank"}, [legislation](https://sso.agc.gov.sg/){:target="_blank"}, subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.
 
 <ul>
   <li style="text-align: justify">The <b>Constitution</b> is the supreme law of the land and lays down the basic framework for the three organs of state, namely, the Executive, the Legislature and the Judiciary.</li>
