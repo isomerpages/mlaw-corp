@@ -278,17 +278,15 @@ A8 Credit
 (Koh Poh Huat)</td>
   <td>21/04/2014</td>
  <td>63,000</td>
-  
-  
-  </tr>
-  <tr>
-  <td>27.</td>
-  <td>SOS Credit (Chng Wee Soon)</td>
-  <td> 	
 
+</tr>
+<tr>
+<td>27.</td>
+<td>SOS Credit (Chng Wee Soon)</td>
+<td> 	
 26/05/2014</td>
-  <td>24,000</td>
-  </tr>
+<td>24,000</td>
+</tr>
 </table>
 
 <p class="right-side-updated">Last updated on 25 Sep 2019</p>
