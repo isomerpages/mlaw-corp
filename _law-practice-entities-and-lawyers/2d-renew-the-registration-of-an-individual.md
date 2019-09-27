@@ -58,10 +58,10 @@ Renew the Registration of an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The renewal application form is similar to the new registration application form. Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</p></li>
-        <li style="text-align: justify">The application form will be pre-populated with particulars of the individual submitted by the law practice entity in previous applications. Please check and update the particulars if necessary.</p></li>
-        <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</p></li>
-        <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</p></li>
+        <li style="text-align: justify">The renewal application form is similar to the new registration application form. Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
+        <li style="text-align: justify">The application form will be pre-populated with particulars of the individual submitted by the law practice entity in previous applications. Please check and update the particulars if necessary.</li>
+        <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
+        <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</li>
         <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
       </ul>
     </td>
@@ -80,8 +80,8 @@ Renew the Registration of an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</p></li>
-        <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</p></li>
+        <li style="text-align: justify">The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
+        <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
         <li>If the application is rejected, the process will end here.</li>
       </ul>
     </td>
