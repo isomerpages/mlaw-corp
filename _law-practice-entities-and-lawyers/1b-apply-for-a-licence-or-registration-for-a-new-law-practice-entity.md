@@ -9,6 +9,7 @@ second_nav_title: Licensing Or Registration Of Law Practice Entities
 
 <style>
 table tr td ul li {font-size: 1rem;}
+  table tr td p {font-size: 1rem;}
 </style>
 
 Apply for a Licence or Registration for a New Law Practice Entity
@@ -36,7 +37,7 @@ Apply for a Licence or Registration for a New Law Practice Entity
       <ul>
         <li style="text-align: justify">The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
         <li style="text-align: justify">All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
-        <li style="text-align: justify>
+        <li style="text-align: justify">
 If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login" target="_blank">SingPass website</a>.</li>
         <li>If you are not eligible for SingPass, you can approach:
           <ul>
