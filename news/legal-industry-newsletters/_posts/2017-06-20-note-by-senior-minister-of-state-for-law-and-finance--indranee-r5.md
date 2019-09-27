@@ -23,7 +23,7 @@ Senior Minister of State for Law and Finance, Ms Indranee Rajah, outlines how Si
 <a href="/files/NoteonDebtRestructuring.pdf/">Note on Debt Restructuring</a>(840KB)
 
 <div class="image">
-  <a href="/files/NoteonDebtRestructuring.pdf/"><img src="/images/1507866827078.jpg/"></a>
+  <a href="/files/NoteonDebtRestructuring.pdf/"><img src="/images/1507866827078.jpg/" alt="image of pdf: enhancing singapore as an international debt restructuring centre for asia and beyond"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 13 Oct 2017</p>
