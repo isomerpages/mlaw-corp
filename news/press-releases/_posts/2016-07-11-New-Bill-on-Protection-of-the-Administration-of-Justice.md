@@ -69,15 +69,19 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 
 <table class="table-h">
 <tr>
-<td role="rowheader">Chinese</td>
+  <th>Language</th>
+  <th>Translation</th>
+</tr>  
+<tr>
+<td>Chinese</td>
 <td>司法维护法案</td>
 </tr>
 <tr>
-<td role="rowheader">Malay</td>
+<td>Malay</td>
 <td>Rang Undang-undang Pentadbiran Keadilan (Perlindungan)</td>
 </tr>
 <tr>
-<td role="rowheader">Tamil</td>
+<td>Tamil</td>
 <td>நீதி நிர்வாகம் (பாதுகாப்பு) மசோதா</td>
 
 </tr>
