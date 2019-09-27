@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/response-by-minister-for-law--mr-k-shanm
 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oGHpEcsGCSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+<iframe title="video: Response By Minister for Law during the Second Reading of Misuse of Drugs (Amendment) Bill" width="560" height="315" src="https://www.youtube.com/embed/oGHpEcsGCSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 </div>
 
 
