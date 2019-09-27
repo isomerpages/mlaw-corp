@@ -30,7 +30,7 @@ Second public consultation to seek feedback on proposed measures to safeguard co
 <li> For moneys traditionally held by a lawyer on behalf of both parties, such as the option deposit, an alternative would be for clients to place these with the Singapore Academy of Law.</li>
 </ol>
 
-{start="5"}
+{:start="5"}
 5. The key distinctions between the service provided by Approved Banks and SAL are:
 
 <ol style="list-style-type: lower-roman">
@@ -74,10 +74,10 @@ Some consequential changes will also need to be made to the Legal Profession (So
 
 <b><u>Attachments</u></b>
 
-A: [Press release](/files/linkclickbadf.pdf/)(30.2KB)
-B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)(180KB)
-C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)(618KB)
-D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)(62.9KB)
+A: [Press release](/files/linkclickbadf.pdf/)(30.2KB)  
+B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)(180KB)  
+C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)(618KB)  
+D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)(62.9KB)  
 
 ***Note**: Please follow this link for the  [response to feedback from second public consultation](/files/linkclickde7f.pdf/)(46.8KB)*
 
