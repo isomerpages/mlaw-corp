@@ -136,7 +136,7 @@ Register an Individual
     </td>
     <td>
       <ul>
-        <li>Singapore citizens and permanent residents do not require a work pass.</li>
+        <li style="text-align: justify">Singapore citizens and permanent residents do not require a work pass.</li>
       </ul>
     </td>
   </tr>
