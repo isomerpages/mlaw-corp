@@ -205,7 +205,11 @@ The Penal Code Review Committee Report is available here:
 <tr>
 <th colspan="2">Current Members</th>
 </tr>
-
+   
+<tr>
+   <th>Member</th>
+   <th>Designation</th>
+</tr>
 <tr>
 <td>Indranee Rajah, S.C. (Co-chairperson)</td>
 <td>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for Education</td>
@@ -300,6 +304,12 @@ Presiding Judge of the State Courts</td>
  <tr>
     <th colspan="2">Previous memebers who have since stepped down from the PCRC</th>
  </tr>
+ 
+ <tr>
+   <th>Name</th>
+   <th>Description</th>
+ </tr>  
+ 
  <tr>
     <td>Desmond Lee (Co-chairperson)</td>
     <td>Then-Senior Minister of State, Ministry of Home Affairs and National Development</td>
