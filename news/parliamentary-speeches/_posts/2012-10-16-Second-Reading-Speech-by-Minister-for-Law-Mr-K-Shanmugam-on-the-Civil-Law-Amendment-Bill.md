@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 16 Oct 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ku-jL9nm16U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+<iframe title="video: Speech by Minister for Law on the Civil Law (Amendment) Bill" width="560" height="315" src="https://www.youtube.com/embed/ku-jL9nm16U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
 </div>
 
 **Introduction**
