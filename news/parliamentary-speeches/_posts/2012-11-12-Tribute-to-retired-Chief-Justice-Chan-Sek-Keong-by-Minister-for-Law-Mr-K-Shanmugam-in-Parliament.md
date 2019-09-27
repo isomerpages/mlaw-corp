@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/tribute-to-retired-chief-justice-chan-se
 12 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rvpvSB0W0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" title="video: tribute to retired chief justice" height="315" src="https://www.youtube.com/embed/rvpvSB0W0tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Mr. Speaker, Sir
