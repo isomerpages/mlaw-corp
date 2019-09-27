@@ -63,7 +63,7 @@ Types of Licence or Registration
   <tr>
     <td><p style="text-align: justify"><b>Joint Law Venture</b><br>Section 169 of the Legal Profession Act (Cap. 161)</p></td>
     <td><p style="text-align: justify">A Joint Law Venture (“JLV”) is a legal entity formed between a Singapore Law Practice (“SLP”), and either a Foreign Law Practice (“FLP”) or a Qualifying Foreign Law Practice (“QFLP”).</p>
-  </p style="text-align: justify">A JLV is allowed to provide in or from Singapore:</p>
+  <p style="text-align: justify">A JLV is allowed to provide in or from Singapore:</p>
   <ul>
     <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the JLV is competent to offer; and</li>
     <li style="text-align: justify">Singapore law-related legal services in the "permitted areas of legal practice" through certain types of registered lawyers.</li>
