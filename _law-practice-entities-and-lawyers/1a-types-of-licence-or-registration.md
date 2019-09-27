@@ -91,5 +91,6 @@ Types of Licence or Registration
     <td><p style="text-align: justify">A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.</p>
 <p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p></td>
   </tr>
+  </table>
 
 <p class="right-side-updated">Last updated on 30 Aug 2018</p>
