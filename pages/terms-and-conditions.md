@@ -39,19 +39,19 @@ Terms and Conditions (for e-Services)
 
 **Data Accuracy**
 {:start="6"}
- 6.    Any decision made by MLAW in relation to your Application shall be premised on the veracity of the information provided in your Application. In the event of any inconsistency between the information provided by you for your Application via the e-Services and the information provided by you in any physical application forms (or such other forms as may be required by MLAW) for the same Application, such inconsistency shall be resolved in favour of the information recorded or produced in your Application on the e-Services.
+ 6. Any decision made by MLAW in relation to your Application shall be premised on the veracity of the information provided in your Application. In the event of any inconsistency between the information provided by you for your Application via the e-Services and the information provided by you in any physical application forms (or such other forms as may be required by MLAW) for the same Application, such inconsistency shall be resolved in favour of the information recorded or produced in your Application on the e-Services.
 
 **System Maintenance**
 {:start="7"}
- 7.    In the event that the e-Services is temporarily suspended or shut down for system maintenance or such other purposes, MLAW shall take reasonable steps to notify potential applicants of the system unavailability. MLAW shall not be responsible for any damage or loss resulting from the unavailability of the e-Services due to system maintenance, or for such other purpose as MLAW may require.
+ 7. In the event that the e-Services is temporarily suspended or shut down for system maintenance or such other purposes, MLAW shall take reasonable steps to notify potential applicants of the system unavailability. MLAW shall not be responsible for any damage or loss resulting from the unavailability of the e-Services due to system maintenance, or for such other purpose as MLAW may require.
 
 **Refund Policy**
 {:start="8"}
- 8.There shall be no refunds for any payments made by you in relation to your Application.
+ 8. There shall be no refunds for any payments made by you in relation to your Application.
 
 **Disclaimer of Warranties and Liability**
 {:start="9"}
- 9.The information and software programmes of the e-Services (“**Contents**”) are provided on an “as is” basis. In addition to the disclaimer of warranty and limitation of liabilities already set out in the Terms of Use, MLAW also does not make any warranty or representation as regards the security of e-Services and its Contents, the access to use of your information captured in or made available through e-Services or use of your information captured in or made available through the e-Services or accuracy, reliability, completeness or suitability of any information contained in, made available by or exchanged through the e-Services.
+ 9. The information and software programmes of the e-Services (“**Contents**”) are provided on an “as is” basis. In addition to the disclaimer of warranty and limitation of liabilities already set out in the Terms of Use, MLAW also does not make any warranty or representation as regards the security of e-Services and its Contents, the access to use of your information captured in or made available through e-Services or use of your information captured in or made available through the e-Services or accuracy, reliability, completeness or suitability of any information contained in, made available by or exchanged through the e-Services.
 
 **Force Majeure**
 {start="10"}
@@ -67,8 +67,8 @@ Terms and Conditions (for e-Services)
 
 **Severability**
 {:start="13"}
-13.    If any of the Terms and Conditions is or becomes illegal, invalid or unenforceable in any respect, the legality, validity or enforceability of the remaining provisions shall not be affected or impaired.
+13. If any of the Terms and Conditions is or becomes illegal, invalid or unenforceable in any respect, the legality, validity or enforceability of the remaining provisions shall not be affected or impaired.
 
 **Termination**
 {:start="14"}
-14.    MLAW reserves the right, at its sole discretion, to terminate the e-Services, with or without cause at any time. MLAW shall not be liable for any damages, losses or expenses howsoever caused by or arising out of termination of the e-Services.
+14. MLAW reserves the right, at its sole discretion, to terminate the e-Services, with or without cause at any time. MLAW shall not be liable for any damages, losses or expenses howsoever caused by or arising out of termination of the e-Services.
