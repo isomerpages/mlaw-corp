@@ -54,7 +54,7 @@ g. Agree to indemnify, hold harmless, and defend MLAW at all times from and agai
  9. The information and software programmes of the e-Services (“**Contents**”) are provided on an “as is” basis. In addition to the disclaimer of warranty and limitation of liabilities already set out in the Terms of Use, MLAW also does not make any warranty or representation as regards the security of e-Services and its Contents, the access to use of your information captured in or made available through e-Services or use of your information captured in or made available through the e-Services or accuracy, reliability, completeness or suitability of any information contained in, made available by or exchanged through the e-Services.
 
 **Force Majeure**
-{start= "10"}
+{:start= "10"}
 10. MLAW shall not be liable for any loss or damage arising from its failure to perform any of its obligations under these Terms and Conditions if such failure is the result of any act of God, civil disturbance or any event outside MLAW’s control.
 
 **Governing Law**
