@@ -14,6 +14,6 @@ Types of Individual Registration
 
 <p style="text-align: justify">For full details of the applicable requirements, privileges and conditions for each type of registration, please refer to the  Legal Profession Act, <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Regulated Individuals) Rules 2015, and other relevant subsidiary legislation</a>.<br>
 
-For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a>.
+For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.
 
 <p class="right-side-updated">Last updated on 07 Jun 2018</p>
