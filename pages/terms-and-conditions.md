@@ -45,7 +45,7 @@ g. Agree to indemnify, hold harmless, and defend MLAW at all times from and agai
 
 **System Maintenance**
 
-{:start= "7"}
+{:start="7"}
  7. In the event that the e-Services is temporarily suspended or shut down for system maintenance or such other purposes, MLAW shall take reasonable steps to notify potential applicants of the system unavailability. MLAW shall not be responsible for any damage or loss resulting from the unavailability of the e-Services due to system maintenance, or for such other purpose as MLAW may require.
 
 **Refund Policy**
@@ -65,7 +65,7 @@ g. Agree to indemnify, hold harmless, and defend MLAW at all times from and agai
 
 **Governing Law**
 
-{:start= "11"}
+{:start="11"}
 11. These Terms and Conditions and all its subsequent variations shall be subject to, governed by and interpreted in accordance with the laws of the Republic of Singapore and you hereby agree to submit to the exclusive jurisdiction of the courts of Singapore in connection with any dispute arising from your Application and/or these Terms and Conditions.
 
 **Third Party Rights**
