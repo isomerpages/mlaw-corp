@@ -14,7 +14,7 @@ table tr td ul li {font-size: 1rem;}
 Types of Licence or Registration
 ---
 
-<p style="text-align: justify">The table below provides an overview of the key features of each type of licence or registration. For full details of the applicable requirements, privileges and conditions, please read the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/">Legal Profession Act (Cap. 161), Legal Profession (Law Practice Entities) Rules 2015, and other relevant subsidiary legislation</a>. Please note that the LSRA does not give legal or commercial advice. You should seek independent legal advice if required.</p>
+<p style="text-align: justify">The table below provides an overview of the key features of each type of licence or registration. For full details of the applicable requirements, privileges and conditions, please read the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession Act (Cap. 161), Legal Profession (Law Practice Entities) Rules 2015, and other relevant subsidiary legislation</a>. Please note that the LSRA does not give legal or commercial advice. You should seek independent legal advice if required.</p>
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
@@ -71,8 +71,11 @@ Types of Licence or Registration
   </td>
   </tr>
   <tr>
-    <td><p tyle="text-align: justify"><b>Formal Law Alliance</b><br>Section 170 of the Legal Profession Act (Cap. 161)</p></td>
-    <td style="text-align: justify">A Formal Law Alliance (“FLA”) is an arrangement between a Singapore law practice and a foreign law practice which enables them to collaborate while remaining freestanding law practices. An FLA arrangement allows the member law practices to share office premises, resources and client information as well as co-brand and bill for permitted matters. However, the member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are allowed to provide under the Legal Profession Act.<br><br>The FLA scheme was conceived as a means to facilitate cooperation between two or more independent law practice entities that are capable of dealing with each other as equal partners. The relevant legal framework for approval of these applications is interpreted and applied by the LSRA in this context.<br><br>For further information, please refer to our list of <a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">Frequently Asked Questions</a> (565KB) on the FLA scheme.</td>
+    <td><p style="text-align: justify"><b>Formal Law Alliance</b><br>Section 170 of the Legal Profession Act (Cap. 161)</p></td>
+    <td><p style="text-align: justify">A Formal Law Alliance (“FLA”) is an arrangement between a Singapore law practice and a foreign law practice which enables them to collaborate while remaining freestanding law practices. An FLA arrangement allows the member law practices to share office premises, resources and client information as well as co-brand and bill for permitted matters. However, the member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are allowed to provide under the Legal Profession Act.</p>
+      <p style="text-align: justify">The FLA scheme was conceived as a means to facilitate cooperation between two or more independent law practice entities that are capable of dealing with each other as equal partners. The relevant legal framework for approval of these applications is interpreted and applied by the LSRA in this context.</p>
+      <p style="text-align: justify">For further information, please refer to our list of <a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">Frequently Asked Questions</a> (565KB) on the FLA scheme.</p>
+  </td>
   </tr>
   <tr>
     <td style="text-align: justify"><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</td>
