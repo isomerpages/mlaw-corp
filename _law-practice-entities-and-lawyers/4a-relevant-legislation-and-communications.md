@@ -31,7 +31,7 @@ Relevant Legislation and Communications
         <li><a href="https://sso.agc.gov.sg/SL/LPA1966-S706-2015?DocDate=20180209" target="_blank">Legal Profession (Professional Conduct) Rules 2015</a>
         </li>
       </ul>
-      <p style="text-align: justify">The full list of subsidiary legislation under the Legal Profession Act can be found <a href="https://sso.agc.gov.sg/Act/LPA1966?ViewType=Sl" target="_blank">here</a>.
+        <p style="text-align: justify">The full list of subsidiary legislation under the Legal Profession Act can be found <a href="https://sso.agc.gov.sg/Act/LPA1966?ViewType=Sl" target="_blank">here</a>.</p>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Relevant Legislation and Communications
           <a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing</a> (238KB)[03/2018]
         </li>
         <li><p style="text-align: justify">
-          <a href="/files/LSRAGuidelinesonFinancialArrangementsbetweenSLPsandFLPsinColla.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (418KB)[04/2018]
+            <a href="/files/LSRAGuidelinesonFinancialArrangementsbetweenSLPsandFLPsinColla.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (418KB)[04/2018]</p>
         </li>
         <li style="text-align: justify">
           <a href="/files/Singapore_and_Foreign_Group_Practices_7_September_2018.pdf/" target="_blank">
