@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law--k-shanm
 14 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yn12wBq74lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: Oral Answer to Question on a legal framework to deal with neighbour disputes" width="560" height="315" src="https://www.youtube.com/embed/Yn12wBq74lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
