@@ -21,7 +21,7 @@ The “Tech Start for Law” programme was launched on 1 March 2017 to help Sing
 This Note explains why it is important for law firms to adopt technology and how they can start doing so with support from the Government.
 
 <div class="image">
-  <a href="/files/NotetoLegalProfessionOnTechnology.pdf"><img src="/images/1494926382432.jpg/"></a>
+  <a href="/files/NotetoLegalProfessionOnTechnology.pdf"><img src="/images/1494926382432.jpg/" alt="image of pdf: tech start for lawyers"></a>
 </div>
 
 <a href="/files/NotetoLegalProfessionOnTechnology.pdf/">Note to Legal Profession on Technology</a>(319KB)
