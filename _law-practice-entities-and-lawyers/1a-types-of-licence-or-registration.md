@@ -35,7 +35,7 @@ Types of Licence or Registration
         <li style="text-align: justify">Singapore law-related legal services in all areas of legal practice; and</li>
         <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li>
       </ul>
-      <p style="text-align: justify">An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable<p>
+        <p style="text-align: justify">An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable</p>
       <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="mlaw.gov.sg/content/minlaw/en/legal-industry/relevant-legislation-and-communications.html">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</p>
     </td>
   </tr>
@@ -79,16 +79,24 @@ Types of Licence or Registration
 <p style="text-align: justify">For further information, please refer to our list of <a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf">Frequently Asked Questions</a>(PDF, 565 KB) on the FLA scheme.</p>
       </td>
   </tr>
-    <tr>44
-      <td><p style="text-align: justify"><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</p></td>
-    <td><p style="text-align: justify">A Singapore Group Practice is an arrangement between one or more Singapore Law Practices (“SLPs”), while a Foreign Group Practice is an arrangement between one or more Foreign Law Practices (“FLPs”) and/or Qualifying Foreign Law Practices ("QFLPs").</p>
+    <tr>
+      <td>
+          <p style="text-align: justify"><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</p>
+        </td>
+    <td>
+        <p style="text-align: justify">A Singapore Group Practice is an arrangement between one or more Singapore Law Practices (“SLPs”), while a Foreign Group Practice is an arrangement between one or more Foreign Law Practices (“FLPs”) and/or Qualifying Foreign Law Practices ("QFLPs").
+        </p>
 <p style="text-align: justify">The Group Practice structure enables two or more law practices to collaborate as freestanding law practices with the benefits of co-branding, and sharing of office premises, resources and client information.</p>
-<p style="text-align: justify">A Group Practice is a grouping of law practices and cannot offer any legal services as a Group Practice. The member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are competent to provide.</p></td>
+<p style="text-align: justify">A Group Practice is a grouping of law practices and cannot offer any legal services as a Group Practice. The member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are competent to provide.</p>
+        </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</p></td>
+      <td><p style="text-align: justify"><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</p>
+        </td>
     <td><p style="text-align: justify">A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.</p>
-<p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p></td>
+<p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p>
+        </td>
   </tr>
 </table>
+
 <p class="right-side-updated">Last updated on 30 Aug 2018</p>
