@@ -11,10 +11,10 @@ Terms and Conditions (for e-Services)
 **General**
 
 <p style="text-align: justify">
- 1. The electronic services provided through mlaw.gov.sg and any associated mobile applications (which include but is not limited to electronic services relating to the Legal Aid Bureau, Legal Services Regulatory Authority, Insolvency Office, Public Trustee’s Office, Registry of Moneylenders, Registry of Pawnbrokers, the Community Mediation Centre and Exemptions (Singapore Bar/ Foreign Practitioner Examinations) (hereinafter "**e-Services**") are owned and operated by the Government of Singapore c/o Ministry of Law ("**MLAW**") as part of MLAW’s site at MLAW.GOV.SG/MINLAW.GOV.SG ("**the Site**").
+ 1. The electronic services provided through mlaw.gov.sg and any associated mobile applications (which include but is not limited to electronic services relating to the Legal Aid Bureau, Legal Services Regulatory Authority, Insolvency Office, Public Trustee’s Office, Registry of Moneylenders, Registry of Pawnbrokers, the Community Mediation Centre and Exemptions (Singapore Bar/ Foreign Practitioner Examinations) (hereinafter "<b>e-Services</b>") are owned and operated by the Government of Singapore c/o Ministry of Law ("<b>MLAW</b>") as part of MLAW’s site at MLAW.GOV.SG/MINLAW.GOV.SG ("<b>the Site</b>").
 </p>
 <p style="text-align: justify">
- 2. By making an application (which include conducting searches and the filing or submission of documents)  through the e-Services (the "**Application**"), you shall be deemed to have accepted and agreed to be legally bound by the Terms of Use of the Site (“**Terms of Use**”) as well as these Terms and Conditions. In the event of that there is any inconsistency between the Terms of Use and these Terms and Conditions, these Terms and Conditions shall prevail. If you do not agree to the Terms of Use or these Terms and Conditions, please discontinue your Application.
+ 2. By making an application (which include conducting searches and the filing or submission of documents)  through the e-Services (the "<b>Application</b>"), you shall be deemed to have accepted and agreed to be legally bound by the Terms of Use of the Site (“<b>Terms of Use</b>”) as well as these Terms and Conditions. In the event of that there is any inconsistency between the Terms of Use and these Terms and Conditions, these Terms and Conditions shall prevail. If you do not agree to the Terms of Use or these Terms and Conditions, please discontinue your Application.
 </p>
 <p style="text-align: justify">
  3.MLAW may modify these Terms and Conditions from time to time at its sole discretion. All changes to the Terms and Conditions will be incorporated directly onto this page, and your submission of an Application after such changes have been incorporated will constitute your agreement to the modified Terms and Conditions and all of the changes. You should therefore read this page carefully each time you use the e-Services. For the avoidance of doubt, MLAW does not undertake otherwise to inform you of any changes to these Terms and Conditions.
@@ -64,7 +64,7 @@ Terms and Conditions (for e-Services)
 
 {:start="9"}
 <p style="text-align: justify">
- 9. The information and software programmes of the e-Services (“**Contents**”) are provided on an “as is” basis. In addition to the disclaimer of warranty and limitation of liabilities already set out in the Terms of Use, MLAW also does not make any warranty or representation as regards the security of e-Services and its Contents, the access to use of your information captured in or made available through e-Services or use of your information captured in or made available through the e-Services or accuracy, reliability, completeness or suitability of any information contained in, made available by or exchanged through the e-Services.
+ 9. The information and software programmes of the e-Services (“<b>Contents</b>”) are provided on an “as is” basis. In addition to the disclaimer of warranty and limitation of liabilities already set out in the Terms of Use, MLAW also does not make any warranty or representation as regards the security of e-Services and its Contents, the access to use of your information captured in or made available through e-Services or use of your information captured in or made available through the e-Services or accuracy, reliability, completeness or suitability of any information contained in, made available by or exchanged through the e-Services.
  </p>
 
 **Force Majeure**
@@ -84,7 +84,7 @@ Terms and Conditions (for e-Services)
 {:start="12"}
 <p style="text-align: justify">
 12. A person who is not a party to the Terms and Conditions shall have no right under the Contracts (Rights of Third Parties) Act (Cap. 53B) of Singapore (as may be amended from time to time) to enforce any of the Terms and Conditions.
-
+</p>
 **Severability**
 
 {:start="13"}
