@@ -34,14 +34,14 @@ Apply for a Licence or Registration for a New Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify")The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
-        <li style="text-align:justify">All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
-        <li style="text-align:justify">
+        <li style="text-align: justify">The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
+        <li style="text-align: justify">All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
+        <li style="text-align: justify>
 If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login" target="_blank">SingPass website</a>.</li>
         <li>If you are not eligible for SingPass, you can approach:
           <ul>
-            <li style="text-align:justify"><a href="/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
-            <li style="text-align:justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://www.saicsa.org.sg/english/contact/prac.htm/" target="_blank">a corporate services provider</a></li>
+             <li style="text-align: justify"><a href="/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
+             <li style="text-align: justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://www.saicsa.org.sg/english/contact/prac.htm/" target="_blank">a corporate services provider</a></li>
           </ul>
         </li>
       </ul>
@@ -59,10 +59,10 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eServices/LSRA/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
-        <li style="text-align:justify">The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
-        <li style="text-align:justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
-        <li style="text-align:justify">The application fee must be paid online using a valid credit/debit card.</li>
+        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eServices/LSRA/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
+        <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
+         <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+       <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
       </ul>
     </td>
     <td>
@@ -80,9 +80,9 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance</li>
+         <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance</li>
         <li style="text-align:justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
-        <li style="text-align:justify">If the application is rejected, the process will end here.</li>
+        <li style="text-align: justify">If the application is rejected, the process will end here.</li>
       </ul>
     </td>
     <td>
