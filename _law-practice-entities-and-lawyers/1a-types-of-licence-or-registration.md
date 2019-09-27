@@ -88,7 +88,7 @@ Types of Licence or Registration
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</p></td>
-    <td><p style="text-align: justify">A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.</p><br>
+    <td><p style="text-align: justify">A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.</p>
 <p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p></td>
   </tr>
 
