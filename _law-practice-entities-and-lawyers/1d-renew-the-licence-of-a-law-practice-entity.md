@@ -81,7 +81,7 @@ CorpPass will be required for all local entities with a Unique Entity Number (UE
       <ul>
         <li style="text-align: justify">The application may take about <b>3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
         <li style="text-align: justify">The LSRA may seek clarification or further information from the Main Contact for the Application.</li>
-        <li style="text-align: justify>The LSRA will email you to inform you when the application has been processed.</li>
+        <li style="text-align: justify">The LSRA will email you to inform you when the application has been processed.</li>
       </ul>
     </td>
     <td>
