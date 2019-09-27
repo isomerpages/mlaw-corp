@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Co
 On 10 March 2017, Parliament passed the Companies (Amendment) Bill and Limited Liability Partnerships (Amendment) Bill. These amendments are part of the continuous effort to keep Singapore business friendly and competitive, and properly positioned to pursue growth areas; and at the same time maintaining integrity as an international financial centre and keeping in line with international norms.
 
 <div class="image">
-  <a href="/files/CALLP.pdf/"><img src="/images/1490084372217.jpg/"></a>
+  <a href="/files/CALLP.pdf/"><img src="/images/1490084372217.jpg/" alt="image of PDF: enhancing transparency, facilitating business and positioning for growth"></a>
 </div>
 
 <a href="/files/CALLP.pdf/">Note on Companies (Amendment) Bill and LLP (Amendment) Bill</a>(352KB)
