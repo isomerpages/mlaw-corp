@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Details on Applying for Exemption
-permalink: /admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/
+permalink: /admission-to-the-bar/details-on-applying-for-an-exemption/
 breadcrumb: Details on Applying for Exemption
 collection_name: admission-to-the-bar
 second_nav_title: Applications to the Minister for Law for Exemption
