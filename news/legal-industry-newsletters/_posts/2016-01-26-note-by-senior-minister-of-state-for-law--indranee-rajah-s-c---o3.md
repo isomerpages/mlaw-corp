@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Parliame
 On 15 January, the 13<sup>th</sup> Parliament was opened with the swearing in of Members of Parliament and the President’s Address. Senior Minister of State for Law, Ms Indranee Rajah S.C., discusses the government’s priorities as set out in the President’s Address and shares MinLaw’s areas of focus in the coming years.
 
 <div class="image">
-  <a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/"><img src="/images/1530696905034.jpg/"></a>
+  <a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/"><img src="/images/1530696905034.jpg/" alt="image of pdf: a new parliament and a fresh agenda"></a>
 </div>
 
 <a href="/files/NotebySMSANewParliamentandaFreshAgenda.pdf/">Note on a New Parliament and a Fresh Agenda</a>(2.1MB)
