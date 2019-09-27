@@ -62,7 +62,7 @@ Supporting Documents for Applications for Exemption
       <li style="text-align: justify">Position(s) you held and the department(s) in which you worked; </li>
       <li style="text-align: justify">The nature of the legal work in which you were engaged;</li>
       <li style="text-align: justify">Contact details (including telephone number and email address) of a partner or director of the law practice or organisation who is willing to verify this information; and</li>
-      <li>Proof that the corporation or entity is listed on the official list of a securities exchange in Singapore or elsewhere (if applicable).</li>
+      <li style="text-align: justify">Proof that the corporation or entity is listed on the official list of a securities exchange in Singapore or elsewhere (if applicable).</li>
     </ol>
   </li>
   <li style="text-align: justify">Reference(s) from your employer(s) in relation to your legal skills and experience (preferably including one from your current employer).</li>
