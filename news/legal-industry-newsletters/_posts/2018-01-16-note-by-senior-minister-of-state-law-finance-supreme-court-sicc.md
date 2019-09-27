@@ -22,7 +22,7 @@ On 9 January 2018 Parliament amended the Supreme Court of Judicature Act to clar
 Find out more in the Note by Ms Indranee Rajah, Senior Minister of State for Law and Finance.
 
 <div class="image">
-  <a href="/files/NoteontheSCJAmendmentBillandSICC190118.pdf/"><img src="/images/1516673189325.jpg/"></a>
+  <a href="/files/NoteontheSCJAmendmentBillandSICC190118.pdf/"><img src="/images/1516673189325.jpg/" alt="image of pdf: the supreme court of judicature bill and the singapore international commerical court"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 28 Mar 2018</p>
