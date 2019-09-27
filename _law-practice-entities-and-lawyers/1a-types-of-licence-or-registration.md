@@ -79,17 +79,23 @@ Types of Licence or Registration
   </td>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</p>
+    <td>
+      <p style="text-align: justify"><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</p>
   </td>
-    <td><p style="text-align: justify">A Singapore Group Practice is an arrangement between one or more Singapore Law Practices (“SLPs”), while a Foreign Group Practice is an arrangement between one or more Foreign Law Practices (“FLPs”) and/or Qualifying Foreign Law Practices ("QFLPs").</p>
-<p style="text-align: justify">The Group Practice structure enables two or more law practices to collaborate as freestanding law practices with the benefits of co-branding, and sharing of office premises, resources and client information.</p>
+    <td>
+      <p style="text-align: justify">A Singapore Group Practice is an arrangement between one or more Singapore Law Practices (“SLPs”), while a Foreign Group Practice is an arrangement between one or more Foreign Law Practices (“FLPs”) and/or Qualifying Foreign Law Practices ("QFLPs").</p>
+      <p style="text-align: justify">The Group Practice structure enables two or more law practices to collaborate as freestanding law practices with the benefits of co-branding, and sharing of office premises, resources and client information.</p>
       <p style="text-align: justify">A Group Practice is a grouping of law practices and cannot offer any legal services as a Group Practice. The member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are competent to provide.</p>
+  </td>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</p></td>
+    <td>
+      <p style="text-align: justify"><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</p>
+  </td>
     <td>
       <p style="text-align: justify">A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.</p>
-      <p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p></td>
+      <p style="text-align: justify">An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit.</p>
+  </td>
   </tr>
 </table>
 
