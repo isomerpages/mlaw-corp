@@ -25,7 +25,7 @@ Types of Licence or Registration
       <p style="text-align: justify">Types of License or Registration</p>
     </th>
     <th>
-      <p style="text-align: justify">Description1</p>
+      <p style="text-align: justify">Description</p>
     </th>
   </tr>
   <tr>
