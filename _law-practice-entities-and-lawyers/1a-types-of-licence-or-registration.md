@@ -37,7 +37,7 @@ Types of Licence or Registration
         <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li>
       </ul>
       <p style="text-align: justify">An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable<p>
-      <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/relevant-legislation-and-communications.html">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</p>
+      <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="mlaw.gov.sg/content/minlaw/en/legal-industry/relevant-legislation-and-communications.html">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</p>
     </td>
   </tr>
   <tr>
