@@ -17,9 +17,9 @@ Apply for a Licence or Registration for a New Law Practice Entity
 
 <p style="text-align: justify">To apply for a licence for a new Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or register a new Group Practice ("GP") or Representative Office ("RO"), please follow the steps below.</p>
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a></b></p>.
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a></b></p>.
 
 <table>
   <tr>
@@ -126,8 +126,8 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
     </td>
     <td>
       <ul>
-        <li><p style="text-align:justify">FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
-        <li><p style="text-align:justify">SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
+        <li style="text-align:justify">FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
+        <li style="text-align:justify">SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
       </ul>
     </td>
   </tr>
