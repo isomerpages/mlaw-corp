@@ -142,65 +142,69 @@ permalink: /news/press-releases/Press-Release-50-students-from-13-schools-to-be-
 
 <table class="table-h">
 <tr>
-<td role="rowheader">Singapore Convention on Mediation</td>
+ <th>Name</th> 
+ <th>Translation</th>
+</tr>
+<tr>
+<td>Singapore Convention on Mediation</td>
 <td>新加坡调解公约</td>
 </tr>
 
 <tr>
-<td role="rowheader">Singapore Convention Youth Ambassadors</td>
+<td>Singapore Convention Youth Ambassadors</td>
 <td>新加坡公约青年大使</td>
 </tr>
 
 <tr>
-<td role="rowheader">Singapore Convention Youth Involvement Programme</td>
+<td>Singapore Convention Youth Involvement Programme</td>
 <td>新加坡公约青年参与计划</td>
 </tr>
 
 
 <tr>
-<td role="rowheader">The Ministry of Law</td>
+<td>The Ministry of Law</td>
 <td>律政部</td>
 </tr>
 
 <tr>
-<td role="rowheader">The Singapore Bicentennial Office</td>
+<td>The Singapore Bicentennial Office</td>
 <td>
 新加坡开埠200周年纪念活动小组</td>
 </tr>
 
 <tr>
-<td role="rowheader">Maxwell Chambers</td>
+<td>Maxwell Chambers</td>
 <td>麦士威国际争议解决中心</td>
 </tr>
 
 
 <tr>
-<td role="rowheader">The Urban Redevelopment Authority of Singapore (URA)</td>
+<td>The Urban Redevelopment Authority of Singapore (URA)</td>
 <td>市区重建局</td>
 </tr>
 
 <tr>
-<td role="rowheader">The National Heritage Board (NHB)</td>
+<td>The National Heritage Board (NHB)</td>
 <td>新加坡国家文物局</td>
 </tr>
 
 
 <tr>
-<td role="rowheader">The National Parks Board (NParks)</td>
+<td>The National Parks Board (NParks)</td>
 <td>
 国家公园局</td>
 </tr>
 
 
 <tr>
-<td role="rowheader">Gardens by the Bay</td>
+<td>Gardens by the Bay</td>
 <td>
 滨海湾花园</td>
 </tr>
 
 
 <tr>
-<td role="rowheader">Han Kok Juan
+<td>Han Kok Juan
 Deputy Permanent Secretary,
 Ministry of Law</td>
 
