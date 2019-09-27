@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Restructuring 
 With growing demand for debt restructuring services in the Asia-Pacific region, a committee was established in May 2015 with the aim of enhancing Singapore’s effectiveness in facilitating international debt restructuring. In the attached note, Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the Committee’s recommendations which have been accepted by the Government.
 
 <div class="image">
-  <a href="/files/NotebySMSonRestructuringHubReport.pdf/"><img src="/images/1469514883180.jpg/"></a>
+  <a href="/files/NotebySMSonRestructuringHubReport.pdf/"><img src="/images/1469514883180.jpg/" alt="image of pdf: jupiter,juno and singapore as an international centre for debt restructuring"></a>
 </div>
 
 <a href="/files/NotebySMSonRestructuringHubReport.pdf/">Note on Restructuring Hub Report</a>(602KB)
