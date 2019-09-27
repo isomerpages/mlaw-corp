@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Terms and Conditions (for e-Services)
-permalink: /terms-and-conditions/
+permalink: /terms-conditions/
 breadcrumb: Terms and Conditions
 ---
 
