@@ -8,6 +8,7 @@ collection_name: law-practice-entities-and-lawyers
 
 <style>
 table tr td ul li {font-size: 1rem;}
+table tr td p {font-size: 1rem;}
 </style>
 
 Incentive Schemes
