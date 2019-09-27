@@ -104,9 +104,9 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
     </td>
     <td>
       <ul>
-        <li>FLAs, GPs and ROs do not need to register with ACRA.</li>
-        <li>FLAs and GPs are not legal entities, and will not be given UENs.</li>
-        <li>For ROs, a UEN will be issued by the LSRA.</li>
+        <li style="text-align:justify">FLAs, GPs and ROs do not need to register with ACRA.</li>
+        <li style="text-align:justify">FLAs and GPs are not legal entities, and will not be given UENs.</li>
+        <li style="text-align:justify">For ROs, a UEN will be issued by the LSRA.</li>
       </ul>
     </td>
   </tr>
