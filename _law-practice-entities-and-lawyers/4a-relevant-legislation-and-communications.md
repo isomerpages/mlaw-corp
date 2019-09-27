@@ -9,6 +9,7 @@ second_nav_title: Resources for Law Practice Entities
 
 <style>
 table tr td ul li {font-size: 1rem;}
+table tr td p {font-size: 1rem;}
 </style>
 
 Relevant Legislation and Communications
