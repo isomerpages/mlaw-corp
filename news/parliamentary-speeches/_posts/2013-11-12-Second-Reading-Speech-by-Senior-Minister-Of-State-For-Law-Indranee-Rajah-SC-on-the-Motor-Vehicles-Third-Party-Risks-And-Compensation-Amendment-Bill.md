@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/2R-speech-on-MVA
 
 11 Nov 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<div title="video: Amendment to Motor Vehicles (Third-Party Risks and Compensation) Bill" class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/qhah7gbPXv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="bp-youtube"><iframe title="video: Amendment to Motor Vehicles (Third-Party Risks and Compensation) Bill" width="560" height="315" src="https://www.youtube.com/embed/qhah7gbPXv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Madam Speaker,
 
