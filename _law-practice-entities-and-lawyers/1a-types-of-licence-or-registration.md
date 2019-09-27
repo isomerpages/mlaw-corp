@@ -29,7 +29,7 @@ Types of Licence or Registration
     </th>
   </tr>
   <tr>
-    <td><b>Singapore Law Practice – Law Firm, Limited Liability Law Partnership or Law Corporation</b>Sections 131, 138 and 153 of the Legal Profession Act (Cap. 161)</td>
+    <td><b>Singapore Law Practice – Law Firm, Limited Liability Law Partnership or Law Corporation</b><br>Sections 131, 138 and 153 of the Legal Profession Act (Cap. 161)</td>
     <td>A Singapore Law Practice (“SLP”) is allowed to provide in or from Singapore:
       <ul>
         <li>Singapore law-related legal services in all areas of legal practice; and</li>
@@ -40,7 +40,7 @@ Types of Licence or Registration
     </td>
   </tr>
   <tr>
-    <td><b>Foreign Law Practice</b>Section 172 of the Legal Profession Act (Cap. 161)</td>
+    <td><b>Foreign Law Practice</b><br>Section 172 of the Legal Profession Act (Cap. 161)</td>
     <td>A Foreign Law Practice (“FLP”) is allowed to provide in or from Singapore:
       <ul>
         <li>Foreign law-related legal services in all areas of legal practice that the FLP is competent to offer; and</li>
@@ -64,7 +64,7 @@ Types of Licence or Registration
       </td>
   </tr>
     <tr>
-      <td><b>Joint Law Venture</b> Section 169 of the Legal Profession Act (Cap. 161)</td>
+      <td><b>Joint Law Venture</b><br>Section 169 of the Legal Profession Act (Cap. 161)</td>
     <td>A Joint Law Venture (“JLV”) is a legal entity formed between a Singapore Law Practice (“SLP”), and either a Foreign
       Law Practice (“FLP”) or a Qualifying Foreign Law Practice (“QFLP”).<br>
       <ul>
@@ -77,19 +77,19 @@ Types of Licence or Registration
     </td>
   </tr>
     <tr>
-      <td><b>Formal Law Alliance</b> Section 170 of the Legal Profession Act (Cap. 161)</td>
+      <td><b>Formal Law Alliance</b><br>Section 170 of the Legal Profession Act (Cap. 161)</td>
       <td>A Formal Law Alliance (“FLA”) is an arrangement between a Singapore law practice and a foreign law practice which enables them to collaborate while remaining freestanding law practices. An FLA arrangement allows the member law practices to share office premises, resources and client information as well as co-brand and bill for permitted matters. However, the member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are allowed to provide under the Legal Profession Act.<br>
 The FLA scheme was conceived as a means to facilitate cooperation between two or more independent law practice entities that are capable of dealing with each other as equal partners. The relevant legal framework for approval of these applications is interpreted and applied by the LSRA in this context.<br>
 For further information, please refer to our list of <a href="https://www.mlaw.gov.sg/content/dam/minlaw/corp/LSRA/FLA/FAQs_on_Formal_Law_Alliances_June2018.pdf">Frequently Asked Questions</a>(PDF, 565 KB) on the FLA scheme.</td>
   </tr>
     <tr>
-      <td><b>Group Practice</b> Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</td>
+      <td><b>Group Practice</b><br>Part 5 and Division 6 of Part 6 of the Legal Profession (Law Practice Entities) Rules 2015</td>
     <td>A Singapore Group Practice is an arrangement between one or more Singapore Law Practices (“SLPs”), while a Foreign Group Practice is an arrangement between one or more Foreign Law Practices (“FLPs”) and/or Qualifying Foreign Law Practices ("QFLPs").<br>
 The Group Practice structure enables two or more law practices to collaborate as freestanding law practices with the benefits of co-branding, and sharing of office premises, resources and client information.<br>
 A Group Practice is a grouping of law practices and cannot offer any legal services as a Group Practice. The member law practices remain distinct entities and may only provide legal services that the respective law practices and their lawyers are competent to provide.</td>
   </tr>
     <tr>
-      <td><b>Representative Office</b> Section 173 of the Legal Profession Act (Cap. 161)</td>
+      <td><b>Representative Office</b><br>Section 173 of the Legal Profession Act (Cap. 161)</td>
     <td>A Representative Office (“RO”) is set up by a law practice based outside Singapore to undertake only liaison or promotional work in or from Singapore.<br>
 An RO is not allowed to provide any legal services or conduct any other business activities in Singapore. In particular, it is not allowed to provide legal advice, conclude contracts or open or negotiate any letters of credit. </td>
   </tr>
