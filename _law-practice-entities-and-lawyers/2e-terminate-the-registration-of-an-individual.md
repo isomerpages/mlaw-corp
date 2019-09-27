@@ -32,7 +32,7 @@ Terminate the Registration of an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+      <p style="text-align: justify"><b>STEP 1: Login to LSRA e-Services using CorpPass</b></p>
     </td>
     <td></td>
   </tr>
@@ -52,7 +52,7 @@ Terminate the Registration of an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 2: Complete and submit termination form</b>
+      <p style="text-align: justify"><b>STEP 2: Complete and submit termination form</b></p>
     </td>
     <td></td>
   </tr>
@@ -73,7 +73,7 @@ Terminate the Registration of an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 3: Receive outcome of termination</b>
+      <p style="text-align: justify"><b>STEP 3: Receive outcome of termination</b></p>
     </td>
     <td>
     </td>
@@ -93,7 +93,7 @@ Terminate the Registration of an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 4: Notify relevant stakeholders</b>
+      <p style="text-align: justify"><b>STEP 4: Notify relevant stakeholders</b></p>
     </td>
     <td>
     </td>
