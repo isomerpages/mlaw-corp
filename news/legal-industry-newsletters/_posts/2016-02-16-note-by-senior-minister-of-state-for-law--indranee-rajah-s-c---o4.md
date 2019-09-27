@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on the Trans-Paci
 Singapore, together with 11 other countries signed the Trans-Pacific Partnership (TPP) agreement on 4 February 2016. In the attached note, Senior Minister of State for Law, Ms Indranee Rajah S.C., sets out the opportunities presented by TPP for the legal industry.
 
 <div class="image">
-  <a href="/files/NotebySMSonTPP.pdf/"><img src="/images/1455596684056.jpg/"></a>
+  <a href="/files/NotebySMSonTPP.pdf/"><img src="/images/1455596684056.jpg/" alt="image of the pdf: TPP: what's the buzz?"></a>
 </div>
 
 <a href="/files/NotebySMSonTPP.pdf/">Note on TPP</a>(1.5MB)
