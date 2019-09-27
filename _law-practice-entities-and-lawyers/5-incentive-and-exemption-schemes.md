@@ -28,7 +28,7 @@ Incentive Schemes
         </li>
       </ul>
       <p style="text-align: justify">Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.</p>
-      <p style="text-align: justify">For more information, please submit your enquiry via <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg" target="_blank">clientservices@edb.gov.sg</a>.</p>
+      <p style="text-align: justify">For more information, please submit your enquiry via <a href="/about-us/contact-us" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg" target="_blank">clientservices@edb.gov.sg</a>.</p>
     </td>
     </tr>
 </table>
