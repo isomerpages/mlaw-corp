@@ -16,12 +16,13 @@ Report a breach by a Law Practice Entity
 
 <table>
   <tr>
-    <th><b>Who can make a complaint?</b></th>
+    <td><b>Who can make a complaint?</b></td>
     <td>Anyone can make a complaint about a law practice entity, including a current or former employee, a current or former
       client, another law practice, or any member of the public.
     </td>
   </tr>
-    <th><b>What can a person complain about?</b></th>
+  <tr>
+    <td><b>What can a person complain about?</b></td>
   <td>
       <p style="text-align: justify">Complaints submitted to the LSRA should be limited to complaints about a <b>law practice entity</b> breaching the business criteria and conditions relevant to its licence/registration as defined in the Legal Profession Act (Cap. 161) and the Legal Profession (Law Practice Entities) Rules 2015, e.g. practice of Singapore law by a law practice which is not permitted to do so; a law practice marketing or publicising itself as providing legal services in areas of legal practice which it is not permitted to provide.</p>
     
@@ -29,20 +30,20 @@ Report a breach by a Law Practice Entity
     </td>
   </tr>
   <tr>
-    <th><b>Is there a time limit for making a complaint?</b></th>
+    <td><b>Is there a time limit for making a complaint?</b></td>
    <td>There is no time limit for making the complaint but a complaint should be made within a reasonable period of time
     </td>
   </tr>
   <tr>
-    <th><b>How will the LSRA manage my complaint?</b></th>
+    <td><b>How will the LSRA manage my complaint?</b></td>
   <td>The LSRA will look into the complaint and take the necessary further action. </td>
   </tr>
   <tr>
-    <th><b>Can I submit an anonymous complaint?</b></th>
+    <td><b>Can I submit an anonymous complaint?</b></td>
   <td style="text-align: justify">The LSRA will only investigate credible complaints where the complainant has provided his/her contact details, as we may need to contact the complainant for clarification or further information. Please be assured that the LSRA will not reveal the source of the complaint to the law practice entity or lawyer concerned.</td>
   </tr>
   <tr>
-    <th><b>How do I make the complaint?</b></th>
+    <td><b>How do I make the complaint?</b></td>
   <td style="text-align: justify">To submit a complaint about a law practice entity in Singapore, please click<a href="https://www.mlaw.gov.sg/eservices/lsra/complaint-introduction/" target="_blank"> here</a>.
     </td>
   </tr>
