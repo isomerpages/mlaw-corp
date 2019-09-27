@@ -21,7 +21,7 @@ In the January 2017 sitting of Parliament, MinLaw took two important steps to re
 This Note by SMS Indranee Rajah summarises the provisions and policy objectives of the amendments to the Civil Law Act.
 
 <div class="image">
-  <a href="/files/NoteonCivilLawAmendment.pdf/"><img src="/images/1530861795863.jpg/"></a>
+  <a href="/files/NoteonCivilLawAmendment.pdf/"><img src="/images/1530861795863.jpg/" alt="image of pdf: third party funding - reinforcing singapore as a premier international dispute resolution centre"></a>
 </div>
 
 <a href="/files/NoteonCivilLawAmendment.pdf/">Note on Civil Law (Amendment) Bill</a>(479KB)

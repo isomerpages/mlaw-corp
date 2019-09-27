@@ -9,6 +9,7 @@ second_nav_title: Licensing Or Registration Of Law Practice Entities
 
 <style>
 table tr td ul li {font-size: 1rem;}
+  table tr td p {font-size: 1rem;}
 </style>
 
 Approval to Share Premises
@@ -45,28 +46,28 @@ Approval to Share Premises
   </tr>
   <tr>
     <td>(A)</td>
-    <td>Singapore law practice (“SLP”)</td>
-    <td>A licensed foreign law practice (“FLP”), Qualifying Foreign Law Practice (“QFLP”), representative office (“RO”), or an entity that is not a law practice<sup>*</sup></td>
+    <td><p style="text-align: justify">Singapore law practice (“SLP”)</p></td>
+    <td><p style="text-align: justify">A licensed foreign law practice (“FLP”), Qualifying Foreign Law Practice (“QFLP”), representative office (“RO”), or an entity that is not a law practice<sup>*</sup></p></td>
   </tr>
   <tr>
     <td>(B)</td>
-    <td>FLP, QFLP or RO</td>
-    <td>Any other FLP, QFLP, RO, or an entity that is not a law practice<sup>*</sup></td>
+    <td><p style="text-align: justify">FLP, QFLP or RO</p></td>
+    <td><p style="text-align: justify">Any other FLP, QFLP, RO, or an entity that is not a law practice<sup>*</sup></p></td>
   </tr>
   <tr>
     <td>(C)</td>
-    <td>Any law practice</td>
-    <td>A Joint Law Venture (“JLV”) that is unrelated to Entity 1</td>
+    <td><p style="text-align: justify">Any law practice</p></td>
+    <td><p style="text-align: justify">A Joint Law Venture (“JLV”) that is unrelated to Entity 1</p></td>
   </tr>
   <tr>
     <td>(D)</td>
-    <td>Any law practice</td>
-    <td>An FLP/QFLP that is a member law practice of a Formal Law Alliance (“FLA”), where Entity 1 is not a member of the FLA</td>
+    <td><p style="text-align: justify">Any law practice</p></td>
+    <td><p style="text-align: justify">An FLP/QFLP that is a member law practice of a Formal Law Alliance (“FLA”), where Entity 1 is not a member of the FLA</p></td>
   </tr>
   <tr>
     <td>(E)</td>
-    <td>Any law practice</td>
-    <td>Serviced offices (the company that owns or manages the serviced offices)</td>
+    <td><p style="text-align: justify">Any law practice</p></td>
+    <td><p style="text-align: justify">Serviced offices (the company that owns or manages the serviced offices)</p></td>
   </tr>
 </table>
 
@@ -108,27 +109,27 @@ Approval to Share Premises
   </tr>
   <tr>
     <td>(A)</td>
-    <td>SLP</td>
-    <td>Another SLP</td>
-    <td>Section 32(2) of the Legal Profession Act read with Rule 81 of the Legal Profession (Law Practice Entities) Rules 2015</td>
+    <td><p style="text-align: justify">SLP</p></td>
+    <td><p style="text-align: justify">Another SLP</p></td>
+    <td><p style="text-align: justify">Section 32(2) of the Legal Profession Act read with Rule 81 of the Legal Profession (Law Practice Entities) Rules 2015</p></td>
   </tr>
   <tr>
     <td>(B)</td>
-    <td>Member law practice of a group practice</td>
-    <td>Member law practice of the same group practice</td>
-    <td>Rules 44 and 65 of the Legal Profession (Law Practice Entities) Rules 2015</td>
+    <td><p style="text-align: justify">Member law practice of a group practice</p></td>
+    <td><p style="text-align: justify">Member law practice of the same group practice</p></td>
+    <td><p style="text-align: justify">Rules 44 and 65 of the Legal Profession (Law Practice Entities) Rules 2015</p></td>
   </tr>
   <tr>
     <td>(D)</td>
-    <td>Constituent SLP of a JLV</td>
-    <td>The relevant JLV</td>
-    <td>Section 169(7) of the Legal Profession Act</td>
+    <td><p style="text-align: justify">Constituent SLP of a JLV</p></td>
+    <td><p style="text-align: justify">The relevant JLV</p></td>
+    <td><p style="text-align: justify">Section 169(7) of the Legal Profession Act</p></td>
   </tr>
   <tr>
     <td>(E)</td>
-    <td>SLP member law practice of an FLA</td>
-    <td>FLP/QFLP member law practice of the relevant FLA</td>
-    <td>Section 170(7) of the Legal Profession Act</td>
+    <td><p style="text-align: justify">SLP member law practice of an FLA</p></td>
+    <td><p style="text-align: justify">FLP/QFLP member law practice of the relevant FLA</p></td>
+    <td><p style="text-align: justify">Section 170(7) of the Legal Profession Act</p></td>
   </tr>
 </table>
 

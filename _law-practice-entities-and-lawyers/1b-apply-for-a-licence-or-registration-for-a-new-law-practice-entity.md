@@ -9,6 +9,7 @@ second_nav_title: Licensing Or Registration Of Law Practice Entities
 
 <style>
 table tr td ul li {font-size: 1rem;}
+  table tr td p {font-size: 1rem;}
 </style>
 
 Apply for a Licence or Registration for a New Law Practice Entity
@@ -16,9 +17,9 @@ Apply for a Licence or Registration for a New Law Practice Entity
 
 <p style="text-align: justify">To apply for a licence for a new Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or register a new Group Practice ("GP") or Representative Office ("RO"), please follow the steps below.</p>
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx">FAQs</a></b></p>.
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
 <table>
   <tr>
@@ -34,14 +35,14 @@ Apply for a Licence or Registration for a New Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li>The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
-        <li>All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
-        <li>
+        <li style="text-align: justify">The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
+        <li style="text-align: justify">All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
+        <li style="text-align: justify">
 If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login" target="_blank">SingPass website</a>.</li>
         <li>If you are not eligible for SingPass, you can approach:
           <ul>
-            <li><a href="/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
-            <li>A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/practitioners-directory/" target="_blank">a corporate services provider</a></li>
+             <li style="text-align: justify"><a href="/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
+             <li style="text-align: justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://www.saicsa.org.sg/english/contact/prac.htm/" target="_blank">a corporate services provider</a></li>
           </ul>
         </li>
       </ul>
@@ -59,11 +60,10 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li>Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eServices/LSRA/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
-        <li>The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
-        <li>The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
-        <li>
-The application fee must be paid online using a valid credit/debit card. </li>
+        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eServices/LSRA/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
+        <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
+         <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+       <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
       </ul>
     </td>
     <td>
@@ -81,9 +81,9 @@ The application fee must be paid online using a valid credit/debit card. </li>
   <tr>
     <td>
       <ul>
-        <li>The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance</li>
-        <li>The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
-        <li>If the application is rejected, the process will end here.</li>
+         <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance</li>
+        <li style="text-align:justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
+        <li style="text-align: justify">If the application is rejected, the process will end here.</li>
       </ul>
     </td>
     <td>
@@ -99,14 +99,14 @@ The application fee must be paid online using a valid credit/debit card. </li>
   <tr>
     <td>
       <ul>
-        <li>If the application is approved, the LSRA will issue you an in-principle approval letter.  You will then need to register the business entity with the Accounting and Corporate Regulatory Authority (“ACRA”) via <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=12873816544343619&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D12873816544343619%26_afrWindowMode%3D0%26_adf.ctrl-state%3D12uks2andg_4" target="_blank">BizFile</a>.</li>
+        <li style="text-align:justify">If the application is approved, the LSRA will issue you an in-principle approval letter.  You will then need to register the business entity with the Accounting and Corporate Regulatory Authority (“ACRA”) via <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=12873816544343619&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D12873816544343619%26_afrWindowMode%3D0%26_adf.ctrl-state%3D12uks2andg_4" target="_blank">BizFile</a>.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>FLAs, GPs and ROs do not need to register with ACRA.</li>
-        <li>FLAs and GPs are not legal entities, and will not be given UENs.</li>
-        <li>For ROs, a UEN will be issued by the LSRA.</li>
+        <li style="text-align:justify">FLAs, GPs and ROs do not need to register with ACRA.</li>
+        <li style="text-align:justify">FLAs and GPs are not legal entities, and will not be given UENs.</li>
+        <li style="text-align:justify">For ROs, a UEN will be issued by the LSRA.</li>
       </ul>
     </td>
   </tr>
@@ -117,16 +117,17 @@ The application fee must be paid online using a valid credit/debit card. </li>
   <tr>
     <td>
       <ul>
-        <li>Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
-        <li>If you are applying for a licence for a new law practice entity because you are converting the legal structure of an existing law practice entity, please ensure that you also submit an application via LSRA e-Services to terminate the existing law practice entity. To ensure continuity of operations, the requested start date of the new law practice entity should be the day after the requested last day of operations of the existing law practice entity. Please note that the lawyers in your law practice will also need to submit a Notice of Change via eLitigation (for Singapore solicitors) or apply to LSRA for new Certificates of Registration (for Singapore solicitors in foreign law practice entities or foreign-qualified lawyers). After the termination application is approved, the Certificates of Registration of all individuals registered under the existing law practice will be automatically terminated on the last day of operations of the existing law practice</li>
-        <li>The licence/registration fee can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
-        <li>The licence/registration fee, which is non-refundable, must be paid online using a valid credit/debit card.</li>
+        <li style="text-align:justify">Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
+        <li style="text-align:justify">Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
+        <li style="text-align:justify">If you are applying for a licence for a new law practice entity because you are converting the legal structure of an existing law practice entity, please ensure that you also submit an application via LSRA e-Services to terminate the existing law practice entity. To ensure continuity of operations, the requested start date of the new law practice entity should be the day after the requested last day of operations of the existing law practice entity. Please note that the lawyers in your law practice will also need to submit a Notice of Change via eLitigation (for Singapore solicitors) or apply to LSRA for new Certificates of Registration (for Singapore solicitors in foreign law practice entities or foreign-qualified lawyers). After the termination application is approved, the Certificates of Registration of all individuals registered under the existing law practice will be automatically terminated on the last day of operations of the existing law practice</li>
+        <li style="text-align:justify">The licence/registration fee can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
+        <li style="text-align:justify">The licence/registration fee, which is non-refundable, must be paid online using a valid credit/debit card.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
-        <li>SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
+        <li style="text-align:justify">FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
+        <li style="text-align:justify">SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
       </ul>
     </td>
   </tr>
@@ -137,9 +138,9 @@ The application fee must be paid online using a valid credit/debit card. </li>
   <tr>
     <td>
       <ul>
-        <li>The LSRA will issue the licence/certificate after verifying the UEN and payment.</li>
-        <li>After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
-        <li>You can now apply for Certificates of Registration for any foreign lawyer or regulated non-practitioner.</li>
+        <li style="text-align:justify">LSRA will issue the licence/certificate after verifying the UEN and payment.</li>
+        <li style="text-align:justify">After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
+        <li style="text-align:justify">You can now apply for Certificates of Registration for any foreign lawyer or regulated non-practitioner.</li>
       </ul>
     </td>
     <td>

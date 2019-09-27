@@ -1,19 +1,34 @@
-/lab https://lab.mlaw.gov.sg/
-/thisdoesnotexist https://lab.mlaw.gov.sg
-/example/here https://lab.mlaw.gov.sg
-/news/abc /news/press-releases 
+/content/pto/en/ https://pto.mlaw.gov.sg
+/content/pto/en.html https://pto.mlaw.gov.sg
+/pto https://pto.mlaw.gov.sg
 /content/ab/en/ https://ab.mlaw.gov.sg
+/content/ab/en.html https://ab.mlaw.gov.sg
 /ab/ https://ab.mlaw.gov.sg
+/lab https://lab.mlaw.gov.sg/
+/content/lab/en.html https://lab.mlaw.gov.sg/
+/content/lab/en/ https://lab.mlaw.gov.sg/
+/content/rom/en/ https://rom.mlaw.gov.sg
+/content/rom/en.html https://rom.mlaw.gov.sg
+/rom https://rom.mlaw.gov.sg
+/content/lsb/en/ https://lsb.mlaw.gov.sg
+/content/lsb/en.html https://lsb.mlaw.gov.sg
+/lsb https://lsb.mlaw.gov.sg
+/content/rop/en/ https://rop.mlaw.gov.sg
+/rop https://rop.mlaw.gov.sg
+/content/rop/en.html https://rop.mlaw.gov.sg
 /content/cmc/en/ https://cmc.mlaw.gov.sg
 /cmc/ https://cmc.mlaw.gov.sg
 /content/cmc/en.html https://cmc.mlaw.gov.sg
 /content/io/en/ https://io.mlaw.gov.sg
-/content/lab/en/ https://lab.mlaw.gov.sg
-/content/lsb/en/ https://lsb.mlaw.gov.sg
-/content/pto/en/ https://pto.mlaw.gov.sg
-/content/rom/en/ https://rom.mlaw.gov.sg
-/content/rop/en/ https://rop.mlaw.gov.sg
-/content/minlaw/en/our-legal-system.html /about-us/our-legal-system/our-legal-system/
-/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html
+/content/io/en.html https://io.mlaw.gov.sg
+/io https://io.mlaw.gov.sg
+
+
+
+
+
+
+
+
 
 

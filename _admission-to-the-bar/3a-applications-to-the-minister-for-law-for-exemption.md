@@ -1,12 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Applications to the Minister for Law for Exemption
-permalink: /admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/
-breadcrumb: Applications to the Minister for Law for Exemption
+title: Details on Applying for Exemption
+permalink: /admission-to-the-bar/details-on-applying-for-an-exemption/
+breadcrumb: Details on Applying for Exemption
 collection_name: admission-to-the-bar
+second_nav_title: Applications to the Minister for Law for Exemption
 ---
 
-Applications to the Minister for Law for Exemption
+Details on Applying for Exemption
 ---
 
 <p style="text-align: justify"><b>[ANNOUNCEMENT: From 1 December 2017, Doctor of Jurisprudence (J.D.) degrees (also known as Juris Doctor degrees) conferred on or after 1 December 2017 by approved Australian universities will be recognised for admission to the Singapore Bar, provided all other admission requirements are met. For more information, please refer to the Singapore Institute of Legal Education’s <a href="http://www.sile.edu.sg/australia-and-new-zealand-approved-universities" target="_blank">website</a> .]</b></p>

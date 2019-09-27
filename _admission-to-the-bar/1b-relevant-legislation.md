@@ -4,7 +4,7 @@ title: Relevant Legislation
 permalink: /admission-to-the-bar/admission-requirements/relevant-legislation/
 breadcrumb: Relevant Legislation
 collection_name: admission-to-the-bar
-second_nav_title: Admission Requirements
+second_nav_title: Admission
 ---
 
 Relevant Legislation

@@ -19,13 +19,13 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on the UniSIM Law
 The Ministry of Law announced last week the setting up of Singapore’s third law school in UniSIM, which will be a specialist law school for the training of prospective family and criminal lawyers. The development of the third law school is guided by the recommendations of the Steering Committee for the Establishment of the UniSIM Law School, chaired by Senior Minister of State for Law, Ms Indranee Rajah S.C. In the attached Note, Ms Rajah provides a deeper insight into the committee’s vision of a law school with a difference to make a difference.
 
 <div class="image">
-  <a href="/files/1NotebySMSonULS.pdf/"><img src="/images/1456210601575.jpg/"></a>
+  <a href="/files/1NotebySMSonULS.pdf/"><img src="/images/1456210601575.jpg/" alt="image of pdf: unisim law school - heralding a new dawn for family and criminal law"></a>
 </div>
 
 <a href="/files/1NotebySMSonULS.pdf/">Note on the UniSIM Law School</a>(696KB)
 
 <div class="image">
-  <a href="/files/2NotebySMSonULS-Annex.pdf/"><img src="/images/2456210823256.jpg/"></a>
+  <a href="/files/2NotebySMSonULS-Annex.pdf/"><img src="/images/2456210823256.jpg/" alt="thumbnail for infographic key features of unisim law school"></a>
 </div>
 
 <a href="/files/2NotebySMSonULS-Annex.pdf/">Annex - Key features of the UniSIM Law School</a>(1.3MB)

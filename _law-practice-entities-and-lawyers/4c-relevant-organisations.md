@@ -7,7 +7,10 @@ collection_name: law-practice-entities-and-lawyers
 second_nav_title: Resources for Law Practice Entities
 ---
 
-<style> table tr td ul li {font-size: 1rem;} </style>
+<style> 
+  table tr td ul li {font-size: 1rem;}
+  table tr td p {font-size: 1rem;}
+</style>
 
 Relevant Organisations
 ---
@@ -28,27 +31,31 @@ Relevant Organisations
     <td>The Law Society of Singapore</td>
     <td>
       <ul>
-        <li>Matters relating to professional practice, etiquette, conduct and discipline</li>
-        <li>Professional Conduct Council</li>
-        <li>Legal Profession (Professional Conduct) Rules</li>
+        <li style="align-text: justify">Matters relating to professional practice, etiquette, conduct and discipline</li>
+        <li style="align-text: justify">Professional Conduct Council</li>
+        <li style="align-text: justify">Legal Profession (Professional Conduct) Rules</li>
       </ul>
     </td>
-    <td>Email: <a href="mailto:represent@lawsoc.org.sg">elitigation@crimsonlogic.com</a></td>
+    <td>Email: <a href="mailto:represent@lawsoc.org.sg">represent@lawsoc.org.sg</a></td>
   </tr>
   <tr>
     <td>The Supreme Court of Singapore</td>
     <td>
       <ul>
-        <li>Practising Certificates</li>
-        <li>E-Litigation</li>
+        <li style="align-text: justify">Practising Certificates</li>
+        <li style="align-text: justify">E-Litigation</li>
       </ul>
     </td>
-    <td>For technical/system-related issues in eLitigation and general enquiries:<br>
+    <td>
+      <p style="align-text: justify">
+      For technical/system-related issues in eLitigation and general enquiries:<br>
       <b>CrimsonLogic Helpdesk</b><br>Tel: 6887 7222<br>
       E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com</a><br><br>
       For queries concerning practising certificates:<br><b>
       Supreme Court</b><br>Tel: 6332 4244<br>
-      E-mail: <a href="mailto:SUPCOURT_PCEF_INQ@supcourt.gov.sg">SUPCOURT_PCEF_INQ@supcourt.gov.sg</a></td>
+      E-mail: <a href="mailto:SUPCOURT_PCEF_INQ@supcourt.gov.sg">SUPCOURT_PCEF_INQ@supcourt.gov.sg</a>
+      </p>
+    </td>
   </tr>
 </table>
 

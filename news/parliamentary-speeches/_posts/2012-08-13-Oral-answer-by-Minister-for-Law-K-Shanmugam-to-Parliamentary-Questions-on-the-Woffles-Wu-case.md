@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-k-shanmu
 13 Aug 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5WrtCYcaLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Oral answer to Parliamentary Questions on the Woffles Wu case" width="560" height="315" src="https://www.youtube.com/embed/O5WrtCYcaLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **Ms Sylvia Lim, Aljunied GRC**

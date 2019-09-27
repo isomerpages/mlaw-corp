@@ -4,6 +4,7 @@ title: Admission Requirements
 permalink: /admission-to-the-bar/admission-requirements/
 breadcrumb: Admission Requirements
 collection_name: admission-to-the-bar
+second_nav_title: Admission
 ---
 
 **Admission Requirements**
@@ -16,8 +17,8 @@ collection_name: admission-to-the-bar
 Individuals who wish to be admitted to the Singapore Bar must:
 
 <ol style="list-style-type: lower-roman">
-<li>Meet all the requirements of being a “<a href="http://www.sile.edu.sg/qualified-person" target="_blank">qualified person</a>” as defined in the Legal <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/" target="_blank">Profession Act</a> read together with the <a href="#">Legal Profession (Qualified Persons) Rules</a>; and</li>
-<li>Fulfil the other "<a href="http://www.sile.edu.sg/admission-to-the-singapore-bar" target="_blank">admission requirements</a> setout in Sections 12 and 13 of the Legal Profession Act read together with the "<a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Legal Profession (Admission) Rules 2011</a>:
+<li style="text-align: justify">Meet all the requirements of being a “<a href="http://www.sile.edu.sg/qualified-person" target="_blank">qualified person</a>” as defined in the Legal <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/" target="_blank">Profession Act</a> read together with the <a href="#">Legal Profession (Qualified Persons) Rules</a>; and</li>
+<li style="text-align: justify">Fulfil the other "<a href="http://www.sile.edu.sg/admission-to-the-singapore-bar" target="_blank">admission requirements</a> setout in Sections 12 and 13 of the Legal Profession Act read together with the "<a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Legal Profession (Admission) Rules 2011</a>:
 <ol style="list-style-type: lower-alpha; list-style-position: inside">
 <li>You have attained the age of 21 years;</li>
 <li>You are of good character;</li>

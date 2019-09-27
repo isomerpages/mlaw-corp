@@ -50,18 +50,24 @@ collection_name: news
 **Translation of “Protection from Harassment Act”**
 
 <table class="table-h">
+
 <tr>
-<td role="rowheader">Chinese</td>
+  <th>Language</th>
+  <th>Translation</th>
+</tr>  
+  
+<tr>
+<td>Chinese</td>
 
 <td>《防止骚扰法》</td>
 </tr>
 <tr>
-<td role="rowheader">Malay</td>
+<td>Malay</td>
 <td>Akta Perlindungan Daripada Gangguan</td>
 </tr>
 
 <tr>
-<td role="rowheader">Tamil</td>
+<td>Tamil</td>
 <td>தொந்தரவில் இருந்து பாதுகாக்கும் சட்டம்</td>
 </tr>
 </table>

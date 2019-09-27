@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Ta
 On 2 October 2017, Parliament passed a trio of tax amendments aimed at easing compliance, clarifying existing legislation, improving tax administration and giving effect to Budget 2017 tax measures. More available in the latest Note by Senior Minister of State for Law and Finance, Ms Indranee Rajah.
 
 <div class="image">
-  <a href="/files/NoteonTaxAmendments.pdf/"><img src="/images/1509613462494.jpg/"></a>
+  <a href="/files/NoteonTaxAmendments.pdf/"><img src="/images/1509613462494.jpg/" alt="image of pdf: a trio of tax amendments"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 02 Nov 2017</p>

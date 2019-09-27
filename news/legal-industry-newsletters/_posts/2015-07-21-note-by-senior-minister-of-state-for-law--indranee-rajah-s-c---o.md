@@ -19,13 +19,13 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on A More Rehabil
 The Bankruptcy (Amendment) Bill was passed in Parliament on 14 July 2015. In the attached Note, Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the key features of the Bill which will create a more rehabilitative environment for bankrupts and encourage responsible debt management. The Note will be helpful to professionals engaged in debt recovery and insolvency work. It will also be of interest to financial institutions which extend credit to individuals. 
 
 <div class="image">
-  <a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/"><img src="/images/1437459533821.jpg/"></a>
+  <a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/"><img src="/images/1437459533821.jpg/" alt="image for pdf: a more rehabilitative framework for bankrupts"></a>
 </div>
 
 <a href="/files/NotebySMSonAMoreRehabilitativeFrameworkforBankrupts.pdf/">Note on A More Rehabilitative Framework for Bankrupts</a>(373KB)
 
 <div class="image">
-  <a href="/files/Annex.pdf/"><img src="/images/1437474539181.jpg/"></a>
+  <a href="/files/Annex.pdf/"><img src="/images/1437474539181.jpg/" alt="thumbnail of infographic: the new differentiated discharge framework"></a>
 </div>
 
 <a href="/files/Annex.pdf/">Annex - Infographic on Bankruptcy (Amendment) Bill</a>(340KB)

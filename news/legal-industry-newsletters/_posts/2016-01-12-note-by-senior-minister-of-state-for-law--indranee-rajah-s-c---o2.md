@@ -19,7 +19,7 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Lawyers in the
 Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the long-term issues and challenges that the legal industry can expect to face in the coming years.
 
 <div class="image">
-  <a href="/files/NoteonLawyersintheFutureofUs.pdf/"><img src="/images/1452595386576.jpg/"></a>
+  <a href="/files/NoteonLawyersintheFutureofUs.pdf/"><img src="/images/1452595386576.jpg/" alt="image of pdf: lawyers in the future of us"></a>
 </div>
 
 <a href="/files/NoteonLawyersintheFutureofUs.pdf/">Note on Lawyers in the Future of Us</a>(1MB)

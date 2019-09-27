@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-fo
 9 Jul 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5n0jvzU0_zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video: Statement on changes to the Applications of the Mandatory Death Penalty to Homicide Offences" width="560" height="315" src="https://www.youtube.com/embed/5n0jvzU0_zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
