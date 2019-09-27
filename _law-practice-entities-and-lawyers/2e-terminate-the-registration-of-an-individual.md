@@ -9,6 +9,7 @@ second_nav_title: Registration of Individuals
 
 <style>
 table tr td ul li {font-size: 1rem;}
+table tr td p {font-size: 1rem;}
 </style>
 
 Terminate the Registration of an Individual
