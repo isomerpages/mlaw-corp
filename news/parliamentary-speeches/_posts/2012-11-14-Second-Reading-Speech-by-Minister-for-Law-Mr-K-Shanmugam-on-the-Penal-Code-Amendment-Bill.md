@@ -8,7 +8,7 @@ permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-la
 14 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9nrx8L2NCFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+<iframe title="video: Speech by Minister for Law on the Penal Code (Amendment) Bill" width="560" height="315" src="https://www.youtube.com/embed/9nrx8L2NCFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 </div>
 
 Mr Speaker, Sir
