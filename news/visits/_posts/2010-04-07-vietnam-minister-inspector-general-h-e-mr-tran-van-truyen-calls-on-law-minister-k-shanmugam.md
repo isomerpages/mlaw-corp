@@ -17,7 +17,7 @@ Vietnam Minister, Inspector-General, H.E. Mr Tran Van Truyen calls on Law Minist
 7 Apr 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/dsc_0253-copy-copy.jpg/">
+  <img src="/images/dsc_0253-copy-copy.jpg/" alt="vm visit" title="vm visit">
   <i>(L-R) Vietnam Ambassador H.E Mr Nguyen Trung Thanh, Vietnam Minister, Inspector-General, H.E. Mr Tran Van Truyen, Law Minister K Shanmugam</i>
 </div><br>
 
