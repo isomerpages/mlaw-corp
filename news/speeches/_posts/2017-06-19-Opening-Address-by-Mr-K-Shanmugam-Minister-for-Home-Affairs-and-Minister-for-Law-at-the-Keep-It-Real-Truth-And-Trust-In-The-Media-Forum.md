@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the &quot;Keep It Real&#58; Truth And Trust In The Media&quot; Forum
+title: "Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the “Keep It Real: Truth And Trust In The Media” Forum"
 permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and1
 breadcrumb: Speeches
 collection_name: news
