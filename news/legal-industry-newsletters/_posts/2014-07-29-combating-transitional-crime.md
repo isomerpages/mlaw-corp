@@ -22,7 +22,7 @@ In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah 
 
 <div class="image">
   <a href="/files/MACMA_2014_Newsletter.pdf/">
-    <img src="/images/1412049820721.jpg/">
+    <img src="/images/1412049820721.jpg/" alt="article" title="article">
   </a>
 </div>
 
