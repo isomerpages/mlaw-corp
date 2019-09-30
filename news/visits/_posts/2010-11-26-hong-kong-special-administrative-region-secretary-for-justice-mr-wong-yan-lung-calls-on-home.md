@@ -17,7 +17,7 @@ Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung c
 26 Nov 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/call-hk-sec-wong-yan-lung.jpg/">
+  <img src="/images/call-hk-sec-wong-yan-lung.jpg/" alt="hksa visit" title="hksa visit">
   <i>Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung exchanging gifts with Minister for Home Affairs and Minister for Law, K Shanmugam</i>
 </div>
 
