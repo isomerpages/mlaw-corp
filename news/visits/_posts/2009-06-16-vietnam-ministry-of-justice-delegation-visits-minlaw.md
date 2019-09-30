@@ -17,7 +17,7 @@ Vietnam Ministry of Justice delegation visits MinLaw
 16 Jun 2009 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/1399988697051.jpg/">
+  <img src="/images/1399988697051.jpg/" alt="v visit" title="v visit">
   <i>Vietnam Vice Minister of Justice Dr Dinh Trung Tung (6th from left) and MinLaw Deputy Secretary BG(NS) Yap Ong Heng (7th from left), together with the delegation and MinLaw officials.</i>
 </div>
 
