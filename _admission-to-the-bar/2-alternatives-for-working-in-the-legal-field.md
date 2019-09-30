@@ -32,7 +32,7 @@ Alternatives for Working in the Legal Field in Singapore
 
 **(E) Exemption by the Minister for Law**
 
-<p style="text-align: justify">If you are not eligible for admission to the Singapore Bar, you may wish to try submitting an application to the Minister for Law for an <a href="/admission-to-the-bar/applications-to-the-minister-for-law-for-exemption/">exemption</a>.</p>
+<p style="text-align: justify">If you are not eligible for admission to the Singapore Bar, you may wish to try submitting an application to the Minister for Law for an <a href="/admission-to-the-bar/details-on-applying-for-an-exemption/" target="_blank">exemption</a>.</p>
 
 <p style="text-align: justify">Please note that each application for an exemption will be considered on its individual merits and may be granted subject to conditions. The onus is on the applicant to make a strong case for the exemption sought.</p>
 
