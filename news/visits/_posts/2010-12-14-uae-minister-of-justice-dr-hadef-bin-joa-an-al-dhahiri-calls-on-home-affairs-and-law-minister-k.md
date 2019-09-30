@@ -17,7 +17,7 @@ UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri calls on Home Affairs and
 14 Dec 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/UAE_Dr_Hadef.jpeg/">
+  <img src="/images/UAE_Dr_Hadef.jpeg/" alt="uae visit" title="uae visit">
   <i>UAE Minister of Justice Dr Hadef Joa'an Al Dhahiri exchanging gifts with Minister Home Affairs and Minister for Law, K Shanmugam</i>
 </div>
 
