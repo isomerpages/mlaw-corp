@@ -17,7 +17,7 @@ Alternatives for Working in the Legal Field in Singapore
 
 **(B) Practising in Permitted Areas of Singapore Law as a Foreign Practitioner**
 
-<p style="text-align: justify">Foreign-qualified lawyers who pass the <a href="http://www.sile.edu.sg/foreign-practitioner-examinations">Foreign Practitioner Examinations</a> (FPE) can register with the <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-certificate-of-registration/" target="_blank">Legal Services Regulatory Authority</a> as a foreign practitioner under Section 36B of the Legal Profession Act to practise in permitted areas of Singapore law.  Please refer to the Singapore Institute of Legal Education (SILE)’s <a href="http://www.sile.edu.sg/">website</a> for more details on the FPE.</p>
+<p style="text-align: justify">Foreign-qualified lawyers who pass the <a href="http://www.sile.edu.sg/foreign-practitioner-examinations">Foreign Practitioner Examinations</a> (FPE) can register with the <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/" target="_blank">Legal Services Regulatory Authority</a> as a foreign practitioner under Section 36B of the Legal Profession Act to practise in permitted areas of Singapore law.  Please refer to the Singapore Institute of Legal Education (SILE)’s <a href="http://www.sile.edu.sg/">website</a> for more details on the FPE.</p>
 
 **(C) Working as In-House Counsel**
 
