@@ -21,7 +21,7 @@ With online piracy becoming an increasing global concern, there is a need for ea
 SMS has outlined the legislative amendments that the Government has taken to enable rights holders to protect their rights more effectively against pirate websites through judicial measures, in the attached note below on Copyright Bill.
 
 <div class="image">
-  <a href="/files/CopyrightBill2014Newsletter.pdf/"><img src="/images/1422346007800.jpg/"></a>
+  <a href="/files/CopyrightBill2014Newsletter.pdf/"><img src="/images/1422346007800.jpg/" alt="article" title="article"></a>
 </div>
 
 <a href="/files/CopyrightBill2014Newsletter.pdf/">Note on Supporting the Digital Environment</a>(1.2MB)
