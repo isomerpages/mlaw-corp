@@ -17,7 +17,7 @@ Call on Minister for Law K Shanmugam by Communist Party of China Central Committ
 11 Feb 2015 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/1423711387305.jpg/" alt="image of mr k shanmugam and mr meng jianzhu">
+  <img src="/images/1423711387305.jpg/" alt="image of mr k shanmugam and mr meng jianzhu" alt="article" title="article">
   Photo credit: Ministry of Foreign Affairs, Singapore
   </div>
 
