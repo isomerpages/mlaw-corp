@@ -17,7 +17,7 @@ Visit by Chief Justice of the United Republic of Tanzania
 20 Jan 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/1399988699267.jpg/">
+  <img src="/images/1399988699267.jpg/" alt="cj visit" title="cj visit">
   <i>MinLaw's Deputy Secretary, Mr Hugh Lim (5<sup>th</sup> from left), and Chief Justice of the United Republic of Tanzania, Hon Judge Augustino Stephen Lawrance Ramadhani (6<sup>th</sup> from left), together with the delegation and MinLaw officials</i>
 </div>
 
