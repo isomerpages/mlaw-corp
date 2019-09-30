@@ -13,7 +13,7 @@ Alternatives for Working in the Legal Field in Singapore
 
 **(A) Practising Foreign Law as a Foreign Lawyer**
 
-<p style="text-align: justify">If you are registered to practise law in an overseas jurisdiction, you can register with the <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-certificate-of-registration/" target="_blank">Legal Services Regulatory Authority</a> as a foreign lawyer under <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Part IXA of the Legal Profession Act</a> to practise foreign law in Singapore. You will not need to take any courses or examinations.</p>
+<p style="text-align: justify">If you are registered to practise law in an overseas jurisdiction, you can register with the <a href="/law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/" target="_blank">Legal Services Regulatory Authority</a> as a foreign lawyer under <a href="/admission-to-the-bar/admission-requirements/relevant-legislation/">Part IXA of the Legal Profession Act</a> to practise foreign law in Singapore. You will not need to take any courses or examinations.</p>
 
 **(B) Practising in Permitted Areas of Singapore Law as a Foreign Practitioner**
 
