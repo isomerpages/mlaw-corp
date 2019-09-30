@@ -16,7 +16,7 @@ Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam
 
 27 Jul 2010 Posted in [Visits](/news/visits/)
 
-<div class="image"><img src="/images/saudi-arabian.jpg/"></div><br>
+<div class="image"><img src="/images/saudi-arabian.jpg/" alt="sa visit" title="sa visit"></div><br>
 
 Law Minister K Shanmugam met with a delegation from the Saudi Arabian Board of Grievances, led by Dr Ahmed Abdulaziz Al-Sagiah, on 27 July 2010 at a courtesy call, where they discussed their respective legal systems.
 
