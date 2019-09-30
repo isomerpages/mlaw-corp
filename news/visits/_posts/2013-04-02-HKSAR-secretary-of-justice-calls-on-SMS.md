@@ -17,7 +17,7 @@ Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC 
 2 Apr 2013 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/Mr_Rimsky_Yuen_SC_with_SMS.jpg/">
+  <img src="/images/Mr_Rimsky_Yuen_SC_with_SMS.jpg/" alt="mr visit" title="mr visit">
   <i>Hong Kong SAR Secretary of Justice, Rimsky Yuen, speaking with Senior Minister of State Indranee Rajah</i>
 </div>
 
