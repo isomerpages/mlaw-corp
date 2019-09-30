@@ -194,7 +194,7 @@ Mr. Speaker,
 </ol>
 
 
-    **Strengthening Singapore’s Position as a Venue for IP Arbitration** 
+   **Strengthening Singapore’s Position as a Venue for IP Arbitration** 
     
     
 {:start="30"}
