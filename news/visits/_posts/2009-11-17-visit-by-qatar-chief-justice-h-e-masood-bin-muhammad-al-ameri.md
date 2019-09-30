@@ -17,7 +17,7 @@ Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
 17 Nov 2009 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/qatar-cj-al-ameri-and-sms.jpg/">
+  <img src="/images/qatar-cj-al-ameri-and-sms.jpg/" alt="qatar visit" title="qatar visit">
   <i>Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri exchanging gifts with Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee</i>
 </div>
 
