@@ -55,7 +55,7 @@ collection_name: news
 
 <table class="table-h">
 
-<tr>
+<tr style="display: none;">
   <th>Language</th>
   <th>Translation</th>
 </tr>  
