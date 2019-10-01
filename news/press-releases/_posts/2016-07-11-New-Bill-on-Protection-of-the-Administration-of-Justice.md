@@ -73,7 +73,7 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 
 
 <table class="table-h">
-<tr>
+<tr style="display: none">
   <th>Language</th>
   <th>Translation</th>
 </tr>  
