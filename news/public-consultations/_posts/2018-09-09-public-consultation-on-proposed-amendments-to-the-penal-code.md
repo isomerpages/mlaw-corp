@@ -197,6 +197,10 @@ The Penal Code Review Committee Report is available here:<br>
   <th colspan="2"><b>Current members</b></th>
  </tr>
  <tr>
+ <th>Name</th>
+ <th>Designation</th>
+ </tr> 
+ <tr>
   <td>Indranee Rajah, S.C. (Co-chairperson)</td>
   <td>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for Education</td>
  </tr>
