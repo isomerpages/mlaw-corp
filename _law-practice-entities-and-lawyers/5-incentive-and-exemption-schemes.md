@@ -15,6 +15,10 @@ Incentive Schemes
 ---
 
 <table>
+    <tr style="display: none">
+    <th>Scheme</th>
+    <th>Description</th>    
+    </tr>    
     <tr>
         <td><p style="text-align: justify"><b>Incentive schemes</b></p></td>
         <td>
