@@ -11,7 +11,7 @@ Ministry of Law's statements on the repatriation of foreign workers
 
 27 Jan 2012 Posted in [Replies](/news/replies)
 
-<u>**21 December 2013**</u>
+**<u>21 December 2013</u>**
 
 
 **Ministry of Law's statement on the repatriation of foreign workers**
@@ -62,7 +62,7 @@ Press Secretary to the Minister for Law
 
 ---
 
-<u>**23 December 2013**</u>
+**<u>23 December 2013</u>**
 
 **Response to Maruah: Repatriation of Foreign Workers**
 
