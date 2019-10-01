@@ -271,6 +271,10 @@ The Penal Code Review Committee Report is available here:<br>
   <td colspan="2"><b>Previous members who have since stepped down from the PCRC</b></td>
  </tr>
  <tr>
+  <th>Name</th>
+  <th>Designation</th>
+ </tr> 
+ <tr>
   <td>Desmond Lee (Co-chairperson)</td>
   <td>Then-Senior Minister of State, Ministry of Home Affairs and National Development</td>
  </tr>
