@@ -41,6 +41,10 @@ Exemption Schemes
 ---
 
 <table>
+  <tr style="display:none">
+  <th>Scheme</th>
+  <th>Description</th>
+  </tr>    
   <tr>
       <td><p style="text-align: justify"><b>Tax Exemption for Non-Resident Arbitrators</b></p></td>
       <td><p style="text-align: justify">This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br>
