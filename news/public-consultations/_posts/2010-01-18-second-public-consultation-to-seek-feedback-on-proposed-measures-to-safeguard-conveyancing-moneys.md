@@ -60,7 +60,7 @@ Some consequential changes will also need to be made to the Legal Profession (So
 9. The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys as explained in the Second Public Consultation Paper as well as the legislative framework as provided in the draft legislation.
 
 {:start="10"}
-10. The consultation period is from 18 January to 12 February 2010. The public can view the Second Public Consultation Paper and draft legislation at [www.minlaw.gov.sg](https://www.minlaw.gov.sg) and at [REACH](https://www.reach.gov.sg/){:target="_blank"}.  The feedback may be sent in electronic or hard copy form to:
+10. The consultation period is from 18 January to 12 February 2010. The public can view the Second Public Consultation Paper and draft legislation at [www.mlaw.gov.sg](https://www.mlaw.gov.sg) and at [REACH](https://www.reach.gov.sg/){:target="_blank"}.  The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
   Legal Policy Division<br>
