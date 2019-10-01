@@ -17,7 +17,7 @@ Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng
 25 Apr 2011 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/sms-with-hakeem-2-.jpg/">
+  <img src="/images/sms-with-hakeem-2-.jpg/" alt="slm visit" title="slm visit">
   <i>Sri Lankan Minister of Justice H.E. Rauff Hakeem exchanging gifts with SMS Assoc Prof Ho Peng Kee</i>
 </div>
 

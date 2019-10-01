@@ -242,7 +242,7 @@ Madam Speaker,
 
 <p id="translation"><i>Note : Please refer to translation of key terms below</i></p>  
 <table class="table-h">
-<tr>
+<tr style="display: none">
 <th>Language</th> 
 <th>Translation</th>
 </tr>  

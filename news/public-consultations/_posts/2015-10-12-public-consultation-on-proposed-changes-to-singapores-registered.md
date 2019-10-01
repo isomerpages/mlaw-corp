@@ -60,6 +60,10 @@ Public Consultation on Proposed Changes to Singapore’s Registered Designs Regi
 3.1. We seek your feedback to these proposals to improve the registered designs regime in Singapore and would appreciate any feedback by 7 December 2015. The feedback may be sent in electronic or hardcopy form to: 
 
 <table>
+<tr style="display:none">
+ <th>MinLaw</th>
+ <th>IPOS</th>
+</tr> 
  <tr>
   <td>
    <u>MinLaw</u><br>

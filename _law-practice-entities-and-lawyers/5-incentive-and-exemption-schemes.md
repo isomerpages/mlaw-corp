@@ -15,6 +15,10 @@ Incentive Schemes
 ---
 
 <table>
+    <tr style="display: none">
+    <th>Scheme</th>
+    <th>Description</th>    
+    </tr>    
     <tr>
         <td><p style="text-align: justify"><b>Incentive schemes</b></p></td>
         <td>
@@ -28,7 +32,7 @@ Incentive Schemes
         </li>
       </ul>
       <p style="text-align: justify">Please note that applications for these incentives are subject to the approval of the respective agencies administering the incentives.</p>
-      <p style="text-align: justify">For more information, please submit your enquiry via <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg" target="_blank">clientservices@edb.gov.sg</a>.</p>
+      <p style="text-align: justify">For more information, please submit your enquiry via <a href="/about-us/contact-us" target="_blank">Contact Us @ OneMinLaw</a> or the Economic Development Board at <a href="mailto:clientservices@edb.gov.sg" target="_blank">clientservices@edb.gov.sg</a>.</p>
     </td>
     </tr>
 </table>
@@ -37,6 +41,10 @@ Exemption Schemes
 ---
 
 <table>
+  <tr style="display:none">
+  <th>Scheme</th>
+  <th>Description</th>
+  </tr>    
   <tr>
       <td><p style="text-align: justify"><b>Tax Exemption for Non-Resident Arbitrators</b></p></td>
       <td><p style="text-align: justify">This tax exemption is applicable to all non-resident arbitrators who are appointed for any arbitration proceedings governed by the Arbitration Act or the International Arbitration Act, or would have been governed by either of those Acts had the venue of arbitration been in Singapore.<br>

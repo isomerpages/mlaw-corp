@@ -17,7 +17,7 @@ Visit by Cambodian Constitutional Council
 15 Mar 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/courtesy-call-15-mar-1.jpg/">
+  <img src="/images/courtesy-call-15-mar-1.jpg/" alt="camb visit" title="camb visit">
   <i>Law Minister K Shanmugam (3rd from right), and the President of the Cambodian Constitutional Council HE Ek Sam Ol (5th from left), together with the delegation.</i>
 </div>
 

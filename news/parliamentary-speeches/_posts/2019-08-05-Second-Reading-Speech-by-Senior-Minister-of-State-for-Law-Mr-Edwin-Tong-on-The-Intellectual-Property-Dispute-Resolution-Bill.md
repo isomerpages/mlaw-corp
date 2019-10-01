@@ -49,7 +49,7 @@ Mr. Speaker,
  </ol>
 
 {:start="10"}
-10. In addi10ion, this Bill strengthens Singapore’s position as a choice venue for the arbitration of international IP disputes.
+10. In addition, this Bill strengthens Singapore’s position as a choice venue for the arbitration of international IP disputes.
 
 <ol start="11">
 <li>Let me now outline to this House the key features of this Bill:
@@ -193,6 +193,10 @@ Mr. Speaker,
   
 </ol>
 
+
+   **Strengthening Singapore’s Position as a Venue for IP Arbitration** 
+    
+    
 {:start="30"}
 30. Sir, I now move on to the third group of amendments, which concern arbitration of IP disputes.
 

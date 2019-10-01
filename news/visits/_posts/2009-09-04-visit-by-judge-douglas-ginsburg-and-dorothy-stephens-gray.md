@@ -17,7 +17,7 @@ Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
 4 Sep 2009 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/visit-by-judge-ginsburg.jpg/">
+  <img src="/images/visit-by-judge-ginsburg.jpg/" alt="jd visit" title="jd visit">
   <i>Judge Douglas Ginsburg, Dorothy Stephens Gray and Minister Shanmugam</i>
 </div>
 

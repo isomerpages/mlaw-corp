@@ -8,7 +8,12 @@ collection_name: news
 
 11 Jul 2016 Posted in [Press releases](/news/press-releases)
 
-<video class="video-centered" id="video1" src="http://evvomedia.bc.cdn.bitgravity.com/minlaw/admin/default_562626680_640x360_700k.mp4" height="360" width="640" poster="http://bitcast-a.v1.hkg1.bitgravity.com/evvomedia/minlaw/admin/default_562626680_640x360_700k.jpg" title="MinLaw_AdminJusticeProtectionBill_Jason_FINAL08072016" controls="controls"></video>
+
+<div class="bp-youtube">
+<iframe title="video on bill on protection of the administration of justice" width="560" height="315" src="https://www.youtube.com/embed/MRn9NCorb6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+</div>
+
+
 
 
 1.    The Administration of Justice (Protection) Bill was introduced in Parliament today for first reading by the Minister for Law, Mr K Shanmugam.
@@ -68,7 +73,7 @@ The Bill sets out a framework of punishments that can be meted out by the Courts
 
 
 <table class="table-h">
-<tr>
+<tr style="display: none">
   <th>Language</th>
   <th>Translation</th>
 </tr>  

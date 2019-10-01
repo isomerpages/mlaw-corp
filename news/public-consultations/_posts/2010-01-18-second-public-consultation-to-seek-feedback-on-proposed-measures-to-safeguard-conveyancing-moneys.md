@@ -30,7 +30,7 @@ Second public consultation to seek feedback on proposed measures to safeguard co
 <li> For moneys traditionally held by a lawyer on behalf of both parties, such as the option deposit, an alternative would be for clients to place these with the Singapore Academy of Law.</li>
 </ol>
 
-{start="5"}
+{:start="5"}
 5. The key distinctions between the service provided by Approved Banks and SAL are:
 
 <ol style="list-style-type: lower-roman">
@@ -60,7 +60,7 @@ Some consequential changes will also need to be made to the Legal Profession (So
 9. The Ministry of Law invites interested parties to provide their feedback on the proposed measures to safeguard conveyancing moneys as explained in the Second Public Consultation Paper as well as the legislative framework as provided in the draft legislation.
 
 {:start="10"}
-10. The consultation period is from 18 January to 12 February 2010. The public can view the Second Public Consultation Paper and draft legislation at [www.minlaw.gov.sg](www.minlaw.gov.sg) and at [REACH](https://www.reach.gov.sg/){:target="_blank"}.  The feedback may be sent in electronic or hard copy form to:
+10. The consultation period is from 18 January to 12 February 2010. The public can view the Second Public Consultation Paper and draft legislation at [www.mlaw.gov.sg](https://www.mlaw.gov.sg) and at [REACH](https://www.reach.gov.sg/){:target="_blank"}.  The feedback may be sent in electronic or hard copy form to:
 
 <p class="address-centered">
   Legal Policy Division<br>
@@ -74,10 +74,10 @@ Some consequential changes will also need to be made to the Legal Profession (So
 
 <b><u>Attachments</u></b>
 
-A: [Press release](/files/linkclickbadf.pdf/)(30.2KB)
-B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)(180KB)
-C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)(618KB)
-D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)(62.9KB)
+A: [Press release](/files/linkclickbadf.pdf/)(30.2KB)<br>
+B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)(180KB)<br>
+C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)(618KB)<br>
+D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)(62.9KB)<br>
 
 ***Note**: Please follow this link for the  [response to feedback from second public consultation](/files/linkclickde7f.pdf/)(46.8KB)*
 

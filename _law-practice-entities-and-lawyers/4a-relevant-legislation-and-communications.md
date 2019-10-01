@@ -16,7 +16,11 @@ Relevant Legislation and Communications
 ---
 
 <table>
-  <tr>
+  <tr style="display: none">
+    <th>Resources</th>
+    <th>Links</th>
+      
+  </tr> 
     <td><b>Legislation</b></td>
     <td>
       <ul>

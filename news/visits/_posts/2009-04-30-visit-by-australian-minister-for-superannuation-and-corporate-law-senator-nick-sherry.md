@@ -17,7 +17,7 @@ Visit by Australian Minister for Superannuation and Corporate Law Senator Nick S
 30 Apr 2009 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/visit-by-australian-minister.jpg/">
+  <img src="/images/visit-by-australian-minister.jpg/" alt="am visit" title="am visit">
   <i>(L-R): Mr Doug Chester, Australian High Commissioner, Senator Nick Sherry, Australian Minister for Superannuation and Corporate Law and Mr K Shanmugam, Minister for Law</i>
 </div>
 

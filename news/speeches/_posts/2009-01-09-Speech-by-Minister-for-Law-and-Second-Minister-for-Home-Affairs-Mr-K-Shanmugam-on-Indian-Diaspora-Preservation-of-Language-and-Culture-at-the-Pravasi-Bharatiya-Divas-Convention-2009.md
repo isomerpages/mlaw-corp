@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speech by Minister for Law and Second Minister for Home Affairs, Mr K Shanmugam on &quot;Indian Diaspora: Preservation of Language and Culture&quot;, at the Pravasi Bharatiya Divas Convention 2009"
+title: "Speech by Minister for Law and Second Minister for Home Affairs, Mr K Shanmugam on “Indian Diaspora: Preservation of Language and Culture”, at the Pravasi Bharatiya Divas Convention 2009"
 permalink: /news/speeches/speech-by-minister-for-law-and-second-minister-for-home-affairs-mr-k-shanmugam-on-indian-diaspora
 breadcrumb: Speeches
 collection_name: news

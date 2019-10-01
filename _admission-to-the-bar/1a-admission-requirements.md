@@ -4,7 +4,7 @@ title: Admission Requirements
 permalink: /admission-to-the-bar/admission-requirements/
 breadcrumb: Admission Requirements
 collection_name: admission-to-the-bar
-second_nav_title: Admission
+second_nav_title: Admission to the Bar
 ---
 
 **Admission Requirements**

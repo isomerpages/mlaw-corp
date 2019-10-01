@@ -32,7 +32,7 @@ Public Consultation on the Insolvency Law Review Committee's Report
 **Public Consultation**
 
 {:start="4"}
-4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at [https://www.mlaw.gov.sg](mlaw.gov.sg) and [https://www.reach.gov.sg](https://www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
+4.  MinLaw is inviting interested parties to provide their views and feedback on the Committee’s report.  The consultation period is from 7 October 2013 to 2 December 2013.  The public can also view the consultation papers at [https://www.mlaw.gov.sg](https://www.mlaw.gov.sg) and [https://www.reach.gov.sg](https://www.reach.gov.sg). The feedback may be submitted in electronic form or hard copy form to:
 
 <p class="address-centered">
     Community Legal Services Division, Ministry of Law<br>

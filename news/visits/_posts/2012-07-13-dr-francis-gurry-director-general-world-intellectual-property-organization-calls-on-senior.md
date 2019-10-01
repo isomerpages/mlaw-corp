@@ -17,7 +17,7 @@ Dr Francis Gurry, Director-General, World Intellectual Property Organization, ca
 13 Jul 2012 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/Francis_Gurry_Sim_Ann.jpg/">
+  <img src="/images/Francis_Gurry_Sim_Ann.jpg/" alt="article" title="article">
   <i>WIPO Director-General, Dr Francis Gurry (3rd from left), with Ms Sim Ann (4th from left)
 as well as WIPO and Ministry of Law officials</i>
 </div>
