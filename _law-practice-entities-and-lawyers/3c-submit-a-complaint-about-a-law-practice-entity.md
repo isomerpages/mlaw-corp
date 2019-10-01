@@ -15,6 +15,10 @@ Report a breach by a Law Practice Entity
 ---
 
 <table>
+  <tr style="display: none">
+    <th>Question</th>
+    <th>Description</th>
+  </tr>  
   <tr>
     <td><b>Who can make a complaint?</b></td>
     <td>Anyone can make a complaint about a law practice entity, including a current or former employee, a current or former
