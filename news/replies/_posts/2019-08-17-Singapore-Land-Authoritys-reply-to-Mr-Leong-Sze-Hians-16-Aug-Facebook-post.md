@@ -24,7 +24,7 @@ You must know that your post contains deliberate untruths, and half truths:
 2. A picture of the fence with concrete footing is enclosed. It is not a whole wall as you have suggested.
 
 
-![fence 2](/images/news/replies/1566022984717.jpg)
+
 <img src="/images/news/replies/1566022984717.jpg" alt="fence 2" style="width:580px;height:268px;"> 
 
 
