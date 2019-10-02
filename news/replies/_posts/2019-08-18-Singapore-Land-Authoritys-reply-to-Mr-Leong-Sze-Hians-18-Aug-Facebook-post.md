@@ -17,7 +17,8 @@ You are adding to the untruths that you have been putting out.
 
 We sent you a letter on 5 Feb 2018.  It enclosed a diagram (below). The diagram will show that you are telling untruths:  
 
-![18 aug reply to mr leong post](/images/news/replies/1566140561857.jpg) 
+
+<img src="/images/news/replies/1566140561857.jpg" alt="18 aug reply to mr leong post" style="width:610px;height:327px;"> 
 
 
 1. The total area of encroachment is clearly stated as 3.7 sq m.  You could not have thought that the encroachment was 1.3 cm/4.9 cm.
