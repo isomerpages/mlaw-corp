@@ -21,7 +21,7 @@ permalink: /news/replies/Minister-Shanmugam-response-to-MLC-Infographic-satire-a
  
 7. But that is, unfortunately, not an accurate representation of POFMA.
 
-# For the relevant extracts of Hansard, click [here (67.1KB)](/files/news/replies/2019/09/page1.pdf).
+For the relevant extracts of Hansard, click [here (67.1KB)](/files/news/replies/2019/09/page1.pdf).
 
 **MINISTRY OF LAW**  
 **13 SEPTEMBER 2019** 
