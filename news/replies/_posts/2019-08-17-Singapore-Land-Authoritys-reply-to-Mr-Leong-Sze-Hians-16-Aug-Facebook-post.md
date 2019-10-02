@@ -13,7 +13,8 @@ Dear Mr Leong,
 You had put up a post on 16 Aug, saying that your boundary has encroached on State land, by 1.3 cm to 4.9 cm, and that you were being asked to deal with it. The suggestion you make is that the request by SLA was unreasonable.
 
 
-![FB Post by mr leong](/images/news/replies/1566023578426.jpg)
+
+<img src="/images/news/replies/1566023578426.jpg" alt="FB Post by mr leong" style="width:531px;height:743px;"> 
 
 You must know that your post contains deliberate untruths, and half truths:
 
@@ -24,6 +25,7 @@ You must know that your post contains deliberate untruths, and half truths:
 
 
 ![fence 2](/images/news/replies/1566022984717.jpg)
+<img src="/images/news/replies/1566022984717.jpg" alt="fence 2" style="width:580px;height:268px;"> 
 
 
 {:start="3"}
