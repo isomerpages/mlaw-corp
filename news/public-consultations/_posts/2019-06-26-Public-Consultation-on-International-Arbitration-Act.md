@@ -21,7 +21,7 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
  
 2. Singapore has over the years become a popular seat of international commercial arbitration. According to the White & Case and Queen Mary University of London’s International Arbitration Survey in 2018, Singapore and the Singapore International Arbitration Centre were ranked as the third most preferred arbitration seat and arbitral institution in the world respectively, and first in Asia. Singapore is committed to continue to serve the needs of parties with commercial disputes and meet the evolving needs of parties and the profession.
  
-3. Arising from feedback from the profession and the Ministry’s periodic review of our legislative framework for international arbitration, the Ministry is considering various amendments and proposals to enhance our international arbitration regime. The Ministry invites members of the public to provide feedback on the draft IAA Bill (attached at Appendix A to this public consultation paper) as well as other proposals set out in this paper. **With regard to the draft Bill, please note that the draft provisions have been framed with a view to giving form to the proposals currently contemplated and will be subject to further changes following the consultation process.**
+3. Arising from feedback from the profession and the Ministry’s periodic review of our legislative framework for international arbitration, the Ministry is considering various amendments and proposals to enhance our international arbitration regime. The Ministry invites members of the public to provide feedback on the draft IAA Bill (attached at **Appendix A to this public consultation paper) as well as other proposals set out in this paper. With regard to the draft Bill, please note that the draft provisions have been framed with a view to giving form to the proposals currently contemplated and will be subject to further changes following the consultation process.**
 
 
 <ol start="2" style="list-style-type: upper-alpha; font-weight:bold">
@@ -61,7 +61,7 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 9. Given the centrality of confidentiality to arbitration, Clause 4 of the Bill inserts a new section 12(1)(j) to provide explicit recognition of the powers of the Court and the arbitral tribunal to enforce duties of confidentiality.
  
 {:start="10"} 
-10. Proposal for consultation: The amendment will explicitly recognise that the arbitral tribunal and the High Court can enforce obligations of confidentiality, whether these obligations exist under the law, or have been expressly agreed by parties.
+10. <u>Proposal for consultation</u>: The amendment will explicitly recognise that the arbitral tribunal and the High Court can enforce obligations of confidentiality, whether these obligations exist under the law, or have been expressly agreed by parties.
 
 
 <ol start="4" style="font-style: italic">
@@ -147,12 +147,12 @@ An Act to amend the International Arbitration Act (Chapter 143A of the 2002 Revi
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:  
 
 
-Short title and commencement  
+Short title and commencement
 <ol>
 <li>This Act is the and comes into operation on a date that the Minister appoints by notification in the Gazette.</li>
 </ol>
 
-Amendment of section 9A  
+Amendment of section 9A 
 <ol start="2">
 <li>Section 9A of the principal Act is amended —
 <ol style="list-style-type: lower-alpha">
@@ -194,9 +194,10 @@ New section 9B
 </li>
  <li> Despite subsection (1)(c), the third arbitrator must be appointed by the appointing authority upon the request of a party, where the parties fail to agree on the appointment of the third arbitrator within 30 days of the receipt of the first request by any party to do so.”.</li>
  </ol>
+  </li>
 </ol>
 
-Amendment of section 10  
+Amendment of section 10
 <ol start="4">
  <li> Section 10 of the principal Act is amended by deleting subsection (2) and substituting the following subsection:
 “(2)  An arbitral tribunal may rule on a plea that it has no jurisdiction —
@@ -207,8 +208,8 @@ Amendment of section 10
  </ol>
  
  </li>
-</ol>
-Amendment of section 12  
+</ol>  
+Amendment of section 12
 <ol start="5">
 <li>Section 12 of the principal Act is amended —
 <ol style="list-style-type: lower-alpha">
@@ -226,7 +227,7 @@ Amendment of section 12
 </li>
 </ol>
 
-New sections 24A to 24D  
+New sections 24A to 24D
 <ol start="6">
 <li>The principal Act is amended by inserting, immediately after section 24, the following sections: &ldquo;Appeal against award <br /> <strong>24A. &mdash;</strong>
 <ol>
@@ -272,6 +273,7 @@ New sections 24A to 24D
 </ol>
 </li>
 </ol>
+
 Supplementary provisions to appeal under section 24A  
 <strong>24B.—</strong>  
 <ol>
@@ -301,8 +303,8 @@ Supplementary provisions to appeal under section 24A
 <li>The High Court may grant leave to appeal subject to conditions to the same or similar effect as an order under subsection (6) or (8), and this does not affect the general discretion of the High Court to grant leave subject to conditions.</li>
 </ol>
 
-Effect of order of High Court upon appeal against award  
-**24C.** — 
+Effect of order of High Court upon appeal against award    
+<strong>24C.</strong> — 
 <ol>
   <li> Where the High Court makes an order under section 24A(7) with respect to an award, subsections (2), (3) and (4) apply.</li>
   <li>Where the award is varied by the High Court, the variation has effect as part of the arbitral tribunal’s award.</li>
@@ -311,6 +313,7 @@ Effect of order of High Court upon appeal against award
 </ol>
 
 Application for leave of High Court, etc.  
+<br>
 <strong>24D.</strong>--
 <ol>
   <li> An application for the leave of the High Court to appeal under section 24A(2)(b) or (6) must be made in such manner as may be prescribed in the Rules of Court.</li>
