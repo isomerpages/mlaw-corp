@@ -16,7 +16,7 @@ Our legal system operates on the principle of open justice. This means that accu
 This principle applies whether the accused is a doctor, or any other person. Contrary to what Dr Yik has said, there is no bias against doctors, whether apparent or real.
 
 
-**Andrea Goh (Ms)**  
+Andrea Goh (Ms)  
 **Director, Corporate Communications Division, Ministry of Law** 
 
 <p class="right-side-updated">Last updated on 11 Sep 2019 </p>
