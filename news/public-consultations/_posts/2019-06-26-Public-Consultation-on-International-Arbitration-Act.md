@@ -273,7 +273,62 @@ New sections 24A to 24D
 </li>
 </ol>
 Supplementary provisions to appeal under section 24A  
-24B.—  
+<strong>24B.—</strong>  
+<ol>
+<li>This section applies to an application or appeal under section 24A.</li>
+<li>An application or appeal may not be brought if the applicant or appellant has not first exhausted &mdash;
+<ol style="list-style-type: lower-alpha;">
+<li>any available arbitral process of appeal or review; and</li>
+<li>any available recourse under Article 33 of the Model Law (correction or interpretation of award and additional award).</li>
+</ol>
+</li>
+<li>An application or appeal must be brought within 28 days of the date of the award or, if there has been any arbitral process of appeal or review, of the date when the applicant or appellant was notified of the result of that process.</li>
+<li>If on an application or appeal it appears to the High Court that the award &mdash;
+<ol style="list-style-type: lower-alpha;">
+<li>does not contain the arbitral tribunal&rsquo;s reasons; or</li>
+<li>does not set out the arbitral tribunal&rsquo;s reasons in sufficient detail to enable the High Court to properly consider the application or appeal, the High Court may order the arbitral tribunal to state the reasons for its award in sufficient detail for that purpose.</li>
+</ol>
+</li>
+<li>Where the High Court makes an order under subsection (4), it may make such further order as it thinks fit with respect to any additional costs of the arbitration resulting from its order.</li>
+<li>The High Court may order the applicant or appellant to provide security for the costs of the application or appeal, and may direct that the application or appeal be dismissed if the order is not complied with.</li>
+<li>The power to order security for costs must not be exercised by reason only that the applicant or appellant is &mdash;
+<ol style="list-style-type: lower-alpha;">
+<li>an individual ordinarily resident outside Singapore; or</li>
+<li>a corporation or association incorporated or formed under the law of a country outside Singapore or whose central management and control is exercised outside Singapore.</li>
+</ol>
+</li>
+<li>The High Court may order that any money payable under the award must be brought into the High Court or otherwise secured pending the determination of the application or appeal, and may direct that the application or appeal be dismissed if the order is not complied with.</li>
+<li>The High Court may grant leave to appeal subject to conditions to the same or similar effect as an order under subsection (6) or (8), and this does not affect the general discretion of the High Court to grant leave subject to conditions.</li>
+</ol>
+
+Effect of order of High Court upon appeal against award  
+**24C.** — 
+<ol>
+  <li> Where the High Court makes an order under section 24A(7) with respect to an award, subsections (2), (3) and (4) apply.</li>
+  <li>Where the award is varied by the High Court, the variation has effect as part of the arbitral tribunal’s award.</li>
+<li>Where the award is remitted to the arbitral tribunal, in whole or in part, for reconsideration, the tribunal must make a fresh award in respect of the matters remitted within 3 months of the date of the order for remission or such longer or shorter period as the High Court may direct.</li>
+<li>Where the award is set aside in whole or in part, the High Court may also order that any provision in the arbitration agreement stating that an award is a condition precedent to the bringing of legal proceedings in respect of a matter to which the arbitration agreement applies is of no effect as regards the subject‑matter of the award or the relevant part of the award, as the case may be.</li>
+</ol>
+
+Application for leave of High Court, etc.  
+<strong>24D.</strong>--
+<ol>
+  <li> An application for the leave of the High Court to appeal under section 24A(2)(b) or (6) must be made in such manner as may be prescribed in the Rules of Court.</li>
+  <li>The High Court must determine an application mentioned in subsection (1) without a hearing unless it appears to the High Court that a hearing is required.</li>
+<li>For the purposes of this section —
+ <ol style="list-style-type: lower-alpha">
+   <li>  an application mentioned in subsection (1) may be heard and determined by a Judge in Chambers; and</li>
+  <li> the Court of Appeal has the like powers and jurisdiction on the hearing of an application under section 24A(2)(b) as the High Court or any Judge in Chambers has on the hearing of such an application.”</li>
+  </ol> 
+ </li>
+</ol>
+
+<p class="right-side-updated">Last updated on 26 Jun 2019 </p>
+
+
+
+
+
 
 
 
