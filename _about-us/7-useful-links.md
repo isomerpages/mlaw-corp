@@ -80,7 +80,7 @@ Useful Links
 
 * [State Courts of Singapore](https://www.statecourts.gov.sg/){:target="_blank"}
 
-* [Strata Titles Board](https://www.mnd.gov.sg/stb)
+* [Strata Titles Board](https://www.stratatb.gov.sg/)
 
 * [Supreme Court of Singapore](https://www.supremecourt.gov.sg/)
 
