@@ -7,7 +7,7 @@ permalink: /news/press-releases/Press-Release-50-students-from-13-schools-to-be-
 
 18 Jun 2019 Posted in [Press releases](/news/press-releases)
 
- 1. Some 50 students from 13 schools will be appointed Singapore Convention Youth Ambassadors to high-level international delegations visiting Singapore in August to witness the signing of the Singapore Convention on Mediation. This was announced today by the Singapore Ministry of Law (MinLaw) at the launch of the Singapore Convention Youth Involvement Programme. The list of 13 participating schools can be found at Annex A.
+ 1. Some 50 students from 13 schools will be appointed Singapore Convention Youth Ambassadors to high-level international delegations visiting Singapore in August to witness the signing of the Singapore Convention on Mediation. This was announced today by the Singapore Ministry of Law (MinLaw) at the launch of the Singapore Convention Youth Involvement Programme. The list of 13 participating schools can be found at <u>Annex A</u>.
  
  2. Under this programme, these 17- and 18-year old students will host guided tours to key places of interest and share with international delegates Singapore’s history, heritage and approach to nation-building. Seven agencies will come together to conduct a structured five-day training programme to prepare the students for their appointment. The agencies are MinLaw, the Singapore Bicentennial Office (SBO), Maxwell Chambers, the Urban Redevelopment Authority of Singapore (URA), the National Heritage Board (NHB), the National Parks Board (NParks) and Gardens by the Bay.
  
