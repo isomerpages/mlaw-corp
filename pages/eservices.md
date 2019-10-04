@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: E-Services 
-permalink: /eservices/
+permalink: /e-services/
 breadcrumb: E-Services 
 ---
 
