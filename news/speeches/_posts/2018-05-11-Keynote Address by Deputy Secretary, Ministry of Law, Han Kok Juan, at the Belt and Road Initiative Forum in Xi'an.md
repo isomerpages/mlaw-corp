@@ -64,6 +64,6 @@ Good afternoon.
 {:start="9"}
 9. Finally, I would like to once again express my gratitude for the warm hospitality from the CCPIT and the People’s Government of Shaanxi Province. I am very happy to be with everyone in ancient Xi’an, and I wish everyone a fruitful and productive forum. Thank you.
 
-<p class="address-centered">Last updated on 16 May 2018</p>
+<p class="right-side-updated">Last updated on 16 May 2018</p>
 
  

@@ -88,7 +88,7 @@ The Bill also contains miscellaneous amendments to fine-tune the process for dis
 **Feedback sought**
 
 {:start="11"}
-11. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.minlaw.gov.sg](http://www.minlaw.gov.sg/) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx.](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
+11. The Ministry invites interested parties to provide their feedback on the draft Bill. The consultation period is from 6 to 22 December 2011. The public can view the consultation paper and draft Bill at [www.mlaw.gov.sg](https://www.mlaw.gov.sg/) and [www.reach.gov.sg/YourSay/EConsultationPaper.aspx.](http://www.reach.gov.sg/YourSay/EConsultationPaper.aspx) The feedback may be sent in electronic or hard copy form to:
 
 
 <p class="address-centered">Legal Industry Division</p>  

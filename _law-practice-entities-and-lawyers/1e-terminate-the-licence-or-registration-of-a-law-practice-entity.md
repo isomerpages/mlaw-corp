@@ -100,7 +100,7 @@ CorpPass will be required for all local entities with a Unique Entity Number (UE
   <tr>
     <td>
       <p style="text-align: justify"><b>STEP 4: Notify relevant stakeholders</b></p>
-    </td>
+    </td><td></td>
   </tr>
   <tr>
     <td>

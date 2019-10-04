@@ -44,7 +44,7 @@ This is the first review of the Registered Designs Act, which was first enacted 
 **Invitation for feedback**
 
 {:start="4"}
-4. Interested parties may view the public consultation paper online at (https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html) or (http://www.ipos.gov.sg/AboutIP/IPLegislation/PublicConsultations.aspx)  and submit feedback in electronic or hard copy form via either of the following: 
+4. Interested parties may view the public consultation paper online at (https://www.mlaw.gov.sg/news/public-consultations/) or (http://www.ipos.gov.sg/AboutIP/IPLegislation/PublicConsultations.aspx)  and submit feedback in electronic or hard copy form via either of the following: 
 
 
 <p class="address-centered">Intellectual Property Office of Singapore (IPOS)</p>
