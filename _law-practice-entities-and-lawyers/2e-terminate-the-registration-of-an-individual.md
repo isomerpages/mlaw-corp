@@ -108,7 +108,7 @@ Terminate the Registration of an Individual
     </td>
     <td>
       <ul>
-        <li> Nil.</li>
+        <li>Nil.</li>
       </ul>
     </td>
   </tr>
