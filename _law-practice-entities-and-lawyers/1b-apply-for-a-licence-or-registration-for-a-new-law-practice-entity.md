@@ -42,7 +42,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
         <li>If you are not eligible for SingPass, you can approach:
           <ul>
              <li style="text-align: justify"><a href="mlaw.gov.sg/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
-             <li style="text-align: justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://www.saicsa.org.sg/english/contact/prac.htm" target="_blank">a corporate services provider</a></li>
+             <li style="text-align: justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/index.php/practitioners-directory/" target="_blank">a corporate services provider</a></li>
           </ul>
         </li>
       </ul>
