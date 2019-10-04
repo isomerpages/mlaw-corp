@@ -78,7 +78,7 @@ For overseas callers, please use +65 62255 529
 
 Enquiry Line Operating Hours
 
-Monday to Friday: 8:30am to 5:30pm<br>
+Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
 <p class="right-side-updated">Last updated on 11 Jul 2019</p> 
