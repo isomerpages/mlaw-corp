@@ -62,6 +62,5 @@ collections:
     output: true
   why-copyright-matters:
     output: true
-  lorem-collection:
-    output: true
+
 resources_name: news
