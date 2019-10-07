@@ -27,7 +27,7 @@ permalink: /news/press-releases/Legislative-Changes-to-Enhance-Court-Processes
 <ol start="5">
 <li>The Supreme Court will continue to consist of the Court of Appeal, which will remain the apex court, and the High Court. The High Court will be restructured into the following two Divisions: -
 
-<ol style="list-style-type: lower-alpha">
+<ol style="list-style-type: lower-roman">
 <li>the General Division of the High Court (“General Division”); and </li>
 <li>the new Appellate Division. </li>
 </ol>
