@@ -115,7 +115,7 @@ permalink: /news/press-releases/Legislative-Changes-to-Enhance-Court-Processes
 {:start="19"} 
 19. Subject to finalisation, the filing fees and hearing fees (if any) for appeals from the General Division to the Appellate Division are likely to be similar to those for appeals from the General Division to the Court of Appeal. 
 
-<ol start="6" style="list-style-type: upper-alpha">
+<ol start="6" style="list-style-type: upper-alpha; font-weight:bold">
 <li>Other proposed amendments to enhance efficiency and flexibility of court processes </li>
 </ol>
 
