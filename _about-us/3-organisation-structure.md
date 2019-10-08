@@ -16,5 +16,5 @@ Click image below to enlarge
   </a>
 </div>
 
-<p class="right-side-updated">Last updated on 06 May 2019</p>
+<p class="right-side-updated">Last updated on 08 Oct 2019</p>
 
