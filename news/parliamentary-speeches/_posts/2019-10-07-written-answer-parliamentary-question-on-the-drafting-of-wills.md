@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the drafting of wills
+title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Drafting of Wills
 date:   2019-10-07
 permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-on-the-drafting-of-wills
 ---
 
 07 Oct 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-** Ms Cheryl Chan Wei Ling (Member of Parliament for Fengshan SMC)** 
+Ms Cheryl Chan Wei Ling (Member of Parliament for Fengshan SMC) 
  
 **<u>Question</u>**  
 To ask the Minister for Law (a) whether the Ministry has statistics regarding organisations or non-legally trained individuals who are advising clients on the drafting of wills; and (b) whether the Ministry intends to restrict, supervise or regulate non-lawyers and organisations that are not legally trained from dealing with the business of will drafting.
