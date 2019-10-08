@@ -46,9 +46,9 @@ Our Management
   Ministry of Law<br><br>
 
 <div class="img-gallery">
-    <img src="/images/1515047430356.jpg" title="Mr Han Kok Juan" alt="Mr Han Kok Juan">
+    <img src="/images/Mr%20Calvin%20Phua.JPG" title="Mr Calvin Phua" alt="Mr Calvin Phua">
 </div>
-  <b>Mr Han Kok Juan</b><br>
+  <b>Mr Calvin Phua</b><br>
   Deputy Secretary<br>
   Ministry of Law<br>
 
