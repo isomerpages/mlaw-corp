@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Written answer by Minister for Law K Shanmugam on Protection Orders
-date:   2010-10-07
+date:   2019-10-07
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-on-protection-orders
 ---
 
