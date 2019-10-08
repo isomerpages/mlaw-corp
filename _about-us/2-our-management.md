@@ -52,4 +52,4 @@ Our Management
   Deputy Secretary<br>
   Ministry of Law<br>
 
-<p class="right-side-updated">Last updated on 20 Jul 2018</p>
+<p class="right-side-updated">Last updated on 08 Oct 2019</p>
