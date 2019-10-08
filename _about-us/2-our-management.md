@@ -46,7 +46,7 @@ Our Management
   Ministry of Law<br><br>
 
 <div class="img-gallery">
-    <img src="/images/Mr%20Calvin%20Phua.JPG" title="Mr Calvin Phua" alt="Mr Calvin Phua">
+    <img src="/images/Mr_Calvin_Phua.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
 </div>
   <b>Mr Calvin Phua</b><br>
   Deputy Secretary<br>
