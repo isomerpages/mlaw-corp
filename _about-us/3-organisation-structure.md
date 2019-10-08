@@ -11,8 +11,8 @@ Organisation Structure
 
 Click image below to enlarge
 <div class="image">
-  <a href="/files/MinLaw_Org_Structure_May_19.pdf">
-    <br><img src="/images/1557104237572.png" title="Organisation Structure" alt="Organisation Structure">
+  <a href="/files/Minlaw_Org_Chart%20011019.pdf">
+    <br><img src="/images/Minlaw_Org_Chart%20011019.png" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
