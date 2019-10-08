@@ -24,4 +24,3 @@ Note:
 <sup>1</sup> Section 33(10)(a) of the Legal Profession Act carves out wills or other testamentary documents from the types of documents and instruments which only a practising advocate and solicitor may draw or prepare.
 
 <p class="right-side-updated">Last updated on 07 Oct 2019</p> 
-
