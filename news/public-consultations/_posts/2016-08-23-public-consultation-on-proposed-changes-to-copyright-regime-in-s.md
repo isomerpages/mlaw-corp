@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
-permalink: /news/public-consultations/proposal-to-lower-the-age-of-contractual-capacity-from-21-years-to-18-years-and-the-civil-law/
-breadcrumb: Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
+title:  Public Consultation on Proposed Changes to Copyright Regime in Singapore
+permalink: /news/public-consultations/public-consultation-on-proposed-changes-to-copyright-regime-in-s
 collection_name: news
 ---
 
