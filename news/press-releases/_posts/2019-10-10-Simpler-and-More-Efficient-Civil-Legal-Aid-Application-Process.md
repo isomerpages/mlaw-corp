@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Simpler and More Efficient Civil Legal Aid Application Process with Greater Flexibility to Grant Aid
-date:   2019-10-10
+date:   2019-10-09
 permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Application-Process
 ---
 
-10 Oct 2019 Posted in [Press releases](/news/press-releases)
+9 Oct 2019 Posted in [Press releases](/news/press-releases)
 
 1. From 16 October 2019, the Ministry of Law will implement new means test procedures for civil legal aid. The changes will simplify the application process and reduce the amount of paperwork for applicants. There will also be greater flexibility to grant aid to deserving applicants. These changes operationalise the amendments to the Legal Aid and Advice Act in 2018, which seek to improve access to justice. 
 
@@ -71,8 +71,8 @@ permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Appli
 
 
 **MINISTRY OF LAW**  
-**10 OCTOBER 2019**
+**9 OCTOBER 2019**
 
-[Annex (106KB)](/files/news/press-releases/2019/Folio H - Annex - current and revised means criteria(clean).pdf)   
+[Annex (106KB)](/files/news/press-releases/2019/11/Folio H - Annex - current and revised means criteria.pdf)   
 
-<p class="right-side-updated">Last updated on 10 Oct 2019</p>
+<p class="right-side-updated">Last updated on 9 Oct 2019</p>
