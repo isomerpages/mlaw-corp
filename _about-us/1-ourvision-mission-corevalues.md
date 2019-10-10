@@ -14,11 +14,11 @@ collection_name: about-us
 Our Vision, Mission and Core Values
 ---
 
-<div class="image"><img src="/images/about_us.jpg" title="Our Vision, Mission and Core Values" alt="Our Vision, Mission and Core Values">></div>
+<div class="image"><img src="/images/about_us.jpg" title="Our Vision, Mission and Core Values" alt="Our Vision, Mission and Core Values"></div>
 
 **Vision**
 
-Aa Trusted Legal System; A Trusted Singapore.<br><br>
+A Trusted Legal System; A Trusted Singapore.<br><br>
 
 **Mission**
 
