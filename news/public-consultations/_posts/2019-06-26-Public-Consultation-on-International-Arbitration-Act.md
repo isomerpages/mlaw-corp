@@ -29,9 +29,9 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 </ol>
 
 
-<ol style="font-style: italic">
-<li> Introduce a default mode of appointment of arbitrators in multi-party situations</li>
-</ol>
+
+(1) Introduce a default mode of appointment of arbitrators in multi-party situations
+
 
 {:start="4"}
 4. Under the current framework, the mode of appointment of arbitrators is set out in section 9A of the IAA and Article 11 of the UNCITRAL Model Law on International Commercial Arbitration (1985) (“Model Law”). This mode of appointment however, applies only to situations where there are two parties to the arbitration agreement. As it is increasingly common to have multi-party arbitrations, Clause 3 of the draft Bill introduces a new section 9B to clarify the mode of appointment of arbitrators in such cases.
@@ -39,9 +39,8 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 {:start="5"} 
 5. <u>Proposal for consultation</u>: The amendment will provide for the mode of appointment of arbitrators where there are more than two parties to an arbitration agreement. The amendment will clarify that in such situations, the claimants shall jointly nominate an arbitrator and the respondents another. Where the co-claimants (if there is more than one claimant) or co-respondents (if there is more than one respondent) or the parties are unable to agree on a joint nominee, upon request by any party, the appointing authority (viz. the President of the SIAC) shall appoint the respective arbitrator.
  
-<ol start="2" style="font-style: italic">
-<li>Allow parties to, by agreement, request the arbitrator or arbitrators to decide on jurisdiction at the preliminary stage</li>
-</ol>
+
+(2) Allow parties to, by agreement, request the arbitrator or arbitrators to decide on jurisdiction at the preliminary stage
 
 {:start="6"}
 6. Currently, under section 10 of the IAA, the tribunal can decide on jurisdiction either at the stage of the preliminary or final award. To ensure that parties save time and costs, Clause 4 of the Bill contains an amendment to section 10(2) to enable parties to request an early decision on jurisdiction.
@@ -50,9 +49,9 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 7. <u>Proposal for consultation:</u> The amendment will clarify that parties can, by mutual agreement, require the tribunal to decide on jurisdictional issues at the preliminary award stage.
 
 
-<ol start="3" style="font-style: italic">
-<li>Recognize that an arbitral tribunal and the High Court has powers to enforce obligations of confidentiality in an arbitration</li>
-</ol>
+
+(3) Recognize that an arbitral tribunal and the High Court has powers to enforce obligations of confidentiality in an arbitration
+
 
 {:start="8"}
 8. Presently, unless parties otherwise agree, the parties and the arbitral tribunal have a duty of confidentiality under the common law, not to disclose confidential information obtained in the course of the proceedings or use them for any purpose other than the dispute. The rules of many arbitral institutions also provide explicitly for confidentiality, which duty includes confidentiality of the existence of the arbitration.   
@@ -64,9 +63,9 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 10. <u>Proposal for consultation</u>: The amendment will explicitly recognise that the arbitral tribunal and the High Court can enforce obligations of confidentiality, whether these obligations exist under the law, or have been expressly agreed by parties.
 
 
-<ol start="4" style="font-style: italic">
-<li>Allow a party to the arbitral proceedings to appeal to the High Court on a question of law arising out of an award made in the proceedings, provided parties have agreed to opt in to this mechanism.</li>
-</ol>
+
+(4) Allow a party to the arbitral proceedings to appeal to the High Court on a question of law arising out of an award made in the proceedings, provided parties have agreed to opt in to this mechanism.
+
 
 {:start="11"}
 11. Under the current framework, parties may apply to the High Court to set aside an arbitral award on grounds of fraud or corruption in the making of the arbitral award, or a breach of natural justice in connection with the same. There is no basis to apply to the High Court on a question of law arising out of an award made in the proceedings.
@@ -85,9 +84,9 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 {:start="14"} 
 14. In addition to the foregoing proposed amendments, the Ministry has also received third party proposals to consider the following changes. The Ministry seeks views on these proposals.
 
-<ol start="5" style="font-style: italic">
-<li>Proposal to allow parties to agree to waive or limit the annulment grounds under the Model Law and IAA</li>
-</ol>
+
+(5) Proposal to allow parties to agree to waive or limit the annulment grounds under the Model Law and IAA
+
 
 {:start="15"}
 15. Presently, parties may apply to the Court to set aside an arbitral award of the arbitral tribunal under Section 24 of the IAA and Article 34(2) of the Model Law. Generally, such an application would be based on grounds of fraud or corruption, breach of natural justice, incapacity, invalidity of agreement, improper notice, inability to present the case, lack or excess of jurisdiction, improper composition of the tribunal or conduct of procedure.
@@ -96,9 +95,8 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 16. <u>Views sought:</u> In line with the principle of party autonomy and to avoid situations where the courts at the seat and at the place of enforcement reach conflicting decisions on the same grounds, it has been proposed that in addition to the proposal to allow parties to agree to appeal to the Court on questions of law arising from an award, parties should have the option to limit or waive by agreement, the annulment grounds set forth in Section 24(b) of the IAA and Article 34(2)(a), but may not limit or waive by agreement, the annulment grounds in Section 24(a) and Article 34(2)(b). Such an agreement can only be made after the award has been rendered.
 
 
-<ol start="6" style="font-style: italic">
-<li>Proposal to provide that the Court shall have power to order costs in certain arbitral proceedings</li>
-</ol>
+(6) Proposal to provide that the Court shall have power to order costs in certain arbitral proceedings
+
 
 {:start="17"}
 17. The Singapore Academy of Law’s Law Reform Committee has recently concluded a recent study on issues concerning costs in arbitration related court proceedings<sup>[1]</sup>. The committee has pointed out the Singapore court has no power to make an order in respect of the costs of the arbitral proceedings when a party is successful in its application to set aside a tribunal’s award. This is problematic because the tribunal is generally functus officio in such cases and unable to make any order on costs.
