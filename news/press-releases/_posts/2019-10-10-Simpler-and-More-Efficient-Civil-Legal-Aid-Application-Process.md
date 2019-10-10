@@ -14,7 +14,7 @@ permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Appli
 <ol start="2">
 <li>The Legal Aid Bureau (LAB) provides a range of services to Singapore citizens and Permanent Residents of limited means, including representation in court and oral advice on civil matters, and drafting of wills and deeds of separation. To qualify, applicants must:
 
-<ol style="list-style-type:a">
+<ol style="list-style-type: lower-alpha">
 <li>Demonstrate that they cannot afford a lawyer (also known as the means test); and</li>
 <li>Show that they have good reasons to bring or defend the case under the law (also known as the merits test).</li>
 </ol>
@@ -28,7 +28,7 @@ permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Appli
 <ol start="4">
 <li>To simplify and shorten the application process for legal aid, from 16 October 2019, the means criteria will be revised to the following to align with those commonly used in social support schemes:
 
-<ol style="list-style-type:a">
+<ol style="list-style-type: lower-alpha">
 <li>Average Per Capita Gross Monthly Household Income (PCHI). The average of the applicant’s PCHI must be $950 or lower for the last 12 months prior to the application;</li>
 <li>Annual Value of applicant’s place of residence, which must be $13,000 or lower; and</li>
 <li>Applicant’s savings and non-CPF investments, which must be $10,000 or lower.</li>
@@ -48,7 +48,7 @@ permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Appli
 <ol start="7">
 <li>Currently, the Director of Legal Aid may grant aid to those who fail the means test under four specific circumstances defined in the Legal Aid and Advice Act, subject to the applicants also passing the merits test:
 
-<ol style="list-style-type:a">
+<ol style="list-style-type: lower-alpha">
 <li>Applicant living separate and apart from spouse: The Director may disregard the income of the applicant’s spouse;</li>
 <li>Sudden physical or mental disability: The Director may grant the applicant a deduction of $2,000 when computing his disposable income, and up to $30,000 in savings when computing his disposable capital;</li>
 <li>Sudden loss of income: The Director may assess the applicant’s income over a period of 6 months (instead of 12 months); and</li>
