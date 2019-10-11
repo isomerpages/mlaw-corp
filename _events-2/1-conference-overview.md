@@ -21,6 +21,7 @@ The China-Singapore International Commercial Dispute Resolution Conference will 
 The Conference will bring together about 250 government officials, legal and dispute resolution practitioners, in-house counsels and C-suite executives from Singapore and China to discuss these key issues and more.
  
 We would like to cordially invite you to attend the China-Singapore International Commercial Dispute Resolution Conference!
+中国国际贸易促进委员会（CCPIT）和新加坡法律部将于2019年1月24日在中国北京共同组织中新国际商事争议解决会议，以支持``一带一路''的发展 倡导并推动中新在国际商业法律服务方面的合作。
 
 
 For any enquiries, please contact <drsg@mlaw.gov.sg>
