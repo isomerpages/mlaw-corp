@@ -6,7 +6,7 @@ breadcrumb: Speakers
 collection_name: events
 ---
 
-<img src="/images/events/SMS_Edwin_Tong.jpg" alt="SMS edwin tong" height="100px"> 
+<img src="/images/events/SMS_Edwin_Tong.jpg" alt="SMS edwin tong" style="height:100px"> 
 
 **Edwin Tong**    
 **Senior Minister of State for Law and Health**  
