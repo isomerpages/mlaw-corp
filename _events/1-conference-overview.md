@@ -11,7 +11,7 @@ collection_name: events
 **24 January 2019 (Thursday)**  
 **Bejing Kerry Hotel**
 
-
+![image of city](/images/events/1545207796547.jpg)
 
 The China Council for the Promotion of International Trade (CCPIT) and the Singapore Ministry of Law will be co-organising the China-Singapore 
 
