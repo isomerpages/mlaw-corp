@@ -8,12 +8,10 @@ collection_name: news
 
 19 Nov 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-INTRODUCTION
-
 1. Mr Deputy Speaker, on behalf of the Minister for Law, I beg to move, “That the Bill be now read a Second time”.
  
-<ol style="list-style-type: upper-alpha">
- <li>**<u>Introduction</u>**</li>
+<ol style="list-style-type: upper-roman">
+**<li><u>Introduction</u></li>**
 </ol>
 
 {:start="2"}
@@ -28,8 +26,8 @@ INTRODUCTION
 {:start="5"}
 5.	The Government regularly reviews the Act to ensure that the Act remains able to meet the objectives that I have just set out. This Bill arises from our latest review.
 
-<ol start="2" style="list-style-type: upper-alpha">
-<li>**<u>Objectives of the Bill</u>**</li>
+<ol start="2" style="list-style-type: upper-roman">
+**<li><u>Objectives of the Bill</u></li>**
 </ol>
 
 {:start="6"}
@@ -146,8 +144,8 @@ INTRODUCTION
 {:start="29"}
 29.	Clause 17 re-enacts the existing section 9 as a new section 22A, to clarify that the Director has the power to require contributions for legal advice cases. At present, it is envisaged that contributions may have to be paid where legal advice and assistance in preparing certain legal documents is requested. We do not intend to charge a contribution for applicants who have received only oral legal advice, as is the current practice.
 
-<ol start="3" style="list-style-type: upper-alpha">
-<li>**<u>Conclusion</u>**</li>
+<ol start="3" style="list-style-type: upper-roman">
+**<li><u>Conclusion</u></li>**
 </ol>
 
 {:start="30"}
