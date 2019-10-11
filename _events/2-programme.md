@@ -18,7 +18,7 @@ collection_name: events
 </tr>
 <tr>
 <td>0900 - 0945</td>
-<td><strong>Opening Ceremony</strong> <br /> Moderator: Mr Lu Pengqi, Vice Chairman, China Council for the Promotion of International Trade <br /><br /> Speakers:
+<td><strong>Opening Ceremony</strong> <br /> Moderator:<br> Mr Lu Pengqi, Vice Chairman, China Council for the Promotion of International Trade <br /><br /> Speakers:
 <ol>
 <li>Ms Gao Yan, Chairman, China Council for the Promotion of International Trade</li>
 <li>Mr Edwin Tong, Senior Minister of State for Law and Health, Singapore</li>
@@ -36,7 +36,7 @@ collection_name: events
 </tr>
 <tr>
 <td>1050-1150</td>
-<td><strong>Keynote Panel: Future Developments in International Commercial Dispute Resolution</strong> <br /> Moderator: <br /> Mr Wong Taur-Jiun, President, Singapore Corporate Counsel Association <br /> Speakers:
+<td><strong>Keynote Panel: Future Developments in International Commercial Dispute Resolution</strong> <br /> Moderator: <br /> Mr Wong Taur-Jiun, President, Singapore Corporate Counsel Association <br /> <br>Speakers:
 <ol>
 <li>Prof Locknie Hsu, Professor of Law, Singapore Management University</li>
 <li>Prof Huang Jin, President, China University of Political Science and Law; President, Chinese Society of International Law; President, China Society of Private International Law</li>
@@ -49,7 +49,7 @@ collection_name: events
 </tr>
 <tr>
 <td>1330-1450</td>
-<td><strong>Panel 1: Judicial Support for and Developments in International Commercial Litigation</strong> <br /> Moderator: <br /> Prof Liu Jingdong, Member of the International Commercial Expert Committee, China International Commercial Court, Supreme People&rsquo;s Court <br /> Speakers:
+<td><strong>Panel 1: Judicial Support for and Developments in International Commercial Litigation</strong> <br /> Moderator: <br /> Prof Liu Jingdong, Member of the International Commercial Expert Committee, China International Commercial Court, Supreme People&rsquo;s Court <br /> <br> Speakers:
 <ol>
 <li>Judge Gao Xiaoli, Deputy Chief Judge of the Fourth Civil Division, Supreme People&rsquo;s Court and Judge of the China International Commercial Court</li>
 <li>Justice Hoo Sheau Peng, Judge, Supreme Court of Singapore and Singapore International Commercial Court</li>
@@ -60,7 +60,7 @@ Q&amp;A and Panel Interaction</td>
 </tr>
 <tr>
 <td>1450 - 1610</td>
-<td><strong>Panel 2: Developments and Prospects in International Commercial Arbitration</strong> <br /> Moderator: <br /> Mr Christopher Lau S.C., Independent Arbitrator, 3 Verulam Buildings <br /> Speakers:
+<td><strong>Panel 2: Developments and Prospects in International Commercial Arbitration</strong> <br /> Moderator: <br /> Mr Christopher Lau S.C., Independent Arbitrator, 3 Verulam Buildings <br /> <br> Speakers:
 <ol>
 <li>Prof Lawrence Boo, Member, Singapore International Arbitration Centre Court of Arbitration</li>
 <li>Mr Li Hu, Deputy Secretary-General, China International Economic and Trade Arbitration Commission</li>
@@ -75,7 +75,7 @@ Q&amp;A and Panel Interaction</td>
 </tr>
 <tr>
 <td>1630 - 1750</td>
-<td><strong>Panel 3: Future Developments in International Commercial Mediation</strong> <br /> Moderator: <br /> Ms Wu Fengling, Director of the Commercial Legal Counseling and Complaining Center, China Council for the Promotion of International Trade Tianjin Sub-Council <br /> Speakers:
+<td><strong>Panel 3: Future Developments in International Commercial Mediation</strong> <br /> Moderator: <br /> Ms Wu Fengling, Director of the Commercial Legal Counseling and Complaining Center, China Council for the Promotion of International Trade Tianjin Sub-Council <br /> <br>Speakers:
 <ol>
 <li>Ms Cai Chenfeng, Centre Director, CCPIT Mediation Centre</li>
 <li>Mr George Lim S.C., Chairman, Singapore International Mediation Centre</li>
@@ -86,7 +86,7 @@ Q&amp;A and Panel Interaction</td>
 </tr>
 <tr>
 <td>1750 - 1810</td>
-<td><strong>Closing Ceremony</strong> <br /> Moderator: <br /> Mr Gregory Vijayendran S.C., President, Law Society of Singapore <br /> Speakers:
+<td><strong>Closing Ceremony</strong> <br /> Moderator: <br /> Mr Gregory Vijayendran S.C., President, Law Society of Singapore <br /><br> Speakers:
 <ol>
 <li>Ms Gloria Lim, Director, Legal Industry Division, Singapore Ministry of Law</li>
 <li>Dr Yu Jianlong, Secretary-General, China Chamber of International Commerce</li>
