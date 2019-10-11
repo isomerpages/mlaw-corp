@@ -63,6 +63,8 @@ collections:
   why-copyright-matters:
     output: true
   events:
-    output: true 
+    output: true
+  events-2:
+    output: true
 
 resources_name: news
