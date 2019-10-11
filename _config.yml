@@ -62,5 +62,7 @@ collections:
     output: true
   why-copyright-matters:
     output: true
+  events:
+    output: true 
 
 resources_name: news
