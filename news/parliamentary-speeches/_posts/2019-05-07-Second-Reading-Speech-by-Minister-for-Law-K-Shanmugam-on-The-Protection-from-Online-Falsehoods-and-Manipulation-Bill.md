@@ -373,3 +373,100 @@ These developments have been aided by at least two other factors –
 </ul>  
 </li>  
 </ol>  
+
+{:start="60"}
+60.  But we cannot ignore the global risks.  And we are likely to be impacted by the same forces.
+ 
+{:start="61"} 
+61.  Loss of trust in America has been described by the Wall Street Journal as “not merely a problem, but a crisis.” It speaks to a loss of trust in the political system as a whole, and in democracy itself. What has led to this loss of trust? I highlighted four factors amongst several, let me touch on them briefly.
+
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style: italic">
+<li>Rising inequality, inequity</li>  
+</ol>  
+
+
+<ol start="62">
+  <li>First: rising inequality, inequity in many parts of the world.
+  
+  <ol style="list-style-type: lower-alpha">
+  <li>If you take the US, the top 0.1% of US households hold the same amount of wealth as the bottom 90%. In US, the average salary of a CEO is 354 times the average salary of a worker.</li>
+  <li>In the UK, on the eve of Brexit, UK reached its wealthiest position in its modern history. Yet in the previous two years, the overall wealth of the poorest 20% of UK households declined by 9%.</li>
+  <li>It is a global problem. 70% of people live in a country that has seen a rise in inequality in the last 30 years. By 2030 it is estimated that the richest 1% could own two-thirds of the global wealth.</li>
+  </ol>
+  
+  </li>
+</ol>  
+
+{:start="63"}
+63. So that is one part, inequality, it is a very serious issue. And it is an issue in Singapore as well.
+
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; ">
+  <li>Political systems not delivering</li>  
+</ol>  
+
+{:start="64"}
+64. Second, political systems not delivering.
+ 
+{:start="65"} 
+65. In absolute terms, living standards in most countries have risen compared with previous generations. But absolute numbers are just one part of the picture – you have to look at the reality of people’s lives.
+ 
+{:start="66"} 
+66. People’s lives are not improving. Three indicators amongst many – social mobility, quality of public education, jobs.
+ 
+{:start="67"} 
+67. Social mobility in the world’s richest countries has stalled since the 1990s. As of 2018, in the UK it took five generations, about 150 years for a child from the bottom 10% in terms of income to reach the average national income. In France, in Germany, it took six generations, 180 years.
+ 
+{:start="68"} 
+68. In the US, the public education system, the serious deficiencies have been documented. And low investments in public education is one reason for lower social mobility.
+
+<ol start="69">
+<li>So people lose faith in democracy as a whole. People give up, they give up on governments, they don’t think governments can deliver. US, Australia, UK, the Netherlands, New Zealand, Sweden, and other countries: the percentage of people who say that it is “essential” to live in a democracy has fallen significantly, especially amongst the young.
+<ol style="list-style-type: lower-alpha">
+<li>Less than one-third of Americans below the age of 35, say it is absolutely important to live in a democracy.</li>
+<li>From 1995 to 2017, the share of French, Germans, and Italians who favoured military rule went up more than 3 times.</li>
+<li>From 1995 to 2014, the share of Americans who favoured military rule rose 2.5 times, from 1 in 16 to 1 in 6. Imagine that, 1 in 6. In America. </li>
+</ol>
+  
+</li>  
+</ol>
+
+{:start="70"}
+70. So the desire for an upending of the status quo has serious consequences, de-stabilisation, global effects. Democracy itself is under serious threat. It will be very unwise for us to watch and do nothing because it can sweep us over very quickly.
+ 
+{:start="71"} 
+71. I believe we are at one of those crucial turning points in history. it may not quite be Gotterdammerung, but a turn for worse.
+ 
+{:start="72"} 
+72. This weakening of democracy and institutions has been powered by a series of contributing factors. I will mention two. Media and New Media.
+
+
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Media</li>
+</ol>
+
+{:start="73"}
+73. First, the media. Media has, in other countries, played a highly corrosive role, in eroding trust in many ways.
+ 
+{:start="74"} 
+74. In Australia, media played a major role in the ousting former Australian Prime Ministers Kevin Rudd and Malcolm Turnbull. Media attacked Malcolm Turnbull savagely and regularly, because a media owner didn’t agree with Turnbull’s government policies, in particular on climate change. And Media became an active participant in politics and decided outcomes.
+ 
+{:start="75"} 
+7785. As he was being ousted, Turnbull said and I quote: “The reality is that a minority in the party room, supported by others outside the Parliament, have sought to bully, intimidate others into making this change of leadership that they’re seeking”.
+ 
+{:start="76"} 
+76. Kevin Rudd, another former Prime Minister, was also ousted by the media. He wrote a scathing article and said, Rupert Murdoch ran a campaign to destroy his government in the 2013 elections. Murdoch’s papers began attacking Rudd because Rudd planned to build a National Broadband Network that would be good for Australia, but Murdoch’s cable monopoly would face greater competition. So Rudd was ousted.
+ 
+{:start="77"} 
+77. Rudd described Murdoch as “the greatest cancer of the Australian democracy”, and I quote, “A political bully and a thug who for many years has hired bullies as his editors. The message to Australian politicians is clear: either toe the line on what Murdoch wants or he kills you politically.” He described, and I quote, “a cowering, fearful political culture across the country”. Fear of personal repercussions, if you challenged Murdoch’s interests, and said that Murdoch’s print media had “a disproportionate impact on setting the day’s overall agenda”, using a “masterful conflation of ‘opinion’ with ‘news’”. Such media environment erodes trust in Government.
+ 
+{:start="78"} 
+78. If you look at Britain, the baleful influence of Media in British politics is well documented. Look at a Guardian report in 2011. It said Blair “paid court” to Murdoch, securing Murdoch’s patronage, Murdoch gave Blair the power to shut out detractors, used his newspapers to help Blair beat down his rival, Brown. Brown, on the other hand, used the Daily Mail as a platform.
+ 
+{:start="79"} 
+79. Murdoch was opposed to the EU. When asked why, Murdoch reportedly said: “When I go into Downing Street they do what I say; When I go to Brussels they take no notice.” Murdoch has since denied saying it. But the City Editor of The Times, Hilton, has stood by his account of what Murdoch said to him.
+ 
+{:start="80"} 
+80. Kevin Rudd made the point that “Murdoch made Brexit possible because of the position taken by his papers.” Not just Murdoch’s newspapers, others as well.
+
+
+
