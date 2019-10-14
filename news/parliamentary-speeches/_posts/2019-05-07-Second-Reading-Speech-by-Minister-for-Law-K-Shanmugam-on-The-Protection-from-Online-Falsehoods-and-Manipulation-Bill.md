@@ -270,7 +270,106 @@ So all of this, could have been done, under subsidiary legislation.
 45. The SC dealt with a part of the issue, but if you take one step back, what is the fundamental problem in many countries today? It is really a serious loss of trust in Governments, in institutions which are both public and private, including the political system, the media, the professions, businesses, financial institutions and so on.
 
 
+<ol start="46">
+<li>What is the reason for the loss of trust? Several factors, I will mention four.
+<ol style="list-style-type: lower-alpha">
+ 
+<li>First, inequality and inequity</li> 
+<li>Second, political systems not delivering.<br>
+These developments have been aided by at least two other factors –
+</li>
+<li>The way traditional media has been behaving, and</li>
+<li>Effect of New Media.</li>
+</ol>  
+  
+</li>  
+</ol>  
+
+{:start="47"}
+47. This loss of trust, in turn has led to destructive populism, in many countries, with serious consequences for democracies.
+ 
+{:start="48"} 
+48. I will ask Members to bear with me as I explain each because what we are facing, is a very serious situation, across the world, and we will face it. This is not something to be taken lightly. I think the very seriousness of what we are facing, what many other countries in the world are facing, has to be understood. Not just this legislation, but everything that we are going to do, as a Parliament, as a Government, as a society hereafter, has got to be seen in the context of what is happening.
+
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Trust</li>  
+</ol>
+
+{:start="49"}
+49. First, trust.
+
+{:start="50"}
+50. Trust in institutions is important for society’s well-being and prosperity.
+
+<ol start="51">
+<li>These are institutions that deliver public goods for society:
+
+<ol style="list-style-type: lower-alpha">
+<li>The Executive,</li>  
+<li>Parliament,</li>
+<li>The Courts,</li>
+<li>Army,</li>
+<li>Police,</li>
+<li>and other institutions like:
+<ul>
+<li>media,</li>
+<li>healthcare system,</li>
+<li>banks,</li>
+<li>professions,</li>
+<li>universities.</li>
+</ul> 
+  
+</li>
+</ol>  
+  
+</li>  
+</ol>  
+
+{:start="52"}
+52.  Institutions are the building blocks of democratic societies. People depend on institutions to deliver economic and societal benefits.
+ 
+{:start="53"} 
+53.  Institutions play a crucial stabilising role. They serve to manage diversity, hold communities together, keep extremist politics at bay.
 
 
+<ol start="54">
+<li>Institutions, in turn, depend on trust and legitimacy to work, to –
+<ol style="list-style-type: lower-alpha">
+<li>persuade the public to make sacrifices for the common good</li>  
+<li>encourage societies to cooperate and come together, to solve problems,  </li>
+<li>implement policies successfully,</li>
+<li>take action for society’s benefit, and</li>
+<li>steer countries through crises</li>
+</ol> 
+</li>  
+</ol>  
+
+{:start="55"}
+55. When people lose trust in institutions, that creates a vicious cycle. Studies show for example, low trust in the medical system has an impact on public health - management of disease outbreaks. Take law enforcement – perceived legitimacy of police is crucial to effective law enforcement. We can give examples in all sectors.
+ 
+{:start="56"} 
+56. But the basic point is, when trust in institutions is lost, society suffers, everyone suffers.
 
 
+<ol start="57">
+<li>What is the situation in the West, in many countries? In Western democracies, trust in governments is falling, significantly.
+<ol style="list-style-type:lower-alpha">
+<li>Europe: the percentage of Europeans who trust their national governments has fallen from 36% to 29% over the last ten years. There is a decline in nearly all countries in Europe.  </li>
+<li>US: In the United States, a 2018 Pew Research Center study shows public trust at “near historic lows”. In 2019, only 17% trust the Government. The percentage of Americans with “a great deal of confidence” in the Courts? 16%. 45% do not have much confidence. In the Presidency, 19% have great deal of confidence. 54% have not much confidence.  Americans have the least confidence in Congress, their Parliament, 8% have a great deal of confidence, 71% not much confidence.</li>
+</ol> 
+  
+</li>  
+</ol> 
+
+
+{:start="58"}
+58. Trust in other important public institutions is also falling. In the media, medical profession, legal profession, many others. And it is all borne out by data. 
+
+<ol start="59">
+<li>Singapore in comparison so far is OK.  We were first included in the Edelman Trust Barometer in 2011.
+<ul>
+<li>Trust in Government has been good. We have been in the top “Trust” category and the Government is one of the most trusted institutions in Singapore. Trust in Government in 2019 was at 67 points, compared to average of 26 countries at 47.</li>  
+<li>Trust in mainstream media, we are 7th out of 26 countries.</li>
+</ul>  
+</li>  
+</ol>  
