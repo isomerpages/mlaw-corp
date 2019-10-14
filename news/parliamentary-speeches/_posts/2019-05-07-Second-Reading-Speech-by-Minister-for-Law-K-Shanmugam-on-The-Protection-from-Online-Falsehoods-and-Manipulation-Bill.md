@@ -189,3 +189,88 @@ Section 45 of the TA was repealed yesterday, subsumed under the MOA and the Pena
 30. So having said that, Members can then ask: If the power is narrower in these essential respects, why introduce this legislation? Why not just rely on existing legislation?
 
 
+<ol start="31">
+<li>The existing legislation, with broad powers, have been in place for some time. After the SC process, we decided to have new legislation:
+<ol style="list-style-type: lower-alpha">
+<li>with a narrower set of powers than under existing legislation,</li>
+<li>focused on online falsehoods with remedies that are calibrated, and</li> 
+<li>provide for greater judicial oversight over Executive action,</li>
+</ol>
+    
+</li>  
+</ol>
+
+{:start="32"}
+32. The Bill is designed specifically for the Internet rather than relying on existing legislation, and to deal specifically with online falsehoods rather than the broader areas that are covered under the BA.
+
+<ol start="33">
+<li>An alternate approach was entirely possible, which would be to rely on existing legislation, with slight tweaks and add subsidiary legislation. If we relied on existing legislation, what we want to achieve under this Bill can be achieved as follows.
+
+<ol style="list-style-type: lower-alpha">
+<li>First, we can rely on the BA as it is now, for Correction Directions, Takedown Directions, General Correction Directions, and demonetisation to some extent.</li> 
+<li>Section 16 of the BA allows IMDA to direct a licensee to “take such action” with regard to content as it considers necessary to comply with the Act. So that will be the BA, and then you have subsidiary legislation under the BA, which can be passed with Account Restriction Directions, Declaration of Online location, advertising levers.</li>
+<li>Then we move on to the existing Class Licence scheme which can also be amended through subsidiary legislation, to cover provision of content by individual publishers, and clarify that internet intermediaries like Facebook and Google are also covered.
+<br>
+So all of this, could have been done, under subsidiary legislation.
+  
+</li>
+<li>The only thing that would have required a statutory amendment, would have been one point under the Broadcasting Act: to the territoriality provision, to include internet intermediaries based outside of Singapore. But that really is not in dispute. I don’t think anyone in this House will say we should not cover internet intermediaries based outside Singapore.</li>
+</ol>  
+  
+</li>  
+</ol>
+
+{:start="34"}
+34. If we had taken this alternate approach, the powers would have been broad and there would be less judicial oversight. Issues that have been raised - Fact versus Falsehoods, Public Interest, Ministerial action, all, -  there would be no amendments needed for the legislation. We can rely on existing legislation. 
+ 
+{:start="35"} 
+35. Members can therefore see, if we had relied on existing legislation with the appropriate amendments - and if you map that against the issues that have been raised in public: Fact versus Falsehoods, Public Interest, Ministerial action to take down, there would have been no need to amend.
+ 
+{:start="36"} 
+36. If we had taken that approach, the result would have been a blunt instrument, with none of the calibration that the Bill proposes or the extent of judicial oversight, which is also going to be made speedier under the current proposals.
+ 
+{:start="37"} 
+37. The BA was essential at its time, to achieve the objective of that Act. It provides a balanced framework applicable to all forms of broadcast content.
+ 
+{:start="38"} 
+38. The Bill on the other hand was fashioned to deal specifically with falsehoods that can be spread online with incredible speed, in a targeted manner, and to address such falsehoods, with speed, with proportionality, and with the Courts given greater powers.
+ 
+{:start="39"}
+39. That is why the Bill is preferable. That explains the background.
+
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold;">
+<li><u>Need and Rationale for the Bill</u></li>  
+</ol>
+
+
+{:start="40"}
+40. What is the need and rationale for the Bill, what are the substantive reasons for the Bill?
+
+<ol start="41">
+<li>To understand that, we need to look at this larger context. Trends around the world affecting –
+<ol style="list-style-type: lower-alpha">
+<li>the very foundations of democracy,</li>  
+<li>seriously impacting societies,</li>
+<li>affecting free flow of ideas, honest discussions, and</li>
+<li>strangling the marketplace of ideas.</li>
+</ol>  
+</li>  
+</ol>
+
+{:start="42"}
+42. This Bill is an attempt to deal with some of these very real, serious risks which all societies face. But at the same time, in a carefully considered manner, with the government deciding that we should come before the House, and put forward something that in a way cuts down on the existing powers. And put forward a new Bill that actually restricts government’s powers compared with today, but focused on online falsehoods. And voluntarily, compared with existing legislation, say, if the House agrees, let us give greater oversight to the judges, and let us make it much faster. So that is the true nature of the exercise.
+ 
+{:start="43"} 
+43. But the Bill is not a silver bullet. It cannot address all the issues.
+ 
+{:start="44"} 
+44. I will ask Members to bear with me as I set this out because it is important for both Members, and the public, to understand the larger picture before we can understand why this Bill is necessary.
+ 
+{:start="45"} 
+45. The SC dealt with a part of the issue, but if you take one step back, what is the fundamental problem in many countries today? It is really a serious loss of trust in Governments, in institutions which are both public and private, including the political system, the media, the professions, businesses, financial institutions and so on.
+
+
+
+
+
+
