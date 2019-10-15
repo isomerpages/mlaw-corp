@@ -469,4 +469,147 @@ These developments have been aided by at least two other factors –
 80. Kevin Rudd made the point that “Murdoch made Brexit possible because of the position taken by his papers.” Not just Murdoch’s newspapers, others as well.
 
 
+<ol start="81">
+<li>Steven Barnett, a prominent parliamentary advisor, and a Professor of Communications in the UK, said: <br /> &ldquo;In the lead up to the June 23 European Union referendum, British mainstream media failed spectacularly. Led, inevitably, by the viscerally anti-EU Daily Mail, Sun, Daily Express, Telegraph, most of Britain&rsquo;s national press indulged in little more than a catalogue of distortions, half-truths and outright lies. It was a ferocious propaganda campaign in which facts, sober analysis, sacrificed to the ideologically driven objectives, of editors and their proprietors.&rdquo;</li>
+</ol>
 
+{:start="82"}
+82. The Pro-Leave Camp in UK - The Daily Mail, The Daily Express, The Sun, The Daily Telegraph – combined readership of 28 million monthly readers, used sensational headlines, outright lies.
+ 
+Sunday Express: “12 million Turks would move to the UK” if Turkey joined the EU. It later admitted it was inaccurate.  
+ 
+{:start="83"} 
+83. Government on the one side, people on the other - Media is the intermediary. If the Media regularly trade in lies to attack the Government without basis, this happens. Trust in Government goes down. Institutions will be severely damaged. The Media can destroy institutions.
+ 
+{:start="84"} 
+84. An example of a great institution that has been savaged is the UK Courts, among the best in the world. I have spoken about this in the House previously. I do not wish to go into it but I have in the attachment set out how the British Media have severely damaged the British Judiciary.
+ 
+{:start="85"} 
+85. Traditional media holds power over society’s information. It has the ability to influence minds and viewpoints. When media acts responsibly, it serves democracy. When they do not, it damages democracy.
+
+{:start="86"}
+86. In many countries, traditional Media has played a big role, in the loss of trust.
+ 
+{:start="87"} 
+87. I spoke about inequality, inequity, political systems not delivering, media abusing its power, New Media being abused. I have sketched out the first three. New Media is the subject of this Bill. I will come back to it and deal with it in greater detail.
+ 
+{:start="88"} 
+88. Let me first complete the larger point on the consequences of the four aspects coming together. Members can then see what happens when you don’t deal with the very real danger of these developments.
+
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold; font-style: italic">
+<li>Consequences: Populism</li>  
+</ol>  
+
+{:start="89"}
+89. In an active democracy, foundations include trust, free speech and the infrastructure of fact. The four elements I referred to have combined like a battering ram to damage, destroy these foundations.
+ 
+{:start="90"} 
+90. When people lose trust, when they lose faith, when there is no proper public discourse, when infrastructure of fact is damaged, then democracy, societies are at serious risk. Populism will rise. Violence will rise, particularly towards the minorities, the weak. The ability of countries to face challenges, will be weakened.
+ 
+{:start="91"} 
+91. The crisis of trust in many countries has opened wide the doors to dangerous, destructive politics: Populism.
+ 
+<ol start="92">
+<li>Populism both exploits and deepens the loss of faith in the system, making it harder for institutions to correct and to find solutions.
+<ol style="list-style-type: lower-alpha">
+<li>Gallup has said, and I quote, when people hold “low trust in government and low or static expectations for their future lives”, support for populist, anti-establishment politics increases.
+<br>
+This is a politics that can – and has, in some countries, destroyed democracy and replaced it with corruption.
+    
+</li>
+
+<li>The 2017 Edelman Trust Barometer drew a direct link between the lack of trust in public institutions, and these populist movements. 44% of those who voted to leave the EU believed the system was failing, and held fears about at least 1 major societal issue, compared with 20% of those who wanted to remain in the EU.</li>
+
+</ol>
+  
+</li>  
+</ol>  
+
+{:start="93"}
+93. Populists used these fears as ammunition, to feed the crisis of trust in institutions. And 2016 saw populist movements make major gains.           
+ 
+{:start="94"} 
+94. The Eurasia Group said, populism is a force in US politics. In Europe, populist political parties are getting close to or are in government positions in several countries. Populism also reigns in some Latin American countries, and has gained footholds in Asia. In the assessment by Eurasia Group, populism is “likely to intensify and spread over the coming decade, weakening governments and de-legitimizing political leaders as a consequence.”
+ 
+{:start="95"} 
+95. The result will be a set of unyielding, centrifugal forces, creating a global environment described by the Eurasia Group as “the most dangerous it’s been in decades”.
+ 
+{:start="96"} 
+96. This is the serious situation that faces many countries and we will face it as well. That is why I referred to Gotterdammerung earlier.
+ 
+{:start="97"} 
+97. Many issues – inequality, inequity, political systems failing to deliver, traditional Media, New Media, the impact leading to loss of Trust and to Populism. We have to avoid this trajectory. This means, we have to deal with each of the issues.
+ 
+{:start="98"} 
+98. This Bill is an attempt to deal with one part of the problem: the serious problems arising from falsehoods spread through New Media. To try and help support the Infrastructure of Fact and promote honest speech in public discourse. It is an important part – even as we work on other aspects.
+ 
+{:start="99"} 
+99. Now I turn to falsehoods and New Media.
+
+
+<ol start="6" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Falsehoods and New Media</li>  
+</ol>  
+
+(1) *<u>Fundementals</u>*
+
+
+{:start="100"}
+100. Many societies, including ours, are pluralistic and diverse, with competing interests and identities.  With religious diversity as well. Various interest groups, NGOs, other associations. Each pursues its interests, causes and passions.
+ 
+{:start="101"} 
+101. Such diversity is never easy to navigate. It can give rise to instability and conflict. James Madison, one of the American founding fathers, argues that the “factions” in a diverse society cannot be controlled, only the effects of such factions can be countered. Decision-making with diversity is not always easy.
+ 
+{:start="102"} 
+102. A key foundation of a democracy is public discourse. Ideally, public discourse will help citizens understand complex policy issues, it will guide policy-makers to make optimal decisions, it will shape differing viewpoints, and expand common ground.
+ 
+{:start="103"} 
+103. But public discourse can only take place when there is free and responsible speech.
+ 
+{:start="104"} 
+104. The pre-requisites for national conversations are a common vocabulary, an underpinning of facts, and that provides a platform for accommodation and compromise amongst diverse voices in society. 
+ 
+{:start="105"} 
+105. A critical piece of infrastructure in these conversations is fact, and the infrastructure of fact. Like public infrastructure, society depends on it. It provides society with a shared reality. This is necessary so that we can have diversity without conflict, and public participation, while still getting decisions made. Without it, our political system will malfunction.
+ 
+{:start="106"} 
+106. William Davies, the English Sociologist and political economist has said, and I quote:  “The fact that millions of people are able to believe the same things about reality is a remarkable achievement, but one that is more fragile than is often recognised.”
+ 
+{:start="107"} 
+107. A critical reason for this remarkable achievement, and I quote Davies again, is “something so ubiquitous, so ordinary, that we scarcely ever stop to notice it: trust.”
+ 
+{:start="108"} 
+108. This is the trust that when public institutions – the Government, Media, other Institutions – share a piece of information with the public, they do so honestly. Trust in public institutions is a cornerstone of the infrastructure of fact.
+ 
+{:start="109"} 
+109. The belief in the authenticity of the source, whether it be the media, the Government, experts, or other authoritative sources, makes society accept facts.
+ 
+{:start="110"} 
+110. Authenticity of course has to be earned and maintained. And if a usually trusted source is not telling the truth, there must be avenues to expose, and there must be consequences. So that rigour helps in maintaining authenticity. People will then believe, if it is said, it is likely to be true. And if not true, it will be exposed.
+ 
+{:start="111"} 
+111. These are amongst the foundations on which modern societies are based. They are bigger than the Government of the day, they are bigger than any political party.  This is about the basic structure of society.
+
+(2) *<u>Exploitation of New Media</u>*
+
+{:start="112"}
+112. New Media has been heavily exploited, to batter this Infrastructure of Fact. Which in turn, weakens trust, in public discourse, in institutions, in democracy itself. 
+ 
+{:start="113"} 
+113. I will now set out how falsehoods have been weaponised, to attack the infrastructure of fact, to destroy trust, and to attack societies.
+ 
+{:start="114"} 
+114. New Media is an information super highway, it has got many byways, links to different groups in society, and to everyone. It has now been used to send out on an industrial scale, falsehoods to mislead people. Broad sections targeted, but specific groups and individuals are targeted.
+
+<ol start="115">
+<li>The attack using falsehoods on social media, comes from several directions, several sources.
+<ol>
+  <li>One, foreign countries using information warfare</li>  
+  <li>Two, profit-driven actors</li>
+  <li>Three, deliberate actors, for political ends, and</li>
+  <li>Four, people with prejudices, seeking to harm other groups.</li>
+</ol> 
+ The SC noted this. 
+</li>  
+</ol>  
