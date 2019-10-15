@@ -613,3 +613,389 @@ This is a politics that can – and has, in some countries, destroyed democracy 
  The SC noted this. 
 </li>  
 </ol>  
+
+
+(3) *<u>Sources of Falsehoods</u>*
+
+{:start="116"}
+116. Let us look at some sources of Falsehoods.
+
+<ol style="list-style-type: lower-roman">
+  <li>Foreign State actors</li>  
+</ol>  
+
+
+{:start="117"}
+117. First, foreign countries.
+ 
+{:start="118"} 
+118. There is a military doctrine that has been developed for the Internet age. General Gerasimov, Russia’s military Chief of Staff, there is a doctrine named after him called the Gerasimov Doctrine. Basically, he says, the “rules of war” have changed. Non-military measures, including information operations, they can be harnessed to, in turn harness the “protest potential of the population”.
+ 
+{:start="119"} 
+119. What does it mean? Information operations can target and create internal opposition as a “permanently operating front” throughout the target country. These non-kinetic military measures, in many cases, can exceed the power, as his doctrine says, the power of force and weapons. Even though military or overt violent measures are not being used, the target states’ national sovereignty, security are threatened and violated.
+ 
+{:start="120"} 
+120. In this way, the lines between war and peace have now blurred. And wars no longer have to be declared.
+ 
+{:start="121"} 
+121. Security experts gave evidence to the SC.  Dr Shashi Jayakumar said that in modern information warfare, I quote, “seeding internal opposition within the target country is extremely important.” And he said that he “technological tsunami” has given aggressor states the ability to “subvert individual slices” of the target country in a manner unthinkable just two to three decades ago.
+ 
+{:start="122"} 
+122. A national security expert from Latvia, Dr Berzins said the notion of a broken social contract is the main vulnerability exploited by foreign adversaries. In his words, “[i]t is easier for the adversary to achieve its objectives if the society of the state being attacked believes that their country is a failed state that does not care for the interests and needs of the population, and the loss of current statehood will bring better living conditions.”
+ 
+{:start="123"} 
+123. Singapore is a specific, and vulnerable target, for some very precise reasons. It has military superiority in this region – experts said this. That superiority in conventional forces means it will be futile to start a war with Singapore. Therefore, militarily weaker countries will then focus on other means to weaken Singapore, sap our will from inside, create deep internal divisions and keep us in a permanent state of internal dissension.
+ 
+{:start="124"} 
+124. The evidence is that this is already happening. The SC heard it, we know that it is happening, even though we don’t come out in public and say it very openly. It is happening to sap people’s support for the SAF, for defense, to try and shift Singapore’s foreign policy as well. And these are not issues that we should dismiss lightly. Just assuming we go on the basis of the evidence that we have heard at the SC, it has happened elsewhere, and I will give you some evidence that this has happened.
+ 
+{:start="125"} 
+125. Take Ukraine, a foreign country, which the SC didn’t really name, used falsehoods to build a narrative that the Ukrainian government was fascist and corrupt. It spread online falsehoods about atrocities being carried out against a particular community in Ukraine. For example, that Ukrainian soldiers had crucified a child, which was later debunked. Volunteers who fought against Ukraine said they were motivated because of these supposed atrocities. Consequences: loss of sovereignty, part of territory, loss of lives.
+ 
+{:start="126"} 
+126. If you take the Czech Republic, disinformation operation by a foreign country, was used to turn domestic sentiments in favour of a foreign State’s geopolitical goals. One objective was to make people believe the US was responsible for influx of Syrian refugees into Europe, and the conflict in Ukraine. The disinformation appears to have had some effect. 2016: 50.2% of Czechs believed the US is responsible for Syrian refugees coming to Europe, 38% believed that the Ukrainian crisis was caused by the US and NATO. So, it was done to weaken Czech support for NATO and Ukraine.
+ 
+{:start="127"} 
+127. Take Germany. If it can happen in the UK and it can happen in Germany, I think it can easily happen here. A girl fabricated a claim that she had been assaulted by three Middle Eastern migrants. Foreign media outlets reported on that widely, suggesting it was true, specifically from one country. Reports were then spread on social media. Berlin authorities investigated, confirmed the girl’s claim had been fabricated. But falsehoods were circulated online, that the police had failed to follow up on the case. Thousands demonstrated on the streets, to “expose” the government’s attempts to cover up the crimes perpetrated by the refugees. That same year, a far-right populist party made unprecedented gains in the regional elections, and most of its support came from the same minority constituency as the girl who made the rape claim.
+ 
+{:start="128"} 
+128. Sweden. The Swedish defence agency says false information about subjects such as NATO, immigration, terrorism, are spread “on a daily basis in Sweden”. 
+ 
+{:start="129"} 
+129. Many of these countries, trust is being eroded in institutions, populism is on the rise.
+ 
+{:start="130"} 
+130. Since Russia’s name had come up in the media, the SC invited Russia to help us and the Russian Embassy very helpfully sent us a letter, that Russia is also very concerned about fake news and has been victim of fake news. So we have no doubt that Russia takes this matter very seriously.
+
+<ol start="2" style="list-style-type: lower-roman">
+  <li>Profit-seekers</li>  
+</ol>  
+
+{:start="131"}
+131. Next, apart from foreign state actors, commercial profit, another dimension.
+ 
+{:start="132"} 
+132. Digital advertising models have turned websites into virtual real estate. So value depends on the attention attracted, with every click, every view, digital ad revenue is earned.
+ 
+{:start="133"} 
+133. This business model has created an attention economy. Content that stokes fear and anger and good for attracting attention. Falsehoods can help people earn large sums of money, and have political impact.
+
+<ol start="134">
+  <li>In the US, an American named Paul Horner, he set up at least 20 fake news websites, some used deceptive URLs and it tricked readers into thinking that they were mainstream sources, like ABC News, CNN. He was prolific, he used his websites to publish fake stories, stoke partisan engagement, claimed that they were satirical; said he assumed people would fact-check. But many did not, and they were fooled. Some examples of his falsehoods:
+  <ol style="list-style-type: lower-alpha">
+    <li>During a government shutdown, President Obama used his own money to keep open a government funded Muslim culture museum. Fox News reported the story as a fact, before retracting it.</li>
+    <li>False article – protestors were paid to protest against Mr. Trump. Re-tweeted by the Trump campaign.</li>
+    <li>20 million Amish people had committed to vote for Mr. Trump. Turned up in Google News, had 750,000 page views in two days.</li>
+  </ol>
+  </li>  
+</ol>  
+
+
+{:start="135"}
+135.    He made $10,000 a month from Google AdSense. He was opposed to President Trump, but targeted conservatives with his fake stories, because he found it more profitable.
+ 
+{:start="136"} 
+136. A BuzzFeed news investigation found a network of at least 43 websites which together published more than 750 fake news articles – a small study. All of them used Google AdSense to earn digital advertising revenue.
+ 
+{:start="137"} 
+137. Towards the end of the 2016 US Presidential Elections, a small town in Macedonia became well known, the registered home of at least 100 pro-Trump websites, filled with sensational falsehoods, Macedonians experimented with different target audiences, fake stories could gain the most traction amongst Trump supporters, they found. Sometimes they wrote their own articles, but often would just re-use falsehoods from alt-right websites in the US. In the four months leading up to the Elections, one young Macedonian earned nearly US$16,000 from two websites he ran. For five or six hours of work, he could earn about $1,000 a month
+ 
+{:start="138"} 
+138. So as Samanth Subramanian, a reporter with WIRED, said and I quote, “This is the… disturbing heart of the affair: that the internet made it so simple for these young men to finance their material whims and that their actions helped deliver such momentous consequences”.
+
+<ol style="list-style-type: lower-roman" start="3">
+  <li>Deliberate actors, for political ends</li>  
+</ol>  
+
+
+{:start="139"}
+139. Third category, deliberate individual actors.
+ 
+{:start="140"} 
+140. You have foreign state actors, you have people doing it for money, now people and groups who do it deliberately. The SC found that in several countries both local and foreign civilians had spread falsehoods for political causes, affecting both their own countries, and other countries as well.
+
+
+<ol start="141">
+  <li>For example: far-right, nationalist groups, promoting more extreme politics.
+<ol style="list-style-type: lower-alpha">
+  <li>The domestic alt-right in the US used falsehoods, drove major false narratives, during the 2016 US Presidential Elections.</li>
+  <li>More recently in 2018, Brazilian Presidential Elections, local far-right groups coordinated network of fake social media accounts, spread misinformation in support of right-wing candidates.</li>
+ </ol> 
+  </li>  
+</ol>  
+
+{:start="142"}
+142. Populists use lies to attack institutions, invoke divisive rhetoric. They use conspiracy theories to explain complex issues in simple terms, and trying to make people believe them. Truth then becomes completely irrelevant. Even the most extreme lies which we might think people will normally dismiss, become believed and it impacts very badly on public life.
+ 
+{:start="143"} 
+143. So British historian and journalist Anne Applebaum said this about populist movements, and I quote: “They don’t require belief in a full-blown ideology … most of them don’t deploy propaganda that conflicts with everyday reality. And yet…all of them encourage their followers to engage, at least part of the time, with an alternative reality.”
+
+
+*Brexit Referendum*
+
+{:start="144"}
+144. In the UK, falsehoods were spread extensively during the EU Referendum. Immigration was a key issue. I spoke earlier about false claims in traditional media about Turks, Turkey, and Brexit. Digital advertisements were also run by the Leave EU Campaign. That Turkey was joining the EU, 12 million Turks would in that event move to the UK, if it remained in the EU.
+ 
+{:start="145"} 
+145. Foreign interference was also at play. Fake foreign-linked accounts posted more than 45,000 messages about Brexit, in the 48 hours during the referendum. A large part of foreign-linked content related to refugees, immigration, false stories, stories of illegal migrants attacking women – concocted.
+ 
+{:start="146"} 
+146. But these falsehoods  were used to create an alternative reality. If you believed them, you would believe there was a conspiracy by the ruling elite to turn the UK and Europe into a Muslim caliphate. Muslims were campaigning for Sharia law to govern the UK, the Mayor of London, a Muslim, was sponsoring them. And in the UK, there are areas where Sharia law dominates and non-Muslims cannot enter.
+ 
+{:start="147"} 
+147. Sounds outlandish. Who would believe? The British are very sensible people. But even the British fell for it. In 2018, YouGov did a survey of over 10,000 people. It was a substantial survey. 32% believed the falsehood about ‘no go’ areas under Sharia law in the UK.  49% of those who voted to leave the EU stated that this was true.
+ 
+
+{:start="148"}
+148. It also created a permissive environment for hate. In the month after the referendum, there was a 41% spike in hate crimes and the majority of crimes were motivated by race, including crimes against migrants.
+ 
+{:start="149"} 
+149. Brexit altered the course of British history, it is one of the most important events in their recent history, and the massive falsehood campaign, may have well affected the outcome.
+ 
+{:start="150"} 
+150. An investigative report in The Guardian, by a British journalist Caroline Cadwalladr, explained this. She went to a town in Wales that probably received more EU funds than any other town, and still voted to leave the EU, 62% of them voted to leave. In this town, the EU was funding a 350-million-pound regeneration project, a 33-million-pound college for further education, which had 29,000 apprenticeships for young people to learn a trade, a 77-million-pound road improvement scheme, and a 30-million-pound railway line. The town had one of the lowest rates of immigration in the country, it was in Wales, which was a net EU beneficiary.
+ 
+{:start="151"} 
+151. But when Caroline interviewed the people in town, she discovered the existence of an alternative reality. People believed the town was sending more money to the EU than it was receiving, the EU had not only done nothing for the town, it had also brought a huge immigration problem, including from Turkey.
+ 
+{:start="152"} 
+152. The Welsh town had been a left-wing Labour stronghold. Yet the people were repeating information usually found in right-wing newspapers. She discovered that they were getting their information or misinformation from targeted digital ads on Facebook.
+ 
+{:start="153"} 
+153. One of the most controversial claims in the UK during the referendum was that the UK sends 350 million pounds a week to the EU. Not only plastered on buses, but also run as digital ads aimed at specific groups of voters. The UK Statistics Authority said that the figure was likely closer to 136 million pounds per week. Despite the corrections, a 2018 King’s College London study found that 42% of people who had heard this claim still believe it to be true, and 22% were unsure, only 30% correctly believed that it was false.
+ 
+{:start="154"} 
+154. For a referendum that may have irreversibly altered the course of British history, these are serious consequences.
+
+
+*US experience*
+
+
+{:start="155"}
+155. In the US as well, falsehoods and lies have been spread on a massive scale.  A study from Stanford University shows that on average, each American adult read about three false stories in the months leading up to the 2016 US Election. The researchers compiled the fake stories that had been debunked by fact-checking websites. Found that these falsehoods were shared about 38 million times, leading to around 760 million engagements with the content.
+ 
+{:start="156"} 
+156. The false narratives were driven by the people who identified with the home-grown alternate-right movement. Largely sought to denigrate the establishment, attack Mrs Clinton’s campaign.
+ 
+{:start="157"} 
+157. Also at play: a sophisticated foreign information campaign, that sought to influence the outcome, undermine democratic institutions, and the democratic ideals.
+ 
+{:start="158"} 
+158. There was the conspiracy theory that Mrs Clinton and other top Democrats were part of a child paedophilia ring operating out of a Pizza restaurant, in Washington, DC. Sounds completely crazy, utterly unbelievable if you think about it. The rumours began on Twitter, spread to other websites and online forums. Claims got louder. Hacked emails from Mrs Clinton’s campaign were distorted to support the conspiracy theory.
+ 
+{:start="159"} 
+159. An American man showed up at the pizza restaurant to “self-investigate,” and he brought a gun along with him.  People demonstrated in front of the White House, declaring that the theory was real.
+ 
+{:start="160"} 
+160. The falsehoods helped created an alternate reality. One where a “deep state” existed within US institutions which was conspiring against the American people. And if you were part of this echo chamber, you would be told that then-President Obama was colluding with the UK spy agency to spy on Mr. Trump. Mrs Clinton was linked to a mysterious explosion that killed one of her employees. And the 2018 Florida school shooting was really a secret government operation.
+ 
+{:start="161"} 
+161. Foreign agents infiltrated, exploited this alt-right movement using fake social media accounts. They pretended to be real Americans. Amplified the falsehoods that originated from these websites. Targeted echo chambers with claims that Mrs Clinton wanted to apply Sharia law in the US, that Mrs Clinton was actively arming the terrorist group ISIS.
+ 
+{:start="162"} 
+162. Foreign agents also infiltrated other social media movements, to spread falsehoods on both sides of issues – they were agnostic about that - and to create more division. They amplified the falsehoods, they widened the divide. The political ground became fragile, fraught, and conducive for foreign agents to operate.
+ 
+{:start="163"} 
+163. The experiences of these two countries show how, through a combination of falsehoods and digital technology, the foundations of democratic society are severely attacked.  Falsehoods are used to undermine public trust which is the cornerstone of our infrastructure of fact. They are used to divide and polarise, tearing the social fabric. And democratic discourse, accommodation and compromise become very difficult. In these conditions, the political centre becomes hollowed out, and people are driven to extremes.
+
+*France’s Yellow Vest movement*
+
+{:start="164"}
+164. If you take France, the Yellow Vest movement. At the centre of the movement are these “Anger Groups” on Facebook. They are online hubs for falsehoods. They appeared almost a year before the street protests began in Paris. In the lead up to the protests, falsehoods were used to increase the sense the system was failing, and turning against the people.
+ 
+{:start="165"} 
+165. Various falsehoods that the French Constitution had been nullified in 2016 by the then-Prime Minister; that President Macron was going to sign France’s sovereignty away at a UN conference; a million Germans had protested increased fuel prices; that President Macron wrote to Paris police to use force against protestors and so on.
+ 
+{:start="166"} 
+166. During the protests, Misinformation in Yellow Vest Facebook groups and pages reached over 105 million views over 4 million shares, in 5 months. Images were falsely captioned as of bleeding Yellow Vest protestors. These were used to claim that media and government were hiding police brutality and violence against these protestors.
+ 
+{:start="167"} 
+167. During the 2016 US Presidential Election disinformation came from foreign operatives. But in the mid-term elections, such campaigns were more domestic. Americans were targeting other Americans, using the same strategies that are said to have been introduced by the Russians.  
+ 
+{:start="168"} 
+168. Sometimes, activists worked with foreign States.  The SC Report has pointed out that State actors have formally coordinated with, co-opted, other private sector actors including Private industry, Civil society organisations, Fringe movements, and volunteers who ideologically support the cause. The SC Report also mentioned that an Asian country, didn’t name it, is said to have an online cyber army, and volunteers who promote the government’s policies and attack those who criticize those policies.
+
+<ol start="4" style="list-style-type: lower-roman">
+  <li>People seeking to spread hate</li>  
+</ol>  
+
+{:start="169"}
+169. Social media has also enabled hate to thrive. Falsehoods are often centerpieces of hate propaganda.
+
+<ol start="170">
+<li>Over the past few years, people have used online falsehoods to promote anti-immigrant, anti-Muslim prejudices.
+<ol style="list-style-type: lower-alpha">
+<li>After terrorist attack in Paris in 2015, a video was posted, described as showing “Moderate Muslims” celebrating the attack. It was actually a video of people celebrating a cricket match victory in Pakistan. But nearly 500,000 views within a few hours. Video was spread again after the terrorist attack in Paris in 2017, with same false caption.</li>
+<li>The terror attack at Westminster in London in 2017 - a photograph of a Muslim woman walking past victims became viral. She was speaking on her phone, face hidden from view. Falsely accused of ignoring the victims, and treating the attack casually. It was later discovered that the tweet originated from a fake foreign account.</li>
+<li>When moderate Muslims demonstrated against terrorism in London. A false story was spread that the demonstration was staged.</li>
+<li>In April this year, falsehoods were used to turn the Notre Dame fire into an anti-Muslim narrative. A fabricated quote ascribed to a Muslim US senator saying, “they reap what they sow”. A video of Notre Dame burning with shouts of “Allahu Akbar” edited over.</li>
+ <li>In Indonesia, a “Muslim Cyber Army” used falsehoods and hate speech to inflame sentiments against gays, Chinese.</li>
+</ol>
+  
+</li>  
+</ol>  
+
+
+{:start="171"}
+171. We have also seen this in Germany, Italy and Brazil. And all have rising populism. This is no coincidence.
+
+
+
+<ol style="list-style-type: lower-roman" start="5">
+  <li> Scale</li>  
+</ol>  
+
+{:start="172"}
+172. Psychological evidence is that mere exposure to conspiracy theories, even if they are dismissed, makes people less likely to accept official information, or engage in politics. Conspiracy theories harm trust in institutions overall, not just the specific institutions that they relate to.
+ 
+{:start="173"} 
+173. And so, people mistrust the very existence of an Infrastructure of fact and disengage from public discourse altogether. As William Davies said, “…when trust sinks beneath a certain point, many people may come to view the entire spectacle of politics and public life as a sham…”
+
+
+<ol start="174">
+<li>In the digital age, almost anyone can make a falsehood go viral, or run a disinformation campaign.
+<ol style="list-style-type: lower-alpha">
+<li>It has happened in Sri Lanka.</li>
+<li>In India, child abduction rumours spread on WhatsApp - 69 mob attacks, 33 deaths.</li>
+<li>In Mexico, Child abduction rumours sparked a horrific lynching of two men.</li>
+<li>This year, in France, child abduction rumours targeting the Roma people led to several violent attacks on the Roma.</li>
+<li>Harm to public health when falsehoods are spread about health care.</li>
+<li>Financial markets can be affected very quickly. A false tweet that the White House had been bombed led to a massive fall in the stock market.</li>
+</ol> 
+</li>  
+</ol> 
+
+
+{:start="175"}
+175. The examples are innumerable. Every country, this is happening.
+ 
+{:start="176"} 
+176. No one can disagree that this is a serious threat. And that it has to be dealt with head on.
+ 
+{:start="177"} 
+177. I will say this to Members of this House on both sides, and the NMPs. If and when this happens in Singapore, there will be deep damage to the institutions, which are beyond and above politics. We are seeing this happen before our very eyes in other countries which normally you could have assumed were stable, much more stable than Singapore, much bigger than Singapore. And if that happens, that will damage society beyond repair. So there is no benefit to anyone regardless of any political persuasion. There is no benefit to see this happen because there is no benefit whether political or otherwise in seeing this happen.  For anyone.
+
+
+
+(4) *<u>Tools used to spread falsehoods</u>*
+
+{:start="178"}
+178. What are the tools such actors use, and what is the cost of such tools? The digital technology has given falsehoods a new power. The SC found, “…considerable evidence was given showing how modern digital technology has made the creation and dissemination of falsehoods easier, cheaper, more profitable, transforming it.
+
+
+<ol start="179">
+<li>I will mention three tools:
+<ol>
+<li>Fake accounts</li>  
+<li>Digital advertising</li>
+<li>Algorithms used by platforms to rank content</li>
+</ol>
+
+<ol style="list-style-type: lower-roman">
+  <li>Fake Accounts</li>  
+</ol>  
+
+  
+  
+  </li>  
+</ol> 
+
+{:start="180"}
+180. Fake accounts have been described as “foot soldiers” of disinformation. They may be run either by humans, known as “trolls”; or may be automated, in which case they are called “bots”.
+ 
+{:start="181"} 
+181. Fake social media accounts are manufactured to manipulate. Some of them cultivate persuasive online personas, gain followers, both real and fake. Used as fictitious leaders of public opinion, using falsehoods to sway minds, create impressions of public sentiment.
+ 
+{:start="182"} 
+182. Bots are used to artificially amplify falsehoods, megaphone for falsehoods.They draw attention to falsehoods, affirm them, and make them appear to be more believable.
+ 
+{:start="183"} 
+183. Digital advertising tools are used to target falsehoods at susceptible segments of the population.
+ 
+{:start="184"} 
+184. Search engine results manipulated so that false articles are prioritised.
+ 
+{:start="185"} 
+185. Online echo chambers are created and exploited. Social media groups and online chats are used to polarise and mobilise people to orchestrate conflict.
+
+
+<ol start="186">
+<li>Falsehoods today travel easily and widely across multiple platforms. In 2017, a news article that a Russian aircraft had managed to electronically disable a US warship, was posted on a Russian state-controlled news site.
+<ol style="list-style-type: lower-roman">
+<li>The article used a parody that had been published a few years before, and presented it as truth. You can see how it is not just the labels that matter. People can be made to believe that parody is in fact true. There is a need to look at the material objectively. It was designed to glorify Russia and undermine confidence in the US Navy.</li>
+<li>In 2 days, it was picked up by mainstream outlets in the US and Europe. You can see how it spreads. In less than 7 days, cross-posted on dozens of news sites, and their social media pages, catered to different countries and demographics. Fox News’ version was shared over 27,000 times. The Sun’s version was shared over 10,000 times.</li>
+</ol>
+</li>  
+</ol>  
+
+
+<ol start="187">
+<li>Some of the more prominent examples over the last 3 years:
+<ol style="list-style-type: lower-alpha">
+<li>In 2016 Brexit, research suggests that bots were generating up to 20% of Brexit-related tweets in the months leading to the Referendum, including anti-Muslim falsehoods.</li>
+<li>In the 2016 US Presidential Election, a foreign troll factory conducted a disinformation campaign using 50,000 bot accounts, over 3,800 fake Twitter accounts, and at least 470 fake Facebook accounts. Facebook’s best estimate from 2015 to 2017, approximately 126 million people may have received content from accounts associated with this troll factory.  </li>
+<li>In the 2017 French Presidential Elections, emails from then-candidate Macron’s campaign were hacked and leaked. So #Macronleaks hashtag was used to guide Twitter users to false claims that the leaked emails showed evidence of illegal activity by Macron.  Hashtag was amplified through network of trolls and bots. Reached 47,000 tweets in less than 4 hours after the initial tweet.</li>
+<li>“Coordinated inauthentic behaviour” by fake accounts was also seen in 2018 US Mid-Term Election, 2018 Brazilian Presidential Election, the US anti-vaccine debate, and in Indonesia.</li>
+</ol>
+</li>  
+</ol>  
+
+
+<ol start="188">
+<li>Fake accounts have been used in very sophisticated ways.
+<ol style="list-style-type: lower-alpha">
+<li>A Twitter account belonging to one “Jenna Abrams” was created in 2014. This appeared to belong to a young American woman. Once she built a following, she pushed a divisive set of views on immigration and Trump, especially closer to the 2016 Election. At one point, she had over 70,000 followers, was quoted by dozens of high-profile media outlets, including The Washington Post, the BBC and the New York Times. But it turned out to be a fake account created by a foreign troll agency.</li>
+<li>The Twitter account impersonating the Tennessee Republican Party, also created by the same foreign troll agency, spread falsehoods such as President Obama had admitted he was Muslim, an employee of Clinton’s was killed in a mysterious explosion in Washington, DC and Clinton was involved. At one point, it had over 152,000 followers. The real Tennessee Republican Party account had less than 14,000 followers.</li>
+</ol>
+</li>  
+</ol>  
+
+{:start="189"}
+189. Trolls, bots, can, and have been, used in Singapore. We have noticed spikes in activity from inauthentic accounts when we have discussions on various issues of public concern. One example, whenever there is a bilateral issue with Malaysia, these goes up. We recently estimated it went up by 30%. 
+ 
+{:start="190"} 
+190. Such activity creates alternate realities; it manipulates perception, creates impression that there are many voices, shouts down other viewpoints through fake accounts, shifts public opinion, erodes trust and undermines institutions.
+
+<ol start="2" style="list-style-type: lower-roman">
+  <li>Digital advertising</li>  
+</ol>  
+
+{:start="191"}
+191. If you turn to digital advertising. It is done to sway public opinion, used on both sides of the Atlantic. Foreign operatives were using it in a disinformation operation to influence the US Elections. It was also being used by the Vote Leave campaign in the UK.
+ 
+{:start="192"} 
+192. These tools allow messages to be micro-targeted with a high degree of precision at specific groups, based on a variety of indicators, including people’s fears and prejudices. They are able to do so because personal data on each user is harvested by platforms like Facebook.
+ 
+{:start="193"}
+193. In the US, foreign operatives used US$100,000 to spread Facebook advertisements to 126 million Americans. It’s inexpensive, compared with traditional advertising. Almost 2,000 ads used interest-based targeting, and of those, 800 were geographically targeted, including at swing states. And remember, in some swing states, the margin of victory was in the tens of thousands.
+
+{:start="194"}
+194. In the UK, the Vote Leave campaign in Brexit spent more than £2.7 million on targeted advertisements.
+ 
+{:start="195"} 
+195. Targeted digital advertising was used in these campaigns because it was effective. Study by network theorists showed when falsehoods are initially aimed at those predisposed to believe them, they spread further.
+ 
+{:start="196"} 
+196. Another troubling aspect of targeted advertising is that it is hidden from public view. Others cannot see the falsehoods being spread and they are unable to step in to correct them.
+
+{:start="197"}
+197. Again, as British journalist Carole Cadwallader said in a Ted Talk, “*…this entire referendum took place in darkness, because it took place on Facebook. And what happens on Facebook stays on Facebook, because only you see your news feed, and then it vanishes, so it's impossible to research anything. So we have no idea who saw what ads, what impact they had, what data was used to target these people. Or even who placed the ads, how much money was spent, even what nationality they were.*”
+
+<ol start="3" style="list-style-type: lower-roman">
+  <li>Algorithms</li>  
+</ol>  
+
+{:start="198"}
+198. Third, the algorithms. They can play a big role in promoting falsehoods. Roger McNamee, who was an early investor and advisor to Facebook, said this about 2016 US Elections, “*Facebook’s algorithms have played a huge role in this election cycle by limiting each member’s news feed to ‘things they like,’ which effectively prevents people from seeing posts that contradict their preconceptions. Trolls on both sides have exploited this bug to spread untruths and inflame emotions.*”
+ 
+{:start="199"} 
+199. Platforms’ algorithms have boosted conspiracy theories, false claims, to the top of search results, recommendation lists, and news feed rankings. By giving them prominence, the falsehoods are made to seem more credible. Ranking does matter. One study has found that manipulating search engine results to favour one candidate over another can alter voter preferences by 20%.
+
+<ol style="list-style-type: lower-roman" start="4">
+  <li>Disinformation industry</li>  
+</ol>  
+
+
+{:start="200"}
+200. The spread of falsehoods is also aided by service providers in a growing commercial disinformation industry.
+
