@@ -58,13 +58,13 @@ a.	We formed the Community Mediation Centre, or CMC, in 1998, 21 years ago, to p
 <br><br>
 b.	The role of the CMC has definitely evolved over the years. In 2014, in addition to providing mediation services, the CMC also started providing grassroots leaders with mediation training. I can see around the room here, that there are many grassroots leaders. You started off as grassroots leaders, but over time, with the CMC training, you are now able to bring that training to bear in the community that you serve, that you live in.
     <ol style="list-style-type: lower-roman">
-        <p></P><li>That is a wonderful tool because grassroots leaders sometimes see first-hand the escalation of the problem, and having that training helps you to defuse, to de-escalate and to try to manage the disagreements.</li>
+        <p></P><p></P><li>That is a wonderful tool because grassroots leaders sometimes see first-hand the escalation of the problem, and having that training helps you to defuse, to de-escalate and to try to manage the disagreements.</li>
     </ol>
 c.	In 2014, the Government consulted the public on how to encourage good neighbourliness and to improve the management of disputes between neighbours. 
 <br><br>
 d.	The views that were gathered contributed ultimately to the strengthening of the Community Disputes Management Framework, including the Community Disputes Resolution Act and of course, the establishment of the Community Disputes Resolution Tribunal (CDRT) in 2015.
     <ol style="list-style-type: lower-roman">
-    <p></P><li>These changes clearly enhanced protection for residents to enjoy their own place – where they live, the peace and quiet of their own home.</li>
+    <p></P><p></P><li>These changes clearly enhanced protection for residents to enjoy their own place – where they live, the peace and quiet of their own home.</li>
     </ol>
 e.	And in 2015, the State Courts followed suit, so there is also the State Courts’ Centre for Dispute Resolution (CDR) which  was established within the state courts set up to provide such services in that system. 
 </ol>
