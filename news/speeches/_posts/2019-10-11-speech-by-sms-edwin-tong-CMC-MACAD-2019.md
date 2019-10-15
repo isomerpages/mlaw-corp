@@ -7,10 +7,13 @@ permalink: /news/speeches/speech-by-sms-edwin-tong-CMC-MACAD-2019
 11 Oct 2019 Posted in [Speeches](/news/speeches)
 
 Associate Professor Ho Peng Kee
+<br>
 Mediators and friends from the mediation community
+<br>
 Distinguished guests
+<br>
 Ladies and gentlemen
-
+<br><br>
 **Introduction**
 
 1.	A very good evening to all of you. 
