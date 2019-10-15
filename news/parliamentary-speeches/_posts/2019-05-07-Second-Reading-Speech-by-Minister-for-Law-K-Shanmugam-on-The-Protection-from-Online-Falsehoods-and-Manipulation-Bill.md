@@ -999,3 +999,184 @@ This is a politics that can – and has, in some countries, destroyed democracy 
 {:start="200"}
 200. The spread of falsehoods is also aided by service providers in a growing commercial disinformation industry.
 
+<ol start="201">
+<li>Cybersecurity firm TrendMicro gave evidence before the SC. The going rates for tools and services (I have put them in a document) that help spread falsehoods:
+  
+<ul>
+<li> One million Instagram “likes”, just pay US$18. You can get one million likes.</li>
+<li>100 Twitter followers, likes, or re-tweets - 34 cents</li>
+<li>100 YouTube subscribers - 66 cents</li>
+<li>Make a falsehood appear on a YouTube main page for 2 minutes - US$621</li>
+<li>Make false content appear on legitimate news sites as if it’s real, costs a bit more – US$20,000</li>
+<li>To use online propaganda to instigate a street protest in the US – US$200,000. And you can actually get a street protest.</li>
+</ul>
+  
+</li>  
+</ol> 
+
+
+<ol start="202">
+<li>There are also “hired guns”, who spread disinformation for their clients, in return for a reward. A market opportunity.
+  
+<ol style="list-style-type: lower-alpha">
+<li>Latin America, you have Andres Sepulveda convicted of rigging elections throughout Latin America in return for payment from clients. And he used the cyberspace to spread falsehoods on key domestic issues and policies.</li>
+<li>Indonesian authorities uncovered one such syndicate- Saracen Cyber Team. Just one. There are so many of them.</li>
+</ol>
+  
+</li>  
+</ol>
+
+(5) *<u>Who is misled by falsehoods</u>*
+
+{:start="203"}
+203. Next, who is misled by these falsehoods? In a 2018 survey by Ipsos, a global independent market research agency, on Singaporeans, 91% of Singaporean respondents could not correctly identify one or more of 5 false headlines presented to them.
+ 
+{:start="204"} 
+204. Falsehoods work. They work in a complex manner. They take advantage of the attention spans, mental shortcuts, cognitive biases of reasonable, rational people. Every day, all of us decide which issues to give our time and attention. A lot of the information we come across, we make quick judgments based on who it comes from, how aligned it is with what we know and believe. These are the human loopholes that Falsehoods seek to exploit.
+ 
+{:start="205"} 
+205. People’s socio-political identities can play a key role in why people believe and share falsehoods. It’s consistent with psychological studies on confirmation bias.
+
+(6) *<u>Fundamental change in conditions</u>*
+
+{:start="206"}
+206. Members can see from all this in the digital age, the conditions supporting a shared reality have fundamentally changed.
+ 
+{:start="207"} 
+207. From a main artery sustained by mainstream newspapers, public discourse is fragmenting into millions of social media groups and conversations. 
+ 
+{:start="208"} 
+208. Mainstream media was likened by law professor Dr Thio Li-ann to a public street. On this street, she said, “you might encounter not only friends, but a … variety of people engaged in a wide array of activities.” In this system, people are made to see and show civility toward viewpoints they may not otherwise like and choose to see.
+ 
+{:start="209"} 
+209. But social media does the opposite. It is designed to connect people with who they want to be connected with, usually people they know or like, or who are like-minded.  They allow people to cut themselves off from the views and information they do not like.”
+ 
+{:start="210"} 
+210. The SC heard testimony from Dr Hegelich and Mr Shahrezaye. They are political data scientists. Dr Hegelich had advised German Chancellor Angela Merkel. They described the use of social media for public discourse as “an enormous misfit in design.”
+ 
+{:start="211"} 
+211. On social media, communication is guided by private affinity and emotions. It is designed to be convenient. A world of likes, emoticons, memes and captions. But, as Dr Hegelich put it, “…political discourse should not be convenient. In democracies, politics should be the result of debates, which are often arduous, because a compromise between legitimate interests has to be found.”
+ 
+{:start="212"} 
+212. In the aftermath of the 2016 US Election, a group of academics from America’s leading universities gathered to reflect on the problems of fake news. One of their key conclusions was this, and I quote, “Current social media systems provide a fertile ground for the spread of misinformation that is particularly dangerous for political debate in a democratic society.”
+ 
+{:start="213"} 
+213. For those who favour a politics of polarisation and misinformation over one of cohesion and reason, these conditions are ideal.
+
+
+(7) *<u>Self-regulation by tech companies?</u>*
+
+{:start="214"}
+214. Tech companies play a key role in all of this. They provide the platforms from which falsehoods and other content are spread. They have held themselves out as making the world a better place. Can they be relied upon to self-regulate?
+ 
+{:start="215"} 
+215. The evidence over the years shows clearly, no.
+
+*Sri Lanka’s experience*
+
+{:start="216"}
+216. In Sri Lanka, Facebook’s years of inaction to hate speech is well documented. Last year, rumours led to ethnic violence. Mosques were burned, people were attacked. A State of Emergency was declared. Facebook users lodged thousands of complaints over hate speech. And Facebook did nothing. One post, and I quote, only one of many such posts, “Kill all Muslims, don’t even let an infant of the dogs escape.” In the midst of ongoing violence, what was Facebook’s response to this? “We’ve looked over the post. It doesn’t go against one of our specific community standards.” The Sri Lanka Communications Minister highlighted a tweet from this user as well.
+ 
+{:start="217"} 
+217. Last year in London, SMS Edwin Tong questioned Facebook’s representative on this post. I would like to show the video of that questioning. With your leave, Sir.
+ 
+{:start="218"} 
+218. Can we rely on self-regulation?
+ 
+{:start="219"} 
+219. Two weeks ago in Colombo, Sri Lanka: terrorist bombings. More than 200 people killed. The terrorist leader had made videos to gain thousands of followers, called for attacks against other religious groups. Led to several previous attacks. But YouTube and Facebook removed the videos only after the Easter bombings.
+ 
+{:start="220"} 
+220. You see the slides of the photos of the victims. So, what do we say to them? “Sorry, we made a mistake”? As Mr Allan said to Edwin Tong, “sorry we made a mistake”?
+
+*Rear-guard action*
+
+{:start="221"}
+221. Big Tech have continuously refused to take down hate speech, ban groups promoting hate. As one American journalist put it, “Facebook’s world, Facebook’s rules.” The fact is that the more users, the more content on their platforms, the more user attention they can sell to advertisers, and the more they can profit. They are profit making entities. Ferocious. Will they voluntarily change their business model?
+ 
+{:start="222"} 
+222. They have also created a permissive online environment for hate. You saw what happened in New Zealand. And something similar happened just about a week ago, copycat shooting in California, in a synagogue. The whole thing was live-streamed. The attack in New Zealand, it was live-streamed. Here it was live-streamed.
+ 
+{:start="223"} 
+223. The Chair of the UK Digital, Culture, Media and Sport Committee, Damian Collins had said, it was a “terror attack designed for social media”, demonstrated why there had to be “statutory regulation” for social networks.
+ 
+{:start="224"} 
+224. Only now, Facebook has banned white nationalism from its platforms.
+ 
+{:start="225"} 
+225. In the 2016 US Election, 470 Facebook accounts used by foreign actors to reach an estimated 126 million Americans. Facebook was questioned by the US Senate, on whether they had plans to ban the purchase of ads using payments made in foreign currency. Facebook would not give a straight answer. Last year, I asked the same question during the SC hearing, and again, no straight answer.
+ 
+{:start="226"} 
+226. Twitter: 2 years after the US Election, most of the accounts linked to the foreign disinformation campaign were found to be still active.
+ 
+{:start="227"} 
+227. The recent Indonesian General Election: platforms helped disinformation spread, and take root faster.
+ 
+{:start="228"} 
+228. In November 2016, Mr Zuckerberg had said, it’s “A pretty crazy idea” to think that fake news on Facebook had influenced the 2016 US Election.” 10 months later, when there was clear evidence of serious foreign interference, he apologised for having been dismissive.  In November 2017, Facebook was questioned by the US Senate. They promised to do better, but said they would prefer to self-regulate.
+ 
+{:start="229"} 
+229. The recent release of internal EU Commission documents showed that over the last 4 years, Facebook has pushed back against regulation, and consistently said that regulation will stifle innovation.
+ 
+{:start="230"} 
+230. To our SC in March last year, they took the same line. “Prescriptive legislation” would make it harder for Facebook to find the right solutions. So what right solutions have they found?
+ 
+{:start="231"} 
+231. In March this year, one day before we tabled this Bill in Parliament Mr Zuckerberg said regulation against harmful content is needed, the problem is too big for them to handle. That’s what we are now doing.
+ 
+{:start="232"} 
+232. Facebook made this concession because it had no choice.
+ 
+{:start="233"} 
+233. In February 2018: A UK parliamentary committee questioned Facebook on whether it had provided user data to Cambridge Analytica, which had used data mining to help political candidates and groups target potential voters. Mr Milner, Facebook’s representative, said to the UK Parliament: Facebook had not provided such user data to Cambridge Analytica. Did not disclose that the user data had been taken by Cambridge Analytica, and that he knew of it at the time.
+ 
+{:start="234"} 
+234. I questioned Mr Milner about this during the SC hearing. He then conceded he should have given a more frank answer to the UK committee. He agreed that a reasonable person could take the view that he had not been full and frank in his answers, and had misled the UK committee.
+ 
+{:start="235"} 
+235. New Zealand’s Prime Minister Ms Ardern, has said: “We cannot simply sit back accept that these platforms just exist and what is said on them is not the responsibility of the place where they are published. … It cannot be a case of all profit and no responsibility.”
+
+*Singapore’s relationship with the tech companies*
+
+{:start="236"}
+236. I also read NMP Lim Sun Sun’s Op Ed on this point. Her view is that: Government, Big Tech and consumers should come together and work in a tripartite fashion rather than relying on legislation alone. Fair point.
+ 
+{:start="237"} 
+237. I have said on this subject as well as other subjects: Legislation provides the framework. By itself, legislation cannot achieve all the needed objectives A lot of cooperation is needed. Tech companies are not our enemies. They are our partners. We want them to succeed. We want them to do well in Singapore and elsewhere. And we must work with them to solve problems.
+ 
+{:start="238"} 
+238. But at the same time, we need to be quite clear about the dynamics. They are focused on profit. And there is little incentive for them to do things which will affect their profits.
+ 
+{:start="239"} 
+239. In Singapore, they must know, we must make sure they know, there is public interest. They can make profit, but not at the expense of Singaporeans. And POHA and POFMA seek to provide that framework.
+ 
+{:start="240"} 
+240. They know that the Singapore Government cannot be bought. We don’t take money from their lobbyists. And we mean what we say. They can do business with us, honourably. Singapore provides a proper rule of law framework for everyone. But they must also be responsible. Last year’s SC proceedings and their dealings with us would have left them in no doubt that we can push back when necessary. And throughout in good faith, we have had constructive discussions with them.
+ 
+{:start="241"} 
+241. But let me give Members a recent example. On the 4th of May, last Saturday, the Managing Director of AIC, Jeff Paine, published on op-ed. AIC is a lobby group for tech companies. And His op-ed was full of basic errors.
+ 
+{:start="242"} 
+242. One of the points he made: he referred to Clause 61, the exemption clause, and said this was troubling. This clause gives power to exempt, and really will help tech companies. Because where they cannot comply, and they can show reasonable reasons why they cannot comply, exemptions can be given.
+ 
+{:start="243"} 
+243. Since they said this, and we have been discussing in general how we can help tech companies when they cannot comply, I asked my Ministry to tell the tech companies – that was on Monday, yesterday, because the op-ed came out on Saturday - I told my Ministry officials to tell the tech companies: “You don’t think this clause is necessary right? Ok, I am quite happy to remove it.  I am speaking in Parliament on Tuesday. And if I don’t get any response before I speak, I will assume the tech companies don’t want this clause. Because how do I tell Members of this Parliament that this is primarily to help tech companies, when they themselves say they don’t want it?”
+ 
+{:start="244"} 
+244. What was the response? It was quite swift. Last night, AIC issued a statement. They said they appreciated SMS Edwin Tong’s clarification on the Exemption Clause. And they also appreciated the Government’s efforts to make POFMA technically feasible for tech companies. That’s what they need to see from us. These are not children’s games.
+ 
+{:start="245"} 
+245. This is serious business. Tech companies will say many things to try and advocate their position. We have to show them we are fair but also firm. And then they will then deal with us in a business-like way.
+
+
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold">
+  <li><u>Criticisms of the Bill</u></li>  
+</ol>  
+
+{:start="246"}
+246. There cannot be, and I don’t think there is, any serious dispute that legislation is necessary. The question is, what sort of legislation? This Bill is based on the SC Report which explains what outcomes should be achieved. The Bill seeks to achieve those outcomes. We think the setting out in the Bill will best achieve the outcomes the SC had identified. SMS Edwin Tong will go through specific provisions.
+ 
+{:start="247"} 
+247. I will now deal with some of the criticisms of this Bill.
+
+
