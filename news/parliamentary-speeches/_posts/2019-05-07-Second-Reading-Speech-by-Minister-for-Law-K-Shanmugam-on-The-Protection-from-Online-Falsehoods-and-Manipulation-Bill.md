@@ -1179,4 +1179,305 @@ This is a politics that can – and has, in some countries, destroyed democracy 
 {:start="247"} 
 247. I will now deal with some of the criticisms of this Bill.
 
+<ol start="248">
+<li>Ms Han Yong May had a good commentary in Zaobao some weeks back. She said, : 
+  
+<ol style="list-style-type: lower-alpha">
+<li>One, there is nothing wrong with questioning whether powers under POFMA will be abused.</li>
+<li>Two, but people should first read the Bill in detail. This is part of responsible speech, and if they did, they would understand that certain things people have been saying about it are untrue.</li>
+<li>And three, at the same time, she had a piece of advice for the Government. Please understand that some people may be genuinely concerned, and don’t see shadows and treat them as being purely antagonistic.</li>
+</ol>
+Fair points.
+</li>
+</ol>
+
+
+<ol start="249">
+<li>The following are some of the points that have been made about the Bill.
+<ol>
+<li>One, it gives too much power to the Government.</li>  
+<li>Two, definition of fact and opinion is not clear.</li>
+<li>Three, it will have a ‘chilling effect’ on free speech – that phrase again.</li>
+ <li>Four, definition of public interest is too wide.</li>
+<li>Five, difficult to challenge the Minister’s decision.</li>
+</ol> 
+  
+Let me deal with each.
+
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Government Power </li>  
+</ol>  
+</li>  
+</ol>  
+
+{:start="250"}
+250. I explained to Members earlier. The Bill is narrower in terms than the current law. The power this Bill gives to a Minister is: Minister declares that an article contains falsehoods, asks for a Correction to be carried, or in some cases, Take Down. It is open to challenge in Court. If Minister is wrong, he gets overruled.
+ 
+{:start="251"} 
+251. This inaccurate claim is then sought to back up a series of other inaccurate claims.
+
+
+<ol start="252">
+  <li>One, it creates a new crime; spreading of falsehoods is a new crime. That’s quite inaccurate.
+  
+<ol style="list-style-type: lower-alpha">
+<li>It already exists under Section 45 of the Telecommunications Act (now under MOA) and applies to the Internet. The TA criminalises falsehoods. Bill covers the same ground - falsehoods.</li>
+<li>But in terms of intent, the Bill requires the person to have known or had reason to know not only that it was false, but also that spreading it was likely to prejudice public interest. So in fact, there are two requirements for knowledge, and both requirements have to be satisfied. Whereas in the TA, it just requires the sending out of falsehoods.</li>
+</ol>
+</li>  
+</ol>  
+
+
+{:start="253"}
+253. Second, it is often said that recourse to judicial review is not available under the Bill. Short answer: Wrong.
+ 
+{:start="254"} 
+254. Third, a judge cannot examine the proportionality of a Direction. Wrong.
+ 
+{:start="255"} 
+255. Fourth, the power in clause 61 of the Bill to exempt certain persons from the Act can be used for some unstated sinister purpose. This exemption power is a common provision in many pieces of legislation.  It’s found in the Executive Condominium Housing Scheme Act, Postal Services Act, Active Mobility Act, Dangerous Fireworks Act, and a wide variety of laws. I explained for example, when it is not possible to comply with the Act, due to reasons such as technical impossibility, then you could rely on this.
+
+
+<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Fact vs Opinion </li>  
+</ol>  
+
+{:start="256"}
+256. Next, some academics have said that: (a) truth is relative; (b) Impossible to state what is a “fact” as opposed to what is “false and misleading”; and (c) this will affect academic work. Minister Ong Ye Kung will respond on matters specific to academia.
+ 
+{:start="257"} 
+257. I will just say this: their concerns appear to be expressed without an understanding of the existing legal position. And how this Bill fits in. I’m not sure how many of them are aware of the BA, the TA, the MOA, other legislation.
+ 
+{:start="258"} 
+258. Just to give you a couple of examples: A law lecturer signed the letter. Did he know the current legal position?
+ 
+{:start="259"}
+259. Another signatory in a recent interview with Civicus, an international NGO, made several completely erroneous statements. He said the Bill defines a “falsehood” tautologically, such that any government Minister can define a statement as false based on “public interest”.
+ 
+{:start="260"} 
+260. These are two different and conjunctive requirements: you have to show it is a false statement of fact, and you have to show it affects public interest. He, unfortunately, seems to conflate the two and says if it is contrary to ‘public interest’ then we can declare it as false. Of course, if you believe that, then you will get very worried.
+
+{:start="261"}
+261. I read the interview more than once to try and see if that is what he really meant. But that is what the words say. It is very odd. A fairly fundamental error. If that is what the Bill states it will be quite illogical – “it is false because public interest is involved”.
+ 
+{:start="262"} 
+262. If a Singaporean academic can be mistaken on such a basic point or set of points, then it is understandable that foreign academics could have signed without an understanding or appreciation of the true position
+ 
+{:start="263"} 
+263. As I have said, laws that target false statements of fact have been around for a long time. Meanwhile in the last 15 years of The Times world rankings, NUS rankings went from: 18 to 8, and NTU rankings went from: 50 to 12. There is no legal or logical basis for the concerns that this Bill will stifle academic research specifically.
+ 
+{:start="264"} 
+264. As I said, Minister Ong will respond later on some points.
+ 
+{:start="265"} 
+265. Then it has been said: Why not define ‘fact’ and state that opinion is not covered? We have considered this carefully and decided, better not. There is a body of case law on what is “fact” and what is not fact. It is better to rely on existing case law. When there is a dispute, the matter can be dealt with by the Courts. So, how else do you decide?
+
+
+<ol start="3" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+  <li>Chilling Effect </li>  
+</ol>  
+
+{:start="266"} 
+266. Next, chilling effect. I think this must be one of the most overused phrases.
+ 
+{:start="267"} 
+267. Free speech should not be affected by this Bill. We are talking here about falsehoods, we are talking about bots, we are talking about trolls, we are talking about fake accounts and so on.
+
+
+
+<ol start="268">
+<li>Prof Thio Li-ann gave evidence during the SC hearings on the ambit of free speech, and whether falsehoods were free speech. She made the following points:
+  
+<ol>
+<li>Not all forms of speech are worthy of equal protection. For example, if you falsely cry “fire” in a crowded theatre, that’s not protected as valuable speech.</li>
+<li>A UK House of Lords’ judgment says: “There is no human right to disseminate information that is not true… No public interest is served by communicating misinformation…The working of a democratic society depends on the members of that society being informed and not misinformed… Misleading people and … purveying as facts as statements which are not true is destructive of the democratic society…”</li>
+<li>Where speech does not serve the justifications for free speech, by harming the search for truth or by preventing citizens from becoming informed on issues, that does not warrant protection.</li>
+</ol>
+  
+</li>  
+</ol>  
+
+<ol start="4" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Definition of “Public Interest” </li>
+</ol>  
+
+{:start="269"}
+269. Next, the definition of “public interest” is too wide. It’s Important to remember that the Bill does not cover statements just because they are against public interest. Those statements must be false statements of fact in the first place.
+ 
+{:start="270"} 
+270. Some have said that the definition of what is in the public interest is too wide, that it should not include Clause 4(f), which relates to the diminution of public confidence in the functions of government institutions.
+ 
+{:start="271"} 
+271. I have explained earlier in some detail, maybe in too considerable a detail, how online falsehoods seek to break down trust by attacking institutions. It is important to protect institutions from falsehoods.
+ 
+{:start="272"} 
+272. If you look at the point I made many times, if you look at the current definition, and you look at the existing definition, you can decide for yourself which is wider.
+
+
+<ol start="5" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<li>Challenging a Minister’s decision </li>
+</ol> 
+
+{:start="273"}
+273. It is said it is difficult to challenge a Minister’s decision.  I have previously said, that the process that will be in place. It will be fast. It will be simplified to allow individuals to appear and present arguments on whether it is true or false. The detailed procedure will be in subsidiary legislation, and that is usual. But I will set out an overview of the process.
+ 
+{:start="274"} 
+274. First, an aggrieved person must apply to the Minister to cancel a Direction. This is consistent with the usual position of exhausting administrative remedies before resorting to the courts. We will provide a standard form online for aggrieved persons to use. The form must be sent to an email address which will be set out in the Direction. And the relevant Minister must make a decision no later than 2 days after the form is received, excluding non-working days.
+
+<ol start="275">
+<li>The appeal to Court will be similarly quick.
+  
+<ol style="list-style-type: lower-alpha">
+<li>The appeal to Court will be similarly quick.</li>
+<li>Simple standard forms will be provided for the appeal documents that an Appellant can fill out and file in the Court.</li>
+<li>The Court will be asked to fix the hearing within 6 days of an application being filed. The appellant attends before the Duty Registrar to request for an expedited hearing, again in the manner prescribed by the Rules of Court.</li>
+<li>The documents will need to be served on the Minister no later than the next day. Again an email address will be provided for the appellant to serve the documents on the Minister, to make it easy for him.</li>
+<li>The Minister must then file his or her reply in court, no later than 3 days after the documents are served as prescribed.</li>
+<li>As stated earlier, meanwhile the Court will fix the hearing no later than 6 days after the date on which the court first receives the application.</li>
+</ol>
+</li>  
+</ol>
+
+{:start="276"}
+276. So, to summarise, a person aggrieved by a Direction will have the opportunity to have his or her case heard in the High Court as early as 9 days after he initiates a challenge to the Minister. So this includes the time the Minister responds, the time for filing, the time for him to file, and the hearing, that is, beginning to end. If he moves very fast, it can be 9 days. They will have to be working days.
+ 
+{:start="277"} 
+277. The Court will continue, of course, to have a general discretion to extend timelines where there is good reason to do so. How long the hearing takes and how long the Courts take to decide are matters for the Courts. Parliament and the Executive cannot intervene in that. We can say when it should be heard, we cannot say when it should be decided.
+ 
+{:start="278"} 
+278. Court fees will be kept very low, for individuals. No hearing fees will be charged for the first 3 days. Further days of hearing will be charged at the usual rate. But even then, the Court will have power to waive fees. This should not be taken as license to abuse the process. Courts will still have the power to deal with parties in the usual manner, including how they conduct themselves.
+
+<ol start="4" style="list-style-type: upper-roman; font-weight:bold;">
+  <li><u>Illustrations</u></li>  
+</ol>  
+
+{:start="279"}
+279. Associate Professor Eugene Tan of SMU suggested that we use illustrations during 2R, to explain the: difference between fact, opinion. Good suggestion So I asked for some illustrations from groups we met: CAPE – students from NUS and academics. The list is enclosed and circulated to all members and will form part of the record. I will refer to some additional examples.
+ 
+{:start="280"} 
+280. A Professor of Law states that the death penalty in Singapore does not deter crime, as shown by several studies. These studies present real data. That is a conclusion drawn from certain studies. It is a statement of opinion, and not covered by the Bill. But if that Professor refers to a non-existent study, or non-existent data, then that is a false statement of fact.
+ 
+{:start="281"} 
+281. This example is drawn from a recent incident, and was one of the illustrations submitted. Person A states that the Government is showing “double standards” by having two different permit regimes to govern public activist events on political issues on the one hand, and a public meet-up by an influencer on the other. It is true that two different permit regimes apply to the two different kinds of events. Therefore, A’s statement is an opinion, and is not covered by the Bill.
+ 
+{:start="282"} 
+282. However, if A says or implies that the same permit rules govern both kinds of events, and double standards were applied for the granting of permits, essentially suggesting bias – based on the point that the same legislation and rules apply for both. That is a false statement of fact. It can be covered by the Bill.
+ 
+{:start="283"} 
+283. The remedy would usually be a clarification. Forms of clarification will be set out in subsidiary legislation. Basically, a link to where the classification can be found, with a statement that the article contains inaccuracies or is false and reference giving to the link for the true facts. And people can read the truth for both documents and decide for themselves. It actually encourages a more honest and more open discussion.
+ 
+{:start="284"} 
+284. Another illustration: An economist states that the home-ownership rate in Singapore is only 9%, and Explains that the definition of home ownership used excludes any lease, regardless of whether the lease is for 9 years or 99 years. That is a conclusion based on a certain methodology. He says that and the methodology is set out. It is not covered by the Bill. The Government can of course disagree with that view. But if, however, the economist says that the number of persons that own freehold property in Singapore is X, when it is actually Y, then that is a false statement of fact.
+ 
+{:start="285"} 
+285. Another illustration: “B” publishes an online article stating that the social welfare system in Singapore has gaps. That conclusion is drawn from interviews with government officials and social workers. The government can disagree with the conclusion. This does not come under the Bill. If, however, B’s article says that welfare assistance had been denied to a needy elderly person, when assistance had in fact been given, then is a false statement of fact.
+ 
+{:start="286"} 
+286. If public interest is affected, then it can come under this Bill. In all of these, it is not enough to show that it is false. It must also be affecting public interest. This is a situation where again the original article can carry a clarification.
+ 
+{:start="287"} 
+287. I will use another recent incident to illustrate. In the case relating to Mr Nicholas Lim, there were questions as to why he was not charged. The police investigated the case. They gave a conditional warning. Some made allegations that Mr Lim was not prosecuted because his parents were influential. That was false: his father was a driver in the public transport sector; mother, a housewife.
+ 
+{:start="288"} 
+288. So, the illustrations, once you look at them, it’s quite clear. Courts have long dealt with this. It is really ought not to be an issue and we have had this legislation in the books for a long time.
+
+<ol start="5" style="list-style-type: upper-roman; font-weight:bold">
+<li><u>Notice of Amendment by 3 NMPs</u></li>  
+</ol>  
+
+
+{:start="289"} 
+289. Next let me turn to the Notice of Amendment (NOA) put forth by the NMPs.
+ 
+{:start="290"}  
+290. As I have said elsewhere, there is substantial agreement between the NMPs and us on the major points of the Bill. The differences we have, on the Directions regime are mainly on matters of process.
+ 
+{:start="291"}  
+291. They have made 4 proposals.
+ 
+{:start="292"}  
+292. First, the three Nominated Members have proposed that the Directions provide more specific reasons on falsity and public interest.
+ 
+{:start="293"}  
+293. I agree with the principle underpinning the first part of this proposal. The Government, when it says something is false, must obviously set out reasons why it is false. We intend to set this out in subsidiary legislation. When the Directions are given, there must be a statement as to why a statement is said to be false. This was intended all along. The legislation is specifically designed for this purpose. Clause 13(4) allows for subsidiary legislation to be made, to set out the requirements for Directions.
+ 
+{:start="294"}  
+294. It is a question of operationalisation. When a Minister issues a Direction, what kind of information should be contained in the Direction? Why something is false, as I have explained, should be explained in the Direction. What should be the level of detail? I think it is difficult to set out up front. It must be left in each case on what extent of detail should be specified. It is really more appropriate to use subsidiary legislation to set out the requirements. And subsidiary legislation is law, and it is public, and is transparent and open to scrutiny.
+ 
+{:start="295"}  
+295. Separately on public interest: I am not comfortable requiring a setting out of detailed reasons on how a particular course of action serves public interest. The level of detail depends on each case. It is difficult for Parliament today to envisage what are the types of cases. How are you going to even set out what level of detail ought to be set out? You don’t even know what the case is about. But you must set out enough detail and, if not, you take the risk of a Court challenge and then you go explain to the judge.
+ 
+{:start="296"}  
+296. If there is a challenge then the Government will have to show public interest and we will have to explain in Court why the information provided is adequate, and it depends on whether the Court accepts the explanation. So that is the best way of dealing with these things. You cannot go up front and try to legislate every detail.
+ 
+{:start="297"}  
+297. Their second proposal is to set out in the primary legislation that the appeal to the Minister is to be “adjudicated without delay”. I agree with the policy. It is just a difference on how it should be implemented. Timelines are usually set out in the subsidiary legislation and I have set out what the timelines are that we are going to put in place. This will be in law by way of subsidiary legislation.
+ 
+{:start="298"}  
+298. We are going further than what the three NMPs have proposed. Their amendment proposes and I quote, that the “Minister shall do everything reasonable to ensure that appeals to the Minister are adjudicated without delay…High Court hearings shall commence as soon as practicable, and that costs to the appellant are minimised”. Assuming you put these broad principles in legislation, without any specifics. What is “as soon as practicable” and what is “without delay?” Court hearings today can take anything within 12 – 18 months, sometimes longer. So, if we had it in six months is that “as soon as practicable?” Obviously so.
+ 
+{:start="299"}  
+299. So, one should avoid this sort of imprecise language in legislation because Minister shall respond “as soon as practicable” –  is that 12 days, is that 14 days, is that 30 days? How are you going to challenge? How are you going to say “Well it takes six months for the hearing to take place? The short answer to that will be, “Well, you know, it is “as soon as practicable” compared to the fact that it takes 18 months now.” You really do not want to go into that territory. What you want are precise timelines, the kind of timelines I have given. From the time you send the notice to the Minister, to the time you are in Court, very precise. If you get your act together, nine days. Much clearer.
+ 
+{:start="300"}  
+300. I am arguing against the Government being given more time. I do not think it is good enough simply to say “do everything reasonable” to decide quickly. You must mandate that the Minister decides within a certain time period and it is not enough for High Court hearings to commence as soon as practicable. We should set out when the hearing should start.
+ 
+{:start="301"}  
+301. The third proposal made by the three Nominated Members is the proposal to insert key principles into the Act.  I appreciate the intent underpinning the proposal.  But frankly, without any disrespect, some of the proposals are unworkable and some others are unsuitable for primary legislation. I can understand that they are not lawyers, so let me just take them through.
+ 
+{:start="302"}  
+302. If you look at para (a), it covers the importance of critical thinking to democracy. The principle is important. This was acknowledged by the Select Committee in recommendations 1 and 2, which the Government accepted. It is one of the tools that supports the development of a well-informed public. But you need legislation at the same time and you have got to have legislation work with non-legislative measures. In the kind of situations, we are talking about, there is no question whatsoever, that legislation is essential and this Bill is about legislation.
+ 
+{:start="303"}  
+303. Separately, the Government has committed to a whole series of non-legislative matters. Parliament has questioned the various ministries, ranging from public education to media literacy, there are a variety of things. But when there is public interest involved and there is falsehood, the Nominated Members accept the Bill is necessary, then there can be no argument that the Bill has to be used and the powers under the Act have got to be used. It is necessary then to push out the facts to the public by way of correction, to inoculate them against the falsehood.
+ 
+{:start="304"}  
+304. The evidence is set out in the SC report – if you look at paragraphs 390 to 396 and 425. So you do not get much by adding this to the legislation. You have got to be very clear, the legislation is for this purpose.
+ 
+{:start="305"}  
+305. Then, there are a group of proposals which targets a sort of negative list when statements are not false, and when statements are not statements of fact, you want the principles in. I understand the intent, which is to try and clarify matters. But if you look at your proposals (b) and (c), they essentially relate to the process of establishing truth and falsehood.
+ 
+{:start="306"}  
+306. As I have said, there is an entire body of law in this area, the law of evidence is there to deal with the question of how facts should be established. The question of how truth or falsity should be established. And it should draw from the body of principles that form part of case law.
+ 
+{:start="307"}  
+307. It would not serve the rigour of this process to point out some, but not the others. Then you go and start putting this thing in, you run the risk of trying to take out or deal with some parts of it and it is an interesting body of law. The Courts will deal with it, where necessary, precisely to deal with the question of how facts should be established.
+ 
+{:start="308"}  
+308. Similarly, on principle (g) I have already explained why it is preferable to rely on the existing case law.
+ 
+{:start="309"}  
+309. The third group of statements proposed at (e) and (f) essentially relate to proportionality. Proportionality is already incorporated into the requirements under the Bill and it is stronger than your proposal. Because when it is incorporated in the Bill, it is part of the legal requirement. Yours are only statements of principles. This is already in the law.  So, the legal test already requires that the power can only be exercised when it is necessary or expedient in the public interest to do so.  Government has gone one step further, perhaps more than one step further, than what you have proposed.
+ 
+{:start="310"}  
+310. Finally, principle (d). The Bill only deals with situations where there is a falsehood which affects public interest. So it would not make sense to suggest that we insist upon non-legislative measures when public interest is at stake because there is a need to respond quickly to counteract the damage. So does that mean by putting this in that you do not ask for corrections?
+ 
+{:start="311"}  
+311. I caution you, it can lead to endless litigation. Let us say the Minister seeks to act under the Bill, and there is a principle here; then it can be argued, “Well you know, in this case you shouldn’t act, because it is not necessary. You can take non-legislative measures.” Someone argues that. It may fail, but that can take months.  It can create a fair bit of confusion as well. So we should just be very clear what the Bill provides, what is the framework for the Bill, and try not to over-egg the pudding. It would run more risk that way.
+ 
+{:start="312"}  
+312. We should have a robust debate here, explain what the Bill is all about, have it as a matter of record in the Hansard and that is used by the courts as a matter of interpretation. The Nominated Members’ concern about enshrining principles in a manner which will bind future governments, I think is really best served by the debate and by the Courts serving as an oversight mechanism and interpreting the provisions in future. But you know, a future Government can always amend. So that is a separate point.
+ 
+{:start="313"}  
+313. Finally, there is a proposal for an independent council – the fourth amendment. I understand their intent again. This is a good faith attempt to ensure that the conversation on this important issue continues both on the nature of the problem and on how the legislation is implemented. The Government agrees that these are conversations should continue.
+
+<ol start="314">
+<li>The question is, is establishing another council the best way? Would it lead to unnecessary bureaucratic bloat?  All of the functions of this council can be achieved under the current structure of the Executive and Parliament.
+<ol style="list-style-type: lower-alpha">
+<li>On accountability, Ministers, the Executive, are responsible to Members of this House, to Parliament. Every time there is an exercise of power which seems to you to be not clear, you ask questions. You just look at the questions that have been filed since you became Nominated Members, every major issue, anything that happens, from NUS to other areas, you do not need to wait for one year. It is raised immediately and answers are given.</li>  
+<li>Remember I said about authenticity. The Singapore public must know this institution works and if there is a question, it will be answered. There has got to be the trust as well, and where the trust is not merited, that has got to be exposed as well.</li>
+<li>Parliament is the representative body. It is meant to work in a democracy in this way where Members of Parliament hold the Ministers accountable and check and ask questions. You do not keep creating bodies and then who checks on them? So, it is really more effective to rely on the strength of our current institutions – direct accountability.</li> 
+<li>And together with accountability to the Courts. So, you have the Parliament, you have the Courts. Any time there is a question, it can be challenged in Courts, it can be challenged in Parliament.</li>
+<li>If you keep getting it wrong, the electorate will have something to say about it.</li>
+</ol>
+  
+</li>  
+</ol>  
+
+
+{:start="315"}
+315. So I think I have covered most of the major arguments. I have set out the nature of the philosophical reasons for the Bill at some length – perhaps too considerable a length, for which I apologise.
+ 
+{:start="316"} 
+316. With that Sir, I beg to move.
 
