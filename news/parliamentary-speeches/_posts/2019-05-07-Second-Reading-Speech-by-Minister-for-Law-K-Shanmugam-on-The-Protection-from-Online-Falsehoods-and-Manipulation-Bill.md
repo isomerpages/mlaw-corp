@@ -5,6 +5,7 @@ date:   2019-05-07
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Minister-for-Law-K-Shanmugam-on-The-Protection-from-Online-Falsehoods-and-Manipulation-Bill
 ---
 
+7 May 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 **<u>Introduction</u>**
 
@@ -48,7 +49,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Minister-for-La
 
 
 <ol style="list-style-type: upper-alpha">
-<li style="font-style:italic">
+<li style="font-style:italic; font-weight:bold">
 Existing powers are wider than the Bill’s proposed powers
 </li>
 </ol>
@@ -921,7 +922,7 @@ This is a politics that can – and has, in some countries, destroyed democracy 
 
 <ol start="186">
 <li>Falsehoods today travel easily and widely across multiple platforms. In 2017, a news article that a Russian aircraft had managed to electronically disable a US warship, was posted on a Russian state-controlled news site.
-<ol style="list-style-type: lower-roman">
+<ol style="list-style-type: lower-alpha">
 <li>The article used a parody that had been published a few years before, and presented it as truth. You can see how it is not just the labels that matter. People can be made to believe that parody is in fact true. There is a need to look at the material objectively. It was designed to glorify Russia and undermine confidence in the US Navy.</li>
 <li>In 2 days, it was picked up by mainstream outlets in the US and Europe. You can see how it spreads. In less than 7 days, cross-posted on dozens of news sites, and their social media pages, catered to different countries and demographics. Fox News’ version was shared over 27,000 times. The Sun’s version was shared over 10,000 times.</li>
 </ol>
@@ -1238,7 +1239,7 @@ Let me deal with each.
 255. Fourth, the power in clause 61 of the Bill to exempt certain persons from the Act can be used for some unstated sinister purpose. This exemption power is a common provision in many pieces of legislation.  It’s found in the Executive Condominium Housing Scheme Act, Postal Services Act, Active Mobility Act, Dangerous Fireworks Act, and a wide variety of laws. I explained for example, when it is not possible to comply with the Act, due to reasons such as technical impossibility, then you could rely on this.
 
 
-<ol style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
+<ol start="2" style="list-style-type: upper-alpha; font-weight:bold; font-style:italic">
 <li>Fact vs Opinion </li>  
 </ol>  
 
@@ -1288,7 +1289,7 @@ Let me deal with each.
 <ol start="268">
 <li>Prof Thio Li-ann gave evidence during the SC hearings on the ambit of free speech, and whether falsehoods were free speech. She made the following points:
   
-<ol>
+<ol style="list-style-type: lower-alpha">
 <li>Not all forms of speech are worthy of equal protection. For example, if you falsely cry “fire” in a crowded theatre, that’s not protected as valuable speech.</li>
 <li>A UK House of Lords’ judgment says: “There is no human right to disseminate information that is not true… No public interest is served by communicating misinformation…The working of a democratic society depends on the members of that society being informed and not misinformed… Misleading people and … purveying as facts as statements which are not true is destructive of the democratic society…”</li>
 <li>Where speech does not serve the justifications for free speech, by harming the search for truth or by preventing citizens from becoming informed on issues, that does not warrant protection.</li>
@@ -1447,7 +1448,7 @@ Let me deal with each.
 308. Similarly, on principle (g) I have already explained why it is preferable to rely on the existing case law.
  
 {:start="309"}  
-309. The third group of statements proposed at (e) and (f) essentially relate to proportionality. Proportionality is already incorporated into the requirements under the Bill and it is stronger than your proposal. Because when it is incorporated in the Bill, it is part of the legal requirement. Yours are only statements of principles. This is already in the law.  So, the legal test already requires that the power can only be exercised when it is necessary or expedient in the public interest to do so.  Government has gone one step further, perhaps more than one step further, than what you have proposed.
+309. The third group of statements proposed at (e) and (f) essentially relate to proportionality. Proportionality is already incorporated into the requirements under the Bill and it is stronger than your proposal. Because when it is incorporated in the Bill, it is part of the legal requirement. Yours are only statements of principles. This is already in the law.  So, the *legal test* already requires that the power can only be exercised when it is necessary or expedient in the public interest to do so.  Government has gone one step further, perhaps more than one step further, than what you have proposed.
  
 {:start="310"}  
 310. Finally, principle (d). The Bill only deals with situations where there is a falsehood which affects public interest. So it would not make sense to suggest that we insist upon non-legislative measures when public interest is at stake because there is a need to respond quickly to counteract the damage. So does that mean by putting this in that you do not ask for corrections?
