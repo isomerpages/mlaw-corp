@@ -60,14 +60,12 @@ b.	The role of the CMC has definitely evolved over the years. In 2014, in additi
     <ol style="list-style-type: lower-roman">
         <p></P><p></P><li>That is a wonderful tool because grassroots leaders sometimes see first-hand the escalation of the problem, and having that training helps you to defuse, to de-escalate and to try to manage the disagreements.</li>
     </ol>
-<br><br>
 c.	In 2014, the Government consulted the public on how to encourage good neighbourliness and to improve the management of disputes between neighbours. 
 <br><br>
 d.	The views that were gathered contributed ultimately to the strengthening of the Community Disputes Management Framework, including the Community Disputes Resolution Act and of course, the establishment of the Community Disputes Resolution Tribunal (CDRT) in 2015.
     <ol style="list-style-type: lower-roman">
     <p></P><p></P><li>These changes clearly enhanced protection for residents to enjoy their own place – where they live, the peace and quiet of their own home.</li>
-    </ol>
-<br><br>    
+    </ol>    
 e.	And in 2015, the State Courts followed suit, so there is also the State Courts’ Centre for Dispute Resolution (CDR) which  was established within the state courts set up to provide such services in that system. 
 </ol>
 
