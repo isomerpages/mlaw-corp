@@ -145,6 +145,7 @@ d.	We have an open regime when it comes to foreign law and dispute resolution.
 <li>Singapore is home to many key international dispute resolution institutions, not just Singapore institutions.</li>
 <li>These institutions include the ICC International Court of Arbitration, the Permanent Court of Arbitration, the American Arbitration Association-International Centre for Dispute Resolution and the World Intellectual Property Organisation Arbitration and Mediation Center (WIPO AMC).</li>
 </ol>
+<br>
 e.	These are all based in Maxwell Chambers, which houses best-in-class hearing facilities as well as dispute resolution institutions and practices. 
 <ol style="list-style-type: upper-roman">
         <p></P><p></P>
