@@ -62,28 +62,28 @@ c.	There is a 3.2 percentage point difference in growth rate. This is compounded
 {:start="9"}
 9.	The rise of Asia presents opportunities for the region and there is a lot of potential for collaboration between Singapore and China. We are already working together in the area of dispute resolution to support business needs.   
 
-{:start="9"}
-9.	It inevitably causes a breakdown of the relationship between neighbours in the long term. 
+{:start="10"}
+10.	It inevitably causes a breakdown of the relationship between neighbours in the long term. 
 
 <u>Belt and Road Initiative</u>
 
-{:start="10"}
-10.	First, the Belt and Road Initiative. BRI projects involve cross-border, high-value, long-term investments. Businesses need a mechanism for disputes to be fairly and efficiently resolved. 
-
 {:start="11"}
-11.	Singapore Prime Minister Lee Hsien Loong and Chinese President Xi Jinping have identified legal and judicial cooperation as a new area of cooperation. In September last year, it was included as an agenda item under BRI cooperation at the Joint Council for Bilateral Cooperation, which is an annual high-level bilateral platform that oversees Singapore-China cooperation. The 15th JCBC meeting is being held as I speak. 
+11.	First, the Belt and Road Initiative. BRI projects involve cross-border, high-value, long-term investments. Businesses need a mechanism for disputes to be fairly and efficiently resolved. 
 
 {:start="12"}
-12.	We have stepped up cooperation in the past year. Earlier this year, the Singapore Ministry of Law co-organised the first high-level international dispute resolution conference with the China Council for the Promotion of International Trade (CCPIT) in Beijing. Both sides found it so useful that we agreed to hold this every year, alternating between Singapore and China, and we hope Singapore will host the next one early next year. 
+12.	Singapore Prime Minister Lee Hsien Loong and Chinese President Xi Jinping have identified legal and judicial cooperation as a new area of cooperation. In September last year, it was included as an agenda item under BRI cooperation at the Joint Council for Bilateral Cooperation, which is an annual high-level bilateral platform that oversees Singapore-China cooperation. The 15th JCBC meeting is being held as I speak. 
 
 {:start="13"}
-13.	I am happy that our institutions are also working together. The Singapore International Arbitration Centre (SIAC) and the Singapore International Mediation Centre (SIMC) will be signing MOUs with BIAC later to deepen collaboration in dispute resolution. 
+13.	We have stepped up cooperation in the past year. Earlier this year, the Singapore Ministry of Law co-organised the first high-level international dispute resolution conference with the China Council for the Promotion of International Trade (CCPIT) in Beijing. Both sides found it so useful that we agreed to hold this every year, alternating between Singapore and China, and we hope Singapore will host the next one early next year. 
 
 {:start="14"}
-14.	Moving forward, Singapore and China can work together to develop a dispute resolution mechanism that is tailored to meet the needs of Asia and BRI, which enjoys international credibility. 
+14.	I am happy that our institutions are also working together. The Singapore International Arbitration Centre (SIAC) and the Singapore International Mediation Centre (SIMC) will be signing MOUs with BIAC later to deepen collaboration in dispute resolution. 
 
 {:start="15"}
-15.	One such area of cooperation as mentioned just now could be investor-state disputes. The number of investor-state disputes is growing. 
+15.	Moving forward, Singapore and China can work together to develop a dispute resolution mechanism that is tailored to meet the needs of Asia and BRI, which enjoys international credibility. 
+
+{:start="16"}
+16.	One such area of cooperation as mentioned just now could be investor-state disputes. The number of investor-state disputes is growing. 
 <ol style="list-style-type: lower-alpha">
 a.	As of 2018, there were 942 known treaty-based investor-state dispute settlement cases.
 <br><br>
@@ -92,8 +92,8 @@ b.	71 new arbitrations were initiated in 2018 alone.
 c.	10 years ago, there were only less than 50 new arbitrations every year. 
 </ol>
 
-{:start="16"}
-16.	The Singapore International Dispute Resolution Academy (SIDRA) conducted a survey with over 300 corporates and external counsel on the use of dispute resolution mechanisms between 2016 and 2018. 
+{:start="17"}
+17.	The Singapore International Dispute Resolution Academy (SIDRA) conducted a survey with over 300 corporates and external counsel on the use of dispute resolution mechanisms between 2016 and 2018. 
 <ol style="list-style-type: lower-alpha">
 a.	It found that institutional arbitration was most commonly used in investor-state disputes. 
 <br><br>
@@ -102,17 +102,17 @@ b.	The top considerations were enforceability, impartiality and political sensit
 c.	However, only 27% of corporate users said they were satisfied with enforcement outcomes. 
 </ol>
 
-{:start="17"}
-17.	Many dispute resolution institutions have moved into the space to tailor their rules and procedures to such disputes, to meet the growing needs of investors. SIAC came up with its first edition of investment arbitration rules in 2017. It deals with issues in international investment arbitrations such as delays, cost, confidentiality, submissions by non-disputing parties and funding arrangements.  
-
 {:start="18"}
-18.	I understand that BIAC is also coming up with its set of rules. This is an area that we can exchange ideas and share expertise, to better serve the needs of business users. 
+18.	Many dispute resolution institutions have moved into the space to tailor their rules and procedures to such disputes, to meet the growing needs of investors. SIAC came up with its first edition of investment arbitration rules in 2017. It deals with issues in international investment arbitrations such as delays, cost, confidentiality, submissions by non-disputing parties and funding arrangements.  
 
 {:start="19"}
-19.	Apart from investor-states disputes, another potential area under BRI is infrastructure. Large-scale infrastructure projects tend to be long-term, high value and more complex. Parties may desire a proactive dispute prevention approach to minimise risks of time and cost overruns. 
+19.	I understand that BIAC is also coming up with its set of rules. This is an area that we can exchange ideas and share expertise, to better serve the needs of business users. 
 
 {:start="20"}
-20.	Singapore launched the	Singapore Infrastructure Dispute-Management Protocol for infrastructure projects last year to provide an additional option for parties. The protocol builds on international best practices and introduces a few novel features. For example: 
+20.	Apart from investor-states disputes, another potential area under BRI is infrastructure. Large-scale infrastructure projects tend to be long-term, high value and more complex. Parties may desire a proactive dispute prevention approach to minimise risks of time and cost overruns. 
+
+{:start="21"}
+21.	Singapore launched the	Singapore Infrastructure Dispute-Management Protocol for infrastructure projects last year to provide an additional option for parties. The protocol builds on international best practices and introduces a few novel features. For example: 
 <ol style="list-style-type: lower-alpha">
 a.	It takes a proactive approach to dispute prevention. A dispute Board is appointed from the start of the project, rather than after the disputes have arisen. 
 <br><br>
@@ -121,17 +121,17 @@ b.	It provides a wider range of methods, including mediation, rendering an opini
 
 <u>Using Singapore as a base</u>
 
-{:start="21"}
-21.	Secondly, we welcome Chinese dispute resolution institutions, businesses and law firms to consider Singapore as a base to service the region. 
-
 {:start="22"}
-22.	Singapore and China share very close economic ties. China is Singapore’s largest trading partner and Singapore is China’s largest foreign investor since 2013. In 2018, Singapore was China’s largest foreign investment destination along the Belt and Road capturing close to 23%, almost a quarter of total investment flow from China to Belt and Road countries. 
+22.	Secondly, we welcome Chinese dispute resolution institutions, businesses and law firms to consider Singapore as a base to service the region. 
 
 {:start="23"}
-23.	As a business hub in Asia, Singapore is home to 46% of Asia regional headquarters across a diverse range of industries. More Chinese companies have set up their regional headquarters, R&D and manufacturing operations in Singapore in recent years. There are now more than 9,000 Chinese companies in Singapore. 
+23.	Singapore and China share very close economic ties. China is Singapore’s largest trading partner and Singapore is China’s largest foreign investor since 2013. In 2018, Singapore was China’s largest foreign investment destination along the Belt and Road capturing close to 23%, almost a quarter of total investment flow from China to Belt and Road countries. 
 
 {:start="24"}
-24.	Chinese institutions and firms can tap on Singapore’s strong dispute resolution ecosystem, which we have developed over the years. 
+24.	As a business hub in Asia, Singapore is home to 46% of Asia regional headquarters across a diverse range of industries. More Chinese companies have set up their regional headquarters, R&D and manufacturing operations in Singapore in recent years. There are now more than 9,000 Chinese companies in Singapore. 
+
+{:start="25"}
+25.	Chinese institutions and firms can tap on Singapore’s strong dispute resolution ecosystem, which we have developed over the years. 
 <ol style="list-style-type: lower-alpha">
 a.	We have a trusted legal system undergirded by our neutrality and strong rule of law. 
 <br><br>
@@ -156,26 +156,26 @@ e.	These are all based in Maxwell Chambers, which houses best-in-class hearing f
 
 <u>Mediation</u>
 
-{:start="25"}
-25.	Thirdly, Singapore and China can work together to promote mediation. 
-
 {:start="26"}
-26.	Mediation has many advantages and benefits for businesses. It is cheaper, faster and non-adversarial. However, it has not been widely used by businesses. A key reason is the lack of mechanism for cross-border enforceability of mediated settlement agreements. 
+26.	Thirdly, Singapore and China can work together to promote mediation. 
 
 {:start="27"}
-27.	In the same survey by SIDRA, respondents indicated arbitration as their most commonly used dispute resolution mechanism. 
+27.	Mediation has many advantages and benefits for businesses. It is cheaper, faster and non-adversarial. However, it has not been widely used by businesses. A key reason is the lack of mechanism for cross-border enforceability of mediated settlement agreements. 
 
 {:start="28"}
-28.	A key reason is the ability to enforce outcomes. While arbitral awards are widely enforceable across jurisdictions under the New York Convention, there was no such mechanism for mediated settlement agreements. 
+28.	In the same survey by SIDRA, respondents indicated arbitration as their most commonly used dispute resolution mechanism. 
 
 {:start="29"}
-29.	The Singapore Convention on Mediation is therefore significant. It provides for cross-border enforcement of international commercial settlement agreements resulting from mediation in contracting states. Businesses will benefit from greater certainty and assurance. 
+29.	A key reason is the ability to enforce outcomes. While arbitral awards are widely enforceable across jurisdictions under the New York Convention, there was no such mechanism for mediated settlement agreements. 
 
 {:start="30"}
-30.	Singapore was honoured to host the signing ceremony of this important Convention on 7 August. 70 countries attended, of which 46 countries signed. I am very happy that China was one of the signatories. Just last month, 5 more countries signed, bringing the total number of signatories to 51. This is a very strong start, given that it has only been 9 months from the time the UN General Assembly passed the resolution to adopt the Convention in December 2018. 
+30.	The Singapore Convention on Mediation is therefore significant. It provides for cross-border enforcement of international commercial settlement agreements resulting from mediation in contracting states. Businesses will benefit from greater certainty and assurance. 
 
 {:start="31"}
-31.	But more work needs to be done for the Convention to truly benefit businesses, and for mediation to be a widely used dispute resolution option. 
+31.	Singapore was honoured to host the signing ceremony of this important Convention on 7 August. 70 countries attended, of which 46 countries signed. I am very happy that China was one of the signatories. Just last month, 5 more countries signed, bringing the total number of signatories to 51. This is a very strong start, given that it has only been 9 months from the time the UN General Assembly passed the resolution to adopt the Convention in December 2018. 
+
+{:start="32"}
+32.	But more work needs to be done for the Convention to truly benefit businesses, and for mediation to be a widely used dispute resolution option. 
 <ol style="list-style-type: lower-alpha">
 a.	We need to encourage countries that signed the Convention to ratify early, for the Convention to come into force and for mediated settlement agreements to be widely enforceable.
 <br><br>
@@ -184,18 +184,18 @@ b.	We also need to raise awareness, so that businesses will be familiar with med
 c.	We also need to build up a strong pool of mediation institutions and practitioners who are capable of handling international commercial mediation and advising parties on its use. 
 </ol>
 
-{:start="32"}
-32.	SIMC’s MOU with BIAC is a strong example of how Singapore and China can work together to raise the quality of mediators and institutions, and promote the wider adoption of mediation globally. 
+{:start="33"}
+33.	SIMC’s MOU with BIAC is a strong example of how Singapore and China can work together to raise the quality of mediators and institutions, and promote the wider adoption of mediation globally. 
 
 **Conclusion**
 
-{:start="33"}
-33.	The signing of the MOUs later marks the start of a new partnership between BIAC and Singapore dispute resolution institutions. 
-
 {:start="34"}
-34.	It is my hope that Singapore’s and China’s legal industries can continue to enhance collaboration to seize new opportunities in the region. 
+34.	The signing of the MOUs later marks the start of a new partnership between BIAC and Singapore dispute resolution institutions. 
 
 {:start="35"}
-35.	Once again, I would like to warmly welcome all our foreign guests to Singapore. I wish everyone a successful and productive conference. Thank you.
+35.	It is my hope that Singapore’s and China’s legal industries can continue to enhance collaboration to seize new opportunities in the region. 
+
+{:start="36"}
+36.	Once again, I would like to warmly welcome all our foreign guests to Singapore. I wish everyone a successful and productive conference. Thank you.
 
 <p class="right-side-updated">Last updated on 15 Oct 2019</p>
