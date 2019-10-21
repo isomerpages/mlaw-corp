@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title:  Speech by Mr Edwin Tong, Senior Minister of State for Law and Health,at the Yellow Ribbon Fund Subhas Anandan Star Bursary Award – Launch of 2019 Fundraising
+title:  Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Yellow Ribbon Fund Subhas Anandan Star Bursary Award – Launch of 2019 Fundraising
 date:   2019-09-27
 permalink: /news/speeches/speech-by-SMS-Edwin-Tong-2019-Yellow-Ribbon-Fund-Subhas-Anandan-Star-Bursary-Award
 --- 
