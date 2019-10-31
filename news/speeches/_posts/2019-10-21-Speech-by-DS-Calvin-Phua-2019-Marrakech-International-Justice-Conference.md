@@ -62,6 +62,7 @@ permalink: /news/speeches/speech-by-DS-Calvin-Phua-2019-Marrakech-International-
 
 {:start="17"}
 17.	However, there was a long-standing obstacle of ensuring that the other party complies with their mediated settlement agreement, especially for cross-border contracts.
+
 {:start="18"}
 18.	The Singapore Convention on Mediation addresses the lack of an effective means to enforce cross-border commercial mediated settlement agreements.
 
