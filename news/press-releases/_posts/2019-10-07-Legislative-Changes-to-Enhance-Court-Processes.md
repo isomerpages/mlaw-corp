@@ -47,7 +47,7 @@ permalink: /news/press-releases/Legislative-Changes-to-Enhance-Court-Processes
 7. The existing High Court, which includes the Singapore International Commercial Court and the Family Division of the High Court, will be renamed the General Division of the High Court. 
 
 {:start="8"} 
-8. Reciprocity is a key requirement in mutual recognition of judgments between at least two countries. As such, recognition of foreign judgments in REFJA is founded on substantial reciprocity of treatment by foreign countries.
+8. The General Division will have all the jurisdiction and powers of the existing High Court.
 
 <ol start="3" style="list-style-type: upper-alpha; font-weight:bold">
 <li>Appellate Division of the High Court </li>
