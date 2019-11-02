@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title:  Speech by Mr Calvin Chua, Deputy Secretary, Singapore Ministry of Law, at the Marrakech International Justice Conference, Morocco
+title:  Speech by Mr Calvin Phua, Deputy Secretary, Singapore Ministry of Law, at the Marrakech International Justice Conference, Morocco
 date:   2019-10-21
 permalink: /news/speeches/speech-by-DS-Calvin-Phua-2019-Marrakech-International-Justice-Conference
 --- 
