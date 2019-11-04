@@ -11,10 +11,10 @@ Organisation Structure
 
 Click image below to enlarge
 <div class="image">
-  <a href="/files/MINLAWORGCHART01November2019.pdf">
+  <a href="/files/Minlaw_Org_Nov_2019.pdf">
     <br>
     <br>
-    <img src="/images/MinlawOrgChart01November2019.png" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/Minlaw_Org_Nov_2019.png" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
