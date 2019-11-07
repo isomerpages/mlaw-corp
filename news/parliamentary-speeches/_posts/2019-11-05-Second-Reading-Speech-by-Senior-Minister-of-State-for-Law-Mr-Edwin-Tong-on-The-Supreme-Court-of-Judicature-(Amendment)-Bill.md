@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on The Supreme Court of Judicature (Amendment) Bill
-date:   2019-11-05
+date:   2019-11-06
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-SCJ-Amendment-Bill
 ---
 
@@ -212,4 +212,4 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 {:start="50"}
 50. Mr. Speaker, I beg to move.
 
-<p class="right-side-updated">Last updated on 05 Nov 2019</p> 
+<p class="right-side-updated">Last updated on 06 Nov 2019</p> 
