@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on The Supreme Court of Judicature (Amendment) Bill
+title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on The Supreme Court of Judicature (Amendment) Bill
 date:   2019-11-05
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-SCJ-Amendment-Bill
 ---
@@ -27,6 +27,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 (a)	We established the new Family Justice Courts in 2014, with the aim of taking a more multi-disciplinary and collaborative approach to family disputes.
 
 (b)	We established the Singapore International Commercial Court (SICC) in 2015, as part of our drive to bolster our status as a hub for resolving commercial disputes. 
+
 {:start="7"}
 7. The Office of Transformation and Innovation was also set up under the auspices of the Supreme Court in 2018. As part of the overarching Courts of the Future blueprint, it has commenced work on various projects and technological enhancements, with a view to enhancing access to justice, improving processes, and also embracing innovative ideas for change. One upcoming initiative is the use of video-conferencing for a variety of non-trial hearings.
  
