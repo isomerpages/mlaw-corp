@@ -5,7 +5,7 @@ date:   2019-11-06
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-SCJ-Amendment-Bill
 ---
 
-5 Nov 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+6 Nov 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 1. Mr Speaker, on behalf of the Minister for Law, I beg to move, “That the Bill be now read a second time”. 
 
