@@ -13,33 +13,12 @@ permalink: /news/announcements/intellectual-property-border-measures-legislation
 
 3. In tandem with the amendments to the Copyright Act and the Trade Marks Act described in paragraph 2, the following border measures subsidiary legislations will also be brought into operation when the EUSFTA enters into force. These subsidiary legislations are provided for general information at the weblinks in the second column of the table below.
 
-<table class="table-v">
-<tr>
-<th></th>
-<th>Border measures subsidiary legislation to be brought into operation when the EUSFTA enters into force</th>
-<th>Remarks</th>
-</tr>
-<tr>
-<td>Copyright</td>
-<td>Copyright (Border Enforcement Measures) (Amendment) Regulations 2019</td>
-<td>To be read together with the Copyright (Border Enforcement Measures) Regulations.</td>
-</tr>
-<tr>
-<td></td>
-<td>Copyright (Border Enforcement Measures Fees) Regulations 2019</td>
-<td>New subsidiary legislation concerning the fees for copyright border measures enforcement.</td>
-<tr>
-<td>Trade Marks</td>
-<td>Trade Marks (Border Enforcement Measures) (Amendment) Rules 2019</td>
-<td>To be read together with the Trade Marks (Border Enforcement Measures) Rules.</td>
-</tr>
-<tr>
-<td></td>
-<td>Trade Marks (Border Enforcement Measures Fees) Rules 2019</td>
-<td>New subsidiary legislation concerning the fees for trade marks border measures enforcement.
-</td>
-</tr>
-</table>
+|             | Border measures subsidiary legislation to be brought into operation when the EUSFTA enters into force                                                                                 | Remarks                                                                                     |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Copyright   | [Copyright (Border Enforcement Measures) (Amendment) Regulations 2019 (214KB)](files/news/announcements/2019/01/Copyright-Border Enforcement Measures-Amendment-Regulations 2019.pdf) | To be read together with the Copyright (Border Enforcement Measures) Regulations.           |
+|             | [Copyright (Border Enforcement Measures Fees) Regulations 2019 (34.9KB)](files/news/announcements/2019/01/Copyright-Border Enforcement Measures Fees-Regulations 2019.pdf)            | New subsidiary legislation concerning the fees for copyright border measures enforcement.   |
+| Trade Marks | [Trade Marks (Border Enforcement Measures) (Amendment) Rules 2019 (211KB)](files/news/announcements/2019/01/Trade Marks-Border Enforcement Measures-Amendment-Rules 2019.pdf)         | To be read together with the Trade Marks (Border Enforcement Measures) Rules.               |
+|             | [Trade Marks (Border Enforcement Measures Fees) Rules 2019 (34KB)](files/news/announcements/2019/01/Trade Marks-Border Enfrocement Measures Fees-Rules 2019.pdf)                      | New subsidiary legislation concerning the fees for trade marks border measures enforcement. |
 
 Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
 
