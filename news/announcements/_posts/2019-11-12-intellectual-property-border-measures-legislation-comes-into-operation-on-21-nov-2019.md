@@ -30,9 +30,4 @@ Please note that all current Singapore legislation is available for reference on
 <li>For queries, please contact Soh Lili (SOH_lili@mlaw.gov.sg), and Shaun Ng (Shaun_Ng@mlaw.gov.sg).</li>
 </ol>
 
-[Copyright (Border Enforcement Measures) (Amendment) Regulations 2019 (214KB)](/files/news/announcements/2019/01/Copyright-Border Enforcement Measures-Amendment-Regulations 2019.pdf)
-[Copyright (Border Enforcement Measures Fees) Regulations 2019 (34.9KB)](/files/news/announcements/2019/01/Copyright-Border Enforcement Measures Fees-Regulations 2019.pdf)
-[Trade Marks (Border Enforcement Measures) (Amendment) Rules 2019 (211KB)](/files/news/announcements/2019/01/Trade Marks-Border Enforcement Measures-Amendment-Rules 2019.pdf)
-[Trade Marks (Border Enforcement Measures Fees) Rules 2019 (34KB)](/files/news/announcements/2019/01/Trade Marks-Border Enfrocement Measures Fees-Rules 2019.pdf)
-
 <p class="right-side-updated">Last updated on 12 Nov 2019</p>
