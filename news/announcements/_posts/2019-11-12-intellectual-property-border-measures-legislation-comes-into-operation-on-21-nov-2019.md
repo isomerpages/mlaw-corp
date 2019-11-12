@@ -40,7 +40,6 @@ permalink: /news/announcements/intellectual-property-border-measures-legislation
 <td>Trade Marks (Border Enforcement Measures Fees) Rules 2019</td>
 <td>New subsidiary legislation concerning the fees for trade marks border measures enforcement.</td>
 </tr>
-</table>
 
 Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
 
