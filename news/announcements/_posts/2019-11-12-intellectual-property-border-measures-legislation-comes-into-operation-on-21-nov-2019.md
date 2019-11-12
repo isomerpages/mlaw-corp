@@ -38,16 +38,19 @@ permalink: /news/announcements/intellectual-property-border-measures-legislation
 <tr>
 <td></td>
 <td>Trade Marks (Border Enforcement Measures Fees) Rules 2019</td>
-<td>New subsidiary legislation concerning the fees for trade marks border measures enforcement.</td>
+<td>New subsidiary legislation concerning the fees for trade marks border measures enforcement.
+</td>
 </tr>
-
-Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
+</table>
 
 {:start="4"} 
-4. The EUSFTA entry into force date is 21 November 2019.
+4. Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
 
 {:start="5"} 
-5. For queries, please contact Soh Lili (SOH_lili@mlaw.gov.sg), and Shaun Ng (Shaun_Ng@mlaw.gov.sg).
+5. The EUSFTA entry into force date is 21 November 2019.
+
+{:start="6"} 
+6. For queries, please contact Soh Lili (SOH_lili@mlaw.gov.sg), and Shaun Ng (Shaun_Ng@mlaw.gov.sg).
 
 **MINISTRY OF LAW**  
 **12 NOVEMBER 2019**
