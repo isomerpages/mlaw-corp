@@ -29,6 +29,8 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 <li>Raise the standard and stringency of the Part B examinations.</li>
 <li>Lengthen the practice training period from six months to one year.</li>
 </ol>
+</ol>
+
 
 {:start="4"}
 4. In addition, the CPTL also made 17 other specific recommendations to support the new professional training regime.
@@ -63,9 +65,9 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 <li><u>References</u></li>
 </ol>
 
-For the full report by CPTL, please refer to http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf 
+For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf">http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf</a> <br>
 
 For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer to 
-https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional
+<a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional</a> <br>
 
 <p class="right-side-updated">Last updated on 27 Aug 2019</p>
