@@ -23,6 +23,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 
 3. In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations and that implementation of the key changes would take place from the 2023 session of Part B examinations onwards. The CPTL made three key structural recommendations:
 
+<ol start="3">
 <ol style="list-style-type: lower-alpha;">
 <li>Uncouple the call to the Bar from the right to practise as a lawyer.</li>
 <li>Raise the standard and stringency of the Part B examinations.</li>
