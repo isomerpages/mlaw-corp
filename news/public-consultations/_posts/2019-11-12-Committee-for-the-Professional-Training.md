@@ -29,29 +29,31 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 <li>Lengthen the practice training period from six months to one year.</li>
 </ol>
 
-
+{:start="4"}
 4. In addition, the CPTL also made 17 other specific recommendations to support the new professional training regime.
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Key issues for public consultation</u></li>
 </ol>
 
+{:start="5"}
 5. A Working Group, comprising representatives from the Ministry of Law, the Singapore Institute of Legal Education, the Supreme Court of Singapore, and the Law Society of Singapore, was set up to implement and operationalise the CPTL’s recommendations
-
  
-
+{:start="6"}
 6. In working out the implementation details, the Working Group has identified the following key issues for public consultation.
 
-The nomenclature for the new group of individuals who will be admitted to the Bar without having completed their practice training;
-The privileges and obligations to be conferred on this new group of individuals;
-The rights conferred to trainees under the new practice training regime;
-The moratorium date prior to which law students should not be permitted to apply for practice training contracts; and 
-The criteria for the in-house legal departments that will be permitted to provide practice training for up to three months, and when trainees can complete this training during the PTP.
+<ol style="list-style-type: lower-alpha;">
+<li>The nomenclature for the new group of individuals who will be admitted to the Bar without having completed their practice training;</li>
+<li>The rights conferred to trainees under the new practice training regime;</li>
+<li>The moratorium date prior to which law students should not be permitted to apply for practice training contracts; and</li>
+<li>The criteria for the in-house legal departments that will be permitted to provide practice training for up to three months, and when trainees can complete this training during the PTP.</li>
+
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Invitation for feedback</u></li>
 </ol>
 
+{:start="7"}
 7. The consultation period is from 15 November 2019 to 27 December 2019. All views and feedback should be provided via the Consultation Paper available at https://go.gov.sg/cptlconsult. Respondents are invited to indicate your name and contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary. Please note that the final details of the training regime may differ substantially from the current proposals and suggestions.
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
