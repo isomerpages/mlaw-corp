@@ -7,17 +7,14 @@ permalink: /news/press-releases/Public-Consultation-on-the-Proposals-to-Implemen
 
 15 Nov 2019 Posted in [Press releases](/news/press-releases)
 
-
 1.The Ministry of Law (MinLaw) today launched a public consultation on the proposals to implement the recommendations of the Committee for the Professional Training of Lawyers (“CPTL”). The public consultation will run from 15 November to 27 December 2019.
 
 **Background**
-
 <ol start="2">
-
-2.The CPTL was set up by the Honourable the Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime and to make recommendations on how it might be modified to raise the quality and consistency of training standards across law practices. The Committee was chaired by Justice Quentin Loh and comprised 14 members including representatives from the Supreme Court, the Attorney-General’s Chambers, MinLaw, the Law Society of Singapore, the Singapore Corporate Counsel Association and various Singapore law practices.
+2.  The CPTL was set up by the Honourable the Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime and to make recommendations on how it might be modified to raise the quality and consistency of training standards across law practices. The Committee was chaired by Justice Quentin Loh and comprised 14 members including representatives from the Supreme Court, the Attorney-General’s Chambers, MinLaw, the Law Society of Singapore, the Singapore Corporate Counsel Association and various Singapore law practices.
 
 <ol start="3">
-3.In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations and that implementation of the key changes would take place from the 2023 session of Part B examinations onwards. The CPTL made three key structural recommendations:
+3.  In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations and that implementation of the key changes would take place from the 2023 session of Part B examinations onwards. The CPTL made three key structural recommendations:
 
 a.Uncouple the call to the Bar from the right to practise as a lawyer.
 <br>
@@ -58,6 +55,7 @@ e.The criteria for the in-house legal departments that will be permitted to prov
 References:
 
 For the full report by CPTL, please refer to http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf 
+
 <br>
 For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer to https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional
 
