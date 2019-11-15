@@ -17,6 +17,7 @@ permalink: /news/press-releases/Public-Consultation-on-the-Proposals-to-Implemen
 <ol start="3">
 <li>In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations and that implementation of the key changes would take place from the 2023 session of Part B examinations onwards. The CPTL made three key structural recommendations:
 <br>
+<br>
 a.  Uncouple the call to the Bar from the right to practise as a lawyer.
 <br>
 b.  Raise the standard and stringency of the Part B examinations.
@@ -37,6 +38,7 @@ c.  Lengthen the practice training period from six months to one year.</li>
 <ol start="6">
 <li>In working out the implementation details, the Working Group has identified the following key issues for public consultation: 
 <br>
+<br>
 a.  The nomenclature for the new group of individuals who will be admitted to the Bar without having completed their practice training;
 <br>
 b.  The privileges and obligations to be conferred on this new group of individuals;
@@ -51,10 +53,9 @@ e.  The criteria for the in-house legal departments that will be permitted to pr
 **Invitation for feedback**
 
 <ol start="7">
-<li>Interested parties may view and provide inputs to the public consultation paper, at <a href="https://go.gov.sg/cptlconsult"></a>.</li>
+<li>Interested parties may view and provide inputs to the public consultation paper <a href="https://go.gov.sg/cptlconsult">here</a></li>
 </ol>
 
-<br>
 **MINISTRY OF LAW**
 <br>
 **15 November 2019**
@@ -63,10 +64,9 @@ e.  The criteria for the in-house legal departments that will be permitted to pr
 References:
 <br>
 
-For the full report by CPTL, please refer to <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf"></a>
+For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf">here</a> 
 
-<br>
-For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer to <a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional"></a>
+For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer <a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">here</a>  
 
 <p class="right-side-updated">Last updated on 15 Nov 2019</p>
 
