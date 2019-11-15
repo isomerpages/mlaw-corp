@@ -13,7 +13,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 </ol>
 
 
-1. The Ministry of Law invites members of the public to provide feedback on the proposals to implement the recommendations of the Committee for the Professional Training of Lawyers (“CPTL”) available at
+1. The Ministry of Law invites members of the public to provide feedback on the proposals to implement the recommendations of the Committee for the Professional Training of Lawyers (“CPTL”) available at <a href="http://go.gov.sg/cptlconsult">https://go.gov.sg/cptlconsult.</a> 
 
  
 
