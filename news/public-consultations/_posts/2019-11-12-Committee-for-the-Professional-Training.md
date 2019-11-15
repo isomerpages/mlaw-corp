@@ -8,13 +8,6 @@ permalink: /news/public-consultations/Public-Consultation-to-Implement-the-Commi
 Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training
 ---
 
-**Consultation Period:**  
-27 Aug 2019 to 8 Oct 2019
-
-
-<p style="text-align: center; font-weight:bold;">Consultation Paper on Conditional Fee Agreements in Singapore</p>
-
-
 <ol style="list-style-type: upper-roman; font-weight:bold">
 <li><u>INTRODUCTION</u></li>
 </ol>
@@ -30,9 +23,12 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 
 3. In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations and that implementation of the key changes would take place from the 2023 session of Part B examinations onwards. The CPTL made three key structural recommendations:
 
-Uncouple the call to the Bar from the right to practise as a lawyer.
-Raise the standard and stringency of the Part B examinations.
-Lengthen the practice training period from six months to one year 
+<ol style="list-style-type: lower-alpha;">
+<li>Uncouple the call to the Bar from the right to practise as a lawyer.</li>
+<li>Raise the standard and stringency of the Part B examinations.</li>
+<li>Lengthen the practice training period from six months to one year.</li>
+</ol>
+
 
 4. In addition, the CPTL also made 17 other specific recommendations to support the new professional training regime.
 
