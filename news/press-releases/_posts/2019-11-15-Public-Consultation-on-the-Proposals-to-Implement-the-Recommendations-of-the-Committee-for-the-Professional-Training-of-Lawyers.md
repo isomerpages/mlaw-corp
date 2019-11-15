@@ -53,7 +53,7 @@ e.  The criteria for the in-house legal departments that will be permitted to pr
 **Invitation for feedback**
 
 <ol start="7">
-<li>Interested parties may view and provide inputs to the public consultation paper <a href="https://go.gov.sg/cptlconsult">here</a></li>
+<li>Interested parties may view and provide inputs to the public consultation paper <a href="https://go.gov.sg/cptlconsult">here.</a></li>
 </ol>
 
 **MINISTRY OF LAW**
@@ -64,9 +64,9 @@ e.  The criteria for the in-house legal departments that will be permitted to pr
 References:
 <br>
 
-For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf">here</a> 
+For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf">here.</a> 
 
-For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer <a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">here</a>  
+For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer <a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">here.</a>  
 
 <p class="right-side-updated">Last updated on 15 Nov 2019</p>
 
