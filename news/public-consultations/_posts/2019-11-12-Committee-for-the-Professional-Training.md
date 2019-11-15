@@ -42,12 +42,13 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 {:start="6"}
 6. In working out the implementation details, the Working Group has identified the following key issues for public consultation.
 
+<ol start="6">
 <ol style="list-style-type: lower-alpha;">
 <li>The nomenclature for the new group of individuals who will be admitted to the Bar without having completed their practice training;</li>
 <li>The rights conferred to trainees under the new practice training regime;</li>
 <li>The moratorium date prior to which law students should not be permitted to apply for practice training contracts; and</li>
 <li>The criteria for the in-house legal departments that will be permitted to provide practice training for up to three months, and when trainees can complete this training during the PTP.</li>
-
+</ol>
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Invitation for feedback</u></li>
