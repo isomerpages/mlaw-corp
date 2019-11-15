@@ -50,6 +50,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 <li>The moratorium date prior to which law students should not be permitted to apply for practice training contracts; and</li>
 <li>The criteria for the in-house legal departments that will be permitted to provide practice training for up to three months, and when trainees can complete this training during the PTP.</li>
 </ol>
+</ol>
 
 <ol start="3" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Invitation for feedback</u></li>
