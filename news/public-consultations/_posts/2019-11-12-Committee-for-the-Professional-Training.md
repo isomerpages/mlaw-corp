@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training
-date:   2019-11-12
+title:  Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers
+date:   2019-11-15
 permalink: /news/public-consultations/Public-Consultation-to-Implement-the-Committee-for-the-Professional-Tranining
 ---
 
-Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training
+Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers
 ---
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
@@ -40,7 +40,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 </ol>
 
 {:start="5"}
-5. A Working Group, comprising representatives from the Ministry of Law, the Singapore Institute of Legal Education, the Supreme Court of Singapore, and the Law Society of Singapore, was set up to implement and operationalise the CPTL’s recommendations
+5. A Working Group, comprising representatives from the Ministry of Law, the Singapore Institute of Legal Education, the Supreme Court of Singapore, and the Law Society of Singapore, was set up to implement and operationalise the CPTL’s recommendations.
  
 {:start="6"}
 6. In working out the implementation details, the Working Group has identified the following key issues for public consultation.
