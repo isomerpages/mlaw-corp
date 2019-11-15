@@ -68,6 +68,6 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf">http://www.supremecourt.gov.sg/docs/default-source/default-document-library/report-of-the-committee-for-the-professional-training-of-lawyers.pdf</a> <br>
 
 For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer to 
-<a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional</a> <br>
+<a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">https://www.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional</a> <br>
 
 <p class="right-side-updated">Last updated on 15 Nov 2019</p>
