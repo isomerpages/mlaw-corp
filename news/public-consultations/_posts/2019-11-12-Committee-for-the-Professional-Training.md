@@ -32,7 +32,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 {:start="4"}
 4. In addition, the CPTL also made 17 other specific recommendations to support the new professional training regime.
 
-<ol style="list-style-type: upper-roman; font-weight:bold">
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Key issues for public consultation</u></li>
 </ol>
 
@@ -50,14 +50,14 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 <li>The criteria for the in-house legal departments that will be permitted to provide practice training for up to three months, and when trainees can complete this training during the PTP.</li>
 </ol>
 
-<ol style="list-style-type: upper-roman; font-weight:bold">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Invitation for feedback</u></li>
 </ol>
 
 {:start="7"}
 7. The consultation period is from 15 November 2019 to 27 December 2019. All views and feedback should be provided via the Consultation Paper available at https://go.gov.sg/cptlconsult. Respondents are invited to indicate your name and contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary. Please note that the final details of the training regime may differ substantially from the current proposals and suggestions.
 
-<ol style="list-style-type: upper-roman; font-weight:bold">
+<ol start="4" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>References</u></li>
 </ol>
 
