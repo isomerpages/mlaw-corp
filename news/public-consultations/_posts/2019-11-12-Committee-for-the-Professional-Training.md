@@ -25,8 +25,8 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 
 <ol start="3">
 <ol style="list-style-type: lower-alpha;">
-<li>Uncouple the call to the Bar from the right to practise as a lawyer.</li>
-<li>Raise the standard and stringency of the Part B examinations.</li>
+<li>Uncouple the call to the Bar from the right to practise as a lawyer;</li>
+<li>Raise the standard and stringency of the Part B examinations; and</li>
 <li>Lengthen the practice training period from six months to one year.</li>
 </ol>
 </ol>
