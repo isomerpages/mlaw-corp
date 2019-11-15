@@ -70,4 +70,4 @@ For the full report by CPTL, please refer <a href="http://www.supremecourt.gov.s
 For the press release issued by MinLaw on the in-principle acceptance of the recommendations by CPTL, please refer to 
 <a href="https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">https://app.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional</a> <br>
 
-<p class="right-side-updated">Last updated on 27 Aug 2019</p>
+<p class="right-side-updated">Last updated on 15 Nov 2019</p>
