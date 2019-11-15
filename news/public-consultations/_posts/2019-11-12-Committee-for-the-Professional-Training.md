@@ -59,7 +59,7 @@ Public Consultation on Proposals to Implement the Recommendations of the Committ
 </ol>
 
 {:start="7"}
-7. The consultation period is from 15 November 2019 to 27 December 2019. All views and feedback should be provided via the Consultation Paper available at https://go.gov.sg/cptlconsult. Respondents are invited to indicate your name and contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary. Please note that the final details of the training regime may differ substantially from the current proposals and suggestions.
+7. The consultation period is from 15 November 2019 to 27 December 2019. All views and feedback should be provided via the Consultation Paper available at <a href="https://go.gov.sg/cptlconsult">https://go.gov.sg/cptlconsult</a>. Respondents are invited to indicate your name and contact details (email address and/or telephone number) to enable us to follow up and seek clarification, if necessary. Please note that the final details of the training regime may differ substantially from the current proposals and suggestions.
 
 <ol start="4" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>References</u></li>
