@@ -19,7 +19,7 @@ Have questions?
 </div><br>
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
@@ -40,11 +40,11 @@ You can send us your feedback and enquiries on the following issues:
 * Anti-Money Laundering/ Countering the Financing of Terrorism
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us At Minlaw" alt="Contact Us At Minlaw" style="width: 300px; float: left;"></a>
+  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us At Minlaw" alt="Contact Us At Minlaw" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/" title="Location" alt="Location"></a>
    <div class="content-heading">
    <h3> Location</h3>
@@ -66,7 +66,7 @@ Closed on Weekends & Public Holidays<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" title="URA Workers Map" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/call.png/" title="Call Us" alt="Call Us"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
