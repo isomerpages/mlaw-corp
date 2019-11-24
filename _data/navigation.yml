@@ -77,28 +77,28 @@
   url: /e-services/
   sub-links:
   - title: Insolvency Office
-    url: https://www.mlaw.gov.sg/eservices/io/
+    url: https://eservices.mlaw.gov.sg/io/
     external: true
   - title: Public Trustees Office
-    url: https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml
+    url: https://eservices.mlaw.gov.sg/pto/welcome.xhtml
     external: true
   - title: Registry Of Moneylenders
-    url: https://www.mlaw.gov.sg/eservices/rom/
+    url: https://eservices.mlaw.gov.sg/rom/
     external: true
   - title: Registry Of Pawnbrokers
-    url: https://www.mlaw.gov.sg/eservices/rop/
+    url: https://eservices.mlaw.gov.sg/rop/
     external: true
   - title: Legal Services Regulatory Authority
-    url: https://www.mlaw.gov.sg/eservices/lsra/lsra-home
+    url: https://eservices.mlaw.gov.sg/lsra/lsra-home
     external: true
   - title: Exemptions
-    url: https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx
+    url: https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx
     external: true
   - title: Application For Community Mediation
     url: https://cmc.mlaw.gov.sg/e-services/log-into-mediators-portal/
     external: true
   - title: Legal Aid Bureau
-    url: https://www.mlaw.gov.sg/eservices/labesvc/
+    url: https://eservices.mlaw.gov.sg/labesvc/
     external: true
 
 - title: Join Us

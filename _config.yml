@@ -28,7 +28,7 @@ homepage_hero_i_want_to: false
 homepage_resources: true
 
 # Feedback Form URL
-feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
+feedback_form_url: "https://eservices.mlaw.gov.sg/enquiry/"
 
 # FAQ URL
 faq_url: "https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx"
