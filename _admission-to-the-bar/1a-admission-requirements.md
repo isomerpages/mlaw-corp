@@ -28,4 +28,4 @@ Individuals who wish to be admitted to the Singapore Bar must:
 </ol>
 </li>
 
-<p class="right-side-updated">Last updated on 30 Aug 2018</p> 
+<p class="right-side-updated">Last updated on 30 Aug 2018.</p> 
