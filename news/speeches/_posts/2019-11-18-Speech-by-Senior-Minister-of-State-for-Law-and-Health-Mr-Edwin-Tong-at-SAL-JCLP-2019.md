@@ -82,31 +82,42 @@ b.The second reason why this is so, which is a special reason for Singapore, is 
 {:start="24"}
 24. Let me give you some examples of technology.
 <br>
+<br>
 a. Amazon and Alibaba are two tech giants in the world today, they provide platforms for people to buy and sell. The standard first- and second-year lawyer work consists of learning to handle disputes over the sale of goods, which are quite straightforward: I sell, you buy, we disagree, there's a litigation. 
+<br>
 <br>
 So, many of us, myself included, grew up in our first years of practice doing this kind of work, but Amazon and Alibaba have practically cut it out by incorporating online dispute resolution into their platforms. Buyers and sellers can resolve disagreements online by putting in some information about the product and dispute, and there will be somebody there to resolves the dispute. The legal challenges are not just in how the services are delivered, but also in what type of work will remain, with AI. Amazon, Alibaba, and I am sure other platforms, will start to develop this over time, and you will then find that lawyers will lose one aspect of work.
 <br>
+<br>
 b.	Corporate clients such as banks and financial institutions have also developed their own in-house AI, to help themselves and to serve their customers.
+<br>
 <br>
 JPMorgan, for example, has developed this programme called COIN, which stands for Contract Intelligence. It is an AI platform, fixed with an algorithm configured to the business needs of the particular user. What does it do? It reviews loan agreements that JPMorgan handles, that may otherwise take lawyers and loan officers 360,000 man-hours of work per year to do, in a matter of minutes. On top of that, they are more accurate and less prone to error. This is another sector where, as a young transactions lawyer, you would end up vetting contracts: looking and checking contracts for typo errors and consistency, and that they make sense as a whole. All of this is going to be done by AI platforms.
 <br>
 {:start="25"}
 25. Does this mean that there will be no role for lawyers? I do not think so. I think the role of lawyers remains strong. We must treat these AI platforms and technology as tools, and must look at how we can increase the value output of our work as lawyers. We now have AI products that help us check and vet contracts, so we will gradually find that there is less and less of that kind of work. We will move into higher value work. We lose online sale of goods and dispute resolution to online platforms. Again, we can transition away from that into higher value work. Use the AI, the technology, and these platforms as something to help you in your work, as opposed to something that takes away from your work.
 <br>
+<br>
 **New skillsets required**
 <br>
 {:start="26"}
 26. Beyond that, I always encourage young lawyers to be prepared for at least two or three types of change. 
 <br>
+<br>
 a. First, look at your market as well beyond Singapore. We are no longer just operating within Singapore. This also means that we are no longer operating in competition only with Singaporeans. The region, and indeed the global platform, is your market.  Each of you, whichever profession you choose, will increasingly find that you are competing not with Singaporeans alone, but people in the region, in ASEAN, and even in a broader regional and world context. Look at these challenges, and take into account what I will be telling you later about the steps that the Ministry and Government are taking to enhance Singapore as a hub, and to ensure that we have services offered in Singapore, but that are actually enjoyed elsewhere in the world. We may do the work in Singapore, but the client benefits elsewhere in the region. 
+<br>
 <br>
 b. Second, and I think it is much easier for a younger generation like yours, is to embrace technology. Lawyers, I think, unfortunately, are quite well-known for being tech-dinosaurs. In terms of trying to use technology to help us or to use platforms to try to do things electronically. We are very much paper-and-pen people. 
 <br>
+<br>
 But I am from the older generation. All of you, I think, are very savvy with devices and technology. This is something that you must embrace to help you with the work. Many lawyers actually found that when our courts, for example, moved into technology courts and paperless hearings, many lawyers struggled. I think the older ones continue to do so today. We used to have a screen in court which you could plug in, and have all your documents on the screen. The first thing we did was to take the screen and fold it down to be used as a table-top for your notes. But the lawyer of tomorrow has to be able to use this technology, because they are much faster, they help you, and the competition is using and embracing them. You have to do the same. 
+<br>
 <br>
 c.	Third, as I said earlier, is to avoid being just a lawyer. I think that it is odd, because you have not even begun to be on the path of being a lawyer, but I think it is important. Today’s world is a much more varied world. 
 <br>
+<br>
 You must have depth of knowledge in your chosen area but at the same time, there are many areas outside of the law that you need the breadth of knowledge in. You need to be able to speak your client about the market trends in the Asia Pacific, for example. You need to understand the challenges that your client faces. If you, as a lawyer, do not understand the global trends and issues, and what goes on beyond the law, you are not going to be able to find good solutions. Be multi-disciplinary in your approach and outlook, be broad-minded and be prepared to be looking at issues of accounting, economics, business, project management, and people management. Being a lawyer requires all of these skill sets. 
+<br>
 <br>
 **MinLaw’s initiatives**
 <br>
@@ -119,11 +130,14 @@ You must have depth of knowledge in your chosen area but at the same time, there
 {:start="29"}
 29. We want to make sure that the lawyer of tomorrow will have opportunities to do a few things: 
 <br>
+<br>
 a. To work in a private practice firm, to keep the Singapore law practice strong, recognised and trusted in the region;
+<br>
 <br>
 b. To join public service. We have public service lawyers who perform very important functions for the government; or 
 <br>
 c. To join an MNC. You may be a general counsel one day, or end up in the business side of the MNC. 
+<br>
 <br>
 {:start="30"}
 30. All of this depends on how strong Singapore is as a hub for legal services. 
@@ -139,15 +153,18 @@ c. To join an MNC. You may be a general counsel one day, or end up in the busine
 <br>
 a. We set up Maxwell Chambers, a physical infrastructure, which houses mediation and arbitration services. 
 <br>
+<br>
 b. Our Singapore International Commercial Court is located not far from here in the Supreme Court, to house services to allow for international users to come and use them. 
+<br>
 <br>
 {:start="34"}
 34. Parties will know that they can come around from all over the world. For example, if I am from the US and have a project in Vietnam, Laos, Cambodia, China or Russia, am I going to put my investments in there, without knowing that if there is a dispute, somebody fair, trusted and neutral will come and adjudicate on it? Our selling point is: we are neutral, fair and trusted, we are known and no-nonsense. We set up a strong system like this. 
 <br>
+<br>
 a. Over time, we have attracted a lot of work from many parties who otherwise have nothing to do with Singapore, who are investing in another part of the world, but they choose  Singapore, they choose Maxwell Chambers, they choose  the Singapore International Arbitration Centre (SIAC), our international arbitration centre, as a place where they can resolve the disputes.  
 <br>
 b. The more we grow this, the more opportunities there will be for Singapore lawyers, and over time actually SIAC has seen even more number of cases coming from other parts of the world than from Singapore.  
-<br>
+
 {:start="35"}
 35. We have mediation, which is slowly growing, but we had a significant shot in the arm when we hosted the signing of the Singapore Convention on Mediation in August. This was a significant event. The last major legal convention was when New York hosted the signing of the New York Convention in the 1960s, which was the convention to allow for the enforcement of arbitral awards across the world. 
 <br>
@@ -163,6 +180,7 @@ b. The more we grow this, the more opportunities there will be for Singapore law
 {:start="39"}
 39. If you are a budding lawyer, look at what we have been doing, and will continue to do, to enhance the market; look at the opportunities in the market and focus on these areas. 
 <br>
+<br>
 ***Competition is stiff***
 <br>
 {:start="40"}
@@ -170,14 +188,18 @@ b. The more we grow this, the more opportunities there will be for Singapore law
 <br>
 a. We have close to 5,700 Singapore lawyers today. On a per capita basis, we are not the highest nor the lowest, but we are growing. This means that the prospects will be tougher and the competition will be stiff. 
 <br>
+<br>
 b. By 2020, we expect that there will be 850 law graduates coming out of law school per year. We have NUS, SMU and SUSS in Singapore coupled with a list of law schools from overseas which we trim or we add to every once in a while to ensure that the quality of the graduates that come back with these degrees meet the standard. By our projections, we have some 850 law graduates, of which 500 will come from local schools, and an estimated 350 returning graduates from foreign universities.
 <br>
+<br>
 c. Now, this number needs to be looked at against another important number, which is the expected number of practice training places that we have and expect to see. Based on our estimate, we are looking at about 600 to 650 practice training places for a lawyer.  
+<br>
 <br>
 d. Not everyone who comes back with a degree will want to practise. They may not, or they may defer the practice or pursue future studies. The gap may be smaller, but you need to know that these are the numbers that we are looking at. 
 <br>
 {:start="41"}
 41. Whilst the legal sector is growing, there is no guarantee that all graduates will all get a training contract to practise law with firms they want. 
+<br>
 <br>
 **Changes to the Professional Training Regime**
 <br>
@@ -195,6 +217,7 @@ d. Not everyone who comes back with a degree will want to practise. They may not
 <br>
 {:start="46"}
 46. The Committee also introduced measures to strengthen and to make more rigid the training contract. After you finish and get called, those who do not want to practise anymore will leave. Those who want to carry on will then go through their practice training period, which will be one year instead of six months. It is a lot more time spent with the firm and the mentor, and hopefully through that process, you will learn a lot more. There are a lot of other details about the changes in the report, I encourage you to read about them if you are keen on practising law. All of these steps will be taken to enhance the practice, strengthen the lawyer, and prepare the lawyer for practice.
+<br>
 <br>
 **Conclusion**
 {:start="47"}
