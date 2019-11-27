@@ -32,18 +32,20 @@ Ladies and gentlemen,
 9. I am going to speak on the Legal Sector Outlook – Local and Global Perspectives to give you a more realistic sense of what the pieces are out there.
 
 **Legal Sector Outlook**
-
+{:start="10"}
 10. As I said, the demand for legal services is tied to how well our economy does. We have, broadly speaking, two types of lawyers: the first type are the transactional lawyers, those who do mergers and acquisitions (M&A) work, those who do corporate work, those who draft contracts, those who handle negotiations.  Increasingly important are the Intellectual Property (IP) and FinTech-type contracts. These are areas of law that are developing very quickly. 
-
+{:start="11"}
 11.  There are the other type of lawyers, very broadly speaking, those who manage disputes. They handle civil disputes, civil litigation, or criminal litigation in the courts. Increasingly, there have also been various types of sub-specialties within this. 
-
+{:start="12"}
 12. There are those who focus on IP litigation; they know the area very well and they handle IP disputes. There are others who do shipping disputes. Singapore is a shipping hub. We have a lot of shipping work that may ends up in disputes and the shipping lawyers do shipping litigation in that regard. There are others who do arbitration, and also construction-type litigation. They are very focused and very specific. 
-
+{:start="13"}
 13. If you are going to be a new lawyer, you should not start branching into these specialist areas immediately. Get a basic grasp of law, understand basic contract law, practise for a while in general, civil litigation, before you start branching into the more specialist areas. I always tell my lawyers this when I was in practice. You may have your interest areas in shipping, or maybe medical litigation, or perhaps in construction, but everything is founded on the basic level of general contract or general tort law. For many of these areas, you build on a pool of general knowledge, then you develop specialist knowledge on top of it. 
-
+{:start="14"}
 14. So far, our legal sector in Singapore has done well. The nominal value-added (VA) – this is how we measure legal services – of legal services has grown by 58%, from $1.48 billion in 2008 to $2.33 billion in 2018. These statistics represent two things, two takeaways:
 <br>
+<br>
 a.	The first is that our country is growing as an economy. As we increase our business activity, as we increase the number of MNCs who locate here, do business here, transact in Singapore, more legal services will follow. If we continue this trend of growing our economy, we can expect our legal services industry to also grow. 
+<br>
 <br>
 b.The second reason why this is so, which is a special reason for Singapore, is because we have chosen to grow Singapore as a legal hub. “Legal hub” meaning that Singapore may not necessarily be where the companies could be located. We may not even be where the project is located. For example, if you have a large-scale road contract, or a project to build an airport or to develop infrastructure in lesser-developed countries. But we want Singapore to be the hub for those services. We want the financing to take place here, we want the legal services to be run out of Singapore. We want our lawyers to represent these clients and go into these countries to make the contracts, and in the cases where there is a dispute, to argue and litigate as well. This is a reflection of both of those traits. 
 <br>
