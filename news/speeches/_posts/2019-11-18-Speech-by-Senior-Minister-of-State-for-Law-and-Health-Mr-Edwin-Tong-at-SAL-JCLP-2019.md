@@ -33,22 +33,21 @@ Ladies and gentlemen,
 
 **Legal Sector Outlook**
 <:start="10">
-10. As I said, the demand for legal services is tied to how well our economy does. We have, broadly speaking, two types of lawyers: the first type are the transactional lawyers, those who do mergers and acquisitions (M&A) work, those who do corporate work, those who draft contracts, those who handle negotiations.  Increasingly important are the Intellectual Property (IP) and FinTech-type contracts. These are areas of law that are developing very quickly. 
-</ol>
+10. As I said, the demand for legal services is tied to how well our economy does. We have, broadly speaking, two types of lawyers: the first type are the transactional lawyers, those who do mergers and acquisitions (M&A) work, those who do corporate work, those who draft contracts, those who handle negotiations.  Increasingly important are the Intellectual Property (IP) and FinTech-type contracts. These are areas of law that are developing very quickly.
+<br>
 <:start="11">
 11.  There are the other type of lawyers, very broadly speaking, those who manage disputes. They handle civil disputes, civil litigation, or criminal litigation in the courts. Increasingly, there have also been various types of sub-specialties within this. 
-</ol>
+<br>
 <:start="12">
 12. There are those who focus on IP litigation; they know the area very well and they handle IP disputes. There are others who do shipping disputes. Singapore is a shipping hub. We have a lot of shipping work that may ends up in disputes and the shipping lawyers do shipping litigation in that regard. There are others who do arbitration, and also construction-type litigation. They are very focused and very specific.
-</ol>
+<br>
 <:start="13">
 13. If you are going to be a new lawyer, you should not start branching into these specialist areas immediately. Get a basic grasp of law, understand basic contract law, practise for a while in general, civil litigation, before you start branching into the more specialist areas. I always tell my lawyers this when I was in practice. You may have your interest areas in shipping, or maybe medical litigation, or perhaps in construction, but everything is founded on the basic level of general contract or general tort law. For many of these areas, you build on a pool of general knowledge, then you develop specialist knowledge on top of it. 
-</ol>
+<br>
 {:start="14"}
 14. So far, our legal sector in Singapore has done well. The nominal value-added (VA) – this is how we measure legal services – of legal services has grown by 58%, from $1.48 billion in 2008 to $2.33 billion in 2018. These statistics represent two things, two takeaways:
 <br>
 <br>
-</ol>
 a.	The first is that our country is growing as an economy. As we increase our business activity, as we increase the number of MNCs who locate here, do business here, transact in Singapore, more legal services will follow. If we continue this trend of growing our economy, we can expect our legal services industry to also grow. 
 <br>
 <br>
@@ -57,42 +56,33 @@ b.The second reason why this is so, which is a special reason for Singapore, is 
 {:start="15"}
 15. If I were in your position, I would look at these two factors to decide whether there is going to be room for me as a lawyer in years to come. As the government takes steps to work with the corporate institutions, with the economy, with the business people to grow, they will need more and more lawyers. As we develop ourselves as a hub, more and more people will come into Singapore, and use those services, and there will be more demand for services. It is a key indicator and you should look at these numbers.
 <br>
-</ol>
 {:start="16"}
 16. Our lawyers have, over time, become a lot more well-known and their reputation has become much better, not just individually, but as firms growing into the region – first, in ASEAN, then in Asia, and eventually we hope also as a world-leading provider of legal services. That is our ambition and our aim: to grow the Singapore brand and the Singapore-branded lawyers as well. You will see that many of them are actually recognised worldwide in their fields of expertise, be it in M&A work or in disputes. 
 <br>
-</ol>
 {:start="17"}
 17. As in every economy and every sector, we always worry about what happens when there are headwinds in the economy. Today, you find that there are trade wars, which may last a little bit longer, there will be protectionist measures on trade, and people are looking a lot more inwardly.
 <br>
-</ol>
 {:start="18"}
 18. All these factors affect the legal profession as well. I want to highlight a few demands that are perhaps peculiar to legal services, just to tell you what is up ahead. 
 <br>
-</ol>
 
 **Challenges to Legal Sector**
 
 {:start="19"}
 19. The first is with the users of legal services, the clients - whether they are individuals or they are corporates - the dynamics have changed. The paradigm relationship with the client has changed. They no longer come to you to ask you for your advice on the law alone. They do not come to you and ask, "what is the legal position on this", or "if I want to do this, what are the legal steps that I need to take", or "what are the relevant pieces of legislation that will apply". No one does that anymore, because of the internet, because of Google. When you have Google, you have at least the first level of information for almost anything. It is very easy to find information now. 
 <br>
-</ol>
 {:start="20"}
 20. What people come to you for as a lawyer is not for information but a solution. You have to find a solution to the problem. It does not matter whether you are the best lawyer, or whether you can cite chapters and verses of the statutes. It is about looking at the problem, understanding the client's business model, understanding the client's business strategy, knowing the dynamics between your client, and maybe a counterparty. If you are having a dispute, you should understand the reasons for the dispute, and look at a long term solution for this problem; a solution that will not just preserve your client's right but actually enhance their position moving forward. That is what clients come to lawyers for today. That is why it is more challenging. You cannot just be a good lawyer, you need to be a good problem solver. That is the first challenge. 
 <br>
-</ol>
 {:start="21"}
 21. Increasingly, we also find a challenge with artificial intelligence (AI), and with technology, which is the second issue. I mentioned Google earlier, but Google is actually old technology. There are now so many new pieces of technology that are flooding the market, teaching and helping lawyers to handle low-value but high-volume work. 
 <br>
-</ol>
 {:start="22"}
 22. If you do searches, you check a document for consistency. Much of the AI has been developed to help lawyers do that.  When you are looking at clients who are more demanding, AI tools help you leverage.
 <br>
-</ol>
 {:start="23"}
 23. Together, these two factors actually tell you that the output of a lawyer has to be so much more. You have to deliver so much more because the client will tell you "don't tell me what the law is, I know what the law is, but what can I use the law for, how do I solve my problem using the legal position”. 
 <br>
-</ol>
 {:start="24"}
 24. Let me give you some examples of technology.
 <br>
@@ -108,12 +98,10 @@ b.	Corporate clients such as banks and financial institutions have also develope
 <br>
 JPMorgan, for example, has developed this programme called COIN, which stands for Contract Intelligence. It is an AI platform, fixed with an algorithm configured to the business needs of the particular user. What does it do? It reviews loan agreements that JPMorgan handles, that may otherwise take lawyers and loan officers 360,000 man-hours of work per year to do, in a matter of minutes. On top of that, they are more accurate and less prone to error. This is another sector where, as a young transactions lawyer, you would end up vetting contracts: looking and checking contracts for typo errors and consistency, and that they make sense as a whole. All of this is going to be done by AI platforms.
 <br>
-</ol>
 {:start="25"}
 25. Does this mean that there will be no role for lawyers? I do not think so. I think the role of lawyers remains strong. We must treat these AI platforms and technology as tools, and must look at how we can increase the value output of our work as lawyers. We now have AI products that help us check and vet contracts, so we will gradually find that there is less and less of that kind of work. We will move into higher value work. We lose online sale of goods and dispute resolution to online platforms. Again, we can transition away from that into higher value work. Use the AI, the technology, and these platforms as something to help you in your work, as opposed to something that takes away from your work.
 <br>
 <br>
-</ol>
 **New skillsets required**
 <br>
 {:start="26"}
@@ -135,17 +123,14 @@ c.	Third, as I said earlier, is to avoid being just a lawyer. I think that it is
 You must have depth of knowledge in your chosen area but at the same time, there are many areas outside of the law that you need the breadth of knowledge in. You need to be able to speak your client about the market trends in the Asia Pacific, for example. You need to understand the challenges that your client faces. If you, as a lawyer, do not understand the global trends and issues, and what goes on beyond the law, you are not going to be able to find good solutions. Be multi-disciplinary in your approach and outlook, be broad-minded and be prepared to be looking at issues of accounting, economics, business, project management, and people management. Being a lawyer requires all of these skill sets. 
 <br>
 <br>
-</ol>
 **MinLaw’s initiatives**
 <br>
 {:start="27"}
 27. Next, let me turn to what the Government has done over the years, and will continue to do, to try to keep the legal landscape vibrant, with opportunities aplenty, and what we are doing to train the lawyer of tomorrow. 
 <br>
-</ol>
 {:start="28"}
 28. We want Singapore to grow as a legal hub. As you can see from the picture on the slide, Maxwell Chambers, and other efforts, are a part of what the Government wants to do to grow Singapore as a hub. We want Maxwell Chambers to be a place where foreign lawyers and arbitrators will come, to grow the landscape. 
 <br>
-</ol>
 {:start="29"}
 29. We want to make sure that the lawyer of tomorrow will have opportunities to do a few things: 
 <br>
@@ -158,19 +143,15 @@ b. To join public service. We have public service lawyers who perform very impor
 <br>
 c. To join an MNC. You may be a general counsel one day, or end up in the business side of the MNC. 
 <br>
-</ol>
 {:start="30"}
 30. All of this depends on how strong Singapore is as a hub for legal services. 
 <br>
-</ol>
 {:start="31"}
 31. As I mentioned right at the start, we are looking at well beyond just legal services. Let me explain a bit more. If you take dispute resolution, for example, it is a very important part of the equation when we do business. Almost every major business today will have a budget they set aside, knowing that they will end up in a dispute with a client or counter-party. In Singapore, we want to offer the best range of legal dispute resolution services available to multinational international users. 
 <br>
-</ol>
 {:start="32"}
 32. We have litigation. This means you go to court and resolve it before a judge. We have arbitration, where you go before an arbitrator where proceedings are private and confidential. Then we have mediation. As many of you would have heard, we signed the Singapore Convention on Mediation in Singapore a few months ago. 
 <br>
-</ol>
 {:start="33"}
 33. Three of the world's most recognised dispute resolution mechanisms all sit and reside in here.
 <br>
@@ -180,7 +161,6 @@ a. We set up Maxwell Chambers, a physical infrastructure, which houses mediation
 <br>
 b. Our Singapore International Commercial Court is located not far from here in the Supreme Court, to house services to allow for international users to come and use them. 
 <br>
-</ol>
 {:start="34"}
 34. Parties will know that they can come around from all over the world. For example, if I am from the US and have a project in Vietnam, Laos, Cambodia, China or Russia, am I going to put my investments in there, without knowing that if there is a dispute, somebody fair, trusted and neutral will come and adjudicate on it? Our selling point is: we are neutral, fair and trusted, we are known and no-nonsense. We set up a strong system like this. 
 <br>
@@ -188,28 +168,22 @@ b. Our Singapore International Commercial Court is located not far from here in 
 a. Over time, we have attracted a lot of work from many parties who otherwise have nothing to do with Singapore, who are investing in another part of the world, but they choose  Singapore, they choose Maxwell Chambers, they choose  the Singapore International Arbitration Centre (SIAC), our international arbitration centre, as a place where they can resolve the disputes.  
 <br>
 b. The more we grow this, the more opportunities there will be for Singapore lawyers, and over time actually SIAC has seen even more number of cases coming from other parts of the world than from Singapore.  
-</ol>
 {:start="35"}
 35. We have mediation, which is slowly growing, but we had a significant shot in the arm when we hosted the signing of the Singapore Convention on Mediation in August. This was a significant event. The last major legal convention was when New York hosted the signing of the New York Convention in the 1960s, which was the convention to allow for the enforcement of arbitral awards across the world. 
 <br>
-</ol>
 {:start="36"}
 36. The Singapore Convention on Mediation is a convention that sets up a protocol where parties who sign up to the convention can enforce their mediated agreements across the world. We had 46 signatories, which is a big number. The New York Convention started with 10. We started with 46 in a matter of a few months. It is a sign that the business community looks at mediation as an increasingly viable opportunity and prospect for resolving disputes, in addition to going to court, or arbitration. It is important to recognise that these are the trends in the world.
 <br>
-</ol>
 {:start="37"}
 37. We took the leap and the UN named the convention after Singapore and allowed us to host the signing ceremony. Henceforth, it will be named as the Singapore Convention on Mediation, and everyone who studies mediation will know about Singapore. 
 <br>
-</ol>
 {:start="38"}
 38. This is the value proposition that we have: trusted, neutral, and a strong reliance on the rule of law. We do not tolerate any nonsense. Our judiciary is first class. No one can question its impartiality or independence and, of course, its judicial acumen. Our value is in all of these things - we build a strong bar, we make sure that we have a strong bench of judges, and we have a strong arbitration and mediation setup. For those who want to come into Singapore and want the court process, we also have the Singapore International Commercial Court. We have a full suite of different services, for different users, for different occasions, to ensure that there are as few excuses as possible to not to come into Singapore to use our legal services. 
 <br>
-</ol>
 {:start="39"}
 39. If you are a budding lawyer, look at what we have been doing, and will continue to do, to enhance the market; look at the opportunities in the market and focus on these areas. 
 <br>
 <br>
-</ol>
 ***Competition is stiff***
 <br>
 {:start="40"}
@@ -226,42 +200,33 @@ c. Now, this number needs to be looked at against another important number, whic
 <br>
 d. Not everyone who comes back with a degree will want to practise. They may not, or they may defer the practice or pursue future studies. The gap may be smaller, but you need to know that these are the numbers that we are looking at. 
 <br>
-</ol>
 {:start="41"}
 41. Whilst the legal sector is growing, there is no guarantee that all graduates will all get a training contract to practise law with firms they want. 
 <br>
 <br>
-</ol>
 **Changes to the Professional Training Regime**
 <br>
 {:start="42"}
 42. This is partly why we have taken steps to look at the training regime for lawyers on a holistic basis. In 2016, Chief Justice Menon set up a committee to look at the training of lawyers. Currently, those who come out of law school, complete Part B examinations and spend six months in a firm. In my time, it used to be called a pupillage, now it is called a practice training period. Once you finish that, you get called to the Bar. It takes a period of approximately five years before you qualify to practise. 
 <br>
-</ol>
 {:start="43"}
 43. What we found is that a lot of students take this course because this is the only way one can get qualified and be called to the Bar to be called a lawyer. You have to finish law school, and then you have to go through Part B as well as a training contract. Many of them get called then say, “actually the practice of law is not quite for me, I wanted to be a lawyer, I have been called a lawyer, but I am going to go in-house or work for an MNC or do business, or open a cake shop”. When you do that, what happens is you take up the number of places available for training. 
 <br>
-</ol>
 {:start="44"}
 44. One of the key recommendations that the committee made was to decouple the admission to the Bar from practice training. Now, when you finish school, you come out of school, qualify and be called to the Bar to be called a lawyer. This does not automatically give you a right to practise. Lawyers who are called and want to carry on into practice will thereafter go through a stint with a law firm. This method helps to be fairer to the system, and does not allow limited places to be taken up by those who may want to be called to the Bar and want to qualify as a lawyer, but actually have no intention to continue practising. We allow these people to be called, and those who want to practise will carry on. 
 <br>
-</ol>
 {:start="45"}
 45. What else is being done? We have to be multi-disciplinary. We have to embrace new skills and have a far more rigorous training, so that our lawyers of tomorrow will be well regarded and sought after in the region. The market for each and every one of you, if you practise law, is not just local firms, but off-shore firms as well. Many off-shore firms operate in Singapore and the region. We want the Singapore brand, and we want a lawyer who comes out of the system to be well-regarded. Big firms recognise that as a Singapore law graduate, baseline standards will be there. What each and every one of you does, how you conduct yourself and how you practise, is up to you, but we want there to be a recognition that there is a baseline standard. 
 <br>
-</ol>
 {:start="46"}
 46. The Committee also introduced measures to strengthen and to make more rigid the training contract. After you finish and get called, those who do not want to practise anymore will leave. Those who want to carry on will then go through their practice training period, which will be one year instead of six months. It is a lot more time spent with the firm and the mentor, and hopefully through that process, you will learn a lot more. There are a lot of other details about the changes in the report, I encourage you to read about them if you are keen on practising law. All of these steps will be taken to enhance the practice, strengthen the lawyer, and prepare the lawyer for practice.
 <br>
 <br>
-</ol>
 **Conclusion**
 {:start="47"}
 47. My last point, which I made right at the start, was that after listening to all the lectures, you will be out in different firms, some in private practice, and some in the public sector. I think that is the best part of these two weeks. Use that opportunity to see for yourselves what lawyers do, and do not just shadow the senior lawyer but go and look around for the younger lawyers. See what they do, see what their day is like, see how they interact with clients, take instructions, and interact with fellow lawyers, because that will give you a glimpse into what practice is actually about. That will best prepare you if you are deciding whether to choose law as a career and give you a better sense of what it is like to be in practice and be out on the ground. What you see on TV and read in books does not represent what practice is about. 
 <br>
-</ol>
 {:start="48"}
 48. Thank you very much.
-</ol>
 
 <p class="right-side-updated">Last updated on 18 Nov 2019</p> 
