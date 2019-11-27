@@ -57,8 +57,8 @@ b.The second reason why this is so, which is a special reason for Singapore, is 
 <br>
 18. All these factors affect the legal profession as well. I want to highlight a few demands that are perhaps peculiar to legal services, just to tell you what is up ahead.
 <br>
-**Challenges to Legal Sector**
 <br>
+**Challenges to Legal Sector**
 <br>
 19. The first is with the users of legal services, the clients - whether they are individuals or they are corporates - the dynamics have changed. The paradigm relationship with the client has changed. They no longer come to you to ask you for your advice on the law alone. They do not come to you and ask, "what is the legal position on this", or "if I want to do this, what are the legal steps that I need to take", or "what are the relevant pieces of legislation that will apply". No one does that anymore, because of the internet, because of Google. When you have Google, you have at least the first level of information for almost anything. It is very easy to find information now.
 <br>
