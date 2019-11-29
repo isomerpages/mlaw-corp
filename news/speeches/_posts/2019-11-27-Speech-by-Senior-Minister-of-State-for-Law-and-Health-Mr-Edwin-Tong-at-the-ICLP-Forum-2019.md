@@ -30,17 +30,17 @@ Ladies and Gentlemen
 4. The theme of this Forum is “Mutual Learning and Mutual Benefit (互学互鉴，共进共赢)”. I think all of us in this room will agree with this statement and this theme. Countries need to work together more, to create a better future and prosperity for our own citizens. There is so much that we can learn and share with each other. Multilateralism, working towards a common goal, is really not an option but a necessity today.
 
 **Importance of Multilateralism**
-<br>
+<ol start="5">
 5. Multilateralism is the key to growth in many economies. What does growth mean? Growth means trade, and an inflow of investments and exports. These are all activities that depend on working with each other. 
 {:start="6"}
 6. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
 {:start="7"}
 7. It was only after the war that countries started to recognise the benefit of a truly multilateral economic system. Developed countries opened up their markets. In return, they benefited from mutual trade and also access to new markets in developing countries for their products and services. Multilateral institutions, such as the United Nations, the World Trade Organisation (WTO) and the World Intellectual Property Organisation (WIPO), were set up. Multilateral free trade agreements were negotiated and entered into. As a result, global trade and investments increased dramatically. Global GDP grew, and in many countries, this  meant that the quality of life improved.
-{:start="8"}
+<ol start="8">
 8. China is one very good example. China’s reform and opening up in 1978 transformed China into the world’s second largest economy in just 40 years – a very short time for a country of this size and population. This is nothing short of a remarkable feat, and is testament to the organisation and determination of the leaders in China.
 
 **Multilateralism and Rule of Law**
-{:start="9"}
+<ol start="9">
 9. The rule of law is central to multilateralism. In a rules-based multilateral system, all countries are equal no matter the size of their economies. This is the rule of law, instead of the rule of power. For small countries like Singapore, where our external trade is 400% of our GDP, the promotion and preservation of the rule of law is in fact critical for our survival.
 {:start="10"}
 10. We therefore have built very strong rule of law in protecting businesses’ and individuals’ rights, regardless of their socioeconomic status. The laws apply to everyone across the board. For example, Singapore is recognised as having one of the strongest intellectual property (IP) protection regime in the world, and top in Asia. This is important because in today’s world, technology, artificial intelligence, product innovations, new inventions – these ideas in the age of the digital world need to be enhanced, and the people who develop them need to know that they will be protected. 
@@ -60,7 +60,7 @@ Ladies and Gentlemen
 17. Second, at the institution-to-institution level. We can work together to promote legal, dispute resolution and IP services. In today’s globalised world, businesses are trading and investing cross-border, and transferring knowledge and know-how across different jurisdictions. Projects typically involve multiple parties from different countries, coming from different legal systems, different cultures and different backgrounds. Commercial parties can no longer simply rely on the legal, dispute resolution (whether mediation or arbitration) and IP support in just one country alone. Therefore, to better support our users in Singapore, we have set up three major institutions – the Singapore International Arbitration Centre (SIAC), the Singapore International Mediation Centre (SIMC), and the Singapore International Commercial Court (SICC) – three different platforms to deal with different types of disputes.
 {:start="18"}
 18. Third, at the people-to-people level. At the end of the day, it is the people who makes the difference, as they are the ones who provide the services, who need the services, and who uphold the spirit of multilateralism. Therefore, platforms like this, where experts from different countries, with different know-how and expertise come together, provide a unique opportunity for us to share developments in our respective countries, to share ideas and know-how, to learn from each other, and to build networks that will last beyond the two to three days at a conference. 
-{:start="19"}
+<ol start="19">
 19. I am very pleased to say that my Ministry in Singapore will be co-organising the second edition of the Singapore-China International Commercial Dispute Resolution Conference with CCPIT in Singapore in April next year, after a very successful run earlier this year. I would like extend a warm welcome to each one of you to participate, and look forward to hosting all of you in Singapore.
 
 **Conclusion**
@@ -75,7 +75,7 @@ Ladies and Gentlemen
 23. We look forward to welcoming you in Singapore next year, and to return your hospitality that you have so kindly and so generously given to us. 
 {:start="24"}
 24. I have seen the programme for the next two days. CCPIT has curated a very comprehensive two-day programme for the participants, and I am sure that everyone here will leave the conference not just with a lot more information and a lot more know-how, but also a lot more new friends. 
-{:start="25"}
+<ol start="25">
 25. Thank you very much, and enjoy the conference.
 
 <p class="right-side-updated">Last updated on 27 Nov 2019</p> 
