@@ -5,7 +5,7 @@ date:   2019-11-27
 permalink: /news/speeches/Speech-by-Senior-Minister-of-State-for-Law-and-Health-Mr-Edwin-Tong-at-the-ICLP-Forum-2019
 ---
 
-27 Nov 2019 Posted in [[Speeches](/news/speeches)
+27 Nov 2019 Posted in [Speeches](/news/speeches)  
 
 Mr Shen Deyong, Chairman of the Committee for Social and Legal Affairs of the Chinese People’s Political Consultative Conference
 
