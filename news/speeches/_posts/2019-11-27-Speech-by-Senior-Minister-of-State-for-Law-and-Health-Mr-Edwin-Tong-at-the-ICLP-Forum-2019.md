@@ -30,8 +30,7 @@ Ladies and Gentlemen
 4. The theme of this Forum is “Mutual Learning and Mutual Benefit (互学互鉴，共进共赢)”. I think all of us in this room will agree with this statement and this theme. Countries need to work together more, to create a better future and prosperity for our own citizens. There is so much that we can learn and share with each other. Multilateralism, working towards a common goal, is really not an option but a necessity today.
 
 **Importance of Multilateralism**
-
-{:start="5"}
+<br>
 5. Multilateralism is the key to growth in many economies. What does growth mean? Growth means trade, and an inflow of investments and exports. These are all activities that depend on working with each other. 
 {:start="6"}
 6. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
@@ -41,7 +40,6 @@ Ladies and Gentlemen
 8. China is one very good example. China’s reform and opening up in 1978 transformed China into the world’s second largest economy in just 40 years – a very short time for a country of this size and population. This is nothing short of a remarkable feat, and is testament to the organisation and determination of the leaders in China.
 
 **Multilateralism and Rule of Law**
-
 {:start="9"}
 9. The rule of law is central to multilateralism. In a rules-based multilateral system, all countries are equal no matter the size of their economies. This is the rule of law, instead of the rule of power. For small countries like Singapore, where our external trade is 400% of our GDP, the promotion and preservation of the rule of law is in fact critical for our survival.
 {:start="10"}
