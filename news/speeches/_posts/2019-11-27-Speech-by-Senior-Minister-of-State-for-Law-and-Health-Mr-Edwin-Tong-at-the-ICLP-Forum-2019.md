@@ -41,7 +41,7 @@ Ladies and Gentlemen
 <li>China is one very good example. China’s reform and opening up in 1978 transformed China into the world’s second largest economy in just 40 years – a very short time for a country of this size and population. This is nothing short of a remarkable feat, and is testament to the organisation and determination of the leaders in China.
 <br>
 <br>
-**Multilateralism and Rule of Law**
+<b>Multilateralism and Rule of Law</b>
 
 <li>The rule of law is central to multilateralism. In a rules-based multilateral system, all countries are equal no matter the size of their economies. This is the rule of law, instead of the rule of power. For small countries like Singapore, where our external trade is 400% of our GDP, the promotion and preservation of the rule of law is in fact critical for our survival.
 
@@ -66,7 +66,7 @@ Ladies and Gentlemen
 <li>I am very pleased to say that my Ministry in Singapore will be co-organising the second edition of the Singapore-China International Commercial Dispute Resolution Conference with CCPIT in Singapore in April next year, after a very successful run earlier this year. I would like extend a warm welcome to each one of you to participate, and look forward to hosting all of you in Singapore.
 <br>
 <br>
-**Conclusion**
+<b>Conclusion</b>
 
 <li>Before I conclude, I would like to acknowledge the good work done by CCPIT over the years, and the friendship and support that CCPIT has given us over the last few years.
 
