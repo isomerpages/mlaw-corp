@@ -30,6 +30,7 @@ Ladies and Gentlemen
 4. The theme of this Forum is “Mutual Learning and Mutual Benefit (互学互鉴，共进共赢)”. I think all of us in this room will agree with this statement and this theme. Countries need to work together more, to create a better future and prosperity for our own citizens. There is so much that we can learn and share with each other. Multilateralism, working towards a common goal, is really not an option but a necessity today.
 
 **Importance of Multilateralism**
+
 {:start="5"}
 5. Multilateralism is the key to growth in many economies. What does growth mean? Growth means trade, and an inflow of investments and exports. These are all activities that depend on working with each other. 
 {:start="6"}
@@ -40,6 +41,7 @@ Ladies and Gentlemen
 8. China is one very good example. China’s reform and opening up in 1978 transformed China into the world’s second largest economy in just 40 years – a very short time for a country of this size and population. This is nothing short of a remarkable feat, and is testament to the organisation and determination of the leaders in China.
 
 **Multilateralism and Rule of Law**
+
 {:start="9"}
 9. The rule of law is central to multilateralism. In a rules-based multilateral system, all countries are equal no matter the size of their economies. This is the rule of law, instead of the rule of power. For small countries like Singapore, where our external trade is 400% of our GDP, the promotion and preservation of the rule of law is in fact critical for our survival.
 {:start="10"}
@@ -64,6 +66,7 @@ Ladies and Gentlemen
 19. I am very pleased to say that my Ministry in Singapore will be co-organising the second edition of the Singapore-China International Commercial Dispute Resolution Conference with CCPIT in Singapore in April next year, after a very successful run earlier this year. I would like extend a warm welcome to each one of you to participate, and look forward to hosting all of you in Singapore.
 
 **Conclusion**
+
 {:start="20"}
 20. Before I conclude, I would like to acknowledge the good work done by CCPIT over the years, and the friendship and support that CCPIT has given us over the last few years.
 {:start="21"}
