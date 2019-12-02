@@ -135,12 +135,12 @@ ii.	Investment treaties and trade agreements, such as the Comprehensive and Prog
 </ol>
 <ol start="12">
 <li>My Ministry will be organising the second edition of the Singapore Convention Conference. We just recovered from the excesses of the first conference, but now we are looking ahead to plan one in September 2020. We look forward to the PCA’s continued support, and of course, the participation of everyone present in this room.</li>
-<br>
+
 <b>Grand Opening of Maxwell Chambers Suites<b>
+</ol>
 <br>
 <ol start="13">
 <li>Finally, the third milestone is the grand opening of Maxwell Chambers Suites.</li>
-<br>
 </ol>
 <ol start="14">
 <li>A bit of the history of Maxwell Chambers. We started it in 2010 – and it was the ‘hardware’ piece to complement our ‘software’ – services. We set up the software by ensuring that the rules were conducive. We made sure that it was party-centric. Party autonomy ruled how arbitrations were decided, but we felt that we also needed, in addition to the software, the hardware – a place where it would be conducive, pleasant, and having nice restaurants always help.</li>
@@ -148,9 +148,9 @@ ii.	Investment treaties and trade agreements, such as the Comprehensive and Prog
 a.	So this became the world’s first integrated dispute resolution complex housing both leading international dispute resolution institutions, and also in our view, the best-in-class hearing facilities.
 </ol>
 </ol>
+</ol>
 <ol start="15">
 <li>We started in 2010, but by 2017, we had run out of space. Hence, we expanded into the adjacent premises, which used to be the Traffic Police Headquarters. We took it over, started refurbishment in 2017, and completed earlier this year. It took us 20 months – quite quick for a building that is rich in history and heritage. There was a brief to the architects to preserve the heritage and the architecture so that the building would look as it was in the past.</li>
-<br>
 <br>
 <ol start="16">
 <li>Today, Maxwell Chambers Suites</li>
@@ -175,9 +175,9 @@ vi.	The American Arbitration Association (AAA) International Centre for Dispute 
 <br>
 </ol>
 </ol>
+</ol>
 <ol start="17">
 <li>Maxwell Chambers has also added 15 more rooms to the current 22, on Level 2 of the building.</li>
-<br>
 <ol start="a">
 a. With these expansions, we can take in more arbitration cases, more mediation cases and with time, more PCA cases we hope.
 <br>
@@ -189,14 +189,16 @@ a. With these expansions, we can take in more arbitration cases, more mediation 
 <ol start="18">
 <li>Finally, we look ahead into the future. As we have developed the hardware and the software and put that together, we feel we need to continuously look at how the world has evolved. Because at the core of what we do, and why we do it, is to ensure that our services always remain business centric and user friendly for businesses.</li>
 <br>
-<br>
+</ol>
 <ol start="19">
 <li>So we continually look at how we can make the environment even more conducive for businesses and to make it pro users.</li>
 <ol start="a">
 a.	We continually look at the current framework and regime that we have, and see what tweaks we can do to make it even more responsive to business needs.
+</ol>
 <ol start="20">
 <li>We are currently considering a few proposals, which I will share with you this evening.</li>
 <br>
+</ol>
 <ol start="21">
 <li>The first is the conditional fee agreements in certain prescribed areas, which include international arbitration.</li> 
 <ol start="a">
@@ -205,6 +207,7 @@ a.	Conditional fee agreements may be commonplace in many other jurisdictions, bu
 b.	We have historically been a bit more conservative. We looked very carefully and were very guarded about the possibility of champerty, and we were concerned about the extent to which conditional fee agreements might itself proliferate litigation. 
 <br>
 c.	We are consulting with our stakeholders, as we often do with new and novel projects to get feedback, get a sense of the market and what the users felt about it. We will be taking incremental steps slowly and looking at it from a very progressive perspective, taking into account what has been done elsewhere, the safeguards that are put in place and how we can contextualize it for our local use.
+</ol>
 <ol start="22">
 <li>More recently, my Ministry also launched a public consultation to seek views on proposals on the International Arbitration Act.  We constantly amend it to keep pace with developments in the public domain and businesses. Some of the areas that we now are considering would be:</li>
 <ol start="a">
@@ -215,8 +218,11 @@ b.	Second, whether to allow parties, by mutual agreement, to request for arbitra
 c.	Third, whether to provide an arbitral tribunal and the Courts with powers to support the enforcement obligations of confidentiality in an arbitration; very often, if one side breaches the confidentiality obligations, what happens? What are the powers of the tribunal, and what should the concomitant powers of the court be?  
 <br>
 d.	Fourth, whether to allow a party to arbitral proceedings to appeal to the High Court on a question of law arising from an award made in the proceedings, provided the parties have, in the arbitration agreement, agreed to opt in to such a mechanism. If you study the common thread that runs through the different proposals, you will see that many of our proposals, if not all, rest on decisions made by the parties. It is opt in to the right to appeal an award, not opt out, and it is with agreement that the arbitrators are cloaked with additional jurisdictional powers. We want to look at it from a perspective of giving parties a choice. We set up the infrastructure but you have the choice on whether to opt in to avail yourself of these options. 
+</ol>
+</ol>
 <ol start="23">
 <li>Currently we are looking at the extensive feedback which we have received from practitioners, stakeholders, institutions and users, and we will reach a landing on each of those points.</li>
+</ol>
 <ol start="24">
 <li>That is really to give you a flavour of the efforts that we take to keep our framework current and to be also informed by the experience of other jurisdictions. We do not necessarily have to reinvent the wheel each time. We look at the experience of other jurisdictions, other institutions, and we try to borrow the best practices, but contextualising them for our own local domestic use. We see this process as continually evolving, one that is collaborative, working with each of you as the stakeholders, the institutions. We think it is a dynamic process with a lot of to and fro, among the government and stakeholders, including practitioners and institutions. All of you have much to offer as we refine our laws and make them pro-business and focus on the users as being the centrepiece in this whole equation.</li>
 
