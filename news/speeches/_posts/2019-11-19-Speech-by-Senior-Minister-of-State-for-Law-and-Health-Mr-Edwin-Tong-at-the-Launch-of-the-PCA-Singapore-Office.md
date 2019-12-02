@@ -141,6 +141,7 @@ ii.	Investment treaties and trade agreements, such as the Comprehensive and Prog
 <ol start="13">
 <li>Finally, the third milestone is the grand opening of Maxwell Chambers Suites.</li>
 </ol>
+<br>
 <ol start="14">
 <li>A bit of the history of Maxwell Chambers. We started it in 2010 – and it was the ‘hardware’ piece to complement our ‘software’ – services. We set up the software by ensuring that the rules were conducive. We made sure that it was party-centric. Party autonomy ruled how arbitrations were decided, but we felt that we also needed, in addition to the software, the hardware – a place where it would be conducive, pleasant, and having nice restaurants always help.</li>
 <ol start="a">
@@ -151,6 +152,7 @@ a.	So this became the world’s first integrated dispute resolution complex hous
 <ol start="15">
 <li>We started in 2010, but by 2017, we had run out of space. Hence, we expanded into the adjacent premises, which used to be the Traffic Police Headquarters. We took it over, started refurbishment in 2017, and completed earlier this year. It took us 20 months – quite quick for a building that is rich in history and heritage. There was a brief to the architects to preserve the heritage and the architecture so that the building would look as it was in the past.</li>
 <br>
+</ol>
 <ol start="16">
 <li>Today, Maxwell Chambers Suites</li>
 <ol start="a">
