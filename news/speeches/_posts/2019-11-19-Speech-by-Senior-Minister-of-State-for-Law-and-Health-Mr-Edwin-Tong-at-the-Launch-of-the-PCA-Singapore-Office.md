@@ -30,6 +30,7 @@ Ladies and Gentlemen
 4. I am very happy that you have chosen to launch your office in Singapore, and in this year, on the occasion of your 120th anniversary. There are a couple of milestones that I would like to reflect on, beginning with the launch of the PCA Singapore office.
 
 **Official Launch of PCA Singapore Office**
+</ol>
 <ol start="5">
 5. In Singapore, our relationship with the PCA started many years ago:
 <ol start="a">
@@ -52,6 +53,7 @@ ii. “the signing of this Host Country Agreement represents a milestone in the 
 <br>
 <br>
 iii. It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
+</ol>
 </ol>
 <ol start="e">
 e. Here we are today, celebrating the launch of the new office of PCA. 
