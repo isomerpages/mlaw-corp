@@ -55,7 +55,7 @@ iii. It goes on to say that it “opens a new door to expanded cooperation in [o
 </ol>
 </ol>
 <ol start="e">
-<li>Here we are today, celebrating the launch of the new office of PCA.</li>
+<li>e. Here we are today, celebrating the launch of the new office of PCA.</li>
 </ol>
 <br>
 <ol start="6">
@@ -71,6 +71,7 @@ c.	Those signs must obviously have been heeded by the PCA. Because you started w
 </ol>
 <b>Singapore Convention on Mediation</b>
 <br>
+</ol>
 <ol start="7">
 <li>The second milestone I would like to reflect on is:</li>
 <ol start="a">
