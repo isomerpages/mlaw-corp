@@ -135,9 +135,8 @@ ii.	Investment treaties and trade agreements, such as the Comprehensive and Prog
 </ol>
 <ol start="12">
 <li>My Ministry will be organising the second edition of the Singapore Convention Conference. We just recovered from the excesses of the first conference, but now we are looking ahead to plan one in September 2020. We look forward to the PCA’s continued support, and of course, the participation of everyone present in this room.</li>
-
-<b>Grand Opening of Maxwell Chambers Suites<b>
 </ol>
+<h1>Grand Opening of Maxwell Chambers Suites</h1>
 <br>
 <ol start="13">
 <li>Finally, the third milestone is the grand opening of Maxwell Chambers Suites.</li>
