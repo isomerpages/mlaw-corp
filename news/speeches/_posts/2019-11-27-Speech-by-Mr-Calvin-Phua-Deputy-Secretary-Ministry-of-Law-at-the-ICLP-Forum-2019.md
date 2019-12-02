@@ -71,7 +71,7 @@ permalink: /news/speeches/Speech-by-Mr-Calvin-Phua-Deputy-Secretary-Ministry-of-
 
 <li>在处理 “跨境商业 纠纷”的时候，调解可以照顾到不同的文化、法律和商业需要，维护商业关系，让当事人更好地掌控协议结果，也减少纠纷解决所需要的时间与费用。
 
-<li>然而，跨境调解面对的最大挑战是：和解协议缺乏一套有效和统一的 **跨境执行框架**。因此，《<span style="text-decoration: underline;">联合国关于调解所产生的国际和解协议公约</span>》(简称《<span style="text-decoration: underline;">新加坡调解公约</span>》)是一个重要的里程碑。《<span style="text-decoration: underline;">新加坡调解公约</span>》 ，联同国际仲裁协议《<span style="text-decoration: underline;">纽约公约</span>》 和国际诉讼协议《<span style="text-decoration: underline;">海牙选择法院协议公约</span>》，将形成完整的国际商业纠纷解决执行框架。
+<li>然而，跨境调解面对的最大挑战是：和解协议缺乏一套有效和统一的<b>跨境执行框架</b>。因此，《<span style="text-decoration: underline;">联合国关于调解所产生的国际和解协议公约</span>》(简称《<span style="text-decoration: underline;">新加坡调解公约</span>》)是一个重要的里程碑。《<span style="text-decoration: underline;">新加坡调解公约</span>》 ，联同国际仲裁协议《<span style="text-decoration: underline;">纽约公约</span>》 和国际诉讼协议《<span style="text-decoration: underline;">海牙选择法院协议公约</span>》，将形成完整的国际商业纠纷解决执行框架。
 
 <li>至今，包括新加坡和中国 在内，共有 51个国家 签署了《新加坡调解公约》。《新加坡调解公约》取得的强有力支持显示， 许多国家都认同调解的实用价值。
 
