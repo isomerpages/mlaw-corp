@@ -30,7 +30,7 @@ Ladies and Gentlemen
 4. I am very happy that you have chosen to launch your office in Singapore, and in this year, on the occasion of your 120th anniversary. There are a couple of milestones that I would like to reflect on, beginning with the launch of the PCA Singapore office.
 
 **Official Launch of PCA Singapore Office**
-<ol start="5">
+<br>
 5. In Singapore, our relationship with the PCA started many years ago:
 <ol start="a">
 a. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
@@ -47,12 +47,12 @@ d.	We are happy that this was then subsequently elevated to a Host Country Agree
 <ol start="i">
 i. At that occasion, in the Secretary-General’s speech, he said,
 <br>
+<br>
 ii. “the signing of this Host Country Agreement represents a milestone in the long and fruitful relationship between PCA and Singapore” and
+<br>
 <br>
 iii. It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
 </ol>
-<br>
-<ol start="e">
 e. Here we are today, celebrating the launch of the new office of PCA. 
 </ol>
 <br>
