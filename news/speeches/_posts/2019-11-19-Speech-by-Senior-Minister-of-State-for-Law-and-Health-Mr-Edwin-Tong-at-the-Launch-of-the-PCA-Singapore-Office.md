@@ -72,8 +72,6 @@ c.	Those signs must obviously have been heeded by the PCA. Because you started w
 </ol>
 <b>Singapore Convention on Mediation</b>
 <br>
-</ol>
-</ol>
 <ol start="7">
 <li>The second milestone I would like to reflect on is:</li>
 <ol start="a">
@@ -96,8 +94,10 @@ b.	70 countries attended the occasion to support the Convention.
 c.	46 countries signed the Convention once it opened, on the 7th of August. That includes two of the world’s largest economies – the US and China, and three of the four largest economies in Asia – China, India, South Korea. Japan was present to show support, but felt that they needed a bit of time to look at the terms and what it meant.
 <br>
 </ol>
+</ol>
 <ol start="9">
 <li>Since then, 5 more countries have signed the Convention, bringing the total now to 51.</li>
+</ol>
 <ol start="10">
 <li>This strong show of support of the Convention, in my view, demonstrates:</li>
 <ol start="a">
