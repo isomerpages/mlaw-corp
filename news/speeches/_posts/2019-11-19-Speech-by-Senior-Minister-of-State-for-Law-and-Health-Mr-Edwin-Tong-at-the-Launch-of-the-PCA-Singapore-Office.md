@@ -31,7 +31,7 @@ Ladies and Gentlemen
 
 **Official Launch of PCA Singapore Office**
 <ol start="5">
-<li> In Singapore, our relationship with the PCA started many years ago:</li>
+<li>In Singapore, our relationship with the PCA started many years ago:</li>
 <ol start="a">
 a. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
 <br>
@@ -53,11 +53,9 @@ ii. “the signing of this Host Country Agreement represents a milestone in the 
 <br>
 iii. It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
 </ol>
-</ol>
 <ol start="e">
-<li>e. Here we are today, celebrating the launch of the new office of PCA.</li>
+e. Here we are today, celebrating the launch of the new office of PCA.
 </ol>
-<br>
 <ol start="6">
 <li>The PCA Singapore Office has achieved very much in the short time since it started operations in 2018.</li>
 <ol start="a">
@@ -75,12 +73,12 @@ c.	Those signs must obviously have been heeded by the PCA. Because you started w
 <ol start="7">
 <li>The second milestone I would like to reflect on is:</li>
 <ol start="a">
-<br>
 a. the signing of the United Nations Convention on International Settlement Agreements Resulting from Mediation also known as the “Singapore Convention on Mediation”.
 <br>
 <br>
 b. Many of you here, were present on that occasion, on the 7th of August at Shangri-La Hotel, witnessing the historic moment. Something that we are very proud of, and will remain very proud of, for many years to come.
 <br>
+</ol>
 </ol>
 <ol start="8">
 <li>Why is it historic? Because:</li>
