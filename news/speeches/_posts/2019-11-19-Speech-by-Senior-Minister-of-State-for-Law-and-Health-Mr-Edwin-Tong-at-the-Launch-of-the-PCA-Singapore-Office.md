@@ -194,7 +194,6 @@ a.	We continually look at the current framework and regime that we have, and see
 <ol start="20">
 <li>We are currently considering a few proposals, which I will share with you this evening.</li>
 </ol>
-</ol>
 <ol start="21">
 <li>The first is the conditional fee agreements in certain prescribed areas, which include international arbitration.</li> 
 <ol start="a">
@@ -222,18 +221,13 @@ c.	Third, whether to provide an arbitral tribunal and the Courts with powers to 
 d.	Fourth, whether to allow a party to arbitral proceedings to appeal to the High Court on a question of law arising from an award made in the proceedings, provided the parties have, in the arbitration agreement, agreed to opt in to such a mechanism. If you study the common thread that runs through the different proposals, you will see that many of our proposals, if not all, rest on decisions made by the parties. It is opt in to the right to appeal an award, not opt out, and it is with agreement that the arbitrators are cloaked with additional jurisdictional powers. We want to look at it from a perspective of giving parties a choice. We set up the infrastructure but you have the choice on whether to opt in to avail yourself of these options. 
 </ol>
 </ol>
-</ol>
 <ol start="23">
 <li>Currently we are looking at the extensive feedback which we have received from practitioners, stakeholders, institutions and users, and we will reach a landing on each of those points.</li>
-</ol>
 </ol>
 <ol start="24">
 <li>That is really to give you a flavour of the efforts that we take to keep our framework current and to be also informed by the experience of other jurisdictions. We do not necessarily have to reinvent the wheel each time. We look at the experience of other jurisdictions, other institutions, and we try to borrow the best practices, but contextualising them for our own local domestic use. We see this process as continually evolving, one that is collaborative, working with each of you as the stakeholders, the institutions. We think it is a dynamic process with a lot of to and fro, among the government and stakeholders, including practitioners and institutions. All of you have much to offer as we refine our laws and make them pro-business and focus on the users as being the centrepiece in this whole equation.</li>
 </ol>
-</ol>
-
 <b>Conclusion<b>
-</ol>
 <ol start="25">
 <li>Finally, let me just once again extend my congratulations to PCA. It is not just the opening of your office here today, but as I mentioned earlier, your 120th anniversary. That is testament to the strength over time, more than a century.</li>
 </ol>
@@ -243,4 +237,4 @@ d.	Fourth, whether to allow a party to arbitral proceedings to appeal to the Hig
 <ol start="27">
 <li>On that note, I wish you a very pleasant evening ahead, and once again, Secretary-General, congratulations.</li> 
 
-<p class="right-side-updated">Last updated on 27 Nov 2019</p> 
+<p class="right-side-updated">Last updated on 19 Nov 2019</p> 
