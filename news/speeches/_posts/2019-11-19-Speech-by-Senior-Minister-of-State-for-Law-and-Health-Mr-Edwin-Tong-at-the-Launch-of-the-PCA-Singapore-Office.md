@@ -29,8 +29,8 @@ Ladies and Gentlemen
 
 4. I am very happy that you have chosen to launch your office in Singapore, and in this year, on the occasion of your 120th anniversary. There are a couple of milestones that I would like to reflect on, beginning with the launch of the PCA Singapore office.
 
-**Importance of Multilateralism**
-
+**Official Launch of PCA Singapore Office**
+<ol start="5">
 5. In Singapore, our relationship with the PCA started many years ago:
 <ol start="a">
 a. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
@@ -44,20 +44,18 @@ c.	Singapore and PCA signed the Facility Agreement in 2007, to allow PCA to hold
 <br>
 d.	We are happy that this was then subsequently elevated to a Host Country Agreement in 2017. Secretary General was present in Singapore for the occasion. 
 <br>
-<br>
 <ol start="i">
-<li> At that occasion, in the Secretary-General’s speech, he said,
+i. At that occasion, in the Secretary-General’s speech, he said,
 <br>
+ii. “the signing of this Host Country Agreement represents a milestone in the long and fruitful relationship between PCA and Singapore” and
 <br>
-<li> “the signing of this Host Country Agreement represents a milestone in the long and fruitful relationship between PCA and Singapore” and
-<br>
-<br>
-<li> It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
+iii. It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
 </ol>
 <br>
+<ol start="e">
 e. Here we are today, celebrating the launch of the new office of PCA. 
 </ol>
-
+<br>
 6. The PCA Singapore Office has achieved very much in the short time since it started operations in 2018.
 <ol start="a">
 a.	In its very first year of operations alone, it administered 28 PCA proceedings, and concluded 9 PCA hearings in Singapore.
@@ -71,7 +69,6 @@ c.	Those signs must obviously have been heeded by the PCA. Because you started w
 <b>Singapore Convention on Mediation</b>
 <br>
 <br>
-</ol>
 7. The second milestone I would like to reflect on is: 
 <ol start="a">
 <br>
@@ -101,53 +98,45 @@ c.	46 countries signed the Convention once it opened, on the 7th of August. That
 <br>
 a.	A very strong commitment towards multilateralism and rules-based international order, and
 <br>
-<br>
 b.	also a recognition that mediation as an additional option to resolving disputes, is on the radar of many businesses. Mediation is a viable option to resolving disputes, not only economically, but in a way which is more sustainable in the long term, where the parties’ relationships can be preserved.
-<br>
 <br>
 c.	The need for a system that will enhance cross-border enforceability of mediated settlement agreements and provide certainty and greater assurance of the continuity of businesses, is really the attraction behind the Singapore Convention.
 <ol start="i">
 <br>
 i.	We believe that the Singapore Convention provides that missing piece in the international dispute resolution enforcement framework,
 <br>
-<br>
 ii.	the other two being the Hague Convention on Choice of Court Agreements for litigation, and the New York Convention for arbitration.
 <br>
 </ol>
-</ol>
+<ol start="11">
 11.	I believe that the Singapore Convention is also relevant to the work of the PCA.
 <ol start="a">
 <br>
 a.	The PCA’s functions are not limited only to arbitration, but also include providing support in connection with other forms of peaceful resolution of international disputes, and that includes mediation and conciliation. 
 <br>
-<br>
 b.	We all know that there is a growing interest in investor-state mediation.
-<br>
 <br>
 <ol start="i">
 i.	More and more states are turning to mediation for inter-state dispute settlement, and over time, we will see a significant rise in that space.
-<br>
 <br>
 ii.	Investment treaties and trade agreements, such as the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (TPP), increasingly incorporate mediation clauses. So the TPP has a mediation clause.
 <br>
 
 </ol>
 </ol>
+<ol start="12">
 12.	My Ministry will be organising the second edition of the Singapore Convention Conference. We just recovered from the excesses of the first conference, but now we are looking ahead to plan one in September 2020. We look forward to the PCA’s continued support, and of course, the participation of everyone present in this room.
-<br>
 <br>
 <b>Grand Opening of Maxwell Chambers Suites</b>
 <br>
-<br>
 13. Finally, the third milestone is the grand opening of Maxwell Chambers Suites. 
-<br>
 <br>
 14. A bit of the history of Maxwell Chambers. We started it in 2010 – and it was the ‘hardware’ piece to complement our ‘software’ – services. We set up the software by ensuring that the rules were conducive. We made sure that it was party-centric. Party autonomy ruled how arbitrations were decided, but we felt that we also needed, in addition to the software, the hardware – a place where it would be conducive, pleasant, and having nice restaurants always help.
 <ol start="a">
-<br>
 a.	So this became the world’s first integrated dispute resolution complex housing both leading international dispute resolution institutions, and also in our view, the best-in-class hearing facilities.
 </ol>
 </ol>
+<ol start="15">
 15.	We started in 2010, but by 2017, we had run out of space. Hence, we expanded into the adjacent premises, which used to be the Traffic Police Headquarters. We took it over, started refurbishment in 2017, and completed earlier this year. It took us 20 months – quite quick for a building that is rich in history and heritage. There was a brief to the architects to preserve the heritage and the architecture so that the building would look as it was in the past. 
 <br>
 <br>
@@ -156,9 +145,7 @@ a.	So this became the world’s first integrated dispute resolution complex hous
 <br>
 a.	houses at least 11 international institutions, and 20 dispute chambers and practices across 11 jurisdictions. 
 <br>
-<br>
 b.	It has the highest concentration of case management offices within a facility in the world. This includes:
-<br>
 <br>
 <ol start="i">
 i.	The PCA;
@@ -177,21 +164,23 @@ vi.	The American Arbitration Association (AAA) International Centre for Dispute 
 </ol>
 17.	Maxwell Chambers has also added 15 more rooms to the current 22, on Level 2 of the building. 
 <br>
-<br>
 <ol start="a">
 a. With these expansions, we can take in more arbitration cases, more mediation cases and with time, more PCA cases we hope.
 <br>
+</ol>
+<b>Enhancing Singapore’s Position as an Arbitration Hub</b>
 <br>
 </ol>
-<b>Enhancing Singapore’s Position as an Arbitration Hub<b>
-<br>
+</ol>
+<ol start="18">
 18. Finally, we look ahead into the future. As we have developed the hardware and the software and put that together, we feel we need to continuously look at how the world has evolved. Because at the core of what we do, and why we do it, is to ensure that our services always remain business centric and user friendly for businesses. 
+<br>
 19. So we continually look at how we can make the environment even more conducive for businesses and to make it pro users.
 <ol start="a">
 a.	We continually look at the current framework and regime that we have, and see what tweaks we can do to make it even more responsive to business needs.
 <ol start="20">
 20.	We are currently considering a few proposals, which I will share with you this evening.
-
+<br>
 21.	The first is the conditional fee agreements in certain prescribed areas, which include international arbitration. 
 <ol start="a">
 a.	Conditional fee agreements may be commonplace in many other jurisdictions, but for us it is a relatively novel concept. 
