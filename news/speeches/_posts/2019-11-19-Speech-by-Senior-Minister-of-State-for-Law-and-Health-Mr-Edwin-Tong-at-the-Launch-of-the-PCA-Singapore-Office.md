@@ -53,8 +53,10 @@ ii. “the signing of this Host Country Agreement represents a milestone in the 
 <br>
 iii. It goes on to say that it “opens a new door to expanded cooperation in [our] shared goal of peacefully settling disputes in accordance with the law.
 </ol>
+</ol>
 <ol start="e">
-e. Here we are today, celebrating the launch of the new office of PCA.
+<p>e. Here we are today, celebrating the launch of the new office of PCA.</p>
+</ol>
 </ol>
 <ol start="6">
 <li>The PCA Singapore Office has achieved very much in the short time since it started operations in 2018.</li>
@@ -67,8 +69,10 @@ b.	In addition, it has, apart from administering cases and hosting the cases, tr
 <br>
 c.	Those signs must obviously have been heeded by the PCA. Because you started with an office of around 345 square feet for 1 staff but very quickly doubled that, in fact more than doubled that, to house 6 staff and interns when you moved into the Maxwell Chambers Suites earlier this year. This demonstrates the growth, the potential, and indeed the confidence that PCA has in Singapore. For that I am very, very grateful. 
 </ol>
+</ol>
 <b>Singapore Convention on Mediation</b>
 <br>
+</ol>
 </ol>
 <ol start="7">
 <li>The second milestone I would like to reflect on is:</li>
@@ -83,7 +87,6 @@ b. Many of you here, were present on that occasion, on the 7th of August at Shan
 <ol start="8">
 <li>Why is it historic? Because:</li>
 <ol start="a">
-<br>
 a.	It was the first time a multilateral convention under the auspices of the UN is named after Singapore. 
 <br>
 <br>
@@ -95,7 +98,6 @@ c.	46 countries signed the Convention once it opened, on the 7th of August. That
 </ol>
 <ol start="9">
 <li>Since then, 5 more countries have signed the Convention, bringing the total now to 51.</li>
-<br>
 <ol start="10">
 <li>This strong show of support of the Convention, in my view, demonstrates:</li>
 <ol start="a">
@@ -215,7 +217,7 @@ d.	Fourth, whether to allow a party to arbitral proceedings to appeal to the Hig
 <ol start="24">
 <li>That is really to give you a flavour of the efforts that we take to keep our framework current and to be also informed by the experience of other jurisdictions. We do not necessarily have to reinvent the wheel each time. We look at the experience of other jurisdictions, other institutions, and we try to borrow the best practices, but contextualising them for our own local domestic use. We see this process as continually evolving, one that is collaborative, working with each of you as the stakeholders, the institutions. We think it is a dynamic process with a lot of to and fro, among the government and stakeholders, including practitioners and institutions. All of you have much to offer as we refine our laws and make them pro-business and focus on the users as being the centrepiece in this whole equation.</li>
 
-**Conclusion**
+<b>Conclusion<b>
 
 <ol start="25">
 <li>Finally, let me just once again extend my congratulations to PCA. It is not just the opening of your office here today, but as I mentioned earlier, your 120th anniversary. That is testament to the strength over time, more than a century.</li>
