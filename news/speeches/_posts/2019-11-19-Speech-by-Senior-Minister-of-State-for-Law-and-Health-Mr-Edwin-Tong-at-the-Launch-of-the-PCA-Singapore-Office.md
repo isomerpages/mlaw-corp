@@ -30,9 +30,8 @@ Ladies and Gentlemen
 4. I am very happy that you have chosen to launch your office in Singapore, and in this year, on the occasion of your 120th anniversary. There are a couple of milestones that I would like to reflect on, beginning with the launch of the PCA Singapore office.
 
 **Official Launch of PCA Singapore Office**
-</ol>
 <ol start="5">
-5. In Singapore, our relationship with the PCA started many years ago:
+<li>5. In Singapore, our relationship with the PCA started many years ago:</li>
 <ol start="a">
 a. Just have a look at what happened when countries adopted a trade protectionism approach. Everyone will be familiar with the Great Depression in the 1930s, where countries devalued their own currencies so that exports can be boosted. They also raised their own tariff barriers, hoping to stimulate their own domestic economic activity by reducing imports. These measures can only succeed if other countries do not also respond in the same way. But of course, they did. During that period, global trade shrank by about 65%.
 <br>
