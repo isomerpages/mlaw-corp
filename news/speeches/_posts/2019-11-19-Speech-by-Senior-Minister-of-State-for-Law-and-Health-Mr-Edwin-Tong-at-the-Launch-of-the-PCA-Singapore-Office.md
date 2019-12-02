@@ -115,6 +115,7 @@ i.	We believe that the Singapore Convention provides that missing piece in the i
 ii.	the other two being the Hague Convention on Choice of Court Agreements for litigation, and the New York Convention for arbitration.
 </ol>
 </ol>
+</ol>
 <ol start="11">
 <li>I believe that the Singapore Convention is also relevant to the work of the PCA.</li>
 <ol start="a">
@@ -131,14 +132,16 @@ ii.	Investment treaties and trade agreements, such as the Comprehensive and Prog
 <br>
 </ol>
 </ol>
+</ol>
 <ol start="12">
 <li>My Ministry will be organising the second edition of the Singapore Convention Conference. We just recovered from the excesses of the first conference, but now we are looking ahead to plan one in September 2020. We look forward to the PCA’s continued support, and of course, the participation of everyone present in this room.</li>
 <br>
-**Grand Opening of Maxwell Chambers Suites**
+<b>Grand Opening of Maxwell Chambers Suites<b>
 <br>
 <ol start="13">
 <li>Finally, the third milestone is the grand opening of Maxwell Chambers Suites.</li>
 <br>
+</ol>
 <ol start="14">
 <li>A bit of the history of Maxwell Chambers. We started it in 2010 – and it was the ‘hardware’ piece to complement our ‘software’ – services. We set up the software by ensuring that the rules were conducive. We made sure that it was party-centric. Party autonomy ruled how arbitrations were decided, but we felt that we also needed, in addition to the software, the hardware – a place where it would be conducive, pleasant, and having nice restaurants always help.</li>
 <ol start="a">
