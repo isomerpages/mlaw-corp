@@ -39,9 +39,9 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/1514972152202.jpg" title="Mr Ng How Yue" alt="Mr Ng How Yue">
+  <img src="/images/Mr_Loh_Khum_Yean.PNG" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
 </div>
-  <b>Mr Ng How Yue</b><br>
+  <b>Mr Loh Khum Yean</b><br>
   Permanent Secretary<br>
   Ministry of Law<br><br>
 
