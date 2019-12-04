@@ -39,7 +39,7 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/Mr_Loh_Khum_Yean.PNG" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
+  <img src="/images/Mr_Loh_Khum_Yean.jpg" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
 </div>
   <b>Mr Loh Khum Yean</b><br>
   Permanent Secretary<br>
