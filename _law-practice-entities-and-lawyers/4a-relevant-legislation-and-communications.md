@@ -67,4 +67,4 @@ Legal Profession Act amendments relating to Singapore and Foreign Group Practice
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 07 Sep 2018</p> 
+<p class="right-side-updated">Last updated on 12 Dec 2019</p> 
