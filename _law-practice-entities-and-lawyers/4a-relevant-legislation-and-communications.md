@@ -56,7 +56,7 @@ Relevant Legislation and Communications
           <a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing</a> (238KB)[03/2018]
         </li>
         <li><p style="text-align: justify">
-            <a href="/files/LSRAGuidelinesonFinancialArrangementsbetweenSLPsandFLPsinColla.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (418KB)[04/2018]</p>
+            <a href="/files/LSRA_Guidelines_on_Financial_Arrangements_between_SLPs_and_FLPs_in_Collaborations_December_2019.pdf/">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (634KB)[12/2019]</p>
         </li>
         <li style="text-align: justify">
           <a href="/files/Singapore_and_Foreign_Group_Practices_7_September_2018.pdf/" target="_blank">
