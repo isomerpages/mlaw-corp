@@ -23,9 +23,9 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 <ol start="4">
 <li>The maximum punishment for the following offences was doubled:</li>
 
-<p style="margin-left: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;<a href="#1">[1]</a></p>
+<p style="margin-left: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;<sup><a href="#fn1" id="ref1">1</a></sup></p>
 
-<p style="margin-left: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship<a href="#2">[2]</a> or in a close relationship<a href="#3">[3]</a> with the offender.<a href="#4">[4]</a> The enhancements apply even if the persons are not married;</p>
+<p style="margin-left: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship<sup><a href="#fn2" id="ref2">2</a></sup>or in a close relationship<sup><a href="#fn3" id="ref3">3</a></sup>with the offender.<sup><a href="#fn4" id="ref4">4</a></sup>The enhancements apply even if the persons are not married;</p>
 
 <p style="margin-left: 40px">c. Harassment of persons in an intimate relationship with the offender, and harassment of persons with disabilities; and</p>
 
@@ -60,12 +60,12 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 <b>MINISTRY OF HOME AFFAIRS AND MINISTRY OF LAW</b><br>
 <b>27 DECEMBER 2019</b>
 
-<p><a id="1">[1]</a> The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
+<p><sup id="fn1">1. The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><a id="2">[2]</a> The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.</p>
+<p><sup id="fn2">2. The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
-<p><a id="3">[3]</a> Persons who are members of the same household and who have frequent contact with each other.</p>
+<p><sup id="fn3">3. Persons who are members of the same household and who have frequent contact with each other.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-<p><a id="4">[4]</a> The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
+<p><sup id="fn4">4. The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 27 Dec 2019</p> 
