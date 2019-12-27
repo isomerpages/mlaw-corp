@@ -23,9 +23,9 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 <ol start="4">
 <p><li>The maximum punishment for the following offences was doubled:</li></p>
 <br>
-<p style="margin-left: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;[1]</p>
+<p style="margin-left: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;<a href="#Reference1">[1]</a></p>
 
-<p style="margin-left: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship[2] or in a close relationship[3] with the offender.[4] The enhancements apply even if the persons are not married;</p>
+<p style="margin-left: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship<a href="#Reference2">[2]</a> or in a close relationship<a href="#Reference3">[3]</a> with the offender.<a href="#Reference4">[4]</a> The enhancements apply even if the persons are not married;</p>
 
 <p style="margin-left: 40px">c. Harassment of persons in an intimate relationship with the offender, and harassment of persons with disabilities; and</p>
 
@@ -58,12 +58,12 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 <b>MINISTRY OF HOME AFFAIRS AND MINISTRY OF LAW</b><br>
 <b>27 DECEMBER 2019</b>
 
-[1] The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.
+<p><a id="Reference 1">[1]</a> The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
 
-[2] The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.
+<p><a id="Reference 2">[2]</a> The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.</p>
 
-[3] Persons who are members of the same household and who have frequent contact with each other.
+<p><a id="Reference 3">[3]</a> Persons who are members of the same household and who have frequent contact with each other.</p>
 
-[4] The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.
+<p><a id="Reference 4">[4]</a> The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
 
 <p class="right-side-updated">Last updated on 27 Dec 2019</p> 
