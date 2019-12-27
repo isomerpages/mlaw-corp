@@ -60,12 +60,12 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 <b>MINISTRY OF HOME AFFAIRS AND MINISTRY OF LAW</b><br>
 <b>27 DECEMBER 2019</b>
 
-<p id="1">[1]The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
+<p><a id="1">[1]</a>The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
 
-<p id="2">[2]The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.</p>
+<p><a id="2">[2]</a>The court will determine whether the offender was in an intimate relationship with the victim having regard to all the circumstances, including whether they shared the care and support of a child, were financially dependent on each other, or shared tasks and duties in their daily lives.</p>
 
-<p id="3">[3]Persons who are members of the same household and who have frequent contact with each other.</p>
+<p><a id="3">[3]</a>Persons who are members of the same household and who have frequent contact with each other.</p>
 
-<p id="4">[4]The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
+<p><a id="4">[4]</a>The enhanced penalties apply unless the offender proves that the relationship did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.</p>
 
 <p class="right-side-updated">Last updated on 27 Dec 2019</p> 
