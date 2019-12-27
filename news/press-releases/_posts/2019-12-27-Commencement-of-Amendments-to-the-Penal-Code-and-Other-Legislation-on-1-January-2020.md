@@ -10,52 +10,52 @@ permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and
 1.  Amendments to the Penal Code and criminal provisions in other legislation will come into effect on 1 January 2020. They comprise the majority of amendments introduced through the Criminal Law Reform Act (CLRA) and Protection from Harassment (Amendment) Act, which were passed by Parliament on 6 and 7 May 2019 respectively. These amendments keep our legislation up-to-date with emerging trends and enhance protection for vulnerable victims.
 
 <u><i>Tackling Emerging Crime Trends</i></u>
+<ol type="2">
+<li>2.  Advances in technology have facilitated the commission of sexual offences such as voyeurism and the distribution of intimate images without consent. To better tackle such cases, specialised offences were introduced to criminalise the:</li>
 
-2.  Advances in technology have facilitated the commission of sexual offences such as voyeurism and the distribution of intimate images without consent. To better tackle such cases, specialised offences were introduced to criminalise the:
+<p style="margin-left: 40px">a. Making, distribution, possession of, and access to, voyeuristic recordings or intimate images; and</p>
 
-<p style="text-indent: 40px">a. Making, distribution, possession of,and access to,voyeuristic recordings or intimate images; and</p>
-
-<p style="text-indent: 40px">b. Distribution of or threat to distribute intimate images or recordings.</p>
-
-3.  A new offence of sexual exposure was also introduced. This offence criminalises the non-consensual exposure of genitals, whether in the physical or the virtual space, such as sending unsolicited images of genitals over an electronic medium to another person (also referred to as “cyber-flashing”).
+<p style="margin-left: 40px">b. Distribution of or threat to distribute intimate images or recordings.</p>
+<ol type="3">
+<li>3.  A new offence of sexual exposure was also introduced. This offence criminalises the non-consensual exposure of genitals, whether in the physical or the virtual space, such as sending unsolicited images of genitals over an electronic medium to another person (also referred to as “cyber-flashing”).</li>
 
 <u><i>Enhanced Protection for Vulnerable Victims</i></u>
+<ol type="4">
+<li>4.  The maximum punishment for the following offences was doubled:</li>
 
-4.  The maximum punishment for the following offences was doubled:
+<p style="margin-left: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;[1]</p>
 
-<p style="text-indent: 40px">a. Certain Penal Code offences committed against vulnerable victims, i.e. persons (i) who are below 14 years old, (ii) whose mental or physical disabilities render them substantially unable to protect themselves from abuse or neglect, or (iii) who are domestic workers;[1]</p>
+<p style="margin-left: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship[2] or in a close relationship[3] with the offender.[4] The enhancements apply even if the persons are not married;</p>
 
-<p style="text-indent: 40px">b. Most offences affecting the human body, such as rape, hurt, or wrongful confinement, when committed against persons who are in an intimate relationship[2] or in a close relationship[3] with the offender.[4] The enhancements apply even if the persons are not married;</p>
+<p style="margin-left: 40px">c. Harassment of persons in an intimate relationship with the offender, and harassment of persons with disabilities; and</p>
 
-<p style="text-indent: 40px">c. Harassment of persons in an intimate relationship with the offender, and harassment of persons with disabilities; and</p>
+<p style="margin-left: 40px">d. Repeated breaches of Protection Orders and Expedited Orders.</p>
+<ol type="5">
+<li>5.  New offences were introduced to:</li>
 
-<p style="text-indent: 40px">d. Repeated breaches of Protection Orders and Expedited Orders.</p>
+<p style="margin-left: 40px">a. <u>Better protect minors from sexual exploitation</u>. New offences were created to criminalise: (i) exploitative sexual penetration of a minor of or above 16 but under 18 years of age; (ii) exploitative sexual grooming of a minor of or above 16 but under 18 years of age; (iii) sexual communication with a minor below 16 years of age; (iv) engaging in sexual activity before a minor below 16 years of age; (v) causing a minor below 16 years of age to look at a sexual image; and (vi) the conduct in (iii) to (v) where the minor is of or above 16 but under 18 years of age and is in a relationship with the offender that is exploitative of the minor;</p>
 
-5.  New offences were introduced to:
+<p style="margin-left: 40px">b. <u>Criminalise the spectrum of offences to deal with every person involved in the supply and consumption of child abuse material</u>. The new offences include the production, distribution, advertising, and possession of child abuse material; and</p>
 
-<p style="text-indent: 40px">a. <u>Better protect minors from sexual exploitation</u>. New offences were created to criminalise: (i) exploitative sexual penetration of a minor of or above 16 but under 18 years of age; (ii) exploitative sexual grooming of a minor of or above 16 but under 18 years of age; (iii) sexual communication with a minor below 16 years of age; (iv) engaging in sexual activity before a minor below 16 years of age; (v) causing a minor below 16 years of age to look at a sexual image; and (vi) the conduct in (iii) to (v) where the minor is of or above 16 but under 18 years of age and is in a relationship with the offender that is exploitative of the minor;</p>
-
-<p style="text-indent: 40px">b. <u>Criminalise the spectrum of offences to deal with every person involved in the supply and consumption of child abuse material</u>. The new offences include the production, distribution, advertising, and possession of child abuse material; and</p>
-
-<p style="text-indent: 40px">c. <u>Address the increasing trend of victims being harassed through doxxing</u>. A new offence was introduced to criminalise the publication of personally identifiable information (e.g. photographs, contact numbers, addresses or employment details) with the intention of harassing, threatening or facilitating violence against the person. The intention or knowledge of the person posting the information is key to the offence. The new offence does not stop people from legitimately sharing information, such as posting videos of an incident to give a factual account of the incident, or to seek help identifying the perpetrators of crimes.</p>
+<p style="margin-left: 40px">c. <u>Address the increasing trend of victims being harassed through doxxing</u>. A new offence was introduced to criminalise the publication of personally identifiable information (e.g. photographs, contact numbers, addresses or employment details) with the intention of harassing, threatening or facilitating violence against the person. The intention or knowledge of the person posting the information is key to the offence. The new offence does not stop people from legitimately sharing information, such as posting videos of an incident to give a factual account of the incident, or to seek help identifying the perpetrators of crimes.</p>
 
 <u><i>Updating the Penal Code</i></u>
-
-6.  Attempted suicide is no longer a crime. To ensure that distressed persons are provided with the necessary assistance, the Police Force Act and Mental Health (Care and Treatment) Act have also been amended to empower Police officers to intervene in cases of attempted suicide, to prevent injury or loss of life. However, the abetment of suicide or abetment of attempted suicide will continue to be a crime.
-
-7.  Marital immunity for rape is fully repealed. Sexual relations in any relationship should be based on mutual consent. This amendment ensures that all women are protected from sexual abuse.
+<ol type="6">
+<li>6.  Attempted suicide is no longer a crime. To ensure that distressed persons are provided with the necessary assistance, the Police Force Act and Mental Health (Care and Treatment) Act have also been amended to empower Police officers to intervene in cases of attempted suicide, to prevent injury or loss of life. However, the abetment of suicide or abetment of attempted suicide will continue to be a crime.</li>
+<ol type="7">
+<li>7.  Marital immunity for rape is fully repealed. Sexual relations in any relationship should be based on mutual consent. This amendment ensures that all women are protected from sexual abuse.</li>
 
 <b>Amendments Taking Effect at a Later Date</b>
+<ol type="8">
+<li>8.  The following amendments will be operationalised at a later date.</li>
 
-8.  The following amendments will be operationalised at a later date.
+<p style="margin-left: 40px">a. <u>Raising the Minimum Age of Criminal Responsibility (MACR)</u>. The CLRA raised the MACR from 7 to 10 years of age. The amendments will be brought into force when the framework to intervene in and address offending behaviour in children below 10 years of age is finalised.</p>
 
-<p style="text-indent: 40px">a. <u>Raising the Minimum Age of Criminal Responsibility (MACR)</u>. The CLRA raised the MACR from 7 to 10 years of age. The amendments will be brought into force when the framework to intervene in and address offending behaviour in children below 10 years of age is finalised.</p>
+<p style="margin-left: 40px">b. <u>Introducing new variants of Fraud</u>. To target novel and complex schemes which the current offence of cheating may not cover, such as the LIBOR- fixing scandal in the UK where it would be very difficult to show that the victims relied on the deception, two new variants of Fraud were introduced: (i) Fraud directly in connection with written or oral contracts for goods or services; and (ii) other types of Fraud. The former will be brought into force after a mechanism allowing victims to seek recourse for more common cases involving smaller losses is developed. The latter will be brought into force on 1 January 2020.</p>
 
-<p style="text-indent: 40px">b. <u>Introducing new variants of Fraud</u>. To target novel and complex schemes which the current offence of cheating may not cover, such as the LIBOR- fixing scandal in the UK where it would be very difficult to show that the victims relied on the deception, two new variants of Fraud were introduced: (i) Fraud directly in connection with written or oral contracts for goods or services; and (ii) other types of Fraud. The former will be brought into force after a mechanism allowing victims to seek recourse for more common cases involving smaller losses is developed. The latter will be brought into force on 1 January 2020.</p>
+<p style="margin-left: 40px">c. <u>Other Harassment-related amendments</u>. We are working with relevant agencies to operationalise these amendments and to establish the Protection from Harassment Court.</p>
 
-<p style="text-indent: 40px">c. <u>Other Harassment-related amendments</u>. We are working with relevant agencies to operationalise these amendments and to establish the Protection from Harassment Court.</p>
-
-<b>MINISTRY OF HOME AFFAIRS AND MINISTRY OF LAW</b>
+<b>MINISTRY OF HOME AFFAIRS AND MINISTRY OF LAW</b><br>
 <b>27 DECEMBER 2019</b>
 
 [1] The enhanced penalties apply unless the offender proves that the victim’s age/disability/domestic worker status (as the case may be) did not adversely affect the victim’s ability to protect himself/herself from the harm caused by the offence.
