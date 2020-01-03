@@ -60,7 +60,7 @@ Singapore 069118
 
 **Counter Operating Hours:**
 
-Monday to Friday: 8:30am to 5:00pm<br>
+Monday to Friday: 8:30am to 5:30pm<br>
 Closed on Weekends & Public Holidays<br>
 (To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am.)
 
