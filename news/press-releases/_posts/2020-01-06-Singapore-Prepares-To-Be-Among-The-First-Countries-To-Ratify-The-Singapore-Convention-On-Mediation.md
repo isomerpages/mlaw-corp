@@ -23,3 +23,5 @@ permalink: /news/press-releases/Singapore-Prepares-To-Be-Among-The-First-Countri
 
 <b>MINISTRY OF LAW</b>
 <b>6 JANUARY 2020</b>
+
+<p class="right-side-updated">Last updated on 6 Jan 2020</p>
