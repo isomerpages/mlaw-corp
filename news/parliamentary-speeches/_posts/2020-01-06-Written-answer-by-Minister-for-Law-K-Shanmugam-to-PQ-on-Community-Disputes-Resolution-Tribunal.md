@@ -18,11 +18,11 @@ To ask the Minister for Law whether the Community Disputes Resolution Tribunal (
 
 2. The CDRT was established as an alternative to other avenues of recourse for disputing neighbours. These other avenues include:
   
-  (a)	recourse under the criminal law such as filing a Magistrate’s Complaint for offences under the Protection from Harassment Act or Penal Code; 
+    (a)	recourse under the criminal law such as filing a Magistrate’s Complaint for offences under the Protection from Harassment Act or Penal Code; 
   
-  (b)	obtaining private law remedies such as injunctions or damages through  the tort of private nuisance or applying for a Protection Order; and 
+    (b)	obtaining private law remedies such as injunctions or damages through  the tort of private nuisance or applying for a Protection Order; and 
   
-  (c)	mediation.
+    (c)	mediation.
 
 3. The CDRT processes are designed to be efficient and accessible. It costs $150.00 to file a claim before the CDRT. Simplified procedures are used. Proceedings employ a judge-led approach and representation by lawyers is generally disallowed.
 
