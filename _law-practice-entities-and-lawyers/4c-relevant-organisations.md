@@ -50,7 +50,7 @@ Relevant Organisations
       <p style="align-text: justify">
       For technical/system-related issues in eLitigation and general enquiries:<br>
       <b>CrimsonLogic Helpdesk</b><br>Tel: 6887 7222<br>
-      E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com</a><br><br>
+      E-mail: <a href="mailto:elitigation@crimsonlogic.com">elitigation@crimsonlogic.com.sg</a><br><br>
       For queries concerning practising certificates:<br><b>
       Supreme Court</b><br>Tel: 6332 4244<br>
       E-mail: <a href="mailto:SUPCOURT_PCEF_INQ@supcourt.gov.sg">SUPCOURT_PCEF_INQ@supcourt.gov.sg</a>
