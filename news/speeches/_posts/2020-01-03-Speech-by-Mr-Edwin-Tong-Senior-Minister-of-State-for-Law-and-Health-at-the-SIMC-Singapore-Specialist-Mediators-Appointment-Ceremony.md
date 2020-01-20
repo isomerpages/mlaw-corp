@@ -38,7 +38,7 @@ Friends and colleagues
 <b>Growth of International Mediation</b>
 
 <ol start="7">
-<li>7.	We have been encouraged by the steady progress of mediation over the years. International commercial mediation is still less prevalent than domestic community mediation. All of you may remember the days when we first started mediation in Singapore some 20 to 25 years ago. I was a young lawyer at that point in time. When we were in court arguing a case in chambers with the Deputy Registrar of the then-Subordinate Courts, they say “go and settle your case, go to CDR (Court Dispute Resolution), go to mediate”, and having spent two and a half weeks preparing for this one occasion in court, I would say “why are we doing all that? We are here to fight the case. That is our role as a lawyer.” But over time, practice has shifted.</li>
+<li>We have been encouraged by the steady progress of mediation over the years. International commercial mediation is still less prevalent than domestic community mediation. All of you may remember the days when we first started mediation in Singapore some 20 to 25 years ago. I was a young lawyer at that point in time. When we were in court arguing a case in chambers with the Deputy Registrar of the then-Subordinate Courts, they say “go and settle your case, go to CDR (Court Dispute Resolution), go to mediate”, and having spent two and a half weeks preparing for this one occasion in court, I would say “why are we doing all that? We are here to fight the case. That is our role as a lawyer.” But over time, practice has shifted.</li>
 </ol>
 
 <ol start="8">
