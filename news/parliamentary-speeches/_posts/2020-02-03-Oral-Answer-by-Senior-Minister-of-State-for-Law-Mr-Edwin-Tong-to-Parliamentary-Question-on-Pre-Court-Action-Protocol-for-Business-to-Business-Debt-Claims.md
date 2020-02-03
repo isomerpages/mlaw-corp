@@ -10,7 +10,7 @@ Mr Lim Biow Chuan (Member of Parliament for Mountbatten SMC)
 
 <b><u>Question</u></b>
 
-To ask the Minister for Law *To ask the Minister for Law what is the rationale for the new pre-court action protocol for business-to-business debt claims and whether the Government has consulted businesses prior to introducing the new court protocol.
+To ask the Minister for Law what is the rationale for the new pre-court action protocol for business-to-business debt claims and whether the Government has consulted businesses prior to introducing the new court protocol.
 
 <b><u>Oral Answer</u></b>
 
