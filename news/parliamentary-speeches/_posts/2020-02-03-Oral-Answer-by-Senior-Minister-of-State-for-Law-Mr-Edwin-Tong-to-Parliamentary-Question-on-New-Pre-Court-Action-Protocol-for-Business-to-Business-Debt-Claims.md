@@ -1,8 +1,8 @@
 --- 
 layout: post 
-title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Pre Court Action Protocol for Business-to-Business Debt Claims 
+title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on New Pre-Court Action Protocol for Business-to-Business Debt Claims 
 date:   2020-02-03
-permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-Pre-Court-Action-Protocol-for-Business-to-Business-Debt-Claims
+permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-New-Pre-Court-Action-Protocol-for-Business-to-Business-Debt-Claims
 --- 
 03 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
