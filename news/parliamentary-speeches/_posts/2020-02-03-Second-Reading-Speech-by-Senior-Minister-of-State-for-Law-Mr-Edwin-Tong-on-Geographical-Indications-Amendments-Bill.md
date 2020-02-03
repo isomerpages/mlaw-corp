@@ -56,13 +56,13 @@ Mr Speaker,
 {:start="15"}
 15.	Clauses 3, 4, 6 and 8 of the Bill therefore amend the GI Act to clarify the following: 
 
-  a.	First, an application for registration can contain more than one variant constituting the same GI. 
+a.	First, an application for registration can contain more than one variant constituting the same GI. 
 
-  b.	Second, after an application for registration is accepted and published for public inspection, third parties who oppose the application can choose to oppose the registration of one or more of the variants in the application, instead of all of the variants. 
+b.	Second, after an application for registration is accepted and published for public inspection, third parties who oppose the application can choose to oppose the registration of one or more of the variants in the application, instead of all of the variants. 
 
-  c.	Third, where there is a refusal of registration of a variant, the other variants in the application for registration can nevertheless be registered if they satisfy the requirements of the Act.  
+c.	Third, where there is a refusal of registration of a variant, the other variants in the application for registration can nevertheless be registered if they satisfy the requirements of the Act.  
 
-  d.	Finally, similarly, other processes such as an application for cancellation of registration or a request for Qualification of Rights to be entered in the Register need not be in respect of all the variants.
+d.	Finally, similarly, other processes such as an application for cancellation of registration or a request for Qualification of Rights to be entered in the Register need not be in respect of all the variants.
 
 **<u>Changes to the Qualification of Rights process</u>**
 
