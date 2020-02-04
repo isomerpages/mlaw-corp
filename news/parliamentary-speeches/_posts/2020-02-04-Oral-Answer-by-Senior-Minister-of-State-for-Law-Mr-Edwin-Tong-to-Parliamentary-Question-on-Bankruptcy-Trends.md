@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Bankruptcy Trends
-date:   2020-02-03
+date:   2020-02-04
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-Bankruptcy-Trends
 --- 
 04 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
