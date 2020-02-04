@@ -10,6 +10,7 @@ permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Sha
 Prof Fatimah Lateef (Member of Parliament for Marine Parade GRC)
 
 <b><u>Question:</u></b>  
+
 To ask the Minister for Law whether there will be a review of the standard clause in all public sector and public service contracts to appoint the Singapore Mediation Centre as the sole mediation agency, to align with the evolution of more mediation agencies providing mediation services in Singapore. 
 
 <b><u>Written Answer:</u></b>  
