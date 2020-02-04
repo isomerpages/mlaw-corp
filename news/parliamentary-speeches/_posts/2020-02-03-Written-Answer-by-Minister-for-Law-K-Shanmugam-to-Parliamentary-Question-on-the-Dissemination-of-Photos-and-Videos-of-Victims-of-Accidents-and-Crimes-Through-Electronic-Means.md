@@ -9,10 +9,11 @@ permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Sha
 
 Assoc Prof Daniel Goh Pei Siong
 
-<b>Question:</b>  
+<b><u>Question:</u></b>  
+
 To ask the Minister for Law whether the Ministry can consider prohibiting the dissemination of photos and videos of victims of accidents and crimes through electronic means. 
 
-<b>Written Answer:</b>  
+<b><u>Written Answer:</u></b>  
 
 1.	There are existing laws that prohibit the dissemination of photos and videos of accidents and crimes through electronic means in certain instances. 
 
