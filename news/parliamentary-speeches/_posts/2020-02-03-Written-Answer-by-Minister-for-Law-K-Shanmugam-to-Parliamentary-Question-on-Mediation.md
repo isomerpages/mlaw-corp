@@ -10,6 +10,7 @@ permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Sha
 Mr Sitoh Yih Pin (Member of Parliament for Potong Pasir Single Member Constituency) 
 
 <b><u>Question:</u></b>  
+
 To ask the Minister for Law (a) what is the annual number of mediations conducted under the auspices of the Singapore Mediation Centre from 2017 to 2019; (b) of these, what is the recorded rate of successful settlements; and (c) whether the Ministry has plans to encourage more commercial legal disputes to be resolved through mediation.
 
 <b><u>Written Answer:</u></b>  
