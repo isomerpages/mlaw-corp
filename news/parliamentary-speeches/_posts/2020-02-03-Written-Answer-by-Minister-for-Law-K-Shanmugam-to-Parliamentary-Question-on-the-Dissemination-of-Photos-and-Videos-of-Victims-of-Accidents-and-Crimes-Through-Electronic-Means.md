@@ -22,6 +22,6 @@ To ask the Minister for Law whether the Ministry can consider prohibiting the di
 
 4.	We would like to remind everyone to behave compassionately and be mindful of the consequences when sharing photos and videos of victims of accidents and crimes.  These photos and videos may cause distress to and inflict further trauma on the victims and their families. 
 
-5.  5.	Beyond legal prohibition, society’s norms and etiquette have to mature in tandem with the proliferation of online communication. That is why the Government and the Media Literacy Council have been promoting responsible online behavior to create a safer and kinder internet. For example, the 2019 Better Internet Campaign, themed “1 Click Away”, encouraged online users to think and exercise sound judgment about the effects of a simple act of clicking to share their posts or photos online. We will continue to build on such efforts.
+5.  Beyond legal prohibition, society’s norms and etiquette have to mature in tandem with the proliferation of online communication. That is why the Government and the Media Literacy Council have been promoting responsible online behavior to create a safer and kinder internet. For example, the 2019 Better Internet Campaign, themed “1 Click Away”, encouraged online users to think and exercise sound judgment about the effects of a simple act of clicking to share their posts or photos online. We will continue to build on such efforts.
 
 <p class="right-side-updated">Last updated on 03 Feb 2020</p>
