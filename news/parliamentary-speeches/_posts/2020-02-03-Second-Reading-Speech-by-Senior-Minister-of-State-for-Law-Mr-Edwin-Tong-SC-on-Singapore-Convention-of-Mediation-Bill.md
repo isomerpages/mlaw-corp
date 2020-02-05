@@ -22,7 +22,7 @@ Mr Speaker,
 {:start="4"}
 4.  Against this backdrop, one key area of focus in my Ministry’s work has been to strengthen Singapore’s legal and dispute resolution framework, to better serve the needs of international businesses that use Singapore as a base for their international commercial transactions. 
 
-<BLOCKQUOTE>a.  Singapore is one of the leading cross-border dispute resolution centres in the world.</BLOCKQUOTE>
+<p style="margin-left:10%; margin-right:10%;">a.  Singapore is one of the leading cross-border dispute resolution centres in the world.</p>
 
   <p>b.  And undergirding this is our trusted legal system and a strong rule of law.</p> 
   
