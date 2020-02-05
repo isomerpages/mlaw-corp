@@ -22,11 +22,11 @@ Mr Speaker,
 {:start="4"}
 4.  Against this backdrop, one key area of focus in my Ministry’s work has been to strengthen Singapore’s legal and dispute resolution framework, to better serve the needs of international businesses that use Singapore as a base for their international commercial transactions. 
 
-  a.  Singapore is one of the leading cross-border dispute resolution centres in the world.
+  <blockquote>a.  Singapore is one of the leading cross-border dispute resolution centres in the world.
 
   b.  And undergirding this is our trusted legal system and a strong rule of law. 
   
-  c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.
+  c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.</blockquote>
 
 {:start="5"}
 5.	As part of efforts to strengthen our dispute resolution ecosystem, Singapore has invested in the development of international commercial mediation, including through building up institutions, developing capabilities, and also updating our laws.
@@ -137,25 +137,25 @@ Mr Speaker,
 
   a.  The Bill relates to the cross-border enforcement of mediated settlement agreements and the invocation of such agreements as a defence. In other words, if a party chooses to act and bring a claim in breach of a prior mediated settlement agreement to which the claim applies, then the agreement can also be invoked as a defense. 
   
-     i.  It covers international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute.
+   i.  It covers international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute.
       
-     ii. Agreements that are excluded from the Bill are those that: (1) have been approved by a court or concluded in the course of court proceedings and are enforceable as judgments; and (2)  are enforceable as arbitral awards; and (3) relate to certain subject matters such as family, inheritance and employment law.
+   ii. Agreements that are excluded from the Bill are those that: (1) have been approved by a court or concluded in the course of court proceedings and are enforceable as judgments; and (2)  are enforceable as arbitral awards; and (3) relate to certain subject matters such as family, inheritance and employment law.
 
   b.  As mentioned, the Bill provides a range of options for parties seeking to enforce or invoke their settlement agreements in Singapore under the Convention. These are set out in Clause 4 of the Bill.
   
-     i.  With these options, parties will have the flexibility to decide on the most appropriate mode for their own particular situation and circumstance. This will help them to assess the options better, and also save time and costs.
+   i.  With these options, parties will have the flexibility to decide on the most appropriate mode for their own particular situation and circumstance. This will help them to assess the options better, and also save time and costs.
       
-     ii. The Bill provides a “court order mechanism” for parties seeking to enforce or invoke their settlement agreement.So,  a party can  apply to the High Court to record its settlement agreement as an order of court, which can thereafter be used for the purposes of enforcement, or as I mentioned earlier, as a defence, as the case may be.  
+   ii. The Bill provides a “court order mechanism” for parties seeking to enforce or invoke their settlement agreement.So,  a party can  apply to the High Court to record its settlement agreement as an order of court, which can thereafter be used for the purposes of enforcement, or as I mentioned earlier, as a defence, as the case may be.  
       
-          The procedure and the framework is similar to the enforcement of awards under the International Arbitration Act, which the legal and business communities would already be familiar with. 
+The procedure and the framework is similar to the enforcement of awards under the International Arbitration Act, which the legal and business communities would already be familiar with. 
           
-          It also provides greater certainty if future reliance on the settlement agreement is necessary.
+It also provides greater certainty if future reliance on the settlement agreement is necessary.
           
-          For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.
+For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.
           
-     iii.  For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.    
+   iii.  For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.    
     
-     iv.   Lastly, parties’ legal rights and remedies existing outside of the Convention will be preserved. This means that parties can, for instance, continue to rely on contractual principles to enforce or invoke their settlement agreement, should they prefer this route.
+   iv.   Lastly, parties’ legal rights and remedies existing outside of the Convention will be preserved. This means that parties can, for instance, continue to rely on contractual principles to enforce or invoke their settlement agreement, should they prefer this route.
       
   c.  Next, Clause 6. Clause 6 requires the applicant to provide certain documents and evidence to the Court with its application. The Court may also take into account an exhaustive list of grounds to refuse an application, under Clause 7. 
   
@@ -167,20 +167,20 @@ Mr Speaker,
 
   f.  This  Bill does not currently implement either of the two reservations allowed under the Convention. The effect of this  non-implementation of the reservation is that:
   
-    i.  Firstly, the Convention and Bill will apply to settlement agreements that the Government is a party to; and
+   i.  Firstly, the Convention and Bill will apply to settlement agreements that the Government is a party to; and
     
-    ii. Two, the Convention and the Bill will apply automatically to parties to a settlement agreement who may wish to enforce or invoke their agreement in a Singapore courts under the Convention. Parties may however agree, through the terms of their settlement agreement, to opt out of the Convention.  That is a choice given to the parties - you might decide that you wish to opt out of the modalities set out in the Convention. 
+   ii. Two, the Convention and the Bill will apply automatically to parties to a settlement agreement who may wish to enforce or invoke their agreement in a Singapore courts under the Convention. Parties may however agree, through the terms of their settlement agreement, to opt out of the Convention.  That is a choice given to the parties - you might decide that you wish to opt out of the modalities set out in the Convention. 
           
   g.  Finally, the Bill makes related amendments to the Mediation Act 2017, which I mentioned earlier, and also to the Supreme Court of Judicature Act (“SCJA”). 
   
-    i.  The related amendments to the Mediation Act 2017 provide that a settlement agreement within the scope of the Bill is not precluded from the Mediation Act 2017, if that settlement agreement also qualifies under that Act. In other words, it preserves the party’s rights to go under the Mediation Act 2017 if you also qualify under the framework of that legislation. 
+   i.  The related amendments to the Mediation Act 2017 provide that a settlement agreement within the scope of the Bill is not precluded from the Mediation Act 2017, if that settlement agreement also qualifies under that Act. In other words, it preserves the party’s rights to go under the Mediation Act 2017 if you also qualify under the framework of that legislation. 
     
-    ii. The amendments to the SCJA provide the High Court with the jurisdiction to grant applications under the Bill.
+   ii. The amendments to the SCJA provide the High Court with the jurisdiction to grant applications under the Bill.
 
 <b>Conclusion</b>
 
 {:start="22"}
-22.	22.	Sir, in conclusion, let me reiterate that in developing our dispute resolution regime, we have sought to provide businesses with a full suite of user-centric options to resolve their cross-border disputes, whether through litigation, arbitration or mediation. 
+22.	Sir, in conclusion, let me reiterate that in developing our dispute resolution regime, we have sought to provide businesses with a full suite of user-centric options to resolve their cross-border disputes, whether through litigation, arbitration or mediation. 
 
 {:start="23"}
 23.	With the introduction of the Convention, it is anticipated that more businesses will seek to avail themselves of the benefits that the mediation process provides, as adoption of the Convention becomes more prevalent globally. This Bill is an essential instrument that will enable parties to benefit from the framework that is already set out in the Convention, and is a significant step in our overall efforts to strengthen Singapore’s dispute resolution framework. 
