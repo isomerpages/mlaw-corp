@@ -24,14 +24,14 @@ Mr Speaker,
 
 <p style="margin-left:10%; margin-right:10%;">a.  Singapore is one of the leading cross-border dispute resolution centres in the world.</p>
 
-  <p>b.  And undergirding this is our trusted legal system and a strong rule of law.</p> 
+<p style="margin-left:10%; margin-right:10%;">b.  And undergirding this is our trusted legal system and a strong rule of law.</p> 
   
-  <p>c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.</p>
+<p style="margin-left:10%; margin-right:10%;">c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.</p>
 
 {:start="5"}
 5.	As part of efforts to strengthen our dispute resolution ecosystem, Singapore has invested in the development of international commercial mediation, including through building up institutions, developing capabilities, and also updating our laws.
 
-  a.  For instance, the Mediation Act was enacted in 2017 to establish a framework for mediation, and to provide a more conducive environment in Singapore for international commercial mediation.
+<p style="margin-left:10%; margin-right:10%;">a.  For instance, the Mediation Act was enacted in 2017 to establish a framework for mediation, and to provide a more conducive environment in Singapore for international commercial mediation.</p>
 
 {:start="6"}
 6.	In the same vein, the Singapore Convention Signing Ceremony and Conference held in August last year was an important milestone for Singapore’s efforts in developing the dispute resolution landscape, on at least two levels. 
@@ -42,33 +42,33 @@ Mr Speaker,
 {:start="8"}
 8.	Let me bring Members briefly through the steps which gave rise to the Convention. In February 2018, the UN Commission on International Trade Law or “UNCITRAL” Working Group on Dispute Settlement finalised the text of the Convention and the corresponding Model Law.
 
-  a.  Singapore contributed significantly to the development of the Convention at UNCITRAL. The Working Group was chaired by  a Singaporean, and the Singapore delegation participated actively in the negotiations. 
+<p style="margin-left:10%; margin-right:10%;">a.  Singapore contributed significantly to the development of the Convention at UNCITRAL. The Working Group was chaired by  a Singaporean, and the Singapore delegation participated actively in the negotiations.</p> 
 
-  b.  Local industry experts were involved in shaping Singapore’s position on the Convention, and also played an active role in contributing to the final outcome.
+<p style="margin-left:10%; margin-right:10%;">b.  Local industry experts were involved in shaping Singapore’s position on the Convention, and also played an active role in contributing to the final outcome.</p>
   
-  c.  It took only three years - between 2015 and 2018 - to conclude an instrument dealing with enforcement of international settlement agreements resulting from mediation, when several past attempts failed. This exhibited the Working Group’s dedication to constructive and open dialogue in the face of numerous delegations coming from different background and having differing perspectives. This is really the same spirit of mediation that the Convention itself seeks to encourage.
+<p style="margin-left:10%; margin-right:10%;">c.  It took only three years - between 2015 and 2018 - to conclude an instrument dealing with enforcement of international settlement agreements resulting from mediation, when several past attempts failed. This exhibited the Working Group’s dedication to constructive and open dialogue in the face of numerous delegations coming from different background and having differing perspectives. This is really the same spirit of mediation that the Convention itself seeks to encourage.</p>
 
 {:start="9"}
 9.	On 20 December 2018, the UN General Assembly, in a momentous decision:
 
-  a.  Adopted the Convention;
+<p style="margin-left:10%; margin-right:10%;">a.  Adopted the Convention;</p>
   
-  b.  It also authorised the signing of the Convention to be held in Singapore; and
+<p style="margin-left:10%; margin-right:10%;">b.  It also authorised the signing of the Convention to be held in Singapore; and</p>
   
-  c.  Authorised the Convention to be known henceforth as the “Singapore Convention on Mediation”. 
+<p style="margin-left:10%; margin-right:10%;">c.  Authorised the Convention to be known henceforth as the “Singapore Convention on Mediation”.</p>
   
-  d.  This is the first treaty named after Singapore among those concluded under the auspices of the United Nations, and bears testament to our extensive contributions to the development of international commercial mediation globally. 
+<p style="margin-left:10%; margin-right:10%;">d.  This is the first treaty named after Singapore among those concluded under the auspices of the United Nations, and bears testament to our extensive contributions to the development of international commercial mediation globally.</p>
 
 {:start="10"}
 10.	On 7 August 2019, the Singapore Convention Signing Ceremony and Conference was held in Singapore.
 
-  a.  Singapore hosted more than 1,500 delegates from 70 countries at the event.
+<p style="margin-left:10%; margin-right:10%;">a.  Singapore hosted more than 1,500 delegates from 70 countries at the event.</p>
   
-  b.  46 countries signed the Convention on the day it opened for signature, while another 24 countries attended the signing ceremony to show their support for the Convention.
+<p style="margin-left:10%; margin-right:10%;">b.  46 countries signed the Convention on the day it opened for signature, while another 24 countries attended the signing ceremony to show their support for the Convention.</p>
   
-  c.  The signatories included the world’s two largest economies (the US and China), three of Asia’s four largest economies (China, India and South Korea), and five of ten ASEAN countries (Brunei, Laos, Malaysia, Philippines and Singapore).
+<p style="margin-left:10%; margin-right:10%;">c.  The signatories included the world’s two largest economies (the US and China), three of Asia’s four largest economies (China, India and South Korea), and five of ten ASEAN countries (Brunei, Laos, Malaysia, Philippines and Singapore).</p>
   
-  d.  The overwhelming response and turnout at the event was a powerful statement in support of multilateralism and a rules-based international order. 
+<p style="margin-left:10%; margin-right:10%;">d.  The overwhelming response and turnout at the event was a powerful statement in support of multilateralism and a rules-based international order.</p>
 
 {:start="11"}
 11.	Subsequently, six other countries signed onto the Convention at the UN headquarters in New York, bringing the total number of signatories to the Convention today to 52.
@@ -81,37 +81,37 @@ Mr Speaker,
 {:start="13"}
 13.	Mediation is rising in popularity due to a growing recognition of its benefits:
 
-  a.  It is cost-effective, flexible, efficient, and also confidential.
+<p style="margin-left:10%; margin-right:10%;">a.  It is cost-effective, flexible, efficient, and also confidential.</p>
   
-  b.  It allows parties to retain control over the outcome of their disputes. They control and in fact, design the architecture of the terms on which they come and reach a settlement on the dispute. 
+<p style="margin-left:10%; margin-right:10%;">b.  It allows parties to retain control over the outcome of their disputes. They control and in fact, design the architecture of the terms on which they come and reach a settlement on the dispute.</p>
   
-  c.  It is attractive for businesses who wish to resolve their commercial disputes with an outcome that is mutually acceptable to both sides, whilst preserving their long-term relationships and leaving open the possibility of working together in future. The conciliatory nature of mediation reduces the instances where a dispute leads ultimately to a complete termination of commercial relationships.
+<p style="margin-left:10%; margin-right:10%;">c.  It is attractive for businesses who wish to resolve their commercial disputes with an outcome that is mutually acceptable to both sides, whilst preserving their long-term relationships and leaving open the possibility of working together in future. The conciliatory nature of mediation reduces the instances where a dispute leads ultimately to a complete termination of commercial relationships.</p>
   
-  d.  Mediation therefore complements other modes of dispute resolution, as it can be used in conjunction with litigation or arbitration and increasingly, it often is embedded into the system, and it appears in both different types of dispute resolution mechanisms. 
+<p style="margin-left:10%; margin-right:10%;">d.  Mediation therefore complements other modes of dispute resolution, as it can be used in conjunction with litigation or arbitration and increasingly, it often is embedded into the system, and it appears in both different types of dispute resolution mechanisms.</p>
   
-  e.  Mediation has grown in popularity and use. A survey of participants at the 2016 Global Pound Conference found that a majority believed a greater emphasis on collaborative over adversarial process, is a trend that will have the most significant influence on the future of commercial dispute resolution.
+<p style="margin-left:10%; margin-right:10%;">e.  Mediation has grown in popularity and use. A survey of participants at the 2016 Global Pound Conference found that a majority believed a greater emphasis on collaborative over adversarial process, is a trend that will have the most significant influence on the future of commercial dispute resolution.</p>
 
-<i>Challenges to mediation </i>
+<i>Challenges to mediation</i>
 
 {:start="14"}
 14.	However, with all of that, the one key challenge that has been hindering the growth and adoption of mediation is the oft-cited difficulty faced by a party in ensuring that its counterparty - the party with whom it enters a settlement agreement- complies with the terms of the agreement.
 
-  a.  While a mediated settlement agreement is contractually binding, it is not  itself directly enforceable in the courts, unlike a court judgment or an arbitral award.
+<p style="margin-left:10%; margin-right:10%;">a.  While a mediated settlement agreement is contractually binding, it is not  itself directly enforceable in the courts, unlike a court judgment or an arbitral award.</p>
   
-  b.  This difficulty was also highlighted by the 2016 Global Pound Conference survey, where 51% of respondents indicated that legislation or conventions that promote the recognition and enforcement of settlements, including those reached in mediation, would most improve commercial dispute resolution.
+<p style="margin-left:10%; margin-right:10%;">b.  This difficulty was also highlighted by the 2016 Global Pound Conference survey, where 51% of respondents indicated that legislation or conventions that promote the recognition and enforcement of settlements, including those reached in mediation, would most improve commercial dispute resolution.</p>
   
-  c.  There is therefore a need for an effective, efficient and harmonised framework to enforce cross-border commercial mediated settlement agreements.
+<p style="margin-left:10%; margin-right:10%;">c.  There is therefore a need for an effective, efficient and harmonised framework to enforce cross-border commercial mediated settlement agreements.</p>
 
 <i>Benefits of the Convention</i>
 
 {:start="15"}
 15.	In response to this, the Convention puts in place a process for a party to enforce or invoke its settlement agreement in court.
 
-  a.  It is simple to use, and allows businesses to maximise the benefits of mediation. Businesses can have greater assurance and certainty that mediation can be relied on to settle cross-border commercial disputes. This, in turn, promotes investor and business confidence.
+<p style="margin-left:10%; margin-right:10%;">a.  It is simple to use, and allows businesses to maximise the benefits of mediation. Businesses can have greater assurance and certainty that mediation can be relied on to settle cross-border commercial disputes. This, in turn, promotes investor and business confidence.</p>
   
-  b.  The Convention therefore facilitates the administration of international transactions by commercial parties. 
+<p style="margin-left:10%; margin-right:10%;">b.  The Convention therefore facilitates the administration of international transactions by commercial parties.</p>
   
-  c.  And we are hopeful that the establishment of a framework for the enforcement of such agreements will contribute to the development of harmonious international economic relations. 
+<p style="margin-left:10%; margin-right:10%;">c.  And we are hopeful that the establishment of a framework for the enforcement of such agreements will contribute to the development of harmonious international economic relations.</p>
   
 {:start="16"}
 16.	The Convention attained one of the highest number of first-day signatories for any UN trade convention, reflecting a recognition by the international community of the benefits that the Convention will bring.
@@ -135,47 +135,46 @@ Mr Speaker,
 {:start="21"}
 21.	The key features of the Bill include the following:
 
-  a.  The Bill relates to the cross-border enforcement of mediated settlement agreements and the invocation of such agreements as a defence. In other words, if a party chooses to act and bring a claim in breach of a prior mediated settlement agreement to which the claim applies, then the agreement can also be invoked as a defense. 
+<p style="margin-left:10%; margin-right:10%;">a.  The Bill relates to the cross-border enforcement of mediated settlement agreements and the invocation of such agreements as a defence. In other words, if a party chooses to act and bring a claim in breach of a prior mediated settlement agreement to which the claim applies, then the agreement can also be invoked as a defense.</p>
   
-   i.  It covers international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute.
+<p style="margin-left:20%; margin-right:20%;">i.  It covers international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute.</p>
       
-   ii. Agreements that are excluded from the Bill are those that: (1) have been approved by a court or concluded in the course of court proceedings and are enforceable as judgments; and (2)  are enforceable as arbitral awards; and (3) relate to certain subject matters such as family, inheritance and employment law.
+<p style="margin-left:20%; margin-right:20%;">ii. Agreements that are excluded from the Bill are those that: (1) have been approved by a court or concluded in the course of court proceedings and are enforceable as judgments; and (2)  are enforceable as arbitral awards; and (3) relate to certain subject matters such as family, inheritance and employment law.</p>
 
-  b.  As mentioned, the Bill provides a range of options for parties seeking to enforce or invoke their settlement agreements in Singapore under the Convention. These are set out in Clause 4 of the Bill.
-  
-   i.  With these options, parties will have the flexibility to decide on the most appropriate mode for their own particular situation and circumstance. This will help them to assess the options better, and also save time and costs.
+<p style="margin-left:10%; margin-right:10%;">b.  As mentioned, the Bill provides a range of options for parties seeking to enforce or invoke their settlement agreements in Singapore under the Convention. These are set out in Clause 4 of the Bill.</p>
+
+<p style="margin-left:20%; margin-right:20%;">i.  With these options, parties will have the flexibility to decide on the most appropriate mode for their own particular situation and circumstance. This will help them to assess the options better, and also save time and costs.</p>
       
-   ii. The Bill provides a “court order mechanism” for parties seeking to enforce or invoke their settlement agreement.So,  a party can  apply to the High Court to record its settlement agreement as an order of court, which can thereafter be used for the purposes of enforcement, or as I mentioned earlier, as a defence, as the case may be.  
+<p style="margin-left:20%; margin-right:20%;">ii. The Bill provides a “court order mechanism” for parties seeking to enforce or invoke their settlement agreement.So,  a party can  apply to the High Court to record its settlement agreement as an order of court, which can thereafter be used for the purposes of enforcement, or as I mentioned earlier, as a defence, as the case may be.</p>  
       
-The procedure and the framework is similar to the enforcement of awards under the International Arbitration Act, which the legal and business communities would already be familiar with. 
+<p style="margin-left:20%; margin-right:20%;">The procedure and the framework is similar to the enforcement of awards under the International Arbitration Act, which the legal and business communities would already be familiar with.</p> 
           
-It also provides greater certainty if future reliance on the settlement agreement is necessary.
+<p style="margin-left:20%; margin-right:20%;">It also provides greater certainty if future reliance on the settlement agreement is necessary.</p>
           
-For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.
+<p style="margin-left:20%; margin-right:20%;">For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.</p>
           
-   iii.  For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.    
-    
-   iv.   Lastly, parties’ legal rights and remedies existing outside of the Convention will be preserved. This means that parties can, for instance, continue to rely on contractual principles to enforce or invoke their settlement agreement, should they prefer this route.
+<p style="margin-left:20%; margin-right:20%;">iii.  For the avoidance of doubt, the process of obtaining a court order under the Bill does not extinguish the underlying mediated settlement agreement. So it preserves the status of the underlying mediated agreement, it is still an agreement afterall, even if one chooses to invoke the court process for the purposes of enforcement or to raise it as defence. Either party to the mediated settlement agreement is at liberty to use the underlying settlement agreement for enforcement or invocation in another country which is a party to the Convention, which is precisely why there’s such a convention for cross-border enforcement of the mediated settlement agreement. This of course, will be subject to that country’s procedures for enforcement and/ or invocation.</p>    
+<p style="margin-left:20%; margin-right:20%;">iv.   Lastly, parties’ legal rights and remedies existing outside of the Convention will be preserved. This means that parties can, for instance, continue to rely on contractual principles to enforce or invoke their settlement agreement, should they prefer this route.</p>
       
-  c.  Next, Clause 6. Clause 6 requires the applicant to provide certain documents and evidence to the Court with its application. The Court may also take into account an exhaustive list of grounds to refuse an application, under Clause 7. 
+<p style="margin-left:10%; margin-right:10%;">c.  Next, Clause 6. Clause 6 requires the applicant to provide certain documents and evidence to the Court with its application. The Court may also take into account an exhaustive list of grounds to refuse an application, under Clause 7.</p>
   
-  d.  Where a settlement agreement has been recorded as an order of court, Clause 8 enables a party to apply to set aside the court order under stipulated grounds. 
+<p style="margin-left:10%; margin-right:10%;">d.  Where a settlement agreement has been recorded as an order of court, Clause 8 enables a party to apply to set aside the court order under stipulated grounds.</p>
   
-  e.  In Clause 9, if there are parallel proceedings in another court, tribunal or other competent authority, the Court hearing an application under the Bill may adjourn the hearing and order the other party to give suitable security for costs.   
+<p style="margin-left:10%; margin-right:10%;">e.  In Clause 9, if there are parallel proceedings in another court, tribunal or other competent authority, the Court hearing an application under the Bill may adjourn the hearing and order the other party to give suitable security for costs.</p>  
   
 <i>Reservations</i>
 
-  f.  This  Bill does not currently implement either of the two reservations allowed under the Convention. The effect of this  non-implementation of the reservation is that:
+<p style="margin-left:10%; margin-right:10%;">f.  This  Bill does not currently implement either of the two reservations allowed under the Convention. The effect of this  non-implementation of the reservation is that:</p>
   
-   i.  Firstly, the Convention and Bill will apply to settlement agreements that the Government is a party to; and
+<p style="margin-left:20%; margin-right:20%;">i.  Firstly, the Convention and Bill will apply to settlement agreements that the Government is a party to; and</p>
     
-   ii. Two, the Convention and the Bill will apply automatically to parties to a settlement agreement who may wish to enforce or invoke their agreement in a Singapore courts under the Convention. Parties may however agree, through the terms of their settlement agreement, to opt out of the Convention.  That is a choice given to the parties - you might decide that you wish to opt out of the modalities set out in the Convention. 
+<p style="margin-left:20%; margin-right:20%;">ii. Two, the Convention and the Bill will apply automatically to parties to a settlement agreement who may wish to enforce or invoke their agreement in a Singapore courts under the Convention. Parties may however agree, through the terms of their settlement agreement, to opt out of the Convention.  That is a choice given to the parties - you might decide that you wish to opt out of the modalities set out in the Convention.</p> 
           
-  g.  Finally, the Bill makes related amendments to the Mediation Act 2017, which I mentioned earlier, and also to the Supreme Court of Judicature Act (“SCJA”). 
+<p style="margin-left:10%; margin-right:10%;">g.  Finally, the Bill makes related amendments to the Mediation Act 2017, which I mentioned earlier, and also to the Supreme Court of Judicature Act (“SCJA”).</p> 
   
-   i.  The related amendments to the Mediation Act 2017 provide that a settlement agreement within the scope of the Bill is not precluded from the Mediation Act 2017, if that settlement agreement also qualifies under that Act. In other words, it preserves the party’s rights to go under the Mediation Act 2017 if you also qualify under the framework of that legislation. 
+ <p style="margin-left:20%; margin-right:20%;">i.  The related amendments to the Mediation Act 2017 provide that a settlement agreement within the scope of the Bill is not precluded from the Mediation Act 2017, if that settlement agreement also qualifies under that Act. In other words, it preserves the party’s rights to go under the Mediation Act 2017 if you also qualify under the framework of that legislation.</p>
     
-   ii. The amendments to the SCJA provide the High Court with the jurisdiction to grant applications under the Bill.
+ <p style="margin-left:20%; margin-right:20%;">ii. The amendments to the SCJA provide the High Court with the jurisdiction to grant applications under the Bill.</p>
 
 <b>Conclusion</b>
 
