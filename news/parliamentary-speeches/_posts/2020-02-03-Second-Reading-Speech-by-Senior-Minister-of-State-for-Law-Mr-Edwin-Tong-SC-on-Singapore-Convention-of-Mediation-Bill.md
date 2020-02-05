@@ -22,11 +22,11 @@ Mr Speaker,
 {:start="4"}
 4.  Against this backdrop, one key area of focus in my Ministry’s work has been to strengthen Singapore’s legal and dispute resolution framework, to better serve the needs of international businesses that use Singapore as a base for their international commercial transactions. 
 
-  <blockquote>a.  Singapore is one of the leading cross-border dispute resolution centres in the world.
+  <p>a.  Singapore is one of the leading cross-border dispute resolution centres in the world.</p>
 
-  b.  And undergirding this is our trusted legal system and a strong rule of law. 
+  <p>b.  And undergirding this is our trusted legal system and a strong rule of law.</p> 
   
-  c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.</blockquote>
+  <p>c.  We also provide a comprehensive suite of international dispute resolution services to meet the varying needs of businesses. These include litigation, arbitration and increasingly, mediation.</p>
 
 {:start="5"}
 5.	As part of efforts to strengthen our dispute resolution ecosystem, Singapore has invested in the development of international commercial mediation, including through building up institutions, developing capabilities, and also updating our laws.
