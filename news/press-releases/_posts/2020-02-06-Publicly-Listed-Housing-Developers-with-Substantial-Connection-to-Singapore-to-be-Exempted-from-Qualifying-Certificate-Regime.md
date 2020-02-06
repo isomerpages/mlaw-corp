@@ -34,7 +34,7 @@ permalink: /news/press-releases/Publicly-Listed-Housing-Developers-with-Substant
 7.	The Government is making no changes to the existing property market cooling measures, which were put in place to keep private residential property price increases in line with economic fundamentals. In particular, all housing developers continue to be subject to the prevailing Additional Buyer’s Stamp Duty (ABSD) regime. The regime requires, among other conditions, developers to sell all units in a residential project within a specified timeline, failing which they will be subject to the ABSD.  
 
 
-**MINISTRY OF LAW AND SINGAPORE LAND AUTHORITY**
+**MINISTRY OF LAW AND SINGAPORE LAND AUTHORITY**<br>
 **6 FEBRUARY 2020**
 
 <p class="right-side-updated">Last updated on 06 Feb 2020</p> 
