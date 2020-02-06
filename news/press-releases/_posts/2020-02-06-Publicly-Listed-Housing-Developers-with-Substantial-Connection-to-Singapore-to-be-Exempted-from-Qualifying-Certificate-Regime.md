@@ -18,13 +18,19 @@ permalink: /news/press-releases/Publicly-Listed-Housing-Developers-with-Substant
 5.	Publicly listed housing developers can apply for exemption from the QC regime, on the basis that they have a substantial connection to Singapore. The application will be assessed by reference to the following criteria:
 
   a.	Incorporation in Singapore;
+  
   b.	Primary listing is on the Singapore Exchange and principal place of business is Singapore;
+  
   c.	The chairperson and the majority of the company’s board are Singapore citizens;
+  
   d.	A significantly Singaporean substantial shareholding interest  in the company; and
+  
   e.	Track record in Singapore.
 
+{:start="6"}
 6.	The changes will be implemented with immediate effect and reflected in legislation later this year. Applications may be submitted to the Controller of Residential Property. For more information on application procedures, please contact the Singapore Land Authority (SLA) at SLA_Enquiry@sla.gov.sg or 1800-323-9829. The application form can be obtained from SLA’s website at www.sla.gov.sg. 
 
+{:start="7"}
 7.	The Government is making no changes to the existing property market cooling measures, which were put in place to keep private residential property price increases in line with economic fundamentals. In particular, all housing developers continue to be subject to the prevailing Additional Buyer’s Stamp Duty (ABSD) regime. The regime requires, among other conditions, developers to sell all units in a residential project within a specified timeline, failing which they will be subject to the ABSD.  
 
 
