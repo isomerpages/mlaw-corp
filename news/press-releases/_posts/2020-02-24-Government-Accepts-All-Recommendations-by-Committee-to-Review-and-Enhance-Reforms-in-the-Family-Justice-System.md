@@ -16,12 +16,12 @@ permalink: /news/press-releases/Government-Accepts-All-Recommendations-by-Commit
 <b>Summary of Feedback</b>
 
 <ol start="4">
-<li>MinLaw and MSF held a public consultation from 20 September to 1 November 2019 on the RERF Committee’s recommendations, and received responses from members of the public and from stakeholders in the legal and social sectors, such as the Law Society, PPIS (Persatuan Pemudi Islam Singapura) and AWARE (Association of Women for Action and Research). Overall, feedback was supportive of the RERF Committee’s recommendations.</li> 
+<li>MinLaw and MSF held a public consultation from 20 September to 1 November 2019 on the RERF Committee’s recommendations, and received responses from members of the public and from stakeholders in the legal and social sectors, such as the Law Society, PPIS (Persatuan Pemudi Islam Singapura) and AWARE (Association of Women for Action and Research). Overall, feedback was supportive of the RERF Committee’s recommendations.</li></ol> 
 
 <i>Feedback on strengthening upstream pre-divorce support for couples</i>
 
 <ol start="5">
-<li>There was generally positive public feedback on the introduction of a consolidated online platform to provide pre-filing support for couples contemplating divorce. Many respondents also supported enhancements to the Mandatory Parenting Programme, as well as pre-action counselling and mediation.</li> 
+<li>There was generally positive public feedback on the introduction of a consolidated online platform to provide pre-filing support for couples contemplating divorce. Many respondents also supported enhancements to the Mandatory Parenting Programme, as well as pre-action counselling and mediation.</li>
 
 <p style="margin-left: 40px">a. <b>Addressing emotional needs</b>: Respondents agreed that these initiatives would help individuals address their emotional needs and reduce acrimony from the outset.</p>
 
