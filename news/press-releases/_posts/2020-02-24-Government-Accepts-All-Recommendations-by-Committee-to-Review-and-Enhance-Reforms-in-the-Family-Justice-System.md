@@ -60,9 +60,9 @@ permalink: /news/press-releases/Government-Accepts-All-Recommendations-by-Commit
 <ol start="14">
 <li>The Ministries will consider these suggestions when implementing the recommendations.</li></ol>
 
-[Annex A (46.1KB)](/files/news/press-releases/2020/1/RERF - Annex A.pdf) 
-[Annex B (47KB)](/files/news/press-releases/2020/1/RERF - Annex B.pdf) 
-[Annex C (67.8KB)](/files/news/press-releases/2020/1/RERF - Annex C.pdf) 
+[Annex A (46.1KB)] (/files/news/press-releases/2020/1/RERF - Annex A.pdf) 
+[Annex B (47KB)] (/files/news/press-releases/2020/1/RERF - Annex B.pdf) 
+[Annex C (67.8KB)] (/files/news/press-releases/2020/1/RERF - Annex C.pdf) 
 
 <b>MINISTRY OF LAW AND MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT</b><br>
 <b>24 FEBRUARY 2020</b>
