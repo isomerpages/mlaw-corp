@@ -15,16 +15,17 @@ permalink: /news/press-releases/Government-Accepts-All-Recommendations-by-Commit
 
 <b>Summary of Feedback</b>
 
-4.  MinLaw and MSF held a public consultation from 20 September to 1 November 2019 on the RERF Committee’s recommendations, and received responses from members of the public and from stakeholders in the legal and social sectors, such as the Law Society, PPIS (Persatuan Pemudi Islam Singapura) and AWARE (Association of Women for Action and Research). Overall, feedback was supportive of the RERF Committee’s recommendations. 
+<ol start="4">
+<li>MinLaw and MSF held a public consultation from 20 September to 1 November 2019 on the RERF Committee’s recommendations, and received responses from members of the public and from stakeholders in the legal and social sectors, such as the Law Society, PPIS (Persatuan Pemudi Islam Singapura) and AWARE (Association of Women for Action and Research). Overall, feedback was supportive of the RERF Committee’s recommendations.</li> 
 
 <i>Feedback on strengthening upstream pre-divorce support for couples</i>
 
 <ol start="5">
 <li>There was generally positive public feedback on the introduction of a consolidated online platform to provide pre-filing support for couples contemplating divorce. Many respondents also supported enhancements to the Mandatory Parenting Programme, as well as pre-action counselling and mediation.</li> 
 
-<p style="margin-left: 40px">a.<b>Addressing emotional needs</b>: Respondents agreed that these initiatives would help individuals address their emotional needs and reduce acrimony from the outset.</p>
+<p style="margin-left: 40px">a. <b>Addressing emotional needs</b>: Respondents agreed that these initiatives would help individuals address their emotional needs and reduce acrimony from the outset.</p>
 
-<p style="margin-left: 40px">b.<b>Addressing financial matters</b>: The legal sector was concerned that introducing the topic of financial matters at the pre-filing stage would be premature. They also raised concerns on the difficulty of providing personalised financial assessment through an online platform, due to the complexity of the cases and the skills required to make the appropriate assessment. On the other hand, the social sector was supportive, as this recommendation would help parties plan for post-divorce finances. MSF notes that DSSA counsellors are trained by Credit Counselling Singapore (CCS) to provide basic budgetary guidance. Clients with more complex needs (e.g. with large outstanding debts) will be referred to CCS for professional advice on financial matters and debt repayment plans.</p></ol>
+<p style="margin-left: 40px">b. <b>Addressing financial matters</b>: The legal sector was concerned that introducing the topic of financial matters at the pre-filing stage would be premature. They also raised concerns on the difficulty of providing personalised financial assessment through an online platform, due to the complexity of the cases and the skills required to make the appropriate assessment. On the other hand, the social sector was supportive, as this recommendation would help parties plan for post-divorce finances. MSF notes that DSSA counsellors are trained by Credit Counselling Singapore (CCS) to provide basic budgetary guidance. Clients with more complex needs (e.g. with large outstanding debts) will be referred to CCS for professional advice on financial matters and debt repayment plans.</p></ol>
 
 <ol start="6">
 <li>There was also positive feedback on the building up of social sector capabilities in divorce support. A number of respondents stressed the importance of equipping divorce support professionals with financial counselling skills to help divorcing parties plan for post-divorce finances.</li></ol>
@@ -59,7 +60,7 @@ permalink: /news/press-releases/Government-Accepts-All-Recommendations-by-Commit
 <ol start="14">
 <li>The Ministries will consider these suggestions when implementing the recommendations.</li></ol>
 
-[Annex A (46.1KB)](/files/news/press-releases/2020/1/RERF - Annex A.pdf) 
+[Annex A (46.1KB)](/files/news/press-releases/2020/1/RERF - Annex A.pdf)
 [Annex B (47KB)](/files/news/press-releases/2020/1/RERF - Annex B.pdf) 
 [Annex C (67.8KB)](/files/news/press-releases/2020/1/RERF - Annex C.pdf) 
 
