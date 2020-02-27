@@ -15,7 +15,7 @@ Note by SMS Edwin Tong on MinLaw's 2019 Highlights
 
 28 Feb 2020 Posted in [Legal Industry Newsletters](/news/legal-industry-newsletters/)
 
-Senior Minister of State for Law and Health, Edwin Tong presents what MinLaw has achieved in 2019, to offer insight into the plans that he will announce at COS..
+Senior Minister of State for Law and Health, Edwin Tong presents what MinLaw has achieved in 2019, to offer insight into the plans that he will announce at COS.
 
 <div class="image">
   <a href="/files/COS2020Note28Feb.pdf/"><img src="/images/COS2020Note28Feb.jpg/" title="Moving Fast, Far and Foward" alt="Moving Fast, Far and Foward"></a>
