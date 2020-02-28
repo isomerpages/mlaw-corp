@@ -44,7 +44,7 @@ permalink: /news/speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Ed
 </ol> 
 
 <ol start="10">
-<li>10.	These safeguards are important. But they alone cannot maintain public trust. The Attorney-General’s actions are also important. Attorney-General Lucien Wong recently said that the Attorney-General’s independence “is enshrined in the Constitution and is an established rule of practice within Chambers” (Singapore Law Review Lecture 2017). The Attorney-General has also not shied away from prosecuting individuals who may be well-connected or hold high positions. Some examples are as follows:</li>
+<li>These safeguards are important. But they alone cannot maintain public trust. The Attorney-General’s actions are also important. Attorney-General Lucien Wong recently said that the Attorney-General’s independence “is enshrined in the Constitution and is an established rule of practice within Chambers” (Singapore Law Review Lecture 2017). The Attorney-General has also not shied away from prosecuting individuals who may be well-connected or hold high positions. Some examples are as follows:</li>
 </ol>
 <ul style="list-style-type:disc;">
 <li>A Minister of State</li>
@@ -59,7 +59,7 @@ permalink: /news/speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Ed
 </ol>
 
 <ol start="12">
-<li>12.	I take this opportunity to reaffirm the Government’s fundamental commitment to, and respect for, the Attorney-General’s independent exercise of prosecutorial discretion, which is essential to a society governed by the rule of law.</li>
+<li>I take this opportunity to reaffirm the Government’s fundamental commitment to, and respect for, the Attorney-General’s independent exercise of prosecutorial discretion, which is essential to a society governed by the rule of law.</li>
 </ol>
 
 <p class="right-side-updated">Last updated on 28 Feb 2020</p> 
