@@ -21,15 +21,18 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-St
 <ol start="a">
 a.  First, to continually update our legal framework to meet both today’s and tomorrow’s needs;
 <br>
+<br>
 b.  Second, to work together with our stakeholders, to strengthen Singapore’s position as a leading international legal services hub for Asia, and of course, the world.
 </ol>
 
 <ol start="3">
 <li>In the past two years, we –</li>
 </ol>
-<ol type="a">
-<li>Have passed many pieces of legislation, to achieve these objectives.</li>
-<li>We have redoubled our efforts at establishing Singapore as a legal services hub</li>
+<ol start="a">
+a.  Have passed many pieces of legislation, to achieve these objectives.
+<br>
+<br>
+b.  We have redoubled our efforts at establishing Singapore as a legal services hub
 </ol>
 <ul style="list-style-type:disc;">
 <li>This has included, as Mr Sitoh has said, the signing of the Singapore Convention on Mediation, and I’ll touch more on that in a moment.</li>
@@ -38,14 +41,15 @@ b.  Second, to work together with our stakeholders, to strengthen Singapore’s 
 <ol start="4">
 <li>Our focus for the coming year will be to –</li>
 </ol>
-<ol type="a">
-<li>Implement the changes.</li>
-<li>Ensure also, that every Singaporean can be confident of effective access to justice in Singapore.</li>
+<ol start="a">
+a.  Implement the changes.
+<br>
+<br>
+b.  Ensure also, that every Singaporean can be confident of effective access to justice in Singapore.
 <ul style="list-style-type:disc;">
 <li>Our legal system must be user-friendly, must be affordable, and must provide effective solutions.</li>
 <li>It must also be accessible to the most vulnerable amongst us.</li>
-</ul>
-<li>We will therefore continue to grow the legal services sector to ensure that more can enjoy the benefits of this growth, whilst at the same time ensuring that those who require and need those services will have access to those services.</li>
+c.  We will therefore continue to grow the legal services sector to ensure that more can enjoy the benefits of this growth, whilst at the same time ensuring that those who require and need those services will have access to those services.
 </ol>
 
 <b>Strengthening our legal framework to meet both present needs, and tomorrow's needs</b>
