@@ -33,10 +33,11 @@ a.  Have passed many pieces of legislation, to achieve these objectives.
 <br>
 <br>
 b.  We have redoubled our efforts at establishing Singapore as a legal services hub
-</ol>
 <ul>
 <li>This has included, as Mr Sitoh has said, the signing of the Singapore Convention on Mediation, and I’ll touch more on that in a moment.</li>
-
+</ul>
+</ol>
+ 
 <ol start="4">
 <li>Our focus for the coming year will be to –</li>
 </ol>
