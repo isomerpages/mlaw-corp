@@ -34,7 +34,7 @@ a.  Have passed many pieces of legislation, to achieve these objectives.
 <br>
 b.  We have redoubled our efforts at establishing Singapore as a legal services hub
 </ol>
-<ul style="list-style-type:disc;">
+<ul>
 <li>This has included, as Mr Sitoh has said, the signing of the Singapore Convention on Mediation, and I’ll touch more on that in a moment.</li>
 </ul>
 
@@ -46,9 +46,12 @@ a.  Implement the changes.
 <br>
 <br>
 b.  Ensure also, that every Singaporean can be confident of effective access to justice in Singapore.
-<ul style="list-style-type:disc;">
+</ol> 
+<ul>
 <li>Our legal system must be user-friendly, must be affordable, and must provide effective solutions.</li>
 <li>It must also be accessible to the most vulnerable amongst us.</li>
+</ul>
+<ol start="a">
 c.  We will therefore continue to grow the legal services sector to ensure that more can enjoy the benefits of this growth, whilst at the same time ensuring that those who require and need those services will have access to those services.
 </ol>
 
