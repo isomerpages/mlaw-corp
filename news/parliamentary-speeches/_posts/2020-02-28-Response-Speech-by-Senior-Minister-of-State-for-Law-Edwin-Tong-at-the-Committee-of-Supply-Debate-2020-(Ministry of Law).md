@@ -55,7 +55,7 @@ b.  Ensure also, that every Singaporean can be confident of effective access to 
 c.  We will therefore continue to grow the legal services sector to ensure that more can enjoy the benefits of this growth, whilst at the same time ensuring that those who require and need those services will have access to those services.
 </ol>
 
-<b>Strengthening our legal framework to meet both present needs, and tomorrow's needs</b>
+<b><u>Strengthening our legal framework to meet both present needs, and tomorrow's needs</u></b>
 
 <ol start="5">
 <li>Let me begin by speaking about my Ministry’s efforts to strengthen the overall legal framework. Mr Christopher de Souza and Ms Jessica Tan and I think several others have touched on this.</li> 
@@ -78,17 +78,15 @@ b. They are often also vulnerable – especially those families with children, w
 </ol>
 <ol start="a">
 a. Our aim:
-<br>
-<br>
 <ul>
 <li>Is to reduce time, cost and perhaps most importantly, unnecessary acrimony.</li>
 <li>To recognise and protect the interests of the children, so that the acrimony does not affect and adversely weigh on the outcomes for the children.</li>
 </ul>
-<li>We have moved significantly, to improve the process. For example –</li>
-</ol>
+b. We have moved significantly, to improve the process. For example –
 <ul>
 <li>In 2019, more than 55% of divorce cases were decided on the simplified track, which is faster, less costly and obviously less painful – up from just 24% in 2015.</li>
 </ul>
+</ol>
 
 <ol start="8">
 <li>These are encouraging numbers, but we do want to go further.</li>
@@ -134,7 +132,7 @@ c. But overall, Members should be assured that where there are genuine financial
 a. Two committees – one convened by my Ministry, and another by the Judiciary – made broad-ranging recommendations to enhance the efficiency, the affordability, and the overall effectiveness of our court system.
 <br>
 <br>
-b. We have completed public consultation and further discussions with key stakeholders, and will introduce legislation to implement some of the changes in due course.</li>
+b. We have completed public consultation and further discussions with key stakeholders, and will introduce legislation to implement some of the changes in due course.
 </ol>
 
 <ol start="14">
@@ -266,7 +264,7 @@ c. The grant of aid will of course still be subject to the merits test, to ensur
 </ol>
 
 <ol start="32">
-</ol>First, we have just launched the revamped Applicant Portal for civil legal aid, and new features will be included over the next few weeks.</li>
+</li>First, we have just launched the revamped Applicant Portal for civil legal aid, and new features will be included over the next few weeks.</li>
 </ol>
 <ol start="a">
 a. When completed, this portal will –
@@ -473,7 +471,7 @@ a. There will be sanctions against errant suppliers.
 a. The SCT provides a forum that is low cost, no lawyers are involved, so for example, claimants are only required to pay $10 for claims up to $5,000 in value. And the SCT may order one party to pay money to another party, arising from these claims, and also order a party to make good on deficiencies in the carrying out of, in your example, construction contracts, for instance.
 </ol>
 
-<b><u>Strengthening Singapore's position as a legal service hub</u></b>
+<b><u>Strengthening Singapore's position as a legal services hub</u></b>
 
 <ol start="57">
 <li>Moving on, Mr Christopher De Souza and Mr Sitoh Yih Pin spoke about strengthening Singapore’s position as a premier international legal services and dispute resolution hub.</li>
