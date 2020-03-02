@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2020 (Attorney's General Chambers)
+title: Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2020 (Attorney General's Chambers)
 date:   2020-02-28
-permalink: /news/speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Edwin-Tong-at-the-Committee-of-Supply-Debate-2020-(Attorney's-General-Chambers)
+permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Edwin-Tong-at-the-Committee-of-Supply-Debate-2020-(Attorney-General's-Chambers)
 ---
 
-28 Feb 2020 Posted in [[Speeches](/news/speeches)]
+28 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 1.	Mr Speaker, Ms Sylvia Lim spoke about de-coupling the dual roles of the Attorney-General as Public Prosecutor and chief legal advisor, and granting security of tenure to the Public Prosecutor, to further strengthen the system.
 
