@@ -19,8 +19,8 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-St
 <li>MinLaw’s mission is, broadly, two-fold:</li>
 </ol>
 <ol type="a">
-<li>First, to continually update our legal framework to meet both today’s and tomorrow’s needs;</li>
-<li>Second, to work together with our stakeholders, to strengthen Singapore’s position as a leading international legal services hub for Asia, and of course, the world.</li> 
+<li>First, to continually update our legal framework to meet both today’s and tomorrow’s needs;
+<li>Second, to work together with our stakeholders, to strengthen Singapore’s position as a leading international legal services hub for Asia, and of course, the world.
 </ol>
 
 <ol start="3">
