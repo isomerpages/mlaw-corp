@@ -17,10 +17,10 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-St
 
 <ol start="2">
 <li>MinLaw’s mission is, broadly, two-fold:</li>
+</ol>
 <ol type="a">
 <li>First, to continually update our legal framework to meet both today’s and tomorrow’s needs;</li>
 <li>Second, to work together with our stakeholders, to strengthen Singapore’s position as a leading international legal services hub for Asia, and of course, the world.</li> 
-</ol>
 </ol>
 
 <ol start="3">
@@ -93,7 +93,7 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-St
 </ol>
 
 <ol start="11">
-<li>11.	Ms Jessica Tan spoke about the enforcement of maintenance orders. This is an important concern, and we don’t want someone to have to spend time running from pillar to post, to try to recover something that the court has already granted, by way of an order. We have already taken steps over the years to address this issue.</li>
+<li>Ms Jessica Tan spoke about the enforcement of maintenance orders. This is an important concern, and we don’t want someone to have to spend time running from pillar to post, to try to recover something that the court has already granted, by way of an order. We have already taken steps over the years to address this issue.</li>
 </ol>
 <ol type="a">
 <li>Where the spouse cannot find work, perhaps due to poor health or other reasons why the order cannot be fulfilled, we should recognise that support services rather than legal proceedings will provide more effective relief for the wife and the children concerned.</li>
