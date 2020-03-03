@@ -264,7 +264,7 @@ c. The grant of aid will of course still be subject to the merits test, to ensur
 </ol>
 
 <ol start="32">
-</li>First, we have just launched the revamped Applicant Portal for civil legal aid, and new features will be included over the next few weeks.</li>
+<li>First, we have just launched the revamped Applicant Portal for civil legal aid, and new features will be included over the next few weeks.</li>
 </ol>
 <ol start="a">
 a. When completed, this portal will –
