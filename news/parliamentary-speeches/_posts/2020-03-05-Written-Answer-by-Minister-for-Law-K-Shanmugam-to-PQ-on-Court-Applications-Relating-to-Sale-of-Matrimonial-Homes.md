@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Court Applications Relating to Sale of Matrimonial Homes
-date:   2020-03-04
+date:   2020-03-05
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Court-Applications-Relating-to-Sale-of-Matrimonial-Homes
 ---
 
-04 Mar 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
+05 Mar 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Mr Louis Ng Kok Kwang (Member of Parliament) 
 
@@ -20,4 +20,4 @@ To ask the Minister for Law for each year of the past five years (a) what is the
 
 3. We will explore with the Courts if they are able to collect such data.
 
-<p class="right-side-updated">Last updated on 04 Mar 2020</p>
+<p class="right-side-updated">Last updated on 05 Mar 2020</p>
