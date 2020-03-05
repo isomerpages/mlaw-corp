@@ -58,8 +58,10 @@ th, td {padding: 15px;}
 <li>Under section 6 of the GIA, the court may appoint a guardian where:</li> 
 </ol>
 <ol start="a">
-<li>either the infant’s father or mother has passed on and no guardian had been appointed by that father or mother. The court may appoint a guardian to act jointly with the surviving parent.</li> 
-<li>the infant has no parent, no guardian, and no person having parental rights with respect to him.</li>
+a.  either the infant’s father or mother has passed on and no guardian had been appointed by that father or mother. The court may appoint a guardian to act jointly with the surviving parent.
+<br>
+<br>
+b.  the infant has no parent, no guardian, and no person having parental rights with respect to him.
 </ol>
     
 <ol start="6">
