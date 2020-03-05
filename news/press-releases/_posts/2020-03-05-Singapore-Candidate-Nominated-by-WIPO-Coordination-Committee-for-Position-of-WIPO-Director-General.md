@@ -19,15 +19,13 @@ permalink: /news/press-releases/Singapore-Candidate-Nominated-by-WIPO-Coordinati
 
 6.	Senior Minister of State for Law and Health, Mr Edwin Tong, SC said, “The support from WIPO when Singapore was still a young country in our formative years, enabled us to develop a strong IP regime in Singapore. We are very grateful for the strong show of support from the WIPO Coordination Committee for Daren. I am confident that, if approved by the WIPO General Assembly in May, Daren will serve WIPO’s interests well, connecting countries and regions across the world.”
 
-7.  Mr Tang currently serves as the Chief Executive (CE) of IPOS, a statutory board under the Ministry of Law, where he drove the strategic transformation of IPOS from an IP registry and regulator into an innovation agency that helps to build Singapore’s future economy. His term saw major updates to Singapore’s IP Hub Masterplan, legislative and policy reforms to the IP regime and a scaling up of international engagement. IPOS today has cooperation agreements with over 70 regional and international partners. 
+7.  Mr Tang currently serves as the Chief Executive (CE) of IPOS, a statutory board under the Ministry of Law, where he drove the strategic transformation of IPOS from an IP registry and regulator into an innovation agency contributing to Singapore’s future economy. There have been major updates to Singapore’s IP Hub Masterplan, legislative and policy reforms to the IP regime and a scaling up of international engagement. IPOS today has cooperation agreements with over 70 regional and international partners. 
 
-8.  Under his leadership, IPOS was recognised as Asia’s most innovative IP office and ranked 2nd in the world by the World Trademark Review in 2019. Singapore has also been ranked 2nd in the world for IP protection by the World Economic Forum (2018/2019), and one of the top 10 countries in WIPO’s annual Global Innovation Index since 2015.
+8.  IPOS has been recognised as Asia’s most innovative IP office and ranked 2nd in the world by the World Trademark Review in 2019. Singapore has also been ranked 2nd in the world for IP protection by the World Economic Forum (2018/2019), and one of the top 10 countries in WIPO’s annual Global Innovation Index since 2015.
 
-9.  No stranger to the WIPO community, Mr Tang had served as Chairperson to its Standing Committee on Copyright and Related Rights since May 2017 and was re-elected as Chairperson for a second term in 2019.
+9.  Mr Tang has also served as Chairperson to its Standing Committee on Copyright and Related Rights since May 2017 and was re-elected as Chairperson for a second term in 2019.
 
-10. Prior to his appointment as CE, IPOS, Mr Tang was the lead negotiator and legal counsel for Singapore in the IP chapters of several important free-trade agreements, and was part of Singapore’s legal team that argued a major territorial dispute before the International Court of Justice.
-
-11. WIPO is the specialised agency of the UN responsible for intellectual property services, policy, information and cooperation. It has played an important role in helping its member states develop their capabilities and infrastructure to harness IP to support socio-economic development, as well as developed and maintained an international IP system to enable innovation.
+10. WIPO is the specialised agency of the UN responsible for intellectual property services, policy, information and cooperation. It has played an important role in helping its member states develop their capabilities and infrastructure to harness IP to support socio-economic development, as well as developed and maintained an international IP system to enable innovation.
 
 <b>MINISTRY OF LAW AND INTELLECTUAL PROPERTY OFFICE OF SINGAPORE</b>
 <br>
