@@ -16,31 +16,27 @@ To ask the Minister for Law in the last five years (a) how many applications hav
 
 1. The number of applications made under the Guardianship of Infants Act (Cap 122) (“GIA”) from 2015 to 2019 is as follows: 
 
-<head>
-<style>
-table, th, td {border: 1px solid black;border-collapse: collapse;}
-th, td {padding: 15px;}
-</style>
-</head>
-
-<table style="width:100%">
-  <tr>
-  	<th></th>
-    <th>2015</th>
-    <th>2016</th> 
-    <th>2017</th>
-    <th>2018</th>
-    <th>2019</th>
-  </tr>
-  <tr>
-    <td>Total number of applications<br> filed under the GIA</td>
-    <td>215</td>
-    <td>243</td>
-    <td>276</td>
-    <td>254</td>
-    <td>204</td>
-  </tr>
-</table>
+<TABLE BORDER="1"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="0">
+   <TR>
+      </TH>
+   </TR>
+   <TR>
+      <TH></TH>
+      <TH>2015</TH>
+      <TH>2016</TH>
+      <TH>2017</TH>
+      <TH>2018</TH>
+      <TH>2019</TH>
+   </TR>
+   <TR ALIGN="CENTER">
+      <TD>Total number of applications<br> filed under the GIA</TD>
+      <TD>215</TD>
+      <TD>243</TD>
+      <TD>276</TD>
+      <TD>254</TD>
+      <TD>204</TD>
+   </TR>
+</TABLE>
 
 <ol start="2">
 <li>These applications include those for guardianship and other types of applications relating to infants such as maintenance, custody, care, and control under the GIA.</li>
