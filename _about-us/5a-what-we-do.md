@@ -18,7 +18,7 @@ MinLaw plays the following key roles:
 
 * Oversees the policy for development, promotion and regulation of Singapore’s legal sector to strengthen Singapore’s position as a leading international legal services and dispute resolution hub.
 
-* Licenses all law practice entities and registers foreign-qualified practitioners in Singapore.
+* Licenses all law practice entities and registers foreign-qualified legal practitioners in Singapore.
 
 * Promotes and protects Singapore’s interests through cooperation and engagement with key international and regional organisations, and bilateral partners on a range of international legal policy issues, including transnational criminal and civil justice. 
 
