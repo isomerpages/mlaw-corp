@@ -10,19 +10,25 @@ second_nav_title: What We Do
 What We Do
 ---
 
-The Ministry of Law plays the following key roles:
+The mission of the Singapore Ministry of Law’s (MinLaw) is to advance access to justice, the rule of law, the economy and society through policy, law and services. 
+<br><br>
+MinLaw plays the following key roles:
 
-* To formulate and review legal, intellectual property, land, insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation policies, as well as legislation and strategies under MinLaw's purview;
+* Drives legal reforms to ensure a progressive legal framework that meets society’s needs. 
 
-* To provide legal and policy input for other Ministries' proposed Bills and programmes; and
+* Oversees the policy for development, promotion and regulation of Singapore’s legal sector to strengthen Singapore’s position as a leading international legal services and dispute resolution hub.
 
-* To develop the legal services, alternative dispute resolution and intellectual property sectors.
+* Licenses all law practice entities and registers foreign-qualified practitioners in Singapore.
 
-* To regulate and license all law practice entities and register foreign-qualified lawyers in Singapore.<br><br>
+* Promotes and protects Singapore’s interests through cooperation and engagement with key international and regional organisations, and bilateral partners on a range of international legal policy issues, including transnational criminal and civil justice. 
 
-The Ministry of Law's Community Legal Services Group handles matters relating to insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation. <br> <br>
+* Provides community legal services such as legal aid, community mediation, insolvency administration, and public trustee services.
 
-The Ministry of Law also comprises these Statutory Boards and Agency:
+* Regulates moneylending and pawnbroking, and supervises precious stones and metal dealers.
+
+* Oversees land policy and administration, and the development of Singapore’s intellectual property sector, supported by  its Statutory Boards 
+<br><br>
+The Ministry of Law is the parent ministry of the following Statutory Boards:
 
 * [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"}
 
@@ -30,4 +36,4 @@ The Ministry of Law also comprises these Statutory Boards and Agency:
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
 
-<p class="right-side-updated">Last updated on 16 Nov 2017</p>
+<p class="right-side-updated">Last updated on 17 Mar 2020</p>
