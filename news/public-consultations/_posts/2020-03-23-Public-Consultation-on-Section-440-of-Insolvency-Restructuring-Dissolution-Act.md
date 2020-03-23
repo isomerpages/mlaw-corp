@@ -34,7 +34,7 @@ permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Inso
 6. The draft subsidiary legislation in respect of the Financial Contracts Exemptions is set out at <u>Annex</u> below*. Please note that comments and feedback need not be confined to the specific questions set out within the draft subsidiary legislation.
 
 {:start="7"}
-7. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “MinLaw IRDA Consultation” and send them by email to <a href="mailto:MLAW_Consultation@mlaw.gov.sg">. All comments and feedback must reach us by the **<u>close of business (i.e. no later than 5pm) on 13 April 2020</u>**.
+7. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “MinLaw IRDA Consultation” and send them by email to [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg). All comments and feedback must reach us by the **<u>close of business (i.e. no later than 5pm) on 13 April 2020</u>**.
 
 [Annex (184KB)](/files/IRD_(Prescribed_Contracts_under_Section_440)_Regulations_2020.pdf)<br>
 
