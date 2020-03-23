@@ -17,13 +17,20 @@ permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Inso
 
 1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed draft subsidiary legislation to be promulgated under s 440 of the Insolvency, Restructuring and Dissolution Act (No. 40 of 2018) (“**IRDA**”) in relation to the eligible financial contracts to be prescribed for exemption under s 440(5)(a) of the IRDA.
 
+<ol start="2" style="list-style-type: upper-roman; font-weight:bold">
+<li><u>Background</u></li>
+</ol>
+
+{:start="2"}
 2. The IRDA introduced a new statutory provision at s 440. This provision restricts the operation of *ipso facto* contractual clauses in which a party to a contract has the contractual right to terminate or modify that contract entered into with a company, by reason only that specific proceedings (as defined in s 440(6) of the IRDA) are commenced or that the company is insolvent. It does **<u>not</u>** restrict the operation of *ipso facto* clauses that are triggered on any other contractually provided grounds (e.g. the failure of the company undergoing reorganisation to deliver services to the counterparty as required under the contract).
 
+{:start="3"}
 3. S 440 of the IRDA facilitates the attempts of a company to restructure by protecting its valuable commercial contracts from being terminated by reason only that the company has embarked on restructuring efforts, under certain specified circumstances. The concept of restricting the application of *ipso facto* clauses is also found in other jurisdictions, such as the US, Canada and Australia. This restriction, if applicable, operates from the commencement of judicial management proceedings or scheme of arrangement proceedings until their conclusion. 
 
+{:start="4"}
 4. To balance the interests of the counterparty and other stakeholders, various safeguards are included in s 440. This includes exemptions for certain types of contracts (under s 440(5) of the IRDA) and certain types of entities (under s 440(6) of the IRDA), where the restriction would have a disproportionately adverse impact on markets.
 
-<ol start="2" style="list-style-type: upper-roman; font-weight:bold">
+<ol start="3" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Public consultation</u></li>
 </ol>
 
