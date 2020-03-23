@@ -43,7 +43,7 @@ permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Inso
 {:start="7"}
 7. Respondents are requested to indicate your name and the organisation you represent (if applicable), as well as contact details (email address and telephone number) to enable us to follow up, and seek clarification, if necessary. Please title all comments and feedback “MinLaw IRDA Consultation” and send them by email to [MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg). All comments and feedback must reach us by the **<u>close of business (i.e. no later than 5pm) on 13 April 2020</u>**.
 
-[Annex (184KB)](/files/news/public-consultations/2020/01/IRD_Prescribed_Contracts_under_Section_440_Regulations_2020.pdf)<br>
+[Annex (183KB)](/files/news/public-consultations/2020/01/01/IRD_Prescribed_Contracts_under_Section_440_Regulations_2020.pdf)<br>
 
 **Please note that the proposed provisions in this piece of subsidiary legislation in this public consultation are still undergoing the legislative drafting and vetting process, and are therefore not finalised and subject to change following the consultation process.*
 
