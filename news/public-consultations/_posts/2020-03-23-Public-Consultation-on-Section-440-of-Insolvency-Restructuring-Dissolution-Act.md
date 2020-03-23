@@ -15,7 +15,7 @@ permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Inso
 <li><u>Introduction</u></li>
 </ol>
 
-1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed draft subsidiary legislation to be promulgated under s 440 of the Insolvency, Restructuring and Dissolution Act (No. 40 of 2018) (“IRDA”) in relation to the eligible financial contracts to be prescribed for exemption under s 440(5)(a) of the IRDA.
+1. The Ministry of Law (“**MinLaw**”) invites members of the public to provide feedback on the proposed draft subsidiary legislation to be promulgated under s 440 of the Insolvency, Restructuring and Dissolution Act (No. 40 of 2018) (“**IRDA**”) in relation to the eligible financial contracts to be prescribed for exemption under s 440(5)(a) of the IRDA.
 
 2. The IRDA introduced a new statutory provision at s 440. This provision restricts the operation of *ipso facto* contractual clauses in which a party to a contract has the contractual right to terminate or modify that contract entered into with a company, by reason only that specific proceedings (as defined in s 440(6) of the IRDA) are commenced or that the company is insolvent. It does **<u>not</u>** restrict the operation of *ipso facto* clauses that are triggered on any other contractually provided grounds (e.g. the failure of the company undergoing reorganisation to deliver services to the counterparty as required under the contract).
 
