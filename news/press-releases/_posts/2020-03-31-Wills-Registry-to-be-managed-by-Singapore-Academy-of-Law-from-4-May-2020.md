@@ -11,7 +11,7 @@ permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academ
 
 2.	Members of the public who at present have wills information in the Registry need not take any action in relation to this change.
 
-3.	However, to¬ facilitate the transfer, the Wills Registry will stop accepting the depositing of wills information between 22 April 2020 and 3 May 2020. Members of the public who wish to conduct a wills search during this period can do so by downloading the search form from PTO’s website and submitting it through MinLaw’s online enquiry form at https://eservices.mlaw.gov.sg/enquiry/. 
+3.	However, to¬ facilitate the transfer, the Wills Registry will stop accepting the depositing of wills information between 22 April 2020 and 3 May 2020. Members of the public who wish to conduct a wills search during this period can do so by downloading the search form from PTO’s website and submitting it through MinLaw’s online enquiry form at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/). 
 
 4.	SAL will continue to maintain the confidentiality of the information within the Registry, and uphold the existing policy of releasing information only to the testator, the lawyers acting for the testator or the estate of the deceased testator, or the next-of-kin or beneficiary of the deceased testator, when an application to search for wills information is made.
 
@@ -19,15 +19,15 @@ permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academ
 
 6.	“The management of the Wills Registry is in line with SAL’s other statutory functions as a trusted custodian of confidential information and documents,” said Ms Serene Wee, Chief Executive of SAL. “Over time, we hope to add on other related functions to the Wills Registry, including a future repository for copies of wills”.  
 
-7.	Those who wish to deposit or update their wills information from 4 May 2020 can do so by visiting https://wills.sal.sg. For more information, the public can contact:
-•	SAL at 6332 4388 or email wills@sal.org.sg 
-•	Ministry of Law at 1800-2255-646529 or send in your enquiry at https://eservices.mlaw.gov.sg/enquiry/
+7.	Those who wish to deposit or update their wills information from 4 May 2020 can do so by visiting [https://wills.sal.sg](https://wills.sal.sg). For more information, the public can contact:
+<br>•	SAL at 6332 4388 or email [wills@sal.org.sg](wills@sal.org.sg) 
+<br>•	Ministry of Law at 1800-2255-646529 or send in your enquiry at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
 
 
     **Important dates to note:**
-    •	From now until 21 April 2020, you may continue to access the Wills Registry services through PTO’s “E-services” portal via https://eservices.mlaw.gov.sg/pto/welcome.xhtml.
-    •	Between 22 April 2020 and 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via Contact Us @ OneMinLaw (https://eservices.mlaw.gov.sg/enquiry/). Search fees will be waived during this period.
-    •	From 4 May 2020, the Wills Registry services will be accessible through SAL’s online services via https://wills.sal.sg.
+    <br>•	From now until 21 April 2020, you may continue to access the Wills Registry services through PTO’s “E-services” portal via https://eservices.mlaw.gov.sg/pto/welcome.xhtml.
+    <br>•	Between 22 April 2020 and 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via Contact Us @ OneMinLaw (https://eservices.mlaw.gov.sg/enquiry/). Search fees will be waived during this period.
+    <br>•	From 4 May 2020, the Wills Registry services will be accessible through SAL’s online services via https://wills.sal.sg.
 
 
 <b>SINGAPORE ACADEMY OF LAW AND MINISTRY OF LAW</b>
