@@ -24,14 +24,14 @@ This media release provides clarity and guidance to entities on the holding of m
 <li>  Personal attendance at a meeting or class of meetings is provided for in any written law or legal instrument; and</li>  
 <li>  It is inexpedient or impracticable for the meeting or class of meetings to be convened, held or conducted in the manner provided for in the written law or legal instrument, in view of the prevailing Regulations; and</li>  
 </ol>
-  <li>  Provide that meetings held or deferred, <u>on or after **27 March 2020**</u>, in accordance with such prescribed alternative arrangements will be deemed to satisfy the relevant requirements under written law or legal instrument, despite anything to the contrary in any law or legal instrument.</li>
+  <li>  Provide that meetings held or deferred, <u>on or after <b>27 March 2020</b></u>, in accordance with such prescribed alternative arrangements will be deemed to satisfy the relevant requirements under written law or legal instrument, despite anything to the contrary in any law or legal instrument.</li>
 </ol>
   
 </li>  
 </ol>
 
 {:start="6"}
-6.	A non-exhaustive list of meetings where personal attendance is provided for in written law or legal instrument, is in the **<u>Annex<u/>**. If needed, alternative arrangements may be prescribed in respect of these meetings. In particular, alternative arrangements are intended to be prescribed for companies, including listed companies, listed business trusts and real estate investment trusts. Please refer to the updated guidance for issuers, announced by ACRA, MAS and SGX RegCo today (31 March 2020).
+6.	A non-exhaustive list of meetings where personal attendance is provided for in written law or legal instrument, is in the <b><u>Annex</u></b>. If needed, alternative arrangements may be prescribed in respect of these meetings. In particular, alternative arrangements are intended to be prescribed for companies, including listed companies, listed business trusts and real estate investment trusts. Please refer to the updated guidance for issuers, announced by ACRA, MAS and SGX RegCo today (31 March 2020).
 
 <ol start="7">
 <li>  If passed, the Proposed Provisions are intended to be brought into force as soon as possible. For entities that are planning to conduct meetings in the meantime,  and are uncertain about how to comply with the prevailing safe distancing measures without contravening provisions in written law or legal instruments, please approach the respective regulators for guidance on how the meeting should be conducted.  Meetings should minimally adopt the following:
