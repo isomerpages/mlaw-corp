@@ -7,7 +7,7 @@ permalink: /news/press-releases/Covid-19-Relief-Measures-Upcoming-Legislative-Pr
 
 31 Mar 2020 Posted in [Press releases](/news/press-releases)
 
-    This media release provides clarity and guidance to entities on the holding of meetings.
+   This media release provides clarity and guidance to entities on the holding of meetings.
 
 {:start="2"}
 2.	On 24 March 2020, the Ministry of Health (“MOH”) announced tighter measures to minimise further spread of COVID-19. On 27 March 2020, the Infectious Diseases (Measures to Prevent Spread of COVID-19) Regulations 2020 (“**Regulations**”) came into force. Under the Regulations, certain activities and events (e.g. conventions) are prohibited altogether.  Attendance for non-prohibited events (including meetings and gatherings) is limited to 10 individuals, and impose safe distancing measures for events held in public places.
