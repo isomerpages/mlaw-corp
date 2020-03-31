@@ -21,7 +21,7 @@ permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academ
 
 7.	Those who wish to deposit or update their wills information from 4 May 2020 can do so by visiting [https://wills.sal.sg](https://wills.sal.sg). For more information, the public can contact:
 <br>•	SAL at 6332 4388 or email [wills@sal.org.sg](wills@sal.org.sg) 
-<br>•	Ministry of Law at 1800-2255-646529 or send in your enquiry at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
+<br>•	Ministry of Law at 1800-2255-529 or send in your enquiry at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
 
 <br>
 **Important dates to note:**
