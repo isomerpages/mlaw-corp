@@ -23,11 +23,11 @@ permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academ
 <br>•	SAL at 6332 4388 or email [wills@sal.org.sg](wills@sal.org.sg) 
 <br>•	Ministry of Law at 1800-2255-646529 or send in your enquiry at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
 
-
-      **Important dates to note:**
-      <br>•	From now until 21 April 2020, you may continue to access the Wills Registry services through PTO’s “E-services” portal via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
-      <br>•	Between 22 April 2020 and 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via Contact Us @ OneMinLaw ([https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)). Search fees will be waived during this period.
-      <br>•	From 4 May 2020, the Wills Registry services will be accessible through SAL’s online services via [https://wills.sal.sg](https://wills.sal.sg).
+<br>
+**Important dates to note:**
+<br>•	From now until 21 April 2020, you may continue to access the Wills Registry services through PTO’s “E-services” portal via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
+<br>•	Between 22 April 2020 and 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via Contact Us @ OneMinLaw ([https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)). Search fees will be waived during this period.
+<br>•	From 4 May 2020, the Wills Registry services will be accessible through SAL’s online services via [https://wills.sal.sg](https://wills.sal.sg).
 
 
 <b>SINGAPORE ACADEMY OF LAW AND MINISTRY OF LAW</b>
