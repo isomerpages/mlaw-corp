@@ -1,37 +1,61 @@
 ---
 layout: post
-title: Covid-19 Relief Measures Upcoming Legislative Provisions To Provide Legal Certainty On Holding Of Meetings
+title: Covid-19 Relief Measures - Upcoming Legislative Provisions To Provide Legal Certainty On Holding Of Meetings
 date: 2020-03-31
 permalink: /news/press-releases/Covid-19-Relief-Measures-Upcoming-Legislative-Provisions-To-Provide-Legal-Certainty-On-Holding-Of-Meetings
 ---
 
 31 Mar 2020 Posted in [Press releases](/news/press-releases)
 
-1.	From 4 May 2020, the Singapore Academy of Law (SAL) will manage the Wills Registry, which is presently under the purview of the Public Trustee’s Office (PTO). The transfer of the registry to SAL is synergistic with SAL’s current services as a provider of legal information and services, making it more convenient for the legal industry and the public. Charges for services currently offered by the Registry will remain the same.
+1.  31 March 2020 – This media release provides clarity and guidance to entities on the holding of meetings.
 
-2.	Members of the public who at present have wills information in the Registry need not take any action in relation to this change.
+2.	On 24 March 2020, the Ministry of Health (“MOH”) announced tighter measures to minimise further spread of COVID-19. On 27 March 2020, the Infectious Diseases (Measures to Prevent Spread of COVID-19) Regulations 2020 (“Regulations”) came into force. Under the Regulations, certain activities and events (e.g. conventions) are prohibited altogether.  Attendance for non-prohibited events (including meetings and gatherings) is limited to 10 individuals, and impose safe distancing measures for events held in public places.
 
-3.	However, to¬ facilitate the transfer, the Wills Registry will stop accepting the depositing of wills information between 22 April 2020 and 3 May 2020. Members of the public who wish to conduct a wills search during this period can do so by downloading the search form from PTO’s website and submitting it through MinLaw’s online enquiry form at https://eservices.mlaw.gov.sg/enquiry/. 
+3.	All meetings must be held in accordance with the prevailing Regulations issued to implement safe distancing measures.
 
-4.	SAL will continue to maintain the confidentiality of the information within the Registry, and uphold the existing policy of releasing information only to the testator, the lawyers acting for the testator or the estate of the deceased testator, or the next-of-kin or beneficiary of the deceased testator, when an application to search for wills information is made.
+4.	We are aware that certain provisions in written law and certain legal instruments (such as a company’s constitution) provide for personal attendance at meetings. The Government has received feedback that businesses are uncertain about how to comply with both those provisions and the Regulations. Thus, the Government will introduce new legislation at the next sitting of Parliament (on or about 7 April 2020) (“Proposed Provisions”) to provide legal certainty on the holding of such meetings.
 
-5.	Upon the transfer, SAL will initially offer the same services as those presently offered by PTO. However, plans are afoot to provide more comprehensive wills and will-related services to members of the public in future.
+<ol start="5">
+<li>  Subject to Parliament’s approval, the Proposed Provisions will:
 
-6.	“The management of the Wills Registry is in line with SAL’s other statutory functions as a trusted custodian of confidential information and documents,” said Ms Serene Wee, Chief Executive of SAL. “Over time, we hope to add on other related functions to the Wills Registry, including a future repository for copies of wills”.  
+<ol style="list-style-type: lower-alpha">
+<li>  Allow alternative arrangements to be prescribed where:</li>
+<ol style="list-style-type: lower-roman">
+<li>  Personal attendance at a meeting or class of meetings is provided for in any written law or legal instrument; and</li>  
+<li>  It is inexpedient or impracticable for the meeting or class of meetings to be convened, held or conducted in the manner provided for in the written law or legal instrument, in view of the prevailing Regulations; and</li>  
+</ol>
+<li>  Provide that meetings held or deferred, on or after 27 March 2020, in accordance with such prescribed alternative arrangements will be deemed to satisfy the relevant requirements under written law or legal instrument, despite anything to the contrary in any law or legal instrument.</li>
+</ol>
+  
+</li>  
+</ol>
 
-7.	Those who wish to deposit or update their wills information from 4 May 2020 can do so by visiting https://wills.sal.sg. For more information, the public can contact:
-•	SAL at 6332 4388 or email wills@sal.org.sg 
-•	Ministry of Law at 1800-2255-646529 or send in your enquiry at https://eservices.mlaw.gov.sg/enquiry/
+{:start="6"}
+6.	A non-exhaustive list of meetings where personal attendance is provided for in written law or legal instrument, is in the Annex. If needed, alternative arrangements may be prescribed in respect of these meetings. In particular, alternative arrangements are intended to be prescribed for companies, including listed companies, listed business trusts and real estate investment trusts. Please refer to the updated guidance for issuers, announced by ACRA, MAS and SGX RegCo today (31 March 2020).
 
+<ol start="7">
+<li>  If passed, the Proposed Provisions are intended to be brought into force as soon as possible. For entities that are planning to conduct meetings in the meantime,  and are uncertain about how to comply with the prevailing safe distancing measures without contravening provisions in written law or legal instruments, please approach the respective regulators for guidance on how the meeting should be conducted.  Meetings should minimally adopt the following:
 
-    **Important dates to note:**
-    •	From now until 21 April 2020, you may continue to access the Wills Registry services through PTO’s “E-services” portal via https://eservices.mlaw.gov.sg/pto/welcome.xhtml.
-    •	Between 22 April 2020 and 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via Contact Us @ OneMinLaw (https://eservices.mlaw.gov.sg/enquiry/). Search fees will be waived during this period.
-    •	From 4 May 2020, the Wills Registry services will be accessible through SAL’s online services via https://wills.sal.sg.
+<ol style="list-style-type: lower-alpha">
+<li>  Allow and strongly encourage attendance at meetings using tele-conferencing, video-conferencing, or other electronic means;</li>
+<li>  Allow meeting attendees to appoint their proxies using electronic means, such as by e-mail;</li>
+<li>  Allow meeting attendees with rights to participate, to exercise these rights to the extent possible and appropriate, such as by allowing questions to be submitted by e-mail in advance, and responses to be conveyed by tele-conferencing, video-conferencing, or other electronic means;</li>
+<li>  If voting is required, strongly encourage meeting attendees to vote by proxy, or (if available) by electronic modes of voting; and</li>
+<li>  Provide meeting attendees with access to meeting materials.</li>
+</ol>
+  
+</li>  
+</ol>
 
+{:start="8"}
+8.	If entities are already able to comply with the prevailing safe distancing measures in accordance with the provisions in written law and their existing legal instruments, they should do so. The prescribed alternative arrangements are intended to help those who face challenges in complying with the prevailing safe distancing measures, and are not intended to be mandatory.
 
-<b>SINGAPORE ACADEMY OF LAW AND MINISTRY OF LAW</b>
+{:start="9"}
+9.	For further information, please check the websites of the respective regulators, or the Government’s website on COVID-19 advisories for various sectors.
+
+<b>MINISTRY OF FINANCE AND MINISTRY OF LAW</b>
 <br>
 <b>31 MARCH 2020</b>
 
 <p class="right-side-updated">Last updated on 31 Mar 2020</p>
+
