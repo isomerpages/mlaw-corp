@@ -88,7 +88,7 @@ permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contra
 
 <p><sup id="fn3">3. Businesses with turnover of not more than $100 million in the latest financial year.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-**<u>Annex A</u>**
+**<u>Annex A</u>**<br>
 [Draft COVID-19 (Temporary Measures) Bill(535KB)](/files/news/press-releases/2020/3/COVID-19_Temporary_Measures_Bill-DRAFT.pdf)<br>
 
 <p class="right-side-updated">Last updated on 02 Apr 2020</p>
