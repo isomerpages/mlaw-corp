@@ -7,7 +7,7 @@ permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contra
 
 01 Apr 2020 Posted in [Press releases](/news/press-releases)
 
-1.	The Ministry of Law (“MinLaw”) intends to introduce the COVID-19 (Temporary Measures) Bill in Parliament next week. The Bill seeks to offer temporary relief to businesses and individuals who are unable to fulfil their contractual obligations because of COVID-19. 
+1.	The Ministry of Law (“MinLaw”) intends to introduce the COVID-19 (Temporary Measures) Bill in Parliament next week. The Bill seeks to offer temporary relief to businesses and individuals who are unable to fulfil their contractual obligations because of COVID-19. (Please See **<u>Annex A</u>** for the draft COVID-19 (Temporary Measures) Bill)
 
 2.	The COVID-19 pandemic, and associated public health measures imposed by governments around the world, has had unprecedented and unforeseeable social and economic impact. There are supply chain disruptions and manpower shortages, among other consequences. In many cases, this has undermined the ability of individuals and businesses to fulfil contractual obligations. It would be unfair to hold them strictly liable for their failure to do so. 
 
@@ -88,4 +88,7 @@ permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contra
 
 <p><sup id="fn3">3. Businesses with turnover of not more than $100 million in the latest financial year.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-<p class="right-side-updated">Last updated on 01 Apr 2020</p>
+**<u>Annex A</u>**
+[Draft COVID-19 (Temporary Measures) Bill(535KB)](/files/news/press-releases/2020/3/COVID-19_Temporary_Measures_Bill-DRAFT.pdf)<br>
+
+<p class="right-side-updated">Last updated on 02 Apr 2020</p>
