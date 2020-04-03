@@ -5,5 +5,5 @@ permalink: /covid19-tribunal/
 breadcrumb: COVID-19 About the bill
 collection_name: covid19
 ---
-Test 1
+About
 
