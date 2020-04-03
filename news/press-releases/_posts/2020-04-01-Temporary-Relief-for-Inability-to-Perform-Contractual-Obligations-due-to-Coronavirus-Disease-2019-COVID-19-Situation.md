@@ -91,4 +91,7 @@ permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contra
 **<u>Annex A</u>**<br>
 [Draft COVID-19 (Temporary Measures) Bill (535KB)](/files/news/press-releases/2020/3/COVID-19_Temporary_Measures_Bill-DRAFT.pdf)<br>
 
+**<u>Annex B</u>**<br>
+[Minister's Quote on Committee for COVID-19 (Temporary Measures) Bill (398KB)](/files/news/press-releases/2020/3/Minister's_quote_on_Committee_for_COVID-19_Temporary_Measures_Bill.pdf)<br>
+
 <p class="right-side-updated">Last updated on 02 Apr 2020</p>
