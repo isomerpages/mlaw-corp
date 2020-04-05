@@ -18,7 +18,6 @@ a.	Essential and urgent matters specified in the Registrar’s Circulars issued 
 <li>attendance by the solicitor is required by the court; and/or</li>
 <li>adjudication hearings fixed under Building and Construction Industry Security of Payment Act;</li>
 </ol>
-<br>
 b.	Commercial transactions or actions having statutory, regulatory or contractual deadlines (whether local or foreign) falling within the period 7 April 2020 to 4 May 2020 for which no waiver or deferment has been or will be granted or transactions or actions for which completion is due or time is of the essence in this said period;
 <br><br>
 c.      Conveyancing transactions with deadlines where time is of the essence or with milestone deadlines to be met within the period 7 Apr 2020 to 4 May 2020 including but not limited to exercise of option and completion deadlines, and timelines affecting progress payments, deposits, monies in escrow and completion monies; and
