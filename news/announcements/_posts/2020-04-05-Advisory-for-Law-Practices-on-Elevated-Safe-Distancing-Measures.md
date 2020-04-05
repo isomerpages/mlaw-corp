@@ -16,16 +16,15 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 <li>  Essential and urgent matters specified in the Registrar’s Circulars issued by each court in respect of criminal, civil and family matters wherein during the period 7 April 2020 to 4 May 2020 (both dates inclusive):</li>
 <ol style="list-style-type: lower-roman">
 <li>attendance by the solicitor is required by the court; and/or</li>
-<li>adjudication hearings fixed under Building and Construction Industry Security of Payment Act;</li>
+<li>adjudication hearings fixed under the Building and Construction Industry Security of Payment Act;</li>
 </ol>
-<li>  Commercial transactions or actions having statutory, regulatory or contractual deadlines (whether local or foreign) falling within the period 7 April 2020 to 4 May 2020 for which no waiver or deferment has been or will be granted or transactions or actions for which completion is due or time is of the essence in this said period;</li>
-<li>Conveyancing transactions with deadlines where time is of the essence or with milestone deadlines to be met within the period 7 Apr 2020 to 4 May 2020 including but not limited to exercise of option and completion deadlines, and timelines affecting progress payments, deposits, monies in escrow and completion monies; and</li>
-<li>Urgent and essential Wills and Probate advisory and transactional services (for example the drafting of wills and execution of lasting powers of attorney for the vulnerable) required within the period 7 April 2020 to 4 May 2020, for which no deferment may be made.</li>
-</ol>
+<li>  Commercial transactions or actions having statutory, regulatory or contractual deadlines (whether local or foreign) falling within the period 7 April 2020 to 4 May 2020 (both dates inclusive) for which no waiver or deferment has been or will be granted or transactions or actions for which completion is due or time is of the essence in this said period;</li>
+<li>Conveyancing transactions with deadlines where time is of the essence or with milestone deadlines to be met within the period 7 Apr 2020 to 4 May 2020 (both dates inclusive) including but not limited to exercise of option and completion deadlines, and timelines affecting progress payments, deposits, monies in escrow and completion monies; and</li>
+<li>Urgent and essential Wills and Probate advisory and transactional services (for example the drafting of wills and execution of lasting powers of attorney for the vulnerable) required within the period 7 April 2020 to 4 May 2020 (both dates inclusive), for which no deferment may be made.</li>
 </ol>
 
 {:start="3"}
-3.      **For all other services, where law practices wish to work from office, law practices are required to apply for time-limited exemption at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/), which will be approved by MTI on a case-by-case basis.**
+3.      **For all other services, where law practices wish to work from the office, law practices are required to apply for time-limited exemption at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/), which will be approved by MTI on a case-by-case basis.**
 
 <ol start="4">
 <li>  Notwithstanding the general exemption granted for the four categories of activities, legal practices must comply with the following:
