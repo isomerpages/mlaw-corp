@@ -10,7 +10,7 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 1.      On 3 April 2020, the Prime Minister and the Multi-Ministry Taskforce announced the implementation of a set of elevated safe distancing measures to pre-empt the trend of increasing local transmission of COVID-19. These measures, including the suspension of business activities, are intended to significantly reduce physical movements and interactions in public and private places. Other than essential services and their related supply chains and service providers, all other business, social, or other activities that cannot be conducted through telecommuting or other means from home shall be suspended from 7 April 2020 to 4 May 2020 (both dates inclusive).
 
 {:start="2"}
-2.      While legal services has not been included as one of the essential services, the Ministry of Law recognises that certain legal activities are urgent and essential, and has worked with the relevant agencies to include the following categories of legal activities as essential services. **For these categories of legal activities, law practices are required to submit a one-time general exemption application at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/).**
+2.      While legal services in general has not been included as one of the essential services, the Ministry of Law recognises that certain legal activities are urgent and essential, and has worked with the relevant agencies to include the following categories of legal activities as essential services. **For these categories of legal activities, law practices are required to submit a one-time general exemption application at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/).**
 
 <ol style="list-style-type: lower-alpha">
 <li>  Essential and urgent matters specified in the Registrar’s Circulars issued by each court in respect of criminal, civil and family matters wherein during the period 7 April 2020 to 4 May 2020 (both dates inclusive):</li>
@@ -24,7 +24,7 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 </ol>
 
 {:start="3"}
-3.      **For all other services, where law practices wish to work from the office, law practices are required to apply for time-limited exemption at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/), which will be approved by MTI on a case-by-case basis.**
+3.      **For all other legal activities, where law practices wish to work from the office, law practices are required to apply for time-limited exemption at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/), which will be approved by MTI on a case-by-case basis.**
 
 <ol start="4">
 <li>  Notwithstanding the general exemption granted for the four categories of activities, legal practices must comply with the following:

@@ -13,7 +13,7 @@ The measures will take effect from 7 April 2020 to 4 May 2020 (both dates inclus
 
 The Ministry of Law’s services will continue to remain accessible to the public during this period, with digital and call services as the primary modes of work and service delivery. You are strongly encouraged to use our [e-services](http://www.mlaw.gov.sg/e-services) to access a range of services, including applying for legal aid from the Legal Aid Bureau (through the Applicant Portal), applying for public trustee services, and conducting transactions and applications at the various insolvency portals. Please click on the link for the full list of services available online. Instead of meeting face-to-face, our case officers will primarily contact you via telephone and email.
 
-If you need assistance, for example with the use of our e-services or to defer your appointments, please call us at 1800 2255 529. Alternatively, you may submit an [enquiry form](http://www.eservices.mlaw.gov.sg/enquiry). Our case officers will be in touch with you within three to five working days.
+If you need assistance, for example with the use of our e-services or to defer your appointments, please call us at 1800 2255 529. Alternatively, you may submit an [enquiry form](https://eservices.mlaw.gov.sg/enquiry/). Our case officers will be in touch with you within three to five working days.
 
 During this period, please refrain from visiting the Ministry of Law Services Centre at Level 7 of the URA Centre (East Wing), to minimise your time spent in public spaces. You are also advised to defer non-urgent appointments until after 4 May 2020. If you already have appointments scheduled to meet our officers, we will contact you soon to reschedule the appointments.
 
