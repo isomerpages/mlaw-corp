@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: B
-permalink: /c
-breadcrumb: C
-collection_name: c
+title: COVID-19 About the bill
+permalink: /covid19-relief/
+breadcrumb: About the bill
+collection_name: covid19
 ---
-About
+
+About the Bill
 
