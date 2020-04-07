@@ -30,7 +30,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 
 **II. <u>ALTERNATIVE MEETING ARRANGEMENTS</u>**
 
-*(A)	The Problems*
+*(A)	<u>The Problems</u>*
 
 {:start="6"}
 6.	This has given rise to some problems transacting usual commercial and other matters.
@@ -77,7 +77,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 {:start="14"}
 14.	Hence, Part 4 of this Bill seeks to introduce and allow some flexibility for meetings to be held in compliance with the necessary safe distancing measures but yet at the same time, maintaining propriety in the conduct of these meetings.
 
-*(B)	What Clause 27 does*
+*(B)	<u>What Clause 27 does</u>*
 
 {:start="15"}
 15.	Clause 27 applies to all situations where “personal attendance at the meeting is provided for in written law or any legal instrument.” There need not be an explicit requirement for physical attendance. The relevant law or legal instrument may simply entitle a person to attend a meeting. In this case, Clause 27 would apply. The relevant law or legal instrument may already provide for both virtual meetings, and personal attendance. In such a situation, Clause 27 would also apply.
@@ -126,7 +126,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 (b)	Which is why Clause 27(2) prescribes the suite of options available to the Minister to prescribe, as may be appropriate, for one type of meeting to another.
 
 {:start="21"}
-21.	I should highlight to members that Clause 27, like some other parts of this Bill, applies retrospectively, from 27 March. 
+21.	I should highlight to members that Clause 27, like some other parts of this Bill, applies <u>retrospectively</u>, <u>from 27 March</u>. 
 
 (a)	27 March is the date on the MOH’s Safe-Distancing Regulations.
 
