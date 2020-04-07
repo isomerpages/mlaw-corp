@@ -22,4 +22,5 @@ The Bill applies to specific contracts entered into <u>before</u> 25 March 2020,
 <li>Certain loan facilities granted by a bank or a finance company to SMEs.</li>
 </ol>
  
-For more information about the Bill, please see the [press release](https://www.mlaw.gov.sg). 
+For more information about the Bill, please see the [press release](https://www.mlaw.gov.sg/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation.sg). 
+
