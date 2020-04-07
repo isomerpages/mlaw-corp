@@ -6,7 +6,7 @@ breadcrumb: Frequently Asked Questions
 collection_name: covid19
 ---
 
-Frequently Asked Questions
+### Frequently Asked Questions ###
 **1. What does the Bill seek to do? Who benefits?**
 
 The Bill aims to provide temporary cash-flow relief to businesses and individuals in specific types of contracts who are unable to fulfil their contractual obligations because of COVID-19, by suspending certain actions to enforce those obligations for six months.
