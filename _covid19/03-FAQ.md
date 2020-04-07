@@ -29,3 +29,9 @@ Medium Enterprises (SMEs)
 * Certain hire-purchase agreements (e.g. where the good hired is a commercial vehicle)
 
 
+**3. What about other types of contracts? Can they be covered by the Bill?**
+
+The Bill aims to provide temporary cash-flow relief to businesses and individuals in specific types of contracts. These are contracts where fulfilment of contractual obligations has been significantly impacted by COVID-19.
+
+The list of contracts can be amended by the Minister for Law after the Bill is passed. The Government will continue to monitor the situation, take in feedback and adjust the list where necessary.
+
