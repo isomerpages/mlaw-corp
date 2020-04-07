@@ -50,14 +50,13 @@ When a party to a contract serves a notification for relief on the other party, 
 * If any court proceedings have already started, they will be stayed or suspended.
 
 Additional relief applies for the following contracts:
-* Event- and tourism-related contracts:
- Deposits cannot be automatically forfeited. Instead, an Assessor will determine whether it is just and equitable in the circumstances of the case for the deposit or any part of the deposit to be forfeited.
-o Where applicable, deposits that have already been forfeited will be restored.
-o This does not mean deposits are automatically refunded to the consumer.
-* Construction and supply contracts:
-o Contractors will not be liable for breach of contract or liquidated damages
-o Calling on a performance bond will not be allowed
-
+* <u>Event- and tourism-related contracts:</u>
+	* Deposits cannot be automatically forfeited. Instead, an Assessor will determine whether it is just and equitable in the circumstances of the case for the deposit or any part of the deposit to be forfeited.
+	* Where applicable, deposits that have already been forfeited will be restored.
+	* This does not mean deposits are automatically refunded to the consumer.
+* <u>Construction and supply contracts:</u>
+	* Contractors will not be liable for breach of contract or liquidated damages
+	* Calling on a performance bond will not be allowed
 
 **5. How long will the relief last for?**
 
