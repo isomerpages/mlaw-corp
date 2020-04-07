@@ -47,7 +47,8 @@ When a party to a contract serves a notification for relief on the other party, 
 * Enforcing collateral over commercial or industrial property (e.g. commercial premises)
 * Enforcing collateral over plant or machinery that is used for business (e.g. delivery vehicle)
 * Terminating leases for commercial or industrial property, on the basis of non-payment of rent
-* If any court proceedings have already started, they will be stayed or suspended.
+
+If any court proceedings have already started, they will be stayed or suspended.
 
 Additional relief applies for the following contracts:
 * <u>Event- and tourism-related contracts:</u>
