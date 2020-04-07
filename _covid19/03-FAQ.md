@@ -16,7 +16,7 @@ It does <u>not</u> mean that obligations are postponed or are absolved. Parties 
 
 **2. What types of contracts are covered?**
 
-The Bill covers the following contracts, as long as they were entered into before 25 March 2020.
+The Bill covers the following contracts, as long as they were entered into <u>before</u> 25 March 2020.
 Leases or licences for commercial and industrial property (e.g. lease for factory
 premises)
 * Construction contracts or supply contracts (e.g. contract for supply of materials)
