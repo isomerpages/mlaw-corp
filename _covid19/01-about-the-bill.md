@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: About the bill
+title: About the Bill
 permalink: /covid19-relief/
-breadcrumb: About the bill
+breadcrumb: About the Bill
 collection_name: covid19
 ---
 
