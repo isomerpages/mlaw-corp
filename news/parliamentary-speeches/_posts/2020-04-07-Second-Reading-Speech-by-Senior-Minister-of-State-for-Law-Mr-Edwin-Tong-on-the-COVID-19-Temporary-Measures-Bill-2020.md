@@ -190,7 +190,7 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister
 
 (b)	Second, Clause 28 also contains sunset clauses. These allow the Minister for Law, in consultation with the Chief Justice or the Minister in charge of Muslim Affairs, to declare that Clause 28 will cease to apply to any court proceedings or Syariah Court proceedings, respectively.
 
-**III. <u>CONCLUSION</u>**
+**IV. <u>CONCLUSION</u>**
 
 {:start="36"}
 36.	Sir, to conclude on these two parts of the Bill. Clauses 27 and 28 of the Bill are designed to respond to changes arising from our country’s fight against COVID-19. These provisions will ensure that commerce and the administration of justice do not grind to a complete halt, even as we observe the circuit breaker measures which the Government has implemented.
