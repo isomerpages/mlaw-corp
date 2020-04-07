@@ -36,7 +36,7 @@ The Bill aims to provide temporary cash-flow relief to businesses and individual
 The list of contracts can be amended by the Minister for Law after the Bill is passed. The Government will continue to monitor the situation, take in feedback and adjust the list where necessary.
 
 
-** 4. What relief does the Bill provide?**
+**4. What relief does the Bill provide?**
 
 The Bill aims to provide temporary relief from legal action for up to six months after the Bill commences for those contracts affected by COVID-19. The Bill applies only to those contractual obligations to be performed on or after 1 February 2020 that cannot be fulfilled because of COVID-19.
 
@@ -47,3 +47,27 @@ When a party to a contract serves a notification for relief on the other party, 
 * Terminating leases for commercial or industrial property, on the basis of non-payment of rent
 * If any court proceedings have already started, they will be stayed or suspended.
 
+Additional relief applies for the following contracts:
+* Event- and tourism-related contracts:
+ Deposits cannot be automatically forfeited. Instead, an Assessor will determine whether it is just and equitable in the circumstances of the case for the deposit or any part of the deposit to be forfeited.
+o Where applicable, deposits that have already been forfeited will be restored.
+o This does not mean deposits are automatically refunded to the consumer.
+* Construction and supply contracts:
+o Contractors will not be liable for breach of contract or liquidated damages
+o Calling on a performance bond will not be allowed
+
+
+**5.How long will the relief last for?**
+
+By default, the relief will last for six months after the Bill commences. The Government will continue to monitor the situation, and may adjust this period later on.
+
+**6. What do I have to do to get relief?**
+
+More details will be announced in mid-April 2020.
+
+In summary:
+If you are in a contract covered by the Bill, and are unable to fulfil your contractual obligations because of COVID-19, you can issue a notification for relief to the other party to the contract. More details on the form the notification should take will be announced later.
+
+Upon notification, the relief provided by the Bill will apply. The other party will not be able to take action against you. Any proceedings that have already started must be stayed or suspended.
+
+If the other party disagrees that your non-performance is because of COVID-19, the dispute will be determined by an Assessor.
