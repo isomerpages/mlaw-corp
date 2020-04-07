@@ -10,9 +10,9 @@ About the Bill
 
 On 2 April 2020, the Ministry of Law announced that the COVID-19 (Temporary Measures) Bill (“the Bill”) will be tabled in Parliament on 7 April 2020.
  
-The Bill seeks to offer temporary relief to businesses and individuals who are unable to perform their contractual obligations due 	__on or after__ 1 February 2020 because of COVID-19.
+The Bill seeks to offer temporary relief to businesses and individuals who are unable to perform their contractual obligations due 	<u>on or after</u> 1 February 2020 because of COVID-19.
  
-The Bill applies to specific contracts entered into __before__ 25 March 2020, including:
+The Bill applies to specific contracts entered into <u>before</u> 25 March 2020, including:
 
 Leases or licences for non-residential immovable property (e.g. lease for factory premises);
 Construction contract or supply contract (e.g. contract for the supply of materials);
