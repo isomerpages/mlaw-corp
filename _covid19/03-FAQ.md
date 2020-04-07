@@ -71,3 +71,74 @@ If you are in a contract covered by the Bill, and are unable to fulfil your cont
 Upon notification, the relief provided by the Bill will apply. The other party will not be able to take action against you. Any proceedings that have already started must be stayed or suspended.
 
 If the other party disagrees that your non-performance is because of COVID-19, the dispute will be determined by an Assessor.
+
+
+**7. When will the law come into effect?**
+
+It is expected to come into effect around the middle of April. An announcement will be made in due course. 
+
+**8. Does the relief apply retroactively?**
+
+Yes. The relief applies to contractual obligations to be performed on or after 1 February 2020 affected by COVID-19. The contract must also have been entered into before 25 March 2020.
+
+**9. Why aren’t contracts entered into after 25 March 2020 covered?**
+
+24 March 2020 was when stricter measures to minimise further spread of COVID-19 were introduced by the Multi-Ministry Taskforce. These included limiting size of gatherings and closure of entertainment establishments. 
+
+As such, individuals and businesses who enter into contracts after these measures were announced ought to have been aware of the risks and potential impact of COVID-19 and organised their affairs accordingly.
+
+**10. Why aren’t contractual obligations arising before 1 February 2020 covered?**
+
+1 February 2020 was the approximate date when the impact of COVID-19 started to be significantly felt in Singapore’s economy.
+
+**11. Does the Bill cover contracts with foreign companies or entities?**
+
+Relief under the Bill will only apply to contracts that have been made under Singapore law. These could include contracts with foreign companies or entities.
+
+**12. Will the relief period be extended beyond six months if the situation remains the same or gets worse?**
+
+The Government will monitor the situation and its impact on businesses and individuals, and make a decision later on.
+
+**13. What happens after the six-month period? For example, if I don’t pay rent for six months, do I pay up at the end of it?**
+
+The measures do not absolve or remove contractual obligations. The Bill provides temporary relief by suspending enforcement against those obligations for six months. In this example, rent will continue to accrue for the six months and remain payable after the six-month period is over. However, this means that the tenant does not need to worry about paying rent in the meantime, and can focus on organising his business to tackle the effects of COVID-19. 
+
+**14. What if the other party doesn’t agree to my notification for relief? How will disputes be resolved?**
+
+A panel of Assessors will be appointed to resolve disputes arising from the application of the law. The process will be fast, simple and affordable. More details will be announced in due course.
+
+**15. What will the Assessors do?**
+	
+Assessors will determine whether the claim for relief from non-performance of contractual obligations under the COVID-19 (Temporary Measures) Act is valid.  
+
+These Assessors will determine whether a party’s failure to perform is to a material extent caused by COVID-19, and may decide on an outcome that is just and equitable in the circumstances.
+
+**16. Who are the Assessors?**
+	
+The Assessors are intended to be professionals from the legal, accountancy, financial and other industry sectors.
+
+**17. What is the fee for making an application for determination?**
+
+The intent is for the application to the panel of Assessors to be free of charge. 
+
+**18. Can I be represented by a lawyer?**
+	
+No. Parties will not be allowed to be represented by lawyers. 
+
+**19. Will there be an appeal process after disputes?**
+
+No. Assessors’ decisions will be final and not appealable.
+
+**20. Will there be a penalty for non-compliance?**
+
+It will be an offence to take any prohibited action against a contract party that has issued a notification of relief. More details on the penalties will be announced in due course.
+
+**21. What are the measures relating to bankruptcy and insolvency?**
+
+The Bill will introduce temporary relief for individuals and businesses in financial distress by temporarily:
+
+* For individuals: Increasing the monetary threshold for bankruptcy from $15,000 to $60,000
+* For businesses: Increasing the monetary threshold for insolvency from $10,000 to $100,000
+* Lengthening the statutory period to respond to demands from creditors
+
+
