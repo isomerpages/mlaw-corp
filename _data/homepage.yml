@@ -31,14 +31,18 @@ key-highlights:
     description: Stat Boards and Departments
     url: /about-us/what-we-do
     external: false
+  - title: COVID-19 (Temporary Measures)
+    description: Find out more about the new bill
+    url: /covid19-relief/
+    external: false
   - title: The Singapore Convention
     description: Find Out More
     url: https://www.singaporeconvention.org/
     external: false
-  - title: Contact Us
-    description: 
-    url: /about-us/contact-us/
-    external: false
+#  - title: Contact Us
+#    description: 
+#    url: /about-us/contact-us/
+#    external: false
 
 resources-title: Top Stories
 resources-subtitle: News and Information
