@@ -10,14 +10,16 @@ collection_name: covid19
 **1. What does the Bill seek to do? Who benefits?**
 
 The Bill aims to provide temporary cash-flow relief to businesses and individuals in specific types of contracts who are unable to fulfil their contractual obligations because of COVID-19, by suspending certain actions to enforce those obligations for six months.
+
 This gives these businesses and individuals time to work out a solution with the other party without the threat or uncertainty of litigation or legal proceedings.
+
 It does <u>not</u> mean that obligations are postponed or are absolved. Parties may still be charged interest or penalties if they delay in performance or fail to perform.
 
 
 **2. What types of contracts are covered?**
 
 The Bill covers the following contracts, as long as they were entered into <u>before</u> 25 March 2020.
-Leases or licences for commercial and industrial property (e.g. lease for factory
+* Leases or licences for commercial and industrial property (e.g. lease for factory
 premises)
 * Construction contracts or supply contracts (e.g. contract for supply of materials)
 * Event contracts: Provision of goods and services for events (e.g. venue or catering for
@@ -57,7 +59,7 @@ o Contractors will not be liable for breach of contract or liquidated damages
 o Calling on a performance bond will not be allowed
 
 
-**5.How long will the relief last for?**
+**5. How long will the relief last for?**
 
 By default, the relief will last for six months after the Bill commences. The Government will continue to monitor the situation, and may adjust this period later on.
 
@@ -66,6 +68,7 @@ By default, the relief will last for six months after the Bill commences. The Go
 More details will be announced in mid-April 2020.
 
 In summary:
+
 If you are in a contract covered by the Bill, and are unable to fulfil your contractual obligations because of COVID-19, you can issue a notification for relief to the other party to the contract. More details on the form the notification should take will be announced later.
 
 Upon notification, the relief provided by the Bill will apply. The other party will not be able to take action against you. Any proceedings that have already started must be stayed or suspended.
