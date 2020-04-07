@@ -35,3 +35,15 @@ The Bill aims to provide temporary cash-flow relief to businesses and individual
 
 The list of contracts can be amended by the Minister for Law after the Bill is passed. The Government will continue to monitor the situation, take in feedback and adjust the list where necessary.
 
+
+** 4. What relief does the Bill provide?**
+
+The Bill aims to provide temporary relief from legal action for up to six months after the Bill commences for those contracts affected by COVID-19. The Bill applies only to those contractual obligations to be performed on or after 1 February 2020 that cannot be fulfilled because of COVID-19.
+
+When a party to a contract serves a notification for relief on the other party, the following actions will be prohibited:
+* Starting or continuing court proceedings or insolvency proceedings
+* Enforcing collateral over commercial or industrial property (e.g. commercial premises)
+* Enforcing collateral over plant or machinery that is used for business (e.g. delivery vehicle)
+* Terminating leases for commercial or industrial property, on the basis of non-payment of rent
+* If any court proceedings have already started, they will be stayed or suspended.
+
