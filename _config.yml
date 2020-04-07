@@ -67,6 +67,6 @@ collections:
   events-2:
     output: true
   covid19:
-    output: false
+    output: true
 
 resources_name: news
