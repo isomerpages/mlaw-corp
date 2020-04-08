@@ -26,9 +26,8 @@ The Bill applies to specific contracts entered into <u>before</u> 25 March 2020,
 
 <ol style="list-style-type: decimal">
 <li>Loans by banks and finance companies to Singapore SMEs:</li>
-  a. Secured against commercial or industrial immovable property in Singapore; or
- 
-  b. Secured against plant machinery or fixed asset used for manufacturing production or other business purposes
+<p style="margin-left: 40px">a. Secured against commercial or industrial immovable property in Singapore; or</p>
+<p style="margin-left: 40px">b. Secured against plant machinery or fixed asset used for manufacturing production or other business purposes</p>
 <li>Construction contracts or supply contracts, or any performance bond granted thereto</li>
 <li>Event or tourism-related contacts</li>
 <li>Hire-purchase agreements or conditional sales agreement for goods used for commercial purposes</li>
