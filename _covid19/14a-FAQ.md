@@ -7,3 +7,7 @@ collection_name: covid19
 second_nav_title: FAQ
 ---
 ### 1. Lease or licence of non-residential property ###
+
+#### General FAQs ####
+a. Does the Act cover residential leases and licences?
+* The Act only covers leases and licenses of non-residential
