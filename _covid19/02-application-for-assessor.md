@@ -81,8 +81,17 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor ma
 
 If the party had a good reason for being absent, they may make an application to set aside the dismissal or determination made in their absence. See <b>Form 10</b> Application to Set Aside a Dismissal or Determination.
   
-  
-  
+##### Step 8: Registrar Informs Applicant and Respondent of Assessor’s Determination #####
+After the Assessor has made a determination, the Registrar will inform the Applicant, the Respondent, and all other parties who were served the <b>Application for Assessment</b>.
+
+There is no appeal from an Assessor’s determination and it will be binding on all parties to the Application.
+
+The records of the determination will be kept by the Registrar until 20 October 2022.
+
+The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
+
+
+
 <!-- 
 <table>
   <tr>
