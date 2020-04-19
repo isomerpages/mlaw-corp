@@ -13,4 +13,4 @@ The Act covers relevant contractual obligations that are to be performed <u>on o
  
 <b>“You’re looking at economic devastation. Businesses destroyed, people’s lives ruined, and in such a situation, you don’t talk contract. You talk equity, you talk justice, you talk about what is the right thing to do.” - Minister for Law, Interview with CNBC, 7 April 2020</b>
  
-For more information about the Act, please see [this page](/resources) for the press releases and the Second Reading speech by the Minister for Law, as well as our infographic.
+For more information about the Act, please see [this page](/covid19-relief/resources) for the press releases and the Second Reading speech by the Minister for Law, as well as our infographic.
