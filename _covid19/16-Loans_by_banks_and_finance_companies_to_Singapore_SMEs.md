@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Frequently Asked Questions
+title: Loans by banks and finance companies to Singapore SMEs
 permalink: /covid19-relief/faq/sme-loans
-breadcrumb: Frequently Asked Questions
+breadcrumb: Loans by banks and finance companies to Singapore SMEs
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
