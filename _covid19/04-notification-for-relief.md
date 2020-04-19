@@ -21,7 +21,7 @@ To serve the <b>Notification for Relief</b>:
 * For parties who are <u>individuals</u>, please use this link (SingPass).
 * For parties which are <u>business entities</u>, please use this link (CorpPass).
 
-To register for a SingPass or CorpPass, please visit https://www.singpass.gov.sg or https://www.corppass.gov.sg, respectively. 
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 
 
