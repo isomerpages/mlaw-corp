@@ -25,7 +25,7 @@ second_nav_title: Frequently Asked Questions
 
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at [to insert]. 
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}. 
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (b) will apply.
 
