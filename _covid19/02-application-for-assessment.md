@@ -12,7 +12,7 @@ collection_name: covid19
   .step {font-size: 1rem;}
 </style>
 
-### Application for Assessment ###
+### Application for an Assessor’s Determination ###
 
 You should only make an application for an Assessor’s Determination (“Application”) if you are unable to come to an agreement with the other party or parties to the contract. 
 
