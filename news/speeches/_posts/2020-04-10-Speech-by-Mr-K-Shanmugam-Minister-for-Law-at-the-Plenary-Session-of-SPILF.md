@@ -40,11 +40,9 @@ Excellencies,
 <li>Likewise, in many other parts of the world, many countries are facing similar issues.</li>
 
 <ol type="a">
-  <ol start="a">
-    <li>Business models have changed a lot – more people are working from home.</li></ol>
+  <li>Business models have changed a lot – more people are working from home.</li>
 
-  <ol start="b">
-  <li>Schools – the way schools deliver education – a lot of home based learning.</li></ol>
+  <li>Schools – the way schools deliver education – a lot of home based learning.</li>
 </ol>
 
 <li>In terms of courts, we have just put through a law in Parliament, where courts are allowed to hear cases, including criminal cases, through remote hearings. Of course, there will be cases where you need to see the person to make an assessment of them – those cases will have to be heard, when it is possible to have a physical hearing. But, other than that, for quite a lot of hearings, we have changed the law to allow virtual hearings.</li>
