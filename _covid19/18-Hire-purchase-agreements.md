@@ -38,16 +38,16 @@ second_nav_title: Frequently Asked Questions
 
 **d. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
-* If you are unable to pay instalments on the hire-purchase agreement due to COVID-19, the finance/leasing company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
+* If you are **unable to pay** instalments on the hire-purchase agreement **due to COVID-19**, the finance/leasing company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
 
   * Repossess the plant, machinery or fixed asset that is used for business, or repossess your commercial vehicle
   * Start or continue court proceedings or insolvency proceedings
 
 **e. What must I do to enjoy the reliefs?** 
 
-* The reliefs under the Act do not take effect automatically. 
+* The reliefs under the Act **do not take effect automatically.**
 
-*  If you qualify for the relief, you need to first serve a Notification for Relief on the other party to the agreement, and your guarantor/surety (where applicable), using the form at [to insert]. 
+*  If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the agreement, and your guarantor/surety (where applicable), using the form at [to insert]. 
 
 * Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (d).
 
