@@ -38,6 +38,16 @@ If the Registrar is satisfied that the Application is in order, the Registrar wi
 * An acknowledgment of receipt of the Application; and
 * A Response or link to the Response form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
+##### Step 3: Applicant Serves Documents on Respondent #####
+Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for Assessment</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following parties where applicable:
+* The party to the contract who had served the <b>Notification for Relief</b> or the party to the contract who was served the Notification for Relief (“<b>the Respondent</b>”);
+* Every other party to the contract; 
+* Any guarantor or surety for the obligation in the contract; and
+* The Issuer of Related Performance Bond.
+
+The documents can be served on the Respondent by:
+* Email; or
+* Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/act/covid19tma2020#P12-){:target="_blank"}.
 
 
 
@@ -63,24 +73,4 @@ If the Registrar is satisfied that the Application is in order, the Registrar wi
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <th>
-      <p style="text-align: justify">Types of License or Registration</p>
-    </th>
-    <th>
-      <p style="text-align: justify">Description</p>
-    </th>
-  </tr>
-  <tr>
-    <td><p style="text-align: justify"><b>Singapore Law Practice – Law Firm, Limited Liability Law Partnership or Law Corporation</b><br>Sections 131, 138 and 153 of the Legal Profession Act (Cap. 161)</p></td>
-    <td>A Singapore Law Practice (“SLP”) is allowed to provide in or from Singapore:
-      <ul>
-        <li style="text-align: justify">Singapore law-related legal services in all areas of legal practice; and</li>
-        <li style="text-align: justify">Foreign law-related legal services in all areas of legal practice that the SLP is competent to offer.</li>
-      </ul>
-        <p style="text-align: justify">An SLP can be structured as a sole proprietorship, partnership, limited liability partnership or company, and is required to apply for a law firm licence, limited liability law partnership licence or law corporation licence as applicable</p>
-      <p style="text-align: justify">An SLP must satisfy the threshold requirements set out in rule 3 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a> for so long as its licence remains in force.  The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.</p>
-    </td>
-  </tr>
-</table> -->
+ -->
