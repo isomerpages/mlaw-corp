@@ -39,7 +39,7 @@ Excellencies,
 
 <li>Likewise, in many other parts of the world, many countries are facing similar issues.</li>
 
-<ol type="a">
+<ol type="i">
   <li>Business models have changed a lot – more people are working from home.</li>
 
   <li>Schools – the way schools deliver education – a lot of home based learning.</li>
