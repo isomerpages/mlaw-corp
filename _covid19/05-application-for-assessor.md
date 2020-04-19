@@ -44,8 +44,9 @@ The documents can be served on the Respondent by:
 
 ##### Step 4: Applicant Submits Declaration of Service #####
 The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the relevant parties, within <b>1 working day</b> of completing Step 3:
-* For Applicants who are individuals, please use this link (SingPass).
-* For Applicants which are business entities, please use this link (CorpPass).
+* For Applicants who are individuals, please use this 
+[link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
+* For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}. 
 
 ##### Step 5: Respondent Submits Response #####
 The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>Response</b> on the following parties where applicable within <b>5 working days</b> after being served the documents in Step 3:
@@ -54,8 +55,8 @@ The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>R
 * The Issuer of a Related Performance Bond.
 
 To submit and serve the <b>Response</b>:
-* For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
-* For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
+* For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
+* For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Assessor may proceed to make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
