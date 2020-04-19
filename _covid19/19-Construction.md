@@ -15,7 +15,7 @@ second_nav_title: Frequently Asked Questions
 
 **b. What reliefs under the Act are applicable to me, the contractor or supplier?**
 
-* If you are unable to perform your obligations due to COVID-19, the other party to the contract cannot commence or continue court proceedings or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020). 
+* If you are **unable to perform your obligations due to COVID-19**, the other party to the contract cannot commence or continue court proceedings or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020). 
 
 * In addition, you will not be liable for breach of contract or damages for the inability to perform the obligation until the expiry of the prescribed period, if the inability was materially caused by COVID-19. 
 
@@ -23,9 +23,9 @@ second_nav_title: Frequently Asked Questions
 
 **c. What must I do to enjoy the reliefs?**
 
-* The reliefs under the Act do not take effect automatically. 
+* The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first serve a Notification for Relief on the other party to the contract, using the form at [to insert]. 
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at [to insert]. 
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (b) will apply.
 
