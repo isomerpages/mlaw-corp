@@ -23,18 +23,18 @@ second_nav_title: Frequently Asked Questions
 
 * A commercial vehicle is
 
-  * A goods vehicle (e.g. a truck used to transport goods);
+  * A goods vehicle (e.g a truck used to transport goods);
   * An excursion bus, private bus, private-hire bus, omnibus or school bus;
   * A private hire car;
   * A taxi; or
-  * An engineering plant (e.g. a tractor, road roller, excavator, forklift)
+  * An engineering plant (e.g a tractor, road roller, excavator, forklift).
 
 **c. What is a hire-purchase agreement? What is a conditional sales agreement?**
 
 * Both hire-purchase agreements and conditional sales agreements generally include terms under which: 
 
-  * A (the hirer) enjoys the use of goods (e.g., a commercial vehicle) owned by B (the owner), in return for A’s payment of instalments to B
-  * If A complies with the terms of the agreement, A will be able to own the goods (e.g., A finishes paying all the instalment sums under the agreement, A exercises an option to purchase)
+  * A (the hirer) enjoys the use of goods (e.g, a commercial vehicle) owned by B (the owner), in return for A’s payment of instalments to B
+  * If A complies with the terms of the agreement, A will be able to own the goods (e.g, A finishes paying all the instalment sums under the agreement, A exercises an option to purchase)
 
 **d. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
@@ -47,7 +47,7 @@ second_nav_title: Frequently Asked Questions
 
 * The reliefs under the Act **do not take effect automatically.**
 
-*  If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the agreement, and your guarantor/surety (where applicable), using the form at [to insert]. 
+*  If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the agreement, and your guarantor/surety (where applicable), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
 * Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (d).
 
@@ -60,7 +60,7 @@ second_nav_title: Frequently Asked Questions
 
 * No, the Act does not apply to vehicle rental agreements. 
 
-* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to <insert website> for details.
+* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to [here]{https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/LTA's%20Measures%20for%20COVID-19/point_to_point_support_package.html}{:target="_blank"} for details.
 
 **h. Does the Act apply to me if I use my vehicle partly for commercial purposes and partly for personal use?**
 
@@ -70,7 +70,7 @@ second_nav_title: Frequently Asked Questions
 
 **i. My finance company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
 
-* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to repossessions that occurred before that date. 
+* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to repossessions that occurred before that date. 
 
 * If you believe that the finance company breached the terms of your hire-purchase agreement, please seek legal advice.  
 
