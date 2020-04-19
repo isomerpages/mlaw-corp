@@ -15,6 +15,9 @@ If a party to an Application is absent from the hearing, the Assessor may either
 If the party had a good reason for being absent, they may submit an Application to Set Aside the Dismissal or Determination that was made in their absence.
 
 ##### Step 1 #####
-<div class="step">
-If the party who was absent from the hearing had a good reason for being absent and wishes to set aside the dismissal or determination, they must submit an Application to Set Aside the Dismissal or Determination to the Registrar and, at the same time, serve the Application to Set Aside the Dismissal or Determination on the other party to the determination, via this link.
-</div>
+If the party who was absent from the hearing had a good reason for being absent and wishes to set aside the dismissal or determination, they must submit an <b>Application to Set Aside the Dismissal or Determination</b> to the Registrar and, at the same time, serve the <b>Application to Set Aside the Dismissal or Determination</b> on the other party to the determination, via this link.
+
+##### Step 2 #####
+If the other party wishes to oppose the <b>Application to Set Aside the Dismissal or Determination</b>, they must, within the time period directed by the Registrar, submit a Reply to the Registrar and, at the same time, serve the <b>Reply</b> on the party who made the <b>Application to Set Aside the Dismissal or Determination</b>, via this link.
+
+
