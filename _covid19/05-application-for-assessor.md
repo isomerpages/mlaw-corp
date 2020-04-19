@@ -24,7 +24,7 @@ The <b>Application</b> must be accompanied by:
 Currently, an <b>Application for an Assessor's Determination</b> can be submitted at no cost.
 
 
-##### Step 2: Registrar Reviews Application for Assessment #####
+##### Step 2: Registrar Reviews Application for an Assessor's Determination #####
 The Registrar will review the <b>Application</b>.
 
 If the Registrar is satisfied that the <b>Application</b> is in order, the Registrar will send the Applicant:
@@ -32,7 +32,7 @@ If the Registrar is satisfied that the <b>Application</b> is in order, the Regis
 * A <b>Response</b> or link to the <b>Response</b> form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
 ##### Step 3: Applicant Serves Documents on Respondent #####
-Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for Assessment</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following parties where applicable:
+Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following parties where applicable:
 * The party to the contract who had served the <b>Notification for Relief</b> or the party to the contract who was served the Notification for Relief (“<b>the Respondent</b>”);
 * Every other party to the contract; 
 * Any guarantor or surety for the obligation in the contract; and
@@ -68,7 +68,7 @@ If the Registrar is satisfied that Steps 3, 4 and 5 have been duly completed, th
 Please note that the Registrar may proceed to appoint an Assessor and to fix a hearing where the Respondent fails to file a <b>Response</b> within the relevant period in Step 5. 
 
 ##### Step 7: Assessor Conducts Hearing and Makes Determination #####
-The hearing will generally be conducted by way of <u>exchange of emails</u> if the Assessor is of the opinion that the forms and documents are sufficient for the Assessor to make their determination. The Assessor may request for clarifications or further documents by email.
+The hearing will generally be conducted by way of <u>exchange of emails</u> if the Assessor is of the opinion that the forms and documents are sufficient for the him/her to make his/her determination. The Assessor may request for clarifications or further documents by email.
 
 If the Assessor is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
 * Online hearings will be conducted via Webex.
@@ -83,9 +83,9 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor ma
 If the party had a good reason for being absent, they may make an application to set aside the dismissal or determination made in their absence. See [Application to Set Aside a Dismissal or Determination](/covid19-relief/set-aside-dismissal-or-determination).
   
 ##### Step 8: Registrar Informs Applicant and Respondent of Assessor’s Determination #####
-After the Assessor has made a determination, the Registrar will inform the Applicant, the Respondent, and all other parties who were served the <b>Application for Assessment</b>.
+After the Assessor has made a determination, the Registrar will inform the Applicant, the Respondent, and all other parties who were served the <b>Application for an Assessor's Determination</b>.
 
-There is no appeal from an Assessor’s determination and it will be binding on all parties to the Application.
+There is no appeal against an Assessor’s determination and it will be binding on all parties to the Application.
 
 The records of the determination will be kept by the Registrar until 20 October 2022.
 
