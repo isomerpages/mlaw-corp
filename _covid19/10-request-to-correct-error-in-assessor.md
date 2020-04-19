@@ -7,3 +7,5 @@ collection_name: covid19
 ---
 
 ### Request to Correct Error in Assessor's Determination ###
+
+If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, the Applicant or Respondent may submit an Application to Correct Error in Determination via this link.
