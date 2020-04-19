@@ -39,13 +39,13 @@ second_nav_title: Frequently Asked Questions
   * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020) 
   * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures)
 
-* You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act.
+* **You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act.**
 
 **d. What reliefs under the Act are applicable to me?**
 
-* If you are unable to carry out your contractual obligation due to COVID-19, the other party to the contract cannot take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
+* If you are **unable to carry out your contractual obligation due to COVID-19**, the other party to the contract cannot take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
 
-* Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract cannot be automatically forfeited. If a deposit has purportedly been forfeited, it must be restored. 
+* Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract **cannot be automatically forfeited**. If a deposit has purportedly been forfeited, it must be restored. 
 
   * This does not mean that you are automatically entitled to cancel the contract, nor does it mean that deposits are automatically refunded to you. 
 
@@ -57,9 +57,9 @@ second_nav_title: Frequently Asked Questions
 
 **e. What must I do to enjoy the reliefs?**
 
-* The reliefs under the Act do not take effect automatically. 
+* The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first serve a Notification for Relief on the other party to the contract, using the form at [insert link].
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at [insert link].
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (d) above will apply.
 
@@ -72,7 +72,7 @@ I am a consumer in an event/tourism-related contract…
 
 * This applies to contracts entered into before 25 March 2020, for obligationson or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
 
-* A restoration of deposit does not mean that you are entitled to cancel the contract, and/or that the vendor/tour agency must provide you with a refund automatically. 
+* A restoration of deposit **does not mean** that you are entitled to cancel the contract, and/or that the vendor/tour agency must provide you with a refund automatically. 
 
 **g. My deposit was forfeited before the Act came into force on [20 April 2020]. Do I have any recourse under the Act?**
 
@@ -82,7 +82,7 @@ I am a consumer in an event/tourism-related contract…
 
 * Restoration does not mean that the deposit is paid back to you.  It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or if an agreement is not possible, a determination by an Assessor.
 
-* This is unless you had already cancelled the event, and agreed with the vendor that the deposit (or a part of it) is to be forfeited. 
+* This is unless you had already cancelled the event, and **agreed** with the vendor that the deposit (or a part of it) is to be forfeited. 
 
 **h. I do not wish to postpone my event or tour, but wish to cancel it. Can I recover my deposit? Is the vendor entitled to charge the cancellation fees as provided under the contract?**
 
@@ -98,7 +98,7 @@ I am a consumer in an event/tourism-related contract…
 
 **j. My event or tour is to occur after [19 October 2020] (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
 
-* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out because of COVID-19. In this case, your vendor cannot forfeit your deposit, even if your event or tour is scheduled after [19 October 2020]. 
+* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19**. In this case, your vendor cannot forfeit your deposit, even if your event or tour is scheduled after [19 October 2020]. 
 
 * However, if you wish to cancel your booking, your vendor can charge you the cancellation fees as provided for in the contract. Your deposit cannot be automatically forfeited, although this does not mean it will be automatically refunded to you. 
 
