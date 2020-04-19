@@ -54,8 +54,8 @@ The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>R
 * The Issuer of a Related Performance Bond.
 
 To submit and serve the <b>Response</b>:
-* For Respondents who are individuals, please use this link (SingPass).
-* For Respondents which are business entities, please use this link (CorpPass).
+* For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
+* For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Assessor may proceed to make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
