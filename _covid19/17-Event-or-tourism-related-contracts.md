@@ -41,3 +41,18 @@ c. Does the Act apply to my event or tourism-related contract?
 
 * You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act.
 
+d. What reliefs under the Act are applicable to me? 
+
+* If you are unable to carry out your contractual obligation due to COVID-19, the other party to the contract cannot take take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
+
+* Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract cannot be automatically forfeited. If a deposit has purportedly been been forfeited, it must be restored. 
+
+  * This does not mean that you are automatically entitled to cancel the contract, nor does it mean that deposits are automatically refunded to you. 
+
+  * Instead, we encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. For example, you may agree to hold your event after the COVID-19 pandemic, in which case the vendor has no reason to forfeit the deposit. In this case, the deposit will remain with the vendor.
+
+  * If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process at [insert link to FAQs on Assessors].
+
+* In addition, the other party to the contract cannot start or continue court proceedings or insolvency proceedings against you for 6 months (i.e. up to 19 October 2020) if you are unable to perform your obligations due to COVID-19. 
+
+
