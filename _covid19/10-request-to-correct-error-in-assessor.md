@@ -8,7 +8,7 @@ collection_name: covid19
 
 ### Request to Correct Error in Assessor's Determination ###
 
-If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, the Applicant or Respondent may submit an <b>Application to Correct Error in Determination</b>:.
+If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, the Applicant or Respondent may submit an <b>Application to Correct Error in Determination</b>:
 
 * For Applicants or Respondent who are individuals, please use this [link (Singpass)](https://go.gov.sg/correct-error-in-determination-singpass){:target="_blank"}.
 * For Applicants or Respondent which are business entities, please use this [link(Corppass)](https://go.gov.sg/correct-error-in-determination-corppass){:target="_blank"}.
