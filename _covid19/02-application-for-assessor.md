@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Application for Assessment
-permalink: /covid19-relief/application-for-assessment
-breadcrumb: Application for Assessment
+title: Application for an Assessor’s Determination
+permalink: /covid19-relief/application-for-assessor
+breadcrumb: Application for an Assessor’s Determination
 collection_name: covid19
 ---
 ### Application for an Assessor’s Determination ###
