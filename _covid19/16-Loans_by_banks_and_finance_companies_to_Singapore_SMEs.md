@@ -65,14 +65,14 @@ second_nav_title: Frequently Asked Questions
 
 * If your business requires financial assistance, you may wish to consider the relief measures introduced by MAS and the financial industry to help individuals and SMEs affected by the COVID-19 pandemic. Amongst other things, SMEs can apply to their lenders to defer principal repayment on certain secured SME loans up to 31 December 2020, and can apply to their insurer to pay instalments for the company’s general insurance premiums.  SMEs can also apply for loan schemes supported by Enterprise Singapore. This includes the Enterprise Financing Scheme SME Working Capital Loan Scheme (EFS-WCL) and the Temporary Bridging Loan Programme. These financial schemes serve to help eligible enterprises bridge working capital gaps and alleviate cashflow needs. For more information, please refer to MAS’ website https://www.mas.gov.sg/regulation/covid-19.
 
-**i. My bank or finance company had already repossessed my commercial or industrial property / plant, machinery or fixed asset before the Act commenced. Does the Act apply to me? **
+**i. My bank or finance company had already repossessed my commercial or industrial property / plant, machinery or fixed asset before the Act commenced. Does the Act apply to me?**
 
 * Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to enforcement of security that occurred before that date. 
 
 
 * If you believe that the bank or finance company breached the terms of your loan agreement, please seek legal advice.  
 
-**j. Does the Act cover residential or commercial property loans entered into by individuals? **
+**j. Does the Act cover residential or commercial property loans entered into by individuals?**
 
 * The Act does not cover any loan entered into by individuals. 
 
