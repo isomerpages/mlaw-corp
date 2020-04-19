@@ -11,7 +11,7 @@ If you qualify for relief and have served a Notification of Relief, the other pa
 
 Where:
 <p style="margin-left: 40px"> (a) there are any pending court or arbitral proceedings in relation to the subject inability at the time when you served the Notification for Relief; or</p>
-<p style="margin-left: 40px"> such proceedings are commenced after you served the Notification for Relief,
+<p style="margin-left: 40px"> (b) such proceedings are commenced after you served the Notification for Relief,
 you may submit a Memorandum of Notification for Relief (link) to the court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.</p>
  
 To submit a <b>Memorandum of Notification for Relief</b> to the Court, you have to file the document via eLitigation under "Other Supporting Document". If you are represented by a lawyer, you may ask your lawyer to do the filing. If you are unrepresented, you may file the document at the LawNet Service Bureau located at Chinatown Point or the Supreme Court.
