@@ -9,7 +9,7 @@ collection_name: covid19
 
 The COVID-19 (Temporary Measures) Act 2020 (“the Act”) seeks to offer temporary relief to businesses and individuals who are unable to perform their contractual obligations due <u>on or after</u> 1 February 2020 because of COVID-19.
  
-The Act covers relevant contractual obligations that are to be performed on or after 1 February 2020, for contracts that were entered into before 25 March 2020.
+The Act covers relevant contractual obligations that are to be performed <u>on or after</u> 1 February 2020, for contracts that were entered into <u>before</u> 25 March 2020.
  
 <b>“You’re looking at economic devastation. Businesses destroyed, people’s lives ruined, and in such a situation, you don’t talk contract. You talk equity, you talk justice, you talk about what is the right thing to do.” - Minister for Law, Interview with CNBC, 7 April 2020</b>
  
