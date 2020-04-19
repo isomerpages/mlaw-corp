@@ -10,7 +10,11 @@ collection_name: covid19
 Please note that if a party to an Application is absent from the hearing, the Assessor may nevertheless proceed to make a determination, or the Assessor may dismiss the application for a determination. If the party had a good reason for being absent, and wishes to set aside the Assessor’s decision, they may submit an <b>Application to Set Aside the Dismissal or Determination</b>.
 
 ##### Step 1 #####
-The party who wishes to set aside the Assessor’s decision must submit to the Registrar an <b>Application to Set Aside the Dismissal or Determination</b> and serve the application on the other party or parties, via this [link(Singpass)](https://go.gov.sg/set-aside-determination-singpass){:target="_blank"} or [link(Corppass)](https://go.gov.sg/set-aside-determination-corppass){:target="_blank"}.
+The party who wishes to set aside the Assessor’s determination must submit to the Registrar an <b>Application to Set Aside the Dismissal or Determination</b> and serve the application on the other party or parties:
+
+* For party who are individuals, please use this [link(Singpass)](https://go.gov.sg/set-aside-determination-singpass){:target="_blank"}.
+* For party which are business entities, please use this [link(Corppass)](https://go.gov.sg/set-aside-determination-corppass){:target="_blank"}.
+
 
 ##### Step 2 #####
 If the other party wishes to oppose the <b>Application to Set Aside the Dismissal or Determination</b>, they must, within the time period directed by the Registrar, submit a Reply to the Registrar and serve the <b>Reply</b> on the party who made the application, via this [link(Singpass)](https://go.gov.sg/reply-to-set-aside-determination-singpass){:target="_blank"} or [link(Corppass)](https://go.gov.sg/reply-to-set-aside-determination-corppass){:target="_blank"}.
