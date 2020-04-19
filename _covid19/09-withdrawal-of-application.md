@@ -7,4 +7,4 @@ collection_name: covid19
 ---
 ### Withdrawal of the Application ###
 
-If the Applicant wishes to withdraw the application before the Assessor’s determination is made, they may submit a request to the Registrar by way of email. 
+If the Applicant wishes to withdraw the application before the Assessor’s determination is made, they may submit a request to the Registrar by way of email as provided in the acknowledgement of receipt of the Application. 
