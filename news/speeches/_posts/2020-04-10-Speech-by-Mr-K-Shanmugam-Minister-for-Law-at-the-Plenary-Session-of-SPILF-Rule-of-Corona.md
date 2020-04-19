@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Speech by Mr K Shanmugam, Minister for Law, at the Plenary Session of the St. Petersburg International Legal Forum: Rule of Corona
+title: Speech by Mr K Shanmugam, Minister for Law, at the Plenary Session of the St. Petersburg International Legal Forum
 date:  2020-04-10
-permalink: /news/speeches/2020-04-10-Speech-by-Mr-K-Shanmugam-Minister-for-Law-at-the-Plenary-Session-of-SPILF-Rule-of-Corona
+permalink: /news/speeches/2020-04-10-Speech-by-Mr-K-Shanmugam-Minister-for-Law-at-the-Plenary-Session-of-SPILF
 ---
 
 10 Apr 2020 Posted in [[Speeches](/news/speeches)]
