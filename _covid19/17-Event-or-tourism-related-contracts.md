@@ -43,9 +43,9 @@ c. Does the Act apply to my event or tourism-related contract?
 
 d. What reliefs under the Act are applicable to me? 
 
-* If you are unable to carry out your contractual obligation due to COVID-19, the other party to the contract cannot take take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
+* If you are unable to carry out your contractual obligation due to COVID-19, the other party to the contract cannot take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
 
-* Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract cannot be automatically forfeited. If a deposit has purportedly been been forfeited, it must be restored. 
+* Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract cannot be automatically forfeited. If a deposit has purportedly been forfeited, it must be restored. 
 
   * This does not mean that you are automatically entitled to cancel the contract, nor does it mean that deposits are automatically refunded to you. 
 
@@ -70,7 +70,7 @@ f. What happens if my vendor/tour agency has already forfeited my deposit before
 
 * Once a Notification for Relief has been served, the vendor/tour agency has to restore your deposit, even if it has been previously forfeited.
 
-* This applies to contracts entered into before 25 March 2020, for obligationson or after 1 February 2020.  For example, the Act would apply to contracts which you entered into in June 2019 to booked a wedding banquet to be held on 20 February 2020. 
+* This applies to contracts entered into before 25 March 2020, for obligationson or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
 
 * A restoration of deposit does not mean that you are entitled to cancel the contract, and/or that the vendor/tour agency must provide you with a refund automatically. 
 
@@ -80,7 +80,7 @@ g. My deposit was forfeited before the Act came into force on [20 April 2020]. D
 
 * You must first serve a Notification for Relief on the vendor. Upon the receipt of the Notification for Relief, the vendor must restore the forfeited deposit as soon as practicable. 
 
-* Restoration does not mean the that the deposit is paid back to you.  It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or if an agreement is not possible, a determination by an Assessor.
+* Restoration does not mean that the deposit is paid back to you.  It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or if an agreement is not possible, a determination by an Assessor.
 
 * This is unless you had already cancelled the event, and agreed with the vendor that the deposit (or a part of it) is to be forfeited. 
 
