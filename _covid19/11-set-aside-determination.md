@@ -17,7 +17,10 @@ The party who wishes to set aside the Assessor’s determination must submit to 
 
 
 ##### Step 2 #####
-If the other party wishes to oppose the <b>Application to Set Aside the Dismissal or Determination</b>, they must, within the time period directed by the Registrar, submit a Reply to the Registrar and serve the <b>Reply</b> on the party who made the application, via this [link(Singpass)](https://go.gov.sg/reply-to-set-aside-determination-singpass){:target="_blank"} or [link(Corppass)](https://go.gov.sg/reply-to-set-aside-determination-corppass){:target="_blank"}.
+If the other party wishes to oppose the <b>Application to Set Aside the Dismissal or Determination</b>, they must, within the time period directed by the Registrar, submit a Reply to the Registrar and serve the <b>Reply</b> on the party who made the application:
+
+* For party who are individuals, please use this [link(Singpass)](https://go.gov.sg/reply-to-set-aside-determination-singpass){:target="_blank"}.
+* For party which are business entities, please use this [link(Corppass)](https://go.gov.sg/reply-to-set-aside-determination-corppass){:target="_blank"}.
 
 ##### Step 3 #####
 If the Assessor decides to set aside the dismissal or determination, they may do so on such terms as they consider just and may proceed to hear the case and make a fresh determination on the case.
