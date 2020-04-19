@@ -19,3 +19,16 @@ b. What reliefs under the Act are applicable to me, the tenant?
   * Re-enter the premises 
   * Start or continue court proceedings or insolvency proceedings
 
+c. What must I do to enjoy the reliefs?
+* The reliefs under the Act do not take effect automatically.
+
+* If you qualify for the relief, you need to first serve a Notification for Relief on your landlord, using the form at <insert link>.
+
+* Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in (b).
+
+#### Specific FAQs ####
+
+d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?
+* ⦁	Rent continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing legal action during the prescribed period (i.e. up to 19 October 2020).  This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
+
+
