@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Frequently Asked Questions
+title: Lease or licence of non-residential property
 permalink: /covid19-relief/faq/lease-licence
-breadcrumb: Frequently Asked Questions
+breadcrumb: Lease or licence of non-residential property
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
