@@ -88,7 +88,7 @@ I am a consumer in an event/tourism-related contract…
 
 * With respect to the deposit, we encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. This may include a partial recovery of the deposit. If you and your vendor are unable to agree, either of you may apply to an Assessor, who will make a determination which is just and equitable.
 
-* With respect to the cancellation fees, under the Act, you do not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on [20 April 2020], or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees.
+* With respect to the cancellation fees, under the Act, you do not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on 20 April 2020, or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees.
 
 **i. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
 
