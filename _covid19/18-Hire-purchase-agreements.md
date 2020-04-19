@@ -60,7 +60,7 @@ second_nav_title: Frequently Asked Questions
 
 * No, the Act does not apply to vehicle rental agreements. 
 
-* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to [here]{https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/LTA's%20Measures%20for%20COVID-19/point_to_point_support_package.html}{:target="_blank"} for details.
+* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to [here](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/LTA's%20Measures%20for%20COVID-19/point_to_point_support_package.html){:target="_blank"} for details.
 
 **h. Does the Act apply to me if I use my vehicle partly for commercial purposes and partly for personal use?**
 
