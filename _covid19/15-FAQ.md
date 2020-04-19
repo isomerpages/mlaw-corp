@@ -9,17 +9,17 @@ second_nav_title: Frequently Asked Questions
 ### 1. Lease or licence of non-residential property ###
 
 #### General FAQs ####
-a. Does the Act cover residential leases and licences?
+**a. Does the Act cover residential leases and licences?**
 * The Act only covers leases and licences of non-residential (e.g. commercial or industrial) property. It does not cover leases and licences of residential property, even if these are partially or occasionally used for business purposes (e.g. a home office).
 
-b. What reliefs under the Act are applicable to me, the tenant?
+**b. What reliefs under the Act are applicable to me, the tenant?**
 * If you are unable to pay your rent due to COVID-19, your landlord cannot take the following actions against you for 6 months (i.e. up to 19 October 2020):
 
   * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent 
   * Re-enter the premises 
   * Start or continue court proceedings or insolvency proceedings
 
-c. What must I do to enjoy the reliefs?
+**c. What must I do to enjoy the reliefs?**
 * The reliefs under the Act do not take effect automatically.
 
 * If you qualify for the relief, you need to first serve a Notification for Relief on your landlord, using the form at <insert link>.
@@ -28,15 +28,15 @@ c. What must I do to enjoy the reliefs?
 
 #### Specific FAQs ####
 
-d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?
+**d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?**
 * Rent continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing legal action during the prescribed period (i.e. up to 19 October 2020).  This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to tenants who can demonstrate that they are unable to pay rent due to COVID-19. It does not allow tenants who are able to pay to avoid paying rent. Tenants who have the ability to pay (even if they suffered a drop in revenue) must continue to pay their rent.
 
-e. I was unable to pay rent that was due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?
+**e. I was unable to pay rent that was due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?**
 * No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 onwards. Your landlord is entitled to enforce any contractual rights they have for your unpaid rent before 1 February 2020. 
 
-f. I was unable to pay rent due to COVID-19. Should I issue a Notification for Relief or apply for an Assessor's determination under the Act?
+**f. I was unable to pay rent due to COVID-19. Should I issue a Notification for Relief or apply for an Assessor's determination under the Act?**
 * If you have been affected by COVID-19, and are unable to perform your contractual obligations, we would encourage you to work together with your landlord to reach a mutually acceptable resolution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. Such mutually acceptable solutions can include temporary rent reduction, partial payments, or setting off arrears against the security deposit.
 
 * For both parties, a settlement is preferable to being mired in costly and lengthy legal proceedings.
@@ -47,7 +47,7 @@ f. I was unable to pay rent due to COVID-19. Should I issue a Notification for R
 
 * In the event of a dispute over the Notification for Relief, either party may make an application to the panel of Assessors for a determination on the case. Please click on this [link] for further information on the application process and relevant forms.
 
-g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?
+**g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
 
 * The Act does not remove or absolve parties’ contractual obligations, but merely seeks to suspend the landlord’s right to enforce the contract during the relief period. This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. 
 
@@ -55,19 +55,19 @@ g. Do I have to pay the accrued unpaid rent (and other charges if any) after the
 
 * However, parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties.
 
-h. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief? 
+**h. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief?**
 
 * If a Notification for Relief has been served, it will be an offence under the Act for the landlord to evict you from the premises, terminate your lease or start court or insolvency proceedings against you. 
 
 * You can also make an application to the panel of Assessors for a determination on the case. Please click on this [link] for further information on the application process and relevant forms. 
 
-i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me? 
+**i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
 * Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to terminations or evictions that occurred before that date. 
 
 * If you believe that your landlord has breached the terms of the tenancy agreement, please seek legal advice.  
 
-j. I wish to terminate my lease or licence early, without having to forfeit my security deposit or without being liable for the remaining term of the lease or licence. Does the Act assist me?  
+**j. I wish to terminate my lease or licence early, without having to forfeit my security deposit or without being liable for the remaining term of the lease or licence. Does the Act assist me?** 
 
 * The Act does not change the terms of your contract with your landlord. If the contract provides for charges or other fees for early termination, you will still be liable to pay these charges and fees to your landlord as provided under the contract, unless you and your landlord agree otherwise.
 
