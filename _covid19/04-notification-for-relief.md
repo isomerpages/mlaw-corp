@@ -19,7 +19,7 @@ The party seeking relief must serve a <b>Notification for Relief</b> on the foll
 
 To serve the <b>Notification for Relief</b>:
 * For parties who are <u>individuals</u>, please use this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"}.
-* For parties which are <u>business entities</u>, please use this [link (CorpPass](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
+* For parties which are <u>business entities</u>, please use this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
