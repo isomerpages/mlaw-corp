@@ -59,7 +59,7 @@ second_nav_title: Frequently Asked Questions
 
 * If a Notification for Relief has been served, it will be an offence under the Act for the landlord to evict you from the premises, terminate your lease or start court or insolvency proceedings against you. 
 
-* You can also make an application to the panel of Assessors for a determination on the case. Please click on this [link] for further information on the application process and relevant forms. 
+* You can also make an application to the panel of Assessors for a determination on the case. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
 
 **i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
@@ -73,7 +73,7 @@ second_nav_title: Frequently Asked Questions
 
 * Your landlord may also be entitled to forfeit the security deposit if you breached your tenancy agreement. 
 
-* If you have been unable to pay any rent that falls due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your landlord, your landlord cannot enforce the contract against this rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. 
+* If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract against this rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. 
 
 
 
