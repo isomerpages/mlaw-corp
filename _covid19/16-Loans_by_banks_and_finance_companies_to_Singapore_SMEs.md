@@ -29,7 +29,7 @@ second_nav_title: Frequently Asked Questions
 
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on the bank or finance company, as well as your guarantor/surety for the loan (if any), , using the form at <insert link>.
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the bank or finance company, as well as your guarantor/surety for the loan (if any), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
 * Once the Notification for Relief has been served on the bank or finance company, the bank or finance company cannot take the above actions in (b).  
 
