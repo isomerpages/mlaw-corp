@@ -66,7 +66,7 @@ h. Does the Act apply to me if I use my vehicle partly for commercial purposes a
 
 * It depends on whether your vehicle is a commercial vehicle. Please refer to paragraph (b).
 * A personal vehicle registered to provide private hire car services is considered a commercial vehicle for the purposes of the Act.
-* A personal vehicle use for travel to and from a place of work will not be considered a commercial vehicle for the purposes of the Act.
+* A personal vehicle used for travel to and from a place of work will not be considered a commercial vehicle for the purposes of the Act.
 
 i. My finance company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me? 
 
