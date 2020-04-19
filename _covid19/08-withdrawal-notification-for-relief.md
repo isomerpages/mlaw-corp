@@ -20,8 +20,8 @@ To serve the <b>Notice of Withdrawal</b>:
 
 ##### Step 2 #####
 The party must also submit to the Registrar a <b>Declaration of the Service</b> demonstrating that the Notice of Withdrawal has been served on the parties in Step 1, and enclose a copy of the <b>Notice of Withdrawal</b> to the Declaration, within <b>2 working days</b> of completing Step 1:
-* For Applicants who are individuals, please use this link (SingPass).
-* For Applicants which are business entities, please use this link (CorpPass).
+* For Applicants who are individuals, please use this [link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
+* For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
 
 ##### Step 3 #####
 The party must also submit to the court or arbitral tribunal a <b>Memorandum of Service of the Notice of Withdrawal</b> within <b>2 working days</b> after completing Step 1, if the party had previously lodged a copy of the <b>Notification for Relief</b> with the court or arbitral tribunal.
