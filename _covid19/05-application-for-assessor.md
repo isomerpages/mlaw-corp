@@ -21,7 +21,7 @@ The <b>Application</b> must be accompanied by:
 * A copy of the contract or, if there is no written contract, a description of how the contract was made and the relevant terms of the contract; and
 * Any other supporting documents.
 
-Currently, an <b>Application for Assessment</b> can be submitted at no cost.
+Currently, an <b>Application for an Assessor's Determination</b> can be submitted at no cost.
 
 
 ##### Step 2: Registrar Reviews Application for Assessment #####
