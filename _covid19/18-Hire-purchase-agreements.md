@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Frequently Asked Questions
+title: Hire-purchase agreements
 permalink: /covid19-relief/faq/Hire-purchase agreements
-breadcrumb: Frequently Asked Questions
+breadcrumb: Hire-purchase agreements
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
