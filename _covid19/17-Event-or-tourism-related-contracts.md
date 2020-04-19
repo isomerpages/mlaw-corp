@@ -35,9 +35,9 @@ c. Does the Act apply to my event or tourism-related contract?
 
 * The Act applies to event or tourism-related contracts if: 
 
- * The contract was entered into before 25 March 2020
- * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020) 
- * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures)
+  * The contract was entered into before 25 March 2020
+  * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020) 
+  * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures)
 
 * You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act.
 
