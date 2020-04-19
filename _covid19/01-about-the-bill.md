@@ -6,7 +6,7 @@ breadcrumb: About the Bill
 collection_name: covid19
 ---
 
-### About the Bill ###
+### About the Bill - Page to be removed###
 
 On 2 April 2020, the Ministry of Law announced that the COVID-19 (Temporary Measures) Bill (“the Bill”) will be tabled in Parliament on 7 April 2020.
  
