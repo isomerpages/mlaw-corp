@@ -59,6 +59,30 @@ To submit and serve the <b>Response</b>:
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Assessor may proceed to make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
+##### Step 6: Registrar Sets Appointment for Hearing #####
+If the Registrar is satisfied that Steps 3, 4 and 5 have been duly completed, the Registrar will send to the Applicant and Respondent by way of email:
+* A notice of the appointment of an Assessor; and
+* If applicable, a notice of the date and place for the hearing.
+
+Please note that the Registrar may proceed to appoint an Assessor and to fix a hearing where the Respondent fails to file a <b>Response</b> within the relevant period in Step 5. 
+
+##### Step 7: Assessor Conducts Hearing and Makes Determination #####
+The hearing will generally be conducted by way of <u>exchange of emails</u> if the Assessor is of the opinion that the forms and documents are sufficient for the Assessor to make their determination. The Assessor may request for clarifications or further documents by email.
+
+If the Assessor is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
+* Online hearings will be conducted via Webex.
+* Physical hearings will be held at the State Courts Towers (1 Havelock Square, Singapore 059724) or other venue as advised by the Registrar.
+
+Please note for online or physical hearings:
+* An Assessor may permit a party to be accompanied by an interpreter at the hearing. The party will be responsible for sourcing their own interpreter.
+* No party may be represented by an advocate and solicitor at proceedings before an Assessor.
+
+If a party to a determination is <u>absent</u> from the hearing, the Assessor may dismiss the application or make a determination on the case.
+
+If the party had a good reason for being absent, they may make an application to set aside the dismissal or determination made in their absence. See <b>Form 10</b> Application to Set Aside a Dismissal or Determination.
+  
+  
+  
 <!-- 
 <table>
   <tr>
