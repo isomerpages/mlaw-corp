@@ -9,6 +9,7 @@ collection_name: covid19
   table tr td ul li {font-size: 1rem;}
   table tr td p {font-size: 1rem;}
   table tr th p {font-size: 1rem;}
+  .step {font-size: 1rem;}
 </style>
 
 ### Application for Assessment ###
@@ -18,12 +19,14 @@ You should only make an application for an Assessor’s Determination (“Applic
 Please note that the outcome of the Application will be final. There will be no appeals from the Assessor’s determination. 
 
 ##### Step 1: Applicant Applies for Assessment #####
-<!-- Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
+<div class="step">
+Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
       <ul>
 <li style="text-align: justify"> For Applicants who are individuals, please use this link (SingPass).</li>
 <li style="text-align: justify">For Applicants which are business entities, please use this link (CorpPass).</li>
         </ul>
--->
+</div>
+
 
 <table>
   <tr>
