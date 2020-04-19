@@ -19,10 +19,9 @@ a. What kinds of loans are covered?
 * The loan must be given by a bank or finance company to an enterprise that is at least 30% owned by Singapore Citizens or Permanent Residents, and the turnover of the enterprise group must not exceed $100 million.  
 
 b. What reliefs under the Act are applicable to me, the debtor?
-
 * If you are unable to pay instalments on your secured debt due to COVID-19, your bank or finance company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020):
- 
- * Enforce their security over your commercial or industrial property located in Singapore
- * Enforce their security over your plant, machinery or fixed asset in Singapore that is used for business purposes
- * Start or continue court proceedings or insolvency proceedings
 
+  * Enforce their security over your commercial or industrial property located in Singapore
+  * Enforce their security over your plant, machinery or fixed asset in Singapore that is used for business purposes
+  * Start or continue court proceedings or insolvency proceedings
+  
