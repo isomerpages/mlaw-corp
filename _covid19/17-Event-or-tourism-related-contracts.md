@@ -110,7 +110,7 @@ I am a consumer in an event/tourism-related contract…
 
 * Air tickets are not covered by the Act. Most airlines have their own refund or cancellation policy.  You should check the airline’s refund or cancellation policies.
 
-i. Does the Act cover bookings made on travel intermediaries (e.g. online platforms for hotel/tour bookings)? 
+**i. Does the Act cover bookings made on travel intermediaries (e.g. online platforms for hotel/tour bookings)?** 
 
 * Bookings on travel intermediaries (such as aggregate booking websites) will be covered under the Act if these bookings were made under Singapore law. 
 
