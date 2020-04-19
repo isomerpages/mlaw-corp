@@ -17,6 +17,13 @@ Step 1 | The party seeking relief must serve a Notification for Relief on the fo
 * Any guarantor or surety for the obligation in the contract; and
 * The issuer of a performance bond or equivalent for the performance of the obligation, where the contract is a construction contract or supply contract (“Issuer of Related Performance Bond”).
 
+To serve the Notification for Relief:
+* For parties who are <u>individuals</u>, please use this link (SingPass).
+* For parties which are <u>business entities</u>, please use this link (CorpPass).
+
+To register for a SingPass or CorpPass, please visit https://www.singpass.gov.sg or https://www.corppass.gov.sg, respectively. 
+
+
 
 
 
