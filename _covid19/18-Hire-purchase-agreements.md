@@ -50,3 +50,32 @@ e. What must I do to enjoy the reliefs?
 *  If you qualify for the relief, you need to first serve a Notification for Relief on the other party to the agreement, and your guarantor/surety (where applicable), using the form at [to insert]. 
 
 * Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (d).
+
+#### Specific FAQs ####
+f. I am a private-hire driver and purchased my car through a hire-purchase agreement. I am unable to afford my monthly instalments due to COVID-19. Does the Act apply to me?
+
+* Yes, the Act applies to hire-purchase agreements where the good hired or conditionally sold under the agreement is a commercial vehicle. This includes private-hire cars.
+
+g. I am taxi driver or a private-hire driver who rented my car or taxi from a car rental company. I am unable to afford my monthly rent due to COVID-19. Does the Act apply to me? 
+
+* No, the Act does not apply to vehicle rental agreements. 
+
+* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to <insert website> for details.
+
+h. Does the Act apply to me if I use my vehicle partly for commercial purposes and partly for personal use? 
+
+* It depends on whether your vehicle is a commercial vehicle. Please refer to paragraph (b).
+* A personal vehicle registered to provide private hire car services is considered a commercial vehicle for the purposes of the Act.
+* A personal vehicle use for travel to and from a place of work will not be considered a commercial vehicle for the purposes of the Act.
+
+i. My finance company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me? 
+
+* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to repossessions that occurred before that date. 
+
+* If you believe that the finance company breached the terms of your hire-purchase agreement, please seek legal advice.  
+
+j. Do I have to pay the accrued unpaid instalments (and other charges if any) after the 6-month relief period? 
+
+* Yes.  The unpaid instalments (and any other charges such as interest or fees for late payment if provided for under the contract) continues to accrue during the relief period, and may be enforced after the relief period. 
+
+* The Act does not remove or absolve parties’ contractual obligations, but merely seeks to suspend the finance company’s right to enforce the contract during the relief period. This gives you some breathing space without the threat of repossession or litigation to sort out your finances, and time for you and the finance company to negotiate and reach a mutually acceptable solution.  
