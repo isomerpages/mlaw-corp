@@ -22,7 +22,7 @@ second_nav_title: Frequently Asked Questions
 **c. What must I do to enjoy the reliefs?**
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on your landlord, using the form at <insert link>.
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on your landlord, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
 * Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in (b).
 
@@ -45,7 +45,7 @@ second_nav_title: Frequently Asked Questions
 
 * For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the period of the temporary protection to work out a solution. 
 
-* In the event of a dispute over the Notification for Relief, either party may make an application to the panel of Assessors for a determination on the case. Please click on this [link] for further information on the application process and relevant forms.
+* In the event of a dispute over the Notification for Relief, either party may make an application to the panel of Assessors for a determination on the case. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms.
 
 **g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
 
@@ -63,7 +63,7 @@ second_nav_title: Frequently Asked Questions
 
 **i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
-* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to terminations or evictions that occurred before that date. 
+* Part 2 of the [Act](https://sso.agc.gov.sg/act/covid19tma2020){:target="_blank"} on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to terminations or evictions that occurred before that date. 
 
 * If you believe that your landlord has breached the terms of the tenancy agreement, please seek legal advice.  
 
