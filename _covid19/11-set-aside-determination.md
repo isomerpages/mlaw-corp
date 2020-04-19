@@ -20,4 +20,5 @@ If the party who was absent from the hearing had a good reason for being absent 
 ##### Step 2 #####
 If the other party wishes to oppose the <b>Application to Set Aside the Dismissal or Determination</b>, they must, within the time period directed by the Registrar, submit a Reply to the Registrar and, at the same time, serve the <b>Reply</b> on the party who made the <b>Application to Set Aside the Dismissal or Determination</b>, via this link.
 
-
+##### Step 3 #####
+If the Assessor decides to set aside the dismissal or determination, they may do so on such terms as they consider just and may proceed to hear the case and make a determination on the case.
