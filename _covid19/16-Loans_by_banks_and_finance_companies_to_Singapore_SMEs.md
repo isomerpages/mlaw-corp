@@ -20,8 +20,8 @@ a. What kinds of loans are covered?
 
 b. What reliefs under the Act are applicable to me, the debtor?
 
-* If you are unable to pay instalments on your secured debt due to COVID-19, your bank or finance company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
-
+* If you are unable to pay instalments on your secured debt due to COVID-19, your bank or finance company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020):
+ 
  * Enforce their security over your commercial or industrial property located in Singapore
  * Enforce their security over your plant, machinery or fixed asset in Singapore that is used for business purposes
  * Start or continue court proceedings or insolvency proceedings
