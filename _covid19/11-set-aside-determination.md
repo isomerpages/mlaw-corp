@@ -5,9 +5,6 @@ permalink: /covid19-relief/set-aside-dismissal-or-determination
 breadcrumb: Application to Set Aside the Dismissal or Determination
 collection_name: covid19
 ---
-<style>
-  .step {font-size: 1rem;}
-</style>
 ### Application to Set Aside the Dismissal or Determination ###
 
 If a party to an Application is absent from the hearing, the Assessor may either dismiss the application or make a determination.
