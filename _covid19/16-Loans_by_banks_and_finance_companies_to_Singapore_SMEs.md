@@ -25,3 +25,10 @@ b. What reliefs under the Act are applicable to me, the debtor?
   * Enforce their security over your plant, machinery or fixed asset in Singapore that is used for business purposes
   * Start or continue court proceedings or insolvency proceedings
   
+c. What must I do to enjoy the reliefs? 
+
+* The reliefs under the Act do not take effect automatically. 
+
+* If you qualify for the relief, you need to first serve a Notification for Relief on the bank or finance company, as well as your guarantor/surety for the loan (if any), , using the form at <insert link>.
+
+* Once the Notification for Relief has been served on the bank or finance company, the bank or finance company cannot take the above actions in (b).  
