@@ -10,7 +10,7 @@ permalink: /news/speeches/2020-04-10-Speech-by-Mr-K-Shanmugam-Minister-for-Law-a
 Your Excellency, Mr Medvedev, Deputy Chairman of the Security Council of the Russian Federation,
 Excellencies,
 
-<ol start="1">
+<ol type="1"><ol start="1">
 <li>Thank you for facilitating this opportunity. I think, in these difficult times, it is really important for countries to continue to learn from each other, exchange best practices, and in the context that we are discussing, look at the law and see how it is being used.</li>
 </ol>
 
@@ -63,16 +63,20 @@ Excellencies,
 </ol>
 
 <ol start="14">
-<li>Likewise, in many other parts of the world, many countries are facing similar issues.
-
-<ol start="a">
-  <li>Business models have changed a lot – more people are working from home.</li></ol>
-
-<ol start="b">
-  <li>Schools – the way schools deliver education – a lot of home based learning.</li></ol>
+<li>Likewise, in many other parts of the world, many countries are facing similar issues.</li>
+</ol>
 </ol>
 
-<ol start="15">
+<ol type="a"><ol start="a">
+  <li>Business models have changed a lot – more people are working from home.</li>
+  </ol>
+
+<ol start="b">
+  <li>Schools – the way schools deliver education – a lot of home based learning.</li>
+</ol>
+</ol>
+
+<ol type="1"><ol start="15">
 <li>In terms of courts, we have just put through a law in Parliament, where courts are allowed to hear cases, including criminal cases, through remote hearings. Of course, there will be cases where you need to see the person to make an assessment of them – those cases will have to be heard, when it is possible to have a physical hearing. But, other than that, for quite a lot of hearings, we have changed the law to allow virtual hearings.</li>
 </ol>
 
@@ -126,6 +130,7 @@ Excellencies,
 
 <ol start="28">
 <li>These are some questions I think are worth thinking about. Thank you very much.</li>
+</ol>
 </ol>
 
 <p class="right-side-updated">Last updated on 10 Apr 2020</p> 
