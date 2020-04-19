@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Frequently Asked Questions
+title: Event-or-tourism-related-contract
 permalink: /covid19-relief/faq/Event-or-tourism-related-contract
-breadcrumb: Frequently Asked Questions
+breadcrumb: Event-or-tourism-related-contract
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
