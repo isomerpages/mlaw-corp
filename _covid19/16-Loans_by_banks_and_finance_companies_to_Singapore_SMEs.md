@@ -36,7 +36,7 @@ c. What must I do to enjoy the reliefs?
 #### Specific FAQs ####
 d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying for the instalments on my loans? 
 
-* The instalments continue to be payable.  However, if you are unable to pay instalments due to COVID-19, The Act prevents the lender from take the actions in (b) to enforce the payment.  This is intended to give the lender and borrower time to negotiate a mutually acceptable way to deal with the instalments in arrears.
+* The instalments continue to be payable.  However, if you are unable to pay instalments due to COVID-19, the Act prevents the lender from taking the actions in (b) to enforce the payment.  This is intended to give the lender and borrower time to negotiate a mutually acceptable way to deal with the instalments and arrears.
 * It does not allow debtors who are able to pay to avoid paying instalments. Debtors who have the ability to pay (even if they suffered a drop in revenue) must continue to pay instalments for their secured loans.
 
 e. I was unable to pay instalments for my secured loan that were due before 1 February 2020. Does the Act apply to me? 
