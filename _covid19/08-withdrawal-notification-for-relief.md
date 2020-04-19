@@ -10,7 +10,7 @@ collection_name: covid19
 
 ##### Step 1 #####
 If the party who has served the <b>Notification for Relief</b> wishes to withdraw the <b>Notification for Relief</b>, they must serve a <b>Notice of Withdrawal</b> on:
-* The other party or parties to the contract:
+* The other party or parties to the contract;
 * Any guarantor or surety for the obligations in the contract; and
 * Issuer of a Related Performance Bond, if applicable.
 
