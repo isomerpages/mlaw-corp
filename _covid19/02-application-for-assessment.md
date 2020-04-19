@@ -31,10 +31,12 @@ The Application must be accompanied by:
 Currently, an Application for Assessment can be submitted at no cost.
 
 
-##### Step 2: Applicant Applies for Assessment #####
-Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
-* For Applicants who are individuals, please use this link (SingPass).
-* For Applicants which are business entities, please use this link (CorpPass).
+##### Step 2: Registrar Reviews Application for Assessment #####
+The Registrar will review the Application.
+
+If the Registrar is satisfied that the Application is in order, the Registrar will send the Applicant:
+* An acknowledgment of receipt of the Application; and
+* A Response or link to the Response form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
 
 
