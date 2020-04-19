@@ -41,7 +41,7 @@ Excellencies,
 
 <ol type="a">
 a. Business models have changed a lot – more people are working from home.
-<br><br>
+<br>
 b. Schools – the way schools deliver education – a lot of home based learning.
 </ol>
 
