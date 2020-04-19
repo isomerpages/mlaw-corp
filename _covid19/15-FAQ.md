@@ -6,7 +6,7 @@ breadcrumb: Lease or licence of non-residential property
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
-### 1. Lease or licence of non-residential property ###
+### Lease or licence of non-residential property ###
 
 #### General FAQs ####
 **a. Does the Act cover residential leases and licences?**
