@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Hire-purchase agreements
-permalink: /covid19-relief/faq/Hire-purchase agreements
+title: Hire-purchase Agreements
+permalink: /covid19-relief/faq/Hire-purchase-agreements
 breadcrumb: Hire-purchase agreements
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
-### Hire-purchase agreements ###
+### Hire-purchase Agreements ###
 
 #### General FAQs ####
 **a.	What types of hire-purchase agreements are covered by the Act?**
