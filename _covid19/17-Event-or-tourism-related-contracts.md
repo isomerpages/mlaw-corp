@@ -11,7 +11,7 @@ second_nav_title: Frequently Asked Questions
 #### General FAQs ####
 **a. What is an event contract?**
 
-* An “event contract” is a contract for the provision of a venue, accommodation, amenities, transport, entertainment, catering or other goods and services for an event, such as a business meeting, conference, wedding etc. 
+* An “event contract” is a contract for the provision of a venue, accommodation, amenities, transport, entertainment, catering or other goods and services for an event, such as a business meeting, conference, wedding, etc. 
 
   * E.g. contract with hotel for a wedding banquet, contract for photography services or make-up services for a wedding, contract for tickets to a concert or show or sporting event.
 
@@ -25,7 +25,7 @@ second_nav_title: Frequently Asked Questions
 
   * For the provision of transport, short-term accommodation, entertainment, dining, catering, tours or other tourism-related goods or services for visitors to Singapore, domestic or outbound tourists
 
-  * For the promotion of tourism in Singapore or the distribution of products related to tourism for the purposes of trade or retail.
+  * For the promotion of tourism in Singapore or the distribution of products related to tourism for the purposes of trade or retail
 
 * A tourism-related contract does not include a contract for air travel such as airline tickets. 
 
@@ -51,7 +51,7 @@ second_nav_title: Frequently Asked Questions
 
   * Instead, we encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. For example, you may agree to hold your event after the COVID-19 pandemic, in which case the vendor has no reason to forfeit the deposit. In this case, the deposit will remain with the vendor.
 
-  * If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process at [insert link to FAQs on Assessors].
+  * If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process [here](/covid19-relief/application-for-assessor).
 
 * In addition, the other party to the contract cannot start or continue court proceedings or insolvency proceedings against you for 6 months (i.e. up to 19 October 2020) if you are unable to perform your obligations due to COVID-19. 
 
@@ -59,7 +59,7 @@ second_nav_title: Frequently Asked Questions
 
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at [insert link].
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (d) above will apply.
 
@@ -70,11 +70,11 @@ I am a consumer in an event/tourism-related contract…
 
 * Once a Notification for Relief has been served, the vendor/tour agency has to restore your deposit, even if it has been previously forfeited.
 
-* This applies to contracts entered into before 25 March 2020, for obligationson or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
+* This applies to contracts entered into before 25 March 2020, for obligations on or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
 
 * A restoration of deposit **does not mean** that you are entitled to cancel the contract, and/or that the vendor/tour agency must provide you with a refund automatically. 
 
-**g. My deposit was forfeited before the Act came into force on [20 April 2020]. Do I have any recourse under the Act?**
+**g. My deposit was forfeited before the Act came into force on 20 April 2020. Do I have any recourse under the Act?**
 
 * If the contract was entered into before 25 March 2020, and the event or tour was supposed to be carried out on or after 1 February 2020, but could not be carried out because of COVID-19, your deposit can still be restored. 
 
@@ -96,19 +96,19 @@ I am a consumer in an event/tourism-related contract…
 
 * If you and your vendor are unable to reach an agreement, either of you may apply to an Assessor, who will make a determination that is just and equitable. This determination can potentially include a determination that the prepayment is considered a deposit for the purposes of the Act, and should be restored and how it should be dealt with.
 
-**j. My event or tour is to occur after [19 October 2020] (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
+**j. My event or tour is to occur after 19 October 2020 (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
 
-* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19**. In this case, your vendor cannot forfeit your deposit, even if your event or tour is scheduled after [19 October 2020]. 
+* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19**. In this case, your vendor cannot forfeit your deposit, even if your event or tour is scheduled after 19 October 2020. 
 
 * However, if you wish to cancel your booking, your vendor can charge you the cancellation fees as provided for in the contract. Your deposit cannot be automatically forfeited, although this does not mean it will be automatically refunded to you. 
 
 * We encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. 
 
-* If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process at [insert link to FAQs on Assessors].
+* If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process at [here](/covid19-relief/application-for-assessor).
 
 **k. Are air tickets covered under the Act?**
 
-* Air tickets are not covered by the Act. Most airlines have their own refund or cancellation policy.  You should check the airline’s refund or cancellation policies..
+* Air tickets are not covered by the Act. Most airlines have their own refund or cancellation policy.  You should check the airline’s refund or cancellation policies.
 
 i. Does the Act cover bookings made on travel intermediaries (e.g. online platforms for hotel/tour bookings)? 
 
