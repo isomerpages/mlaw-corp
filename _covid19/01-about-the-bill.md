@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About the Bill
-permalink: /covid19-relief/
+permalink: /covid19-relief/bill
 breadcrumb: About the Bill
 collection_name: covid19
 ---
