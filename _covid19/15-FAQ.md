@@ -53,6 +53,25 @@ g. Do I have to pay the accrued unpaid rent (and other charges if any) after the
 
 * However, parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties.
 
+h. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief? 
+
+* If a Notification for Relief has been served, it will be an offence under the Act for the landlord to evict you from the premises, terminate your lease or start court or insolvency proceedings against you. 
+
+* You can also make an application to the panel of assessors for a determination on the case. Please click on this [link] for further information on the application process and relevant forms. 
+
+i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me? 
+
+* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to terminations or evictions that occurred before that date. 
+
+* If you believe that your landlord has breached the terms of the tenancy agreement, please seek legal advice.  
+
+j. I wish to terminate my lease or licence early, without having to forfeit my security deposit or without being liable for the remaining term of the lease or licence. Does the Act assist me?  
+
+* The Act does not change the terms of your contract with your landlord. If the contract provides for charges or other fees for early termination, you will still be liable to pay these charges and fees to your landlord as provided under the contract, unless you and your landlord agree otherwise.
+
+* Your landlord may also be entitled to forfeit the security deposit if you breached your tenancy agreement. 
+
+* If you have been unable to pay any rent that falls due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your landlord, your landlord cannot enforce the contract against this rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. 
 
 
 
