@@ -19,7 +19,6 @@ You should only make an application for an Assessor’s Determination (“Applic
 Please note that the outcome of the Application will be final. There will be no appeals from the Assessor’s determination. 
 
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
-<div class="step">
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
 * For Applicants who are individuals, please use this link (SingPass).
 * For Applicants which are business entities, please use this link (CorpPass).
@@ -30,15 +29,14 @@ The Application must be accompanied by:
 * Any other supporting documents.
 
 Currently, an Application for Assessment can be submitted at no cost.
-</div>
+
 
 ##### Step 2: Applicant Applies for Assessment #####
-<div class="step">
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
 * For Applicants who are individuals, please use this link (SingPass).
 * For Applicants which are business entities, please use this link (CorpPass).
 
-</div>
+
 
 
 <!-- 
