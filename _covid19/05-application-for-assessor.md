@@ -13,8 +13,8 @@ Please note that the outcome of the Application will be final. There will be no 
 
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
-* For Applicants who are individuals, please use this link (SingPass).
-* For Applicants which are business entities, please use this link (CorpPass).
+* For Applicants who are individuals, please use this [link (SingPass)](https://go.gov.sg/application-for-determination-singpass){:target="_blank"}.
+* For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/application-for-determination-corppass){:target="_blank"}.
 
 The <b>Application</b> must be accompanied by:
 * A copy of the <b>Notification for Relief</b>;
