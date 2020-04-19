@@ -21,10 +21,9 @@ Please note that the outcome of the Application will be final. There will be no 
 ##### Step 1: Applicant Applies for Assessment #####
 <div class="step">
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
-      <ul>
-<li style="text-align: justify"> For Applicants who are individuals, please use this link (SingPass).</li>
-<li style="text-align: justify">For Applicants which are business entities, please use this link (CorpPass).</li>
-        </ul>
+* For Applicants who are individuals, please use this link (SingPass).
+* For Applicants which are business entities, please use this link (CorpPass).
+
 </div>
 
 
