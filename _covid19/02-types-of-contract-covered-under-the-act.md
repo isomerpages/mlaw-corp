@@ -10,9 +10,9 @@ The following guides explain what relief is available for businesses and individ
 
 a.         [SMEs with secured loans](/files/1.Guide-SMEs-with-secured-loans-COVID-19Act.pdf) 
 
-b.         Construction contractors and suppliers [attach] 
+b.         [Construction contractors and suppliers](/files/2.Guide-construction-contractors-suppliers-COVID-19Act.pdf) 
 
-c.         Event and tourism-related contracts [attach] 
+c.         [Event and tourism-related contracts](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/files/3.Guide-event-tourism-related-COVID-19Act.pdf) 
 
 d.         Hirers in hire-purchase or conditional sales agreements [attach] 
 
