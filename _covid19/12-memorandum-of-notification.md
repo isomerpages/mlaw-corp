@@ -11,6 +11,6 @@ If you qualify for relief and have served a Notification for Relief, the other p
 
 Where:
 <p style="margin-left: 40px"> a. there are any pending court or arbitral proceedings in relation to the subject inability at the time when you served the <b>Notification for Relief</b>; or</p>
-<p style="margin-left: 40px"> b. such proceedings are commenced after you served the Notification for Relief,</p>
+<p style="margin-left: 40px"> b. such proceedings are commenced after you served the <b>Notification for Relief</b>,</p>
 you may submit a <b>Memorandum of Notification for Relief</b> to the court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.
  
