@@ -27,7 +27,7 @@ second_nav_title: Frequently Asked Questions
 * Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in (b).
 
 **d. What kind of obligations does the Act cover? Is it only limited to the payment of rent?**
-* No, the Act covers all contractual obligations which a party is unable to perform due to COVID-19. These may include the payment of rent or the obligation to reinstate the property by a certain time by the tenant. It may also include obligations by the landlord such as the obligation to deliver vacant possession by a stipulated time
+* No, the Act covers all contractual obligations which a party is unable to perform due to COVID-19. These may include the payment of rent or the obligation to reinstate the property by a certain time by the tenant. It may also include obligations by the landlord such as the obligation to deliver vacant possession by a stipulated time.
 
 #### Specific FAQs ####
 
