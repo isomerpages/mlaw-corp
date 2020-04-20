@@ -49,11 +49,11 @@ second_nav_title: Frequently Asked Questions
 
 **g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
 
-* The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the landlord from enforcing the contract during the relief period. This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. 
+* Yes, the unpaid rent (and any other charges such as interest or fees for late payment, if provided for under the contract) continue to accrue during the relief period, and may be enforced after the relief period. 
 
-* The unpaid rent (and any other charges such as interest or fees for late payment, if provided for under the contract) therefore continues to accrue during the relief period, and may be enforced after the relief period.  
+* The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the landlord from enforcing the contract during the relief period. 
 
-* However, parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties.
+* This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. Parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties. 
 
 **h. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief?**
 
