@@ -9,11 +9,8 @@ Forms
 ---
 
 **Form 3**
-Withdrawal of Notification for Relief |  [link](/covid19-relief/forms/form-3.docx) |
+[Withdrawal of Notification for Relief](/files/covid19-forms/form-3.docx)
 
-**Form 3**
-Withdrawal of Notification for Relief |  [link](/covid19-relief/forms/form-3.docx) |
- 
 **Form 4**
 Declaration of Service
  
