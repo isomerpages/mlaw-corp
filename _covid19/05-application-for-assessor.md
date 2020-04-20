@@ -54,11 +54,13 @@ The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>R
 * The guarantor or surety of the obligation; and
 * The Issuer of a Related Performance Bond.
 
-To submit and serve the <b>Response</b>:
+To submit and serve the <b>Response</b> using the electronic system (if the Respondent has the emails of the above parties):
 * For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
 * For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
 
-Please note that if the Respondent fails to submit a <b>Response</b>, the Assessor may proceed to make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
+Other modes of service of the Response are set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/act/covid19tma2020#P12-){:target="_blank"}.
+
+Please note that if the Respondent fails to submit a <b>Response</b>, the Registrar may proceed to appoint an Assessor, and the Assessor may make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
 ##### Step 6: Registrar Sets Appointment for Hearing #####
 If the Registrar is satisfied that Steps 3, 4 and 5 have been duly completed, the Registrar will send to the Applicant and Respondent by way of email:
