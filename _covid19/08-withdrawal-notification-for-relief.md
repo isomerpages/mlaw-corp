@@ -28,5 +28,5 @@ The party must also submit to the Registrar a <b>Declaration of the Service</b> 
 ##### Step 3 #####
 (This **only** applies if a party had previously lodged the Notification for Relief to obtain a stay or dismissal of court or arbitral proceedings, which is covered [here](/covid19-relief/memorandum-of-notification).)
 
-The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a **[Memorandum of Service of Withdrawal of Notitication for Relief](/files/covid19-forms/form-5.docx)** within <b>2 working days</b> after completing Step 1.
+The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a **Memorandum of Service of Withdrawal of Notitication for Relief [form](/files/covid19-forms/form-5.docx)** within <b>2 working days</b> after completing Step 1.
 
