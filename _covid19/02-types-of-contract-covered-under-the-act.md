@@ -12,8 +12,8 @@ a.         [SMEs with secured loans](/files/1.Guide-SMEs-with-secured-loans-COVI
 
 b.         [Construction contractors and suppliers](/files/2.Guide-construction-contractors-suppliers-COVID-19Act.pdf) 
 
-c.         [Event and tourism-related contracts](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/files/3.Guide-event-tourism-related-COVID-19Act.pdf) 
+c.         [Event and tourism-related contracts](/files/3.Guide-event-tourism-related-COVID-19Act.pdf) 
 
-d.         Hirers in hire-purchase or conditional sales agreements [attach] 
+d.         [Hirers in hire-purchase or conditional sales agreements](/files/4.Guide-hirers-COVID-19Act.pdf)
 
-e.         Non-residential property tenants [attach]
+e.         [Non-residential property tenants](files/5.Guide-non-residential-property-tenants-COVID-19Act.pdf)
