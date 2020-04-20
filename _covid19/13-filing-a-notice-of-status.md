@@ -16,8 +16,8 @@ Where:
 
 you must submit a <b>Notification of Status of Application for Determination</b> to the court or arbitral tribunal within 2 working days of any of the two events: 
 
-	1. You have completed service of the <b>Application</b> on the required parties; and
-	2. The conclusion of proceedings before the Assessor, which is when: 
+1. You have completed service of the <b>Application</b> on the required parties; and
+2. The conclusion of proceedings before the Assessor, which is when: 
 
 		i. The Assessor has given a determination;
 
