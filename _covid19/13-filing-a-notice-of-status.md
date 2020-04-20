@@ -16,6 +16,7 @@ you must submit a <b>Notification of Status of Application for Determination</b>
 
 1. You have completed service of the Application on the required parties; and
 2. The conclusion of proceedings before the Assessor, which is when: 
+
 	i. The Assessor has given a determination;
 	ii. The Assessor has dismissed the Application; or
 	iii.The Application is withdrawn. 
