@@ -8,5 +8,4 @@ collection_name: covid19
 
 ### Amendment of Application ###
 
-If, before the Assessor’s determination is made, the Applicant or Respondent wishes to amend the <b>Application for Determination</b> or the <b>Response</b>, they may submit a request to the Registrar by way of email as provided in the acknowledgement of receipt of the Application.
-
+If, before the Assessor’s determination is made, the Applicant or Respondent wishes to amend the <b>Application for Determination</b> or the <b>Response</b>, they may submit a request to the Registrar by way of email as provided in the acknowledgement of receipt of the Application. Please cite your Application No. in your email request.
