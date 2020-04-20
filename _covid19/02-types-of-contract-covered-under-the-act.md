@@ -16,4 +16,4 @@ c.         [Event and tourism-related contracts](/files/3.Guide-event-tourism-re
 
 d.         [Hirers in hire-purchase or conditional sales agreements](/files/4.Guide-hirers-COVID-19Act.pdf)
 
-e.         [Non-residential property tenants](files/5.Guide-non-residential-property-tenants-COVID-19Act.pdf)
+e.         [Non-residential property tenants](/files/5.Guide-non-residential-property-tenants-COVID-19Act.pdf)
