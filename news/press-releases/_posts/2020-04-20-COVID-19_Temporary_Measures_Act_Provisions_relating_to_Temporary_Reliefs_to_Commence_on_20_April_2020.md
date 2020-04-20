@@ -2,7 +2,7 @@
 layout: post
 title: COVID-19 (Temporary Measures) Act Provisions relating to Temporary Reliefs to Commence on 20 April 2020
 date: 2020-04-20
-permalink: /news/press-releases/COVID-19_Temporary_Measures_Act_Provisions_relating_to_Temporary_Reliefs_to_Commence_on_20_April_2020
+permalink: /news/press-releases/2020-04-20-COVID-19_Temporary_Measures_Act_Provisions_relating_to_Temporary_Reliefs_to_Commence_on_20_April_2020
 ---
 
 20 Apr 2020 Posted in [Press releases](/news/press-releases)
