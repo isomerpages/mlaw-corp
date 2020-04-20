@@ -34,7 +34,7 @@ second_nav_title: Frequently Asked Questions
 * The relief applies only to tenants who can demonstrate that they are **unable to pay** rent due to COVID-19. It does not allow tenants who are able to pay to avoid paying rent. Tenants who have the ability to pay (even if they suffered a drop in revenue) must continue to pay their rent.
 
 **e. I was unable to pay rent that was due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?**
-* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 onwards. Your landlord is entitled to enforce any contractual rights they have for unpaid rent due before 1 February 2020. 
+* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 onwards. Your landlord is entitled to enforce any contractual rights they have unpaid rent due before 1 February 2020. 
 
 **f. I was unable to pay rent due to COVID-19. Should I issue a Notification for Relief or apply for an Assessor's determination under the Act?**
 * If you have been affected by COVID-19, and are unable to perform your contractual obligations, we would encourage you to work together with your landlord to reach a mutually acceptable solution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. Such mutually acceptable solutions can include temporary rent reduction, partial payments, or setting off arrears against the security deposit.
@@ -43,15 +43,15 @@ second_nav_title: Frequently Asked Questions
 
 * If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your landlord, who is then prohibited from taking any of the actions in (b).  This will give you temporary protection up to 19 October 2020.
 
-* For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the relief period to work out a solution. 
+* For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the temporary relief period to work out a solution. 
 
 * In the event of a dispute over whether there is an inability to pay rent, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
 
-* The Act does not remove or absolve parties’ contractual obligations, but merely seeks to suspend the landlord’s right to enforce the contract during the relief period. This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. 
+* The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the landlord from enforcing the contract during the relief period. This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. 
 
-* The unpaid rent (and any other charges such as interest or fees for late payment if provided for under the contract) therefore continues to accrue during the relief period, and may be enforced after the relief period.  
+* The unpaid rent (and any other charges such as interest or fees for late payment, if provided for under the contract) therefore continues to accrue during the relief period, and may be enforced after the relief period.  
 
 * However, parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties.
 
