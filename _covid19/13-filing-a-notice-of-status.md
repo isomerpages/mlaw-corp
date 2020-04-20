@@ -14,7 +14,7 @@ Where:
 * There are pending court or arbitral proceedings in relation to the inability to perform an obligation set out in the Notification for Relief; and
 * The Respondent or you have previously lodged a <b>Notification for Relief</b> with the court or arbitral tribunal, 
 
-you must submit a <b>Notification of Status of Application for Determination</b> to the court or arbitral tribunal within 2 working days of any of the two events: 
+you must submit a **Notification of Status of Application for Determination** [(link to form)](/files/covid19-forms/form-7.docx) to the court or arbitral tribunal within 2 working days of any of the two events: 
 
 1. You have completed service of the <b>Application for an Assessor's Determination</b> on the required parties; and
 2. The conclusion of proceedings before the Assessor, which is when:
