@@ -31,7 +31,7 @@ second_nav_title: Frequently Asked Questions
 
 **c. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
-* If you are **unable to pay** instalments on the hire-purchase agreement **due to COVID-19**, the finance company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
+* If you are **unable to pay** instalments on the hire-purchase agreement **due to COVID-19**, the financing company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
 
   * Repossess the plant, machinery or fixed asset that is used for business, or repossess your commercial vehicle.
   * Start or continue court proceedings or insolvency proceedings.
@@ -40,9 +40,9 @@ second_nav_title: Frequently Asked Questions
 
 * The reliefs under the Act **do not take effect automatically.**
 
-*  If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the agreement, and your guarantor/surety (where applicable), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
+*  If you qualify for the relief, you need to first **serve a Notification for Relief** on the financal company, and your guarantor/surety (if any), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
-* Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (c).
+* Once the Notification for Relief has been served on the financial company, the financing company cannot take the above actions in (c).
 
 #### Specific FAQs ####
 
@@ -94,10 +94,14 @@ Eligibility and scope of the relief
 
 * Yes.  The unpaid instalments (and any other charges such as interest or fees for late payment, if provided for under the contract) continues to accrue during the relief period, and may be enforced after the relief period. 
 
-* The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the finance company from enforcing the contract during the relief period. This gives you some breathing space without the threat of repossession or litigation to sort out your finances, and time for you and the finance company to negotiate and reach a mutually acceptable solution.  
+* The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the financing company from enforcing the contract during the relief period.
 
-**l. My finance company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
+* While this gives the hirer  some breathing space without the threat of repossession or litigation to sort out his finances, he may be subject to a higher outstanding amount at the end of the temporary relief period as the interest or fees for late payment continues to accrue under his contract with the financing company. 
+
+* As such, hirers are encouraged to engage their financing companies to negotiate a mutually acceptable solution. 
+
+**l. My financing company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
 
 * Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to repossessions that occurred before that date. 
 
-* If you believe that the finance company breached the terms of your hire-purchase agreement, please seek legal advice.
+* If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
