@@ -23,7 +23,7 @@ permalink: /news/press-releases/2020-04-20-COVID-19_Temporary_Measures_Act_Provi
 
 <ol start="6">
 <li>If they require protection from legal proceedings and wish to obtain temporary relief under the Act, they should:
-
+<br>
 <ol style="list-style-type: lower-alpha">
 <li>First, <b>confirm that they are eligible</b> for relief. They may visit http://www.mlaw.gov.sg/covid19-relief for more information.</li>
 <br>
