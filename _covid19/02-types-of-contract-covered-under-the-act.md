@@ -8,7 +8,7 @@ collection_name: covid19
 ### Types of Contract Covered under the Act ###
 The following guides explain what relief is available for businesses and individuals in contracts covered by the Act.
 
-a.         SMEs with secured loans [attach] 
+a.         [SMEs with secured loans](/files/1.Guide-SMEs-with-secured-loans-COVID-19Act.pdf) 
 
 b.         Construction contractors and suppliers [attach] 
 
