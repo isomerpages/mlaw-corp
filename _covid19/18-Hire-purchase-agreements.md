@@ -88,7 +88,7 @@ Eligibility and scope of the relief
 
 * For the avoidance of doubt, the instalment continues to accrue in the interim.  You are therefore encouraged to use the temporary relief period to work out a solution. 
 
-* In the event of a dispute over whether there is an inability to pay the instalment, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [link] for further information on the application process and the relevant forms.
+* In the event of a dispute over whether there is an inability to pay the instalment, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **k. Do I have to pay the accrued unpaid instalments (and other charges if any) after the 6-month relief period?**
 
