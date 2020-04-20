@@ -14,7 +14,7 @@ Where:
 <p style="margin-left: 40px"> b. such proceedings are commenced after you served the Notification for Relief,</p>
 you may submit a <b>Memorandum of Notification for Relief</b> to the court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.
  
-To submit a <b>Memorandum of Notification for Relief</b> to the Court, you have to file the document via eLitigation under "Other Hearing Related Request". If you are represented by a lawyer, you may ask your lawyer to do the filing. If you are unrepresented, you may file the document at the LawNet Service Bureau located at Chinatown Point or the Supreme Court.
+To submit a <b>Memorandum of Notification for Relief</b> to the Court, you have to file the document via eLitigation under "Other Hearing Related Request". If you are represented by a lawyer, you may ask your lawyer to do the filing. If you are unrepresented, you may file the document at the LawNet Service Bureau located at the Supreme Court.
 
 <!--
 You may find out more information on the submission of a Memorandum of Notification for Relief to the Court at the following websites:
