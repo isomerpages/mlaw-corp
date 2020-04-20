@@ -15,9 +15,9 @@ second_nav_title: Frequently Asked Questions
 **b. What reliefs under the Act are applicable to me, the tenant?**
 * If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for 6 months (i.e. up to 19 October 2020):
 
-  * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent 
-  * Re-enter the premises 
-  * Start or continue court proceedings or insolvency proceedings
+  * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent. 
+  * Re-enter the premises. 
+  * Start or continue court proceedings or insolvency proceedings.
 
 **c. What must I do to enjoy the reliefs?**
 * The reliefs under the Act **do not take effect automatically.**
@@ -29,21 +29,21 @@ second_nav_title: Frequently Asked Questions
 #### Specific FAQs ####
 
 **d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?**
-* Rent continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing legal action during the prescribed period (i.e. up to 19 October 2020).  This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
+* Rent continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing or continuing legal action during the relief period (i.e. up to 19 October 2020).  This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to tenants who can demonstrate that they are **unable to pay** rent due to COVID-19. It does not allow tenants who are able to pay to avoid paying rent. Tenants who have the ability to pay (even if they suffered a drop in revenue) must continue to pay their rent.
 
 **e. I was unable to pay rent that was due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?**
-* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 onwards. Your landlord is entitled to enforce any contractual rights they have for your unpaid rent before 1 February 2020. 
+* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 onwards. Your landlord is entitled to enforce any contractual rights they have for unpaid rent due before 1 February 2020. 
 
 **f. I was unable to pay rent due to COVID-19. Should I issue a Notification for Relief or apply for an Assessor's determination under the Act?**
-* If you have been affected by COVID-19, and are unable to perform your contractual obligations, we would encourage you to work together with your landlord to reach a mutually acceptable resolution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. Such mutually acceptable solutions can include temporary rent reduction, partial payments, or setting off arrears against the security deposit.
+* If you have been affected by COVID-19, and are unable to perform your contractual obligations, we would encourage you to work together with your landlord to reach a mutually acceptable solution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. Such mutually acceptable solutions can include temporary rent reduction, partial payments, or setting off arrears against the security deposit.
 
 * For both parties, a settlement is preferable to being mired in costly and lengthy legal proceedings.
 
 * If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your landlord, who is then prohibited from taking any of the actions in (b).  This will give you temporary protection up to 19 October 2020.
 
-* For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the period of the temporary protection to work out a solution. 
+* For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the relief period to work out a solution. 
 
 * In the event of a dispute over whether there is an inability to pay rent, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
