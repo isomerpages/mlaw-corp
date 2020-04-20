@@ -23,7 +23,7 @@ To serve the <b>Notification for Relief</b> using the electronic system (if you 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
-Other modes of service of the Notification for Relief are set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
+Other modes of service of the Notification for Relief are set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020. If you would like to use these other modes of service, please serve the Notification for Relief using this [form](){:target="_blank"}. 
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 
