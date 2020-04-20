@@ -27,5 +27,5 @@ Other modes of service of the Notification for Relief are set out in the COVID-1
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 
-If you have served a Notification of Relief, and there are pending court or arbitral proceedings in respect of the obligations covered under the Notification of Relief against you, please refer to [here](covid19-relief/memorandum-of-notification) for the processes for you to obtain a stay or dismissal of those proceedings.
+If you have served a Notification of Relief, and there are pending court or arbitral proceedings in respect of the obligations covered under the Notification of Relief against you, please refer to [here](/covid19-relief/memorandum-of-notification) for the processes for you to obtain a stay or dismissal of those proceedings.
 
