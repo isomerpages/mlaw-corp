@@ -39,7 +39,7 @@ second_nav_title: Frequently Asked Questions
   * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020) 
   * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures)
 
-* **You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act.**
+* **You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act. Please refer to (e) below**
 
 **d. What reliefs under the Act are applicable to me?**
 
@@ -51,10 +51,8 @@ second_nav_title: Frequently Asked Questions
 
   * Instead, we encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. For example, you may agree to hold your event after the COVID-19 pandemic, in which case the vendor has no reason to forfeit the deposit. In this case, the deposit will remain with the vendor.
 
-  * If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process [here](/covid19-relief/application-for-assessor).
-
-* In addition, the other party to the contract cannot start or continue court proceedings or insolvency proceedings against you for 6 months (i.e. up to 19 October 2020) if you are unable to perform your obligations due to COVID-19. 
-
+  * If you and your vendor cannot reach a resolution, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms. 
+  
 **e. What must I do to enjoy the reliefs?**
 
 * The reliefs under the Act **do not take effect automatically.**
@@ -70,9 +68,9 @@ I am a consumer in an event/tourism-related contract…
 
 * Once a Notification for Relief has been served, the vendor/tour agency has to restore your deposit, even if it has been previously forfeited.
 
-* This applies to contracts entered into before 25 March 2020, for obligations on or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
+* Restoration **does not mean** that the deposit is paid back to you. It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or a determination by an Assessor if a mutual agreement is not possible.
 
-* A restoration of deposit **does not mean** that you are entitled to cancel the contract, and/or that the vendor/tour agency must provide you with a refund automatically. 
+* This applies to contracts entered into before 25 March 2020, for obligations on or after 1 February 2020.  For example, the Act would apply to a contract which you entered into in June 2019 to book a wedding banquet to be held on 20 February 2020. 
 
 **g. My deposit was forfeited before the Act came into force on 20 April 2020. Do I have any recourse under the Act?**
 
@@ -80,31 +78,29 @@ I am a consumer in an event/tourism-related contract…
 
 * You must first serve a Notification for Relief on the vendor. Upon the receipt of the Notification for Relief, the vendor must restore the forfeited deposit as soon as practicable. 
 
-* Restoration does not mean that the deposit is paid back to you.  It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or if an agreement is not possible, a determination by an Assessor.
+* Restoration **does not mean** that the deposit is paid back to you. It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or a determination by an Assessor if a mutual agreement is not possible.
 
-* This is unless you had already cancelled the event, and **agreed** with the vendor that the deposit (or a part of it) is to be forfeited. 
+* However, if you had already cancelled the event or tour, and **agreed** with the vendor that the deposit (or a part of it) is to be forfeited, your deposit will not be restored. 
 
 **h. I do not wish to postpone my event or tour, but wish to cancel it. Can I recover my deposit? Is the vendor entitled to charge the cancellation fees as provided under the contract?**
 
-* With respect to the deposit, we encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. This may include a partial recovery of the deposit. If you and your vendor are unable to agree, either of you may apply to an Assessor, who will make a determination which is just and equitable.
+* With respect to the deposit, we encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. This may include a partial refund of the deposit. If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.  
 
-* With respect to the cancellation fees, under the Act, you do not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on 20 April 2020, or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees.
+* With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on [20 April 2020], or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
 
-**i. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
+**i. My event or tour is to occur after 19 October 2020 (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
+
+* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19.**
+
+* With respect to the deposit, your vendor cannot forfeit it, even if the event or tour is scheduled after 19 October 2020. The deposit would continue to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or a determination by an Assessor if a mutual agreement is not possible.
+
+* With respect to the cancellation fees, if you wish to cancel your event or tour that was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
+
+**j. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
 
 * It is possible that the prepayment may be considered a deposit for the purposes of the Act. This depends on the terms of your contract. If the prepayment is considered a deposit for the purposes of the Act, the reliefs applicable to deposits will apply (see (d)). 
 
-* If you and your vendor are unable to reach an agreement, either of you may apply to an Assessor, who will make a determination that is just and equitable. This determination can potentially include a determination that the prepayment is considered a deposit for the purposes of the Act, and should be restored and how it should be dealt with.
-
-**j. My event or tour is to occur after 19 October 2020 (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
-
-* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19**. In this case, your vendor cannot forfeit your deposit, even if your event or tour is scheduled after 19 October 2020. 
-
-* However, if you wish to cancel your booking, your vendor can charge you the cancellation fees as provided for in the contract. Your deposit cannot be automatically forfeited, although this does not mean it will be automatically refunded to you. 
-
-* We encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. 
-
-* If you and your vendor cannot reach a resolution, either of you can apply to an Assessor, who will make a determination that is just and equitable in the circumstances. You can find more information on the assessment process at [here](/covid19-relief/application-for-assessor).
+* If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. This can potentially include a determination that the prepayment is considered a deposit for the purposes of the Act and should be restored, and how it should be dealt with. Please click [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms
 
 **k. Are air tickets covered under the Act?**
 
@@ -118,12 +114,14 @@ I am a consumer in an event/tourism-related contract…
 
 **m. My vendor returned my deposit in the form of vouchers. Can I ask for cash instead?**
 
-* The Act does not mandate how the deposit should be returned. We encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. If you are unable to agree, either of you may apply to the Assessor. It is possible that the Assessor may determine that giving vouchers rather than cash is a just and equitable outcome.
+* The Act does not mandate how the deposit should be returned. We encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. 
 
-I am an event provider/travel agency…
+* If you are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. It is possible that the Assessor may determine that giving vouchers rather than cash is a just and equitable outcome. 
 
-**n. I am an event provider/vendor and I have already provided some services pursuant to the event contract, must I provide a full refund if I receive a Notification for Relief?**
+I am a vendor in an event/tourism-related contract…
+
+**n. I am a vendor and I have already provided some services pursuant to the event or tourism-related contract. Must I provide a full refund if I receive a Notification for Relief?**
 
 * The Act does not mandate that service providers provide full refunds to consumers. We encourage parties to discuss and work out an arrangement which is mutually acceptable.
 
-* If parties are unable to agree, either party may apply to the Assessor. It is possible that if you have provided services to the consumer (e.g. wedding photoshoot, deliveries) or incurred expenses for the purposes of the event (e.g. purchasing perishables), then an Assessor may make a determination based on the circumstances of the case, on a just and equitable basis, that only part of the deposit be restored. 
+* If parties are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. It is possible that if you have provided services to the consumer (e.g. wedding photoshoot, deliveries) or incurred expenses for the purposes of the event (e.g. purchasing perishables), then an Assessor may determine that it is  just and equitable for only part of the deposit be restored or refunded. 
