@@ -15,11 +15,6 @@ Where:
 * The Respondent or you have previously lodged a <b>Notification for Relief</b> with the court or arbitral tribunal, 
 
 you must submit a <b>Notification of Status of Application for Determination</b> to the court or arbitral tribunal within 2 working days of any of the two events: 
-<p margin="10px">1. You have completed service of the <b>Application</b> on the required parties; and</p>
-<p margin="10px">2. The conclusion of proceedings before the Assessor, which is when: </p>
-	i. The Assessor has given a determination;
-	ii. The Assessor has dismissed the Application; or
-	iii.The Application is withdrawn. 
 
 1. You have completed service of the <b>Application</b> on the required parties; and
 2. The conclusion of proceedings before the Assessor, which is when:
