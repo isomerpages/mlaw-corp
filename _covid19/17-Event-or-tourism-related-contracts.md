@@ -21,9 +21,9 @@ second_nav_title: Frequently Asked Questions
 
 * A “tourism-related contract” is a contract –
 
-  * For sea and land travel (e.g. cruises)
+  * For sea and land travel (e.g. cruises);
 
-  * For the provision of transport, short-term accommodation, entertainment, dining, catering, tours or other tourism-related goods or services for visitors to Singapore, domestic or outbound tourists
+  * For the provision of transport, short-term accommodation, entertainment, dining, catering, tours or other tourism-related goods or services for visitors to Singapore, domestic or outbound tourists; or
 
   * For the promotion of tourism in Singapore or the distribution of products related to tourism for the purposes of trade or retail
 
@@ -35,19 +35,19 @@ second_nav_title: Frequently Asked Questions
 
 * The Act applies to event or tourism-related contracts if: 
 
-  * The contract was entered into before 25 March 2020
-  * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020) 
-  * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures)
+  * The contract was entered into before 25 March 2020;
+  * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020);
+  * The contractual obligation could not be performed due to COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures).
 
 * **You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act. Please refer to (e) below**
 
 **d. What reliefs under the Act are applicable to me?**
 
-* If you are **unable to carry out your contractual obligation due to COVID-19**, the other party to the contract cannot take legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
+* If you are **unable to carry out your contractual obligation due to COVID-19**, the other party to the contract cannot take or continue legal action against you in respect of that obligation during the prescribed period (i.e. up to 19 October 2020).
 
 * Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract **cannot be automatically forfeited**. If a deposit has purportedly been forfeited, it must be restored. 
 
-  * This does not mean that you are automatically entitled to cancel the contract, nor does it mean that deposits are automatically refunded to you. 
+  * This does not mean that you are automatically entitled to cancel the contract, nor does it mean that deposits will be automatically refunded to you. 
 
   * Instead, we encourage you to discuss with the vendor and work out an arrangement which is mutually acceptable. For example, you may agree to hold your event after the COVID-19 pandemic, in which case the vendor has no reason to forfeit the deposit. In this case, the deposit will remain with the vendor.
 
@@ -64,9 +64,9 @@ second_nav_title: Frequently Asked Questions
 #### Specific FAQs ####
 I am a consumer in an event/tourism-related contract…
 
-**f. What happens if my vendor/tour agency has already forfeited my deposit before I served a Notification for Relief?**
+**f. What happens if my vendor has already forfeited my deposit before I served a Notification for Relief?**
 
-* Once a Notification for Relief has been served, the vendor/tour agency has to restore your deposit, even if it has been previously forfeited.
+* Once a Notification for Relief has been served, the vendor has to restore your deposit, even if it has been previously forfeited.
 
 * Restoration **does not mean** that the deposit is paid back to you. It means that the deposit continues to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or a determination by an Assessor if a mutual agreement is not possible.
 
@@ -122,6 +122,6 @@ I am a vendor in an event/tourism-related contract…
 
 **n. I am a vendor and I have already provided some services pursuant to the event or tourism-related contract. Must I provide a full refund if I receive a Notification for Relief?**
 
-* The Act does not mandate that service providers provide full refunds to consumers. We encourage parties to discuss and work out an arrangement which is mutually acceptable.
+* The Act does not mandate that vendors provide full refunds to the consumers. We encourage parties to discuss and work out an arrangement which is mutually acceptable.
 
 * If parties are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. It is possible that if you have provided services to the consumer (e.g. wedding photoshoot, deliveries) or incurred expenses for the purposes of the event (e.g. purchasing perishables), then an Assessor may determine that it is  just and equitable for only part of the deposit be restored or refunded. 
