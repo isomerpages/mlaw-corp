@@ -9,7 +9,7 @@ collection_name: covid19
 
 For an overview of what the Act covers, please click [here](/files/Infographic-COVID-19Act-18Apr20.pdf).
 
-For press releases on the Act, please click [here](https://www.mlaw.gov.sg/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation) and here.
+For press releases on the Act, please click [here](https://www.mlaw.gov.sg/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation) and [here](/news/press-releases/2020-04-20-COVID-19_Temporary_Measures_Act_Provisions_relating_to_Temporary_Reliefs_to_Commence_on_20_April_2020).
  
 For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-bill).
 
