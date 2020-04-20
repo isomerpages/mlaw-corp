@@ -16,7 +16,7 @@ second_nav_title: Frequently Asked Questions
 
   * Any plant, machinery or fixed asset located in Singapore that is used for manufacturing, production or other business purposes. 
 
-* •	This is provided that the  enterprise is at least 30% owned by Singapore Citizens and/or Permanent Residents, and the turnover of the enterprise group does not exceed $100 million.  
+* This is provided that the  enterprise is at least 30% owned by Singapore Citizens and/or Permanent Residents, and the turnover of the enterprise group does not exceed $100 million.  
 
 **b. What reliefs under the Act are applicable to me, the debtor?**
 * If you are **unable to pay** instalments on your secured debt **due to COVID-19**, your bank or finance company (collectively "creditor") cannot take the following actions against you for 6 months (i.e. up to 19 October 2020):
@@ -31,7 +31,7 @@ second_nav_title: Frequently Asked Questions
 
 * If you qualify for the relief, you need to first **serve a Notification for Relief** on the creditor, as well as your guarantor/surety for the loan (if any), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
-* •	Once the Notification for Relief has been served on the creditor, the creditor cannot take the above actions in (b).  
+* Once the Notification for Relief has been served on the creditor, the creditor cannot take the above actions in (b).  
 
 #### Specific FAQs ####
 **d. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying for the instalments on my loans?** 
