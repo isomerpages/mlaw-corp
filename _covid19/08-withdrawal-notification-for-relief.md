@@ -24,7 +24,7 @@ The party must also submit to the Registrar a <b>Declaration of the Service</b> 
 * For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
 
 ##### Step 3 #####
-(This only applies if a party had previously lodged the Notification for Relief to obtain a stay or dismissal of court or arbitral proceedings, which is covered in [here](/covid19-relief/memorandum-of-notification).)
+(This **only** applies if a party had previously lodged the Notification for Relief to obtain a stay or dismissal of court or arbitral proceedings, which is covered in [here](/covid19-relief/memorandum-of-notification).)
 
-The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a Memorandum of Service of Withdrawal of Notitication for Relief within <b>2 working days</b> after completing Step 1.
+The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a **Memorandum of Service of Withdrawal of Notitication for Relief** within <b>2 working days</b> after completing Step 1.
 
