@@ -68,7 +68,7 @@ If the Registrar is satisfied that Steps 3, 4 and 5 have been duly completed, th
 Please note that the Registrar may proceed to appoint an Assessor and to fix a hearing where the Respondent fails to file a <b>Response</b> within the relevant period in Step 5. 
 
 ##### Step 7: Assessor Conducts Hearing and Makes Determination #####
-The hearing will generally be conducted by way of <u>exchange of emails</u> if the Assessor is of the opinion that the forms and documents are sufficient for the him/her to make his/her determination. The Assessor may request for clarifications or further documents by email.
+The hearing will generally be conducted by way of <u>exchange of emails</u>. The Assessor may request for clarifications or further documents by email.
 
 If the Assessor is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
 * Online hearings will be conducted via Webex.
