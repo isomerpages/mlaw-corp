@@ -45,7 +45,7 @@ second_nav_title: Frequently Asked Questions
 
 * For the avoidance of doubt, the rent continues to accrue in the interim.  You are therefore encouraged to use the period of the temporary protection to work out a solution. 
 
-* In the event of a dispute over the Notification for Relief, either party may make an application to the panel of Assessors for a determination on the case. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms.
+* In the event of a dispute over whether there is an inability to pay rent, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **g. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
 
@@ -59,7 +59,9 @@ second_nav_title: Frequently Asked Questions
 
 * If a Notification for Relief has been served, it will be an offence under the Act for the landlord to evict you from the premises, terminate your lease or start court or insolvency proceedings against you. 
 
-* You can also make an application to the panel of Assessors for a determination on the case. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
+* If your landlord attempts to take an unlawful action, you may seek an injunction from the court prohibiting the eviction/termination.  In this regard, you should seek legal advice on whether an injunction is available to you.
+
+* If there is a disagreement over the Notification for Relief, either party may also make an application to the Assessors for a determination on the case. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
 
 **i. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
