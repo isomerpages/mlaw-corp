@@ -2,32 +2,41 @@
 layout: post
 title: COVID-19 (Temporary Measures) Act Provisions relating to Temporary Reliefs to Commence on 20 April 2020
 date: 2020-04-20
-permalink: /news/press-releases/2020-04-20-COVID-19_Temporary_Measures_Act_Provisions_relating_to_Temporary_Reliefs_to_Commence_on_20_April_2020
+permalink: /news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provisions-relating-to-Temporary-Reliefs-to-Commence-on-20-April-2020
 ---
 
 20 Apr 2020 Posted in [Press releases](/news/press-releases)
 
-1.  The provisions in the COVID-19 (Temporary Measures) Act ("the Act") relating to temporary relief from legal action for inability to perform certain contracts, as well as increased thresholds for bankruptcy and insolvency for financially distressed individuals and businesses, will commence on 20 April 2020.
+<ol start="1">
+<li>The provisions in the COVID-19 (Temporary Measures) Act ("the Act") relating to temporary relief from legal action for inability to perform certain contracts, as well as increased thresholds for bankruptcy and insolvency for financially distressed individuals and businesses, will commence on 20 April 2020.</li>
+</ol>
 
 **A.	Temporary Relief for Inability to Perform Contracts**
 
-2.  The Coronavirus Disease 2019 (COVID-19) has created an unprecedented economic shock. Many individuals and businesses have been unable to perform contractual obligations because of COVID-19 and the resulting safe distancing measures.
+<ol start="2">
+<li>The Coronavirus Disease 2019 (COVID-19) has created an unprecedented economic shock. Many individuals and businesses have been unable to perform contractual obligations because of COVID-19 and the resulting safe distancing measures.</li>
+</ol>
 
-3.  The provisions in the Act provide temporary relief from legal action for those who are unable to perform certain types of contracts because of COVID-19. The measures apply to contractual obligations that are to be performed on or after 1 February 2020 and only for contracts that were entered into before 25 March 2020. Details on the categories of contracts covered and the relief provided under the Act are in the <u>Annex</u>.
-
-4.  The period of relief will be for six months, from 20 April 2020 to 19 October 2020, in the first instance. The period of relief may be extended to up to a year.
+<ol start="3">
+<li>The provisions in the Act provide temporary relief from legal action for those who are unable to perform certain types of contracts because of COVID-19. The measures apply to contractual obligations that are to be performed on or after 1 February 2020 and only for contracts that were entered into before 25 March 2020. Details on the categories of contracts covered and the relief provided under the Act are in the <u>Annex</u>.</li>
+</ol>
+  
+<ol start="4">
+<li>The period of relief will be for six months, from 20 April 2020 to 19 October 2020, in the first instance. The period of relief may be extended to up to a year.</li>
+</ol>
 
 <u>How to Obtain Relief</u>
 
-5.  Those who are unable to perform their contracts because of COVID-19 are encouraged to negotiate with the other party to resolve the matter.
+<ol start-"5">
+<li>Those who are unable to perform their contracts because of COVID-19 are encouraged to negotiate with the other party to resolve the matter.</li>
+</ol>
 
 <ol start="6">
 <li>If they require protection from legal proceedings and wish to obtain temporary relief under the Act, they should:
 <br>
 <ol style="list-style-type: lower-alpha">
-<li>First, <b>confirm that they are eligible</b> for relief. They may visit http://www.mlaw.gov.sg/covid19-relief for more information.</li>
-<br>
-<li> Second, <b>serve a Notification for Relief on the other party or parties to the contract</b>, using the form at http://www.mlaw.gov.sg/covid19-relief/notification-for-relief. The Notification for Relief sets out the obligation that is or was supposed to be performed, how the inability to perform the obligation was materially caused by a COVID-19 event, and any proposed alternative solution. The Notification for Relief must also be served on any guarantor or surety for the obligation in the contract, and/or the issuer of any related performance bond (if any).</li>
+<li>First, <b>confirm that they are eligible</b> for relief. They may visit <a>http://www.mlaw.gov.sg/covid19-relief</a> for more information.</li>
+<li> Second, <b>serve a Notification for Relief on the other party or parties to the contract</b>, using the form at <a>http://www.mlaw.gov.sg/covid19-relief/notification-for-relief</a>. The Notification for Relief sets out the obligation that is or was supposed to be performed, how the inability to perform the obligation was materially caused by a COVID-19 event, and any proposed alternative solution. The Notification for Relief must also be served on any guarantor or surety for the obligation in the contract, and/or the issuer of any related performance bond (if any).</li>
 </ol>
 </li></ol>
 
@@ -46,7 +55,7 @@ permalink: /news/press-releases/2020-04-20-COVID-19_Temporary_Measures_Act_Provi
 </ol>
 
 <ol start="10">
-<li>If the parties are unable to reach a compromise on their own, after a Notification for Relief is served, either party can make an Application for an Assessor's Determination. The application will be made to the Panel of Assessors for COVID-19 Temporary Relief (PACT), appointed by the Minister for Law. An Application for an Assessor's Determination may be made to PACT via http://www.mlaw.gov.sg/covid19-relief/application-for-assessor.</li>
+<li>If the parties are unable to reach a compromise on their own, after a Notification for Relief is served, either party can make an Application for an Assessor's Determination. The application will be made to the Panel of Assessors for COVID-19 Temporary Relief (PACT), appointed by the Minister for Law. An Application for an Assessor's Determination may be made to PACT via <a>http://www.mlaw.gov.sg/covid19-relief/application-for-assessor</a>.</li>
 </ol>
 
 <ol start="11">
@@ -59,7 +68,7 @@ against any party.</li>
 </ol>
 
 <ol start="13">
-<li>Further information on obtaining relief and the process of application to PACT is available at http://www.mlaw.gov.sg/covid19-relief.</li>
+<li>Further information on obtaining relief and the process of application to PACT is available at <a>http://www.mlaw.gov.sg/covid19-relief</a>.</li>
 </ol>
 
 **B.	Temporary Relief for Financially Distressed Individuals and Businesses**
