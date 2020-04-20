@@ -31,10 +31,10 @@ second_nav_title: Frequently Asked Questions
 
 **c. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
-* If you are **unable to pay** instalments on the hire-purchase agreement **due to COVID-19**, the finance/leasing company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
+* If you are **unable to pay** instalments on the hire-purchase agreement **due to COVID-19**, the finance company cannot take the following actions against you for 6 months (i.e. up to 19 October 2020): 
 
-  * Repossess the plant, machinery or fixed asset that is used for business, or repossess your commercial vehicle
-  * Start or continue court proceedings or insolvency proceedings
+  * Repossess the plant, machinery or fixed asset that is used for business, or repossess your commercial vehicle.
+  * Start or continue court proceedings or insolvency proceedings.
 
 **d. What must I do to enjoy the reliefs?** 
 
@@ -42,7 +42,7 @@ second_nav_title: Frequently Asked Questions
 
 *  If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the agreement, and your guarantor/surety (where applicable), using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
-* Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (d).
+* Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (c).
 
 #### Specific FAQs ####
 
@@ -92,7 +92,7 @@ Eligibility and scope of the relief
 
 **k. Do I have to pay the accrued unpaid instalments (and other charges if any) after the 6-month relief period?**
 
-* Yes.  The unpaid instalments (and any other charges such as interest or fees for late payment, if provided for under the contract) continue to accrue during the relief period, and may be enforced after the relief period. 
+* Yes.  The unpaid instalments (and any other charges such as interest or fees for late payment, if provided for under the contract) continues to accrue during the relief period, and may be enforced after the relief period. 
 
 * The Act does not remove or absolve parties’ contractual obligations, but seeks to temporarily prohibit the finance company from enforcing the contract during the relief period. This gives you some breathing space without the threat of repossession or litigation to sort out your finances, and time for you and the finance company to negotiate and reach a mutually acceptable solution.  
 
