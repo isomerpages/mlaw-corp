@@ -9,12 +9,12 @@ second_nav_title: Frequently Asked Questions
 
 ### Frequently Asked Questions ###
 
-a. [Lease or licence of non-residential property]
+a. [Lease or licence of non-residential property](/covid19-relief/faq/lease-licence)
 
 b. [Loans by banks and finance companies to Singapore SMEs](/covid19-relief/faq/sme-loans)
 
 c. [Event and tourism-related contracts](/covid19-relief/faq/Event-or-tourism-related-contract)
 
-d. [Hirers in hire-purchase or conditional sales agreements](/covid19-relief/faq/Hire-purchase-agreements)
+d. [Hire-purchase agreements](/covid19-relief/faq/Hire-purchase-agreements)
 
-e. [Non-residential property tenants](/covid19-relief/faq/Construction)
+e. [Construction contracts or supply contracts, or any performance bond granted thereto](/covid19-relief/faq/Construction)
