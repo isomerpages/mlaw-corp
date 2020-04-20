@@ -40,7 +40,7 @@ Within <b>2 working days</b> after receiving the documents from the Registrar in
 
 The documents can be served on the Respondent by:
 * Email; or
-* Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/act/covid19tma2020#P12-){:target="_blank"}.
+* Other modes of service set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
 
 ##### Step 4: Applicant Submits Declaration of Service #####
 The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the relevant parties, within <b>1 working day</b> of completing Step 3:
@@ -50,15 +50,15 @@ The Applicant must submit to the Registrar a <b>Declaration of Service</b> demon
 
 ##### Step 5: Respondent Submits Response #####
 The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>Response</b> on the following parties where applicable within <b>5 working days</b> after being served the documents in Step 3:
-* The Applicant
+* The Applicant;
 * The guarantor or surety of the obligation; and
 * The Issuer of a Related Performance Bond.
 
-To submit and serve the <b>Response</b> using the electronic system (if the Respondent has the emails of the above parties):
+To submit and serve the <b>Response</b> using the electronic system (if the Respondent has the email addresses of the above parties):
 * For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
 * For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
 
-Other modes of service of the Response are set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/act/covid19tma2020#P12-){:target="_blank"}.
+Other modes of service of the Response are set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Registrar may proceed to appoint an Assessor, and the Assessor may make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
