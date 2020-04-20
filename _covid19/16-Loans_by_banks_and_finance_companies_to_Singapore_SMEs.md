@@ -10,7 +10,7 @@ second_nav_title: Frequently Asked Questions
 
 #### General FAQs ####
 **a. What kinds of loans are covered?**
-* •	The Act covers loans to an enterprise that is secured against:
+* The Act covers loans to an enterprise that is secured against:
 
   * Any commercial or industrial immovable property located in Singapore (e.g. factory premises, retail space); or 
 
