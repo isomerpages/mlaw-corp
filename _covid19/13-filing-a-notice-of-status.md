@@ -18,6 +18,6 @@ you must submit a <b>Notification of Status of Application for Determination</b>
 2. The conclusion of proceedings before the Assessor, which is when: 
 	i. The Assessor has given a determination;
 	ii. The Assessor has dismissed the Application; or
-  	iii.The Application is withdrawn. 
+	iii.The Application is withdrawn. 
 
 To submit a <b>Memorandum of Notification for Relief</b> to the Court, you have to file the document via eLitigation under "Other Hearing Related Request". If you are represented by a lawyer, you may ask your lawyer to do the filing. If you are unrepresented, you may file the document at the LawNet Service Bureau located at the Supreme Court.
