@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Withdrawal of Notification for Relief
-permalink: /covid19-relief/withdrawl-notification-for-relief
+permalink: /covid19-relief/withdrawal-notification-for-relief
 breadcrumb: Withdrawal of Notification for Relief
 collection_name: covid19
 ---
@@ -26,8 +26,5 @@ The party must also submit to the Registrar a <b>Declaration of the Service</b> 
 ##### Step 3 #####
 (This only applies if a party had previously lodged the Notification for Relief to obtain a stay or dismissal of court or arbitral proceedings, which is covered in [here](/covid19-relief/memorandum-of-notification).)
 
-The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a Memorandum of Service of the Notice of Withdrawal within 2 working days after completing Step 1.
-
-To submit a Memorandum of Service of the Notice of Withdrawal with the Court, you have to file the document in the proceedings via eLitigation under "Other Hearing Related Request ". If you are represented by a lawyer, you may ask your lawyer to do the filing. If you are unrepresented, you may file the document at the LawNet Service Bureau located at the Supreme Court. 
-
+The party who had previously [lodged a copy of the Notification for Relief](/covid19-relief/memorandum-of-notification) with the court or arbitral tribunal must update the court or arbitral tribunal of the withdrawal of the Notification for Relief by submitting a Memorandum of Service of Withdrawal of Notitication for Relief within <b>2 working days</b> after completing Step 1.
 
