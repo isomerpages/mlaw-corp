@@ -45,7 +45,9 @@ second_nav_title: Frequently Asked Questions
 * Once the Notification for Relief has been served on the other party, they cannot take the above actions as in (d).
 
 #### Specific FAQs ####
-Types of agreements and vehicles which the Act applies to 
+
+Types of agreements and vehicles which the Act applies to
+
 **e. I am a private-hire driver and purchased my car through a hire-purchase agreement. I am unable to afford my monthly instalments due to COVID-19. Does the Act apply to me?**
 
 * Yes, the Act applies to hire-purchase agreements where the good hired or conditionally sold under the agreement is a commercial vehicle. This includes chauffeur-driven private-hire cars (with blue decals).
