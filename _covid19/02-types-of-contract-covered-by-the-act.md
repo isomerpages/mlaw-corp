@@ -9,11 +9,11 @@ collection_name: covid19
 
 a. [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf)
 
-b. [Construction and supply contracts](/files/2-Construction-contractors-suppliers.pdf)
+b. [Construction contracts and supply contracts](/files/2-Construction-contractors-suppliers.pdf)
 
 c. [Event and tourism-related contracts](/files/3-Event-tourism-related.pdf)
 
 d. [Hire-purchase and conditional sales agreements](/files/4-Hirers.pdf)
 
-e. [Leases and licences for non-residential property](/files/5-Non-residential.pdf)
+e. [Leases and licences of non-residential property](/files/5-Non-residential.pdf)
 
