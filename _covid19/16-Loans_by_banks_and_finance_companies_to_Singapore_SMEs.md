@@ -58,13 +58,13 @@ second_nav_title: Frequently Asked Questions
 
 * No, the Act does not cover unsecured loans. 
 
-* If you require financial assistance, you may wish to consider the relief measures to ease the financial strain on individuals and SMEs. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at https://www.mas.gov.sg/regulation/covid-19, and the statement by the Association of Banks in Singapore at https://abs.org.sg/consumer-banking/sfrp
+* If you require financial assistance, you may wish to consider the relief measures to ease the financial strain on individuals and SMEs. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at [https://www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19), and the statement by the Association of Banks in Singapore at [https://abs.org.sg/consumer-banking/sfrp](https://abs.org.sg/consumer-banking/sfrp)
 
 **h. Are unsecured loans (e.g. debt incurred on a corporate credit card) covered by the Act?**
 
 * No, the Act does not cover unsecured loans. 
 
-* Credit Counselling Singapore (CCS) has extended its debt restructuring programme to include individuals who have taken loans from licensed moneylenders (provided that these individuals also have bank loans). For more information, please refer to CCS’ website at https://www.ccs.org.sg/media/200401/  
+* Credit Counselling Singapore (CCS) has extended its debt restructuring programme to include individuals who have taken loans from licensed moneylenders (provided that these individuals also have bank loans). For more information, please refer to CCS’ website at [https://www.ccs.org.sg/media/200401/](https://www.ccs.org.sg/media/200401/)  
 
 **i. My bank or finance company had already repossessed my commercial or industrial property / plant, machinery or fixed asset before the Act commenced. Does the Act apply to me?**
 
@@ -76,4 +76,4 @@ second_nav_title: Frequently Asked Questions
 
 * The Act does not cover any personal loan extended to by individuals, whether secured or unsecured.
 
-* You may wish to engage your creditor on available relief. There are relief measures available which enable individuals to apply to their lender to defer either (i) principal payment or (ii) both principal and interest payments up to 31 December 2020. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at https://www.mas.gov.sg/regulation/covid-19, and the statement by the Association of Banks in Singapore at https://abs.org.sg/consumer-banking/sfrp.
+* You may wish to engage your creditor on available relief. There are relief measures available which enable individuals to apply to their lender to defer either (i) principal payment or (ii) both principal and interest payments up to 31 December 2020. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at [https://www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19), and the statement by the Association of Banks in Singapore at [https://abs.org.sg/consumer-banking/sfrp](https://abs.org.sg/consumer-banking/sfrp)
