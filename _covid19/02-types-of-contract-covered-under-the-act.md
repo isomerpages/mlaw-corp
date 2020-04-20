@@ -13,6 +13,6 @@ b. Construction and supply contracts
 
 c. Event and tourism-related contracts
 
-d. Hire-purchase or conditional sales agreements
+d. Hire-purchase and conditional sales agreements
 
 e. Leases and licences for non-residential property
