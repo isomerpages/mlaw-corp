@@ -27,7 +27,7 @@ permalink: /news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provi
 
 <u>How to Obtain Relief</u>
 
-<ol start-"5">
+<ol start="5">
 <li>Those who are unable to perform their contracts because of COVID-19 are encouraged to negotiate with the other party to resolve the matter.</li>
 </ol>
 
@@ -35,8 +35,8 @@ permalink: /news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provi
 <li>If they require protection from legal proceedings and wish to obtain temporary relief under the Act, they should:
 <br>
 <ol style="list-style-type: lower-alpha">
-<li>First, <b>confirm that they are eligible</b> for relief. They may visit <a>http://www.mlaw.gov.sg/covid19-relief</a> for more information.</li>
-<li> Second, <b>serve a Notification for Relief on the other party or parties to the contract</b>, using the form at <a>http://www.mlaw.gov.sg/covid19-relief/notification-for-relief</a>. The Notification for Relief sets out the obligation that is or was supposed to be performed, how the inability to perform the obligation was materially caused by a COVID-19 event, and any proposed alternative solution. The Notification for Relief must also be served on any guarantor or surety for the obligation in the contract, and/or the issuer of any related performance bond (if any).</li>
+<li>First, <b>confirm that they are eligible</b> for relief. They may visit <a href="http://www.mlaw.gov.sg/covid19-relief">http://www.mlaw.gov.sg/covid19-relief</a> for more information.</li>
+<li> Second, <b>serve a Notification for Relief on the other party or parties to the contract</b>, using the form at <a href="http://www.mlaw.gov.sg/covid19-relief/notification-for-relief">http://www.mlaw.gov.sg/covid19-relief/notification-for-relief</a>. The Notification for Relief sets out the obligation that is or was supposed to be performed, how the inability to perform the obligation was materially caused by a COVID-19 event, and any proposed alternative solution. The Notification for Relief must also be served on any guarantor or surety for the obligation in the contract, and/or the issuer of any related performance bond (if any).</li>
 </ol>
 </li></ol>
 
@@ -55,7 +55,7 @@ permalink: /news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provi
 </ol>
 
 <ol start="10">
-<li>If the parties are unable to reach a compromise on their own, after a Notification for Relief is served, either party can make an Application for an Assessor's Determination. The application will be made to the Panel of Assessors for COVID-19 Temporary Relief (PACT), appointed by the Minister for Law. An Application for an Assessor's Determination may be made to PACT via <a>http://www.mlaw.gov.sg/covid19-relief/application-for-assessor</a>.</li>
+<li>If the parties are unable to reach a compromise on their own, after a Notification for Relief is served, either party can make an Application for an Assessor's Determination. The application will be made to the Panel of Assessors for COVID-19 Temporary Relief (PACT), appointed by the Minister for Law. An Application for an Assessor's Determination may be made to PACT via <a href="http://www.mlaw.gov.sg/covid19-relief/application-for-assessor">http://www.mlaw.gov.sg/covid19-relief/application-for-assessor</a>.</li>
 </ol>
 
 <ol start="11">
@@ -68,7 +68,7 @@ against any party.</li>
 </ol>
 
 <ol start="13">
-<li>Further information on obtaining relief and the process of application to PACT is available at <a>http://www.mlaw.gov.sg/covid19-relief</a>.</li>
+<li>Further information on obtaining relief and the process of application to PACT is available at <a href="http://www.mlaw.gov.sg/covid19-relief">http://www.mlaw.gov.sg/covid19-relief</a>.</li>
 </ol>
 
 **B.	Temporary Relief for Financially Distressed Individuals and Businesses**
