@@ -18,7 +18,7 @@ To serve the <b>Notice of Withdrawal</b> using the electronic system (if you hav
 * For parties who are individuals, please use this [link (SingPass)](https://go.gov.sg/withdrawal-of-notification-singpass){:target="_blank"}.
 * For parties which are business entities, please use this [link (CorpPass)](https://go.gov.sg/withdrawal-of-notification-corppass){:target="_blank"}.
 
-Other modes of service set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
+Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
 
 ##### Step 2 #####
 The party must also submit to the Registrar a <b>Declaration of the Service</b> demonstrating that the Notice of Withdrawal has been served on the parties in Step 1, within <b>2 working days</b> of completing Step 1:
