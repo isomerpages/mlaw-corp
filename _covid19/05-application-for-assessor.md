@@ -58,7 +58,7 @@ To submit and serve the <b>Response</b> using the electronic system (if the Resp
 * For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
 * For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
 
-Other modes of service of the Response are set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
+Other modes of service of the Response are set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Registrar may proceed to appoint an Assessor, and the Assessor may make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
