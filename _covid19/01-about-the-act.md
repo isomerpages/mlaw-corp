@@ -7,7 +7,7 @@ collection_name: covid19
 ---
 ### About the Act ###
 
-The COVID-19 (Temporary Measures) Act 2020 (“the Act”) seeks to offer temporary relief to businesses and individuals who are unable to perform their contractual obligations due <u>on or after</u> 1 February 2020 because of COVID-19.
+The [COVID-19 (Temporary Measures) Act 2020 (“the Act”)](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} seeks to offer temporary relief to businesses and individuals who are unable to perform their contractual obligations due <u>on or after</u> 1 February 2020 because of COVID-19.
  
 The Act covers relevant contractual obligations that are to be performed <u>on or after</u> 1 February 2020, for contracts that were entered into <u>before</u> 25 March 2020.
  
