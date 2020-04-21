@@ -40,7 +40,7 @@ Within <b>2 working days</b> after receiving the documents from the Registrar in
 
 The documents can be served on the Respondent by:
 * Email; or
-* Other modes of service set out in the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020.
+* Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
 
 ##### Step 4: Applicant Submits Declaration of Service #####
 The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the relevant parties, within <b>1 working day</b> of completing Step 3:
