@@ -9,6 +9,7 @@ permalink: /news/announcements/2020-04-22-Commencement-of-the-COVID-19-Temporary
 
 **Objective**
 
+<ol>
 <li> This information note informs the built environment sector of the commencement of the provisions relating to temporary reliefs under the COVID-19 (Temporary Measures) Act ("<b>COVID-19 Act</b>") from <b><u>20 April 2020</u></b>.</li>
 
 **Background**
@@ -43,12 +44,13 @@ permalink: /news/announcements/2020-04-22-Commencement-of-the-COVID-19-Temporary
 Assessor's determination in subsequent legal or other dispute resolution proceedings – either adjudication (under the Building and Construction Industry Security of Payment Act), arbitration or litigation. <b>The substantial merits and defences will be decided separately in these proceedings between the relevant parties, separate from the regime under the COVID-19 Act.</b></li>
 
 <li> For the application of the COVID-19 Act to specific disputes in the built environment sector, please refer to the COVID-19 Act or seek legal advice. You may also refer to the FAQs enclosed with this information note for more information.</li>
-
+</ol>
 
 <b>MINISTRY OF LAW</b>
 <br>
 <b>BUILDING AND CONSTRUCTION AUTHORITY</b>
 <br>
 <b>22 APR 2020</b>
+<br><br>
 
-FAQs[/files/news/announcements/2020/01/MinLaw-BCA_InfoNote_FAQs.pdf]
+[FAQs (163KB)](/files/news/announcements/2020/01/MinLaw-BCA_InfoNote_FAQs.pdf)
