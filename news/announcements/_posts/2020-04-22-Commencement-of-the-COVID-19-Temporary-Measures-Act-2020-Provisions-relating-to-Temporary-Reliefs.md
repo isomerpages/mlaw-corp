@@ -30,7 +30,6 @@ permalink: /news/announcements/2020-04-22-Commencement-of-the-COVID-19-Temporary
 
 <li> First, the call on a performance bond (or equivalent) by the non-defaulting party will be prohibited for a prescribed period of 6 months (until 19 October 2020). Second, any liquidated damages or other damages payable under the contract due to delays sustained in the period starting from 1 February 2020 to 19 October 2020 caused materially by COVID-19 are to be disregarded. Third, the fact that a party was unable to perform an obligation to supply goods or materials due materially to COVID-19 is a defence to a claim for a breach of contract.</li>
 </ol>
-<br>
 
 <b>Obtaining Relief under the COVID-19 Act</b>
 
@@ -51,7 +50,7 @@ permalink: /news/announcements/2020-04-22-Commencement-of-the-COVID-19-Temporary
 
 <li> For the application of the COVID-19 Act to specific disputes in the built environment sector, please refer to the COVID-19 Act or seek legal advice. You may also refer to the FAQs enclosed with this information note for more information.</li>
 </ol>
-<br>
+
 
 [FAQs (163KB)](/files/news/announcements/2020/01/MinLaw-BCA_InfoNote_FAQs.pdf)
 
