@@ -21,7 +21,7 @@ To serve the <b>Notice of Withdrawal</b> using the electronic system (if you hav
 Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
 
 ##### Step 2 #####
-The party must also submit to the Registrar a <b>Declaration of the Service</b> demonstrating that the Notice of Withdrawal has been served on the parties in Step 1, within <b>2 working days</b> of completing Step 1:
+If an Application for an Assessor’s Determination has already been submitted to the Registrar, the party must also submit to the Registrar a <b>Declaration of the Service</b> demonstrating that the Notice of Withdrawal has been served on the parties in Step 1, within <b>2 working days</b> of completing Step 1:
 * For Applicants who are individuals, please use this [link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
 * For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
 
