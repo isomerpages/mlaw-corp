@@ -18,8 +18,8 @@ The party seeking relief must serve a <b>Notification for Relief</b> on the foll
 * The issuer of a performance bond or equivalent for the performance of the obligation, where the contract is a construction contract or supply contract (“<b>Issuer of Related Performance Bond</b>”).
 
 To serve the <b>Notification for Relief</b> using the electronic system (if you have the email addresses of the above parties):
-* For parties who are <u>individuals</u>, please use this link (SingPass). (Note that this form is currently available. Please try again later.)
-* For parties which are <u>business entities</u>, please use this link (CorpPass).(Note that this form is currently available. Please try again later.)
+* For parties who are <u>individuals</u>, please use this link (SingPass). (Note that this form is currently unavailable. Please try again later.)
+* For parties which are <u>business entities</u>, please use this link (CorpPass).(Note that this form is currently unavailable. Please try again later.)
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
