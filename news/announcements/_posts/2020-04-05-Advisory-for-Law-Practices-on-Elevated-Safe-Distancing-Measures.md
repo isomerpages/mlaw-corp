@@ -7,20 +7,20 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 
 05 Apr 2020 Posted in [Announcements](/news/announcements)
 
-1.      On 3 April 2020, the Prime Minister and the Multi-Ministry Taskforce announced the implementation of a set of elevated safe distancing measures to pre-empt the trend of increasing local transmission of COVID-19. These measures, including the suspension of business activities, are intended to significantly reduce physical movements and interactions in public and private places. Other than essential services and their related supply chains and service providers, all other business, social, or other activities that cannot be conducted through telecommuting or other means from home shall be suspended from 7 April 2020 to 4 May 2020 (both dates inclusive).
+1.      On 3 April 2020, the Prime Minister and the Multi-Ministry Taskforce announced the implementation of a set of elevated safe distancing measures to pre-empt the trend of increasing local transmission of COVID-19. These measures, including the suspension of business activities, are intended to significantly reduce physical movements and interactions in public and private places. Other than essential services and their related supply chains and service providers, all other business, social, or other activities that cannot be conducted through telecommuting or other means from home shall be suspended during the Circuit Breaker period which has been extended to 1 June 2020.
 
 {:start="2"}
 2.      While legal services in general has not been included as one of the essential services, the Ministry of Law recognises that certain legal activities are urgent and essential, and has worked with the relevant agencies to include the following categories of legal activities as essential services. **For these categories of legal activities, law practices are required to submit a one-time general exemption application at [https://covid.gobusiness.gov.sg/](https://covid.gobusiness.gov.sg/).**
 
 <ol style="list-style-type: lower-alpha">
-<li>  Essential and urgent matters specified in the Registrar’s Circulars issued by each court in respect of criminal, civil and family matters wherein during the period 7 April 2020 to 4 May 2020 (both dates inclusive):</li>
+<li>  Essential and urgent matters specified in the Registrar’s Circulars issued by each court in respect of criminal, civil and family matters wherein:</li>
 <ol style="list-style-type: lower-roman">
 <li>attendance by the solicitor is required by the court; and/or</li>
 <li>adjudication hearings fixed under the Building and Construction Industry Security of Payment Act;</li>
 </ol>
-<li>  Commercial transactions or actions having statutory, regulatory or contractual deadlines (whether local or foreign) falling within the period 7 April 2020 to 4 May 2020 (both dates inclusive) for which no waiver or deferment has been or will be granted or transactions or actions for which completion is due or time is of the essence in this said period;</li>
-<li>Conveyancing transactions with deadlines where time is of the essence or with milestone deadlines to be met within the period 7 Apr 2020 to 4 May 2020 (both dates inclusive) including but not limited to exercise of option and completion deadlines, and timelines affecting progress payments, deposits, monies in escrow and completion monies; and</li>
-<li>Urgent and essential Wills and Probate advisory and transactional services (for example the drafting of wills and execution of lasting powers of attorney for the vulnerable) required within the period 7 April 2020 to 4 May 2020 (both dates inclusive), for which no deferment may be made.</li>
+<li>  Commercial transactions or actions having statutory, regulatory or contractual deadlines (whether local or foreign) for which no waiver or deferment has been or will be granted or transactions or actions for which completion is due or time is of the essence in this said period;</li>
+<li>Conveyancing transactions with deadlines where time is of the essence or with milestone deadlines to be met including but not limited to exercise of option and completion deadlines, and timelines affecting progress payments, deposits, monies in escrow and completion monies; and</li>
+<li>Urgent and essential Wills and Probate advisory and transactional services (for example the drafting of wills and execution of lasting powers of attorney for the vulnerable) for which no deferment may be made.</li>
 </ol>
 
 {:start="3"}
@@ -53,4 +53,4 @@ For more information, please refer to our [FAQs](/files/news/announcements/2020/
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b>05 APRIL 2020</b>
+<b>24 APRIL 2020</b>
