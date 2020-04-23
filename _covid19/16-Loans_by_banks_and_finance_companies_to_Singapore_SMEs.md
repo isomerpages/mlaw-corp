@@ -60,7 +60,7 @@ second_nav_title: Frequently Asked Questions
 
 * If you require financial assistance, you may wish to consider the relief measures to ease the financial strain on individuals and SMEs. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at [https://www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19), and the statement by the Association of Banks in Singapore at [https://abs.org.sg/consumer-banking/sfrp](https://abs.org.sg/consumer-banking/sfrp)
 
-**h. Are unsecured loans (e.g. debt incurred on a corporate credit card) covered by the Act?**
+**h. Are loans from moneylenders, which are not a bank or finance company, covered by this Act?**
 
 * No, the Act does not cover unsecured loans. 
 
