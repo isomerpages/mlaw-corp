@@ -29,7 +29,7 @@ The Registrar will review the <b>Application</b>.
 
 If the Registrar is satisfied that the <b>Application</b> is in order, the Registrar will send the Applicant:
 * An acknowledgment of receipt of the Application; and
-* A <b>Response</b> or link to the <b>Response</b> form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
+* A <b>Response</b> form or link to the <b>Response</b> form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
 ##### Step 3: Applicant Serves Documents on Respondent #####
 Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following parties where applicable:
