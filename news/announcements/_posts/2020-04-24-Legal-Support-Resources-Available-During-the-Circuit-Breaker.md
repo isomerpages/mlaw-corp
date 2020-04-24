@@ -2,7 +2,7 @@
 layout: post
 title: Legal Support Resources Available During the Circuit Breaker
 date:   2020-04-24
-permalink: /news/announcements/2020-04-22-Legal-Support-Resources-Available-During-the-Circuit-Breaker
+permalink: /news/announcements/Legal-Support-Resources-Available-During-the-Circuit-Breaker
 ---
 
 24 Apr 2020 Posted in [Announcements](/news/announcements)
