@@ -19,7 +19,7 @@ The party seeking relief must serve a <b>Notification for Relief</b> on the foll
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 
-#### Service by the electronic system ####
+##### Service by the electronic system #####
 To serve the <b>Notification for Relief</b> using the electronic system (if you have an email address and and the email address(es) of the Recipient(s)):
 * If you are acting on behalf of a <u><b>business entity that is party to the contract</b></u>, you must use this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"}.
 * If you are the party to the contract, please use this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
