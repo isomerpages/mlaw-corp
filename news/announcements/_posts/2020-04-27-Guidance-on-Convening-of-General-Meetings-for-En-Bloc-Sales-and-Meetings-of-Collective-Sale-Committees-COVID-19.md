@@ -16,6 +16,7 @@ permalink: /news/announcements/2020-04-27-Guidance-on-Convening-of-General-Meeti
 
 <li> MCs and CSCs which decide to conduct such meetings in accordance with the Order during the Relevant Period may wish to refer to the guidance in the <u>Annex</u>. MCs which receive a relevant requisition for an en bloc sale during the Relevant Period may defer the corresponding general meeting beyond the statutory due date, if necessary. However, deferrals are not permitted under the Order after 30
 September 2020.</li>
+</ol>
 
 
 [Annex (368KB)](/files/news/announcements/2020/01/Annex_LTSA_Alternative_Meeting_Arrangements.pdf)
