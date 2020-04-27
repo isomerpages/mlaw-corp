@@ -62,7 +62,7 @@ second_nav_title: Frequently Asked Questions
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (d) above will apply.
 
 #### Specific FAQs ####
-I am a consumer in an event/tourism-related contract…
+<u>I am a consumer in an event/tourism-related contract…</u>
 
 **f. What happens if my vendor has already forfeited my deposit before I served a Notification for Relief?**
 
@@ -86,41 +86,33 @@ I am a consumer in an event/tourism-related contract…
 
 * With respect to the deposit, we encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. This may include a partial refund of the deposit. If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.  
 
-* With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on [20 April 2020], or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
+* With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on 20 April 2020, or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
 
-**i. My event or tour is to occur after 19 October 2020 (i.e. more than 6 months after the Act comes into force). Does the Act apply to me?**
-
-* Yes, but only if the contract was entered into before 25 March 2020, and now cannot be carried out **because of COVID-19.**
-
-* With respect to the deposit, your vendor cannot forfeit it, even if the event or tour is scheduled after 19 October 2020. The deposit would continue to be held by the vendor, pending a mutual agreement on how the deposit is to be dealt with, or a determination by an Assessor if a mutual agreement is not possible.
-
-* With respect to the cancellation fees, if you wish to cancel your event or tour that was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
-
-**j. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
+**i. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
 
 * It is possible that the prepayment may be considered a deposit for the purposes of the Act. This depends on the terms of your contract. If the prepayment is considered a deposit for the purposes of the Act, the reliefs applicable to deposits will apply (see (d)). 
 
 * If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. This can potentially include a determination that the prepayment is considered a deposit for the purposes of the Act and should be restored, and how it should be dealt with. Please click [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms
 
-**k. Are air tickets covered under the Act?**
+**j. Are air tickets covered under the Act?**
 
 * Air tickets are not covered by the Act. Most airlines have their own refund or cancellation policy.  You should check the airline’s refund or cancellation policies.
 
-**i. Does the Act cover bookings made on travel intermediaries (e.g. online platforms for hotel/tour bookings)?** 
+**k. Does the Act cover bookings made on travel intermediaries (e.g. online platforms for hotel/tour bookings)?** 
 
 * Bookings on travel intermediaries (such as aggregate booking websites) will be covered under the Act if these bookings were made under Singapore law. 
 
 * Whether the booking was made under Singapore law depends on the terms and conditions of your booking. 
 
-**m. My vendor returned my deposit in the form of vouchers. Can I ask for cash instead?**
+**l. My vendor returned my deposit in the form of vouchers. Can I ask for cash instead?**
 
 * The Act does not mandate how the deposit should be returned. We encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. 
 
 * If you are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. It is possible that the Assessor may determine that giving vouchers rather than cash is a just and equitable outcome. 
 
-I am a vendor in an event/tourism-related contract…
+<u>I am a vendor in an event/tourism-related contract…</u>
 
-**n. I am a vendor and I have already provided some services pursuant to the event or tourism-related contract. Must I provide a full refund if I receive a Notification for Relief?**
+**m. I am a vendor and I have already provided some services pursuant to the event or tourism-related contract. Must I provide a full refund if I receive a Notification for Relief?**
 
 * The Act does not mandate that vendors provide full refunds to the consumers. We encourage parties to discuss and work out an arrangement which is mutually acceptable.
 

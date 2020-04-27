@@ -39,6 +39,8 @@ custom_css_path: "/misc/custom.css"
 
 facebook-pixel: 210948073463406
 
+google-tag-manager: GTM-WBM6PL5
+
 include: 
     - _redirects
 

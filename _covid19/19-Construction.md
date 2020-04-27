@@ -24,7 +24,7 @@ second_nav_title: Frequently Asked Questions
 
 * Calling of a performance bond in relation to your inability to perform your obligations due to COVID-19 earlier than 7 days before its date of expiry will also not be allowed. You can apply to the issuer to extend the term of the performance bond. 
 
-* For more details, please refer to the Ministry of Law and Building and Construction Authority’s joint statement on 20 April 2020, and the FAQs on BCA’s website.
+* For more details, please refer to the Ministry of Law and Building and Construction Authority’s [joint statement](/news/announcements/2020-04-22-commencement-of-the-covid-19-temporary-measures-act-2020-provisions-relating-to-temporary-reliefs) on 20 April 2020, and the FAQs on BCA’s website.
 
 **c. What must I do to enjoy the reliefs?**
 

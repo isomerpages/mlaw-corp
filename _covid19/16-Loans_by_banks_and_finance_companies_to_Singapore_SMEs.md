@@ -68,7 +68,7 @@ second_nav_title: Frequently Asked Questions
 
 **i. My bank or finance company had already repossessed my commercial or industrial property / plant, machinery or fixed asset before the Act commenced. Does the Act apply to me?**
 
-* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to enforcement actions taken before that date. 
+* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to enforcement actions taken before that date. 
 
 * If you believe that your creditor breached the terms of your loan agreement, please seek legal advice.  
 
