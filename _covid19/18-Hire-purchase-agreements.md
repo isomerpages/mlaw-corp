@@ -102,6 +102,6 @@ Eligibility and scope of the relief
 
 **l. My financing company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
 
-* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on [20 April 2020]. It does not apply to repossessions that occurred before that date. 
+* Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to repossessions that occurred before that date. 
 
 * If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
