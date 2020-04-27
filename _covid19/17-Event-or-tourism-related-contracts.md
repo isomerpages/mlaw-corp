@@ -86,7 +86,7 @@ second_nav_title: Frequently Asked Questions
 
 * With respect to the deposit, we encourage you to discuss with your vendor and work out an arrangement which is mutually acceptable. This may include a partial refund of the deposit. If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.  
 
-* With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on [20 April 2020], or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
+* With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on 20 April 2020, or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
 
 **i. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
 
