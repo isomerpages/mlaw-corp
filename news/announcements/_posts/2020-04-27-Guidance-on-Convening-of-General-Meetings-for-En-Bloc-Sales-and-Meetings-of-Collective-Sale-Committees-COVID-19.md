@@ -25,3 +25,6 @@ September 2020.</li>
 <b>MINISTRY OF LAW</b>
 <br>
 <b>27 APRIL 2020</b>
+
+
+<p class="right-side-updated">Last updated on 27 Apr 2020</p>
