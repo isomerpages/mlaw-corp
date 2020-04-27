@@ -29,7 +29,7 @@ Note: It is important that you use the correct link to complete the Notification
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 
-##### Service by other modes if you are unable to use the electronic system #####
+##### Service by other modes if you are unable to use the electronic system ##### 
 If you are unable to serve the **Notification for Relief** using the electronic system, please download the Notification for Relief using this [form](/files/Form-1.pdf){:target="_blank"} and serve the form using the other modes of service.
 
 
