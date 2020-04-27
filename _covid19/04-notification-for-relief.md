@@ -29,18 +29,16 @@ Note: It is important that you use the correct link to complete the Notification
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 
-#### Service by other modes if you are unable to use the electronic system #### 
-
+##### Service by other modes if you are unable to use the electronic system #####
 If you are unable to serve the **Notification for Relief** using the electronic system, please download the Notification for Relief using this [form](/files/Form-1.pdf){:target="_blank"} and serve the form using the other modes of service.
 
 
-#### Changes to the Notification for Relief #### 
+##### Changes to the Notification for Relief ##### 
 You must ensure that the contents of the Notification for Relief are correct. You cannot amend the Notification for Relief.
 * If you entered an incorrect email address for any of the Recipient, you will have to fill in the form again with the correct email address.
 
 * You will not be able to change the contents of the Notification for Relief once it is served. you wish to change the contents of the N, You will need to serve a new Notification for Relief and serve a Notice of Withdrawal in respect of the previous Notification for Relief.
 
-#### Pending Court or Arbitral Proceedings #### 
-
+##### Pending Court or Arbitral Proceedings ##### 
 * If you have served a Notification of Relief, and there are pending court or arbitral proceedings in respect of the obligations covered under the Notification of Relief against you, please refer to [here](/covid19-relief/memorandum-of-notification) for the processes for you to obtain a stay or dismissal of those proceedings.
 
