@@ -10,7 +10,7 @@ permalink: /news/announcements/Legal-Support-Resources-Available-During-the-Circ
 
 1.      During the circuit breaker (7 April 2020 to 1 June 2020, inclusive), the Ministry of Law and many of our partners continue to provide legal assistance to those who need it:
 
-a.  The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://eservices.mlaw.gov.sg/labesvc](https://eservices.mlaw.gov.sg/labesvc) for more information on the eligibility criteria and to submit an online application.
+a.  The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) for more information on the eligibility criteria and to submit an online application.
 
 b.  Law Society Pro Bono Services (LSPBS) provides criminal legal aid to accused persons with limited means, for matters which the Courts continue to hear. Please contact LSPBS at 6534 1564, or [clas@lawsocprobono.org](clas@lawsocprobono.org) for further details.
 
@@ -25,7 +25,7 @@ a.  The iLAB chatbot on the [Legal Aid Bureau’s website](https://lab.mlaw.gov.
 
 b.  The Community Justice Centre’s [Automated Court Document Assembly and Generation (ACDA)](https://www.cjc.org.sg/automated-court-documents-assembly/) provides step-by-step guidance on filing certain court forms.
 
-c.  [The Legal Services Regulatory Authority (LSRA) website](https://www.mlaw.gov.sg/eservices/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
+c.  [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
 
 d.  [The Law Society of Singapore website](https://www.lawsociety.org.sg/) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
 
