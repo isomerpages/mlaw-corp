@@ -9,10 +9,11 @@ collection_name: covid19
 
 You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
 
-Please note that the outcome of the Application will be final. There will be no appeals from the Assessor’s determination. 
+Please note that the outcome of the **Application** will be final. There will be no appeals from the Assessor’s determination. 
 
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
+
 The Application must be accompanied by:
 •	A copy of the **Notification for Relief**;
 •	A copy of the contract or, if there is no written contract, a description of how the contract was made and the relevant terms of the contract; and
