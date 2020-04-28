@@ -15,6 +15,7 @@ Please note that the outcome of the **Application** will be final. There will be
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
 
 The Application must be accompanied by:
+
 •	A copy of the **Notification for Relief**;
 •	A copy of the contract or, if there is no written contract, a description of how the contract was made and the relevant terms of the contract; and
 •	Any other supporting documents.
