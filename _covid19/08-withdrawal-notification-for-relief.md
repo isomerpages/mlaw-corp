@@ -26,7 +26,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 **Service by other modes if you are unable to use the electronic system**
 
-If you are unable to serve the **Withdrawal of Notification for Relief** using the electronic system, please download the **Withdrawal of Notification for Relief** using this [form](/files/covid19-forms/form-3.docx){:target="_blank"} and serve the form using the other modes of service.
+If you are unable to serve the **Withdrawal of Notification for Relief** using the electronic system, please download the **Withdrawal of Notification for Relief** using this [form](/files/covid19-forms/form-3.docx){:target="_blank"} and serve the form using the [other modes of service](/covid19-relief/other-modes-service).
 
 ##### Step 2 #####
 If an **Application for an Assessor’s Determination** has already been submitted to the Registrar, the party must also submit to the Registrar a <b>Declaration of Service</b> demonstrating that the Notice of Withdrawal has been served on the parties in Step 1, within <b>2 working days</b> of completing Step 1:
