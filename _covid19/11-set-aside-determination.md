@@ -7,7 +7,7 @@ collection_name: covid19
 ---
 ### Application to Set Aside a Dismissal or Determination ###
 
-Please note that if a party to an Application is absent from the hearing, the Assessor may nevertheless proceed to make a determination, or dismiss the Application for a determination. If the party had a good reason for being absent, and wishes to set aside the Assessor’s decision, the party may submit an <b>Application to Set Aside a Dismissal or Determination</b>.
+Please note that if a party to an **Application** is absent from the hearing, the Assessor may nevertheless proceed to make a determination, or dismiss the Application for a determination. If the party had a good reason for being absent, and wishes to set aside the Assessor’s decision, the party may submit an <b>Application to Set Aside a Dismissal or Determination</b>.
 
 ##### Step 1 #####
 The party who wishes to set aside the Assessor’s determination must submit to the Registrar an <b>Application to Set Aside a Dismissal or Determination</b> and serve the application on **the other party or parties to the dismissal or determination**.
