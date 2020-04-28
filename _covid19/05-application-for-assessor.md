@@ -67,7 +67,7 @@ To submit and serve the **Response** using the electronic system (if you have an
 * If you are an individual who is a party to the contract, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
 
 **Submission and service by other modes if you are unable to use the electronic system**
-If you are unable to submit and serve the Response using the electronic system, please download the Response using this form and: 
+If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form]((/files/covid19-forms/form-8.docx) and: 
 a.	Send the form to the Registrar by way of email as provided in the acknowledgment of receipt of the Application which was served on you (you should cite the Application No. in your email request); and  
 b.	Serve the form on the Recipient(s) using the [other modes of service](/covid19-relief/other-modes-service). 
 
@@ -104,28 +104,3 @@ The records of the determination will be kept by the Registrar until 20 October 
 
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
-
-
-<!-- 
-<table>
-  <tr>
-    <th width="100">
-      <p style="text-align: justify">Step 1</p>
-    </th>
-    <th>
-      <p style="text-align: justify">Applicant Applies for Assessment</p>
-    </th>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td><p style="text-align: justify">
-      Any party or parties to the contract who wish to apply for an Assessor’s determination (“the Applicant”) must submit to the Registrar an Application after serving or being served the Notification for Relief:
-      <ul>
-<li style="text-align: justify"> For Applicants who are individuals, please use this link (SingPass).</li>
-<li style="text-align: justify">For Applicants which are business entities, please use this link (CorpPass).</li>
-        </ul>
-    </td>
-  </tr>
-</table>
- -->
