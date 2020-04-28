@@ -38,13 +38,13 @@ If the Registrar is satisfied that the <b>Application</b> is in order, the Regis
 * A <b>Response</b> form or link to the <b>Response</b> form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
 ##### Step 3: Applicant Serves Documents on Respondent #####
-Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following Recipients, where applicable:
+Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following **Recipients**, where applicable:
 * The party to the contract who had served the <b>Notification for Relief</b> or the party to the contract who was served the Notification for Relief (“<b>the Respondent</b>”);
 * Every other party to the contract; 
 * Any guarantor or surety for the obligation in the contract; and
 * The Issuer of Related Performance Bond.
 
-The documents can be served on the Recipient(s) by [other modes of service](/covid19-relief/other-modes-service).
+The documents can be served on the Recipient(s) by the [other modes of service](/covid19-relief/other-modes-service).
 
 ##### Step 4: Applicant Submits Declaration of Service #####
 The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the Recipient(s), within <b>1 working day</b> of completing Step 3.
