@@ -70,6 +70,7 @@ To submit and serve the **Response** using the electronic system (if you have an
 **Submission and service by other modes if you are unable to use the electronic system**
 
 If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form](/files/covid19-forms/form-8.docx) and: 
+
 a.	Send the form to the Registrar by way of email as provided in the acknowledgment of receipt of the Application which was served on you (you should cite the Application No. in your email request); and  
 b.	Serve the form on the Recipient(s) using the [other modes of service](/covid19-relief/other-modes-service). 
 
