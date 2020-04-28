@@ -33,7 +33,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 If you are unable to serve the Notification for Relief using the electronic system, please download the Notification for Relief using this [form](/files/Form-1.pdf){:target="_blank"} and serve the form using the [other modes of service](/covid19-relief/other-modes-service).
 
 ##### Changes to the Notification for Relief #####
-You must ensure that the contents of the Notification for Relief are correct. You will not be able to change the contents of the Notification for Relief once it is served. If you made an error in the Notification for Relief that you served on the Recipient(s), you will need to serve a new Notification for Relief and serve a [Withdrawal of Notification for Relief](covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
+You must ensure that the contents of the Notification for Relief are correct. You will not be able to change the contents of the Notification for Relief once it is served. If you made an error in the Notification for Relief that you served on the Recipient(s), you will need to serve a new Notification for Relief and serve a [Withdrawal of Notification for Relief](/covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
 
 ##### Pending Court or Arbitral Proceedings ##### 
 If you have served a Notification of Relief, and there are pending court or arbitral proceedings in respect of the obligations covered under the Notification of Relief against you, please refer to [here](/covid19-relief/memorandum-of-notification) for the processes for you to obtain a stay or dismissal of those proceedings.
