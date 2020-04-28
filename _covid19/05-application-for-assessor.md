@@ -9,20 +9,25 @@ collection_name: covid19
 
 You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
 
-Please note that the outcome of the Application will be final. There will be no appeals against the Assessor’s determination. 
+Please note that the outcome of the Application will be final. There will be no appeals from the Assessor’s determination. 
 
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
-* For Applicants who are individuals, please use this [link (SingPass)](https://go.gov.sg/application-for-determination-singpass){:target="_blank"}.
-* For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/application-for-determination-corppass){:target="_blank"}.
+The Application must be accompanied by:
+•	A copy of the **Notification for Relief**;
+•	A copy of the contract or, if there is no written contract, a description of how the contract was made and the relevant terms of the contract; and
+•	Any other supporting documents.
 
-The <b>Application</b> must be accompanied by:
-* A copy of the <b>Notification for Relief</b>;
-* A copy of the contract or, if there is no written contract, a description of how the contract was made and the relevant terms of the contract; and
-* Any other supporting documents.
+Currently, an **Application for an Assessor’s Determination** can be submitted at no cost.
 
-Currently, an <b>Application for an Assessor's Determination</b> can be submitted at no cost.
+To submit the **Application** to the Registrar using the electronic system: 
 
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link (CorpPass)](https://go.gov.sg/application-for-determination-corppass){:target="_blank"}.
+* If you are an individual who is a party to the contract, please use this [link (SingPass)](https://go.gov.sg/application-for-determination-singpass){:target="_blank"}. 
+
+Note: It is important that you use the correct link to submit the **Application**. Otherwise, the **Application** may be rejected.
+
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 ##### Step 2: Registrar Reviews Application for an Assessor's Determination #####
 The Registrar will review the <b>Application</b>.
@@ -32,33 +37,39 @@ If the Registrar is satisfied that the <b>Application</b> is in order, the Regis
 * A <b>Response</b> form or link to the <b>Response</b> form that the Respondent (i.e. the other party or parties to the contract) must submit to the Registrar.
 
 ##### Step 3: Applicant Serves Documents on Respondent #####
-Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following parties where applicable:
+Within <b>2 working days</b> after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the <b>Application for an Assessor's Determination</b>, together with <b>the documents received from the Registrar in Step 2</b>, on the following Recipients, where applicable:
 * The party to the contract who had served the <b>Notification for Relief</b> or the party to the contract who was served the Notification for Relief (“<b>the Respondent</b>”);
 * Every other party to the contract; 
 * Any guarantor or surety for the obligation in the contract; and
 * The Issuer of Related Performance Bond.
 
-The documents can be served on the Respondent by:
-* Email; or
-* Other modes of service set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
+The documents can be served on the Recipient(s) by [other modes of service](/covid19-relief/other-modes-service).
 
 ##### Step 4: Applicant Submits Declaration of Service #####
-The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the relevant parties, within <b>1 working day</b> of completing Step 3:
-* For Applicants who are individuals, please use this 
-[link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}.
-* For Applicants which are business entities, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}. 
+The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the Recipient(s), within <b>1 working day</b> of completing Step 3.
+
+To submit the **Declaration of Service** using the electronic system: 
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
+* If you are an individual who is a party to the contract, please use this 
+[link (SingPass)](https://go.gov.sg/declaration-of-service-singpass){:target="_blank"}. 
 
 ##### Step 5: Respondent Submits Response #####
-The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>Response</b> on the following parties where applicable within <b>5 working days</b> after being served the documents in Step 3:
+The Respondent must submit a <b>Response</b> to the Registrar and serve the <b>Response</b> on the following Recipient(s), where applicable, within <b>5 working days</b> after being served the documents in Step 3:
 * The Applicant;
-* The guarantor or surety of the obligation; and
+* Every other party to the contract;
+* Any guarantor or surety for the obligation in the contract; and
 * The Issuer of a Related Performance Bond.
 
-To submit and serve the <b>Response</b> using the electronic system (if the Respondent has the email addresses of the above parties):
-* For Respondents who are individuals, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
-* For Respondents which are business entities, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
+**Submission and service by the electronic system**
 
-Other modes of service of the Response are set out in the [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200420){:target="_blank"}.
+To submit and serve the **Response** using the electronic system (if you have an email address and the email address(es) of the Recipient(s)):
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link (CorpPass)](https://go.gov.sg/response-to-application-corppass){:target="_blank"}.
+* If you are an individual who is a party to the contract, please use this [link (SingPass)](https://go.gov.sg/response-to-application-singpass){:target="_blank"}.
+
+**Submission and service by other modes if you are unable to use the electronic system**
+If you are unable to submit and serve the Response using the electronic system, please download the Response using this form and: 
+a.	Send the form to the Registrar by way of email as provided in the acknowledgment of receipt of the Application which was served on you (you should cite the Application No. in your email request); and  
+b.	Serve the form on the Recipient(s) using the [other modes of service](/covid19-relief/other-modes-service). 
 
 Please note that if the Respondent fails to submit a <b>Response</b>, the Registrar may proceed to appoint an Assessor, and the Assessor may make a determination on the <b>Application</b>, which will be binding on all parties to the <b>Application</b>.
 
