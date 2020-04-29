@@ -9,5 +9,5 @@ collection_name: covid19
 
 We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act.
 
-If you would like a preliminary assessment as to whether your case qualifies for relief under the, you can use the [online self-assessment tool](https://go.gov.sg/covid19-assessment-tool) developed in collaboration with the State Courts and Temasek Polytechnic.
+If you would like a preliminary assessment as to whether your case qualifies for relief under the, you can use the [online self-assessment tool](https://go.gov.sg/covid19-assessment-tool){:target="_blank"} developed in collaboration with the State Courts and Temasek Polytechnic.
 
