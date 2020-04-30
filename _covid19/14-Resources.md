@@ -15,7 +15,7 @@ For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, p
 
 For the video on the Act, please click the following links:
 * [English](https://www.youtube.com/watch?v=wFm5Het7JE4&feature=youtu.be){:target="_blank"}
-* [Chinese](https://www.youtube.com/watch?v=U1cKM0zUbMY){:target="_blank"}
+* [Chinese](https://youtu.be/PC_otX-GABg){:target="_blank"}
 * [Malay](https://www.youtube.com/watch?v=xAnV5eE9rjs){:target="_blank"}
 * [Tamil](https://www.youtube.com/watch?v=SYZVTkcSTOg){:target="_blank"}
 
