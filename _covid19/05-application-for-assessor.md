@@ -47,7 +47,7 @@ Within <b>2 working days</b> after receiving the documents from the Registrar in
 The documents can be served on the Recipient(s) by the [other modes of service](/covid19-relief/other-modes-service).
 
 ##### Step 4: Applicant Submits Declaration of Service #####
-The Applicant must submit to the Registrar a <b>Declaration of Service</b> demonstrating that the documents in Step 3 have been served on the Recipient(s), within <b>1 working day</b> of completing Step 3.
+The Applicant must submit to the Registrar a **Declaration of Service** demonstrating that service to the Recipient(s) as required in Step 3 has been carried out. The submission of the Declaration of Service must be within **1 working day** of completing Step 3
 
 To submit the **Declaration of Service** using the electronic system: 
 * If you are acting on behalf of an entity that is a party to the contract, please use this [link (CorpPass)](https://go.gov.sg/declaration-of-service-corppass){:target="_blank"}.
