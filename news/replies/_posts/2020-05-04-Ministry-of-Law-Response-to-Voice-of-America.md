@@ -40,7 +40,7 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 </ol>
 
 <ol start="9">
-<li> The article goes on to accuse the Select Committee of Parliament that recommended the POFMA legislation of being closed to opposing views. It quotes Dr Thum's assertion that the Committee was just a <i>fait accompli</i>, to "justify a decision already taken".</li>
+<li> The article goes on to accuse the Select Committee of Parliament that recommended the POFMA legislation of being comprised only of those empowered to enforce the law, and closed to opposing views. It quotes Dr Thum's assertion that the Committee was just a <i>fait accompli</i>, to "justify a decision already taken".</li>
 </ol>
 
 <ol start="10">
