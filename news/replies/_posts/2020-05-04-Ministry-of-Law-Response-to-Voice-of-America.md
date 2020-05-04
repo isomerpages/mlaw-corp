@@ -115,7 +115,7 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 
 <p><sup id="fn13"> 13. "VOA Journalistic Code", available <a href="https://www.voanews.com/archive/voa-journalistic-code">here</a>.  <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
 
-<p><sup id="fn14"> 14. See Prime Minister Lee Hsien Loong's most recent public remarks reported in Channel NewsAsia, "If we need to do more, we will: PM Lee says economic challenge from COVID-19 very grave, but Government doing all it can" (27 March 2020), available <a href="http://www.channelnewsasia.com/news/singapore/covid19-lee-hsien-loong-what-lies-ahead-transcript-12582948">here</a>.  <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
+<p><sup id="fn14"> 14. See Prime Minister Lee Hsien Loong's most recent public remarks reported by Channel NewsAsia, "If we need to do more, we will: PM Lee says economic challenge from COVID-19 very grave, but Government doing all it can" (27 March 2020), available <a href="http://www.channelnewsasia.com/news/singapore/covid19-lee-hsien-loong-what-lies-ahead-transcript-12582948">here</a>.  <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
 
 <p><sup id="fn15"> 15. VOA Journalistic Code.  <a href="#ref15" title="Jump back to footnote 15 in the text.">↩</a></sup></p>
 
