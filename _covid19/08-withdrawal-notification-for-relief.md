@@ -9,7 +9,7 @@ collection_name: covid19
 ### Withdrawal of Notification for Relief ###
 
 ##### Step 1 #####
-If you served a <b>Notification for Relief</b> on one or more of the following Recipients and wish to withdraw it, you must serve a <b>Withdrawal of Notification for Relief</b> on the Recipient(s):
+If you served a <b>Notification for Relief</b> on one or more of the following Recipient(s) and wish to withdraw it, you must serve a <b>Withdrawal of Notification for Relief</b> on the Recipient(s):
 * The other party or parties to the contract;
 * Any guarantor or surety for the obligations in the contract; and
 * The Issuer of a Related Performance Bond.
