@@ -61,7 +61,7 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 
 <ol start="14">
 <li> The AJPA merely codifies the existing laws on contempt, with one exception.<sup><a href="#fn10" id="ref10">10</a></sup> As Minister Shanmugam had explained during the Second Reading in Parliament:<sup><a href="#fn11" id="ref11">11</a></sup>
-<br>
+<br><br>
 "Under common law in Singapore, the test is "real risk". In the Bill, the test is "risk". The different heads of contempt, clauses 3 and 4: what amounts to contempt, the Bill sets out the law as it stands now. This is the one change to the current law in the clauses, on the substantive elements of contempt.</li>
 </ol>
 
@@ -89,35 +89,35 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 **4 MAY 2020** 
 
 
-<p><sup id="fn1"> 1. Second Reading Speech by Minister for Law, Mr K Shanmugam on the Protection from Online Falsehoods and Manipulation Bill ("POFMA Second Reading Speech") at [18]-[39], available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-protection-from-online-falsehoods-and-manipulation-bill">here</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1"> 1. Second Reading Speech by Minister for Law, Mr K Shanmugam on the Protection from Online Falsehoods and Manipulation Bill ("POFMA Second Reading Speech") at [18]-[39], available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-protection-from-online-falsehoods-and-manipulation-bill">here</a>.  <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2"> 2. POFMA Second Reading Speech at [250]; Ministry of Law Press Release, "New Bill to Protect Society from Online Falsehoods and Malicious Actors" at [12], available <a href="https://www.mlaw.gov.sg/news/press-releases/new-bill-to-protect-society-from-online-falsehoods-and-malicious-actors">here</a>. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2"> 2. POFMA Second Reading Speech at [250]; Ministry of Law Press Release, "New Bill to Protect Society from Online Falsehoods and Malicious Actors" at [12], available <a href="https://www.mlaw.gov.sg/news/press-releases/new-bill-to-protect-society-from-online-falsehoods-and-malicious-actors">here</a>.  <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
-<p><sup id="fn3"> 3. POFMA Second Reading Speech at [275]-[278]. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<p><sup id="fn3"> 3. POFMA Second Reading Speech at [275]-[278].  <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-<p><sup id="fn4"> 4. POFMA Second Reading Speech at [250]; see also POFMA Office’s guidance, available <a href="https://www.pofmaoffice.gov.sg/regulations/protection-from-online-falsehoods-and-manipulation-act">here</a>. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn4"> 4. POFMA Second Reading Speech at [250]; see also POFMA Office’s guidance, available <a href="https://www.pofmaoffice.gov.sg/regulations/protection-from-online-falsehoods-and-manipulation-act">here</a>.  <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
-<p><sup id="fn5"> 5. "Transcript of Speech by PM Lee Hsien Loong at the CNA 20th Anniversary Gala Dinner, on 29 Mar 2019” (Prime Minister's Office), available <a href="https://www.pmo.gov.sg/Newsroom/CNA-20th-Anniversary-Gala-Dinner">here</a>. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+<p><sup id="fn5"> 5. "Transcript of Speech by PM Lee Hsien Loong at the CNA 20th Anniversary Gala Dinner, on 29 Mar 2019” (Prime Minister's Office), available <a href="https://www.pmo.gov.sg/Newsroom/CNA-20th-Anniversary-Gala-Dinner">here</a>.  <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
-<p><sup id="fn6"> 6. Thum Ping Tjin and Kirsten Han, "Singapore's "Fake News" Bill: The FAQ" (New Naratif, 9 April 2019), available <a href="https://newnaratif.com/research/singapores-fake-news-bill-the-faq">here</a>. <a href="#ref6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
+<p><sup id="fn6"> 6. Thum Ping Tjin and Kirsten Han, "Singapore's "Fake News" Bill: The FAQ" (New Naratif, 9 April 2019), available <a href="https://newnaratif.com/research/singapores-fake-news-bill-the-faq">here</a>.  <a href="#ref6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
 
-<p><sup id="fn7"> 7. Report of the Select Committee on Deliberate Online Falsehoods – Causes, Consequences and Countermeasures ("Select Committee Report") at [238], available <a href="https://www.parliament.gov.sg/sconlinefalsehoods">here</a>. <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
+<p><sup id="fn7"> 7. Report of the Select Committee on Deliberate Online Falsehoods – Causes, Consequences and Countermeasures ("Select Committee Report") at [238], available <a href="https://www.parliament.gov.sg/sconlinefalsehoods">here</a>.  <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
 
-<p><sup id="fn8"> 8. Select Committee Report at [238]. <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
+<p><sup id="fn8"> 8. Select Committee Report at [238].  <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
 
-<p><sup id="fn9"> 9. "Rule of Law Index 2020" (World Justice Project, 2020) at pages [28]-[29], available <a href="https://worldjusticeproject.org/sites/default/files/documents/WJP-ROLI-2020-Online_0.pdf">here</a>. <a href="#ref9" title="Jump back to footnote 9 in the text.">↩</a></sup></p>
+<p><sup id="fn9"> 9. "Rule of Law Index 2020" (World Justice Project, 2020) at pages [28]-[29], available <a href="https://worldjusticeproject.org/sites/default/files/documents/WJP-ROLI-2020-Online_0.pdf">here</a>.  <a href="#ref9" title="Jump back to footnote 9 in the text.">↩</a></sup></p>
 
-<p><sup id="fn10"> 10. Ministry of Law Press Release, "New Bill on Protection of the Administration of Justice" ("AJPA Press Release") at [5], available <a href="https://www.mlaw.gov.sg/news/press-releases/new-bill-on-protection-of-the-administration-of-justice">here</a>. <a href="#ref10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
+<p><sup id="fn10"> 10. Ministry of Law Press Release, "New Bill on Protection of the Administration of Justice" ("AJPA Press Release") at [5], available <a href="https://www.mlaw.gov.sg/news/press-releases/new-bill-on-protection-of-the-administration-of-justice">here</a>.  <a href="#ref10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
 
-<p><sup id="fn11"> 11. Second Reading Speech by Minister for Law, Mr K Shanmugam on the Administration of Justice (Protection) Bill ("AJPA Second Reading Speech") at [156], available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law--mr-k-shanmugam--on-th1">here</a>. <a href="#ref11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
+<p><sup id="fn11"> 11. Second Reading Speech by Minister for Law, Mr K Shanmugam on the Administration of Justice (Protection) Bill ("AJPA Second Reading Speech") at [156], available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law--mr-k-shanmugam--on-th1">here</a>.  <a href="#ref11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
 
-<p><sup id="fn12"> 12. AJPA Second Reading Speech at [267] and [290]; AJPA Press Release at [3]-[5]. <a href="#ref12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
+<p><sup id="fn12"> 12. AJPA Second Reading Speech at [267] and [290]; AJPA Press Release at [3]-[5].  <a href="#ref12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
 
-<p><sup id="fn13"> 13. "VOA Journalistic Code", available <a href="https://www.voanews.com/archive/voa-journalistic-code">here</a>. <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
+<p><sup id="fn13"> 13. "VOA Journalistic Code", available <a href="https://www.voanews.com/archive/voa-journalistic-code">here</a>.  <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
 
-<p><sup id="fn14"> 14. See Prime Minister Lee Hsien Loong's most recent public remarks reported in Channel NewsAsia, "If we need to do more, we will: PM Lee says economic challenge from COVID-19 very grave, but Government doing all it can" (27 March 2020), available <a href="http://www.channelnewsasia.com/news/singapore/covid19-lee-hsien-loong-what-lies-ahead-transcript-12582948">here</a>. <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
+<p><sup id="fn14"> 14. See Prime Minister Lee Hsien Loong's most recent public remarks reported in Channel NewsAsia, "If we need to do more, we will: PM Lee says economic challenge from COVID-19 very grave, but Government doing all it can" (27 March 2020), available <a href="http://www.channelnewsasia.com/news/singapore/covid19-lee-hsien-loong-what-lies-ahead-transcript-12582948">here</a>.  <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
 
-<p><sup id="fn15"> 15. VOA Journalistic Code. <a href="#ref15" title="Jump back to footnote 15 in the text.">↩</a></sup></p>
+<p><sup id="fn15"> 15. VOA Journalistic Code.  <a href="#ref15" title="Jump back to footnote 15 in the text.">↩</a></sup></p>
 
 
 
