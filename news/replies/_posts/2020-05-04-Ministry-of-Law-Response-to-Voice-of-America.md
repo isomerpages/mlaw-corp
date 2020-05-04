@@ -82,7 +82,7 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 </ol>
 
 
-[Annex A - Publicly Available Materials (283KB)](/news/replies/AnnexA_Publicly_Available_Materials.pdf)
+[Annex A - Publicly Available Materials (283KB)](/files/news/replies/AnnexA_Publicly_Available_Materials.pdf)
 
 
 **MINISTRY OF LAW**  
