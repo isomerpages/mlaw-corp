@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Response by the Ministry of Law to Voice of America
-date:   2020-05-04
+date:   2020-05-05
 permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 ---
 
-4 May 2020 Posted in [Replies](/news/replies)
+5 May 2020 Posted in [Replies](/news/replies)
 
 <ol start="1">
 <li> We refer to the recent Voice of America ("VOA") article, <i>Singapore's Fake News and Contempt Laws a Threat to Media, Journalists Say</i>, on the Protection from Online Falsehoods and Manipulation Act ("POFMA") and the Administration of Justice (Protection) Act ("AJPA").</li>
@@ -121,4 +121,4 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 
 
 
-<p class="right-side-updated">Last updated on 4 May 2020</p> 
+<p class="right-side-updated">Last updated on 5 May 2020</p> 
