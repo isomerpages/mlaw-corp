@@ -86,7 +86,7 @@ permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
 
 
 **MINISTRY OF LAW**  
-**4 MAY 2020** 
+**5 MAY 2020** 
 
 
 <p><sup id="fn1"> 1. Second Reading Speech by Minister for Law, Mr K Shanmugam on the Protection from Online Falsehoods and Manipulation Bill ("POFMA Second Reading Speech") at [18]-[39], available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-protection-from-online-falsehoods-and-manipulation-bill">here</a>.  <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
