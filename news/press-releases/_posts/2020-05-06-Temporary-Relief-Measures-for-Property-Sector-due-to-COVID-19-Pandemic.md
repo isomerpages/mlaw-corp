@@ -12,13 +12,13 @@ permalink: /news/press-releases/Temporary-Relief-Measures-for-Property-Sector-du
 <ol start="2">
 <li> The temporary relief measures, to be implemented with immediate effect, are:
 
-a. Extension of the Project Completion Period (PCP) by 6 months for residential, commercial and industrial development projects;
+<br><br>a. Extension of the Project Completion Period (PCP) by 6 months for residential, commercial and industrial development projects;
 
-b. Extension of time by 6 months for the commencement and completion of residential development, and sale of housing units in residential development projects in relation to the remission of the Additional Buyer's Stamp Duty (ABSD) for housing developers;<sup><a href="#fn1" id="ref1">1</a></sup>
+<br><br>b. Extension of time by 6 months for the commencement and completion of residential development, and sale of housing units in residential development projects in relation to the remission of the Additional Buyer's Stamp Duty (ABSD) for housing developers;<sup><a href="#fn1" id="ref1">1</a></sup>
 
-c. Extension of the PCP and/or disposal period by up to a total of 6 months for residential development projects under the Qualifying Certificate (QC) regime for foreign housing developers; and
+<br><br>c. Extension of the PCP and/or disposal period by up to a total of 6 months for residential development projects under the Qualifying Certificate (QC) regime for foreign housing developers; and
 
-d. Extension of time by 6 months for the sale of the first residential property in relation to the remission of ABSD for the second residential property purchased by a Singaporean married couple.<sup><a href="#fn2" id="ref2">2</a></sup>
+<br><br>d. Extension of time by 6 months for the sale of the first residential property in relation to the remission of ABSD for the second residential property purchased by a Singaporean married couple.<sup><a href="#fn2" id="ref2">2</a></sup>
 </li>
 </ol>
 
@@ -43,20 +43,20 @@ d. Extension of time by 6 months for the sale of the first residential property 
 <ol start="7">
 <li> <u>ABSD</u>. Under the ABSD regime, a Singaporean married couple purchasing a second residential property jointly has to sell their first residential property within the specified timeline, failing which they will not be eligible for a remission of the ABSD paid on their second residential property. The specified timeline for sale of the first residential property is:
 
-a. 6 months after the date of purchase of the second property, if it is a completed property; or 
+<br><br>a. 6 months after the date of purchase of the second property, if it is a completed property; or 
 
-b. 6 months after the issue date of the Temporary Occupation Permit ("TOP") or Certificate of Statutory Completion ("CSC"), whichever is the earlier, if the second property was uncompleted at the time of purchase.  
+<br><br>b. 6 months after the issue date of the Temporary Occupation Permit ("TOP") or Certificate of Statutory Completion ("CSC"), whichever is the earlier, if the second property was uncompleted at the time of purchase.  
 </li>
 </ol>
 
 <ol start="8">
 <li> Under the temporary relief measures, the specified sale timeline for remission of ABSD paid on their second residential property for Singaporean married couples will be extended by 6 months. To qualify for this extension, both of the following conditions are to be met:
 
-a. The couple's second residential property was jointly purchased on or before 1 June 2020; and 
+<br><br>a. The couple's second residential property was jointly purchased on or before 1 June 2020; and 
 
-b. The original timeline for sale of the first residential property expired on or after 1 February 2020.  
+<br><br>b. The original timeline for sale of the first residential property expired on or after 1 February 2020.  
 
-Eligible Singaporean married couples can refer to the IRAS website for more details. The application for the remission of ABSD must be made within 6 months after the date of sale of the first residential property. </li>
+<br><br>Eligible Singaporean married couples can refer to the IRAS website for more details. The application for the remission of ABSD must be made within 6 months after the date of sale of the first residential property. </li>
 </ol>
 
 <b>Temporary Relief Measures for Developers</b>
@@ -66,41 +66,41 @@ Eligible Singaporean married couples can refer to the IRAS website for more deta
 <ol start="9">
 <li> <u>PCP</u>. The PCP for qualifying residential development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by the Singapore Land Authority (SLA), will be extended by 6 months. To qualify for the extension, both of the following conditions are to be met:
 
-a. The land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
+<br><br>a. The land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
 
-b. The original timeline for the project to be completed was on or after 1 February 2020.
+<br><br>b. The original timeline for the project to be completed was on or after 1 February 2020.
 
-Eligible developers will be notified by the respective agencies. No application is necessary. </li>
+<br><br>Eligible developers will be notified by the respective agencies. No application is necessary. </li>
 </ol>
 
 <ol start="10">
 <li> <u>ABSD</u>. Under the ABSD regime, developers are to commence and complete the residential development, and sell all housing units in the residential development project within the specified timelines,<sup><a href="#fn3" id="ref3">3</a></sup> failing which they will be subject to the ABSD on the purchase of the land. Under the temporary relief measures, the specified commencement, completion and sale timelines will be extended by 6 months, for qualifying residential property developments. 
 
-To qualify for the extension of the specified timeline for commencement of residential development, both of the following conditions are to be met:
+<br><br>To qualify for the extension of the specified timeline for commencement of residential development, both of the following conditions are to be met:
 
-a. The land was purchased on or before 1 June 2020; and
+<br><br>a. The land was purchased on or before 1 June 2020; and
 
-b. The original timeline for commencement of the residential development expired on or after 1 February 2020.
+<br><br>b. The original timeline for commencement of the residential development expired on or after 1 February 2020.
 
-To qualify for extension of the specified timeline for completion of residential development and sale of all housing units in a residential development project, both of the following conditions are to be met:
+<br><br>To qualify for extension of the specified timeline for completion of residential development and sale of all housing units in a residential development project, both of the following conditions are to be met:
 
-a. The land was purchased on or before 1 June 2020; and
+<br><br>a. The land was purchased on or before 1 June 2020; and
 
-b. The original timeline for completion of the residential development and sale of all housing units in the development expired on or after 1 February 2020.
+<br><br>b. The original timeline for completion of the residential development and sale of all housing units in the development expired on or after 1 February 2020.
 
-Eligible developers will be granted the extension automatically. No application is necessary. </li>
+<br><br>Eligible developers will be granted the extension automatically. No application is necessary. </li>
 </ol>
 
 <ol start="11">
 <li> <u>QC</u>. Under the QC regime, developers subject to the QC rules are to complete construction of all housing units in a residential development project within 5 years from the date of issue of the QC or the collective sale order, and dispose of all housing units within 2 years from the issue of Temporary Occupation Permit or Certificate of Statutory Completion. Under the temporary relief measures, developers applying to extend their existing completion and/or disposal deadline will be granted a waiver of extension charges of up to a total of 6 months. This will also apply to other SLA approvals requiring the completion and sale of all units in the residential development.  
 
-To qualify for the waiver of extension charges, both of the following conditions are to be met:
+<br><br>To qualify for the waiver of extension charges, both of the following conditions are to be met:
 
-a. The QC or SLA approval requiring the completion and sale of all units in the residential development was issued on or before 1 June 2020; and
+<br><br>a. The QC or SLA approval requiring the completion and sale of all units in the residential development was issued on or before 1 June 2020; and
 
-b. The original timeline for completion and sale of units in the residential development expired on or after 1 February 2020.
+<br><br>b. The original timeline for completion and sale of units in the residential development expired on or after 1 February 2020.
 
-Eligible developers can write to SLA's Land Dealings Approval Unit (LDAU) at SLA_LDU@sla.gov.sg by 1 December 2020 to apply. </li>
+<br><br>Eligible developers can write to SLA's Land Dealings Approval Unit (LDAU) at SLA_LDU@sla.gov.sg by 1 December 2020 to apply. </li>
 </ol>
 
 <i>Commercial and Industrial Development Projects</i>
@@ -108,11 +108,11 @@ Eligible developers can write to SLA's Land Dealings Approval Unit (LDAU) at SLA
 <ol start="12">
 <li> <u>PCP</u>. The PCP for qualifying commercial and industrial development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by the Singapore Land Authority (SLA), will be extended by 6 months. To qualify for the extension, the following conditions are to be met:
 
-a. The land was awarded on or before 1 June 2020; or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
+<br><br>a. The land was awarded on or before 1 June 2020; or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
 
-b. The original timeline for completion of the project expired on or after 1 February 2020.
+<br><br>b. The original timeline for completion of the project expired on or after 1 February 2020.
 
-Eligible developers will be notified by the respective agencies. No application is necessary. </li>
+<br><br>Eligible developers will be notified by the respective agencies. No application is necessary. </li>
 </ol>
 
 
