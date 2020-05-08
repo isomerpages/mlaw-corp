@@ -29,6 +29,6 @@ Mr Daren Tang, Chief Executive of the Intellectual Property Office of Singapore 
 <b>MINISTRY OF LAW AND INTELLECTUAL PROPERTY OFFICE OF SINGAPORE</b><br>
 <b>08 May 2020</b>
 
-<p><sup id="fn1">[World Trademark Review](https://www.worldtrademarkreview.com/enforcement-and-litigation/singapore-ranked-worlds-most-innovative-ip-office-in-exclusive), 6 Apr 2020.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. [World Trademark Review](https://www.worldtrademarkreview.com/enforcement-and-litigation/singapore-ranked-worlds-most-innovative-ip-office-in-exclusive), 6 Apr 2020.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 08 May 2020</p> 
