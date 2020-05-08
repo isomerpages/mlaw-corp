@@ -5,6 +5,8 @@ date: 2020-05-06
 permalink: /news/press-releases/Temporary-Relief-Measures-for-Property-Sector-due-to-COVID-19-Pandemic
 ---
 
+6 May 2020 Posted in [Press releases](/news/press-releases)
+
 <ol start="1">
 <li> The Government announced today temporary relief measures for property developers and individuals affected by disruptions to construction timelines and sales of housing units resulting from the COVID-19 pandemic, and in particular the implementation of the circuit breaker from 7 April to 1 June 2020. The Government will continue to ensure that prices for private residential properties remain broadly consistent with economic fundamentals. Hence, these temporary relief measures do not alter the other existing residential property market cooling measures. </li>
 </ol>
