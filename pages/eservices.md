@@ -5,10 +5,10 @@ permalink: /e-services/
 breadcrumb: E-Services 
 ---
 
-**E-Services** <br>
+**E-Services** <br><br>
 **The Insolvency Office and Public Trustee's Office E-Services are temporary unavailable. <br>
 We are working to restore normal service. <nr>
-For enquiries, please contact us [here](https://eservices.mlaw.gov.sg/enquiry/)<br>
+For enquiries, please contact us [here.](https://eservices.mlaw.gov.sg/enquiry/)<br>
 We apologise for any inconvenience caused and thank you for your patience.** <br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
