@@ -10,10 +10,10 @@ breadcrumb: E-Services
 * Insolvency Office
 * Public Trustee's Office
 * Registry of Moneylenders
-* Registry of Pawnbroker <br>
-**We are working to restore normal service. <br>
+* Registry of Pawnbroker
+We are working to restore normal service. <br>
 For enquiries, please contact us [here.](https://eservices.mlaw.gov.sg/enquiry/)<br>
-We apologise for any inconvenience caused and thank you for your patience.** <br>**
+We apologise for any inconvenience caused and thank you for your patience.<br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
