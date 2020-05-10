@@ -6,7 +6,7 @@ breadcrumb: E-Services
 ---
 
 **E-Services** <br><br>
-**The following E-Services are temporary unavailable. <br>**
+**The following E-Services are temporary unavailable: <br>**
 * Insolvency Office
 * Public Trustee's Office
 * Registry of Moneylenders
