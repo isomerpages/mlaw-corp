@@ -6,10 +6,10 @@ breadcrumb: E-Services
 ---
 
 **E-Services** <br>
-The Insolvency Office and Public Trustee's Office E-Services are temporary unavailable.
+**The Insolvency Office and Public Trustee's Office E-Services are temporary unavailable.
 We are working to restore normal service.
 For enquiries, please contact us [here](https://eservices.mlaw.gov.sg/enquiry/)
-We apologise for any inconvenience caused and thank you for your patience.
+We apologise for any inconvenience caused and thank you for your patience.**
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
