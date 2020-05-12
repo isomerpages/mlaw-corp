@@ -47,7 +47,7 @@ TIPS ON HOW TO REDUCE FILE SIZE
       <ul><li>Please refer to the instructions <a href="https://helpx.adobe.com/acrobat/using/optimizing-pdfs-acrobat-pro.html" target="_blank">here</a></li></ul>
 
 <u>If you do not have PDF Optimizer:</u>
-<ul><li>•	Use an online tool to compress the PDF.</li></ul></td>
+<ul><li>Use an online tool to compress the PDF.</li></ul></td>
   </tr>
    <tr>
     <td class="tg-73oq">Image on your mobile device, e.g. WhatsApp messages</td>
