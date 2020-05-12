@@ -40,8 +40,7 @@ breadcrumb: Tips
 <li>To reduce the file size further, when saving the file as a PDF, under “Optimize for”, choose “Minimum size”.</li></ul>
 </td>
   </tr>
-  <tr></td>
-  </tr>
+  
    <tr>
     <td class="tg-73oq">PDF</td>
     <td class="tg-73oq"><u>If you have PDF Optimizer:</u>
