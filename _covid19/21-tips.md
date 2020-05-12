@@ -25,7 +25,13 @@ TIPS ON HOW TO REDUCE FILE SIZE
 <tbody>
   <tr>
     <td class="tg-73oq">Hardcopy document</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><u>If you are using a scanner:</u>
+      <ol><ul>Select a lower resolution option, e.g. 150 DPI.</ul></ol>
+
+<u>If you are using a mobile device:</u>
+<ol><ul>Do not take a photo of the document using your mobile device.</ul>
+<ul>Download and use a scanner app (e.g. Adobe Scan, CamScanner) to scan the document and save it as a PDF.</ul></ol>
+</td>
   </tr>
   <tr>
     <td class="tg-73oq">Word document</td>
