@@ -14,7 +14,7 @@ breadcrumb: Tips
 .tg th{border-color:black;border-style:solid;border-width:0px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
- .tg li{font-size:12px;}
+ .tg li{font-size:16px;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
 <thead>
