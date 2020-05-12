@@ -27,12 +27,12 @@ With the spread
 <tbody>
   <tr>
     <td class="tg-73oq">1. Companies 
-      2. Variable Capital Companies
-      3. Business Trusts
-      4. Unit Trusts
-      5. Debenture Holders
+      <br>2. Variable Capital Companies
+      <br>3. Business Trusts
+      <br>4. Unit Trusts
+      <br>5. Debenture Holders
     </td>
-    <td class="tg-73oq">Covid-19 <a href="https://sso.agoc.gov.sg>link</a></td>
+    <td class="tg-73oq">Covid-19 <a href="https://sso.agoc.gov.sg">link</a></td>
     <td class="tg-73oq"></td>
   </tr>
   <tr>
