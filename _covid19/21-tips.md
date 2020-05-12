@@ -5,7 +5,7 @@ permalink: /covid19-relief/tips
 breadcrumb: Tips
 ---
 
-### TIPS ON HOW TO REDUCE FILE SIZE ###
+### Tips on how to reduce file size ###
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
