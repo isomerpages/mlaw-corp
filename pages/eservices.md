@@ -4,6 +4,15 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services 
 ---
+**The following E-Services are temporary unavailable: <br>**
+* Insolvency Office
+* Public Trustee's Office
+* Registry of Moneylenders
+* Registry of Pawnbroker
+
+**We are working to restore normal service. <br>
+For enquiries, please contact us [here.](https://eservices.mlaw.gov.sg/enquiry/)<br>
+We apologise for any inconvenience caused and thank you for your patience.<br>**
 
 **E-Services** <br>
 
