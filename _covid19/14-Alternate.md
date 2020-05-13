@@ -1,0 +1,157 @@
+---
+layout: leftnav-page-content
+title: Alternative Arrangements for Meetings
+permalink: /covid19-relief/alternative
+breadcrumb: Alternative Arrangements for Meetings
+collection_name: covid19
+---
+### Alternative Arrangements for Meetings ###
+
+<style type="text/css">	
+.tg  {border-collapse:collapse;border-spacing:0;}	
+.tg td{border-color:black;border-style:solid;border-width:0px;	
+  overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg th{border-color:black;border-style:solid;border-width:0px;	
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg .tg-73oq{text-align:left;vertical-align:top}	
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>	
+<div class="tg-wrap"><table class="tg">	
+<thead>	
+  <tr>	
+    <th class="tg-73oq">Sector</th>	
+    <th class="tg-73oq">Orders</th>	
+    <th class="tg-73oq">Important Guidance</th>	
+    <th class="tg-73oq">Contact for Enquiries</th>	
+  </tr>	
+</thead>	
+<tbody>	
+  <tr>	
+    <td class="tg-73oq">1. Companies 	
+      <br>2. Variable Capital Companies	
+      <br>3. Business Trusts	
+      <br>4. Unit Trusts	
+      <br>5. Debenture Holders	
+    </td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
+    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20200413-additional-guidance-conduct-general-meetings-during-elevated-safe-distancing" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco), enclosing Checklist for the Conduct of General Meetings During Circuit Breaker (updated on 24 April)</a>
+    <br><br>
+    <a href="https://api2.sgx.com/sites/default/files/2020-04/20200430_FAQs_The%20holding%20of%20GMs_Updated%20%28SGX%20RegCo%29.pdf" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
+    </td>	
+    <td class="tg-73oq">For enquires pertaining to Variable Capital Companies, listed Business Trusts, REITS, and unit trusts, please email MAS at <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>
+    <br><br>For enquires pertaining to listed companies, please email SGX at <a href="mailto:Listingcompliance@sgx.com">Listingcompliance@sgx.com</a>
+    <br><br>
+    For enquiries pertaining to non-listed companies, please contact ACRA via <a href="www.acra.gov.sg/feedback">www.acra.gov.sg/feedback</a> or contact ACRA Helpdesk at 6224 6088.
+    </td>	
+  </tr>	
+  <tr>	
+    <td class="tg-73oq">Corporate Insolvency</td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S326-2020?DocDate=20200427" target="_blank">COVID 19 (Temporary Measures) (Alternative Arrangements for Meetings) (Corporate Insolvency) Order 2020</a></td>	
+    <td class="tg-73oq"><a href="https://io.mlaw.gov.sg/corporate-insolvency/practice-circulars/" target="_blank">Official Assignee / Official Receiver Practice Circular No. 1 of 2020 on Safe Distancing Measures for Meetings</a>	
+    <br><br>
+    <a href="https://io.mlaw.gov.sg/corporate-insolvency/covid-19-faq/" target="_blank">FAQs on alternative meeting arrangements for corporate insolvency</a></td>	
+    <td class="tg-73oq">For enquiries pertaining to corporate insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a></td>	
+  </tr>	
+  <tr>	
+    <td class="tg-73oq">Individual insolvency</td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S325-2020?DocDate=20200427" target="_blank">COVID 19 (Temporary Measures) (Alternative Arrangements for Meetings) (Bankruptcy) Order 2020</a></td>
+    <td class="tg-73oq">
+    <a href="https://io.mlaw.gov.sg/bankruptcy/practice-circulars/" target="_blank">Official Assignee / Official Receiver Practice Circular No. 1 of 2020 on Safe Distancing Measures for Meetings</a>	
+    <br><br>
+    <a href="https://io.mlaw.gov.sg/bankruptcy/covid-19-faq/" target="_blank">FAQs on alternative meeting arrangements for corporate insolvency</a></td>	
+    <td class="tg-73oq">For enquiries pertaining to corporate insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">1.	Charities 	
+      <br>2. Co-operative Societies	
+      <br>3.	Mutual Benefit Organisations	
+      
+      </td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S327-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Charities, Co-operative Societies and Mutual Benefit Organisations) Order 2020</a></td>	
+    <td class="tg-73oq"><a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/alternative-arrangements-charities-co-ops-mbos-to-conduct-general-meetings-amid-covid-19" target="_blank">Press release by the Ministry of Culture, Community and Youth on Alternative Arrangements for Charities, Co-operative Societies and Mutual Benefit Organisations to Conduct General Meetings amid COVID-19 (28 April 2020)</a>
+    <br><br><a href="https://www.charities.gov.sg/News%20And%20Events/Documents/2%20May%202020%20-%20Media%20release%20Support%20for%20Charities%20on%20the%20Conduct%20of%20Meetings%20Amid%20COVID-19%20(FINAL)(revised%20links).pdf)" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
+    <br><br>
+    <a href="https://www.charities.gov.sg/News%20And%20Events/Documents/2%20May%202020%20-%20Annex%201%20-%20Guide%20on%20Conduct%20of%20Meetings%20amid%20COVID-19%20(FINAL).pdf)" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
+    <br><br>
+    <a href="https://www.mccy.gov.sg/sector/initiatives/resources-and-useful-links" target="_blank">Registry of Co-operative Societies’ Guidelines</a>
+    <br><br>
+    <a href="https://www.mccy.gov.sg/sector/initiatives/alt-arrangements-covid-mbo" target="_blank">•	Guidance and templates for Mutual Benefit Organisations</a>
+    
+    </td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to charities, please contact the Ministry of Culture, Community & Youth, Charities Unit at <a href="mailto:MCCY_Charities@mccy.gov.sg">MCCY_Charities@mccy.gov.sg</a>.
+ <br><br>
+For enquiries pertaining to co-operative societies please contact the Ministry of Culture, Community & Youth, Registry of Co-operative Societies at <a href="mailto:MCCY_Regcoop@mccy.gov.sg">MCCY_Regcoop@mccy.gov.sg</a>. 
+ <br><br>
+For enquiries pertaining to mutual benefit organisations, please contact the Ministry of Culture, Community & Youth, Registry of Mutual Benefit Organisations at <a href="mailto:MCCY_Regmbo@mccy.gov.sg">MCCY_Regmbo@mccy.gov.sg</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">Registered Societies</td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S324-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Registered Societies) Order 2020</a></td>	
+    <td class="tg-73oq"><a href="https://www.mha.gov.sg/newsroom/press-release/news/guidance-for-registered-societies-and-governing-bodies-meetings-during-periods-of-safe-distancing-measures" target="_blank">Press release by the Ministry of Home Affairs</a>
+    <br><br>
+    <a href="https://www.mha.gov.sg/docs/default-source/default-document-library/guidance-on-conduct-of-meetings-for-societies-during-control-period.pdf" target="_blank">Guidance on conduct of general meetings and governing bodies’ meetings of registered societies</a> 
+    <br><br>
+    <a href="https://www.mha.gov.sg/docs/default-source/default-document-library/guidance-for-virtual-meetings.pdf" target="_blank">Guidance on virtual meetings for registered societies</a>
+    <br><br><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/faqs-on-holding-of-meetings-for-registered-societies.pdf" target="_blank">FAQs on alternative meeting arrangements for registered societies</a>
+    </td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to registered societies, please contact the Ministry of Home Affairs, Registry of Societies at <a href="mha_ros_feedback@mha.gov.sg">mha_ros_feedback@mha.gov.sg</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">Management Corporations</td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S322-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Management Corporations, Subsidiary Management Corporations and Collective Sale Committees) Order 2020</a>
+    
+    </td>	
+    <td class="tg-73oq">
+    <a href="https://go.gov.sg/bca-guidance-convening-agm-covid19" target="_blank">Building & Construction Authority’s Circular and Guidance Notes on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation</a>
+    <br><br>
+    <a href="www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
+    </td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to general meetings for en bloc sales and meetings of collective sale committees, please contact the Ministry of Law via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/"  target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
+    <br><br>
+    For all other enquiries relating to management corporations, please contact the Building and Construction Authority via the online enquiry form at <a href="https://www.bca.gov.sg/feedbackform/" target="_blank">https://www.bca.gov.sg/feedbackform/</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">Trade Unions </td>	
+    <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S323-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a></td>	
+    <td class="tg-73oq">
+    <a href="https://www.mom.gov.sg/employment-practices/trade-unions/about-trade-unions" target="_blank">Registry of Trade Unions Circular on Guidance on the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a>
+    </td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to registered trade unions, please contact the Ministry of Manpower, Registry of Trade Unions at <a href="mailto:mom_lrwd@mom.gov.sg">mom_lrwd@mom.gov.sg</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">School management committees and governing boards</td>	
+    <td class="tg-73oq">
+    <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S321-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Schools) Order 2020</a>
+    </td>	
+    <td class="tg-73oq"></td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to school management committees and governing boards, please contact the Ministry of Education via the online feedback form at <a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a>
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq">Town councils</td>	
+    <td class="tg-73oq">
+    <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S320-2020?DocDate=20200427" target="_blank">
+    COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Town Councils) Order 2020</a>
+    </td>	
+    <td class="tg-73oq"></td>	
+    <td class="tg-73oq">
+    For enquiries pertaining to town councils, please contact the Ministry of National Development at <a href="mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a> 
+    </td>	
+  </tr>
+  <tr>	
+    <td class="tg-73oq"></td>	
+    <td class="tg-73oq"></td>	
+    <td class="tg-73oq"></td>	
+    <td class="tg-73oq"></td>	
+  </tr>
+</tbody>	
+</table></div>
