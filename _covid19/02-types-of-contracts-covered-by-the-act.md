@@ -17,3 +17,5 @@ d. [Hire-purchase and conditional sales agreements](/files/4-Hirers.pdf)
 
 e. [Leases and licences of non-residential property](/files/5-Non-residential.pdf)
 
+f. [Options to purchase and sale and purchase agreements with housing developers](/files/6-Buyers.pdf)
+
