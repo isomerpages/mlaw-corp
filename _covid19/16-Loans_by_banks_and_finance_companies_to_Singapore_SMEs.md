@@ -84,9 +84,9 @@ second_nav_title: Frequently Asked Questions
 
 * However, under the Act read with the Regulations, after the debtor serves the Notification for Relief, the creditor is <b><u>not</u> permitted to</b>: 
 
-  * **Increase any charges or interest rate payable under the contract unless such increase (i) is specified in the contract; (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract; (iii) relates to expenses reasonably incurred by the creditor in the ordinary course of business; or (iv) is further agreed to by the debtor. ** 
+  * <b>Increase any charges or interest rate payable under the contract unless such increase (i) is specified in the contract; (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract; (iii) relates to expenses reasonably incurred by the creditor in the ordinary course of business; or (iv) is further agreed to by the debtor.</b> 
 
-  * **Impose new charges except with the further agreement of the debtor. ** 
+  * <b>Impose new charges except with the further agreement of the debtor.</b> 
 
 * The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
 
