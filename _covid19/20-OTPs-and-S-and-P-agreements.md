@@ -222,7 +222,7 @@ second_nav_title: Frequently Asked Questions
 **<u>For developers</u>**
 
 
-r.	I disagree that the buyer is unable to meet his/her payment obligations under the S&P Agreement / AFL. Can I terminate the S&P Agreement / AFL? 
+**r.	I disagree that the buyer is unable to meet his/her payment obligations under the S&P Agreement / AFL. Can I terminate the S&P Agreement / AFL?** 
 
 *	If a Notification for Relief has been served, it will be an offence under the Act for you to terminate the S&P Agreement / AFL.
 
