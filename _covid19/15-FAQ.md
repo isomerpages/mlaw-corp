@@ -18,3 +18,5 @@ c. [Event and tourism-related contracts](/covid19-relief/faq/Event-or-tourism-re
 d. [Hire-purchase agreements](/covid19-relief/faq/Hire-purchase-agreements)
 
 e. [Construction contracts or supply contracts, or any performance bond granted thereto](/covid19-relief/faq/Construction)
+
+f. [Options to purchase and sale and purchase agreements with housing developers](/covid19-relief/faq/OTPs-and-S-and-P-agreements)
