@@ -9,7 +9,8 @@ second_nav_title: Frequently Asked Questions
 ### Options to purchase and sale and purchase agreements with housing developers ###
 
 #### General FAQs ####
-**a. Does the Act cover Options to Purchase or Sale and Purchase Agreements for industrial / commercial properties? **
+
+**a. Does the Act cover Options to Purchase or Sale and Purchase Agreements for industrial / commercial properties?**
 
 * The Act only covers Options to Purchase (“OTPs”), Sale and Purchase Agreements (“S&P Agreements”) and Agreements for Lease (“AFLs”) for residential properties sold by housing developers (including both private housing developers and the Housing & Development Board). It does not cover OTPs and S&P Agreements for non-residential properties such as industrial or commercial properties.
 
@@ -19,7 +20,7 @@ second_nav_title: Frequently Asked Questions
 * The reliefs discussed in this section do not apply to non-residential property leases or licences. Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence) for the reliefs applicable to leases and licenses of <u>non-residential property</u>.  
 
 
-**c.	What reliefs under the Act are available to me, the buyer of a residential property? **
+**c.	What reliefs under the Act are available to me, the buyer of a residential property?**
 
 **For OTPs**
 
