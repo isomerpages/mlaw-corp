@@ -77,3 +77,22 @@ second_nav_title: Frequently Asked Questions
 * The Act does not cover any personal loan extended to by individuals, whether secured or unsecured.
 
 * You may wish to engage your creditor on available relief. There are relief measures available which enable individuals to apply to their lender to defer either (i) principal payment or (ii) both principal and interest payments up to 31 December 2020. For more information on the available relief measures, please refer to MAS’ announcement on 31 March 2020 at [https://www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19), and the statement by the Association of Banks in Singapore at [https://abs.org.sg/consumer-banking/sfrp](https://abs.org.sg/consumer-banking/sfrp)
+
+**k. Can the bank or finance company ("creditor") charge the debtor interest or other fees for late payment during the relief period, after the debtor serves the Notification for Relief?**
+
+* The Act does not remove or absolve parties' contractual obligations. If the agreement provides that the creditor can charge interest or charges (be it for late payment or otherwise) in relation to a loan contract that is secured against a security set out in the Schedule to the Act, those charges would accrue and can be enforced by the creditor after the relief period.  
+
+* However, under the Act read with the Regulations, after the debtor serves the Notification for Relief, the creditor is <b><u>not</u> permitted to</b>: 
+
+  * <b>Increase any charges or interest rate payable under the contract unless such increase (i) is specified in the contract; (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract; (iii) relates to expenses reasonably incurred by the creditor in the ordinary course of business; or (iv) is further agreed to by the debtor.</b> 
+
+  * <b>Impose new charges except with the further agreement of the debtor.</b> 
+
+* The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
+
+|  **Example**  |  **Permitted**  |  **Not Permitted** |
+|--|--|--| 
+|Contract provides that the creditor may charge “_an additional x% p.a. or such other rate as it may in its discretion prescribe_” on overdue payments.|Creditor can charge the additional x% p.a.| Creditor cannot increase the rate above the additional x% unless the debtor further agrees to the increased rate.|
+|Contract provides that the debtor shall “_pay interest at SIBOR plus x% p.a., or such other rate as may be determined by the creditor_" in the event of default.|Creditor can charge the stipulated additional interest at SIBOR plus x% p.a.|Creditor cannot increase the rate beyond SIBOR plus x% p.a., unless the debtor further agrees to the increased rate.| 
+|Contract provides that the creditor may charge “$_x a day for each day the payment is not satisfied in full, or any such other charge at its discretion_”.|Creditor can charge $x a day for each day the payment is not satisfied in full.  |Creditor cannot rely on this clause to increase the charges to more than $x a day, unless the debtor further agrees to the increased charges.|
+|Contract provides that creditor may “_impose any charges at its discretion_”.|Creditor can impose charges where it relates to expenses that are reasonably incurred by the creditor in the ordinary course of business, e.g. administrative charges (including increase) which are based on the creditor’s internal schedule of charges and are collected from other debtors with similar loan contracts.|Creditor cannot rely on this clause to impose a  charge that is not reasonably incurred in the ordinary course of business, unless the debtor’s further consent is obtained.|

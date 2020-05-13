@@ -100,7 +100,31 @@ Eligibility and scope of the relief
 
 * As such, hirers are encouraged to engage their financing companies to negotiate a mutually acceptable solution. 
 
-**l. My financing company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
+**l. Can a financing company charge the hirer interest or other fees for late payment during the relief period, after the hirer serves the Notification for Relief?**
+
+* The Act does not remove or absolve parties' contractual obligations. If the agreement provides that the financing company can charge interest or charges (be it for late payment or otherwise), those charges would accrue and can be enforced by the financing company after the relief period. 
+
+* However, the financing company may <b><u>not</u> unilaterally increase the charges payable by the hirer</b>.  See (m).
+
+**m. The financing company says that it is exercising its right to increase the interest payable under the hire-purchase agreement.  Can it do so?**
+
+* If a hirer has served a Notification for Relief on the financing company, under the Act, the financing company is not permitted to:
+
+  * <b>Increase any charges or interest rate payable under the contract unless such increase (i) is specified in the contract; (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract; (iii)  relates to expenses reasonably incurred by the financing company in the ordinary course of business; or (iv) is further agreed to by the hirer.</b> 
+
+  * <b>Impose new charges except with the further agreement of the hirer.</b>
+
+* The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
+
+|  **Example**  |  **Permitted**  |  **Not Permitted** |
+|--|--|--| 
+|Contract provides that the financing company may charge “_an additional x% p.a. or such other rate as it may in its discretion prescribe_” on overdue payments.|Financing company can charge the additional x% p.a.| Financing company cannot increase the rate above the additional x% unless the hirer further agrees to the increased rate.|
+|Contract provides that the financing company may charge “$_x a day for each day the payment is not satisfied in full, or any such other charge at its discretion_”.|Financing company can charge $x a day for each day the payment is not satisfied in full.  |Financing company cannot rely on this clause to increase the charges to more than $x a day, unless the hirer further agrees to the increased charges.|
+|Contract provides that the hirer shall “_pay interest at SIBOR plus x% p.a., or such other rate as may be determined by the financing company_" in the event of default.|Financing company can charge the stipulated additional interest at SIBOR plus x% p.a.|Financing company cannot increase the rate beyond SIBOR plus x% p.a., unless the hirer further agrees to the increased rate.| 
+|Contract provides that financing company may “_impose any charges at its discretion_”.|Financing company can impose charges where it relates to expenses that it has reasonably incurred in the ordinary course of business, e.g. administrative charges (including increase) which are based on the financing company’s internal schedule of charges and are collected from other hirers with similar hire-purchase agreements.|Financing company cannot rely on this clause to impose a charge that is not reasonably incurred in the ordinary course of business, unless the hirer’s further consent is obtained.|
+|Contract provides that the financing company "_reserves the right to vary the conditions in the agreement without the hirer’s consent_”.|-|Financing company cannot rely on this clause to increase or introduce any new interest or charges, unless the hirer’s further consent is obtained.|
+
+**n. My financing company repossessed my commercial vehicle before the Act commenced. Does the Act apply to me?**
 
 * Part 2 of the Act on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to repossessions that occurred before that date. 
 

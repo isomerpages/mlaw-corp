@@ -58,7 +58,30 @@ second_nav_title: Frequently Asked Questions
 
 * This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. Parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties. 
 
-**i. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief?**
+**i. Can a landlord charge the tenant interest or other fees for late payment during the relief period, after the tenant serves the Notification for Relief?**
+
+* The Act does not remove or absolve parties' contractual obligations. If the agreement provides that the landlord can charge interest or charges (be it for late payment or otherwise), those charges would accrue and can be enforced by the landlord after the relief period. 
+
+* However, the landlord may <b><u>not</u> unilaterally increase the charges payable by the tenant</b>.  See (j).
+
+**j. The landlord says that it is exercising its right to increase the late payment interest and other charges under the tenancy.  Can it do so?**
+
+* If a tenant has served a Notification for Relief on the landlord, under the Act, the landlord is not permitted to:
+
+  * <b>Increase any charges or interest rate payable under the lease or licence agreement unless such increase (i) is specified in the agreement; (ii) is calculated by reference to a formula (e.g. a reference rate) in the agreement;  (iii)  relates to expenses reasonably incurred by the landlord in the ordinary course of business; or (iv) is further agreed to by the tenant. </b>
+
+  * <b> Impose new charges including late payment charges except with the further agreement of the tenant. </b>
+
+* The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
+
+|  **Example**  |  **Permitted**  |  **Not Permitted** |
+|--|--|--| 
+|Lease or licence agreement provides that the landlord may charge “_an additional x% p.a. or such other rate as it may in its discretion prescribe_” on overdue rent.|Landlord can charge the additional x% p.a.| Landlord cannot increase the rate above the additional x% unless the tenant further agrees to the increased rate.|
+|Lease or licence agreement provides that the landlord may charge “$_x a day for each day the payment is not satisfied in full, or any such other charge at its discretion_”.|Landlord can charge $x a day for each day the rental payment is not satisfied in full.  |Landlord cannot rely on this clause to increase the charges to more than $x a day, unless the tenant further agrees to the increased charges.|
+|Lease or licence agreement provides that landlord may “_impose any charges at its discretion_”.|Landlord can impose charges where it relates to expenses that it has reasonably incurred in the ordinary course of business, e.g. administrative charges.|Landlord cannot rely on this clause to impose a charge that is not reasonably incurred in the ordinary course of business, unless the tenant’s further consent is obtained.|
+|Lease or licence agreement provides that the landlord "_reserves the right to vary the conditions in the agreement without the tenant’s consent_”.|-|Landlord cannot rely on this clause to increase or introduce any new interest or charges, unless the tenant’s further consent is obtained.|
+
+**k. What can I do if my landlord threatens to evict me/terminate my lease or licence after I have served a Notification for Relief?**
 
 * If a Notification for Relief has been served, it will be an offence under the Act for the landlord to evict you from the premises, terminate your lease or start court or insolvency proceedings against you. 
 
@@ -66,22 +89,17 @@ second_nav_title: Frequently Asked Questions
 
 * If there is a disagreement over the Notification for Relief, either party may also make an application to the Assessors for a determination on the case. Please click on [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
 
-**j. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
+**l. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
 * Part 2 of the [Act](https://sso.agc.gov.sg/act/covid19tma2020){:target="_blank"} on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to terminations or evictions that occurred before that date. 
 
 * If you believe that your landlord has breached the terms of the tenancy agreement, please seek legal advice.  
 
-**k. I wish to terminate my lease or licence early, without having to forfeit my security deposit or without being liable for the remaining term of the lease or licence. Does the Act assist me?** 
+**m. I wish to terminate my lease or licence early, without having to forfeit my security deposit or without being liable for the remaining term of the lease or licence. Does the Act assist me?** 
 
 * The Act does not change the terms of your contract with your landlord. If the contract provides for charges or other fees for early termination, you will still be liable to pay these charges and fees to your landlord as provided under the contract, unless you and your landlord agree otherwise.
 
 * Your landlord may also be entitled to forfeit the security deposit if you breached your tenancy agreement. 
 
 * If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract against this rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. 
-
-
-
-
-
 
