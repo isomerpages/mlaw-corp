@@ -27,10 +27,10 @@ collection_name: covid19
 <tbody>	
   <tr>	
     <td class="tg-73oq">1. Companies 	
-      <br>2. Variable Capital Companies	
-      <br>3. Business Trusts	
-      <br>4. Unit Trusts	
-      <br>5. Debenture Holders	
+      <br><br> 2. Variable Capital Companies	
+      <br><br> 3. Business Trusts	
+      <br><br> 4. Unit Trusts	
+      <br><br> 5. Debenture Holders	
     </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20200413-additional-guidance-conduct-general-meetings-during-elevated-safe-distancing" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco), enclosing Checklist for the Conduct of General Meetings During Circuit Breaker (updated on 24 April)</a>
@@ -63,8 +63,8 @@ collection_name: covid19
   </tr>
   <tr>	
     <td class="tg-73oq">1.	Charities 	
-      <br>2. Co-operative Societies	
-      <br>3.	Mutual Benefit Organisations	
+      <br><br> 2. Co-operative Societies	
+      <br><br> 3.	Mutual Benefit Organisations	
       
       </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S327-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Charities, Co-operative Societies and Mutual Benefit Organisations) Order 2020</a></td>	
