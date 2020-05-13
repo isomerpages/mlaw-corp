@@ -75,7 +75,7 @@ permalink: /news/press-releases/Enhancements-to-the-COVID-19-Temporary-Measures-
 
 
 **MINISTRY OF LAW**
-**13 MAY 2020**
+<br>**13 MAY 2020**
 
 <p><sup id="fn1">1. If the OTP is granted by HDB, the intending buyer may approach HDB to seek an extension of the OTP. For Executive Condominiums, the intending buyer may approach the developer directly. For OTPs granted by a licensed private housing developer, the intending buyer may write to the Controller of Housing and approach the developer. For OTPs that are granted by non-licensed private housing developers, the intending buyer may approach the developer directly to seek an extension of the OTP. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
