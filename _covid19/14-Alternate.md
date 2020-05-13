@@ -18,10 +18,10 @@ collection_name: covid19
 <div class="tg-wrap"><table class="tg">	
 <thead>	
   <tr>	
-    <th class="tg-73oq">Sector</th>	
-    <th class="tg-73oq">Orders</th>	
-    <th class="tg-73oq">Important Guidance</th>	
-    <th class="tg-73oq">Contact for Enquiries</th>	
+    <th class="tg-73oq"><b>Sector</b></th>	
+    <th class="tg-73oq"><b>Orders</b></th>	
+    <th class="tg-73oq"><b>Important Guidance</b></th>	
+    <th class="tg-73oq"><b>Contact for Enquiries</b></th>	
   </tr>	
 </thead>	
 <tbody>	
@@ -40,7 +40,7 @@ collection_name: covid19
     <td class="tg-73oq">For enquires pertaining to Variable Capital Companies, listed Business Trusts, REITS, and unit trusts, please email MAS at <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>
     <br><br>For enquires pertaining to listed companies, please email SGX at <a href="mailto:Listingcompliance@sgx.com">Listingcompliance@sgx.com</a>
     <br><br>
-    For enquiries pertaining to non-listed companies, please contact ACRA via <a href="www.acra.gov.sg/feedback">www.acra.gov.sg/feedback</a> or contact ACRA Helpdesk at 6224 6088.
+    For enquiries pertaining to non-listed companies, please contact ACRA via <a href="https://www.acra.gov.sg/feedback" target="_blank">www.acra.gov.sg/feedback</a> or contact ACRA Helpdesk at 6224 6088.
     </td>	
   </tr>	
   <tr>	
@@ -75,7 +75,7 @@ collection_name: covid19
     <br><br>
     <a href="https://www.mccy.gov.sg/sector/initiatives/resources-and-useful-links" target="_blank">Registry of Co-operative Societies’ Guidelines</a>
     <br><br>
-    <a href="https://www.mccy.gov.sg/sector/initiatives/alt-arrangements-covid-mbo" target="_blank">•	Guidance and templates for Mutual Benefit Organisations</a>
+    <a href="https://www.mccy.gov.sg/sector/initiatives/alt-arrangements-covid-mbo" target="_blank">Guidance and templates for Mutual Benefit Organisations</a>
     
     </td>	
     <td class="tg-73oq">
@@ -97,18 +97,17 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <br><br><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/faqs-on-holding-of-meetings-for-registered-societies.pdf" target="_blank">FAQs on alternative meeting arrangements for registered societies</a>
     </td>	
     <td class="tg-73oq">
-    For enquiries pertaining to registered societies, please contact the Ministry of Home Affairs, Registry of Societies at <a href="mha_ros_feedback@mha.gov.sg">mha_ros_feedback@mha.gov.sg</a>
+    For enquiries pertaining to registered societies, please contact the Ministry of Home Affairs, Registry of Societies at <a href="mailto:mha_ros_feedback@mha.gov.sg">mha_ros_feedback@mha.gov.sg</a>
     </td>	
   </tr>
   <tr>	
     <td class="tg-73oq">Management Corporations</td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S322-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Management Corporations, Subsidiary Management Corporations and Collective Sale Committees) Order 2020</a>
-    
     </td>	
     <td class="tg-73oq">
     <a href="https://go.gov.sg/bca-guidance-convening-agm-covid19" target="_blank">Building & Construction Authority’s Circular and Guidance Notes on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation</a>
     <br><br>
-    <a href="www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
+    <a href="https://www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
     </td>	
     <td class="tg-73oq">
     For enquiries pertaining to general meetings for en bloc sales and meetings of collective sale committees, please contact the Ministry of Law via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/"  target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
@@ -133,7 +132,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     </td>	
     <td class="tg-73oq"></td>	
     <td class="tg-73oq">
-    For enquiries pertaining to school management committees and governing boards, please contact the Ministry of Education via the online feedback form at <a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a>
+    For enquiries pertaining to school management committees and governing boards, please contact the Ministry of Education via the online feedback form at <a href="https://www.moe.gov.sg/feedback" target="_blank">https://www.moe.gov.sg/feedback</a>
     </td>	
   </tr>
   <tr>	
@@ -144,7 +143,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     </td>	
     <td class="tg-73oq"></td>	
     <td class="tg-73oq">
-    For enquiries pertaining to town councils, please contact the Ministry of National Development at <a href="mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a> 
+    For enquiries pertaining to town councils, please contact the Ministry of National Development at <a href="mailto:mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a> 
     </td>	
   </tr>
   <tr>	
