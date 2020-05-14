@@ -46,23 +46,23 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 <b>For OTPs</b>
 
-    *	The OTP was granted by the developer before 25 March 2020 
+   *	The OTP was granted by the developer before 25 March 2020 
+   
+   *	The buyer is unable to make any payment required upon exercising the OTP, due to COVID-19
     
-    *	The buyer is unable to make any payment required upon exercising the OTP, due to COVID-19
+   *	The OTP expires on or after 1 February 2020 
     
-    *	The OTP expires on or after 1 February 2020 
-    
-    *	The buyer has served a Notification for Relief on the developer 
+   *	The buyer has served a Notification for Relief on the developer 
 
 <b>For S&P Agreements / AFLs</b>
 
-    *	The S&P Agreement / AFL with the developer was entered into before 25 March 2020 
+   *	The S&P Agreement / AFL with the developer was entered into before 25 March 2020 
     
-    *	The buyer is unable to make a payment due under the S&P Agreement / AFL because of COVID-19 
+   *	The buyer is unable to make a payment due under the S&P Agreement / AFL because of COVID-19 
     
-    *	The payment is due on or after 1 February 2020 
+   *	The payment is due on or after 1 February 2020 
     
-    *	The buyer has served a Notification for Relief on the developer
+   *	The buyer has served a Notification for Relief on the developer
     
 
 **e.	What must I, the buyer, do to enjoy the reliefs?**
