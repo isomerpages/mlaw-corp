@@ -49,8 +49,8 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 {:start="6"}
 6.      Law practices are also reminded to observe the advisory on strict safe distancing measures at workplace at all times, failing which MOM and MOH will take enforcement actions against employers who do not implement safe distancing measures, including ordering employers or occupiers to cease operations until measures are put in place.
 
-For more information, please refer to our [FAQs](/files/news/announcements/2020/01/FAQs_website_update29042020.pdf).
+For more information, please refer to our [FAQs](/files/news/announcements/2020/01/FAQs website_update14May2020.pdf).
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b>29 APRIL 2020</b>
+<b>14 May 2020</b>
