@@ -38,7 +38,7 @@ The following Orders have therefore been made under Section 27 of the Act, to en
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20200413-additional-guidance-conduct-general-meetings-during-elevated-safe-distancing" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco), enclosing Checklist for the Conduct of General Meetings During Circuit Breaker (updated on 24 April)</a>
     <br><br>
-    <a href="https://api2.sgx.com/sites/default/files/2020-04/20200430_FAQs_The%20holding%20of%20GMs_Updated%20%28SGX%20RegCo%29.pdf" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
+    <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
     </td>	
     <td class="tg-73oq">For enquires pertaining to Variable Capital Companies, listed Business Trusts, REITS, and unit trusts, please email MAS at <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>
     <br><br>For enquires pertaining to listed companies, please email SGX at <a href="mailto:Listingcompliance@sgx.com">Listingcompliance@sgx.com</a>
