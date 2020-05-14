@@ -23,7 +23,7 @@ Mr Thum could not have overlooked the first notice either. The warning was sent,
 
 (See [Chronology of POFMA Office's Exchanges with Mr Thum](/files/news/replies/Chronology_of_POFMA_Office_exchanges _with_Mr_Thum.pdf))
 
-*At 8.22 pm on 14 May 2020, POFMA Office sent Mr Thum a further email, objecting to his allegation that the Government had made a "belated request" for correction, and stating that it was untrue in view of the correspondence between themselves and Mr Thum. Mr Thum has since removed this allegation from his Facebook post.
+*At 8.22 pm on 14 May 2020, POFMA Office sent Mr Thum a further email, pointing out that his allegation, that the Government had made a "belated request" for correction, was untrue and referring to the correspondence, which showed it to be untrue. Mr Thum has since removed this allegation from his Facebook post, without any explanation.
 
 
 <p class="right-side-updated">Last updated on 14 May 2020</p> 
