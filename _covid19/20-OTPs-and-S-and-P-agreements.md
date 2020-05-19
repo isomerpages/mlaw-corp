@@ -148,7 +148,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 **n.	My OTP is about to expire. I cannot make the payment due because of COVID-19. I no longer want to exercise the option, and am afraid that I will lose all of my booking fee. What should I do to seek relief under the Act?**
 
-*	First, you should serve the developer with a Notification for Relief, as explained further at (e). Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or after 19 October 2020. 
+*	First, you should serve the developer with a Notification for Relief, as explained further at (e). Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
 
 *	Next, you should discuss with the developer to reach a mutually acceptable solution on dealing with the booking fee. 
 
