@@ -29,6 +29,6 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 <br>
 <b>20 May 2020</b>
 
-<p><sup id="fn1">1. For the list of businesses which may operate from 2 June 2020, please refer to  [https://covid.gobusiness.gov.sg/permittedlist/](https://covid.gobusiness.gov.sg/permittedlist/). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. For the list of businesses which may operate from 2 June 2020, please refer to  https://covid.gobusiness.gov.sg/permittedlist/. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2. For full requirements of Safe Management Measures and checklist on MOM website, please refer to  [www.mom.gov.sg/covid-19/requirements-for-safe-management-measures](www.mom.gov.sg/covid-19/requirements-for-safe-management-measures). <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. For full requirements of Safe Management Measures and checklist on MOM website, please refer to  www.mom.gov.sg/covid-19/requirements-for-safe-management-measures. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
