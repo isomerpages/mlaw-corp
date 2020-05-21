@@ -24,10 +24,11 @@ permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Dista
 {:start="6"}
 6. Law practices must also comply with the requirements for Safe Management Measures<sup><a href="#fn2" id="ref2">2</a></sup> seen on [https://covid.gobusiness.gov.sg/safemanagement/general](https://covid.gobusiness.gov.sg/safemanagement/general). All law practices must put in place Safe Management Measures before resuming workplace activities, in order to provide a safe working environment and prevent transmission at the workplace. These requirements include the staggering of working and break hours, ensuring clear physical spacing of at least 1 metre between persons, and implementing SafeEntry to record the entry of all personnel and visitors. Strict checks will be conducted, and law practices that do not provide a safe workplace for their staff will have their operations suspended until they are able to do so.
 
+For more information, please refer to our [FAQs](/files/news/announcements/2020/01/FAQs_website_update21May2020.pdf).
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b>20 May 2020</b>
+<b>21 May 2020</b>
 
 <p><sup id="fn1">1. For the list of businesses which may operate from 2 June 2020, please refer to <a href="https://covid.gobusiness.gov.sg/permittedlist/">https://covid.gobusiness.gov.sg/permittedlist/</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
