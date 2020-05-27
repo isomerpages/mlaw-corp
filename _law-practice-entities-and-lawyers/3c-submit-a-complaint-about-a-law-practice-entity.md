@@ -48,7 +48,7 @@ Report a breach by a Law Practice Entity
   </tr>
   <tr>
     <td><b>How do I make the complaint?</b></td>
-  <td style="text-align: justify">To submit a complaint about a law practice entity in Singapore, please click<a href="https://www.mlaw.gov.sg/eservices/lsra/complaint-introduction/" target="_blank"> here</a>.
+  <td style="text-align: justify">To submit a complaint about a law practice entity in Singapore, please click<a href="https://eservices.mlaw.gov.sg/lsra/complaint-introduction" target="_blank"> here</a>.
     </td>
   </tr>
 </table>
