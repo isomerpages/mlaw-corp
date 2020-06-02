@@ -29,7 +29,7 @@ MinLaw and IPOS are seeking feedback on a proposed licensing scheme for Collecti
 Alternatively, if you prefer to provide detailed comments in writing, instructions for doing so may be found in <u>**Part IV**</u> of the full consultation paper (link above).
 
 **Confidentiality of Feedback Received**
-
+ 
 MinLaw and IPOS reserve the right to make public all or parts of any written submission. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked. 
 
 <p class="right-side-updated">Last updated on 03 Jun 2020</p> 
