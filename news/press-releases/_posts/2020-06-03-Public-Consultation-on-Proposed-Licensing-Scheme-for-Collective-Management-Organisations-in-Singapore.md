@@ -55,7 +55,7 @@ permalink: /news/press-releases/Public-Consultation-on-Proposed-Licensing-Scheme
 <p class="address-centered">100 High Street, #08-02, The Treasury</p>
 <p class="address-centered">Singapore 179434</p>
 
-<p class="address-centered">Email: [MLAW_Consultation@mlaw.gov.sg](MLAW_Consultation@mlaw.gov.sg)</p>
+<p class="address-centered">Email: <a href="MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
  
 
 **MINISTRY OF LAW**
