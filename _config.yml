@@ -8,6 +8,7 @@ url: "https://www.mlaw.gov.sg" # the base hostname & protocol for your site, e.g
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
+future: true
 
 plugins:
   - jekyll-feed
