@@ -109,7 +109,7 @@ permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
 
 **Annex B: Total Amount of Rental Relief Provided**
 
-isomerpages-mlaw/images/news/press-releases/Picture1.jpg
+https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Picture1.jpg?raw=true
 
 *Owners of qualifying commercial properties will receive approximately 1.2 months through the Property Tax Rebate, and owners of industrial/ office properties will receive approximately 0.36 month through the Property Tax Rebate. The Government will provide additional cash grants approximately equivalent to 0.8 month of rent for qualifying commercial properties, and approximately 0.64 month of rent for industrial/office properties.
 
