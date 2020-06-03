@@ -23,7 +23,7 @@ In order to ensure that rights are efficiently transacted, MinLaw and IPOS are r
 
 MinLaw and IPOS are seeking feedback on a proposed licensing scheme for Collective Management Organisations (CMOs) in Singapore. This follows on from the responses received during the [Copyright Collective Rights Management Ecosystem Public Consultation 2017](/files/Copyright-Review-CMO-Consultation-Paper.pdf), and elaborates on the “light-touch” regulatory approach laid out in the [Copyright Review Report in 2019](https://www.mlaw.gov.sg/files/news/press-releases/2019/01/Annex%20A%20-%20Copyright%20Review%20Report%2016%20Jan%202019.pdf). Your views are important and will help shape the outcome of this review. The consultation period will run from Wed **<u>3 June to Tue 30 June 2020</u>**.
 
--	[Read the full consultation paper on the Proposed Licence Conditions and Code of Conduct for Collective Management Organisations](/files/news/public-consultations/2020/02/CMO_Consultation_Paper.pdf) [PDF].
+-	[Read the full consultation paper on the Proposed Licence Conditions and Code of Conduct for Collective Management Organisations](/files/news/public-consultations/2020/02/CMO_Consultation_Paper_.pdf) [PDF].
 -	Provide feedback via [Form SG](https://form.gov.sg/5ed0c8e2e14a9b0011b0ad2c) .
 
 Alternatively, if you prefer to provide detailed comments in writing, instructions for doing so may be found in **<u>Part IV</u>** of the full consultation paper (link above).
