@@ -30,13 +30,13 @@ permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
 
 **(i)	Government Assistance for Rental Relief** 
 
-*	The Government will give about 2 months’ relief of the rental costs of SME tenants (i.e. with not more than $100 million in annual turnover ) with qualifying leases or licences commencing before 25 March 2020, as follows: 
+*	The Government will give about 2 months’ relief of the rental costs of SME tenants (i.e. with not more than $100 million in annual turnover<sup><a href="#fn1" id="ref1">1</a></sup>) with qualifying leases or licences commencing before 25 March 2020, as follows: 
 
     * As part of the Fortitude Budget, the Government will provide additional cash grants equivalent to approximately 0.8 months of rent for qualifying commercial properties, and approximately 0.64 months of rent for industrial and office properties. 
 
     * Taken together with the Property Tax Rebate granted in the Resilience Budget, the Government will provide an equivalent of approximately 2 months of rent for qualifying commercial properties, and approximately 1 month of rent for industrial and office properties. 
 
-*	To ensure that these measures benefit the intended beneficiaries, the Bill will mandate that SME tenants in qualifying commercial properties receive 2 months’ waiver of their base rental , and SME tenants in industrial/office properties receive 1 month’s waiver of their base rental.  
+*	To ensure that these measures benefit the intended beneficiaries, the Bill will mandate that SME tenants in qualifying commercial properties receive 2 months’ waiver of their base rental<sup><a href="#fn2" id="ref2">2</a></sup>, and SME tenants in industrial/office properties receive 1 month’s waiver of their base rental.  
 
 *	This rental waiver will apply to April and May 2020 for SME tenants in qualifying commercial properties, and April 2020 for SME tenants in industrial/office properties, as long as their leases or licenses are in force on 1 April 2020. These periods correspond to the Circuit Breaker when businesses were clearly impacted by COVID-19.
 
@@ -55,7 +55,7 @@ permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
 
 **(iii)	Repayment scheme for rental arrears**
 
-*	SMEs that qualify for landlord relief may also elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 February up till 19 October 2020 . 
+*	SMEs that qualify for landlord relief may also elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 February up till 19 October 2020<sup><a href="#fn3" id="ref3">3</a></sup>. 
 
 *	Upon serving the notice, tenants must start payment of the first instalment no later than 1 November 2020. Under the repayment scheme, tenants can pay for a specified portion of their arrears over an extended period of time (up to 9 months, or the remaining term of the tenancy, whichever is shorter) in equal instalments, with the interest payable on such arrears capped at 3% per annum. 
 
@@ -92,6 +92,12 @@ permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
 
 **03 JUNE 2020**
 
+<p><sup id="fn1">1. This will be based on Corporate Tax and Individual Income Tax returns for the Year of Assessment 2019.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+
+<p><sup id="fn2">2. Base rent excludes any Gross Turnover payable and maintenance fee and charges for the provision of services such as cleaning and security.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
+<p><sup id="fn3">3. This corresponds to the prescribed period of relief for non-performance of contractual obligations provided for under the Act.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+
 
 *Annex A: Additional rental relief to be provided by landlord eligibility criteria*<br>
 *Annex B: Summary of total rental relief SME tenants may receive*
@@ -109,7 +115,7 @@ permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
 
 **Annex B: Total Amount of Rental Relief Provided**
 
-https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Picture1.jpg?raw=true
+![image](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Picture1.jpg?raw=true)
 
 *Owners of qualifying commercial properties will receive approximately 1.2 months through the Property Tax Rebate, and owners of industrial/ office properties will receive approximately 0.36 month through the Property Tax Rebate. The Government will provide additional cash grants approximately equivalent to 0.8 month of rent for qualifying commercial properties, and approximately 0.64 month of rent for industrial/office properties.
 
