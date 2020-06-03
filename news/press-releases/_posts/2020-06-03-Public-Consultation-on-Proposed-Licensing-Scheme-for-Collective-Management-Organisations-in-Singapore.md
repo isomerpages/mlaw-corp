@@ -61,6 +61,6 @@ permalink: /news/press-releases/Public-Consultation-on-Proposed-Licensing-Scheme
 **MINISTRY OF LAW**
 **INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
 
-**3 JUNE 2020**
+**03 JUNE 2020**
 
 <p class="right-side-updated">Last updated on 03 Jun 2020</p>
