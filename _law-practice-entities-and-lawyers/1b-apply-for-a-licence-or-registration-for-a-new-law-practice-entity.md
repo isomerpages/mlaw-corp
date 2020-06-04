@@ -127,7 +127,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
     <td>
       <ul>
         <li style="text-align:justify">FLAs, GPs and ROs do not need to update their UEN in LSRA e-Services, but they need to pay the licence / registration fee.</li>
-        <li style="text-align:justify">SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx">FAQ</a>.</li>
+        <li style="text-align:justify">SLPs do not need to apply for a new licence if they are changing from a sole proprietorship to a partnership, and vice versa. For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx" target="_blank">FAQ</a>.</li>
       </ul>
     </td>
   </tr>
