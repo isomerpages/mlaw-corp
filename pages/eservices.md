@@ -6,7 +6,7 @@ breadcrumb: E-Services
 ---
 **E-Services** <br>
 
-MinLaw e-Services is undergping maintenance from 6 June 1900 to 7 June 0800. <br>
+MinLaw e-Services is undergoing maintenance from 6 June 1900 to 7 June 0800. <br>
 We apologise for any convenience caused and thank you for your patience. <br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
