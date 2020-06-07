@@ -9,7 +9,7 @@ collection_name: covid19
 
 The COVID-19 (Temporary Measures) (Amendment) Bill (the “Amendment Bill”) was passed in Parliament on 5 June 2020.
 
-The Amendment Bill will provide relief for certain parties affected by breaches or delays in construction or supply contracts (defined [here](/covid19-relief/faq/lease-licence)), where such breach or delay is due to COVID-19.
+The Amendment Bill will provide relief for certain parties affected by breaches or delays in construction or supply contracts (defined [here](/covid19-relief/faq/Construction)), where such breach or delay is due to COVID-19.
 
 The relief will apply to a contract between A and B (the “affected contract”), where:
 
