@@ -25,7 +25,7 @@ Eligible SMEs which are occupying tenants (including subtenants and licensees) c
 
 The rental relief will be part supported by Government assistance, and part shared by landlords, as summarised in the table below:
 
-![image](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/TenantReliefTable.JPG)
+![image](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/TenantReliefTable.jpg?raw=true)
 
 *Government Assistance: Owners of qualifying commercial properties will receive approximately 1.2 months through the Property Tax Rebate, and owners of industrial/ office properties will receive approximately 0.36 month through the Property Tax Rebate. The Government will provide additional cash grants approximately equivalent to 0.8 month of rent to owners of qualifying commercial properties, and approximately 0.64 month of rent to owners of industrial/office properties. To ensure that these measures benefit the intended beneficiaries, landlords will be required to grant eligible SMEs in qualifying commercial properties 2 months’ waiver of their base rental, and eligible SMEs in industrial/office properties 1 month’s waiver of their base rental. This will provide rental relief to eligible SMEs (i.e. with not more than $100 million in annual turnover) with qualifying leases or licences in force on 1 April 2020 and (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and renewed automatically, or in exercise of a right of renewal in the contract.
 
