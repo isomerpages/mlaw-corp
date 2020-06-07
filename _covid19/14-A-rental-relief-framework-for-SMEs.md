@@ -12,14 +12,14 @@ The rental relief framework aims to help affected SMEs* who need more time and s
 
 These measures are intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are encouraged to continue to try and work out mutually agreeable arrangements that best address their specific circumstances.
 
- - <a href="#rental">Rental relief provided by Government and Landlords</a> 
+ - <a href="#rental" id="ref1">Rental relief provided by Government and Landlords</a> 
  - <a href="#eligibility">Eligibility Criteria of SMEs</a> 
  - <a href="#assess">(For Landlords) Application for Assessment</a> 
  - <a href="#repay">Repayment scheme for rental arrears</a> 
 
 *The new rental relief framework will also be applicable for eligible Non-Profit Organisations (NPOs) and tenants of government properties. 
 
-##### <a name="rental">Rental relief provided by Government and Landlords</a><a href="#rental" title="Return to top">↩</a> #####
+##### <a name="rental">Rental relief provided by Government and Landlords</a><a href="#ref1" title="Return to top">↩</a> #####
 
 Eligible SMEs which are occupying tenants (including subtenants and licensees) can receive a total of 4 months’ waiver of base rental for commercial properties, and a total of 2 months’ waiver of base rental for industrial and office properties, provided by the Government and landlords.
 
