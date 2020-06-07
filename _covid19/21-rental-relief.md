@@ -36,11 +36,13 @@ second_nav_title: Frequently Asked Questions
 
 * Occupying tenants (including subtenants and licensees) will need to satisfy all criteria below to be eligible for the mandatory rental relief co-shared by landlords:
     
-a)  SME at the group level (≤$100 million turnover in 2019); 
+    a)	SME at the group level (≤$100 million turnover in 2019); 
     
-b)  Substantial drop in average monthly revenue during COVID-19 (average monthly revenue from April to May 2020 on an outlet level reduced by 35% or more, compared to April to May 2019)
+    
+    b)	Substantial drop in average monthly revenue during COVID-19 (average monthly revenue from April to May 2020 on an outlet level reduced by 35% or more, compared to April to May 2019)
+    
 
-c) The tenancy must be in force on 1 April 2020 <u>and</u> must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract
+    c)	The tenancy must be in force on 1 April 2020 <u>and</u> must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract
 
 
 **d.	What should I do prior to the implementation of the Act?** 
