@@ -13,11 +13,11 @@ The Amendment Bill will provide relief for certain parties affected by breaches 
 
 The relief will apply to a contract between A and B (the “affected contract”), where:
 
-a.  The affected contract does <u>**not**</u> fall within a prescribed class of contracts
+a.  The affected contract does **<u>not</u>** fall within a prescribed class of contracts
     
 b.  The affected contract is in force during the prescribed period (20 April 2020 to 19 October 2020)
     
-c.  During the period from 1 February 2020 to 19 October 2020 (both days inclusive), the affected contract (between A and B) is affected by a breach or delay in a construction or supply or related contract (which need <u>**not**</u> be between A and B)
+c.  During the period from 1 February 2020 to 19 October 2020 (both days inclusive), the affected contract (between A and B) is affected by a breach or delay in a construction or supply or related contract (which need **<u>not</u>** be between A and B)
     
 d.  That breach or delay:
     
@@ -26,7 +26,7 @@ d.  That breach or delay:
     
 Where the relief applies, A or B may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. The Assessor may make adjustments to certain of A’s and B’s contractual obligations. The contractual obligations that may be adjusted by the Assessor will be prescribed by the Minister.
 
-This relief will <u>**not**</u> apply to all types of contracts. MinLaw is considering the scope of this relief and the Assessor’s powers, and will release details at a later date.
+This relief will **<u>not</u>** apply to all types of contracts. MinLaw is considering the scope of this relief and the Assessor’s powers, and will release details at a later date.
 
 **Illustrative example**
 
