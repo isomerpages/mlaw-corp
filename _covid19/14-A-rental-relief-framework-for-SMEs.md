@@ -19,7 +19,7 @@ These measures are intended to establish a baseline position for the handling of
 
 *The new rental relief framework will also be applicable for eligible Non-Profit Organisations (NPOs) and tenants of government properties. 
 
-##### <a name="rental">Rental relief provided by Government and Landlords</a> #####
+##### <a name="rental">Rental relief provided by Government and Landlords</a><a href="#rental" title="Return to top">↩</a> #####
 
 Eligible SMEs which are occupying tenants (including subtenants and licensees) can receive a total of 4 months’ waiver of base rental for commercial properties, and a total of 2 months’ waiver of base rental for industrial and office properties, provided by the Government and landlords.
 
