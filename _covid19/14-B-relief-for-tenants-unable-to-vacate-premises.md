@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Relief for tenants unable to vacate business premises 
+title: Relief for Tenants Unable to Vacate Premises
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
-breadcrumb: Relief for tenants unable to vacate business premises 
+breadcrumb: Relief for Tenants Unable to Vacate Premises
 collection_name: covid19
 second_nav_title: Rental Relief Framework
 ---
