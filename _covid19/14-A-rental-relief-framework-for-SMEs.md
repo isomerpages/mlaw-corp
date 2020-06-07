@@ -13,9 +13,9 @@ The rental relief framework aims to help affected SMEs* who need more time and s
 These measures are intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are encouraged to continue to try and work out mutually agreeable arrangements that best address their specific circumstances.
 
  - <a href="#rental" id="ref1">Rental relief provided by Government and Landlords</a> 
- - <a href="#eligibility">Eligibility Criteria of SMEs</a> 
- - <a href="#assess">(For Landlords) Application for Assessment</a> 
- - <a href="#repay">Repayment scheme for rental arrears</a> 
+ - <a href="#eligibility" id="ref2">Eligibility Criteria of SMEs</a> 
+ - <a href="#assess" id="ref3">(For Landlords) Application for Assessment</a> 
+ - <a href="#repay" id="ref4">Repayment scheme for rental arrears</a> 
 
 *The new rental relief framework will also be applicable for eligible Non-Profit Organisations (NPOs) and tenants of government properties. 
 
@@ -31,7 +31,7 @@ The rental relief will be part supported by Government assistance, and part shar
 
 ^The rental waivers can be offset by any previous direct monetary assistance provided by the landlord to the tenant (or subtenant/licensee) from February 2020 onwards and/or any earlier passing down of the Property Tax Rebate.
 
-##### <a name="eligibility">Eligibility Criteria for Additional Rental Relief to be provided by Landlords</a> #####
+##### <a name="eligibility">Eligibility Criteria for Additional Rental Relief to be provided by Landlords<a href="#ref2" title="Return to top">↩</a> #####
 
 Occupying tenants (including subtenants and licensees) will need to satisfy <u>all criteria</u> below to be eligible for the mandatory rental relief co-shared by landlords:
 
@@ -41,7 +41,7 @@ Occupying tenants (including subtenants and licensees) will need to satisfy <u>a
 
 3. The tenancy must be in force on 1 April 2020 <u>and</u> must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract
 
-##### <a name="assess">Landlord’s application for assessment</a> #####
+##### <a name="assess">Landlord’s application for assessment<a href="#ref3" title="Return to top">↩</a> #####
 
 Landlords will have the opportunity to apply to have an Assessor determine whether the tenant satisfies the eligibility criteria. The case will be examined by an Assessor, who will ascertain the tenant’s (or subtenant’s/licensee’s) eligibility. The legislation will require that tenants provide the necessary information to determine eligibility to the landlord upon request. 
 
@@ -51,7 +51,7 @@ If the landlord meets the grounds of financial hardship, the Assessor can halve 
 
 The Assessor’s determination will be binding on both parties.
 
-##### <a name="repay">Repayment scheme for rental arrears</a> #####
+##### <a name="repay">Repayment scheme for rental arrears<a href="#ref4" title="Return to top">↩</a> #####
 
 Eligible SMEs that qualify for the additional relief by landlords may also elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 February up till 19 October 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 October 2020. 
 
