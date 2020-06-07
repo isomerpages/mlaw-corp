@@ -71,3 +71,8 @@ Landlords may also draw the existing security deposits to offset accumulated ren
 Tenants who have rescheduled the payment of arrears will have to provide specified documents and information to their landlords if: (a) the lease agreement is terminated or repudiated during the repayment period; and (b) there are 2 or more rescheduled repayment instalments outstanding. 
 
 The documents and information to be provided will include filing a statutory declaration on their statement of accounts from April 2020 until the termination or repudiation of the lease. The tenant will also be required to set out how he proposes to repay the outstanding rental arrears.
+
+
+*Other resources:*
+-	[Infographic on the Rental Relief Framework](/files/Infographic-Rental-Relief-Framework.pdf) [PDF]
+-	[Infographic on Support for Tenants and Landlords](/files/Infographic-Support-for-Tenants-and-Landlords.pdf) [PDF]
