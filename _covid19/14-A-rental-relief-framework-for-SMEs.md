@@ -4,7 +4,6 @@ title: Rental Relief Framework for SMEs
 permalink: /covid19-relief/rental-relief-framework-for-SMEs
 breadcrumb: Rental Relief Framework for SMEs
 collection_name: covid19
-second_nav_title: Rental Relief Framework
 ---
 ### Rental Relief Framework for SMEs ###
 
