@@ -253,10 +253,10 @@ c. Third, what is the alternative if we do not intervene?
 71. For this group, they may seek an assessment on the grounds of financial hardship. The assessment will take into consideration the annual value of the landlord's properties, and whether rental income forms a substantial part of his or her total income.  
 
 {:start="72"}
-Qualifying landlords will only be required to give half of the additional rental waivers.
+72. Qualifying landlords will only be required to give half of the additional rental waivers.
 
 {:start="73"}
-We will set out the criteria for landlords to qualify for this, in subsidiary legislation.  
+73. We will set out the criteria for landlords to qualify for this, in subsidiary legislation.  
 
 <u>Some implementation details</u>
 
