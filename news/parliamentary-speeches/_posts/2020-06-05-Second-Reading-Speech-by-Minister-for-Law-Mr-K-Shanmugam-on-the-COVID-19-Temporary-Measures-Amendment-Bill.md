@@ -457,7 +457,7 @@ b. There are two or more rescheduled repayment instalments outstanding.
 {:start="132"}
 132. Banks and finance companies will also take into account their borrowers' repayment ability after the relief period and adjust repayment plans if necessary. 
 
-**(VI) Conclusion5*
+**(VI) Conclusion**
 
 {:start="133"}
 133. Mr Speaker Sir, let me now conclude. 
