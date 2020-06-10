@@ -20,7 +20,7 @@ These measures are intended to establish a baseline position for the handling of
 
 ##### <a name="rental">Rental relief provided by Government and Landlords</a><a href="#ref1" title="Return to top">↩</a> #####
 
-Eligible SMEs which are occupying tenants (including subtenants and licensees) can receive a total of 4 months’ waiver of base rental for commercial properties, and a total of 2 months’ waiver of base rental for industrial and office properties, provided by the Government and landlords.
+Eligible SMEs which are occupying tenants (including subtenants and licensees) can receive a total of 4 months’ waiver of base rental for qualifying commercial properties (e.g shops), and a total of 2 months’ waiver of base rental for industrial and office properties, provided by the Government and landlords.
 
 The rental relief will be part supported by Government assistance, and part shared by landlords, as summarised in the table below:
 
@@ -28,9 +28,9 @@ The rental relief will be part supported by Government assistance, and part shar
   <img src="/images/TenantReliefTable.jpg/" title="Tenant Relief" alt="Tenant Relief">
 </div>
 
-*Government Assistance: Owners of qualifying commercial properties will receive approximately 1.2 months through the Property Tax Rebate, and owners of industrial/ office properties will receive approximately 0.36 month through the Property Tax Rebate. The Government will provide additional cash grants approximately equivalent to 0.8 month of rent to owners of qualifying commercial properties, and approximately 0.64 month of rent to owners of industrial/office properties. To ensure that these measures benefit the intended beneficiaries, landlords will be required to grant eligible SMEs in qualifying commercial properties 2 months’ waiver of their base rental, and eligible SMEs in industrial/office properties 1 month’s waiver of their base rental. This will provide rental relief to eligible SMEs (i.e. with not more than $100 million in annual turnover) with qualifying leases or licences in force on 1 April 2020 <u>and</u> (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and renewed automatically, or in exercise of a right of renewal in the contract.
+*Government Assistance: Owners of qualifying commercial properties (e.g. shops) will generally receive approximately 1.2 months of rent through the Property Tax Rebate, and owners of industrial/ office properties will generally receive approximately 0.36 month through the Property Tax Rebate. The Government will provide additional cash grants approximately equivalent to 0.8 month of rent to owners of qualifying commercial properties, and approximately 0.64 month of rent to owners of industrial/office properties. To ensure that these measures benefit the intended beneficiaries, landlords will be required to grant eligible SMEs in qualifying commercial properties 2 months’ waiver of their base rental, and eligible SMEs in industrial/office properties 1 month’s waiver of their base rental. This will provide rental relief to eligible SMEs (i.e. with not more than $100 million in annual  turnover reported in their tax returns filed for Year of Assessment 2019, <u>and</u> (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and renewed automatically, or in exercise of a right of renewal in the contract. 
 
-^The rental waivers can be offset by any previous direct monetary assistance provided by the landlord to the tenant (or subtenant/licensee) from February 2020 onwards and/or any earlier passing down of the Property Tax Rebate.
+^The rental waivers may subject to conditions be offset by any previous direct monetary assistance provided by the landlord to the tenant (or subtenant/licensee) and/or any passing on of the Property Tax Rebate from property owners to their tenants.
 
 ##### <a name="eligibility">Eligibility Criteria for Additional Rental Relief to be provided by Landlords<a href="#ref2" title="Return to top">↩</a> #####
 
@@ -38,7 +38,7 @@ Occupying tenants (including subtenants and licensees) will need to satisfy <u>a
 
 1.  SME at the group level (≤$100 million turnover in 2019); 
     
-2.  Substantial drop in average monthly revenue during COVID-19 (average monthly revenue from April to May 2020 on an outlet level reduced by 35% or more, compared to April to May 2019)
+2.  Substantial drop in average monthly revenue during COVID-19 (average monthly revenue from April to May 2020 on an outlet level reduced by 35% or more, compared to April to May 2019); and
 
 3. The tenancy must be in force on 1 April 2020 <u>and</u> must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract
 
@@ -46,11 +46,11 @@ Occupying tenants (including subtenants and licensees) will need to satisfy <u>a
 
 Landlords will have the opportunity to apply to have an Assessor determine whether the tenant satisfies the eligibility criteria. The case will be examined by an Assessor, who will ascertain the tenant’s (or subtenant’s/licensee’s) eligibility. The legislation will require that tenants provide the necessary information to determine eligibility to the landlord upon request. 
 
-The landlord may also seek an assessment on the grounds of financial hardship if they are unable to provide the additional rental waiver. This will take into consideration the rental the landlord receives (which will be based on the annual value of his properties) and the landlord’s dependence on the rental income for his livelihood. 
+The landlord may also seek an assessment on the grounds of financial hardship if they are unable to provide the additional rental waiver. This will take into consideration the annual value of the landlord’s properties and the proportion of the landlord’s dependence on the rental income for his livelihood. 
 
-If the landlord meets the grounds of financial hardship, the Assessor can halve the amount of additional rental relief that needs to be provided by the landlord, i.e. 1 month waiver of base rental for commercial properties, and half a month waiver of base rental for industrial and office properties.
+If the landlord meets the grounds of financial hardship, the Assessor can halve the amount of additional rental relief that needs to be provided by the landlord, i.e. 1 month waiver of base rental for qualifying commercial properties, and half a month waiver of base rental for industrial and office properties.
 
-The Assessor’s determination will be binding on both parties.
+The Assessor’s determination will be binding on both the landlord and the tenant.
 
 ##### <a name="repay">Repayment scheme for rental arrears<a href="#ref4" title="Return to top">↩</a> #####
 
