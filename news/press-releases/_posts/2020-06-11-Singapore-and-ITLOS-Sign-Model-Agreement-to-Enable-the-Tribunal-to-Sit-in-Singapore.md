@@ -25,8 +25,8 @@ permalink: /news/press-releases/Singapore-and-ITLOS-Sign-Model-Agreement-to-Enab
 
 
 **INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA**
-**MINISTRY OF LAW**
-**11 JUNE 2020**
+<br>**MINISTRY OF LAW**
+<br>**11 JUNE 2020**
 
 
 <p class="right-side-updated">Last updated on 11 Jun 2020</p>
