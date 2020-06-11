@@ -22,8 +22,8 @@ Useful Templates
   <tr>
     <td style="text-align: justify"><a href="/files/Sample_Clauses_for_Constitution_of_Law_Corporation_June_2016.docx/" target="_blank">Sample Clauses for Constitution of Law Corporation</a>(DOC, 29KB)
     </td>
-    <td style="text-align: justify">Under rule 27 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/">Legal Profession (Law Practice Entities) Rules 2015</a>, the constitution of a law corporation must provide for the matters specified in the Second Schedule of the rules.<br><br>
-      <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/">An application for a licence for a Singapore law practice</a> structured as a law corporation must include its draft constitution as a supporting document.<br><br>
+    <td style="text-align: justify">Under rule 27 of the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession (Law Practice Entities) Rules 2015</a>, the constitution of a law corporation must provide for the matters specified in the Second Schedule of the rules.<br><br>
+      <a href="/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/" target="_blank">An application for a licence for a Singapore law practice</a> structured as a law corporation must include its draft constitution as a supporting document.<br><br>
       Applicants are advised to use LSRA’s sample clauses when drafting their constitution to prevent delays in the processing of their application.</td>
   </tr>
   <tr>
