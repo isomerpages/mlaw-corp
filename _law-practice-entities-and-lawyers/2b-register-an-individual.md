@@ -40,7 +40,7 @@ Register an Individual
       <ul>
         <li style="text-align: justify">CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
         <li style="text-align: justify">CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
-        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides">website</a>.</li>
+        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank">website</a>.</li>
       </ul>
     </td>
     <td>
@@ -62,7 +62,7 @@ Register an Individual
         <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</li>
         <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
-        <li style="text-align: justify">If a Singapore law practice (“SLP”) is registering a foreign lawyer under section 36B, 36C or 36D of the Legal Profession Act, and intends for the foreign lawyer to be a partner, director or shareholder, or to share in its profits, the approval of the Director of Legal Services under section 176(1) of the Act is required. After submitting the registration for the foreign lawyer, please concurrently submit an application for <a href="/law-practice-entities-and-lawyers/other-services/apply-for-approval-to-hold-interests-in-a-law-practice-entity/">Approval to Hold Interests in a Law Practice</a> via LSRA e-Services.</li>
+        <li style="text-align: justify">If a Singapore law practice (“SLP”) is registering a foreign lawyer under section 36B, 36C or 36D of the Legal Profession Act, and intends for the foreign lawyer to be a partner, director or shareholder, or to share in its profits, the approval of the Director of Legal Services under section 176(1) of the Act is required. After submitting the registration for the foreign lawyer, please concurrently submit an application for <a href="/law-practice-entities-and-lawyers/other-services/apply-for-approval-to-hold-interests-in-a-law-practice-entity/" target="_blank">Approval to Hold Interests in a Law Practice</a> via LSRA e-Services.</li>
       </ul>
     </td>
     <td>
