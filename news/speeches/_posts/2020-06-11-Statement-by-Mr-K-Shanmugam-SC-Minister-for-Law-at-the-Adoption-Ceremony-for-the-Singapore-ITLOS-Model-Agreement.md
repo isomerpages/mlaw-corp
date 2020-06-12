@@ -11,7 +11,7 @@ Your Excellency Judge Jin-Hyun Paik, President of the International Tribunal for
 <br>Registrar of the Tribunal, Ms Ximena Hinrichs Oyarce,
 <br>Ladies and gentlemen,
 
-<br><br>Good afternoon.
+<br>Good afternoon.
 
 <u>Introduction</u>
 
