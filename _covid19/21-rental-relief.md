@@ -81,7 +81,7 @@ b)	<u>Additional rental relief to be provided by landlords</u>: Eligible SMEs wh
 *	It is estimated that, starting from end-July 2020, IRAS will issue the notice of the cash grant or nominal notice to the eligible property owners. 
 
 
-*	The waivers will be effective by operation of law once the notice of cash grant is issued to the eligible property owners, and the tenant is not required to take any further steps or be notified.  
+*	The waivers will be effective by operation of law once the notice of cash grant is issued to the eligible property owners, and the tenant is not required to take any further steps.  
 
 
 *	IRAS will provide more details of the cash grant on its website, once the details are worked out.
