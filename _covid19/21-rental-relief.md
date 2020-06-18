@@ -24,19 +24,19 @@ second_nav_title: Frequently Asked Questions
 
 *	Eligible SMEs which are occupying tenants (including subtenants and licensees) can receive a total of 4 months’ waiver of base rental for qualifying commercial properties (e.g. shops), and a total of 2 months’ waiver of base rental for industrial and office properties, comprising the following:
 
-    a)	<u>Government assistance</u>: Occupying SME tenants in qualifying commercial properties and industrial/office properties will receive the rental relief through a waiver of rent from their landlords. The property owner will receive support through the: (a) Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) Government cash grant announced in the Fortitude Budget. 
+    a)	<u>Government assistance</u>: Occupying SME tenants in qualifying commercial properties and industrial/office properties will receive the rental relief through a waiver of rent from their landlords. Property owners (including owner-occupiers) will receive support through the: (a) Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) Government cash grant announced in the Fortitude Budget. 
     
-    To ensure that these measures benefit the intended beneficiaries, the Act will mandate that eligible SMEs in qualifying commercial properties receive 2 months’ waiver of their base rental, and eligible SMEs in industrial and office properties receive 1 month’s waiver of their base rental. This will provide rental relief to eligible SMEs (i.e. with not more than $100 million in annual turnover reported in the Year of Assessment 2019) with qualifying leases or licences in force on 1 April 2020 <u>and</u> (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and renewed automatically, or in exercise of a right of renewal in the contract.
+    To ensure that these measures benefit the intended beneficiaries, the Act will mandate that eligible SMEs in qualifying commercial properties receive 2 months’ waiver of their base rental, and eligible SMEs in industrial and office properties receive 1 month’s waiver of their base rental. This will provide rental relief to eligible SMEs (i.e. with not more than $100 million in annual turnover reported in the Year of Assessment 2019) with qualifying leases or licences (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and renewed automatically, or in exercise of a right of renewal in the contract.
 
 b)	<u>Additional rental relief to be provided by landlords</u>: Eligible SMEs who have seen a significant drop in their average monthly revenue due to COVID-19 will receive an additional 2 months’ waiver of base rental for qualifying commercial properties, and an additional 1 month’s waiver of base rental for industrial and office properties. The Act will mandate that landlords provide this additional rental relief to eligible tenants automatically, by way of rental waivers.
 
 
 **c.	What period does the rental relief cover?**
 
-*	The rental waiver through the Government assistance will apply to the rental for the months of April and May 2020 for eligible SMEs in qualifying commercial properties, and April 2020 for eligible SMEs in industrial and office properties as long as their leases or licences are in force on 1 April 2020 <u>and</u> (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract. This period of rental waiver corresponds to the start of the Circuit Breaker when businesses were clearly impacted by COVID-19.
+*	The rental waiver through the Government assistance will apply to the rental for the months of April and May 2020 for eligible occupying SME tenants in qualifying commercial properties, and April 2020 for eligible occupying SME tenants in industrial and office properties as long as their leases or licences were (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract. This period of rental waiver corresponds to the start of the Circuit Breaker when businesses were clearly impacted by COVID-19.
 
 
-*	The additional rental waiver provided by landlords to tenants substantially impacted by COVID-19 will apply for the months of June and July 2020 for eligible SMEs in qualifying commercial properties, and May 2020 for eligible SMEs in industrial/office properties, as long as their leases or licences are in force on 1 April 2020, <u>and</u> were (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and were renewed automatically, or in exercise of a right of renewal in the contract.
+*	The additional rental waiver provided by landlords to tenants substantially impacted by COVID-19 will apply for the months of June and July 2020 for eligible SMEs in qualifying commercial properties, and May 2020 for eligible SMEs in industrial/office properties, as long as their leases or licences were (i) entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and were renewed automatically, or in exercise of a right of renewal in the contract.
 
 
 *	In cases where rent has already been paid for the relief period, the tenant can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, receive a refund from the landlord.
@@ -52,7 +52,7 @@ b)	<u>Additional rental relief to be provided by landlords</u>: Eligible SMEs wh
     b)	Substantial drop in average monthly revenue during COVID-19 (average monthly revenue from April to May 2020 on an outlet level reduced by 35% or more, compared to April to May 2019); and 
     
 
-    c)	The tenancy must be in force on 1 April 2020, <u>and</u> must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract. 
+    c)	The tenancy must have been: (i) entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and was renewed automatically, or in exercise of a right of renewal in the contract. 
 
 
 **e.	What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?** 
