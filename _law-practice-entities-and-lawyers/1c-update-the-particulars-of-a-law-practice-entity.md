@@ -77,8 +77,9 @@ Update the Particulars of a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Some administrative details (e.g. telephone number) will be updated automatically upon submission. Other updates may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
+        <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
+        <li style="text-align: justify">Changes made to a law practice's particulars (e.g. name, address, telephone/fax number and/or email address) will be transmitted to the Supreme Court's eLitigation system, 1-2 working days after the date of this email. For more details on eLitigation, please refer to Supreme Court’s <a href="https://www.supremecourt.gov.sg/" target="_blank">website</a>.</li>
         <li style="text-align: justify">If the re-issuance of the licence/certificate is requested, a copy of the new licence/certificate will be emailed to the Main Contact for the Application.</li>
         <li style="text-align: justify">After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
       </ul>
