@@ -35,8 +35,8 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 -->
 If you are unable to serve the **Notification for Relief** using the electronic system, please download the Notification for Relief  serve the form using the [other modes of service](/covid19-relief/other-modes-service).
 
-* If you are acting on behalf of an entity that is a party to the contract, please download this [form](/files/covid19-forms/Form-1-Entity.pdf){:target="_blank"}.
-* If you are an individual who is a party to the contract, please download this [form](/files/covid19-forms/Form-1-Individual.pdf){:target="_blank"}.
+* If you are acting on behalf of an entity that is a party to the contract, please download this [form](/files/covid19-forms/Form-1-Entity.docx){:target="_blank"}.
+* If you are an individual who is a party to the contract, please download this [form](/files/covid19-forms/Form-1-Individual.docx){:target="_blank"}.
 
 ##### Changes to the Notification for Relief #####
 You must ensure that the contents of the Notification for Relief are correct. You will not be able to change the contents of the Notification for Relief once it is served. If you made an error in the Notification for Relief that you served on the Recipient(s), you will need to serve a new Notification for Relief and serve a [Withdrawal of Notification for Relief](/covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
