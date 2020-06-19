@@ -13,9 +13,9 @@ permalink: /news/press-releases/Rental-Agreements-for-Commercial-Equipment-and-C
 <ol start="2">
 <li>Rental agreements for the following commercial equipment and commercial vehicles will be covered under the Act:
 
-<br>a. Plant, machinery or fixed asset in Singapore that is used for manufacturing, production, or other business purposes
+<br><br>a. Plant, machinery or fixed asset in Singapore that is used for manufacturing, production, or other business purposes
 
-<br>b. Commercial vehicles (e.g. goods vehicles, excursion buses, forklifts), excluding taxis and private hire cars<sup><a href="#fn1" id="ref1">1</a></sup>
+<br><br>b. Commercial vehicles (e.g. goods vehicles, excursion buses, forklifts), excluding taxis and private hire cars<sup><a href="#fn1" id="ref1">1</a></sup>
 </li></ol>
 
 <ol start="3">
@@ -24,11 +24,11 @@ permalink: /news/press-releases/Rental-Agreements-for-Commercial-Equipment-and-C
 <ol start="4">
 <li>We encourage renters who are unable to fulfil their contractual obligations due to COVID-19 to first discuss with the rental company and try to reach a mutual agreement. If this is not possible, the renter may serve a Notification for Relief (NFR) on the rental company. After the NFR is served, the rental company will be prohibited from taking certain legal actions against the renter, including:
 
-<br>a. Repossessing the commercial equipment or commercial vehicle
+<br><br>a. Repossessing the commercial equipment or commercial vehicle
 
-<br>b. Unilaterally imposing new charges, increasing charges or interest rates beyond what is provided for in the agreement, unless certain conditions are met<sup><a href="#fn2" id="ref2">2</a></sup>
+<br><br>b. Unilaterally imposing new charges, increasing charges or interest rates beyond what is provided for in the agreement, unless certain conditions are met<sup><a href="#fn2" id="ref2">2</a></sup>
 
-<br>c. Starting or continuing court proceedings or insolvency proceedings
+<br><br>c. Starting or continuing court proceedings or insolvency proceedings
 </li></ol>
 
 <ol start="5">
