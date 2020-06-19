@@ -50,3 +50,5 @@ permalink: /news/press-releases/Rental-Agreements-for-Commercial-Equipment-and-C
 <p><sup id="fn2">2. These conditions include, amongst others: (a) the increase in charges or interest rate is specified in the contract; or (b) the increase in charges or interest rate is calculated by reference to a formula (e.g. a reference rate) in the contract. Increases other than those set out in the legislation are not allowed without the further agreement of the non-performing party. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 
+<p class="right-side-updated">Last updated on 19 Jun 2020</p>
+
