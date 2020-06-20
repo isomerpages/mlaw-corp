@@ -20,3 +20,5 @@ e. [Leases and licences of non-residential property](/files/5-Non-residential.pd
 
 f. [Options to purchase and sale and purchase agreements with housing developers](/files/6-Buyers.pdf)
 
+g. [Rental agreements for commercial equipment](/files/7-Renters.pdf)
+
