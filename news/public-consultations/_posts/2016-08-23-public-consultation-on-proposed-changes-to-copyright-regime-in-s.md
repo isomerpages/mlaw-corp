@@ -5,7 +5,7 @@ permalink: /news/public-consultations/public-consultation-on-proposed-changes-to
 collection_name: news
 ---
 
-Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
+Public Consultation on Proposed Changes to Copyright Regime in Singapore
 ---
 
 **Consultation Period:**  
