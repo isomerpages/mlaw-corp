@@ -32,12 +32,12 @@ For the full text of the Act, please click [here](https://sso.agc.gov.sg/Act/COV
 
 For an overview of the Rental Relief Framework, please click [here](/covid19-relief/rental-relief-framework-for-SMEs).
 
+For press release on the Bill, please click [here](/news/press-releases/new-rental-relief-framework-for-smes).
+
 For infographics, please click the following links:
 * [Rental Relief Framework](/files/Infographic-Rental-Relief-Framework.pdf)
 * [Support for Tenants and Landlords](/files/Infographic-Support-for-Tenants-and-Landlords.pdf)
 
-For press release on the Bill, please click [here](/news/press-releases/new-rental-relief-framework-for-smes).
+For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-amendment-bill).
 
 For the full text of the Bill, please click [here](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"}.
-
-For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-amendment-bill).
