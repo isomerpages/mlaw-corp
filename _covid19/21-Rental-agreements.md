@@ -71,13 +71,13 @@ second_nav_title: Frequently Asked Questions
 
 * However, the Government has worked closely with the industry and the associations to provide targeted relief to help drivers tide over this challenging period. We have set out more information on these relief measures below:
 
-      * <u>Special Relief Fund (SRF)</u>. Eligible active drivers can receive relief of $300 per vehicle per month to defray business costs. Please click on this [link](http://www.go.gov.sg/ppsp2) for further information. 
+     * <u>Special Relief Fund (SRF)</u>. Eligible active drivers can receive relief of $300 per vehicle per month to defray business costs. Please click on this [link](http://www.go.gov.sg/ppsp2) for further information. 
       
-      * <u>Self-Employed Person Income Relief Scheme (SIRS)</u>. Drivers who are eligible for the SIRS can also receive $1,000 per month for nine months (or $9,000 in total). Please click on this [link](http://www.ntuc.com.sg/sirs) for further information.
+     * <u>Self-Employed Person Income Relief Scheme (SIRS)</u>. Drivers who are eligible for the SIRS can also receive $1,000 per month for nine months (or $9,000 in total). Please click on this [link](http://www.ntuc.com.sg/sirs) for further information.
       
-      * <u>Courier/Delivery service</u>. From now till end-September, taxi and private-hire car drivers may deliver food and groceries to supplement their income and cushion the decline in ridership. Please contact your operator for more information.
+     * <u>Courier/Delivery service</u>. From now till end-September, taxi and private-hire car drivers may deliver food and groceries to supplement their income and cushion the decline in ridership. Please contact your operator for more information.
       
-      * <u>Enhanced training support</u>. To help drivers upskill, the SkillsFuture Singapore (SSG) has enhanced course fee support of up to 90% for selected courses. This applies until the end of 2020. Under the Self-Employed Persons (SEP) Training Support Scheme administered by the NTUC, drivers can also receive at least $10 per hour when they attend sector-specific training programmes. Please click on this [link](http://www.e2i.com.sg/individuals/ntuc-training-fund) for further information.
+     * <u>Enhanced training support</u>. To help drivers upskill, the SkillsFuture Singapore (SSG) has enhanced course fee support of up to 90% for selected courses. This applies until the end of 2020. Under the Self-Employed Persons (SEP) Training Support Scheme administered by the NTUC, drivers can also receive at least $10 per hour when they attend sector-specific training programmes. Please click on this [link](http://www.e2i.com.sg/individuals/ntuc-training-fund) for further information.
 
 **g. Does the Act apply to me if I use the vehicle that I rented partly for commercial purposes and partly for personal use?**
 
@@ -151,17 +151,17 @@ second_nav_title: Frequently Asked Questions
 
 * If a renter has served a Notification for Relief on the rental company, under the Act, the rental company is not permitted to:
 
-      * Increase any charges or interest rate payable under the contract unless such increase 
+     * Increase any charges or interest rate payable under the contract unless such increase 
 
-            (i) is specified in the contract; 
+          (i) is specified in the contract; 
             
-            (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract
+          (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract
             
-            (iii) relates to expenses reasonably incurred by the rental company in the ordinary course of business; or 
+          (iii) relates to expenses reasonably incurred by the rental company in the ordinary course of business; or 
             
-            (iv) is further agreed to by the renter.
+          (iv) is further agreed to by the renter.
 
-      * Impose new charges except with the further agreement of the renter.
+     * Impose new charges except with the further agreement of the renter.
 
 * The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted.
 
