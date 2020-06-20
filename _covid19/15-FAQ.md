@@ -21,4 +21,6 @@ e. [Construction contracts or supply contracts, or any performance bond granted 
 
 f. [Options to purchase and sale and purchase agreements with housing developers](/covid19-relief/faq/OTPs-and-S-and-P-agreements)
 
-g. [Rental relief provided by Government and Landlords](/covid19-relief/faq/rental-relief)
+g. [Rental agreements for commercial equipment](/covid19-relief/faq/rental-agreements)
+
+h. [Rental relief provided by Government and Landlords](/covid19-relief/faq/rental-relief)
