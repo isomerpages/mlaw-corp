@@ -13,21 +13,74 @@ second_nav_title: Frequently Asked Questions
 
 * The Act covers hire-purchase agreements and conditional sales agreements of: 
 
-  * A plant, machinery or fixed asset that is used for manufacturing, production, or other business purposes; or 
+  * A plant, machinery or fixed asset in Singapore that is used for manufacturing, production, or other business purposes; or 
 
   * A commercial vehicle. 
 
-* The Act does not cover vehicle rental agreements.
+* The Act also covers [link (rental agreements for commercial equipment)](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}. In summary:
 
-**b. What is a “commercial vehicle”?**
+<style type="text/css">	
+.tg  {border-collapse:collapse;border-spacing:0;}	
+.tg td{border-color:black;border-style:solid;border-width:0px;	
+  overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg th{border-color:black;border-style:solid;border-width:0px;	
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg .tg-73oq{text-align:left;vertical-align:top}	
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>	
+<div class="tg-wrap"><table class="tg">	
+<thead>	
+  <tr>	
+    <th class="tg-73oq"><b>Item</b></th>	
+    <th class="tg-73oq"><b>Hire-Purchase Agreement</b></th>	
+    <th class="tg-73oq"><b>Lease or Rental Agreement</b></th>	
+  </tr>	
+</thead>	
+<tbody>	
+  <tr>	
+    <td class="tg-73oq">Plant, machinery or fixed asset in Singapore used for manufacturing, production, or other business purposes</td>
+    <td class="tg-73oq">Covered under the Act</td>	
+    <td class="tg-73oq">Covered under the Act</td>	
+  </tr>	
+ <tr>	
+    <td class="tg-73oq">Commercial vehicle</td>
+  <td class="tg-73oq"><u>Covered under the Act</u>
+   <br>- A goods vehicle (e.g. a truck used to transport goods);
+<br>- An excursion bus, private bus, private-hire bus, omnibus or school bus;
+<br>- A private hire car;
+<br>- A taxi; or
+<br>- An engineering plant (e.g. a tractor, road roller, excavator, forklift).
+</td>	
+    <td class="tg-73oq"><u>Covered under the Act</u>
+   <br>- A goods vehicle (e.g. a truck used to transport goods);
+<br>- An excursion bus, private bus, private-hire bus, omnibus or school bus;or
+<br>- An engineering plant (e.g. a tractor, road roller, excavator, forklift).
+     <br><br>
+     <u>Not covered under the Act</u>
+     <br>- A private hire car;or
+<br>- A taxi.
+  </td>	
+  </tr>	
+ 
+  <tr>	
+    <td class="tg-73oq">Non-commercial vehicle</td>
+    <td class="tg-73oq">Not covered under the Act</td>	
+    <td class="tg-73oq">Not covered under the Act</td>	
+  </tr>	
+  <tr>	
+    <td class="tg-73oq">FAQs</td>
+    <td class="tg-73oq">Please refer to the FAQs below for more information.</td>	
+    <td class="tg-73oq">Please refer to the <a href="https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements" target="_blank">FAQs for rental agreements for commercial equipment</a> for more information.</td>	
+  </tr>	
+ </tbody>
+ </table>
+ </div>
+ 
+**b. What is the difference between a rental agreement and a hire-purchase agreement?**
 
-* A commercial vehicle is
+* Broadly speaking, in a hire-purchase agreement, ownership of the good passes to the hirer after the payment of all the instalments. 
+* In a rental agreement, ownership of the good does not pass to the renter.
+*	If you are unsure of the nature of your contract, you should seek legal advice.
 
-  * A goods vehicle (e.g a truck used to transport goods);
-  * An excursion bus, private bus, private-hire bus, omnibus or school bus;
-  * A private hire car;
-  * A taxi; or
-  * An engineering plant (e.g a tractor, road roller, excavator, forklift).
 
 **c. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
@@ -62,9 +115,13 @@ Types of agreements and vehicles which the Act applies to
 
 **g. I am taxi driver or a private-hire driver who rented my car or taxi from a car rental company. I am unable to afford my monthly rent due to COVID-19. Does the Act apply to me?**
 
-* No, the Act does not apply to vehicle rental agreements. 
+* No, the Act does not apply to rental agreements for private-hire cars or taxis. 
 
-* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to [here](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/LTA's%20Measures%20for%20COVID-19/point_to_point_support_package.html){:target="_blank"} for details.
+* However, the Government has worked closely with the industry and the associations to provide targeted relief to help drivers tide over this challenging period. We have set out more information on these relief measures below:
+  * <u>Special Relief Fund (SRF)</u>. Eligible active drivers can receive relief of $300 per vehicle per month to defray business costs. Please click on this [link](http://www.go.gov.sg/ppsp2){:target="_blank"} for further information. 
+  * <u>Self-Employed Person Income Relief Scheme (SIRS)</u>. Drivers who are eligible for the SIRS can also receive $1,000 per month for nine months (or $9,000 in total). Please click on this [link](http://www.ntuc.com.sg/sirs){:target="_blank"} for further information.
+  * <u>Courier/Delivery service</u>. From now till end-September, taxi and private-hire car drivers may deliver food and groceries to supplement their income and cushion the decline in ridership. Please contact your operator for more information.
+  * <u>Enhanced training support</u>. To help drivers upskill, the SkillsFuture Singapore (SSG) has enhanced course fee support of up to 90% for selected courses. This applies until the end of 2020. Under the Self-Employed Persons (SEP) Training Support Scheme administered by the NTUC, drivers can also receive at least $10 per hour when they attend sector-specific training programmes. Please click on this [link](http://www.e2i.com.sg/individuals/ntuc-training-fund){:target="_blank"} for further information.
 
 Eligibility and scope of the relief
 
