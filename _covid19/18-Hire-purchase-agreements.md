@@ -19,6 +19,61 @@ second_nav_title: Frequently Asked Questions
 
 * The Act also covers [link (rental agreements for commercial equipment)](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}. In summary:
 
+<style type="text/css">	
+.tg  {border-collapse:collapse;border-spacing:0;}	
+.tg td{border-color:black;border-style:solid;border-width:0px;	
+  overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg th{border-color:black;border-style:solid;border-width:0px;	
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}	
+.tg .tg-73oq{text-align:left;vertical-align:top}	
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>	
+<div class="tg-wrap"><table class="tg">	
+<thead>	
+  <tr>	
+    <th class="tg-73oq"><b>Item</b></th>	
+    <th class="tg-73oq"><b>Hire-Purchase Agreement</b></th>	
+    <th class="tg-73oq"><b>Lease or Rental Agreement</b></th>	
+  </tr>	
+</thead>	
+<tbody>	
+  <tr>	
+    <td class="tg-73oq">Plant, machinery or fixed asset in Singapore used for manufacturing, production, or other business purposes</td>
+    <td class="tg-73oq">Covered under the Act</td>	
+    <td class="tg-73oq">FCovered under the Act</td>	
+  </tr>	
+ <tr>	
+    <td class="tg-73oq">Commercial vehicle</td>
+  <td class="tg-73oq"><u>Covered under the Act</u>
+   <li>A goods vehicle (e.g. a truck used to transport goods);</li>
+<li>An excursion bus, private bus, private-hire bus, omnibus or school bus;</li>
+<li>A private hire car;</li>
+<li>A taxi; or</li>
+<li>An engineering plant (e.g. a tractor, road roller, excavator, forklift).</li>
+</td>	
+    <td class="tg-73oq"><u>Covered under the Act</u>
+   <li>A goods vehicle (e.g. a truck used to transport goods);</li>
+<li>An excursion bus, private bus, private-hire bus, omnibus or school bus;or</li>
+<li>An engineering plant (e.g. a tractor, road roller, excavator, forklift).</li>
+     <u>Not covered under the Act</u>
+     <li>A private hire car;or</li>
+<li>A taxi.</li>
+  </td>	
+  </tr>	
+ 
+  <tr>	
+    <td class="tg-73oq">Non-commercial vehicle</td>
+    <td class="tg-73oq">Not covered under the Act</td>	
+    <td class="tg-73oq">Not covered under the Act</td>	
+  </tr>	
+  <tr>	
+    <td class="tg-73oq">FAQs</td>
+    <td class="tg-73oq">Please refer to the FAQs below for more information.</td>	
+    <td class="tg-73oq">Please refer to the [link (FAQs for rental agreements for commercial equipment)](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}.equipment for more information. </td>	
+  </tr>	
+ </tbody>
+ </table>
+ </div>
+ 
 **b. What is the difference between a rental agreement and a hire-purchase agreement?**
 
 * Broadly speaking, in a hire-purchase agreement, ownership of the good passes to the hirer after the payment of all the instalments. 
