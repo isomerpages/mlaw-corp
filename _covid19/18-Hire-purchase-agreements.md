@@ -114,9 +114,13 @@ Types of agreements and vehicles which the Act applies to
 
 **g. I am taxi driver or a private-hire driver who rented my car or taxi from a car rental company. I am unable to afford my monthly rent due to COVID-19. Does the Act apply to me?**
 
-* No, the Act does not apply to vehicle rental agreements. 
+* No, the Act does not apply to rental agreements for private-hire cars or taxis. 
 
-* However, you may be eligible for the Ministry of Transport’s Point-to-Point Support Package (PPSP) for private-hire drivers. Please refer to [here](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/LTA's%20Measures%20for%20COVID-19/point_to_point_support_package.html){:target="_blank"} for details.
+* However, the Government has worked closely with the industry and the associations to provide targeted relief to help drivers tide over this challenging period. We have set out more information on these relief measures below:
+  * <u>Special Relief Fund (SRF)</u>. Eligible active drivers can receive relief of $300 per vehicle per month to defray business costs. Please click on this [link](http://www.go.gov.sg/ppsp2)  for further information. 
+  * <u>Self-Employed Person Income Relief Scheme (SIRS)</u>. Drivers who are eligible for the SIRS can also receive $1,000 per month for nine months (or $9,000 in total). Please click on this [link](http://www.ntuc.com.sg/sirs) for further information.
+  * <u>Courier/Delivery service</u>. From now till end-September, taxi and private-hire car drivers may deliver food and groceries to supplement their income and cushion the decline in ridership. Please contact your operator for more information.
+  * <u>Enhanced training support</u>. To help drivers upskill, the SkillsFuture Singapore (SSG) has enhanced course fee support of up to 90% for selected courses. This applies until the end of 2020. Under the Self-Employed Persons (SEP) Training Support Scheme administered by the NTUC, drivers can also receive at least $10 per hour when they attend sector-specific training programmes. Please click on this [link](http://www.e2i.com.sg/individuals/ntuc-training-fund) for further information.
 
 Eligibility and scope of the relief
 
