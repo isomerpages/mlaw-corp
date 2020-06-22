@@ -68,7 +68,7 @@ second_nav_title: Frequently Asked Questions
   <tr>	
     <td class="tg-73oq">FAQs</td>
     <td class="tg-73oq">Please refer to the FAQs below for more information.</td>	
-    <td class="tg-73oq">Please refer to the <a href="https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements")FAQs for rental agreements for commercial equipment</a> for more information.</td>	
+    <td class="tg-73oq">Please refer to the <a href="https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements">FAQs for rental agreements for commercial equipment</a> for more information.</td>	
   </tr>	
  </tbody>
  </table>
