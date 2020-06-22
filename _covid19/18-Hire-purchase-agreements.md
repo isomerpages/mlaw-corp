@@ -39,7 +39,7 @@ second_nav_title: Frequently Asked Questions
   <tr>	
     <td class="tg-73oq">Plant, machinery or fixed asset in Singapore used for manufacturing, production, or other business purposes</td>
     <td class="tg-73oq">Covered under the Act</td>	
-    <td class="tg-73oq">FCovered under the Act</td>	
+    <td class="tg-73oq">Covered under the Act</td>	
   </tr>	
  <tr>	
     <td class="tg-73oq">Commercial vehicle</td>
@@ -68,7 +68,7 @@ second_nav_title: Frequently Asked Questions
   <tr>	
     <td class="tg-73oq">FAQs</td>
     <td class="tg-73oq">Please refer to the FAQs below for more information.</td>	
-    <td class="tg-73oq">Please refer to the [link (FAQs for rental agreements for commercial equipment)](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}.equipment for more information. </td>	
+    <td class="tg-73oq">Please refer to the <a href="https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements")FAQs for rental agreements for commercial equipment</a> for more information.</td>	
   </tr>	
  </tbody>
  </table>
