@@ -13,21 +13,18 @@ second_nav_title: Frequently Asked Questions
 
 * The Act covers hire-purchase agreements and conditional sales agreements of: 
 
-  * A plant, machinery or fixed asset that is used for manufacturing, production, or other business purposes; or 
+  * A plant, machinery or fixed asset in Singapore that is used for manufacturing, production, or other business purposes; or 
 
   * A commercial vehicle. 
 
-* The Act does not cover vehicle rental agreements.
+* The Act also covers [link (rental agreements for commercial equipment)(https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}. In summary:
 
-**b. What is a “commercial vehicle”?**
+**b. What is the difference between a rental agreement and a hire-purchase agreement?**
 
-* A commercial vehicle is
+* Broadly speaking, in a hire-purchase agreement, ownership of the good passes to the hirer after the payment of all the instalments. 
+* In a rental agreement, ownership of the good does not pass to the renter.
+*	If you are unsure of the nature of your contract, you should seek legal advice.
 
-  * A goods vehicle (e.g a truck used to transport goods);
-  * An excursion bus, private bus, private-hire bus, omnibus or school bus;
-  * A private hire car;
-  * A taxi; or
-  * An engineering plant (e.g a tractor, road roller, excavator, forklift).
 
 **c. What reliefs under the Act are applicable to me, the hirer/debtor?**
 
