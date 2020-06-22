@@ -17,7 +17,7 @@ second_nav_title: Frequently Asked Questions
 
   * A commercial vehicle. 
 
-* The Act also covers [link (rental agreements for commercial equipment)(https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements)]{:target="_blank"}. In summary:
+* The Act also covers [link (rental agreements for commercial equipment)](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements){:target="_blank"}. In summary:
 
 **b. What is the difference between a rental agreement and a hire-purchase agreement?**
 
