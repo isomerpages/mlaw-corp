@@ -51,12 +51,13 @@ second_nav_title: Frequently Asked Questions
 <br>- An engineering plant (e.g. a tractor, road roller, excavator, forklift).
 </td>	
     <td class="tg-73oq"><u>Covered under the Act</u>
-   <li>A goods vehicle (e.g. a truck used to transport goods);</li>
-<li>An excursion bus, private bus, private-hire bus, omnibus or school bus;or</li>
-<li>An engineering plant (e.g. a tractor, road roller, excavator, forklift).</li>
+   <br>- A goods vehicle (e.g. a truck used to transport goods);
+<br>- An excursion bus, private bus, private-hire bus, omnibus or school bus;or
+<br>- An engineering plant (e.g. a tractor, road roller, excavator, forklift).
+     <br><br>
      <u>Not covered under the Act</u>
-     <li>A private hire car;or</li>
-<li>A taxi.</li>
+     <br>- A private hire car;or
+<br>- A taxi.
   </td>	
   </tr>	
  
