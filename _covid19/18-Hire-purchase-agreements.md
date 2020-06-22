@@ -44,11 +44,11 @@ second_nav_title: Frequently Asked Questions
  <tr>	
     <td class="tg-73oq">Commercial vehicle</td>
   <td class="tg-73oq"><u>Covered under the Act</u>
-   - A goods vehicle (e.g. a truck used to transport goods);
-<li>An excursion bus, private bus, private-hire bus, omnibus or school bus;</li>
-<li>A private hire car;</li>
-<li>A taxi; or</li>
-<li>An engineering plant (e.g. a tractor, road roller, excavator, forklift).</li>
+   <br>- A goods vehicle (e.g. a truck used to transport goods);
+<br>- An excursion bus, private bus, private-hire bus, omnibus or school bus;
+<br>- A private hire car;
+<br>- A taxi; or
+<br>- An engineering plant (e.g. a tractor, road roller, excavator, forklift).
 </td>	
     <td class="tg-73oq"><u>Covered under the Act</u>
    <li>A goods vehicle (e.g. a truck used to transport goods);</li>
