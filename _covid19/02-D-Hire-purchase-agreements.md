@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Hire-purchase Agreements
+title: FAQs for Hire-purchase Agreements and conditional sales agreements
 permalink: /covid19-relief/faq/Hire-purchase-agreements
 breadcrumb: Hire-purchase agreements
 collection_name: covid19
