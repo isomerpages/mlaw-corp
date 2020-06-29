@@ -207,3 +207,4 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 * Part 2 of the [Act](https://sso.agc.gov.sg/act/covid19tma2020){:target="_blank"} on Temporary Relief for Inability to Perform Contracts commenced on 20 April 2020. It does not apply to repossessions that occurred before that date. 
 
 * If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
+
