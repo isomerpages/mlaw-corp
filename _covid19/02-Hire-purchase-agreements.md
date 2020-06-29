@@ -4,7 +4,7 @@ title: Hire-purchase Agreements
 permalink: /covid19-relief/faq/Hire-purchase-agreements
 breadcrumb: Hire-purchase agreements
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Hire-purchase Agreements ###
 
