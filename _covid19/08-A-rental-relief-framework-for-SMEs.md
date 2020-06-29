@@ -4,8 +4,9 @@ title: Rental Relief Framework for SMEs
 permalink: /covid19-relief/rental-relief-framework-for-SMEs
 breadcrumb: Rental Relief Framework for SMEs
 collection_name: covid19
+second_nav_title: Rental Relief Framework for SMEs
 ---
-### Rental Relief Framework for SMEs ###
+### Introduction ###
 
 The rental relief framework aims to help affected SMEs* who need more time and support to recover from the impact of COVID-19, by providing mandated co-sharing of rental obligations between the Government, landlords and tenants.
 
