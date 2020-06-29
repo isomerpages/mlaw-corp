@@ -6,7 +6,11 @@ breadcrumb: Lease or licence of non-residential property
 collection_name: covid19
 second_nav_title: Frequently Asked Questions
 ---
-### Lease or licence of non-residential property ###
+### Lease or licence of non-residential property – Temporary Relief from Contractual Obligations###
+
+<u>Important Note</u>: This set of FAQs only addresses questions relating to the temporary relief from contractual obligations under Part 2 of the Act which were originally introduced in April 2020.  If you have questions on the rental relief framework for SMEs reliefs under Part 2A of the Act which were introduced in June 2020, please click 
+* [here](../covid19-relief/rental-relief-framework-for-smes) for the rental relief framework for SMES
+* 
 
 #### General FAQs ####
 **a. Does the Act cover residential leases and licences?**
