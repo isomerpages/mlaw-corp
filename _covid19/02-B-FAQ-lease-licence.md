@@ -127,7 +127,7 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 
 * Your landlord may also be entitled to set off the security deposit against any damages that you might have to pay if you have breached your tenancy agreement. 
 
-* If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract for rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. 
+* If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract for rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. You may wish to consider applying for the [repayment scheme for rental arrears](../rental-relief-framework-for-SMEs#repay).
 
 **19. I was supposed to vacate the property by a certain date after 1 February 2020 (e.g. by 30 April 2020). However, I was unable to do so because of the safe distancing measures. Does the Act assist me?** 
 
