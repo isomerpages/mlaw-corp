@@ -1,0 +1,23 @@
+---
+layout: leftnav-page-content
+title: Other Modes of Service
+permalink: /covid19-relief/other-modes-service
+breadcrumb: Other Modes of Service of the Notification for Relief
+collection_name: covid19
+second_nav_title: Notification for Relief
+---
+### Other Modes of Service of the Notification for Relief ### 
+If you are unable to use the electronic system to serve the Notification for Relief on the Recipient(s) (e.g. you do not have a SingPass, CorpPass or the Recipient’s email address), you may 
+
+1.	Download the hard-copy Notification for Relief
+
+•	If you are acting on behalf of an entity that is a party to the contract, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf).
+•	If you are an individual who is a party to the contract, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-individual.pdf).  
+
+2. Serve the Notification for Relief on the Recipient(s): 
+
+(a)	 By way of **email**; 
+
+(b)	 Only if you are unable to serve by email, by an **internet-based messaging system** (e.g. WhatsApp) or the **messaging system on the website, blog, or social media or networking website** owned or operated by the Recipient(s), provided you have corresponded with the Recipient via that messaging system regarding the contract; or
+
+(c)	 Only if you are unable to serve by any of the modes above, by **prepaid registered post**.
