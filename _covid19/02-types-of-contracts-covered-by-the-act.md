@@ -9,7 +9,7 @@ second_nav_title: Relief for Contractual Obligations
 ### Types of Contracts Covered by the Act ###
 
 Contract | FAQs
-a. [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf) | Please click this link [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf)
+a. [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence)
 
 b. [Construction contracts and supply contracts](/files/2-Construction-contractors-suppliers.pdf)
 
