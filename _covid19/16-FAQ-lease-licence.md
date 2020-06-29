@@ -167,7 +167,7 @@ second_nav_title: Frequently Asked Questions
 
 *	After being served the Notification for Relief, you are prohibited from enforcing the contract during the relief period, which expires after 19 October 2020. You cannot evict or terminate the lease for non-payment of rent, nor can you start or continue court or insolvency proceedings against your tenant.
 *	We encourage you to negotiate and reach a mutually acceptable solution with your tenant. A compromise on the rental arrears and the terms of the tenancy can preserve a longer-term relationship, which is beneficial for both parties.  
-*	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this link for further information on the application process and the relevant forms.
+*	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **23. I was supposed to deliver vacant possession to an incoming tenant by a certain date after 1 February 2020 (e.g. 30 April 2020). However, I was unable to do so because of the safe distancing measures. Does the Act assist me?**
 
