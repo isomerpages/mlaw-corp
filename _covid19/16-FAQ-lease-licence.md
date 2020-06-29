@@ -135,7 +135,7 @@ second_nav_title: Frequently Asked Questions
 *	Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in FAQ (3) during the relief period from 20 April 2020 to 19 October 2020. We encourage both landlord and tenant to be reasonable and use the relief period offered by the Act to reach a mutually acceptable agreement.
 *	Amendments to the Act were introduced in Parliament on 5 June 2020. Among other things, if the tenant was unable to vacate the property due to COVID-19 and the tenant has served a Notification for Relief, then that tenant will not be liable for double rent for holding over. The tenant will be liable only for such amounts as may be prescribed. More details about the amendment and the prescribed amount would be announced in due course.  
 
-**20. I am a tenant and have only interacted with the property agent. I do not know my landlord’s email address or registered address. How do I serve the Notification for Relief? ** 
+**20. I am a tenant and have only interacted with the property agent. I do not know my landlord’s email address or registered address. How do I serve the Notification for Relief?** 
 
 *	Service of the Notification for Relief on your landlord: 
  * If you have your landlord’s email address, please serve the Notification for Relief using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass).  If you have been communicating with the property agent, you may wish to ask the property agent for your landlord’s e-mail address. You may also use an e-mail address that your landlord had publicly represented (e.g. on his website) as being his e-mail address, and represented that communications may be sent to him at that e-mail address. 
@@ -151,4 +151,23 @@ second_nav_title: Frequently Asked Questions
 *	If you have your property agent’s e-mail address, please serve the Notification for Relief using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). In Part B of the form, please fill up your landlord’s name and the property agent’s e-mail address. You may use an e-mail address that the property agent had used to communicate with you, or publicly represented to be his e-mail address. The Notification for Relief would be served on the property agent’s e-mail address. 
 *	If you do not have and cannot obtain the property agent’s e-mail address, you can serve the Notification for Relief on the property agent by downloading the hard-copy Notification for Relief at this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf) (if you are acting on behalf of a business or company) or this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf) (if you are acting on behalf of yourself), fill it up, and serve it on the property agent via the internet-based messaging service which you normally communicate with the property agent (e.g. WhatsApp). 
 *	<b><u>Take note that it is possible that the landlord may challenge the service on a property agent</u></b>. You are hence encouraged to serve the Notification for Relief on your landlord, if possible. 
+
+**21. I served the Notification for Relief on my landlord, but did not get any response or acknowledgement from him. What do I do next?**
+
+*	You may wish to reach out to your landlord to ensure that he received the Notification for Relief, and commence negotiations.  
+*	We encourage landlords and tenants to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
+
+<u>I am a landlord…</u>
+
+**22. My tenant served me a Notification for Relief. What do I do next?** 
+
+*	After being served the Notification for Relief, you are prohibited from enforcing the contract during the relief period, which expires after 19 October 2020. You cannot evict or terminate the lease for non-payment of rent, nor can you start or continue court or insolvency proceedings against your tenant.
+*	We encourage you to negotiate and reach a mutually acceptable solution with your tenant. A compromise on the rental arrears and the terms of the tenancy can preserve a longer-term relationship, which is beneficial for both parties.  
+*	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this link for further information on the application process and the relevant forms.
+
+**23. I was supposed to deliver vacant possession to an incoming tenant by a certain date after 1 February 2020 (e.g. 30 April 2020). However, I was unable to do so because of the safe distancing measures. Does the Act assist me?**
+
+*	If you are unable to deliver vacant possession of the property because of the safe distancing measures implemented as a result of COVID-19, we encourage you to approach your incoming tenant to work out a mutually acceptable solution to deliver vacant possession of the property. This may include an agreement on a postponed date where you are able to hand over the property, and a corresponding extension to the term of the lease. Both parties should be fair and reasonable. 
+*	If you and your incoming tenant are unable to reach an agreement, and your incoming tenant indicates that he wishes to enforce his obligation to deliver vacant possession by, for example, commencing legal proceedings against you, you may serve a Notification for Relief on that tenant using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). 
+*	Once a Notification for Relief has been served, that tenant is prohibited from commencing legal proceedings against the landlord for the relief period from 20 April 2020 to 19 October 2020. Either party may thereafter make an [application to the Assessor](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor), who will seek to achieve an outcome that is just and equitable in the circumstances. 
 
