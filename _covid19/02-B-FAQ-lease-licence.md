@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Lease or licence of non-residential property
+title: FAQs for Lease or licence of non-residential property
 permalink: /covid19-relief/faq/lease-licence
 breadcrumb: FAQs for Lease or licence of non-residential property
 collection_name: covid19
@@ -9,7 +9,7 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 ### Lease or licence of non-residential property – Temporary Relief from Contractual Obligations ###
 
 <u>Important Note</u>: This set of FAQs only addresses questions relating to the temporary relief from contractual obligations under Part 2 of the Act which were originally introduced in April 2020.  If you have questions on the rental relief framework for SMEs reliefs under Part 2A of the Act which were introduced in June 2020, please click 
-* [here](../rental-relief-framework-for-smes) for the press release.
+* [here](../rental-relief-framework-for-smes) for a summary of the rental relief framework.
 * [here](../faq/rental-relief) for the FAQs.
 
 #### General FAQs ####
@@ -152,7 +152,7 @@ Service of the Notification for Relief on the property agent:
  
 *	If you have your property agent’s e-mail address, please serve the Notification for Relief using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). In Part B of the form, please fill up your landlord’s name and the property agent’s e-mail address. You may use an e-mail address that the property agent had used to communicate with you, or publicly represented to be his e-mail address. The Notification for Relief would be served on the property agent’s e-mail address. 
 *	If you do not have and cannot obtain the property agent’s e-mail address, you can serve the Notification for Relief on the property agent by downloading the hard-copy Notification for Relief at this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf) (if you are acting on behalf of a business or company) or this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf) (if you are acting on behalf of yourself), fill it up, and serve it on the property agent via the internet-based messaging service which you normally communicate with the property agent (e.g. WhatsApp). 
-*	<b><u>Take note that it is possible that the landlord may challenge the service on a property agent</u></b>. You are hence encouraged to serve the Notification for Relief on your landlord, if possible. 
+*	<b><u>Take note that it is possible that the landlord may challenge the service on a property agent</u></b>, such that service of the Notification for Relief was not properly effected, and relief under the Act does not apply. You are hence encouraged to serve the Notification for Relief on your landlord, if possible. 
 
 **21. I served the Notification for Relief on my landlord, but did not get any response or acknowledgement from him. What do I do next?**
 
