@@ -4,7 +4,7 @@ title: Event or tourism-related contracts
 permalink: /covid19-relief/faq/Event-or-tourism-related-contract
 breadcrumb: Event or tourism-related contracts
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Event or tourism-related contracts ###
 
