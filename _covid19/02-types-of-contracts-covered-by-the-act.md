@@ -8,6 +8,7 @@ second_nav_title: Relief for Contractual Obligations
 ---
 ### Types of Contracts Covered by the Act ###
 
+Contract | FAQs
 a. [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf) | Please click this link [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf)
 
 b. [Construction contracts and supply contracts](/files/2-Construction-contractors-suppliers.pdf)
