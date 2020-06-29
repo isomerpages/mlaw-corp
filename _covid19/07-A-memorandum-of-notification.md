@@ -4,7 +4,7 @@ title: Submitting a Memorandum of Notification for Relief with the Court or Arbi
 permalink: /covid19-relief/memorandum-of-notification
 breadcrumb: Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Pending Court or Arbitration Proceedings
 ---
 ### Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal ###
 
