@@ -4,7 +4,7 @@ title: Options to purchase and sale and purchase agreements with housing develop
 permalink: /covid19-relief/faq/OTPs-and-S-and-P-agreements
 breadcrumb: Options to purchase and sale and purchase agreements with housing developers
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Options to purchase and sale and purchase agreements with housing developers ###
 
