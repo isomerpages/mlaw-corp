@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Rental agreements for commercial equipment
+title: FAQs for Rental agreements for commercial equipment
 permalink: /covid19-relief/faq/rental-agreements
 breadcrumb: Rental agreements
 collection_name: covid19
