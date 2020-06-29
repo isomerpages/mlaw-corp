@@ -4,7 +4,7 @@ title: Construction contracts or supply contracts, or any performance bond grant
 permalink: /covid19-relief/faq/Construction
 breadcrumb: Construction contracts or supply contracts, or any performance bond granted thereto
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Construction contracts or supply contracts, or any performance bond granted thereto ###
 
