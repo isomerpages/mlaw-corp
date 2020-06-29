@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Loans by banks and finance companies to Singapore SMEs
+title: FAQs for SMEs Loans
 permalink: /covid19-relief/faq/sme-loans
-breadcrumb: Loans by banks and finance companies to Singapore SMEs
+breadcrumb: FAQs for SMEs Loans
 collection_name: covid19
 second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
