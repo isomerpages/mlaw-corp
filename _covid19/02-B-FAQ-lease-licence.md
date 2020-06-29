@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Lease or licence of non-residential property
 permalink: /covid19-relief/faq/lease-licence
-breadcrumb: Lease or licence of non-residential property
+breadcrumb: FAQs for Lease or licence of non-residential property
 collection_name: covid19
 second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
