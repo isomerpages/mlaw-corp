@@ -4,7 +4,7 @@ title: Rental agreements for commercial equipment
 permalink: /covid19-relief/faq/rental-agreements
 breadcrumb: Rental agreements
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Rental agreements for commercial equipment ###
 
