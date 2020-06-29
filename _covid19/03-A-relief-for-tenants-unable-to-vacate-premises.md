@@ -4,6 +4,7 @@ title: Relief for Tenants Unable to Vacate Premises
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
 breadcrumb: Relief for Tenants Unable to Vacate Premises
 collection_name: covid19
+second_nav_title: Additional relief under the COVID-19 (Temporary Measures) (Amendment) Act
 ---
 ### Relief for tenants unable to vacate business premises ###
 
