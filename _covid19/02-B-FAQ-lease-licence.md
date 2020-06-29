@@ -10,7 +10,7 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 
 <u>Important Note</u>: This set of FAQs only addresses questions relating to the temporary relief from contractual obligations under Part 2 of the Act which were originally introduced in April 2020.  If you have questions on the rental relief framework for SMEs reliefs under Part 2A of the Act which were introduced in June 2020, please click 
 * [here](../rental-relief-framework-for-smes) for the press release.
-* [here](../rental-relief) for the FAQs.
+* [here](../faq/rental-relief) for the FAQs.
 
 #### General FAQs ####
 **1. Does the Act cover residential leases and licences?**
