@@ -138,15 +138,13 @@ second_nav_title: Frequently Asked Questions
 
 **20. I am a tenant and have only interacted with the property agent. I do not know my landlord’s email address or registered address. How do I serve the Notification for Relief?** 
 
-*	Service of the Notification for Relief on your landlord: 
-
+Service of the Notification for Relief on your landlord: 
  * If you have your landlord’s email address, please serve the Notification for Relief using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass).  If you have been communicating with the property agent, you may wish to ask the property agent for your landlord’s e-mail address. You may also use an e-mail address that your landlord had publicly represented (e.g. on his website) as being his e-mail address, and represented that communications may be sent to him at that e-mail address. 
  * If you do not have and cannot obtain your landlord’s email address but have previously communicated with your landlord using an **internet-based messaging system (e.g. WhatsApp), a messaging system on a website, blog or social media website owned or operated by the landlord**, you may download the hard-copy Notification for Relief at this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf) (if you are serving on behalf of your business or company) or at this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf) (if you are serving for yourself), and serve it on your landlord via that messaging service. 
  * If you are unable to carry out service by the modes above, you may download the hard-copy Notification for Relief, and send it to your landlord’s address by **prepaid registered post**.
 
-*	Service of the Notification for Relief on the property agent: 
-
- *	You may serve the Notification for Relief on the property agent only if: 
+Service of the Notification for Relief on the property agent: 
+*	You may serve the Notification for Relief on the property agent **only** if: 
  *	You do not have your landlord’s email address and cannot obtain it; 
  *	You have never communicated with your landlord via an internet-based messaging system (e.g. WhatsApp); 
  *	You do not have your landlord’s registered address; and 
