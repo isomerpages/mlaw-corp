@@ -4,7 +4,7 @@ title: Types of Contracts Covered by the Act
 permalink: /covid19-relief/types-of-contract
 breadcrumb: Types of Contracts Covered by the Act
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Types of Contracts Covered by the Act ###
 
