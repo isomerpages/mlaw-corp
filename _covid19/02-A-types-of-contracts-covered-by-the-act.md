@@ -20,15 +20,15 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 |7. | [Construction contracts and supply contracts](/files/2-Construction-contractors-suppliers.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
 
 ### Self-Assessment Tool ####
-To assess your eligibility under Part 2 of the Act, please refer to the Self-Assessment Tool.
+To assess your eligibility under Part 2 of the Act, please refer to the [Self-Assessment Tool](https://www.mlaw.gov.sg/covid19-relief/tool).
 
 ### Notification for Relief ####
-To serve a Notification for Relief, please click here.
+To serve a Notification for Relief, please click [here](https://www.mlaw.gov.sg/covid19-relief/notification-for-relief).
 
 
 ### Application for an Assessor’s Determination ####
-To apply for an Assessor’s Determination, please click here.
+To apply for an Assessor’s Determination, please click [here.](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor)
 
 
 ### Pending Court or Arbitration Proceedings ####
-To obtain a stay or dismissal of Court or Arbitral Proceedings after submitting a Notification for Relief, please click here.
+To obtain a stay or dismissal of Court or Arbitral Proceedings after submitting a Notification for Relief, please click [here](https://www.mlaw.gov.sg/covid19-relief/memorandum-of-notification).
