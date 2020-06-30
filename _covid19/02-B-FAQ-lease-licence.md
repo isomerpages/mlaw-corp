@@ -48,9 +48,9 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 **7. My lease or licence was entered into after 25 March 2020. Does the Act apply to me?**
 * The Act does not apply to any lease or licence entered into after 25 March 2020, but does apply to a lease or licence that is: 
 
- * Renewed automatically after 25 March 2020
- * Renewed after 25 March 2020 in the exercise of a right of renewal provided in the lease or licence.
-
+	 * Renewed automatically after 25 March 2020
+	 * Renewed after 25 March 2020 in the exercise of a right of renewal provided in the lease or licence.
+  
 **8. My lease or licence ends before 19 October 2020. Does the Act apply to me?**
 * A lease or licence entered into before 25 March 2020 would be covered by the Act, regardless of when the term of the lease or licence ends. 
 
@@ -90,8 +90,11 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 **14. The landlord says that it is exercising its right to increase the late payment interest and other charges under the tenancy.  Can it do so?**
 
 * If a tenant has served a Notification for Relief on the landlord, under the Act, the landlord is not permitted to:
-
-  * <b>Increase any charges or interest rate payable under the lease or licence agreement unless such increase (i) is specified in the agreement; (ii) is calculated by reference to a formula (e.g. a reference rate) in the agreement;  (iii)  relates to expenses reasonably incurred by the landlord in the ordinary course of business; or (iv) is further agreed to by the tenant. </b>
+  * <b>Increase any charges or interest rate payable under the lease or licence agreement unless such increase 
+  (i) is specified in the agreement; 
+ (ii) is calculated by reference to a formula (e.g. a reference rate) in the agreement;  
+ (iii)  relates to expenses reasonably incurred by the landlord in the ordinary course of business; or 
+ (iv) is further agreed to by the tenant. </b>
 
   * <b> Impose new charges including late payment charges except with the further agreement of the tenant. </b>
 
@@ -145,10 +148,10 @@ Service of the Notification for Relief on your landlord:
 
 Service of the Notification for Relief on the property agent: 
 *	You may serve the Notification for Relief on the property agent **only** if: 
- *	You do not have your landlord’s email address and cannot obtain it; 
- *	You have never communicated with your landlord via an internet-based messaging system (e.g. WhatsApp); 
- *	You do not have your landlord’s registered address; and 
- *	<b><u>If you are certain that the property agent continues to be working for the landlord. </u></b>
+	 *	You do not have your landlord’s email address and cannot obtain it; 
+	 *	You have never communicated with your landlord via an internet-based messaging system (e.g. WhatsApp); 
+	 *	You do not have your landlord’s registered address; and 
+	 *	<b><u>If you are certain that the property agent continues to be working for the landlord. </u></b>
  
 *	If you have your property agent’s e-mail address, please serve the Notification for Relief using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). In Part B of the form, please fill up your landlord’s name and the property agent’s e-mail address. You may use an e-mail address that the property agent had used to communicate with you, or publicly represented to be his e-mail address. The Notification for Relief would be served on the property agent’s e-mail address. 
 *	If you do not have and cannot obtain the property agent’s e-mail address, you can serve the Notification for Relief on the property agent by downloading the hard-copy Notification for Relief at this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf) (if you are acting on behalf of a business or company) or this [link](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf) (if you are acting on behalf of yourself), fill it up, and serve it on the property agent via the internet-based messaging service which you normally communicate with the property agent (e.g. WhatsApp). 
@@ -191,7 +194,7 @@ Service of the Notification for Relief on the property agent:
 
 *	Under Part 2 of the Act, the temporary relief from inability to perform contractual obligations covers all contractual obligations in a lease or licence for a non-residential property which a party is unable to perform due to COVID-19. This includes the tenant’s obligation to pay utilities fees / conservancy fees / cleaning fees etc.
 *	If your tenant has served a Notification for Relief in accordance with the Act, you are prohibited from enforcing the contractual obligation against the tenant by for example, commencing legal action, exercising your right of re-entry or terminating the lease or licence during the relief period. We encourage you to speak to your tenant and work out a mutually acceptable solution.  
-*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this link. The Assessor will seek to achieve an outcome that is just and equitable in the circumstances.
+*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor). The Assessor will seek to achieve an outcome that is just and equitable in the circumstances.
 
 **28. The lease expires before 19 October 2020. My tenant served a Notification for Relief on me. Am I obliged to extend the lease beyond the contractually agreed expiry date?**  
 
