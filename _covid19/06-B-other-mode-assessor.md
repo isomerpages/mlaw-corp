@@ -4,7 +4,7 @@ title: Other Modes of Service of Documents for Assessor's Proceedings
 permalink: /covid19-relief/other-modes-assessor
 breadcrumb: Other Modes of Service of Documents for Assessor’s Proceedings
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
 ### Others Modes of Service of Documents for Assessor’s Proceedings ### 
 
