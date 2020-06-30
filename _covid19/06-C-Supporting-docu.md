@@ -121,5 +121,22 @@ Examples of the documents that may be relevant for each category of contract can
          *	Internal accounts of the vendor before and since the COVID-19 event
          *	Evidence of income and expenditure of the vendor before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 
+**G.	Construction or supply contract, or related performance bond**
+
+*	Construction contract or supply contract
+*	Related performance bond (if applicable)
+*	Documents from related adjudication proceedings under the Building and Construction Security of Payment Act 
+*	Negotiations and correspondence between the parties  
+* Contractor:
+      * Documents showing the contractor’s inability to supply goods and services due to a COVID-19 event (if applicable), such as:
+         * Evidence of regulatory restrictions such as social distancing measures which affected contractor’s ability to complete work on time 
+         * Evidence of workers under Stay Home Notices or Quarantine Orders
+         * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
+         * Evidence of delay in arrival of materials due to supply chain disruptions
+    *	Documents showing inability to make payment under contract due to COVID-19 (if applicable): 
+         * Audited accounts for 2019 and 2020 (if available)
+         * Monthly balance sheets before and after the COVID-19 event
+         * Evidence of income and expenditure before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+         * List of assets currently held  
 
 
