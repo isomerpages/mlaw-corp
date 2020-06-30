@@ -50,18 +50,18 @@ Examples of the documents that may be relevant for each category of contract can
 
 *	<u>Hirer</u>: 
       * Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
-            *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
-            *	Taxi Driver’s Vocational Licence
-            *	Registration documents of a goods vehicle
-            *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
+               *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
+               *	Taxi Driver’s Vocational Licence
+               *	Registration documents of a goods vehicle
+               *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
       *	Equipment or vehicle ownership documents (if applicable)
       *	Documents showing that the hirer is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
-            *	Records of instalment payments before and since the COVID-19 event
-            *	Bank statements of the hirer before and since the COVID-19 event
-            *	Evidence of income and expenditure of the hirer before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
-            *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
-            *	List of assets held currently by the hirer (if applicable)
-            *	Documents showing repossession of vehicle by finance company (if applicable)
+               *	Records of instalment payments before and since the COVID-19 event
+               *	Bank statements of the hirer before and since the COVID-19 event
+               *	Evidence of income and expenditure of the hirer before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+               *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
+               *	List of assets held currently by the hirer (if applicable)
+               *	Documents showing repossession of vehicle by finance company (if applicable)
       
 * <u>Financing Company</u>: 
    *	Evidence of impact of COVID-19 on the financing company’s financial position (if applicable), such as: 
