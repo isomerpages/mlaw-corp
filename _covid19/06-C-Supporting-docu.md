@@ -49,7 +49,7 @@ Examples of the documents that may be relevant for each category of contract can
 *	Negotiations and correspondence between the parties  
 
 *	Hirer: 
-   *	Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
+   * Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
       *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
       *	Taxi Driver’s Vocational Licence
       *	Registration documents of a goods vehicle
