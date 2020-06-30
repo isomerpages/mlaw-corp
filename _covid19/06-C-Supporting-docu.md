@@ -107,6 +107,19 @@ Examples of the documents that may be relevant for each category of contract can
   *	Evidence of income and expenditure of the SME before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
   *	List of assets currently held by the debtor
 
+**F.	Event or tourism-related contract**
+
+*	Contract including terms and conditions
+*	Negotiations and correspondence between the parties on matters such as the postponement of the event and any conditions for the postponement
+*	<u>Customer</u>: Evidence showing that event cannot take place or services cannot be provided due to a COVID-19 event (if applicable), such as: 
+      *	Evidence that guests or participants are not able to come to Singapore due to travel restrictions
+      *	Evidence that tour cannot take place due to border restrictions
+*	<u>Vendor</u>: 
+      *	Evidence of costs which have been incurred by vendor for the customer (if applicable)
+      *	Evidence of impact of COVID-19 on the vendor’s financial position or ability to make refunds (if applicable), such as: 
+         *	Bank statements of the vendor before and since the COVID-19 event
+         *	Internal accounts of the vendor before and since the COVID-19 event
+         *	Evidence of income and expenditure of the vendor before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 
 
 
