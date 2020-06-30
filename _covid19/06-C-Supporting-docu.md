@@ -57,7 +57,7 @@ Examples of the documents that may be relevant for each category of contract can
          
       *	Equipment or vehicle ownership documents (if applicable)
       *	Documents showing that the hirer is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
-              * Records of instalment payments before and since the COVID-19 event
+      		* Records of instalment payments before and since the COVID-19 event
               * Bank statements of the hirer before and since the COVID-19 event
               * Evidence of income and expenditure of the hirer before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
               * Internal accounts of the hirer before and since the COVID-19 event (if applicable)
