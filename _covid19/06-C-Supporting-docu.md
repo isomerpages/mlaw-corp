@@ -62,6 +62,7 @@ Examples of the documents that may be relevant for each category of contract can
       *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
       *	List of assets held currently by the hirer (if applicable)
       *	Documents showing repossession of vehicle by finance company (if applicable)
+      
 * <u>Financing Company</u>: 
    *	Evidence of impact of COVID-19 on the financing company’s financial position (if applicable), such as: 
       *	Bank statements of the financing company before and since the COVID-19 event
