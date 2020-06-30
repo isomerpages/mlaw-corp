@@ -89,13 +89,12 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 **14. The landlord says that it is exercising its right to increase the late payment interest and other charges under the tenancy.  Can it do so?**
 
-* If a tenant has served a Notification for Relief on the landlord, under the Act, the landlord is not permitted to:
-  * <b>Increase any charges or interest rate payable under the lease or licence agreement unless such increase 
-  (i) is specified in the agreement; 
- (ii) is calculated by reference to a formula (e.g. a reference rate) in the agreement;  
- (iii)  relates to expenses reasonably incurred by the landlord in the ordinary course of business; or 
- (iv) is further agreed to by the tenant. </b>
-
+  * Increase any charges or interest rate payable under the lease or licence agreement unless such increase 
+  
+	  (i) is specified in the agreement; 
+	 (ii) is calculated by reference to a formula (e.g. a reference rate) in the agreement;  
+	 (iii)  relates to expenses reasonably incurred by the landlord in the ordinary course of business; or 
+	 (iv) is further agreed to by the tenant. 
   * <b> Impose new charges including late payment charges except with the further agreement of the tenant. </b>
 
 * The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
