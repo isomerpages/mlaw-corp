@@ -48,7 +48,7 @@ Examples of the documents that may be relevant for each category of contract can
 *	Hire-purchase or conditional sales agreement 
 *	Negotiations and correspondence between the parties  
 
-*	Hirer: 
+*	<u>Hirer</u>: 
    * Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
       *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
       *	Taxi Driver’s Vocational Licence
@@ -62,7 +62,7 @@ Examples of the documents that may be relevant for each category of contract can
       *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
       *	List of assets held currently by the hirer (if applicable)
       *	Documents showing repossession of vehicle by finance company (if applicable)
-* Financing Company: 
+* <u>Financing Company</u>: 
    *	Evidence of impact of COVID-19 on the financing company’s financial position (if applicable), such as: 
       *	Bank statements of the financing company before and since the COVID-19 event
       *	Internal accounts of the financing company before and since the COVID-19 event
@@ -73,10 +73,10 @@ Examples of the documents that may be relevant for each category of contract can
 **D.	Lease or rental agreements of commercial equipment**
 *	Lease or rental agreement for the commercial equipment (except private-hire cars and taxis)
 *	Negotiations and correspondence between the parties  
-*	Renter: 
+*	<u>Renter</u>: 
    *	Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
-      *	Registration documents of a goods vehicle
-      *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
+       *	Registration documents of a goods vehicle
+       *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
 *	Vehicle ownership documents (if applicable)
 *	Documents showing that the renter is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
   *	Records of rental payments before and since the COVID-19 event
@@ -85,12 +85,12 @@ Examples of the documents that may be relevant for each category of contract can
   *	Internal accounts of the renter before and since the COVID-19 event (if applicable)
   *	List of assets currently held by the renter (if applicable)
 *	Documents showing repossession of commercial equipment by rental company (if applicable)
-*	Rental company: 
- *	Evidence of impact of COVID-19 on the rental company’s financial position (if applicable), such as: 
-  *	Bank statements of the rental company before and since the COVID-19 event
-  *	Internal accounts of the rental company before and since the COVID-19 event
-  *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
- *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
+*	<u>Rental company</u>: 
+   *	Evidence of impact of COVID-19 on the rental company’s financial position (if applicable), such as: 
+      *	Bank statements of the rental company before and since the COVID-19 event
+      *	Internal accounts of the rental company before and since the COVID-19 event
+      *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+   *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
 
 **E.	Secured loan to SMEs by bank or financial institution**
 
