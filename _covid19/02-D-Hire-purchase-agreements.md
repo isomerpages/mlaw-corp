@@ -208,3 +208,35 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
 
+**19. My financing company repossessed my commercial vehicle before I served the Notification for Relief. Does the Act apply to me?**
+* The Act does not apply to a repossession that occurred before the Notification for Relief was 
+* If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
+
+**20. I wish to terminate my hire-purchase agreement early, without having to pay for the charges or penalties listed in the agreement. Does the Act assist me?** 
+
+*	The Act does not change the terms of your contract with your financing company. If the contract provides for charges or other fees for early termination, you will still be liable to pay those charges or fees to your financing company as provided under the contract, unless you and your financing company agree otherwise.
+*	If you are unable to pay those charges or fees that is due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your financing company, your financing company cannot enforce the contract for those charges or fees until after 19 October 2020. Please take note that your financing company can still take legal action against you for the unpaid charges or fees after 19 October 2020. 
+
+**21. I served the Notification for Relief on my financing company, but did not get any response or acknowledgement. What do I do next?** 
+
+*	You may wish to reach out to your financing company to ensure that it received the Notification for Relief, and commence negotiations.  
+*	We encourage financing companies and hirers to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
+
+
+I am a guarantor…
+
+**22. I am a guarantor for a hire-purchase agreement. The financing company has been asking me for payment. Should my hirer and I each file a Notification for Relief? If my hirer does not serve a Notification for Relief, can I serve a Notification for Relief on the financing company?** 
+
+*	If you are the guarantor but not a party to the hire-purchase agreement, you may not serve the Notification for Relief. 
+*	Under the Act, only a party to a hire-purchase agreement may serve a Notification for Relief for his inability to perform the obligations under the hire-purchase agreement. 
+*	The hirer should serve a Notification for Relief using this link (SingPass) or this link (CorpPass). In Part B of the form, the hirer should indicate the particulars of both the financing company and the guarantor. A copy of the same Notification for Relief should be served on both the financing company and the guarantor. 
+*	If the hirer serves a Notification for Relief on the financing company, and the other conditions in the Act are satisfied, the financing company will be prohibited from commencing court or insolvency proceedings against both the hirer and the guarantor. 
+*	If the hirer does not file a Notification for Relief, the hirer can be sued by the financing company, or can be brought in as a third party in any legal proceedings that may be commenced against the guarantor.
+
+I am a financing company…
+
+**23. My company is a vehicle leasing company. A customer served us a Notification for Relief in relation to a rental agreement for a vehicle used as a private-hire car/ taxi that does not fall within the Act. What do we do next?**
+*	The Notification for Relief has no effect as the Act does not cover a rental agreement for a vehicle used as a private-hire car or a taxi.
+*	Even though the Notification for Relief was served in error, this indicates that your customer has difficulties meeting his contractual obligations to you under the car rental agreement. We encourage you to engage with your customer to work out a mutually acceptable solution to deal with these contractual issues that have been caused by COVID-19.
+*	If you are unable to reach an agreement with your customer and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this link. The Assessor will determine whether relief under the Act applies.
+
