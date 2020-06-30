@@ -15,7 +15,7 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 *	Except with the permission of the Assessor, parties cannot be represented by an advocate and solicitor at proceedings before an Assessor. This includes an in-house counsel who is admitted as an advocate and solicitor of the Supreme Court, but does not have a practising certificate. 
 
-3.	I am a party to proceedings before an Assessor. What documents should I attach in my Application / Response? 
+**3.	I am a party to proceedings before an Assessor. What documents should I attach in my Application / Response?**
 
 *	You may refer to this page for examples on the supporting documents that may be attached to your Application / Response. 
 
@@ -56,16 +56,40 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 *	Please note that **this does not operate as an appeal**. The Assessor’s determination is **not appealable**. 
 
-**10.	My determination only states that the case is one to which section 5 applies. What does this mean?**
+**10. My determination only states that the case is one to which section 5 applies. What does this mean?**
 * If your determination states that the case is one to which section 5 applies, it means the Assessor has determined that: 
 	* The contracting party who served the Notification for Relief qualifies for relief under the Act; and 
 	* The party on whom the Notification for Relief was served is prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act at any time up to 19 October 2020.
 
 
-**11.	My determination only states that the case is one to which section 5 does not apply. What does this mean?**
+**11. My determination only states that the case is one to which section 5 does not apply. What does this mean?**
 * If your determination only states that the case is one to which section 5 **<u>does not apply</u>**, it means that the Assessor has determined that the contracting party who served the Notification for Relief is **<u>NOT</u>** entitled to relief under the Act.
 
 * As such, the party on whom the Notification for Relief was served is not prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act (e.g. commencing court or insolvency proceedings, or repossession of goods under a hire-purchase agreement) against the party who served the Notification for Relief. 
 
 * If your contract is an events and tourism-related contract, and the determination states that the case is not one to which section 5 applies, the reliefs that are provided under the Act in relation to forfeiture of deposits and cancellation fees do not apply to the case. Please seek legal advice on how you may protect your rights under the contract. 
 
+**12. The determination requires me to pay a sum of money to the other party by a stipulated date but I am not able to do so by that date because of my financial situation. Can I apply for an extension of time?**
+
+* Section 13A of the Act provides that where a party is required by a determination to make any payment, the Assessor or another Assessor may grant the party an extension of time to make payment.  
+
+* If you are unable to pay the sum due to your financial situation, you may write to the Registry to request that the Assessor grants an extension of time to make payment. You should attach supporting documents of your financial situation in your application. 
+
+
+**13. The determination requires the other party to pay me a sum of money by a stipulated date. Despite my requests for payment, the other party did not comply with the determination. What can I do?**
+
+* An Assessor’s determination is binding on all parties to the application. 
+
+* Under the Act, an Assessor’s determination for one party to pay a sum of money to the other party may, with the leave of Court, be enforced in the same manner as a judgment or an order of the court. Please seek legal advice on how you may enforce the determination. 
+
+* In addition, a person who, without reasonable excuse, fails to comply with an Assessor’s determination to pay a sum of money to the other party, is guilty of a criminal offence. 
+
+* If the other party has informed you that he requires time to make payment because of his financial situation, he may apply to the Assessor for an extension of time to make payment. Please see FAQ (12) above. 
+
+**14.	The determination for my case has been issued. There has been a material change in the circumstances since the determination (e.g. the business of the party who obtained relief under the Act has improved materially and I have further evidence that he is now in a position to make payment). Can I ask for the determination to be revisited?**
+
+* Section 13A of the Act provides that the Assessor or another Assessor may vary or replace the determination if there has been a **material change in the circumstances after it has been made**, and if it is just and equitable for the variation or replacement to be made. 
+
+* If you wish to apply for a variation or replacement of the determination, please write to the Registry at the email address that the Registry has previously communicated with you, and provide supporting documents on the material change in circumstances after the determination was made.   
+
+* Please note that **the above does not operate as an appeal**. The Assessor’s determination is **not appealable**. 
