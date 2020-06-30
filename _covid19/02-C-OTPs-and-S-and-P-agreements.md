@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: FAQs for Options to purchase and sale and purchase agreements with housing developers
+title: FAQs for OTPs and S&Ps
 permalink: /covid19-relief/faq/OTPs-and-S-and-P-agreements
-breadcrumb: Options to purchase and sale and purchase agreements with housing developers
+breadcrumb: FAQs for OTPs and S&Ps
 collection_name: covid19
-second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
+second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
-### Options to purchase and sale and purchase agreements with housing developers ###
+### Options to Purchase and Sale and Purchase Agreements with Housing Developers ###
 
 #### General FAQs ####
 
