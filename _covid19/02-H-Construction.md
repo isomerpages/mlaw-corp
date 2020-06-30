@@ -19,19 +19,18 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 
 * First, iIf you are unable to perform your obligations due to COVID-19, the other party to the contract cannot commence or continue court proceedings or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020). For the avoidance of doubt, adjudication proceedings under the BCISOPA will remain available to the relevant parties during the prescribed period.
 
-* Second, if you are unable to supply goods or services due to Covid-19, the Act gives you a defence against any claims for breach of contract or damages (e.g. liquidated damages) due to that inability to perform the obligation.
+* Second, if you are a contractor who is unable to supply goods or services due to Covid-19, the Act gives you a defence against any claims for breach of contract or damages (e.g. liquidated damages) due to that inability to perform the obligation.
 
-* For the avoidance of doubt, this defence should be raised in any adjudication or other legal proceedings that may be commenced by the other party in respect of the breach of contract.  This defence is not determined by the Assessors under the Act.  In respect of construction contracts or supply contracts, the Assessors will not determine disputes in relation to the contract breach, but will only make a determination where there is a disagreement over the Notification for Relief.  The assessors will only determine whether (a) whether the party to the construction or supply contract is unable to perform an obligation; and (b) whether the inability is to a material extent caused by COVID-19. 
+*	This defence is available to you only after you have served the Notification for Relief during the prescribed period. It may be raised separately in dispute resolution proceedings – in adjudication (under the BCISOPA), arbitration or court proceedings between the relevant parties, separate from the regime under the COVID-19 Act. 
+  * For the avoidance of doubt, under the Act, **the Assessor’s determination is limited to (a) whether the party to the construction or supply contract is unable to perform an obligation; and (b) whether the inability is to a material extent caused by COVID-19**. The Assessor would not assess or determine the extent of delay that is attributable to COVID-19, and the amount of liquidated damages or damages payable. 
+  
+*	In addition, under the Act, if you are unable to perform your contractual obligations due to COVID-19, the other party is also prohibited from calling on a performance bond in relation to that inability earlier than 7 days before the expiry of the performance bond, for the prescribed period (i.e. up till 19 October 2020). 
 
-* Calling of a performance bond in relation to your inability to perform your obligations due to COVID-19 earlier than 7 days before its date of expiry will also not be allowed. You can apply to the issuer to extend the term of the performance bond. 
-
-* For more details, please refer to the Ministry of Law and Building and Construction Authority’s [joint statement](/news/announcements/2020-04-22-commencement-of-the-covid-19-temporary-measures-act-2020-provisions-relating-to-temporary-reliefs) on 20 April 2020, and the FAQs on BCA’s website.
-
-**c. What must I do to enjoy the reliefs?**
+**3. What must I do to enjoy the reliefs?**
 
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}. 
+* To qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}. 
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in (b) will apply.
 
