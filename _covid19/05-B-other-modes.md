@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Other Modes of Service
 permalink: /covid19-relief/other-modes-service
-breadcrumb: Other Modes of Service of the Notification for Relief
+breadcrumb: Other Modes of Service
 collection_name: covid19
-second_nav_title: Notification for Relief
+second_nav_title: Part 2 of the Act-Notification for Relief
 ---
 ### Other Modes of Service of the Notification for Relief ### 
 If you are unable to use the electronic system to serve the Notification for Relief on the Recipient(s) (e.g. you do not have a SingPass, CorpPass or the Recipient’s email address), you may 
