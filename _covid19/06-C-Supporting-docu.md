@@ -54,14 +54,14 @@ Examples of the documents that may be relevant for each category of contract can
       *	Taxi Driver’s Vocational Licence
       *	Registration documents of a goods vehicle
       *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
-  *	Equipment or vehicle ownership documents (if applicable)
-  *	Documents showing that the hirer is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
-    *	Records of instalment payments before and since the COVID-19 event
-    *	Bank statements of the hirer before and since the COVID-19 event
-    *	Evidence of income and expenditure of the hirer before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
-    *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
-    *	List of assets held currently by the hirer (if applicable)
-    *	Documents showing repossession of vehicle by finance company (if applicable)
+   *	Equipment or vehicle ownership documents (if applicable)
+   *	Documents showing that the hirer is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
+      *	Records of instalment payments before and since the COVID-19 event
+      *	Bank statements of the hirer before and since the COVID-19 event
+      *	Evidence of income and expenditure of the hirer before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+      *	Internal accounts of the hirer before and since the COVID-19 event (if applicable)
+      *	List of assets held currently by the hirer (if applicable)
+      *	Documents showing repossession of vehicle by finance company (if applicable)
 * Financing Company: 
    *	Evidence of impact of COVID-19 on the financing company’s financial position (if applicable), such as: 
       *	Bank statements of the financing company before and since the COVID-19 event
