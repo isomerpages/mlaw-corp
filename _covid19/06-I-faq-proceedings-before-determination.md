@@ -43,3 +43,22 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 
 *	**Any party who contravenes the above is guilty of a criminal offence.** 
+
+**8.	I have received my determination. Can I request for a further explanation or more details on the reason for the determinations?**
+
+*	The Assessor’s determination is not appealable. 
+
+*	Neither the Registry nor the Assessor is required to give detailed grounds for the determination.  
+
+**9.	I have received my determination. However, there is a clerical error in the determination (e.g. the name of one of the party is inaccurate, or the date of the contract is inaccurate). Can I ask for the error to be corrected?**
+
+*	You may wish to file an [Application to Correct Error in Determination](https://www.mlaw.gov.sg/covid19-relief/request-to-correct-error-in-assessor). 
+
+*	Please note that **this does not operate as an appeal**. The Assessor’s determination is **not appealable**. 
+
+**10.	My determination only states that the case is one to which section 5 applies. What does this mean?**
+*	If your determination states that the case is one to which section 5 applies, it means the Assessor has determined that: 
+		*	The contracting party who served the Notification for Relief qualifies for relief under the Act; and 
+		*	The party on whom the Notification for Relief was served is prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act at any time up to 19 October 2020.
+
+
