@@ -179,13 +179,13 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * If a hirer has served a Notification for Relief on the financing company, under the Act, the financing company is not permitted to:
 
-  * <b>Increase any charges or interest rate payable under the contract unless such increase 
+  * Increase any charges or interest rate payable under the contract unless such increase 
    (i) is specified in the contract; 
   (ii) is calculated by reference to a formula (e.g. a reference rate) in the contract; 
   (iii)  relates to expenses reasonably incurred by the financing company in the ordinary course of business; or
-(iv) is further agreed to by the hirer.</b> 
+(iv) is further agreed to by the hirer. 
 
-  * <b>Impose new charges except with the further agreement of the hirer.</b>
+  * Impose new charges except with the further agreement of the hirer.
 
 * The table below illustrates when an increase in interest rate or charges, or an imposition of new charges or interest, is or is not permitted. 
 
