@@ -17,7 +17,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 **2. I am a party to a construction or supply contract. What reliefs under the Act are applicable to me?**
 
-* First, iIf you are unable to perform your obligations due to COVID-19, the other party to the contract cannot commence or continue court proceedings or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020). For the avoidance of doubt, adjudication proceedings under the BCISOPA will remain available to the relevant parties during the prescribed period.
+* First, if you are unable to perform your obligations due to COVID-19, the other party to the contract cannot commence or continue court proceedings or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020). For the avoidance of doubt, adjudication proceedings under the BCISOPA will remain available to the relevant parties during the prescribed period.
 
 * Second, if you are a contractor who is unable to supply goods or services due to Covid-19, the Act gives you a defence against any claims for breach of contract or damages (e.g. liquidated damages) due to that inability to perform the obligation.
 
