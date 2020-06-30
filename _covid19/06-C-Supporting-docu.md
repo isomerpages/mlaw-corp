@@ -99,16 +99,16 @@ Examples of the documents that may be relevant for each category of contract can
 
 *	Loan documentation (E.g. Letter of Offer, Terms and Conditions)
 *	Negotiations and correspondence between the parties  
-*	SME Debtor:
- *	Documents showing that the debtor is an “enterprise” as defined in the Scheduled, such as: 
-  *	ACRA company profile showing that not less than 30% of the debtor’s shares or other ownership interest is held by citizens of Singapore or permanent residents of Singapore or both
-  *	Audited accounts of latest financial year showing that the turnover of the group to which the debtor belongs does not exceed $100 million 
- *	Documents showing that the debtor is unable to pay instalments due to a COVID-19 event, such as: 
-  *	Records of instalment payments before and since the COVID-19 event
-  *	Bank statements of the debtor before and since the COVID-19 event
-  *	Internal accounts of the debtor before and since the COVID-19 event
-  *	Evidence of income and expenditure of the SME before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
-  *	List of assets currently held by the debtor
+*	<u>SME Debtor</u>:
+	 *	Documents showing that the debtor is an “enterprise” as defined in the Scheduled, such as: 
+		  *	ACRA company profile showing that not less than 30% of the debtor’s shares or other ownership interest is held by citizens of Singapore or permanent residents of Singapore or both
+		  *	Audited accounts of latest financial year showing that the turnover of the group to which the debtor belongs does not exceed $100 million 
+	 *	Documents showing that the debtor is unable to pay instalments due to a COVID-19 event, such as: 
+		  *	Records of instalment payments before and since the COVID-19 event
+		  *	Bank statements of the debtor before and since the COVID-19 event
+		  *	Internal accounts of the debtor before and since the COVID-19 event
+		  *	Evidence of income and expenditure of the SME before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+		  *	List of assets currently held by the debtor
 
 **F.	Event or tourism-related contract**
 
