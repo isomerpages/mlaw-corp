@@ -223,7 +223,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 *	We encourage financing companies and hirers to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
 
 
-I am a guarantor…
+<u>I am a guarantor…</u>
 
 **22. I am a guarantor for a hire-purchase agreement. The financing company has been asking me for payment. Should my hirer and I each file a Notification for Relief? If my hirer does not serve a Notification for Relief, can I serve a Notification for Relief on the financing company?** 
 
@@ -233,7 +233,7 @@ I am a guarantor…
 *	If the hirer serves a Notification for Relief on the financing company, and the other conditions in the Act are satisfied, the financing company will be prohibited from commencing court or insolvency proceedings against both the hirer and the guarantor. 
 *	If the hirer does not file a Notification for Relief, the hirer can be sued by the financing company, or can be brought in as a third party in any legal proceedings that may be commenced against the guarantor.
 
-I am a financing company…
+<u>I am a financing company…</u>
 
 **23. My company is a vehicle leasing company. A customer served us a Notification for Relief in relation to a rental agreement for a vehicle used as a private-hire car/ taxi that does not fall within the Act. What do we do next?**
 *	The Notification for Relief has no effect as the Act does not cover a rental agreement for a vehicle used as a private-hire car or a taxi.
