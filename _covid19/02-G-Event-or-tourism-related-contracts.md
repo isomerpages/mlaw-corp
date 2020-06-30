@@ -7,6 +7,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 ---
 ### Event or tourism-related contracts ###
 
+
 #### General FAQs ####
 **1. What is an event contract?**
 
