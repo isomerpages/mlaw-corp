@@ -38,9 +38,9 @@ Examples of the documents that may be relevant for each category of contract can
 *	Where the property is an Executive Condominium, evidence of HDB’s approval or rejection of developer’s application to extend OTP 
 *	Negotiations and correspondence between the parties
 *	<u>Purchaser</u>: Evidence of inability of purchaser or joint purchasers to exercise OTP or to meet payment schedule due to a COVID-19 event (if applicable), such as: 
-  *	Bank statements of purchaser(s) before and since the COVID-19 event
-  *	Evidence of income and expenditure of the purchaser before and since the COVID-19 event, including evidence of loss or fall in income 
-  *	Evidence of unsuccessful attempts to sell current property to raise money to complete purchase of new residential property
+    *	Bank statements of purchaser(s) before and since the COVID-19 event
+    *	Evidence of income and expenditure of the purchaser before and since the COVID-19 event, including evidence of loss or fall in income 
+    *	Evidence of unsuccessful attempts to sell current property to raise money to complete purchase of new residential property
 *	<u>Developer</u>: Where the developer is a licensed private housing developer and the property is not an Executive Condominium, evidence of Controller of Housing’s approval or rejection of application to extend OTP 
 
 **C.	Hire-purchase or conditional sales agreement**
@@ -49,7 +49,7 @@ Examples of the documents that may be relevant for each category of contract can
 *	Negotiations and correspondence between the parties  
 
 *	Hirer: 
-  *	Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
+   *	Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
     *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
     *	Taxi Driver’s Vocational Licence
     *	Registration documents of a goods vehicle
