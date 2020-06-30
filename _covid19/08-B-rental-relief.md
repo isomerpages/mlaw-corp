@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Rental Relief Framework
+title: FAQs for Rental Relief Framework for SMEs
 permalink: /covid19-relief/faq/rental-relief
 breadcrumb: FAQs for Rental Relief Framework for SMEs
 collection_name: covid19
-second_nav_title: Rental Relief Framework for SMEs
+second_nav_title: Part 2 of the Act-Rental Relief Framework for SMEs
 ---
 ### FAQs for Rental Relief Framework for SMEs ###
 
