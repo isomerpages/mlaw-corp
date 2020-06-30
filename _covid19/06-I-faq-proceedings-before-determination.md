@@ -62,3 +62,10 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 	* The party on whom the Notification for Relief was served is prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act at any time up to 19 October 2020.
 
 
+**11.	My determination only states that the case is one to which section 5 does not apply. What does this mean?**
+* If your determination only states that the case is one to which section 5 **<u>does not apply</u>**, it means that the Assessor has determined that the contracting party who served the Notification for Relief is **<u>NOT</u>** entitled to relief under the Act.
+
+* As such, the party on whom the Notification for Relief was served is not prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act (e.g. commencing court or insolvency proceedings, or repossession of goods under a hire-purchase agreement) against the party who served the Notification for Relief. 
+
+* If your contract is an events and tourism-related contract, and the determination states that the case is not one to which section 5 applies, the reliefs that are provided under the Act in relation to forfeiture of deposits and cancellation fees do not apply to the case. Please seek legal advice on how you may protect your rights under the contract. 
+
