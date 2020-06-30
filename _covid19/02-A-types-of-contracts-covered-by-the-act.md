@@ -16,3 +16,17 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 |5. | [Secured loan agreements to SMEs](/files/1-Secured-loans.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/sme-loans)
 |6. | [Event and tourism-related contracts](/files/3-Event-tourism-related.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/event-or-tourism-related-contract)
 |7. | [Construction contracts and supply contracts](/files/2-Construction-contractors-suppliers.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
+
+### Self-Assessment Tool ####
+To assess your eligibility under Part 2 of the Act, please refer to the Self-Assessment Tool.
+
+### Notification for Relief ####
+To serve a Notification for Relief, please click here.
+
+
+### Application for an Assessor’s Determination ####
+To apply for an Assessor’s Determination, please click here.
+
+
+### Pending Court or Arbitration Proceedings ####
+To obtain a stay or dismissal of Court or Arbitral Proceedings after submitting a Notification for Relief, please click here.
