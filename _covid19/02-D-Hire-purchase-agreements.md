@@ -229,7 +229,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 *	If you are the guarantor but not a party to the hire-purchase agreement, you may not serve the Notification for Relief. 
 *	Under the Act, only a party to a hire-purchase agreement may serve a Notification for Relief for his inability to perform the obligations under the hire-purchase agreement. 
-*	The hirer should serve a Notification for Relief using this link (SingPass) or this link (CorpPass). In Part B of the form, the hirer should indicate the particulars of both the financing company and the guarantor. A copy of the same Notification for Relief should be served on both the financing company and the guarantor. 
+*	The hirer should serve a Notification for Relief using this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). In Part B of the form, the hirer should indicate the particulars of both the financing company and the guarantor. A copy of the same Notification for Relief should be served on both the financing company and the guarantor. 
 *	If the hirer serves a Notification for Relief on the financing company, and the other conditions in the Act are satisfied, the financing company will be prohibited from commencing court or insolvency proceedings against both the hirer and the guarantor. 
 *	If the hirer does not file a Notification for Relief, the hirer can be sued by the financing company, or can be brought in as a third party in any legal proceedings that may be commenced against the guarantor.
 
