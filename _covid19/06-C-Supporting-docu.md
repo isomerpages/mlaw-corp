@@ -21,12 +21,12 @@ Examples of the documents that may be relevant for each category of contract can
 *	Evidence of property tax rebates applicable to the property and passed down from the landlord to the tenant
 *	Negotiations and correspondence between the parties 
 *	<u>Tenant</u>: Documents showing that the tenant is unable to pay rent due to a COVID-19 event (if applicable), such as: 
-   *	Records of rental payments before and since the COVID-19 event
-   *	Bank statements of the tenant before and since the COVID-19 event
-   *	Evidence of events/incidents (if any) that tenant claims have had an impact on its revenue e.g. cancellation of orders
-   *	Evidence of income and expenditure of the tenant before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
-   *	Internal accounts of the tenant before and since the COVID-19 event (if applicable)
-   *	List of assets held currently by the tenant (if applicable)
+    *	Records of rental payments before and since the COVID-19 event
+    *	Bank statements of the tenant before and since the COVID-19 event
+    *	Evidence of events/incidents (if any) that tenant claims have had an impact on its revenue e.g. cancellation of orders
+    *	Evidence of income and expenditure of the tenant before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+    *	Internal accounts of the tenant before and since the COVID-19 event (if applicable)
+    *	List of assets held currently by the tenant (if applicable)
   
 *	Landlord: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
 
