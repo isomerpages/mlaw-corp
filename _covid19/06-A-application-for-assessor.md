@@ -4,7 +4,7 @@ title: Steps in the Assessor's Proceedings
 permalink: /covid19-relief/application-for-assessor
 breadcrumb: Steps in the Assessor's Proceedings
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
 ### Steps in the Assessor's Proceedings ###
 
