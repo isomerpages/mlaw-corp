@@ -70,8 +70,8 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 *	There is no need for you to serve a Notification for Relief on your counterparty as well.
 
 **12. I am not a party to the contract, but was erroneously served a Notification for Relief. What do I do next?** 
-•	If it is a mistake, you may contact the sender of the Notification for Relief to inform him about the error, or ignore the erroneous Notification for Relief. 
-•	If it appears that the sender had sent you the Notification for Relief because he believes you are a party to the contract (when you are not a party to the contract),  you may dispute the Notification for Relief by making an application to the Assessor using this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor).
+*	If it is a mistake, you may contact the sender of the Notification for Relief to inform him about the error, or ignore the erroneous Notification for Relief. 
+*	If it appears that the sender had sent you the Notification for Relief because he believes you are a party to the contract (when you are not a party to the contract),  you may dispute the Notification for Relief by making an application to the Assessor using this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor).
 
 **13. I was served a Notification for Relief even though my contract with the party seeking relief does not fall within the Act. What do I do next?**
 *	Even though the Notification for Relief was served in error, this indicates that your counterparty has difficulties meeting his contractual obligations to you under your contract. We encourage you to reach out to your counterparty to inform him that the contract does not fall within the Act and to reach a mutually acceptable solution to deal with any contractual issues that have been caused by COVID-19. 
