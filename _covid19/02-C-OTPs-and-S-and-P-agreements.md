@@ -73,9 +73,9 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	Once the Notification for Relief has been served on the developer, it cannot take the above actions in FAQ(3).
 
+#### Specific FAQs ####
 
-**<u>For buyers</u>** 
-
+<u>For buyers</u>
 
 **6.	I cannot make the payment required upon exercising the OTP, or due under the S&P Agreement / AFL, because I have lost my job. Do I qualify for the relief?**
 
@@ -196,7 +196,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 *	Whether you can get a refund for such payments will depend on the terms of the S&P Agreement / AFL. 
 
 
-**<u>For developers</u>**
+<u>For developers</u>
 
 
 **20.	I have been served with a Notification for Relief.  However, I disagree that the buyer is unable to meet his/her payment obligations under the S&P Agreement / AFL due to COVID-19. Can I terminate the S&P Agreement / AFL?**
