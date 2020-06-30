@@ -131,7 +131,7 @@ Examples of the documents that may be relevant for each category of contract can
 *	Documents from related adjudication proceedings under the Building and Construction Security of Payment Act 
 *	Negotiations and correspondence between the parties  
 * Contractor:
-      * Documents showing the contractor’s inability to supply goods and services due to a COVID-19 event (if applicable), such as:
+	* Documents showing the contractor’s inability to supply goods and services due to a COVID-19 event (if applicable), such as:
          * Evidence of regulatory restrictions such as social distancing measures which affected contractor’s ability to complete work on time 
          * Evidence of workers under Stay Home Notices or Quarantine Orders
          * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
