@@ -58,7 +58,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, that you wish to seek relief from and all other parties to the contract. Please click on [here](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for more information on how to serve the Notification for Relief. You may also wish to refer to FAQ (6) (for consumers) and FAQ (17) (for vendors) below for more information.
 
-* Once the Notification for Relief has been served on the other parties to the contract, the reliefs in FAQ (5) above will apply.
+* Once the Notification for Relief has been served on the other parties to the contract, the reliefs in FAQ (4) above will apply.
 
 #### Specific FAQs ####
 <u>I am a consumer in an event/tourism-related contract…</u>
@@ -87,6 +87,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 * However, if you had already cancelled the event or tour, and **agreed** with the vendor that the deposit (or a part of it) is to be forfeited, your deposit will not be restored. 
 
 **9. I do not wish to postpone my event or tour, but wish to cancel it.**
+
 **(i)	Does the Act require the vendor to allow my cancellation?** 
 *	Whether the event is to be postponed or cancelled are matters for the parties to come to a mutually acceptable agreement on, or, if parties cannot agree, the determination of an Assessor under the Act.  
 *	 We encourage parties to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
@@ -113,7 +114,7 @@ o	Please click [here](https://www.mlaw.gov.sg/covid19-relief/application-for-ass
 * With respect to the cancellation fees, under the Act, you may not have to pay the cancellation fees if the event or tour was to occur between 1 February 2020 and 19 October 2020 (both dates inclusive). However, if you already paid the cancellation fees before the Act came into force on 20 April 2020, or before serving the Notification for Relief, the vendor is not obliged to return the paid cancellation fees. If your event or tour was to occur after 19 October 2020, your vendor can charge you the cancellation fees as provided in your contract (if any). 
 -->
 
-**10. I wish to postpone my event or tour. Does the Act require the vendor to allow me to postpone my event or tour for a certain period (e.g., 6 months)?** 
+**10. I wish to postpone my event or tour. Does the Act require the vendor to allow me to postpone my event or tour for a certain period (e.g. 6 months)?** 
 *	Whether the event is to be postponed or cancelled, and if postponed, the terms of the postponement (e.g., period of postponement, applicable additional charges), are matters for the parties to come to an agreement on themselves, or, if parties cannot agree, the determination of an Assessor under the Act.  
 *	 We encourage parties to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
 *	If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click [here](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
