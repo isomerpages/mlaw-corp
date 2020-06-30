@@ -49,11 +49,12 @@ Examples of the documents that may be relevant for each category of contract can
 *	Negotiations and correspondence between the parties  
 
 *	<u>Hirer</u>: 
-      * Documents showing that the vehicle is a commercial vehicle (if applicable), such as:
-            *	Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
-            *	Taxi Driver’s Vocational Licence
-            *	Registration documents of a goods vehicle
-            *	Registration documents of a private bus, a private hire bus, an omnibus or a school bus
+      * Documents showing that the vehicle is a commercial vehicle (if applicable), such as:	
+	      *  Private Hire Car Driver’s Vocational Licence or registration documents of a private hire vehicle 
+	      * Taxi Driver’s Vocational Licence
+	      * Registration documents of a goods vehicle
+	      * Registration documents of a private bus, a private hire bus, an omnibus or a school bus
+         
       *	Equipment or vehicle ownership documents (if applicable)
       *	Documents showing that the hirer is unable to pay instalments due to a COVID-19 event (if applicable), such as: 
                *	Records of instalment payments before and since the COVID-19 event
