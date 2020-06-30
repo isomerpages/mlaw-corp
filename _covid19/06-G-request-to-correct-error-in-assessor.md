@@ -4,7 +4,7 @@ title: Request to Correct Error in Assessor's Determination
 permalink: /covid19-relief/request-to-correct-error-in-assessor
 breadcrumb: Request to Correct Error in Assessor's Determination
 collection_name: covid19
-second_nav_title: Application for an Assessor’s Determination
+second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
 ---
 
 ### Request to Correct Error in Assessor's Determination ###
