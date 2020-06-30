@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: FAQs for Hire-purchase Agreements and conditional sales agreements
+title: FAQs for Hire Purchase and Conditional Sales Agreements
 permalink: /covid19-relief/faq/Hire-purchase-agreements
-breadcrumb: Hire-purchase agreements
+breadcrumb: FAQs for Hire Purchase and Conditional Sales Agreements
 collection_name: covid19
-second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
+second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
-### Hire-purchase Agreements ###
+### Hire-purchase  and Conditional Sales Agreements ###
 
 #### General FAQs ####
 **1.	What types of hire-purchase agreements are covered by the Act?**
