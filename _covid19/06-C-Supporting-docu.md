@@ -28,10 +28,10 @@ Examples of the documents that may be relevant for each category of contract can
     *	Internal accounts of the tenant before and since the COVID-19 event (if applicable)
     *	List of assets held currently by the tenant (if applicable)
   
-*	Landlord: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
+*	<u>Landlord</u>: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
 
 **B.	Option to purchase given by housing developer, or sales and purchase agreement between purchase and housing developer, for residential proper**
-*	Option to Purchase (“OTP”) given by housing developer
+*	Option to Purchase (“**OTP**”) given by housing developer
 *	Sales and Purchase Agreement, or Agreement for Lease, between purchaser and housing developer 
 *	Stamp duty certificate, if any
 *	Document showing the payment of the booking fee or other moneys for the purpose of purchasing the residential property
