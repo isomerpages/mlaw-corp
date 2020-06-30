@@ -22,15 +22,15 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 **3. I do not know the email address of all the other parties to the contract. How do I serve the Notification for Relief?** 
 
 *	If you have the email address of all the relevant parties the Notification for Relief should be served on, please serve the Notification for Relief: 
-   *	Using [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass)  if you are serving the Notification for yourself.
-   *	Using [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass) if you are serving the Notification on behalf of a business or company
+    *	Using [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass)  if you are serving the Notification for yourself.
+    *	Using [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass) if you are serving the Notification on behalf of a business or company
 
 *	Only if you do not have or cannot obtain the other party’s email address but have previously communicated with the party by an internet-based messaging system (e.g. WhatsApp) or the messaging system on the website, blog or social media website owned or operated by the other party, you may download the hard-copy Notification for Relief and serve it on the other party via that messaging system. 
-   * If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf).
-   * If you are serving the Notification on behalf of a business or company), please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
+     * If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf).
+     * If you are serving the Notification on behalf of a business or company), please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
  
 *	Only if you are unable to serve by the modes above, you may download the Notification for Relief and send to the other party by prepaid registered post.
-   * If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf).
-   * If you are serving the Notification on behalf of a business or company), please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
+    * If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf).
+    * If you are serving the Notification on behalf of a business or company), please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
  
  
