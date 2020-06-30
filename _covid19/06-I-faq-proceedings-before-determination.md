@@ -35,10 +35,11 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 *	You cannot disclose to a third party any statement or document submitted, created or made for the purposes of an Assessor’s proceeding (including the Application, Response, and any other forms), or any information (whether written or oral) that is disclosed in the course of an Assessor’s proceedings: 
 
-   *	With the consent of the other party to whom the information relates; 
+	   *	With the consent of the other party to whom the information relates; 
 
-   *	When the information is in the public domain; or
+	   *	When the information is in the public domain; or
 
-   *	When the disclosure is necessary for the proceedings, the enforcement of an Assessor’s determination or any proceeding before a court or arbitral tribunal. 
+	   *	When the disclosure is necessary for the proceedings, the enforcement of an Assessor’s determination or any proceeding before a court or arbitral tribunal. 
+
 
 *	**Any party who contravenes the above is guilty of a criminal offence.** 
