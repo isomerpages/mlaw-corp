@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: FAQs for Event and tourism-related contracts
+title: FAQs for Event and Tourism-related contracts
 permalink: /covid19-relief/faq/Event-or-tourism-related-contract
-breadcrumb: Event or tourism-related contracts
-collection_name: covid19
-second_nav_title: Temporary Relief from Inability to Perform Contractual Obligations
+breadcrumb: FAQs for Event and Tourism-related contracts
+second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Event or tourism-related contracts ###
 
