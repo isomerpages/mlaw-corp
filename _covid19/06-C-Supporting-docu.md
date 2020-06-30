@@ -89,11 +89,11 @@ Examples of the documents that may be relevant for each category of contract can
 		  *	List of assets currently held by the renter (if applicable)
 	*	Documents showing repossession of commercial equipment by rental company (if applicable)
 *	<u>Rental company</u>: 
-   *	Evidence of impact of COVID-19 on the rental company’s financial position (if applicable), such as: 
-      *	Bank statements of the rental company before and since the COVID-19 event
-      *	Internal accounts of the rental company before and since the COVID-19 event
-      *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
-   *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
+	*	Evidence of impact of COVID-19 on the rental company’s financial position (if applicable), such as: 
+	      *	Bank statements of the rental company before and since the COVID-19 event
+	      *	Internal accounts of the rental company before and since the COVID-19 event
+	      *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
+	   *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
 
 **E.	Secured loan to SMEs by bank or financial institution**
 
