@@ -57,8 +57,8 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 *	Please note that **this does not operate as an appeal**. The Assessor’s determination is **not appealable**. 
 
 **10.	My determination only states that the case is one to which section 5 applies. What does this mean?**
-*	If your determination states that the case is one to which section 5 applies, it means the Assessor has determined that: 
-		*	The contracting party who served the Notification for Relief qualifies for relief under the Act; and 
-		*	The party on whom the Notification for Relief was served is prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act at any time up to 19 October 2020.
+* If your determination states that the case is one to which section 5 applies, it means the Assessor has determined that: 
+	* The contracting party who served the Notification for Relief qualifies for relief under the Act; and 
+	* The party on whom the Notification for Relief was served is prohibited from taking any of the legal or enforcement actions listed in section 5(3) of the Act at any time up to 19 October 2020.
 
 
