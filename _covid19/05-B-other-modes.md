@@ -14,6 +14,7 @@ If you are unable to use the electronic system to serve the Notification for Rel
 *	If you are acting on behalf of an entity that is a party to the contract, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf).
 *	If you are an individual who is a party to the contract, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-individual.pdf).  
 
+
 2. Serve the Notification for Relief on the Recipient(s): 
 
 (a)	 By way of **email**; 
