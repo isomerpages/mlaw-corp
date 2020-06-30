@@ -11,7 +11,7 @@ second_nav_title: Temporary Relief from Inability to Perform Contractual Obligat
 #### General FAQs ####
 **1. What is an event contract?**
 
-* An “event contract” is a contract for the provision of a venue, accommodation, amenities, transport, entertainment, catering or other goods and services for an event, such as a business meeting, conference, wedding, etc. 
+* An “event contract” is a contract for the provision of a venue, accommodation, amenities, transport, entertainment, catering or other goods and services for an event, such as a business meeting, conference, wedding, etc.
 
   * E.g. contract with hotel for a wedding banquet, contract for photography services or make-up services for a wedding, contract for tickets to a concert or show or sporting event.
 
