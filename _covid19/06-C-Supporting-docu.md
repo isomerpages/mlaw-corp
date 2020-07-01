@@ -14,14 +14,14 @@ All parties are to keep all information or documents disclosed by any party, or 
 
 Examples of the documents that may be relevant for each category of contract can be found below. 
 * <a href="#lease" id="ref1">Lease or Licence of Non-Residential Property</a>
-* Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property
-* Hire-Purchase or Conditional Sales Agreement
-* Rental Agreements of Commercial Equipment
-* Loans by Banks and Finance Companies to Singapore SMEs
-* Event or Tourism-Related Contracts
-* Construction or Supply Contract, or Related Performance Bond
+* <a href="#option" id="ref2">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property</a>
+* <a href="#hire" id="ref3">Hire-Purchase or Conditional Sales Agreement</a>
+* <a href="#rental" id="ref4">Rental Agreements of Commercial Equipment</a>
+* <a href="#loans" id="ref5">Loans by Banks and Finance Companies to Singapore SMEs</a>
+* <a href="#event" id="ref6">Event or Tourism-Related Contracts</a>
+* <a href="#construct" id="ref7">Construction or Supply Contract, or Related Performance Bond</a>
 
-##### <a name="lease">Lease or licence of non-residential property ↩</a> #####
+##### <a name="lease">Lease or Licence of Non-Residential Property ↩</a> #####
 *	Lease or licence agreement, letter of offer or offer to let, together with a copy of all applicable terms and conditions
 *	Stamp duty certificate
 *	Evidence of any security deposit held by the landlord
@@ -37,7 +37,7 @@ Examples of the documents that may be relevant for each category of contract can
   
 *	<u>Landlord</u>: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
 
-**B.	Option to purchase given by housing developer, or sales and purchase agreement between purchase and housing developer, for residential proper**
+##### <a name="option">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property↩</a> #####
 *	Option to Purchase (“**OTP**”) given by housing developer
 *	Sales and Purchase Agreement, or Agreement for Lease, between purchaser and housing developer 
 *	Stamp duty certificate, if any
@@ -50,7 +50,7 @@ Examples of the documents that may be relevant for each category of contract can
     *	Evidence of unsuccessful attempts to sell current property to raise money to complete purchase of new residential property
 *	<u>Developer</u>: Where the developer is a licensed private housing developer and the property is not an Executive Condominium, evidence of Controller of Housing’s approval or rejection of application to extend OTP 
 
-**C.	Hire-purchase or conditional sales agreement**
+##### <a name="hire">Hire-Purchase or Conditional Sales Agreement↩</a> #####
 
 *	Hire-purchase or conditional sales agreement 
 *	Negotiations and correspondence between the parties  
@@ -80,7 +80,7 @@ Examples of the documents that may be relevant for each category of contract can
 
    *	Documents showing that hirer’s inability to pay is not due to COVID-19 event (if applicable) e.g. hirer’s instalment payment history before COVID-19 event.
 
-**D.	Lease or rental agreements of commercial equipment**
+##### <a name="rental">Rental Agreements of Commercial Equipment ↩</a> #####
 *	Lease or rental agreement for the commercial equipment (except private-hire cars and taxis)
 *	Negotiations and correspondence between the parties  
 *	<u>Renter</u>: 
@@ -102,7 +102,7 @@ Examples of the documents that may be relevant for each category of contract can
 	      *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 	   *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
 
-**E.	Secured loan to SMEs by bank or financial institution**
+##### <a name="loans">Loans by Banks and Finance Companies to Singapore SMEs ↩</a> #####
 
 *	Loan documentation (E.g. Letter of Offer, Terms and Conditions)
 *	Negotiations and correspondence between the parties  
@@ -117,7 +117,7 @@ Examples of the documents that may be relevant for each category of contract can
 		  *	Evidence of income and expenditure of the SME before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 		  *	List of assets currently held by the debtor
 
-**F.	Event or tourism-related contract**
+##### <a name="event">Event or Tourism-Related Contracts ↩</a> #####
 
 *	Contract including terms and conditions
 *	Negotiations and correspondence between the parties on matters such as the postponement of the event and any conditions for the postponement
@@ -131,7 +131,7 @@ Examples of the documents that may be relevant for each category of contract can
          *	Internal accounts of the vendor before and since the COVID-19 event
          *	Evidence of income and expenditure of the vendor before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 
-**G.	Construction or supply contract, or related performance bond**
+##### <a name="construct">Construction or Supply Contract, or Related Performance Bond ↩</a> #####
 
 *	Construction contract or supply contract
 *	Related performance bond (if applicable)
