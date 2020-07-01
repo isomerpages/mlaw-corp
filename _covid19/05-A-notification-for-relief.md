@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Notification for Relief
+title: Service via the Electronic System
 permalink: /covid19-relief/notification-for-relief
-breadcrumb: Notification for Relief
+breadcrumb: Service via the Electronic System
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Part 2 of the Act-Notification for Relief
 ---
 
 ### Notification for Relief ### 

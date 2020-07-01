@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Rental Relief Framework
+title: FAQs for Rental Relief Framework for SMEs
 permalink: /covid19-relief/faq/rental-relief
-breadcrumb: Rental Relief Framework
+breadcrumb: FAQs for Rental Relief Framework for SMEs
 collection_name: covid19
-second_nav_title: Frequently Asked Questions
+second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 ---
-### Rental Relief Framework ###
+### FAQs for Rental Relief Framework for SMEs ###
 
 *Note: The FAQs are subject to the details set out in the subsidiary legislation to the COVID-19 (Temporary Measures) (Amendment) Act, which will be implemented by end-July 2020.*
 

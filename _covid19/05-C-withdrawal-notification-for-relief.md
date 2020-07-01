@@ -4,7 +4,7 @@ title: Withdrawal of Notification for Relief
 permalink: /covid19-relief/withdrawal-notification-for-relief
 breadcrumb: Withdrawal of Notification for Relief
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Part 2 of the Act-Notification for Relief
 ---
 
 ### Withdrawal of Notification for Relief ###

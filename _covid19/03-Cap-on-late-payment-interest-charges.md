@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Cap on late payment interest or charges for specific contracts 
+title: Additional Relief-Cap on Late Payment Interest or Charges for Specific Contracts 
 permalink: /covid19-relief/cap-on-late-payment-interest-charges
-breadcrumb: Cap on late payment interest or charges for specific contracts 
+breadcrumb: Additional Relief-Cap on Late Payment Interest or Charges for Specific Contracts 
 collection_name: covid19
+second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Cap on late payment interest or charges for specific contracts ###
 

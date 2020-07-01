@@ -1,11 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Relief for Tenants Unable to Vacate Premises
+title: Additional Relief for Tenants Unable to Vacate Premises
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
-breadcrumb: Relief for Tenants Unable to Vacate Premises
+breadcrumb: Additional Relief  for Tenants Unable to Vacate Premises
 collection_name: covid19
+second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
-### Relief for tenants unable to vacate business premises ###
+### Additional Relief for tenants unable to vacate business premises ###
 
 The COVID-19 (Temporary Measures) (Amendment) Bill (the “**Amendment Bill**”) was passed in Parliament on 5 June 2020.
 

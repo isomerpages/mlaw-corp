@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Alternative Arrangements for Meetings
+title: Part 4 of the Act-Alternative Arrangements for Meetings
 permalink: /covid19-relief/alternative
 breadcrumb: Alternative Arrangements for Meetings
 collection_name: covid19

@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Application for an Assessor’s Determination
+title: Steps in the Assessor's Proceedings
 permalink: /covid19-relief/application-for-assessor
-breadcrumb: Application for an Assessor’s Determination
+breadcrumb: Steps in the Assessor's Proceedings
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
-### Application for an Assessor’s Determination ###
+### Steps in the Assessor's Proceedings ###
 
 You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
 
@@ -28,7 +28,7 @@ To submit the **Application** to the Registrar using the electronic system:
 * If you are an individual who is a party to the contract, please use this [link (SingPass)](https://go.gov.sg/application-for-determination-singpass){:target="_blank"}. 
 
 **Note**: 
-* It is important that you use the **correct link** to submit the Application. Otherwise, the Application may be rejected.
+* It is important that you use the **correct link** to submit the Application. Otherwise, the Application may be rejected. You are encouraged to enclose [supporting documents](supporting-doc-assessor) to your Application.
 * By submitting an Application, you agree to keep any information or documents disclosed by the other party or parties for the purposes of the Application, or any matters discussed during the proceedings before the Assessor, **confidential**, and **will not disclose any such information, documents or matters to any third parties**.
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 

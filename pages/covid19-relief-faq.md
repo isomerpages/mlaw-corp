@@ -1,10 +1,10 @@
-<!--
-layout: leftnav-page-content
+---
+layout: simple-page
 title: Frequently Asked Questions
 permalink: /covid19-relief/faq/
 breadcrumb: Frequently Asked Questions
--->
 
+---
 
 ### Frequently Asked Questions ###
 

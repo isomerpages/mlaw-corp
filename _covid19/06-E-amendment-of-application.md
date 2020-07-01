@@ -4,7 +4,7 @@ title: Amendment of Application
 permalink: /covid19-relief/request-for-amendment
 breadcrumb: mendment of Application
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
 
 ### Amendment of Application ###

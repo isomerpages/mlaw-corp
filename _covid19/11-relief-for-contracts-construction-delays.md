@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Relief for contracts affected by construction delays 
+title: Part 8 of the Act-Relief for Contracts affected by Construction Delays 
 permalink: /covid19-relief/relief-for-contracts-construction-delays
-breadcrumb: Relief for contracts affected by construction delays  
+breadcrumb: Relief for Contracts affected by Construction Delays  
 collection_name: covid19
 ---
 ### Relief for contracts affected by construction delays ###

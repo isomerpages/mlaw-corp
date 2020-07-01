@@ -4,7 +4,7 @@ title: Withdrawal of the Application
 permalink: /covid19-relief/withdrawal-of-application
 breadcrumb: Withdrawal of the Application
 collection_name: covid19
-second_nav_title: Relief for Contractual Obligations
+second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
 ### Withdrawal of the Application ###
 
