@@ -4,7 +4,7 @@ title: Application to Set Aside a Dismissal or Determination
 permalink: /covid19-relief/set-aside-dismissal-or-determination
 breadcrumb: Application to Set Aside a Dismissal or Determination
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Assessor’s Determination
+second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
 ---
 ### Application to Set Aside a Dismissal or Determination ###
 
