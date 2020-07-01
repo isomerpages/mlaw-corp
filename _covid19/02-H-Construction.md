@@ -32,5 +32,5 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * To qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}. 
 
-* Once the Notification for Relief has been served on the other party to the contract, the reliefs in (b) will apply.
+* Once the Notification for Relief has been served on the other party to the contract, the reliefs in FAQ (2) will apply.
 
