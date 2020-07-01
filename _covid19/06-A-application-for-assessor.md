@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Steps in the Assessor's Proceedings
+title: Steps in the Proceedings
 permalink: /covid19-relief/application-for-assessor
-breadcrumb: Steps in the Assessor's Proceedings
+breadcrumb: Steps in the Proceedings
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Assessor’s Determination
+second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
 ---
-### Steps in the Assessor's Proceedings ###
+### Steps in the Proceedings ###
 
 You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
 
