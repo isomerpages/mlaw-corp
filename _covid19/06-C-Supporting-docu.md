@@ -13,7 +13,7 @@ When you submit an [Application for an Assessor’s Determination](https://www.m
 All parties are to keep all information or documents disclosed by any party, or any matters discussed during the proceedings before the Assessor, **confidential**. The parties **must not disclose** the information or documents to any third party.
 
 Examples of the documents that may be relevant for each category of contract can be found below. 
-* Lease or Licence of Non-Residential Property
+* <a href="#lease" id="ref1">Lease or Licence of Non-Residential Property</a>
 * Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property
 * Hire-Purchase or Conditional Sales Agreement
 * Rental Agreements of Commercial Equipment
@@ -21,7 +21,7 @@ Examples of the documents that may be relevant for each category of contract can
 * Event or Tourism-Related Contracts
 * Construction or Supply Contract, or Related Performance Bond
 
-**A.	Lease or licence of non-residential property**
+##### <a name="lease">Lease or licence of non-residential property ↩</a> #####
 *	Lease or licence agreement, letter of offer or offer to let, together with a copy of all applicable terms and conditions
 *	Stamp duty certificate
 *	Evidence of any security deposit held by the landlord
