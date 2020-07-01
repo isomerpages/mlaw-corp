@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: FAQ for Proceedings before an Assessor and Assessor’s Determinations
+title: FAQs for Proceedings before an Assessor and Assessor’s Determinations
 permalink: /covid19-relief/faq-proceedings-before-determination
-breadcrumb: FAQ for Proceedings before an Assessor and Assessor’s Determinations
+breadcrumb: FAQs for Proceedings before an Assessor and Assessor’s Determinations
 collection_name: covid19
 second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
-### FAQ for Proceedings before an Assessor and Assessor’s Determinations ###
+### FAQs for Proceedings before an Assessor and Assessor’s Determinations ###
 
 **1.	Who are the Assessors?** 
 *	The Assessors are qualified lawyers, public accountants, chartered accountants with at least 3 years’ working experience, or persons who have at least 3 years working experience in or relating to law, accountancy, finance, business management, building and construction or architecture. 
@@ -17,11 +17,11 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 **3.	I am a party to proceedings before an Assessor. What documents should I attach in my Application / Response?**
 
-*	You may refer to this page for examples on the supporting documents that may be attached to your Application / Response. 
+*	You may refer to [this page](/supporting-doc-assessor) for examples on the supporting documents that may be attached to your Application / Response. 
 
 **4.	What is the total file size of the documents that can be attached to the Application or Response?** 
 
-*	You can attach a maximum of 7 MB of documents. Please refer to this link for information on how you could reduce file size. Please zip the files if you have multiple attachments. 
+*	You can attach a maximum of 7 MB of documents. Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/tips) for information on how you could reduce file size. Please zip the files if you have multiple attachments. 
 
 **5.	I served the Notification for Relief, and I filed the Application for an Assessor’s Determination. Since then, the other party and I have reached a mutually acceptable solution without having to go through the proceedings before the Assessor. What do I do now?**
 *	If the agreement you have reached with the other party involves you withdrawing the Notification for Relief, you should serve a [Notice of Withdrawal](https://www.mlaw.gov.sg/covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
