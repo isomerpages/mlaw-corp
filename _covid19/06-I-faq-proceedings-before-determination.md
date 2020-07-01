@@ -17,7 +17,7 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 
 **3.	I am a party to proceedings before an Assessor. What documents should I attach in my Application / Response?**
 
-*	You may refer to [this page](/supporting-doc-assessor) for examples on the supporting documents that may be attached to your Application / Response. 
+*	You may refer to [this page](supporting-doc-assessor) for examples on the supporting documents that may be attached to your Application / Response. 
 
 **4.	What is the total file size of the documents that can be attached to the Application or Response?** 
 
