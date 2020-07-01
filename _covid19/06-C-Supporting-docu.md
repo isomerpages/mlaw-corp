@@ -137,7 +137,7 @@ Examples of the documents that may be relevant for each category of contract can
 *	Related performance bond (if applicable)
 *	Documents from related adjudication proceedings under the Building and Construction Security of Payment Act 
 *	Negotiations and correspondence between the parties  
-* Contractor:
+* <u>Contractor</u>:
 	* Documents showing the contractor’s inability to supply goods and services due to a COVID-19 event (if applicable), such as:
          * Evidence of regulatory restrictions such as social distancing measures which affected contractor’s ability to complete work on time 
          * Evidence of workers under Stay Home Notices or Quarantine Orders
