@@ -4,7 +4,7 @@ title: Extension of Time
 permalink: /covid19-relief/request-for-extension-of-time
 breadcrumb: Extension of Time
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Assessor’s Determination
+second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
 ---
 ### Extension of Time ###
 
