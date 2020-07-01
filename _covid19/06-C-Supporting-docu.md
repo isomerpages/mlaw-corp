@@ -37,7 +37,7 @@ Examples of the documents that may be relevant for each category of contract can
   
 *	<u>Landlord</u>: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
 
-##### <a name="option">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property↩</a> #####
+##### <a name="option">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property</a><a href="#ref1" title="Return to top">↩</a> #####
 *	Option to Purchase (“**OTP**”) given by housing developer
 *	Sales and Purchase Agreement, or Agreement for Lease, between purchaser and housing developer 
 *	Stamp duty certificate, if any
@@ -50,7 +50,7 @@ Examples of the documents that may be relevant for each category of contract can
     *	Evidence of unsuccessful attempts to sell current property to raise money to complete purchase of new residential property
 *	<u>Developer</u>: Where the developer is a licensed private housing developer and the property is not an Executive Condominium, evidence of Controller of Housing’s approval or rejection of application to extend OTP 
 
-##### <a name="hire">Hire-Purchase or Conditional Sales Agreement↩</a> #####
+##### <a name="hire">Hire-Purchase or Conditional Sales Agreement</a><a href="#ref1" title="Return to top">↩</a> #####
 
 *	Hire-purchase or conditional sales agreement 
 *	Negotiations and correspondence between the parties  
@@ -80,7 +80,7 @@ Examples of the documents that may be relevant for each category of contract can
 
    *	Documents showing that hirer’s inability to pay is not due to COVID-19 event (if applicable) e.g. hirer’s instalment payment history before COVID-19 event.
 
-##### <a name="rental">Rental Agreements of Commercial Equipment ↩</a> #####
+##### <a name="rental">Rental Agreements of Commercial Equipment </a><a href="#ref1" title="Return to top">↩</a> #####
 *	Lease or rental agreement for the commercial equipment (except private-hire cars and taxis)
 *	Negotiations and correspondence between the parties  
 *	<u>Renter</u>: 
@@ -102,7 +102,7 @@ Examples of the documents that may be relevant for each category of contract can
 	      *	Evidence of income and expenditure of the rental company before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 	   *	Documents showing that renter’s inability to pay is not due to COVID-19 event (if applicable) e.g. rental payment history before COVID-19 event
 
-##### <a name="loans">Loans by Banks and Finance Companies to Singapore SMEs ↩</a> #####
+##### <a name="loans">Loans by Banks and Finance Companies to Singapore SMEs </a><a href="#ref1" title="Return to top">↩</a> #####
 
 *	Loan documentation (E.g. Letter of Offer, Terms and Conditions)
 *	Negotiations and correspondence between the parties  
@@ -117,7 +117,7 @@ Examples of the documents that may be relevant for each category of contract can
 		  *	Evidence of income and expenditure of the SME before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 		  *	List of assets currently held by the debtor
 
-##### <a name="event">Event or Tourism-Related Contracts ↩</a> #####
+##### <a name="event">Event or Tourism-Related Contracts </a><a href="#ref1" title="Return to top">↩</a> #####
 
 *	Contract including terms and conditions
 *	Negotiations and correspondence between the parties on matters such as the postponement of the event and any conditions for the postponement
@@ -131,7 +131,7 @@ Examples of the documents that may be relevant for each category of contract can
          *	Internal accounts of the vendor before and since the COVID-19 event
          *	Evidence of income and expenditure of the vendor before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
 
-##### <a name="construct">Construction or Supply Contract, or Related Performance Bond ↩</a> #####
+##### <a name="construct">Construction or Supply Contract, or Related Performance Bond </a><a href="#ref1" title="Return to top">↩</a> #####
 
 *	Construction contract or supply contract
 *	Related performance bond (if applicable)
