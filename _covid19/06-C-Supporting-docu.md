@@ -8,7 +8,7 @@ second_nav_title: Part 2 of the Act-Assessor’s Determination
 ---
 ### Supporting Documents for Assessor's Proceedings ###
 
-When you submit an [Application for an Assessor’s Determination](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor), or the Response to the Application, you are encouraged to enclose all relevant supporting documents to facilitate a fair and timely determination of the matter. 
+When you submit an [Application for an Assessor’s Determination](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor), or the Response to the Application, you are encouraged to enclose all relevant supporting documents to facilitate a fair and timely determination of the matter.
 
 All parties are to keep all information or documents disclosed by any party, or any matters discussed during the proceedings before the Assessor, **confidential**. The parties **must not disclose** the information or documents to any third party.
 
