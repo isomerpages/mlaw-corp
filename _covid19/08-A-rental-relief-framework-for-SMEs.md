@@ -33,7 +33,7 @@ The rental relief will be part supported by Government assistance, and part shar
 
 ^The rental waivers may subject to conditions be offset by any previous direct monetary assistance provided by the landlord to the tenant (or subtenant/licensee) and/or any passing on of the Property Tax Rebate from property owners to their tenants.
 
-##### <a name="eligibility">Eligibility Criteria for Additional Rental Relief to be provided by Landlords<a href="#ref2" title="Return to top">↩</a> #####
+##### <a name="eligibility">Eligibility Criteria for Additional Rental Relief to be provided by Landlords </a><a href="#ref2" title="Return to top">↩</a> #####
 
 Occupying tenants (including subtenants and licensees) will need to satisfy <u>all criteria</u> below to be eligible for the mandatory rental relief co-shared by landlords:
 
