@@ -21,7 +21,7 @@ Examples of the documents that may be relevant for each category of contract can
 * <a href="#event" id="ref6">Event or Tourism-Related Contracts</a>
 * <a href="#construct" id="ref7">Construction or Supply Contract, or Related Performance Bond</a>
 
-##### <a name="lease">Lease or Licence of Non-Residential Property ↩</a> #####
+##### <a name="lease">Lease or Licence of Non-Residential Property </a><a href="#ref1" title="Return to top">↩</a> #####
 *	Lease or licence agreement, letter of offer or offer to let, together with a copy of all applicable terms and conditions
 *	Stamp duty certificate
 *	Evidence of any security deposit held by the landlord
