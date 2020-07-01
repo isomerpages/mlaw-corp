@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Supporting Documents for Assessor's Proceedings
-permalink: /covid19-relief/supporting-docu-assessor
+permalink: /covid19-relief/supporting-doc-assessor
 breadcrumb: Supporting Documents for Assessor's Proceedings
 collection_name: covid19
 second_nav_title: Part 2 of the Act-Assessor’s Determination
@@ -13,6 +13,13 @@ When you submit an [Application for an Assessor’s Determination](https://www.m
 All parties are to keep all information or documents disclosed by any party, or any matters discussed during the proceedings before the Assessor, **confidential**. The parties **must not disclose** the information or documents to any third party.
 
 Examples of the documents that may be relevant for each category of contract can be found below. 
+* Lease or Licence of Non-Residential Property
+* Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property
+* Hire-Purchase or Conditional Sales Agreement
+* Rental Agreements of Commercial Equipment
+* Loans by Banks and Finance Companies to Singapore SMEs
+* Event or Tourism-Related Contracts
+* Construction or Supply Contract, or Related Performance Bond
 
 **A.	Lease or licence of non-residential property**
 *	Lease or licence agreement, letter of offer or offer to let, together with a copy of all applicable terms and conditions
