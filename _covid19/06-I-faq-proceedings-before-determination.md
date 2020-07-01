@@ -4,7 +4,7 @@ title: FAQs for Proceedings before an Assessor and Assessor’s Determinations
 permalink: /covid19-relief/faq-proceedings-before-determination
 breadcrumb: FAQs for Proceedings before an Assessor and Assessor’s Determinations
 collection_name: covid19
-second_nav_title: Part 2 of the Act-Assessor’s Determination
+second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
 ---
 ### FAQs for Proceedings before an Assessor and Assessor’s Determinations ###
 
