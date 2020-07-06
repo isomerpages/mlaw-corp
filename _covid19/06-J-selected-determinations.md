@@ -15,3 +15,7 @@ The summary and explanatory notes aim to assist in an understanding of the cases
 Assessors seek to achieve a just and equitable outcome for the parties based on the facts and circumstances of each case. It is emphasised that the brief summary and explanatory notes do not represent all the reasons that the Assessors may have considered in arriving at their determinations in these cases.
  
 As such, if you are a party to an ongoing determination, these cases may illustrate a general approach to cases, but your case will be determined on its own facts, and you may have a different result or outcome in your case.
+
+| Selected Determinations | Last Updated |
+| [View file](files/test.pdf)  | 6 July 2020
+
