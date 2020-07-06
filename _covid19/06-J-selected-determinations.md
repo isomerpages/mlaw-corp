@@ -17,6 +17,6 @@ Assessors seek to achieve a just and equitable outcome for the parties based on 
 As such, if you are a party to an ongoing determination, these cases may illustrate a general approach to cases, but your case will be determined on its own facts, and you may have a different result or outcome in your case.
 
 | Selected Determinations | Last Updated |
-| [View file](files/test.pdf)  | 6 July 2020
+| [View file](/files/covid19-forms/Selected_Determinations_by_Assessors_COVID-19_Temporary_Measures_Act.pdf)  | 6 July 2020
 
 
