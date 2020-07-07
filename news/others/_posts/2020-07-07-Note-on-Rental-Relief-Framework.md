@@ -38,8 +38,8 @@ permalink: /news/others/Note-on-Rental-Relief-Framework
 11. More information on the rental relief framework is available at <a href="https://www.go.gov.sg/rentalrelief">https://www.go.gov.sg/rentalrelief</a>, and in the videos accessible through the links below.
 
 English video: [link](https://youtu.be/omMZ1dH8kig)
-Chinese video: [link](https://youtu.be/ajDfodUGNJM)
-Chinese translation of this note: [link]
+<br>Chinese video: [link](https://youtu.be/ajDfodUGNJM)
+<br>Chinese translation of this note: [link](/files/news/others/Rental-Relief-Framework-Note-Chinese.pdf)
 
 
 <p><sup id="fn1">1. This refers to the rental relief framework provided under the COVID-19 (Temporary Measures) (Amendment) Act.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
