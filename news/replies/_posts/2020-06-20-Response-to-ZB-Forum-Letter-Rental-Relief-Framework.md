@@ -22,7 +22,8 @@ In times like this, when many parties are facing challenges, it is in everyoneâ€
 For more details on the Rental Relief Framework, please visit www.mlaw.gov.sg/covid19-relief.
 
 Andrea Goh
-**Director, Corporate Communications Divisionï¼Œ Ministry of Law**
+
+**Director, Corporate Communications Division, Ministry of Law**
 
 
 <p class="right-side-updated">Last updated on 20 June 2020</p>
