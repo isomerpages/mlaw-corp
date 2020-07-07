@@ -35,7 +35,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
     
 **c.	What period does the rental relief cover?**
 
-*	TGenerally, the rental relief covers the first 2 months within the period of April to July 2020 for qualifying commercial properties, and the first month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties).
+*	Generally, the rental relief covers the first 2 months within the period of April to July 2020 for qualifying commercial properties, and the first month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties).
 
 
 *	For SME tenant-occupiers which meet the criteria for the additional rental relief, the additional rental relief covers a further 2 months within the period of April to July 2020 for qualifying commercial properties, and a further 1 month in April to May 2020 for other non-residential properties.
@@ -98,7 +98,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 *	Once the notice of cash grant is received, the rental is treated as waived under the Act. Landlords are obliged to notify their tenants. Eligible tenants do not need to do anything to obtain the rental waivers and will enjoy the rental waivers automatically.  
 
 
-*	More details of the cash grant can be found on IRAS’ website - https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/
+*	More details of the cash grant can be found on [IRAS’ website](https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/).
 
 
 **i.	What should landlords and tenants do in the meantime, before receiving the notice of cash grant from IRAS?**
@@ -123,7 +123,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 *	When the rental relief provisions under Part 2A of the Act comes into force, it will provide for a moratorium on action that can be taken against the tenant-occupier for non-payment of rent. 
 
 
-*	At any time, tenants who are unable to pay their rent due to COVID-19 and who require protection from legal or enforcement proceedings by their landlords, may serve a Notification for Relief under the existing COVID-19 (Temporary Measures) Act using the form accessible at the following link: https://www.go.gov.sg/nfr. Once the Notification for Relief is served, the landlord may not terminate the lease nor take any of the prohibited actions stated in section 5(3) of the Act on the basis of non-payment of rent up to 19 October 2020.
+*	At any time, tenants who are unable to pay their rent due to COVID-19 and who require protection from legal or enforcement proceedings by their landlords, may serve a Notification for Relief under the existing COVID-19 (Temporary Measures) Act using the form accessible at this [link](https://www.go.gov.sg/nfr). Once the Notification for Relief is served, the landlord may not terminate the lease nor take any of the prohibited actions stated in section 5(3) of the Act on the basis of non-payment of rent up to 19 October 2020.
 
 
 **k.	How will landlords and tenants know if a tenant is eligible for rental relief? What documents should a tenant provide to prove his eligibility?**
