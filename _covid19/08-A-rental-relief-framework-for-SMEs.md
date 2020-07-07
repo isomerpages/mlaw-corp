@@ -69,7 +69,7 @@ Where necessary, tenants may be required to share relevant information with thei
 
 Tenants who do not qualify for relief and who do not pay rent will be subject to the consequences spelt out in the contract, including paying the rent accrued, and any applicable interest and charges. 
 
-Tenants who are unable to pay their rent due to COVID-19 and require protection from legal or enforcement proceedings by their landlords may serve a Notification for Relief (“NFR”) under the COVID-19 (Temporary Measures) Act using the form accessible at the following link: https://www.go.gov.sg/nfr. After the NFR is served, the landlord may not evict the tenant or terminate the lease for the prescribed period (up until 19 October 2020).
+Tenants who are unable to pay their rent due to COVID-19 and require protection from legal or enforcement proceedings by their landlords may serve a Notification for Relief (“NFR”) under the COVID-19 (Temporary Measures) Act using the form accessible at this [link](https://www.go.gov.sg/nfr). After the NFR is served, the landlord may not evict the tenant or terminate the lease for the prescribed period (up until 19 October 2020).
 
 ##### <a name="assess">Landlord’s Application for Assessment<a href="#ref4" title="Return to top">↩</a> #####
 
