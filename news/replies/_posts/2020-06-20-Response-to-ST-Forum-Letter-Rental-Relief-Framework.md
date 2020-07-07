@@ -31,7 +31,9 @@ The Inland Revenue Authority of Singapore will monitor market conditions and loo
 Andrea Goh (Ms)  
 **Director, Corporate Communications Division, Ministry of Law** 
 
-Kelly Wee
+
+Kelly Wee (Ms)
 **Director, Corporate Communications，Inland Revenue Authority of Singapore** 
+
 
 <p class="right-side-updated">Last updated on 20 June 2020</p>
