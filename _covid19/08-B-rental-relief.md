@@ -28,7 +28,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
     
     Eligible SMEs in qualifying commercial properties will receive 2 months’ waiver of their rent, and eligible SMEs in other non-residential properties (e.g. industrial and office properties) will receive 1 month’s waiver of their rent. 
     
-b)	<u>Additional rental relief</u>: Eligible SME tenant-occupiers who have seen a significant drop in their average monthly revenue due to COVID-19 will receive an additional 2 months’ waiver of rent for qualifying commercial properties, and an additional 1 month’s waiver of rent for other non-residential properties. The Act will mandate that landlords provide this additional rental relief to eligible tenant-occupiers automatically, by way of rental waivers.
+    b)	<u>Additional rental relief</u>: Eligible SME tenant-occupiers who have seen a significant drop in their average monthly revenue due to COVID-19 will receive an additional 2 months’ waiver of rent for qualifying commercial properties, and an additional 1 month’s waiver of rent for other non-residential properties. The Act will mandate that landlords provide this additional rental relief to eligible tenant-occupiers automatically, by way of rental waivers.
 
     *The value of the rent to be waived is based on the contractual rent of the tenant, excluding any maintenance fee and charges for the provision of services such as cleaning and security.
     
@@ -178,7 +178,7 @@ b)	<u>Additional rental relief</u>: Eligible SME tenant-occupiers who have seen 
 
 **o.	What is the process and criteria for assessment?**
 
-*	MMore information on the application process and assessment criteria will be shared in due course. 
+*	More information on the application process and assessment criteria will be shared in due course. 
 
 
 **p.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
@@ -189,7 +189,7 @@ b)	<u>Additional rental relief</u>: Eligible SME tenant-occupiers who have seen 
 *	If tenants are of the view that they are eligible but have not received a copy of the notice of cash grant from IRAS, they may seek clarification from IRAS. More details will be provided on IRAS’ website in due course. 
 
 
-**q.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this? **
+**q.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
 
 *	If the additional rental relief that has to be paid by the landlord is halved, the tenant will have to pay his share of the rent accordingly. Both landlords and tenants alike have to play their part to pull through this difficult period.
 
