@@ -209,7 +209,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 * If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
 
 **19. My financing company repossessed my commercial vehicle before I served the Notification for Relief. Does the Act apply to me?**
-* The Act does not apply to a repossession that occurred before the Notification for Relief was 
+* The Act does not apply to a repossession that occurred before the Notification for Relief was served. 
 * If you believe that the financing company breached the terms of your hire-purchase agreement, please seek legal advice.
 
 **20. I wish to terminate my hire-purchase agreement early, without having to pay for the charges or penalties listed in the agreement. Does the Act assist me?** 
