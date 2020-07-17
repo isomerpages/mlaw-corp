@@ -69,7 +69,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 *	The reason why the same period of time for a year on year comparison is used is to account for seasonal fluctuations in revenue. 
 
 
-*	Where tenants were not operational during the April to May 2019 period, the revenue could be compared to other periods that will reflect whether the tenant’s performance has been impacted by COVID-19, taking into account the nature of the business. Where tenants have started operations after 1 April 2020, they can qualify for rental relief if they have incurred a net loss across the entire April to May 2020 period, factoring in rent and other overheads. 
+*	Where tenants were not operational during the April to May 2019 period, the revenue could be compared to other periods that will reflect whether the tenant’s performance has been impacted by COVID-19, taking into account the nature of the business. More information on the treatment of such cases will be provided in due course.
 
 
 **f.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had passed on to his tenant prior to the implementation of the Act? What can be considered for the offset, if allowed?**
@@ -95,7 +95,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 *	From end-July 2020, IRAS will issue a notice of cash grant and disburse the Government cash grant to qualifying property owners. Property owners are required to serve a copy of the notice to their tenants, or their master tenants. Master tenants who receive a copy of the notice are required to serve a copy of the notice to their sub-tenants.
 
 
-*	Once the notice of cash grant is received, the rental is treated as waived under the Act. Landlords are obliged to notify their tenants. Eligible tenants do not need to do anything to obtain the rental waivers and will enjoy the rental waivers automatically.  
+*	Once the notice of cash grant is received, the rental is treated as waived under the Act. Landlords are obliged to notify their tenants. Eligible tenants do not need to do anything to qualify for the rental waivers and will enjoy the rental waivers automatically.  
 
 
 *	More details of the cash grant can be found on [IRAS’ website](https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/).
@@ -145,7 +145,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 *	Under the Act, the rent that is payable by eligible tenants to their landlord for the relevant period of rental waiver is statutorily waived once eligible property owners receive the notice of the cash grant or nominal notice issued by IRAS. 
 
 
-*	Eligible tenants are, by law, not liable to their landlord in respect of rent for those months and do not need to take further action to obtain the rental waiver. 
+*	Eligible tenants are, by law, not liable to their landlord in respect of rent for those months and do not need to take further action to qualify for the rental waiver. 
 
 
 #### Landlord’s application for assessment ####
