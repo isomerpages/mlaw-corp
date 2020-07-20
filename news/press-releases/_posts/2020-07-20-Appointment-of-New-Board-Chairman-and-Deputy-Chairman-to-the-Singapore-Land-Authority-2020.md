@@ -30,29 +30,26 @@ permalink: /news/press-releases/Appointment-of-New-Board-Chairman-and-Deputy-Cha
 **New Members**
 
 <ol start="5">
-<li>The following two new members will be appointed for a term of two years commencing on 1 August 2020:
+<li>The following two new members will be appointed for a term of two years commencing on 1 August 2020:</li></ol>
 
 * Mr Jerry Koh (Joint Managing Partner, Allen & Gledhill) 
 * Mr Lim Soon Chong (Regional Head, Investment Products & Advisory, Consumer Banking Group & Wealth Management, DBS Group Holdings)
-</li></ol>
 
 **Reappointed Members**
 
 <ol start="6">
-<li>The following members will be reappointed for a term of two years commencing on 1 August 2020:
+<li>The following members will be reappointed for a term of two years commencing on 1 August 2020:</li></ol>
 
 * Ms Marina Chin (Joint Managing Partner, Tan Kok Quan Partnership)
 * Mr Ho Chee Pong (Director-General, Singapore Customs)
-</li></ol>
 
 **Out-going Chairman and Member**
 
 <ol start="7">
-<li>The following members will complete their current term of office on 31 July 2020:	
+  <li>The following members will complete their current term of office on 31 July 2020:</li></ol>
 
 * Chairman Mr Lim Sim Seng (Group Head, Consumer Banking and Wealth Management, DBS Group Holdings)
 * Ms Lock Yin Mei (Partner, Allen & Overy LLP)
-</li></ol>
 
 <ol start="8">
 <li>In his six-year term as Chairman, Mr Lim was instrumental in pushing a holistic transformation agenda for SLA. During his tenure, SLA undertook numerous innovations, such as SMART Land Asset Management System, Virtual Singapore and 3D Singapore, and expanded its national geospatial role to include GeoWorks, the Geospatial Trusted Centre, and the Geospatial Centre of Excellence. Mr Lim played a key role in helping SLA become more proactive and enterprise-centric. Under his leadership, SLA consistently ranked amongst the top three in the Pro-Enterprise Ranking Survey, and achieved first place in 2017.</li>
@@ -65,7 +62,7 @@ permalink: /news/press-releases/Appointment-of-New-Board-Chairman-and-Deputy-Cha
 **Existing Members**
 
 <ol start="10">
-<li>The following members will continue to serve on the Board:
+  <li>The following members will continue to serve on the Board:</li></ol>
 
 * Dr Chong Yoke Sin (President, Singapore Computer Society)
 * Ms Margaret Goh (Member, Sentosa Cove Committee)
@@ -75,7 +72,6 @@ permalink: /news/press-releases/Appointment-of-New-Board-Chairman-and-Deputy-Cha
 * Mr Eric Sandosham (Founder & Partner, Red & White Consulting Partners LLP)
 * Mr Tan Boon Khai (Chief Executive, Singapore Land Authority)
 * Mr Philip Yuen (Chief Executive Officer, Deloitte Southeast Asia)
-</li></ol>
 
 
 <b>MINISTRY OF LAW
