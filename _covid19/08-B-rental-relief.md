@@ -22,7 +22,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 
 **b.	How many months of rental relief can an eligible SME tenant (including subtenants and licensees) obtain?**
 
-*	Eligible SMEs which are tenant-occupiers who operate their business in a rented property (including subtenants and licensees) can receive 4 months’ waiver of  rent* for qualifying commercial properties (e.g. shops), and 2 months’ waiver of rent for other non-residential properties (e.g. industrial and office properties), comprising the following:
+*	Eligible SMEs which are tenant-occupiers who operate their business in a rented property (including subtenants and licensees) can receive 4 months’ waiver of rent* for qualifying commercial properties (e.g. shops), and 2 months’ waiver of rent for other non-residential properties (e.g. industrial and office properties), comprising the following:
 
     a)	<u>Rental relief for eligible SME tenants (supported by Government assistance)</u>: Tenant-occupiers in qualifying commercial properties and other non-residential properties will receive the rental relief through a waiver of rent from their landlords. Property owners (including owner-occupiers) will receive support through the: (a) Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) Government cash grant announced in the Fortitude Budget. 
     
@@ -92,7 +92,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
 
 **h.	What will happen after the Act comes into force?**
 
-*	From end-July 2020, IRAS will issue a notice of cash grant and disburse the Government cash grant to qualifying property owners. Property owners are required to serve a copy of the notice to their tenants, or their master tenants. Master tenants who receive a copy of the notice are required to serve a copy of the notice to their sub-tenants.
+*	From end-July 2020, IRAS will issue a notice of cash grant and disburse the Government cash grant to qualifying property owners. Majority of the owners should receive the notice by mid-August 2020. Property owners are required to serve a copy of the notice to their tenants, or their master tenants. Master tenants who receive a copy of the notice are required to serve a copy of the notice to their sub-tenants.
 
 
 *	Once the notice of cash grant is received, the rental is treated as waived under the Act. Landlords are obliged to notify their tenants. Eligible tenants do not need to do anything to qualify for the rental waivers and will enjoy the rental waivers automatically.  
