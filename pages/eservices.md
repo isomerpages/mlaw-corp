@@ -12,6 +12,6 @@ breadcrumb: E-Services
 4. [Registry of Pawnbroker](https://eservices.mlaw.gov.sg/rop/)
 5. [Legal Services Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)
 6. [Exemptions (Singapore Bar/FPE)](https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx) 
-7. [Application for Community Mediation](https://cmc.mlaw.gov.sg/e-services/log-into-mediators-portal/)
+7. [Community Mediation Centre](https://cmc.mlaw.gov.sg/e-services/apply-online/)
 8. [Legal Aid Bureau](https://eservices.mlaw.gov.sg/labesvc/)
 9. [Anti-Money Laundering / Countering The Financing Of Terrorism](https://acd.mlaw.gov.sg)

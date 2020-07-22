@@ -61,7 +61,7 @@ b)  In force any time between 1 April to 31 July 2020 for qualifying commercial 
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#ref3" title="Return to top">↩</a> #####
 
-From end-July 2020, IRAS will issue a notice of cash grant and disburse the Government cash grant to qualifying property owners. Property owners are required to serve a copy of the notice to their tenants, or their master tenants. Master tenants who receive a copy of the notice are required to serve a copy of the notice to their sub-tenants. Once the notice of cash grant is received, the rental is treated as waived under the Act. Eligible tenants do not need to do anything to qualify for the rental waiver.
+From end-July 2020, IRAS will issue a notice of cash grant and disburse the Government cash grant to qualifying property owners. Majority of the owners should receive the notice by mid-August 2020. Property owners are required to serve a copy of the notice to their tenants, or their master tenants. Master tenants who receive a copy of the notice are required to serve a copy of the notice to their sub-tenants. Once the notice of cash grant is received, the rental is treated as waived under the Act. Eligible tenants do not need to do anything to qualify for the rental waiver.
 
 Eligible tenants do not need to pay rent for the period covered by the rental relief framework. If rent has already been paid, tenants can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, get a refund from their landlords.
 
