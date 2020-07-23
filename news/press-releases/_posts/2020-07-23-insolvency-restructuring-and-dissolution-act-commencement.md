@@ -8,7 +8,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 23 Jul 2020 Posted in [Press releases](/news/press-releases)
 
 <ol start="1">
-<li>The Insolvency, Restructuring and Dissolution Act (**“the Act”**), together with its 48 related pieces of subsidiary legislation, will commence on 30 July 2020.</li>
+  <li>The Insolvency, Restructuring and Dissolution Act (“<b>the Act”</b>), together with its 48 related pieces of subsidiary legislation, will commence on 30 July 2020.</li>
 </ol>
 
 <ol start="2">
@@ -40,7 +40,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 <ol start="6">
 <li>The Act also establishes a new licensing and regulatory regime for insolvency practitioners. This regime requires insolvency practitioners to uphold professional standards when performing insolvency and debt restructuring work in Singapore.</li>
 <br>
-Please see **<u>Annex B</u>** for information on the new licensing and regulatory regime. 
+  Please see <u><b>Annex B</b></u>** for information on the new licensing and regulatory regime. 
 </ol>
 
 **Going Forward**
