@@ -64,7 +64,7 @@ Please see **<u>Annex B</u>** for information on the new licensing and regulator
 
 **<u>Annex A</u>**
 <br>
-[Background information on IRDA (279KB)](/files/IRDA-Annex A-Background.pdf)
+[Background information on IRDA (279KB)](/files/IRDA-Annex-A-Background.pdf)
 <br>
 
 **<u>Annex B</u>**
