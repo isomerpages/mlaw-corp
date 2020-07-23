@@ -31,6 +31,8 @@ Useful Links
 
 * [Anti-Money Laundering/ Countering the Financing of Terrorism Division](https://acd.mlaw.gov.sg/)
 
+* [Licensing & Regulation of Insolvency Practitioners Division](https://lripd.mlaw.gov.sg)
+
 
 **Other Agencies & Information**
 
