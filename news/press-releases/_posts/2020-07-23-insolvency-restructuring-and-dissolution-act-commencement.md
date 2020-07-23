@@ -40,7 +40,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 <ol start="6">
 <li>The Act also establishes a new licensing and regulatory regime for insolvency practitioners. This regime requires insolvency practitioners to uphold professional standards when performing insolvency and debt restructuring work in Singapore.</li>
 <br>
-  Please see <u><b>Annex B</b></u>** for information on the new licensing and regulatory regime. 
+  Please see <u><b>Annex B</b></u> for information on the new licensing and regulatory regime. 
 </ol>
 
 **Going Forward**
