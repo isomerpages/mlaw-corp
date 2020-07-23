@@ -22,6 +22,6 @@ The Licensing and Regulation of Insolvency Practitioners Division was establishe
   <li>Where necessary, taking the appropriate enforcement action against an errant insolvency practitioner.</li>
 </ul>
 
-For more information on the Licensing & Regulation of Insolvency Practitioners Division and how to apply for an insolvency practitioner’s licence, please click [here](link to https://lripd.mlaw.gov.sg).
+For more information on the Licensing & Regulation of Insolvency Practitioners Division and how to apply for an insolvency practitioner’s licence, please click [here](https://lripd.mlaw.gov.sg).
 
 <p class="right-side-updated">Last updated on 23 Jul 2020</p>
