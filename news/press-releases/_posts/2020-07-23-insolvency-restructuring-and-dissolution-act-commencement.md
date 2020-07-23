@@ -54,7 +54,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 </ol>
 
 <ol start="9">
-<li>The Ministry of Law is considering further temporary measures, in addition to the processes in the Act, to assist micro and small companies which, as a result of the COVID-19 pandemic, may require support to either restructure their debts or wind down their businesses.</u>.</li>
+<li>The Ministry of Law is considering further temporary measures, in addition to the processes in the Act, to assist micro and small companies which, as a result of the COVID-19 pandemic, may require support to either restructure their debts or wind down their businesses.</li>
 </ol>
 
 **MINISTRY OF LAW**
