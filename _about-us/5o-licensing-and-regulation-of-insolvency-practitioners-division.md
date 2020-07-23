@@ -12,7 +12,7 @@ Licensing & Regulation of Insolvency Practitioners Division
 
 The Licensing Officer oversees the new licensing and regulation of all insolvency practitioners in Singapore under the Insolvency, Restructuring and Dissolution Act 2018 (the “Act”) to ensure the fair and responsible administration of insolvency and debt restructuring matters in Singapore.
 
-The Licensing and Regulation of Insolvency Practitioners Division order was established to assist the Licensing Officer with his statutory functions under the Act, which include: 
+The Licensing and Regulation of Insolvency Practitioners Division was established to assist the Licensing Officer with his statutory functions under the Act, which include: 
 
 <ul>
   <li>Granting and renewal of insolvency practitioner’s licences;</li>
