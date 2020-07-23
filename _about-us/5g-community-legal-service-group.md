@@ -34,10 +34,12 @@ For more information on the Community Legal Services Group and the services avai
 
 * [Insolvency Office](/about-us/what-we-do/insolvency-office/)
 
+* [Licensing & Regulation of Insolvency Practitioners Division](/about-us/what-we-do/licensing-and-regulation-of-insolvency-practitioners-division/)
+
 * [Public Trustee’s Office](/about-us/what-we-do/public-trustee-office/)
 
 * [Registry of Moneylenders](/about-us/what-we-do/registry-of-moneylenders/)
 
 * [Registry of Pawnbrokers](/about-us/what-we-do/registry-of-pawnbrokers/)
 
-<p class="right-side-updated">Last updated on 14 Jan 2016</p>
+<p class="right-side-updated">Last updated on 23 July 2020</p>
