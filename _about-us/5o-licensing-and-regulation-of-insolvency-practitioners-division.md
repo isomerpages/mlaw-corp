@@ -24,4 +24,4 @@ The Licensing and Regulation of Insolvency Practitioners Division order was esta
 
 For more information on the Licensing & Regulation of Insolvency Practitioners Division and how to apply for an insolvency practitioner’s licence, please click [here](link to https://lripd.mlaw.gov.sg).
 
-<p class="right-side-updated">Last updated on 28 Jan 2015</p>
+<p class="right-side-updated">Last updated on 23 Jul 2020</p>
