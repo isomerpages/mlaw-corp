@@ -8,7 +8,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 23 Jul 2020 Posted in [Press releases](/news/press-releases)
 
 <ol start="1">
-<li>The Insolvency, Restructuring and Dissolution Act (“**the Act**”), together with its 48 related pieces of subsidiary legislation, will commence on 30 July 2020.</li>
+<li>The Insolvency, Restructuring and Dissolution Act (**“the Act”**), together with its 48 related pieces of subsidiary legislation, will commence on 30 July 2020.</li>
 </ol>
 
 <ol start="2">
@@ -18,7 +18,7 @@ permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolut
 <ol start="3">
 <li>Together with the new pieces of subsidiary legislation, the Act ensures that Singapore’s insolvency and restructuring laws remain progressive and modern, whilst balancing the interests of debtors, creditors and other stakeholders.  Building on the Companies Act amendments in 2017 which enhanced Singapore’s corporate rescue and restructuring framework, this legislation will benefit businesses experiencing financial difficulties as well as their creditors, create new opportunities for insolvency professionals (including lawyers and accountants), distressed debt funds and financial institutions, and further strengthen Singapore as an international centre for debt restructuring.</li>
 <br>
-Please see **<u>Annex A</u>** for background information on the Act.
+  Please see <u><b>Annex A</b></u> for background information on the Act.
 </ol>
 
 **Key Features of the Act**
