@@ -25,13 +25,12 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <li>France is also Singapore’s second largest goods trading partner in the EU; and  </li>
 <li>Many leading French Companies – Airbus, L’Oréal, Louis Vuitton, Schneider Electric, Thales, to name a few, have established a base in Singapore as their gateway to access growth opportunities in Asia.</li>
 
-</ol>
 </li></ol>
 
 
 <ol start="2">
 <li>In July 2016 on the sidelines of the 11th Asia-Europe Summit in Mongolia, Prime Minister Lee and the former French Prime Minister and then-French Foreign Minister Jean-Marc Ayrault agreed to step up legal cooperation between Singapore and France. </li></ol>
-</ol>
+
 
 <ol start="3">
 <li>This year, we are seeing the results of our strengthened legal cooperation:</li>
@@ -48,7 +47,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <ol start="4">
 <li>Today, we have now come together for an important step forward in strengthening our legal cooperation, with the signing of the agreement on mutual legal assistance.</li></ol>
 
-<br><b><u>Significance of the Agreement</b></u>
+<br><u>**Significance of the Agreement**</u>
 
 <ol start="5">
 <li>The signing of this Agreement builds on the strong foundation of our existing relationship. </li>
@@ -76,7 +75,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <ol style="list-style-type: lower-alpha">
 <li>An effective network of international cooperation is needed to deal with criminal organisations, because national authorities alone will find it difficult to deal with them.</li></ol>
 </ol>
-<br><b><u>Features of the Agreement</b></u>
+<br><u>**Features of the Agreement** </u>
 
 <ol start="9">
 <li>The Agreement sets out a framework and agreed standards for a range of mutual legal assistance between both countries. </li></ol>
@@ -91,7 +90,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 
 <ol start="11">
 <li>This Agreement will further cement the already strong relationship and mutual legal assistance that our two countries give to each other.</li></ol>
-<br><b><u>Conclusion</b></u>
+<br><u>**Conclusion**</u>
 
 <ol start="12">
 <li>The signing of this Agreement is an important step for us as a responsible member of the international community, and </li>
