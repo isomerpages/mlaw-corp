@@ -22,7 +22,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <li>Most recently in 2018, Singapore’s Prime Minister Lee Hsien Loong was President Macron’s Guest of Honour during France’s National Celebrations;</li>
 <li>High-level exchanges take place on a regular basis; </li>
 <li>France is also Singapore’s second largest goods trading partner in the EU; and  </li>
-<li>Many leading French Companies – Airbus, L’Oréal, Louis Vuitton, Schneider Electric, Thales, to name a few, have established a base in Singapore as their gateway to access growth opportunities in Asia.</li>
+<li>Many leading French Companies – Airbus, L’Oréal, Louis Vuitton, Schneider Electric, Thales, to name a few, have established a base in Singapore as their gateway to access growth opportunities in Asia.
 
 </li></ol>
 
@@ -46,7 +46,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <ol start="4">
 <li>Today, we have now come together for an important step forward in strengthening our legal cooperation, with the signing of the agreement on mutual legal assistance.</li></ol>
 
-<br><u>**Significance of the Agreement**</u>
+<br><u>Significance of the Agreement</u>
 
 <ol start="5">
 <li>The signing of this Agreement builds on the strong foundation of our existing relationship. </li>
@@ -74,7 +74,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <ol style="list-style-type: lower-alpha">
 <li>An effective network of international cooperation is needed to deal with criminal organisations, because national authorities alone will find it difficult to deal with them.</li></ol>
 </ol>
-<br><u>**Features of the Agreement** </u>
+<br><u>Features of the Agreement </u>
 
 <ol start="9">
 <li>The Agreement sets out a framework and agreed standards for a range of mutual legal assistance between both countries. </li></ol>
