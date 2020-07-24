@@ -40,7 +40,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 <ol style="list-style-type: lower-roman">
 
 <li>The first was between the Singapore Academy of Law and the Sorbonne-Assas International Law School, to jointly offer learning and development programmes to the legal community in Singapore and more importantly in this region; </li>
-<li>The second, between the Law Society of Singapore and the Paris Bar Association, facilitates the exchange of information between both countries on the practice of the legal profession. </ol>
+<li>The second, between the Law Society of Singapore and the Paris Bar Association, facilitates the exchange of information between both countries on the practice of the legal profession. 
 </li></ol>
 
 <ol start="4">
@@ -89,7 +89,7 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 
 <ol start="11">
 <li>This Agreement will further cement the already strong relationship and mutual legal assistance that our two countries give to each other.</li></ol>
-<br><u>**Conclusion**</u>
+<br><u>Conclusion</u>
 
 <ol start="12">
 <li>The signing of this Agreement is an important step for us as a responsible member of the international community, and </li>
