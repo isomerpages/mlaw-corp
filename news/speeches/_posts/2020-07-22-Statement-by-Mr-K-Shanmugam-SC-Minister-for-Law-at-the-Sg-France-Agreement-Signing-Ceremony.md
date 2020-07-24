@@ -17,7 +17,6 @@ Your Excellency Minister of Justice and Keeper of the Seals of the French Republ
 
 <ol start="1">
 <li>Singapore and France share deep and strong relations.</li>
-<br>
 <ol style="list-style-type: lower-alpha">
 <li>In 2012, we upgraded our relations to a Strategic Partnership. Our relations have reached new heights ever since; </li>
 <li>Most recently in 2018, Singapore’s Prime Minister Lee Hsien Loong was President Macron’s Guest of Honour during France’s National Celebrations;</li>
