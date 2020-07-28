@@ -9,7 +9,7 @@ collection_name: covid19
 
 #### COVID-19 (Temporary Measures) Act 2020 ####
 
-For an overview of how the Act applies to each type of contract covered, please click [here](/covid19-relief/types-of-contract).
+For an overview of how the Act applies to each type of contract covered, please click [here](/covid19-relief/temporary-relief-from-inability-to-perform-contract).
 
 For press releases on the Act, please click on the following links:
 * [Temporary Relief for Inability to Perform Contractual Obligations due to COVID-19 Situation](/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation)
