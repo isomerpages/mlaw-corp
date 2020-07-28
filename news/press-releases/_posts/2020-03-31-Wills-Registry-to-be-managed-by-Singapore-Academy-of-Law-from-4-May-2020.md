@@ -20,7 +20,7 @@ permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academ
 6.	“The management of the Wills Registry is in line with SAL’s other statutory functions as a trusted custodian of confidential information and documents,” said Ms Serene Wee, Chief Executive of SAL. “Over time, we hope to add on other related functions to the Wills Registry, including a future repository for copies of wills”.  
 
 7.	Those who wish to deposit or update their wills information from 4 May 2020 can do so by visiting [https://wills.sal.sg](https://wills.sal.sg). For more information, the public can contact:
-<br>•	SAL at 6332 4388 or email [wills@sal.org.sg](wills@sal.org.sg) 
+<br>•	SAL at 6332 4388 or email [wills@sal.org.sg](mailto:wills@sal.org.sg) 
 <br>•	Ministry of Law at 1800-2255-529 or send in your enquiry at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
 
 <br>
