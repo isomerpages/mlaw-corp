@@ -32,9 +32,8 @@ Our Management
   <img src="/images/1532069362285.jpg" title="Mr Edwin Tong" alt="Mr Edwin Tong">
 </div>
   <b>Mr Edwin Tong</b><br>
-  Senior Minister of State<br>
-  Ministry of Law and<br>
-  Ministry of Health<br><br>
+  Minister for Culture, Community and Youth and<br>
+  Second Minister for Law<br><br>
 
 ### **Senior Management**
 
