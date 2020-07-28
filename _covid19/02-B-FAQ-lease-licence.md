@@ -186,7 +186,7 @@ Service of the Notification for Relief on the property agent:
 
 *	The Notification for Relief has no effect as Part 2 of the Act does not cover leases or licences of residential property.
 *	Even though the Notification for Relief was served in error, this indicates that your tenant has difficulties meeting his contractual obligations to you under the tenancy.  We encourage you to engage with your tenant to work out a mutually acceptable solution to deal with these contractual issues that have been caused by COVID-19.
-*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link]((https://www.mlaw.gov.sg/covid19-relief/application-for-assessor)). The Assessor will determine whether relief under the Act applies. 
+*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor). The Assessor will determine whether relief under the Act applies. 
 
 **27. In the lease or licence agreement, there is a clause stating that the tenants have to pay the utilities fees / conservancy fees / cleaning fees etc. My tenant served a Notification for Relief on me. Is my tenant obliged to continue paying the utilities fees / conservancy fees / cleaning fees etc.?**
 
