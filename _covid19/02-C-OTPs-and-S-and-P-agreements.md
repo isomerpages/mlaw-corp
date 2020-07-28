@@ -106,7 +106,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	The Act does not waive any regulatory requirements.
 
-*	Specifically for buyers of <u>private properties</u>, they must also write to the Controller of Housing via email at [ura_coh_registry@ura.gov.sg](ura_coh_registry@ura.gov.sg) for approval to extend the OTP (if the developer is a licensed private housing developer). 
+*	Specifically for buyers of <u>private properties</u>, they must also write to the Controller of Housing via email at [ura_coh_registry@ura.gov.sg](mailto:ura_coh_registry@ura.gov.sg) for approval to extend the OTP (if the developer is a licensed private housing developer). 
 
 *	You can check whether the developer is a licensed private housing developer at [https://spring.ura.gov.sg/lad/ecoh2/main/homes.cfm](https://spring.ura.gov.sg/lad/ecoh2/main/homes.cfm).
  
