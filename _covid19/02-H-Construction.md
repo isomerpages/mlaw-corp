@@ -7,7 +7,7 @@ collection_name: covid19
 second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
 ### Construction contracts or supply contracts, or any performance bond granted thereto ###
-*	For more information about the relief under the Act for construction and supply contracts, please refer to the Ministry of Law and Building and Construction Authority’s joint statement on 20 April 2020, and the [FAQs on BCA’s website](https://www.1bca.gov.sg/docs/default-source/docs-corp-news-and-publications/faqs---covid19/faqs-commencement-covid19-temporary-measures-act-for-built-environment.pdf){:target="_blank"}.
+*	For more information about the relief under the Act for construction and supply contracts, please refer to the Ministry of Law and Building and Construction Authority’s joint statement on 20 April 2020, and the [FAQs on BCA’s website](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/faqs---covid19/faqs-commencement-covid19-temporary-measures-act-for-built-environment.pdf){:target="_blank"}.
 
 #### General FAQs ####
 **1. What types of construction or supply contracts are covered by the Act?**
