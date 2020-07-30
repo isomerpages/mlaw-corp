@@ -4,7 +4,7 @@ title: Additional Resources
 permalink: /covid19-relief/additional-resources
 breadcrumb: Additional Resources
 collection_name: covid19
-second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
+second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 ---
 
 ### Additional Resources ###
