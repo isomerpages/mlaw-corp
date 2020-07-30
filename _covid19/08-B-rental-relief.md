@@ -15,7 +15,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
  - <a href="#eligibility" id="ref1d">Confirmation of eligibility and dispute resolution</a>
  - <a href="#calculate" id="ref1e">Calculation of rental waivers</a>
  - <a href="#scenario" id="ref1f">Specific scenarios</a> 
- - <a href="#npo" id="ref1g">Non-profit organisations</a>
+ - <a href="#npo" id="ref1g">Non-profit organisations (NPOs)</a>
 
 <b><a href="#support" id="ref2">Support for landlords</a></b>
  - <a href="#apply" id="ref2a">Application for assessment</a>
@@ -96,13 +96,15 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	The Additional Rental Relief will apply to tenant-occupiers who qualify for Rental Relief, have carried on business at the rented property before 25 March 2020 and meet the following additional criteria:
 
-    a)	<u>For SMEs</u>
-
-   i. The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4">4</a></sup>; and
-
-   ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>.
-
-    b)	<u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>. 
+<ol style="list-style-type: lower-alpha">
+ <li><u>For SMEs</u></li>
+<ol style="list-style-type: lower-roman">
+<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4">4</a></sup>; and</li>
+<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>.</li>
+</ol>
+ <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>. </li>
+<li>Summary procedure to dissolve companies that have insufficient assets to pay for the administration of the winding up.</li>
+</ol>
 
 <p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#fn3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 <p><sup id="fn4">4. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#fn4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
@@ -124,7 +126,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 **7.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**
 
-*	An intermediary landlord will be required to provide a full waiver to their tenant according to the applicable rental relief period..
+*	An intermediary landlord will be required to provide a full waiver to their tenant according to the applicable rental relief period.
 
 
 **8.	What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?**
@@ -166,7 +168,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
  
 *	Please note that a failure to serve the notice of cash grant, without reasonable excuse, in the manner as stipulated above constitutes an offence under the Act. 
 
-*	More details of the cash grant can be found on [IRAS’ website](https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/)  
+*	More details of the cash grant can be found on [IRAS’ website](https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/).  
 
 *	Furthermore, the Act also provides for a moratorium on rent recovery where the landlord of an eligible tenant-occupier cannot take certain prescribed legal actions against the PTO for non-payment of rent under the lease agreement. The moratorium will take effect on 31 July 2020 and will end on the date a notice of cash grant is issued by IRAS to the property owner or 31 December 2020, whichever is earlier. 
 
