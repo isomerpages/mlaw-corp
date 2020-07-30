@@ -124,24 +124,14 @@ licence agreement; and</li>
 
 
 <p>
-**<u>Annex A</u>**
-<br>
-[Eligibility Criteria for Rental Relief and Additional Rental Relief (311KB)](/files/news/press-releases/2020/8/AnnexA.pdf)
-<br>
+  
+[Annex A: Eligibility Criteria for Rental Relief and Additional Rental Relief (311KB)](/files/news/press-releases/2020/8/AnnexA.pdf)
 
-**<u>Annex B</u>**
-<br>
-[Calculation of Rental Waivers (252KB)](/files/news/press-releases/2020/8/AnnexB.pdf)
-<br>
+[Annex B: Calculation of Rental Waivers (252KB)](/files/news/press-releases/2020/8/AnnexB.pdf)
 
-**<u>Annex C</u>**
-<br>
-[Support for Landlords (234KB)](/files/news/press-releases/2020/8/AnnexC.pdf)
-<br>
+[Annex C: Support for Landlords (234KB)](/files/news/press-releases/2020/8/AnnexC.pdf)
 
-**<u>Annex D</u>**
-<br>
-[Repayment Scheme for Rental Arrears (266KB)](/files/news/press-releases/2020/8/AnnexD.pdf)
-<br>
+[Annex D: Repayment Scheme for Rental Arrears (266KB)](/files/news/press-releases/2020/8/AnnexD.pdf)
+ 
 
 <p class="right-side-updated">Last updated on 30 Jul 2020</p>
