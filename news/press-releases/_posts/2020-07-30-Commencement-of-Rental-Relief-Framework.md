@@ -43,7 +43,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <b>Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant</b>
  
 <ol start="7">
-<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <b><u>Annex B</b></u> for details of these factors.</li></ol>
+<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>**Annex B**</u> for details of these factors.</li></ol>
 
 <ol start="8">
 
@@ -51,7 +51,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 </ol>
 
 <ol start="9">
-<li>Where a property (with an eligible end-tenant occupier) has been sublet, the lessor (i.e. intermediary landlord) will receive rental waivers as well, regardless of whether they themselves meet the eligibility criteria, and is in turn obliged to provide the necessary rental waivers to its tenant.</li>
+<li>Where a property (with an eligible end-tenant occupier) has been sublet, the lessor (i.e. intermediary landlord) will receive rental waivers as well, regardless of whether they themselves meet the eligibility criteria, and is in turn obliged to provide the necessary rental waivers to its tenant.
 </ol></li>
 
 <ol start="10">
@@ -60,8 +60,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <p><b>Moratorium on Enforcement Actions</b>
 
 <ol start="11">
-<li>The Act provides for a moratorium on enforcement actions against tenant-
-occupiers for non-payment of rent under the lease or licence agreement. Among other things, landlords are prohibited from taking the following actions on the tenant- occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
+<li>The Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things, landlords are prohibited from taking the following actions on the tenant- occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
 <br>
 <ol style="list-style-type: lower-alpha">
 <li>Terminating the lease or licence agreement;</li>
@@ -78,23 +77,21 @@ licence agreement; and</li>
 
 <ol start="13">
 <li>We recognise that the COVID-19 pandemic has also impacted landlords, in
-particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to <b></u>Annex C</u></b> for more details. </li></ol>
+particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>**Annex C**</u> for more details. </li></ol>
 
-<b>(D) Rental Relief Assessors</b>
+<br><b>(D) Rental Relief Assessors</b>
 
 <ol start="14">
 <li>The rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements that best address their specific circumstances.</li></ol>
 
 <ol start="15">
-<li>Under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days after the date on which the tenant-occupier receives the written request, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for
-the rental waivers. </li></ol>
+<li>Under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days after the date on which the tenant-occupier receives the written request, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for the rental waivers. </li></ol>
 
 <ol start="16">
 <li>We encourage parties to start discussions on the rental waivers and openly share information between parties, even before the notice of cash grant is received, so as to facilitate the smooth implementation of the rental waivers. </li></ol>
 
 <ol start="17">
-<li>If a landlord and tenant-occupier are unable to reach a compromise, the
-property owner and/or any intermediary landlord(s) may make an application using the prescribed form, within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain any of the following:
+<li>If a landlord and tenant-occupier are unable to reach a compromise, the property owner and/or any intermediary landlord(s) may make an application using the prescribed form, within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain any of the following:
 <br>
 <ol style="list-style-type: lower-alpha">
 <li>Whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief; and/or</li>
