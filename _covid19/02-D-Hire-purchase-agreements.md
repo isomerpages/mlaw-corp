@@ -175,7 +175,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * As such, hirers are encouraged to engage their financing companies to negotiate a mutually acceptable solution. 
 
-<a name="q15">**l5. Can a financing company charge the hirer interest or other fees for late payment during the relief period, after the hirer serves the Notification for Relief?**</a>
+<a name="q15">**15. Can a financing company charge the hirer interest or other fees for late payment during the relief period, after the hirer serves the Notification for Relief?**</a>
 
 * If the agreement provides that the financing company can charge interest or charges (be it for late payment or otherwise), interest and other charges would accrue and can be enforced by the financing company after the relief period. 
 
@@ -221,7 +221,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work. 
 
-**21. What happens if the financing company insists that I pay interest or charges that exceed the cap? **
+**21. What happens if the financing company insists that I pay interest or charges that exceed the cap?**
 
 * You will not be liable to pay any late payment interest or charges that exceed the cap. 
 
