@@ -160,7 +160,7 @@ b)  Exercise any of its rights under the lease or licence agreement.
 
 In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information to their landlord, including the balance sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be accompanied by a statutory declaration. The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears.  
 
-++
+<br>
 <sup>Footnotes</sup>
 <p><sup id="fn1">1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
 <p><sup id="fn1">2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
