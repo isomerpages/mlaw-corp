@@ -11,6 +11,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 
 2. The commencement of the rental relief framework will be followed by the issuance of notices of cash grant by Inland Revenue Authority of Singapore (IRAS) to qualifying property owners, i.e. owners of property with eligible tenant-occupiers, starting from next week.<sup><a href="#fn1" id="ref1">1</a></sup> The notice will inform property owners of the rental waivers they should provide to their tenants.
 
+{:start="3"}
 3. Property owners will be required to serve a copy of the IRAS notice on their tenants within four working days of receipt of the notice, so that tenants will have timely confirmation that they are eligible for the rental waivers. Service of the notice may be done in person or via registered post or email. 
 <br>
 <ol style="list-style-type: lower-alpha">
