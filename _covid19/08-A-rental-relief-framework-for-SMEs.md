@@ -39,7 +39,7 @@ Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental rel
 <p><sup>1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. 
 <p><sup>2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. 
 <p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. 
-<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). 
+<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant/](https://go.gov.sg/governmentcashgrant/). 
 
 
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#ref2" title="Return to top">↩</a> #####
@@ -54,7 +54,7 @@ b)  In force at any time between 1 April and 31 July 2020 for qualifying commerc
 
 Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn5" id="fn5">5</a></sup>, at the individual or entity level<sup><a href="#fn6" id="fn6">6</a></sup>; or
+a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn5">5</a></sup>, at the individual or entity level<sup><a href="#fn6" id="fn6">6</a></sup>; or
 
 b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7" id="fn7">7</a></sup>, at the entity level:
 
