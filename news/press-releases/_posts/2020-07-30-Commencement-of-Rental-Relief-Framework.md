@@ -119,7 +119,7 @@ licence agreement; and</li>
 
 <br><sup>4. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. </sup>
 
-<br><sup>5. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a>. </sup>
+<br><sup>5. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a>. </sup></p>
 
 <br>
 
