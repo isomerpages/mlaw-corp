@@ -21,7 +21,11 @@ These measures are intended to establish a baseline position for the handling of
  - <a href="#repay" id="refe">Repayment Scheme for Rental Arrears</a> 
 
    <u>Additional Resources</u>
- - Infographics 
+ - Infographics: <br>
+    [Key Features](/files/1RentalReliefKeyFeatures.pdf) <br>
+    [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)  <br>
+    [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf) <br>
+    [Rental Relief Guide for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf) <br>
  - [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf)
  - [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)
  - [Definition of a specified trade association](/files/rentalreliefframework/definition_of_a_specified_trade_association.pdf) 
