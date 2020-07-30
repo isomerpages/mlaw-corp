@@ -34,9 +34,9 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <li>The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants. </li></ol>
 
 <ol start="6">
-<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u>Annex A</u> for details of the eligibility criteria. 
+<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u>**Annex A**</u> for details of the eligibility criteria. 
 
-<img src="https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Table1.JPG">
+<img src="https://raw.githubusercontent.com/isomerpages/isomerpages-mlaw/staging/images/news/press-releases/Table1.JPG">
 </li>
 </ol>
  <br>
