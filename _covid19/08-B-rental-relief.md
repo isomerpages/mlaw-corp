@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: FAQs for Rental Relief Framework for SMEs
+title: FAQs for Rental Relief Framework for SMEs & NPOs
 permalink: /covid19-relief/faq/rental-relief
 breadcrumb: FAQs for Rental Relief Framework for SMEs and NPOs
 collection_name: covid19
