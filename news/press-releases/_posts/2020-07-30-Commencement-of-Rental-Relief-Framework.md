@@ -20,8 +20,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <br>
 <ol style="list-style-type: lower-alpha">
 <li>Where a property has been sublet, the lessor, i.e. an intermediary landlord, must also serve a copy of the notice on its tenant within four working days of receiving the notice from the property owner, and provide the necessary rental waivers.</li>
-<li>Where possible, property owners should also serve a copy of the notice on the end-tenant-occupier directly.</li>
-</ol>
+<li>Where possible, property owners should also serve a copy of the notice on the end-tenant-occupier directly.
 </li></ol>
 
 <ol start="4">
@@ -34,7 +33,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <li>The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants. </li></ol>
 
 <ol start="6">
-<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u>**Annex A**</u> for details of the eligibility criteria. 
+<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u>Annex A</u> for details of the eligibility criteria. 
 
 <img src="https://raw.githubusercontent.com/isomerpages/isomerpages-mlaw/staging/images/news/press-releases/Table1.JPG">
 </li>
@@ -57,7 +56,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <ol start="10">
 <li>Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Such eligible tenant-occupiers, or property owners with eligible tenant-occupiers, who have not received the notice of cash grant by 21 August 2020 should make an application to IRAS at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a> between 21 August 2020 and 21 October 2020.</li></ol>
 
-<p><b>Moratorium on Enforcement Actions</b>
+<br><b>Moratorium on Enforcement Actions</b>
 
 <ol start="11">
 <li>The Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things, landlords are prohibited from taking the following actions on the tenant- occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
@@ -68,16 +67,14 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 licence agreement; and</li>
 <li> Starting or continuing court or insolvency proceedings.</li>
 </ol>
-</li></ol>
 
 <ol start="12">
 <li>The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 31 December 2020 if no such notice is received before then. </li></ol>
 
-<b>(C) Support for Landlords</b>
+<br><b>(C) Support for Landlords</b>
 
 <ol start="13">
-<li>We recognise that the COVID-19 pandemic has also impacted landlords, in
-particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>**Annex C**</u> for more details. </li></ol>
+<li>We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>Annex C</u> for more details. </li></ol>
 
 <br><b>(D) Rental Relief Assessors</b>
 
@@ -97,17 +94,16 @@ particular individuals who rely on the income from their rental property for the
 <li>Whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief; and/or</li>
 <li>Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.</li>
 </ol>
-</li></ol>
 
 <ol start="18">
 <li>The rental relief assessor’s determination will be binding on all landlords (including the property owner) and the tenant-occupier, and will not be appealable.</li></ol>
 
-<b>(E) Repayment Scheme for Rental Arrears</b>
+<br><b>(E) Repayment Scheme for Rental Arrears</b>
 
 <ol start="19">
-<li>Eligible tenant-occupiers that qualify for the Additional Rental Relief may also choose to take up a repayment scheme for a specified portion of rental arrears accumulated from 1 February 2020 until 19 October 2020. Please refer to <b><u>Annex D</u></b> for more details.</li></ol>
+<li>Eligible tenant-occupiers that qualify for the Additional Rental Relief may also choose to take up a repayment scheme for a specified portion of rental arrears accumulated from 1 February 2020 until 19 October 2020. Please refer to <u>Annex D</u> for more details.</li></ol>
 
-<b>For More Information</b>
+<br><b>For More Information</b>
 
 <ol start="20">
 <li>For more details on the above schemes, please visit <a href="https://go.gov.sg/rentalrelief" target="new"> https://go.gov.sg/rentalrelief</a>.</li></ol>
