@@ -73,7 +73,7 @@ licence agreement; and</li>
 <br><b> (C) Support for Landlords</b>
 
 <ol start="13">
-<li>We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u> Annex C </u> for more details. </li></ol>
+<li>We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>Annex C</u> for more details. </li></ol>
 
 <br><b>(D) Rental Relief Assessors</b>
 
@@ -121,8 +121,6 @@ licence agreement; and</li>
 
 <br><sup>5. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a>. </sup>
 
-
-<br>
   
 [Annex A: Eligibility Criteria for Rental Relief and Additional Rental Relief (311KB)](/files/news/press-releases/2020/8/AnnexA.pdf)
 
