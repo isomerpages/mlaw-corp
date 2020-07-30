@@ -352,18 +352,18 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	A specified arts and culture society is a society that is registered under section 4 or 4A of the Societies Act (Cap. 311), and which meets the Tier 2 Enhanced Jobs Support Scheme criteria for arts and culture organisations as announced in the Fortitude Budget:
 
-    a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
-
-<div class="image">
+<ol style="list-style-type: lower-alpha">
+ <li><u>Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):</u></li>
+ <div class="image">
   <img src="/images/SSIC.JPG/" title="SSIC" alt="SSIC">
 </div>
-
-    b)	Satisfies one or more of the following conditions:
-
-    i. is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive);
-   ii. operates a museum that became a member of a group established by the National Heritage Board known as the Museum Roundtable on or before 31 March 2020; 
-  iii. is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
-
+<li>Satisfies one or more of the following conditions:</li>
+ <ol style="list-style-type: lower-roman">
+<li>is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive);</li>
+<li>operates a museum that became a member of a group established by the National Heritage Board known as the Museum Roundtable on or before 31 March 2020;</li>
+<li>is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).</li>
+</ol>
+ 
 
 **34.	What is the definition of a “specified trade association”?**
 
