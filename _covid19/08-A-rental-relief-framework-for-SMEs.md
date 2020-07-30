@@ -39,7 +39,7 @@ Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental rel
 <p><sup>1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. 
 <p><sup>2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. 
 <p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. 
-<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant/](https://go.gov.sg/governmentcashgrant/). 
+<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). 
 
 
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#ref2" title="Return to top">↩</a> #####
@@ -54,9 +54,9 @@ b)  In force at any time between 1 April and 31 July 2020 for qualifying commerc
 
 Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn5">5</a></sup>, at the individual or entity level<sup><a href="#fn6" id="fn6">6</a></sup>; or
+a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn5">5</a></sup>, at the individual or entity level<sup><a href="#fn6">6</a></sup>; or
 
-b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7" id="fn7">7</a></sup>, at the entity level:
+b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7">7</a></sup>, at the entity level:
 
    i. Registered or exempt charities (as provided in the Charities Act);
   ii. Members of the National Council of Social Service;
@@ -71,11 +71,11 @@ The Additional Rental Relief will apply to tenant-occupiers who qualify for Rent
 
 a)  <u>For SMEs</u>
 
-   i. Where the tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, the Singapore group of entities’<sup><a href="#fn8" id="fn8">8</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn9" id="fn9">9</a></sup>; and
+   i. Where the tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, the Singapore group of entities’<sup><a href="#fn8">8</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn9">9</a></sup>; and
 
-   ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn10" id="fn10">10</a></sup>.
+   ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn10">10</a></sup>.
 
-a)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11" id="fn11">11</a></sup>. 
+a)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11">11</a></sup>. 
 
 <p><sup id="fn5">5. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of the its financial year ending on a date in 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the S$100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 <p><sup id="fn6">6. Please refer to Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for the definition of “entity”. <a href="#fn6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
@@ -87,7 +87,7 @@ a)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#ref3" title="Return to top">↩</a> #####
 
-From early August, the Inland Revenue Authority of Singapore (IRAS) will issue notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn12" id="fn12">12</a></sup>. The notice will inform property owners of the rental waivers they should provide to their tenants. 
+From early August, the Inland Revenue Authority of Singapore (IRAS) will issue notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn12">12</a></sup>. The notice will inform property owners of the rental waivers they should provide to their tenants. 
 
 Property owners will be required to serve a copy of the IRAS notice on their tenants within four working days of receipt of the notice, so that tenants will have timely confirmation that they are eligible for the rental waivers.  Service of the notice may be done in person or via registered post or email.
 
@@ -97,7 +97,7 @@ b)  Where possible, property owners should also serve a copy of the notice on th
 
 <u>Moratorium on enforcement actions</u>
 
-The majority of qualifying property owners should receive the notice by mid-August 2020. Until the notices of cash grant are issued, the Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things<sup><a href="#fn13" id="fn13">13</a></sup>, landlords are prohibited from taking the following actions on the tenant-occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
+The majority of qualifying property owners should receive the notice by mid-August 2020. Until the notices of cash grant are issued, the Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things<sup><a href="#fn13">13</a></sup>, landlords are prohibited from taking the following actions on the tenant-occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
 
 a)  Terminating the lease or licence agreement;
 
