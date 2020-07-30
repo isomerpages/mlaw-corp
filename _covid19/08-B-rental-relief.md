@@ -46,7 +46,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
     
     b)	<u>Additional Rental Relief for SME and NPO tenants (supported by landlords/ property owners)</u>: Eligible SME and NPO tenant-occupiers who have seen a 35% or more drop in their average monthly gross income due to COVID-19 will receive up to an additional 2 months’ waiver of rent for qualifying commercial properties, and up to an additional 1 month’s waiver of rent for other non-residential properties (e.g. industrial and office properties). 
 
-    For more details on the definitions of property in each category, please refer to [link].
+    For more details on the definitions of property in each category, please refer to [this](/files/rentalreliefframework/categorisation_of_properties.pdf).
     
     *The value of the rent to be waived is based on the contractual rent of the tenant, excluding any maintenance fee and charges for the provision of services such as cleaning and security.
 
