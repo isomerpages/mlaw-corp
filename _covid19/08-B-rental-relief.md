@@ -353,7 +353,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	A specified arts and culture society is a society that is registered under section 4 or 4A of the Societies Act (Cap. 311), and which meets the Tier 2 Enhanced Jobs Support Scheme criteria for arts and culture organisations as announced in the Fortitude Budget:
 
 <ol style="list-style-type: lower-alpha">
- <li><u>Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):</u></li>
+ <li>Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):</li>
  <div class="image">
   <img src="/images/SSIC.JPG/" title="SSIC" alt="SSIC">
 </div>
