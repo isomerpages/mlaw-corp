@@ -62,7 +62,8 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
   <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
 </div>
 
-Note: The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to the section “Specific Scenarios” for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period.
+Note: The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to the section <a href="#scenario">"Specific scenarios"</a> for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period.
+
 
 **4.	What are the eligibility criteria for an SME/NPO tenant to qualify for the rental relief?**
 
