@@ -2,66 +2,98 @@
 layout: leftnav-page-content
 title: FAQs for Rental Relief Framework for SMEs
 permalink: /covid19-relief/faq/rental-relief
-breadcrumb: FAQs for Rental Relief Framework for SMEs
+breadcrumb: FAQs for Rental Relief Framework for SMEs and NPOs
 collection_name: covid19
-second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs
+second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 ---
-### FAQs for Rental Relief Framework for SMEs ###
+### FAQs on Rental Relief Framework ###
 
-*Note: The FAQs are subject to the details to be set out in the subsidiary legislation to the Covid-19 (Temporary Measures)(Amendment) Act.*
+<a href="#rental" id="ref1">Rental Relief</a> 
+ - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
+ - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
+ - <a href="#moratorium" id="ref1c">Moratorium on enforcement action</a>
+ - <a href="#eligibility" id="ref1d">Confirmation of eligibility and dispute resolution</a>
+ - <a href="#calculate" id="ref1e">Calculation of rental waivers</a>
+ - <a href="#scenario" id="ref1f">Specific scenarios</a> 
+ - <a href="#npo" id="ref1g">Non-profit organisations</a>
 
-#### Rental relief for SME tenants ####
+<a href="#support" id="ref2">Support for landlords</a> 
+ - <a href="#apply" id="ref2a">Application for assessment</a>
+ - <a href="#hardship" id="ref2b">Support for financial hardship</a>
+ 
+<a href="#repay" id="ref3">Repayment scheme for rental arrears</a> 
+ 
+##### <a name="rental">Rental Relief</a><a href="#ref1" title="Return to top">↩</a> #####
 
-**a.	Why  has the Government decided to implement this rental relief framework?**
+<a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
-*	The rental relief framework seeks to help affected SMEs with their cash flow by providing for the fair handling of their accumulated rental obligations, and a fair sharing of economic hardship due to the impact of COVID-19 among the Government, landlords and tenants. 
+**a.	Why has the Government decided to implement this rental relief framework?**
+
+*	The rental relief framework seeks to help affected SMEs, and specified non-profit organisations (“NPOs”) with their cash flow by providing for the fair handling of their accumulated rental obligations, and a fair sharing of economic hardship due to the impact of COVID-19 among the Government, landlords and tenants. 
+
+*	The Government does not ordinarily intervene in private contracts. However, due to the economic impact of COVID-19 on SMEs, the Government has decided to take targeted and temporary measures to intervene to safeguard the economic structure for the common good. The rental relief measures are necessary to support SMEs and the broader economy, which will in turn help property owners continue to enjoy the stable value of their assets in the longer term. 
+
+*	The framework also applies to specified NPOs that are similarly affected by the economic impact of COVID-19. These are NPOs operating with a clear public benefit to the community, businesses, and society at large. 
 
 
-*	The Government does not ordinarily intervene in private contracts. However, due to the economic impact of COVID-19 on SMEs, the Government has decided to take targeted and temporary measures to intervene to safeguard the economic structure for the common good. The rental relief measures are necessary to support SMEs and the broader economy, which will in turn help property owners continue to enjoy the stable value of their assets in the longer term.  
+**b.	How many months of rental relief can an eligible SME or NPO tenant (including sub-tenants, licensees and sub-licensees) obtain?**
 
+*	Eligible SMEs and NPOs which are tenant-occupiers who operate their business in a rented property (including sub-tenants, licensees and sub-licensees) can receive up to 4 months’ waiver of rent* for qualifying commercial properties (e.g. shops), and up to 2 months’ waiver of rent for other non-residential properties (e.g. industrial and office properties), comprising the following:
 
-**b.	How many months of rental relief can an eligible SME tenant (including subtenants and licensees) obtain?**
-
-*	Eligible SMEs which are tenant-occupiers who operate their business in a rented property (including subtenants and licensees) can receive 4 months’ waiver of rent* for qualifying commercial properties (e.g. shops), and 2 months’ waiver of rent for other non-residential properties (e.g. industrial and office properties), comprising the following:
-
-    a)	<u>Rental relief for eligible SME tenants (supported by Government assistance)</u>: Tenant-occupiers in qualifying commercial properties and other non-residential properties will receive the rental relief through a waiver of rent from their landlords. Property owners (including owner-occupiers) will receive support through the: (a) Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) Government cash grant announced in the Fortitude Budget. 
+    a)	<u>Rental Relief for eligible SME and NPO tenants (supported by Government assistance)</u>: Eligible tenant-occupiers in qualifying commercial properties and other non-residential properties will receive the rental relief through a waiver of rent from their landlords. Property owners will receive support through the: (a) Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) Government cash grant announced in the Fortitude Budget. 
     
-    Eligible SMEs in qualifying commercial properties will receive 2 months’ waiver of their rent, and eligible SMEs in other non-residential properties (e.g. industrial and office properties) will receive 1 month’s waiver of their rent. 
+    Eligible SMEs and NPOs in qualifying commercial properties will receive up to 2 months’ waiver of their rent, and eligible SMEs and NPOs in other non-residential properties (e.g. industrial and office properties) will receive up to 1 months’ waiver of their rent. 
     
-    b)	<u>Additional rental relief</u>: Eligible SME tenant-occupiers who have seen a significant drop in their average monthly revenue due to COVID-19 will receive an additional 2 months’ waiver of rent for qualifying commercial properties, and an additional 1 month’s waiver of rent for other non-residential properties. The Act will mandate that landlords provide this additional rental relief to eligible tenant-occupiers automatically, by way of rental waivers.
+    b)	<u>Additional Rental Relief for SME and NPO tenants (supported by landlords/ property owners)</u>: Eligible SME and NPO tenant-occupiers who have seen a 35% or more drop in their average monthly gross income due to COVID-19 will receive up to an additional 2 months’ waiver of rent for qualifying commercial properties, and up to an additional 1 month’s waiver of rent for other non-residential properties (e.g. industrial and office properties). 
 
+    For more details on the definitions of property in each category, please refer to [https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/](https://www.iras.gov.sg/irashome/Schemes/Property/Government-cash-grant--announced-in-Fortitude-Budget-/).
+    
     *The value of the rent to be waived is based on the contractual rent of the tenant, excluding any maintenance fee and charges for the provision of services such as cleaning and security.
-    
-    
+
 **c.	What period does the rental relief cover?**
 
-*	Generally, the rental relief covers the first 2 months within the period of April to July 2020 for qualifying commercial properties, and the first month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties).
+*	Generally, the Rental Relief covers the first 2 months within the period of April to July 2020 for qualifying commercial properties, and the first month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties).
 
+*	For eligible tenant-occupiers which meet the criteria for the Additional Rental Relief, the Additional Rental Relief covers a further 2 months within the period of April to July 2020 for qualifying commercial properties, and a further 1 month within the period of  April to May 2020 for other non-residential properties.
 
-*	For SME tenant-occupiers which meet the criteria for the additional rental relief, the additional rental relief covers a further 2 months within the period of April to July 2020 for qualifying commercial properties, and a further 1 month in April to May 2020 for other non-residential properties.
+*	In cases where rent has already been paid for the relevant relief period, the tenant can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, receive a refund from the landlord.
 
+<div class="image">
+  <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
+</div>
 
-*	In cases where rent has already been paid for the relief period, the tenant can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, receive a refund from the landlord.
+Note: The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to the section “Specific Scenarios” for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period.
 
+**d.	What are the eligibility criteria for an SME/NPO tenant to qualify for the rental relief?**
 
-**d.	What are the eligibility criteria for an SME tenant to qualify for the rental relief?**
-
-* The rental relief will apply to all tenant-occupiers who are SMEs with ≤$100 million in annual revenue in the Financial Year ending 2018, based on Year of Assessment 2019 corporate or individual income tax returns, at the entity level. 
+*	The rental relief framework, comprising the Rental Relief and the Additional Rental Relief, applies to eligible tenant-occupiers of prescribed properties in qualifying leases or licences that are in writing, or evidenced in writing, which are:
  
-* On top of that, the additional rental relief will apply to SME tenant-occupiers who:
+    a)	(i) Entered into before 25 March 2020; or (ii) entered into before 25 March 2020 but expired and renewed either automatically or in exercise of a right of renewal in the contract; and 
+    
+    b)	In force at any time between 1 April and 31 July 2020 for qualifying commercial properties, and between 1 April and 31 May 2020 for other non-residential (e.g. industrial/office) properties.
+    
+<u>Rental Relief</u>
 
-    a)	Have suffered ≥ 35% drop in average monthly revenue on an outlet level from April to May 2020, compared to April to May 2019; and 
-    
-    
-    b)	Are SMEs at the group level (≤$100 million revenue based on the latest available accounts). 
-    
-    
-* The rental relief framework applies to qualifying leases or licences which are:
+*	Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-    a)	(i) Entered into before 25 March 2020 or (ii) entered into before 25 March 2020 but expired and renewed either automatically or in exercise of a right of renewal in the contract; and
+    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable1, at the individual or entity level2; or
     
     
-    b)	In force any time between 1 April to 31 July 2020 for qualifying commercial leases or licenses; and 1 April to 31 May 2020 for other non-residential (e.g. industrial/office) leases or licenses.
+    b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1">1</a></sup>, at the entity level:
+    
+       i. Registered or exempt charities (as provided in the Charities Act);
+      ii. Members of the National Council of Social Service;
+     iii. National sports associations;
+      iv. National disability sports associations;
+       v. Specified arts and culture societies; or
+      vi. Specified trade associations.
+
+<p><sup id="fn1">1. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the $100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures)
+Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#fn1" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
+
+
 
 
 **e.	Why is it necessary to compare revenue against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?** 
