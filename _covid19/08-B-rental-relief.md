@@ -354,23 +354,28 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
     a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
 
-| 85420 |Music, dancing, art, speech and drama instruction  |
+| | |
 |--|--|
-|  **90001**|  **Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)**|
-|  **90002**|**Performing arts venue operation**  |
-| **90003** | **Operas, wayang and puppet shows** |
-| **90004** |**Orchestras, musical bands, choirs and dance groups**
-|**90009**|**Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)**|
-| **91021** | **Museums** |
-|**91022**  | **Art galleries (excluding retail)** |
-|**91029**|**Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified**|
+| 85420 |Music, dancing, art, speech and drama instruction  |
+|  90001|  Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)|
+|  90002|Performing arts venue operation  |
+| 90003 | Operas, wayang and puppet shows |
+| 90004 |Orchestras, musical bands, choirs and dance groups
+|90009|Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)|
+| 91021 | Museums |
+|91022  | Art galleries (excluding retail) |
+|91029|Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified|
 |  |  |
 
-    b)	Satisfies one or more of the following conditions
+   
+   b)	Satisfies one or more of the following conditions
 
-i. is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive);
-ii. operates a museum that became a member of a group established by the National Heritage Board known as the Museum Roundtable on or before 31 March 2020; 
-iii. is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at https://aep.nac.gov.sg.
+ 1. is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates
+   inclusive); 
+2. operates a museum that became a member of a group
+   established by the National Heritage Board known as the Museum
+   Roundtable on or before 31 March 2020;  
+3. is listed as an    accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
 
 
 **34.	What is the definition of a “specified trade association”?**
