@@ -34,17 +34,16 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <li>The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants. </li></ol>
 
 <ol start="6">
-<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u><b>Annex A</u></b> for details of the eligibility criteria. </li>
+<li>Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to <u>Annex A</u> for details of the eligibility criteria. 
 
-![image](https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Table1.JPG?raw=true)
-
+<img src="https://github.com/isomerpages/isomerpages-mlaw/blob/staging/images/news/press-releases/Table1.JPG">
+</li>
 </ol>
- 
+ <br>
 <b>Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant</b>
  
 <ol start="7">
-<li> <b>Once the property owner receives the notice of cash grant, the
-applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <b><u>Annex B</b></u> for details of these factors.</li></ol>
+<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <b><u>Annex B</b></u> for details of these factors.</li></ol>
 
 <ol start="8">
 
