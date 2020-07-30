@@ -203,7 +203,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 * Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work.
 
 
-**22. What happens if the developer insists that I pay interest or charges that exceed the cap? **
+**22. What happens if the developer insists that I pay interest or charges that exceed the cap?**
 
 * You will not be liable to pay any late payment interest or charges that exceed the cap. 
 
