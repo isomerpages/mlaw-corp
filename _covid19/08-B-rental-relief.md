@@ -23,7 +23,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
  
 <b><a href="#repay" id="refc">Repayment scheme for rental arrears</a></b> 
  
-##### <a name="rental"><b>Rental Relief</b></a><a href="#refa" title="Return to top">↩</a> #####
+#### <a name="rental"><b>Rental Relief</b></a><a href="#refa" title="Return to top">↩</a> ####
 
 <a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
@@ -394,7 +394,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	After an application is made, the landlord and the tenant occupier may be asked to submit additional information or documents, or attend a hearing, either virtually or in person. All parties should make their best effort to comply with these requests, to facilitate a timely resolution of the application.
 
-*	he rental relief assessor’s determination will be binding on all landlords and the tenant-occupier, and will not be appealable. 
+*	The rental relief assessor’s determination will be binding on all landlords and the tenant-occupier, and will not be appealable. 
 
 *	More details on the application process will be shared in due course. 
 
@@ -457,8 +457,8 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	If the tenant-occupier fails to make a payment under the statutory repayment scheme within a prescribed period of time, or the tenant-occupier terminates the lease or licence, or the landlord terminates the lease agreement for any other default by the tenant, the statutory repayment scheme will be cancelled, and the landlord will be entitled to:
 
-- Immediate payment of all the arrears
-- Take steps under the contract for arrears not paid
+    -	Immediate payment of all the arrears
+    -	Take steps under the contract for arrears not paid
 
 
 **43.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
