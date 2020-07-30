@@ -63,7 +63,7 @@ licence agreement; and</li>
 **(C) Support for Landlords**
 
 {:start="13"}
-13.We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>Annex C</u> for more details. 
+13.We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to <u>Annex C</u> for more details. 
 
 **(D) Rental Relief Assessors**
 
