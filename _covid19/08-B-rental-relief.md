@@ -8,7 +8,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 ---
 ### FAQs on Rental Relief Framework ###
 
-<a href="#rental" id="ref1">Rental Relief</a> 
+<b><a href="#rental" id="ref1">Rental Relief</a></b> 
  - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
  - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
  - <a href="#moratorium" id="ref1c">Moratorium on enforcement action</a>
