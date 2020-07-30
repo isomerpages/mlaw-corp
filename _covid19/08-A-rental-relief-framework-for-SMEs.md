@@ -28,6 +28,7 @@ These measures are intended to establish a baseline position for the handling of
  - [Calculation of rental waivers](/files/rentalreliefframework/calculation_of_rental_waivers.pdf)
  - [Credit reliefs for landlords](/files/rentalreliefframework/credit_reliefs_for_landlords.pdf)
 
+
 ##### <a name="rental">Overview of Rental Relief Framework</a><a href="#ref1" title="Return to top">↩</a> #####
 
 Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to  the next section for details of the eligibility criteria. The full categorisation of properties can be found [here](/files/rentalreliefframework/categorisation_of_properties.pdf).
@@ -35,14 +36,7 @@ Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental rel
 <div class="image">
   <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
 </div>
-
-<p><sup>1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. 
-<p><sup>2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. 
-<p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. 
-<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). <br>
-
-<div>
-</div>
+<sup><a href="#fn1">Duration of Rental Relief</a></sup>
 
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#ref2" title="Return to top">↩</a> #####
 
@@ -79,13 +73,6 @@ a)  <u>For SMEs</u>
 
 b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11">11</a></sup>. 
 
-<p><sup id="fn5">5. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of the its financial year ending on a date in 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the S$100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
-<p><sup id="fn6">6. Please refer to Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for the definition of “entity”. <a href="#fn6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
-<p><sup id="fn7">7. Please refer to Footnote 5 for further information. <a href="#fn7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
-<p><sup id="fn8">8. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#fn8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
-<p><sup id="fn9">9. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the S$100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#fn9" title="Jump back to footnote 9 in the text.">↩</a></sup></p>
-<p><sup id="fn10">10. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#fn10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
-<p><sup id="fn11">11. Please refer to Footnote 10 for further information. <a href="#fn11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#ref3" title="Return to top">↩</a> #####
 
@@ -125,9 +112,6 @@ Some qualifying property owners may not receive a notice of cash grant for vario
 
 Under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days after the date on which the tenant-occupier receives the written request, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for the rental waivers. 
 
-<p><sup id="fn12">12. The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#fn12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
-<p><sup id="fn12">13. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the COVID-19 (Temporary Measures) Act. <a href="#fn13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
-
 ##### <a name="assess">Rental Relief Assessors<a href="#ref4" title="Return to top">↩</a> #####
 
 The rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements that best address their specific circumstances.
@@ -158,6 +142,7 @@ b)  Whether the applicant landlord qualifies to provide only half the Additional
 
 The rental relief assessor’s determination will be binding on all landlords (including the property owner) and the tenant-occupier, and will not be appealable. 
 
+
 ##### <a name="repay">Repayment Scheme for Rental Arrears<a href="#ref5" title="Return to top">↩</a> #####
 
 Eligible tenant-occupiers who qualify for the Additional Rental Relief may choose to take up a repayment scheme for a specified portion of rental arrears. 
@@ -174,3 +159,19 @@ a)  Collect immediate payment of all the arrears, including any applicable inter
 b)  Exercise any of its rights under the lease or licence agreement.
 
 In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information to their landlord, including the balance sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be accompanied by a statutory declaration. The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears.  
+
+++
+<sup>Footnotes</sup>
+<p><sup id="fn1">1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
+<p><sup id="fn1">2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
+<p><sup id="fn1">3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
+<p><sup id="fn1">4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). <a href="#fn1" title="Jump back to Duration of Rental Relief in the text.">↩</a></sup></p>
+<p><sup id="fn5">5. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of the its financial year ending on a date in 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the S$100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+<p><sup id="fn6">6. Please refer to Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for the definition of “entity”. <a href="#fn6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
+<p><sup id="fn7">7. Please refer to Footnote 5 for further information. <a href="#fn7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
+<p><sup id="fn8">8. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#fn8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
+<p><sup id="fn9">9. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the S$100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#fn9" title="Jump back to footnote 9 in the text.">↩</a></sup></p>
+<p><sup id="fn10">10. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#fn10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
+<p><sup id="fn11">11. Please refer to Footnote 10 for further information. <a href="#fn11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
+<p><sup id="fn12">12. The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#fn12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
+<p><sup id="fn12">13. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the COVID-19 (Temporary Measures) Act. <a href="#fn13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
