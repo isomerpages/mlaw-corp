@@ -9,11 +9,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 
 ### Additional Resources ###
 
-  * Infographics <br>
-  - [Key Features](/files/1RentalReliefKeyFeatures.pdf)
-  - [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)
-  - [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf)
-  - [Rental Relief Guide for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf)
+  * Infographics - [Key Features](/files/1RentalReliefKeyFeatures.pdf) | [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf) | [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf) | [Rental Relief Guide for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf)
   * [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf) <br>
   * [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)<br>
   * [Definition of a specified trade association](/files/rentalreliefframework/definition_of_a_specified_trade_association.pdf)<br>
