@@ -32,15 +32,14 @@ These measures are intended to establish a baseline position for the handling of
 
 Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to  the next section for details of the eligibility criteria. The full categorisation of properties can be found [here].
 
-<a href="#table" id="table"> </a>
 <div class="image">
-  <img src="/images/TenantReliefTable.jpg/" title="Tenant Relief" alt="Tenant Relief">
+  <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
 </div>
 
-<p><sup>1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. <a href="table" title="Jump back to table.">↩</a></sup></p>
-<p><sup>2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. <a href="table" title="Jump back to table.">↩</a></sup></p>
-<p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. <a href="table" title="Jump back to table.">↩</a></sup></p>
-<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). <a href="table" title="Jump back to table.">↩</a></sup></p>
+<p><sup>1. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to [https://go.gov.sg/rentalrelieffaq](https://go.gov.sg/rentalrelieffaq) for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period. 
+<p><sup>2. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type A Property”. The definition of a Type A property can be found in Part 2 of the First Schedule of the Regulations. 
+<p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. 
+<p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). 
 
 
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#ref2" title="Return to top">↩</a> #####
