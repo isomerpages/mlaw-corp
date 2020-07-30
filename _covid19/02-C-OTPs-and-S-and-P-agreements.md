@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: FAQs for OTPs and S&Ps with Housing Developers
+title: FAQs for OTPs and S&P Agreements with Housing Developers
 permalink: /covid19-relief/faq/OTPs-and-S-and-P-agreements
-breadcrumb: FAQs for OTPs and S&Ps with Housing Developers
+breadcrumb: FAQs for OTPs and S&P Agreements with Housing Developers
 collection_name: covid19
 second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
@@ -29,7 +29,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 *	Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence) for the reliefs applicable to leases and licenses of <u>non-residential property</u>.  
 
 
-**3.	I am a buyer of a residential property from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**
+<a name="q3">**3.	I am a buyer of a residential property from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>
 
 * The developer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020).  
 
@@ -38,7 +38,8 @@ for <u>residential</u> properties sold by housing developers (both private housi
     *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to 19 October 2020).
 
     *	<b>For S&P Agreements / AFLs</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to 19 October 2020).
-
+    
+    * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (18) – (28)</a> for more details. 
 
 **4.	What conditions must I, the buyer, meet to enjoy the reliefs?** 
 
@@ -65,13 +66,13 @@ for <u>residential</u> properties sold by housing developers (both private housi
    *	The buyer has served a Notification for Relief on the developer
     
 
-**5.	What must I, the buyer, do to enjoy the reliefs?**
+<a name="q5">**5.	What must I, the buyer, do to enjoy the reliefs?**</a>
 
 *	The reliefs under the Act <b>do not take effect automatically</b>.
 
 *	If you qualify for the relief, you need to first serve a <b>Notification for Relief</b> on the developer, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass).
 
-*	Once the Notification for Relief has been served on the developer, it cannot take the above actions in FAQ(3).
+*	Once the Notification for Relief has been served on the developer, it cannot take the above actions in <a href="#q3">FAQ(3)</a>.
 
 #### Specific FAQs ####
 
@@ -127,7 +128,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	If the developer is a licensed private housing developer, and the property is not an Executive Condominium: 
 
-    *	First, you should serve the developer with a Notification for Relief, as explained further at FAQ(5). Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
+    *	First, you should serve the developer with a Notification for Relief, as explained further at <a href="#q5">FAQ(5)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
 
     *	Next, you may apply to the Controller of Housing via email at [ura_coh_registry@ura.gov.sg](mailto:ura_coh_registry@ura.gov.sg) to extend the OTP. If the Controller of Housing approves your application to extend the OTP, you should ask the developer for an extension of your OTP. Your OTP will only be extended if the developer agrees. 
 
@@ -137,7 +138,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	If (a) the developer is HDB, (b) the property is an Executive Condominium, or (c) the developer is not a licensed housing developer: 
 
-    *	First, you should serve the developer with a Notification for Relief, as explained further at FAQ(5). Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
+    *	First, you should serve the developer with a Notification for Relief, as explained further at <a href="#q5">FAQ(5)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
 
     *	Next, you should discuss with the developer to reach a mutually acceptable solution. For HDB flat buyers, you may apply to HDB at [https://hdb.gov.sg/MyRequest](https://hdb.gov.sg/MyRequest). Do note that for Executive Condominiums, the developer will need to seek approval from HDB to extend the OTP.
 
@@ -148,7 +149,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 **14.	My OTP is about to expire. I cannot make the payment due because of COVID-19. I no longer want to exercise the option, and am afraid that I will lose all of my booking fee. What should I do to seek relief under the Act?**
 
-*	First, you should serve the developer with a Notification for Relief, as explained further at FAQ(5). Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
+*	First, you should serve the developer with a Notification for Relief, as explained further at <a href="#q5">FAQ(5)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 19 October 2020. 
 
 *	Next, you should discuss with the developer to reach a mutually acceptable solution on dealing with the booking fee. 
 
@@ -177,10 +178,67 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 **17.	Can a developer charge me interest or other charges for late payment during the relief period, after I have served the Notification for Relief?**
 
-*	If the S&P Agreement / AFL provides that the developer can charge interest or charges (be it for late payment or otherwise), those charges would accrue and can be enforced by the developer after the relief period. 
+*	If the S&P Agreement / AFL provides that the developer can charge interest or charges (be it for late payment or otherwise), those charges would accrue and can be enforced by the developer after the relief period. Do note that the late payment interest and charges will be subject to a cap. Please see <a href="#q18">FAQs (18) – (28)</a> for more details. 
 
 
-**18.	What can I do if the developer threatens to terminate my S&P Agreement / AFL after I have served the Notification for Relief?**
+<a name="q18">**18. What are the arrears that will be subject to the cap on late payment interest and charges?**</a>
+
+* The cap applies in respect of arrears that accrued between 1 February and 19 October 2020 due to COVID-19. 
+
+
+**19. What happens to arrears that have accrued before 1 February, or after 19 October 2020 (e.g., arrears for the month of Jan 2020)?**
+
+* The relief does not apply to such arrears. The contractual late payment interest and charges will apply. 
+
+
+**20. What is the cap on late payment interest or charges?**
+
+* The cap is the amount equal to 5% per annum of simple interest on the arrears. 
+
+
+**21. How does the cap on late payment interest rate and charges work?**
+
+* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at an amount equal to 5% per annum of simple interest.  
+
+* Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work.
+
+
+**22. What happens if the developer insists that I pay interest or charges that exceed the cap?**
+
+* You will not be liable to pay any late payment interest or charges that exceed the cap. 
+
+
+**23. Am I still liable to pay the developer ordinary interest (if any)?**
+
+* The cap only applies to <b><u>late payment</u></b> interest and charges. The usual interest and charges (if any) that the developer charges in the absence of any late payments is not capped. 
+
+
+**24. Can parties agree to a late payment interest rate that is below the cap?**
+
+* Yes. We encourage parties to work together to reach a mutually acceptable solution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. 
+
+
+**25. I entered into a compromise or settlement with the developer before I served a Notification for Relief. Does this relief apply to me?**
+
+* No, the relief will not apply if you have entered into a compromise or settlement before serving the Notification for Relief on the developer. 
+
+
+**26. I have paid the developer late payment interest and charges above the cap. Can I serve a Notification for Relief on the developer and get a refund?**
+
+* You cannot claim a refund of any late payment interest or charges that you have already paid. 
+
+
+**27. I served the developer with a Notification for Relief before the cap on late payment interest and charges was brought into force on 31 July 2020. Does the cap apply to me? Do I need to serve the developer with another Notification for Relief?**
+
+* Yes, the cap on late payment interest and charges can apply to you, even if you served the Notification for Relief before the cap was brought into force on 31 July 2020. You do not need to serve the developer with another Notification for Relief. 
+
+
+**28. I applied for and received an Assessor’s Determination before the cap on late payment interest and charges was brought into force on 31 July 2020. Does the cap apply to me?**
+
+* If your determination provides that section 5 of the Act applies in respect of your inability to make payment under the S&P Agreement / AFL, the cap on late payment interest and charges will apply to those payments that you were unable to make. 
+
+
+**29.	What can I do if the developer threatens to terminate my S&P Agreement / AFL after I have served the Notification for Relief?**
 
 *	If a Notification for Relief has been served, it will be an offence under the Act for the developer to terminate your S&P Agreement / AFL.
 
@@ -189,7 +247,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 *	If there is a disagreement over the Notification for Relief, either party may also make an application for an Assessor’s determination. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
 
 
-**19.	I wish to terminate my S&P Agreement / AFL. Can I get a refund for the payments made before termination?**
+**30.	I wish to terminate my S&P Agreement / AFL. Can I get a refund for the payments made before termination?**
 
 *	The Act does not require the developer to refund the payments made (if any) under the S&P Agreement / AFL before termination. 
 
@@ -199,14 +257,14 @@ for <u>residential</u> properties sold by housing developers (both private housi
 <u>For developers</u>
 
 
-**20.	I have been served with a Notification for Relief.  However, I disagree that the buyer is unable to meet his/her payment obligations under the S&P Agreement / AFL due to COVID-19. Can I terminate the S&P Agreement / AFL?**
+**31.	I have been served with a Notification for Relief.  However, I disagree that the buyer is unable to meet his/her payment obligations under the S&P Agreement / AFL due to COVID-19. Can I terminate the S&P Agreement / AFL?**
 
 *	If a Notification for Relief has been served, it will be an offence under the Act for you to terminate the S&P Agreement / AFL.
 
 *	If there is a disagreement over the Notification for Relief, either party may make an application for an Assessor’s determination. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and relevant forms.
 
 
-**21.	An intending buyer’s OTP is about to expire, and he/she has served me with a Notification for Relief. What should I do?**
+**32.	An intending buyer’s OTP is about to expire, and he/she has served me with a Notification for Relief. What should I do?**
 
 *	Once the intending buyer has served you a Notification for Relief, you may not forfeit or withhold any part of the booking fee on or before 19 October 2020. 
 
@@ -217,7 +275,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 *	Please note that any extension is subject to the necessary regulatory approvals.
 
 
-**22.	I cannot deliver vacant possession / rectify defects as required under the S&P Agreement / AFL. Does the Act offer any relief?**
+**33.	I cannot deliver vacant possession / rectify defects as required under the S&P Agreement / AFL. Does the Act offer any relief?**
 
 *	If you are unable to carry out your contractual obligation under the S&P Agreement / AFL due to COVID-19, you are entitled to relief under the Act if the conditions below are met: 
 

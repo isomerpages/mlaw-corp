@@ -19,11 +19,11 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 **2. Is a shophouse covered by the Act?**
 * The commercial component of a shophouse is covered by the Act, while the residential component is not.
 
-**3. What reliefs under the Act are applicable to me, the tenant?**
+<a name="q3">**3. What reliefs under the Act are applicable to me, the tenant?**</a>
 * If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for up to 19 October 2020:
 
   * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent. 
-  * Unilaterally impose new charges, increase charges or interest rates beyond what is provided for in the lease or licence agreement (see FAQ (12) & (13)).
+  * Unilaterally impose new charges, increase charges or interest rates beyond what is provided for in the lease or licence agreement (see <a href="#q12">FAQ (12)</a> & <a href="#q13">(13)</a>).
   * Re-enter the premises. 
   * Start or continue court proceedings or insolvency proceedings.
 
@@ -32,10 +32,10 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * If you qualify for the relief, you need to first **serve a Notification for Relief** on your landlord, using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass){:target="_blank"} or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass){:target="_blank"}.
 
-* Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in FAQ(3).
+* Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in <a href="#q3">FAQ(3)</a>.
 
 **5. What kind of obligations does the Act cover? Is it only limited to the payment of rent?**
-* No, the Act covers all contractual obligations which a party is unable to perform due to COVID-19. These may include the payment of rent, payment of security deposit, or the obligation to reinstate the property by a certain time by the tenant. It may also include obligations by the landlord such as the obligation to deliver vacant possession by a stipulated time.
+* No, the Act covers all contractual obligations which a party is unable to perform due to COVID-19. These may include the payment of rent, payment of security deposit, or the obligation to vacate the property by a certain time by the tenant. It may also include obligations by the landlord such as the obligation to deliver vacant possession by a stipulated time.
 
 **6. How does the Frustrated Contracts Act, and a force majeure clause in the lease or licence agreement interact with the Act?**
 * The Act does not affect the taking of any action in relation to the Frustrated Contracts Act or a force majeure clause. The Assessors would not determine whether the Frustrated Contracts Act or a force majeure clause applies.
@@ -55,7 +55,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 * A lease or licence entered into before 25 March 2020 would be covered by the Act, regardless of when the term of the lease or licence ends. 
 
 **9. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?**
-* Rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing or continuing legal action during the relief period (i.e. up to 19 October 2020).  This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
+* Rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing or continuing legal action during the relief period (i.e. up to 19 October 2020). This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to tenants who can demonstrate that they are **unable to pay** rent due to COVID-19. It does not allow tenants who are able to pay to avoid paying rent. Tenants who have the ability to pay (even if they suffered a drop in revenue) must continue to pay their rent.
 
@@ -73,7 +73,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * In the event of a dispute over whether there is an inability to pay rent, or whether that inability is materially caused by COVID-19, either party may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
-**12. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**
+<a name="q12">**12. Do I have to pay the accrued unpaid rent (and other charges if any) after the 6-month relief period?**</a>
 
 * Yes, the unpaid rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) and any other charges such as interest or fees for late payment, if provided for under the contract continue to accrue during the relief period, and may be enforced after the relief period. 
 
@@ -81,13 +81,13 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * This gives the tenant some breathing space without the threat of eviction or litigation to sort out his finances, and time for the landlord and tenant to negotiate and reach a mutually acceptable solution. Parties are encouraged to work out a compromise on the rental arrears and the terms of the tenancy so that they can preserve a longer-term relationship which is beneficial to both parties. 
 
-**13. Can a landlord charge the tenant interest or other fees for late payment during the relief period, after the tenant serves the Notification for Relief?**
+<a name="q13">**13. Can a landlord charge the tenant interest or other fees for late payment during the relief period, after the tenant serves the Notification for Relief?**</a>
 
 * If the agreement provides that the landlord can charge interest or charges (be it for late payment or otherwise), those charges would accrue and can be enforced by the landlord after the relief period. 
 
-* However, the landlord may <b><u>not</u> unilaterally increase the charges payable by the tenant</b>.  See FAQ(14).
+* However, the landlord may <b><u>not</u> unilaterally increase the charges payable by the tenant</b>.  See <a href="#q14">FAQ(14)</a>.
 
-**14. The landlord says that it is exercising its right to increase the late payment interest and other charges under the tenancy.  Can it do so?**
+<a name="q14">**14. The landlord says that it is exercising its right to increase the late payment interest and other charges under the tenancy.  Can it do so?**</a>
 
   * Increase any charges or interest rate payable under the lease or licence agreement unless such increase 
 	  <br>(i) is specified in the agreement; 
@@ -114,7 +114,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 *	After you serve a Notification for Relief in accordance with the Act, it is unlawful and an offence for your landlord to exercise a right of re-entry or to terminate the lease for non-payment of rent, or start court or insolvency proceedings against you. 
 *	We encourage you to reach out to your landlord to confirm that he had received your Notification for Relief, and to commence negotiations with your landlord to reach a mutually acceptable solution.
-* If no agreement is reached, and the landlord does not agree that you are entitled to relief under the Act (and wish to proceed with re-entry, termination of the lease, or commencement of court or insolvency proceedings), either party may make an application to the Assessor, who will determine whether the relief is applicable. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
+* If no agreement is reached, and the landlord does not agree that you are entitled to relief under the Act (and wish to proceed with re-entry, termination of the lease, or commencement of court or insolvency proceedings), either party may make an application to the Assessor, who will determine whether the relief is applicable. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and relevant forms. 
 
 **17. My landlord terminated my lease / evicted me before the Act commenced. Does the Act apply to me?**
 
@@ -134,8 +134,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 *	If you are unable to carry out your contractual obligation to vacate the property because of the safe distancing measures implemented as a result of COVID-19, we encourage you to approach your landlord to work out a mutually acceptable solution to vacate the property at a safe time and in a safe way in compliance with all safe distancing measures. Both parties should be fair and reasonable. 
 *	If you and your landlord are unable to reach an agreement, and your landlord wishes to enforce your obligation to vacate the property, you may serve a Notification for Relief on your landlord using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass).
-*	Once the Notification for Relief has been served on the landlord, he/she cannot take the above actions in FAQ (3) during the relief period from 20 April 2020 to 19 October 2020. We encourage both landlord and tenant to be reasonable and use the relief period offered by the Act to reach a mutually acceptable agreement.
-*	Amendments to the Act were introduced in Parliament on 5 June 2020. Among other things, if the tenant was unable to vacate the property due to COVID-19 and the tenant has served a Notification for Relief, then that tenant will not be liable for double rent for holding over. The tenant will be liable only for such amounts as may be prescribed. More details about the amendment and the prescribed amount would be announced in due course.  
+*	Once the Notification for Relief has been served on the landlord, the reliefs under section 7B of the Act may apply. Please click on this [link](/covid19-relief/relief-for-tenants-unable-to-vacate-premises) for further information.
 
 **20. I am a tenant and have only interacted with the property agent. I do not know my landlord’s email address or registered address. How do I serve the Notification for Relief?** 
 
@@ -166,17 +165,17 @@ Service of the Notification for Relief on the property agent:
 
 *	After being served the Notification for Relief, you are prohibited from enforcing the contract during the relief period, which expires after 19 October 2020. You cannot evict or terminate the lease for non-payment of rent, nor can you start or continue court or insolvency proceedings against your tenant.
 *	We encourage you to negotiate and reach a mutually acceptable solution with your tenant. A compromise on the rental arrears and the terms of the tenancy can preserve a longer-term relationship, which is beneficial for both parties.  
-*	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
+*	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **23. I was supposed to deliver vacant possession to an incoming tenant by a certain date after 1 February 2020 (e.g. 30 April 2020). However, I was unable to do so because of the safe distancing measures. Does the Act assist me?**
 
 *	If you are unable to deliver vacant possession of the property because of the safe distancing measures implemented as a result of COVID-19, we encourage you to approach your incoming tenant to work out a mutually acceptable solution to deliver vacant possession of the property. This may include an agreement on a postponed date where you are able to hand over the property, and a corresponding extension to the term of the lease. Both parties should be fair and reasonable. 
 *	If you and your incoming tenant are unable to reach an agreement, and your incoming tenant indicates that he wishes to enforce his obligation to deliver vacant possession by, for example, commencing legal proceedings against you, you may serve a Notification for Relief on that tenant using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). 
-*	Once a Notification for Relief has been served, that tenant is prohibited from commencing legal proceedings against the landlord for the relief period from 20 April 2020 to 19 October 2020. Either party may thereafter make an [application to the Assessor](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor), who will seek to achieve an outcome that is just and equitable in the circumstances. 
+*	Once a Notification for Relief has been served, that tenant is prohibited from commencing legal proceedings against the landlord for the relief period from 20 April 2020 to 19 October 2020. Either party may thereafter make an [application to the Assessor](/covid19-relief/application-for-assessor), who will seek to achieve an outcome that is just and equitable in the circumstances. 
 
 **24. My tenant verbally told me / e-mailed me / sent me an instant message that he cannot pay rent. Is that a valid Notification for Relief?** 
 
-*	A Notification for Relief under Part 2 of the Act has to be in the prescribed form found on the [Ministry of Law’s website](https://www.mlaw.gov.sg/covid19-relief/notification-for-relief). All other forms of notification are not valid for purposes of the Act.
+*	A Notification for Relief under Part 2 of the Act has to be in the prescribed form found on the [Ministry of Law’s website](/covid19-relief/notification-for-relief). All other forms of notification are not valid for purposes of the Act.
 
 **25. My tenant did not serve on me a Notification for Relief. Can I evict or sue my tenant for non-payment of rent?** 
 
@@ -186,7 +185,7 @@ Service of the Notification for Relief on the property agent:
 
 *	The Notification for Relief has no effect as Part 2 of the Act does not cover leases or licences of residential property.
 *	Even though the Notification for Relief was served in error, this indicates that your tenant has difficulties meeting his contractual obligations to you under the tenancy.  We encourage you to engage with your tenant to work out a mutually acceptable solution to deal with these contractual issues that have been caused by COVID-19.
-*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor). The Assessor will determine whether relief under the Act applies. 
+*	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](/covid19-relief/application-for-assessor). The Assessor will determine whether relief under the Act applies. 
 
 **27. In the lease or licence agreement, there is a clause stating that the tenants have to pay the utilities fees / conservancy fees / cleaning fees etc. My tenant served a Notification for Relief on me. Is my tenant obliged to continue paying the utilities fees / conservancy fees / cleaning fees etc.?**
 
