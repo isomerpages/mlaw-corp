@@ -379,7 +379,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	The framework provides rental relief to selected NPOs that are deemed to benefit businesses, the society or community at large to also give them time and support to recover from the impact of COVID-19. Besides meeting their respective definitions, these NPOs will also be subject to similar criteria for businesses/SMEs (amount of annual revenue must be not more than $100m to qualify for rental relief, and they must also be severely impacted by COVID-19 by displaying a revenue drop of 35% or more to receive additional rental relief). 
 
 
-#### <a name="support"><b>Support for landlords<b></a><a href="#ref2" title="Return to top">↩</a> ####
+#### <a name="support"><b>Support for landlords</b></a><a href="#ref2" title="Return to top">↩</a> ####
 
 <a name="apply"><u>Application for assessment</u></a><a href="#ref2a" title="Return to top">↩</a>
 
