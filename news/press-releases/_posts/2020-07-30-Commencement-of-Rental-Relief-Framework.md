@@ -50,7 +50,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 </ol>
 
 {:start="9"}
-Where a property (with an eligible end-tenant occupier) has been sublet, the lessor (i.e. intermediary landlord) will receive rental waivers as well, regardless of whether they themselves meet the eligibility criteria, and is in turn obliged to provide the necessary rental waivers to its tenant.
+9. Where a property (with an eligible end-tenant occupier) has been sublet, the lessor (i.e. intermediary landlord) will receive rental waivers as well, regardless of whether they themselves meet the eligibility criteria, and is in turn obliged to provide the necessary rental waivers to its tenant.
 
 <ol start="10">
 <li>Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Such eligible tenant-occupiers, or property owners with eligible tenant-occupiers, who have not received the notice of cash grant by 21 August 2020 should make an application to IRAS at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a> between 21 August 2020 and 21 October 2020.</li></ol>
