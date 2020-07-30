@@ -27,7 +27,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <li>The majority of qualifying property owners should receive the notice by mid-August 2020. Until the notices of cash grant are issued, landlords cannot take enforcement action for non-payment of rent against tenant-occupiers that meet the criteria for Rental Relief.</li>
 </ol>
 
-<br>**(A) Rental Relief Framework**
+<br><b>(A) Rental Relief Framework</b>
 
 <ol start="5">
 <li>The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants. </li></ol>
