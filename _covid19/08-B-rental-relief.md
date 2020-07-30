@@ -8,7 +8,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 ---
 ### FAQs on Rental Relief Framework ###
 
-<b><a href="#rental" id="ref1">Rental Relief</a></b> 
+<b><a href="#rental" id="refa">Rental Relief</a></b> 
  - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
  - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
  - <a href="#moratorium" id="ref1c">Moratorium on enforcement action</a>
@@ -17,13 +17,13 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
  - <a href="#scenario" id="ref1f">Specific scenarios</a> 
  - <a href="#npo" id="ref1g">Non-profit organisations (NPOs)</a>
 
-<b><a href="#support" id="ref2">Support for landlords</a></b>
+<b><a href="#support" id="refb">Support for landlords</a></b>
  - <a href="#apply" id="ref2a">Application for assessment</a>
  - <a href="#hardship" id="ref2b">Support for financial hardship</a>
  
-<b><a href="#repay" id="ref3">Repayment scheme for rental arrears</a></b> 
+<b><a href="#repay" id="refc">Repayment scheme for rental arrears</a></b> 
  
-##### <a name="rental"><b>Rental Relief</b></a><a href="#ref1" title="Return to top">↩</a> #####
+##### <a name="rental"><b>Rental Relief</b></a><a href="#refa" title="Return to top">↩</a> #####
 
 <a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
@@ -77,20 +77,20 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1">1</a></sup>, at the individual or entity level<sup><a href="#fn2">2</a></sup>; or
+    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1" id="ref1">1</a></sup>, at the individual or entity level<sup><a href="#fn2" id="ref2">2</a></sup>; or
     
     
     b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup>1</sup>, at the entity level:
     
-       i. Registered or exempt charities (as provided in the Charities Act);
-      ii. Members of the National Council of Social Service;
-     iii. National sports associations;
-      iv. National disability sports associations;
-       v. Specified arts and culture societies; or
-      vi. Specified trade associations.
+       i. Registered or exempt charities (as provided in the Charities Act);<br>
+      ii. Members of the National Council of Social Service;<br>
+     iii. National sports associations;<br>
+      iv. National disability sports associations;<br>
+       v. Specified arts and culture societies; or<br>
+      vi. Specified trade associations.<br>
 
-<p><sup id="fn1">1. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the $100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
-<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#fn2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the $100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <u>Additional Rental Relief</u>
 
@@ -99,16 +99,15 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4">4</a></sup>; and</li>
-<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>.</li>
+<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3" id="ref3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
+<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
 </ol>
- <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5">5</a></sup>. </li>
-<li>Summary procedure to dissolve companies that have insufficient assets to pay for the administration of the winding up.</li>
+ <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
 </ol>
 
-<p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#fn3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
-<p><sup id="fn4">4. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#fn4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
-<p><sup id="fn5">5. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#fn5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+<p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<p><sup id="fn4">4. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn5">5. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
 **5.	Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** 
 
@@ -379,7 +378,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	The framework provides rental relief to selected NPOs that are deemed to benefit businesses, the society or community at large to also give them time and support to recover from the impact of COVID-19. Besides meeting their respective definitions, these NPOs will also be subject to similar criteria for businesses/SMEs (amount of annual revenue must be not more than $100m to qualify for rental relief, and they must also be severely impacted by COVID-19 by displaying a revenue drop of 35% or more to receive additional rental relief). 
 
 
-#### <a name="support"><b>Support for landlords</b></a><a href="#ref2" title="Return to top">↩</a> ####
+#### <a name="support"><b>Support for landlords</b></a><a href="#refb" title="Return to top">↩</a> ####
 
 <a name="apply"><u>Application for assessment</u></a><a href="#ref2a" title="Return to top">↩</a>
 
@@ -446,7 +445,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](www.mas.gov.sg/regulation/covid-19).
 
 
-#### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#ref3" title="Return to top">↩</a> ####
+#### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
 
 **42.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
