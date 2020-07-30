@@ -80,7 +80,7 @@ b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#refc" title="Return to top">↩</a> #####
 
-From early August, the Inland Revenue Authority of Singapore (IRAS) will issue notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn12" id="ref12">>12</a></sup>. The notice will inform property owners of the rental waivers they should provide to their tenants. 
+From early August, the Inland Revenue Authority of Singapore (IRAS) will issue notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn12" id="ref12">12</a></sup>. The notice will inform property owners of the rental waivers they should provide to their tenants. 
 
 Property owners will be required to serve a copy of the IRAS notice on their tenants within four working days of receipt of the notice, so that tenants will have timely confirmation that they are eligible for the rental waivers.  Service of the notice may be done in person or via registered post or email.
 
