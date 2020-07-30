@@ -23,7 +23,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
  
 <b><a href="#repay" id="ref3">Repayment scheme for rental arrears</a></b> 
  
-##### <a name="rental">Rental Relief</a><a href="#ref1" title="Return to top">↩</a> #####
+##### <a name="rental"><b>Rental Relief</b></a><a href="#ref1" title="Return to top">↩</a> #####
 
 <a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
