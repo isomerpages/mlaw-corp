@@ -148,7 +148,7 @@ for more details.
 
 * If the agreement provides that the rental company can charge interest or charges (be it for late payment or otherwise), interest or other charges would accrue and can be enforced by the rental company after the relief period.
 
-* However, the rental company may not unilaterally increase the charges payable by the renter. See <a href="q16">FAQ (16)</a> below. Further, the late payment interest and charges may be subject to a cap. See <a href="#q17">FAQs (17) – (28)</a> below.  
+* However, the rental company may not unilaterally increase the charges payable by the renter. See <a href="#q16">FAQ (16)</a> below. Further, the late payment interest and charges may be subject to a cap. See <a href="#q17">FAQs (17) – (28)</a> below.  
 
 <a name="q16">**16. The rental company says that it is exercising its right to increase the interest payable under the rental agreement for the commercial equipment/vehicle. Can it do so?**</a>
 
