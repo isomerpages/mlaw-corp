@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Additional Relief for Tenants Unable to Vacate Premises
+title: Relief for Tenants Unable to Vacate Premises
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
-breadcrumb: Additional Relief for Tenants Unable to Vacate Premises
+breadcrumb: Relief for Tenants Unable to Vacate Premises
 collection_name: covid19
 second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
 ---
@@ -26,11 +26,11 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
 * Under the Act, you may pay the amounts listed in the table below instead, if you meet the qualifying conditions. See <a href="#q2">FAQ (2)</a> for the qualifying conditions. The specific amounts depend on the period in which you were unable to vacate the premises after the end of your lease or licence (the "**holding over period**"), as well as whether you operated your business on the premises during the holding over period. 
 
 ![image](/files/COVIDAct7B_PrescribedAmounts_clean.JPG)
-*Please see FAQ (6) for more details on "rent".  
+*Please see <a href="#q6">FAQ (6)</a> for more details on "rent".  
 
 * **Illustration of how the relief may apply**
 
-  Tenant’s lease expired on 1 February 2020. Due to COVID-19, Tenant    was only able to vacate the premises on 1 August 2020. Tenant continued operating his business on the premises from 1 February 2020 – 1 June 2020, but ceased all business activities from 2 June 2020 onwards. 
+  Tenant’s lease expired on 1 February 2020. Due to COVID-19, Tenant was only able to vacate the premises on 1 August 2020. Tenant continued operating his business on the premises from 1 February 2020 – 1 June 2020, but ceased all business activities from 2 June 2020 onwards. 
 
   Under this relief, Tenant will have to pay the following:
 
@@ -42,10 +42,10 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
 
 * Please see the following FAQs for more details: 
 
-    * FAQ (7) for an explanation of "service, maintenance and utilities charges"
-    * FAQ (8) for an more details on "market rent"
-    * FAQ (9) for an explanation of "the amount payable by the tenant under the lease or licence for holding over"
-    * FAQ (10) for what "operating" your business on the premises means
+    * <a href="#q7">FAQ (7)</a> for an explanation of "service, maintenance and utilities charges"
+    * <a href="#q8">FAQ (8)</a> for an more details on "market rent"
+    * <a href="#q9">FAQ (9)</a> for an explanation of "the amount payable by the tenant under the lease or licence for holding over"
+    * <a href="#q10">FAQ (10)</a> for what "operating" your business on the premises means
     
 <a name="q2">**2. I was unable to vacate my premises. Does the relief apply to me?**</a>
 
@@ -57,16 +57,16 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
     
       (a) entered into or renewed before 25 March 2020; or 
       <br>(b) originally entered into before 25 March 2020, and renewed automatically or in exercise of a right of renewal on or after 25 March 2020
-      
+      <br>
     * The lease or licence expired, or was terminated, on or after 1 February 2020 
 
     * You were unable to vacate the premises due to COVID-19 
 
-    * You could not have avoided the holding over by taking reasonable steps. See FAQ (4). 
+    * You could not have avoided the holding over by taking reasonable steps. See <a href="#q4">FAQ (4)</a>. 
 
-    * You have served a Notification for Relief on the landlord. See FAQ (3).
+    * You have served a Notification for Relief on the landlord. See <a href="#q3">FAQ (3)</a>.
 
-**3. What must I do to enjoy the reliefs?**
+<a name="q3">**3. What must I do to enjoy the reliefs?**</a> 
 
 * This relief **does not take effect automatically**.
 
@@ -80,7 +80,7 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
 
     * FAQ (21): I served the Notification for Relief on my landlord, but did not get any response or acknowledgement from him. What do I do next?
     
-**4. What are the "reasonable steps" that I could have taken to avoid the holding over?**
+<a name="q4">**4. What are the "reasonable steps" that I could have taken to avoid the holding over?**</a>
 
 * The "reasonable steps" that you could have taken include: 
 
@@ -104,15 +104,15 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
 
     * MTI approved your application for a Time-Limited Exemption or a General Exemption to take the steps required to vacate the premises, but, despite you taking such steps, you could not vacate the premises for other COVID-19 related reasons 
 
-**6. Are service charges included in the rent that I have to pay to my landlord for the holding over period under this section?**
+<a name="q6">**6. Are service charges included in the rent that I have to pay to my landlord for the holding over period under this section?**</a>
 
 * For the purposes of this relief, "rent" is the amount payable for the lease or licence of the property, and <u>includes all service, maintenance, and utilities charges</u>. 
 
 * The amounts are to be calculated based on the last rent payable by the tenant under its lease or licence.
 
-* See FAQ (7) for more information on service, maintenance and utilities charges. 
+* See <a href="#q7">FAQ (7)</a> for more information on service, maintenance and utilities charges. 
 
-**7. What are "service, maintenance and utilities charges"?**
+<a name="q7">**7. What are "service, maintenance and utilities charges"?**</a>
 
 * Your contract should specify the service charges, maintenance charges and utilities charges that you must pay the landlord. 
 
@@ -124,17 +124,17 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
 
     * Utilities charges may include charges for water, electricity, air conditioning, telecommunications network, gas and any sewerage or conservancy charges
     
-**8. How do I verify my landlord’s claims of the “market rent”?**
+<a name="q8">**8. How do I verify my landlord’s claims of the “market rent”?**</a>
 
 * The landlord has to show proof of the market rent if he chooses to charge “market rent” instead of “rent”. 
 
-**9. What is “the amount payable by the tenant under the lease or licence for holding over”?**
+<a name="q9">**9. What is “the amount payable by the tenant under the lease or licence for holding over”?**</a>
 
 * Certain contracts may already stipulate the amount that a tenant must pay if the tenant holds over. “The amount payable by the tenant under the lease or licence for holding over” refers to this amount. 
 
 * In case of doubt, you should seek legal advice on whether your lease or licence agreement contains such a clause.
 
-* Thus, for instance, where you are required to pay the following (S/N 2 and 4 in FAQ (1)): 
+* Thus, for instance, where you are required to pay the following (S/N 2 and 4 in <a href="#q1">FAQ (1)</a>): 
 
   The lower of:
 
@@ -143,7 +143,7 @@ To ensure that that landlords are treated fairly and are not out-of-pocket for s
   
   You should check if your contract stipulates the amount that you must pay if you hold over. If your contract contains such a clause, you will not be required under the Act to pay more than that amount. 
 
-**10. What does “operate your business on the premises” mean?**
+<a name="q10">**10. What does “operate your business on the premises” mean?**</a>
 
 * You may be considered to have operated your business on the premises during the holding over period, if activities were performed on the premises that went towards the functioning of your business. 
 
@@ -181,7 +181,7 @@ The tenancy of a food and beverage restaurant business expired during the Circui
 
 **11. I was unable to vacate the premises at the expiry of my lease as I could not procure contractors to move out my heavy machinery from the premises. Does this relief apply to me?**
 
-* It is possible that you qualify for this relief, if you were not able to procure contractors due to COVID-19 (e.g., due to the safe distancing restrictions imposed by the Government).  You must show that you could not hire the contractors even with reasonable steps on your part. The other conditions set out in FAQ (2) must also be met. 
+* It is possible that you qualify for this relief, if you were not able to procure contractors due to COVID-19 (e.g., due to the safe distancing restrictions imposed by the Government).  You must show that you could not hire the contractors even with reasonable steps on your part. The other conditions set out in <a href="#q2">FAQ (2)</a> must also be met. 
 
 **12. What should I do if my landlord does not agree that the relief applies to me?**
 
@@ -221,7 +221,7 @@ The tenancy of a food and beverage restaurant business expired during the Circui
 
 **17. My tenant’s lease expired on 1 May 2020. How does the relief apply if the tenant is unable to vacate the premises in May, but was able to vacate from 1 June 2020 onwards and did not do so?**
 
-* If the tenant is unable to vacate the premises due to COVID-19 from 1 to 31 May 2020 despite taking reasonable steps, the reliefs above at FAQ (1) will apply to the tenant during this period. 
+* If the tenant is unable to vacate the premises due to COVID-19 from 1 to 31 May 2020 despite taking reasonable steps, the reliefs above at <a href="#q1">FAQ (1)</a> will apply to the tenant during this period. 
 
 * The relief will cease to apply once the tenant is able to vacate the premises on 1 June 2020. The tenant will be liable for the sums provided for under the contract or applicable law from 1 June 2020 onwards.
 
