@@ -77,10 +77,10 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable1, at the individual or entity level2; or
+    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1">1</a></sup>, at the individual or entity level<sup><a href="#fn2">2</a></sup>; or
     
     
-    b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1">1</a></sup>, at the entity level:
+    b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup>1</sup>, at the entity level:
     
        i. Registered or exempt charities (as provided in the Charities Act);
       ii. Members of the National Council of Social Service;
@@ -90,7 +90,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
       vi. Specified trade associations.
 
 <p><sup id="fn1">1. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the $100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
-<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#fn1" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#fn2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <u>Additional Rental Relief</u>
 
