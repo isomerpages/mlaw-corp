@@ -379,10 +379,12 @@ b)	Satisfies one or more of the following conditions:
 
 **34.	What is the definition of a “specified trade association”?**
 
-*	A specified trade association means a society —
-    a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311);
-    b)	that supports its members in developing their respective businesses by conducting activities that relate to trade, commerce, investment or industry development; and
-    c)	where one or more members of the society are regulated by the Accounting and Corporate Regulatory Authority under any written law. 
+*	A specified trade association means a society — <br>
+    a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); <br>
+    
+    b)	that supports its members in developing their respective businesses by conducting activities that relate to trade, commerce, investment or industry development; and <br>
+    
+    c)	where one or more members of the society are regulated by the Accounting and Corporate Regulatory Authority under any written law.  
 
 
 **35.	How were the categories of non-profit organisations (“NPOs”) considered eligible for rental relief determined?**
