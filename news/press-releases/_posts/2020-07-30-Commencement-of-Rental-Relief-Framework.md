@@ -42,7 +42,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 **Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant**
  
 <ol start="7">
-<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>**Annex B**</u> for details of these factors.
+<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>Annex B</u> for details of these factors.
 
 <ol start="8">
 
@@ -112,7 +112,7 @@ licence agreement; and</li>
 **MINISTRY OF LAW**
 <br>**30 JULY 2020**
 
-<p><sup id="fn1">1. The notices will be available for qualifying property owners to view on IRAS' myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. The notices will be available for qualifying property owners to view on IRAS' myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
 <br><sup>2. The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to <a href="https://go.gov.sg/rentalrelieffaq" target="new">https://go.gov.sg/rentalrelieffaq</a> for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period.  </sup>
 
