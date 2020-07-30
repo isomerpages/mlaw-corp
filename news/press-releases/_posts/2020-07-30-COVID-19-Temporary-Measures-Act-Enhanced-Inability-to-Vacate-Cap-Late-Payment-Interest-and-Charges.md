@@ -10,9 +10,9 @@ permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inabili
 <ol start="1">
 <li>Amendments to the COVID-19 (Temporary Measures) Act ("Act"), as well as related subsidiary legislation, will come into force on 31 July 2020. In addition to operationalising the rental relief framework that was announced in Parliament on 5 June 2020, the amendments enhance the existing protections for businesses and individuals who are unable to perform their contractual obligations due to COVID-19, in the following ways:
 
-<br>a. Limiting the liability of tenants who are unable to vacate their business premises due to COVID-19; and 
+<br><br>a. Limiting the liability of tenants who are unable to vacate their business premises due to COVID-19; and 
 
-<br>b. Limiting the amount of late payment interest and charges that can be charged for arrears arising under specific contracts.
+<br><br>b. Limiting the amount of late payment interest and charges that can be charged for arrears arising under specific contracts.
 </li></ol>
 
 <ol start="2">
@@ -26,19 +26,19 @@ permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inabili
 <ol start="4">
 <li>Tenants who qualify for relief will not have to pay double rent, but the prescribed rate. The qualifying criteria are:
 
-<br>a. The tenant must be a lessee or licensee of a non-residential (e.g. commercial, or industrial) property;
+<br><br>a. The tenant must be a lessee or licensee of a non-residential (e.g. commercial, or industrial) property;
 
-<br>b. The lease or licence must have been – 
+<br><br>b. The lease or licence must have been – 
 
 <br>i. entered into or renewed before 25 March 2020; or 
 
 <br>ii. originally entered into before 25 March 2020, and renewed automatically or in exercise of a right of renewal on or after 25 March 2020;
 
-<br>c. The lease or licence expired, or was terminated, on or after 1 February 2020;
+<br><br>c. The lease or licence expired, or was terminated, on or after 1 February 2020;
 
-<br>d. The tenant was unable to vacate the premises due to COVID-19; and
+<br><br>d. The tenant was unable to vacate the premises due to COVID-19; and
 
-<br>e. The tenant could not have avoided the holding over by taking reasonable steps. Examples of reasonable steps include: contacting at least one moving company or making good efforts to independently engage workers to help with vacating the premises.
+<br><br>e. The tenant could not have avoided the holding over by taking reasonable steps. Examples of reasonable steps include: contacting at least one moving company or making good efforts to independently engage workers to help with vacating the premises.
 </li></ol>
 
 <ol start="5">
@@ -60,7 +60,7 @@ permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inabili
 <ol start="9">
 <li>This relief applies to the following categories of contracts under the Act: 
 
-<br>a. Hire-purchase and conditional sales agreements of: 
+<br><br>a. Hire-purchase and conditional sales agreements of: 
 
 <br>i. A plant, machinery or fixed asset in Singapore that is used for manufacturing, production or other business purposes; or
 
@@ -68,17 +68,17 @@ permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inabili
 
 <br> except where such agreement is with a bank or finance company;<sup><a href="#fn6" id="ref6">6</a></sup>
 
-<br>b. Rental agreements for: 
+<br><br>b. Rental agreements for: 
 
 <br>i. A plant, machinery or fixed asset in Singapore that is used for manufacturing, production or other business purposes; or
 
 <br>ii. A commercial vehicle (excluding taxis and private-hire cars); 
 
-<br>c. Sale and purchase agreements or agreements for lease for residential properties sold by housing developers; 
+<br><br>c. Sale and purchase agreements or agreements for lease for residential properties sold by housing developers; 
 
-<br>d. Construction contracts or supply contracts; and 
+<br><br>d. Construction contracts or supply contracts; and 
 
-<br>e. Event or tourism-related contracts. 
+<br><br>e. Event or tourism-related contracts. 
 </li></ol>
 
 <ol start="10">
@@ -91,19 +91,19 @@ permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inabili
 
 <sup>1. If the tenant operated its business for part of this period only, the amount payable will be pro-rated accordingly. For example, if the tenant held over from 7 April 2020 to 18 June 2020, and operated from 7 April 2020 to 30 April 2020, the tenant will be liable to pay (a) the amount set out in S/N 2 for the period from 7 April 2020 to 30 April 2020, and (b) the amount set out in S/N 1 for the period from 1 May 2020 to 18 June 2020.</sup>
 
-<br><sup>2. "Rent" is the amount payable for the lease or licence of the property, and includes all service, maintenance and utilities charges. The amounts are to be calculated based on the last rent payable by the tenant under its lease or licence.</sup>
+<sup>2. "Rent" is the amount payable for the lease or licence of the property, and includes all service, maintenance and utilities charges. The amounts are to be calculated based on the last rent payable by the tenant under its lease or licence.</sup>
 
-<br><sup>3. Please see footnote 2 for the meaning of "rent".</sup>
+<sup>3. Please see footnote 2 for the meaning of "rent".</sup>
 
-<br><sup>4. Similar to footnote 1, if the tenant operated its business for part of this period only, the amount payable will be pro-rated accordingly. For example, if the tenant held over from 19 June 2020 to 18 August 2020, and operated from 19 June to 18 July 2020, the tenant will be liable to pay (a) the amount set out in S/N 4 for the period from 19 June 2020 to 18 July 2020, and (b) the amount set out in S/N 3 for the period from 19 July 2020 to 18 August 2020.</sup>
+<sup>4. Similar to footnote 1, if the tenant operated its business for part of this period only, the amount payable will be pro-rated accordingly. For example, if the tenant held over from 19 June 2020 to 18 August 2020, and operated from 19 June to 18 July 2020, the tenant will be liable to pay (a) the amount set out in S/N 4 for the period from 19 June 2020 to 18 July 2020, and (b) the amount set out in S/N 3 for the period from 19 July 2020 to 18 August 2020.</sup>
 
-<br><sup>5. Please see footnote 2 for the meaning of "rent".</sup>
+<sup>5. Please see footnote 2 for the meaning of "rent".</sup>
 
 <p><sup id="fn6">6. Such contracts were excluded because banks and finance companies, working with the Monetary Authority of Singapore, have already adopted a series of voluntary relief measures for individuals and businesses. <a href="#ref6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
 
 
 [Annex A: Operation of the Business on the Premises (109KB)](/files/news/press-releases/2020/7/AnnexA_COVIDAct7A7B.pdf)  
-<br>[Annex B: Worked Example of Cap on Late Payment Interest and Charges (115KB)](/files/news/press-releases/2020/7/AnnexB_COVIDAct7A7B.pdf)
+[Annex B: Worked Example of Cap on Late Payment Interest and Charges (115KB)](/files/news/press-releases/2020/7/AnnexB_COVIDAct7A7B.pdf)
 
 
 <p class="right-side-updated">Last updated on 30 Jul 2020</p>
