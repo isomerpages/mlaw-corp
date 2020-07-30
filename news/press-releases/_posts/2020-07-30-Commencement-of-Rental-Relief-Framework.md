@@ -42,7 +42,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <b>Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant</b>
  
 <ol start="7">
-<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>Annex B</u> for details of these factors.
+<li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>Annex B</u> for details of these factors.</li></ol>
 
 <ol start="8">
 
