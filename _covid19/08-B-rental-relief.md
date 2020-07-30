@@ -363,7 +363,11 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <li>operates a museum that became a member of a group established by the National Heritage Board known as the Museum Roundtable on or before 31 March 2020;</li>
 <li>is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).</li>
 </ol>
-<br>
+</ol>
+  
+</li>  
+</ol>
+
 
 **34.	What is the definition of a “specified trade association”?**
 
