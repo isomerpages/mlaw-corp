@@ -27,7 +27,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <li>The majority of qualifying property owners should receive the notice by mid-August 2020. Until the notices of cash grant are issued, landlords cannot take enforcement action for non-payment of rent against tenant-occupiers that meet the criteria for Rental Relief.</li>
 </ol>
 
-<br><b> (A) Rental Relief Framework </b>
+<br>**(A) Rental Relief Framework**
 
 <ol start="5">
 <li>The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants. </li></ol>
@@ -39,7 +39,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 </li>
 </ol>
  <br>
-<b>Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant</b>
+**Rental Waivers Apply Once Property Owner Receives Notice of Cash Grant**
  
 <ol start="7">
 <li> <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework,</b> unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to <u>**Annex B**</u> for details of these factors.</li></ol>
@@ -56,7 +56,7 @@ permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framewo
 <ol start="10">
 <li>Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Such eligible tenant-occupiers, or property owners with eligible tenant-occupiers, who have not received the notice of cash grant by 21 August 2020 should make an application to IRAS at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a> between 21 August 2020 and 21 October 2020.</li></ol>
 
-<br><b>Moratorium on Enforcement Actions</b>
+<br>**Moratorium on Enforcement Actions**
 
 <ol start="11">
 <li>The Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things, landlords are prohibited from taking the following actions on the tenant- occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
@@ -71,12 +71,12 @@ licence agreement; and</li>
 <ol start="12">
 <li>The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 31 December 2020 if no such notice is received before then. </li></ol>
 
-<br><b>(C) Support for Landlords</b>
+<br>**(C) Support for Landlords**
 
 <ol start="13">
 <li>We recognise that the COVID-19 pandemic has also impacted landlords, in particular individuals who rely on the income from their rental property for their livelihood. Support is available for such individuals who have difficulties meeting their obligations under the rental relief framework. This includes a reduction of the Additional Rental Relief they need to provide if they are assessed to be in financial hardship based on the annual value of all their investment properties and the percentage of their income derived from rental of the relevant property. Please refer to </u>Annex C</u> for more details. </li></ol>
 
-<br><b>(D) Rental Relief Assessors</b>
+<br>**(D) Rental Relief Assessors**
 
 <ol start="14">
 <li>The rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements that best address their specific circumstances.</li></ol>
@@ -103,7 +103,7 @@ licence agreement; and</li>
 <ol start="19">
 <li>Eligible tenant-occupiers that qualify for the Additional Rental Relief may also choose to take up a repayment scheme for a specified portion of rental arrears accumulated from 1 February 2020 until 19 October 2020. Please refer to <u>Annex D</u> for more details.</li></ol>
 
-<br><b>For More Information</b>
+<br>**For More Information**
 
 <ol start="20">
 <li>For more details on the above schemes, please visit <a href="https://go.gov.sg/rentalrelief" target="new"> https://go.gov.sg/rentalrelief</a>.</li></ol>
