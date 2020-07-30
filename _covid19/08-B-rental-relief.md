@@ -367,15 +367,14 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 |91029|Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified|
 |  |  |
 
-   
-   b)	Satisfies one or more of the following conditions
 
- 1. is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates
-   inclusive); 
-2. operates a museum that became a member of a group
-   established by the National Heritage Board known as the Museum
-   Roundtable on or before 31 March 2020;  
-3. is listed as an    accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
+<br>
+
+b)	Satisfies one or more of the following conditions:
+
+1. is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive); <br>
+2. operates a museum that became a member of a group established by the National Heritage Board known as the Museum Roundtable on or before 31 March 2020; <br> 
+3. is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).<br>
 
 
 **34.	What is the definition of a “specified trade association”?**
