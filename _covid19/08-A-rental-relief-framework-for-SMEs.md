@@ -41,6 +41,8 @@ Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental rel
 <p><sup>3. This is referred to in the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 as “Type B Property”. The definition of a Type B property can be found in Part 3 of the First Schedule of the Regulations. 
 <p><sup>4. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). <br>
 
+<div>
+</div>
 
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#ref2" title="Return to top">↩</a> #####
 
