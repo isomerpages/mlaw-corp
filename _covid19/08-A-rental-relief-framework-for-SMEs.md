@@ -33,7 +33,7 @@ These measures are intended to establish a baseline position for the handling of
 
 Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to  the next section for details of the eligibility criteria. The full categorisation of properties can be found [here](/files/rentalreliefframework/categorisation_of_properties.pdf).
 
-<sup><a href="#fn1" id="ref1">Duration of Rental Relief</a></sup>
+<a href="#fn1" id="ref1">Duration of Rental Relief</a>
 <div class="image">
   <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
 </div>
