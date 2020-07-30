@@ -22,15 +22,15 @@ These measures are intended to establish a baseline position for the handling of
 
    <u>Additional Resources</u>
  - Infographics 
- - Categorisation of properties 
- - Eligibility criteria for arts and culture societies 
- - Definition of a specified trade association 
- - Calculation of rental waivers
- - Credit reliefs for landlords
+ - [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf)
+ - [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)
+ - [Definition of a specified trade association](/files/rentalreliefframework/definition_of_a_specified_trade_association.pdf) 
+ - [Calculation of rental waivers](/files/rentalreliefframework/calculation_of_rental_waivers.pdf)
+ - [Credit reliefs for landlords](/files/rentalreliefframework/credit_reliefs_for_landlords.pdf)
 
 ##### <a name="rental">Overview of Rental Relief Framework</a><a href="#ref1" title="Return to top">↩</a> #####
 
-Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to  the next section for details of the eligibility criteria. The full categorisation of properties can be found [here].
+Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental relief framework as summarised in the table below. Please refer to  the next section for details of the eligibility criteria. The full categorisation of properties can be found [here](/files/rentalreliefframework/categorisation_of_properties.pdf).
 
 <div class="image">
   <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
@@ -74,7 +74,7 @@ a)  <u>For SMEs</u>
 
    ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn10">10</a></sup>.
 
-a)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11">11</a></sup>. 
+b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11">11</a></sup>. 
 
 <p><sup id="fn5">5. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of the its financial year ending on a date in 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the S$100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#fn5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 <p><sup id="fn6">6. Please refer to Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for the definition of “entity”. <a href="#fn6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
@@ -106,7 +106,7 @@ c)  Starting or continuing court or insolvency proceedings.
 
 The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 31 December 2020 if no such notice is received by then. 
 
-<b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework</b>, unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to [link] for details of these factors. 
+<b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework</b>, unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to [this](/files/rentalreliefframework/calculation_of_rental_waivers.pdf) for details of these factors. 
 
 <u>Application of rental waiver</u>
 
