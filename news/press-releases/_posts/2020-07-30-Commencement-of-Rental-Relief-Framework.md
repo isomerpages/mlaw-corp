@@ -121,10 +121,11 @@ licence agreement; and</li>
 
 <br><sup>5. Owners of the prescribed properties will receive Government assistance through: (a) the Property Tax Rebate for Year 2020 announced in the Unity and Resilience Budgets; and (b) the Government cash grant announced in the Fortitude Budget. For more details, please refer to IRAS’s website at <a href="https://go.gov.sg/governmentcashgrant" target="new">https://go.gov.sg/governmentcashgrant</a>. </sup>
 
-  
-[Annex A: Eligibility Criteria for Rental Relief and Additional Rental Relief (311KB)](/files/news/press-releases/2020/8/AnnexA.pdf)
+<br>
 
-[Annex B: Calculation of Rental Waivers (252KB)](/files/news/press-releases/2020/8/AnnexB.pdf)
+[Annex A: Eligibility Criteria for Rental Relief and Additional Rental Relief (310KB)](/files/news/press-releases/2020/8/AnnexA.pdf)
+
+[Annex B: Calculation of Rental Waivers (251KB)](/files/news/press-releases/2020/8/AnnexB.pdf)
 
 [Annex C: Support for Landlords (234KB)](/files/news/press-releases/2020/8/AnnexC.pdf)
 
