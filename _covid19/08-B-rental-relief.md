@@ -376,7 +376,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	The framework provides rental relief to selected NPOs that are deemed to benefit businesses, the society or community at large to also give them time and support to recover from the impact of COVID-19. Besides meeting their respective definitions, these NPOs will also be subject to similar criteria for businesses/SMEs (amount of annual revenue must be not more than $100m to qualify for rental relief, and they must also be severely impacted by COVID-19 by displaying a revenue drop of 35% or more to receive additional rental relief). 
 
 
-#### <a name="support">Support for landlords</u></a><a href="#ref2" title="Return to top">↩</a>###
+#### <a name="support"><b>Support for landlords<b></a><a href="#ref2" title="Return to top">↩</a> ####
 
 <a name="apply"><u>Application for assessment</u></a><a href="#ref2a" title="Return to top">↩</a>
 
@@ -443,7 +443,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](www.mas.gov.sg/regulation/covid-19).
 
 
-#### <a name="repay">Repayment scheme for rental arrears</u></a><a href="#ref3" title="Return to top">↩</a>###
+#### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#ref3" title="Return to top">↩</a> ####
 
 **42.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
