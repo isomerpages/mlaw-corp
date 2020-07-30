@@ -29,7 +29,7 @@ This is intended to help businesses affected by COVID-19 to manage their debt lo
 The cap on late payment interest or charges does not apply to SME secured loans and hire purchase agreements / conditional sales agreements granted by banks and finance companies. Please see the FAQ below for further details. 
 
 <b><u>How the relief works</u></b>
-Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020, will be capped at an amount equal to 5% per annum of simple interest on the arrears.
+<br>Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020, will be capped at an amount equal to 5% per annum of simple interest on the arrears.
 
 <b><u>Why does the prescribed cap on late payment interest and charges not apply to contracts with a bank or finance company?</u></b>
 
@@ -43,4 +43,4 @@ Once the Notification for Relief is served, all late payment interest and charge
 
 * You may refer to MAS’ website ([Measures for Individuals](https://www.mas.gov.sg/regulation/covid-19/supporting-individuals-through-covid-19), [Measures for Businesses](https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19)) and ABS’ website ([Special Financial Relief Programme](http://www.abs.org.sg/consumer-banking/sfrp)) for more information on the banks’ relief measures and contact details.
 
-Click here for illustrations of how the cap on late payment interest and charges applies. 
+Click [here](/files/Illustrations_Late_Payment_Interest_Charges_Cap.pdf) for illustrations of how the cap on late payment interest and charges applies. 
