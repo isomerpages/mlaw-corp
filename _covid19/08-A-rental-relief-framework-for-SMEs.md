@@ -36,7 +36,7 @@ Eligible SMEs and NPOs who are tenant-occupiers will benefit from the rental rel
 <div class="image">
   <img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
 </div>
-<sup>Footnotes</sup><sup><a href="#fn1" id="ref1">1</a></sup>, <sup><a href="#fn2" id="ref2">2</a></sup>, <sup><a href="#fn3" id="ref3">3</a></sup>, <sup><a href="#fn4" id="ref4">4</a></sup>
+<sup>Footnotes</sup><sup><a href="#fn1" id="ref1">1</a></sup> | <sup><a href="#fn2" id="ref2">2</a></sup> | <sup><a href="#fn3" id="ref3">3</a></sup> | <sup><a href="#fn4" id="ref4">4</a></sup>
  
 ##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a><a href="#refb" title="Return to top">↩</a> #####
 
