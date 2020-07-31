@@ -58,12 +58,12 @@ a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annu
 
 b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7" id="ref7">7</a></sup>, at the entity level:
 
-   i. Registered or exempt charities (as provided in the Charities Act);
-  ii. Members of the National Council of Social Service;
- iii. National sports associations;
-  iv. National disability sports associations;
-   v. Specified arts and culture societies; or
-  vi. Specified trade associations.
+   i. Registered or exempt charities (as provided in the Charities Act);<br>
+  ii. Members of the National Council of Social Service;<br>
+ iii. National sports associations;<br>
+  iv. National disability sports associations;<br>
+   v. Specified arts and culture societies; or<br>
+  vi. Specified trade associations.<br>
  
 <u>Additional Rental Relief</u>
 
