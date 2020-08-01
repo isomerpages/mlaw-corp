@@ -16,6 +16,8 @@ Section 7B therefore provides that such tenants who qualify for relief will not 
 
 To ensure that that landlords are treated fairly and are not out-of-pocket for service, maintenance, and utilities charges that they continue to incur during the holding over period, the prescribed rates generally require tenants to pay such charges during the holding over period, if such charges had been provided for under the contract, prior to its expiry.
 
+Click [here](/files/Tenants-inability-to-vacate.pdf) for a summary of this relief.
+
 #### FAQs ####
 <b><u>For tenants</u></b>
 
