@@ -19,25 +19,39 @@ For press releases on the Act, please click on the following links:
  
 For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-bill).
 
-For the video on the Act, please click the following links:
+For the video on the Act, please click on the following links:
 * [English](https://www.youtube.com/watch?v=wFm5Het7JE4&feature=youtu.be){:target="_blank"}
 * [Chinese](https://youtu.be/PC_otX-GABg){:target="_blank"}
 * [Malay](https://www.youtube.com/watch?v=xAnV5eE9rjs){:target="_blank"}
 * [Tamil](https://www.youtube.com/watch?v=SYZVTkcSTOg){:target="_blank"}
 
-For the full text of the Act, please click [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}.
+For the full text of the relevant legislation, please click on the following links:
+* [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}
+* [COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?DocDate=20200730){:target="_blank"}
 
 
-#### COVID-19 (Temporary Measures) (Amendment) Bill 2020 ####
+#### COVID-19 (Temporary Measures) (Amendment) Act 2020 ####
 
 For an overview of the Rental Relief Framework, please click [here](/covid19-relief/rental-relief-framework-for-SMEs).
 
-For press release on the Bill, please click [here](/news/press-releases/new-rental-relief-framework-for-smes).
+For an overview of the relief for tenants who are unable to vacate their business premises, please click [here](/covid19-relief/relief-for-tenants-unable-to-vacate-premises).
 
-For infographics, please click the following links:
-* [Rental Relief Framework](/files/Infographic-Rental-Relief-Framework.pdf)
-* [Support for Tenants and Landlords](/files/Infographic-Support-for-Tenants-and-Landlords.pdf)
+For an overview of the cap on late payment interest or charges for specific contracts, please click [here](/covid19-relief/cap-on-late-payment-interest-charges).
+
+For press releases on the Amendment Act, please click on the following links:
+* [New Rental Relief Framework for SMEs](/news/press-releases/new-rental-relief-framework-for-smes)
+* [Commencement of Rental Relief Framework](/news/press-releases/2020-07-30-commencement-of-rental-relief-framework)
+* [COVID-19 (Temporary Measures) Act Enhanced to Extend Relief to an Inability to Vacate Business Premises and to Cap Late Payment Interest and Charges](/news/press-releases/covid-19-temporary-measures-act-enhanced-inability-to-vacate-cap-late-payment-interest-and-charges)
+
+For infographics, please click on the following links:
+* [Rental Relief Framework - Key Features](/files/1RentalReliefKeyFeatures.pdf)
+* [Rental Relief Framework - Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)
+* [Rental Relief Framework - Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf)
+* [Support for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf)
+* [Relief for Inability to Vacate Business Premises](/files/Tenants-inability-to-vacate.pdf)
 
 For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-amendment-bill).
 
-For the full text of the Bill, please click [here](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"}.
+For the full text of the relevant legislation, please click on the following links:
+* [COVID-19 (Temporary Measures) (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"}
+* [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"}
