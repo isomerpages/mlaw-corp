@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: FAQs for Rental Relief Framework for SMEs & NPOs
-permalink: /covid19-relief/faqs/rental-relief
+permalink: /covid19-relief/faq/rental-relief
 breadcrumb: FAQs for Rental Relief Framework for SMEs and NPOs
 collection_name: covid19
 second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
