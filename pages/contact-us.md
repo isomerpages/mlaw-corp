@@ -38,6 +38,7 @@ You can send us your feedback and enquiries on the following issues:
 * Exemptions for Admission to the Singapore Bar
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
+* Licensing & Regulation of Insolvency Practitioners Division
 
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us At Minlaw" alt="Contact Us At Minlaw" style="width: 300px; float: left;"></a>
