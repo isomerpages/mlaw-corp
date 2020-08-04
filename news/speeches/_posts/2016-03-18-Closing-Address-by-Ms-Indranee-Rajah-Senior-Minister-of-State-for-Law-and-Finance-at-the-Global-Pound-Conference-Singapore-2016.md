@@ -145,7 +145,7 @@ Dispute resolution practitioners,
 27. We are committed to mediation as an alternative means of dispute resolution. We see it as complementary to court litigation and arbitration.
     <ol style="list-style-type: lower-alpha">
     <li>Our courts espouse this process as a means to achieving lower-cost, non-adversarial settlement of disputes.</li>
-    <li>ur first Community Mediation Centre, or CMC, was set up in 1998 and it has grown from strength to strength, having mediated more     than 7,500 cases.</li>
+    <li>Our first Community Mediation Centre, or CMC, was set up in 1998 and it has grown from strength to strength, having mediated more     than 7,500 cases.</li>
     </ol>
 
 
