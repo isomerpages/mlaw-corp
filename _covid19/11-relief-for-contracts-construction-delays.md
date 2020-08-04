@@ -15,7 +15,7 @@ The relief will apply to a contract between A and B (the “affected contract”
 
 a.  The affected contract does **<u>not</u>** fall within a prescribed class of contracts
     
-b.  The affected contract is in force during the prescribed period (20 April 2020 to 19 October 2020)
+b.  The affected contract is in force during the prescribed period 
     
 c.  During the period from 1 February 2020 to 19 October 2020 (both days inclusive), the affected contract (between A and B) is affected by a breach or delay in a construction or supply or related contract (which need **<u>not</u>** be between A and B)
     
@@ -40,6 +40,6 @@ The example below illustrates how the relief will work.
     
 -   Due to the COVID-19 circuit breaker measures, C will only be able to complete the renovation works on 1 July 2020 (2 months delay).
     
--   A will be in the difficult position. The agreement to provide a 3-month rent-free period was affected by the circuit breaker measures. Further, A’s business cannot operate from 2 May 2020 to 1 July 2020, as the premises are under renovation. Despite not having any cashflow, A will still have to pay B rent during this period.
+-   A will be in a difficult position. The agreement to provide a 3-month rent-free period was affected by the circuit breaker measures. Further, A’s business cannot operate from 2 May 2020 to 1 July 2020, as the premises are under renovation. Despite not having any cashflow, A will still have to pay B rent during this period.
     
 A or B may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. The Assessor may make adjustments to A’s and B’s contractual obligations, as prescribed by the Minister.

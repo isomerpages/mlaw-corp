@@ -97,9 +97,9 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	The Act does not extend the option period of the OTP.
 
-*	The option period may, subject to the necessary regulatory approvals, be extended by:
+*	The option period may be extended by:
 
-    *	Agreement between the buyer and seller; or
+    *	Agreement between the buyer and seller (subject to the necessary regulatory approvals); or
     *	A determination by an Assessor.
 
 
@@ -107,7 +107,7 @@ for <u>residential</u> properties sold by housing developers (both private housi
 
 *	The Act does not waive any regulatory requirements.
 
-*	Specifically for buyers of <u>private properties</u>, they must also write to the Controller of Housing via email at [ura_coh_registry@ura.gov.sg](mailto:ura_coh_registry@ura.gov.sg) for approval to extend the OTP (if the developer is a licensed private housing developer). 
+*	Specifically, buyers of <u>private properties who wish to negotiate with the developer for an extension of the Option Period</u>, must also write to the Controller of Housing via email at [ura_coh_registry@ura.gov.sg](mailto:ura_coh_registry@ura.gov.sg) for approval to extend the OTP (if the developer is a licensed private housing developer). 
 
 *	You can check whether the developer is a licensed private housing developer at [https://spring.ura.gov.sg/lad/ecoh2/main/homes.cfm](https://spring.ura.gov.sg/lad/ecoh2/main/homes.cfm).
  
@@ -271,8 +271,6 @@ for <u>residential</u> properties sold by housing developers (both private housi
 *	We would encourage parties to acknowledge that COVID-19 has had a significant impact on everyone, and therefore act reasonably and work together to reach a mutually acceptable solution.  This may include extending the OTP for a reasonable period of time, or agreeing on the amount of booking fee to be forfeited. 
 
 *	If parties cannot agree, either party may make an application for an Assessor’s determination. The Assessor will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
-
-*	Please note that any extension is subject to the necessary regulatory approvals.
 
 
 **33.	I cannot deliver vacant possession / rectify defects as required under the S&P Agreement / AFL. Does the Act offer any relief?**
