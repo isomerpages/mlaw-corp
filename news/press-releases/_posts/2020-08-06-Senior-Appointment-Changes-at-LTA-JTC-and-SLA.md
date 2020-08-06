@@ -62,7 +62,6 @@ permalink: /news/press-releases/Senior-Appointment-Changes-at-LTA-JTC-and-SLA
 <b>MINISTRY OF TRANSPORT</b>
 <br><b>MINISTRY OF TRADE AND INDUSTRY</b>
 <br><b>MINISTRY OF LAW</b>
-
 <br><br><b>6 AUGUST 2020</b>
 
 
