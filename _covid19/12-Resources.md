@@ -55,7 +55,7 @@ For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, p
 For the video on the rental relief framework, please click on the following links:
 * [English](https://youtu.be/r4NZHyokE24){:target="_blank"}
 * [Chinese](https://youtu.be/pEVlocEW1d4){:target="_blank"}
-* [Malay](https://youtu.be/pEVlocEW1d4){:target="_blank"}
+* [Malay](https://youtu.be/bOY3U2wtSr8){:target="_blank"}
 * [Tamil](https://youtu.be/laNKU1NMpKA){:target="_blank"}
 
 For the full text of the relevant legislation, please click on the following links:
