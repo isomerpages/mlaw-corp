@@ -52,6 +52,12 @@ For infographics, please click on the following links:
 
 For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-amendment-bill).
 
+For the video on the rental relief framework, please click on the following links:
+* [English](https://youtu.be/r4NZHyokE24){:target="_blank"}
+* [Chinese](https://youtu.be/pEVlocEW1d4){:target="_blank"}
+* [Malay](https://youtu.be/pEVlocEW1d4){:target="_blank"}
+* [Tamil](https://youtu.be/laNKU1NMpKA){:target="_blank"}
+
 For the full text of the relevant legislation, please click on the following links:
 * [COVID-19 (Temporary Measures) (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"}
 * [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"}
