@@ -11,7 +11,7 @@ second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform C
 #### Types of Contracts Covered by the Act ####
 
 |No. | Contract | FAQs
-|1. | [Leases and licences of non-residential property](/files/1-Tenants.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence)
+|1. | [Leases and licences of non-residential property](/files/1-Tenants.pdf) <br>"Important note:" | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence)
 |2. | [Options to purchase and sale and purchase agreements with housing developers](/files/2-Buyers.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/otps-and-s-and-p-agreements)
 |3. | [Hire-purchase and conditional sales agreements](/files/3-Hirers.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/hire-purchase-agreements)
 |4. | [Lease or Rental agreements for commercial equipment](/files/4-Renters.pdf) | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements)
