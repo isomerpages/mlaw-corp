@@ -11,11 +11,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
   * <a href="#intro" id="refa">Introduction</a> 
   * <a href="#hardship" id="refb">Landlord Financial Hardship</a> 
   * <a href="#application" id="refc">Application Process</a> 
-  * Additional Resources <br>
-    - [Registrar’s Directives](/files/RentalReliefRegistrarsDirective.pdf) <br>
-    - [Form 1 (Regulation 23(1)(b)) – Application for Determination by Rental Relief Assessor](/files/RentalReliefForm1.pdf)  <br>
-    - [Form 7 (Regulation 23(1)(5)) – Declaration of Service](/files/RentalReliefForm7.pdf) <br>
-    - [Form 8 (Regulation 24) – Response to Application for Determination by Rental Relief Assessor](/files/RentalReliefForm8.pdf) <br>
+  * <a href="#resources" id="refc">Additional Resources</a> 
 
 ##### <a name="intro">Introduction</a><a href="#refa" title="Return to top">↩</a> #####
 
@@ -67,3 +63,12 @@ The tenant-occupier may, no later than 5 working days after being served with a 
 
   - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalrelief-response-to-application-corppass) (CorpPass)
   - If applying as an individual, please use this [link](https://go.gov.sg/rentalrelief-response-to-application) (SingPass) 
+
+##### <a name="resources">Additional Resources</a><a href="#refa" title="Return to top">↩</a> #####
+
+The prescribed forms relating to rental relief assessment are linked below for reference only. Please note that submissions to the Registry should be made using the links provided above on this page, with SingPass / CorpPass authentication.
+
+   - [Registrar’s Directives](/files/RentalReliefRegistrarsDirective.pdf) <br>
+   - [Form 1 (Regulation 23(1)(b))](/files/RentalReliefForm1.pdf)  <br>
+   - [Form 7 (Regulation 23(1)(5))](/files/RentalReliefForm7.pdf) <br>
+   - [Form 8 (Regulation 24)](/files/RentalReliefForm8.pdf) <br>
