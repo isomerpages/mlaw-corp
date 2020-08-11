@@ -4,8 +4,7 @@ title: Further Information on Application for Assessment
 permalink: /covid19-relief/further-information-on-application-for-assessment
 breadcrumb: Further Information on Application for Assessment 
 collection_name: covid19
-second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
-third_nav_title: Additional Resources
+
 ---
 ### Further Information on Application for Assessment ###
 
@@ -24,19 +23,19 @@ Under the COVID-19 (Temporary Measures) Act and COVID-19 (Temporary Measures) (R
 
 The application for assessment must be made within 10 working days after receiving (a copy of) the notice of cash grant, and a rental relief assessor can ascertain any of the following:
 
-    a)	Whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief; and/or
+   a)	Whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief; and/or
 
-    b)	Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
+   b)	Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
 
 ##### <a name="hardship">Landlord Financial Hardship</a><a href="#refa" title="Return to top">↩</a> #####
 
 Landlords who meet all the following criteria may apply to a rental relief assessor to reduce the amount of Additional Rental Relief they have to provide:
 
-    a)	The applicant landlord must be an individual or a sole proprietor, and the owner of the prescribed property;
+   a)	The applicant landlord must be an individual or a sole proprietor, and the owner of the prescribed property;
 
-    b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned by the landlord (whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
+   b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned by the landlord (whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
-    c)	The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income in that year.
+   c)	The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income in that year.
 
 If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
