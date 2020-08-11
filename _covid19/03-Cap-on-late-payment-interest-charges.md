@@ -43,4 +43,4 @@ The cap on late payment interest or charges does not apply to SME secured loans 
 
 * You may refer to MAS’ website ([Measures for Individuals](https://www.mas.gov.sg/regulation/covid-19/supporting-individuals-through-covid-19), [Measures for Businesses](https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19)) and ABS’ website ([Special Financial Relief Programme](http://www.abs.org.sg/consumer-banking/sfrp)) for more information on the banks’ relief measures and contact details.
 
-Click [here](/files/Illustrations_Late_Payment_Interest_Charges_Cap.pdf) for illustrations of how the cap on late payment interest and charges applies. 
+Click [here](/files/Illustrations_Late_Payment_Interest_Charges_Cap2.pdf) for illustrations of how the cap on late payment interest and charges applies. 

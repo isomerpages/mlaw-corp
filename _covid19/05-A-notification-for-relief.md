@@ -9,7 +9,19 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 
 ### Notification for Relief ### 
 
-We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act.
+We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
+
+<u>Rental Relief and Additional Rental Relief under the Amendment Act</u> 
+
+Eligible tenant occupiers, seeking rental relief under the Amendment Act, <u>do not</u> have to serve a Notification for Relief on their landlord.  
+
+Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties. 
+
+The Amendment Act also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
+
+Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental relief under the Amendment Act. 
+
+<u>Relief under the Act</u>
 
 If you require relief under the Act for a contract that is covered by Part 2 of the [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}, you have to serve a <b>Notification for Relief</b>.
 
