@@ -22,6 +22,7 @@ The Amendment Act also provides for an automatic moratorium on enforcement actio
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental relief under the Amendment Act. 
 
 <u>Relief under the Act</u>
+
 If you require relief under the Act for a contract that is covered by Part 2 of the [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}, you have to serve a <b>Notification for Relief</b>.
 
 The party seeking relief must serve a <b>Notification for Relief</b> on the following Recipients, where applicable:
