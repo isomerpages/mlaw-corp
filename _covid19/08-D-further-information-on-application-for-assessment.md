@@ -64,7 +64,7 @@ The tenant-occupier may, no later than 5 working days after being served with a 
   - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalrelief-response-to-application-corppass) (CorpPass)
   - If applying as an individual, please use this [link](https://go.gov.sg/rentalrelief-response-to-application) (SingPass) 
 
-##### <a name="resources">Additional Resources</a><a href="#refa" title="Return to top">↩</a> #####
+##### <a name="resources">Additional Resources (for reference only)</a><a href="#refa" title="Return to top">↩</a> #####
 
 The prescribed forms relating to rental relief assessment are linked below for reference only. Please note that submissions to the Registry should be made using the links provided above on this page, with SingPass / CorpPass authentication.
 
