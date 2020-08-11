@@ -8,7 +8,7 @@ second_nav_title: Part 2 of the Act-Application for an Assessor’s Determinatio
 ---
 ### FAQs for Proceedings before an Assessor and Assessor’s Determinations ###
 
-Important note: If you have specific questions on the rental relief assessors, such as the grounds for which a landlord may submit an application for assessment and the process for assessment, please click [here](https://www.mlaw.gov.sg/covid19-relief/faq/rental-relief) for the FAQs.
+<u>Important note:</u> If you have specific questions on the rental relief assessors, such as the grounds for which a landlord may submit an application for assessment and the process for assessment, please click [here](https://www.mlaw.gov.sg/covid19-relief/faq/rental-relief) for the FAQs.
 
 **1.	Who are the Assessors?**
 *	The Assessors are qualified lawyers, public accountants, chartered accountants with at least 3 years’ working experience, or persons who have at least 3 years working experience in or relating to law, accountancy, finance, business management, building and construction or architecture. 
