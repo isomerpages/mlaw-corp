@@ -146,6 +146,7 @@ b)  Whether the applicant landlord qualifies to provide only half the Additional
 
 The rental relief assessor’s determination will be binding on all landlords (including the property owner) and the tenant-occupier, and will not be appealable. 
 
+Please refer to [link](/covid19-relief/further-information-on-application-for-assessment) for further information on the application for assessment. 
 
 ##### <a name="repay">Repayment Scheme for Rental Arrears<a href="#refe" title="Return to top">↩</a> #####
 
@@ -162,7 +163,9 @@ a)  Collect immediate payment of all the arrears, including any applicable inter
 
 b)  Exercise any of its rights under the lease or licence agreement.
 
-In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information to their landlord, including the balance sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be accompanied by a statutory declaration. The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears.  
+In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information<sup><a href="#fn14" id="ref14">14</a></sup> to their landlord, supported by a statutory declaration on their balance sheet, profit and loss statement, cash flow statement and statement of changes in equity (“prescribed documents”) from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of the form available at: [link](/files/RepaymentSchemeForm.pdf).
+[Exhibit A - Statement of Accounts](/files/ExhibitAStatementOfAccounts.xlsx) <br>
+[Exhibit B - Balance Sheet](/files//ExhibitBBalanceSheet.xlsx) <br>
 
 <br>
 <sup><u>Footnotes</u></sup>
@@ -179,3 +182,4 @@ In addition, if the tenant-occupier terminates the lease or licence and has two 
 <p><sup id="fn11">11. Please refer to Footnote 10 for further information. <a href="#ref11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
 <p><sup id="fn12">12. The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
 <p><sup id="fn13">13. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the <a href="https://sso.agc.gov.sg/Act/COVID19TMA2020">COVID-19 (Temporary Measures) Act</a>. <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
+<p><sup id="fn14">14.  Please refer to Regulation 41(2)(b) of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for a complete list of the prescribed documents. <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
