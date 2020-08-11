@@ -11,10 +11,10 @@ Organisation Structure
 
 Click image below to enlarge
 <div class="image">
-  <a href="/files/Minlaw Org Chart 12 August 2020.pdf">
+  <a href="/files/Minlaw Org Chart 12 August 2020_copy.pdf">
     <br>
     <br>
-    <img src="/images/Minlaw Org Chart 12 August 2020.png" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/Minlaw Org Chart 12 August 2020_copy.png" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
