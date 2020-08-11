@@ -223,7 +223,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 **17.	What can a landlord do if he is not satisfied that his tenant is eligible for rental relief after reviewing the documents provided by his tenant?**
 
-*	If a landlord and tenant-occupier are unable to reach a compromise, the property owner and/or any intermediary landlord(s) may make an application using the prescribed form, within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief. Please refer to the section Application for Assessment for details.
+*	If a landlord and tenant-occupier are unable to reach a compromise, the property owner and/or any intermediary landlord(s) may make an application using the prescribed form [here](/covid19-relief/rental-relief-framework-for-smes#assess) within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief. Please refer to the section [Application for Assessment](/covid19-relief/further-information-on-application-for-assessment) for details.
 
 
 **18.	What if the landlord refuses to grant rental waivers under the rental relief framework? How can tenants ensure that they will receive the rental waivers? Are there any penalties for non-compliance by landlords?**
@@ -399,16 +399,21 @@ b)	Satisfies one or more of the following conditions:
 
     b)	Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
 
-*	There are no charges for making an application. The application must be accompanied by documents and information as specified in the Registrar’s directives, which will be uploaded on this website in due course. 
+*	There are no charges for making an application. The application must be accompanied by documents and information as specified in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf).
 
 *	After an application is made, the landlord and the tenant occupier may be asked to submit additional information or documents, or attend a hearing, either virtually or in person. All parties should make their best effort to comply with these requests, to facilitate a timely resolution of the application.
 
 *	The rental relief assessor’s determination will be binding on all landlords and the tenant-occupier, and will not be appealable. 
 
-*	More details on the application process will be shared in due course. 
+*	If you wish to submit an application, please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#assess).
 
 
-**36.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
+**36.	How can I contact the Registry of the Rental Relief Assessors?**
+
+*	If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-772 (1800-CALL-RRA). 
+
+
+**37.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
 
 *	The assessment mechanism will use objective criteria to determine tenants’ eligibility and landlords that are facing financial hardship. 
 
@@ -417,7 +422,7 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="hardship"><u>Support for financial hardship</u></a><a href="#ref2b" title="Return to top">↩</a>
 
-**37.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
+**38.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
 
 *	The Government recognises that there are landlords who may face genuine financial hardship.
 
@@ -431,17 +436,17 @@ b)	Satisfies one or more of the following conditions:
 
 *	If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
-**38.	What documents must a landlord submit to prove his eligibility?**
+**39.	What documents must a landlord submit to prove his eligibility?**
 
-*	The documents to be submitted will be provided for in the Registrar’s directives, upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements. The Registrar’s directives will be uploaded on this website in due course.
+*	The documents to be submitted will be provided for in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf), upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements. 
 
 
-**39.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
+**40.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
 
 *	If the additional rental relief that has to be paid by the landlord is halved, the tenant will have to pay his share of the rent accordingly. 
 
 
-**40.	What other financial assistance measures are available to landlords?**
+**41.	What other financial assistance measures are available to landlords?**
 
 *	MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
 
@@ -456,7 +461,7 @@ b)	Satisfies one or more of the following conditions:
 
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
 
-**41.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
+**42.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
 *	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Oct 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Oct 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
 
@@ -470,19 +475,24 @@ b)	Satisfies one or more of the following conditions:
     -	Take steps under the contract for arrears not paid
 
 
-**42.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
+**43.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
 
 *	The written notice should be served no later than 19 Oct 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
 
 
-**43.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
+**44.	What is the formula for determining the instalment payments?**
+
+*	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
+
+
+**45.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
 
 *	Subject to contractual arrangements, landlords may draw on the existing security deposits to offset accumulated rental arrears, but must leave the equivalent of 1 month of rent remaining in the security deposit.
 
 *	If the tenant-occupier takes up a statutory repayment schedule, at the end of the repayment period, the tenant will be obliged to reinstate the security deposit to the contractual amount.
 
 
-**44.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
+**46.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
 
 *	All outstanding arrears, including interest and other charges, will be accelerated and immediately payable in accordance with the terms of the original contract, and the landlord will be entitled to exercise any of the landlord’s rights under the contract for non-payment of rent and the interest and other specified charges if:
 
@@ -494,10 +504,10 @@ b)	Satisfies one or more of the following conditions:
 
 *	Tenant-occupiers who have rescheduled the payment of arrears will have to provide specified documents and information to their landlords if: (a) the lease agreement is terminated or repudiated during the repayment period; and (b) there are 2 or more rescheduled repayment instalments outstanding. 
 
-*	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form, which will be uploaded on this website in due course. 
+*	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form. Please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#repay) for more details. 
 
 
-**45.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
+**47.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
 
 *	The Act is intended to prescribe a workable standard for the repayment schedule. Landlords and tenants can negotiate an accelerated or different repayment schedule if they wish.
 
