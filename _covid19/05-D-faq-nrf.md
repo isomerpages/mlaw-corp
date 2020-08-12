@@ -8,7 +8,6 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 ---
 
 ### Notification for Relief ###
-<u>I am the party seeking relief and sender of the Notification for Relief…</u>
 
 **1. I am seeking waiver of rent for SMEs that has been announced by the Government.  Must I serve a Notification for Relief?**  
 * No, eligible tenant occupiers, seeking rental waivers under the rental relief framework, <u>do not</u> have to serve a Notification for Relief on their landlord. 
@@ -19,6 +18,7 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 
 * For more information on the rental relief framework under the Amendment Act, please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes). 
 
+<u>I am the party seeking relief and sender of the Notification for Relief…</u>
 
 **2. Must a Notification for Relief take a certain form?**  
 
