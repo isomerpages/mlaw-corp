@@ -35,7 +35,7 @@ second_nav_title: Part 2 of the Act-Application for an Assessor’s Determinatio
 
 **7.	The other party has disclosed information and supporting documents in the course of proceedings before the Assessor. Can I disclose or publish that information or documents to a third party?** 
 
-*	You cannot disclose to a third party any statement or document submitted, created or made for the purposes of an Assessor’s proceeding (including the Application, Response, and any other forms), or any information (whether written or oral) that is disclosed in the course of an Assessor’s proceedings: 
+*	You cannot disclose to a third party any statement or document submitted, created or made for the purposes of an Assessor’s proceeding (including the Application, Response, and any other forms), or any information (whether written or oral) that is disclosed in the course of an Assessor’s proceedings, except: 
 
 	   *	With the consent of the other party to whom the information relates; 
 
@@ -46,7 +46,7 @@ second_nav_title: Part 2 of the Act-Application for an Assessor’s Determinatio
 
 *	**Any party who contravenes the above is guilty of a criminal offence.** 
 
-**8.	I have received my determination. Can I request for a further explanation or more details on the reason for the determinations?**
+**8.	I have received my determination. Can I request for a further explanation or more details on the reason for the determination?**
 
 *	The Assessor’s determination is not appealable. 
 
