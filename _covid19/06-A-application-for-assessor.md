@@ -8,6 +8,11 @@ second_nav_title: Part 2 of the Act-Application for an Assessor’s Determinatio
 ---
 ### Steps in the Proceedings ###
 
+You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
+
+Please note that the outcome of the **Application** will be final. There will be no appeals from the Assessor’s determination. 
+
+<u>Rental relief and Additional Relief under the Amendment Act</u>
 If  you are a tenant seeking rental relief under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you do not have to make an application for an Assessor’s determination under Part 2 of the Act. 
 
 The rental relief framework provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
@@ -18,10 +23,7 @@ If the landlord and tenant occupier are still unable to reach a compromise, the 
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief assessors. The documents required for the application will be uploaded on the website in due course. 
 
-Please note that the outcome of the **Application** will be final. There will be no appeals from the Assessor’s determination. 
-
-You should only make an application for an Assessor’s Determination (“<b>Application</b>”) if you are unable to come to an agreement with the other party or parties to the contract. 
-
+<u>Relief under the Act</u>
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
 
