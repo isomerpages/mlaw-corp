@@ -70,7 +70,7 @@ COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circ
 
 * The reliefs under the Act **do not take effect automatically.**
 
-* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, that you wish to seek relief from and all other parties to the contract. Please click on [here](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for more information on how to serve the Notification for Relief. You may also wish to refer to FAQ (7) (for consumers) and FAQ (21) (for vendors) below for more information.
+* If you qualify for the relief, you need to first **serve a Notification for Relief** on the other party to the contract, that you wish to seek relief from and all other parties to the contract. Please click [here](https://www.mlaw.gov.sg/covid19-relief/notification-for-relief) for more information on how to serve the Notification for Relief. You may also wish to refer to FAQ (7) (for consumers) and FAQ (21) (for vendors) below for more information.
 
 * Once the Notification for Relief has been served on the other parties to the contract, the reliefs in FAQ (5) above will apply.
 
@@ -105,7 +105,7 @@ COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circ
 **(i)	Does the Act require the vendor to allow my cancellation?** 
 *	Whether the event is to be postponed or cancelled are matters for the parties to come to a mutually acceptable agreement on, or, if parties cannot agree, the determination of an Assessor under the Act.  
 *	 We encourage parties to be reasonable and to work out a mutually acceptable solution to the contractual issues that have been created by COVID-19.
-*	If you and the vendor are unable to agree, either of you may make an application to the Assessor. Please click on [here](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
+*	If you and the vendor are unable to agree, either of you may make an application to the Assessor. Please click [here](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
 **(ii)	If the event or tour is cancelled, is the vendor required to provide a full refund of the deposit?** 
 *	Upon the service of a Notification for Relief, the vendor shall not forfeit any deposit. If the deposit has been forfeited, the deposit must be restored until parties come to an agreement, or if parties cannot agree, until the Assessor makes a determination. 
@@ -135,7 +135,7 @@ o	Please click [here](https://www.mlaw.gov.sg/covid19-relief/application-for-ass
 
 **12. I prepaid for my event or tour. Does the Act apply to prepayments as well?**
 
-* It is possible that the prepayment may be considered a deposit for the purposes of the Act. This depends on the terms of your contract. If the prepayment is considered a deposit for the purposes of the Act, the reliefs applicable to deposits will apply (see (d)). 
+* It is possible that the prepayment may be considered a deposit for the purposes of the Act. This depends on the terms of your contract. If the prepayment is considered a deposit for the purposes of the Act, the reliefs applicable to deposits will apply (see FAQ (5)). 
 
 * If you and your vendor are unable to agree, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. This can potentially include a determination that the prepayment is considered a deposit for the purposes of the Act and should be restored, and how it should be dealt with. Please click [here](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms
 
@@ -169,7 +169,7 @@ o	Please click [here](https://www.mlaw.gov.sg/covid19-relief/application-for-ass
 *	An Assessor’s determination is binding on all parties to the application. 
 *	Under the Act, an Assessor’s determination for the vendor to pay a sum of money to the customer may, with the leave of Court, be enforced in the same manner as a judgment or an order of the court. Please seek legal advice on how you may obtain leave of Court to enforce the determination. 
 *	In addition, if the vendor, without reasonable excuse, fails to comply with an Assessor’s determination to pay a sum of money to you, he is guilty of a criminal offence. 
-*	If the vendor has informed you that he requires time to make payment because of his financial situation, he may apply to the Assessor for an extension of time to make payment. Please see FAQ (20) below.  
+*	If the vendor has informed you that he requires time to make payment because of his financial situation, he may write to the Registry to request for an extension of time to make payment. Please see FAQ (24) below.  
 
 **19.	My determination states that the case is not one to which section 5 applies. Does it mean that I do not get my deposit back from the vendor or that the vendor may charge me cancellation fees?**
 
