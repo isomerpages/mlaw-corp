@@ -25,7 +25,6 @@ If the landlord and tenant occupier are still unable to reach a compromise, the 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief assessors. The documents required for the application will be uploaded on the website in due course. 
 
 <u>Relief under the Act</u>
-
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
 
