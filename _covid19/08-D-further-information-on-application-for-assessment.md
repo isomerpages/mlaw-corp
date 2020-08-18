@@ -46,10 +46,7 @@ The Registrar will acknowledge receipt of the application in a few days. If you 
 
 <u>Service of Application and Acknowledgement</u>
 
-After submitting the application and receiving the Registrar’s acknowledgement, the applicant landlord must serve a copy of the application, together with the acknowledgement, on all landlords (including the property owner, if the applicant landlord is not the property owner), and tenants in the property within 5 working days after receipt of the acknowledgement. This can be done via email, registered post, internet-based messaging service, or via the recipients’ contact form on their website/blog/social media/social networking site. Within 1 working day after serving a copy of the application and Registrar’s acknowledgement as described on the related parties, the applicant landlord must submit a declaration to the Registrar using the following links:
-
-  - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalrelief-declaration-of-service-corppass) (CorpPass)
-  - If applying as an individual, please use this [link](https://go.gov.sg/rentalrelief-declaration-of-service) (SingPass) 
+After submitting the application and receiving the Registrar’s acknowledgement, the applicant landlord must serve a copy of the application, together with the acknowledgement, on all landlords (including the property owner, if the applicant landlord is not the property owner), and tenants in the property within 5 working days after receipt of the acknowledgement. This can be done via email, registered post, internet-based messaging service, or via the recipients’ contact form on their website/blog/social media/social networking site. Within 1 working day after serving a copy of the application and Registrar’s acknowledgement as described on the related parties, the applicant landlord must submit a declaration to the Registrar. The Registrar's acknowledgement email will set out the instructions on how such a declaration can be made. 
   
 <u>Next Steps after Submitting Application</u>
 

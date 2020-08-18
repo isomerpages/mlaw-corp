@@ -99,7 +99,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3" id="ref3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
+<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and if it is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> during the period 1 April 2020 to 31 May 2020, the aggregate revenue for such a group is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
 <li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
 </ol>
  <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
@@ -108,6 +108,8 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 <p><sup id="fn4">4. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 <p><sup id="fn5">5. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+
+* Please refer to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform" target="new">online self-assessment tool </a> for a preliminary assessment on the rental waiver that a tenant may be eligible for or that a landlord may be required to provide. 
 
 **5.	Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** 
 
@@ -214,7 +216,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 **16.	How will a landlord know whether the moratorium applies if he has yet to receive IRAS’ notice of cash grant and is unsure of his tenant’s eligibility? What documents should a tenant provide to prove his eligibility?**
 
-*	Rental relief is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to an eligible tenant-occupier. At that point, under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for the rental waivers. 
+*	Rental relief is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to an eligible tenant-occupier. At that point, under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for the rental waivers. (A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. You can refer to the following <a href="http://conp.sg/co-np-directory-listing" target="new">link</a> for a directory of such Commissioners. 
 
 *	Before the notice of cash grant is received by the property owner, should landlords have any doubts as to the eligibility of a tenant-occupier, we encourage both parties to work together and share the necessary information. If a tenant-occupier is confident that they will qualify under the rental relief, they should share the relevant information early to facilitate effective communication with the landlord(s). 
 
@@ -268,14 +270,14 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
     a)	Any payment, or deduction of any amount due under the lease or license agreement, (i) given by the landlord to the tenant on or after 1 February 2020 but before the date of receipt of the copy of the notice of cash grant by the tenant; or (ii) undertaken by the landlord, before the date the notice of cash grant is issued to the property owner, to be given to the tenant; and/or
 
-    b)	Any benefit of the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner to his tenant in respect of the property. 
+    b)	Any benefit of the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner in respect of the property. 
 
 *	Please note that the property owner is still required to provide any remaining rental waiver after taking into account any offsetting as detailed above. 
 
 
 **23.	Why may the sum of the Property Tax Rebate for Year 2020 and the Government cash grant not be equivalent to the rental waiver received by the eligible SME?**
 
-*	The Property Tax Rebate for Year 2020 for non-residential properties and the Government cash grant are based on the Annual Value of the property. This may not be equivalent to the rental waiver to be provided by landlords, which is based on the contractual rent. Tenants will still have to pay for maintenance fee and charges for the provision of services such as cleaning and security. Nevertheless, the landlord is obliged to provide the rental waiver based on the contractual rental as defined.
+*	The Property Tax Rebate for Year 2020 for non-residential properties and the Government cash grant are based on the Annual Value of the property. This may not be equivalent to the rental waiver to be provided by landlords, which is based on the contractual rent. Tenants will still have to pay for maintenance fee and charges for the provision of services such as cleaning and security. Nevertheless, the landlord is obliged to provide the rental waiver based on the contractual rental as defined. The Property Tax Rebate and Government cash grant are not intended to cover the full amount of rental waivers exactly. 
 
 
 **24.	Generally, the Property Tax Rebate has to be passed on by July 2020 and December 2020. However the rental waiver covers the period of April to July 2020 for qualifying commercial properties and April to May 2020 for other non-residential properties. How can landlords reconcile these obligations? With the new Rental Relief Framework, are property owners still required to pass on the Property Tax Rebate for Year 2020?**
@@ -312,6 +314,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	However, in cases where rent has already been paid for the relief period, the tenant can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, receive a refund from the landlord.
 
+* Tenant occupiers may use the [online rental relief calculator](/files/UpdatedRentalReliefCalculator.xlsx) to estimate the rental waivers they are eligible for. 
 
 **28.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**
 
@@ -319,6 +322,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	For instance, if a landlord of a qualifying commercial property has two eligible tenant-occupiers during the period of rental relief – Tenant A (from 1 Jan to 31 May 2020), and Tenant B (from 1 Jun to 31 July 2020), Tenant A will qualify for 1 month of Rental Relief for the month of April 2020, and 1 month of Additional Rental Relief for the month of May 2020.  Tenant B will qualify for 1 month of Rental Relief for the month of June 2020. Tenant B will not qualify for Additional Rental Relief as this only applies to tenant-occupiers who have carried on business at the rented property before 25 March 2020, and have suffered at least a 35% drop in average monthly gross income at the outlet level from April to May 2020 compared to 1 April to 31 May 2019 or alternative periods. 
 
+* Tenant occupiers may use the [online rental relief calculator](/files/UpdatedRentalReliefCalculator.xlsx) to estimate the rental waivers they are eligible for. 
 
 **29.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**
 
@@ -430,7 +434,7 @@ b)	Satisfies one or more of the following conditions:
 
     a)	The applicant landlord must be an individual or a sole proprietor and is the owner of the prescribed property;
 
-    b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether sole or jointly with another and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
+    b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether solely or jointly with another person and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
     c)	The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income.
 
