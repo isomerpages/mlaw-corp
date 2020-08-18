@@ -36,6 +36,7 @@ Examples of the documents that may be relevant for each category of contract can
     *	List of assets held currently by the tenant (if applicable)
   
 *	<u>Landlord</u>: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
+* <u>Important note:</u> If an application has been made to a Rental Relief Assessor: Application form and Determination (if any)
 
 ##### <a name="option">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property</a><a href="#ref1" title="Return to top">↩</a> #####
 *	Option to Purchase (“**OTP**”) given by housing developer
