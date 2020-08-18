@@ -99,7 +99,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and the Singapore group of entities’<sup><a href="#fn3" id="ref3">3</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
+<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and if it is a member of a Singapore group of entities’<sup><a href="#fn3" id="ref3">3</a></sup> during the period 1 APril 2020 to 31 May 2020, the aggregate revenue for such a group is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
 <li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
 </ol>
  <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
@@ -268,14 +268,14 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
     a)	Any payment, or deduction of any amount due under the lease or license agreement, (i) given by the landlord to the tenant on or after 1 February 2020 but before the date of receipt of the copy of the notice of cash grant by the tenant; or (ii) undertaken by the landlord, before the date the notice of cash grant is issued to the property owner, to be given to the tenant; and/or
 
-    b)	Any benefit of the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner to his tenant in respect of the property. 
+    b)	Any benefit of the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner in respect of the property. 
 
 *	Please note that the property owner is still required to provide any remaining rental waiver after taking into account any offsetting as detailed above. 
 
 
 **23.	Why may the sum of the Property Tax Rebate for Year 2020 and the Government cash grant not be equivalent to the rental waiver received by the eligible SME?**
 
-*	The Property Tax Rebate for Year 2020 for non-residential properties and the Government cash grant are based on the Annual Value of the property. This may not be equivalent to the rental waiver to be provided by landlords, which is based on the contractual rent. Tenants will still have to pay for maintenance fee and charges for the provision of services such as cleaning and security. Nevertheless, the landlord is obliged to provide the rental waiver based on the contractual rental as defined.
+*	The Property Tax Rebate for Year 2020 for non-residential properties and the Government cash grant are based on the Annual Value of the property. This may not be equivalent to the rental waiver to be provided by landlords, which is based on the contractual rent. Tenants will still have to pay for maintenance fee and charges for the provision of services such as cleaning and security. Nevertheless, the landlord is obliged to provide the rental waiver based on the contractual rental as defined. The Property Tax Rebate and Government cash grant are not intended to cover the full amount of rental waivers exactly. 
 
 
 **24.	Generally, the Property Tax Rebate has to be passed on by July 2020 and December 2020. However the rental waiver covers the period of April to July 2020 for qualifying commercial properties and April to May 2020 for other non-residential properties. How can landlords reconcile these obligations? With the new Rental Relief Framework, are property owners still required to pass on the Property Tax Rebate for Year 2020?**
@@ -430,7 +430,7 @@ b)	Satisfies one or more of the following conditions:
 
     a)	The applicant landlord must be an individual or a sole proprietor and is the owner of the prescribed property;
 
-    b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether sole or jointly with another and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
+    b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether solely or jointly with another person and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
     c)	The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income.
 
