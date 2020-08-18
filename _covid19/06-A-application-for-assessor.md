@@ -14,7 +14,7 @@ Please note that the outcome of the **Application** will be final. There will be
 
 <u>Rental relief and Additional Relief under the Amendment Act</u>
 
-If  you are a tenant seeking rental relief under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you do not have to make an application for an Assessor’s determination under Part 2 of the Act. 
+<u>Important note</u>: If  you are a SME tenant seeking rental waivers under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you do not need to make an application for an Assessor’s determination under Part 2 of the Act. 
 
 The rental relief framework provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
 
@@ -22,7 +22,7 @@ We encourage both the tenant occupier and the landlord to work together, and for
 
 If the landlord and tenant occupier are still unable to reach a compromise, the landlord may make an application to have a rental relief assessor ascertain whether the tenant occupier is eligible for rental relief under the Amendment Act. 
 
-Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief assessors. The documents required for the application will be uploaded on the website in due course. 
+Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief framework and assessor’s determination under the rental relief framework.
 
 <u>Relief under the Act</u>
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
