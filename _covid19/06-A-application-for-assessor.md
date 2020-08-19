@@ -16,11 +16,9 @@ Please note that the outcome of the **Application** will be final. There will be
 
 <u>Important note</u>: If  you are a SME tenant seeking rental waivers under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you do not need to make an application for an Assessor’s determination under Part 2 of the Act. 
 
-The rental relief framework provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
+Once the property owner receives the notice of cash grant from IRAS, the applicable rental (excluding service and maintenance fees) and any interest payable on the rental is waived.
 
-We encourage both the tenant occupier and the landlord to work together, and for the tenant occupier to share necessary information with the landlord to demonstrate his / her eligibility for rental relief. 
-
-If the landlord and tenant occupier are still unable to reach a compromise, the landlord may make an application to have a rental relief assessor ascertain whether the tenant occupier is eligible for rental relief under the Amendment Act. 
+If there is any disagreement on the tenant’s eligibility for the rental waivers, the landlord may make an application to have a rental relief assessor ascertain the tenant’s eligibility.
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief framework and assessor’s determination under the rental relief framework.
 
