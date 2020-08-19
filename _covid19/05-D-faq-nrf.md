@@ -10,7 +10,7 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 ### Notification for Relief ###
 
 **1. I am seeking waiver of rent for SMEs that has been announced by the Government.  Must I serve a Notification for Relief?**  
-* No, Tenant occupiers, seeking rental waivers under the rental relief framework, <u>do not</u> have to serve a Notification for Relief on their landlord. 
+* No. Tenant occupiers, seeking rental waivers under the rental relief framework, <u>do not</u> have to serve a Notification for Relief on their landlord. 
 
 * Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified Non-Profit Organisations (NPOs) which are tenant-occupiers who operate their business in a rented property (including sub-tenants, licensees and sub-licensees) can receive up to 4 months waiver of rent for qualifying commercial properties (e.g. shops) and up to 2 months waiver of rent for other non-residential properties (e.g. industrial and office properties). 
 
