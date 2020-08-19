@@ -10,13 +10,13 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 ### Notification for Relief ###
 
 **1. I am seeking waiver of rent for SMEs that has been announced by the Government.  Must I serve a Notification for Relief?**  
-* Eligible tenant occupiers, seeking rental waivers under the rental relief framework, <u>do not</u> have to serve a Notification for Relief on their landlord. 
+* No. Tenant occupiers, seeking rental waivers under the rental relief framework, <u>do not</u> have to serve a Notification for Relief on their landlord. 
 
-* Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties. 
+* Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified Non-Profit Organisations (NPOs) which are tenant-occupiers who operate their business in a rented property (including sub-tenants, licensees and sub-licensees) can receive up to 4 months waiver of rent for qualifying commercial properties (e.g. shops) and up to 2 months waiver of rent for other non-residential properties (e.g. industrial and office properties). 
 
-* The Amendment Act also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
+* The Amendment Act also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. The moratorium has taken effect on 31 July 2020 and will end on the date a notice of cash grant is issued by IRAS to the property owner or 31 December 2020, whichever is earlier.
 
-* For more information on the rental relief framework under the Amendment Act, please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes). 
+* For more information on the rental relief framework, please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes). 
 
 <u>I am the party seeking relief and sender of the Notification for Relief…</u>
 
