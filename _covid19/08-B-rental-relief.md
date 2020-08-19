@@ -99,7 +99,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>The tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, and if it is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> during the period 1 April 2020 to 31 May 2020, the aggregate revenue for such a group is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
+<li>The tenant-occupier is a company/entity incorporated in Singapore, and if it is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> during the period 1 April 2020 to 31 May 2020, the aggregate revenue for such a group is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
 <li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
 </ol>
  <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
