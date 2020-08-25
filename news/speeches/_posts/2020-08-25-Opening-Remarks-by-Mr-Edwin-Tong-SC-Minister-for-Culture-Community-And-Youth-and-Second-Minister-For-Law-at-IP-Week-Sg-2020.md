@@ -47,42 +47,42 @@ Ladies and gentlemen<br>
 {:start="15"}
 15.	**Lucence Diagnostics**
 
-		a.	Lucence Diagnostics is one recipient, and a stellar example.
+	a.	Lucence Diagnostics is one recipient, and a stellar example.
 
-		b.	Lucence is a precision oncology company that develops blood tests to detect cancer quickly, accurately, and cost-effectively.
+	b.	Lucence is a precision oncology company that develops blood tests to detect cancer quickly, accurately, and cost-effectively.
 
-		c.	When COVID-19 struck, they moved swiftly to launch a new product, the SAFER™ Sample saliva specimen collection kit.
+	c.	When COVID-19 struck, they moved swiftly to launch a new product, the SAFER™ Sample saliva specimen collection kit.
 
-		d.	The kit allows healthcare professionals to collect saliva samples accurately, safely and conveniently for further testing.
+	d.	The kit allows healthcare professionals to collect saliva samples accurately, safely and conveniently for further testing.
 
-		e.	It also makes testing possible at previously inaccessible areas, expanding the reach of healthcare.
+	e.	It also makes testing possible at previously inaccessible areas, expanding the reach of healthcare.
 
-		f.	Lucence Diagnostics was able to bring this life-saving technology to market quickly because they relied on IP – both their partner’s and their own.
+	f.	Lucence Diagnostics was able to bring this life-saving technology to market quickly because they relied on IP – both their partner’s and their own.
 
-				i.	The technology behind the SAFER™ Sample saliva specimen collection kit was developed by A*STAR.
+		i.	The technology behind the SAFER™ Sample saliva specimen collection kit was developed by A*STAR.
 
-				ii.	Lucence Diagnostics licensed the IP in the technology from A*STAR.
+		ii.	Lucence Diagnostics licensed the IP in the technology from A*STAR.
 
-				iii.	They then used their expertise and know-how built up from developing their own blood tests to effectively commercialise the technology. 
+		iii.	They then used their expertise and know-how built up from developing their own blood tests to effectively commercialise the technology. 
 
-				iv.	By leveraging IP, Lucence Diagnostics was able to benefit the community in a time of need.
+		iv.	By leveraging IP, Lucence Diagnostics was able to benefit the community in a time of need.
 
-		g.	The kit is currently under evaluation in Singapore hospitals, and is commercially available in Hong Kong.
+	g.	The kit is currently under evaluation in Singapore hospitals, and is commercially available in Hong Kong.
 
 {:start="16"}
 16.	**Spic & Span**
 
-		a.	Spic & Span is another outstanding recipient that has leveraged their IP for growth and public benefit during the COVID-19 pandemic.
+	a.	Spic & Span is another outstanding recipient that has leveraged their IP for growth and public benefit during the COVID-19 pandemic.
 
-		b.	They are a cleaning solutions company that developed Speco®, a durable disinfectant solution that protects work environments from harmful microbes.
+	b.	They are a cleaning solutions company that developed Speco®, a durable disinfectant solution that protects work environments from harmful microbes.
 
-		c.	To fight the pandemic, Spic & Span reformulated Speco® to be effective against coronaviruses.
+	c.	To fight the pandemic, Spic & Span reformulated Speco® to be effective against coronaviruses.
 
-		d.	They were able to expand their market presence quickly and also confidently with the reformulated Speco®, based on a robust IP strategy developed even before the crisis.
+	d.	They were able to expand their market presence quickly and also confidently with the reformulated Speco®, based on a robust IP strategy developed even before the crisis.
 
-		e.	The IP strategy guided Spic & Span on protection of key intangible assets, and the licensing options suited to their business.
+	e.	The IP strategy guided Spic & Span on protection of key intangible assets, and the licensing options suited to their business.
 
-		f.	Speco® has been used on more than 1 million square feet of property, including many of Singapore’s important sites such as Changi Airport.
+	f.	Speco® has been used on more than 1 million square feet of property, including many of Singapore’s important sites such as Changi Airport.
 
 {:start="17"}
 17.	Lucence Diagnostics and Spic & Span are successful examples of companies that have captured opportunities and created strong economic and social impact through IP during this challenging time. 
@@ -90,79 +90,79 @@ Ladies and gentlemen<br>
 {:start="18"}
 18.	We would like to help more companies do the same.
 
-**Helping More Enterprises Capture Opportunities Through IP During The COVID-19 Pandemic **
+**Helping More Enterprises Capture Opportunities Through IP During The COVID-19 Pandemic**
 
 {:start="19"}
 19.	Concrete initiatives to empower companies in capturing opportunities through IP are already in place, with more on the way.
 
-		a.	We are accelerating those in the pipeline to support companies through the pandemic.
+	a.	We are accelerating those in the pipeline to support companies through the pandemic.
 
 {:start="20"}
 20.	We want to **upskill enterprises’ IP capabilities and help businesses obtain quicker and easier IP protection**.
 
-		a.	Let me share some of these initiatives.
+	a.	Let me share some of these initiatives.
 
 {:start="21"}
 21.	First, we have launched the **Growing with Resilience through InTangibles, or “GRIT”**, initiative. 
 
-		a.	The Government will partner with different community sectors to help enterprises better manage and monetise their IP in the COVID-19 economy and beyond.
+	a.	The Government will partner with different community sectors to help enterprises better manage and monetise their IP in the COVID-19 economy and beyond.
 
-		b.	This support will include industry-specific resources and tools, including a webinar series. 
+	b.	This support will include industry-specific resources and tools, including a webinar series. 
 
-		c.	Our first webinar focuses on IP in the Arts and Entertainment Sectors, which will premiere at IP Week.
+	c.	Our first webinar focuses on IP in the Arts and Entertainment Sectors, which will premiere at IP Week.
 
-				i.	The pandemic has accelerated digitalisation, moved many businesses online, and sparked changes in their operating models that are critical for their survival.
+		i.	The pandemic has accelerated digitalisation, moved many businesses online, and sparked changes in their operating models that are critical for their survival.
 
-				ii.	Enterprises will increasingly face IP issues in the digital space, which can be foreign to many who are moving online for the first time.
+		ii.	Enterprises will increasingly face IP issues in the digital space, which can be foreign to many who are moving online for the first time.
 
-				iii.	To support these enterprises, speakers from the Government and our creative industry, as well as IP practitioners, will share insights on how businesses can effectively navigate these issues.
+		iii.	To support these enterprises, speakers from the Government and our creative industry, as well as IP practitioners, will share insights on how businesses can effectively navigate these issues.
 
-		d.	More webinars featuring different sectors will be held in the coming months, spanning tourism to education and more.
+	d.	More webinars featuring different sectors will be held in the coming months, spanning tourism to education and more.
 
 {:start="22"}
 22.	Second, we pioneered the **Workforce for IP-Savvy Enterprises, or “WISE”**, programme in April this year.
 
-		a.	**WISE** is a partnership between IPOS and the Singapore Business Federation to help Singapore enterprises identify new business opportunities and build new capabilities through IP. 
+	a.	**WISE** is a partnership between IPOS and the Singapore Business Federation to help Singapore enterprises identify new business opportunities and build new capabilities through IP. 
 
-		b.	It builds on the Framework for IP launched last year to institutionalise IP skillsets and management practices. 
+	b.	It builds on the Framework for IP launched last year to institutionalise IP skillsets and management practices. 
 
-		c.	We currently have seven local companies participating in the pilot.
+	c.	We currently have seven local companies participating in the pilot.
 
-				i.	They hail from diverse industries across the manufacturing, info-communications, and education sectors.
+		i.	They hail from diverse industries across the manufacturing, info-communications, and education sectors.
 
-		d.	And we welcome more companies to participate in this programme.
+	d.	And we welcome more companies to participate in this programme.
 
 {:start="23"}
 23.	Third, **IPOS GO, a mobile app for trade mark applications, will be enhanced with new features**.
 
-		a.	The need for social distancing has disrupted IP services worldwide, including in Singapore. 
+	a.	The need for social distancing has disrupted IP services worldwide, including in Singapore. 
 
-		b.	IPOS’ digital services have minimised the disruption in Singapore, but we are continuing to make the digital experience of obtaining IP protection smoother and quicker.   
+	b.	IPOS’ digital services have minimised the disruption in Singapore, but we are continuing to make the digital experience of obtaining IP protection smoother and quicker.   
 
-		c.	**IPOS GO** was the world’s first mobile app for trade mark applications when it was launched in August 2019.
+	c.	**IPOS GO** was the world’s first mobile app for trade mark applications when it was launched in August 2019.
 
-				i.	The app has since attracted over 3,500 downloads, with more than 500 trade mark applications made through it.
+		i.	The app has since attracted over 3,500 downloads, with more than 500 trade mark applications made through it.
 
-		d.	A new feature will be introduced to enable enterprises to easily look for similar business names, trade marks, domain names and social media account names – all within a single search.
+	d.	A new feature will be introduced to enable enterprises to easily look for similar business names, trade marks, domain names and social media account names – all within a single search.
 
-		e.	The app’s renewal features will also be extended to patents and registered designs.
+	e.	The app’s renewal features will also be extended to patents and registered designs.
 
-		f.	The enhancements will help enterprises make more informed branding decisions and enable fuss-free maintenance of all registered IP in one mobile platform.
+	f.	The enhancements will help enterprises make more informed branding decisions and enable fuss-free maintenance of all registered IP in one mobile platform.
 
 {:start="24"}
 24.	Fourth, we will launch the **SG IP FAST** programme. 
 
-		a.	To help enterprises obtain patent protection more quickly, Singapore is party to several international patent acceleration initiatives, and have also established some of our own.
+	a.	To help enterprises obtain patent protection more quickly, Singapore is party to several international patent acceleration initiatives, and have also established some of our own.
 
-		b.	However, patents are only one aspect of IP protection.
+	b.	However, patents are only one aspect of IP protection.
 
-		c.	We want to enable enterprises to swiftly obtain protection for other types of IP as well.
+	c.	We want to enable enterprises to swiftly obtain protection for other types of IP as well.
 
-		d.	To do so, we will be launching **SG IP FAST**.
+	d.	To do so, we will be launching **SG IP FAST**.
 
-				i.	This extends beyond patents, to also accelerate the registration processes for trade marks and registered designs.
+		i.	This extends beyond patents, to also accelerate the registration processes for trade marks and registered designs.
 
-		e.	Enterprises can secure IP protection in Singapore fast and leverage that to grow their business with confidence.
+	e.	Enterprises can secure IP protection in Singapore fast and leverage that to grow their business with confidence.
 
 **Together, We Can Drive Greater Economic Growth And Societal Impact Through IP**
 
@@ -193,16 +193,16 @@ Ladies and gentlemen<br>
 {:start="33"}
 33.	**IP valuation and disclosure**.
 
-		a.	IPOS is partnering with SGX on the **Intangible Disclosure Evaluation and Audit Scheme,  or “IDEAS”**, to help companies identify and communicate the business value of their key intangible assets.
+	a.	IPOS is partnering with SGX on the **Intangible Disclosure Evaluation and Audit Scheme,  or “IDEAS”**, to help companies identify and communicate the business value of their key intangible assets.
 
-		b.	Beyond disclosure, an inter-agency effort is underway to enhance and formalise intangible asset valuation standards to facilitate monetisation.
+	b.	Beyond disclosure, an inter-agency effort is underway to enhance and formalise intangible asset valuation standards to facilitate monetisation.
 
 {:start="34"}
 34.	**Young IP mediator**. 
 
-		a.	IPOS will also be working with aspiring and fresh law graduates on a **Young IP Mediator** initiative to build up IP mediation experience amongst our youth.
+	a.	IPOS will also be working with aspiring and fresh law graduates on a **Young IP Mediator** initiative to build up IP mediation experience amongst our youth.
 
-		b.	By building local capabilities in this area, we hope to attract more disputes for mediation into Singapore.
+	b.	By building local capabilities in this area, we hope to attract more disputes for mediation into Singapore.
 
 {:start="35"}
 35.	We will continue working with key stakeholders to co-develop national capabilities on IP management.
