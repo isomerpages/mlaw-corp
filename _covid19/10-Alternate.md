@@ -8,7 +8,7 @@ collection_name: covid19
 ### Alternative Arrangements for Meetings ###
 With the spread of COVID-19 infections, and the Government’s safe distancing measures to address this, personal attendance at meetings may not be feasible. However, applicable laws or legal instruments may not permit meetings to be held electronically. Difficulties in holding meetings may give rise to problems in transacting usual commercial and governance matters. 
 
-The following Orders have therefore been made under Section 27 of the Act, to enable meetings to be convened, held and conducted by electronic means, or deferred if necessary, even if it is not otherwise permitted under other laws or written documents.  Meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements.
+The following Orders have therefore been made under Section 27 of the Act, to enable meetings to be convened, held and conducted by electronic means, or deferred if necessary, even if this is otherwise disallowed under other written law or legal instrument. Meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements.
 
 <style type="text/css">	
 .tg  {border-collapse:collapse;border-spacing:0;}	
