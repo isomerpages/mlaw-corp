@@ -47,7 +47,7 @@ His Excellency Sok Sopheak
 <b>III. Mediation in Commercial Disputes</b>
 
 <ol start="8">
-<li>The role of mediation in settling cross-border commercial disputes is growing, as businesses and legal practitioners come to recognise the benefits of mediation as a dispute resolution mechanism. While mediation has clear advantages, it has limited utility if parties are not assured that mediated settlement agreements may be enforced.</li> 
+<li>The role of mediation in settling cross-border commercial disputes is growing, as businesses and legal practitioners come to recognise the benefits of mediation as a dispute resolution mechanism. While mediation has clear advantages, it has limited utility if parties are not assured that mediated settlement agreements may be enforced.</li> </ol>
  
 <ol start="9">
 <li>This is why the entry-into-force of the Convention is significant.</li></ol>
@@ -56,18 +56,18 @@ His Excellency Sok Sopheak
 <b>IV. Benefits of the Singapore Convention on Mediation</b>
 
 <ol start="10">
-<li>The Singapore Convention has much to offer.</li>
+<li>The Singapore Convention has much to offer.</li></ol>
 <ul>
 <li>It is a game-changer in the development of international commercial mediation;</li>
 <li>A milestone for international commerce; and</li>
-<li>A powerful statement in support of multilateralism.</li></ul></ol>
+<li>A powerful statement in support of multilateralism.</li></ul>
 
 <ol start="11">
-<li>The Singapore Convention is the missing third piece, that completes the international dispute resolution enforcement framework.</li>
+<li>The Singapore Convention is the missing third piece, that completes the international dispute resolution enforcement framework.</li></ol>
 <ul>
 <li>It joins instruments such as the New York Convention for arbitration and the Hague Convention on Choice of Court Agreements for litigation.</li>
 <li>With the Singapore Convention, mediation can now stand effectively on its own, while complementing other forms of dispute resolution.</li>
-</ul></ol>
+</ul>
 
 <ol start="12">
 <li>It addresses what had historically been a key obstacle to the growth and adoption of mediation globally – the absence of an effective means to enforce cross-border commercial mediated settlement agreements.</li>
