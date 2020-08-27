@@ -12,7 +12,7 @@ His Excellency Sok Sopheak
 <br>Distinguished Guests
 <br>Ladies and Gentlemen
 
-<br><br>
+<br>
 <b>I. Introduction</b>
 
 <ol start="1">
@@ -25,7 +25,7 @@ His Excellency Sok Sopheak
 <li>At this workshop, my colleagues will share about the provisions of the Convention and its benefits, and exchange views on the Convention. I hope this will be useful to the participants.
 </li></ol>
  
-<br><br>
+<br>
 <b>II. Background</b>
 
 <ol start="4">
@@ -41,9 +41,9 @@ His Excellency Sok Sopheak
 <li>From Cambodia, the delegation was led by H.E. Chiv Songhak, Secretary of State of the Ministry of Justice.</li></ul>
 
 <ol start="7">
-<li> 7.	The Singapore Convention attained the highest number of first-day signatories for any United Nations trade convention. To-date, the Singapore Convention has 53 signatories and 5 parties, and will enter into force on 12 September 2020. This signifies recognition by the international community of the benefits of the Convention.</li></ol>
+<li>The Singapore Convention attained the highest number of first-day signatories for any United Nations trade convention. To-date, the Singapore Convention has 53 signatories and 5 parties, and will enter into force on 12 September 2020. This signifies recognition by the international community of the benefits of the Convention.</li></ol>
  
-<br><br>
+<br>
 <b>III. Mediation in Commercial Disputes</b>
 
 <ol start="8">
@@ -52,7 +52,7 @@ His Excellency Sok Sopheak
 <ol start="9">
 <li>This is why the entry-into-force of the Convention is significant.</li></ol>
 
-<br><br>
+<br>
 <b>IV. Benefits of the Singapore Convention on Mediation</b>
 
 <ol start="10">
@@ -96,7 +96,7 @@ His Excellency Sok Sopheak
 <ol start="18">
 <li>There is strong momentum, and we are confident that more countries will come on-board in the near future.</li></ol>
 
-<br><br>
+<br>
 <b>V. Importance of Mediation in the COVID-19 Climate</b>
 
 <ol start="19">
@@ -126,7 +126,7 @@ His Excellency Sok Sopheak
 <li>offers businesses a cost and time effective alternative for dispute resolution,</li>
 <li>with the added benefit of preserving business relationships. </li></ul>
 
-<br><br><b>VI.	Singapore’s Commitment to the Convention </b>
+<br><b>VI.	Singapore’s Commitment to the Convention </b>
 
 <ol start="26">
 <li>On the bilateral and international fronts, we have been pleased to participate in exchanges, share about the Singapore Convention, and promote the benefits and use of the Convention.
@@ -140,7 +140,7 @@ His Excellency Sok Sopheak
 <ul><li>collaborating with our mediation institutions such as the Singapore International Mediation Centre, the Judiciary, the legal profession, and universities –</li>
 <li>with the aim of building a strong dispute resolution ecosystem.</li></ul>
 
-<br><br><b>VII.	Cambodia</b>
+<br><b>VII.	Cambodia</b>
 
 <ol start="29">
 <li>We are heartened by the interest Cambodia has shown in mediation and the Singapore Convention.</li></ol>
@@ -155,7 +155,7 @@ His Excellency Sok Sopheak
 <ol start="32">
 <li>Today, we are pleased to build on the last workshop, to share more on the Singapore Convention.</li></ol>
 
-<br><br><b>VIII.	Conclusion </b>
+<br><b>VIII.	Conclusion </b>
 <ol start="33">
 <li>Cambodia is a longstanding friend of Singapore.  The economic relationship between Cambodia and Singapore remains strong, despite the global slowdown of economic activities this year. 
 </li></ol>
