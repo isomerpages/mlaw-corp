@@ -2,7 +2,7 @@
 layout: post
 title: Release of Ministries’ Addenda to the President’s Address by MOH, MOE, MSF - “Supporting Each Other Through COVID-19 & Building A More Inclusive, Fair & Cohesive Society”
 date: 2020-08-25
-permalink: /news/press-releases/media-advisory-public-health-and-security
+permalink: /news/press-releases/media-advisory-public-health-and-society
 ---
 
 25 Aug 2020 Posted in [Press releases](/news/press-releases)
