@@ -35,10 +35,7 @@ His Excellency Sok Sopheak
 <li>The Convention provides an effective, efficient and harmonised framework to enforce and invoke cross-border commercial mediated settlement agreements. </li> </ol>
  
 <ol start="6">
-<li>In a wide show of support for the Convention and multilateralism, the international community attended the Singapore Convention Signing Ceremony and Conference on 7 August 2019:</li></ol>
-<ul> 
-<li>70 countries from around the world were represented by Ministers and senior officials.</li>
-<li>From Cambodia, the delegation was led by H.E. Chiv Songhak, Secretary of State of the Ministry of Justice.</li></ul>
+<li>In a wide show of support for the Convention and multilateralism, the international community attended the Singapore Convention Signing Ceremony and Conference on 7 August 2019, 70 countries from around the world were represented by Ministers and senior officials. From Cambodia, the delegation was led by H.E. Chiv Songhak, Secretary of State of the Ministry of Justice. </li></ol>
 
 <ol start="7">
 <li>The Singapore Convention attained the highest number of first-day signatories for any United Nations trade convention. To-date, the Singapore Convention has 53 signatories and 5 parties, and will enter into force on 12 September 2020. This signifies recognition by the international community of the benefits of the Convention.</li></ol>
@@ -56,29 +53,17 @@ His Excellency Sok Sopheak
 <b>IV. Benefits of the Singapore Convention on Mediation</b>
 
 <ol start="10">
-<li>The Singapore Convention has much to offer.</li></ol>
-<ul>
-<li>It is a game-changer in the development of international commercial mediation;</li>
-<li>A milestone for international commerce; and</li>
-<li>A powerful statement in support of multilateralism.</li></ul>
-
+<li>The Singapore Convention has much to offer. It is a game-changer in the development of international commercial mediation, a milestone for international commerce, and a powerful statement in support of multilateralism. </li></ol>
+  
 <ol start="11">
-<li>The Singapore Convention is the missing third piece, that completes the international dispute resolution enforcement framework.</li></ol>
-<ul>
-<li>It joins instruments such as the New York Convention for arbitration and the Hague Convention on Choice of Court Agreements for litigation.</li>
-<li>With the Singapore Convention, mediation can now stand effectively on its own, while complementing other forms of dispute resolution.</li>
-</ul>
+<li>The Singapore Convention is the missing third piece, that completes the international dispute resolution enforcement framework. It joins instruments such as the New York Convention for arbitration and the Hague Convention on Choice of Court Agreements for litigation. With the Singapore Convention, mediation can now stand effectively on its own, while complementing other forms of dispute resolution.</li></ol>
 
 <ol start="12">
 <li>It addresses what had historically been a key obstacle to the growth and adoption of mediation globally – the absence of an effective means to enforce cross-border commercial mediated settlement agreements.</li>
 </ol>
 
 <ol start="13">
-<li>Among the international business community, there had long been calls for such a framework.</li>
-<ul>
-<li>Because companies find it hard to convince their business partners in some jurisdictions to engage in cross-border mediation due to the lack of enforceability.</li>
-<li>There was also a perception that if a company successfully mediates a dispute, but the other party fails to comply, the company is worse off than if it had not attempted mediation, because it would still have to litigate the issue of non-compliance.</li>
-</ul></ol>
+<li>Among the international business community, there had long been calls for such a framework, because companies find it hard to convince their business partners in some jurisdictions to engage in cross-border mediation due to the lack of enforceability. There was also a perception that if a company successfully mediates a dispute, but the other party fails to comply, the company is worse off than if it had not attempted mediation, because it would still have to litigate the issue of non-compliance. </li></ol>
 
 <ol start="14">
 <li>By providing an effective, efficient and harmonised international framework for the enforcement of cross-border commercial mediated settlement agreements, the Singapore Convention strengthens the legitimacy of and confidence in mediation outcomes for businesses to maximise the benefits of mediation.
@@ -121,10 +106,7 @@ His Excellency Sok Sopheak
 </li></ol>
 
 <ol start="25">
-<li>Mediation plays an especially important and relevant role during this period, because it</li></ol>
-<ul> 
-<li>offers businesses a cost and time effective alternative for dispute resolution,</li>
-<li>with the added benefit of preserving business relationships. </li></ul>
+<li>Mediation plays an especially important and relevant role during this period, because it offers businesses a cost and time effective alternative for dispute resolution, with the added benefit of preserving business relationships. </li></ol>
 
 <br><b>VI.	Singapore’s Commitment to the Convention </b>
 
@@ -136,9 +118,7 @@ His Excellency Sok Sopheak
 <li>This is in line with Singapore’s long-term commitment to promote the Singapore Convention and encourage its adoption.</li></ol>
 
 <ol start="28">
-<li>Within Singapore, we have taken a multi-pronged approach,</li></ol>
-<ul><li>collaborating with our mediation institutions such as the Singapore International Mediation Centre, the Judiciary, the legal profession, and universities –</li>
-<li>with the aim of building a strong dispute resolution ecosystem.</li></ul>
+<li>Within Singapore, we have taken a multi-pronged approach, collaborating with our mediation institutions - such as the Singapore International Mediation Centre, the Judiciary, the legal profession, and universities – with the aim of building a strong dispute resolution ecosystem.</li></ol>
 
 <br><b>VII.	Cambodia</b>
 
