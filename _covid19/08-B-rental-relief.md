@@ -460,7 +460,7 @@ b)	Satisfies one or more of the following conditions:
 
 *	Those who need to access additional credit to meet their immediate cashflow needs can either apply for mortgage equity withdrawal loans, or loans under ESG’s Temporary Bridging Loan Programme or Working Capital Loan Scheme.
 
-*	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](www.mas.gov.sg/regulation/covid-19).
+*	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19).
 
 
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
