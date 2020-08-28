@@ -314,7 +314,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	However, in cases where rent has already been paid for the relief period, the tenant can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, receive a refund from the landlord.
 
-* Tenant occupiers may use the [online rental relief calculator](/files/UpdatedRentalReliefCalculator.xlsx) to estimate the rental waivers they are eligible for. 
+* Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
 **28.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**
 
@@ -322,7 +322,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	For instance, if a landlord of a qualifying commercial property has two eligible tenant-occupiers during the period of rental relief – Tenant A (from 1 Jan to 31 May 2020), and Tenant B (from 1 Jun to 31 July 2020), Tenant A will qualify for 1 month of Rental Relief for the month of April 2020, and 1 month of Additional Rental Relief for the month of May 2020.  Tenant B will qualify for 1 month of Rental Relief for the month of June 2020. Tenant B will not qualify for Additional Rental Relief as this only applies to tenant-occupiers who have carried on business at the rented property before 25 March 2020, and have suffered at least a 35% drop in average monthly gross income at the outlet level from April to May 2020 compared to 1 April to 31 May 2019 or alternative periods. 
 
-* Tenant occupiers may use the [online rental relief calculator](/files/UpdatedRentalReliefCalculator.xlsx) to estimate the rental waivers they are eligible for. 
+* Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
 **29.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**
 
@@ -460,7 +460,7 @@ b)	Satisfies one or more of the following conditions:
 
 *	Those who need to access additional credit to meet their immediate cashflow needs can either apply for mortgage equity withdrawal loans, or loans under ESG’s Temporary Bridging Loan Programme or Working Capital Loan Scheme.
 
-*	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](www.mas.gov.sg/regulation/covid-19).
+*	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19).
 
 
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
