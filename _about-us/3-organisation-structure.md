@@ -18,4 +18,4 @@ Click image below to enlarge
   </a>
 </div>
 
-<p class="right-side-updated">Last updated on 01 Jul 2020</p>
+<p class="right-side-updated">Last updated on 27 Jul 2020</p>
