@@ -14,6 +14,8 @@ The rental relief framework provides for mandated equitable co-sharing of rental
 
 These measures are intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are encouraged to work out mutually agreeable arrangements that best address their specific circumstances.
 
+SMEs can also approach their nearest <a href="/files/rentalreliefframework/SMECentre.pdf">SME Centre</a> if they have further queries about the rental relief framework. 
+
  - <a href="#rental" id="refa">Overview of Rental Relief Framework</a> 
  - <a href="#eligibility" id="refb">Eligibility Criteria for Rental Relief and Additional Rental Relief</a> 
  - <a href="#effected" id="refc">How the Rental Waivers will be Effected</a> 
@@ -71,11 +73,11 @@ The Additional Rental Relief will apply to tenant-occupiers who qualify for Rent
 
 a)  <u>For SMEs</u>
 
-   i. Where the tenant-occupier is a company/entity incorporated in Singapore in the period 1 April 2020 to 31 May 2020, the Singapore group of entities’<sup><a href="#fn8" id="ref8">8</a></sup> aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn9" id="ref9">9</a></sup>; and
+   i. (Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. i tis a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn8" id="ref8">8</a></sup> during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn9" id="ref9">9</a></sup>; and
 
-   ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn10" id="ref10">10</a></sup>.
+   ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn10" id="ref10">10</a></sup>.
 
-b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11" id="ref11">11</a></sup>. 
+b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn11" id="ref11">11</a></sup>. 
 
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#refc" title="Return to top">↩</a> #####

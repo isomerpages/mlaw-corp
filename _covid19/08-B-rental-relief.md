@@ -99,10 +99,10 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>The tenant-occupier is a company/entity incorporated in Singapore, and if it is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> during the period 1 April 2020 to 31 May 2020, the aggregate revenue for such a group is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
-<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level from 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
+<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
+<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
 </ol>
- <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level from April to May 2020, compared to April to May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
+ <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
 </ol>
 
 <p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
@@ -139,12 +139,13 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. 
 
 
-**9.	Why is it necessary to compare revenue against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
+**9. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
 
-*	The reason why the same period of time for a year on year comparison is used is to account for seasonal fluctuations in revenue. 
+*	The reason why April to May 2020 is used for the period of comparison is that it corresponds to the period of the Circuit Breaker, and the Additional Rental Relief to be provided by landlords to tenants is intended to provide more help to SME tenants which have been substantially hit by COVID-19. The reason why the same period of time for a year on year comparison is used is to account for seasonal fluctuations in revenue. 
 
 *	Where businesses started operations after 1 Apr 2019 but before 25 Mar 2020, average monthly gross revenue derived from the date the business commenced operations to 24 Mar 2020 is to be compared with the average monthly gross income derived between 1 Apr 2020 and 31 May 2020 to establish a 35% or more drop at the outlet.
 
+* Notwithstanding the above, it should be noted that the rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are free to work out mutually agreeable arrangements that best address their specific circumstances.
 
 **10.	What does it mean to be an SME as part of a “Singapore group of entities”?**
 
