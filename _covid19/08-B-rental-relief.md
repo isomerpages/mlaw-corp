@@ -157,7 +157,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	“Singapore group of entities” refers to a group of entities that are incorporated or established in Singapore that is related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. If the SME is a member of a Singapore group of entities in the period 1 April 2020 to 31 May 2020, the group’s annual revenue must be not more than $100 million. 
 
-**12. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME? **
+**12. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**
 
 * There is no requirement for a company to meet any shareholding or workforce criteria to be considered an eligible SME under the Rental Relief Framework. 
 
@@ -206,7 +206,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account.  Eligible tenant-occupiers, or property owners with eligible tenant-occupiers, which have not received the notice of cash grant by 21 August 2020 can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) from 21 August 2020 to 21 October 2020.
 
 
-**17. Are property owners required to serve a copy of the notice of cash grant to their tenants within 4 working days from the date of notice or the date after they receive the hard copy notice of cash grant from IRAS?
+**17. Are property owners required to serve a copy of the notice of cash grant to their tenants within 4 working days from the date of notice or the date after they receive the hard copy notice of cash grant from IRAS?**
 
 * Property owners are required to serve a copy of the notice of cash grant within 4 working days after they receive the hard copy notice of cash grant from IRAS. For example, a property owner who received on 13 August a notice of cash grant dated 7 August 2020 is required to serve a copy to its tenants by 19 August 2020.
 
@@ -273,7 +273,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Landlords should not impose conditions for granting rental waivers, as contractual provisions which are inconsistent with the mandatory requirements of legislation, such as those for the rental relief framework, will not be given effect.   
 
 
-**25.	What should a tenant/ex-tenant do if his landlord does not refund him the rent that he already paid for the months covered under the rental relief framework? ? What is considered a reasonable timeframe for the landlord to refund the rent?**
+**25.	What should a tenant/ex-tenant do if his landlord does not refund him the rent that he already paid for the months covered under the rental relief framework? What is considered a reasonable timeframe for the landlord to refund the rent?**
 
 *	The Act states that in cases where rent has been paid for the relevant rental relief period, and it is not possible for the rental waivers to be offset from the next most immediate months of rent (e.g. if there is insufficient time remaining under the lease agreement), the landlord must immediately refund the balance. If the landlord does not do so, the Act provides for that amount to be recoverable as a debt due from the landlord to you. As such, we encourage you to work out a mutual agreement with your landlord as far as possible, failing which you may consider commencing legal proceedings to recover that amount.   
 
@@ -302,11 +302,11 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * The Property Tax Rebate for Year 2020 and Government cash grant provided to property owners are computed based on the Annual Value of the property. Thus, the total amount may not be equivalent to the rental waiver to be provided by property owners, which is based on the contractual rent (excluding maintenance fees and service charges). The Property Tax Rebate and Government cash grant are not intended to cover the full amount of rental waivers exactly. Please see what property owners need to do for each scenario below:
 
-   a) Where the sum of Property Tax Rebate and Government cash grant is less than the 2 or 1 month(s) Rental Relief owners are obliged to give, owners are required to top up the difference. 
+   a) Where the sum of Property Tax Rebate and Government cash grant is **less than** the 2 or 1 month(s) Rental Relief owners are obliged to give, owners are required to top up the difference. 
 
-   b) Where (i) the sum of Property Tax Rebate and Government cash grant is more than the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is less than the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant.
+   b) Where (i) the sum of Property Tax Rebate and Government cash grant is **more than** the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is **less than** the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant.
 
-   c) Where (i) the sum of Property Tax Rebate and Government cash grant is more than the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is more than the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant but the excess Property Tax Rebate must be passed on to the tenant in accordance with the Property Tax Rebate scheme.
+   c) Where (i) the sum of Property Tax Rebate and Government cash grant is **more than** the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is **more than** the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant but the excess Property Tax Rebate must be passed on to the tenant in accordance with the Property Tax Rebate scheme.
 
 **Example:** Owner A has a qualifying commercial property (e.g. shop) with Annual Value of $60,000 as determined by IRAS at 13 April 2020. Owner A received (i) Property Tax Rebate of $6,000 (property tax rate of 10% x Annual Value) and (ii) Government cash grant of $4,000 (0.8 x Annual Value / 12). The total Government assistance is $10,000.
 
@@ -400,7 +400,7 @@ Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Own
 
 * If the property was vacant for only part of the rental relief period, and the remaining period was occupied for business use, property owners do not need to inform IRAS and they can retain the Government cash grant. 
 
-* Example: Owner A owns 3 units in a qualifying commercial property assessed under one property tax account. Unit A was let to Tenant A for the entire relief period. Unit B was let to Tenant B (an eligible tenant-occupier under the Rental Relief Framework) in April 2020 but was vacant from May to July 2020. Unit C was vacant for the entire relief period of April to July 2020. In this example, Owner A is required to inform IRAS that Unit C was vacant for the entire relief period and IRAS would recover the cash grant attributable to Unit C. 
+* **Example: Owner A** owns 3 units in a qualifying commercial property assessed under one property tax account. **Unit A** was let to **Tenant A** for the entire relief period. **Unit B** was let to **Tenant B** (an eligible tenant-occupier under the Rental Relief Framework) in April 2020 but was vacant from May to July 2020. **Unit C** was vacant for the entire relief period of April to July 2020. In this example, **Owner A** is required to inform IRAS that **Unit C** was vacant for the entire relief period and IRAS would recover the cash grant attributable to **Unit C**. 
 
 
 **38.	Will IRAS recover the Government cash grant if the property was occupied by a tenant who is not eligible for Rental Relief?**
