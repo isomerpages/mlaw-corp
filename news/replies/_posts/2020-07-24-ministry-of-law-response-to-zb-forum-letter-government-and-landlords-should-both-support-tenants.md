@@ -20,8 +20,8 @@ Credit reliefs are also available for individual and SME landlords who have to p
 Through such support to both tenants and landlords, we hope to preserve as many businesses as possible, and come through this crisis together.
 
 Andrea Goh 
-Director, Corporate Communications Division
-Ministry of Law
+<br>Director, Corporate Communications Division
+<br>Ministry of Law
 
 
 <p class="right-side-updated">Last updated on 24 July 2020</p>
