@@ -147,14 +147,27 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Notwithstanding the above, it should be noted that the rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are free to work out mutually agreeable arrangements that best address their specific circumstances.
 
-**10.	What does it mean to be an SME as part of a “Singapore group of entities”?**
+
+**10.	How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?**   
+
+* The 35% income drop criterion can be assessed by comparing the average monthly gross income derived from that business (or incidental purpose) conducted at the prescribed property for the period 1 April 2020 to 31 May 2020 to the period 1 April 2019 to 31 May 2019. If a tenant-occupier can show that it suffered a 35% or more decrease in its average monthly gross income derived from its business, as attributable to the specific property (and any other rented properties), it may be eligible for Additional Rental Relief if the other criteria as set out in regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 are met.
+
+
+**11.	What does it mean to be an SME as part of a “Singapore group of entities”?**
 
 *	“Singapore group of entities” refers to a group of entities that are incorporated or established in Singapore that is related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. If the SME is a member of a Singapore group of entities in the period 1 April 2020 to 31 May 2020, the group’s annual revenue must be not more than $100 million. 
 
+**12. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**
+
+* There is no requirement for a company to meet any shareholding or workforce criteria to be considered an eligible SME under the Rental Relief Framework. 
+
+**13. Are individual tenants of prescribed properties eligible for rental waivers under the Rental Relief Framework?**
+
+* Yes, individuals who operate their businesses in the rented property and meet the eligibility criteria will be entitled to the rental waivers under the Rental Relief Framework. 
 
 <a name="expect"><u>What landlords and tenants can expect and should do</u></a><a href="#ref1b" title="Return to top">↩</a>
 
-**11.	Now that the Act has come into force, what should I expect next?**
+**14.	Now that the Act has come into force, what should I expect next?**
 
 *	Starting from early August 2020, the Inland Revenue Authority of Singapore (IRAS) will issue a notice of cash grant and disburse the cash grant to owners of property with eligible tenant-occupiers. The notice will inform property owners of the rental waivers they should provide to their tenants. The majority of qualifying property owners should receive the notice by mid-August 2020.
 
@@ -175,7 +188,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Furthermore, the Act also provides for a moratorium on rent recovery where the landlord of an eligible tenant-occupier cannot take certain prescribed legal actions against the PTO for non-payment of rent under the lease agreement. The moratorium will take effect on 31 July 2020 and will end on the date a notice of cash grant is issued by IRAS to the property owner or 31 December 2020, whichever is earlier. 
 
 
-**12.	What should landlords and tenants do in the meantime, before receiving the notice of cash grant from IRAS?**
+**15.	What should landlords and tenants do in the meantime, before receiving the notice of cash grant from IRAS?**
 
 *	Landlords and tenants are encouraged to work towards a mutual arrangement to implement the rental waivers provided for in the Act - a rental waiver for the period of April to July 2020 for eligible SMEs and NPOs in qualifying commercial properties (e.g. shops), and April to May 2020 for eligible SMEs and NPOs in other non-residential properties (e.g. industrial/office properties).
 
@@ -186,16 +199,20 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	However, tenants who do not qualify for relief and who do not pay rent will be subject to the consequences spelt out in the contract, including paying the rent accrued, and any applicable interest and charges.
 
 
-**13.	What should tenants do if they believe they are eligible for the rental relief but have yet to receive IRAS’ notice of cash grant from their landlord? When can they expect the notice to arrive?**
+**16.	What should tenants do if they believe they are eligible for the rental relief but have yet to receive IRAS’ notice of cash grant from their landlord? When can they expect the notice to arrive?**
 
 *	The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners. Majority of the property owners with eligible tenant-occupiers should receive the notice by mid-August 2020. 
 
 *	Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account.  Eligible tenant-occupiers, or property owners with eligible tenant-occupiers, which have not received the notice of cash grant by 21 August 2020 can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) from 21 August 2020 to 21 October 2020.
 
 
+**17. Are property owners required to serve a copy of the notice of cash grant to their tenants within 4 working days from the date of notice or the date after they receive the hard copy notice of cash grant from IRAS?**
+
+* Property owners are required to serve a copy of the notice of cash grant within 4 working days after they receive the hard copy notice of cash grant from IRAS. For example, a property owner who received on 13 August a notice of cash grant dated 7 August 2020 is required to serve a copy to its tenants by 19 August 2020.
+
 <a name="moratorium"><u>Moratorium on enforcement action</u></a><a href="#ref1c" title="Return to top">↩</a>
 
-**14.	Can a landlord take enforcement action against tenants for non-payment of rent pending IRAS’ notice of cash grant?**
+**18.	Can a landlord take enforcement action against tenants for non-payment of rent pending IRAS’ notice of cash grant?**
 
 *	The Act provides for a moratorium on enforcement actions against eligible tenant-occupiers for non-payment of rent. Among other things, landlords are prohibited from taking the following actions on the tenant-occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
 
@@ -208,55 +225,61 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	This moratorium does not apply to tenants that are not tenant-occupiers, i.e. they are not operating on the property. It also does not apply to tenant-occupiers that do not meet the criteria for the rental relief, i.e. they are not a SME as defined, or an eligible NPO. The moratorium also does not suspend interest due under lease agreements or license agreement. The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 31 December 2020 if no such notice is received before then.
 
 
-**15.	What can a tenant do if his landlord insists on taking enforcement action for non-payment of rent, notwithstanding the moratorium on enforcement action?**
+**19.	What can a tenant do if his landlord insists on taking enforcement action for non-payment of rent, notwithstanding the moratorium on enforcement action?**
 
-*	The landlord legally will not be able to do so because of the moratorium. 
-
+*	We encourage you to draw your landlord’s attention to the acts that are prohibited under the Act. A landlord who takes any of the prohibited actions is guilty of an offence.  Any attempt to terminate the lease or licence or to re-enter the property is invalid, and you may have a right to take back possession of the property.  Alternatively, you may also have a right to pursue damages against the landlord for wrongfully terminating the lease or licence.  You may wish to seek independent legal advice on what rights you have against your landlord. 
 
 <a name="eligibility"><u>Confirmation of eligibility and dispute resolution</u></a><a href="#ref1d" title="Return to top">↩</a>
 
-**16.	How will a landlord know whether the moratorium applies if he has yet to receive IRAS’ notice of cash grant and is unsure of his tenant’s eligibility? What documents should a tenant provide to prove his eligibility?**
 
-*	Rental relief is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to an eligible tenant-occupier. At that point, under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. This may include the provision of financial statements for the relevant period, or a statutory declaration from the tenant-occupier stating that they meet the criteria for the rental waivers. (A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. You can refer to the following <a href="http://conp.sg/co-np-directory-listing" target="new">link</a> for a directory of such Commissioners.) 
+**20.	How will a landlord know whether the moratorium applies if he has yet to receive IRAS’ notice of cash grant and is unsure of his tenant’s eligibility?**
+
+*	Rental relief is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to an eligible tenant-occupier. At that point, under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required to share relevant information within five working days, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. 
 
 *	Before the notice of cash grant is received by the property owner, should landlords have any doubts as to the eligibility of a tenant-occupier, we encourage both parties to work together and share the necessary information. If a tenant-occupier is confident that they will qualify under the rental relief, they should share the relevant information early to facilitate effective communication with the landlord(s). 
 
 *	As some qualifying property owners may not receive a notice of cash grant for various reasons, property owners who have not received a notice of cash grant by 21 August 2020 can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) between 21 August 2020 and 21 October 2020. Once IRAS has reviewed the application, the outcome would be clear whether the tenant-occupier meets the eligibility criteria for rental relief, and whether the moratorium should have applied.
 
 
-**17.	What can a landlord do if he is not satisfied that his tenant is eligible for rental relief after reviewing the documents provided by his tenant?**
+**21. What documents should a tenant provide to prove his eligibility for Rental Relief and/or Additional Rental Relief?**
 
-*	If a landlord and tenant-occupier are unable to reach a compromise, the property owner and/or any intermediary landlord(s) may make an application using the prescribed form [here](/covid19-relief/rental-relief-framework-for-smes#assess) within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief. Please refer to the section [Application for Assessment](/covid19-relief/further-information-on-application-for-assessment) for details.
+* Rental relief under the COVID-19 (Temporary Measures) Act (“Act”) is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to an eligible tenant-occupier. At that point, under the Act, upon written request from their property owner or intermediary landlord(s), tenant-occupiers are required under section 19U of the Act to share relevant information within five working days, to prove their eligibility for the Rental Relief and/or Additional Rental Relief. The full list of documents that can be requested from the tenant-occupier can be found in the <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730">Seventh Schedule of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 (“Regulations”)</a>.  Such a request should only be necessary in situations where the landlord is unsure of their tenant’s eligibility. 
+
+* In summary, in order to prove its eligibility for Rental Relief, the tenant-occupier may be asked by the property owner or intermediary landlord(s) to provide audited financial statements for the relevant period, or if such audited financial statements are not available, a statutory declaration stating the applicable statement in paragraph 2, Part 1 of the Seventh Schedule of the Regulations. In order to prove its eligibility for Additional Rental Relief, the tenant-occupier may be asked by the property owner and/or intermediary landlord(s) to provide its profit and loss statements for the relevant periods, supported by a statutory declaration; as well as additional documents if the tenant-occupier is part of a Singapore group of entities from 1 April to 31 May 2020 (if applicable).
+
+* A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore.
 
 
-**18.	What if the landlord refuses to grant rental waivers under the rental relief framework? How can tenants ensure that they will receive the rental waivers? Are there any penalties for non-compliance by landlords?**
+**22.	What can a landlord do if he is not satisfied that his tenant is eligible for rental relief, or if his tenant refuses to submit the required documents to prove his eligibility? Is the landlord still required to provide the rental waivers in such cases?**
 
-*	Under the Act, the rent that is payable by eligible tenants to their landlord for the relevant period of rental waiver is statutorily waived once qualifying property owners with eligible tenant-occupiers receive the notice of the cash grant issued by IRAS. This means that as an eligible tenant-occupier you do not need to pay rent for those months.
+* Rental relief under the Act is triggered when the owner of a prescribed property receives IRAS' notice of cash grant pertaining to their eligible tenant-occupiers. This means eligible tenants do not need to pay rent for the period covered by the Rental Relief Framework. If rent has already been paid, tenants can either apply the rental waivers to the next immediate month(s) of rent, or if this is not possible, get a refund from their landlords. Landlords have to grant the rental waivers stated in the notice until the tenant is proven ineligible. 
+
+* Where landlords have any doubts as to the eligibility of a tenant-occupier, both parties are encouraged to communicate the reasons and share the necessary information. The owner or the landlord can request, by written notice, the tenant-occupier to provide the relevant information within 5 working days of the request to prove their eligibility for the Rental Relief and/or Additional Rental Relief.
+
+*	If a landlord and tenant-occupier are unable to reach a compromise on whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief, the property owner and/or any intermediary landlord(s) may make an application using the prescribed form [here](/covid19-relief/rental-relief-framework-for-smes#assess) within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief. Please refer to the section [Application for Assessment](/covid19-relief/further-information-on-application-for-assessment) for details. If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-772 (1800-CALL-RRA).
+
+* The assessment process will require the tenant-occupier to provide the documents stipulated in in the Regulations if they were not provided to the landlord earlier. Given this, and as far as possible, we encourage tenants to share the documents with the landlords in a timely fashion. 
+
+**23. What can a landlord do if his tenant fails to meet the timeline of 5 working days to provide documents to prove his eligibility for rental relief?** 
+ 
+* We encourage all landlords and tenant-occupiers to strictly adhere to the prescribed timeline to provide the required documents and/or make an application to the assessors to have a dispute determined. In relation to the provision of the required documents, please note that it is an offence under the COVID-19 (Temporary Measures) Act for a tenant-occupier not to provide the said documents, without reasonable excuse, within the prescribed timeline. If however, a tenant-occupier fails to provide the said documents within the prescribed time, the landlord is not precluded from filing an application to the rental relief assessors ahead of receiving the said documents.
+
+**24.	What if the landlord refuses to grant rental waivers under the rental relief framework or imposes conditions for granting the rental waivers? How can tenants ensure that they will receive the rental waivers? Are there any penalties for non-compliance by landlords?**
+
+*	Under the Act, the rent that is payable by eligible tenants to their landlord for the relevant period of rental waiver is statutorily waived once qualifying property owners with eligible tenant-occupiers receive the notice of the cash grant issued by IRAS. This means that as an eligible tenant-occupier you do not need to pay rent for those months. This is a default position – while landlords and tenants are free to come to a mutual agreement which best takes into account their specific circumstances, failing an agreement, the landlord must waive the rent for those months. 
  
 *	In the case where tenants have already paid rent for those months for which rent is waived (i.e. for qualifying commercial properties - April and May 2020, and if applicable, June and July 2020; and for other non-residential properties April 2020, and if applicable, May 2020), tenants can apply the rental waivers towards the next most immediate months of rent. If there is insufficient time left in the lease, tenants can obtain a refund from the landlord.
 
-*	In cases where landlords had earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, or landlords have passed on the benefit of any  Property Tax Rebate for Year 2020 in respect of the property, these can be offset from the landlords’ rental waiver obligations. 
+*	Landlords should not impose conditions for granting rental waivers, as contractual provisions which are inconsistent with the mandatory requirements of legislation, such as those for the rental relief framework, will not be given effect.   
 
 
-**19.	What if the landlord refuses to grant rental waivers under the rental relief framework? How can tenants ensure that they will receive the rental waivers? Are there any penalties for non-compliance by landlords?**
+**25.	What should a tenant/ex-tenant do if his landlord does not refund him the rent that he already paid for the months covered under the rental relief framework? What is considered a reasonable timeframe for the landlord to refund the rent?**
 
-*	Under the Act, the rent that is payable by eligible tenants to their landlord for the relevant period of rental waiver is statutorily waived once qualifying property owners with eligible tenant-occupiers receive the notice of the cash grant issued by IRAS. This means that as an eligible tenant-occupier you do not need to pay rent for those months.
- 
-*	In the case where tenants have already paid rent for those months for which rent is waived (i.e. for qualifying commercial properties - April and May 2020, and if applicable, June and July 2020; and for other non-residential properties April 2020, and if applicable, May 2020), tenants can apply the rental waivers towards the next most immediate months of rent. If there is insufficient time left in the lease, tenants can obtain a refund from the landlord.
-
-*	In cases where landlords had earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, or landlords have passed on the benefit of any  Property Tax Rebate for Year 2020 in respect of the property, these can be offset from the landlords’ rental waiver obligations. 
-
-
-**20.	What should a tenant/ex-tenant do if his landlord does not refund him the rent that he already paid for the months covered under the rental relief framework?**
-
-*	If you have already paid rent for those months for which rent is waived (i.e. for qualifying commercial properties - April and May 2020, and if applicable, June and July 2020; and for other non-residential properties, April 2020, and if applicable May 2020), then the rental waivers will be applied to the next most immediate months of rent. If there is insufficient time left in the lease, then the landlord is obliged to refund you the amount.  If the landlord does not do so, the Act provides for that amount to be recoverable as a debt due from the landlord to you and you may commence legal proceedings to recover that amount.   
-
-*	You may wish to note that in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, or passed on the benefit of any  Property Tax Rebate for Year 2020 in respect of the property, these can be offset from the landlords’ rental waiver obligations.
-
+*	The Act states that in cases where rent has been paid for the relevant rental relief period, and it is not possible for the rental waivers to be offset from the next most immediate months of rent (e.g. if there is insufficient time remaining under the lease agreement), the landlord must immediately refund the balance. If the landlord does not do so, the Act provides for that amount to be recoverable as a debt due from the landlord to you. As such, we encourage you to work out a mutual agreement with your landlord as far as possible, failing which you may consider commencing legal proceedings to recover that amount.   
 
 <a name="calculate"><u>Calculation of rental waivers</u></a><a href="#ref1e" title="Return to top">↩</a>
 
-**21.	What specific components of the rent will be waived? Do tenants need to continue paying specific components of the rent e.g. maintenance and service fees? Does the rent to be waived include variable rent based on Gross Turnover, and if so, why?**
+**26.	What specific components of the rent will be waived? Do tenants need to continue paying specific components of the rent e.g. maintenance and service fees? Does the rent to be waived include variable rent based on Gross Turnover, and if so, why?**
 
 *	The value of the rent to be waived is based on the contractual rent <b>as agreed upon under the terms of the lease agreement</b>, excluding any maintenance fee and charges for the provision of services such as cleaning and security. Where the amounts of maintenance and/or service charges are not expressly set out in the lease or licence agreement, landlords and tenants are encouraged to jointly determine the amounts to be excluded based on landlords’ actual expenses, as supported by the necessary documentation.
 
@@ -265,7 +288,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	In an earlier press release dated 3 June 2020, “New Rental Relief Framework for SMEs”, it was stated that the rental waivers would be based on base rental, excluding any Gross Turnover payable, maintenance fees and charges for the provision of services such as cleaning and security. We have reviewed and adjusted the definition after further consideration.
 
 
-**22.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset, if allowed?**
+**27.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset, if allowed?**
 
 *	Generally, landlords may offset the rental waivers against any financial assistance previously provided to their tenants, such as: 
 
@@ -275,13 +298,32 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	Please note that the property owner is still required to provide any remaining rental waiver after taking into account any offsetting as detailed above. 
 
+**28. What should property owners do if the Government assistance (Property Tax Rebate for Year 2020 and Government cash grant) is not equal to the Rental Relief that the tenant is entitled to?**
 
-**23.	Why may the sum of the Property Tax Rebate for Year 2020 and the Government cash grant not be equivalent to the rental waiver received by the eligible SME?**
+* The Property Tax Rebate for Year 2020 and Government cash grant provided to property owners are computed based on the Annual Value of the property. Thus, the total amount may not be equivalent to the rental waiver to be provided by property owners, which is based on the contractual rent (excluding maintenance fees and service charges). The Property Tax Rebate and Government cash grant are not intended to cover the full amount of rental waivers exactly. Please see what property owners need to do for each scenario below:
 
-*	The Property Tax Rebate for Year 2020 for non-residential properties and the Government cash grant are based on the Annual Value of the property. This may not be equivalent to the rental waiver to be provided by landlords, which is based on the contractual rent. Tenants will still have to pay for maintenance fee and charges for the provision of services such as cleaning and security. Nevertheless, the landlord is obliged to provide the rental waiver based on the contractual rental as defined. The Property Tax Rebate and Government cash grant are not intended to cover the full amount of rental waivers exactly. 
+   a) Where the sum of Property Tax Rebate and Government cash grant is **less than** the 2 or 1 month(s) Rental Relief owners are obliged to give, owners are required to top up the difference. 
+
+   b) Where (i) the sum of Property Tax Rebate and Government cash grant is **more than** the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is **less than** the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant.
+
+   c) Where (i) the sum of Property Tax Rebate and Government cash grant is **more than** the 2 or 1 month(s) Rental Relief and (ii) the Property Tax Rebate is **more than** the 2 or 1 month(s) Rental Relief  owners are obliged to give, owners are allowed to keep the excess Government cash grant but the excess Property Tax Rebate must be passed on to the tenant in accordance with the Property Tax Rebate scheme.
+
+**Example:** Owner A has a qualifying commercial property (e.g. shop) with Annual Value of $60,000 as determined by IRAS at 13 April 2020. Owner A received (i) Property Tax Rebate of $6,000 (property tax rate of 10% x Annual Value) and (ii) Government cash grant of $4,000 (0.8 x Annual Value / 12). The total Government assistance is $10,000.
+
+**Scenario 1: Owner A rents the shop to an eligible tenant at $5,200 per month (excluding maintenance fees and service charges) during the relief period 1 April to 31 May 2020.** 
+
+Owner A is required to provide rental waivers amounting to $5,200 x 2 = $10,400. The difference of $400 ($10,400 - $10,000) for the months April and May 2020 must be topped up by Owner A. 
+
+**Scenario 2: Owner A rents the shop to an eligible tenant at $4,800 per month (excluding maintenance fees and service charges) during the relief period 1 April to 31 May 2020.**
+
+Owner A is required to provide rental waivers amount to $4,800 x 2 = $9,600. Owner A is allowed to retain the excess cash grant of $400 ($10,000 - $9,600) for the months April and May 2020. 
+
+**Scenario 3: Owner A rents the shop to an eligible tenant below market at $1,000 per month (excluding maintenance fees and service charges) during the relief period 1 April to 31 July 2020.** 
+
+Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Owner A must pass on the excess Property Tax Rebate of $2,000 (Property Tax Rebate of $6,000 less rental waivers of $4,000) to the tenant in accordance with the Property Tax Rebate scheme. Owner A can retain the full cash grant amount of $4,000.
 
 
-**24.	Generally, the Property Tax Rebate has to be passed on by July 2020 and December 2020. However the rental waiver covers the period of April to July 2020 for qualifying commercial properties and April to May 2020 for other non-residential properties. How can landlords reconcile these obligations? With the new Rental Relief Framework, are property owners still required to pass on the Property Tax Rebate for Year 2020?**
+**29.	Generally, the Property Tax Rebate has to be passed on by July 2020 and December 2020. However the rental waiver covers the period of April to July 2020 for qualifying commercial properties and April to May 2020 for other non-residential properties. How can landlords reconcile these obligations? With the new Rental Relief Framework, are property owners still required to pass on the Property Tax Rebate for Year 2020?**
 
 *	Generally, property owners are required to pass on the Property Tax Rebate to their tenants by 31 July 2020 for the benefit relating to the months from January to June 2020, and by 31 December 2020 for the benefit relating to the months from for July to December 2020. However, property owners with SME tenant-occupiers who meet the eligibility criteria under the rental relief framework will also be required to provide the rental waivers for the relevant period.
 
@@ -293,7 +335,18 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Conversely, the rental waivers that the property owner had given or is obliged to give to his tenant(s) under the  rental relief framework will discharge the owner’s obligations (to the extent of the net amount of rental waivers) to pass on the benefit of the Property Tax Rebate. 
 
 
-**25.	Are landlords allowed to effect their rental waiver through instalments or in part, e.g. to collect less rent for more months which equate in total to the 2 or 4 months of rental waiver?**
+**30.	Are the rental waivers to tenants given on top of the Property Tax Rebate that landlords are obliged to pass on?**
+
+* No. Where a property owner has already passed on the Property Tax Rebate to the tenant on or before 31 Jul 2020, the property owner will be treated as also having satisfied its obligation to provide rental waiver under the Rental Relief Framework for the amount of Property Tax Rebate passed on (on or before 31 Jul 2020), and would only have to provide rental waivers on the remaining sum due under the Rental Relief Framework.
+
+* Conversely, where a property owner has satisfied its obligation to provide rental waivers under the Rental Relief Framework, the net amount of rental waiver that has been provided by the property owner under the Rental Relief Framework will also go towards satisfying the property owner’s obligation to pass on the Property Tax Rebate.
+
+* For example: Owner A rents a shop to an eligible tenant, Tenant A, at $5,000 per month (excluding maintenance fees and service charges) during the relief period 1 April to 31 May 2020 (2 months). Owner A received a Property Tax Rebate of $6,000 and passed on $3,000 to Tenant A in July 2020.
+
+* Owner A received a notice of cash grant in August 2020 and is required to provide rental waiver amounting to $5,000 x 2 = $10,000 to Tenant A. Owner A can offset the Property Tax Rebate of $3,000 passed on against the rental waiver of $10,000. Effectively, Owner A needs to provide the net rental waiver of $7,000. After providing the net rental waiver, Owner A is not required to pass on the remaining Property Tax Rebate of $3,000 which is already covered by the net rental waiver of $7,000. 
+
+
+**31.	Are landlords allowed to effect their rental waiver through instalments or in part, e.g. to collect less rent for more months which equate in total to the 2 or 4 months of rental waiver?**
 
 *	The Rental Relief covers 2 months within the period of April to July 2020 for qualifying commercial properties, and 1 month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties). For tenant-occupiers which meet the criteria for the Additional Rental Relief, the rental relief covers a further 2 months within the period of April to July 2020 for qualifying commercial properties, and a further 1 month in April to May 2020 for other non-residential properties.
 
@@ -302,14 +355,14 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	However, landlords and tenants are free to come to a mutual agreement on how to effect the rental waiver which best takes into account their specific circumstances. 
 
 
-**26.	Can interest be charged on any rental arrears accumulated between the rental relief period?**
+**32.	Can interest be charged on any rental arrears accumulated between the rental relief period?**
 
 *	Under S19H and S19J of the Act, any interest or late charges that have been applied on rental arrears accumulated during the period of rental waiver (i.e. April to July 2020 for qualifying commercial properties, or April to May 2020 for other non-residential properties, e.g. office/industrial properties) will also be waived. 
 
 
 <a name="scenario"><u>Specific scenarios</u></a><a href="#ref1f" title="Return to top">↩</a>
 
-**27.	What happens if a tenant-occupier’s tenancy expires within the period of rental relief (between April to July 2020 or April to May 2020)? Will the rental relief apply to tenant-occupiers who wish to terminate the tenancy within the period of rental relief? What happens if a tenant-occupier’s tenancy commences after 1 April 2020 but within the period of rental waiver (April to July 2020)?**
+**33.	What happens if a tenant-occupier’s tenancy expires within the period of rental relief (between April to July 2020 or April to May 2020)? Will the rental relief apply to tenant-occupiers who wish to terminate the tenancy within the period of rental relief? What happens if a tenant-occupier’s tenancy commences after 1 April 2020 but within the period of rental waiver (April to July 2020)?**
 
 *	If there is only 1 eligible tenant-occupier during the rental relief period, the rental relief will apply to the period during which the tenancy subsists. If there is more than 1 eligible tenant-occupier during the rental relief period, the Rental Relief and Additional Rental Relief will be pro-rated accordingly, subject to the tenant-occupiers meeting the criteria for Additional Rental Relief. 
 
@@ -317,7 +370,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
-**28.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**
+**34.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**
 
 *	If there are multiple SME tenant-occupiers during the period of rental relief, the share of the Rental Relief  (supported by Government assistance) and the Additional Rental Relief will be pro-rated based on the number of days of the tenancy within the period, as a proportion of the period, subject to the tenant-occupiers meeting the criteria for Additional Rental Relief. 
 
@@ -325,12 +378,13 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
-**29.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**
+
+**35.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**
 
 *	Generally, the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner to earlier tenants in accordance with the relevant laws can be used to offset the rental waivers to be provided to eligible tenants. 
 
 
-**30.	If the property ownership changes before IRAS issues the notice of cash grant, will the previous or new owner receive the notice? Assuming the previous owner was the landlord of the eligible tenant during the relief period, should the previous or new owner bear the rental waivers?**
+**36.	If the property ownership changes before IRAS issues the notice of cash grant, will the previous or new owner receive the notice? Assuming the previous owner was the landlord of the eligible tenant during the relief period, should the previous or new owner bear the rental waivers?**
 
 *	IRAS will issue the notice of cash grant to the prevailing owner at the time of issuance. If the property transfer was completed prior to the notice issuance, the notice will be sent to the new owner. Once the notice is received by the new owner, the rental of the eligible tenant will be treated as waived. 
 
@@ -340,15 +394,35 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	The previous and new owners should come to a mutual agreement on how best to distribute the monies received from the Government in the form of the Property Tax Rebate for Year 2020 and the Government cash grant, given the variance in individual circumstances and terms of the sale and purchase transaction. 
 
+**37.	Will IRAS recover the Government cash grant if the property was vacant during the rental relief period?**
+ 
+* If the property was vacant for the entire rental relief period (i.e. April to July 2020 for qualifying commercial properties (e.g. shops) and April to May 2020 for other non-residential properties (e.g. industrial / office properties)), property owners will need to inform IRAS and the Government cash grant will be recovered.  
+
+* If the property was vacant for only part of the rental relief period, and the remaining period was occupied for business use, property owners do not need to inform IRAS and they can retain the Government cash grant. 
+
+* **Example: Owner A** owns 3 units in a qualifying commercial property assessed under one property tax account. **Unit A** was let to **Tenant A** for the entire relief period. **Unit B** was let to **Tenant B** (an eligible tenant-occupier under the Rental Relief Framework) in April 2020 but was vacant from May to July 2020. **Unit C** was vacant for the entire relief period of April to July 2020. In this example, **Owner A** is required to inform IRAS that **Unit C** was vacant for the entire relief period and IRAS would recover the cash grant attributable to **Unit C**. 
+
+
+**38.	Will IRAS recover the Government cash grant if the property was occupied by a tenant who is not eligible for Rental Relief?**
+ 
+* As long as the property was occupied by an eligible tenant-occupier at any time during the relevant relief period (i.e. 1 April to 31 July 2020 for qualifying commercial properties and 1 April to 31 May 2020 for other non-residential properties), owners can retain the full cash grant and they do not need to inform IRAS. 
+
+* If the property was occupied by non-eligible tenant-occupier(s) for the entire relief period, please inform IRAS of the property address with a copy of the lease/ licence agreement and the reason why the tenant-occupier is non-eligible (e.g. annual revenue more than $100 million for the relevant period, lease entered into after 25 March 2020, etc).
+
+**39.	I am a property owner operating my business at a prescribed property. I received a notice of cash grant even though I did not rent out my property. Do I need to return the cash grant to IRAS?** 
+ 
+* If you are an SME/ specified NPO (as defined under the Rental Relief Framework) property owner who runs a trade or business on the prescribed property (“owner-occupier”), you will also be eligible for the Government cash grant. 
+
+* If you are not an SME/ specified NPO owner-occupier, please inform IRAS to recover the Government cash grant.
 
 <a name="npo"><u>Non-profit organisations (NPO)</u></a><a href="#ref1g" title="Return to top">↩</a>
 
-**31.	What are the eligibility criteria for an NPO tenant to qualify for the rental relief?**
+**40.	What are the eligibility criteria for an NPO tenant to qualify for the rental relief?**
 
 *	Please see Q4.
 
 
-**32.	What is the definition of a “specified arts and culture society”?**
+**41.	What is the definition of a “specified arts and culture society”?**
 
 *	A specified arts and culture society is a society that is registered under section 4 or 4A of the Societies Act (Cap. 311), and which meets the Tier 2 Enhanced Jobs Support Scheme criteria for arts and culture organisations as announced in the Fortitude Budget:
 
@@ -377,7 +451,7 @@ b)	Satisfies one or more of the following conditions:
 3. is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).<br>
 
 
-**33.	What is the definition of a “specified trade association”?**
+**42.	What is the definition of a “specified trade association”?**
 
 *	A specified trade association means a society — <br>
     a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); <br>
@@ -387,7 +461,7 @@ b)	Satisfies one or more of the following conditions:
     c)	where one or more members of the society are regulated by the Accounting and Corporate Regulatory Authority under any written law.  
 
 
-**34.	How were the categories of non-profit organisations (“NPOs”) considered eligible for rental relief determined?**
+**43.	How were the categories of non-profit organisations (“NPOs”) considered eligible for rental relief determined?**
 
 *	The framework provides rental relief to selected NPOs that are deemed to benefit businesses, the society or community at large to also give them time and support to recover from the impact of COVID-19. Besides meeting their respective definitions, these NPOs will also be subject to similar criteria for businesses/SMEs (amount of annual revenue must be not more than $100m to qualify for rental relief, and they must also be severely impacted by COVID-19 by displaying a revenue drop of 35% or more to receive additional rental relief). 
 
@@ -396,7 +470,7 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="apply"><u>Application for assessment</u></a><a href="#ref2a" title="Return to top">↩</a>
 
-**35.	What are the grounds for which a landlord can submit an application for assessment? What is the process for assessment – how long will it take? Are there any charges?**
+**44.	What are the grounds for which a landlord can submit an application for assessment? What is the process for assessment – how long will it take? Are there any charges?**
 
 *	Property owners and/or any intermediary landlord(s) may make an application within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain any of the following:
 
@@ -413,21 +487,26 @@ b)	Satisfies one or more of the following conditions:
 *	If you wish to submit an application, please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#assess).
 
 
-**36.	How can I contact the Registry of the Rental Relief Assessors?**
+**45.	How can I contact the Registry of the Rental Relief Assessors?**
 
 *	If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-772 (1800-CALL-RRA). 
 
 
-**37.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
+**46.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
 
 *	The assessment mechanism will use objective criteria to determine tenants’ eligibility and landlords that are facing financial hardship. 
 
 *	If tenants are of the view that they are eligible but have not received a copy of the notice of cash grant from IRAS, they may seek clarification from IRAS. 
 
 
+**47.	Will the Assessors accept applications which are submitted after the timeline of 10 working days after receiving (a copy of) the notice of cash grant?**
+
+* We encourage all landlords to strictly adhere to the prescribed timeline to apply to the assessors for a determination. If however, a landlord is not able to meet the prescribed timeline, the Registry will review each case on a case-by-case basis to determine if the application may still be accepted, notwithstanding that it has been filed late.  
+
+
 <a name="hardship"><u>Support for financial hardship</u></a><a href="#ref2b" title="Return to top">↩</a>
 
-**38.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
+**48.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
 
 *	The Government recognises that there are landlords who may face genuine financial hardship.
 
@@ -441,17 +520,17 @@ b)	Satisfies one or more of the following conditions:
 
 *	If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
-**39.	What documents must a landlord submit to prove his eligibility?**
+**49.	What documents must a landlord submit to prove his eligibility?**
 
 *	The documents to be submitted will be provided for in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf), upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements. 
 
 
-**40.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
+**50.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
 
 *	If the additional rental relief that has to be paid by the landlord is halved, the tenant will have to pay his share of the rent accordingly. 
 
 
-**41.	What other financial assistance measures are available to landlords?**
+**51.	What other financial assistance measures are available to landlords?**
 
 *	MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
 
@@ -466,7 +545,7 @@ b)	Satisfies one or more of the following conditions:
 
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
 
-**42.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
+**52.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
 *	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Oct 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Oct 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
 
@@ -480,24 +559,24 @@ b)	Satisfies one or more of the following conditions:
     -	Take steps under the contract for arrears not paid
 
 
-**43.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
+**53.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
 
 *	The written notice should be served no later than 19 Oct 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
 
 
-**44.	What is the formula for determining the instalment payments?**
+**54.	What is the formula for determining the instalment payments?**
 
 *	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
 
 
-**45.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
+**55.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
 
 *	Subject to contractual arrangements, landlords may draw on the existing security deposits to offset accumulated rental arrears, but must leave the equivalent of 1 month of rent remaining in the security deposit.
 
 *	If the tenant-occupier takes up a statutory repayment schedule, at the end of the repayment period, the tenant will be obliged to reinstate the security deposit to the contractual amount.
 
 
-**46.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
+**56.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
 
 *	All outstanding arrears, including interest and other charges, will be accelerated and immediately payable in accordance with the terms of the original contract, and the landlord will be entitled to exercise any of the landlord’s rights under the contract for non-payment of rent and the interest and other specified charges if:
 
@@ -512,7 +591,7 @@ b)	Satisfies one or more of the following conditions:
 *	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form. Please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#repay) for more details. 
 
 
-**47.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
+**57.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
 
 *	The Act is intended to prescribe a workable standard for the repayment schedule. Landlords and tenants can negotiate an accelerated or different repayment schedule if they wish.
 
