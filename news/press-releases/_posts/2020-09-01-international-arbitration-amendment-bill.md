@@ -61,9 +61,6 @@ permalink: /news/press-releases/international-arbitration-amendment-bill
 {:start="15"}
 15. MinLaw would like to thank all respondents who have provided invaluable feedback during the public consultation. 
 
-{:start="16"}
-16. MinLaw has been working in close partnership with agencies and stakeholders to transform the legal industry to adopt innovation and technology, as well as strengthen Singapore’s position as an international hub for dispute resolution. Through SG Together, we will further widen and deepen our engagement and collaboration efforts as we develop our plans to help us better realise our vision.
-
 **MINISTRY OF LAW**
 <br>**1 SEP 2020**
 
