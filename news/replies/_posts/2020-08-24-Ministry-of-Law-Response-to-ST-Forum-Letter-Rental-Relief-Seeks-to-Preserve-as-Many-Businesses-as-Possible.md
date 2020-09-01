@@ -23,8 +23,8 @@ We understand the difficulties landlords and tenants both face, and seek their u
 
 
 Andrea Goh
-Director (Corporate Communications)
-Ministry of Law
+<br>Director (Corporate Communications)
+<br>Ministry of Law
 
 
 <p class="right-side-updated">Last updated on 24 August 2020</p>
