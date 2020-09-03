@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community And Youth & Second Minister For Law, At the Singapore Management University Webinar on "Covid-19: Challenges for Individuals, Families and Businesses”
+title: Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community And Youth & Second Minister For Law, At the Singapore Management University Webinar on "Covid-19 -  Challenges for Individuals, Families and Businesses”
 date:   2020-09-02
 permalink: /news/speeches/Opening-Remarks-by-Mr-Edwin-Tong-SC-Minister-for-Culture-Community-And-Youth-and-Second-Minister-For-Law-at-SMU-Webinar-on-covid-19-challenges
 ---
