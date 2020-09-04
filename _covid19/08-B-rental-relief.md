@@ -20,6 +20,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 <b><a href="#support" id="refb">Support for landlords</a></b>
  - <a href="#apply" id="ref2a">Application for assessment</a>
  - <a href="#hardship" id="ref2b">Support for financial hardship</a>
+ - <a href="#expansion" id="ref2c">Expansion of powers of rental relief assessors</a>
  
 <b><a href="#repay" id="refc">Repayment scheme for rental arrears</a></b> 
  
@@ -136,7 +137,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	If however, the above is also not available, the tenant should provide a statutory declaration by the tenant or (if the tenant is an entity) a relevant officer of the tenant stating that the revenue of the tenant, calculated using the formula 12xA is not more than $100 million, where A is the average monthly revenue from the business for the period from the date of commencement of the tenant’s business to 31 March 2020 (both dates inclusive).
 
-*	A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. 
+*	A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths or a Justice of the Peace. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore and the following <a href="https://www.sgdi.gov.sg/ministries/pmo/departments/jp">link</a> for a directory of Justices of the Peace in Singapore.
 
 
 **9. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
@@ -247,8 +248,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * In summary, in order to prove its eligibility for Rental Relief, the tenant-occupier may be asked by the property owner or intermediary landlord(s) to provide audited financial statements for the relevant period, or if such audited financial statements are not available, a statutory declaration stating the applicable statement in paragraph 2, Part 1 of the Seventh Schedule of the Regulations. In order to prove its eligibility for Additional Rental Relief, the tenant-occupier may be asked by the property owner and/or intermediary landlord(s) to provide its profit and loss statements for the relevant periods, supported by a statutory declaration; as well as additional documents if the tenant-occupier is part of a Singapore group of entities from 1 April to 31 May 2020 (if applicable).
 
-* A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore.
-
+* A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths or a Justice of the Peace. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore and the following <a href="https://www.sgdi.gov.sg/ministries/pmo/departments/jp">link</a> for a directory of Justices of the Peace in Singapore.
 
 **22.	What can a landlord do if he is not satisfied that his tenant is eligible for rental relief, or if his tenant refuses to submit the required documents to prove his eligibility? Is the landlord still required to provide the rental waivers in such cases?**
 
@@ -542,10 +542,41 @@ b)	Satisfies one or more of the following conditions:
 
 *	Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: [www.mas.gov.sg/regulation/covid-19](https://www.mas.gov.sg/regulation/covid-19).
 
+<a name="expansion"><u>Expansion of powers of rental relief assessors </u></a><a href="#ref2c" title="Return to top">↩</a>
+
+
+**52.	Can both landlords and tenants make an application for a determination by a rental relief assessor on the new matters provided for under section 19M?**
+
+Yes, both landlords and tenants may make an application for a determination by a rental relief assessor on the following new matters: 
+
+*	The actual amount of rent under the lease agreement; 
+
+*	The actual amount of any component of the formula used to compute the prescribed amount of rent that is waived under section 19H or 19J in a particular case. 
+
+
+**53.	If a potential applicant has already commenced court / arbitration proceedings in relation to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
+
+*	No. An application for a determination on the matters listed in section 19M(4) may not be made if proceedings before a court or arbitral tribunal have already commenced in relation to the matter in question. 
+
+
+**54.	If a potential applicant has obtained judgment / arbitral award in relation to a dispute to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
+
+*	No. An application for a determination on the matters listed in section 19M(4) may not be made if a judgment of a court or arbitral award has already been given or made in relation to the matter in question. 
+
+
+**55.	There are many landlords and tenants who may have come to an agreement on the rental waivers under the rental relief framework, and the expansion of powers of the rental relief assessors is potentially disruptive as it may result in fresh disputes. How does MinLaw plan to address such potential situations?**
+
+*	The rental relief assessors will not review cases where the landlords and tenants have already reached a compromise or a settlement with regards to the implementation to the rental waivers. Applications will only be accepted from parties that are unable to implement the waivers as of the commencement date of the amendments to the Act.
+
+
+**56.	Will the expansion of powers of the rental relief assessors be effected with immediate effect? If not, if landlords and tenants have disputes on these matters, what can they do?**
+
+*	As further details have to be worked out, the COVID-19 (Temporary Measures) (Rental Relief and Related Matters) Regulations 2020 will have to be amended in tandem with the commencement of the relevant parts of this Bill at a later date. Before then, landlords and tenants are encouraged to continue to work towards a mutually agreeable arrangement that best address their specific circumstances. If this is not possible, they can make an application for an assessment later this month when the new provisions take effect. 
+
 
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
 
-**52.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
+**57.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
 *	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Oct 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Oct 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
 
@@ -559,24 +590,24 @@ b)	Satisfies one or more of the following conditions:
     -	Take steps under the contract for arrears not paid
 
 
-**53.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
+**58.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
 
 *	The written notice should be served no later than 19 Oct 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
 
 
-**54.	What is the formula for determining the instalment payments?**
+**59.	What is the formula for determining the instalment payments?**
 
 *	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
 
 
-**55.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
+**60.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
 
 *	Subject to contractual arrangements, landlords may draw on the existing security deposits to offset accumulated rental arrears, but must leave the equivalent of 1 month of rent remaining in the security deposit.
 
 *	If the tenant-occupier takes up a statutory repayment schedule, at the end of the repayment period, the tenant will be obliged to reinstate the security deposit to the contractual amount.
 
 
-**56.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
+**61.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
 
 *	All outstanding arrears, including interest and other charges, will be accelerated and immediately payable in accordance with the terms of the original contract, and the landlord will be entitled to exercise any of the landlord’s rights under the contract for non-payment of rent and the interest and other specified charges if:
 
@@ -591,7 +622,6 @@ b)	Satisfies one or more of the following conditions:
 *	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form. Please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#repay) for more details. 
 
 
-**57.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
+**62.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
 
 *	The Act is intended to prescribe a workable standard for the repayment schedule. Landlords and tenants can negotiate an accelerated or different repayment schedule if they wish.
-
