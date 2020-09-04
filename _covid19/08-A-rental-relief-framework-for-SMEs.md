@@ -146,7 +146,19 @@ a)  Whether the tenant-occupier is eligible for Rental Relief and/or Additional 
 
 b)  Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
 
-The rental relief assessor’s determination will be binding on all landlords (including the property owner) and the tenant-occupier, and will not be appealable. 
+<u>Expanded powers of rental relief assessors</u>
+
+On 4 September 2020, the COVID-19 (Temporary Measures) (Amendment No. 2) Bill was passed in Parliament to expand the powers of the rental relief assessors. While the Bill has been passed, it has yet to come into force or take effect. More  details will be announced subsequently with the necessary changes to the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, by end September 2020. When the changes are effected, rental relief assessors can also make determinations on unresolved disputes relating to the amount of rent to be waived under the framework, where the amount is affected by any of the following factors:
+
+a)	The amount of maintenance and service charges , especially where such charges are not explicitly listed in the lease or licence agreement
+
+b)	The amount that can be offset by assistance provided by the landlord earlier
+
+c)	Tenant(s) occupying the property for only a part of the relief period
+
+d)	Sub-division of the property 
+
+Please note that only ongoing or new disputes on the above matters between landlords and tenants may be raised to the rental relief assessors. If a landlord and tenant have already reached a mutual agreement on the rental waivers, they will not be allowed to reopen the issue through applying for a determination by a rental relief assessor. 
 
 Please refer to [link](/covid19-relief/further-information-on-application-for-assessment) for further information on the application for assessment. 
 
