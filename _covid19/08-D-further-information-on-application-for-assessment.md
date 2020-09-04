@@ -60,6 +60,20 @@ The tenant-occupier may, no later than 5 working days after being served with a 
 
   - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalrelief-response-to-application-corppass) (CorpPass)
   - If applying as an individual, please use this [link](https://go.gov.sg/rentalrelief-response-to-application) (SingPass) 
+  
+<u>Expanded Powers of Rental Relief Assessors</u>
+
+On 4 September 2020, the COVID-19 (Temporary Measures) (Amendment No. 2) Bill was passed in Parliament to expand the powers of the rental relief assessors. While the Bill has been passed, it has yet to come into force or take effect. More  details will be announced subsequently with the necessary changes to the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, by end September 2020. When the changes are effected, rental relief assessors can also make determinations on unresolved disputes relating to the amount of rent to be waived under the framework, where the amount is affected by any of the following factors:
+
+ a.	The amount of maintenance and service charges , especially where such charges are not explicitly listed in the lease or licence agreement
+
+ b.	The amount that can be offset by assistance provided by the landlord earlier
+
+ c.	Tenant(s) occupying the property for only a part of the relief period
+
+ d.	Sub-division of the property 
+
+Please note that only ongoing or new disputes on the above matters between landlords and tenants may be raised to the rental relief assessors. If a landlord and tenant have already reached a mutual agreement on the rental waivers, they will not be allowed to reopen the issue through applying for a determination by a rental relief assessor.
 
 ##### <a name="resources">Additional Resources (for reference only)</a><a href="#refa" title="Return to top">↩</a> #####
 
