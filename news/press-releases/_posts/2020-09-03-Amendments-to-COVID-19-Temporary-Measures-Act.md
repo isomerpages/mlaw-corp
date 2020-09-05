@@ -16,11 +16,11 @@ permalink: /news/press-releases/2020-09-03-Amendments-to-COVID-19-Temporary-Meas
 {:start="3"}
 3. The COVID-19 (Temporary Measures) (Amendment No. 2) Bill was introduced in Parliament today. It seeks to strengthen the assurance afforded by the Act through:
 
-a. Expanding the powers of rental relief assessors; 
-<br><br>b. Clarifying the interaction between Part 8 of the Act and other dispute resolution proceedings; and
-<br><br>c. Enhancing the certainty of alternative meeting arrangements.
+   a. Expanding the powers of rental relief assessors; 
+<br><br>  b. Clarifying the interaction between Part 8 of the Act and other dispute resolution proceedings; and
+<br><br>  c. Enhancing the certainty of alternative meeting arrangements.
 
-If passed, these amendments will keep our legal interventions relevant and responsive to the continued uncertainty wrought by COVID-19. 
+   If passed, these amendments will keep our legal interventions relevant and responsive to the continued uncertainty wrought by COVID-19. 
 
 {:start="4"}
 4. Further details of these amendments are still being worked out and will be announced separately. We aim for the amendments, together with the necessary changes in subsidiary legislation, to take effect before end September 2020.
@@ -30,16 +30,16 @@ If passed, these amendments will keep our legal interventions relevant and respo
 {:start="5"}
 5. Under the rental relief framework, a landlord who is unable to reach an agreement with his tenant may apply to have an independent rental relief assessor ascertain:
 
-a. The tenant’s eligibility for rental waivers (either the portion supported by Government assistance, and/or the portion borne by the landlord)
-<br><br>b. The landlord’s eligibility to provide a reduced amount of rental waivers, on the basis of financial hardship
+  a. The tenant’s eligibility for rental waivers (either the portion supported by Government assistance, and/or the portion borne by the landlord)
+<br><br>  b. The landlord’s eligibility to provide a reduced amount of rental waivers, on the basis of financial hardship
 
 {:start="6"}
 6. The amendments to the Act will expand the powers of rental relief assessors so that they can make determinations on unresolved disputes relating to the amount of rent to be waived under the framework, where the amount is affected by any of the following factors:
 
-a. The amount of maintenance and service charges<sup><a href="#fn1" id="ref1">1</a></sup>, especially where such charges are not explicitly listed in the lease or licence agreement
-<br><br>b. The amount that can be offset by assistance provided by the landlord earlier
-<br><br>c. Tenant(s) occupying the property for only a part of the relief period
-<br><br>d. Sub-division of the property 
+  a. The amount of maintenance and service charges<sup><a href="#fn1" id="ref1">1</a></sup>, especially where such charges are not explicitly listed in the lease or licence agreement
+<br><br>  b. The amount that can be offset by assistance provided by the landlord earlier
+<br><br>  c. Tenant(s) occupying the property for only a part of the relief period
+<br><br>  d. Sub-division of the property 
 
 <b><u>(B) Clarifying interaction between Part 8 and other dispute resolution proceedings</u></b>
 
@@ -49,10 +49,10 @@ a. The amount of maintenance and service charges<sup><a href="#fn1" id="ref1">1<
 {:start="8"}
 8. The amendments to the Act will ensure that the different dispute resolution mechanisms interact smoothly in the following manner when Part 8 is brought into force:
 
-a. No application for relief under Part 8 can be filed under the Act if court, arbitral or Building and Construction Industry Security of Payment Act (“SOPA”) proceedings have already commenced in relation to the subject of the application.  
-<br><br>b. Conversely, once an application for this particular relief is filed under Part 8 of the Act, the other party or parties to the contract cannot commence court, arbitral or SOPA proceedings for the same matter. This moratorium on legal proceedings will continue until a determination under the Act is issued or the application is rejected or withdrawn.
-<br><br>c. Where a determination under the Act has been issued and the terms of the contract adjusted, any subsequent applications and determinations made under SOPA must be based on the adjusted contract terms.
-<br><br>d. Where a SOPA adjudication application is made prior to the other party seeking relief under the Act, the SOPA adjudicator will be empowered to account for the effects brought about by COVID-19, by giving similar relief as an Assessor may provide under Part 8. 
+  a. No application for relief under Part 8 can be filed under the Act if court, arbitral or Building and Construction Industry Security of Payment Act (“SOPA”) proceedings have already commenced in relation to the subject of the application.  
+<br>  b. Conversely, once an application for this particular relief is filed under Part 8 of the Act, the other party or parties to the contract cannot commence court, arbitral or SOPA proceedings for the same matter. This moratorium on legal proceedings will continue until a determination under the Act is issued or the application is rejected or withdrawn.
+<br><br>  c. Where a determination under the Act has been issued and the terms of the contract adjusted, any subsequent applications and determinations made under SOPA must be based on the adjusted contract terms.
+<br><br>  d. Where a SOPA adjudication application is made prior to the other party seeking relief under the Act, the SOPA adjudicator will be empowered to account for the effects brought about by COVID-19, by giving similar relief as an Assessor may provide under Part 8. 
 
 <b><u>(C) Enhancing certainty of alternative meeting arrangements</u></b>
 
