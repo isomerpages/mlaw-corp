@@ -27,8 +27,8 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister
 {:start="6"}
 6. This Bill consists of two main parts. 
 
-  a. First, it makes a number of technical amendments to facilitate the implementation and the delivery of reliefs. 
-  <br><br>b. Second, it introduces temporary measures for the Minister to extend certain collective sale deadlines, on a case-by-case basis. 
+   a. First, it makes a number of technical amendments to facilitate the implementation and the delivery of reliefs. 
+   <br><br>b. Second, it introduces temporary measures for the Minister to extend certain collective sale deadlines, on a case-by-case basis. 
 
 **Technical amendments to enhance implementation of reliefs in COVID-19 (Temporary Measures) Act**
 
@@ -50,9 +50,9 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister
 {:start="12"}
 12. Let me just briefly summarise the framework that is in place, so that Members can appreciate the context in which we seek to make the amendments in this Bill: 
 
-  a. The rental relief framework mandated an equitable co-sharing of rental obligations between the Government, landlords and tenants; 
-  <br><br>b. It provided additional rental relief for tenants who were substantially impacted by COVID-19; and also
-  <br><br>c. Facilitated the appointment of a panel of rental relief assessors to consider disputes between parties in the manner I outlined earlier.  
+    a. The rental relief framework mandated an equitable co-sharing of rental obligations between the Government, landlords and tenants;
+    <br><br>b. It provided additional rental relief for tenants who were substantially impacted by COVID-19; and also
+    <br><br>c. Facilitated the appointment of a panel of rental relief assessors to consider disputes between parties in the manner I outlined earlier.  
 
 {:start="13"}
 13. The relief measures have been a lifeline for many Singaporeans and local businesses. Let me just give Members a sense of the numbers of the cases that have gone through the system. As at 1 September 2020, 7,046 Notifications for Relief, or “NFRs” had been served through MinLaw’s electronic system. There are others which are done manually, which we are unable to track in the system. Out of these, 1,272 applications for determinations by assessors have been filed. 
@@ -91,9 +91,9 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister
 {:start="23"}
 23. At present, only three distinct matters may be determined by a rental relief assessor: 
 
-  a. Whether the tenant satisfies the prescribed criteria to qualify for rental relief; 
-  <br><br>b. Whether the tenant satisfies the prescribed additional criteria for the additional rental relief; and 
-  <br><br>c. Whether the landlord satisfies the criteria for a reduction of the additional rental relief. 
+    a. Whether the tenant satisfies the prescribed criteria to qualify for rental relief; 
+    <br><br>b. Whether the tenant satisfies the prescribed additional criteria for the additional rental relief; and 
+    <br><br>c. Whether the landlord satisfies the criteria for a reduction of the additional rental relief. 
 
 {:start="24"}
 24. The Bill expands the powers of the rental relief assessors, to allow them to make determinations on a wider range of matters in order to better assist landlords and tenants implement the rental waivers in a fair manner. 
@@ -101,8 +101,8 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister
 {:start="25"}
 25. The Bill will empower the assessors to determine: 
 
-  a. The amount of rent to be waived pursuant to lease agreements. This will address instances where service or maintenance charges are not broken down under the lease agreement. The reason for this, if I may explain to Members, is that the relief that’s been given – two months from Government and two months from the landlords – covers the base rent without the charges. The reason for not requiring the landlords to waive the charges is because these charges continue to be due to the service providers in the form of maintenance or service charges. Sometimes, the lease agreement itself might not stipulate which portion is base rent and which portion are these service charges. These amendments seek to empower the assessors to make a determination as to which portion ought to be waived.
-  <br><br>b. In addition, the rental relief regulations, which I’m sure Members have studied carefully, also provide a series of formulae which apply to the different scenarios for rental waivers to take place, sometimes depending on when the tenant has moved in or moved out, or whether or not the business is of one nature or another, depending on the criteria. This Bill enlarges the assessors’ powers so that should the assessor come across these cases, they will not lack the jurisdiction to address all of these disputes holistically.  
+    a. The amount of rent to be waived pursuant to lease agreements. This will address instances where service or maintenance charges are not broken down under the lease agreement. The reason for this, if I may explain to Members, is that the relief that’s been given – two months from Government and two months from the landlords – covers the base rent without the charges. The reason for not requiring the landlords to waive the charges is because these charges continue to be due to the service providers in the form of maintenance or service charges. Sometimes, the lease agreement itself might not stipulate which portion is base rent and which portion are these service charges. These amendments seek to empower the assessors to make a determination as to which portion ought to be waived.
+    <br><br>b. In addition, the rental relief regulations, which I’m sure Members have studied carefully, also provide a series of formulae which apply to the different scenarios for rental waivers to take place, sometimes depending on when the tenant has moved in or moved out, or whether or not the business is of one nature or another, depending on the criteria. This Bill enlarges the assessors’ powers so that should the assessor come across these cases, they will not lack the jurisdiction to address all of these disputes holistically.  
 
 <u>(B) Reconciling the operation of Part 8 with the SOPA</u>
 
@@ -182,9 +182,9 @@ permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister
 {:start="49"}
 49. Clauses 5, 8 and 14 therefore provide that the Registrar will have discretionary rejection powers on certain grounds, such as:
 
-  a. where the contract is not a scheduled contract (it doesn’t come within the ambit of the Act altogether), 
-  <br><br>b. if the application is incomplete or, 
-  <br><br>c. if the application is materially false or misleading, frivolous, or is an abuse of process. Members would know that this closely aligns with the kinds of standards that we prescribe for filing papers in judicial proceedings.
+    a. where the contract is not a scheduled contract (it doesn’t come within the ambit of the Act altogether), 
+    <br><br>b. if the application is incomplete or, 
+    <br><br>c. if the application is materially false or misleading, frivolous, or is an abuse of process. Members would know that this closely aligns with the kinds of standards that we prescribe for filing papers in judicial proceedings.
 
 {:start="50"}
 50. These amendments seek to achieve a balance between an optimum use of limited resources - as I mentioned earlier, many of them are volunteer resources as well – and also fairness to the parties. 
