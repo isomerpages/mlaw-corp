@@ -23,7 +23,7 @@ The current EWO 2017 will expire on 31 Dec 2020, MinLaw and IPOS would like to s
 
 MinLaw and IPOS are seeking views on the situations in which users should be permitted to circumvent TPMs for legitimate uses of copyrighted works. Your views are important and will help shape the outcome of this renewal exercise. The consultation period will run from Monday **<u>7 September to Friday 2 October 2020</u>**.
 
--	[Read the full consultation paper on the Copyright (Excluded Works) Order](/files/EWO2020_PublicConsultation.pdf)[PDF]<br>
+-	[Read the full consultation paper on the Copyright (Excluded Works) Order](/files/EWO2020_PublicConsultation.pdf) [PDF]<br>
 -	Provide feedback via [FormSG](https://go.gov.sg/ewo-consult2020) 
 
 Alternatively, if you prefer to provide detailed comments in writing, instructions for doing so may be found in Part III of the full consultation paper (link above).
