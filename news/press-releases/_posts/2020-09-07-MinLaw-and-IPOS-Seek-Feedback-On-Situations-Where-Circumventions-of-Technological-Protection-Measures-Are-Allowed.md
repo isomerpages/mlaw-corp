@@ -28,7 +28,7 @@ permalink: /news/press-releases/MinLaw-and-IPOS-Seek-Feedback-On-Situations-Wher
 {:start="6"}
 6.	The current EWO 2017 will expire on 31 Dec 2020. MinLaw and IPOS would like to seek feedback on the exceptions to include in the next EWO, including whether the current exceptions in the EWO 2017 are still relevant and should be retained for the next EWO. 
 
-{ol start="7"}
+<ol start="7">
 <li>In particular, the public consultation seeks to gather feedback from creators, users of copyrighted works and the general public on whether the exceptions in the EWO 2017 should be retained, expanded, or limited. These exceptions allow the following uses of copyrighted works:   
 
 <ol style="list-style-type: lower-roman">
