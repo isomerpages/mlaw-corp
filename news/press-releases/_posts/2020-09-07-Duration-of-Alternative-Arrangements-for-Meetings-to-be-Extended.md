@@ -43,7 +43,7 @@ permalink: /news/press-releases/Duration-of-Alternative-Arrangements-for-Meeting
 
 
 [Annex A - Meetings Orders (297KB)](/files/news/press-releases/2020/9/AnnexA_AlternativeMeetingArrangements.pdf)
-[Annex B - Deferral Provisions in Meetings Orders (177KB)](/files/news/press-releases/2020/9/AnnexB_AlternativeMeetingArrangements.pdf)
+<br>[Annex B - Deferral Provisions in Meetings Orders (177KB)](/files/news/press-releases/2020/9/AnnexB_AlternativeMeetingArrangements.pdf)
 
 
 <p class="right-side-updated">Last updated on 07 Sep 2020</p>
