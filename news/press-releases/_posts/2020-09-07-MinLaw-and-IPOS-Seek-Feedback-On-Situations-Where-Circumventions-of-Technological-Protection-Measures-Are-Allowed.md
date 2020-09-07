@@ -38,6 +38,7 @@ permalink: /news/press-releases/MinLaw-and-IPOS-Seek-Feedback-On-Situations-Wher
 <li><u>Use of short clips from films or shows for criticism or commentary</u> 
 <li><u>Investigating and fixing cybersecurity flaws</u> 
 <li><u>Replacement or repair of essential or emergency system software</u> 
+</ol>
 
 {:start="8"}
 8.	MinLaw and IPOS also welcome feedback on whether additional exceptions in the EWO are necessary to enable legitimate uses of copyrighted works.
