@@ -37,7 +37,7 @@ If the landlord meets the grounds of financial hardship above, the rental relief
 
 ##### <a name="application">Application Process</a><a href="#refa" title="Return to top">↩</a> #####
 
-Applicant landlords may use the following links to submit an application within 10 working days after receiving (a copy of) the notice of cash grant, which must be accompanied by documents and information as specified in the Registrar’s directives, which can be accessed [here](/files/RentalReliefRegistrarsDirective.pdf):
+Applicant landlords may use the following links to submit an application within 10 working days after receiving (a copy of) the notice of cash grant, which must be accompanied by documents and information as specified in the Registrar’s directives, which can be accessed [here](/files/rentalreliefframework/RRFRegistrarsDirectives.pdf):
 
   - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalrelief-application-corppass) (CorpPass)
   - If applying as an individual, please use this [link](https://go.gov.sg/rentalrelief-application) (SingPass) 
