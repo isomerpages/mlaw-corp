@@ -79,7 +79,7 @@ Please note that only ongoing or new disputes on the above matters between landl
 
 The prescribed forms relating to rental relief assessment are linked below for reference only. Please note that submissions to the Registry should be made using the links provided above on this page, with SingPass / CorpPass authentication.
 
-   - [Registrar’s Directives](/files/RentalReliefRegistrarsDirective.pdf) <br>
+   - [Registrar’s Directives](/files/rentalreliefframework/RRFRegistrarsDirectives.pdf) <br>
    - [Form 1 (Regulation 23(1)(b))](/files/rentalreliefframework/Form1.pdf)  <br>
    - [Form 7 (Regulation 23(1)(5))](/files/RentalReliefForm7.pdf) <br>
    - [Form 8 (Regulation 24)](/files/rentalreliefframework/Form8.pdf) <br>
