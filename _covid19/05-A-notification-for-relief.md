@@ -9,7 +9,7 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 
 ### Notification for Relief ### 
 
-We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
+We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
 
 <u>Notification for Relief is NOT NEEDED for Rental Relief</u>
 
