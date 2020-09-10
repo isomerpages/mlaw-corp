@@ -12,17 +12,19 @@ You should only make an application for an Assessor’s Determination (“<b>App
 
 Please note that the outcome of the **Application** will be final. There will be no appeals from the Assessor’s determination. 
 
-<u>Rental relief and Additional Relief under the Amendment Act</u>
+<u>Important Note if You Are Seeking Rental Relief</u>
 
-<u>Important note</u>: If  you are a SME tenant seeking rental waivers under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you do not need to make an application for an Assessor’s determination under Part 2 of the Act. 
+If  you are a SME tenant seeking rental waivers under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you DO NOT need to make an application for an Assessor’s determination under Part 2 of the Act. Please check if you fall within one of the following scenarios: 
 
-Once the property owner receives the notice of cash grant from IRAS, the applicable rental (excluding service and maintenance fees) and any interest payable on the rental is waived.
+* If you are a SME and believe that you are eligible for rental waivers, but have not heard from the landlord or received the Notice of Cash Grant, you may make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant)from 21 August 2020 to 21 October 2020.
+* If your landlord has served you the Notice of Cash Grant issued by IRAS, you DO NOT need to make an application for an Assessor’s determination or do anything further. The rental waivers apply automatically upon receipt of the Notice of Cash Grant by your landlord. You simply do not need to pay rent for the applicable period to the landlord.
+* If you received the Notice of Cash Grant, but have already paid rent for those months for which rent should have been waived (e.g. April and May), you may simply apply the waiver to future rent (e.g. waive the rent for October and November). You DO NOT need to to request that your landlord return the April and May rent to you. If there is insufficient time left in the lease, you can obtain a refund from your landlord. If the landlord refuses to make the refund, please seek independent legal advice on how to commence legal proceedings to claim the refund.  You do not need to make an application for anAssessor’s determination.
 
 If there is any disagreement on the tenant’s eligibility for the rental waivers, the landlord may make an application to have a rental relief assessor ascertain the tenant’s eligibility.
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#assess) to find out more about the rental relief framework and assessor’s determination under the rental relief framework.
 
-<u>Relief under the Act</u>
+<u>Relief for inability to perform contractual obligations</u>
 ##### Step 1: Applicant Applies for an Assessor's Determination #####
 Any party or parties to the contract who wish to apply for an Assessor’s determination (“<b>the Applicant</b>”) must submit to the Registrar an <b>Application</b> after serving or being served the <b>Notification for Relief</b>:
 
