@@ -11,17 +11,23 @@ second_nav_title: Part 2 of the Act-Notification for Relief
 
 We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
 
-<u>Rental Relief and Additional Rental Relief under the Amendment Act</u> 
+<u>Notification for Relief is NOT NEEDED for Rental Relief</u>
 
-Eligible tenant occupiers, seeking rental relief under the Amendment Act, <u>do not</u> have to serve a Notification for Relief on their landlord.  
+The rental relief framework is a separate and different relief regime under a different Part of the Act.
 
-Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties. 
+Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties.
 
-The Amendment Act also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement. 
+Eligible tenant occupiers, seeking rental relief waivers <u>DO NOT need</u> to serve a Notification for Relief on their landlord. Please check if you fall within one of the following scenarios:
 
-Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental relief under the Amendment Act. 
+* If you are a SME and believe that you are eligible for rental waivers, but have not heard from the landlord or received the Notice of Cash Grant, you may make an application to IRAS at https://go.gov.sg/governmentcashgrant from 21 August 2020 to 21 October 2020.
+* If your landlord has served you the Notice of Cash Grant issued by IRAS, you DO NOT need to serve a Notification for Relief on your landlord or do anything further. The rental waivers apply automatically upon receipt of the Notice of Cash Grant by your landlord. You simply do not need to pay rent for the applicable period to the landlord.
+* If you received the Notice of Cash Grant, but have already paid rent for those months for which rent should have been waived (e.g. April and May), you may simply apply the waiver to future rent (e.g. waive the rent for October and November). You DO NOT need to to request that your landlord return the April and May rent to you. If there is insufficient time left in the lease, you can obtain a refund from your landlord. If the landlord refuses to make the refund, please seek independent legal advice on how to commence legal proceedings to claim the refund.  You do not need to serve a Notification for Relief.
 
-<u>Relief under the Act</u>
+Apart from rental waivers, the rental relief framework also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement, as well as a statutory repayment plan for arrears. 
+
+Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental waivers under the rental relief framework.  
+
+<u>Relief for inability to perform contractual obligations</u>
 
 If you require relief under the Act for a contract that is covered by Part 2 of the [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}, you have to serve a <b>Notification for Relief</b>.
 
