@@ -50,7 +50,7 @@ permalink: /news/press-releases/press-releases-more-than-50-countries-in-singapo
   
 [Annex C – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference (0.4MB)](/files/news/press-releases/2019/07/AnnexCLaunchOfTheINSOLAsiaHUb.pdf)  
   
-[Annex D – Singapore Convention on Mediation (0.4MB)](/files/news/press-releases/2019/07/AnnexDSingaporeConventionOnMediation.pdf)
+[Annex D – Singapore Convention on Mediation (0.4MB)](/files/news/press-releases/2019/07/AnnexDSingaporeConventiononMediationSCM.pdf)
 
 **MINISTRY OF LAW**  
 **29 JULY 2019**
