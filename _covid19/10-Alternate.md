@@ -8,7 +8,9 @@ collection_name: covid19
 ### Alternative Arrangements for Meetings ###
 With the spread of COVID-19 infections, and the Government’s safe distancing measures to address this, personal attendance at meetings may not be feasible. However, applicable laws or legal instruments may not permit meetings to be held electronically. Difficulties in holding meetings may give rise to problems in transacting usual commercial and governance matters. 
 
-The following Orders have therefore been made under Section 27 of the Act, to enable meetings to be convened, held and conducted by electronic means, or deferred if necessary, even if this is otherwise disallowed under other written law or legal instrument. Meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements.
+The following Orders have therefore been made under Section 27 of the Act, to enable meetings to be convened, held and conducted by electronic means, or deferred if necessary, even if this is otherwise not allowed under other written law or legal instrument. Meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements.
+
+These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information.
 
 <style type="text/css">	
 .tg  {border-collapse:collapse;border-spacing:0;}	
