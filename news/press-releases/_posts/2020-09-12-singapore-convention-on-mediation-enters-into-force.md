@@ -31,7 +31,7 @@ permalink: /news/press-releases/2020-09-12-singapore-convention-on-mediation-ent
 8. 	 Anna Joubin-Bret, Secretary of the United Nations Commission on International Trade Law, says, “With the entry into force of the Convention, we look forward to it bringing certainty and stability to the international framework on mediation, and contributing to the Sustainable Development Goals, including the goal of promoting peaceful and inclusive societies for sustainable development.”
 
 {:start="9"}
-9. 	To mark the entry into force, a digital event featuring a series of high-level speeches, followed by a commemoration ceremony will be screened on the Singapore Convention on Mediation website at www.singaporeconvention.org/events/scm2020 from 12pm Singapore time (GMT+8) today. The video of the event will also be accessible for viewing on the Singapore Convention website after the event.
+9. 	To mark the entry into force, a digital event featuring a series of high-level speeches, followed by a commemoration ceremony will be screened on the Singapore Convention on Mediation website at [www.singaporeconvention.org/events/scm2020](https://www.singaporeconvention.org/events/scm2020) from 12pm Singapore time (GMT+8) today. The video of the event will also be accessible for viewing on the Singapore Convention website after the event.
 
 
 **MINISTRY OF LAW**
