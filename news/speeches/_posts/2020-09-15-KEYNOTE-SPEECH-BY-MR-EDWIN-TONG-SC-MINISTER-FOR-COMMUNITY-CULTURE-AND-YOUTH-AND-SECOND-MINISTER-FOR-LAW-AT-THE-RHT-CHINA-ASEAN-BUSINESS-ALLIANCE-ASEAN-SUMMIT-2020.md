@@ -23,9 +23,9 @@ permalink: /news/speeches/KEYNOTE-SPEECH-BY-MR-EDWIN-TONG-SC-MINISTER-FOR-COMMUN
 
 8.	On top of economic relief, we also passed legislation to provide a different, but equally important, type of assistance. 
 
-  a.	The COVID-19 (Temporary Measures) Act allowed for the deferment of certain contractual obligations that could not be met due to the onset of the pandemic. That also increased the insolvency thresholds for both individuals and businesses, to provide additional safety nets against the unforeseen economic impact of the pandemic. 
+    a.	The COVID-19 (Temporary Measures) Act allowed for the deferment of certain contractual obligations that could not be met due to the onset of the pandemic. That also increased the insolvency thresholds for both individuals and businesses, to provide additional safety nets against the unforeseen economic impact of the pandemic. 
 
-  b.	The COVID-19 (Temporary Measures) (Amendment) Act went further by striking a balance in the commercial, industrial, and office rental framework, and sought to protect SME tenants. 
+    b.	The COVID-19 (Temporary Measures) (Amendment) Act went further by striking a balance in the commercial, industrial, and office rental framework, and sought to protect SME tenants. 
 
 {:start="9"}
 9.	These measures were by no means easy. Sanctity of contract has been, and will continue to be, a core principle of our legal system. However, in these exceptional times, these measures were necessitated by far more fundamental considerations – balance in economy, fairness, compassion, and long-term survivability of everyone in the economy. They also provide our businesses and people breathing space needed to reorganise and tackle the pandemic together and look long-term. Beyond these measures, we are also working on legislation to establish a temporary simplified insolvency programme to help micro and small companies in financial distress.  
@@ -42,9 +42,9 @@ permalink: /news/speeches/KEYNOTE-SPEECH-BY-MR-EDWIN-TONG-SC-MINISTER-FOR-COMMUN
 {:start="13"}
 13.	Second, how our legal regime has allowed us to better weather the impact of COVID-19 and remain as a trusted place for business is a crucial question for us. Our legal regime has been a key pillar of support during this period and it must remain so. Businesses have continued to exhibit confidence in Singapore despite the COVID-19 headwinds. Two examples:
 
-  a.	In March, Hyundai Motors announced the establishment of the Hyundai Mobility Global Innovation Centre in Singapore.
+    a.	In March, Hyundai Motors announced the establishment of the Hyundai Mobility Global Innovation Centre in Singapore.
 
-  b.	Similarly, in June, Tata Consultancy Services also announced plans to launch the Digital Acceleration Centre here in Singapore. 
+    b.	Similarly, in June, Tata Consultancy Services also announced plans to launch the Digital Acceleration Centre here in Singapore. 
 
 {:start="14"}
 14.	Such trust in Singapore as a business and financial hub is built largely on confidence in our robust legal system and strong adherence to the rule of law, but we cannot take it for granted. Businesses like Hyundai and Tata can be confident that their investments will be well-protected. If any investment disputes do arise, businesses are assured that they can be resolved quickly, fairly, cost-effectively and, most importantly, transparently. 
@@ -70,11 +70,11 @@ permalink: /news/speeches/KEYNOTE-SPEECH-BY-MR-EDWIN-TONG-SC-MINISTER-FOR-COMMUN
 {:start="21"}
 21.	Beyond technology, we also need to continue expanding our international reach and capabilities. On the institutional front, we will continue to build international partnerships that set the stage for deeper and more meaningful cooperation. Let me give some examples of what we’ve done in the last couple of years. 
 
-  a.	Since 2014, we have had the Singapore-Myanmar Integrated Legal Exchange which has formalised the exchange of legal expertise between both countries. 
+    a.	Since 2014, we have had the Singapore-Myanmar Integrated Legal Exchange which has formalised the exchange of legal expertise between both countries. 
 
-  b.	In December 2019, MinLaw signed a Memorandum of Understanding with the China Ministry of Justice to establish a Joint Legal Cooperation Council that will meet biennially. 
+    b.	In December 2019, MinLaw signed a Memorandum of Understanding with the China Ministry of Justice to establish a Joint Legal Cooperation Council that will meet biennially. 
 
-  c.	This year, the Singapore International Arbitration Centre has also signed Memoranda of Understanding with the law faculties of universities in Thailand. This will serve as a platform for future and further collaboration.
+    c.	This year, the Singapore International Arbitration Centre has also signed Memoranda of Understanding with the law faculties of universities in Thailand. This will serve as a platform for future and further collaboration.
 
 {:start="22"}
 22.	On the industry front, lawyers must also look at the region for expansion, for growth. Look at it as an opportunity to expand and therefore build the requisite capabilities within the firms to do so. The China-Ready Programme launched by MinLaw hopes to equip our lawyers not only with legal skills and knowledge but also with cultural sensitivity, local and commercial context, enabling lawyers to seize new opportunities in a fast-moving and fast-changing Chinese market. The Programme began in August this year and we believe it will open more doors for Singapore Law Practices. 
