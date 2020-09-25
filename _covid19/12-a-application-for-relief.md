@@ -1,10 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Part 8 of the Act-Application for Relief
-permalink: /covid19-relief/application-for-relief
-breadcrumb: Application for Relief
+permalink: /covid19-relief/key-steps-in-part8
+breadcrumb: Key Steps in the Part 8 Proceedings
 collection_name: covid19
+second_nav_title: Part 8 of the Act-Application for Relief
 ---
+
 ### Key Steps in the Part 8 Proceedings ### 
 
 *Before applying for relief under Part 8 of the Act*
