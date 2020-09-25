@@ -64,85 +64,10 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 The Registrar will review the Application, and if it is in order, send to the Applicant: 
 
-•	An acknowledgement of receipt of the Application; and 
+*	An acknowledgement of receipt of the Application; and 
 
-•	A Response form or link to the Response form that the Respondent (i.e., the other party or parties to the contract) must submit to the Registrar. 
+*	A Response form or link to the Response form that the Respondent (i.e., the other party or parties to the contract) must submit to the Registrar. 
 
 ##### Step 3: Applicant Serves Documents on Respondent #####
 
 Within 2 working days after receiving the documents from the Registrar in Step 2, the Applicant must serve a copy of the Application together with the documents received from the Registrar in Step 2, on all the following Recipients: 
-
-•	The other party or parties to the affected contract (the “Respondent”); and
-•	The guarantor or surety (if any) for the other party or parties to the affected contract 
-
-Please effect service of the documents using the methods listed here. 
-
-##### Step 4: Applicant Submits Declaration of Service #####
-
-The Applicant must submit to the Registrar a Declaration of Service within 2 working days of completing Step 3. This is to show that the Applicant has served the documents on the other party or parties to the contract.
-
-To submit the Declaration of Service using the electronic system:
-
-•	Please use this link (CorpPass) if you are applying for relief on behalf of a business entity. 
-•	Please use this link (SingPass) if you are applying for relief in your own capacity. 
-
-##### Step 5: Respondent Submits Response #####
-
-The Respondent must submit its Response to the Registrar within 5 working days after it is served with the documents in Step 3. The Respondent must also serve the Response on the following Recipient(s), where applicable:
-•	The Applicant; 
-•	Every other party or parties to the affected contract; and 
-•	Any guarantor or surety for the party or parties to the affected contract.
-
-Submission and service by the electronic system
-
-To submit and serve the Response using the electronic system (if you have an email address and the email address(es) of the Recipient(s)):
-
-•	Please use this link (CorpPass), if you are submitting a Response on behalf of a business entity. 
-
-•	Please use this link (SingPass), if you are submitting a Response in your own capacity. 
-
-Submission and service by other modes if you are unable to use the electronic system
-
-If you are unable to submit and serve the Response using the electronic system, please download the Response using this form and:
-•	Send the form to the Registrar by way of email as provided in the acknowledgement of receipt of application which was served on you (you should cite the Application No. in your email request); and
-•	Serve the form on the Recipient(s) using the other modes of service.
-
-Please note that if you are a Respondent, and you fail to submit a Response, the Assessor may proceed to make a determination on the Application, which will be final and binding on you.
-
-##### Step 6: Registrar Sets Appointment for Hearing #####
-
-If the Registrar is satisfied that Steps 3, 4 and 5 has been duly completed, the Registrar will send the Applicant and Respondent an email which sets out the following matters:
-
-•	A notice of the appointment of an Assessor to determine the Application; and 
-
-•	A notice of the date and place for the hearing, if applicable. 
-
-Please note that the Registrar may proceed to fix a hearing if a Response has not been filed within the relevant period in Step 5.
-
-##### Step 7: Assessor Conducts Hearing and Makes Determination #####
-
-The hearing will generally be conducted by way of an exchange of emails. The Assessor may request for clarifications or further documents by email.
-
-If the Assessor is of the opinion that the interest of justice would be better served by an online or physical hearing:
-
-•	Online hearings will be conducted via Webex. 
-
-•	Physical hearings will be held at the State Courts Towers (1 Havelock Square, Singapore 059724) or other venue as advised by the Registrar. 
-
-Please note that for online or physical hearings:
-
-•	An Assessor may permit a party to be accompanied by an interpreter at the hearing. The party will be responsible for procuring an interpreter at its own cost and expense. 
-
-•	Unless otherwise stated, no party may be represented by an advocate and solicitor at the proceedings. 
-
-If a party to a determination is absent from the hearing, the Assessor may dismiss the application or proceed to make a determination on the case.
-
-If the party had a good reason for being absent, he may make an application to set aside the dismissal or determination made in his absence. See Application to Set Aside a Dismissal or Determination.
-
-##### Step 8: Registrar Informs Applicant and Respondent of Assessor’s Determination #####
-
-After the Assessor has made a determination, the Registrar will write to inform all parties of the outcome. 
-
-There is no appeal against an Assessor’s determination, which is final and binding on all parties to the Application.
-
-The Registrar may publish the facts of the case, as well as any arguments made, and the determination that was issued. If so, appropriate redactions will be made such that personal data is not disclosed. 
