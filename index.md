@@ -13,3 +13,5 @@ In line with the current safe distancing measures, we will limit the number of v
 If you and/or accompanying persons are unwell with flu-like symptoms, please refrain from visiting the Ministry of Law Services Centre. <br>
 
 For a list of legal support resources available during this period, click [here](https://www.mlaw.gov.sg/news/announcements/Legal-Support-Resources-Available-During-the-Circuit-Breaker).<br>If you are a law practice, please refer to this [advisory](https://www.mlaw.gov.sg/news/announcements/advisory-for-law-practices-on-elevated-safe-distancing-measures) to see how these measures affect you.
+
+There will be scheduled down time on e-Services portals on 25 Sep 2020, from 6pm to 9pm. During this maintenance window, the e-Services portals will be inaccessible. We appreciate your patience and understanding. Thank you.
