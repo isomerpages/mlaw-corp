@@ -6,33 +6,30 @@ breadcrumb: Other Procedures for Part 8 Proceedings
 collection_name: covid19
 second_nav_title: Part 8 of the Act-Application for Relief
 ---
+### Supporting Documents for Part 8 Application ###
 
-### Other Procedures for Part 8 Proceedings ###
+When you submit an [Application for relief under Part 8](/covid19-relief/key-steps-in-part8) or the [Response to the Application] (/covid19-relief/key-steps-in-part8), you should enclose all relevant supporting documents. This will reduce the need for clarifications, and facilitate a fair and timely consideration of the matter.
 
-#### Extension of Timelines ####
+All parties are to keep all information or documents disclosed by any party, or any matters discussed during the proceedings before the Part 8 Assessor, **confidential**. Parties **must not disclose** the information or documents to any third party.
 
-If you wish to extend the period within which you are required to serve or submit any form or document, you may make a request to the Registrar, or the Assessor if one has been appointed, via email. The email address to be used will be provided in the acknowledgement of receipt of the Application. You should cite the Application No. in your email requests.
+Examples of the documents that may be relevant for each situation are set out below.
 
-#### Amendment of Part 8 Application or Response to the Application ####
+•	**Situation A – Where a person who rented construction goods is or will be liable for additional rental expenses**: 
+•	Rental agreement for the goods that are used for construction works 
+•	Invoices
+•	Negotiations and correspondence between the parties  
+•	**Renter**: Documents showing the renter’s inability to use the goods for construction works, such as:
+o	Evidence of regulatory restrictions such as social distancing measures which affected renter’s ability to return the goods
+o	Evidence of workers under Stay Home Notices or Quarantine Orders
+o	Evidence of workers’ inability to travel to Singapore due to travel restrictions 
 
-If you wish to amend the contents of an **Application** or a **Response**, you may submit a request to the Registrar via email. The email address to be used will be provided in the acknowledgement of receipt of the Application. You should cite the Application No. in your email requests.
+* **Situation B – Where a lessee or licensee (i.e., a tenant) of non-residential immovable property is unable to carry out renovation or fitting out works during the rent-free period**: 
+  * Lease or licence agreement, letter of offer, or offer to let 
+  * Stamp duty certificate
+  * Evidence of any security deposit held by the landlord
+  * Negotiations and correspondence between the parties  
+  * Documents showing that the tenant is unable to complete renovation or fitting out works due to COVID-19, such as:
+    * Evidence of regulatory restrictions such as the Circuit Breaker measures which affected tenant’s ability to complete renovation or fitting out works 
+    * Evidence of workers under Stay Home Notices or Quarantine Orders
+    * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
 
-Please note that any application for amendment is subject to the Registrar’s approval, and must be made before the Assessor issues the determination. 
-
-#### Withdrawal of Part 8 Application ####
-
-##### Step 1 #####
-
-If you (the Applicant) wish to withdraw your Application for relief under Part 8 before the Assessor’s determination is made, you must serve a **Withdrawal of Application** on the Receipient(s):
-
-* **The** other party or parties to the affected contract; and
-* The guarantor or surety (if any) for the other party or parties to the affected contract 
-
-**Service by the electronic system**
-
-To serve the **Withdrawal of Application** on the Receipient(s) using the electronic system (if you have an email address and the email address(es) of the Recipient(s)):
-
-* Please use this link(CorpPass) if you are acting on behalf of a business entity. 
-* Please use this link (SingPass) if you are acting in your own capacity. 
-
-**Note**: It is important that you use the correct link to complete the Withdrawal of Application. Otherwise, the Withdrawal may be ineffective.
