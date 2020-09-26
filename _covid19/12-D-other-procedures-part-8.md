@@ -25,7 +25,7 @@ Please note that any application for amendment is subject to the Registrar’s a
 
 If you (the Applicant) wish to withdraw your Application for relief under Part 8 before the Assessor’s determination is made, you must serve a **Withdrawal of Application** on the Receipient(s):
 
-* The other party or parties to the affected contract; and
+* **The** other party or parties to the affected contract; and
 * The guarantor or surety (if any) for the other party or parties to the affected contract 
 
 **Service by the electronic system**
