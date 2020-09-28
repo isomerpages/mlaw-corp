@@ -1,4 +1,3 @@
-
 ---
 layout: leftnav-page-content
 title: FAQs for Situation A – Additional rental expenses for construction goods
