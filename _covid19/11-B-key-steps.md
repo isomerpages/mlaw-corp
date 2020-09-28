@@ -30,3 +30,6 @@ You (the applicant) must fulfil the criteria below:
 •	The affected contract must be in force during any part of the period from 1 February 2020 to 31 March 2021 (both dates inclusive) 
 •	You are or will be liable for additional rental expenses because of a breach or delay in a construction or supply or related contract, and this breach or delay occurred between 1 February to 31 March 2021, both dates inclusive (Note: The parties to this contract need not be the same parties as the affected contract)
 •	You could not have avoided the additional rental expenses by taking reasonable steps
+
+
+Part 8 of the COVID-19 (Temporary Measures) Act commences on [28 September 2020] and provides relief for specific individuals and businesses that are affected by breaches or delays in construction, supply or related contracts (defined [here](/covid19-relief/faq/Construction)), where such breaches or delays are due to COVID-19.
