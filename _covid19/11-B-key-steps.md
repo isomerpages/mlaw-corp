@@ -9,7 +9,7 @@ second_nav_title: Part 8 of the Act-Relief for Contracts affected by Constructio
 
 ### FAQs for Situation A – Additional rental expenses for construction goods ###
 
-##### Situation A – Where a person who rented construction goods is or will be liable for additional rental expenses #####
+#### Situation A – Where a person who rented construction goods is or will be liable for additional rental expenses ####
 
 A person that has rented construction goods from a supplier may apply for relief if he is or will be liable for additional rental expenses, as a result of a breach of delay in a construction or supply (or related) contract. For example, a contractor (A) rents construction goods from a supplier (B) for the purpose of performing another construction contract that A has with a third party (C). A is required to return the construction goods to B on 1 June 2020. Due to the Covid-19 situation, the construction works on site are delayed by four months. A will be liable for additional rental expenses, as A is unable to use the construction goods for that four month period, and has to extend the rental period by a corresponding four month period. 
 
@@ -17,7 +17,7 @@ Part 8 also applies to the situations below. Further details may be found in the
 * Situation B – Where a lessee or licensee (i.e., a tenant) of non-residential immovable property is unable to carry out renovation or fitting out works during the rent-free period
 * Situation C – Where a lessor or licensor (i.e., a landlord) of non-residential immovable property is unable to deliver possession by the date stated in the lease agreement 
 
-##### FAQs #####
+#### FAQs ####
 
 <i>For Renters </i>
 
