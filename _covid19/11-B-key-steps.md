@@ -21,7 +21,7 @@ Part 8 also applies to the situations below. Further details may be found in the
 
 <i>For Renters </i>
 
-1.	What is the criteria I must fulfil before I can make an application for relief under Part 8? 
+**1.	What is the criteria I must fulfil before I can make an application for relief under Part 8?** 
 
 You (the applicant) must fulfil the criteria below: 
 
