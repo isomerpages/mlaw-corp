@@ -39,4 +39,4 @@ In addition, relief under Part 8 of the Act is not available if, in relation to 
 
 2.	What are “goods that are used for construction work”? 
 
-* “Goods” means plant or materials for use in connection with the carrying out of “construction work”. “Construction work” is defined in [section 3 of SOPA](https://sso.agc.gov.sg/Act/BCISPA2004){:target=”_blank”}. Examples include scaffolding material, and hand drills. 
+* “Goods” means plant or materials for use in connection with the carrying out of “construction work”. “Construction work” is defined in [section 3 of SOPA](https://sso.agc.gov.sg/Act/BCISPA2004){:target="_blank"}. Examples include scaffolding material, and hand drills. 
