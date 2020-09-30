@@ -20,7 +20,7 @@ Part 8 also applies to the situations below. Further details may be found in the
 
 #### FAQs ####
 
-<i>For Renters </i>
+<u>For Renters </u>
 
 **1.	What is the criteria I must fulfil before I can make an application for relief under Part 8?** 
 
@@ -88,7 +88,7 @@ Please see [section 37A of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:t
 * This preclusion is intended to prevent parallel proceedings under Part 8 and SOPA. 
 * You are not disadvantaged by this preclusion. The SOPA adjudicator determining the adjudication application has the same powers to adjust contract terms as an Assessor under Part 8. This allows the SOPA adjudicator to take into account the effects of COVID-19 to reach a just and equitable outcome, which is similar to what the Part 8 Assessors are able to do. 
 
-<i>For Suppliers</i> 
+<u>For Suppliers</u> 
 
 **10.	My renter has applied for relief under Part 8 and served the Application on me. What do I do next?** 
 
@@ -102,7 +102,7 @@ You should explain your situation to the Assessor in your Response. The Assessor
 
 #### Interaction with SOPA ####
 
-<i>Effect of the moratorium</i> 
+<u>Effect of the moratorium</u> 
 
 Once the application for relief under Part 8 has been served on the other party to the contract (i.e., the supplier), the supplier may not lodge an adjudication application under SOPA in relation to:
 * the renter’s obligation to return the goods by a specified date in the affected contract; or 
@@ -135,7 +135,7 @@ The SOPA adjudication application process will take into account the Part 8 Dete
 
 Please see [section 38B of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} for further details. 
 
-<i>SOPA adjudicators conferred similar powers as the Part 8 Assessors</i>
+<u>SOPA adjudicators conferred similar powers as the Part 8 Assessors</u>
 
 SOPA adjudicators have been temporarily conferred with similar powers as the Part 8 Assessors to adjust prescribed obligations, rights and terms in contracts for which an adjudication application has already been made under section 13(1) of SOPA. This allows SOPA adjudicators to reach a just and equitable outcome that takes into account the unexpected effects brought about by COVID-19.
 
