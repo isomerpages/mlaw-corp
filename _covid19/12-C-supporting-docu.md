@@ -42,6 +42,6 @@ Examples of the documents that may be relevant for each situation are set out be
   * Negotiations and correspondence between the parties  
   * Documents showing that the landlord is unable to deliver vacant possession in time due to COVID-19, such as:
     * Evidence of regulatory restrictions such as the Circuit Breaker measures which affected landlord’s ability to complete construction/fitting out works to deliver vacant possession in time
-   * Evidence of workers under Stay Home Notices or Quarantine Orders
-   * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
+    * Evidence of workers under Stay Home Notices or Quarantine Orders
+    * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
  
