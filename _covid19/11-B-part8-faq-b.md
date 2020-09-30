@@ -66,7 +66,7 @@ The moratorium will end on the earliest of the following:
 
 Under the moratorium, the other party or parties to the affected contract may not start court proceedings or arbitral proceedings against you in relation to the rent-free period. 
 
-Please see section 37A of the Act [here] (http://sso.agc.gov.sg/Act/COVID19TMA2020){:target=”_blank”} for the full list of prohibited actions during the moratorium. 
+Please see section 37A of the Act [here] (http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} for the full list of prohibited actions during the moratorium. 
 
 **7.	I was unable to carry out renovation or fitting out works during the rent-free period for reasons unrelated to COVID-19. Can I apply for relief under Part 8?** 
 
