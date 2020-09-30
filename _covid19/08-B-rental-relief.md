@@ -532,9 +532,11 @@ b)	Satisfies one or more of the following conditions:
 
     b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether solely or jointly with another person and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
-    c)	The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period constituted 75% or more of the landlord’s gross income in that period.
+    c)	The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period<sup><a href="#fn1" id="ref1">1</a></sup>  constituted 75% or more of the landlord’s gross income in that period.
 
 *	If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
+
+<p><sup id="fn1">1. If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties.</sup></p>
 
 **52. If a property is owned by more than one owner, can the owner(s) still apply for an assessment on the grounds of financial hardship?**
 
