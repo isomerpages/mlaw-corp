@@ -83,11 +83,11 @@ permalink: /news/press-releases/2020-09-30-Commencement-of-Amendments-to-COVID-1
 
 <p><sup id="fn4">4. Leases or licences of non-residential property renewed on or after 25 March 2020, either automatically or in exercise of a right of renewal in the lease or licence agreement, are also eligible.<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
-[Annex A1 - Rental Relief Assessment - When to seek assessment (245KB)](/files/news/press-releases/2020/9/Rented-construction-goods.pdf)
-<br>[Annex A2 - Rental Relief Assessment - Assessment process (382KB)](/files/news/press-releases/2020/9/Rent-free-period.pdf)
-<br>[Annex B1 - Part 8 - Contracts for rental of construction goods (374KB)](/files/news/press-releases/2020/9/Delivering-possession.pdf)
-<br>[Annex B2 - Part 8 - Rent-free period for non-residential leases or licences (125KB)](/files/news/press-releases/2020/9/When-to-Seek-Assessment.pdf)
-<br>[Annex B3 - Part 8 - Delivering possession under a non-residential lease or licence (108KB)](/files/news/press-releases/2020/9/Assessment-Process.pdf)
+[Annex A1 - Rental Relief Assessment - When to seek assessment (245KB)](/files/news/press-releases/2020/9/When-to-Seek-Assessment.pdf)
+<br>[Annex A2 - Rental Relief Assessment - Assessment process (382KB)](/files/news/press-releases/2020/9/Assessment-Process.pdf)
+<br>[Annex B1 - Part 8 - Contracts for rental of construction goods (374KB)](/files/news/press-releases/2020/9/Rented-construction-goods.pdf)
+<br>[Annex B2 - Part 8 - Rent-free period for non-residential leases or licences (125KB)](/files/news/press-releases/2020/9/Rent-free-period.pdf)
+<br>[Annex B3 - Part 8 - Delivering possession under a non-residential lease or licence (108KB)](/files/news/press-releases/2020/9/Delivering-possession.pdf)
 
 
 <p class="right-side-updated">Last updated on 30 Sep 2020</p>
