@@ -99,7 +99,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn2" id="ref2">2</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn3 id="ref3">3</a></sup>; and</li>
+<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn2" id="ref2">2</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn3" id="ref3">3</a></sup>; and</li>
 <li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn4" id="ref4">4</a></sup>.</li>
 </ol>
  <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>4</sup>. </li>
@@ -111,7 +111,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Please refer to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform" target="new">online self-assessment tool </a> for a preliminary assessment on the rental waiver that a tenant may be eligible for or that a landlord may be required to provide. 
 
-**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?
+**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?**
 
 * Gross income, in the context of the eligibility criteria for the Additional Rental Relief under Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, means total revenue minus direct costs (but before indirect costs like overheads and taxes).
  
