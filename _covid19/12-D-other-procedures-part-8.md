@@ -87,7 +87,7 @@ A party that wishes to oppose the **Application to Set Aside a Dismissal or Dete
 To submit and serve the Reply using the electronic system (if you have an email address, and the email address of the party who made the **Application to Set Aside a Dismissal or Determination**):
 
 * Please use this [link (CorpPass)](https://go.gov.sg/form-h-part-8-cp){:target="_blank"} if you are acting on behalf of a business entity. 
-* Please use this link (SingPass)](https://go.gov.sg/form-h-part-8-sp){:target="_blank"} if you are acting in your own capacity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-h-part-8-sp){:target="_blank"} if you are acting in your own capacity. 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
