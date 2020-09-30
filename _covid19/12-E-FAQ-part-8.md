@@ -12,10 +12,10 @@ second_nav_title: Part 8 of the Act-Application for Relief
 **1. Who are the Assessors?**
 * The Assessors are qualified lawers, public accountants, chartered accountants with at least 3 years’ working experience, or persons who have at least 3 years’ working experience in or relating to law, accountancy, finance, business management, building and construction or architecture. 
 
-**2. Can an in-house counsel represent his company in proceedings before the Part 8 Assessor? **
+**2. Can an in-house counsel represent his company in proceedings before the Part 8 Assessor?**
 * Except with the permission of the Assessor, parties cannot be represented by an advocate and solicitor at proceedings before a Part 8 Assessor. This includes an in-house counsel who is admitted as an advocate and solicitor of the Supreme Court, but does not have a practising certificate. 
 
-**3. I am a party to proceedings before a Assessor. What documents should I attach in my Application / Response? **
+**3. I am a party to proceedings before a Assessor. What documents should I attach in my Application / Response?**
 * You may refer to [this page](/covid19-relief/supporting-docu-part8) for examples on the supporting documents that may be attached to your Application / Response. 
 
 **4. What is the total file size of the documents that can be attached to the Application or Response?**
