@@ -65,7 +65,6 @@ To submit the Application to the Registrar using the electronic system:
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
 #### Application to Set Aside a Part 8 Dismissal or Determination ####
-<a id="setaside”> </a>
 Please note that if a party to an **Application** is absent from the hearing, the Assessor may nevertheless proceed to make a determination, or dismiss the Application. If the party had a good reason for being absent, and wishes to set aside the Assessor’s determination, the party may submit an **Application to Set Aside a Dismissal or Determination**.
 
 ##### Step 1 #####
