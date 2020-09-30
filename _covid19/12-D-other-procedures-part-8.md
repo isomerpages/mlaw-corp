@@ -54,8 +54,7 @@ To submit the **Declaration of Service** to the Registrar using the electronic s
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
-#### Request to Correct Error in Part 8 Assessor’s Determination ####
-##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a> #####
+##### <a name="correcterror">Request to Correct Error in Part 8 Assessor’s Determination</a> #####
 If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s Determination, you may submit an **Application to Correct Error in Determination**.
 
 To submit the Application to the Registrar using the electronic system:
@@ -64,7 +63,7 @@ To submit the Application to the Registrar using the electronic system:
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
-#### Application to Set Aside a Part 8 Dismissal or Determination ####
+##### <a name="setaside">Application to Set Aside a Part 8 Dismissal or Determinationn</a> #####
 Please note that if a party to an **Application** is absent from the hearing, the Assessor may nevertheless proceed to make a determination, or dismiss the Application. If the party had a good reason for being absent, and wishes to set aside the Assessor’s determination, the party may submit an **Application to Set Aside a Dismissal or Determination**.
 
 ##### Step 1 #####
