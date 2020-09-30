@@ -25,12 +25,12 @@ Part 8 also applies to the situations below. Further details may be found in the
 
 You (the applicant) must fulfil the criteria below: 
 * You must be a party to a lease or licence of non-residential property (the “affected contract”) that:
- *	is entered into, or renewed, before 25 March 2020; or
- * is entered into before 25 March 2020, and is renewed on or after 25 March 2020, either automatically or in exercise of a right of renewal in the lease or licence agreement.
+  *	is entered into, or renewed, before 25 March 2020; or
+  * is entered into before 25 March 2020, and is renewed on or after 25 March 2020, either automatically or in exercise of a right of renewal in the lease or licence agreement.
 * The affected contract must be in force at any time between 1 February 2020 and 31 March 2021 (both dates inclusive) 
 * The affected contract must include a term providing for a period (the “rent-free period”): 
- *	for you (the lessee or licensee) to carry out renovation or fitting out works; and 
- *	during which rent is not payable, or a reduced amount of rent is payable, by you. 
+  *	for you (the lessee or licensee) to carry out renovation or fitting out works; and 
+  *	during which rent is not payable, or a reduced amount of rent is payable, by you. 
 * You are unable to carry out or complete renovation or fitting out works during the rent-free period (the “inability”) because of a delay or breach in a separate construction or supply (or related) contract (the parties to this contract need not be the same parties as the affected contract) and you could not have avoided the inability by taking reasonable steps 
 * The delay or breach occurred between 1 February and 31 March 2021 (both dates inclusive) due to COVID-19
 
