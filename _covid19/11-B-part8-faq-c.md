@@ -57,7 +57,7 @@ The moratorium will end on the earliest of the following:
 
 Under the moratorium, the other party or parties to the affected contract may not start court or arbitral proceedings against you in relation to your inability to deliver possession by the date stated in the lease or licence agreement. 
 
-Please see section 37A of the Act [here] (http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}  for the full list of prohibited actions during the moratorium. 
+Please see section 37A of the Act [here](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}  for the full list of prohibited actions during the moratorium. 
 
 **6.	I was unable to deliver possession of the property by the date stated in the lease agreement for reasons unrelated to COVID-19. Can I apply for relief under Part 8?** 
 
