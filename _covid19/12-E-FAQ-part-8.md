@@ -25,8 +25,8 @@ second_nav_title: Part 8 of the Act-Application for Relief
 * If you have a pending Application, you should inform the Registrar of the settlement and that you wish to withdraw the Application. You may do so by submitting a request to the Registrar via the electronic system.
 
 * To submit the Withdrawal to the Registrar using the electronic system:
-  * Please use this [link(CorpPass)](https://go.gov.sg/form-c-part-8-cp), if you are acting on behalf of a business entity. 
-  * Please use this [link (SingPass)](https://go.gov.sg/form-c-part-8-sp),  if you are acting in your own capacity. 
+  * Please use this [link (CorpPass)](https://go.gov.sg/form-c-part-8-cp){:target="_blank"}, if you are acting on behalf of a business entity. 
+  * Please use this [link (SingPass)](https://go.gov.sg/form-c-part-8-sp){:target="_blank"},  if you are acting in your own capacity. 
 
   * To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
@@ -48,7 +48,7 @@ second_nav_title: Part 8 of the Act-Application for Relief
 * Neither the Registry nor the Assessor is obligated to provide detailed grounds for the determination.
 
 **8. I have received my determination. However, there is a clerical error in the determination (e.g. the name of one of the parties is inaccurate, or the date of the contract is inaccurate). Can I ask for the error to be corrected?**
-* You may file a [Request to Correct Error](/covid19-relief/other-procedures-part8#correct-error) in Part 8 Assessor’s Determination.
+* You may file a [Request to Correct Error](/covid19-relief/other-procedures-part8#correcterror) in Part 8 Assessor’s Determination.
 * Please note that this does not operate as an appeal. The Part 8 Assessor’s determination is not appealable.
 
 **9. Will the application under Part 8 be free?** 
