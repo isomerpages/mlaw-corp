@@ -14,7 +14,7 @@ A tenant of non-residential property may be granted a rent-free period to carry 
 
 Part 8 also applies to the situations below. Further details may be found in the FAQs that are linked below: 
 * [Situation A – Where a person who rented goods used for construction work is or will be liable for additional rental expenses](/covid19-relief/part8faq-situation-A)  
-* [Situation C – Where a lessor or licensor (i.e., a landlord) of non-residential property is unable to deliver possession by the date stated in the lease or licence agreement] (/covid19-relief/part8faq-situation-C)  
+* [Situation C – Where a lessor or licensor (i.e., a landlord) of non-residential property is unable to deliver possession by the date stated in the lease or licence agreement](/covid19-relief/part8faq-situation-C)  
  
 #### FAQs ####
 
