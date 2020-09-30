@@ -109,6 +109,6 @@ To obtain the stay or dismissal of the proceedings, you must submit a [Memorandu
 If you previously lodged a **Memorandum of Application for Determination under Part 8** to obtain a **stay** of proceedings, you are required to update the relevant body as stated below.  
 
 * If the Assessor has **issued a determination** or has **dismissed the Application**, you must submit a [Notification of Status of Application for Determination](/files/covid19-forms/form-j.docx)   to the relevant body within **2 working days**. 
-* If you have withdrawn your Application, you must submit a [Memorandum of Service of Withdrawal] (/files/covid19-forms/form-e.docx)  to the relevant body within **2 working days**
+* If you have withdrawn your Application, you must submit a [Memorandum of Service of Withdrawal](/files/covid19-forms/form-e.docx) to the relevant body within **2 working days**
 
 The relevant body would be the Court, arbitral tribunal, Singapore Mediation Centre, or SOPA adjudicator that you lodged the **Memorandum of Application for Determination under Part 8** with. 
