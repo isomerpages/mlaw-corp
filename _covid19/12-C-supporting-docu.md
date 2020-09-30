@@ -16,10 +16,10 @@ All parties are to keep all information or documents disclosed by any party, or 
 Examples of the documents that may be relevant for each situation are set out below.
 
 *	**Situation A – Where a person who rented goods used for construction work is or will be liable for additional rental expenses**
-  * Rental agreement for the goods that are used for construction works 
-  * Invoices
-  * Negotiations and correspondence between the parties  
-  * **Renter**: Documents showing the renter’s inability to use the goods for construction works, such as:
+ * Rental agreement for the goods that are used for construction works 
+ * Invoices
+ * Negotiations and correspondence between the parties  
+ * **Renter**: Documents showing the renter’s inability to use the goods for construction works, such as:
     * Evidence of regulatory restrictions such as social distancing measures which affected renter’s ability to return the goods
     * Evidence of workers under Stay Home Notices or Quarantine Orders
     * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
