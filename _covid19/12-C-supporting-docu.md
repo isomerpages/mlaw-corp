@@ -9,7 +9,7 @@ second_nav_title: Part 8 of the Act-Application for Relief
 
 ### Supporting Documents for Part 8 Application ###
 
-When you submit an [Application for relief under Part 8](/covid19-relief/key-steps-in-part8) or the [Response to the Application] (/covid19-relief/key-steps-in-part8), you should enclose all relevant supporting documents. This will reduce the need for clarifications, and facilitate a fair and timely consideration of the matter.
+When you submit an [Application for relief under Part 8](/covid19-relief/key-steps-in-part8) or the [Response to the Application](/covid19-relief/key-steps-in-part8), you should enclose all relevant supporting documents. This will reduce the need for clarifications, and facilitate a fair and timely consideration of the matter.
 
 All parties are to keep all information or documents disclosed by any party, or any matters discussed during the proceedings before the Part 8 Assessor, **confidential**. Parties **must not disclose** the information or documents to any third party.
 
