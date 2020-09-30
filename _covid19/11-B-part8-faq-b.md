@@ -73,7 +73,7 @@ Please see section 37A of the Act [here](http://sso.agc.gov.sg/Act/COVID19TMA202
 * No. To qualify for relief under Part 8, your inability to carry out or complete renovation or fitting out works during the rent-free period must be due to a delay or breach in a separate construction or supply (or related) contract, and that delay or breach must be due to COVID-19. Relief under Part 8 is not available if your liability for additional rental expenses arises due to other reasons. 
 * We encourage you to explore other dispute resolution mechanisms, such as negotiation and mediation. COVID-19 has had a significant impact on everyone. Parties should thus act reasonably and work together to reach a mutually acceptable solution. 
 
-<i>For Landlords</i> 
+<u>For Landlords</u> 
 
 **8.	My tenant has applied for relief under Part 8 and served the Application on me. What do I do next?** 
 
