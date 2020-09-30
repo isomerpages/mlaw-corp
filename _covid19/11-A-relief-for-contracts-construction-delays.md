@@ -13,7 +13,7 @@ Part 8 of the COVID-19 (Temporary Measures) Act commences on 30 September 2020 a
 
 Relief under Part 8 is applicable in the following three situations prescribed in the COVID-19 (Temporary Measures) (Part 8 Relief) Regulations 2020: 
 
-* **Situation A – Where a person who rented goods used for construction work is or will be liable for additional rental expenses ** 
+* **Situation A – Where a person who rented goods used for construction work is or will be liable for additional rental expenses** 
 
 A person who has rented goods for use in construction work may apply for relief if he is or will be liable to his supplier for additional rental expenses due to a delay or breach in a separate construction or supply (or related) contract. For example, a contractor may have rented goods (e.g.scaffolding material, hand drills) from a supplier to perform works under a construction contract that the contractor has with a third party. The contractor may be liable for additional rental expenses incurred as a result of returning the goods later than intended because construction works are delayed due to the COVID-19 situation.. The contractor may apply for relief under Part 8 in respect of the additional rental expenses.
 
