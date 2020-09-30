@@ -55,7 +55,7 @@ To submit the **Declaration of Service** to the Registrar using the electronic s
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
 #### Request to Correct Error in Part 8 Assessor’s Determination ####
-<a id="correcterror”> </a>
+##### <a name="eligibility">Eligibility Criteria for Rental Relief and Additional Rental Relief</a> #####
 If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s Determination, you may submit an **Application to Correct Error in Determination**.
 
 To submit the Application to the Registrar using the electronic system:
