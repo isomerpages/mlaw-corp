@@ -99,7 +99,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn2" id="ref2">2</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn3 id="ref3">3</a></sup>; and</li>
+<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn2" id="ref2">2</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn3" id="ref3">3</a></sup>; and</li>
 <li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn4" id="ref4">4</a></sup>.</li>
 </ol>
  <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>4</sup>. </li>
@@ -111,7 +111,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Please refer to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform" target="new">online self-assessment tool </a> for a preliminary assessment on the rental waiver that a tenant may be eligible for or that a landlord may be required to provide. 
 
-**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?
+**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?**
 
 * Gross income, in the context of the eligibility criteria for the Additional Rental Relief under Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, means total revenue minus direct costs (but before indirect costs like overheads and taxes).
  
@@ -292,12 +292,12 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	In an earlier press release dated 3 June 2020, “New Rental Relief Framework for SMEs”, it was stated that the rental waivers would be based on base rental, excluding any Gross Turnover payable, maintenance fees and charges for the provision of services such as cleaning and security. We have reviewed and adjusted the definition after further consideration.
 
 
-**28.	Is GST applicable for the rent that is waived?
+**28.	Is GST applicable for the rent that is waived?**
 
 * There is no GST applicable on the rent that is waived.  However, the rental waived will exclude any maintenance fees and charges (and any GST payable on these charges) for the provision of services such as cleaning and security, which will still be payable to the landlord.
 
 
-**29. Is the payment of MCST fees (i.e. contribution to sinking fund and management fund) excluded from the rental waiver?
+**29. Is the payment of MCST fees (i.e. contribution to sinking fund and management fund) excluded from the rental waiver?**
 
 * Yes, the payment of MCST fees (i.e. contribution to the sinking fund and management fund of a property) can be excluded from the rental waivers as these are contributions towards the maintenance and upkeep of the property.
 
@@ -484,13 +484,15 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="apply"><u>Application for assessment</u></a><a href="#ref2a" title="Return to top">↩</a>
 
-**47.	What are the grounds for which a landlord can submit an application for assessment? What is the process for assessment – how long will it take? Are there any charges?**
+**47.	What are the grounds for which a landlord or tenant can submit an application for assessment? What is the process for assessment – how long will it take? Are there any charges?**
 
 *	Property owners and/or any intermediary landlord(s) may make an application within 10 working days after receiving (a copy of) the notice of cash grant, to have a rental relief assessor ascertain any of the following:
 
     a)	Whether the tenant-occupier is eligible for Rental Relief and/or Additional Rental Relief; and/or
 
     b)	Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
+
+* Landlords  or tenants who have disputes relating to the actual amount of rent to be waived may also submit applications for a rental relief assessor’s determination. Please see the section "Expansion of powers of rental relief assessors" – disputes on amount of rent to be waived  for details.
 
 *	There are no charges for making an application. The application must be accompanied by documents and information as specified in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf).
 
@@ -520,31 +522,36 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="hardship"><u>Support for financial hardship</u></a><a href="#ref2b" title="Return to top">↩</a>
 
-**48.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
+**51.	What can a landlord do if he is unable to afford a rental waiver? What are the eligibility criteria for a landlord to qualify for a halving of the Additional Rental Relief?**
 
 *	The Government recognises that there are landlords who may face genuine financial hardship.
 
-*	Landlords who meet all the following criteria may apply to a rental relief assessor to reduce the amount of Additional Rental Relief they have to provide:
+*	Landlords who meet <u>all</u> the following criteria may apply to a rental relief assessor to reduce the amount of Additional Rental Relief they have to provide:
 
     a)	The applicant landlord must be an individual or a sole proprietor and is the owner of the prescribed property;
 
     b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether solely or jointly with another person and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
-    c)	The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income.
+    c)	The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period<sup><a href="#fn5" id="ref5">5</a></sup>  constituted 75% or more of the landlord’s gross income in that period.
 
 *	If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
-**49.	What documents must a landlord submit to prove his eligibility?**
+<p><sup id="fn5">5. If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+
+
+**52. If a property is owned by more than one owner, can the owner(s) still apply for an assessment on the grounds of financial hardship?**
+
+* In the case where the applicant landlord is one of the owners of the prescribed property, each of the owners must satisfy all the eligibility criteria on the grounds of financial hardship, and submit an application to the rental relief assessor.  
+
+**53. What documents must a landlord submit to prove his eligibility?**
 
 *	The documents to be submitted will be provided for in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf), upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements. 
 
-
-**50.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
+**54.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**
 
 *	If the additional rental relief that has to be paid by the landlord is halved, the tenant will have to pay his share of the rent accordingly. 
 
-
-**51.	What other financial assistance measures are available to landlords?**
+**55.	What other financial assistance measures are available to landlords?**
 
 *	MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
 
@@ -558,39 +565,56 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="expansion"><u>Expansion of powers of rental relief assessors </u></a><a href="#ref2c" title="Return to top">↩</a>
 
+**56.	What types of rental disputes can the rental relief assessors make a determination on as part of their expanded powers provided for under section 19M of the Act?**
 
-**52.	Can both landlords and tenants make an application for a determination by a rental relief assessor on the new matters provided for under section 19M?**
+Both landlords and tenants can make an application for a determination on disputes relating to the actual amount of rent to be waived under the rental relief framework, where the amount is affected by any of the following factors:
 
-Yes, both landlords and tenants may make an application for a determination by a rental relief assessor on the following new matters: 
+    a)	The amount of maintenance and service charges, especially where such charges are not explicitly listed in the lease or licence agreement
 
-*	The actual amount of rent under the lease agreement; 
+    b)	The amount that can be offset by assistance provided by the landlord earlier
 
-*	The actual amount of any component of the formula used to compute the prescribed amount of rent that is waived under section 19H or 19J in a particular case. 
+    c)	Tenant(s) occupying the property for only a part of the relief period
+
+    d)	Sub-division of the property, i.e. there are multiple sub-tenants, not all of whom may be eligible for the waivers
+
+**57.	What is the timeline for landlords and tenants to submit an application for a determination on disputes relating to the actual amount of rent to be waived under the rental relief framework? What if the timeline is missed?**
+
+* Landlords or tenants who have disputes relating to the actual amount of rent to be waived may submit applications for a rental relief assessor’s determination, following the timelines below. While late applications may still be considered on a case-by-case basis, we strongly encourage applicants to abide by the timelines for submission of an application as far as possible, for speedier resolution of disputes. 
+
+    a)	If IRAS’ notice of cash grant, or copy of the notice, was received on or before 30 September 2020: Submit application by 14 October 2020.
+
+    b)	If IRAS’ notice of cash grant, or copy of the notice, is received after 30 September 2020: Submit application within 10 working days after receiving the notice. For example, if the notice is received on 1 October 2020, the application should be submitted by 15 October 2020.
+
+**58.	What are some examples of disputes which cannot be determined by a rental relief assessor?**
+
+Rental relief assessors cannot make a determination on disputes over the following matters:
+
+* **Disputes over the type of property:** The quantum of rental waivers are based on the approved and actual use of the property. If the approved and actual use of the property is different, please inform IRAS to review the assessment of the property and to grant the corresponding Property Tax Rebate and cash grant.
+
+* **Non-rent issues, e.g. inability to vacate or reinstate premises, lease termination:** Landlords and tenants should negotiate and come to a mutual agreement on such matters.
+
+* **Landlords imposing new contractual terms as condition to provide waivers:** Eligible tenants do not have to pay rent (excluding maintenance and service fees) for the relevant months. Landlords should not impose conditions for granting rental waivers, as contractual provisions which are inconsistent with the mandatory requirements of legislation, such as those for the rental relief framework, will not be given effect.
+
+* **Whether tenants must pay maintenance and service fees:** Eligible tenants must pay maintenance and service fees for the relevant months.
 
 
-**53.	If a potential applicant has already commenced court / arbitration proceedings in relation to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
+**59.	If a potential applicant has already commenced court / arbitration proceedings in relation to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
 
 *	No. An application for a determination on the matters listed in section 19M(4) may not be made if proceedings before a court or arbitral tribunal have already commenced in relation to the matter in question. 
 
 
-**54.	If a potential applicant has obtained judgment / arbitral award in relation to a dispute to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
+**60.	If a potential applicant has obtained judgment / arbitral award in relation to a dispute to a dispute on the actual amount of rent under the lease agreement / the actual component of the formula used to compute the prescribed amount of rent that is to be waived, can the applicant still seek a determination by a rental relief assessor?**
 
 *	No. An application for a determination on the matters listed in section 19M(4) may not be made if a judgment of a court or arbitral award has already been given or made in relation to the matter in question. 
 
 
-**55.	There are many landlords and tenants who may have come to an agreement on the rental waivers under the rental relief framework, and the expansion of powers of the rental relief assessors is potentially disruptive as it may result in fresh disputes. How does MinLaw plan to address such potential situations?**
+**61.	There are many landlords and tenants who may have come to an agreement on the rental waivers under the rental relief framework, and the expansion of powers of the rental relief assessors is potentially disruptive as it may result in fresh disputes. How does MinLaw plan to address such potential situations?**
 
 *	The rental relief assessors will not review cases where the landlords and tenants have already reached a compromise or a settlement with regards to the implementation to the rental waivers. Applications will only be accepted from parties that are unable to implement the waivers as of the commencement date of the amendments to the Act.
 
-
-**56.	Will the expansion of powers of the rental relief assessors be effected with immediate effect? If not, if landlords and tenants have disputes on these matters, what can they do?**
-
-*	As further details have to be worked out, the COVID-19 (Temporary Measures) (Rental Relief and Related Matters) Regulations 2020 will have to be amended in tandem with the commencement of the relevant parts of this Bill at a later date. Before then, landlords and tenants are encouraged to continue to work towards a mutually agreeable arrangement that best address their specific circumstances. If this is not possible, they can make an application for an assessment later this month when the new provisions take effect. 
-
-
 #### <a name="repay"><b>Repayment scheme for rental arrears</b></a><a href="#refc" title="Return to top">↩</a> ####
 
-**57.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
+**62.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
 *	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Oct 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Oct 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
 
@@ -604,24 +628,24 @@ Yes, both landlords and tenants may make an application for a determination by a
     -	Take steps under the contract for arrears not paid
 
 
-**58.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
+**63.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
 
 *	The written notice should be served no later than 19 Oct 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
 
 
-**59.	What is the formula for determining the instalment payments?**
+**64.	What is the formula for determining the instalment payments?**
 
 *	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
 
 
-**60.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
+**65.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
 
 *	Subject to contractual arrangements, landlords may draw on the existing security deposits to offset accumulated rental arrears, but must leave the equivalent of 1 month of rent remaining in the security deposit.
 
 *	If the tenant-occupier takes up a statutory repayment schedule, at the end of the repayment period, the tenant will be obliged to reinstate the security deposit to the contractual amount.
 
 
-**61.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
+**66.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
 
 *	All outstanding arrears, including interest and other charges, will be accelerated and immediately payable in accordance with the terms of the original contract, and the landlord will be entitled to exercise any of the landlord’s rights under the contract for non-payment of rent and the interest and other specified charges if:
 
@@ -636,6 +660,6 @@ Yes, both landlords and tenants may make an application for a determination by a
 *	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form. Please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#repay) for more details. 
 
 
-**62.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
+**67.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
 
 *	The Act is intended to prescribe a workable standard for the repayment schedule. Landlords and tenants can negotiate an accelerated or different repayment schedule if they wish.
