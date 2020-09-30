@@ -77,7 +77,7 @@ against you in relation to:
 * your obligation to return the goods by a date specified in the affected contract; or 
 * your obligation to pay moneys as rent to the supplier for the duration that you hold possession of the goods.
 
-Please see [section 37A of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target=”_blank”} for the full list of prohibited actions during the moratorium. 
+Please see [section 37A of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} for the full list of prohibited actions during the moratorium. 
 
 **8.	I was liable for additional rental expenses due to reasons unrelated to COVID-19. Can I apply for relief under Part 8?** 
 
@@ -133,7 +133,7 @@ The SOPA adjudication application process will take into account the Part 8 Dete
 
 * The SOPA adjudicator must disregard any submissions, documents or other information provided if it is inconsistent with the contract as adjusted by the Part 8 Determination.
 
-Please see [section 38B of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target=”_blank”}  for further details. 
+Please see [section 38B of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} for further details. 
 
 <i>SOPA adjudicators conferred similar powers as the Part 8 Assessors</i>
 
