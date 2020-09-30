@@ -40,7 +40,7 @@ The Part 8 Assessor may vary the date stipulated in the lease or licence for the
 
 **3.	How do I apply for relief under Part 8?** 
 
-You will need to submit an application to the Registrar. Further details, and the applicable forms, can be found [here](/covid19-relief/key-steps-in-part8)  . 
+You will need to submit an application to the Registrar. Further details, and the applicable forms, can be found [here](/covid19-relief/key-steps-in-part8). 
 
 **4.	What is the latest date I can apply for relief under Part 8?** 
 
