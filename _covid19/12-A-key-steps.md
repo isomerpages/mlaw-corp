@@ -35,7 +35,7 @@ Please note that the Assessor’s determination of the Part 8 Application (“**
 
 ##### Step 1: Applicant applies for relief under Part 8 of the Act  #####
 
-Any person who wishes to apply for relief under Part 8 (the “**Applicant(s) **” ) must submit an **Application** to the Registrar that is accompanied by:
+Any person who wishes to apply for relief under Part 8 (the “**Applicant(s)**” ) must submit an **Application** to the Registrar that is accompanied by:
 * a copy of the affected contract; or 
 * if there is no written contract, a description of how the affected contract was made and the relevant terms of the affected contract; and
 * all [supporting documents](/covid19-relief/supporting-docu-part8) which the Applicant wishes the Assessor to consider.  (If the Applicant fails to submit sufficient supporting material, the Assessor may not be satisfied that relief should be granted.)
@@ -103,7 +103,7 @@ To submit and serve the **Response** using the electronic system (if you have an
 
 **Submission and service by other modes if you are unable to use the electronic system**
 
-If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form]](/files/covid19-forms/form-f.docx)  and:
+If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form](/files/covid19-forms/form-f.docx)  and:
 * Send the form to the Registrar by way of email as provided in the acknowledgement of receipt of application which was served on you (you should cite the Application No. in your email request); and
 * Serve the form on the Recipient(s) using the [other modes of service](/covid19-relief/other-modes-of-service-part8)
 
