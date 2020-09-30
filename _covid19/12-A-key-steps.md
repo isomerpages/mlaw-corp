@@ -44,9 +44,9 @@ An **Application** can be submitted at no cost.
 
 To submit the **Application** to the Registrar using the electronic system:
 
-* Please use this [link (CorpPass)](https://go.gov.sg/form-a-part-8-cp) if you are applying on behalf of a business entity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-a-part-8-cp){:target="_blank"} if you are applying on behalf of a business entity. 
 
-* Please use this [link (SingPass)](https://go.gov.sg/form-a-part-8-sp)  if you are applying for relief in your own capacity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-a-part-8-sp){:target="_blank"} if you are applying for relief in your own capacity. 
 
 **Note**:
 * It is important that you use the **correct link** to submit the Application. Otherwise, the Application may be rejected. 
@@ -83,8 +83,8 @@ The Applicant must submit to the Registrar a **Declaration of Service** within 2
 
 To submit the **Declaration of Service** using the electronic system:
 
-* Please use this [link (CorpPass)](https://go.gov.sg/form-d-part-8-cp) if you are applying for relief on behalf of a business entity. 
-* Please use this [link (SingPass)](https://go.gov.sg/form-d-part-8-sp)  if you are applying for relief in your own capacity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-d-part-8-cp){:target="_blank"} if you are applying for relief on behalf of a business entity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-d-part-8-sp){:target="_blank"} if you are applying for relief in your own capacity. 
 
 ##### Step 5: Respondent Submits Response #####
 
@@ -97,13 +97,13 @@ The Respondent must submit its **Response** to the Registrar within **5 working 
 
 To submit and serve the **Response** using the electronic system (if you have an email address and the email address(es) of the Recipient(s)):
 
-* Please use this [link (CorpPass)](https://go.gov.sg/form-f-part-8-cp), if you are submitting a Response on behalf of a business entity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-f-part-8-cp){:target="_blank"}, if you are submitting a Response on behalf of a business entity. 
 
-* Please use this [link (SingPass)](https://go.gov.sg/form-f-part-8-sp), if you are submitting a Response in your own capacity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-f-part-8-sp){:target="_blank"}, if you are submitting a Response in your own capacity. 
 
 **Submission and service by other modes if you are unable to use the electronic system**
 
-If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form](/files/covid19-forms/form-f.docx)  and:
+If you are unable to submit and serve the Response using the electronic system, please download the Response using this [form](/files/covid19-forms/form-f.docx) and:
 * Send the form to the Registrar by way of email as provided in the acknowledgement of receipt of application which was served on you (you should cite the Application No. in your email request); and
 * Serve the form on the Recipient(s) using the [other modes of service](/covid19-relief/other-modes-of-service-part8)
 
@@ -137,7 +137,7 @@ Please note that for online or physical hearings:
 
 If a party to a determination is <u>absent</u>.  from the hearing, the Assessor may dismiss the application or proceed to make a determination on the case.
 
-If the party had a good reason for being absent, he may make an application to set aside the dismissal or determination made in his absence. See [Application to Set Aside a Dismissal or Determination](/covid19-relief/other-procedures-part8#set-aside)
+If the party had a good reason for being absent, he may make an application to set aside the dismissal or determination made in his absence. See [Application to Set Aside a Dismissal or Determination](/covid19-relief/other-procedures-part8#setaside)
 
 ##### Step 8: Registrar Informs Applicant and Respondent of Assessor’s Determination #####
 
