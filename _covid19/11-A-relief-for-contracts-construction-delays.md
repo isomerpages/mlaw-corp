@@ -7,7 +7,7 @@ collection_name: covid19
 second_nav_title: Part 8 of the Act-Relief for Contracts affected by Construction Delays
 ---
 
-Overview – Relief for contracts affected by construction delays under Part 8 of the Act
+### Overview – Relief for contracts affected by construction delays under Part 8 of the Act ###
 
 Part 8 of the COVID-19 (Temporary Measures) Act commences on 30 September 2020 and provides relief for specific individuals and businesses that are affected by delays or breaches in separate construction or supply (or related) contracts (defined [here](/covid19-relief/faq/Construction)), where such delays or breaches are due to COVID-19.
 
