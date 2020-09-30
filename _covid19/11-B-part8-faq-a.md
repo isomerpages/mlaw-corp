@@ -121,7 +121,7 @@ Please see FAQ 7 for more details on the moratorium, and when it ends.
 * No, a party can still file an adjudication application under SOPA **<u>after</u>** a Part 8 Determination has been made. 
 * However, the SOPA adjudicator will consider only the contract as adjusted by the Part 8 Determination. 
 
-<i>Impact of the Part 8 Determination on SOPA adjudication proceedings</i>
+<u>Impact of the Part 8 Determination on SOPA adjudication proceedings</u>
 
 The temporary moratorium discussed above ends once the Part 8 Determination has been made. Thereafter, the supplier may lodge an adjudication application under SOPA. 
 
