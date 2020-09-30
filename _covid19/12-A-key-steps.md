@@ -123,7 +123,7 @@ Please note that the Registrar may proceed to fix a hearing if a Response has no
 
 The hearing will generally be conducted by way of an <u>exchange of emails</u>. The Assessor may request for clarifications or further documents by email.
 
-If the Assessor is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>.:
+If the Assessor is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
 
 * Online hearings will be conducted via Webex. 
 
@@ -135,9 +135,9 @@ Please note that for online or physical hearings:
 
 * Unless otherwise stated, no party may be represented by an advocate and solicitor at the proceedings. 
 
-If a party to a determination is <u>absent</u>.  from the hearing, the Assessor may dismiss the application or proceed to make a determination on the case.
+If a party to a determination is <u>absent</u>  from the hearing, the Assessor may dismiss the application or proceed to make a determination on the case.
 
-If the party had a good reason for being absent, he may make an application to set aside the dismissal or determination made in his absence. See [Application to Set Aside a Dismissal or Determination](/covid19-relief/other-procedures-part8#setaside)
+If the party had a good reason for being absent, he may make an application to set aside the dismissal or determination made in his absence. See [Application to Set Aside a Dismissal or Determination](/covid19-relief/other-procedures-part8#setaside).
 
 ##### Step 8: Registrar Informs Applicant and Respondent of Assessor’s Determination #####
 
