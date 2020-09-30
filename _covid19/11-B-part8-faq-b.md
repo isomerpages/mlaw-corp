@@ -77,7 +77,7 @@ Please see section 37A of the Act [here] (http://sso.agc.gov.sg/Act/COVID19TMA20
 
 **8.	My tenant has applied for relief under Part 8 and served the Application on me. What do I do next?** 
 
-You will need to submit a Response to the Registrar, and serve it on the Applicant (i.e., your tenant). Further details can be found [here](/covid19-relief/key-steps-in-part8)  
+You will need to submit a Response to the Registrar, and serve it on the Applicant (i.e., your tenant). Further details can be found [here](/covid19-relief/key-steps-in-part8).  
 
 **9.	I rely on my rental income to pay for my own expenses, such as mortgage payments. I cannot afford to shift the rent-free period. What do I do?** 
 
