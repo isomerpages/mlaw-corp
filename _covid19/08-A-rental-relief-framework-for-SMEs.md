@@ -132,7 +132,7 @@ a)  The applicant landlord must be an individual or a sole proprietor, and the o
 
 b)  The aggregate of the annual value of all investment properties (including the prescribed property) owned by the landlord (whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
-c)  The rental income derived from the property in question in Year of Assessment 2019 constituted 75% or more of the landlord’s gross income in that year.
+c)  The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period<sup><a href="#fn14" id="ref14">14</a></sup> constituted 75% or more of the landlord’s gross income in that period.
 
 If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
@@ -148,19 +148,19 @@ b)  Whether the applicant landlord qualifies to provide only half the Additional
 
 <u>Expanded powers of rental relief assessors</u>
 
-On 4 September 2020, the COVID-19 (Temporary Measures) (Amendment No. 2) Bill was passed in Parliament to expand the powers of the rental relief assessors. While the Bill has been passed, it has yet to come into force or take effect. More  details will be announced subsequently with the necessary changes to the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, by end September 2020. When the changes are effected, rental relief assessors can also make determinations on unresolved disputes relating to the amount of rent to be waived under the framework, where the amount is affected by any of the following factors:
+On 30 September 2020, the COVID-19 (Temporary Measures) (Amendment No. 2) Bill came into force, expanding the powers of the rental relief assessors. Rental relief assessors can now also make determinations on unresolved disputes relating to the amount of rent to be waived under the framework, where the amount is affected by any of the following factors:
 
-a)	The amount of maintenance and service charges , especially where such charges are not explicitly listed in the lease or licence agreement
+a)	The amount of maintenance and service charges<sup><a href="#fn15" id="ref15">15</a></sup> , especially where such charges are not explicitly listed in the lease or licence agreement
 
 b)	The amount that can be offset by assistance provided by the landlord earlier
 
 c)	Tenant(s) occupying the property for only a part of the relief period
 
-d)	Sub-division of the property 
+d)	Sub-division of the property, i.e. there are multiple sub-tenants, not all of whom may be eligible for the waivers
 
-Please note that only ongoing or new disputes on the above matters between landlords and tenants may be raised to the rental relief assessors. If a landlord and tenant have already reached a mutual agreement on the rental waivers, they will not be allowed to reopen the issue through applying for a determination by a rental relief assessor. 
+The expanded powers only apply to unresolved disputes involving any of the above. The rental relief assessors will not review existing arrangements that have been mutually agreed upon between landlords and tenants on the implementation of the rental waivers. 
 
-Please refer to [link](/covid19-relief/further-information-on-application-for-assessment) for further information on the application for assessment. 
+Please refer to [https://go.gov.sg/rentalreliefassessment](/covid19-relief/further-information-on-application-for-assessment) for further information on the application for assessment. 
 
 ##### <a name="repay">Repayment Scheme for Rental Arrears<a href="#refe" title="Return to top">↩</a> #####
 
@@ -177,7 +177,7 @@ a)  Collect immediate payment of all the arrears, including any applicable inter
 
 b)  Exercise any of its rights under the lease or licence agreement.
 
-In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information<sup><a href="#fn14" id="ref14">14</a></sup> to their landlord, supported by a statutory declaration on their balance sheet, profit and loss statement, cash flow statement and statement of changes in equity (“prescribed documents”) from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of the form available at these links:
+In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information<sup><a href="#fn16" id="ref16">16</a></sup> to their landlord, supported by a statutory declaration on their balance sheet, profit and loss statement, cash flow statement and statement of changes in equity (“prescribed documents”) from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of the form available at these links:
 *	[Form](/files/RepaymentSchemeForm.pdf)
 *	[Exhibit A - Statement of Accounts](/files/ExhibitAStatementOfAccounts.xlsx)
 *	[Exhibit B - Balance Sheet](/files//ExhibitBBalanceSheet.xlsx) <br>
@@ -197,4 +197,6 @@ In addition, if the tenant-occupier terminates the lease or licence and has two 
 <p><sup id="fn11">11. Please refer to Footnote 10 for further information. <a href="#ref11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
 <p><sup id="fn12">12. The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
 <p><sup id="fn13">13. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the <a href="https://sso.agc.gov.sg/Act/COVID19TMA2020">COVID-19 (Temporary Measures) Act</a>. <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
-<p><sup id="fn14">14.  Please refer to Regulation 41(2)(b) of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for a complete list of the prescribed documents. <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
+<p><sup id="fn14">14.  If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties. <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
+<p><sup id="fn15">15.  Maintenance and service charges are excluded from the rental waivers. <a href="#ref15" title="Jump back to footnote 15 in the text.">↩</a></sup></p>
+<p><sup id="fn16">16.  Please refer to Regulation 41(2)(b) of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for a complete list of the prescribed documents. <a href="#ref16" title="Jump back to footnote 16 in the text.">↩</a></sup></p>
