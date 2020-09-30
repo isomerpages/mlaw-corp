@@ -32,8 +32,8 @@ If you (the Applicant) wish to withdraw your Application for relief under Part 8
 
 To serve the **Withdrawal of Application** on the Receipient(s) using the electronic system (if you have an email address and the email address(es) of the Recipient(s)):
 
-* Please use this [link(CorpPass)](https://go.gov.sg/form-c-part-8-cp) if you are acting on behalf of a business entity. 
-* Please use this [link (SingPass)](https://go.gov.sg/form-c-part-8-sp)  if you are acting in your own capacity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-c-part-8-cp){:target="_blank"} if you are acting on behalf of a business entity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-c-part-8-sp){:target="_blank"}  if you are acting in your own capacity. 
 
 **Note**: It is important that you use the correct link to complete the Withdrawal of Application. Otherwise, the Withdrawal may be ineffective.
 
@@ -54,13 +54,15 @@ To submit the **Declaration of Service** to the Registrar using the electronic s
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
-#### <a name=”correct-error”>Request to Correct Error in Part 8 Assessor’s Determination</a> ####
+<a name=”correct-error”>
+#### Request to Correct Error in Part 8 Assessor’s Determination ####
+</a>
 
 If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s Determination, you may submit an **Application to Correct Error in Determination**.
 
 To submit the Application to the Registrar using the electronic system:
-* Please use this [link(CorpPass)](https://go.gov.sg/form-i-part-8-cp) if you are acting on behalf of a business entity. 
-* Please use this [link (SingPass)](https://go.gov.sg/form-i-part-8-sp)  if you are acting in your own capacity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-i-part-8-cp){:target="_blank"} if you are acting on behalf of a business entity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-i-part-8-sp){:target="_blank"} if you are acting in your own capacity. 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
@@ -74,8 +76,8 @@ The party who wishes to set aside the Assessor’s determination must submit to 
 
 To submit and serve the **Application to Set Aside a Dismissal or Determination** using the electronic system (if you have an email address, and the email address(es) of the other party or parties to the dismissal or determination):
 
-* Please use this [link(CorpPass)](https://go.gov.sg/form-g-part-8-cp) if you are acting on behalf of a business entity. 
-* Please use this [link (SingPass)](https://go.gov.sg/form-g-part-8-sp)  if you are acting in your own capacity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-g-part-8-cp){:target="_blank"} if you are acting on behalf of a business entity. 
+* Please use this [link (SingPass)](https://go.gov.sg/form-g-part-8-sp){:target="_blank"} if you are acting in your own capacity. 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
@@ -85,8 +87,8 @@ A party that wishes to oppose the **Application to Set Aside a Dismissal or Dete
 
 To submit and serve the Reply using the electronic system (if you have an email address, and the email address of the party who made the **Application to Set Aside a Dismissal or Determination**):
 
-* Please use this [link(CorpPass)](https://go.gov.sg/form-h-part-8-cp) if you are acting on behalf of a business entity. 
-* Please use this link (SingPass)](https://go.gov.sg/form-h-part-8-sp) if you are acting in your own capacity. 
+* Please use this [link (CorpPass)](https://go.gov.sg/form-h-part-8-cp){:target="_blank"} if you are acting on behalf of a business entity. 
+* Please use this link (SingPass)](https://go.gov.sg/form-h-part-8-sp){:target="_blank"} if you are acting in your own capacity. 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively.
 
