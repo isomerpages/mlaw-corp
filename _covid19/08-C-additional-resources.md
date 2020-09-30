@@ -14,6 +14,8 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
     [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)  <br>
     [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf) <br>
     [Support for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf) <br>
+    [When to Seek Assessment](/files/When-to-Seek-Assessment.pdf) <br>
+    [Assessment Process](/files/Assessment-Process.pdf) <br>
   * [FAQs](/covid19-relief/faq/rental-relief)
   * [Online self assessment tool](https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform?usp=sf_link)
   * [Online rental relief calculator for tenant-occupiers](/files/RentalReliefCalculator-Updated.xlsx)

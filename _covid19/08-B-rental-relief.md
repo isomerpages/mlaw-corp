@@ -20,7 +20,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 <b><a href="#support" id="refb">Support for landlords</a></b>
  - <a href="#apply" id="ref2a">Application for assessment</a>
  - <a href="#hardship" id="ref2b">Support for financial hardship</a>
- - <a href="#expansion" id="ref2c">Expansion of powers of rental relief assessors</a>
+ - <a href="#expansion" id="ref2c">Expansion of powers of rental relief assessors - disputes on amount of rent to be waived</a>
  
 <b><a href="#repay" id="refc">Repayment scheme for rental arrears</a></b> 
  
@@ -78,10 +78,10 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	Tenant-occupiers must fall within one of the following categories to be eligible for Rental Relief:
 
-    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn1" id="ref1">1</a></sup>, at the individual or entity level<sup><a href="#fn2" id="ref2">2</a></sup>; or
+    a)	Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable, at the individual or entity level<sup><a href="#fn1" id="ref1">1</a></sup>; or
     
     
-    b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup>1</sup>, at the entity level:
+    b)	The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable, at the entity level:
     
        i. Registered or exempt charities (as provided in the Charities Act);<br>
       ii. Members of the National Council of Social Service;<br>
@@ -90,8 +90,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
        v. Specified arts and culture societies; or<br>
       vi. Specified trade associations.<br>
 
-<p><sup id="fn1">1. If the tenant-occupier has not carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2018, but has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing does not apply, but the tenant-occupier has carried on business for 12 months or longer as at the last day of its financial year ending on a date in the year 2020, where the date is on or before March 2020, the reference period will be FY 2020. For any other case, the tenant-occupier’s average monthly revenue from the time the tenant-occupier commenced business until 31 March 2020 (both dates inclusive) will be extrapolated for comparison against the $100 million annual revenue threshold. Please refer to Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for details. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
-<p><sup id="fn2">2. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. Under Regulation 2 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, “entity” means: (a) a specified person; or (b) any of the following (including when acting as a trustee of a trust) that is not a specified person — (i)    a corporation registered under section 19 or 368 of the Companies Act (Cap. 50); (ii) a sole proprietorship; (iii) a partnership (iv) a limited partnership (v) a limited liability partnership; (vi) a co-operative society. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <u>Additional Rental Relief</u>
 
@@ -100,19 +99,26 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 <ol style="list-style-type: lower-alpha">
  <li><u>For SMEs</u></li>
 <ol style="list-style-type: lower-roman">
-<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn3" id="ref3">3</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn4" id="ref4">4</a></sup>; and</li>
-<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn5" id="ref5">5</a></sup>.</li>
+<li>(Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn2" id="ref2">2</a></sup> ("group") during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn3 id="ref3">3</a></sup>; and</li>
+<li>The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn4" id="ref4">4</a></sup>.</li>
 </ol>
- <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>5</sup>. </li>
+ <li><u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average monthly gross income at the entity level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup>4</sup>. </li>
 </ol>
 
-<p><sup id="fn3">3. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
-<p><sup id="fn4">4. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
-<p><sup id="fn5">5. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. A Singapore group of entities means a group of entities that are incorporated or established in Singapore and which are related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn3">3. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the $100 million revenue threshold. Please refer to Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for further details. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<p><sup id="fn4">4. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
 * Please refer to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform" target="new">online self-assessment tool </a> for a preliminary assessment on the rental waiver that a tenant may be eligible for or that a landlord may be required to provide. 
 
-**5.	Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** 
+**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?
+
+* Gross income, in the context of the eligibility criteria for the Additional Rental Relief under Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, means total revenue minus direct costs (but before indirect costs like overheads and taxes).
+ 
+* In computing gross income, all income derived by the company/NPO, including trade income and separate sources of income, should be taken into account. This would include Government grants, if any.
+
+
+**6. Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** 
 
 *	The rental relief framework generally applies to tenants/ sub-tenants of Government landlords. 
 
@@ -121,26 +127,24 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Respective tenants would have received the letter on the rental waiver issued by their Government Landlords. You may wish to approach your Government landlord directly if you require assistance.
 
 
-**6.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? What if they do not meet the eligibility criteria for rental relief?**
+**7.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? What if they do not meet the eligibility criteria for rental relief?**
 
 *	If the eligible tenant-occupier rents the property through an intermediary landlord, all intermediary landlords along the chain will also receive rental waivers in respect of that eligible tenant-occupier for the corresponding period from their immediate landlords, regardless of whether the intermediary landlords meet the eligibility criteria. An intermediary landlord’s entitlement to rental waivers is solely dependent on the tenant-occupier’s eligibility.
 
 
-**7.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**
+**8.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**
 
 *	An intermediary landlord will be required to provide a full waiver to their tenant according to the applicable rental relief period.
 
 
-**8.	What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?**
+**9.	What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?**
 
-*	In such a case, the tenant-occupier should provide its unaudited balance-sheet, profit and loss statement and cash flow statement for the period from the date of commencement of the business (at the prescribed property or any other place) to 31 March 2020 (both dates inclusive), supported by a statutory declaration by the tenant or (if the tenant is an entity) a relevant officer of the tenant.
-
-*	If however, the above is also not available, the tenant should provide a statutory declaration by the tenant or (if the tenant is an entity) a relevant officer of the tenant stating that the revenue of the tenant, calculated using the formula 12xA is not more than $100 million, where A is the average monthly revenue from the business for the period from the date of commencement of the tenant’s business to 31 March 2020 (both dates inclusive).
+*	In such a case, and depending on when the tenant-occupier commenced business, the tenant-occupier should provide its unaudited balance-sheet, profit and loss statement and cash flow statement from the date of commencement of the business (at the prescribed property or any other place), supported by a statutory declaration by the tenant or (if the tenant is an entity) a relevant officer of the tenant. Where such documents are unavailable, a tenant can also provide a statutory declaration of its revenue.  Please see Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations read with Part 1 of the Seventh Schedule for further details. 
 
 *	A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths or a Justice of the Peace. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore and the following <a href="https://www.sgdi.gov.sg/ministries/pmo/departments/jp">link</a> for a directory of Justices of the Peace in Singapore.
 
 
-**9. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
+**10. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
 
 *	The reason why April to May 2020 is used for the period of comparison is that it corresponds to the period of the Circuit Breaker, and the Additional Rental Relief to be provided by landlords to tenants is intended to provide more help to SME tenants which have been substantially hit by COVID-19. The reason why the same period of time for a year on year comparison is used is to account for seasonal fluctuations in revenue. 
 
@@ -149,16 +153,16 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 * Notwithstanding the above, it should be noted that the rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are free to work out mutually agreeable arrangements that best address their specific circumstances.
 
 
-**10.	How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?**   
+**11.	How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?**   
 
-* The 35% income drop criterion can be assessed by comparing the average monthly gross income derived from that business (or incidental purpose) conducted at the prescribed property for the period 1 April 2020 to 31 May 2020 to the period 1 April 2019 to 31 May 2019. If a tenant-occupier can show that it suffered a 35% or more decrease in its average monthly gross income derived from its business, as attributable to the specific property (and any other rented properties), it may be eligible for Additional Rental Relief if the other criteria as set out in regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 are met.
+* The 35% income drop criterion can be assessed by comparing the average monthly gross income derived from that business (or incidental purpose) conducted at the prescribed property for the period 1 April 2020 to 31 May 2020 to the period 1 April 2019 to 31 May 2019. If a tenant-occupier can show that it suffered a 35% or more decrease in its average monthly gross income derived from its business, as attributable to the specific property, it may be eligible for Additional Rental Relief if the other criteria as set out in regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 are met.
 
 
-**11.	What does it mean to be an SME as part of a “Singapore group of entities”?**
+**12.	What does it mean to be an SME as part of a “Singapore group of entities”?**
 
 *	“Singapore group of entities” refers to a group of entities that are incorporated or established in Singapore that is related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. If the SME is a member of a Singapore group of entities in the period 1 April 2020 to 31 May 2020, the group’s annual revenue must be not more than $100 million. 
 
-**12. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**
+**13. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**
 
 * There is no requirement for a company to meet any shareholding or workforce criteria to be considered an eligible SME under the Rental Relief Framework. 
 
