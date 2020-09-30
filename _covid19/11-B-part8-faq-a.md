@@ -41,26 +41,26 @@ In addition, relief under Part 8 of the Act is not available if, in relation to 
 
 * “Goods” means plant or materials for use in connection with the carrying out of “construction work”. “Construction work” is defined in [section 3 of SOPA](https://sso.agc.gov.sg/Act/BCISPA2004){:target="_blank"}. Examples include scaffolding material, and hand drills. 
 
-3.	What kind of determinations can an Assessor make? 
+**3.	What kind of determinations can an Assessor make?** 
 
 The Assessor may adjust: 
 * the date by which the goods are to be returned to the supplier of the goods; or 
 * rental rate payable for the duration that the renter holds possession of the goods.
 
-4.	Will the Assessor determine how much I must pay the supplier? 
+**4.	Will the Assessor determine how much I must pay the supplier?** 
 
 * The Assessor may adjust the date when the goods are to be returned, or the rental rate. The Assessor does not determine other matters.
 * The final amount owed to the supplier may be dependent on other factors or clauses in the contract besides the rental rate or the return date. If there is a dispute on these other matters, the parties may have to resolve the matter in accordance with the dispute resolution clause in the contract or through legal proceedings.
 
-5.	How do I apply for relief under Part 8? 
+**5.	How do I apply for relief under Part 8?** 
 
 * You will need to submit an application to the Registrar. Further details, and the applicable forms, can be found [here](/covid19-relief/key-steps-in-part8). 
 
-6.	What is the latest date I can apply for relief under Part 8? 
+**6.	What is the latest date I can apply for relief under Part 8?** 
 
 * Your application must be filed before 31 May 2021.  
 
-7.	Can the other party commence proceedings against me while I apply for relief under Part 8? 
+**7.	Can the other party commence proceedings against me while I apply for relief under Part 8?** 
 
 A temporary moratorium will apply once you have served the application for relief (the “**Application**”) on the other party or parties to the affected contract. The moratorium will end on the earliest of the following: 
 * Your withdrawal of the Application 
@@ -79,22 +79,22 @@ against you in relation to:
 
 Please see [section 37A of the Act](http://sso.agc.gov.sg/Act/COVID19TMA2020){:target=”_blank”}  for the full list of prohibited actions during the moratorium. 
 
-8.	I was liable for additional rental expenses due to reasons unrelated to COVID-19. Can I apply for relief under Part 8? 
+**8.	I was liable for additional rental expenses due to reasons unrelated to COVID-19. Can I apply for relief under Part 8?** 
 
 * No.  To qualify for relief under Part 8, your liability for additional rental expenses must be due to a delay or breach in a construction or supply (or related) contract, and that delay or breach must be due to COVID-19. Relief under Part 8 is not available if your liability for additional rental expenses arises due to other reasons. 
 
-9.	Why am I precluded from applying for relief under Part 8 if the supplier has made an adjudication application under SOPA? 
+**9.	Why am I precluded from applying for relief under Part 8 if the supplier has made an adjudication application under SOPA?** 
 
 * This preclusion is intended to prevent parallel proceedings under Part 8 and SOPA. 
 * You are not disadvantaged by this preclusion. The SOPA adjudicator determining the adjudication application has the same powers to adjust contract terms as an Assessor under Part 8. This allows the SOPA adjudicator to take into account the effects of COVID-19 to reach a just and equitable outcome, which is similar to what the Part 8 Assessors are able to do. 
 
 <i>For Suppliers</i> 
 
-10.	My renter has applied for relief under Part 8 and served the Application on me. What do I do next? 
+**10.	My renter has applied for relief under Part 8 and served the Application on me. What do I do next?** 
 
 You will need to submit a Response to the Registrar, and serve it on the Applicant (i.e., your renter). Further details can be found [here](/covid19-relief/key-steps-in-part8).
 
-11.	I rely on my rental income to pay for my own expenses, such as hire-purchase instalments. I cannot afford to reduce the rent. What do I do? 
+**11.	I rely on my rental income to pay for my own expenses, such as hire-purchase instalments. I cannot afford to reduce the rent. What do I do?** 
 
 You should explain your situation to the Assessor in your Response. The Assessor will seek to achieve an outcome that is just and equitable in the circumstances, and may take into account: 
 * The impact that any adjustment may have on another contract that you may have with a third party (e.g., a hire-purchase contract for the goods in question) 
@@ -110,13 +110,13 @@ Once the application for relief under Part 8 has been served on the other party 
 
 Please see FAQ 7 for more details on the moratorium, and when it ends.
 
-12.	What happens if a party commences or continues SOPA adjudication proceedings in breach of the moratorium? 
+**12.	What happens if a party commences or continues SOPA adjudication proceedings in breach of the moratorium?** 
 
 * It is an offence to commence or continue SOPA adjudication proceedings (or court or arbitral proceedings) without reasonable excuse, in breach of the moratorium.
 
 * The SMC (as the authorised nominating body) or the SOPA adjudicator should be informed that there is a prior Part 8 application. Any SOPA adjudication proceedings commenced in breach of the moratorium will be terminated by the SOPA adjudicator, if an adjudicator has already been appointed. If an adjudicator has not yet been appointed, SMC (as the authorised nominating body) will take no further action on the application. 
 
-13.	Is a party precluded from commencing SOPA proceedings after a Part 8 Determination has been made? 
+**13.	Is a party precluded from commencing SOPA proceedings after a Part 8 Determination has been made?** 
 
 * No, a party can still file an adjudication application under SOPA **<u>after</u>** a Part 8 Determination has been made. 
 * However, the SOPA adjudicator will consider only the contract as adjusted by the Part 8 Determination. 
@@ -145,10 +145,10 @@ These amendments are temporary, and are not intended to have a permanent impact 
 
 **FAQs**
 
-14.	If an Assessor has made a determination and ordered an equitable adjustment of the contract under Part 8 of the Act, can a SOPA adjudicator order that the contract be further adjusted? 
+**14.	If an Assessor has made a determination and ordered an equitable adjustment of the contract under Part 8 of the Act, can a SOPA adjudicator order that the contract be further adjusted?** 
 
 * No. Where an Assessor has adjusted the contract, the SOPA adjudicator or review adjudicator may not order a further adjustment. 
 
-15.	Will the outcomes reached under Part 8 Determinations and SOPA adjudications be consistent? 
+**15.	Will the outcomes reached under Part 8 Determinations and SOPA adjudications be consistent?** 
 
 * MinLaw has worked closely with MND and BCA to prepare guidelines and conduct briefings for Part 8 Assessors and SOPA adjudicators to ensure that they are well-equipped and familiar with the regime. 
