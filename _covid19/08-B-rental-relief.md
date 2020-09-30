@@ -292,12 +292,12 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	In an earlier press release dated 3 June 2020, “New Rental Relief Framework for SMEs”, it was stated that the rental waivers would be based on base rental, excluding any Gross Turnover payable, maintenance fees and charges for the provision of services such as cleaning and security. We have reviewed and adjusted the definition after further consideration.
 
 
-**28.	Is GST applicable for the rent that is waived?
+**28.	Is GST applicable for the rent that is waived?**
 
 * There is no GST applicable on the rent that is waived.  However, the rental waived will exclude any maintenance fees and charges (and any GST payable on these charges) for the provision of services such as cleaning and security, which will still be payable to the landlord.
 
 
-**29. Is the payment of MCST fees (i.e. contribution to sinking fund and management fund) excluded from the rental waiver?
+**29. Is the payment of MCST fees (i.e. contribution to sinking fund and management fund) excluded from the rental waiver?**
 
 * Yes, the payment of MCST fees (i.e. contribution to the sinking fund and management fund of a property) can be excluded from the rental waivers as these are contributions towards the maintenance and upkeep of the property.
 
@@ -532,11 +532,12 @@ b)	Satisfies one or more of the following conditions:
 
     b)	The aggregate of the annual value of all investment properties (including the prescribed property) owned (whether solely or jointly with another person and whether directly or through one or more investment holding companies) is not more than S$60,000 as at 13 April 2020; and
 
-    c)	The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period<sup><a href="#fn1" id="ref1">1</a></sup>  constituted 75% or more of the landlord’s gross income in that period.
+    c)	The rental income derived from all the properties that the landlord must provide Additional Rental Relief for in Year of Assessment 2019 or a later appropriate period<sup><a href="#fn5" id="ref5">5</a></sup>  constituted 75% or more of the landlord’s gross income in that period.
 
 *	If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
-<p><sup id="fn1">1. If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties.</sup></p>
+<p><sup id="fn5">5. If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+
 
 **52. If a property is owned by more than one owner, can the owner(s) still apply for an assessment on the grounds of financial hardship?**
 
@@ -584,7 +585,7 @@ Both landlords and tenants can make an application for a determination on disput
 
     b)	If IRAS’ notice of cash grant, or copy of the notice, is received after 30 September 2020: Submit application within 10 working days after receiving the notice. For example, if the notice is received on 1 October 2020, the application should be submitted by 15 October 2020.
 
-**58.	What are some examples of disputes which cannot be determined by a rental relief assessor? **
+**58.	What are some examples of disputes which cannot be determined by a rental relief assessor?**
 
 Rental relief assessors cannot make a determination on disputes over the following matters:
 
