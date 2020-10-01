@@ -6,7 +6,7 @@ breadcrumb: Test page
 ---
 
 <style>
-  midnight: #2c3e50;
+$midnight: #2c3e50;
 $clouds: #ecf0f1;
 // General
 body {
