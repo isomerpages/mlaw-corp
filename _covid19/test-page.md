@@ -1,8 +1,9 @@
 ---
 layout: leftnav-page-content
-title:Test
+title:Test tt
 permalink: /covid19-relief/ttttttttttt/
-breadcrumb: test
+breadcrumb: test tt
+collection_name: covid19
 ---
 
 <style>
