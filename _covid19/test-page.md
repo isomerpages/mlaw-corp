@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title:Test tt
 permalink: /covid19-relief/ttttttttttt/
 breadcrumb: test tt
