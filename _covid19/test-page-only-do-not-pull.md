@@ -10,6 +10,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 
 <b><a href="#rental" id="refa">Rental Relief</a></b> 
  - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
+   <a href="#overview1">1. Why has the Government decided to implement this rental relief framework?</a>
  - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
  - <a href="#moratorium" id="ref1c">Moratorium on enforcement action</a>
  - <a href="#eligibility" id="ref1d">Confirmation of eligibility and dispute resolution</a>
@@ -28,7 +29,7 @@ second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
 
 <a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
-**1.	Why has the Government decided to implement this rental relief framework?**
+**1.	<a href="#overview1">Why has the Government decided to implement this rental relief framework?</a>**
 
 *	The rental relief framework seeks to help affected SMEs, and specified non-profit organisations (“NPOs”) with their cash flow by providing for the fair handling of their accumulated rental obligations, and a fair sharing of economic hardship due to the impact of COVID-19 among the Government, landlords and tenants. 
 
