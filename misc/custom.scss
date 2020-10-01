@@ -471,20 +471,7 @@ $desktop: 960px + (2 * $gap) !default;
 $midnight: #2c3e50;
 $clouds: #ecf0f1;
 // General
-body {
-  color: $midnight;
-  background: $clouds;
-  padding: 0 1em 1em;
-}
-h1 {
-  margin: 0;
-  line-height: 2;
-  text-align: center;
-}
-h2 {
-  margin: 0 0 .5em;
-  font-weight: normal;
-}
+
 input {
   position: absolute;
   opacity: 0;
