@@ -5,9 +5,6 @@ permalink: /ttttttttt/
 breadcrumb: Test page
 ---
 
-
-Testing Page
-
 <div class="row">
   <div class="col">
     <h2>Open <b>multiple</b></h2>
