@@ -127,6 +127,8 @@ Testing
     </div>
   </div>
   
+  
+  <!-- 
   <div class="col">
     <h2>Open <b>one</b></h2>
     <div class="tabs">
@@ -151,4 +153,4 @@ Testing
     </div>
   </div>
 </div>
-
+-->
