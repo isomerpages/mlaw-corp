@@ -18,8 +18,8 @@ Testing Page
         <div class="tab-content">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
           <br><b>Testing text</b>
-          <li>bullet 1
-            <li>bullet 2
+          <li>bullet 1</li>
+          <li>bullet 2</li>
         </div>
       </div>
       <div class="tab">
