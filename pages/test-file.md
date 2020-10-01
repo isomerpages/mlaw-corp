@@ -4,7 +4,7 @@ title: Test page
 permalink: /ttttttttt/
 breadcrumb: Test page
 ---
-
+<!--
 <style>
 $midnight: #2c3e50;
 $clouds: #ecf0f1;
@@ -102,6 +102,7 @@ input:checked {
 }
 
 </style>
+-->
 
 Testing
 
