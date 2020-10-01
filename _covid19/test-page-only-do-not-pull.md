@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: test-page-only-do-not-pull
 title: FAQs for Rental Relief Framework for SMEs & NPOs (TEST PAGE)
 permalink: /covid19-relief/test-page-only-do-not-pull
 breadcrumb: FAQs for Rental Relief Framework for SMEs and NPOs
