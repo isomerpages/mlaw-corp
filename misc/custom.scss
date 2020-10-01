@@ -478,10 +478,20 @@ input {
   z-index: -1;
 }
 // Layout
+@media screen and (max-width: 767px) {
+  .courseAccordion {
+    .tbl {
+      width: 100% !important;
+      col {
+        width: auto !important;
+      }
+    }
 .row {
   display:flex;
+  width: 100% !important;
   .col {
     flex:1;
+    width: auto !important;
     &:last-child {
       margin-left: 1em;
     }
