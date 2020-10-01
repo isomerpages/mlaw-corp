@@ -17,6 +17,9 @@ Testing Page
         <label class="tab-label" for="chck1">Item 1</label>
         <div class="tab-content">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
+          <br><b>Testing text</b>
+          <li>bullet 1
+            <li>bullet 2
         </div>
       </div>
       <div class="tab">
