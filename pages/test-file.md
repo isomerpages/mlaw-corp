@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title:Test tt
-permalink: /ttttttttttt/
-breadcrumb: test tt
+title: Test page
+permalink: /ttttttttt
+breadcrumb: Test page
 ---
 
 <style>
