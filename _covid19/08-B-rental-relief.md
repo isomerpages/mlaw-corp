@@ -492,7 +492,8 @@ b)	Satisfies one or more of the following conditions:
 
     b)	Whether the applicant landlord qualifies to provide only half the Additional Rental Relief, on the basis of financial hardship.
 
-* Landlords  or tenants who have disputes relating to the actual amount of rent to be waived may also submit applications for a rental relief assessor’s determination. Please see the section "Expansion of powers of rental relief assessors" – disputes on amount of rent to be waived  for details.
+
+* Landlords  or tenants who have disputes relating to the actual amount of rent to be waived may also submit applications for a rental relief assessor’s determination. Please see the section <a href="#expansion" id="ref2c">Expansion of powers of rental relief assessors – disputes on amount of rent to be waived </a>for details.
 
 *	There are no charges for making an application. The application must be accompanied by documents and information as specified in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf).
 
