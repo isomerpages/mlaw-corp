@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Test page
-permalink: /ttttttttt
+permalink: /ttttttttt/
 breadcrumb: Test page
 ---
 
