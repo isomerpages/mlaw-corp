@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Registry of Moneylenders Takes Action to Address Abuses by Licensed Moneylenders
+title: 'Registry of Moneylenders Takes Action to Address Abuses by Licensed Moneylenders'
 permalink: /news/press-releases/registry-of-moneylenders-takes-action-to-address-abuses-by-licen
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Jan 2016 Posted in [Press releases](/news/press-releases)
 
