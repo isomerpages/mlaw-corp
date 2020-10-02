@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Criminal Procedure Code Bill
+title: 'Public Consultation on Criminal Procedure Code Bill'
 permalink: /news/public-consultations/public-consultation-on-criminal-procedure-code-bill/
-breadcrumb: Public Consultation on Criminal Procedure Code Bill
-collection_name: news
+breadcrumb: 'Public Consultation on Criminal Procedure Code Bill'
+
 ---
+
 Public Consultation on Criminal Procedure Code Bill
 ---
 
