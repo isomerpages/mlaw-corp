@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Other Modes of Service for Part 8 Proceedings 
+title: 'Other Modes of Service for Part 8 Proceedings'
 permalink: /covid19-relief/other-modes-of-service-part8
-breadcrumb: Other Modes of Service for Part 8 Proceedings 
-collection_name: covid19
-second_nav_title: Part 8 of the Act-Application for Relief
+breadcrumb: 'Other Modes of Service for Part 8 Proceedings'
+third_nav_title: 'Part 8 of the Act-Application for Relief'
+
 ---
+
 
 ### Other Modes of Service for Part 8 Proceedings ###
 
