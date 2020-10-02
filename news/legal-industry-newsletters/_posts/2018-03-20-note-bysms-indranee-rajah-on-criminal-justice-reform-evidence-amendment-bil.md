@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Justice Reform and Evidence (Amendment) Bills(Amendment) Bill
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Justice Reform and Evidence (Amendment) Bills(Amendment) Bill'
 permalink: /news/legal-industry-newsletter/note-bysms-indranee-rajah-on-criminal-justice-reform-evidence-amendment-bill/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Justice Reform and Evidence (Amendment) Bills
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Justice Reform and Evidence (Amendment) Bills'
+
 ---
+
 
 <style>
   .image {width: 200px;}
