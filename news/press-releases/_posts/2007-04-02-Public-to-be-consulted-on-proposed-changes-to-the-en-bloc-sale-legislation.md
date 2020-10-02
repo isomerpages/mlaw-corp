@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public to be consulted on proposed changes to the en bloc sale legislation
+title: 'Public to be consulted on proposed changes to the en bloc sale legislation'
 permalink: /news/press-releases/public-to-be-consulted-on-proposed-changes-to-the-en-bloc-sale-legislation
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 2 Apr 2007 Posted in [Press releases](/news/press-releases)
 
