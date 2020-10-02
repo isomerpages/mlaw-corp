@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Singapore Statutes Online
-date:   2013-11-12
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Singapore Statutes Online'
+date: 2013-11-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-statutes
+
 ---
+
 
 12 Nov 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
