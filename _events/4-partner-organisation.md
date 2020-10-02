@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Partner Organisation
+title: 'Partner Organisation'
 permalink: /events/event_1/partner-organisation
-breadcrumb: Partner Organisation
-collection_name: events
+breadcrumb: 'Partner Organisation'
+
 ---
+
 
 
 <img src="/images/events/maxwell_chambers.png" alt="maxwell chamber logo" style="width:400px">
