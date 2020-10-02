@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second reading speech by Minister for Law, K Shanmugam, on the Foreign Limitation Periods Bill
-date:   2012-05-14
+title: 'Second reading speech by Minister for Law, K Shanmugam, on the Foreign Limitation Periods Bill'
+date: 2012-05-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-foreign-limitation-periods-bill
+
 ---
+
 
 9 Apr 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
