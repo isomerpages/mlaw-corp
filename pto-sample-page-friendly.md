@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Public Trustee's Office
+title: 'Public Trustee''s Office'
 permalink: /pto/
 breadcrumb: PTO
+
 ---
+
 
 
 
