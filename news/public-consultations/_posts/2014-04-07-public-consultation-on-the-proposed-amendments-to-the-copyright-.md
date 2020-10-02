@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Proposed Amendments to the Copyright Act
+title: 'Public Consultation on the Proposed Amendments to the Copyright Act'
 permalink: /news/public-consultation-on-the-proposed-amendments-to-the-copyright-/
-breadcrumb: Public Consultation on the Proposed Amendments to the Copyright Act
-collection_name: news
+breadcrumb: 'Public Consultation on the Proposed Amendments to the Copyright Act'
+
 ---
+
 
 Public Consultation on the Proposed Amendments to the Copyright Act
 ---
