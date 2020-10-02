@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law and Health, Mr Edwin Tong, at the International Commercial & Legal Cooperation Forum in Changsha, China 
-date:   2019-11-27
+title: 'Speech by Senior Minister of State for Law and Health, Mr Edwin Tong, at the International Commercial & Legal Cooperation Forum in Changsha, China'
+date: 2019-11-27T00:00:00.000Z
 permalink: /news/speeches/Speech-by-Senior-Minister-of-State-for-Law-and-Health-Mr-Edwin-Tong-at-the-ICLP-Forum-2019
+
 ---
+
 
 27 Nov 2019 Posted in [Speeches](/news/speeches)  
 
