@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the Land Titles (Strata) Act
+title: 'Proposed amendments to the Land Titles (Strata) Act'
 permalink: /news/press-releases/proposed-amendments-to-the-land-titles-strata-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Apr 2010 Posted in [Press releases](/news/press-releases)
 
