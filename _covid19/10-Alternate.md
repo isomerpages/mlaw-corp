@@ -114,7 +114,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S322-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Management Corporations, Subsidiary Management Corporations and Collective Sale Committees) Order 2020</a>
     </td>	
     <td class="tg-73oq">
-    <a href="https://go.gov.sg/bca-guidance-convening-agm-covid19" target="_blank">Building & Construction Authority’s Circular and Guidance Notes on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation</a>
+    <a href="https://go.gov.sg/bca-guidance-convening-agm-covid19" target="_blank">Building & Construction Authority’s Circular on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation (30 Sept 2020)</a>
     <br><br>
     <a href="https://www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
     </td>	
@@ -128,7 +128,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <td class="tg-73oq">Trade Unions </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S323-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a></td>	
     <td class="tg-73oq">
-    <a href="https://www.mom.gov.sg/employment-practices/trade-unions/about-trade-unions" target="_blank">Registry of Trade Unions Circular on Guidance on the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a>
+    <a href="https://www.mom.gov.sg/employment-practices/trade-unions/about-trade-unions" target="_blank">Registry of Trade Unions Circular on Guidance on the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020 (29 Sep 2020)</a>
     </td>	
     <td class="tg-73oq">
     For enquiries pertaining to registered trade unions, please contact the Ministry of Manpower, Registry of Trade Unions at <a href="mailto:mom_lrwd@mom.gov.sg">mom_lrwd@mom.gov.sg</a>
