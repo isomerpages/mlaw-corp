@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Launch of Enhanced Online Information Platform on Bankruptcy Matters for Bankrupts and Creditors - Press Release
+title: 'Launch of Enhanced Online Information Platform on Bankruptcy Matters for Bankrupts and Creditors - Press Release'
 permalink: /news/press-releases/launch-of-enhanced-online-information-platform-on-bankruptcy-matters-for-bankrupts-and-creditors
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Mar 2012 Posted in [Press releases](/news/press-releases)
 
