@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, S.C., Senior Minister of State, Ministry of Law & Ministry of Finance, at the Launch of the NUS Law Centre for Pro Bono & Clinical Legal Education
-permalink: /news/speeches/speech-by-ms-indranee-rajah--s-c---senior-minister-of-state--min
+title: 'Speech by Ms Indranee Rajah, S.C., Senior Minister of State, Ministry of Law & Ministry of Finance, at the Launch of the NUS Law Centre for Pro Bono & Clinical Legal Education'
+permalink: /news/speeches/speech-by-ms-indranee-rajah--s-c
+
+---
+senior-minister-of-state--min
 breadcrumb: Speeches
 collection_name: news
 ---
