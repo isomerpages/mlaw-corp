@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Ms Amanda Tan
+title: 'Ms Amanda Tan'
 permalink: /join-us/meet-our-colleagues/amanda-tan/
-breadcrumb: Ms Amanda Tan
-collection_name: join-us
-third_nav_title: Meet Our Colleagues
+breadcrumb: 'Ms Amanda Tan'
+third_nav_title: 'Meet Our Colleagues'
+
 ---
+
 
 <style>
   .image {width: 200px;}
