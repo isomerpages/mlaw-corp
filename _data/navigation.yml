@@ -5,6 +5,7 @@
 ##################################
 
 - title: About Us
+  false_collection: true
   url: /about-us/ourvision-mission-corevalues/
   sub-links:
   - title: Our Vision, Mission and Core Values
@@ -77,6 +78,7 @@
     url: /admission-to-the-bar/details-on-applying-for-an-exemption/
 
 - title: E Services
+  false_collection: true
   url: /e-services/
   sub-links:
   - title: Insolvency Office
