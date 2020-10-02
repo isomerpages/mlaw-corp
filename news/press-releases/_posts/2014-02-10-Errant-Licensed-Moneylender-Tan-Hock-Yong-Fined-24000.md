@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, Tan Hock Yong, Fined $24,000
+title: 'Errant Licensed Moneylender, Tan Hock Yong, Fined $24,000'
 permalink: /news/press-releases/errant-licensed-moneylender--tan-hock-yong--fined--24-000
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Feb 2014 Posted in [Press releases](/news/press-releases)
 
