@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Supporting Documents for Part 8 Application
+title: 'Supporting Documents for Part 8 Application'
 permalink: /covid19-relief/supporting-doc-part8
-breadcrumb: Supporting Documents for Part 8 Application
-collection_name: covid19
-second_nav_title: Part 8 of the Act-Application for Relief
+breadcrumb: 'Supporting Documents for Part 8 Application'
+third_nav_title: 'Part 8 of the Act-Application for Relief'
+
 ---
+
 
 ### Supporting Documents for Part 8 Application ###
 
