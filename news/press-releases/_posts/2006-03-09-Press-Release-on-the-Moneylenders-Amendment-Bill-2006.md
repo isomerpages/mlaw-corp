@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Press Release on the Moneylenders (Amendment) Bill 2006
+title: 'Press Release on the Moneylenders (Amendment) Bill 2006'
 permalink: /news/press-releases/press-release-on-the-moneylenders-amendment-bill-2006
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 9 Mar 2006 Posted in [Press releases](/news/press-releases)
