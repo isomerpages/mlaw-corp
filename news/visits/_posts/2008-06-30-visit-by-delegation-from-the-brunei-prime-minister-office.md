@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by delegation from the Brunei Prime Minister Office
+title: 'Visit by delegation from the Brunei Prime Minister Office'
 permalink: /news/visits/visit-by-delegation-from-the-brunei-prime-minister-office/
-breadcrumb: Visit by delegation from the Brunei Prime Minister Office
-collection_name: news
+breadcrumb: 'Visit by delegation from the Brunei Prime Minister Office'
+
 ---
+
 
 <style>
 .image {width: 600px;}
