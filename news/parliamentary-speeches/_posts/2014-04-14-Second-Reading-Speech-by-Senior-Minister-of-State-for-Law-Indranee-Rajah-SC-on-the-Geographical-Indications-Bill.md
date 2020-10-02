@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Geographical Indications Bill
-date:   2014-04-14
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Geographical Indications Bill'
+date: 2014-04-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/2R-speech-by-SMS-on-geographical-indications-bill-2014
+
 ---
+
 
 14 Apr 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
