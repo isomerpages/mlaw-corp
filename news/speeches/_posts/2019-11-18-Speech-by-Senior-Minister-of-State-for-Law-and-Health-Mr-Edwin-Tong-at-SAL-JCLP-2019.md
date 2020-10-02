@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law and Health, Mr Edwin Tong, at SAL Junior College Law Programme (JCLP) 2019 
-date:   2019-11-18
+title: 'Speech by Senior Minister of State for Law and Health, Mr Edwin Tong, at SAL Junior College Law Programme (JCLP) 2019'
+date: 2019-11-18T00:00:00.000Z
 permalink: /news/speeches/Speech-by-Senior-Minister-of-State-for-Law-and-Health-Mr-Edwin-Tong-at-SAL-JCLP-2019
+
 ---
+
 
 18 Nov 2019 Posted in [Speeches](/news/speeches)
 
