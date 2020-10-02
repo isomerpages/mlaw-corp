@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Community Mediation Reaches West
-date:   2006-10-16
+title: 'Community Mediation Reaches West'
+date: 2006-10-16T00:00:00.000Z
 permalink: /news/announcements/community-mediation-reaches-west
+
 ---
+
 
 16 Oct 2006 Posted in [Announcements](/news/announcements)
 
