@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on neighbour disputes
-date:   2019-08-05
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on neighbour disputes'
+date: 2019-08-05T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-Parliamentary-Question-on-neighbour-disputes
+
 ---
+
 
 
 5 Aug 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
