@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Ministry of Law's Response to ST Forum Letter: Gag Orders Imposed Consistently - To Protect Alleged Victims"
-date:   2019-09-11
+title: 'Ministry of Law''s Response to ST Forum Letter: Gag Orders Imposed Consistently - To Protect Alleged Victims'
+date: 2019-09-11T00:00:00.000Z
 permalink: /news/replies/ministry-of-law-s-response-to-ST-forum-letter-by-yky-why-no-gag-order-doctors
+
 ---
+
 
 11 Sep 2019 Posted in [Replies](/news/replies)  
 
