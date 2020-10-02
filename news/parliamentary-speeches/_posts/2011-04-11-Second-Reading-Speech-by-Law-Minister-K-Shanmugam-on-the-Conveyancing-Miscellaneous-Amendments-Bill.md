@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Law Minister K Shanmugam on the Conveyancing (Miscellaneous Amendments) Bill
-date:   2011-04-11
+title: 'Second Reading Speech by Law Minister K Shanmugam on the Conveyancing (Miscellaneous Amendments) Bill'
+date: 2011-04-11T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-conveyancing-miscellaneous-amendments
+
 ---
+
 
 11 Apr 2011 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
