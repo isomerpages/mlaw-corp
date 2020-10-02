@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses
+title: 'Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses'
 permalink: /covid19-relief/temporary-relief-individuals-businesses
-breadcrumb: Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses
-collection_name: covid19
+breadcrumb: 'Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses'
 
 ---
+
 ### Temporary Relief for Financially Distressed Indivduals and Businesses ###
 
 COVID-19 is an unexpected and unprecedented event which has adversely affected many economic sectors and individuals in Singapore. 
