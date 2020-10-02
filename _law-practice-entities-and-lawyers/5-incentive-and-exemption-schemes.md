@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Incentive and Exemption Schemes
+title: 'Incentive and Exemption Schemes'
 permalink: /law-practice-entities-and-lawyers/incentive-and-exemption-schemes/
-breadcrumb: Incentive and Exemption Schemes
-collection_name: law-practice-entities-and-lawyers
+breadcrumb: 'Incentive and Exemption Schemes'
+
 ---
+
 
 <style>
 table tr td ul li {font-size: 1rem;}
