@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Assoc Prof Ho Peng Kee at the Opening of the SIPO-IPOS Conference
+title: 'Speech by Assoc Prof Ho Peng Kee at the Opening of the SIPO-IPOS Conference'
 permalink: /news/speeches/speech-by-assoc-prof-ho-peng-kee-at-the-opening-of-the-sipo-ipos-conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 15 Jun 2007 Posted in [Speeches](/news/speeches)
 
