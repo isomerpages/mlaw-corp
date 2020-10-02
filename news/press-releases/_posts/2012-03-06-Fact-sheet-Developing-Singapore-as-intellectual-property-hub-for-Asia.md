@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Fact sheet: Developing Singapore as intellectual property hub for Asia"
+title: 'Fact sheet: Developing Singapore as intellectual property hub for Asia'
 permalink: /news/press-releases/fact-sheet-developing-singapore-as-intellectual-property-hub-for-asia
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 6 Mar 2012 Posted in [Press releases](/news/press-releases)
 
