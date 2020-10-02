@@ -1,10 +1,10 @@
 ---
-layout: post
-title: UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri visits Singapore
+title: 'UAE Minister of Justice Dr Hadef Bin Joa''an Al Dhahiri visits Singapore'
 permalink: /news/press-releases/uae-minister-of-justice-dr-hadef-bin-joa-an-al-dhahiri-visits-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 14 Dec 2010 Posted in [Press releases](/news/press-releases)
