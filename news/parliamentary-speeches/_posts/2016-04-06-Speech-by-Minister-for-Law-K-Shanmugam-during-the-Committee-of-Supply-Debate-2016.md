@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, K Shanmugam, during the Committee of Supply Debate 2016
-date:   2016-04-06
+title: 'Speech by Minister for Law, K Shanmugam, during the Committee of Supply Debate 2016'
+date: 2016-04-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-by-minister-for-law--k-shanmugam--during-the-committee-of
+
 ---
+
 
 6 Apr 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
