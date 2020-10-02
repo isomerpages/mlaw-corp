@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Statement by Mr K Shanmugam SC, Minister for Law, at the Signing Ceremony for the Singapore-France Agreement on Mutual Legal Assistance in Criminal Matters
-date:  2020-07-22
+title: 'Statement by Mr K Shanmugam SC, Minister for Law, at the Signing Ceremony for the Singapore-France Agreement on Mutual Legal Assistance in Criminal Matters'
+date: 2020-07-22T00:00:00.000Z
 permalink: /news/speeches/Statement-by-Mr-K-Shanmugam-SC-Minister-for-Law-at-the-Sg-France-Agreement-Signing-Ceremony
+
 ---
+
 
 22 Jul 2020 Posted in [Speeches](/news/speeches)
 
