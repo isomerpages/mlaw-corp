@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Minister for Law, K Shanmugam, at the launch of the NUS Centre for Banking and Financial Law
+title: 'Opening Address by Minister for Law, K Shanmugam, at the launch of the NUS Centre for Banking and Financial Law'
 permalink: /news/speeches/opening-add-nus-centre-banking-and-financial-law
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 12 Sep 2014 Posted in [Speeches](/news/speeches)
 
