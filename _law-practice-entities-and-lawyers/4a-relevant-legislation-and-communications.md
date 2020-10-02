@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Relevant Legislation and Communications
+title: 'Relevant Legislation and Communications'
 permalink: /law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/
-breadcrumb: Relevant Legislation and Communications
-collection_name: law-practice-entities-and-lawyers
-second_nav_title: Resources for Law Practice Entities
+breadcrumb: 'Relevant Legislation and Communications'
+third_nav_title: 'Resources for Law Practice Entities'
+
 ---
+
 
 <style>
 table tr td ul li {font-size: 1rem;}
