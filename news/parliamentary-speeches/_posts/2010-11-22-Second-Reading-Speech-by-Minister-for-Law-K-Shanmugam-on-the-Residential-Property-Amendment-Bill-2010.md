@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Minister for Law K Shanmugam on the Residential Property (Amendment) Bill 2010
-date:   2010-11-22
+title: 'Second Reading Speech by Minister for Law K Shanmugam on the Residential Property (Amendment) Bill 2010'
+date: 2010-11-22T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-residential-property-amendment-bill
+
 ---
+
 
 22 Nov 2010 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
