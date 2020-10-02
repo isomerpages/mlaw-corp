@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the OneMap Public Launch
+title: 'Speech by Law Minister K Shanmugam at the OneMap Public Launch'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-onemap-public-launch
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 31 Mar 2010 Posted in [Speeches](/news/speeches)
