@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Supporting Documents
+title: 'Supporting Documents'
 permalink: /covid19-relief/supporting-doc-assessor
-breadcrumb: Supporting Documents
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+breadcrumb: 'Supporting Documents'
+third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+
 ---
+
 ### Supporting Documents ###
 
 When you submit an [Application for an Assessor’s Determination](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor), or the Response to the Application, you are encouraged to enclose all relevant supporting documents to facilitate a fair and timely determination of the matter.
