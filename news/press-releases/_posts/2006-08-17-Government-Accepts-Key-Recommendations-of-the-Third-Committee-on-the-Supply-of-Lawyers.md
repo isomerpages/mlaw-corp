@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Government Accepts Key Recommendations of the Third Committee on the Supply of Lawyers
+title: 'Government Accepts Key Recommendations of the Third Committee on the Supply of Lawyers'
 permalink: /news/press-releases/government-accepts-key-recommendations-of-the-third-committee-on-the-supply-of-lawyers-and-
-collection_name: news
+
 ---
+
 
 17 Aug 2006 Posted in [Press releases](/news/press-releases)
 
