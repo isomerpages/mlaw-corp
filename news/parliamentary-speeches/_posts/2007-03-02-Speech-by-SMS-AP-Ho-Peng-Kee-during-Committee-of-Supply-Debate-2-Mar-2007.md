@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by SMS A/P Ho Peng Kee during Committee of Supply Debate, 2 Mar 2007
-date:   2007-03-02
+title: 'Speech by SMS A/P Ho Peng Kee during Committee of Supply Debate, 2 Mar 2007'
+date: 2007-03-02T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-by-sms-a-p-ho-peng-kee-during-committee-of-supply-debate-2-mar-2007
+
 ---
+
 
 
 2 Mar 2007 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
