@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Biannual Meeting of the ICC Commission on Arbitration
+title: 'Biannual Meeting of the ICC Commission on Arbitration'
 permalink: /news/speeches/biannual-meeting-of-the-icc-commission-on-arbitration
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 8 Jan 2008 Posted in [Speeches](/news/speeches)
 
