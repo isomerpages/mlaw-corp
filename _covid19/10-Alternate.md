@@ -12,7 +12,7 @@ The following Orders have therefore been made under Section 27 of the Act, to en
 
 The Orders were amended on 29 Sep to extend the alternative meeting arrangements to 30 June 2021, and make other refinements to some Orders. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings) for more information.
 
-[\\] These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information.
+<!-- These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information. -->
 
 <style type="text/css">	
 .tg  {border-collapse:collapse;border-spacing:0;}	
