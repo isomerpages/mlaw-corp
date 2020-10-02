@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Licensed moneylender convicted - 9 Sept updated - Press release
+title: 'Licensed moneylender convicted - 9 Sept updated - Press release'
 permalink: /news/press-releases/licensed-moneylender-convicted-9-sept-updated-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Sep 2011 Posted in [Press releases](/news/press-releases/)
 
