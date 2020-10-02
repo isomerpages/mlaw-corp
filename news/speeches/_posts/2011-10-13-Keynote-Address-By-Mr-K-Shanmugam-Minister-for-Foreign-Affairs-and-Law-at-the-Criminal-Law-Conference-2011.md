@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address By Mr K Shanmugam, Minister for Foreign Affairs and Law, at the Criminal Law Conference 2011
+title: 'Keynote Address By Mr K Shanmugam, Minister for Foreign Affairs and Law, at the Criminal Law Conference 2011'
 permalink: /news/speeches/keynote-address-by-mr-k-shanmugam-minister-for-foreign-affairs-and-law-at-the-criminal-law
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 13 Oct 2011 Posted in [Speeches](/news/speeches) 
 
