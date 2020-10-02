@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  New Study Award to Help Defray Fees for UniSIM School of Law Students
+title: 'New Study Award to Help Defray Fees for UniSIM School of Law Students'
 permalink: /news/press-releases/new-study-award-to-help-defray-fees-for-unisim-school-of-law-stu
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Sep 2016 Posted in [Press releases](/news/press-releases)
 
