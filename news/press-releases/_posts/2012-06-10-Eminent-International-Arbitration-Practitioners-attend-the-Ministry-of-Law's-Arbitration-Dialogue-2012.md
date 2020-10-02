@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Eminent International Arbitration Practitioners attend the Ministry of Law's Arbitration Dialogue 2012
+title: 'Eminent International Arbitration Practitioners attend the Ministry of Law''s Arbitration Dialogue 2012'
 permalink: /news/press-releases/eminent-international-arbitration-practitioners-attend-the-ministry-of-law-s-arbitration-dialogue
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Jun 2012 Posted in [Press releases](/news/press-releases)
 
