@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening address by Senior Minister of State Assoc Prof Ho Peng Kee at the Global Forum on IP
+title: 'Opening address by Senior Minister of State Assoc Prof Ho Peng Kee at the Global Forum on IP'
 permalink: /news/speeches/opening-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-global-forum-on-ip
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 8 Jan 2009 Posted in [Speeches](/news/speeches)
 <br>  
