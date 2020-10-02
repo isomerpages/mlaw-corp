@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by DPM Jayakumar to Parliamentary Question on caning
-date:   2008-02-15
+title: 'Oral Answer by DPM Jayakumar to Parliamentary Question on caning'
+date: 2008-02-15T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-dpm-jayakumar-to-parliamentary-question-on-caning
+
 ---
+
 
 15 Feb 2008 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
