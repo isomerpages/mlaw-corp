@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to feedback received from public consultation on proposed Debt Repayment Scheme
+title: 'Response to feedback received from public consultation on proposed Debt Repayment Scheme'
 permalink: /news/press-releases/response-to-feedback-received-from-public-consultation-on-proposed-debt-repayment-scheme
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Jan 2008 Posted in [Press releases](/news/press-releases)
 
