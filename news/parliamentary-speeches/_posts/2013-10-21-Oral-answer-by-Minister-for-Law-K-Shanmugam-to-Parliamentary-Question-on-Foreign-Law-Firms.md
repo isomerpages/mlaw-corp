@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Minister for Law, K Shanmugam, to Parliamentary Question on Foreign Law Firms
-date:   2013-10-21
+title: 'Oral answer by Minister for Law, K Shanmugam, to Parliamentary Question on Foreign Law Firms'
+date: 2013-10-21T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-on-foreign-law-firm
+
 ---
+
 
 
 21 Oct 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
