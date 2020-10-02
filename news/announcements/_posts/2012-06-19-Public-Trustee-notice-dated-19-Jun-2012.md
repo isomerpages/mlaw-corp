@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Trustee notice dated 19 Jun 2012
-date:   2012-06-19
+title: 'Public Trustee notice dated 19 Jun 2012'
+date: 2012-06-19T00:00:00.000Z
 permalink: /news/announcements/public-trustee-notice-dated-19-jun-2012
+
 ---
+
 
 19 Jun 2012 Posted in [Announcements](/news/announcements)
 
