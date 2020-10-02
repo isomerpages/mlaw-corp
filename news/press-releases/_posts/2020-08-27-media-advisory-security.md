@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Release of Ministries’ Addenda to the President’s Address by MINDEF, MINLAW, MHA, PMO (NSCS), MFA - “Securing Singapore At Home and Abroad”
-date: 2020-08-27
+title: 'Release of Ministries’ Addenda to the President’s Address by MINDEF, MINLAW, MHA, PMO (NSCS), MFA - “Securing Singapore At Home and Abroad”'
+date: 2020-08-27T00:00:00.000Z
 permalink: /news/press-releases/media-advisory-security
+
 ---
+
 
 27 Aug 2020 Posted in [Press releases](/news/press-releases)
 
