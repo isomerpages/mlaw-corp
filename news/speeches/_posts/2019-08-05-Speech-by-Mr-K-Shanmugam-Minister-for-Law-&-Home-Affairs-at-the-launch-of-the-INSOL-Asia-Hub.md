@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Speech by Mr K Shanmugam, Minister for Law & Home Affairs, at the launch of the INSOL Asia Hub
-date:   2019-08-05
+title: 'Speech by Mr K Shanmugam, Minister for Law & Home Affairs, at the launch of the INSOL Asia Hub'
+date: 2019-08-05T00:00:00.000Z
 permalink: /news/speeches/speech-by-Minister-Shanmugam-launch-of-the-INSOL-Asia-Hub
+
 ---
+
 
 5 Aug 2019 Posted in [Speeches](/news/speeches)
 
