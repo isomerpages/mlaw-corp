@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Foreign Judgements Act
+title: 'Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Foreign Judgements Act'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-reciprocal-enforcement-foreign-judgements-act
-breadcrumb: Public Consultations
-collection_name: news
+breadcrumb: 'Public Consultations'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Reciprocal Enforcement of Foreign Judgements Act
 ---
