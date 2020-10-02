@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Press Release on Turkmenistan Minister of Justice Begmurat Muhamedov’s Three-Day Official Visit to Singapore
-date:   2019-11-24
+title: 'Press Release on Turkmenistan Minister of Justice Begmurat Muhamedov’s Three-Day Official Visit to Singapore'
+date: 2019-11-24T00:00:00.000Z
 permalink: /news/press-releases/Press-Release-on-Turkmenistan-Minister-of-Justice-Begmurat-Muhamedov’s-Three-Day-Official-Visit-to-Singapore
+
 ---
+
 
 24 Nov 2019 Posted in [Press releases](/news/press-releases)
 
