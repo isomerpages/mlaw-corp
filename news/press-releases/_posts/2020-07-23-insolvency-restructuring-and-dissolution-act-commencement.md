@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Insolvency, Restructuring and Dissolution Act to Commence on 30 July 2020
-date: 2020-07-23
+title: 'Insolvency, Restructuring and Dissolution Act to Commence on 30 July 2020'
+date: 2020-07-23T00:00:00.000Z
 permalink: /news/press-releases/2020-07-23-insolvency-restructuring-and-dissolution-act-commencement
+
 ---
+
 
 23 Jul 2020 Posted in [Press releases](/news/press-releases)
 
