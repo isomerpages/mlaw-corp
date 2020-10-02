@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Dr M. Veerappa Moily, India’s Minister for Law and Justice, visits Singapore
+title: 'Dr M. Veerappa Moily, India’s Minister for Law and Justice, visits Singapore'
 permalink: /news/press-releases/dr-m-veerappa-moily-india-s-minister-for-law-and-justice-visits-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Sep 2010 Posted in [Press releases](/news/press-releases)
 
