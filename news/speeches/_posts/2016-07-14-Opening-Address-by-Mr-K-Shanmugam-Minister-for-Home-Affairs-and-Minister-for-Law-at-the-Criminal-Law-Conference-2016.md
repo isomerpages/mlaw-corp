@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the Criminal Law Conference 2016
+title: 'Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the Criminal Law Conference 2016'
 permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 14 Jul 2016 Posted in [Speeches](/news/speeches)
