@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to feedback received from Public Consultation on the Draft Mediation Bill
+title: 'Responses to feedback received from Public Consultation on the Draft Mediation Bill'
 permalink: /news/public-consultations/responses-to-feedback-received-from-public-consultation-on-the-d/
-breadcrumb: Responses to feedback received from Public Consultation on the Draft Mediation Bill
-collection_name: news
+breadcrumb: 'Responses to feedback received from Public Consultation on the Draft Mediation Bill'
+
 ---
+
 
 Public consultation on legislative amendments to the Bankruptcy Act in in relation to the Debt Repayment Scheme
 ---
