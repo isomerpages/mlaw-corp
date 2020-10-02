@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Law Ministry Accepts Recommendations to Strengthen Professional Training of Lawyers
+title: 'Law Ministry Accepts Recommendations to Strengthen Professional Training of Lawyers'
 permalink: /news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 30 Aug 2018 Posted in [Press releases](/news/press-releases)
 
