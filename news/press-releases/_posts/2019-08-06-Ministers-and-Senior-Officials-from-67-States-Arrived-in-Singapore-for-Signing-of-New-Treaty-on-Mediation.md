@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Ministers and Senior Officials from 67 States Arrived in Singapore for Signing of New Treaty on Mediation
-date:   2019-08-06
+title: 'Ministers and Senior Officials from 67 States Arrived in Singapore for Signing of New Treaty on Mediation'
+date: 2019-08-06T00:00:00.000Z
 permalink: /news/press-releases/Ministers-and-Senior-Officials-from-67-States-Arrived-n-Singapore-for-Signing-of-New-Treaty-on-Mediation
+
 ---
+
 
 6 Aug 2019 Posted in [Press releases](/news/press-releases)
 
