@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Magistrate’s Complaints
-date:   2014-02-17
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Magistrate’s Complaints'
+date: 2014-02-17T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar1
+
 ---
+
 
 
 17 Feb 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
