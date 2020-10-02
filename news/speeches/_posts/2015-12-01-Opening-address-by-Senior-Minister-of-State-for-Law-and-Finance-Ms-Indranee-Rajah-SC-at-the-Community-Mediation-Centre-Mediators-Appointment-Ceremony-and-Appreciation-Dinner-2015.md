@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening address by Senior Minister of State for Law and Finance Ms Indranee Rajah SC at the Community Mediation Centre's Mediators' Appointment Ceremony and Appreciation Dinner 2015
+title: 'Opening address by Senior Minister of State for Law and Finance Ms Indranee Rajah SC at the Community Mediation Centre''s Mediators'' Appointment Ceremony and Appreciation Dinner 2015'
 permalink: /news/speeches/opening-address-by-senior-minister-of-state-for-law-and-finance-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 1 Dec 2015 Posted in [Speeches](/news/speeches)
 
