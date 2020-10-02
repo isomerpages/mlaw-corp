@@ -1,10 +1,10 @@
 ---
-layout: post
-title: People's Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home Affairs and Law Minister K Shanmugam
+title: 'People''s Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home Affairs and Law Minister K Shanmugam'
 permalink: /news/visits/brunei-attorney-general-yb-datin-paduka-hajah-hayati-bte-poksdsp-haji-salleh-calls-on-law-minister/
-breadcrumb: People's Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home Affairs and Law Minister K Shanmugam
-collection_name: news
+breadcrumb: 'People''s Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home Affairs and Law Minister K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
