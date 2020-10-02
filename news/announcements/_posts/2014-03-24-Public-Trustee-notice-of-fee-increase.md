@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Public Trustee notice of fee increase
-date:   2014-03-24
+title: 'Public Trustee notice of fee increase'
+date: 2014-03-24T00:00:00.000Z
 permalink: /news/announcements/notice-of-fee-increase
+
 ---
+
 
 24 Mar 2014 Posted in [Announcements](/news/announcements)
 
