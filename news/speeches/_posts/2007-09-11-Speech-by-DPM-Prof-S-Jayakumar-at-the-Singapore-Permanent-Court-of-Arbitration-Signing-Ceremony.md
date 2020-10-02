@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by DPM Prof S Jayakumar at the Singapore-Permanent Court of Arbitration Signing Ceremony
+title: 'Speech by DPM Prof S Jayakumar at the Singapore-Permanent Court of Arbitration Signing Ceremony'
 permalink: /news/speeches/speech-by-dpm-prof-s-jayakumar-at-the-singapore-permanent-court-of-arbitration-signing-ceremony
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 11 Sep 2007 Posted in [Speeches](/news/speeches)
 
