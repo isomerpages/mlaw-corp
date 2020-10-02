@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
-title: News and Media
+title: 'News and Media'
 permalink: /events/event_1/news-media
-breadcrumb: News and Media
-collection_name: events
+breadcrumb: 'News and Media'
+
 ---
+
 
 To be updated. 
