@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Myanmar Union Attorney General Dr Tun Shin calls on Minister for Law K Shanmugam
+title: 'Myanmar Union Attorney General Dr Tun Shin calls on Minister for Law K Shanmugam'
 permalink: /news/visits/myanmar-AG-calls-on-minister-for-law/
-breadcrumb: Myanmar Union Attorney General Dr Tun Shin calls on Minister for Law K Shanmugam
-collection_name: news
+breadcrumb: 'Myanmar Union Attorney General Dr Tun Shin calls on Minister for Law K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
