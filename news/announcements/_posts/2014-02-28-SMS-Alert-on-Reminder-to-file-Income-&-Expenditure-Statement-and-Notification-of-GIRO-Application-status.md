@@ -1,9 +1,10 @@
 ---
-layout: post
-title: SMS Alert on Reminder to file Income & Expenditure Statement and Notification of GIRO Application status
-date:   2014-02-28
+title: 'SMS Alert on Reminder to file Income & Expenditure Statement and Notification of GIRO Application status'
+date: 2014-02-28T00:00:00.000Z
 permalink: /news/announcements/web-broadcast
+
 ---
+
 
 28 Feb 2014 Posted in [Announcements](/news/announcements) 
 
