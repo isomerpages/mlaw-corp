@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Legal Aid Bureau
+title: 'Legal Aid Bureau'
 permalink: /about-us/what-we-do/legal-aid-bureau/
-breadcrumb: Legal Aid Bureau
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Legal Aid Bureau'
+third_nav_title: 'What We Do'
+
 ---
+
 
 <style> 
  .image {width: 600px;} 
