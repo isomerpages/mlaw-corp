@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State, Mr Edwin Tong on Legal Aid and Advice (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State, Mr Edwin Tong on Legal Aid and Advice (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-legal-aid-and-advice-amendment-bill
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 19 Nov 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
