@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Proxy Restrictions at General Meetings for En Bloc Sales from 2021
-date: 2020-09-29
+title: 'Proxy Restrictions at General Meetings for En Bloc Sales from 2021'
+date: 2020-09-29T00:00:00.000Z
 permalink: /news/press-releases/Proxy-Restrictions-at-General-Meetings-for-En-Bloc-Sales-from-2021
+
 ---
+
 
 29 Sep 2020 Posted in [Press releases](/news/press-releases)
 
