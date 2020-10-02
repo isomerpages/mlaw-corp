@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Salaries Due to Employees of Liquidated Companies
-date:   2016-01-29
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Salaries Due to Employees of Liquidated Companies'
+date: 2016-01-29T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar5
+
 ---
+
 
 29 Jan 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
