@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Speech by Minister for Law, K Shanmugam, at the Institute of Policy Studies Conference: Harassment in Singapore: Realities, Conundrums and Approaches Moving Ahead"
+title: 'Speech by Minister for Law, K Shanmugam, at the Institute of Policy Studies Conference: Harassment in Singapore: Realities, Conundrums and Approaches Moving Ahead'
 permalink: /news/speeches/speech-at-ips-harassment
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Nov 2013 Posted in [Speeches](/news/speeches)
 
