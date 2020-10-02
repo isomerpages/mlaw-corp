@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by SMS Assoc Prof Ho Peng Kee on Coroners Bill
-date:   2010-05-19
+title: 'Second Reading Speech by SMS Assoc Prof Ho Peng Kee on Coroners Bill'
+date: 2010-05-19T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-assoc-prof-ho-peng-kee-on-coroners-bill
+
 ---
+
 
 19 May 2010 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
