@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  New Legal Services Regulatory Authority to Oversee All Law Practices in Singapore
+title: 'New Legal Services Regulatory Authority to Oversee All Law Practices in Singapore'
 permalink: /news/press-releases/new-legal-services-regulatory-authority-to-oversee-all-law-pract
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 18 Nov 2015 Posted in [Press releases](/news/press-releases)
 
