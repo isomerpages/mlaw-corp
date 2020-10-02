@@ -33,7 +33,7 @@ permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Lau
 {:start="6"}
 6.	Speaking at the launch of the TIR at TechLaw.Fest 2020, Minister for Community, Culture and Youth and Second Minister for Law Edwin Tong SC said, “Technology is disrupting the delivery of legal services. It has been for some time, but is accelerated by the COVID-19 pandemic. Our legal industry needs to be nimble and quick to adapt to the changing environment. It is important for our legal industry to recognise key global and legal industry trends, and take stock of important LegalTech solutions. We hope that the Technology and Innovation Roadmap will be useful in guiding law practices in their journey of technology adoption.”
 
-<u>**About the TIR**</u>
+**<u>About the TIR</u>**
 
 {:start="7"}
 7.	The TIR is the result of ongoing engagement efforts with industry, first sparked off by results of a 2018 survey conducted by LawSoc, which solicited views on the future of LegalTech and its relevance to Singapore law firms. The majority of respondents saw technology to be crucial to the future development of the profession and the sector.  The full survey findings can be found in Annex B.
