@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Remarks by Senior Minister Of State For Law, Indranee Rajah, at the MOU Signing Ceremony in University of Yangon's Arts Hall
+title: 'Remarks by Senior Minister Of State For Law, Indranee Rajah, at the MOU Signing Ceremony in University of Yangon''s Arts Hall'
 permalink: /news/speeches/remarks-by-sms-at-mou-signing-ceremony-in-university-of-yangon
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Feb 2014 Posted in [Speeches](/news/speeches)
 
