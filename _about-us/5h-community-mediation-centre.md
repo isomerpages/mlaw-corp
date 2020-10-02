@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Community Mediation Centre
+title: 'Community Mediation Centre'
 permalink: /about-us/what-we-do/community-mediation-centre/
-breadcrumb: Community Mediation Centre
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Community Mediation Centre'
+third_nav_title: 'What We Do'
+
 ---
+
 
 <style> 
  .image {width: 600px;} 
