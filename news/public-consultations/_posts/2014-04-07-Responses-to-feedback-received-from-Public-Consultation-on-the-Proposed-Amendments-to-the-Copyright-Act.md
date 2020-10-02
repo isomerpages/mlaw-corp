@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
+title: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act'
 permalink: /news/public-consultations/responses-to-feedback-on-copyright-act-2014/
-breadcrumb: Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
-collection_name: news
+breadcrumb: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act'
+
 ---
+
 
 Responses to feedback received from Public Consultation on the Proposed Amendments to the Copyright Act
 ---
