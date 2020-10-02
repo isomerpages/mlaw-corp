@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, on Resolution of Neighbour Disputes over Cigarette Smoke
+title: 'Written Answer by Minister for Law, K Shanmugam, on Resolution of Neighbour Disputes over Cigarette Smoke'
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Resolution-of-Neighbour-Disputes-over-Cigarette-Smoke
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 11 Jul 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
