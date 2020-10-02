@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Protection from Harassment (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Protection from Harassment (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-poha-amendments
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 7 May 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
