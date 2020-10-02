@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Extradition Treaties
-date:   2016-09-13
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Extradition Treaties'
+date: 2016-09-13T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--indranee-rajah-0
+
 ---
+
 
 
 13 Sep 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
