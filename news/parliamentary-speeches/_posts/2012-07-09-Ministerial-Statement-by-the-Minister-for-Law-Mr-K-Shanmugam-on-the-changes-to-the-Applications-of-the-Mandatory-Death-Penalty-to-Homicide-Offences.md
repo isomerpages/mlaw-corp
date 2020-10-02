@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Ministerial Statement by the Minister for Law Mr K Shanmugam on the changes to the Applications of the Mandatory Death Penalty to Homicide Offences
-date:   2012-07-09
+title: 'Ministerial Statement by the Minister for Law Mr K Shanmugam on the changes to the Applications of the Mandatory Death Penalty to Homicide Offences'
+date: 2012-07-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/ministerial-statement-by-the-minister-for-law-mr-k-shanmugam-on-the-changes-to-the-applications-of
+
 ---
+
 
 9 Jul 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
