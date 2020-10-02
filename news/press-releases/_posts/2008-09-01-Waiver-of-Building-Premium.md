@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Waiver of Building Premium
+title: 'Waiver of Building Premium'
 permalink: /news/press-releases/waiver-of-building-premium
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 
