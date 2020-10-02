@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Proposed Licence Conditions and Code of Conduct for Collective Management Organisations
-date:   2020-06-03
+title: 'Public Consultation on Proposed Licence Conditions and Code of Conduct for Collective Management Organisations'
+date: 2020-06-03T00:00:00.000Z
 permalink: /news/Public-Consultation-on-Proposed-Licence-Conditions-and-Code-of-Conduct-for-Collective-Management-Organisations
+
 ---
+
 
 **Public Consultation on Proposed Licence Conditions and Code of Conduct for Collective Management Organisations**
 ---
