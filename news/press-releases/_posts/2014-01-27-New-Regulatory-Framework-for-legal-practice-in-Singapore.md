@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Regulatory Framework for legal practice in Singapore
+title: 'New Regulatory Framework for legal practice in Singapore'
 permalink: /news/press-releases/new-regulatory-framework-for-legal-practice-in-Singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 27 Jan 2014 Posted in [Press releases](/news/press-releases)
 
