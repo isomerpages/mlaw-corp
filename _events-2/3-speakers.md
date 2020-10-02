@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Speakers
 permalink: /events/event_2/speakers
 breadcrumb: Speakers
-collection_name: events-2
+
 ---
+
 
 <img src="/images/events/SMS_Edwin_Tong.jpg" alt="SMS edwin tong" style="width:400px"> 
 
