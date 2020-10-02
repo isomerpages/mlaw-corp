@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann
+title: 'Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann'
 permalink: /news/visits/dr-francis-gurry-director-general-world-intellectual-property-organization-calls-on-senior/
-breadcrumb: Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann
-collection_name: news
+breadcrumb: 'Dr Francis Gurry, Director-General, World Intellectual Property Organization, calls on Senior Parliamentary Secretary for Education and Law, Ms Sim Ann'
+
 ---
+
 
 <style>
 .image {width: 600px;}
