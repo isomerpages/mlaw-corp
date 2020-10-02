@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Questions on Moneylending
+title: 'Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Questions on Moneylending'
 permalink: /news/parliamentary-speeches/written-answer-by-Minister-for-Law-KShanmugam-to-Parliamentary-questions-on-moneylending
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 19 Nov 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
