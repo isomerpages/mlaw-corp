@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the Asian Maritime Law and Arbitration Conference
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Asian Maritime Law and Arbitration Conference'
 permalink: /news/speeches/speech-by-senior-minister-of-state-for-education-and-law--ms-ind
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 10 Apr 2014 Posted in [Speeches](/news/speeches)
