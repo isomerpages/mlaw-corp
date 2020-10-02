@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Singapore government responds to the “White Paper on the Repression of Political Freedoms in Singapore” by Amsterdam & Peroff"
+title: 'Singapore government responds to the “White Paper on the Repression of Political Freedoms in Singapore” by Amsterdam & Peroff'
 permalink: /news/replies/singapore-government-responds-to-the-white-paper-on-the-repression-of-political-freedoms-in/
-breadcrumb: Singapore government responds to the "White Paper on the Repression of Political Freedoms in Singapore" by Amsterdam & Peroff
-collection_name: news
+breadcrumb: 'Singapore government responds to the "White Paper on the Repression of Political Freedoms in Singapore" by Amsterdam & Peroff'
+
 ---
+
 
 Singapore government responds to the "White Paper on the Repression of Political Freedoms in Singapore" by Amsterdam & Peroff
 ---
