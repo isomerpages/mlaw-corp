@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Errant licensed moneylender, Tan Chun Hua, Fined $124,000 - Press release
-permalink: /news/press-releases/errant-licensed-moneylender--tan-chun-hua--fined--124-000---pres
+title: 'Errant licensed moneylender, Tan Chun Hua, Fined $124,000 - Press release'
+permalink: /news/press-releases/errant-licensed-moneylender--tan-chun-hua--fined--124-000
+
+---
+pres
 breadcrumb: Press Releases
 collection_name: news
 ---
