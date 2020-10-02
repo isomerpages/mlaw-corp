@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, on Legal Aid by Family Members of Mentally Disabled for Appointment as Deputies
+title: 'Written Answer by Minister for Law, K Shanmugam, on Legal Aid by Family Members of Mentally Disabled for Appointment as Deputies'
 permalink: /news/parliamentary-speeches/written-answer-by-minister-shanmugam-legal-aid-applications-by-family-members-of-mentally-disabled
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 2 Oct 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
