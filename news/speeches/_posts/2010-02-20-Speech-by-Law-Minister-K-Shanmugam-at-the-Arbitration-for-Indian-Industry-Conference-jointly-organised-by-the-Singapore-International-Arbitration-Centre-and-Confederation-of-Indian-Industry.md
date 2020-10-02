@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Speech by Law Minister K Shanmugam at the “Arbitration for Indian Industry” Conference jointly organised by the Singapore International Arbitration Centre and Confederation of Indian Industry"
+title: 'Speech by Law Minister K Shanmugam at the “Arbitration for Indian Industry” Conference jointly organised by the Singapore International Arbitration Centre and Confederation of Indian Industry'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-arbitration-for-indian-industry-conference-jointly
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 20 Feb 2010 Posted in [Speeches](/news/speeches)
 
