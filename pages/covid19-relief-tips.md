@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Tips
 permalink: /covid19-relief/tips
 breadcrumb: Tips
+
 ---
+
 
 ### Tips on how to reduce file size ###
 
