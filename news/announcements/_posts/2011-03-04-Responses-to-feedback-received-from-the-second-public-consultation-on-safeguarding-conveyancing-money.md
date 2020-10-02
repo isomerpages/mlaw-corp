@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to feedback received from the second public consultation on safeguarding conveyancing money
+title: 'Responses to feedback received from the second public consultation on safeguarding conveyancing money'
 permalink: /news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing
 breadcrumb: Announcements
-collection_name: news
+
 ---
+
 
 4 Mar 2011 Posted in [Announcements](/news/announcements)
 
