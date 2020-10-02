@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Copyright (Amendment) Bill by Senior Minister of State for Law Assoc Prof Ho Peng Kee
-date:   2009-09-15
+title: 'Second Reading Speech on Copyright (Amendment) Bill by Senior Minister of State for Law Assoc Prof Ho Peng Kee'
+date: 2009-09-15T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-copyright-amendment-bill-by-senior-minister-of-state-for-law-assoc-prof
+
 ---
+
 
 
 15 Sep 2009 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
