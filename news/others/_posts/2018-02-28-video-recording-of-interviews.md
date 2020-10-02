@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Video Recording of Interviews
+title: 'Video Recording of Interviews'
 permalink: /news/others/video-recording-of-interviews/
-breadcrumb: Video Recording of Interviews
-collection_name: news
+breadcrumb: 'Video Recording of Interviews'
+
 ---
+
 
 Video Recording of Interviews
 ---
