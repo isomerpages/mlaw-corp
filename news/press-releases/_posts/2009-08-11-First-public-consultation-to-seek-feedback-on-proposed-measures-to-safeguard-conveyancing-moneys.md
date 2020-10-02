@@ -1,10 +1,10 @@
 ---
-layout: post
-title: First public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
+title: 'First public consultation to seek feedback on proposed measures to safeguard conveyancing moneys'
 permalink: /news/press-releases/first-public-consultation-to-seek-feedback-on-proposed-measures-to-safeguard-conveyancing-moneys
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 11 Aug 2009 Posted in [Press releases](/news/press-releases)
 
