@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Government Welcomes Recommendations to Establish Singapore International Commercial Court
+title: 'Government Welcomes Recommendations to Establish Singapore International Commercial Court'
 permalink: /news/press-releases/government-welcomes-recommendation-to-establish-SICC
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 3 Dec 2013 Posted in [Press releases](/news/press-releases)
