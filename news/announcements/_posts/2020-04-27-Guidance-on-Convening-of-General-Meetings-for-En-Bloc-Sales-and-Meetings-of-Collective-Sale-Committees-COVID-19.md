@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation
-date:   2020-04-27
+title: 'Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation'
+date: 2020-04-27T00:00:00.000Z
 permalink: /news/announcements/2020-04-27-Guidance-on-Convening-of-General-Meetings-for-En-Bloc-Sales-and-Meetings-of-Collective-Sale-Committees-COVID-19
+
 ---
+
 
 27 Apr 2020 Posted in [Announcements](/news/announcements)
 
