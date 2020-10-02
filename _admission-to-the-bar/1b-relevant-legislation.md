@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Relevant Legislation
+title: 'Relevant Legislation'
 permalink: /admission-to-the-bar/admission-requirements/relevant-legislation/
-breadcrumb: Relevant Legislation
-collection_name: admission-to-the-bar
-second_nav_title: Admission to the Bar
+breadcrumb: 'Relevant Legislation'
+third_nav_title: 'Admission to the Bar'
+
 ---
+
 
 Relevant Legislation
 ---
