@@ -24,9 +24,9 @@ links:
     - title: News
       collection: news
     - title: 'Law Practices/Lawyers'
-      collection: law-practiceslawyers
+      collection: law-practice-entities-and-lawyers
     - title: 'Bar Admission'
-      collection: bar-admission
+      collection: admission-to-the-bar
     - title: 'E Services'
       false_collection: true
       url: /e-services/
