@@ -57,7 +57,7 @@ permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Lau
 **02 OCTOBER 2020**
 
 **Annex A: MinLaw’s Legal Industry Digitalisation Initiatives**<br>
-[Annex B: 2018 LawSoc survey results](/files/news/press-releases/2020/10/ANNEX B LawSociety_LegalTech_Summary_Report_07-Mar.pdf)
+[Annex B 2018 LawSoc survey results](/files/news/press-releases/2020/10/ANNEX B LawSociety_LegalTech_Summary_Report_07-Mar.pdf)
 
 **Annex A: MinLaw’s Legal Industry Digitalisation Initiatives**
 
