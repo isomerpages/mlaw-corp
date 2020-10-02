@@ -22,7 +22,7 @@ links:
             - title: 'Useful Links'
               url: /about-us/useful-links/
     - title: News
-      collection: news
+      resource_room: true
     - title: 'Law Practices/Lawyers'
       collection: law-practice-entities-and-lawyers
     - title: 'Bar Admission'
