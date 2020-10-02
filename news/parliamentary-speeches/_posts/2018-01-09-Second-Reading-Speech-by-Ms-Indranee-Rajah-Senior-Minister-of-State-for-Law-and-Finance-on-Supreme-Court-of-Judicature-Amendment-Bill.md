@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Supreme Court of Judicature (Amendment) Bill
+title: 'Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Supreme Court of Judicature (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-supreme-court-of-judicature-bill
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 9 Jan 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
