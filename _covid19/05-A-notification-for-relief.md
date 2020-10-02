@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Service via the Electronic System
+title: 'Service via the Electronic System'
 permalink: /covid19-relief/notification-for-relief
-breadcrumb: Service via the Electronic System
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Notification for Relief
+breadcrumb: 'Service via the Electronic System'
+third_nav_title: 'Part 2 of the Act-Notification for Relief'
+
 ---
+
 
 ### Notification for Relief ### 
 
