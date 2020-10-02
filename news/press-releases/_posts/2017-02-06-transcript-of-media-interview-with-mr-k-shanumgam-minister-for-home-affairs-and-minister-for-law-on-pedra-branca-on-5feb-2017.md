@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Transcript of Media Interview with Mr K Shanmugam, Minister for Home Affairs and Minister for Law, on Pedra Branca on 5 February 2017
+title: 'Transcript of Media Interview with Mr K Shanmugam, Minister for Home Affairs and Minister for Law, on Pedra Branca on 5 February 2017'
 permalink: /news/press-releases/transcript-of-media-interview-with-mr-k-shanmugam--minister-for-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 6 Feb 2017 Posted in [Press releases](/news/press-releases)
 
