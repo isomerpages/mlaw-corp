@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed Amendments to the Copyright Act
+title: 'Proposed Amendments to the Copyright Act'
 permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-copyright-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Apr 2014 Posted in [Press releases](/news/press-releases)
 
