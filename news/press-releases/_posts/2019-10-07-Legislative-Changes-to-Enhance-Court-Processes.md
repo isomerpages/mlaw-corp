@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Legislative Changes to Enhance Court Processes
-date:   2019-10-07
+title: 'Legislative Changes to Enhance Court Processes'
+date: 2019-10-07T00:00:00.000Z
 permalink: /news/press-releases/Legislative-Changes-to-Enhance-Court-Processes
+
 ---
+
 
 07 Oct 2019 Posted in [Press releases](/news/press-releases)
 
