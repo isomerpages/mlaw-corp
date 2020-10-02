@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  New Bill on Protection of the Administration of Justice
+title: 'New Bill on Protection of the Administration of Justice'
 permalink: /news/press-releases/new-bill-on-protection-of-the-administration-of-justice
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 11 Jul 2016 Posted in [Press releases](/news/press-releases)
 
