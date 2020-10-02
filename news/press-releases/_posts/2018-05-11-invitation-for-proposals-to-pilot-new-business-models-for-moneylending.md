@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Invitation for Proposals to Pilot New Business Models for Moneylending
+title: 'Invitation for Proposals to Pilot New Business Models for Moneylending'
 permalink: /news/press-releases/invitation-proposal-pilot-new-moneylending-business-models
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 11 May 2018 Posted in [Press releases](/news/press-releases)
 
