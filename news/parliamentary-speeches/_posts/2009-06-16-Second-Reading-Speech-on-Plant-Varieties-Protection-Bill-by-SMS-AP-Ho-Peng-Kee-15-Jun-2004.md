@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Plant Varieties Protection Bill by SMS A/P Ho Peng Kee, 15 Jun 2004
-date:   2009-06-16
+title: 'Second Reading Speech on Plant Varieties Protection Bill by SMS A/P Ho Peng Kee, 15 Jun 2004'
+date: 2009-06-16T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-plant-varieties-protection-bill-by-sms-a-p-ho-peng-kee-15-jun-2004
+
 ---
+
 
 16 Jun 2009 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
