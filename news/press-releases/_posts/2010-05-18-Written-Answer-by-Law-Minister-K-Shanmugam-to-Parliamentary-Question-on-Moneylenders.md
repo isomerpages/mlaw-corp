@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Law Minister K Shanmugam to Parliamentary Question on Moneylenders
+title: 'Written Answer by Law Minister K Shanmugam to Parliamentary Question on Moneylenders'
 permalink: /news/press-releases/written-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-moneylenders
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 18 May 2010 Posted in [Press releases](/news/press-releases)
