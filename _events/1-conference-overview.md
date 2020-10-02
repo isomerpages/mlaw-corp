@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Conference Overview
+title: 'Conference Overview'
 permalink: /events/event_1/conference-overview
-breadcrumb: Conference Overview
-collection_name: events
+breadcrumb: 'Conference Overview'
+
 ---
+
 
 
 **China-Singapore International Commercial Dispute Resolution Conference**  
