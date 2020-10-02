@@ -1,10 +1,10 @@
 ---
-layout: post
-title: 1DG Thian Yee Sze's Introductory Remarks at the UNCITRAL-Singapore Seminar on the Convention on Contracts for the International Sale of Goods
+title: '1DG Thian Yee Sze''s Introductory Remarks at the UNCITRAL-Singapore Seminar on the Convention on Contracts for the International Sale of Goods'
 permalink: /news/speeches/dg-remarks-uncitral-seminar-2015
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 23 Apr 2015 Posted in [Speeches](/news/speeches) 
 
