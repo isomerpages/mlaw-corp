@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Establishment of a Disqualification Unit by the Official Receiver
+title: 'Establishment of a Disqualification Unit by the Official Receiver'
 permalink: /news/press-releases/establishment-of-a-disqualification-unit-by-the-official-receiver
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Aug 1999 Posted in [Press releases](/news/press-releases)
 
