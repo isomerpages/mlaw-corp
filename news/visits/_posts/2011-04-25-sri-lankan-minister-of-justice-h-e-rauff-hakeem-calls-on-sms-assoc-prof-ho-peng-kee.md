@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng Kee
+title: 'Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng Kee'
 permalink: /news/visits/sri-lankan-minister-of-justice-h-e-rauff-hakeem-calls-on-sms-assoc-prof-ho-peng-kee/
-breadcrumb: Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng Kee
-collection_name: news
+breadcrumb: 'Sri Lankan Minister of Justice H.E. Rauff Hakeem calls on SMS Assoc Prof Ho Peng Kee'
+
 ---
+
 
 <style>
 .image {width: 600px;}
