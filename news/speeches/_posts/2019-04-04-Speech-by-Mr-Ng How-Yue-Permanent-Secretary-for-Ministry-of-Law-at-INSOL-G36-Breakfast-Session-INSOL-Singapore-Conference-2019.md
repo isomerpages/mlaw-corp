@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Ng How Yue, Permanent Secretary for Ministry of Law, at INSOL G36 Breakfast Session, INSOL Singapore Conference 2019
+title: 'Speech by Mr Ng How Yue, Permanent Secretary for Ministry of Law, at INSOL G36 Breakfast Session, INSOL Singapore Conference 2019'
 permalink: /news/speeches/speech-by-permanent-secretary-of-state-for-law-nghowyue-INSOL
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 4 Apr 2019 Posted in [Speeches](/news/speeches)
