@@ -40,7 +40,7 @@ The Orders were amended on 29 Sep to extend the alternative meeting arrangements
       <br><br> 5. Debenture Holders	
     </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
-    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20200413-additional-guidance-conduct-general-meetings-during-elevated-safe-distancing" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco) Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (1 Oct 2020)</a>
+    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20201001-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco) Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (1 Oct 2020)</a>
     <br><br>
     <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
     </td>	
