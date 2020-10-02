@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Launch of the International Chamber of Commerce, Regional Office, Asia, at Maxwell Chambers
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Launch of the International Chamber of Commerce, Regional Office, Asia, at Maxwell Chambers'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-launch-of-the-international-chamber-of-commerce
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 20 Jan 2010 Posted in [Speeches](/news/speeches)
 
