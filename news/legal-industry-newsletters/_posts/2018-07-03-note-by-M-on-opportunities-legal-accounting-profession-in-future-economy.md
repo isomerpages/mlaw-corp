@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Opportunities for the Legal and Accounting Profession in Our Future Economy
+title: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Opportunities for the Legal and Accounting Profession in Our Future Economy'
 permalink: /news/legal-industry-newsletter/note-by-2M-on-opportunities-legal-accounting-profession-in-future-economy/
-breadcrumb: Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Opportunities for the Legal and Accounting Profession in Our Future Economy
-collection_name: news
+breadcrumb: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Opportunities for the Legal and Accounting Profession in Our Future Economy'
+
 ---
+
 
 <style>
   .image {width: 200px;}
