@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed Changes to Unsecured Credit Rules, Similar Rules to Apply to Moneylenders
+title: 'Proposed Changes to Unsecured Credit Rules, Similar Rules to Apply to Moneylenders'
 permalink: /news/speeches/proposed-changes-to-unsecured-credit-rules-similar-rules-to-apply-to-moneylenders
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 7 Sep 2006 Posted in [Speeches](/news/speeches)
  
