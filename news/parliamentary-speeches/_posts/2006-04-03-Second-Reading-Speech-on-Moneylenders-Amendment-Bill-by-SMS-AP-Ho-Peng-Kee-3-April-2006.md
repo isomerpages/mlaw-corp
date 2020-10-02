@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Moneylenders (Amendment) Bill by SMS A&#47;P Ho Peng Kee, 3 April 2006
-date:   2006-04-03
+title: 'Second Reading Speech on Moneylenders (Amendment) Bill by SMS A&#47;P Ho Peng Kee, 3 April 2006'
+date: 2006-04-03T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-moneylenders-amendment-bill-by-sms-a-p-ho-peng-kee-3-april-2006
+
 ---
+
 
 3 Apr 2006 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
