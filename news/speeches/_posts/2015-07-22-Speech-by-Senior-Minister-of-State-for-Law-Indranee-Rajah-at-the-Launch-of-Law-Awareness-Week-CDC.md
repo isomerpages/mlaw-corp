@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the Launch of Law Awareness Week @ CDC
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Launch of Law Awareness Week @ CDC'
 permalink: /news/speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--at-t0
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 22 Jul 2015 Posted in [Speeches](/news/speeches)
 
