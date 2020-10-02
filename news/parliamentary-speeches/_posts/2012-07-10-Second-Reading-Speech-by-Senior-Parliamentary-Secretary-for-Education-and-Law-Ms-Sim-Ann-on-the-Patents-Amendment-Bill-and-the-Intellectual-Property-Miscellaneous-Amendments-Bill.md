@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, on the Patents (Amendment) Bill and the Intellectual Property (Miscellaneous Amendments) Bill
-date:   2012-07-10
+title: 'Second Reading Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, on the Patents (Amendment) Bill and the Intellectual Property (Miscellaneous Amendments) Bill'
+date: 2012-07-10T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-on-the
+
 ---
+
 
 
 10 Jul 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
