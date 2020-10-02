@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Applications open for Qualifying Foreign Law Practice Licence
+title: 'Applications open for Qualifying Foreign Law Practice Licence'
 permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-licence
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Jun 2012 Posted in [Press releases](/news/press-releases)
 
