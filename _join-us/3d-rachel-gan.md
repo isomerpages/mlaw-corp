@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Ms Rachel Gan
+title: 'Ms Rachel Gan'
 permalink: /join-us/meet-our-colleagues/rachel-gan/
-breadcrumb: Ms Rachel Gan
-collection_name: join-us
-fifth_nav_title: Meet Our Colleagues
+breadcrumb: 'Ms Rachel Gan'
+fifth_nav_title: 'Meet Our Colleagues'
+
 ---
+
 
 <style>
   .image {width: 200px;}
