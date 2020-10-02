@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the Community Mediation Centre's Mediators' Appointment Ceremony and Appreciation Dinner
+title: 'Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the Community Mediation Centre''s Mediators'' Appointment Ceremony and Appreciation Dinner'
 permalink: /news/speeches/speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-community
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 17 Jul 2012 Posted in [Speeches](/news/speeches)
 
