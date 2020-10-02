@@ -1,8 +1,35 @@
 ---
 layout: homepage
-title: Ministry of Law
+title: 'Ministry of Law'
 permalink: /
+sections:
+    - hero:
+          title: 'Ministry of Law Singapore'
+          subtitle: 'Advancing access to justice, the rule of law, the economy and society through policy, law and services.'
+          background: /images/Hero-Banner-Minlaw.jpg
+          button: 'Learn More'
+          url: /about-us/ourvision-mission-corevalues/
+          key_highlights:
+                - title: 'What we do'
+                  description: 'Stat Boards and Departments'
+                  url: /about-us/what-we-do
+                  external: false
+                - title: 'COVID-19 (Temporary Measures)'
+                  description: 'Find out more about the new Act'
+                  url: /covid19-relief/
+                  external: false
+                - title: 'The Singapore Convention'
+                  description: 'Find Out More'
+                  url: 'https://www.singaporeconvention.org/'
+                  external: false
+    - resources:
+          title: 'Top Stories'
+          subtitle: 'News and Information'
+          button: 'More Resources'
+          url: /news/
+
 ---
+
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
 There have been scam calls impersonating as MinLaw officers. For more info, please refer [here](https://www.facebook.com/425106448078044/posts/617015012220519/?d=n).<br>
 
