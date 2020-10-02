@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written reply by Minister for Law, K Shanmugam, to Parliamentary Question on pawnshops and amount of loans
-date:   2013-08-12
+title: 'Written reply by Minister for Law, K Shanmugam, to Parliamentary Question on pawnshops and amount of loans'
+date: 2013-08-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-reply-to-pq-on-pawnshops
+
 ---
+
 
 12 Aug 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
