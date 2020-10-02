@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Bankruptcy (Amendment) Bill 2015
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Bankruptcy (Amendment) Bill 2015'
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 
 13 Jul 2015 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
