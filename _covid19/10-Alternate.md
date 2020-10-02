@@ -10,7 +10,9 @@ With the spread of COVID-19 infections, and the Government’s safe distancing m
 
 The following Orders have therefore been made under Section 27 of the Act, to enable meetings to be convened, held and conducted by electronic means, or deferred if necessary, even if this is otherwise not allowed under other written law or legal instrument. Meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements.
 
-These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information.
+The Orders were amended on 29 Sep to extend the alternative meeting arrangements to 30 June 2021, and make other refinements to some Orders. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings) for more information.
+
+<!-- These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information. -->
 
 <style type="text/css">	
 .tg  {border-collapse:collapse;border-spacing:0;}	
@@ -38,7 +40,7 @@ These Orders, which have effect from 27 March 2020, currently expire on 30 Septe
       <br><br> 5. Debenture Holders	
     </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
-    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20200413-additional-guidance-conduct-general-meetings-during-elevated-safe-distancing" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco), enclosing Checklist for the Conduct of General Meetings During Circuit Breaker (updated on 24 April)</a>
+    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20201001-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco) Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (1 Oct 2020)</a>
     <br><br>
     <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
     </td>	
@@ -112,7 +114,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S322-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Management Corporations, Subsidiary Management Corporations and Collective Sale Committees) Order 2020</a>
     </td>	
     <td class="tg-73oq">
-    <a href="https://go.gov.sg/bca-guidance-convening-agm-covid19" target="_blank">Building & Construction Authority’s Circular and Guidance Notes on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation</a>
+    <a href="https://go.gov.sg/bca-circular-agm-alternatives" target="_blank">Building & Construction Authority’s Circular on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation (30 Sept 2020)</a>
     <br><br>
     <a href="https://www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
     </td>	
@@ -126,7 +128,7 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <td class="tg-73oq">Trade Unions </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S323-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a></td>	
     <td class="tg-73oq">
-    <a href="https://www.mom.gov.sg/employment-practices/trade-unions/about-trade-unions" target="_blank">Registry of Trade Unions Circular on Guidance on the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020</a>
+    <a href="https://www.mom.gov.sg/employment-practices/trade-unions/about-trade-unions" target="_blank">Registry of Trade Unions Circular on Guidance on the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Trade Unions) Order 2020 (29 Sep 2020)</a>
     </td>	
     <td class="tg-73oq">
     For enquiries pertaining to registered trade unions, please contact the Ministry of Manpower, Registry of Trade Unions at <a href="mailto:mom_lrwd@mom.gov.sg">mom_lrwd@mom.gov.sg</a>
