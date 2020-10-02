@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on Statutes (Miscellanous Amendments) Bill
-date:   2020-01-06
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on Statutes (Miscellanous Amendments) Bill'
+date: 2020-01-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-Statutes-Misc-Amendments-Bill
+
 ---
+
 
 06 Jan 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
