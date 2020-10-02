@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second reading speech on Inquiries Bill by DPM Prof S Jayakumar
-date:   2007-09-19
+title: 'Second reading speech on Inquiries Bill by DPM Prof S Jayakumar'
+date: 2007-09-19T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-inquiries-bill-by-dpm-prof-s-jayakumar
+
 ---
+
 
 19 Sep 2007 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
