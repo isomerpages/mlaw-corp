@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness
-date:   2012-02-14
+title: 'Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness'
+date: 2012-02-14T00:00:00.000Z
 permalink: /news/announcements/allowing-singapore-law-practices-more-flexibility-to-grow-and-enhance-international-competitiveness_1
+
 ---
+
 
 14 Feb 2012 Posted in [Announcements](/news/announcements)
 
