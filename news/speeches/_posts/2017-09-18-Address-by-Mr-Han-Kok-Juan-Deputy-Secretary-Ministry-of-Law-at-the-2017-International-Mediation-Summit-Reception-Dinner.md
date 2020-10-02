@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Address by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the 2017 International Mediation Summit Reception Dinner
+title: 'Address by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the 2017 International Mediation Summit Reception Dinner'
 permalink: /news/speeches/address-by-mr-han-kok-juan--deputy-secretary--ministry-of-law--a
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Sep 2017 Posted in [Speeches](/news/speeches)
 
