@@ -30,6 +30,7 @@ sections:
 
 ---
 
+
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
 There have been scam calls impersonating as MinLaw officers. For more info, please refer [here](https://www.facebook.com/425106448078044/posts/617015012220519/?d=n).<br>
 
