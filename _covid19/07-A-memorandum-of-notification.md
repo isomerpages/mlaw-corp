@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal
+title: 'Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal'
 permalink: /covid19-relief/memorandum-of-notification
-breadcrumb: Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Pending Court or Arbitration Proceedings
+breadcrumb: 'Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal'
+third_nav_title: 'Part 2 of the Act-Pending Court or Arbitration Proceedings'
+
 ---
+
 ### Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal ###
 
 If you qualify for relief and have served a Notification for Relief, the other party may not commence or continue any court or arbitral proceedings against you in respect of the obligations covered under the Notification of Relief. If there are pending court or arbitral proceedings against you, this section sets out the processes for you to obtain a stay or dismissal of those proceedings. 
