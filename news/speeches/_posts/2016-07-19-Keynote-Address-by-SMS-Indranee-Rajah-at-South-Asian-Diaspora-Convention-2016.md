@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by SMS Indranee Rajah at South Asian Diaspora Convention 2016
+title: 'Keynote Address by SMS Indranee Rajah at South Asian Diaspora Convention 2016'
 permalink: /news/speeches/keynote-address-by-sms-indranee-rajah-at-south-asian-diaspora-co
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 19 Jul 2016 Posted in [Speeches](/news/speeches)
 
