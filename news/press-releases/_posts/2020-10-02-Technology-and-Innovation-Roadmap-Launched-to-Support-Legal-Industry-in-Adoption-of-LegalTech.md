@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology and Innovation Roadmap Launched to Support Legal Industry in Adoption of LegalTech 
-date: 2020-09-30
+date: 2020-10-02
 permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Launched-to-Support-Legal-Industry-in-Adoption-of-LegalTech
 ---
 
