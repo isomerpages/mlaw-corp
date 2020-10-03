@@ -28,6 +28,8 @@ SMEs can also approach their nearest <a href="/files/rentalreliefframework/SMECe
     [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)  <br>
     [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf) <br>
     [Support for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf) <br>
+    [When to Seek Assessment](/files/When-to-Seek-Assessment.pdf)
+    [Assessment Process](/files/Assessment-Process.pdf)
  - [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf)
  - [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)
  - [Definition of a specified trade association](/files/rentalreliefframework/definition_of_a_specified_trade_association.pdf) 
@@ -199,4 +201,4 @@ In addition, if the tenant-occupier terminates the lease or licence and has two 
 <p><sup id="fn13">13. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the <a href="https://sso.agc.gov.sg/Act/COVID19TMA2020">COVID-19 (Temporary Measures) Act</a>. <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
 <p><sup id="fn14">14.  If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties. <a href="#ref14" title="Jump back to footnote 14 in the text.">↩</a></sup></p>
 <p><sup id="fn15">15.  Maintenance and service charges are excluded from the rental waivers. <a href="#ref15" title="Jump back to footnote 15 in the text.">↩</a></sup></p>
-<p><sup id="fn16">16.  Please refer to Regulation 41(2)(b) of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 for a complete list of the prescribed documents. <a href="#ref16" title="Jump back to footnote 16 in the text.">↩</a></sup></p>
+<p><sup id="fn16">16.  Please refer to Regulation 41(2)(b) of the <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730">COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020</a> for a complete list of the prescribed documents. <a href="#ref16" title="Jump back to footnote 16 in the text.">↩</a></sup></p>
