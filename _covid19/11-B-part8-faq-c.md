@@ -13,9 +13,11 @@ second_nav_title: Part 8 of the Act-Relief for Contracts affected by Constructio
 
 A landlord of non-residential property may be unable to deliver possession to the tenant by the date stipulated in the lease or licence, due to COVID-19 related delays in a separate construction contract that the landlord has with a third party. The landlord may apply for relief under Part 8 in respect of its inability to meet the delivery date to the tenant. 
 
+Click [here](/files/Delivering-possession.pdf) for a summary of the relief in this situation.
+
 Part 8 also applies to the cases below. Further details may be found in the FAQs linked below: 
 * [Situation A – Where a person who rented goods used for construction work is or will be liable for additional rental expenses](/covid19-relief/part8faq-situation-A)   
-* [Situation B – Where a lessee or licensee (i.e., a tenant) of non-residential property is unable to carry out or complete renovation or fitting out works during the rent-free period](/covid19-relief/part8faq-situation-C)  
+* [Situation B – Where a lessee or licensee (i.e., a tenant) of non-residential property is unable to carry out or complete renovation or fitting out works during the rent-free period](/covid19-relief/part8faq-situation-B)  
  
 
 #### FAQs ####
