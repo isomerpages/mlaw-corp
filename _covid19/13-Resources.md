@@ -61,3 +61,32 @@ For the video on the rental relief framework, please click on the following link
 For the full text of the relevant legislation, please click on the following links:
 * [COVID-19 (Temporary Measures) (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"}
 * [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"}
+
+
+#### COVID-19 (Temporary Measures) (Amendment No. 2) Act 2020 ####
+
+For an overview of the application process for a rental relief assessor's determination, please click [here](/covid19-relief/further-information-on-application-for-assessment).
+
+For an overview of the relief under Part 8 of the Act, on relief for contracts affected by construction delays, please click [here](/covid19-relief/relief-for-contracts-construction-delays).
+
+For an overview of the updates to alternative arrangements for meetings, please click [here](/covid19-relief/alternative).
+
+For press releases on the Amendment No. 2 Act, please click on the following links:
+* [Amendments to COVID-19 (Temporary Measures) Act](/news/press-releases/2020-09-03-amendments-to-covid-19-temporary-measures-act)
+* [COVID-19 Relief Measures: Duration of Alternative Arrangements for Meetings to be Extended](/news/press-releases/duration-of-alternative-arrangements-for-meetings-to-be-extended)
+* [COVID-19 Relief Measures: Refinements to Alternative Arrangements for Meetings](/news/press-releases/refinements-to-alternative-arrangements-for-meetings)
+* [Commencement of Amendments to COVID-19 (Temporary Measures) Act](/news/press-releases/2020-09-30-commencement-of-amendments-to-covid-19-temporary-measures-act)
+
+For infographics, please click on the following links:
+* [Rental Relief Framework - When to Seek Assessment](/files/When-to-Seek-Assessment.pdf)
+* [Rental Relief Framework - Assessment Process](/files/Assessment-Process.pdf)
+* [Part 8 - Contracts for rental of construction goods](/files/Rented-construction-goods.pdf)
+* [Part 8 - Rent-free period for non-residential leases or licences](/files/Rent-free-period.pdf)
+* [Part 8 - Delivering possession under a non-residential lease or licence](/files/Delivering-possession.pdf)
+
+For the Second Reading speech by Second Minister for Law, Mr Edwin Tong on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-second-minister-for-law-mr-edwin-tong-on-the-covid-19-temporary-measures-amendment-no-2-bill).
+
+For the full text of the relevant legislation, please click on the following links:
+* [COVID-19 (Temporary Measures) (Amendment No. 2) Act 2020 (the “Amendment No. 2 Act”)](https://sso.agc.gov.sg/Acts-Supp/30-2020/Published/20200922?DocDate=20200922){:target="_blank"}
+* [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"}
+* [COVID-19 (Temporary Measures) (Part 8 Relief) Regulations 2020](https://sso.agc.gov.sg/SL/COVID19TMA2020-S836-2020?DocDate=20200929){:target="_blank"}

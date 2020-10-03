@@ -13,6 +13,8 @@ second_nav_title: Part 8 of the Act-Relief for Contracts affected by Constructio
 
 A person who has rented goods for use in construction work may apply for relief if he is or will be liable to his supplier for additional rental expenses due to a delay or breach in a separate construction or supply (or related) contract. For example, a contractor may have rented goods (e.g.scaffolding material, hand drills) from a supplier to perform works under a construction contract that the contractor has with a third party. The contractor may be liable for additional rental expenses incurred as a result of returning the goods later than intended because construction works are delayed due to the COVID-19 situation. The contractor may apply for relief under Part 8 in respect of the additional rental expenses.
 
+Click [here](/files/Rented-construction-goods.pdf) for a summary of the relief in this situation.
+
 Part 8 also applies to the situations below. Further details may be found in the FAQs that are linked below: 
 * [Situation B – Where a lessee or licensee (i.e., a tenant) of non-residential property is unable to carry out or complete renovation or fitting out works during the rent-free period](/covid19-relief/part8faq-situation-B)
 * [Situation C – Where a lessor or licensor (i.e., a landlord) of non-residential property is unable to deliver possession by the date stated in the lease or licence agreement](/covid19-relief/part8faq-situation-C)

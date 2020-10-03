@@ -442,19 +442,19 @@ Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Own
 
     a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
 
+
 | | |
 |--|--|
 | 85420 |Music, dancing, art, speech and drama instruction  |
 |  90001|  Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)|
 |  90002|Performing arts venue operation  |
 | 90003 | Operas, wayang and puppet shows |
-| 90004 |Orchestras, musical bands, choirs and dance groups
+| 90004 |Orchestras, musical bands, choirs and dance groups |
 |90009|Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)|
 | 91021 | Museums |
 |91022  | Art galleries (excluding retail) |
 |91029|Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified|
 |  |  |
-
 
 <br>
 
@@ -570,13 +570,13 @@ b)	Satisfies one or more of the following conditions:
 
 Both landlords and tenants can make an application for a determination on disputes relating to the actual amount of rent to be waived under the rental relief framework, where the amount is affected by any of the following factors:
 
-    a)	The amount of maintenance and service charges, especially where such charges are not explicitly listed in the lease or licence agreement
+   a)	The amount of maintenance and service charges, especially where such charges are not explicitly listed in the lease or licence agreement
 
-    b)	The amount that can be offset by assistance provided by the landlord earlier
+   b)	The amount that can be offset by assistance provided by the landlord earlier
 
-    c)	Tenant(s) occupying the property for only a part of the relief period
+   c)	Tenant(s) occupying the property for only a part of the relief period
 
-    d)	Sub-division of the property, i.e. there are multiple sub-tenants, not all of whom may be eligible for the waivers
+   d)	Sub-division of the property, i.e. there are multiple sub-tenants, not all of whom may be eligible for the waivers
 
 **57.	What is the timeline for landlords and tenants to submit an application for a determination on disputes relating to the actual amount of rent to be waived under the rental relief framework? What if the timeline is missed?**
 

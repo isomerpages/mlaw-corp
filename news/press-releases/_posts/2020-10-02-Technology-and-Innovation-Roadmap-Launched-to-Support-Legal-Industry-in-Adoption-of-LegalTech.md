@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology and Innovation Roadmap Launched to Support Legal Industry in Adoption of LegalTech 
-date: 2020-09-30
+date: 2020-10-02
 permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Launched-to-Support-Legal-Industry-in-Adoption-of-LegalTech
 ---
 
@@ -19,13 +19,13 @@ permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Lau
 {:start="4"}
 4.	To further support industry transformation, law firms, legal professionals and the industry can benefit from various initiatives that will be rolled out over the next two years. This includes, among others:
 
-  (i)	A Legal Industry Digital Plan – Put together by MinLaw and the Infocomm and Media Development Authority, this will provide law firms with practical assistance to assess their digital readiness and identify digital solutions to adopt at each stage of their growth.
+    (i)	A Legal Industry Digital Plan – Put together by MinLaw and the Infocomm and Media Development Authority, this will provide law firms with practical assistance to assess their digital readiness and identify digital solutions to adopt at each stage of their growth.
 
-  (ii)	An affordable and secure cloud-based platform for LegalTech – MinLaw is exploring the possibility of a platform that can aggregate plug-and-play solutions, to help firms manage core services, set up and coordinate workflows, and provide service bundles by practice areas. 
-
-  (iii)	Supporting professional upgrading – MinLaw will work with relevant stakeholders to enable lawyers to count LegalTech upskilling programmes as part of their Continuing Professional Development. 
-
-  (iv)	Legal education – To develop a quality pool of tech-ready lawyers and better equip law graduates with the relevant digital skills, Institutes of Higher Learning will be encouraged to infuse more technology elements into their curriculum.
+    (ii)	An affordable and secure cloud-based platform for LegalTech – MinLaw is exploring the possibility of a platform that can aggregate plug-and-play solutions, to help firms manage core services, set up and coordinate workflows, and provide service bundles by practice areas
+    
+    (iii)	Supporting professional upgrading – MinLaw will work with relevant stakeholders to enable lawyers to count LegalTech upskilling programmes as part of their Continuing Professional Development. 
+    
+    (iv)	Legal education – To develop a quality pool of tech-ready lawyers and better equip law graduates with the relevant digital skills, Institutes of Higher Learning will be encouraged to infuse more technology elements into their curriculum.
 
 {:start="5"}
 5.	To foster the development of an innovation ecosystem and make Singapore a leading global LegalTech hub, MinLaw will continue to work with the Economic Development Board and Enterprise Singapore, as well as local research institutions and Singapore-based law firms, to attract global law firms, LegalTech firms, accelerators and incubators to establish operations.
@@ -41,20 +41,20 @@ permalink: /news/press-releases/2020-10-02-Technology-and-Innovation-Roadmap-Lau
 {:start="8"}
 8.	Since then, MinLaw embarked on an effort to understand industry perspectives and draw up plans to address the industry’s demand for thought leadership and ecosystem development in technology and innovation. In addition to frequent industry engagements, MinLaw conducted a series of deep-dive workshops facilitated by the Agency for Science, Technology and Research (A*STAR) beginning from April 2019. 90 participants from across the legal industry and related sectors came together to explore four key questions that inevitably arise when considering how the legal innovation ecosystem in Singapore should be developed:
 
-  (i)	Global trends shaping the legal industry;
-
-  (ii)	Impact on legal services;
-  
-  (iii)	Ops-Tech solutions to mitigate or take advantage of such trends; and
-
-  (iv)	How the Government can support adoption and development of solutions.
+    (i)	Global trends shaping the legal industry;
+    
+    (ii)	Impact on legal services;
+    
+    (iii)	Ops-Tech solutions to mitigate or take advantage of such trends; and
+    
+    (iv)	How the Government can support adoption and development of solutions.
 
 {:start="9"}
 9.	Further research and consultations were then conducted with industry players at the forefront of legal innovation, to validate the workshop findings and sharpen ideas into initiatives. 
 
 
 **MINISTRY OF LAW**
-**02 OCTOBER 2020**
+<br>**02 OCTOBER 2020**
 
 **Annex A: MinLaw’s Legal Industry Digitalisation Initiatives**<br>
 [Annex B 2018 LawSoc survey results](/files/news/press-releases/2020/10/ANNEX_B_LawSociety_LegalTech_Summary_Report_07-Mar.pdf)
