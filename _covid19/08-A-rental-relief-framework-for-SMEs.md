@@ -28,7 +28,7 @@ SMEs can also approach their nearest <a href="/files/rentalreliefframework/SMECe
     [Rental Relief Guide for Landlords](/files/2RentalReliefGuideforLandlords.pdf)  <br>
     [Rental Relief Guide for Tenants](/files/3RentalReliefGuideforTenants.pdf) <br>
     [Support for Tenants and Landlords](/files/4RentalReliefSupportforTenantsLandlords.pdf) <br>
-    [When to Seek Assessment](/files/When-to-Seek-Assessment.pdf)
+    [When to Seek Assessment](/files/When-to-Seek-Assessment.pdf) <br>
     [Assessment Process](/files/Assessment-Process.pdf)
  - [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf)
  - [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)
