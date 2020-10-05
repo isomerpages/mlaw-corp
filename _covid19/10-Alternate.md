@@ -67,7 +67,7 @@ The Orders were amended on 29 Sep to extend the alternative meeting arrangements
     <a href="https://io.mlaw.gov.sg/bankruptcy/practice-circulars/" target="_blank">Official Assignee / Official Receiver Practice Circular No. 1 of 2020 on Safe Distancing Measures for Meetings</a>	
     <br><br>
     <a href="https://io.mlaw.gov.sg/bankruptcy/covid-19-faq/" target="_blank">FAQs on alternative meeting arrangements for individual insolvency</a></td>	
-    <td class="tg-73oq">For enquiries pertaining to corporate insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
+    <td class="tg-73oq">For enquiries pertaining to individual insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
     </td>	
   </tr>
   <tr>	
