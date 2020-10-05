@@ -39,7 +39,7 @@ permalink: /news/press-releases/2020-10-05-facilitating-cross-border-use-of-publ
 9. Further details in respect of the transfer of the legalisation function from MFA to SAL will be announced in due course. 
 
 **MINISTRY OF LAW**
-<br>**5 OCTOBER 2020**</br>
+<br>**5 OCTOBER 2020**
 
 <p><sup id="fn1">1. As of the last official update on 24 October 2019, there were 118 Contracting Parties to the Apostille Convention, including the USA, the UK, Australia, Hong Kong and India. For the list of Contracting Parties, see <a href="https://www.hcch.net/en/instruments/conventions/status-table/?cid=41" target="new">this link</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
