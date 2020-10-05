@@ -15,12 +15,14 @@ To ask the Minister for Law for each year since 2015, how many cases lodged with
 
 **<b><u>Written Answer:</u></b>**  
 
+{:start="1"}
 1. The number of Community Disputes Resolution Tribunal (“CDRT”) claims filed to date in respect of certain complaints is as follows:
 
 <div class="image">
   <img src="/images/news/parliamentary-speeches/05102020_PQ_CDRT.JPG" title="CDRT" alt="CDRT">
 </div>
 
+{:start="2"}
 2. State Courts does not track data on the type of dwelling involved in each claim and is unable to provide specific data on how many of the above claims involved disputes between HDB neighbours.
 
 <p class="right-side-updated">Last updated on 05 Oct 2020</p>
