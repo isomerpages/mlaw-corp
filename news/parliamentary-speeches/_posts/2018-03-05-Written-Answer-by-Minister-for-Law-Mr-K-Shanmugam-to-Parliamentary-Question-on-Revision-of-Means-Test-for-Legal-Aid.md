@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Revision of Means Test for Legal Aid
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Revision of Means Test for Legal Aid'
 permalink: /news/parliamentary-speeches/written-answer-to-parliamentary-question-revision-of-means-test-for-legal-aid
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 5 Mar 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

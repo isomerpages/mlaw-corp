@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Proposed Amendments to the Penal Code
+title: 'Public Consultation on Proposed Amendments to the Penal Code'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-penal-code/
-breadcrumb: Public Consultation on Proposed Amendments to the Penal Code
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Amendments to the Penal Code'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Penal Code
 ---

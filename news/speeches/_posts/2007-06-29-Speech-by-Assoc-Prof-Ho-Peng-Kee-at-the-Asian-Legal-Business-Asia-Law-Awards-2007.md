@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Assoc Prof Ho Peng Kee at the Asian Legal Business Asia Law Awards 2007
+title: 'Speech by Assoc Prof Ho Peng Kee at the Asian Legal Business Asia Law Awards 2007'
 permalink: /news/speeches/speech-by-assoc-prof-ho-peng-kee-at-the-asian-legal-business-asia-law-awards-2007
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 29 Jun 2007 Posted in [Speeches](/news/speeches)

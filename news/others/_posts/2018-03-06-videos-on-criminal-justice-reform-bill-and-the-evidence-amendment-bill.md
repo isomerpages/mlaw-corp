@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill
+title: 'Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill'
 permalink: /news/others/videos-on-criminal-justice-reform-bill-and-the-evidence-amendment-bill/
-breadcrumb: Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill
-collection_name: news
+breadcrumb: 'Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill'
+
 ---
+
 
 Videos on Criminal Justice Reform Bill and The Evidence (Amendment) Bill
 ---

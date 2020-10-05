@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Permanent Secretary Mr Pang Kin Keong at the SIAC Conference in Beijing
+title: 'Speech by Permanent Secretary Mr Pang Kin Keong at the SIAC Conference in Beijing'
 permalink: /news/speeches/speech-by-permanent-secretary-mr-pang-kin-keong-at-the-siac-conference-in-beijing
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Jun 2011 Posted in [Speeches](/news/speeches)
 

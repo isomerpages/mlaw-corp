@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law K Shanmugam at the 5th International Conference on South Asia
+title: 'Speech by Minister for Law K Shanmugam at the 5th International Conference on South Asia'
 permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-5th-international-conference-on-south-asia
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 4 Nov 2009 Posted in [Speeches](/news/speeches)
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on matrimonial flats
-date:   2019-08-06
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on matrimonial flats'
+date: 2019-08-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-Parliamentary-Question-on-matrimonial-flats
+
 ---
+
 
 
 6 Aug 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

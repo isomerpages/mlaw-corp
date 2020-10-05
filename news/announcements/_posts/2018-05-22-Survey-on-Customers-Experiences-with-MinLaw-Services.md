@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Survey on Customers' Experiences with MinLaw Services
-date:   2018-05-22
+title: 'Survey on Customers'' Experiences with MinLaw Services'
+date: 2018-05-22T00:00:00.000Z
 permalink: /news/announcements/survey-on-customers-experiences-with-minlaw-services
+
 ---
+
 
 22 May 2018 Posted in [Announcements](/news/announcements)
 

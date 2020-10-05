@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Programme
 permalink: /events/event_2/programme
 breadcrumb: Programme
-collection_name: events-2
+
 ---
+
 
 **12 January 2019 (Thursday)**      
 **Raffles Hotel**  

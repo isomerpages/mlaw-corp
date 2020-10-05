@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Management
+title: 'Our Management'
 permalink: /about-us/our-management/
-breadcrumb: Our Management
-collection_name: about-us
+breadcrumb: 'Our Management'
+
 ---
+
 
 <style>
   .img-gallery {

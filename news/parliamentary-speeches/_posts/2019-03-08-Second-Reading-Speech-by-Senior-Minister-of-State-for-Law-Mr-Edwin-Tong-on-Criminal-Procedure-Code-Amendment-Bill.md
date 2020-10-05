@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Criminal Procedure Code (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Criminal Procedure Code (Amendment) Bill'
 permalink: /news/parliamentary-speeches/response-speech-sms-edwin-tong-cos-20191
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 8 Mar 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

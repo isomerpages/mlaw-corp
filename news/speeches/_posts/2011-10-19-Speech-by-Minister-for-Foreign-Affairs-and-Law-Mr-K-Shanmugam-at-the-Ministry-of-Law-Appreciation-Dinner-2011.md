@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Ministry of Law Appreciation Dinner 2011
+title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Ministry of Law Appreciation Dinner 2011'
 permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-ministry-of-law-appreciation
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 19 Oct 2011 Posted in [Speeches](/news/speeches)
 <br>  

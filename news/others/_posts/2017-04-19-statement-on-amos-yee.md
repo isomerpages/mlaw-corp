@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Statement on Amos Yee
+title: 'Statement on Amos Yee'
 permalink: /news/others/statement-on-amos-yee/
-breadcrumb: Statement on Amos Yee
-collection_name: news
+breadcrumb: 'Statement on Amos Yee'
+
 ---
+
 
 Statement on Amos Yee
 ---

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Australian Minister for Superannuation and Corporate Law Senator Nick Sherry
+title: 'Visit by Australian Minister for Superannuation and Corporate Law Senator Nick Sherry'
 permalink: /news/visits/visit-by-australian-minister-for-superannuation-and-corporate-law-senator-nick-sherry/
-breadcrumb: Visit by Australian Minister for Superannuation and Corporate Law Senator Nick Sherry
-collection_name: news
+breadcrumb: 'Visit by Australian Minister for Superannuation and Corporate Law Senator Nick Sherry'
+
 ---
+
 
 <style>
 .image {width: 600px;}

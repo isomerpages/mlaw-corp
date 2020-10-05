@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Legislative changes tabled to establish the Singapore International Commercial Court and to update the regulatory framework for the legal profession
+title: 'Legislative changes tabled to establish the Singapore International Commercial Court and to update the regulatory framework for the legal profession'
 permalink: /news/press-releases/SICC-and-legal-profession-regulatory-framework-update
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Oct 2014 Posted in [Press releases](/news/press-releases)
 

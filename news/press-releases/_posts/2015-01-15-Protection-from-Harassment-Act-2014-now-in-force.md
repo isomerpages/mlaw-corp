@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Protection from Harassment Act 2014 now in force
+title: 'Protection from Harassment Act 2014 now in force'
 permalink: /news/press-releases/protection-from-harassment-act-in-force
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 15 Jan 2015 Posted in [Press releases](/news/press-releases)
 

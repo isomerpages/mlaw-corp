@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister in Prime Minister's Office, and Second Minister for Finance and Education, Ms Indranee Rajah, at the Legal Aid Bureau's 60th Anniversary Dinner
+title: 'Speech by Minister in Prime Minister''s Office, and Second Minister for Finance and Education, Ms Indranee Rajah, at the Legal Aid Bureau''s 60th Anniversary Dinner'
 permalink: /news/speeches/speech-indranee-rajah-legal-aid-bureau-60-anniversary-dinner
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 14 Nov 2018 Posted in [Speeches](/news/speeches)
 

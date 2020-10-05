@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Response by the Ministry of Law to Voice of America
-date:   2020-05-05
+title: 'Response by the Ministry of Law to Voice of America'
+date: 2020-05-05T00:00:00.000Z
 permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
+
 ---
+
 
 5 May 2020 Posted in [Replies](/news/replies)
 

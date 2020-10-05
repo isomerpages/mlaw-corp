@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Follow Up Statement by Ministry of Law on Essex Court Chambers Duxton (Singapore Group Practice)
+title: 'Follow Up Statement by Ministry of Law on Essex Court Chambers Duxton (Singapore Group Practice)'
 permalink: /news/press-releases/follow-up-statement-by-ministry-of-law-on-essex-court-chambers-d
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 24 Nov 2017 Posted in [Press releases](/news/press-releases)
 

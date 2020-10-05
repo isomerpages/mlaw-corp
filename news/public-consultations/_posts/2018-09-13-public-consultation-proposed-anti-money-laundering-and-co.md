@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
+title: 'Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers'
 permalink: /news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co/
-breadcrumb: Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
-collection_name: news
+breadcrumb: 'Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers'
+
 ---
+
 
 **Consultation Period:**
 

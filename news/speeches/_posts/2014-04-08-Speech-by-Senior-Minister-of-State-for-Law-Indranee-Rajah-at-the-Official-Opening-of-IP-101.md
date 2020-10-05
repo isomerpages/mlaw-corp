@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the Official Opening of IP 101
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Official Opening of IP 101'
 permalink: /news/speeches/Speech-by-Senior-Minister-of-State-for-Education-and-Law-Ms-Indranee-Rajah-at-the-Official-Opening-of-IP-101-on-Tuesday-8th-April-2014-at-Manulife-Centre
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 8 Apr 2014 Posted in [Speeches](/news/speeches)
 

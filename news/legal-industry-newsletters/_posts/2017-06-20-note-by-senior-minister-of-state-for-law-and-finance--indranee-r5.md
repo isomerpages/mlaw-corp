@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Debt Restructuring
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Debt Restructuring'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r5/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Debt Restructuring
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Debt Restructuring'
+
 ---
+
 
 <style>
   .image {width: 200px;}

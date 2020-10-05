@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Consultation Open for Feedback on Conditional Fee Agreements in Singapore
-date:   2019-08-27
+title: 'Public Consultation Open for Feedback on Conditional Fee Agreements in Singapore'
+date: 2019-08-27T00:00:00.000Z
 permalink: /news/press-releases/Public-Consultation-Open-or-Feedback-on-Conditional-Fee-Agreements-in-Singapore
+
 ---
+
 
 27 Aug 2019 Posted in [Press releases](/news/press-releases)
 

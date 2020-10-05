@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Cambodian Constitutional Council
+title: 'Visit by Cambodian Constitutional Council'
 permalink: /news/visits/visit-by-cambodian-constitutional-council/
-breadcrumb: Visit by Cambodian Constitutional Council
-collection_name: news
+breadcrumb: 'Visit by Cambodian Constitutional Council'
+
 ---
+
 
 <style>
 .image {width: 600px;}

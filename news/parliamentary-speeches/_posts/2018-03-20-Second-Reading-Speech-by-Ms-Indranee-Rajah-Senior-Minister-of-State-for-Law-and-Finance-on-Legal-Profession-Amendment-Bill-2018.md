@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Legal Profession (Amendment) Bill 2018
+title: 'Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Legal Profession (Amendment) Bill 2018'
 permalink: /news/parliamentary-speeches/second-reading-speech-legal-profession-act-2018
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 20 Mar 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

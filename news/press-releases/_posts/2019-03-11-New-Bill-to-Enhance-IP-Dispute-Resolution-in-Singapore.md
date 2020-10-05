@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  New Bill to Enhance IP Dispute Resolution in Singapore
+title: 'New Bill to Enhance IP Dispute Resolution in Singapore'
 permalink: /news/press-releases/new-bill-to-enhance-ip-dispute-resolution-in-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 11 Mar 2019 Posted in [Press releases](/news/press-releases)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Law Society's Dinner and Dance
+title: 'Speech by Law Minister K Shanmugam at the Law Society''s Dinner and Dance'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-law-society-s-dinner-and-dance
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 12 Sep 2009 Posted in [Speeches](/news/speeches)
 

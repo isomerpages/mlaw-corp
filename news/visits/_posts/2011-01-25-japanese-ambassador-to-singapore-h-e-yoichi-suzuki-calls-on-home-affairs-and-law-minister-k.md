@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and Law Minister K Shanmugam
+title: 'Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and Law Minister K Shanmugam'
 permalink: /news/visits/japanese-ambassador-to-singapore-h-e-yoichi-suzuki-calls-on-home-affairs-and-law-minister-k/
-breadcrumb: Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and Law Minister K Shanmugam
-collection_name: news
+breadcrumb: 'Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and Law Minister K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}

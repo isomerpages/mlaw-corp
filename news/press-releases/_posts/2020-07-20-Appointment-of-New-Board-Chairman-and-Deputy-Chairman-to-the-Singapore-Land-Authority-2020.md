@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Appointment of New Board Chairman and Deputy Chairman to the Singapore Land Authority
-date: 2020-07-20
+title: 'Appointment of New Board Chairman and Deputy Chairman to the Singapore Land Authority'
+date: 2020-07-20T00:00:00.000Z
 permalink: /news/press-releases/Appointment-of-New-Board-Chairman-and-Deputy-Chairman-to-the-Singapore-Land-Authority-2020
+
 ---
+
 
 20 Jul 2020 Posted in [Press releases](/news/press-releases)
 

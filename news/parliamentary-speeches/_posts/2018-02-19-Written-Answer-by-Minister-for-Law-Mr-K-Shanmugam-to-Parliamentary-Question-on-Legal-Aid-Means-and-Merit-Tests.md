@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Legal Aid Means and Merit Tests
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Legal Aid Means and Merit Tests'
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-Shanmugam-Parliamentary-Question-Legal-Aid-Means-Merit-Tests
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 19 Feb 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

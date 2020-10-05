@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Ministry of Law Permanent Secretary, Dr Beh Swan Gin, at the Intellectual Property Management Community of Practice Forum 2014
+title: 'Opening Address by Ministry of Law Permanent Secretary, Dr Beh Swan Gin, at the Intellectual Property Management Community of Practice Forum 2014'
 permalink: /news/speeches/ps-opening-address-IPMCOP-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 21 Apr 2014 Posted in [Speeches](/news/speeches)
 

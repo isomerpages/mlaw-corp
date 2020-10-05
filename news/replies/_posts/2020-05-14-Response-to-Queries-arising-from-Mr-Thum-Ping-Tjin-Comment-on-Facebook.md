@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Response to Queries arising from Mr Thum Ping Tjin's Comment on Facebook
-date:   2020-05-14
+title: 'Response to Queries arising from Mr Thum Ping Tjin''s Comment on Facebook'
+date: 2020-05-14T00:00:00.000Z
 permalink: /news/replies/Response-to-Queries-arising-from-Mr-Thum-Ping-Tjin-Comment-on-Facebook
+
 ---
+
 
 14 May 2020 Posted in [Replies](/news/replies)
 

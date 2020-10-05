@@ -1,10 +1,10 @@
 ---
-layout: post
-title: ACTA successfuly concludes - Singapore to be part of multilateral agreement on IPR enforcement
+title: 'ACTA successfuly concludes - Singapore to be part of multilateral agreement on IPR enforcement'
 permalink: /news/press-releases/acta-successfuly-concludes-singapore-to-be-part-of-multilateral-agreement-on-ipr-enforcement
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Oct 2010 Posted in [Press releases](/news/press-releases/)
 

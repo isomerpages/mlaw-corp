@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Maxwell Chambers Innovates to become World's First Smart Hearing Facility
+title: 'Maxwell Chambers Innovates to become World''s First Smart Hearing Facility'
 permalink: /news/press-releases/maxwell-chambers-world-first-smart-hearing-facility
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 4 Apr 2018 Posted in [Press releases](/news/press-releases)
 

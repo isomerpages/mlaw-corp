@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Minister for Law, K Shanmugam on the Status of Children (Assisted Reproduction Technology) Bill
-date:   2013-08-12
+title: 'Second Reading Speech by Minister for Law, K Shanmugam on the Status of Children (Assisted Reproduction Technology) Bill'
+date: 2013-08-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/2R-speech-on-SOC
+
 ---
+
 
 
 12 Aug 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 

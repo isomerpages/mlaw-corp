@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law’s Response to Workers’ Party’s Statement on Protection from Harassment Act
+title: 'Ministry of Law’s Response to Workers’ Party’s Statement on Protection from Harassment Act'
 permalink: /news/press-releases/ministry-of-law_s-response-to-workers-partys-statement-on-protec
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 22 Jan 2017 Posted in [Press releases](/news/press-releases)

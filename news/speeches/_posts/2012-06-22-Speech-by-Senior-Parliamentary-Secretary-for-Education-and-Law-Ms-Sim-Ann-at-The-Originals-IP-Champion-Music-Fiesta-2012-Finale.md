@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at The Originals IP Champion Music Fiesta 2012 Finale
+title: 'Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at The Originals IP Champion Music Fiesta 2012 Finale'
 permalink: /news/speeches/speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-originals-ip
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 22 Jun 2012 Posted in [Speeches](/news/speeches)
 

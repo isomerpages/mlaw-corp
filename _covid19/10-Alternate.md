@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Part 4 of the Act-Alternative Arrangements for Meetings
+title: 'Part 4 of the Act-Alternative Arrangements for Meetings'
 permalink: /covid19-relief/alternative
-breadcrumb: Alternative Arrangements for Meetings
-collection_name: covid19
+breadcrumb: 'Alternative Arrangements for Meetings'
+
 ---
+
 ### Alternative Arrangements for Meetings ###
 With the spread of COVID-19 infections, and the Government’s safe distancing measures to address this, personal attendance at meetings may not be feasible. However, applicable laws or legal instruments may not permit meetings to be held electronically. Difficulties in holding meetings may give rise to problems in transacting usual commercial and governance matters. 
 

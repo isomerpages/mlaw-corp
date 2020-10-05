@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on the MinLaw-UniSIM Study Award
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c---o12/
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on the MinLaw-UniSIM Study Award'
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+
+---
+o12/
 breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on the MinLaw-UniSIM Study Award
 collection_name: news
 ---

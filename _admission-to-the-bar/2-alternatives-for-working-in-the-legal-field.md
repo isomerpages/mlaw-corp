@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Alternatives For Working In The Legal Field
+title: 'Alternatives For Working In The Legal Field'
 permalink: /admission-to-the-bar/alternatives-for-working-in-the-legal-field/
-breadcrumb: Alternatives For Working In The Legal Field
-collection_name: admission-to-the-bar
+breadcrumb: 'Alternatives For Working In The Legal Field'
+
 ---
+
 
 Alternatives for Working in the Legal Field in Singapore
 ---

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on court process for road accidents
-date:   2013-08-12
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on court process for road accidents'
+date: 2013-08-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-pq-road-accidents
+
 ---
+
 
 
 12 Aug 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

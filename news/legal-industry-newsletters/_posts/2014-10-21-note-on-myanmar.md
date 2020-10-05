@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas'
 permalink: /news/legal-industry-newsletter/note-on-myanmar/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Era in Legal Relations between the Lion City and the Land of the Golden Pagodas'
+
 ---
+
 
 <style>
   .image {width: 200px;}

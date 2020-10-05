@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Relief for Tenants Unable to Vacate Premises
+title: 'Relief for Tenants Unable to Vacate Premises'
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
-breadcrumb: Relief for Tenants Unable to Vacate Premises
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
+breadcrumb: 'Relief for Tenants Unable to Vacate Premises'
+third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+
 ---
+
 ### Relief for tenants unable to vacate business premises ###
 
 The COVID-19 (Temporary Measures) (Amendment) Act (the “**Amendment Act**”) that was passed in Parliament on 5 June 2020 introduced section 7B of the Act, which is intended to assist tenants who, because of COVID-19, are unable to vacate their business premises after the lease or licence comes to an end.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Registered Designs Regime to Provide Greater Protection and Clarity to Designers
+title: 'Registered Designs Regime to Provide Greater Protection and Clarity to Designers'
 permalink: /news/press-releases/registered-designs-regime--to-provide-greater-protection-and-cla
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 16 Mar 2016 Posted in [Press releases](/news/press-releases)
 

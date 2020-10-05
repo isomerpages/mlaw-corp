@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the 2010 Prix d'Excellence Awards Dinner
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the 2010 Prix d''Excellence Awards Dinner'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-2010-prix-d-excellence-awards-dinner
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 5 Oct 2010 Posted in [Speeches](/news/speeches)
 

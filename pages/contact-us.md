@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Contact Us
+title: 'Contact Us'
 permalink: /contact-us/
-breadcrumb: Contact Us
+breadcrumb: 'Contact Us'
+
 ---
+
 
 <style>
   .image {margin-bottom: 1em;}

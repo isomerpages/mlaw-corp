@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the Institute of Surveyors and Valuers Annual Dinner 2014
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Institute of Surveyors and Valuers Annual Dinner 2014'
 permalink: /news/speeches/speech-by-sms-at-SISV-dinner-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 30 Oct 2014 Posted in [Speeches](/news/speeches)
 
 Mr Loi Hwee Yong and Mr Silas Loh, Presidents, SISV,  

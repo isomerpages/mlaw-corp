@@ -1,10 +1,11 @@
 ---
-layout: simple-page
-title: Conveyancing Account
+title: 'Conveyancing Account'
 permalink: /about-us/what-we-do/conveyancing-account/
-breadcrumb: Conveyancing Account
-second_nav_title: What We Do
+breadcrumb: 'Conveyancing Account'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Conveyancing Accounts / Conveyancing (CPF) Accounts
 ---

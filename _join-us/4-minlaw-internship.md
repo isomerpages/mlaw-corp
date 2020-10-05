@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Minlaw Internship Programme
+title: 'Minlaw Internship Programme'
 permalink: /join-us/minlaw-internship/
-breadcrumb: Minlaw Internship Programme
-collection_name: join-us
+breadcrumb: 'Minlaw Internship Programme'
+
 ---
+
 
 <style>
   .image {width: 400px;}

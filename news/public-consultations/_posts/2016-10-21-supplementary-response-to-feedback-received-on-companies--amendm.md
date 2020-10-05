@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Supplementary Response to Feedback Received on Companies (Amendment) Act 2017 to Strengthen Singapore as an International Centre for Debt Restructuring
+title: 'Supplementary Response to Feedback Received on Companies (Amendment) Act 2017 to Strengthen Singapore as an International Centre for Debt Restructuring'
 permalink: /news/public-consultations/supplementary-response-to-feedback-received-on-companies--amendm/
-breadcrumb: Supplementary Response to Feedback Received on Companies (Amendment) Act 2017 to Strengthen Singapore as an International Centre for Debt Restructuring
-collection_name: news
+breadcrumb: 'Supplementary Response to Feedback Received on Companies (Amendment) Act 2017 to Strengthen Singapore as an International Centre for Debt Restructuring'
+
 ---
+
 
 Supplementary Response to Feedback Received on Companies (Amendment) Act 2017 to Strengthen Singapore as an International Centre for Debt Restructuring
 ---

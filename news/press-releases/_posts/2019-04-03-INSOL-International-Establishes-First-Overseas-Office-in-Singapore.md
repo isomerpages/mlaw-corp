@@ -1,10 +1,10 @@
 ---
-layout: post
-title: INSOL International Establishes First Overseas Office in Singapore
+title: 'INSOL International Establishes First Overseas Office in Singapore'
 permalink: /news/press-releases/insol-international-establishes-first-overseas-office-in-singapo
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 3 Apr 2019 Posted in [Press releases](/news/press-releases)
 

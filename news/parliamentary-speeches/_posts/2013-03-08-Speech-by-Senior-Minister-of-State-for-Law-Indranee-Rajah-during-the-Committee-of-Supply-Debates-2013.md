@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debates 2013
-date:   2013-03-08
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debates 2013'
+date: 2013-03-08T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-sms-cos-debates-2013
+
 ---
+
 
 
 8 Mar 2013 Posted in [Parliamentary speeches and responses]

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Law Minister K Shanmugam on the International Arbitration (Amendment) Bill
+title: 'Second Reading Speech by Law Minister K Shanmugam on the International Arbitration (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 19 Oct 2009 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

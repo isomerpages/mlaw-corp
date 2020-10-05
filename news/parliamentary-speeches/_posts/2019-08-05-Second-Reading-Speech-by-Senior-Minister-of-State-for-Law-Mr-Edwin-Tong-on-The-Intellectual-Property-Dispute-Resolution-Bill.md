@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on The Intellectual Property Dispute Resolution Bill
-date:   2019-08-05
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on The Intellectual Property Dispute Resolution Bill'
+date: 2019-08-05T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-state-for-Law-Mr-Edwin-Tong-on-Intellectual-Property-Dispute-Resolution-Bill
+
 ---
+
 
 5 Aug 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

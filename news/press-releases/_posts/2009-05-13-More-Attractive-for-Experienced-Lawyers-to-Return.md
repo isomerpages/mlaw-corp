@@ -1,10 +1,10 @@
 ---
-layout: post
-title: More Attractive for Experienced Lawyers to Return
+title: 'More Attractive for Experienced Lawyers to Return'
 permalink: /news/press-releases/more-attractive-for-experienced-lawyers-to-return
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 13 May 2009 Posted in [Press releases](/news/press-releases)
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: FAQs for Situation A – Additional rental expenses for construction goods
+title: 'FAQs for Situation A – Additional rental expenses for construction goods'
 permalink: /covid19-relief/part8faq-situation-A
-breadcrumb: FAQs for Situation A – Additional rental expenses for construction goods
-collection_name: covid19
-second_nav_title: Part 8 of the Act-Relief for Contracts affected by Construction Delays
+breadcrumb: 'FAQs for Situation A – Additional rental expenses for construction goods'
+third_nav_title: 'Part 8 of the Act-Relief for Contracts affected by Construction Delays'
+
 ---
+
 
 ### FAQs for Situation A – Additional rental expenses for construction goods ###
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Relevant Legislation
+title: 'Relevant Legislation'
 permalink: /why-copyright-matters/copyright/
-breadcrumb: Relevant Legislation
-collection_name: why-copyright-matters
+breadcrumb: 'Relevant Legislation'
+
 ---
+
 
 Why Copyright Matters to You
 ---

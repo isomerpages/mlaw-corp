@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Plant Varieties Protection (Amendment) Bill
-date:   2014-03-13
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Plant Varieties Protection (Amendment) Bill'
+date: 2014-03-13T00:00:00.000Z
 permalink: /news/parliamentary-speeches/2R-speech-by-SMS-on-plant-varieties-protection-amendment-bill-2014
+
 ---
+
 
 13 Mar 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, SC, Senior Minister of State for Law and Health, at the Singapore Mediation Lecture 
-date:   2019-10-17
+title: 'Speech by Mr Edwin Tong, SC, Senior Minister of State for Law and Health, at the Singapore Mediation Lecture'
+date: 2019-10-17T00:00:00.000Z
 permalink: /news/speeches/Speech-by-Mr-Edwin-Tong-SC-Senior-Minister-of-State-for-Law-and-Health-SINGAPORE-MEDIATION-LECTURE-2019
+
 ---
+
 
 17 Oct 2019 Posted in [[Speeches](/news/speeches)]
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Part 2 of the Act-Self-Assessment Tool
+title: 'Part 2 of the Act-Self-Assessment Tool'
 permalink: /covid19-relief/tool
-breadcrumb: Part 2 of the Act-Self-Assessment Tool
-collection_name: covid19
+breadcrumb: 'Part 2 of the Act-Self-Assessment Tool'
+
 ---
+
 ### Self-Assessment Tool ###
 
 We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise which parties can do, taking into account the framework set out in the Act.

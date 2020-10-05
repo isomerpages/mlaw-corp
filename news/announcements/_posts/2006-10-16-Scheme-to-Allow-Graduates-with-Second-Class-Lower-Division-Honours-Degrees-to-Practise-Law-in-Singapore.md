@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Scheme to Allow Graduates with Second Class Lower Division Honours Degrees to Practise Law in Singapore
-date:   2006-10-16
+title: 'Scheme to Allow Graduates with Second Class Lower Division Honours Degrees to Practise Law in Singapore'
+date: 2006-10-16T00:00:00.000Z
 permalink: /news/announcements/scheme-to-allow-graduates-with-second-class-lower-division-honours-degrees-to-practise-law-in
+
 ---
+
 
 16 Oct 2006 Posted in [Announcements](/news/announcements) 
 

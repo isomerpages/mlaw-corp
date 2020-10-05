@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Strengthening Anti-Money Laundering and Countering the Financing of Terrorism Regulation for the Precious Stones and Metals Dealers Sector
+title: 'Strengthening Anti-Money Laundering and Countering the Financing of Terrorism Regulation for the Precious Stones and Metals Dealers Sector'
 permalink: /news/press-releases//strengthening-aml-cft-regulation-for-psmd-sector
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 Jul 2018 Posted in [Press releases](/news/press-releases)
 

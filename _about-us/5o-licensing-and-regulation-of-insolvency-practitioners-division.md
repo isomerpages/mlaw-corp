@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Licensing & Regulation of Insolvency Practitioners Division
+title: 'Licensing & Regulation of Insolvency Practitioners Division'
 permalink: /about-us/what-we-do/licensing-and-regulation-of-insolvency-practitioners-division/
-breadcrumb: Licensing & Regulation of Insolvency Practitioners Division
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Licensing & Regulation of Insolvency Practitioners Division'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Licensing & Regulation of Insolvency Practitioners Division 
 ---

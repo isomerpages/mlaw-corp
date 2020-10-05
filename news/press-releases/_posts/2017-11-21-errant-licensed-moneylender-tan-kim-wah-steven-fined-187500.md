@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, Tan Kim Wah Steven, Fined $187,500
+title: 'Errant Licensed Moneylender, Tan Kim Wah Steven, Fined $187,500'
 permalink: /news/press-releases/errant-licensed-moneylender--tan-kim-wah-steven--fined--187-500
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Nov 2017 Posted in [Press releases](/news/press-releases)
 

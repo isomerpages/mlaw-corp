@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Law for Community Leaders Programme
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Law for Community Leaders Programme'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-law-for-community-leaders-programme
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 8 Jan 2011 Posted in [Speeches](/news/speeches)

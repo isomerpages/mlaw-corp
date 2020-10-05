@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Anti-Counterfeiting Trade Agreement Signing Ceremony
+title: 'Anti-Counterfeiting Trade Agreement Signing Ceremony'
 permalink: /news/press-releases/anti-counterfeiting-trade-agreement-signing-ceremony
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Oct 2011 Posted in [Press releases](/news/press-releases)
 

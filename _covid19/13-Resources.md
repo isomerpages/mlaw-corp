@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Resources
 permalink: /covid19-relief/resources
 breadcrumb: Resources
-collection_name: covid19
+
 ---
+
 ### Resources ###
 
 #### COVID-19 (Temporary Measures) Act 2020 ####

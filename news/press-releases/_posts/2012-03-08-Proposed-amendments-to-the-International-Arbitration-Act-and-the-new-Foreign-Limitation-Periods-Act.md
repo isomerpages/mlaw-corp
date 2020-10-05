@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the International Arbitration Act and the new Foreign Limitation Periods Act
+title: 'Proposed amendments to the International Arbitration Act and the new Foreign Limitation Periods Act'
 permalink: /news/press-releases/proposed-amendments-to-the-international-arbitration-act-and-the-new-foreign-limitation-periods-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 8 Mar 2012 Posted in [Press releases](/news/press-releases)

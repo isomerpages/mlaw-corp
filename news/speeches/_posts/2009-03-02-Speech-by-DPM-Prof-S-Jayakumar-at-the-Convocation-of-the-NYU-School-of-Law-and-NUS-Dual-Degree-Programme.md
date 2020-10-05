@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by DPM Prof S Jayakumar at the Convocation of the NYU School of Law and NUS Dual Degree Programme
+title: 'Speech by DPM Prof S Jayakumar at the Convocation of the NYU School of Law and NUS Dual Degree Programme'
 permalink: /news/speeches/speech-by-dpm-prof-s-jayakumar-at-the-convocation-of-the-nyu-school-of-law-and-nus-dual-degree
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 2 Mar 2009 Posted in [Speeches](/news/speeches)
 

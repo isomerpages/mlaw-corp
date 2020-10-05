@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Committee to Review and Enhance Reforms in the Family Justice System (RERF Committee)
-date:   2018-05-14
+title: 'Committee to Review and Enhance Reforms in the Family Justice System (RERF Committee)'
+date: 2018-05-14T00:00:00.000Z
 permalink: /news/announcements/committee-to-review-and-enhance-reforms-in-the-family-justice-system
+
 ---
+
 
 14 May 2018 Posted in [Announcements](/news/announcements) 
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New legislation on conveyancing measures gazetted on 8 July 2011
+title: 'New legislation on conveyancing measures gazetted on 8 July 2011'
 permalink: /news/press-releases/new-legislation-on-conveyancing-measures-gazetted-on-8-july-2011
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 8 Jul 2011 Posted in [Press releases](/news/press-releases)

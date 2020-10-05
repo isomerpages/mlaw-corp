@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Strengthening Laws Against Harassment
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Strengthening Laws Against Harassment'
 permalink: /news/legal-industry-newsletter/strengthening-laws-against-harassment/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Strengthening Laws Against Harassment
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Strengthening Laws Against Harassment'
+
 ---
+
 
 <style>
   .image {width: 200px;}

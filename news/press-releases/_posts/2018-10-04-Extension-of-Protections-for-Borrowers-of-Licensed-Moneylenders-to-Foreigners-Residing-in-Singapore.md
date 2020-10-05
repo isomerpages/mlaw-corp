@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Extension of Protections for Borrowers of Licensed Moneylenders to Foreigners Residing in Singapore
+title: 'Extension of Protections for Borrowers of Licensed Moneylenders to Foreigners Residing in Singapore'
 permalink: /news/press-releases/extension-of-aggregate-loan-caps-for-singaporeans-to-all-foreigners
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 
 4 Oct 2018 Posted in [Press releases](/news/press-releases)

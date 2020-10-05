@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Law Ministry announces proposed amendments to the Legal Profession Act
-date:   2007-06-07
+title: 'Law Ministry announces proposed amendments to the Legal Profession Act'
+date: 2007-06-07T00:00:00.000Z
 permalink: /news/announcements/law-ministry-announces-proposed-amendments-to-the-legal-profession-act
+
 ---
+
 
 7 Jun 2007 Posted in [Announcements](/news/announcements)
 

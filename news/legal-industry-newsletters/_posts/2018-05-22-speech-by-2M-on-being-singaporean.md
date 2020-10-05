@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean
+title: 'Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean'
 permalink: /news/legal-industry-newsletter/speech-by-2M-on-being-singaporean/
-breadcrumb: Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean
-collection_name: news
+breadcrumb: 'Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean'
+
 ---
+
 
 <style>
   .image {width: 200px;}

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Protection from Harassment 
+title: 'Protection from Harassment'
 permalink: /news/public-consultations/protection-from-harassment/
-breadcrumb: Protection from Harassment 
-collection_name: news
+breadcrumb: 'Protection from Harassment'
+
 ---
+
 
 Videos on Protection from Harassment
 ---

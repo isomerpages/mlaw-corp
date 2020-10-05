@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law Calls Construction Tender for Restoration Project
+title: 'Ministry of Law Calls Construction Tender for Restoration Project'
 permalink: /news/press-releases/ministry-of-law-calls-construction-tender-for-restoration-projec
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 Feb 2017 Posted in [Press releases](/news/press-releases)
 

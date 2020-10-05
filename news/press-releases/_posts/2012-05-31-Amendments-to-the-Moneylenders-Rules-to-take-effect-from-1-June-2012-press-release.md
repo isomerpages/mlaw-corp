@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Amendments to the Moneylenders Rules to take effect from 1 June 2012 - Press Release
+title: 'Amendments to the Moneylenders Rules to take effect from 1 June 2012 - Press Release'
 permalink: /news/press-releases/amendments-to-the-moneylenders-rules-to-take-effect-from-1-june-2012-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 31 May 2012 Posted in [Press releases](/news/press-releases)
 

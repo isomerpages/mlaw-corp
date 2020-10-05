@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Legal System
+title: 'Our Legal System'
 permalink: /our-work/our-legal-system/
-breadcrumb: Our Legal System
-collection_name: our-work
+breadcrumb: 'Our Legal System'
+
 ---
+
 
 #### **Singapore is a republic with a parliamentary system of Government based on the Westminster Model.**
 

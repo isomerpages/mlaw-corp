@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Information on applications for second round of Qualifying Foreign Law Practice (QFLP) licences
+title: 'Information on applications for second round of Qualifying Foreign Law Practice (QFLP) licences'
 permalink: /news/press-releases/information-on-applications-for-second-round-of-qualifying-foreign-law-practice-qflp-licences
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 29 May 2012 Posted in [Press releases](/news/press-releases)

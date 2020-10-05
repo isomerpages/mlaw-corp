@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Notifications for Relief and Applications for Assessor's Determination
-date:  2020-06-04
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Notifications for Relief and Applications for Assessor''s Determination'
+date: 2020-06-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-NFRs-and-Applications
+
 ---
+
 
 04 Jun 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

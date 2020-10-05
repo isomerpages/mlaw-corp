@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, Mr K Shanmugam, at the Arbitration Dialogue
+title: 'Speech by Minister for Law, Mr K Shanmugam, at the Arbitration Dialogue'
 permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-arbitration-dialogue
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 10 Jun 2012 Posted in [Speeches](/news/speeches)
 

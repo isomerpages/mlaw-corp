@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Advisory Committee on Moneylending to provide recommendations on regulatory regime
+title: 'Advisory Committee on Moneylending to provide recommendations on regulatory regime'
 permalink: /news/press-releases/advisory-committee-on-moneylending-to-provide-recommendations-on
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 18 Jun 2014 Posted in [Press releases](/news/press-releases)
 

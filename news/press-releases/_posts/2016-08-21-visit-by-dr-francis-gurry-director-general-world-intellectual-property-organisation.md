@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Visit by Dr Francis Gurry, Director General, World Intellectual Property Organization
+title: 'Visit by Dr Francis Gurry, Director General, World Intellectual Property Organization'
 permalink: /news/press-releases/visit-by-dr-francis-gurry--director-general--world-intellectual-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Aug 2016 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore clinches bid for UN Convention on Mediation to be named after Singapore
+title: 'Singapore clinches bid for UN Convention on Mediation to be named after Singapore'
 permalink: /news/press-releases/UN-convention-on-mediation-to-be-named-after-Singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Dec 2018 Posted in <ins>[Press releases](/news/press-releases)</ins>
 

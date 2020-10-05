@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Singapore to Host First Intellectual Property Diplomatic Conference in Asia
-date:   2006-03-14
+title: 'Singapore to Host First Intellectual Property Diplomatic Conference in Asia'
+date: 2006-03-14T00:00:00.000Z
 permalink: /news/announcements/singapore-to-host-first-intellectual-property-diplomatic-conference-in-asia
+
 ---
+
 
 
 14 Mar 2006 Posted in [Announcements](/news/announcements)

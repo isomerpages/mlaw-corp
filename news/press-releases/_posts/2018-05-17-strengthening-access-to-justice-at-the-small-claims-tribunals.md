@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Strengthening Access to Justice at the Small Claims Tribunals
+title: 'Strengthening Access to Justice at the Small Claims Tribunals'
 permalink: /news/press-releases/strengthening-access-justice-small-claims-tribunal
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 May 2018 Posted in [Press releases](/news/press-releases)
 

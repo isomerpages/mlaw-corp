@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms and Conditions (for e-Services)
+title: 'Terms and Conditions (for e-Services)'
 permalink: /terms-conditions/
-breadcrumb: Terms and Conditions
+breadcrumb: 'Terms and Conditions'
+
 ---
+
 
 Terms and Conditions (for e-Services)
 ---

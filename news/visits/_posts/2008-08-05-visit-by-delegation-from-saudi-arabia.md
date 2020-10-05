@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by delegation from Saudi Arabia
+title: 'Visit by delegation from Saudi Arabia'
 permalink: /news/visits/visit-by-delegation-from-saudi-arabia/
-breadcrumb: Visit by delegation from Saudi Arabia
-collection_name: news
+breadcrumb: 'Visit by delegation from Saudi Arabia'
+
 ---
+
 
 <style>
 .image {width: 600px;}

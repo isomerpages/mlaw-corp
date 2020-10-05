@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Further enhancements to the conveyancing workflow from 1 January 2012
+title: 'Further enhancements to the conveyancing workflow from 1 January 2012'
 permalink: /news/press-releases/further-enhancements-to-the-conveyancing-workflow-from-1-january-2012
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 29 Dec 2011 Posted in [Press releases](/news/press-releases)
 

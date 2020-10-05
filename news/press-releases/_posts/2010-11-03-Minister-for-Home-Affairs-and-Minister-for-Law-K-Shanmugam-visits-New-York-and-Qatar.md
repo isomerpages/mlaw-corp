@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Minister for Home Affairs and Minister for Law, K. Shanmugam visits New York and Qatar
+title: 'Minister for Home Affairs and Minister for Law, K. Shanmugam visits New York and Qatar'
 permalink: /news/press-releases/minister-for-home-affairs-and-minister-for-law-k-shanmugam-visits-new-york-and-qatar
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 3 Nov 2010 Posted in [Press releases](/news/press-releases)
 

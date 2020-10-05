@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Director Of Errant Licensed Moneylending Company, Credit@Vincent Koh Pte Ltd, Fined $63,000
+title: 'Director Of Errant Licensed Moneylending Company, Credit@Vincent Koh Pte Ltd, Fined $63,000'
 permalink: /news/press-releases/director-of-errant-licensed-moneylending-company--credit-vincent
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Apr 2014 Posted in [Press releases](/news/press-releases)
 

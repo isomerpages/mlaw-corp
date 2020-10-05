@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act
+title: 'Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act'
 permalink: /news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act
-breadcrumb: Public Consultations
-collection_name: news
+breadcrumb: 'Public Consultations'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act
 ---

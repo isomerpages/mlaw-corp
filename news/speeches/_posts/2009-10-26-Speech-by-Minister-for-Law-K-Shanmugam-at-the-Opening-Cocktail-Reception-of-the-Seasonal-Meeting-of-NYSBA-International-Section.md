@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law K Shanmugam at the Opening Cocktail Reception of the Seasonal Meeting of NYSBA International Section
+title: 'Speech by Minister for Law K Shanmugam at the Opening Cocktail Reception of the Seasonal Meeting of NYSBA International Section'
 permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-opening-cocktail-reception-of-the-seasonal-meeting-of
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 26 Oct 2009 Posted in [Speeches](/news/speeches)
 <br>    

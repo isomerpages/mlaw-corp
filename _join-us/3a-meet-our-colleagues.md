@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Meet Our Colleagues
+title: 'Meet Our Colleagues'
 permalink: /join-us/meet-our-colleagues/
-breadcrumb: Meet Our Colleagues
-collection_name: join-us 
-second_nav_title: Meet Our Colleagues
+breadcrumb: 'Meet Our Colleagues'
+third_nav_title: 'Meet Our Colleagues'
+
 ---
+
 
 <style>
   .image {width: 200px;}

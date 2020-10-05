@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Legal Group
+title: 'Legal Group'
 permalink: /our-work/legal-group/
-breadcrumb: Legal Group
-collection_name: our-work
+breadcrumb: 'Legal Group'
+
 ---
+
 
 > MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
  

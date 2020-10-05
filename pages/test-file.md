@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Test page
-permalink: 
-breadcrumb: Test page
+title: 'Test page'
+permalink: null
+breadcrumb: 'Test page'
+
 ---
+
 
 <div class="row">
   <div class="col">

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Video on Dispute Resolution in Singapore
+title: 'Video on Dispute Resolution in Singapore'
 permalink: /news/others/video-on-dispute-resolution-in-singapore/
-breadcrumb: Video on Dispute Resolution in Singapore
-collection_name: news
+breadcrumb: 'Video on Dispute Resolution in Singapore'
+
 ---
+
 
 Video on Dispute Resolution in Singapore
 ---

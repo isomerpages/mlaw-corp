@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Factsheet on the Family Justice Act 2014
+title: 'Factsheet on the Family Justice Act 2014'
 permalink: /news/press-releases/factsheet-family-justice-act-2014
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 8 Jul 2014 Posted in [Press releases](/news/press-releases)
 

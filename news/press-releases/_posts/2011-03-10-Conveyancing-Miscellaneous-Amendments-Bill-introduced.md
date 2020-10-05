@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Conveyancing (Miscellaneous Amendments) Bill introduced
+title: 'Conveyancing (Miscellaneous Amendments) Bill introduced'
 permalink: /news/press-releases/conveyancing-miscellaneous-amendments-bill-introduced
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Mar 2011 Posted in [Press releases](/news/press-releases)
 

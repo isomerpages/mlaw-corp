@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Official Assignee Practice Circular No. 1 of 2008
+title: 'Official Assignee Practice Circular No. 1 of 2008'
 permalink: /news/press-releases/official-assignee-practice-circular-no-1-of-2008
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 14 Mar 2008 Posted in [Press releases](/news/press-releases)

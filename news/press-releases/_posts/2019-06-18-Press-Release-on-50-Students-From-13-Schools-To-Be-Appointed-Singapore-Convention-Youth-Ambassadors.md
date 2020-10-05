@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Press Release on 50 Students From 13 Schools To Be Appointed Singapore Convention Youth Ambassadors
-date:   2019-06-18
+title: 'Press Release on 50 Students From 13 Schools To Be Appointed Singapore Convention Youth Ambassadors'
+date: 2019-06-18T00:00:00.000Z
 permalink: /news/press-releases/Press-Release-50-students-from-13-schools-to-be-appointed-singapore-convention-youth-ambassadors
+
 ---
+
 
 18 Jun 2019 Posted in [Press releases](/news/press-releases)
 

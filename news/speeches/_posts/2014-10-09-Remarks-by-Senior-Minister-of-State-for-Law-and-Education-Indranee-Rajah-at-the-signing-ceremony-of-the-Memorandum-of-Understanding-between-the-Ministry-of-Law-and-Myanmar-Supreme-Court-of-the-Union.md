@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Remarks by Senior Minister of State for Law and Education, Indranee Rajah, at the signing ceremony of the Memorandum of Understanding between the Ministry of Law and Myanmar's Supreme Court of the Union
+title: 'Remarks by Senior Minister of State for Law and Education, Indranee Rajah, at the signing ceremony of the Memorandum of Understanding between the Ministry of Law and Myanmar''s Supreme Court of the Union'
 permalink: /news/speeches/SMS-speech-at-sg-myanmar-MOU-signing-ceremony
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 9 Oct 2014 Posted in [Speeches](/news/speeches)

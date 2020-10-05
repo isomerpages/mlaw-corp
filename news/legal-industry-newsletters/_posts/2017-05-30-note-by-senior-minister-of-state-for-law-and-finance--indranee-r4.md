@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Infrastructure
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Infrastructure'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r4/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Infrastructure
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Infrastructure'
+
 ---
+
 
 <style>
   .image {width: 200px;}

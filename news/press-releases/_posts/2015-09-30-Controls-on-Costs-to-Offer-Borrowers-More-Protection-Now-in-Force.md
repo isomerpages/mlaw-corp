@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Controls on Costs to Offer Borrowers More Protection Now in Force
+title: 'Controls on Costs to Offer Borrowers More Protection Now in Force'
 permalink: /news/press-releases/controls-on-costs-to-offer-borrowers-more-protection-now-in-forc
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 30 Sep 2015 Posted in [Press releases](/news/press-releases)
 

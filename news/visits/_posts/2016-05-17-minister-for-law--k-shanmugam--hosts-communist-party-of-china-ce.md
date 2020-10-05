@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Minister for Law, K Shanmugam, Hosts Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary, Meng Jianzhu
+title: 'Minister for Law, K Shanmugam, Hosts Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary, Meng Jianzhu'
 permalink: /news/visits/minister-for-law--k-shanmugam--hosts-communist-party-of-china-ce/
-breadcrumb: Minister for Law, K Shanmugam, Hosts Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary, Meng Jianzhu
-collection_name: news
+breadcrumb: 'Minister for Law, K Shanmugam, Hosts Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary, Meng Jianzhu'
+
 ---
+
 
 <style>
 .image {width: 600px;}

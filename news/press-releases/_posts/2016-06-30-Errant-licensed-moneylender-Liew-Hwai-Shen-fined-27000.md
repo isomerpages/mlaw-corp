@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Errant licensed moneylender, Liew Hwai Shen, fined $27,000
+title: 'Errant licensed moneylender, Liew Hwai Shen, fined $27,000'
 permalink: /news/press-releases/errant-licensed-moneylender--liew-hwai-shen--fined--27-000
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 30 Jun 2016 Posted in [Press releases](/news/press-releases) 
 
 1.    The Registry of Moneylenders, a department under the Ministry of Law, brought charges in the State Courts on 14 September 2015 against Liew Hwai Shen (刘怀森), 37 years old, a director of the moneylending business Denaro Pte Ltd.

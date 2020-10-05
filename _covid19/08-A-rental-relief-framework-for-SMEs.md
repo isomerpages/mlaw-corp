@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Introduction
 permalink: /covid19-relief/rental-relief-framework-for-SMEs
 breadcrumb: Introduction
-collection_name: covid19
-second_nav_title: Part 2A of the Act-Rental Relief Framework for SMEs and NPOs
+third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
+
 ---
+
 ### Introduction ###
 
 The [COVID-19 (Temporary Measures) (Amendment) Act (“Act”)](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"} that was passed in Parliament on 5 June 2020 provides a rental relief framework for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). This rental relief framework under Part 2A of the Act and the [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 (“Regulations”)](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"} came into force on 31 July 2020. 

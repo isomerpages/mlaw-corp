@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Update on Qualifying Foreign Law Practice Licences Awarded in 2013
+title: 'Update on Qualifying Foreign Law Practice Licences Awarded in 2013'
 permalink: /news/press-releases/update-on-qualifying-foreign-law-practice-licences-awarded-in-20
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 13 Dec 2017 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law will be deferring the decision on the renewal of the licences of the second batch of Qualifying Foreign Law Practice (QFLP) firms to 2020.

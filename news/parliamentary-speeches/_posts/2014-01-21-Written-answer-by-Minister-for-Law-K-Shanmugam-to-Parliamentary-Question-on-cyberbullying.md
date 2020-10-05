@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on cyberbullying
-date:   2014-01-21
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on cyberbullying'
+date: 2014-01-21T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-on-cyberbullying
+
 ---
+
 
 21 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 <br>  

@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Mediation
-date:   2020-02-03
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Mediation'
+date: 2020-02-03T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-to-Parliamentary-Question-on-Mediation
+
 ---
+
 
 03 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

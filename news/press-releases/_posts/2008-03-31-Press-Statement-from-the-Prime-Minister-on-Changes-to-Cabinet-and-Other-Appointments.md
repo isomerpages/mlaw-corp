@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Press Statement from the Prime Minister on Changes to Cabinet and Other Appointments
+title: 'Press Statement from the Prime Minister on Changes to Cabinet and Other Appointments'
 permalink: /news/press-releases/press-statement-from-the-prime-minister-on-changes-to-cabinet-and-other-appointments
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 31 Mar 2008 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Criminal Procedure Code Bill
+title: 'Public Consultation on Criminal Procedure Code Bill'
 permalink: /news/press-releases/public-consultation-on-criminal-procedure-code-bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 11 Dec 2008 Posted in [Press releases](/news/press-releases)
 
