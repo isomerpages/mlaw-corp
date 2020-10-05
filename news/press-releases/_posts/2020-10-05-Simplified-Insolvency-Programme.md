@@ -67,10 +67,10 @@ permalink: /news/press-releases/simplified-insolvency-programme
 **MINISTRY OF LAW**
 <br>**05 OCTOBER 2020**
 
-<p><sup id="fn1">1. Micro and small companies are companies with an annual revenue of less than $1 million and $10 million respectively.
+<p><sup id="fn1">1. Micro and small companies are companies with an annual revenue of less than $1 million and $10 million respectively. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2. This refers to a debt restructuring scheme worked out among the company and its creditors out of Court, which is then submitted to Court for approval.
+<p><sup id="fn2">2. This refers to a debt restructuring scheme worked out among the company and its creditors out of Court, which is then submitted to Court for approval. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
-<p><sup id="fn3">3. MSCs with amount of liabilities ≤S$2m; number of employees ≤30; number of creditors ≤50; and for simplified winding up only, cap of $50,000 on realisable unencumbered assets.
+<p><sup id="fn3">3. MSCs with amount of liabilities ≤S$2m; number of employees ≤30; number of creditors ≤50; and for simplified winding up only, cap of $50,000 on realisable unencumbered assets. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 05 Oct 2020</p>
