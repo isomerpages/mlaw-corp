@@ -25,7 +25,7 @@ permalink: /news/press-releases/simplified-insolvency-programme
 <u>Key Features</u>
 
 {:start="6"}
-6. Developed in consultation with public agencies and stakeholders from the private sector, the proposed Simplified Insolvency Programme will provide simpler, faster, and lower-cost proceedings for eligible MSCs to restructure their debts or wind up the company in an orderly manner. This will be done through two temporary and new processes adapted and modified from the existing framework in the IRDA. Key features of the two processes include:
+6. Developed in consultation with public agencies and stakeholders from the private sector, the proposed Simplified Insolvency Programme will provide simpler, faster, and lower-cost proceedings for eligible MSCs to restructure their debts or wind up the company in an orderly manner. This will be done through two temporary and new processes adapted and modified from the existing framework in the IRDA. Key features of the two processes include:<br>
     a. For simplified debt restructuring –
     
     i. <u>Adapting the existing pre-packaged scheme of arrangement<sup><a href="#fn2" id="ref2">2</a></sup> in the IRDA</u>: Instead of two applications to the High Court required in a typical scheme of arrangement, the pre-packaged process requires only one; 
