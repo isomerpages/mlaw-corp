@@ -28,7 +28,7 @@ permalink: /news/press-releases/simplified-insolvency-programme
 6. Developed in consultation with public agencies and stakeholders from the private sector, the proposed Simplified Insolvency Programme will provide simpler, faster, and lower-cost proceedings for eligible MSCs to restructure their debts or wind up the company in an orderly manner. This will be done through two temporary and new processes adapted and modified from the existing framework in the IRDA. Key features of the two processes include:
     a. For simplified debt restructuring –
     
-    i. <u>Adapting the existing pre-packaged scheme of arrangement<a href="#fn2" id="ref1">2</a></sup> in the IRDA</u>: Instead of two applications to the High Court required in a typical scheme of arrangement, the pre-packaged process requires only one; 
+    i. <u>Adapting the existing pre-packaged scheme of arrangement<sup><a href="#fn2" id="ref2">2</a></sup> in the IRDA</u>: Instead of two applications to the High Court required in a typical scheme of arrangement, the pre-packaged process requires only one; 
     
     ii. <u>Temporary restriction on <i>ipso facto</i> clauses and moratorium</u>: The restriction on <i>ipso facto</i> clauses and moratorium against creditors’ action will be automatically in place while the company is in simplified debt restructuring. This provides breathing room for the company to propose its restructuring plan; and
     
@@ -45,7 +45,7 @@ permalink: /news/press-releases/simplified-insolvency-programme
     iv. <u>Relationship with a Court-ordered winding up</u>: A company in the simplified winding up programme, if subsequently viewed as unsuitable for the programme, may be placed into a Court-ordered winding up (i.e. existing “non-simplified” process) on the application of the Official Receiver or an interested party.
     
 {:start="7"}
-7. To qualify for the Simplified Insolvency Programme, MSCs must meet certain specified eligibility criteria. The eligibility criteria will filter cases that are unsuitable for the streamlined and expedited insolvency proceedings. The eligibility criteria will include amongst others, limits on the aggregate total liabilities of the company, the number of creditors and employees, and the amount and value of realisable assets in winding up<a href="#fn1" id="ref3">3</a></sup>. 
+7. To qualify for the Simplified Insolvency Programme, MSCs must meet certain specified eligibility criteria. The eligibility criteria will filter cases that are unsuitable for the streamlined and expedited insolvency proceedings. The eligibility criteria will include amongst others, limits on the aggregate total liabilities of the company, the number of creditors and employees, and the amount and value of realisable assets in winding up<sup><a href="#fn3" id="ref3">3</a></sup>. 
 
 {:start="8"}
 8. The programme will be available for a period of 6 months from the commencement of the proposed legislation. This application period may be extended for a period determined by the Minister. The programme will be administered by the Official Receiver, who may assign private insolvency practitioners to administer the cases accepted into simplified debt restructuring and simplified winding up. There will be a co-payment component for applicant companies under the programme.
