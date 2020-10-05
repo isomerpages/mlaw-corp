@@ -14,6 +14,7 @@ permalink: /news/press-releases/2020-10-05-facilitating-cross-border-use-of-publ
 2. When the Bill is passed, it will allow for Singapore’s obligations under the Hague Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents (“Apostille Convention”) to take domestic effect. It will also transfer the legalisation function from the Ministry of Foreign Affairs (“MFA”) to the Singapore Academy of Law (“SAL”). These reforms will not only streamline and modernise the process for authentication of public documents for recognition across jurisdictions, but will also save time and lower costs for users. 
 
 <b>Apostille Convention</b>
+
 {:start="3"}
 3. The Apostille Convention facilitates the use of public documents abroad through the use of a simplified one-step process. Many States require that foreign public documents be “legalised” before they are recognised and accepted in those States. Legalisation describes the multi-stage process whereby the signature, seal or stamp on a local public document is certified as authentic by a series of public officials along a “chain”, to a point where the ultimate authentication is readily recognised by the foreign State of destination. 
 
@@ -38,8 +39,7 @@ permalink: /news/press-releases/2020-10-05-facilitating-cross-border-use-of-publ
 9. Further details in respect of the transfer of the legalisation function from MFA to SAL will be announced in due course. 
 
 **MINISTRY OF LAW**
-<br>**5 OCTOBER 2020**
-
+<br>**5 OCTOBER 2020**</br>
 
 <p><sup id="fn1">1. As of the last official update on 24 October 2019, there were 118 Contracting Parties to the Apostille Convention, including the USA, the UK, Australia, Hong Kong and India. For the list of Contracting Parties, see <a href="https://www.hcch.net/en/instruments/conventions/status-table/?cid=41" target="new">this link</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
