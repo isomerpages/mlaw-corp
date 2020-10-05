@@ -32,7 +32,7 @@ permalink: /news/press-releases/simplified-insolvency-programme
     
     ii. <u>Temporary restriction on <i>ipso facto</i> clauses and moratorium</u>: The restriction on <i>ipso facto</i> clauses and moratorium against creditors’ action will be automatically in place while the company is in simplified debt restructuring. This provides breathing room for the company to propose its restructuring plan; and
     
-    iii. (u>Lowered requirements for approval by creditors</u>: A lower creditor approval threshold (two-thirds in value) than required in a typical scheme of arrangement (majority in number holding 75% in value) is proposed.
+    iii. <u>Lowered requirements for approval by creditors</u>: A lower creditor approval threshold (two-thirds in value) than required in a typical scheme of arrangement (majority in number holding 75% in value) is proposed.
     
     b. For simplified winding up – 
     
