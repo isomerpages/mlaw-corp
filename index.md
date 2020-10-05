@@ -24,8 +24,8 @@ sections:
                   url: 'https://www.singaporeconvention.org/'
                   external: false
     - resources:
-          title: 'Top Stories'
-          subtitle: 'News and Information'
+          title: 'News and Information'
+          subtitle: 'Top Stories'
           button: 'More Resources'
           url: /news/
 
