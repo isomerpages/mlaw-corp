@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to IBA Human Rights Institute's Report
+title: 'Response to IBA Human Rights Institute''s Report'
 permalink: /news/press-releases/response-to-iba-human-rights-institute-s-report
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Jul 2008 Posted in [Press releases](/news/press-releases)
 

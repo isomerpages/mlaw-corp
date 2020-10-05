@@ -1,10 +1,10 @@
 ---
-layout: post
-title: United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanmugam
+title: 'United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanmugam'
 permalink: /news/visits/united-states-attorney-general-eric-holder-calls-on-minister-for-law-mr-k-shanmugam/
-breadcrumb: United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanmugam
-collection_name: news
+breadcrumb: 'United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}

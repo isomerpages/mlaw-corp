@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the National Economics and Finance Management Quiz 2010
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the National Economics and Finance Management Quiz 2010'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-national-economics-and-finance-management-quiz-2010
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 31 Jul 2010 Posted in [Speeches](/news/speeches)
 

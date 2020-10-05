@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Senior Minister of State for Law, Indranee Rajah, to Supplementary Parliamentary Question on Criminal Legal Aid
-date:   2013-11-12
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Supplementary Parliamentary Question on Criminal Legal Aid'
+date: 2013-11-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-criminal-legal-aid
+
 ---
+
 
 
 12 Nov 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

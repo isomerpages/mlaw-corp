@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, to to Parliamentary Question on attracting legal talent to the Singapore Judiciary
+title: 'Oral Answer by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, to to Parliamentary Question on attracting legal talent to the Singapore Judiciary'
 permalink: /news/parliamentary-speeches/oral-response-by-minister-k-shanmugam-on-attracting-legal-talent-to-the-Singapore-Judiciary
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 21 Mar 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Keynote Address by Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, at the Regional Insolvency Conference 2016
-permalink: /news/speeches/keynote-address-by-indranee-rajah-s-c---senior-minister-of-state
+title: 'Keynote Address by Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, at the Regional Insolvency Conference 2016'
+permalink: /news/speeches/keynote-address-by-indranee-rajah-s-c
+
+---
+senior-minister-of-state
 breadcrumb: Speeches
 collection_name: news
 ---

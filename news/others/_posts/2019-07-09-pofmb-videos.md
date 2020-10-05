@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos
+title: 'Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos'
 permalink: /news/others/pofmb-videos/
-breadcrumb: Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos
-collection_name: news
+breadcrumb: 'Protection from Online Falsehoods and Manipulation Bill (POFMB) Videos'
+
 ---
+
 
 Protection from Online Falsehoods and Manipulation Act (POFMA) - Compilation of Public Materials
 ---

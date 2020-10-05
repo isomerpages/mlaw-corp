@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Debt Repayment Scheme - Press Release (May 09)
+title: 'Debt Repayment Scheme - Press Release (May 09)'
 permalink: /news/press-releases/debt-repayment-scheme-press-release-may-09-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 5 May 2009 Posted in [Press releases](/news/press-releases)
 

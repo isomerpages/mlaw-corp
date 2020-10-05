@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by SMS Assoc Prof Ho Peng Kee on the Statutes (Miscellaneous Amendments) Bill 2009
-date:   2010-01-12
+title: 'Second Reading Speech by SMS Assoc Prof Ho Peng Kee on the Statutes (Miscellaneous Amendments) Bill 2009'
+date: 2010-01-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-assoc-prof-ho-peng-kee-on-the-statutes-miscellaneous-amendments-bill
+
 ---
+
 
 
 12 Jan 2010 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

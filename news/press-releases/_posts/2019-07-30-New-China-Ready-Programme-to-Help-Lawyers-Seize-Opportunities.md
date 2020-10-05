@@ -1,9 +1,10 @@
 ---
-layout: post
-title: New China-Ready Programme to Help Singapore Lawyers Seize New Opportunities
-date:   2019-07-30
+title: 'New China-Ready Programme to Help Singapore Lawyers Seize New Opportunities'
+date: 2019-07-30T00:00:00.000Z
 permalink: /news/press-releases/press-releases-New-China-Ready-Programme-to-Help-Singapore-Lawyers-Seize-New-Opportunities
+
 ---
+
 
 30 Jul 2019 Posted in [Press releases](/news/press-releases)
 

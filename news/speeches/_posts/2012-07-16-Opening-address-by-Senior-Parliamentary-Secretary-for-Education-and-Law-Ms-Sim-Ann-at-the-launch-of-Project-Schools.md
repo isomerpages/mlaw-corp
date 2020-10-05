@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening address by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the launch of Project Schools
+title: 'Opening address by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the launch of Project Schools'
 permalink: /news/speeches/opening-address-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-launch
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 16 Jul 2012 Posted in [Speeches](/news/speeches)
 

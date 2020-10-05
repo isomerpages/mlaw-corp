@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Cap on Late Payment Interest or Charges for Specific Contracts 
+title: 'Cap on Late Payment Interest or Charges for Specific Contracts'
 permalink: /covid19-relief/cap-on-late-payment-interest-charges
-breadcrumb: Cap on Late Payment Interest or Charges for Specific Contracts 
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
+breadcrumb: 'Cap on Late Payment Interest or Charges for Specific Contracts'
+third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+
 ---
+
 ### Cap on late payment interest or charges for specific contracts ###
 
 Many contracts contain clauses which impose interest or other charges for late payment. Sometimes, the interest rates or charges stipulated can be high. The COVID-19 pandemic has had a drastic effect across all segments of the economy, and many Singaporeans and local businesses have missed some payments as a result.

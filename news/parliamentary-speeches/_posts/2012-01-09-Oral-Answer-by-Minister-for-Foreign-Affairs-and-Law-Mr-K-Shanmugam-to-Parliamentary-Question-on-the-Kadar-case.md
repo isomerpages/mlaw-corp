@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Minister for Foreign Affairs and Law, Mr K Shanmugam, to Parliamentary Question on the Kadar case
-date:   2012-01-09
+title: 'Oral Answer by Minister for Foreign Affairs and Law, Mr K Shanmugam, to Parliamentary Question on the Kadar case'
+date: 2012-01-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-to-parliamentary-question-on_1
+
 ---
+
 
 
 9 Jan 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

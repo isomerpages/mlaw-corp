@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Bi-Monthly Giro Deductions
-date:   2004-01-01
+title: 'Bi-Monthly Giro Deductions'
+date: 2004-01-01T00:00:00.000Z
 permalink: /news/announcements/bi-monthly-giro-deductions
+
 ---
+
 
 
 1 Jan 2004 Posted in [Announcements](/news/announcements) 

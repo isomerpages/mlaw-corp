@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Code of Conduct for Debt Collectors
-date:   2015-02-12
+title: 'Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Code of Conduct for Debt Collectors'
+date: 2015-02-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-SMS-on-debt-collector
+
 ---
+
 
 12 Feb 2015 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Help for Singapore Lawyers to Venture Overseas
+title: 'Help for Singapore Lawyers to Venture Overseas'
 permalink: /news/press-releases/help-for-singapore-lawyers-to-venture-overseas
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Feb 2018 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Law Awareness Weeks at CDC
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Law Awareness Weeks at CDC'
 permalink: /news/speeches/Speech-by-Senior-Minister-of-State-Edwin-Tong-for-LAWS-at-CDC-15-Sep
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 16 Sep 2018 Posted in [Speeches](/news/speeches)

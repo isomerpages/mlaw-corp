@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /who-we-are/overview/
 breadcrumb: Overview
-collection_name: who-we-are
+
 ---
+
 
 ### **What We Do**
 

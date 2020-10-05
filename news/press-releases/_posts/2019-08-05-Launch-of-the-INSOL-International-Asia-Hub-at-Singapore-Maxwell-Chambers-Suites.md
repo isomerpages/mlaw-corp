@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Launch of the INSOL International Asia Hub at Singapore’s Maxwell Chambers Suites
-date:   2019-08-05
+title: 'Launch of the INSOL International Asia Hub at Singapore’s Maxwell Chambers Suites'
+date: 2019-08-05T00:00:00.000Z
 permalink: /news/press-releases/Launch-of-the-INSOL-International-Asia-Hub-at-Singapore-Maxwell-Chambers-Suites
+
 ---
+
 
 5 Aug 2019 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to Feedback received from Public Consultation on the Exclusions under Section 440(5)(a) of the Insolvency, Restructuring and Dissolution Act 2018 
+title: 'Responses to Feedback received from Public Consultation on the Exclusions under Section 440(5)(a) of the Insolvency, Restructuring and Dissolution Act 2018'
 permalink: /news/public-consultations/responses-feedback-public-consultation-exclusions-s440-irda/
-breadcrumb: Responses to Feedback received from Public Consultation on the Exclusions under Section 440(5)(a) of the Insolvency, Restructuring and Dissolution Act 2018 
-collection_name: news
+breadcrumb: 'Responses to Feedback received from Public Consultation on the Exclusions under Section 440(5)(a) of the Insolvency, Restructuring and Dissolution Act 2018'
+
 ---
+
 Responses to Feedback received from Public Consultation on the Exclusions under Section 440(5)(a) of the Insolvency, Restructuring and Dissolution Act 2018 
 ---
 

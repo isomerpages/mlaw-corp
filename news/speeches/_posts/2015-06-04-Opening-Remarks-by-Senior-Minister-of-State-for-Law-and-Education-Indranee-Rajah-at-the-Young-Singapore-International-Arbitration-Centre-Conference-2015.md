@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Remarks by Senior Minister of State for Law and Education, Indranee Rajah, at the Young Singapore International Arbitration Centre Conference 2015
+title: 'Opening Remarks by Senior Minister of State for Law and Education, Indranee Rajah, at the Young Singapore International Arbitration Centre Conference 2015'
 permalink: /news/speeches/OpeningRemarksbySMSattheYSIACConference2015
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 4 Jun 2015 Posted in [Speeches](/news/speeches)

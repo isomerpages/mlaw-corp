@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to Feedback Received from Public Consultation on the Proposed Amendments to the Patents (Patent Agents) Rules
+title: 'Responses to Feedback Received from Public Consultation on the Proposed Amendments to the Patents (Patent Agents) Rules'
 permalink: /news/public-consultations/responses-to-feedback-received-from-public-consultation-on-proposed-amendments-to-patents-agents-rules/
-breadcrumb: Responses to Feedback Received from Public Consultation on the Proposed Amendments to the Patents (Patent Agents) Rules
-collection_name: news
+breadcrumb: 'Responses to Feedback Received from Public Consultation on the Proposed Amendments to the Patents (Patent Agents) Rules'
+
 ---
+
 
 Responses to Feedback Received from Public Consultation on the Proposed Amendments to the Patents (Patent Agents) Rules
 ---

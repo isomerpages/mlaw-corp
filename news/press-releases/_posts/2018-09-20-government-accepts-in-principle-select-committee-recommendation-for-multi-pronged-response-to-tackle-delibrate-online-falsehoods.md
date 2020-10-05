@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Government Accepts In-Principle Select Committee’s Recommendation For Multi-Pronged Response To Tackle Deliberate Online Falsehoods
+title: 'Government Accepts In-Principle Select Committee’s Recommendation For Multi-Pronged Response To Tackle Deliberate Online Falsehoods'
 permalink: /news/press-releases/Government-Accepts-In-Principle-Select-Committee-Recommendation-For-Multi-Pronged-Response-To-Tackle-Deliberate-Online-Falsehoods
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 20 Sep 2018 Posted in [Press releases](/news/press-releases)

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Mr K Shanmugam, Minister for Law, at the Open Meeting of Ministers of Justice, St. Petersburg International Legal Forum
-date:  2020-04-10
+title: 'Speech by Mr K Shanmugam, Minister for Law, at the Open Meeting of Ministers of Justice, St. Petersburg International Legal Forum'
+date: 2020-04-10T00:00:00.000Z
 permalink: /news/speeches/2020-04-10-Speech-by-Mr-K-Shanmugam-Minister-for-Law-at-the-Open-Meeting-of-Ministers-of-Justice-SPILF
+
 ---
+
 
 10 Apr 2020 Posted in [[Speeches](/news/speeches)]
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Organisation Structure
+title: 'Organisation Structure'
 permalink: /who-we-are/organisation-structure/
-breadcrumb: Organisation Struct
-collection_name: who-we-are
+breadcrumb: 'Organisation Struct'
+
 ---
+
 
 ### **Our Management**
 

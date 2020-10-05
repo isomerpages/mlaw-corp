@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Fact sheet on the proposed amendments to the Legal Aid and Advice Act
+title: 'Fact sheet on the proposed amendments to the Legal Aid and Advice Act'
 permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-legal-aid-and-advic
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 14 Jan 2013 Posted in [Press releases](/news/press-releases)

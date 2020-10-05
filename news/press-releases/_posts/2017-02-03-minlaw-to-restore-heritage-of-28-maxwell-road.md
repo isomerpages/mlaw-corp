@@ -1,10 +1,10 @@
 ---
-layout: post
-title: MinLaw to Restore Heritage of 28 Maxwell Road
+title: 'MinLaw to Restore Heritage of 28 Maxwell Road'
 permalink: /news/press-releases/minlaw-to-restore-heritage-of-28-maxwell-road
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 3 Feb 2017 Posted in [Press releases](/news/press-releases)
 

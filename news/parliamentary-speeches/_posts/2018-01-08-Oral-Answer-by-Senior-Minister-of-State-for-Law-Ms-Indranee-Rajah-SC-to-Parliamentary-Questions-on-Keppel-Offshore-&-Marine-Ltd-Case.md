@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah SC, to Parliamentary Questions on Keppel Offshore & Marine Ltd Case
+title: 'Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah SC, to Parliamentary Questions on Keppel Offshore & Marine Ltd Case'
 permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--ms-indranee-raj0
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 8 Jan 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

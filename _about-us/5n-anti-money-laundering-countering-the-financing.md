@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Anti-Money Laundering / Countering the Financing of Terrorism Division
+title: 'Anti-Money Laundering / Countering the Financing of Terrorism Division'
 permalink: /about-us/what-we-do/anti-money-laundering-countering-the-financing.md/
-breadcrumb: Anti-Money Laundering / Countering the Financing of Terrorism Division
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Anti-Money Laundering / Countering the Financing of Terrorism Division'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Anti-Money Laundering / Countering the Financing of Terrorism Division
 ---

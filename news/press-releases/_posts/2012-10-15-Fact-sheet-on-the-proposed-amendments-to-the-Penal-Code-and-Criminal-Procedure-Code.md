@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Fact sheet on the proposed amendments to the Penal Code and Criminal Procedure Code
+title: 'Fact sheet on the proposed amendments to the Penal Code and Criminal Procedure Code'
 permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 15 Oct 2012 Posted in [Press releases](/news/press-releases)
 

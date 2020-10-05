@@ -1,9 +1,10 @@
 ---
-layout: post
-title: COVID-19 Relief Measures - Refinements to Alternative Arrangements for Meetings 
-date: 2020-09-29
-permalink: /news/press-releases/Refinements-to-Alternative-Arrangements-for-Meetings 
+title: 'COVID-19 Relief Measures - Refinements to Alternative Arrangements for Meetings'
+date: 2020-09-29T00:00:00.000Z
+permalink: /news/press-releases/Refinements-to-Alternative-Arrangements-for-Meetings
+
 ---
+
 
 29 Sep 2020 Posted in [Press releases](/news/press-releases)
 

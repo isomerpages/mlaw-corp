@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Public Consultation on Proposed Amendments to the International Arbitration Act (“IAA”)"
-date:   2019-06-26
+title: 'Public Consultation on Proposed Amendments to the International Arbitration Act (“IAA”)'
+date: 2019-06-26T00:00:00.000Z
 permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendments-to-the-International-Arbitration-Act
+
 ---
+
 
 
 26 Jun 2019 Posted in [Press releases](/news/press-releases) 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Ministry of Law's Response to ST Forum Letter: Assessor's help available to work out rental issues"
-date:   2020-06-20
+title: 'Ministry of Law''s Response to ST Forum Letter: Assessor''s help available to work out rental issues'
+date: 2020-06-20T00:00:00.000Z
 permalink: /news/replies/ministry-of-law-s-response-to-st-forum-letter-rental-relief-framework
+
 ---
+
 
 20 June 2020 Posted in [Replies](/news/replies)  
 

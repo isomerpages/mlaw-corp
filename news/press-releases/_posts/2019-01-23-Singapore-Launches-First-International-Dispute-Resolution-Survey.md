@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Singapore Launches First International Dispute Resolution Survey
-date: 2019-01-23
+title: 'Singapore Launches First International Dispute Resolution Survey'
+date: 2019-01-23T00:00:00.000Z
 permalink: /news/press-releases/singapore-launches-first-international-dispute-resolution-survey
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 23 Jan 2019 Posted in [Press releases](/news/press-releases)
 
 <ol>

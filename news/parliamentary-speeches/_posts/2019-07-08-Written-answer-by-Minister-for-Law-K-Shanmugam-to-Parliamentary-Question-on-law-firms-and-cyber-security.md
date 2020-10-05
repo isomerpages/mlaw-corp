@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on law firms and cyber security
-date:   2019-07-08
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on law firms and cyber security'
+date: 2019-07-08T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-on-scammers-targeting-law-firms-and-impersonating-lawyers
+
 ---
+
 
 
 8 Jul 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

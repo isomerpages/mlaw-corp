@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by DPM Prof S Jayakumar on 16 July 2007 to parliamentary questions on caning incident
-date:   2007-07-16
+title: 'Oral answer by DPM Prof S Jayakumar on 16 July 2007 to parliamentary questions on caning incident'
+date: 2007-07-16T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-dpm-prof-s-jayakumar-on-16-july-2007-to-parliamentary-questions-on-caning-incident
+
 ---
+
 
 16 Jul 2007 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

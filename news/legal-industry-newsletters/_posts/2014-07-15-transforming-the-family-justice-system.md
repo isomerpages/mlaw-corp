@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Transforming the Family Justice System
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Transforming the Family Justice System'
 permalink: /news/legal-industry-newsletter/transforming-the-family-justice-system/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Transforming the Family Justice System
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Transforming the Family Justice System'
+
 ---
+
 
 <style>
   .image {width: 200px;}

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Remarks by Senior Minister of State for Law and Education Ms Indranee Rajah SC at the 13th South East Asia Survey Congress 2015
+title: 'Opening Remarks by Senior Minister of State for Law and Education Ms Indranee Rajah SC at the 13th South East Asia Survey Congress 2015'
 permalink: /news/speeches/SMS-speech-SEA-surveyor-congress-2015
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 28 Jul 2015 Posted in [Speeches](/news/speeches)
 

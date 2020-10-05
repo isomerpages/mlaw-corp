@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Feedback Sought on Coroners Bill
+title: 'Public Feedback Sought on Coroners Bill'
 permalink: /news/press-releases/public-feedback-sought-on-coroners-bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Jul 2009 Posted in [Press releases](/news/press-releases)
 

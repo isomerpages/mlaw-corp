@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Patents (Amendment) Bill 2008 by Senior Minister Assoc Prof Ho Peng Kee
-date:   2008-08-25
+title: 'Second Reading Speech on Patents (Amendment) Bill 2008 by Senior Minister Assoc Prof Ho Peng Kee'
+date: 2008-08-25T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-patents-amendment-bill-2008-by-senior-minister-assoc-prof-ho-peng-kee
+
 ---
+
 
 25 Aug 2008 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

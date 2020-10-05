@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit of Dr Kamil Idris, World Intellectual Property Organization Director General, 12 - 14 Mar 2006
+title: 'Visit of Dr Kamil Idris, World Intellectual Property Organization Director General, 12 - 14 Mar 2006'
 permalink: /news/press-releases/visit-of-dr-kamil-idris-world-intellectual-property-organization-director-general-12-14-mar-2006
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 13 Mar 2006 Posted in [Press releases](/news/press-releases)
 

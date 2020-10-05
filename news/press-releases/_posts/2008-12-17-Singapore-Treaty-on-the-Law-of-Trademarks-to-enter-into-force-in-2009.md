@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore Treaty on the Law of Trademarks to enter into force in 2009
+title: 'Singapore Treaty on the Law of Trademarks to enter into force in 2009'
 permalink: /news/press-releases/singapore-treaty-on-the-law-of-trademarks-to-enter-into-force-in-2009
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 Dec 2008 Posted in [Press releases](/news/press-releases)
 

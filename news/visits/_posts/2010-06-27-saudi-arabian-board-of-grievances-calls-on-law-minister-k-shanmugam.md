@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam
+title: 'Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam'
 permalink: /news/visits/brunei-attorney-general-yb-datin-paduka-hajah-hayati-bte-poksdsp-haji-salleh-calls-on-law-minister/
-breadcrumb: Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam
-collection_name: news
+breadcrumb: 'Saudi Arabian Board of Grievances calls on Law Minister K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}

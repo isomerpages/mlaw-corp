@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Addendum to the President's Address
+title: 'Addendum to the President''s Address'
 permalink: /news/press-releases/addendum-to-the-president-s-address-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 22 Jan 2016 Posted in [Press releases](/news/press-releases)
 

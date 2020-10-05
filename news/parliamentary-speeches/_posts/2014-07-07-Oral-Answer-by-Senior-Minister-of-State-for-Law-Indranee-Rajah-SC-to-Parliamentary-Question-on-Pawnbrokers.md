@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Pawnbrokers
-date:   2014-07-07
+title: 'Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on Pawnbrokers'
+date: 2014-07-07T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-to-pq-on-pawnbrokers
+
 ---
+
 
 
 7 Jul 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

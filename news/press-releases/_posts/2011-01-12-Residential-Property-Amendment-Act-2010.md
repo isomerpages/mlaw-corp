@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Residential Property (Amendment) Act 2010
+title: 'Residential Property (Amendment) Act 2010'
 permalink: /news/press-releases/residential-property-amendment-act-2010
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 12 Jan 2011 Posted in [Press releases](/news/press-releases)
 
 

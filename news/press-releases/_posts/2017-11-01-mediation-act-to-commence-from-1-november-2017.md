@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Mediation Act to commence from 1 November 2017
+title: 'Mediation Act to commence from 1 November 2017'
 permalink: /news/press-releases/mediation-act-to-commence-from-1-november-2017
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Nov 2017 [Press releases](/news/press-releases)
 

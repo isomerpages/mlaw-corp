@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Community Mediation Centre's 20th Anniversary Celebrations
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Community Mediation Centre''s 20th Anniversary Celebrations'
 permalink: /news/speeches/speech-by-sms-edwin-tong-cmc-20-anniversary
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 5 Oct 2018 Posted in [Speeches](/news/speeches)
 

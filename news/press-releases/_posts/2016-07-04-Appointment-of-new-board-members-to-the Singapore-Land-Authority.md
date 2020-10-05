@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Appointment of new board members to the Singapore Land Authority
+title: 'Appointment of new board members to the Singapore Land Authority'
 permalink: /news/press-releases/appointment-of-new-board-members-to-the--singapore-land-authorit
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 4 Jul 2016 Posted in [Press releases](/news/press-releases)
 

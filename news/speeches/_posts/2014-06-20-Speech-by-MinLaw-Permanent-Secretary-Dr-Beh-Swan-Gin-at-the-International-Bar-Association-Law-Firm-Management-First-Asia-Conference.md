@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by MinLaw Permanent Secretary Dr Beh Swan Gin at the International Bar Association Law Firm Management - First Asia Conference
+title: 'Speech by MinLaw Permanent Secretary Dr Beh Swan Gin at the International Bar Association Law Firm Management - First Asia Conference'
 permalink: /news/speeches/speech-by-ps-beh-swan-gin-international-bar-association-law-firm
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 20 Jun 2014 Posted in [Speeches](/news/speeches)
 

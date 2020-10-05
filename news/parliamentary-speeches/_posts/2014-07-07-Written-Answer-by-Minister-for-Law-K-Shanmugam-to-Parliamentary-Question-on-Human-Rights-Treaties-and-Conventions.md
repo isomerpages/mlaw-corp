@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Human Rights Treaties and Conventions
-date:   2014-07-07
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Human Rights Treaties and Conventions'
+date: 2014-07-07T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-on-human-rights-treaties-conventions
+
 ---
+
 
 7 Jul 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 <br>  

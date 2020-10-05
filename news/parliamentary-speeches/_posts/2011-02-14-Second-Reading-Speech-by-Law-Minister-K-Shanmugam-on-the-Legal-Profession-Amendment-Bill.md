@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Law Minister K Shanmugam on the Legal Profession (Amendment) Bill
-date:   2010-02-14
+title: 'Second Reading Speech by Law Minister K Shanmugam on the Legal Profession (Amendment) Bill'
+date: 2010-02-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-legal-profession-amendment-bill
+
 ---
+
 
 <div class="sub-list">
 <p>14 Feb 2011 Posted in <a href="/news/parliamentary-speeches">Parliamentary speeches and responses</a> </p>

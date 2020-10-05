@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Other Procedures for Part 8 Proceedings
+title: 'Other Procedures for Part 8 Proceedings'
 permalink: /covid19-relief/other-procedures-part8
-breadcrumb: Other Procedures for Part 8 Proceedings
-collection_name: covid19
-second_nav_title: Part 8 of the Act-Application for Relief
+breadcrumb: 'Other Procedures for Part 8 Proceedings'
+third_nav_title: 'Part 8 of the Act-Application for Relief'
+
 ---
+
 
 ### Other Procedures for Part 8 Proceedings ###
 

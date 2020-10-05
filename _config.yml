@@ -1,77 +1,54 @@
-title: Ministry of Law
-title-abbreviated: MLaw
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.mlaw.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Ministry of Law'
+description: Description
+url: 'https://www.mlaw.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://eservices.mlaw.gov.sg/enquiry/"
-
-# FAQ URL
-faq_url: "https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx"
-faq_url_external: true
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-
+custom_css_path: /misc/custom.css
 facebook-pixel: 2270612979901608
-
 google-tag-manager: GTM-WBM6PL5
-
-include: 
+include:
     - _redirects
-
-baseurl: ""
 collections:
-  who-we-are:
-    output: true
-  our-work:
-    output: true
-  law-firms:
-    output: true
-  admission-to-the-bar:
-    output: true
-  e-services:
-    output: true
-  join-us:
-    output: true
-  news:
-    output: true
-  about-us:
-    output: true
-  law-practice-entities-and-lawyers:
-    output: true
-  why-copyright-matters:
-    output: true
-  events:
-    output: true
-  events-2:
-    output: true
-  covid19:
-    output: true
-
+    who-we-are:
+        output: true
+    our-work:
+        output: true
+    law-firms:
+        output: true
+    admission-to-the-bar:
+        output: true
+    e-services:
+        output: true
+    join-us:
+        output: true
+    news:
+        output: true
+    about-us:
+        output: true
+    law-practice-entities-and-lawyers:
+        output: true
+    why-copyright-matters:
+        output: true
+    events:
+        output: true
+    events-2:
+        output: true
+    covid19:
+        output: true
 resources_name: news
+favicon: /images/favicon-minlaw.ico
+google-analytics: UA-10405444-20
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page

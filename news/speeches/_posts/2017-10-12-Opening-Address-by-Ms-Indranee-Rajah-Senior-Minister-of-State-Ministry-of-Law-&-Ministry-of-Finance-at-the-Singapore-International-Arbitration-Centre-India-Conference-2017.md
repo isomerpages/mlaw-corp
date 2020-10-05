@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law & Ministry of Finance, at the Singapore International Arbitration Centre India Conference 2017
+title: 'Opening Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law & Ministry of Finance, at the Singapore International Arbitration Centre India Conference 2017'
 permalink: /news/speeches/opening-address-sms-indranee-siac-india-conference-2017
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 12 Oct 2017 Posted in [Speeches](/news/speeches)
 

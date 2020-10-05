@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public feedback sought on the International Arbitration (Amendment) Bill
+title: 'Public feedback sought on the International Arbitration (Amendment) Bill'
 permalink: /news/press-releases/public-feedback-sought-on-the-international-arbitration-amendment-bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 27 Jul 2009 Posted in [Press releases](/news/press-releases)
 

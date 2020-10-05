@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Minister for Law, K Shanmugam, at the Rule of Law Symposium 2012
+title: 'Keynote Address by Minister for Law, K Shanmugam, at the Rule of Law Symposium 2012'
 permalink: /news/speeches/keynote-address-by-minister-for-law-k-shanmugam-at-the-rule-of-law-symposium-2012
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 14 Feb 2012 Posted in [Speeches](/news/speeches)
 

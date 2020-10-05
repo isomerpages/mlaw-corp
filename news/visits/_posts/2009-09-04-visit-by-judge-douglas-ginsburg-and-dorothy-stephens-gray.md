@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
+title: 'Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray'
 permalink: /news/visits/visit-by-judge-douglas-ginsburg-and-dorothy-stephens-gray/
-breadcrumb: Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray
-collection_name: news
+breadcrumb: 'Visit by Judge Douglas Ginsburg and Dorothy Stephens Gray'
+
 ---
+
 
 <style>
 .image {width: 600px;}

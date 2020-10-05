@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law's response to media queries arising from statements attributed to Minister for Law in relation to Mr Yong Vui Kong
+title: 'Ministry of Law''s response to media queries arising from statements attributed to Minister for Law in relation to Mr Yong Vui Kong'
 permalink: /news/replies/ministry-of-law-s-response-to-media-queries-arising-from-statements-attributed-to-minister-for-law/
-breadcrumb: Ministry of Law's response to media queries arising from statements attributed to Minister for Law in relation to Mr Yong Vui Kong
-collection_name: news
+breadcrumb: 'Ministry of Law''s response to media queries arising from statements attributed to Minister for Law in relation to Mr Yong Vui Kong'
+
 ---
+
 
 Ministry of Law's response to media queries arising from statements attributed to Minister for Law in relation to Mr Yong Vui Kong
 ---

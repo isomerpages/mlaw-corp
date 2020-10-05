@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Keynote Address by DPM Prof S Jayakumar at the the Opening Ceremony of the Conference on “Institutional Arbitration In Asia”"
+title: 'Keynote Address by DPM Prof S Jayakumar at the the Opening Ceremony of the Conference on “Institutional Arbitration In Asia”'
 permalink: /news/speeches/keynote-address-by-dpm-prof-s-jayakumar-at-the-the-opening-ceremony-of-the-conference-on
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 3 Oct 2006 Posted in [Speeches](/news/speeches)

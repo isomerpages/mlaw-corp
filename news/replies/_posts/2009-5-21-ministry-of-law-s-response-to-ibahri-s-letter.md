@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law's response to IBAHRI's letter
+title: 'Ministry of Law''s response to IBAHRI''s letter'
 permalink: /news/replies/ministry-of-law-s-response-to-ibahri-s-letter/
-breadcrumb: Ministry of Law's response to IBAHRI's letter
-collection_name: news
+breadcrumb: 'Ministry of Law''s response to IBAHRI''s letter'
+
 ---
+
 
 Ministry of Law's response to IBAHRI's letter
 ---

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
+title: 'Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers'
 permalink: /news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds/
-breadcrumb: Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
-collection_name: news
+breadcrumb: 'Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers'
+
 ---
+
 
 Responses to Feedback received from Public Consultation on the Proposed Anti-Money Laundering and Countering the Financing of Terrorism Regulatory Regime for Precious Stones and Metals Dealers
 ---

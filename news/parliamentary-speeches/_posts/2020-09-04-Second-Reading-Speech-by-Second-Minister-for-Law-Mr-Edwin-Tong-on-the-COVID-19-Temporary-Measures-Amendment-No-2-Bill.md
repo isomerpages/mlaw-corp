@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the COVID-19 (Temporary Measures) (Amendment No. 2) Bill
-date: 2020-09-04
+title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the COVID-19 (Temporary Measures) (Amendment No. 2) Bill'
+date: 2020-09-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Second-Minister-for-Law-Mr-Edwin-Tong-on-the-COVID-19-Temporary-Measures-Amendment-No-2-Bill
+
 ---
+
 
 04 Sep 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Penal Code
+title: 'Public Consultation on Proposed Amendments to the Penal Code'
 permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendements-to-the-Penal-Code
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Sep 2018 Posted in [Press releases](/news/press-releases)
 

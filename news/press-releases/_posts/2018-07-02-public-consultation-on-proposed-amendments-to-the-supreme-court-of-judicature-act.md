@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act
+title: 'Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act'
 permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 2 Jul 2018 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) today launched a public consultation to gather public feedback on proposed amendments to the Supreme Court of Judicature Act (SCJA). The public consultation will run from 2 to 30 July 2018.

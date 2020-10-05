@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debate 2016
-date:   2016-04-06
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debate 2016'
+date: 2016-04-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--duri
+
 ---
+
 
 6 Apr 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

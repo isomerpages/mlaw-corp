@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Enhancements to the Protection from Harassment Act (“POHA”)
+title: 'Enhancements to the Protection from Harassment Act (“POHA”)'
 permalink: /news/press-releases/Enhancements-to-the-Protection-from-Harassment-Act-POHA
-collection_name: news
+
 ---
+
 
 1 Apr 2019 Posted in [Press releases](/news/press-releases)
 

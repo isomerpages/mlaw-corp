@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, Tan Chong Boon, fined $36,000 - Press Release
-permalink: /news/press-releases/errant-licensed-moneylender--tan-chong-boon--fined--36-000---pre
+title: 'Errant Licensed Moneylender, Tan Chong Boon, fined $36,000 - Press Release'
+permalink: /news/press-releases/errant-licensed-moneylender--tan-chong-boon--fined--36-000
+
+---
+pre
 breadcrumb: Press Releases
 collection_name: news
 ---

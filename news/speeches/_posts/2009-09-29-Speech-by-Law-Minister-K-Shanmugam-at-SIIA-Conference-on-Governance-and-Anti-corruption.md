@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at SIIA Conference on Governance and Anti-corruption
+title: 'Speech by Law Minister K Shanmugam at SIIA Conference on Governance and Anti-corruption'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-siia-conference-on-governance-and-anti-corruption
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Sep 2009 Posted in [Speeches](/news/speeches)
 

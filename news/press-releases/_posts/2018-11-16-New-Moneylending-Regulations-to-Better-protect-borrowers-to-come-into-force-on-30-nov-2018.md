@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Moneylending Regulations to Better Protect Borrowers to Come Into Force on 30 Nov 2018
+title: 'New Moneylending Regulations to Better Protect Borrowers to Come Into Force on 30 Nov 2018'
 permalink: /news/press-releases/new-moneylending-regulations-for-protection-of-borrowers
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 16 Nov 2018 Posted in [Press releases](/news/press-releases)
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Signing Ceremony for the Agreement on Mutual Legal Assistance in Criminal Matters between the Government of the Republic of Singapore and the Government of the French Republic
-date:   2020-07-22
+title: 'Signing Ceremony for the Agreement on Mutual Legal Assistance in Criminal Matters between the Government of the Republic of Singapore and the Government of the French Republic'
+date: 2020-07-22T00:00:00.000Z
 permalink: /news/press-releases/Singapore-and-France-Sign-Agreement-on-Mutual-Legal-Assistance-in-Criminal-Matters
+
 ---
+
 22 Jul 2020 Posted in [Press releases](/news/press-releases)
 
 1. In a virtual ceremony held today, Singapore’s Minister for Home Affairs and Minister for Law, Mr K Shanmugam SC, and France’s Minister of Justice and Keeper of the Seals, Mr Éric Dupond-Moretti signed the Agreement on Mutual Legal Assistance in Criminal Matters between the Government of the Republic of Singapore and the Government of the French Republic (the “**Agreement**”). Singapore’s Ambassador to France, Mr Zainal Arif Mantaha, and France’s Ambassador to Singapore, Mr Marc Abensour, were also present to witness the signing, which was conducted over videoconference.

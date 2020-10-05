@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the 5th International Bar Association Asia Law Firm Management Conference
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the 5th International Bar Association Asia Law Firm Management Conference'
 permalink: /news/speeches/speech-by-sms-edwin-tong-5th-IBA-asia-law-firm-management-conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 18 Jan 2019 Posted in [Speeches](/news/speeches)

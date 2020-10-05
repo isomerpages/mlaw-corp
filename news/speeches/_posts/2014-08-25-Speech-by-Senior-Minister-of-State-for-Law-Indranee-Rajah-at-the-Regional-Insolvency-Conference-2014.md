@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the Regional Insolvency Conference 2014
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Regional Insolvency Conference 2014'
 permalink: /news/speeches/speech-by-sms-at-regional-insolvency-conf-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 25 Aug 2014 Posted in [Speeches](/news/speeches)

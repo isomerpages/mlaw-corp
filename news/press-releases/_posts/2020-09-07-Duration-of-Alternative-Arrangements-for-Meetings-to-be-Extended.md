@@ -1,9 +1,10 @@
 ---
-layout: post
-title: COVID-19 Relief Measures - Duration of Alternative Arrangements for Meetings to be Extended
-date: 2020-09-07
+title: 'COVID-19 Relief Measures - Duration of Alternative Arrangements for Meetings to be Extended'
+date: 2020-09-07T00:00:00.000Z
 permalink: /news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended
+
 ---
+
 
 07 Sep 2020 Posted in [Press releases](/news/press-releases)
 

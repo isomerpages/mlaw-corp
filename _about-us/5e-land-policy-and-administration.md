@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Land Policy & Administration
+title: 'Land Policy & Administration'
 permalink: /about-us/what-we-do/land-policy-and-administration/
-breadcrumb: Land Policy & Administration
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Land Policy & Administration'
+third_nav_title: 'What We Do'
+
 ---
+
 
 <style> 
  .image {width: 600px;} 

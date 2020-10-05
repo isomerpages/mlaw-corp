@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the inaugural Singapore International Arbitration Forum
+title: 'Speech by Law Minister K Shanmugam at the inaugural Singapore International Arbitration Forum'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-inaugural-singapore-international-arbitration-forum
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 21 Jan 2010 Posted in [Speeches](/news/speeches)
 <br>  

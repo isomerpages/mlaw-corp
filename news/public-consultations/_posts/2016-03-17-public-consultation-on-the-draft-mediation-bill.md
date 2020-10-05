@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Draft Mediation Bill
+title: 'Public Consultation on the Draft Mediation Bill'
 permalink: /news/public-consultations/public-consultation-on-the-draft-mediation-bill/
-breadcrumb: Public Consultation on the Draft Mediation Bill
-collection_name: news
+breadcrumb: 'Public Consultation on the Draft Mediation Bill'
+
 ---
+
 
 Public Consultation on the Draft Mediation Bill
 ---

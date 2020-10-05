@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Licensed Moneylenders
-date:   2016-05-09
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Licensed Moneylenders'
+date: 2016-05-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen
+
 ---
+
 
 9 May 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

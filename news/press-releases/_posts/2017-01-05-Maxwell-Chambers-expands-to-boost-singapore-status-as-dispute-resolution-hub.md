@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Maxwell Chambers Expands To Boost Singapore’s Status as Dispute Resolution Hub
+title: 'Maxwell Chambers Expands To Boost Singapore’s Status as Dispute Resolution Hub'
 permalink: /news/press-releases/maxwell-chambers-expands--to-boost-singapores-status-as-dispute-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 5 Jan 2017 Posted in [Press releases](/news/press-releases)
 

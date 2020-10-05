@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Career Opportunities
+title: 'Career Opportunities'
 permalink: /join-us/career-opportunities/
-breadcrumb: Career Opportunities
-collection_name: join-us
+breadcrumb: 'Career Opportunities'
+
 ---
+
 
 <style>
   .image {width: 400px;}

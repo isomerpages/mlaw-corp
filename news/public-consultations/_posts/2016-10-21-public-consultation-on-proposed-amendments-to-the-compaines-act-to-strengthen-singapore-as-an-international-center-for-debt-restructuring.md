@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
+title: 'Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-companies-act-/
-breadcrumb: Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
 ---

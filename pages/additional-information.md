@@ -1,10 +1,11 @@
 ---
-layout: simple-page
-title: Additional Information
+title: 'Additional Information'
 permalink: /about-us/what-we-do/additional-information/
-breadcrumb: Additional Information
-second_nav_title: What We Do
+breadcrumb: 'Additional Information'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Additional information
 ---

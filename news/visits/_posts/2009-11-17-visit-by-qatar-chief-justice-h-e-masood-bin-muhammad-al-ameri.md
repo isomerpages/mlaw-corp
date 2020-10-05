@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
+title: 'Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri'
 permalink: /news/visits/visit-by-qatar-chief-justice-h-e-masood-bin-muhammad-al-ameri/
-breadcrumb: Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri
-collection_name: news
+breadcrumb: 'Visit by Qatar Chief Justice H.E. Masood Bin Muhammad Al-Ameri'
+
 ---
+
 
 <style>
 .image {width: 600px;}

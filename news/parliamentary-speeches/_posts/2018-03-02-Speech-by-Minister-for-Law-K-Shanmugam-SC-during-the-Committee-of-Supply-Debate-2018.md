@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, K Shanmugam SC, during the Committee of Supply Debate 2018
+title: 'Speech by Minister for Law, K Shanmugam SC, during the Committee of Supply Debate 2018'
 permalink: /news/parliamentary-speeches/speech-by-minister-for-law-k-shanmugam-sc-during-the-committee-of-supply-debate-2018
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 2 Mar 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

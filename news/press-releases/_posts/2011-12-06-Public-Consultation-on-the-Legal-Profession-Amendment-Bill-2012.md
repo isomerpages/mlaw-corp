@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Legal Profession (Amendment) Bill 2012
+title: 'Public Consultation on the Legal Profession (Amendment) Bill 2012'
 permalink: /news/press-releases/public-consultation-on-the-legal-profession-amendment-bill-2012
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 6 Dec 2011 Posted in [Press releases](/news/press-releases)

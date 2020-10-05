@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Personal Protection Orders
-date:   2019-09-02
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Personal Protection Orders'
+date: 2019-09-02T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Personal-Protection-Orders
+
 ---
+
 
 
 2 Sep 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 

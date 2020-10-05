@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Fact sheet on the Civil Law (Amendment) Bill 2012
+title: 'Fact sheet on the Civil Law (Amendment) Bill 2012'
 permalink: /news/press-releases/fact-sheet-on-the-civil-law-amendment-bill-2012
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 10 Sep 2012 Posted in [Press releases](/news/press-releases)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Closing remarks by SMS Assoc Prof Ho Peng Kee at The Originals IP Champion Camp 2010 Judging and Prize Presentation
+title: 'Closing remarks by SMS Assoc Prof Ho Peng Kee at The Originals IP Champion Camp 2010 Judging and Prize Presentation'
 permalink: /news/speeches/closing-remarks-by-sms-assoc-prof-ho-peng-kee-at-the-originals-ip-champion-camp-2010-judging-and
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 26 Nov 2010 Posted in [Speeches](/news/speeches)

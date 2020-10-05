@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Address by Law Minister K Shanmugam at the opening of the 55th Council Meeting of the Asian Patent Attorney's Association
+title: 'Address by Law Minister K Shanmugam at the opening of the 55th Council Meeting of the Asian Patent Attorney''s Association'
 permalink: /news/speeches/address-by-law-minister-k-shanmugam-at-the-opening-of-the-55th-council-meeting-of-the-asian-patent
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Oct 2008 Posted in [Speeches](/news/speeches)
 

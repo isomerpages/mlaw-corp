@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Statutes (Misc Amendment) Bill by SMS A&#47;P Ho Peng Kee, 22 Jan 2007
-date:   2007-01-22
+title: 'Second Reading Speech on Statutes (Misc Amendment) Bill by SMS A&#47;P Ho Peng Kee, 22 Jan 2007'
+date: 2007-01-22T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-statutes-misc-amendment-bill-by-sms-a-p-ho-peng-kee-22-jan-2007
+
 ---
+
 
 22 Jan 2007 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

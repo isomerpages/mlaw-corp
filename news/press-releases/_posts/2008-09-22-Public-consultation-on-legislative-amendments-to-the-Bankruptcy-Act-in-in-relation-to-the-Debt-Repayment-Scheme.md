@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public consultation on legislative amendments to the Bankruptcy Act in in relation to the Debt Repayment Scheme
+title: 'Public consultation on legislative amendments to the Bankruptcy Act in in relation to the Debt Repayment Scheme'
 permalink: /news/press-releases/press-releases/public-consultation-on-legislative-amendments-to-the-bankruptcy-act-in-in-relation-to-the-debt
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 22 Sep 2008 Posted in [Press releases](/news/press-releases)

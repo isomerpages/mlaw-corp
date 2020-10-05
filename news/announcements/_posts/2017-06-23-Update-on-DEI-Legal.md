@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Update on DEI Legal
-date:   2017-06-23
+title: 'Update on DEI Legal'
+date: 2017-06-23T00:00:00.000Z
 permalink: /news/announcements/update-on-dei-legal
+
 ---
+
 
 23 Jun 2017 Posted in [Announcements](/news/announcements)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: SMS Assoc Prof Ho Peng Kee’s Opening Address for the 4th China-Singapore Intellectual Property Conference
+title: 'SMS Assoc Prof Ho Peng Kee’s Opening Address for the 4th China-Singapore Intellectual Property Conference'
 permalink: /news/speeches/sms-assoc-prof-ho-peng-kee-s-opening-address-for-the-4th-china-singapore-intellectual-property
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Aug 2010 Posted in [Speeches](/news/speeches)
 

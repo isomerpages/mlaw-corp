@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Responses To Feedback On Unsecured Credit Rules
+title: 'Responses To Feedback On Unsecured Credit Rules'
 permalink: /news/press-releases/responses-to-feedback-on-unsecured-credit-rules
-collection_name: news
+
 ---
+
 7 Aug 2006 Posted in [Press releases](/news/press-releases)
 
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Press Statement
+title: 'Press Statement'
 permalink: /news/press-releases/press-statement
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 18 Aug 1999 Posted in [Press releases](/news/press-releases)

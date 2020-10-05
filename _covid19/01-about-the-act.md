@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About the Act
+title: 'About the Act'
 permalink: /covid19-relief/
-breadcrumb: About the Act
-collection_name: covid19
+breadcrumb: 'About the Act'
+
 ---
+
 ### About the Act ###
 
 > “You’re looking at economic devastation. Businesses destroyed, people’s lives ruined, and in such a situation, you don’t talk contract. You talk equity, you talk justice, you talk about what is the right thing to do.” - Minister for Law K Shanmugam SC, Interview with CNBC, 7 April 2020

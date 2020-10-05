@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Singapore Convention On Mediation Opens For Signature on 7 August
-date:   2019-07-22
+title: 'Singapore Convention On Mediation Opens For Signature on 7 August'
+date: 2019-07-22T00:00:00.000Z
 permalink: /news/press-releases/Press-Release-Singapore-Convention-on-Mediation-Opens-for-Signature-on-7-August
+
 ---
+
 
 22 Jul 2019 Posted in [Press releases](/news/press-releases)
 

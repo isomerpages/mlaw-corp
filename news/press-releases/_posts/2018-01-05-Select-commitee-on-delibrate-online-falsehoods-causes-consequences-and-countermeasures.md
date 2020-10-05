@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Select Commitee On Deliberate Online Falsehoods: Causes, Consequences and Countermeasures"
+title: 'Select Commitee On Deliberate Online Falsehoods: Causes, Consequences and Countermeasures'
 permalink: /news/press-releases//select-committee-deliberate-online-falsehoods
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 5 Jan 2018 Posted in [Press releases](/news/press-releases)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to feedback received from Public Consultation of the report of the Insolvency Law Review Committee
+title: 'Response to feedback received from Public Consultation of the report of the Insolvency Law Review Committee'
 permalink: /news/public-consultations/response-to-feedback-from-public-consultation-on-ILRC-report0/
-breadcrumb: Response to feedback received from Public Consultation of the report of the Insolvency Law Review Committee
-collection_name: news
+breadcrumb: 'Response to feedback received from Public Consultation of the report of the Insolvency Law Review Committee'
+
 ---
+
 
 **Consultation Period:**    
 7 Oct 2013 to 2 Dec 2013

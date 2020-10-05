@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Amendments to en bloc sale legislation take effect on 4 Oct 2007
+title: 'Amendments to en bloc sale legislation take effect on 4 Oct 2007'
 permalink: /news/press-releases/amendments-to-en-bloc-sale-legislation-take-effect-on-4-oct-2007
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 3 Oct 2007 Posted in [Press releases](/news/press-releases)
 

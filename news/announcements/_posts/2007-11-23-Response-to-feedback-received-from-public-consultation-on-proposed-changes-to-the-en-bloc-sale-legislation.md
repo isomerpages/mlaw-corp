@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to feedback received from public consultation on proposed changes to the en bloc sale legislation
+title: 'Response to feedback received from public consultation on proposed changes to the en bloc sale legislation'
 permalink: /news/announcements/response-to-feedback-received-from-public-consultation-on-proposed-changes-to-the-en-bloc-sale
 breadcrumb: Announcements
-collection_name: news
+
 ---
+
 
 23 Nov 2007 Posted in [Announcements](/news/announcements)
 

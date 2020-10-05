@@ -1,9 +1,10 @@
 ---
-layout: post
-title: MinLaw-BCA Information Note - COVID-19 (Temporary Measures) Act 2020 - Commencement of Part 8 Relief for Contracts Affected by Construction Delays
-date: 2020-09-30
-permalink: /news/announcements/Commencement-of-Part-8-Relief-for-Contracts-Affected-by-Construction-Delays 
+title: 'MinLaw-BCA Information Note - COVID-19 (Temporary Measures) Act 2020 - Commencement of Part 8 Relief for Contracts Affected by Construction Delays'
+date: 2020-09-30T00:00:00.000Z
+permalink: /news/announcements/Commencement-of-Part-8-Relief-for-Contracts-Affected-by-Construction-Delays
+
 ---
+
 
 30 Sep 2020 Posted in [Announcements](/news/announcements)
 

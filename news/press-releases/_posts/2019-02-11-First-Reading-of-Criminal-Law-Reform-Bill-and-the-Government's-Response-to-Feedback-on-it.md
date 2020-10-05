@@ -1,11 +1,11 @@
 ---
-layout: post
-title: First Reading of Criminal Law Reform Bill and the Government's Response to Feedback on it
-date: 2019-02-11
+title: 'First Reading of Criminal Law Reform Bill and the Government''s Response to Feedback on it'
+date: 2019-02-11T00:00:00.000Z
 permalink: /news/press-releases/First-reading-of-criminal-law-reform-bill-and-the-Governments-response
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 11 Feb 2019 Posted in [Press releases](/news/press-releases)
 
 1. The Criminal Law Reform Bill was introduced in Parliament for First Reading today. The Bill introduces amendments to the Penal Code, to ensure that it remains relevant and up-to-date. The Bill also amends other legislation, such as the Criminal Procedure Code, the Children and Young Persons Act and the Women’s Charter to make related changes. 

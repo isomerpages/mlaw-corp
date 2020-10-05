@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Opening Address by Minister for Law, K Shanmugam, at IP Week @ SG 2014"
+title: 'Opening Address by Minister for Law, K Shanmugam, at IP Week @ SG 2014'
 permalink: /news/speeches/opening-address-by-min-for-ipweek-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 26 Aug 2014 Posted in [Speeches](/news/speeches)
 

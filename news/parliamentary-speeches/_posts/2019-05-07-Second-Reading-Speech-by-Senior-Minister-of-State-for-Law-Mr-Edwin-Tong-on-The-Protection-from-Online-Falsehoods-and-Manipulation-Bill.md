@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on The Protection from Online Falsehoods and Manipulation Bill
-date:   2019-05-07
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on The Protection from Online Falsehoods and Manipulation Bill'
+date: 2019-05-07T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-state-for-Law-Mr-Edwin-Tong-on-pofma
+
 ---
+
 
 7 May 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 

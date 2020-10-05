@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Senior Minister of State for Law, Indranee Rajah, concludes working visit to Myanmar
+title: 'Senior Minister of State for Law, Indranee Rajah, concludes working visit to Myanmar'
 permalink: /news/press-releases/SMS-working-visit-to-myanmar
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Oct 2014 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of the Professional Service Industry Transformation Map & Opening of Dentsu Aegis Network's Asia Pacific Headquarters
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of the Professional Service Industry Transformation Map & Opening of Dentsu Aegis Network''s Asia Pacific Headquarters'
 permalink: /news/speeches/speech-by-sms-indranee-rajah-professional-services-industry-transformation-map
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 24 Jan 2018 Posted in [Speeches](/news/speeches) 
 

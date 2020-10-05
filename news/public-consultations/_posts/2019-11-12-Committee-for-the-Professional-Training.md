@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers
-date:   2019-11-15
+title: 'Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers'
+date: 2019-11-15T00:00:00.000Z
 permalink: /news/public-consultations/Public-Consultation-to-Implement-the-Committee-for-the-Professional-Tranining
+
 ---
+
 
 Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers
 ---

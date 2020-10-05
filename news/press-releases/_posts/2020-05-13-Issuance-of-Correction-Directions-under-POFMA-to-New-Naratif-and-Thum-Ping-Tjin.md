@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to New Naratif and Mr Thum Ping Tjin
-date: 2020-05-13
+title: 'Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to New Naratif and Mr Thum Ping Tjin'
+date: 2020-05-13T00:00:00.000Z
 permalink: /news/press-releases/Issuance-of-Correction-Directions-under-POFMA-to-New-Naratif-and-Thum-Ping-Tjin
+
 ---
+
 
 13 May 2020 Posted in [Press releases](/news/press-releases)
 

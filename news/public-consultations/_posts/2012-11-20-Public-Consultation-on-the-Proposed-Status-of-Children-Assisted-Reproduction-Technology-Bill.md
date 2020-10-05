@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill
+title: 'Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill'
 permalink: /news/public-consultations/public-consultation-on-the-proposed-SOC-Bill
-breadcrumb: Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill
-collection_name: news
+breadcrumb: 'Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill'
+
 ---
+
 
 **Consultation Period:**  
 20 Nov 2012 to 20 Dec 2012

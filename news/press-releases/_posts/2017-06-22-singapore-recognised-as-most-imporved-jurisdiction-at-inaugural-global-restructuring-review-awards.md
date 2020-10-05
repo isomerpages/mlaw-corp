@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore Recognised as Most Improved Jurisdiction at Inaugural Global Restructuring Review Awards
+title: 'Singapore Recognised as Most Improved Jurisdiction at Inaugural Global Restructuring Review Awards'
 permalink: /news/press-releases/singapore-recognised-as-most-improved-jurisdiction-at-inaugural-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 22 Jun 2017 Posted in [Press releases](/news/press-releases)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Errant Licensed Moneylender, Skyline Credit, Fined
+title: 'Errant Licensed Moneylender, Skyline Credit, Fined'
 permalink: /news/press-releases/errant-licensed-moneylender--skyline-credit--fined
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Feb 2016 Posted in [Press releases](/news/press-releases)
 

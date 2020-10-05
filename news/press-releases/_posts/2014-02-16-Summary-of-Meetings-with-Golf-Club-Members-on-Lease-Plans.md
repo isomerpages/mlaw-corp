@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Summary of Meetings with Golf Club Members on Lease Plans
+title: 'Summary of Meetings with Golf Club Members on Lease Plans'
 permalink: /news/press-releases/summary-meetings-golf-members
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 16 Feb 2014 Posted in [Press releases](/news/press-releases)
 

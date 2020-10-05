@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Guidance Note on Key Changes to the Legal Profession Act (Effective from 3 May 2011)
-date:   2011-05-03
+title: 'Guidance Note on Key Changes to the Legal Profession Act (Effective from 3 May 2011)'
+date: 2011-05-03T00:00:00.000Z
 permalink: /news/announcements/guidance-note-on-key-changes-to-the-legal-profession-act-effective-from-3-may-2011-
+
 ---
+
 
 3 May 2011 Posted in [Announcements](/news/announcements)
 

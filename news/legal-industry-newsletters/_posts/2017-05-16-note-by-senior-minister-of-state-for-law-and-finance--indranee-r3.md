@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r3/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., to Legal Profession on Technology'
+
 ---
+
 
 <style>
   .image {width: 200px;}

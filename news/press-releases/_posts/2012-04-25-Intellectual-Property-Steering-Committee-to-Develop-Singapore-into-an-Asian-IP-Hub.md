@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Intellectual Property Steering Committee to Develop Singapore into an Asian IP Hub
+title: 'Intellectual Property Steering Committee to Develop Singapore into an Asian IP Hub'
 permalink: /news/press-releases/intellectual-property-steering-committee-to-develop-singapore-into-an-asian-ip-hub
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Apr 2012 Posted in [Press releases](/news/press-releases)
 
