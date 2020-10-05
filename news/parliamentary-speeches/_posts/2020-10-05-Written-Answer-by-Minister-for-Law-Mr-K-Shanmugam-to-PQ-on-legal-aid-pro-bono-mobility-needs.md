@@ -1,6 +1,6 @@
 ---
-title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Avenues for Legal Aid or Pro Bono Legal Services for Singaporeans with Mobility Needs Encountering Significant Difficulty Leaving Home
-date: 2020-09-04T00:00:00.000Z
+title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Avenues for Legal Aid or Pro Bono Legal Services for Singaporeans with Mobility Needs Encountering Significant Difficulty Leaving Home
+date: 2020-10-05
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-legal-aid-pro-bono-mobility-needs
 
 ---
