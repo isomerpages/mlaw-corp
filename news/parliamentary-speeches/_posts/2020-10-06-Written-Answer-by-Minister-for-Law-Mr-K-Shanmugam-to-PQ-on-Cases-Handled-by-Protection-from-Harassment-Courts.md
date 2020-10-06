@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-
 Mr Leon Perera (Member of Parliament for Aljunied GRC) 
 
 <b><u>Question</u></b>
-To ask the Minister for Law (a) since the Protection from Harassment Act was amended in 2019, what is the number of cases handled by the Protection from Harassment Courts; (b) what is the breakdown between applications for protection orders and expedited protection orders and the outcomes for these applications; and (c) what is the average time between the filing of the application and the application being heard. 
+<br>To ask the Minister for Law (a) since the Protection from Harassment Act was amended in 2019, what is the number of cases handled by the Protection from Harassment Courts; (b) what is the breakdown between applications for protection orders and expedited protection orders and the outcomes for these applications; and (c) what is the average time between the filing of the application and the application being heard. 
 
 
 **<b><u>Written Answer:</u></b>**  
