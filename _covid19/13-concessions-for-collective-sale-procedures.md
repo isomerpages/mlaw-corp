@@ -28,5 +28,9 @@ Upon notification of the application outcome, an applicant is required to serve 
 #### Additional Resources ####
 
 * [COVID-19 (Temporary Measures) (Temporary Measures for Conduct of Collective Sale of Property) Order 2020](https://sso.agc.gov.sg/SL-Supp/S870-2020/Published/20201005?DocDate=20201005){:target="_blank"}
-* [Form A1 – Application for Concession on Collective Sale of Property Affected by COVID-19 Event](/files/FormA1-Application.pdf)
-* [Form A2 – Objection to Application for Concession on Collective Sale of Property Affected by COVID-19 Event](/files/FormA2-Objection.pdf)
+* Form A1 – Application for Concession on Collective Sale of Property Affected by COVID-19 Event
+  * [.docx](/files/FormA1-Application.docx) (Editable version - To be filled in for submission)
+  * [.pdf](/files/FormA1-Application.pdf) (For reference)
+* Form A2 – Objection to Application for Concession on Collective Sale of Property Affected by COVID-19 Event
+  * [.docx](/files/FormA2-Objection.docx) (Editable version - To be filled in for submission)
+  * [.pdf](/files/FormA2-Objection.pdf) (For reference)
