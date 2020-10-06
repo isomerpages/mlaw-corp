@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Raionale for Imposing Cost to File a Claim Before Community Disputes Resolution Tribunals
+title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Rationale for Imposing Cost to File a Claim Before Community Disputes Resolution Tribunals
 date: 2020-10-06
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-rationale-for-imposing-cost-CDRT
 
