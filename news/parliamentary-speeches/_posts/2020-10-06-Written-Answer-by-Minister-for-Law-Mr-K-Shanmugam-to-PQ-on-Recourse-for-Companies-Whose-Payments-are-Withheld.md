@@ -9,7 +9,7 @@ permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-
 Miss Cheng Li Hui (Member of Parliament for Tampines GRC) 
 
 <b><u>Question</u></b>
-To ask the Minister for Law in light of the current tough business environment, whether the COVID-19 related legislation provides for companies, especially SMEs, whose payments are withheld because of disagreement in interpretation of contract terms to seek recourse and, if so, what are these.  
+<br>To ask the Minister for Law in light of the current tough business environment, whether the COVID-19 related legislation provides for companies, especially SMEs, whose payments are withheld because of disagreement in interpretation of contract terms to seek recourse and, if so, what are these.  
 
 
 **<b><u>Written Answer:</u></b>**  
