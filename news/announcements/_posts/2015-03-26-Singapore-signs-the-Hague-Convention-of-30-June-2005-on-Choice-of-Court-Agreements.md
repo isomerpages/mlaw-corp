@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Singapore signs the Hague Convention of 30 June 2005 on Choice of Court Agreements
-date:   2015-03-26
+title: 'Singapore signs the Hague Convention of 30 June 2005 on Choice of Court Agreements'
+date: 2015-03-26T00:00:00.000Z
 permalink: /news/announcements/sg-signs-cocagreement
+
 ---
+
 
 26 Mar 2015 Posted in [Announcements](/news/announcements/)
 
