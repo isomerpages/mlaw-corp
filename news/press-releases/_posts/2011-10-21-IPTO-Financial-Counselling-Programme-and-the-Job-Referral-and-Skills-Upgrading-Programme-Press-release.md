@@ -1,10 +1,10 @@
 ---
-layout: post
-title: IPTO's Financial Counselling Programme and the Job Referral and Skills Upgrading Programme - Press release
+title: 'IPTO''s Financial Counselling Programme and the Job Referral and Skills Upgrading Programme - Press release'
 permalink: /news/press-releases/ipto-s-financial-counselling-programme-and-the-job-referral-and-skills-upgrading-programme-press
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 21 Oct 2011 Posted in [Press releases](/news/press-releases)
