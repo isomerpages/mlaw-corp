@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Selected Determinations made by Assessors under the Act
+title: 'Selected Determinations made by Assessors under the Act'
 permalink: /covid19-relief/selected-determinations-made-by-assessors
-breadcrumb: Selected Determinations made by Assessors under the Act
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+breadcrumb: 'Selected Determinations made by Assessors under the Act'
+third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+
 ---
+
 ### Selected Determinations made by Assessors under the Act ###
 
 Selected cases that have been determined by Assessors appointed under the COVID-19 (Temporary Measures) Act 2020 have been compiled.
