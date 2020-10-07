@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the opening ceremony of the inaugural Singapore Corporate Counsel Association Regional Conference 2009
+title: 'Speech by Law Minister K Shanmugam at the opening ceremony of the inaugural Singapore Corporate Counsel Association Regional Conference 2009'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-opening-ceremony-of-the-inaugural-singapore-corporate
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 2 Apr 2009 Posted in [Speeches](/news/speeches)
 <br>  
