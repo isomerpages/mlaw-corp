@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Opening Keynote Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at Law Society Neutral Evaluation & Determination Forum
-date:   2018-09-17
+title: 'Opening Keynote Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at Law Society Neutral Evaluation & Determination Forum'
+date: 2018-09-17T00:00:00.000Z
 permalink: /news/speeches/opening-keynote-address-mr-edwin-tong-law-soc-neutral-evaluation-and-determination-forum
+
 ---
+
 
 Good morning, Mr Vijayendran, and also to Mr Chong Yee Leong and Mr Chia Chor Leong, the chair and co-chair respectively.<sup>[1]</sup> My congratulations to the Law Society for launching the Neutral Evaluation and Determination Scheme, and relaunching the Law Society Arbitration Scheme, which, as we heard from Yee Leong earlier, now has added features to it.  The implementation of the new scheme, is the much-needed third peg of the triumvirate, and this now broadens the range of out-of-court offerings to the public. Like its sister schemes, the new scheme is designed to be cost-effective and very much client-centric. So to give you an example of claims above $250,000, claims which would otherwise have gone to the High Court in Singapore, the neutral’s maximum fee is capped at $15,000. The new scheme also goes well beyond the tripartite processes of litigation, arbitration and mediation. These initiatives reflect the diversity of our dispute resolution landscape, and I will just pause for a moment to reflect on that.
 
