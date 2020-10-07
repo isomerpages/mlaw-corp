@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore and Vietnam sign agreement on legal and judicial cooperation
+title: 'Singapore and Vietnam sign agreement on legal and judicial cooperation'
 permalink: /news/press-releases/singapore-and-vietnam-sign-agreement-on-legal-and-judicial-cooperation
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 12 Mar 2008 Posted in [Press releases](/news/press-releases)
