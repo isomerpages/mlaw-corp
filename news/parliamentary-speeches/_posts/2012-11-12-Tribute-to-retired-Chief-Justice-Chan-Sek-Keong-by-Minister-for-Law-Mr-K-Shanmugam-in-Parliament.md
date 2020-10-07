@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Tribute to retired Chief Justice Chan Sek Keong by Minister for Law, Mr K Shanmugam, in Parliament
-date:   2012-11-12
+title: 'Tribute to retired Chief Justice Chan Sek Keong by Minister for Law, Mr K Shanmugam, in Parliament'
+date: 2012-11-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/tribute-to-retired-chief-justice-chan-sek-keong-by-minister-for-
+
 ---
+
 
 12 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
