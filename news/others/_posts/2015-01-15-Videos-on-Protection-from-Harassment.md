@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Videos on Protection from Harassment
+title: 'Videos on Protection from Harassment'
 permalink: /news/others/protection-from-harassment
 breadcrumb: Others
-collection_name: news
+
 ---
+
 
 15 Jan 2015 Posted in [Others](/news/others)
 
