@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Implementation of the New Moneylenders Act and Rules
+title: 'Implementation of the New Moneylenders Act and Rules'
 permalink: /news/press-releases/implementation-of-the-new-moneylenders-act-and-rules
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Feb 2009 Posted in [Press releases](/news/press-releases)
 
