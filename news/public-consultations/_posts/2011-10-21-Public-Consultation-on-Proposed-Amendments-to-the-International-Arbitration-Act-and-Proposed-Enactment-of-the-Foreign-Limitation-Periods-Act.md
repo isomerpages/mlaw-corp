@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the International Arbitration Act and Proposed Enactment of the Foreign Limitation Periods Act
+title: 'Public Consultation on Proposed Amendments to the International Arbitration Act and Proposed Enactment of the Foreign Limitation Periods Act'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-international-arbitration-act-and-proposed
-breadcrumb: Public Consultations
-collection_name: news
+breadcrumb: 'Public Consultations'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the International Arbitration Act and Proposed Enactment of the Foreign Limitation Periods Act
 ---
