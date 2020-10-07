@@ -1,9 +1,9 @@
 ---
-layout: post
-title: MAS And MinLaw Issue Responses To Feedback On Proposed Changes To Unsecured Credit Rules
+title: 'MAS And MinLaw Issue Responses To Feedback On Proposed Changes To Unsecured Credit Rules'
 permalink: /news/press-releases/mas-and-minlaw-issue-responses-to-feedback-on-proposed-changes-to-unsecured-credit-rules
-collection_name: news
+
 ---
+
 
 1 Feb 2007 Posted in [Press releases](/news/press-releases)
 
