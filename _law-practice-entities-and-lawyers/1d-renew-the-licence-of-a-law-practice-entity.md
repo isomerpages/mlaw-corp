@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Renew the Licence of a Law Practice Entity
+title: 'Renew the Licence of a Law Practice Entity'
 permalink: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/renew-the-licence-of-a-law-practice-entity/
-breadcrumb: Renew the Licence of a Law Practice Entity
-collection_name: law-practice-entities-and-lawyers
-second_nav_title: Licensing Or Registration Of Law Practice Entities
+breadcrumb: 'Renew the Licence of a Law Practice Entity'
+third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
+
 ---
+
 
 <style>
 table tr td ul li {font-size: 1rem;}
