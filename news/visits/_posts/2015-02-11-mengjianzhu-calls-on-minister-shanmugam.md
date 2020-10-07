@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Call on Minister for Law K Shanmugam by Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary Meng Jianzhu
+title: 'Call on Minister for Law K Shanmugam by Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary Meng Jianzhu'
 permalink: /news/visits/mengjianzhu-calls-on-minister-shanmugam/
-breadcrumb: Call on Minister for Law K Shanmugam by Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary Meng Jianzhu
-collection_name: news
+breadcrumb: 'Call on Minister for Law K Shanmugam by Communist Party of China Central Committee Political Bureau Member and Political and Legal Affairs Commission Secretary Meng Jianzhu'
+
 ---
+
 
 <style>
 .image {width: 600px;}
