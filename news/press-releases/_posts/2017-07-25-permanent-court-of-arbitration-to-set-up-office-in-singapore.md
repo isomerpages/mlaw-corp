@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Permanent Court of Arbitration to set up office in Singapore
+title: 'Permanent Court of Arbitration to set up office in Singapore'
 permalink: /news/press-releases/permanent-court-of-arbitration-to-set-up-office-in-singapore-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Jul 2017 Posted in [Press releases](/news/press-releases)
 
