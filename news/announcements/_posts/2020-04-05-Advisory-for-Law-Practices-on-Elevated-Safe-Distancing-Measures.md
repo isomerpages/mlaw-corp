@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Advisory for Law Practices on Elevated Safe Distancing Measures
-date:   2020-04-05
+title: 'Advisory for Law Practices on Elevated Safe Distancing Measures'
+date: 2020-04-05T00:00:00.000Z
 permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Distancing-Measures
+
 ---
+
 
 05 Apr 2020 Posted in [Announcements](/news/announcements)
 
