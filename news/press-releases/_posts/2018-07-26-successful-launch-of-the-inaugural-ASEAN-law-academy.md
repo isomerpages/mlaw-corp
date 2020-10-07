@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Successful Launch of the Inaugural ASEAN Law Academy
+title: 'Successful Launch of the Inaugural ASEAN Law Academy'
 permalink: /news/press-releases/Successful-Launch-of-the-Inaugural-ASEAN-Law-Academy
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Jul 2018 Posted in [Press releases](/news/press-releases)
 
