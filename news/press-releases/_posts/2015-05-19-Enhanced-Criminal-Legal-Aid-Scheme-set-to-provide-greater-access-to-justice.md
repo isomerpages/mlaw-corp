@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Enhanced Criminal Legal Aid Scheme set to provide greater access to justice
+title: 'Enhanced Criminal Legal Aid Scheme set to provide greater access to justice'
 permalink: /news/press-releases/Enhanced-CLAS-to-provide-greater-access-to-justice
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 19 May 2015 Posted in [Press releases](/news/press-releases)
 
