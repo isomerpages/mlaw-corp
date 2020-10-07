@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to feedback received from Public Consultation on the Proposed Amendments to the Bankruptcy Act
+title: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Bankruptcy Act'
 permalink: /news/public-consultations/responses-to-feedback-received-from-public-consultation-on-the-p/
-breadcrumb: Responses to feedback received from Public Consultation on the Proposed Amendments to the Bankruptcy Act
-collection_name: news
+breadcrumb: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Bankruptcy Act'
+
 ---
+
 
 Responses to feedback received from Public Consultation on the Proposed Amendments to the Bankruptcy Act
 ---
