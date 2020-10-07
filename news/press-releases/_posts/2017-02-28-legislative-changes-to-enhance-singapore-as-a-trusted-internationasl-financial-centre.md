@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legislative Changes to Enhance Singapore as a Trusted International Financial Centre
+title: 'Legislative Changes to Enhance Singapore as a Trusted International Financial Centre'
 permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as-a-trusted-internatio
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 Feb 2017 Posted in [Press releases](/news/press-releases)
 
