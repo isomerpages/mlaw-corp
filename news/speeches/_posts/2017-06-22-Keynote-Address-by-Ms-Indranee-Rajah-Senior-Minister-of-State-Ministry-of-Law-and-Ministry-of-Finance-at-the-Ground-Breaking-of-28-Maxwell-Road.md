@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Ground-Breaking of 28 Maxwell Road
+title: 'Keynote Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Ground-Breaking of 28 Maxwell Road'
 permalink: /news/speeches/keynote-address-by-ms-indranee-rajah--senior-minister-of-state--
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 22 Jun 2017 Posted in [Speeches](/news/speeches)
 
