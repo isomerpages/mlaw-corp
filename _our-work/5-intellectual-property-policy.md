@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Intellectual Property Policy
+title: 'Intellectual Property Policy'
 permalink: /our-work/intellectual-property-policy/
-breadcrumb: Intellectual Property Policy
-collection_name: our-work
+breadcrumb: 'Intellectual Property Policy'
+
 ---
+
 
 > Intellectual property (IP) rights are essential to support an innovation-driven economy and the growth of industry and commerce in Singapore. The Ministry of Law (MinLaw) is committed to maintaining an IP regime that is balanced, well-regarded internationally, and supports value creation.
 
