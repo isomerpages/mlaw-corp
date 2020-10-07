@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Proposed Licensing Scheme for Independent Counsel
+title: 'Public Consultation on Proposed Licensing Scheme for Independent Counsel'
 permalink: /news/public-consultations/public-consultation-on-proposed-licensing-scheme-for-independent-counsel/
-breadcrumb: Public Consultation on Proposed Licensing Scheme for Independent Counsel
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Licensing Scheme for Independent Counsel'
+
 ---
+
 
 Public Consultation on Proposed Licensing Scheme for Independent Counsel
 ---
