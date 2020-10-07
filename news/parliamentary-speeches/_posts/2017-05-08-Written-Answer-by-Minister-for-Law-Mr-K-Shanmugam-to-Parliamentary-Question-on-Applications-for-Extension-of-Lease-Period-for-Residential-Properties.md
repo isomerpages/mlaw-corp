@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Applications for Extension of Lease Period for Residential Properties
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Applications for Extension of Lease Period for Residential Properties'
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen6
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 8 May 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
