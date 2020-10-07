@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, on Singapore Convention on Mediation
+title: 'Written Answer by Minister for Law, K Shanmugam, on Singapore Convention on Mediation'
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Singapore-Convention-on-Mediation
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 6 Aug 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
