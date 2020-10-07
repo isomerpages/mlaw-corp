@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Singapore and ITLOS Sign Model Agreement to Enable the Tribunal to Sit in Singapore
-date:   2020-06-11
+title: 'Singapore and ITLOS Sign Model Agreement to Enable the Tribunal to Sit in Singapore'
+date: 2020-06-11T00:00:00.000Z
 permalink: /news/press-releases/Singapore-and-ITLOS-Sign-Model-Agreement-to-Enable-the-Tribunal-to-Sit-in-Singapore
+
 ---
+
 
 11 Jun 2020 Posted in [Press releases](/news/press-releases)
 
