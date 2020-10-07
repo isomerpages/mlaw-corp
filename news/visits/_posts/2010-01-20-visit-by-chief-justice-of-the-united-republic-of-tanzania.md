@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Chief Justice of the United Republic of Tanzania
+title: 'Visit by Chief Justice of the United Republic of Tanzania'
 permalink: /news/visits/visit-by-chief-justice-of-the-united-republic-of-tanzania/
-breadcrumb: Visit by Chief Justice of the United Republic of Tanzania
-collection_name: news
+breadcrumb: 'Visit by Chief Justice of the United Republic of Tanzania'
+
 ---
+
 
 <style>
 .image {width: 600px;}
