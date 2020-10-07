@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Legislative changes to facilitate future planning and development of underground space
+title: 'Legislative changes to facilitate future planning and development of underground space'
 permalink: /news/press-releases/legislative-changes-planning-development-underground-space
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 12 Feb 2015 Posted in [Press releases](/news/press-releases)
 
