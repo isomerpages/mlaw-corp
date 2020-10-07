@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r7/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Criminal Law (Temporary Provisions) (Amendment) Bill'
+
 ---
+
 
 <style>
   .image {width: 200px;}
