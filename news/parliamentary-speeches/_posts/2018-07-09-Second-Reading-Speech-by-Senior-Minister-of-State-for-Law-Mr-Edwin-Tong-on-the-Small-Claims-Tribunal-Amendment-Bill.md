@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the Small Claims Tribunal (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the Small Claims Tribunal (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-small-claims-tribunal-bill
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 9 Jul 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
