@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Legal Policy Group
+title: 'Legal Policy Group'
 permalink: /about-us/what-we-do/legal-group/
-breadcrumb: Legal Policy Group
-collection_name: about-us
-second_nav_title: What We Do
+breadcrumb: 'Legal Policy Group'
+third_nav_title: 'What We Do'
+
 ---
+
 
 <style>
   .image {width: 600px;}
