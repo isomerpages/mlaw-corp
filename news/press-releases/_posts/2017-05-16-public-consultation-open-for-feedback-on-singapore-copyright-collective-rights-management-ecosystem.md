@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation Open For Feedback On Singapore’s Copyright Collective Rights Management Ecosystem
+title: 'Public Consultation Open For Feedback On Singapore’s Copyright Collective Rights Management Ecosystem'
 permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-co
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 16 May 2017 Posted in [Press releases](/news/press-releases)
 
