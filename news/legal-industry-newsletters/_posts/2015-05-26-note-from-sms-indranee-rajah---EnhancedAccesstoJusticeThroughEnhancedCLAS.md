@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhanced Access to Justice Through Enhanced CLAS
-permalink: /news/legal-industry-newsletter/note-from-sms-indranee-rajah---EnhancedAccesstoJusticeThroughEnhancedCLAS/
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhanced Access to Justice Through Enhanced CLAS'
+permalink: /news/legal-industry-newsletter/note-from-sms-indranee-rajah
+
+---
+EnhancedAccesstoJusticeThroughEnhancedCLAS/
 breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhanced Access to Justice Through Enhanced CLAS
 collection_name: news
 ---
