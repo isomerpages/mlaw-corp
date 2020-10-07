@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Chapter in Family Justice
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Chapter in Family Justice'
 permalink: /news/legal-industry-newsletter/new-chapter-on-family-justice/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Chapter in Family Justice
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on a New Chapter in Family Justice'
+
 ---
+
 
 <style>
   .image {width: 200px;}
