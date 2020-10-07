@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore Land Authority and Ministry of Law Joint Press Release on Fraud Case in Singapore Land Authority
+title: 'Singapore Land Authority and Ministry of Law Joint Press Release on Fraud Case in Singapore Land Authority'
 permalink: /news/press-releases/singapore-land-authority-and-ministry-of-law-joint-press-release-on-fraud-case-in-singapore-land
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 28 Sep 2010 Posted in [Press releases](/news/press-releases)
