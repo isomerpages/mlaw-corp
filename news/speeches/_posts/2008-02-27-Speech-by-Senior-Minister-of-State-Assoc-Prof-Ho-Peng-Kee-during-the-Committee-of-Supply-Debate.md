@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State Assoc Prof Ho Peng Kee during the Committee of Supply Debate
+title: 'Speech by Senior Minister of State Assoc Prof Ho Peng Kee during the Committee of Supply Debate'
 permalink: /news/speeches/speech-by-senior-minister-of-state-assoc-prof-ho-peng-kee-during-the-committee-of-supply-debate_1
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 27 Feb 2008 Posted in [Speeches](/news/speeches)
 
