@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice
+title: 'Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice'
 permalink: /news/public-consultation-on-the-proposed-amendments-to-the-copyright-/
-breadcrumb: Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice
-collection_name: news
+breadcrumb: 'Public Consultation Paper on the Interim Recommendations of the Committee for Family Justice'
+
 ---
+
 
 Public Consultation on the Proposed Amendments to the Copyright Act
 ---
