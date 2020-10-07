@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Design Law Reform Conference 2017
+title: 'Opening Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Design Law Reform Conference 2017'
 permalink: /news/speeches/sms-opening-address-design-law-reform-conference2017
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 19 Sep 2017 Posted in [Speeches](/news/speeches)
 
