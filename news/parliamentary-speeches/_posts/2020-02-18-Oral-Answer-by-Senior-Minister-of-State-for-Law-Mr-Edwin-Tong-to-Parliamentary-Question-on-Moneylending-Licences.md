@@ -1,9 +1,10 @@
---- 
-layout: post 
-title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Moneylending Licences
-date:   2020-02-18
+---
+title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Moneylending Licences'
+date: 2020-02-18T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-Moneylending-Licences
---- 
+
+---
+ 
 18 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Miss Cheng Li Hui (Member of Parliament for Tampines GRC)
