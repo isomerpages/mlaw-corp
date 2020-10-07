@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, at the 3rd Global Forum for Intellectual Property at Raffles City Convention Centre
+title: 'Speech by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, at the 3rd Global Forum for Intellectual Property at Raffles City Convention Centre'
 permalink: /news/speeches/speech-by-minister-for-home-affairs-and-minister-for-law-mr-k-shanmugam-at-the-3rd-global-forum
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 6 Jan 2011 Posted in [Speeches](/news/speeches)
