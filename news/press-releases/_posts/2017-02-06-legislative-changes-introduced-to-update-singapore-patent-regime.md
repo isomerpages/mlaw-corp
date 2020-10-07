@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legislative Changes Introduced to Update Singapore’s Patent Regime
+title: 'Legislative Changes Introduced to Update Singapore’s Patent Regime'
 permalink: /news/press-releases/legislative-changes-introduced-to-update-singapores-patent-regim
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 6 Feb 2017 Posted in [Press releases](/news/press-releases)
 
