@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, Mr K Shanmugam, at the MinLaw Appreciation Dinner 2012
+title: 'Speech by Minister for Law, Mr K Shanmugam, at the MinLaw Appreciation Dinner 2012'
 permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-minlaw-appreciation-dinner-2012
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Oct 2012 Posted in [Speeches](/news/speeches)
 
