@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Opening Address by Senior Minister of State for Law, Indranee Rajah, SC, at the SIAC Congress 2016: Gala Dinner"
+title: 'Opening Address by Senior Minister of State for Law, Indranee Rajah, SC, at the SIAC Congress 2016: Gala Dinner'
 permalink: /news/speeches/opening-address-by-senior-minister-of-state-for-law--indranee-ra
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 27 May 2016 Posted in [Speeches](/news/speeches)
