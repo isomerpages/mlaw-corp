@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Recommendations Released on Strengthening Singapore as an International Centre for Debt Restructuring
+title: 'Recommendations Released on Strengthening Singapore as an International Centre for Debt Restructuring'
 permalink: /news/press-releases/recommendations-released-on-strengthening-singapore-as-an-intern
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 20 Apr 2016 Posted in [Press releases](/news/press-releases)
 
