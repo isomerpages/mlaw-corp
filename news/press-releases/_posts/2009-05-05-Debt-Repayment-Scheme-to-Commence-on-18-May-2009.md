@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Debt Repayment Scheme to Commence on 18 May 2009
+title: 'Debt Repayment Scheme to Commence on 18 May 2009'
 permalink: /news/press-releases/debt-repayment-scheme-to-commence-on-18-may-2009
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 5 May 2009 Posted in [Press releases](/news/press-releases)
 
