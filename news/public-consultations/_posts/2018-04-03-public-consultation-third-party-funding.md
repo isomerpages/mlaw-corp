@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation to Seek Feedback on the Third-Party Funding Framework
+title: 'Public Consultation to Seek Feedback on the Third-Party Funding Framework'
 permalink: /news/public-consultation-third-party-funding/
-breadcrumb: Public Consultation to Seek Feedback on the Third-Party Funding Framework
-collection_name: news
+breadcrumb: 'Public Consultation to Seek Feedback on the Third-Party Funding Framework'
+
 ---
+
 
 Public Consultation to Seek Feedback on the Third-Party Funding Framework
 ---
