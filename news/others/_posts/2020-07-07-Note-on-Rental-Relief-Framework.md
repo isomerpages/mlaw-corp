@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Note on Rental Relief Framework
-date: 2020-07-07
+title: 'Note on Rental Relief Framework'
+date: 2020-07-07T00:00:00.000Z
 permalink: /news/others/Note-on-Rental-Relief-Framework
+
 ---
+
 
 7 Jul 2020 Posted in [Others](/news/others)
 
