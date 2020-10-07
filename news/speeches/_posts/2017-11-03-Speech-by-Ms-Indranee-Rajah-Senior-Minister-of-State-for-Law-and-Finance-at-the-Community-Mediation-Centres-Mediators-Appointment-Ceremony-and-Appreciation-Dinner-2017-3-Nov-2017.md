@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Community Mediation Centre’s Mediators’ Appointment Ceremony and Appreciation Dinner 2017, 3 Nov 2017
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Community Mediation Centre’s Mediators’ Appointment Ceremony and Appreciation Dinner 2017, 3 Nov 2017'
 permalink: /news/speeches/speech-by-ms-indranee-rajah--senior-minister-of-state-for-law-an
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 3 Nov 2017 Posted in [Speeches](/news/speeches)
