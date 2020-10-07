@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Consultation on Moneylenders Bill 2008
+title: 'Consultation on Moneylenders Bill 2008'
 permalink: /news/press-releases/consultation-on-moneylenders-bill-2008
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 20 Aug 2008 Posted in [Press releases](/news/press-releases)
