@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector
+title: 'Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-patents-act-to-liberalise-the-patent-agent-sector/
-breadcrumb: Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector
 ---
