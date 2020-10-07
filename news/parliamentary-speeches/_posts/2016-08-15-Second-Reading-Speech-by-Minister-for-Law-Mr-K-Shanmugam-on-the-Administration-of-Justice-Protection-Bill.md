@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Minister for Law, Mr K Shanmugam, on the Administration of Justice (Protection) Bill
-date:   2016-08-15
+title: 'Second Reading Speech by Minister for Law, Mr K Shanmugam, on the Administration of Justice (Protection) Bill'
+date: 2016-08-15T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law--mr-k-shanmugam--on-th1
+
 ---
+
 
 15 Aug 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
