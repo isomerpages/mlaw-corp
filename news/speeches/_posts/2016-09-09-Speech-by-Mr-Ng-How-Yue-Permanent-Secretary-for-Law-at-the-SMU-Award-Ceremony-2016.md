@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Ng How Yue, Permanent Secretary for Law, at the SMU Award Ceremony 2016
+title: 'Speech by Mr Ng How Yue, Permanent Secretary for Law, at the SMU Award Ceremony 2016'
 permalink: /news/speeches/speech-by-mr-ng-how-yue--permanent-secretary-for-law--at-the-smu
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 9 Sep 2016 Posted in [Speeches](/news/speeches)
 
