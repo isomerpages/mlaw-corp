@@ -1,10 +1,10 @@
 ---
-layout: post
-title: MinLaw and IPOS welcome launch of Code of Conduct by Collective Management Organisations
+title: 'MinLaw and IPOS welcome launch of Code of Conduct by Collective Management Organisations'
 permalink: /news/press-releases/minlaw-and-ipos-welcome-launch-of-code-of-conduct-by-collective-management-organisations
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 8 Jun 2012 Posted in [Press releases](/news/press-releases)
