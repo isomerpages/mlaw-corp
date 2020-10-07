@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the UK Singapore Law Students Society (UKSLSS) Singapore Legal Forum 2017
+title: 'Keynote Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the UK Singapore Law Students Society (UKSLSS) Singapore Legal Forum 2017'
 permalink: /news/speeches/keynote-address-by-senior-minister-of-state-indranee-rajah-for-l
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 5 Aug 2017 Posted in [Speeches](/news/speeches)
