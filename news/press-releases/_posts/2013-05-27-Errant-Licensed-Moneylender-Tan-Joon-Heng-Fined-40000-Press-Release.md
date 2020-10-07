@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Errant Licensed Moneylender Tan Joon Heng Fined $40,000 - Press Release
-permalink: /news/press-releases/errant-licensed-moneylender-tan-joon-heng-fined--40-000---press-
+title: 'Errant Licensed Moneylender Tan Joon Heng Fined $40,000 - Press Release'
+permalink: /news/press-releases/errant-licensed-moneylender-tan-joon-heng-fined--40-000
+
+---
+press-
 breadcrumb: Press Releases
 collection_name: news
 ---
