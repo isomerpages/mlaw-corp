@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legislative Changes to Strengthen Singapore’s Criminal Justice Framework
+title: 'Legislative Changes to Strengthen Singapore’s Criminal Justice Framework'
 permalink: /news/press-releases/legislative-changes-to-strengthen-singapores-criminal-justice-fr
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 28 Feb 2018 Posted in [Press releases](/news/press-releases)
 1. The Ministry of Law (MinLaw) has tabled the Criminal Justice Reform Bill and the Evidence (Amendment) Bill for First Reading in Parliament today. The proposed amendments are a major step in the Government’s long-term efforts toward a more progressive, balanced and modern criminal justice system.
 
