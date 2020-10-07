@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Law Minister K Shanmugam at NUS-SMU Criminal Justice Conference
+title: 'Keynote Address by Law Minister K Shanmugam at NUS-SMU Criminal Justice Conference'
 permalink: /news/speeches/minister-keynote-nus-smu-criminal-justice-conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 16 Aug 2014 Posted in [Speeches](/news/speeches)
 <br>  
