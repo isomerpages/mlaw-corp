@@ -1,11 +1,11 @@
 ---
-layout: post
-title: New Bill Introduced to Strengthen the Prevention of Money Laundering and Terrorism Financing for the Precious Stones and Precious Metals Dealers Sector
-date: 2019-01-14
+title: 'New Bill Introduced to Strengthen the Prevention of Money Laundering and Terrorism Financing for the Precious Stones and Precious Metals Dealers Sector'
+date: 2019-01-14T00:00:00.000Z
 permalink: /news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Jan 2019 Posted in [Press releases](/news/press-releases)
 
