@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Singapore, Japan Holds First High-Level Joint Legal Conference
+title: 'Singapore, Japan Holds First High-Level Joint Legal Conference'
 permalink: /news/press-releases/singapore--japan-holds-first-high-level-joint-legal-conference
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 12 Mar 2019 Posted in [Press releases](/news/press-releases)
 
