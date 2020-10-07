@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law's Addendum to the President's Address
+title: 'Ministry of Law''s Addendum to the President''s Address'
 permalink: /news/press-releases/ministry-of-law-s-addendum-to-the-president-s-address
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 15 Oct 2011 Posted in [Press releases](/news/press-releases)
 
