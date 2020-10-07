@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Public Consultation For Amendments To The Pawnbrokers Act
-date:   2013-04-08
+title: 'Public Consultation For Amendments To The Pawnbrokers Act'
+date: 2013-04-08T00:00:00.000Z
 permalink: /news/announcements/public-consultation-for-amendments-to-the-pawnbrokers-act
+
 ---
+
 
 8 Apr 2013 Posted in [Announcements](/news/announcements) 
 
