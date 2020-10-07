@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Update to Scheme to Allow Graduates with Second Class Lower Division Honours Degrees to Practise Law
+title: 'Update to Scheme to Allow Graduates with Second Class Lower Division Honours Degrees to Practise Law'
 permalink: /news/press-releases/update-to-scheme-to-allow-graduates-with-second-class-lower-division-honours-degrees-to-practise-law
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 31 Mar 2008 Posted in [Press releases](/news/press-releases)
 
