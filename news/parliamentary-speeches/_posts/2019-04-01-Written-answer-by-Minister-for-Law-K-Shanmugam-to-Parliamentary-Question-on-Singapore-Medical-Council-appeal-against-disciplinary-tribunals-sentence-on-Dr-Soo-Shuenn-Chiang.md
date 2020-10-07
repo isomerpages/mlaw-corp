@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Singapore Medical Council's appeal against disciplinary tribunal's sentence on Dr Soo Shuenn Chiang
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Singapore Medical Council''s appeal against disciplinary tribunal''s sentence on Dr Soo Shuenn Chiang'
 permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-SMC-appeal-disciplinary-tribunal-sentence-dr-soo-shuenn-chiang
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 1 Apr 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
