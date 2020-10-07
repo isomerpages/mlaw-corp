@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, SC, Senior Minister of State for Law and Health, at the 2020 International Roundtable Symposium on Cross-Border Investment and M&A, 15 January 2020
-date:   2020-01-15
-permalink: /news/speeches/Speech-by-Mr-Edwin-Tong-SC-Senior-Minister-of-State-for-Law-and-Health-at-the-2020-International-Roundtable-Symposium-on-Cross-Border-Investment-and-M&A
+title: 'Speech by Mr Edwin Tong, SC, Senior Minister of State for Law and Health, at the 2020 International Roundtable Symposium on Cross-Border Investment and M&A, 15 January 2020'
+date: 2020-01-15T00:00:00.000Z
+permalink: '/news/speeches/Speech-by-Mr-Edwin-Tong-SC-Senior-Minister-of-State-for-Law-and-Health-at-the-2020-International-Roundtable-Symposium-on-Cross-Border-Investment-and-M&A'
+
 ---
+
 
 15 Jan 2020 Posted in [[Speeches](/news/speeches)]
 
