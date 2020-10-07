@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Remarks by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the Opening of Maxwell Memories
+title: 'Opening Remarks by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the Opening of Maxwell Memories'
 permalink: /news/speeches/opening-remarks-by-mr-han-kok-juan--deputy-secretary--ministry-o
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Nov 2017 Posted in [Speeches](/news/speeches)
 <br>  
