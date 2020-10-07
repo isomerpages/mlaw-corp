@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Oral Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Questions on Fake News
-date:   2017-04-03
+title: 'Oral Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Questions on Fake News'
+date: 2017-04-03T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law--mr-k-shanmugam--to-parliamentar
+
 ---
+
 
 3 Apr 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
