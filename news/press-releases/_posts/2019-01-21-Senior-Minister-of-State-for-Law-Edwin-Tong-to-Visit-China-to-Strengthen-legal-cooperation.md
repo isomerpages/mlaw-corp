@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Senior Minister of State for Law Edwin Tong to Visit China to Strengthen Legal Cooperation
-date: 2019-01-21
+title: 'Senior Minister of State for Law Edwin Tong to Visit China to Strengthen Legal Cooperation'
+date: 2019-01-21T00:00:00.000Z
 permalink: /news/press-releases/SMS-Edwin-Tong-to-visit-China-to-strengthen-legal-cooperation
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 21 Jan 2019 Posted in [Press releases](/news/press-releases)
 
 1. Senior Minister of State (SMS) for Health and Law Edwin Tong will visit the People’s Republic of China from 21 to 25 January 2019. This will be his first overseas visit as SMS for Law. SMS Edwin Tong will visit Shanghai from 21 to 22 January and Beijing from 23 to 25 January.  
