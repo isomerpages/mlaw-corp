@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Society of Trust and Estate Practitioners' (STEP) 3rd Asia Conference
+title: 'Speech by Law Minister K Shanmugam at the Society of Trust and Estate Practitioners'' (STEP) 3rd Asia Conference'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-society-of-trust-and-estate-practitioners-step-3rd
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 20 Oct 2009 Posted in [Speeches](/news/speeches)
