@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2020 (Ministry of Law)
-date:   2020-02-28
-permalink: /news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Edwin-Tong-at-the-Committee-of-Supply-Debate-2020-(Ministry of Law)
+title: 'Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2020 (Ministry of Law)'
+date: 2020-02-28T00:00:00.000Z
+permalink: '/news/parliamentary-speeches/Response-Speech-by-Senior-Minister-of-State-for-Law-Edwin-Tong-at-the-Committee-of-Supply-Debate-2020-(Ministry of Law)'
+
 ---
+
 
 28 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
