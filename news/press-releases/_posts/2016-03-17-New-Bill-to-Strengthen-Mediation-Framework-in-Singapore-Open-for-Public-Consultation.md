@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Bill to Strengthen Mediation Framework in Singapore Open for Public Consultation
+title: 'New Bill to Strengthen Mediation Framework in Singapore Open for Public Consultation'
 permalink: /news/press-releases/new-bill-to-strengthen-mediation-framework-in-singapore--open-fo
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 Mar 2016 Posted in [Press releases](/news/press-releases)
 
