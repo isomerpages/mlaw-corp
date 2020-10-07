@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public consultation on the Legal Profession (Amendment) Bill 2011
+title: 'Public consultation on the Legal Profession (Amendment) Bill 2011'
 permalink: /news/public-consultations/public-consultation-on-the-legal-profession-amendment-bill-2011/
-breadcrumb: Public consultation on the Legal Profession (Amendment) Bill 2011
-collection_name: news
+breadcrumb: 'Public consultation on the Legal Profession (Amendment) Bill 2011'
+
 ---
+
 
 Public consultation on the Legal Profession (Amendment) Bill 2011
 ---
