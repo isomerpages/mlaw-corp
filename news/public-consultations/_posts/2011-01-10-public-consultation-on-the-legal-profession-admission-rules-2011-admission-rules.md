@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Rules)
+title: 'Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Rules)'
 permalink: /news/public-consultations/public-consultation-on-the-legal-profession-admission-rules-2011-admission-rules-/
-breadcrumb: Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Rules)
-collection_name: news
+breadcrumb: 'Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Rules)'
+
 ---
+
 
 Public Consultation on the Legal Profession (Admission) Rules 2011 (Admission Rules)
 ---
