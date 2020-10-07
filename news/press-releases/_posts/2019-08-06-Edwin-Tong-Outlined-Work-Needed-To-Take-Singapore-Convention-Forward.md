@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Edwin Tong Outlined Work Needed To Take Singapore Convention Forward
-date:   2019-08-06
+title: 'Edwin Tong Outlined Work Needed To Take Singapore Convention Forward'
+date: 2019-08-06T00:00:00.000Z
 permalink: /news/press-releases/Edwin-Tong-Outlined-Work-Needed-To-Take-Singapore-Convention-Forward
+
 ---
+
 
 6 Aug 2019 Posted in [Press releases](/news/press-releases) 
 
