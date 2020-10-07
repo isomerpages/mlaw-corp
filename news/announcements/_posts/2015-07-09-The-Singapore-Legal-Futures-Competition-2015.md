@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Singapore Legal Futures Competition 2015
-date:   2015-07-09
+title: 'The Singapore Legal Futures Competition 2015'
+date: 2015-07-09T00:00:00.000Z
 permalink: /news/announcements/TheSingaporeLegalFuturesCompetition2015
+
 ---
+
 
 9 Jul 2015 Posted in [Announcements](/news/announcements)
 
