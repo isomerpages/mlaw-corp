@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Doorstop Interview by Minister K Shanmugam, Minister for Home Affairs and Law, on Media Literacy Council's Infographic, and Satire and POFMA, 13 September 2019"
-date:   2019-09-13
+title: 'Doorstop Interview by Minister K Shanmugam, Minister for Home Affairs and Law, on Media Literacy Council''s Infographic, and Satire and POFMA, 13 September 2019'
+date: 2019-09-13T00:00:00.000Z
 permalink: /news/replies/Minister-Shanmugam-response-to-MLC-Infographic-satire-and-POFMA
+
 ---
+
 
 13 Sep 2019 Posted in [Replies](/news/replies)
 
