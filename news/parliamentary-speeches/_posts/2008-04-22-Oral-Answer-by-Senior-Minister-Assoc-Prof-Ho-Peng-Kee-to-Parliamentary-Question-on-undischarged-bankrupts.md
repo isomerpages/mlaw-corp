@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister Assoc Prof Ho Peng Kee to Parliamentary Question on undischarged bankrupts
-date:   2008-04-22
+title: 'Oral Answer by Senior Minister Assoc Prof Ho Peng Kee to Parliamentary Question on undischarged bankrupts'
+date: 2008-04-22T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-assoc-prof-ho-peng-kee-to-parliamentary-question-on-undischarged
+
 ---
+
 
 22 Apr 2008 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
