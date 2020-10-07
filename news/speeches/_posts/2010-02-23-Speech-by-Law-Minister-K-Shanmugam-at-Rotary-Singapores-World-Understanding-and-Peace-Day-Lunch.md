@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at Rotary Singapore's World Understanding and Peace Day Lunch
+title: 'Speech by Law Minister K Shanmugam at Rotary Singapore''s World Understanding and Peace Day Lunch'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-rotary-singapore-s-world-understanding-and-peace-day-lunch
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 23 Feb 2010 Posted in [Speeches](/news/speeches)
