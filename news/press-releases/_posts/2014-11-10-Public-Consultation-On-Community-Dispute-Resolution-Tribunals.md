@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation On Community Dispute Resolution Tribunals
+title: 'Public Consultation On Community Dispute Resolution Tribunals'
 permalink: /news/press-releases/public-consultation-on-community-dispute-resolution-tribunals
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Nov 2014 Posted in [Press releases](/news/press-releases)
 
