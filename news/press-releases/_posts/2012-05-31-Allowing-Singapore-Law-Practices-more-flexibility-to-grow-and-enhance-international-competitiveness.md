@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness
+title: 'Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness'
 permalink: /news/press-releases/allowing-singapore-law-practices-more-flexibility-to-grow-and-enhance-international-competitiveness
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 
