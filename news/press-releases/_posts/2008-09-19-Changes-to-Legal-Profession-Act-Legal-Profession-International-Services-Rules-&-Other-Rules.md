@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Changes to Legal Profession Act, Legal Profession (International Services) Rules & Other Rules
+title: 'Changes to Legal Profession Act, Legal Profession (International Services) Rules & Other Rules'
 permalink: /news/press-releases/press-releases/changes-to-legal-profession-act-legal-profession-international-services-rules-other-rules
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 19 Sep 2008 Posted in [Press releases](/news/press-releases)
 
