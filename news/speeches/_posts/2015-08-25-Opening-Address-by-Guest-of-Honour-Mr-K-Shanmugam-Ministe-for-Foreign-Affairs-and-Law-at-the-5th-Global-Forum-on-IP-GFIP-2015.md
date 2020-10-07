@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Guest-of-Honour Mr K Shanmugam, Minister for Foreign Affairs and Law at the 5th Global Forum on IP (GFIP) 2015
+title: 'Opening Address by Guest-of-Honour Mr K Shanmugam, Minister for Foreign Affairs and Law at the 5th Global Forum on IP (GFIP) 2015'
 permalink: /news/speeches/opening-address-by-guest-of-honour-mr-k-shanmugam--minister-for-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 25 Aug 2015 Posted in [Speeches](/news/speeches)
