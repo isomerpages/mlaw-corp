@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Subordinate Courts (Amendment) Bill
-date:   2014-01-21
+title: 'Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Subordinate Courts (Amendment) Bill'
+date: 2014-01-21T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-subordinate-courts-amendment-bill
+
 ---
+
 
 
 21 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
