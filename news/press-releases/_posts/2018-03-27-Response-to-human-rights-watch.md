@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to Human Rights Watch
+title: 'Response to Human Rights Watch'
 permalink: /news/press-releases/minlaw-response-to-human-rights-watch
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 27 Mar 2018 Posted in [Press releases](/news/press-releases)
 
