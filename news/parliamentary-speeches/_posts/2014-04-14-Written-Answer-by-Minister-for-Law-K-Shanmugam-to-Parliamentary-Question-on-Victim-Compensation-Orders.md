@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Victim Compensation Orders
-date:   2014-04-14
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Victim Compensation Orders'
+date: 2014-04-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-on-victim-compensation-orders
+
 ---
+
 
 14 Apr 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 <br>    
