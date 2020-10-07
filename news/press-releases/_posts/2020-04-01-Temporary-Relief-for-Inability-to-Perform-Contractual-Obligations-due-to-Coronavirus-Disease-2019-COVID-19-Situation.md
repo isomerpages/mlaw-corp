@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Temporary Relief for Inability to Perform Contractual Obligations due to Coronavirus Disease 2019 (COVID-19) Situation
-date: 2020-04-01
+title: 'Temporary Relief for Inability to Perform Contractual Obligations due to Coronavirus Disease 2019 (COVID-19) Situation'
+date: 2020-04-01T00:00:00.000Z
 permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contractual-Obligations-due-to-Coronavirus-Disease-2019-COVID-19-Situation
+
 ---
+
 
 01 Apr 2020 Posted in [Press releases](/news/press-releases)
 
