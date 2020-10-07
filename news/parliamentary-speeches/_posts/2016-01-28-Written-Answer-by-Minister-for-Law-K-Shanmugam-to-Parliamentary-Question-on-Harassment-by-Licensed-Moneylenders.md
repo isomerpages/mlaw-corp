@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Harassment by Licensed Moneylenders
-date:   2016-01-28
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Harassment by Licensed Moneylenders'
+date: 2016-01-28T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar4
+
 ---
+
 
 28 Jan 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
