@@ -1,9 +1,10 @@
 ---
-layout: post
-title: SMS Alert on Monthly Instalment Arrears
-date:   2014-03-07
+title: 'SMS Alert on Monthly Instalment Arrears'
+date: 2014-03-07T00:00:00.000Z
 permalink: /news/announcements/sms-alert-on-monthly-instalment-arrears
+
 ---
+
 
 
 7 Mar 2014 Posted in [Announcements](/news/announcements)
