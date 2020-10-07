@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Measures to Safeguard Conveyancing Money from 1 August 2011
+title: 'New Measures to Safeguard Conveyancing Money from 1 August 2011'
 permalink: /news/press-releases/new-measures-to-safeguard-conveyancing-money-from-1-august-2011
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 1 Aug 2011 Posted in [Press releases](/news/press-releases)
