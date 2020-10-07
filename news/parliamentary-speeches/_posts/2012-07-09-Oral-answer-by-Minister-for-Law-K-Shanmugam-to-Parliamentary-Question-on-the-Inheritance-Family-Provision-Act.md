@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Inheritance (Family Provision) Act
-date:   2012-07-09
+title: 'Oral answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Inheritance (Family Provision) Act'
+date: 2012-07-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-the-inheritance-family
+
 ---
+
 
 9 Jul 2012 Posted in [Parliamentary speeches and responses(/news/parliamentary-speeches)
 
