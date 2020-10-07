@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
-date:   2010-01-18
+title: 'Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys'
+date: 2010-01-18T00:00:00.000Z
 permalink: /news/announcements/second-public-consultation-to-seek-feedback-on-proposed-measures-to-safeguard-conveyancing-moneys
+
 ---
+
 
 18 Jan 2010 Posted in [Announcements](/news/announcements)
 
