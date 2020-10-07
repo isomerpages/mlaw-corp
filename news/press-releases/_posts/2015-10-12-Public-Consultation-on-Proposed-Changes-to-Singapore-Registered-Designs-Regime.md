@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Changes to Singapore’s Registered Designs Regime
+title: 'Public Consultation on Proposed Changes to Singapore’s Registered Designs Regime'
 permalink: /news/press-releases/public-consultation-on-proposed-changes-to--singapores-registere
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 12 Oct 2015 Posted in [Press releases](/news/press-releases)
 
