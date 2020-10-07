@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by SMS Assoc Prof Ho Peng Kee at the Launch of The Originals HIP Adventure
+title: 'Opening Address by SMS Assoc Prof Ho Peng Kee at the Launch of The Originals HIP Adventure'
 permalink: /news/speeches/opening-address-by-sms-assoc-prof-ho-peng-kee-at-the-launch-of-the-originals-hip-adventure
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 13 Sep 2010 Posted in [Speeches](/news/speeches)
 
