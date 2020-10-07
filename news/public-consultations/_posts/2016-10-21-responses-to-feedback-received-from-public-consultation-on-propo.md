@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to feedback received from Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
+title: 'Responses to feedback received from Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring'
 permalink: /news/public-consultations/responses-to-feedback-received-from-public-consultation-on-propo/
-breadcrumb: Responses to feedback received from Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuringl
-collection_name: news
+breadcrumb: 'Responses to feedback received from Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuringl'
+
 ---
+
 
 Responses to feedback received from Public Consultation on Proposed Amendments to the Companies Act to Strengthen Singapore as an International Centre for Debt Restructuring
 ---
