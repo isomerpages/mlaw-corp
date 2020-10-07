@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on The Supreme Court of Judicature (Amendment) Bill and the Singapore International Commercial Court
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on The Supreme Court of Judicature (Amendment) Bill and the Singapore International Commercial Court'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-law-finance-supreme-court-sicc/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on The Supreme Court of Judicature (Amendment) Bill and the Singapore International Commercial Court
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on The Supreme Court of Judicature (Amendment) Bill and the Singapore International Commercial Court'
+
 ---
+
 
 <style>
   .image {width: 200px;}
