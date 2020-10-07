@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Useful Links
+title: 'Useful Links'
 permalink: /about-us/useful-links/
-breadcrumb: Useful Links
-collection_name: about-us
+breadcrumb: 'Useful Links'
+
 ---
+
 
 Useful Links
 ---
