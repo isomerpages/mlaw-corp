@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Conference Overview
+title: 'Conference Overview'
 permalink: /events/event_2/conference-overview
-breadcrumb: Conference Overview
-collection_name: events-2
+breadcrumb: 'Conference Overview'
+
 ---
+
 
 **Mediation Conference**  
 **12 January 2019 (Thursday)**  
