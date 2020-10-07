@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Singapore Copyright Review – Enhancing Creators’ Rights and Users’ Access to Copyrighted Works
-date: 2019-01-17
+title: 'Singapore Copyright Review – Enhancing Creators’ Rights and Users’ Access to Copyrighted Works'
+date: 2019-01-17T00:00:00.000Z
 permalink: /news/press-releases/singapore-copyright-review-report-2019
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 17 Jan 2019 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) will amend the Copyright Act to update Singapore’s copyright regime to better support creators and the use and enjoyment of creative works in the digital age. The proposed changes include better recognising creators for their work, allowing easier access to copyrighted materials for educational purposes and supporting creators and users in the collective licensing of copyrighted works. These changes are outlined in the Singapore Copyright Review Report released by MinLaw and the Intellectual Property Office of Singapore (IPOS) today. The full report can be found in <ins>**Annex A**</ins>.
