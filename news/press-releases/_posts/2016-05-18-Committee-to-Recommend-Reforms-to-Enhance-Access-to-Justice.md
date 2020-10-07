@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Committee to Recommend Reforms to Enhance Access to Justice
+title: 'Committee to Recommend Reforms to Enhance Access to Justice'
 permalink: /news/press-releases/committee-to-recommend-reforms-to-enhance-access-to-justice
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 18 May 2016 Posted in [Press releases](/news/press-releases)
 
 
