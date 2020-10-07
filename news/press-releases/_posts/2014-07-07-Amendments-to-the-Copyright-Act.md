@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Amendments to the Copyright Act
+title: 'Amendments to the Copyright Act'
 permalink: /news/press-releases/amendments-to-the-copyright-act-2014
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Jul 2014 Posted in [Press releases](/news/press-releases)
 
