@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanmugam
+title: 'Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanmugam'
 permalink: /news/visits/uganda-chief-justice-benjamin-joseph-odoki-calls-on-minister-for-law-mr-k-shanmugam/
-breadcrumb: Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanmugam
-collection_name: news
+breadcrumb: 'Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
