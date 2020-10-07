@@ -1,10 +1,11 @@
 ---
-layout: simple-page
 title: Conveyancing
 permalink: /about-us/what-we-do/conveyancing/
 breadcrumb: Conveyancing
-second_nav_title: What We Do
+third_nav_title: 'What We Do'
+
 ---
+
 
 Conveyancing
 ---
