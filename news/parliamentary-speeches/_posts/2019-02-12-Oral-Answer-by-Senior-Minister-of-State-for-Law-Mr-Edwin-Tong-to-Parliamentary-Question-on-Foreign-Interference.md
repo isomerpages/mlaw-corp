@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Question on Foreign Interference
+title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Question on Foreign Interference'
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Edwin-Tong-to-Parliamentary-Question-on-Foreign-Interference
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 12 Feb 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
