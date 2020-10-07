@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Guidelines to PMFT Rules
-date:   2007-11-05
+title: 'Guidelines to PMFT Rules'
+date: 2007-11-05T00:00:00.000Z
 permalink: /news/announcements/guidelines-to-pmft-rules
+
 ---
+
 
 5 Nov 2007 Posted in [Announcements](/news/announcements)
 
