@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Strong Leadership and Effective Laws Essential in Fight Against Corruption
+title: 'Strong Leadership and Effective Laws Essential in Fight Against Corruption'
 permalink: /news/press-releases/strong-leadership-and-effective-laws-essential-in-fight-against-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 13 May 2016 Posted in [Press releases](/news/press-releases)
 
