@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Ministry of Law’s decision to award more licences for foreign law firms in 2012
-date:   2012-05-14
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Ministry of Law’s decision to award more licences for foreign law firms in 2012'
+date: 2012-05-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-the-ministry-of-law-s
+
 ---
+
 
 14 May 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
