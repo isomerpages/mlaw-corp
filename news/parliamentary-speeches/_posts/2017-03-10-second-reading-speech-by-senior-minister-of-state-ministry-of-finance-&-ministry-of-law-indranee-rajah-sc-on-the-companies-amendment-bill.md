@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State, Ministry of Finance & Ministry of Law, Indranee Rajah SC, on the Companies (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State, Ministry of Finance & Ministry of Law, Indranee Rajah SC, on the Companies (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state--ministry-of-f
-breadcrumb: Parliamentary speeches and responses
-collection_name: news
+breadcrumb: 'Parliamentary speeches and responses'
+
 ---
+
 
 10 Mar 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
