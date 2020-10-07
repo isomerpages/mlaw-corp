@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Strata Titles Board Annual Dinner
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Strata Titles Board Annual Dinner'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-strata-titles-board-annual-dinner
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 16 Feb 2011 Posted in [Speeches](/news/speeches)
