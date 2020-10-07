@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Land Policy And Administration
+title: 'Land Policy And Administration'
 permalink: /our-work/land-policy-and-administration/
-breadcrumb: Land Policy And Administration
-collection_name: our-work
+breadcrumb: 'Land Policy And Administration'
+
 ---
+
 
 In land scarce Singapore, optimising the use of land resources is integral to sustaining Singapore’s economic and social growth.  
 
