@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Question on Community Disputes Resolutions Tribunals
+title: 'Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Question on Community Disputes Resolutions Tribunals'
 permalink: /news/parliamentary-speeches/written-answer-by-Minister-for-Law-KShanmugam-to-Parliamentary-Question-on-CDRT
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 15 Jan 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
