@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Closing Remarks by Senior Minister of State for Law Ms Indranee Rajah SC at the Family Justice Seminar
+title: 'Closing Remarks by Senior Minister of State for Law Ms Indranee Rajah SC at the Family Justice Seminar'
 permalink: /news/speeches/closing-remarks-by-sms-at-family-justice-seminar
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 19 May 2014 Posted in [Speeches](/news/speeches)
 
