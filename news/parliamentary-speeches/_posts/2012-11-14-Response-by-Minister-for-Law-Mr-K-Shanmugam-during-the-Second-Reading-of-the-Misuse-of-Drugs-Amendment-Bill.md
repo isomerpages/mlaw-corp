@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Response by Minister for Law, Mr K Shanmugam, during the Second Reading of the Misuse of Drugs (Amendment) Bill
-date:   2012-11-14
+title: 'Response by Minister for Law, Mr K Shanmugam, during the Second Reading of the Misuse of Drugs (Amendment) Bill'
+date: 2012-11-14T00:00:00.000Z
 permalink: /news/parliamentary-speeches/response-by-minister-for-law--mr-k-shanmugam--during-the-second-
+
 ---
+
 
 14 Nov 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
