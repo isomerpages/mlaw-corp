@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, to Parliamentary Questions on Review of Penal Code
+title: 'Oral Answer by Minister for Home Affairs and Minister for Law, Mr K Shanmugam, to Parliamentary Questions on Review of Penal Code'
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-home-affairs-and-minister-for-law--m
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 9 Jan 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
