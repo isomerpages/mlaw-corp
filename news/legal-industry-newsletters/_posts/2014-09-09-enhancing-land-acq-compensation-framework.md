@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework'
 permalink: /news/legal-industry-newsletter/enhancing-land-acq-compensation-framework/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Enhancing Land Acquisition Compensation Framework'
+
 ---
+
 
 <style>
   .image {width: 200px;}
