@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act and a new right to seek remedies to protect enjoyment of one’s residence
+title: 'Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act and a new right to seek remedies to protect enjoyment of one’s residence'
 permalink: /news/public-consultations/public-consultation-on-the-proposed-introduction-of-a-community-dispute/
-breadcrumb: Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act
-collection_name: news
+breadcrumb: 'Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act'
+
 ---
+
 
 Public Consultation on the proposed introduction of a Community Dispute Resolution Tribunals Act and a new right to seek remedies to protect enjoyment of one’s residence
 ---
