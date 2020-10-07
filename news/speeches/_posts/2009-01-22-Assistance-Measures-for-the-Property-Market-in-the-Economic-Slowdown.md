@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Assistance Measures for the Property Market in the Economic Slowdown
+title: 'Assistance Measures for the Property Market in the Economic Slowdown'
 permalink: /news/speeches/assistance-measures-for-the-property-market-in-the-economic-slowdown
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 22 Jan 2009 Posted in [Speeches](/news/speeches)
 
