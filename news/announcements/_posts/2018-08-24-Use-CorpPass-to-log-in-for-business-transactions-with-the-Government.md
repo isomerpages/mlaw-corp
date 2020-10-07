@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Use CorpPass to log in for business transactions with the Government
-date:   2018-08-24
+title: 'Use CorpPass to log in for business transactions with the Government'
+date: 2018-08-24T00:00:00.000Z
 permalink: /news/announcements/CorpPass
+
 ---
+
 
 24 Aug 2018 Posted in [Announcements](/news/announcements)   
 
