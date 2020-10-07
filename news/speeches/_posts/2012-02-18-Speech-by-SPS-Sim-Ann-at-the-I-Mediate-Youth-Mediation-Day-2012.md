@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Speech by SPS Sim Ann at the “I Mediate!” Youth Mediation Day 2012"
+title: 'Speech by SPS Sim Ann at the “I Mediate!” Youth Mediation Day 2012'
 permalink: /news/speeches/speech-by-sps-sim-ann-at-the-i-mediate-youth-mediation-day-2012
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 Feb 2012 Posted in [Speeches](/news/speeches)
 
