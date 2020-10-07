@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Mr K Shanmugam, Minister for Law, at the Plenary Session of the St. Petersburg International Legal Forum
-date:  2020-04-10
+title: 'Speech by Mr K Shanmugam, Minister for Law, at the Plenary Session of the St. Petersburg International Legal Forum'
+date: 2020-04-10T00:00:00.000Z
 permalink: /news/speeches/2020-04-10-Speech-by-Mr-K-Shanmugam-Minister-for-Law-at-the-Plenary-Session-of-SPILF
+
 ---
+
 
 10 Apr 2020 Posted in [[Speeches](/news/speeches)]
 
