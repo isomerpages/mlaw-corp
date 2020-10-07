@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Trustee notice dated 22 Sep 2014
-date:   2014-09-22
+title: 'Public Trustee notice dated 22 Sep 2014'
+date: 2014-09-22T00:00:00.000Z
 permalink: /news/announcements/public-trustee-notice-dated-22-sep-2014
+
 ---
+
 
 
 22 Sep 2014 Posted in [Announcements](/news/announcements)
