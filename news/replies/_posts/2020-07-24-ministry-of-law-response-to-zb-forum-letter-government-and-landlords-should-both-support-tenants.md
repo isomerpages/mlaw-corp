@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Ministry of Law's Response to ZB Forum Letter: Government and landlords should both support tenants"
-date: 2020-07-24
+title: 'Ministry of Law''s Response to ZB Forum Letter: Government and landlords should both support tenants'
+date: 2020-07-24T00:00:00.000Z
 permalink: /news/replies/ministry-of-law-response-to-zb-forum-letter-government-and-landlords-should-both-support-tenants
+
 ---
+
 
 24 July 2020 Posted in [Replies](/news/replies)  
 
