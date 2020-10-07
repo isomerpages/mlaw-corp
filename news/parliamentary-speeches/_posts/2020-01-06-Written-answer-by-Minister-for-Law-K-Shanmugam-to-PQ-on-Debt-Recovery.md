@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Debt Recovery
-date:   2020-01-06
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Debt Recovery'
+date: 2020-01-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Debt-Recovery
+
 ---
+
 
 06 Jan 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
