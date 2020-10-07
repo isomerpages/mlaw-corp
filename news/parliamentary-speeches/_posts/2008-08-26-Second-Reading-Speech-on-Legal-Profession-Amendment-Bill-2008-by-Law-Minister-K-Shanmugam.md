@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Legal Profession (Amendment) Bill 2008 by Law Minister K Shanmugam
-date:   2008-08-26
+title: 'Second Reading Speech on Legal Profession (Amendment) Bill 2008 by Law Minister K Shanmugam'
+date: 2008-08-26T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-legal-profession-amendment-bill-2008-by-law-minister-k-shanmugam
+
 ---
+
 
 
 
