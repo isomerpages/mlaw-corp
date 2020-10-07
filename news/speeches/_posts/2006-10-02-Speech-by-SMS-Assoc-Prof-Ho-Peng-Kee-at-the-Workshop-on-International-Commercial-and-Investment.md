@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Workshop on International Commercial and Investment...
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Workshop on International Commercial and Investment...'
 permalink: /news/speeches/speech-by-sms-a-p-ho-peng-kee-at-the-workshop-on-international-commercial-and-investment-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 2 Oct 2006 Posted in [Speeches](/news/speeches)
 <br>  
