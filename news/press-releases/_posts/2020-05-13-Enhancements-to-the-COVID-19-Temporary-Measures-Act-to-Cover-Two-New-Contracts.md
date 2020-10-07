@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Enhancements to the COVID-19 (Temporary Measures) Act to Cover Two New Contracts and Prohibit Unilateral Increase of Charges
-date: 2020-05-13
+title: 'Enhancements to the COVID-19 (Temporary Measures) Act to Cover Two New Contracts and Prohibit Unilateral Increase of Charges'
+date: 2020-05-13T00:00:00.000Z
 permalink: /news/press-releases/Enhancements-to-the-COVID-19-Temporary-Measures-Act-to-Cover-Two-New-Contracts
+
 ---
+
 
 13 May 2020 Posted in [Press releases](/news/press-releases)
 
