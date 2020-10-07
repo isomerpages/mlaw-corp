@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Ng How Yue, Permanent Secretary, Ministry of Law, at the Future of Law Conference 2017
+title: 'Speech by Mr Ng How Yue, Permanent Secretary, Ministry of Law, at the Future of Law Conference 2017'
 permalink: /news/speeches/speech-by-permanent-secretary-ng-how-yue-future-of-law-conference-2017
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 26 Oct 2017 Posted in [Speeches](/news/speeches)
 
