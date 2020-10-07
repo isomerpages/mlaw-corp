@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Detailed Response to IBAHRI's Report
+title: 'Detailed Response to IBAHRI''s Report'
 permalink: /news/press-releases/detailed-response-to-ibahri-s-report
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 14 Nov 2008 Posted in [Press releases](/news/press-releases)
