@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Bill to Protect Society from Online Falsehoods and Malicious Actors
+title: 'New Bill to Protect Society from Online Falsehoods and Malicious Actors'
 permalink: /news/press-releases/New-Bill-to-Protect-society-from-Online-Falsehoods-and-Malicious-Actors
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 1 Apr 2019 Posted in [Press releases](/news/press-releases)
 
