@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the Patents Act and other Intellectual Property related Acts
+title: 'Proposed amendments to the Patents Act and other Intellectual Property related Acts'
 permalink: /news/press-releases/proposed-amendments-to-the-patents-act-and-other-intellectual-property-related-acts
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 May 2012 Posted in [Press releases](/news/press-releases)
 
