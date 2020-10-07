@@ -1,10 +1,10 @@
 ---
-layout: post
-title: WIPO Director General Dr Kamil Idris Opens Diplomatic Conference to Revise Key Trademark Treaty
+title: 'WIPO Director General Dr Kamil Idris Opens Diplomatic Conference to Revise Key Trademark Treaty'
 permalink: /news/press-releases/wipo-director-general-dr-kamil-idris-opens-diplomatic-conference-to-revise-key-trademark-treaty
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Mar 2006 Posted in [Press releases](/news/press-releases)
 
