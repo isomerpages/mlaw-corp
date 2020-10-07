@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Survey on the Precious Stones and Metals Dealers (PSMD) industry
-date:   2018-05-07
+title: 'Survey on the Precious Stones and Metals Dealers (PSMD) industry'
+date: 2018-05-07T00:00:00.000Z
 permalink: /news/announcements/Survey
+
 ---
+
 
 7 May 2018 Posted in [Announcements](/news/announcements)
 
