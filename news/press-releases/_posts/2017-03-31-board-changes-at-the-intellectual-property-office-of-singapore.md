@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Board Changes at the Intellectual Property Office of Singapore
+title: 'Board Changes at the Intellectual Property Office of Singapore'
 permalink: /news/press-releases/board-changes-at-the-intellectual-property-office-of-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 31 Mar 2017 Posted in [Press releases](/news/press-releases)
 
