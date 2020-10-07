@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the 29th Inter-Pacific Bar Association Annual Meeting and Conference
+title: 'Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the 29th Inter-Pacific Bar Association Annual Meeting and Conference'
 permalink: /news/speeches/Speech-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Minister-for-Law-29th-Inter-Pacific-Bar-Association-Annual-Meeting-and-Conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 26 Apr 2019 Posted in [Speeches](/news/speeches)
 
