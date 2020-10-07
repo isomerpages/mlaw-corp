@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response to media queries on Human Rights Watch’s statement on the Protection from Online Falsehoods and Manipulation Bill
+title: 'Response to media queries on Human Rights Watch’s statement on the Protection from Online Falsehoods and Manipulation Bill'
 permalink: /news/press-releases/Response-to-media-queries-on-Human-Rights-Watch-statement-on-the-Protection-from-Online-Falsehoods-and-Manipulation-Bill
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 3 Apr 2019 Posted in [Press releases](/news/press-releases)
 
