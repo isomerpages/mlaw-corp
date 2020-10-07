@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Land Acquisition (Amendment) Bill
-date:   2014-08-05
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Land Acquisition (Amendment) Bill'
+date: 2014-08-05T00:00:00.000Z
 permalink: /news/parliamentary-speeches/2R-by-SMS-on-LAA-2014
+
 ---
+
 
 
 5 Aug 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
