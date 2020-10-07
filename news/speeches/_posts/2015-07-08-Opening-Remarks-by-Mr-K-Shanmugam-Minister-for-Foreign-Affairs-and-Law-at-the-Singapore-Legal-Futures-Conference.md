@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Remarks by Mr K Shanmugam, Minister for Foreign Affairs and Law, at the Singapore Legal Futures Conference
+title: 'Opening Remarks by Mr K Shanmugam, Minister for Foreign Affairs and Law, at the Singapore Legal Futures Conference'
 permalink: /news/speeches/opening-remarks-by-mr-k-shanmugam--minister-for-foreign-affairs-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 8 Jul 2015 Posted in [Speeches](/news/speeches)
 
