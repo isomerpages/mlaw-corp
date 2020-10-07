@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamentary Secretary for Education and Law Ms Sim Ann
+title: 'Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamentary Secretary for Education and Law Ms Sim Ann'
 permalink: /news/visits/myanmar-minister-of-construction-h-e-khin-maung-myint-calls-on-senior-parliamentary-secretary-for/
-breadcrumb: Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamentary Secretary for Education and Law Ms Sim Ann
-collection_name: news
+breadcrumb: 'Myanmar Minister of Construction H.E. Khin Maung Myint calls on Senior Parliamentary Secretary for Education and Law Ms Sim Ann'
+
 ---
+
 
 <style>
 .image {width: 600px;}
