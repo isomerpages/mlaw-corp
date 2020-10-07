@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Legal Aid
-date:   2016-05-09
+title: 'Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Legal Aid'
+date: 2016-05-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--indranee-rajah-1
+
 ---
+
 
 
 9 May 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
