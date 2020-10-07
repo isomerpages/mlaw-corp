@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legal Profession (Amendment) Bill introduced in Parliament
+title: 'Legal Profession (Amendment) Bill introduced in Parliament'
 permalink: /news/press-releases/legal-profession-amendment-bill-introduced-in-parliament
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 10 Jan 2011 Posted in [Press releases](/news/press-releases)
