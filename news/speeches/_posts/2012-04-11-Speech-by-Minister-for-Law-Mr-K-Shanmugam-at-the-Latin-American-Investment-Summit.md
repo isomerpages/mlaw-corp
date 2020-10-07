@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, Mr K Shanmugam, at the Latin American Investment Summit
+title: 'Speech by Minister for Law, Mr K Shanmugam, at the Latin American Investment Summit'
 permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-latin-american-investment-summit
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 11 Apr 2012 Posted in [Speeches](/news/speeches)
