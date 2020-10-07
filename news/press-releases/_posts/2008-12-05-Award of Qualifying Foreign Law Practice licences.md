@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Award of Qualifying Foreign Law Practice licences
+title: 'Award of Qualifying Foreign Law Practice licences'
 permalink: /news/press-releases/award-of-qualifying-foreign-law-practice-licences
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 5 Dec 2008 Posted in [Press releases](/news/press-releases)
