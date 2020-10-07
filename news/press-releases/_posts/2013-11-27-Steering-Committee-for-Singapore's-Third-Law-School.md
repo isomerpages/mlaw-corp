@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Steering Committee for Singapore's Third Law School
+title: 'Steering Committee for Singapore''s Third Law School'
 permalink: /news/press-releases/steering-comm-for-tls
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 27 Nov 2013 Posted in [Press releases](/news/press-releases)
 
