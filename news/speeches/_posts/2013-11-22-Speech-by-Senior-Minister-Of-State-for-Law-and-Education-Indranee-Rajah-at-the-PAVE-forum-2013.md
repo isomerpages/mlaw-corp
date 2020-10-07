@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister Of State for Law and Education, Indranee Rajah, at the PAVE forum 2013
+title: 'Speech by Senior Minister Of State for Law and Education, Indranee Rajah, at the PAVE forum 2013'
 permalink: /news/speeches/speech-by-SMS-at-PAVE-forum-2013
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 22 Nov 2013 Posted in [Speeches](/news/speeches)
 
