@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Closing Remarks by Deputy Secretary, Ministry of Law, Han Kok Juan, at the Forum on Belt and Road Legal Cooperation in Beijing
+title: 'Closing Remarks by Deputy Secretary, Ministry of Law, Han Kok Juan, at the Forum on Belt and Road Legal Cooperation in Beijing'
 permalink: /news/speeches/Closing-Remarks-by-Deputy-Secretary-Ministry-of-Law-Han-Kok-Juan-at-the-Forum-on-Belt-and-Road-Legal-Cooperation-in-Beijing
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 3 Jul 2018 Posted in [Speeches](/news/speeches)
