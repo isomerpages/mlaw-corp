@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Amendments to the Legal Aid and Advice Act and related regulations to take effect from 1 July 2013
+title: 'Amendments to the Legal Aid and Advice Act and related regulations to take effect from 1 July 2013'
 permalink: /news/press-releases/laaa-implementation-2013
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 30 Jun 2013 Posted in [Press releases](/news/press-releases)
 
