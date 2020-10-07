@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Draft Civil Law (Amendment) Bill 2016 and Civil Law (Third Party Funding) Regulations 2016
+title: 'Public Consultation on the Draft Civil Law (Amendment) Bill 2016 and Civil Law (Third Party Funding) Regulations 2016'
 permalink: /news/public-consultations/public-consultation-on-the-draft-civil-law--amendment--bill-2016/
-breadcrumb: Public Consultation on the Draft Civil Law (Amendment) Bill 2016 and Civil Law (Third Party Funding) Regulations 2016
-collection_name: news
+breadcrumb: 'Public Consultation on the Draft Civil Law (Amendment) Bill 2016 and Civil Law (Third Party Funding) Regulations 2016'
+
 ---
+
 
 Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill
 ---
