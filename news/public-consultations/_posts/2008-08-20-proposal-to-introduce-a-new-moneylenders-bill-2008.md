@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposal to introduce a new Moneylenders Bill 2008
+title: 'Proposal to introduce a new Moneylenders Bill 2008'
 permalink: /news/public-consultations/proposal-to-introduce-a-new-moneylenders-bill-2008/
-breadcrumb: Proposal to introduce a new Moneylenders Bill 2008
-collection_name: news
+breadcrumb: 'Proposal to introduce a new Moneylenders Bill 2008'
+
 ---
+
 
 Proposal to introduce a new Moneylenders Bill 2008
 ---
