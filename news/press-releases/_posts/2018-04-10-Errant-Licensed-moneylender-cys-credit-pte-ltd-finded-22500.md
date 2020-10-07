@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, CYS Credit Pte Ltd, Fined $22,500
+title: 'Errant Licensed Moneylender, CYS Credit Pte Ltd, Fined $22,500'
 permalink: /news/press-releases/errant-licensed-moneylender-cys-credit-fined
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Apr 2018 Posted in [Press releases](/news/press-releases)
 
