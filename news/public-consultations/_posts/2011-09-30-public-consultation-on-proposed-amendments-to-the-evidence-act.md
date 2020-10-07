@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public consultation on Proposed Amendments to the Evidence Act
+title: 'Public consultation on Proposed Amendments to the Evidence Act'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-evidence-act/
-breadcrumb: Public consultation on Proposed Amendments to the Evidence Act
-collection_name: news
+breadcrumb: 'Public consultation on Proposed Amendments to the Evidence Act'
+
 ---
+
 
 Public consultation on Proposed Amendments to the Evidence Act
 ---
