@@ -1,10 +1,11 @@
 ---
-layout: simple-page
-title: Applicable Legislation
+title: 'Applicable Legislation'
 permalink: /about-us/what-we-do/applicable-legislation/
-breadcrumb: Applicable Legislation
-second_nav_title: What We Do
+breadcrumb: 'Applicable Legislation'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Applicable legislation
 ---
