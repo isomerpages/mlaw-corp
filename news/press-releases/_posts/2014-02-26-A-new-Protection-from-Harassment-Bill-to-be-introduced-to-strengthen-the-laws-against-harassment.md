@@ -1,10 +1,10 @@
 ---
-layout: post
-title: A new Protection from Harassment Bill to be introduced to strengthen the laws against harassment
+title: 'A new Protection from Harassment Bill to be introduced to strengthen the laws against harassment'
 permalink: /news/press-releases/a-new-protection-from-harassment-bill-to-be-introduced-to-streng
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Feb 2014 Posted in [Press releases](/news/press-releases)
 
