@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Electronic Services
+title: 'New Electronic Services'
 permalink: /news/press-releases/new-electronic-services
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Mar 2002 Posted in [Press releases](/news/press-releases)
 
