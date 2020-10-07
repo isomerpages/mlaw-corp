@@ -1,124 +1,62 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About Us
-  false_collection: true
-  url: /about-us/ourvision-mission-corevalues/
-  sub-links:
-  - title: Our Vision, Mission and Core Values
-    url: /about-us/ourvision-mission-corevalues/
-  - title: Our Management
-    url: /about-us/our-management/
-  - title: Organisation Structure
-    url: /about-us/organisation-structure/
-  - title: Our Legal System
-    url: /about-us/our-legal-system/
-  - title: What We Do
-    url: /about-us/what-we-do/
-  - title: Insight MinLaw
-    url: https://insight.mlaw.gov.sg/
-    external: true
-  - title: Contact Us
-    url: /about-us/contact-us/
-  - title: Useful Links
-    url: /about-us/useful-links/
-
-- title: News
-  url: /news/
-  sub-links:
-  - title: All
-    url: /news/
-  - title: Press Releases
-    url: /news/press-releases/
-  - title: Announcements
-    url: /news/announcements/
-  - title: Replies
-    url: /news/replies/
-  - title: Speeches
-    url: /news/speeches/
-  - title: Parliamentary Speeches
-    url: /news/parliamentary-speeches/
-  - title: Visits
-    url: /news/visits/
-  - title: Public Consultations
-    url: /news/public-consultations/
-  - title: Legal Industry Newsletters
-    url: /news/legal-industry-newsletters/
-  - title: Events
-    url: /news/events/
-  - title: Others
-    url: /news/others/
-
-
-- title: Law Practices/Lawyers
-  url: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/
-  sub-links:
-  - title: Licensing or Registration of Law Practice Entities
-    url: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/
-  - title: Registration of Individuals
-    url: /law-practice-entities-and-lawyers/registration-of-individuals/types-of-individual-registration/
-  - title: Other Services
-    url: /law-practice-entities-and-lawyers/other-services/apply-for-approval-to-hold-interests-in-a-law-practice-entity/
-  - title: Resources for Law Practice Entities
-    url: /law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/
-  - title: Incentive and Exemption Schemes
-    url: /law-practice-entities-and-lawyers/incentive-and-exemption-schemes/
-
-- title: Bar Admission
-  url: /admission-to-the-bar/admission-requirements/
-  sub-links:
-  - title: Admission to the Bar
-    url: /admission-to-the-bar/admission-requirements/
-  - title: Alternatives for Working in the Legal Field in Singapore
-    url: /admission-to-the-bar/alternatives-for-working-in-the-legal-field/
-  - title: Applications to the Minister for Law for Exemption
-    url: /admission-to-the-bar/details-on-applying-for-an-exemption/
-
-- title: E Services
-  false_collection: true
-  url: /e-services/
-  sub-links:
-  - title: Insolvency Office
-    url: https://eservices.mlaw.gov.sg/io/
-    external: true
-  - title: Public Trustees Office
-    url: https://eservices.mlaw.gov.sg/pto/welcome.xhtml
-    external: true
-  - title: Registry Of Moneylenders
-    url: https://eservices.mlaw.gov.sg/rom/
-    external: true
-  - title: Registry Of Pawnbrokers
-    url: https://eservices.mlaw.gov.sg/rop/
-    external: true
-  - title: Legal Services Regulatory Authority
-    url: https://eservices.mlaw.gov.sg/lsra/lsra-home
-    external: true
-  - title: Exemptions
-    url: https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx
-    external: true
-  - title: Application For Community Mediation
-    url: https://cmc.mlaw.gov.sg/e-services/log-into-mediators-portal/
-    external: true
-  - title: Legal Aid Bureau
-    url: https://eservices.mlaw.gov.sg/labesvc/
-    external: true
-  - title: Anti-Money Laundering / Countering The Financing Of Terrorism
-    url: https://acd.mlaw.gov.sg/
-    external: true
-
-- title: Join Us
-  url: /join-us/why-join-minlaw/
-  sub-links:
-  - title: Why Join Minlaw
-    url: /join-us/why-join-minlaw/
-  - title: Career Opportunities
-    url: /join-us/career-opportunities/
-  - title: Meet Our Colleagues
-    url: /join-us/meet-our-colleagues/
-  - title: Minlaw Internship
-    url: /join-us/minlaw-internship/
-  - title: Meet Our Interns
-    url: /join-us/meet-our-interns/
+logo: /images/mlaw-logo.png
+links:
+    - title: 'About Us'
+      false_collection: true
+      url: /about-us/ourvision-mission-corevalues/
+      sublinks:
+            - title: 'Our Vision, Mission and Core Values'
+              url: /about-us/ourvision-mission-corevalues/
+            - title: 'Our Management'
+              url: /about-us/our-management/
+            - title: 'Organisation Structure'
+              url: /about-us/organisation-structure/
+            - title: 'Our Legal System'
+              url: /about-us/our-legal-system/
+            - title: 'What We Do'
+              url: /about-us/what-we-do/
+            - title: 'Insight MinLaw'
+              url: 'https://insight.mlaw.gov.sg/'
+              external: true
+            - title: 'Contact Us'
+              url: /about-us/contact-us/
+            - title: 'Useful Links'
+              url: /about-us/useful-links/
+    - title: News
+      collection: news
+    - title: 'Law Practices/Lawyers'
+      collection: law-practiceslawyers
+    - title: 'Bar Admission'
+      collection: bar-admission
+    - title: 'E Services'
+      false_collection: true
+      url: /e-services/
+      sublinks:
+            - title: 'Insolvency Office'
+              url: 'https://eservices.mlaw.gov.sg/io/'
+              external: true
+            - title: 'Public Trustees Office'
+              url: 'https://eservices.mlaw.gov.sg/pto/welcome.xhtml'
+              external: true
+            - title: 'Registry Of Moneylenders'
+              url: 'https://eservices.mlaw.gov.sg/rom/'
+              external: true
+            - title: 'Registry Of Pawnbrokers'
+              url: 'https://eservices.mlaw.gov.sg/rop/'
+              external: true
+            - title: 'Legal Services Regulatory Authority'
+              url: 'https://eservices.mlaw.gov.sg/lsra/lsra-home'
+              external: true
+            - title: Exemptions
+              url: 'https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx'
+              external: true
+            - title: 'Application For Community Mediation'
+              url: 'https://cmc.mlaw.gov.sg/e-services/log-into-mediators-portal/'
+              external: true
+            - title: 'Legal Aid Bureau'
+              url: 'https://eservices.mlaw.gov.sg/labesvc/'
+              external: true
+            - title: 'Anti-Money Laundering / Countering The Financing Of Terrorism'
+              url: 'https://acd.mlaw.gov.sg/'
+              external: true
+    - title: 'Join Us'
+      collection: join-us
