@@ -1,9 +1,10 @@
 ---
-layout: post
-title: MinLaw and IPOS Seek Feedback On Situations Where Circumventions of Technological Protection Measures Are Allowed
-date:   2020-09-07
+title: 'MinLaw and IPOS Seek Feedback On Situations Where Circumventions of Technological Protection Measures Are Allowed'
+date: 2020-09-07T00:00:00.000Z
 permalink: /news/press-releases/MinLaw-and-IPOS-Seek-Feedback-On-Situations-Where-Circumventions-of-Technological-Protection-Measures-Are-Allowed
+
 ---
+
 
 07 Sep 2020 Posted in [Press releases](/news/press-releases)
 
