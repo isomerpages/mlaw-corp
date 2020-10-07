@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the Legal Profession Act
+title: 'Proposed amendments to the Legal Profession Act'
 permalink: /news/press-releases/proposed-amendments-to-the-legal-profession-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 16 Jan 2012 Posted in [Press releases](/news/press-releases)
