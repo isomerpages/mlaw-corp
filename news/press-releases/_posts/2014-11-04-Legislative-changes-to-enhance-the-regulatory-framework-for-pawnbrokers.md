@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Legislative changes to enhance the regulatory framework for pawnbrokers
+title: 'Legislative changes to enhance the regulatory framework for pawnbrokers'
 permalink: /news/press-releases/changes-to-enhance-pawnbrokers-reg-framework
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 4 Nov 2014 Posted in [Press releases](/news/press-releases)
 
