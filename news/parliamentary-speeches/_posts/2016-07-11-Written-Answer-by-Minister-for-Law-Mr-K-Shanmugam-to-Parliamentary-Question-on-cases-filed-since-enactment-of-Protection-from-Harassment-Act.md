@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on cases filed since enactment of Protection from Harassment Act
-date:   2016-07-11
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on cases filed since enactment of Protection from Harassment Act'
+date: 2016-07-11T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-min-on-poha
+
 ---
+
 
 11 Jul 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
