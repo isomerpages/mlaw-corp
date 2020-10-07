@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Patents (Amendment) Bill
-date:   2017-02-28
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Patents (Amendment) Bill'
+date: 2017-02-28T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra4
+
 ---
+
 
 
 28 Feb 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
