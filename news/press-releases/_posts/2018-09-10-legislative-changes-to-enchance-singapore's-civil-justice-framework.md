@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legislative Changes to Enhance Singapore’s Civil Justice Framework
+title: 'Legislative Changes to Enhance Singapore’s Civil Justice Framework'
 permalink: /news/press-releases/Legislative-Changes-to-Enhance-Singapore-Civil-Justice-Framework
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 10 Sep 2018 Posted in [Press releases](/news/press-releases)
 
