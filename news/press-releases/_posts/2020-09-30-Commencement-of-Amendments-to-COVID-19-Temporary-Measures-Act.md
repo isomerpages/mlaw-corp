@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Commencement of Amendments to COVID-19 (Temporary Measures) Act 
-date: 2020-09-30
+title: 'Commencement of Amendments to COVID-19 (Temporary Measures) Act'
+date: 2020-09-30T00:00:00.000Z
 permalink: /news/press-releases/2020-09-30-Commencement-of-Amendments-to-COVID-19-Temporary-Measures-Act
+
 ---
+
 
 30 Sep 2020 Posted in [Press releases](/news/press-releases)
 
