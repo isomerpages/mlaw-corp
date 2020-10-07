@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Award of the second round of Qualifying Foreign Law Practice licences
+title: 'Award of the second round of Qualifying Foreign Law Practice licences'
 permalink: /news/press-releases/award-of-second-round-qflp-licences
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 19 Feb 2013 Posted in [Press releases](/news/press-releases)
 
