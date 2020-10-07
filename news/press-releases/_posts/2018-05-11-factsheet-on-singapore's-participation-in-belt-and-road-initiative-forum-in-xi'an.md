@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Factsheet on Singapore’s Participation in Belt and Road Initiative (BRI) Forum in Xi’an
+title: 'Factsheet on Singapore’s Participation in Belt and Road Initiative (BRI) Forum in Xi’an'
 permalink: /news/press-releases/factsheet-on-SG-participation-in-BRI-Forum-Xian
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 11 May 2018 Posted in [Press releases](/news/press-releases)
 
