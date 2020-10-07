@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on online piracy
-date:   2013-10-21
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on online piracy'
+date: 2013-10-21T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-online-piracy
+
 ---
+
 
 
 21 Oct 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
