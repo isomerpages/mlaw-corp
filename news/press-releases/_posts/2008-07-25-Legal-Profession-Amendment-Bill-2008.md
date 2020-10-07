@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legal Profession (Amendment) Bill 2008
+title: 'Legal Profession (Amendment) Bill 2008'
 permalink: /news/press-releases/legal-profession-amendment-bill-2008
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Jul 2008 Posted in [Press releases](/news/press-releases)
 
