@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on loans taken under licensed moneylending
-date:   2014-08-04
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on loans taken under licensed moneylending'
+date: 2014-08-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar2
+
 ---
+
 
 4 Aug 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
