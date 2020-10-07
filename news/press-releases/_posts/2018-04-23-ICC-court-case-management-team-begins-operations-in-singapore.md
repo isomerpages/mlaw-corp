@@ -1,10 +1,10 @@
 ---
-layout: post
-title: ICC Court Case Management Team Begins Operations in Singapore
+title: 'ICC Court Case Management Team Begins Operations in Singapore'
 permalink: /news/press-releases/icc-court-case-management-team-begins-operations-in-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 23 Apr 2018 Posted in [Press releases](/news/press-releases)
