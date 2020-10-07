@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Ministry of Law's Response to ZB Forum Letter: About the Rental Relief Framework"
-date:   2020-06-20
+title: 'Ministry of Law''s Response to ZB Forum Letter: About the Rental Relief Framework'
+date: 2020-06-20T00:00:00.000Z
 permalink: /news/replies/ministry-of-law-s-response-to-zb-forum-letter-rental-relief-framework
+
 ---
+
 
 20 June 2020 Posted in [Replies](/news/replies)  
 
