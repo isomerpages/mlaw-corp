@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
+title: 'Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys'
 permalink: /news/public-consultations/second-public-consultation-to-seek-feedback-on-proposed-measures-to-safeguard-conveyancing-moneys/
-breadcrumb: Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
-collection_name: news
+breadcrumb: 'Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys'
+
 ---
+
 
 Second public consultation to seek feedback on proposed measures to safeguard conveyancing moneys
 ---
