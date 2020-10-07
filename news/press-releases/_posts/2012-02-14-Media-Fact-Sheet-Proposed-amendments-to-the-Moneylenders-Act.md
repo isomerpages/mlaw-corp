@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Media Fact Sheet - Proposed amendments to the Moneylenders Act
+title: 'Media Fact Sheet - Proposed amendments to the Moneylenders Act'
 permalink: /news/press-releases/media-fact-sheet-proposed-amendments-to-the-moneylenders-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Feb 2012 Posted in [Press releases](/news/press-releases)
 
