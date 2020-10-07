@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Senior Minister of State for Law, Ms Indranee Rajah, to Parliamentary Question on Legal Aid for Bereaved Families
-date:   2016-08-15
+title: 'Written Answer by Senior Minister of State for Law, Ms Indranee Rajah, to Parliamentary Question on Legal Aid for Bereaved Families'
+date: 2016-08-15T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-senior-minister-of-state-for-law--ms-indranee-
+
 ---
+
 
 15 Aug 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
