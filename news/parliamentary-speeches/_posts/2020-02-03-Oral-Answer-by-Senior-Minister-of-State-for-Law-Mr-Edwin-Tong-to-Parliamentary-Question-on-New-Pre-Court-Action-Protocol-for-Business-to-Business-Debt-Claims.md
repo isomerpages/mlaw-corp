@@ -1,9 +1,10 @@
---- 
-layout: post 
-title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on New Pre-Court Action Protocol for Business-to-Business Debt Claims 
-date:   2020-02-03
+---
+title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on New Pre-Court Action Protocol for Business-to-Business Debt Claims'
+date: 2020-02-03T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-New-Pre-Court-Action-Protocol-for-Business-to-Business-Debt-Claims
---- 
+
+---
+ 
 03 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Mr Lim Biow Chuan (Member of Parliament for Mountbatten SMC) 
