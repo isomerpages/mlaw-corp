@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by DPM Jayakumar during the Committee of Supply Debate 2008
+title: 'Speech by DPM Jayakumar during the Committee of Supply Debate 2008'
 permalink: /news/speeches/speech-by-dpm-jayakumar-during-the-committee-of-supply-debate
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 27 Feb 2008 Posted in [Speeches](/news/speeches)
 
