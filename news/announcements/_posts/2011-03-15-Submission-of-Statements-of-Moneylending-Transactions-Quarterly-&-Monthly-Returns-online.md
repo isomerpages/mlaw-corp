@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Submission of Statements of Moneylending Transactions (Quarterly & Monthly Returns) online
-date:   2011-03-15
+title: 'Submission of Statements of Moneylending Transactions (Quarterly & Monthly Returns) online'
+date: 2011-03-15T00:00:00.000Z
 permalink: /news/announcements/submission-of-statements-of-moneylending-transactions-quarterly-monthly-returns-online
+
 ---
+
 
 
 15 Mar 2011 Posted in [Announcements](/news/announcements) 
