@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Singapore Legal Forum
+title: 'Speech by Law Minister K Shanmugam at the Singapore Legal Forum'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-legal-forum
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 28 Aug 2010 Posted in [Speeches](/news/speeches)
