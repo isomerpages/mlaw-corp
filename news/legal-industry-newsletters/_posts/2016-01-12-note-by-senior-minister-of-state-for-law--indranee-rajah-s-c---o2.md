@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Lawyers in the Future of Us
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c---o2/
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Lawyers in the Future of Us'
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+
+---
+o2/
 breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Lawyers in the Future of Us
 collection_name: news
 ---
