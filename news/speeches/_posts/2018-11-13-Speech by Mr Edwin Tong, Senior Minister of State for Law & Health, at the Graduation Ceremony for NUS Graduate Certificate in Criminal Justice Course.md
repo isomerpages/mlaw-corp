@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course'
 permalink: /news/speeches/speech-sms-edwin-tong-nus-graduate-certificate-criminal-justice-course
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 13 Nov 2018 Posted in [Speeches](/news/speeches)
 
