@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Designation of Credit Bureau under the Revised Moneylenders Act
+title: 'Designation of Credit Bureau under the Revised Moneylenders Act'
 permalink: /news/press-releases/designation-of-credit-bureau-under-the-revised-moneylenders-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 June 2018 Posted in [Press releases](/news/press-releases)
 
