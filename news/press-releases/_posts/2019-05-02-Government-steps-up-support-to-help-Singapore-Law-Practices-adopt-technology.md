@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Government steps up support to help Singapore Law Practices adopt technology
+title: 'Government steps up support to help Singapore Law Practices adopt technology'
 permalink: /news/press-releases/govt-steps-up-support-to-help-singapore-law-practices-adopt-tech
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 2 May 2019 Posted in [Press releases](/news/press-releases)
 
