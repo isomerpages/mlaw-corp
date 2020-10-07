@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Senior Minister of State Assoc Prof Ho Peng Kee at APEC Trading Ideas Symposium 2009
+title: 'Opening Address by Senior Minister of State Assoc Prof Ho Peng Kee at APEC Trading Ideas Symposium 2009'
 permalink: /news/speeches/opening-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-apec-trading-ideas-symposium
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 4 Aug 2009 Posted in [Speeches](/news/speeches)
 
