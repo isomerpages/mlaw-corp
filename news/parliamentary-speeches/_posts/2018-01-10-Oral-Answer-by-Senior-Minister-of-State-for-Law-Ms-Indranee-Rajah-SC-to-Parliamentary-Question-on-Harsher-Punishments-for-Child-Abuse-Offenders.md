@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah S.C., to Parliamentary Question on Harsher Punishments for Child Abuse Offenders
+title: 'Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah S.C., to Parliamentary Question on Harsher Punishments for Child Abuse Offenders'
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen14
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 10 Jan 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
