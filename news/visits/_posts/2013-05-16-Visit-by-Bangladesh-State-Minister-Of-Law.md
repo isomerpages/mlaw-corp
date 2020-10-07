@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam
+title: 'Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam'
 permalink: /news/visits/Visit-by-Bangladesh-State-Minister-Of-Law/
-breadcrumb: Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam
-collection_name: news
+breadcrumb: 'Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
