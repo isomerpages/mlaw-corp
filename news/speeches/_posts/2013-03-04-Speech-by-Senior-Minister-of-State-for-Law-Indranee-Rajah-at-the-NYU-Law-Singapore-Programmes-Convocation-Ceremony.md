@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law, Indranee Rajah, at the NYU Law Singapore Programme's Convocation Ceremony
+title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the NYU Law Singapore Programme''s Convocation Ceremony'
 permalink: /news/speeches/speech-by-sms-law-at-nyu-law-ceremony
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 4 Mar 2013 Posted in [Speeches](/news/speeches)
 <br>  
