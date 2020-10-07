@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Protecting Administration Justice
+title: 'Protecting Administration Justice'
 permalink: /news/others/protecting-administration-justice/
-breadcrumb: Protecting Administration Justice
-collection_name: news
+breadcrumb: 'Protecting Administration Justice'
+
 ---
+
 
 Video on the Administration of Justice (Protection) Bill
 ---
