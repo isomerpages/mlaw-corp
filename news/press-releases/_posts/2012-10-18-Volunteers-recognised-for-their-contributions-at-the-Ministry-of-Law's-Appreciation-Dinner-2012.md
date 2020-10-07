@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Volunteers recognised for their contributions at the Ministry of Law's Appreciation Dinner 2012
+title: 'Volunteers recognised for their contributions at the Ministry of Law''s Appreciation Dinner 2012'
 permalink: /news/press-releases/volunteers-recognised-for-their-contributions-at-the-ministry-of-law-s-appreciation-dinner-2012
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 18 Oct 2012 Posted in [Press releases](/news/press-releases)
 
