@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Press Release on Public Consultation on Interim Recommendations of Committee for Family Justice
+title: 'Press Release on Public Consultation on Interim Recommendations of Committee for Family Justice'
 permalink: /news/press-releases/press-release-on-public-consultation-on-interim-recommendations-
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 May 2014 Posted in [Press releases](/news/press-releases)
 
