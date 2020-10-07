@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on International Arbitration Act
-date:   2019-06-26
+title: 'Public Consultation on International Arbitration Act'
+date: 2019-06-26T00:00:00.000Z
 permalink: /news/public-consultations/public-consultation-on-international-arbitration-act
+
 ---
+
 
 **Consultation Period:**  
 26 Jun 2019 to 21 Aug 2019 
