@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Application Fee for the Enforcement of Money Orders Issued by the Small Claims Tribunal
-date:   2017-02-06
+title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Application Fee for the Enforcement of Money Orders Issued by the Small Claims Tribunal'
+date: 2017-02-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen2
+
 ---
+
 
 6 Feb 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
