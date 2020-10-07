@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Opening of the 4th AIPPI Forum in Singapore 4 to 6 Oct 2007
-date:   2007-10-18
+title: 'Opening of the 4th AIPPI Forum in Singapore 4 to 6 Oct 2007'
+date: 2007-10-18T00:00:00.000Z
 permalink: /news/announcements/opening-of-the-4th-aippi-forum-in-singapore-4-to-6-oct-2007
+
 ---
+
 
 18 Oct 2007 Posted in [Announcements](/news/announcements)
 
