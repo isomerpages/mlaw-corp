@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Minister for Law, Mr K Shanmugam, on the Civil Law (Amendment) Bill
-date:   2012-10-16
+title: 'Second Reading Speech by Minister for Law, Mr K Shanmugam, on the Civil Law (Amendment) Bill'
+date: 2012-10-16T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-civil-law-amendment-bill
+
 ---
+
 
 
 16 Oct 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
