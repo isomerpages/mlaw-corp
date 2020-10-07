@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the Moneylenders Act
+title: 'Proposed amendments to the Moneylenders Act'
 permalink: /news/press-releases/proposed-amendments-to-the-moneylenders-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Feb 2012 Posted in [Press releases](/news/press-releases)
 
