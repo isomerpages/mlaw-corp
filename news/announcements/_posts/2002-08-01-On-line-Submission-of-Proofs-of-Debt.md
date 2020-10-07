@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  On-line Submission of Proofs of Debt
-date:   2002-08-01
+title: 'On-line Submission of Proofs of Debt'
+date: 2002-08-01T00:00:00.000Z
 permalink: /news/announcements/on-line-submission-of-proofs-of-debt
+
 ---
+
 
 1 Aug 2002 Posted in [Announcements](/news/announcements) 
 
