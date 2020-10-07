@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Details on Applying for an Exemption
+title: 'Details on Applying for an Exemption'
 permalink: /admission-to-the-bar/details-on-applying-for-an-exemption/
-breadcrumb: Details on Applying for Exemption
-collection_name: admission-to-the-bar
-second_nav_title: Applications to the Minister for Law for Exemption
+breadcrumb: 'Details on Applying for Exemption'
+third_nav_title: 'Applications to the Minister for Law for Exemption'
+
 ---
+
 
 Details on Applying for an Exemption
 ---
