@@ -1,9 +1,10 @@
 ---
-layout: post
-title: MINISTRY OF LAW ADDENDUM TO THE PRESIDENT’S ADDRESS
-date: 2020-08-27
+title: 'MINISTRY OF LAW ADDENDUM TO THE PRESIDENT’S ADDRESS'
+date: 2020-08-27T00:00:00.000Z
 permalink: /news/press-releases/ministry-of-law-addendum-to-the-presidents-address
+
 ---
+
 
 27 Aug 2020 Posted in [Press releases](/news/press-releases)
 
