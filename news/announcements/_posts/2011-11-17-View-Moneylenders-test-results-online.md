@@ -1,9 +1,10 @@
 ---
-layout: post
-title: View Moneylenders’ test results online
-date:   2011-11-17
+title: 'View Moneylenders’ test results online'
+date: 2011-11-17T00:00:00.000Z
 permalink: /news/announcements/view-moneylenders-test-results-online
+
 ---
+
 
 17 Nov 2011 Posted in [Announcements](/news/announcements)
 
