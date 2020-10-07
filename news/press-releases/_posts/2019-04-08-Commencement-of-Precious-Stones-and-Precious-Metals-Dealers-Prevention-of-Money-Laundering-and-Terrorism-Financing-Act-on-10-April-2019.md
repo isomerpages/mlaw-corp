@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Commencement of Precious Stones and Precious Metals Dealers (Prevention of Money Laundering and Terrorism Financing) Act on 10 April 2019
+title: 'Commencement of Precious Stones and Precious Metals Dealers (Prevention of Money Laundering and Terrorism Financing) Act on 10 April 2019'
 permalink: /news/press-releases/commencement-of-pspmd-act1
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 
 8 Apr 2019 Posted in [Press releases](/news/press-releases)
