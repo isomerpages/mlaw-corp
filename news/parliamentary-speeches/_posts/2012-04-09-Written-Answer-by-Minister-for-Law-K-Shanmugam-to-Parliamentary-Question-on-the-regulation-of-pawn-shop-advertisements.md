@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on the regulation of pawn shop advertisements
-date:   2012-04-09
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on the regulation of pawn shop advertisements'
+date: 2012-04-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-the-regulation-of
+
 ---
+
 
 
 9 Apr 2012 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
