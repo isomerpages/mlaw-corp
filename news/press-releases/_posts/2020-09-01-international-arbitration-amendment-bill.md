@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Enhancing the Regime for International Arbitration through the International Arbitration (Amendment) Bill
-date: 2020-09-01
+title: 'Enhancing the Regime for International Arbitration through the International Arbitration (Amendment) Bill'
+date: 2020-09-01T00:00:00.000Z
 permalink: /news/press-releases/international-arbitration-amendment-bill
+
 ---
+
 
 01 Sep 2020 Posted in [Press releases](/news/press-releases)
 
