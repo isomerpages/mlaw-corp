@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Request a Certificate of Good Standing
+title: 'Request a Certificate of Good Standing'
 permalink: /law-practice-entities-and-lawyers/other-services/request-for-a-certificate-of-good-standing/
-breadcrumb: Request a Certificate of Good Standing
-collection_name: law-practice-entities-and-lawyers
-second_nav_title: Other Services
+breadcrumb: 'Request a Certificate of Good Standing'
+third_nav_title: 'Other Services'
+
 ---
+
 
 Request a Certificate of Good Standing
 ---
