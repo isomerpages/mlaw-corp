@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New Mediator Management Framework to be rolled out by the Community Mediation Unit
+title: 'New Mediator Management Framework to be rolled out by the Community Mediation Unit'
 permalink: /news/press-releases/new-mediator-management-framework-to-be-rolled-out-by-the-community-mediation-unit
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 Jul 2012 Posted in [Press releases](/news/press-releases)
 
