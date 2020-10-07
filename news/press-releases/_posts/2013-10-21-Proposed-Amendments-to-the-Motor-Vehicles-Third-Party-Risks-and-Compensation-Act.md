@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed Amendments to the Motor Vehicles (Third-Party Risks and Compensation) Act
+title: 'Proposed Amendments to the Motor Vehicles (Third-Party Risks and Compensation) Act'
 permalink: /news/press-releases/amendments-mv-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 21 Oct 2013 Posted in [Press releases](/news/press-releases)
 
