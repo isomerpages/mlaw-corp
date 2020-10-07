@@ -1,10 +1,10 @@
 ---
-layout: post
-title: WIPO Director General Concludes Official Visit to Singapore
+title: 'WIPO Director General Concludes Official Visit to Singapore'
 permalink: /news/press-releases/wipo-director-general-concludes-official-visit-to-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Mar 2006 Posted in [Press releases](/news/press-releases)
 
