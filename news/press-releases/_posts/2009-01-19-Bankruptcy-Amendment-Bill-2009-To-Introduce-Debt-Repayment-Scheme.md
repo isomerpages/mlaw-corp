@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Bankruptcy (Amendment) Bill 2009 To Introduce Debt Repayment Scheme
+title: 'Bankruptcy (Amendment) Bill 2009 To Introduce Debt Repayment Scheme'
 permalink: /news/press-releases/bankruptcy-amendment-bill-2009-to-introduce-debt-repayment-scheme
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 19 Jan 2009 Posted in [Press releases](/news/press-releases)
 
