@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on the investigations into the SMRT drivers case
-date:   2013-02-25
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on the investigations into the SMRT drivers case'
+date: 2013-02-25T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-smrt-case
+
 ---
+
 
 25 Feb 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
