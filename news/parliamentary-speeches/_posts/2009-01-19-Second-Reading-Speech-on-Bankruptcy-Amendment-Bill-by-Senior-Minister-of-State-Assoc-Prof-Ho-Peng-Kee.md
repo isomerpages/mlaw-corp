@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Bankruptcy (Amendment) Bill by Senior Minister of State Assoc Prof Ho Peng Kee
-date:   2009-01-19
+title: 'Second Reading Speech on Bankruptcy (Amendment) Bill by Senior Minister of State Assoc Prof Ho Peng Kee'
+date: 2009-01-19T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-bankruptcy-amendment-bill-by-senior-minister-of-state-assoc-prof-ho-peng
+
 ---
+
 
 19 Jan 2009 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
