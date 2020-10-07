@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Criminal Procedure Code 2010 and Coroners Act take effect from 2 January 2011
+title: 'Criminal Procedure Code 2010 and Coroners Act take effect from 2 January 2011'
 permalink: /news/press-releases/criminal-procedure-code-2010-and-coroners-act-take-effect-from-2-january-2011
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 20 Dec 2010 Posted in [Press releases](/news/press-releases)
