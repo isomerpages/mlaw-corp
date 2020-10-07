@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Appointment of new Chief Executive, Intellectual Property Office of Singapore
+title: 'Appointment of new Chief Executive, Intellectual Property Office of Singapore'
 permalink: /news/press-releases/appointment-of-new-chief-executive-intellectual-property-office-of-singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 6 May 2011 Posted in [Press releases](/news/press-releases)
