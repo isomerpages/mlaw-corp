@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Reforms to the Civil Justice System
+title: 'Public Consultation on Proposed Reforms to the Civil Justice System'
 permalink: /news/public-consultation-proposed-reforms-civil-justice-system/
-breadcrumb: Public Consultation on Proposed Reforms to the Civil Justice System
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Reforms to the Civil Justice System'
+
 ---
+
 
 Public Consultation on Proposed Reforms to the Civil Justice System
 ---
