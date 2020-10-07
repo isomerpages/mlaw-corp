@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Vietnam Ministry of Justice delegation visits MinLaw
+title: 'Vietnam Ministry of Justice delegation visits MinLaw'
 permalink: /news/visits/vietnam-ministry-of-justice-delegation-visits-minlaw/
-breadcrumb: Vietnam Ministry of Justice delegation visits MinLaw
-collection_name: news
+breadcrumb: 'Vietnam Ministry of Justice delegation visits MinLaw'
+
 ---
+
 
 <style>
 .image {width: 600px;}
