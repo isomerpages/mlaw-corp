@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Deputy Commissioner of the State Intellectual Property Office, People’s Republic of China, Gan Shaoning
+title: 'Visit by Deputy Commissioner of the State Intellectual Property Office, People’s Republic of China, Gan Shaoning'
 permalink: /news/visits/visit-by-deputy-commissioner-of-the-state-intellectual-property-office-people-s-republic-of-china/
-breadcrumb: Visit by Deputy Commissioner of the State Intellectual Property Office, People’s Republic of China, Gan Shaoning
-collection_name: news
+breadcrumb: 'Visit by Deputy Commissioner of the State Intellectual Property Office, People’s Republic of China, Gan Shaoning'
+
 ---
+
 
 <style>
 .image {width: 600px;}
