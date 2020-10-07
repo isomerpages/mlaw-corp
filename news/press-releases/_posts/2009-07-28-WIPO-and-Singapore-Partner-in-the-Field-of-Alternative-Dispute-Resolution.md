@@ -1,10 +1,10 @@
 ---
-layout: post
-title: WIPO and Singapore Partner in the Field of Alternative Dispute Resolution
+title: 'WIPO and Singapore Partner in the Field of Alternative Dispute Resolution'
 permalink: /news/press-releases/wipo-and-singapore-partner-in-the-field-of-alternative-dispute-resolution
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 Jul 2009 Posted in [Press releases](/news/press-releases)
 
