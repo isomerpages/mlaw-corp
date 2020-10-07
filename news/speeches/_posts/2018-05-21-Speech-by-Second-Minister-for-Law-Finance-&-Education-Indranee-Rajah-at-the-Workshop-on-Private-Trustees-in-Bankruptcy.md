@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Second Minister for Law, Finance & Education, Indranee Rajah, at the Workshop on Private Trustees in Bankruptcy
+title: 'Speech by Second Minister for Law, Finance & Education, Indranee Rajah, at the Workshop on Private Trustees in Bankruptcy'
 permalink: /news/speeches/speech-by-2M-indranee-rajah-workshop-on-private-trustees-in-bankruptcy
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 21 May 2018 Posted in [Speeches](/news/speeches)
 
