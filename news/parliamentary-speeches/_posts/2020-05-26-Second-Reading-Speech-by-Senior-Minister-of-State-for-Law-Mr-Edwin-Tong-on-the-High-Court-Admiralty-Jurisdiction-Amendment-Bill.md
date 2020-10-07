@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the High Court (Admiralty Jurisdiction) (Amendment) Bill
-date:   2020-05-26
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the High Court (Admiralty Jurisdiction) (Amendment) Bill'
+date: 2020-05-26T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-the-High-Court-Admiralty-Jurisdiction-Amendment-Bill
+
 ---
+
 
 26 May 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
