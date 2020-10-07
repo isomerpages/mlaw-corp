@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Government Welcomes Committee Recommendations to Strengthen Singapore’s Moneylending Regulatory Regime
+title: 'Government Welcomes Committee Recommendations to Strengthen Singapore’s Moneylending Regulatory Regime'
 permalink: /news/press-releases/government-welcomes-committee-recommendations-to-strengthen-sing
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 29 May 2015 Posted in [Press releases](/news/press-releases)
 
