@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Senior Minister of State for Law and Finance, Indranee Rajah S.C., at the Association of Muslim Lawyers Annual Lecture 2016
+title: 'Keynote Address by Senior Minister of State for Law and Finance, Indranee Rajah S.C., at the Association of Muslim Lawyers Annual Lecture 2016'
 permalink: /news/speeches/keynote-address-by-senior-minister-of-state-for-law-and-finance-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 18 May 2016 Posted in [Speeches](/news/speeches)
 
