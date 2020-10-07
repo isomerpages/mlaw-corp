@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Vision, Mission and Core Values
+title: 'Our Vision, Mission and Core Values'
 permalink: /about-us/ourvision-mission-corevalues/
-breadcrumb: Our Vision, Mission and Core Values
-collection_name: about-us
+breadcrumb: 'Our Vision, Mission and Core Values'
+
 ---
+
 
 <style>
  .image {width: 600px;}
