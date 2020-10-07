@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Moneylenders (Amendment) Bill 2018 to Support Safer Access to Credit for Borrowers
+title: 'Moneylenders (Amendment) Bill 2018 to Support Safer Access to Credit for Borrowers'
 permalink: /news/press-releases/moneylenders--amendment--bill-2018-to-support-safer-access-to-cr
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 8 Jan 2018 Posted in [Press releases](/news/press-releases)
 
