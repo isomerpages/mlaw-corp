@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Registered Designs (Amendment) Bill
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Registered Designs (Amendment) Bill'
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra6
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 8 May 2017 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
