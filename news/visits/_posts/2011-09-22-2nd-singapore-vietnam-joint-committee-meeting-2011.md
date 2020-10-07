@@ -1,10 +1,10 @@
 ---
-layout: post
-title: 2nd Singapore-Vietnam Joint Committee Meeting 2011
+title: '2nd Singapore-Vietnam Joint Committee Meeting 2011'
 permalink: /news/visits/2nd-singapore-vietnam-joint-committee-meeting-2011/
-breadcrumb: 2nd Singapore-Vietnam Joint Committee Meeting 2011
-collection_name: news
+breadcrumb: '2nd Singapore-Vietnam Joint Committee Meeting 2011'
+
 ---
+
 
 <style>
 .image {width: 600px;}
