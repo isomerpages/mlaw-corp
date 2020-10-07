@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Minister for Law, K Shanmugam, on the Family Justice Bill
-date:   2014-08-04
+title: 'Second Reading Speech by Minister for Law, K Shanmugam, on the Family Justice Bill'
+date: 2014-08-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-by-Minister-on-Family-Justice-Bill
+
 ---
+
 
 
 4 Aug 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
