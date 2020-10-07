@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on tenancy-related dispute cases filed at Small Claims Tribunal
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on tenancy-related dispute cases filed at Small Claims Tribunal'
 permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-tenancy-dispute-cases-small-claims-tribunal
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 1 Apr 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
