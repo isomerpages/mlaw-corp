@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Moneylenders (Amendment) Bill
+title: 'Moneylenders (Amendment) Bill'
 permalink: /news/press-releases/moneylenders--amendment--bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 8 Jan 2018 Posted in [Press releases](/news/press-releases)
 
