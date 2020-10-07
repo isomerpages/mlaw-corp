@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Fact Sheet - Amendments to the Moneylenders Rules
+title: 'Fact Sheet - Amendments to the Moneylenders Rules'
 permalink: /news/press-releases/fact-sheet-amendments-to-the-moneylenders-rules
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Mar 2012 Posted in [Press releases](/news/press-releases)
 
