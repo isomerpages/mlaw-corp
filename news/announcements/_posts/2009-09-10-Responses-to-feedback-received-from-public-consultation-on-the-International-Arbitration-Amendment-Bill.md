@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Responses to feedback received from public consultation on the International Arbitration (Amendment) Bill
+title: 'Responses to feedback received from public consultation on the International Arbitration (Amendment) Bill'
 permalink: /news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment
 breadcrumb: Announcements
-collection_name: news
+
 ---
+
 
 10 Sep 2009 Posted in [Announcements](/news/announcements)
 
