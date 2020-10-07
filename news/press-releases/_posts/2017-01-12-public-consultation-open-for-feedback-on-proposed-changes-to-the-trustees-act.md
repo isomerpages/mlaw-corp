@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation Open for Feedback on Proposed Changes to the Trustees Act
+title: 'Public Consultation Open for Feedback on Proposed Changes to the Trustees Act'
 permalink: /news/press-releases/public-consultation-open-for-feedback-on-proposed-changes-to-the
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 12 Jan 2017 Posted in [Press releases](/news/press-releases)
 
