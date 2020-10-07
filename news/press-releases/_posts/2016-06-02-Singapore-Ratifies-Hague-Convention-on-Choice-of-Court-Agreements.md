@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Singapore Ratifies Hague Convention on Choice of Court Agreements
+title: 'Singapore Ratifies Hague Convention on Choice of Court Agreements'
 permalink: /news/press-releases/singapore-ratifies-hague-convention-on-choice-of-court-agreement
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 2 Jun 2016 Posted in [Press releases](/news/press-releases)
 
 1. Singapore has today ratified the Hague Convention on Choice of Court Agreements (“the Convention”). The ratification will bolster Singapore’s position as a dispute resolution hub in Asia. The Convention will come into force for Singapore on 1 October 2016.
