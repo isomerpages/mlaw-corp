@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Law, Mr K Shanmugam, at the Asia Pacific Legal Executive Briefing
+title: 'Speech by Minister for Law, Mr K Shanmugam, at the Asia Pacific Legal Executive Briefing'
 permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-asia-pacific-legal-executive-briefing
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 22 Mar 2012 Posted in [Speeches](/news/speeches)
