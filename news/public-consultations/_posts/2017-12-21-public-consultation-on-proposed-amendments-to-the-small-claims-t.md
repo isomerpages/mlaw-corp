@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Proposed Amendments to the Small Claims Tribunals Act
+title: 'Public Consultation on Proposed Amendments to the Small Claims Tribunals Act'
 permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-small-claims-t/
-breadcrumb: Public Consultation on Proposed Amendments to the Small Claims Tribunals Act
-collection_name: news
+breadcrumb: 'Public Consultation on Proposed Amendments to the Small Claims Tribunals Act'
+
 ---
+
 
 Public Consultation on Proposed Amendments to the Small Claims Tribunals Act
 ---
