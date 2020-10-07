@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at Sembawang Shipyard's Green Wave Environmental Care Project for Schools Award Presentation Ceremony
+title: 'Speech by Law Minister K Shanmugam at Sembawang Shipyard''s Green Wave Environmental Care Project for Schools Award Presentation Ceremony'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-sembawang-shipyard-s-green-wave-environmental-care-project
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Jan 2010 Posted in [Speeches](/news/speeches)
 <br>  
