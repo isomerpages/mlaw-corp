@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee during the Committee of Supply Debate 2010
+title: 'Speech by SMS Assoc Prof Ho Peng Kee during the Committee of Supply Debate 2010'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-during-the-committee-of-supply-debate-2010
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 11 Mar 2010 Posted in [Speeches](/news/speeches)
 
