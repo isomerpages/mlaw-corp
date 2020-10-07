@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, Tan Chiu Wui, Fined $2000
-date:   2014-08-08
+title: 'Errant Licensed Moneylender, Tan Chiu Wui, Fined $2000'
+date: 2014-08-08T00:00:00.000Z
 permalink: /news/press-releases/Errant-Licensed-Moneylender-Tan-Chiu-Wui-Fined-2000
+
 ---
+
 
 
 8 Aug 2014 Posted in [Press releases](/news/press-releases)
