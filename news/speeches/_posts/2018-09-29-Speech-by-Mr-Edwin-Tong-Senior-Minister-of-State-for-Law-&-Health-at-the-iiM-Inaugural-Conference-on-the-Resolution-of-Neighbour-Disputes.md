@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the iiM Inaugural Conference on the Resolution of Neighbour Disputes
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the iiM Inaugural Conference on the Resolution of Neighbour Disputes'
 permalink: /news/speeches/speech-by-sms-edwin-tong-iim-conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Sep 2018 Posted in [Speeches](/news/speeches)
 
