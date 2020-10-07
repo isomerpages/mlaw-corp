@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Chinese Vice Minister of Justice Xiong Xuanguo on Three-Day Official Visit to Singapore
+title: 'Chinese Vice Minister of Justice Xiong Xuanguo on Three-Day Official Visit to Singapore'
 permalink: /news/press-releases/Chinese-Vice-Minister-of-Justice-Xiong-Xuanguo-on-Three-Day-Official-Visit-to-Singapore
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 May 2019 Posted in [Press releases](/news/press-releases)
 
