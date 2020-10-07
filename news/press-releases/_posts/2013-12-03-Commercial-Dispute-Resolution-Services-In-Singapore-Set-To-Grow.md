@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Commercial Dispute Resolution Services In Singapore Set To Grow
+title: 'Commercial Dispute Resolution Services In Singapore Set To Grow'
 permalink: /news/press-releases/icmwg-recommendations
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 3 Dec 2013 Posted in [Press releases](/news/press-releases)
 
