@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law & Finance, at the Launch Ceremony of the ICC’s Case Management Office in Singapore
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law & Finance, at the Launch Ceremony of the ICC’s Case Management Office in Singapore'
 permalink: /news/speeches/speech-by-sms-indranee-rajah-icc-case-management-office-launch-ceremony
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 23 Apr 2018 Posted in [Speeches](/news/speeches)
