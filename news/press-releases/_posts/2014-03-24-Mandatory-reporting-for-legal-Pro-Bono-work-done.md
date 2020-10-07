@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Mandatory reporting for legal Pro Bono work done
+title: 'Mandatory reporting for legal Pro Bono work done'
 permalink: /news/press-releases/mandatory-reporting-for-legal-pro-bono-work-done
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 24 Mar 2014 Posted in [Press releases](/news/press-releases)
 
