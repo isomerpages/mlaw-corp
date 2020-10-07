@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Court of Judicature (Amendment) Bill, Evidence (Amendment) Bill and Legal Profession (Amendment) Bill
+title: 'Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Court of Judicature (Amendment) Bill, Evidence (Amendment) Bill and Legal Profession (Amendment) Bill'
 permalink: /news/public-consultations/public-consultation-on-drafts-of-the-constitution--amendment--bi/
-breadcrumb: Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Court of Judicature (Amendment) Bill, Evidence (Amendment) Bill and Legal Profession (Amendment) Bill
-collection_name: news
+breadcrumb: 'Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Court of Judicature (Amendment) Bill, Evidence (Amendment) Bill and Legal Profession (Amendment) Bill'
+
 ---
+
 
 Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Court of Judicature (Amendment) Bill, Evidence (Amendment) Bill and Legal Profession (Amendment) Bill
 ---
