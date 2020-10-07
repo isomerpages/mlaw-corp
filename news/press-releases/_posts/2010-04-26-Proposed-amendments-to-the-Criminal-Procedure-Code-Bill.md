@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Proposed amendments to the Criminal Procedure Code Bill
+title: 'Proposed amendments to the Criminal Procedure Code Bill'
 permalink: /news/press-releases/proposed-amendments-to-the-criminal-procedure-code-bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 26 Apr 2010 Posted in [Press releases](/news/press-releases)
