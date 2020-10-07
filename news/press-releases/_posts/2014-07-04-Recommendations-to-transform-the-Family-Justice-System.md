@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Recommendations to transform the Family Justice System
+title: 'Recommendations to transform the Family Justice System'
 permalink: /news/press-releases/recommendations-to-transform-family-justice-system
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 4 Jul 2014 Posted in [Press releases](/news/press-releases)
 
