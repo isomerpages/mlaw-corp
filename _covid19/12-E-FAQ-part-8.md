@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: FAQs for Proceedings before a Part 8 Assessor and Part 8 Determinations
+title: 'FAQs for Proceedings before a Part 8 Assessor and Part 8 Determinations'
 permalink: /covid19-relief/FAQ-for-processdings-before-part8
-breadcrumb: FAQs for Proceedings before a Part 8 Assessor and Part 8 Determinations
-collection_name: covid19
-second_nav_title: Part 8 of the Act-Application for Relief
+breadcrumb: 'FAQs for Proceedings before a Part 8 Assessor and Part 8 Determinations'
+third_nav_title: 'Part 8 of the Act-Application for Relief'
+
 ---
+
 
 ### FAQs for Proceedings before a Part 8 Assessor and Part 8 Determinations ###
 
