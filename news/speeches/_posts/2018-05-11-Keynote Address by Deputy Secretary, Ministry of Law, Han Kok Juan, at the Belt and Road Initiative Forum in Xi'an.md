@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Deputy Secretary, Ministry of Law, Han Kok Juan, at the Belt and Road Initiative Forum in Xi'an
+title: 'Keynote Address by Deputy Secretary, Ministry of Law, Han Kok Juan, at the Belt and Road Initiative Forum in Xi''an'
 permalink: /news/speeches/keynote-address-ds-han-kok-juan-belt-and-road-initiative-forum
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 11 May 2018 Posted in [Speeches](/news/speeches)
 
