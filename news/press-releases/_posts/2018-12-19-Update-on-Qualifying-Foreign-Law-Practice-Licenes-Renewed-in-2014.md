@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Update on Qualifying Foreign Law Practice Licences Renewed in 2014
+title: 'Update on Qualifying Foreign Law Practice Licences Renewed in 2014'
 permalink: /news/press-releases/update-on-QFLP-licences-renewed-in-2014
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 19 Dec 2018 Posted in [Press releases](/news/press-releases)
 
