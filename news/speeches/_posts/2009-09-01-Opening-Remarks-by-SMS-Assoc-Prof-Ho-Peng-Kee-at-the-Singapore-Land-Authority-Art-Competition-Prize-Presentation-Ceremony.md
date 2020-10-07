@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Remarks by SMS Assoc Prof Ho Peng Kee at the Singapore Land Authority Art Competition Prize Presentation Ceremony
+title: 'Opening Remarks by SMS Assoc Prof Ho Peng Kee at the Singapore Land Authority Art Competition Prize Presentation Ceremony'
 permalink: /news/speeches/opening-remarks-by-sms-assoc-prof-ho-peng-kee-at-the-singapore-land-authority-art-competition-prize
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 1 Sep 2009 Posted in [Speeches](/news/speeches)
 
