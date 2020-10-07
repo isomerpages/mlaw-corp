@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Minister for Law and Minister for Home Affairs K Shanmugam’s response to questions from SCMP and ZB on his views on the situation in Hong Kong
-date:   2019-08-11
+title: 'Minister for Law and Minister for Home Affairs K Shanmugam’s response to questions from SCMP and ZB on his views on the situation in Hong Kong'
+date: 2019-08-11T00:00:00.000Z
 permalink: /news/others/Minister-for-Law-and-Minister-for-Home-Affairs-K-Shanmugam-response-to-questions-from-SCMP-and-ZB-on-his-views-on-the-situation-in-HK
+
 ---
+
 
 
 11 Aug 2019 Posted in [Others](/news/others)
