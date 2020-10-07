@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second reading speech by Law Minister K Shanmugam on the Presidential Elections (Amendment) Bill
-date:   2010-04-27
+title: 'Second reading speech by Law Minister K Shanmugam on the Presidential Elections (Amendment) Bill'
+date: 2010-04-27T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-presidential-elections-amendment-bill
+
 ---
+
 
 
 27 Apr 2010 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
