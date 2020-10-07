@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation Open for Feedback on Singapore’s Copyright Regime
+title: 'Public Consultation Open for Feedback on Singapore’s Copyright Regime'
 permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-re
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 23 Aug 2016 Posted in [Press releases](/news/press-releases)
 
