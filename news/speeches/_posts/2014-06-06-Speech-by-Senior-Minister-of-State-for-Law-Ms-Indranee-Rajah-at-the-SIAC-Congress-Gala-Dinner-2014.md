@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law Ms Indranee Rajah at the SIAC Congress Gala Dinner 2014
+title: 'Speech by Senior Minister of State for Law Ms Indranee Rajah at the SIAC Congress Gala Dinner 2014'
 permalink: /news/speeches/speech-by-sms-at-the-siac-congress-gala-dinner-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 6 Jun 2014 Posted in [Speeches](/news/speeches)
 
