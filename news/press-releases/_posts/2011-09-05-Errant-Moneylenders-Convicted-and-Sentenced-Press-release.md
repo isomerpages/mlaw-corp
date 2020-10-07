@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Moneylenders Convicted and Sentenced - Press release
+title: 'Errant Moneylenders Convicted and Sentenced - Press release'
 permalink: /news/press-releases/errant-moneylenders-convicted-and-sentenced-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 5 Sep 2011 Posted in [Press releases](/news/press-releases)
