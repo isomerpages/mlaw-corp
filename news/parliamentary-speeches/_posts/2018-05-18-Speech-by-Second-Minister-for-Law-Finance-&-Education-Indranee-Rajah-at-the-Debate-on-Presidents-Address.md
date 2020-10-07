@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Second Minister for Law, Finance & Education, Indranee Rajah at the Debate on President's Address
+title: 'Speech by Second Minister for Law, Finance & Education, Indranee Rajah at the Debate on President''s Address'
 permalink: /news/parliamentary-speeches/speech-by-2M-indranee-rajah-debate-on-president-address
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 18 May 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
