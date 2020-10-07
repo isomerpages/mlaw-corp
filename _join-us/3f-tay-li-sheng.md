@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Ms Tay Li Sheng
+title: 'Ms Tay Li Sheng'
 permalink: /join-us/meet-our-colleagues/tay-li-sheng/
-breadcrumb: Ms Tay Li Sheng
-collection_name: join-us
-seventh_nav_title: Meet Our Colleagues
+breadcrumb: 'Ms Tay Li Sheng'
+seventh_nav_title: 'Meet Our Colleagues'
+
 ---
+
 
 <style>
   .image {width: 200px;}
