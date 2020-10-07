@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on India's Arbitration Awakening
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on India''s Arbitration Awakening'
 permalink: /news/legal-industry-newsletter/note-by-sms-indranee-india-arbitration-awakening/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on India's Arbitration Awakening
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on India''s Arbitration Awakening'
+
 ---
+
 
 <style>
   .image {width: 200px;}
