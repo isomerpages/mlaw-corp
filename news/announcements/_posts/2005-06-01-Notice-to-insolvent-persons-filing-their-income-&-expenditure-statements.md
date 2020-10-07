@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Notice to insolvent persons filing their income & expenditure statements
-date:   2005-06-01
+title: 'Notice to insolvent persons filing their income & expenditure statements'
+date: 2005-06-01T00:00:00.000Z
 permalink: /news/announcements/notice-to-insolvent-persons-filing-their-income-expenditure-statements
+
 ---
+
 
 1 Jun 2005 Posted in [Announcements](/news/announcements) 
 
