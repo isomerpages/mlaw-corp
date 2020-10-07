@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Consultation on Moneylenders Bill 2008 - Response To Feedback Received
+title: 'Consultation on Moneylenders Bill 2008 - Response To Feedback Received'
 permalink: /news/press-releases/consultation-on-moneylenders-bill-2008-response-to-feedback-received
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 20 Oct 2008 Posted in [Press releases](/news/press-releases)
 
