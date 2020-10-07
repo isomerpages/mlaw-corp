@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Motor Vehicles (Third-Party Risks And Compensation) (Amendment) Bill
-date:   2013-11-12
+title: 'Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Motor Vehicles (Third-Party Risks And Compensation) (Amendment) Bill'
+date: 2013-11-12T00:00:00.000Z
 permalink: /news/parliamentary-speeches/2R-speech-on-MVA
+
 ---
+
 
 
 11 Nov 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
