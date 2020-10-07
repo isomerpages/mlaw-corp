@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Reforms to the Intellectual Property Dispute Resolution System
+title: 'Public Consultation on Proposed Reforms to the Intellectual Property Dispute Resolution System'
 permalink: /news/press-releases/public-consultation-proposed-reforms-IP-dispute-resolution-system
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 26 Oct 2018 Posted in [Press releases](/news/press-releases)
 
 1. The Ministry of Law (MinLaw) launched a public consultation today to gather feedback on proposed reforms to the intellectual property (IP) dispute resolution system. The public consultation will run from 26 October to 30 November 2018.
