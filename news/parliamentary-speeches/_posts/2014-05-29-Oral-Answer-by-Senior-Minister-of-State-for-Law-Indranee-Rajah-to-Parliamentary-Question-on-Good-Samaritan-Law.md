@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Good Samaritan Law
-date:   2014-05-29
+title: 'Oral Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on Good Samaritan Law'
+date: 2014-05-29T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-good-samaritan-law
+
 ---
+
 
 29 May 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
