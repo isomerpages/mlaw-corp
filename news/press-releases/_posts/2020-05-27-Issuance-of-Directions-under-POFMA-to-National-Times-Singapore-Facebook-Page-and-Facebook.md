@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Issuance of Directions under the Protection from Online Falsehoods and Manipulation Act to National Times Singapore Facebook Page and Facebook
-date: 2020-05-27
+title: 'Issuance of Directions under the Protection from Online Falsehoods and Manipulation Act to National Times Singapore Facebook Page and Facebook'
+date: 2020-05-27T00:00:00.000Z
 permalink: /news/press-releases/Issuance-of-Directions-under-POFMA-to-National-Times-Singapore-Facebook-Page-and-Facebook
+
 ---
+
 
 27 May 2020 Posted in [Press releases](/news/press-releases)
 
