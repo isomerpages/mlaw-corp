@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Remarks by Law Minister K Shanmugam at the Signing of the Agreement to establish a WIPO Arbitration and Mediation Center
+title: 'Remarks by Law Minister K Shanmugam at the Signing of the Agreement to establish a WIPO Arbitration and Mediation Center'
 permalink: /news/speeches/remarks-by-law-minister-k-shanmugam-at-the-signing-of-the-agreement-to-establish-a-wipo-arbitration
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 28 Jul 2009 Posted in [Speeches](/news/speeches)
 <br>    
