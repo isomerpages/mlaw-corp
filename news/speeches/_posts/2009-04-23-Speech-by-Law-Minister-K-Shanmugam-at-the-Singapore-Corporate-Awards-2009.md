@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Singapore Corporate Awards 2009
+title: 'Speech by Law Minister K Shanmugam at the Singapore Corporate Awards 2009'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-corporate-awards-2009
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 23 Apr 2009 Posted in [Speeches](/news/speeches)
 
