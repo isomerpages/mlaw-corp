@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, on Temporary Occupation Licences
+title: 'Written Answer by Minister for Law, K Shanmugam, on Temporary Occupation Licences'
 permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Temporary-Occupation-Licences
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 9 Jul 2018 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
