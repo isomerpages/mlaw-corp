@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Public Consultation Paper on Unsecured Credit Rules
-date:   2007-12-01
+title: 'Second Public Consultation Paper on Unsecured Credit Rules'
+date: 2007-12-01T00:00:00.000Z
 permalink: /news/announcements/second-public-consultation-paper-on-unsecured-credit-rules
+
 ---
+
 
 1 Dec 2007 Posted in [Announcements](/news/announcements) 
 
