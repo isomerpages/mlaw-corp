@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Note by Minister Indranee Rajah on Resilience with IP
+title: 'Note by Minister Indranee Rajah on Resilience with IP'
 permalink: /news/legal-industry-newsletter/Note-by-Min-Indranee-Rajah-on-Resilience-with-IP/
-breadcrumb: Note by Minister Indranee Rajah on Resilience with IP
+breadcrumb: 'Note by Minister Indranee Rajah on Resilience with IP'
+
 ---
+
 
 <style>
   .image {width: 200px;}
