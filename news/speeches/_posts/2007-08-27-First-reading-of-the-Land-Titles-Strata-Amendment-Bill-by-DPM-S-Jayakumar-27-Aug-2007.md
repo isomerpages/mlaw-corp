@@ -1,10 +1,10 @@
 ---
-layout: post
-title: First reading of the Land Titles (Strata) (Amendment) Bill by DPM S Jayakumar, 27 Aug 2007
+title: 'First reading of the Land Titles (Strata) (Amendment) Bill by DPM S Jayakumar, 27 Aug 2007'
 permalink: /news/speeches/first-reading-of-the-land-titles-strata-amendment-bill-by-dpm-s-jayakumar-27-aug-2007
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 27 Aug 2007 Posted in [Speeches](/news/speeches)
  
