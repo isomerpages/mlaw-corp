@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Register an Individual
+title: 'Register an Individual'
 permalink: /law-practice-entities-and-lawyers/registration-of-individuals/register-an-individual/
-breadcrumb: Register an Individual
-collection_name: law-practice-entities-and-lawyers
-second_nav_title: Registration of Individuals
+breadcrumb: 'Register an Individual'
+third_nav_title: 'Registration of Individuals'
+
 ---
+
 
 <style>
 table tr td ul li {font-size: 1rem;}
