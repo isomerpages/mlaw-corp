@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Moneylenders Prosecuted - Press release
+title: 'Errant Moneylenders Prosecuted - Press release'
 permalink: /news/press-releases/errant-moneylenders-prosecuted-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 15 Aug 2011 Posted in [Press releases](/news/press-releases)
