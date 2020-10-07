@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Factsheet on Intellectual Property (Border Enforcement) Bill
+title: 'Factsheet on Intellectual Property (Border Enforcement) Bill'
 permalink: /news/press-releases/factsheet-on-intellectual-property--border-enforcement--bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 May 2018 Posted in [Press releases](/news/press-releases)
 
