@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Senior Minister of State for Law, Indranee Rajah at Launch Seminar of the Applied Research Centre for Intellectual Assets and the Law in Asia
+title: 'Opening Address by Senior Minister of State for Law, Indranee Rajah at Launch Seminar of the Applied Research Centre for Intellectual Assets and the Law in Asia'
 permalink: /news/speeches/ARCIALA-speech-by-SMS-Indranee-Rajah
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 May 2015 Posted in [Speeches](/news/speeches)
 
