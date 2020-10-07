@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Indranee Rajah, on the Statutes (Miscellaneous Amendments) Bill 2016
-date:   2016-05-09
+title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah, on the Statutes (Miscellaneous Amendments) Bill 2016'
+date: 2016-05-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra1
+
 ---
+
 
 9 May 2016 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
