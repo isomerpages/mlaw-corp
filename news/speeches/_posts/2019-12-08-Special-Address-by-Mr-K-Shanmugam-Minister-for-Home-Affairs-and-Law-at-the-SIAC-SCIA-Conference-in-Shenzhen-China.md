@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Special Address by Mr K Shanmugam, Minister for Home Affairs and Law, at the SIAC-SCIA Conference in Shenzhen, China
-date:   2019-12-08
+title: 'Special Address by Mr K Shanmugam, Minister for Home Affairs and Law, at the SIAC-SCIA Conference in Shenzhen, China'
+date: 2019-12-08T00:00:00.000Z
 permalink: /news/speeches/Special-Address-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Law-at-the-SIAC-SCIA-Conference
+
 ---
+
 
 08 Dec 2019 Posted in [[Speeches](/news/speeches)]
 
