@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public consultation on Proposed Amendments to the Evidence Act
+title: 'Public consultation on Proposed Amendments to the Evidence Act'
 permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-evidence-act
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 30 Sep 2011 Posted in [Press releases](/news/press-releases)
 
