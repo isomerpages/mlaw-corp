@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Renewal of Qualifying Foreign Law Practice Licences Awarded in 2008
+title: 'Renewal of Qualifying Foreign Law Practice Licences Awarded in 2008'
 permalink: /news/press-releases/renewal-of-qualifying-foreign-law-practice-licences-awarded-in-2
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 Feb 2014 Posted in [Press releases](/news/press-releases)
 
