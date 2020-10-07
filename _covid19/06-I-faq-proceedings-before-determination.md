@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: FAQs for Proceedings before an Assessor and Assessor’s Determinations
+title: 'FAQs for Proceedings before an Assessor and Assessor’s Determinations'
 permalink: /covid19-relief/faq-proceedings-before-determination
-breadcrumb: FAQs for Proceedings before an Assessor and Assessor’s Determinations
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+breadcrumb: 'FAQs for Proceedings before an Assessor and Assessor’s Determinations'
+third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+
 ---
+
 ### FAQs for Proceedings before an Assessor and Assessor’s Determinations ###
 
 <u>Important note</u>: This section does not deal with questions on the rental waivers or the rental relief framework that was announced in June 2020. If you have specific questions on the rental relief framework and the rental relief assessors' determinations under the rental relief framework, please click [here](https://www.mlaw.gov.sg/covid19-relief/faq/rental-relief) for the FAQs.
