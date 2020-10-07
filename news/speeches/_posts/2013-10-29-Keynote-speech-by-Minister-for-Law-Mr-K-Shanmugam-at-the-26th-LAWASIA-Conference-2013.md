@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote speech by Minister for Law, Mr K Shanmugam, at the 26th LAWASIA Conference 2013
+title: 'Keynote speech by Minister for Law, Mr K Shanmugam, at the 26th LAWASIA Conference 2013'
 permalink: /news/speeches/keynote-speech-by-Minister-at-LAWASIA-conference-2013
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Oct 2013 Posted in [Speeches](/news/speeches)
 
