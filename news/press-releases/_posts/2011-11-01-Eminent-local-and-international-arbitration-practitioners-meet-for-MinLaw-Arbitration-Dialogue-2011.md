@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Eminent local and international arbitration practitioners meet for MinLaw's Arbitration Dialogue 2011
+title: 'Eminent local and international arbitration practitioners meet for MinLaw''s Arbitration Dialogue 2011'
 permalink: /news/press-releases/eminent-local-and-international-arbitration-practitioners-meet-for-minlaw-s-arbitration-dialogue
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 1 Nov 2011 Posted in [Press releases](/news/press-releases)
