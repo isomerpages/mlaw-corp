@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Fact sheet on the Status of Children (Assisted Reproduction Technology) Bill
+title: 'Fact sheet on the Status of Children (Assisted Reproduction Technology) Bill'
 permalink: /news/press-releases/fact-sheet-soc-bill-2013
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 8 Jul 2013 Posted in [Press releases](/news/press-releases)
 
