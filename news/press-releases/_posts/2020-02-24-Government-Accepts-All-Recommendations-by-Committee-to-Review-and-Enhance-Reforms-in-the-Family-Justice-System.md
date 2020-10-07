@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Government Accepts All Recommendations by Committee to Review and Enhance Reforms in the Family Justice System
-date:   2020-02-24
+title: 'Government Accepts All Recommendations by Committee to Review and Enhance Reforms in the Family Justice System'
+date: 2020-02-24T00:00:00.000Z
 permalink: /news/press-releases/Government-Accepts-All-Recommendations-by-Committee-to-Review-and-Enhance-Reforms-in-the-Family-Justice-System
+
 ---
+
 
 24 Feb 2020 Posted in [Press releases](/news/press-releases)
 
