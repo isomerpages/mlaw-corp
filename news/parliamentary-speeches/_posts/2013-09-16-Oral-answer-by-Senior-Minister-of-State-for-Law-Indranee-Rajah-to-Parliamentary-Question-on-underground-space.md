@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on underground space
-date:   2013-09-16
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on underground space'
+date: 2013-09-16T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-underground-space
+
 ---
+
 
 
 16 Sep 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
