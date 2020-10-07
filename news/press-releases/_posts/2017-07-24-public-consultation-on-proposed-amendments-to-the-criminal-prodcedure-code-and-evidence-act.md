@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act
+title: 'Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act'
 permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-criminal-proce
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 24 Jul 2017 Posted in [Press releases](/news/press-releases)
 
