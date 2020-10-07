@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tax Amendments
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tax Amendments'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r6/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tax Amendments
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Tax Amendments'
+
 ---
+
 
 <style>
   .image {width: 200px;}
