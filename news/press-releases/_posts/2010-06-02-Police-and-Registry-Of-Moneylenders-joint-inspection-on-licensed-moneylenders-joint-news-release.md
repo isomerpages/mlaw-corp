@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Police and Registry Of Moneylenders' joint inspection on licensed moneylenders --- joint news release
+title: 'Police and Registry Of Moneylenders'' joint inspection on licensed moneylenders'
+
+---
+ joint news release
 permalink: /news/press-releases/police-and-registry-of-moneylenders-joint-inspection-on-licensed-moneylenders-joint-news
 breadcrumb: Press Releases
 collection_name: news
