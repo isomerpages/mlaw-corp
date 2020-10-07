@@ -1,9 +1,10 @@
 ---
-layout: post
-title: The Law Reform Essay Competition 2015
-date:   2015-06-17
+title: 'The Law Reform Essay Competition 2015'
+date: 2015-06-17T00:00:00.000Z
 permalink: /news/announcements/TheLawReformEssayCompetition2015
+
 ---
+
 
 17 Jun 2015 Posted in [Announcements](/news/announcements)
 
