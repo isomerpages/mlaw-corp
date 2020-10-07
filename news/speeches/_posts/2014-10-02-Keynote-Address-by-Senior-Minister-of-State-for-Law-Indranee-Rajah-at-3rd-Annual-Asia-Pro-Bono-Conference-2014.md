@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Senior Minister of State for Law, Indranee Rajah, at 3rd Annual Asia Pro Bono Conference 2014
+title: 'Keynote Address by Senior Minister of State for Law, Indranee Rajah, at 3rd Annual Asia Pro Bono Conference 2014'
 permalink: /news/speeches/keynote-address-by-sms-indranee-rajah-at-3rd-annual-asia-pro-bon
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 2 Oct 2014 Posted in [Speeches](/news/speeches)
 
