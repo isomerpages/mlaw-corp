@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Tribute to the Founding Prime Minister of Singapore, the Late Mr Lee Kuan Yew, by Senior Minister of State for Law, Indranee Rajah SC
-date:   2015-03-26
+title: 'Tribute to the Founding Prime Minister of Singapore, the Late Mr Lee Kuan Yew, by Senior Minister of State for Law, Indranee Rajah SC'
+date: 2015-03-26T00:00:00.000Z
 permalink: /news/parliamentary-speeches/tribute-founding-pm-sg-lky
+
 ---
+
 
 
 26 Mar 2015 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
