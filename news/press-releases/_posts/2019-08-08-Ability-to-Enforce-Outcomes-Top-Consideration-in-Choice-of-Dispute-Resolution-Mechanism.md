@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Ability to Enforce Outcomes Top Consideration in Choice of Dispute Resolution Mechanism
-date:   2019-08-08
+title: 'Ability to Enforce Outcomes Top Consideration in Choice of Dispute Resolution Mechanism'
+date: 2019-08-08T00:00:00.000Z
 permalink: /news/press-releases/Ability-to-Enforce-Outcomes-Top-Consideration-in-Choice-of-Dispute-Resolution-Mechanism
+
 ---
+
 
 8 Aug 2019 Posted in [Press releases](/news/press-releases)
 
