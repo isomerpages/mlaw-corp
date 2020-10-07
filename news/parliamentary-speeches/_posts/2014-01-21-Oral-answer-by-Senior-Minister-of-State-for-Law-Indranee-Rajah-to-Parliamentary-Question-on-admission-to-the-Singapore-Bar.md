@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on admission to the Singapore Bar
-date:   2014-01-21
+title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on admission to the Singapore Bar'
+date: 2014-01-21T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--indranee-rajah-
+
 ---
+
 
 21 Jan 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
