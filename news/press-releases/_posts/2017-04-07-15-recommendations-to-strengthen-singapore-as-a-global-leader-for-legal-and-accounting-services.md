@@ -1,10 +1,10 @@
 ---
-layout: post
-title: 15 Recommendations to Strengthen Singapore as a Global Leader for Legal and Accounting Services
+title: '15 Recommendations to Strengthen Singapore as a Global Leader for Legal and Accounting Services'
 permalink: /news/press-releases/15-recommendations-to-strengthen-singapore-as-a-global-leader-fo
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Apr 2017 Posted in [Press releases](/news/press-releases)
 
