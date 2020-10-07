@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Oral Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Elected Presidency
-date:   2014-07-09
+title: 'Oral Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Elected Presidency'
+date: 2014-07-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/oral-answer-by-minister-on-elected-presidency
+
 ---
+
 
 
 9 Jul 2014 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
