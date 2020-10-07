@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Licensed Moneylender, Peh Teck Tiong, Fined $17,000
+title: 'Errant Licensed Moneylender, Peh Teck Tiong, Fined $17,000'
 permalink: /news/press-releases/errant-licensed-moneylender--peh-teck-tiong--fined--17-000
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Apr 2014 Posted in [Press releases](/news/press-releases)
 
