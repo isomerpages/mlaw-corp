@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Singapore Helps Japan Build Expertise in International Commercial Mediation
+title: 'Singapore Helps Japan Build Expertise in International Commercial Mediation'
 permalink: /news/press-releases/singapore-helps-japan-build-expertise-in-international-commercia
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Dec 2017 Posted in [Press releases](/news/press-releases)
 
