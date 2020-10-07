@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by delegation from China's State Intellectual Property Office
+title: 'Visit by delegation from China''s State Intellectual Property Office'
 permalink: /news/visits/visit-by-delegation-from-china-s-state-intellectual-property-office/
-breadcrumb: Visit by delegation from China's State Intellectual Property Office
-collection_name: news
+breadcrumb: 'Visit by delegation from China''s State Intellectual Property Office'
+
 ---
+
 Visit by delegation from China's State Intellectual Property Office
 ---
 
