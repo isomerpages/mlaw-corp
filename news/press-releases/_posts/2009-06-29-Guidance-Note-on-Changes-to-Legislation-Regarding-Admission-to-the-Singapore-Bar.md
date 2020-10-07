@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Guidance Note on Changes to Legislation Regarding Admission to the Singapore Bar
+title: 'Guidance Note on Changes to Legislation Regarding Admission to the Singapore Bar'
 permalink: /news/press-releases/guidance-note-on-changes-to-legislation-regarding-admission-to-the-singapore-bar
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 29 Jun 2009 Posted in [Press releases](/news/press-releases)
 
