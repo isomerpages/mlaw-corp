@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Registered Designs (Amendment) Act 2017 and Design Law Reform Conferenc
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Registered Designs (Amendment) Act 2017 and Design Law Reform Conferenc'
 permalink: /news/legal-industry-newsletter/note-by-SMS-registered-designs-act-2017/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Registered Designs (Amendment) Act 2017 and Design Law Reform Conference
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Registered Designs (Amendment) Act 2017 and Design Law Reform Conference'
+
 ---
+
 
 <style>
   .image {width: 200px;}
