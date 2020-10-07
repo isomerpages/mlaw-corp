@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r1/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill 2017
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Trustees (Amendment) Bill 2017'
+
 ---
+
 
 <style>
   .image {width: 200px;}
