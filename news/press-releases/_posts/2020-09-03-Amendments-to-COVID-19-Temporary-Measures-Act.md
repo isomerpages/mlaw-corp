@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Amendments to COVID-19 (Temporary Measures) Act
-date: 2020-09-03
+title: 'Amendments to COVID-19 (Temporary Measures) Act'
+date: 2020-09-03T00:00:00.000Z
 permalink: /news/press-releases/2020-09-03-Amendments-to-COVID-19-Temporary-Measures-Act
+
 ---
+
 
 03 Sep 2020 Posted in [Press releases](/news/press-releases)
 
