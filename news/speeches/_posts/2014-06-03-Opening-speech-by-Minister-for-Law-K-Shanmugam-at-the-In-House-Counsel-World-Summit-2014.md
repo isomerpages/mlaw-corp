@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening speech by Minister for Law, K Shanmugam, at the In-House Counsel World Summit 2014
+title: 'Opening speech by Minister for Law, K Shanmugam, at the In-House Counsel World Summit 2014'
 permalink: /news/speeches/opening-speech-by-minister-for-law-at-in-house-counsel-world-summit-2014
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 3 Jun 2014 Posted in [Speeches](/news/speeches)
