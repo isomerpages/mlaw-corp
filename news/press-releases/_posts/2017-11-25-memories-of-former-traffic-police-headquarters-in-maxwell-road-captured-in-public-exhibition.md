@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Memories of Former Traffic Police Headquarters in Maxwell Road Captured in Public Exhibition
+title: 'Memories of Former Traffic Police Headquarters in Maxwell Road Captured in Public Exhibition'
 permalink: /news/press-releases/memories-of-former-traffic-police-headquarters-in-maxwell-road-c
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Nov 2017 Posted in [Press releases](/news/press-releases)
 
