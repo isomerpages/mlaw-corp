@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law’s response to Human Rights Watch’s January 2012 country report for Singapore, quoted on Yahoo! News Singapore
+title: 'Ministry of Law’s response to Human Rights Watch’s January 2012 country report for Singapore, quoted on Yahoo! News Singapore'
 permalink: /news/replies/ministry-of-law-s-response-to-human-rights-watch-s-january-2012-country-report-for-singapore/
-breadcrumb: Ministry of Law’s response to Human Rights Watch’s January 2012 country report for Singapore, quoted on Yahoo! News Singapore
-collection_name: news
+breadcrumb: 'Ministry of Law’s response to Human Rights Watch’s January 2012 country report for Singapore, quoted on Yahoo! News Singapore'
+
 ---
+
 
 Ministry of Law’s response to Human Rights Watch’s January 2012 country report for Singapore, quoted on Yahoo! News Singapore
 ---
