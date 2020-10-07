@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Second Reading Speech on Mutual Assistance in Criminal Matters (Amendment) Bill
-date:   2006-02-13
+title: 'Second Reading Speech on Mutual Assistance in Criminal Matters (Amendment) Bill'
+date: 2006-02-13T00:00:00.000Z
 permalink: /news/parliamentary-speeches/second-reading-speech-on-mutual-assistance-in-criminal-matters-amendment-bill-
+
 ---
+
 
 13 Feb 2006 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
