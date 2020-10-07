@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the Originals IP Spectacular! Finale Event
+title: 'Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the Originals IP Spectacular! Finale Event'
 permalink: /news/speeches/speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-originals-ip_1
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Apr 2012 Posted in [Speeches](/news/speeches)
 
