@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Breast Cancer Foundation 20th Anniversary Pink Ribbon Charity Gala, 29 Sep 2017
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the Breast Cancer Foundation 20th Anniversary Pink Ribbon Charity Gala, 29 Sep 2017'
 permalink: /news/speeches/speech-by-ms-indranee-rajah--senior-minister-of-state--ministry-
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 29 Sep 2017 Posted in [Speeches](/news/speeches)
 
