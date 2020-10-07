@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Civil Law (Amendment) Bill
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c---o13/
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Civil Law (Amendment) Bill'
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+
+---
+o13/
 breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Civil Law (Amendment) Bill
 collection_name: news
 ---
