@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of the Law Society of Singapore's Women In Practice Task Force
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of the Law Society of Singapore''s Women In Practice Task Force'
 permalink: /news/speeches/speech-by-sms-indranee-law-society-women-in-practice-launch-event
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 7 Mar 2018 Posted in [Speeches](/news/speeches)
 
