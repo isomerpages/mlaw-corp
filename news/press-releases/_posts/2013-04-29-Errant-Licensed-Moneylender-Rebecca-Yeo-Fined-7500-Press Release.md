@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Errant Licensed Moneylender Rebecca Yeo Fined $7,500 - Press Release
-permalink: /news/press-releases/errant-licensed-moneylender-rebecca-yeo-fined--7-500---press-rel
+title: 'Errant Licensed Moneylender Rebecca Yeo Fined $7,500 - Press Release'
+permalink: /news/press-releases/errant-licensed-moneylender-rebecca-yeo-fined--7-500
+
+---
+press-rel
 breadcrumb: Press Releases
 collection_name: news
 ---
