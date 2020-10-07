@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on undischarged bankrupts
-date:   2013-09-16
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on undischarged bankrupts'
+date: 2013-09-16T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-min-on-undischarged-bankrupts
+
 ---
+
 
 16 Sep 2013 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
