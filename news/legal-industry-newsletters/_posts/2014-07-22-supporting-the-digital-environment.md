@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Supporting The Digital Environment
+title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Supporting The Digital Environment'
 permalink: /news/legal-industry-newsletter/supporting-the-digital-environment/
-breadcrumb: Note by Senior Minister of State for Law, Indranee Rajah S.C., on Supporting The Digital Environment
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Supporting The Digital Environment'
+
 ---
+
 
 <style>
   .image {width: 200px;}
