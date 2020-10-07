@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Responses to feedback received from Public Consultation on the Proposed Amendments to the Pawnbrokers Act
+title: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Pawnbrokers Act'
 permalink: /news/public-consultations/responses-pawnbrokers-act-2013/
-breadcrumb: Responses to feedback received from Public Consultation on the Proposed Amendments to the Pawnbrokers Act
-collection_name: news
+breadcrumb: 'Responses to feedback received from Public Consultation on the Proposed Amendments to the Pawnbrokers Act'
+
 ---
+
 
 Responses to feedback received from Public Consultation on the Proposed Amendments to the Pawnbrokers Act
 ---
