@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  New Credit Bureau to Support Prudence in Borrowing and Lending
+title: 'New Credit Bureau to Support Prudence in Borrowing and Lending'
 permalink: /news/press-releases/new-credit-bureau-to-support-prudence-in-borrowing-and-lending
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 24 Feb 2016 Posted in [Press releases](/news/press-releases)
 
