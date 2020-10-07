@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring
+title: 'Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring'
 permalink: /news/public-consultations/public-consultation-on-the-report-of-the-committee-to-strengthen
-breadcrumb: Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring
-collection_name: news
+breadcrumb: 'Public Consultation on the Report of the Committee to Strengthen Singapore as an International Centre for Debt Restructuring'
+
 ---
+
 
 **Consultation Period:**  
 20 Apr 2016 to 31 May 2016
