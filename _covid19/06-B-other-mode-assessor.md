@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Other Modes of Service
+title: 'Other Modes of Service'
 permalink: /covid19-relief/other-modes-assessor
-breadcrumb: Other Modes of Service
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Application for an Assessor’s Determination
+breadcrumb: 'Other Modes of Service'
+third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+
 ---
+
 ### Others Modes of Service ### 
 
 If you are **unable to use the electronic system** to serve documents on the other parties in the course of Assessor’s Proceedings, or have documents that **may not be served via the electronic system** (e.g. serving of the **Response**),
