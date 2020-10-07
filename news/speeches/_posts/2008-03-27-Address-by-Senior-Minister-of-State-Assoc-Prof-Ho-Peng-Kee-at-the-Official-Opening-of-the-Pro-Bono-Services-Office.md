@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Address by Senior Minister of State Assoc Prof Ho Peng Kee at the Official Opening of the Pro Bono Services Office
+title: 'Address by Senior Minister of State Assoc Prof Ho Peng Kee at the Official Opening of the Pro Bono Services Office'
 permalink: /news/speeches/address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-official-opening-of-the-pro-bono
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 27 Mar 2008 Posted in [Speeches](/news/speeches)
 
