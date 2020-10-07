@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Singapore Prepares To Be Among The First Countries To Ratify The Singapore Convention On Mediation
-date:   2020-01-06
+title: 'Singapore Prepares To Be Among The First Countries To Ratify The Singapore Convention On Mediation'
+date: 2020-01-06T00:00:00.000Z
 permalink: /news/press-releases/Singapore-Prepares-To-Be-Among-The-First-Countries-To-Ratify-The-Singapore-Convention-On-Mediation
+
 ---
+
 
 06 Jan 2020 Posted in [Press releases](/news/press-releases)
 
