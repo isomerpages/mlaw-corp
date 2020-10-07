@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Singapore’s Third Law School to Accept Students from 2017
+title: 'Singapore’s Third Law School to Accept Students from 2017'
 permalink: /news/press-releases/singapore_s-third-law-school-to-accept-students-from-2017
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 16 Feb 2016 Posted in [Press releases](/news/press-releases)
 
