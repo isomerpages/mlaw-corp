@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Copyright Collective Rights Management Ecosystem in Singapore
+title: 'Public Consultation on Copyright Collective Rights Management Ecosystem in Singapore'
 permalink: /news/public-consultation-on-copyright-collective-rights-management-ec/
-breadcrumb: Public Consultation on Copyright Collective Rights Management Ecosystem in Singapore
-collection_name: news
+breadcrumb: 'Public Consultation on Copyright Collective Rights Management Ecosystem in Singapore'
+
 ---
+
 
 Public Consultation on Copyright Collective Rights Management Ecosystem in Singapore
 ---
