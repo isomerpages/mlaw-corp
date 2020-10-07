@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Moneylenders Act 2008 - Press Release
+title: 'Moneylenders Act 2008 - Press Release'
 permalink: /news/press-releases/moneylenders-act-2008-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 25 Feb 2009 Posted in [Press releases](/news/press-releases)
 
