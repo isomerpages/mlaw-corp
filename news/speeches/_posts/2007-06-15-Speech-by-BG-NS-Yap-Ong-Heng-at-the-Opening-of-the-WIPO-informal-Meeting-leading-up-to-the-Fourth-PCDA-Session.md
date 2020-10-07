@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by BG(NS) Yap Ong Heng at the Opening of the WIPO informal Meeting (leading up to the Fourth PCDA Session)
+title: 'Speech by BG(NS) Yap Ong Heng at the Opening of the WIPO informal Meeting (leading up to the Fourth PCDA Session)'
 permalink: /news/speeches/speech-by-bg-ns-yap-ong-heng-at-the-opening-of-the-wipo-informal-meeting-leading-up-to-the-fourth
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 15 Jun 2007 Posted in [Speeches](/news/speeches)
 <br>  
