@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Developing Singapore as an Asian IP Hub: Formation of Sub-Committees & call for feedback and suggestions"
+title: 'Developing Singapore as an Asian IP Hub: Formation of Sub-Committees & call for feedback and suggestions'
 permalink: /news/press-releases/developing-singapore-as-an-asian-ip-hub-formation-of-sub-committees-call-for-feedback-and
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 4 Jun 2012 Posted in [Press releases](/news/press-releases)
 
