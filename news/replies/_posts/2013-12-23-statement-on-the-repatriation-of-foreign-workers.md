@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law's statements on the repatriation of foreign workers
+title: 'Ministry of Law''s statements on the repatriation of foreign workers'
 permalink: /news/replies/statement-on-the-repatriation-of-foreign-workers/
-breadcrumb: Ministry of Law's statements on the repatriation of foreign workers
-collection_name: news
+breadcrumb: 'Ministry of Law''s statements on the repatriation of foreign workers'
+
 ---
+
 
 Ministry of Law's statements on the repatriation of foreign workers
 ---
