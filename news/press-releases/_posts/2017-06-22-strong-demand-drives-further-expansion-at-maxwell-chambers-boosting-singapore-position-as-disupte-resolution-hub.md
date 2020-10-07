@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Strong Demand Drives Further Expansion at Maxwell Chambers, Boosting Singapore’s Position as Dispute Resolution Hub
+title: 'Strong Demand Drives Further Expansion at Maxwell Chambers, Boosting Singapore’s Position as Dispute Resolution Hub'
 permalink: /news/press-releases/strong-demand-drives-further-expansion-at-maxwell-chambers--boos
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 22 Jun 2017 Posted in [Press releases](/news/press-releases)
 
