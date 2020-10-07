@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the inaugural NUS Law Pro Bono Awards Ceremony
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the inaugural NUS Law Pro Bono Awards Ceremony'
 permalink: /news/speeches/speech-by-indranee-rajah--senior-minister-of-state-for-law-and-f
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 2 Mar 2016 Posted in [Speeches](/news/speeches)
 
