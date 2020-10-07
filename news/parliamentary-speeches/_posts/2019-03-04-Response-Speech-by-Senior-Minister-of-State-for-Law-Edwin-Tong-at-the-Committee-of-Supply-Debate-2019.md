@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2019
+title: 'Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2019'
 permalink: /news/parliamentary-speeches/response-speech-sms-edwin-tong-cos-2019
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 4 Mar 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
