@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Notice - Electro Magnetics (1992) Limited (“In Liquidation”) Unclaimed Assets Belonging To Scheme Creditors
-date:   2011-03-18
+title: 'Notice - Electro Magnetics (1992) Limited (“In Liquidation”) Unclaimed Assets Belonging To Scheme Creditors'
+date: 2011-03-18T00:00:00.000Z
 permalink: /news/announcements/notice-electro-magnetics-1992-limited-in-liquidation-unclaimed-assets-belonging-to-scheme
+
 ---
+
 
 18 Mar 2011 Posted in [Announcements](/news/announcements)
 
