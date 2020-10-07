@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Written Answer by Law Minister K Shanmugam to Parliamentary Question on Community Mediation
-date:   2009-07-20
+title: 'Written Answer by Law Minister K Shanmugam to Parliamentary Question on Community Mediation'
+date: 2009-07-20T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-community-mediation
+
 ---
+
 
 20 Jul 2009 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
