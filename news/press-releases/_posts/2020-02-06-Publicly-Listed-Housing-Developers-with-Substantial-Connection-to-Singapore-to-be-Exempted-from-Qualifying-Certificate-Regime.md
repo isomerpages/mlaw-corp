@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Publicly Listed Housing Developers with Substantial Connection to Singapore to be Exempted from Qualifying Certificate Regime
-date:   2020-02-06
+title: 'Publicly Listed Housing Developers with Substantial Connection to Singapore to be Exempted from Qualifying Certificate Regime'
+date: 2020-02-06T00:00:00.000Z
 permalink: /news/press-releases/Publicly-Listed-Housing-Developers-with-Substantial-Connection-to-Singapore-to-be-Exempted-from-Qualifying-Certificate-Regime
+
 ---
+
 
 06 Feb 2020 Posted in [Press releases](/news/press-releases)
 
