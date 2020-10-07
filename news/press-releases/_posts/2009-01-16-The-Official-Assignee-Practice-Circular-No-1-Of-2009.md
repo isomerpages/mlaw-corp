@@ -1,10 +1,10 @@
 ---
-layout: post
-title: The Official Assignee - Practice Circular No.1 Of 2009
+title: 'The Official Assignee - Practice Circular No.1 Of 2009'
 permalink: /news/press-releases/the-official-assignee-practice-circular-no-1-of-2009
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 16 Jan 2009 Posted in [Press releases](/news/press-releases)
