@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Keynote Address by Mr Ng How Yue, Permanent Secretary for Law, At the 2018 UNCITRAL ABLI Emergence Conference
+title: 'Keynote Address by Mr Ng How Yue, Permanent Secretary for Law, At the 2018 UNCITRAL ABLI Emergence Conference'
 permalink: /news/speeches/Keynote-Address-Ng-How-Yue-Permanen-Secretary-for-Law-2018-UNCITRAL-ABLI-Emergence-Conference
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Jul 2018 Posted in [Speeches](/news/speeches)
 
