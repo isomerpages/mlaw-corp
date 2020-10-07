@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant Moneylender Convicted and Sentenced - Goh Siong Kiat (Bez One Credit) - Press release
+title: 'Errant Moneylender Convicted and Sentenced - Goh Siong Kiat (Bez One Credit) - Press release'
 permalink: /news/press-releases/errant-moneylender-convicted-and-sentenced-goh-siong-kiat-bez-one-credit-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 27 Sep 2011 Posted in [Press releases](/news/press-releases)
 
