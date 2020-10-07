@@ -1,10 +1,10 @@
 ---
-layout: post
-title: UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri calls on Home Affairs and Law Minister K Shanmugam
+title: 'UAE Minister of Justice Dr Hadef Bin Joa''an Al Dhahiri calls on Home Affairs and Law Minister K Shanmugam'
 permalink: /news/visits/uae-minister-of-justice-dr-hadef-bin-joa-an-al-dhahiri-calls-on-home-affairs-and-law-minister-k/
-breadcrumb: UAE Minister of Justice Dr Hadef Bin Joa'an Al Dhahiri calls on Home Affairs and Law Minister K Shanmugam
-collection_name: news
+breadcrumb: 'UAE Minister of Justice Dr Hadef Bin Joa''an Al Dhahiri calls on Home Affairs and Law Minister K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
