@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Launch of GeoWorks
+title: 'Opening Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Launch of GeoWorks'
 permalink: /news/speeches/Opening-Address-by-Mr-Edwin-Tong-Senior-Minister-of-State-for-Law-Health-Launch-of-GeoWorks
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 16 Jul 2018 Posted in [Speeches](/news/speeches)
