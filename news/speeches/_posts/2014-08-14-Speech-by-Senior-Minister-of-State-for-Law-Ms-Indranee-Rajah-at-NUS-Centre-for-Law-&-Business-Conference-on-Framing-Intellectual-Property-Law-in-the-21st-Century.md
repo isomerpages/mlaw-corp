@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law Ms Indranee Rajah at NUS Centre for Law & Business Conference on Framing Intellectual Property Law in the 21st Century
+title: 'Speech by Senior Minister of State for Law Ms Indranee Rajah at NUS Centre for Law & Business Conference on Framing Intellectual Property Law in the 21st Century'
 permalink: /news/speeches/speech-by-sms-conference-on-Framing-Intellectual-Property-Law-in-21st-Century
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 14 Aug 2014 Posted in [Speeches](/news/speeches)
 
