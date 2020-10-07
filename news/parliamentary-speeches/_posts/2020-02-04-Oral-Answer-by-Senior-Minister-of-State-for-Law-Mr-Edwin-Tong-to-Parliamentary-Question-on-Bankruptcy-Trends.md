@@ -1,9 +1,10 @@
---- 
-layout: post 
-title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Bankruptcy Trends
-date:   2020-02-04
+---
+title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on Bankruptcy Trends'
+date: 2020-02-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-Bankruptcy-Trends
---- 
+
+---
+ 
 04 Feb 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Mr Desmond Choo (Member of Parliament for Tampines GRC) 
