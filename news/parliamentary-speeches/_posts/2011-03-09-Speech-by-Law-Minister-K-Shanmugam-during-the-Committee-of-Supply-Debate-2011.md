@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam during the Committee of Supply Debate 2011
-date:   2011-03-09
+title: 'Speech by Law Minister K Shanmugam during the Committee of Supply Debate 2011'
+date: 2011-03-09T00:00:00.000Z
 permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-during-the-committee-of-supply-debate-2011
+
 ---
+
 
 
 9 Mar 2011 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
