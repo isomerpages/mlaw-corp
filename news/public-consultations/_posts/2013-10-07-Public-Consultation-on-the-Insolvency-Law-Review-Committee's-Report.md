@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on the Insolvency Law Review Committee's Report
+title: 'Public Consultation on the Insolvency Law Review Committee''s Report'
 permalink: /news/public-consultations/public-consultation-on-ILRC-report
-breadcrumb: Public Consultations
-collection_name: news
+breadcrumb: 'Public Consultations'
+
 ---
+
 
 Public Consultation on the Insolvency Law Review Committee's Report
 ---
