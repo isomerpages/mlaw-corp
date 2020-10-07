@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law and Education, Indranee Rajah at the Singapore Geospatial Challenge Awards Ceremony 2013
+title: 'Speech by Senior Minister of State for Law and Education, Indranee Rajah at the Singapore Geospatial Challenge Awards Ceremony 2013'
 permalink: /news/speeches/speech-by-senior-minister-of-state-for-law-and-education--indran0
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 
