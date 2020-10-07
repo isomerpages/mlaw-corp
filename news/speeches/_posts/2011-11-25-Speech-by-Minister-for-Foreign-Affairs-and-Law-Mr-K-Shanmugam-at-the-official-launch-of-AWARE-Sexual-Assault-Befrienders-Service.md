@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the official launch of AWARE's Sexual Assault Befrienders Service
+title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the official launch of AWARE''s Sexual Assault Befrienders Service'
 permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-official-launch-of-aware-s
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Nov 2011 Posted in [Speeches](/news/speeches)
 
