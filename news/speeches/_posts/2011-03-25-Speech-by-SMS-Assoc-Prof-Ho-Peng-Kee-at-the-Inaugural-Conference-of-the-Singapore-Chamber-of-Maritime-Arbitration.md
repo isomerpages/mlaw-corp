@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Inaugural Conference of the Singapore Chamber of Maritime Arbitration
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Inaugural Conference of the Singapore Chamber of Maritime Arbitration'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-inaugural-conference-of-the-singapore-chamber-of
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 25 Mar 2011 Posted in [Speeches](/news/speeches)
 
