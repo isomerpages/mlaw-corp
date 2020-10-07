@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Launch of Law Awareness Weeks @CDC 2019 On Wednesday, 04 September 2019 at Keat Hong Community Club
-date:   2019-09-04
+title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Launch of Law Awareness Weeks @CDC 2019 On Wednesday, 04 September 2019 at Keat Hong Community Club'
+date: 2019-09-04T00:00:00.000Z
 permalink: /news/speeches/speech-by-sms-edwin-tong-law-awareness-weeks-launch-CDC-2019-keat-hong-community-club
+
 ---
+
 
 4 Sep 2019 Posted in [Speeches](/news/speeches)
 
