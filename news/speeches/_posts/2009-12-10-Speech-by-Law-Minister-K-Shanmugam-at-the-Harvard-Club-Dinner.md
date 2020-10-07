@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Harvard Club Dinner
+title: 'Speech by Law Minister K Shanmugam at the Harvard Club Dinner'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-harvard-club-dinner
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 10 Dec 2009 Posted in [Speeches](/news/speeches)
