@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Minister for Law Mr K Shanmugam’s Interview on CNBC Asia Squawk Box on COVID-19
-date: 2020-04-08
+title: 'Minister for Law Mr K Shanmugam’s Interview on CNBC Asia Squawk Box on COVID-19'
+date: 2020-04-08T00:00:00.000Z
 permalink: /news/others/2020-04-08-Minister-for-Law-Mr-K-Shanmugam-Interview-on-CNBC-Asia-Squawk-Box-on-COVID-19
+
 ---
+
 
 
 8 Apr 2020 Posted in [Others](/news/others)
