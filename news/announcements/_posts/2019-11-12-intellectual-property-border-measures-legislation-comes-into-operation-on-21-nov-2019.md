@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Intellectual Property Border Measures Legislation to Come into Operation Upon the Entry into Force of the EU-Singapore Free Trade Agreement on 21 November 2019
-date:   2019-11-12
+title: 'Intellectual Property Border Measures Legislation to Come into Operation Upon the Entry into Force of the EU-Singapore Free Trade Agreement on 21 November 2019'
+date: 2019-11-12T00:00:00.000Z
 permalink: /news/announcements/intellectual-property-border-measures-legislation-comes-into-operation-on-21-nov-2019
+
 ---
+
 
 12 Nov 2019 Posted in [Announcements](/news/announcements)
 
