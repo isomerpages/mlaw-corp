@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SM S Jayakumar at the grand opening of Maxwell Chambers
+title: 'Speech by SM S Jayakumar at the grand opening of Maxwell Chambers'
 permalink: /news/speeches/speech-by-sm-s-jayakumar-at-the-grand-opening-of-maxwell-chambers
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 21 Jan 2010 Posted in [Speeches](/news/speeches)
 
