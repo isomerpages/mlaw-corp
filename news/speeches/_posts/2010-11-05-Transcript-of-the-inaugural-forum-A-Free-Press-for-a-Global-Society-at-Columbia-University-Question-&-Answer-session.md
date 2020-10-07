@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Transcript of the inaugural forum, “A Free Press for a Global Society” at Columbia University - Question & Answer session"
+title: 'Transcript of the inaugural forum, “A Free Press for a Global Society” at Columbia University - Question & Answer session'
 permalink: /news/speeches/transcript-of-the-inaugural-forum-a-free-press-for-a-global-society-at-columbia-university
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 5 Nov 2010 Posted in [Speeches](/news/speeches)
