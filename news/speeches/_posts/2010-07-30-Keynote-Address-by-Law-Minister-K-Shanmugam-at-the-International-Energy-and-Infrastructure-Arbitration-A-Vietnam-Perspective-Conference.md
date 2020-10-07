@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Keynote Address by Law Minister K Shanmugam at the “International Energy and Infrastructure Arbitration- A Vietnam Perspective” Conference"
+title: 'Keynote Address by Law Minister K Shanmugam at the “International Energy and Infrastructure Arbitration- A Vietnam Perspective” Conference'
 permalink: /news/speeches/keynote-address-by-law-minister-k-shanmugam-at-the-international-energy-and-infrastructure
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 30 Jul 2010 Posted in [Speeches](/news/speeches)
 
