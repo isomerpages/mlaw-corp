@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam
+title: 'Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam'
 permalink: /news/visits/visit-by-dr-dinh-trung-tung-vice-minister-from-the-ministry-of-justice-vietnam/
-breadcrumb: Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam
-collection_name: news
+breadcrumb: 'Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
