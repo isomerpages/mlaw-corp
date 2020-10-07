@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Lawyers Go Global
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Lawyers Go Global'
 permalink: /news/legal-industry-newsletter/note-by-sms-indranee-rajah-lawyers-go-global/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Lawyers Go Global
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Lawyers Go Global'
+
 ---
+
 
 <style>
   .image {width: 200px;}
