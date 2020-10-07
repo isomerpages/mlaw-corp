@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Singapore Land Authority’s reply to Mr Leong Sze Hian’s 18 Aug Facebook post
-date:   2019-08-18
+title: 'Singapore Land Authority’s reply to Mr Leong Sze Hian’s 18 Aug Facebook post'
+date: 2019-08-18T00:00:00.000Z
 permalink: /news/replies/Singapore-Land-Authority-reply-to-Mr-Leong-Sze-Hian-18-Aug-Facebook-post
+
 ---
+
 
 18 Aug 2019 Posted in [Replies](/news/replies)  
 
