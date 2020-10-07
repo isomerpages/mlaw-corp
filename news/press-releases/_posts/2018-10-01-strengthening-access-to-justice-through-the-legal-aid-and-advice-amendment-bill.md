@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Strengthening Access to Justice through the Legal Aid and Advice (Amendment) Bill
+title: 'Strengthening Access to Justice through the Legal Aid and Advice (Amendment) Bill'
 permalink: /news/press-releases/Strengthening-Access-to-Justice-through-the-Legal-Aid-and-Advice-Amendment-Bill
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Oct 2018 Posted in [Press releases](/news/press-releases)
 
