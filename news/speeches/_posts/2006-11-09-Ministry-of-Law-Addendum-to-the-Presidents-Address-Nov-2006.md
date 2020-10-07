@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law - Addendum to the President's Address Nov 2006
+title: 'Ministry of Law - Addendum to the President''s Address Nov 2006'
 permalink: /news/speeches/ministry-of-law-addendum-to-the-president-s-address-nov-2006
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 9 Nov 2006 Posted in [Speeches](/news/speeches)
