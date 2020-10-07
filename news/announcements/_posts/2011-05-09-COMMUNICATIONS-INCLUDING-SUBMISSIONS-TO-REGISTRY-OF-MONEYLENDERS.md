@@ -1,9 +1,10 @@
 ---
-layout: post
-title: COMMUNICATIONS (INCLUDING SUBMISSIONS) TO REGISTRY OF MONEYLENDERS
-date:   2011-05-30
+title: 'COMMUNICATIONS (INCLUDING SUBMISSIONS) TO REGISTRY OF MONEYLENDERS'
+date: 2011-05-30T00:00:00.000Z
 permalink: /news/announcements/communications-including-submissions-to-registry-of-moneylenders
+
 ---
+
 
 9 May 2011 Posted in [Announcements](/news/announcements)
 
