@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Programme
 permalink: /events/event_1/programme
 breadcrumb: Programme
-collection_name: events
+
 ---
+
 
 **24 January 2019 (Thursday)**      
 **Beijing Kerry Hotel**  
