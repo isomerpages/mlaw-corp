@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Debt Repayment Scheme
+title: 'Public Consultation on Proposed Debt Repayment Scheme'
 permalink: /news/press-releases/public-consultation-on-proposed-debt-repayment-scheme
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 20 Apr 2007 Posted in [Press releases](/news/press-releases)
 
