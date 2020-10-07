@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ratification of the Singapore Treaty on the Law Of Trademarks
+title: 'Ratification of the Singapore Treaty on the Law Of Trademarks'
 permalink: /news/press-releases/ratification-of-the-singapore-treaty-on-the-law-of-trademarks
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Mar 2007 Posted in [Press releases](/news/press-releases)
 
