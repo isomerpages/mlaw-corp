@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Government Welcomes Key Recommendations of the 4th Committee on the Supply of Lawyers
+title: 'Government Welcomes Key Recommendations of the 4th Committee on the Supply of Lawyers'
 permalink: /news/press-releases/government-welcomes-key-recommendations-of-the-4th-committee-on-the-supply-of-lawyers
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 28 May 2013 Posted in [Press releases](/news/press-releases)
 
