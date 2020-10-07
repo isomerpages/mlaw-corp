@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Commencement of Rental Relief Framework
-date: 2020-07-30
+title: 'Commencement of Rental Relief Framework'
+date: 2020-07-30T00:00:00.000Z
 permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framework
+
 ---
+
 
 30 Jul 2020 Posted in [Press releases](/news/press-releases)
 
