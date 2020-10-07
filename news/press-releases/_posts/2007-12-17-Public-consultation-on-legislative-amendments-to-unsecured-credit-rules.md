@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public consultation on legislative amendments to unsecured credit rules
+title: 'Public consultation on legislative amendments to unsecured credit rules'
 permalink: /news/press-releases/public-consultation-on-legislative-amendments-to-unsecured-credit-rules
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 17 Dec 2007 Posted in [Press releases](/news/press-releases)
 
