@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC calls on Senior Minister of State for Law Indranee Rajah
+title: 'Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC calls on Senior Minister of State for Law Indranee Rajah'
 permalink: /news/visits/HKSAR-secretary-of-justice-calls-on-SMS/
-breadcrumb: Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC calls on Senior Minister of State for Law Indranee Rajah
-collection_name: news
+breadcrumb: 'Hong Kong Special Administrative Region Secretary for Justice Mr Rimsky Yuen SC calls on Senior Minister of State for Law Indranee Rajah'
+
 ---
+
 
 <style>
 .image {width: 600px;}
