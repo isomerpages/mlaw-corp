@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Family Justice Courts and Syariah Court
+title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Family Justice Courts and Syariah Court'
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-family-justice-courts
-breadcrumb: Parliamentary Speeches
-collection_name: news
+breadcrumb: 'Parliamentary Speeches'
+
 ---
+
 
 8 Mar 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
