@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Human Rights Watch’s Refusal to Publicly Defend its Report
+title: 'Human Rights Watch’s Refusal to Publicly Defend its Report'
 permalink: /news/press-releases/human-rights-watchs-refusal-to-publicly-defend-its-report
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 23 Mar 2018 Posted in [Press releases](/news/press-releases)
 
