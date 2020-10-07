@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Speech by Guest-Of-Honour Mr Edwin Tong, Senior Minister of State, Ministry Of Law And Ministry Of Health, For Community Mediation Centre’s Mediators’ Appointment Ceremony And Appreciation Dinner At Swissotel Merchant Court Ballroom 
-date:   2019-10-11
+title: 'Speech by Guest-Of-Honour Mr Edwin Tong, Senior Minister of State, Ministry Of Law And Ministry Of Health, For Community Mediation Centre’s Mediators’ Appointment Ceremony And Appreciation Dinner At Swissotel Merchant Court Ballroom'
+date: 2019-10-11T00:00:00.000Z
 permalink: /news/speeches/speech-by-sms-edwin-tong-CMC-MACAD-2019
+
 ---
+
 11 Oct 2019 Posted in [Speeches](/news/speeches)
 
 Associate Professor Ho Peng Kee
