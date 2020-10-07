@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Address by Ms Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, to the Inaugural Cohort of the UniSIM School of Law
-permalink: /news/speeches/address-by-ms-indranee-rajah-s-c---senior-minister-of-state--min
+title: 'Address by Ms Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, to the Inaugural Cohort of the UniSIM School of Law'
+permalink: /news/speeches/address-by-ms-indranee-rajah-s-c
+
+---
+senior-minister-of-state--min
 breadcrumb: Speeches
 collection_name: news
 ---
