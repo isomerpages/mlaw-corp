@@ -1,10 +1,10 @@
 ---
-layout: post
-title: New directions to regulate advertising and marketing activities of licensed moneylenders to take effect from 1 Nov 2011 - Press release
+title: 'New directions to regulate advertising and marketing activities of licensed moneylenders to take effect from 1 Nov 2011 - Press release'
 permalink: /news/press-releases/new-directions-to-regulate-advertising-and-marketing-activities-of-licensed-moneylenders-to-take
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 31 Oct 2011 Posted in [Press releases](/news/press-releases)
