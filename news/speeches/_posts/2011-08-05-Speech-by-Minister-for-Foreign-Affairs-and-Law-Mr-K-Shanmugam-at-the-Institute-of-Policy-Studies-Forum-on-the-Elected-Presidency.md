@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Institute of Policy Studies Forum on the Elected Presidency
+title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Institute of Policy Studies Forum on the Elected Presidency'
 permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-institute-of-policy-studies
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 5 Aug 2011 Posted in [Speeches](/news/speeches)
