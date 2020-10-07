@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Speech by Minister (Law and Home Affairs) K Shanmugam at the Opening Ceremony of Law Society at Maxwell Chamber Suites
-date:   2019-10-10
+title: 'Speech by Minister (Law and Home Affairs) K Shanmugam at the Opening Ceremony of Law Society at Maxwell Chamber Suites'
+date: 2019-10-10T00:00:00.000Z
 permalink: /news/speeches/speech-by-Minister-K-Shanmugam-at-opening-ceremony-of-LawSoc-at-Maxwell-Chambers-Suites
+
 ---
+
 10 Oct 2019 Posted in [Speeches](/news/speeches)
 
 President of the Law Society of Singapore, Mr Gregory Vijayendran SC,
