@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on CFE Legal and Accounting Services
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on CFE Legal and Accounting Services'
 permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law-and-finance--indranee-r2/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on CFE Legal and Accounting Services
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on CFE Legal and Accounting Services'
+
 ---
+
 
 <style>
   .image {width: 200px;}
