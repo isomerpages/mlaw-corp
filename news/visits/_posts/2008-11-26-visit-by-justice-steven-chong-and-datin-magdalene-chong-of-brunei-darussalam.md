@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam
+title: 'Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam'
 permalink: /news/visits/visit-by-justice-steven-chong-and-datin-magdalene-chong-of-brunei-darussalam/
-breadcrumb: Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam
-collection_name: news
+breadcrumb: 'Visit by Justice Steven Chong and Datin Magdalene Chong of Brunei Darussalam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
