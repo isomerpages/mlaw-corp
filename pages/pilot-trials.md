@@ -1,10 +1,11 @@
 ---
-layout: simple-page
-title: Pilot Trials
+title: 'Pilot Trials'
 permalink: /about-us/what-we-do/pilot-trials/
-breadcrumb: Pilot Trials
-second_nav_title: What We Do
+breadcrumb: 'Pilot Trials'
+third_nav_title: 'What We Do'
+
 ---
+
 
 Pilot trials
 ---
