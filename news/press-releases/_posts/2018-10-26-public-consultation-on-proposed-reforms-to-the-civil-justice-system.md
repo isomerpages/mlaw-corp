@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public Consultation on Proposed Reforms to the Civil Justice System
+title: 'Public Consultation on Proposed Reforms to the Civil Justice System'
 permalink: /news/press-releases/public-consultation-reforms-to-civil-justice-system
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 26 Oct 2018 Posted in [Press releases](/news/press-releases)
 
