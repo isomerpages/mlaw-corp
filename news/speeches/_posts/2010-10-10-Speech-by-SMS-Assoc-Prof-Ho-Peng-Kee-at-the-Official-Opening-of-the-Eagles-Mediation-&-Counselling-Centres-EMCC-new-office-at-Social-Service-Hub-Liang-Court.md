@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by SMS Assoc Prof Ho Peng Kee at the Official Opening of the Eagles Mediation & Counselling Centre's (EMCC) new office at Social Service Hub, Liang Court
+title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Official Opening of the Eagles Mediation & Counselling Centre''s (EMCC) new office at Social Service Hub, Liang Court'
 permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-official-opening-of-the-eagles-mediation-counselling
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 10 Oct 2010 Posted in [Speeches](/news/speeches)
 <br>  
