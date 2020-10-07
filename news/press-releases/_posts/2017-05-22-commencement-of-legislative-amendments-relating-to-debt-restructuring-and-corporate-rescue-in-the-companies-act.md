@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Commencement of Legislative Amendments Relating to Debt Restructuring and Corporate Rescue in the Companies Act
+title: 'Commencement of Legislative Amendments Relating to Debt Restructuring and Corporate Rescue in the Companies Act'
 permalink: /news/press-releases/commencement-of-legislative-amendments-relating-to-debt-restruct
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 22 May 2017 Posted in [Press releases](/news/press-releases)
 
