@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Errant licensed moneylender convicted and sentenced - Chua Kwang Yong (Gary Credit) - Press release
+title: 'Errant licensed moneylender convicted and sentenced - Chua Kwang Yong (Gary Credit) - Press release'
 permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-chua-kwang-yong-gary-credit-press-release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 15 Oct 2012 Posted in [Press releases](/news/press-releases)
 
