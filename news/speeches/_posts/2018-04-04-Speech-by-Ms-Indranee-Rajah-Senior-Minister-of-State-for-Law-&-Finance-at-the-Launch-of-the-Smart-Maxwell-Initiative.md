@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Ms Indranee Rajah, Senior Minister of State for Law & Finance, at the Launch of the 'Smart Maxwell' Initiative
+title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law & Finance, at the Launch of the ''Smart Maxwell'' Initiative'
 permalink: /news/speeches/speech-by-sms-indranee-launch-smart-maxwell-initiative
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 
 4 Apr 2018 Posted in [Speeches](/news/speeches)
