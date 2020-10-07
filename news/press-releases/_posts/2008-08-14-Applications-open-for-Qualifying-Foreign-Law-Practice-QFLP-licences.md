@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Applications open for Qualifying Foreign Law Practice (QFLP) licences
+title: 'Applications open for Qualifying Foreign Law Practice (QFLP) licences'
 permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-qflp-licences
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 14 Aug 2008 Posted in [Press releases](/news/press-releases)
 
