@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "IP as new growth area: Government accepts IP Hub Master Plan recommendations; rolls out initiatives to develop Singapore as a global IP hub in Asia"
+title: 'IP as new growth area: Government accepts IP Hub Master Plan recommendations; rolls out initiatives to develop Singapore as a global IP hub in Asia'
 permalink: /news/press-releases/IP-hub-master-plan-launched
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 1 Apr 2013 Posted in [Press releases](/news/press-releases)
 
