@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Minister Shanmugam at Valedictory Reference in honour of Justice Chao Hick Tin
+title: 'Speech by Minister Shanmugam at Valedictory Reference in honour of Justice Chao Hick Tin'
 permalink: /news/speeches/minister-shanmugam-speech-in-honour-justice-chao-hick-tin
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 27 Sep 2017 Posted in [Speeches](/news/speeches)
 
