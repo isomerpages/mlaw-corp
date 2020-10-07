@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Community Disputes Resolution Tribunal
-date:   2020-01-06
+title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Community Disputes Resolution Tribunal'
+date: 2020-01-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Community-Disputes-Resolution-Tribunal
+
 ---
+
 
 06 Jan 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
