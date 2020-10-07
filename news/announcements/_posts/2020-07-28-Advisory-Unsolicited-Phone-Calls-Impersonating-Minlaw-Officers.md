@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Advisory on Unsolicited Phone Calls Impersonating MinLaw Officers
-date: 2020-07-28
+title: 'Advisory on Unsolicited Phone Calls Impersonating MinLaw Officers'
+date: 2020-07-28T00:00:00.000Z
 permalink: /news/announcements/scam-alert-unsolicited-phone-calls-impersonating-minlaw-officers
+
 ---
+
 
 28 Jul 2020 Posted in [Announcements](/news/announcements)
 
