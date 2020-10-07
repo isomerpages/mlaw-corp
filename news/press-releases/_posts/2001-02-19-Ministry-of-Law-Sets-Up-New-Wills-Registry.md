@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Ministry of Law Sets Up New Wills Registry
+title: 'Ministry of Law Sets Up New Wills Registry'
 permalink: /news/press-releases/ministry-of-law-sets-up-new-wills-registry
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 19 Feb 2001 Posted in [Press releases](/news/press-releases)
 
