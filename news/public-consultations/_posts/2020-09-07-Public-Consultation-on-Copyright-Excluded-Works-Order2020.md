@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Public Consultation on Copyright (Excluded Works) Order
-date:   2020-09-07
+title: 'Public Consultation on Copyright (Excluded Works) Order'
+date: 2020-09-07T00:00:00.000Z
 permalink: /news/Public-Consultation-on-Copyright-Excluded-Works-Order2020
+
 ---
+
 
 **Public Consultation on Copyright (Excluded Works) Order**
 ---
