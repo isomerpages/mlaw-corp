@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Written Answer by Minister for Law, K Shanmugam, on Singapore Convention on Mediation
-date:   2018-08-06
+title: 'Written Answer by Minister for Law, K Shanmugam, on Singapore Convention on Mediation'
+date: 2018-08-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/written-answer-singapore-convention-on-mediation
+
 ---
+
 
 ##### **Mr Christopher de Souza, Member of Parliament for Holland-Bukit Timah GRC**
 
