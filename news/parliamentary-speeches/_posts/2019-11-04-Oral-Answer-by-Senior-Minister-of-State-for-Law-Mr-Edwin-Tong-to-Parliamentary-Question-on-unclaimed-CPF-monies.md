@@ -1,9 +1,10 @@
---- 
-layout: post 
-title:  Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on unclaimed CPF monies 
-date:   2019-11-04
+---
+title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong, to Parliamentary Question on unclaimed CPF monies'
+date: 2019-11-04T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-to-Parliamentary-Question-on-unclaimed-CPF-monies
---- 
+
+---
+ 
 04 Nov 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 Assoc Prof Daniel Goh Pei Siong (Non-constituency Member of Parliament) 
