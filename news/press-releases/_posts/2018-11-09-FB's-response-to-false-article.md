@@ -1,10 +1,10 @@
 ---
-layout: post
-title: FB’s response to false article
+title: 'FB’s response to false article'
 permalink: /news/press-releases/fb-response-to-false-article
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 9 Nov 2018 Posted in [Press releases](/news/press-releases)
 
