@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  End of Transition Period for Existing Regulated Dealers under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act
-date:   2019-09-17
+title: 'End of Transition Period for Existing Regulated Dealers under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act'
+date: 2019-09-17T00:00:00.000Z
 permalink: /news/press-releases/press-releases-End-of-Transition-Period-for-Existing-Regulated-Dealers-under-the-Precious-Stones-and-Precious-Metals-Prevention-of-Money-Laundering-and-Terrorism-Financing-Act
+
 ---
+
 
 
 17 Sep 2019 Posted in [Press releases](/news/press-releases)
