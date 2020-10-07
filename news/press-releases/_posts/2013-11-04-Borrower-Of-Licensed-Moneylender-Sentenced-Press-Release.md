@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Borrower Of Licensed Moneylender Sentenced - Press Release
+title: 'Borrower Of Licensed Moneylender Sentenced - Press Release'
 permalink: /news/press-releases/Borrower-Of-Licensed-Moneylender-Sentenced-Press-Release
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 4 Nov 2013 Posted in [Press releases](/news/press-releases)
