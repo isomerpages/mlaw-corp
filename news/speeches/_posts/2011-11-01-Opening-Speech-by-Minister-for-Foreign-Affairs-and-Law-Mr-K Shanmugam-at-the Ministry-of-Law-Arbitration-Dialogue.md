@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Opening Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Ministry of Law Arbitration Dialogue
+title: 'Opening Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Ministry of Law Arbitration Dialogue'
 permalink: /news/speeches/opening-speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-ministry-of-law
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 1 Nov 2011 Posted in [Speeches](/news/speeches)
 
