@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Advisory Committee Finalises Recommendations to Improve Balance between Borrower Protection and Access to Credit
+title: 'Advisory Committee Finalises Recommendations to Improve Balance between Borrower Protection and Access to Credit'
 permalink: /news/press-releases/advisory-committee-finalises-recommendations-to-improve-balance-
-breadcrumbs: Press Releases
-collection_name: news
+breadcrumbs: 'Press Releases'
+
 ---
+
 
 29 May 2015 Posted in [Press releases](/news/press-releases)
 
