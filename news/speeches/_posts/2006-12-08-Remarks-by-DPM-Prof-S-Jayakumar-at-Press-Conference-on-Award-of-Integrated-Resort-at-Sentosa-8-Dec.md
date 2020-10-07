@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Remarks by DPM Prof S Jayakumar at Press Conference on Award of Integrated Resort at Sentosa, 8 Dec
+title: 'Remarks by DPM Prof S Jayakumar at Press Conference on Award of Integrated Resort at Sentosa, 8 Dec'
 permalink: /news/speeches/remarks-by-dpm-prof-s-jayakumar-at-press-conference-on-award-of-integrated-resort-at-sentosa-8-dec
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 8 Dec 2006 Posted in [Speeches](/news/speeches)
 
