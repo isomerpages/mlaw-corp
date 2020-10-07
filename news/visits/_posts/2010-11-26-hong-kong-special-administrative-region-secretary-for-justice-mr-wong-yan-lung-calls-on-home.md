@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung calls on Home Affairs and Law Minister K Shanmugam
+title: 'Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung calls on Home Affairs and Law Minister K Shanmugam'
 permalink: /news/visits/hong-kong-special-administrative-region-secretary-for-justice-mr-wong-yan-lung-calls-on-home/
-breadcrumb: Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung calls on Home Affairs and Law Minister K Shanmugam
-collection_name: news
+breadcrumb: 'Hong Kong Special Administrative Region Secretary for Justice Mr Wong Yan Lung calls on Home Affairs and Law Minister K Shanmugam'
+
 ---
+
 
 <style>
 .image {width: 600px;}
