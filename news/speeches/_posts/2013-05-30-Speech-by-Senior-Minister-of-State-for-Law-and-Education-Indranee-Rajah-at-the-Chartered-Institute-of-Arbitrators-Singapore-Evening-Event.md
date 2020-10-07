@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Senior Minister of State for Law and Education, Indranee Rajah at the Chartered Institute of Arbitrators (Singapore) Evening Event
+title: 'Speech by Senior Minister of State for Law and Education, Indranee Rajah at the Chartered Institute of Arbitrators (Singapore) Evening Event'
 permalink: /news/speeches/speech-by-senior-minister-of-state-for-law-and-education--indran
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 30 May 2013 Posted in [Speeches](/news/speeches)
 
