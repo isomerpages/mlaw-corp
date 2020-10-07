@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Minister for Law, Mr K Shanmugam, on the COVID-19 (Temporary Measures) (Amendment) Bill
-date:   2020-06-05
+title: 'Second Reading Speech by Minister for Law, Mr K Shanmugam, on the COVID-19 (Temporary Measures) (Amendment) Bill'
+date: 2020-06-05T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Minister-for-Law-Mr-K-Shanmugam-on-the-COVID-19-Temporary-Measures-Amendment-Bill
+
 ---
+
 
 05 Jun 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
