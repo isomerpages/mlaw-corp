@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Alert: Suspicious Emails received by law firms"
-date: 2017-03-06
+title: 'Alert: Suspicious Emails received by law firms'
+date: 2017-03-06T00:00:00.000Z
 permalink: /news/announcements/alert--suspicious-emails-received-by-law-firms
+
 ---
+
 
 
 6 Mar 2017 Posted in [Announcements](/news/announcements) 
