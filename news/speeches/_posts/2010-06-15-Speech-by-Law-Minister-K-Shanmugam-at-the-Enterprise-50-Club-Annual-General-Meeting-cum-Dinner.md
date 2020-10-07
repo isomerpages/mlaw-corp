@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Speech by Law Minister K Shanmugam at the Enterprise 50 Club Annual General Meeting cum Dinner
+title: 'Speech by Law Minister K Shanmugam at the Enterprise 50 Club Annual General Meeting cum Dinner'
 permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-enterprise-50-club-annual-general-meeting-cum-dinner
 breadcrumb: Speeches
-collection_name: news
+
 ---
+
 
 15 Jun 2010 Posted in [Speeches](/news/speeches)
 
