@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on The Supreme Court of Judicature (Amendment) Bill
-date:   2019-11-06
+title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on The Supreme Court of Judicature (Amendment) Bill'
+date: 2019-11-06T00:00:00.000Z
 permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-SCJ-Amendment-Bill
+
 ---
+
 
 6 Nov 2019 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
