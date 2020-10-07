@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Public to be consulted on proposed changes to the en bloc sale legislation, 2 April to 12 May 2007
+title: 'Public to be consulted on proposed changes to the en bloc sale legislation, 2 April to 12 May 2007'
 permalink: /news/press-releases/public-to-be-consulted-on-proposed-changes-to-the-en-bloc-sale-legislation-2-april-to-12-may-2007
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 2 Apr 2007 Posted in [Press releases](/news/press-releases)
 
