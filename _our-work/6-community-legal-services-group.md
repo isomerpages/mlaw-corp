@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Community Legal Services Group
+title: 'Community Legal Services Group'
 permalink: /our-work/community-legal-services-group/
-breadcrumb: Community Legal Services Group
-collection_name: our-work
+breadcrumb: 'Community Legal Services Group'
+
 ---
+
 
 ### **Community Legal Services Group**
 
