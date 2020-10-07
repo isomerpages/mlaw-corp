@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Legal Profession (Amendment) Bill
+title: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Legal Profession (Amendment) Bill'
 permalink: /news/legal-industry-newsletter//note-by-sms-on-legal-profession-amendment-bill-2018/
-breadcrumb: Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Legal Profession (Amendment) Bill
-collection_name: news
+breadcrumb: 'Note by Senior Minister of State for Law and Finance, Indranee Rajah S.C., on Legal Profession (Amendment) Bill'
+
 ---
+
 
 <style>
   .image {width: 200px;}
