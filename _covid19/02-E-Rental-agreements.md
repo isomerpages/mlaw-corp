@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: FAQs for Rental Agreements for Commercial Equipment
+title: 'FAQs for Rental Agreements for Commercial Equipment'
 permalink: /covid19-relief/faq/rental-agreements
-breadcrumb: FAQs for Rental Agreements for Commercial Equipment
-collection_name: covid19
-second_nav_title: Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations
+breadcrumb: 'FAQs for Rental Agreements for Commercial Equipment'
+third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+
 ---
+
 ### Rental agreements for commercial equipment ###
 
 #### General FAQs ####
