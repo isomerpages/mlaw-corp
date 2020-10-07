@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Approval to Share Premises
+title: 'Approval to Share Premises'
 permalink: /law-practice-entities-and-lawyers/approval-to-share-premises/
-breadcrumb: Approval to Share Premises
-collection_name: law-practice-entities-and-lawyers
-second_nav_title: Licensing Or Registration Of Law Practice Entities
+breadcrumb: 'Approval to Share Premises'
+third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
+
 ---
+
 
 <style>
 table tr td ul li {font-size: 1rem;}
