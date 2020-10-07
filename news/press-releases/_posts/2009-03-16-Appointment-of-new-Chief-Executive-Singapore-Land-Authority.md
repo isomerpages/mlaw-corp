@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Appointment of new Chief Executive, Singapore Land Authority
+title: 'Appointment of new Chief Executive, Singapore Land Authority'
 permalink: /news/press-releases/appointment-of-new-chief-executive-singapore-land-authority
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 
 16 Mar 2009 Posted in [Press releases](/news/press-releases)
