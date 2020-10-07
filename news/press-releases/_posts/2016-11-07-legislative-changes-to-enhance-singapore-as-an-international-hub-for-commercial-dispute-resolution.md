@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Legislative Changes to Enhance Singapore as an International Hub for Commercial Dispute Resolution
+title: 'Legislative Changes to Enhance Singapore as an International Hub for Commercial Dispute Resolution'
 permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as--an-international-hu
-breadcrumb: Press Releases
-collection_name: news
+breadcrumb: 'Press Releases'
+
 ---
+
 
 7 Nov 2016 Posted in [Press releases](/news/press-releases)
 
