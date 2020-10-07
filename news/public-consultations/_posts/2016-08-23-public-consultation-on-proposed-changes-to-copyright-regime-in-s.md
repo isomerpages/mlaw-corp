@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Public Consultation on Proposed Changes to Copyright Regime in Singapore
+title: 'Public Consultation on Proposed Changes to Copyright Regime in Singapore'
 permalink: /news/public-consultations/public-consultation-on-proposed-changes-to-copyright-regime-in-s
-collection_name: news
+
 ---
+
 
 Public Consultation on Proposed Changes to Copyright Regime in Singapore
 ---
