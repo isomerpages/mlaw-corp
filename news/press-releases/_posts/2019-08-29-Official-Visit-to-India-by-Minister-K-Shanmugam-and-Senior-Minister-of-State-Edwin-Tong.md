@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Official Visit to India by Minister K Shanmugam and Senior Minister of State Edwin Tong
-date:   2019-08-29
+title: 'Official Visit to India by Minister K Shanmugam and Senior Minister of State Edwin Tong'
+date: 2019-08-29T00:00:00.000Z
 permalink: /news/press-releases/press-releases-Official-Visit-to-India-by-Minister-K-Shanmugam-and-Senior-Minister-of-State-Edwin-Tong
+
 ---
+
 
 29 Aug 2019 Posted in [Press releases](/news/press-releases)
 
