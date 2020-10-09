@@ -11,7 +11,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 1. The Government announced today additional temporary relief measures for property developers affected by disruptions to construction timelines resulting from the COVID-19 pandemic. This is in addition to the temporary relief measures announced  on 6 May 2020. These temporary relief measures do not affect the other existing  residential property market cooling measures which remain relevant to ensure that private residential property prices are broadly consistent with economic fundamentals. 
 
 {:start="2"}
-2. The additional temporary relief measures, to be implemented with immediate effect, are:<br>
+2. The additional temporary relief measures, to be implemented with immediate effect, are:
  <br><br>   i. Extension of the Project Completion Period (PCP) by a further 6 months for residential, commercial and industrial development projects;
 <br><br>    ii. Extension of time by a further 6 months for the commencement and completion of the residential development projects in relation to the remission of the Additional Buyer’s Stamp Duty (ABSD) for housing developers<sup><a href="#fn1" id="ref1">1</a></sup>; and
 <br><br>    iii. Extension of the PCP by up to a further 6 months for residential development projects under the Qualifying Certificate (QC) regime for foreign housing developers.
@@ -32,7 +32,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 
 * The conditions to be met to qualify for the extension of the PCP remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows: 
 <br><br>i. The land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
-<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
+<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.<br>
     
 * Eligible developers will be notified by the respective agencies. No application is necessary. 
     
@@ -41,11 +41,11 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 
 * The conditions to be met to qualify for the extension of the specified timelines for commencement of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
 <br><br>i. The land was purchased on or before 1 June 2020; and 
-<br><br>ii. The original timeline for commencement of the residential development expired on or after 1 February 2020.
+<br><br>ii. The original timeline for commencement of the residential development expired on or after 1 February 2020.<br>
  
 * The conditions to be met to qualify for extension of the specified timeline for completion of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
-<br><br>i. The land was purchased on or before 1 June 2020; and
-<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
+<br>i. The land was purchased on or before 1 June 2020; and
+<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.<br>
 
 * Eligible developers will be granted the extension automatically. No application is necessary. 
 
@@ -54,7 +54,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 
 * The conditions to be met to qualify for the waiver of extension charges to extend the completion deadline remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
 <br><br>i. The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 1 June 2020; and 
-<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
+<br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.<br>
 
 * Eligible developers can write to SLA’s Land Dealings Approval Unit (LDAU) at SLA_LDU@sla.gov.sg by 1 December 2020 to apply. Developers which had already applied for and obtained an extension of their existing completion deadlines under the temporary relief measures announced on 6 May 2020 will automatically be granted the further 6-month waiver of extension charges, and will be notified of their new deadlines by LDAU. 
 
@@ -65,7 +65,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 
 * The conditions to be met to qualify for the extension of the PCP remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows: 
 <br><br>i. The land was awarded on or before 1 June 2020; or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
-<br><br>ii. The original timeline for completion of the development expired on or after 1 February 2020. 
+<br><br>ii. The original timeline for completion of the development expired on or after 1 February 2020. <br>
     
 * Eligible developers will be notified by the respective agencies. No application is necessary. 
 
