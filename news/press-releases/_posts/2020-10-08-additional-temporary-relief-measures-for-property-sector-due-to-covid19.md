@@ -43,7 +43,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 <br><br>i. The land was purchased on or before 1 June 2020; and 
 <br><br>ii. The original timeline for commencement of the residential development expired on or after 1 February 2020.<br>
 <br>
-* The conditions to be met to qualify for extension of the specified timeline for completion of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
+* The conditions to be met to qualify for extension of the specified timeline for completion of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:<br>
 <br>i. The land was purchased on or before 1 June 2020; and
 <br><br>ii. The original timeline for completion of the residential development expired on or after 1 February 2020.<br>
 <br>
