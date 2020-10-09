@@ -12,11 +12,8 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 
 {:start="2"}
 2. The additional temporary relief measures, to be implemented with immediate effect, are:<br>
-    <br>
     i. Extension of the Project Completion Period (PCP) by a further 6 months for residential, commercial and industrial development projects;
-    
     ii. Extension of time by a further 6 months for the commencement and completion of the residential development projects in relation to the remission of the Additional Buyer’s Stamp Duty (ABSD) for housing developers<sup><a href="#fn1" id="ref1">1</a></sup>; and
-    
     iii. Extension of the PCP by up to a further 6 months for residential development projects under the Qualifying Certificate (QC) regime for foreign housing developers.
 
 {:start="3"}
@@ -34,10 +31,7 @@ permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-
 6. <u>PCP</u>. The PCP for qualifying residential development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by the Singapore Land Authority (SLA), will be extended by a further 6 months. <br>
 
 The conditions to be met to qualify for the extension of the PCP remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows: 
-
-    <br>
     i. The land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
-    
     ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
     
 Eligible developers will be notified by the respective agencies. No application is necessary. 
@@ -46,28 +40,20 @@ Eligible developers will be notified by the respective agencies. No application 
 7. <u>ABSD</u>. Under the ABSD regime, developers are to commence and complete the residential development, and sell all housing units in the residential development project within the specified timelines<sup><a href="#fn2" id="ref2">2</a></sup>,  failing which they will be subject to the ABSD on the purchase of the land. Under the additional temporary relief measures, the specified commencement and completion timelines will be extended by a further 6 months, for qualifying residential development projects. There is no further extension of the specified timeline to sell all housing units in the residential development project.
 
 The conditions to be met to qualify for the extension of the specified timelines for commencement of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
-
-    <br>
     i. The land was purchased on or before 1 June 2020; and 
-    
     ii. The original timeline for commencement of the residential development expired on or after 1 February 2020.
  
 The conditions to be met to qualify for extension of the specified timeline for completion of residential development remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
- <br>
-    i. The land was purchased on or before 1 June 2020; and 
-    
+    i. The land was purchased on or before 1 June 2020; and
     ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 Eligible developers will be granted the extension automatically. No application is necessary. 
 
 {:start="8"}
-8. QC. Under the QC regime, developers subject to the QC rules are to complete construction of all housing units in a residential development project within 5 years from the date of issue of the QC or the collective sale order, and dispose of all housing units within 2 years from the issue of Temporary Occupation Permit or Certificate of Statutory Completion. Under the additional temporary relief measures, developers applying to extend their existing completion deadline will be granted a further waiver of extension charges of up to a total of 6 months. This will also apply to other SLA approvals requiring the completion of all units in the residential development. There is no further waiver of extension charges to extend the existing deadline to dispose of all housing units in the residential development project.
+8. <u>QC</u>. Under the QC regime, developers subject to the QC rules are to complete construction of all housing units in a residential development project within 5 years from the date of issue of the QC or the collective sale order, and dispose of all housing units within 2 years from the issue of Temporary Occupation Permit or Certificate of Statutory Completion. Under the additional temporary relief measures, developers applying to extend their existing completion deadline will be granted a further waiver of extension charges of up to a total of 6 months. This will also apply to other SLA approvals requiring the completion of all units in the residential development. There is no further waiver of extension charges to extend the existing deadline to dispose of all housing units in the residential development project.
 
 The conditions to be met to qualify for the waiver of extension charges to extend the completion deadline remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows:
-
- <br>
     i. The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 1 June 2020; and 
-    
     ii. The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 Eligible developers can write to SLA’s Land Dealings Approval Unit (LDAU) at SLA_LDU@sla.gov.sg by 1 December 2020 to apply. Developers which had already applied for and obtained an extension of their existing completion deadlines under the temporary relief measures announced on 6 May 2020 will automatically be granted the further 6-month waiver of extension charges, and will be notified of their new deadlines by LDAU. 
@@ -78,18 +64,15 @@ Eligible developers can write to SLA’s Land Dealings Approval Unit (LDAU) at S
 9. <u>PCP</u>. The PCP for qualifying commercial and industrial development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by SLA, will be extended by a further 6 months. 
 
 The conditions to be met to qualify for the extension of the PCP remain the same (as per the temporary relief measures announced on 6 May 2020), and are as follows: 
-
-     <br>
     i. The land was awarded on or before 1 June 2020; or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020; and 
-    
     ii. The original timeline for completion of the development expired on or after 1 February 2020. 
     
 Eligible developers will be notified by the respective agencies. No application is necessary. 
 
 **MINISTRY OF NATIONAL DEVELOPMENT**
-**MINISTRY OF FINANCE**
-**MINISTRY OF LAW**
-**MINISTRY OF TRADE AND INDUSTRY**
+<br>**MINISTRY OF FINANCE**
+<br>**MINISTRY OF LAW**
+<br>**MINISTRY OF TRADE AND INDUSTRY**
 
 <br>**08 OCTOBER 2020**
 
