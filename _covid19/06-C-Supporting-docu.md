@@ -40,7 +40,7 @@ Examples of the documents that may be relevant for each category of contract can
 
 ##### <a name="option">Option to Purchase Given by Developer, or Sales and Purchase Agreement between Purchaser and Developer, for Residential, Commercial or Industrial Property</a><a href="#ref1" title="Return to top">↩</a> #####
 *	Option to Purchase (“**OTP**”) given by developer
-*	Sales and Purchase Agreement, or Agreement for Lease, between purchaser and developer 
+*	Sales and Purchase Agreement, between purchaser and developer 
 *	Stamp duty certificate, if any
 *	Document showing the payment of the booking fee or other moneys for the purpose of purchasing the property
 *	Where the property is an Executive Condominium, evidence of HDB’s approval or rejection of developer’s application to extend OTP 
