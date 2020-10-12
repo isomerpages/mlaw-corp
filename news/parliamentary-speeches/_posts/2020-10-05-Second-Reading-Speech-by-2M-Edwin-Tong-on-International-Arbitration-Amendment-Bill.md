@@ -20,11 +20,11 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="3"}
 3.	In international arbitration:
 
-<br>a.	We have a comprehensive legal infrastructure that supports, and at the same time, intensively promotes arbitration alongside a robust and effective legal system.  
-<br>b.	We have enhanced our laws, to constantly improve our system, and to best meet the needs of the end user. 
-<br>c.	We have a first-class judiciary that is supportive of arbitration as a dispute resolution mechanism. <br>
+a.	We have a comprehensive legal infrastructure that supports, and at the same time, intensively promotes arbitration alongside a robust and effective legal system.  
+b.	We have enhanced our laws, to constantly improve our system, and to best meet the needs of the end user. 
+c.	We have a first-class judiciary that is supportive of arbitration as a dispute resolution mechanism. 
 
-<br>And these are amongst the main reasons why Singapore is the most preferred seat of arbitration in the world today. 
+And these are amongst the main reasons why Singapore is the most preferred seat of arbitration in the world today. 
 
 {:start="4"}
 4.	We have come far, in the last 25 years, since the Singapore International Arbitration Centre (SIAC) was set up. 
@@ -49,7 +49,7 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 <br>a.	The introduction of a default mode of appointment of arbitrators in multi-party situations; 
 <br>b.	Recognising that an arbitral tribunal and the High Court ought to have powers to enforce obligations of confidentiality; 
 <br>c.	Allowing a party to the arbitral proceedings to appeal to the High Court on a question of law arising out of an award, provided that parties have agreed to opt into this mechanism; and
-<br>d.	Allowing parties to agree to waive or limit the annulment grounds under the Model Law or the IAA;<br>
+<br>d.	Allowing parties to agree to waive or limit the annulment grounds under the Model Law or the IAA;
 
 <br>These are amongst the several proposals that were considered in the consultation in 2019.  
 
@@ -62,8 +62,8 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="13"}
 13.	This Bill therefore introduces two amendments: 
 
-<br>a.	First, it sets out a default mechanism for the appointment of arbitrators in multiparty situations; and
-<br>b.	Second, it recognises that the tribunal and the High Court have the power to enforce confidentiality obligations in an arbitration. <br>
+a.	First, it sets out a default mechanism for the appointment of arbitrators in multiparty situations; and
+<br>b.	Second, it recognises that the tribunal and the High Court have the power to enforce confidentiality obligations in an arbitration.
 
 <br>The rest of the proposals which were considered in the public consultation, are still being studied and evaluated by my Ministry. 
 
@@ -78,13 +78,12 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="16"}
 16.	At present, the IAA provides a procedure for default appointment of arbitrators only where – 
 
-<br>a.	There are only two parties to a dispute; and 
+a.	There are only two parties to a dispute; and 
 
 <br>b.	Where these parties have:
 
-<br>i.	adopted an ad hoc arbitration instead of institutional arbitration, or 
-
-<br>ii.	have chosen not to apply institutional arbitration rules. 
+i.	adopted an ad hoc arbitration instead of institutional arbitration, or 
+ii.	have chosen not to apply institutional arbitration rules. 
 
 {:start="17"}
 17.	There is currently no similar procedure in the IAA or in the UNCITRAL Model Law on International Commercial Arbitration, for arbitrations where the dispute involves more than two parties. 
@@ -110,9 +109,9 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="24"}
 24.	This is not a problem where parties have decided on a set of institutional rules, but it does become critical in the context of multi-party ad hoc arbitration situations where – 
 
-<br>a.	there is no agreed mechanism for the constitution of the arbitral tribunal, and 
+a.	there is no agreed mechanism for the constitution of the arbitral tribunal, and 
 
-<br>b.	where the parties’ inability to agree on the appointment of their arbitrators would invariably lead to disagreement and delays in commencing the proceedings.  
+b.	where the parties’ inability to agree on the appointment of their arbitrators would invariably lead to disagreement and delays in commencing the proceedings.  
 
 {:start="25"}
 25.	This invariably adds to costs, and unnecessary time spent on process and procedure, when the parties really ought to get into the heart of the substance of the dispute and resolve those disputes.
@@ -128,14 +127,12 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 <br>a.	The claimant must first appoint an arbitrator on or before the date of its request for arbitration. 
 
 <br>i.	If there is more than one claimant, then all the claimants should make the appointment by agreement. 
-
-<br>ii.	The claimant or claimants must inform the respondent(s) of the appointment and state the appointed arbitrator together with the notice of arbitration.<br>
+ii.	The claimant or claimants must inform the respondent(s) of the appointment and state the appointed arbitrator together with the notice of arbitration.
 
 <br>b.	The respondent must then appoint an arbitrator after the receipt of the request for arbitration. 
 
-<br>i.	Again, if there is more than one respondent, all the respondents need to make or agree to the appointment by agreement.
-
-<br>ii.	The respondent must inform the claimant or claimants of the appointment. <br>
+i.	Again, if there is more than one respondent, all the respondents need to make or agree to the appointment by agreement.
+ii.	The respondent must inform the claimant or claimants of the appointment. 
 
 <br>c.	Finally, the two appointed arbitrators on both sides will then get together and appoint the third arbitrator, who will be the presiding arbitrator. 
 
@@ -165,11 +162,9 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="36"}
 36.	And we believe that ultimately, this default mechanism that is set out upfront: 
 
-<br>a.	will save time for parties, 
-
-<br>b.	will increase the overall efficiency of the process, and 
-
-<br>c.	will be a further step in continuing to make Singapore an attractive seat for complex international arbitration disputes, including those which include multiple parties. 
+a.	will save time for parties, 
+b.	will increase the overall efficiency of the process, and 
+c.	will be a further step in continuing to make Singapore an attractive seat for complex international arbitration disputes, including those which include multiple parties. 
 
 **Recognising that an arbitral tribunal and the High Court have the power to enforce obligations of confidentiality in an arbitration**
 
@@ -179,11 +174,11 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="38"}
 38.	Currently, unless parties otherwise agree, the parties and the arbitral tribunal have a duty of confidentiality. This can arise in a number of ways – 
 
-<br>a.	First, as a result of agreement between the parties;
+a.	First, as a result of agreement between the parties;
  
-<br>b.	Second, under any written law or rule of law – and this includes the common law; and 
+b.	Second, under any written law or rule of law – and this includes the common law; and 
 
-<br>c.	Third, under the rules of arbitration, including the rules of arbitration of any institution or organisation which the parties have agreed to, or have been adopted by the parties.
+c.	Third, under the rules of arbitration, including the rules of arbitration of any institution or organisation which the parties have agreed to, or have been adopted by the parties.
 
 {:start="39"}
 39.	Confidential information obtained in arbitration proceedings is protected from disclosure or use for any other collateral purpose i.e. not the purposes for which the information was obtained, which is the arbitration.  
@@ -223,7 +218,7 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 {:start="50"}
 50.	Sir, in summary, this Bill will:
 
-<br>a.	strengthen our international arbitration framework, 
+a.	strengthen our international arbitration framework, 
 <br>b.	it keeps us up to date, and 
 <br>c.	will ensure that Singapore remains an attractive venue for international arbitrations.
 
