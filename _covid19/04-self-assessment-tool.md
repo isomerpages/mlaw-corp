@@ -13,11 +13,10 @@ If you would like a preliminary assessment as to whether your case qualifies for
 
 <u>Important Note:</u> The Ministry of Law intends to extend the prescribed period under the Act from 19 October 2020 to the following: 
 
-| Prescribed Period | *	Leases and licences of non-residential property
+| Prescribed Period | Categories of Contract
+| To 19 November 2020 | *	Leases and licences of non-residential property
 *	Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes
 *	Rental agreements for commercial equipment or commercial vehicles
 *	Loans to SMEs secured by certain collateral in Singapore
-
-| To 19 November 2020 | Categories of Contracts
 | To  31 December 2020 | Categories of Contracts
 | To 31 March 2021 | Categories of Contracts
