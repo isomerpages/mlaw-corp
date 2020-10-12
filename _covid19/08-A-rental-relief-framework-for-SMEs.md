@@ -183,7 +183,7 @@ a)  Collect immediate payment of all the arrears, including any applicable inter
 b)  Exercise any of its rights under the lease or licence agreement.
 
 In addition, if the tenant-occupier terminates the lease or licence and has two or more outstanding repayment instalments under the repayment scheme, the tenant-occupier will have to provide specified documents and information<sup><a href="#fn16" id="ref16">16</a></sup> to their landlord, supported by a statutory declaration on their balance sheet, profit and loss statement, cash flow statement and statement of changes in equity (“prescribed documents”) from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). The tenant-occupier will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of the form available at these links:
-*	[Form](/files/RepaymentSchemeForm.pdf)
+*	[Form](/files/rentalreliefframework/UpdatedRepaymentSchemeForm.pdf) 
 *	[Exhibit A - Statement of Accounts](/files/ExhibitAStatementOfAccounts.xlsx)
 *	[Exhibit B - Balance Sheet](/files//ExhibitBBalanceSheet.xlsx) <br>
 
