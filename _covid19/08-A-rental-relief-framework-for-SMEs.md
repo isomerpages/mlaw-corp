@@ -170,8 +170,11 @@ Eligible tenant-occupiers who qualify for the Additional Rental Relief may choos
 
 <a href="#table" id="table"> </a>
 <div class="image">
-  <img src="/images/RepaymentSchemeTable.JPG/" title="Repayment Scheme" alt="Repayment Scheme">
+  <img src="/images/news/others/UpdatedRRF_table.JPG/" title="Repayment Scheme" alt="Repayment Scheme">
+ 
 </div>
+
+Previously, the original deadline for a tenant to serve a written notice on his intent to take up the scheme was 19 Oct 2020, while the deadline for the first instalment payment was 1 Nov 2020. The deadlines were extended to tie in with the extension of the relief period under the Act for leases and licenses of non-residential property.  To avoid doubt, these changes will not apply to parties that have already served a written notice on their landlord and any guarantor / surety of their intent to take up the scheme, or parties that have started their repayments under the scheme. 
 
 If the tenant-occupier fails to make a payment under the repayment scheme within 14 calendar days of it being due, or if the tenant-occupier terminates the lease or licence, the repayment scheme will be cancelled, and the landlord will be entitled to:
 
