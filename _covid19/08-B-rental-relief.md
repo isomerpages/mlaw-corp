@@ -617,9 +617,9 @@ Rental relief assessors cannot make a determination on disputes over the followi
 
 **62.	What can a tenant-occupier do if he needs more time to repay his accumulated rental arrears?**
 
-*	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Oct 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Oct 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
+*	Eligible tenant-occupiers who qualify for the Additional Rental Relief may elect to serve notice on their landlords to take up a prescribed repayment scheme for a specified portion of rental arrears accumulated from 1 Feb 2020 up till 19 Nov 2020 (corresponding to the prescribed period of relief for non-performance of contractual obligations provided for under the Act). The notice should be served no later than 19 Nov 2020, and on the landlord, any guarantor or surety for the tenant-occupier’s obligation in the lease agreement.
 
-*	Upon serving the notice, the tenant-occupier must start payment of the first instalment no later than 1 Nov 2020. Under the repayment scheme, the tenant-occupier can pay for a specified portion of their arrears over a period of time (up to 9 months, or the remaining term of the tenancy, whichever is shorter) in equal instalments, with the interest payable on such arrears capped at 3% per annum.
+*	Upon serving the notice, the tenant-occupier must start payment of the first instalment no later than 1 Dec 2020. Under the repayment scheme, the tenant-occupier can pay for a specified portion of their arrears over a period of time (up to 9 months, or the remaining term of the tenancy, whichever is shorter) in equal instalments, with the interest payable on such arrears capped at 3% per annum.
 
 *	For commercial properties, the maximum amount of arrears that can be paid in instalments will be 5 months’ rent. For industrial/office properties, the maximum amount of arrears that can be paid in instalments will be 4 months’ rent.
 
@@ -631,22 +631,27 @@ Rental relief assessors cannot make a determination on disputes over the followi
 
 **63.	How can a tenant-occupier serve a notice on his landlord to indicate his intention to take up the statutory repayment schedule?**
 
-*	The written notice should be served no later than 19 Oct 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
+*	The written notice should be served no later than 19 Nov 2020, and can be served on the landlord personally, through registered mail or by email. Where applicable, a copy of the notice should also be served on the tenant-occupier’s guarantor or surety for the tenant-occupier’s obligation in the lease agreement. 
 
 
-**64.	What is the formula for determining the instalment payments?**
+**64. Previously, the original deadline for a tenant to serve a written notice on his intent to take up the scheme was 19 Oct 2020, while the deadline for the first instalment payment was 1 Nov 2020. These deadlines have now been changed to 19 Nov 2020 and 1 Dec 2020. Why is there a change in the deadlines, and what happens to parties which have already served a written notice?**
+
+* The deadlines were extended to tie in with the extension of the relief period under the Act for leases and licences of non-residential property. To avoid doubt, these changes will not apply to parties that have already served a written notice on their landlord and any guarantor/surety of their intent to take up the sceheme, or parties that have started their repayments under the scheme. 
+
+
+**65.	What is the formula for determining the instalment payments?**
 
 *	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
 
 
-**65.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
+**66.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**
 
 *	Subject to contractual arrangements, landlords may draw on the existing security deposits to offset accumulated rental arrears, but must leave the equivalent of 1 month of rent remaining in the security deposit.
 
 *	If the tenant-occupier takes up a statutory repayment schedule, at the end of the repayment period, the tenant will be obliged to reinstate the security deposit to the contractual amount.
 
 
-**66.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
+**67.	What if the tenant-occupier does not comply with the repayment schedule or terminates the tenancy before the arrears are paid up?**
 
 *	All outstanding arrears, including interest and other charges, will be accelerated and immediately payable in accordance with the terms of the original contract, and the landlord will be entitled to exercise any of the landlord’s rights under the contract for non-payment of rent and the interest and other specified charges if:
 
@@ -661,6 +666,6 @@ Rental relief assessors cannot make a determination on disputes over the followi
 *	The documents and information to be provided will include the balance-sheet, profit and loss statement, cash flow statement and statement of changes in equity of the tenant-occupier from 1 April 2020 to the date of termination or repudiation of the lease agreement (both dates inclusive). These documents must be supported by a statutory declaration. The tenant will also be required to provide a reasonable proposal on how it proposes to resolve the outstanding rental arrears. If any of the prescribed documents are not available, tenants may instead provide a statutory declaration confirming and exhibiting a duly completed copy of a form. Please refer to the following [link](/covid19-relief/rental-relief-framework-for-smes#repay) for more details. 
 
 
-**67.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
+**68.	Can a tenant-occupier choose an accelerated repayment schedule and pay up earlier to reduce the amount of interest due?**
 
 *	The Act is intended to prescribe a workable standard for the repayment schedule. Landlords and tenants can negotiate an accelerated or different repayment schedule if they wish.
