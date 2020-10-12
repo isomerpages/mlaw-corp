@@ -12,6 +12,14 @@ You should only make an application for an Assessor’s Determination (“<b>App
 
 Please note that the outcome of the **Application** will be final. There will be no appeals from the Assessor’s determination. 
 
+The Ministry of Law intends to extend the prescribed period, which currently lasts until 19 October 2020. Please take note of the following deadlines to file an application for an Assessor’s Determination, after the prescribed period is extended: 
+
+| <b>Deadline to file an application for an Assessor’s Determination</b> | <b>Categories of Contracts</b>
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
+| <b>28 Feburary 2021</b> | -- Event and tourism-related contracts <br>-- Options to purchase with developers
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+
 <u>Important Note if You Are Seeking Rental Relief</u>
 
 If  you are a SME tenant seeking rental waivers under the [rental relief framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes), you DO NOT need to make an application for an Assessor’s determination under Part 2 of the Act. Please check if you fall within one of the following scenarios: 

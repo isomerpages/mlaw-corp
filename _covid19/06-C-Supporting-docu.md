@@ -14,7 +14,7 @@ All parties are to keep all information or documents disclosed by any party, or 
 
 Examples of the documents that may be relevant for each category of contract can be found below. 
 * <a href="#lease" id="ref1">Lease or Licence of Non-Residential Property</a>
-* <a href="#option" id="ref2">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property</a>
+* <a href="#option" id="ref2">Option to Purchase Given by Developer, or Sales and Purchase Agreement between Purchaser and Developer, for Residential, Commercial or Industrial Property</a>
 * <a href="#hire" id="ref3">Hire-Purchase or Conditional Sales Agreement</a>
 * <a href="#rental" id="ref4">Rental Agreements of Commercial Equipment</a>
 * <a href="#loans" id="ref5">Loans by Banks and Finance Companies to Singapore SMEs</a>
@@ -38,11 +38,11 @@ Examples of the documents that may be relevant for each category of contract can
 *	<u>Landlord</u>: Evidence of landlord’s expenses relating to the property (if applicable), such as mortgage payments and utility bills
 * <u>Important note</u>: If an application has been made to a Rental Relief Assessor: Application form and Determination (if any)
 
-##### <a name="option">Option to Purchase Given by Housing Developer, or Sales and Purchase Agreement between Purchaser and Housing Developer, for Residential Property</a><a href="#ref1" title="Return to top">↩</a> #####
-*	Option to Purchase (“**OTP**”) given by housing developer
-*	Sales and Purchase Agreement, or Agreement for Lease, between purchaser and housing developer 
+##### <a name="option">Option to Purchase Given by Developer, or Sales and Purchase Agreement between Purchaser and Developer, for Residential, Commercial or Industrial Property</a><a href="#ref1" title="Return to top">↩</a> #####
+*	Option to Purchase (“**OTP**”) given by developer
+*	Sales and Purchase Agreement, between purchaser and developer 
 *	Stamp duty certificate, if any
-*	Document showing the payment of the booking fee or other moneys for the purpose of purchasing the residential property
+*	Document showing the payment of the booking fee or other moneys for the purpose of purchasing the property
 *	Where the property is an Executive Condominium, evidence of HDB’s approval or rejection of developer’s application to extend OTP 
 *	Negotiations and correspondence between the parties
 *	<u>Purchaser</u>: Evidence of inability of purchaser or joint purchasers to exercise OTP or to meet payment schedule due to a COVID-19 event (if applicable), such as: 
