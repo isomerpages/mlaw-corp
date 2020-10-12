@@ -163,7 +163,9 @@ c.	Finally, the two appointed arbitrators on both sides will then get together a
 36.	And we believe that ultimately, this default mechanism that is set out upfront: 
 
 a.	will save time for parties, 
+
 b.	will increase the overall efficiency of the process, and 
+
 c.	will be a further step in continuing to make Singapore an attractive seat for complex international arbitration disputes, including those which include multiple parties. 
 
 **Recognising that an arbitral tribunal and the High Court have the power to enforce obligations of confidentiality in an arbitration**
@@ -219,8 +221,10 @@ c.	Third, under the rules of arbitration, including the rules of arbitration of 
 50.	Sir, in summary, this Bill will:
 
 a.	strengthen our international arbitration framework, 
-<br>b.	it keeps us up to date, and 
-<br>c.	will ensure that Singapore remains an attractive venue for international arbitrations.
+
+b.	it keeps us up to date, and 
+
+c.	will ensure that Singapore remains an attractive venue for international arbitrations.
 
 {:start="51"}
 51.	It will also show the international arbitration community that we have a continued commitment to provide strong legislative support for international arbitration.
