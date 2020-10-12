@@ -21,7 +21,7 @@ Mr Speaker, I beg to move, ‘That the Bill be now read a second time’.
 3.	In international arbitration:
 
 a.	We have a comprehensive legal infrastructure that supports, and at the same time, intensively promotes arbitration alongside a robust and effective legal system.  
-b.	We have enhanced our laws, to constantly improve our system, and to best meet the needs of the end user. 
+b.	We have enhanced our laws, to constantly improve our system, and to best meet the needs of the end user. <br>
 c.	We have a first-class judiciary that is supportive of arbitration as a dispute resolution mechanism. 
 
 And these are amongst the main reasons why Singapore is the most preferred seat of arbitration in the world today. 
@@ -51,7 +51,7 @@ And these are amongst the main reasons why Singapore is the most preferred seat 
 <br>c.	Allowing a party to the arbitral proceedings to appeal to the High Court on a question of law arising out of an award, provided that parties have agreed to opt into this mechanism; and
 <br>d.	Allowing parties to agree to waive or limit the annulment grounds under the Model Law or the IAA;
 
-<br>These are amongst the several proposals that were considered in the consultation in 2019.  
+These are amongst the several proposals that were considered in the consultation in 2019.  
 
 {:start="11"}
 11.	We consulted widely, and received feedback from arbitral institutions, from professional bodies, from practitioners, from academics, from multi-national companies who are themselves users of arbitration in the international arena, and key industry experts, both local and foreign.
@@ -65,7 +65,7 @@ And these are amongst the main reasons why Singapore is the most preferred seat 
 a.	First, it sets out a default mechanism for the appointment of arbitrators in multiparty situations; and
 <br>b.	Second, it recognises that the tribunal and the High Court have the power to enforce confidentiality obligations in an arbitration.
 
-<br>The rest of the proposals which were considered in the public consultation, are still being studied and evaluated by my Ministry. 
+The rest of the proposals which were considered in the public consultation, are still being studied and evaluated by my Ministry. 
 
 {:start="14"}
 14.	And I wish to thank, and place on record our gratitude, to all those who have contributed their views, their time, and suggestions. They’ve been very welcome and most helpful in shaping our views.  I would like to emphasise that the Government remains committed to working with our stakeholders, to strengthen the international arbitration regime, so as to ensure that our regime remains attractive and continues to serve the needs of international businesses. 
@@ -80,10 +80,10 @@ a.	First, it sets out a default mechanism for the appointment of arbitrators in 
 
 a.	There are only two parties to a dispute; and 
 
-<br>b.	Where these parties have:
+b.	Where these parties have:
 
 i.	adopted an ad hoc arbitration instead of institutional arbitration, or 
-ii.	have chosen not to apply institutional arbitration rules. 
+<br>ii.	have chosen not to apply institutional arbitration rules. 
 
 {:start="17"}
 17.	There is currently no similar procedure in the IAA or in the UNCITRAL Model Law on International Commercial Arbitration, for arbitrations where the dispute involves more than two parties. 
@@ -126,15 +126,15 @@ b.	where the parties’ inability to agree on the appointment of their arbitrato
 28.	Let me now take members briefly through the steps involved in this procedure.<br>
 <br>a.	The claimant must first appoint an arbitrator on or before the date of its request for arbitration. 
 
-<br>i.	If there is more than one claimant, then all the claimants should make the appointment by agreement. 
-ii.	The claimant or claimants must inform the respondent(s) of the appointment and state the appointed arbitrator together with the notice of arbitration.
+i.	If there is more than one claimant, then all the claimants should make the appointment by agreement. 
+<br>ii.	The claimant or claimants must inform the respondent(s) of the appointment and state the appointed arbitrator together with the notice of arbitration.
 
 <br>b.	The respondent must then appoint an arbitrator after the receipt of the request for arbitration. 
 
 i.	Again, if there is more than one respondent, all the respondents need to make or agree to the appointment by agreement.
-ii.	The respondent must inform the claimant or claimants of the appointment. 
+<br>ii.	The respondent must inform the claimant or claimants of the appointment.
 
-<br>c.	Finally, the two appointed arbitrators on both sides will then get together and appoint the third arbitrator, who will be the presiding arbitrator. 
+c.	Finally, the two appointed arbitrators on both sides will then get together and appoint the third arbitrator, who will be the presiding arbitrator. 
 
 {:start="29"}
 29.	However, when parties are unable to come to an agreement on their choice of arbitrator, then the new section 9B(2) provides that the appointing authority must then in that situation and upon the request of any party, appoint all three arbitrators. In doing so, the appointing authority is required to have regard to “all relevant circumstances.” So, a broad discretion, to consider all the facts, all the matters which arise in the context of that appointment exercise. Section 9B(2) also allows for the appointing authority, to consider the choices already made by the parties at that stage, if any, and at what stage the proceedings might be at.
