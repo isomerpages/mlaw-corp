@@ -10,7 +10,7 @@ permalink: /news/press-releases/Extension-of-Relief-Periods-under-the-COVID-19-T
 
     a. Part 2 of the Act enables parties in seven categories of contracts, upon service of a Notification for Relief, to obtain temporary relief from certain legal and enforcement actions for their inability to perform contractual obligations due to COVID-19.<sup><a href="#fn1" id="ref1">1</a></sup> Part 2 of the Act also offers a framework to resolve disputes, through Assessors who determine whether this relief applies and seek to make just and equitable determinations; and
     
-    <br><br>b. Part 3 of the Act provides temporary relief for financially distressed individuals and businesses by increasing the monetary thresholds and time limits for bankruptcy and insolvency.<sup><a href="#fn2" id="ref2">2</a></sup> 
+    b. Part 3 of the Act provides temporary relief for financially distressed individuals and businesses by increasing the monetary thresholds and time limits for bankruptcy and insolvency.<sup><a href="#fn2" id="ref2">2</a></sup> 
 
 {:start="2"}
 2. The prescribed periods ("relief periods") under Part 2 and Part 3 of the Act are both currently six months, from 20 April 2020 to 19 October 2020. 
@@ -43,18 +43,18 @@ permalink: /news/press-releases/Extension-of-Relief-Periods-under-the-COVID-19-T
 
     a. <u>Event and tourism-related contracts, up to 31 December 2020</u>: The extension will provide individuals and businesses who have booked events or tours taking place in late 2020 and 2021 with more time to monitor the COVID-19 situation and discuss with their vendors whether and how they should proceed, before deciding if they need to rely on reliefs under the Act.
     
-    <br><br>b. <u>Options to purchase and sale and purchase agreements with developers, up to 31 December 2020</u>: The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers' cash flow.
+    b. <u>Options to purchase and sale and purchase agreements with developers, up to 31 December 2020</u>: The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers' cash flow.
     
-    <br><br>c. <u>Construction contracts or supply contracts, or any performance bond granted thereto, up to 31 March 2021</u>: The construction sector continues to face significant delays, due to work stoppages during the Circuit Breaker and reduced operating capacity because of the implementation of Safe Management Measures. The extension will provide contractors with continued support as they adjust to new operating requirements, and also complement the other relief measures for the sector from the Government. 
+    c. <u>Construction contracts or supply contracts, or any performance bond granted thereto, up to 31 March 2021</u>: The construction sector continues to face significant delays, due to work stoppages during the Circuit Breaker and reduced operating capacity because of the implementation of Safe Management Measures. The extension will provide contractors with continued support as they adjust to new operating requirements, and also complement the other relief measures for the sector from the Government. 
 
 {:start="10"}
 10. After the relief period (or extended relief period) under Part 2 of the Act ends for each category of contract, the reliefs triggered by a Notification for Relief that has already been served will cease. Parties may commence or resume legal and enforcement action, as provided for in their contracts and in general law. Parties will no longer be able to file Notifications for Relief or Applications for an Assessor's Determination. Exceptions apply only in the following three categories of contracts, where Applications for an Assessor's Determination may be submitted within two months after the end of the extended relief period under Part 2 of the Act:
 
     a. <u>Event and tourism-related contracts</u>: Parties must serve a Notification for Relief by 31 December 2020 but may submit an Application for an Assessor's Determination up to 28 February 2021.
     
-    <br><br>b. <u>Options to purchase</u><sup><a href="#fn4" id="ref4">4</a></sup>: Parties must serve a Notification for Relief by 31 December 2020 but may submit an Application for an Assessor’s Determination up to 28 February 2021.
+    b. <u>Options to purchase</u><sup><a href="#fn4" id="ref4">4</a></sup>: Parties must serve a Notification for Relief by 31 December 2020 but may submit an Application for an Assessor’s Determination up to 28 February 2021.
     
-    <br><br>c. <u>Construction contracts or supply contracts, or any performance bond granted thereto</u>: Parties must serve a Notification for Relief by 31 March 2021 but may submit an Application for an Assessor's Determination up to 31 May 2021.
+    c. <u>Construction contracts or supply contracts, or any performance bond granted thereto</u>: Parties must serve a Notification for Relief by 31 March 2021 but may submit an Application for an Assessor's Determination up to 31 May 2021.
 
 **Changes to repayment scheme for rental arrears**
 
@@ -92,8 +92,7 @@ permalink: /news/press-releases/Extension-of-Relief-Periods-under-the-COVID-19-T
 <p><sup id="fn2">2. The monetary threshold for bankruptcy applications was raised from $15,000 to $60,000. The monetary threshold for winding up applications was raised from $10,000 to $100,000. The statutory period for debtors to respond to a statutory demand was extended from 21 days to 6 months.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <p><sup id="fn3">3. Options to purchase and sale and purchase agreements for commercial and industrial properties are covered by the Act with effect from 9 October 2020. The relief period under Part 2 of the Act for this category of contracts will end on 31 December 2020. 
-
-For the purposes of the relief under the Act, HDB's agreements for lease (AFLs) will have the same treatment as sale and purchase agreements.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<br><br>For the purposes of the relief under the Act, HDB's agreements for lease (AFLs) will have the same treatment as sale and purchase agreements.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
 <p><sup id="fn4">4. This exception does not apply to sale and purchase agreements for residential, commercial and industrial properties, i.e. for sale and purchase agreements, Applications for an Assessor’s Determination must be submitted by 31 December 2020.<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
