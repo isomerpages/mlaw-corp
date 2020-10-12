@@ -14,10 +14,11 @@ Please note that the outcome of the **Application** will be final. There will be
 
 The Ministry of Law intends to extend the prescribed period, which currently lasts until 19 October 2020. Please take note of the following deadlines to file an application for an Assessor’s Determination, after the prescribed period is extended: 
 
-| Deadline to file an application for an Assessor’s Determination | Categories of Contracts
-| 19 November 2020 | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
-| 31 December 2020 | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
-| 31 March 2021 | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>Deadline to file an application for an Assessor’s Determination</b> | <b>Categories of Contracts</b>
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
+| <b>28 Feburary 2021</b> | -- Event and tourism-related contracts <br>-- Options to purchase with developers
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
 
 <u>Important Note if You Are Seeking Rental Relief</u>
 
