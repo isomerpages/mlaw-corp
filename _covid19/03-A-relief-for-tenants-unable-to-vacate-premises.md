@@ -27,7 +27,7 @@ Click [here](/files/Tenants-inability-to-vacate.pdf) for a summary of this relie
 
 * Under the Act, you may pay the amounts listed in the table below instead, if you meet the qualifying conditions. See <a href="#q2">FAQ (2)</a> for the qualifying conditions. The specific amounts depend on the period in which you were unable to vacate the premises after the end of your lease or licence (the "**holding over period**"), as well as whether you operated your business on the premises during the holding over period. 
 
-![image](/files/COVIDAct7B_PrescribedAmounts_clean.JPG)
+![image](/files/COVIDAct7B_PrescribedAmounts_clean_update.JPG)
 *Please see <a href="#q6">FAQ (6)</a> for more details on "rent".  
 
 * **Illustration of how the relief may apply**
