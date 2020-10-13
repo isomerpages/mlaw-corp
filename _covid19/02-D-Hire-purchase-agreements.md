@@ -7,6 +7,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 ---
 
 ### Hire Purchase and Conditional Sales Agreements ###
+<a name="19Novnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for hire-purchase and conditional sales agreements from 19 October 2020 to 19 November 2020. Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 
