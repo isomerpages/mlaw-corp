@@ -65,7 +65,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 *	Relief will only apply if you can demonstrate that you are <b>unable to make the payments due, because of COVID-19</b>. This can occur in a variety of circumstances, including where you have lost your job as a result of COVID-19. 
 
 
-**5.	I purchased the residential property together with another person. We now cannot meet the payment schedule as one of us has lost our job. Do we qualify for the relief?**
+**5.	I purchased the property together with another person. We now cannot meet the payment schedule as one of us has lost our job. Do we qualify for the relief?**
 
 *	If you purchased the property together with another person, both your circumstances will need to be considered together to determine whether the reliefs apply. 
 
