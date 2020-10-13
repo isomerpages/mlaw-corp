@@ -8,6 +8,8 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 ### Loans by banks and finance companies to Singapore SMEs ###
 
+<a name="19Novnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for loans by banks and finance companies to Singapore SMEs from 19 October 2020 to 19 November 2020.  Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+
 #### General FAQs ####
 **1. What kinds of loans are covered?**
 * The Act covers loans to an enterprise that are secured against:
@@ -19,7 +21,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 * This is provided that the  enterprise is at least 30% owned by Singapore Citizens and/or Permanent Residents, and the turnover of the enterprise group does not exceed $100 million.  
 
 **2. What reliefs under the Act are applicable to me, the debtor?**
-* If you are **unable to pay** instalments on your secured debt **due to COVID-19**, your bank or finance company (collectively "creditor") cannot take the following actions against you up to 19 October 2020:
+* If you are **unable to pay** instalments on your secured debt **due to COVID-19**, your bank or finance company (collectively "creditor") cannot take the following actions against you up to <a href="#19Novnote">19 November 2020</a>:
 
   * Enforce their security over your commercial or industrial property located in Singapore.
   * Enforce their security over your plant, machinery or fixed asset located in Singapore that is used for manufacturing, production or other business purposes.
@@ -37,7 +39,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 #### Specific FAQs ####
 **4. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying for the instalments on my loans?** 
 
-* The loan instalments continue to be payable.  However, the Act prevents the creditor from enforcing their security, or commencing or continuing legal action during the relief period (i.e. up to 19 October 2020). This gives the creditor and debtor time to negotiate a mutually acceptable way to deal with the instalments and arrears. 
+* The loan instalments continue to be payable.  However, the Act prevents the creditor from enforcing their security, or commencing or continuing legal action during the relief period (i.e. up to <a href="#19Novnote">19 November 2020</a>). This gives the creditor and debtor time to negotiate a mutually acceptable way to deal with the instalments and arrears. 
 
 * The relief applies only to debtors who can demonstrate that they are unable to pay the instalments due to COVID-19. It does not allow debtors who are able to pay to avoid paying. Debtors who have the ability to pay (even if they suffered a drop in revenue) are not entitled to relief under the Act.
 

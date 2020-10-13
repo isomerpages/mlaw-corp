@@ -7,6 +7,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 ---
 
 ### Hire Purchase and Conditional Sales Agreements ###
+<a name="19Novnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for hire-purchase and conditional sales agreements from 19 October 2020 to 19 November 2020. Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 
@@ -86,13 +87,13 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 <a name="q3">**3. What reliefs under the Act are applicable to me, the hirer/debtor?**</a>
 *	The Act provides temporary relief from legal or enforcement actions against any failure to pay or breach of contract that is materially caused by a COVID-19 event 
-* If you qualify for relief under the Act, the financing company cannot take certain actions against you up to 19 October 2020, including: 
+* If you qualify for relief under the Act, the financing company cannot take certain actions against you up to <a href="#19Novnote">19 November 2020</a>, including: 
 
   * Repossess the plant, machinery or fixed asset that is used for business, or repossess your commercial vehicle.
   * Unilaterally impose new charges, increase charges or interest rates beyond what is provided for in the agreement (please refer to <a href="#q16">FAQ (16)</a> below). 
   * Start or continue court proceedings or insolvency proceedings.
 
-*	In addition, if your contract is <b><u>not</u></b> with a bank or finance company, the late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q17">FAQs (17) – (29)</a> for more details. Additionally, your financing company may not terminate your contract on the basis that you are unable to make payments on time.
+*	In addition, if your contract is <b><u>not</u></b> with a bank or finance company, the late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q17">FAQs (17) – (29)</a> for more details. Additionally, your financing company may not terminate your contract on the basis that you are unable to make payments on time.
 
 * In order to obtain relief, you must first serve a Notification for Relief on the financing company. See <a href="#q4">FAQ (4)</a> for more details.
 
@@ -139,13 +140,13 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 **10. My business suffered a drop of revenue due to COVID-19. Under the Act, must I still continue paying the instalments?** 
 
-* The instalment continues to be payable under the contract. However, the Act prevents the financing company from repossessing the plant, machinery or fixed asset that is used for business or commercial vehicle, or commencing or continuing legal action during the prescribed period (i.e. up to 19 October 2020). This gives the hirer and the financing company time to negotiate a mutually acceptable way to deal with the arrears.
+* The instalment continues to be payable under the contract. However, the Act prevents the financing company from repossessing the plant, machinery or fixed asset that is used for business or commercial vehicle, or commencing or continuing legal action during the prescribed period (i.e. up to <a href="#19Novnote">19 November 2020</a>). This gives the hirer and the financing company time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to hirers who can demonstrate that they are unable to pay the instalments due to COVID-19. It does not allow hirers who are able to pay to avoid paying. Hirers who have the ability to pay (even if they suffered a drop in revenue) must continue to pay the instalment.
 
 **11. I was unable to pay the instalment that fell due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?** 
 
-* No, the Act applies only to the inability to pay the instalments due to COVID-19 from 1 February 2020 to 19 October 2020. The financing company is entitled to enforce any contractual rights they have for unpaid instalments due before 1 February 2020.
+* No, the Act applies only to the inability to pay the instalments due to COVID-19 from 1 February 2020 to <a href="#19Novnote">19 November 2020</a>. The financing company is entitled to enforce any contractual rights they have for unpaid instalments due before 1 February 2020.
 
 **12. I served a Notification for Relief on 1 June 2020. I have already paid instalments for February to May 2020 prior to serving the Notification for Relief. Must the hirer return the instalments paid to me?** 
 
@@ -159,7 +160,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * For both parties, a settlement is preferable to being mired in costly and lengthy legal proceedings.
 
-* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your financing company, who is then prohibited from taking any of the actions in <a href="#q3">FAQ (3)</a>. This will give you temporary protection up to 19 October 2020.
+* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your financing company, who is then prohibited from taking any of the actions in <a href="#q3">FAQ (3)</a>. This will give you temporary protection up to <a href="#19Novnote">19 November 2020</a>.
 
 * For the avoidance of doubt, the instalment continues to accrue in the interim.  You are therefore encouraged to use the temporary relief period to work out a solution. 
 
@@ -205,9 +206,9 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 <a name="q17">**17. What are the arrears that will be subject to the cap on late payment interest and charges?**</a>
 
-* The cap applies in respect of arrears that accrued between 1 February and 19 October 2020 due to COVID-19, if your contract is **not** with a bank or finance company. 
+* The cap applies in respect of arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> due to COVID-19, if your contract is **not** with a bank or finance company. 
 
-**18. What happens to arrears that have accrued before 1 February, or after 19 October 2020 (e.g., arrears for the month of January 2020)?**
+**18. What happens to arrears that have accrued before 1 February, or after <a href="#19Novnote">19 November 2020</a> (e.g., arrears for the month of January 2020)?**
 
 * The relief does not apply to such arrears. The contractual late payment interest and charges will apply. 
 
@@ -217,7 +218,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 **20. How does the cap on late payment interest rate and charges work?**
 
-* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at an amount equal to 5% per annum of simple interest.  
+* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> will be capped at an amount equal to 5% per annum of simple interest.  
 
 * Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work. 
 
@@ -277,7 +278,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 **33. I wish to terminate my hire-purchase agreement early, without having to pay for the charges or penalties listed in the agreement. Does the Act assist me?** 
 
 *	The Act does not change the terms of your contract with your financing company. If the contract provides for charges or other fees for early termination, you will still be liable to pay those charges or fees to your financing company as provided under the contract, unless you and your financing company agree otherwise.
-*	If you are unable to pay those charges or fees that is due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your financing company, your financing company cannot enforce the contract for those charges or fees until after 19 October 2020. Please take note that your financing company can still take legal action against you for the unpaid charges or fees after 19 October 2020. 
+*	If you are unable to pay those charges or fees that is due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your financing company, your financing company cannot enforce the contract for those charges or fees until after <a href="#19Novnote">19 November 2020</a>. Please take note that your financing company can still take legal action against you for the unpaid charges or fees after <a href="#19Novnote">19 November 2020</a>. 
 
 **34. I served the Notification for Relief on my financing company, but did not get any response or acknowledgement. What do I do next?** 
 

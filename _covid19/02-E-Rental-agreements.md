@@ -8,6 +8,8 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 ### Rental agreements for commercial equipment ###
 
+<a name="19Novnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for rental agreements for commercial equipment from 19 October 2020 to 19 November 2020. Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+
 #### General FAQs ####
 
 <a name="q1">**1. What types of rental agreements are covered by the Act?**</a>
@@ -43,10 +45,10 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 <a name="q4">**4. What reliefs under the Act are applicable to me, the renter of the commercial equipment/vehicle?**</a>
 
-* If you are **unable to pay** rent which is due from 1 February 2020 to 19 October 2020 under the rental agreement **due to COVID-19**, you may serve a Notification for Relief on the rental company. See <a href="#q5">FAQ (5)</a>
+* If you are **unable to pay** rent which is due from 1 February 2020 to <a href="#19Novnote">19 November 2020</a> under the rental agreement **due to COVID-19**, you may serve a Notification for Relief on the rental company. See <a href="#q5">FAQ (5)</a>
 for more details. 
 
-* Upon service of the Notification for Relief, the rental company cannot take certain actions against you up to 19 October 2020, including:
+* Upon service of the Notification for Relief, the rental company cannot take certain actions against you up to <a href="#19Novnote">19 November 2020</a>, including:
 
     * Repossess the commercial equipment or vehicle.
     
@@ -56,7 +58,7 @@ for more details.
     
     * Terminate your contract on the basis that you are unable to make payments on time.
 
-* In addition, the late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q17">FAQs (17) – (28)</a> for more details. 
+* In addition, the late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q17">FAQs (17) – (28)</a> for more details. 
 
 <a name="q5">**5.  What must I do to enjoy the reliefs?**</a>
 
@@ -114,13 +116,13 @@ for more details.
 
 **11. My business suffered a drop of revenue due to COVID-19. Under the Act, must I still continue paying rent for the commercial equipment/vehicle?**
 
-* The rent continues to be payable under the contract. However, the Act prevents the rental company from repossessing your rented commercial equipment or vehicle, or commencing or continuing legal action during the prescribed period (i.e. up to 19 October 2020). This gives the renter and the rental company time to negotiate a mutually acceptable way to deal with the arrears.
+* The rent continues to be payable under the contract. However, the Act prevents the rental company from repossessing your rented commercial equipment or vehicle, or commencing or continuing legal action during the prescribed period (i.e. up to <a href="#19Novnote">19 November 2020</a>). This gives the renter and the rental company time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to renters who can demonstrate that they are unable to pay rent due to COVID-19. It does not allow renters who are able to pay, to avoid paying. Renters who have the ability to pay (even if they suffered a drop in revenue) must continue to pay rent.
 
 **12. I was unable to pay the rent for the commercial equipment/vehicle that fell due before 1 February 2020. Does the Act apply to arrears from before 1 February 2020?**
 
-* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 to 19 October 2020. The rental company is entitled to enforce any contractual rights they have for unpaid rent due before 1 February 2020.
+* No, the Act applies only to the inability to pay rent due to COVID-19 from 1 February 2020 to <a href="#19Novnote">19 November 2020</a>. The rental company is entitled to enforce any contractual rights they have for unpaid rent due before 1 February 2020.
 
 **13. I am unable to pay rent for the commercial equipment/vehicle due to COVID-19. Should I issue a Notification for Relief or apply for an Assessor’s determination under the Act?**
 
@@ -128,7 +130,7 @@ for more details.
 
 * For both parties, a settlement is preferable to being mired in costly and lengthy legal proceedings.
 
-* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your rental company, who is then prohibited from taking any of the actions in <a href="#q3">FAQ (3)</a>. This will give you temporary protection up to 19 October 2020.
+* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your rental company, who is then prohibited from taking any of the actions in <a href="#q3">FAQ (3)</a>. This will give you temporary protection up to <a href="#19Novnote">19 November 2020</a>.
 
 * For the avoidance of doubt, rent continues to accrue in the interim. You are therefore encouraged to use the temporary relief period to work out a solution.
 
@@ -179,9 +181,9 @@ for more details.
 
 <a name="q17">**17. What are the arrears that will be subject to the cap on late payment interest and charges?**</a>
 
-* The cap applies in respect of arrears that accrued between 1 February and 19 October 2020 due to COVID-19. 
+* The cap applies in respect of arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> due to COVID-19. 
 
-**18. What happens to arrears that have accrued before 1 February, or after 19 October 2020 (e.g., arrears for the month of January 2020)?**
+**18. What happens to arrears that have accrued before 1 February, or after <a href="#19Novnote">19 November 2020</a> (e.g., arrears for the month of January 2020)?**
 
 * The relief does not apply to such arrears. The contractual late payment interest and charges will apply. 
 
@@ -191,7 +193,7 @@ for more details.
 
 **20. How does the cap on late payment interest rate and charges work?**
 
-* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at an amount equal to 5% per annum of simple interest.  
+* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and <a href="#19Novnote">19 November 2020</a> will be capped at an amount equal to 5% per annum of simple interest.  
 
 * Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work. 
 
@@ -245,7 +247,7 @@ for more details.
 
 * The Act does not change the terms of your contract with your rental company. If the contract provides for charges or other fees for early termination, you will still be liable to pay those charges or fees to your rental company as provided under the contract, unless you and your rental company agree otherwise.
 
-* If you are unable to pay those charges or fees that is due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your rental company, your rental company cannot enforce the contract for those charges or fees until after 19 October 2020. Please take note that your rental company can still take legal action against you for the unpaid charges or fees after 19 October 2020. 
+* If you are unable to pay those charges or fees that is due on or after 1 February 2020 due to COVID-19, and serve a Notification for Relief on your rental company, your rental company cannot enforce the contract for those charges or fees until after <a href="#19Novnote">19 November 2020</a>. Please take note that your rental company can still take legal action against you for the unpaid charges or fees after <a href="#19Novnote">19 November 2020</a>. 
 
 **32. I served the Notification for Relief on my rental company, but did not get any response or acknowledgement. What do I do next?**
 

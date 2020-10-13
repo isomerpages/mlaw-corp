@@ -27,7 +27,7 @@ Click [here](/files/Tenants-inability-to-vacate.pdf) for a summary of this relie
 
 * Under the Act, you may pay the amounts listed in the table below instead, if you meet the qualifying conditions. See <a href="#q2">FAQ (2)</a> for the qualifying conditions. The specific amounts depend on the period in which you were unable to vacate the premises after the end of your lease or licence (the "**holding over period**"), as well as whether you operated your business on the premises during the holding over period. 
 
-![image](/files/COVIDAct7B_PrescribedAmounts_clean.JPG)
+![image](/files/COVIDAct7B_PrescribedAmounts_clean_update.JPG)
 *Please see <a href="#q6">FAQ (6)</a> for more details on "rent".  
 
 * **Illustration of how the relief may apply**
@@ -227,13 +227,13 @@ The tenancy of a food and beverage restaurant business expired during the Circui
 
 * The relief will cease to apply once the tenant is able to vacate the premises on 1 June 2020. The tenant will be liable for the sums provided for under the contract or applicable law from 1 June 2020 onwards.
 
-**18. What if my tenant is still not able to vacate after 19 October 2020?**
+**18. What if my tenant is still not able to vacate after 19 November 2020?**
 
-* The relief will not apply after 19 October 2020. Your tenant may be liable to pay double rent for the period of holding over after 19 October 2020.
+* The relief will not apply after 19 November 2020. Your tenant has no relief from any liability  to pay double rent for the period of holding over after 19 November 2020.
 
 * However, we encourage parties to negotiate and work out a mutually acceptable solution to their contractual issues. 
 
-* Please note that if the tenant was able to vacate the premises on or before 19 October 2020, the tenant will be liable for its failure to vacate the premises from the date it was able to do so.
+* Please note that if the tenant was able to vacate the premises on or before 19 November 2020, the tenant will be liable for its failure to vacate the premises from the date it was able to do so.
 
 **19. My current tenant is unable to vacate the premises due to COVID-19 and has sought relief under the Act. The current tenant’s holding over prevented me from delivering vacant possession to an incoming tenant. Does the Act assist me?**
 
