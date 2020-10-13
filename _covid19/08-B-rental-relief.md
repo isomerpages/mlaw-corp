@@ -8,7 +8,7 @@ third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
 
 ### FAQs on Rental Relief Framework ###
 
-<b><a href="#rental" id="refa">Rental Relief</a></b> 
+<b>c</b> 
  - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
  - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
  - <a href="#moratorium" id="ref1c">Moratorium on enforcement action</a>
@@ -28,7 +28,35 @@ third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
 
 <a name="overview"><u>Overview - Coverage of relief and eligibility criteria</u></a><a href="#ref1a" title="Return to top">↩</a>
 
-**1.	Why has the Government decided to implement this rental relief framework?**
+<a href="#q1" id="a1">1. Why has the Government decided to implement this rental relief framework?</a>
+
+<a href="#q2" id="a2">2. How many months of rental relief can an eligible SME or NPO tenant (including sub-tenants, licensees and sub-licensees) obtain?</a>
+
+<a href="#q3" id="a3">3. What period does the rental relief cover?</a> 
+
+<a href="#q4" id="a4">4. What are the eligibility criteria for an SME/NPO tenant to qualify for the rental relief?</a>
+
+<a href="#q5" id="a5">5. What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?</a>
+
+<a href="#q6" id="a6">6. Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?</a>
+
+<a href="#q7" id="a7">7. Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? What if they do not meet the eligibility criteria for rental relief?</a>
+
+<a href="#q8" id="a8">8. What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?</a>
+
+<a href="#q9" id="a9">9. What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?</a>
+
+<a href="#q10" id="a10">10. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?</a>
+
+<a href="#q11" id="a11">11. How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?</a>
+
+<a href="#q12" id="a12">12. What does it mean to be an SME as part of a “Singapore group of entities”?</a>
+
+<a href="#q13" id="a13">13. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?</a>
+
+<a href="#q14" id="a14">14. Are individual tenants of prescribed properties eligible for rental waivers under the Rental Relief Framework?</a>
+
+<br><a name="q1">**1.	Why has the Government decided to implement this rental relief framework?** </a><a href="#a1" title="Return to top">↩</a>
 
 *	The rental relief framework seeks to help affected SMEs, and specified non-profit organisations (“NPOs”) with their cash flow by providing for the fair handling of their accumulated rental obligations, and a fair sharing of economic hardship due to the impact of COVID-19 among the Government, landlords and tenants. 
 
@@ -36,8 +64,7 @@ third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
 
 *	The framework also applies to specified NPOs that are similarly affected by the economic impact of COVID-19. These are NPOs operating with a clear public benefit to the community, businesses, and society at large. 
 
-
-**2.	How many months of rental relief can an eligible SME or NPO tenant (including sub-tenants, licensees and sub-licensees) obtain?**
+<a name="q2">**2.	How many months of rental relief can an eligible SME or NPO tenant (including sub-tenants, licensees and sub-licensees) obtain?** </a><a href="#a2" title="Return to top">↩</a>
 
 *	Eligible SMEs and NPOs which are tenant-occupiers who operate their business in a rented property (including sub-tenants, licensees and sub-licensees) can receive up to 4 months’ waiver of rent* for qualifying commercial properties (e.g. shops), and up to 2 months’ waiver of rent for other non-residential properties (e.g. industrial and office properties), comprising the following:
 
@@ -51,7 +78,7 @@ third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
     
     *The value of the rent to be waived is based on the contractual rent of the tenant, excluding any maintenance fee and charges for the provision of services such as cleaning and security.
 
-**3.	What period does the rental relief cover?**
+<a name="q3">**3.	What period does the rental relief cover?**</a><a href="#a3" title="Return to top">↩</a>
 
 *	Generally, the Rental Relief covers the first 2 months within the period of April to July 2020 for qualifying commercial properties, and the first month within the period of April to May 2020 for other non-residential properties (e.g. industrial and office properties).
 
@@ -66,7 +93,7 @@ third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
 Note: The rental waivers in the table are applicable in cases where the tenant-occupier occupies the property throughout the relief period. Please refer to the section <a href="#scenario">"Specific scenarios"</a> for details of the application of the rental waivers in cases where the tenant-occupier does not occupy the property throughout the relief period.
 
 
-**4.	What are the eligibility criteria for an SME/NPO tenant to qualify for the rental relief?**
+<a name="q4">**4.	What are the eligibility criteria for an SME/NPO tenant to qualify for the rental relief?**</a><a href="#a4" title="Return to top">↩</a>
 
 *	The rental relief framework, comprising the Rental Relief and the Additional Rental Relief, applies to eligible tenant-occupiers of prescribed properties in qualifying leases or licences that are in writing, or evidenced in writing, which are:
  
@@ -111,14 +138,14 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * Please refer to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform" target="new">online self-assessment tool </a> for a preliminary assessment on the rental waiver that a tenant may be eligible for or that a landlord may be required to provide. 
 
-**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?**
+<a name="q5">**5.	What is the definition of “gross income” in the context of the criteria for Additional Rental Relief?**</a><a href="#a5" title="Return to top">↩</a>
 
 * Gross income, in the context of the eligibility criteria for the Additional Rental Relief under Regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020, means total revenue minus direct costs (but before indirect costs like overheads and taxes).
  
 * In computing gross income, all income derived by the company/NPO, including trade income and separate sources of income, should be taken into account. This would include Government grants, if any.
 
 
-**6. Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** 
+<a name="q6">**6. Will tenants/ sub-tenants of Government landlords enjoy the same rental waivers?** </a><a href="#a6" title="Return to top">↩</a>
 
 *	The rental relief framework generally applies to tenants/ sub-tenants of Government landlords. 
 
@@ -127,24 +154,24 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 *	Respective tenants would have received the letter on the rental waiver issued by their Government Landlords. You may wish to approach your Government landlord directly if you require assistance.
 
 
-**7.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? What if they do not meet the eligibility criteria for rental relief?**
+<a name="q7">**7.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? What if they do not meet the eligibility criteria for rental relief?**</a><a href="#a7" title="Return to top">↩</a>
 
 *	If the eligible tenant-occupier rents the property through an intermediary landlord, all intermediary landlords along the chain will also receive rental waivers in respect of that eligible tenant-occupier for the corresponding period from their immediate landlords, regardless of whether the intermediary landlords meet the eligibility criteria. An intermediary landlord’s entitlement to rental waivers is solely dependent on the tenant-occupier’s eligibility.
 
 
-**8.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**
+<a name="q8">**8.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**</a><a href="#a8" title="Return to top">↩</a>
 
 *	An intermediary landlord will be required to provide a full waiver to their tenant according to the applicable rental relief period.
 
 
-**9.	What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?**
+<a name="q9">**9.	What if a company is newly incorporated and does not have financial statements for the financial year 2018 or 2019?**</a><a href="#a9" title="Return to top">↩</a>
 
 *	In such a case, and depending on when the tenant-occupier commenced business, the tenant-occupier should provide its unaudited balance-sheet, profit and loss statement and cash flow statement from the date of commencement of the business (at the prescribed property or any other place), supported by a statutory declaration by the tenant or (if the tenant is an entity) a relevant officer of the tenant. Where such documents are unavailable, a tenant can also provide a statutory declaration of its revenue.  Please see Regulation 4 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations read with Part 1 of the Seventh Schedule for further details. 
 
 *	A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths or a Justice of the Peace. Please refer to the following <a href="http://conp.sg/co-np-directory-listing">link</a> for a directory of Commissioner for Oaths in Singapore and the following <a href="https://www.sgdi.gov.sg/ministries/pmo/departments/jp">link</a> for a directory of Justices of the Peace in Singapore.
 
 
-**10. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**
+<a name="q10">**10. Why has the period of April to May 2020 been chosen as the period for determining the 35% drop in gross income – is it possible to choose a different period for comparison? Why is it necessary to compare gross income against the same period year on year? What if a tenant was not operational during the April to May 2019 period – how will the drop in revenue be assessed?**</a><a href="#a10" title="Return to top">↩</a>
 
 *	The reason why April to May 2020 is used for the period of comparison is that it corresponds to the period of the Circuit Breaker, and the Additional Rental Relief to be provided by landlords to tenants is intended to provide more help to SME tenants which have been substantially hit by COVID-19. The reason why the same period of time for a year on year comparison is used is to account for seasonal fluctuations in revenue. 
 
@@ -153,20 +180,20 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 * Notwithstanding the above, it should be noted that the rental relief framework is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are free to work out mutually agreeable arrangements that best address their specific circumstances.
 
 
-**11.	How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?**   
+<a name="q11">>**11.	How will the 35% drop in gross income be assessed if there is no revenue-generating activity conducted in the prescribed property?**</a><a href="#a11" title="Return to top">↩</a>   
 
 * The 35% income drop criterion can be assessed by comparing the average monthly gross income derived from that business (or incidental purpose) conducted at the prescribed property for the period 1 April 2020 to 31 May 2020 to the period 1 April 2019 to 31 May 2019. If a tenant-occupier can show that it suffered a 35% or more decrease in its average monthly gross income derived from its business, as attributable to the specific property, it may be eligible for Additional Rental Relief if the other criteria as set out in regulation 14 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 are met.
 
 
-**12.	What does it mean to be an SME as part of a “Singapore group of entities”?**
+<a name="q12">**12.	What does it mean to be an SME as part of a “Singapore group of entities”?**</a><a href="#a12" title="Return to top">↩</a>
 
 *	“Singapore group of entities” refers to a group of entities that are incorporated or established in Singapore that is related through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent standard or would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore. If the SME is a member of a Singapore group of entities in the period 1 April 2020 to 31 May 2020, the group’s annual revenue must be not more than $100 million. 
 
-**13. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**
+<a name="q13">**13. Is there a requirement for a business to be have (i) at least 30% local shareholding; and/or  (ii) have a group employment size of not more than 200 employees to be considered as an eligible SME?**</a><a href="#a13" title="Return to top">↩</a>
 
 * There is no requirement for a company to meet any shareholding or workforce criteria to be considered an eligible SME under the Rental Relief Framework. 
 
-**14. Are individual tenants of prescribed properties eligible for rental waivers under the Rental Relief Framework?**
+<a name="q14">**14. Are individual tenants of prescribed properties eligible for rental waivers under the Rental Relief Framework?**</a><a href="#a14" title="Return to top">↩</a>
 
 * Yes, individuals who operate their businesses in the rented property and meet the eligibility criteria will be entitled to the rental waivers under the Rental Relief Framework. 
 
