@@ -18,7 +18,7 @@ The Ministry of Law intends to extend the prescribed period, which currently las
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
 | <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
 | <b>28 Feburary 2021</b> | -- Event and tourism-related contracts <br>-- Options to purchase with developers
-| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>31 May 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
 
 <u>Important Note if You Are Seeking Rental Relief</u>
 
