@@ -19,7 +19,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
     *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a>).
 
-    *	<b>For S&P Agreements / Agreements for Leases (“AFLs”):</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a).
+    *	<b>For S&P Agreements / Agreements for Leases (“AFLs”):</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a>).
     
     * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and <a name="31Decnote">31 December 2020</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (15) – (25)</a> for more details. 
 
