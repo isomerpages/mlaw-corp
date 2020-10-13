@@ -10,7 +10,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 Many contracts contain clauses which impose interest or other charges for late payment. Sometimes, the interest rates or charges stipulated can be high. The COVID-19 pandemic has had a drastic effect across all segments of the economy, and many Singaporeans and local businesses have missed some payments as a result.
 
-To help Singaporeans and businesses who are struggling because of COVID-19 with temporary cash flow relief, the COVID-19 (Temporary Measures) Act (the “Act”) provided businesses and individuals who are unable to meet certain payment obligations because of COVID-19 a temporary moratorium from enforcement actions during the prescribed period (until 19 October 2020). However, during this time, payments and interest thereon continue to accrue.
+To help Singaporeans and businesses who are struggling because of COVID-19 with temporary cash flow relief, the COVID-19 (Temporary Measures) Act (the “Act”) provided businesses and individuals who are unable to meet certain payment obligations because of COVID-19 a temporary moratorium from enforcement actions during the prescribed period. However, during this time, payments and interest thereon continue to accrue.
 
 The Act (as amended by the COVID-19 (Temporary Measures) (Amendment) Act) thus limits the amount of late payment interest and charges that can be charged for arrears that arise due to COVID-19 under the following prescribed contracts:
 
@@ -18,7 +18,7 @@ The Act (as amended by the COVID-19 (Temporary Measures) (Amendment) Act) thus l
 
 (b) Rental agreements for commercial equipment (click [here](/covid19-relief/faq/rental-agreements) for further details) 
 
-(c) Sale and purchase agreements with housing developers (click [here](/covid19-relief/faq/otps-and-s-and-p-agreements) for further details)
+(c) Sale and purchase agreements with developers (click [here](/covid19-relief/faq/otps-and-s-and-p-agreements) for further details)
 
 (d) Construction contracts or supply contracts (click [here](/covid19-relief/faq/construction) for further details)
 
@@ -29,7 +29,9 @@ This is intended to help businesses affected by COVID-19 to manage their debt lo
 The cap on late payment interest or charges does not apply to SME secured loans and hire purchase agreements / conditional sales agreements granted by banks and finance companies. Please see the FAQ below for further details. 
 
 <b><u>How the relief works</u></b>
-<br>Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020, will be capped at an amount equal to 5% per annum of simple interest on the arrears.
+<br>Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February 2020 to the end of the relevant prescribed period*, will be capped at an amount equal to 5% per annum of simple interest on the arrears.
+
+*Please refer to this [link](/covid19-relief/temporary-relief-from-inability-to-perform-contract) for the relevant prescribed period. 
 
 <b><u>Why does the prescribed cap on late payment interest and charges not apply to contracts with a bank or finance company?</u></b>
 
