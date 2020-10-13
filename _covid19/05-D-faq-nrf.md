@@ -24,6 +24,11 @@ third_nav_title: 'Part 2 of the Act-Notification for Relief'
 * Yes. A Notification for Relief must be served on the other party to the contract within the prescribed period. 
 * The Ministry of Law intends to extend the prescrbed period, which currently lasts until 19 October 2020. The deadlines to serve a Notifcation for Relief would be as follows after the prescribed period is extended: 
 
+| <b>Deadline to serve Notification for Relief</b> | <b>Categories of Contracts</b>
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+
 
 **3. Must a Notification for Relief take a certain form?**  
 *	Yes, there is a prescribed form for the Notification for Relief. Please refer to the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) (if you are serving the Notification for yourself) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass) (if you are serving the Notification on behalf of your business or company). 
