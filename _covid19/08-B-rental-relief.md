@@ -517,8 +517,11 @@ Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Own
 <a name="npo"><u>Non-profit organisations (NPO)</u></a><a href="#ref1g" title="Return to top">↩</a>
 
 <a href="#q43" id="a43">43. What are the eligibility criteria for an NPO tenant to qualify for the rental relief?</a>
+
 <a href="#q44" id="a44">44. What is the definition of a “specified arts and culture society”?</a>
+
 <a href="#q45" id="a45">45. What is the definition of a “specified trade association”?</a>
+
 <a href="#q46" id="a46">46. How were the categories of non-profit organisations (“NPOs”) considered eligible for rental relief determined?</a>
 
 
