@@ -12,6 +12,8 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 * [here](../rental-relief-framework-for-smes) for a summary of the rental relief framework.
 * [here](../faq/rental-relief) for the FAQs.
 
+<u>Important Note</u>: The Ministry of Law intends to extend the prescribed period for leases and licences of non-residential propertyfrom 19 October 2020 to 19 November 2020.  Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+
 #### General FAQs ####
 **1. Does the Act cover residential leases and licences?**
 * The Act only covers leases and licences of non-residential (e.g. commercial or industrial) property. It does not cover leases and licences of residential property, even if these are partially or occasionally used for business purposes (e.g. a home office).
@@ -20,7 +22,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 * The commercial component of a shophouse is covered by the Act, while the residential component is not.
 
 <a name="q3">**3. What reliefs under the Act are applicable to me, the tenant?**</a>
-* If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for up to 19 October 2020:
+* If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for up to 19 November 2020:
 
   * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent. 
   * Unilaterally impose new charges, increase charges or interest rates beyond what is provided for in the lease or licence agreement (see <a href="#q12">FAQ (12)</a> & <a href="#q13">(13)</a>).
@@ -51,11 +53,11 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 	 * Renewed automatically after 25 March 2020
 	 * Renewed after 25 March 2020 in the exercise of a right of renewal provided in the lease or licence.
   
-**8. My lease or licence ends before 19 October 2020. Does the Act apply to me?**
+**8. My lease or licence ends before 19 November 2020. Does the Act apply to me?**
 * A lease or licence entered into before 25 March 2020 would be covered by the Act, regardless of when the term of the lease or licence ends. 
 
 **9. My business suffered a drop in revenue due to COVID-19. Under the Act, must I still continue paying rent?**
-* Rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing or continuing legal action during the relief period (i.e. up to 19 October 2020). This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
+* Rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) continues to be payable.  However, the Act prevents the landlord from terminating the tenancy, evicting the tenant, or commencing or continuing legal action during the relief period (i.e. up to 19 November 2020). This gives the landlord and tenant time to negotiate a mutually acceptable way to deal with the arrears.
 
 * The relief applies only to tenants who can demonstrate that they are **unable to pay** rent due to COVID-19. It does not allow tenants who are able to pay to avoid paying rent. Tenants who have the ability to pay (even if they suffered a drop in revenue) must continue to pay their rent.
 
@@ -67,7 +69,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * For both parties, a settlement is preferable to being mired in costly and lengthy legal proceedings.
 
-* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your landlord, who is then prohibited from taking any of the actions in FAQ(3).  This will give you temporary protection up to 19 October 2020.
+* If you cannot reach an agreement yet and require protection from legal proceedings, you may serve a Notification for Relief on your landlord, who is then prohibited from taking any of the actions in FAQ(3).  This will give you temporary protection up to 19 November 2020.
 
 * For the avoidance of doubt, the rent (less the [rental waiver granted under the rental relief framework for SMEs](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes) in Part 2A of the Act) continues to accrue in the interim.  You are therefore encouraged to use the temporary relief period to work out a solution. 
 
@@ -128,7 +130,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 * Your landlord may also be entitled to set off the security deposit against any damages that you might have to pay if you have breached your tenancy agreement. 
 
-* If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract for rent until after 19 October 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 October 2020. You may wish to consider applying for the [repayment scheme for rental arrears](../rental-relief-framework-for-SMEs#repay).
+* If you have been unable to pay any rent that is due on or after 1 February 2020 due to COVID-19, and have served a Notification for Relief on your landlord, your landlord cannot enforce the contract for rent until after 19 November 2020. Please note that your landlord can still take legal action against you for the unpaid rent after 19 November 2020. You may wish to consider applying for the [repayment scheme for rental arrears](../rental-relief-framework-for-SMEs#repay).
 
 **19. I was supposed to vacate the property by a certain date after 1 February 2020 (e.g. by 30 April 2020). However, I was unable to do so because of the safe distancing measures. Does the Act assist me?** 
 
@@ -163,7 +165,7 @@ Service of the Notification for Relief on the property agent:
 
 **22. My tenant served me a Notification for Relief. What do I do next?** 
 
-*	After being served the Notification for Relief, you are prohibited from enforcing the contract during the relief period, which expires after 19 October 2020. You cannot evict or terminate the lease for non-payment of rent, nor can you start or continue court or insolvency proceedings against your tenant.
+*	After being served the Notification for Relief, you are prohibited from enforcing the contract during the relief period, which expires after 19 November 2020. You cannot evict or terminate the lease for non-payment of rent, nor can you start or continue court or insolvency proceedings against your tenant.
 *	We encourage you to negotiate and reach a mutually acceptable solution with your tenant. A compromise on the rental arrears and the terms of the tenancy can preserve a longer-term relationship, which is beneficial for both parties.  
 *	However, if you dispute your tenant’s inability to pay rent, or that the inability is materially caused by COVID-19, and cannot reach a compromise with your tenant, you can make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this [link](/covid19-relief/application-for-assessor) for further information on the application process and the relevant forms.
 
@@ -171,7 +173,7 @@ Service of the Notification for Relief on the property agent:
 
 *	If you are unable to deliver vacant possession of the property because of the safe distancing measures implemented as a result of COVID-19, we encourage you to approach your incoming tenant to work out a mutually acceptable solution to deliver vacant possession of the property. This may include an agreement on a postponed date where you are able to hand over the property, and a corresponding extension to the term of the lease. Both parties should be fair and reasonable. 
 *	If you and your incoming tenant are unable to reach an agreement, and your incoming tenant indicates that he wishes to enforce his obligation to deliver vacant possession by, for example, commencing legal proceedings against you, you may serve a Notification for Relief on that tenant using the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass). 
-*	Once a Notification for Relief has been served, that tenant is prohibited from commencing legal proceedings against the landlord for the relief period from 20 April 2020 to 19 October 2020. Either party may thereafter make an [application to the Assessor](/covid19-relief/application-for-assessor), who will seek to achieve an outcome that is just and equitable in the circumstances. 
+*	Once a Notification for Relief has been served, that tenant is prohibited from commencing legal proceedings against the landlord for the relief period from 20 April 2020 to 19 November 2020. Either party may thereafter make an [application to the Assessor](/covid19-relief/application-for-assessor), who will seek to achieve an outcome that is just and equitable in the circumstances. 
 
 **24. My tenant verbally told me / e-mailed me / sent me an instant message that he cannot pay rent. Is that a valid Notification for Relief?** 
 
@@ -193,7 +195,7 @@ Service of the Notification for Relief on the property agent:
 *	If your tenant has served a Notification for Relief in accordance with the Act, you are prohibited from enforcing the contractual obligation against the tenant by for example, commencing legal action, exercising your right of re-entry or terminating the lease or licence during the relief period. We encourage you to speak to your tenant and work out a mutually acceptable solution.  
 *	If you are unable to reach an agreement with your tenant and wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor). The Assessor will seek to achieve an outcome that is just and equitable in the circumstances.
 
-**28. The lease expires before 19 October 2020. My tenant served a Notification for Relief on me. Am I obliged to extend the lease beyond the contractually agreed expiry date?**  
+**28. The lease expires before 19 November 2020. My tenant served a Notification for Relief on me. Am I obliged to extend the lease beyond the contractually agreed expiry date?**  
 
 *	No. You are not obliged to extend the lease beyond the contractually agreed expiry date.
 
