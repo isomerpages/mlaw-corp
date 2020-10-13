@@ -315,7 +315,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 * The assessment process will require the tenant-occupier to provide the documents stipulated in in the Regulations if they were not provided to the landlord earlier. Given this, and as far as possible, we encourage tenants to share the documents with the landlords in a timely fashion. 
 
-<a name="q24".**24. What can a landlord do if his tenant fails to meet the timeline of 5 working days to provide documents to prove his eligibility for rental relief?**</a><a href="#a24" title="Return to top">↩</a> 
+<a name="q24">**24. What can a landlord do if his tenant fails to meet the timeline of 5 working days to provide documents to prove his eligibility for rental relief?**</a><a href="#a24" title="Return to top">↩</a> 
  
 * We encourage all landlords and tenant-occupiers to strictly adhere to the prescribed timeline to provide the required documents and/or make an application to the assessors to have a dispute determined. In relation to the provision of the required documents, please note that it is an offence under the COVID-19 (Temporary Measures) Act for a tenant-occupier not to provide the said documents, without reasonable excuse, within the prescribed timeline. If however, a tenant-occupier fails to provide the said documents within the prescribed time, the landlord is not precluded from filing an application to the rental relief assessors ahead of receiving the said documents.
 
