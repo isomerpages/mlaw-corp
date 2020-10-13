@@ -17,7 +17,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 |4. | [Lease or Rental agreements for commercial equipment](/files/4-Renters.pdf) | Intended extension to 19 November 2020 (formerly 19 October 2020) | 19 November 2020 | 19 November 2020 |  Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements)
 |5. | [Secured loan agreements to SMEs](/files/5-SMEs.pdf)  | Intended extension to 19 November 2020 (formerly 19 October 2020) | 19 November 2020 | 19 November 2020 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/sme-loans)
 |6. | [Event and tourism-related contracts](/files/6-Events-Tourism.pdf) | Intended extension to to 31 December 2020  (formerly 19 October 2020) | 31 December 2020  | 28 February 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/event-or-tourism-related-contract)
-|7. | [Construction contracts and supply contracts](/files/7-Construction-contractors-suppliers.pdf) | Intended extension to 31 March 2021 (formerly 19 October 2020) | 31 March 2021 | 31 March 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
+|7. | [Construction contracts and supply contracts](/files/7-Construction-contractors-suppliers.pdf) | Intended extension to 31 March 2021 (formerly 19 October 2020) | 31 March 2021 | 31 May 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
 
 #### Self-Assessment Tool ####
 To assess your eligibility under Part 2 of the Act, please refer to the [Self-Assessment Tool](https://www.mlaw.gov.sg/covid19-relief/tool).
