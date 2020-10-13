@@ -22,7 +22,7 @@ The Act (as amended by the COVID-19 (Temporary Measures) (Amendment) Act) thus l
 
    (d) Construction contracts or supply contracts (click [here](/covid19-relief/faq/construction) for further details)
 
-    (e) Event and tourism-related contracts (click [here](/covid19-relief/faq/event-or-tourism-related-contract) for further details)
+   (e) Event and tourism-related contracts (click [here](/covid19-relief/faq/event-or-tourism-related-contract) for further details)
 
 This is intended to help businesses affected by COVID-19 to manage their debt load, and facilitate a quicker eventual recovery.
 
