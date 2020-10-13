@@ -12,6 +12,7 @@ third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determinatio
 
 **1. Is there a deadline to file an application for an Assessor’s Determination.** 
 * Yes. The deadlines to file an application for an Assessor’s Determination for the different categories of contracts are as follows: 
+
 | <b>Deadline to file an application for an Assessor’s Determination</b> | <b>Categories of Contracts</b>
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
 | <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
