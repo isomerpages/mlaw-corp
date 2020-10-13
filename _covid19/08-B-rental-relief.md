@@ -714,7 +714,7 @@ Both landlords and tenants can make an application for a determination on disput
 
     b)	If IRAS’ notice of cash grant, or copy of the notice, is received after 30 September 2020: Submit application within 10 working days after receiving the notice. For example, if the notice is received on 1 October 2020, the application should be submitted by 15 October 2020.
 
-<a name="q58">**58.	What are some examples of disputes which cannot be determined by a rental relief assessor?**</a><a href="#a58 title="Return to top">↩</a>
+<a name="q58">**58.	What are some examples of disputes which cannot be determined by a rental relief assessor?**</a> <a href="#a58" title="Return to top">↩</a>
 
 Rental relief assessors cannot make a determination on disputes over the following matters:
 
