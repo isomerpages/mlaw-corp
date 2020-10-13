@@ -11,42 +11,19 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 <a name="31Decnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for Options to Purchase and Sale and Purchase Agreements with developers from 19 October 2020 to 31 December 2020.  The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers’ cash flow. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
-**1. Does the Actfor more information.
+<a name="q3">**1.	I am a buyer of a property (residential, commercial or industrial) from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>
 
-#### General FAQs ####
-
-
-**1.	Does the Act cover Options to Purchase or Sale and Purchase Agreements for industrial / commercial properties?**
-
-* The Act only covers:
-
-    *	Options to Purchase (“OTPs”)
-    *	Sale and Purchase Agreements (“S&P Agreements”) 
-    *	Agreements for Lease (“AFLs”) 
-
-for <u>residential</u> properties sold by housing developers (both private housing developers and the Housing & Development Board (“HDB”)).
-
-*	It does not cover OTPs and S&P Agreements for non-residential properties such as industrial or commercial properties.
-
-
-**2.	Does the Act apply to non-residential property leases or licences?**
-
-*	Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/faq/lease-licence) for the reliefs applicable to leases and licenses of <u>non-residential property</u>.  
-
-
-<a name="q3">**3.	I am a buyer of a residential property from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>
-
-* The developer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to 19 October 2020).  
+* The developer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a>).  
 
 * Additionally:
 
-    *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to 19 October 2020).
+    *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a>).
 
-    *	<b>For S&P Agreements / AFLs</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to 19 October 2020).
+    *	<b>For S&P Agreements / Agreements for Leases (“AFLs”):</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to <a name="31Decnote">31 December 2020</a).
     
-    * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and 19 October 2020 will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (18) – (28)</a> for more details. 
+    * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and <a name="31Decnote">31 December 2020</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (15) – (25)</a> for more details. 
 
-**4.	What conditions must I, the buyer, meet to enjoy the reliefs?** 
+**2.	What conditions must I, the buyer, meet to enjoy the reliefs?** 
 
 *	All the conditions below must be met: 
 
