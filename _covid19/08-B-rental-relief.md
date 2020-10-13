@@ -582,7 +582,7 @@ b)	Satisfies one or more of the following conditions:
 
 <a href="#q48" id="a48">48. How can I contact the Registry of the Rental Relief Assessors?</a> 
 
-<a href="#q49" id="a49">49. Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?<a/>
+<a href="#q49" id="a49">49. Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?</a>
 
 <a href="#q50" id="a50">50. Will the Assessors accept applications which are submitted after the timeline of 10 working days after receiving (a copy of) the notice of cash grant?</a>
 
