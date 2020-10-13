@@ -14,7 +14,7 @@ To help Singaporeans and businesses who are struggling because of COVID-19 with 
 
 The Act (as amended by the COVID-19 (Temporary Measures) (Amendment) Act) thus limits the amount of late payment interest and charges that can be charged for arrears that arise due to COVID-19 under the following prescribed contracts:
 
-    a. Hire-purchase agreements and conditional sales agreements (that are <b><u>not</u></b> with a bank or finance company) (click [here](/covid19-relief/faq/hire-purchase-agreements) for further details) 
+   a. Hire-purchase agreements and conditional sales agreements (that are <b><u>not</u></b> with a bank or finance company) (click [here](/covid19-relief/faq/hire-purchase-agreements) for further details) 
 
    b. Rental agreements for commercial equipment (click [here](/covid19-relief/faq/rental-agreements) for further details) 
 
