@@ -7,6 +7,9 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 ---
 
 ### Construction contracts or supply contracts, or any performance bond granted thereto ###
+<a name="31Marnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for construction contracts or supply contracts from 19 October 2020 to 31 March 2021. The construction sector continues to face significant delays, due to work stoppages during the Circuit Breaker and reduced operating capacity because of the implementation of Safe Management Measures. The extension of the prescribed period will provide contractors with continued support as they adjust to new operating requirements, and also complement the Ministry of National Development’s and Building and Construction Authority’s relief measures for the sector. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+
+
 *	For more information about the relief under the Act for construction and supply contracts, please refer to the Ministry of Law and Building and Construction Authority’s joint statement on 20 April 2020, and the [FAQs on BCA’s website](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/faqs---covid19/faqs-commencement-covid19-temporary-measures-act-for-built-environment.pdf){:target="_blank"}.
 
 #### General FAQs ####
