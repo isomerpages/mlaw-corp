@@ -12,7 +12,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 * [here](../rental-relief-framework-for-smes) for a summary of the rental relief framework.
 * [here](../faq/rental-relief) for the FAQs.
 
-<u>Important Note</u>: The Ministry of Law intends to extend the prescribed period for leases and licences of non-residential propertyfrom 19 October 2020 to 19 November 2020.  Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+<a name="19Novnote"><u>Important Note</u><a>: The Ministry of Law intends to extend the prescribed period for leases and licences of non-residential propertyfrom 19 October 2020 to 19 November 2020.  Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 **1. Does the Act cover residential leases and licences?**
@@ -22,7 +22,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 * The commercial component of a shophouse is covered by the Act, while the residential component is not.
 
 <a name="q3">**3. What reliefs under the Act are applicable to me, the tenant?**</a>
-* If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for up to 19 November 2020:
+* If you are **unable to pay** your rent **due to COVID-19**, your landlord cannot take the following actions against you for up to <a href="#19Novnote">19 November 2020</a>:
 
   * Terminate your lease or licence (whether by eviction or otherwise) for your non-residential property on the basis of non-payment of rent. 
   * Unilaterally impose new charges, increase charges or interest rates beyond what is provided for in the lease or licence agreement (see <a href="#q12">FAQ (12)</a> & <a href="#q13">(13)</a>).
