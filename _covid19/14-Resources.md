@@ -16,6 +16,7 @@ For press releases on the Act, please click on the following links:
 * [COVID-19 (Temporary Measures) Act Provisions relating to Temporary Reliefs to Commence on 20 April 2020](/news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provisions-relating-to-Temporary-Reliefs-to-Commence-on-20-April-2020)
 * [Enhancements to the COVID-19 (Temporary Measures) Act to Cover Two New Contracts and Prohibit Unilateral Increase of Charges](/news/press-releases/Enhancements-to-the-COVID-19-Temporary-Measures-Act-to-Cover-Two-New-Contracts)
 * [Rental Agreements for Commercial Equipment and Commercial Vehicles to be Covered under COVID-19 (Temporary Measures) Act](/news/press-releases/rental-agreements-for-commercial-equipment-and-commercial-vehicles-to-be-covered-under-covid-19-temporary-measures-act)
+* [Extension of Relief Periods under the COVID-19 (Temporary Measures) Act for Specified Categories of Contracts](/news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts)
  
 For the Second Reading speech by Minister for Law, Mr K Shanmugam on the Bill, please click [here](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-covid-19-temporary-measures-bill).
 
