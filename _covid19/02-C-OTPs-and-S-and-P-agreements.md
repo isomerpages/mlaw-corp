@@ -1,12 +1,12 @@
 ---
-title: 'FAQs for OTPs and S&P Agreements with Housing Developers'
+title: 'FAQs for OTPs and S&P Agreements with Developers'
 permalink: /covid19-relief/faq/OTPs-and-S-and-P-agreements
-breadcrumb: 'FAQs for OTPs and S&P Agreements with Housing Developers'
+breadcrumb: 'FAQs for OTPs and S&P Agreements with Developers'
 third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
-### Options to Purchase and Sale and Purchase Agreements with Housing Developers ###
+### Options to Purchase and Sale and Purchase Agreements with Developers ###
 
 <a name="31Decnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for Options to Purchase and Sale and Purchase Agreements with developers from 19 October 2020 to 31 December 2020.  The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers’ cash flow. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
