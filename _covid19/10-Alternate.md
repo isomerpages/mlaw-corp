@@ -42,7 +42,7 @@ The Orders were amended on 29 Sep to extend the alternative meeting arrangements
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20201001-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco) Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (1 Oct 2020)</a>
     <br><br>
-    <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 30 April 2020)</a> 
+    <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 5 Oct 2020)</a> 
     </td>	
     <td class="tg-73oq">For enquires pertaining to non-listed business trusts and non-listed unit trusts, please email MAS at <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>
     <br><br>For enquires pertaining to listed issuers, please email SGX at <a href="mailto:Listingcompliance@sgx.com">Listingcompliance@sgx.com</a>
@@ -78,9 +78,9 @@ The Orders were amended on 29 Sep to extend the alternative meeting arrangements
       </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S327-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Charities, Co-operative Societies and Mutual Benefit Organisations) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/alternative-arrangements-charities-co-ops-mbos-to-conduct-general-meetings-amid-covid-19" target="_blank">Press release by the Ministry of Culture, Community and Youth on Alternative Arrangements for Charities, Co-operative Societies and Mutual Benefit Organisations to Conduct General Meetings amid COVID-19 (28 April 2020)</a>
-    <br><br><a href="https://www.charities.gov.sg/News%20And%20Events/Documents/2%20May%202020%20-%20Media%20release%20Support%20for%20Charities%20on%20the%20Conduct%20of%20Meetings%20Amid%20COVID-19%20(FINAL)(revised%20links).pdf)" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
+    <br><br><a href="https://www.charities.gov.sg/News And Events/Documents/2 May 2020 - Media release Support for Charities on the Conduct of Meetings Amid COVID-19 (FINAL)(revised links).pdf" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
     <br><br>
-    <a href="https://www.charities.gov.sg/News%20And%20Events/Documents/2%20May%202020%20-%20Annex%201%20-%20Guide%20on%20Conduct%20of%20Meetings%20amid%20COVID-19%20(FINAL).pdf)" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
+    <a href="https://www.charities.gov.sg/Publications/Documents/Guide on Conduct of Meetings by Charities amid COVID-19.pdf" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
     <br><br>
     <a href="https://www.mccy.gov.sg/sector/initiatives/resources-and-useful-links" target="_blank">Registry of Co-operative Societies’ Guidelines</a>
     <br><br>
