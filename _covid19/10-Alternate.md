@@ -80,7 +80,7 @@ The Orders were amended on 29 Sep to extend the alternative meeting arrangements
     <td class="tg-73oq"><a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/alternative-arrangements-charities-co-ops-mbos-to-conduct-general-meetings-amid-covid-19" target="_blank">Press release by the Ministry of Culture, Community and Youth on Alternative Arrangements for Charities, Co-operative Societies and Mutual Benefit Organisations to Conduct General Meetings amid COVID-19 (28 April 2020)</a>
     <br><br><a href="https://www.charities.gov.sg/News And Events/Documents/2 May 2020 - Media release Support for Charities on the Conduct of Meetings Amid COVID-19 (FINAL)(revised links).pdf" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
     <br><br>
-    <a href="https://www.charities.gov.sg/Publications/Documents/Guide%20on%20Conduct%20of%20Meetings%20by%20Charities%20amid%20COVID-19.pdf)" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
+    <a href="https://www.charities.gov.sg/Publications/Documents/Guide on Conduct of Meetings by Charities amid COVID-19.pdf)" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
     <br><br>
     <a href="https://www.mccy.gov.sg/sector/initiatives/resources-and-useful-links" target="_blank">Registry of Co-operative Societies’ Guidelines</a>
     <br><br>
