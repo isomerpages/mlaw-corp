@@ -38,9 +38,9 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/Mr_Loh_Khum_Yean.jpg" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
+  <img src="/images/PS Lai Wei Lin.jpg" title="Ms Lai Wei Lin" alt="Ms Lai Wei Lin">
 </div>
-  <b>Mr Loh Khum Yean</b><br>
+  <b>Ms Lai Wei Lin</b><br>
   Permanent Secretary<br>
   Ministry of Law<br><br>
 
