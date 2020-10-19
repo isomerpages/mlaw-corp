@@ -40,7 +40,7 @@ Our Management
 <div class="img-gallery">
   <img src="/images/PS Lai Wei Lin.jpg" title="Ms Lai Wei Lin" alt="Ms Lai Wei Lin">
 </div>
-  <b>Ms Loh Lai Wei Lin</b><br>
+  <b>Ms Lai Wei Lin</b><br>
   Permanent Secretary<br>
   Ministry of Law<br><br>
 
