@@ -8,7 +8,7 @@ third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform C
 
 ### Rental agreements for commercial equipment ###
 
-<a name="19Novnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for rental agreements for commercial equipment from 19 October 2020 to 19 November 2020. Parties are encouraged to use the extended prescribed period to reach a long term mutually accepable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for rental agreements for commercial equipment has been extended from 19 October 2020 to 19 November 2020. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 
