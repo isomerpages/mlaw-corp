@@ -14,7 +14,7 @@ Request a Certificate of Good Standing
 
 <p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Good Standing.]</p> 
   
-<p style="text-align: justify">To request for a Certificate of Good Standing from LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
+<p style="text-align: justify">To request for a Certificate of Good Standing from the LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
 
 * Full name
 * Identification number (as reflected in the individual's identification document)<br>[Note: NRIC is preferred, followed by FIN, then passport.] 
@@ -71,15 +71,15 @@ Request a Certificate of Good Standing
   </tr>
   <tr>
     <td>
-      <b>STEP 2: Request Certificate of Good Standing or a Letter of Confirmation via an update application </b>
+      <b>STEP 2: Request a Certificate of Good Standing or a Letter of Confirmation via an update application </b>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The request for a Letter of Confirmation must be indicated under the ‘Additional Requests’ section of the application form. The completed application form must be signed by the Managing Partner / Managing Director or Partner / Director (or equivalent) of the applicant law practice entity.</li>
-        <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
+        <li style="text-align: justify">The request for a Letter of Confirmation must be indicated under the ‘Please state the sections/fields which you have updated’ section of the application form.</li>
+        <li style="text-align: justify">The completed application form must be signed by the Registrant (if applicable) and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the application.</li>
       </ul>
     </td>
@@ -98,7 +98,7 @@ Request a Certificate of Good Standing
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Requests for Certificates of Good Standing or Letters of Confirmation may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process.</li>
+        <li style="text-align: justify">Requests for a Certificate of Good Standing or a Letter of Confirmation may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process.</li>
         <li style="text-align: justify">Please also note that the LSRA only issues electronic Certificates of Good Standing or Letters of Confirmation.</li>
       </ul>
     </td>
