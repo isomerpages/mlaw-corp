@@ -7,7 +7,7 @@ third_nav_title: 'Other Services'
 ---
 
 
-Request a Certificate of Good Standing
+Request a Certificate of Good Standing or a Letter of Confirmation
 ---
 
 <p style="text-align: justify">Foreign lawyers currently or previously registered with the Legal Services Regulatory Authority (“LSRA”) (or the Attorney General’s Chambers’ Legal Profession Secretariat ("AGC LPS") prior to 18 November 2015) may apply to the LSRA for a <b>Certificate of Good Standing</b>.</p> 
