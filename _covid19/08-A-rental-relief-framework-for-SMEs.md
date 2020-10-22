@@ -60,7 +60,7 @@ Tenant-occupiers must fall within one of the following categories to be eligible
 
 a)  Small and Medium Enterprises (SMEs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable, at the individual or entity level<sup><a href="#fn5" id="ref5">5</a></sup>; or
 
-b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn6" id="ref6">6</a></sup>, at the entity level:
+b)  The following types of Non-Profit Organisations (NPOs) with not more than S$100 million in annual revenue for the Financial Year 2018 or a later appropriate period where applicable, at the entity level:
 
    i. Registered or exempt charities (as provided in the Charities Act);<br>
   ii. Members of the National Council of Social Service;<br>
