@@ -75,7 +75,7 @@ The Additional Rental Relief will apply to tenant-occupiers who qualify for Rent
 
 a)  <u>For SMEs</u>
 
-   i. (Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7" id="ref7">7</a></sup>; and
+   i. (Note: this additional criterion is not applicable if the tenant-occupier is a stand-alone company that is not part of any group of companies) Where 50% or more of the total voting shares or power in the tenant-occupier is held by a Singapore-incorporated entity (i.e. it is a subsidiary of another entity incorporated in Singapore) and the tenant-occupier is a member of a Singapore group of entities<sup><a href="#fn6" id="ref6">6</a></sup> during the period 1 April to 31 May 2020, the group's aggregate revenue is not more than S$100 million for the Financial Year 2018 or a later appropriate period where applicable<sup><a href="#fn7" id="ref7">7</a></sup>; and
 
    ii. The tenant-occupier suffered at least a 35% drop in average monthly gross income at the outlet level for the period 1 April to 31 May 2020, compared to 1 April to 31 May 2019, or alternative periods if the tenant-occupier was not operational as of 1 Apr 2019<sup><a href="#fn8" id="ref8">8</a></sup>.
 
