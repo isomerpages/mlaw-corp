@@ -12,7 +12,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 
 <p style="text-align: justify">Foreign lawyers currently or previously registered with the Legal Services Regulatory Authority (“LSRA”) (or the Attorney General’s Chambers’ Legal Profession Secretariat ("AGC LPS") prior to 18 November 2015) may apply to the LSRA for a <b>Certificate of Good Standing</b>.</p> 
 
-<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Good Standing.]</p> 
+<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Standing.]</p> 
   
 <p style="text-align: justify">To request for a Certificate of Good Standing from the LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
 
