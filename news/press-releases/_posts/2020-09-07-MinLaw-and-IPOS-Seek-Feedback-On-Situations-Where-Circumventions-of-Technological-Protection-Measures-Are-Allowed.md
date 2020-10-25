@@ -49,10 +49,12 @@ permalink: /news/press-releases/MinLaw-and-IPOS-Seek-Feedback-On-Situations-Wher
 {:start="9"}
 9.	The full public consultation paper may be viewed online at [https://www.mlaw.gov.sg/news/Public-Consultation-on-Copyright-Excluded-Works-Order2020](https://www.mlaw.gov.sg/news/Public-Consultation-on-Copyright-Excluded-Works-Order2020). 
 
+**This Public Consult has now closed**
+
 **Invitation for feedback**
 
 {:start="10"}
-10.	Members of the public are invited to submit their views by 2 October 2020.  They may submit feedback via FormSG at [https://go.gov.sg/ewo-consult2020](https://go.gov.sg/ewo-consult2020), email or in hard copy, with the subject or header “2020 Public Consultation on the Copyright (Excluded Works) Order” to either or both of the following:
+10.	Members of the public are invited to submit their views by 2 October 2020.  They may submit feedback via FormSG, email or in hard copy, with the subject or header “2020 Public Consultation on the Copyright (Excluded Works) Order” to either or both of the following:
 
 <p class="address-centered">MinLaw</p>
 <p class="address-centered">Intellectual Property Policy Division, Ministry of Law</p>
