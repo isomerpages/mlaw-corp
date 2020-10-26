@@ -12,6 +12,8 @@ permalink: /news/Public-Consultation-on-Copyright-Excluded-Works-Order2020
 **Consultation Period:**  
 7 September 2020 to 2 October 2020
 
+**This Public Consult has now closed**
+
 **Renewal of the Copyright (Excluded Works) Order**
 
 Technological protection measures (“TPMs”) are technologies, devices, etc. which are akin to digital locks intended to restrict the access or use of copyrighted works. The Copyright Act (“CA”) prohibits users from circumventing TPMs (i.e. breaking the lock) or from selling products and services to allow others to do so. This is because TPMs often prevent copyright infringement, for example, by preventing users from making unauthorised copies of a movie, or making a permanent copy of music that is streamed from a service. 
@@ -27,7 +29,7 @@ MinLaw and IPOS are seeking views on the situations in which users should be per
 Following feedback from the public, the consultation exercise will be extended by two weeks. It will now close on **Friday 16 October 2020** instead. We invite all interested parties to provide responses by then.
 
 -	[Read the full consultation paper on the Copyright (Excluded Works) Order](/files/EWO2020_PublicConsultation.pdf) [PDF]<br>
--	Provide feedback via [FormSG](https://go.gov.sg/ewo-consult2020) 
+-	Provide feedback via FormSG
 
 Alternatively, if you prefer to provide detailed comments in writing, instructions for doing so may be found in Part III of the full consultation paper (link above).
 

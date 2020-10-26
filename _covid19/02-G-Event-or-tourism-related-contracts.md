@@ -208,3 +208,11 @@ COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circ
 *	The Act was passed to allow Assessors to consider the positions of both contracting parties. The Assessor will seek to make a determination that is just and equitable for all parties involved taking into account all the circumstances of the case.  
 *	You should submit all relevant evidence for the Assessor’s consideration, including any costs that you have incurred.  If not, the determination may not take those costs into account.
 *	The Assessor’s determination is **not appealable**. 
+
+**26. I am a wedding vendor (e.g. wedding planner, restaurant, caterer, bridal boutique, photography services provider), and my customer has cancelled the contract with me as the event could not proceed due to COVID-19. However, I have also entered into contracts with other third parties (e.g. the hotel, venue, food or other suppliers, photographers) and have already paid them a deposit. What can I do?**
+ 
+* Your contract with the third party may also be an events contract.  If it was entered into before 25 March 2020 and is for an obligation after 1 February 2020, you can also seek relief under sections 5 and 7 of the Act.
+* In particular, you may serve a Notification for Relief on the third party.
+* After service of the Notification for Relief, and if the Act applies to your contract, the deposit you have placed with that third party cannot be automatically forfeited. If the deposit has been forfeited, it must be restored.
+* You can then negotiate with the third party on the return of the deposit or the cancellation of the contract or to apply the deposit for future goods and services.  Since the event could not proceed due to COVID-19, it is neither party’s fault – both parties should be reasonable to each other to work out an arrangement which is mutually acceptable
+* If you and the third-party cannot reach a resolution, either of you may make an application to the Assessor, who will seek to achieve an outcome that is just and equitable in the circumstances.
