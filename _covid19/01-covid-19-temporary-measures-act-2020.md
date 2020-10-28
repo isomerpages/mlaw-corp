@@ -11,7 +11,7 @@ breadcrumb: 'Covid-19 Temporary Measures Act 2020'
 
 The [COVID-19 (Temporary Measures) Act 2020 (“the Act”)](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"} seeks to offer temporary relief to businesses and individuals who have been affected by the COVID-19 pandemic.
  
-The Act and the subsequent Amendment Acts which were passed on 5 June 2020, 4 September 2020 and 2 November 2020 cover the following areas: 
+The Act, the [COVID-19 (Temporary Measures) (Amendment) Act 2020 (the “Amendment Act”)](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"} which was passed on 5 June 2020 and the [COVID-19 (Temporary Measures) (Amendment No. 2) Act 2020 (the “Amendment No. 2 Act”)](https://sso.agc.gov.sg/Acts-Supp/30-2020/Published/20200922?DocDate=20200922){:target="_blank"} which was passed on 5 September 2020 cover the following areas: 
 
 (i) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)<br>
 (ii)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)<br>
