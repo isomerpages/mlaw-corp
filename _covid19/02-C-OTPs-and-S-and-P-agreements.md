@@ -2,7 +2,7 @@
 title: 'FAQs for OTPs and S&P Agreements with Developers'
 permalink: /covid19-relief/faq/OTPs-and-S-and-P-agreements
 breadcrumb: 'FAQs for OTPs and S&P Agreements with Developers'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
