@@ -1,5 +1,5 @@
 ---
-title: 'Part 3 of the Act-Temporary Relief for Financially Distressed Individuals and Businesses'
+title: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
 permalink: /covid19-relief/temporary-relief-individuals-businesses
 breadcrumb: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
 
