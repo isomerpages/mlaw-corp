@@ -2,7 +2,7 @@
 title: 'FAQs for Notification for Relief'
 permalink: /covid19-relief/faqs-notification-for-relief
 breadcrumb: 'FAQs for Notification for Relief'
-third_nav_title: 'Part 2 of the Act-Notification for Relief'
+third_nav_title: '1B. Notification for Relief'
 
 ---
 

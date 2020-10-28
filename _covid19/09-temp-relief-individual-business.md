@@ -1,11 +1,11 @@
 ---
-title: 'Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses'
+title: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
 permalink: /covid19-relief/temporary-relief-individuals-businesses
-breadcrumb: 'Part 3 of the Act-Temporary Relief for Financially Distressed Indivduals and Businesses'
+breadcrumb: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
 
 ---
 
-### Temporary Relief for Financially Distressed Indivduals and Businesses ###
+### Temporary Relief for Financially Distressed Individuals and Businesses ###
 
 <u>Important Note</u>: The prescribed period for measures relating to bankruptcy and insolvency ended on 19 October 2020.
 

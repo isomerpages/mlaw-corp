@@ -2,7 +2,7 @@
 title: 'Overview – Relief for contracts affected by construction delays under Part 8 of the Act'
 permalink: /covid19-relief/relief-for-contracts-construction-delays
 breadcrumb: 'Overview – Relief for contracts affected by construction delays under Part 8 of the Act'
-third_nav_title: 'Part 8 of the Act-Relief for Contracts affected by Construction Delays'
+third_nav_title: '5. Relief for Contracts affected by Construction Delays'
 
 ---
 

@@ -2,7 +2,7 @@
 title: 'FAQs for Hire Purchase and Conditional Sales Agreements'
 permalink: /covid19-relief/faq/Hire-purchase-agreements
 breadcrumb: 'FAQs for Hire Purchase and Conditional Sales Agreements'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Part 2 of the Act-Self-Assessment Tool'
+title: '1A. Self-Assessment Tool'
 permalink: /covid19-relief/tool
-breadcrumb: 'Part 2 of the Act-Self-Assessment Tool'
+breadcrumb: '1A. Self-Assessment Tool'
 
 ---
 

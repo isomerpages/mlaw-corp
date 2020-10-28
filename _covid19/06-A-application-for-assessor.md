@@ -2,7 +2,7 @@
 title: 'Steps in the Proceedings'
 permalink: /covid19-relief/application-for-assessor
 breadcrumb: 'Steps in the Proceedings'
-third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+third_nav_title: '1C. Application for an Assessor’s Determination'
 
 ---
 

@@ -2,7 +2,7 @@
 title: 'FAQs for Situation C - Delay in delivering possession under a lease or license of non-residential property'
 permalink: /covid19-relief/part8faq-situation-C
 breadcrumb: 'FAQs for Situation C - Delay in delivering possession under a lease or license of non-residential property'
-third_nav_title: 'Part 8 of the Act-Relief for Contracts affected by Construction Delays'
+third_nav_title: '5. Relief for Contracts affected by Construction Delays'
 
 ---
 

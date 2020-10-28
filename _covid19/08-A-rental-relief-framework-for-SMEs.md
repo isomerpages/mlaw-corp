@@ -2,7 +2,7 @@
 title: Introduction
 permalink: /covid19-relief/rental-relief-framework-for-SMEs
 breadcrumb: Introduction
-third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
+third_nav_title: '2. Rental Relief Framework for SMEs and NPOs'
 
 ---
 

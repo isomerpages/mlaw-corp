@@ -2,7 +2,7 @@
 title: 'Selected Determinations made by Assessors under the Act'
 permalink: /covid19-relief/selected-determinations-made-by-assessors
 breadcrumb: 'Selected Determinations made by Assessors under the Act'
-third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+third_nav_title: '1C. Application for an Assessor’s Determination'
 
 ---
 

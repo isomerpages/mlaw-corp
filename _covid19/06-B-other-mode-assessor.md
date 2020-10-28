@@ -2,7 +2,7 @@
 title: 'Other Modes of Service'
 permalink: /covid19-relief/other-modes-assessor
 breadcrumb: 'Other Modes of Service'
-third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+third_nav_title: '1C. Application for an Assessor’s Determination'
 
 ---
 

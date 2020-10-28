@@ -2,7 +2,7 @@
 title: 'Other Modes of Service'
 permalink: /covid19-relief/other-modes-service
 breadcrumb: 'Other Modes of Service'
-third_nav_title: 'Part 2 of the Act-Notification for Relief'
+third_nav_title: '1B. Notification for Relief'
 
 ---
 

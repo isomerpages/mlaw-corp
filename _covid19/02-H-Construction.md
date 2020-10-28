@@ -2,7 +2,7 @@
 title: 'FAQs for Construction Contracts or Supply Contracts, or Any Performance Bond Granted Thereto'
 permalink: /covid19-relief/faq/Construction
 breadcrumb: 'FAQs for Construction Contracts or Supply Contracts, or Any Performance Bond Granted Thereto'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 

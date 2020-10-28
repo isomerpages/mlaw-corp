@@ -2,7 +2,7 @@
 title: 'Service via the Electronic System'
 permalink: /covid19-relief/notification-for-relief
 breadcrumb: 'Service via the Electronic System'
-third_nav_title: 'Part 2 of the Act-Notification for Relief'
+third_nav_title: '1B. Notification for Relief'
 
 ---
 

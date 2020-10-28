@@ -2,7 +2,7 @@
 title: 'Further Information on Application for Assessment'
 permalink: /covid19-relief/further-information-on-application-for-assessment
 breadcrumb: 'Further Information on Application for Assessment'
-third_nav_title: 'Part 2A of the Act-Rental Relief Framework for SMEs and NPOs'
+third_nav_title: '2. Rental Relief Framework for SMEs and NPOs'
 
 ---
 

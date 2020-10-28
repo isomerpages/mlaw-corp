@@ -2,7 +2,7 @@
 title: 'Relief for Tenants Unable to Vacate Premises'
 permalink: /covid19-relief/relief-for-tenants-unable-to-vacate-premises
 breadcrumb: 'Relief for Tenants Unable to Vacate Premises'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
