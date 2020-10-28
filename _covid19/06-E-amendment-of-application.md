@@ -2,7 +2,7 @@
 title: 'Amendment of Application'
 permalink: /covid19-relief/request-for-amendment
 breadcrumb: 'mendment of Application'
-third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+third_nav_title: '1C. Application for an Assessor’s Determination'
 
 ---
 
