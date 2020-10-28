@@ -2,7 +2,7 @@
 title: 'Other Modes of Service for Part 8 Proceedings'
 permalink: /covid19-relief/other-modes-of-service-part8
 breadcrumb: 'Other Modes of Service for Part 8 Proceedings'
-third_nav_title: 'Part 8 of the Act-Application for Relief'
+third_nav_title: '5A. Application for Relief'
 
 ---
 
