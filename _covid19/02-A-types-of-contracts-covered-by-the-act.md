@@ -2,7 +2,7 @@
 title: 'Relief under Part 2 of the Act'
 permalink: /covid19-relief/temporary-relief-from-inability-to-perform-contract
 breadcrumb: 'Types of Contracts Covered by the Act'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
