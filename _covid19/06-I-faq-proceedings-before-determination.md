@@ -2,7 +2,7 @@
 title: 'FAQs for Proceedings before an Assessor and Assessor’s Determinations'
 permalink: /covid19-relief/faq-proceedings-before-determination
 breadcrumb: 'FAQs for Proceedings before an Assessor and Assessor’s Determinations'
-third_nav_title: 'Part 2 of the Act-Application for an Assessor’s Determination'
+third_nav_title: '1C. Application for an Assessor’s Determination'
 
 ---
 
