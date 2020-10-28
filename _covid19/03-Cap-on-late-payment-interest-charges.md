@@ -2,7 +2,7 @@
 title: 'Cap on Late Payment Interest or Charges for Specific Contracts'
 permalink: /covid19-relief/cap-on-late-payment-interest-charges
 breadcrumb: 'Cap on Late Payment Interest or Charges for Specific Contracts'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
