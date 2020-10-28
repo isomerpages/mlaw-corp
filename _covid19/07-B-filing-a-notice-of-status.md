@@ -2,7 +2,7 @@
 title: 'Filing a Notification of Status of Application for Determination with the Court or Arbitral Tribunal'
 permalink: /covid19-relief/filing-notification-of-status
 breadcrumb: 'Filing a Notification of Status of Application for Determination with the Court or Arbitral Tribunal'
-third_nav_title: 'Part 2 of the Act-Pending Court or Arbitration Proceedings'
+third_nav_title: '1D. Pending Court or Arbitration Proceedings'
 
 ---
 
