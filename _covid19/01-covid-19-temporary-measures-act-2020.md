@@ -15,6 +15,7 @@ The Act, the [COVID-19 (Temporary Measures) (Amendment) Act 2020 (the “Amendme
 
 (1) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)<br>
 (2)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)<br>
-(3)	[Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
-(4)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
-(5)	[Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
+(3)	[Temporary Relief for Financially Distressed Indivduals and Businesses](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-individuals-businesses)<br>
+(4) [Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
+(5)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
+(6) [Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
