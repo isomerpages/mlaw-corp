@@ -2,7 +2,7 @@
 title: 'FAQs for Lease or Licence of Non-Residential Property'
 permalink: /covid19-relief/faq/lease-licence
 breadcrumb: 'FAQs for Lease or Licence of Non-Residential Property'
-third_nav_title: 'Part 2 of the Act-Temporary Relief from Inability to Perform Contractual Obligations'
+third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obligations'
 
 ---
 
