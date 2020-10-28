@@ -13,8 +13,8 @@ The [COVID-19 (Temporary Measures) Act 2020 (“the Act”)](https://sso.agc.gov
  
 The Act, the [COVID-19 (Temporary Measures) (Amendment) Act 2020 (the “Amendment Act”)](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"} which was passed on 5 June 2020 and the [COVID-19 (Temporary Measures) (Amendment No. 2) Act 2020 (the “Amendment No. 2 Act”)](https://sso.agc.gov.sg/Acts-Supp/30-2020/Published/20200922?DocDate=20200922){:target="_blank"} which was passed on 5 September 2020 cover the following areas: 
 
-(i) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)<br>
-(ii)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)<br>
-(iii)	[Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
-(iv)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
-(v)	[Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
+(1) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)<br>
+(2)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)<br>
+(3)	[Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
+(4)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
+(5)	[Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
