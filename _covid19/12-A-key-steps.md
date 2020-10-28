@@ -2,7 +2,7 @@
 title: 'Key Steps in the Part 8 Proceedings'
 permalink: /covid19-relief/key-steps-in-part8
 breadcrumb: 'Key Steps in the Part 8 Proceedings'
-third_nav_title: 'Part 8 of the Act-Application for Relief'
+third_nav_title: '5A. Application for Relief'
 
 ---
 
