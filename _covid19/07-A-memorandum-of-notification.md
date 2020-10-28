@@ -2,7 +2,7 @@
 title: 'Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal'
 permalink: /covid19-relief/memorandum-of-notification
 breadcrumb: 'Submitting a Memorandum of Notification for Relief with the Court or Arbitral Tribunal'
-third_nav_title: 'Part 2 of the Act-Pending Court or Arbitration Proceedings'
+third_nav_title: '1D. Pending Court or Arbitration Proceedings'
 
 ---
 
