@@ -1,7 +1,7 @@
 ---
-title: 'Part 4 of the Act-Alternative Arrangements for Meetings'
+title: '4. Alternative Arrangements for Meetings'
 permalink: /covid19-relief/alternative
-breadcrumb: 'Alternative Arrangements for Meetings'
+breadcrumb: '4. Alternative Arrangements for Meetings'
 
 ---
 
