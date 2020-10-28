@@ -13,8 +13,8 @@ The [COVID-19 (Temporary Measures) Act 2020 (“the Act”)](https://sso.agc.gov
  
 The Act and the subsequent Amendment Acts which were passed on 5 June 2020, 4 September 2020 and 2 November 2020 cover the following areas: 
 
-(i) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)
-(ii)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)
-(iii)	[Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)
-(iv)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)
-(v)	[Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)
+(i) [Temporary relief from inability to perform contractual obligation](https://www.mlaw.gov.sg/covid19-relief/temporary-relief-from-inability-to-perform-contract)<br>
+(ii)	[Rental Relief Framework](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes)<br>
+(iii)	[Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
+(iv)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
+(v)	[Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
