@@ -101,7 +101,7 @@ third_nav_title: '7. Re-Align Framework'
 * Details will be announced later
 
 <a name="q4">**4. Are freelancers and non-profit organisations eligible for the relief measures as well?** </a><a href="#a4" title="Return to top">↩</a>
-* Yes. Individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) are eligible for the relief measures if they satisfy the relevant criteria in **Question 3**.
+* Yes. Individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) are eligible for the relief measures if they satisfy the relevant criteria in **[Question 3](#q3)**.
 
 <a name="q5">**5. What types of contracts are eligible for negotiation or termination under the Act?** </a><a href="#a5" title="Return to top">↩</a>	
 * The Act is designed to cover key business-to-business contracts. Relief will apply to a contract which:  
@@ -149,7 +149,7 @@ third_nav_title: '7. Re-Align Framework'
 
      (k)	Contracts (or series of contracts) for the transfer for a business or part thereof as a going concern.
 
-     (l)	Contracts where the application of the [Re-Align Framework] is inconsistent with Singapore’s international obligations (e.g. aircraft financing contracts falling under the Cape Town Convention)
+     (l)	Contracts where the application of the Re-Align Framework is inconsistent with Singapore’s international obligations (e.g. aircraft financing contracts falling under the Cape Town Convention)
 
      (m)	Contracts of national interest
 
@@ -177,7 +177,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
      (c)	Adjustments may be made by the Assessor to achieve a fair and just outcome for all parties concerned.
 
-* The detailed consequences of terminating a contract may be found at Part 4 of the Second Schedule to the Act [here] (https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}.
+* The detailed consequences of terminating a contract may be found at Part 4 of the Second Schedule to the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}.
 
 <a name="q11">**11. I am an eligible business and I am a party to a contract eligible for renegotiation or termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to apply for relief? Can I still apply for relief?** </a><a href="#a11" title="Return to top">↩</a>
 * Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to apply for relief, you will still be eligible to apply for your rights and obligations under the contract to be adjusted under the Re-Align Framework.
@@ -232,7 +232,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
 
 <a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings? ** </a><a href="#a24" title="Return to top">↩</a>	
-* Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here] (https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
+* Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
 #### <a name="sectd">D. Other General Questions</a><a href="#refa" title="Return to top">↩</a>####
 
@@ -240,7 +240,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q25">**25. When will the Act commence? How do I apply for the respective reliefs?**</a><a href="#a25" title="Return to top">↩</a>	
 * The Act is targeted to commence in end-November 2020.
 
-* We will be providing details on the commencement of Act, as well as the application process in due course. In the meantime, you may wish to refer to Part 4 of the Second Schedule of the Act [here] (https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
+* We will be providing details on the commencement of Act, as well as the application process in due course. In the meantime, you may wish to refer to Part 4 of the Second Schedule of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 <a name="q26">**26. I am eligible for the relief measures mentioned above. Can I serve the relevant notices for relief before the Act commences?** </a><a href="#a26" title="Return to top">↩</a>	
 * No. You may only serve the relevant notices for relief after the Act commences.
 
@@ -281,5 +281,5 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
      (a)	[Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/){:target=”_blank”};
 
-     (b)	[Mediation at the Singapore Mediation Centre](www.mediation.com.sg) {:target=”_blank”};. 
+     (b)	[Mediation at the Singapore Mediation Centre](https://www.mediation.com.sg){:target=”_blank”}. 
 
