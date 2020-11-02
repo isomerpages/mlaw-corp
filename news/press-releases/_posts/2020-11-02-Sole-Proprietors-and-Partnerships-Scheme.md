@@ -30,10 +30,14 @@ permalink: /news/press-releases/sole-proprietors-and-partnerships-scheme
 6. Under the SPP Scheme, businesses operating as sole proprietors or partnerships may seek the assistance of CCS in restructuring their unsecured business debts owed to the participating lenders<sup><a href="#fn4" id="ref4">4</a></sup>. The SPP Scheme allows for lower monthly instalment payment for unsecured business borrowings by extending the loan repayment period to up to a maximum of 8 years. Interest rates for the restructured loans will be based on the individual loan’s original contractual terms, subject to a maximum of 7% p.a.. Approval of the SPP Scheme application is at the sole discretion of the participating lenders.
 
 {:start="7"}
-7. The SPP Scheme is targeted at sole proprietors and partnerships whose businesses are experiencing difficulties in servicing their loan commitments but are likely to recover given time and concession for their loan repayment terms. To be eligible for the SPP Scheme, the following criteria apply:
+7. The SPP Scheme is targeted at sole proprietors and partnerships whose businesses are experiencing difficulties in servicing their loan commitments but are likely to recover given time and concession for their loan repayment terms. To be eligible for the SPP Scheme, the following criteria apply: <br>
+
     a. Businesses must be operating as sole proprietors or partnerships<sup><a href="#fn5" id="ref5">5</a></sup>; 
+    
     b. The SPP’s total unsecured debt does not exceed S$1 million;
+    
     c. The SPP owes unsecured debts to two or more lenders; and
+    
     d. The SPP’s unsecured debts are owed to the participating lenders<sup>4</sup>.
 
 {:start="8"}
