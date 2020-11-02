@@ -2,7 +2,7 @@
 layout: post
 title:  Sole Proprietors and Partnerships (SPP) Scheme launched to help businesses in financial distress
 date: 2020-11-02
-permalink: /news/press-releases/sole-proprietors-and-partnerships-scheme
+permalink: /news/press-releases/2020-11-02-sole-proprietors-and-partnerships-scheme
 ---
 
 02 Nov 2020 Posted in [Press releases](/news/press-releases)
