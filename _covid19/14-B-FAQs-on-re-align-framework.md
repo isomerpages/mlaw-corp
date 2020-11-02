@@ -153,7 +153,8 @@ third_nav_title: '7. Re-Align Framework'
 
      (m)	Contracts of national interest
 
-<a name="q7">**7. Does the Act affect contracts which are terminated before 2 November 2020?** </a><a href="#a7" title="Return to top">↩</a>* The Act does not affect contracts:
+<a name="q7">**7. Does the Act affect contracts which are terminated before 2 November 2020?** </a><a href="#a7" title="Return to top">↩</a>
+* The Act does not affect contracts:
      (a)	which are terminated before 2 November 2020; or
      (b)	where the notice for the termination of the contract was given in accordance with the contract before 2 November 2020, even if the period of the notice expires on or after that date.
 
