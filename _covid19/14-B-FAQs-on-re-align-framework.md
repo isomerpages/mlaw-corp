@@ -254,7 +254,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 * Yes. You must serve the relevant notices for relief within **<u>six (6) weeks</u>** after the commencement of the Act.
 
 <a name="q28">**28. What happens if I do not meet this deadline?** </a><a href="#a28" title="Return to top">↩</a>
-* If you do not serve the relevant notices for relief within **<u>six (6) weeks**</u> after the commencement of the Act, you will not be eligible for the relief.
+* If you do not serve the relevant notices for relief within **<u>six (6) weeks</u>** after the commencement of the Act, you will not be eligible for the relief.
 
 <a name="q29">**29. What can I do in the meantime before the Act commences?** </a><a href="#a29" title="Return to top">↩</a>	
 * You may wish to start negotiating with your counterparty on the terms of the contract. The terms which you may wish to negotiate include:

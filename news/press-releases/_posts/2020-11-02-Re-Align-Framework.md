@@ -86,12 +86,12 @@ permalink: /news/press-releases/2020-11-02-re-align-framework
 14. As an alternative to contract termination, the Bill will provide an option for eligible hirers and renters of commercial equipment and vehicles to take up a Repayment Scheme to pay outstanding arrears in instalments. This is in recognition of feedback from some hirers and renters that while they have been substantially affected by COVID-19, they do not wish to terminate their agreements, as that would mean they have to return the equipment or vehicles and lose their source of income. Instead, they have requested for more time to repay their accumulated arrears. Details of the Repayment Scheme are in <b>Annex B</b>. 
 
 {:start="15"}
-If the Bill is passed, MinLaw aims to introduce subsidiary legislation and implement the Re-Align Framework, including the compensation for landlords in financial hardship and the Repayment Scheme. More details will be announced in due course.
+15. If the Bill is passed, MinLaw aims to introduce subsidiary legislation and implement the Re-Align Framework, including the compensation for landlords in financial hardship and the Repayment Scheme. More details will be announced in due course.
 
 <u>Other support measures</u>
 
 {:start="16"}
-In view of the impact that COVID-19 has had on businesses, MinLaw is also introducing a Simplified Insolvency Programme under the Insolvency, Restructuring and Dissolution (Amendment) Bill to assist micro and small companies (“<b>MSCs</b>”)<sup><a href="#fn2" id="ref2">2</a></sup>  that require support to restructure their debts to rehabilitate the business, or to wind up the company as the business has ceased to be viable. Application details will be announced in due course.
+16. In view of the impact that COVID-19 has had on businesses, MinLaw is also introducing a Simplified Insolvency Programme under the Insolvency, Restructuring and Dissolution (Amendment) Bill to assist micro and small companies (“<b>MSCs</b>”)<sup><a href="#fn2" id="ref2">2</a></sup>  that require support to restructure their debts to rehabilitate the business, or to wind up the company as the business has ceased to be viable. Application details will be announced in due course.
 
 
 **MINISTRY OF LAW**
