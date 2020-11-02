@@ -234,7 +234,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings? ** </a><a href="#a24" title="Return to top">↩</a>	
 * Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
-#### <a name="sectd">D. Other General Questions</a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectd">D. Other General Questions</a><a href="#refa" title="Return to top">↩</a> ####
 
 
 <a name="q25">**25. When will the Act commence? How do I apply for the respective reliefs?**</a><a href="#a25" title="Return to top">↩</a>	
