@@ -25,7 +25,7 @@ Smaller and micro enterprises who have been significantly impacted by COVID-19 a
 
 The framework will provide a quick and fair way for businesses to realign and move forward by allowing selected contracts to be renegotiated and to come to a mutual agreement. If they are unable to agree, the contract may be terminated. <b><u>Businesses will remain liable for outstanding obligations but will not need to pay early termination penalties.</u></b>
 
-The broad principles are outlined below, more details will be released on application processes by in due course. 
+The broad principles are outlined below, more details will be released on application processes in due course. 
 
 ##### <a name="eligibility">Eligibility Criteria</a><a href="#refb" title="Return to top">↩</a> #####
 
@@ -37,7 +37,7 @@ Eligible businesses under the Re-Align framework will be identified via two key 
 
 We are in consultation with industry on these key criteria. We aim to find a threshold that helps smaller and micro enterprises and at the same time reaches out to a broad enough spectrum. Details, when finalised, will be set out later in the subsidiary legislation. 
 
-Download a copy of the eligibility criteria [here](/files/ReAlign/ReAlign_Framework_Infographic.pdf).
+Download a copy of the infographic [here](/files/ReAlign/ReAlign_Framework_Infographic.pdf).
 
 ##### <a name="contracts">Contracts Covered</a><a href="#refc" title="Return to top">↩</a> #####
 
@@ -52,7 +52,7 @@ c)	Has at least one party who has a place of business in Singapore; and
 d)	Falls within the following five categories (“Scheduled Contracts”), which are likely to have long-term obligations that may need renegotiation or restructuring:”) 
 
   i.	Leases or licences for non-residential immovable property which have a term of 5 or less years;<br>
-  ii. Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore (MAS))<sup><a href="#fn1" id="ref1">1</a></sup>;<br>
+  ii. Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore (MAS)<sup><a href="#fn1" id="ref1">1</a></sup>);<br>
   iii.	Rental agreements for commercial equipment or vehicles;<br>
   iv.	Contracts for sale and purchase of goods; and<br>
   v.	Contracts for sale and purchase of services.
