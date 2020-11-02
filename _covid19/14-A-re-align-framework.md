@@ -31,9 +31,9 @@ The broad principles are outlined below, more details will be released on applic
 
 Eligible businesses under the Re-Align framework will be identified via two key criteria : 
 
-    (a)	First, they will be subject to an annual revenue cap to be eligible. This criterion will cover the majority of enterprises in Singapore.  
+  (a)	First, they will be subject to an annual revenue cap to be eligible. This criterion will cover the majority of enterprises in Singapore.  
 
-    (b)	Second, businesses must have experienced a significant fall in revenue across a comparable time frame pre-COVID19. This will identify businesses who have been severely impacted even after the resumption of economic and social activities.
+  (b)	Second, businesses must have experienced a significant fall in revenue across a comparable time frame pre-COVID19. This will identify businesses who have been severely impacted even after the resumption of economic and social activities.
 
 We are in consultation with industry on these key criteria. We aim to find a threshold that helps smaller and micro enterprises and at the same time reaches out to a broad enough spectrum. Details, when finalised, will be set out later in the subsidiary legislation. 
 
@@ -43,19 +43,19 @@ Download a copy of the infographic [here](/files/ReAlign/ReAlign_Framework_Infog
 
 The framework will only apply to a contract which meet the following conditions:
 
-    (a)	Is governed by Singapore law; 
+  (a)	Is governed by Singapore law; 
 
-    (b)	Was entered into before 25 March 2020;
+  (b)	Was entered into before 25 March 2020;
 
-    (c)	Has at least one party who has a place of business in Singapore; and
+  (c)	Has at least one party who has a place of business in Singapore; and
 
-    (d)	Falls within the following five categories (“Scheduled Contracts”), which are likely to have long-term obligations that may need renegotiation or restructuring:”) 
+  (d)	Falls within the following five categories (“Scheduled Contracts”), which are likely to have long-term obligations that may need renegotiation or restructuring:”) 
 
-        (i)	Leases or licences for non-residential immovable property which have a term of 5 or less years;<br>
-        (ii) Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore (MAS)<sup><a href="#fn1" id="ref1">1</a></sup>);<br>
-        (iii)	Rental agreements for commercial equipment or vehicles;<br>
-        (iv)	Contracts for sale and purchase of goods; and<br>
-        (v)	Contracts for sale and purchase of services.
+   (i)	Leases or licences for non-residential immovable property which have a term of 5 or less years;<br>
+   (ii) Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore (MAS)<sup><a href="#fn1" id="ref1">1</a></sup>);<br>
+   (iii)	Rental agreements for commercial equipment or vehicles;<br>
+   (iv)	Contracts for sale and purchase of goods; and<br>
+   (v)	Contracts for sale and purchase of services.
 
 Certain contracts will be excluded from the Re-Align Framework, even if they fall within the list of Scheduled Contracts (“Excluded Contracts”). These are:
 
@@ -77,9 +77,9 @@ Certain contracts will be excluded from the Re-Align Framework, even if they fal
 
 Under the Re-Align Framework, a contractual party who wishes to renegotiate or terminate a contract, must serve a notice on the other party or parties to the contract.
 
-    (a)	Parties will be required to enter into renegotiations with the counterparty. If parties are unable to successful renegotiate, contracts may be terminated. To encourage these arrangements to take place quickly, these measures will only be available for a limited period from the time of commencement. Limiting the time period to seek relief provides greater certainty to counterparties. 
+  (a)	Parties will be required to enter into renegotiations with the counterparty. If parties are unable to successful renegotiate, contracts may be terminated. To encourage these arrangements to take place quickly, these measures will only be available for a limited period from the time of commencement. Limiting the time period to seek relief provides greater certainty to counterparties. 
 
-    (b)	Where there are disagreements on a party’s eligibility or the liabilities payable upon termination, parties may serve a notice to have an independent Assessor make a determination on these issues.
+  (b)	Where there are disagreements on a party’s eligibility or the liabilities payable upon termination, parties may serve a notice to have an independent Assessor make a determination on these issues.
 
 ##### <a name="additional">Additional Arrangements</a><a href="#refe" title="Return to top">↩</a> #####
 
