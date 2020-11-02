@@ -62,4 +62,4 @@ permalink: /news/press-releases/2020-11-01-sole-proprietors-and-partnerships-sch
 
 <p><sup id="fn6">6. Please visit the MAS website for more details. <a href="#ref6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
 
-<p class="right-side-updated">Last updated on 02 Nov 2020</p>
+<p class="right-side-updated">Last updated on 01 Nov 2020</p>
