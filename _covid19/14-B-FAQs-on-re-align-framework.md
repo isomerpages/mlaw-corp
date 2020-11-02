@@ -102,6 +102,7 @@ third_nav_title: '7. Re-Align Framework'
 
 <a name="q4">**4. Are freelancers and non-profit organisations eligible for the relief measures as well?** </a><a href="#a4" title="Return to top">↩</a>
 * Yes. Individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) are eligible for the relief measures if they satisfy the relevant criteria in **Question 3**.
+
 <a name="q5">**5. What types of contracts are eligible for negotiation or termination under the Act?** </a><a href="#a5" title="Return to top">↩</a>	
 * The Act is designed to cover key business-to-business contracts. Relief will apply to a contract which:  
 
@@ -153,15 +154,13 @@ third_nav_title: '7. Re-Align Framework'
      (m)	Contracts of national interest
 
 <a name="q7">**7. Does the Act affect contracts which are terminated before 2 November 2020?** </a><a href="#a7" title="Return to top">↩</a>* The Act does not affect contracts:
-
      (a)	which are terminated before 2 November 2020; or
-
      (b)	where the notice for the termination of the contract was given in accordance with the contract before 2 November 2020, even if the period of the notice expires on or after that date.
 
 <a name="q8">**8. Does this Act apply to Government contracts?** </a><a href="#a8" title="Return to top">↩</a>	
 * Yes. Parties may renegotiate or terminate any contract which the Government is a party to, as long as it is not a contract of national interest. Please refer to [Question (22)]( #q22) below. 
 
-<a name="q9”>**9. What about restructuring arrangements entered into before 25 March 2020?** </a><a href="#a9" title="Return to top">↩</a> 	
+<a name="q9">**9. What about restructuring arrangements entered into before 25 March 2020?** </a><a href="#a9" title="Return to top">↩</a> 	
 * Where, before 25 March 2020, parties to the contract have in respect of any rights or obligations under the contract entered into:
      (a)	an arrangement or a compromise that is approved by the Court under section 210(4) of the Companies Act (Cap. 50) or section 71(1) of Insolvency, Restructuring and Dissolution Act (Act 40 of 2018); or
      (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
@@ -197,10 +196,13 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
 <a name="q14">**14. How do I know if I am an eligible landlord?** </a><a href="#a14" title="Return to top">↩</a>
 * The details of the eligibility criteria will be provided in due course.
+
 <a name="q15">**15. What is the eligibility criteria for the Repayment Scheme for hire-purchase agreements, conditional sales agreements and lease agreements for commercial equipment?** </a><a href="#a15" title="Return to top">↩</a>	
 * The eligibility criteria for the Repayment Scheme is the same as that for re-negotiating and terminating a contract.
+
 <a name="q16">**16. Can I apply both to terminate a contract, and for the Repayment Scheme for that same contract?** </a><a href="#a16" title="Return to top">↩</a>
 * No. If a party chooses to take up the Repayment Scheme, they cannot terminate the contract under the Re-Align Framework, and vice versa.
+
 <a name="q17">**17. What outstanding arrears are covered under the Repayment Scheme?** </a><a href="#a17" title="Return to top">↩</a>	
 * A revised repayment schedule must include moneys that became payable under the contract (including any interest imposed on late payment) on or after 1 February 2020 and the date before the date of service of the relevant notice on your counterparty, and which remain unpaid on that date.
 
@@ -212,10 +214,12 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
 <a name="q20">**20. Must the outstanding arrears be paid in equal instalments, on a monthly basis?** </a><a href="#a20" title="Return to top">↩</a>	
 * Yes. The outstanding arrears must be paid in equal instalments, on a monthly basis.
+
 <a name="q21">**21. When must the first instalment be paid under the Repayment Scheme? ** </a><a href="#a21" title="Return to top">↩</a>	
 * The first instalment must be paid within one month after the period of six (6) weeks after the date of commencement of the Act. 
 
 * For example, if the Act commences on 30 November 2020, the first instalment payment must be paid within the month beginning on 11 January 2021 (6 weeks after the commencement date), and ending on 11 February 2021.
+
 <a name="q22">**22. What is a contract of national interest? How do I know whether my contract is a contract of national interest? ** </a><a href="#a22" title="Return to top">↩</a>	
 * A contract of national interest means:
      (a)	A contract the termination of which is likely to affect the provision of essential services or the ability of a public authority to carry out its functions, whether or not the Government or a public authority is a party to the contract; and
@@ -226,8 +230,10 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q23">**23. What support is there for me if I am a party to a contract of national interest?** </a><a href="#a23" title="Return to top">↩</a>	
 * While parties may not terminate contracts of national interest under the Re-Align Framework, parties may seek to renegotiate such contracts. If these renegotiations are not successful, the parties may apply to an Assessor to adjust the contract price.
 
+
 <a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings? ** </a><a href="#a24" title="Return to top">↩</a>	
 * Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here] (https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
+
 #### <a name=”sectd”>D. Other General Questions</a><a href="#refa" title="Return to top">↩</a>####
 
 
