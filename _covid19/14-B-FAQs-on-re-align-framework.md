@@ -255,14 +255,11 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 * You may wish to start negotiating with your counterparty on the terms of the contract. The terms which you may wish to negotiate include:
 
      (a)	Pricing of the contract. For example: 
-
      <br><br>(i)	lowering the monthly rent for leasing commercial property or equipment; 
      <br>(ii)	charging rent on the basis of gross turnover of the tenant/lessee each month over a certain period; and/or
-     
      <br>(iii)	lowering or increasing the price of goods or services delivered.
 
      (b)	Payment of outstanding arrears due. For example:
-
      <br><br>(i)	extending the time for payment of outstanding arrears over a period of 12-months, in monthly instalments;
      <br>(ii)	waiving late payment interest or other applicable fees and charges; and/or
      <br>(iii)	capping or lowering interest rates for hire-purchase agreements.
@@ -270,7 +267,6 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
      (c)	Extending or shortening the term of the contract; and 
 
      (d)	Altering other substantive terms in your contract. For example:
-
      <br><br>(i)	decreasing the amount of security deposit required;
      <br>(ii)	allowing security deposits to be used to offset outstanding arrears;
      <br>(iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
