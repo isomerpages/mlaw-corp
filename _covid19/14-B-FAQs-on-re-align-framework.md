@@ -75,7 +75,7 @@ third_nav_title: '7. Re-Align Framework'
 
 
 
-#### <a name=”secta”>A. Overview of Relief Measures</a><a href="#refa" title="Return to top">↩</a> ####
+#### <a name="secta">A. Overview of Relief Measures</a><a href="#refa" title="Return to top">↩</a> ####
 <a name="q1">**1. Why has the Government decided to implement these relief measures?** </a><a href="#a1" title="Return to top">↩</a>
 * The COVID-19 pandemic has had a significant impact on businesses. Although economic and social activities have now resumed in a careful and calibrated manner, safe distancing requirements and travel restrictions continue to seriously affect the viability of some businesses.  
 
@@ -90,7 +90,7 @@ third_nav_title: '7. Re-Align Framework'
 
 * Repayment Scheme: For certain types of contracts, the Act provides that eligible businesses may, instead of terminating, elect to pay outstanding arrears accumulated during a specified period in equal instalments over a period of up to 18 months. This Repayment Scheme is available for hire-purchase agreements, conditional sales agreements and lease agreements for commercial equipment.
 
-#### <a name=”sectb”>B. Eligibility and Scope</a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectb">B. Eligibility and Scope</a><a href="#refa" title="Return to top">↩</a>####
 <a name="q3">**3. Who is eligible for these relief measures?** </a><a href="#a3" title="Return to top">↩</a>	
 * The Act is targeted at smaller and micro enterprises whose business outlook has been severely impacted by COVID-19 even after economic and social activities have resumed. Two key criteria will be used to identify eligible businesses:
 
@@ -166,7 +166,7 @@ third_nav_title: '7. Re-Align Framework'
      (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
 and the arrangement or compromise is not set aside or revoked, the arrangement or compromise is excluded from the relief measures.
 
-#### <a name=”sectc”>C. Details of Relief Measures </a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectc">C. Details of Relief Measures </a><a href="#refa" title="Return to top">↩</a>####
 
 <a name="q10">**10. What are the consequences of terminating a contract under the Act?** </a><a href="#a10" title="Return to top">↩</a>	
 * Broadly, the allocation of liabilities upon termination is as follows:
@@ -234,7 +234,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings? ** </a><a href="#a24" title="Return to top">↩</a>	
 * Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here] (https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
-#### <a name=”sectd”>D. Other General Questions</a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectd">D. Other General Questions</a><a href="#refa" title="Return to top">↩</a>####
 
 
 <a name="q25">**25. When will the Act commence? How do I apply for the respective reliefs?**</a><a href="#a25" title="Return to top">↩</a>	
