@@ -75,7 +75,7 @@ third_nav_title: '7. Re-Align Framework'
 
 
 
-#### <a name="secta">A. Overview of Relief Measures</a><a href="#refa" title="Return to top">↩</a> ####
+#### <a name="secta">A. Overview of Relief Measures</a> <a href="#refa" title="Return to top">↩</a> ####
 <a name="q1">**1. Why has the Government decided to implement these relief measures?** </a><a href="#a1" title="Return to top">↩</a>
 * The COVID-19 pandemic has had a significant impact on businesses. Although economic and social activities have now resumed in a careful and calibrated manner, safe distancing requirements and travel restrictions continue to seriously affect the viability of some businesses.  
 
