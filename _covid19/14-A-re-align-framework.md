@@ -6,6 +6,9 @@ third_nav_title: '7. Re-Align Framework'
 
 ---
 
+> “The framework will provide a <b>quick and fair way</b> for businesses to <b>realign and move forward</b> by allowing selected contracts to be <b>renegotiated</b> and to come to a <b>mutual agreement</b>. If they are unable to agree, the contract may be <b>terminated</b>. Businesses will <b>remain liable for outstanding obligations but will not need to pay early termination penalties</b>.” 
+
+
 <a href="#overview" id="refa">Overview of Re-Align Framework</a><br>
 <a href="#eligibility" id="refb">Eligibility criteria</a><br>
 <a href="#contracts" id="refc">Contracts covered</a><br>
