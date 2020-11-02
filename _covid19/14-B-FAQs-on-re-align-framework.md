@@ -13,7 +13,7 @@ third_nav_title: '7. Re-Align Framework'
 
 <a href="#sectb" id="refb"> B. Eligibility and Scope </a>
 
-<a href="#q31" id="a3"> 3. Who is eligible for these relief measures?</a>
+<a href="#q3" id="a3"> 3. Who is eligible for these relief measures?</a>
 
 <a href="#q4" id="a4"> 4. Are freelancers and non-profit organisations eligible for the relief measures as well?</a>
 
