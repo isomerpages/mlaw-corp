@@ -13,15 +13,15 @@ breadcrumb: Test
 
     (a)          First, testing point a
         
-       i. Registered;<br>
-      ii. Members;<br>
+     i. Registered;<br>
+     ii. Members;<br>
      iii. National;<br>
 
 
     (b)          Second, testing point b.
     
-       i. bRegistered;<br>
-      ii. bMembers;<br>
+     i. bRegistered;<br>
+     ii. bMembers;<br>
      iii. bNational;<br>
 
  
