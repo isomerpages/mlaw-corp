@@ -37,6 +37,8 @@ Eligible businesses under the Re-Align framework will be identified via two key 
 
 We are in consultation with industry on these key criteria. We aim to find a threshold that helps smaller and micro enterprises and at the same time reaches out to a broad enough spectrum. Details, when finalised, will be set out later in the subsidiary legislation. 
 
+Download a copy of the eligibility criteria [here](/files/ReAlign/ReAlign_Framework_Infographic.pdf).
+
 ##### <a name="contracts">Contracts Covered</a><a href="#refc" title="Return to top">↩</a> #####
 
 The framework will only apply to a contract which meet the following conditions:
