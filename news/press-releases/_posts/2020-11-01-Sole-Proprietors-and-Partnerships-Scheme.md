@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Sole Proprietors and Partnerships (SPP) Scheme launched to help businesses in financial distress
-date: 2020-11-02
-permalink: /news/press-releases/2020-11-02-sole-proprietors-and-partnerships-scheme
+date: 2020-11-01
+permalink: /news/press-releases/2020-11-01-sole-proprietors-and-partnerships-scheme
 ---
 
-02 Nov 2020 Posted in [Press releases](/news/press-releases)
+01 Nov 2020 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
 1. The Association of Banks in Singapore (“ABS”), together with the support of several member banks, and the Ministry of Law (“<b>MinLaw</b>”) are launching the Sole Proprietors and Partnerships (“<b>SPP</b>”) Scheme to help eligible businesses facing financial distress restructure their unsecured business debts. The SPP Scheme will be administered by Credit Counselling Singapore (“<b>CCS</b>”), a non-government-linked organisation, which is a member of the National Council of Social Service and a registered charity involved in debt restructuring since 2004.
@@ -48,7 +48,7 @@ permalink: /news/press-releases/2020-11-02-sole-proprietors-and-partnerships-sch
 
 
 **MINISTRY OF LAW**
-<br>**02 NOVEMBER 2020**
+<br>**01 NOVEMBER 2020**
 
 <p><sup id="fn1">1. Micro and small companies are companies with an annual revenue of less than $1 million and $10 million, respectively. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
