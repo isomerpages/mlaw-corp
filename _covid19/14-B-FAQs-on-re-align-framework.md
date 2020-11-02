@@ -163,7 +163,9 @@ third_nav_title: '7. Re-Align Framework'
 
 <a name="q9">**9. What about restructuring arrangements entered into before 25 March 2020?** </a><a href="#a9" title="Return to top">↩</a> 	
 * Where, before 25 March 2020, parties to the contract have in respect of any rights or obligations under the contract entered into:
+
      (a)	an arrangement or a compromise that is approved by the Court under section 210(4) of the Companies Act (Cap. 50) or section 71(1) of Insolvency, Restructuring and Dissolution Act (Act 40 of 2018); or
+     
      (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
 and the arrangement or compromise is not set aside or revoked, the arrangement or compromise is excluded from the relief measures.
 
