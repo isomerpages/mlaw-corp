@@ -113,7 +113,7 @@ third_nav_title: '7. Re-Align Framework'
      (c)	has at least one party who has a place of business in Singapore; and
 
      (d)	falls within one of the following five categories:
-          <br>(i)	Leases and licences of non-residential immovable property which have a term not exceeding 5 years;
+             <br>(i)	Leases and licences of non-residential immovable property which have a term not exceeding 5 years;
           <br>(ii)	Rental agreements for commercial equipment and commercial vehicles;
           <br>(iii)	Hire-purchase or conditional sales agreements for commercial equipment and commercial vehicles (excluding agreements entered into with banks and financial companies regulated by the Monetary Authority of Singapore);
           <br>(iv)	Contracts for sale and purchase of goods; and
