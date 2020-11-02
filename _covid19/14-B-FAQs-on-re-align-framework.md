@@ -90,7 +90,7 @@ third_nav_title: '7. Re-Align Framework'
 
 * Repayment Scheme: For certain types of contracts, the Act provides that eligible businesses may, instead of terminating, elect to pay outstanding arrears accumulated during a specified period in equal instalments over a period of up to 18 months. This Repayment Scheme is available for hire-purchase agreements, conditional sales agreements and lease agreements for commercial equipment.
 
-#### <a name="sectb">B. Eligibility and Scope</a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectb">B. Eligibility and Scope</a><a href="#refa" title="Return to top">↩</a> ####
 <a name="q3">**3. Who is eligible for these relief measures?** </a><a href="#a3" title="Return to top">↩</a>	
 * The Act is targeted at smaller and micro enterprises whose business outlook has been severely impacted by COVID-19 even after economic and social activities have resumed. Two key criteria will be used to identify eligible businesses:
 
@@ -166,7 +166,7 @@ third_nav_title: '7. Re-Align Framework'
      (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
 and the arrangement or compromise is not set aside or revoked, the arrangement or compromise is excluded from the relief measures.
 
-#### <a name="sectc">C. Details of Relief Measures </a><a href="#refa" title="Return to top">↩</a>####
+#### <a name="sectc">C. Details of Relief Measures </a><a href="#refa" title="Return to top">↩</a> ####
 
 <a name="q10">**10. What are the consequences of terminating a contract under the Act?** </a><a href="#a10" title="Return to top">↩</a>	
 * Broadly, the allocation of liabilities upon termination is as follows:
