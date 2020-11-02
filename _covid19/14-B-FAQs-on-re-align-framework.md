@@ -186,7 +186,9 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 * Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to apply for relief, you will still be eligible to apply for your rights and obligations under the contract to be adjusted under the Re-Align Framework.
 
 * You will however not be eligible for relief where:
+
      (a)	your contract naturally expires without a renewal of the contract; or
+     
      (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
 <a name="q12">**12. Why are the above parties in Question (11) eligible for relief under the Re-Align Framework, even when their contract had already been terminated?** </a><a href="#a12" title="Return to top">↩</a>
@@ -209,7 +211,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q17">**17. What outstanding arrears are covered under the Repayment Scheme?** </a><a href="#a17" title="Return to top">↩</a>	
 * A revised repayment schedule must include moneys that became payable under the contract (including any interest imposed on late payment) on or after 1 February 2020 and the date before the date of service of the relevant notice on your counterparty, and which remain unpaid on that date.
 
-<a name="q18">**18. What is the maximum period I can seek to repay my outstanding arrears under the Repayment Scheme? ** </a><a href="#a18" title="Return to top">↩</a>	
+<a name="q18">**18. What is the maximum period I can seek to repay my outstanding arrears under the Repayment Scheme?** </a><a href="#a18" title="Return to top">↩</a>	
 * Eligible businesses may elect to pay the outstanding arrears in equal monthly instalments over a period of up to 18 months.
 
 <a name="q19">**19. Is interest payable on these arrears and if so, what is the interest rate?** </a><a href="#a19" title="Return to top">↩</a>	
@@ -218,12 +220,12 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 <a name="q20">**20. Must the outstanding arrears be paid in equal instalments, on a monthly basis?** </a><a href="#a20" title="Return to top">↩</a>	
 * Yes. The outstanding arrears must be paid in equal instalments, on a monthly basis.
 
-<a name="q21">**21. When must the first instalment be paid under the Repayment Scheme? ** </a><a href="#a21" title="Return to top">↩</a>	
+<a name="q21">**21. When must the first instalment be paid under the Repayment Scheme?** </a><a href="#a21" title="Return to top">↩</a>	
 * The first instalment must be paid within one month after the period of six (6) weeks after the date of commencement of the Act. 
 
 * For example, if the Act commences on 30 November 2020, the first instalment payment must be paid within the month beginning on 11 January 2021 (6 weeks after the commencement date), and ending on 11 February 2021.
 
-<a name="q22">**22. What is a contract of national interest? How do I know whether my contract is a contract of national interest? ** </a><a href="#a22" title="Return to top">↩</a>	
+<a name="q22">**22. What is a contract of national interest? How do I know whether my contract is a contract of national interest?** </a><a href="#a22" title="Return to top">↩</a>	
 * A contract of national interest means:
      (a)	A contract the termination of which is likely to affect the provision of essential services or the ability of a public authority to carry out its functions, whether or not the Government or a public authority is a party to the contract; and
      (b)	The contract has been certified by a Minister to be a contract of national interest.
@@ -234,7 +236,7 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 * While parties may not terminate contracts of national interest under the Re-Align Framework, parties may seek to renegotiate such contracts. If these renegotiations are not successful, the parties may apply to an Assessor to adjust the contract price.
 
 
-<a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings? ** </a><a href="#a24" title="Return to top">↩</a>	
+<a name="q24">**24. Is there a moratorium which will stop or pause legal actions and proceedings?** </a><a href="#a24" title="Return to top">↩</a>	
 * Yes. The details of the applicable moratorium for each type of application will be provided in due course. In the meantime, you may wish to refer to section [44] of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
 #### <a name="sectd">D. Other General Questions</a><a href="#refa" title="Return to top">↩</a> ####
