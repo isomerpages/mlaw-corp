@@ -11,8 +11,8 @@ breadcrumb: Test
 
 * The Act Two key criteria will be used to identify eligible businesses:
 
-(a)          First, testing point a
+    (a)          First, testing point a
 
-(b)          Second, testing point b.
+    (b)          Second, testing point b.
 
  
