@@ -113,11 +113,11 @@ third_nav_title: '7. Re-Align Framework'
      (c)	has at least one party who has a place of business in Singapore; and
 
      (d)	falls within one of the following five categories:
-          (i)	Leases and licences of non-residential immovable property which have a term not exceeding 5 years;
-          (ii)	Rental agreements for commercial equipment and commercial vehicles;
-          (iii)	Hire-purchase or conditional sales agreements for commercial equipment and commercial vehicles (excluding agreements entered into with banks and financial companies regulated by the Monetary Authority of Singapore);
-          (iv)	Contracts for sale and purchase of goods; and
-          (v)	Contracts for sale and purchase of services.
+             <br>(i)	Leases and licences of non-residential immovable property which have a term not exceeding 5 years;
+          <br>(ii)	Rental agreements for commercial equipment and commercial vehicles;
+          <br>(iii)	Hire-purchase or conditional sales agreements for commercial equipment and commercial vehicles (excluding agreements entered into with banks and financial companies regulated by the Monetary Authority of Singapore);
+          <br>(iv)	Contracts for sale and purchase of goods; and
+          <br>(v)	Contracts for sale and purchase of services.
 
 <a name="q6">**6. Which contracts are excluded from the relief measures?** </a><a href="#a6" title="Return to top">↩</a> 	
 * The following contracts (set out in Paragraph 2 of Part 1 of the Second Schedule of the Act) are excluded:
@@ -238,8 +238,6 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
 
 <a name="q25">**25. When will the Act commence? How do I apply for the respective reliefs?**</a><a href="#a25" title="Return to top">↩</a>	
-* The Act is targeted to commence in end-November 2020.
-
 * We will be providing details on the commencement of Act, as well as the application process in due course. In the meantime, you may wish to refer to Part 4 of the Second Schedule of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
 <a name="q26">**26. I am eligible for the relief measures mentioned above. Can I serve the relevant notices for relief before the Act commences?** </a><a href="#a26" title="Return to top">↩</a>	
@@ -255,32 +253,22 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 * You may wish to start negotiating with your counterparty on the terms of the contract. The terms which you may wish to negotiate include:
 
      (a)	Pricing of the contract. For example: 
-
-     (i)	lowering the monthly rent for leasing commercial property or equipment;
-     
-     (ii)	charging rent on the basis of gross turnover of the tenant/lessee each month over a certain period; and/or
-     
-     (iii)	lowering or increasing the price of goods or services delivered.
+     <br><br>(i)	lowering the monthly rent for leasing commercial property or equipment; 
+     <br>(ii)	charging rent on the basis of gross turnover of the tenant/lessee each month over a certain period; and/or
+     <br>(iii)	lowering or increasing the price of goods or services delivered.
 
      (b)	Payment of outstanding arrears due. For example:
-
-     (i)	extending the time for payment of outstanding arrears over a period of 12-months, in monthly instalments;
-     
-     (ii)	waiving late payment interest or other applicable fees and charges; and/or
-     
-     (iii)	capping or lowering interest rates for hire-purchase agreements.
+     <br><br>(i)	extending the time for payment of outstanding arrears over a period of 12-months, in monthly instalments;
+     <br>(ii)	waiving late payment interest or other applicable fees and charges; and/or
+     <br>(iii)	capping or lowering interest rates for hire-purchase agreements.
 
      (c)	Extending or shortening the term of the contract; and 
 
      (d)	Altering other substantive terms in your contract. For example:
-
-     (i)	decreasing the amount of security deposit required;
-     
-     (ii)	allowing security deposits to be used to offset outstanding arrears;
-     
-     (iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
-     
-     (iv)	waiving or lowering of delivery costs and other applicable fees.
+     <br><br>(i)	decreasing the amount of security deposit required;
+     <br>(ii)	allowing security deposits to be used to offset outstanding arrears;
+     <br>(iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
+     <br>(iv)	waiving or lowering of delivery costs and other applicable fees.
 
 <a name="q30">**30. My counterparty to the contract is unreasonable. Can the Government intervene and help me with my negotiations with my counterparty?** </a><a href="#a30" title="Return to top">↩</a> 	
 * The Government is unable to negotiate the contract on your behalf.
