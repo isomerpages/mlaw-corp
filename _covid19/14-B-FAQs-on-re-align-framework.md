@@ -262,13 +262,17 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
      (a)	Pricing of the contract. For example: 
 
      (i)	lowering the monthly rent for leasing commercial property or equipment;
+     
      (ii)	charging rent on the basis of gross turnover of the tenant/lessee each month over a certain period; and/or
+     
      (iii)	lowering or increasing the price of goods or services delivered.
 
      (b)	Payment of outstanding arrears due. For example:
 
      (i)	extending the time for payment of outstanding arrears over a period of 12-months, in monthly instalments;
+     
      (ii)	waiving late payment interest or other applicable fees and charges; and/or
+     
      (iii)	capping or lowering interest rates for hire-purchase agreements.
 
      (c)	Extending or shortening the term of the contract; and 
@@ -276,8 +280,11 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
      (d)	Altering other substantive terms in your contract. For example:
 
      (i)	decreasing the amount of security deposit required;
+     
      (ii)	allowing security deposits to be used to offset outstanding arrears;
+     
      (iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
+     
      (iv)	waiving or lowering of delivery costs and other applicable fees.
 
 <a name="q30">**30. My counterparty to the contract is unreasonable. Can the Government intervene and help me with my negotiations with my counterparty?** </a><a href="#a30" title="Return to top">↩</a> 	
