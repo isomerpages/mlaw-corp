@@ -14,35 +14,65 @@ third_nav_title: '7. Re-Align Framework'
 <a href="#sectb" id="refb"> B. Eligibility and Scope </a>
 
 <a href="#q31" id="a3"> 3. Who is eligible for these relief measures?</a>
+
 <a href="#q4" id="a4"> 4. Are freelancers and non-profit organisations eligible for the relief measures as well?</a>
+
 <a href="#q5" id="a5"> 5. What types of contracts are eligible for negotiation or termination under the Act?</a>
+
 <a href="#q6" id="a6"> 6. Which contracts are excluded from the relief measures? </a>
+
 <a href="#q7" id="a7"> 7. Does the Act affect contracts which are terminated before 2 November 2020?</a>
+
 <a href="#q8" id="a8"> 8. Does this Act apply to Government contracts?</a>
+
 <a href="#q9" id="a9"> 9. What about restructuring arrangements entered into before 25 March 2020?</a>
+
 <a href="#sectc" id="refc">C. Details of Relief Measures </a>
+
 <a href="#q10" id="a10"> 10. What are the consequences of terminating a contract under the Act?</a>
+
 <a href="#q11" id="a11"> 11. I am an eligible business and I am a party to a contract eligible for renegotiation or termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to apply for relief? Can I still apply for relief?</a>
+
 <a href="#q12" id="a12"> 12. Why are the above parties in Question [11] eligible for relief under the Re-Align Framework, even when their contract had already been terminated?</a>
+
 <a href="#q13" id="a13"> 13. Is there any relief for landlords whose leases are being terminated under the Act?</a>
+
 <a href="#q14" id="a14"> 14. How do I know if I am an eligible landlord?</a>
+
 <a href="#q15" id="a15"> 15. What is the eligibility criteria for the Repayment Scheme for hire-purchase agreements, conditional sales agreements and lease agreements for commercial equipment?</a>
+
 <a href="#q16" id="a16"> 16. Can I apply both to terminate a contract, and for the Repayment Scheme for that same contract?</a>
+
 <a href="#q17" id="a17"> 17. What outstanding arrears are covered under the Repayment Scheme?</a>
+
 <a href="#q18" id="a18"> 18. What is the maximum period I can seek to repay my outstanding arrears under the Repayment Scheme?</a>
+
 <a href="#q19" id="a19"> 19. Is interest payable on these arrears and if so, what is the interest rate?</a>
+
 <a href="#q20" id="a20"> 20. Must the outstanding arrears be paid in equal instalments, on a monthly basis?</a>
+
 <a href="#q21" id="a21"> 21. When must the first instalment be paid under the Repayment Scheme?</a>
+
 <a href="#q22" id="a22"> 22. What is a contract of national interest? How do I know whether my contract is a contract of national interest?</a>
+
 <a href="#q23" id="a23"> 23. What support is there for me if I am a party to a contract of national interest?</a>
+
 <a href="#q24" id="a24"> 24. Is there a moratorium which will stop or pause legal actions and proceedings?</a>
-<a href="#sectd" id="refd">D. Other General Questions</a> 
+
+<a href="#sectd" id="refd">D. Other General Questions</a>
+
 <a href="#q25" id="a25"> 25. When will the Act commence? How do I apply for the respective reliefs?</a>
+
 <a href="#q26" id="a26"> 26. I am eligible for the relief measures mentioned above. Can I serve the relevant notices for relief before the Act commences?</a>
+
 <a href="#q27" id="a27"> 27. Is there a deadline to serve the relevant notices once the Act commences? </a>
+
 <a href="#q28" id="a28"> 28. What happens if I do not meet this deadline?</a>
+
 <a href="#q29" id="a29"> 29. What can I do in the meantime before the Act commences?</a>
+
 <a href="#q30" id="a30"> 30. My counterparty to the contract is unreasonable. Can the Government intervene and help me with my negotiations with my counterparty? </a>
+
 
 
 #### <a name=”secta”>A. Overview of Relief Measures</a><a href="#refa" title="Return to top">↩</a> ####
