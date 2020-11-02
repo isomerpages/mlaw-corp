@@ -238,8 +238,6 @@ and the arrangement or compromise is not set aside or revoked, the arrangement o
 
 
 <a name="q25">**25. When will the Act commence? How do I apply for the respective reliefs?**</a><a href="#a25" title="Return to top">↩</a>	
-* The Act is targeted to commence in end-November 2020.
-
 * We will be providing details on the commencement of Act, as well as the application process in due course. In the meantime, you may wish to refer to Part 4 of the Second Schedule of the Act [here](https://sso.agc.gov.sg/Act/COVID19TMA2020){:target="_blank"}. 
 
 <a name="q26">**26. I am eligible for the relief measures mentioned above. Can I serve the relevant notices for relief before the Act commences?** </a><a href="#a26" title="Return to top">↩</a>	
