@@ -16,6 +16,7 @@ third_nav_title: '7. Re-Align Framework'
 <a href="#additional" id="refe">Additional arrangements</a><br>
 <a href="#implementation" id="reff">Implementation date</a><br>
 <a href="#other" id="refg">Other support measures</a><br>
+[FAQs](https://www.mlaw.gov.sg/covid19-relief/faqs/re-align-framework)
 
 ##### <a name="overview">Overview of Re-Align Framework</a><a href="#refa" title="Return to top">↩</a> #####
 
