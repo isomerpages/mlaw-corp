@@ -47,7 +47,7 @@ e.  The COVID-19 pandemic has not changed our approach, but has made it even mor
 
 a.  Sir, cross-border transactions and activities often involve the use of public documents issued by public authorities from one State, to support transactions taking place in another State. 
 
-<br>i.	For example, a person seeking to relocate or study abroad may need to produce identification documents, academic transcripts, proof of residency, proof of employment or income, and other supporting documents. 
+i.	For example, a person seeking to relocate or study abroad may need to produce identification documents, academic transcripts, proof of residency, proof of employment or income, and other supporting documents. 
 <br>ii.	Businesses seeking to acquire properties overseas may need to produce incorporation documents and official business profiles. 
 
 b.	Many States require that foreign public documents be “legalised” before they are recognised and accepted in those States. 
@@ -108,7 +108,7 @@ c.	In its place, these government agencies may require the apostilles.
 
 a.	Clause 11 of the Bill provides that the origin of a foreign public document affixed with an apostille is presumed to be sufficiently proven (unless the contrary is established). This means that the apostille is presumed proof of:
 
-<br>i.	the authenticity of the signature on the document, 
+i.	the authenticity of the signature on the document, 
 <br>ii.	the capacity in which the person signing the document has acted , and 
 <br>iii.	where appropriate, the identity of the seal or stamp that the document bears. 
 
@@ -116,13 +116,13 @@ The apostille does not, however, certify the contents of the underlying public d
 
 b.  The Bill also provides for the effect of apostilles, so as to facilitate their use. The Bill does not require apostilles to be used, unless as a replacement for the formality of legalisation which certain government agencies may have imposed. 
 
-<br>i.	This means that for foreign public documents which government agencies do not require to be legalised, apostilles may not subsequently be required. 
+i.	This means that for foreign public documents which government agencies do not require to be legalised, apostilles may not subsequently be required. 
 <br>ii.	The rationale behind this is to ensure that agencies do not take a regressive step by requiring the formality of an apostille, when previously there had been no other formality requirements needed. 
 <br>iii.	However, apostilles may be required for new classes of foreign public documents created after Singapore’s accession to the Convention. 
 
 c.	The Bill also contains a related amendment to the Evidence Act (Cap. 97, 2007 Rev Ed). 
 
-<br>i.	While the Evidence Act is not contrary to the obligations under the Apostille Convention, this amendment will allow for foreign public documents from Contracting Parties to also be proved by an apostille being affixed on such documents. 
+i.	While the Evidence Act is not contrary to the obligations under the Apostille Convention, this amendment will allow for foreign public documents from Contracting Parties to also be proved by an apostille being affixed on such documents. 
 <br>ii.	The proposed amendment clarifies that the operation of Part 2 of the Bill is not affected by the sections of the Evidence Act which relate to the way in which public documents are proven.
 
 **IV. Conclusion**
