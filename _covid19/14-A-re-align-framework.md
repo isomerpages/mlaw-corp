@@ -71,7 +71,8 @@ Certain contracts will be excluded from the Re-Align Framework, even if they fal
 * Commodity contracts<br>
 * Contracts for factoring of receivables<br>
 * Contracts (or series of contracts) for the transfer for a business or part thereof as a going concern<br>
-* Contracts where the application of the Re-Align Framework is inconsistent with Singapore’s international obligations (e.g. aircraft financing contracts falling under the Cape Town Convention)<br>
+* Contracts to which section 4 of the International Interests in Aircraft Equipment Act (Cap. 144B) apply<br>
+* Contracts to which the Sale of Goods (United Nations Convention) Act (Cap. 283A) apply<br>
 * Contracts affecting essential services and national interest<sup><a href="#fn2" id="ref2">2</a></sup><br>
 
 ##### <a name="process">Process for renegotiation and termination of Scheduled Contracts</a><a href="#refd" title="Return to top">↩</a> #####
@@ -104,5 +105,5 @@ In view of the impact that COVID-19 has had on businesses, MinLaw is also introd
 <br>
 <sup><u>Footnotes</u></sup>
 <p><sup id="fn1">1. MAS has worked with the financial industry to extend support measures beyond 2020, which will help SMEs facing cashflow difficulties to transition gradually to full loan repayments.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
-<p><sup id="fn2">2. Parties in contracts affecting essential services and national interests may use the Re-Align Framework to renegotiate their contracts but cannot terminate them.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Parties in contracts affecting essential services and national interests may use the Re-Align Framework to renegotiate their conttracts but cannot terminate them.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 <p><sup id="fn3">3. Micro and small companies are companies with an annual revenue of less than $1 million and $10 million, respectively.<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
