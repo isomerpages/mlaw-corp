@@ -17,17 +17,23 @@ To ask the Minister for Law with regard to Writ of Seizure and Sale (WSS) procee
 
 {:start="1"}
 1. We understand the question relating to “Writ of Seizure and Sale<sup><a href="#fn1" id="ref1">1</a></sup> (WSS) proceedings for non-commercial cases” to refer to cases where a WSS is issued for the seizure of movable property on premises used for non-commercial purposes or the premises of a non-commercial entity.
- 
+
+{:start="2"}
 2. All enforcement actions, including WSS proceedings in non-commercial cases, were put on hold during the circuit breaker period from 7 April to 1 June 2020<sup><a href="#fn2" id="ref2">2</a></sup> in accordance with the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (“the Control Order Regulations”) in force at that time<sup><a href="#fn3" id="ref3">3</a></sup>.
- 
+
+{:start="3"}
 3. Following the phased exit from the circuit breaker period, and the establishment of the necessary safe distancing and other applicable measures for the safe resumption of enforcement actions, WSS proceedings for non-commercial cases have resumed.
- 
+
+{:start="4"}
 4. The Supreme Court and State Courts bailiffs have since completed execution of the seizure stage of all WSS proceedings for movable properties in non-commercial cases that accumulated during the circuit breaker period.
- 
+
+{:start="5"}
 5. The next step in WSS proceedings is the sale of the seized movable properties, which is conducted via physical auctions. These are held at the premises where the movable properties were seized, to avoid incurring extra costs for transport and storage and to reduce the risk of damage.
- 
+
+{:start="6"}
 6. These physical auctions are conducted by external auctioneers and typically involve more than 5 people – the auctioneer, the bailiff, potential bidders and the judgment creditors’ representative(s). Given the number of individuals involved, physical auctions for seized movable properties located at places of residence have been put on hold, in line with the Control Order Regulations<sup><a href="#fn4" id="ref4">4</a></sup>.
- 
+
+{:start="7"}
 7. The courts will resume the auctions when such activities can be conducted safely in accordance with the Control Order Regulations.
 
 
