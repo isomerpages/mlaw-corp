@@ -785,8 +785,7 @@ Rental relief assessors cannot make a determination on disputes over the followi
 
 <a name="q65">**65.	What is the formula for determining the instalment payments?**</a><a href="#a65" title="Return to top">↩</a>
 
-*	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020.
-
+*	The formula for determining the instalment payments can be found under Regulation 40 of the COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020. Please refer to the [online repayment schedule calculator](/files/rentalreliefframework/Online_Repayment_Schedule_Calculator.xlsx) for help with instalment computation.
 
 <a name="q66">**66.	Can the tenant-occupier’s security deposit be used to offset other rental arrears?**</a><a href="#a66" title="Return to top">↩</a>
 
