@@ -19,6 +19,7 @@ third_nav_title: '2. Rental Relief Framework for SMEs and NPOs'
   * [FAQs](/covid19-relief/faq/rental-relief)
   * [Online self assessment tool](https://docs.google.com/forms/d/e/1FAIpQLSdL_HNRBuc85S5vGyYu2SAHDKNLCgVNfiatAK2FtrfFKOSf_g/viewform?usp=sf_link)
   * [Online rental relief calculator for tenant-occupiers](/files/RentalReliefCalculator-Updated.xlsx)
+  * [Online repayment scheme calculator](/files/rentalreliefframework/Online_Repayment_Schedule_Calculator.xlsx)
   * [Categorisation of properties](/files/rentalreliefframework/categorisation_of_properties.pdf) <br>
   * [Eligibility criteria for arts and culture societies](/files/rentalreliefframework/eligibility_criteria_for_arts_and_culture_societies.pdf)<br>
   * [Definition of a specified trade association](/files/rentalreliefframework/definition_of_a_specified_trade_association.pdf)<br>
