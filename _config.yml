@@ -44,7 +44,7 @@ collections:
         output: true
 resources_name: news
 favicon: /images/favicon-minlaw.ico
-google-analytics: UA-10405444-20
+google_analytics: UA-10405444-20
 permalink: none
 baseurl: ""
 defaults:
