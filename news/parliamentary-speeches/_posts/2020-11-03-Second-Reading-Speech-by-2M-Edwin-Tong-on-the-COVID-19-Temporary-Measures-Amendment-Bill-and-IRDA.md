@@ -3,7 +3,7 @@ layout: post
 title:  Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on COVID-19 (Temporary Measures) (Amendment No. 3) Bill and Insolvency, Restructuring & Dissolution (Amendment) Bill
 date:   2020-11-03
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on COVID-19 (Temporary Measures) (Amendment No. 3) Bill and Insolvency, Restructuring & Dissolution (Amendment) Bill'
-date: 2020-11-023
+date: 2020-11-03
 permalink: /news/parliamentary-speeches/2020-11-03-Second-Reading-Speech-by-2M-Edwin-Tong-on-COVID-19-Temporary-Measures-Amendment-Bill-and-IRDA
 
 ---
