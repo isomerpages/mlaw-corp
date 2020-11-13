@@ -1236,4 +1236,6 @@ c. There will not have to be a committee of inspection.
 {:start="272"}
 272. Thank you Sir, I beg to move. 
 
+<i>This is an edited version of the speech delivered in Parliament.</i>
+ 
 <p class="right-side-updated">Last updated on 03 Nov 2020</p> 
