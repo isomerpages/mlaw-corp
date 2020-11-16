@@ -11,11 +11,11 @@ permalink: /news/press-releases/Further-Extension-of-Relief-Periods-under-the-CO
 {:start="2"}
 2.	MinLaw announced on 12 October 2020 that the relief periods under this Part of the Act will be extended to 19 November 2020 or later. To ensure that businesses continue to obtain temporary relief from legal and enforcement actions until the implementation of the recently announced Re-Align Framework and the relief for delay in the delivery of possession under Part 8C of the Act, MinLaw will further extend the relief periods under the Act for the following contracts:
 
-  (a)	Hire-purchase and conditional sales agreements for commercial equipment or commercial vehicles, <u>excluding</u> those entered into with banks or finance companies regulated by the Monetary Authority of Singapore (MAS) – from 19 November 2020 to **31 January 2021**; 
+    (a)	Hire-purchase and conditional sales agreements for commercial equipment or commercial vehicles, <u>excluding</u> those entered into with banks or finance companies regulated by the Monetary Authority of Singapore (MAS) – from 19 November 2020 to **31 January 2021**; 
 
-  (b)	Rental agreements for commercial equipment or commercial vehicles – from 19 November 2020 to **31 January 2021**; and 
+    (b)	Rental agreements for commercial equipment or commercial vehicles – from 19 November 2020 to **31 January 2021**; and 
 
-  (c)	Options to purchase and sale and purchase agreements with developers <sup><a href="#fn1" id="ref1">1</a></sup> – from 31 December 2020 to **31 March 2021**. 
+   (c)	Options to purchase and sale and purchase agreements with developers <sup><a href="#fn1" id="ref1">1</a></sup> – from 31 December 2020 to **31 March 2021**. 
 
 {:start="3"}
 3.	The relief periods for other contracts under the Act remain unchanged. (Refer to the <b><u>Annex</u></b> for a summary of the relief periods.)
@@ -57,8 +57,8 @@ permalink: /news/press-releases/Further-Extension-of-Relief-Periods-under-the-CO
 <br>**16 NOVEMBER 2020**
 
 
-<p><sup id="fn1">For the purposes of the relief under the Act, HDB’s agreements for lease (AFLs) will have the same treatment as sale and purchase agreements.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. For the purposes of the relief under the Act, HDB’s agreements for lease (AFLs) will have the same treatment as sale and purchase agreements.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">Under the Re-Align Framework, parties will still be liable for outstanding debts and obligations even if the contract has been terminated. This is no different from how parties who have served a Notification for Relief under the Act are liable for their accrued arrears and obligations upon the expiry of the relief period.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Under the Re-Align Framework, parties will still be liable for outstanding debts and obligations even if the contract has been terminated. This is no different from how parties who have served a Notification for Relief under the Act are liable for their accrued arrears and obligations upon the expiry of the relief period.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <br>[Annex - Summary of the relief periods (66KB)](/files/news/press-releases/2020/11/Annex_Relief_Periods_for_Contracts_Covered_by_the_COVID.pdf)
