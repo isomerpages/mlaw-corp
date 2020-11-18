@@ -15,7 +15,7 @@ Please note that the outcome of the **Application** will be final. There will be
 Please take note of the following deadlines to file an application for an Assessor’s Determination: 
 
 | <b>Deadline to file an application for an Assessor’s Determination</b> | <b>Categories of Contracts</b>
-| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property* <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes* <br>-- Loans to SMEs secured by certain collateral in Singapore*
 | <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes* <br>-- Rental agreements for commercial equipment or commercial vehicles*
 | <b>28 Feburary 2021</b> | -- Event and tourism-related contracts 
 | <b>31 March 2021</b> | -- Sale and puchase agreements with developers* 
