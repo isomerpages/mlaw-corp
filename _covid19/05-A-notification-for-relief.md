@@ -13,6 +13,13 @@ We recommend that both parties first discuss, understand each other’s position
 
 <u>A Notification for Relief is <b>NOT</b> a Notice under the Re-Align Framework</u>
 
+The Re-Align Framework is a separate and different relief regime.
+
+Under the Re-Align Framework, eligible businesses which have been significantly impacted by COVID-19 can renegotiate certain types of contracts, to realign with the current economic conditions, failing which the businesses may seek to terminate those contracts. As an alternative to contract termination, the Re-Align Framework provides eligible hirers and renters of commercial equipment and vehicles to take up a Repayment Scheme to pay outstanding arrears in instalments. A party who wishes to seek relief under the Re-Align Framework would have to serve a notice on their contracting party. 
+
+The Re-Align Framework has not come into force. Further information on the notice that has to be served will be announced at this page when the Re-Align Framework comes into force. 
+
+
 <!--
 The rental relief framework is a separate and different relief regime under a different Part of the Act.
 
@@ -28,6 +35,8 @@ Apart from rental waivers, the rental relief framework also provides for an auto
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental waivers under the rental relief framework.  
 --> 
+
+
 
 <u>Relief for inability to perform contractual obligations</u>
 
