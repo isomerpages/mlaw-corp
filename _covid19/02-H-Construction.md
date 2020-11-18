@@ -37,24 +37,22 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in FAQ (2) will apply.
 
-4.  I am unable to perform my contract due to COVID-19, and have served a Notification for Relief on my counterparty.  Can my counterparty still call on my performance bond?
+**4.  I am unable to perform my contract due to COVID-19, and have served a Notification for Relief on my counterparty.  Can my counterparty still call on my performance bond?**
 
-•	If you are unable to perform your contractual obligation under the construction contract due to Covid-19, you may serve a Notification for Relief on the other party to the contract and the issues of the the performance bond.
+* If you are unable to perform your contractual obligation under the construction contract due to Covid-19, you may serve a Notification for Relief on the other party to the contract and the issues of the the performance bond.
 
-•	Once you have served the Notification for Relief, the other party to the contract may not make a call on the performance bond in respect of the inability described in the Notification for Relief at any time earlier than: 
+* Once you have served the Notification for Relief, the other party to the contract may not make a call on the performance bond in respect of the inability described in the Notification for Relief at any time earlier than: 
 
-o	7 days before the date of expiry of the performance bond as stated in the bond; or 
+ * 7 days before the date of expiry of the performance bond as stated in the bond; or 
 
-o	7 days before the date of expiry of the performance bond as extended under the Act. 
+ * 7 days before the date of expiry of the performance bond as extended under the Act. 
 
-•	The above will cease to apply on the earliest of the following events: 
+*	The above will cease to apply on the earliest of the following events: 
 
-o	Upon the expiry of the prescribed period (i.e., after 31 March 2021)  
+ * Upon the expiry of the prescribed period (i.e., after 31 March 2021)   
+ * The withdrawal of your Notification for Relief
+ * If either party has made an Application for an Assessor’s Determination, the making of the Assessor’s Determination that you do not meet the requirements under the Act.
 
-o	The withdrawal of your Notification for Relief
+*	Additionally, section 6(3) allows you to make an application to extend the term of the bond to the issuer of the bond. This must be done not less than 7 days before the expiry of the bond. A notice of the application (to extend the term of the bond) must also be served on the other parties to the construction contract at the same time.  
 
-o	If either party has made an Application for an Assessor’s Determination, the making of the Assessor’s Determination that you do not meet the requirements under the Act.
-
-•	Additionally, section 6(3) allows you to make an application to extend the term of the bond to the issuer of the bond. This must be done not less than 7 days before the expiry of the bond. A notice of the application (to extend the term of the bond) must also be served on the other parties to the construction contract at the same time.  
-
-•	Once you have done the above, section 6(3) of the Act provides that the term of the bond will be extended under the Act to a date 7 days after the end of the prescribed period (i.e., extended to 7 April 2021) or such other date agreed between you, the other parties to the construction contract, and the issuer of the bond.
+* Once you have done the above, section 6(3) of the Act provides that the term of the bond will be extended under the Act to a date 7 days after the end of the prescribed period (i.e., extended to 7 April 2021) or such other date agreed between you, the other parties to the construction contract, and the issuer of the bond.
