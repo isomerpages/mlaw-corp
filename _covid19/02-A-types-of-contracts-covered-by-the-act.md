@@ -19,6 +19,8 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 |6. | [Event and tourism-related contracts](/files/6-Events-Tourism.pdf) | Extended to to 31 December 2020  (formerly 19 October 2020) | 31 December 2020  | 28 February 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/event-or-tourism-related-contract)
 |7. | [Construction contracts and supply contracts](/files/7-Construction.pdf) | Extended to 31 March 2021 (formerly 19 October 2020) | 31 March 2021 | 31 May 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
 
+* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. **Pending applications as at the deadline will be deemed withdrawn.** For the avoidance of doubt, pending applications include (i) Applications where the Registrar has not yet appointed an Assessor; and (ii) Applications where an Assessor has been appointed, but that Assessor has not yet made a determination.  
+
 #### Self-Assessment Tool ####
 To assess your eligibility under Part 2 of the Act, please refer to the [Self-Assessment Tool](https://www.mlaw.gov.sg/covid19-relief/tool).
 
