@@ -8,20 +8,20 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Options to Purchase and Sale and Purchase Agreements with Developers ###
 
-<a name="31Decnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for Options to Purchase and Sale and Purchase Agreements with developers from 19 October 2020 to 31 December 2020.  The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers’ cash flow. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for Options to Purchase and Sale and Purchase Agreements has been extended from 19 October 2020 to 31 March 2021. The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers’ cash flow. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 <a name="q1">**1.	I am a buyer of a property (residential, commercial or industrial) from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>
 
-* The developer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>).  
+* The developer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to <a href="#31Decnote">31 March 2021</a>).  
 
 * Additionally:
 
-    *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>).
+    *	<b>For OTPs</b>: The developer may not withhold or forfeit any part of the booking fee (or other consideration paid for the OTP) during the prescribed period (i.e. up to <a href="#31Decnote">31 March 2021</a>).
 
-    *	<b>For S&P Agreements / Agreements for Leases (“AFLs”):</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>).
+    *	<b>For S&P Agreements / Agreements for Leases (“AFLs”):</b>: The developer cannot terminate the S&P Agreement or AFL during the prescribed period (i.e. up to <a href="#31Decnote">31 March 2021</a>).
     
-    * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February and <a href="#31Decnote">31 December 2020</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (15) – (25)</a> for more details. 
+    * <b>For S&P Agreements / AFLs</b>: The late payment interest rate and charges that are chargeable on arrears that accrued between 1 February 2020 and <a href="#31Decnote">31 March 2021</a> will be capped at the amount equal to 5% per annum of simple interest on the arrears. In other words, you are not liable to pay any late payment interest or fees above that amount. This helps to reduce the growth of your debt when you are unable to pay due to the impact of COVID-19. See <a href="#q18">FAQs (15) – (25)</a> for more details. 
 
 **2.	What conditions must I, the buyer, meet to enjoy the reliefs?** 
 
@@ -98,7 +98,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 * For residential, commercial and industrial properties (including HDB and Executive Condominiums)
 
-   * You should serve the developer with a Notification for Relief, as explained further at <a href="#q3">FAQ(3)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 31 December 2020.
+   * You should serve the developer with a Notification for Relief, as explained further at <a href="#q3">FAQ(3)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before 31 March 2021.
 
    * You should discuss with the developer to reach a mutually acceptable solution.
    * If you cannot reach an agreement with the developer, either party may make an application for an Assessor’s determination. Please click on this link for further information on the application process and the relevant forms.
@@ -106,7 +106,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 **11.	My OTP is about to expire. I cannot make the payment due because of COVID-19. I no longer want to exercise the option, and am afraid that I will lose all of my booking fee. What should I do to seek relief under the Act?**
 
-*	First, you should serve the developer with a Notification for Relief, as explained further at <a href="#q3">FAQ(3)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before <a href="#31Decnote">31 December 2020</a>. 
+*	First, you should serve the developer with a Notification for Relief, as explained further at <a href="#q3">FAQ(3)</a>. Once you have served a Notification for Relief, the developer will not be able to forfeit any part of your booking fee on or before <a href="#31Decnote">31 March 2021</a>. 
 
 *	Next, you should discuss with the developer to reach a mutually acceptable solution on dealing with the booking fee. 
 
@@ -119,14 +119,14 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 *	If you have been affected by COVID-19, and are unable to make the payments due under your S&P Agreement / AFL, we would encourage you to work together with the developer to reach a mutually acceptable solution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. Such mutually acceptable solutions can include partial payments.
 
-*	If you cannot reach an agreement and would like to prevent the developer from terminating the S&P Agreement / AFL, you may serve a Notification for Relief on the developer, who is then prohibited from terminating the S&P Agreement / AFL or suing you during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>).
+*	If you cannot reach an agreement and would like to prevent the developer from terminating the S&P Agreement / AFL, you may serve a Notification for Relief on the developer, who is then prohibited from terminating the S&P Agreement / AFL or suing you during the prescribed period (i.e. up to <a href="#31Decnote">31 March 2021</a>).
 
 *	In the event of a dispute over whether there is an inability to meet your payment obligations, or whether that inability is materially caused by COVID-19, either party may make an application for an Assessor’s determination. The Assessor will seek to achieve an outcome that is just and equitable in the circumstances. Please click on this link for further information on the application process and the relevant forms.
 
 
 **13.	Do I have to pay the accrued missed payments once the prescribed period is over?**
 
-*	Yes. Your payment obligations continue to accrue during the relief period, and may be enforced after <a href="#31Decnote">31 December 2020</a>. 
+*	Yes. Your payment obligations continue to accrue during the relief period, and may be enforced after <a href="#31Decnote">31 March 2021</a>. 
 
 *	The Act seeks to temporarily prohibit the developer from terminating the S&P Agreement / AFL during the relief period.
 
@@ -140,10 +140,10 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 <a name="q15">**15. What are the arrears that will be subject to the cap on late payment interest and charges?**</a>
 
-* The cap applies in respect of arrears that accrued between 1 February and <a href="#31Decnote">31 December 2020</a> due to COVID-19. 
+* The cap applies in respect of arrears that accrued between 1 February 2020 and <a href="#31Decnote">31 March 2021</a> due to COVID-19. 
 
 
-**16. What happens to arrears that have accrued before 1 February, or after <a href="#31Decnote">31 December 2020</a> (e.g., arrears for the month of Jan 2020)?**
+**16. What happens to arrears that have accrued before 1 February, or after <a href="#31Decnote">31 March 2021</a> (e.g., arrears for the month of Jan 2020)?**
 
 * The relief does not apply to such arrears. The contractual late payment interest and charges will apply. 
 
@@ -155,7 +155,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 **18. How does the cap on late payment interest rate and charges work?**
 
-* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February and <a href="#31Decnote">31 December 2020</a> will be capped at an amount equal to 5% per annum of simple interest.  
+* Once the Notification for Relief is served, all late payment interest and charges that are chargeable on arrears that accrued between 1 February 2020 and <a href="#31Decnote">31 March 2021</a> will be capped at an amount equal to 5% per annum of simple interest.  
 
 * Please click [here](/covid19-relief/cap-on-late-payment-interest-charges) for illustrations on how the cap on late payment interest and charges work.
 
@@ -222,7 +222,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 **29.	An intending buyer’s OTP is about to expire, and he/she has served me with a Notification for Relief. What should I do?**
 
-*	Once the intending buyer has served you a Notification for Relief, you may not forfeit or withhold any part of the booking fee on or before <a href="#31Decnote">31 December 2020</a>. 
+*	Once the intending buyer has served you a Notification for Relief, you may not forfeit or withhold any part of the booking fee on or before <a href="#31Decnote">31 March 2021</a>. 
 
 *	We would encourage parties to acknowledge that COVID-19 has had a significant impact on everyone, and therefore act reasonably and work together to reach a mutually acceptable solution.  This may include extending the OTP for a reasonable period of time, or agreeing on the amount of booking fee to be forfeited. 
 
@@ -241,7 +241,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
     
     *	You have served a Notification for Relief on the buyer
 
-* If these conditions are met, the buyer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>), in respect of the contractual obligation that you are unable to carry out.
+* If these conditions are met, the buyer cannot start or continue court or insolvency proceedings against you during the prescribed period (i.e. up to <a href="#31Decnote">31 March 2021</a>), in respect of the contractual obligation that you are unable to carry out.
 * Part 2 of the Act does **not** remove or absolve parties’ contractual obligations, nor does it provide a defence against any liability for breach of contract or damages (e.g. liquidated damages) stemming from your inability to perform the contractual obligation due to COVID-19. 
 * We encourage you to work together with the buyer to reach a mutually acceptable solution. A long-term solution will give all parties a better chance to recover from the impact of COVID-19. 
 * In the event of a dispute over whether there is an inability to perform the contractual obligation, or whether that inability is materially caused by COVID-19, either party may make an application for an Assessor’s determination. 
