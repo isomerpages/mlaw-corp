@@ -18,16 +18,21 @@ third_nav_title: '1B. Notification for Relief'
 
 * For more information on the rental relief framework, please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes). 
 
+**2. I am seeking relief under the Re-Align Framework. Must I serve a Notification for Relief under section 5 of the Act?**
+* No. The Re-Align Framework is a separate and different relief regime.
+* A Notification for Relief is **not** a notice under the Re-Align Framework. Instead, you should serve a Notice of Negotiation. However, the Re-Align Framework has not come into force. Further information on the notice that has to be served will be announced at [this page](https://go.gov.sg/re-align) when the Re-Align Framework comes into force.
+
 <u>I am the party seeking relief and sender of the Notification for Relief…</u>
 
-**2. Is there a deadline to serve a Notification for Relief on the other party to the contract?**
+**3. Is there a deadline to serve a Notification for Relief on the other party to the contract?**
 * Yes. A Notification for Relief must be served on the other party to the contract within the prescribed period. 
-* The Ministry of Law intends to extend the prescrbed period, which currently lasts until 19 October 2020. The deadlines to serve a Notifcation for Relief would be as follows after the prescribed period is extended: 
+* Please take note of the following deadlines to serve a Notifcation for Relief would be as follows after the prescribed period is extended: 
 
 | <b>Deadline to serve Notification for Relief</b> | <b>Categories of Contracts</b>
-| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
-| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
-| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts
+| <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase and sale and purchase agreements with developers 
 
 
 **3. Must a Notification for Relief take a certain form?**  
