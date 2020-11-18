@@ -48,14 +48,10 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
   * 7 days before the date of expiry of the performance bond as extended under the Act. 
 
 *	The above will cease to apply on the earliest of the following events: 
-
-   * Upon the expiry of the prescribed period (i.e., after 31 March 2021)
+ * Upon the expiry of the prescribed period (i.e., after 31 March 2021)
+ * The withdrawal of your Notification for Relief
+ * If either party has made an Application for an Assessor’s Determination, the making of the Assessor’s Determination that you do not meet the requirements under the Act.
    
-   * The withdrawal of your Notification for Relief
-   
-   * If either party has made an Application for an Assessor’s Determination, the making of the Assessor’s Determination that you do not meet the requirements under the Act.
-   
-
 *	Additionally, section 6(3) allows you to make an application to extend the term of the bond to the issuer of the bond. This must be done not less than 7 days before the expiry of the bond. A notice of the application (to extend the term of the bond) must also be served on the other parties to the construction contract at the same time.  
 
 * Once you have done the above, section 6(3) of the Act provides that the term of the bond will be extended under the Act to a date 7 days after the end of the prescribed period (i.e., extended to 7 April 2021) or such other date agreed between you, the other parties to the construction contract, and the issuer of the bond.
