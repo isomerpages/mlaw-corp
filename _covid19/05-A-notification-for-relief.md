@@ -11,11 +11,12 @@ third_nav_title: '1B. Notification for Relief'
 
 We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
 
-<u>Notification for Relief is NOT NEEDED for Rental Relief</u>
+<u>A Notification for Relief is <b>NOT</b> a Notice under the Re-Align Framework</u>
 
+<!--
 The rental relief framework is a separate and different relief regime under a different Part of the Act.
 
-Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties.
+Under the rental relief framework, eligible Small and Medium NOT a Notice under the Re-Align FrameworkEnterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties.
 
 Eligible tenant occupiers, seeking rental relief waivers <u>DO NOT need</u> to serve a Notification for Relief on their landlord. Please check if you fall within one of the following scenarios:
 
@@ -26,6 +27,7 @@ Eligible tenant occupiers, seeking rental relief waivers <u>DO NOT need</u> to s
 Apart from rental waivers, the rental relief framework also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement, as well as a statutory repayment plan for arrears. 
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental waivers under the rental relief framework.  
+--> 
 
 <u>Relief for inability to perform contractual obligations</u>
 
