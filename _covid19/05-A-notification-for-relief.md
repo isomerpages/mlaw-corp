@@ -50,9 +50,10 @@ The party seeking relief must serve a <b>Notification for Relief</b> on the foll
 The Ministry of Law intends to extend the prescribed period, which currently lasts until 19 October 2020. Please take note of the following deadlines to serve a Notification for Relief after the prescribed period is extended: 
 
 | <b>Deadline to serve Notification for Relief</b> | <b>Categories of Contracts</b>
-| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
-| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
-| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts 
+| <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase and sale and purchase agreements with developers  
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 
