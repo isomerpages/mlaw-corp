@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 
 ### Event or tourism-related contracts ###
-<a name="31Decnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for event or tourism-related contracts has been extended from 19 October 2020 to 31 December 2020. The extension of the prescribed period will provide individuals and businesses who have booked events or tours in late 2020 and 2021 with more time to monitor the COVID-19 situation and discuss with their vendors whether and how they should proceed, before deciding if they need to rely on reliefs under the Act.  Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts has been extended from 19 October 2020 to 31 December 2020. The extension of the prescribed period provides individuals and businesses who have booked events or tours in late 2020 and 2021 with more time to monitor the COVID-19 situation and discuss with their vendors whether and how they should proceed, before deciding if they need to rely on reliefs under the Act.  Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
 
 #### General FAQs ####
 **1. What is an event contract?**
