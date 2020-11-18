@@ -35,15 +35,15 @@ third_nav_title: '1B. Notification for Relief'
 | <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase and sale and purchase agreements with developers 
 
 
-**3. Must a Notification for Relief take a certain form?**  
+**4. Must a Notification for Relief take a certain form?**  
 *	Yes, there is a prescribed form for the Notification for Relief. Please refer to the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) (if you are serving the Notification for yourself) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass) (if you are serving the Notification on behalf of your business or company). 
 *	If you do not serve the Notification for Relief in the prescribed form, it is invalid for the purposes of the Act.
 
-**4. There are multiple parties to my contract. Do I need to fill up multiple Notifications of Relief to serve on each of the parties?** 
+**5. There are multiple parties to my contract. Do I need to fill up multiple Notifications of Relief to serve on each of the parties?** 
 
 *	No. Only one Notification for Relief should be filled up. In Part B of the form, you should indicate the particulars of all the parties to the contract. A copy of the same Notification for Relief should be served on each of the parties. 
 
-**5. I do not know the email address of all the other parties to the contract. How do I serve the Notification for Relief?** 
+**6. I do not know the email address of all the other parties to the contract. How do I serve the Notification for Relief?** 
 
 *	If you have the email address of all the relevant parties the Notification for Relief should be served on, please serve the Notification for Relief: 
     *	Using [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass)  if you are serving the Notification for yourself.
@@ -57,54 +57,54 @@ third_nav_title: '1B. Notification for Relief'
     * If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf).
     * If you are serving the Notification on behalf of a business or company), please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
  
-**6. I do not have Singpass or Corpass and cannot access the Ministry of Law’s electronic system for the purposes of filling up and serving a Notification for Relief. How can I fill up and serve a Notification for Relief?**
+**7. I do not have Singpass or Corpass and cannot access the Ministry of Law’s electronic system for the purposes of filling up and serving a Notification for Relief. How can I fill up and serve a Notification for Relief?**
 *	If you are serving the Notification for Relief for yourself, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Individual.pdf). 
 *	If you are serving the Notification on behalf of a business or company, please download this [form](https://www.mlaw.gov.sg/files/covid19-forms/Form-1-Entity.pdf). 
 *	After you fill up the form, you would have to serve the form on all other parties to the contract, any guarantor or surety of the obligation and the issuer of a related performance bond (if applicable). Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/other-modes-service) in relation to serving that hard-copy form.
 
-**7. I am a guarantor of Party A’s obligation under a scheduled contract. Party A is unable to fulfill his obligations due to COVID-19. Can I serve a Notification for Relief on the other party?**
+**8. I am a guarantor of Party A’s obligation under a scheduled contract. Party A is unable to fulfill his obligations due to COVID-19. Can I serve a Notification for Relief on the other party?**
 *	If you are a guarantor but you are not a party to the scheduled contract, you may not serve the Notification for Relief.
 *	Under the Act, only a party to a scheduled contract may serve a Notification for Relief for his inability to perform the obligations under the scheduled contract. 
 *	If, however, Party A serves the Notification for Relief on the other party, provided the other conditions in the Act are satisfied, the other party will be prohibited from commencing court or insolvency proceedings against you as the guarantor. 
 
-**8. I filled up the Notification for Relief with the wrong details and submitted it using the Ministry of Law’s electronic system. What do I do now?** 
+**9. I filled up the Notification for Relief with the wrong details and submitted it using the Ministry of Law’s electronic system. What do I do now?** 
 *	Please note that the electronic system does not have the function to allow an amendment to the Notification for Relief that was submitted. 
 *	If you did not successfully serve the Notification for Relief on the Recipient(s) (e.g. you entered an incorrect email address for any of the Recipient), you should serve a new Notification for Relief on the Recipient(s). 
 *	If you successfully served the Notification for Relief on the Recipient(s), and you wish to make changes to the form, you will need to serve a new Notification for Relief and serve a [Notice of Withdrawal](https://www.mlaw.gov.sg/covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
 
-**9. I served a Notification for Relief (either using the online system, or by downloading and sending the hard-copy form to the other party to the contract). Do I need to file the Notification for Relief with the Ministry of Law? Does the Ministry of Law need to “approve” my Notification for Relief before it is valid?** 
+**10. I served a Notification for Relief (either using the online system, or by downloading and sending the hard-copy form to the other party to the contract). Do I need to file the Notification for Relief with the Ministry of Law? Does the Ministry of Law need to “approve” my Notification for Relief before it is valid?** 
 *	The Ministry of Law does not need to further “approve” a Notification for Relief that was served. There is no need to file a copy of the Notification for Relief with the Ministry of Law.
 
-**10. I served a Notification for Relief using the online system on the Ministry of Law’s website. I did not hear from the other party to the contract. How do I know if the other party received the Notification for Relief? What do I do next?**  
+**11. I served a Notification for Relief using the online system on the Ministry of Law’s website. I did not hear from the other party to the contract. How do I know if the other party received the Notification for Relief? What do I do next?**  
 *	You may wish to reach out to the other party to ensure that he received the Notification for Relief. 
 *	Thereafter, we encourage you to engage the other party to reach a mutually acceptable solution. Both sides must be fair and reasonable.
 *	If parties cannot agree, the Act provides for either party to make an application for an Assessor’s determination and for the Assessor to achieve an outcome that is just and equitable in the circumstances. Please refer to this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) for more information on the application process.  
 
-**11. I served the Notification for Relief, and I filed the Application for an Assessor’s Determination. Since then, the other party and I have reached a mutually acceptable solution without having to go through the proceedings before the Assessor. What do I do now?**
+**12. I served the Notification for Relief, and I filed the Application for an Assessor’s Determination. Since then, the other party and I have reached a mutually acceptable solution without having to go through the proceedings before the Assessor. What do I do now?**
 *	If the agreement you have reached with the other party involves you withdrawing the Notification for Relief, you should serve a [Notice of Withdrawal](https://www.mlaw.gov.sg/covid19-relief/withdrawal-notification-for-relief) in respect of the previous Notification for Relief. 
 *	For the pending Application, you should inform the Registrar of the settlement and that you wish to withdraw the Application. You may do so by writing to the Registry’s email address from which the acknowledgment of receipt of the Application was sent. 
 
 <u>I am the receiver of a Notification for Relief…</u>
 
-**12. The party seeking relief indicated a “proposal” in Part D of the Notification for Relief. Is that proposal binding?** 
+**13. The party seeking relief indicated a “proposal” in Part D of the Notification for Relief. Is that proposal binding?** 
 *	No. It is merely a proposal from the party seeking relief for the other party’s consideration. We encourage you to use the proposal as a basis to start negotiations. 
 
-**13. I was served a Notification for Relief. I disagree with my counterparty’s proposal in Part D of the Notification for Relief. What do I do next? Must I serve a Notification for Relief as well?** 
+**14. I was served a Notification for Relief. I disagree with my counterparty’s proposal in Part D of the Notification for Relief. What do I do next? Must I serve a Notification for Relief as well?** 
 *	We encourage you to reach out to your counterparty, negotiate and come to a mutually agreeable solution. 
 *	There is no need for you to serve a Notification for Relief on your counterparty as well.
 
-**14. I am not a party to the contract, but was erroneously served a Notification for Relief. What do I do next?** 
+**15. I am not a party to the contract, but was erroneously served a Notification for Relief. What do I do next?** 
 *	If it is a mistake, you may contact the sender of the Notification for Relief to inform him about the error, or ignore the erroneous Notification for Relief. 
 *	If it appears that the sender had sent you the Notification for Relief because he believes you are a party to the contract (when you are not a party to the contract),  you may dispute the Notification for Relief by making an application to the Assessor using this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor).
 
-**15. I was served a Notification for Relief even though my contract with the party seeking relief does not fall within the Act. What do I do next?**
+**16. I was served a Notification for Relief even though my contract with the party seeking relief does not fall within the Act. What do I do next?**
 *	Even though the Notification for Relief was served in error, this indicates that your counterparty has difficulties meeting his contractual obligations to you under your contract. We encourage you to reach out to your counterparty to inform him that the contract does not fall within the Act and to reach a mutually acceptable solution to deal with any contractual issues that have been caused by COVID-19. 
 *	If you are unable to reach an agreement with the counterparty and you wish to dispute the Notification for Relief, you may make an application to the Assessor by following the steps in this [link](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor). The Assessor will determine whether relief under the Act applies. 
 
-**16. I was served multiple Notification for Reliefs by the same party, all with slightly different details. What do I do next?**
+**17. I was served multiple Notification for Reliefs by the same party, all with slightly different details. What do I do next?**
 *	You may wish to reach out to the sender of the Notification for Relief to clarify which document he wishes to rely on.
 
-**17. I was served the Notification for Relief and I filed an Application for an Assessor’s Determination. Since then, the other party and I have reached a mutually acceptable solution without having to go through the proceedings before the Assessor. What should I do now?** 
+**18. I was served the Notification for Relief and I filed an Application for an Assessor’s Determination. Since then, the other party and I have reached a mutually acceptable solution without having to go through the proceedings before the Assessor. What should I do now?** 
 *	For the pending Application, you should inform the Registrar of the settlement and that you wish to withdraw the Application. You may do so by writing to the Registry’s email address from which the acknowledgment of receipt of the Application was sent to you. 
 
 
