@@ -26,7 +26,7 @@ third_nav_title: '1B. Notification for Relief'
 
 **3. Is there a deadline to serve a Notification for Relief on the other party to the contract?**
 * Yes. A Notification for Relief must be served on the other party to the contract within the prescribed period. 
-* Please take note of the following deadlines to serve a Notifcation for Relief would be as follows after the prescribed period is extended: 
+* Please take note of the following deadlines to serve a Notifcation for Relief: 
 
 | <b>Deadline to serve Notification for Relief</b> | <b>Categories of Contracts</b>
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore
