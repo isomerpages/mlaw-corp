@@ -17,7 +17,7 @@ The Re-Align Framework is a separate and different relief regime.
 
 Under the Re-Align Framework, eligible businesses which have been significantly impacted by COVID-19 can renegotiate certain types of contracts, to realign with the current economic conditions, failing which the businesses may seek to terminate those contracts. As an alternative to contract termination, the Re-Align Framework provides eligible hirers and renters of commercial equipment and vehicles to take up a Repayment Scheme to pay outstanding arrears in instalments. A party who wishes to seek relief under the Re-Align Framework would have to serve a notice on their contracting party. 
 
-The Re-Align Framework has not come into force. Further information on the notice that has to be served will be announced at this page when the Re-Align Framework comes into force. 
+The Re-Align Framework has not come into force. Further information on the notice that has to be served will be announced at [this page](https://go.gov.sg/re-align) when the Re-Align Framework comes into force. 
 
 
 <!--
