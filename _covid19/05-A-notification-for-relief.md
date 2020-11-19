@@ -11,11 +11,19 @@ third_nav_title: '1B. Notification for Relief'
 
 We recommend that both parties first discuss, understand each other’s positions, and try to reach a compromise, taking into account the framework set out in the Act as well as the rental relief framework set out in the Amendment Act.
 
-<u>Notification for Relief is NOT NEEDED for Rental Relief</u>
+<u>A Notification for Relief is <b>NOT</b> a Notice under the Re-Align Framework</u>
 
+The Re-Align Framework is a separate and different relief regime.
+
+Under the Re-Align Framework, eligible businesses which have been significantly impacted by COVID-19 can renegotiate certain types of contracts, to realign with the current economic conditions, failing which the businesses may seek to terminate those contracts. As an alternative to contract termination, the Re-Align Framework provides eligible hirers and renters of commercial equipment and vehicles to take up a Repayment Scheme to pay outstanding arrears in instalments. A party who wishes to seek relief under the Re-Align Framework would have to serve a notice on their contracting party. 
+
+The Re-Align Framework has not come into force. Further information on the notice that has to be served will be announced at [this page](https://go.gov.sg/re-align) when the Re-Align Framework comes into force. 
+
+
+<!--
 The rental relief framework is a separate and different relief regime under a different Part of the Act.
 
-Under the rental relief framework, eligible Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties.
+Under the rental relief framework, eligible Small and Medium NOT a Notice under the Re-Align FrameworkEnterprises (SMEs) and specified non-profit organisations (NPOs) can get up to 4 months waiver of rent for qualifying commercial properties and up to 2 months waiver of rent for industrial / office properties.
 
 Eligible tenant occupiers, seeking rental relief waivers <u>DO NOT need</u> to serve a Notification for Relief on their landlord. Please check if you fall within one of the following scenarios:
 
@@ -26,6 +34,9 @@ Eligible tenant occupiers, seeking rental relief waivers <u>DO NOT need</u> to s
 Apart from rental waivers, the rental relief framework also provides for an automatic moratorium on enforcement actions against tenant occupiers for non-payment of rent under the lease or licence agreement, as well as a statutory repayment plan for arrears. 
 
 Please click [here](https://www.mlaw.gov.sg/covid19-relief/rental-relief-framework-for-smes#eligibility) to find out if you are eligible for the rental waivers under the rental relief framework.  
+--> 
+
+
 
 <u>Relief for inability to perform contractual obligations</u>
 
@@ -36,12 +47,13 @@ The party seeking relief must serve a <b>Notification for Relief</b> on the foll
 * Any guarantor or surety for the obligation in the contract; and
 * The issuer of a performance bond or equivalent for the performance of the obligation, where the contract is a construction contract or supply contract (“<b>Issuer of Related Performance Bond</b>”).
 
-The Ministry of Law intends to extend the prescribed period, which currently lasts until 19 October 2020. Please take note of the following deadlines to serve a Notification for Relief after the prescribed period is extended: 
+Please take note of the following deadlines to serve a Notification for Relief: 
 
 | <b>Deadline to serve Notification for Relief</b> | <b>Categories of Contracts</b>
-| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Loans to SMEs secured by certain collateral in Singapore
-| <b>31 December 2020</b> | -- Event and tourism-related contracts <br>-- Options to purchase and sale and purchase agreements with developers
-| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore
+| <b>31 December 2020</b> | -- Event and tourism-related contracts 
+| <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles
+| <b>31 March 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase and sale and purchase agreements with developers  
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 

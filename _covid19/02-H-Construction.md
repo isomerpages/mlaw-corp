@@ -7,7 +7,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 ---
 
 ### Construction contracts or supply contracts, or any performance bond granted thereto ###
-<a name="31Marnote"><u>Important Note</u></a>: The Ministry of Law intends to extend the prescribed period for construction contracts or supply contracts from 19 October 2020 to 31 March 2021. The construction sector continues to face significant delays, due to work stoppages during the Circuit Breaker and reduced operating capacity because of the implementation of Safe Management Measures. The extension of the prescribed period will provide contractors with continued support as they adjust to new operating requirements, and also complement the Ministry of National Development’s and Building and Construction Authority’s relief measures for the sector. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+<a name="31Marnote"><u>Important Note</u></a>: The prescribed period for construction contracts or supply contracts has been extended from 19 October 2020 to 31 March 2021. The construction sector continues to face significant delays, due to work stoppages during the Circuit Breaker and reduced operating capacity because of the implementation of Safe Management Measures. The extension of the prescribed period provides contractors with continued support as they adjust to new operating requirements, and also complement the Ministry of National Development’s and Building and Construction Authority’s relief measures for the sector. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
 
 
 *	For more information about the relief under the Act for construction and supply contracts, please refer to the Ministry of Law and Building and Construction Authority’s joint statement on 20 April 2020, and the [FAQs on BCA’s website](https://www1.bca.gov.sg/docs/default-source/docs-corp-news-and-publications/faqs---covid19/faqs-commencement-covid19-temporary-measures-act-for-built-environment.pdf){:target="_blank"}.
@@ -37,3 +37,23 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 * Once the Notification for Relief has been served on the other party to the contract, the reliefs in FAQ (2) will apply.
 
+**4.  I am unable to perform my contract due to COVID-19, and have served a Notification for Relief on my counterparty.  Can my counterparty still call on my performance bond?**
+
+* If you are unable to perform your contractual obligation under the construction contract due to Covid-19, you may serve a Notification for Relief on the other party to the contract and the issues of the the performance bond.
+
+* Once you have served the Notification for Relief, the other party to the contract may not make a call on the performance bond in respect of the inability described in the Notification for Relief at any time earlier than: 
+
+  * 7 days before the date of expiry of the performance bond as stated in the bond; or 
+
+  * 7 days before the date of expiry of the performance bond as extended under the Act. 
+
+*	The above will cease to apply on the earliest of the following events: 
+	   * Upon the expiry of the prescribed period (i.e., after 31 March 2021)
+    
+    * The withdrawal of your Notification for Relief
+    
+    * If either party has made an Application for an Assessor’s Determination, the making of the Assessor’s Determination that you do not meet the requirements under the Act.
+    
+*	Additionally, section 6(3) allows you to make an application to extend the term of the bond to the issuer of the bond. This must be done not less than 7 days before the expiry of the bond. A notice of the application (to extend the term of the bond) must also be served on the other parties to the construction contract at the same time.  
+
+* Once you have done the above, section 6(3) of the Act provides that the term of the bond will be extended under the Act to a date 7 days after the end of the prescribed period (i.e., extended to 7 April 2021) or such other date agreed between you, the other parties to the construction contract, and the issuer of the bond.
