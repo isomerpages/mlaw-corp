@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Loans by banks and finance companies to Singapore SMEs ###
 
-<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for loans by banks and finance companies to Singapore SMEs has been extended from 19 October 2020 to 19 November 2020.  Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for loans by banks and finance companies to Singapore SMEs ended on 19 November 2020. The reliefs described on this page has expired.   
 
 #### General FAQs ####
 **1. What kinds of loans are covered?**
