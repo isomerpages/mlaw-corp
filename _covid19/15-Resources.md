@@ -12,6 +12,7 @@ breadcrumb: Resources
 For an overview of how the Act applies to each type of contract covered, please click [here](/covid19-relief/temporary-relief-from-inability-to-perform-contract).
 
 For press releases on the Act, please click on the following links:
+* [Further Extension of Relief Periods under the COVID-19 (Temporary Measures) Act for Specified Contracts](/news/press-releases/Further-Extension-of-Relief-Periods-under-the-COVID-19-Temporary-Measures-Act-for-Specified-Contracts)
 * [Temporary Relief for Inability to Perform Contractual Obligations due to COVID-19 Situation](/news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation)
 * [COVID-19 (Temporary Measures) Act Provisions relating to Temporary Reliefs to Commence on 20 April 2020](/news/press-releases/2020-04-20-COVID-19-Temporary-Measures-Act-Provisions-relating-to-Temporary-Reliefs-to-Commence-on-20-April-2020)
 * [Enhancements to the COVID-19 (Temporary Measures) Act to Cover Two New Contracts and Prohibit Unilateral Increase of Charges](/news/press-releases/Enhancements-to-the-COVID-19-Temporary-Measures-Act-to-Cover-Two-New-Contracts)
