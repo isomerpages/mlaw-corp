@@ -20,7 +20,7 @@ third_nav_title: '1C. Application for an Assessor’s Determination'
 | <b>31 March 2021</b> | -- Sale and puchase agreements with developers* 
 | <b>31 May 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase with developers 
 
-\* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. **Pending applications as at the deadline will be deemed withdrawn.** For the avoidance of doubt, pending applications include (i) Applications where the Registrar has not yet appointed an Assessor; and (ii) Applications where an Assessor has been appointed, but that Assessor has not yet made a determination.  
+\* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. 
 
 **2.	Who are the Assessors?**
 *	The Assessors are qualified lawyers, public accountants, chartered accountants with at least 3 years’ working experience, or persons who have at least 3 years working experience in or relating to law, accountancy, finance, business management, building and construction or architecture. 
