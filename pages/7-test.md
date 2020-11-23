@@ -37,7 +37,8 @@ you may file a **Memorandum of Notice of Negotiation /Notice of Revision*** to t
 ### Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation ###
 
 There are three circumstances in which you have to update the court or arbitration tribunal of the withdrawal of a Notice, namely: 
-| **No.** | **Circumstances in which the court or arbitration tribunal has to be updated on the withdrawal of a Notice**
+
+|**No.** | **Circumstances in which the court or arbitration tribunal has to be updated on the withdrawal of a Notice**
 | 1 | Where:<br>--You had previously lodged a Notice of Negotiation with the court or arbitral tribunal; and<br>--You have withdrawn that Notice of Negotiation by serving a Notice of Withdrawal on the relevant parties. 
 | 2 | Where:<br>--You, or the other party to the contract, had previously lodged a Notice of Negotiation with the court or arbitral tribunal; <br>--You subsequently lodged a Notice for Adjustment with the adjustment relief Registrar (“**Registrar**”) and served the Notice of Adjustment on the relevant parties;<br>--You have withdrawn that Notice for Adjustment by lodging the Notice of Withdrawal with the Registrar and serving the Notice of Withdrawal on the relevant parties, <u>and</u><br>--The Notice of Adjustment that you withdrew is the only Notice for Adjustment which was lodged, or the last Notice of Adjustment to be withdrawn.  
 | 3 | Where:<br>--The other party to the contract had previously lodged a Notice of Negotiation with the court or arbitral tribunal; <br>--You had previously lodged a Notice of Compensation with the Registrar and served the Notice of Compensation on the relevant parties;<br>--You have withdrawn that Notice of Compensation by lodging the Notice of Withdrawal with the Registrar and serving the Notice of Withdrawal on the relevant parties, and<br>--No Notice of Objection or no Notice of Adjustment have been served and lodged. 
