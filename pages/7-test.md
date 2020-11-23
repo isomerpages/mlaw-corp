@@ -47,4 +47,11 @@ If you are in either of the three circumstances above, you must submit a **Memor
 
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
 
+### Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor ###
+
+There are three circumstances in which you have to update the court or arbitration tribunal of the status of proceedings before the adjustment relief Assessor (“Assessor”), namely: 
+
+If you are in either of the three circumstances above, you must submit a **Notification of Status of Proceedings before Adjustment Relief Assessor*** to the court or arbitral tribunal within 2 working days after the date the Registrar sends the notice of appointment of the Assessor, or after the conclusion of proceedings before the Assessor. 
+
+***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
 
