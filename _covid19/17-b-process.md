@@ -12,6 +12,7 @@ This page also provides details for landlords who intend to seek landlord hardsh
 Please note that all information or documents disclosed by you or the other person for the purpose of the Framework or the proceedings before the Adjustment Relief Assessor are confidential and must not be disclosed to any third parties.
 
 This page includes the following sections:
+
 Step 1: Claimant serves Notice of Negotiation  
 Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period  
 Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation 
@@ -31,14 +32,14 @@ FAQs
 **Diagram - to upload**
   
 #### Step 1: Claimant serves Notice of Negotiation ####
-An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Claimant”) within 6 weeks from 14 December 2020 (i.e. by 25 January 2021), on the following Recipient(s), where applicable:
+An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Claimant”) within **6 weeks** from 14 December 2020 **(i.e. by 25 January 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Counterparty”). 
 * The Claimant’s guarantor or surety, or the issuer of a performance bond, in relation to the Claimant’s obligations under the contract.
 * Any assignee of any party to the contract.  
   
 <u>Service by the electronic system</u>
 
-To serve the Notice of Negotiation using the electronic system, you must have an email address, as well as the email address(es) of the Recipient(s):
+To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
 *	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
 *	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
 
