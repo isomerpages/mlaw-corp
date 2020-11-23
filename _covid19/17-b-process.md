@@ -1,7 +1,7 @@
 ---
-title: Re-Align Framework
+title: 2. Process for Renegotiation of Contract Terms and Termination of Contract
 permalink: /covid19-relief/test2
-breadcrumb: Proces for Renegotiation of Contract Terms and Termination of Contract
+breadcrumb: Process for Renegotiation of Contract Terms and Termination of Contract
 ---
 
 ### Process for Renegotiation of Contract Terms and Termination of Contract ###
