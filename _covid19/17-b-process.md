@@ -136,9 +136,10 @@ Where the Claimant is a tenant who has served a Notice of Negotiation on his lan
 * Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. 
 
 <u>Submission and service by the electronic system</u> 
+
 To submit to the Registrar and serve the Notice for Compensation on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-•	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
-•	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
+* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
+* If you are an individual who is a party to the contract, please use this link* (SingPass). 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
 ##### (C) Counterparty does not object to Claimant’s eligibility for relief #####
