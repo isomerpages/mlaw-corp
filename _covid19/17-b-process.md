@@ -54,3 +54,24 @@ Only if you are unable to serve the Notice of Negotiation using the electronic s
 <u>Changes to Notice of Negotiation</u>
 You should ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a Notice of Withdrawal and then serve a new Notice of Negotiation (which must be done by 25 January 2021).
 
+##### Moratorium #####
+To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Claimant serves a Notice of Negotiation, the Counterparty will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Claimant for his failure to perform any contractual obligation due to be performed from the day the Notice of Negotiation is served. 
+
+For the avoidance of doubt, the Counterparty is not prohibited from taking legal and enforcement actions in relation to the Claimant’s failure to perform any contractual obligations due to be performed before the day the Notice of Negotiation is served (e.g. outstanding rent). 
+
+Broadly, the prohibition will end on the earliest of the following: 
+
+(a)	On the expiry of 8 weeks after the Notice of Negotiation is served, if no other Notices including the Notice of Objection are served and lodged; 
+
+(b)	If some other Notice (such as a Notice of Objection) has been validly served and lodged, 
+
+(ii)	The day the Notice of Negotiation is withdrawn; 
+
+(iii)	The day the only or last Notice for Adjustment is withdrawn; 
+
+(iv)	The day the Notice of Compensation is withdrawn, if no Notice of Objection or no Notice for Adjustment are served and lodged; 
+
+(v)	Where the adjustment relief Registrar determines that no adjustment relief assessor needs to be appointed; 
+
+(vi)	The day on which an Assessor has made all the determination required to be made in relation to the Notice of Negotiation. 
+
