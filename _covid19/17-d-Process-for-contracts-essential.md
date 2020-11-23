@@ -40,3 +40,6 @@ An **<u>eligible party</u>** <hyperlink to (1) Key Features of Re-Align Framewor
 * The Claimant’s guarantor or surety, or the issuer of a performance bond, in relation to the Claimant’s obligations under the contract.
 * Any assignee of any party to the contract.  
 
+**<u>Service by the electronic system</u>**
+
+To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
