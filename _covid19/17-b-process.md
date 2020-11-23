@@ -227,7 +227,7 @@ The Registrar may publish the facts of the case, the arguments and the determina
 ##### Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice of Compensation #####
 Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
 
-|Type of Notice you are withdrawing | Recipient(s) on whom you must serve Notice of Withdrawal
+|**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal**
 | Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>-The other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice of Adjustment <br>(s 48(4)) | - The other parties to the contract; and <br>- Any assignee to any party to the contract. 
