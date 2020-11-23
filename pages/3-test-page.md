@@ -82,6 +82,7 @@ At the end of the **4-week Negotiation Period**, the two possible outcomes are:
 * Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
 
 A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
+
 If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or the amended repayment schedule. The Counterparty does not need to serve a Notice of Objection in this situation. 
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Counterparty or his assignee.
