@@ -1,5 +1,36 @@
 ---
-title: 7. Process for Contracts 
+title: 7. PENDING COURT OR ARBITRATION PROCEEDINGS
 permalink: /covid19-relief/test7
-breadcrumb: 7. Process for Contracts 
+breadcrumb: 7. PENDING COURT OR ARBITRATION PROCEEDINGS
 ---
+## PENDING COURT OR ARBITRATION PROCEEDINGS ##
+
+**This page provides information on what you should do if you have pending Court or arbitration proceedings against you for issues related to your Notice of Negotiation/Notice of Revision.**
+
+If you qualify for the relief of renegotiation, and you have served a Notice of Negotiation on the other party, the other party is prohibited from taking certain legal and enforcement actions (e.g. commencing court or arbitration proceedings) against you, in relation your failure to perform any obligation due to be performed from the date of service of the Notice of Negotiation (“subsequent failure”). 
+
+On the other hand, if you qualify for relief under the Repayment Scheme for hire-purchase and equipment rental contracts and you have served a Notice of Revision on your financing or leasing company, your financing/ leasing company is prohibited from taking certain legal and enforcement actions (e.g. commencing court or arbitration proceedings) against you, in respect of your failure to pay any outstanding amounts due on or after 1 February 2020 to the date before the Notice of Revision (“accrued arrears”).  
+
+The following procedures may be applicable to you if you have served or been served with a Notice of Negotiation or Notice of Revision:
+
+Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts 
+Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation 
+Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor 
+
+
+Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts 
+Where: 
+* You have served a Notice of Negotiation or Notice of Revision on the relevant parties; and
+
+*	Either: 
+
+  a.	There are any pending court or arbitral proceedings in relation the the subsequent failure (as defined above) at the time when you served the Notice of Negotiation, or in relation to the accrued arrears (as defined above) at the time when you served the Notice of Revision; or 
+
+  b.	such proceedings are commenced after you have served the Notice of Negotiation or Notice of Revision, 
+  
+  
+you may file a **Memorandum of Notice of Negotiation /Notice of Revision*** to the relevant court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.
+
+***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
+
+
