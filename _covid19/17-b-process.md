@@ -95,7 +95,7 @@ If parties have successfully renegotiated the terms of their contract by the end
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are three courses of action for the Counterparty or his assignee: 
 
-#### (A) Counterparty objects to Claimant’s eligibility for relief ####
+##### (A) Counterparty objects to Claimant’s eligibility for relief #####
 If the Counterparty or his assignee wishes to dispute the Claimant’s eligibility for relief under the Framework, within the **2-week Objection Period**, he must serve a Notice of Objection on the required parties and lodge the Notice of Objection with the Adjustment Relief Registrar. 
 
 The Counterparty or his assignee may <u>only</u> object to the Claimant’s Notice of Negotiation on any one or more of the following grounds:
@@ -122,7 +122,7 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 
 If the Counterparty or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
 
-#### (B) Counterparty is a landlord who wishes to seek compensation from the Claimant ####
+##### (B) Counterparty is a landlord who wishes to seek compensation from the Claimant #####
 Where the Claimant is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord] <hyperlink to (1) Key Features of Re-Align Framework> who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice of Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
 •	The tenant who served the Notice of Negotiation; and
 •	Any other parties to the lease or licence, including any other landlords or any other tenants. 
@@ -138,7 +138,7 @@ To submit to the Registrar and serve the Notice for Compensation on the Recipien
 •	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
-#### (C) Counterparty does not object to Claimant’s eligibility for relief ####
+##### (C) Counterparty does not object to Claimant’s eligibility for relief #####
 Where the Counterparty accepts that the Claimant is eligible for relief under the Framework, he does <u>not</u> need to serve and lodge a Notice of Objection. If no Notice of Objection is served and lodged during the **2-week Objection Period**, the contract is deemed terminated **<u>2 days</u>** after the end of the 2-week Objection Period or on a date agreed between all the parties to the contract. 
 If the parties are unable to agree on the terms of termination under the contract, please refer to **Step 4** below regarding the lodgment and service of the Notice for Adjustment after the end of the **2-week Objection Period** in this situation. 
 
