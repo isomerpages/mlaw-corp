@@ -54,6 +54,3 @@ Only if you are unable to serve the Notice of Negotiation using the electronic s
 <u>Changes to Notice of Negotiation</u>
 You should ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a Notice of Withdrawal and then serve a new Notice of Negotiation (which must be done by 25 January 2021).
 
-* Bullet A
-              * sub-bullet A
-* Bullet B
