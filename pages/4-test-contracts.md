@@ -136,7 +136,8 @@ The Registrar may publish the facts of the case, the arguments and the determina
 
 Where any party who has lodged and served a Notice for Repricing wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable.
 
-[TABLE]
+|**Type of Notice you are withdrawing** | **Recipients(s) whom you must serve the Notice of Withdrawal**
+| Notice for Repricing (s. 62) | -The other parties to the contract; and <br>-Any assignee to any party to the contract.
 
 <u>Submission and service by the electronic system</u>
 
