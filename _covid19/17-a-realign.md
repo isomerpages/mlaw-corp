@@ -14,7 +14,7 @@ Small Businesses and individuals who have been significantly impacted by COVID-1
 
 The Framework will provide a quick and fair way for businesses to realign their contracts with current business conditions by allowing selected contracts to be renegotiated by way of a mutual agreement with the counterparties. If they are unable to agree, the contract may be terminated. Businesses will remain liable for outstanding obligations but will not need to pay early termination penalties.
 
-I am / have / want:
+#### I am / have / want: ####
 1.	I am new here and I want to know what the Re-Align Framework is about and whether it applies to me. 
 
 Please refer to (1) Key Features of Re-Align Framework <hyperlink> for an overview. 
