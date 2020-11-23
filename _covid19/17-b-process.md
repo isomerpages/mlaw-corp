@@ -189,5 +189,21 @@ After the determination(s) on the above issues have been made, if the Claimant i
 
 If the Registrar does not hear from the parties **<u>within 7 days</u>** from the date of the determination(s), the Registrar will proceed to appoint Assessor(s) to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
 
+<u>Where no Notice of Objection and/or Notice of Compensation, and only Notice for Adjustment is lodged</u>
+Where the Counterparty or his assignee has not lodged a Notice of Objection and/or Notice of Compensation and only a Notice for Adjustment is lodged, the Registrar need not appoint an Assessor to make a determination on the Claimant’s  eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
+
+<u>Mode of hearing</u>
+The hearing will generally be conducted <u>over email</u>. The Assessor(s) may request for clarifications or further documents by email.
+If the Assessor(s) is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
+* Online hearings will be conducted via Webex.
+* Physical hearings will be held at a venue to be advised by the Registrar.
+
+Please note for online or physical hearings:
+*	The Assessor(s) may permit a party to be accompanied by an interpreter at the hearing. The party will be responsible for sourcing their own interpreter.
+*	No party may be represented by an advocate and solicitor at proceedings before Assessor(s).
+
+If a party to a determination is <u>absent</u> from the hearing, the Assessor(s) may deem that the party (or that party’s assignee who was absent) has withdrawn the Notice lodged by him; or make a determination on the case.
+
+If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See [here]() <hyperlink to (6) Assessor’s Determinations>
 
 
