@@ -102,7 +102,7 @@ To object to the Notice of Revision, the Counterparty must lodge the Notice of O
 * The Claimant;
 * Any other party to the contract;
 * The Claimant’s guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
-•	Any assignee of any party to the contract. 
+*	Any assignee of any party to the contract. 
 
 
 <u>Submission and service by the electronic system</u> 
