@@ -167,11 +167,14 @@ Where any party who has lodged and served a Notice of Objection wishes to withdr
 |**Type of Notice you are withdrawing** | **Recipients(s) whom you must serve the Notice of Withdrawal**
 | Notice of Objection (s. 55) | - The party who served the Notice of Revision on you; <br>-The other parties to the contract; and <br>-Any assignee to any party to the contract.
 
-Submission and service by the electronic system 
+<u>Submission and service by the electronic system</u>
+
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this link*  (CorpPass).
+* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass).
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
 Please note if you have lodged and/or served more than one Notice of Objection, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw.
+
+#### FAQs ####
