@@ -81,3 +81,21 @@ If parties have successfully renegotiated the terms of their contract by the end
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Counterparty or his assignee.
 
+
+##### <a name="step3a">(A): Counterparty objects to Claimant’s Notice of Revision </a> #####
+If the Counterparty or his assignee wishes to object to the Claimant’s Notice of Revision, he or she must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. 
+
+The Counterparty or his assignee may <u>only</u> object to the Claimant’s Notice of Revision on any one or more of the following grounds:
+
+* The contract in question is not a hire-purchase or conditional sales agreement or a lease of commercial equipment. 
+* the Claimant does not satisfy the eligibility criteria for relief.
+* the Notice of Revision was not served in accordance with Section 53 of the Act.
+* The Claimant’s proposed repayment schedule does not meet the requirements in Section 53(4)(a)-(d) of the Act. 
+
+To object to the Notice of Revision, the Counterparty must lodge the Notice of Objection with the Registrar and serve the Notice of Objection on the following persons **within the 2-week Objection Period** on the following Recipient(s), where applicable:
+* The Claimant;
+* Any other party to the contract;
+* The Claimant’s guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
+•	Any assignee of any party to the contract. 
+
+
