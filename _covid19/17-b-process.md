@@ -108,3 +108,27 @@ To object to the Notice of Negotiation, the Counterparty must lodge the Notice o
 * Any other party to the contract; 
 * The Claimant’s a guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
 ** Any assignee of any party to the contract.
+
+The following documents must be attached to the Notice of Objection:
+* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation. 
+* All supporting documents to support the Counterparty’s Reasons for objecting to the Claimant’s eligibility under the Re-Align Framework.
+
+<u>Submission and service by the electronic system</u> 
+To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
+•	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
+•	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
+
+***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+If the Counterparty or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
+
+#### (B) Counterparty is a landlord who wishes to seek compensation from the Claimant ####
+Where the Claimant is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord] <hyperlink to (1) Key Features of Re-Align Framework> who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice of Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
+•	The tenant who served the Notice of Negotiation; and
+•	Any other parties to the lease or licence, including any other landlords or any other tenants. 
+
+**Note**: The **2-week Objection Period** is the same period in which the Landlord must lodge and serve the Notice of Objection, if applicable. 
+
+* If the landlord wishes to dispute the tenant’s eligibility for relief but at the same time wishes to obtain compensation from the tenant if the contract is ultimately terminated, the landlord must lodge and serve both a Notice of Objection and a Notice for Compensation within the **2-week Objection Period**. 
+* Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. 
+
