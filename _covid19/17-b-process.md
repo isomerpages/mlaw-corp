@@ -236,10 +236,14 @@ Where any party who has lodged and served Notice of Negotiation*, Notice of Obje
 *(*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee, and you do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.)
 
 <u>Submission and service by the electronic system</u> 
-To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you <u>must have</u> an email address, as well as the email address(es) of the Recipient(s):
+
+To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
 
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass).
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
 Please note if you have filed and/or served more than one Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw. 
+
+#### FAQs ####
+
