@@ -19,7 +19,7 @@ breadcrumb: Key Features of Re-Align Framework
 
 <a href="#faq" id="f1">FAQs</a> 
  
-### Eligibility Criteria ###
+### <a name="1eligiblity">Eligibility Criteria</a> ###
 
 To be eligible for any type of relief under the Re-Align Framework (“the Framework”):
 
@@ -33,7 +33,7 @@ If you commenced business on or after 1 July 2019, please refer to here <hyperli
 
 The Framework covers individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) if they satisfy the above criteria. 
 
-### Renegotiation of Contractual Terms and Termination of Contract ###
+### <a name="2Renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> ###
 
 The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found here. <hyperlink to PDF of infographic>
 
@@ -82,7 +82,7 @@ If the parties do not dispute the termination under the Framework but are unable
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>.
 
-### Contracts Affecting Essential Services and National Interest ###
+### <a name="3Contracts">Contracts Affecting Essential Services and National Interest</a> ###
 
 Where a contract:
 
@@ -99,7 +99,7 @@ If you are a party to a Contract of National Interest and wish to renegotiate th
 
 For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer here <hyperlink to (4) Process relating to contracts affecting essential services and national interest>
 
-### Landlord Hardship Relief ###
+### <a name="4landlord">Landlord Hardship Relief</a> ###
 
 Eligible small landlords will receive compensation in the event of an early lease termination by a tenant under the Framework. The amount of the compensation will be determined by an Assessor.
 
@@ -119,7 +119,7 @@ If you are a landlord who has been served with the Notice of Negotiation and you
 
 For more details on how to serve and lodge a Notice for Compensation, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>
 
-### Repayment Scheme for Hire-Purchase and Equipment Rental Contracts ###
+### <a name="5Repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> ###
 
 As an alternative to contract termination, the Framework will provide an option for eligible hirers and renters of commercial equipment and vehicles to pay outstanding arrears in instalments. 
 
@@ -139,6 +139,6 @@ If you think you are an eligible hirer or renter, please serve the **Notice for 
 
 For more details on how to serve a Notice for Revision, please refer here <hyperlink to (3) Process for repayment scheme for hire-purchase and equipment rental contracts>
 
-### FAQs ###
+### <a name="faqs">FAQs</a> ###
 
 
