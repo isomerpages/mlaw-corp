@@ -233,7 +233,7 @@ Where any party who has lodged and served Notice of Negotiation*, Notice of Obje
 | Notice of Adjustment <br>(s 48(4)) | - The other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice of Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; and<br>- The other parties to the contract. 
 
-(*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee, and you do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.)
+*(*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee, and you do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.)
 
 <u>Submission and service by the electronic system</u> 
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you <u>must have</u> an email address, as well as the email address(es) of the Recipient(s):
