@@ -11,15 +11,15 @@ breadcrumb: Key Features of Re-Align Framework
 
 <a href="#2renogtiation" id="s2">Renegotiation of Contractual Terms and Termination of Contracts</a>
 
-<a href="#3contracts" id="s2">Contracts Affecting Essential Services and National Interest</a>
+<a href="#3contracts" id="s3">Contracts Affecting Essential Services and National Interest</a>
 
-<a href="#4landlord" id="s2">Landlord Hardship Relief</a>
+<a href="#4landlord" id="s4">Landlord Hardship Relief</a>
 
-<a href="#5repayment" id="s2">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a>
+<a href="#5repayment" id="s5">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a>
 
 <a href="#faq" id="f1">FAQs</a> 
  
-### <a name="1eligiblity">Eligibility Criteria</a> ###
+### <a name="1eligiblity">Eligibility Criteria</a> <a href="#s1" title="Return to top">↩</a> ###
 
 To be eligible for any type of relief under the Re-Align Framework (“the Framework”):
 
@@ -33,7 +33,7 @@ If you commenced business on or after 1 July 2019, please refer to here <hyperli
 
 The Framework covers individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) if they satisfy the above criteria. 
 
-### <a name="2Renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> ###
+### <a name="2Renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
 
 The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found here. <hyperlink to PDF of infographic>
 
@@ -82,7 +82,7 @@ If the parties do not dispute the termination under the Framework but are unable
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>.
 
-### <a name="3Contracts">Contracts Affecting Essential Services and National Interest</a> ###
+### <a name="3Contracts">Contracts Affecting Essential Services and National Interest</a> <a href="#s3" title="Return to top">↩</a> ###
 
 Where a contract:
 
@@ -99,7 +99,7 @@ If you are a party to a Contract of National Interest and wish to renegotiate th
 
 For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer here <hyperlink to (4) Process relating to contracts affecting essential services and national interest>
 
-### <a name="4landlord">Landlord Hardship Relief</a> ###
+### <a name="4landlord">Landlord Hardship Relief</a> <a href="#s4" title="Return to top">↩</a> ###
 
 Eligible small landlords will receive compensation in the event of an early lease termination by a tenant under the Framework. The amount of the compensation will be determined by an Assessor.
 
@@ -119,7 +119,7 @@ If you are a landlord who has been served with the Notice of Negotiation and you
 
 For more details on how to serve and lodge a Notice for Compensation, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>
 
-### <a name="5Repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> ###
+### <a name="5Repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
 
 As an alternative to contract termination, the Framework will provide an option for eligible hirers and renters of commercial equipment and vehicles to pay outstanding arrears in instalments. 
 
@@ -139,6 +139,6 @@ If you think you are an eligible hirer or renter, please serve the **Notice for 
 
 For more details on how to serve a Notice for Revision, please refer here <hyperlink to (3) Process for repayment scheme for hire-purchase and equipment rental contracts>
 
-### <a name="faqs">FAQs</a> ###
+### <a name="faqs">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
 
