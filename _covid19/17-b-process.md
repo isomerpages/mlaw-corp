@@ -43,4 +43,5 @@ To serve the Notice of Negotiation using the electronic system, you must have an
 
 ** *IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
-To register for a SingPass or CorpPass, please visit https:www.singpass.gov.sg or https://www.corppass.gov.sg , respectively. 
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+
