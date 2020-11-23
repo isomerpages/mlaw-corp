@@ -148,7 +148,7 @@ Where the Counterparty accepts that the Claimant is eligible for relief under th
 If the parties are unable to agree on the terms of termination under the contract, please refer to **Step 4** below regarding the lodgment and service of the Notice for Adjustment after the end of the **2-week Objection Period** in this situation. 
 
 #### Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for Adjustment ####
-Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to here <hyperlink to PDF of infographic for default consequences> for more information. 
+Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to here <hyperlink> for more information. 
   
 If the parties do not agree with the default terms and are unable to agree on the terms of termination between themselves, the Claimant, the Counterparty or the Counterparty’s assignee may seek an Assessor’s determination on the adjustment of rights and obligations under the contract on a just and fair basis. 
 
@@ -162,6 +162,7 @@ The Notice for Adjustment must be accompanied by the following documents:
 * All supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
 
 <u>Submission and service by the electronic system</u> 
+
 To submit to the Registrar and serve the **Notice for Adjustment** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
 * If you are acting on behalf of an entity that is a party to the contract, please use this link*(CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass).
@@ -171,7 +172,7 @@ To submit to the Registrar and serve the **Notice for Adjustment** on the Recipi
 #### Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment ####
 The Registrar will review the Notice of Objection / Notice of Compensation / Notice for Adjustment. 
 
-If the Registrar is satisfied that the Notice of Objection / Notice for Adjustment / Notice for Compensation is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by <u>way of email</u>:
+If the Registrar is satisfied that the Notice of Objection / Notice for Adjustment / Notice for Compensation is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by **way of email**:
 
 * An acknowledgment of receipt of the Notice of Objection / Notice for Adjustment / Notice for Compensation, as the case may be.
 * A notice of the appointment of one or more Assessors.
@@ -188,16 +189,20 @@ If the Registrar refuses to accept lodgment of a Notice of Objection or the Noti
 Where the Counterparty or his assignee has lodged a Notice of Objection and/or Notice of Compensation and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
 
 * The Claimant’s eligibility for relief under the Framework and the date of termination of the contract if the Claimant is eligible (in respect of a Notice of Objection) and/or 
-* The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice of Compensation), without making a determination on the adjustment of rights and obligations under the contract. 
+* The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice of Compensation), 
+
+<u>without</u> making a determination on the adjustment of rights and obligations under the contract. 
 
 After the determination(s) on the above issues have been made, if the Claimant is determined to be eligible and the contract is terminated, the parties are encouraged to negotiate and agree on the adjustment of rights and obligations under the contract. If an agreement is reached, the parties should inform the Registrar **<u>within 7 days</u>** from the date of the determination(s). 
 
 If the Registrar does not hear from the parties **<u>within 7 days</u>** from the date of the determination(s), the Registrar will proceed to appoint Assessor(s) to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
 
 <u>Where no Notice of Objection and/or Notice of Compensation, and only Notice for Adjustment is lodged</u>
+
 Where the Counterparty or his assignee has not lodged a Notice of Objection and/or Notice of Compensation and only a Notice for Adjustment is lodged, the Registrar need not appoint an Assessor to make a determination on the Claimant’s  eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
 
 <u>Mode of hearing</u>
+
 The hearing will generally be conducted <u>over email</u>. The Assessor(s) may request for clarifications or further documents by email.
 If the Assessor(s) is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
 * Online hearings will be conducted via Webex.
@@ -209,7 +214,7 @@ Please note for online or physical hearings:
 
 If a party to a determination is <u>absent</u> from the hearing, the Assessor(s) may deem that the party (or that party’s assignee who was absent) has withdrawn the Notice lodged by him; or make a determination on the case.
 
-If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See [here]() <hyperlink to (6) Assessor’s Determinations>
+If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See [here](). <hyperlink>
 
 
 #### Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination ####
