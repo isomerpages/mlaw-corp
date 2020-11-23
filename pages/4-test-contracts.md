@@ -14,21 +14,14 @@ breadcrumb: 4. Process for Contracts
 
 **This page includes the following sections**:
 
-Step 1: Claimant serves Notice of Negotiation for Contract of National Interest <hyperlink>
-
-Step 2:  Claimant and Counterparty renegotiate contract during 4-week Negotiation Period <hyperlink>
-
-Step 3: End of Negotiation Period and Start of Repricing Period <hyperlink>
-
-Step 4: Case proceeds to an Assessor <hyperlink>
-
-Step 5: Assessor Conducts Hearing and Makes Determination <hyperlink>
-
-Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination <hyperlink>
-
-Withdrawal of Notice of Repricing <hyperlink>
-
-FAQs <hyperlink>
+<a href="#step1" id="s1">Step 1: Claimant serves Notice of Negotiation for Contract of National Interest</a>
+<a href="#step2" id="s2">Step 2:  Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a>
+<a href="#step3" id="s3">Step 3: End of Negotiation Period and Start of Repricing Period</a>
+<a href="#step4" id="s4">Step 4: Case proceeds to an Assessor</a>
+<a href="#step5" id="s5">Step 5: Assessor Conducts Hearing and Makes Determination</a>
+<a href="#step6" id="s6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a>
+<a href="#step6a" id="s6a">Withdrawal of Notice of Repricing</a>
+<a href="#faq" id="f1">FAQs</a>
   
 DIAGRAM - JPEG HERE
 
