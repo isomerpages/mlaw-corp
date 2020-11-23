@@ -28,7 +28,7 @@ If you commenced business on or after 1 July 2019, please refer to here <hyperli
 
 The Framework covers individuals carrying on business or trade (e.g. freelancers) and non-profit organisations (e.g. registered or exempt charities, co-operative societies, arts and culture societies, trade associations) if they satisfy the above criteria. 
 
-### <a name="2Renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
+### <a name="2renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
 
 The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found here. <hyperlink to PDF of infographic>
 
@@ -77,7 +77,7 @@ If the parties do not dispute the termination under the Framework but are unable
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>.
 
-### <a name="3Contracts">Contracts Affecting Essential Services and National Interest</a> <a href="#s3" title="Return to top">↩</a> ###
+### <a name="3contracts">Contracts Affecting Essential Services and National Interest</a> <a href="#s3" title="Return to top">↩</a> ###
 
 Where a contract:
 
@@ -114,7 +114,7 @@ If you are a landlord who has been served with the Notice of Negotiation and you
 
 For more details on how to serve and lodge a Notice for Compensation, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>
 
-### <a name="5Repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
+### <a name="5repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
 
 As an alternative to contract termination, the Framework will provide an option for eligible hirers and renters of commercial equipment and vehicles to pay outstanding arrears in instalments. 
 
