@@ -27,7 +27,7 @@ This page includes the following sections:
 
 **Diagram - to insert**
 
-#### Step 1: Claimant serves Notice of Revision ####
+#### <a name="step1">Step 1: Claimant serves Notice of Revision</a> ####
 The following [eligible parties](key-features) below who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Claimant”) must serve a Notice of Revision.
 
 (a)	a hirer under a hire-purchase or conditional sales agreement for commercial equipment; or commercial vehicle, which is not entered into with a bank, or with a finance company under the Finance Companies Act (Cap. 108); or
@@ -39,5 +39,45 @@ The Notice of Revision must be served within 6 weeks from 14 December 2020 (i.e.
 * The guarantor or surety, or the issuer of a performance bond, in relation to the Claimant’s obligations under the contract. 
 * Any assignee of any party to the contract. 
 
+<u>Service by the electronic system</u>
 
+To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
+
+•	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
+•	If you are an individual who is a party to the contract, please use this link* (SingPass). 
+
+***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+
+<u>Service by other modes if you are unable to use the electronic system</u>
+
+Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-of-service).
+***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.** 
+
+##### Moratorium #####
+To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Claimant serves a Notice of Revision, the Counterparty will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Claimant for his non-payment of any amount mentioned in section 53(4)(a) of the Act or any interest or other charge (however described) on that amount.
+
+Broadly, the prohibition will end on the earliest of the following: 
+(a) On the expiry of 6 weeks after the Notice of Revision is served, if a Notice of Objection is not served and lodged.
+(b) If a Notice of Objection is validly served and lodged within the 6 weeks, the day on which the Notice of Objection is withdrawn after the expiry of the 6 weeks. 
+(c) The day on which an Assessor has made all the determinations required to be made in relation to the Notice of Revision. 
+
+For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){_target="_blank"}.  
+
+#### <a name="step2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> ####
+
+From the date of the Notice of Revision, there will be a **4-week Negotiation Period** during which the Claimant and the Counterparty are encouraged to renegotiate the repayment schedule for any outstanding payments owed by the Claimant to the Counterparty, or the terms of the contract, where applicable. 
+
+During this Negotiation Period, the Counterparty cannot file a Notice of Objection. 
+
+#### <a name="step3">Step 3: Counterparty lodges and serves Notice of Objection during the 2-week Objection Period</a> ####
+At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
+•	Parties have successfully renegotiated the terms of their contract and/or the repayment schedule for outstanding payments. 
+•	Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
+
+A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
+If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or the amended repayment schedule. The Counterparty does not need to serve a Notice of Objection in this situation. 
+
+In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Counterparty or his assignee.
 
