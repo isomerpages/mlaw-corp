@@ -18,7 +18,7 @@ Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compens
 Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor 
 
 
-Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts 
+### Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts ###
 Where: 
 * You have served a Notice of Negotiation or Notice of Revision on the relevant parties; and
 
@@ -32,5 +32,14 @@ Where:
 you may file a **Memorandum of Notice of Negotiation /Notice of Revision*** to the relevant court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.
 
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
+
+
+### Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation ###
+
+There are three circumstances in which you have to update the court or arbitration tribunal of the withdrawal of a Notice, namely: 
+| **No.** | **Circumstances in which the court or arbitration tribunal has to be updated on the withdrawal of a Notice**
+| 1 | Where:<br>--You had previously lodged a Notice of Negotiation with the court or arbitral tribunal; and<br>--You have withdrawn that Notice of Negotiation by serving a Notice of Withdrawal on the relevant parties. 
+| 2 | Where:<br>--You, or the other party to the contract, had previously lodged a Notice of Negotiation with the court or arbitral tribunal; <br>--You subsequently lodged a Notice for Adjustment with the adjustment relief Registrar (“**Registrar**”) and served the Notice of Adjustment on the relevant parties; 
+
 
 
