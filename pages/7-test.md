@@ -13,12 +13,12 @@ On the other hand, if you qualify for relief under the Repayment Scheme for hire
 
 The following procedures may be applicable to you if you have served or been served with a Notice of Negotiation or Notice of Revision:
 
-Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts 
-Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation 
-Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor 
+<a href="#1lodging" id="s1">Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts</a> 
+<a href="#2withdrawal" id="s2">Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation</a> 
+<a href="#3submitting" id="s3">Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor</a> 
 
 
-### Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts ###
+### <a name="1lodging">Lodging a Memorandum of Notice of Negotiation / Notice of Revision with the State Courts</a> <a href="#s1" title="Return to top">↩</a> ###
 Where: 
 * You have served a Notice of Negotiation or Notice of Revision on the relevant parties; and
 
@@ -34,7 +34,7 @@ you may file a **Memorandum of Notice of Negotiation /Notice of Revision*** to t
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
 
 
-### Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation ###
+### <a name="2withdrawal">Withdrawal of the Notice of Negotiation /Notice of Adjustment /Notice of Compensation</a> <a href="#s2" title="Return to top">↩</a> ###
 
 There are three circumstances in which you have to update the court or arbitration tribunal of the withdrawal of a Notice, namely: 
 
@@ -47,7 +47,7 @@ If you are in either of the three circumstances above, you must submit a **Memor
 
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.**
 
-### Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor ###
+### <a name="3submitting">Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor</a> <a href="#s3" title="Return to top">↩</a> ###
 
 There are three circumstances in which you have to update the court or arbitration tribunal of the status of proceedings before the adjustment relief Assessor (“Assessor”), namely: 
 
