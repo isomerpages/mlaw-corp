@@ -156,4 +156,38 @@ The Notice for Adjustment must be accompanied by the following documents:
 * A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.
 * All supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
 
+<u>Submission and service by the electronic system</u> 
+To submit to the Registrar and serve the **Notice for Adjustment** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
+* If you are acting on behalf of an entity that is a party to the contract, please use this link*(CorpPass).
+* If you are an individual who is a party to the contract, please use this link* (SingPass).
+
+***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+#### Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment ####
+The Registrar will review the Notice of Objection / Notice of Compensation / Notice for Adjustment. 
+
+If the Registrar is satisfied that the Notice of Objection / Notice for Adjustment / Notice for Compensation is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by <u>way of email</u>:
+
+* An acknowledgment of receipt of the Notice of Objection / Notice for Adjustment / Notice for Compensation, as the case may be.
+* A notice of the appointment of one or more Assessors.
+* If applicable, a notice of the date and place for the hearing.
+
+If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Counterparty, the contract is deemed terminated. If a determination is required to be made by an Adjustment Relief Assessor on the adjustment of the rights and obligations of the parties and their assignees upon a termination, the Registrar will send to the Claimant, the Counterparty and their assignees **by way of email**:
+
+* A notice of the appointment of one or more Assessors to make a determination on the adjustment of rights and obligations.
+* If applicable, a notice of the date and place for the hearing.
+ 
+#### Step 6: Assessor Conducts Hearing and Makes Determination ####
+<U>Where Notice of Objection and/or Notice of Compensation is lodged</u>
+
+Where the Counterparty or his assignee has lodged a Notice of Objection and/or Notice of Compensation and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
+
+* The Claimant’s eligibility for relief under the Framework and the date of termination of the contract if the Claimant is eligible (in respect of a Notice of Objection) and/or 
+* The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice of Compensation), without making a determination on the adjustment of rights and obligations under the contract. 
+
+After the determination(s) on the above issues have been made, if the Claimant is determined to be eligible and the contract is terminated, the parties are encouraged to negotiate and agree on the adjustment of rights and obligations under the contract. If an agreement is reached, the parties should inform the Registrar **<u>within 7 days</u>** from the date of the determination(s). 
+
+If the Registrar does not hear from the parties **<u>within 7 days</u>** from the date of the determination(s), the Registrar will proceed to appoint Assessor(s) to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
+
+
 
