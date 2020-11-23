@@ -48,7 +48,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-Only if you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service].
+Only if you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service](other-modes-of-service).
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.** 
 
 <u>Changes to Notice of Negotiation</u>
@@ -65,15 +65,15 @@ Broadly, the prohibition will end on the earliest of the following:
 
 (b)	If some other Notice (such as a Notice of Objection) has been validly served and lodged, 
 
-(ii)	The day the Notice of Negotiation is withdrawn; 
+  (i)	The day the Notice of Negotiation is withdrawn; 
 
-(iii)	The day the only or last Notice for Adjustment is withdrawn; 
+  (ii)	The day the only or last Notice for Adjustment is withdrawn; 
 
-(iv)	The day the Notice of Compensation is withdrawn, if no Notice of Objection or no Notice for Adjustment are served and lodged; 
+  (iii)	The day the Notice of Compensation is withdrawn, if no Notice of Objection or no Notice for Adjustment are served and lodged; 
 
-(v)	Where the adjustment relief Registrar determines that no adjustment relief assessor needs to be appointed; 
+  (iv)	Where the adjustment relief Registrar determines that no adjustment relief assessor needs to be appointed; 
 
-(vi)	The day on which an Assessor has made all the determination required to be made in relation to the Notice of Negotiation. 
+  (v)	The day on which an Assessor has made all the determination required to be made in relation to the Notice of Negotiation. 
 
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116).  
 
