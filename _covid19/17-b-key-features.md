@@ -1,6 +1,6 @@
 ---
-title: Re-Align Framework
-permalink: /covid19-relief/test1a
+title: Key Features of Re-Align Framework
+permalink: /covid19-relief/Key-features
 breadcrumb: Key Features of Re-Align Framework
 ---
 ## Key Features of Re-Align Framework ##
