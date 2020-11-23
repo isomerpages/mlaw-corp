@@ -137,3 +137,8 @@ To submit to the Registrar and serve the Notice for Compensation on the Recipien
 •	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
 •	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+#### (C) Counterparty does not object to Claimant’s eligibility for relief ####
+Where the Counterparty accepts that the Claimant is eligible for relief under the Framework, he does <u>not</u> need to serve and lodge a Notice of Objection. If no Notice of Objection is served and lodged during the **2-week Objection Period**, the contract is deemed terminated **<u>2 days</u>** after the end of the 2-week Objection Period or on a date agreed between all the parties to the contract. 
+If the parties are unable to agree on the terms of termination under the contract, please refer to Step 4 below regarding the lodgment and service of the Notice for Adjustment after the end of the 2-week Objection Period in this situation. 
+
