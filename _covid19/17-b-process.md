@@ -13,21 +13,21 @@ Please note that all information or documents disclosed by you or the other pers
 
 This page includes the following sections:
 
-Step 1: Claimant serves Notice of Negotiation  
-Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period  
-Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation 
-during the 2-week Objection Period  
-(A) Counterparty objects to Claimant’s eligibility for relief  
-(B) Counterparty is a landlord who wishes to seek compensation from the Claimant  
-(C) Counterparty does not object to Claimant’s eligibility for relief  
-Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for 
-Adjustment  
-Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment  
-Step 6: Assessor Conducts Hearing and Makes Determination  
-Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination  
+<a href="#step1" id="s1">Step 1: Claimant serves Notice of Negotiation</a>  
+<a href="#step2" id="s2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a>  
+<a href="#step3" id="s3">Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation 
+during the 2-week Objection Period</a>  
+<a href="#step3a" id="s3a">(A) Counterparty objects to Claimant’s eligibility for relief</a>  
+<a href="#step3b" id="s3b">(B) Counterparty is a landlord who wishes to seek compensation from the Claimant</a>  
+<a href="#step3c" id="s3c">(C) Counterparty does not object to Claimant’s eligibility for relief</a>  
+<a href="#step4" id="s4">Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for 
+Adjustment</a>  
+<a href="#step5" id="s5">Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment</a>  
+<a href="#step6" id="s6">Step 6: Assessor Conducts Hearing and Makes Determination</a>  
+<a href="#step7" id="s7">Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a>  
 Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
-Adjustment and Notice of Compensation  
-FAQs  
+Adjustment and Notice of Compensation</a>  
+<a href="#faq" id="faq">FAQs</a>  
 
 **Diagram - to upload**
   
