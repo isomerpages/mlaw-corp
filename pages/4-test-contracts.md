@@ -89,3 +89,50 @@ To submit to the Registrar and serve the Notice for Repricing on the Recipient(s
 *	If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+#### Step 4: Case proceeds to an Assessor ####
+
+The Registrar will review the Notice for Repricing.
+
+If the Registrar is satisfied that the Notice for Repricing is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by way of email:
+
+* An acknowledgment of receipt of the Notice.
+* A notice of the appointment of one or more Assessors.
+* If applicable, a notice of the date and place for the hearing.
+
+#### Step 5: Assessor Conducts Hearing and Makes Determination ####
+
+<u>Where Notice for Repricing is lodged</u>
+
+Where the Counterparty or his assignee has lodged a Notice for Repricing and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Counterparty’s Notice for Repricing. 
+
+<u>Mode of Hearing</u>
+
+The hearing will generally be conducted <u>over email</u>. The Assessor(s) may request for clarifications or further documents by email.
+
+If the Assessor(s) is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
+
+* Online hearings will be conducted via Webex.
+* Physical hearings will be held at a venue to be advised by the Registrar.
+
+Please note for online or physical hearings:
+
+* The Assessor(s) may permit a party to be accompanied by an interpreter at the hearing. The party will be responsible for sourcing their own interpreter.
+* No party may be represented by an advocate and solicitor at proceedings before Assessor(s).
+
+If a party to a determination is <u>absent</u> from the hearing, the Assessor(s) may deem that the party (or that party’s assignee who was absent) has withdrawn the Notice lodged by him; or make a determination on the case.
+
+If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink to (6) Assessor’s Determinations>
+
+#### Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination ####
+
+After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty, and their assignees.
+
+There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
+
+The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
+
+#### Withdrawal of Notice of Repricing ####
+
+Where any party who has lodged and served a Notice for Repricing wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable.
+
