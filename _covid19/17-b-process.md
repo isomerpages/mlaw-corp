@@ -39,10 +39,18 @@ An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the 
 <u>Service by the electronic system</u>
 
 To serve the Notice of Negotiation using the electronic system, you must have an email address, as well as the email address(es) of the Recipient(s):
-•	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
-•	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
+*	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
+*	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
 
-** *IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+
+<u>Service by other modes if you are unable to use the electronic system</u>
+
+Only if you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service].
+***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.** 
+
+<u>Changes to Notice of Negotiation</u>
+You should ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a Notice of Withdrawal and then serve a new Notice of Negotiation (which must be done by 25 January 2021).
 
