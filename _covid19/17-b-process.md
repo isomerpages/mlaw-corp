@@ -36,7 +36,8 @@ An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the 
 * The Claimant’s guarantor or surety, or the issuer of a performance bond, in relation to the Claimant’s obligations under the contract.
 * Any assignee of any party to the contract.  
   
-<u>Service by the electronic system</u> 
+<u>Service by the electronic system</u>
+
 To serve the Notice of Negotiation using the electronic system, you must have an email address, as well as the email address(es) of the Recipient(s):
 •	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
 •	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
