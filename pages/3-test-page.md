@@ -152,7 +152,7 @@ Please note for online or physical hearings:
 
 If a party to a determination is <u>absent</u> from the hearing, the Assessor(s) may deem that the party (or that party’s assignee who was absent) has withdrawn the Notice lodged by him; or make a determination on the case.
 
-If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink>.
+If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink >.
 
 #### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty and their assignees.
