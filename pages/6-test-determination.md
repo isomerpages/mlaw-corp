@@ -7,9 +7,9 @@ breadcrumb: Assessor’s Determination
 ## Assessor’s Determination ##
 This page provides an overview of the nature of an Assessor’s Determination, and possible steps a party to a Case may wish to consider after a Determination has been made.
 
-<a href="#determination" id="s1">Assessors’ Determination are binding, non-appealable and are enforceable with Court’s leave</a> 
-<a href="#set" id="s2">Application to Set Aside an Assessor’s Determination</a> 
-<a href="#correct" id="s3">Application to Correct Error in Assessor’s Determination</a> 
+<a href="#determination" id="s1">Assessors’ Determination are binding, non-appealable and are enforceable with Court’s leave</a><br> 
+<a href="#set" id="s2">Application to Set Aside an Assessor’s Determination</a><br> 
+<a href="#correct" id="s3">Application to Correct Error in Assessor’s Determination</a><br> 
 <a href="#faq" id="f1">FAQs</a> 
 
 ### <a name="determination">Assessors’ Determination are binding, non-appealable and are enforceable with Court’s leave</a> <a href="#s1" title="Return to top">↩</a> ###
