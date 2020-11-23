@@ -207,3 +207,21 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor(s)
 If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See [here]() <hyperlink to (6) Assessor’s Determinations>
 
 
+#### Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination ####
+After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty and their assignees. 
+
+There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
+
+The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
+
+##### Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice of Compensation #####
+Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
+
+|Type of Notice you are withdrawing | Recipient(s) on whom you must serve Notice of Withdrawal
+| Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
+| Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>-The other parties to the contract; and <br>- Any assignee to any party to the contract. 
+| Notice of Adjustment <br>(s 48(4)) | - The other parties to the contract; and <br>- Any assignee to any party to the contract. 
+| Notice of Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; and<br>- The other parties to the contract. 
+
+(*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee, and you do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.)
+
