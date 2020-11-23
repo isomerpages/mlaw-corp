@@ -75,3 +75,36 @@ Broadly, the prohibition will end on the earliest of the following:
 
 (vi)	The day on which an Assessor has made all the determination required to be made in relation to the Notice of Negotiation. 
 
+For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116).  
+
+
+#### Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period ####
+From the date of the Notice of Negotiation, there will be a **4-week Negotiation Period** during which the Claimant and the Counterparty are encouraged to renegotiate the terms of the contract or to renegotiate the terms of termination of the contract, where applicable. 
+
+During this **4-week Negotiation Period**, the Counterparty cannot file a Notice of Objection. 
+
+#### Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation during the 2-week Objection Period ####
+
+At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
+* Parties have successfully renegotiated the terms of their contract. 
+* Parties have been unsuccessful in their renegotiation of the terms of their contract. 
+
+A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
+
+If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or terminate the contract on their own terms. The Counterparty does not need to serve a Notice of Objection in this situation. 
+
+In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are three courses of action for the Counterparty or his assignee: 
+
+#### (A) Counterparty objects to Claimant’s eligibility for relief ####
+If the Counterparty or his assignee wishes to dispute the Claimant’s eligibility for relief under the Framework, within the **2-week Objection Period**, he must serve a Notice of Objection on the required parties and lodge the Notice of Objection with the Adjustment Relief Registrar. 
+
+The Counterparty or his assignee may <u>only</u> object to the Claimant’s Notice of Negotiation on any one or more of the following grounds:
+* The contract in question is not a specified contract or is a contract of national interest.
+* The Claimant does not satisfy the eligibility criteria for relief.
+* The Notice of Negotiation was not served in accordance with section 45 of the Act.
+
+To object to the Notice of Negotiation, the Counterparty must lodge the Notice of Objection with the Registrar and serve the Notice of Objection **<u>within the 2-week Objection Period</u>** on the following Recipient(s), where applicable:
+* The Claimant.
+* Any other party to the contract; 
+* The Claimant’s a guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
+** Any assignee of any party to the contract.
