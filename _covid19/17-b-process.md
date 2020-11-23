@@ -28,7 +28,7 @@ Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiatio
 Adjustment and Notice of Compensation  
 FAQs  
 
-<Diagram>
+**Diagram - to upload**
   
 #### Step 1: Claimant serves Notice of Negotiation ####
 An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Claimant”) within 6 weeks from 14 December 2020 (i.e. by 25 January 2021), on the following Recipient(s), where applicable:
