@@ -25,7 +25,7 @@ breadcrumb: 4. Process for Contracts
   
 DIAGRAM - JPEG HERE
 
-#### <a name="step1">Step 1: Claimant serves Notice of Negotiation for Contract of National Interest</a> ####
+#### <a name="step1">Step 1: Claimant serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
 An **<u>eligible party</u>** <hyperlink to (1) Key Features of Re-Align Framework>  to a Contract of National Interest who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Claimant”) on the following Recipient(s), where applicable:
 
@@ -50,13 +50,13 @@ Only if you are unable to serve the Notice of Negotiation for Contract of Nation
 
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards**
 
-#### <a name="step2">Step 2:  Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> ####
+#### <a name="step2">Step 2:  Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
 
 From the date of the Notice of Negotiation for Contract for National Interest, there will be a **4-week Negotiation Period** during which the Claimant and the Counterparty are encouraged to renegotiate the price of the contract.
 
 During this Negotiation Period, the Counterparty cannot file a Notice of Repricing. 
 
-#### <a name="step3">Step 3: End of Negotiation Period and Start of Repricing Period<a name="step1"> ####
+#### <a name="step3">Step 3: End of Negotiation Period and Start of Repricing Period<a name="step1"> <a href="#s3" title="Return to top">↩</a> ####
 
 At the end of the **4-week Negotiation Period**, the two possible outcomes are:
 
@@ -83,7 +83,7 @@ To submit to the Registrar and serve the Notice for Repricing on the Recipient(s
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
-#### <a name="step4">Step 4: Case proceeds to an Assessor</a> ####
+#### <a name="step4">Step 4: Case proceeds to an Assessor</a> <a href="#s4" title="Return to top">↩</a> ####
 
 The Registrar will review the Notice for Repricing.
 
@@ -93,7 +93,7 @@ If the Registrar is satisfied that the Notice for Repricing is in order, the Reg
 * A notice of the appointment of one or more Assessors.
 * If applicable, a notice of the date and place for the hearing.
 
-#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> ####
+#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> <a href="#s5" title="Return to top">↩</a> ####
 
 <u>Where Notice for Repricing is lodged</u>
 
@@ -117,7 +117,7 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor(s)
 
 If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink to (6) Assessor’s Determinations>
 
-#### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> ####
+#### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 
 After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty, and their assignees.
 
@@ -125,7 +125,7 @@ There is no appeal against an Assessor’s determination, and it will be binding
 
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
-#### <a name="step6a">Withdrawal of Notice of Repricing</a> ####
+#### <a name="step6a">Withdrawal of Notice of Repricing</a> <a href="#s6a" title="Return to top">↩</a> ####
 
 Where any party who has lodged and served a Notice for Repricing wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable.
 
@@ -143,7 +143,7 @@ To submit to the Registrar and serve the Notice for Repricing on the Recipient(s
 
 Please note if you have lodged and/or served more than one Notice for Repricing, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw.
 
-#### <a name="faq">FAQs</a> ####
+#### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
 1. **Can the Assessor adjust anything else other than the price of the contract? For example, the length of the contract?**
 
