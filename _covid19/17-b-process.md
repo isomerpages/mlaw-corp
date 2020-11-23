@@ -77,7 +77,7 @@ Broadly, the prohibition will end on the earliest of the following:
 
   (v)	The day on which an Assessor has made all the determination required to be made in relation to the Notice of Negotiation. 
 
-For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){_target="_blank"}.  
+For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){:target="_blank"}.  
 
 
 #### <a name="step2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
