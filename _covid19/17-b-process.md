@@ -27,11 +27,11 @@ Adjustment</a>
 <a href="#step7" id="s7">Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a>  
 Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
 Adjustment and Notice of Compensation</a>  
-<a href="#faq" id="faq">FAQs</a>  
+<a href="#faq" id="f1">FAQs</a>  
 
 **Diagram - to upload**
   
-#### Step 1: Claimant serves Notice of Negotiation ####
+#### <a name="step1">Step 1: Claimant serves Notice of Negotiation</a> <a href="#s1" title="Return to top">↩</a> ####
 An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Claimant”) within **6 weeks** from 14 December 2020 **(i.e. by 25 January 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Counterparty”). 
 * The Claimant’s guarantor or surety, or the issuer of a performance bond, in relation to the Claimant’s obligations under the contract.
@@ -80,12 +80,12 @@ Broadly, the prohibition will end on the earliest of the following:
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){_target="_blank"}.  
 
 
-#### Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period ####
+#### <a name="step2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
 From the date of the Notice of Negotiation, there will be a **4-week Negotiation Period** during which the Claimant and the Counterparty are encouraged to renegotiate the terms of the contract or to renegotiate the terms of termination of the contract, where applicable. 
 
 During this **4-week Negotiation Period**, the Counterparty cannot file a Notice of Objection. 
 
-#### Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation during the 2-week Objection Period ####
+#### <a name="step3">Step 3: Counterparty lodges and serves Notice of Objection and/or Notice of Compensation during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 
 At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
 * Parties have successfully renegotiated the terms of their contract. 
@@ -147,7 +147,7 @@ Where the Counterparty accepts that the Claimant is eligible for relief under th
 
 If the parties are unable to agree on the terms of termination under the contract, please refer to **Step 4** below regarding the lodgment and service of the Notice for Adjustment after the end of the **2-week Objection Period** in this situation. 
 
-#### Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for Adjustment ####
+#### <a name="step4">Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for Adjustment</a> <a href="#s4" title="Return to top">↩</a> ####
 Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to here <hyperlink> for more information. 
   
 If the parties do not agree with the default terms and are unable to agree on the terms of termination between themselves, the Claimant, the Counterparty or the Counterparty’s assignee may seek an Assessor’s determination on the adjustment of rights and obligations under the contract on a just and fair basis. 
@@ -169,7 +169,7 @@ To submit to the Registrar and serve the **Notice for Adjustment** on the Recipi
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
-#### Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment ####
+#### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
 The Registrar will review the Notice of Objection / Notice of Compensation / Notice for Adjustment. 
 
 If the Registrar is satisfied that the Notice of Objection / Notice for Adjustment / Notice for Compensation is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by **way of email**:
@@ -183,7 +183,7 @@ If the Registrar refuses to accept lodgment of a Notice of Objection or the Noti
 * A notice of the appointment of one or more Assessors to make a determination on the adjustment of rights and obligations.
 * If applicable, a notice of the date and place for the hearing.
  
-#### Step 6: Assessor Conducts Hearing and Makes Determination ####
+#### <a name="step6">Step 6: Assessor Conducts Hearing and Makes Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 <U>Where Notice of Objection and/or Notice of Compensation is lodged</u>
 
 Where the Counterparty or his assignee has lodged a Notice of Objection and/or Notice of Compensation and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
@@ -217,7 +217,7 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor(s)
 If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See [here](). <hyperlink>
 
 
-#### Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination ####
+#### <a name="step7">Step 7: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> <a href="#s7" title="Return to top">↩</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty and their assignees. 
 
 There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
@@ -245,5 +245,5 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 Please note if you have filed and/or served more than one Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw. 
 
-#### FAQs ####
+#### <a name="FAQ">FAQs</a> <a href="#f1" title="Return to top">↩</a>####
 
