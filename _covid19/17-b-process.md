@@ -140,5 +140,20 @@ To submit to the Registrar and serve the Notice for Compensation on the Recipien
 
 #### (C) Counterparty does not object to Claimant’s eligibility for relief ####
 Where the Counterparty accepts that the Claimant is eligible for relief under the Framework, he does <u>not</u> need to serve and lodge a Notice of Objection. If no Notice of Objection is served and lodged during the **2-week Objection Period**, the contract is deemed terminated **<u>2 days</u>** after the end of the 2-week Objection Period or on a date agreed between all the parties to the contract. 
-If the parties are unable to agree on the terms of termination under the contract, please refer to Step 4 below regarding the lodgment and service of the Notice for Adjustment after the end of the 2-week Objection Period in this situation. 
+If the parties are unable to agree on the terms of termination under the contract, please refer to **Step 4** below regarding the lodgment and service of the Notice for Adjustment after the end of the **2-week Objection Period** in this situation. 
+
+#### Step 4: Either Claimant, Counterparty or Counterparty’s assignee lodges and serves Notice for Adjustment ####
+Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to here <hyperlink to PDF of infographic for default consequences> for more information. 
+  
+If the parties do not agree with the default terms and are unable to agree on the terms of termination between themselves, the Claimant, the Counterparty or the Counterparty’s assignee may seek an Assessor’s determination on the adjustment of rights and obligations under the contract on a just and fair basis. 
+
+To seek the Assessor’s determination, **within 2 weeks after the end of the 2-week Objection Period**, the Claimant, the Counterparty or the Counterparty’s assignee must lodge the Notice for Adjustment with the Registrar and serve the Notice for Adjustment on the following Recipient(s), where applicable: 
+* Any other party to the contract.
+* Any person who is a guarantor or surety, or who has issued a performance bond, in relation to the obligations of the Claimant. 
+* Any assignee of any party to the contract. 
+
+The Notice for Adjustment must be accompanied by the following documents:
+* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.
+* All supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
+
 
