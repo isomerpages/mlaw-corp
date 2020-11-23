@@ -50,3 +50,9 @@ To serve the Notice of Negotiation for Contract of National Interest using the e
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg) or [https://www.corppass.gov.sg](https://www.corppass.gov.sg), respectively. 
+
+*<U>Service by other modes if you are unable to use the electronic system</u>*
+
+Only if you are unable to serve the Notice of Negotiation for Contract of National Interest using the electronic system, please download the *<u>Notice of Negotiation for Contract of National Interest</u>** <hyperlink to physical form> and serve the form using other modes of service <hyperlink to 5. Other Modes of Service>.
+
+***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards**
