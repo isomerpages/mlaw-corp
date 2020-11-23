@@ -43,8 +43,8 @@ The Notice of Revision must be served within 6 weeks from 14 December 2020 (i.e.
 
 To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-•	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-•	If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
+* If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
@@ -53,15 +53,20 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 <u>Service by other modes if you are unable to use the electronic system</u>
 
 Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-of-service).
+
 ***IMPORTANT NOTE: This form will only be available for download from 14 December 2020 onwards.** 
 
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Claimant serves a Notice of Revision, the Counterparty will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Claimant for his non-payment of any amount mentioned in section 53(4)(a) of the Act or any interest or other charge (however described) on that amount.
 
 Broadly, the prohibition will end on the earliest of the following: 
+
 (a) On the expiry of 6 weeks after the Notice of Revision is served, if a Notice of Objection is not served and lodged.
+
 (b) If a Notice of Objection is validly served and lodged within the 6 weeks, the day on which the Notice of Objection is withdrawn after the expiry of the 6 weeks. 
+
 (c) The day on which an Assessor has made all the determinations required to be made in relation to the Notice of Revision. 
+
 
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){:target="_blank"}.  
 
