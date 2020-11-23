@@ -7,17 +7,12 @@ breadcrumb: Key Features of Re-Align Framework
 
 **This page provides an overview of the key features of the Re-Align Framework, including the eligibility criteria, contracts covered for renegotiation and termination relief, landlord hardship relief and the default consequences of termination under the Re-Align Framework**.
 
-Eligibility Criteria <hyperlink> 
-  
-Renegotiation of Contractual Terms and Termination of Contracts <hyperlink> 
-  
-Contracts Affecting Essential Services and National Interest <hyperlink> 
-
-Landlord Hardship Relief <hyperlink> 
-
-Repayment Scheme for Hire-Purchase and Equipment Rental Contracts <hyperlink> 
-
-FAQs <hyperlink> 
+<a href="#1eligiblity" id="s1">Eligibility Criteria</a> 
+Renegotiation of Contractual Terms and Termination of Contracts</a>  
+Contracts Affecting Essential Services and National Interest</a> 
+Landlord Hardship Relief</a> 
+Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a>  
+<a href="#faq" id="f1">FAQs</a> 
  
 ### Eligibility Criteria ###
 
