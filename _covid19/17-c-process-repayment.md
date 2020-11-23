@@ -82,7 +82,7 @@ If parties have successfully renegotiated the terms of their contract by the end
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Counterparty or his assignee.
 
 
-##### <a name="step3a">(A): Counterparty objects to Claimant’s Notice of Revision </a> #####
+##### <a name="step3a">(A): Counterparty objects to Claimant’s Notice of Revision</a> #####
 If the Counterparty or his assignee wishes to object to the Claimant’s Notice of Revision, he or she must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. 
 
 The Counterparty or his assignee may <u>only</u> object to the Claimant’s Notice of Revision on any one or more of the following grounds:
@@ -98,4 +98,63 @@ To object to the Notice of Revision, the Counterparty must lodge the Notice of O
 * The Claimant’s guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
 •	Any assignee of any party to the contract. 
 
+
+<u>Submission and service by the electronic system</u> 
+
+To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
+
+* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
+* If you are an individual who is a party to the contract, please use this link* (SingPass). 
+
+***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
+
+##### <a name="step3b">(B): Counterparty does not object to Claimant’s Notice of Revision</a> #####
+Where the Counterparty accepts the Claimant’s Notice of Revision, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision. The Counterparty does not need to serve and lodge a Notice of Objection in this situation.  
+
+If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Claimant’s revised repayment schedule will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
+
+Please also note that there will be no case before an Assessor in this situation. **Steps 4 to 6** below will **<u>not</u>** apply.
+
+
+#### <a name="step4">Step 4: Registrar reviews Notice of Objection</a> ####
+The Registrar will review the Notice of Objection.
+
+If the Registrar is satisfied that the Notice of Objection is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by way of email:
+* An acknowledgment of receipt of the Notice of Objection.
+* A notice of the appointment of one or more Assessors.
+* If applicable, a notice of the date and place for the hearing.
+
+If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Counterparty, the Claimant’s revised repayment schedule will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
+
+#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> ####
+<u>Where Notice of Objection is lodged</u> 
+
+Where the Counterparty or his assignee has lodged a Notice of Objection and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Counterparty’s Notice of Objection. 
+
+If the Counterparty’s Notice of Objection is dismissed by the Assessor(s), the Claimant’s revised repayment schedule will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
+
+<u>Mode of hearing</u>
+
+The hearing will generally be conducted <u>over email</u>. The Assessor(s) may request for clarifications or further documents by email.
+If the Assessor(s) is of the opinion that the interest of justice would be better served by an <u>online or physical hearing</u>:
+* Online hearings will be conducted via Webex.
+* Physical hearings will be held at a venue to be advised by the Registrar.
+
+Please note for online or physical hearings:
+* The Assessor(s) may permit a party to be accompanied by an interpreter at the hearing. The party will be responsible for sourcing their own interpreter.
+* No party may be represented by an advocate and solicitor at proceedings before Assessor(s).
+
+If a party to a determination is <u>absent</u> from the hearing, the Assessor(s) may deem that the party (or that party’s assignee who was absent) has withdrawn the Notice lodged by him; or make a determination on the case.
+
+If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink>.
+
+#### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> ####
+After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty and their assignees.
+
+There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
+
+The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
+
+##### <a name="step6">Withdrawal of Notice of Objection</a> ##### 
+Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
 
