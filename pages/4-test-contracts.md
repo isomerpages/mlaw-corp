@@ -152,3 +152,10 @@ Please note if you have lodged and/or served more than one Notice for Repricing,
 
 #### FAQs ####
 
+1. **Can the Assessor adjust anything else other than the price of the contract? For example, the length of the contract?**
+
+No. The Assessor is only empowered to adjust the price of the contract.
+
+2. **What will the Assessor take into account when repricing the contract?**
+
+The Assessor will take into account all relevant factors, including the changed business environment of the parties, in determining the price to be applied to the contract.
