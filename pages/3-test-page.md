@@ -78,8 +78,8 @@ During this Negotiation Period, the Counterparty cannot file a Notice of Objecti
 
 #### <a name="step3">Step 3: Counterparty lodges and serves Notice of Objection during the 2-week Objection Period</a> ####
 At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
-•	Parties have successfully renegotiated the terms of their contract and/or the repayment schedule for outstanding payments. 
-•	Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
+* Parties have successfully renegotiated the terms of their contract and/or the repayment schedule for outstanding payments. 
+* Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
 
 A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
 If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or the amended repayment schedule. The Counterparty does not need to serve a Notice of Objection in this situation. 
