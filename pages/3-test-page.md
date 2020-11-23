@@ -27,7 +27,7 @@ This page includes the following sections:
 
 **Diagram - to insert**
 
-#### <a name="step1">Step 1: Claimant serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a>####
+#### <a name="step1">Step 1: Claimant serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
 The following [eligible parties](key-features) below who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Claimant”) must serve a Notice of Revision.
 
 (a)	a hirer under a hire-purchase or conditional sales agreement for commercial equipment; or commercial vehicle, which is not entered into with a bank, or with a finance company under the Finance Companies Act (Cap. 108); or
@@ -70,13 +70,13 @@ Broadly, the prohibition will end on the earliest of the following:
 
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){:target="_blank"}.  
 
-#### <a name="step2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a>####
+#### <a name="step2">Step 2: Claimant and Counterparty renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
 
 From the date of the Notice of Revision, there will be a **4-week Negotiation Period** during which the Claimant and the Counterparty are encouraged to renegotiate the repayment schedule for any outstanding payments owed by the Claimant to the Counterparty, or the terms of the contract, where applicable. 
 
 During this Negotiation Period, the Counterparty cannot file a Notice of Objection. 
 
-#### <a name="step3">Step 3: Counterparty lodges and serves Notice of Objection during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a>####
+#### <a name="step3">Step 3: Counterparty lodges and serves Notice of Objection during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
 * Parties have successfully renegotiated the terms of their contract and/or the repayment schedule for outstanding payments. 
 * Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
@@ -88,7 +88,7 @@ If parties have successfully renegotiated the terms of their contract by the end
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Counterparty or his assignee.
 
 
-##### <a name="step3a">(A): Counterparty objects to Claimant’s Notice of Revision</a> <a href="#3a" title="Return to top">↩</a>#####
+##### <a name="step3a">(A): Counterparty objects to Claimant’s Notice of Revision</a> <a href="#3a" title="Return to top">↩</a> #####
 If the Counterparty or his assignee wishes to object to the Claimant’s Notice of Revision, he or she must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. 
 
 The Counterparty or his assignee may <u>only</u> object to the Claimant’s Notice of Revision on any one or more of the following grounds:
@@ -114,7 +114,7 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 
 ***IMPORTANT NOTE: These links will only be available from 14 December 2020 onwards**
 
-##### <a name="step3b">(B): Counterparty does not object to Claimant’s Notice of Revision</a> <a href="#3b" title="Return to top">↩</a>#####
+##### <a name="step3b">(B): Counterparty does not object to Claimant’s Notice of Revision</a> <a href="#3b" title="Return to top">↩</a> #####
 Where the Counterparty accepts the Claimant’s Notice of Revision, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision. The Counterparty does not need to serve and lodge a Notice of Objection in this situation.  
 
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Claimant’s revised repayment schedule will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
@@ -122,7 +122,7 @@ If no Notice of Objection is served and lodged during the **2-week Objection Per
 Please also note that there will be no case before an Assessor in this situation. **Steps 4 to 6** below will **<u>not</u>** apply.
 
 
-#### <a name="step4">Step 4: Registrar reviews Notice of Objection</a> <a href="#s4" title="Return to top">↩</a>####
+#### <a name="step4">Step 4: Registrar reviews Notice of Objection</a> <a href="#s4" title="Return to top">↩</a> ####
 The Registrar will review the Notice of Objection.
 
 If the Registrar is satisfied that the Notice of Objection is in order, the Registrar will send to the Claimant, the Counterparty and their assignees by way of email:
@@ -132,7 +132,7 @@ If the Registrar is satisfied that the Notice of Objection is in order, the Regi
 
 If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Counterparty, the Claimant’s revised repayment schedule will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
 
-#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> <a href="#s5" title="Return to top">↩</a>####
+#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> <a href="#s5" title="Return to top">↩</a> ####
 <u>Where Notice of Objection is lodged</u> 
 
 Where the Counterparty or his assignee has lodged a Notice of Objection and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Counterparty’s Notice of Objection. 
@@ -154,14 +154,14 @@ If a party to a determination is <u>absent</u> from the hearing, the Assessor(s)
 
 If the party had a good reason for being absent, they may make an application to set aside the determination made in their absence. See here <hyperlink >.
 
-#### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a>####
+#### <a name="step6">Step 6: Registrar Informs Claimant and Counterparty of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Claimant, the Counterparty and their assignees.
 
 There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
 
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
-##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#6a" title="Return to top">↩</a>##### 
+##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#6a" title="Return to top">↩</a> ##### 
 Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
 
 |**Type of Notice you are withdrawing** | **Recipients(s) whom you must serve the Notice of Withdrawal**
@@ -177,4 +177,4 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 Please note if you have lodged and/or served more than one Notice of Objection, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw.
 
-#### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a>####
+#### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
