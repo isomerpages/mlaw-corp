@@ -1,6 +1,6 @@
 ---
 title: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts
-permalink: /covid19-relief/process-repayment-scheme
+permalink: /realign-framework/process-repayment-scheme
 breadcrumb: Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts
 ---
 
