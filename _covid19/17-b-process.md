@@ -109,7 +109,7 @@ To object to the Notice of Negotiation, the Counterparty must lodge the Notice o
 * The Claimant.
 * Any other party to the contract; 
 * The Claimant’s a guarantor or surety, or issuer of a performance bond, in relation to the Claimant’s obligations under the contract; and
-** Any assignee of any party to the contract.
+* Any assignee of any party to the contract.
 
 The following documents must be attached to the Notice of Objection:
 * A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation. 
