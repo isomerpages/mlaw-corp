@@ -42,8 +42,6 @@ collections:
         output: true
     covid19:
         output: true
-    realign:
-        output: true
 resources_name: news
 favicon: /images/favicon-minlaw.ico
 google_analytics: UA-10405444-20
