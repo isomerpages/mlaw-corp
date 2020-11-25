@@ -69,7 +69,7 @@ SLA provides the following land administration services:
        <a href="https://www.onemap.sg/main/v2/"><u>OneMap</u></a><br>
 OneMap is an integrated online geospatial platform that provides reliable, timely and accurate location-based information and services to the public. Use OneMap for street directory information as well as services such as LandQuery, SchoolQuery and PopulationQuery, amongst others.</li>
       <li>
-       <a href="https://www.sla.gov.sg/inlis/#/"><u>Integrated Land Information Service (INLIS)</u></a><br>
+       <a href="https://app1.sla.gov.sg/inlis/#/"><u>Integrated Land Information Service (INLIS)</u></a><br>
 Use this one-stop internet portal which provides information on land matters such as road line plans, survey plans and property boundaries. In addition, INLIS provides information on property such as ownership of property, property transaction history and surrounding amenities.</li>
     </ul>
   </li>
