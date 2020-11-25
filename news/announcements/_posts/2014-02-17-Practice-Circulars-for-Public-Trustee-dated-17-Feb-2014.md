@@ -9,7 +9,7 @@ permalink: /news/announcements/practice-circulars-for-public-trustee-dated-17-fe
 
 17 Feb 2014 Posted in [Announcements](/news/announcements)
 
-[Practice Circulars For Public Trustee (Wills Registry)](https://mlaw-pto-staging.netlify.com/wills-registry/practise-circulars/)
+[Practice Circulars For Public Trustee (Wills Registry)](https://www.sgmoneymatters.com/wp-content/uploads/2014/03/the-public-trustee-practice-circular-will-registry.pdf)
 
 
 <p class="right-side-updated">Last updated on 25 Nov 2014 </p>

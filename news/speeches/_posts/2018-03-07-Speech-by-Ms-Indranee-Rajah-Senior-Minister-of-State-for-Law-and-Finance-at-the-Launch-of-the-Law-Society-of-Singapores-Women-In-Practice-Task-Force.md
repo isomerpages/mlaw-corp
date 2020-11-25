@@ -235,8 +235,8 @@ Ladies and gentlemen, fellow members of the legal profession,
 
 
 <sup>[1]</sup>[https://www.thetimes.co.uk/article/top-law-firms-lose-their-magic-for-women-in-senior-roles-fsnp552lv](https://www.thetimes.co.uk/article/top-law-firms-lose-their-magic-for-women-in-senior-roles-fsnp552lv)  
-<sup>[2]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf (0.24MB)](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
-<sup>[3]</sup>[https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf (0.24MB)](https://www.americanbar.org/content/dam/aba/marketing/women/current_glance_statistics_january2017.pdf)  
+<sup>[2]</sup>[https://www.americanbar.org/groups/diversity/women/resources/articles_reports_research](https://www.americanbar.org/groups/diversity/women/resources/articles_reports_research/)  
+<sup>[3]</sup>[https://www.americanbar.org/groups/diversity/women/resources/articles_reports_research](https://www.americanbar.org/groups/diversity/women/resources/articles_reports_research/)  
 <sup>[4]</sup> In 2017, there were a total of 842 male law undergraduates and 731 female undergraduates at NUS and SMU. Figures excludes SUSS, whose first intake of students started classes in 2017.    
 <sup>[5]</sup> In 2017, there were 2,975 male lawyers and 2,216 female lawyers holding practising certificates. Source: Law Society of Singapore.  
 <sup>[6]</sup> This includes Senior Judges and Judicial Commissioners. Source: Supreme Court.  

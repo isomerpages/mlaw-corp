@@ -56,8 +56,6 @@ Useful Links
 
 * [Law Society of Singapore](https://www.lawsociety.org.sg/)
 
-* [Legal Systems in ASEAN](http://www.aseanlawassociation.org/legal.html)
-
 * [Maxwell Chambers](https://www.maxwellchambers.com/)
 
 * [Ministry of Home Affairs](https://www.mha.gov.sg/)
