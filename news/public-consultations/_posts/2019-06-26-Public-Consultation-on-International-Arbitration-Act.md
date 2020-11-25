@@ -134,7 +134,7 @@ permalink: /news/public-consultations/public-consultation-on-international-arbit
 <p class="address-centered"><strong>Fax: 6332 8842</strong></p>
 <p class="address-centered"><strong>Email: </strong> <a href="mailto:MLAW_IAA_Consultation@mlaw.gov.sg"><strong>MLAW_IAA_Consultation@mlaw.gov.sg</strong></a></p>
 
-<sup>[1]</sup> Singapore Academy of Law website, “Report on Certain Issues Concerning Costs in Arbitration-Related Court Proceedings” (February 2019) [https://www.sal.org.sg/Portals/0/PDF%20Files/Law%20Reform/2019-02%20-%20Costs%20in%20Arbitration-Related%20Court%20Proceedings.pdf](https://www.sal.org.sg/Portals/0/PDF%20Files/Law%20Reform/2019-02%20-%20Costs%20in%20Arbitration-Related%20Court%20Proceedings.pdf)  (accessed 25 April 2019)
+<sup>[1]</sup> Singapore Academy of Law website, “Report on Certain Issues Concerning Costs in Arbitration-Related Court Proceedings” (February 2019) [https://www.sal.org.sg/sites/default/files/sites/default/files/PDF%20Files/Law%20Reform/2019-02-Costs-in-Arbitration-Related-Court-Proceedings.pdf](https://www.sal.org.sg/sites/default/files/sites/default/files/PDF%20Files/Law%20Reform/2019-02-Costs-in-Arbitration-Related-Court-Proceedings.pdf)  (accessed 25 April 2019)
 
 **<u>APPENDIX A</u>**
 
