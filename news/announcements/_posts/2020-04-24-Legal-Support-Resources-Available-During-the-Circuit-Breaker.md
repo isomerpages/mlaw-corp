@@ -13,7 +13,7 @@ permalink: /news/announcements/Legal-Support-Resources-Available-During-the-Circ
 
 a.  The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) for more information on the eligibility criteria and to submit an online application.
 
-b.  Law Society Pro Bono Services (LSPBS) provides criminal legal aid to accused persons with limited means, for matters which the Courts continue to hear. Please contact LSPBS at 6534 1564, or [clas@lawsocprobono.org](clas@lawsocprobono.org) for further details.
+b.  Law Society Pro Bono Services (LSPBS) provides criminal legal aid to accused persons with limited means, for matters which the Courts continue to hear. Please contact LSPBS at 6534 1564, or <u>clas@lawsocprobono.org</u> for further details.
 
 c.  Law Society’s Community Legal Clinics provide legal advice to Singapore Citizens and Permanent Residents living in Singapore who are unable to afford a lawyer, via video conferencing. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
 
