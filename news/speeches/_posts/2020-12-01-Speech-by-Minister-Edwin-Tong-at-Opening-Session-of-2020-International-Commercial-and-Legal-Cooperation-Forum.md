@@ -42,7 +42,9 @@ b.	Some of us now work remotely from home.
 c.	We now cannot fly freely to wherever we want, with border controls in place in many countries and territories.
 
 i.)	Unfortunately, we are not able to hold the second edition of the China-Singapore International Commercial Dispute Resolution Conference this year,
+
 ii.)	But we certainly hope to be able to jointly organise one next year; and
+
 iii.)	Meet up again, either physically or virtually.
 
 d.	This Forum is also a good example of how things have changed. 
