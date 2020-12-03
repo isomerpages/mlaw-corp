@@ -31,10 +31,10 @@ Ladies and gentlemen
 4.	US parties have consistently been one of SIAC’s top ten foreign users in the last five years. In 2018, the largest number of cases came from US parties.
 
 {:start="5"}
-5.	It has been SIAC’s intention for some time now to open an office in the US. There is significant demand, as seen from the caseload breakdown since 2014. US direct investments in the Asia-Pacific exceed US$800 billion<a href="#fn1" id="ref1">1</a> and that is expected to grow further.
+5.	It has been SIAC’s intention for some time now to open an office in the US. There is significant demand, as seen from the caseload breakdown since 2014. US direct investments in the Asia-Pacific exceed US$800 billion<sup><a href="#fn1" id="ref1">1</a></sup> and that is expected to grow further.
 
 {:start="6"}
-6.	In this part of the world, arbitration has become an extremely important means of resolving disputes which may arise from investments. If you look around Asia, I think most people would agree SIAC is considered the top arbitral institution<a href="#fn2" id="ref2">2</a>.
+6.	In this part of the world, arbitration has become an extremely important means of resolving disputes which may arise from investments. If you look around Asia, I think most people would agree SIAC is considered the top arbitral institution<sup><a href="#fn2" id="ref2">2</a></sup>.
 
 {:start="7"}
 7.	In that sense, the opening of the US office of SIAC is a long overdue step. It is an important step for SIAC.
@@ -59,7 +59,7 @@ Ladies and gentlemen
 12.	People also want their arbitration to be done in a timely manner, besides having counsel of their choice. There again, SIAC does well. 
 
 {:start="13"}
-13.	A 2018 study by an international institute<a href="#fn3" id="ref3">3</a> shows that SIAC arbitrations are the most efficient, compared to other arbitral institutions. They studied the statistics from the arbitral institutions themselves. The mean duration (of an SIAC arbitration) was 13.8 months, shorter than many other institutions.
+13.	A 2018 study by an international institute<sup><a href="#fn3" id="ref3">3</a></sup> shows that SIAC arbitrations are the most efficient, compared to other arbitral institutions. They studied the statistics from the arbitral institutions themselves. The mean duration (of an SIAC arbitration) was 13.8 months, shorter than many other institutions.
 
 {:start="14"}
 14.	Parties can also avail themselves of SIAC’s Emergency Arbitrator provisions, SIAC’s expedited procedure, as well as their procedure for early dismissal of claims and defences.
