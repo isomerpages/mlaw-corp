@@ -29,7 +29,7 @@ Adjustment</a>
 Adjustment and Notice of Compensation</a>  
 <a href="#faq" id="f1">FAQs</a>  
 
-<img src="/files/2020-COVID-INFO2.jpg/" title="Process" alt="Process">
+<img src="/files/ReAlign/2020-COVID-INFO2.jpg/" title="Process" alt="Process">
 
   
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation</a> <a href="#s1" title="Return to top">↩</a> ####
