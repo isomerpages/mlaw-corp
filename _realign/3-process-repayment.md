@@ -58,9 +58,9 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](/realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
 
 Broadly, the prohibition will end on the earliest of the following: 
-(a) On the expiry of 6 weeks after the Notice of Revision is served, if a Notice of Objection is not served and lodged.
-(b) If a Notice of Objection is validly served and lodged within the 6 weeks, the day on which the Notice of Objection is withdrawn after the expiry of the 6 weeks. 
-(c) The day on which an Assessor has made all the determinations required to be made in relation to the Notice of Revision. 
+<br>(a) On the expiry of 6 weeks after the Notice of Revision is served, if a Notice of Objection is not served and lodged.
+<br>(b) If a Notice of Objection is validly served and lodged within the 6 weeks, the day on which the Notice of Objection is withdrawn after the expiry of the 6 weeks. 
+<br>(c) The day on which an Assessor has made all the determinations required to be made in relation to the Notice of Revision. 
 
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){:target="_blank"}.  
 
