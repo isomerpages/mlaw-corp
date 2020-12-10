@@ -20,7 +20,7 @@ You may serve the Notices on the Recipient(s):
 
 (ii)	if there is no such email address in (i), an email address which the Recipient has represented to you as the email address to which communications to him may be sent;
 
-(b) Only if you are unable to serve by email, you may do so by an **internet-based messaging system** (e.g. WhatsApp) or the **messaging system on the website, blog, or social media or networking website** owned or operated by the Recipient, provided you have corresponded with the Recipient via that messaging system regarding the contract in question; or
+(b) Only if you are unable to serve by email, you may do so by an **internet-based messaging system** (e.g. WhatsApp) or the **messaging system on the website, blog, social media or networking website** owned or operated by the Recipient, provided you have corresponded with the Recipient via that messaging system regarding the contract in question; or
 
 (c) Only if you are unable to serve by any of the modes above, you may do so by both:
 
