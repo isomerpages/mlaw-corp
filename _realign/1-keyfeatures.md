@@ -97,7 +97,7 @@ For more details on how to serve and lodge a Notice for Negotiation, Notice of O
 A contract, which: 
 
 (a) if terminated will likely affect essential services or the Government or public authority’s ability to carry out its functions (whether or not the Government or public authority is party to the contract); **<u>and</u>** 
-(b) is certified as a **Contract of National Interest** by the relevant Minister, 
+<br><br>(b) is certified as a **Contract of National Interest** by the relevant Minister, 
 
 cannot be terminated under the Framework.
 
