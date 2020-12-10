@@ -1,9 +1,9 @@
-
 ---
 title: 1. Key Features of Re-Align Framework
 permalink: /realign/key-features
 breadcrumb: 1. Key Features of Re-Align Framework
 ---
+
 ## Key Features of Re-Align Framework ##
 
 **This page provides an overview of the key features of the Re-Align Framework, including the eligibility criteria, contracts covered for renegotiation and termination relief, landlord hardship relief and the default consequences of termination under the Re-Align Framework**.
