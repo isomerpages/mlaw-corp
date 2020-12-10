@@ -27,7 +27,7 @@ Adjustment</a>
 <a href="#step7" id="s7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a>  
 <a href="#step7a" id="s7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
 Adjustment and Notice of Compensation</a>  
-<a href="#faq" id="f1">FAQs</a>  
+<a href="#Faq" id="f1">FAQs</a>  
 
 <img src="/files/ReAlign/2020-COVID-INFO2.jpg/" title="Process" alt="Process">
 
