@@ -56,7 +56,7 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 ***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
 
 ##### Moratorium #####
-To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
+To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](/realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
 
 Broadly, the prohibition will end on the earliest of the following: 
 (a) On the expiry of 6 weeks after the Notice of Revision is served, if a Notice of Objection is not served and lodged.
