@@ -219,7 +219,7 @@ Your Notice of Revision must set out the revised schedule of repayments in accor
 
 **3.	I am the Other Party. I object to the revised schedule of payments proposed by the Hirer/Renter as I would prefer the outstanding arrears to be repaid in a shorter period than the 18-month period which the Hirer/Renter has offered. What can I do?**
 
-An eligible <hyperlink to Eligibility Criteria in (1) Key Features> Hirer/Renter is entitled under the Act to pay the outstanding arrears in equal amounts over a period of up to 18 months. You cannot serve a Notice of Objection solely on the ground that you want a shorter repayment period. 
+An [eligible](realign/key-features#1eligiblity) Hirer/Renter is entitled under the Act to pay the outstanding arrears in equal amounts over a period of up to 18 months. You cannot serve a Notice of Objection solely on the ground that you want a shorter repayment period. 
 
 **4.	I am a Hirer/Renter. What happens if I fail to pay any instalment under the revised repayment schedule?**
 
