@@ -25,7 +25,7 @@ DIAGRAM - JPEG HERE
 
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An **<u>eligible party</u>** <hyperlink to Eligibility Criteria in (1) Key Features >  to a Contract of National Interest < hyperlink to Contracts Affecting Essential Services and National Interest in (1) Key Features> who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Affected Business”) on the following Recipient(s), where applicable:
+An **[eligible party](/realign/key-features))** to a [Contract of National Interest](/realign/process-essential-services) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Affected Business”) on the following Recipient(s), where applicable:
 
 * Any other party to the contract (“the Other Party”).
 * The Affected Business’ guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’ obligations under the contract.
