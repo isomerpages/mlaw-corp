@@ -33,7 +33,7 @@ If you wish to set aside the Assessor’s decision/determination, you must submi
 * the other parties to the contract; and
 * any assignee of any party to the contract. 
 
-The Application should be submitted to the Registrar and served on the Recipient(s) **within 5 working days** after the date the Assessor’s decision/determination is sent to the parties and their assignees
+The Application should be submitted to the Registrar and served on the Recipient(s) **within 5 working days** after the date the Assessor’s decision/determination is sent to the parties and their assignees.
 
 To submit and serve the Application to Set Aside Decision/Determination using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
