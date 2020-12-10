@@ -210,7 +210,7 @@ You will however not be eligible for relief where on or after 2 November 2020, a
 (a)	your contract has naturally expired without a renewal of the contract; or
 (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
-**7.	Can I serve both a Notice of Negotiation and a Notice for Revision for the same contract?**
+**7.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
 
 No. If a party chooses to take up the Repayment Scheme in respect of one contract, they cannot seek to renegotiate and terminate that same contract under the Framework, and vice versa.
 
