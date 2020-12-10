@@ -84,7 +84,7 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
  
 **3.	The other party has disclosed information and supporting documents in the course of proceedings before the Assessors. Can I disclose or publish that information to a third party?**
 
-You cannot disclose to a third party any statement or document submitted created or made for the purposes of an Assessor’s proceedings, or any information (whether written or oral) that is disclosed in the course of an Assessor’s proceedings, except:
+You cannot disclose to a third party any statement or document submitted, created or made for the purposes of an Assessor’s proceedings, or any information (whether written or oral) that is disclosed in the course of an Assessor’s proceedings, except:
 
 * With the consent of the party to whom the information relates.
 * When the information is already in the public domain.
