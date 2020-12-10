@@ -23,9 +23,10 @@ To be eligible for any type of relief under the Re-Align Framework (“the Frame
 
 (b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2020 to 31 December 2019^.
 
-*The annual revenue of the business or group (if the business is part of a group) for the latest financial year ending on or before 31 March 2020, will be assessed. For businesses or groups that do not have such information, please refer to [here](files/realign/?) for the alternative periods of assessment of annual revenue. 
+*The annual revenue of the business or group (if the business is part of a group) for the latest financial year ending on or before 31 March 2020, will be assessed. 
+<!--For businesses or groups that do not have such information, please refer to [here](files/realign/?) for the alternative periods of assessment of annual revenue.--> 
 
-^For parties that commenced business (i.e. be in a position to earn revenue from operations) after 1 July 2019, please refer to [here](files/realign/?) for the equivalent comparison periods by which the fall in monthly average gross income may be computed.
+<!--^For parties that commenced business (i.e. be in a position to earn revenue from operations) after 1 July 2019, please refer to [here](files/realign/?) for the equivalent comparison periods by which the fall in monthly average gross income may be computed.-->
 
 <u>Individuals (e.g. freelancers) / Non-Profit Organisations</u>
 
