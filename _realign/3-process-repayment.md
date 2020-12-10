@@ -42,8 +42,8 @@ The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. 
 
 To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-•	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-•	If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
+* If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
 
