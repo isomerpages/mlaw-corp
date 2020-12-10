@@ -147,7 +147,7 @@ The contracts covered under the **Repayment Scheme** are:
 
 (b) rental agreements for (i) commercial equipment or (ii) commercial vehicles.
 
-More details of the Repayment Scheme can be found here. <insert PDF document of Annex B of Press Release>
+More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_Repayment_Scheme.pdf). 
   
 <u>How to apply</u>
 
