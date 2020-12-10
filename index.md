@@ -19,6 +19,9 @@ sections:
                   description: 'Find out more about the new Act'
                   url: /covid19-relief/
                   external: false
+                - title: 'Re-align Framework'
+                  description: 'Find Out More about the new Framework'
+                  url: /realign/
                 - title: 'The Singapore Convention'
                   description: 'Find Out More'
                   url: 'https://www.singaporeconvention.org/'
