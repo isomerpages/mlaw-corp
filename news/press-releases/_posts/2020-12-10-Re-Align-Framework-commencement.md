@@ -106,7 +106,7 @@ permalink: /news/press-releases/2020-12-10-re-align-framework-commencement
 20. They must serve a <u>Notice of Revision</u>, using the designated forms, on all parties to the contract and all interested parties (e.g. guarantor, surety or assignee in relation to the hirer / renter’s obligations under the contract) within the same <b><u>six-week</u></b> period starting 15 January 2021 and ending 26 February 2021. 
 
 {:start="21"}
-21. More information on the Re-Align Framework, the application process and supporting documents required is available at [go.gov.sg/re-align](go.gov.sg/re-align). 
+21. More information on the Re-Align Framework, the application process and supporting documents required is available at <a href="https://go.gov.sg/re-align" target="_blank">. 
 
 
 **MINISTRY OF LAW**
