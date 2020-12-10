@@ -228,7 +228,7 @@ Please note for online or physical hearings:
 
 If a party to a contract or his assignee is <u>absent</u> from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](). <hyperlink to (6) Assessor’s Determinations>
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
 
 
 #### <a name="step7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a> <a href="#s7" title="Return to top">↩</a> ####
@@ -273,7 +273,7 @@ The process above applies in the same manner for contracts which were terminated
 
 The Other Party is prevented from terminating your contract in respect of any failure to perform an obligation that you are to perform from the day of service of the Notice of Negotiation.
 
-The Other Party is however not prohibited from terminating your contract in respect of your  failure, if any to perform any obligation under the contract for the period before the day the Notice of Negotiation is served. In such case where your contract has been terminated before the termination under the Framework, if you are eligible <hyperlink to Eligibility Criteria in (1) Key Features>, the default terms of termination <hyperlink to Step 4: Either Affected Business, Other Party or Other Party’s assignee lodges and serves Notice for Adjustment> under the Framework would apply to the termination by the Other Party, as if it were a termination under the Act. The process above applies to you and the Other Party in the same manner, except that the date of termination would be the date in which your contract was terminated by the Other Party.
+The Other Party is however not prohibited from terminating your contract in respect of your  failure, if any to perform any obligation under the contract for the period before the day the Notice of Negotiation is served. In such case where your contract has been terminated before the termination under the Framework, if you are [eligible](/realign/key-features#1eligiblity), the default terms of [termination](#step4) under the Framework would apply to the termination by the Other Party, as if it were a termination under the Act. The process above applies to you and the Other Party in the same manner, except that the date of termination would be the date in which your contract was terminated by the Other Party.
 
 **4.	Can I serve a Notice of Negotiation if I am unsure whether my contract is a contract that is excluded from relief under the Framework?**
 
@@ -283,7 +283,7 @@ However, any of the counterparties to the contract is also similarly entitled to
 
 Once a Notice of Objection is lodged with the Registrar, an Assessor will be appointed to decide on the issue of whether you are eligible for relief.  
 
-Parties are encouraged to use the **4-week Negotiation Period** <hyperlink to Step 2: Affected Business and Other Party renegotiate contract during 4-week Negotiation Period> to reach an amicable outcome.
+Parties are encouraged to use the **[4-week Negotiation Period](#step2)** to reach an amicable outcome.
 
 **5.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
 
