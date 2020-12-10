@@ -232,8 +232,8 @@ The revised repayment schedule ceases to have effect where:
 (c)	The Other Party terminates the contract for any default by the Hirer/Renter other than a failure to pay an instalment payment.
 
 Assuming any of the above occurs, the following becomes payable immediately by the Hirer/Renter:
-(d)	the amount of any instalment payable under the revised repayment schedule before the date of the occurrence of the event in paragraph (a), (b) or (c) and that remains unpaid on that date; and
-(e)	the instalments payable under the revised repayment schedule on or after that, excluding the prescribed interest in section 53(4)(a)(iii) that is part of those instalments.
+<br>(d)	the amount of any instalment payable under the revised repayment schedule before the date of the occurrence of the event in paragraph (a), (b) or (c) and that remains unpaid on that date; and
+<br>(e)	the instalments payable under the revised repayment schedule on or after that, excluding the prescribed interest in section 53(4)(a)(iii) that is part of those instalments.
 As from and including the date of the occurrence of the event in paragraph (a), (b) or (c), the outstanding repayment are subject to all interest and other late payment charges (however described) stipulated under the contract until the date that the outstanding repayments are repaid.
 
 **5.	What happens to title or ownership of the commercial equipment under a hire-purchase agreement if a Hirer/Renter successfully obtains the Repayment Scheme?**
