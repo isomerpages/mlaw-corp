@@ -103,7 +103,7 @@ cannot be terminated under the Framework.
 
 However, an [eligible](/realign/key-features#1eligiblity) party to a **Contract of National Interest** may still seek a renegotiation of the price of the contract by serving a **Notice of Negotiation for Contract of National Interest** on the other party or parties to the contract. 
 
-Where the renegotiation fails, the party seeking a renegotiation of the price may lodge a **Notice for Repricing** with the Registrar and serve the Notice of Repricing on the other party to the contract, to seek an adjustment of the price by an Assessor. 
+Where the renegotiation fails, the party seeking a renegotiation of the price may lodge a **Notice for Repricing** with the Registrar and serve the Notice for Repricing on the other party to the contract, to seek an adjustment of the price by an Assessor. 
 
 <u>How to apply</u>
 
