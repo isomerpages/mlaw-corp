@@ -16,11 +16,11 @@ sections:
                   url: /about-us/what-we-do
                   external: false
                 - title: 'COVID-19 (Temporary Measures)'
-                  description: 'Find out more about the new Act'
+                  description: 'Find out more about the Act'
                   url: /covid19-relief/
                   external: false
                 - title: 'Re-align Framework'
-                  description: 'Find Out More about the new Framework'
+                  description: 'Find out more about the new Framework'
                   url: /realign/re-align-framework
                 - title: 'The Singapore Convention'
                   description: 'Find Out More'
