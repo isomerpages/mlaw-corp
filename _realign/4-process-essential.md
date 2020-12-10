@@ -65,7 +65,7 @@ If parties have successfully renegotiated the price of their contract by the end
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period** and Affected Business wishes to seek a repricing of the contract, the Affected Business must, within the **2-week Repricing Period** lodge the Notice for Repricing with the Adjustment Relief Registrar, and serve a Notice for Repricing within the same period on the following Recipient(s), where applicable: 
 
-* The Other Party.
+* The Other Party;
 * Any other party to the contract;
 * The Affected Business’ guarantor or surety, or issuer of a performance bond, in relation to the Affected Business’ obligations under the contract; and
 * Any assignee of any party to the contract. 
