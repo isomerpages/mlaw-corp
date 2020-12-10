@@ -79,7 +79,7 @@ Certain contracts will be excluded from the Re-Align Framework, even if they fal
 * Contracts to which section 4 of the International Interests in Aircraft Equipment Act (Cap. 144B) apply
 * Contracts to which the Sale of Goods (United Nations Convention) Act (Cap. 283A) apply 
 
-An eligible party to a Contract Affecting Essential Services and National Interest may not terminate the contract under the Re-Align Framework if certain conditions are met but may renegotiate the pricing of the contract. More information can be found here <hyperlink to Contracts Affecting Essential Services and National Interest>.
+An eligible party to a Contract Affecting Essential Services and National Interest may not terminate the contract under the Re-Align Framework if certain conditions are met but may renegotiate the pricing of the contract. More information can be found [here](/realign/process-essential-services).
 
 <u>How to apply</u>
 
@@ -89,7 +89,7 @@ If you wish to object to a Notice of Negotiation served on you, you may serve an
 
 If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination. 
 
-For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>.
+For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer [here](/realign/process-renegotiation).
 
 ### <a name="3contracts">Contracts Affecting Essential Services and National Interest</a> <a href="#s3" title="Return to top">↩</a> ###
 
@@ -100,7 +100,7 @@ A contract, which:
 
 cannot be terminated under the Framework.
 
-However, an eligible <hyperlink to Eligibility Criteria above> party to a **Contract of National Interest** may still seek a renegotiation of the price of the contract by serving a **Notice of Negotiation for Contract of National Interest** on the other party or parties to the contract. 
+However, an [eligible](/realign/key-features#1eligiblity) party to a **Contract of National Interest** may still seek a renegotiation of the price of the contract by serving a **Notice of Negotiation for Contract of National Interest** on the other party or parties to the contract. 
 
 Where the renegotiation fails, the party seeking a renegotiation of the price may lodge a **Notice for Repricing** with the Registrar and serve the Notice of Repricing on the other party to the contract, to seek an adjustment of the price by an Assessor. 
 
@@ -108,7 +108,7 @@ Where the renegotiation fails, the party seeking a renegotiation of the price ma
 
 If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**.
 
-For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer here <hyperlink to (4) Process relating to contracts affecting essential services and national interest>
+For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer [here](/realign/process-essential-services).
 
 ### <a name="4landlord">Landlord Hardship Relief</a> <a href="#s4" title="Return to top">↩</a> ###
 
@@ -132,7 +132,7 @@ The rental income should be computed based on what the landlord ought to have re
 
 If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time.
 
-For more details on how to serve and lodge a Notice for Compensation, please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>
+For more details on how to serve and lodge a Notice for Compensation, please refer [here](/realign/process-renegotiation).
 
 ### <a name="5repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
 
@@ -152,7 +152,7 @@ More details of the Repayment Scheme can be found here. <insert PDF document of 
 
 If you think you are an eligible hirer or renter, please serve the **Notice for Revision** on your financing or leasing company and other required parties **<u>by no later than 26 February 2021</u>**. 
 
-For more details on how to serve a Notice for Revision, please refer here <hyperlink to (3) Process for repayment scheme for hire-purchase and equipment rental contracts>
+For more details on how to serve a Notice for Revision, please refer [here](/realign/process-repayment-scheme).
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
@@ -203,7 +203,7 @@ and the arrangement or compromise is not set aside or revoked, the contract (to 
 
 **6.	I am an eligible business and I am a party to a contract eligible for renegotiation and termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to seek relief under the Framework? Can I still seek relief?**
 
-Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to seek relief, you will still be eligible to seek to adjust your rights and obligations under the contract in accordance with the default terms of termination under the Framework. Please refer here <hyperlink to (2) Process for renegotiation of contract terms and termination of contract>
+Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to seek relief, you will still be eligible to seek to adjust your rights and obligations under the contract in accordance with the default terms of termination under the Framework. Please refer [here](/realign/process-renegotiation).
 
 You will however not be eligible for relief where on or after 2 November 2020, and before your contract is terminated under the Framework:
 (a)	your contract has naturally expired without a renewal of the contract; or
