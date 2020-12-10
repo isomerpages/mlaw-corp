@@ -45,7 +45,7 @@ In addition to entities including companies and LLPs, and sole proprietors, the 
 
 ### <a name="2renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
 
-The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found [here](files/ReAlign/2020-COVID-INFO3.jpg).
+The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found [here](/files/ReAlign/2020-COVID-INFO3.jpg).
 
 If there is a dispute over the eligibility of a business for the Framework, or the parties are unable to agree on the terms of termination under the Framework, such disputes may be resolved by an Adjustment Relief Assessor (“Assessor”).  
 
