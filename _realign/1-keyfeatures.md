@@ -21,7 +21,7 @@ To be eligible for any type of relief under the Re-Align Framework (“the Frame
 
 (a) A business’ annual revenue* must not exceed S$30 million at a global group level; and
 
-(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2020 to 31 December 2019<!--^-->.
+(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2019 to 31 December 2019<!--^-->.
 
 *The annual revenue of the business or group (if the business is part of a group) for the latest financial year ending on or before 31 March 2020, will be assessed. 
 <!--For businesses or groups that do not have such information, please refer to [here](files/realign/?) for the alternative periods of assessment of annual revenue.--> 
