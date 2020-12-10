@@ -56,7 +56,7 @@ Only if you are unable to serve the Notice of Negotiation using the electronic s
 
 <u>Changes to Notice of Negotiation</u>
 
-Please ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a Notice of Withdrawal <hyperlink to Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice of Compensation below> and then serve a new Notice of Negotiation (which must be done by 26 February 2021).
+Please ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a [Notice of Withdrawal](#step7a) and then serve a new Notice of Negotiation (which must be done by 26 February 2021).
 
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Affected Business serves a Notice of Negotiation, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Affected Business for his failure to perform any contractual obligation due to be performed from the day the Notice of Negotiation is served. 
