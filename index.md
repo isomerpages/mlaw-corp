@@ -22,7 +22,6 @@ sections:
                  - title: 'Re-Align Framework'
                   description: 'Find out more about the new framework'
                   url: /realign/
-                  external: false
                 - title: 'The Singapore Convention'
                   description: 'Find Out More'
                   url: 'https://www.singaporeconvention.org/'
