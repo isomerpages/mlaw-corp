@@ -84,7 +84,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <u>How to apply</u>
 
-If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>by no later than 26 February 2021</u>**. 
+If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
 
 If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
 
@@ -151,9 +151,9 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice for Revision** on your financing or leasing company and other required parties **<u>by no later than 26 February 2021</u>**. 
+If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
 
-For more details on how to serve a Notice for Revision, please refer [here](/realign/process-repayment-scheme).
+For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
