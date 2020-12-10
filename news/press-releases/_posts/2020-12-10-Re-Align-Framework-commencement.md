@@ -106,15 +106,15 @@ permalink: /news/press-releases/2020-12-10-re-align-framework-commencement
 20. They must serve a <u>Notice of Revision</u>, using the designated forms, on all parties to the contract and all interested parties (e.g. guarantor, surety or assignee in relation to the hirer / renter’s obligations under the contract) within the same <b><u>six-week</u></b> period starting 15 January 2021 and ending 26 February 2021. 
 
 {:start="21"}
-21. More information on the Re-Align Framework, the application process and supporting documents required is available at [www.go.gov.sg/re-align](www.go.gov.sg/re-align). 
+21. More information on the Re-Align Framework, the application process and supporting documents required is available at [go.gov.sg/re-align](go.gov.sg/re-align). 
 
 
 **MINISTRY OF LAW**
 <br>**10 DECEMBER 2020**
 
-<p><sup id="fn1">1. Alternative periods will be used if the business had not commenced operations during July to December 2019 or by July 2020. However, the business must have commenced operations (i.e. be in a position to earn revenue) by 1 September 2020 to be eligible. More information will be made available on [www.go.gov.sg/re-align](www.go.gov.sg/re-align).  <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. Alternative periods will be used if the business had not commenced operations during July to December 2019 or by July 2020. However, the business must have commenced operations (i.e. be in a position to earn revenue) by 1 September 2020 to be eligible. More information will be made available on www.go.gov.sg/re-align.  <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2.  The list of supporting documents will be made available on [www.go.gov.sg/re-align](www.go.gov.sg/re-align). <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2.  The list of supporting documents will be made available on www.go.gov.sg/re-align. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <br>[Annex A - List of contracts (82KB)](/files/news/press-releases/2020/12/Re-Align-Framework-Annex-A.pdf)
 <br>[Annex B - Process of Renegotiation (165KB)](/files/news/press-releases/2020/12/Re-Align-Framework-Annex-B.pdf)
