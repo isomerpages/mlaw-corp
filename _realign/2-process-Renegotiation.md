@@ -29,6 +29,8 @@ Adjustment</a>
 Adjustment and Notice of Compensation</a>  
 <a href="#faq" id="f1">FAQs</a>  
 
+<img src="/images/TenantReliefTable.JPG/" title="Tenant Relief" alt="Tenant Relief">
+
   
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation</a> <a href="#s1" title="Return to top">↩</a> ####
 
