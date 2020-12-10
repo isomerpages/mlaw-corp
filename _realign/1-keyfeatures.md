@@ -84,7 +84,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <u>How to apply</u>
 
-If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>by no later than 26 February 2021</u>**. 
+If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
 
 If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
 
@@ -151,9 +151,9 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice for Revision** on your financing or leasing company and other required parties **<u>by no later than 26 February 2021</u>**. 
+If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
 
-For more details on how to serve a Notice for Revision, please refer [here](/realign/process-repayment-scheme).
+For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
@@ -210,7 +210,7 @@ You will however not be eligible for relief where on or after 2 November 2020, a
 (a)	your contract has naturally expired without a renewal of the contract; or
 (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
-**7.	Can I serve both a Notice of Negotiation and a Notice for Revision for the same contract?**
+**7.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
 
 No. If a party chooses to take up the Repayment Scheme in respect of one contract, they cannot seek to renegotiate and terminate that same contract under the Framework, and vice versa.
 

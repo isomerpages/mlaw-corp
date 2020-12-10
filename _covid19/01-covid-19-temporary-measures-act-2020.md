@@ -18,4 +18,3 @@ The Act which was passed on [7 April](https://sso.agc.gov.sg/Act/COVID19TMA2020)
 (4) [Alternative arrangements for meetings](https://www.mlaw.gov.sg/covid19-relief/alternative)<br>
 (5)	[Relief for contracts affected by construction delays](https://www.mlaw.gov.sg/covid19-relief/relief-for-contracts-construction-delays)<br>
 (6) [Concessions for Collective Sale Procedures](https://www.mlaw.gov.sg/covid19-relief/collective-sale)<br>
-(7) [Re-Align Framework to Renegotiate Contracts For Businesses Significantly Impacted by COVID-19](https://www.mlaw.gov.sg/covid19-relief/re-align-framework)<br>
