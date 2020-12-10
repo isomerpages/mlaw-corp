@@ -131,7 +131,7 @@ If the Registrar is satisfied that the Notice of Objection is in order, the Regi
 
 If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Other Party, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
 
-#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> #### <a href="#s5" title="Return to top">↩</a
+#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> <a href="#s5" title="Return to top">↩</a> #### 
 <u>Where Notice of Objection is lodged</u> 
 
 Where the Other Party or his assignee has lodged a Notice of Objection and the Notice is accepted by the Registrar, the Registrar will appoint one or more Assessors to make a determination on the Other Party or his assignee’s Notice of Objection. 
