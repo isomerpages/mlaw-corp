@@ -26,7 +26,7 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 <a href="#faq" id="f1">FAQs</a>
 
 
-#### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> ####
+#### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
 The following [eligible parties](key-features) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Hirer/Renter”) must serve a Notice of Revision.
 
 (a)	a hirer under a hire-purchase or conditional sales agreement for commercial equipment; or commercial vehicle, which is not entered into with a bank, or with a finance company under the Finance Companies Act (Cap. 108); or
@@ -64,13 +64,13 @@ Broadly, the prohibition will end on the earliest of the following:
 
 For more details on the moratorium, please refer to the [Fifth Schedule of the Act](https://sso.agc.gov.sg/Acts-Supp/37-2020/Published/20201116?DocDate=20201116){:target="_blank"}.  
 
-#### <a name="step2">Step 2: Hirer/Renter and Other Party renegotiate contract during 4-week Negotiation Period</a> ####
+#### <a name="step2">Step 2: Hirer/Renter and Other Party renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
 
 After the service of the Notice of Revision, there will be a **4-week Negotiation Period** commencing after the date of the Notice of Revision during which the Hirer/Renter and the Other Party are encouraged to renegotiate the repayment schedule for any outstanding payments owed by the Hirer/Renter to the Other Party, or the terms of the contract, where applicable. 
 
 During this Negotiation Period, the Other Party cannot lodge or serve a Notice of Objection. 
 
-#### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection during the 2-week Objection Period</a> ####
+#### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 
 At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
 * Parties have successfully renegotiated the terms of their contract and/or the repayment schedule for outstanding payments. 
@@ -82,7 +82,7 @@ If parties have successfully renegotiated the terms of their contract by the end
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Other Party or his assignee.
 
 
-##### <a name="step3a">(A): Other Party objects to Hirer/Renter’s Notice of Revision</a> #####
+##### <a name="step3a">(A): Other Party objects to Hirer/Renter’s Notice of Revision</a> <a href="#s3a" title="Return to top">↩</a> #####
 If the Other Party or its assignee wishes to object to the Hirer/Renter’s Notice of Revision, the Other Party must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. 
 
 The Other Party or his assignee may <u>only</u> object to the Hirer/Renter’s Notice of Revision on any one or more of the following grounds:
@@ -113,7 +113,7 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 
 ***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
 
-##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> #####
+##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> <a href="#s3b" title="Return to top">↩</a> #####
 Where the Other Party accepts the Hirer/Renter’s Notice of Revision or came to an agreement during the 4-week Negotiation Period, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision or on any other agreed terms. The Other Party does not need to serve and lodge a Notice of Objection in this situation.  
 
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
@@ -121,7 +121,7 @@ If no Notice of Objection is served and lodged during the **2-week Objection Per
 Please also note that there will be no case before an Assessor in this situation. **Steps 4 to 6** below will **<u>not</u>** apply.
 
 
-#### <a name="step4">Step 4: Registrar reviews Notice of Objection</a> ####
+#### <a name="step4">Step 4: Registrar reviews Notice of Objection</a> <a href="#s4" title="Return to top">↩</a> ####
 The Registrar will review the Notice of Objection.
 
 If the Registrar is satisfied that the Notice of Objection is in order, the Registrar will send to the Hirer/Renter, the Other Party and their assignees by way of email:
@@ -131,7 +131,7 @@ If the Registrar is satisfied that the Notice of Objection is in order, the Regi
 
 If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Other Party, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
 
-#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> ####
+#### <a name="step5">Step 5: Assessor Conducts Hearing and Makes Determination</a> #### <a href="#s5" title="Return to top">↩</a
 <u>Where Notice of Objection is lodged</u> 
 
 Where the Other Party or his assignee has lodged a Notice of Objection and the Notice is accepted by the Registrar, the Registrar will appoint one or more Assessors to make a determination on the Other Party or his assignee’s Notice of Objection. 
@@ -155,14 +155,14 @@ If a party to a contract or his assignee is <u>absent</u>  from the hearing, the
 
 If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
 
-#### <a name="step6">Step 6: Registrar Informs Hirer/Renter and Other Party of Assessor’s Determination</a> ####
+#### <a name="step6">Step 6: Registrar Informs Hirer/Renter and Other Party of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Hirer/Renter, the Other Party and their assignees.
 
 There is no appeal against an Assessor’s determination, and it will be binding on all parties to the contract and their assignees.
 
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
-##### <a name="step6a">Withdrawal of Notice of Objection</a> ##### 
+##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#s6a" title="Return to top">↩</a> ##### 
 Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable:
  
 * The Hirer/Renter who served the Notice of Revision; 
