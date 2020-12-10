@@ -1,9 +1,9 @@
 ---
-title: 7. PENDING COURT OR ARBITRATION PROCEEDINGS
+title: 7. Pending Court or Arbitration Proceedings 
 permalink: /realign/pending-court-arbitration
-breadcrumb: 7. PENDING COURT OR ARBITRATION PROCEEDINGS
+breadcrumb: 7. Pending Court or Arbitration Proceedings
 ---
-## PENDING COURT OR ARBITRATION PROCEEDINGS ##
+## Pending Court or Arbitration Proceedings ##
 
 **This page provides information on what you should do if you have pending Court or arbitration proceedings against you for issues related to your Notice of Negotiation/Notice of Revision**.
 
