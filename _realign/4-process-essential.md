@@ -48,7 +48,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 #### <a name="step2">Step 2:  Affected Business and Other Party renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
 
-After the service of the Notice of Negotiation for Contract for National Interest, there will be a **4-week Negotiation Period** commencing after the date of the Notice of Negotiation for Contract for National Interest during which the Affected Business and the Other Party are encouraged to renegotiate the price of the contract.
+After the service of the Notice of Negotiation for Contract of National Interest, there will be a **4-week Negotiation Period** commencing after the date of the Notice of Negotiation for Contract for National Interest during which the Affected Business and the Other Party are encouraged to renegotiate the price of the contract.
 
 During this Negotiation Period, the Other Party cannot lodge or serve a Notice for Repricing. 
 
