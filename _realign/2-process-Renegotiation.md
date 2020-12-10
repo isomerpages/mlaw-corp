@@ -33,7 +33,7 @@ Adjustment and Notice of Compensation</a>
   
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An eligible party  <hyperlink to (1) Key Features of Re-Align Framework> to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Affected Business”) within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
+An [eligible party](/realign/key-features) to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Affected Business”) within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
 * The Affected Business’s guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’s obligations under the contract.
 * Any assignee of any party to the contract.  
