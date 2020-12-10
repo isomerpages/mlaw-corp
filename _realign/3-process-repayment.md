@@ -52,7 +52,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-of-service).
+Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
 ***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
 
 ##### Moratorium #####
