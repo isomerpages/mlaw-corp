@@ -27,7 +27,7 @@ Adjustment</a>
 <a href="#step7" id="s7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a>  
 <a href="#step7a" id="s7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
 Adjustment and Notice of Compensation</a>  
-<a href="#Faq" id="f1">FAQs</a>  
+<a href="#faq" id="f1">FAQs</a>  
 
 <img src="/files/ReAlign/2020-COVID-INFO2.jpg/" title="Process" alt="Process">
 
@@ -260,7 +260,7 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 Please note if you have filed and/or served more than one Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw. 
 
-#### <a name="FAQ">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
+#### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
 **1.	What happens if I do not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021?**
 
