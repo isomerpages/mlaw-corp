@@ -84,7 +84,9 @@ b)  <u>For NPOs</u>: The tenant-occupier suffered at least a 35% drop in average
 
 ##### <a name="effected">How the Rental Waivers will be Effected</a><a href="#refc" title="Return to top">↩</a> #####
 
-From early August, the Inland Revenue Authority of Singapore (IRAS) will issue notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn10" id="ref10">10</a></sup>. The notice will inform property owners of the rental waivers they should provide to their tenants. 
+<u>Notice of cash grant</u>
+
+Since early August, the Inland Revenue Authority of Singapore (IRAS) has been issuing notices of cash grant to qualifying property owners, i.e. owners of property with eligible tenant-occupiers<sup><a href="#fn10" id="ref10">10</a></sup>. The notice informs property owners of the rental waivers they should provide to their tenants. 
 
 Property owners will be required to serve a copy of the IRAS notice on their tenants within four working days of receipt of the notice, so that tenants will have timely confirmation that they are eligible for the rental waivers.  Service of the notice may be done in person or via registered post or email.
 
@@ -94,7 +96,7 @@ b)  Where possible, property owners should also serve a copy of the notice on th
 
 <u>Moratorium on enforcement actions</u>
 
-The majority of qualifying property owners should receive the notice by mid-August 2020. Until the notices of cash grant are issued, the Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things<sup><a href="#fn11" id="ref11">11</a></sup>, landlords are prohibited from taking the following actions on the tenant-occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
+The majority of qualifying property owners should have received the notice by mid-August 2020. Until the notices of cash grant are issued, the Act provides for a moratorium on enforcement actions against tenant-occupiers for non-payment of rent under the lease or licence agreement. Among other things<sup><a href="#fn11" id="ref11">11</a></sup>, landlords are prohibited from taking the following actions on the tenant-occupier or the tenant-occupier’s guarantor/surety in relation to the non-payment of rent:
 
 a)  Terminating the lease or licence agreement;
 
@@ -114,7 +116,7 @@ Where a property (with an eligible end-tenant occupier) has been sublet, the les
 
 <u>Application to IRAS</u>
 
-Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Such eligible tenant-occupiers, or property owners with eligible tenant-occupiers, who have not received the notice of cash grant by 21 August 2020 should make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) between 21 August 2020 and 21 October 2020.
+Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Eligible tenant-occupiers, or property owners with eligible tenant-occupiers who did not receive a notice of cash grant should have submitted an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) by 21 October 2020. While the the deadline to submit an application has passed, applications will still be accepted on a case-by-case basis if there are valid reasons for the delay. Eligible tenant-occupiers, or property owners with eligible tenant-occupiers who have yet to receive the notice of cash grant should submit an application as soon as possible. 
 
 <u>Tenant’s eligibility for rental relief</u>
 
@@ -198,7 +200,7 @@ In addition, if the tenant-occupier terminates the lease or licence and has two 
 <p><sup id="fn7">7. Where none or only one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2018, and more than one member of the same group has carried on business for 12 months or longer as at the last day of the group’s financial year ending on a date in the year 2019, the reference period will be FY2019 instead. If the foregoing is inapplicable, if more than one member of the Singapore group of entities has carried on business for 12 months or longer as at the last day of the group’s financial year ending in the year 2020 on a date that is on or before 31 March 2020, the reference period will be FY 2020. For any other case, the aggregate average monthly revenue of all members of the group will be extrapolated for comparison against the S$100 million revenue threshold. Please refer to Regulation 14 of the <a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730">COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020</a> for further details. <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
 <p><sup id="fn8">8. If the tenant-occupier commenced business after 1 April 2019, comparison will be against the period from the date of commencement of business to 24 March 2020 (both dates inclusive) to ascertain the decrease of 35% or more. <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
 <p><sup id="fn9">9. Please refer to Footnote 8 for further information. <a href="#ref9" title="Jump back to footnote 9 in the text.">↩</a></sup></p>
-<p><sup id="fn10">10. The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
+<p><sup id="fn10">10. The notices are available for qualifying property owners to view on IRAS’ myTax Portal, and will also be sent via hard copy to property owners with eligible tenants. <a href="#ref10" title="Jump back to footnote 10 in the text.">↩</a></sup></p>
 <p><sup id="fn11">11. The full list of restricted actions under the moratorium can be found in Section 19G(2) of the <a href="https://sso.agc.gov.sg/Act/COVID19TMA2020">COVID-19 (Temporary Measures) Act</a>. <a href="#ref11" title="Jump back to footnote 11 in the text.">↩</a></sup></p>
 <p><sup id="fn12">12.  If the lease commenced in 2018 or earlier, and the landlord was required to file an income tax return in YA2019, the period will be YA2019. If the lease commenced in 2019, and the landlord was required to file an income tax return in YA2020, the period will be YA2020. In any other case, the relevant period will be the rental relief period, i.e. 1 April to 31 July 2020 for qualifying commercial properties, or 1 April to 31 May 2020 for other non-residential properties. <a href="#ref12" title="Jump back to footnote 12 in the text.">↩</a></sup></p>
 <p><sup id="fn13">13.  Maintenance and service charges are excluded from the rental waivers. <a href="#ref13" title="Jump back to footnote 13 in the text.">↩</a></sup></p>
