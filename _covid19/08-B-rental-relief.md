@@ -209,7 +209,7 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 <a name="q15">**15.	Now that the Act has come into force, what should I expect next?**</a><a href="#a15" title="Return to top">↩</a>
 
-*	Starting from early August 2020, the Inland Revenue Authority of Singapore (IRAS) will issue a notice of cash grant and disburse the cash grant to owners of property with eligible tenant-occupiers. The notice will inform property owners of the rental waivers they should provide to their tenants. The majority of qualifying property owners should receive the notice by mid-August 2020.
+*	Since early August 2020, the Inland Revenue Authority of Singapore (IRAS) has been issuing a notice of cash grant and disbursing the cash grant to owners of property with eligible tenant-occupiers. The notice informs property owners of the rental waivers they should provide to their tenants. The majority of qualifying property owners should have received the notice by mid-August 2020.
 
 *	<b>All landlords (i.e. the property owner and all intermediary landlords) are required to serve a copy of the notice on their tenants within four working days of receipt of the notice</b>, so that tenants will have timely confirmation that they are eligible for the rental waivers. Service of the notice may be done in person or via registered post or email. 
 
@@ -241,10 +241,9 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 <a name="q17">**17.	What should tenants do if they believe they are eligible for the rental relief but have yet to receive IRAS’ notice of cash grant from their landlord? When can they expect the notice to arrive?**</a><a href="#a17" title="Return to top">↩</a>
 
-*	The notices will be available for qualifying property owners to view on IRAS’ myTax Portal by mid-August 2020, and will also be sent via hard copy to property owners. Majority of the property owners with eligible tenant-occupiers should receive the notice by mid-August 2020. 
+* The notices are available for qualifying property owners to view on IRAS’ myTax Portal, and will also be sent via hard copy to property owners. Majority of the property owners with eligible tenant-occupiers should have received the notice by mid-August 2020. Tenants who wish to check if the notice of cash grant has been issued for a property may also do so via this form: [https://go.gov.sg/noticecg](https://go.gov.sg/noticecg)
 
-*	Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account.  Eligible tenant-occupiers, or property owners with eligible tenant-occupiers, which have not received the notice of cash grant can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) as soon as possible. Tenants who wish to check if the notice of cash grant has been issued for a property may do so via this form: [https://go.gov.sg/noticecg](https://go.gov.sg/noticecg). 
-
+* It was earlier announced that some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account.  Eligible tenant-occupiers, or property owners with eligible tenant-occupiers, which had not received the notice of cash grant could make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). While the deadline to submit an application has passed, applications will still be accepted on a case-by-case basis. Those who wish to submit an application should do so as soon as possible.
 
 <a name="q18">**18. Are property owners required to serve a copy of the notice of cash grant to their tenants within 4 working days from the date of notice or the date after they receive the hard copy notice of cash grant from IRAS?**</a><a href="#a18" title="Return to top">↩</a>
 
@@ -294,7 +293,9 @@ Note: The rental waivers in the table are applicable in cases where the tenant-o
 
 *	Before the notice of cash grant is received by the property owner, should landlords have any doubts as to the eligibility of a tenant-occupier, we encourage both parties to work together and share the necessary information. If a tenant-occupier is confident that they will qualify under the rental relief, they should share the relevant information early to facilitate effective communication with the landlord(s). 
 
-*	As some qualifying property owners may not receive a notice of cash grant for various reasons, property owners who have not received a notice of cash grant can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) as soon as possible. Once IRAS has reviewed the application, the outcome would be clear whether the tenant-occupier meets the eligibility criteria for rental relief, and whether the moratorium should have applied.
+*	It was earlier announced that as some qualifying property owners may not receive a notice of cash grant for various reasons, property owners who have not received a notice of cash grant can make an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant). While the deadline to submit an application has passed, application will still be accepted on a case-by-case basis. Those who wish to submit an application should do so as soon as possible. 
+
+* Once IRAS has reviewed the application, the outcome would be clear whether the tenant-occupier meets the eligibility criteria for rental relief, and whether the moratorium should have applied.
 
 
 <a name="q22">**22. What documents should a tenant provide to prove his eligibility for Rental Relief and/or Additional Rental Relief?**</a><a href="#a22" title="Return to top">↩</a>
