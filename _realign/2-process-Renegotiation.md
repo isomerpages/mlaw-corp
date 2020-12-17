@@ -126,7 +126,7 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 12 February 2021 onwards. Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
+***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards. Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
 If the Other Party or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
 
@@ -150,7 +150,7 @@ To submit to the Registrar and serve the Notice for Compensation on the Recipien
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 12 February 2021 onwards. Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
+***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards. Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
 ##### <a name="step3c">(C) Other Party does not object to Affected Business’ eligibility for relief</a> <a href="#s3c" title="Return to top">↩</a> #####
 
