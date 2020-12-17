@@ -138,7 +138,7 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 *	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 *	If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards**
+***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
