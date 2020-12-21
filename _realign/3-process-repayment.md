@@ -4,7 +4,6 @@ permalink: /realign/process-repayment-scheme
 breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts
 ---
 
-<img src="/files/ReAlign/realign_repayment.jpg/" title="Process" alt="Process">
 
 ### Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts ###
 **This page provides details on the process for a party who wishes to apply for a Repayment Scheme in relation to an eligible contract under the Re-Align Framework, including information on the Notice of Revision**.
@@ -26,6 +25,8 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 <a href="#step6a" id="s6a">Withdrawal of Notice of Objection</a>  
 <a href="#faq" id="f1">FAQs</a>
 
+
+<img src="/files/ReAlign/realign_repayment.jpg/" title="Repayment" alt="Repayment">
 
 #### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
 The following [eligible parties](key-features) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Hirer/Renter”) must serve a Notice of Revision.
