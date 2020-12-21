@@ -4,6 +4,7 @@ permalink: /realign/process-repayment-scheme
 breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts
 ---
 
+<img src="/files/ReAlign/realign_repayment.jpg/" title="Process" alt="Process">
 
 ### Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts ###
 **This page provides details on the process for a party who wishes to apply for a Repayment Scheme in relation to an eligible contract under the Re-Align Framework, including information on the Notice of Revision**.
