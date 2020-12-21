@@ -21,7 +21,8 @@ breadcrumb: 4. Process relating to contracts affecting Essential Services and Na
 <a href="#step6a" id="s6a">Withdrawal of Notice for Repricing</a><br>
 <a href="#faq" id="f1">FAQs</a>
   
-
+<img src="/files/ReAlign/realign_repricing.jpg/" title="Repayment" alt="Repayment">
+ 
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
 An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Affected Business”) on the following Recipient(s), where applicable:
