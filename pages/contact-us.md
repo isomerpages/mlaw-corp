@@ -62,7 +62,7 @@ Singapore 069118
 **Counter Operating Hours:**
 
 Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
-(To avoid the crowd, members of public are advised visit the Services Centre between 8.30am to 11.00am.)<br>
+(To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on Weekends and Public Holidays<br>
 \*Note: The MinLaw Services Centre will close at <u><b>12:00pm</b></u> on <u><b>Christmas Eve (24 Dec 2020)</b></u> and <u><b>New Year’s Eve (31 Dec 2020)</b></u>. The Centre will also close on <u><b>26 Dec 2020</b></u> and <u><b>2 Jan 2021</b></u>.
 
