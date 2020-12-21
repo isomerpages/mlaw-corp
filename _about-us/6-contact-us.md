@@ -61,9 +61,10 @@ Singapore 069118
 
 **Counter Operating Hours:**
 
-Mondays to Fridays 8.30 to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
-(To avoid the crowd, members of public may visit the Services Centre between 8.30 to 11am.)<br>
-Closed on Weekends and Public Holidays
+Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
+(To avoid the crowd, members of public are advised visit the Services Centre between 8.30am to 11.00am.)<br>
+Closed on Weekends and Public Holidays<br>
+\*Note: The MinLaw Services Centre will close at <u><b>12:00pm</b></u> on <u><b>Christmas Eve (24 Dec 2020)</b></u> and <u><b>New Year’s Eve (31 Dec 2020)</b></u>. The Centre will also close on <u><b>26 Dec 2020</b></u> and <u><b>2 Jan 2021</b></u>.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" title="URA Workers Map" alt="URA Workers Map" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
