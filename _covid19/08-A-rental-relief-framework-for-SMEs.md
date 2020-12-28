@@ -104,7 +104,7 @@ b)  Exercising the landlord’s right of re-entry or forfeiture under the lease 
 
 c)  Starting or continuing court or insolvency proceedings.
 
-The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 31 December 2020 if no such notice is received by then. 
+The moratorium ends when IRAS issues the notice of cash grant to the property owner, or on 30 April 2021 if no such notice is received by then. 
 
 <b>Once the property owner receives the notice of cash grant, the applicable rent and any interest payable on the rent is waived under the Act. Tenants do not need to pay rent for the months covered by the rental relief framework</b>, unless other factors apply. For example, in cases where landlords have earlier provided assistance to their tenants or reached an agreement to provide assistance to their tenants, in the form of monetary payments or reduction of payments due under the lease agreement, these can be offset from the landlords’ rental waiver obligations. Please refer to [this](/files/rentalreliefframework/calculation_of_rental_waivers.pdf) for details of these factors. 
 
