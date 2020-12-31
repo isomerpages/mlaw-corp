@@ -116,7 +116,7 @@ Where a property (with an eligible end-tenant occupier) has been sublet, the les
 
 <u>Application to IRAS</u>
 
-Some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Eligible tenant-occupiers, or property owners with eligible tenant-occupiers who did not receive a notice of cash grant should have submitted an application to IRAS at [https://go.gov.sg/governmentcashgrant](https://go.gov.sg/governmentcashgrant) by 21 October 2020. While the the deadline to submit an application has passed, applications will still be accepted on a case-by-case basis if there are valid reasons for the delay. Eligible tenant-occupiers, or property owners with eligible tenant-occupiers who have yet to receive the notice of cash grant should submit an application as soon as possible. 
+It was earlier announced that some qualifying property owners may not receive a notice of cash grant for various reasons, such as property owners whose properties are only partially let out, or whose properties are let out to both SME and non-SME tenant-occupiers under a single property tax account. Eligible tenant-occupiers, or property owners with eligible tenant-occupiers who did not receive a notice of cash grant should have submitted an application to IRAS by 21 October 2020. The deadline to submit an application has since passed and applications will no longer be accepted. 
 
 <u>Tenant’s eligibility for rental relief</u>
 
