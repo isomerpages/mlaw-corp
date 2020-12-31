@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 
 ### Event or tourism-related contracts ###
-<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts has been extended from 19 October 2020 to 31 December 2020. The extension of the prescribed period provides individuals and businesses who have booked events or tours in late 2020 and 2021 with more time to monitor the COVID-19 situation and discuss with their vendors whether and how they should proceed, before deciding if they need to rely on reliefs under the Act.  Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.   
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts has been extended from 19 October 2020 to 31 January 2021. The extension of the prescribed period provides individuals and businesses who have booked events or tours in late 2020 and 2021 with more time to monitor the COVID-19 situation and discuss with their vendors whether and how they should proceed, before deciding if they need to rely on reliefs under the Act.  Please refer to this [press release](../../news/press-releases/further-extension-of-relief-period-under-the-covid-19-temporary-measures-act-for-event-and-tourism-related-contracts) for more information.   
 
 #### General FAQs ####
 **1. What is an event contract?**
@@ -38,25 +38,25 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 * The Act applies to event or tourism-related contracts if: 
 
   * The contract was entered into before 25 March 2020;
-  * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020);* •	Please take note that in order for the relief measures to apply, the Notification for Relief has to be served by the end of the prescribed period (i.e. <a href="#31Decnote">31 December 2020</a>). 
+  * The contractual obligation is to be performed on or after 1 February 2020 (e.g. the wedding banquet was to be provided on 14 April 2020);* •	Please take note that in order for the relief measures to apply, the Notification for Relief has to be served by the end of the prescribed period (i.e. <a href="#31Decnote">31 January 2021</a>). 
 
-•	Should the parties be unable to reach a resolution by themselves after the Notification for Relief is served, an application for an Assessor’s Determination in relation to an event or tourism-related contract has to be filed by 28 February 2021. 
+•	Should the parties be unable to reach a resolution by themselves after the Notification for Relief is served, an application for an Assessor’s Determination in relation to an event or tourism-related contract has to be filed by 31 March 2021. 
 COVID-19 (e.g. wedding could not be held on 14 April 2020 because of the “circuit-breaker” measures).
 
 * **You will need to serve a Notification for Relief on the other party to the contract to enjoy the reliefs under the Act. Please refer to FAQ (6) below**
 
-**4. Does the relief under the Act only apply to an event or tour that is held / to be held on or before <a href="#31Decnote">31 December 2020</a>? Do the relief measures under the Act apply to events or tours after <a href="#31Decnote">31 December 2020</a>?**
+**4. Does the relief under the Act only apply to an event or tour that is held / to be held on or before <a href="#31Decnote">31 January 2021</a>? Do the relief measures under the Act apply to events or tours after <a href="#31Decnote">31 January 2021</a>?**
 
-* The relief measures under the Act apply to any event or tour that can be shown to be affected materially by COVID-19, regardless of whether the event is before or after <a href="#31Decnote">31 December 2020</a>. 
+* The relief measures under the Act apply to any event or tour that can be shown to be affected materially by COVID-19, regardless of whether the event is before or after <a href="#31Decnote">31 January 2021</a>. 
 
-* Please take note that in order for the relief measures to apply, the Notification for Relief has to be served by the end of the prescribed period (i.e. <a href="#31Decnote">31 December 2020</a>). 
+* Please take note that in order for the relief measures to apply, the Notification for Relief has to be served by the end of the prescribed period (i.e. <a href="#31Decnote">31 January 2021</a>). 
 
-* Should the parties be unable to reach a resolution by themselves after the Notification for Relief is served, an application for an Assessor’s Determination in relation to an event or tourism-related contract has to be filed by 28 February 2021. 
+* Should the parties be unable to reach a resolution by themselves after the Notification for Relief is served, an application for an Assessor’s Determination in relation to an event or tourism-related contract has to be filed by 31 March 2021. 
 
 
 **5. What reliefs under the Act are applicable to me?**
 
-* If you are **unable to carry out your contractual obligation due to COVID-19**, the other party to the contract cannot take or continue legal action against you in respect of that obligation during the prescribed period (i.e. up to <a href="#31Decnote">31 December 2020</a>).
+* If you are **unable to carry out your contractual obligation due to COVID-19**, the other party to the contract cannot take or continue legal action against you in respect of that obligation during the prescribed period (i.e. up to <a href="#31Decnote">31 January 2021</a>).
 
 * Further, if the Act applies to your contract, the deposit you have placed with the vendor for that contract **cannot be automatically forfeited**. If a deposit has purportedly been forfeited, it must be restored. 
 

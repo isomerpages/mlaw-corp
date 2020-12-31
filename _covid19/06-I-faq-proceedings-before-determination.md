@@ -16,8 +16,7 @@ third_nav_title: '1C. Application for an Assessor’s Determination'
 | <b>Deadline to file an application for an Assessor’s Determination</b> | <b>Categories of Contracts</b>
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property* <br>-- Hire-purchase and conditional sales agreements for commercial vehicles, or plant/machinery used for commercial purposes* <br>-- Loans to SMEs secured by certain collateral in Singapore*
 | <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes* <br>-- Rental agreements for commercial equipment or commercial vehicles*
-| <b>28 Feburary 2021</b> | -- Event and tourism-related contracts 
-| <b>31 March 2021</b> | -- Sale and puchase agreements with developers* 
+| <b>31 March 2021</b> | -- Event and tourism-related contracts <br>-- Sale and puchase agreements with developers* 
 | <b>31 May 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto <br>-- Options to purchase with developers 
 
 \* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. 
