@@ -19,7 +19,6 @@ To ask the Minister for Law (a) over the past five years, in how many cases of s
 
 {:start="2"}
 2.	In some cases, the Prosecution will additionally tender a victim impact statement (“VIS”) if the Prosecution thinks that this would be of assistance to the Court. Based on available data:
-
     a.	From 2017 to 2019, a VIS was tendered in 28 State Court cases involving one or more sexual offences.
     b.	From 2015 to 2019, a VIS was tendered in 23 High Court cases involving one or more sexual offences. 
 
