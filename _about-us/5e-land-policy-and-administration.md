@@ -32,7 +32,7 @@ MinLaw formulates and reviews the following policies to support the optimal use 
   <li>
     <b>Land Acquisition Act</b>
     <ul class="no-style">
-      <li>The <a href="https://sso.agc.gov.sg/Act/LAA1966?TransactionDate=19920325235959" target="_blank">Land Acquisition Act (LAA)</a> is a key legislation that enables the compulsory acquisition of private land for public purposes, such as the building of transportation infrastructure and public housing. Landowners whose lands are acquired are paid market value compensation under the LAA.  </li>
+      <li>The <a href="https://sso.agc.gov.sg/Act/LAA1966" target="_blank">Land Acquisition Act (LAA)</a> is a key legislation that enables the compulsory acquisition of private land for public purposes, such as the building of transportation infrastructure and public housing. Landowners whose lands are acquired are paid market value compensation under the LAA.  </li>
     </ul>
   </li>
   <li>

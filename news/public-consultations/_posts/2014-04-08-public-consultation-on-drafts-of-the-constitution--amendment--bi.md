@@ -55,7 +55,7 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 {:start="10"}
 10. The SICC Committee recommended (see Report at para [37]) that for cases which have no substantial connection to Singapore, foreign counsel may, upon registering with SICC, have rights of audience before the SICC as well as before the Court of Appeal in hearings that arise out of the SICC (see Report at para [40]). The proposed Legal Profession (Amendment) Bill proposes to confer the privilege of appearing before the SICC on foreign lawyers registered for this purpose. The Bill also contains a proposed framework to allow for the investigation and disposal of complaints against such counsel, as recommended by the SICC Committee (see Report at para [41]).
 
-11. The proposed Legal Profession (Amendment) Bill is found at Annex D. These should be read with the wider amendments to the Legal Profession Act, which are also being consulted on and which can be found at [http://www.mlaw.gov.sg/news/public-consultations/public-consultation-on-the-legal-profession-amendment-bill-2011/](http://www.mlaw.gov.sg/news/public-consultations/public-consultation-on-the-legal-profession--amendment--bill-201.html)
+11. The proposed Legal Profession (Amendment) Bill is found at Annex D. These should be read with the wider amendments to the Legal Profession Act, which are also being consulted on.
 
 <b>C <u> Feedback sought</u></b>
 
