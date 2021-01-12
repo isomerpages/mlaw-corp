@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Rental agreements for commercial equipment ###
 
-<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for rental agreements for commercial equipment has been extended from 19 October 2020 to 31 January 2021. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Renters may wish to consider taking up the Repayment Scheme under the [Re-Align Framework](https://www.mlaw.gov.sg/covid19-relief/re-align-framework#additional) when it comes into force. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for rental agreements for commercial equipment has been extended from 19 October 2020 to 31 January 2021. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Renters may wish to consider taking up the Repayment Scheme under the [Re-Align Framework](https://www.mlaw.gov.sg/realign/process-repayment-scheme) when it comes into force. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
 
 #### General FAQs ####
 
