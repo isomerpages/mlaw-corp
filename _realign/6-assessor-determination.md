@@ -20,7 +20,7 @@ Such determinations may, with leave of the Court, be enforced in the same manner
 A person, who without reasonable excuse, fails to comply with any determination binding on the person shall be guilty of an offence and shall be liable on conviction.
 
 ### <a name="set">Application to Set Aside Assessor’s Decision/Determination</a> <a href="#s2" title="Return to top">↩</a> ###
-Please note that if a person who is directed to attend a hearing **absent from the hearing**, the Assessor may: 
+Please note that if a person who is directed to attend a hearing is **absent from the hearing**, the Assessor may: 
 
 * deem that the person, who was absent, has withdrawn the notice lodged by that person; or
 * hear and make a determination on the matter. 
