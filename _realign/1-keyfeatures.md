@@ -245,12 +245,12 @@ First, check the date of commencement of your business. The date of commencement
 
 Second, check the relevant periods for which you should compute the fall in monthly gross income based on the date of commencement of your business, from the table below.  
 
-| | Where your business’s Commencement Date is: | Relevant Periods to compute fall in average monthly Gross Income (both dates inclusive)
-| (a)	| On or before 1 Jul 2019 |	1 Jul 2019 – 31 Dec 2019	vs	1 Jul 2020 – 31 Dec 2020
-| (b)	| Any time between 2 Jul 2019 to 1 Dec 2019	|	Commencement Date – 31 Dec 2019	vs	1 Jul 2020 – 31 Dec 2020
-|	(c)	|	Any time between 2 Dec 2019 to 1 Jan 2020	|	Commencement Date– 31 Jan 2020	vs	1 Jul 2020 – 31 Dec 2020 
-|	(d)	|	Any time from 2 Jan 2020 to 1 Jul 2020	|	Projections for 1 Jul 2020 – 31 Dec 2020	vs	|	1 Jul 2020 – 31 Dec 2020 
-|	(e)	|	Any time from 2 Jul 2020 to 1 Sep 2020	|	Projections for Commencement Date – 31 Dec 2020	vs	|	Commencement Date – 31 Dec 2020
+| | **Where your business’s Commencement Date is:** | **Relevant Periods to compute fall in average monthly Gross Income (both dates inclusive)**
+| (a)	| **On or before 1 Jul 2019** |	1 Jul 2019 – 31 Dec 2019	vs |	1 Jul 2020 – 31 Dec 2020
+| (b)	| **Any time between 2 Jul 2019 to 1 Dec 2019**	|	Commencement Date – 31 Dec 2019	vs	| 1 Jul 2020 – 31 Dec 2020
+|	(c)	|	**Any time between 2 Dec 2019 to 1 Jan 2020**	|	Commencement Date– 31 Jan 2020	vs	| 1 Jul 2020 – 31 Dec 2020 
+|	(d)	|	**Any time from 2 Jan 2020 to 1 Jul 2020**	|	Projections for 1 Jul 2020 – 31 Dec 2020	vs	|	1 Jul 2020 – 31 Dec 2020 
+|	(e)	|	**Any time from 2 Jul 2020 to 1 Sep 2020**	|	Projections for Commencement Date – 31 Dec 2020	vs	|	Commencement Date – 31 Dec 2020
 
 For example, a business which commenced on 15 Jul 2019 should compare its average monthly gross income in the period 1 Jul 2020 to 31 Dec 2020, to its average monthly gross income in the period 15 Jul 2019 to 31 Dec 2019. 
 
