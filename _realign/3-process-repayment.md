@@ -117,7 +117,7 @@ The following documents **must be attached** to the **Notice of Objection**:
 
 * A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
 * Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
-* If the Other Party has a proposal on the repayment schedule, all supporting documents to support the Other Party’s proposal. 
+* If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. 
 
 <u>Submission and service by the electronic system</u> 
 
