@@ -35,7 +35,7 @@ The following [eligible parties](key-features) (“the Hirer/Renter”) who wish
 
 (b)	a renter under a rental agreement for commercial equipment or commercial vehicle 
 
-Please refer to the following links for the methods by which your eligibility will be assessed
+Please refer to the following links for the methods by which your eligibility will be assessed:
 <br>
 (a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
 <br>
@@ -66,7 +66,7 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 <br>
 2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). 
 <br>
-3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY@mlaw.gov.sg).
 
 
 please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
