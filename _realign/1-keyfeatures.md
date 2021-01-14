@@ -273,7 +273,7 @@ and the arrangement or compromise is not set aside or revoked, the contract (to 
 Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to seek relief, you will still be eligible to seek to adjust your rights and obligations under the contract in accordance with the default terms of termination under the Framework. Please refer [here](/realign/process-renegotiation).
 
 You will however not be eligible for relief where on or after 2 November 2020, and before your contract is terminated under the Framework:
-(a)	your contract has naturally expired without a renewal of the contract; or
+(a)	your contract naturally expired without a renewal of the contract; or
 (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
 **11.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
@@ -290,7 +290,7 @@ Commercial equipment means:
 **13.	What is considered a commercial vehicle under the Framework?**
 
 Commercial vehicle means a vehicle in Singapore that is:
-(a)	a goods vehicle, but does not include a goods cum passengers vehicle;
+(a)	a goods vehicle;
 (b)	an excursion bus, private bus, private hire bus, omnibus or school bus;
 (c)		a private hire car;
 (d)	a taxi; or
