@@ -173,7 +173,7 @@ A specified arts and culture society is a society that is registered under secti
 <br>
 (a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
 
-|85420 |	Music, dancing, art, speech and drama instruction
+|85420 |	Music, dancing, art, speech and drama instruction |
 
 |90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
 
@@ -190,6 +190,7 @@ A specified arts and culture society is a society that is registered under secti
 |91022	| Art galleries (excluding retail)
 
 |91029	| Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified
+
 <br>
 (b)	Satisfies one or more of the following conditions:<br>
 (i)	is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive); <br>
