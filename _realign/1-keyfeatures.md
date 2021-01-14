@@ -174,21 +174,13 @@ A specified arts and culture society is a society that is registered under secti
 (a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
 
 |85420 |	Music, dancing, art, speech and drama instruction
-
 |90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
-
 |90002	| Performing arts venue operation
-
 |90003	| Operas, wayang and puppet shows
-
 |90004	| Orchestras, musical bands, choirs and dance groups
-
 |90009	| Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)
-
 |91021	| Museums
-
 |91022	| Art galleries (excluding retail)
-
 |91029	| Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified
 
 <br>
