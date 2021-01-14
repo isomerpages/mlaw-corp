@@ -53,8 +53,6 @@ To serve the Notice of Negotiation for Contract of National Interest using the e
 *	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-corppass) (CorpPass).
 *	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-singpass) (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
-
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg) or [https://www.corppass.gov.sg](https://www.corppass.gov.sg), respectively. 
 
 #### <a name="step2">Step 2:  Affected Business and Other Party renegotiate contract during 4-week Negotiation Period</a> <a href="#s2" title="Return to top">↩</a> ####
