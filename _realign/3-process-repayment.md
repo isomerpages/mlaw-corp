@@ -53,16 +53,23 @@ The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. 
 
 To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-singpass) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
+Only if you are unable to serve the Notice of Revision using the electronic system, 
+<br>
+1. Download the physical copy of the Notice of Revision [here](https://go.gov.sg/re-align-physicalform8).
+<br>
+2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). 
+<br>
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
+
+
+please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
 ***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
 
 ##### Moratorium #####
