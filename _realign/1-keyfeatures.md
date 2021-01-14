@@ -106,7 +106,7 @@ Where the renegotiation fails, the party seeking a renegotiation of the price ma
 
 <u>How to apply</u>
 
-If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**. Before serving the Notice of Negotiation for Contract of National Interest, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs) which must be enclosed to the Notice.
+If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**. Before serving the Notice of Negotiation for Contract of National Interest, you should prepare the supporting documents (set out [here](https://go.gov.sg/re-align- landlordhardship-supportingdocs)) which must be enclosed to the Notice.
 
 For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer [here](/realign/process-essential-services).
 
