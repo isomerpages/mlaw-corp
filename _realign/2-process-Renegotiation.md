@@ -360,11 +360,17 @@ Parties may wish to consider referring their matter to the Singapore Mediation C
 If parties wish to refer their matter for mediation at SMC, parties should email [enquiries@mediation.com.sg](mailto:enquiries@mediation.com.sg?subject=Re-Align Framework – Mediation of Dispute) with the subject header: **Re-Align Framework – Mediation of Dispute**. A copy of the Notice of Negotiation, along with the relevant supporting documents accompanying the Notice of Negotiation, should also be enclosed in the email to SMC.
 
 SMC has also kindly extended the following discounted fee rates for parties who wish to mediate under the Re-Align Framework:
+
 | Sum in dispute | Mediation fees (per party)* | Filing fees
+
 | S$0 – S$10,000 | S$80.25 for 4 hrs via videoconferencing | Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
-| S$10,001 - S$20,000 | S$214 for 4 hrs |  |
+
+| S$10,001 - S$20,000 | S$214 for 4 hrs |  
+
 | S$20,001 – S$40,000 | S$299.60 for 4 hrs |  
+
 | S$40,001 – S$60,000 | S$385.20 for 4 hrs |  
+
 
 After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer here <hyperlink to https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf> for more information. 
 
