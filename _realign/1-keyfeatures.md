@@ -200,8 +200,9 @@ A specified arts and culture society is a society that is registered under secti
 (iii)	is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
 
 **3. What is the definition of a “specified trade association”?** 
+
 A specified trade association means a society — 
-(a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); 
+<br>(a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); 
 
 (b)	that supports its members in developing their respective businesses by conducting activities that relate to trade, commerce, investment or industry development; and 
 
