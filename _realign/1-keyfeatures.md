@@ -130,7 +130,7 @@ The rental income should be computed based on what the landlord ought to have re
 
 <u>How to apply</u>
 
-If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time. Before serving the Notice for Compensation, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice for Compensation.
+If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time. Before serving the Notice for Compensation, you should prepare the supporting documents (set out [here](https://www.go.gov.sg/re-align-landlordhardship-supportingdocs)) which must be enclosed to the Notice for Compensation.
 
 For more details on how to serve and lodge a Notice for Compensation, please refer [here](/realign/process-renegotiation).
 
@@ -150,7 +150,7 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Revision, you should prepare the supporting documents (set out [here](https://www.go.gov.sg/re-align-landlordhardship-supportingdocs) which must be enclosed to the Notice of Revision. 
+If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Revision, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision. 
 
 For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
