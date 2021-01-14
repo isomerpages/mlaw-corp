@@ -58,7 +58,15 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-<u>**Only if**</u> you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
+<u>**Only if**</u> you are unable to serve the Notice of Negotiation using the electronic system, please 
+
+1. Download the physical copy of the Notice of Negotiation
+* If you are acting on behalf of an entity to the contract, please download this form.
+* If you are an individual who is a party to the contract, please download this form.
+
+2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
+
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
 ***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
 
