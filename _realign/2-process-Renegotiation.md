@@ -350,3 +350,28 @@ For more information on mediation and how it may help you, please refer to the l
 (a)	[Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/);
 
 (b)	Mediation at the [Singapore Mediation Centre](https://www.mediation.com.sg).
+
+**10. I am an Affected Business. The Other Party and I are agreeable to engage a mediator during the 4-week negotiation period to assist with our negotiations. What is the process and is there any cost involved?**
+
+Parties may wish to consider referring their matter to the Singapore Mediation Centre (“SMC”) or the Law Society Mediation Scheme (“LSMS”) to engage an independent mediator to assist parties with mediation for purposes of the 4-week negotiation period. 
+
+<u>Singapore Mediation Centre</u>
+
+If parties wish to refer their matter for mediation at SMC, parties should email [enquiries@mediation.com.sg](mailto:enquiries@mediation.com.sg?subject=Re-Align Framework – Mediation of Dispute) with the subject header: **Re-Align Framework – Mediation of Dispute**. A copy of the Notice of Negotiation, along with the relevant supporting documents accompanying the Notice of Negotiation, should also be enclosed in the email to SMC.
+
+SMC has also kindly extended the following discounted fee rates for parties who wish to mediate under the Re-Align Framework:
+| Sum in dispute | Mediation fees (per party)* | Filing fees
+| S$0 – S$10,000 | S$80.25 for 4 hrs via videoconferencing | Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
+| S$10,001 - S$20,000 | S$214 for 4 hrs |  |
+| S$20,001 – S$40,000 | S$299.60 for 4 hrs |  
+| S$40,001 – S$60,000 | S$385.20 for 4 hrs |  
+
+After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer here <hyperlink to https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf> for more information. 
+
+<u>Law Society Mediation Scheme</u>
+
+If parties wish to refer their matter for mediation at LSMS, parties should submit a completed Request for Mediation form via email to [represent@lawsoc.org.sg](mailto:represent@lawsoc.org.sg); and pay the required non-refundable administration fee of S$100.00 per party. A copy of the Notice of Negotiation, along with the relevant supporting documents accompanying the Notice of Negotiation, should also be enclosed in the email to Law Society.
+  
+LSMS has also kindly extended discounted fee rates for parties who wish to mediate under the Re-Align Framework. More information on the discounted fee rates may be found here.
+  
+**Please also note that any request to Singapore Mediation Centre or to the Law Society Mediation Scheme should be made <u>before the end of the 2nd week of the 4-week negotiation period</u>**. This is to allow SMC or LSMS sufficient time to appoint a mediator to assist in the parties’ negotiations.
