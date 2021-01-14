@@ -372,7 +372,7 @@ SMC has also kindly extended the following discounted fee rates for parties who 
 | S$40,001 – S$60,000 | S$385.20 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
 
 
-After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer here <hyperlink to https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf> for more information. 
+After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer [here](https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf) for more information. 
 
 <u>Law Society Mediation Scheme</u>
 
