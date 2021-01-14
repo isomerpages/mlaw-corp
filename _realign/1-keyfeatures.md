@@ -225,15 +225,17 @@ For most businesses, the following types of gains will typically not be derived 
 For the avoidance of doubt, any COVID-19 related reliefs and grants (such as the JSS) will not be considered to be in derived from the ordinary activities of the business. 
 
 **6. What if my business only commenced after July 2019?  How will I satisfy the requirement of a 70% fall in income?** 
+
 First, check the date of commencement of your business. The date of commencement of a business is the date when the business is first in a position to earn revenue from its operations. 
 
 * To illustrate, consider the following retail business:
-| Date | Events
-| 1 Jan 2019	| Incorporation of company
-| 1 Mar 2019	| Signed tenancy agreement for business premises, purchased office equipment, recruited staff, placed orders for products to be sold
-| 1 May 2019	| Retail stock arrived and arranged on shelves
-| 15 Jul 2019	| Store opened its doors to the public
-| 15 Sep 2019	| Official opening ceremony
+
+|Date | Events
+|1 Jan 2019	| Incorporation of company
+|1 Mar 2019	| Signed tenancy agreement for business premises, purchased office equipment, recruited staff, placed orders for products to be sold
+|1 May 2019	| Retail stock arrived and arranged on shelves
+|15 Jul 2019	| Store opened its doors to the public
+|15 Sep 2019	| Official opening ceremony
 
 * Based on the above, the retail business may be considered to have commenced when it opened its doors to the public. Thus, its date of commencement of business would be 15 Jul 2019. The opening ceremony merely commemorates the business’s opening and does not alter the date of commencement. 
 
