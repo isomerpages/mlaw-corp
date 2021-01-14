@@ -21,12 +21,11 @@ To be eligible for any type of relief under the Re-Align Framework (“the Frame
 
 (a) A business’ annual revenue* must not exceed S$30 million at a global group level; and
 
-(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2019 to 31 December 2019<!--^-->.
+(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2019 to 31 December 2019** <!--^-->.
 
-*The annual revenue of the business or group (if the business is part of a group) for the latest financial year ending on or before 31 March 2020, will be assessed. 
-<!--For businesses or groups that do not have such information, please refer to [here](files/realign/?) for the alternative periods of assessment of annual revenue.--> 
+*The annual revenue of the business or group (if the business is part of a group) for the latest financial year that ended on or before 31 March 2020, will be assessed. For businesses or groups that do not have a financial year that ended on or before 31 March 2020, alternative periods for assessing annual revenue are set out at [www.go.gov.sg/re-align-annualrevenue](http://www.go.gov.sg/re-align-annualrevenue).
 
-<!--^For parties that commenced business (i.e. be in a position to earn revenue from operations) after 1 July 2019, please refer to [here](files/realign/?) for the equivalent comparison periods by which the fall in monthly average gross income may be computed.-->
+**For businesses which have not commenced business by 1 July 2019, alternative periods for assessing the fall in monthly average gross income are set out at [www.go.gov.sg/re-align-incomefall-comparisonperiods](http://www.go.gov.sg/re-align-incomefall-comparisonperiods). A business must however have commenced business by 1 September 2020 to be eligible under the Framework.
 
 <u>Individuals (e.g. freelancers) / Non-Profit Organisations</u>
 
