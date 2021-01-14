@@ -51,7 +51,7 @@ The Notice of Negotiation must be served within **6 weeks** from 15 January 2021
 <u>Service by the electronic system</u>
 
 To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](<https://go.gov.sg/re-align-physicalform1-entity) (CorpPass).
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/re-align-physicalform1-entity) (CorpPass).
 *	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/re-align-physicalform1-individual) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
