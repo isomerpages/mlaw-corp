@@ -16,7 +16,7 @@ You may serve the Notices on the Recipient(s):
 
 (a) By **email**, to:
 
-(i)	the Recipient’s email address designated by the Recipient in a Notice; or
+  (i)	the Recipient’s email address designated by the Recipient in a Notice; or
 
 (ii)	if there is no designated email address in (i), an email address by which you have corresponded with on matters concerning the contract in question; or
 
