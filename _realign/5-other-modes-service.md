@@ -26,7 +26,7 @@ You may serve the Notices on the Recipient(s):
 
 (c) Only if you are unable to serve by (a) or (b) above, you may do so by both:
 
-(i)	the **mode of service specified under the contract for giving notice; **<u>and</u>**
+(i)	the **mode of service specified under the contract for giving notice; <u>and</u>**
 
 (ii)	**prepaid registered post** (You should keep a copy of the registered post slip or courier slip as proof of service)
 
