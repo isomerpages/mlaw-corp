@@ -25,7 +25,17 @@ breadcrumb: 4. Process relating to contracts affecting Essential Services and Na
  
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Affected Business”) on the following Recipient(s), where applicable:
+An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) (“the Affected Business”) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest. The contract must first be certified by the Relevant Minister as a Contract for National Interest before the Notice of Negotiation for Contract of National Interest may be served.
+
+Please refer to the following links for the methods by which your eligibility will be assessed
+<br>
+(a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
+<br>
+(b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
+
+Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Negotiation for Contract of National Interest.
+
+The Affected Business must serve the Notice of Negotiation for Contract of National Interest on the following Recipient(s), where applicable:
 
 * Any other party to the contract (“the Other Party”).
 * The Affected Business’ guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’ obligations under the contract.
@@ -33,12 +43,12 @@ An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of Nat
 
 The **Notice of Negotiation for Contract of National Interest** must be served by the later of: 
 
-(a) 4 weeks from the date of issuance of the certificate by the Relevant Portfolio Minister to the Affected Business; or
+(a) 4 weeks from the date of issuance of the certificate by the Relevant Portfolio Minister to the Affected Business; or<br>
 (b) 26 February 2021. 
 
 **<u>Service by the electronic system</u>**
 
-To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
+To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you **<u>must have</u>** an email address as well as the email address(es) of the Recipient(s):
 
 *	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 *	If you are an individual who is a party to the contract, please use this link* (SingPass). 
