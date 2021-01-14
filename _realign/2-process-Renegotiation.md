@@ -154,11 +154,12 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
 * Any assignee of any party to the contract.
 
+**Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out here) which must be enclosed to the Notice for Compensation.** 
 
 **Note**: The **2-week Objection Period** is the same period in which the Landlord must lodge and serve the Notice of Objection, if applicable. 
 
 * If the landlord wishes to dispute the tenant’s eligibility for relief but at the same time wishes to obtain compensation from the tenant if the contract is ultimately terminated, the landlord <u>must</u> lodge and serve both a Notice of Objection and a Notice for Compensation within the **2-week Objection Period**. 
-* Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. 
+* Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. A Notice for Compensation may be lodged and served even if a Notice of Objection is not lodged and served.
 
 <u>Submission and service by the electronic system</u> 
 
@@ -187,7 +188,7 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 
 The Notice for Adjustment must be accompanied by the following documents:
 * A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.
-* All supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
+* Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
 
 <u>Submission and service by the electronic system</u> 
 
@@ -230,7 +231,7 @@ The Registrar will proceed to appoint one or more Assessors to make a determinat
 
 <u>Where no Notice of Objection and/or Notice of Compensation, and only Notice for Adjustment is lodged</u>
 
-Where the Other Party or his assignee has not lodged a Notice of Objection and/or Notice of Compensation and only a Notice for Adjustment is lodged, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
+Where the Other Party or his assignee has not lodged a Notice of Objection and/or Notice of Compensation and only a Notice for Adjustment is lodged by either party, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
 
 <u>Mode of hearing</u>
 
