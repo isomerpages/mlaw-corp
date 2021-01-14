@@ -282,9 +282,9 @@ Please note if you have filed and/or served more than one Notice of Negotiation,
 
 **The timeline for service is a hard deadline.** If you do not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
 
-**2.	My contract was terminated by the Other Party on or after 2 November 2020 and before I served the Notice of Negotiation? How do I apply for relief?**
+**2.	My contract was terminated by the Other Party on or after 2 November 2020 and before I served the Notice of Negotiation. How do I apply for relief?**
 
-The process above applies in the same manner for contracts which were terminated on or after 2 November 2020 and before the Notice of Negotiation has been served, except that the date of termination would be the date in which your contract was terminated by the Other Party.
+The process above applies in the same manner for contracts which were terminated on or after 2 November 2020 and before the Notice of Negotiation has been served, except that the date of termination would be the date on which your contract was terminated by the Other Party.
 
 **3.	What if the Other Party terminates my contract after I serve the Notice of Negotiation?**
 
@@ -304,7 +304,7 @@ Parties are encouraged to use the **[4-week Negotiation Period](#step2)** to rea
 
 **5.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
 
-Yes, you may if the second Notice of Negotiation can be served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
+Yes, you may reissue another Notice of Negotiation for the same contract, provided if the second Notice of Negotiation is served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
 
 **6.	What is the consequence of breaching the moratorium?**
 
