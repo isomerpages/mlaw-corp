@@ -69,9 +69,6 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY@mlaw.gov.sg).
 
 
-please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
-***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
-
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](/realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
 
