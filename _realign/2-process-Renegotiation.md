@@ -51,8 +51,8 @@ The Notice of Negotiation must be served within **6 weeks** from 15 January 2021
 <u>Service by the electronic system</u>
 
 To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/re-align-physicalform1-entity) (CorpPass).
-*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/re-align-physicalform1-individual) (SingPass). 
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-corppass) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-singpass) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
@@ -61,8 +61,8 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 **<u>Only if</u>** you are unable to serve the Notice of Negotiation using the electronic system, please 
 
 1. Download the physical copy of the Notice of Negotiation
-* If you are acting on behalf of an entity to the contract, please download this form.
-* If you are an individual who is a party to the contract, please download this form.
+* If you are acting on behalf of an entity to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-entity).
+* If you are an individual who is a party to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-individual).
 
 2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
 
