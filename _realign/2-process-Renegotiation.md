@@ -87,7 +87,7 @@ Broadly, the prohibition will end on the earliest of the following:
 
   (ii)	The day the only or last Notice for Adjustment is withdrawn; 
 
-  (iii)	The day the Notice of Compensation is withdrawn, if no Notice of Objection or no Notice for Adjustment are served and lodged; 
+  (iii)	The day the Notice for Compensation is withdrawn, if no Notice of Objection or no Notice for Adjustment are served and lodged; 
 
   (iv)	Where the Registrar determines that no Assessor needs to be appointed; 
 
@@ -102,7 +102,7 @@ After the service of the Notice of Negotiation, there will be a **4-week Negotia
 
 During this **4-week Negotiation Period**, the Other Party cannot lodge or serve a Notice of Objection. 
 
-#### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection and/or Notice of Compensation during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
+#### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection and/or Notice for Compensation during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 
 At the end of the **4-week Negotiation Period**, the two possible outcomes are: 
 * Parties have successfully renegotiated the terms of their contract. 
@@ -114,12 +114,15 @@ If parties have successfully renegotiated the terms of their contract by the end
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are three courses of action for the Other Party or his assignee: 
 
+**NOTE:** If the negotiations do not succeed and the eligible Affected Business does not wish for the contract to be terminated under the Framework, the Affected Business may serve the [Notice of Withdrawal](https://www.mlaw.gov.sg/realign/process-renegotiation#step7a) in respect of the Notice of Negotiation, **before the contract is terminated under the Framework**. In this regard, note that if the Other Party does not serve and lodge a Notice of Objection during the **2-week Objection Period**, the contract is deemed terminated **2 days** after the end of the 2-week Objection Period. 
+
 ##### <a name="step3a">(A) Other Party objects to Affected Business’ eligibility for relief</a> <a href="#s3a" title="Return to top">↩</a> #####
 
 If the Other Party or his assignee wishes to dispute the Affected Business’ eligibility for relief under the Framework, within the **2-week Objection Period**, he must serve a Notice of Objection on the required parties and lodge the Notice of Objection with the Registrar. 
 
 The Other Party or his assignee may <u>only</u> object to the Affected Business’ Notice of Negotiation on any one or more of the following grounds:
-* The contract in question is not a specified contract or is a contract of national interest.
+* The contract in question is not a specified contract.
+* The contract is a contract of National Interest.
 * The Affected Business does not satisfy the eligibility criteria for relief.
 * The Notice of Negotiation was not served in accordance with section 45 of the Act. (e.g. the Notice was not served between 15 January 2021 and 26 February 2021)
 
@@ -131,7 +134,7 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 
 The following documents **must be attached** to the Notice of Objection:
 * A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation. 
-* All supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework.
+* Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework.
 
 <u>Submission and service by the electronic system</u> 
 
@@ -145,7 +148,7 @@ If the Other Party or his assignee has served a Notice of Objection within the *
 
 ##### <a name="step3b">(B) Other Party is a landlord who wishes to seek compensation from the Affected Business</a> <a href="#s3b" title="Return to top">↩</a> #####
 
-Where the Affected Business is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord](key-features) who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice of Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
+Where the Affected Business is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord](key-features) who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice for Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
 * The tenant who served the Notice of Negotiation; 
 * Any other parties to the lease or licence, including any other landlords or any other tenants; 
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
