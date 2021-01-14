@@ -22,7 +22,7 @@ during the 2-week Objection Period</a>
 <a href="#step3c" id="s3c">(C) Other Party does not object to Affected Business’s eligibility for relief</a>  
 <a href="#step4" id="s4">Step 4: Either Affected Business, Other Party or Other Party’s assignee lodges and serves Notice for 
 Adjustment</a>  
-<a href="#step5" id="s5">Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment</a>  
+<a href="#step5" id="s5">Step 5: Registrar reviews Notice of Objection / Notice for Compensation / Notice for Adjustment</a>  
 <a href="#step6" id="s6">Step 6: Assessor Conducts Hearing and Makes Determination</a>  
 <a href="#step7" id="s7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a>  
 <a href="#step7a" id="s7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
@@ -122,7 +122,7 @@ If the Other Party or his assignee wishes to dispute the Affected Business’ el
 
 The Other Party or his assignee may <u>only</u> object to the Affected Business’ Notice of Negotiation on any one or more of the following grounds:
 * The contract in question is not a specified contract.
-* The contract is a contract of National Interest.
+* The contract is a Contract of National Interest.
 * The Affected Business does not satisfy the eligibility criteria for relief.
 * The Notice of Negotiation was not served in accordance with section 45 of the Act. (e.g. the Notice was not served between 15 January 2021 and 26 February 2021)
 
