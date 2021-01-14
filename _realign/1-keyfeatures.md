@@ -44,7 +44,7 @@ In addition to entities including companies and LLPs, and sole proprietors, the 
 
 ### <a name="2renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
 
-The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found [here](/files/ReAlign/2020-COVID-INFO3.jpg).
+The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with certain default terms to apply. Details of these terms of termination under the Re-Align Framework can be found [here](/files/ReAlign/2020-COVID-INFO3.jpg).
 
 If there is a dispute over the eligibility of a business for the Framework, or the parties are unable to agree on the terms of termination under the Framework, such disputes may be resolved by an Adjustment Relief Assessor (“Assessor”).  
 
@@ -58,7 +58,7 @@ The Framework applies to a contract (including Government contracts) which meet 
 
 (c) Has at least one party who has a place of business in Singapore; and
 
-(d) Falls within the following categories (“**Specified Contracts**”), which are likely to have substantial obligations that may need renegotiation or restructuring:
+(d) Falls within any of the following categories (“**Specified Contracts**”): 
 
 * Leases or licences for non-residential immovable property which have a term of 5 or less years
 * Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore)
@@ -83,11 +83,11 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <u>How to apply</u>
 
-If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
+If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Negotiation, you should prepare the supporting documents (set out here) which must be enclosed to the Notice of Negotiation.
 
 If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
 
-If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination. 
+If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer [here](/realign/process-renegotiation).
 
@@ -106,7 +106,7 @@ Where the renegotiation fails, the party seeking a renegotiation of the price ma
 
 <u>How to apply</u>
 
-If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**.
+If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**. Before serving the Notice of Negotiation for Contract of National Interest, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs) which must be enclosed to the Notice.
 
 For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer [here](/realign/process-essential-services).
 
@@ -124,13 +124,13 @@ A Landlord is eligible for hardship relief if:
 
 (c) The **gross annual income** of the individual or sole proprietor (or the shareholder of the landlord-company) **does not exceed S$107,500**.* 
 
-*The relevant period for assessing average monthly rental income, average gross monthly income and annual income is the Year of Assessment 2020 (“**YA 2020**”) if the lease or licence was in force for the whole or part of YA 2020. If the lease or licence was not in force in YA 2020, the relevant period of assessment would be the date of commencement of the lease or licence up to 31 December 2020. 
+*The relevant period for assessing average monthly rental income, average gross monthly income and annual income is the Year of Assessment 2020 (“**YA 2020**”) if the lease or licence was in force at least one month in YA 2020. If the lease or licence was not in force for at least one month in YA 2020, the relevant period of assessment would be the date of commencement of the lease or licence up to 31 December 2020. 
 
 The rental income should be computed based on what the landlord ought to have received under the contract, as opposed to the rent that was actually received.  
 
 <u>How to apply</u>
 
-If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time.
+If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time. Before serving the Notice for Compensation, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice for Compensation.
 
 For more details on how to serve and lodge a Notice for Compensation, please refer [here](/realign/process-renegotiation).
 
@@ -150,7 +150,7 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
+If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Revision, you should prepare the supporting documents (set out [here](https://www.go.gov.sg/re-align-landlordhardship-supportingdocs) which must be enclosed to the Notice of Revision. 
 
 For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
