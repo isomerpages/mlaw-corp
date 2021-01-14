@@ -15,7 +15,7 @@ breadcrumb: 2. Process for Renegotiation of Contract Terms and Termination of Co
 
 <a href="#step1" id="s1">Step 1: Affected Business serves Notice of Negotiation</a>  
 <a href="#step2" id="s2">Step 2: Affected Business and Other Party renegotiate contract during 4-week Negotiation Period</a>  
-<a href="#step3" id="s3">Step 3: Other Party lodges and serves Notice of Objection and/or Notice of Compensation 
+<a href="#step3" id="s3">Step 3: Other Party lodges and serves Notice of Objection and/or Notice for Compensation 
 during the 2-week Objection Period</a>  
 <a href="#step3a" id="s3a">(A) Other Party objects to Affected Business’s eligibility for relief</a>  
 <a href="#step3b" id="s3b">(B) Other Party is a landlord who wishes to seek compensation from the Affected Business</a>  
@@ -26,7 +26,7 @@ Adjustment</a>
 <a href="#step6" id="s6">Step 6: Assessor Conducts Hearing and Makes Determination</a>  
 <a href="#step7" id="s7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a>  
 <a href="#step7a" id="s7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for 
-Adjustment and Notice of Compensation</a>  
+Adjustment and Notice for Compensation</a>  
 <a href="#faq" id="f1">FAQs</a>  
 
 <img src="/files/ReAlign/2020-COVID-INFO2.jpg/" title="Process" alt="Process">
@@ -34,7 +34,16 @@ Adjustment and Notice of Compensation</a>
   
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An [eligible party](/realign/key-features) to the contract who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation (“the Affected Business”) within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
+An [eligible party](/realign/key-features) to the contract (“the Affected Business”) who wishes to renegotiate or terminate the contract must serve a Notice of Negotiation. Please refer to the following links for the methods by which your eligibility will be assessed.
+
+(a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
+<br>
+(b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
+
+**Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out here) which must be enclosed to the Notice of Negotiation.**
+
+
+The Notice of Negotiation must be served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
 * The Affected Business’s guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’s obligations under the contract.
 * Any assignee of any party to the contract.  
@@ -42,16 +51,14 @@ An [eligible party](/realign/key-features) to the contract who wishes to renegot
 <u>Service by the electronic system</u>
 
 To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-*	If you are acting on behalf of an entity that is a party to the contract, please use this link*   (CorpPass).
-*	If you are an individual who is a party to the contract, please use this link*   (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](<https://go.gov.sg/re-align-physicalform1-entity) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/re-align-physicalform1-individual) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-Only if you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
+<u>**Only if**</u> you are unable to serve the Notice of Negotiation using the electronic system, please download the Notice of Negotiation* and serve the form using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
 
 ***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
 
