@@ -261,7 +261,7 @@ Where any party who has lodged and served Notice of Negotiation*, Notice of Obje
 
 |**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal**
 | Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
-| Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>-All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
+| Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Adjustment <br>(s 48(4)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract.
 
@@ -290,7 +290,7 @@ The process above applies in the same manner for contracts which were terminated
 
 The Other Party is prevented from terminating your contract in respect of any failure to perform an obligation that you are to perform from the day of service of the Notice of Negotiation.
 
-The Other Party is however not prohibited from terminating your contract in respect of your  failure, if any to perform any obligation under the contract for the period before the day the Notice of Negotiation is served. In such case where your contract has been terminated before the termination under the Framework, if you are [eligible](/realign/key-features#1eligiblity), the default terms of [termination](/files/ReAlign/2020-COVID-INFO3.jpg) under the Framework would apply to the termination by the Other Party, as if it were a termination under the Act. The process above applies to you and the Other Party in the same manner, except that the date of termination would be the date in which your contract was terminated by the Other Party.
+The Other Party is however not prohibited from terminating your contract in respect of your  failure, if any to perform any obligation under the contract before the day the Notice of Negotiation is served. In such case where your contract has been terminated before the termination under the Framework, if you are [eligible](/realign/key-features#1eligiblity), the default terms of [termination](/files/ReAlign/2020-COVID-INFO3.jpg) under the Framework would apply to the termination by the Other Party, as if it were a termination under the Act. The process above applies to you and the Other Party in the same manner, except that the date of termination would be the date in which your contract was terminated by the Other Party.
 
 **4.	Can I serve a Notice of Negotiation if I am unsure whether my contract is a contract that is excluded from relief under the Framework?**
 
@@ -304,7 +304,7 @@ Parties are encouraged to use the **[4-week Negotiation Period](#step2)** to rea
 
 **5.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
 
-Yes, you may reissue another Notice of Negotiation for the same contract, provided if the second Notice of Negotiation is served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
+Yes, you may reissue another Notice of Negotiation for the same contract, provided the second Notice of Negotiation is served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
 
 **6.	What is the consequence of breaching the moratorium?**
 
@@ -361,15 +361,15 @@ If parties wish to refer their matter for mediation at SMC, parties should email
 
 SMC has also kindly extended the following discounted fee rates for parties who wish to mediate under the Re-Align Framework:
 
-| Sum in dispute | Mediation fees (per party)* | Filing fees
+| **Sum in dispute** | **Mediation fees (per party)** | **Filing fees**
 
 | S$0 – S$10,000 | S$80.25 for 4 hrs via videoconferencing | Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
 
-| S$10,001 - S$20,000 | S$214 for 4 hrs |  
+| S$10,001 - S$20,000 | S$214 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
 
-| S$20,001 – S$40,000 | S$299.60 for 4 hrs |  
+| S$20,001 – S$40,000 | S$299.60 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
 
-| S$40,001 – S$60,000 | S$385.20 for 4 hrs |  
+| S$40,001 – S$60,000 | S$385.20 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
 
 
 After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer here <hyperlink to https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf> for more information. 
