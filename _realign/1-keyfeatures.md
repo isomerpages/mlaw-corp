@@ -188,12 +188,20 @@ A specified arts and culture society is a society that is registered under secti
 
 (iii)	is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at https://aep.nac.gov.sg.
 
+**3. What is the definition of a “specified trade association”?** 
+A specified trade association means a society — 
+(a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); 
 
-**2.	Will an individual (e.g. freelancers) or sole proprietor be assessed on annual revenue as well?**
+(b)	that supports its members in developing their respective businesses by conducting activities that relate to trade, commerce, investment or industry development; and 
+
+(c)	where one or more members of the society are regulated by the Accounting and Corporate Regulatory Authority under any written law.
+
+
+**4.	Will an individual (e.g. freelancers) or sole proprietor be assessed on annual revenue as well?**
 
 Yes. The individual or sole proprietor will similarly be assessed on their business’s annual revenue 
 
-**3.	What does gross income mean?**
+**5.	What does gross income mean?**
 
 Gross income means the aggregate of: 
 (a) the amounts derived from the sale of goods and the provision of services falling within the ordinary activities of the business in the relevant period; and 
@@ -206,9 +214,46 @@ For most businesses, the following types of gains will typically not be derived 
 (e) investment income. 
 For the avoidance of doubt, any COVID-19 related reliefs and grants (such as the JSS) will not be considered to be in derived from the ordinary activities of the business. 
 
-**4.	Does the Framework affect contracts which are terminated before 2 November 2020?**
+**6. What if my business only commenced after July 2019?  How will I satisfy the requirement of a 70% fall in income?** 
+First, check the date of commencement of your business. The date of commencement of a business is the date when the business is first in a position to earn revenue from its operations. 
 
-The Framework does not affect contracts:
+* To illustrate, consider the following retail business:
+| Date | Events
+| 1 Jan 2019	| Incorporation of company
+| 1 Mar 2019	| Signed tenancy agreement for business premises, purchased office equipment, recruited staff, placed orders for products to be sold
+| 1 May 2019	| Retail stock arrived and arranged on shelves
+| 15 Jul 2019	| Store opened its doors to the public
+| 15 Sep 2019	| Official opening ceremony
+
+* Based on the above, the retail business may be considered to have commenced when it opened its doors to the public. Thus, its date of commencement of business would be 15 Jul 2019. The opening ceremony merely commemorates the business’s opening and does not alter the date of commencement. 
+
+Second, check the relevant periods for which you should compute the fall in monthly gross income based on the date of commencement of your business, from the table below.  
+
+| | Where your business’s Commencement Date is: | Relevant Periods to compute fall in average monthly Gross Income (both dates inclusive)
+| (a)	| On or before 1 Jul 2019 |	1 Jul 2019 – 31 Dec 2019	vs	1 Jul 2020 – 31 Dec 2020
+| (b)	| Any time between 2 Jul 2019 to 1 Dec 2019	|	Commencement Date – 31 Dec 2019	vs	1 Jul 2020 – 31 Dec 2020
+|	(c)	|	Any time between 2 Dec 2019 to 1 Jan 2020	|	Commencement Date– 31 Jan 2020	vs	1 Jul 2020 – 31 Dec 2020 
+|	(d)	|	Any time from 2 Jan 2020 to 1 Jul 2020	|	Projections for 1 Jul 2020 – 31 Dec 2020	vs	|	1 Jul 2020 – 31 Dec 2020 
+|	(e)	|	Any time from 2 Jul 2020 to 1 Sep 2020	|	Projections for Commencement Date – 31 Dec 2020	vs	|	Commencement Date – 31 Dec 2020
+
+For example, a business which commenced on 15 Jul 2019 should compare its average monthly gross income in the period 1 Jul 2020 to 31 Dec 2020, to its average monthly gross income in the period 15 Jul 2019 to 31 Dec 2019. 
+
+**7. Can a business who chose not to operate anytime during July to December 2020 be eligible for relief under the Framework?**
+A business is eligible for relief in respect of contracts covered under the Re-Align Framework if: 
+
+(a)	Its annual revenue for the Financial Year 2019 does not exceed $30 million at a global group level; 
+
+(b)	It has experienced at least a 70% fall in its monthly average gross income from July 2020 to December 2020, compared to July 2019 to December 2019. 
+
+This is even if the business had temporarily suspended its operations during those periods. However, a new business which had not commenced operations at the time it served the Notice of Negotiation would not be eligible for relief under the Framework. To be eligible under the Framework, the business must have commenced operations so as to be in a position to earn revenue by 1 September 2020.
+
+In addition, in adjusting the rights and obligations of the parties upon termination of the contract, the Assessor may take into consideration all relevant facts and circumstances to reach a just and fair outcome. This would include looking at the reasons why the tenant chose not to operate. The Assessor’s powers include determining that a compensation for termination should be paid to achieve a just and fair outcome.
+
+**8.	Does the Framework affect contracts which are terminated before 2 November 2020?**
+
+The Framework does not affect contracts:•	Based on the above, the retail business may be considered to have commenced when it opened its doors to the public. Thus, its date of commencement of business would be 15 Jul 2019. The opening ceremony merely commemorates the business’s opening and does not alter the date of commencement. 
+Second, check the relevant periods for which you should compute the fall in monthly gross income based on the date of commencement of your business, from the table below.  
+
 
 (a) which are terminated before 2 November 2020; or
 
@@ -216,14 +261,14 @@ The Framework does not affect contracts:
 
 Example: On 15 October 2020, a landlord gave 1 month’s notice to terminate a lease, in accordance with the terms of the lease. As the notice of termination was given before 2 November 2020, the Framework does not affect the lease, even though the notice period expires after 2 November 2020.
 
-**5.	What about restructuring arrangements entered into before 25 March 2020?**
+**9.	What about restructuring arrangements entered into before 25 March 2020?**
 
 Where, before 25 March 2020, parties to the contract have in respect of any rights or obligations under the contract entered into:
 (a)	an arrangement or a compromise that is approved by the Court under section 210(4) of the Companies Act (Cap. 50) or section 71(1) of Insolvency, Restructuring and Dissolution Act (Act 40 of 2018); or
 (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
 and the arrangement or compromise is not set aside or revoked, the contract (to the extent of those rights and obligations), or the arrangement or compromise are excluded from the relief measures.
 
-**6.	I am an eligible business and I am a party to a contract eligible for renegotiation and termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to seek relief under the Framework? Can I still seek relief?**
+**10.	I am an eligible business and I am a party to a contract eligible for renegotiation and termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to seek relief under the Framework? Can I still seek relief?**
 
 Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to seek relief, you will still be eligible to seek to adjust your rights and obligations under the contract in accordance with the default terms of termination under the Framework. Please refer [here](/realign/process-renegotiation).
 
@@ -231,18 +276,18 @@ You will however not be eligible for relief where on or after 2 November 2020, a
 (a)	your contract has naturally expired without a renewal of the contract; or
 (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
-**7.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
+**11.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
 
 No. If a party chooses to take up the Repayment Scheme in respect of one contract, they cannot seek to renegotiate and terminate that same contract under the Framework, and vice versa.
 
-**8.	What is considered a commercial equipment under the Framework?**
+**12.	What is considered a commercial equipment under the Framework?**
 
 Commercial equipment means:
 
 (a)	Any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or
 (b)	A commercial vehicle 
 
-**9.	What is considered a commercial vehicle under the Framework?**
+**13.	What is considered a commercial vehicle under the Framework?**
 
 Commercial vehicle means a vehicle in Singapore that is:
 (a)	a goods vehicle, but does not include a goods cum passengers vehicle;
@@ -251,13 +296,13 @@ Commercial vehicle means a vehicle in Singapore that is:
 (d)	a taxi; or
 (e)	an engineering plant, such as a tractor, a road roller, an excavator, a forklift, a dumper, a grader, a concrete pump, a dozer, a loader, a skidder, a compactor, a scrapper, a pipe-layer, a handcraft, a pax step or an airport service equipment;
 
-**10.	Can I still issue a Notice of Negotiation to my landlord under the Framework when I have invoked the rental relief statutory repayment scheme against my landlord?**
+**14.	Can I still issue a Notice of Negotiation to my landlord under the Framework when I have invoked the rental relief statutory repayment scheme against my landlord?**
 
 The Re-Align Framework and Rental Relief Framework are not mutually exclusive. Tenants that qualify for rental relief can also qualify for the Re-Align Framework so long as they meet the Re-Align Framework’s eligibility criteria. 
 
 However, one important condition of the rental relief statutory repayment scheme is that if the tenant terminates the lease during the repayment period, or fails to keep to the repayment schedule, all arrears will become immediately due and payable. The same will therefore apply if you are seeking to terminate your lease under the Re-Align Framework.
 
-**11.	Are there any fees required in seeking an Assessor’s determination?**
+**15.	Are there any fees required in seeking an Assessor’s determination?**
 
 No. Parties will not be charged any fees or costs when an Assessor is appointed to make a determination under the Framework.  
 
