@@ -29,11 +29,20 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 <img src="/files/ReAlign/realign_repayment.jpg/" title="Repayment" alt="Repayment">
 
 #### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
-The following [eligible parties](key-features) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Hirer/Renter”) must serve a Notice of Revision.
+The following [eligible parties](key-features) (“the Hirer/Renter”) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act must serve a Notice of Revision.
 
 (a)	a hirer under a hire-purchase or conditional sales agreement for commercial equipment; or commercial vehicle, which is not entered into with a bank, or with a finance company under the Finance Companies Act (Cap. 108); or
 
 (b)	a renter under a rental agreement for commercial equipment or commercial vehicle 
+
+Please refer to the following links for the methods by which your eligibility will be assessed:
+<br>
+(a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
+<br>
+(b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
+
+**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision.** 
+
 
 The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
 * The Hirer/Renter’s financing company or leasing company, as the case may be (“the Other Party”).
@@ -44,17 +53,21 @@ The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. 
 
 To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-singpass) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-Only if you are unable to serve the Notice of Revision using the electronic system, please download the Notice of Revision* and serve the form using [other modes of service](other-modes-service).
-***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
+Only if you are unable to serve the Notice of Revision using the electronic system, 
+<br>
+1. Download the physical copy of the Notice of Revision [here](https://go.gov.sg/re-align-physicalform8).
+<br>
+2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). 
+<br>
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY@mlaw.gov.sg).
+
 
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](/realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
@@ -90,8 +103,8 @@ If the Other Party or its assignee wishes to object to the Hirer/Renter’s Noti
 The Other Party or his assignee may <u>only</u> object to the Hirer/Renter’s Notice of Revision on any one or more of the following grounds:
 
 * The contract in question is not a hire-purchase or conditional sales agreement or a lease of commercial equipment. 
-* the Hirer/Renter does not satisfy the eligibility criteria for relief.
-* the Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice is not served by 26 February 2021)
+* The Hirer/Renter does not satisfy the eligibility criteria for relief.
+* The Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice is not served by 26 February 2021)
 * The Hirer/Renter’s proposed repayment schedule does not meet the requirements in Section 53(4)(a)-(d) of the Act. (e.g. The amounts covered by the proposed repayment schedule includes amounts payable before 1 February 2020 or after the date of the Notice of Revision).
 
 To object to the Notice of Revision, the Other Party must lodge the Notice of Objection with the Registrar and serve the Notice of Objection on the following persons **within the 2-week Objection Period** on the following Recipient(s), where applicable:
@@ -103,8 +116,8 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 The following documents **must be attached** to the **Notice of Objection**:
 
 * A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
-* All supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
-* If the Other Party has a proposal on the repayment schedule, all supporting documents to support the Other Party’s proposal. 
+* Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
+* If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. 
 
 <u>Submission and service by the electronic system</u> 
 
@@ -113,12 +126,12 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards**
 
 ##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> <a href="#s3b" title="Return to top">↩</a> #####
-Where the Other Party accepts the Hirer/Renter’s Notice of Revision or came to an agreement during the 4-week Negotiation Period, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision or on any other agreed terms. The Other Party does not need to serve and lodge a Notice of Objection in this situation.  
-
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
+
+Where the Other Party accepts the Hirer/Renter’s Notice of Revision or came to an agreement during the 4-week Negotiation Period, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision or on any other agreed terms. The Other Party does not need to serve and lodge a Notice of Objection in this situation.  
 
 Please also note that there will be no case before an Assessor in this situation. **Steps 4 to 6** below will **<u>not</u>** apply.
 
@@ -130,6 +143,8 @@ If the Registrar is satisfied that the Notice of Objection is in order, the Regi
 * An acknowledgment of receipt of the Notice of Objection.
 * A notice of the appointment of one or more Assessors.
 * If applicable, a notice of the date and place for the hearing.
+
+Pending the Assessor’s determination on the Notice of Objection, the Hirer/Renter may make the payments in accordance with the Hirer’s/Renter’s proposed revised repayment schedule.
 
 If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Other Party, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
 
@@ -155,7 +170,7 @@ Please note for online or physical hearings:
 
 If a party to a contract or his assignee is <u>absent</u>  from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [(see here)](/realign/assessor-determinations).
 
 #### <a name="step6">Step 6: Registrar Informs Hirer/Renter and Other Party of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Hirer/Renter, the Other Party and their assignees.
@@ -165,7 +180,7 @@ There is no appeal against an Assessor’s determination, and it will be binding
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
 ##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#s6a" title="Return to top">↩</a> ##### 
-Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable:
+Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable before the determination of the Assessor(s) on the Notice of Objection:
  
 * The Hirer/Renter who served the Notice of Revision; 
 * Any other parties to the contract; and
@@ -175,11 +190,8 @@ Where any party who has lodged and served a Notice of Objection wishes to withdr
 
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
-
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass). 
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
@@ -201,7 +213,7 @@ Your Notice of Revision must set out the revised schedule of repayments in accor
 
 * Assume **X** is S$10,000 and that the Hirer/Renter intends to make payment over a 12-month period, the total amount which he will have to pay is $10,500 (being principal of S$10,000 and interest of $500 calculated at **5% per annum**). 
 
-* Under the Act, the first instalment must be payable by 26 March 2020 (i.e. one month after 26 February 2020, which is the last date to serve the Notice of Revision), The Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
+* Under the Act, the first instalment must be payable by 26 March 2020 (i.e. one month after 26 February 2020, which is the last date to serve the Notice of Revision), the Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
 
 * On the above illustration, a sample proposed repayment schedule which must be set out in the notice of revision is as follows:
 

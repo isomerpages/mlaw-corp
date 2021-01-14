@@ -21,12 +21,11 @@ To be eligible for any type of relief under the Re-Align Framework (“the Frame
 
 (a) A business’ annual revenue* must not exceed S$30 million at a global group level; and
 
-(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2019 to 31 December 2019<!--^-->.
+(b) That business must have experienced at least a 70% fall in monthly average gross income for the period 1 July 2020 to 31 December 2020, compared to the period 1 July 2019 to 31 December 2019** <!--^-->.
 
-*The annual revenue of the business or group (if the business is part of a group) for the latest financial year ending on or before 31 March 2020, will be assessed. 
-<!--For businesses or groups that do not have such information, please refer to [here](files/realign/?) for the alternative periods of assessment of annual revenue.--> 
+*The annual revenue of the business or group (if the business is part of a group) for the latest financial year that ended on or before 31 March 2020, will be assessed. For businesses or groups that do not have a financial year that ended on or before 31 March 2020, alternative periods for assessing annual revenue are set out at [www.go.gov.sg/re-align-annualrevenue](http://www.go.gov.sg/re-align-annualrevenue).
 
-<!--^For parties that commenced business (i.e. be in a position to earn revenue from operations) after 1 July 2019, please refer to [here](files/realign/?) for the equivalent comparison periods by which the fall in monthly average gross income may be computed.-->
+**For businesses which have not commenced business by 1 July 2019, alternative periods for assessing the fall in monthly average gross income are set out at [www.go.gov.sg/re-align-incomefall-comparisonperiods](http://www.go.gov.sg/re-align-incomefall-comparisonperiods). A business must however have commenced business by 1 September 2020 to be eligible under the Framework.
 
 <u>Individuals (e.g. freelancers) / Non-Profit Organisations</u>
 
@@ -45,7 +44,7 @@ In addition to entities including companies and LLPs, and sole proprietors, the 
 
 ### <a name="2renegotiation">Renegotiation of Contractual Terms and Termination of Contract</a> <a href="#s2" title="Return to top">↩</a> ###
 
-The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with prospective obligations extinguished. The Framework provides for default terms to apply when a contract is terminated under the Framework. Details of these terms of termination under the Re-Align Framework can be found [here](/files/ReAlign/2020-COVID-INFO3.jpg).
+The Framework allows eligible small and micro businesses (including individuals and non-profit organisations) to renegotiate and rebase their contracts, failing which the contracts may be terminated with certain default terms to apply. Details of these terms of termination under the Re-Align Framework can be found [here](/files/ReAlign/2020-COVID-INFO3.jpg).
 
 If there is a dispute over the eligibility of a business for the Framework, or the parties are unable to agree on the terms of termination under the Framework, such disputes may be resolved by an Adjustment Relief Assessor (“Assessor”).  
 
@@ -59,7 +58,7 @@ The Framework applies to a contract (including Government contracts) which meet 
 
 (c) Has at least one party who has a place of business in Singapore; and
 
-(d) Falls within the following categories (“**Specified Contracts**”), which are likely to have substantial obligations that may need renegotiation or restructuring:
+(d) Falls within any of the following categories (“**Specified Contracts**”): 
 
 * Leases or licences for non-residential immovable property which have a term of 5 or less years
 * Hire-purchase and conditional sales agreements for commercial equipment or vehicles (except agreements entered into with banks and finance companies regulated by the Monetary Authority of Singapore)
@@ -84,11 +83,11 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <u>How to apply</u>
 
-If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
+If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Negotiation, you should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs) ) which must be enclosed to the Notice of Negotiation.
 
 If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
 
-If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination. 
+If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer [here](/realign/process-renegotiation).
 
@@ -107,7 +106,7 @@ Where the renegotiation fails, the party seeking a renegotiation of the price ma
 
 <u>How to apply</u>
 
-If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**.
+If you are a party to a Contract of National Interest and wish to renegotiate the price of the contract, please serve and lodge a **Notice of Negotiation for Contract of National Interest**. Before serving the Notice of Negotiation for Contract of National Interest, you should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice.
 
 For more details on how to serve and lodge **Notice of Negotiation for Contract of National Interest**, please refer [here](/realign/process-essential-services).
 
@@ -125,13 +124,13 @@ A Landlord is eligible for hardship relief if:
 
 (c) The **gross annual income** of the individual or sole proprietor (or the shareholder of the landlord-company) **does not exceed S$107,500**.* 
 
-*The relevant period for assessing average monthly rental income, average gross monthly income and annual income is the Year of Assessment 2020 (“**YA 2020**”) if the lease or licence was in force for the whole or part of YA 2020. If the lease or licence was not in force in YA 2020, the relevant period of assessment would be the date of commencement of the lease or licence up to 31 December 2020. 
+*The relevant period for assessing average monthly rental income, average gross monthly income and annual income is the Year of Assessment 2020 (“**YA 2020**”) if the lease or licence was in force at least one month in YA 2020. If the lease or licence was not in force for at least one month in YA 2020, the relevant period of assessment would be the date of commencement of the lease or licence up to 31 December 2020. 
 
 The rental income should be computed based on what the landlord ought to have received under the contract, as opposed to the rent that was actually received.  
 
 <u>How to apply</u>
 
-If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time.
+If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time. Before serving the Notice for Compensation, you should prepare the supporting documents (set out [here](https://www.go.gov.sg/re-align-landlordhardship-supportingdocs)) which must be enclosed to the Notice for Compensation.
 
 For more details on how to serve and lodge a Notice for Compensation, please refer [here](/realign/process-renegotiation).
 
@@ -151,7 +150,7 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. 
+If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Revision, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision. 
 
 For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
@@ -168,26 +167,100 @@ An example of a “global group” would be where Company A wholly owns Company 
 
 Further, under the Framework, a group of entities that is required to prepare consolidated financial statements for financial reporting purposes under FRS 110 or an equivalent accounting standard will be considered a “global group”. 
 
-**2.	Will an individual (e.g. freelancers) or sole proprietor be assessed on annual revenue as well?**
+**2.	What is the definition of a “specified arts and culture society”?**
+
+A specified arts and culture society is a society that is registered under section 4 or 4A of the Societies Act (Cap. 311), and which meets the Tier 2 Enhanced Jobs Support Scheme criteria for arts and culture organisations as announced in the Fortitude Budget:
+<br>
+(a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
+
+|85420 |	Music, dancing, art, speech and drama instruction
+|90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
+|90002	| Performing arts venue operation
+|90003	| Operas, wayang and puppet shows
+|90004	| Orchestras, musical bands, choirs and dance groups
+|90009	| Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)
+|91021	| Museums
+|91022	| Art galleries (excluding retail)
+|91029	| Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified
+
+<br>
+(b)	Satisfies one or more of the following conditions:<br>
+(i)	is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive); <br>
+
+(ii)	operates a museum that is a member of a group established by the National Heritage Board known as the Museum Roundtable as at 31 March 2020; <br>
+
+(iii)	is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
+
+**3. What is the definition of a “specified trade association”?** 
+
+A specified trade association means a society — 
+<br>(a)	that is registered under section 4 or 4A of the Societies Act (Cap. 311); 
+
+(b)	that supports its members in developing their respective businesses by conducting activities that relate to trade, commerce, investment or industry development; and 
+
+(c)	where one or more members of the society are regulated by the Accounting and Corporate Regulatory Authority under any written law.
+
+
+**4.	Will an individual (e.g. freelancers) or sole proprietor be assessed on annual revenue as well?**
 
 Yes. The individual or sole proprietor will similarly be assessed on their business’s annual revenue 
 
-**3.	What does gross income mean?**
+**5.	What does gross income mean?**
 
 Gross income means the aggregate of: 
 (a) the amounts derived from the sale of goods and the provision of services falling within the ordinary activities of the business in the relevant period; and 
 (b) any other amount derived from the business operations of the business in the relevant period, but excluding any amounts that are not derived in the ordinary course of the business. 
+<br><br>
 For most businesses, the following types of gains will typically not be derived in the ordinary course of business, and must be excluded: 
 (a) gains from the sale of fixed assets;
 (b) grants and subsidies; 
 (c) interest; 
 (d) dividends; and 
 (e) investment income. 
+<br><br>
 For the avoidance of doubt, any COVID-19 related reliefs and grants (such as the JSS) will not be considered to be in derived from the ordinary activities of the business. 
 
-**4.	Does the Framework affect contracts which are terminated before 2 November 2020?**
+**6. What if my business only commenced after July 2019?  How will I satisfy the requirement of a 70% fall in income?** 
 
-The Framework does not affect contracts:
+First, check the date of commencement of your business. The date of commencement of a business is the date when the business is first in a position to earn revenue from its operations. 
+
+* To illustrate, consider the following retail business:
+
+|Date | Events
+|1 Jan 2019	| Incorporation of company
+|1 Mar 2019	| Signed tenancy agreement for business premises, purchased office equipment, recruited staff, placed orders for products to be sold
+|1 May 2019	| Retail stock arrived and arranged on shelves
+|15 Jul 2019	| Store opened its doors to the public
+|15 Sep 2019	| Official opening ceremony
+
+* Based on the above, the retail business may be considered to have commenced when it opened its doors to the public. Thus, its date of commencement of business would be 15 Jul 2019. The opening ceremony merely commemorates the business’s opening and does not alter the date of commencement. 
+
+Second, check the relevant periods for which you should compute the fall in monthly gross income based on the date of commencement of your business, from the table below.  
+
+| | **Where your business’s Commencement Date is:** | **Relevant Periods to compute fall in average monthly Gross Income (both dates inclusive)**
+| (a)	| **On or before 1 Jul 2019** |	1 Jul 2019 – 31 Dec 2019	vs |	1 Jul 2020 – 31 Dec 2020
+| (b)	| **Any time between 2 Jul 2019 to 1 Dec 2019**	|	Commencement Date – 31 Dec 2019	vs	| 1 Jul 2020 – 31 Dec 2020
+|	(c)	|	**Any time between 2 Dec 2019 to 1 Jan 2020**	|	Commencement Date– 31 Jan 2020	vs	| 1 Jul 2020 – 31 Dec 2020 
+|	(d)	|	**Any time from 2 Jan 2020 to 1 Jul 2020**	|	Projections for 1 Jul 2020 – 31 Dec 2020	vs	|	1 Jul 2020 – 31 Dec 2020 
+|	(e)	|	**Any time from 2 Jul 2020 to 1 Sep 2020**	|	Projections for Commencement Date – 31 Dec 2020	vs	|	Commencement Date – 31 Dec 2020
+
+For example, a business which commenced on 15 Jul 2019 should compare its average monthly gross income in the period 1 Jul 2020 to 31 Dec 2020, to its average monthly gross income in the period 15 Jul 2019 to 31 Dec 2019. 
+
+**7. Can a business who chose not to operate anytime during July to December 2020 be eligible for relief under the Framework?**
+
+A business is eligible for relief in respect of contracts covered under the Re-Align Framework if: 
+
+(a)	Its annual revenue for the Financial Year 2019 does not exceed $30 million at a global group level; 
+
+(b)	It has experienced at least a 70% fall in its monthly average gross income from July 2020 to December 2020, compared to July 2019 to December 2019. 
+
+<u>This is even if the business had temporarily suspended its operations during those periods</u>. However, a new business which had not commenced operations at the time it served the Notice of Negotiation would not be eligible for relief under the Framework. To be eligible under the Framework, the business must have commenced operations so as to be in a position to earn revenue by 1 September 2020.
+
+In addition, in adjusting the rights and obligations of the parties upon termination of the contract, the Assessor may take into consideration all relevant facts and circumstances to reach a just and fair outcome. This would include looking at the reasons why the tenant chose not to operate. The Assessor’s powers include determining that a compensation for termination should be paid to achieve a just and fair outcome.
+
+**8.	Does the Framework affect contracts which are terminated before 2 November 2020?**
+
+The Framework does not affect contracts:  
 
 (a) which are terminated before 2 November 2020; or
 
@@ -195,48 +268,48 @@ The Framework does not affect contracts:
 
 Example: On 15 October 2020, a landlord gave 1 month’s notice to terminate a lease, in accordance with the terms of the lease. As the notice of termination was given before 2 November 2020, the Framework does not affect the lease, even though the notice period expires after 2 November 2020.
 
-**5.	What about restructuring arrangements entered into before 25 March 2020?**
+**9.	What about restructuring arrangements entered into before 25 March 2020?**
 
 Where, before 25 March 2020, parties to the contract have in respect of any rights or obligations under the contract entered into:
 (a)	an arrangement or a compromise that is approved by the Court under section 210(4) of the Companies Act (Cap. 50) or section 71(1) of Insolvency, Restructuring and Dissolution Act (Act 40 of 2018); or
 (b)	 a voluntary arrangement that is approved by creditors under section 282 of the Insolvency, Restructuring and Dissolution Act,
 and the arrangement or compromise is not set aside or revoked, the contract (to the extent of those rights and obligations), or the arrangement or compromise are excluded from the relief measures.
 
-**6.	I am an eligible business and I am a party to a contract eligible for renegotiation and termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to seek relief under the Framework? Can I still seek relief?**
+**10.	I am an eligible business and I am a party to a contract eligible for renegotiation and termination. What if my contract has been terminated by the other party on or after 2 November 2020, and before I had the opportunity to seek relief under the Framework? Can I still seek relief?**
 
 Yes. If your contract was terminated by the other party on or after 2 November 2020, and before you had the opportunity to seek relief, you will still be eligible to seek to adjust your rights and obligations under the contract in accordance with the default terms of termination under the Framework. Please refer [here](/realign/process-renegotiation).
 
 You will however not be eligible for relief where on or after 2 November 2020, and before your contract is terminated under the Framework:
-(a)	your contract has naturally expired without a renewal of the contract; or
+(a)	your contract naturally expired without a renewal of the contract; or
 (b)	your contract was automatically terminated due to the occurrence of an event and not by any action done by the other party to terminate the contract.
 
-**7.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
+**11.	Can I serve both a Notice of Negotiation and a Notice of Revision for the same contract?**
 
 No. If a party chooses to take up the Repayment Scheme in respect of one contract, they cannot seek to renegotiate and terminate that same contract under the Framework, and vice versa.
 
-**8.	What is considered a commercial equipment under the Framework?**
+**12.	What is considered a commercial equipment under the Framework?**
 
 Commercial equipment means:
 
 (a)	Any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or
 (b)	A commercial vehicle 
 
-**9.	What is considered a commercial vehicle under the Framework?**
+**13.	What is considered a commercial vehicle under the Framework?**
 
 Commercial vehicle means a vehicle in Singapore that is:
-(a)	a goods vehicle, but does not include a goods cum passengers vehicle;
+(a)	a goods vehicle;
 (b)	an excursion bus, private bus, private hire bus, omnibus or school bus;
 (c)		a private hire car;
 (d)	a taxi; or
 (e)	an engineering plant, such as a tractor, a road roller, an excavator, a forklift, a dumper, a grader, a concrete pump, a dozer, a loader, a skidder, a compactor, a scrapper, a pipe-layer, a handcraft, a pax step or an airport service equipment;
 
-**10.	Can I still issue a Notice of Negotiation to my landlord under the Framework when I have invoked the rental relief statutory repayment scheme against my landlord?**
+**14.	Can I still issue a Notice of Negotiation to my landlord under the Framework when I have invoked the rental relief statutory repayment scheme against my landlord?**
 
 The Re-Align Framework and Rental Relief Framework are not mutually exclusive. Tenants that qualify for rental relief can also qualify for the Re-Align Framework so long as they meet the Re-Align Framework’s eligibility criteria. 
 
 However, one important condition of the rental relief statutory repayment scheme is that if the tenant terminates the lease during the repayment period, or fails to keep to the repayment schedule, all arrears will become immediately due and payable. The same will therefore apply if you are seeking to terminate your lease under the Re-Align Framework.
 
-**11.	Are there any fees required in seeking an Assessor’s determination?**
+**15.	Are there any fees required in seeking an Assessor’s determination?**
 
 No. Parties will not be charged any fees or costs when an Assessor is appointed to make a determination under the Framework.  
 

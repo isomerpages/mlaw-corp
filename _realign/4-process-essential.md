@@ -25,7 +25,17 @@ breadcrumb: 4. Process relating to contracts affecting Essential Services and Na
  
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest (“the Affected Business”) on the following Recipient(s), where applicable:
+An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) (“the Affected Business”) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest. The contract must first be certified by the Relevant Minister as a Contract for National Interest before the Notice of Negotiation for Contract of National Interest may be served.
+
+Please refer to the following links for the methods by which your eligibility will be assessed:
+<br>
+(a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
+<br>
+(b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
+
+Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Negotiation for Contract of National Interest.
+
+The Affected Business must serve the Notice of Negotiation for Contract of National Interest on the following Recipient(s), where applicable:
 
 * Any other party to the contract (“the Other Party”).
 * The Affected Business’ guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’ obligations under the contract.
@@ -33,17 +43,15 @@ An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of Nat
 
 The **Notice of Negotiation for Contract of National Interest** must be served by the later of: 
 
-(a) 4 weeks from the date of issuance of the certificate by the Relevant Portfolio Minister to the Affected Business; or
+(a) 4 weeks from the date of issuance of the certificate by the Relevant Portfolio Minister to the Affected Business; or<br>
 (b) 26 February 2021. 
 
 **<u>Service by the electronic system</u>**
 
-To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
+To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you **<u>must have</u>** an email address as well as the email address(es) of the Recipient(s):
 
-*	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-*	If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-corppass) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-singpass) (SingPass). 
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg) or [https://www.corppass.gov.sg](https://www.corppass.gov.sg), respectively. 
 
@@ -64,12 +72,14 @@ A **2-week Repricing Period** starts after the end of the **4-week Negotiation P
 
 If parties have successfully renegotiated the price of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended price of their contract. The Affected Business does not need to serve a Notice for Repricing in this situation. 
 
-In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period** and Affected Business wishes to seek a repricing of the contract, the Affected Business must, within the **2-week Repricing Period** lodge the Notice for Repricing with the Adjustment Relief Registrar, and serve a Notice for Repricing within the same period on the following Recipient(s), where applicable: 
+In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period** and the Affected Business wishes to seek a repricing of the contract, the Affected Business must, within the **2-week Repricing Period** lodge the Notice for Repricing with the Adjustment Relief Registrar, and serve a Notice for Repricing within the same period on the following Recipient(s), where applicable: 
 
 * The Other Party;
 * Any other party to the contract;
 * The Affected Business’ guarantor or surety, or issuer of a performance bond, in relation to the Affected Business’ obligations under the contract; and
 * Any assignee of any party to the contract. 
+
+**Note: If the renegotiation is unsuccessful and the Affected Business does not lodge a Notice for Repricing within the 2-week Repricing Period, the Affected Business will not be entitled to the relief of repricing. The original contract terms (including price) will apply.** 
 
 **<u>Submission and service by the electronic system</u>**
 
@@ -94,7 +104,7 @@ If the Registrar is satisfied that the Notice for Repricing is in order, the Reg
 
 <u>Where Notice for Repricing is lodged</u>
 
-Where the Other Party or his assignee has lodged a Notice for Repricing and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Other Party’s Notice for Repricing. 
+Where the Affected Busincess has lodged a Notice for Repricing and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Other Party’s Notice for Repricing. 
 
 <u>Mode of Hearing</u>
 
@@ -112,7 +122,7 @@ Please note for online or physical hearings:
 
 If a party to the contract or his assignee is <u>absent</u> from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [(see here)](/realign/assessor-determinations).
 
 #### <a name="step6">Step 6: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 
@@ -138,8 +148,6 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 *	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 *	If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 

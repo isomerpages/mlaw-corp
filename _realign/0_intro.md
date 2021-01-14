@@ -36,7 +36,7 @@ Please refer to [(3) Process for repayment scheme for hire-purchase and equipmen
 
 Please refer to [(3) Process for repayment scheme for hire-purchase and equipment rental contracts](/realign/process-repayment-scheme) for the steps on negotiating with the other party and how to object to the Notice of Revision.
 
-**6.	I am a party to a contract affecting an essential serve or a service that involves national interest. I want to reprice my contract. What should I do?**
+**6.	I am a party to a contract which, if terminated, is likely to affect the provision of an essential service or the ability of the Government to carry out its functions. I want to reprice my contract. What should I do?**
 
 Please refer to [(4) Process relating to contracts affecting Essential Services and National Interest](/realign/process-essential-services) for more information.
 

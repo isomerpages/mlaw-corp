@@ -20,40 +20,36 @@ Such determinations may, with leave of the Court, be enforced in the same manner
 A person, who without reasonable excuse, fails to comply with any determination binding on the person shall be guilty of an offence and shall be liable on conviction.
 
 ### <a name="set">Application to Set Aside Assessor’s Decision/Determination</a> <a href="#s2" title="Return to top">↩</a> ###
-Please note that if a party to a contract or his assignee is **absent from the hearing**, the Assessor may: 
+Please note that if a person who is directed to attend a hearing is **absent from the hearing**, the Assessor may: 
 
-* deem that the party or party’s assignee, who was absent, has withdrawn the notice lodged by that person; or
+* deem that the person, who was absent, has withdrawn the notice lodged by that person; or
 * hear and make a determination on the matter. 
 
-If the party or his assignee had a good reason for being absent and wishes to set aside the Assessor’s decision or determination above, he may submit an **Application to Set Aside Decision/Determination**.
+If the person had a good reason for being absent and wishes to set aside the Assessor’s decision or determination above, he may submit an **Application to Set Aside Decision/Determination**.
 
 #### Step 1 ####
-If you wish to set aside the Assessor’s decision/determination, you must submit to the Registrar an Application to Set Aside Decision/Determination and serve the application on the following Recipient(s), where applicable: 
-
-* the other parties to the contract; and
-* any assignee of any party to the contract. 
+If you wish to set aside the Assessor’s decision/determination, you must submit to the Registrar an Application to Set Aside Decision/Determination and serve the application on the other parties to the Assessor’s Determination (“Recipient(s)”). 
 
 The Application should be submitted to the Registrar and served on the Recipient(s) **within 5 working days** after the date the Assessor’s decision/determination is sent to the parties and their assignees.
 
 To submit and serve the Application to Set Aside Decision/Determination using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link (CorpPass).
+* If you are an individual, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 #### Step 2 ####
-If the other party or his assignee wishes to oppose the Application to Set Aside Decision/Determination, he must, within the time period directed by the Registrar, lodge a Reply with the Registrar and serve the Reply on the following Recipient(s), where applicable:
+If a party to an Assessor’s Determination wishes to oppose the Application to Set Aside Decision/Determination, he must, within the time period directed by the Registrar, lodge a Reply with the Registrar and serve the Reply on the following Recipient(s), where applicable:
  
-* the party who lodged and served the Application to Set Aside Decision/Determination; 
-* other parties to the contract; and
-* any assignee of any party to the contract. 
+* the person who lodged and served the Application to Set Aside Decision/Determination; 
+* any other parties to the Assessor’s determination. 
 
 To submit and serve the Reply using the electronic system using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this link (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link (CorpPass).
+* If you are an individual, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
@@ -63,10 +59,10 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 If the Assessor decides to set aside the decision or determination, the Assessor may do so on such terms as he or she considers just and he or she may proceed to hear the case and make a fresh determination on the case.
 
 ### <a name="correct">Application to Correct Error in Assessor’s Determination</a> <a href="#s3" title="Return to top">↩</a> ###
-If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, a party to an Assessor’s Determination may submit an Application to Correct Error in Determination.
+If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, any person affected by an Assessor's Determination may submit an Application to Correct Error in Determination.
 To submit the Application with the Registrar using the electronic system:
-* If you are acting on behalf of an entity that is a party to the contract, please use this link (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link (CorpPass).
+* If you are an individual, please use this link* (SingPass). 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
