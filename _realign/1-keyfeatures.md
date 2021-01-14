@@ -170,23 +170,25 @@ Further, under the Framework, a group of entities that is required to prepare co
 **2.	What is the definition of a “specified arts and culture society”?**
 
 A specified arts and culture society is a society that is registered under section 4 or 4A of the Societies Act (Cap. 311), and which meets the Tier 2 Enhanced Jobs Support Scheme criteria for arts and culture organisations as announced in the Fortitude Budget:
+<br>
 (a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
-|85420 |	Music, dancing, art, speech and drama instruction
-|90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
-|90002	| Performing arts venue operation
-|90003	| Operas, wayang and puppet shows
-|90004	| Orchestras, musical bands, choirs and dance groups
-|90009	| Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)
-|91021	| Museums
-|91022	| Art galleries (excluding retail)
-|91029	| Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified
 
-(b)	Satisfies one or more of the following conditions:
-(i)	is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive); 
+| 85420 |	Music, dancing, art, speech and drama instruction
+| 90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
+| 90002	| Performing arts venue operation
+| 90003	| Operas, wayang and puppet shows
+| 90004	| Orchestras, musical bands, choirs and dance groups
+| 90009	| Dramatic arts, music and other arts production-related activities not elsewhere classified (e.g. stage, lighting and sound services)
+| 91021	| Museums
+| 91022	| Art galleries (excluding retail)
+| 91029	| Preservation of historical sites, buildings, artefacts and paintings, cultural villages and other related activities not elsewhere classified
+<br>
+(b)	Satisfies one or more of the following conditions:<br>
+(i)	is a participant in any project, activity, programme or festival that is funded (whether wholly or partially), commissioned or organised by the National Arts Council or the National Heritage Board in the period from 1 April 2018 to 31 March 2020 (both dates inclusive); <br>
 
-(ii)	operates a museum that is a member of a group established by the National Heritage Board known as the Museum Roundtable as at 31 March 2020; 
+(ii)	operates a museum that is a member of a group established by the National Heritage Board known as the Museum Roundtable as at 31 March 2020; <br>
 
-(iii)	is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at https://aep.nac.gov.sg.
+(iii)	is listed as an accredited Arts Education Programme provider in the 2019-2021 National Arts Council-Arts Education Programme Directory on the National Arts Council Internet website at [https://aep.nac.gov.sg](https://aep.nac.gov.sg).
 
 **3. What is the definition of a “specified trade association”?** 
 A specified trade association means a society — 
