@@ -255,13 +255,14 @@ Second, check the relevant periods for which you should compute the fall in mont
 For example, a business which commenced on 15 Jul 2019 should compare its average monthly gross income in the period 1 Jul 2020 to 31 Dec 2020, to its average monthly gross income in the period 15 Jul 2019 to 31 Dec 2019. 
 
 **7. Can a business who chose not to operate anytime during July to December 2020 be eligible for relief under the Framework?**
+
 A business is eligible for relief in respect of contracts covered under the Re-Align Framework if: 
 
 (a)	Its annual revenue for the Financial Year 2019 does not exceed $30 million at a global group level; 
 
 (b)	It has experienced at least a 70% fall in its monthly average gross income from July 2020 to December 2020, compared to July 2019 to December 2019. 
 
-This is even if the business had temporarily suspended its operations during those periods. However, a new business which had not commenced operations at the time it served the Notice of Negotiation would not be eligible for relief under the Framework. To be eligible under the Framework, the business must have commenced operations so as to be in a position to earn revenue by 1 September 2020.
+<u>This is even if the business had temporarily suspended its operations during those periods</u>. However, a new business which had not commenced operations at the time it served the Notice of Negotiation would not be eligible for relief under the Framework. To be eligible under the Framework, the business must have commenced operations so as to be in a position to earn revenue by 1 September 2020.
 
 In addition, in adjusting the rights and obligations of the parties upon termination of the contract, the Assessor may take into consideration all relevant facts and circumstances to reach a just and fair outcome. This would include looking at the reasons why the tenant chose not to operate. The Assessor’s powers include determining that a compensation for termination should be paid to achieve a just and fair outcome.
 
