@@ -217,6 +217,7 @@ Yes. The individual or sole proprietor will similarly be assessed on their busin
 Gross income means the aggregate of: 
 (a) the amounts derived from the sale of goods and the provision of services falling within the ordinary activities of the business in the relevant period; and 
 (b) any other amount derived from the business operations of the business in the relevant period, but excluding any amounts that are not derived in the ordinary course of the business. 
+<br>
 For most businesses, the following types of gains will typically not be derived in the ordinary course of business, and must be excluded: 
 (a) gains from the sale of fixed assets;
 (b) grants and subsidies; 
