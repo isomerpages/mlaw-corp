@@ -154,7 +154,7 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
 * Any assignee of any party to the contract.
 
-**Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-landlordhardship-supportingdocs) which must be enclosed to the Notice for Compensation.** 
+**Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-landlordhardship-supportingdocs)) which must be enclosed to the Notice for Compensation.** 
 
 **Note**: The **2-week Objection Period** is the same period in which the Landlord must lodge and serve the Notice of Objection, if applicable. 
 
