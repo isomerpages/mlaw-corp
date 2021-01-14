@@ -106,8 +106,8 @@ If the Other Party or its assignee wishes to object to the Hirer/Renter’s Noti
 The Other Party or his assignee may <u>only</u> object to the Hirer/Renter’s Notice of Revision on any one or more of the following grounds:
 
 * The contract in question is not a hire-purchase or conditional sales agreement or a lease of commercial equipment. 
-* the Hirer/Renter does not satisfy the eligibility criteria for relief.
-* the Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice is not served by 26 February 2021)
+* The Hirer/Renter does not satisfy the eligibility criteria for relief.
+* The Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice is not served by 26 February 2021)
 * The Hirer/Renter’s proposed repayment schedule does not meet the requirements in Section 53(4)(a)-(d) of the Act. (e.g. The amounts covered by the proposed repayment schedule includes amounts payable before 1 February 2020 or after the date of the Notice of Revision).
 
 To object to the Notice of Revision, the Other Party must lodge the Notice of Objection with the Registrar and serve the Notice of Objection on the following persons **within the 2-week Objection Period** on the following Recipient(s), where applicable:
@@ -119,7 +119,7 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 The following documents **must be attached** to the **Notice of Objection**:
 
 * A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
-* All supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
+* Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
 * If the Other Party has a proposal on the repayment schedule, all supporting documents to support the Other Party’s proposal. 
 
 <u>Submission and service by the electronic system</u> 
@@ -129,12 +129,12 @@ To submit to the Registrar and serve the **Notice of Objection** on the Recipien
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
+***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards**
 
 ##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> <a href="#s3b" title="Return to top">↩</a> #####
-Where the Other Party accepts the Hirer/Renter’s Notice of Revision or came to an agreement during the 4-week Negotiation Period, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision or on any other agreed terms. The Other Party does not need to serve and lodge a Notice of Objection in this situation.  
-
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
+
+Where the Other Party accepts the Hirer/Renter’s Notice of Revision or came to an agreement during the 4-week Negotiation Period, the parties can carry out their repayment obligations according to the revised repayment schedule in the Notice of Revision or on any other agreed terms. The Other Party does not need to serve and lodge a Notice of Objection in this situation.  
 
 Please also note that there will be no case before an Assessor in this situation. **Steps 4 to 6** below will **<u>not</u>** apply.
 
@@ -146,6 +146,8 @@ If the Registrar is satisfied that the Notice of Objection is in order, the Regi
 * An acknowledgment of receipt of the Notice of Objection.
 * A notice of the appointment of one or more Assessors.
 * If applicable, a notice of the date and place for the hearing.
+
+Pending the Assessor’s determination on the Notice of Objection, the Hirer/Renter may make the payments in accordance with the Hirer’s/Renter’s proposed revised repayment schedule.
 
 If the Registrar refuses to accept lodgment of a Notice of Objection or the Notice of Objection is withdrawn by the Other Party, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule.
 
@@ -171,7 +173,7 @@ Please note for online or physical hearings:
 
 If a party to a contract or his assignee is <u>absent</u>  from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [see here](/realign/assessor-determinations).
 
 #### <a name="step6">Step 6: Registrar Informs Hirer/Renter and Other Party of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 After the Assessor(s) has made a determination, the Registrar will inform the Hirer/Renter, the Other Party and their assignees.
@@ -181,7 +183,7 @@ There is no appeal against an Assessor’s determination, and it will be binding
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
 ##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#s6a" title="Return to top">↩</a> ##### 
-Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable:
+Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable before the determination of the Assessor(s) on the Notice of Objection:
  
 * The Hirer/Renter who served the Notice of Revision; 
 * Any other parties to the contract; and
@@ -191,11 +193,8 @@ Where any party who has lodged and served a Notice of Objection wishes to withdr
 
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 15 January 2021 onwards**
-
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass). 
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
