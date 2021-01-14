@@ -173,7 +173,7 @@ A specified arts and culture society is a society that is registered under secti
 <br>
 (a)	Be classified under one of the SSIC classification codes (SSIC 2015 (Version 2018)):
 
-|85420 |	Music, dancing, art, speech and drama instruction |
+|85420 |	Music, dancing, art, speech and drama instruction
 
 |90001	| Production of live theatrical presentations (e.g. stage plays, musicals and theatre productions)
 
