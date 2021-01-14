@@ -148,7 +148,7 @@ If the Other Party or his assignee has served a Notice of Objection within the *
 
 ##### <a name="step3b">(B) Other Party is a landlord who wishes to seek compensation from the Affected Business</a> <a href="#s3b" title="Return to top">↩</a> #####
 
-Where the Affected Business is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord](key-features) who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice for Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
+Where the Affected Business is a tenant who has served a Notice of Negotiation on his landlord and the landlord is an [eligible landlord](https://www.mlaw.gov.sg/realign/key-features#4landlord) who wishes to seek compensation from the tenant for its termination of the contract under the Framework, the landlord must within the **2-week Objection Period**, lodge the Notice for Compensation with the Registrar and serve the Notice for Compensation within the **2-week Objection Period** on the following Recipient(s), where applicable: 
 * The tenant who served the Notice of Negotiation; 
 * Any other parties to the lease or licence, including any other landlords or any other tenants; 
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
@@ -198,9 +198,9 @@ To submit to the Registrar and serve the **Notice for Adjustment** on the Recipi
 
 ***IMPORTANT NOTE: These links will only be available from 26 February 2021 onwards**
 
-#### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice of Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
+#### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice for Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
 
-The Registrar will review the Notice of Objection / Notice of Compensation / Notice for Adjustment. 
+The Registrar will review the Notice of Objection / Notice for Compensation / Notice for Adjustment. 
 
 If the Registrar is satisfied that the Notice of Objection / Notice for Adjustment / Notice for Compensation is in order, the Registrar will send to the Affected Business, the Other Party and their assignees by **way of email**:
 
@@ -214,12 +214,12 @@ If the Registrar refuses to accept lodgment of a Notice of Objection or the Noti
 * If applicable, a notice of the date and place for the hearing.
  
 #### <a name="step6">Step 6: Assessor Conducts Hearing and Makes Determination</a> <a href="#s6" title="Return to top">↩</a> ####
-<U>Where Notice of Objection and/or Notice of Compensation is lodged</u>
+<U>Where Notice of Objection and/or Notice for Compensation is lodged</u>
 
-Where the Other Party or his assignee has lodged a Notice of Objection and/or Notice of Compensation and they are accepted by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
+Where the Other Party or his assignee has lodged a Notice of Objection and/or Notice for Compensation and they are accepted by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
 
 * The Affected Business’ eligibility for relief under the Framework and the date of termination of the contract if the Affected Business is eligible (in respect of a Notice of Objection) and/or 
-* The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice of Compensation), 
+* The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice for Compensation), 
 
 <u>without</u> making a determination on the adjustment of rights and obligations under the contract. 
 
@@ -229,9 +229,9 @@ If an agreement is not reached and either party wishes to seek an Assessor’s d
 
 The Registrar will proceed to appoint one or more Assessors to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
 
-<u>Where no Notice of Objection and/or Notice of Compensation, and only Notice for Adjustment is lodged</u>
+<u>Where no Notice of Objection and/or Notice for Compensation, and only Notice for Adjustment is lodged</u>
 
-Where the Other Party or his assignee has not lodged a Notice of Objection and/or Notice of Compensation and only a Notice for Adjustment is lodged by either party, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
+Where the Other Party or his assignee has not lodged a Notice of Objection and/or Notice for Compensation and only a Notice for Adjustment is lodged by either party, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
 
 <u>Mode of hearing</u>
 
@@ -246,7 +246,7 @@ Please note for online or physical hearings:
 
 If a party to a contract or his assignee is <u>absent</u> from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence. See [here](/realign/assessor-determinations).
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [see here](/realign/assessor-determinations).
 
 
 #### <a name="step7">Step 7: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a> <a href="#s7" title="Return to top">↩</a> ####
@@ -256,8 +256,8 @@ There is no appeal against an Assessor’s determination, and it will be binding
 
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
-##### <a name="step7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice of Compensation</a><a href="#s7a" title="Return to top">↩</a> #####
-Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice of Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
+##### <a name="step7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice for Compensation</a><a href="#s7a" title="Return to top">↩</a> #####
+Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s) where applicable. 
 
 |**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal**
 | Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
