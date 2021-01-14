@@ -216,7 +216,7 @@ Your Notice of Revision must set out the revised schedule of repayments in accor
 
 * Assume **X** is S$10,000 and that the Hirer/Renter intends to make payment over a 12-month period, the total amount which he will have to pay is $10,500 (being principal of S$10,000 and interest of $500 calculated at **5% per annum**). 
 
-* Under the Act, the first instalment must be payable by 26 March 2020 (i.e. one month after 26 February 2020, which is the last date to serve the Notice of Revision), The Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
+* Under the Act, the first instalment must be payable by 26 March 2020 (i.e. one month after 26 February 2020, which is the last date to serve the Notice of Revision), the Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
 
 * On the above illustration, a sample proposed repayment schedule which must be set out in the notice of revision is as follows:
 
