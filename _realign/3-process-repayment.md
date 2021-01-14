@@ -29,11 +29,20 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 <img src="/files/ReAlign/realign_repayment.jpg/" title="Repayment" alt="Repayment">
 
 #### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
-The following [eligible parties](key-features) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act (“the Hirer/Renter”) must serve a Notice of Revision.
+The following [eligible parties](key-features) (“the Hirer/Renter”) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act must serve a Notice of Revision.
 
 (a)	a hirer under a hire-purchase or conditional sales agreement for commercial equipment; or commercial vehicle, which is not entered into with a bank, or with a finance company under the Finance Companies Act (Cap. 108); or
 
 (b)	a renter under a rental agreement for commercial equipment or commercial vehicle 
+
+Please refer to the following links for the methods by which your eligibility will be assessed
+<br>
+(a)	On the applicable methods of determining if your business’s annual revenue does not exceed $30m at a global group level, please refer to this [link](https://go.gov.sg/re-align-annualrevenue).
+<br>
+(b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
+
+**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision.** 
+
 
 The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
 * The Hirer/Renter’s financing company or leasing company, as the case may be (“the Other Party”).
