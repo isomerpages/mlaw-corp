@@ -122,7 +122,7 @@ Please note for online or physical hearings:
 
 If a party to the contract or his assignee is <u>absent</u> from the hearing, the Assessor(s) may deem that that party (or that party’s assignee) has withdrawn the Notice lodged by him; or may proceed to hear and make a determination on the case.
 
-If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [see here](/realign/assessor-determinations).
+If a person had a good reason for being absent, he may make an application to set aside the determination made in their absence [(see here)](/realign/assessor-determinations).
 
 #### <a name="step6">Step 6: Registrar Informs Affected Business and Other Party of Assessor’s Determination</a> <a href="#s6" title="Return to top">↩</a> ####
 
