@@ -268,9 +268,7 @@ In addition, in adjusting the rights and obligations of the parties upon termina
 
 **8.	Does the Framework affect contracts which are terminated before 2 November 2020?**
 
-The Framework does not affect contracts:•	Based on the above, the retail business may be considered to have commenced when it opened its doors to the public. Thus, its date of commencement of business would be 15 Jul 2019. The opening ceremony merely commemorates the business’s opening and does not alter the date of commencement. 
-Second, check the relevant periods for which you should compute the fall in monthly gross income based on the date of commencement of your business, from the table below.  
-
+The Framework does not affect contracts:  
 
 (a) which are terminated before 2 November 2020; or
 
