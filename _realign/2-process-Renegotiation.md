@@ -58,7 +58,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 <u>Service by other modes if you are unable to use the electronic system</u>
 
-<u>**Only if**</u> you are unable to serve the Notice of Negotiation using the electronic system, please 
+**<u>Only if</u>** you are unable to serve the Notice of Negotiation using the electronic system, please 
 
 1. Download the physical copy of the Notice of Negotiation
 * If you are acting on behalf of an entity to the contract, please download this form.
@@ -68,8 +68,6 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
-***IMPORTANT NOTE: This form will only be available for download from 15 January 2021 onwards.** 
-
 <u>Changes to Notice of Negotiation</u>
 
 Please ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a [Notice of Withdrawal](#step7a) and then serve a new Notice of Negotiation (which must be done by 26 February 2021).
@@ -77,7 +75,7 @@ Please ensure that the contents of the Notice of Negotiation are correct. You wi
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Affected Business serves a Notice of Negotiation, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Affected Business for his failure to perform any contractual obligation due to be performed from the day the Notice of Negotiation is served. 
 
-For the avoidance of doubt, the Other Party is not prohibited from taking legal and enforcement actions in relation to the Affected Business’ failure to perform any contractual obligations due to be performed before the day the Notice of Negotiation is served (e.g. outstanding rent). 
+For the avoidance of doubt, the Other Party is **<u>not</u>** prohibited from taking legal and enforcement actions in relation to the Affected Business’ failure to perform any contractual obligations due to be performed before the day the Notice of Negotiation is served (e.g. outstanding rent). 
 
 Broadly, the prohibition will end on the earliest of the following: 
 
