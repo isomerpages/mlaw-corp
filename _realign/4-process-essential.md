@@ -48,10 +48,12 @@ The **Notice of Negotiation for Contract of National Interest** must be served b
 
 **<u>Service by the electronic system</u>**
 
-To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you **<u>must have</u>** an email address as well as the email address(es) of the Recipient(s):
+To serve the Notice of Negotiation for Contract of National Interest using the electronic system, you **<u>must have</u>** an email address as well as the email address(es)* of the Recipient(s):
 
 *	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-corppass) (CorpPass).
 *	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-national-singpass) (SingPass). 
+
+***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg) or [https://www.corppass.gov.sg](https://www.corppass.gov.sg), respectively. 
 
