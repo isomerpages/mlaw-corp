@@ -362,10 +362,10 @@ If parties wish to refer their matter for mediation at SMC, parties should email
 SMC has also kindly extended the following discounted fee rates for parties who wish to mediate under the Re-Align Framework:
 
 | **Sum in dispute** | **Mediation fees (per party)** | **Filing fees**
-| S$0 – S$10,000 | S$80.25 for 4 hrs via videoconferencing | Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
-| S$10,001 - S$20,000 | S$214 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
-| S$20,001 – S$40,000 | S$299.60 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
-| S$40,001 – S$60,000 | S$385.20 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee upon confirmation of the mediation. 
+| S$0 – S$10,000 | S$80.25 for 4 hrs via videoconferencing | Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee where a mediation session is held. 
+| S$10,001 - S$20,000 | S$214 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee where a mediation session is held. 
+| S$20,001 – S$40,000 | S$299.60 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee where a mediation session is held. 
+| S$40,001 – S$60,000 | S$385.20 for 4 hrs |  Non-refundable fee of S$26.75 per party. Filing fee will be set-off from the mediation fee where a mediation session is held. 
 
 After the 4 hrs, there will be an hourly charge for the band from S$10,000 to S$60,000. Please refer [here](https://www.mediation.com.sg/wp-content/uploads/2020/01/05-SCCMS-Fee-Schedule-24Jan20.pdf) for more information. 
 

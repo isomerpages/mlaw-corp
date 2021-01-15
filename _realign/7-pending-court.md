@@ -32,7 +32,7 @@ Where:
 you may file a **[Memorandum of Notice of Negotiation /Notice of Revision](https://go.gov.sg/re-align-form2)** to the relevant court or arbitral tribunal for the purpose of obtaining a stay or dismissal of the proceedings.
 
 You may find out more information on how to file a Memorandum of Notice of Negotiation/Notice of Revision at the following websites:
-* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filing-a-memorandum-of-notification-for-relief-or-other-prescribed-forms-under-the-covid-19-(temporary-measures)-(temporary-relief-for-inability-to-perform-contracts)-regulations-2020)
+* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filings-under-regulations-issued-under-the-covid-19-(temporary-measures)-act)
 * For proceedings before a District Court, Magistrate’s Court or the Small Claims Tribunals, please visit the [State Courts’ website](https://www.statecourts.gov.sg/cws/NewsAndEvents/Pages/COVID-19-Advisory-NOTIFICATION-OF-RELIEF-UNDER-THE-COVID-19-(TEMPORARY-MEASURES)-ACT-2020.aspx). 
 
 ### <a name="2withdrawal">Withdrawal of the Notice of Negotiation /Notice for Adjustment /Notice for Compensation /Notice of Objection to Notice of Revision</a> <a href="#s2" title="Return to top">↩</a> ###
@@ -48,7 +48,7 @@ There are four circumstances in which you have to update the court or arbitratio
 If you are in any of the four circumstances above, you must file a **[Memorandum of Service of Withdrawal of Notice of Negotiation /Notice for Adjustment / Notice for Compensation /Notice of Objection to Notice of Revision](https://go.gov.sg/re-align-form4)*** with the court or arbitration tribunal **within 4 working days** after the date of the Notice of Withdrawal on the relevant parties. 
 
 You may find out more information on how to file a Memorandum of Notice of Negotiation/Notice of Revision at the following websites:
-* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filing-a-memorandum-of-notification-for-relief-or-other-prescribed-forms-under-the-covid-19-(temporary-measures)-(temporary-relief-for-inability-to-perform-contracts)-regulations-2020)
+* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filings-under-regulations-issued-under-the-covid-19-(temporary-measures)-act)
 * For proceedings before a District Court, Magistrate’s Court or the Small Claims Tribunals, please visit the [State Courts’ website](https://www.statecourts.gov.sg/cws/NewsAndEvents/Pages/COVID-19-Advisory-NOTIFICATION-OF-RELIEF-UNDER-THE-COVID-19-(TEMPORARY-MEASURES)-ACT-2020.aspx).
 
 ### <a name="3submitting">Submitting a Notification of Status of Proceedings before Adjustment Relief Assessor</a> <a href="#s3" title="Return to top">↩</a> ###
@@ -63,6 +63,6 @@ There are three circumstances in which you have to update the court or arbitrati
 If you are in any of the three circumstances above, you must submit a **[Notification of Status of Proceedings before Adjustment Relief Assessor](https://go.gov.sg/re-align-form12)** to the court or arbitral tribunal within **2 working days** after the date the Registrar sends the notice of appointment of the Assessor, or after the conclusion of proceedings before the Assessor. 
 
 You may find out more information on how to file a Memorandum of Notice of Negotiation/Notice of Revision at the following websites:
-* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filing-a-memorandum-of-notification-for-relief-or-other-prescribed-forms-under-the-covid-19-(temporary-measures)-(temporary-relief-for-inability-to-perform-contracts)-regulations-2020)
+* For proceedings before the High Court, please visit the [Supreme Court’s website](https://www.supremecourt.gov.sg/quick-links/visitors/covid-19/information-on-filings-under-regulations-issued-under-the-covid-19-(temporary-measures)-act)
 * For proceedings before a District Court, Magistrate’s Court or the Small Claims Tribunals, please visit the [State Courts’ website](https://www.statecourts.gov.sg/cws/NewsAndEvents/Pages/COVID-19-Advisory-NOTIFICATION-OF-RELIEF-UNDER-THE-COVID-19-(TEMPORARY-MEASURES)-ACT-2020.aspx).
 
