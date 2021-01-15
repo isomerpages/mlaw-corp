@@ -13,7 +13,7 @@ breadcrumb: 1. Key Features of Re-Align Framework
 <a href="#3contracts" id="s3">Contracts Affecting Essential Services and National Interest</a><br>
 <a href="#4landlord" id="s4">Landlord Hardship Relief</a><br>
 <a href="#5repayment" id="s5">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a><br>
-<a href="#faq" id="f1">FAQs</a> 
+<a href="#faq" id="f1">FAQs</a><br>
 <a href="#infographics" id="i1">Infographics</a>
  
 ### <a name="1eligiblity">Eligibility Criteria</a> <a href="#s1" title="Return to top">↩</a> ###
