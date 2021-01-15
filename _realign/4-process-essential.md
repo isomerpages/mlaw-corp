@@ -25,7 +25,7 @@ breadcrumb: 4. Process relating to contracts affecting Essential Services and Na
  
 #### <a name="step1">Step 1: Affected Business serves Notice of Negotiation for Contract of National Interest</a> <a href="#s1" title="Return to top">↩</a> ####
 
-An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](/realign/process-essential-services) (“the Affected Business”) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest. The contract must first be certified by the Relevant Minister as a Contract for National Interest before the Notice of Negotiation for Contract of National Interest may be served.
+An **[eligible party](/realign/key-features#1eligiblity)** to a [Contract of National Interest](https://go.gov.sg/re-align-contract-of-national-interest) (“the Affected Business”) who wishes to renegotiate the price of the contract must serve a Notice of Negotiation for Contract of National Interest. The contract must first be certified by the Relevant Minister as a Contract for National Interest before the Notice of Negotiation for Contract of National Interest may be served.
 
 Please refer to the following links for the methods by which your eligibility will be assessed:
 <br>
