@@ -316,7 +316,7 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
 
 ### <a name="infographics">Infographics</a> <a href="#i1" title="Return to top">↩</a> ###
 
-Infographics: <br>
+<br>
     1. [Eligibility](/files/ReAlign/2020-COVID-INFO1_Eligibility.pdf) <br>
     2. [Process of Renegotiation](/files/ReAlign/2020-COVID-INFO2_Process.pdf)  <br>
     3. [Terms of Contract Termination](/files/ReAlign/2020-COVID-INFO3_Terms.pdf) <br>
