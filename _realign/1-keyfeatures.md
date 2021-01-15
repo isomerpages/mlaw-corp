@@ -14,6 +14,7 @@ breadcrumb: 1. Key Features of Re-Align Framework
 <a href="#4landlord" id="s4">Landlord Hardship Relief</a><br>
 <a href="#5repayment" id="s5">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a><br>
 <a href="#faq" id="f1">FAQs</a> 
+<a href="#infographics" id="i1">Infographics</a>
  
 ### <a name="1eligiblity">Eligibility Criteria</a> <a href="#s1" title="Return to top">↩</a> ###
 
@@ -312,5 +313,16 @@ However, one important condition of the rental relief statutory repayment scheme
 **15.	Are there any fees required in seeking an Assessor’s determination?**
 
 No. Parties will not be charged any fees or costs when an Assessor is appointed to make a determination under the Framework.  
+
+### <a name="infographics">Infographics</a> <a href="#i1" title="Return to top">↩</a> ###
+
+Infographics: <br>
+    1. [Eligibility](/files/ReAlign/2020-COVID-INFO1_Eligibility.pdf) <br>
+    2. [Process of Renegotiation](/files/ReAlign/2020-COVID-INFO2_Process.pdf)  <br>
+    3. [Terms of Contract Termination](/files/ReAlign/2020-COVID-INFO3_Terms.pdf) <br>
+    4. [Repayment Scheme for Hire-Purchase and Equipment Rental Contracts](/files/ReAlign/2020-COVID-INFO4_Repayment.pdf) <br>
+    5. [Repricing Process for Contracts Affecting Essential Services or National Interest](/files/ReAlign/2020-COVID-INFO5_Repricing.pdf) <br>
+    6. [Guide to Serving a Notice of Negotiation](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) <br>
+    7. [Guide to Receiving a Notice of Negotiation](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf)
 
 
