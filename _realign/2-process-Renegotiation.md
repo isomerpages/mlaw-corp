@@ -50,9 +50,11 @@ The Notice of Negotiation must be served within **6 weeks** from 15 January 2021
   
 <u>Service by the electronic system</u>
 
-To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
+To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
 *	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-corppass) (CorpPass).
 *	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-singpass) (SingPass). 
+
+***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
@@ -138,7 +140,7 @@ The following documents **must be attached** to the Notice of Objection:
 
 <u>Submission and service by the electronic system</u> 
 
-To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
+To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
 * If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass). 
 
@@ -269,10 +271,12 @@ Where any party who has lodged and served Notice of Negotiation*, Notice of Obje
 
 <u>Submission and service by the electronic system</u> 
 
-To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
+To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
 
 * If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
 * If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass).
+
+***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
 Please note if you have filed and/or served more than one Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation, you must lodge and serve the Notice of Withdrawal for <u>each</u> of the Notices you wish to withdraw. 
 
