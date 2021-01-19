@@ -8,8 +8,7 @@ permalink: /news/press-releases/2021-01-19-Singapore-Accedes-to-the-Apostille-Co
 19 Jan 2021 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.	Singapore on 18 January deposited its instrument of accession to the Hague Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents (“Apostille Convention”), making us a Contracting Party to the Apostille Convention. The accession will facilitate the cross-border use of public documents
-<sup><a href="#fn1" id="ref1">1</a></sup>, saving time and costs for users through the use of a simplified one-step process.
+1.	Singapore on 18 January deposited its instrument of accession to the Hague Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents (“<b>Apostille Convention</b>”), making us a Contracting Party to the Apostille Convention. The accession will facilitate the cross-border use of public documents<sup><a href="#fn1" id="ref1">1</a></sup>, saving time and costs for users through the use of a simplified one-step process.
 
 {:start="2"}
 2.	With the deposit of the instrument yesterday at 11am CET (6pm Singapore time) at the Ministry of Foreign Affairs of the Netherlands in the Hague, the Apostille Convention will enter into force in September 2021 for Singapore. Singapore will implement the obligations under the Apostille Convention through the Apostille Act 2020, which was passed in Parliament in November last year. 
