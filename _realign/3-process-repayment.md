@@ -41,7 +41,7 @@ Please refer to the following links for the methods by which your eligibility wi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
 
-**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements here.** 
+**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements [here](https://www.mlaw.gov.sg/files/realign/annex_B_repayment_scheme.pdf).** 
 
 
 The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
