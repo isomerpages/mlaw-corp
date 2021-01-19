@@ -41,7 +41,7 @@ Please refer to the following links for the methods by which your eligibility wi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
 
-**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision.** 
+**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements here.** 
 
 
 The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
@@ -115,7 +115,7 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 * The Hirer/Renter’s guarantor or surety, or issuer of a performance bond, in relation to the Hirer/Renter’s obligations under the contract; and
 * Any assignee of any party to the contract. 
 
-The following documents **must be attached** to the **Notice of Objection**:
+The following documents **should be attached** to the **Notice of Objection**:
 
 * A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
 * Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
@@ -203,9 +203,9 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 **The timeline for service is a hard deadline**. If you do not serve the Notice of Revision with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
 
-**2.	 What must I include in my Notice of Revision?**
+**2.	 What should I include in my Notice of Revision?**
 
-Your Notice of Revision must set out the revised schedule of repayments in accordance with section 53(4) of the Act.
+Your Notice of Revision should set out the revised schedule of repayments in accordance with section 53(4) of the Act.
 
 *Illustration:
 
@@ -219,7 +219,7 @@ Your Notice of Revision must set out the revised schedule of repayments in accor
 
 * Under the Act, the first instalment must be payable by 26 March 2020 (i.e. one month after 26 February 2020, which is the last date to serve the Notice of Revision), the Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
 
-* On the above illustration, a sample proposed repayment schedule which must be set out in the notice of revision is as follows:
+* On the above illustration, a sample proposed repayment schedule which should be set out in the notice of revision is as follows:
 
 |**Date of repayment** | **Total amount to be repaid**
 | 26 March 2021 | 875
@@ -234,6 +234,8 @@ Your Notice of Revision must set out the revised schedule of repayments in accor
 | 26 December 2021 | 875
 | 26 January 2022 | 875
 | 26 February 2022 | 875
+
+If a Notice for Objection is lodged by the Other Party and the only valid objection is that the proposed revised repayment schedule in the Notice of Objection does not satisfy the requirements of the Act, the Assessor may determine what the revised repayment schedule should be. 
 
 **3.	I am the Other Party. I object to the revised schedule of payments proposed by the Hirer/Renter as I would prefer the outstanding arrears to be repaid in a shorter period than the 18-month period which the Hirer/Renter has offered. What can I do?**
 
