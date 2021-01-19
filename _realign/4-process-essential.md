@@ -33,7 +33,7 @@ Please refer to the following links for the methods by which your eligibility wi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
 
-Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Negotiation for Contract of National Interest.
+Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Negotiation for Contract of National Interest.
 
 The Affected Business must serve the Notice of Negotiation for Contract of National Interest on the following Recipient(s), where applicable:
 
@@ -106,7 +106,7 @@ If the Registrar is satisfied that the Notice for Repricing is in order, the Reg
 
 <u>Where Notice for Repricing is lodged</u>
 
-Where the Affected Busincess has lodged a Notice for Repricing and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Other Party’s Notice for Repricing. 
+Where the Affected Business has lodged a Notice for Repricing and they are acknowledged by the Registrar, the Registrar will appoint an Assessor(s) to make a determination on the Other Party’s Notice for Repricing. 
 
 <u>Mode of Hearing</u>
 
