@@ -66,9 +66,9 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 <br>
 1. Download the physical copy of the Notice of Revision [here](https://go.gov.sg/re-align-physicalform8).
 <br>
-2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). 
+2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
 <br>
-3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY@mlaw.gov.sg).
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
 
 ##### Moratorium #####
@@ -182,7 +182,7 @@ There is no appeal against an Assessor’s determination, and it will be binding
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
 ##### <a name="step6a">Withdrawal of Notice of Objection</a> <a href="#s6a" title="Return to top">↩</a> ##### 
-Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable before the determination of the Assessor(s) on the Notice of Objection:
+Where any party who has lodged and served a Notice of Objection wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable before the determination of the Assessor(s) on the Notice of Objection, if you had served the Notice of Objection on them:
  
 * The Hirer/Renter who served the Notice of Revision; 
 * Any other parties to the contract; and

@@ -63,12 +63,12 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 **<u>Only if</u>** you are unable to serve the Notice of Negotiation using the electronic system, please 
 
 1. Download the physical copy of the Notice of Negotiation
-* If you are acting on behalf of an entity to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-entity).
+* If you are acting on behalf of an entity to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-entity). 
 * If you are an individual who is a party to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-individual).
 
-2. Serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service).
+2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
 
-3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY@mlaw.gov.sg).
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
 <u>Changes to Notice of Negotiation</u>
 
@@ -259,15 +259,13 @@ There is no appeal against an Assessor’s determination, and it will be binding
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
 ##### <a name="step7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice for Compensation</a><a href="#s7a" title="Return to top">↩</a> #####
-Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s), before the contract is terminated under the Framework or the Assessor makes a determination on the relevant Notice, as the case may be: 
+Where any party who has lodged and served Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s), before the contract is terminated under the Framework or the Assessor makes a determination on the relevant Notice, as the case may be: 
 
-|**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal**
+|**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal <u>if</u> you had served the Relevant Notice on them**
 | Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Adjustment <br>(s 48(4)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract.
-
-*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee. You do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.
 
 <u>Submission and service by the electronic system</u> 
 
@@ -286,17 +284,24 @@ Please note if you have filed and/or served more than one Notice of Negotiation,
 
 **The timeline for service is a hard deadline.** If you do not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
 
-**2.	My contract was terminated by the Other Party on or after 2 November 2020 and before I served the Notice of Negotiation. How do I apply for relief?**
+**2. Why should I attach the supporting documents? These take a lot of time to prepare.**
+
+You should attach the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) to demonstrate to the other party that you comply with the eligibility criteria, and will help ensure fast and efficient good faith negotiations. 
+
+You may be allowed subsequently to provide documents and information by the Registrar or an Assessor to support your position, but, this is at the Registrar’s or Assessor’s discretion, and this may delay a resolution of the application. 
+
+
+**3.	My contract was terminated by the Other Party on or after 2 November 2020 and before I served the Notice of Negotiation. How do I apply for relief?**
 
 The process above applies in the same manner for contracts which were terminated on or after 2 November 2020 and before the Notice of Negotiation has been served, except that the date of termination would be the date on which your contract was terminated by the Other Party.
 
-**3.	What if the Other Party terminates my contract after I serve the Notice of Negotiation?**
+**4.	What if the Other Party terminates my contract after I serve the Notice of Negotiation?**
 
 The Other Party is prevented from terminating your contract in respect of any failure to perform an obligation that you are to perform from the day of service of the Notice of Negotiation.
 
 The Other Party is however not prohibited from terminating your contract in respect of your  failure, if any to perform any obligation under the contract before the day the Notice of Negotiation is served. In such case where your contract has been terminated before the termination under the Framework, if you are [eligible](/realign/key-features#1eligiblity), the default terms of [termination](/files/ReAlign/2020-COVID-INFO3.jpg) under the Framework would apply to the termination by the Other Party, as if it were a termination under the Act. The process above applies to you and the Other Party in the same manner, except that the date of termination would be the date in which your contract was terminated by the Other Party.
 
-**4.	Can I serve a Notice of Negotiation if I am unsure whether my contract is a contract that is excluded from relief under the Framework?**
+**5.	Can I serve a Notice of Negotiation if I am unsure whether my contract is a contract that is excluded from relief under the Framework?**
 
 Any party can serve a Notice of Negotiation in respect of their contract. 
 
@@ -306,19 +311,19 @@ Once a Notice of Objection is lodged with the Registrar, an Assessor will be app
 
 Parties are encouraged to use the **[4-week Negotiation Period](#step2)** to reach an amicable outcome.
 
-**5.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
+**6.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
 
 Yes, you may reissue another Notice of Negotiation for the same contract, provided the second Notice of Negotiation is served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
 
-**6.	What is the consequence of breaching the moratorium?**
+**7.	What is the consequence of breaching the moratorium?**
 
 Any person who, without reasonable excuse, breaches the moratorium shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-**7.	I am subject to Court actions against me for issues related to my Notice of Negotiation. What should I do?**
+**8.	I am subject to Court actions against me for issues related to my Notice of Negotiation. What should I do?**
 
 Please refer to [(7) Pending Court or Arbitration Proceedings](/realign/pending-court-arbitration) for more information. 
 
-**8.	How do I renegotiate my contract during the 4-week negotiation period?**
+**9.	How do I renegotiate my contract during the 4-week negotiation period?**
 
 You can approach the Other Party to the contract to discuss the terms of your contract, including:
 
@@ -343,7 +348,7 @@ You can approach the Other Party to the contract to discuss the terms of your co
 (iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
 (iv)	waiving or lowering of delivery costs and other applicable fees.
 
-**9.	The Other Party to the contract is unreasonable. Can the Government intervene and help me with my negotiations with the Other Party?**
+**10.	The Other Party to the contract is unreasonable. Can the Government intervene and help me with my negotiations with the Other Party?**
 
 The Government is unable to negotiate the contract on your behalf.
 
@@ -355,7 +360,7 @@ For more information on mediation and how it may help you, please refer to the l
 
 (b)	Mediation at the [Singapore Mediation Centre](https://www.mediation.com.sg).
 
-**10. I am an Affected Business. The Other Party and I are agreeable to engage a mediator during the 4-week negotiation period to assist with our negotiations. What is the process and is there any cost involved?**
+**11. I am an Affected Business. The Other Party and I are agreeable to engage a mediator during the 4-week negotiation period to assist with our negotiations. What is the process and is there any cost involved?**
 
 Parties may wish to consider referring their matter to the Singapore Mediation Centre (“SMC”) or the Law Society Mediation Scheme (“LSMS”) to engage an independent mediator to assist parties with mediation for purposes of the 4-week negotiation period. 
 
