@@ -136,7 +136,7 @@ The Registrar may publish the facts of the case, the arguments and the determina
 
 #### <a name="step6a">Withdrawal of Notice for Repricing</a> <a href="#s6a" title="Return to top">↩</a> ####
 
-Where an Affected Business who has lodged and served a Notice for Repricing wishes to withdraw that Notice, the Affected Business must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable.
+Where an Affected Business who has lodged and served a Notice for Repricing wishes to withdraw that Notice, the Affected Business must lodge a Notice of Withdrawal with the Registrar and serve the Notice of Withdrawal on the following Recipient(s) where applicable and if you had served the Notice for Repricing on them.
 
 * The Other Party; 
 * Any other party to the contract; and
