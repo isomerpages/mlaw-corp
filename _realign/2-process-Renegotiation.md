@@ -259,15 +259,13 @@ There is no appeal against an Assessor’s determination, and it will be binding
 The Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities.
 
 ##### <a name="step7a">Withdrawal of Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment and Notice for Compensation</a><a href="#s7a" title="Return to top">↩</a> #####
-Where any party who has lodged and served Notice of Negotiation*, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s), before the contract is terminated under the Framework or the Assessor makes a determination on the relevant Notice, as the case may be: 
+Where any party who has lodged and served Notice of Negotiation, Notice of Objection to Notice of Negotiation, Notice for Adjustment or Notice for Compensation wishes to withdraw that Notice, that party must lodge a Notice of Withdrawal with the Registrar, and serve the Notice of Withdrawal on the following Recipient(s), before the contract is terminated under the Framework or the Assessor makes a determination on the relevant Notice, as the case may be: 
 
-|**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal**
+|**Type of Notice you are withdrawing** | **Recipient(s) on whom you must serve Notice of Withdrawal if you had served the Relevant Notice on them**
 | Notice of Negotiation <br>(s 48(1)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice of Objection <br>(s 48(3)) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Adjustment <br>(s 48(4)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract.
-
-*If you have served a Notice of Negotiation and wish to withdraw the Notice, and if the other party or its assignee has not lodged a Notice of Objection with the Registry, you only need to serve the Notice of Withdrawal on the other party and its assignee. You do not need to submit the Notice of Withdrawal of the Notice of Negotiation to Registry.
 
 <u>Submission and service by the electronic system</u> 
 
