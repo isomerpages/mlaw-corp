@@ -68,7 +68,7 @@ To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.s
 
 2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
 
-3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sgv](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
+3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
 <u>Changes to Notice of Negotiation</u>
 
