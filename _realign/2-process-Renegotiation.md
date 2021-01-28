@@ -56,7 +56,7 @@ To serve the Notice of Negotiation using the electronic system, you **<u>must ha
 
 ***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
-**After you serve the Notice of Revision, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](https://www.mlaw.gov.sg/realign/process-repayment-scheme#step2) below).**
+**After you serve the Notice of Revision, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
 
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
