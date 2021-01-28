@@ -50,6 +50,7 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 {:start="7"}
 7. The fees payable under the SIP are outlined in the table below. 
 
+<TABLE>
 <TABLE BORDER="5">
 <TR>  
 <TD><b>S/No.</b></TD>  
