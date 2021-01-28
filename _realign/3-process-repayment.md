@@ -58,6 +58,8 @@ To serve the **Notice of Revision** using the electronic system, you must have a
 
 ***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
+**After you serve the Notice of Revision, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](https://www.mlaw.gov.sg/realign/process-repayment-scheme#step2) below).**
+
 To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
 
 <u>Service by other modes if you are unable to use the electronic system</u>
@@ -68,7 +70,6 @@ Only if you are unable to serve the Notice of Revision using the electronic syst
 <br>
 2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
 <br>
-3. Send completed form (together with supporting documents) to the Registry at [COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg](mailto:COVID19-RAF-REGISTRY-NOTICES@mlaw.gov.sg).
 
 
 ##### Moratorium #####
