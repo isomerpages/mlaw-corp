@@ -50,32 +50,7 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 {:start="7"}
 7. The fees payable under the SIP are outlined in the table below. 
 
-<TABLE>
-<TABLE BORDER="5">
-<TR>  
-<TD><b>S/No.</b></TD>  
-<TD><b>Applicable fees under the SIP</b></TD>
-<TD><b>SDRP<b/></TD>
-<TD><b>SWUP</b></TD>      
-</TR>  
-<TR>  
-<TD><b>1</b></TD>  
-<TD>Application Fee<br>
-<i>To be paid upon submission of application.</i></TD>
-<TD COLSPAN="2">$450</TD>
-<TR>  
-<TD><b>2</b></TD>  
-<TD>Administration Fee<br>
-<i>To be paid to the OR in the form of a deposit upon acceptance into the SIP.</i></TD>
-<TD>$18,750<sup><a href="#fn6" id="ref6">6</a></sup></TD>
-<TD>$2,700</TD>
-<TR>  
-<TD><b>3</b></TD>  
-<TD>Fees for additional services, e.g. legal advice, valuation etc.<br>
-<i>To be paid directly to the service provider.</i></TD>
-<TD COLSPAN="2">To be borne entirely by the company as incurred</TD>
-</TR>  
-</TABLE>
+<img src="https://raw.githubusercontent.com/isomerpages-mlaw/images/news/press-releases/2021/01/SIP_fees.JPG">
 
 <u>Process</u>
 
@@ -108,5 +83,8 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 <p><sup id="fn7">7. Please visit Credit Counselling Singapore’s website at https://www.ccs.org.sg/biz-debt-management/info-talk/ for more details. <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
 
 <p><sup id="fn8">8. These include the Extended Support Scheme – Standardised (“ESS-S”), which allows eligible SMEs to defer 80% of principal repayment on their secured loans, hire purchase agreements and loans granted under ESG’s loan schemes; and the Extended Support Scheme – Customised (“ESS-C”), which facilitates the restructuring of an SME’s credit facilities across multiple banks and finance companies. The ESS-C is open to SMEs with more than one lender for whom the SIP and the SPP Scheme are not suitable. Borrowers can apply for the ESS-C with any one of their lending banks or finance companies from 2 November 2020. Please visit the Monetary Authority of Singapore’s website at https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19/support-for-smes for more details. <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
+
+[Annex: Application Process (79.9KB)](/files/news/press-releases/2021/01/SIP_application_process.pdf)<br>
+
 
 <p class="right-side-updated">Last updated on 28 Jan 2021</p>
