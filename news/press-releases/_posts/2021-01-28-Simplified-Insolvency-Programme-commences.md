@@ -55,7 +55,7 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 <u>Process</u>
 
 {:start="8"}
-8. The application process for the SIP can be found in the Annex. Companies interested in applying for the SIP may visit <a href="www.go.gov.sg/sip" target="new">www.go.gov.sg/sip</a> to learn more.
+8. The application process for the SIP can be found in the Annex. Companies interested in applying for the SIP may visit <a href="https://www.go.gov.sg/sip" target="new">https://www.go.gov.sg/sip</a> to learn more.
 
 <u>Other Support Measures</u>
 
