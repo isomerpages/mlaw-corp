@@ -55,7 +55,7 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 <u>Process</u>
 
 {:start="8"}
-8. The application process for the SIP can be found in the Annex. Companies interested in applying for the SIP may visit [www.go.gov.sg/sip](www.go.gov.sg/sip) to learn more.
+8. The application process for the SIP can be found in the Annex. Companies interested in applying for the SIP may visit <a href="www.go.gov.sg/sip" target="new">www.go.gov.sg/sip</a> to learn more.
 
 <u>Other Support Measures</u>
 
@@ -74,15 +74,15 @@ permalink: /news/press-releases/simplified-insolvency-programme-commences
 
 <p><sup id="fn3">3. The eligibility criteria may be modified by the Minister under s72F(2) and s250F(2) of the IRD (Amd) Act. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-<p><sup id="fn4">4. A foreign company means a company, corporation, society, association or other body that is incorporated outside of Singapore. Please refer to s4(1) of the Companies Act for the full definition here: https://sso.agc.gov.sg/Act/CoA1967#pr4- <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn4">4. A foreign company means a company, corporation, society, association or other body that is incorporated outside of Singapore. Please refer to s4(1) of the Companies Act for the full definition here: <a href="https://sso.agc.gov.sg/Act/CoA1967#pr4-" target="new">https://sso.agc.gov.sg/Act/CoA1967#pr4-</a>  <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
 <p><sup id="fn5">5. Full list of circumstances can be found in s72F(3) and s250F(3) of the IRD (Amd) Act. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
 <p><sup id="fn6">6. The fee takes into account an average government subsidy of 25% (where applicable) for companies admitted into the SDRP. <a href="#ref6" title="Jump back to footnote 6 in the text.">↩</a></sup></p>
 
-<p><sup id="fn7">7. Please visit Credit Counselling Singapore’s website at https://www.ccs.org.sg/biz-debt-management/info-talk/ for more details. <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
+<p><sup id="fn7">7. Please visit Credit Counselling Singapore’s website at <a href="https://www.ccs.org.sg/biz-debt-management/info-talk/" target="new">https://www.ccs.org.sg/biz-debt-management/info-talk/</a> for more details. <a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
 
-<p><sup id="fn8">8. These include the Extended Support Scheme – Standardised (“ESS-S”), which allows eligible SMEs to defer 80% of principal repayment on their secured loans, hire purchase agreements and loans granted under ESG’s loan schemes; and the Extended Support Scheme – Customised (“ESS-C”), which facilitates the restructuring of an SME’s credit facilities across multiple banks and finance companies. The ESS-C is open to SMEs with more than one lender for whom the SIP and the SPP Scheme are not suitable. Borrowers can apply for the ESS-C with any one of their lending banks or finance companies from 2 November 2020. Please visit the Monetary Authority of Singapore’s website at https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19/support-for-smes for more details. <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
+<p><sup id="fn8">8. These include the Extended Support Scheme – Standardised (“ESS-S”), which allows eligible SMEs to defer 80% of principal repayment on their secured loans, hire purchase agreements and loans granted under ESG’s loan schemes; and the Extended Support Scheme – Customised (“ESS-C”), which facilitates the restructuring of an SME’s credit facilities across multiple banks and finance companies. The ESS-C is open to SMEs with more than one lender for whom the SIP and the SPP Scheme are not suitable. Borrowers can apply for the ESS-C with any one of their lending banks or finance companies from 2 November 2020. Please visit the Monetary Authority of Singapore’s website at <a href="https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19/support-for-smes" target="new">https://www.mas.gov.sg/regulation/covid-19/supporting-businesses-through-covid-19/support-for-smes</a> for more details. <a href="#ref8" title="Jump back to footnote 8 in the text.">↩</a></sup></p>
 
 [Annex: Application Process (79.9KB)](/files/news/press-releases/2021/01/SIP_application_process.pdf)<br>
 
