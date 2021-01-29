@@ -317,11 +317,11 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
 ### <a name="infographics">Infographics</a> <a href="#i1" title="Return to top">↩</a> ###
 
 <br>
-    1. Eligibility <br> [English](/files/ReAlign/2020-COVID-INFO1_Eligibility.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO1-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO1-Malay.pdf) <br>
-    2. Process of Renegotiation <br>[English](/files/ReAlign/2020-COVID-INFO2_Process.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO2-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO2-Malay.pdf) <br>
-    3. Terms of Contract Termination <br>[English](/files/ReAlign/2020-COVID-INFO3_Terms.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO3-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO3-Malay.pdf) <br>
-    4. Repayment Scheme for Hire-Purchase and Equipment Rental Contracts <br>[English](/files/ReAlign/2020-COVID-INFO4_Repayment.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO4-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO4-Malay.pdf)<br>
-    5. Repricing Process for Contracts Affecting Essential Services or National Interest <br>[English](/files/ReAlign/2020-COVID-INFO5_Repricing.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO5-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO5-Malay.pdf)<br>
-    6. Guide to Serving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO6-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO6-Malay.pdf) <br>
-    7. Guide to Receiving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO7-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO7-Malay.pdf)
+    1. Eligibility <br> [English](/files/ReAlign/2020-COVID-INFO1_Eligibility.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO1-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO1-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO1-Tamil.pdf)<br>
+    2. Process of Renegotiation <br>[English](/files/ReAlign/2020-COVID-INFO2_Process.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO2-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO2-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO2-Tamil.pdf)<br>
+    3. Terms of Contract Termination <br>[English](/files/ReAlign/2020-COVID-INFO3_Terms.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO3-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO3-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO3-Tamil.pdf) <br>
+    4. Repayment Scheme for Hire-Purchase and Equipment Rental Contracts <br>[English](/files/ReAlign/2020-COVID-INFO4_Repayment.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO4-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO4-Malay.pdf)| [Tamil](/files/ReAlign/2020-COVID-INFO4-Tamil.pdf)<br>
+    5. Repricing Process for Contracts Affecting Essential Services or National Interest <br>[English](/files/ReAlign/2020-COVID-INFO5_Repricing.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO5-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO5-Malay.pdf)| [Tamil](/files/ReAlign/2020-COVID-INFO5-Tamil.pdf)<br>
+    6. Guide to Serving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO6-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO6-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO6-Tamil.pdf) <br>
+    7. Guide to Receiving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO7-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO7-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO7-Tamil.pdf)
 
