@@ -15,13 +15,13 @@ To ask the Minister for Law (a) how many businesses have taken on the re-align f
 **<b><u>Written Answer:</u></b>**  
 
 {:start="1"}
-1. The Re-Align Framework (“Framework”) allows small and micro businesses that have been significantly impacted by COVID-19 to renegotiate selected types of contracts, so as to realign their contracts with the post-COVID-19 business environment. Renegotiation is the primary relief, not termination.
+1. The Re-Align Framework (“<b>Framework</b>”) allows small and micro businesses that have been significantly impacted by COVID-19 to renegotiate selected types of contracts, so as to realign their contracts with the post-COVID-19 business environment. Renegotiation is the primary relief, not termination.
 
 {:start="2"}
-2. The Framework commenced on 15 January 2021, and affected businesses have until 26 February 2021 to submit a Notice of Negotiation (“NoN”) to seek relief under the Framework.
+2. The Framework commenced on 15 January 2021, and affected businesses have until 26 February 2021 to submit a Notice of Negotiation (“<b>NoN</b>”) to seek relief under the Framework.
 
 {:start="3"}
-3. As of 26 January 2021, a total of 114 NoNs have been served using the online electronic system. Affected businesses may also serve the NoNs in hardcopy on the other party or parties to the contract (“Other Party”) . We are unable to track the number of hardcopy NoNs served.
+3. As of 26 January 2021, a total of 114 NoNs have been served using the online electronic system. Affected businesses may also serve the NoNs in hardcopy on the other party or parties to the contract (“<b>Other Party</b>”) . We are unable to track the number of hardcopy NoNs served.
 
 {:start="4"}
 4. As of 26 January 2021, the number of NoNs served using the online electronic system for each category of contract is as detailed in Table 1 below.  
