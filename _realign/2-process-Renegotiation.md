@@ -179,7 +179,7 @@ If the parties are unable to agree on the terms of termination under the contrac
 
 #### <a name="step4">Step 4: Either Affected Business, Other Party or Other Party’s assignee lodges and serves Notice for Adjustment</a> <a href="#s4" title="Return to top">↩</a> ####
 
-Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to [here](www.mlaw.gov.sg/files/ReAlign/2020-COVID-INFO3.jpg) for more information. 
+Where no Notice of Objection was served and lodged during the **2-week Objection Period**, the contract is deemed terminated 2 days after the end of the **2-week Objection Period** or on a date agreed between all the parties to the contract. The default terms of termination under the Framework (in Part 4 of the Second Schedule) apply to the termination of the contract. Please refer to [here](../files/ReAlign/2020-COVID-INFO3.jpg) for more information. 
   
 If the parties do not agree with the default terms and are unable to agree on the terms of termination between themselves, the Affected Business, the Other Party or the Other Party’s assignee may seek an Assessor’s determination on the adjustment of rights and obligations under the contract on a just and fair basis. 
 
