@@ -7,7 +7,9 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 ---
 
 ### Hire Purchase and Conditional Sales Agreements ###
-<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for hire-purchase and conditional sales agreements has been extended from 19 October 2020 to (i) 19 November 2020 (for agreements with banks or MAS-regulated finance companies) and (ii) 31 January 2021 (for agreements with other financing companies). Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Hirers with agreements not with banks or MAS-regulated finance companies may wish to consider taking up the [Repayment Scheme under the Re-Align Framework](https://www.mlaw.gov.sg/realign/process-repayment-scheme) when it comes into force. Please refer to this [press release](../../news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts) for more information.
+<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for hire-purchase and conditional sales agreements ended on (i) 19 November 2020 (for agreements with banks or MAS-regulated finance companies) and (ii) 31 January 2021 (for agreements with other financing companies). The reliefs described on this page has expired. 
+
+Eligible hirers (except those with agreements with banks or MAS-regulated finance companies) may wish to consider taking up the Repayment Scheme under the Re-Align Framework to pay their outstanding arrears in instalments. To do so, eligible hirers must serve a Notice of Revision on all parties to the contract by 26 February 2021. Please click [here](https://www.mlaw.gov.sg/realign/process-repayment-scheme) for more information.
 
 #### General FAQs ####
 
