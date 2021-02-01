@@ -15,7 +15,7 @@ To ask the Minister for Law (a) to date, how many  wills have been registered wi
 **<b><u>Written Answer:</u></b>**  
 
 {:start="1"}
-1. The Wills Registry (the “Registry”) was launched in 2001 and is a confidential registry where testators or their solicitors can deposit information on wills. With effect from 4 May 2020, the Singapore Academy of Law (“SAL”) took over the management of the Registry from the Public Trustee’s Office (“PTO”).  As at 31 December 2020, there were 128,931 will records deposited with the Registry. 
+1. The Wills Registry (the “<b>Registry</b>”) was launched in 2001 and is a confidential registry where testators or their solicitors can deposit information on wills. With effect from 4 May 2020, the Singapore Academy of Law (“<b>SAL</b>”) took over the management of the Registry from the Public Trustee’s Office (“<b>PTO</b>”).  As at 31 December 2020, there were 128,931 will records deposited with the Registry. 
 
 {:start="2"}
 2. In 2014, PTO introduced an online service for the electronic submissions of will records including a one-time $50 fee to cover the costs of processing and maintaining the records in the system for up to 120 years from the testators’ date of birth. The number of will records deposited annually over the past 10 years is as follows: 
