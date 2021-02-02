@@ -198,7 +198,7 @@ To submit to the Registrar and serve the **Notice for Adjustment** on the Recipi
 * If you are acting on behalf of an entity that is a party to the contract, please use this link*(CorpPass).
 * If you are an individual who is a party to the contract, please use this link* (SingPass).
 
-***IMPORTANT NOTE: These links will only be available from 28 February 2021 onwards**
+***IMPORTANT NOTE: These links will only be available from 27 February 2021 onwards**
 
 #### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice for Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
 
