@@ -38,7 +38,7 @@ b.	Operational and implementation issues
 c.	Language and structure
     
 {:start="5"}
-5.	The full public consultation paper may be viewed online at <a href-"https://go.gov.sg/copyright-consult2021" target="new">https://go.gov.sg/copyright-consult2021</a>.
+5.	The full public consultation paper may be viewed online at <a href="https://go.gov.sg/copyright-consult2021" target="new">https://go.gov.sg/copyright-consult2021</a>.
 
 {:start="6"}
 6.	Members of the public are invited to submit their views by 1 April 2021.  They may submit feedback via the online forms accessible at the link above or email to <a href="mailto:MLAW_Consultation@mlaw.gov.sg" target="new">MLAW_Consultation@mlaw.gov.sg</a> with the subject or header <b>“Feedback on Copyright Bill Consultation Paper”</b>.
