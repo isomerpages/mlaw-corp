@@ -44,7 +44,7 @@ c.	Language and structure
 6.	Members of the public are invited to submit their views by 1 April 2021.  They may submit feedback via the online forms accessible at the link above or email to <a href="mailto:MLAW_Consultation@mlaw.gov.sg" target="new">MLAW_Consultation@mlaw.gov.sg</a> with the subject or header <b>“Feedback on Copyright Bill Consultation Paper”</b>.
 
 **MINISTRY OF LAW**
-**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
+<br>**INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
 <br>**5 FEBRUARY 2021**
 
 [Annex: New Rights, Exceptions and Remedies in Draft Copyright Bill (134KB)](/files/Annex_Copyright_Consult.pdf)<br>
