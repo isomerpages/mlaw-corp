@@ -2,7 +2,7 @@
 layout: post
 title:  MinLaw and IPOS Seek Feedback on Draft Copyright Bill
 date: 2021-02-05
-permalink: /news/press-releases/2020-02-05-MinLaw-IPOS-Seek-Feedback-on-Draft-Copyright-Bill
+permalink: /news/press-releases/2021-02-05-MinLaw-IPOS-Seek-Feedback-on-Draft-Copyright-Bill
 ---
 
 5 Feb 2021 Posted in [Press releases](/news/press-releases)
@@ -17,9 +17,9 @@ permalink: /news/press-releases/2020-02-05-MinLaw-IPOS-Seek-Feedback-on-Draft-Co
 
   b.	Enhances the clarity and accessibility of the copyright regime, by:
 
-    i.	Restructuring the Copyright Act into themes and consolidating exceptions into a single Part; and
+  i.	Restructuring the Copyright Act into themes and consolidating exceptions into a single Part; and
 
-    ii.	Simplifying the language in the legislation and illustrations to show how provisions should be applied in particular situations.  
+  ii.	Simplifying the language in the legislation and illustrations to show how provisions should be applied in particular situations.  
 
 {:start="3"}
 3.	The public consultation will come in two parts, both ending on 1 April 2021:
@@ -41,7 +41,7 @@ c.	Language and structure
 5.	The full public consultation paper may be viewed online at <a href-"https://go.gov.sg/copyright-consult2021" target="new">https://go.gov.sg/copyright-consult2021</a>.
 
 {:start="6"}
-6.	Members of the public are invited to submit their views by 1 April 2021.  They may submit feedback via the online forms accessible at the link above or email to <a href = "mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a> with the subject or header <b>“Feedback on Copyright Bill Consultation Paper”</b>.
+6.	Members of the public are invited to submit their views by 1 April 2021.  They may submit feedback via the online forms accessible at the link above or email to <a href="mailto:MLAW_Consultation@mlaw.gov.sg" target="new">MLAW_Consultation@mlaw.gov.sg</a> with the subject or header <b>“Feedback on Copyright Bill Consultation Paper”</b>.
 
 **MINISTRY OF LAW**
 **INTELLECTUAL PROPERTY OFFICE OF SINGAPORE**
