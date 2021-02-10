@@ -23,6 +23,7 @@ The Conference will bring together about 250 government officials, legal and dis
  
 We would like to cordially invite you to attend the China-Singapore International Commercial Dispute Resolution Conference!
 
+中國
 
 For any enquiries, please contact <drsg@mlaw.gov.sg>
 
