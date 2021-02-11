@@ -18,12 +18,12 @@ permalink: /news/announcements/Pilot-for-New-Moneylending-Business-Models-Extend
 {:start="3"}
 3. The Pilot licensees were granted a total of 15 places of business and allowed to operate for up to two years, from 2019 to 2021. The Pilot licensees are:
 <br><br>
-    a) Accredit Pte. Limited
-    b) 1 2 Lend Pte. Ltd. 
-    c) Credit Culture Pte. Ltd. 
-    d) IFS Consumer Services Private Limited 
-    e) Minterest Money Pte Ltd 
-    f) Lending Bee Pte. Ltd.
+    a) Accredit Pte. Limited<br>
+    b) 1 2 Lend Pte. Ltd. <br>
+    c) Credit Culture Pte. Ltd. <br>
+    d) IFS Consumer Services Private Limited <br>
+    e) Minterest Money Pte Ltd <br>
+    f) Lending Bee Pte. Ltd.<br>
 
 {:start="4"}
 4. Most Pilot licensees had only operated for one year or less before the onset of the COVID-19 pandemic, which has negatively affected the moneylending sector. MinLaw has therefore extended the Pilot by one year, to 2022. This will provide more time for the sector and the Pilot licensees to recover from the pandemic. In turn, this will enable MinLaw to more accurately assess the impact of the Pilot on moneylending, which would inform our efforts to enhance the moneylending regulatory regime. 
