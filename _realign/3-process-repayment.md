@@ -86,7 +86,7 @@ For more details on the moratorium, please refer to the [Fifth Schedule of the A
 
 After the service of the Notice of Revision, there will be a **4-week Negotiation Period** commencing after the date of the Notice of Revision during which the Hirer/Renter and the Other Party are encouraged to renegotiate the repayment schedule for any outstanding payments owed by the Hirer/Renter to the Other Party, or the terms of the contract, where applicable. 
 
-During this Negotiation Period, the Other Party cannot lodge or serve a Notice of Objection. 
+During this Negotiation Period, the Other Party cannot lodge or serve a Notice of Objection. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 #### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 
@@ -95,13 +95,13 @@ At the end of the **4-week Negotiation Period**, the two possible outcomes are:
 * Parties have been unsuccessful in their renegotiation of the terms of their contract and/or the repayment schedule for outstanding payments. 
 
 A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
-If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or the amended repayment schedule. The Other Party does not need to serve a Notice of Objection in this situation. 
+If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or the amended repayment schedule. The Other Party does not need to serve a Notice of Objection in this situation. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 In contrast, where parties are unsuccessful in their renegotiation by the end of the **4-week Negotiation Period**, there are two courses of action for the Other Party or his assignee.
 
 
 ##### <a name="step3a">(A): Other Party objects to Hirer/Renter’s Notice of Revision</a> <a href="#s3a" title="Return to top">↩</a> #####
-If the Other Party or its assignee wishes to object to the Hirer/Renter’s Notice of Revision, the Other Party must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. 
+If the Other Party or its assignee wishes to object to the Hirer/Renter’s Notice of Revision, the Other Party must, within the **2-week Objection Period**, serve a Notice of Objection on the required parties, and lodge the Notice of Objection with the Adjustment Relief Registrar within the same period. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 The Other Party or his assignee may <u>only</u> object to the Hirer/Renter’s Notice of Revision on any one or more of the following grounds:
 
@@ -126,10 +126,8 @@ The following documents **should be attached** to the **Notice of Objection**:
 
 To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards**
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-revision-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-revision-singpass) (SingPass). 
 
 ##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> <a href="#s3b" title="Return to top">↩</a> #####
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
