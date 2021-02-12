@@ -102,7 +102,7 @@ For more details on the moratorium, please refer to the [Fifth Schedule of the A
 
 After the service of the Notice of Negotiation, there will be a **4-week Negotiation Period** which commences after the date of the Notice of Negotiation during which the Affected Business and the Other Party are encouraged to renegotiate the terms of the contract or to renegotiate the terms of termination of the contract, where applicable. 
 
-During this **4-week Negotiation Period**, the Other Party cannot lodge or serve a Notice of Objection. 
+During this **4-week Negotiation Period**, the Other Party cannot lodge or serve a Notice of Objection. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 #### <a name="step3">Step 3: Other Party lodges and serves Notice of Objection and/or Notice for Compensation during the 2-week Objection Period</a> <a href="#s3" title="Return to top">↩</a> ####
 
@@ -110,7 +110,7 @@ At the end of the **4-week Negotiation Period**, the two possible outcomes are:
 * Parties have successfully renegotiated the terms of their contract. 
 * Parties have been unsuccessful in their renegotiation of the terms of their contract. 
 
-A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. 
+A **2-week Objection Period** starts after the end of the **4-week Negotiation Period**. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 If parties have successfully renegotiated the terms of their contract by the end of the **4-week Negotiation Period**, they may proceed with the amended terms of their contract or terminate the contract on their own agreed terms. The Other Party does not need to serve a Notice of Objection in this situation. 
 
@@ -120,7 +120,7 @@ In contrast, where parties are unsuccessful in their renegotiation by the end of
 
 ##### <a name="step3a">(A) Other Party objects to Affected Business’ eligibility for relief</a> <a href="#s3a" title="Return to top">↩</a> #####
 
-If the Other Party or his assignee wishes to dispute the Affected Business’ eligibility for relief under the Framework, within the **2-week Objection Period**, he must serve a Notice of Objection on the required parties and lodge the Notice of Objection with the Registrar. 
+If the Other Party or his assignee wishes to dispute the Affected Business’ eligibility for relief under the Framework, within the **2-week Objection Period**, he must serve a Notice of Objection on the required parties and lodge the Notice of Objection with the Registrar. For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 The Other Party or his assignee may <u>only</u> object to the Affected Business’ Notice of Negotiation on any one or more of the following grounds:
 * The contract in question is not a specified contract.
@@ -141,10 +141,10 @@ The following documents **should be attached** to the Notice of Objection:
 <u>Submission and service by the electronic system</u> 
 
 To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-* If you are an individual who is a party to the contract, please use this link* (SingPass). 
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-corppass)* (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-singpass)* (SingPass). 
 
-***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards. Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
+***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
 If the Other Party or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
 
@@ -162,6 +162,7 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 
 * If the landlord wishes to dispute the tenant’s eligibility for relief but at the same time wishes to obtain compensation from the tenant if the contract is ultimately terminated, the landlord <u>must</u> lodge and serve both a Notice of Objection and a Notice for Compensation within the **2-week Objection Period**. 
 * Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. A Notice for Compensation may be lodged and served even if a Notice of Objection is not lodged and served.
+* For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 <u>Submission and service by the electronic system</u> 
 
@@ -183,10 +184,11 @@ Where no Notice of Objection was served and lodged during the **2-week Objection
   
 If the parties do not agree with the default terms and are unable to agree on the terms of termination between themselves, the Affected Business, the Other Party or the Other Party’s assignee may seek an Assessor’s determination on the adjustment of rights and obligations under the contract on a just and fair basis. 
 
-To seek the Assessor’s determination, **within 2 weeks after the end of the 2-week Objection Period**, the Affected Business, the Other Party or the Other Party’s assignee must lodge the Notice for Adjustment with the Registrar and serve the Notice for Adjustment on the following Recipient(s), where applicable: 
+To seek the Assessor’s determination, **within 2 weeks after the end of the 2-week Objection Period (the “Adjustment Period”)**, the Affected Business, the Other Party or the Other Party’s assignee must lodge the Notice for Adjustment with the Registrar and serve the Notice for Adjustment on the following Recipient(s), where applicable: 
 * Any other party to the contract.
 * Any person who is a guarantor or surety, or who has issued a performance bond, in relation to the obligations of the Affected Business. 
 * Any assignee of any party to the contract. 
+* For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 The Notice for Adjustment should be accompanied by the following documents:
 * A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.

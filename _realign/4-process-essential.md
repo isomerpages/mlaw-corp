@@ -87,10 +87,8 @@ In contrast, where parties are unsuccessful in their renegotiation by the end of
 
 To submit to the Registrar and serve the Notice for Repricing on the Recipient(s) using the electronic system (if you have an email address, and have the email address(es) of the Recipient(s)):
 
-*	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-*	If you are an individual who is a party to the contract, please use this link* (SingPass). 
-
-***IMPORTANT NOTE: These links will only be available from 13 February 2021 onwards**
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-for-repricing-corppass) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-for-repricing-singpass) (SingPass). 
 
 #### <a name="step4">Step 4: Case proceeds to an Assessor</a> <a href="#s4" title="Return to top">↩</a> ####
 
@@ -148,8 +146,8 @@ The Notice of Withdrawal must be lodged and served before the Assessor(s) makes 
 
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-*	If you are acting on behalf of an entity that is a party to the contract, please use this link* (CorpPass).
-*	If you are an individual who is a party to the contract, please use this link* (SingPass). 
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass). 
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
