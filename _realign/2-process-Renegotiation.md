@@ -233,9 +233,9 @@ If an agreement is not reached and either party wishes to seek an Assessor’s d
 
 The Registrar will proceed to appoint one or more Assessors to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
 
-<u>Where no Notice of Objection and/or Notice for Compensation, and only Notice for Adjustment is lodged</u>
+<u>Where no Notice of Objection, and only Notice for Adjustment is lodged</u>
 
-Where the Other Party or his assignee has not lodged a Notice of Objection and/or Notice for Compensation and only a Notice for Adjustment is lodged by either party, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
+Where the Other Party or his assignee has not lodged a Notice of Objection during the 2-week Objection Period and only a Notice for Adjustment is lodged by either party, the Registrar need not appoint an Assessor to make a determination on the Affected Business’ eligibility for relief under the Framework and the date of termination of the contract. Instead, the Registrar will appoint an Assessor to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract under the Framework. 
 
 <u>Mode of hearing</u>
 
