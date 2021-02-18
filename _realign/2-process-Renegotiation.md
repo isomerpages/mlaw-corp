@@ -222,12 +222,12 @@ If the Registrar refuses to accept lodgment of a Notice of Objection or the Noti
 
 Where the Other Party or his assignee has lodged a Notice of Objection and/or Notice for Compensation and they are accepted by the Registrar, the Registrar will appoint an Assessor(s) to first make a determination on: 
 
-* The Affected Business’ eligibility for relief under the Framework and the date of termination of the contract if the Affected Business is eligible (in respect of a Notice of Objection) and/or 
+* The Affected Business’ eligibility for relief under the Framework and the date of termination of the contract if the Affected Business is eligible (in respect of a Notice of Objection) <u>without</u> making a determination on the adjustment of rights and obligations under the contract; and/or 
 * The landlord’s eligibility for the compensation and the amount of compensation (in respect of a Notice for Compensation), 
 
-<u>without</u> making a determination on the adjustment of rights and obligations under the contract. 
 
-After the determination(s) on the above issues have been made, if the Affected Business is determined to be eligible and the contract is terminated, the parties are encouraged to negotiate and agree on the adjustment of rights and obligations under the contract, taking into account the default terms of termination under the Framework (in Part 4 of the Second Schedule). Please refer to here <hyperlink to PDF of infographic for default consequences> for more information.  
+
+After the determination(s) on the Affected Business' eligibility under the Notice of Objection made, if the Affected Business is determined to be eligible and the contract is terminated, the parties are encouraged to negotiate and agree on the adjustment of rights and obligations under the contract, taking into account the default terms of termination under the Framework (in Part 4 of the Second Schedule). Please refer to [here](../files/ReAlign/2020-COVID-INFO3.jpg) for more information.  
 
 If an agreement is not reached and either party wishes to seek an Assessor’s determination on the adjustment of rights and obligations, that party must inform the Registrar (copying the other party)  **<u>within 7 days</u>** from the date of the determination(s) that he wishes to seek an Assessor’s determination on the matter . 
 
