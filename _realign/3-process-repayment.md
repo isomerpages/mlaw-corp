@@ -127,11 +127,18 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 * The Hirer/Renter’s guarantor or surety, or issuer of a performance bond, in relation to the Hirer/Renter’s obligations under the contract; and
 * Any assignee of any party to the contract. 
 
-The following documents **should be attached** to the **Notice of Objection**:
 
-* A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
-* Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
-* If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. 
+<table>
+<tr>
+<td> </td>
+ <td>The following documents <b>should be attached</b> to the Notice of Objection:
+<ul>
+  <li>A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.</li> 
+  <li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li>
+ <li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. </li>
+  </ul>
+</tr>
+</table>
 
 <u>Submission and service by the electronic system</u> 
 
