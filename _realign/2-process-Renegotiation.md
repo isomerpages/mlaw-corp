@@ -41,7 +41,7 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
 <style>
-table.highlight { background-color: #add8e6 ;font-size: 24px; }
+.highlight table { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
 <table class="highlight">
