@@ -151,6 +151,7 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
   <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
   <li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
   </ul>
+  </td>
 </tr>
 </table>
 
