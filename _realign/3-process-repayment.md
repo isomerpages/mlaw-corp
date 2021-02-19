@@ -137,6 +137,7 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
   <li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li>
  <li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. </li>
   </ul>
+ </td>
 </tr>
 </table>
 
