@@ -25,7 +25,7 @@ a. The iLAB chatbot on the [Legal Aid Bureau’s website](https://lab.mlaw.gov.s
  
 b. The Community Justice Centre’s [Automated Court Document Assembly and Generation (ACDA)](https://www.cjc.org.sg/automated-court-documents-assembly/) provides step-by-step guidance on filing certain court forms.
  
-c. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) website has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
+c. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
  
 d. [The Law Society of Singapore website](https://www.lawsociety.org.sg/) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
  
