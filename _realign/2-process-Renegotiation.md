@@ -50,7 +50,7 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 <style>
 table { background-color: grey; }
 tr {  }
-td { font-size: 18px; }  
+td { font-size: 180px; }  
 </style>
 
 <table>
