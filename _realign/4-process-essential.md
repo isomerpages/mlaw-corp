@@ -33,7 +33,18 @@ Please refer to the following links for the methods by which your eligibility wi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
 
-Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Negotiation for Contract of National Interest.
+
+
+<style>
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
+</style>
+
+<table class="highlight">
+<tr>
+<td> </td>
+<td>Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation for Contract of National Interest.</td>
+</tr>
+</table>
 
 The Affected Business must serve the Notice of Negotiation for Contract of National Interest on the following Recipient(s), where applicable:
 

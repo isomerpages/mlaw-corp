@@ -41,10 +41,10 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
 <style>
-table { background-color: #add8e6 ;font-size: 24px; }
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
 <td>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</td>
@@ -142,9 +142,19 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 * The Affected Business’ guarantor or surety, or issuer of a performance bond, in relation to the Affected Business’ obligations under the contract; and
 * Any assignee of any party to the contract.
 
-The following documents **should be attached** to the Notice of Objection:
-* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation. 
-* Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework.
+
+<table class="highlight">
+<tr>
+<td> </td>
+  <td>The following documents <b>should be attached</b> to the Notice of Objection:
+<ul>
+  <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
+  <li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
+  </ul>
+  </td>
+</tr>
+</table>
+
 
 <u>Submission and service by the electronic system</u> 
 
@@ -164,7 +174,14 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
 * Any assignee of any party to the contract.
 
-**Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-landlordhardship-supportingdocs)) which should be enclosed to the Notice for Compensation.** 
+<table class="highlight">
+<tr>
+<td> </td>
+<td>
+Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-landlordhardship-supportingdocs">here</a>) which should be enclosed to the Notice for Compensation.
+  </td>
+</tr>
+  </table>
 
 **Note**: The **2-week Objection Period** is the same period in which the Landlord must lodge and serve the Notice of Objection, if applicable. 
 
@@ -198,9 +215,19 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 * Any assignee of any party to the contract. 
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
-The Notice for Adjustment should be accompanied by the following documents:
-* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.
-* Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
+
+<table class="highlight">
+<tr>
+<td> </td>
+<td>The Notice for Adjustment should be accompanied by the following documents:
+<ul>
+  <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
+  <li>Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. </li>
+  </ul>
+  </td>
+</tr>
+</table>
+
 
 <u>Submission and service by the electronic system</u> 
 

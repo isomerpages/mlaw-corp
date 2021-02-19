@@ -41,7 +41,18 @@ Please refer to the following links for the methods by which your eligibility wi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods).
 
-**Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements [here](https://www.mlaw.gov.sg/files/realign/annex_B_repayment_scheme.pdf).** 
+
+<style>
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
+</style>
+
+<table class="highlight">
+<tr>
+<td> </td>
+<td>Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements <a href="https://www.mlaw.gov.sg/files/realign/annex_B_repayment_scheme.pdf">here</a>.</td>
+</tr>
+</table>
+
 
 
 The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
@@ -116,11 +127,14 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 * The Hirer/Renter’s guarantor or surety, or issuer of a performance bond, in relation to the Hirer/Renter’s obligations under the contract; and
 * Any assignee of any party to the contract. 
 
-The following documents **should be attached** to the **Notice of Objection**:
 
-* A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.
-* Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.
-* If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal. 
+<table class="highlight">
+<tr>
+<td> </td>
+ <td>The following documents <b>should be attached</b> to the Notice of Objection:<ul><li>A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.</li><li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li><li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal.</li></ul>
+ </td>
+</tr>
+</table>
 
 <u>Submission and service by the electronic system</u> 
 
