@@ -214,9 +214,18 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 * Any assignee of any party to the contract. 
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
-The Notice for Adjustment should be accompanied by the following documents:
-* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.
-* Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. 
+
+<table>
+<tr>
+<td> </td>
+<td>The Notice for Adjustment should be accompanied by the following documents:
+<ul>
+  <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
+  <li>Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. </li>
+  </ul>
+</tr>
+</table>
+
 
 <u>Submission and service by the electronic system</u> 
 
