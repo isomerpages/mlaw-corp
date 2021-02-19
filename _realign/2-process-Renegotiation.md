@@ -45,6 +45,7 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 
 > Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Negotiation.
 
+> Before serving the Notice of Negotiation, the Affected Business <mark>should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs))</mark> which should be enclosed to the Notice of Negotiation.
 
 The Notice of Negotiation must be served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
