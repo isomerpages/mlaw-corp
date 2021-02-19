@@ -41,10 +41,10 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
 <style>
-table { background-color: #add8e6 ;font-size: 24px; }
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
 <td>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</td>
