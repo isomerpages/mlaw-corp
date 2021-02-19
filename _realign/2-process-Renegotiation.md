@@ -40,8 +40,16 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
-**Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Negotiation.**
+<style>
+table { background-color: #add8e6 ;font-size: 24px; }
+</style>
 
+<table>
+<tr>
+<td> </td>
+<td>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</td>
+</tr>
+</table>
 
 The Notice of Negotiation must be served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
