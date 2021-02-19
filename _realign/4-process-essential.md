@@ -36,10 +36,10 @@ Please refer to the following links for the methods by which your eligibility wi
 
 
 <style>
-table { background-color: #add8e6 ;font-size: 24px; }
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
 <td>Before serving the Notice of Negotiation for Contract of National Interest, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation for Contract of National Interest.</td>
