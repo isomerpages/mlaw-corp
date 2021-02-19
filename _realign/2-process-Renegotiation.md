@@ -49,8 +49,8 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 
 <style>
 table { background-color: grey; }
-tr { background-color: yellow; }
-td { background-color: #; }  
+tr {  }
+td { font-size: 18px; }  
 </style>
 
 <table>
