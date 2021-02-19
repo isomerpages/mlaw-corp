@@ -142,9 +142,18 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 * The Affected Business’ guarantor or surety, or issuer of a performance bond, in relation to the Affected Business’ obligations under the contract; and
 * Any assignee of any party to the contract.
 
-The following documents **should be attached** to the Notice of Objection:
-* A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation. 
-* Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework.
+
+<table>
+<tr>
+<td> </td>
+<td>The following documents **should be attached** to the Notice of Objection:
+<ul>
+  <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
+  <li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
+  </ul>
+</tr>
+</table>
+
 
 <u>Submission and service by the electronic system</u> 
 
