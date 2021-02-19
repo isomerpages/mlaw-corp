@@ -51,7 +51,7 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 
 <tr>
 <th> </th>
-<th>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs)) which should be enclosed to the Notice of Negotiation.</th>
+<th>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</th>
 </tr>
 </table>
 
