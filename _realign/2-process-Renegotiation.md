@@ -224,6 +224,7 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
   <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
   <li>Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. </li>
   </ul>
+  </td>
 </tr>
 </table>
 
