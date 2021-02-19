@@ -41,7 +41,7 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
 <style>
-.highlight table { background-color: #add8e6 ;font-size: 24px; }
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
 <table class="highlight">
@@ -143,7 +143,7 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 * Any assignee of any party to the contract.
 
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
   <td>The following documents <b>should be attached</b> to the Notice of Objection:
@@ -174,7 +174,7 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
 * Any assignee of any party to the contract.
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
 <td>
@@ -216,7 +216,7 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 
-<table>
+<table class="highlight">
 <tr>
 <td> </td>
 <td>The Notice for Adjustment should be accompanied by the following documents:
