@@ -36,20 +36,23 @@ At this point in time, we are not seeking views on the policy positions set out 
 
 **Structure of public consultation**
 
-This public consultation will take place in two Parts. The first Part will focus on the draft Bill, while the second Part will be released on 22 February and will seek views on the framework for regulating CMOs. The consultation for both Parts will end together on 1 April 2021.
+This public consultation will take place in two Parts. The first Part was released on 5 February and focuses on the draft Bill. The second Part was released on 22 February and focuses on the framework for regulating CMOs. The consultation for both Parts will end together on 1 April 2021.
 
 **Providing feedback**
 
 MinLaw and IPOS invite members of the public, particularly legal practitioners, academics, and affected stakeholders, to provide their feedback from 5 February 2021 to 1 April 2021.
 
-- [Read the paper on the Public Consultation on the Proposed Copyright Bill](/files/news/public-consultations/2021/copyrightbill/Copyright_Consultation2021.pdf) [PDF]
-- [View the draft Bill](/files/news/public-consultations/2021/copyrightbill/Annex_B-CopyrightBill.pdf) [PDF]
+- [Read the Part 1 Consultation Paper on the draft Bill](/files/news/public-consultations/2021/copyrightbill/Copyright_Consultation2021.pdf) [PDF]
+- [View Part 1 of the draft Bill](/files/news/public-consultations/2021/copyrightbill/Annex_B-CopyrightBill.pdf) [PDF]
 - [Provide feedback via FormSG](https://go.gov.sg/copyright2021)
+- [Read the Part 2 Consultation Paper on the draft Bill](/files/news/public-consultations/2021/copyrightbill/Copyright_Consultation2021-Pt2.pdf) [PDF]
+- [View Part 2 of the draft Bill](/files/news/public-consultations/2021/copyrightbill/Annex-CopyrightBill-Pt2.pdf) [PDF]
+- [Provide feedback via FormSG](https://go.gov.sg/copyright2021-part2)
 
-Feedback may be provided in writing either online via FormSG (link above) or following the instructions in Section 4 of the paper on the Public Consultation on the Proposed Copyright Bill.
+Feedback may be provided in writing either online via FormSG (link above) or following the instructions in Section 4 of the Part 1 Consultation Paper, or Section 3 of the Part 2 Consultation Paper.
 
 **Confidentiality of feedback received**
 
 MinLaw and IPOS reserve the right to make public all or part of any written submission. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked.
 
-<p class="right-side-updated">Last updated on 5 Feb 2021</p> 
+<p class="right-side-updated">Last updated on 22 Feb 2021</p> 
