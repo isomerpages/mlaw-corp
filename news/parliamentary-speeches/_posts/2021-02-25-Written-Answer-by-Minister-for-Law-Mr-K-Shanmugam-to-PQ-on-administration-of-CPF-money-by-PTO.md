@@ -20,9 +20,7 @@ To ask the Minister for Law (a) what is the current process to assist (i) less t
 2. The Public Trustee has to impose a fee to cover the cost of administering the un-nominated CPF monies, which includes tracing the deceased’s next-of-kin, identifying all eligible beneficiaries and establishing the familial relationship between the beneficiaries and deceased. The fee is deducted from the un-nominated CPF monies. The Public Trustee can waive the fee in part or full, taking into consideration supporting documents that evidence the applicant’s financial circumstances, and has done so for deserving cases.
   
 {:start="3"}
-3. To allow their CPF monies to be distributed to preferred beneficiaries faster and without incurring fees, we strongly encourage all members to make their CPF nominations and update it as their life circumstances change. They can do so via the <a href="https://cpf.gov.sg/MakeCPFNom" target="new">CPF Board’s online nomination service</a>or visit the CPF Service Centres, where the Customer Service Executives can help in the nomination process and act as their witnesses.
+3. To allow their CPF monies to be distributed to preferred beneficiaries faster and without incurring fees, we strongly encourage all members to make their CPF nominations and update it as their life circumstances change. They can do so via the <a href="https://cpf.gov.sg/MakeCPFNom" target="new">CPF Board’s online nomination service</a> or visit the CPF Service Centres, where the Customer Service Executives can help in the nomination process and act as their witnesses.
 
-
-<p><sup id="fn1">1. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 25 Feb 2021</p>
