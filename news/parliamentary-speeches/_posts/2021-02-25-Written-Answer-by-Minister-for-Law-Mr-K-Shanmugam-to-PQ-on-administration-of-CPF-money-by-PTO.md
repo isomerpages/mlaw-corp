@@ -1,7 +1,7 @@
 ---
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Administration of CPF Money by the Public Trustee Office
+title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Administration of CPF Money by Public Trustee Office
 date: 2021-02-25
-permalink: /news/parliamentary-speeches/2021-02-25-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-administration-of-CPF-money-by-PTO.md
+permalink: /news/parliamentary-speeches/2021-02-25-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-CPF-Money-Administered-by-PTO
 ---
 
 25 Feb 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
