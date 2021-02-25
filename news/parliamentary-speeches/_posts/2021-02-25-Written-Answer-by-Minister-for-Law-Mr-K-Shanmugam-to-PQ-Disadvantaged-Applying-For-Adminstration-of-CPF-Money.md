@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Process to Assist Disadvantaged Persons in Applying for Administration of CPF Money After Demise of Family Member
 date: 2021-02-25
-permalink: /news/parliamentary-speeches/2021-02-25-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-CPF-Money-Administered-by-PTO
+permalink: /news/parliamentary-speeches/2021-02-25-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-Disadvantaged-Applying-For-Adminstration-of-CPF-Money
 ---
 
 25 Feb 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
