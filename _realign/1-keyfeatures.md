@@ -84,7 +84,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <u>How to apply</u>
 
-If you think you are eligible, please serve the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Negotiation, you should prepare the supporting documents (set out [here](https://go.gov.sg/re-align-eligibility-supportingdocs) ) which must be enclosed to the Notice of Negotiation.
+To obtain relief under the Framework, you must have served the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. If you did not serve the Notice of Negotiation by 26 February 2021, you will not be eligible for relief.
 
 If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
 
@@ -151,7 +151,7 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
   
 <u>How to apply</u>
 
-If you think you are an eligible hirer or renter, please serve the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. Before serving the Notice of Revision, you should prepare the supporting documents (set out [here](http://www.go.gov.sg/re-align-eligibility-supportingdocs)) which must be enclosed to the Notice of Revision. 
+To obtain relief under the Framework, you must have served the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. If you did not serve the Notice of Revision by 26 February 2021, you will not be eligible for relief.
 
 For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
 
@@ -324,4 +324,5 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
     5. Repricing Process for Contracts Affecting Essential Services or National Interest <br>[English](/files/ReAlign/2020-COVID-INFO5_Repricing.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO5-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO5-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO5-Tamil.pdf)<br>
     6. Guide to Serving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO6-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO6-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO6-Tamil.pdf) <br>
     7. Guide to Receiving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO7-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO7-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO7-Tamil.pdf)
+
 
