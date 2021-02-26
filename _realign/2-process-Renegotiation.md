@@ -11,8 +11,6 @@ breadcrumb: 2. Process for Renegotiation of Contract Terms and Termination of Co
 
 **Please note that all information or documents disclosed by you or the other person for the purpose of the Framework or the proceedings before the Adjustment Relief Assessors (“Assessors”) are confidential and must not be disclosed to any third parties**.
 
-**Please also note that the last day for serving the Notice of Negotiation was 26 February 2021. If you did not serve the Notice of Negotiation by 26 February 2021, you are not eligible for relief under the Framework.**
-
 **This page includes the following sections**:
 
 <a href="#step1" id="s1">Step 1: Affected Business serves Notice of Negotiation</a>  
@@ -53,14 +51,36 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </tr>
 </table>
 
-The Notice of Negotiation must have been served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
+The Notice of Negotiation must be served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
 * The Affected Business’s guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’s obligations under the contract.
 * Any assignee of any party to the contract.  
   
-**Please note that the last day for serving the Notice of Negotiation was 26 February 2021. If you did not serve the Notice of Negotiation by 26 February 2021, you are not eligible for relief under the Framework.**
+<u>Service by the electronic system</u>
 
-**After the Notice of Negotiation is served, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
+To serve the Notice of Negotiation using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
+*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-corppass) (CorpPass).
+*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-negotiation-singpass) (SingPass). 
+
+***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
+
+**After you serve the Notice of Negotiation, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
+
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+
+<u>Service by other modes if you are unable to use the electronic system</u>
+
+**<u>Only if</u>** you are unable to serve the Notice of Negotiation using the electronic system, please 
+
+1. Download the physical copy of the Notice of Negotiation
+* If you are acting on behalf of an entity to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-entity). 
+* If you are an individual who is a party to the contract, please download this [form](https://go.gov.sg/re-align-physicalform1-individual).
+
+2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
+
+<u>Changes to Notice of Negotiation</u>
+
+Please ensure that the contents of the Notice of Negotiation are correct. You will not be able to change the contents of the Notice of Negotiation once it is served. If you made an error in the Notice of Negotiation that you served on the Recipient(s), you will need to withdraw it by serving a [Notice of Withdrawal](#step7a) and then serve a new Notice of Negotiation (which must be done by 26 February 2021).
 
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Affected Business serves a Notice of Negotiation, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Affected Business for his failure to perform any contractual obligation due to be performed from the day the Notice of Negotiation is served. 
@@ -297,9 +317,9 @@ Please note if you have filed and/or served more than one Notice of Negotiation,
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
-**1.	What happens if I did not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021?**
+**1.	What happens if I do not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021?**
 
-**The timeline for service was a hard deadline.** If you did not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
+**The timeline for service is a hard deadline.** If you do not serve the Notice of Negotiation with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
 
 **2. Why should I attach the supporting documents? These take a lot of time to prepare.**
 
@@ -328,15 +348,19 @@ Once a Notice of Objection is lodged with the Registrar, an Assessor will be app
 
 Parties are encouraged to use the **[4-week Negotiation Period](#step2)** to reach an amicable outcome.
 
-**6.	What is the consequence of breaching the moratorium?**
+**6.	I am an Affected Business. If I had previously withdrawn my Notice of Negotiation, can I reissue another Notice of Negotiation for the same contract?**
+
+Yes, you may reissue another Notice of Negotiation for the same contract, provided the second Notice of Negotiation is served in accordance with Section 45 of the Act. The second Notice of Negotiation must be served by 26 February 2021.
+
+**7.	What is the consequence of breaching the moratorium?**
 
 Any person who, without reasonable excuse, breaches the moratorium shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-**7.	I am subject to Court actions against me for issues related to my Notice of Negotiation. What should I do?**
+**8.	I am subject to Court actions against me for issues related to my Notice of Negotiation. What should I do?**
 
 Please refer to [(7) Pending Court or Arbitration Proceedings](/realign/pending-court-arbitration) for more information. 
 
-**8.	How do I renegotiate my contract during the 4-week negotiation period?**
+**9.	How do I renegotiate my contract during the 4-week negotiation period?**
 
 You can approach the Other Party to the contract to discuss the terms of your contract, including:
 
@@ -361,7 +385,7 @@ You can approach the Other Party to the contract to discuss the terms of your co
 (iii)	lowering the minimum amount of goods/services required to be supplied or purchased per month; and/or
 (iv)	waiving or lowering of delivery costs and other applicable fees.
 
-**9.	The Other Party to the contract is unreasonable. Can the Government intervene and help me with my negotiations with the Other Party?**
+**10.	The Other Party to the contract is unreasonable. Can the Government intervene and help me with my negotiations with the Other Party?**
 
 The Government is unable to negotiate the contract on your behalf.
 
@@ -373,7 +397,7 @@ For more information on mediation and how it may help you, please refer to the l
 
 (b)	Mediation at the [Singapore Mediation Centre](https://www.mediation.com.sg).
 
-**10. I am an Affected Business. The Other Party and I are agreeable to engage a mediator during the 4-week negotiation period to assist with our negotiations. What is the process and is there any cost involved?**
+**11. I am an Affected Business. The Other Party and I are agreeable to engage a mediator during the 4-week negotiation period to assist with our negotiations. What is the process and is there any cost involved?**
 
 Parties may wish to consider referring their matter to the Singapore Mediation Centre (“SMC”) or the Law Society Mediation Scheme (“LSMS”) to engage an independent mediator to assist parties with mediation for purposes of the 4-week negotiation period. 
 
@@ -398,3 +422,4 @@ If parties wish to refer their matter for mediation at LSMS, parties should subm
 LSMS has also kindly extended discounted fee rates for parties who wish to mediate under the Re-Align Framework. More information on the discounted fee rates may be found [here](/files/ReAlign/LSMS-fee.pdf).
   
 **Please also note that any request to Singapore Mediation Centre or to the Law Society Mediation Scheme should be made <u>before the end of the 2nd week of the 4-week negotiation period</u>**. This is to allow SMC or LSMS sufficient time to appoint a mediator to assist in the parties’ negotiations.
+
