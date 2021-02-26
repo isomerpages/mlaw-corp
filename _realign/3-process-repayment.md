@@ -12,8 +12,6 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 
 **Please note that all information or documents disclosed by you or the other person for the purpose of the Framework or the proceedings before the Adjustment Relief Assessor are confidential and must not be disclosed to any third parties**. 
 
-**Please also note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.**
-
 **This page includes the following sections**:
 
 <a href="#step1" id="s1">Step 1: Hirer/Renter serves Notice of Revision</a>  
@@ -57,15 +55,33 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 
 
 
-The Notice of Revision must have been served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
+The Notice of Revision must be served within 6 weeks from 15 January 2021 (i.e. by 26 February 2021), on the following Recipient(s), where applicable:
 * The Hirer/Renter’s financing company or leasing company, as the case may be (“the Other Party”).
 * The guarantor or surety, or the issuer of a performance bond, in relation to the Hirer/Renter’s obligations under the contract. 
 * Any assignee of any party to the contract. 
 
-**Please note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.**
+<u>Service by the electronic system</u>
 
+To serve the **Notice of Revision** using the electronic system, you must have an email address as well as the email address(es)* of the Recipient(s):
 
-**After the Notice of Revision is served, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-corppass) (CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-revision-singpass) (SingPass). 
+
+***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
+
+**After you serve the Notice of Revision, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
+
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+
+<u>Service by other modes if you are unable to use the electronic system</u>
+
+Only if you are unable to serve the Notice of Revision using the electronic system, 
+<br>
+1. Download the physical copy of the Notice of Revision [here](https://go.gov.sg/re-align-physicalform8).
+<br>
+2. Complete and serve the completed form (together with supporting documents) on the Recipient(s) using [other modes of service](https://www.mlaw.gov.sg/realign/other-modes-service). **Make sure that you keep a copy or original of the completed form for your own records**.
+<br>
+
 
 ##### Moratorium #####
 To facilitate negotiations and to avoid parallel proceedings on the same matter, once a Hirer/Renter serves a Notice of Revision, the Other Party will be prohibited from taking legal and enforcement actions (e.g. court and arbitration proceedings, or termination of the contract) against the Hirer/Renter for his non-payment of the amounts that must be covered by the [Repayment Scheme](/realign/key-features#5repayment) or any interest or other charge (however described) on that amount.
@@ -102,7 +118,7 @@ The Other Party or his assignee may <u>only</u> object to the Hirer/Renter’s N
 
 * The contract in question is not a hire-purchase or conditional sales agreement or a lease of commercial equipment. 
 * The Hirer/Renter does not satisfy the eligibility criteria for relief.
-* The Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice was not served by 26 February 2021)
+* The Notice of Revision was not served in accordance with Section 53 of the Act. (e.g. the Notice is not served by 26 February 2021)
 * The Hirer/Renter’s proposed repayment schedule does not meet the requirements in Section 53(4)(a)-(d) of the Act. (e.g. The amounts covered by the proposed repayment schedule includes amounts payable before 1 February 2020 or after the date of the Notice of Revision).
 
 To object to the Notice of Revision, the Other Party must lodge the Notice of Objection with the Registrar and serve the Notice of Objection on the following persons **within the 2-week Objection Period** on the following Recipient(s), where applicable:
@@ -196,9 +212,9 @@ To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
-**1.	What happens if I did not serve the Notice of Revision with the relevant supporting documents on the relevant parties by 26 February 2021?**
+**1.	What happens if I do not serve the Notice of Revision with the relevant supporting documents on the relevant parties by 26 February 2021?**
 
-**The timeline for service was a hard deadline**. If you did not serve the Notice of Revision with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
+**The timeline for service is a hard deadline**. If you do not serve the Notice of Revision with the relevant supporting documents on the relevant parties by 26 February 2021, you will not be able to obtain relief under the Framework.
 
 **2.	 What should I include in my Notice of Revision?**
 
@@ -276,3 +292,4 @@ For more information on mediation and how it may help you, please refer to the l
 (a)	[Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/);
 
 (b)	[Mediation at the Singapore Mediation Centre](https://www.mediation.com.sg).
+
