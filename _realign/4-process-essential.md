@@ -154,12 +154,14 @@ Where an Affected Business who has lodged and served a Notice for Repricing wish
 
 The Notice of Withdrawal must be lodged and served before the Assessor(s) makes a determination concerning the repricing of the contract. 
 
-<u>Submission and service by the electronic system</u>
+<table class="highlight">
+<tr>
+<td> </td>
+  <td><b><u>Submission and service by the electronic system</u></b><br>To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a>(CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a>(SingPass).</li></ul> 
 
-To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
-
-*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
-*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass). 
+ </td>
+ </tr>
+</table>
 
 #### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ####
 
