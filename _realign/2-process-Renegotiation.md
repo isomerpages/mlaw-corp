@@ -212,8 +212,8 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 <u>Submission and service by the electronic system</u> 
 
 To submit to the Registrar and serve the **Notice for Adjustment** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-corppass)*(CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-singpass)* (SingPass).
+* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-corppass)(CorpPass).
+* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-singpass)(SingPass).
 
 
 #### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice for Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
