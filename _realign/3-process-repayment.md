@@ -191,7 +191,7 @@ Where any party who has lodged and served a Notice of Objection wishes to withdr
  <tr>
 <td> </td>
  <td>
-<u>Submission and service by the electronic system</u> <br>
+<u>Submission and service by the electronic system</u> <br><br>
 To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es)* of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a>(CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a>(SingPass).</li></ul>
 </td>
  </tr> 
