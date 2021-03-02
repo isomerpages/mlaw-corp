@@ -98,7 +98,7 @@ In contrast, where parties are unsuccessful in their renegotiation by the end of
 <table class="highlight">
 <tr>
 <td> </td>
-  <td><u><b>Submission and service by the electronic system</u></b><br><br>
+  <td><b><u>Submission and service by the electronic system</u></b><br><br>
 To submit to the Registrar and serve the Notice for Repricing on the Recipient(s) using the electronic system (if you have an email address, and have the email address(es) of the Recipient(s)):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-repricing-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-repricing-singpass">link</a> (SingPass). </li></ul>
 </td>
  </tr>
