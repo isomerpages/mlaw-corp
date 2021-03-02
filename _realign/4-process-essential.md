@@ -95,12 +95,14 @@ In contrast, where parties are unsuccessful in their renegotiation by the end of
 
 **Note: If the renegotiation is unsuccessful and the Affected Business does not lodge a Notice for Repricing within the 2-week Repricing Period, the Affected Business will not be entitled to the relief of repricing. The original contract terms (including price) will apply.** 
 
-**<u>Submission and service by the electronic system</u>**
-
-To submit to the Registrar and serve the Notice for Repricing on the Recipient(s) using the electronic system (if you have an email address, and have the email address(es) of the Recipient(s)):
-
-*	If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-for-repricing-corppass) (CorpPass).
-*	If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-for-repricing-singpass) (SingPass). 
+<table class="highlight">
+<tr>
+<td> </td>
+  <td><u><b>Submission and service by the electronic system</u></b><br><br>
+To submit to the Registrar and serve the Notice for Repricing on the Recipient(s) using the electronic system (if you have an email address, and have the email address(es) of the Recipient(s)):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-repricing-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-repricing-singpass">link</a> (SingPass). </li></ul>
+</td>
+ </tr>
+</table>
 
 #### <a name="step4">Step 4: Case proceeds to an Assessor</a> <a href="#s4" title="Return to top">↩</a> ####
 
