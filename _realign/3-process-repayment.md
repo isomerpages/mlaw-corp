@@ -118,14 +118,15 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
  <td>The following documents <b>should be attached</b> to the Notice of Objection:<ul><li>A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.</li><li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li><li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal.</li></ul>
  </td>
 </tr>
+
+<tr>
+<td> </td>
+ <td>
+<u>Submission and service by the electronic system</u><br><br> 
+To submit to the Registrar and serve the <b>Notice of Objection</b> on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-revision-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-revision-singpass">link</a> (SingPass).</li></ul>
+</td>
+ </tr>
 </table>
-
-<u>Submission and service by the electronic system</u> 
-
-To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
-
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-revision-corppass) (CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-revision-singpass) (SingPass). 
 
 ##### <a name="step3b">(B): Other Party does not object to Hirer/Renter’s Notice of Revision</a> <a href="#s3b" title="Return to top">↩</a> #####
 If no Notice of Objection is served and lodged during the **2-week Objection Period**, the Hirer/Renter’s revised repayment schedule in the Notice of Revision will form part of the contract from the date of the Notice of Revision and will prevail over any term of the contract which is inconsistent with the revised repayment schedule. 
@@ -185,12 +186,16 @@ Where any party who has lodged and served a Notice of Objection wishes to withdr
 * Any other parties to the contract; and
 * Any assignee to any party to the contract.
 
-<u>Submission and service by the electronic system</u> 
 
-To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es)* of the Recipient(s):
-
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass). 
+<table class="highlight">
+ <tr>
+<td> </td>
+ <td>
+<u>Submission and service by the electronic system</u> <br><br>
+To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es)* of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a>(CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a>(SingPass).</li></ul>
+</td>
+ </tr> 
+</table>
 
 ***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
