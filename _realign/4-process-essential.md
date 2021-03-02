@@ -159,8 +159,7 @@ The Notice of Withdrawal must be lodged and served before the Assessor(s) makes 
 <table class="highlight">
 <tr>
 <td> </td>
-  <td><b><u>Submission and service by the electronic system</u></b><br>To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a>(CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a>(SingPass).</li></ul> 
-
+  <td><b><u>Submission and service by the electronic system </u></b><br><br>To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a>(CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a>(SingPass).</li></ul> 
  </td>
  </tr>
 </table>
