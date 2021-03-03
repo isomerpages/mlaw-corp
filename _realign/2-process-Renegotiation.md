@@ -211,16 +211,13 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
   </ul>
   </td>
 </tr>
+<tr>
+<td> </td>
+ <td>
+<u>Submission and service by the electronic system</u> <br><br> To submit to the Registrar and serve the <b>Notice for Adjustment</b> on the Recipient(s) using the electronic system, you <b><u>must have</u></b> an email address, as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-adjustment-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-adjustment-singpass">link</a> (SingPass).</li></ul>
+</td>
+ </tr>
 </table>
-
-
-<u>Submission and service by the electronic system</u> 
-
-To submit to the Registrar and serve the **Notice for Adjustment** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-corppass)(CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-for-adjustment-singpass)(SingPass).
-
-
 #### <a name="step5">Step 5: Registrar reviews Notice of Objection / Notice for Compensation / Notice for Adjustment</a> <a href="#s5" title="Return to top">↩</a> ####
 
 The Registrar will review the Notice of Objection / Notice for Compensation / Notice for Adjustment. 
@@ -288,12 +285,17 @@ Where any party who has lodged and served Notice of Negotiation, Notice of Objec
 | Notice for Adjustment <br>(s 48(4)) | - All the other parties to the contract; and <br>- Any assignee to any party to the contract. 
 | Notice for Compensation <br>(s 52) | - The party who served the Notice of Negotiation on you; <br>- All the other parties to the contract; and <br>- Any assignee to any party to the contract.
 
-<u>Submission and service by the electronic system</u> 
 
-To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
-
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-corppass) (CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-withdrawal-singpass) (SingPass).
+<table class="highlight">
+<tr>
+<td> </td>
+  
+ <td><u>Submission and service by the electronic system</u><br><br> 
+To submit to the Registrar and serve the Notice of Withdrawal on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-withdrawal-singpass">link</a> (SingPass).</li></ul>
+  </td>
+ </tr>
+</table>
+  
 
 ***Email address** is (i) an email address at which you have corresponded with the Recipient regarding the contract; or (ii) if (i) is not available, an email address which the Recipient has represented to you as the address to which communications may be sent.
 
