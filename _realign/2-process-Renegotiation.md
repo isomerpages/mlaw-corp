@@ -173,7 +173,7 @@ Before serving the Notice for Compensation, the landlord should prepare the supp
 <table class="highlight">
 <tr>
 <td> </td>
-<td
+<td>
 <u>Submission and service by the electronic system</u><br><br> To submit to the Registrar and serve the Notice for Compensation on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-corppass">link</a>* (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-singpass">link</a> (SingPass). </li></ul>
 
 </td>
