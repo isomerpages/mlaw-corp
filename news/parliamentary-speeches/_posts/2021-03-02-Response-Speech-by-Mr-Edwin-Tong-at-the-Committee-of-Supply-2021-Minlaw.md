@@ -871,4 +871,7 @@ a.	And I look forward to the year ahead, optimistic that with shared resolve we 
 {:start="108"}
 108. Thank you, Sir.
 
+[Factsheet: Overview of MinLaw's Key Initiatives for 2021 (124KB)](/files/OverviewofMinLawKeyInitiatives2021.pdf)<br>
+[Factsheet: Measures to help businesses and individuals cope with COVID-19 (117KB)](/files/MeasurestoHelpBusinessesandIndividualsCopewCOVID-19.pdf)<br>
+
 <p class="right-side-updated">Last updated on 02 Mar 2021</p> 
