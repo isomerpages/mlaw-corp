@@ -170,11 +170,15 @@ Before serving the Notice for Compensation, the landlord should prepare the supp
 * Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. A Notice for Compensation may be lodged and served even if a Notice of Objection is not lodged and served.
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
-<u>Submission and service by the electronic system</u> 
+<table class="highlight">
+<tr>
+<td> </td>
+<td
+<u>Submission and service by the electronic system</u><br><br> To submit to the Registrar and serve the Notice for Compensation on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-corppass">link</a>* (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-singpass">link</a> (SingPass). </li></ul>
 
-To submit to the Registrar and serve the Notice for Compensation on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-corppass)* (CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-singpass)* (SingPass). 
+</td>
+ </tr>
+</table>
 
 ***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
