@@ -133,14 +133,15 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
   </ul>
   </td>
 </tr>
+
+
+<tr>
+<td> </td>
+ <td>
+<u>Submission and service by the electronic system</u><br><br> To submit to the Registrar and serve the <b>Notice of Objection</b> on the Recipient(s) using the electronic system, you <b><u>must have</u></b> an email address, as well as the email address(es)* of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-corppass)* (CorpPass).</li><li></li></ul>If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-singpass)* (SingPass). </li></ul>
+</td>
+ </tr>
 </table>
-
-
-<u>Submission and service by the electronic system</u> 
-
-To submit to the Registrar and serve the **Notice of Objection** on the Recipient(s) using the electronic system, you **<u>must have</u>** an email address, as well as the email address(es)* of the Recipient(s):
-* If you are acting on behalf of an entity that is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-corppass)* (CorpPass).
-* If you are an individual who is a party to the contract, please use this [link](https://go.gov.sg/notice-of-objection-compensation-singpass)* (SingPass). 
 
 ***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
