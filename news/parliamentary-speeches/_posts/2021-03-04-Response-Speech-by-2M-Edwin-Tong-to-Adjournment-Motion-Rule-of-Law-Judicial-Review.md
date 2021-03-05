@@ -12,21 +12,21 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 
 2\. His speech raises questions about:
 
-  a\. The relationship between Parliament, the Judiciary and the Executive.
+    a. The relationship between Parliament, the Judiciary and the Executive.
     
-  b\. And the respective spheres that they inhabit.
+    b. And the respective spheres that they inhabit.
 
 3\. These are important issues. They require a fuller discussion, beyond the time permitted today under the Standing Orders. We will set out our position more substantively, on a future occasion. 
 
 4\. Sir, as a Government, we have always been clear on our priorities and our focus:
 
-  a. First, to have strong and effective governance, to get things done. 
+   a. First, to have strong and effective governance, to get things done. 
   
-  b. Second, uplifting people’s lives.
+   b. Second, uplifting people’s lives.
   
-  c. Third, maintaining the security of the state.
+   c. Third, maintaining the security of the state.
   
-  d. And finally, ensuring the safety of our people. 
+   d. And finally, ensuring the safety of our people. 
 
 5\. With your permission, Mr Speaker, may I ask the Clerks to distribute a handout on Singapore’s social and economic indicators?  [Annex A](/files/news/parliamentary-speeches/2021/AnnexA_Social_and_Economic_Indicators.pdf)
 
