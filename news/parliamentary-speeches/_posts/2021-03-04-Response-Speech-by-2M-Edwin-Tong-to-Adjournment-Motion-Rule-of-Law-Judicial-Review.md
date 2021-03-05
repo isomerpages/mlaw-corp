@@ -4,21 +4,25 @@ date: 2021-03-04
 permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjournment-Motion-Rule-of-Law-Judicial-Review
 ---
 
-**I\. Introduction**
+**I. Introduction**
 
-1\. Sir, Mr Pillai has spoken about ouster clauses and asked if these could be reviewed.
+{:start="1"}
+1. Sir, Mr Pillai has spoken about ouster clauses and asked if these could be reviewed.
 
-**II\. Our Political System**
+**II. Our Political System**
 
-2\. His speech raises questions about:
+{:start="2"}
+2. His speech raises questions about:
 
     a. The relationship between Parliament, the Judiciary and the Executive.
     
     b. And the respective spheres that they inhabit.
 
-3\. These are important issues. They require a fuller discussion, beyond the time permitted today under the Standing Orders. We will set out our position more substantively, on a future occasion. 
+{:start="3"}
+3. These are important issues. They require a fuller discussion, beyond the time permitted today under the Standing Orders. We will set out our position more substantively, on a future occasion. 
 
-4\. Sir, as a Government, we have always been clear on our priorities and our focus:
+{:start="4"}
+4. Sir, as a Government, we have always been clear on our priorities and our focus:
 
    a. First, to have strong and effective governance, to get things done. 
   
@@ -28,19 +32,24 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
   
    d. And finally, ensuring the safety of our people. 
 
-5\. With your permission, Mr Speaker, may I ask the Clerks to distribute a handout on Singapore’s social and economic indicators?  [Annex A](/files/news/parliamentary-speeches/2021/AnnexA_Social_and_Economic_Indicators.pdf)
+{:start="5"}
+5. With your permission, Mr Speaker, may I ask the Clerks to distribute a handout on Singapore’s social and economic indicators?  [Annex A](/files/news/parliamentary-speeches/2021/AnnexA_Social_and_Economic_Indicators.pdf)
 
-6\. These indicators show that we have succeeded in achieving our priorities, and more.
+{:start="6"}
+6. These indicators show that we have succeeded in achieving our priorities, and more.
 
-7\. How do these priorities find expression in the system of government and political structure that we have?
+{:start="7"}
+7. How do these priorities find expression in the system of government and political structure that we have?
 
-8\. Like many others, our system is based on the separation of powers:
+{:start="8"}
+8. Like many others, our system is based on the separation of powers:
 
-   a. Three branches of government, 
+  a. Three branches of government, 
   
-   b. Each with its own sphere of power and responsibility.
+  b. Each with its own sphere of power and responsibility.
 
-9\. Our Constitutional framework defines the responsibilities of each branch of government.
+{:start="9"}
+9. Our Constitutional framework defines the responsibilities of each branch of government.
 
  a. Parliament, which <u>passes</u> laws to promote these objectives. Through its power to amend the Constitution, Parliament also decides on the overarching framework for our system. 
     
@@ -48,7 +57,7 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
     
  c. The Judiciary, which <u>applies</u> the laws faithfully, when disputes are brought before the Courts.
    
-**III\. Rationale for Political System***
+**III. Rationale for Political System***
 
 10\. In some other systems, the focus has been to tightly circumscribe and police the Executive. This leads to gridlock and inaction. 
 
