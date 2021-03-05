@@ -20,13 +20,13 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 
 4\. Sir, as a Government, we have always been clear on our priorities and our focus:
 
- a. First, to have strong and effective governance, to get things done. 
-   
- b. Second, uplifting people’s lives.
-   
- c. Third, maintaining the security of the state.
-   
- d. And finally, ensuring the safety of our people. 
+  a. First, to have strong and effective governance, to get things done. 
+  
+  b. Second, uplifting people’s lives.
+  
+  c. Third, maintaining the security of the state.
+  
+  d. And finally, ensuring the safety of our people. 
 
 5\. With your permission, Mr Speaker, may I ask the Clerks to distribute a handout on Singapore’s social and economic indicators?  [Annex A](/files/news/parliamentary-speeches/2021/AnnexA_Social_and_Economic_Indicators.pdf)
 
@@ -36,9 +36,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 
 8\. Like many others, our system is based on the separation of powers:
 
- a. Three branches of government, 
-   
- b. Each with its own sphere of power and responsibility.
+   a. Three branches of government, 
+  
+   b. Each with its own sphere of power and responsibility.
 
 9\. Our Constitutional framework defines the responsibilities of each branch of government.
 
