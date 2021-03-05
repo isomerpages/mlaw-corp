@@ -12,9 +12,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 
 2\. His speech raises questions about:
 
- a. The relationship between Parliament, the Judiciary and the Executive.
+  a\. The relationship between Parliament, the Judiciary and the Executive.
     
- b. And the respective spheres that they inhabit.
+  b\. And the respective spheres that they inhabit.
 
 3\. These are important issues. They require a fuller discussion, beyond the time permitted today under the Standing Orders. We will set out our position more substantively, on a future occasion. 
 
