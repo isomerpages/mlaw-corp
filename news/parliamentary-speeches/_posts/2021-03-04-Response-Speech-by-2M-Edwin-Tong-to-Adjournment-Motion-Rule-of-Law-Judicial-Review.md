@@ -57,7 +57,7 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
     
    c. The Judiciary, which <u>applies</u> the laws faithfully, when disputes are brought before the Courts.
    
-**III. Rationale for Political System***
+**III. Rationale for Political System**
 
 {:start="10"}
 10. In some other systems, the focus has been to tightly circumscribe and police the Executive. This leads to gridlock and inaction. 
@@ -78,18 +78,18 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="14"}
 14. Our system must ensure that we can act quickly, move decisively: 
 
-   a. To navigate challenges
+    a. To navigate challenges
    
-   b. To seize opportunities
+    b. To seize opportunities
    
-   c. And avoid crises. But when crises cannot be avoided – to deal with them efficiently, and effectively. 
+    c. And avoid crises. But when crises cannot be avoided – to deal with them efficiently, and effectively. 
 
 {:start="15"}
 15. Parliament and the Executive handle this. 
 
-   a. And they must account for the success or failure of their policies through the democratic process. In other words, the Executive answers to Parliament, and Parliament answers to voters in elections.
+    a. And they must account for the success or failure of their policies through the democratic process. In other words, the Executive answers to Parliament, and Parliament answers to voters in elections.
    
-   b. Our system should empower them to take effective action, rather than to impair their ability to act through gridlock.
+    b. Our system should empower them to take effective action, rather than to impair their ability to act through gridlock.
 
 **IV. The Role of the Judiciary in Other Jurisdictions**
 
@@ -104,7 +104,7 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="18"}
 18. Sir, in India:
 
-   a. Some commentators have said: judicial activism has become judicial overreach into policy areas.
+    a. Some commentators have said: judicial activism has become judicial overreach into policy areas.
 
 {:start="19"}
 19. We have set out one example, in the handout. 
@@ -137,9 +137,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="27"}
 27. It is therefore no surprise that:
 
-   a. Civil servants in the UK are now given a detailed 104-page guide – aptly or perhaps sardonically - titled “Judge Over Your Shoulder”, “JOYS”, to help them assess legal risks.
+    a. Civil servants in the UK are now given a detailed 104-page guide – aptly or perhaps sardonically - titled “Judge Over Your Shoulder”, “JOYS”, to help them assess legal risks.
    
-   b. They have also had two rounds of law reform review on judicial review in the course of the last eight years.
+    b. They have also had two rounds of law reform review on judicial review in the course of the last eight years.
 
 {:start="28"}
 28. Lord Sumption himself notes that this state of affairs is a product of the political reality in the UK – judges have attempted to fill the gap left by politics, as the latter has lost its prestige.<sup><a href="#fn3" id="ref3">3</a></sup> He makes a similar observation of the United States, and what he refers to as “distortions” in their governance structure that have resulted from political gridlock.<sup><a href="#fn4" id="ref4">4</a></sup>
@@ -161,11 +161,11 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="33"}
 33. This judicial philosophy is best encapsulated in our Chief Justice’s remarks in a 2018 lecture:
 
-   “… in Singapore… we have found that executive power can best be checked when courts eschew politics and secure a relationship of trust and respect between the three branches by recognising and maintaining the legitimate space of each.
+    “… in Singapore… we have found that executive power can best be checked when courts eschew politics and secure a relationship of trust and respect between the three branches by recognising and maintaining the legitimate space of each.
    
-   … First, it means that Courts should not see themselves as antagonists whose role is to obstruct governmental action, but rather as equal partners with the other branches in the common project to promote efficient administration and good and proper governance, which the Judiciary contributes to by upholding the rule of law. Second, it means that the Judiciary should not be diffident about performing its constitutional role when called upon to invalidate unlawful action…
+    … First, it means that Courts should not see themselves as antagonists whose role is to obstruct governmental action, but rather as equal partners with the other branches in the common project to promote efficient administration and good and proper governance, which the Judiciary contributes to by upholding the rule of law. Second, it means that the Judiciary should not be diffident about performing its constitutional role when called upon to invalidate unlawful action…
    
-   The difference is between a paradigm of confrontation and containment informed by mutual distrust and self-preservation and one of partnership and cooperation within a framework of governance and legality.”
+    The difference is between a paradigm of confrontation and containment informed by mutual distrust and self-preservation and one of partnership and cooperation within a framework of governance and legality.”
  
 {:start="34"}
 34. The principles of administrative law in Singapore give expression to this overarching approach and is based on two fundamental principles flowing from the constitutional separation of powers.
@@ -185,11 +185,11 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="39"}
 39. It is the Executive which:
 
-   a. is vested with executive authority under the Constitution.
+    a. is vested with executive authority under the Constitution.
    
-   b. has an elected mandate, which is accountable to Parliament and at polls.
+    b. has an elected mandate, which is accountable to Parliament and at polls.
    
-   c. has the institutional competence and resources to make judgement calls between the competing considerations that often arise in policy decisions.
+    c. has the institutional competence and resources to make judgement calls between the competing considerations that often arise in policy decisions.
 
 {:start="40"}
 40. For this reason, the Courts have repeatedly emphasised that they do not substitute their judgment for that of the Executive, and are concerned with the decision-making process, and not its merits.
@@ -200,11 +200,11 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="42"}
 42. We agree with the approach that the Courts have taken. 
 
-   a. It avoids the quagmires often seen overseas, when judiciaries step into the spheres of other branches of government. 
+    a. It avoids the quagmires often seen overseas, when judiciaries step into the spheres of other branches of government. 
    
-   b. It leaves matters that are rightly determined by democratically elected bodies in the hands of these elected representatives. 
+    b. It leaves matters that are rightly determined by democratically elected bodies in the hands of these elected representatives. 
    
-   c. To paraphrase Mr Ruddock, politically controversial matters, which involve competing objectives and values, should be determined by Parliament.
+    c. To paraphrase Mr Ruddock, politically controversial matters, which involve competing objectives and values, should be determined by Parliament.
 
 **VI. Principled and Calibrated Approach to Ouster Clauses**
 
@@ -220,11 +220,11 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="46"}
 46. They are proposed only after careful consideration of:
 
-   a. The policy objective behind each of the proposed clauses; 
+    a. The policy objective behind each of the proposed clauses; 
    
-   b. Whether alternative legislative tools may be employed to achieve this; and
+    b. Whether alternative legislative tools may be employed to achieve this; and
    
-   c. Whether the clause may be calibrated to restrict only some of the bases for judicial review.
+    c. Whether the clause may be calibrated to restrict only some of the bases for judicial review.
 
 {:start="47"}
 47. Thereafter, they are subject to rigorous debate in this House, and passed into law with Parliament’s assent.
@@ -240,9 +240,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="50"}
 50. Such powers, as Mr Pillai has acknowledged, are necessary -
 
-   a. To allow for pre-emptive action, to safeguard national security.
+    a. To allow for pre-emptive action, to safeguard national security.
    
-   b. And because criminal prosecution may not be possible, for example, due to evidential difficulties of admissibility.
+    b. And because criminal prosecution may not be possible, for example, due to evidential difficulties of admissibility.
 
 {:start="51"}
 51. In these circumstances, Parliament, in accordance with its legislative power, vested the discretion to exercise powers of detention with the Executive. 
@@ -256,13 +256,13 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="54"}
 54. They require a careful balancing of sensitive and polycentric considerations such as:
 
-   a. Foreign relations;
+    a. Foreign relations;
    
-   b. Transborder crime;
+    b. Transborder crime;
    
-   c. Economic and manpower planning; and
+    c. Economic and manpower planning; and
    
-   d. Protection of businesses and families.
+    d. Protection of businesses and families.
 
 {:start="55"}
 55. Immigration and foreign manpower have serious implications for our society.  The experience of Australia, on immigration challenges in Court, as explained in the handout at B1 illustrates why we take the approach that we do.
@@ -273,9 +273,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="57"}
 57. It would not be appropriate to litigate such matters:
 
-   a. Because the Courts do not have the institutional capability to know of, to consider and to balance the many considerations and concerns involved.
+    a. Because the Courts do not have the institutional capability to know of, to consider and to balance the many considerations and concerns involved.
    
-   b. Resolution of policy judgements by the Courts also lack the democratic legitimacy of Parliament.
+    b. Resolution of policy judgements by the Courts also lack the democratic legitimacy of Parliament.
 
 {:start="58"}
 58. As the Chief Justice noted in the lecture I mentioned earlier, Courts are not especially well placed to answer such social, economic and policy questions. 
@@ -296,9 +296,9 @@ permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjo
 {:start="62"}
 62. Sir, to conclude, I would reiterate that of all three branches of Government, the Executive is best placed to make decisions and act quickly on policy matters.
 
-   a. It is accountable to Parliament.
+    a. It is accountable to Parliament.
    
-   b. And to the people of Singapore. 
+    b. And to the people of Singapore. 
 
 {:start="63"}
 63. We must continue to foster a system of governance which maintains a clear eye on outcomes – to improve our citizens’ lives.
