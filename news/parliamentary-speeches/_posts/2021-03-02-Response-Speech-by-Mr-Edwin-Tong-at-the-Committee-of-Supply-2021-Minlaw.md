@@ -473,7 +473,7 @@ b.	But at the same time, each crisis is different, and its impact on aspects of 
 
 c.	COVID-19 hit many businesses and sectors especially hard, particularly the travel and conference sectors. It may be different in other crises.  
 
-d.	The measuresthat have been put in place over the course of the last year, I should emphasise,  have been extraordinary, designed to meet an extraordinary crisis.
+d.	The measures that have been put in place over the course of the last year, I should emphasise,  have been extraordinary, designed to meet an extraordinary crisis.
 
 e.	And the next one may well differ in scope and scale. 
 
