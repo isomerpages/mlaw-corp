@@ -1,5 +1,5 @@
 ---
-title: 'Speech by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the 3rd Meeting of the Standing International Forum of Commercial Courts on 12 Mar 2021'
+title: 'Speech by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the 3rd Meeting of the Standing International Forum of Commercial Courts (SIFoCC) on 12 Mar 2021'
 date: 2021-03-17
 permalink: /news/speeches/2021-03-17-Speech-by-Second-Minister-Edwin-Tong-at-3rd-Meeting-of-SIFoCC
 ---
