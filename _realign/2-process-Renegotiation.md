@@ -245,7 +245,7 @@ Where the Other Party or his assignee has lodged a Notice of Objection and/or No
 
 After the determination(s) on the Affected Business' eligibility under the Notice of Objection made, if the Affected Business is determined to be eligible and the contract is terminated, the parties are encouraged to negotiate and agree on the adjustment of rights and obligations under the contract, taking into account the default terms of termination under the Framework (in Part 4 of the Second Schedule). Please refer to [here](../files/ReAlign/2020-COVID-INFO3.jpg) for more information.  
 
-If an agreement is not reached and either party wishes to seek an Assessor’s determination on the adjustment of rights and obligations, that party must inform the Registrar (copying the other party)  **<u>within 7 days</u>** from the date of the determination(s) that he wishes to seek an Assessor’s determination on the matter . 
+If an agreement is not reached and either party wishes to seek an Assessor’s determination on the adjustment of rights and obligations, that party must inform the Registrar (copying the other party)  **<u>within 14 days</u>** from the date of the determination(s) that he wishes to seek an Assessor’s determination on the matter . 
 
 The Registrar will proceed to appoint one or more Assessors to make a determination on the adjustment of rights and obligations of the parties and their assignees upon the termination of the contract. 
 
