@@ -7,7 +7,7 @@ permalink: /news/press-releases/2021-02-05-MinLaw-IPOS-Seek-Feedback-on-Draft-Co
 
 5 Feb 2021 Posted in [Press releases](/news/press-releases)
 
-<b><u>Update:</b></u> <i>The consultation period for the Public Consultation on the Proposed Copyright Bill has been extended by one week. It will now close on 8 April 2021 instead.</i>
+<b><u>Update:</u></b> <i>The consultation period for the Public Consultation on the Proposed Copyright Bill has been extended by one week. It will now close on 8 April 2021 instead.</i>
 
 {:start="1"}
 1. The Ministry of Law (MinLaw) and the Intellectual Property Office of Singapore (IPOS) today launched a public consultation that will run for two months, ending on 1 April 2021, to seek feedback on the draft Copyright Bill. 
