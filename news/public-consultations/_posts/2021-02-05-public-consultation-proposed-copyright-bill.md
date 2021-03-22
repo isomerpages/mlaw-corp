@@ -9,7 +9,7 @@ permalink: /news/Public-Consultation-on-Proposed-Copyright-Bill
 ---
 
 **Consultation Period:**  
-5 February 2021 to 1 April 2021
+5 February 2021 to 8 April 2021
 
 MinLaw and IPOS are seeking views on the draft of a proposed Copyright Bill ("draft Bill") to be introduced. The draft Bill will replace the current Copyright Act (Cap. 60, Rev. Ed. 2006).
 
@@ -42,6 +42,8 @@ This public consultation will take place in two Parts. The first Part was releas
 
 MinLaw and IPOS invite members of the public, particularly legal practitioners, academics, and affected stakeholders, to provide their feedback from 5 February 2021 to 1 April 2021.
 
+Following feedback from the public, the consultation exercise will be extended by one week. It will now close on **8 April 2021** instead. We invite all interested parties to provide responses by then.
+
 - [Read the Part 1 Consultation Paper on the draft Bill](/files/news/public-consultations/2021/copyrightbill/Copyright_Consultation2021.pdf) [PDF]
 - [View Part 1 of the draft Bill](/files/news/public-consultations/2021/copyrightbill/Annex_B-CopyrightBill.pdf) [PDF]
 - [Provide feedback via FormSG](https://go.gov.sg/copyright2021)
@@ -55,4 +57,4 @@ Feedback may be provided in writing either online via FormSG (link above) or fol
 
 MinLaw and IPOS reserve the right to make public all or part of any written submission. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked.
 
-<p class="right-side-updated">Last updated on 22 Feb 2021</p> 
+<p class="right-side-updated">Last updated on 22 Mar 2021</p> 
