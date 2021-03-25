@@ -49,8 +49,8 @@ links:
             - title: Exemptions
               url: 'https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx'
               external: true
-            - title: 'Application For Community Mediation'
-              url: 'https://cmc.mlaw.gov.sg/e-services/log-into-mediators-portal/'
+            - title: 'Community Mediation Centre'
+              url: 'https://cmc.mlaw.gov.sg/e-services/apply-online/'
               external: true
             - title: 'Legal Aid Bureau'
               url: 'https://eservices.mlaw.gov.sg/labesvc/'
