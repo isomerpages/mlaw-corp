@@ -217,25 +217,32 @@ Your Notice of Revision should set out the revised schedule of repayments in acc
 
 * The sum of **X** includes any interest imposed on late payment up till 24 January 2021 (i.e. the date before the date of service of the Notice of Revision).
 
-* Assume **X** is S$10,000 and that the Hirer/Renter intends to make payment over a 12-month period, the total amount which he will have to pay is $10,500 (being principal of S$10,000 and interest of $500 calculated at **5% per annum**). 
+* Assume **X** is S$10,000 and that the Hirer/Renter intends to make payment over a 12-month period, from 26 March 2021 to 26 February 2022.
+
+* The late payment interest on **X** accrues at 5% per annum, and starts accruing from the date of the Notice of Revision i.e. 25 January 2021. Accordingly, the late payment interest on **X** will be calculated as follows: **X** x (A ÷ B) x 5 %, with A = No. of days between 25 Jan 2021 to 26 Feb 2022 (both dates inclusive) = 398 days ; B = 365 days.
+
+* Using the formula above, the late payment interest on X amounts to $10,000 x (398 days ÷ 365
+days) x 5% = **$545.21**. 
+
+* THerefore, the total amount which he will have to pay is $10,545.21 (being principal of S$10,000 and interest of $545.21 calculated at **5% per annum**). 
 
 * Under the Act, the first instalment must be payable by 26 March 2021 (i.e. one month after 26 February 2021, which is the last date to serve the Notice of Revision), the Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
 
 * On the above illustration, a sample proposed repayment schedule which should be set out in the notice of revision is as follows:
 
 |**Date of repayment** | **Total amount to be repaid**
-| 26 March 2021 | 875
-| 26 April 2021 | 875
-| 26 May 2021 | 875
-| 26 June 2021 | 875
-| 26 July 2021 | 875
-| 26 August 2021 | 875
-| 26 September 2021 | 875
-| 26 October 2021 | 875
-| 26 November 2021 | 875 
-| 26 December 2021 | 875
-| 26 January 2022 | 875
-| 26 February 2022 | 875
+| 26 March 2021 | 878.77
+| 26 April 2021 | 878.77
+| 26 May 2021 | 878.77
+| 26 June 2021 | 878.77
+| 26 July 2021 | 878.77
+| 26 August 2021 | 878.77
+| 26 September 2021 | 878.77
+| 26 October 2021 | 878.77
+| 26 November 2021 | 878.77 
+| 26 December 2021 | 878.77
+| 26 January 2022 | 878.77
+| 26 February 2022 | 878.74
 
 If a Notice for Objection is lodged by the Other Party and the only valid objection is that the proposed revised repayment schedule in the Notice of Objection does not satisfy the requirements of the Act, the Assessor may determine what the revised repayment schedule should be. 
 
