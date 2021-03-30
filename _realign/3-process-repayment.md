@@ -223,7 +223,7 @@ Your Notice of Revision should set out the revised schedule of repayments in acc
 
 * Using the formula above, the late payment interest on X amounts to $10,000 x (398 days ÷ 365 days) x 5% = **$545.21**. 
 
-* Therefore, the total amount which he will have to pay is $10,545.21 (being principal of S$10,000 and interest of $545.21 calculated at **5% per annum**). 
+* Therefore, the total amount which he will have to pay is $10,545.21 (being principal of $10,000 and interest of $545.21 calculated at **5% per annum**). 
 
 * Under the Act, the first instalment must be payable by 26 March 2021 (i.e. one month after 26 February 2021, which is the last date to serve the Notice of Revision), the Hirer/Renter wishes to start the payment of the first instalment on 26 March 2021. 
 
