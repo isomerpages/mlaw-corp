@@ -221,8 +221,7 @@ Your Notice of Revision should set out the revised schedule of repayments in acc
 
 * The late payment interest on **X** accrues at 5% per annum, and starts accruing from the date of the Notice of Revision i.e. 25 January 2021. Accordingly, the late payment interest on **X** will be calculated as follows: **X** x (A ÷ B) x 5 %, with A = No. of days between 25 Jan 2021 to 26 Feb 2022 (both dates inclusive) = 398 days ; B = 365 days.
 
-* Using the formula above, the late payment interest on X amounts to $10,000 x (398 days ÷ 365
-days) x 5% = **$545.21**. 
+* Using the formula above, the late payment interest on X amounts to $10,000 x (398 days ÷ 365 days) x 5% = **$545.21**. 
 
 * Therefore, the total amount which he will have to pay is $10,545.21 (being principal of S$10,000 and interest of $545.21 calculated at **5% per annum**). 
 
