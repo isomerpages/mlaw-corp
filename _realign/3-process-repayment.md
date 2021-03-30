@@ -217,7 +217,7 @@ Your Notice of Revision should set out the revised schedule of repayments in acc
 
 * The sum of **X** includes any interest imposed on late payment up till 24 January 2021 (i.e. the date before the date of service of the Notice of Revision).
 
-* Assume **X** is S$10,000 and that the Hirer/Renter intends to make payment over a 12-month period, from 26 March 2021 to 26 February 2022.
+* Assume **X** is $10,000 and that the Hirer/Renter intends to make payment over a 12-month period, from 26 March 2021 to 26 February 2022.
 
 * The late payment interest on **X** accrues at 5% per annum, and starts accruing from the date of the Notice of Revision i.e. 25 January 2021. Accordingly, the late payment interest on **X** will be calculated as follows: **X** x (A ÷ B) x 5 %, with A = No. of days between 25 Jan 2021 to 26 Feb 2022 (both dates inclusive) = 398 days ; B = 365 days.
 
