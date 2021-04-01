@@ -644,11 +644,11 @@ b)	Satisfies one or more of the following conditions:
 
 <a name="q51">**51. If a property is owned by more than one owner, can the owner(s) still apply for an assessment on the grounds of financial hardship?**</a><a href="#a51" title="Return to top">↩</a>
 
-* In the case where a prescribed property has multiple co-owners, each of the owners that derive rental income from the prescribed property during the rental relief period must satisfy all the eligibility criteria on the grounds of financial hardship, and submit an application to the rental relief assessor as provided for in the <a href="https://go.gov.sg/regdir" target="new">Registrar’s directives</a>. 
+* In the case where a prescribed property has multiple co-owners, each of the owners that derive rental income from the prescribed property during the rental relief period must satisfy all the eligibility criteria on the grounds of financial hardship, and submit an application to the rental relief assessor as provided for in the <a href="https://go.gov.sg/regdir">Registrar’s directives</a>. 
 
 <a name="q52">**52. What documents must a landlord submit to prove his eligibility?**</a><a href="#a52" title="Return to top">↩</a>
 
-*	The documents to be submitted will be provided for in the <a href="https://go.gov.sg/regdir" target="new">Registrar’s directives</a>, upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements or relevant statutory declaration. 
+*	The documents to be submitted will be provided for in the <a href="https://go.gov.sg/regdir">Registrar’s directives</a>, upon any application by the landlord. The documents include latest income tax or corporate tax returns, and where applicable, the necessary bank account statements or relevant statutory declaration. 
 
 <a name="q53">**53.	If a landlord’s share of the waiver is halved, who will bear the other half? Will the Government absorb this?**</a><a href="#a53" title="Return to top">↩</a>
 
