@@ -140,6 +140,8 @@ c)  The rental income derived from all the properties that the landlord must pro
 
 If the landlord meets the grounds of financial hardship above, the rental relief assessor may halve the amount of Additional Rental Relief to be borne by the landlord, i.e. one month’s rental waiver for qualifying commercial properties, or half a month’s rental waiver for other non-residential properties (e.g. industrial and office properties). The remaining rent payable will be borne by the tenant.
 
+If a prescribed property has multiple co-owners, each of the co-owners that derive rental income from the prescribed property during the rental relief period must satisfy all the eligibility criteria on the grounds of financial hardship, and submit an application to the rental relief assessor as provided for in the <a href="https://go.gov.sg/regdir" target="new">Registrar’s directives</a>. 
+
 <u>Application process</u>
 
 We encourage parties to start discussions on the rental waivers and openly share information between parties, even before the notice of cash grant is received, so as to facilitate the smooth implementation of the rental waivers.
