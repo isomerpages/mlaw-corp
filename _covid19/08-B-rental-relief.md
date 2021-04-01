@@ -585,7 +585,7 @@ b)	Satisfies one or more of the following conditions:
 
 * Landlords  or tenants who have disputes relating to the actual amount of rent to be waived may also submit applications for a rental relief assessor’s determination. Please see the section <a href="#expansion" id="ref2c">Expansion of powers of rental relief assessors – disputes on amount of rent to be waived </a>for details.
 
-*	There are no charges for making an application. The application must be accompanied by documents and information as specified in the [Registrar’s directives](/files/RentalReliefRegistrarsDirective.pdf).
+*	There are no charges for making an application. The application must be accompanied by documents and information as specified in the [Registrar’s directives](/files/rentalreliefframework/RRFRegistrarsDirectives.pdf).
 
 *	After an application is made, the landlord and the tenant occupier may be asked to submit additional information or documents, or attend a hearing, either virtually or in person. All parties should make their best effort to comply with these requests, to facilitate a timely resolution of the application.
 
