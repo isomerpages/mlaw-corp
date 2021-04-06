@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  COVID-19 Relief Measures: Further Extension of Alternative Arrangements for Meetings 
-date: 2021-04-26
+date: 2021-04-06
 permalink: /news/press-releases/COVID19-Relief-Measures-Further-Extension-of-Alternative-Arrangements-for-Meetings 
 ---
 
