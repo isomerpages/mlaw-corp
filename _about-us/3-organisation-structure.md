@@ -14,7 +14,7 @@ Click image below to enlarge
   <a href="/files/Minlaw Org Chart 1 Apr 2021.pdf">
     <br>
     <br>
-    <img src="/images/Minlaw Org Chart 1 Apr 2021.png" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/MinLaw Org Chart_01 Apr 2021.png" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
