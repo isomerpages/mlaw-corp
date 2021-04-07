@@ -21,8 +21,7 @@ Background
 Duration of the Meetings Orders
 
 {:start="4"}
-4.	With the amendments, the Meetings Orders will now extend beyond 30 June 2021, until they are revoked or amended by MinLaw. It is envisaged that the Meetings Orders will continue to be in force for at least as long as the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (the **“Control Order”**) is in force <sup><a href="#fn1" id="ref1">1</a></sup>.
-.  
+4.	With the amendments, the Meetings Orders will now extend beyond 30 June 2021, until they are revoked or amended by MinLaw. It is envisaged that the Meetings Orders will continue to be in force for at least as long as the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (the **“Control Order”**) is in force <sup><a href="#fn1" id="ref1">1</a></sup>.  
 
 {:start="5"}
 5.	To provide certainty to entities organising meetings, MinLaw will give at least 6 months’ advance notice before the alternative arrangements cease to be available. This will cater to entities who have relied on a Meetings Order to make early preparations for meetings, before the end date is announced.
