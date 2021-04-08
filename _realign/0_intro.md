@@ -17,12 +17,6 @@ Small Businesses and individuals who have been significantly impacted by COVID-1
 table.highlight { background-color: #add8e6 ;font-size: 24px; }
 </style>
 
-<table class="highlight">
-<tr>
-<td> </td>
-<td><style>
-table.highlight { background-color: #add8e6 ;font-size: 24px; }
-</style>
 
 <table class="highlight">
 <tr>
