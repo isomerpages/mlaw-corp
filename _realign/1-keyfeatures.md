@@ -3,6 +3,9 @@ title: 1. Key Features of Re-Align Framework
 permalink: /realign/key-features
 breadcrumb: 1. Key Features of Re-Align Framework
 ---
+<style>
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
+</style>
 
 ## Key Features of Re-Align Framework ##
 
@@ -82,13 +85,23 @@ Certain contracts will be excluded from the Re-Align Framework, even if they fal
 
 An eligible party to a Contract Affecting Essential Services and National Interest may not terminate the contract under the Re-Align Framework if certain conditions are met but may renegotiate the pricing of the contract. More information can be found [here](/realign/process-essential-services).
 
-<u>How to apply</u>
+<table class="highlight">
+<tr>
+<td> </td>
+  <td>Please note that:</td>
+  </tr>
+  <tr>
+<td> (a)</td>
+  <td>the last day for serving the Notice of Negotiation and Notice for Revision was 26 February 2021. If you did not serve the Notice of Negotiation or Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
+  </tr>
+ <tr>
+<td> (b)</td>
+  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, iIf you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
+  </tr>
 
-To obtain relief under the Framework, you must have served the **Notice for Negotiation** on the other party to the contract and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. If you did not serve the Notice of Negotiation by 26 February 2021, you will not be eligible for relief.
+</table>
 
-If you wish to object to a Notice of Negotiation served on you, you may serve and lodge a **Notice of Objection** within the specified time, following which your objection will be determined by an Assessor. 
-
-If the parties do not dispute the termination under the Framework but are unable to agree on the consequences of termination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
+If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
 
 For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer [here](/realign/process-renegotiation).
 
