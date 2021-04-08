@@ -26,8 +26,7 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 
 <table class="highlight">
 <tr>
-<td> </td>
-  <td>Please note that:</td>
+  <td colspan="2">Please note that:</td>
   </tr>
   <tr>
 <td> (a)</td>
@@ -37,7 +36,6 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 <td> (b)</td>
   <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, iIf you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
   </tr>
-
 </table>
 
 The Framework will provide a quick and fair way for businesses to realign their contracts with current business conditions by allowing selected contracts to be renegotiated by way of mutual agreement with the counterparties. If they are unable to agree, the contract may be terminated within the provided parameters. Businesses will remain liable for outstanding obligations but will not need to pay early termination penalties.
