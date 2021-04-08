@@ -87,8 +87,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 
 <table class="highlight">
 <tr>
-<td> </td>
-  <td>Please note that:</td>
+  <td colspan="2">Please note that:</td>
   </tr>
   <tr>
 <td> (a)</td>
@@ -98,7 +97,6 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 <td> (b)</td>
   <td>(b)	the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation.  As a result, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out [here](../files/ReAlign/2020-COVID-INFO3.jpg).</td>
   </tr>
-
 </table>
 
 If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
