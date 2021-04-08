@@ -1,4 +1,3 @@
-
 ---
 title: 1. Key Features of Re-Align Framework
 permalink: /realign/key-features
