@@ -79,6 +79,7 @@ The Notice of Revision must have been served within 6 weeks from 15 January 2021
 
 <table class="highlight">
 <tr>
+  <td></td>
 <td> Please note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
  </tr>
  </table>
