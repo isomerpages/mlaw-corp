@@ -95,7 +95,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
   </tr>
  <tr>
 <td> (b)</td>
-  <td>(b)	the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation.  As a result, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out <a href="../files/ReAlign/2020-COVID-INFO3.jpg">here</a>.</td>
+  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation.  As a result, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out <a href="../files/ReAlign/2020-COVID-INFO3.jpg">here</a>.</td>
   </tr>
 </table>
 
@@ -140,11 +140,13 @@ A Landlord is eligible for hardship relief if:
 
 The rental income should be computed based on what the landlord ought to have received under the contract, as opposed to the rent that was actually received.  
 
-<u>How to apply</u>
+<table class="highlight">
+<td> </td>
+  <td>Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.
+</td>
+  </tr>
 
-If you are a landlord who has been served with the Notice of Negotiation and you think you are eligible for the landlord hardship relief, please serve and lodge the **Notice for Compensation** within the specified time. Before serving the Notice for Compensation, you should prepare the supporting documents (set out [here](https://www.go.gov.sg/re-align-landlordhardship-supportingdocs)) which must be enclosed to the Notice for Compensation.
-
-For more details on how to serve and lodge a Notice for Compensation, please refer [here](/realign/process-renegotiation).
+</table>
 
 ### <a name="5repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
 
@@ -160,15 +162,23 @@ The contracts covered under the **Repayment Scheme** are:
 
 More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_Repayment_Scheme.pdf). 
   
-<u>How to apply</u>
-
-To obtain relief under the Framework, you must have served the **Notice of Revision** on your financing or leasing company and other required parties **<u>from 15 January 2021 onwards and by no later than 26 February 2021</u>**. If you did not serve the Notice of Revision by 26 February 2021, you will not be eligible for relief.
-
-For more details on how to serve a Notice of Revision, please refer [here](/realign/process-repayment-scheme).
+<table class="highlight">
+<tr>
+  <td colspan="2">Please note that:</td>
+  </tr>
+  <tr>
+<td> (a)</td>
+  <td>the last day for serving the Notice of Negotiation and Notice for Revision was 26 February 2021. If you did not serve the Notice of Negotiation or Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
+  </tr>
+ <tr>
+<td> (b)</td>
+  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Revision.  As a result, the revised repayment schedule in the Notice of Revision may form part of the specified contract from the date of the Notice of Revision, and prevail  over any term of the contract to the extent of where there is any inconsistency between them. For more details, please refer <a href="https://www.mlaw.gov.sg/realign/process-repayment-scheme">here</a>.</td>
+  </tr>
+</table>
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
-
+https://www.mlaw.gov.sg/realign/process-repayment-scheme ![image](https://user-images.githubusercontent.com/43874074/114049190-d5509100-98bd-11eb-95f4-b3ccde59642e.png)
 **1.	What is a “global group”?**
 
 “Global group” refers to a parent entity and its subsidiaries. The entities can be Singapore or foreign entities. 
