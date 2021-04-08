@@ -96,7 +96,7 @@ An eligible party to a Contract Affecting Essential Services and National Intere
   </tr>
  <tr>
 <td> (b)</td>
-  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, iIf you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
+  <td>(b)	the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation.  As a result, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out [here](../files/ReAlign/2020-COVID-INFO3.jpg).</td>
   </tr>
 
 </table>
