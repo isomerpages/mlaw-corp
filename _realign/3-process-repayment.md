@@ -4,6 +4,9 @@ permalink: /realign/process-repayment-scheme
 breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts
 ---
 
+<style>
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
+</style>
 
 ### Process for Repayment Scheme for Hire-Purchase and Equipment Rental contracts ###
 **This page provides details on the process for a party who wishes to apply for a Repayment Scheme in relation to an eligible contract under the Re-Align Framework, including information on the Notice of Revision**.
@@ -12,7 +15,19 @@ breadcrumb: 3. Process for Repayment Scheme for Hire-Purchase and Equipment Rent
 
 **Please note that all information or documents disclosed by you or the other person for the purpose of the Framework or the proceedings before the Adjustment Relief Assessor are confidential and must not be disclosed to any third parties**. 
 
-**Please also note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.**
+<table class="highlight">
+<tr>
+  <td colspan="2">Please note that:</td>
+  </tr>
+  <tr>
+<td> (a)</td>
+  <td>the last day for serving the Notice of Negotiation and Notice for Revision was 26 February 2021. If you did not serve the Notice of Negotiation or Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
+  </tr>
+ <tr>
+<td> (b)</td>
+  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Revision. As a result, the revised repayment schedule in the Notice of Revision may form part of the specified contract from the date of the Notice of Revision, and prevail over any term of the contract to the extent of where there is any inconsistency between them</td>
+  </tr>
+</table>
 
 **This page includes the following sections**:
 
@@ -51,7 +66,7 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 <table class="highlight">
 <tr>
 <td> </td>
-<td>Before serving the Notice of Revision, the Hirer/Renter should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Revision. In the Notice of Revision, the Hirer/Renter must set out a proposed repayment schedule which meets the requirements <a href="https://www.mlaw.gov.sg/files/realign/annex_B_repayment_scheme.pdf">here</a>.</td>
+<td>Before serving the Notice of Revision, the Hirer/Renter should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) with the Notice of Revision. In the Notice of Revision, the Hirer/Renter must have set out a proposed repayment schedule which meets the requirements <a href="https://www.mlaw.gov.sg/files/realign/annex_B_repayment_scheme.pdf">here</a>.</td>
 </tr>
 </table>
 
@@ -62,8 +77,12 @@ The Notice of Revision must have been served within 6 weeks from 15 January 2021
 * The guarantor or surety, or the issuer of a performance bond, in relation to the Hirer/Renter’s obligations under the contract. 
 * Any assignee of any party to the contract. 
 
-**Please note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.**
-
+<table class="highlight">
+<tr>
+  <td></td>
+<td> Please note that the last day for serving the Notice of Revision was 26 February 2021. If you did not serve the Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
+ </tr>
+ </table>
 
 **After the Notice of Revision is served, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
 
@@ -115,15 +134,13 @@ To object to the Notice of Revision, the Other Party must lodge the Notice of Ob
 <table class="highlight">
 <tr>
 <td> </td>
- <td>The following documents <b>should be attached</b> to the Notice of Objection:<ul><li>A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.</li><li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li><li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal.</li></ul>
+ <td>The following documents <b>should have been attached</b> to the Notice of Objection:<ul><li>A copy of the Notice of Revision and all supporting documents which were enclosed to the Notice of Revision.</li><li>Any supporting documents to support the Other Party’s reasons for objecting to the Notice of Revision.</li><li>If the Other Party has a proposal on the repayment schedule, any supporting documents to support the Other Party’s proposal.</li></ul>
  </td>
 </tr>
 
 <tr>
 <td> </td>
- <td>
-<u>Submission and service by the electronic system</u><br><br> 
-To submit to the Registrar and serve the <b>Notice of Objection</b> on the Recipient(s) using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-revision-corppass">link</a> (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-revision-singpass">link</a> (SingPass).</li></ul>
+ <td>Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Revision.
 </td>
  </tr>
 </table>
@@ -287,3 +304,4 @@ For more information on mediation and how it may help you, please refer to the l
 (a)	[Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/);
 
 (b)	[Mediation at the Singapore Mediation Centre](https://www.mediation.com.sg).
+
