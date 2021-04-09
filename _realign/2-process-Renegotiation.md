@@ -3,9 +3,7 @@ title: 2. Process for Renegotiation of Contract Terms and Termination of Contrac
 permalink: /realign/process-renegotiation
 breadcrumb: 2. Process for Renegotiation of Contract Terms and Termination of Contract
 ---
-<style>
-table.highlight { background-color: #add8e6 ;font-size: 24px; }
-</style>
+
 ### Process for Renegotiation of Contract Terms and Termination of Contract ###
 **This page provides details on the process for a party who wishes to renegotiate and/or terminate its contract under the Re-Align Framework, including information on the Notice of Negotiation, and Notice for Adjustment. Parties who object to a Notice of Negotiation may also refer to this page to find out how to lodge and serve a Notice of Objection**. 
 
@@ -13,19 +11,7 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 
 **Please note that all information or documents disclosed by you or the other person for the purpose of the Framework or the proceedings before the Adjustment Relief Assessors (“Assessors”) are confidential and must not be disclosed to any third parties**.
 
-<table class="highlight">
-<tr>
-  <td colspan="2">Please note that:</td>
-  </tr>
-  <tr>
-<td> (a)</td>
-  <td>the last day for serving the Notice of Negotiation and Notice for Revision was 26 February 2021. If you did not serve the Notice of Negotiation or Notice of Revision by 26 February 2021, you are not eligible for relief under the Framework.</td>
-  </tr>
- <tr>
-<td> (b)</td>
-  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection by 9 April 2021, you will not be able to object to the Notice of Negotiation. If you did not serve and lodge the Notice for Compensation by 9 April 2021, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
-  </tr>
-</table>
+**Please also note that the last day for serving the Notice of Negotiation was 26 February 2021. If you did not serve the Notice of Negotiation by 26 February 2021, you are not eligible for relief under the Framework.**
 
 **This page includes the following sections**:
 
@@ -56,12 +42,14 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
-
+<style>
+table.highlight { background-color: #add8e6 ;font-size: 24px; }
+</style>
 
 <table class="highlight">
 <tr>
 <td> </td>
-<td>Before serving the Notice of Negotiation, the Affected Business should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) with the Notice of Negotiation.</td>
+<td>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</td>
 </tr>
 </table>
 
@@ -69,14 +57,8 @@ The Notice of Negotiation must have been served within **6 weeks** from 15 Janua
 * Any other party to the contract (“the Other Party”). 
 * The Affected Business’s guarantor or surety, or the issuer of a performance bond, in relation to the Affected Business’s obligations under the contract.
 * Any assignee of any party to the contract.  
-
-<table class="highlight">
-<tr>
-<td> </td>
-<td>Please note that the last day for serving the Notice of Negotiation was 26 February 2021. If you did not serve the Notice of Negotiation by 26 February 2021, you are not eligible for relief under the Framework.</td>
-</tr>
-</table>
-
+  
+**Please note that the last day for serving the Notice of Negotiation was 26 February 2021. If you did not serve the Notice of Negotiation by 26 February 2021, you are not eligible for relief under the Framework.**
 
 **After the Notice of Negotiation is served, there will be a 4-week negotiation period for parties to reach a mutually acceptable outcome (see [Step 2](#step2) below).**
 
@@ -144,7 +126,7 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 <table class="highlight">
 <tr>
 <td> </td>
-  <td>The following documents <b>should have been attached</b> to the Notice of Objection:
+  <td>The following documents <b>should be attached</b> to the Notice of Objection:
 <ul>
   <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
   <li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
@@ -154,16 +136,14 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 
 
 <tr>
-<td colspan="2">
-Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection by 12 March 2021, you will not be able to object to the Notice of Negotiation.
-<br><br>
-If you did not serve and lodge the Notice of Objection during the Objection Period, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out <a href="../files/ReAlign/2020-COVID-INFO3.jpg">here</a>.
-<br><br>
-If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination , either party may serve and lodge a <a href="#step4">Notice of Adjustment</a> within 2 weeks after the Objection Period to seek an Assessor’s determination on the adjustment of rights and obligations under the contract.
-  </td>
- 
+<td> </td>
+ <td>
+<u>Submission and service by the electronic system</u><br><br> To submit to the Registrar and serve the <b>Notice of Objection</b> on the Recipient(s) using the electronic system, you <b><u>must have</u></b> an email address, as well as the email address(es)* of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-corppass">link</a>* (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-singpass">link</a>* (SingPass). </li></ul>
+</td>
  </tr>
 </table>
+
+***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
 If the Other Party or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
 
@@ -179,7 +159,7 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 <tr>
 <td> </td>
 <td>
-Before serving the Notice for Compensation, the landlord should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-landlordhardship-supportingdocs">here</a>) with the Notice for Compensation.
+Before serving the Notice for Compensation, the landlord should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-landlordhardship-supportingdocs">here</a>) which should be enclosed to the Notice for Compensation.
   </td>
 </tr>
   </table>
@@ -190,16 +170,17 @@ Before serving the Notice for Compensation, the landlord should have enclosed th
 * Similarly, if a landlord does not dispute the tenant’s eligibility for relief but wishes to obtain compensation from the tenant, the landlord must lodge and serve a Notice for Compensation within the **2-week Objection Period**. A Notice for Compensation may be lodged and served even if a Notice of Objection is not lodged and served.
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
-
-
 <table class="highlight">
 <tr>
 <td> </td>
-<td>Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice for Compensation by 9 April 2021, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.
+<td>
+<u>Submission and service by the electronic system</u><br><br> To submit to the Registrar and serve the Notice for Compensation on the Recipient(s) using the electronic system, you <b><u>must have</u></b> an email address, as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-corppass">link</a>* (CorpPass).</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-of-objection-compensation-singpass">link</a>* (SingPass). </li></ul>
+
 </td>
  </tr>
 </table>
 
+***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
 
 ##### <a name="step3c">(C) Other Party does not object to Affected Business’ eligibility for relief</a> <a href="#s3c" title="Return to top">↩</a> #####
 
