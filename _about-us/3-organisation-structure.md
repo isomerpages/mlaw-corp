@@ -9,12 +9,11 @@ breadcrumb: 'Organisation Structure'
 Organisation Structure
 ---
 
-Click image below to enlarge
 <div class="image">
-  <a href="/files/MinLaw Org Chart_01 Apr 2021.pdf">
+  <a href="/files/MinLaw_Organisation_Structure-01_Apr_2021.pdf">
     <br>
     <br>
-    <img src="/images/MinLaw Org Chart_01 Apr 2021.png" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/MinLaw_Organisation_Structure-01_Apr_2021.png" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
