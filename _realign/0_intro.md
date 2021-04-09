@@ -51,4 +51,3 @@ You cannot appeal against an Assessor’s determination. Please refer to [(6) As
 **9.	I have pending Court or arbitration proceedings against me for issues related to my Notice of Negotiation/Notice of Revision. What should I do?** 
 
 Please refer to [(7) Pending Court or Arbitration Proceedings](/realign/pending-court-arbitration) for more information. 
-![Uploading image.png…]()
