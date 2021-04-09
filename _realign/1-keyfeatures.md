@@ -178,7 +178,6 @@ More details of the Repayment Scheme can be found [here](/files/realign/Annex_B_
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
-https://www.mlaw.gov.sg/realign/process-repayment-scheme ![image](https://user-images.githubusercontent.com/43874074/114049190-d5509100-98bd-11eb-95f4-b3ccde59642e.png)
 **1.	What is a “global group”?**
 
 “Global group” refers to a parent entity and its subsidiaries. The entities can be Singapore or foreign entities. 
