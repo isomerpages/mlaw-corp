@@ -141,11 +141,11 @@ A Landlord is eligible for hardship relief if:
 The rental income should be computed based on what the landlord ought to have received under the contract, as opposed to the rent that was actually received.  
 
 <table class="highlight">
+ <tr>
 <td> </td>
   <td>Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.
 </td>
   </tr>
-
 </table>
 
 ### <a name="5repayment">Repayment Scheme for Hire-Purchase and Equipment Rental Contracts</a> <a href="#s5" title="Return to top">↩</a> ###
