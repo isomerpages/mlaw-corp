@@ -166,8 +166,6 @@ If the contract has been terminated under the Framework. and the parties are una
  </tr>
 </table>
 
-***IMPORTANT NOTE: Please note that the above links lead to the forms for both the Notice of Objection and the Notice for Compensation. You may use the link above if (i) you wish to submit only a Notice of Objection; (ii) you are a small landlord who wishes to submit only a Notice for Compensation; or (iii) you are a small landlord who wishes to submit both a Notice of Objection and Notice for Compensation.**
-
 If the Other Party or his assignee has served a Notice of Objection within the **2-week Objection Period, Step 4** is not applicable. You may refer to **Step 5** below on the steps after a Notice of Objection is served and lodged.
 
 ##### <a name="step3b">(B) Other Party is a landlord who wishes to seek compensation from the Affected Business</a> <a href="#s3b" title="Return to top">↩</a> #####
