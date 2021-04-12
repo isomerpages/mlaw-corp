@@ -66,7 +66,7 @@ To submit the Application with the Registrar using the electronic system:
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
-To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"}. 
+To register for a SingPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"}. 
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
