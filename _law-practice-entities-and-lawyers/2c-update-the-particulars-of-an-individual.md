@@ -31,16 +31,14 @@ Update the Particulars of an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+      <b>STEP 1: Login to LSRA e-Services</b>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
-        <li style="text-align: justify">CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
-        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank">website</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -83,7 +81,7 @@ Update the Particulars of an Individual
       <ul>
         <li style="text-align: justify">The application may take about <b>3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
-        <li style="text-align: justify">If a re-issuance of the CoR is requested, a copy of the CoR will be emailed to the Main Contact for the Application. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services using CorpPass.</li>
+        <li style="text-align: justify">If a re-issuance of the CoR is requested, a copy of the CoR will be emailed to the Main Contact for the Application. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services.</li>
       </ul>
     </td>
     <td>
