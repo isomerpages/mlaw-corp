@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 
 ### Event or tourism-related contracts ###
-<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts ended on 31 January 2021. If a Notification for Relief was served by 31 January 2021, individuals and businesses can still file an [Application for an Assessor's Determination](https://www.mlaw.gov.sg/covid19-relief/application-for-assessor) by 31 March 2021.  
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts ended on 31 January 2021. The reliefs described on this page has expired.
 
 #### General FAQs ####
 **1. What is an event contract?**
