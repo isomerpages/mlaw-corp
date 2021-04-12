@@ -10,7 +10,7 @@ breadcrumb: 5. Other Modes of Service
 
 ### Service by other modes if you are unable to use the electronic system ###
 
-If you are **unable to use the electronic system** to serve the Notice on the required parties (e.g. you are unable to obtain a SingPass or CorpPass Account, you do not have an email address, or you do not have the email address(es) of any of the required Recipients),
+If you are **unable to use the electronic system** to serve the Notice on the required parties (e.g. you are unable to obtain a SingPass Account, you do not have an email address, or you do not have the email address(es) of any of the required Recipients),
 
 You may serve the Notices on the Recipient(s):
 
