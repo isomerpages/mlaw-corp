@@ -12,7 +12,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 
 <p style="text-align: justify">Foreign lawyers currently or previously registered with the Legal Services Regulatory Authority (“LSRA”) (or the Attorney General’s Chambers’ Legal Profession Secretariat ("AGC LPS") prior to 18 November 2015) may apply to the LSRA for a <b>Certificate of Good Standing</b>.</p> 
 
-<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Standing.]</p> 
+<p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the Supreme Court of Singapore for a Certificate of Good Standing or the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Standing.]</p> 
   
 <p style="text-align: justify">To request for a Certificate of Good Standing from the LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
 
@@ -58,9 +58,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
-        <li style="text-align: justify">CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
-        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank">website</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
