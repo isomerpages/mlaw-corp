@@ -31,16 +31,14 @@ Register an Individual
   </tr>
   <tr>
     <td>
-      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+      <b>STEP 1: Login to LSRA e-Services</b>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
-        <li style="text-align: justify">CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
-        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank">website</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -98,7 +96,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">If the application is approved, login to LSRA e-Services using CorpPass, retrieve the application from myDashboard, and pay the registration fee.</li>
+        <li style="text-align: justify">If the application is approved, login to LSRA e-Services, retrieve the application from myDashboard, and pay the registration fee.</li>
         <li style="text-align: justify">The registration fee can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</li>
         <li style="text-align: justify">The registration fee must be paid online using a valid credit/debit card.</li>
       </ul>
@@ -118,7 +116,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The LSRA will issue the Certificate of Registration (“CoR”) after verifying the payment. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services using CorpPass.</li>
+        <li style="text-align: justify">The LSRA will issue the Certificate of Registration (“CoR”) after verifying the payment. The CoR can also be downloaded from myDashboard by logging in to LSRA e-Services.</li>
       </ul>
     </td>
     <td>

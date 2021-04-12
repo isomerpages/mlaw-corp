@@ -32,16 +32,14 @@ Terminate the Registration of an Individual
   </tr>
   <tr>
     <td>
-      <p style="text-align: justify"><b>STEP 1: Login to LSRA e-Services using CorpPass</b></p>
+      <p style="text-align: justify"><b>STEP 1: Login to LSRA e-Services</b></p>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">CorpPass (or Singapore Corporate Access) is a one-stop authentication and authorisation service for corporate users to transact with Government agencies online on behalf of their organisations.</li>
-        <li style="text-align: justify">CorpPass will be required for all local entities with a Unique Entity Number (UEN) and for foreign entities that wish to access Government-to-Business (G2B) digital services in Singapore. Individuals and local entities without a UEN will continue using their SingPass to transact with the Government.</li>
-        <li style="text-align: justify">A complete user guide on how to obtain CorpPass authorisation can be found on the CorpPass <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank">website</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -61,7 +59,7 @@ Terminate the Registration of an Individual
       <ul>
         <li style="text-align: justify">Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
         <li>No fees will be charged for the termination.</li>
-        <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
+        <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li style="text-align: justify"><b>Please also note that the termination of the CoR may not necessarily terminate the obligations of the regulated legal practitioners and regulated non-practitioners under the Legal Profession Act (Cap. 161) and the rules made thereunder (such as, but not limited to, the Legal Profession (Professional Conduct) Rules 2015, Legal Profession (Accountant’s Report) Rules, Legal Profession (Solicitors’ Accounts) Rules and Legal Profession (Regulated Individuals) Rules 2015).</b></li>
       </ul>
     </td>

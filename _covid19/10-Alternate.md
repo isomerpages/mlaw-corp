@@ -98,12 +98,10 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
   <tr>	
     <td class="tg-73oq">Registered Societies</td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S324-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Registered Societies) Order 2020</a></td>	
-    <td class="tg-73oq"><a href="https://www.mha.gov.sg/newsroom/press-release/news/guidance-for-registered-societies-and-governing-bodies-meetings-during-periods-of-safe-distancing-measures" target="_blank">Press release by the Ministry of Home Affairs</a>
+    <td class="tg-73oq"><a href="https://www.mha.gov.sg/docs/default-source/media-room-doc/annex-b-guidance-on-conduct-of-general-meetings-and-governing-bodies-meetings-of-registered-societies.pdf" target="_blank">Guidance on conduct of general meetings and governing bodies’ meetings of registered societies</a> 
     <br><br>
-    <a href="https://www.mha.gov.sg/docs/default-source/default-document-library/guidance-on-conduct-of-meetings-for-societies-during-control-period.pdf" target="_blank">Guidance on conduct of general meetings and governing bodies’ meetings of registered societies</a> 
-    <br><br>
-    <a href="https://www.mha.gov.sg/docs/default-source/default-document-library/guidance-for-virtual-meetings.pdf" target="_blank">Guidance on virtual meetings for registered societies</a>
-    <br><br><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/faqs-on-holding-of-meetings-for-registered-societies.pdf" target="_blank">FAQs on alternative meeting arrangements for registered societies</a>
+    <a href="https://www.mha.gov.sg/docs/default-source/default-document-library/annex-c-guidance-for-virtual-meetings-for-registered-societies.pdf" target="_blank">Guidance on virtual meetings for registered societies</a>
+    <br><br><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/annex-d-faqs-on-holding-of-meetings-for-registered-societies.pdf" target="_blank">FAQs on alternative meeting arrangements for registered societies</a>
     </td>	
     <td class="tg-73oq">
     For enquiries pertaining to registered societies, please contact the Ministry of Home Affairs, Registry of Societies at <a href="mailto:mha_ros_feedback@mha.gov.sg">mha_ros_feedback@mha.gov.sg</a>
