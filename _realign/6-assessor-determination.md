@@ -34,8 +34,8 @@ The Application should be submitted to the Registrar and served on the Recipient
 
 To submit and serve the Application to Set Aside Decision/Determination using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
 
-* If you are acting on behalf of an entity, please use this link (CorpPass).
-* If you are an individual, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link.
+* If you are an individual, please use this link*. 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
