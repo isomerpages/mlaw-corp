@@ -39,7 +39,7 @@ To submit and serve the Application to Set Aside Decision/Determination using th
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
-To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+To register for a SingPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"}. 
 
 #### Step 2 ####
 If a party to an Assessor’s Determination wishes to oppose the Application to Set Aside Decision/Determination, he must, within the time period directed by the Registrar, lodge a Reply with the Registrar and serve the Reply on the following Recipient(s), where applicable:
@@ -48,12 +48,12 @@ If a party to an Assessor’s Determination wishes to oppose the Application to 
 * any other parties to the Assessor’s determination. 
 
 To submit and serve the Reply using the electronic system using the electronic system, you must have an email address as well as the email address(es) of the Recipient(s):
-* If you are acting on behalf of an entity, please use this link (CorpPass).
-* If you are an individual, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link.
+* If you are an individual, please use this link*. 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
-To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+To register for a SingPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"}. 
 
 #### Step 3 #### 
 If the Assessor decides to set aside the decision or determination, the Assessor may do so on such terms as he or she considers just and he or she may proceed to hear the case and make a fresh determination on the case.
@@ -61,12 +61,12 @@ If the Assessor decides to set aside the decision or determination, the Assessor
 ### <a name="correct">Application to Correct Error in Assessor’s Determination</a> <a href="#s3" title="Return to top">↩</a> ###
 If there is a clerical mistake, or error arising from an accidental slip or omission, in the Assessor’s determination, any person affected by an Assessor's Determination may submit an Application to Correct Error in Determination.
 To submit the Application with the Registrar using the electronic system:
-* If you are acting on behalf of an entity, please use this link (CorpPass).
-* If you are an individual, please use this link* (SingPass). 
+* If you are acting on behalf of an entity, please use this link.
+* If you are an individual, please use this link*. 
 
 ***IMPORTANT NOTE: These links will only be available in due course**
 
-To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} or [https://www.corppass.gov.sg](https://www.corppass.gov.sg){:target="_blank"}, respectively. 
+To register for a SingPass or CorpPass, please visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"}. 
 
 ### <a name="faq">FAQs</a> <a href="#f1" title="Return to top">↩</a> ###
 
