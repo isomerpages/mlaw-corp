@@ -145,4 +145,4 @@ Register an Individual
 </table>
 
 
-<p class="right-side-updated">Last updated on 03 Sep 2018</p> 
+<p class="right-side-updated">Last updated on 13 Apr 2021</p> 
