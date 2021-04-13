@@ -109,4 +109,4 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 </table>
 
 
-<p class="right-side-updated">Last updated on 13 Aug 2020</p> 
+<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
