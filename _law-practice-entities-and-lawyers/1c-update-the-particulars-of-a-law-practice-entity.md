@@ -90,4 +90,4 @@ Update the Particulars of a Law Practice Entity
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 06 Jul 2017</p>
+<p class="right-side-updated">Last updated on 13 Apr 2021</p>
