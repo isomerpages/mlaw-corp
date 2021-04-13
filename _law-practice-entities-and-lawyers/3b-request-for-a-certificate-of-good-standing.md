@@ -51,14 +51,14 @@ Request a Certificate of Good Standing or a Letter of Confirmation
   </tr>
   <tr>
     <td>
-      <b>STEP 1: Login to LSRA e-Services using CorpPass</b>
+      <b>STEP 1: Login to LSRA e-Services</b>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
