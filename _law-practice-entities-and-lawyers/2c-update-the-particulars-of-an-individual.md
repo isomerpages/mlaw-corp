@@ -92,4 +92,4 @@ Update the Particulars of an Individual
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 07 Jul 2017</p>
+<p class="right-side-updated">Last updated on 13 Apr 2021</p>
