@@ -89,4 +89,4 @@ Renew the Licence of a Law Practice Entity
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 13 Apr 2021</p>
+<p class="right-side-updated">Last updated on 12 Apr 2021</p>
