@@ -38,7 +38,7 @@ Terminate the Licence or Registration of a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -115,4 +115,4 @@ Terminate the Licence or Registration of a Law Practice Entity
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 06 Jun 2018</p>
+<p class="right-side-updated">Last updated on 12 Apr 2021</p>
