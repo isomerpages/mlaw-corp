@@ -98,4 +98,4 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 28 Apr 2017</p> 
+<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
