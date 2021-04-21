@@ -28,7 +28,7 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
   </tr>
  <tr>
 <td> (b)</td>
-  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, iIf you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
+  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, if you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
   </tr>
 </table>
 
