@@ -27,7 +27,8 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
   </tr>
    <tr>
 <td> (c)</td>
-  <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection by 9 April 2021, you will not be able to object to the Notice of Negotiation. If you did not serve and lodge the Notice for Compensation by 9 April 2021, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
+  <td>the last day for serving and lodging the Notice for Adjustment was 23 April 2021 (i.e. 2 weeks after the last day of the latest possible Objection Period). If you did not serve and lodge the Notice for Adjustment by 23 April 2021, you will not be able to seek an adjustment of rights and obligations under the Framework for a contract which has been terminated.
+</td>
   </tr>
 </table>
 
