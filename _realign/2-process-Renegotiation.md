@@ -25,11 +25,6 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 <td> (b)</td>
   <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection by 9 April 2021, you will not be able to object to the Notice of Negotiation. If you did not serve and lodge the Notice for Compensation by 9 April 2021, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
   </tr>
-   <tr>
-<td> (c)</td>
-  <td>the last day for serving and lodging the Notice for Adjustment was 23 April 2021 (i.e. 2 weeks after the last day of the latest possible Objection Period). If you did not serve and lodge the Notice for Adjustment by 23 April 2021, you will not be able to seek an adjustment of rights and obligations under the Framework for a contract which has been terminated.
-</td>
-  </tr>
 </table>
 
 **This page includes the following sections**:
@@ -61,8 +56,14 @@ An [eligible party](/realign/key-features) to the contract (“the Affected Busi
 <br>
 (b)	For the applicable method of determining if your business has experienced at least a 70% fall in monthly average gross income, please refer to this [link](https://go.gov.sg/re-align-incomefall-comparisonperiods). 
 
-Before serving the Notice of Negotiation, the Affected Business should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) with the Notice of Negotiation.
 
+
+<table class="highlight">
+<tr>
+<td> </td>
+<td>Before serving the Notice of Negotiation, the Affected Business should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) with the Notice of Negotiation.</td>
+</tr>
+</table>
 
 The Notice of Negotiation must have been served within **6 weeks** from 15 January 2021 **(i.e. by 26 February 2021)**, on the following Recipient(s), where applicable:
 * Any other party to the contract (“the Other Party”). 
@@ -139,16 +140,26 @@ To object to the Notice of Negotiation, the Other Party must lodge the Notice of
 * The Affected Business’ guarantor or surety, or issuer of a performance bond, in relation to the Affected Business’ obligations under the contract; and
 * Any assignee of any party to the contract.
 
-The following documents <b>should have been attached</b> to the Notice of Objection:
-<li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
-<li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
-  
+
 <table class="highlight">
+<tr>
+<td> </td>
+  <td>The following documents <b>should have been attached</b> to the Notice of Objection:
+<ul>
+  <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
+  <li>Any supporting documents to support the Other Party’s reasons for objecting to the Affected Business’ eligibility under the Re-Align Framework</li>
+  </ul>
+  </td>
+</tr>
+
+
 <tr>
 <td colspan="2">
 Please note that the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection by 9 April 2021, you will not be able to object to the Notice of Negotiation.
 <br><br>
 If you did not serve and lodge the Notice of Objection during the Objection Period, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out <a href="../files/ReAlign/2020-COVID-INFO3.jpg">here</a>.
+<br><br>
+If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination , either party may serve and lodge a <a href="#step4">Notice of Adjustment</a> within 2 weeks after the Objection Period to seek an Assessor’s determination on the adjustment of rights and obligations under the contract.
   </td>
  
  </tr>
@@ -164,8 +175,14 @@ Where the Affected Business is a tenant who has served a Notice of Negotiation o
 * The tenant’s guarantor or surety, or issuer of a performance bond, in relation to the tenant’s obligations under the contract; and
 * Any assignee of any party to the contract.
 
+<table class="highlight">
+<tr>
+<td> </td>
+<td>
 Before serving the Notice for Compensation, the landlord should have enclosed the supporting documents (set out <a href="https://go.gov.sg/re-align-landlordhardship-supportingdocs">here</a>) with the Notice for Compensation.
-
+  </td>
+</tr>
+  </table>
 
 **Note**: The **2-week Objection Period** is the same period in which the Landlord must lodge and serve the Notice of Objection, if applicable. 
 
@@ -203,17 +220,20 @@ To seek the Assessor’s determination, **within 2 weeks after the end of the 2-
 * For examples of how to determine the start and end of the 4-week Negotiation Period, please refer to [here](../files/ReAlign/ExamplesForRAFPeriods.pdf).
 
 
-The Notice for Adjustment should have been accompanied by the following documents:
+<table class="highlight">
+<tr>
+<td> </td>
+<td>The Notice for Adjustment should be accompanied by the following documents:
 <ul>
   <li>A copy of the Notice of Negotiation and all documents which were enclosed to the Notice of Negotiation.</li> 
   <li>Any supporting documents to support the proposal for adjustment of the rights and obligations under the contract. </li>
   </ul>
-  
-<table class="highlight">
+  </td>
+</tr>
 <tr>
 <td> </td>
  <td>
-Please note that the last day for serving and lodging the Notice for Adjustment was 23 April 2021 (i.e. 2 weeks after the last day of the latest possible Objection Period). If you did not serve and lodge the Notice for Adjustment by 23 April 2021, you will not be able to seek an adjustment of rights and obligations under the Framework for a contract which has been terminated.
+<u>Submission and service by the electronic system</u> <br><br> To submit to the Registrar and serve the <b>Notice for Adjustment</b> on the Recipient(s) using the electronic system, you <b><u>must have</u></b> an email address, as well as the email address(es) of the Recipient(s):<ul><li>If you are acting on behalf of an entity that is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-adjustment-corppass">link</a>.</li><li>If you are an individual who is a party to the contract, please use this <a href="https://go.gov.sg/notice-for-adjustment-singpass">link</a>.</li></ul>
 </td>
  </tr>
 </table>
