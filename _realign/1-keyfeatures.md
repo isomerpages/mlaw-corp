@@ -345,3 +345,4 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
     6. Guide to Serving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO6-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO6-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO6-Tamil.pdf) <br>
     7. Guide to Receiving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO7-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO7-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO7-Tamil.pdf)
 
+
