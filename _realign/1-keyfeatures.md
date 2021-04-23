@@ -97,16 +97,11 @@ An eligible party to a Contract Affecting Essential Services and National Intere
 <td> (b)</td>
   <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation.  As a result, the contract may be terminated upon the expiry of the second day after the Objection Period. The default consequences upon termination of a contract under the Act are set out <a href="../files/ReAlign/2020-COVID-INFO3.jpg">here</a>.</td>
   </tr>
- <tr>
-<td> (c)</td>
-  <td>the last day for serving and lodging the Notice for Adjustment was 23 April 2021 (i.e. 2 weeks after the last day of the latest possible Objection Period). If you did not serve and lodge the Notice for Adjustment by 23 April 2021, you will not be able to seek an adjustment of rights and obligations under the Framework for a contract which has been terminated.
-</td>
-  </tr>
 </table>
 
-If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination, either party may serve and lodge a **Notice for Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
+If the contract has been terminated under the Framework. and the parties are unable to agree on the consequences of determination, either party may serve and lodge a **Notice of Adjustment** within the specified time to seek an Assessor’s determination on the adjustment of rights and obligations under the contract. 
 
-For more details on the service or lodgment of a Notice for Negotiation, Notice of Objection or Notice for Adjustment, please refer [here](/realign/process-renegotiation).
+For more details on how to serve and lodge a Notice for Negotiation, Notice of Objection or Notice of Adjustment, please refer [here](/realign/process-renegotiation).
 
 ### <a name="3contracts">Contracts Affecting Essential Services and National Interest</a> <a href="#s3" title="Return to top">↩</a> ###
 
@@ -350,3 +345,5 @@ No. Parties will not be charged any fees or costs when an Assessor is appointed 
     6. Guide to Serving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO6_Guide1.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO6-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO6-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO6-Tamil.pdf) <br>
     7. Guide to Receiving a Notice of Negotiation <br>[English](/files/ReAlign/2020-COVID-INFO7_Guide2.pdf) | [Chinese](/files/ReAlign/2020-COVID-INFO7-Chinese.pdf) | [Malay](/files/ReAlign/2020-COVID-INFO7-Malay.pdf) | [Tamil](/files/ReAlign/2020-COVID-INFO7-Tamil.pdf)
 
+
+![Uploading image.png…]()
