@@ -30,11 +30,6 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 <td> (b)</td>
   <td>the last day of the latest possible Objection Period was 9 April 2021. If you did not serve and lodge the Notice of Objection during the Objection Period, you will not be able to object to the Notice of Negotiation and/or Notice of Revision. Similarly, if you are a landlord and did not serve and lodge the Notice for Compensation during the Objection Period, you will not be able to seek compensation from your tenant for the termination of the contract under the Framework.</td>
   </tr>
-  <tr>
-<td> (c)</td>
-  <td>the last day for serving and lodging the Notice for Adjustment was 23 April 2021 (i.e. 2 weeks after the last day of the latest possible Objection Period). If you did not serve and lodge the Notice for Adjustment by 23 April 2021, you will not be able to seek an adjustment of rights and obligations under the Framework for a contract which has been terminated.
-</td>
-  </tr>
 </table>
 
 The Framework will provide a quick and fair way for businesses to realign their contracts with current business conditions by allowing selected contracts to be renegotiated by way of mutual agreement with the counterparties. If they are unable to agree, the contract may be terminated within the provided parameters. Businesses will remain liable for outstanding obligations but will not need to pay early termination penalties.
