@@ -15,8 +15,8 @@ permalink: /news/press-releases/2021-04-26-STRATEGY-TO-BOOST-SINGAPORES-POSITION
 {:start="3"}
 3	The SIPS 2030 makes key recommendations in the following areas to:
 
-  (I) 	Strengthen Singapore’s position as a global hub for IA/IP
-  (II) 	Attract & grow innovative enterprises using IA/IP
+  (I) 	Strengthen Singapore’s position as a global hub for IA/IP<br>
+  (II) 	Attract & grow innovative enterprises using IA/IP<br>
   (III) 	Develop good jobs and valuable skills in IA/IP
 
 *(See Annex B for SIPS 2030 recommendations (infographic & highlights). The SIPS 2030 full report can be accessed here: <a href="http://www.go.gov.sg/FutureWithIP" target="new">http://www.go.gov.sg/FutureWithIP</a>)*
