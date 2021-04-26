@@ -49,19 +49,19 @@ b.  The World Justice Project in its Rule of Law Index 2020 ranked Singapore’s
 {:start="7"}
 7. Let me just give you some numbers. 
 
-a.  SICC’s performance was excellent in 2020. 
+   a.  SICC’s performance was excellent in 2020. 
 
-i.  There were a total of 30 published judgments issued last year, comprising 25 first instance decisions, and 5 appellate judgements of the Court of Appeal when hearing appeals from decisions of the SICC. 
+   i.  There were a total of 30 published judgments issued last year, comprising 25 first instance decisions, and 5 appellate judgements of the Court of Appeal when hearing appeals from decisions of the SICC. 
 
-ii. As of 31 January 2021, SICC has a docket of 66 cases.
+   ii. As of 31 January 2021, SICC has a docket of 66 cases.
 
-b.  Both SIAC and SIMC’s caseloads also reached record highs in 2020. 
+   b.  Both SIAC and SIMC’s caseloads also reached record highs in 2020. 
 
-i.  SIAC received 1,080 new cases, although I would say that quite a number of these were from consolidated cases. But even taking that into account, there is a strong upward trajectory.
+   i.  SIAC received 1,080 new cases, although I would say that quite a number of these were from consolidated cases. But even taking that into account, there is a strong upward trajectory.
 
-ii. SIMC received 43 cases, the highest annual caseload since its inception. 
+   ii. SIMC received 43 cases, the highest annual caseload since its inception. 
 
-iii.  All of that in the context of 20  20, which was the pandemic year.
+   iii.  All of that in the context of 20  20, which was the pandemic year.
 
 {:start="8"}
 8. The results we see today are the culmination of consistent efforts over many generations to cultivate and strengthen Singapore as a leading international legal and dispute resolution hub – all of us coming together.
@@ -81,11 +81,11 @@ iii.  All of that in the context of 20  20, which was the pandemic year.
 {:start="13"}
 13. Today, I would like to highlight three initiatives in the pipeline that litigation practitioners might find relevant and pertinent to their practice. Let me summarise what they are:
 
-a.  <u>First</u>, an update on civil justice reforms, which is the theme of this year’s Litigation Conference Workshop.
+    a.  <u>First</u>, an update on civil justice reforms, which is the theme of this year’s Litigation Conference Workshop.
 
-b.  <u>Second</u>, let me spend a bit of time telling you about developments in litigation financing.
+    b.  <u>Second</u>, let me spend a bit of time telling you about developments in litigation financing.
 
-c.  <u>Finally</u>, let me spend some time speaking about a new initiative to support Singapore law practices as we look to the future. To take a leaf out of what Mr Vijayendran said earlier – about speaking, dealing, interacting, transacting virtually in the technology space.
+    c.  <u>Finally</u>, let me spend some time speaking about a new initiative to support Singapore law practices as we look to the future. To take a leaf out of what Mr Vijayendran said earlier – about speaking, dealing, interacting, transacting virtually in the technology space.
 
 **III. Civil Justice Reforms**
 
@@ -94,9 +94,9 @@ c.  <u>Finally</u>, let me spend some time speaking about a new initiative to su
 {:start="14"}
 14. On civil justice reforms, let me first say that our fundamental, overarching objectives are really two-fold:
 
-a.  <u>First</u>, to advance access to justice for all persons, including SMEs and litigants-in-person, who might sometimes be regarded as the less-advantaged in the context of the litigation space.
+    a.  <u>First</u>, to advance access to justice for all persons, including SMEs and litigants-in-person, who might sometimes be regarded as the less-advantaged in the context of the litigation space.
 
-b.  <u>Second</u>, to ensure fairness, affordability, timeliness, simplicity and, of course, effectiveness for all litigants.
+    b.  <u>Second</u>, to ensure fairness, affordability, timeliness, simplicity and, of course, effectiveness for all litigants.
 
 {:start="15"}
 15. Whilst our civil justice system is well-regarded, and I think for good reasons, as I explained earlier, we cannot afford to rest on our laurels. We have to respond ahead of the curve. We have to look ahead and respond now, and not just respond and change when change is forced upon us. 
@@ -107,9 +107,9 @@ b.  <u>Second</u>, to ensure fairness, affordability, timeliness, simplicity and
 {:start="17"}
 17. Let us look at a couple of jurisdictions around us over the last 10 to 20 years.
 
-a.  In the UK, fundamental changes to the civil justice system were made in 1999. These changes were essentially aimed at reducing litigation costs, simplifying procedural rules, and modernising technology and terminology. Unnecessary complexities in the litigation process were also removed. These reforms were really motivated by the growing costs, complexity and time-consuming nature of civil litigation in the UK. 
+    a.  In the UK, fundamental changes to the civil justice system were made in 1999. These changes were essentially aimed at reducing litigation costs, simplifying procedural rules, and modernising technology and terminology. Unnecessary complexities in the litigation process were also removed. These reforms were really motivated by the growing costs, complexity and time-consuming nature of civil litigation in the UK. 
 
-b.  In 2006, a review of the Civil Justice System was conducted in the Australian State of Victoria. The review similarly focused on reducing litigation costs, simplifying civil procedure rules, and also promoting key principles such as proportionality and efficiency. 
+    b.  In 2006, a review of the Civil Justice System was conducted in the Australian State of Victoria. The review similarly focused on reducing litigation costs, simplifying civil procedure rules, and also promoting key principles such as proportionality and efficiency. 
 
 {:start="18"}
 18. While these reviews took place in different jurisdictions, the key motivations were similar – to modernise the dispute resolution system; to make it easier for litigants; and to reduce costs, and increase efficiency. 
@@ -121,20 +121,20 @@ b.  In 2006, a review of the Civil Justice System was conducted in the Australia
 20. Many disagreements can often be resolved amicably if parties come to the table, make serious attempts to understand each other’s position, and come to a compromise, sufficiently early. Our system must develop and encourage that as far as possible. It is undesirable for parties to expend time and money bringing a matter to court, without good reason. Conversely, litigants who may not be well-resourced, but have legitimate reasons to seek recourse through the courts, must have access and cannot be unduly disadvantaged. This ensures that access to justice and the rule of law continue to be the lodestar of our civil justice system. 
 
 {:start="21"}
-21. When evaluating the competitiveness of our civil justice system, we must also, in my view, look beyond traditional common law jurisdictions. In today’s inter-connected and globalised world, the importance of cross-border transactions is quite self-evident. All of you deal to a greater or lesser extent in cross-border transactions. Many of our key trading partners – China, the European Union, and Taiwan just to name a few – are civil law jurisdictions. To give you one further data point: In 2020, the value of our mechandise trade with China alone was $136.2 billion, almost 15 percent of total mechandise trade. 
+21. When evaluating the competitiveness of our civil justice system, we must also, in my view, look beyond traditional common law jurisdictions. In today’s inter-connected and globalised world, the importance of cross-border transactions is quite self-evident. All of you deal to a greater or lesser extent in cross-border transactions. Many of our key trading partners – China, the European Union, and Taiwan just to name a few – are civil law jurisdictions. To give you one further data point: In 2020, the value of our mechandise trade with China alone was $136.2 billion, almost 15 percent of total mechandise trade.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 {:start="22"}
 22. It is imperative that parties in other jurisdictions perceive, and also experience first-hand, the efficiency and accessibility of Singapore’s civil justice system in dealing with cross-border trade. In other words, you have a transacting party from Singapore, which is a common law jurisdiction, increasingly transacting with a civil law jurisdiction partners. We want to ensure that there is no disadvantage to Singapore, as far as the choice of jurisdiction is concerned, and the choice of law.
 
 {:start="23"}
-23. In 2016, Chief Justice Menon highlighted that the Supreme Court had, for more than a decade, successfully disposed of at least 85% of all writs filed within 18 months of filing. 
+23. In 2016, Chief Justice Menon highlighted that the Supreme Court had, for more than a decade, successfully disposed of at least 85% of all writs filed within 18 months of filing.<sup><a href="#fn2" id="ref2">2</a></sup>
 
 {:start="24"}
 24. How do we compare with other jurisdictions, including the civil law jurisdictions? 
  
-a.  In France, it generally takes about 12 to 18 months from the start of the action, to the issuance of a decision. Appellate proceedings before the Court of Appeal take about 18 months. 
+    a.  In France, it generally takes about 12 to 18 months from the start of the action, to the issuance of a decision<sup><a href="#fn3" id="ref3">3</a></sup>. Appellate proceedings before the Court of Appeal take about 18 months.<sup><a href="#fn4" id="ref4">4</a></sup>
 
-b.  In Germany, proceedings at the Federal Supreme Court take about 12 to 18 months, in a similar vein. 
+    b.  In Germany, proceedings at the Federal Supreme Court take about 12 to 18 months, in a similar vein.<sup><a href="#fn5" id="ref5">5</a></sup>
 
 {:start="25"}
 25. We have done well. We can regard ourselves as being at the end of the spectrum where efficiency, speed, timeliness, have been the calling card and hallmark of our civil justice system. 
@@ -150,13 +150,13 @@ b.  In Germany, proceedings at the Federal Supreme Court take about 12 to 18 mon
 {:start="28"}
 28. At the time, I had shared the rationale for the reforms, outlined the modifications that we were considering to four proposals, after considering feedback from the Bar. These were: 
 
-a.  The exchange of Affidavits of Evidence in Chief (AEICs) before discovery
+    a.  The exchange of Affidavits of Evidence in Chief (AEICs) before discovery
 
-b.  Single omnibus interlocutory application
+    b.  Single omnibus interlocutory application
 
-c.  Scope of discovery and ambit of what must be produced
+    c.  Scope of discovery and ambit of what must be produced
 
-d.  Single joint expert
+    d.  Single joint expert
 
 {:start="29"}
 29. I must say that the past 18 to 20 months or so that we have spent on this have been an iterative process. We developed the proposals, involving the joint efforts of the Supreme Court, the Bar and the Ministry, and had very proactive discussions with many members of the Bar. These efforts, in my view, serve as a stellar examples of how key stakeholders can come together, offering different viewpoints and anecdotes, to shape the system that we will need to formulate to tackle tomorrow’s challenges, by updating our civil justice system so that it remains fair, efficient and well-regarded in the years ahead. 
@@ -176,58 +176,58 @@ d.  Single joint expert
 {:start="34"}
 34. The <u>first</u> is the single application pending trial. 
 
-a.  I had spoken about this two years ago, and explained the rationale of the proposal, and how we had envisioned it to work. 
+    a.  I had spoken about this two years ago, and explained the rationale of the proposal, and how we had envisioned it to work. 
 
-b.  We had received feedback that some interlocutory matters are inherently incompatible with each other as they do arise at different stages of proceedings. If you look at the writ for example, as a defendant’s counsel, and you take the view that it is inherently flawed, and you want to strike out the writ altogether, you do not need to wait until a single application, or you do not want to wait until a single application, where you combine it with a whole series of other interlocutory reliefs.
+    b.  We had received feedback that some interlocutory matters are inherently incompatible with each other as they do arise at different stages of proceedings. If you look at the writ for example, as a defendant’s counsel, and you take the view that it is inherently flawed, and you want to strike out the writ altogether, you do not need to wait until a single application, or you do not want to wait until a single application, where you combine it with a whole series of other interlocutory reliefs.
 
-c.  We will make amendments to exclude applications such as applications for summary judgment and the striking out of the whole action/defence in recognition that some applications should really be filed early before the single application is required to be filed.
+    c.  We will make amendments to exclude applications such as applications for summary judgment and the striking out of the whole action/defence in recognition that some applications should really be filed early before the single application is required to be filed.
 
 {:start="35"}
 35. <u>Second</u>, let me say something about the production of documents in discovery.
 
-a.  There is an initial obligation to produce documents, as you know from the framework of the rules that are being proposed. 
+    a.  There is an initial obligation to produce documents, as you know from the framework of the rules that are being proposed. 
 
-b.  While there was significant support from the Bar for the proposal, there were also some concerns regarding the question of whether adverse documents ought to be disclosed upfront. The worry was that we would see a surge in specific discovery applications to obtain adverse documents (that are currently obtained as of right), and that adverse documents would then be concealed under the new rules, and you might then have a lot of satellite applications and litigation around disclosure of adverse documents. 
+    b.  While there was significant support from the Bar for the proposal, there were also some concerns regarding the question of whether adverse documents ought to be disclosed upfront. The worry was that we would see a surge in specific discovery applications to obtain adverse documents (that are currently obtained as of right), and that adverse documents would then be concealed under the new rules, and you might then have a lot of satellite applications and litigation around disclosure of adverse documents. 
 
-c.  We considered these views very carefully and we took them on board. Parties’ initial obligation to produce documents will therefore be amended to include all known adverse documents. This includes documents that a party ought reasonably to know are adverse to his case. By the time discovery is made, in the context of both plaintiff and the defendant, the framework of the case and the issues in play, parties will know what adverse documents are. I think it would not be difficult for parties to reasonably know what adverse documents are, i.e. what you ought to know is adverse to your case and what these documents will be.
+    c.  We considered these views very carefully and we took them on board. Parties’ initial obligation to produce documents will therefore be amended to include all known adverse documents. This includes documents that a party ought reasonably to know are adverse to his case. By the time discovery is made, in the context of both plaintiff and the defendant, the framework of the case and the issues in play, parties will know what adverse documents are. I think it would not be difficult for parties to reasonably know what adverse documents are, i.e. what you ought to know is adverse to your case and what these documents will be.
+ 
+    d.  We will also revise the proposed rule which prohibits the production of any document which is part of a party’s private or internal correspondence, except in a special case. We have taken on board the Bar’s concerns that the discovery process could be subverted by parties simply labelling their documents or communications as “confidential”. 
 
-d.  We will also revise the proposed rule which prohibits the production of any document which is part of a party’s private or internal correspondence, except in a special case. We have taken on board the Bar’s concerns that the discovery process could be subverted by parties simply labelling their documents or communications as “confidential”. 
-
-e.  We do not think that it would be efficient to have a rule that might promote satellite litigation, as I said, around these concepts. Thus, the draft Rules will be revised to state that the Court shall not order production of private or internal correspondence except in a special case, or if such correspondence are known adverse documents – the latter exception being the new one.
+    e.  We do not think that it would be efficient to have a rule that might promote satellite litigation, as I said, around these concepts. Thus, the draft Rules will be revised to state that the Court shall not order production of private or internal correspondence except in a special case, or if such correspondence are known adverse documents – the latter exception being the new one.
 
 {:start="36"}
 36. <u>Third</u>, let me touch on alternative dispute resolution (ADR), and the Court’s power to order parties to attempt to resolve the dispute by amicable resolution: 
 
-a.  The Bar did raise concerns with the court’s power to order parties to attend ADR, in light of anecdotal evidence and their own experiences. I think different lawyers will come across different examples and have different experiences. There was anecdotal evidence as to the viability of mandatory mediation, and the unsuitability of ADR in certain cases, such as cases which might very quickly or urgently require interlocutory relief. 
+    a.  The Bar did raise concerns with the court’s power to order parties to attend ADR, in light of anecdotal evidence and their own experiences. I think different lawyers will come across different examples and have different experiences. There was anecdotal evidence as to the viability of mandatory mediation, and the unsuitability of ADR in certain cases, such as cases which might very quickly or urgently require interlocutory relief. 
 
-b.  It will be clarified that in deciding whether to exercise this power, the Court will take into account all relevant circumstances, including whether any of the parties have refused to attempt to resolve the dispute by amicable resolution.
+    b.  It will be clarified that in deciding whether to exercise this power, the Court will take into account all relevant circumstances, including whether any of the parties have refused to attempt to resolve the dispute by amicable resolution.
 
-c.  Litigation, I think we all know, is often a zero-sum game that resolves disputes at the cost of long-term relationships. Yet maintaining one’s relationships, especially commercial relationships built up over many years, is sometimes more important and valuable than having one’s legal rights strictly adjudicated and vindicated in court.
+    c.  Litigation, I think we all know, is often a zero-sum game that resolves disputes at the cost of long-term relationships. Yet maintaining one’s relationships, especially commercial relationships built up over many years, is sometimes more important and valuable than having one’s legal rights strictly adjudicated and vindicated in court.
 
-d.  ADR promotes upstream communication and compromise, and that can resolve differences and preserve the relationship between parties at the same time. 
+    d.  ADR promotes upstream communication and compromise, and that can resolve differences and preserve the relationship between parties at the same time. 
 
-e.  So the proposed rule is not targeted at cases where amicable resolution might not be effective or where the commencement of the litigation is really to seek interlocutory relief on an urgent basis. It does not oblige parties to make an offer of amicable resolution in all circumstances. Rather, it is generally intended to apply where parties have failed to properly consider amicable resolution, where reasonable, of the dispute, or commenced litigation over minor matters that could be settled outside of court. 
+    e.  So the proposed rule is not targeted at cases where amicable resolution might not be effective or where the commencement of the litigation is really to seek interlocutory relief on an urgent basis. It does not oblige parties to make an offer of amicable resolution in all circumstances. Rather, it is generally intended to apply where parties have failed to properly consider amicable resolution, where reasonable, of the dispute, or commenced litigation over minor matters that could be settled outside of court. 
 
-f.  I think that position is really no different from where we are today. If you pursue a case that in all circumstances would be better off resolved out of Court by ADR, and you refuse to do so without good reason, there are consequences. That's the rule today anyway.
+    f.  I think that position is really no different from where we are today. If you pursue a case that in all circumstances would be better off resolved out of Court by ADR, and you refuse to do so without good reason, there are consequences. That's the rule today anyway.
 
 {:start="37"}
 37. <u>Lastly</u>, let me touch briefly on party and party costs.  
 
-a.  The Civil Justice Commission had proposed that a quantum-based scale fixing of recoverable Party-and-Party costs be introduced for liquidated and quantifiable claims, to introduce certainty and transparency in legal costs. 
+    a.  The Civil Justice Commission had proposed that a quantum-based scale fixing of recoverable Party-and-Party costs be introduced for liquidated and quantifiable claims, to introduce certainty and transparency in legal costs. 
 
-b.  I think we all understand why that is so. If you look at the cost schedule upfront and you can predict the likely fees to be incurred, this will enhance access to justice overall. Those were the motivations and I think there were very good reasons behind it.
+    b.  I think we all understand why that is so. If you look at the cost schedule upfront and you can predict the likely fees to be incurred, this will enhance access to justice overall. Those were the motivations and I think there were very good reasons behind it.
 
-c.  The Bar raised some concerns with the proposal, for reasons including:
+    c.  The Bar raised some concerns with the proposal, for reasons including:
 
-i.  <u>First</u>, the potential disproportionate recovery of costs in comparison to the cost of work done by parties. I think that is something that would resonate with quite a number of lawyers here.
+    i.  <u>First</u>, the potential disproportionate recovery of costs in comparison to the cost of work done by parties. I think that is something that would resonate with quite a number of lawyers here.
 
-ii. <u>Second</u>, that the proposed scale may not be reflective of actual costs under the revamped system.
+    ii. <u>Second</u>, that the proposed scale may not be reflective of actual costs under the revamped system.
 
-d.  As many of you know, we reached out through Law Society, and, in other cases, directly to practitioners to understand the current thinking of different-sized firms and practitioners from different practice areas. Having been in practice myself, I do think that there is merit in studying this further. There were valid points made. 
+    d.  As many of you know, we reached out through Law Society, and, in other cases, directly to practitioners to understand the current thinking of different-sized firms and practitioners from different practice areas. Having been in practice myself, I do think that there is merit in studying this further. There were valid points made. 
+  
+    e.  Ultimately, as a profession, what I discerned from these consultations, was that many of you do share the same fundamental concerns as my Ministry. We all want to ensure that our system is fair and is accessible. All of us as lawyers want to ensure that the litigants, especially those who are less advantaged, will be able to access our civil justice system. At the same time we need to ensure that there is fairness in terms of remuneration and costs. That these scales accurately reflect the cost structures that you have.
 
-e.  Ultimately, as a profession, what I discerned from these consultations, was that many of you do share the same fundamental concerns as my Ministry. We all want to ensure that our system is fair and is accessible. All of us as lawyers want to ensure that the litigants, especially those who are less advantaged, will be able to access our civil justice system. At the same time we need to ensure that there is fairness in terms of remuneration and costs. That these scales accurately reflect the cost structures that you have.
-
-f.  As a result of this, we have decided to let the new Rules take its course and then study the issue further. We will consult further with the bar, with all of you, to see how these new rules, when they are rolled out, how they impact your practice, what changes in terms of timing and efficiency they might make, which is the intention, and then circle back to the question of the costs. 
+    f.  As a result of this, we have decided to let the new Rules take its course and then study the issue further. We will consult further with the bar, with all of you, to see how these new rules, when they are rolled out, how they impact your practice, what changes in terms of timing and efficiency they might make, which is the intention, and then circle back to the question of the costs. 
 
 <u>Expansion of the Scope of Remote, Paper and Asynchronous Hearings</u>
 
@@ -237,11 +237,11 @@ f.  As a result of this, we have decided to let the new Rules take its course an
 {:start="39"}
 39. The amendments will seek to expand the scope of remote, paper and asynchronous hearings. Let me explain this a little more.
 
-a.  Certain proceedings can take place with lawyers and Judges communicating at different times through electronic means without even needing to find a common time to meet, whether in-person or via remotely.
+    a.  Certain proceedings can take place with lawyers and Judges communicating at different times through electronic means without even needing to find a common time to meet, whether in-person or via remotely.
 
-b.  We will of course, ensure and clarify that judges or judicial officers can exercise their powers through electronic means, from any location. 
+    b.  We will of course, ensure and clarify that judges or judicial officers can exercise their powers through electronic means, from any location. 
 
-c.  Accused persons and witnesses will also be allowed to testify remotely.
+    c.  Accused persons and witnesses will also be allowed to testify remotely.
 
 {:start="40"}
 40. In 2019, I said that the integration of technology into various aspects of lawyering was really upon us. Little did I think that two years later, it would be a vision that has really come true. 
@@ -258,11 +258,11 @@ c.  Accused persons and witnesses will also be allowed to testify remotely.
 {:start="44"}
 44. While there were concerns that remote hearings could exacerbate the access to justice gap for those who are less technologically equipped or savvy, assistance was made available for such individuals, who are usually litigants-in-person:
 
-a.  Assistance via telephone, physical counter services in person, online live-chat, and also e-communications were all made available.
+    a.  Assistance via telephone, physical counter services in person, online live-chat, and also e-communications were all made available.
 
-b.  Litigants-in-person can also ask for their matters to be heard physically, if they don’t have the resources, or if they otherwise felt that they cannot cope fairly with remote attendance.  
+    b.  Litigants-in-person can also ask for their matters to be heard physically, if they don’t have the resources, or if they otherwise felt that they cannot cope fairly with remote attendance.  
 
-c.  Alternatively, the Family Justice Courts and State Courts have set up dedicated video-conferencing rooms for certain categories of cases to cater to litigants who lack the means or knowledge to connect themselves to video-conferencing facilities.
+    c.  Alternatively, the Family Justice Courts and State Courts have set up dedicated video-conferencing rooms for certain categories of cases to cater to litigants who lack the means or knowledge to connect themselves to video-conferencing facilities.
 
 {:start="45"}
 45. There were also concerns that certain procedures are still better off when conducted “face-to-face”, such as cross-examination of witnesses. 
@@ -296,21 +296,21 @@ c.  Alternatively, the Family Justice Courts and State Courts have set up dedica
 {:start="54"}
 54. What I also learned from speaking with the many luminaries at the Roundtable, was that there is really no “one-size fits all” solution for this. Each jurisdiction must look at their own Bar and civil justice system, and work out what the best solution is. The regulatory models, adopted by different jurisdictions around the world towards third party funding (TPF), are indeed varied. For instance:
 
-a.  In some jurisdictions with civil law traditions, TPF is fairly unregulated, as traditional common law objections to maintenance and champerty occupy varying significance in those jurisdictions. In other words, the relevance, significance and impact of maintenance and champerty will be uneven across these civil law jurisdictions.
+    a.  In some jurisdictions with civil law traditions, TPF is fairly unregulated, as traditional common law objections to maintenance and champerty occupy varying significance in those jurisdictions. In other words, the relevance, significance and impact of maintenance and champerty will be uneven across these civil law jurisdictions.
+ 
+    b.  England and Wales rely on self-regulation by an independent body of funders. That is a different model.
 
-b.  England and Wales rely on self-regulation by an independent body of funders. That is a different model.
+    c.  Australia is considering enhanced regulation and oversight over third party funders, focusing on the funders themselves.
 
-c.  Australia is considering enhanced regulation and oversight over third party funders, focusing on the funders themselves.
+    d.  In Singapore, in 2017, we introduced a framework for TPF for international arbitration proceedings. We started with that, on the basis that we would try it out with a narrower scope and see what the experiences would tell us. We did so only after many consultations with the legal industry and other stakeholders. 
 
-d.  In Singapore, in 2017, we introduced a framework for TPF for international arbitration proceedings. We started with that, on the basis that we would try it out with a narrower scope and see what the experiences would tell us. We did so only after many consultations with the legal industry and other stakeholders. 
+    e.  The upshot of all of this was that we adopted a “light touch” regulatory approach. 
 
-e.  The upshot of all of this was that we adopted a “light touch” regulatory approach. 
+    i.  Our framework has disclosure as its central tenet and at the heart of what we do, giving precedence to party autonomy and flexibility. Recognising that, at the end of the day, the choice to approach a third-party funder and the relationship that a litigant would have with a third-party funder has to be something that is driven by party autonomy. It is a choice that they make.
 
-i.  Our framework has disclosure as its central tenet and at the heart of what we do, giving precedence to party autonomy and flexibility. Recognising that, at the end of the day, the choice to approach a third-party funder and the relationship that a litigant would have with a third-party funder has to be something that is driven by party autonomy. It is a choice that they make.
-
-ii. Our legislative regulation is supplemented also by soft laws promulgated by relevant institutions in Singapore, such as the Law Society’s Guidance Note. 
-
-iii.  Two to three years have passed since we put the framework in place. We have assessed that this does strike the right balance with the need for regulation, to protect litigants and also preserve the integrity of the justice system.
+    ii. Our legislative regulation is supplemented also by soft laws promulgated by relevant institutions in Singapore, such as the Law Society’s Guidance Note. 
+ 
+    iii.  Two to three years have passed since we put the framework in place. We have assessed that this does strike the right balance with the need for regulation, to protect litigants and also preserve the integrity of the justice system.
 
 iv. As Singapore is an international dispute resolution hub and we want international users to come into Singapore, many stakeholders who use the system may not be within our jurisdiction. We have therefore chosen to take an approach that is both effective in ensuring that our paramount considerations are looked after, and sufficiently flexible and adaptable.
 
@@ -320,11 +320,11 @@ iv. As Singapore is an international dispute resolution hub and we want internat
 {:start="56"}
 56. We will continue to implement reforms to the litigation funding landscape, to strengthen our legal services and also serve the public interest. Let me highlight a few immediate initiatives.
 
-a.  <u>First</u>, we are extending the TPF framework to domestic arbitration proceedings, to certain proceedings in the Singapore International Commercial Court (SICC), and also to related mediation proceedings.
+    a.  <u>First</u>, we are extending the TPF framework to domestic arbitration proceedings, to certain proceedings in the Singapore International Commercial Court (SICC), and also to related mediation proceedings.
 
-b.  <u>Second</u>, we are currently working to allow CFAs in the same categories of proceedings as the extended TPF proceedings. We will consider allow CFAs in the same three categories that I mentioned.
+    b.  <u>Second</u>, we are currently working to allow CFAs in the same categories of proceedings as the extended TPF proceedings. We will consider allow CFAs in the same three categories that I mentioned.
 
-c.  <u>Third</u>, we are concurrently studying how CFAs may be allowed for certain categories of domestic proceedings. In that regard, considerations in domestic proceedings are quite different from the international arbitration proceedings. They merit a different kind of approach and warrant a separate study. To give you an example, some litigants in domestic proceedings are more financially vulnerable and less sophisticated than those in the international, commercial arena. More safeguards might be warranted in those cases.
+    c.  <u>Third</u>, we are concurrently studying how CFAs may be allowed for certain categories of domestic proceedings. In that regard, considerations in domestic proceedings are quite different from the international arbitration proceedings. They merit a different kind of approach and warrant a separate study. To give you an example, some litigants in domestic proceedings are more financially vulnerable and less sophisticated than those in the international, commercial arena. More safeguards might be warranted in those cases.
 
 {:start="57"}
 57. While we have historically been more conservative in the area of litigation funding, we are taking incremental, considered and judicious steps and looking at the landscape holistically. We are looking at what we can do, not just at the end of the spectrum with international cases, but also at the other end of the spectrum with domestic cases, and the impact such funding arrangements might have on access to justice.
@@ -332,11 +332,11 @@ c.  <u>Third</u>, we are concurrently studying how CFAs may be allowed for certa
 {:start="58"}
 58. As a first step, it is hoped that these reforms will:
 
-a.  Level the playing field for Singapore lawyers vis-à-vis foreign lawyers. Many of you come up against foreign and international counsel. They might well operate on different rules. We want to ensure that, within the considerations that I have outlined, that the playing field as far as your role in these cases is concerned, can be levelled.
+    a.  Level the playing field for Singapore lawyers vis-à-vis foreign lawyers. Many of you come up against foreign and international counsel. They might well operate on different rules. We want to ensure that, within the considerations that I have outlined, that the playing field as far as your role in these cases is concerned, can be levelled.
 
-b.  Meet demand for additional, alternative funding arrangements by commercial litigants. Our sense is that there has been a demand.
+    b.  Meet demand for additional, alternative funding arrangements by commercial litigants. Our sense is that there has been a demand.
 
-c.  Allow litigants, including businesses with financial difficulties, who might otherwise have a meritorious claim, to pursue them. 
+    c.  Allow litigants, including businesses with financial difficulties, who might otherwise have a meritorious claim, to pursue them. 
 
 {:start="59"}
 59. It is important, in my view, for lawyers and business to understand the opportunities for litigation funding to assist in times of economic uncertainty. We will continue with our dialogues and engagements with the relevant stakeholders, including members of the Bar, on these reforms.
@@ -361,18 +361,18 @@ c.  Allow litigants, including businesses with financial difficulties, who might
 {:start="65"}
 65. <u>Second</u>, long-term trends that predated the pandemic persist. In other words, these are trends that existed even before the disruption of the pandemic.
 
-a.  There are cost pressures on the client side. I think all of you running a business and looking at the bottom line have that experience. These pressures have been magnified by the economic fallout from the COVID-19 pandemic, particularly in badly affected industries.
+    a.  There are cost pressures on the client side. I think all of you running a business and looking at the bottom line have that experience. These pressures have been magnified by the economic fallout from the COVID-19 pandemic, particularly in badly affected industries.
 
-b.  Clients are also more involved, and they want to be involved, in their litigation process. They want to be updated on the fly quickly. They won't wait until you come back from a pre-trial conference or hearing to do a letter and explain what the outcome is. So, document sharing and matter updates will be increasingly taxing on time, but I think will be increasingly important to keep that touchpoint with clients. 
+    b.  Clients are also more involved, and they want to be involved, in their litigation process. They want to be updated on the fly quickly. They won't wait until you come back from a pre-trial conference or hearing to do a letter and explain what the outcome is. So, document sharing and matter updates will be increasingly taxing on time, but I think will be increasingly important to keep that touchpoint with clients. 
 
 {:start="66"}
 66. <u>Third</u>, I think we all agree there is always room to optimise the way matters are managed, and to hone existing litigation strategies. 
+ 
+    a.  Basic case management is sometimes overlooked, in the hustle and bustle of practice, especially when we have to meet tight deadlines.
 
-a.  Basic case management is sometimes overlooked, in the hustle and bustle of practice, especially when we have to meet tight deadlines.
+    b.  Ensuring the right person is on the job and having updated checklists and calendars minimises the scope for human error.
 
-b.  Ensuring the right person is on the job and having updated checklists and calendars minimises the scope for human error.
-
-c.  On the more cutting-edge end of the spectrum, moving away from just case management, litigation analytics technology has been on the rise. International litigation outfits like Holman Fenwick (HFW) and Herbert Smith Freehills (HSF) have been partnering with tech firms to provide insights. Legaltech giants like Lexis Nexis are also expanding their litigation analytics offerings. I think soon, these tools, will soon become a mainstay and will help, not replace, litigation lawyers in their craft.
+    c.  On the more cutting-edge end of the spectrum, moving away from just case management, litigation analytics technology has been on the rise. International litigation outfits like Holman Fenwick (HFW) and Herbert Smith Freehills (HSF) have been partnering with tech firms to provide insights. Legaltech giants like Lexis Nexis are also expanding their litigation analytics offerings. I think soon, these tools, will soon become a mainstay and will help, not replace, litigation lawyers in their craft.
 
 {:start="67"}
 67. Law practices that can harness technology, take advantage of it and use it well in their own practices will benefit greatly. 
@@ -407,15 +407,15 @@ c.  On the more cutting-edge end of the spectrum, moving away from just case man
 {:start="77"}
 77. The Platform is, first and foremost, a matters management tool.
 
-a.  Lawyers can start a new matter within a matter of minutes and lay out the roadmap of how they intend to litigate a case.
+    a.  Lawyers can start a new matter within a matter of minutes and lay out the roadmap of how they intend to litigate a case.
 
-b.  Firms can create “matter templates” that can be utilised when a new matter arises. It sounds so archaic to have a matter template. This was one of the first things I learned when I was a pupil 25 years ago. But even in a modern setting, I think there is value.
+    b.  Firms can create “matter templates” that can be utilised when a new matter arises. It sounds so archaic to have a matter template. This was one of the first things I learned when I was a pupil 25 years ago. But even in a modern setting, I think there is value.
 
-i.  For example, an SIAC arbitration template might provide a roadmap of steps to be taken, integrated with the 2016 SIAC Rules. It could prompt you when something is due, when you need to file a case and when you need to respond to the arbitrators.
+    i.  For example, an SIAC arbitration template might provide a roadmap of steps to be taken, integrated with the 2016 SIAC Rules. It could prompt you when something is due, when you need to file a case and when you need to respond to the arbitrators.
 
-ii. You can create a template for contractual debt claims, that provides a roadmap of steps that you wish to curate and contextualise to your own practice, such as laying out procedural requirements as tasks and checklists to fulfil.
+    ii. You can create a template for contractual debt claims, that provides a roadmap of steps that you wish to curate and contextualise to your own practice, such as laying out procedural requirements as tasks and checklists to fulfil.
 
-iii.  I must caution to add that there is no substitute for the White Book, that continues to be the go-to resource. But these technology platforms and matters management templates provide a basis for reminders and a checklist for you to see what the road ahead will look like.
+    iii.  I must caution to add that there is no substitute for the White Book, that continues to be the go-to resource. But these technology platforms and matters management templates provide a basis for reminders and a checklist for you to see what the road ahead will look like.
 
 c.  Tasks can be assigned to specific individuals in the firm, so responsibilities and deadline are clear from the outset using this case management tool.
 
@@ -428,9 +428,9 @@ c.  Tasks can be assigned to specific individuals in the firm, so responsibiliti
 {:start="80"}
 80. The intention is for the platform to also serve as a place to correspond with your clients.
 
-a.  It will consolidate your email and other forms of electronic communications, but only if you choose to, and if you provide the necessary permissions. At the end of the day, client confidentiality remains a paramount consideration.
+    a.  It will consolidate your email and other forms of electronic communications, but only if you choose to, and if you provide the necessary permissions. At the end of the day, client confidentiality remains a paramount consideration.
 
-b.  If you choose to link it up, you can connect your Zoom account, start video calls from within the Platform and have access to the facilities and the tools on the same platform. So while having your discussions with your clients, you may have documents with you, you can pull up your management roadmap and work out what it is that you need to be doing and what the deadlines might look like.
+    b.  If you choose to link it up, you can connect your Zoom account, start video calls from within the Platform and have access to the facilities and the tools on the same platform. So while having your discussions with your clients, you may have documents with you, you can pull up your management roadmap and work out what it is that you need to be doing and what the deadlines might look like.
 
 {:start="81"}
 81. Quite importantly, the Ministry views the Platform as a continuing co-development effort with industry. We cannot assume that this is going to be static. Technology waits for no one so we have to co-develop and keep having that discussion. This means that we will seek views from the industry on further long-term needs in terms of integrations and functionality to evolve the Platform based on SLPs’ needs.
@@ -461,11 +461,11 @@ b.  If you choose to link it up, you can connect your Zoom account, start video 
 {:start="89"}
 89. We will reap substantial benefits and put ourselves in a much stronger position than we are in today. 
 
-a.  A position where we can grow not just as a legal fraternity but as a society and an economy.
+    a.  A position where we can grow not just as a legal fraternity but as a society and an economy.
 
-b.  A position where we can compete with others across the globe for work, where we will be second-to-none as far as competition for legal services is concerned. 
+    b.  A position where we can compete with others across the globe for work, where we will be second-to-none as far as competition for legal services is concerned. 
 
-c.  A position from which we can create opportunities for our law firms and jobs for our lawyers, so that the Bar continues to be strengthened by law graduates who add value to the Bar. We must create space at the Bar for these graduates.
+    c.  A position from which we can create opportunities for our law firms and jobs for our lawyers, so that the Bar continues to be strengthened by law graduates who add value to the Bar. We must create space at the Bar for these graduates.
 
 {:start="90"}
 90. This task however, would not be possible without the support of all our stakeholders, and I wish to thank the Bar, the Bench, members of the academia, the various agencies, institutions, SAL etc, for working with us.
@@ -481,5 +481,12 @@ c.  A position from which we can create opportunities for our law firms and jobs
 
 {:start="94"}
 94. Thank you very much everyone and have a very good morning.
+
+<p><sup id="fn1">1. Department of Statistics. Mechandise Trade Performance with Major Trading Partners, 2020 (<a href="https://www.singstat.gov.sg/modules/infographics/singapore-international-trade" target="new">https://www.singstat.gov.sg/modules/infographics/singapore-international-trade</a>). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">2. Chief Justice Sundaresh Menon. “The Rule of Law and the SICC”. 10 January 2018 (<a href="https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf" target="new">https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf</a>). <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn1">3. Baker Mckenzie. Dispute Resolution Around the World: France. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en</a>). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<p><sup id="fn1">4. Laude Esquier Champey, France: Litigation & Dispute Resolution Laws and Regulations 2021 (<a href="https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france" target="new">https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france</a>). <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn1">5. Baker Mckenzie. Dispute Resolution Around the World: Germany. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en</a>). <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+
 
 <p class="right-side-updated">Last updated on 26 Apr 2021</p> 
