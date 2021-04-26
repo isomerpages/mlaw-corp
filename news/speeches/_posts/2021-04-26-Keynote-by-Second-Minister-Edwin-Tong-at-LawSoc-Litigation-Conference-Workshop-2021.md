@@ -38,9 +38,9 @@ Good morning.
 {:start="5"}
 5. Today, Singapore offers a robust business environment. It is a choice jurisdiction for dispute resolution and business investments:
 
-a.  The World Economic Forum placed Singapore 1st out of 141 countries in its 2019 Global Competitiveness Index in terms of the efficiency of the legal framework in settling disputes.
+   a.  The World Economic Forum placed Singapore 1st out of 141 countries in its 2019 Global Competitiveness Index in terms of the efficiency of the legal framework in settling disputes.
 
-b.  The World Justice Project in its Rule of Law Index 2020 ranked Singapore’s civil justice system as the top in Asia, and 6th out of 128 countries worldwide overall.
+   b.  The World Justice Project in its Rule of Law Index 2020 ranked Singapore’s civil justice system as the top in Asia, and 6th out of 128 countries worldwide overall.
 
 {:start="6"}
 
@@ -312,7 +312,7 @@ b.  The World Justice Project in its Rule of Law Index 2020 ranked Singapore’s
  
     iii.  Two to three years have passed since we put the framework in place. We have assessed that this does strike the right balance with the need for regulation, to protect litigants and also preserve the integrity of the justice system.
 
-iv. As Singapore is an international dispute resolution hub and we want international users to come into Singapore, many stakeholders who use the system may not be within our jurisdiction. We have therefore chosen to take an approach that is both effective in ensuring that our paramount considerations are looked after, and sufficiently flexible and adaptable.
+    iv. As Singapore is an international dispute resolution hub and we want international users to come into Singapore, many stakeholders who use the system may not be within our jurisdiction. We have therefore chosen to take an approach that is both effective in ensuring that our paramount considerations are looked after, and sufficiently flexible and adaptable.
 
 {:start="55"}
 55. Feedback received so far from the legal and arbitration communities, including many in the audience, the businesses who use them and funders who provide the funding, has been positive so far. Law practices gave feedback that the reforms have been useful and beneficial, and funders have seen an upturn in requests for funding in Singapore. There has also been support for Singapore’s regulatory framework and the approach that has been taken towards TPF.
@@ -483,10 +483,10 @@ c.  Tasks can be assigned to specific individuals in the firm, so responsibiliti
 94. Thank you very much everyone and have a very good morning.
 
 <p><sup id="fn1">1. Department of Statistics. Mechandise Trade Performance with Major Trading Partners, 2020 (<a href="https://www.singstat.gov.sg/modules/infographics/singapore-international-trade" target="new">https://www.singstat.gov.sg/modules/infographics/singapore-international-trade</a>). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
-<p><sup id="fn1">2. Chief Justice Sundaresh Menon. “The Rule of Law and the SICC”. 10 January 2018 (<a href="https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf" target="new">https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf</a>). <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
-<p><sup id="fn1">3. Baker Mckenzie. Dispute Resolution Around the World: France. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en</a>). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
-<p><sup id="fn1">4. Laude Esquier Champey, France: Litigation & Dispute Resolution Laws and Regulations 2021 (<a href="https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france" target="new">https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france</a>). <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
-<p><sup id="fn1">5. Baker Mckenzie. Dispute Resolution Around the World: Germany. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en</a>). <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Chief Justice Sundaresh Menon. “The Rule of Law and the SICC”. 10 January 2018 (<a href="https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf" target="new">https://www.sicc.gov.sg/docs/default-source/modules-document/news-and-article/b_58692c78-fc83-48e0-8da9-258928974ffc.pdf</a>). <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn3">3. Baker Mckenzie. Dispute Resolution Around the World: France. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_france_2011.pdf?la=en</a>). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+<p><sup id="fn4">4. Laude Esquier Champey, France: Litigation & Dispute Resolution Laws and Regulations 2021 (<a href="https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france" target="new">https://iclg.com/practice-areas/litigation-and-dispute-resolution-laws-and-regulations/france</a>). <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn5">5. Baker Mckenzie. Dispute Resolution Around the World: Germany. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en</a>). <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
 
 <p class="right-side-updated">Last updated on 26 Apr 2021</p> 
