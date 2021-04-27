@@ -1,11 +1,11 @@
 ---
-title: 'Keynote Address by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the Litigation Conference Workshop on 26 Apr 2021'
-date: 2021-04-26
-permalink: /news/speeches/2021-04-26-Keynote-by-Second-Minister-Edwin-Tong-at-LawSoc-Litigation-Conference-Workshop-2021
+title: 'Keynote Address by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the Litigation Conference Workshop on 22 Apr 2021'
+date: 2021-04-22
+permalink: /news/speeches/2021-04-22-Keynote-by-Second-Minister-Edwin-Tong-at-LawSoc-Litigation-Conference-Workshop-2021
 ---
 
 
-26 Apr 2021 Posted in [[Speeches](/news/speeches)]
+22 Apr 2021 Posted in [[Speeches](/news/speeches)]
 
 
 Mr Gregory Vijayendran SC, President of the Law Society of Singapore <br>
@@ -489,4 +489,4 @@ c.  Tasks can be assigned to specific individuals in the firm, so responsibiliti
 <p><sup id="fn5">5. Baker Mckenzie. Dispute Resolution Around the World: Germany. 2011. (<a href="https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en" target="new">https://www.bakermckenzie.com/-/media/files/insight/publications/2016/10/dratw/dratw_germany_2011.pdf?la=en</a>). <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
 
-<p class="right-side-updated">Last updated on 26 Apr 2021</p> 
+<p class="right-side-updated">Last updated on 22 Apr 2021</p> 
