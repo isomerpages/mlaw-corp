@@ -444,7 +444,7 @@ c.  Tasks can be assigned to specific individuals in the firm, so responsibiliti
 {:start="84"}
 84. I think it is ambitious and not something that we have embarked on before. But the experience of the pandemic in 2020 and what we have seen what other jurisdictions go through has given us the assurance that this really is the way to go. 
 
-{:start=85"}
+{:start="85"}
 85. I think lawyers do need to embrace technology and my Ministry will do what we can to give lawyers a boost and put you onto this platform with the least possible resistance. But, at the end of the day, it is something that you must want to do.
 
 **VI. Conclusion**
