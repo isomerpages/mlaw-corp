@@ -8,6 +8,8 @@ third_nav_title: '2. Rental Relief Framework for SMEs and NPOs'
 
 ### FAQs on Rental Relief Framework ###
 
+<u>Important Note</u>: The issuance of notices of cash grant under the Rental Relief Framework has concluded.
+
 <b><a href="#rental" id="refa">Rental Relief</a></b> 
  - <a href="#overview" id="ref1a">Overview - Coverage of relief and eligibility criteria</a>
  - <a href="#expect" id="ref1b">What landlords and tenants can expect and should do</a>
