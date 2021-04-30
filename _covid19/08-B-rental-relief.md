@@ -324,7 +324,7 @@ Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Own
 
 * Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
-<a name="q27">**27.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**</a><a href="#a27" title="Return to top">↩</a>
+<a name="q25">**25.	What happens if there are multiple SME tenant-occupiers during the period of rental relief?**</a><a href="#a25" title="Return to top">↩</a>
 
 *	If there are multiple SME tenant-occupiers during the period of rental relief, the share of the Rental Relief  (supported by Government assistance) and the Additional Rental Relief will be pro-rated based on the number of days of the tenancy within the period, as a proportion of the period, subject to the tenant-occupiers meeting the criteria for Additional Rental Relief. 
 
@@ -333,12 +333,12 @@ Owner A is required to provide rental waivers amount to $1,000 x 4 = $4,000. Own
 * Tenant occupiers may use the [online rental relief calculator](/files/RentalReliefCalculator-Updated.xlsx) to estimate the rental waivers they are eligible for. 
 
 
-<a name="q37">**28.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**</a><a href="#a28" title="Return to top">↩</a>
+<a name="q26">**26.	What happens if a landlord had passed on the Property Tax Rebate for Year 2020 to an earlier tenant who was not renting the property from Apr-Jul 2020 (for qualifying commercial properties) or Apr-May 2020 (for other non-residential properties)? Can this be used to offset the rental waivers to be provided to a subsequent tenant which is eligible for the rental waivers?**</a><a href="#a26" title="Return to top">↩</a>
 
 *	Generally, the Property Tax Rebate for Year 2020 that has been passed on or is obliged to be passed on by the property owner to earlier tenants in accordance with the relevant laws can be used to offset the rental waivers to be provided to eligible tenants. 
 
 
-<a name="q29">**29.	If the property ownership changes before IRAS issues the notice of cash grant, will the previous or new owner receive the notice? Assuming the previous owner was the landlord of the eligible tenant during the relief period, should the previous or new owner bear the rental waivers?**</a><a href="#a29" title="Return to top">↩</a>
+<a name="q27">**27.	If the property ownership changes before IRAS issues the notice of cash grant, will the previous or new owner receive the notice? Assuming the previous owner was the landlord of the eligible tenant during the relief period, should the previous or new owner bear the rental waivers?**</a><a href="#a29" title="Return to top">↩</a>
 
 *	IRAS will issue the notice of cash grant to the prevailing owner at the time of issuance. If the property transfer was completed prior to the notice issuance, the notice will be sent to the new owner. Once the notice is received by the new owner, the rental of the eligible tenant will be treated as waived. 
 
