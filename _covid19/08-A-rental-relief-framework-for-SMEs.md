@@ -8,6 +8,8 @@ third_nav_title: '2. Rental Relief Framework for SMEs and NPOs'
 
 ### Introduction ###
 
+<u>Important Note</u>: The issuance of notices of cash grant under the Rental Relief Framework has concluded.
+
 The [COVID-19 (Temporary Measures) (Amendment) Act (“Act”)](https://sso.agc.gov.sg/Acts-Supp/29-2020/Published/20200618?DocDate=20200618){:target="_blank"} that was passed in Parliament on 5 June 2020 provides a rental relief framework for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). This rental relief framework under Part 2A of the Act and the [COVID-19 (Temporary Measures) (Rental and Related Measures) Regulations 2020 (“Regulations”)](https://sso.agc.gov.sg/SL/COVID19TMA2020-S664-2020?DocDate=20200730){:target="_blank"} came into force on 31 July 2020. 
 
 The rental relief framework provides for mandated equitable co-sharing of rental obligations between the Government, landlords and tenants. This aims to help affected SMEs that need more time and support to recover from the impact of the COVID-19 pandemic. In the long term, landlords stand to benefit from the recovery of SME tenants, as this will ensure the continued viability of the rental and property market. The framework will also cover eligible NPO tenants.
