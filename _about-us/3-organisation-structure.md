@@ -17,4 +17,4 @@ Organisation Structure
   </a>
 </div>
 
-<p class="right-side-updated">Last updated on 7 May 2021 </p>
+<p class="right-side-updated">Last updated on 7 May 2021</p>
