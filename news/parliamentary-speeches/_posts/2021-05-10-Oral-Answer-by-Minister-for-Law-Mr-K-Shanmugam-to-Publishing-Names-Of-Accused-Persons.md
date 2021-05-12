@@ -19,6 +19,7 @@ To ask the Minister for Law (a) in what ways are press reports of ongoing trials
 1. Mr Deputy Speaker, the Ministry of Law has previously assessed whether the names of accused persons should not be published until they are convicted. In this, we looked at the practice in other jurisdictions. Broadly speaking, there are two possible approaches:  
 
    (a) The first approach leans in favour of protecting the identity of accused persons if and until they are convicted, with some rules to grant anonymity to accused 		persons in specific types of  cases. If you look at examples, you have:
+   
    <br>i. In the Republic of Ireland, accused persons charged with rape offences are granted anonymity until they are convicted, unless a judge orders otherwise.</br>
    <br>ii. In Switzerland, accused persons may be granted anonymity if the Court is satisfied that they could be exposed to serious danger to life and limb, or other serious prejudice.</br>
    <br>iii. In New Zealand and Australia, where you have jury trials, the Court may prohibit disclosure of an accused person’s identity if it is satisfied that such a disclosure could create a serious risk of prejudicing a fair trial.</br>
