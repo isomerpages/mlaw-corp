@@ -19,12 +19,9 @@ To ask the Minister for Law (a) in what ways are press reports of ongoing trials
 1. Mr Deputy Speaker, the Ministry of Law has previously assessed whether the names of accused persons should not be published until they are convicted. In this, we looked at the practice in other jurisdictions. Broadly speaking, there are two possible approaches:  
 
    (a) The first approach leans in favour of protecting the identity of accused persons if and until they are convicted, with some rules to grant anonymity to accused 		persons in specific types of  cases. If you look at examples, you have:
-   
-   <br>i. In the Republic of Ireland, accused persons charged with rape offences are granted anonymity until they are convicted, unless a judge orders otherwise.
-   
-   <br>ii. In Switzerland, accused persons may be granted anonymity if the Court is satisfied that they could be exposed to serious danger to life and limb, or other serious prejudice.
-   
-   <br>iii. In New Zealand and Australia, where you have jury trials, the Court may prohibit disclosure of an accused person’s identity if it is satisfied that such a disclosure could create a serious risk of prejudicing a fair trial.
+       <br>i. In the Republic of Ireland, accused persons charged with rape offences are granted anonymity until they are convicted, unless a judge orders otherwise.
+       <br>ii. In Switzerland, accused persons may be granted anonymity if the Court is satisfied that they could be exposed to serious danger to life and limb, or other serious prejudice.
+       <br>iii. In New Zealand and Australia, where you have jury trials, the Court may prohibit disclosure of an accused person’s identity if it is satisfied that such a disclosure could create a serious risk of prejudicing a fair trial.
 
    (b) That is one approach. The second approach is to lean in favour of just having open court proceedings and all matters are out immediately, and there is no general power to the Courts to grant accused persons any sort of anonymity to protect their reputations. For example, in the United Kingdom, the general position is that legal proceedings should be held in public, and there are some rules and exceptions which restrict media reporting of some criminal cases, and which prohibit the disclosure of the identity of accused persons. But the primary aim of those provisions is to protect vulnerable witnesses and victims, and to avoid substantial risk of prejudicing proceedings, if such a risk exists. 
 
