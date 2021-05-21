@@ -9,6 +9,7 @@ permalink: /news/speeches/2021-05-19-Speech-by-K-Shanmugam-at-SPILF-Meeting-of-M
 19 May 2021 Posted in [[Speeches](/news/speeches)]
 
 Excellencies
+
 Ladies and Gentlemen
 
 {:start="1"}
@@ -29,7 +30,7 @@ Ladies and Gentlemen
 5.	Since we spoke last year, the pandemic has continued with varying levels of intensity – it has gone up, it has gone down, but everywhere in the world it continues to be impactful. I wanted to share with the audience, the additional legal measures we have taken.
 
    a.	For example, we have put in a Rental Relief Framework, which requires an equitable co-sharing of rental obligations between the Government, landlords and tenants. This is to help small and medium enterprises recover.
-
+   
    b. We’ve simplified the insolvency programme to provide for simpler, faster, lower-cost proceedings. Again, it helps small companies restructure their debts, or wind up the company, if they take the view that the business is no longer viable. 
    
    c. There is the Re-Align Framework, which provides a framework for parties to renegotiate contracts signed in pre-COVID days. The assumptions then would have been very different, regarding the business environment. 
