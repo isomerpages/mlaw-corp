@@ -55,24 +55,24 @@ Ladies and Gentlemen
 {:start="11"}
 11.	Let me also say something about the Alternative Dispute Resolution Institutions. Again, the institutions and systems have moved quickly.
 
-   a. Singapore International Arbitration Centre (SIAC) has published the SIAC Guide, titled Taking Your Arbitration Remote. This is to help users effectively navigate virtual hearings. 
-   
-   b.	The Singapore International Mediation Centre (SIMC) launched the SIMC COVID-19 Protocol, which provides for a swift and inexpensive route to resolve disputes during the COVID-19 period. Also, it has offered online mediation.
-   
-   c.	Maxwell Chambers, as some of you might know, is a fully integrated premises dedicated to holding arbitrations, and provides modern state-of-the-art facilities. It’s the first building in the world to do that. That has moved to provide support for virtual and hybrid hearings.  
+    a. Singapore International Arbitration Centre (SIAC) has published the SIAC Guide, titled Taking Your Arbitration Remote. This is to help users effectively navigate virtual hearings. 
+    
+    b.	The Singapore International Mediation Centre (SIMC) launched the SIMC COVID-19 Protocol, which provides for a swift and inexpensive route to resolve disputes during the COVID-19 period. Also, it has offered online mediation.
+    
+    c.	Maxwell Chambers, as some of you might know, is a fully integrated premises dedicated to holding arbitrations, and provides modern state-of-the-art facilities. It’s the first building in the world to do that. That has moved to provide support for virtual and hybrid hearings.  
     
 {:start="12"}
 12.	Arbitration – 
 
-   a. Recently, Queen Mary University of London and White & Case published their arbitration survey. It’s one of the surveys that is commonly referred to, for people to take reference from.  
-   
-   b.	We are happy to see that Singapore has been identified as one of the two most preferred seats of arbitration in the world, together with London, which of course is a traditional powerhouse. And, Singapore is among the top 4 most preferred seats of arbitration across all regions – Africa, South America, the Americas, and so on.
-   
-   c.	SIAC is also the 2nd most preferred arbitral institution in the world, after ICC. It is again among the top 4 arbitral institutions in all regions.
-   
-   d.	Shows that Singapore is accepted by parties around the world.
-   
-   e.	SIAC’s caseload has also increased substantially.
+    a. Recently, Queen Mary University of London and White & Case published their arbitration survey. It’s one of the surveys that is commonly referred to, for people to take reference from.  
+
+    b. We are happy to see that Singapore has been identified as one of the two most preferred seats of arbitration in the world, together with London, which of course is a traditional powerhouse. And, Singapore is among the top 4 most preferred seats of arbitration across all regions – Africa, South America, the Americas, and so on.
+    
+    c.	SIAC is also the 2nd most preferred arbitral institution in the world, after ICC. It is again among the top 4 arbitral institutions in all regions.
+    
+    d.	Shows that Singapore is accepted by parties around the world.
+    
+    e.	SIAC’s caseload has also increased substantially.
     
 {:start="13"}
 13.	Mediation –  
