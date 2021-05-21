@@ -27,12 +27,12 @@ Ladies and Gentlemen
 4.	The economic situation, and how the law comes in to handle it for the benefit of the society, is an important issue. 
 
 {:start="5"}
-5.Since we spoke last year, the pandemic has continued with varying levels of intensity – it has gone up, it has gone down, but everywhere in the world it continues to be impactful. I wanted to share with the audience, the additional legal measures we have taken.
+5.	Since we spoke last year, the pandemic has continued with varying levels of intensity – it has gone up, it has gone down, but everywhere in the world it continues to be impactful. I wanted to share with the audience, the additional legal measures we have taken.
 
     a.	For example, we have put in a Rental Relief Framework, which requires an equitable co-sharing of rental obligations between the Government, landlords and tenants. This is to help small and medium enterprises recover.
-   
+    
     b.	We’ve simplified the insolvency programme to provide for simpler, faster, lower-cost proceedings. Again, it helps small companies restructure their debts, or wind up the company, if they take the view that the business is no longer viable. 
-   
+    
     c.	There is the Re-Align Framework, which provides a framework for parties to renegotiate contracts signed in pre-COVID days. The assumptions then would have been very different, regarding the business environment. 
 
 {:start="6"}
@@ -64,8 +64,8 @@ Ladies and Gentlemen
 {:start="12"}
 12.	Arbitration – 
 
-    a.	Recently, Queen Mary University of London and White & Case published their arbitration survey. It’s one of the surveys that is commonly referred to, for people to take reference from.  
-
+    a. Recently, Queen Mary University of London and White & Case published their arbitration survey. It’s one of the surveys that is commonly referred to, for people to take reference from.  
+    
     b.	We are happy to see that Singapore has been identified as one of the two most preferred seats of arbitration in the world, together with London, which of course is a traditional powerhouse. And, Singapore is among the top 4 most preferred seats of arbitration across all regions – Africa, South America, the Americas, and so on.
     
     c.	SIAC is also the 2nd most preferred arbitral institution in the world, after ICC. It is again among the top 4 arbitral institutions in all regions.
