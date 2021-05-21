@@ -27,13 +27,13 @@ Ladies and Gentlemen
 4.	The economic situation, and how the law comes in to handle it for the benefit of the society, is an important issue. 
 
 {:start="5"}
-5.	Since we spoke last year, the pandemic has continued with varying levels of intensity – it has gone up, it has gone down, but everywhere in the world it continues to be impactful. I wanted to share with the audience, the additional legal measures we have taken.
+5.Since we spoke last year, the pandemic has continued with varying levels of intensity – it has gone up, it has gone down, but everywhere in the world it continues to be impactful. I wanted to share with the audience, the additional legal measures we have taken.
 
     a.	For example, we have put in a Rental Relief Framework, which requires an equitable co-sharing of rental obligations between the Government, landlords and tenants. This is to help small and medium enterprises recover.
    
-    b. We’ve simplified the insolvency programme to provide for simpler, faster, lower-cost proceedings. Again, it helps small companies restructure their debts, or wind up the company, if they take the view that the business is no longer viable. 
+    b.	We’ve simplified the insolvency programme to provide for simpler, faster, lower-cost proceedings. Again, it helps small companies restructure their debts, or wind up the company, if they take the view that the business is no longer viable. 
    
-    c. There is the Re-Align Framework, which provides a framework for parties to renegotiate contracts signed in pre-COVID days. The assumptions then would have been very different, regarding the business environment. 
+    c.	There is the Re-Align Framework, which provides a framework for parties to renegotiate contracts signed in pre-COVID days. The assumptions then would have been very different, regarding the business environment. 
 
 {:start="6"}
 6.	Because of these measures, we have been able to help mitigate the impact of COVID-19 on businesses together with other substantive economic measures. We are, on the whole, in Singapore, on trajectory for a stronger performance, compared with last year, like several other countries. But all of us need to remain watchful of further disruptions and possible setbacks to our activities, or a generally weaker global recovery, depending on the mutations and different strains that are coming out.
