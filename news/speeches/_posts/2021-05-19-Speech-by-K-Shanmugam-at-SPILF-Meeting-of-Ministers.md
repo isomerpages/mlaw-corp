@@ -75,20 +75,20 @@ Ladies and Gentlemen
     e.	SIAC’s caseload has also increased substantially.
     
 {:start="13"}
-13.	Mediation –  
-
-   a.	The SIMC also achieved record caseloads last year, despite the pandemic. Again, because they moved quickly to adopt to online mediations. 
-   
-   b.	One of the reasons SIMC has been successful is, it’s not only faster and more affordable, but more importantly, it allows businesses to preserve relationships.
-   
-   c.	Therefore, the Singapore Convention on Mediation was a significant development. With the Singapore Convention on Mediation, businesses can have greater assurance that mediation can be relied upon and enforced among ratifying countries to settle cross-border commercial disputes, without necessarily having to go for arbitration or litigation.
+13.	Mediation –
+  
+    a. The SIMC also achieved record caseloads last year, despite the pandemic. Again, because they moved quickly to adopt to online mediations. 
+    
+    b.	One of the reasons SIMC has been successful is, it’s not only faster and more affordable, but more importantly, it allows businesses to preserve relationships.
+    
+    c.	Therefore, the Singapore Convention on Mediation was a significant development. With the Singapore Convention on Mediation, businesses can have greater assurance that mediation can be relied upon and enforced among ratifying countries to settle cross-border commercial disputes, without necessarily having to go for arbitration or litigation.
 
 {:start="14"}
 14.	ADR mechanisms are not mutually exclusive.
 
-   a.	The Survey which I mentioned earlier, the Queen Mary survey: more respondents preferred to use arbitration in conjunction with other ADR methods, as opposed to using arbitration on a stand-alone basis. 
-   
-   b.	SIAC and SIMC therefore offer the Arb-Med-Arb Protocol where parties can try to settle via mediation. And if that fails, continue with arbitration – nothing to lose. And then, if necessary, go back to mediation again. 
+    a. The Survey which I mentioned earlier, the Queen Mary survey: more respondents preferred to use arbitration in conjunction with other ADR methods, as opposed to using arbitration on a stand-alone basis. 
+    
+    b.	SIAC and SIMC therefore offer the Arb-Med-Arb Protocol where parties can try to settle via mediation. And if that fails, continue with arbitration – nothing to lose. And then, if necessary, go back to mediation again. 
 
 **Conclusion**
 
@@ -98,16 +98,16 @@ Ladies and Gentlemen
 {:start="16"}
 16.	The fundamental approach to justice and rule of law remains the same:
 
-   a.	To put in place the right legal frameworks,
-   
-   b.	To ensure that the processes work.
+    a. To put in place the right legal frameworks,
+    
+    b.	To ensure that the processes work.
 
 {:start="17"}
 17.	I leave the audience with some questions:
 
-   a. How can we ensure that “digital forms of justice” continue to deliver high quality justice, which is fair, affordable and timely? 
-   
-   b. With increased cross-border transactions and disputes, is there a need to ensure that digital forms of justice, in different jurisdictions, are interoperable with one another? 
+    a. How can we ensure that “digital forms of justice” continue to deliver high quality justice, which is fair, affordable and timely? 
+    
+    b. With increased cross-border transactions and disputes, is there a need to ensure that digital forms of justice, in different jurisdictions, are interoperable with one another? 
 
 {:start="18"}
 18.	These are some of the questions that I think jurisdictions around the world have to start thinking about.
