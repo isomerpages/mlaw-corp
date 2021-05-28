@@ -7,7 +7,7 @@ breadcrumb: E-Services
 
 **E-Services** <br>
 
-E-Services for Insolvency Office, Public Trustee's Office, Registry of Moneylenders and Pawnbrokers will be undergoing maintenance from 28 May 2021, 23:00hrs to 29 May 2021, 08:00hrs and will not be available during this period. The Portals for Insolvent Persons, Creditors and PTIB are still available. We apologise for any inconvenience caused.<br>
+Selected MinLaw E-Services will be undergoing maintenance and will not be available from 28 May 2021, 23:00hrs to 29 May 2021, 08:00hrs. We apologise for any inconvenience caused.<br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
