@@ -31,8 +31,6 @@ links:
               external: true
             - title: 'Legal Industry Newsletters'
               url: /news/legal-industry-newsletters/
-            - title: 'Our Legal System'
-              url: /about-us/our-legal-system/
             - title: 'Others'
               url: /news/others/
             - title: 'Parliamentary Speeches'
@@ -86,13 +84,13 @@ links:
       false_collection: true
       url: /join-us/why-join-minlaw/
       sublinks:
-            - title: 'Why Join Minlaw'
+            - title: 'Why Join MinLaw'
               url: /join-us/why-join-minlaw/
             - title: 'Career Opportunities'
               url: /join-us/career-opportunities/
             - title: 'Meet Our Colleagues'
               url: /join-us/meet-our-colleagues/
-            - title: 'Minlaw Internship Programme'
+            - title: 'MinLaw Internship Programme'
               url: /join-us/minlaw-internship/
             - title: 'Meet Our Interns'
               url: /join-us/meet-our-interns/
