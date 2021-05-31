@@ -14,15 +14,37 @@ links:
               url: /about-us/our-legal-system/
             - title: 'What We Do'
               url: /about-us/what-we-do/
-            - title: 'Insight MinLaw'
-              url: 'https://insight.mlaw.gov.sg/'
-              external: true
             - title: 'Contact Us'
               url: /about-us/contact-us/
             - title: 'Useful Links'
               url: /about-us/useful-links/
     - title: News
-      resource_room: true
+      false_collection: true
+      url: /news/
+      sublinks:
+            - title: 'All'
+              url: /news/
+            - title: 'Announcements'
+              url: /news/announcements/
+            - title: 'Insight MinLaw'
+              url: 'https://insight.mlaw.gov.sg/'
+              external: true
+            - title: 'Legal Industry Newsletters'
+              url: /news/legal-industry-newsletters/
+            - title: 'Others'
+              url: /news/others/
+            - title: 'Parliamentary Speeches'
+              url: /news/parliamentary-speeches/
+            - title: 'Press Releases'
+              url: /news/press-releases/
+            - title: 'Public Consultations'
+              url: /news/public-consultations/               
+            - title: 'Replies'
+              url: /news/replies/
+            - title: 'Speeches'
+              url: /news/speeches/      
+            - title: 'Visits'
+              url: /news/visits/     
     - title: 'Law Practices/Lawyers'
       collection: law-practice-entities-and-lawyers
     - title: 'Bar Admission'
@@ -59,4 +81,16 @@ links:
               url: 'https://acd.mlaw.gov.sg/'
               external: true
     - title: 'Join Us'
-      collection: join-us
+      false_collection: true
+      url: /join-us/why-join-minlaw/
+      sublinks:
+            - title: 'Why Join MinLaw'
+              url: /join-us/why-join-minlaw/
+            - title: 'Career Opportunities'
+              url: /join-us/career-opportunities/
+            - title: 'Meet Our Colleagues'
+              url: /join-us/meet-our-colleagues/
+            - title: 'MinLaw Internship Programme'
+              url: /join-us/minlaw-internship/
+            - title: 'Meet Our Interns'
+              url: /join-us/meet-our-interns/
