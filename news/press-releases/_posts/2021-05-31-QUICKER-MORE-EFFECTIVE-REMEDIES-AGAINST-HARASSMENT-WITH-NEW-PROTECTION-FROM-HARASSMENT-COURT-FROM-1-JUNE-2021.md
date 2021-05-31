@@ -20,6 +20,7 @@ Establishment of the Protection from Harassment Court
 
 {:start="4"}
 4.	The PHC will adopt simplified processes for certain types of applications, including applications for Protection Orders (“POs”) and orders relating to falsehoods. Claims that may be made under the simplified proceedings must:
+
     a.	involve only one claimant and no more than five respondents;
     b.	be brought within two years from the date that the cause of action is accrued; and
     c.	not include a claim for damages exceeding $20,000.
@@ -37,6 +38,7 @@ Enhanced Protection for Harassment Victims
 
 {:start="8"}
 8.	In addition, the following changes to enhance protection for harassment victims will come into effect on 1 June 2021:
+    
     a.	<u>Victims of harassment will face fewer hurdles to obtain POs</u>: If a respondent has been convicted of any POHA or hurt-related offence against the victim, the requirement to show that a POHA provision has been contravened (which is necessary before a PO can be granted) will be deemed satisfied. Victims will not have to relive their experience more than necessary, to obtain protection. 
     b.	<u>Investigations and powers of arrest</u>: In egregious cases of hurt or harassment, it may not be sufficient to grant the victim a civil remedy in the form of a PO/EPO. Hence, judges granting EPOs will now be required to consider whether a criminal investigation is warranted and, if warranted, refer cases to the police for investigation. In addition, breaches of POs or EPOs will be arrestable in prescribed scenarios, such as where hurt is caused. 
     c.	<u>Enhanced protection afforded by PO/EPOs</u>: POs and EPOs will be further extended to protect persons related to the victim, as these persons may also be harassed by the same perpetrator. Furthermore, it will be made clear that domestic exclusion orders (i.e. orders restraining the respondent from entering the applicant’s residence or parts of the residence) can be granted as part of a PO. This will ensure better protection for victims who may reside in the same residence as the harasser.
