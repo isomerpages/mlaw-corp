@@ -93,7 +93,7 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
     <br>•	An example of a non-default method of service is service by way of email or on any social media or social networking website, if the respondent has an account on that social media or social networking website and there is a mechanism for the respondent to receive electronic communications in that account.
     <br>•	For such cases, the applicant can file a request to attend before the duty Judicial Officer (“JO”) to obtain directions for service before the first case conference. If the request is accepted, the applicant can attend a hearing before the duty JO (which may be conducted via video-conference) within the same day, or on the next day, to seek the necessary directions.
 
-{:start="11"}
+{:start="18"}
 18.	Otherwise, the revised procedure provides that the victim has to effect service of the application on the respondent within 14 days after the application is filed and may do so through the default service methods<sup><a href="#fn1" id="ref1">1</a></sup>, without seeking the court’s direction on service. This revised procedure is intended to ensure that proceedings can move faster than they do under existing processes. A flowchart of the revised procedure is set out in the **Annex**. 
 
 <i>B.	Referral to police and helping victims meet burden of proof for POs</i>
@@ -119,7 +119,7 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 </i>A.	Enhanced protection afforded by PO/EPOs</i>
 
-{:start="11"}
+{:start="24"}
 24.	Apart from the amendments relating to the PHC and court processes, the remaining POHA amendments which strengthen protection for victims of harassment and related persons will come into force on 1 June 2021:
     <br>a.	POs and EPOs will be extended to protect persons related to the victim, as these persons are often at risk of violence from the harasser as well.
     <br>b.	Interim relief will also be more permanent. EPOs will remain in effect until the PO hearing is concluded, unless it is successfully challenged. This means that pending disposal of the PO application, the victim will no longer have to renew the EPO every 28 days in order to ensure continued protection.
