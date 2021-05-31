@@ -15,9 +15,9 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="2"}
 2.	The PHC is a specialist court dedicated to dealing with harassment matters, whether online or offline. The PHC will have oversight of all criminal and civil cases under the Protection from Harassment Act (“POHA”). With the operationalisation of the PHC:
-    <br>•	Expedited Protection Orders (EPO) applications are targeted to be heard within 48 to 72 hours of application, and within 24 hours where there is a risk of violence or actual violence. Protection Orders (PO) applications are targeted to be heard within 4 weeks.</br>
-    <br>•	A simplified process, at a lower cost, will apply to certain types of POHA applications.</br>
-    <br>•	Judges will be specially trained to deal with harassment matters.</br>
+    <br>•	Expedited Protection Orders (EPO) applications are targeted to be heard within 48 to 72 hours of application, and within 24 hours where there is a risk of violence or actual violence. Protection Orders (PO) applications are targeted to be heard within 4 weeks.
+    <br>•	A simplified process, at a lower cost, will apply to certain types of POHA applications.
+    <br>•	Judges will be specially trained to deal with harassment matters.
 
 **Background** 
 
@@ -26,9 +26,9 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="4"}
 4.	On 7 May 2019, the Protection from Harassment (Amendment) Act 2019 was passed by Parliament to: 
-    <br>a.	Strengthen protection for harassment victims and related persons;</br>
-    <br>b.	Enhance protection for victims of falsehoods and other undesirable online behaviour; and</br>
-    <br>c.	Establish a specialist court for harassment matters.</br>
+    <br>a.	Strengthen protection for harassment victims and related persons;
+    <br>b.	Enhance protection for victims of falsehoods and other undesirable online behaviour; and
+    <br>c.	Establish a specialist court for harassment matters.
 
 {:start="5"}
 5.	MinLaw brought some of these enhancements into force in two earlier stages. The new offence of doxxing and enhanced penalties were brought into force on 1 January 2020. The amendments relating to falsehoods were brought into force on 1 April 2020.
@@ -51,11 +51,11 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="10"}
 10.	Simplified proceedings will not apply where:
-    <br>(a)	Where there is a claim under section 11 of POHA for damages exceeding $20,000;</br>
-    <br>(b)	Where there are more than 5 respondents;</br>
-    <br>(c)	Where there is more than 1 claimant;</br>
-    <br>(d)	The claim is commenced more than 2 years after the claim accrued; or</br> 
-    <br>(e)	Where a non-POHA proceeding is to be heard together with the POHA proceeding.</br> 
+    <br>(a)	Where there is a claim under section 11 of POHA for damages exceeding $20,000;
+    <br>(b)	Where there are more than 5 respondents;
+    <br>(c)	Where there is more than 1 claimant;
+    <br>(d)	The claim is commenced more than 2 years after the claim accrued; or
+    <br>(e)	Where a non-POHA proceeding is to be heard together with the POHA proceeding.
 
 {:start="11"}
 11.	The table below highlights the aforementioned enhancements:
@@ -69,7 +69,7 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="13"}
 13.	This is important because matters under POHA usually involve a victim seeking relief against his/her stalker or harasser. The victim may not be comfortable acting in person or facing the stalker or harasser even if the matter is not complex. 
-    <br>•	For example, where a victim is unable to present his or her own case because he or she is a victim of abuse. Other instances where a victim may be represented in court by a third party include situations where the victim is unable to represent his or her own case because of old age or because the victim is illiterate.</br>
+    <br>•	For example, where a victim is unable to present his or her own case because he or she is a victim of abuse. Other instances where a victim may be represented in court by a third party include situations where the victim is unable to represent his or her own case because of old age or because the victim is illiterate.
 
 <i>C.	Judge-led & exclusion of certain court applications</i>
 
@@ -78,8 +78,8 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="15"}
 15.	 This means that PHC judges will take a more proactive role in court proceedings. 
-    <br>•	For example, the PHC will not be bound by the rules of evidence in the conduct of simplified proceedings and may take evidence directly from parties or inform itself of any matter in such manner as it thinks fit.</br>
-    <br>•	The judge may also conduct proceedings in an informal manner and may also, where appropriate, direct parties to alternative means of dispute resolution such as counselling or mediation. </br>
+    <br>•	For example, the PHC will not be bound by the rules of evidence in the conduct of simplified proceedings and may take evidence directly from parties or inform itself of any matter in such manner as it thinks fit.
+    <br>•	The judge may also conduct proceedings in an informal manner and may also, where appropriate, direct parties to alternative means of dispute resolution such as counselling or mediation.
 
 {:start="16"}
 16.	Simplified proceedings will also be streamlined as certain court applications which are available in standard proceedings, such as applications for summary judgment, striking out, and interrogatories, will not apply. This is to ensure that simplified proceedings will be heard and disposed of expediently and not unnecessarily protracted.
@@ -90,8 +90,8 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="17"}
 17.	Currently, an applicant has to first obtain directions on service from the court before effecting service of the application on the respondent or other relevant parties. Under the revised procedure, the applicant will only be required to seek the court’s direction on service where the proper address of the respondent, or other relevant parties, is not known, and the applicant wishes to effect service by a non-default method of service. 
-    <br>•	An example of a non-default method of service is service by way of email or on any social media or social networking website, if the respondent has an account on that social media or social networking website and there is a mechanism for the respondent to receive electronic communications in that account.</br>
-    <br>•	For such cases, the applicant can file a request to attend before the duty Judicial Officer (“JO”) to obtain directions for service before the first case conference. If the request is accepted, the applicant can attend a hearing before the duty JO (which may be conducted via video-conference) within the same day, or on the next day, to seek the necessary directions.</br>
+    <br>•	An example of a non-default method of service is service by way of email or on any social media or social networking website, if the respondent has an account on that social media or social networking website and there is a mechanism for the respondent to receive electronic communications in that account.
+    <br>•	For such cases, the applicant can file a request to attend before the duty Judicial Officer (“JO”) to obtain directions for service before the first case conference. If the request is accepted, the applicant can attend a hearing before the duty JO (which may be conducted via video-conference) within the same day, or on the next day, to seek the necessary directions.
 
 {:start="11"}
 18.	Otherwise, the revised procedure provides that the victim has to effect service of the application on the respondent within 14 days after the application is filed and may do so through the default service methods<sup><a href="#fn1" id="ref1">1</a></sup>, without seeking the court’s direction on service. This revised procedure is intended to ensure that proceedings can move faster than they do under existing processes. A flowchart of the revised procedure is set out in the **Annex**. 
@@ -121,9 +121,9 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 {:start="11"}
 24.	Apart from the amendments relating to the PHC and court processes, the remaining POHA amendments which strengthen protection for victims of harassment and related persons will come into force on 1 June 2021:
-    <br>a.	POs and EPOs will be extended to protect persons related to the victim, as these persons are often at risk of violence from the harasser as well.</br> 
-    <br>b.	Interim relief will also be more permanent. EPOs will remain in effect until the PO hearing is concluded, unless it is successfully challenged. This means that pending disposal of the PO application, the victim will no longer have to renew the EPO every 28 days in order to ensure continued protection.</br>
-    <br>c.	Additionally, it will be clarified that domestic exclusion orders (i.e. orders restraining the respondent from entering the applicant’s residence or parts of the residence) can be granted as part of a PO. This will ensure better protection for victims who may reside in the same residence as the harasser.</br>
+    <br>a.	POs and EPOs will be extended to protect persons related to the victim, as these persons are often at risk of violence from the harasser as well.
+    <br>b.	Interim relief will also be more permanent. EPOs will remain in effect until the PO hearing is concluded, unless it is successfully challenged. This means that pending disposal of the PO application, the victim will no longer have to renew the EPO every 28 days in order to ensure continued protection.
+    <br>c.	Additionally, it will be clarified that domestic exclusion orders (i.e. orders restraining the respondent from entering the applicant’s residence or parts of the residence) can be granted as part of a PO. This will ensure better protection for victims who may reside in the same residence as the harasser.
 
 <i>B.	Mandatory Treatment Order (MTO)</i>
 
