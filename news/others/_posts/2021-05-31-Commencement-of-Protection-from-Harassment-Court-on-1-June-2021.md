@@ -138,8 +138,8 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 {:start="27"}
 27.	Finally, the POHA amendments making breaches of a PO/EPO arrestable where the respondent fails to comply with a domestic exclusion order, there is continued harassment or hurt involved will also come into force on 1 June 2021.
 
-[Annex - POHA Process Flowchart (152KB)](/files/POHA-Process-Flowchart.pdf)<br>
-
 <p><sup id="fn1">1. The following methods of service do not require the court’s direction on service: (a) by leaving with the respondent a copy of that application; (b) by posting a copy of that application on the front door of the proper address of the respondent; or (c) by sending a copy of the application by registered post to the proper address of the respondent.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+
+[Annex - POHA Process Flowchart (152KB)](/files/POHA-Process-Flowchart.pdf)<br>
 
 <p class="right-side-updated">Last updated on 31 May 2021</p>
