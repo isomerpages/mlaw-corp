@@ -18,6 +18,7 @@ links:
               url: /about-us/contact-us/
             - title: 'Useful Links'
               url: /about-us/useful-links/
+    # News sublinks are created by Abigail See (CCD) on 31 May 2021. To include the Insight Minlaw link.
     - title: News
       false_collection: true
       url: /news/
