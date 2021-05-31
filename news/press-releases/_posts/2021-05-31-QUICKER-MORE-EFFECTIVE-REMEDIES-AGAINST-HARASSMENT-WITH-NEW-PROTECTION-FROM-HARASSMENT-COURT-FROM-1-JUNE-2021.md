@@ -33,7 +33,7 @@ permalink: /news/press-releases/2021-05-31-QUICKER-MORE-EFFECTIVE-REMEDIES-AGAIN
 {:start="7"}
 7.	The PHC may transfer cases commenced in the PHC to other Courts (i.e. District Court, Magistrate’s Court or Family Court), and vice versa. This transfer mechanism recognises how harassment may occur against the backdrop of other ongoing proceedings, such as divorce proceedings. From 1 June 2021, cases may be transferred between the PHC and the District Court or Magistrate’s Court. Transfer of POHA cases between the PHC and the Family Court will be operationalised at a later date. 
 
-Enhanced Protection for Harassment Victims
+**Enhanced Protection for Harassment Victims**
 
 {:start="8"}
 8.	In addition, the following changes to enhance protection for harassment victims will come into effect on 1 June 2021:
