@@ -117,7 +117,7 @@ permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-Ju
 
 **Other Amendments Coming Into Force On 1 June 2021**
 
-</i>A.	Enhanced protection afforded by PO/EPOs</i>
+<i>A.	Enhanced protection afforded by PO/EPOs</i>
 
 {:start="24"}
 24.	Apart from the amendments relating to the PHC and court processes, the remaining POHA amendments which strengthen protection for victims of harassment and related persons will come into force on 1 June 2021:
