@@ -18,15 +18,15 @@ permalink: /news/press-releases/2021-06-21-Third-party-funding-framework-permitt
 {:start="3"}
 3.	With effect from 28 June 2021, the categories of proceedings for which TPF is permitted will be extended to include<sup><a href="#fn3" id="ref3">3</a></sup>:
 
-   a. Domestic arbitration proceedings;
+    a. Domestic arbitration proceedings;
    
-   b. Court proceedings arising from or connected with domestic arbitration proceedings;
+    b. Court proceedings arising from or connected with domestic arbitration proceedings;
    
-   c. Proceedings commenced in the SICC, for as long as those proceedings remain in the SICC;
+    c. Proceedings commenced in the SICC, for as long as those proceedings remain in the SICC;
    
-   d. Appeal proceedings arising from any decision made in the proceedings in paragraph 3c; and
+    d. Appeal proceedings arising from any decision made in the proceedings in paragraph 3c; and
    
-   e. Mediation proceedings relating to any of the proceedings above.
+    e. Mediation proceedings relating to any of the proceedings above.
 
 {:start="4"}
 4.	 Against the backdrop of the COVID-19 pandemic, there may be a rise in disputes and companies facing the risk of insolvency. As financial constraints may cause litigants to forgo pursuing their legal rights, additional funding options such as TPF will offer another solution for these litigants, to enable them to pursue meritorious claims in permitted proceedings.
