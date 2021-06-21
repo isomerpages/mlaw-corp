@@ -42,6 +42,8 @@ permalink: /news/press-releases/2021-06-21-Third-party-funding-framework-permitt
 {:start="7"}
 7.	 Related amendments will also be made to the Rules of Court with regard to orders for adverse costs and security for costs where TPF is involved in proceedings before the SICC.
 
+{:start="8"}
+8.	 The amendments to the TPF framework and full set of Representation in SICC Rules may be viewed on the Singapore Statutes Online website, <a href="https://sso.agc.gov.sg" target="new">https://sso.agc.gov.sg</a>.
 
 **MINISTRY OF LAW**<br>
 **21 June 2021**
