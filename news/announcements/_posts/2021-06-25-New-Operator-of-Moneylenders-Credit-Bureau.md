@@ -1,10 +1,9 @@
 ---
 title: 'Designation of Credit Bureau (Singapore) Pte Ltd as the new operator of Moneylenders Credit Bureau under the Moneylenders Act'
 date: 2021-06-25T00:00:00.000Z
-permalink: /news/announcements/New-Operator-of-Moneylenders-Credit-Bureau.md 
+permalink: /news/announcements/New-Operator-of-Moneylenders-Credit-Bureau
 
 ---
-
 
 25 Jun 2021 Posted in [Announcements](/news/announcements)
 
