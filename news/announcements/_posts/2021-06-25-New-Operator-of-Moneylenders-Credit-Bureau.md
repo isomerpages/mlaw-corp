@@ -18,7 +18,7 @@ permalink: /news/announcements/New-Operator-of-Moneylenders-Credit-Bureau.md
 {:start="3"}
 3. The MLCB has been operated by Experian Credit Services Singapore Pte Ltd (formerly known as DP Information Network Pte Ltd) since 1 March 2016. Following a competitive tender process, CBS will be the new operator of the MLCB for a period of three years, commencing on 1 July 2021. The contract may be renewed, subject to MinLaw’s review. The change in operator is administrative and will not affect any existing arrangements or services for licensed moneylenders and borrowers.
 
-Past Press Releases: [28 Jun 2018](/news/press-releases/designation-of-credit-bureau-under-the-revised-moneylenders-act#:~:text=Designation%20of%20Credit%20Bureau%20under%20the%20Revised%20Moneylenders%20Act,-28%20JUN%202018&text=The%20Ministry%20of%20Law%20(MinLaw,of%20the%20amended%20Moneylenders%20Act) and [24 Feb 2016](/news/press-releases/new-credit-bureau-to-support-prudence-in-borrowing-and-lending)
+Past Press Releases: [28 Jun 2018](/news/press-releases/designation-of-credit-bureau-under-the-revised-moneylenders-act) and [24 Feb 2016](/news/press-releases/new-credit-bureau-to-support-prudence-in-borrowing-and-lending)
 
 **MINISTRY OF LAW**
 <br>**25 JUNE 2021**
