@@ -67,9 +67,9 @@ Qualifying developers will be granted the extension automatically. No applicatio
 
 The conditions to be met to qualify for the waiver of extension charges to extend the completion deadline are as follows:
 
-    (i)	The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 7 May 2021; and
+(i)	The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 7 May 2021; and
 
-    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
+(ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For cases where the QC or SLA approval requiring the completion of all units in the residential development was issued on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was granted via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
