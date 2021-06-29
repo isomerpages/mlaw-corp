@@ -78,7 +78,7 @@ Qualifying developers can write to SLA’s Land Dealings Approval Unit (LDAU) at
 <b><i>Commercial and Industrial Development Projects</i></b>
 
 {:start="9"}
-8.	 <u>PCP</u>. The PCP for qualifying commercial and industrial development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by SLA, will be extended by 6 months. 
+9.	 <u>PCP</u>. The PCP for qualifying commercial and industrial development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by SLA, will be extended by 6 months. 
 
 The conditions to be met to qualify for the extension of the PCP are as follows: 
 
