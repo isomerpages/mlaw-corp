@@ -33,9 +33,9 @@ permalink: /news/press-releases/2021-06-28-Extension-to-Temporary-Relief-Measure
 {:start="6"}
 6.	<u>PCP</u>. The PCP for qualifying residential development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by the Singapore Land Authority (SLA), will be extended by 6 months. 
 
-The conditions to be met to qualify for the extension of the PCP are as follows: 
+The conditions to be met to qualify for the extension of the PCP are as follows:
 
-    (i) The land was awarded on or before 7 May 2021, or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
+    (i)	The land was awarded on or before 7 May 2021, or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
     
     (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
@@ -54,9 +54,9 @@ For qualifying housing developers which purchased the land on or before 1 June 2
 
 The conditions to be met to qualify for the extension of the specified timeline for completion of residential development are as follows:
 
-    (i)	The land was purchased on or before 7 May 2021; and
-
-    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
+   (i)	The land was purchased on or before 7 May 2021; and
+   
+   (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for completion of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD completion timeline will be in addition to the cumulative 12-month extension to the ABSD completion timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
@@ -67,9 +67,9 @@ Qualifying developers will be granted the extension automatically. No applicatio
 
 The conditions to be met to qualify for the waiver of extension charges to extend the completion deadline are as follows:
 
-    (i)	The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 7 May 2021; and
+   (i)	The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 7 May 2021; and
 
-    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
+   (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For cases where the QC or SLA approval requiring the completion of all units in the residential development was issued on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was granted via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
@@ -82,18 +82,18 @@ Qualifying developers can write to SLA’s Land Dealings Approval Unit (LDAU) at
 
 The conditions to be met to qualify for the extension of the PCP are as follows: 
 
-    (i)	The land was awarded on or before 7 May 2021; or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
+   (i)	The land was awarded on or before 7 May 2021; or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
 
-    (ii) The original timeline for completion of the development expired on or after 1 February 2020.
+   (ii) The original timeline for completion of the development expired on or after 1 February 2020.
 
 For cases where the land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
 Qualifying developers will be notified by the respective agencies. No application is necessary.
 
 
-**MINISTRY OF NATIONAL DEVELOPMENT
-MINISTRY OF FINANCE
-MINISTRY OF LAW 
+**MINISTRY OF NATIONAL DEVELOPMENT<br>
+MINISTRY OF FINANCE<br>
+MINISTRY OF LAW <br>
 MINISTRY OF TRADE AND INDUSTRY**<br>
 
 **28 June 2021**
