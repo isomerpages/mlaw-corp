@@ -50,17 +50,17 @@ permalink: /news/press-releases/2021-06-28-Extension-to-Temporary-Relief-Measure
 
     (ii) The original timeline for commencement of the residential development expired on or after 1 February 2020.
 
-For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for commencement of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD commencement timeline will be in addition to the cumulative 12-month extension to the ABSD commencement timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
+    For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for commencement of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD commencement timeline will be in addition to the cumulative 12-month extension to the ABSD commencement timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
-The conditions to be met to qualify for the extension of the specified timeline for completion of residential development are as follows:
+    The conditions to be met to qualify for the extension of the specified timeline for completion of residential development are as follows:
 
    (i)	The land was purchased on or before 7 May 2021; and
    
    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
-For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for completion of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD completion timeline will be in addition to the cumulative 12-month extension to the ABSD completion timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
+    For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for completion of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD completion timeline will be in addition to the cumulative 12-month extension to the ABSD completion timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
-Qualifying developers will be granted the extension automatically. No application is necessary. 
+    Qualifying developers will be granted the extension automatically. No application is necessary. 
 
 {:start="8"}
 8.	 <u>QC</u>. Developers under the QC regime are required to complete construction of all housing units in a residential development project within 5 years from the date of issue of the QC or the collective sale order, and dispose of all housing units within 2 years from the issue of Temporary Occupation Permit or Certificate of Statutory Completion. Under the extension to the temporary relief measures, developers applying to extend their existing completion deadline will be granted a waiver of extension charges of a total of 6 months. This will also apply to other SLA approvals requiring the completion of all units in the residential development. However, extension charges will not be waived for the extension of the deadline to dispose of all housing units of the residential development.
