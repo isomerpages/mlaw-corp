@@ -15,9 +15,9 @@ permalink: /news/press-releases/2021-06-28-Extension-to-Temporary-Relief-Measure
 
     (i)	Extension of the Project Completion Period (PCP) by 6 months for qualifying residential, commercial and industrial development projects;
 
-    (ii)	Extension by 6 months for the commencement and completion timelines of residential development projects in relation to the remission of the Additional Buyer’s Stamp Duty (ABSD) for qualifying housing developers<sup><a href="#fn1" id="ref1">1</a></sup>;  and
+    (ii) Extension by 6 months for the commencement and completion timelines of residential development projects in relation to the remission of the Additional Buyer’s Stamp Duty (ABSD) for qualifying housing developers<sup><a href="#fn1" id="ref1">1</a></sup>;  and
 
-    (iii)	Extension of the PCP by 6 months for residential development projects under the Qualifying Certificate (QC) regime for qualifying foreign housing developers.
+    (iii) Extension of the PCP by 6 months for residential development projects under the Qualifying Certificate (QC) regime for qualifying foreign housing developers.
 
 {:start="3"}
 3.	While construction works have gradually resumed since August 2020, construction projects continue to face challenges. The sector may experience manpower shortages and further disruptions to construction timelines due to the tightening of border measures from April and May 2021 that limit the inflow of migrant workers.
@@ -28,16 +28,16 @@ permalink: /news/press-releases/2021-06-28-Extension-to-Temporary-Relief-Measure
 {:start="5"}
 5.	The extension to the measures will provide targeted relief to developers in the near term with regard to the construction timeline-related requirements of the PCP, ABSD regime and QC regime. The Government will continue to support developers and contractors in their efforts to complete development projects in a timely manner, while ensuring compliance with safety measures. With the extension to the measures, the Government expects developers to similarly provide relief and support to their main contractors and consultants. The Government will also continue to closely monitor the normalisation of activities in the construction industry, and on the property sector. The Government will continue to support the stakeholders as necessary and appropriate, as we transition to a new normal where COVID-19 becomes endemic.
 
-<b></i>Private Residential Development Projects</i></b>
+<b>Private Residential Development Projects</b>
 
 {:start="6"}
 6.	<u>PCP</u>. The PCP for qualifying residential development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by the Singapore Land Authority (SLA), will be extended by 6 months. 
 
 The conditions to be met to qualify for the extension of the PCP are as follows: 
 
-    (i)	The land was awarded on or before 7 May 2021, or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
-
-    (ii)	The original timeline for completion of the residential development expired on or after 1 February 2020.
+    (i) The land was awarded on or before 7 May 2021, or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
+    
+    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For cases where the land was awarded on or before 1 June 2020, or where the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
@@ -48,7 +48,7 @@ Qualifying developers will be notified by the respective agencies. No applicatio
 
     (i)	The land was purchased on or before 7 May 2021; and
 
-    (ii)	The original timeline for commencement of the residential development expired on or after 1 February 2020.
+    (ii) The original timeline for commencement of the residential development expired on or after 1 February 2020.
 
 For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for commencement of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD commencement timeline will be in addition to the cumulative 12-month extension to the ABSD commencement timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
@@ -56,7 +56,7 @@ The conditions to be met to qualify for the extension of the specified timeline 
 
     (i)	The land was purchased on or before 7 May 2021; and
 
-    (ii)	The original timeline for completion of the residential development expired on or after 1 February 2020.
+    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For qualifying housing developers which purchased the land on or before 1 June 2020 and the original timeline for completion of the residential development expired on or after 1 February 2020, this 6-month extension to the ABSD completion timeline will be in addition to the cumulative 12-month extension to the ABSD completion timeline that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
@@ -69,13 +69,13 @@ The conditions to be met to qualify for the waiver of extension charges to exten
 
     (i)	The QC or SLA approval requiring the completion of all units in the residential development was issued on or before 7 May 2021; and
 
-    (ii)	The original timeline for completion of the residential development expired on or after 1 February 2020.
+    (ii) The original timeline for completion of the residential development expired on or after 1 February 2020.
 
 For cases where the QC or SLA approval requiring the completion of all units in the residential development was issued on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was granted via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
 Qualifying developers can write to SLA’s Land Dealings Approval Unit (LDAU) at <a href="mailto:SLA_LDU@sla.gov.sg" target="new">SLA_LDU@sla.gov.sg</a> by 1 December 2021 to apply. Developers which had already applied for and obtained an extension of their existing completion deadlines under the temporary relief measures announced on 6 May 2020 and 8 October 2020 will automatically be granted the additional 6-month waiver of extension charges, and will be notified of their new deadlines by LDAU.
 
-<b><i>Commercial and Industrial Development Projects</i></b>
+<b>Commercial and Industrial Development Projects</b>
 
 {:start="9"}
 9.	 <u>PCP</u>. The PCP for qualifying commercial and industrial development projects on Government sale sites, or on land which was directly alienated or had their lease renewed by SLA, will be extended by 6 months. 
@@ -84,7 +84,7 @@ The conditions to be met to qualify for the extension of the PCP are as follows:
 
     (i)	The land was awarded on or before 7 May 2021; or the land was directly alienated or had their lease renewed by SLA on or before 7 May 2021; and 
 
-    (ii)	The original timeline for completion of the development expired on or after 1 February 2020.
+    (ii) The original timeline for completion of the development expired on or after 1 February 2020.
 
 For cases where the land was awarded on or before 1 June 2020, or the land was directly alienated or had their lease renewed by SLA on or before 1 June 2020, this 6-month extension will be in addition to the cumulative 12-month extension that was provided via the temporary relief measures announced on 6 May 2020 and 8 October 2020.
 
