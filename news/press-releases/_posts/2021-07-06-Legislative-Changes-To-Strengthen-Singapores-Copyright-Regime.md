@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Response to Public Feedback on the Civil Justice Reforms 
+title: Legislative Changes to Strengthen Singapore's Copyright Regime
 date: 2021-07-06
 permalink: /news/press-releases/2021-07-06-Legislative-Changes-To-Strengthen-Singapores-Copyright-Regime
 ---
