@@ -23,13 +23,13 @@ To ask the Minister for Law whether the Ministry can take an active approach to 
 {:start="3"}
 3.	The member also specifically referred to divorce cases. We have introduced a number of measures to streamline divorce proceedings. These include: 
 
-   (a) First, the simplified case management track. Parties who agree on the divorce and ancillary matters prior to the filing of the action can obtain a divorce on this track without going through lengthy court proceedings. They can navigate this on their own without the need to incur legal fees. This saves parties both costs and time. The majority of divorce cases are filed on the simplified track. In 2020, 60% of cases were filed on the simplified track. 
+   a. First, the simplified case management track. Parties who agree on the divorce and ancillary matters prior to the filing of the action can obtain a divorce on this track without going through lengthy court proceedings. They can navigate this on their own without the need to incur legal fees. This saves parties both costs and time. The majority of divorce cases are filed on the simplified track. In 2020, 60% of cases were filed on the simplified track. 
    
-   (b) Second, the use of alternative dispute resolution. For cases that do not proceed on the simplified track, many have been resolved through mediation. Mediation helps parties address the key issues without the need for lengthy or acrimonious hearings. In 2020, 90% of cases that went through mediation either reached a full or partial settlement.
+   b. Second, the use of alternative dispute resolution. For cases that do not proceed on the simplified track, many have been resolved through mediation. Mediation helps parties address the key issues without the need for lengthy or acrimonious hearings. In 2020, 90% of cases that went through mediation either reached a full or partial settlement.
    
-   (c) Third, the use of the judge-led approach, where Judges take a more proactive role in proceedings by taking the lead and controlling the pace of the proceedings. This is a less adversarial mode of proceedings, which avoids unnecessary disputes, acrimony and protracted hearings.
+   c. Third, the use of the judge-led approach, where Judges take a more proactive role in proceedings by taking the lead and controlling the pace of the proceedings. This is a less adversarial mode of proceedings, which avoids unnecessary disputes, acrimony and protracted hearings.
    
-   (d) Nevertheless, we agree that more can be done, because there continue to be cases where it is too costly and protracted - unnecessarily so. We will continue to see how these issues can be dealt with.
+   d. Nevertheless, we agree that more can be done, because there continue to be cases where it is too costly and protracted - unnecessarily so. We will continue to see how these issues can be dealt with.
 
 {:start="4"}
 4.	The member has also asked about Deputyship and Estate Administration. We have worked with agencies and the courts to simplify processes in these matters, amongst others, to help Singaporeans to navigate processes. Simplified filing tracks have been introduced in the Family Justice Courts for the more straightforward deputyship applications. The Courts are also developing an online application for straightforward probate matters.
