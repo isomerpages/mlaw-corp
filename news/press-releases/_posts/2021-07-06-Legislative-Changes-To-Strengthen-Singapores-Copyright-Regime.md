@@ -38,7 +38,7 @@ permalink: /news/press-releases/2021-07-06-Legislative-Changes-To-Strengthen-Sin
 4. The Bill will restructure and reword the legislation in plain English, to enhance its clarity and accessibility. The Bill adopts a more intuitive, thematic structure and provides illustrations to show how provisions should be applied in particular situations. This will allow creators, users, and intermediaries to better understand how the law works to both protect and provide access to works. 
 
 {:start="5"}
-5. MinLaw and the Intellectual Property Office of Singapore (IPOS) would like to thank all respondents who provided feedback during the several rounds of public consultations culminating in a draft version of the Bill being issued for final consultation in February this year. Responses from the February consultation were taken into consideration in finalising the Bill. MinLaw’s full response to the February consultation can be accessed at (<a href="www.go.gov.sg/copyright-consult-response" target="new">http://www.go.gov.sg/copyright-consult-response</a>). 
+5. MinLaw and the Intellectual Property Office of Singapore (IPOS) would like to thank all respondents who provided feedback during the several rounds of public consultations culminating in a draft version of the Bill being issued for final consultation in February this year. Responses from the February consultation were taken into consideration in finalising the Bill. MinLaw’s full response to the February consultation can be accessed at (<a href="https://www.go.gov.sg/copyright-consult-response" target="new">https://www.go.gov.sg/copyright-consult-response</a>). 
 
 {:start="6"}
 6. If passed, we expect to be able to operationalise most of the provisions in the Bill in November 2021. 
