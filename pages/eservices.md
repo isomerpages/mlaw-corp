@@ -7,6 +7,8 @@ breadcrumb: E-Services
 
 **E-Services** <br>
 
+LSRA and LID Exmeption E-Services are not available from 9 July 2021, 00:00hrs to 11 July 2021, 00:00hrs. We apologise for any inconvenience caused.<br>
+
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)
