@@ -65,15 +65,36 @@ breadcrumb: FAQ
 * However, if both parties are agreeable, parties are not precluded from reaching a further settlement, whether through direct negotiation or mediation. 
 
 * The parties may mediate under the MCMP only if: 
+<br>
 (1)	Both parties agree to mediation;
-
+<br>
 (2)	The contract is for the provision of goods or services for a wedding event; and
-
+<br>
 (3)	The wedding event was scheduled to take place on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
-
+<br>
 * Please note that your counterparty is at liberty to decline to attend mediation, and enforce the determination.
 
 
+#### (C) The Mediators ####
+
+6.	Who are the mediators? 
+
+* The mediators are professionals from various backgrounds, and they include lawyers, managers, business owners and community leaders. They are trained in, and have vast experience in voluntary and Court-referred mediations. 
+
+#### (D) The Mediation Process ####
+
+**Pre-Mediation**
+7.	How much does mediation under the MCMP cost?
+
+* Mediation under the MCMP is free.
+
+8.	The Safe Management Measures permit the holding of my wedding event.  Should I nevertheless cancel my wedding event and request for mediation under the MCMP?
+
+* The mediation process is voluntary and may only take place if both parties agree to mediate. Further, for a settlement to take place, both parties must reach an agreement. No settlement will be imposed by the mediator. 
+
+* If the vendor declines to attend mediation, or no agreement is reached during the mediation, the existing contract between the parties, including any contractual provisions for forfeiture of the deposit and charging of cancellation fees, remain binding. You may wish to seek legal advice on your contractual obligations.   
+
+* Parties should consider carefully whether they wish to proceed with their event as originally contracted (especially when they are able to), or would like to attempt to negotiate with their vendor for alternative arrangements (in which case the MCMP is one platform parties can use).
 
 
-
+9. 
