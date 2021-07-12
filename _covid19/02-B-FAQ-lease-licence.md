@@ -8,9 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Lease or licence of non-residential property – Temporary Relief from Contractual Obligations ###
 
-<u>Important Note</u>: This set of FAQs only addresses questions relating to the temporary relief from contractual obligations under Part 2 of the Act which were originally introduced in April 2020.  If you have questions on the rental relief framework for SMEs reliefs under Part 2A of the Act which were introduced in June 2020, please click 
-* [here](../rental-relief-framework-for-smes) for a summary of the rental relief framework.
-* [here](../faq/rental-relief) for the FAQs.
+<u>Important Note</u>: This set of FAQs only addresses questions relating to the temporary relief from contractual obligations under Part 2 of the Act which were originally introduced in April 2020.  If you have questions on the rental relief framework for SMEs reliefs under Part 2A of the Act which were introduced in June 2020, please click [here](../rental-relief-framework-for-smes) for a summary of the rental relief framework.
 
 <a name="19Novnote"><u>Important Note</u></a>: The prescribed period for leases and licences of non-residential property has ended on 19 November 2020. The reliefs described on this page has expired.
 

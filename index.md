@@ -19,9 +19,9 @@ sections:
                   description: 'Find out more about the Act'
                   url: /covid19-relief/
                   external: false
-                - title: 'Re-align Framework'
-                  description: 'Find out more about the new Framework'
-                  url: /realign/re-align-framework
+                - title: 'MinLaw COVID-19 (Wedding) Mediation Programme'
+                  description: 'Find out more about the Programme'
+                  url: /mcmp/meditation-programme
                 - title: 'The Singapore Convention'
                   description: 'Find Out More'
                   url: 'https://www.singaporeconvention.org/'
