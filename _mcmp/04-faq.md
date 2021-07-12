@@ -137,8 +137,8 @@ breadcrumb: FAQs
 * The mediation session may only be attended by:
   * The mediator; and
   * The parties to the contract, namely: 
-   *  The couple, if both partners are parties to the contract; 
-   *  The vendor (if the vendor is an individual), or the vendor’s authorised officer(s) or employee(s) (if the vendor is a company or business);
+    *  The couple, if both partners are parties to the contract; 
+    *  The vendor (if the vendor is an individual), or the vendor’s authorised officer(s) or employee(s) (if the vendor is a company or business);
 
 * A party to the mediation shall not be represented by a lawyer at the mediation.  
 
