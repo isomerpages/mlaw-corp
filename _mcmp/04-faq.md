@@ -178,19 +178,11 @@ breadcrumb: FAQ
 *  If you require legal advice on enforcing your settlement agreement, you can refer to https://go.gov.sg/legal-asst for avenues of legal assistance. You may also wish to approach the Community Justice Centre (CJC) at the State Courts to arrange for free legal advice with a lawyer. The CJC’s contact information can be found at https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/. 
 
 
+#### (E) Others ####
+20. What are the current safe management measures for wedding events?
+* Please refer to [this link](https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions) for the latest safe management measures for wedding solemnisations and receptions.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+21. I have other questions about the MCMP. Who do I contact?
+* You may contact us at 1800 225 5529 or write to us through our online enquiry form at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/)
 
