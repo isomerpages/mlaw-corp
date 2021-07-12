@@ -175,7 +175,7 @@ breadcrumb: FAQ
 
 19. We signed a settlement agreement during the mediation. However, the other party did not honour the settlement agreement. What can I do?
 * A settlement agreement is a legally binding agreement. You may commence legal proceedings to enforce the terms of the settlement agreement.
-*  If you require legal advice on enforcing your settlement agreement, you can refer to https://go.gov.sg/legal-asst for avenues of legal assistance. You may also wish to approach the Community Justice Centre (CJC) at the State Courts to arrange for free legal advice with a lawyer. The CJC’s contact information can be found at https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/. 
+*  If you require legal advice on enforcing your settlement agreement, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance. You may also wish to approach the Community Justice Centre (CJC) at the State Courts to arrange for free legal advice with a lawyer. The CJC’s contact information can be found at [https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/](https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/). 
 
 
 #### (E) Others ####
