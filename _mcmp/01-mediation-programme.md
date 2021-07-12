@@ -15,5 +15,5 @@ Mediation under this programme is an informal and voluntary process. The mediati
 From 14 July 2021, interested parties can apply to the Ministry of Law for mediation by filling up the [Request for Mediation](https://www.go.gov.sg/request-for-mediation), and emailing it to both MinLaw and the other part(ies) to the contract. The Request for Mediation must be submitted by 10 September 2021. 
 
 Additional Resources: 
-•	MinLaw’s Press Release dated 12 July 2021
-•	Infographic
+* MinLaw’s Press Release dated 12 July 2021
+* Infographic
