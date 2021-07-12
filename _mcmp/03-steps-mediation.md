@@ -1,5 +1,5 @@
 ---
-title: MinLaw COVID-19 (Wedding) Mediation Programme
+title: Steps in the Mediation Process
 permalink: /mcmp/steps-in-the-mediation-process
 breadcrumb: Steps in the Mediation Process
 
