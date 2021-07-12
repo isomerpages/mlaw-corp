@@ -12,7 +12,7 @@ Most wedding couples and vendors have been able to come to a mutually acceptable
 
 Mediation under this programme is an informal and voluntary process. The mediation session is conducted virtually, and facilitated by a professionally trained mediator.
 
-From 14 July 2021, interested parties can apply to the Ministry of Law for mediation by filling up the Request for Mediation, and emailing it to both MinLaw and the other part(ies) to the contract. The Request for Mediation can be downloaded [here](https://www.mlaw.gov.sg/mcmp/steps-in-the-mediation-process) and must be submitted by <b><u>10 September 2021</u></b>. 
+From 14 July 2021, interested parties can apply to the Ministry of Law for mediation by filling up the Request for Mediation, and emailing it to both MinLaw and the other part(ies) to the contract. The Request for Mediation can be downloaded [here](/mcmp/steps-in-the-mediation-process) and must be submitted by <b><u>10 September 2021</u></b>. 
 
 Additional Resources: 
 * MinLaw’s Press Release dated 12 July 2021
