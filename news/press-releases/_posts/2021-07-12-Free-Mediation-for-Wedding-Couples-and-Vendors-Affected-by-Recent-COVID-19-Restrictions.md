@@ -18,26 +18,27 @@ permalink: /news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-an
 
 {:start="4"}
 4.	MinLaw encourages these parties to consider mediation. Mediation has several recognised benefits, including:
-    •	High success rate of settlement
-    •	Savings of time and money for parties
-    •	Preserves relationships between parties
-    •	Confidentiality
+
+    a.	High success rate of settlement
+    b.	Savings of time and money for parties
+    c.	Preserves relationships between parties
+    d.	Confidentiality
 
 {:start="5"}
 5.	To facilitate settlement between these couples and vendors, MinLaw will be providing free-of-charge mediation, if both parties agree to mediate. The mediation will be facilitated by a neutral trained professional in a non-adversarial and confidential setting. Mediators will facilitate the discussion and help parties work towards a mutually acceptable solution. This will be a useful channel for parties to explore and come to an amicable solution, as opposed to resolving the dispute in court.
 
-{:start="6"}
 **Qualifying Criteria**
 
+{:start="6"}
 6.	Parties must fulfil two key criteria to be eligible for the Programme:
 
     a.	First, both parties must be in a contract (written or otherwise) for the sale of goods or services in relation to a wedding event.
 
     b.	Second, the scheduled wedding event date must be between 8 May 2021 and 31 July 2021 (both dates inclusive).
 
-{:start="7"}
 **Mediation Process**
 
+{:start="7"}
 7.	Any party interested in mediating their dispute through the Programme may submit a request for mediation and a copy of the contract by email to MinLaw. Details on how the request for mediation may be submitted will be published at <a href="https://www.go.gov.sg/request-for-mediation" target="new">https://www.go.gov.sg/request-for-mediation</a> from 14 July 2021 onwards. 
 
 {:start="8"}
