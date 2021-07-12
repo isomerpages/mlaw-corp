@@ -50,4 +50,30 @@ breadcrumb: FAQ
 * Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
+3.	Does the MCMP apply to contracts relating to non-wedding events? 
+* No. The MCMP only applies to wedding contracts. 
+* If your contract is for a non-wedding event, we encourage you to continue negotiating with your counterparty, to come to a mutually acceptable solution. If you believe that a mediator would be helpful in facilitating a solution, you may wish to consider mediation under the [Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/), or mediation at the [Singapore Mediation Centre](http://www.mediation.com.sg).
+
+4. How would mediation affect any previous agreements that were reached?
+* If both parties agree to the mediation and reach a new settlement agreement at the mediation, the new settlement agreement will override the previous agreement.
+* If the parties do not agree to mediation, or if no new settlement is reached during the mediation, the previous agreement will still stand.  
+
+
+5.	I have an Assessor’s determination, but disagree with it. Can I mediate the dispute under the MCMP? 
+* A determination made by an Assessor under the COVID-19 (Temporary Measures) Act is binding on parties. 
+
+* However, if both parties are agreeable, parties are not precluded from reaching a further settlement, whether through direct negotiation or mediation. 
+
+* The parties may mediate under the MCMP only if: 
+(1)	Both parties agree to mediation;
+
+(2)	The contract is for the provision of goods or services for a wedding event; and
+
+(3)	The wedding event was scheduled to take place on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
+
+* Please note that your counterparty is at liberty to decline to attend mediation, and enforce the determination.
+
+
+
+
 
