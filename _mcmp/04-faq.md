@@ -97,4 +97,16 @@ breadcrumb: FAQ
 * Parties should consider carefully whether they wish to proceed with their event as originally contracted (especially when they are able to), or would like to attempt to negotiate with their vendor for alternative arrangements (in which case the MCMP is one platform parties can use).
 
 
-9. 
+9. The other party does not wish to attend mediation. What can I do?  
+
+* Mediation is a voluntary process – both parties have to agree to mediate. 
+
+* If the other party had previously rejected your proposal for mediation, you may nevertheless make another attempt to initiate a mediation under the MCMP by sending a Request for Mediation to the Ministry of Law, copying the other party. The other party will then be able to re-consider your request for mediation, and will be asked to respond on whether he or she agrees to mediate under the MCMP.  
+
+* If the other party continues to decline mediation, a mediation cannot be arranged. We encourage you to continue negotiating with your counterparty outside of the MCMP, to come to a mutually acceptable solution.
+
+* Otherwise, either party can apply to the Courts to resolve their dispute. If you wish to seek legal advice on your contractual dispute, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance. 
+
+
+
+
