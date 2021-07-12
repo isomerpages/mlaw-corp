@@ -16,4 +16,4 @@ From 14 July 2021, interested parties can apply to the Ministry of Law for media
 
 Additional Resources: 
 * MinLaw’s Press Release dated 12 July 2021
-* [Infographic](../files/mcmp/MinLaw_Mediation_Programme)
+* [Infographic](../files/mcmp/MinLaw_Mediation_Programme.pdf)
