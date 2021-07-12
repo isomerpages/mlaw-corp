@@ -117,7 +117,33 @@ breadcrumb: FAQ
 
 * Please also note that the Court, in deciding the issue of costs, may take into account the parties’ conduct in relation to any attempt to resolve the matter by mediation, including a party’s refusal to attend mediation. 
 
-11. 
+11. My wedding event is scheduled to be held soon. Can MinLaw help to expedite and arrange for a mediation session before the event day?
+* MinLaw targets to schedule a mediation session within two weeks of the return of the Agreement to Mediate, subject to the mediator’s and parties’ availabilities.
+
+* You can expedite the process by obtaining the other party’s agreement to mediate before submitting the Request for Mediation. 
+
+* Please refer to “[Steps in the Mediation Process](steps-in-the-mediation-process)" for information on the expected timeframes.  
+* Even if the mediation is not scheduled before your wedding event, after your wedding event proceeds, the parties are still eligible for mediation under the MCMP to settle any outstanding disputes, if the wedding event was scheduled to take place on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
+
+12. My wedding event is scheduled to be held (e.g. on 25 July 2021) before the scheduled mediation session (e.g. on 2 August 2021). Must I still continue to fulfil my existing contractual obligations (e.g. continue paying my vendor)?
+* Unless and until another agreement is reached (whether privately with the vendor, or during mediation under the MCMP), the existing contract is binding. A failure to fulfil one’s contractual obligations may result in a breach of contract. 
+
+* Further, the mediation process may not result in a settlement. In that case, the existing contract between parties will remain binding on the parties. We encourage you to seek legal advice on your contractual obligations. 
+
+* You may wish to seek agreement from your counterparty to temporarily suspend contractual obligations pending the mediation session, and/or to seek legal advice on your contractual obligations. 
+
+**During Mediation**
+13. Who can attend the mediation session? Can my lawyer / family member / best friend attend the mediation session with me? 
+* The mediation session may only be attended by:
+ * The mediator; and
+ * The parties to the contract, namely: 
+ *  The couple, if both partners are parties to the contract; 
+ *  The vendor (if the vendor is an individual), or the vendor’s authorised officer(s) or employee(s) (if the vendor is a company or business);
+
+* A party to the mediation shall not be represented by a lawyer at the mediation.  
+
+14. 
+
 
 
 
