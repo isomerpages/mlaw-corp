@@ -9,12 +9,12 @@ breadcrumb: FAQ
 
 <a href="#1general" id="s1">(A)	General</a><br>
 <a href="#2qc" id="s2">(B)	Qualification Criteria</a><br>
-<a href="#2tm" id="s3">(C)	The Mediators</a><br>
-<a href="#2tmp" id="s4">(D)	The Mediation Process</a><br>
-* <a href="#2tmpa" id="s4a">Pre-Mediation</a><br>
-* <a href="#2tmpb" id="s4b">During Mediation</a><br>
-* <a href="#2tmpc" id="s4c">Post-Mediation</a><br><br>
-<a href="#2oth" id="s5">(E)	Others</a><br>
+<a href="#3tm" id="s3">(C)	The Mediators</a><br>
+<a href="#4tmp" id="s4">(D)	The Mediation Process</a><br>
+* <a href="#4tmpa" id="s4a">Pre-Mediation</a><br>
+* <a href="#4tmpb" id="s4b">During Mediation</a><br>
+* <a href="#4tmpc" id="s4c">Post-Mediation</a><br><br>
+<a href="#5oth" id="s5">(E)	Others</a><br>
 
 
 #### <a name="1general">(A)	General</a> <a href="#s1" title="Return to top">↩</a> ####
