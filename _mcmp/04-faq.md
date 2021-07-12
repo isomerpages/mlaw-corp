@@ -13,7 +13,7 @@ breadcrumb: FAQ
 <a href="#2tmp" id="s4">(D)	The Mediation Process</a><br>
 * <a href="#2tmpa" id="s4a">Pre-Mediation</a><br>
 * <a href="#2tmpb" id="s4b">During Mediation</a><br>
-* <a href="#2tmpc" id="s4c">Post-Mediation</a><br>
+* <a href="#2tmpc" id="s4c">Post-Mediation</a><br><br>
 <a href="#2oth" id="s5">(E)	Others</a><br>
 
 
@@ -41,7 +41,7 @@ breadcrumb: FAQ
 * MinLaw therefore urges parties affected by COVID-19 to consider mediation to resolve their outstanding issues.
 
 
-#### (B) Qualification Criteria ####
+#### <a name="2qc">(B) Qualification Criteria</a> <a href="#s2" title="Return to top">↩</a> ####
 2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
@@ -75,12 +75,12 @@ breadcrumb: FAQ
 * Please note that your counterparty is at liberty to decline to attend mediation, and enforce the determination.
 
 
-#### (C) The Mediators ####
+#### <a name="3tm">(C) The Mediators</a> <a href="#s3" title="Return to top">↩</a> ####
 6. Who are the mediators? 
 
 * The mediators are professionals from various backgrounds, and they include lawyers, managers, business owners and community leaders. They are trained in, and have vast experience in voluntary and Court-referred mediations. 
 
-#### (D) The Mediation Process ####
+#### <a name="4tmp">(D) The Mediation Process</a> <a href="#s4" title="Return to top">↩</a> ####
 
 **Pre-Mediation**
 7. How much does mediation under the MCMP cost?
@@ -178,7 +178,7 @@ breadcrumb: FAQ
 *  If you require legal advice on enforcing your settlement agreement, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance. You may also wish to approach the Community Justice Centre (CJC) at the State Courts to arrange for free legal advice with a lawyer. The CJC’s contact information can be found at [https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/](https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/). 
 
 
-#### (E) Others ####
+#### <a name="5oth">(E) Others</a> <a href="#s5" title="Return to top">↩</a> ####
 20. What are the current safe management measures for wedding events?
 * Please refer to [this link](https://www.gobusiness.gov.sg/covid-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions) for the latest safe management measures for wedding solemnisations and receptions.
 
