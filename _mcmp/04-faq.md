@@ -7,7 +7,7 @@ breadcrumb: FAQ
 
 ### FAQ ###
 
-<a href="#1general" id="s1">(A)	General</a>
+<a href="#1general" id="s1">(A)	General</a><b>
 (B)	Qualification Criteria
 (C)	The Mediators
 (D)	The Mediation Process
@@ -142,7 +142,31 @@ breadcrumb: FAQ
 
 * A party to the mediation shall not be represented by a lawyer at the mediation.  
 
-14. 
+14. What are some possible outcomes of mediation? 
+* The outcome of mediation is controlled by parties, who, facilitated by the mediator, will develop their own solution.  
+
+* Some possible non-exhaustive outcomes that parties could agree on include: 
+
+ * Postponement of the event;
+ * Downsizing of the event, with adjustments to the contract price; 
+ * Cancellation of the event, with the unutilised deposit to be converted to credit that can be used for other goods and services or transferred to third parties;
+ * Cancellation of the event, with part of the deposit to be kept by the vendor, and part of the deposit to be returned to the customer. 
+
+15. If we do not manage to reach a settlement agreement within 2 hours, can a further mediation session be arranged? 
+ * Yes, if both parties agree and the Mediator is of the view that a further mediation session would be beneficial. 
+ 
+16. What happens if we do not manage to settle the dispute during mediation?
+* Parties are at liberty to consider other forms of dispute resolution, including continued negotiation or through Court proceedings. 
+* If you wish to seek legal advice on your contractual dispute, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance.
+
+17. Can I request for the mediation to be conducted face-to-face?
+ 
+
+
+
+
+
+
 
 
 
