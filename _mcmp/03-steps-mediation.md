@@ -8,7 +8,9 @@ breadcrumb: Steps in the Mediation Process
 ### Steps in the Mediation Process ###
 
 The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to parties whose wedding events were/are scheduled to be held on a date between <b><u>8 May 2021 to 31 July 2021</b></u> (both dates inclusive).
-Note: The Request for Mediation and the relevant email address to which the Request should be submitted will be made available on this webpage on 14 July 2021.![image](https://user-images.githubusercontent.com/43874074/125233450-259e1b80-e311-11eb-9c06-c90dd03d1b7b.png)
+
+Note: The Request for Mediation and the relevant email address to which the Request should be submitted will be made available on this webpage on 14 July 2021.
+
 #### Summary of Process ####
 
 #### Step 1: Applicant sends a Request for Mediation ####
