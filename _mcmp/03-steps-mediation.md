@@ -9,7 +9,7 @@ breadcrumb: Steps in the Mediation Process
 
 The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to parties whose wedding events were/are scheduled to be held on a date between <b><u>8 May 2021 to 31 July 2021</u></b> (both dates inclusive).
 
-**Note: The Request for Mediation and the relevant email address to which the Request should be submitted will be made available on this webpage on 14 July 2021.**
+<img src="../files/mcmp/03-step0.png">
 
 #### Summary of Process ####
 
