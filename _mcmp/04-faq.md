@@ -135,10 +135,10 @@ breadcrumb: FAQs
 <a name="4tmpb">**During Mediation**</a> <a href="#s4b" title="Return to top">↩</a><br>
 **13. Who can attend the mediation session? Can my lawyer / family member / best friend attend the mediation session with me?** 
 * The mediation session may only be attended by:
- * The mediator; and
- * The parties to the contract, namely: 
- *  The couple, if both partners are parties to the contract; 
- *  The vendor (if the vendor is an individual), or the vendor’s authorised officer(s) or employee(s) (if the vendor is a company or business);
+  * The mediator; and
+  * The parties to the contract, namely: 
+   *  The couple, if both partners are parties to the contract; 
+   *  The vendor (if the vendor is an individual), or the vendor’s authorised officer(s) or employee(s) (if the vendor is a company or business);
 
 * A party to the mediation shall not be represented by a lawyer at the mediation.  
 
