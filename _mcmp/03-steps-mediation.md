@@ -23,6 +23,14 @@ Mediation is a voluntary process – both parties have to agree to refer their c
 The deadline to submit a Request for Mediation is **10 September 2021**.
 
 
+#### Step 2:  Agreement to Mediate ####
+
+Note: The MCMP Mediation Procedure will be made available on this webpage on 14 July 2021.
+
+When both parties have agreed to mediate, MinLaw will send parties the Agreement to Mediate. This is to be signed and returned to MinLaw, at the email address that MinLaw used to communicate with both parties. 
+
+Amongst other things, parties will be required to adhere to the MCMP Mediation Procedure. (hyperlink)
+
 
 
 
