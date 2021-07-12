@@ -160,7 +160,29 @@ breadcrumb: FAQ
 * If you wish to seek legal advice on your contractual dispute, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance.
 
 17. Can I request for the mediation to be conducted face-to-face?
- 
+* The mediation session will generally be conducted virtually via videoconference. This is similar to how mediations are conducted for small-value disputes at the Singapore Mediation Centre under the Law Society Mediation Scheme. 
+
+* However, if the mediator deems that it may be more effective for both parties to attend a face-to-face mediation, the mediator may arrange the mediation to be conducted in person.
+
+* If you have good reasons for wanting a face-to-face mediation (e.g. you do not have easy access to the internet, or you are not comfortable with Zoom), please write in to the email address that the Ministry of Law had used to contact you, stating your reasons for wanting a face-to-face mediation. Please copy the other party when you write in.
+
+**Post-Mediation**
+
+18. We entered a settlement agreement during the mediation. However, I have since realised that I cannot meet my obligations under the settlement agreement. What can I do? 
+* A signed settlement agreement is binding and can be enforced in Court by the other party. Therefore, we encourage both parties to agree to the terms of a settlement agreement that they are able to comply with. 
+
+* However, after a settlement agreement is entered into, if parties agree, they may request for a subsequent mediation session by writing in to the Ministry of Law by 10 September 2021. If the other party does not agree to a subsequent mediation, or no further settlement agreement is reached at the re-mediation session, the first settlement agreement remains binding on the parties. You may wish to seek legal advice on your contractual obligations.
+
+19. We signed a settlement agreement during the mediation. However, the other party did not honour the settlement agreement. What can I do?
+* A settlement agreement is a legally binding agreement. You may commence legal proceedings to enforce the terms of the settlement agreement.
+*  If you require legal advice on enforcing your settlement agreement, you can refer to https://go.gov.sg/legal-asst for avenues of legal assistance. You may also wish to approach the Community Justice Centre (CJC) at the State Courts to arrange for free legal advice with a lawyer. The CJC’s contact information can be found at https://www.cjc.org.sg/services/legal-services/on-site-legal-clinic-oslas/. 
+
+
+
+
+
+
+
 
 
 
