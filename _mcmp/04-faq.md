@@ -40,9 +40,8 @@ breadcrumb: FAQ
 
 * MinLaw therefore urges parties affected by COVID-19 to consider mediation to resolve their outstanding issues.
 
-
 #### <a name="2qc">(B) Qualification Criteria</a> <a href="#s2" title="Return to top">↩</a> ####
-2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
+2.Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
@@ -50,16 +49,16 @@ breadcrumb: FAQ
 * Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
-3. Does the MCMP apply to contracts relating to non-wedding events? 
+3.Does the MCMP apply to contracts relating to non-wedding events? 
 * No. The MCMP only applies to wedding contracts. 
 * If your contract is for a non-wedding event, we encourage you to continue negotiating with your counterparty, to come to a mutually acceptable solution. If you believe that a mediator would be helpful in facilitating a solution, you may wish to consider mediation under the [Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/), or mediation at the [Singapore Mediation Centre](http://www.mediation.com.sg).
 
-4. How would mediation affect any previous agreements that were reached?
+4.How would mediation affect any previous agreements that were reached?
 * If both parties agree to the mediation and reach a new settlement agreement at the mediation, the new settlement agreement will override the previous agreement.
 * If the parties do not agree to mediation, or if no new settlement is reached during the mediation, the previous agreement will still stand.  
 
 
-5. I have an Assessor’s determination, but disagree with it. Can I mediate the dispute under the MCMP? 
+5.I have an Assessor’s determination, but disagree with it. Can I mediate the dispute under the MCMP? 
 * A determination made by an Assessor under the COVID-19 (Temporary Measures) Act is binding on parties. 
 
 * However, if both parties are agreeable, parties are not precluded from reaching a further settlement, whether through direct negotiation or mediation. 
