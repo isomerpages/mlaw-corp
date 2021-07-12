@@ -20,9 +20,12 @@ permalink: /news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-an
 4.	MinLaw encourages these parties to consider mediation. Mediation has several recognised benefits, including:
 
     a.	High success rate of settlement
+
     b.	Savings of time and money for parties
+
     c.	Preserves relationships between parties
-    d.	Confidentiality
+
+    d.	Confidentiality 
 
 {:start="5"}
 5.	To facilitate settlement between these couples and vendors, MinLaw will be providing free-of-charge mediation, if both parties agree to mediate. The mediation will be facilitated by a neutral trained professional in a non-adversarial and confidential setting. Mediators will facilitate the discussion and help parties work towards a mutually acceptable solution. This will be a useful channel for parties to explore and come to an amicable solution, as opposed to resolving the dispute in court.
