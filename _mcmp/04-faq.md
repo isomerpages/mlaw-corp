@@ -7,7 +7,7 @@ breadcrumb: FAQ
 
 ### FAQ ###
 
-(A)	General
+<a href="#1general" id="s1">(A)	General</a>
 (B)	Qualification Criteria
 (C)	The Mediators
 (D)	The Mediation Process
@@ -17,7 +17,7 @@ breadcrumb: FAQ
 (E)	Others
 
 
-#### (A)	General ####
+#### <a name="1general">(A)	General</a> <a href="#s1" title="Return to top">↩</a> ####
 1.	Why should I agree to mediation? 
 
 * The Heightened Alert imposed a number of restrictions to manage the risks of COVID-19 transmission through large gatherings. As a result of these restrictions, some wedding solemnisations and receptions during the affected period could not proceed on the scale or in the exact manner that couples and vendors had planned. Adjustments to the wedding plans had to be made to comply with the restrictions.
