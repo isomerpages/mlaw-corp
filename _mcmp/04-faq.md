@@ -18,7 +18,7 @@ breadcrumb: FAQ
 
 
 #### <a name="1general">(A)	General</a> <a href="#s1" title="Return to top">↩</a> ####
-1.	Why should I agree to mediation? 
+1. Why should I agree to mediation? 
 
 * The Heightened Alert imposed a number of restrictions to manage the risks of COVID-19 transmission through large gatherings. As a result of these restrictions, some wedding solemnisations and receptions during the affected period could not proceed on the scale or in the exact manner that couples and vendors had planned. Adjustments to the wedding plans had to be made to comply with the restrictions.
 
@@ -42,7 +42,7 @@ breadcrumb: FAQ
 
 
 #### (B) Qualification Criteria ####
-2.	Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
+2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
@@ -50,7 +50,7 @@ breadcrumb: FAQ
 * Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
-3.	Does the MCMP apply to contracts relating to non-wedding events? 
+3. Does the MCMP apply to contracts relating to non-wedding events? 
 * No. The MCMP only applies to wedding contracts. 
 * If your contract is for a non-wedding event, we encourage you to continue negotiating with your counterparty, to come to a mutually acceptable solution. If you believe that a mediator would be helpful in facilitating a solution, you may wish to consider mediation under the [Law Society Mediation Scheme](https://www.lawsociety.org.sg/for-lawyers/dispute-resolution-schemes/law-society-mediation-scheme/), or mediation at the [Singapore Mediation Centre](http://www.mediation.com.sg).
 
@@ -59,7 +59,7 @@ breadcrumb: FAQ
 * If the parties do not agree to mediation, or if no new settlement is reached during the mediation, the previous agreement will still stand.  
 
 
-5.	I have an Assessor’s determination, but disagree with it. Can I mediate the dispute under the MCMP? 
+5. I have an Assessor’s determination, but disagree with it. Can I mediate the dispute under the MCMP? 
 * A determination made by an Assessor under the COVID-19 (Temporary Measures) Act is binding on parties. 
 
 * However, if both parties are agreeable, parties are not precluded from reaching a further settlement, whether through direct negotiation or mediation. 
@@ -76,19 +76,18 @@ breadcrumb: FAQ
 
 
 #### (C) The Mediators ####
-
-6.	Who are the mediators? 
+6. Who are the mediators? 
 
 * The mediators are professionals from various backgrounds, and they include lawyers, managers, business owners and community leaders. They are trained in, and have vast experience in voluntary and Court-referred mediations. 
 
 #### (D) The Mediation Process ####
 
 **Pre-Mediation**
-7.	How much does mediation under the MCMP cost?
+7. How much does mediation under the MCMP cost?
 
 * Mediation under the MCMP is free.
 
-8.	The Safe Management Measures permit the holding of my wedding event.  Should I nevertheless cancel my wedding event and request for mediation under the MCMP?
+8. The Safe Management Measures permit the holding of my wedding event.  Should I nevertheless cancel my wedding event and request for mediation under the MCMP?
 
 * The mediation process is voluntary and may only take place if both parties agree to mediate. Further, for a settlement to take place, both parties must reach an agreement. No settlement will be imposed by the mediator. 
 
@@ -106,6 +105,19 @@ breadcrumb: FAQ
 * If the other party continues to decline mediation, a mediation cannot be arranged. We encourage you to continue negotiating with your counterparty outside of the MCMP, to come to a mutually acceptable solution.
 
 * Otherwise, either party can apply to the Courts to resolve their dispute. If you wish to seek legal advice on your contractual dispute, you can refer to [https://go.gov.sg/legal-asst](https://go.gov.sg/legal-asst) for avenues of legal assistance. 
+
+10. The other party sent me a Request for Mediation. Can I decline to attend mediation?
+* Yes, one can decline to attend mediation. Mediation is a voluntary process – both parties have to agree to mediate. 
+
+* However, we encourage you to participate in the mediation. 
+
+* If the dispute is not settled amicably and has to be resolved in court, both parties may end up spending substantial time and costs on legal proceedings. In most cases, the costs would be disproportionate to the sum in dispute. The process is adversarial and the outcome may not be the desired outcome for either or both parties.
+
+* In contrast, mediation allows parties to reach a mutually acceptable solution in a confidential and non-confrontational setting. Parties are guided by the mediator to focus on issues that are important and to consider pragmatic solutions that work for both parties. 
+
+* Please also note that the Court, in deciding the issue of costs, may take into account the parties’ conduct in relation to any attempt to resolve the matter by mediation, including a party’s refusal to attend mediation. 
+
+11. 
 
 
 
