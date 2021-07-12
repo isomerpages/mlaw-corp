@@ -18,6 +18,7 @@ permalink: /news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-an
 
 {:start="4"}
 4.	MinLaw encourages these parties to consider mediation. Mediation has several recognised benefits, including:
+
     a.	High success rate of settlement
     b.	Savings of time and money for parties
     c.	Preserves relationships between parties
