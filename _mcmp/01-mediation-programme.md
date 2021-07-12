@@ -15,5 +15,5 @@ Mediation under this programme is an informal and voluntary process. The mediati
 From 14 July 2021, interested parties can apply to the Ministry of Law for mediation by filling up the Request for Mediation, and emailing it to both MinLaw and the other part(ies) to the contract. The Request for Mediation can be downloaded [here](/mcmp/steps-in-the-mediation-process) and must be submitted by <b><u>10 September 2021</u></b>. 
 
 Additional Resources: 
-* MinLaw’s Press Release dated 12 July 2021
+* [MinLaw’s Press Release dated 12 July 2021](/news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-and-Vendors-Affected-by-Recent-COVID-19-Restrictions)
 * [Infographic](../../files/mcmp/MinLaw_Mediation_Programme.pdf)
