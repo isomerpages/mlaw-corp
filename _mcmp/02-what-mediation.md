@@ -14,7 +14,7 @@ The mediator is not an arbiter or an Assessor; he/she does not make any decision
 
 A settlement agreement entered into by parties during the mediation is binding, and can subsequently be enforced in court. 
 
-<b><u>Benefits of Mediation under the MinLaw COVID-19 (Wedding) Mediation Programme ('MCMP')</b></u>
+**<u>Benefits of Mediation under the MinLaw COVID-19 (Wedding) Mediation Programme ('MCMP')**
 * **Cost Effective**: Mediation under the MCMP is free. 
 * **Time Effective**: A mediation session will generally last about 2 hours.
 * **Control over Outcomes**: The mediator will assist parties to develop their own solution. Each party is directly involved in negotiating the outcome, and no settlement will be imposed on the parties. Parties have the flexibility of coming up with solutions that suit them.
