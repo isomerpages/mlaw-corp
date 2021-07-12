@@ -1,11 +1,11 @@
 ---
-title: FAQ
+title: FAQs
 permalink: /mcmp/faq/
-breadcrumb: FAQ
+breadcrumb: FAQs
 
 ---
 
-### FAQ ###
+### Frequently Asked Questions ###
 
 <a href="#1general" id="s1">(A)	General</a><br>
 <a href="#2qc" id="s2">(B)	Qualification Criteria</a><br>
@@ -47,7 +47,7 @@ breadcrumb: FAQ
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
 
-* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](steps-in-the-mediation-process)” to find out how to apply for mediation.
+* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](../mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
 **3. Does the MCMP apply to contracts relating to non-wedding events?** 
