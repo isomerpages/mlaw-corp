@@ -1,6 +1,6 @@
 ---
 title: MinLaw COVID-19 (Wedding) Mediation Programme
-permalink: /covid19-meditation/
+permalink: /covid19-meditation-test
 breadcrumb: MinLaw COVID-19 (Wedding) Mediation Programme
 
 ---
