@@ -9,9 +9,8 @@ breadcrumb: Steps in the Mediation Process
 
 The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to parties whose wedding events were/are scheduled to be held on a date between <b><u>8 May 2021 to 31 July 2021</u></b> (both dates inclusive).
 
-<img src="../files/mcmp/03-step0.png">
-
 #### Summary of Process ####
+<img src="../files/mcmp/03-step0.png">
 
 #### Step 1: Applicant sends a Request for Mediation ####
 
@@ -47,6 +46,8 @@ A 2-hour virtual mediation session is held.
 All parties to the contract should attend the mediation. If the party is a company or business, an officer or employee who is authorised to represent the party should attend the mediation. A party to the mediation shall not be represented by an advocate and solicitor.
 
 A typical mediation may be carried out as follows: 
+
+<img src="../files/mcmp/03-step4.png">
 
 The mediator may adopt different methods, depending on his or her assessment of the case.
 
