@@ -13,7 +13,8 @@ breadcrumb: FAQ
 <a href="#4tmp" id="s4">(D)	The Mediation Process</a><br>
 * <a href="#4tmpa" id="s4a">Pre-Mediation</a><br>
 * <a href="#4tmpb" id="s4b">During Mediation</a><br>
-* <a href="#4tmpc" id="s4c">Post-Mediation</a><br><br>
+* <a href="#4tmpc" id="s4c">Post-Mediation</a><br>
+
 <a href="#5oth" id="s5">(E)	Others</a><br>
 
 
@@ -41,7 +42,7 @@ breadcrumb: FAQ
 * MinLaw therefore urges parties affected by COVID-19 to consider mediation to resolve their outstanding issues.
 
 #### <a name="2qc">(B) Qualification Criteria</a> <a href="#s2" title="Return to top">↩</a> ####
-2.Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
+2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
