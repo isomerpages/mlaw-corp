@@ -32,9 +32,21 @@ When both parties have agreed to mediate, MinLaw will send parties the Agreement
 Amongst other things, parties will be required to adhere to the MCMP Mediation Procedure. (hyperlink)
 
 
+#### Step 3:  Arrangement of Mediation Session ####
+MinLaw will arrange for a mediation session to be held within two weeks of the receipt of the signed Agreement to Mediate. Timelines are subject to the mediator’s and the parties’ availabilities.  
+
+Parties will be requested to submit and exchange confidential and without prejudice Case Statements before the mediation session. 
 
 
+#### Step 4: Mediation ####
+A 2-hour virtual mediation session is held. 
 
+All parties to the contract should attend the mediation. If the party is a company or business, an officer or employee who is authorised to represent the party should attend the mediation. A party to the mediation shall not be represented by an advocate and solicitor.
 
+A typical mediation may be carried out as follows: 
+
+The mediator may adopt different methods, depending on his or her assessment of the case.
+
+If parties reach a settlement, the mediator will assist parties to draw up a settlement agreement according to the agreed terms, and facilitate the signing thereof. Once signed, the settlement agreement is binding on parties. 
 
 
