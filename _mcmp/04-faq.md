@@ -45,9 +45,9 @@ breadcrumb: FAQ
 2.	Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
- 
- * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
+  * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
 
-* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “Steps in the Mediation Process” (hyperlink to www.go.gov.sg/request-for-mediation) to find out how to apply for mediation.
+* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](steps-in-mediation)” to find out how to apply for mediation.
+
 
 
