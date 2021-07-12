@@ -47,7 +47,7 @@ breadcrumb: FAQs
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
 
-* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](../mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
+* Interested parties must submit a Request for Mediation by **10 September 2021**. Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
 **3. Does the MCMP apply to contracts relating to non-wedding events?** 
@@ -122,7 +122,7 @@ breadcrumb: FAQs
 
 * You can expedite the process by obtaining the other party’s agreement to mediate before submitting the Request for Mediation. 
 
-* Please refer to “[Steps in the Mediation Process](../mcmp/steps-in-the-mediation-process)" for information on the expected timeframes.  
+* Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)" for information on the expected timeframes.  
 * Even if the mediation is not scheduled before your wedding event, after your wedding event proceeds, the parties are still eligible for mediation under the MCMP to settle any outstanding disputes, if the wedding event was scheduled to take place on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
 
 **12. My wedding event is scheduled to be held (e.g. on 25 July 2021) before the scheduled mediation session (e.g. on 2 August 2021). Must I still continue to fulfil my existing contractual obligations (e.g. continue paying my vendor)?**
