@@ -19,7 +19,7 @@ breadcrumb: FAQ
 
 
 #### <a name="1general">(A)	General</a> <a href="#s1" title="Return to top">↩</a> ####
-1. Why should I agree to mediation? 
+**1. Why should I agree to mediation?** 
 
 * The Heightened Alert imposed a number of restrictions to manage the risks of COVID-19 transmission through large gatherings. As a result of these restrictions, some wedding solemnisations and receptions during the affected period could not proceed on the scale or in the exact manner that couples and vendors had planned. Adjustments to the wedding plans had to be made to comply with the restrictions.
 
@@ -42,7 +42,7 @@ breadcrumb: FAQ
 * MinLaw therefore urges parties affected by COVID-19 to consider mediation to resolve their outstanding issues.
 
 #### <a name="2qc">(B) Qualification Criteria</a> <a href="#s2" title="Return to top">↩</a> ####
-2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to? 
+**2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to?** 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 31 July 2021 (both dates inclusive).
