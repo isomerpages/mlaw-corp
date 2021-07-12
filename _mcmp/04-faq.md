@@ -82,7 +82,7 @@ breadcrumb: FAQ
 
 #### <a name="4tmp">(D) The Mediation Process</a> <a href="#s4" title="Return to top">↩</a> ####
 
-**Pre-Mediation**
+<a name="4tmpa">**Pre-Mediation**</a> <a href="#s4a" title="Return to top">↩</a>
 7.How much does mediation under the MCMP cost?
 
 * Mediation under the MCMP is free.
@@ -132,7 +132,7 @@ breadcrumb: FAQ
 
 * You may wish to seek agreement from your counterparty to temporarily suspend contractual obligations pending the mediation session, and/or to seek legal advice on your contractual obligations. 
 
-**During Mediation**
+<a name="4tmpb">**During Mediation**</a> <a href="#s4b" title="Return to top">↩</a>
 13.Who can attend the mediation session? Can my lawyer / family member / best friend attend the mediation session with me? 
 * The mediation session may only be attended by:
  * The mediator; and
@@ -166,7 +166,7 @@ breadcrumb: FAQ
 
 * If you have good reasons for wanting a face-to-face mediation (e.g. you do not have easy access to the internet, or you are not comfortable with Zoom), please write in to the email address that the Ministry of Law had used to contact you, stating your reasons for wanting a face-to-face mediation. Please copy the other party when you write in.
 
-**Post-Mediation**
+<a name="4tmpc">**Post-Mediation**</a> <a href="#s4c" title="Return to top">↩</a>
 
 18.We entered a settlement agreement during the mediation. However, I have since realised that I cannot meet my obligations under the settlement agreement. What can I do? 
 * A signed settlement agreement is binding and can be enforced in Court by the other party. Therefore, we encourage both parties to agree to the terms of a settlement agreement that they are able to comply with. 
