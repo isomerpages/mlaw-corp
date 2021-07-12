@@ -7,7 +7,7 @@ breadcrumb: FAQ
 
 ### FAQ ###
 
-<a href="#1general" id="s1">(A)	General</a><b>
+<a href="#1general" id="s1">(A)	General</a><br>
 (B)	Qualification Criteria
 (C)	The Mediators
 (D)	The Mediation Process
