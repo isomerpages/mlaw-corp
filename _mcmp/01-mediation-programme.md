@@ -1,6 +1,6 @@
 ---
 title: MinLaw COVID-19 (Wedding) Mediation Programme
-permalink: /mcmp/meditation-programme/
+permalink: /mcmp/mediation-programme/
 breadcrumb: MinLaw COVID-19 (Wedding) Mediation Programme
 
 ---
