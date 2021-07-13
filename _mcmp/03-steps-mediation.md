@@ -15,20 +15,18 @@ The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to pa
 #### Step 1: Applicant sends a Request for Mediation ####
 
 Mediation is a voluntary process – both parties have to agree to refer their case to mediation.
-* If parties have agreed to mediate at the MCMP at the outset, either party (the “Applicant”) should fill up the [Request for Mediation](../files/mcmp/Request_for_Mediation.docx). The Applicant should email (i) the completed Request, (ii) a copy of the wedding contract and (iii) supporting document(s) of parties’ agreement to mediate to MinLaw. All other parties to the contract (including the counterparty to the contract) should be copied in the email. 
+* If parties have agreed to mediate at the MCMP at the outset, either party (the “Applicant”) should fill up the [Request for Mediation](../files/mcmp/Request_for_Mediation.docx). The Applicant should email (i) the completed Request, (ii) a copy of the wedding contract and (iii) supporting document(s) of parties’ agreement to mediate to [COVID19_Mediation_Request@mlaw.gov.sg](mailto:COVID19_Mediation_Request@mlaw.gov.sg). All other parties to the contract (including the counterparty to the contract) should be copied in the email. 
 
-* If parties have not agreed to mediate at the MCMP at the outset, the party who wishes to initiate mediation (the “Applicant”) should fill up the Request for Mediation. The Applicant should email (i) the completed Request, and (ii) a copy of the wedding contract to MinLaw. All other parties to the contract should be copied. MinLaw will invite the other party to respond on whether he or she agrees to mediate. If there is no agreement, mediation will not be arranged. Parties will have to resolve their dispute through other ways. 
+* If parties have not agreed to mediate at the MCMP at the outset, the party who wishes to initiate mediation (the “Applicant”) should fill up the [Request for Mediation](../files/mcmp/Request_for_Mediation.docx). The Applicant should email (i) the completed Request, and (ii) a copy of the wedding contract to [COVID19_Mediation_Request@mlaw.gov.sg](mailto:COVID19_Mediation_Request@mlaw.gov.sg). All other parties to the contract should be copied. MinLaw will invite the other party to respond on whether he or she agrees to mediate. If there is no agreement, mediation will not be arranged. Parties will have to resolve their dispute through other ways. 
 
 The deadline to submit a Request for Mediation is **10 September 2021**.
 
 
 #### Step 2:  Agreement to Mediate ####
 
-**Note: The MCMP Mediation Procedure will be made available on this webpage on 14 July 2021.**
-
 When both parties have agreed to mediate, MinLaw will send parties the Agreement to Mediate. This is to be signed and returned to MinLaw, at the email address that MinLaw used to communicate with both parties. 
 
-Amongst other things, parties will be required to adhere to the MCMP Mediation Procedure.
+Amongst other things, parties will be required to adhere to the [MCMP Mediation Procedure](../files/mcmp/MCMP_Mediation_Procedure.pdf).
 
 
 #### Step 3:  Arrangement of Mediation Session ####
