@@ -21,7 +21,7 @@ sections:
                   external: false
                 - title: 'MinLaw COVID-19 (Wedding) Mediation Programme'
                   description: 'Find out more about the Programme'
-                  url: /mcmp/meditation-programme
+                  url: /mcmp/mediation-programme
                 - title: 'The Singapore Convention'
                   description: 'Find Out More'
                   url: 'https://www.singaporeconvention.org/'
