@@ -44,7 +44,7 @@ MinLaw formulates and reviews the following policies to support the optimal use 
   </li>
 </ul>
 
-MinLaw is also the guardian of State land.  Its Statutory Board, the [Singapore Land Authority (SLA)](https://www1.sla.gov.sg/){:target="_blank"}, manages approximately 11,000 hectares of State land and 5,000 State buildings.
+MinLaw is also the guardian of State land.  Its Statutory Board, the [Singapore Land Authority (SLA)](https://www.sla.gov.sg/){:target="_blank"}, manages approximately 11,000 hectares of State land and 5,000 State buildings.
 
 SLA provides the following land administration services:
 
