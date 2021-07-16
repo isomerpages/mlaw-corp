@@ -38,8 +38,8 @@ MinLaw formulates and reviews the following policies to support the optimal use 
   <li>
     <b>Land Titles (Strata) Act</b>
     <ul class="no-style">
-      <li>The sale of private strata developments in en bloc sales, or collective sales, facilitates redevelopment and supports urban rejuvenation.  The requirements and procedures for an en bloc sale by majority consent are governed by the <a href="https://www.stratatb.gov.sg/faq-ltsa.html#)" target="_blank">Land Titles (Strata) Act</a>.</li>
-      <li>Frequently Asked Questions (FAQs) related to <a href="https://www.gov.sg/" target="_blank">collective sale</a>.</li>
+      <li>The sale of private strata developments in en bloc sales, or collective sales, facilitates redevelopment and supports urban rejuvenation.  The requirements and procedures for an en bloc sale by majority consent are governed by the <a href="https://sso.agc.gov.sg/Act/LTSA1967" target="_blank">Land Titles (Strata) Act</a>.</li>
+      <li>Frequently Asked Questions (FAQs) related to <a href="https://www.stratatb.gov.sg/faq-ltsa.html#/" target="_blank">collective sale</a>.</li>
     </ul>
   </li>
 </ul>
