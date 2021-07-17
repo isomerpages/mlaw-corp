@@ -127,7 +127,7 @@ Ladies and gentlemen
 {:start="23"}
 23.	I am very confident that the Protocol between SIMC and CAMP will similarly benefit dispute resolution users in Singapore and India. 
 
-**Singapore Convention on Mediation **
+**Singapore Convention on Mediation**
 
 {:start="24"}
 24.	While getting a mediated settlement agreement is a good first step, there will always be a niggling worry, especially when you deal with a cross-border party, that the other party may not fulfil their part of the agreement. So what’s important in the mediation is the assurance that any agreement that parties reach will be complied with.
