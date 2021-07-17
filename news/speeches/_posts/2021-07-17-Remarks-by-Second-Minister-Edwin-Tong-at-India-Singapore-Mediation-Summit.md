@@ -74,9 +74,9 @@ Ladies and gentlemen
 {:start="14"}
 14.	It’s especially imperative during this period, when: 
 
-    a. more disputes may arise due to disruptions in supply chains and of course various other unanticipated restrictions; and 
+    a. More disputes may arise due to disruptions in supply chains and of course various other unanticipated restrictions; and 
     
-    b.	businesses may be on tighter budgets.
+    b.	Businesses may be on tighter budgets.
 
 {:start="15"}
 15.	The pandemic will pass someday, and they would want these business relations they have maintained, built up over the years, to remain harmonious.
