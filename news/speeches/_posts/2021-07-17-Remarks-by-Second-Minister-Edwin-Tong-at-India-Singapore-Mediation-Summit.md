@@ -1,5 +1,5 @@
 ---
-title: 'Remarks by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the India-Singapore Mediation Summit'
+title: 'Remarks by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law at the India-Singapore Mediation Summit'
 date: 2021-07-17
 permalink: /news/speeches/2021-07-17-Remarks-by-Second-Minister-Edwin-Tong-at-India-Singapore-Mediation-Summit
 
