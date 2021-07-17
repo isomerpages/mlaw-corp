@@ -1,5 +1,5 @@
 ---
-title: 'Remarks by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the India-Singapore Mediation Summit'
+title: 'Remarks by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law at the India-Singapore Mediation Summit'
 date: 2021-07-17
 permalink: /news/speeches/2021-07-17-Remarks-by-Second-Minister-Edwin-Tong-at-India-Singapore-Mediation-Summit
 
@@ -90,7 +90,7 @@ Ladies and gentlemen
 17.	Therefore, when we set up SIMC in 2014, we insisted on having the best mediators from around the world, and not just from Singapore. We are agnostic as to where they come from, as long as they can be the best in mediation.
 
 {:start="18"}
-18.	This is so that parties will be able to have access to first-class mediators who would able to meet their requirements and their counterparty’s requirements.
+18.	This is so that parties will be able to have access to first-class mediators who would be able to meet their requirements and their counterparty’s requirements.
 
 {:start="19"}
 19.	Today, I am happy to say, SIMC has an international panel of over 70 mediators from 17 jurisdictions with expertise in a variety of areas, including 6 from India.
@@ -122,7 +122,7 @@ Ladies and gentlemen
 
     d.	This took place within seven weeks of the suspension of arbitration.
 
-    e.	Having the dispute to be resolved in a matter of weeks, and in a non-contentious manner, has undoubtedly saved a lot of time and resources, and of course, I hope, preserve the commercial relationship as well. 
+    e.	Having the dispute resolved in a matter of weeks, and in a non-contentious manner, has undoubtedly saved a lot of time and resources, and of course, I hope, preserve the commercial relationship as well. 
 
 {:start="23"}
 23.	I am very confident that the Protocol between SIMC and CAMP will similarly benefit dispute resolution users in Singapore and India. 
