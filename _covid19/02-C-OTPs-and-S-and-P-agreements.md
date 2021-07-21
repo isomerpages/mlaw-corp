@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Options to Purchase and Sale and Purchase Agreements with Developers ###
 
-<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for Options to Purchase and Sale and Purchase Agreements will be extended from 19 October 2020 to 30 June 2021. The extension will assist purchasers of residential, commercial and industrial properties who require more time to make their payments, particularly those who pay developers directly without taking a bank loan, with minimal impact to developers’ cash flow. Parties are encouraged to use the extended prescribed period to reach a long term mutually acceptable solution to their contractual disputes that arose because of COVID-19. Please refer to this [press release](https://www.mnd.gov.sg/newsroom/press-releases/view/further-extension-of-relief-periods-under-the-covid-19-(temporary-measures)-act-for-specified-categories-of-contracts-in-the-built-environment-sector) for more information.
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for Options to Purchase and Sale and Purchase Agreements ended on 30 June 2021. If a Notification for Relief in respect of an Option to Purchase was served by 30 June 2021, individuals and businesses can still file an Application for an Assessor’s Determination by 31 August 2021. 
 
 #### General FAQs ####
 <a name="q1">**1.	I am a buyer of a property (residential, commercial or industrial) from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>
