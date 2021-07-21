@@ -84,7 +84,7 @@ It is envisaged that the Orders will continue to be in force for at least as lon
       </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S327-2020?DocDate=20200427" target="_blank">COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Charities, Co-operative Societies and Mutual Benefit Organisations) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/apr/alternative-arrangements-charities-co-ops-mbos-to-conduct-general-meetings-amid-covid-19" target="_blank">Press release by the Ministry of Culture, Community and Youth on Alternative Arrangements for Charities, Co-operative Societies and Mutual Benefit Organisations to Conduct General Meetings amid COVID-19 (28 April 2020)</a>
-    <br><br><a href="https://www.charities.gov.sg/News And Events/Documents/2 May 2020 - Media release Support for Charities on the Conduct of Meetings Amid COVID-19 (FINAL)(revised links).pdf" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
+    <br><br><a href="https://www.mccy.gov.sg/about-us/news-and-resources/press-statements/2020/may/guide-to-charities-on-the-conduct-of-general-meetings" target="_blank">Press release by the Ministry of Culture, Community and Youth on Guide to Charities on the Conduct of General Meetings (2 May 2020)</a>
     <br><br>
     <a href="https://www.charities.gov.sg/PublishingImages/Resource-and-Training/Guides-Templates-Awards/Guides/Documents/Guide%20on%20Conduct%20of%20Meetings%20by%20Charities%20amid%20COVID-19.pdf" target="_blank">Guide on Conduct of Meetings by Charities amid COVID-19</a>
     <br><br>
