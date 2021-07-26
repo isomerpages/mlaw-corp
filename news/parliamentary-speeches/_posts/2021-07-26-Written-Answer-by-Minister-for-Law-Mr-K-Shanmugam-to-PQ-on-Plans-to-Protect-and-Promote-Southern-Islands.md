@@ -10,7 +10,7 @@ Ms Nadia Ahmad Samdin (Member of Parliament for Ang Mo Kio GRC)
   
 **<b><u>Question</u></b>**  
 
-To ask the Minister for Law whether there are concerted island management plans to protect and promote the natural and historical heritage of our Southern Islands, so that people can visit and access them safely while not damaging the natural environment and protect the rich biodiversity of the Southern Islands
+To ask the Minister for Law whether there are concerted island management plans to protect and promote the natural and historical heritage of our Southern Islands, so that people can visit and access them safely while not damaging the natural environment and protect the rich biodiversity of the Southern Islands.
 
 **<b><u>Written Answer:</u></b>**  
 
