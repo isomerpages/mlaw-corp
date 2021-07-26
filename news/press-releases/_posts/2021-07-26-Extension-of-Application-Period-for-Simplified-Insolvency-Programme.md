@@ -23,7 +23,6 @@ permalink: /news/press-releases/Extension-of-Application-Period-for-Simplified-I
 5. The SIP is administered by the Official Receiver and comprises two temporary, bespoke insolvency processes to assist:<br>
 <br>
     a. viable but distressed MSCs to restructure their debts with their creditors via the Simplified Debt Restructuring Programme (“<b>SDRP</b>”); and 
-    
     b. unviable MSCs to wind up via the Simplified Winding Up Programme (“<b>SWUP</b>”). 
  
 {:start="6"}
