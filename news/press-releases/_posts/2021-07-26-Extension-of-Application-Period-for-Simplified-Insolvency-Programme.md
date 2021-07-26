@@ -27,7 +27,7 @@ permalink: /news/press-releases/Extension-of-Application-Period-for-Simplified-I
     b. unviable MSCs to wind up via the Simplified Winding Up Programme (“<b>SWUP</b>”). 
  
 {:start="6"}
-6. MSCs that wish to apply for the SIP may visit www.go.gov.sg/sip.
+6. MSCs that wish to apply for the SIP may visit <a href="https://www.go.gov.sg/sip" target="new">https://www.go.gov.sg/sip</a>.
 
 Past Press Releases: [28 Jan 2021](/news/press-releases/simplified-insolvency-programme-commences) and [5 Oct 2020](/news/press-releases/simplified-insolvency-programme)
 
