@@ -54,7 +54,7 @@ permalink: /news/press-releases/2021-07-26-Legislative-Amendments-for-Future-Rea
 **MINISTRY OF LAW**<br>
 **26 July 2021**
 
-[Annex - Factsheet on Other Technical Amendments in the Courts Reform Bill (176KB)](/files/news/press-releases/2021/03/Factsheet-Other-Technical-Amendments.pdf)<br>
+[Annex - Factsheet on Other Technical Amendments in the Courts Reform Bill (139KB)](/files/news/press-releases/2021/03/Factsheet-Other-Technical-Amendments.pdf)<br>
 
 <p><sup id="fn1">1. The full response to the feedback received on the recommendations of the Civil Justice Commission and the Civil Justice Review Committee can be accessed at <a href="http://www.go.gov.sg/civil-justice-reforms-response" target="new">http://www.go.gov.sg/civil-justice-reforms-response</a><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 <p><sup id="fn2">2. This builds on the temporary measures that were put in place in April 2020 under the COVID-19 (Temporary Measures) Act. Those measures enabled the wider use of remote communication technology (such as hearings conducted via video-link) in court proceedings, so that the administration of justice could continue even amidst safe distancing measures.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
