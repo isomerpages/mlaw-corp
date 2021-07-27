@@ -27,23 +27,23 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
    
    b. If we go back to the time of independence, we had only:
    
-      i. 45 Legal Service Officers (“LSOs”), and 
+    i. 45 Legal Service Officers (“LSOs”), and 
       
-      ii. A total of 130 members at the Bar.
+    ii. A total of 130 members at the Bar.
 
    c. From those early days, we have always considered the Legal Service as a critical institution in establishing the Rule of Law in Singapore. It is part of the DNA of Singapore’s governance. 
    
    d. It provided a dedicated corps of officers, who amongst other things: 
    
-        i. Built a strong, trusted Judiciary;
+     i. Built a strong, trusted Judiciary;
         
-       ii. Prosecuted without fear or favour;
+     ii. Prosecuted without fear or favour;
        
-      iii. Supported effective, active and nimble policy-making;
+     iii. Supported effective, active and nimble policy-making;
       
-       iv. Drafted all the laws that are passed by Parliament; and
+     iv. Drafted all the laws that are passed by Parliament; and
        
-        v. Defended and secured Singapore’s interests internationally.
+     v. Defended and secured Singapore’s interests internationally.
 
    e. As Singapore grew, and our legal system gained strength, it had to grow and modernise, while maintaining high standards of excellence. It had to attract its own share of talent, and develop and deploy them well. 
    
@@ -51,16 +51,18 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
 
    f. At that time, and for many years after, the small number of LSOs meant that a fully integrated model, where officers were actively deployed to both the Judicial and Legal Branches, better met our needs. 
 
-      i. Even in 2006, we only had 290 LSOs. 
+       i. Even in 2006, we only had 290 LSOs. 
 
    g. An integrated model was necessary: 
 
-      i. For LSOs’ career progress, and
-      ii. For the LSC to respond nimbly to personnel needs. 
+        i. For LSOs’ career progress, and
+
+        ii. For the LSC to respond nimbly to personnel needs. 
 
    h. It also had the benefit of:
-
+<br>
       i. Providing a breadth of postings to develop young officers; and
+
       ii. Ensuring future leaders had the necessary experience spanning both the Judicial and Legal fields. 
 
 {:start="4"}
