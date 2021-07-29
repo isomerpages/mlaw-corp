@@ -54,11 +54,11 @@ Ms Kamikawa Yoko
 {:start="12"}
 12.	 I am also very happy that we are starting from a very strong base:
 
-    a. We have regular exchanges between our governments.
+   a. We have regular exchanges between our governments.
     
-    b.	Our arbitration and mediation institutions have already been working closely together.
+   b.	Our arbitration and mediation institutions have already been working closely together.
     
-    c. Our lawyers and in-house counsel have also come together, to share experiences at a very high-level legal conference organised by MinLaw and Japan Association of Arbitrators in Tokyo in March 2019. Then Vice Minister of Justice Hiroyuki Tsuji delivered the opening address.
+   c. Our lawyers and in-house counsel have also come together, to share experiences at a very high-level legal conference organised by MinLaw and Japan Association of Arbitrators in Tokyo in March 2019. Then Vice Minister of Justice Hiroyuki Tsuji delivered the opening address.
 
 **Conclusion**
 
