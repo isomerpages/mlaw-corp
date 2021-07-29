@@ -16,5 +16,5 @@ From 14 July 2021, interested parties can apply to the Ministry of Law for media
 
 Additional Resources: 
 * [MinLaw’s Press Release dated 12 July 2021](/news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-and-Vendors-Affected-by-Recent-COVID-19-Restrictions)
-* [MinLaw’s Press Release dated 29 July 2021]
+* [MinLaw’s Press Release dated 29 July 2021](/news/press-releases/2021-07-29-extended-coverage-of-minlaw-covid-19-wedding-mediation-programme)
 * [Infographic](../../files/mcmp/MinLaw_Mediation_Programme.pdf)
