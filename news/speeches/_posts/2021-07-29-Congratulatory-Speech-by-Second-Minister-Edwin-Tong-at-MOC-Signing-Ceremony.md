@@ -9,7 +9,9 @@ permalink: /news/speeches/2021-07-29-Congratulatory-Speech-by-Second-Minister-Ed
 29 July 2021 Posted in [[Speeches](/news/speeches)]
 
 Your Excellency,
+
 Minister of Justice of Japan,
+
 Ms Kamikawa Yoko
 
 {:start="1"}
