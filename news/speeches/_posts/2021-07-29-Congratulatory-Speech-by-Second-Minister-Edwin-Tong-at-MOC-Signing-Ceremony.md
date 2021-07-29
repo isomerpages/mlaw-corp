@@ -54,7 +54,7 @@ Ms Kamikawa Yoko
 {:start="12"}
 12.	 I am also very happy that we are starting from a very strong base:
 
-    a. We have regular exchanges between our governments.
+    a. We have regular exchanges between our governments. 
     
     b.	Our arbitration and mediation institutions have already been working closely together.
     
