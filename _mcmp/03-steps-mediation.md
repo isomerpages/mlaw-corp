@@ -7,7 +7,7 @@ breadcrumb: Steps in the Mediation Process
 
 ### Steps in the Mediation Process ###
 
-The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to parties whose wedding events were/are scheduled to be held on a date between <b><u>8 May 2021 to 31 July 2021</u></b> (both dates inclusive).
+The MinLaw COVID-19 (Wedding) Mediation Programme (“**MCMP**”) is open to parties whose wedding events were/are scheduled to be held on a date between <b><u>8 May 2021 to 30 September 2021</u></b> (both dates inclusive).
 
 #### Summary of Process ####
 <img src="../files/mcmp/03-step0.png">
@@ -19,7 +19,7 @@ Mediation is a voluntary process – both parties have to agree to refer their c
 
 * If parties have not agreed to mediate at the MCMP at the outset, the party who wishes to initiate mediation (the “Applicant”) should fill up the [Request for Mediation](../files/mcmp/Request_for_Mediation.docx). The Applicant should email (i) the completed Request, and (ii) a copy of the wedding contract to [COVID19_Mediation_Request@mlaw.gov.sg](mailto:COVID19_Mediation_Request@mlaw.gov.sg). All other parties to the contract should be copied. MinLaw will invite the other party to respond on whether he or she agrees to mediate. If there is no agreement, mediation will not be arranged. Parties will have to resolve their dispute through other ways. 
 
-The deadline to submit a Request for Mediation is **10 September 2021**.
+The deadline to submit a Request for Mediation is **31 October 2021**.
 
 
 #### Step 2:  Agreement to Mediate ####

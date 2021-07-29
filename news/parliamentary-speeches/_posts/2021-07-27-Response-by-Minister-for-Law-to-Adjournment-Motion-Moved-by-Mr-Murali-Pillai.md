@@ -25,62 +25,45 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
 
    a. The enduring challenge has been our very small pool of talent, limited by our small size.
 
-   b. If we go back to the time of independence, we had only:
-
-      i. 45 Legal Service Officers (“LSOs”), and 
-
-      ii. A total of 130 members at the Bar.
+   b. If we go back to the time of independence, we had only:<br>
+      (i) 45 Legal Service Officers (“LSOs”), and <br>
+      (ii) A total of 130 members at the Bar.
 
    c. From those early days, we have always considered the Legal Service as a critical institution in establishing the Rule of Law in Singapore. It is part of the DNA of Singapore’s governance. 
 
-   d. It provided a dedicated corps of officers, who amongst other things: 
+   d. It provided a dedicated corps of officers, who amongst other things: <br>
+      (i) Built a strong, trusted Judiciary;<br>
+      (ii) Prosecuted without fear or favour;<br>
+      (iii) Supported effective, active and nimble policy-making;<br>
+      (iv) Drafted all the laws that are passed by Parliament; and<br>
+      (v) Defended and secured Singapore’s interests internationally.
 
-      i. Built a strong, trusted Judiciary;
+   e. As Singapore grew, and our legal system gained strength, it had to grow and modernise, while maintaining high standards of excellence. It had to attract its own share of talent, and develop and deploy them well.<br>
+      (i) As former Chief Justice and President of the LSC, the late Mr Yong Pung How, said: the Legal Service should be “positioned as a premier service in the public sector of Singapore”.
 
-      ii. Prosecuted without fear or favour;
+   f. At that time, and for many years after, the small number of LSOs meant that a fully integrated model, where officers were actively deployed to both the Judicial and Legal Branches, better met our needs. <br>
+      (i) Even in 2006, we only had 290 LSOs. 
 
-      iii. Supported effective, active and nimble policy-making;
+   g. An integrated model was necessary: <br>
+      (i) For LSOs’ career progress, and<br>
+      (ii) For the LSC to respond nimbly to personnel needs. 
 
-      iv. Drafted all the laws that are passed by Parliament; and
-
-      v. Defended and secured Singapore’s interests internationally.
-
-   e. As Singapore grew, and our legal system gained strength, it had to grow and modernise, while maintaining high standards of excellence. It had to attract its own share of talent, and develop and deploy them well.
-
-      i. As former Chief Justice and President of the LSC, the late Mr Yong Pung How, said: the Legal Service should be “positioned as a premier service in the public sector of Singapore”.
-
-   f. At that time, and for many years after, the small number of LSOs meant that a fully integrated model, where officers were actively deployed to both the Judicial and Legal Branches, better met our needs. 
-
-      i. Even in 2006, we only had 290 LSOs. 
-
-   g. An integrated model was necessary: 
-  
-      i. For LSOs’ career progress, and
-
-      ii. For the LSC to respond nimbly to personnel needs. 
-
-   h. It also had the benefit of:
-
-      i. Providing a breadth of postings to develop young officers; and
-
-      ii. Ensuring future leaders had the necessary experience spanning both the Judicial and Legal fields. 
+   h. It also had the benefit of:<br>
+      (i) Providing a breadth of postings to develop young officers; and<br>
+      (ii) Ensuring future leaders had the necessary experience spanning both the Judicial and Legal fields. 
 
 {:start="4"}
 4. In 2014, as some Members might know, we made a significant shift, although the integrated model was retained. 
 
    a. Separate “Legal” and “Judicial” career tracks were introduced for LSOs in the middle ranks.
 
-   b. Existing Personnel Boards were restructured into 2 Boards, delineated along Branch lines. 
+   b. Existing Personnel Boards were restructured into 2 Boards, delineated along Branch lines. <br>
+      (i) The Special Personnel Boards exercise jurisdiction over human resource functions, including promotions, of LSOs in respect of Grades below LSO Grade 2. <br>
+      (ii) Today, LSOs below LSO Gr 2 constitute about 94% of LSOs.
 
-      i. The Special Personnel Boards exercise jurisdiction over human resource functions, including promotions, of LSOs in respect of Grades below LSO Grade 2. 
-
-      ii. Today, LSOs below LSO Gr 2 constitute about 94% of LSOs.
-
-   c. The integrated model, on the whole, was retained – particularly for those at the junior and senior ends of the spectrum: 
- 
-      i. This ensures junior officers are developed in different fields of legal work; while  
-
-      ii. Preserving flexibility to deploy the limited number of senior officers to roles in both Branches, and to meet the needs of Service. 
+   c. The integrated model, on the whole, was retained – particularly for those at the junior and senior ends of the spectrum: <br> 
+      (i) This ensures junior officers are developed in different fields of legal work; while  <br>
+      (ii) Preserving flexibility to deploy the limited number of senior officers to roles in both Branches, and to meet the needs of Service. 
 
 **(B) Our past position**
 
@@ -90,32 +73,27 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
 {:start="6"}
 6. Looking at it, as the Legal Service is now, I would say there are pros and cons either way; the challenge is to find the right balance for our circumstances and needs. 
 
-   a. A specialist model accounts for the widening spread of competencies which are needed in the Legal and Judicial Branches: 
+   a. A specialist model accounts for the widening spread of competencies which are needed in the Legal and Judicial Branches: <br>
+      (i) Officers will have longer runways to acquire the skills and knowledge needed to operate in increasingly more complex environments.<br>
+      (ii) Each Service will have the ability to develop its own HR frameworks and talent development programmes, which can be targeted to their needs. 
 
-      i. Officers will have longer runways to acquire the skills and knowledge needed to operate in increasingly more complex environments.
-
-      ii. Each Service will have the ability to develop its own HR frameworks and talent development programmes, which can be targeted to their needs. 
-
-   b. On the other hand, there are major benefits to an integrated model where officers rotate between Branches. 
-
-      i. The opportunity for a varied career helps the Legal Service attract and retain talent.
-
-      ii. For LSOs who assume senior leadership positions later on, rotations give them a better organisational perspective.
-
-      iii. An integrated model also makes it easier to meet manpower needs, where more specialised capabilities are not required. 
+   b. On the other hand, there are major benefits to an integrated model where officers rotate between Branches. <br>
+      (i) The opportunity for a varied career helps the Legal Service attract and retain talent.<br>
+      (ii) For LSOs who assume senior leadership positions later on, rotations give them a better organisational perspective.<br>
+      (iii) An integrated model also makes it easier to meet manpower needs, where more specialised capabilities are not required. 
 
 {:start="7"}
 7. Each time this question has arisen, including as recently as last year – as Mr Pillai pointed out, in November – we decided: in our view, the timing wasn’t quite right. 
 
    a. Our relatively limited talent pool remains a challenge – albeit to a lesser degree. 
 
-      i. We now have about 800 LSOs. But this is objectively a small number, operating in a small legal profession. 
+      (i) We now have about 800 LSOs. But this is objectively a small number, operating in a small legal profession. 
 
-      ii. England and Wales, for example, had almost 170,000 practising solicitors and barristers in 2020, making up around 0.28% of its population.
+      (ii) England and Wales, for example, had almost 170,000 practising solicitors and barristers in 2020, making up around 0.28% of its population.
 
-      iii. Singapore had fewer than 6,000 legal practitioners, constituting 0.1% of our population.
+      (iii) Singapore had fewer than 6,000 legal practitioners, constituting 0.1% of our population.
 
-      iv. Yet, the UK still struggles to staff its Judiciary. In 2017, the House of Lords Select Committee on the Constitution expressed serious concern about recruitment to the bench: The then-Lord Chancellor gave evidence that “not having enough people coming forward to be judges” was “one of the biggest threats” to the judiciary. 
+      (iv) Yet, the UK still struggles to staff its Judiciary. In 2017, the House of Lords Select Committee on the Constitution expressed serious concern about recruitment to the bench: The then-Lord Chancellor gave evidence that “not having enough people coming forward to be judges” was “one of the biggest threats” to the judiciary. 
 
 {:start="8"}
 8. But we left the door open for further consideration. 
@@ -130,9 +108,8 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
 
     a. But the fundamental challenge of a limited talent pool remains.
 
-    b. Could a new balance be found? 
-
-       i. Possibly, provided certain desirable features of our current system – like ensuring breadth of exposure, especially for younger officers – are retained in a sensible way. 
+    b. Could a new balance be found? <br>
+       (i) Possibly, provided certain desirable features of our current system – like ensuring breadth of exposure, especially for younger officers – are retained in a sensible way. 
        
 {:start="11"}
 11. The question then is, <i>when</i> is the right time to move?
@@ -156,3 +133,4 @@ permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-
 
 
 <p class="right-side-updated">Last updated on 27 July 2021</p>
+
