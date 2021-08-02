@@ -83,7 +83,7 @@ permalink: /news/press-releases/2021-08-02-First-Reading-Of-Criminal-Law-Miscell
     
     b.	To avoid ambiguity over whether these offences apply to material depicting minors in a non-sexual manner (such as diaper advertisements), the Bill clarifies that the depiction of the minors’ genitals, buttocks or breasts must be sexual in nature. 
 
-</u>Modernising the Language of Certain Terms in the Penal Code</u>
+<u>Modernising the Language of Certain Terms in the Penal Code</u>
 
 {:start="17"}
 17.	As part of our continuing efforts to ensure that the Penal Code is more accessible to present-day readers, the Bill replaces certain archaic terms (such as “wantonly”, “malignantly” and “maliciously”) with terms which are more easily understood, and already defined in the Penal Code (such as “rashly” or “intentionally”).
