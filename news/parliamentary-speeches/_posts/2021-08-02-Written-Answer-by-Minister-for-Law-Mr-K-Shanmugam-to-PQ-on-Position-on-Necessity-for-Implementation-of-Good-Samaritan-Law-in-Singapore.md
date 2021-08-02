@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Position on Necessity for Implementation of Good Samaritan Law in Singapore
 date: 2021-08-02
-permalink: /news/parliamentary-speeches/2021-07-26-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Position-on-Necessity-for-Implementation-of-Good-Samaritan-Law-in-Singapore
+permalink: /news/parliamentary-speeches/2021-08-02-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Position-on-Necessity-for-Implementation-of-Good-Samaritan-Law-in-Singapore
 ---
 
 02 August 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
