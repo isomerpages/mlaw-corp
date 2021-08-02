@@ -22,9 +22,9 @@ sections:
                 - title: 'MinLaw COVID-19 (Wedding) Mediation Programme'
                   description: 'Find out more about the Programme'
                   url: /mcmp/mediation-programme
-                - title: 'The Singapore Convention'
+                - title: 'Singapore Convention Week 2021'
                   description: 'Find Out More'
-                  url: 'https://www.singaporeconvention.org/'
+                  url: 'https://www.singaporeconventionweek.sg/'
                   external: false
     - resources:
           title: 'News and Information'
