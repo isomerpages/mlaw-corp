@@ -7,6 +7,8 @@ breadcrumb: E-Services
 
 **E-Services** 
 
+E-Services will be undergoing maintenance from 7 Aug 2021, 17:00hrs to 8 Aug 2021, 09:00hrs and will not be available during this period. We apologise for any inconvenience caused.
+
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)
