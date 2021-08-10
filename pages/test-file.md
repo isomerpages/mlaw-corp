@@ -7,6 +7,7 @@ breadcrumb: 'Test page'
 
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a>
 
+<!--
 <div class="row">
   <div class="col">
     <h2>Open <b>multiple</b></h2>
@@ -33,3 +34,4 @@ breadcrumb: 'Test page'
   </div>
  
 </div>
+-->
