@@ -5,6 +5,23 @@ breadcrumb: 'Test page'
 
 ---
 
+FAQ
+---
+
+Have questions?
+
+<div class="image">
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
+</div><br>
+
+<div class="paragraphs">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
+   <div class="content-heading">
+   <h3> Contact Us @ OneMinLaw</h3>
+  </div>
+</div>
+
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a>
 
 <!--
