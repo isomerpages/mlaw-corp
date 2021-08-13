@@ -27,11 +27,11 @@ permalink: /news/speeches/2021-08-13-Opening-Speech-by-Ms-Lai-Wei-Lin-at-the-ope
 {:start="6"}
 6.	Hackathons are always exciting platforms, 
 
-   a.	because of who they manage to bring together – people from different disciplines and backgrounds, 
+    a.	because of who they manage to bring together – people from different disciplines and backgrounds, 
 
-   b.	because of what they seek to do – to solve everyday problems, from the simple to the complex, and 
+    b.	because of what they seek to do – to solve everyday problems, from the simple to the complex, and 
 
-   c.	because of what they achieve – to enable cross-pollination of ideas, which in turn sparks creativity and innovation. 
+    c.	because of what they achieve – to enable cross-pollination of ideas, which in turn sparks creativity and innovation. 
 
 **Why legal tech?**
 
@@ -44,9 +44,9 @@ permalink: /news/speeches/2021-08-13-Opening-Speech-by-Ms-Lai-Wei-Lin-at-the-ope
 {:start="9"}
 9.	First, in the practice of law, one of the main drivers that lawyers are most concerned with is cost and efficiency. 
 
-   a.	The global legal industry landscape is getting more competitive. As a legal services hub, our industry is not immune to competitive pressures locally and from overseas.
+    a.	The global legal industry landscape is getting more competitive. As a legal services hub, our industry is not immune to competitive pressures locally and from overseas.
 
-   b.	Clients expect “more for less”. Increasingly, law firms will need to use technology to keep up and offer greater value for money; value in terms of quality or speed. 
+    b.	Clients expect “more for less”. Increasingly, law firms will need to use technology to keep up and offer greater value for money; value in terms of quality or speed. 
 
 {:start="10"}
 10.	There is much that technology can help with. 
@@ -55,13 +55,13 @@ permalink: /news/speeches/2021-08-13-Opening-Speech-by-Ms-Lai-Wei-Lin-at-the-ope
 
     b.	But what we need to recognise and adapt to, is the ability of technology to augment, not replace, what humans can do. 
 
-       i.	For example, document automation software solutions can capture information from source to generate new documents and assemble contract drafts very quickly, instead of over several man-hours. 
+        i.	For example, document automation software solutions can capture information from source to generate new documents and assemble contract drafts very quickly, instead of over several man-hours. 
 
-       ii.	At a more sophisticated level, legal tech can also transform and enable the provision of more transparent, accessible and affordable legal services.  For example, using legal chatbots, law firms can render simple legal advice to clients. 
+        ii.	At a more sophisticated level, legal tech can also transform and enable the provision of more transparent, accessible and affordable legal services.  For example, using legal chatbots, law firms can render simple legal advice to clients. 
 
-       iii.	Such technologies free up lawyers’ time and allow them to take on higher-value tasks. 
+        iii.	Such technologies free up lawyers’ time and allow them to take on higher-value tasks. 
 
-       iv.	Everyday technology and tools are also important.  The pandemic demonstrated how being digitally equipped has enabled law firms and lawyers to continue their operations and services, including in the region, in spite of physical limitations or travel restrictions. 
+        iv.	Everyday technology and tools are also important.  The pandemic demonstrated how being digitally equipped has enabled law firms and lawyers to continue their operations and services, including in the region, in spite of physical limitations or travel restrictions. 
 
 {:start="11"}
 11.	But the boon of legal tech requires us to also closely re-examine the roles of lawyers and the strategic focus of law firms.  
