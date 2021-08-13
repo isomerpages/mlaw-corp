@@ -11,7 +11,7 @@ FAQ
 Have questions?
 
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
+  <a href="#"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
