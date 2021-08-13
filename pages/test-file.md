@@ -15,20 +15,20 @@ Have questions?
 </div><br>
 
 <div class="paragraphs">
- <h3> Contact Us @ OneMinLaw</h3>
-</div>
-<div class="paragraphs">
-   <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
-   <div class="content-heading">
    <h3>Chat Online with us!</h3>
      Our Live Chat Agents are available from:<br>
 Mondays to Fridays, 10.00AM to 12.00PM and 2.00PM to 4.00PM
 <br>
 *Note: As this is a trial, we will accept general non-case related enquiries on Public Trustee matters via Live Chat. If you have a case reference number, please write in to us at https://eservices.mlaw.gov.sg/enquiy or call us at 1800-2255529.
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a>
+</div>
 
- 
+
+<div class="paragraphs">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
+   <div class="content-heading">
+   <h3> Contact Us @ OneMinLaw</h3>
   </div>
 </div>
 
