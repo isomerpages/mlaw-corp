@@ -1,6 +1,9 @@
 ---
 title: 'Test page'
 permalink: /test/test-page1
+breadcrumb: 'Test'
+
+---
 
 <div class="paragraphs">
    <h3>Chat Online with us!</h3>
