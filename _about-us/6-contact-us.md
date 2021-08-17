@@ -19,6 +19,17 @@ Have questions?
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
 </div><br>
 
+<!-- Live chat -->
+<div class="paragraphs">
+   <h3>Chat Online with us!</h3>
+  <b>Our Live Chat Agents are available from:</b><br>
+Mondays to Fridays, 10.00AM to 12.00PM and 2.00PM to 4.00PM
+<br><br>
+*Note: As this is a trial, we will accept <u>general non-case related enquiries on Public Trustee matters</u> via Live Chat. If you have a case reference number, please write in to us at <a href="https://eservices.mlaw.gov.sg/enquiry">https://eservices.mlaw.gov.sg/enquiry</a> or call us at 1800-2255529.<br><br>
+<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a>
+</div>
+<!-- End Live chat -->
+
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
