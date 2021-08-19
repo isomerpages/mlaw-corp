@@ -96,4 +96,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 23 Jul 2020</p> 
+<p class="right-side-updated">Last updated on 19 Aug 2021</p> 
