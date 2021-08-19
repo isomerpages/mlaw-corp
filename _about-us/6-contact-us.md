@@ -19,6 +19,18 @@ Have questions?
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
 </div><br>
 
+<!-- Live chat -->
+<div class="paragraphs">
+  <div class="content-heading"><h3>Chat Online with us!</h3></div>
+</div>
+  <b>Our Live Chat Agents are available from:</b><br>
+Mondays to Fridays, 10.00AM to 12.00PM and 2.00PM to 4.00PM
+<br><br>
+*Note: As this is a trial, we will accept <u>general non-case related enquiries on Public Trustee matters</u> via Live Chat. If you have a case reference number, please write in to us at <a href="https://eservices.mlaw.gov.sg/enquiry">https://eservices.mlaw.gov.sg/enquiry</a> or call us at 1800-225 5529.<br><br>
+<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
+
+<!-- End Live chat -->
+
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
@@ -64,7 +76,7 @@ Singapore 069118
 Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on Weekends and Public Holidays<br>
-\*Note: The MinLaw Services Centre will close at <u><b>12:00pm</b></u> on <u><b>Christmas Eve (24 Dec 2020)</b></u> and <u><b>New Year’s Eve (31 Dec 2020)</b></u>. The Centre will also close on <u><b>26 Dec 2020</b></u> and <u><b>2 Jan 2021</b></u>.
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" title="URA Workers Map" alt="URA Workers Map" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
@@ -84,4 +96,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 23 Jul 2020</p> 
+<p class="right-side-updated">Last updated on 19 Aug 2021</p> 
