@@ -7,8 +7,6 @@ breadcrumb: E-Services
 
 **E-Services** 
 
-You may encounter intermittent access to the Insolvency Office, Public Trustees Office, Registry of Moneylenders and Registry of Pawnbrokers eServices. We are working to resolve the issue and apologise for any inconvenience caused.
-
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)
