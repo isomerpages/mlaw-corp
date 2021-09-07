@@ -18,13 +18,13 @@ Ladies and gentlemen,
 
 4. We have a common goal, to promote the development, understanding and use of international dispute resolution instruments across the world. One of the key pieces in that is the Singapore Convention on Mediation (SCM).
 
-**The Singapore Convention on Mediation**
+<b>The Singapore Convention on Mediation<b>
 
 5. The SCM is a significant development in international dispute resolution. Those of you who were with us two years ago know the points that were made. Before the Convention, there was no uniform efficient framework for enforcing international mediation agreements – by this, I mean mediated settlement agreements. They had to be enforced like any other contract, according to local mediation laws, if there were any. That really affected the use of international mediation. 
 
 6. With the Singapore Convention, parties can now enforce their mediated settlement agreements in Convention countries – more efficient, more effective, more certainty. It gives parties much greater confidence that mediation can be used to resolve their cross-border disputes. It also helps to facilitate trade and commerce, and it's good for the global economy overall. 
 
-**A World in Transition**
+<b>A World in Transition<b>
 
 7. The Singapore Convention opened for signature on 7 August 2019. We were very happy to host more than 1,500 delegates from 70 countries. It's not quite thinkable right now. 
 
@@ -46,7 +46,7 @@ Ladies and gentlemen,
     
     e. Global trade and commerce have been hurt. 
 
-**Responding to a World in Transition**
+<b>Responding to a World in Transition<b>
 
 12. With so much uncertainty and unpredictability, disputes are likely to arise. Therefore, the need for a good dispute resolution mechanism is even greater now.
 
