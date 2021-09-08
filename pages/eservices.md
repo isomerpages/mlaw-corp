@@ -7,6 +7,8 @@ breadcrumb: E-Services
 
 **E-Services** 
 
+Legal Services Authority, Exemptions, Community Mediation Centre E-Services and Contact Us@OneMinLaw will be undergoing maintenance from 8 Sep 2021, 19:00hrs to 20:00hrs, and will not be available during this period. We apologise for any inconvenience caused.
+
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)
