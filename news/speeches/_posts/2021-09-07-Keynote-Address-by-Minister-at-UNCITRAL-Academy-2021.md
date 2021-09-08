@@ -87,7 +87,7 @@ Ladies and gentlemen,
 {:start="19"}
 19. SIMC is also working with partners to equip more professionals from around the world with skills in mediation, to meet the expected increase in the need for mediation services. 
 
-{:start="20}
+{:start="20"}
 20. There are good reasons to believe that the future of international mediation will be bright, and that the Singapore Convention on Mediation will play an increasingly important role. 
 
 {:start="21"}
