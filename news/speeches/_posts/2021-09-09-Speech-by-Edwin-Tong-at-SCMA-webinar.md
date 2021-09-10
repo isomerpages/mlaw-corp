@@ -1,5 +1,5 @@
 ---
-title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at SCMA Webinar Hybrid Dispute Resolution Mechanisms as the Wave of the Future Perspectives from Singapore as a Maritime Hub'
+title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at SCMA Webinar - Hybrid Dispute Resolution Mechanisms as the Wave of the Future: Perspectives from Singapore as a Maritime Hub'
 date: 2021-09-09
 permalink: /news/speeches/2021-09-09-Speech-by-Edwin-Tong-at-SCMA-webinar
 ---
@@ -29,11 +29,11 @@ Ladies and gentlemen,
 {:start="5"}
 5.	The shipping and maritime industry is one of the industries which has felt the impact of COVID-19 very keenly, because of the various restrictions imposed by countries. 
 
-   a.	To maintain the spread of the virus, ports were closed; containers and vessels from ports of high-risk countries were banned; crews were subject to quarantine periods; and port workers could not work or had to be subject to staggered work schedules.
+    a.	To maintain the spread of the virus, ports were closed; containers and vessels from ports of high-risk countries were banned; crews were subject to quarantine periods; and port workers could not work or had to be subject to staggered work schedules.
 
-   b.	Supply chains were disrupted.
+    b.	Supply chains were disrupted.
 
-   c.	There were massive delays.
+    c.	There were massive delays.
 
 {:start="6"}
 6.	This resulted in unfulfilled deliveries, transportation delays, shipbuilding and ship repair delays, time and monetary losses by charterparties, and gave rise to more disputes in this period.
@@ -41,9 +41,9 @@ Ladies and gentlemen,
 {:start="7"}
 7.	This itself can be seen from the statistics:
 
-   a.	The London Maritime Arbitrators Association (LMAA) reported 3,010 arbitrator appointments in 2020, which is the highest number of LMAA arbitrator appointments since 2015.
+    a.	The London Maritime Arbitrators Association (LMAA) reported 3,010 arbitrator appointments in 2020, which is the highest number of LMAA arbitrator appointments since 2015.
 
-   b.	SCMA saw a 5% increase in its caseload in 2020, with more than half the disputants coming from outside Singapore.
+    b.	SCMA saw a 5% increase in its caseload in 2020, with more than half the disputants coming from outside Singapore.
 
 **Maritime Dispute Resolution**
 
@@ -53,11 +53,11 @@ Ladies and gentlemen,
 {:start="9"}
 9.	Arbitration is traditionally used in resolving maritime disputes, for a number of reasons: 
    
-  a.	First, the resolution of maritime disputes requires highly specialised knowledge such as, on maritime adventure, bills of lading, maritime liens, ship and sister ship arrest. Parties would therefore prefer an arbitral tribunal which comprises not only those qualified in the law, but also experts with shipping or other relevant background. That’s why SCMA boasts an international panel of about 120 maritime arbitrators from at least 15 countries, and also plans to offer a specialised Maritime Arbitrator Accreditation Program to empanel new arbitrators, so that parties will have greater confidence in them.
+    a.	First, the resolution of maritime disputes requires highly specialised knowledge such as, on maritime adventure, bills of lading, maritime liens, ship and sister ship arrest. Parties would therefore prefer an arbitral tribunal which comprises not only those qualified in the law, but also experts with shipping or other relevant background. That’s why SCMA boasts an international panel of about 120 maritime arbitrators from at least 15 countries, and also plans to offer a specialised Maritime Arbitrator Accreditation Program to empanel new arbitrators, so that parties will have greater confidence in them.
   
-  b.	Second, certain cases also require specialised procedures which arbitral institutions can offer. For example, SCMA launched an Expedited Arbitral Determination of Collision Claims in 2013 for ship collisions, involving expert determination. It provides a fair, timely and also cost-effective means of determining liability for a collision when negotiations on apportionment of liability might have reached an impasse.
+    b.	Second, certain cases also require specialised procedures which arbitral institutions can offer. For example, SCMA launched an Expedited Arbitral Determination of Collision Claims in 2013 for ship collisions, involving expert determination. It provides a fair, timely and also cost-effective means of determining liability for a collision when negotiations on apportionment of liability might have reached an impasse.
 
-c.	Third, most maritime disputes are cross-border in nature. Arbitration renders awards that are enforceable in 168 contracting states to the New York Convention.
+    c.	Third, most maritime disputes are cross-border in nature. Arbitration renders awards that are enforceable in 168 contracting states to the New York Convention.
   
 {:start="10"}
 10.	Singapore has developed our arbitration landscape over the years to support disputing parties, including:
