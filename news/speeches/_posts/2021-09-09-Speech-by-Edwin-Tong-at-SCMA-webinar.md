@@ -62,11 +62,11 @@ Ladies and gentlemen,
 {:start="10"}
 10.	Singapore has developed our arbitration landscape over the years to support disputing parties, including:
 
-   a.	Liberalising our regime, to allow parties to choose counsel and arbitrators of any nationality, and to use any governing law;
+    a.	Liberalising our regime, to allow parties to choose counsel and arbitrators of any nationality, and to use any governing law;
 
-   b.	Updating our legislative framework regularly, to keep pace with international best practices; and
+    b.	Updating our legislative framework regularly, to keep pace with international best practices; and
 
-   c.	Also setting up SCMA in 2004, of course, because we recognise that the maritime community requires a specialist forum to resolve their disputes.
+    c.	Also setting up SCMA in 2004, of course, because we recognise that the maritime community requires a specialist forum to resolve their disputes.
 
 {:start="11"}
 11.	This is necessary to support Singapore as the world’s top maritime centre for the 8th year running.
