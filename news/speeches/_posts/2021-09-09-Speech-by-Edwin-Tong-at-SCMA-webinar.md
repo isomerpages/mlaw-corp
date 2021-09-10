@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at SCMA Webinar Hybrid Dispute Resolution Mechanisms as the Wave of the Future Perspectives from Singapore as a Maritime Hub
+title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at SCMA Webinar Hybrid Dispute Resolution Mechanisms as the Wave of the Future Perspectives from Singapore as a Maritime Hub'
 date: 2021-09-09
 permalink: /news/speeches/2021-09-09-Speech-by-Edwin-Tong-at-SCMA-webinar.md
 ---
@@ -35,8 +35,6 @@ Ladies and gentlemen,
 
 {:start="6"}
 6.	This resulted in unfulfilled deliveries, transportation delays, shipbuilding and ship repair delays, time and monetary losses by charterparties, and gave rise to more disputes in this period.
-
-<b>A World in Transition<b>
 
 {:start="7"}
 7.	This itself can be seen from the statistics:
