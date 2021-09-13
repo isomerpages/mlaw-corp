@@ -7,7 +7,7 @@ breadcrumb: 2. Rental Relief Framework for SMEs and NPOs in 2020
 
 ### Rental Relief Framework for SMEs and NPOs in 2020 ###
 
-<u>Important Note</u>: The Rental Relief Framework covered periods from April to May 2020 or April to July 2020. The acceptance of applications has concluded.
+<u>Important Note</u>: The Rental Relief Framework covered periods from April to May 2020 or April to July 2020. The acceptance of applications has concluded. For information on the Rental Waiver Framework 2021, which covers the period of 5 to 18 August 2021, please refer to https://www.go.gov.sg/rwf2021.
 
 The COVID-19 (Temporary Measures) (Amendment) Act (“Act”) that was passed in Parliament on 5 June 2020 provided a rental relief framework for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). This framework came into force on 31 July 2020. 
 
