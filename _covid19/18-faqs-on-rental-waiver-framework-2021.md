@@ -187,38 +187,38 @@ Revenues accounted for outside of Singapore would not be an accurate reflection 
 
 ### <a name="4serv">Service Requirement </a> <a href="#s4" title="Return to top">↩</a> ###
 
-Q18. What if I do not have the necessary supporting documents?
+<a href="#q18" id="q18">Q18. What if I do not have the necessary supporting documents?</a>
 
-Q19.What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?
+<a href="#q19" id="q19">Q19.What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?</a>
 
-Q20. What are profit and loss statements?
+<a href="#q20" id="q20">Q20. What are profit and loss statements?</a>
 
-Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?
+<a href="#q21" id="q21">Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?</a>
 
-Q22. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?
+<a href="#q22" id="q22">Q22. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?</a>
 
 
-**Q18.	What if I do not have the necessary supporting documents?**
+<a name="q18">**Q18.	What if I do not have the necessary supporting documents?**</a>
 
 If you do not have the necessary profit and loss statements required for determining the revenue drop for your business at the subject location, you must provide a copy of a Statutory Declaration attesting that you meet the relevant eligibility criteria in Section 1 of the Declaration Form (of the Notice of Rental Waiver).
 
 A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: https://go.gov.sg/conp-list and https://go.gov.sg/jp-list.
 
-**Q19.	What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?**
+<a name="q19">**Q19.	What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?**</a>
 
 The timeline of 28 calendar days for complete service of the Notice of Rental Waiver and necessary supporting documents should be strictly adhered to. If you are unable to fulfil this condition, your landlord can make an application to the rental waiver assessors to assess your eligibility on the grounds that you have not complied with the service requirements as set out in the COVID-19 (Temporary Measures) Act. If the rental waiver assessor determines that you did not comply with the service requirements, you may no longer be eligible to receive the rental waiver.
 
-**Q20.	What are profit and loss statements?**
+<a name="q20">**Q20.	What are profit and loss statements?**</a>
 
 A profit and loss statement is a financial statement that summarises the revenue, costs, and expenses incurred over a specified period.
 
-**Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?**
+<a name="q21">**Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?**</a>
 
 The standard mode of service is by email or registered post. However, we understand there may be instances where the tenant/intermediary landlord is unable to obtain the email or mailing address of its immediate landlord. Under such circumstances, the tenant/intermediary landlord may serve the necessary documents via internet-based messaging services, like WhatsApp or Telegram. 
 
 Nonetheless, you are strongly encouraged to complete service by email to minimise potential disputes on your compliance with the steps in the Notice for Rental Waiver.
 
-**Q22.	My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?**
+<a name="q22">**Q22.	My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?**</a>
 
 If you are unable to produce one or more of the required documents specified in Section 2 of the Declaration Form, you are required to make a Statutory Declaration on your ability to meet the relevant criteria specified in Section 1 of the Declaration Form. However, if you are able to produce all the required statements, you do not need to make a Statutory Declaration.
 
