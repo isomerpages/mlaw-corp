@@ -72,8 +72,11 @@ Prior to receiving the Notice of Rental Waiver, tenants should continue to honou
 ### Rental Waiver Obligations ###
  
 Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver? 
+
 Q5.	Why are service and maintenance charges included in the rental waivers? 
+
 Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset? 
+
 Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants? 
 
 
@@ -99,14 +102,23 @@ Only direct monetary assistance or rental waivers to the tenant may be offset.
 ### Eligibility ###
 
 Q8.	How are qualifying commercial properties defined? 
+
 Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief? 
+
 Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined? 
+
 Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver? 
+
 Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021? 
+
 Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID? 
+
 Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed? 
+
 Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?	
+
 Q16.	What does it mean to be a part of a “Singapore group of entities”? 
+
 Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore? 
 
 
@@ -176,9 +188,13 @@ Revenues accounted for outside of Singapore would not be an accurate reflection 
 ### Service Requirement ###
 
 Q18. What if I do not have the necessary supporting documents?
+
 Q19.What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?
+
 Q20. What are profit and loss statements?
+
 Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?
+
 Q22. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?
 
 
@@ -210,9 +226,13 @@ If you are unable to produce one or more of the required documents specified in 
 ### Assessment by a rental waiver assessor ###
 
 Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?
+
 Q24.	What if my landlord insists that I am not eligible/ says I did not fulfil complete service of documents within 28 calendar days? 
+
 Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant? 
+
 Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?	
+
 Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations? 
 
 
@@ -254,6 +274,7 @@ Landlords may submit an application within 14 calendar days of receiving copies 
 ### Dispute Resolution ###
 
 Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount? 
+
 Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver? 
 
 
@@ -269,8 +290,11 @@ Tenants should comply with their contractual obligations prior to receiving the 
 ### Intermediary Landlords ###
 
 Q30.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver? 
+
 Q31.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers? 
+
 Q32.	I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord? 
+
 Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord? 
 
 
