@@ -57,7 +57,6 @@ permalink: /news/press-releases/Rental-Waiver-Framework-2021
         <br>
         iii.	Copies of their supporting documents. <br>
         <br>
-    <br>
     
 {:start="8"}
 8. <b>The rental waiver will apply once an eligible tenant sends all the above documents to their landlord</b>. It will apply first to any rental arrears owed, including any associated interest or charges, for the period 5 to 18 August 2021 (both days inclusive). If rent for 5 to 18 August 2021 has already been paid, the tenant’s rent for the next most immediate month will be reduced by 2 weeks. 
