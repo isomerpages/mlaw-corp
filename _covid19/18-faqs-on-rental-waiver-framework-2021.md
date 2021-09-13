@@ -43,13 +43,13 @@ You can expect to receive a Notice of Rental Waiver (Notice) from the Ministry o
 
 It is important to note that receipt of the Notice does not automatically qualify you for rental waiver from your landlord. 
 
-Upon receiving the Notice, you should first assess if you meet all the eligibility criteria <a href="#3elig" id="s3">here</a>.
+Upon receiving the Notice, you should first assess if you meet all the eligibility criteria <a href="">here</a>.
 
 If you determine that you meet all the eligibility criteria, you will have to take the necessary steps as set out in the Notice, within the specified timeline, to obtain the rental waiver.
 
 You may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
 
-If you did not receive the Notice, but are of the view that you are eligible for the RSS and/or the Rental Waiver Framework (refer to full criteria here ), you may make an application subsequently. More details will be provided when applications open on 1 November 2021. 
+If you did not receive the Notice, but are of the view that you are eligible for the RSS and/or the Rental Waiver Framework (refer to full criteria <a href="">here</a>), you may make an application subsequently. More details will be provided when applications open on 1 November 2021. 
 
 [For landlords]
 
@@ -126,7 +126,7 @@ Only direct monetary assistance or rental waivers to the tenant may be offset.
 
 <a name="q8">**Q8.	How are qualifying commercial properties defined?**</a>
 
-Examples of qualifying commercial uses include shops, restaurants, cinemas or theatres, schools, etc. The full list may be found here . 
+Examples of qualifying commercial uses include shops, restaurants, cinemas or theatres, schools, etc. The full list may be found <a href="">here</a>. 
 
 <a name="q9">**Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?**</a>
 
