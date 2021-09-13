@@ -10,7 +10,7 @@ third_nav_title: '7. Rental Relief Framework 2021'
 
 <a href="#general">General</a><br /><a href="#rental">Rental Waiver Obligations</a><br /><a href="#eligibility">Eligibility</a><br /><a href="#service">Service Requirement</a><br /><a href="#assessment">Assessment by a rental waiver assessor</a><br /><a href="#dispute">Dispute Resolution</a><br /><a href="#landlords">Intermediary Landlords</a><br /><a href="#others">Others</a>
 
-General 
+<b>General</b>
 
 Q1.	Why has the Government decided to implement the Rental Waiver Framework?
 Q2.	Now that the Act has been passed in Parliament, what should I expect next?
@@ -58,7 +58,7 @@ Q3.	What should landlords and tenants do in the meantime, before receiving the N
 
 Prior to receiving the Notice of Rental Waiver, tenants should continue to honour their existing contractual obligations. 
 
-Rental Waiver Obligations
+<b>Rental Waiver Obligations</b>
  
 Rental Waiver Obligations
 Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver? 
