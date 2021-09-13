@@ -5,7 +5,7 @@ breadcrumb: 7. Rental Relief Framework 2021
 
 ---
 
-### Rental Relief Framework for SMEs and NPOs in 2020 ###
+### 2021 Rental Waiver Framework for SMEs and NPOs ###
 
 The COVID-19 (Temporary Measures) (Amendment No. 4) Bill ( “Bill”) that was introduced in Parliament on 13 September 2021 provides a Rental Waiver Framework (RWF) under Part 12 of the COVID-19 (Temporary Measures) Act (“Act”) for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). If the Bill is passed, the RWF is expected to commence in October 2021.
 
