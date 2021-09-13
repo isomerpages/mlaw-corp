@@ -62,7 +62,7 @@ If you are a landlord and have received the Notice and the other supporting docu
 i.	You are required to provide the rental waiver as set out in the Notice to your tenant.
 ii.	As an intermediary landlord, you will also be eligible for the same amount of rental waiver from your landlord, up to a cap of 2 weeks of your own gross rent. To obtain the rental waiver from your landlord, please follow the instructions for service applicable to an intermediary landlord as set out in the Notice.
 
-**Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver? **
+**Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?**
 
 Prior to receiving the Notice of Rental Waiver, tenants should continue to honour their existing contractual obligations. 
 
