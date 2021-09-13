@@ -289,24 +289,24 @@ Tenants should comply with their contractual obligations prior to receiving the 
 
 ### <a name="7land">Intermediary Landlords</a> <a href="#s7" title="Return to top">↩</a> ###
 
-Q30.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver? 
+<a href="#q30" id="a30">Q30. Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver?</a>
 
-Q31.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers? 
+<a href="#q31" id="a31">Q31. What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?</a>
 
-Q32.	I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord? 
+<a href="#q32" id="a32">Q32. I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord?</a>
 
-Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord? 
+<a href="#q33" id="a33">Q33. Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?</a>
 
 
-**Q30.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver?** 
+<a name="q30">**Q30.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver?**</a>
 
 If the eligible tenant-occupier rents the property through an intermediary landlord, the intermediary landlord will also receive the same amount of rental waiver from their own immediate landlord, up to a cap of 2 weeks of the gross rent of the intermediary landlord. This applies regardless of whether the intermediary landlord meets the eligibility criteria. An intermediary landlord’s entitlement to rental waivers is solely dependent on the tenant-occupier’s eligibility. To obtain the rental waiver, the intermediary landlord will have to complete the necessary steps set out in the Notice of Rental Waiver within the specified timeline. 
 
-**Q31.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**
+<a name="q31">**Q31.	What happens if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord? Will he be required to absorb the difference in granting the rental waivers?**</a>
 
 An intermediary landlord will be required to provide the full 2 weeks of rental waiver to their tenant. Hence, if the rent which an intermediary landlord collects from his tenant is higher than the rent he pays to his landlord, the intermediary landlord is required to absorb the difference. 
 
-**Q32.	I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord?**
+<a name="q32">**Q32.	I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord?**</a>
 
 Under the Rental Waiver Framework (RWF), the amount of rental waiver to be given to each sub-tenant/ licensee who meets all of the eligibility criteria, will be 2 weeks of their payable rent. 
 
@@ -319,17 +319,17 @@ $20,000		$14,000
 (capped at 2 weeks of own rent)
 $30,000		
 
-**Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?** 
+<a name="q33">**Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?**</a>
 
 Intermediary landlords should require a shorter time for complete service as compared to tenant-occupiers, since they do not need to prepare any additional documents, and are just required to send to their immediate landlord the copies of all the documents received from their tenant. 
 
 
 ### <a name="8othe">Others</a> <a href="#s8" title="Return to top">↩</a> ###
 
-Q34.	What other financial assistance measures are available to landlords? 
+<a href="#q34" id="q34">Q34.	What other financial assistance measures are available to landlords?</a>
 
 
-**Q34.	What other financial assistance measures are available to landlords?**
+<a name="q34">**Q34.	What other financial assistance measures are available to landlords?**</a>
 
 MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
 
