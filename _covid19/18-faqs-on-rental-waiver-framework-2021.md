@@ -27,7 +27,7 @@ third_nav_title: '7. Rental Relief Framework 2021'
 <a href="#q3" id="q3">Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?</a>
 
 
-**<a name="q1">Q1.	Why has the Government decided to implement the Rental Waiver Framework?</a>**
+<a name="q1">**Q1.	Why has the Government decided to implement the Rental Waiver Framework?**</a>
 
 The Rental Waiver Framework (RWF) complements the suite of support measures introduced by the Ministry of Finance to alleviate the economic impact on businesses due to the Phase 2 (Heightened Alert) [P2(HA)] periods. 
 
