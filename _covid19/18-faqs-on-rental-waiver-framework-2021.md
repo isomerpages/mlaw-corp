@@ -21,7 +21,9 @@ third_nav_title: '7. Rental Relief Framework 2021'
 ### General ###
 
 Q1.	Why has the Government decided to implement the Rental Waiver Framework?
+
 Q2.	Now that the Act has been passed in Parliament, what should I expect next?
+
 Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?
 
 
