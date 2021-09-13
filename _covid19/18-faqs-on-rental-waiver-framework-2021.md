@@ -43,7 +43,7 @@ You can expect to receive a Notice of Rental Waiver (Notice) from the Ministry o
 
 It is important to note that receipt of the Notice does not automatically qualify you for rental waiver from your landlord. 
 
-Upon receiving the Notice, you should first assess if you meet all the eligibility criteria here .
+Upon receiving the Notice, you should first assess if you meet all the eligibility criteria <a href="#3elig" id="s3">here</a>.
 
 If you determine that you meet all the eligibility criteria, you will have to take the necessary steps as set out in the Notice, within the specified timeline, to obtain the rental waiver.
 
