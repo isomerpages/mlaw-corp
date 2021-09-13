@@ -8,14 +8,7 @@ third_nav_title: '7. Rental Relief Framework 2021'
 
 ### FAQs on Rental Waiver Framework 2021 ###
 
-General
-Rental Waiver Obligations
-Eligibility
-Service Requirement
-Assessment by a rental waiver assessor
-Dispute Resolution
-Intermediary Landlords
-Others
+<a href="general">General</a><br /><a href="rental">Rental Waiver Obligations</a><br /><a href="eligibility">Eligibility</a><br /><a href="service">Service Requirement</a><br /><a href="assessment">Assessment by a rental waiver assessor</a><br /><a href="dispute">Dispute Resolution</a><br /><a href="landlords">Intermediary Landlords</a><br /><a href="others">Others</a>
 
 General 
 
