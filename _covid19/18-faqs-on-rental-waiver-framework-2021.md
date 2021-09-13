@@ -35,7 +35,7 @@ To ensure a fair sharing of rental obligations over the P2(HA) periods between t
 
 Taken together with the Rental Support Scheme (RSS) cash payouts, eligible tenants in qualifying privately owned commercial properties will benefit from a total of 1.5 months of rental support. 
 
-**Q2.	Now that the Act has been passed in Parliament, what should I expect next?**
+<a name="q2">**Q2.	Now that the Act has been passed in Parliament, what should I expect next?**</a>
 
 [For tenants] 
 
@@ -64,71 +64,71 @@ If you are a landlord and have received the Notice and the other supporting docu
 i.	You are required to provide the rental waiver as set out in the Notice to your tenant.
 ii.	As an intermediary landlord, you will also be eligible for the same amount of rental waiver from your landlord, up to a cap of 2 weeks of your own gross rent. To obtain the rental waiver from your landlord, please follow the instructions for service applicable to an intermediary landlord as set out in the Notice.
 
-**Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?**
+<a name="q3">**Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?**</a>
 
 Prior to receiving the Notice of Rental Waiver, tenants should continue to honour their existing contractual obligations. 
 
 
 ### <a name="2rent">Rental Waiver Obligations</a> <a href="#s2" title="Return to top">↩</a> ###
  
-Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver? 
+<a href="#q4" id="q4">Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?</a> 
 
-Q5.	Why are service and maintenance charges included in the rental waivers? 
+<a href="#q5" id="q5">Q5.	Why are service and maintenance charges included in the rental waivers?</a> 
 
-Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset? 
+<a href="#q6" id="q6">Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset?</a> 
 
-Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants? 
+<a href="#q7" id="q7">Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants?</a> 
 
 
-**Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?**
+<a name="q4">**Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?**</a> 
 
 The 2 weeks of rental waiver will be based on gross rent. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges.
 
-**Q5.	Why are service and maintenance charges included in the rental waivers?**
+<a name="q5">**Q5.	Why are service and maintenance charges included in the rental waivers?**</a> 
 
 As the gross rent is most reflective of the actual rental expenses that businesses incur, the Government had provided 1 month of gross rent cash payout under the Rental Support Scheme. For consistency, the Rental Waiver Framework will also be based on gross rent.
 
-**Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset?**
+<a name="q6">**Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset?**</a> 
 
 Generally, landlords may offset any direct monetary assistance or rental waivers provided to their tenants from 16 May 2021 up to the date the landlord receives all of the tenant’s supporting documents (both dates inclusive). 
 
 The landlord must provide any remaining rental waiver after offsetting the assistance and/or waivers as detailed above. 
 
-**Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants?**
+<a name="q7">**Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants?**</a> 
 
 Only direct monetary assistance or rental waivers to the tenant may be offset. 
 
 
 ### <a name="3elig">Eligibility</a> <a href="#s3" title="Return to top">↩</a> ###
 
-Q8.	How are qualifying commercial properties defined? 
+<a href="#q8" id="q8">Q8.	How are qualifying commercial properties defined?</a> 
 
-Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief? 
+<a href="#q9" id="q9">Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?</a> 
 
-Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined? 
+<a href="#q10" id="q10">Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?</a> 
 
-Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver? 
+<a href="#q11" id="q11">Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver?</a> 
 
-Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021? 
+<a href="#q12" id="q12">Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021?</a> 
 
-Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID? 
+<a href="#q13" id="q13">Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?</a> 
 
-Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed? 
+<a href="#q14" id="q14">Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?</a> 
 
-Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?	
+<a href="#q15" id="q15">Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?</a>	
 
-Q16.	What does it mean to be a part of a “Singapore group of entities”? 
+<a href="#q16" id="q16">Q16.	What does it mean to be a part of a “Singapore group of entities”?</a> 
 
-Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore? 
+<a href="#q17" id="q17">Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?</a> 
 
 
 **Types of Properties**
 
-**Q8.	How are qualifying commercial properties defined?**
+<a name="q8">**Q8.	How are qualifying commercial properties defined?**</a>
 
 Examples of qualifying commercial uses include shops, restaurants, cinemas or theatres, schools, etc. The full list may be found here . 
 
-**Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?**
+<a name="q9">**Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?**</a>
 
 The Rental Waiver Framework is intended to provide support to businesses that have been impacted by the tightened safe management measures during the Phase 2 (Heightened Alert) [P2(HA)].
 
@@ -137,34 +137,34 @@ Commercial businesses have been particularly affected due to lower footfall duri
 
 **SME/NPO**
 
-**Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?**
+<a name="q10">**Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?**</a>
 
 The framework provides the rental waiver to selected NPOs that are deemed to benefit businesses, the society or community at large, to also give them time and support to recover from the impact of Phase 2 (Heightened Alert). These NPOs will also be subject to similar criteria as businesses/SMEs. 
 
 **Lease Eligibility**
 
-**Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver?**
+<a name="q11">**Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver?**</a>
 
 20 July 2021 was the date when the second Phase 2 (Heightened Alert) was announced. Tenants who entered into rental agreements after the announcement should have been aware of the risks and potential impact of the latest round of tightening measures. 
 
-**Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021?**
+<a name="q12">**Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021?**</a>
 
 Only tenants who were impacted during both Phase 2 (Heightened Alert) [P2(HA)] periods, i.e. their average monthly revenue must have dropped by 20% or more during both P2(HA) periods compared to the Phase 3 period, are eligible for the rental waiver. If a business was able to make a significant recovery after the partial relaxation of restrictions from 10 August 2021, it would not be eligible for rental waiver from the landlord.
 
 
 **Revenue Drop**
 
-**Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?**
+<a name="q13">**Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?**</a>
 
 The Rental Waiver Framework is intended to assist Small and Medium Enterprises (SMEs) and specified Non-Profit Organisations (NPOs) affected by the tightened safe management measures during the Phase 2 (Heightened Alert) [P2(HA)] periods. 
 
 Hence, the preceding period, i.e. Phase 3, is used as the base period for assessing the drop in revenue.
 
-**Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?**
+<a name="q14">**Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?**</a>
 
 If your business commenced after 28 December 2020, the drop in average monthly revenue will be calculated by comparing both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 and 22 July 2021 to 18 August 2021) to the period from the business commencement date to 15 May 2021 (both dates inclusive).
 
-**Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?**
+<a name="q15">**Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?**</a>
 
 Only tenant-occupiers who have operated for the entirety of both Phase 2 (Heightened Alert) [P2(HA)] periods will be eligible for the Rental Waiver Framework. Otherwise, it would not be possible to ascertain that your revenue had been impacted by the restrictions during the P2(HA) periods.
 
@@ -172,7 +172,7 @@ Your business may nevertheless be eligible for the first tranche of the Rental S
 
 **Group SME**
 
-**Q16.	What does it mean to be a part of a “Singapore group of entities”?**
+<a name="q16">**Q16.	What does it mean to be a part of a “Singapore group of entities”?**</a>
 
 If your business is not part of any group of companies, this does not apply to you.
 
@@ -180,7 +180,7 @@ If your business is not part of any group of companies, this does not apply to y
 
 If the business is a member of a Singapore group of entities in the period 16 May 2021 to 18 August 2021, the group’s annual revenue must be not more than $100 million for the business to qualify for the rental waiver . 
 
-**Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?** 
+<a name="q17">**Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?**</a> 
 
 Revenues accounted for outside of Singapore would not be an accurate reflection of the size of the business in Singapore, and their need for rental waiver as a result of the Phase 2 (Heightened Alert) restrictions.
 
