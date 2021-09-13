@@ -123,7 +123,7 @@ Commercial businesses have been particularly affected due to lower footfall duri
 
 **SME/NPO**
 
-**Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined? **
+**Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?**
 
 The framework provides the rental waiver to selected NPOs that are deemed to benefit businesses, the society or community at large, to also give them time and support to recover from the impact of Phase 2 (Heightened Alert). These NPOs will also be subject to similar criteria as businesses/SMEs. 
 
@@ -140,7 +140,7 @@ Only tenants who were impacted during both Phase 2 (Heightened Alert) [P2(HA)] p
 
 **Revenue Drop**
 
-**Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID? **
+**Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?**
 
 The Rental Waiver Framework is intended to assist Small and Medium Enterprises (SMEs) and specified Non-Profit Organisations (NPOs) affected by the tightened safe management measures during the Phase 2 (Heightened Alert) [P2(HA)] periods. 
 
@@ -158,7 +158,7 @@ Your business may nevertheless be eligible for the first tranche of the Rental S
 
 **Group SME**
 
-**Q16.	What does it mean to be a part of a “Singapore group of entities”? **
+**Q16.	What does it mean to be a part of a “Singapore group of entities”?**
 
 If your business is not part of any group of companies, this does not apply to you.
 
@@ -259,7 +259,7 @@ Q29.	Can a landlord take enforcement action against tenants for non-payment of r
 
 Yes. You will be liable for the late payment and interest charge associated with the 2 weeks of rental waiver, if you are subsequently assessed not to be eligible. As such, we urge that you make a careful assessment of your ability to qualify for the Rental Waiver Framework before proceeding with the necessary steps to claim the rental waiver.
 
-**Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver? **
+**Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver?**
 
 Tenants should comply with their contractual obligations prior to receiving the Notice of Rental Waiver, as they may otherwise be subject to enforcement action.  We nevertheless encourage landlords and tenants to discuss and find mutually agreeable arrangements, taking into account any rental waiver that the tenant may be eligible to receive.  
 
@@ -303,7 +303,7 @@ Intermediary landlords should require a shorter time for complete service as com
 Q34.	What other financial assistance measures are available to landlords? 
 
 
-**Q34.	What other financial assistance measures are available to landlords? **
+**Q34.	What other financial assistance measures are available to landlords?**
 
 MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
 
