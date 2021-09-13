@@ -79,7 +79,7 @@ Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, wai
 
 The 2 weeks of rental waiver will be based on gross rent. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges.
 
-**Q5.	Why are service and maintenance charges included in the rental waivers? **
+**Q5.	Why are service and maintenance charges included in the rental waivers?**
 
 As the gross rent is most reflective of the actual rental expenses that businesses incur, the Government had provided 1 month of gross rent cash payout under the Rental Support Scheme. For consistency, the Rental Waiver Framework will also be based on gross rent.
 
