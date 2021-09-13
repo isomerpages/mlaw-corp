@@ -20,11 +20,11 @@ third_nav_title: '7. Rental Relief Framework 2021'
 
 ### <a name="1general">General</a> <a href="#s1" title="Return to top">↩</a> ###
 
-<a href="#q1" id="q1">Q1.	Why has the Government decided to implement the Rental Waiver Framework?</a>
+<a href="#q1" id="a1">Q1.	Why has the Government decided to implement the Rental Waiver Framework?</a>
 
-<a href="#q2" id="q2">Q2.	Now that the Act has been passed in Parliament, what should I expect next?</a>
+<a href="#q2" id="a2">Q2.	Now that the Act has been passed in Parliament, what should I expect next?</a>
 
-<a href="#q3" id="q3">Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?</a>
+<a href="#q3" id="a3">Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?</a>
 
 
 <a name="q1">**Q1.	Why has the Government decided to implement the Rental Waiver Framework?**</a>
@@ -71,13 +71,13 @@ Prior to receiving the Notice of Rental Waiver, tenants should continue to honou
 
 ### <a name="2rent">Rental Waiver Obligations</a> <a href="#s2" title="Return to top">↩</a> ###
  
-<a href="#q4" id="q4">Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?</a> 
+<a href="#q4" id="a4">Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?</a> 
 
-<a href="#q5" id="q5">Q5.	Why are service and maintenance charges included in the rental waivers?</a> 
+<a href="#q5" id="a5">Q5.	Why are service and maintenance charges included in the rental waivers?</a> 
 
-<a href="#q6" id="q6">Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset?</a> 
+<a href="#q6" id="a6">Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset?</a> 
 
-<a href="#q7" id="q7">Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants?</a> 
+<a href="#q7" id="a7">Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, waiver of e-platform fees, or marketing support ) that they had provided to their tenants?</a> 
 
 
 <a name="q4">**Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver?**</a> 
@@ -101,25 +101,25 @@ Only direct monetary assistance or rental waivers to the tenant may be offset.
 
 ### <a name="3elig">Eligibility</a> <a href="#s3" title="Return to top">↩</a> ###
 
-<a href="#q8" id="q8">Q8.	How are qualifying commercial properties defined?</a> 
+<a href="#q8" id="a8">Q8.	How are qualifying commercial properties defined?</a> 
 
-<a href="#q9" id="q9">Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?</a> 
+<a href="#q9" id="a9">Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief?</a> 
 
-<a href="#q10" id="q10">Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?</a> 
+<a href="#q10" id="a10">Q10.	How were the categories of non-profit organisations (NPOs) considered eligible for the rental waiver determined?</a> 
 
-<a href="#q11" id="q11">Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver?</a> 
+<a href="#q11" id="a11">Q11.	Why was 20 July 2021 adopted as the cut-off date for the tenancy to be eligible for rental waiver?</a> 
 
-<a href="#q12" id="q12">Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021?</a> 
+<a href="#q12" id="a12">Q12.	The Phase 2 (Heightened Alert) restrictions were partially relaxed from 10 August 2021. Why is there still a need to require landlords to provide the 2 weeks of rental waiver to eligible tenants, when it is linked to the period of 5 to 18 August 2021?</a> 
 
-<a href="#q13" id="q13">Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?</a> 
+<a href="#q13" id="a13">Q13.	Why is Phase 3 used as the base reference period for revenue drop comparison rather than pre-COVID?</a> 
 
-<a href="#q14" id="q14">Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?</a> 
+<a href="#q14" id="a14">Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?</a> 
 
-<a href="#q15" id="q15">Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?</a>	
+<a href="#q15" id="a15">Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?</a>	
 
-<a href="#q16" id="q16">Q16.	What does it mean to be a part of a “Singapore group of entities”?</a> 
+<a href="#q16" id="a16">Q16.	What does it mean to be a part of a “Singapore group of entities”?</a> 
 
-<a href="#q17" id="q17">Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?</a> 
+<a href="#q17" id="a17">Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?</a> 
 
 
 **Types of Properties**
@@ -187,15 +187,15 @@ Revenues accounted for outside of Singapore would not be an accurate reflection 
 
 ### <a name="4serv">Service Requirement </a> <a href="#s4" title="Return to top">↩</a> ###
 
-<a href="#q18" id="q18">Q18. What if I do not have the necessary supporting documents?</a>
+<a href="#q18" id="a18">Q18. What if I do not have the necessary supporting documents?</a>
 
-<a href="#q19" id="q19">Q19.What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?</a>
+<a href="#q19" id="a19">Q19.What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?</a>
 
-<a href="#q20" id="q20">Q20. What are profit and loss statements?</a>
+<a href="#q20" id="a20">Q20. What are profit and loss statements?</a>
 
-<a href="#q21" id="q21">Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?</a>
+<a href="#q21" id="a21">Q21.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?</a>
 
-<a href="#q22" id="q22">Q22. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?</a>
+<a href="#q22" id="a22">Q22. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?</a>
 
 
 <a name="q18">**Q18.	What if I do not have the necessary supporting documents?**</a>
