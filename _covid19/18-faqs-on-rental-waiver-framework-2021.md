@@ -8,9 +8,16 @@ third_nav_title: '7. Rental Relief Framework 2021'
 
 ### FAQs on Rental Waiver Framework 2021 ###
 
-<a href="#general">General</a><br /><a href="#rental">Rental Waiver Obligations</a><br /><a href="#eligibility">Eligibility</a><br /><a href="#service">Service Requirement</a><br /><a href="#assessment">Assessment by a rental waiver assessor</a><br /><a href="#dispute">Dispute Resolution</a><br /><a href="#landlords">Intermediary Landlords</a><br /><a href="#others">Others</a>
+<a href="#1gene" id="s1">General</a><br>
+<a href="#2rent" id="s2">Rental Waiver Obligations</a><br>
+<a href="#3elig" id="s3">Eligibility</a><br>
+<a href="#4serv" id="s4">Service Requirement</a><br>
+<a href="#5asse" id="s5">Assessment by a rental waiver assessor</a><br>
+<a href="#6disp" id="s6">Dispute Resolution</a><br>
+<a href="#7land" id="s7">Intermediary Landlords</a><br>
+<a href="#8othe" id="s8">Others</a><br>
 
-<b>General</b>
+### General ###
 
 Q1.	Why has the Government decided to implement the Rental Waiver Framework?
 Q2.	Now that the Act has been passed in Parliament, what should I expect next?
@@ -58,9 +65,8 @@ Q3.	What should landlords and tenants do in the meantime, before receiving the N
 
 Prior to receiving the Notice of Rental Waiver, tenants should continue to honour their existing contractual obligations. 
 
-<b>Rental Waiver Obligations</b>
+### Rental Waiver Obligations ###
  
-Rental Waiver Obligations
 Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver? 
 Q5.	Why are service and maintenance charges included in the rental waivers? 
 Q6.	Can the rental waivers be offset by any waivers or other forms of assistance that a landlord had provided to his tenant prior to the implementation of the Act? What can be considered for the offset? 
@@ -86,7 +92,7 @@ Q7.	Are landlords allowed to offset the assistance (e.g. parking promotions, wai
 
 Only direct monetary assistance or rental waivers to the tenant may be offset. 
 
-Eligibility
+### Eligibility ###
 
 Q8.	How are qualifying commercial properties defined? 
 Q9.	Why are offices and industrial properties, as well as properties used for residential purposes (e.g. dormitories) not entitled to rental waivers in this round of rental relief? 
@@ -101,7 +107,7 @@ Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the
 
 
 
-Types of Properties
+<u>**Types of Properties**</u>
 
 Q8.	How are qualifying commercial properties defined?
 
