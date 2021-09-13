@@ -79,13 +79,13 @@ Ladies and gentlemen,
 {:start="12"}
 12.	SIAC will have to deal with some key questions: 
 
-   a.	Disputes are getting more complex, especially with COVID-19.
+    a.	Disputes are getting more complex, especially with COVID-19.
 
-   b.	New areas of disputes: climate change, even outer space activities.
+    b.	New areas of disputes: climate change, even outer space activities.
 
-   c.	SIAC will face both more competition and increasing demands from users. New arbitral institutions are being set up every year. Just three weeks ago, the Chief Justice of India announced a proposed international arbitration centre in Hyderabad. Parties will have more choices. 
+    c.	SIAC will face both more competition and increasing demands from users. New arbitral institutions are being set up every year. Just three weeks ago, the Chief Justice of India announced a proposed international arbitration centre in Hyderabad. Parties will have more choices. 
 
-   d.	There will be continued pressure on issues like time and cost.
+    d.	There will be continued pressure on issues like time and cost.
 
 **SIAC Virtual Congress 2021**
 
@@ -98,13 +98,13 @@ Ladies and gentlemen,
 {:start="15"}
 15.	I looked at today’s programme – the panels later will be discussing:
 
-   a.	Interactions between international arbitration and international commercial courts;
+    a.	Interactions between international arbitration and international commercial courts;
 
-   b.	Investor-state arbitrations;
+    b.	Investor-state arbitrations;
 
-   c.	Shifting paradigms in international arbitration, in respect of arbitral tribunals, party-nominated arbitrators and diversity; 
+    c.	Shifting paradigms in international arbitration, in respect of arbitral tribunals, party-nominated arbitrators and diversity; 
 
-   d.	As well as time and costs of arbitral proceedings.
+    d.	As well as time and costs of arbitral proceedings.
 
 {:start="16"}
 16.	These are important, and some are perennial topics. It is good that SIAC is looking at these seriously, to see if they can better support their users – businesses, counsel, arbitrators.
