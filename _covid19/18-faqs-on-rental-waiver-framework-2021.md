@@ -33,7 +33,7 @@ To ensure a fair sharing of rental obligations over the P2(HA) periods between t
 
 Taken together with the Rental Support Scheme (RSS) cash payouts, eligible tenants in qualifying privately owned commercial properties will benefit from a total of 1.5 months of rental support. 
 
-**Q2.	Now that the Act has been passed in Parliament, what should I expect next? **
+**Q2.	Now that the Act has been passed in Parliament, what should I expect next?**
 
 [For tenants] 
 
