@@ -225,24 +225,24 @@ If you are unable to produce one or more of the required documents specified in 
 
 ### <a name="5asse">Assessment by a rental waiver assessor </a> <a href="#s5" title="Return to top">↩</a> ###
 
-Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?
+<a href="#q23" id="a23">Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?</a>
 
-Q24.	What if my landlord insists that I am not eligible/ says I did not fulfil complete service of documents within 28 calendar days? 
+<a href="#q24" id="a24">Q24.	What if my landlord insists that I am not eligible/ says I did not fulfil complete service of documents within 28 calendar days?</a> 
 
-Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant? 
+<a href="#q25" id="a25">Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant?</a> 
 
-Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?	
+<a href="#q26" id="a26">Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?</a>	
 
-Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations? 
+<a href="#q27" id="a27">Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations?</a> 
 
 
-**Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**
+<a name="q23">**Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?**</a>
 
 Where a tenant has assessed that he/she is eligible and has sent a copy of the Notice of Rental Waiver, along with the completed Declaration Form and all necessary supporting documents, to his/her immediate landlord, the landlord cannot unilaterally decide that the tenant is ineligible for the rental waiver. Any adjustment to the landlord’s rental waiver obligations is only made after the assessor has made a determination on the matter.
 
 Your rental waiver continues to apply while you await the outcome of the assessment. 
 
-**Q24.	What if my landlord insists that I am not eligible/ says I did not fulfil complete service of documents within 28 calendar days?**
+<a name="q24">**Q24.	What if my landlord insists that I am not eligible/ says I did not fulfil complete service of documents within 28 calendar days?**</a>
 
 Where a tenant has assessed that he/she is eligible and sent a copy of the Notice of Rental Waiver, along with copies of the completed Declaration Form and all necessary supporting documents to his/her immediate landlord, the landlord cannot unilaterally decide that the tenant is ineligible for rental waiver. 
 
@@ -253,7 +253,7 @@ If the landlord and tenant-occupier are unable to reach an agreement on the tena
 More details on the application process will be shared in due course.
 
 
-**Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant?** 
+<a name="q25">**Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant?**</a> 
 
 Landlords and tenants are encouraged to work towards a mutual arrangement to implement the rental waiver provided for in the Act.
 
@@ -262,27 +262,27 @@ If a landlord and tenant-occupier are unable to reach an agreement on the tenant
 More details on the application process will be shared in due course.
 
 
-**Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?**
+<a name="q26">**Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?**</a>
 
 More details on the application process will be shared in due course.
 
-**Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations?**
+<a name="q27">**Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations?**</a>
 
 Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. More details on the application process will be shared in due course.
 
 
 ### <a name="6disp">Dispute Resolution </a> <a href="#s6" title="Return to top">↩</a> ###
 
-Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount? 
+<a href="#q28" id="a28">Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount? 
 
-Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver? 
+<a href="#q29" id="a29">Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver? 
 
 
-**Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount?**
+<a name="q28">**Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount?**</a>
 
 Yes. You will be liable for the late payment and interest charge associated with the 2 weeks of rental waiver, if you are subsequently assessed not to be eligible. As such, we urge that you make a careful assessment of your ability to qualify for the Rental Waiver Framework before proceeding with the necessary steps to claim the rental waiver.
 
-**Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver?**
+<a name="q29">**Q29.	Can a landlord take enforcement action against tenants for non-payment of rent pending the tenant-occupier’s receipt of the Notice of Rental Waiver?**</a>
 
 Tenants should comply with their contractual obligations prior to receiving the Notice of Rental Waiver, as they may otherwise be subject to enforcement action.  We nevertheless encourage landlords and tenants to discuss and find mutually agreeable arrangements, taking into account any rental waiver that the tenant may be eligible to receive.  
 
