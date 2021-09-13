@@ -8,7 +8,7 @@ third_nav_title: '7. Rental Relief Framework 2021'
 
 ### FAQs on Rental Waiver Framework 2021 ###
 
-<a href="#1gene" id="s1">General</a><br>
+<a href="#1general" id="s1">General</a><br>
 <a href="#2rent" id="s2">Rental Waiver Obligations</a><br>
 <a href="#3elig" id="s3">Eligibility</a><br>
 <a href="#4serv" id="s4">Service Requirement</a><br>
@@ -18,7 +18,7 @@ third_nav_title: '7. Rental Relief Framework 2021'
 <a href="#8othe" id="s8">Others</a><br>
 
 
-### General ###
+### <a name="1general">General</a> <a href="#s1" title="Return to top">↩</a> ###
 
 Q1.	Why has the Government decided to implement the Rental Waiver Framework?
 
@@ -69,7 +69,7 @@ ii.	As an intermediary landlord, you will also be eligible for the same amount o
 Prior to receiving the Notice of Rental Waiver, tenants should continue to honour their existing contractual obligations. 
 
 
-### Rental Waiver Obligations ###
+### <a name="2rent">Rental Waiver Obligations</a> <a href="#s2" title="Return to top">↩</a> ###
  
 Q4.	How is rent defined? / What components of the rent are used in the calculation of the rental waiver? 
 
@@ -99,7 +99,7 @@ The landlord must provide any remaining rental waiver after offsetting the assis
 Only direct monetary assistance or rental waivers to the tenant may be offset. 
 
 
-### Eligibility ###
+### <a name="3elig">Eligibility</a> <a href="#s3" title="Return to top">↩</a> ###
 
 Q8.	How are qualifying commercial properties defined? 
 
@@ -185,7 +185,7 @@ If the business is a member of a Singapore group of entities in the period 16 Ma
 Revenues accounted for outside of Singapore would not be an accurate reflection of the size of the business in Singapore, and their need for rental waiver as a result of the Phase 2 (Heightened Alert) restrictions.
 
 
-### Service Requirement ###
+### <a name="4serv">Service Requirement </a> <a href="#s4" title="Return to top">↩</a> ###
 
 Q18. What if I do not have the necessary supporting documents?
 
@@ -223,7 +223,7 @@ Nonetheless, you are strongly encouraged to complete service by email to minimis
 If you are unable to produce one or more of the required documents specified in Section 2 of the Declaration Form, you are required to make a Statutory Declaration on your ability to meet the relevant criteria specified in Section 1 of the Declaration Form. However, if you are able to produce all the required statements, you do not need to make a Statutory Declaration.
 
 
-### Assessment by a rental waiver assessor ###
+### <a name="5asse">Assessment by a rental waiver assessor </a> <a href="#s5" title="Return to top">↩</a> ###
 
 Q23.	Will tenants have access to the assessment mechanism, either to challenge a landlord’s assertion of financial hardship, or to ascertain whether they are eligible?
 
@@ -271,7 +271,7 @@ More details on the application process will be shared in due course.
 Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. More details on the application process will be shared in due course.
 
 
-### Dispute Resolution ###
+### <a name="6disp">Dispute Resolution </a> <a href="#s6" title="Return to top">↩</a> ###
 
 Q28.	I have determined myself to be eligible and have completed service of all the necessary documents. Hence, I have not paid my rental arrears of 2 weeks. If I am subsequently assessed to be ineligible under the assessment mechanism, will I be liable for the late payment and interest charge associated with this amount? 
 
@@ -287,7 +287,7 @@ Yes. You will be liable for the late payment and interest charge associated with
 Tenants should comply with their contractual obligations prior to receiving the Notice of Rental Waiver, as they may otherwise be subject to enforcement action.  We nevertheless encourage landlords and tenants to discuss and find mutually agreeable arrangements, taking into account any rental waiver that the tenant may be eligible to receive.  
 
 
-### Intermediary Landlords ###
+### <a name="7land">Intermediary Landlords</a> <a href="#s7" title="Return to top">↩</a> ###
 
 Q30.	Will intermediary landlords also receive rental waivers if their tenant is an eligible tenant-occupier? Do they also have to meet the eligibility criteria for rental waiver? 
 
@@ -324,7 +324,7 @@ $30,000
 Intermediary landlords should require a shorter time for complete service as compared to tenant-occupiers, since they do not need to prepare any additional documents, and are just required to send to their immediate landlord the copies of all the documents received from their tenant. 
 
 
-### Others ###
+### <a name="8othe">Others</a> <a href="#s8" title="Return to top">↩</a> ###
 
 Q34.	What other financial assistance measures are available to landlords? 
 
