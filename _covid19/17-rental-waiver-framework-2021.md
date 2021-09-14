@@ -110,10 +110,10 @@ Where a landlord has provided direct monetary assistance or rental waivers<sup><
 <u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u> 
  <br>
  
-Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on Eligibility Criteria for Rental Waiver), and make an application subsequently. More details will be provided when applications open on 1 November 2021.<br>
+Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on [Eligibility Criteria for Rental Waiver](/covid19-relief/rental-waiver-framework-2021#eligibility)), and make an application subsequently. More details will be provided when applications open on 1 November 2021.<br>
 <br>
  
-Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on Rental Waiver Assessors for more details.<br>
+Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on [Rental Waiver Assessors](/covid19-relief/rental-waiver-framework-2021#assess) for more details.<br>
  <br>
  
 <u>Action Required by Intermediary Landlords (to provide and obtain rental waiver)</u>
@@ -175,8 +175,8 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 <ol style="list-style-type: lower-roman">
 <li style="text-align: justify">Whether the tenant-occupier is eligible for the rental waiver </li>
 <li style="text-align: justify">Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material </li>
-<li style="text-align: justify">Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on Eligibility for Financial Hardship for Landlords) </li>
-<li style="text-align: justify">Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on Just and Equitable Reversal or Reduction of Rental Waiver) </li>
+<li style="text-align: justify">Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on Eligibility for Financial Hardship for Landlords below) </li>
+<li style="text-align: justify">Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on Just and Equitable Reversal or Reduction of Rental Waiver below) </li>
 <li style="text-align: justify">The actual amount of rent under the lease agreement. </li>
 <li style="text-align: justify">The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
 </ol>
