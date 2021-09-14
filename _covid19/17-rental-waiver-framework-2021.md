@@ -134,9 +134,8 @@ Intermediary landlords should retain the documents received from their tenant, a
  
 Property owners receiving the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice to their tenants.<br>
 <br>
- 
-##### <a name="assess">D. Rental Waiver Assessors<a href="#refd" title="Return to top">↩</a> #####
-<br>
+
+##### <a name="assess">D. Rental Waiver Assessors</a><a href="#refd" title="Return to top">↩</a> #####
  
 Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements based on their specific circumstances. <br>
 <br>
