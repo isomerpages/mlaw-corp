@@ -47,6 +47,7 @@ SME and Non-Profit Organisation (NPO) tenant-occupiers (including subtenants and
 <li>Entered into or renewed before 20 July 2021</li>
 <li>In force for the entire period from 5 August to 18 August 2021 (both dates inclusive)</li>
 <li>Where applicable, stamped on or before 2 August 2021<sup><a href="#fn2" id="ref2">2</a></sup> </li>
+  </ol>
 <li style="text-align: justify">Suffered at least a 20% drop in average monthly revenue during both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 <u>and</u> 22 July 2021 to 18 August 2021, all dates inclusive), as compared to the Phase 3 period (28 December 2020 to 7 May 2021, both dates inclusive)<sup><a href="#fn3" id="ref3">3</a></sup> </li>
 <li style="text-align: justify">If part of a Singapore group of entities<sup><a href="#fn4" id="ref4">4</a></sup> (“group”), the group’s annual revenue does not exceed $100 million in FY2019 (this does not apply to SMEs that are not part of any group of companies, or NPOs.) </li>
 </ol>
