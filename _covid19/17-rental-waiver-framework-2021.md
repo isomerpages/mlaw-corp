@@ -66,28 +66,23 @@ Receipt of the Notice will <u>not</u> automatically qualify the recipient tenant
 
 Tenants who have received the Notice and meet all the eligibility criteria <u>must comply with the following steps within the specified timelines</u> to claim the 2 weeks of rental waiver from their landlord:
 
-    a.	Complete the Declaration Form accompanying the Notice. <br>
-    <br>
-    b.	Send <u>via email or registered post</u>, the following documents to their immediate landlord <u>within 28 calendar days from the date of the Notice</u>: <br>
-    <br>
-    i.	A <u>copy</u> of the Notice;<br>
-    <br>
-    ii.	A <u>copy</u> of the completed Declaration Form; <u>and</u> <br>
-    <br>
-    iii.	<u>Copies</u> of the supporting documents below (also listed in Annex A of the Notice). <br>
-        <br>
-          
-    <u>List of supporting documents</u>
-
-    1) Copies of profit and loss statements^ for <u><b>all</b></u> the following periods: 
-    i) 16 May to 13 June 2021; <br>
-    <br>
-    ii) 22 July to 18 August 2021; and <br>
-    <br>
-    iii) 28 December 2020 to 7 May 2021. <br>
-    <br>
-    2)<i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. <br>
-    <br>
+<ol style="list-style-type: lower-roman">
+<li style="text-align: justify">Complete the Declaration Form accompanying the Notice. </li>
+<li style="text-align: justify">Send <u>via email or registered post</u>, the following documents to their immediate landlord <u>within 28 calendar days from the date of the Notice</u>: </li>
+<ol style="list-style-type: lower-alpha; list-style-position: inside">
+<li>A <u>copy</u> of the Notice;</li>
+<li>A <u>copy</u> of the completed Declaration Form; <u>and</u> </li>
+<li><u>Copies</u> of the supporting documents below (also listed in Annex A of the Notice). </li>
+<li style="text-align: justify"><u>List of supporting documents</u></li>
+ </ol>
+<ol style="list-style-type: lower-roman">
+<li style="text-align: justify">Copies of profit and loss statements^ for <u><b>all</b></u> the following periods: </li> 
+<ol style="list-style-type: lower-alpha; list-style-position: inside">
+<li>16 May to 13 June 2021; </li>
+<li> 22 July to 18 August 2021; and </li>
+<li>28 December 2020 to 7 May 2021. </li>
+<li style="text-align: justify"><i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. </li>
+ </ol>
     ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. <br>
     <br>
 
