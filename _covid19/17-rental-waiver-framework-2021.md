@@ -153,6 +153,7 @@ The rental waiver assessor’s determination will be binding on all landlords an
 
 <u>For Tenants</u>
 <br>
+ 
 Tenants may make an application, <u>within 14 calendar days after complete service of the copy of the Notice of Rental Waiver and supporting documents to their landlord</u>, to have a rental waiver assessor ascertain any of the following:<br>
 <br>
 <ol style="list-style-type: lower-roman">
@@ -160,13 +161,16 @@ Tenants may make an application, <u>within 14 calendar days after complete servi
 <li style="text-align: justify">The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
 </ol>
 <br>
+ 
 Tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria may make a manual application for assessment by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver, and will be subject to the same service requirements as other groups of tenants. More details on such applications will be provided in due course.
 <br>
 
  <u>For Property Owners and/or Intermediary Landlords</u>
 <br>
+ 
 Property owners and/or any intermediary landlords may make an application, <u>within 14 calendar days after receiving the copies of the Notice of Rental Waiver and supporting documents from their tenant</u>, to have a rental waiver assessor make a determination on any of the following: <br>
 <br>
+ 
 <ol style="list-style-type: lower-roman">
 <li style="text-align: justify">Whether the tenant-occupier is eligible for the rental waiver </li>
 <li style="text-align: justify">Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material </li>
@@ -188,11 +192,13 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 
 <u>Just and Equitable Reversal or Reduction of Rental Waiver</u>
 <br>
+ 
 Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
 <br>
  
 <u>Application for Assessment</u>
 <br>
+ 
 More details on the process to make an application for assessment will be provided in October 2021. 
 <br>
   
