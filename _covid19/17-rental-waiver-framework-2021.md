@@ -44,16 +44,16 @@ SME and Non-Profit Organisation (NPO) tenant-occupiers (including subtenants and
     b.  Annual revenue not exceeding $100 million in FY2019 <br>
     <br>
     c. Lease or licence must be:
-        i.	Entered into or renewed before 20 July 2021 <br>
-        <br>
-        ii.	In force for the entire period from 5 August to 18 August 2021 (both dates inclusive) <br>
-        <br>
-        iii.	Where applicable, stamped on or before 2 August 2021<sup><a href="#fn2" id="ref2">2</a></sup> <br>
-        <br>
+    i. Entered into or renewed before 20 July 2021 <br>
+    <br>
+    ii.	In force for the entire period from 5 August to 18 August 2021 (both dates inclusive) <br>
+    <br>
+    iii. Where applicable, stamped on or before 2 August 2021<sup><a href="#fn2" id="ref2">2</a></sup> <br>
+    <br>
     d. Suffered at least a 20% drop in average monthly revenue during both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 <u>and</u> 22 July 2021 to 18 August 2021, all dates inclusive), as compared to the Phase 3 period (28 December 2020 to 7 May 2021, both dates inclusive)<sup><a href="#fn3" id="ref3">3</a></sup> <br>
-        <br>
+    <br>
     e. If part of a Singapore group of entities<sup><a href="#fn4" id="ref4">4</a></sup> (“group”), the group’s annual revenue does not exceed $100 million in FY2019 (this does not apply to SMEs that are not part of any group of companies, or NPOs.) <br>
-        <br>
+    <br>
 
 If the eligible tenant-occupier rents the property through an intermediary landlord (i.e. a landlord who is not the property owner), the intermediary landlord will also receive the same amount of rental waiver from their immediate landlord, up to a cap of 2 weeks of their own gross rent. This applies regardless of whether the intermediary landlord meets the eligibility criteria.
 
@@ -71,30 +71,28 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 
     a.	Complete the Declaration Form accompanying the Notice. <br>
     <br>
-
     b.	Send <u>via email or registered post</u>, the following documents to their immediate landlord <u>within 28 calendar days from the date of the Notice</u>: <br>
     <br>
-        i.	A <u>copy</u> of the Notice;<br>
+    i.	A <u>copy</u> of the Notice;<br>
+    <br>
+    ii.	A <u>copy</u> of the completed Declaration Form; <u>and</u> <br>
+    <br>
+    iii.	<u>Copies</u> of the supporting documents below (also listed in Annex A of the Notice). <br>
         <br>
-        ii.	A <u>copy</u> of the completed Declaration Form; <u>and</u> <br>
-        <br>
-        iii.	<u>Copies</u> of the supporting documents below (also listed in Annex A of the Notice). <br>
-        <br>
-        
-        
-        <u>List of supporting documents</u>
+          
+    <u>List of supporting documents</u>
 
-        1) Copies of profit and loss statements^ for <u><b>all</b></u> the following periods: 
-        i) 16 May to 13 June 2021; <br>
-        <br>
-        ii) 22 July to 18 August 2021; and <br>
-        <br>
-        iii) 28 December 2020 to 7 May 2021. <br>
-        <br>
-        2)<i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. <br>
-        <br>
-        ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. <br>
-        <br>
+    1) Copies of profit and loss statements^ for <u><b>all</b></u> the following periods: 
+    i) 16 May to 13 June 2021; <br>
+    <br>
+    ii) 22 July to 18 August 2021; and <br>
+    <br>
+    iii) 28 December 2020 to 7 May 2021. <br>
+    <br>
+    2)<i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. <br>
+    <br>
+    ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. <br>
+    <br>
 
 Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. 
 
@@ -156,7 +154,6 @@ Tenants whose lease agreements were not stamped on or before 2 August 2021, but 
 
 Property owners and/or any intermediary landlords may make an application, <u>within 14 calendar days after receiving the copies of the Notice of Rental Waiver and supporting documents from their tenant</u>, to have a rental waiver assessor make a determination on any of the following: <br>
   <br>
-  
     a.	Whether the tenant-occupier is eligible for the rental waiver <br>
   <br> 
     b.	Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material <br>
@@ -184,7 +181,7 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 
 Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
   
-  <u>Application for Assessment</u>
+<u>Application for Assessment</u>
 
 More details on the process to make an application for assessment will be provided in October 2021. 
 
