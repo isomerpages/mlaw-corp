@@ -61,8 +61,10 @@ If you are the property owner and have received the Notice and the other documen
 
 If you are a landlord and have received the Notice and the other supporting documents from your tenant, but are not the property owner (i.e. you are subletting the property as an intermediary landlord):
 
-i.	You are required to provide the rental waiver as set out in the Notice to your tenant.
-ii.	As an intermediary landlord, you will also be eligible for the same amount of rental waiver from your landlord, up to a cap of 2 weeks of your own gross rent. To obtain the rental waiver from your landlord, please follow the instructions for service applicable to an intermediary landlord as set out in the Notice.
+<ol style="list-style-type: lower-roman">
+<li style="text-align: justify">You are required to provide the rental waiver as set out in the Notice to your tenant.</li>
+<li style="text-align: justify">As an intermediary landlord, you will also be eligible for the same amount of rental waiver from your landlord, up to a cap of 2 weeks of your own gross rent. To obtain the rental waiver from your landlord, please follow the instructions for service applicable to an intermediary landlord as set out in the Notice. </li>
+</ol>
 
 <a name="q3">**Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?**</a>
 
