@@ -329,7 +329,6 @@ Where the intermediary landlord has subdivided the property to rent to multiple 
 <TR> 
 <TD>$30,000</TD> 
 </TR>
-</TABLE>
 
 <br>
  
