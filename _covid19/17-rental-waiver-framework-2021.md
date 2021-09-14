@@ -85,8 +85,7 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 <li style="text-align: justify"><i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. </li>
  </ol>
     ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. </li>
- </ol>
-<br>
+</ol>
 
 Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. 
 
@@ -98,8 +97,8 @@ Once an eligible tenant sends all the above documents to their landlord, the ren
 <li style="text-align: justify">For tenants that have any rental arrears for the period of 5 to 18 August 2021, these arrears will be deemed as paid, and the tenants will not be liable for any interest or charge associated to that amount<sup><a href="#fn5" id="ref5">5</a></sup> </li>
 <li style="text-align: justify">For tenants that have already paid their landlords rent for the period of 5 to 18 August 2021, their rent for the next most immediate month will be reduced by 2 weeks; </li>
 <li style="text-align: justify">If (i) and (ii) are both not applicable (for example, where the lease has ended or is ending), the landlord must refund the tenant 2 weeks of rent immediately. This is deemed as a debt due to the tenant. </li>
-    </ol>
-<br>
+</ol>
+
 Where a landlord has provided direct monetary assistance or rental waivers<sup><a href="#fn6" id="ref6">6</a></sup> to its tenants from 16 May 2021 up to the date that they receive the copy of Notice of Rental Waiver and documents from their tenant, such assistance can be offset from their rental waiver obligations under the Rental Waiver Framework 2021.
 <br>
 <u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u>
@@ -139,9 +138,8 @@ Tenants may make an application, <u>within 14 calendar days after complete servi
 <ol style="list-style-type: lower-roman">
 <li style="text-align: justify">The actual amount of rent under the lease agreement. </li>
 <li style="text-align: justify">The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
-</lo>
-<br>
- 
+</ol>
+
 Tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria may make a manual application for assessment by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver, and will be subject to the same service requirements as other groups of tenants. More details on such applications will be provided in due course.
 
 <u>For Property Owners and/or Intermediary Landlords</u>
@@ -155,9 +153,8 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 <li style="text-align: justify">Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on Just and Equitable Reversal or Reduction of Rental Waiver) </li>
 <li style="text-align: justify">The actual amount of rent under the lease agreement. </li>
 <li style="text-align: justify">The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
- </ol>
- <br>  
- 
+</ol>
+
 <u>Eligibility for Financial Hardship for Landlords</u>
 
 <ol style="list-style-type: lower-roman">
@@ -165,9 +162,8 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 <li style="text-align: justify">The applicant should be the property owner, who is an individual or sole proprietor landlord, or a company solely created to hold interest in the property (“holding company”), and the holding company is owned by one or more individuals and/or sole proprietors who each meet the other two criteria below </li>
 <li style="text-align: justify">The Annual Value of investment properties owned by the applicant or each shareholder of the holding company (whether directly, or indirectly through companies) is less than $60,000 </li>
 <li style="text-align: justify">The average monthly rental income from all properties owned by the applicant, or each shareholder of the holding company (whether directly, or indirectly through companies) constitutes 75% or more of his/her average monthly gross income </li>
- </ol>
-<br>
- 
+</ol>
+
 <u>Just and Equitable Reversal or Reduction of Rental Waiver</u>
 
 Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
