@@ -1,7 +1,8 @@
 ---
-title: 7. Rental Waiver Framework 2021
+title: 7. Overview of Rental Waiver Framework
 permalink: /covid19-relief/rental-waiver-framework-2021
-breadcrumb: 7. Rental Relief Framework 2021
+breadcrumb: Overview of Rental Waiver Framework
+third_nav_title: '7. Rental Waiver Framework 2021'
 
 ---
 
