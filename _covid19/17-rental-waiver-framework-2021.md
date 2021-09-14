@@ -201,9 +201,9 @@ Landlords who require assistance but do not fall under any of the above-mentione
 More details on the process to make an application for assessment will be provided in October 2021. <br>
 <br>
   
-<p><sup id="fn1">1. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
 
-<p><sup id="fn2">2. Tenants whose leases are not stamped but require assistance under the RWF and meet all other eligibility criteria may make a manual application for rental waiver (see section on Rental Waiver Assessors <insert link>). Such cases will be assessed by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver and will be subject to the same service requirements as other groups of tenants. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Tenants whose leases are not stamped but require assistance under the RWF and meet all other eligibility criteria may make a manual application for rental waiver (see section on Rental Waiver Assessors <insert link>). Such cases will be assessed by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver and will be subject to the same service requirements as other groups of tenants. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a>
 
 <p><sup id="fn3">3. For tenants that only started operating after 28 December 2020, the drop in average monthly revenue will be calculated by comparing both Phase 2 (Heightened Alert) periods to the period from the business commencement date to 15 May 2021 (both dates inclusive). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
