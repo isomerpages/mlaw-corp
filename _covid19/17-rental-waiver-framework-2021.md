@@ -85,16 +85,16 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 <li style="text-align: justify"><i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs.</li>
 </ol>
 
-^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: <a href="https://go.gov.sg/conp-list/" target="new">https://go.gov.sg/conp-list/</a> and <a href="https://go.gov.sg/jp-list/" target="new">https://go.gov.sg/jp-list/</a>
+^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: <a href="https://go.gov.sg/conp-list/" target="new">https://go.gov.sg/conp-list/</a> and <a href="https://go.gov.sg/jp-list/" target="new">https://go.gov.sg/jp-list/</a><br>
 <br>
  
-Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. 
+Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. <br>
 <br>
  
-Tenants should retain the original Notice, completed Declaration Form and supporting documents, and proof of sending the copies of the documents to their landlord (email record, posting receipt for a period of 6 months. Tenants may be required to produce these in the event of a dispute.
+Tenants should retain the original Notice, completed Declaration Form and supporting documents, and proof of sending the copies of the documents to their landlord (email record, posting receipt for a period of 6 months. Tenants may be required to produce these in the event of a dispute.<br>
 <br>
  
-Once an eligible tenant sends all the above documents to their landlord, the rental waiver will apply automatically by <u>operation of law</u> in the following manner:
+Once an eligible tenant sends all the above documents to their landlord, the rental waiver will apply automatically by <u>operation of law</u> in the following manner:<br>
     <br>    
 <ol style="list-style-type: lower-roman">
 <li style="text-align: justify">For tenants that have any rental arrears for the period of 5 to 18 August 2021, these arrears will be deemed as paid, and the tenants will not be liable for any interest or charge associated to that amount<sup><a href="#fn5" id="ref5">5</a></sup> </li>
@@ -102,53 +102,53 @@ Once an eligible tenant sends all the above documents to their landlord, the ren
 <li style="text-align: justify">If (i) and (ii) are both not applicable (for example, where the lease has ended or is ending), the landlord must refund the tenant 2 weeks of rent immediately. This is deemed as a debt due to the tenant. </li>
 </ol>
 
-Where a landlord has provided direct monetary assistance or rental waivers<sup><a href="#fn6" id="ref6">6</a></sup> to its tenants from 16 May 2021 up to the date that they receive the copy of Notice of Rental Waiver and documents from their tenant, such assistance can be offset from their rental waiver obligations under the Rental Waiver Framework 2021.
+Where a landlord has provided direct monetary assistance or rental waivers<sup><a href="#fn6" id="ref6">6</a></sup> to its tenants from 16 May 2021 up to the date that they receive the copy of Notice of Rental Waiver and documents from their tenant, such assistance can be offset from their rental waiver obligations under the Rental Waiver Framework 2021.<br>
  <br>
  
 <u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u> 
  <br>
  
-Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on Eligibility Criteria for Rental Waiver), and make an application subsequently. More details will be provided when applications open on 1 November 2021.
+Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on Eligibility Criteria for Rental Waiver), and make an application subsequently. More details will be provided when applications open on 1 November 2021.<br>
 <br>
  
-Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on Rental Waiver Assessors for more details.
+Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on Rental Waiver Assessors for more details.<br>
  <br>
  
 <u>Action Required by Intermediary Landlords (to provide and obtain rental waiver)</u>
 <br>
  
-Intermediary landlords (i.e. landlords who sublet the property and are not the property owner) who receive the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice. 
+Intermediary landlords (i.e. landlords who sublet the property and are not the property owner) who receive the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice. <br>
 <br>
  
-To also receive the same amount of rental waiver from their immediate landlord, up to a cap of 2 weeks of their own gross rent, intermediary landlords must send copies of the documents received from the tenant to their own immediate landlord <u>via email or registered post</u>, within <u>7 calendar days of receiving the documents from their tenant</u>. 
+To also receive the same amount of rental waiver from their immediate landlord, up to a cap of 2 weeks of their own gross rent, intermediary landlords must send copies of the documents received from the tenant to their own immediate landlord <u>via email or registered post</u>, within <u>7 calendar days of receiving the documents from their tenant</u>. <br>
 <br>
  
-Intermediary landlords are <u>strongly encouraged</u> to send the relevant documents by email to minimise potential disputes on compliance with service requirements.
+Intermediary landlords are <u>strongly encouraged</u> to send the relevant documents by email to minimise potential disputes on compliance with service requirements.<br>
 <br>
  
-Intermediary landlords should retain the documents received from their tenant, and proof of sending the copies of those documents to their own landlord (email record, posting receipt) for a period of 6 months. Intermediary landlords may be required to produce these in the event of a dispute.
+Intermediary landlords should retain the documents received from their tenant, and proof of sending the copies of those documents to their own landlord (email record, posting receipt) for a period of 6 months. Intermediary landlords may be required to produce these in the event of a dispute.<br>
 <br>
  
 <u>Action Required by Property Owner (to provide rental waiver)</u>
 <br>
  
-Property owners receiving the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice to their tenants.
+Property owners receiving the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice to their tenants.<br>
 <br>
  
 ##### <a name="assess">D. Rental Waiver Assessors<a href="#refd" title="Return to top">↩</a> #####
 <br>
  
-Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements based on their specific circumstances. 
+Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements based on their specific circumstances. <br>
 <br>
  
-If a landlord and tenant-occupier are unable to reach a compromise, they may make an application to an independent rental waiver assessor for a determination. <u>Applicants must inform the property owner and all other intermediary landlords / tenants of the subject property, where applicable.</u>
+If a landlord and tenant-occupier are unable to reach a compromise, they may make an application to an independent rental waiver assessor for a determination. <u>Applicants must inform the property owner and all other intermediary landlords / tenants of the subject property, where applicable.</u><br>
  
 <br>
 
- After an application for rental waiver assessment is made, the landlord and the tenant-occupier may be asked to submit additional information or documents, or attend a hearing, either virtually or in person. All parties should make their best effort to comply with these requests, to facilitate a timely resolution of the application.
+ After an application for rental waiver assessment is made, the landlord and the tenant-occupier may be asked to submit additional information or documents, or attend a hearing, either virtually or in person. All parties should make their best effort to comply with these requests, to facilitate a timely resolution of the application.<br>
 <br>
  
-The rental waiver assessor’s determination will be binding on all landlords and the tenant-occupier, and will not be appealable. 
+The rental waiver assessor’s determination will be binding on all landlords and the tenant-occupier, and will not be appealable. <br>
 <br>
 
 <u>For Tenants</u>
@@ -162,7 +162,7 @@ Tenants may make an application, <u>within 14 calendar days after complete servi
 </ol>
 <br>
  
-Tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria may make a manual application for assessment by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver, and will be subject to the same service requirements as other groups of tenants. More details on such applications will be provided in due course.
+Tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria may make a manual application for assessment by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver, and will be subject to the same service requirements as other groups of tenants. More details on such applications will be provided in due course.<br>
 <br>
 
  <u>For Property Owners and/or Intermediary Landlords</u>
@@ -193,13 +193,13 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 <u>Just and Equitable Reversal or Reduction of Rental Waiver</u>
 <br>
  
-Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
+Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.<br>
 <br>
  
 <u>Application for Assessment</u>
 <br>
  
-More details on the process to make an application for assessment will be provided in October 2021. 
+More details on the process to make an application for assessment will be provided in October 2021. <br>
 <br>
   
 <p><sup id="fn1">1. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
