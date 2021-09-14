@@ -84,9 +84,10 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 <li>28 December 2020 to 7 May 2021. </li>
 <li style="text-align: justify"><i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. </li>
  </ol>
-    ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. <br>
+    ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. </li>
  </ol>
 <br>
+
 Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. 
 
 Tenants should retain the original Notice, completed Declaration Form and supporting documents, and proof of sending the copies of the documents to their landlord (email record, posting receipt for a period of 6 months. Tenants may be required to produce these in the event of a dispute.
