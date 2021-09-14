@@ -1,7 +1,7 @@
 ---
-title: 7. Overview of Rental Waiver Framework
+title: Overview of Rental Waiver Framework 2021
 permalink: /covid19-relief/rental-waiver-framework-2021
-breadcrumb: Overview of Rental Waiver Framework
+breadcrumb: Overview of Rental Waiver Framework 2021
 third_nav_title: '7. Rental Waiver Framework 2021'
 
 ---
@@ -39,21 +39,17 @@ The Rental Waiver Framework does not apply to Government-owned properties.
 
 SME and Non-Profit Organisation (NPO) tenant-occupiers (including subtenants and licensees) who meet <u><b>all</b></u> the following criteria will be able to claim a rental waiver from their landlords – 
 
-    a.	Tenant-occupier of a qualifying commercial property<br>
-    <br>
-    b.  Annual revenue not exceeding $100 million in FY2019 <br>
-    <br>
-    c. Lease or licence must be:
-    i. Entered into or renewed before 20 July 2021 <br>
-    <br>
-    ii.	In force for the entire period from 5 August to 18 August 2021 (both dates inclusive) <br>
-    <br>
-    iii. Where applicable, stamped on or before 2 August 2021<sup><a href="#fn2" id="ref2">2</a></sup> <br>
-    <br>
-    d. Suffered at least a 20% drop in average monthly revenue during both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 <u>and</u> 22 July 2021 to 18 August 2021, all dates inclusive), as compared to the Phase 3 period (28 December 2020 to 7 May 2021, both dates inclusive)<sup><a href="#fn3" id="ref3">3</a></sup> <br>
-    <br>
-    e. If part of a Singapore group of entities<sup><a href="#fn4" id="ref4">4</a></sup> (“group”), the group’s annual revenue does not exceed $100 million in FY2019 (this does not apply to SMEs that are not part of any group of companies, or NPOs.) <br>
-    <br>
+<ol style="list-style-type: lower-roman">
+<li style="text-align: justify">Tenant-occupier of a qualifying commercial property</li>
+<li style="text-align: justify">Annual revenue not exceeding $100 million in FY2019</li>
+<li style="text-align: justify">Lease or licence must be:</li>
+<ol style="list-style-type: lower-alpha; list-style-position: inside">
+<li>Entered into or renewed before 20 July 2021</li>
+<li>In force for the entire period from 5 August to 18 August 2021 (both dates inclusive)</li>
+<li>Where applicable, stamped on or before 2 August 2021<sup><a href="#fn2" id="ref2">2</a></sup> </li>
+<li style="text-align: justify">Suffered at least a 20% drop in average monthly revenue during both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 <u>and</u> 22 July 2021 to 18 August 2021, all dates inclusive), as compared to the Phase 3 period (28 December 2020 to 7 May 2021, both dates inclusive)<sup><a href="#fn3" id="ref3">3</a></sup> </li>
+<li style="text-align: justify">If part of a Singapore group of entities<sup><a href="#fn4" id="ref4">4</a></sup> (“group”), the group’s annual revenue does not exceed $100 million in FY2019 (this does not apply to SMEs that are not part of any group of companies, or NPOs.) </li>
+</ol>
 
 If the eligible tenant-occupier rents the property through an intermediary landlord (i.e. a landlord who is not the property owner), the intermediary landlord will also receive the same amount of rental waiver from their immediate landlord, up to a cap of 2 weeks of their own gross rent. This applies regardless of whether the intermediary landlord meets the eligibility criteria.
 
