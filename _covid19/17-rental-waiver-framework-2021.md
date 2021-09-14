@@ -10,7 +10,7 @@ third_nav_title: '7. Rental Waiver Framework 2021'
 
 ##### Introduction #####
 
-The COVID-19 (Temporary Measures) (Amendment No. 4) Bill ( “Bill”) that was introduced in Parliament on 13 September 2021 provides a Rental Waiver Framework (RWF) under Part 12 of the COVID-19 (Temporary Measures) Act (“Act”) for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). If the Bill is passed, the RWF is expected to commence in October 2021.
+The COVID-19 (Temporary Measures) (Amendment No. 4) Bill ( “Bill”) that was passed in Parliament on 14 September 2021 provides a Rental Waiver Framework (RWF) under Part 12 of the COVID-19 (Temporary Measures) Act (“Act”) for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). The RWF is planned to commence in October 2021.
 
 The RWF complements the suite of support measures introduced by the Government to alleviate the economic impact on businesses due to the tightened safe management measures imposed during the Phase 2 (Heightened Alert) [P2(HA)] periods, including the Rental Support Scheme (RSS) introduced by the Ministry of Finance.
 
