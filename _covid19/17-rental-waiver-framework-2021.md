@@ -137,8 +137,8 @@ Intermediary landlords should retain the documents received from their tenant, a
 Property owners receiving the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice to their tenants.<br>
 <br>
 
-##### <a name="assess">D. Rental Waiver Assessors</a><a href="#refd" title="Return to top">↩</a> #####
- 
+<a name="assess">D. Rental Waiver Assessors</a><a href="#refd" title="Return to top">↩</a>
+
 Landlords and tenants are strongly encouraged to work out mutually agreeable arrangements based on their specific circumstances. <br>
 <br>
  
@@ -205,7 +205,7 @@ More details on the process to make an application for assessment will be provid
   
 <p><sup id="fn1">1. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2. Tenants whose leases are not stamped but require assistance under the RWF and meet all other eligibility criteria may make a manual application for rental waiver (see section on Rental Waiver Assessors <insert link>). Such cases will be assessed by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver and will be subject to the same service requirements as other groups of tenants. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Tenants whose leases are not stamped but require assistance under the RWF and meet all other eligibility criteria may make a manual application for rental waiver (see <a href="/covid19-relief/rental-waiver-framework-2021#assess">section on Rental Waiver Assessors</a>). Such cases will be assessed by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver and will be subject to the same service requirements as other groups of tenants. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <p><sup id="fn3">3. For tenants that only started operating after 28 December 2020, the drop in average monthly revenue will be calculated by comparing both Phase 2 (Heightened Alert) periods to the period from the business commencement date to 15 May 2021 (both dates inclusive). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
