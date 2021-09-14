@@ -314,24 +314,8 @@ Under the Rental Waiver Framework (RWF), the amount of rental waiver to be given
 
 Where the intermediary landlord has subdivided the property to rent to multiple eligible tenant-occupiers, the rental relief that the property owner has to provide to the master tenant will generally be equivalent to the total rental waiver that the master tenant had granted to eligible sub-tenants but not exceeding 2 weeks of the rent paid by the intermediary landlord to its landlord. This is illustrated in the table below. 
  
-<TABLE BORDER="5">
-<TR>  
-<TD><b>Rental waiver given by intermediary landlord</b></TD>  
-<TD><b>Monthly rent paid by intermediary landlord to its landlord</b><TD><b>Rental waiver that intermediary landlord is entitled to</b></TD>  
-</TR>
-<TR> 
-<TD>$10,000</TD>
-<TD rowspan="3">$31,000</TD>
-<TD>$10,000</TD>
-</TR> 
-<TD>$20,000</TD>  
-<TD rowspan="2">$14,000 (capped at 2 weeks of own rent)</TD>
-<TR> 
-<TD>$30,000</TD> 
-</TR>
+![image](/images/RWF2021_table.JPG) 
 
-<br>
- 
 <a name="q33">**Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?**</a>
 
 Intermediary landlords should require a shorter time for complete service as compared to tenant-occupiers, since they do not need to prepare any additional documents, and are just required to send to their immediate landlord the copies of all the documents received from their tenant. 
