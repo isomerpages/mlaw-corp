@@ -202,7 +202,7 @@ Revenues accounted for outside of Singapore would not be an accurate reflection 
 
 If you do not have the necessary profit and loss statements required for determining the revenue drop for your business at the subject location, you must provide a copy of a Statutory Declaration attesting that you meet the relevant eligibility criteria in Section 1 of the Declaration Form (of the Notice of Rental Waiver).
 
-A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: https://go.gov.sg/conp-list and https://go.gov.sg/jp-list.
+A statutory declaration made in Singapore must be in the form set out in the First Schedule of the Oaths and Declarations Act (Cap. 211) and be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance:  <a href="https://go.gov.sg/conp-list/" target="new">https://go.gov.sg/conp-list/</a> and <a href="https://go.gov.sg/jp-list/" target="new">https://go.gov.sg/jp-list/</a>.
 
 <a name="q19">**Q19.	What if I cannot prepare the necessary supporting documents and complete service within 28 calendar days?**</a>
 
@@ -312,13 +312,23 @@ Under the Rental Waiver Framework (RWF), the amount of rental waiver to be given
 
 Where the intermediary landlord has subdivided the property to rent to multiple eligible tenant-occupiers, the rental relief that the property owner has to provide to the master tenant will generally be equivalent to the total rental waiver that the master tenant had granted to eligible sub-tenants but not exceeding 2 weeks of the rent paid by the intermediary landlord to its landlord. This is illustrated in the table below. 
 
-Rental waiver given by
-intermediary landlord	Monthly rent paid by intermediary landlord to its landlord	Rental waiver that intermediary landlord is entitled to
-$10,000	$31,000	$10,000
-$20,000		$14,000 
-(capped at 2 weeks of own rent)
-$30,000		
+<TABLE BORDER="5">
+<TR>  
+<TD><b>Rental waiver given by intermediary landlord</b></TD>  
+<TD><b>Monthly rent paid by intermediary landlord to its landlord</b><TD><b>Rental waiver that intermediary landlord is entitled to</b></TD>  
+</TD>
+<TR> 
+<TD>$10,000</TD>
+<td rowspan="3">$31,000</td>
+<TD>$10,000</TD>
+</TR> 
+<TD>$20,000</TD>  
+<TD rowspan="2">$14,000 (capped at 2 weeks of own rent)</TD>
+<TR> 
+<TD>$30,000</TD> 
+</TABLE>
 
+ 
 <a name="q33">**Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?**</a>
 
 Intermediary landlords should require a shorter time for complete service as compared to tenant-occupiers, since they do not need to prepare any additional documents, and are just required to send to their immediate landlord the copies of all the documents received from their tenant. 
@@ -339,4 +349,4 @@ SME and larger corporate landlords can likewise work with their banks and financ
 
 Those who need to access additional credit to meet their immediate cashflow needs can either apply for mortgage equity withdrawal loans, or loans under ESG’s Temporary Bridging Loan Programme or Working Capital Loan Scheme.
 
-Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: www.mas.gov.sg/regulation/covid-19.
+Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: <a href="www.mas.gov.sg/regulation/covid-19/" target="new">www.mas.gov.sg/regulation/covid-19/</a>.
