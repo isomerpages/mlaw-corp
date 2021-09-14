@@ -75,7 +75,7 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 <li><u>Copies</u> of the supporting documents below (also listed in Annex A of the Notice). </li>
 </ol>
 <br>
-<u>List of supporting documents</u></li>
+<u>List of supporting documents</u>
 <ol style="list-style-type: lower-roman">
 <li style="text-align: justify">Copies of profit and loss statements^ for <u><b>all</b></u> the following periods: </li> 
 <ol style="list-style-type: lower-alpha; list-style-position: inside">
@@ -84,7 +84,7 @@ Tenants who have received the Notice and meet all the eligibility criteria <u>mu
 <li>28 December 2020 to 7 May 2021. </li>
 <li style="text-align: justify"><i>[Where applicable]</i> If the tenant-occupier is part of a Singapore group of entities, the tenant-occupier <b>must</b> also provide the Singapore group of entities’ audited financial statements for FY2019. This does not apply to SMEs that are not part of any group of companies, or NPOs. </li>
  </ol>
-    ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: (https://go.gov.sg/conp-list){:target="_blank"} and (https://go.gov.sg/jp-list){:target="_blank"}. </li>
+    ^ If the tenant-occupier is <u><b>unable to provide any</b></u> of the profit and loss statements listed above, the tenant-occupier must provide a copy of a Statutory Declaration attesting that it meets the relevant eligibility criteria to qualify for the rental waiver. Statutory Declarations must be made before a Commissioner for Oaths, Notary Public or a Justice of the Peace. The following links contain a list of Commissioners/Notaries/Justices, who may be contacted for further assistance: [https://go.gov.sg/conp-list](https://go.gov.sg/conp-list){:target="_blank"} and [https://go.gov.sg/jp-list](https://go.gov.sg/jp-list){:target="_blank"}. </li>
 </ol>
 
 Tenants are <u>strongly encouraged</u> to send the above documents by email to minimise potential disputes on compliance with the service requirements. 
@@ -101,12 +101,13 @@ Once an eligible tenant sends all the above documents to their landlord, the ren
 
 Where a landlord has provided direct monetary assistance or rental waivers<sup><a href="#fn6" id="ref6">6</a></sup> to its tenants from 16 May 2021 up to the date that they receive the copy of Notice of Rental Waiver and documents from their tenant, such assistance can be offset from their rental waiver obligations under the Rental Waiver Framework 2021.
 <br>
-<u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u>
 
+<u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u><br>
+<br>
 Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on Eligibility Criteria for Rental Waiver), and make an application subsequently. More details will be provided when applications open on 1 November 2021.
-
+<br>
 Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on Rental Waiver Assessors for more details.
-
+<br>
 <u>Action Required by Intermediary Landlords (to provide and obtain rental waiver)</u>
 
 Intermediary landlords (i.e. landlords who sublet the property and are not the property owner) who receive the Notice and the other documents from eligible tenants are required under the Act to provide the rental waiver as set out in the Notice. 
