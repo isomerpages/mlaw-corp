@@ -140,7 +140,7 @@ Tenants may make an application, <u>within 14 calendar days after complete servi
 <li style="text-align: justify">The actual amount of rent under the lease agreement. </li>
 <li style="text-align: justify">The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
 </ol>
-
+<br>
 Tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria may make a manual application for assessment by a rental waiver assessor. Successful applicants will be issued with a Notice of Rental Waiver, and will be subject to the same service requirements as other groups of tenants. More details on such applications will be provided in due course.
 
 <u>For Property Owners and/or Intermediary Landlords</u>
@@ -168,7 +168,7 @@ Property owners and/or any intermediary landlords may make an application, <u>wi
 <u>Just and Equitable Reversal or Reduction of Rental Waiver</u>
 
 Landlords who require assistance but do not fall under any of the above-mentioned scenarios may apply to a rental waiver assessor stating their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This could include cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
-  
+
 <u>Application for Assessment</u>
 
 More details on the process to make an application for assessment will be provided in October 2021. 
