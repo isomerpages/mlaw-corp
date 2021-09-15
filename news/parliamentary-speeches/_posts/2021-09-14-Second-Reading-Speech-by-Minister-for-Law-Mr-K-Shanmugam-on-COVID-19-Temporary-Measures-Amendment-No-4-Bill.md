@@ -98,8 +98,8 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 
 <ol style="list-style-type: lower-roman">
    <li style="text-align: justify">Email, which is preferred to minimise potential disputes between landlords and tenants; or</li>
-   <li style="text-align: justify">Registered mail.<li>
-   </ol>
+   <li style="text-align: justify">Registered mail.</li>
+</ol>
 
 {:start="19"}
 19.	If the rent has already been paid, the equivalent amount can be offset against their next rental payment.
@@ -124,7 +124,7 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 <ol style="list-style-type: lower-roman">
    <li style="text-align: justify">The annual value of their property</li>
    <li style="text-align: justify">And whether the rental income forms a substantial part of their total income.</li>
-   </ol>
+</ol>
    
 {:start="25"}
 25.	If they meet the criteria, the Assessors can exempt them from providing the rental waiver.
@@ -138,7 +138,7 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 <ol style="list-style-type: lower-roman">
    <li style="text-align: justify">Take into account exceptional circumstances of landlords.</li>
    <li style="text-align: justify">Determine if it is just and equitable to make appropriate adjustments to the rental waiver obligations between the landlord and tenant.</li>
-   </ol>
+</ol>
 
 <b><u>C. Other Amendments</u></b>
 
@@ -154,7 +154,7 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 <ol style="list-style-type: lower-roman">
    <li style="text-align: justify">To make clear that different application fees can be prescribed for an initial application for a determination.</li>
    <li style="text-align: justify">And to allow MND to charge application fees for subsequent determinations made after the initial one.</li>
-   </ol>
+</ol>
    
 **IV. Conclusion**
 
