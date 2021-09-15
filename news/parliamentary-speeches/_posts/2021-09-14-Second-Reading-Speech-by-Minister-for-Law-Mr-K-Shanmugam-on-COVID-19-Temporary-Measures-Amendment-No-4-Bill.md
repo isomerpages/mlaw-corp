@@ -30,68 +30,138 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 {:start="6"}
 6.	There were two Phase 2 (Heightened Alert) periods: 
 
-   a. 16 May to 13 June 2021.
-   
-   b. 22 July to 18 August 2021. 
-      
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">16 May to 13 June 2021.</li>
+   <li style="text-align: justify">22 July to 18 August 2021.</li> 
+</ol>
+
 {:start="7"}
-7.	And the speed at which all of it has happened, has taken many by surprise. If you look at Singapore, on 18 February – DPM presented his Budget Speech with a support package. $5.6 billion, very substantive. At that time, there were 800 confirmed cases outside China.
+7.	During these periods:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">Dining in was not allowed.</li> 
+   <li style="text-align: justify">Indoor mask-off activities were restricted.</li>
+   <li style="text-align: justify">Operating capacity was decreased.</li>
+</ol>
 
 {:start="8"}
-8.	By 26 March, the situation had worsened. There was a second package presented by DPM. This time, $48 billion. At that time, there were 410,000 infections, 18,000 deaths.		
+8.	These restrictions impacted some businesses. Rental expenses were a persistent pain point.
 
 {:start="9"}
-9.	11 days later, the situation had worsened again. Yesterday, 6 April, DPM presented the third package to help Singaporeans. We had 1.2 million infections, more than 67,000 dead worldwide. Almost certainly, that’s an understatement of the true figures. 
+9.	The Government decided to support – through the Rental Support Scheme (or RSS for short). The RSS is part of a broader suite of measures, put in place to address the impact of the Phase 2 (Heightened Alert) measures. These include the Jobs Support Scheme and the various COVID-19 grants.
 
 {:start="10"}
-10.	The virus is still tearing through the world. Africa, South Asia, so far have not been badly hit. We can only hope that it stays that way. 
+10.	In total – more than S$2 billion has been set aside to cushion the business impact of Phase 2 (Heightened Alert).
 
-*(B)	Economic impact*
+**III. Key Features of Bill**
 
 {:start="11"}
-11.	The economic impact has been devastating. On 19 March, the Secretary-General of the United Nations said, and I quote: a “global recession – perhaps of record dimensions – is a near certainty”.
+11.	Let me now explain the key features of the Bill.
+
+<b><u>A) Provisions for Tenants</u></b>
 
 {:start="12"}
-12.	On 19 March, the International Labour Organisation (ILO) made an assessment that global unemployment could increase by 25 million. On 27 March, eight days later, ILO changed the assessment. Within 8 days, they said unemployment could be far bigger, far deeper, certainly more than 25 million. 
+12.	Eligible tenants will receive from their landlords, two weeks’ waiver of gross rent, <u>including</u> service & maintenance charges.
 
 {:start="13"}
-13.	Last week, the director of the international department of the People’s Bank of China said, and I quote: “The possibility of a ‘Great Depression’ cannot be ruled out if the epidemic continues to run out of control, and the deterioration of the real economy is compounded by an eruption of financial risks”. 
+13.	To qualify, they must be tenants of privately owned commercial properties, and they must meet three criteria:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">They must be a SME, or a specified non-profit organisation, with an annual revenue of not more than $100 million.</li>
+   <li style="text-align: justify">Their tenancy – </li>
+   <ol style="list-style-type: lower-alpha; list-style-position: inside">
+      <li>must have been entered into before 20 July 2021, if it is a fresh lease. Or if it is a renewal, then renewed before 20 July 2021; and</li>
+      <li>must be in force from 5 to 18 August 2021.</li>
+        </ol>
+   <li style="text-align: justify"><u>And</u> they must have experienced at least a 20% drop in their average monthly revenue, at the specific property, during both P2(HA) periods compared to the Phase 3 period (from 28 December 2020 to 7 May 2021). That’s the reference period.</li>
+</ol>
 
 {:start="14"}
-14.	The “Great Depression” – the phrase itself brings to mind one of the most desperate periods America, and the world, went through in the 20th Century. Most of us only know about the Great Depression through books, economic studies. The era, the mood, the desperation, have been vividly captured in literature by people like John Passos, Steinbeck, others.
+14.	This third criterion is an additional criterion – it is not required for the two RSS payouts from the Government, and these payouts include:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">0.5 month of rent, for the period of 14 May to 29 May 2021, which has been disbursed starting from 6 August.</li>
+   <li style="text-align: justify">0.5 month of rent, in the period 22 July to 18 August 2021, which will be disbursed in October.</li>
+</ol>
 
 {:start="15"}
-15.	The world has more resources, better understanding, tools, to avoid a similar Great Depression now. But the idea itself, and what it can do to many people’s lives, is quite sobering.
+15.	If tenants meet the first two criteria, they will receive a Notice of Rental Waiver automatically from the Ministry of Law, in the first half of October 2021.
 
 {:start="16"}
-16.	The figures are grim. 
-
-a.	In the last two weeks of March, 10 million Americans filed for unemployment benefits. In contrast, during the 2008/2009 Global Financial Crisis, global unemployment rose by about 22 million. So you can see it in context.
-
-b.	The United Nations Conference on Trade and Development (UNCTAD) has said that the downward pressure on FDI could be 30% to 40% this year and next year. Aviation has collapsed. 
-
-c.	And as of 2 April, nearly 4 billion people, half of the world’s population, were under some form of movement restriction. I think that doesn’t include Singapore’s figures, but that’s probably a rounding error!
+16.	Tenants who do not receive a Notice, but assess that they meet all the criteria, can make a manual application. We will announce, in due course, the date on which applications open and the other administrative details.
 
 {:start="17"}
-17.	Other crises have affected economies. Spending goes down. Businesses, jobs are affected. But a lot of activity continues.
+17.	If the tenant also meets the third criterion, that is, a 20% drop in revenue, then the tenant will not be liable to pay rent in respect of the period from 5 August to 18 August 2021, provided that the tenant sends a copy of the Notice, and proof of the revenue drop to its immediate landlord within 28 calendar days of the date of the Notice.
 
 {:start="18"}
-18.	Here: it’s a hard stop, immediate, by Government orders, to most economic activity, even movement of people. Overnight, as it were. And so the impact is that of an economy literally falling off a cliff in free-fall. That is the difference between this slowdown and others.
+18.	This can be done via:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">Email, which is preferred to minimise potential disputes between landlords and tenants; or</li>
+   <li style="text-align: justify">Registered mail.<li>
+   </ol>
 
 {:start="19"}
-19.	And ours, a globalised economy, is especially hard-hit. Disruptions to supply chains, flow of manpower. External trade is three times our economy. And of course, large parts of the internal economy are also being closed down.
+19.	If the rent has already been paid, the equivalent amount can be offset against their next rental payment.
 
-**III. <u>Response</u>**
-
+<b><u>B. Provisions for Landlords</u></b>
+   
 {:start="20"}
-20.	The response to all of this, to such a serious shock, has to try and meet the challenges.
+20.	In designing the framework, we also considered the interests of landlords.
 
 {:start="21"}
-21.	You first have the three Budgets between 18 February and 6 April. Close to $60 billion committed, 12% of our GDP. Wide-ranging measures: job protection, immediate cash to Singaporeans, measures to help stabilise businesses, including Government-supported loans.
+21.	We recognise that some landlords have been proactive. They provided assistance to their tenants, in the form of direct payments and rental waivers.
 
 {:start="22"}
-22.	Second, on the banking and finance side, MAS has worked with the banks. They announced a series of voluntary initiatives by the financial institutions: deferment of payments on mortgages; principal and interest: where borrower wants it, can be deferred; other measures, on credit flow to businesses as well.
+22.	These landlords can offset such assistance from the rental waiver obligations, if the assistance was provided in respect of rental obligations incurred on or after 16 May 2021, which was the start of the first Phase 2 (Heightened Alert) period.
 
 {:start="23"}
-23.	This Bill is the third part of the response by the Government. 
+23.	Some landlords may themselves face financial hardship in having to provide the mandated rental waiver. For example – retirees who depend on the rental income for their day to day expenses. 
 
+{:start="24"}
+24.	They can apply for relief, to be assessed by an independent Rental Waiver Assessor, who will take into account specific factors in each case. There will be objective criteria, including:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">The annual value of their property</li>
+   <li style="text-align: justify">And whether the rental income forms a substantial part of their total income.</li>
+   </ol>
+   
+{:start="25"}
+25.	If they meet the criteria, the Assessors can exempt them from providing the rental waiver.
+
+{:start="26"}
+26.	There may be different circumstances on the part of landlords, which warrant special consideration. For example – landlords who gave their tenants flexibility and relief, by providing short term lease extensions with significantly reduced rent.
+
+{:start="27"}
+27.	It is not possible to define criteria, to account for all these circumstances in full within the legislation. Hence, the Bill includes a provision to give the Assessors greater flexibility and discretion to –
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">Take into account exceptional circumstances of landlords.</li>
+   <li style="text-align: justify">Determine if it is just and equitable to make appropriate adjustments to the rental waiver obligations between the landlord and tenant.</li>
+   </ol>
+
+<b><u>C. Other Amendments</u></b>
+
+{:start="28"}
+28.	Finally – besides the rental waiver framework, the Bill also introduces minor amendments relating to Part 10A of the Act. 
+
+{:start="29"}
+29.	Part 10A allows construction project parties to seek an assessment, on the determination of adjustments, to the contract sum arising from foreign manpower salary increases.
+
+{:start="30"}
+30.	These amendments are largely administrative in nature:
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">To make clear that different application fees can be prescribed for an initial application for a determination.</li>
+   <li style="text-align: justify">And to allow MND to charge application fees for subsequent determinations made after the initial one.</li>
+   </ol>
+   
+**IV. Conclusion**
+
+{:start="31"}
+31.	Mr Speaker, in conclusion, I would like to take the opportunity to thank the representatives from the various industry groups, and individual landlords and tenants who engaged with my Ministry in helping us come up with  this Bill.
+
+{:start="32"}
+32.	With that, Mr Speaker, I beg to move.
+
+<p class="right-side-updated">Last updated on 14 Sep 2021</p> 
