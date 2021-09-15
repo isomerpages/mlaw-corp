@@ -31,17 +31,17 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 6.	There were two Phase 2 (Heightened Alert) periods: 
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">16 May to 13 June 2021.</li>
-   <li style="text-align: justify">22 July to 18 August 2021.</li> 
+<li style="text-align: justify">16 May to 13 June 2021.</li>
+<li style="text-align: justify">22 July to 18 August 2021.</li> 
 </ol>
 
 {:start="7"}
 7.	During these periods:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">Dining in was not allowed.</li> 
-   <li style="text-align: justify">Indoor mask-off activities were restricted.</li>
-   <li style="text-align: justify">Operating capacity was decreased.</li>
+<li style="text-align: justify">Dining in was not allowed.</li> 
+<li style="text-align: justify">Indoor mask-off activities were restricted.</li>
+<li style="text-align: justify">Operating capacity was decreased.</li>
 </ol>
 
 {:start="8"}
@@ -67,21 +67,21 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 13.	To qualify, they must be tenants of privately owned commercial properties, and they must meet three criteria:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">They must be a SME, or a specified non-profit organisation, with an annual revenue of not more than $100 million.</li>
-   <li style="text-align: justify">Their tenancy – </li>
-   <ol style="list-style-type: lower-alpha; list-style-position: inside">
-      <li>must have been entered into before 20 July 2021, if it is a fresh lease. Or if it is a renewal, then renewed before 20 July 2021; and</li>
-      <li>must be in force from 5 to 18 August 2021.</li>
-        </ol>
-   <li style="text-align: justify"><u>And</u> they must have experienced at least a 20% drop in their average monthly revenue, at the specific property, during both P2(HA) periods compared to the Phase 3 period (from 28 December 2020 to 7 May 2021). That’s the reference period.</li>
+<li style="text-align: justify">They must be a SME, or a specified non-profit organisation, with an annual revenue of not more than $100 million.</li>
+<li style="text-align: justify">Their tenancy – </li>
+<ol style="list-style-type: lower-alpha; list-style-position: inside">
+<li>must have been entered into before 20 July 2021, if it is a fresh lease. Or if it is a renewal, then renewed before 20 July 2021; and</li>
+<li>must be in force from 5 to 18 August 2021.</li>
+</ol>
+<li style="text-align: justify"><u>And</u> they must have experienced at least a 20% drop in their average monthly revenue, at the specific property, during both P2(HA) periods compared to the Phase 3 period (from 28 December 2020 to 7 May 2021). That’s the reference period.</li>
 </ol>
 
 {:start="14"}
 14.	This third criterion is an additional criterion – it is not required for the two RSS payouts from the Government, and these payouts include:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">0.5 month of rent, for the period of 14 May to 29 May 2021, which has been disbursed starting from 6 August.</li>
-   <li style="text-align: justify">0.5 month of rent, in the period 22 July to 18 August 2021, which will be disbursed in October.</li>
+<li style="text-align: justify">0.5 month of rent, for the period of 14 May to 29 May 2021, which has been disbursed starting from 6 August.</li>
+<li style="text-align: justify">0.5 month of rent, in the period 22 July to 18 August 2021, which will be disbursed in October.</li>
 </ol>
 
 {:start="15"}
@@ -97,12 +97,12 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 18.	This can be done via:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">Email, which is preferred to minimise potential disputes between landlords and tenants; or</li>
-   <li style="text-align: justify">Registered mail.</li>
+<li style="text-align: justify">Email, which is preferred to minimise potential disputes between landlords and tenants; or</li>
+<li style="text-align: justify">Registered mail.</li>
 </ol>
 
 {:start="19"}
-19.	If the rent has already been paid, the equivalent amount can be offset against their next rental payment.
+19.	f the rent has already been paid, the equivalent amount can be offset against their next rental payment.
 
 <b><u>B. Provisions for Landlords</u></b>
    
@@ -122,8 +122,8 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 24.	They can apply for relief, to be assessed by an independent Rental Waiver Assessor, who will take into account specific factors in each case. There will be objective criteria, including:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">The annual value of their property</li>
-   <li style="text-align: justify">And whether the rental income forms a substantial part of their total income.</li>
+<li style="text-align: justify">The annual value of their property</li>
+<li style="text-align: justify">And whether the rental income forms a substantial part of their total income.</li>
 </ol>
    
 {:start="25"}
@@ -136,8 +136,8 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 27.	It is not possible to define criteria, to account for all these circumstances in full within the legislation. Hence, the Bill includes a provision to give the Assessors greater flexibility and discretion to –
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">Take into account exceptional circumstances of landlords.</li>
-   <li style="text-align: justify">Determine if it is just and equitable to make appropriate adjustments to the rental waiver obligations between the landlord and tenant.</li>
+<li style="text-align: justify">Take into account exceptional circumstances of landlords.</li>
+<li style="text-align: justify">Determine if it is just and equitable to make appropriate adjustments to the rental waiver obligations between the landlord and tenant.</li>
 </ol>
 
 <b><u>C. Other Amendments</u></b>
@@ -152,8 +152,8 @@ permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Mini
 30.	These amendments are largely administrative in nature:
 
 <ol style="list-style-type: lower-roman">
-   <li style="text-align: justify">To make clear that different application fees can be prescribed for an initial application for a determination.</li>
-   <li style="text-align: justify">And to allow MND to charge application fees for subsequent determinations made after the initial one.</li>
+<li style="text-align: justify">To make clear that different application fees can be prescribed for an initial application for a determination.</li>
+<li style="text-align: justify">And to allow MND to charge application fees for subsequent determinations made after the initial one.</li>
 </ol>
    
 **IV. Conclusion**
