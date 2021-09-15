@@ -22,93 +22,69 @@ permalink: /news/parliamentary-speeches/2021-09-13-Second-Reading-Speech-by-2M-E
 <ol style="list-style-type: lower-roman">
    <li style="text-align: justify">The value of our legal industry, and jobs in the legal sector, have grown in tandem with our status as a legal hub.</li>
    <li style="text-align: justify">A reputation for being an efficient dispute resolution centre and respect for the rule of law have also enhanced Singapore’s attractiveness as an investment destination.</li>
-  </ol>
-  
-  
-
-     
-     
+</ol>
+       
 {:start="4"}
-4. This Bill proposes for a single LBC to replace the DC, TDL and DP. Those three charges are similar in nature, as they all cream-off in different ways the increase in value of land resulting from chargeable consents. The principles for computing LBC and proposed rates of charging will remain largely unchanged from the current regime.
+4. But we cannot afford to rest on our laurels. We have to constantly look ahead and improve on what we have to stay relevant and competitive. 
 
 {:start="5"}
-5. One key change is that LBC will be charged by and collected by a single agency – in this case, the Singapore Land Authority (SLA). This will benefit landowners and developers, as they no longer need to apply to various public sector agencies for the payment of such charges. 
+5. So, this Bill represents the latest of our continual efforts to improve our justice system. Let me now take Members through the key aspects of the Bill. 
+
+**II. Digital transformation of the courts** 
 
 {:start="6"}
-6. Sir, I will now take the House through the key features of this Bill.
+6. First, I would like to touch on the digital transformation of the courts. As Members will appreciate, the COVID-19 pandemic has necessitated a reduction in the level of person-to-person contact.  
 
-**Basis of charging – Tax rates**
- 
 {:start="7"}
-7. Part 2 sets out the tax rate and the rules for calculating the LBC. These should already be familiar to landowners and developers, as they are currently used by URA and SLA in calculating DP, TDL and DC. There is no change to that.
+7. In April 2020, we introduced a temporary remote hearing framework under the COVID-19 (Temporary Measures) Act to maintain access to justice amidst safe distancing measures. These measures have brought convenience to court users, and also increased administrative efficiency.  
 
 {:start="8"}
-8. The Bill itself does not set out the tax rate, which is a percentage of the increase in the value of the land likely to accrue from the giving of the chargeable consent. The rate itself will be set out by the Minister in regulations, and will be reviewed periodically as necessary. In general though, I should tell Members, the LBC rate will be set at 70% of the increase in land value arising from the grant of consent for proposals involving the development of land, which is what it currently is today. 
+8. We are now looking to enact a permanent framework that will facilitate the use of technology in court proceedings.
+
+<b>Live video-link hearings in civil and criminal proceedings</b>
 
 {:start="9"}
-9. In certain cases, as Members may know, on an exceptional basis, the LBC rate will be higher – that’s also the case today - based on 100% of the increase in land value. 
-
-   a. These cases fall into three broad categories.
-
-   b. First, where the State title contains a restrictive covenant on change of land use, because the land was previously sold by the State directly to the lessee without a tender. The current practice is to collect DP at 100% of the enhancement of land value, if there were to be a material change of use of that piece of land. 
-
-   c. Second, where the State title contains an “additional land premium” condition. Such a condition may be included in a State title to allow for the collection of the value enhancement arising from an intensification or change of use of that land, prior to a certain cut-off date, such as before the Temporary Occupation Permit of a development is obtained, or until certain conditions are met. The condition is to discourage landowners from changing their plans shortly after the purchase of the piece of land from the State, in order to avoid paying the full market rate to the State at the point of purchase. 
-
-   d. Finally, a 100% tax is planned for the varying of State title restrictions against subdivision, or against controlled activities which are unconnected to the development of land. 
-
-**Methods for calculating LBC**
+9. Under the Bill, courts will be generally empowered to conduct hearings remotely, using appropriate electronic means such as video-link. For example, we may have hearings where only one party is physically present before the Judge, while the other party appears via video-link. We may also have hearings that take place entirely online. 
 
 {:start="10"}
-10. Sir, Part 2 of the Bill sets out the two methods used to assess the amount of LBC. These methods are, again, not dissimilar to how DC, TDL and DP are computed today. 
+10. Regardless of the specific remote hearing arrangements, the court’s overriding duty in each case will be to ensure that proceedings are conducted fairly to all parties. There will also be statutory powers to exclude certain types of matters from being heard remotely, should this prove necessary.  
 
 {:start="11"}
-11. The first method uses a table of rates, which is similar to the DC Table of Rates in the Planning (Development Charges) Rules today, which goes by each geographic sector and the land use group. 
-
-    a. The table of rates will apply for the majority of cases and will allow landowners to estimate the amount of LBC upfront. This provides a clear and certain process for landowners and developers to assess the likely LBC that they would have to pay, should they choose to enhance or develop the use of land.
+11. Where witness testimony is concerned, the courts have existing powers under the Evidence Act to allow witnesses to give evidence remotely in civil matters. 
 
 {:start="12"}
-12. The second method involves a valuation of the enhancement in land value by the Chief Valuer of the Inland Revenue Authority of Singapore (IRAS) or a private valuer appointed by SLA. 
-
-    a. The second method applies where a taxable person chooses this method in lieu of using the table of rates method; or in specific circumstances where the table of rates might be inapplicable, such as where there is either no suitable or comparable use group for assessment.
+12. The Bill will now amend the Evidence Act to enhance safeguards relating to remote testimony. For example, matters which the court must consider before it allows witnesses to give evidence remotely can be prescribed.  
 
 {:start="13"}
-13. The table of rates and formulae for computing LBC will be prescribed in the Regulations. These will adhere with current principles, except for an adjustment for leasehold properties, which will be standardised under the LBC regime. 
+13. For criminal matters, the courts already have existing powers under the Criminal Procedure Code (CPC) to allow a witness to give evidence via live video-link, if the witness is in Singapore. The Bill seeks to expand this in two ways:  
+
+<ol style="list-style-type: lower-roman">
+   <li style="text-align: justify">First, the court may now allow an expert witness, or a witness of fact, to give evidence via video-link, even if the witness is not in Singapore. There will of course be appropriate safeguards for this. For example, in the case of a witness of fact, all parties – including the defence – must agree to the witness giving evidence from outside Singapore. Where parties do not agree, the witness will only be allowed to do so if he is unable to give evidence in Singapore, and has set out in writing the evidence which he proposes to give to the court. This provides advance notice to the other parties, so that the veracity of the witness’s evidence can be adequately investigated.</li>
+   <li style="text-align: justify">Second, the court may allow an accused person to appear or give evidence via video-link from a stipulated location in Singapore, such as in court or from a prison. The court may also allow an accused person to appear or give evidence via video-link from another place in Singapore if all parties agree.</li>
+</ol>
 
 {:start="14"}
-14. The LBC payable for all State leases with a residual tenure of 99 years or less will be adjusted by a leasehold factor to account for the remaining tenure of the leasehold land. In other words, an adjustment is made, depending on the length of the balance of the remnant lease. There is currently no such adjustment for DC today, to take into account the remaining tenure. This adjustment would make for a more accurate reflection of value. 
+14. In both cases, the court must be satisfied that allowing the witness or the accused person to give evidence remotely will be in the interests of justice. The court must also be satisfied that there are sufficient administrative and technical arrangements in place, in order to facilitate the taking of evidence. For proceedings relating to contempt of court, a framework similar to that in the CPC will be introduced. 
 
-**Concessionary relief**
+<b>Documents-only hearings</b>
 
 {:start="15"}
-15. Part 3 of the Bill sets out the provisions to exempt or provide concessionary relief from the liability to pay LBC. 
-
-    a. Specifically, clause 13 empowers the Minister for National Development, in consultation with the Minister for Law, to provide for concessionary relief from the payment of LBC. 
-
-    b. This will allow the Ministry of National Development to make provisions for concessionary relief in certain circumstances, such as:
-
-       i. meeting planning objectives – for instance, to encourage conservation of certain properties, or the comprehensive redevelopment of multiple private properties for more optimal use of land; or
- 
-       ii. to encourage construction productivity; or 
-
-       iii. to promote environmentally sustainable development. 
+15. The Bill will also empower the courts to decide any matter based on written submissions and documents tendered by the parties, without any oral hearing. This is commonly known as a ‘paper hearing’. 
 
 {:start="16"}
-16. This will enable the continuation of existing DC exemptions which are provided for under the Planning Act today. It will also provide the Government with flexibility to extend concessionary relief in the future, to encourage desired outcomes on land planning and development.
+16. A paper hearing can improve efficiency in the conduct of administrative pre-trial matters, and can also save time and costs when it comes to the disposal of substantive matters that are document-centric. Appeals can also be heard on paper where appropriate. 
 
-**Liability for payment of LBC**
+<b>Asynchronous hearings</b>
 
 {:start="17"}
-17. Part 4 of the Bill sets out who would be liable to pay LBC and how that liability may be assumed or deferred, as the case may be.
+17. Next, let me touch on asynchronous hearings. The Bill will also make clear that parties can address the court and make their arguments via an “asynchronous” exchange in appropriate cases. 
 
-    a. Under the Bill, every person who is an owner of the land when a chargeable consent is given is liable to pay LBC, by default. That’s the standard default position.
 
-    b. However, another party other than the owner of the land can assume liability to pay the LBC if a valid assumption of liability notice is given to SLA, or if liability to pay LBC has been deferred and the deferred liability is transferred to that other party, with SLA’s approval. 
 
-    c. Deferment of LBC liability is discretionary and not automatic. The Bill sets out one main set of circumstances where deferment may be allowed by SLA, which is, if the taxable person is a charitable institution, and where the land is used wholly or mainly for charitable purposes. This, I should add to Members, is also similar to what is already currently provided for in the Planning (Deferment of Payment of Development Charge by Charities) Rules 2017, and the Planning (Deferment of Payment of Temporary Development Levy by Charities) Rules 2016.
 
-    d. Where two or more persons may have a material interest in the land or are joint owners of a material interest, the Bill requires SLA to apportion the liability.
 
-**Collection, recovery and evasion**
+
+
 
 {:start="18"}
 18. Part 5 of the Bill deals with assessment and collection of the LBC, while Part 6 deals with the recovery of unpaid LBC. 
