@@ -11,7 +11,7 @@ permalink: /news/press-releases/2021-09-15-Singapore-Convention-Week-2021-Conclu
 1. The first-ever virtual edition of the Singapore Convention Week (SC Week), held from 6 to 10 September 2021, has concluded, with over 4,000 participants from over 100 countries attending the week-long series of events related to dispute resolution, including the inaugural UNCITRAL Academy. The events provided a platform for deep discussions and the exchange of rich insights on international dispute resolution. As part of its longstanding commitment to promote the development, understanding and use of international dispute resolution, Singapore will continue to facilitate such discussions and looks forward to welcoming the international community at the next edition of SC Week, to be held from 29 August to 2 September 2022. 
 
 {:start="2"}
-2.	Organised by the Singapore Ministry of Law in collaboration with 15 supporting <a href="https://www.singaporeconventionweek.sg/partners.html">partner organisations</a> (see <b>Annex A</b>) including international dispute resolution institutions, SC Week saw top global legal practitioners, academics, business executives and government officials gather to share their insights on the evolving international dispute resolution landscape.
+2.	Organised by the Singapore Ministry of Law in collaboration with 15 supporting <a href="https://www.singaporeconventionweek.sg/partners.html" target="new">partner organisations</a> (see <b>Annex A</b>) including international dispute resolution institutions, SC Week saw top global legal practitioners, academics, business executives and government officials gather to share their insights on the evolving international dispute resolution landscape.
 
 {:start="3"}
 3.	In his keynote speech at the UNCITRAL Academy on 7 September, <b>Mr K Shanmugam SC, Singapore’s Minister for Home Affairs and Minister for Law</b> highlighted the greater need for good dispute resolution mechanisms such as mediation, amid increasing uncertainty and unpredictability globally. He said: “COVID-19 has showed us how quickly disputes can occur and how unexpected circumstances can lead to disputes. The assumptions made by businesses before COVID-19 have changed completely. With businesses facing difficulties and an uncertain future, mediation becomes extremely important. The Singapore Convention on Mediation takes on far greater importance in this context.”
@@ -35,28 +35,28 @@ permalink: /news/press-releases/2021-09-15-Singapore-Convention-Week-2021-Conclu
 7.	<b>Ms Anna Joubin-Bret, Secretary of UNCITRAL</b> echoed similar sentiments, explaining that a variety of capacity-building workshops had been organised to  provide States  with insights into the actual implementation of the Singapore Convention on Mediation and to facilitate the cross-fertilisation of ideas and knowledge. “We are optimistic that the UNCITRAL Academy will continue to raise awareness, support the growth in use of mediation, and contribute to the necessary cultural shift in attitudes towards mediation around the world,” she said.
 
 {:start="8"}
-8.	A recap of highlights, speakers and events from SC Week 2021 can be found at <a href="https://www.singaporeconventionweek.sg">https://www.singaporeconventionweek.sg/</a>.
+8.	A recap of highlights, speakers and events from SC Week 2021 can be found at <a href="https://www.singaporeconventionweek.sg" target="new">https://www.singaporeconventionweek.sg/</a>.
 
 
 **MINISTRY OF LAW**
 <br>**15 SEPTEMBER 2021**
 
-<b>Annex A - SC Week 2021 Supporting Partner Organisations</b>
-•	United Nations Commission on International Trade Law
-•	American Arbitration Association International Centre for Dispute Resolution Asia Case Management Centre
-•	Asia Pacific Institute of Experts
-•	INSOL International
-•	International Bar Association 
-•	Singapore Chamber of Maritime Arbitration
-•	Singapore Institute of Arbitrators
-•	Singapore International Arbitration Centre
-•	Singapore International Commercial Court
-•	Singapore International Dispute Resolution Academy
-•	Singapore International Mediation Centre
-•	Singapore International Mediation Institute
-•	Singapore Mediation Centre
-•	Society of Mediation Professionals (Singapore)
-•	The Law Society of Singapore 
+<b>Annex A - SC Week 2021 Supporting Partner Organisations</b><br>
+•	United Nations Commission on International Trade Law<br>
+•	American Arbitration Association International Centre for Dispute Resolution Asia Case Management Centre<br>
+•	Asia Pacific Institute of Experts<br>
+•	INSOL International<br>
+•	International Bar Association <br>
+•	Singapore Chamber of Maritime Arbitration<br>
+•	Singapore Institute of Arbitrators<br>
+•	Singapore International Arbitration Centre<br>
+•	Singapore International Commercial Court<br>
+•	Singapore International Dispute Resolution Academy<br>
+•	Singapore International Mediation Centre<br>
+•	Singapore International Mediation Institute<br>
+•	Singapore Mediation Centre<br>
+•	Society of Mediation Professionals (Singapore)<br>
+•	The Law Society of Singapore <br>
 
 
 <p class="right-side-updated">Last updated on 15 Sep 2021</p>
