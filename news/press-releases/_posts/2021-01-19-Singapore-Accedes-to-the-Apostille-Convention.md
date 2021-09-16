@@ -7,7 +7,7 @@ permalink: /news/press-releases/2021-01-19-Singapore-Accedes-to-the-Apostille-Co
 
 19 Jan 2021 Posted in [Press releases](/news/press-releases)
 
-<u><b>Update:</b></u> <i>The Apostille Convention will enter into force on 16 September 2021 for Singapore. Until the Convention is in force for Singapore, from now until 15 September 2021, users requiring documents to be produced overseas should continue to approach the Singapore Academy of Law and, thereafter, the relevant embassies to legalise the documents (if required).</i>
+<u><b>Update:</b></u> <i>The Apostille Convention entered into force on 16 September 2021. Users requiring documents to be produced overseas in Contracting Parties to the Apostille Convention should approach the <a href="https://legalisation.sal.sg/" target="new">Singapore Academy of Law</a> for the issuance of apostilles. Users requiring documents to be produced overseas in non-Contracting Parties to the Apostille Convention may also approach the <a href="https://legalisation.sal.sg/" target="new">Singapore Academy of Law</a> and, thereafter, the relevant embassies to legalise the documents (if required).</i>
 
 {:start="1"}
 1.	Singapore on 18 January deposited its instrument of accession to the Hague Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents (“<b>Apostille Convention</b>”), making us a Contracting Party to the Apostille Convention. The accession will facilitate the cross-border use of public documents<sup><a href="#fn1" id="ref1">1</a></sup>, saving time and costs for users through the use of a simplified one-step process.
