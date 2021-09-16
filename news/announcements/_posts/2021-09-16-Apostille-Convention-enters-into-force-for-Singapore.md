@@ -15,7 +15,7 @@ permalink: /news/announcements/2021-09-16-Apostille-Convention-enters-into-force
 2. Users requiring documents to be produced overseas in Contracting Parties to the Apostille Convention should  approach the <a href="https://legalisation.sal.sg/" target="new">Singapore Academy of Law</a> for the issuance of apostilles. 
 
 {:start="3"}
-3. Users requiring documents to be produced overseas in non-Contracting Parties to the Apostille Convention may also approach the <a href="https://legalisation.sal.sg/" target="new">Singapore Academy of Law</a> and, thereafter, the relevant embassies to legalise the documents (if required).
+3. Users requiring documents to be produced overseas in non-Contracting Parties to the Apostille Convention may also approach the Singapore Academy of Law and, thereafter, the relevant embassies to legalise the documents (if required).
 
 Past Press Releases: [19 Jan 2021](/news/press-releases/2021-01-19-singapore-accedes-to-the-apostille-convention) and [5 Oct 2020](/news/press-releases/2020-10-05-facilitating-cross-border-use-of-public-documents-through-apostille-bill)
 
