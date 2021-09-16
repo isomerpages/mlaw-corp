@@ -8,7 +8,7 @@ permalink: /news/speeches/2021-09-15-Speech-by-Edwin-Tong-at-Official-Launch-of-
 
 Mr Yeoh Oon Jin, Chairman, SLA<br>
 Mr Colin Low, Chief Executive, SLA<br>
-Our SLA partners: Dr Evelyn Teo from NUS, Mr Edwin Ng from AviationLearn, Mr Michael Sayre from Kabam, Mr Lai Chang Wen from Ninja Van, Mr Eddie Lim from Propnex – thank you very much for working with SLA, and for making this come to life; 
+Our SLA partners: Dr Evelyn Teo from NUS, Mr Edwin Ng from AviationLearn, Mr Michael Sayre from Kabam, Mr Lai Chang Wen from Ninja Van, Mr Eddie Lim from Propnex – thank you very much for working with SLA, and for making this come to life<br>
 Friends and colleagues<br>
 Ladies and gentlemen<br>
 
