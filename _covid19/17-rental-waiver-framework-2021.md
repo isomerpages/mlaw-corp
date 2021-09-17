@@ -27,6 +27,7 @@ The mandatory rental waiver under the RWF is intended to establish a baseline po
  - [Definitions](/files/rentalwaiverframework/RWF2021_Additional Resources_Definitions.pdf) <br>
  - [Infographic: Process to Claim Rental Waiver](/files/news/press-releases/2021/04/Annex B_RWF2021_Process for Tenants to Claim Rental Waiver.pdf) <br>
  - [FAQs](/covid19-relief/faq/rwf2021)<br>
+ - Explainer videos on provisions for [tenants](https://m.facebook.com/story.php?story_fbid=182450123996002&id=100066930471710) and [landlords](https://m.facebook.com/story.php?story_fbid=182451420662539&id=100066930471710) 
 
 
 ##### <a name="rental">A. Overview of Rental Waiver Framework</a><a href="#refa" title="Return to top">↩</a> #####
