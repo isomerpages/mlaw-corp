@@ -32,7 +32,7 @@ The Ministry of Law is the parent ministry of the following Statutory Boards:
 
 * [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"}
 
-* [Singapore Land Authority](https://www1.sla.gov.sg/){:target="_blank"}
+* [Singapore Land Authority](https://www.sla.gov.sg/){:target="_blank"}
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
 
