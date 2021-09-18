@@ -9,7 +9,7 @@ permalink: /news/announcements/2021-09-16-Apostille-Convention-enters-into-force
 
 
 {:start="1"}
-1. The Apostille Convention has entered into force for Singapore on 16 September 2021. 
+1. The Apostille Convention entered into force for Singapore on 16 September 2021. 
 
 {:start="2"}
 2. Users requiring documents to be produced overseas in Contracting Parties to the Apostille Convention should  approach the <a href="https://legalisation.sal.sg/" target="new">Singapore Academy of Law</a> for the issuance of apostilles. 
