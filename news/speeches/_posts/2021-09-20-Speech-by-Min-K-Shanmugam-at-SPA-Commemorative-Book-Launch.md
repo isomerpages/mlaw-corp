@@ -7,7 +7,7 @@ permalink: /news/speeches/2021-09-20-Speech-by-Min-K-Shanmugam-at-SPA-Commemorat
 20 Sep 2021 Posted in [[Speeches](/news/speeches)]
 
 Mr Ivan Ho, President of the Singapore Pawnbrokers’ Association (SPA);<br>
-Prof Prof Chong Tow Chong, President of the Singapore University of Technology and Design (SUTD);<br>
+Prof Chong Tow Chong, President of the Singapore University of Technology and Design (SUTD);<br>
 Donors,<br>
 SPA Committee members,<br>
 Guests,<br>
