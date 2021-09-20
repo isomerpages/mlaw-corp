@@ -1,5 +1,5 @@
 ---
-title: 'Speech by Minister for Home Affairs and Minister for Law Mr K Shanmugam at Singapore Pawnbrokers' Association Commemorative Book Launch'
+title: 'Speech by Minister for Home Affairs and Minister for Law Mr K Shanmugam at Singapore Pawnbrokers Association Commemorative Book Launch'
 date: 2021-09-20
 permalink: /news/speeches/2021-09-20-Speech-by-Min-K-Shanmugam-at-SPA-Commemorative-Book-Launch
 ---
