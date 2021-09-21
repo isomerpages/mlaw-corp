@@ -1,10 +1,10 @@
 ---
 title: 'Speech by Minister for Home Affairs and Minister for Law Mr K Shanmugam at Singapore Pawnbrokers Association Commemorative Book Launch'
-date: 2021-09-20
-permalink: /news/speeches/2021-09-20-Speech-by-Min-K-Shanmugam-at-SPA-Commemorative-Book-Launch
+date: 2021-09-18
+permalink: /news/speeches/2021-09-18-Speech-by-Min-K-Shanmugam-at-SPA-Commemorative-Book-Launch
 ---
 
-20 Sep 2021 Posted in [[Speeches](/news/speeches)]
+18 Sep 2021 Posted in [[Speeches](/news/speeches)]
 
 Mr Ivan Ho, President of the Singapore Pawnbrokers’ Association (SPA);<br>
 Prof Chong Tow Chong, President of the Singapore University of Technology and Design (SUTD);<br>
@@ -72,4 +72,4 @@ Guests,<br>
 {:start="15"}
 15.	Congratulations! Thank you.
 
-<p class="right-side-updated">Last updated on 20 Sep 2021</p> 
+<p class="right-side-updated">Last updated on 18 Sep 2021</p> 
