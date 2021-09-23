@@ -25,8 +25,8 @@ The mandatory rental waiver under the RWF is intended to establish a baseline po
 
 <u>Additional Resources</u>
  - [Definitions](/files/rentalwaiverframework/RWF2021_Additional Resources_Definitions.pdf) <br>
- - [Infographic: Guide for Tenants to Claim Rental Waiver](/files/news/press-releases/2021/04/Annex B_RWF2021_Process for Tenants to Claim Rental Waiver.pdf) <br>
- - [FAQs](/covid19-relief/faq/rwf2021)<br>
+ - Infographic: Guide for Tenants to Claim Rental Waiver [[English](/files/news/press-releases/2021/04/Annex B_RWF2021_Process for Tenants to Claim Rental Waiver.pdf) <br>
+ - [FAQs](/covid19-relief/faq/rwf2021)] [[Chinese](/files/rentalwaiverframework/Malay_Process for Tenants to Claim Rental Waiver.pdf)] [[Malay](/files/rentalwaiverframework/Chinese_Process for Tenants to Claim Rental Waiver.pdf) [[Tamil](files/rentalwaiverframework/Tamil_Process for Tenants to Claim Rental Waiver.pdf)]<br>
  - Explainer videos on provisions for [tenants](https://m.facebook.com/story.php?story_fbid=182450123996002&id=100066930471710) and [landlords](https://m.facebook.com/story.php?story_fbid=182451420662539&id=100066930471710) 
 
 
