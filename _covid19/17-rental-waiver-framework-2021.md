@@ -10,7 +10,7 @@ third_nav_title: '7. Rental Waiver Framework 2021'
 
 ##### Introduction #####
 
-The COVID-19 (Temporary Measures) (Amendment No. 4) Bill ( “Bill”) that was passed in Parliament on 14 September 2021 provides a Rental Waiver Framework (RWF) under Part 12 of the COVID-19 (Temporary Measures) Act (“Act”) for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). The RWF is planned to commence in October 2021.
+The COVID-19 (Temporary Measures) (Amendment No. 4) Bill ( “Bill”) that was passed in Parliament on 14 September 2021 provides a Rental Waiver Framework (RWF) under Part 12 of the COVID-19 (Temporary Measures) Act (“Act”) for Small and Medium Enterprises (SMEs) and specified non-profit organisations (NPOs). The RWF is expected to commence in the first half of October 2021. 
 
 The RWF complements the suite of support measures introduced by the Government to alleviate the economic impact on businesses due to the tightened safe management measures imposed during the Phase 2 (Heightened Alert) [P2(HA)] periods, including the Rental Support Scheme (RSS) introduced by the Ministry of Finance.
 
@@ -59,7 +59,7 @@ If the eligible tenant-occupier rents the property through an intermediary landl
 
 <u>Notice of Rental Waiver</u>
 
-SME and Non-Profit Organisation (NPO) tenant-occupiers of qualifying commercial properties who have qualified for the second payout under the Rental Support Scheme (RSS) administered by IRAS should receive a Notice of Rental Waiver (“Notice”) from the Ministry of Law in October 2021. An announcement will be made when the Notices start being sent out.  Meanwhile, tenants should continue to honour their existing contractual obligations. 
+SME and Non-Profit Organisation (NPO) tenant-occupiers of qualifying commercial properties who have qualified for the second payout under the Rental Support Scheme (RSS) administered by IRAS should receive a Notice of Rental Waiver (“Notice”) from the Ministry of Law in the first half of October 2021. An announcement will be made when the Notices start being sent out.  Meanwhile, tenants should continue to honour their existing contractual obligations. 
 
 <u>Action Required by Tenant (to claim rental waiver)</u>
 
@@ -111,7 +111,7 @@ Where a landlord has provided direct monetary assistance or rental waivers<sup><
 <u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u> 
  <br>
  
-Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, tenants should first assess if they are eligible for the RSS and/or the Rental Waiver Framework (see section on [Eligibility Criteria for Rental Waiver](/covid19-relief/rental-waiver-framework-2021#eligibility)), and make an application subsequently. More details will be provided when applications open on 1 November 2021.<br>
+Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. For such cases, where tenants have not received the Notice in the first half of October 2021, they should first assess if they are eligible for the second RSS payout (see criteria <a href="https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme-/">here</a>) and/or the Rental Waiver Framework (RWF) (see criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>) and/or the Rental Waiver Framework (see section on [Eligibility Criteria for Rental Waiver](/covid19-relief/rental-waiver-framework-2021#eligibility)). If they qualify for the second RSS payout, they may make an application through IRAS’s <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMTQLW_s_JlT47uMCX9nmnhjkBtZ-k1JOAeicLFOgDRZWmoA/viewform?vc=0&c=0&w=1&flr=0">eligibility checker</a> before 12 November 2021. If tenants have not received the Notice but have already made an application for the second RSS payout, they should wait for the outcome of their application; they do not need to take any further action.<br>
 <br>
  
 Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on [Rental Waiver Assessors](/covid19-relief/rental-waiver-framework-2021#assess) for more details.<br>
