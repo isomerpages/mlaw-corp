@@ -49,7 +49,7 @@ If you determine that you meet all the eligibility criteria, you will have to ta
 
 You may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
 
-If you did not receive the Notice in the first half of October 2021, but are of the view that you are eligible for the second RSS payout (see criteria <a href="https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme-/">here</a>) and/or the Rental Waiver Framework (RWF) (see criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>), you may make an application through IRAS’s <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMTQLW_s_JlT47uMCX9nmnhjkBtZ-k1JOAeicLFOgDRZWmoA/viewform?vc=0&c=0&w=1&flr=0">eligibility checker</a>.
+If you did not receive the Notice in the first half of October 2021, but are of the view that you are eligible for the second RSS payout (see criteria <a href="https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme-/">here</a>) and/or the Rental Waiver Framework (RWF) (see criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>), you may make an application through IRAS’s <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMTQLW_s_JlT47uMCX9nmnhjkBtZ-k1JOAeicLFOgDRZWmoA/viewform?vc=0&c=0&w=1&flr=0">eligibility checker</a> before 12 November 2021. If you have not received the Notice but have already made an application for the second RSS payout, please wait for the outcome of your application; you do not need to take any further action.
 
 [For landlords]
 
