@@ -49,7 +49,7 @@ If you determine that you meet all the eligibility criteria, you will have to ta
 
 You may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
 
-If you did not receive the Notice, but are of the view that you are eligible for the RSS and/or the Rental Waiver Framework (refer to full criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>), you may make an application subsequently. More details will be provided when applications open on 1 November 2021. 
+If you did not receive the Notice in the first half of October 2021, but are of the view that you are eligible for the second RSS payout (see criteria <a href="https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme-/">here</a>) and/or the Rental Waiver Framework (RWF) (see criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>), you may make an application through IRAS’s <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMTQLW_s_JlT47uMCX9nmnhjkBtZ-k1JOAeicLFOgDRZWmoA/viewform?vc=0&c=0&w=1&flr=0">eligibility checker</a>.
 
 [For landlords]
 
@@ -117,7 +117,7 @@ Only direct monetary assistance or rental waivers to the tenant may be offset.
 
 <a href="#q14" id="a14">Q14.	What if my business had only commenced operations after the start of Phase 3 (i.e. after 28 December 2020) – how will the drop in revenue be assessed?</a> 
 
-<a href="#q15" id="a15">Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?</a>	
+<a href="#q15" id="a15">Q15.	If my business started on or after 16 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?</a>	
 
 <a href="#q16" id="a16">Q16.	What does it mean to be a part of a “Singapore group of entities”?</a> 
 
@@ -166,9 +166,9 @@ Hence, the preceding period, i.e. Phase 3, is used as the base period for assess
 
 If your business commenced after 28 December 2020, the drop in average monthly revenue will be calculated by comparing both Phase 2 (Heightened Alert) periods (16 May 2021 to 13 June 2021 and 22 July 2021 to 18 August 2021) to the period from the business commencement date to 15 May 2021 (both dates inclusive).
 
-<a name="q15">**Q15.	If my business started after 15 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?**</a>
+<a name="q15">**Q15.	If my business started on or after 16 May 2021, there is no base reference period for me to compare against to determine my revenue drop. Does it mean that I am not eligible for rental waiver?**</a>
 
-Only tenant-occupiers who have operated for the entirety of both Phase 2 (Heightened Alert) [P2(HA)] periods will be eligible for the Rental Waiver Framework. Otherwise, it would not be possible to ascertain that your revenue had been impacted by the restrictions during the P2(HA) periods.
+Tenant-occupiers who commenced business on or after 16 May 2021 are not eligible for the Rental Waiver Framework, as it would not be possible to ascertain that your revenue had been impacted by the restrictions during the Phase 2 (Heightened Alert) periods.
 
 Your business may nevertheless be eligible for the first tranche of the Rental Support Scheme (RSS) if your lease was signed before 14 May 2021 and was in force any time between 14 to 29 May 2021. You may also be eligible for the second tranche of the RSS if your lease was signed before 20 July 2021 and was in force any time between 22 July to 18 August 2021.  
 
@@ -310,12 +310,18 @@ An intermediary landlord will be required to provide the full 2 weeks of rental 
 
 <a name="q32">**Q32.	I am an intermediary landlord and my property is subdivided. How much rental waiver am I supposed to give my tenant and how much rental waiver will I get from my landlord?**</a>
 
-Under the Rental Waiver Framework (RWF), the amount of rental waiver to be given to each sub-tenant/ licensee who meets all of the eligibility criteria, will be 2 weeks of their payable rent. 
+Under the Rental Waiver Framework (RWF), the amount of rental waiver to be given to each sub-tenant/ licensee who meets all of the eligibility criteria, will be 2 weeks of their payable rent, i.e. [(14 / 31) x (gross rent payable)]. . 
 
-Where the intermediary landlord has subdivided the property to rent to multiple eligible tenant-occupiers, the rental relief that the property owner has to provide to the master tenant will generally be equivalent to the total rental waiver that the master tenant had granted to eligible sub-tenants but not exceeding 2 weeks of the rent paid by the intermediary landlord to its landlord. This is illustrated in the table below. 
+Where the intermediary landlord has subdivided the property to rent to multiple eligible tenant-occupiers, the rental relief that the property owner has to provide to the master tenant will generally be equivalent to the total rental waiver that the master tenant had granted to eligible sub-tenants but not exceeding 2 weeks of the rent paid by the intermediary landlord to its landlord. 
  
-![image](/images/RWF2021_table.JPG) 
-
+For instance, where the intermediary landlord pays monthly rent of $31,000 to his landlord, the amount of rental waiver he is entitled to from his landlord, in respect of the rental waiver given out to the sub-tenants, is as follows:
+ 
+<ol style="list-style-type: lower-roman">
+<li style="text-align: justify">If the total rental waiver given by the intermediary landlord to the subtenants is $10,000, the rental waiver he can claim from his landlord is $10,000</li> 
+<li style="text-align: justify">If the total rental waiver given by the intermediary landlord to the subtenants is $20,000, as the amount of rental waiver that he is entitled is capped at 2 weeks of his rent, the rental waiver he can claim from his landlord is [(14 / 31) x $31,000]= $14,000; and</li> 
+<li style="text-align: justify">If the total rental waiver given by the intermediary landlord to the subtenants is $30,000, as the amount of rental waiver that he is entitled is capped at 2 weeks of his rent, the rental waiver he can claim from his landlord is $14,000.</li> 
+</ol>
+ 
 <a name="q33">**Q33.	Why does an intermediary landlord only get 7 days to serve the documents to its immediate landlord?**</a>
 
 Intermediary landlords should require a shorter time for complete service as compared to tenant-occupiers, since they do not need to prepare any additional documents, and are just required to send to their immediate landlord the copies of all the documents received from their tenant. 
