@@ -18,11 +18,6 @@ The RWF will ensure the fair co-sharing of rental obligations over the P2(HA) pe
 
 The mandatory rental waiver under the RWF is intended to establish a baseline position for the handling of tenants’ rental obligations. Landlords and tenants are encouraged to work out mutually agreeable arrangements based on their specific circumstances.
 
-Internal notes on website layout:
- - A – D below should be links to subsections on the main “landing page”. Footnotes for each subsection should appear at the end of each subsection (rather than all consolidated at the bottom of the landing page)
- - The additional links below should each link to a separate standalone page with supplementary information (e.g. categories, criteria) – these should also be collated and placed under the index for the main page as “Additional Resources”
- - If agencies want to add additional information/links to the rental waiver website, we can add them to the “Additional Resources” on a rolling basis
-
  - <a href="#rental" id="refa">A. Overview of Rental Waiver Framework</a> 
  - <a href="#eligibility" id="refb">B. Eligibility for Rental Waiver</a> 
  - <a href="#effected" id="refc">C. How the Rental Waivers will be Effected</a> 
