@@ -124,7 +124,7 @@ Good morning.
 {:start="32"}
 32.	But at that time, if a wife committed an offence – other than murder or treason –  in the presence of her husband, English common law presumed that she had been coerced by him into doing it.
 
-    a.	A scene in Oliver Twist depicts this quite vividly. Towards the end of this classic novel, Mr Brownlow accuses the cruel Mr Bumble of being responsible for his wife’s theft of a gold locket and ring belonging to Oliver’s mother.
+    a.  A scene in Oliver Twist depicts this quite vividly. Towards the end of this classic novel, Mr Brownlow accuses the cruel Mr Bumble of being responsible for his wife’s theft of a gold locket and ring belonging to Oliver’s mother.
 
     b.	This leads Mr Bumble to declare that: “If that’s the eye of the law, the law is a bachelor.”<sup><a href="#fn7" id="ref7">7</a></sup> 
 
@@ -351,9 +351,9 @@ Good morning.
 {:start="101"}
 101.	According to an FJC-MinLaw Court Users Survey conducted in 2018<sup><a href="#fn23" id="ref23">23</a></sup>, the overall perception of the reforms to the system was indeed positive:
 
-    a.	83% of lawyers; and
+a.	83% of lawyers; and
 
-    b.	82% of court users surveyed, had a positive perception of the reforms, based on their experience with the system. 
+b.	82% of court users surveyed, had a positive perception of the reforms, based on their experience with the system. 
 
 **Lessons we can draw from experience**
 
@@ -369,9 +369,9 @@ Good morning.
 {:start="105"}
 105.	To my mind, there are two issues that family law will continue to grapple with, which I think will come to the fore in the next decade or perhaps decades:
 
-    a.	First, how far the law should and can encroach into what is essentially a private space in a family. 
+a.	First, how far the law should and can encroach into what is essentially a private space in a family. 
 
-    b.	Second, society does not think or speak with one voice on all matters. Of course in today’s context, increasingly so. People can have starkly different views on social and ethical issues. Everyone is entitled to their own views and these must be respected. Moreover, social mores change over time.  All of this, however, poses for us, an enormous challenge for the law: which way do we go? There’s a multitude of pluralistic diverse voices. 
+b.	Second, society does not think or speak with one voice on all matters. Of course in today’s context, increasingly so. People can have starkly different views on social and ethical issues. Everyone is entitled to their own views and these must be respected. Moreover, social mores change over time.  All of this, however, poses for us, an enormous challenge for the law: which way do we go? There’s a multitude of pluralistic diverse voices. 
 
 {:start="106"}
 106.	But at the same time, these are not new challenges and they are also not mutually exclusive.
@@ -382,7 +382,7 @@ Good morning.
 {:start="108"}
 108.	The first is on family violence.
 
-    **(a)     Family violence** 
+**(a)     Family violence**
 
 {:start="109"}
 109.	History is replete with violence by men against women, particularly in patriarchal societies.
@@ -441,11 +441,11 @@ Good morning.
 {:start="127"}
 127.	These provisions reflected a balancing exercise as there were a number of different objectives to achieve. These were: 
 
-    a.	First, to protect the family from violence;
+a.  First, to protect the family from violence;
  
-    b.	Second, to prevent further violence; and
+b.  Second, to prevent further violence; and
 
-    c.	Third, as a countervailing point, to ensure that the law did not encroach into the family space in such a way that made healing or reparation between and amongst the family members, either difficult or no longer possible.
+c.  Third, as a countervailing point, to ensure that the law did not encroach into the family space in such a way that made healing or reparation between and amongst the family members, either difficult or no longer possible.
 
 {:start="128"}
 128.	The laws were strengthened.<sup><a href="#fn26" id="ref26">26</a></sup> 
@@ -462,7 +462,7 @@ Good morning.
 {:start="132"}
 132.	The Taskforce on Family Violence was formed to look at how we can strengthen our responses to this problem. Undoubtedly, some of the issues that we faced in the past will continue to rear their familiar, ugly heads even in present times. The Taskforce submitted their recommendations in a report published just a few days ago. This report is currently being studied by the Government.
 
-    **(b)     Maintenance of Parents Bill** 
+**(b)     Maintenance of Parents Bill**
 
 {:start="133"}
 133.	The second example is the Maintenance of Parents Bill.
@@ -485,9 +485,9 @@ Good morning.
 {:start="139"}
 139.	In fact, in the year the Bill was passed, Singaporeans aged 65 and above comprised just 6.5% of our total population.
 
-    a.	As of June 2020, just over a year ago last year, that figure had risen almost three times to 16.8%.<sup><a href="#fn27" id="ref27">27</a></sup> 
+a.  As of June 2020, just over a year ago last year, that figure had risen almost three times to 16.8%.<sup><a href="#fn27" id="ref27">27</a></sup> 
 
-    b.	The figure is projected to rise even further, to 25%, in 2030.<sup><a href="#fn28" id="ref28">28</a></sup> That ageing population curve is going to be very sharp and steep.
+b.  The figure is projected to rise even further, to 25%, in 2030.<sup><a href="#fn28" id="ref28">28</a></sup> That ageing population curve is going to be very sharp and steep.
 
 {:start="140"}
 140.	We were not the first in the world to introduce such laws. Some of you will know that similar laws existed in Taiwan and Israel. In fact, the obligation to maintain one’s parents can also be traced to ancient Roman society in the third century.<sup><a href="#fn29" id="ref29">29</a></sup>   
@@ -495,11 +495,11 @@ Good morning.
 {:start="141"}
 141.	Several arguments were made by those who objected to the Bill:
 
-    a.	Some thought that it was objectionable for parents to maintain their children because they had not asked to be born. 
+a.	Some thought that it was objectionable for parents to maintain their children because they had not asked to be born. 
 
-    b.	Some felt that it was unnecessary because filial piety was just a part of  Asian values. If a person refused to maintain a parent, there must be a good reason for that – for example, either that parent had not played the part that he ought to have done or played in the child’s growing years. 
+b.	Some felt that it was unnecessary because filial piety was just a part of  Asian values. If a person refused to maintain a parent, there must be a good reason for that – for example, either that parent had not played the part that he ought to have done or played in the child’s growing years. 
 
-    c.	Then, there were those who felt that the law should not encourage parents to sue their own children as this would fundamentally affect their relationship. 
+c.	Then, there were those who felt that the law should not encourage parents to sue their own children as this would fundamentally affect their relationship. 
 
 {:start="142"}
 142.	There were concerns that the law’s intervention would erode family values and link ties to financial obligations. The less tangible, but more important aspects of relationships, such as affection and responsibility could then be either sacrificed or compromised.
@@ -507,9 +507,9 @@ Good morning.
 {:start="143"}
 143.	The Bill was submitted to the Select Committee, where amendments to the original provisions were made. These amendments addressed the reservations that had been earlier expressed:
 
-    a.	For example, the adversarial court system was replaced with a tribunal as a mode for resolving disputes.
+a.	For example, the adversarial court system was replaced with a tribunal as a mode for resolving disputes.
 
-    b.	Conditions were included – only parents who were of the statutory retirement age or infirm could apply for maintenance. 
+b.	Conditions were included – only parents who were of the statutory retirement age or infirm could apply for maintenance. 
 
 {:start="144"}
 144.	The Maintenance of Parents Act has since found acceptance and is only relied upon as a legal avenue of last resort.
@@ -593,7 +593,7 @@ Good morning.
 {:start="169"}
 169.	In the interest of time, I will highlight two.
 
-    **(a)     Advances in the field of fertility sciences**   
+**(a)     Advances in the field of fertility sciences**   
 
 {:start="170"}
 170.	This is one area that has impact on the advances in the field of fertility sciences, and the impact it has on the notions of parenthood and the family.
@@ -616,7 +616,7 @@ Good morning.
 {:start="176"}
 176.	A combination of these factors points us to one direction: that it is not a question of if but when we will have to face these issues.
 
-    **(b)     Reforms in the law of divorce elsewhere**
+**(b)     Reforms in the law of divorce elsewhere**
 
 {:start="177"}
 177.	The second relates to reforming the law of divorce.
@@ -668,13 +668,13 @@ Good morning.
 {:start="192"}
 192.	A family justice system requires the coordinated efforts of: (a) policymakers; (b) the courts; (c) lawyers; and (d) social sector professionals.
 
-    **a.	Policymakers** have to be clear about the direction the law should take. Parliament must install the legislative framework with the appropriate support system.
+a.	<b>Policymakers</b> have to be clear about the direction the law should take. Parliament must install the legislative framework with the appropriate support system.
 
-    **b.	The Family Courts** are unique in that, unlike other courts, they are not there merely as neutral arbiters. The judge-led approach which we have adopted requires courts to guide parties towards a non-adversarial path. There are many other areas of the law which have adopted a judge-led approach. However, nowhere is this more important than in the context of family proceedings.
+b.	<b>The Family Courts</b> are unique in that, unlike other courts, they are not there merely as neutral arbiters. The judge-led approach which we have adopted requires courts to guide parties towards a non-adversarial path. There are many other areas of the law which have adopted a judge-led approach. However, nowhere is this more important than in the context of family proceedings.
 
-    **c.	Family lawyers** are also unique. They perform several functions, sometimes all at once. They must never forget that they are dealing with real people, not commercial entities with a somewhat distant or perhaps more impersonal commercial dispute. The solutions they offer must make not only make legal sense but must take into account the overall dynamics of the dispute of the circumstances, and must make sense in emotional and personal terms. 
+c.	<b>Family lawyers</b> are also unique. They perform several functions, sometimes all at once. They must never forget that they are dealing with real people, not commercial entities with a somewhat distant or perhaps more impersonal commercial dispute. The solutions they offer must make not only make legal sense but must take into account the overall dynamics of the dispute of the circumstances, and must make sense in emotional and personal terms. 
 
-    **d.	Social sector professionals** play an increasingly important role in the healing process. Their intervention through counselling and, sometimes, by just being the listening ear can be the support that makes a difference, that a person might need to begin a new chapter in his or her life. 
+d.	<b>Social sector professionals</b> play an increasingly important role in the healing process. Their intervention through counselling and, sometimes, by just being the listening ear can be the support that makes a difference, that a person might need to begin a new chapter in his or her life. 
 
 **Conclusion**
 
