@@ -54,7 +54,7 @@ Good morning.
 9.	Clay tablets from ancient Mesopotamia, more than 4000 years ago, contain the earliest known evidence of marriage.<sup><a href="#fn1" id="ref1">1</a></sup> 
 
 {:start="10"}
-10.	The concept of marriage and its objectives have varied across time, culture, and different religious practices. For example, among ancient kingdoms, marriage was used as a tool to establish diplomatic and trade ties; and to seal alliances, which would provide a respite from bloodshed in battles for power.<sup><a href="#fn2" id="ref2">1</a></sup> Those of us who have been schooled in history can point to so many examples of this in the past.
+10.	The concept of marriage and its objectives have varied across time, culture, and different religious practices. For example, among ancient kingdoms, marriage was used as a tool to establish diplomatic and trade ties; and to seal alliances, which would provide a respite from bloodshed in battles for power.<sup><a href="#fn2" id="ref2">2</a></sup> Those of us who have been schooled in history can point to so many examples of this in the past.
 
 {:start="11"}
 11.	We may not understand these concepts typically as “family law” or “marriage”, particularly as we now know it.
@@ -80,7 +80,7 @@ Good morning.
 17.	We were never strangers to international issues.
 
 {:start="18"}
-18.	The starting point of modern, multi-cultural Singapore was in 1819.<sup><a href="#fn3" id="ref3">1</a></sup> 
+18.	The starting point of modern, multi-cultural Singapore was in 1819.<sup><a href="#fn3" id="ref3">3</a></sup> 
 
 {:start="19"}
 19.	This was the year Stamford Raffles arrived in Singapore, bringing with him an entourage that included sepoys, lascars, and several Indian assistants.
@@ -95,7 +95,7 @@ Good morning.
 22.	The starting point for family law in Singapore, as most other areas of law, was the Letters Patent granted by the British Crown on 27 November 1826.
 
 {:start="23"}
-23.	Before that, the law was said to be in “chaos”. There were no instruments or documents of any kind governing the regulation of law and order in Singapore. According to the historical evidence that exists, the administration of justice was left to headmen or leaders of the respective ethnic groups.<sup><a href="#fn4" id="ref4">1</a></sup> 
+23.	Before that, the law was said to be in “chaos”. There were no instruments or documents of any kind governing the regulation of law and order in Singapore. According to the historical evidence that exists, the administration of justice was left to headmen or leaders of the respective ethnic groups.<sup><a href="#fn4" id="ref4">4</a></sup> 
 
 {:start="24"}
 24.	The Letters Patent – more commonly known as the Second Charter of Justice – imported into the colony of the Straits Settlements the law of England as it stood on that date. The law was subject to modifications necessary to prevent injustice or oppression to the local inhabitants.
@@ -107,7 +107,7 @@ Good morning.
 26.	Uniformity was, perhaps, somewhat possible in many other areas of the law but posed challenges in the sphere of family law.
 
 {:start="27"}
-27.	The family laws in Singapore were said to be a “motley mixture as varied as the racial and religious mix of the society”.<sup><a href="#fn5" id="ref5">1</a></sup> I can see why.
+27.	The family laws in Singapore were said to be a “motley mixture as varied as the racial and religious mix of the society”.<sup><a href="#fn5" id="ref5">5</a></sup> I can see why.
 
 {:start="28"}
 28.	There were at least seven marriage law systems that were recognised – the Chinese, the Muslim, the Hindu, the Sikh, the common law, and the two statutory regimes established by the Christian Marriage Ordinance and the Civil Marriage Ordinance.
@@ -119,14 +119,14 @@ Good morning.
 30.	English law viewed the relationship of the husband and the wife within marriage as fundamentally unequal – at least, at that point in time.
 
 {:start="31"}
-31.	The classic statement of marriage, as expressed in Durham v Durham, was “protection on the part of the man, and submission on the part of the woman”.<sup><a href="#fn6" id="ref6">1</a></sup> If you try saying this today, I’m sure you’ll get more than just some evil stares.
+31.	The classic statement of marriage, as expressed in Durham v Durham, was “protection on the part of the man, and submission on the part of the woman”.<sup><a href="#fn6" id="ref6">6</a></sup> If you try saying this today, I’m sure you’ll get more than just some evil stares.
 
 {:start="32"}
 32.	But at that time, if a wife committed an offence – other than murder or treason –  in the presence of her husband, English common law presumed that she had been coerced by him into doing it.
 
     a.	A scene in Oliver Twist depicts this quite vividly. Towards the end of this classic novel, Mr Brownlow accuses the cruel Mr Bumble of being responsible for his wife’s theft of a gold locket and ring belonging to Oliver’s mother.
 
-    b.	This leads Mr Bumble to declare that: “If that’s the eye of the law, the law is a bachelor.”<sup><a href="#fn7" id="ref7">1</a></sup> 
+    b.	This leads Mr Bumble to declare that: “If that’s the eye of the law, the law is a bachelor.”<sup><a href="#fn7" id="ref7">7</a></sup> 
 
     c.	Not all men were apparently happy with this presumption (which might otherwise have been welcome in other settings) that was based on the notion that a woman could not be expected to act independently. 
 
@@ -134,13 +134,13 @@ Good morning.
 33.	The law intervened only occasionally and even then, in a fairly piecemeal manner.
 
 {:start="34"}
-34.	Legal scholars noted that this “caused a certain amount of conflict and confusion and, eventually, unhappiness with the entire situation.”<sup><a href="#fn8" id="ref8">1</a></sup> 
+34.	Legal scholars noted that this “caused a certain amount of conflict and confusion and, eventually, unhappiness with the entire situation.”<sup><a href="#fn8" id="ref8">8</a></sup> 
 
 {:start="35"}
 35.	We did, however, have some success.
 
 {:start="36"}
-36.	The divorce rate among Muslims was very high during the first half of the twentieth century. In 1958, the divorce rate, at that time, was 493 per 1000 marriages.<sup><a href="#fn9" id="ref9">1</a></sup> Almost 1 in 2 marriages ended in divorce.<sup><a href="#fn10" id="ref10">1</a></sup> 
+36.	The divorce rate among Muslims was very high during the first half of the twentieth century. In 1958, the divorce rate, at that time, was 493 per 1000 marriages.<sup><a href="#fn9" id="ref9">9</a></sup> Almost 1 in 2 marriages ended in divorce.<sup><a href="#fn10" id="ref10">10</a></sup> 
 
 {:start="37"}
 37.	The high divorce rate was attributed, amongst other things, to the ease of getting a divorce at that time.
@@ -158,7 +158,7 @@ Good morning.
 41.	The divorce rate declined significantly almost immediately.
 
 {:start="42"}
-42.	In 1958, this was introduced, and in just one year, the divorce rate almost halved to 273 per 1,000 marriages in 1959.<sup><a href="#fn11" id="ref11">1</a></sup> 
+42.	In 1958, this was introduced, and in just one year, the divorce rate almost halved to 273 per 1,000 marriages in 1959.<sup><a href="#fn11" id="ref11">11</a></sup> 
 
 {:start="43"}
 43.	This was a sign, not just that the Syariah Court was bringing greater stability to marriages among the Muslim community, but the whole philosophy of professional conciliatory services in the context of family law had its early immediate successes.
@@ -190,16 +190,16 @@ Good morning.
 51.	The global ripples of change, started perhaps in the western world, were felt here as well.
 
 {:start="52"}
-52.	So in in April 1960, the Women’s Charter Bill<sup><a href="#fn12" id="ref12">1</a></sup> was presented to the Legislative Assembly for debate.
+52.	So in in April 1960, the Women’s Charter Bill<sup><a href="#fn12" id="ref12">12</a></sup> was presented to the Legislative Assembly for debate.
 
 {:start="53"}
 53.	The Bill covered not only family law, but also the protection of women and girls from exploitation as prostitutes.
 
 {:start="54"}
-54.	Dr Goh Keng Swee at that time expressed that they had been moved to deliver the legislation “by deep and profound conviction as to how a good society should be regulated.”<sup><a href="#fn13" id="ref13">1</a></sup> 
+54.	Dr Goh Keng Swee at that time expressed that they had been moved to deliver the legislation “by deep and profound conviction as to how a good society should be regulated.”<sup><a href="#fn13" id="ref13">13</a></sup> 
 
 {:start="55"}
-55.	The legislation was championed by women such as Mdm Chan Choy Siong who felt that “women in our society [had] been like pieces of meat, put on the table for men to slice.”<sup><a href="#fn14" id="ref14">1</a></sup> She made this point very vividly in the course of the Legislative Assembly debates in 1960.
+55.	The legislation was championed by women such as Mdm Chan Choy Siong who felt that “women in our society [had] been like pieces of meat, put on the table for men to slice.”<sup><a href="#fn14" id="ref14">14</a></sup> She made this point very vividly in the course of the Legislative Assembly debates in 1960.
 
 {:start="56"}
 56.	 When we look at the things that were said about the Women’s Charter, we must remember that these were expressed against a long history of subjugation at that time.
@@ -211,7 +211,7 @@ Good morning.
 58.	The legislation also consolidated existing laws relating to monogamy, divorce, the rights and duties of married persons, the maintenance of wives and children, and the punishment for offences committed against women and girls.
 
 {:start="59"}
-59.	Mr K.M Byrne, the Minister for Labour and Law, had then described the prior legislation relating to women and children as “spread so widely throughout legislation that it requires the training and experience of a lawyer, to find one’s way through”.<sup><a href="#fn15" id="ref15">1</a></sup>  
+59.	Mr K.M Byrne, the Minister for Labour and Law, had then described the prior legislation relating to women and children as “spread so widely throughout legislation that it requires the training and experience of a lawyer, to find one’s way through”.<sup><a href="#fn15" id="ref15">15</a></sup>  
 
 {:start="60"}
 60.	One of the core principles of the rule of law must be that the law can and should be accessible as far as possible. Intelligible, clear, and also predictable.
@@ -238,10 +238,10 @@ Good morning.
 67.	In this case, a husband had sued a man he believed to be his wife’s lover. The husband demanded damages for the loss of his wife’s companionship.
 
 {:start="68"}
-68.	High Court struck out the claim, and noted that the tort of enticement had “no known presence in Singapore”.<sup><a href="#fn16" id="ref16">1</a></sup>
+68.	High Court struck out the claim, and noted that the tort of enticement had “no known presence in Singapore”.<sup><a href="#fn16" id="ref16">16</a></sup>
 
 {:start="69"}
-69.	A gentleman then wrote to the newspapers around that time, following the release of that decision, making his case that there were reasons to keep this “wife-stealing” law in a modified form, if necessary.<sup><a href="#fn17" id="ref17">1</a></sup> 
+69.	A gentleman then wrote to the newspapers around that time, following the release of that decision, making his case that there were reasons to keep this “wife-stealing” law in a modified form, if necessary.<sup><a href="#fn17" id="ref17">17</a></sup> 
 
 {:start="70"}
 70.	His view was that given the concept of women’s rights and the idea of career women, what we had was a “happy hunting ground for the inveterate philanderer.” And those are his words.
@@ -265,7 +265,7 @@ Good morning.
 76.	I must say, a lot of progress has been made to uplift the status of women in Singapore.
 
 {:start="77"}
-77.	Anachronistic remnants of our legal past such as marital rape immunity have been repealed.<sup><a href="#fn18" id="ref18">1</a></sup>
+77.	Anachronistic remnants of our legal past such as marital rape immunity have been repealed.<sup><a href="#fn18" id="ref18">18</a></sup>
 
 {:start="78"}
 78.	But the law aside, changes have also been made in almost every aspect of policy-making – education, health, economy, housing, and other areas of social development.
@@ -285,7 +285,7 @@ Good morning.
 {:start="83"}
 83.	As our former Prime Minister Mr. Lee Kuan Yew once said:
 
-    “The only differences between men and women are the physical and biological ones. Women are equal to men in intellectual capacity.”<sup><a href="#fn19" id="ref19">1</a></sup> 
+    “The only differences between men and women are the physical and biological ones. Women are equal to men in intellectual capacity.”<sup><a href="#fn19" id="ref19">19</a></sup> 
 
 {:start="84"}
 84.	This is not merely an aspiration – it is a fact.
@@ -294,7 +294,7 @@ Good morning.
 85.	The Government launched the “Conversations on Singapore Women’s Development” on 20 September 2020, a bit more than a year ago, to understand what more can be done to empower, protect, and uplift our women.
 
 {:start="86"}
-86.	Thousands, including many lawyers, participated in a series of engagements that ended just 10 days ago.<sup><a href="#fn20" id="ref20">1</a></sup> They offered their views on important issues. These views, their feedback, recommendations and suggestions, are being consolidated into a White Paper that will be submitted to Parliament.
+86.	Thousands, including many lawyers, participated in a series of engagements that ended just 10 days ago.<sup><a href="#fn20" id="ref20">20</a></sup> They offered their views on important issues. These views, their feedback, recommendations and suggestions, are being consolidated into a White Paper that will be submitted to Parliament.
 
 **Administration of family justice**
 
@@ -307,15 +307,15 @@ Good morning.
     **(a)     Administration of Muslim law**
 
 {:start="89"}
-89.	The Administration of Muslim Law Act<sup><a href="#fn21" id="ref21">1</a></sup> (AMLA) was passed in 1966 to provide for the administration of Muslim law.
+89.	The Administration of Muslim Law Act<sup><a href="#fn21" id="ref21">21</a></sup> (AMLA) was passed in 1966 to provide for the administration of Muslim law.
 
 {:start="90"}
-90.	This unique system of legal pluralism preserves the separate legal system that existed for Muslims in Singapore since 1880<sup><a href="#fn22" id="ref22">1</a></sup> on issues such as marriage, divorce, inheritance, and also other civil matters. 
+90.	This unique system of legal pluralism preserves the separate legal system that existed for Muslims in Singapore since 1880<sup><a href="#fn22" id="ref22">22</a></sup> on issues such as marriage, divorce, inheritance, and also other civil matters. 
 
 {:start="91"}
 91.	Despite there being substantive differences between Muslim and non-Muslim family law, there are also much similarities. The desire to strengthen marriages and to reconcile differences, wherever possible, is one such example.
 
-    **(b)     Administration of non-Muslim marriages** 
+    **(b)     Administration of non-Muslim marriages**  
 
 {:start="92"}
 92.	As far as the administration of non-Muslim family law is concerned, in the early years, even after family law had begun to exist as a coherent body of principles, it was not necessarily administered as a coherent whole.
@@ -349,11 +349,11 @@ Good morning.
 100.	Unlike the commercial and criminal courts, the family courts adopt a more judge-led and problem-solving approach to each case.
 
 {:start="101"}
-101.	According to an FJC-MinLaw Court Users Survey conducted in 2018<sup><a href="#fn23" id="ref23">1</a></sup>, the overall perception of the reforms to the system was indeed positive:
+101.	According to an FJC-MinLaw Court Users Survey conducted in 2018<sup><a href="#fn23" id="ref23">23</a></sup>, the overall perception of the reforms to the system was indeed positive:
 
-      a.	83% of lawyers; and
+    a.	83% of lawyers; and
 
-      b.	82% of court users surveyed, had a positive perception of the reforms, based on their experience with the system. 
+    b.	82% of court users surveyed, had a positive perception of the reforms, based on their experience with the system. 
 
 **Lessons we can draw from experience**
 
@@ -369,9 +369,9 @@ Good morning.
 {:start="105"}
 105.	To my mind, there are two issues that family law will continue to grapple with, which I think will come to the fore in the next decade or perhaps decades:
 
-      a.	First, how far the law should and can encroach into what is essentially a private space in a family. 
+    a.	First, how far the law should and can encroach into what is essentially a private space in a family. 
 
-      b.	Second, society does not think or speak with one voice on all matters. Of course in today’s context, increasingly so. People can have starkly different views on social and ethical issues. Everyone is entitled to their own views and these must be respected. Moreover, social mores change over time.  All of this, however, poses for us, an enormous challenge for the law: which way do we go? There’s a multitude of pluralistic diverse voices. 
+    b.	Second, society does not think or speak with one voice on all matters. Of course in today’s context, increasingly so. People can have starkly different views on social and ethical issues. Everyone is entitled to their own views and these must be respected. Moreover, social mores change over time.  All of this, however, poses for us, an enormous challenge for the law: which way do we go? There’s a multitude of pluralistic diverse voices. 
 
 {:start="106"}
 106.	But at the same time, these are not new challenges and they are also not mutually exclusive.
@@ -382,13 +382,13 @@ Good morning.
 {:start="108"}
 108.	The first is on family violence.
 
-      **(a)     Family violence**  
+    **(a)     Family violence** 
 
 {:start="109"}
 109.	History is replete with violence by men against women, particularly in patriarchal societies.
 
 {:start="110"}
-110.	Marital rape was one example of coverture’s<sup><a href="#fn24" id="ref24">1</a></sup> old hand at work. All of these stemmed from a misogynistic view about the status of women in not just the homes, but in society as a whole.
+110.	Marital rape was one example of coverture’s<sup><a href="#fn24" id="ref24">24</a></sup> old hand at work. All of these stemmed from a misogynistic view about the status of women in not just the homes, but in society as a whole.
 
 {:start="111"}
 111.	Family violence is injurious in many ways, including to one’s mental health and self-worth. It can leave an indelible mark on the lives of the most vulnerable and innocent: the children.
@@ -406,7 +406,7 @@ Good morning.
 115.	I will explain this point a little bit more by narrating an old incident.
 
 {:start="116"}
-116.	In 1929, the Singapore Free Press and Mercantile Advertiser carried an article, an old article titled “Wife Beating Tragedy”.<sup><a href="#fn25" id="ref25">1</a></sup>
+116.	In 1929, the Singapore Free Press and Mercantile Advertiser carried an article, an old article titled “Wife Beating Tragedy”.<sup><a href="#fn25" id="ref25">25</a></sup>
 
 {:start="117"}
 117.	This was an incident in Paris where a man had witnessed a husband beating his wife in public.
@@ -441,14 +441,14 @@ Good morning.
 {:start="127"}
 127.	These provisions reflected a balancing exercise as there were a number of different objectives to achieve. These were: 
 
-      a.	First, to protect the family from violence;
+    a.	First, to protect the family from violence;
  
-      b.	Second, to prevent further violence; and
+    b.	Second, to prevent further violence; and
 
-      c.	Third, as a countervailing point, to ensure that the law did not encroach into the family space in such a way that made healing or reparation between and amongst the family members, either difficult or no longer possible.
+    c.	Third, as a countervailing point, to ensure that the law did not encroach into the family space in such a way that made healing or reparation between and amongst the family members, either difficult or no longer possible.
 
 {:start="128"}
-128.	The laws were strengthened.<sup><a href="#fn26" id="ref26">1</a></sup> 
+128.	The laws were strengthened.<sup><a href="#fn26" id="ref26">26</a></sup> 
 
 {:start="129"}
 129.	At the same time, there were efforts undertaken to create a multi-pronged tool to deal with violence. This included increasing awareness through education and also building up the entire support system within the community in society.
@@ -462,7 +462,7 @@ Good morning.
 {:start="132"}
 132.	The Taskforce on Family Violence was formed to look at how we can strengthen our responses to this problem. Undoubtedly, some of the issues that we faced in the past will continue to rear their familiar, ugly heads even in present times. The Taskforce submitted their recommendations in a report published just a few days ago. This report is currently being studied by the Government.
 
-      **(b)     Maintenance of Parents Bill** 
+    **(b)     Maintenance of Parents Bill** 
 
 {:start="133"}
 133.	The second example is the Maintenance of Parents Bill.
@@ -485,21 +485,21 @@ Good morning.
 {:start="139"}
 139.	In fact, in the year the Bill was passed, Singaporeans aged 65 and above comprised just 6.5% of our total population.
 
-      a.	As of June 2020, just over a year ago last year, that figure had risen almost three times to 16.8%.<sup><a href="#fn27" id="ref27">1</a></sup> 
+    a.	As of June 2020, just over a year ago last year, that figure had risen almost three times to 16.8%.<sup><a href="#fn27" id="ref27">27</a></sup> 
 
-      b.	The figure is projected to rise even further, to 25%, in 2030.<sup><a href="#fn28" id="ref28">1</a></sup> That ageing population curve is going to be very sharp and steep.
+    b.	The figure is projected to rise even further, to 25%, in 2030.<sup><a href="#fn28" id="ref28">28</a></sup> That ageing population curve is going to be very sharp and steep.
 
 {:start="140"}
-140.	We were not the first in the world to introduce such laws. Some of you will know that similar laws existed in Taiwan and Israel. In fact, the obligation to maintain one’s parents can also be traced to ancient Roman society in the third century.<sup><a href="#fn29" id="ref29">1</a></sup>   
+140.	We were not the first in the world to introduce such laws. Some of you will know that similar laws existed in Taiwan and Israel. In fact, the obligation to maintain one’s parents can also be traced to ancient Roman society in the third century.<sup><a href="#fn29" id="ref29">29</a></sup>   
 
 {:start="141"}
 141.	Several arguments were made by those who objected to the Bill:
 
-      a.	Some thought that it was objectionable for parents to maintain their children because they had not asked to be born. 
+    a.	Some thought that it was objectionable for parents to maintain their children because they had not asked to be born. 
 
-      b.	Some felt that it was unnecessary because filial piety was just a part of  Asian values. If a person refused to maintain a parent, there must be a good reason for that – for example, either that parent had not played the part that he ought to have done or played in the child’s growing years. 
+    b.	Some felt that it was unnecessary because filial piety was just a part of  Asian values. If a person refused to maintain a parent, there must be a good reason for that – for example, either that parent had not played the part that he ought to have done or played in the child’s growing years. 
 
-      c.	Then, there were those who felt that the law should not encourage parents to sue their own children as this would fundamentally affect their relationship. 
+    c.	Then, there were those who felt that the law should not encourage parents to sue their own children as this would fundamentally affect their relationship. 
 
 {:start="142"}
 142.	There were concerns that the law’s intervention would erode family values and link ties to financial obligations. The less tangible, but more important aspects of relationships, such as affection and responsibility could then be either sacrificed or compromised.
@@ -507,9 +507,9 @@ Good morning.
 {:start="143"}
 143.	The Bill was submitted to the Select Committee, where amendments to the original provisions were made. These amendments addressed the reservations that had been earlier expressed:
 
-      a.	For example, the adversarial court system was replaced with a tribunal as a mode for resolving disputes.
+    a.	For example, the adversarial court system was replaced with a tribunal as a mode for resolving disputes.
 
-      b.	Conditions were included – only parents who were of the statutory retirement age or infirm could apply for maintenance. 
+    b.	Conditions were included – only parents who were of the statutory retirement age or infirm could apply for maintenance. 
 
 {:start="144"}
 144.	The Maintenance of Parents Act has since found acceptance and is only relied upon as a legal avenue of last resort.
@@ -526,7 +526,7 @@ Good morning.
 147.	It is a small world and this has been so for a while, with technology facilitating wider social interactions.
 
 {:start="148"}
-148.	About one in 4 citizen marriages in Singapore involves a non-resident spouse. This has been a relatively constant ratio over the last 20 years or so.<sup><a href="#fn30" id="ref30">1</a></sup>
+148.	About one in 4 citizen marriages in Singapore involves a non-resident spouse. This has been a relatively constant ratio over the last 20 years or so.<sup><a href="#fn30" id="ref30">30</a></sup>
 
 {:start="149"}
 149.	Transnational marriages can present – as they already have – difficult issues on very stark striking facts.
@@ -564,13 +564,13 @@ Good morning.
 159.	There is a jurisprudential school of thought referred to as Legal Realism.
 
 {:start="160"} 
-160.	It can be explained in the expression that “general propositions do not decide concrete cases”.<sup><a href="#fn31" id="ref31">1</a></sup> What this means is that the background and facts of each case determine the outcome far more than any proposition of the law with a general character.
+160.	It can be explained in the expression that “general propositions do not decide concrete cases”.<sup><a href="#fn31" id="ref31">31</a></sup> What this means is that the background and facts of each case determine the outcome far more than any proposition of the law with a general character.
 
 {:start="161"}
 161.	The sort of family disputes that the courts have to deal with cannot be painted over with a single brush, with a single colour in a flexible approach.
 
 {:start="162"}
-162.	To borrow Tolstoy’s axiomatic expression on families, all happy families are alike.<sup><a href="#fn32" id="ref32">1</a></sup> This is a bit of a generalisation but they are probably all alike in the sense that they have no need to invoke the law.
+162.	To borrow Tolstoy’s axiomatic expression on families, all happy families are alike.<sup><a href="#fn32" id="ref32">32</a></sup> This is a bit of a generalisation but they are probably all alike in the sense that they have no need to invoke the law.
 
 {:start="163"}
 163.	However, all unhappy families are unhappy in their own ways. Therefore, what we need is a flexible brush that can paint “different strokes for different folks” with different problems.
@@ -593,7 +593,7 @@ Good morning.
 {:start="169"}
 169.	In the interest of time, I will highlight two.
 
-      **(a)     Advances in the field of fertility sciences**   
+    **(a)     Advances in the field of fertility sciences**   
 
 {:start="170"}
 170.	This is one area that has impact on the advances in the field of fertility sciences, and the impact it has on the notions of parenthood and the family.
@@ -602,7 +602,7 @@ Good morning.
 171.	Jurisdictions across the world have had to deal with particularly complex issues associated with surrogacy. Questions such as who the legal parent is and what that parent’s obligations are, vis-à-vis the child and the surrogate mother, are some of the many questions raised.
 
 {:start="172"}
-172.	The courts have dealt with some aspects of these issues in previous cases.<sup><a href="#fn33" id="ref33">1</a></sup>
+172.	The courts have dealt with some aspects of these issues in previous cases.<sup><a href="#fn33" id="ref33">33</a></sup>
 
 {:start="173"}
 173.	Science is advancing so very quickly.
@@ -616,7 +616,7 @@ Good morning.
 {:start="176"}
 176.	A combination of these factors points us to one direction: that it is not a question of if but when we will have to face these issues.
 
-      **(b)     Reforms in the law of divorce elsewhere**
+    **(b)     Reforms in the law of divorce elsewhere**
 
 {:start="177"}
 177.	The second relates to reforming the law of divorce.
@@ -631,16 +631,16 @@ Good morning.
 180.	Although the reforms were welcomed by many who considered that the existing laws increased animosity and acrimony in already fragile circumstances, there were those who remained concerned about whether the law was making it too simple for people to walk out of their marriages.
 
 {:start="181"}
-181.	In May this year, a public consultation paper was launched here. This paper sought views on having an “amicable divorce” option for couples that will not require them to prove a fault-based fact such as adultery.<sup><a href="#fn34" id="ref34">1</a></sup>
+181.	In May this year, a public consultation paper was launched here. This paper sought views on having an “amicable divorce” option for couples that will not require them to prove a fault-based fact such as adultery.<sup><a href="#fn34" id="ref34">34</a></sup>
 
 {:start="182"}
 182.	We have seen a diverse set of views on the issue before, reflected in the letters published on local media. This divergence in views reflect those which were also seen in England and Wales.
 
 {:start="183"}
-183.	Some feel that the option would be beneficial to the family unit, provided that safeguards to prevent abuse are in place.<sup><a href="#fn35" id="ref35">1</a></sup> 
+183.	Some feel that the option would be beneficial to the family unit, provided that safeguards to prevent abuse are in place.<sup><a href="#fn35" id="ref35">35</a></sup> 
 
 {:start="184"}
-184.	Others feel “appalled”, expressing that the current laws are premised on the notion of preserving marriages and encouraging reconciliation.<sup><a href="#fn36" id="ref36">1</a></sup>
+184.	Others feel “appalled”, expressing that the current laws are premised on the notion of preserving marriages and encouraging reconciliation.<sup><a href="#fn36" id="ref36">36</a></sup>
 
 {:start="185"}
 185.	The fact there is such a wide range of views across the spectrum is unsurprising.
@@ -668,13 +668,13 @@ Good morning.
 {:start="192"}
 192.	A family justice system requires the coordinated efforts of: (a) policymakers; (b) the courts; (c) lawyers; and (d) social sector professionals.
 
-      **a.	Policymakers** have to be clear about the direction the law should take. Parliament must install the legislative framework with the appropriate support system.
+    **a.	Policymakers** have to be clear about the direction the law should take. Parliament must install the legislative framework with the appropriate support system.
 
-      **b.	The Family Courts** are unique in that, unlike other courts, they are not there merely as neutral arbiters. The judge-led approach which we have adopted requires courts to guide parties towards a non-adversarial path. There are many other areas of the law which have adopted a judge-led approach. However, nowhere is this more important than in the context of family proceedings.
+    **b.	The Family Courts** are unique in that, unlike other courts, they are not there merely as neutral arbiters. The judge-led approach which we have adopted requires courts to guide parties towards a non-adversarial path. There are many other areas of the law which have adopted a judge-led approach. However, nowhere is this more important than in the context of family proceedings.
 
-      **c.	Family lawyers** are also unique. They perform several functions, sometimes all at once. They must never forget that they are dealing with real people, not commercial entities with a somewhat distant or perhaps more impersonal commercial dispute. The solutions they offer must make not only make legal sense but must take into account the overall dynamics of the dispute of the circumstances, and must make sense in emotional and personal terms. 
+    **c.	Family lawyers** are also unique. They perform several functions, sometimes all at once. They must never forget that they are dealing with real people, not commercial entities with a somewhat distant or perhaps more impersonal commercial dispute. The solutions they offer must make not only make legal sense but must take into account the overall dynamics of the dispute of the circumstances, and must make sense in emotional and personal terms. 
 
-      **d.	Social sector professionals** play an increasingly important role in the healing process. Their intervention through counselling and, sometimes, by just being the listening ear can be the support that makes a difference, that a person might need to begin a new chapter in his or her life. 
+    **d.	Social sector professionals** play an increasingly important role in the healing process. Their intervention through counselling and, sometimes, by just being the listening ear can be the support that makes a difference, that a person might need to begin a new chapter in his or her life. 
 
 **Conclusion**
 
@@ -708,7 +708,7 @@ Good morning.
 
 <p><sup id="fn3">3. Speech by Prime Minister Lee Hsien Loong at the launch of the Singapore Bicentennial on 28 January 2019. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
-<p><sup id="fn4">4. Andrew Phang, Goh Yihan, and Jerrold Soh, “The Development of Singapore Law: A Bicentennial Retrospective” (2020), <i>Singapore Academy of Law Journal,<i> 1-87. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+<p><sup id="fn4">4. Andrew Phang, Goh Yihan, and Jerrold Soh, “The Development of Singapore Law: A Bicentennial Retrospective” (2020), <i>Singapore Academy of Law Journal</i>, 1-87. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
 <p><sup id="fn5">5. Leong Wai Kum: Family Law in Singapore: <i>Cases and Commentary on the Women’s Charter and Family Law</i> (Singapore: Family Law Journal, 1990) at pp 9-10, 15-16. <a href="#ref5" title="Jump back to footnote 5 in the text.">↩</a></sup></p>
 
@@ -768,7 +768,7 @@ Good morning.
 
 <p><sup id="fn33">33. One example is ACB v Thomson Medical Pte Ltd and Others [2017] SGCA 20 involved an issue on whether the expenses which arise in relation to the unplanned birth of a healthy child who was born as a result of medical negligence is a compensable head of damage. The Court of Appeal agreed with the High Court that the recognition of a claim for upkeep costs would be against public policy. This is because the Court would have to regard, as actionable damage, the incidents of the parent-child relationship. This relationship is socially foundational and incapable of estimation as loss. The Court of Appeal also held that such recognition would be inconsistent and deleterious to the health of the institution of parenthood and against public interest.
   
- Another example is UKM v Attorney-General [2018] SGHCF 18. This case involved a gay man who was in a long-term relationship with his partner. They desired a child but had been advised that they would not be able to adopt a child in Singapore because of their sexual orientation. The couple travelled to the US and engaged the services of a surrogate mother. The man’s sperm and the egg of an anonymous donor were used in the procedure. The child was brought to Singapore by the man and his partner. The man applied to adopt the child under the Adoption of Children Act (Cap 4, 2012 Rev Ed) so that the child could stay in Singapore permanently. The court had to determine whether the application to adopt the child should be granted, after weighing public policy considerations and the principle of the welfare of the child. <a href="#ref33" title="Jump back to footnote 33 in the text.">↩</a></sup></p>
+Another example is UKM v Attorney-General [2018] SGHCF 18. This case involved a gay man who was in a long-term relationship with his partner. They desired a child but had been advised that they would not be able to adopt a child in Singapore because of their sexual orientation. The couple travelled to the US and engaged the services of a surrogate mother. The man’s sperm and the egg of an anonymous donor were used in the procedure. The child was brought to Singapore by the man and his partner. The man applied to adopt the child under the Adoption of Children Act (Cap 4, 2012 Rev Ed) so that the child could stay in Singapore permanently. The court had to determine whether the application to adopt the child should be granted, after weighing public policy considerations and the principle of the welfare of the child. <a href="#ref33" title="Jump back to footnote 33 in the text.">↩</a></sup></p>
 
 <p><sup id="fn34">34. Ministry of Social and Family Development, “Consultation Paper: How to better support children and divorcees, and reduce acrimony in divorce”, online: https://www.msf.gov.sg/publications/Pages/Consultation-Paper-Better-Support-Children-and-Divorcees-and-Reduce-Acrimony-in-Divorce.aspx <a href="#ref34" title="Jump back to footnote 34 in the text.">↩</a></sup></p>
 
