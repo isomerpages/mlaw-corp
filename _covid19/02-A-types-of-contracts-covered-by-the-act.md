@@ -17,7 +17,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 |4. | [Lease or Rental agreements for commercial equipment](/files/Renters3.pdf) | Extended to 31 January 2021 (formerly 19 October 2020) | 31 January 2021 | 31 January 2021* |  Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/rental-agreements)
 |5. | [Secured loan agreements to SMEs](/files/SMEs3.pdf)  | Extended to 19 November 2020 (formerly 19 October 2020) | 19 November 2020 | 19 November 2020* | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/sme-loans)
 |6. | [Event and tourism-related contracts](/files/Events3.pdf) | Extended to 31 January 2021  (formerly 19 October 2020) | 31 January 2021  | 31 March 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/event-or-tourism-related-contract)
-|7. | [Construction contracts and supply contracts](/files/Constructions3.pdf) | Extended to 30 September 2021 (formerly 19 October 2020) | 30 September 2021 | 30 November 2021 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
+|7. | [Construction contracts and supply contracts](/files/Constructions3.pdf) | Extended to 31 December 2021 (formerly 19 October 2020) | 31 December 2021 | 28 February 2022 | Please click this [link](https://www.mlaw.gov.sg/covid19-relief/faq/construction)
 
 \* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. 
 
