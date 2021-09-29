@@ -8,9 +8,8 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Rental agreements for commercial equipment ###
 
-<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for rental agreements for commercial equipment has ended on 31 January 2021. The reliefs described on this page has expired. 
+<a name="19Novnote"><u>Important Note</u></a>: The prescribed period for rental agreements for commercial equipment has ended on 31 January 2021. The reliefs described on this page have expired. 
 
-Eligible renters may wish to consider taking up the Repayment Scheme under the Re-Align Framework to pay their outstanding arrears in instalments. To do so, eligible renters must serve a Notice of Revision on all parties to the contract by 26 February 2021. Please click [here](https://www.mlaw.gov.sg/realign/process-repayment-scheme) for more information. 
 
 #### General FAQs ####
 

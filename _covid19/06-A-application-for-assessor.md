@@ -20,7 +20,7 @@ Please take note of the following deadlines to file an application for an Assess
 | <b>31 March 2021</b> | -- Event and tourism-related contracts  
 | <b>30 June 2021</b> | -- Sale and puchase agreements with developers*
 | <b>31 August 2021</b> | -- Options to purchase with developers 
-| <b>30 November 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
+| <b>28 February 2022</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto
 
 \* The role of an Assessor in these cases is to determine whether the moratorium (i.e. temporary relief from legal and enforcement action) applies. An Assessor’s determination is no longer necessary after the expiry of the prescribed period, as the moratorium automatically lapses when the prescribed period expires. 
 

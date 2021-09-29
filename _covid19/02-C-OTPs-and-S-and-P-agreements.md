@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 ### Options to Purchase and Sale and Purchase Agreements with Developers ###
 
-<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for Options to Purchase and Sale and Purchase Agreements ended on 30 June 2021. If a Notification for Relief in respect of an Option to Purchase was served by 30 June 2021, individuals and businesses can still file an Application for an Assessor’s Determination by 31 August 2021. 
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for Options to Purchase and Sale and Purchase Agreements ended on 30 June 2021. The reliefs described on this page have expired.
 
 #### General FAQs ####
 <a name="q1">**1.	I am a buyer of a property (residential, commercial or industrial) from a developer and have difficulties with my obligations.  What reliefs under the Act are available to me?**</a>

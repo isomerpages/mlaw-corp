@@ -8,7 +8,7 @@ third_nav_title: '1. Temporary Relief from Inability to Perform Contractual Obli
 
 
 ### Event or tourism-related contracts ###
-<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts ended on 31 January 2021. The reliefs described on this page has expired.
+<a name="31Decnote"><u>Important Note</u></a>: The prescribed period for event or tourism-related contracts ended on 31 January 2021. The reliefs described on this page have expired.
 
 #### General FAQs ####
 **1. What is an event contract?**
