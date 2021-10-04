@@ -14,7 +14,6 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
 <br>
   b.	Make consequential changes to the Legal Service, which will be overseen by a reconstituted Legal Service Commission (LSC) headed by the Attorney-General. The Legal Service will comprise LSOs holding other (non-judicial) posts in Government, such as in the Attorney-General’s Chambers (AGC) or Ministries.<br>
     <br>
-
 {:start="2"}
 2. These structural changes aim to put both Services on a better footing for the future, by allowing them to reap the benefits of greater specialisation. With greater flexibility to adapt their personnel management frameworks to their respective needs and circumstances, the two Services will be better positioned to meet the growing demands of an increasingly complex and rapidly evolving legal landscape. Taking this step now, when the system is stable and working well, provides space to make refinements if needed after the restructuring is implemented.
 
@@ -57,7 +56,6 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
     <br>
   c.	The respective Presidents of the Commissions, PSC Chairman and the Prime Minister may each nominate up to two members to the respective Commissions, subject to the President’s concurrence.<sup><a href="#fn2" id="ref2">2</a></sup><br>
     <br>
-
 {:start="12"}
 12. <u>Personnel Boards</u>. With the reconstitution of the Legal Service, and the creation of a new Judicial Service, a system of autonomous personnel boards will no longer be appropriate. Instead, the Commission will retain broad oversight over any personnel boards that are established. 
 
@@ -65,7 +63,6 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
 <br>
   b.	The appointment of members to any personnel boards will continue to be subject to the President’s concurrence.<br>
     <br>
-
 {:start="13"}
 13. <u>Movement between Services</u>. Cross-Service secondments will continue to be made available on application, where useful to provide selected officers with cross-Service experience. Permanent transfers between the Services will also be available, subject to the prevailing personnel rules put in place by the Commissions, for officers who prefer to pursue their career in the other Service in the long-term.  
 
@@ -80,7 +77,6 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
     <br>
   c.	Officers should remain in the reconstituted Legal Service, or transfer to the new Judicial Service, under the same terms and conditions of service as those applicable to him/her immediately before the restructuring.<br>
     <br>
-
 {:start="15"}
 15. We would like to record our appreciation of the work and effort put in by the Working Group into its review. The Government agrees with the Working Group’s recommendations and will work with the JSC and LSC to implement them.
 
