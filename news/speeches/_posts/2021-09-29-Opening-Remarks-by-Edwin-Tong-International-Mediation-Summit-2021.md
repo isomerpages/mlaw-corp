@@ -96,15 +96,15 @@ Ladies and gentlemen
 {:start="11"}
 11.	Finally, new pattern:
 
-   a.	In this context, the Singapore Convention on Mediation, which enables mediated settlement agreements to be enforced across borders, takes on more significance. 
+    a.	In this context, the Singapore Convention on Mediation, which enables mediated settlement agreements to be enforced across borders, takes on more significance. 
 
-   b.	The Convention came into force in September 2020.
+    b.	The Convention came into force in September 2020.
 
-   c.	So far, 55 countries have signed the Convention, and 7 countries have ratified the Convention. China was one of the first signatories of the Convention when it opened for signature in Singapore in August 2019.
+    c.	So far, 55 countries have signed the Convention, and 7 countries have ratified the Convention. China was one of the first signatories of the Convention when it opened for signature in Singapore in August 2019.
 
-   d.	We look forward to China ratifying the Convention soon. The Convention will become more useful if more countries ratify. With a major economy like China becoming a party to the Convention, it will benefit the many companies doing business with China.
+    d.	We look forward to China ratifying the Convention soon. The Convention will become more useful if more countries ratify. With a major economy like China becoming a party to the Convention, it will benefit the many companies doing business with China.
 
-   e.	I am optimistic that more countries will come on board, and change the dispute resolution paradigm and pattern, in time to come.
+    e.	I am optimistic that more countries will come on board, and change the dispute resolution paradigm and pattern, in time to come.
 
 <b>Importance of Collaborations</b>
 
