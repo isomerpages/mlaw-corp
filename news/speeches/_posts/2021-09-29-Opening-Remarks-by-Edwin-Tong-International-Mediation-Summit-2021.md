@@ -6,7 +6,7 @@ permalink: /news/speeches/2021-09-29-Opening-Remarks-by-Edwin-Tong-International
 
 29 Sep 2021 Posted in [[Speeches](/news/speeches)]
 
-Mr Guan Jinping
+Mr Guan Jinping<br>
 Deputy Director of the Standing Committee of Hainan Provincial People’s Congress<br>
 
 Mr Lu Pengqi<br>
@@ -28,6 +28,8 @@ Deputy Director-General of Bureau of People’s Participation and Promotion of t
 Distinguished guests 
 
 Ladies and gentlemen
+
+<b>Introduction</b>
 
 {:start="1"}
 1.	It’s a pleasure to be here at the 6th edition of the International Mediation Summit.
