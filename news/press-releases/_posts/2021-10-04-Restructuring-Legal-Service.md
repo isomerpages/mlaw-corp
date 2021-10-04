@@ -10,9 +10,9 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
 {:start="1"}
 1. The Government is proposing to: 
 
-  a.	Establish a separate Judicial Service, overseen by a newly established Judicial Service Commission (JSC) headed by the Chief Justice. Legal Service Officers (LSOs) currently holding judicial posts, such as Assistant Registrars in the Supreme Court and District Judges and Magistrates in the State Courts and Family Courts, will be transferred to the new Judicial Service, as Judicial Service Officers (JSOs).<br>
+    a.	Establish a separate Judicial Service, overseen by a newly established Judicial Service Commission (JSC) headed by the Chief Justice. Legal Service Officers (LSOs) currently holding judicial posts, such as Assistant Registrars in the Supreme Court and District Judges and Magistrates in the State Courts and Family Courts, will be transferred to the new Judicial Service, as Judicial Service Officers (JSOs).<br>
 <br>
-  b.	Make consequential changes to the Legal Service, which will be overseen by a reconstituted Legal Service Commission (LSC) headed by the Attorney-General. The Legal Service will comprise LSOs holding other (non-judicial) posts in Government, such as in the Attorney-General’s Chambers (AGC) or Ministries.
+    b.	Make consequential changes to the Legal Service, which will be overseen by a reconstituted Legal Service Commission (LSC) headed by the Attorney-General. The Legal Service will comprise LSOs holding other (non-judicial) posts in Government, such as in the Attorney-General’s Chambers (AGC) or Ministries.
 
 {:start="2"}
 2. These structural changes aim to put both Services on a better footing for the future, by allowing them to reap the benefits of greater specialisation. With greater flexibility to adapt their personnel management frameworks to their respective needs and circumstances, the two Services will be better positioned to meet the growing demands of an increasingly complex and rapidly evolving legal landscape. Taking this step now, when the system is stable and working well, provides space to make refinements if needed after the restructuring is implemented.
@@ -50,18 +50,18 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
 {:start="11"}
 11. <u>Composition</u>. The members on each Commission will be as follows: 
 
-  a.	The The Chief Justice will be President of the JSC. The Attorney-General will be President of the LSC.<br>
+    a.	The The Chief Justice will be President of the JSC. The Attorney-General will be President of the LSC.<br>
 <br>
-  b.	The Chairman of the Public Service Commission (PSC) will be Vice-President of both the JSC and LSC.<br>
+    b.	The Chairman of the Public Service Commission (PSC) will be Vice-President of both the JSC and LSC.<br>
     <br>
-  c.	The respective Presidents of the Commissions, PSC Chairman and the Prime Minister may each nominate up to two members to the respective Commissions, subject to the President’s concurrence.<sup><a href="#fn2" id="ref2">2</a></sup>
+    c.	The respective Presidents of the Commissions, PSC Chairman and the Prime Minister may each nominate up to two members to the respective Commissions, subject to the President’s concurrence.<sup><a href="#fn2" id="ref2">2</a></sup>
     
 {:start="12"}
 12. <u>Personnel Boards</u>. With the reconstitution of the Legal Service, and the creation of a new Judicial Service, a system of autonomous personnel boards will no longer be appropriate. Instead, the Commission will retain broad oversight over any personnel boards that are established. 
 
-  a.	Each Commission will be empowered to delegate, to one or more personnel boards, any of its functions and powers, save for those relating to: (1) senior officers at or above a designated grade, and (2) discipline and dismissal of any officers. Functions and powers relating to both these areas will be exercised directly, by the Commission.<br>
+    a.	Each Commission will be empowered to delegate, to one or more personnel boards, any of its functions and powers, save for those relating to: (1) senior officers at or above a designated grade, and (2) discipline and dismissal of any officers. Functions and powers relating to both these areas will be exercised directly, by the Commission.<br>
 <br>
-  b.	The appointment of members to any personnel boards will continue to be subject to the President’s concurrence.
+    b.	The appointment of members to any personnel boards will continue to be subject to the President’s concurrence.
 
 {:start="13"}
 13. <u>Movement between Services</u>. Cross-Service secondments will continue to be made available on application, where useful to provide selected officers with cross-Service experience. Permanent transfers between the Services will also be available, subject to the prevailing personnel rules put in place by the Commissions, for officers who prefer to pursue their career in the other Service in the long-term.  
@@ -71,11 +71,11 @@ permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
 {:start="14"}
 14. The Working Group studied the transitional issues involved in the restructuring of the Legal Service, and submitted its findings to the Government on 22 September 2021.  Reflecting feedback gathered from a series of townhalls that were open to all LSOs, the Working Group highlighted and offered its recommendations on a number of key issues to be managed should the restructuring proceed, including the following:
 
-  a.	The guiding principle should be to minimise, as much as possible, disruption to judicial and legal organisations, agencies, and the work and development of LSOs.<br>
+    a.	The guiding principle should be to minimise, as much as possible, disruption to judicial and legal organisations, agencies, and the work and development of LSOs.<br>
 <br>
-  b.	As a general rule, LSOs should be assigned to the Service in accordance with the branch to which they are posted on the date the restructuring takes effect (e.g. an officer holding a post in the Judicial branch will be assigned to be a JSO; and vice versa, for an officer in the Legal branch).<br>
+    b.	As a general rule, LSOs should be assigned to the Service in accordance with the branch to which they are posted on the date the restructuring takes effect (e.g. an officer holding a post in the Judicial branch will be assigned to be a JSO; and vice versa, for an officer in the Legal branch).<br>
     <br>
-  c.	Officers should remain in the reconstituted Legal Service, or transfer to the new Judicial Service, under the same terms and conditions of service as those applicable to him/her immediately before the restructuring.
+    c.	Officers should remain in the reconstituted Legal Service, or transfer to the new Judicial Service, under the same terms and conditions of service as those applicable to him/her immediately before the restructuring.
     
 {:start="15"}
 15. We would like to record our appreciation of the work and effort put in by the Working Group into its review. The Government agrees with the Working Group’s recommendations and will work with the JSC and LSC to implement them.
