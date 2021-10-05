@@ -9,9 +9,9 @@ third_nav_title: '7. Rental Waiver Framework 2021'
 ### Further Information on Application for Assessment ###
 
  - <a href="#intro" id="refa">A. Introduction</a>
- - <a href="#scope" id="refa">B. Scope for Assessments</a>
- - <a href="#process" id="refa">C. Application Process</a>
- - <a href="#info" id="refa">D. Registry Information</a>
+ - <a href="#scope" id="refb">B. Scope for Assessments</a>
+ - <a href="#process" id="refc">C. Application Process</a>
+ - <a href="#info" id="refd">D. Registry Information</a>
 
 ##### Additional Resources ##### 
 Registrar’s Directives
