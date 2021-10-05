@@ -35,7 +35,7 @@ Tenants and landlords may seek an assessment on the following areas.
 
 <li>Whether it is just and equitable in the circumstances of the case for a Notice of Rental Waiver to be issued to the tenant-occupier even though the lease agreement was not stamped on or before 2 August 2021.</li>
 
-<u>Computation of Rental Waiver</u>
+<br><u>Computation of Rental Waiver</u>
 
 <li>The actual amount of rent under the lease agreement. </li>
 
