@@ -53,9 +53,9 @@ Tenants and landlords may seek an assessment on the following areas.
 
 <br><u>Landlord’s Financial Hardship & Exceptional Circumstances</u><br>
 
-<li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on [Eligibility for Financial Hardship for Landlords](/covid19-relief/further-information-on-application-for-assessment#landlords) </li>
+<li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on <a href="/covid19-relief/further-information-on-application-for-assessment#landlords">Eligibility for Financial Hardship for Landlords</a> </li>
 
-<li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on [Just and Equitable Reversal or Reduction of Rental Waiver](/covid19-relief/further-information-on-application-for-assessment#just))</li>
+<li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on <a href="/covid19-relief/further-information-on-application-for-assessment#just">Just and Equitable Reversal or Reduction of Rental Waiver</a>)</li>
 
 <br><u>Computation of Rental Waiver</u><br>
 
