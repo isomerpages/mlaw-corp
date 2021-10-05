@@ -95,8 +95,8 @@ More information will be provided when application opens subsequently.
 **Form 1W**
 
 Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
-- If applying on behalf of an entity, please use this link (CorpPass)
-- If applying as an individual, please use this link  (SingPass) 
+- If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-corppass) (CorpPass)
+- If applying as an individual, please use this [link](https://go.gov.sg/rentalwaiver-application)  (SingPass) 
 
 <u>Assessment of rental waiver amount</u>
 
@@ -110,9 +110,9 @@ More information will be provided when application opens subsequently.
 
 **Form 1AW**
 
-Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
-- If applying on behalf of an entity, please use this link (CorpPass)
-- If applying as an individual, please use this link (SingPass) 
+Applications for assessment must be accompanied by the relevant documents as specified in the [Registrar’s Directives](https://go.gov.sg/regdirectives-rwf2021):
+- If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-calculations-corppass) (CorpPass)
+- If applying as an individual, please use this [link](https://go.gov.sg/rentalwaiver-application-calculations) (SingPass) 
 
 <u>Acknowledgement by Registry</u>
 
