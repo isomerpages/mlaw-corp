@@ -22,7 +22,7 @@ third_nav_title: '7. Rental Waiver Framework 2021'
 
 <a href="#q1" id="a1">Q1.	Why has the Government decided to implement the Rental Waiver Framework?</a>
 
-<a href="#q2" id="a2">Q2.	Now that the Act has been passed in Parliament, what should I expect next?</a>
+<a href="#q2" id="a2">Q2.	Now that the Rental Waiver Framework has come into force, what should I expect next?</a>
 
 <a href="#q3" id="a3">Q3.	What should landlords and tenants do in the meantime, before receiving the Notice of Rental Waiver?</a>
 
@@ -35,11 +35,11 @@ To ensure a fair sharing of rental obligations over the P2(HA) periods between t
 
 Taken together with the Rental Support Scheme (RSS) cash payouts, eligible tenants in qualifying privately owned commercial properties will benefit from a total of 1.5 months of rental support. 
 
-<a name="q2">**Q2.	Now that the Act has been passed in Parliament, what should I expect next?**</a>
+<a name="q2">**Q2.	Now that the Rental Waiver Framework has come into force, what should I expect next?**</a>
 
 [For tenants] 
 
-You can expect to receive a Notice of Rental Waiver (Notice) from the Ministry of Law in the first half of October 2021, especially if you have received one or more payouts under the Rental Support Scheme (RSS) administered by IRAS. 
+You can expect to receive a Notice of Rental Waiver (Notice) from the Ministry of Law from 6 October 2021, especially if you have received one or more payouts under the Rental Support Scheme (RSS) administered by IRAS. 
 
 It is important to note that receipt of the Notice does not automatically qualify you for rental waiver from your landlord. 
 
@@ -49,11 +49,11 @@ If you determine that you meet all the eligibility criteria, you will have to ta
 
 You may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
 
-If you did not receive the Notice in the first half of October 2021, but are of the view that you are eligible for the second RSS payout (see criteria <a href="https://www.iras.gov.sg/irashome/Schemes/Property/Government-Cash-Payout--2021-Rental-Support-Scheme-/">here</a>) and/or the Rental Waiver Framework (RWF) (see criteria <a href="/covid19-relief/rental-waiver-framework-2021#eligibility">here</a>), you may make an application through IRAS’s <a href="https://go.gov.sg/irss-rss2-tenant">eligibility checker</a> before 12 November 2021. If you have not received the Notice but have already made an application for the second RSS payout, please wait for the outcome of your application; you do not need to take any further action.
+If you assess that you are eligible for the rental waiver under the RWF but have not received the second RSS payout and Notice by 15 October 2021, you should make an application for the second RSS payout through IRAS’s <a href="https://go.gov.sg/irss-rss2-tenant">eligibility checker</a> before 12 November 2021. If you have not received the Notice but have already made an application for the second RSS payout, please wait for the outcome of your application; you do not need to take any further action until you receive the Notice.
 
 [For landlords]
 
-Your tenant may receive a Notice of Rental Waiver (Notice) from the Ministry of Law in the first half of October 2021, especially if your tenant has received one or more payouts under the Rental Support Scheme (RSS) administered by IRAS. 
+Your tenant may receive a Notice of Rental Waiver (Notice) from the Ministry of Law from 6 October 2021, especially if your tenant has received one or more payouts under the Rental Support Scheme (RSS) administered by IRAS. 
 
 Upon receipt of the Notice, your tenant will have to assess if he/she is meets the eligibility criteria to receive the rental waiver from you. If your tenant determines that he/she is eligible, he/she will have to serve a copy of the Notice and relevant supporting documents to you. 
 
@@ -180,7 +180,7 @@ If your business is not part of any group of companies, this does not apply to y
 
 “Singapore group of entities” refers to a group of entities that are incorporated or established in Singapore and related to each other through ownership or control in such a way that the group is either required to prepare consolidated financial statements for financial reporting purposes (i) under FRS 110 or an equivalent accounting standard or (ii) due to equity interests in any of the entities were traded on any stock exchange in Singapore. 
 
-If the business is a member of a Singapore group of entities in the period 16 May 2021 to 18 August 2021, the group’s annual revenue must be not more than $100 million for the business to qualify for the rental waiver . 
+If the business is a member of a Singapore group of entities in the period 5 to 18 August 2021, the group’s annual revenue must be not more than $100 million for the business to qualify for the rental waiver . 
 
 <a name="q17">**Q17.	For the purposes of qualifying for the Rental Waiver Framework, why has the criteria for SMEs at group level (i.e. aggregate group annual revenue not more than $100m) been limited to related entities or parent companies incorporated or established in Singapore?**</a> 
 
@@ -252,7 +252,7 @@ Landlords and tenants are encouraged to work towards a mutual arrangement to imp
 
 If the landlord and tenant-occupier are unable to reach an agreement on the tenant’s eligibility, the property owner and/or any intermediary landlord(s) may make an application within 14 calendar days of receiving the Notice of Rental Waiver and necessary supporting documents (or copies of them), to have a rental waiver assessor ascertain whether the tenant-occupier is eligible under the Rental Waiver Framework. Any adjustment to the landlord’s rental waiver obligations is only made after a rental waiver assessor has made a determination on the matter. The rental waiver continues to apply while parties await the outcome of the assessment.
 
-More details on the application process will be shared in due course.
+You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
 
 
 <a name="q25">**Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant?**</a> 
@@ -261,16 +261,18 @@ Landlords and tenants are encouraged to work towards a mutual arrangement to imp
 
 If a landlord and tenant-occupier are unable to reach an agreement on the tenant’s eligibility, the property owner and/or any intermediary landlord(s) may make an application within 14 calendar days of receiving the Notice of Rental Waiver and necessary supporting documents (or copies of them), to have a rental waiver assessor ascertain whether the tenant-occupier is eligible. Any adjustment to the landlord’s rental waiver obligations is only made after a rental waiver assessor has made a determination on the matter. The rental waiver continues to apply while parties await the outcome of the assessment. 
 
-More details on the application process will be shared in due course.
+You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
 
 
 <a name="q26">**Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?**</a>
 
-More details on the application process will be shared in due course.
+Applicants applying for assessment on their eligibility for landlord financial hardship will have to provide the documents as specified in the [Registrar’s Directives](https://go.gov.sg/regdirectives-rwf2021), under the section on Application to Determine if a Landlord is Entitled to be Exempt from Paying the Rental Waiver on the Grounds of Financial Hardship.
+
+You may also refer to https://go.gov.sg/rwf2021app for more details on applications for assessment. 
 
 <a name="q27">**Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations?**</a>
 
-Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. More details on the application process will be shared in due course.
+Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
 
 
 ### <a name="6disp">Dispute Resolution </a> <a href="#s6" title="Return to top">↩</a> ###
@@ -334,11 +336,9 @@ Intermediary landlords should require a shorter time for complete service as com
 
 <a name="q34">**Q34.	What other financial assistance measures are available to landlords?**</a>
 
-MAS has worked with banks and finance companies on various relief measures to support individuals and businesses affected by COVID-19.
+Banks have committed to provide targeted assistance and restructuring solutions to borrowers.
 
-Landlords facing cash flow difficulties can apply to banks and finance companies for credit relief. Eligible individual landlords can make reduced instalments on their commercial and industrial property loans for up to 9 months, or 31 December 2021, whichever is earlier. A loan tenure extension of up to 3 years can also be discussed with lenders. 
-
-SME and larger corporate landlords can likewise work with their banks and finance companies on suitable repayment schedules if they require assistance.
+Landlords that face challenges meeting loan repayments should work with their lenders on suitable relief and restructuring options that are tailored to their circumstances.
 
 Those who need to access additional credit to meet their immediate cashflow needs can either apply for mortgage equity withdrawal loans, or loans under ESG’s Temporary Bridging Loan Programme or Working Capital Loan Scheme.
 
