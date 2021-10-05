@@ -93,12 +93,6 @@ For tenants whose lease agreements were not stamped on or before 2 August 2021,b
 
 More information will be provided when application opens subsequently.
 
-<b>Form 1W</b>
-
-Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
-- If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-corppass) (CorpPass)
-- If applying as an individual, please use this [link](https://go.gov.sg/rentalwaiver-application)  (SingPass) 
-
 <u>Assessment of rental waiver amount</u>
 
 Landlords or tenants who require an assessment on matters related to the computation of the rental waiver may submit applications for a rental waiver assessor’s determination under Form 1AW.
@@ -108,12 +102,6 @@ For landlords, applications must be made within 14 calendar days after receiving
 For tenants, applications must be made within 14 calendar days after complete service of the copy of the Notice of Rental Waiver and supporting documents to their landlord. 
 
 More information will be provided when application opens subsequently.
-
-<b>Form 1AW</b>
-
-Applications for assessment must be accompanied by the relevant documents as specified in the [Registrar’s Directives](https://go.gov.sg/regdirectives-rwf2021):
-- If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-calculations-corppass) (CorpPass)
-- If applying as an individual, please use this [link](https://go.gov.sg/rentalwaiver-application-calculations) (SingPass) 
 
 <u>Acknowledgement by Registry</u>
 
@@ -134,7 +122,7 @@ The tenant-occupier/landlord may, no later than 5 working days after being serve
 
 ##### <a name="info">D. Registry Information</a><a href="#refd" title="Return to top">↩</a> #####
 
-If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-793 (1800-CALL-RWF). The hotline will be open from 6 October 2021 onwards.
+If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-793 (1800-CALL-RWF). 
 
 The office hours of the Registry are —
 - between 8.30 a.m. and 6 p.m. from Monday to Thursday (except public holidays);
