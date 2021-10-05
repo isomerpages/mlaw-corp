@@ -28,7 +28,7 @@ The rental waiver assessment process is managed by the Registry of Rental Waiver
 
 Tenants and landlords may seek an assessment on the following areas. 
 
-**For Tenants**
+<b>For Tenants</b>
 
 <ol style="list-style-type: lower-alpha">
 <u>Issuance of Notice for Unstamped/ Late Stamped Leases</u>
@@ -42,7 +42,7 @@ Tenants and landlords may seek an assessment on the following areas.
 <li>The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
 </ol>
 
-**For Property Owners and/or Intermediary Landlords**
+<b>For Property Owners and/or Intermediary Landlords</b>
 
 <ol style="list-style-type: lower-alpha">
 <u>Tenant’s Eligibility</u>
@@ -53,15 +53,16 @@ Tenants and landlords may seek an assessment on the following areas.
 
 <u>Landlord’s Financial Hardship & Exceptional Circumstances</u>
 
-<li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on [Eligibility for Financial Hardship for Landlords](#landlords) </li>
+<li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on [Eligibility for Financial Hardship for Landlords](/covid19-relief/further-information-on-application-for-assessment#landlords) </li>
 
-<li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on [Just and Equitable Reversal or Reduction of Rental Waiver](#just))</li>
+<li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on [Just and Equitable Reversal or Reduction of Rental Waiver](/covid19-relief/further-information-on-application-for-assessment#just))</li>
 
 <u>Computation of Rental Waiver</u>
 
 <li>The actual amount of rent under the lease agreement. </li>
 
 <li>The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation. </li>
+</ol>
 
 <u><a name="landlords">Eligibility for Financial Hardship for Landlords</a></u>
 
@@ -92,7 +93,7 @@ For tenants whose lease agreements were not stamped on or before 2 August 2021,b
 
 More information will be provided when application opens subsequently.
 
-**Form 1W**
+<b>Form 1W</b>
 
 Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
 - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-corppass) (CorpPass)
@@ -108,7 +109,7 @@ For tenants, applications must be made within 14 calendar days after complete se
 
 More information will be provided when application opens subsequently.
 
-**Form 1AW**
+<b>Form 1AW</b>
 
 Applications for assessment must be accompanied by the relevant documents as specified in the [Registrar’s Directives](https://go.gov.sg/regdirectives-rwf2021):
 - If applying on behalf of an entity, please use this [link](https://go.gov.sg/rentalwaiver-application-calculations-corppass) (CorpPass)
