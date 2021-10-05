@@ -31,7 +31,7 @@ The mandatory rental waiver under the RWF is intended to establish a baseline po
  - Explainer videos on provisions for [tenants](https://m.facebook.com/story.php?story_fbid=182450123996002&id=100066930471710) and [landlords](https://m.facebook.com/story.php?story_fbid=182451420662539&id=100066930471710) 
  - [Declaration Form for Rental Waiver Framework](/files/rentalwaiverframework/RWF%20Declaration%20Form.pdf)
  - [Rental Waiver Calculator](/files/rentalwaiverframework/%5BFor%20Website%5D%20Rental%20Waiver%20Calculator%20v2.xlsx)
- - [Further Information on Application for Assessment]
+ - [Further Information on Application for Assessment](/covid19-relief/further-information-on-application-for-assessment)
 
 
 
