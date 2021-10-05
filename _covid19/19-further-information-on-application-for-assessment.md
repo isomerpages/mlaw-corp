@@ -30,49 +30,56 @@ Tenants and landlords may seek an assessment on the following areas.
 
 **For Tenants**
 
+<ol style="list-style-type: lower-alpha">
 <u>Issuance of Notice for Unstamped/ Late Stamped Leases</u>
 
-Whether it is just and equitable in the circumstances of the case for a Notice of Rental Waiver to be issued to the tenant-occupier even though the lease agreement was not stamped on or before 2 August 2021.
+<li>Whether it is just and equitable in the circumstances of the case for a Notice of Rental Waiver to be issued to the tenant-occupier even though the lease agreement was not stamped on or before 2 August 2021.</li>
 
 <u>Computation of Rental Waiver</u>
 
-The actual amount of rent under the lease agreement. 
+<li>The actual amount of rent under the lease agreement. </li>
 
-The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.
-
+<li>The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation.</li>
+</ol>
 
 **For Property Owners and/or Intermediary Landlords**
 
+<ol style="list-style-type: lower-alpha">
 <u>Tenant’s Eligibility</u>
 
-Whether the tenant-occupier is eligible for the rental waiver
+ 
+<li>Whether the tenant-occupier is eligible for the rental waiver</li>
 
-Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material
+<li>Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material</li>
 
 <u>Landlord’s Financial Hardship & Exceptional Circumstances</u>
 
-Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on Eligibility for Financial Hardship for Landlords) 
+<li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on [Eligibility for Financial Hardship for Landlords](#landlords) </li>
 
-Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on Just and Equitable Reversal or Reduction of Rental Waiver)
+<li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on [Just and Equitable Reversal or Reduction of Rental Waiver](#just))</li>
 
 <u>Computation of Rental Waiver</u>
 
-The actual amount of rent under the lease agreement. 
+<li>The actual amount of rent under the lease agreement. </li>
 
-The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation. 
+<li>The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation. </li>
 
-<u>Eligibility for Financial Hardship for Landlords</u>
+<u><a name="landlords">Eligibility for Financial Hardship for Landlords</a></u>
 
+ 
 The Government recognises that there are landlords who may face genuine financial hardship. Landlords who meet all the following criteria may apply to a rental waiver assessor to be fully exempt from their rental waiver obligations.
 
-The applicant should be the property owner, who is an individual or sole proprietor landlord, or a corporation whose operations consist wholly or mainly of the holding of investment properties (“holding company”), and is owned by one or more individuals and/or sole proprietors (who are individuals) who each meet the other two criteria below;
+<ol style="list-style-type: lower-alpha">
+<li>The applicant should be the property owner, who is an individual or sole proprietor landlord, or a corporation whose operations consist wholly or mainly of the holding of investment properties (“holding company”), and is owned by one or more individuals and/or sole proprietors (who are individuals) who each meet the other two criteria below;</li>
 
-The Annual Value of all investment properties owned by the applicant, or each shareholder of the holding company (whether solely or together with another person or by an investment holding company) is less than $60,000 as at 22 July 2021
+<li>The Annual Value of all investment properties owned by the applicant, or each shareholder of the holding company (whether solely or together with another person or by an investment holding company) is less than $60,000 as at 22 July 2021;</li>
 
-The average monthly rental or dividend income from all properties owned by the applicant, or each shareholder of the holding company (whether directly, or indirectly from investment holding companies) constitutes 75% or more of his/her average monthly gross income
+<li>The average monthly rental or dividend income from all properties owned by the applicant, or each shareholder of the holding company (whether directly, or indirectly from investment holding companies) constitutes 75% or more of his/her average monthly gross income.</li>
+</ol>
+ 
+<u><a name="just">Just and Equitable Reversal or Reduction of Rental Waiver</a></u> 
 
-<u>Just and Equitable Reversal or Reduction of Rental Waiver</u> 
-
+ 
 Landlords who require assistance due to exceptional circumstances, but do not meet the eligibility criteria for financial hardship may apply to a rental waiver assessor to represent their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This includes cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
 
 
@@ -91,8 +98,8 @@ More information will be provided when application opens subsequently.
 **Form 1W**
 
 Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
-If applying on behalf of an entity, please use this link (CorpPass)
-If applying as an individual, please use this link  (SingPass) 
+- If applying on behalf of an entity, please use this link (CorpPass)
+- If applying as an individual, please use this link  (SingPass) 
 
 <u>Assessment of rental waiver amount</u>
 
@@ -107,9 +114,8 @@ More information will be provided when application opens subsequently.
 **Form 1AW**
 
 Applications for assessment must be accompanied by the relevant documents as specified in the Registrar’s Directives:
-If applying on behalf of an entity, please use this link (CorpPass)
-If applying as an individual, please use this link (SingPass) 
-
+- If applying on behalf of an entity, please use this link (CorpPass)
+- If applying as an individual, please use this link (SingPass) 
 
 <u>Acknowledgement by Registry</u>
 
@@ -133,10 +139,7 @@ The tenant-occupier/landlord may, no later than 5 working days after being serve
 If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-793 (1800-CALL-RWF). The hotline will be open from 6 October 2021 onwards.
 
 The office hours of the Registry are —
-
-between 8.30 a.m. and 6 p.m. from Monday to Thursday (except public holidays);
-
-between 8.30 a.m. and 5.30 p.m. on Friday (except public holidays); but
-
-between 8.30 a.m. and 12 noon on the eves of the New Year, Lunar New Year and Christmas.
+- between 8.30 a.m. and 6 p.m. from Monday to Thursday (except public holidays);
+- between 8.30 a.m. and 5.30 p.m. on Friday (except public holidays); but
+- between 8.30 a.m. and 12 noon on the eves of the New Year, Lunar New Year and Christmas.
 
