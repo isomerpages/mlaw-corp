@@ -46,7 +46,6 @@ Tenants and landlords may seek an assessment on the following areas.
 
 <ol style="list-style-type: lower-alpha">
 <u>Tenant’s Eligibility</u>
-
  
 <li>Whether the tenant-occupier is eligible for the rental waiver</li>
 
@@ -66,7 +65,6 @@ Tenants and landlords may seek an assessment on the following areas.
 
 <u><a name="landlords">Eligibility for Financial Hardship for Landlords</a></u>
 
- 
 The Government recognises that there are landlords who may face genuine financial hardship. Landlords who meet all the following criteria may apply to a rental waiver assessor to be fully exempt from their rental waiver obligations.
 
 <ol style="list-style-type: lower-alpha">
@@ -79,7 +77,6 @@ The Government recognises that there are landlords who may face genuine financia
  
 <u><a name="just">Just and Equitable Reversal or Reduction of Rental Waiver</a></u> 
 
- 
 Landlords who require assistance due to exceptional circumstances, but do not meet the eligibility criteria for financial hardship may apply to a rental waiver assessor to represent their circumstances. Assessors will consider if it is just and equitable to exempt or reduce the rental waiver based on each landlord’s circumstances. This includes cases where landlords had provided significant rental waivers or reductions prior to 16 May 2021.
 
 
