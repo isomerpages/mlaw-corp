@@ -210,7 +210,7 @@ Landlords who require assistance but do not meet the eligibility criteria for fi
 <u>Application for Assessment</u>
 <br>
  
-Please refer to this link  for Further Information on Application for Assessment. <br>
+Please refer to this [link](/covid19-relief/further-information-on-application-for-assessment) for Further Information on Application for Assessment. <br>
 <br>
   
 <p><sup id="fn1">1. Gross rent is what is agreed on under the lease agreement or licence, and will include gross turnover rent, maintenance fees and service charges. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
