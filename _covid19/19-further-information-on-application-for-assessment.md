@@ -45,26 +45,26 @@ Tenants and landlords may seek an assessment on the following areas.
 <b>For Property Owners and/or Intermediary Landlords</b>
 
 <ol style="list-style-type: lower-alpha">
-<u>Tenant’s Eligibility</u>
+<u>Tenant’s Eligibility</u><br>
  
 <li>Whether the tenant-occupier is eligible for the rental waiver</li>
 
 <li>Whether their tenant-occupier or intermediary landlord served the Notice of Rental Waiver and supporting documents in accordance with the requirements under the Act and if not, whether this non-compliance was material</li>
 
-<u>Landlord’s Financial Hardship & Exceptional Circumstances</u>
+<br><u>Landlord’s Financial Hardship & Exceptional Circumstances</u><br>
 
 <li>Whether the property owner meets the eligibility criteria to be exempted from providing the rental waiver, on the grounds of financial hardship (see subsection on [Eligibility for Financial Hardship for Landlords](/covid19-relief/further-information-on-application-for-assessment#landlords) </li>
 
 <li>Whether it is just and equitable in the circumstances of the case for the rental waiver to be reversed or reduced (see subsection on [Just and Equitable Reversal or Reduction of Rental Waiver](/covid19-relief/further-information-on-application-for-assessment#just))</li>
 
-<u>Computation of Rental Waiver</u>
+<br><u>Computation of Rental Waiver</u><br>
 
 <li>The actual amount of rent under the lease agreement. </li>
 
 <li>The actual amount of any component of the formula used to compute the prescribed amount of rent that is to be waived. The formulas will be prescribed in the subsidiary legislation. </li>
 </ol>
 
-<u><a name="landlords">Eligibility for Financial Hardship for Landlords</a></u>
+<br><u><a name="landlords">Eligibility for Financial Hardship for Landlords</a></u>
 
 The Government recognises that there are landlords who may face genuine financial hardship. Landlords who meet all the following criteria may apply to a rental waiver assessor to be fully exempt from their rental waiver obligations.
 
