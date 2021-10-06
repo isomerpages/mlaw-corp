@@ -25,8 +25,8 @@ The mandatory rental waiver under the RWF is intended to establish a baseline po
 
 <u>Additional Resources</u>
  - [Definitions](/files/rentalwaiverframework/RWF2021_Additional Resources_Definitions.pdf) <br>
- - Infographic: Guide for Tenants to Claim Rental Waiver [English](/files/news/press-releases/2021/04/Annex B_RWF2021_Process for Tenants to Claim Rental Waiver.pdf) [Chinese](/files/rentalwaiverframework/Chinese_Process for Tenants to Claim Rental Waiver.pdf) [Malay](/files/rentalwaiverframework/Malay_Process for Tenants to Claim Rental Waiver.pdf) [Tamil](/files/rentalwaiverframework/Tamil_Process for Tenants to Claim Rental Waiver.pdf) <br>
- - Infographic: Guide for Tenants & Landlords to Apply for Assessment [English] [Chinese] [Malay] [Tamil]
+ - Infographic: Guide for Tenants to Claim Rental Waiver [English](/files/news/press-releases/2021/07/Guide_for_Tenants_to_Claim_Rental_Waiver_English.pdf) 
+ - Infographic: Guide for Tenants & Landlords to Apply for Assessment [English](/files/news/press-releases/2021/07/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_English.pdf) 
  - [FAQs](/covid19-relief/faq/rwf2021) <br>
  - Explainer videos on provisions for [tenants](https://m.facebook.com/story.php?story_fbid=182450123996002&id=100066930471710) and [landlords](https://m.facebook.com/story.php?story_fbid=182451420662539&id=100066930471710) 
  - [Declaration Form for Rental Waiver Framework](/files/rentalwaiverframework/RWF%20Declaration%20Form.pdf)
