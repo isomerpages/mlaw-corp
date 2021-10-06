@@ -83,15 +83,13 @@ Landlords who require assistance due to exceptional circumstances, but do not me
 
 ##### <a name="process">C. Application Process</a><a href="#refc" title="Return to top">↩</a> #####
 
-_Assessment of the tenant’s eligibility and/or landlord’s financial hardship or exceptional circumstances (Excluding rental waiver calculations)_
+<u><i>Assessment of the tenant’s eligibility and/or landlord’s financial hardship or exceptional circumstances (Excluding rental waiver calculations)</i><u>
 
 Landlords seeking assessment on matters related to tenants’ eligibility for rental waiver or landlord’s financial hardship or exceptional circumstances, and tenants with unstamped or late stamped leases seeking assessment on their eligibility to receive a Notice of Rental Waiver  may submit an application under Form 1W.
 
 For landlords, applications must be made within 14 calendar days after receiving the copies of the Notice of Rental Waiver and supporting documents from their tenant.
 
 For tenants whose lease agreements were not stamped on or before 2 August 2021,but require assistance under the RWF and meet all other eligibility criteria, applications must be made by 6 December 2021.
-
-More information will be provided when application opens subsequently.
 
 <u>Assessment of rental waiver amount</u>
 
