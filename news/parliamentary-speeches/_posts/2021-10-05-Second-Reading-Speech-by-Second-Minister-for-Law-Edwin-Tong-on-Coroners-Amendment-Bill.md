@@ -76,7 +76,7 @@ permalink: /news/parliamentary-speeches/2021-10-05-Second-Reading-Speech-by-Seco
 11.	These steps and safeguards are sufficient to ensure correct identification of the deceased. Indeed, as far as we can tell, there have been, so far, no cases of misidentification since this set of protocols, processes and safeguards were put in place.
 
 {:start="12"}
-12.	Clause 12 of the Bill, which makes the body-viewing by the Coroner discretionary, will:
+12.	Clause 2 of the Bill, which makes the body-viewing by the Coroner discretionary, will:
 
     (a)	Expedite the release of the body to the family; and
 
