@@ -91,6 +91,14 @@ For landlords, applications must be made within 14 calendar days after receiving
 
 For tenants whose lease agreements were not stamped on or before 2 August 2021,but require assistance under the RWF and meet all other eligibility criteria, applications must be made by 6 December 2021.
 
+<b> Form 1W</b>
+
+Applications for assessment must be accompanied by the relevant documents as specified in the [Registrar’s Directives](/files/rentalwaiverframework/RWF2021_Registrar_Directives.pdf): 
+
+* If applying on behalf of an entity, please use this link (<a href="https://go.gov.sg/rentalwaiver-application-corppass">CorpPass</a>)
+* If applying as an individual, please use this link (<a href="https://go.gov.sg/rentalwaiver-application">SingPass</a>) 
+
+ 
 <u>Assessment of rental waiver amount</u>
 
 Landlords or tenants who require an assessment on matters related to the computation of the rental waiver may submit applications for a rental waiver assessor’s determination under Form 1AW.
@@ -99,7 +107,13 @@ For landlords, applications must be made within 14 calendar days after receiving
 
 For tenants, applications must be made within 14 calendar days after complete service of the copy of the Notice of Rental Waiver and supporting documents to their landlord. 
 
-More information will be provided when application opens subsequently.
+<b>Form 1AW</b>
+ 
+Applications for assessment must be accompanied by the relevant documents as specified in the [Registrar’s Directives](/files/rentalwaiverframework/RWF2021_Registrar_Directives.pdf):  
+
+* If applying on behalf of an entity, please use this link (<a href="https://go.gov.sg/rentalwaiver-application-calculations-corppass">CorpPass</a>)
+* If applying as an individual, please use this link (<a href="https://go.gov.sg/rentalwaiver-application-calculations">SingPass</a>) 
+ 
 
 <u>Acknowledgement by Registry</u>
 
