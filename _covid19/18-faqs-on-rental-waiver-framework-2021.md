@@ -252,7 +252,7 @@ Landlords and tenants are encouraged to work towards a mutual arrangement to imp
 
 If the landlord and tenant-occupier are unable to reach an agreement on the tenant’s eligibility, the property owner and/or any intermediary landlord(s) may make an application within 14 calendar days of receiving the Notice of Rental Waiver and necessary supporting documents (or copies of them), to have a rental waiver assessor ascertain whether the tenant-occupier is eligible under the Rental Waiver Framework. Any adjustment to the landlord’s rental waiver obligations is only made after a rental waiver assessor has made a determination on the matter. The rental waiver continues to apply while parties await the outcome of the assessment.
 
-You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
+You may visit <a href="https://go.gov.sg/rwf2021app" target="new">https://go.gov.sg/rwf2021app</a> for more details on applications for assessment.
 
 
 <a name="q25">**Q25.	What can a landlord do if he is not satisfied that his tenant is eligible for the rental waiver after reviewing the documents provided by his tenant?**</a> 
@@ -261,18 +261,18 @@ Landlords and tenants are encouraged to work towards a mutual arrangement to imp
 
 If a landlord and tenant-occupier are unable to reach an agreement on the tenant’s eligibility, the property owner and/or any intermediary landlord(s) may make an application within 14 calendar days of receiving the Notice of Rental Waiver and necessary supporting documents (or copies of them), to have a rental waiver assessor ascertain whether the tenant-occupier is eligible. Any adjustment to the landlord’s rental waiver obligations is only made after a rental waiver assessor has made a determination on the matter. The rental waiver continues to apply while parties await the outcome of the assessment. 
 
-You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
+You may visit <a href="https://go.gov.sg/rwf2021app" target="new">https://go.gov.sg/rwf2021app</a> for more details on applications for assessment.
 
 
 <a name="q26">**Q26.	What documents must a landlord submit to prove his eligibility for financial hardship?**</a>
 
-Applicants applying for assessment on their eligibility for landlord financial hardship will have to provide the documents as specified in the [Registrar’s Directives](https://go.gov.sg/regdirectives-rwf2021), under the section on Application to Determine if a Landlord is Entitled to be Exempt from Paying the Rental Waiver on the Grounds of Financial Hardship.
+Applicants applying for assessment on their eligibility for landlord financial hardship will have to provide the documents as specified in the [Registrar’s Directives](/files/rentalwaiverframework/RWF2021_Registrar_Directives.pdf), under the section on Application to Determine if a Landlord is Entitled to be Exempt from Paying the Rental Waiver on the Grounds of Financial Hardship.
 
-You may also refer to https://go.gov.sg/rwf2021app for more details on applications for assessment. 
+You may also refer to <a href="https://go.gov.sg/rwf2021app" target="new">https://go.gov.sg/rwf2021app</a> for more details on applications for assessment. 
 
 <a name="q27">**Q27.	If a landlord had granted short-term lease extensions to his tenants with significant rental reductions, can this reduce his rental waiver obligations?**</a>
 
-Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. You may visit https://go.gov.sg/rwf2021app for more details on applications for assessment.
+Landlords may submit an application within 14 calendar days of receiving copies of the Notice of Rental Waiver and supporting documents, to have a rental waiver assessor ascertain whether their rental waiver obligation may be offset by the assistance that they had provided. You may visit <a href="https://go.gov.sg/rwf2021app" target="new">https://go.gov.sg/rwf2021app</a> for more details on applications for assessment.
 
 
 ### <a name="6disp">Dispute Resolution </a> <a href="#s6" title="Return to top">↩</a> ###
@@ -342,4 +342,4 @@ Landlords that face challenges meeting loan repayments should work with their le
 
 Those who need to access additional credit to meet their immediate cashflow needs can either apply for mortgage equity withdrawal loans, or loans under ESG’s Temporary Bridging Loan Programme or Working Capital Loan Scheme.
 
-Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: <a href="www.mas.gov.sg/regulation/covid-19/" target="new">www.mas.gov.sg/regulation/covid-19/</a>.
+Please refer to this link to find out more about the relief measures announced by MAS and the financial industry: <a href="https://www.mas.gov.sg/regulation/covid-19/" target="new">www.mas.gov.sg/regulation/covid-19/</a>.
