@@ -14,7 +14,7 @@ third_nav_title: '7. Rental Waiver Framework 2021'
  - <a href="#info" id="refd">D. Registry Information</a>
 
 ##### Additional Resources ##### 
-Registrar’s Directives
+[Registrar’s Directives](/files/rentalwaiverframework/RWF2021_Registrar_Directives.pdf)
 
 ##### <a name="intro">A. Introduction</a><a href="#refa" title="Return to top">↩</a> #####
 
