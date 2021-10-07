@@ -25,8 +25,8 @@ The mandatory rental waiver under the RWF is intended to establish a baseline po
 
 <u>Additional Resources</u>
  - [Definitions](/files/rentalwaiverframework/RWF2021_Additional Resources_Definitions.pdf) <br>
- - Infographic: Guide for Tenants to Claim Rental Waiver [English](/files/news/press-releases/2021/07/Guide_for_Tenants_to_Claim_Rental_Waiver_English.pdf) 
- - Infographic: Guide for Tenants & Landlords to Apply for Assessment [English](/files/news/press-releases/2021/07/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_English.pdf) 
+ - Infographic: Guide for Tenants to Claim Rental Waiver [English](/files/news/press-releases/2021/07/Guide_for_Tenants_to_Claim_Rental_Waiver_English.pdf) [Chinese](/files/rentalwaiverframework/Guide_for_Tenants_to_Claim_Rental_Waiver_Chinese.pdf) [Malay](/files/rentalwaiverframework/Guide_for_Tenants_to_Claim_Rental_Waiver_Malay.pdf) [Tamil](/files/rentalwaiverframework/Guide_for_Tenants_to_Claim_Rental_Waiver_Tamil.pdf)
+ - Infographic: Guide for Tenants & Landlords to Apply for Assessment [English](/files/news/press-releases/2021/07/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_English.pdf) [Chinese](/files/rentalwaiverframework/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_Chinese.pdf) [Malay](/files/rentalwaiverframework/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_Malay.pdf) [Tamil](/files/rentalwaiverframework/Guide_for_Tenants_and_Landlords_to_Apply_for_Assessment_Tamil.pdf)
  - [FAQs](/covid19-relief/faq/rwf2021) <br>
  - Explainer videos on provisions for [tenants](https://m.facebook.com/story.php?story_fbid=182450123996002&id=100066930471710) and [landlords](https://m.facebook.com/story.php?story_fbid=182451420662539&id=100066930471710) 
  - [Declaration Form for Rental Waiver Framework](/files/rentalwaiverframework/RWF%20Declaration%20Form.pdf)
