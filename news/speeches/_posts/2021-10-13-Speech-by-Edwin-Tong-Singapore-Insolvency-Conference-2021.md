@@ -10,7 +10,7 @@ permalink: /news/speeches/2021-10-13-Speech-by-Edwin-Tong-Singapore-Insolvency-C
 **Mr. Sushil Nair**, Chairperson of the Insolvency Practice Committee, The Law Society of Singapore<br>
 **Mr. Sim Kwan Kiat and Mr. Darius Tay**, Co-chairs of the Conference Organising Committee<br>
 Esteemed Judges<br>
-Distinguished Guestsfriends<br>
+Distinguished Guests<br>
 Ladies and Gentlemen<br>
 
 **I. Introduction**
@@ -40,7 +40,7 @@ Ladies and Gentlemen<br>
     
     c.	Finally, some of the challenges and opportunities that we see ahead, some changes that we are thinking about to keep ahead of the competition and continue to enhance and, if possible, entrench our position as a restructuring hub.
 
-**II. Singapore’s Progress as a Restructuring and Insolvency Centre **
+**II. Singapore’s Progress as a Restructuring and Insolvency Centre**
 
 <u>Current Position</u>
 
@@ -154,8 +154,6 @@ Ladies and Gentlemen<br>
 
 {:start="16"}
 16.	Next, let me look at what we can do to make Singapore a forum of choice, to be a nodal jurisdiction. I would say the ingredients are there. Singapore is well-placed to take this step, to move towards the next level as a key nodal jurisdiction.
-
-**Be people for others**
 
 {:start="17"}
 17.	I’m sure all of you could point to a myriad of different factors – such as having a stronger bench, which I'll touch on in a moment, thought leadership coming through from so many of our insolvency professionals, from the cases that we see. 
