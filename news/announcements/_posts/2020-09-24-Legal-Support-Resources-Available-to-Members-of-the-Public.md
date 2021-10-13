@@ -14,7 +14,7 @@ a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal
  
 b. Law Society Pro Bono Services (LSPBS) provides criminal legal aid to accused persons with limited means, for matters which the Courts continue to hear. Please visit [https://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx#apply](https://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx#apply) for further details.
  
-c. Law Society’s Community Legal Clinics provide legal advice to Singapore Citizens and Permanent Residents living in Singapore who are unable to afford a lawyer via video conferencing. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
+c. Law Society Pro Bono Services’ Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
  
 d. A number of other legal clinics in Singapore provide legal advice. Refer to <u>Annex A</u> for details on the eligibility criteria and how to make an appointment.
  
