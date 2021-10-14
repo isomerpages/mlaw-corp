@@ -45,9 +45,9 @@ breadcrumb: FAQs
 **2. Who does the MinLaw COVID-19 (Wedding) Mediation Programme (“MCMP”) apply to?** 
 * The MCMP applies to:
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
-  * Where the wedding event was scheduled to be held on a date between 8 May 2021 and 30 September 2021 (both dates inclusive).
+  * Where the wedding event was scheduled to be held on a date on or after 8 May 2021.
 
-* Interested parties must submit a Request for Mediation by **31 October 2021**. Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
+* Interested parties must submit a Request for Mediation by **31 December 2021**. Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
 **3. Does the MCMP apply to contracts relating to non-wedding events?** 
@@ -70,7 +70,7 @@ breadcrumb: FAQs
 <br>
 (2)	The contract is for the provision of goods or services for a wedding event; and
 <br>
-(3)	The wedding event was scheduled to take place on a date between 8 May 2021 and 30 September 2021 (both dates inclusive).
+(3)	The wedding event was scheduled to take place on a date on or after 8 May 2021.
 <br>
 * Please note that your counterparty is at liberty to decline to attend mediation, and enforce the determination.
 
@@ -123,7 +123,7 @@ breadcrumb: FAQs
 * You can expedite the process by obtaining the other party’s agreement to mediate before submitting the Request for Mediation. 
 
 * Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)" for information on the expected timeframes.  
-* Even if the mediation is not scheduled before your wedding event, after your wedding event proceeds, the parties are still eligible for mediation under the MCMP to settle any outstanding disputes, if the wedding event was scheduled to take place on a date between 8 May 2021 and 30 September 2021 (both dates inclusive).
+* Even if the mediation is not scheduled before your wedding event, after your wedding event proceeds, the parties are still eligible for mediation under the MCMP to settle any outstanding disputes, if the wedding event was scheduled to take place on a date on or after 8 May 2021.
 
 **12. My wedding event is scheduled to be held (e.g. on 25 July 2021) before the scheduled mediation session (e.g. on 2 August 2021). Must I still continue to fulfil my existing contractual obligations (e.g. continue paying my vendor)?**
 * Unless and until another agreement is reached (whether privately with the vendor, or during mediation under the MCMP), the existing contract is binding. A failure to fulfil one’s contractual obligations may result in a breach of contract. 
@@ -171,7 +171,7 @@ breadcrumb: FAQs
 **18. We entered a settlement agreement during the mediation. However, I have since realised that I cannot meet my obligations under the settlement agreement. What can I do?** 
 * A signed settlement agreement is binding and can be enforced in Court by the other party. Therefore, we encourage both parties to agree to the terms of a settlement agreement that they are able to comply with. 
 
-* However, after a settlement agreement is entered into, if parties agree, they may request for a subsequent mediation session by writing in to the Ministry of Law by 31 October 2021. If the other party does not agree to a subsequent mediation, or no further settlement agreement is reached at the re-mediation session, the first settlement agreement remains binding on the parties. You may wish to seek legal advice on your contractual obligations.
+* However, after a settlement agreement is entered into, if parties agree, they may request for a subsequent mediation session by writing in to the Ministry of Law by 31 December 2021. If the other party does not agree to a subsequent mediation, or no further settlement agreement is reached at the re-mediation session, the first settlement agreement remains binding on the parties. You may wish to seek legal advice on your contractual obligations.
 
 **19. We signed a settlement agreement during the mediation. However, the other party did not honour the settlement agreement. What can I do?**
 * A settlement agreement is a legally binding agreement. You may commence legal proceedings to enforce the terms of the settlement agreement.
