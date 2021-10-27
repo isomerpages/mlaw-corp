@@ -13,7 +13,7 @@ Organisation Structure
   <a href="/files/MinLaw_Organisation_Structure.pdf">
     <br>
     <br>
-    <img src="/images/MinLaw_Organisation_Structurejpg" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/MinLaw_Organisation_Structure.jpg" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
