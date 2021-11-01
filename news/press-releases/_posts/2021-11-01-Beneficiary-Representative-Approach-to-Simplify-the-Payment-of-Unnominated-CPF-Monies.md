@@ -19,7 +19,7 @@ permalink: /news/press-releases/2021-11-01-Beneficiary-Representative-Approach-t
 3.	Under the new approach, a BR may be appointed to represent all eligible beneficiaries and make one consolidated claim for the deceased CPF member’s un-nominated CPF monies. This simplified procedure is expected to relieve the administrative burden on the other beneficiaries and could halve the time needed to disburse the monies from the current three to six months, to one to three months instead. 
 
 {:start="4"}
-4.	When implemented, the next-of-kin of a deceased CPF member will be able to adopt the new BR approach (where the un-nominated CPF monies in the deceased CPF member’s account do not exceed $10,000) in the following scenarios: 
+4.	When implemented, the next-of-kin of a deceased CPF member will be able to adopt the new BR approach (where the un-nominated CPF monies in the deceased CPF member’s account <b>do not exceed</b> $10,000) in the following scenarios: 
 
     a.	Where the CPF member had passed away before the implementation of the new BR approach and there are unclaimed CPF monies as at the date of implementation, and there had been no previous distribution of the deceased member’s CPF monies via the current process. 
 
