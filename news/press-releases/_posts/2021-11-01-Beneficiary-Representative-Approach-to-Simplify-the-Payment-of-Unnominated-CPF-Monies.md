@@ -8,7 +8,7 @@ permalink: /news/press-releases/2021-11-01-Beneficiary-Representative-Approach-t
 01 Nov 2021 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.	1.	The Ministry of Law is proposing to adopt a “Beneficiary Representative” (BR) approach to simplify the payment of deceased CPF members’ un-nominated CPF monies. The change is proposed as part of the Central Provident Fund (Amendment) Bill, which was tabled for Second Reading in Parliament today. If passed, we expect to implement this new approach by the second quarter of 2022. 
+1.	The Ministry of Law is proposing to adopt a “Beneficiary Representative” (BR) approach to simplify the payment of deceased CPF members’ un-nominated CPF monies. The change is proposed as part of the Central Provident Fund (Amendment) Bill, which was tabled for Second Reading in Parliament today. If passed, we expect to implement this new approach by the second quarter of 2022. 
 
 **Simpler Process to Relieve Administrative Burden on Beneficiaries**
 
