@@ -1,7 +1,7 @@
 ---
-title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on Common Definition of Mental Disorder and Mental Disability Across Different Legislation and Review on Criminal legislation Relevant to Persons with Mental Disorder and Mental Disability
+title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on Review on Criminal Legislation Relevant to Persons with Mental Disorder and Mental Disability
 date: 2021-11-02
-permalink: /news/parliamentary-speeches/2021-11-02-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-criminal-legislation-relevant-for-persons-with-Mental-Disorder-And-Mental-Disability.md
+permalink: /news/parliamentary-speeches/2021-11-02-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-criminal-legislation-relevant-for-persons-with-Mental-Disorder-And-Mental-Disability
 
 ---
  
