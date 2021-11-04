@@ -48,7 +48,7 @@ permalink: /news/parliamentary-speeches/2021-11-03-Second-Reading-Speech-by-Seco
 
     (a)	First, the composition of the LSC was expanded. Since independence, the LSC comprised the Chief Justice, the Attorney-General, the Chairman of the Public Service Commission (“Chairman/PSC”), a Supreme Court Judge, and two members of the PSC, as nominated by the Chairman/PSC. Unlike today, all of the members of the LSC were members by virtue of some other office that they held separately.
         
-        The 2007 changes widened the LSC’s membership. The CJ, AG and Chairman/PSC would continue to be on the LSC, but in addition, up to 6 additional members, who need not be Supreme Court Judges or PSC members, could be nominated by the Prime Minister, the CJ and Chairman/PSC. The rationale was to bring in members, including those from the private sector, with a wider range of experience (e.g. in personnel management), or who have knowledge of the legal service or the legal profession.
+    The 2007 changes widened the LSC’s membership. The CJ, AG and Chairman/PSC would continue to be on the LSC, but in addition, up to 6 additional members, who need not be Supreme Court Judges or PSC members, could be nominated by the Prime Minister, the CJ and Chairman/PSC. The rationale was to bring in members, including those from the private sector, with a wider range of experience (e.g. in personnel management), or who have knowledge of the legal service or the legal profession.
     
     (b)	A second key change that was made then was to put in place a system of autonomous personnel boards (“PBs”), which would have charge over different classes of LSOs. I will cover this in more detail later on in my speech.
 
