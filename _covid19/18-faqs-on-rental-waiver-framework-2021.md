@@ -226,7 +226,7 @@ Revenues accounted for outside of Singapore would not be an accurate reflection 
 
 <a href="#q23" id="a23">Q23.	What should I do if I do not know my landlord’s email or address, or he does not want to give it to me?/ Why must I send documents via email or registered post?/ Can service be done by normal post?/ Can service be done by WhatsApp?</a>
 
-<a href="#q22" id="a22">Q24. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?</a>
+<a href="#q24" id="a24">Q24. My landlord insists that I need to do a Statutory Declaration even when I provide profit and loss statements. Is this really necessary?</a>
 
 
 <a name="q20">**Q20.	What if I do not have the necessary supporting documents?**</a>
