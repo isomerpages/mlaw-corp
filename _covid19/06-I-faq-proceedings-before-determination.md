@@ -95,7 +95,7 @@ third_nav_title: '1C. Application for an Assessor’s Determination'
 
 * An Assessor’s determination is binding on all parties to the application. 
 
-* Under the Act, an Assessor’s determination for one party to pay a sum of money to the other party may, with the leave of Court, be enforced in the same manner as a judgment or an order of the court. Please seek legal advice on how you may enforce the determination. 
+* Under the Act, an Assessor’s determination for one party to pay a sum of money to the other party may, with the leave of Court, be enforced in the same manner as a judgment or an order of the court. In this regard, please take note that the Small Claims Tribunal does **not** have the jurisdiction to hear an application for leave to enforce a determination, or an application to enforce a determination. Applications should be filed in the Magistrate's Court (for claims up to $60,000), District Court (for claims up to $250,000) or High Court (General Division) (for claims above $250,000). Please seek legal advice on how you may enforce the determination. 
 
 * In addition, a person who, without reasonable excuse, fails to comply with an Assessor’s determination to pay a sum of money to the other party, is guilty of a criminal offence. 
 
