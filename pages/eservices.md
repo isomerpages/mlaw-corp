@@ -7,7 +7,7 @@ breadcrumb: E-Services
 
 **E-Services**
 
-Our e-Services was inaccessible on 16 Dec 2021, from 3.35pm to 4.20pm. We apologise for any inconvenience caused. Thank you.
+Our e-Services was unaccessible on 16 Dec 2021, from 3.35pm to 4.20pm. We apologise for any inconvenience caused. Thank you.
  
 <br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)
