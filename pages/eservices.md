@@ -9,7 +9,7 @@ breadcrumb: E-Services
 
 <br>
 
-There will be scheduled maintenance for Insolvency Office, Public Trustee's Office, Registry of Moneylenders and Registry of Pawnbroker E-Services on 17 Dec 2021, 1030 pm to 19 Dec 2021, 9pm. During this maintenance window, the E-Services will not be accessible. We appreciate your patience and understanding. Thank you.
+There will be scheduled maintenance for Insolvency Office, Public Trustee's Office, Registry of Moneylenders and Registry of Pawnbroker E-Services on 17 Dec 2021, 1030 pm to 20 Dec 2021, 6am. During this maintenance window, the E-Services will not be accessible. We appreciate your patience and understanding. Thank you.
 <br><br>
 
 <b>Announcement from Public Trustee's Office (PTO):</b> We will be launching our new E-Services for PTO on 27 December 2021. 
