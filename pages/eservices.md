@@ -13,7 +13,7 @@ breadcrumb: E-Services
 
 <br><br>	
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
-2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)	
+2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)	
 4. [Registry of Pawnbroker](https://eservices.mlaw.gov.sg/rop/)	
 5. [Legal Services Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)	
