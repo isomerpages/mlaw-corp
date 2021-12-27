@@ -58,7 +58,7 @@ links:
               url: 'https://eservices.mlaw.gov.sg/io/'
               external: true
             - title: 'Public Trustees Office'
-              url: 'https://eservices.mlaw.gov.sg/pto/welcome.xhtml'
+              url: 'https://eservices.mlaw.gov.sg/pto/'
               external: true
             - title: 'Registry Of Moneylenders'
               url: 'https://eservices.mlaw.gov.sg/rom/'
