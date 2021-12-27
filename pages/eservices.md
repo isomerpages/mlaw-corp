@@ -7,10 +7,8 @@ breadcrumb: E-Services
 
 **E-Services**
 
-<b>Announcement from Public Trustee's Office (PTO):</b> We will be launching our new E-Services for PTO on 27 December 2021. 
-<br>Please note that users must have a valid Singpass or Corppass account to access the E-services.  For foreigners, you are required to register for a Singpass before you can access the E-services from 27 December 2021. For users who are currently logging in using your User ID, you are required to register for a Singpass from 27 December 2021 before you can access the E-services. 
-
-<br><br>	
+There will be scheduled maintenance on all e-Services on 27 Dec 2021, 8.00pm to 9.00pm. During this maintenance window, the e-Services will be inaccessible. We appreciate your patience and understanding. Thank you.
+<br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)	
