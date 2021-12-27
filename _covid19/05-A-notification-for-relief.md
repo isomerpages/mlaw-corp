@@ -53,7 +53,7 @@ Please take note of the following deadlines to serve a Notification for Relief:
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore 
 | <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Event and tourism-related contracts
 | <b>30 June 2021</b> | -- Options to purchase and sale and purchase agreements with developers  
-| <b>31 December 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto 
+| <b>28 February 2022</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto 
 
 **Please note that that the service of the Notification for Relief does not constitute a filing with the Registrar.**
 

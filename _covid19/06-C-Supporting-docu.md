@@ -145,7 +145,7 @@ Examples of the documents that may be relevant for each category of contract can
          * Evidence of workers’ inability to travel to Singapore due to travel restrictions 
          * Evidence of delay in arrival of materials due to supply chain disruptions
     *	Documents showing inability to make payment under contract due to COVID-19 (if applicable): 
-         * Audited accounts for 2019 and 2020 (if available)
+         * Audited accounts for 2019, 2020 and 2021 (if available)
          * Monthly balance sheets before and after the COVID-19 event
          * Evidence of income and expenditure before and since the COVID-19 event (including estimated income and expenses for upcoming months) 
          * List of assets currently held  

@@ -32,7 +32,7 @@ third_nav_title: '1B. Notification for Relief'
 | <b>19 November 2020</b> | -- Leases and licences of non-residential property <br>-- Hire-purchase and conditional sales agreements with banks or MAS-regulated finance companies for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Loans to SMEs secured by certain collateral in Singapore
 | <b>31 January 2021</b> | -- Hire-purchase and conditional sales agreements with financing companies (other than banks or MAS-regulated finance companies) for commercial vehicles, or plant/machinery used for commercial purposes <br>-- Rental agreements for commercial equipment or commercial vehicles <br>-- Event and tourism-related contracts
 | <b>30 June 2021</b> | -- Options to purchase and sale and purchase agreements with developers 
-| <b>31 December 2021</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto 
+| <b>28 February 2022</b> | -- Construction contracts or supply contracts, or any performance bond granted thereto 
 
 **4. Must a Notification for Relief take a certain form?**  
 *	Yes, there is a prescribed form for the Notification for Relief. Please refer to the form at this [link (SingPass)](https://go.gov.sg/notification-for-relief-singpass) (if you are serving the Notification for yourself) or this [link (CorpPass)](https://go.gov.sg/notification-for-relief-corppass) (if you are serving the Notification on behalf of your business or company). 
