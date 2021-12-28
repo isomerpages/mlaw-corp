@@ -47,7 +47,7 @@ breadcrumb: FAQs
   * Contracts related to a wedding event – E.g. Contract with hotel for a wedding banquet, contract for wedding catering services, contract for wedding photography services or make-up services, or, contract for bridal gown.
   * Where the wedding event was scheduled to be held on a date on or after 8 May 2021.
 
-* Interested parties must submit a Request for Mediation by **31 December 2021**. Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
+* Interested parties must submit a Request for Mediation by **28 February 2022**. Please refer to “[Steps in the Mediation Process](/mcmp/steps-in-the-mediation-process)” to find out how to apply for mediation.
 
 
 **3. Does the MCMP apply to contracts relating to non-wedding events?** 
@@ -171,7 +171,7 @@ breadcrumb: FAQs
 **18. We entered a settlement agreement during the mediation. However, I have since realised that I cannot meet my obligations under the settlement agreement. What can I do?** 
 * A signed settlement agreement is binding and can be enforced in Court by the other party. Therefore, we encourage both parties to agree to the terms of a settlement agreement that they are able to comply with. 
 
-* However, after a settlement agreement is entered into, if parties agree, they may request for a subsequent mediation session by writing in to the Ministry of Law by 31 December 2021. If the other party does not agree to a subsequent mediation, or no further settlement agreement is reached at the re-mediation session, the first settlement agreement remains binding on the parties. You may wish to seek legal advice on your contractual obligations.
+* However, after a settlement agreement is entered into, if parties agree, they may request for a subsequent mediation session by writing in to the Ministry of Law by 28 February 2022. If the other party does not agree to a subsequent mediation, or no further settlement agreement is reached at the re-mediation session, the first settlement agreement remains binding on the parties. You may wish to seek legal advice on your contractual obligations.
 
 **19. We signed a settlement agreement during the mediation. However, the other party did not honour the settlement agreement. What can I do?**
 * A settlement agreement is a legally binding agreement. You may commence legal proceedings to enforce the terms of the settlement agreement.
