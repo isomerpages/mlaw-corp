@@ -15,7 +15,7 @@ To ask the Minister for Law since the launch of iLAB, a free legal chatbox that 
 **<b><u>Written Answer:</u></b>**  
  
 {:start="1"}
-1.	In 2021, iLAB registered a total of 47,579 queries in 3,408 sessions, and an average of about 240 users per month. It has received good feedback, averaging 4 out of 5 stars in post-usage surveys.
+1.	In 2021, iLAB registered a total of 47,579 queries in 3,408 sessions, and an average of about 240 users per month. It has received good feedback, averaging four out of five stars in post-usage surveys.
 
 {:start="2"}
 2.	LAB has been working with various organisations such as the Community Justice Centre (CJC), the Law Society Pro Bono Services (LSPBS) and various social agencies, including PAVE, Star Shelter, Big Love and Heart@Feiyue to promote the use of iLAB. 
