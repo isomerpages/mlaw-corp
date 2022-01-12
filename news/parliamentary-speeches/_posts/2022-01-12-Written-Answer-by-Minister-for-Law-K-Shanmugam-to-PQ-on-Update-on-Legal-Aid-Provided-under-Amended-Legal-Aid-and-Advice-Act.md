@@ -15,11 +15,7 @@ To ask the Minister for Law since the coming into effect of the amendments to th
 **<b><u>Written Answer:</u></b>**  
  
 {:start="1"}
-1.	In deciding whether to waive part or all of the prescribed Means Test requirements, the Minister or the Means Test Panel considers whether the applicant can afford the legal fees on their own, without causing significant hardship to themselves or their family.  Examples of the factors considered include: 
-<br>
-    <br>(a) Whether the applicant or dependents currently have or will have unmet basic needs, such as food, shelter or healthcare, if they are to spend their income or assets on legal fees;</br>
-    <br>(b) Whether the applicant’s inability to meet basic needs is due to serious and long-term reasons such as health and caregiving obligations; and</br>
-    <br>(c) Whether the applicant receives or is likely to receive sufficient support from other sources such as family members and other aid schemes.</br>
+1.	In deciding whether to waive part or all of the prescribed Means Test requirements, the Minister or the Means Test Panel considers whether the applicant can afford the legal fees on their own, without causing significant hardship to themselves or their family.  Examples of the factors considered include: (a) Whether the applicant or dependents currently have or will have unmet basic needs, such as food, shelter or healthcare, if they are to spend their income or assets on legal fees; (b) Whether the applicant’s inability to meet basic needs is due to serious and long-term reasons such as health and caregiving obligations; and (c) Whether the applicant receives or is likely to receive sufficient support from other sources such as family members and other aid schemes.
     
 {:start="2"}
 2.	Since its inception in 2019, the Panel has waived the requirements for five out of seven appeals received. The approved cases involved applicants who faced serious and long-term financial challenges, such as poor health or caregiving responsibilities. Of the five cases, two eventually did not proceed with their applications. 
