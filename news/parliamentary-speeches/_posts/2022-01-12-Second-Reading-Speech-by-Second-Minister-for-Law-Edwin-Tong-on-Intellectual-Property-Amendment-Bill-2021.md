@@ -21,7 +21,7 @@ permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Seco
     b.	Today, IA accounts for more than half of the global value of assets. This is significant, as it means that intangible assets are worth more than physical assets. In other words, ideas and innovations are more valuable than the physical assets that they animate.
 
 {:start="3"}
-3.	We recognised this, and announced the Singapore IP Strategy 2030 in April 2020. This is to:
+3.	We recognised this, and launched the Singapore IP Strategy 2030 in April 2021. This is to:
 
     a.	strengthen Singapore’s position as a global IA and IP hub, 
 
