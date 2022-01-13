@@ -226,15 +226,15 @@ permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Seco
 
     b.	Second, it must not provide for the remuneration and costs to be payable as a proportion of the amount recovered by the client. For example, it cannot be a proportion of the damages that a client may recover. Such arrangements, which are often known as contingency fee agreements, will continue to be prohibited in Singapore.
        
-        i.	The reason for this is because the payment received by lawyers in such agreements has no direct correlation with the work done, and the amount of damages that a client may recover is dependent on a client’s particular circumstances and the damage and injuries that may be suffered. If you allow such proportions to be part of a CFA, this may give rise to added risks of conflicts of interest for the lawyer.
-        
-        ii.	We will continue to study developments in this area.
+i.	The reason for this is because the payment received by lawyers in such agreements has no direct correlation with the work done, and the amount of damages that a client may recover is dependent on a client’s particular circumstances and the damage and injuries that may be suffered. If you allow such proportions to be part of a CFA, this may give rise to added risks of conflicts of interest for the lawyer.
+
+ii.	We will continue to study developments in this area.
 
     c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
 
-        i.	Information that the lawyer must provide to the client – for instance, how the CFA operates, and how uplift fees are calculated in the particular case.
+i.	Information that the lawyer must provide to the client – for instance, how the CFA operates, and how uplift fees are calculated in the particular case.
 
-        ii.	Second, terms and conditions that must be included in the CFA, such as a “cooling-off” period after the CFA is entered into, during which the client or lawyer may terminate the CFA by giving written notice.
+ii.	Second, terms and conditions that must be included in the CFA, such as a “cooling-off” period after the CFA is entered into, during which the client or lawyer may terminate the CFA by giving written notice.
 
 {:start="38"}
 38.	We emphasise that CFAs do not change existing obligations of solicitors under statute or common law, unless expressly stated. Lawyers will continue to be subject to the Legal Profession (Professional Conduct) Rules (“<b>PCR</b>”), including obligations to:
