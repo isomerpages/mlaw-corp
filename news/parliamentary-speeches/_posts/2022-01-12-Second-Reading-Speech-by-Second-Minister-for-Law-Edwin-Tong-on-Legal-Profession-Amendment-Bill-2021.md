@@ -230,7 +230,7 @@ i. The reason for this is because the payment received by lawyers in such agreem
 
 ii. We will continue to study developments in this area.
 
-   c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
+    c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
 
 i.	Information that the lawyer must provide to the client – for instance, how the CFA operates, and how uplift fees are calculated in the particular case.
 
@@ -335,7 +335,7 @@ i. The foreign lawyer will only be allowed to submit on matters with permission 
 
 ii. The foreign lawyer will not be permitted to make a submission on a matter of Singapore law. 
 
-    b.	Second, subsidiary legislation may provide for:
+   b.	Second, subsidiary legislation may provide for:
 
 i. The various categories of specified proceedings that these refinements will apply to;
 
