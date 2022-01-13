@@ -230,7 +230,7 @@ i. The reason for this is because the payment received by lawyers in such agreem
 
 ii. We will continue to study developments in this area.
 
-    c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
+   c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
 
 i.	Information that the lawyer must provide to the client – for instance, how the CFA operates, and how uplift fees are calculated in the particular case.
 
@@ -284,9 +284,9 @@ i. Examine whether the requirements of a CFA as set out in section 115B have bee
         
 ii. The court will also have regard to the circumstances in which the agreement was made and the interests of all parties to the agreement, i.e. the client and the lawyer, taken as a whole. 
 
-    b.	The court should also consider the purpose and context of a CFA when determining its enforceability. As an example, the mere fact of an uplift should not call the CFA into question, although the amount of uplift should be commensurate with the risk undertaken by the lawyer.
+   b.	The court should also consider the purpose and context of a CFA when determining its enforceability. As an example, the mere fact of an uplift should not call the CFA into question, although the amount of uplift should be commensurate with the risk undertaken by the lawyer.
 
-    c.	As the CFA is a contract between the client and the lawyer, such an approach is based on well-established contractual principles, and provides certainty to parties. 
+   c.	As the CFA is a contract between the client and the lawyer, such an approach is based on well-established contractual principles, and provides certainty to parties. 
 
 <b>III.	Amendments to Refine Foreign Lawyers’ Scope of Representation in the SICC</b>
 
