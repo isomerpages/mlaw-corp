@@ -226,11 +226,11 @@ permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Seco
 
     b.	Second, it must not provide for the remuneration and costs to be payable as a proportion of the amount recovered by the client. For example, it cannot be a proportion of the damages that a client may recover. Such arrangements, which are often known as contingency fee agreements, will continue to be prohibited in Singapore.
        
-i.	The reason for this is because the payment received by lawyers in such agreements has no direct correlation with the work done, and the amount of damages that a client may recover is dependent on a client’s particular circumstances and the damage and injuries that may be suffered. If you allow such proportions to be part of a CFA, this may give rise to added risks of conflicts of interest for the lawyer.
+i. The reason for this is because the payment received by lawyers in such agreements has no direct correlation with the work done, and the amount of damages that a client may recover is dependent on a client’s particular circumstances and the damage and injuries that may be suffered. If you allow such proportions to be part of a CFA, this may give rise to added risks of conflicts of interest for the lawyer.
 
-ii.	We will continue to study developments in this area.
+ii. We will continue to study developments in this area.
 
-    c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
+   c.	Third, the CFA must comply with regulations that will be made under section 115B(7). These include:
 
 i.	Information that the lawyer must provide to the client – for instance, how the CFA operates, and how uplift fees are calculated in the particular case.
 
@@ -280,9 +280,9 @@ ii.	Second, terms and conditions that must be included in the CFA, such as a “
 
     a.	In determining such questions, the court will:
 
-        i.	Examine whether the requirements of a CFA as set out in section 115B have been met, and whether the CFA is void or voidable on the usual contractual principles, such as incapacity, mistake, misrepresentation, and so on;
+i. Examine whether the requirements of a CFA as set out in section 115B have been met, and whether the CFA is void or voidable on the usual contractual principles, such as incapacity, mistake, misrepresentation, and so on;
         
-        ii.	The court will also have regard to the circumstances in which the agreement was made and the interests of all parties to the agreement, i.e. the client and the lawyer, taken as a whole. 
+ii. The court will also have regard to the circumstances in which the agreement was made and the interests of all parties to the agreement, i.e. the client and the lawyer, taken as a whole. 
 
     b.	The court should also consider the purpose and context of a CFA when determining its enforceability. As an example, the mere fact of an uplift should not call the CFA into question, although the amount of uplift should be commensurate with the risk undertaken by the lawyer.
 
@@ -331,17 +331,17 @@ ii.	Second, terms and conditions that must be included in the CFA, such as a “
 
     a.	First, a foreign lawyer with full registration may submit on matters in the prescribed proceedings, subject to the following restrictions: 
 
-        i.	The foreign lawyer will only be allowed to submit on matters with permission granted by the Court; and
+i. The foreign lawyer will only be allowed to submit on matters with permission granted by the Court; and
 
-        ii.	The foreign lawyer will not be permitted to make a submission on a matter of Singapore law. 
+ii. The foreign lawyer will not be permitted to make a submission on a matter of Singapore law. 
 
     b.	Second, subsidiary legislation may provide for:
 
-        i.	The various categories of specified proceedings that these refinements will apply to;
+i. The various categories of specified proceedings that these refinements will apply to;
 
-        ii.	Factors that the court may consider in deciding whether to grant permission to the foreign lawyer; and
+ii. Factors that the court may consider in deciding whether to grant permission to the foreign lawyer; and
 
-        iii.	Exceptions to any of these restrictions. 
+iii. Exceptions to any of these restrictions. 
 
 {:start="55"}
 55.	At this juncture, I would like to highlight that I am also moving an amendment to the Bill, at its Committee stage, to clarify that: 
