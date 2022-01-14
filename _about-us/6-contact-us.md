@@ -24,7 +24,7 @@ Have questions?
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
   <b>Our Live Chat Agents are available from:</b><br>
-Mondays to Fridays, 10am to 12pm, 2pm to 4PM
+Mondays to Fridays, 10am to 12pm, 2pm to 4pm
 <br><br>
 
 The live chat will address enquiries on:
