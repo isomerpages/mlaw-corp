@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Legal Profession (Amendment) Bill' 
 date: 2022-01-12
-permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Legal-Profession-Amendment-Bill-2021
+permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Legal-Profession-Amendment-Bill
 ---
 
 12 Jan 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
