@@ -29,7 +29,7 @@ Mondays to Fridays, 10am to 12pm, 2pm to 4pm
 
 The live chat will address enquiries on:
 * Rental Waiver Framework
-* Public trustee
+* Public Trustee
 
 For all other queries, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
