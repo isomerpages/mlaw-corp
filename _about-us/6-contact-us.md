@@ -26,6 +26,7 @@ Have questions?
   <b>Our Live Chat Agents are available from:</b><br>
 Mondays to Fridays, 10am to 12pm, 2pm to 4pm
 <br>
+
 The live chat will address enquiries on:
 * Rental Waiver Framework
 * Public trustee
