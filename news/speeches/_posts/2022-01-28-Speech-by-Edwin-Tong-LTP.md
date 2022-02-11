@@ -1,5 +1,5 @@
 ---
-title: 'Opening Remarks by Minister for Culture, Community AND Youth, and Second Minister of Law, Edwin Tong SC, at Soft Launch of the Legal Technology Platform'
+title: 'Opening Remarks by Minister for Culture, Community and Youth, and Second Minister of Law, Edwin Tong SC, at Soft Launch of the Legal Technology Platform'
 date: 2022-01-28
 permalink: /news/speeches/2022-01-28-Speech-by-Edwin-Tong-LTP
 ---
