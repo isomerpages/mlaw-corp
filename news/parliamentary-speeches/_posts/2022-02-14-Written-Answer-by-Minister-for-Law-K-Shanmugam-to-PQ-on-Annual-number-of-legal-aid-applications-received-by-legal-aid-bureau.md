@@ -25,10 +25,10 @@ To ask the Minister for Law in the past five years (a) what is the annual number
 
 |                |2017|2018|2019|2020|2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|Total number of applications received|9012|9512|9494|7722|6651|
-|Number of successful applications|5840|6290|6411|5466|4928|
-|Number of unsuccessful applications<sup><a href="#fn1" id="ref1">1</a></sup>|986|1317|1624|1669|680|
-|Number of applications that did not satisfy the means criteria|741|1071|1370|1405|546|
+|Total number of applications received|9,012|9,512|9,494|7,722|6,651|
+|Number of successful applications|5,840|6,290|6,411|5,466|4,928|
+|Number of unsuccessful applications<sup><a href="#fn1" id="ref1">1</a></sup>|986|1,317|1,624|1,669|680|
+|Number of applications that did not satisfy the means criteria|741|1,071|1,370|1,405|546|
 |Percentage of unsuccessful applications that did not satisfy the means test criteria|75%|81%|84%|84%|80%|
 
 <p><sup id="fn1">1. Unsuccessful applications are applications which failed the means test and/or legal merits criteria. They do not include the applications which did not proceed (e.g. applications where the applicant withdrew or was uncontactable).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
