@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Legal Technology Platform Initiative
 date: 2022-02-14
-permalink: /news/parliamentary-speeches/2022-02-14-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Annual-number-of-legal-aid-applications-received-by-legal-aid-bureau.md
+permalink: /news/parliamentary-speeches/2022-02-14-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Annual-number-of-legal-aid-applications-received-by-legal-aid-bureau
 ---
 
 14 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
