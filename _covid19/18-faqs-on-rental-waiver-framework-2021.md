@@ -47,9 +47,7 @@ Upon receiving the Notice, you should first assess if you meet all the eligibili
 
 If you determine that you meet all the eligibility criteria, you will have to take the necessary steps as set out in the Notice, within the specified timeline, to obtain the rental waiver.
 
-You may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
-
-If you assess that you are eligible for the rental waiver under the RWF but have not received the second RSS payout and Notice by 15 October 2021, you should make an application for the second RSS payout through IRAS’s <a href="https://go.gov.sg/irss-rss2-tenant">eligibility checker</a> before 12 November 2021. If you have not received the Notice but have already made an application for the second RSS payout, please wait for the outcome of your application; you do not need to take any further action until you receive the Notice.
+However, you may not receive the Notice if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
 
 [For landlords]
 
