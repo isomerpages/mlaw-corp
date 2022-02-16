@@ -10,20 +10,14 @@ permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-good-samaritan-law
 
 
 **<u>Question</u>**  
-To ask the Minister for Law (a) whether the measures introduced by the Registry of Moneylenders in recent years have had an effect on the amount of loans taken from moneylenders; and (b) whether these measures have restricted access to credit.
+To ask the Minister for Law whether he can give an update on the assessment of a need for a Good Samaritan law to be implemented in Singapore.
 
 
 **<u>Answer:</u>**  
-1. Madam Speaker, we amended the Moneylenders Act in 2008 to modernize the regulation of moneylending whilst safeguarding the interests of borrowers.
+1. Mdm Speaker, the hon Member had previously raised similar questions before this House in 2008 and 2012. Then, the Government explained why there was no need to introduce a Good Samaritan law in the immediate future in Singapore. Our assessment today remains that such a law is unnecessary at the present time. The reasons previously given continue to apply.
 
-2. In 2011, we introduced further measures to enhance protection for borrowers. These included a requirement for licence applicants to pass a written test, as well as advertising restrictions as we were concerned that excessive advertising might induce unnecessary borrowing.
+2. Our laws do not give rise to any major liability concerns for Good Samaritans. In respect of civil liability, our laws only require a person who offers assistance to comply with the standard of care that can be reasonably expected of a person of his skill and experience. As for criminal liability, a person is generally liable only if there is an intent to cause harm or injury. Clearly, a Good Samaritan acting in good faith will not fall into this category.
 
-3. In 2012, we imposed a moratorium on the issuance of new licences. The number of moneylenders had grown from 172 in 2008 to 249 in 2011. Since the moratorium, the number of moneylenders has declined to 185, as of 1 June 2014. We also prohibited moneylenders from charging upfront fees and required moneylenders to disclose the Effective Interest Rate of loans to borrowers.
+3. Singaporeans are not fearful of helping those in need, as can be seen by examples of our citizens stepping forward in emergency situations. For instance, in October last year, five members of public helped to extricate a taxi driver and his passengers when the taxi was crushed by a tipper truck in a road accident. There have been no reported cases where persons had refused to come forward out of fear of incurring legal liability. However, should this context change, we will re-examine this issue.
 
-4. Our aim is to maintain a balance in protecting borrowers, especially those of lower income, yet ensuring that there is reasonable access to credit from licensed sources. The value of loans granted grew from $189 million in 2008 to $480 million in 2011. It declined to $346 million in 2012 but rose again to $478 million in 2013.
-
-5. At this juncture, I would like to make a clarification. During my Ministry’s Committee of Supply debates on 8 March 2013, we had said that the number of moneylenders fell from 249 in 2011 to 209 in 2012, and that the value of the loans fell from $480 million to about $260 million over the same period. I wish to clarify that the value of the loans granted in 2012 fell to $346 million, and not $260 million.
-
-6. As previously mentioned in this House, we are in the midst of reviewing our moneylending policies. We have set up an Advisory Committee on Moneylending to help us with this effort. It comprises economists, representatives from the financial industry, Moneylenders Association of Singapore and VWOs which counsel distressed borrowers, namely Credit Counselling Singapore, One Hope Centre and The Silver Lining. As we undertake this review, I would like to reiterate the importance of finding the right balance between protecting borrowers and preserving their access to credit.
-
-<p class="right-side-updated">Last updated on 07 Jul 2014</p> 
+<p class="right-side-updated">Last updated on 29 May 2014</p> 
