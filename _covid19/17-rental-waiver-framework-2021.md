@@ -116,7 +116,7 @@ Where a landlord has provided direct monetary assistance or rental waivers<sup><
 <u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u> 
  <br>
  
-Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. Tenants which assess that they are eligible for the rental waiver under the RWF but have not received the second RSS payout and Notice by 15 October 2021, should make an application for the second RSS payout through IRAS’s <a href="https://go.gov.sg/irss-rss2-tenant">eligibility checker</a> by 12 November 2021. If successful, they will receive a Notice subsequently and can follow the necessary steps to claim the rental waiver from their landlord. <br>
+Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. <br>
 <br>
 
 If tenants have not received the Notice but have already made an application for the second RSS payout, they should wait for the outcome of their application; they do not need to take any further action until they receive the Notice.<br>
