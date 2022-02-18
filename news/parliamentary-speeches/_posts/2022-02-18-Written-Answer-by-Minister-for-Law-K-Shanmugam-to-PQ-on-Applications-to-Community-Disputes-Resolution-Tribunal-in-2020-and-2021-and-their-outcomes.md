@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Applications to Community Disputes Resolution Tribunal in 2020 and 2021 and their outcomes
+title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Applications to Community Disputes Resolution Tribunal in 2020 and 2021 and their Outcomes
 date: 2022-02-18
 permalink: /news/parliamentary-speeches/2022-02-18-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Applications-to-Community-Disputes-Resolution-Tribunal-in-2020-and-2021-and-their-outcomes
 ---
