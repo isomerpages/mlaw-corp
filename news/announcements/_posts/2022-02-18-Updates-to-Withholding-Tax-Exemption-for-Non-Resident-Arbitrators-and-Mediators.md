@@ -24,7 +24,9 @@ permalink: /news/announcements/Updates-to-Withholding-Tax-Exemption-for-Non-Resi
 5. Singapore remains committed to support businesses in the resolution of their commercial disputes. 
 <br><br>
     a) We maintain an open regime for the practice of international arbitration and mediation hub, so that businesses can have choice of counsel, arbitrators and mediators. Non-resident arbitrators and mediators will continue to enjoy work pass exemption, i.e., they do not need to apply for a work pass to carry out arbitration and mediation work in Singapore for up to 90 days in a calendar year.
+<br><br>
     b) We continually review our laws, to keep pace with new developments and meet business needs. For example, we have introduced reforms to provide businesses and other litigants with additional funding options to resolve their disputes. We have allowed third-party funding (TPF) for international arbitration proceedings since 2017, and in 2021, this was extended to domestic arbitration, certain proceedings in the Singapore International Commercial Court (SICC), and related court and mediation proceedings.  We recently also introduced a framework for Conditional Fee Agreements, for proceedings aligned with those prescribed under the TPF framework,
+<br><br>
     c) We offer world-class infrastructure at Maxwell Chambers and Maxwell Chambers Suites, to support international dispute resolution work. Non-resident arbitrators and mediators have access to conducive working space at the dispute resolution complex.
 
 {:start="6"}
