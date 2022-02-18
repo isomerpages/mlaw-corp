@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on claims against second-hand smoke under the Community Disputes Resolution Act
+title: Oral Answer by Second Minister for Law, Mr Edwin Tong, to Parliamentary Question on Claims against Second-hand Smoke under the Community Disputes Resolution Act
 date: 2022-02-18
 permalink: /news/parliamentary-speeches/2022-02-18-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-claims-against-second-hand-smoke-under-the-Community-Disputes-Resolution-Act
 
@@ -34,4 +34,4 @@ To ask the Minister for Law (a) whether proceedings can be brought under section
 6.	As separately conveyed to this House, an inter-agency committee led by MCCY is reviewing the CDMF and is studying a range of proposals. These include promoting neighbourliness as a way to reduce the likelihood of disputes arising in the first instance, and also increasing the awareness and accessibility on the use of community mediation as the primary way to resolve disputes between neighbours. Thank you, Mr Deputy Speaker.
 
 
-class="right-side-updated">Last updated on 18 February 2022</p>
+<p class="right-side-updated">Last updated on 18 February 2022</p>
