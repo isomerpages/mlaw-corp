@@ -47,8 +47,6 @@ Upon receiving the Notice, you should first assess if you meet all the eligibili
 
 If you determine that you meet all the eligibility criteria, you will have to take the necessary steps as set out in the Notice, within the specified timeline, to obtain the rental waiver.
 
-However, you may not receive the Notice automatically if you rent only part of a property or a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. 
-
 [For landlords]
 
 Your tenant may receive a Notice of Rental Waiver (Notice) from the Ministry of Law from 6 October 2021, especially if your tenant has received one or more payouts under the Rental Support Scheme (RSS) administered by IRAS. 
