@@ -113,13 +113,13 @@ Once an eligible tenant sends all of the above documents to their landlord, the 
 Where a landlord has provided direct monetary assistance or rental waivers<sup><a href="#fn6" id="ref6">6</a></sup> to its tenants from 16 May 2021 up to when the rental waiver takes effect (i.e. once the tenant has sent the copy of Notice of Rental Waiver and documents to the landlord), such assistance can be offset from their rental waiver obligations under the Rental Waiver Framework 2021.<br>
  <br>
  
-<u><i>(For tenant occupiers who have not received the Notice) Application to IRAS</i></u> 
+<u><i>RWF Applications</i></u> 
  <br>
  
-Tenants may not receive the RSS and/or Notice automatically if they rent only part of a property, or rent a mixed-use property (e.g. a shophouse for both retail and residential use), and/or are a licensee. <br>
+The deadline for applications for the issuance of Notices of Rental Waiver has passed and no new applications will be accepted. <br>
 <br>
 
-If tenants have not received the Notice but have already made an application for the second RSS payout, they should wait for the outcome of their application; they do not need to take any further action until they receive the Notice.<br>
+Tenants who have made an application for the second RSS payout before the deadline should wait for the outcome of their application; they do not need to take any further action until they receive the Notice.<br>
 <br>
  
 Note: This does not apply to tenants whose lease agreements were not stamped on or before 2 August 2021, but require assistance under the RWF and meet all other eligibility criteria. Such tenants should make an application for rental waiver by 6 December 2021. Such cases will be assessed by a rental waiver assessor, and only successful applicants will be issued with a Notice of Rental Waiver. See section on [Rental Waiver Assessors](/covid19-relief/rental-waiver-framework-2021#assess) for more details.<br>
