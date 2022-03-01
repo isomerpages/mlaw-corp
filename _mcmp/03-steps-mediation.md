@@ -19,7 +19,7 @@ Mediation is a voluntary process – both parties have to agree to refer their c
 
 * If parties have not agreed to mediate at the MCMP at the outset, the party who wishes to initiate mediation (the “Applicant”) should fill up the [Request for Mediation](../files/mcmp/Request_for_Mediation.docx). The Applicant should email (i) the completed Request, and (ii) a copy of the wedding contract to [COVID19_Mediation_Request@mlaw.gov.sg](mailto:COVID19_Mediation_Request@mlaw.gov.sg). All other parties to the contract should be copied. MinLaw will invite the other party to respond on whether he or she agrees to mediate. If there is no agreement, mediation will not be arranged. Parties will have to resolve their dispute through other ways. 
 
-The deadline to submit a Request for Mediation is **30 Apeil 2022**.
+The deadline to submit a Request for Mediation is **30 April 2022**.
 
 
 #### Step 2:  Agreement to Mediate ####
