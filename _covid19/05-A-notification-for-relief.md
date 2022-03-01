@@ -9,4 +9,4 @@ third_nav_title: '1B. Notification for Relief'
 
 ### Notification for Relief ### 
 
-The deadline to serve a Notificatipn for Relief has passed.
+The deadline to serve a Notification for Relief has passed.
