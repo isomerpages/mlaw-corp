@@ -22,8 +22,7 @@ To ask the Minister for Law (a) in the last five years, what is the annual numbe
 
 **<b><u>Table: No. of DRS Cases by CY and cumulative total % of cases that did not meet monthly debt repayments and therefore exited from the DRS</u></b>**
 
-|                |       Year Cases Commenced DRS        |    
-|----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
+|                |       Year Cases Commenced DRS        |
 |                |CY 2017|CY 2018|CY 2019|CY 2020|CY 2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
 |No. of Cases Placed on the DRS|442|615|864|1,073|2,297|
