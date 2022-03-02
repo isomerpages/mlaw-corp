@@ -22,7 +22,7 @@ To ask the Minister for Law for the past five years, what is (i) the annual numb
 
 **<b>Applications received by LAB in respect of grants of probate or letters of administration</b>**
 
-|                |<b>2017</b>|<b>2018</b>|<b>2019</b>|<b>2020</b>|<b>2021</b>|
+|                |2017|2018|2019|2020|2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
 |Total number of applications received|498|543|520|424|356|
 |Number of successful applications|187|220|212|200|195|
