@@ -205,7 +205,7 @@ A.	<u>Access to justice</u>
 44.	Second, Mr Zhulkarnain asked about efforts to reduce unclaimed CPF monies held by the Public Trustee. 
 
 {:start="45"}
-45.	Members may recall that we are already simplifying the claims process through the BENEFICIARY REPRESENTATIVE APPROACH. 
+45.	Members may recall that we are already simplifying the claims process through the Beneficiary Representative approach. 
 
 {:start="46"}
 46.	This will apply to about half of all un-nominated CPF monies handled by the Public Trustee annually. A fairly big portion of the un-nominated sums will come under this approach.
@@ -228,7 +228,7 @@ A.	<u>Access to justice</u>
 49.	We also plan to review the monetary limit for cases to qualify under this approach – potentially expanding the approach to a larger group of cases. 
 
 {:start="50"}
-50.	The BENEFICIARY REPRESENTATIVE APPROACH will go some way towards reduce the inconvenience when making a claim for un-nominated sums, and also reduce the unclaimed monies as a result.  
+50.	The Beneficiary Representative approach will go some way towards reduce the inconvenience when making a claim for un-nominated sums, and also reduce the unclaimed monies as a result.  
 
 {:start="51"}
 51.	I should add however – despite refining this and making it simpler and more convenient – that to enable distributions to beneficiaries more quickly and directly, CPF members can, where possible, make their nominations ahead of time, and update it as their life circumstances change.
