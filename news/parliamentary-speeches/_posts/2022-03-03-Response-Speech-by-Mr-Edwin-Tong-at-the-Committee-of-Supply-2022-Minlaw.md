@@ -133,7 +133,7 @@ permalink: /news/parliamentary-speeches/2022-03-03-Response-Speech-by-Mr-Edwin-T
 28.	For fresh applications in Singapore for ancillary orders for foreign divorces, our courts have been mindful to avoid unnecessary re-litigation. Their approach is to respect and recognise any foreign custody order made in the child’s habitual residence, unless there are exceptional circumstances which militate against that.
 
 {:start="29"}
-29.	That said, we will continue to consider Mr Nair’s feedback.  
+29.	That said, we will consider Mr Nair’s feedback.  
 
 *Law reform* 
 
