@@ -8,7 +8,7 @@ permalink: /news/press-releases/2022-03-07- Modernising-our-Extradition-Regime-t
 07 Mar 2022 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1. The Ministry of Law (“<b>MinLaw</b>”) introduced the Extradition (Amendment) Bill (the “Bill”) for First Reading in Parliament today. 
+1. The Ministry of Law (“<b>MinLaw</b>”) introduced the Extradition (Amendment) Bill (the <b>“Bill”</b>) for First Reading in Parliament today. 
 
 {:start="2"}
 2.	The Bill, when passed, will update, and modernise Singapore’s statutory extradition regime, aligning it with other leading common law jurisdictions, and cement Singapore’s role as a responsible global citizen. A modernised regime will strengthen our ability to facilitate extradition where justified, secure the return of fugitives who have committed an offence in Singapore, and ensure appropriate use of limited State resources for extradition. 
