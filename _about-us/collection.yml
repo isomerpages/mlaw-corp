@@ -1,0 +1,28 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - our-vision-mission-and-core-values.md
+      - our-management.md
+      - organisation-structure.md
+      - Our Legal System/.keep
+      - Our Legal System/our-legal-system.md
+      - Our Legal System/queries-under-other-law-related-agencies.md
+      - What We Do/.keep
+      - What We Do/what-we-do.md
+      - What We Do/legal-policy-group.md
+      - What We Do/legal-industry-division.md
+      - What We Do/legal-services-regulatory-authority.md
+      - What We Do/land-policy-administration.md
+      - What We Do/intellectual-property-policy.md
+      - What We Do/community-legal-services-group.md
+      - What We Do/community-mediation-centre.md
+      - What We Do/legal-aid-bureau.md
+      - What We Do/insolvency-office.md
+      - What We Do/public-trustee-s-office.md
+      - What We Do/registry-of-moneylenders.md
+      - What We Do/registry-of-pawnbrokers.md
+      - What We Do/anti-money-laundering-countering-the-financing-of-terrorism-division.md
+      - What We Do/licensing-regulation-of-insolvency-practitioners-division.md
+      - contact-us.md
+      - useful-links.md
