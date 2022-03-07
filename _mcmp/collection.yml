@@ -1,0 +1,8 @@
+collections:
+  mcmp:
+    output: true
+    order:
+      - minlaw-covid-19-wedding-mediation-programme.md
+      - what-is-mediation.md
+      - steps-in-the-mediation-process.md
+      - faqs.md

@@ -4,55 +4,27 @@ url: 'https://www.mlaw.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 facebook-pixel: 2270612979901608
 google-tag-manager: GTM-WBM6PL5
 include:
-    - _redirects
-collections:
-    who-we-are:
-        output: true
-    our-work:
-        output: true
-    law-firms:
-        output: true
-    admission-to-the-bar:
-        output: true
-    e-services:
-        output: true
-    join-us:
-        output: true
-    news:
-        output: true
-    about-us:
-        output: true
-    law-practice-entities-and-lawyers:
-        output: true
-    why-copyright-matters:
-        output: true
-    events:
-        output: true
-    events-2:
-        output: true
-    covid19:
-        output: true
-    realign:
-        output: true
-    mcmp:
-        output: true
+  - _redirects
 resources_name: news
 favicon: /images/favicon-minlaw.ico
 google_analytics: UA-10405444-20
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging-isomer-mlaw.netlify.app
+prod: https://prod-isomer-mlaw.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
