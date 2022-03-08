@@ -3,54 +3,54 @@ collections:
     output: true
     order:
       - covid-19-temporary-measures-act-2020.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/.keep
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/relief-under-part-2-of-the-act.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-lease-or-licence-of-non-residential-property.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-otps-and-s-p-agreements-with-developers.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-hire-purchase-and-conditional-sales-agreements.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-rental-agreements-for-commercial-equipment.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-loans-by-banks-and-finance-companies-to-singapore-smes.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-event-and-tourism-related-contracts.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-construction-contracts-or-supply-contracts-or-any-performance-bond-granted-thereto.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/relief-for-tenants-unable-to-vacate-premises.md
-      - 1 Temporary Relief from Inability to Perform Contractual Obligations/cap-on-late-payment-interest-or-charges-for-specific-contracts.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/.keep
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/relief-under-part-2-of-the-act.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-lease-or-licence-of-non-residential-property.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-otps-and-s-p-agreements-with-developers.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-hire-purchase-and-conditional-sales-agreements.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-rental-agreements-for-commercial-equipment.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-loans-by-banks-and-finance-companies-to-singapore-smes.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-event-and-tourism-related-contracts.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/faqs-for-construction-contracts-or-supply-contracts-or-any-performance-bond-granted-thereto.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/relief-for-tenants-unable-to-vacate-premises.md
+      - 1) Temporary Relief from Inability to Perform Contractual Obligations/cap-on-late-payment-interest-or-charges-for-specific-contracts.md
       - 1a-self-assessment-tool.md
-      - 1B Notification for Relief/.keep
-      - 1B Notification for Relief/service-via-the-electronic-system.md
-      - 1B Notification for Relief/withdrawal-of-notification-for-relief.md
-      - 1B Notification for Relief/faqs-for-notification-for-relief.md
-      - 1C Application for an Assessor’s Determination/.keep
-      - 1C Application for an Assessor’s Determination/steps-in-the-proceedings.md
-      - 1C Application for an Assessor’s Determination/other-modes-of-service.md
-      - 1C Application for an Assessor’s Determination/supporting-documents.md
-      - 1C Application for an Assessor’s Determination/extension-of-time.md
-      - 1C Application for an Assessor’s Determination/amendment-of-application.md
-      - 1C Application for an Assessor’s Determination/withdrawal-of-the-application.md
-      - 1C Application for an Assessor’s Determination/request-to-correct-error-in-assessor-s-determination.md
-      - 1C Application for an Assessor’s Determination/application-to-set-aside-a-dismissal-or-determination.md
-      - 1C Application for an Assessor’s Determination/faqs-for-proceedings-before-an-assessor-and-assessor-s-determinations.md
-      - 1C Application for an Assessor’s Determination/selected-determinations-made-by-assessors-under-the-act.md
-      - 1D Pending Court or Arbitration Proceedings/.keep
-      - 1D Pending Court or Arbitration Proceedings/submitting-a-memorandum-of-notification-for-relief-with-the-court-or-arbitral-tribunal.md
-      - 1D Pending Court or Arbitration Proceedings/filing-a-notification-of-status-of-application-for-determination-with-the-court-or-arbitral-tribunal.md
+      - 1B) Notification for Relief/.keep
+      - 1B) Notification for Relief/service-via-the-electronic-system.md
+      - 1B) Notification for Relief/withdrawal-of-notification-for-relief.md
+      - 1B) Notification for Relief/faqs-for-notification-for-relief.md
+      - 1C) Application for an Assessor’s Determination/.keep
+      - 1C) Application for an Assessor’s Determination/steps-in-the-proceedings.md
+      - 1C) Application for an Assessor’s Determination/other-modes-of-service.md
+      - 1C) Application for an Assessor’s Determination/supporting-documents.md
+      - 1C) Application for an Assessor’s Determination/extension-of-time.md
+      - 1C) Application for an Assessor’s Determination/amendment-of-application.md
+      - 1C) Application for an Assessor’s Determination/withdrawal-of-the-application.md
+      - 1C) Application for an Assessor’s Determination/request-to-correct-error-in-assessor-s-determination.md
+      - 1C) Application for an Assessor’s Determination/application-to-set-aside-a-dismissal-or-determination.md
+      - 1C) Application for an Assessor’s Determination/faqs-for-proceedings-before-an-assessor-and-assessor-s-determinations.md
+      - 1C) Application for an Assessor’s Determination/selected-determinations-made-by-assessors-under-the-act.md
+      - 1D) Pending Court or Arbitration Proceedings/.keep
+      - 1D) Pending Court or Arbitration Proceedings/submitting-a-memorandum-of-notification-for-relief-with-the-court-or-arbitral-tribunal.md
+      - 1D) Pending Court or Arbitration Proceedings/filing-a-notification-of-status-of-application-for-determination-with-the-court-or-arbitral-tribunal.md
       - 2-rental-relief-framework-for-smes-and-npos-in-2020.md
       - 3-temporary-relief-for-financially-distressed-individuals-and-businesses.md
       - 4-alternative-arrangements-for-meetings.md
-      - 5 Relief for Contracts affected by Construction Delays/.keep
-      - 5 Relief for Contracts affected by Construction Delays/overview-relief-for-contracts-affected-by-construction-delays-under-part-8-of-the-act.md
-      - 5 Relief for Contracts affected by Construction Delays/faqs-for-situation-a-additional-rental-expenses-for-construction-goods.md
-      - 5 Relief for Contracts affected by Construction Delays/faqs-for-situation-b-inability-of-lessee-or-licensee-to-carry-out-or-complete-renovation-or-fitting-out-works-during-the-rent-free-period.md
-      - 5 Relief for Contracts affected by Construction Delays/faqs-for-situation-c-delay-in-delivering-possession-under-a-lease-or-license-of-non-residential-property.md
-      - 5A Application for Relief/.keep
-      - 5A Application for Relief/key-steps-in-the-part-8-proceedings.md
-      - 5A Application for Relief/other-modes-of-service-for-part-8-proceedings.md
-      - 5A Application for Relief/supporting-documents-for-part-8-application.md
-      - 5A Application for Relief/other-procedures-for-part-8-proceedings.md
-      - 5A Application for Relief/faqs-for-proceedings-before-a-part-8-assessor-and-part-8-determinations.md
+      - 5) Relief for Contracts affected by Construction Delays/.keep
+      - 5) Relief for Contracts affected by Construction Delays/overview-relief-for-contracts-affected-by-construction-delays-under-part-8-of-the-act.md
+      - 5) Relief for Contracts affected by Construction Delays/faqs-for-situation-a-additional-rental-expenses-for-construction-goods.md
+      - 5) Relief for Contracts affected by Construction Delays/faqs-for-situation-b-inability-of-lessee-or-licensee-to-carry-out-or-complete-renovation-or-fitting-out-works-during-the-rent-free-period.md
+      - 5) Relief for Contracts affected by Construction Delays/faqs-for-situation-c-delay-in-delivering-possession-under-a-lease-or-license-of-non-residential-property.md
+      - 5A) Application for Relief/.keep
+      - 5A) Application for Relief/key-steps-in-the-part-8-proceedings.md
+      - 5A) Application for Relief/other-modes-of-service-for-part-8-proceedings.md
+      - 5A) Application for Relief/supporting-documents-for-part-8-application.md
+      - 5A) Application for Relief/other-procedures-for-part-8-proceedings.md
+      - 5A) Application for Relief/faqs-for-proceedings-before-a-part-8-assessor-and-part-8-determinations.md
       - 6-concessions-for-collective-sale-procedures.md
       - resources.md
       - frequently-asked-questions.md
-      - 7 Rental Waiver Framework 2021/.keep
-      - 7 Rental Waiver Framework 2021/overview-of-rental-waiver-framework-2021.md
-      - 7 Rental Waiver Framework 2021/faqs-on-rental-waiver-framework-2021.md
-      - 7 Rental Waiver Framework 2021/further-information-on-application-for-assessment.md
+      - 7) Rental Waiver Framework 2021/.keep
+      - 7) Rental Waiver Framework 2021/overview-of-rental-waiver-framework-2021.md
+      - 7) Rental Waiver Framework 2021/faqs-on-rental-waiver-framework-2021.md
+      - 7) Rental Waiver Framework 2021/further-information-on-application-for-assessment.md
