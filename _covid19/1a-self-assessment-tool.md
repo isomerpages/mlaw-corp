@@ -1,7 +1,7 @@
 ---
-title: '1A. Self-Assessment Tool'
+title: '1A) Self-Assessment Tool'
 permalink: /covid19-relief/tool
-breadcrumb: '1A. Self-Assessment Tool'
+breadcrumb: '1A) Self-Assessment Tool'
 
 ---
 

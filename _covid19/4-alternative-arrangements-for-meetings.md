@@ -1,7 +1,7 @@
 ---
-title: '4. Alternative Arrangements for Meetings'
+title: '4) Alternative Arrangements for Meetings'
 permalink: /covid19-relief/alternative
-breadcrumb: '4. Alternative Arrangements for Meetings'
+breadcrumb: '4) Alternative Arrangements for Meetings'
 
 ---
 

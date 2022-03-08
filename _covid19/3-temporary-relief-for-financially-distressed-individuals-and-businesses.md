@@ -1,7 +1,7 @@
 ---
-title: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
+title: '3) Temporary Relief for Financially Distressed Individuals and Businesses'
 permalink: /covid19-relief/temporary-relief-individuals-businesses
-breadcrumb: '3. Temporary Relief for Financially Distressed Individuals and Businesses'
+breadcrumb: '3) Temporary Relief for Financially Distressed Individuals and Businesses'
 
 ---
 
