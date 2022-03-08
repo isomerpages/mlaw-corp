@@ -1,0 +1,15 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - why-join-minlaw.md
+      - career-opportunities.md
+      - Meet Our Colleagues/.keep
+      - Meet Our Colleagues/meet-our-colleagues.md
+      - Meet Our Colleagues/ms-amanda-tan.md
+      - Meet Our Colleagues/ms-sharizah-shariff.md
+      - Meet Our Colleagues/ms-rachel-gan.md
+      - Meet Our Colleagues/ms-tan-rou-en.md
+      - Meet Our Colleagues/ms-tay-li-sheng.md
+      - minlaw-internship-programme.md
+      - meet-our-interns.md

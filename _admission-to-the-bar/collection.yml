@@ -1,0 +1,11 @@
+collections:
+  admission-to-the-bar:
+    output: true
+    order:
+      - Admission to the Bar/.keep
+      - Admission to the Bar/admission-requirements.md
+      - Admission to the Bar/relevant-legislation.md
+      - alternatives-for-working-in-the-legal-field.md
+      - Applications to the Minister for Law for Exemption/.keep
+      - Applications to the Minister for Law for Exemption/details-on-applying-for-an-exemption.md
+      - Applications to the Minister for Law for Exemption/supporting-documents-for-applications-for-exemption.md
