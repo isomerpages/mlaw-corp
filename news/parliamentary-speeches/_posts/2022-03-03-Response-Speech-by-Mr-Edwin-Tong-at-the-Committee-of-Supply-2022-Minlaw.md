@@ -65,10 +65,10 @@ permalink: /news/parliamentary-speeches/2022-03-03-Response-Speech-by-Mr-Edwin-T
     b.	And if a party still fails to comply, the courts will be given enhanced powers to track and trace assets of the judgment debtor.
 
 {:start="13"}
-13.	These are complex changes. We are studying the options and will engage stakeholders, get the feedback and finetune some of the proposals we have in mind, and we will provide more details in due course.
+13.	These are complex changes. We are studying the options and will engage stakeholders, get the feedback and fine-tune some of the proposals we have in mind, and we will provide more details in due course.
 
 {:start="14"}
-14.	Specifically, on Mr Tay’s concerns on workers encountering difficulties with enforcing Employment Claims Tribunals (“**ECT**”) orders, the proposals I mentioned earlier are intended to apply to ECT orders as well. 
+14.	Specifically, on Mr Tay’s concerns on workers encountering difficulties with enforcing Employment Claims Tribunal (“**ECT**”) orders, the proposals I mentioned earlier are intended to apply to ECT orders as well. 
 
 {:start="15"}
 15.	The Tripartite Alliance for Dispute Resolution Management (“**TADM**”) is mindful that workers should be able to recover their monies efficiently and cost-effectively.
@@ -188,11 +188,11 @@ A.	<u>Access to justice</u>
     b.	SMS Sim Ann will elaborate on this, during MND’s COS speech.   
 
 {:start="42"}
-42.	Second, if a dispute does arise, how can we enhance the framework to promote an amicable resolution as far as possible. After all, most of these disputes occur in the context of a neighbourly situation, where two parties live side by side, or in close proximity to one another. How do we find a solution that better facilitates a fair, expedient, and effective resolution of that dispute, should an amicable solution not be possible? Measures that we are studying include – 
+42.	Second, if a dispute does arise, how can we enhance the framework to promote an amicable resolution as far as possible. After all, most of these disputes occur in the context of a neighbourly situation, where two parties live side by side, or in close proximity to one another. How do we find a solution that better facilitates a fair, expedient, and effective resolution of that dispute, should an amicable resolution not be possible? Measures that we are studying include – 
 
     a.	Making mediation mandatory in some cases; 
 
-    b.	Enhancing the Community Disputes Resolution Tribunals’ processes to simplify proceedings and address pain points, including some of the present difficulties involved in the CDRT process; and
+    b.	Enhancing the Community Disputes Resolution Tribunals’ processes to address pain points, including some of the present difficulties involved in the CDRT process; and
 
     c.	Having an appropriate response protocol to address disputes quickly and effectively.
 
@@ -265,12 +265,12 @@ A.	<u>Access to justice</u>
 {:start="59"}
 59.	Mr Murali proposed reviewing the means test limit in order to strengthen access to justice. 
 
-    a.	It has been less than 3 years since this criteria was revised. 
+    a.	It has been less than 3 years since these criteria were revised. 
 
     b.	We should let this run for a period of time, and study its impact and effectiveness before deciding whether to review the limits again. 
 
 {:start="60"}
-60.	Additionally, we also acknowledge Mr Murali’s suggestion on increasing awareness regarding the waiver of the means test requirements. We completely agree with that, and we will take steps to enhance the awareness. We will work with various other stakeholders, including with Law Society, to do so. 
+60.	Additionally, we also acknowledge Mr Murali’s suggestion on increasing awareness regarding the waiver of the means test requirements. We completely agree with that, and we will take steps to enhance the awareness. We will work with various other stakeholders, including Law Society, to do so. 
 
 *CFAs*
 
@@ -279,7 +279,7 @@ A.	<u>Access to justice</u>
 
     a.	Members will recall that Parliament passed a framework for CFAs in January. This will commence later this year.
 
-    b.	Under this new framework, CFAs will be permitted as an additional litigation funding option for arbitration proceedings, certain proceedings in the SICC, and related court and mediation proceedings
+    b.	Under this new framework, CFAs will be permitted as an additional litigation funding option for arbitration proceedings, certain proceedings in the Singapore International Commercial Court (SICC), and related court and mediation proceedings
 
     c.	We are studying extending CFAs to other categories of proceedings, as I have explained when I made the speech in Parliament in January, such as in domestic litigation and mediation, in order to enhance access to justice.
 
@@ -366,7 +366,7 @@ A.	<u>Access to justice</u>
 73.	They leave for a variety of reasons, including high workload and pressures, some of which the Members have mentioned.  
 
 {:start="74"}
-74.	But while there are lawyers, or there were lawyers who left the profession (the numbers which I have cited), there were equally also new entrants and re-entrants into the profession. In fact, the number of new entrants exceeded those who left the profession every year for the past four years since 2018. There was also a net increase in the number of practice certificates holders (“**PC holders**”) – those who practice law – in 2021, compared to 2020. So overall, while there has been a number of lawyers who have left the profession, equally, as I said, there are others who have come into the profession, either at the start as a young lawyer, or in some cases re-enter the profession, as a mid-career or a more senior lawyer.
+74.	But while there are lawyers, or there were lawyers who left the profession (the numbers of which I have cited), there were equally also new entrants and re-entrants into the profession. In fact, the number of new entrants exceeded those who left the profession every year for the past four years since 2018. There was also a net increase in the number of practising certificates holders (“**PC holders**”) – those who practice law – in 2021, compared to 2020. So overall, while there has been a number of lawyers who have left the profession, equally, as I said, there are others who have come into the profession, either at the start as a young lawyer, or in some cases re-enter the profession, as a mid-career or a more senior lawyer.
 
 {:start="75"}
 75.	That said, I understand the sentiments of young lawyers and the views expressed by Members.  
@@ -575,7 +575,7 @@ A.	<u>Access to justice</u>
 
     b.	Second, SLA will also be transforming the former campus of Loyang Primary School, through adaptive reuse. 
 
-        i.	The first plot – a two-storey building, will be repurposed as a childcare centre. 
+        i.	The first plot – a four-storey building, will be repurposed as a childcare centre. 
 
         ii.	SLA is working with potential tenants to introduce community elements to the adjacent plot – with the aim of creating a synergistic community of complementary users within the same site.
 
