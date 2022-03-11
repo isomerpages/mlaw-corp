@@ -6,7 +6,6 @@ date: 2022-03-03
 layout: post
 description: ""
 ---
-
 03 Mar 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 1.	Mr Chairman, good evening. I thank the Members for their various speeches. 
