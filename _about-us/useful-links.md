@@ -1,11 +1,8 @@
 ---
-title: 'Useful Links'
+title: Useful Links
 permalink: /about-us/useful-links/
-breadcrumb: 'Useful Links'
-
+breadcrumb: Useful Links
 ---
-
-
 Useful Links
 ---
 
@@ -34,7 +31,7 @@ Useful Links
 * [Licensing & Regulation of Insolvency Practitioners Division](https://lripd.mlaw.gov.sg)
 
 
-**Other Agencies & Information**
+**Other Agencies**
 
 * [ASEAN Law Association](http://www.aseanlawassociation.org/)
 
@@ -86,4 +83,9 @@ Useful Links
 
 * [Urban Redevelopment Authority](https://www.ura.gov.sg/Corporate/)
  
-<p class="right-side-updated">Last updated on 27 Feb 2017</p>
+ 
+**Useful Information**
+
+* [Taking evidence for civil proceedings in Singapore from witnesses located overseas](https://www.singaporelawwatch.sg/About-Singapore-Law/Civil-Practice-ADR/requirements-of-foreign-jurisdictions-on-the-taking-of-evidence-given-voluntarily-by-way-of-live-video-link-from-a-witness-located-in-their-jurisdiction-in-civil-proceedings-before-singapore-courts/)
+
+<p class="right-side-updated">Last updated on 15 Mar 2022</p>
