@@ -1,20 +1,17 @@
 ---
-title: 'Organisation Structure'
+title: Organisation Structure
 permalink: /about-us/organisation-structure/
-breadcrumb: 'Organisation Structure'
-
+breadcrumb: Organisation Structure
 ---
-
-
 Organisation Structure
 ---
 
 <div class="image">
-  <a href="/files/MinLaw Org Chart_01 Jan 2022.pdf">
+  <a href="/files/Organisation Structure/MinLaw_Org_Chart_15Mar2022.pdf">
     <br>
     <br>
-    <img src="/images/MinLaw Org Chart_01 Jan 2022.jpg" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/Organisation Structure/MinLaw_Org_Chart_15Mar2022.jpg" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
-<p class="right-side-updated">Last updated on 1 Jan 2022</p>
+<p class="right-side-updated">Last updated on 15 Mar 2022</p>
