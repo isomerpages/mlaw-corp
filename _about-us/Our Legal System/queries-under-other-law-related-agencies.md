@@ -1,12 +1,9 @@
 ---
-title: 'Queries under other law-related agencies'
+title: Queries under other law-related agencies
 permalink: /about-us/our-legal-system/queries-under-other-law-related-agencies/
-breadcrumb: 'Queries under other law-related agencies'
-third_nav_title: 'Our Legal System'
-
+breadcrumb: Queries under other law-related agencies
+third_nav_title: Our Legal System
 ---
-
-
 Queries under other law-related agencies
 ---
 
@@ -73,11 +70,10 @@ If you wish to seek assistance for any of our pro bono initiatives, please conta
   <b>
   <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">The Law Society of Singapore</a><br>
     <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">Pro Bono Services Office</a><br>
-      Subordinate Courts, Level 5<br>
-      1 Havelock Square<br>
-      Singapore 059724<br>
-      Tel: 6536 0650<br>
-      Fax: 6534 5237<br>
+1 Havelock Square<br>
+#B1-18 State Courts<br> 
+Singapore 059724<br>
+Tel: 6536 0650<br>
     
 <p class="address-centered">
   <b>Operating Hours:</b><br>
