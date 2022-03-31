@@ -1,11 +1,8 @@
 ---
-title: 'Our Management'
+title: Our Management
 permalink: /about-us/our-management/
-breadcrumb: 'Our Management'
-
+breadcrumb: Our Management
 ---
-
-
 <style>
   .img-gallery {
   width: 200px;
@@ -38,9 +35,9 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/PS Lai Wei Lin.jpg" title="Ms Lai Wei Lin" alt="Ms Lai Wei Lin">
+  <img src="/images/Mr_Loh_Khum_Yean.jpg" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
 </div>
-  <b>Ms Lai Wei Lin</b><br>
+  <b>Mr Loh Khum Yean</b><br>
   Permanent Secretary<br>
   Ministry of Law<br><br>
 
@@ -51,4 +48,4 @@ Our Management
   Deputy Secretary<br>
   Ministry of Law<br>
 
-<p class="right-side-updated">Last updated on 19 Oct 2019</p>
+<p class="right-side-updated">Last updated on 1 Apr 2022</p>
