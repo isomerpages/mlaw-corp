@@ -1,11 +1,8 @@
 ---
-title: 'Contact Us'
+title: Contact Us
 permalink: /about-us/contact-us/
-breadcrumb: 'Contact Us'
-
+breadcrumb: Contact Us
 ---
-
-
 <style>
   .image {margin-bottom: 1em;}
 </style>
@@ -24,14 +21,24 @@ Have questions?
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
   <b>Our Live Chat Agents are available from:</b><br>
-Mondays to Fridays, 10am to 12pm, 2pm to 4pm
-<br>
+Mondays to Fridays, 8.30am to 5pm<br>
 
 The live chat will address enquiries on:
-* Rental Waiver Framework
+* Individual Insolvency
+* Corporate Insolvency
+* Debt Repayment scheme
+* Licensing & Regulation of Insolvency Practitioners
 * Public Trustee
+* Registry of Moneylenders
+* Registry of Pawnbrokers
+* Legal Services Regulatory Authority
+* Legal Industry Division
+* Legal Aid Bureau
+* Community Mediation Centre
+* Precious Stones and Precious Metals Dealers 
+* Covid-19 Temporary Measures
 
-For all other queries, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>
+If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
 
 <!-- End Live chat -->
@@ -101,4 +108,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 19 Aug 2021</p> 
+<p class="right-side-updated">Last updated on 19 Aug 2021</p>
