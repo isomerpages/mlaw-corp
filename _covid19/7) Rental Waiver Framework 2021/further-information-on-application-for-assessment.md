@@ -2,10 +2,8 @@
 title: Further Information on Application for Assessment
 permalink: /covid19-relief/further-information-on-application-for-assessment
 breadcrumb: Further Information on Application for Assessment
-third_nav_title: '7) Rental Waiver Framework 2021'
-
+third_nav_title: 7) Rental Waiver Framework 2021
 ---
-
 ### Further Information on Application for Assessment ###
 
  - <a href="#intro" id="refa">A. Introduction</a>
@@ -131,13 +129,4 @@ The rental waiver assessor’s determination will be binding on all landlords (i
 <u>Response by Tenant-occupier/Landlord</u>
 
 The tenant-occupier/landlord may, no later than 5 working days after being served with a copy of the application for a rental waiver assessor’s determination and the Registry’s acknowledgement, submit to the Registry a response to the application. The respondent must also serve the applicant a copy of the response via email, registered post or internet-based messaging service.
-
-##### <a name="info">D. Registry Information</a><a href="#refd" title="Return to top">↩</a> #####
-
-If you require assistance on application matters, you may call the Registry during office hours at 1800-2255-793 (1800-CALL-RWF). 
-
-The office hours of the Registry are —
-- between 8.30 a.m. and 6 p.m. from Monday to Thursday (except public holidays);
-- between 8.30 a.m. and 5.30 p.m. on Friday (except public holidays); but
-- between 8.30 a.m. and 12 noon on the eves of the New Year, Lunar New Year and Christmas.
 
