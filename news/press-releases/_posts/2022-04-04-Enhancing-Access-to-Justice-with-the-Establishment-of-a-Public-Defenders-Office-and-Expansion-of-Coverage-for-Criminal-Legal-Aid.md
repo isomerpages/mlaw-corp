@@ -2,7 +2,7 @@
 layout: post
 title: Enhancing Access to Justice with the Establishment of a Public Defender’s Office and Expansion of Coverage for Criminal Legal Aid 
 date: 2022-04-04
-permalink: /news/press-releases/Enhancing-Access-to-Justice-with-the-Establishment-of-a-Public-Defenders-Office-and-Expansion-of-Coverage-for-Criminal-Legal-Aid 
+permalink: /news/press-releases/2022-04-04-Enhancing-Access-to-Justice-with-the-Establishment-of-a-Public-Defenders-Office-and-Expansion-of-Coverage-for-Criminal-Legal-Aid 
 
 ---
 
