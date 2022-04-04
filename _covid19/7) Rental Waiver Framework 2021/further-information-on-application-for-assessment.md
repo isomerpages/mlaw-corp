@@ -9,7 +9,6 @@ third_nav_title: 7) Rental Waiver Framework 2021
  - <a href="#intro" id="refa">A. Introduction</a>
  - <a href="#scope" id="refb">B. Scope for Assessments</a>
  - <a href="#process" id="refc">C. Application Process</a>
- - <a href="#info" id="refd">D. Registry Information</a>
 
 ##### Additional Resources ##### 
 [Registrar’s Directives](/files/rentalwaiverframework/RWF2021_Registrar_Directives.pdf)
@@ -129,4 +128,3 @@ The rental waiver assessor’s determination will be binding on all landlords (i
 <u>Response by Tenant-occupier/Landlord</u>
 
 The tenant-occupier/landlord may, no later than 5 working days after being served with a copy of the application for a rental waiver assessor’s determination and the Registry’s acknowledgement, submit to the Registry a response to the application. The respondent must also serve the applicant a copy of the response via email, registered post or internet-based messaging service.
-
