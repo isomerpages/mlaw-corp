@@ -14,7 +14,7 @@ permalink: /news/press-releases/2022-04-04-Enhancing-Access-to-Justice-with-the-
 {:start="2"}
 2.	These changes will enable more Singaporeans to qualify for criminal legal aid, and help to build a more robust and sustainable legal aid system in Singapore. In the course of the review, the Ministry studied the approaches adopted by 11 overseas jurisdictions<sup><a href="#fn1" id="ref1">1</a></sup> and the learning points. We also consulted and took in feedback from the Law Society of Singapore and the legal fraternity.
 
-**Establishing A Public Defender’s Office to Strengthen Criminal Legal**
+**Establishing A Public Defender’s Office to Strengthen Criminal Legal Aid**
 
 {:start="3"}
 3.	The Government will establish a PDO to provide criminal legal aid to those facing non-capital criminal charges in Singapore, but are unable to engage a lawyer due to limited means. (See <b><u>Annex A</u></b> for an overview of the development of our criminal legal aid model over the years.)
@@ -31,19 +31,17 @@ permalink: /news/press-releases/2022-04-04-Enhancing-Access-to-Justice-with-the-
 {:start="7"}
 7.	To establish the PDO, a Public Defender’s Bill (the “<b>Bill</b>”) will be tabled in Parliament. Once the Bill is passed, the PDO aims to start operations by the end of this year. More details of the Bill will be released in due course. 
 
-** Expansion of Criminal Legal Aid Coverage**
+**Expansion of Criminal Legal Aid Coverage**
 
 {:start="8"}
 8.	The Government will also expand criminal legal aid coverage by (a) raising the income limit to cover more Singaporeans of limited means, and (b) expanding the scope of support to cover most offences. 
 
     (a)	<u>Income coverage</u><br>
-<br>
 
 {:start="9"}
 9.	Currently, the income limit for CLAS covers up to the 25th percentile of resident households.<sup><a href="#fn2" id="ref2">2</a></sup> To cover more vulnerable Singaporeans who would find it challenging to afford legal representation, the monthly Per Capita Household Income (PCHI) cut-off will be raised from $950 to $1,500, enabling resident households up to the 35th income percentile to benefit. 
 
     (b)	<u>Offence coverage</u><br>
-<br>
 
 {:start="10"}
 10.	The scope of coverage will also be expanded to all types of offences, except regulatory offences such as traffic summonses and departmental charges<sup><a href="#fn3" id="ref3">3</a></sup>, as well as certain Acts whose primary purpose is to deter specific behaviours, namely gambling and betting, organised and syndicated crime, and terrorism. CLAS currently only covers 17 Acts.
