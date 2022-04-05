@@ -6,18 +6,26 @@ date: 2022-04-04
 layout: post
 description: ""
 ---
+04 Apr 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+
+
 Mr Speaker, Sir,
 
+{:start="1"}
 1.	I beg to move, “That the Bill be now read a second time”.
 
 **Introduction**
 
+{:start="2"}
 2.	This Bill updates the Extradition Act 1968 (“the Act”). The Act provides for the extradition of fugitives – in other words, the surrender of a fugitive by one State to another in which he or she is liable to be prosecuted or punished.
 
+{:start="3"}
 3.	It is invoked when the fugitive flees from the State that he or she has been charged or sentenced to another State. 
 
+{:start="4"}
 4.	As then-Minister for Law and National Development Mr E.W. Barker said when the Act was first passed in Parliament in 1968 – “It is not in States’ interest to afford refuge to criminals from other countries. On the contrary, it is in States’ interests to return fugitives for trial and punishment to the State in which the offence was committed or in which the criminal was convicted.”
 
+{:start="5"}
 5.	It is therefore important for us to review the Act to ensure that our extradition framework remains robust. As such, the policy objective of the proposed amendments in the Bill is the modernisation of our extradition regime. 
 
 6.	This will enhance Singapore’s credibility as a responsible international citizen to:
