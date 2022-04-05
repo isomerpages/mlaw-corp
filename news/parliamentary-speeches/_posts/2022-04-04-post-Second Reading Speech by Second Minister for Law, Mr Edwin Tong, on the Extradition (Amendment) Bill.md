@@ -317,3 +317,5 @@ b)	the Fugitive Offenders Act 1881 for declared Commonwealth territories respect
 
 {:start="66"}
 66.	Mr Speaker, I beg to move.
+
+<p class="right-side-updated">Last updated on 04 Apr 2022</p>
