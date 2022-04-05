@@ -38,7 +38,7 @@ b)	ensure that Singapore is better able to facilitate extradition where justifie
 c)	secure the return of fugitives who have committed offences in Singapore. 
 
 {:start="7"}
-7.	Whilst many of the concepts in the Act remain relevant and is applicable today, apart from minor amendments in 1970  and 1998 , the Act has remained largely unchanged. 
+7.	Whilst many of the concepts in the Act remain relevant and applicable today, apart from minor amendments in 1970  and 1998 , the Act has remained largely unchanged. 
 
 {:start="8"}
 8.	My Ministry conducted an extensive comparative study of various common law and civil law jurisdictions. These jurisdictions include Australia, Brunei, Canada, Malaysia, France, Japan and the United States of America (“the US”), amongst others. 
