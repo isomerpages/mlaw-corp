@@ -50,3 +50,5 @@ description: ""
 **SUPREME COURT OF SINGAPORE**<br>
 **MINISTRY OF LAW**<br>
 **5 April 2022**
+
+<p class="right-side-updated">Last updated on 05 Apr 2022</p>
