@@ -67,7 +67,7 @@ b)	Three areas of procedural reform.
 {:start="14"}
 14.	At present, Singapore can extradite fugitives to:
 
-a)	40 declared Commonwealth territories under the London Scheme for Extradition within the Commonwealth and I will refer to this as the London Scheme – the territories within the Commonwealth including Australia, Canada and the United Kingdom (“the UK”). 
+a)	40 declared Commonwealth territories under the London Scheme for Extradition within the Commonwealth and I will refer to this as the London Scheme – the territories within the Commonwealth include Australia, Canada and the United Kingdom (“the UK”). 
 
 b)	Singapore can also extradite fugitives to Germany, the US and Hong Kong – jurisdictions with which an extradition treaty or agreement is in force.  
 
