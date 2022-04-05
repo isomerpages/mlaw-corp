@@ -92,7 +92,7 @@ b)	the protection for persons who are wanted by foreign jurisdictions.
 *First Substantive Reform: Threshold approach*
 
 {:start="18"}
-18. Let me start from the first substantive reform, the threshold approach.	We will adopt a threshold approach for determining whether an offence is extraditable, also known as an “extradition offence”. This would be subject to an exclusionary list. 
+18. Let me start, Sir, with the first substantive reform, on the threshold approach.	We will adopt a threshold approach for determining whether an offence is extraditable, also known as an “extradition offence”. This would be subject to an exclusionary list. 
 
 {:start="19"}
 19.	Currently, the Act provides for a positive list approach, where only offences which are on the list will be extraditable. At the time when the Act was first introduced, the list approach was the norm. The offences listed in our Act were aligned with the negotiated approach in the 1966 London Scheme. 
