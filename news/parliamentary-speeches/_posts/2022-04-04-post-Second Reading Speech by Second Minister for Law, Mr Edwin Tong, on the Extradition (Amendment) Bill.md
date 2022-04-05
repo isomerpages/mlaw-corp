@@ -10,7 +10,7 @@ Mr Speaker, Sir,
 
 1.	I beg to move, “That the Bill be now read a second time”.
 
-Introduction
+**Introduction**
 
 2.	This Bill updates the Extradition Act 1968 (“the Act”). The Act provides for the extradition of fugitives – in other words, the surrender of a fugitive by one State to another in which he or she is liable to be prosecuted or punished.
 
@@ -22,11 +22,11 @@ Introduction
 
 6.	This will enhance Singapore’s credibility as a responsible international citizen to:
 
-(a)	strengthen our ability to combat crime through international cooperation;
+a)	strengthen our ability to combat crime through international cooperation;
 
-(b)	ensure that Singapore is better able to facilitate extradition where justified; and
+b)	ensure that Singapore is better able to facilitate extradition where justified; and
 
-(c)	secure the return of fugitives who have committed offences in Singapore. 
+c)	secure the return of fugitives who have committed offences in Singapore. 
 
 7.	Whilst many of the concepts in the Act remain relevant and is applicable today, apart from minor amendments in 1970  and 1998 , the Act has remained largely unchanged. 
 
@@ -36,13 +36,13 @@ Introduction
 
 10.	There are 5 key amendments in this Bill:
 
-(a)	Two areas of substantive reform; and
+a)	Two areas of substantive reform; and
 
-(b)	Three areas of procedural reform. 
+b)	Three areas of procedural reform. 
 
 11.	There are several other amendments in the Bill, which are technical or consequential in nature. I will explain a few of the more material amendments but as the Explanatory Note to the Bill describes in some detail the nature of the various provisions in the Bill, and I will not elaborate on all of them. 
 
-Overview of Singapore’s extradition arrangements
+**Overview of Singapore’s extradition arrangements**
 
 12.	Sir, before I outline the material amendments, it is important to set out a general overview of Singapore’s extradition framework. 
 
@@ -50,13 +50,13 @@ Overview of Singapore’s extradition arrangements
 
 14.	At present, Singapore can extradite fugitives to:
 
-(a)	40 declared Commonwealth territories under the London Scheme for Extradition within the Commonwealth and I will refer to this as the London Scheme – the territories within the Commonwealth including Australia, Canada and the United Kingdom (“the UK”). 
+a)	40 declared Commonwealth territories under the London Scheme for Extradition within the Commonwealth and I will refer to this as the London Scheme – the territories within the Commonwealth including Australia, Canada and the United Kingdom (“the UK”). 
 
-(b)	Singapore can also extradite fugitives to Germany, the US and Hong Kong – jurisdictions with which an extradition treaty or agreement is in force.  
+b)	Singapore can also extradite fugitives to Germany, the US and Hong Kong – jurisdictions with which an extradition treaty or agreement is in force.  
 
-(c)	    State Parties to multilateral treaties which Singapore is a party to – such as the International Convention against the Taking of Hostages and the International Convention for the Suppression of Terrorist Bombings.
+c)	    State Parties to multilateral treaties which Singapore is a party to – such as the International Convention against the Taking of Hostages and the International Convention for the Suppression of Terrorist Bombings.
 
-(d)	Finally, Malaysia and Brunei – based on the reciprocal arrangements for the endorsement of arrest warrants. 
+d)	Finally, Malaysia and Brunei – based on the reciprocal arrangements for the endorsement of arrest warrants. 
 
 15.	We have also signed a treaty with Indonesia. When it enters into force, we will be able to extradite fugitives to and from Indonesia on the terms as set out in that treaty. 
 Proposed amendments
@@ -65,15 +65,13 @@ Proposed amendments
 
 17.	However, recognising that extradition is a coercive process, we must also ensure that there are robust safeguards in place. This Bill seeks to introduce amendments that would enhance:
 
-(a)	our ability to facilitate extradition requests; and 
+a)	our ability to facilitate extradition requests; and 
 
-(b)	the protection for persons who are wanted by foreign jurisdictions. 
+b)	the protection for persons who are wanted by foreign jurisdictions. 
 
- First Substantive Reform: Threshold approach
+*First Substantive Reform: Threshold approach*
 
-Let me start from the first substantive reform, the threshold approach.
-
-18.	We will adopt a threshold approach for determining whether an offence is extraditable, also known as an “extradition offence”. This would be subject to an exclusionary list. 
+18. Let me start from the first substantive reform, the threshold approach.	We will adopt a threshold approach for determining whether an offence is extraditable, also known as an “extradition offence”. This would be subject to an exclusionary list. 
 
 19.	Currently, the Act provides for a positive list approach, where only offences which are on the list will be extraditable. At the time when the Act was first introduced, the list approach was the norm. The offences listed in our Act were aligned with the negotiated approach in the 1966 London Scheme. 
 
@@ -89,9 +87,9 @@ Let me start from the first substantive reform, the threshold approach.
 
 25.	Members can have a look at the Schedule and will see – 
 
-(a)	offences such as the prohibition of import or transhipment of fresh fruits and vegetables without a licence under the Control of Plants Act 1993. That is excluded from extradition. 
+a)	offences such as the prohibition of import or transhipment of fresh fruits and vegetables without a licence under the Control of Plants Act 1993. That is excluded from extradition. 
 
-(b)	Another example – the production of false evidence on the register of trade marks under the Trade Marks Act 1998, and some other form of building control offences of that nature. 
+b)	Another example – the production of false evidence on the register of trade marks under the Trade Marks Act 1998, and some other form of building control offences of that nature. 
 
 26.	The threshold approach will make it easier to determine when an offence is extraditable. If it attracts a maximum punishment of 2 years’ imprisonment or more, it is extraditable, so long as it is not on the list of excluded offences.
 
@@ -119,19 +117,19 @@ ii)	This restriction is consistent with our own domestic legislation, Section 15
 
 iii)	This mandatory restriction, however, does not apply if the fugitive had deliberately absented himself or herself, or if there is opportunity for retrial.
 
-(b)	Where the prosecution of the fugitive is barred in the requesting State by its limitation period: 
+b)	Where the prosecution of the fugitive is barred in the requesting State by its limitation period: 
 
 i)	For example, if the limitation period for the prosecution of an offence is 15 years, and the extradition of the fugitive is requested 20 years after the offence was committed, then the requesting State would not be able to prosecute the fugitive by virtue of its own limitation period. 
 
 ii)	That being the case, it would not be appropriate for Singapore to facilitate that extradition, since the requesting State would not be able to prosecute the fugitive upon his or her return. 
 
-(c)	    The restrictions also apply where the offence committed is for a military offence which is not punishable under criminal law:
+c)	    The restrictions also apply where the offence committed is for a military offence which is not punishable under criminal law:
 
 i)	As a tool in international criminal cooperation, extradition is meant to combat crimes as opposed to disciplinary offences within a military organisation. 
 
 ii)	This is also consistent with the London Scheme, as well as the approach which we have taken under our Mutual Assistance in Criminal Matters Act 2000 (“the MACMA”). This is a mandatory restriction. 
 
-(d)	The next category, is where the remaining imprisonment term for the fugitive is de minimus in nature: 
+d)	The next category, is where the remaining imprisonment term for the fugitive is de minimus in nature: 
 
 i)	This applies to a fugitive who has been convicted and sentenced for a crime in the requesting State. 
 
@@ -145,7 +143,7 @@ v)	This however, is a discretionary restriction. Because there may be instances 
 
 31.	The updated and expanded restrictions on surrender will provide more robust safeguards for individuals who are subjects of extradition requests.
 
-First Procedural Reform: Consent to extradition
+*First Procedural Reform: Consent to extradition*
 
 32.	Let me move on to the first procedural reform, this deals with consent to extradition. Clause 6 of the Bill introduces a mechanism for fugitives to consent to their extradition under the new Sections 16 and 21. At present, the Act does not allow a fugitive to consent to extradition, and all fugitives must undergo the full extradition proceedings. This leads to cases where extradition proceedings continue, even though the fugitive has indicated that he or she would not contest the proceedings.
 
@@ -157,19 +155,19 @@ First Procedural Reform: Consent to extradition
 
 36.	In this case, there are also safeguards – 
 
-(a)	The Court has to ascertain that the fugitive’s consent is voluntary and inform the fugitive of the consequences of that consent. 
+a)	The Court has to ascertain that the fugitive’s consent is voluntary and inform the fugitive of the consequences of that consent. 
 
-(b)	A specialty undertaking would be obtained from the requesting State, unless the fugitive waives such an undertaking. 
+b)	A specialty undertaking would be obtained from the requesting State, unless the fugitive waives such an undertaking. 
 
-(i)	This means that the fugitive will only be prosecuted for the offences stated in the extradition request, and not for additional offences. 
+i)	This means that the fugitive will only be prosecuted for the offences stated in the extradition request, and not for additional offences. 
 
-(ii)	This will ensure the fugitive does not lose an important protection simply because he or she consents to extradition. 
+ii)	This will ensure the fugitive does not lose an important protection simply because he or she consents to extradition. 
 
-(iii)	It also ensures the fugitive understands the full scope of offences for which he or she will be prosecuted for.  
+iii)	It also ensures the fugitive understands the full scope of offences for which he or she will be prosecuted for.  
 
 37.	This will align Singapore with many other jurisdictions - such as Australia, Canada, Germany, Malaysia, New Zealand, the UK and the US - that allow fugitives to consent to their extradition.
 
- Second Procedural Reform: Centralise review procedures for extradition proceedings
+*Second Procedural Reform: Centralise review procedures for extradition proceedings*
 
 38.	Next, I will touch on amendments which seek to centralise review procedures for extradition proceedings. The Bill consolidates the applicable procedures for review of a Magistrate’s order. After a fugitive is apprehended, a Magistrate will hear evidence as to whether the fugitive ought to be committed to prison to await surrender to the requesting State. 
 
@@ -179,9 +177,9 @@ First Procedural Reform: Consent to extradition
 
 41.	We have therefore consolidated the applicable procedures for a review of a Magistrate’s order in the new Section 17. 
 
-(a)	First, it incorporates the fugitive’s right to apply to the High Court under the CPC for an order for review of detention. 
+a)	First, it incorporates the fugitive’s right to apply to the High Court under the CPC for an order for review of detention. 
 
-(b)	Second, it introduces a new mechanism to allow the Attorney-General, on behalf of the requesting State, to apply to the High Court to review a Magistrate’s decision to release the fugitive. 
+b)	Second, it introduces a new mechanism to allow the Attorney-General, on behalf of the requesting State, to apply to the High Court to review a Magistrate’s decision to release the fugitive. 
 
 42.	A review of a Magistrate’s order does not require permission of the court and can be on a question of fact or law. The High Court may make an order or direction as it thinks fit upon the review, and the High Court’s decision is final. This is to ensure there will be finality to the proceedings. 
 
@@ -193,7 +191,7 @@ First Procedural Reform: Consent to extradition
 
 46.	This aligns Singapore’s extradition framework with international practice, and the provisions of the London Scheme.
 
- Third Procedural Reform: Update evidential procedures for extradition proceedings
+*Third Procedural Reform: Update evidential procedures for extradition proceedings*
 
 47.	Next, let me touch on the amendments which update evidential procedures for extradition proceedings. In deciding whether a fugitive should be committed to await extradition to the requesting State, the court must consider whether there is sufficient evidence to warrant the extradition. Usually, this evidence is presented by way of affidavits, which can sometimes be voluminous. This includes affidavits of potential witnesses. 
 
@@ -203,9 +201,9 @@ First Procedural Reform: Consent to extradition
 
 50.	The record of the case must be certified by a judicial or prosecuting authority of the requesting State, who must state that the evidence summarised or contained in the record of the case is:
 
-(a)	available to be produced at the person’s trial, and 
+a)	available to be produced at the person’s trial, and 
 
-(b)	sufficient under the law of the requesting State to justify prosecution of the person. 
+b)	sufficient under the law of the requesting State to justify prosecution of the person. 
 
 51.	The Court retains discretion in determining the weight to be given to the evidence admitted by way of a record of the case. 
 
@@ -224,15 +222,15 @@ Other Amendments
 
 58.	These other statutes implement and give effect to the various multilateral conventions which Singapore is a party to, including extradition provisions contained in conventions such as:
 
-(a)	Terrorism (Suppression of Financing) Act 2002 which implements Singapore’s obligations under the International Convention for the Suppression of the Financing of Terrorism; and
+a)	Terrorism (Suppression of Financing) Act 2002 which implements Singapore’s obligations under the International Convention for the Suppression of the Financing of Terrorism; and
 
-(b)	Terrorism (Suppression of Bombings) Act 2007 which implements our obligations under the International Convention for the Suppression of Terrorist Bombings. 
+b)	Terrorism (Suppression of Bombings) Act 2007 which implements our obligations under the International Convention for the Suppression of Terrorist Bombings. 
 
 59.	The Bill consolidates the extradition framework for foreign States and declared Commonwealth territories into a single framework. These frameworks were previously separate due to the historical fact that the provisions were derived from:
  
-(a)	the Extradition Act 1870 for foreign States, and 
+a)	the Extradition Act 1870 for foreign States, and 
 
-(b)	the Fugitive Offenders Act 1881 for declared Commonwealth territories respectively.  
+b)	the Fugitive Offenders Act 1881 for declared Commonwealth territories respectively. 
 
 60.	Over time, the relevant considerations and safeguards applied similarly across foreign States or Commonwealth territories, regardless of where the request was made. We have therefore streamlined and combined the frameworks for clarity. The Bill provides for a new Part 3 for “Extradition From Singapore” and a new Part 4 for “Extradition To Singapore”. So, simplifying it into two buckets – to Singapore, and from Singapore. 
 
@@ -248,4 +246,4 @@ Other Amendments
 
 65.	With these amendments, Singapore will enhance its ability to combat crime through international cooperation. 
 
-66.	Mr Speaker, I beg to move. 
+66.	Mr Speaker, I beg to move.
