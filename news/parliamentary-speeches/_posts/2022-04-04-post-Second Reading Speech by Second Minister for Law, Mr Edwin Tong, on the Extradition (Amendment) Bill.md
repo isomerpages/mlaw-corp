@@ -78,7 +78,7 @@ d)	Finally, Malaysia and Brunei – based on the reciprocal arrangements for the
 {:start="15"}
 15.	We have also signed a treaty with Indonesia. When it enters into force, we will be able to extradite fugitives to and from Indonesia on the terms as set out in that treaty. 
 
-*Proposed amendments*
+**Proposed amendments**
 
 {:start="16"}
 16.	The proposed amendments seek to strike the right balance between international cooperation and individual liberty. As a responsible global citizen, we must contribute to the fight against crime, by empowering our authorities to facilitate extradition requests, where justified. 
