@@ -47,7 +47,7 @@ c)	secure the return of fugitives who have committed offences in Singapore.
 9.	To keep pace with current needs, it is timely to introduce modern concepts, taking into account global developments and international practice.
 
 {:start="10"}
-10.	There are 5 key amendments in this Bill:
+10.	There are five key amendments in this Bill:
 
 a)	Two areas of substantive reform; and
 
@@ -77,7 +77,8 @@ d)	Finally, Malaysia and Brunei – based on the reciprocal arrangements for the
 
 {:start="15"}
 15.	We have also signed a treaty with Indonesia. When it enters into force, we will be able to extradite fugitives to and from Indonesia on the terms as set out in that treaty. 
-Proposed amendments
+
+*Proposed amendments*
 
 {:start="16"}
 16.	The proposed amendments seek to strike the right balance between international cooperation and individual liberty. As a responsible global citizen, we must contribute to the fight against crime, by empowering our authorities to facilitate extradition requests, where justified. 
@@ -95,7 +96,7 @@ b)	the protection for persons who are wanted by foreign jurisdictions.
 18. Let me start, Sir, with the first substantive reform, on the threshold approach.	We will adopt a threshold approach for determining whether an offence is extraditable, also known as an “extradition offence”. This would be subject to an exclusionary list. 
 
 {:start="19"}
-19.	Currently, the Act provides for a positive list approach, where only offences which are on the list would be extraditable. At the time when the Act was first introduced, the list approach was the norm. The offences listed in our Act were aligned with the negotiated approach in the 1966 London Scheme. 
+19.	Currently, the Act provides for a positive list approach, where only offences which are on the list would be extraditable. At the time the Act was first introduced, the list approach was the norm. The offences listed in our Act were aligned with the negotiated approach in the 1966 London Scheme. 
 
 {:start="20"}
 20.	However, since that time, international practice is moving away from the list approach in favour of the threshold approach. For instance, the London Scheme itself, was amended to adopt the threshold approach in 2002.  
@@ -137,7 +138,7 @@ c)	    At the same time, we are expanding the safeguards under which a fugitive�
 28.	The second substantive reform deals with the expansion of restrictions on surrender. We are seeking to update and expand the restrictions on the surrender of fugitives in the Act. 
 
 {:start="29"}
-29.	A request for extradition may be refused in certain circumstances. These are referred to as restrictions on surrender. There are several restrictions under the current Act. 
+29.	A request for extradition may be refused in certain circumstances. These are referred to as restrictions on surrender and there are several restrictions under the current Act. 
 
 {:start="30"}
 30.	Clause 6 of the Bill inserts four new restrictions under new Sections 8 and 9:
@@ -172,7 +173,7 @@ iii)	Singapore may reject the request if the remaining imprisonment term which t
  
 iv)	We have introduced this restriction as it may not be appropriate to extradite a fugitive where the remaining imprisonment term may be shorter than the time required to complete the extradition process itself. 
 
-v)	This however, is a discretionary restriction. Because there may be instances where surrender of the fugitive is nevertheless warranted, despite having met the requirement for the discretionary restriction.  
+v)	This, however, is a discretionary restriction. Because there may be instances where surrender of the fugitive is nevertheless warranted, despite having met the requirement for the discretionary restriction.  
 
 {:start="31"}
 31.	The updated and expanded restrictions on surrender will provide more robust safeguards for individuals who are subjects of extradition requests.
@@ -226,7 +227,7 @@ a)	First, it incorporates the fugitive’s right to apply to the High Court unde
 b)	Second, it introduces a new mechanism to allow the Attorney-General, on behalf of the requesting State, to apply to the High Court to review a Magistrate’s decision to release the fugitive. 
 
 {:start="42"}
-42.	A review of a Magistrate’s order does not require permission of the court and can be on a question of fact or law. The High Court may make an order or direction as it thinks fit upon the review, and the High Court’s decision is final. This is to ensure there will be finality to the proceedings. 
+42.	A review of a Magistrate’s order does not require permission of the court and can be on a question of fact or law. The High Court may make an order or direction as it thinks fit upon the review, and the High Court’s decision is final. This is to ensure that there will be finality to the proceedings. 
 
 {:start="43"}
 43.	We have provided for the possibility of the fugitive being released on bail, pending the determination of the High Court’s review of the Attorney-General’s application. This balances the rights of the individual with the State’s international obligations. 
