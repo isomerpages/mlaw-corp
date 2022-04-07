@@ -44,11 +44,13 @@ description: ""
 
 | Singapore    | China |
 | ----------- | ----------- |
-| <b>Cavinder Bull SC</b><br>
-Vice President, Court of Arbitration, Singapore International Arbitration Centre (SIAC); CEO, Drew & Napier     | <b>Xiao Yongping</b><br>
-Director, Wuhan University Institute of International Law; Standing Vice President of China Society of Private International Law      |
-
-
+| <b>Cavinder Bull SC</b> <br>Vice President, Court of Arbitration, Singapore International Arbitration Centre (SIAC); CEO, Drew & Napier     | <b>Xiao Yongping</b><br>Director, Wuhan University Institute of International Law; Standing Vice President of China Society of Private International Law<br> |
+| <b>Daryl Chew</b> <br>Chairman of the Board of Directors, Maxwell Chambers; Managing Partner, Three Crowns LLP, Singapore office; Co-Chair, Young Singapore International Arbitration Centre (YSIAC) Committee     | <b>Li Hu</b><br>Vice Chairman, China Maritime Arbitration Commission (CMAC); Arbitrator of International Center for Settlement of Investment Disputes (ICSID) <br> |
+| <b>Chia Kim Huat</b> <br>Regional Head, Corporate & Transactional Practice, Rajah & Tann Singapore LLP; Legal Advisor, Singapore-China Business Association     | <b>Liu Jingdong</b><br>Director, International Economic Law Department, the Institute for International Law of Chinese Academy of Social Sciences; Member of the International Commercial Expert Committee of the Supreme People’s Court<br> |
+| <b>Hee Theng Fong</b> <br>Lawyer, Arbitrator, Mediator; Consultant, Harry Elias Partnership LLP     | <b>Wang Xuehua</b><br>Founding Partner, Huanzhong & Partners; Executive Director, China Arbitration Law Society<br> |
+| <b>Adrian Tan</b> <br>President, Law Society of Singapore; Partner, TSMP Law Corporation     | <b>Li Shouping</b><br>Academician, International Academy of Astronautics (IAA); Dean of Law School of Beijing Institute of Technology<br> |
+| <b>Yip Man</b> <br>Associate Professor of Law, Yong Pung How School of Law, Singapore Management University; Director, Centre for Commercial Law in Asia, Singapore Management University     | <b>Zhang Zhenan</b><br>Senior Partner, Shanghai Co-Effort Law Firm; Deputy Chairman, Shanghai Chamber of Commerce for Import & Export <br> |
+ 
 
 **MINISTRY OF LAW**
 <br>**07 APRIL 2022**
