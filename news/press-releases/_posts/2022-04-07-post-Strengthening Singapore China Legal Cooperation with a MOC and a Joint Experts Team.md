@@ -55,7 +55,7 @@ description: ""
 **MINISTRY OF LAW**
 <br>**07 APRIL 2022**
 
-[Annex](/files/news/press-releases/2022/01/SGChinaIDRC2022_Press_Release_Annex.pdf)<br>
+[Annex - Members of the Joint Experts Team](/files/news/press-releases/2022/01/SGChinaIDRC2022_Press_Release_Annex.pdf)<br>
 
 
 <p class="right-side-updated">Last updated on 07 Apr 2022</p>
