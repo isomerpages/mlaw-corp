@@ -25,7 +25,7 @@ description: ""
 
 **Areas of legal cooperation**
 
-*Memorandum of Cooperation (MOC) *
+*Memorandum of Cooperation (MOC)*
 
 {:start="6"}
 6.	An MOC was signed between MinLaw and CCPIT to reinforce commitment on organising a joint high-level conference on international commercial dispute resolution annually. The MOC was signed by Mr Calvin Phua, Deputy Secretary of MinLaw, and Mr Ke Liangdong, Vice Chairperson of CCPIT. 
