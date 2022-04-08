@@ -40,7 +40,7 @@ Ladies and Gentlemen
 {:start="3"}
 3.	I still very vividly recall our inaugural conference in Beijing in January 2019. I dug up some old photos to show you how different it was back then – more than three years ago now.  
 
-    a) It was, in my view, a resounding success for all parties involved at the inaugural conference.<br>
+    a) It was, in my view, a resounding success for all parties involved at the inaugural conference.
 	 
 	 	 b) For our speakers and moderators, it was an opportunity to share knowledge and experience, make friends, and learn from one another.
 		
