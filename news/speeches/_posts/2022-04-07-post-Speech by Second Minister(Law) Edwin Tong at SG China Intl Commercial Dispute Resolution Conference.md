@@ -42,7 +42,7 @@ Ladies and Gentlemen
 
     a) It was, in my view, a resounding success for all parties involved at the inaugural conference.<br>
 	 
-	 	 b) For our speakers and moderators, it was an opportunity to share knowledge and experience, make friends, and learn from one another.<br>
+	 	 b) For our speakers and moderators, it was an opportunity to share knowledge and experience, make friends, and learn from one another.
 		
 		 c) For the participants, they not only got to hear about the latest developments in international commercial dispute resolution from the experts, but more importantly, also got to interact with one another – catching up with old friends, and making new ones at the same time. The excited chatter and buzz during the tea breaks and dinner said it all. We cannot quite do it here still, but we will get there.
 		
