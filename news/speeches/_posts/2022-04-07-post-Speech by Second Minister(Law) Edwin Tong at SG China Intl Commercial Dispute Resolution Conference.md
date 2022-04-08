@@ -40,13 +40,13 @@ Ladies and Gentlemen
 {:start="3"}
 3.	I still very vividly recall our inaugural conference in Beijing in January 2019. I dug up some old photos to show you how different it was back then – more than three years ago now.  
 
-    a) It was, in my view, a resounding success for all parties involved at the inaugural conference.
+   a) It was, in my view, a resounding success for all parties involved at the inaugural conference.
 	 
-	 	 b) For our speakers and moderators, it was an opportunity to share knowledge and experience, make friends, and learn from one another.
+   b) For our speakers and moderators, it was an opportunity to share knowledge and experience, make friends, and learn from one another.
+
+   c) For the participants, they not only got to hear about the latest developments in international commercial dispute resolution from the experts, but more importantly, also got to interact with one another – catching up with old friends, and making new ones at the same time. The excited chatter and buzz during the tea breaks and dinner said it all. We cannot quite do it here still, but we will get there.
 		
-		 c) For the participants, they not only got to hear about the latest developments in international commercial dispute resolution from the experts, but more importantly, also got to interact with one another – catching up with old friends, and making new ones at the same time. The excited chatter and buzz during the tea breaks and dinner said it all. We cannot quite do it here still, but we will get there.
-		
- d) And for the organisers – MinLaw and CCPIT, that was the first time we collaborated on a project, and it certainly showed us that we could work well together. It strengthened the friendship that we had built over the years, and set a firm foundation for further and deeper cooperation.
+   d) And for the organisers – MinLaw and CCPIT, that was the first time we collaborated on a project, and it certainly showed us that we could work well together. It strengthened the friendship that we had built over the years, and set a firm foundation for further and deeper cooperation.
 
 {:start="4"}
 4.	I am therefore very glad that we are able to come back here together again, to organise the second conference, especially on this very special and joyous occasion of CCPIT’s 70th anniversary. So, join me as we congratulate CCPIT on reaching a milestone year! 我在此祝贸促会七十周年快乐，愿贸促会好景无限、宏图大展！
