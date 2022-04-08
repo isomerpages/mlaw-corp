@@ -8,23 +8,23 @@ description: ""
 ---
 7 Apr 2022 Posted in [[Speeches](/news/speeches)]
 
-Mr Luo Dongchuan <br>
+**Mr Luo Dongchuan** <br>
 Deputy Secretary and Head of the Commission for Political and Legal Affairs of CPC Fujian Provincial Committee; and<br>
 Head of Maritime Silk Road Central Legal District Leading Group
 
-Mr Lui Tuck Yew<br>
+**Mr Lui Tuck Yew**<br>
 Singapore’s Ambassador to the People’s Republic of China
 
-Mr Cui Yonghui <br>
+**Mr Cui Yonghui** <br>
 Member of the Standing Committee of CPC Fujian Provincial Committee; 
 Secretary of CPC Xiamen Municipal Committee; and<br>
 Head of China’s Maritime Silk Road Central Legal District Xiamen Leading Group
 
-Mr Ren Hongbin <br>
+**Mr Ren Hongbin** <br>
 Secretary of the Leading CPC Members Group; and<br>
 Chairman of the China Council for the Promotion of International Trade (CCPIT)
 
-Speakers and Moderators <br>
+**Speakers and Moderators**<br>
 Friends and Colleagues from Singapore and China<br>
 Distinguished Guests<br>
 Ladies and Gentlemen
