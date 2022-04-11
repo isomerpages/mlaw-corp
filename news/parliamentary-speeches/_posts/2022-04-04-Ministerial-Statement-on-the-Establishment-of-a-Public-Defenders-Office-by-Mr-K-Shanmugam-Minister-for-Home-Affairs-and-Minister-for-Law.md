@@ -199,7 +199,7 @@ Thank you, Mr. Speaker Sir,
 43.	The first two categories of abuse, we can try and have systems and frameworks, to try and detect and deter such practices.  
 
 {:start="44"}
-44.	FThe last category is trickier. Legal aid cannot depend on public outrage. Because once we categorise and the means and merits tests are satisfied, then, and I will come to it, we are going to exclude certain types of cases. But as long as it falls within the categories of cases which will be covered by legal aid, then public outrage on a case-by-case basis cannot be the basis on which legal aid is given or not given. And we will need to think through and explain our position carefully to the public. 
+44.	The last category is trickier. Legal aid cannot depend on public outrage. Because once we categorise and the means and merits tests are satisfied, then, and I will come to it, we are going to exclude certain types of cases. But as long as it falls within the categories of cases which will be covered by legal aid, then public outrage on a case-by-case basis cannot be the basis on which legal aid is given or not given. And we will need to think through and explain our position carefully to the public. 
 
 **C. <u>ESTABLISHMENT OF A PUBLIC DEFENDER’S OFFICE</u>**
 
