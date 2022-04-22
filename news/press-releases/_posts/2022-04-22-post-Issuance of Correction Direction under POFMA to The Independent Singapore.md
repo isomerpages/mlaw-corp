@@ -36,7 +36,7 @@ description: ""
 6.	It is quite false to state, from the interview, that the Minister said that he may be stepping down from his positions. In addition, viewing the whole video will show that the Minister, when he spoke about his own views, also intended his comments to be of general application, for persons holding Ministerial appointments (when seen in the context of past comments of the PAP leadership, and history of the PAP).
 
 {:start="7"}
-7.	The headline <i>K Shanmugam says he may step down as Singapore’s Minister of Law and Home Affairs</i> was deceptive clickbait, with the falsity repeated in the first paragraph of the article.   
+7.	The headline <i>"K Shanmugam says he may step down as Singapore’s Minister of Law and Home Affairs"</i> was deceptive clickbait, with the falsity repeated in the first paragraph of the article.   
 
 <b>Publication of a Correction Notice</b>
 
