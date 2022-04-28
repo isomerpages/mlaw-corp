@@ -33,7 +33,7 @@ description: ""
 *Joint Experts Team*
 
 {:start="7"}
-7.	The twelve members of the Joint Experts Team were unveiled at the Conference. The Team, comprising six members each from Singapore and China with a wealth of legal expertise, will conduct research and make recommendations on the implementation of a joint dispute resolution mechanism and propose a set of rules and procedures that will meet the needs of businesses in Singapore, China and beyond. 
+7.	The twelve members of the Joint Experts Team were unveiled at the Conference. The Team, comprising six members each from Singapore and China with a wealth of legal expertise, will conduct research and make recommendations on the implementation of a joint dispute resolution mechanism.
 
 {:start="8"}
 8.	The setting up of the Team follows an MOU that MinLaw signed with CCPIT on the sidelines of the 16th Joint Council for Bilateral Cooperation (JCBC) in December 2020. At the time, the MOU established a Working Group to study the feasibility of developing a joint dispute resolution mechanism, including a joint dispute resolution centre. The Working Group had recommended that a Joint Experts Team be convened to study the relevant legislation and legal issues.
