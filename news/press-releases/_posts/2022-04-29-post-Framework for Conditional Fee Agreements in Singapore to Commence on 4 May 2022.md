@@ -5,7 +5,7 @@ date: 2022-04-29
 layout: post
 description: ""
 ---
-29 Apr 2021 Posted in [Press releases](/news/press-releases)
+29 Apr 2022 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
 1.	From 4 May 2022, lawyers in Singapore can enter into conditional fee agreements<sup><a href="#fn1" id="ref1">1</a></sup>  (“<b>CFAs</b>”) with clients in selected proceedings with the commencement of a new CFA framework. This provides an additional option, alongside traditional fee agreements provided for under the Legal Profession Act. 
