@@ -24,25 +24,25 @@ description: ""
 
     a.	<u>A lawyer is required to provide information on the CFA to the client before entering into a CFA. This includes:</u> 
 		
-i.	The nature and operation of the CFA and its terms; 
+   i.	The nature and operation of the CFA and its terms; 
 
-ii.	The client’s right to seek independent legal advice before entering into the CFA; 
+   ii.	The client’s right to seek independent legal advice before entering into the CFA; 
 
-iii.	That the uplift fees are not recoverable; and 
+   iii.	That the uplift fees are not recoverable; and 
 
-iv.	That the client continues to be liable for any costs orders that may be made against client by the court or arbitral tribunal. 
+   iv.	That the client continues to be liable for any costs orders that may be made against client by the court or arbitral tribunal. 
 
    b.	<u>The CFA must include the following prescribed terms:</u>
 
-i.	The particulars of the specified circumstances in which remuneration and costs or any part of them are payable to the lawyer under the CFA;
+   i.	The particulars of the specified circumstances in which remuneration and costs or any part of them are payable to the lawyer under the CFA;
 
-ii.	The particulars of any uplift fee, if applicable;   
+   ii.	The particulars of any uplift fee, if applicable;   
 
-iii.	That lawyers and clients must comply with the cooling-off period of five days after a CFA is entered into, during which either party may terminate the agreement via a written notice; 
+   iii.	That lawyers and clients must comply with the cooling-off period of five days after a CFA is entered into, during which either party may terminate the agreement via a written notice; 
 
-iv.	That any variation of the CFA must be in writing and expressly agreed to by all parties to the CFA. For variation related to costs issues, there is also a cooling-off period of three days after the CFA is varied, during which either party may terminate the variation agreement via a written notice; and
+   iv.	That any variation of the CFA must be in writing and expressly agreed to by all parties to the CFA. For variation related to costs issues, there is also a cooling-off period of three days after the CFA is varied, during which either party may terminate the variation agreement via a written notice; and
 
-v.	That on the termination of the CFA during the cooling-off period in 3b(iii) or 3b(iv), the client is not liable for any remuneration or costs incurred during the cooling-off period except those incurred for any service performed during the cooling-off period that was expressly instructed by or agreed to by the client. 
+   v.	That on the termination of the CFA during the cooling-off period in 3b(iii) or 3b(iv), the client is not liable for any remuneration or costs incurred during the cooling-off period except those incurred for any service performed during the cooling-off period that was expressly instructed by or agreed to by the client. 
 
 {:start="6"}
 6.	Lawyers will continue to be subject to existing professional conduct rules against overcharging. This is clarified in accompanying amendments to the Legal Profession (Professional Conduct) Rules.
