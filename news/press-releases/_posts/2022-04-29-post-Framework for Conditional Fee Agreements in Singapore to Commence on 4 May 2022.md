@@ -32,7 +32,7 @@ iii.	That the uplift fees are not recoverable; and
 
 iv.	That the client continues to be liable for any costs orders that may be made against client by the court or arbitral tribunal. 
 
-    b.	<u>The CFA must include the following prescribed terms:</u>
+   b.	<u>The CFA must include the following prescribed terms:</u>
 
 i.	The particulars of the specified circumstances in which remuneration and costs or any part of them are payable to the lawyer under the CFA;
 
