@@ -22,7 +22,7 @@ description: ""
 {:start="5"}
 5.	The following safeguards are in place to mitigate the risk of any potential abuse of CFAs: 
 
-    a.	<u>A lawyer is required to provide information on the CFA to the client before entering into a CFA. This includes:</u> 
+ a.	<u>A lawyer is required to provide information on the CFA to the client before entering into a CFA. This includes:</u> 
 		
    i.	The nature and operation of the CFA and its terms; 
 
@@ -32,8 +32,8 @@ description: ""
 
    iv.	That the client continues to be liable for any costs orders that may be made against client by the court or arbitral tribunal. 
 
-    b.	<u>The CFA must include the following prescribed terms:</u>
-
+b.	<u>The CFA must include the following prescribed terms:</u> 
+		
    i.	The particulars of the specified circumstances in which remuneration and costs or any part of them are payable to the lawyer under the CFA;
 
    ii.	The particulars of any uplift fee, if applicable;   
