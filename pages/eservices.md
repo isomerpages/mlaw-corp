@@ -2,16 +2,18 @@
 title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
-
 ---
-
 **E-Services**
 
-**Insolvency Office E-Services**
+There will be scheduled downtime on 13 May 2022 from 7 pm to 11 pm on following eServices.
 
-GIRO deduction failure for the month of February 2022: A technical issue has affected the GIRO deductions and we are presently working to resolve the issue. Please assist to check your bank account on 25 February 2022 to establish if a GIRO deduction for the month of February 2022 has taken place. If no GIRO deduction has taken place, you may wish to make payment for the month of February 2022 through any SAM Machine or any SingPost office before 28 February 2022.
+* Legal Services Regulatory Authority
+* Exceptions
+* Community Mediation Centre
+* MinLaw Online Enquiries
 
-We apologise for any inconvenience caused and assure you that we are working tirelessly to ensure that there is no further disruption to the GIRO deductions.
+During this maintenance downtime, the eServices portals will be inaccessible. We appreciate your patience and understanding. Thank you
+
 <br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
@@ -21,4 +23,4 @@ We apologise for any inconvenience caused and assure you that we are working tir
 6. [Exemptions (Singapore Bar/FPE)](https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx) 	
 7. [Community Mediation Centre](https://cmc.mlaw.gov.sg/e-services/apply-online/)	
 8. [Legal Aid Bureau](https://eservices.mlaw.gov.sg/labesvc/)	
-9. [Anti-Money Laundering / Countering The Financing Of Terrorism](https://acd.mlaw.gov.sg)	
+9. [Anti-Money Laundering / Countering The Financing Of Terrorism](https://acd.mlaw.gov.sg)
