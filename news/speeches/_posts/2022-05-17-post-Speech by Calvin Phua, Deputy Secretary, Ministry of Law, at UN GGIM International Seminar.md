@@ -79,9 +79,9 @@ ii.	There are also Augmented Reality devices that superimpose digital data of un
 	 
 iii.	These new technologies allow us to better map and survey our underground spaces, facilitating more efficient and effective use of underground space. 
 
-    b)	In land surveying, we have also started using laser scanners that allow millions of data points in vast point clouds to be captured accurately and efficiently. Colin has just showed you one example. This is a huge evolution in the field that used to rely mainly on manual methods and equipment such as stretched out chains and measuring tape. 
+   b)	In land surveying, we have also started using laser scanners that allow millions of data points in vast point clouds to be captured accurately and efficiently. Colin has just showed you one example. This is a huge evolution in the field that used to rely mainly on manual methods and equipment such as stretched out chains and measuring tape. 
  
-	  c)	We have also seen the introduction of advanced geomatics equipment and devices that enable highly effective and efficient data capturing.
+   c) We have also seen the introduction of advanced geomatics equipment and devices that enable highly effective and efficient data capturing.
 
 i.	Mobile and terrestrial laser scanners, supplemented by geodetic total stations, allow the creation of digital representations of ground truths or what is commonly known as digital twins. 
 
