@@ -73,19 +73,19 @@ Ladies and gentlemen
 
    a) I just talked about using underground space. In underground surveying for example, 
 	 
-	 i.	The introduction of new geomatics technology used for underground surveying and mapping, such as the Ground Penetrating Radar, has allowed for visual signatures to be seen of things buried in the substrates without the need to dig up or dig into them.
+i.	The introduction of new geomatics technology used for underground surveying and mapping, such as the Ground Penetrating Radar, has allowed for visual signatures to be seen of things buried in the substrates without the need to dig up or dig into them.
 	 
-	 ii.	There are also Augmented Reality devices that superimpose digital data of underground cables, pipes and structures onto the physical ground. These enable users to know exactly what is beneath them without the need for intrusive surveys.
+ii.	There are also Augmented Reality devices that superimpose digital data of underground cables, pipes and structures onto the physical ground. These enable users to know exactly what is beneath them without the need for intrusive surveys.
 	 
-	 iii.	These new technologies allow us to better map and survey our underground spaces, facilitating more efficient and effective use of underground space. 
+iii.	These new technologies allow us to better map and survey our underground spaces, facilitating more efficient and effective use of underground space. 
 
     b)	In land surveying, we have also started using laser scanners that allow millions of data points in vast point clouds to be captured accurately and efficiently. Colin has just showed you one example. This is a huge evolution in the field that used to rely mainly on manual methods and equipment such as stretched out chains and measuring tape. 
  
 	  c)	We have also seen the introduction of advanced geomatics equipment and devices that enable highly effective and efficient data capturing.
 
-    i.	Mobile and terrestrial laser scanners, supplemented by geodetic total stations, allow the creation of digital representations of ground truths or what is commonly known as digital twins. 
+i.	Mobile and terrestrial laser scanners, supplemented by geodetic total stations, allow the creation of digital representations of ground truths or what is commonly known as digital twins. 
 
-    ii.	The data precision and accuracy are made possible by referencing the data to Singapore’s reference frame via the use of correction data from the Singapore Satellite Positioning Reference Network operated by the Singapore Land Authority.
+ii.	The data precision and accuracy are made possible by referencing the data to Singapore’s reference frame via the use of correction data from the Singapore Satellite Positioning Reference Network operated by the Singapore Land Authority.
 
 {:start="10"}
 10.	Finally, it is important for land administrators from around the world to stay connected and learn from one another. 
