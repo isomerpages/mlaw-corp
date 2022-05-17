@@ -27,11 +27,11 @@ Ladies and gentlemen
 {:start="3"}
 3.	Since its formation in July 2011, the UN-GGIM has played a key role in the development of global geospatial information, and promoting the use of geospatial information to address national and global challenges. 
 
-   a) These efforts have benefitted many nations around the world. 
+    a) These efforts have benefitted many nations around the world. 
 
-   b) In particular, this seminar has served as a useful platform for the exchange of ideas and sharing of experience and practice, in the field of land administration and management.
+    b) In particular, this seminar has served as a useful platform for the exchange of ideas and sharing of experience and practice, in the field of land administration and management.
 
-   c) Now in the video you saw earlier, they asked you a question whether you thought we are small - a small city. Colin has just shared that we are quite small, about 730 square kilometres, with a very high population density of about 7,500 people per square kilometres. And with that, we have many competing needs for the use of the limited land we have. 
+    c) Now in the video you saw earlier, they asked you a question whether you thought we are small - a small city. Colin has just shared that we are quite small, about 730 square kilometres, with a very high population density of about 7,500 people per square kilometres. And with that, we have many competing needs for the use of the limited land we have. 
 
 {:start="4"}
 4.	So it is quite vital that we make good use of the limited land that we have, and it’s quite apt that the theme of today’s seminar is effective land administration.  
