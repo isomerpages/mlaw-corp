@@ -39,20 +39,20 @@ Ladies and gentlemen
 {:start="5"}
 5.	Let me give you a sense of how we try to make good use of our land. We do it in two ways. The first is by adopting a long-term and integrated planning approach. 
 
-   a) This includes the preparation and regular review of the Long-Term plan that will guide Singapore’s development over 40-50 years. 
+    a) This includes the preparation and regular review of the Long-Term plan that will guide Singapore’s development over 40-50 years. 
 
-   b) This plan then ensures that there is sufficient land to meet the needs of long-term population and economic growth, and provide a quality living environment. 
+    b) This plan then ensures that there is sufficient land to meet the needs of long-term population and economic growth, and provide a quality living environment. 
 
-   c) The broad, long-term strategies in the Long-Term plan are then translated into detailed plans for implementation over the next 10 to 15 years.
+    c) The broad, long-term strategies in the Long-Term plan are then translated into detailed plans for implementation over the next 10 to 15 years.
 
 {:start="6"}
 6.	This long-term, integrated planning approach is complemented and supported by a sound land administration and management system, which has a few key features, including:
 
-   a) One, a robust and efficient registration and land surveying system, which safeguards property rights, provides certainty and clarity of ownership, and allows transactions to be carried out efficiently and accurately. Comprehensive land information is also made available to serve the needs of the public and the industry.
+    a) One, a robust and efficient registration and land surveying system, which safeguards property rights, provides certainty and clarity of ownership, and allows transactions to be carried out efficiently and accurately. Comprehensive land information is also made available to serve the needs of the public and the industry.
 
-   b) Two, an equitable land taxation and pricing framework, that maximises the use of our state land assets, to meet changing socio-economic needs.
+    b) Two, an equitable land taxation and pricing framework, that maximises the use of our state land assets, to meet changing socio-economic needs.
 
-   c) And three, a fair and efficient land acquisition framework, which allows private land to be acquired to facilitate public projects. 
+    c) And three, a fair and efficient land acquisition framework, which allows private land to be acquired to facilitate public projects. 
 
 **Building a future ready land administration regime**
 
@@ -61,17 +61,17 @@ Ladies and gentlemen
 
 {:start="8"}
 8.	First, land administrators have to constantly seek out opportunities to make efficient use of space in novel ways, and identify the means to map out and administer new grounds.
- 
-   a) In our context, to overcome our land resource constraint, as Colin has shared earlier, we had to look into using underground spaces more extensively. 
 
-   b) This goes beyond the more traditional uses of building railways and roads underground. We are expanding the potential uses, such as underground pedestrian networks, deep utility tunnels and utility plants, as well as other deep underground storage facilities, sometimes in the heart of urban areas.
+    a) In our context, to overcome our land resource constraint, as Colin has shared earlier, we had to look into using underground spaces more extensively. 
 
-   c) To guide the planning and management of underground spaces, we have launched the Special Detailed and Control Plan to guide and shape how underground space could be developed and used.
+    b) This goes beyond the more traditional uses of building railways and roads underground. We are expanding the potential uses, such as underground pedestrian networks, deep utility tunnels and utility plants, as well as other deep underground storage facilities, sometimes in the heart of urban areas.
+
+    c) To guide the planning and management of underground spaces, we have launched the Special Detailed and Control Plan to guide and shape how underground space could be developed and used.
 
 {:start="9"}
 9.	Secondly, administrators should leverage technology to transform processes.
 
-   a) I just talked about using underground space. In underground surveying for example, 
+    a) I just talked about using underground space. In underground surveying for example, 
 	 
 i.	The introduction of new geomatics technology used for underground surveying and mapping, such as the Ground Penetrating Radar, has allowed for visual signatures to be seen of things buried in the substrates without the need to dig up or dig into them.
 	 
@@ -90,11 +90,11 @@ ii.	The data precision and accuracy are made possible by referencing the data to
 {:start="10"}
 10.	Finally, it is important for land administrators from around the world to stay connected and learn from one another. 
 
-   a)	Forums like this provide the opportunity for representatives to learn from each other’s experiences. In particular, it would be useful to learn how the various countries have been implementing the Framework for Effective Land Administration.
+    a)	Forums like this provide the opportunity for representatives to learn from each other’s experiences. In particular, it would be useful to learn how the various countries have been implementing the Framework for Effective Land Administration.
 
-   b)	I understand that you will also have the chance to learn about the latest technologies for geospatial and national mapping, as well as innovations in land administrative frameworks.
+    b)	I understand that you will also have the chance to learn about the latest technologies for geospatial and national mapping, as well as innovations in land administrative frameworks.
 
-   c) Most importantly, while we have many ways to meet online, nothing beats getting together and meeting each other in person and sharing our views and exchanging our experiences
+    c) Most importantly, while we have many ways to meet online, nothing beats getting together and meeting each other in person and sharing our views and exchanging our experiences
 
 **Closing remarks**
 
