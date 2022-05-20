@@ -5,14 +5,6 @@ breadcrumb: E-Services
 ---
 **E-Services**
 
-There will be scheduled downtime on 13 May 2022 from 7 pm to 11 pm on following eServices.
-
-* Legal Services Regulatory Authority
-* Exemptions
-* Community Mediation Centre
-* Online Enquiries
-
-During this maintenance period, the eServices portal will be inaccessible or intermittent.  We appreciate your patience and understanding. Thank you
 
 <br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
