@@ -110,9 +110,14 @@ ii.	They also provided the opportunity for its member countries to share experie
 
 {:start="15"}
 15.	Finally, as I conclude, let me just say that the future of geospatial technologies and solutions is constantly evolving, and I think that is one thing we can agree on. The technologies and the learnings of today have to be adapted, and in some ways recycled and repurposed so that they become the solutions of tomorrow. We should always be on the lookout for new opportunities and learn from each other at such forums, so that we can remain ahead of the curve.  
-16.	
-{:start="12"}
 
-{:start="12"}
+{:start="16"}
+16.	I have always taken the view that there is really no monopoly on good ideas. And certainly in a room like this, where so many of you are business leaders and thought leaders in your own fields. The energy and the vibe that you can share as you walk around and socialise with each other will be something that will lend to a much richer geospatial industry of tomorrow. 
+
+{:start="17"}
+17.	On this note, I wish all of you a productive conference and hope you can connect in person, build new relations and reconnect with old ones, and leave this conference and Singapore with extra connections for tomorrow.  
+
+{:start="18"}
+18.	Thank you very much. 
 
 <p class="right-side-updated">Last updated on 1 June 2022</p>
