@@ -49,7 +49,7 @@ i.	This allows us to better plan the locations and sites of healthcare and socia
 
 ii.	Geospatial solutions have also allowed us to monitor and quickly respond to mitigate the spread of infectious diseases, such as with what we have been experiencing because of the COVID-19 pandemic. For example, geospatial technology was used in Singapore to identify COVID-19 hotspots, or gatherings of COVID-19 super spreaders as the term was commonly used 18 months ago, to ringfence clusters and curb further transmission, through measures such as swabbing operations to identify individuals with increased risk of exposure and quickly isolating them.
 
-    b)	We have also developed the OneMap and OneMap3D platforms, which is the authoritative national map of Singapore. Those who have yet to get it, I urge you to download and take a look at it. 
+   b)	We have also developed the OneMap and OneMap3D platforms, which is the authoritative national map of Singapore. Those who have yet to get it, I urge you to download and take a look at it. 
 
 i.	Many agencies have tapped on the OneMap and OneMap3D platforms to develop useful services which allow the public to make informed day-to-day decisions.  
 
