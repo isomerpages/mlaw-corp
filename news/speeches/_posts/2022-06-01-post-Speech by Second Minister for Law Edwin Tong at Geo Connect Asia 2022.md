@@ -88,7 +88,7 @@ ii.	With the appropriate modifications, our adaptable urban geospatial solutions
 
 iii.	Companies can thus take advantage of the hospitable conditions here, tap on our adaptable solutions and reach out to the larger regional market to explore new and emerging opportunities.
 
-    b)	Second, we can also continue our efforts to build a strong core of geospatial professionals in the region. As this technology develops, the more we are able to anchor thought leadership, have dialogues and discussions, connect partners, see things in a different perspective with a different lens, the stronger and quicker it will be to develop the technology.
+   b)	Second, we can also continue our efforts to build a strong core of geospatial professionals in the region. As this technology develops, the more we are able to anchor thought leadership, have dialogues and discussions, connect partners, see things in a different perspective with a different lens, the stronger and quicker it will be to develop the technology.
 
 i.	One current effort is the Regional Geospatial Youth Forum, which through a series of workshops and seminars, generates and build geospatial interest, awareness, and create a vibrant community among young professionals and students. 
 
