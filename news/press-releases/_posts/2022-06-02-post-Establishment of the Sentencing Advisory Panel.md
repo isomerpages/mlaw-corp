@@ -21,7 +21,7 @@ description: ""
 <br>
 6.	At the Panel’s inaugural meeting, members agreed to study a few areas where guidelines could potentially be useful, including guidelines on general sentencing principles.
 <br>
-7.	The Panel’s website can be accessed at www.sentencingpanel.gov.sg. 
+7.	The Panel’s website can be accessed at [www.sentencingpanel.gov.sg](www.sentencingpanel.gov.sg). 
 
 
 **MINISTRY OF LAW**
