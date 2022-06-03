@@ -10,6 +10,14 @@ breadcrumb: Contact Us
 FAQ
 ---
 
+Minlaw will conduct maintenance activities on our hotline on **4 June between 2 pm to 8 pm**.  
+
+During this period, the voicemail service of our hotline will be unavailable.
+
+Please use our online enquiry form here to submit your queries.  
+
+We apologise for any inconvenience caused.
+
 Have questions?
 
 <div class="image">
@@ -21,7 +29,8 @@ Have questions?
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
   <b>Our Live Chat Agents are available from:</b><br>
-Mondays to Fridays, 8.30am to 5pm<br>
+Days: Mondays to Fridays<br>
+Timing: 830am to 1130am ~ 130pm to430pm<br>
 
 The live chat will address enquiries on:
 * Individual Insolvency
@@ -31,12 +40,6 @@ The live chat will address enquiries on:
 * Public Trustee
 * Registry of Moneylenders
 * Registry of Pawnbrokers
-* Legal Services Regulatory Authority
-* Legal Industry Division
-* Legal Aid Bureau
-* Community Mediation Centre
-* Precious Stones and Precious Metals Dealers 
-* Covid-19 Temporary Measures
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
