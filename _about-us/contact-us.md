@@ -10,14 +10,6 @@ breadcrumb: Contact Us
 FAQ
 ---
 
-Minlaw will conduct maintenance activities on our hotline on **4 June between 2 pm to 8 pm**.  
-
-During this period, the voicemail service of our hotline will be unavailable.
-
-Please use our online enquiry form here to submit your queries.  
-
-We apologise for any inconvenience caused.
-
 Have questions?
 
 <div class="image">
