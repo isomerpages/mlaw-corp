@@ -1,12 +1,9 @@
 ---
-title: 'Legal Policy Group'
+title: Legal Policy Group
 permalink: /about-us/what-we-do/legal-group/
-breadcrumb: 'Legal Policy Group'
-third_nav_title: 'What We Do'
-
+breadcrumb: Legal Policy Group
+third_nav_title: What We Do
 ---
-
-
 <style>
   .image {width: 600px;}
   .image img {max-width: 100%;}
@@ -41,16 +38,7 @@ MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and
   </li>
   <ul>
     <li>
-      <a href="/about-us/what-we-do/conveyancing-account/">Conveyance accounts</a>
-    </li>
-    <li>
       <a href="/about-us/what-we-do/previous-amendments/">Previous amendments</a>
-    </li>
-    <li>
-      <a href="/about-us/what-we-do/pilot-trials/">Pilot trials</a>
-    </li>
-    <li>
-      <a href="/about-us/what-we-do/applicable-legislation/">Applicable legislation</a>
     </li>
     <li>
       <a href="/about-us/what-we-do/additional-information/">Additional information</a>
