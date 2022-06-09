@@ -1,97 +1,96 @@
 logo: /images/mlaw-logo.png
 links:
-    - title: 'About Us'
-      false_collection: true
-      url: /about-us/ourvision-mission-corevalues/
-      sublinks:
-            - title: 'Our Vision, Mission and Core Values'
-              url: /about-us/ourvision-mission-corevalues/
-            - title: 'Our Management'
-              url: /about-us/our-management/
-            - title: 'Organisation Structure'
-              url: /about-us/organisation-structure/
-            - title: 'Our Legal System'
-              url: /about-us/our-legal-system/
-            - title: 'What We Do'
-              url: /about-us/what-we-do/
-            - title: 'Contact Us'
-              url: /about-us/contact-us/
-            - title: 'Useful Links'
-              url: /about-us/useful-links/
-    # News sublinks are created by Abigail See (CCD) on 31 May 2021. To include the Insight Minlaw link.
-    - title: News
-      false_collection: true
-      url: /news/
-      sublinks:
-            - title: 'All'
-              url: /news/
-            - title: 'Announcements'
-              url: /news/announcements/
-            - title: 'Insight MinLaw'
-              url: 'https://insight.mlaw.gov.sg/'
-              external: true
-            - title: 'Legal Industry Newsletters'
-              url: /news/legal-industry-newsletters/
-            - title: 'Others'
-              url: /news/others/
-            - title: 'Parliamentary Speeches'
-              url: /news/parliamentary-speeches/
-            - title: 'Press Releases'
-              url: /news/press-releases/
-            - title: 'Public Consultations'
-              url: /news/public-consultations/               
-            - title: 'Replies'
-              url: /news/replies/
-            - title: 'Speeches'
-              url: /news/speeches/      
-            - title: 'Visits'
-              url: /news/visits/     
-    - title: 'Law Practices/Lawyers'
-      collection: law-practice-entities-and-lawyers
-    - title: 'Bar Admission'
-      collection: admission-to-the-bar
-    - title: 'E Services'
-      false_collection: true
-      url: /e-services/
-      sublinks:
-            - title: 'Insolvency Office'
-              url: 'https://eservices.mlaw.gov.sg/io/'
-              external: true
-            - title: 'Public Trustees Office'
-              url: 'https://eservices.mlaw.gov.sg/pto/'
-              external: true
-            - title: 'Registry Of Moneylenders'
-              url: 'https://eservices.mlaw.gov.sg/rom/'
-              external: true
-            - title: 'Registry Of Pawnbrokers'
-              url: 'https://eservices.mlaw.gov.sg/rop/'
-              external: true
-            - title: 'Legal Services Regulatory Authority'
-              url: 'https://eservices.mlaw.gov.sg/lsra/lsra-home'
-              external: true
-            - title: Exemptions
-              url: 'https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx'
-              external: true
-            - title: 'Community Mediation Centre'
-              url: 'https://cmc.mlaw.gov.sg/e-services/apply-online/'
-              external: true
-            - title: 'Legal Aid Bureau'
-              url: 'https://eservices.mlaw.gov.sg/labesvc/'
-              external: true
-            - title: 'Anti-Money Laundering / Countering The Financing Of Terrorism'
-              url: 'https://acd.mlaw.gov.sg/'
-              external: true
-    - title: 'Join Us'
-      false_collection: true
-      url: /join-us/why-join-minlaw/
-      sublinks:
-            - title: 'Why Join MinLaw'
-              url: /join-us/why-join-minlaw/
-            - title: 'Career Opportunities'
-              url: /join-us/career-opportunities/
-            - title: 'Meet Our Colleagues'
-              url: /join-us/meet-our-colleagues/
-            - title: 'MinLaw Internship Programme'
-              url: /join-us/minlaw-internship/
-            - title: 'Meet Our Interns'
-              url: /join-us/meet-our-interns/
+  - title: About Us
+    false_collection: true
+    url: /about-us/ourvision-mission-corevalues/
+    sublinks:
+      - title: Our Vision, Mission and Core Values
+        url: /about-us/ourvision-mission-corevalues/
+      - title: Our Management
+        url: /about-us/our-management/
+      - title: Organisation Structure
+        url: /about-us/organisation-structure/
+      - title: Our Legal System
+        url: /about-us/our-legal-system/
+      - title: What We Do
+        url: /about-us/what-we-do/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: Useful Links
+        url: /about-us/useful-links/
+  - title: News
+    false_collection: true
+    url: /news/
+    sublinks:
+      - title: All
+        url: /news/
+      - title: Announcements
+        url: /news/announcements/
+      - title: Insight MinLaw
+        url: https://insight.mlaw.gov.sg/
+        external: true
+      - title: Legal Industry Newsletters
+        url: /news/legal-industry-newsletters/
+      - title: Others
+        url: /news/others/
+      - title: Parliamentary Speeches
+        url: /news/parliamentary-speeches/
+      - title: Press Releases
+        url: /news/press-releases/
+      - title: Public Consultations
+        url: /news/public-consultations/
+      - title: Replies
+        url: /news/replies/
+      - title: Speeches
+        url: /news/speeches/
+      - title: Visits
+        url: /news/visits/
+  - title: Law Practices/Lawyers
+    collection: law-practice-entities-and-lawyers
+  - title: Bar Admission
+    collection: admission-to-the-bar
+  - title: E-Services
+    false_collection: true
+    url: /e-services/
+    sublinks:
+      - title: Insolvency Office
+        url: https://eservices.mlaw.gov.sg/io/
+        external: true
+      - title: Public Trustee's Office
+        url: https://eservices.mlaw.gov.sg/pto/
+        external: true
+      - title: Registry Of Moneylenders
+        url: https://eservices.mlaw.gov.sg/rom/
+        external: true
+      - title: Registry Of Pawnbrokers
+        url: https://eservices.mlaw.gov.sg/rop/
+        external: true
+      - title: Legal Services Regulatory Authority
+        url: https://eservices.mlaw.gov.sg/lsra/lsra-home
+        external: true
+      - title: Exemptions
+        url: https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx
+        external: true
+      - title: Community Mediation Centre
+        url: https://cmc.mlaw.gov.sg/e-services/apply-online/
+        external: true
+      - title: Legal Aid Bureau
+        url: https://eservices.mlaw.gov.sg/labesvc/
+        external: true
+      - title: Anti-Money Laundering / Countering The Financing Of Terrorism
+        url: https://acd.mlaw.gov.sg/
+        external: true
+  - title: Join Us
+    false_collection: true
+    url: /join-us/why-join-minlaw/
+    sublinks:
+      - title: Why Join MinLaw
+        url: /join-us/why-join-minlaw/
+      - title: Career Opportunities
+        url: /join-us/career-opportunities/
+      - title: Meet Our Colleagues
+        url: /join-us/meet-our-colleagues/
+      - title: MinLaw Internship Programme
+        url: /join-us/minlaw-internship/
+      - title: Meet Our Interns
+        url: /join-us/meet-our-interns/
