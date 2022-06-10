@@ -7,6 +7,15 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
+Minlaw will conduct maintenance activities on our hotline on 10 June between 12.45 pm to 1.30 pm.  
+
+During this period, the voicemail service of our hotline will be unavailable.
+
+Please use our online enquiry form https://go.gov.sg/contactminlaw to submit your queries.  
+
+We apologise for any inconvenience caused.
+
+
 FAQ
 ---
 
