@@ -5,7 +5,7 @@ breadcrumb: E-Services
 ---
 **E-Services**
 
-There will be scheduled downtime daily from 7am to 7.30am and 12.45pm to 1.30pm on following eServices.
+There will be scheduled downtime daily from 7.00am to 7.30am and 12.45pm to 1.30pm on following eServices.
 
 * Legal Services Regulatory Authority
 * Exemptions
