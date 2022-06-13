@@ -28,31 +28,31 @@ Our Management
 <div class="img-gallery">
   <img src="/images/1532069362285.jpg" title="Mr Edwin Tong" alt="Mr Edwin Tong">
 </div>
-  <b>Mr Edwin Tong</b><br>
-  Minister for Culture, Community and Youth and<br>
-  Second Minister for Law<br><br>
+  <p><strong>Mr Edwin Tong</strong>
+  <br>Minister for Culture, Community and Youth and
+  <br>Second Minister for Law</p>
   
   <div class="img-gallery">
-  <img src="/images/1532069362285.jpg" title="Mr Edwin Tong" alt="Mr Edwin Tong">
+  <img src="/images/Ms_Rahayu_Mahzam.jpg" title="Ms Rahayu Mahzam" alt="Ms Rahayu Mahzam">
 </div>
-  <b>Mr Edwin Tong</b><br>
-  Minister for Culture, Community and Youth and<br>
-  Second Minister for Law<br><br>
+  <p><strong>Ms Rahayu Mahzam</strong>
+  <br>Senior Parliamentary Secretary,
+  <br>Ministry of Health and Ministry of Law</p>
 
 ### **Senior Management**
 
 <div class="img-gallery">
   <img src="/images/Mr_Loh_Khum_Yean.jpg" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
 </div>
-  <b>Mr Loh Khum Yean</b><br>
-  Permanent Secretary<br>
-  Ministry of Law<br><br>
+  <p><strong>Mr Loh Khum Yean</strong>
+  <br>Permanent Secretary,
+  <br>Ministry of Law</p>
 
 <div class="img-gallery">
     <img src="/images/Mr_Calvin_Phua.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
 </div>
-  <b>Mr Calvin Phua</b><br>
-  Deputy Secretary<br>
-  Ministry of Law<br>
+  <p><strong>Mr Calvin Phua</strong>
+  <br>Deputy Secretary,
+  <br>Ministry of Law</p>
 
-<p class="right-side-updated">Last updated on 1 Apr 2022</p>
+<p class="right-side-updated">Last updated on 13 Jun 2022</p>
