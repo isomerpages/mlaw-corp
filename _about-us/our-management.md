@@ -46,7 +46,7 @@ Our Management
 </div>
   <p><strong>Mr Loh Khum Yean</strong>
   <br>Permanent Secretary,
-  <br>Ministry of Law</p>
+  <br>Public Service Division and Ministry of Law</p>
 
 <div class="img-gallery">
     <img src="/images/Mr_Calvin_Phua.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
