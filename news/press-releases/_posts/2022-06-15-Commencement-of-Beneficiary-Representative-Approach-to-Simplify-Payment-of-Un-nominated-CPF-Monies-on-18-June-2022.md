@@ -19,11 +19,11 @@ permalink: /news/press-releases/Commencement-of-Beneficiary-Representative-Appro
 {:start="3"}
 3.	A person must fulfil the following criteria to be a BR:
 
-a.	Must be an eligible beneficiary<sup><a href="#fn2" id="ref2">2</a></sup> according to the applicable rules of distribution under the Intestate Succession Act 1967 (for non-Muslims) or the Administration of Muslim Law Act 1966 (for Muslims);<br>
+  a.	Must be an eligible beneficiary<sup><a href="#fn2" id="ref2">2</a></sup> according to the applicable rules of distribution under the Intestate Succession Act 1967 (for non-Muslims) or the Administration of Muslim Law Act 1966 (for Muslims);<br>
 
-b.	Must be at least 21 years old; and<br>
+  b.	Must be at least 21 years old; and<br>
 
-c.	Must not be an undischarged bankrupt, a mentally incapacitated person or a prison inmate. 
+  c.	Must not be an undischarged bankrupt, a mentally incapacitated person or a prison inmate. 
 
 {:start="4"}
 4.	In addition, the BR must have obtained consent from all eligible beneficiaries to represent them and receive their share of the CPF monies on their behalf. In processing the BR’s application, the PTO will send an email to each beneficiary to seek his or her confirmation of consent. This is to protect the interest of all the eligible beneficiaries and ensure that a consensus has been reached before the PTO proceeds with the disbursement of the deceased CPF member’s un-nominated CPF monies. 
@@ -32,7 +32,7 @@ c.	Must not be an undischarged bankrupt, a mentally incapacitated person or a pr
 5.	The PTO will start accepting applications for claims under the BR approach via the e-Services portal at <a href="https://go.gov.sg/pto-eservices" target="new">https://go.gov.sg/pto-eservices</a> on 18 June 2022. 
 
 {:start="6"}
-6.	For more information on the BR approach, please visit the PTO website at <a href=https://go.gov.sg/pto-cpf-br target="new">https://go.gov.sg/pto-cpf-br</a>. 
+6.	For more information on the BR approach, please visit the PTO website at <a href="https://go.gov.sg/pto-cpf-br" target="new">https://go.gov.sg/pto-cpf-br</a>. 
 
 **MINISTRY OF LAW**
 <br>**15 JUNE 2022**
