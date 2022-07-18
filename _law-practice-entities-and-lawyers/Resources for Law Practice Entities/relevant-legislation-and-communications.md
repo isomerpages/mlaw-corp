@@ -1,12 +1,9 @@
 ---
-title: 'Relevant Legislation and Communications'
+title: Relevant Legislation and Communications
 permalink: /law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/
-breadcrumb: 'Relevant Legislation and Communications'
-third_nav_title: 'Resources for Law Practice Entities'
-
+breadcrumb: Relevant Legislation and Communications
+third_nav_title: Resources for Law Practice Entities
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
 table tr td p {font-size: 1rem;}
@@ -50,7 +47,7 @@ Relevant Legislation and Communications
           <a href="/files/ArticleonLSRADec2016.pdf/">Feature on the Legal Services Regulatory Authority</a>(311KB)<br>[This article was originally published in the December 2016 issue of the Singapore Law Gazette. Reproduced with permission.]
         </li>
         <li style="text-align: justify">
-          <a href="/files/FAQs_on_Formal_Law_Alliances_June2018.pdf/" target="_blank">FAQs on Formal Law Alliances</a>(582KB)[05/2017]
+          <a href="/files/FAQs_on_Formal_Law_Alliances_July_2022.pdf/" target="_blank">FAQs on Formal Law Alliances</a>(582KB)[05/2017]
         </li>
         <li style="text-align: justify">
           <a href="/files/FAQs-on-Submitting-Certificates-of-Good-Standing-March-2018.pdf/" target="_blank">FAQs on Submitting Certificates of Good Standing</a> (238KB)[03/2018]
@@ -67,4 +64,4 @@ Legal Profession Act amendments relating to Singapore and Foreign Group Practice
   </tr>
 </table>
 
-<p class="right-side-updated">Last updated on 12 Dec 2019</p> 
+<p class="right-side-updated">Last updated on 12 Dec 2019</p>
