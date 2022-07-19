@@ -14,8 +14,8 @@ description: ""
 {:start="2"}
 2.	The LTPI comprises the following:
 
-a)	The Legal Technology Platform; 
-b)	The LTPI Funding Programme; and
+a)	The Legal Technology Platform; <br>
+b)	The LTPI Funding Programme; and<br>
 c)	Industry Engagement initiatives. 
 
 <b>Legal Technology Platform</b>
