@@ -61,7 +61,7 @@ The key features of the LTP are listed in the <b>Annex</b>.
 12.	MinLaw will also work with the Law Society of Singapore to organise a series of outreach and training events to provide more information about the LTPI to lawyers. 
 
 {:start="13"}
-13.	More information, including on subscribing for the LTP, is available at https://ltpi.mlaw.gov.sg. Interested law firms can find out more and apply for the support via https://www.businessgrants.gov.sg starting from 4 August 2022.
+13.	More information, including on subscribing for the LTP, is available at <a href="https://ltpi.mlaw.gov.sg">https://ltpi.mlaw.gov.sg</a>. Interested law firms can find out more and apply for the support via <a href="https://www.businessgrants.gov.sg">https://www.businessgrants.gov.sg</a> starting from 4 August 2022.
 
 
 
