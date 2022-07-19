@@ -71,7 +71,7 @@ The key features of the LTP are listed in the <b>Annex</b>.
 
 **<u>ANNEX</u>**
 
-
+[Annex - Key Features of the Legal Technology Platform](/files/news/press-releases/2022/01/Annex_LTP_key_features.pdf)<br>
 
 
 
