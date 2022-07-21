@@ -1,6 +1,6 @@
 ---
 title: Opening Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law, at TechLaw.Fest 2022: Up Your Game
-permalink: /news/speeches/2022-07-19-speech-k-shanmugam-official-launch-legal-technology-platform-initiative
+permalink: /news/speeches/2022-07-20-opening-speech-edwin-tong-techlaw-fest-2022-up-your-game
 date: 2022-07-20
 layout: post
 description: ""
