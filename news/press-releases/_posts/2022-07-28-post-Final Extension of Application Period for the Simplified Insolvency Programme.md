@@ -30,7 +30,7 @@ description: ""
 
 * * *
 
-<p><sup id="fn1">1. For more information on the SIP, refer to MinLaw’s press releases on [5 October 2020](https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme), [26 July 2021](https://www.mlaw.gov.sg/news/press-releases/extension-of-application-period-for-simplified-insolvency-programme) and [26 July 2021](https://www.mlaw.gov.sg/news/press-releases/extension-of-application-period-for-simplified-insolvency-programme).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. For more information on the SIP, refer to MinLaw’s press releases on <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme">5 October 2020</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/extension-of-application-period-for-simplified-insolvency-programme">26 July 2021</a> and <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme-commences">28 Jan 2021</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p><sup id="fn2">2. For the purposes of the SIP, MSCs are defined as micro and small companies with an annual sales turnover not exceeding $1 million and $10 million, respectively. The SIP is intended to assist locally incorporated MSCs which meet the statutory eligibility criteria to restructure their debts or wind up.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
