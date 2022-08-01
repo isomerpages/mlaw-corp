@@ -486,7 +486,7 @@ by an officer of a statutory body or government agency.
 
 (c)           And time and labour expended by, the solicitor.
 
-<i>(D) _Penalty Framework</i>
+<i>(D) Penalty Framework</i>
 
 {:start="103"}
 
