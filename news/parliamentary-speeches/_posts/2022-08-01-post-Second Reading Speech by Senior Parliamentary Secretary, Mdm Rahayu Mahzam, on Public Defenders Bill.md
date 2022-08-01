@@ -58,7 +58,7 @@ Mr Deputy Speaker Sir,
 
 11.       I will now sketch out the reasons for setting up the PDO, and explain the shift in our philosophy towards criminal legal aid.
 
-**III. <u>RATIONALE FOR THE PUBLIC DEFENDER’S OFFICE****</u>**
+**III. <u>RATIONALE FOR THE PUBLIC DEFENDER’S OFFICE</u>**
 
 {:start="12"}
 
