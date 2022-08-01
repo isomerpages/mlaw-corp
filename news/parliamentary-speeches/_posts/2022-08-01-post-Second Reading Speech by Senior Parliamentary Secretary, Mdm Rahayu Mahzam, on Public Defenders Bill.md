@@ -6,7 +6,7 @@ date: 2022-08-01
 layout: post
 description: ""
 ---
-01 August 2022 Posted in \[\[Speeches\](/news/speeches)\]
+01 Aug 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 Mr Deputy Speaker Sir,
 
@@ -14,13 +14,13 @@ Mr Deputy Speaker Sir,
 
 1.         On behalf of the Minister for Law, I beg to move “That the Bill be now read a second time.”
 
-**\*\*I.  <u>INTRODUCTION</u>\*\***
+**I.  <u>INTRODUCTION</u>**
 
 {:start="2"}
 
 2.         I will speak about the broader policy and principles behind this Bill, as well as the specific provisions of the Bill.
 
-**\*\*II.  <u> BACKDROP</u>\*\***
+**II.  <u> BACKDROP</u>**
 
 {:start="3"}
 
@@ -58,7 +58,7 @@ Mr Deputy Speaker Sir,
 
 11.       I will now sketch out the reasons for setting up the PDO, and explain the shift in our philosophy towards criminal legal aid.
 
-**\*\*** **III. <u>RATIONALE FOR THE PUBLIC DEFENDER’S OFFICE****</u>\*\***
+**III. <u>RATIONALE FOR THE PUBLIC DEFENDER’S OFFICE****</u>**
 
 {:start="12"}
 
@@ -128,7 +128,7 @@ Mr Deputy Speaker Sir,
 
 28.       The PDO will also help to build up the capabilities of the Criminal Bar.
 
-**\*\*IV. <u>SAFEGUARDS AGAINST ABUSE</u>\*\***
+**IV. <u>SAFEGUARDS AGAINST ABUSE</u>**
 
 {:start="29"}
 
@@ -210,11 +210,11 @@ Mr Deputy Speaker Sir,
 
 48.      We will build up the capability and credibility of the PDO to command the trust and respect of:
 
-		(a)           Singaporeans,
+(a)           Singaporeans,
 
-		(b)           The legal fraternity, and
+(b)           The legal fraternity, and
 
-		(c)           The accused persons we serve.
+(c)           The accused persons we serve.
 
 {:start="49"}
 
@@ -226,7 +226,7 @@ Mr Deputy Speaker Sir,
 
 51.      This is not going to be easy as there will be demand for legal representation, and we would have to be careful about this.
 
-**\*\*V. <u>PUBLIC DEFENDERS BILL</u>\*\***
+**V. <u>PUBLIC DEFENDERS BILL</u>**
 
 {:start="52"}
 
@@ -236,13 +236,13 @@ Mr Deputy Speaker Sir,
 
 53.           There are four key areas:
 
-		(a)           First, the appointment of the PDO’s officers;
+(a)           First, the appointment of the PDO’s officers;
 
-		(b)           Second, the scope of aid, called criminal defence aid in the Bill;
+(b)           Second, the scope of aid, called criminal defence aid in the Bill;
 
-		(c)           Third, the administration of criminal defence aid; and
+(c)           Third, the administration of criminal defence aid; and
 
-		(d)           Fourth, the penalty framework.
+(d)           Fourth, the penalty framework.
 
 <i>(A) Appointment of Chief Public Defender and Other Officers</i>
 
@@ -254,11 +254,11 @@ Mr Deputy Speaker Sir,
 
 55.         The Bill provides for the appointment by the Minister of:
 
-		(a)           A Chief PD,
+(a)           A Chief PD,
 
-		(b)           Deputy Chief Public Defenders and
+(b)           Deputy Chief Public Defenders and
 
-		(c)           Assistant Chief Public Defenders.
+(c)           Assistant Chief Public Defenders.
 
 {:start="56"}
 
@@ -322,11 +322,11 @@ Mr Deputy Speaker Sir,
 
 69.         <u>Second</u>, offences that are generally regulatory in nature. This refers to minor offences for which the accused person is served:
 
-		(1)           A Notice to attend Court, or
+(1)           A Notice to attend Court, or
 
-		(2)           A Summons,
+(2)           A Summons,
 
-		by an officer of a statutory body or government agency.
+by an officer of a statutory body or government agency.
 
 {:start="70"}
 
@@ -352,7 +352,7 @@ Mr Deputy Speaker Sir,
 
 75.          The Bill provides for criminal defence aid to be given to accused persons who face multiple charges before the same court in respect of offences, some of which are excluded offences. The PDO can represent such accused persons if he or she passes the means and merits test for the offences that are not excluded. This will allow the PDO to effectively represent the aided person when all his charges are dealt with in the same court.
 
-<i> (C) Administration of Criminal Defence Aid</i>
+<i>(C) Administration of Criminal Defence Aid</i>
 
 {:start="76"}
 
@@ -508,7 +508,7 @@ Mr Deputy Speaker Sir,
 
 (b)           Acted improperly in defending or contesting any proceedings or in the conduct of those proceedings.
 
-**\*\*VI. <u>CONCLUSION</u>\*\***
+**VI. <u>CONCLUSION</u>**
 
 {:start="107"}
 
