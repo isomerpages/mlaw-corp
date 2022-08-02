@@ -40,6 +40,14 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 
 6.  Data on cases registered at the CMC between 2017 and 2021 is provided in the table below.
 
+**<b>Applications received by LAB in respect of applications to appoint a deputy under the Mental Capacity Act</b>**
+
+|                |2017|2018|2019|2020|2021|
+|----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
+|Total number of applications received|381|445|453|327|377|
+|Number of successful applications|134|155|182|188|235|
+|Percentage of successful applications|35%|35%|40%|57%|62%|
+
 
 {:start="7"}
 
