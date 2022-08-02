@@ -38,9 +38,9 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 
 {:start="6"}
 
-6.  Data on cases registered at the CMC between 2017 and 2021 is provided in the table below.
+6.  Data on cases registered at the CMC between 2017 and 2021 is provided in Table 1 below.
 
-**<b>Applications received by LAB in respect of applications to appoint a deputy under the Mental Capacity Act</b>**
+**<b>Table 1: Breakdown of Cases Registered at the Community Mediation Centre</b>**
 
 |                |2017|2018|2019|2020|2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
