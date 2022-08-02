@@ -45,11 +45,11 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 |                |2017|2018|2019|2020|2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
 |Total number of registered cases|1095|1066|1016|1851|2060|
-|Total number of voluntary cases registered|780|852|799|1710|1954|
-|Total number of voluntary referrals*|325|361|345|585|745|
-|Total number of Court-referred cases registered|315|214|217|141|106|
+|<i>Total number of voluntary cases registered</i>|780|852|799|1710|1954|
+|<i>Total number of voluntary referrals*</i>|325|361|345|585|745|
+|<i>Total number of Court-referred cases registered</i>|315|214|217|141|106|
 |Total number of mediated cases|429|386|395|473|474|
-|Total number of voluntary cases that were mediated|181|216|277|373|417|
+|<i>Total number of voluntary cases that were mediated</i>|181|216|277|373|417|
 |Settlement rate of mediated cases|78%|81%|79%|85%|84%|
 |Total number of voluntary cases that were not mediated (due to parties declining or failing to respond)^|528|546|486|1082|1345|
 
