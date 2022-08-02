@@ -44,9 +44,9 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 
 |                |2017|2018|2019|2020|2021|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|Total number of applications received|381|445|453|327|377|
-|Number of successful applications|134|155|182|188|235|
-|Percentage of successful applications|35%|35%|40%|57%|62%|
+|Total number of registered cases|1095|1066|1016|1851|2060|
+|Total number of voluntary cases registered|780|852|799|1710|1954|
+|Total number of voluntary referrals*|325|361|345|585|745|
 
 
 {:start="7"}
