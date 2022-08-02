@@ -50,7 +50,12 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 |Total number of Court-referred cases registered|315|214|217|141|106|
 |Total number of mediated cases|429|386|395|473|474|
 |Total number of voluntary cases that were mediated|181|216|277|373|417|
-|Total number of voluntary referrals*|325|361|345|585|745|
+|Settlement rate of mediated cases|78%|81%|79%|85%|84%|
+|Total number of voluntary cases that were not mediated (due to parties declining or failing to respond)^|528|546|486|1082|1345|
+
+<u>Notes</u>:
+<br>*Voluntary referrals refer to cases referred to the CMC from public agencies and other organisations.
+<br>^There are other reasons why parties did not undergo mediation including parties withdrawing from mediation, settling on their own, etc. 
 
 {:start="7"}
 
