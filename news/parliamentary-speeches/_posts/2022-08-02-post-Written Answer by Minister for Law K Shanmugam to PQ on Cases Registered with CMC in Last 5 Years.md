@@ -48,6 +48,9 @@ To ask the Minister for Law for each of the last five years (a) how many cases w
 |Total number of voluntary cases registered|780|852|799|1710|1954|
 |Total number of voluntary referrals*|325|361|345|585|745|
 |Total number of Court-referred cases registered|315|214|217|141|106|
+|Total number of mediated cases|429|386|395|473|474|
+|Total number of voluntary cases that were mediated|181|216|277|373|417|
+|Total number of voluntary referrals*|325|361|345|585|745|
 
 {:start="7"}
 
