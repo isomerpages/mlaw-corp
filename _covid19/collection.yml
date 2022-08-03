@@ -2,6 +2,7 @@ collections:
   covid19:
     output: true
     order:
+      - overview-of-rental-waiver-framework-2021.md
       - covid-19-temporary-measures-act-2020.md
       - 1) Temporary Relief from Inability to Perform Contractual
         Obligations/.keep
