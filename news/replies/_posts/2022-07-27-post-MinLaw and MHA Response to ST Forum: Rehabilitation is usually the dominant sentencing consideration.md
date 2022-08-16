@@ -14,9 +14,7 @@ Rehabilitation is usually the dominant sentencing consideration for young offend
 
 If a measure of deterrence is needed in addition to rehabilitation, reformative training may be imposed instead of probation, like in the case highlighted by the writer. 
 
-Reformative training is a more severe punishment compared to probation, as it involves a period of detention and a strict regimen.
-
-In even more serious cases, where rehabilitation can no longer be the main sentencing consideration, imprisonment may be imposed.
+Reformative training is a more severe punishment compared to probation, as it involves a period of detention and a strict regimen. In even more serious cases, where rehabilitation can no longer be the main sentencing consideration, imprisonment may be imposed.
 
 This approach ensures that when young offenders are sentenced, due regard is given not only to the age of the offender, but also the other circumstances of the case, such as the seriousness of the offence and the harm caused. The Court will consider the facts of each case before deciding on the most appropriate sentence to be imposed. 
 
