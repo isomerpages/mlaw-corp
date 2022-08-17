@@ -30,13 +30,13 @@ b.	         **Partner events by supporting organisations**: The SC Week will als
 3.                  **Minister for Culture, Community and Youth and Second Minister for Law, Mr Edwin Tong SC**, said: “With global events reshaping the world we live in, the SC Week 2022 will continue to be a key platform bringing together the legal, business and government sectors to empower businesses to be agile and seize new possibilities in the dispute resolution field. More importantly, we hope that it will strengthen partnerships and energise the global legal and dispute resolution communities to tackle emerging challenges.”
 
 {:start="4"}
-4.         The Singapore Convention Week (SC Week)
+4.                  **Ms Anna Joubin-Bret, Secretary of UNCITRAL**, said: “The world is evolving and change is what we need to embrace. As we navigate new possibilities, countries need to rally together in true commitment to establish harmonised dispute resolution frameworks. A strong reflection of this vision, the UNCITRAL Academy is a premier, global platform that we are proud to co-organise with MinLaw. Beyond increasing awareness of cross-border dispute resolution mechanisms, we hope to see greater implementation and use of the UNCITRAL Mediation Framework. We are confident that the UNCITRAL Academy and other activities during SC Week will help achieve this.”
 
 {:start="5"}
-5.         The Singapore Convention Week (SC Week)
+5.                  The Singapore Convention on Mediation, also known as the United Nations (UN) Convention on International Settlement Agreements Resulting from Mediation, provides an effective and efficient framework for parties to enforce international mediated settlement agreements for cross-border commercial disputes. The Convention opened for signature on 7 August 2019 in Singapore, with 46 signatories, and entered into force on 12 September 2020. To date, there are 55 signatories and ten Parties to the Convention (see **Annex C**).
 
 {:start="6"}
-6.         The Singapore Convention Week (SC Week)
+6.                  Visit [https://www.singaporeconventionweek.sg/](https://www.singaporeconventionweek.sg/) to register for SC Week 2022 and get the latest updates.
 
 
 <b><u>ANNEX</u></b>
