@@ -38,12 +38,9 @@ b.	         **Partner events by supporting organisations**: The SC Week will als
 {:start="6"}
 6.                  Visit [https://www.singaporeconventionweek.sg/](https://www.singaporeconventionweek.sg/) to register for SC Week 2022 and get the latest updates.
 
-[<b>Annex A</b>: Programme of UNCITRAL Academy] 
-(/files/news/press-releases/2022/01/SCWeek_AnnexA_Programme_UNCITRAL_Academy.pdf)<br>
-[<b>Annex B</b>: SC Week 2022 Supporting Partner Organisations and Events] 
-(/files/news/press-releases/2022/01/SCWeek_AnnexB_Supporting_Partner_Organisations_Events.pdf)<br>
-[<b>Annex C</b>: Factsheet on Singapore Convention on Mediation] 
-(/files/news/press-releases/2022/01/SCWeek_AnnexC_Factsheet_Singapore_Convention_on_Mediation.pdf)<br>
+[Annex A – Programme of UNCITRAL Academy](/files/news/press-releases/2022/01/SCWeek_AnnexA_Programme_UNCITRAL_Academy.pdf)<br>
+[Annex B – SC Week 2022 Supporting Partner Organisations and Events](/files/news/press-releases/2022/01/SCWeek_AnnexB_Supporting_Partner_Organisations_Events.pdf)<br>
+[Annex C – Factsheet on Singapore Convention on Mediation](/files/news/press-releases/2022/01/SCWeek_AnnexC_Factsheet_Singapore_Convention_on_Mediation.pdf)<br>
 
 **MINISTRY OF LAW**
 <br>**17 AUGUST 2022**
