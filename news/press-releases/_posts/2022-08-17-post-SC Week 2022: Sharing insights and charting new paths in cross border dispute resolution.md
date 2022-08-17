@@ -32,7 +32,7 @@ description: ""
 [Annex - Board Appointments at SLA](/files/news/press-releases/2022/01/Annex_SLA_Board_appointments.pdf)<br>
 
 **MINISTRY OF LAW**
-<br>**29 JULY 2022**
+<br>**17 AUGUST 2022**
 
 
 
