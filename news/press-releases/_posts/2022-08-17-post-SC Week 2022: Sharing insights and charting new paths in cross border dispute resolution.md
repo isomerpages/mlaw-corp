@@ -41,13 +41,10 @@ b.	         **Partner events by supporting organisations**: The SC Week will als
 
 [<b>Annex A</b>: Programme of UNCITRAL Academy] 
 (/files/news/press-releases/2022/01/SCWeek_AnnexA_Programme_UNCITRAL_Academy.pdf)<br>
-
-<b>Annex B</b>: SC Week 2022 Supporting Partner Organisations and Events<br>
-<b>Annex C</b>: Factsheet on Singapore Conventioin on Mediation<br>
-
-
-
-[Annex - Board Appointments at SLA](/files/news/press-releases/2022/01/Annex_SLA_Board_appointments.pdf)<br>
+[<b>Annex B</b>: SC Week 2022 Supporting Partner Organisations and Events] 
+(/files/news/press-releases/2022/01/SCWeek_AnnexB_Supporting_Partner_Organisations_Events.pdf)<br>
+[<b>Annex C</b>: Factsheet on Singapore Convention on Mediation] 
+(/files/news/press-releases/2022/01/SCWeek_AnnexC_Factsheet_Singapore_Convention_on_Mediation.pdf)<br>
 
 **MINISTRY OF LAW**
 <br>**17 AUGUST 2022**
