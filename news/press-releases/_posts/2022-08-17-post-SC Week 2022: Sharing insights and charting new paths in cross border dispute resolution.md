@@ -36,9 +36,4 @@ description: ""
 
 
 
-<p class="right-side-updated">Last updated on 29 
-
-
-
-
-
+<p class="right-side-updated">Last updated on 29
