@@ -48,7 +48,4 @@ b.	         **Partner events by supporting organisations**: The SC Week will als
 
 **MINISTRY OF LAW**
 <br>**17 AUGUST 2022**
-
-
-
 <p class="right-side-updated">Last updated on 29
