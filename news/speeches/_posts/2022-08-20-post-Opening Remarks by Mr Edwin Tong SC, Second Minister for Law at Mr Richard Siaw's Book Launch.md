@@ -1,6 +1,6 @@
 ---
-title: Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law at Mr
-  Richard Siaw's Book Launch
+title: Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community and
+  Youth and Second Minister for Law at Mr Richard Siaw's Book Launch
 permalink: /news/speeches/Opening-remarks-by-2M-at-Mr-Richard-Siaw-book-launch
 date: 2022-08-20
 layout: post
@@ -22,7 +22,7 @@ Distinguished guests
 
 Ladies and gentlemen
 
-**I. <u>**INTRODUCTION</u>**
+**I. <u>INTRODUCTION</u>**
 
 {:start="1"}
 
@@ -32,7 +32,7 @@ Ladies and gentlemen
 
 2.         Thank you very much for welcoming me here and it is very nice to meet all of you.
 
-**II. <u>**RAISING LEGAL AWARENESS</u>**
+**II. <u>RAISING LEGAL AWARENESS</u>**
 
 {:start="3"}
 
@@ -82,7 +82,7 @@ Ladies and gentlemen
 
 14.       Given the high settlement rate and successful experiences that the CMC has, we are studying whether mediation can be used more widely as a more effective way to resolve disputes.
 
-**III. <u>**ADVANCING ACCESS TO JUSTICE</u>**
+**III. <u>ADVANCING ACCESS TO JUSTICE</u>**
 
 {:start="15"}
 
@@ -150,7 +150,7 @@ Ladies and gentlemen
 
 29.       This approach enables us to really make a difference when we talk about access to justice. Not just providing legal aid or setting up something in a structured way like the PDO, but be out there, working with people in the community to provide the access.
 
-**IV. <u>**COMMUNITY LAW FELLOWSHIP PROGRAMME</u>**
+**IV. <u>COMMUNITY LAW FELLOWSHIP PROGRAMME</u>**
 
 {:start="30"}
 
@@ -176,7 +176,7 @@ Ladies and gentlemen
 
 35.       On this note, I really commend Richard’s efforts and thought process of going into this, using interesting stories that allow us to associate, identify and learn about the law a lot better. This is also an opportunity to raise legal awareness in the community, and to support the CLFP.
 
-**V. <u>**CONCLUSION</u>**
+**V. <u>CONCLUSION</u>**
 
 {:start="36"}
 
