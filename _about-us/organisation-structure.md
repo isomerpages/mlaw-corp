@@ -7,11 +7,11 @@ Organisation Structure
 ---
 
 <div class="image">
-  <a href="/files/Organisation Structure/MinLaw_Org_Chart_13Jun2022.pdf">
+  <a href="/files/Organisation Structure/MinLaw_Org_Chart_01Aug2022.pdf">
     <br>
     <br>
-    <img src="/images/Organisation Structure/MinLaw_Org_Chart_13Jun2022.jpg" title="Organisation Structure" alt="Organisation Structure">
+    <img src="/images/Organisation Structure/MinLaw_Org_Chart_01Aug2022.jpg" title="Organisation Structure" alt="Organisation Structure">
   </a>
 </div>
 
-<p class="right-side-updated">Last updated on 13 Jun 2022</p>
+<p class="right-side-updated">Last updated on 01 Aug 2022</p>
