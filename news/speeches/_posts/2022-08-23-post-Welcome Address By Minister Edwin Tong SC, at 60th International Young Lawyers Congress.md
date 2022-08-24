@@ -31,11 +31,11 @@ The tremendous Organising Committee of the 60th International Young Lawyers Cong
 {:start="5"}
 5.          Today, Asia accounts for:
 
-·       60% of global foreign direct investment (FDI) inflows and 50% of global FDI outflows in the world.
+				·       60% of global foreign direct investment (FDI) inflows and 50% of global FDI outflows in the world.
 
-·       Asia is also responsible for 40% of global exports and takes in 35% of global imports.
+				·       Asia is also responsible for 40% of global exports and takes in 35% of global imports.
 
-·       And today, Asia as a continent, contributes to 40% of GDP.
+				·       And today, Asia as a continent, contributes to 40% of GDP.
 
 {:start="6"}
 6.          In addition to that, close to half of the Fortune 500 companies on the list are headquartered in Asia, and Asia is home to 50% of the world's fastest-growing companies. All of these are not meant to give you a lesson in commerce or trade, but really to illustrate that there is a lot of business activity in and around Asia, coming into Asia or from Asia. Companies here are growing larger, getting a lot more involved in cross border trade, multi-party partnerships, and having a lot more bargaining power in the contract.
