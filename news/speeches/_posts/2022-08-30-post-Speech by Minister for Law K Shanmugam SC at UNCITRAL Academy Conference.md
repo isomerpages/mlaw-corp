@@ -18,7 +18,7 @@ Ladies and gentlemen
 **Introduction**
 
 {:start="1"}
-1.	A very good morning to all of you. 
+1.	Good morning. 
 
 {:start="2"}
 2.	Today is a milestone day for our legal industry in going digital. We are launching the Legal Technology Platform (LTP). 
