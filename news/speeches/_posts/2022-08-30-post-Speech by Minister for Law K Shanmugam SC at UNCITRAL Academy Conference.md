@@ -21,12 +21,10 @@ Ladies and gentlemen
 1.	Good morning. 
 
 {:start="2"}
-2.	Today is a milestone day for our legal industry in going digital. We are launching the Legal Technology Platform (LTP). 
-
-**Riding the Digital Wave Collectively**
+2.	Welcome to the UNCITRAL Academy Conference. 
 
 {:start="3"}
-3.	If you look at the way practice is developing, clients, both domestic and international, expect legal services to be provided digitally, remotely, and around the clock. The last two years of the COVID-19 pandemic has only increased those expectations, because people can see that work can be done in that way. Face-to-face and physical meetings are important, but they need to be substantially supplemented by being able to work from anywhere, and deliver services from anywhere. Clients expect that, and that demand is going to grow. 
+3.	We welcome and thank those who have come from far. I welcome UNCITRAL Secretary Ms Anna Joubin-Bret and her colleague Ms Judith Knieper, speakers and moderators, partners and friends. This is the second time we are co-organising the UNCITRAL Academy Conference with UNCITRAL. 
 
 {:start="4"}
 4.	We have been giving this much thought, even before the pandemic, because it was clear that this was the direction in which the profession and demand is going. And at the same time, we have mapped out that there was a gap between what our law firms would be able to do, in terms of readiness in moving in that direction, particularly the medium and smaller law firms, and what clients were expecting. And I think the pandemic has made that even more apparent. From our perspective, when we were mapping out the requirements, we started by talking to the lawyers and clients, which we have been doing a lot. 
