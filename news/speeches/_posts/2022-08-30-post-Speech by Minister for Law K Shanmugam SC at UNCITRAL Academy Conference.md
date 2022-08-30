@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister for Law K Shanmugam SC at UNCITRAL Academy Conference
+title: Speech by Minister for Home Affairs and Minister for Law Mr K Shanmugam SC at UNCITRAL Academy Conference, Singapore Convention Week 2022
 permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-uncitral-academy-conference/
 date: 2022-08-30
 layout: post
