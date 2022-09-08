@@ -24,7 +24,7 @@ description: ""
 4. Action has never been taken against lawyers for representing persons facing capital punishment.
 
 {:start="5"}
-5. All defendants (including those facing capital punishment) are entitled to have counsel defend them. That right does not mean persons can abuse the court process. In many jurisdictions, the courts have powers to prevent abuse of the court process. The ICJ cannot be seriously suggesting that it wants abuses of court processes to go unpunished. 
+5.	All defendants (including those facing capital punishment) are entitled to have counsel defend them. That right does not mean persons can abuse the court process. In many jurisdictions, the courts have powers to prevent abuse of the court process. The ICJ cannot be seriously suggesting that it wants abuses of court processes to go unpunished. 
 
 {:start="6"}
 6.	In Singapore, the Supreme Court has taken steps to deal with abuse, in both capital and non-capital cases. 
