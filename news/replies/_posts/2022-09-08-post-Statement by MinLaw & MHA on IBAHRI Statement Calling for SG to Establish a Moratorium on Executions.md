@@ -9,33 +9,33 @@ description: ""
 8 September 2022 Posted in [Replies](/news/replies)  
 
 {:start="1"}
-1.         We refer to the statement dated 11 August 2022 by the International Bar Association’s Human Rights Institute (<b>“IBAHRI”</b>) calling for Singapore to establish a moratorium on executions (<b>“the Statement”</b>). The Statement contains a number of misconceptions and inaccuracies.
+1. We refer to the statement dated 11 August 2022 by the International Bar Association’s Human Rights Institute (<b>“IBAHRI”</b>) calling for Singapore to establish a moratorium on executions (<b>“the Statement”</b>). The Statement contains a number of misconceptions and inaccuracies.
 
 **Access to justice is available to all**
 
 {:start="2"}
-2.            The IBAHRI states that “[i]n recent months, the Singaporean courts have imposed cost orders against lawyers for filing ‘frivolous, vexatious or an abuse of process’ late-stage applications on behalf of their death-row clients”. The IBAHRI further alleges that “[p]unitive court cost orders raise concerns around access to justice and effective legal representation and the right to a fair trial”. 
+2. The IBAHRI states that “[i]n recent months, the Singaporean courts have imposed cost orders against lawyers for filing ‘frivolous, vexatious or an abuse of process’ late-stage applications on behalf of their death-row clients”. The IBAHRI further alleges that “[p]unitive court cost orders raise concerns around access to justice and effective legal representation and the right to a fair trial”. 
 
 {:start="3"}
-3.            These statements are inaccurate. In Singapore, all persons facing capital punishment have access to justice and legal representation. If a person charged with a capital offence cannot afford a lawyer, legal counsel will be offered to the person free of charge, regardless of nationality, under the Legal Assistance Scheme for Capital Offences. 
+3. These statements are inaccurate. In Singapore, all persons facing capital punishment have access to justice and legal representation. If a person charged with a capital offence cannot afford a lawyer, legal counsel will be offered to the person free of charge, regardless of nationality, under the Legal Assistance Scheme for Capital Offences. 
 
 {:start="4"}
-4.         Action has never been taken against lawyers for representing persons facing capital punishment.
+4. Action has never been taken against lawyers for representing persons facing capital punishment.
 
 {:start="5"}
-5.         All defendants (including those facing capital punishment) are entitled to have counsel defend them. That right does not mean persons can abuse the court process. In many jurisdictions, the courts have powers to prevent abuse of the court process. The IBAHRI cannot be seriously suggesting that it wants abuses of court processes to go unpunished. 
+5. All defendants (including those facing capital punishment) are entitled to have counsel defend them. That right does not mean persons can abuse the court process. In many jurisdictions, the courts have powers to prevent abuse of the court process. The IBAHRI cannot be seriously suggesting that it wants abuses of court processes to go unpunished. 
 
 {:start="6"}
-6.            In Singapore, the Supreme Court has taken steps to deal with abuse, in both capital and non-capital cases. 
+6. In Singapore, the Supreme Court has taken steps to deal with abuse, in both capital and non-capital cases. 
 
 {:start="7"}
-7.           The IBAHRI has referred to a case involving 24 persons. These 24 persons had full legal representation and the Singapore Court of Appeal had dismissed their cases. They then attempted to reopen their cases. The Court of Appeal heard and dismissed the further attempt and said that their application was completely unmeritorious . 
+7.  The IBAHRI has referred to a case involving 24 persons. These 24 persons had full legal representation and the Singapore Court of Appeal had dismissed their cases. They then attempted to reopen their cases. The Court of Appeal heard and dismissed the further attempt and said that their application was completely unmeritorious<sup><a href="#fn1" id="ref1">1</a></sup>. 
 
 {:start="8"}
 8. As stated earlier, the Courts have also dealt with lawyers who have abused the court processes. One lawyer, in particular, was the subject of six of the eight instances in which the Courts had to impose disciplinary orders, including the making of costs orders, against lawyers representing persons sentenced to capital punishment. It is public knowledge that that lawyer was prohibited by the Singapore Law Society from practising law in 2015, and then suspended from practising law by the Singapore High Court in 2015. In 2016, he was also prohibited from applying for a practising certificate for two years due to his disciplinary breaches. Upon his return to law practice in 2019, he was issued a conditional practising certificate. 
 
 {:start="9"}
-9.	The same lawyer has admitted to the High Court during one of his applications that his clients had no basis for obtaining the orders applied for. He was also found to have asked for reliefs which were procedurally unsustainable as a matter of law. The High Court made clear that a solicitor should not be held to have acted unreasonably simply because he acted for a client who had a bad case, but it would be quite different if a solicitor gave his assistance to proceedings which were an abuse of process. It was found that he clearly fell within the latter situation as he had filed an application for which he had no justification to file given its total absence of any legal foundation . In another related matter, the High Court found that his conduct was not proper. He further brought the application without satisfying the statutory requirements . In yet another application, he was found by the Court of Appeal to have brought an application when there was no factual basis, and that proceedings were instituted on the basis of speculation. The Court of Appeal further found that the proceedings instituted constituted a blatant and egregious abuse of the court’s processes, by drip-feeding the supposed evidence and arguments . 
+9.	The same lawyer has admitted to the High Court during one of his applications that his clients had no basis for obtaining the orders applied for. He was also found to have asked for reliefs which were procedurally unsustainable as a matter of law. The High Court made clear that a solicitor should not be held to have acted unreasonably simply because he acted for a client who had a bad case, but it would be quite different if a solicitor gave his assistance to proceedings which were an abuse of process. It was found that he clearly fell within the latter situation as he had filed an application for which he had no justification to file given its total absence of any legal foundation<sup><a href="#fn2" id="ref2">2</a></sup>. In another related matter, the High Court found that his conduct was not proper. He further brought the application without satisfying the statutory requirements<sup><a href="#fn3" id="ref3">3</a></sup>. In yet another application, he was found by the Court of Appeal to have brought an application when there was no factual basis, and that proceedings were instituted on the basis of speculation. The Court of Appeal further found that the proceedings instituted constituted a blatant and egregious abuse of the court’s processes, by drip-feeding the supposed evidence and arguments<sup><a href="#fn4" id="ref4">4</a></sup> . 
 
 **Singapore’s criminal justice system is fair and impartial**
 
@@ -61,5 +61,19 @@ description: ""
 
 {:start="16"}
 16.	In light of the above, we invite the IBAHRI to examine the facts prior to issuing such statements.
+
+* * *
+
+<p><sup id="fn1">1. See <i>Iskandar Bin Rahmat and others v Attorney-General and another</i> [2022] SGCA 58 at [46] and [52].<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+
+<p><sup id="fn2">2. <i>See Syed Suhail bin Syed Zin and others v Attorney-General</i> [2021] SGHC 270 at [43] – [48].<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
+<p><sup id="fn3">3. See <i>Syed Suhail bin Syed Zin and others v Attorney-General</i> [2022] SGHC 184 at [5] – [14].<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
+
+<p><sup id="fn4">4. See <i>Nagaenthran a/l K Dharmalingam v Attorney-General and another matter</i> [2022] SGCA 44 at [11] – [16].<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+
+**MINISTRY OF LAW
+MINISTRY OF HOME AFFAIRS
+8 SEPTEMBER 2022**
 
 <p class="right-side-updated">Last updated on 8 September 2022</p>
