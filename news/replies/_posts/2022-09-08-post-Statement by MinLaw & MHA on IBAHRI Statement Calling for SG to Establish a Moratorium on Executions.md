@@ -72,8 +72,8 @@ description: ""
 
 <p><sup id="fn4">4. See <i>Nagaenthran a/l K Dharmalingam v Attorney-General and another matter</i> [2022] SGCA 44 at [11] – [16].<a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
 
-**MINISTRY OF LAW
-MINISTRY OF HOME AFFAIRS
+**MINISTRY OF LAW<br>
+MINISTRY OF HOME AFFAIRS<br>
 8 SEPTEMBER 2022**
 
 <p class="right-side-updated">Last updated on 8 September 2022</p>
