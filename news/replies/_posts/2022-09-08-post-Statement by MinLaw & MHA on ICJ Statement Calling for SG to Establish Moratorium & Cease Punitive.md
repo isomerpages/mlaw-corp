@@ -1,6 +1,7 @@
 ---
-title: Statement by MinLaw & MHA on ICJ Statement Calling for Singapore to Establish a
-  Moratorium on Executions & Cease the Use of Punitive Cost Orders Against Lawyers
+title: Statement by MinLaw & MHA on ICJ Statement Calling for Singapore to
+  Establish a Moratorium on Executions & Cease the Use of Punitive Cost Orders
+  Against Lawyers
 permalink: /news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement/
 date: 2022-09-08
 layout: post
@@ -53,7 +54,7 @@ description: ""
 {:start="13"}
 13.	In alignment with the International Convention on the Elimination of All Forms of Racial Discrimination, Singapore’s laws apply equally to all, regardless of race, colour, descent, ethnic origin or nationality. All persons are treated equally and accorded due process under our laws. 
 
-**No international consensus on capital punishment **
+**No international consensus on capital punishment**
 
 {:start="14"}
 14.	There is no basis to assert that the imposition of capital punishment for drug offences is a breach of international law. There is no international consensus against the use of capital punishment when it is imposed according to the due process of law and with judicial safeguards. Every country has the sovereign right to determine its own criminal justice system, considering its own circumstances and in accordance with its international law obligations. This right should be respected. 
