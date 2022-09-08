@@ -1,5 +1,5 @@
 ---
-title: Statement by MinLaw & MHA on ICJ Statement Calling for SG to Establish a
+title: Statement by MinLaw & MHA on ICJ Statement Calling for Singapore to Establish a
   Moratorium on Executions & Cease the Use of Punitive Cost Orders Against Lawyers
 permalink: /news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement/
 date: 2022-09-08
