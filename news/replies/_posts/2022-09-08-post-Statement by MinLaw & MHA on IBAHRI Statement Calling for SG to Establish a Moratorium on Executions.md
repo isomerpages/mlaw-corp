@@ -9,7 +9,7 @@ description: ""
 8 September 2022 Posted in [Replies](/news/replies)  
 
 {:start="1"}
-1. We refer to the statement dated 11 August 2022 by the International Bar Association’s Human Rights Institute (<b>“IBAHRI”</b>) calling for Singapore to establish a moratorium on executions (<b>“the Statement”</b>). The Statement contains a number of misconceptions and inaccuracies.
+1. We refer to the statement dated 11 August 2022 by the International Bar Association’s Human Rights Institute (“**IBAHRI**”) calling for Singapore to establish a moratorium on executions (“**the Statement**”). The Statement contains a number of misconceptions and inaccuracies.
 
 **Access to justice is available to all**
 
