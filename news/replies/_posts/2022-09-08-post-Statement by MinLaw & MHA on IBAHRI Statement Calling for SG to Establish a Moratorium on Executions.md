@@ -1,6 +1,6 @@
 ---
-title: Statement by MinLaw & MHA on the IBAHRI Statement Calling for Singapore to Establish
-  a Moratorium on Executions
+title: Statement by MinLaw & MHA on the IBAHRI Statement Calling for Singapore
+  to Establish a Moratorium on Executions
 permalink: /news/replies/2022-09-08-minlaw-mha-statement-on-ibahri-statement/
 date: 2022-09-08
 layout: post
@@ -66,7 +66,7 @@ description: ""
 
 <p><sup id="fn1">1. See <i>Iskandar Bin Rahmat and others v Attorney-General and another</i> [2022] SGCA 58 at [46] and [52].<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2. <i>See Syed Suhail bin Syed Zin and others v Attorney-General</i> [2021] SGHC 270 at [43] – [48].<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. See <i>Syed Suhail bin Syed Zin and others v Attorney-General</i> [2021] SGHC 270 at [43] – [48].<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <p><sup id="fn3">3. See <i>Syed Suhail bin Syed Zin and others v Attorney-General</i> [2022] SGHC 184 at [5] – [14].<a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup></p>
 
