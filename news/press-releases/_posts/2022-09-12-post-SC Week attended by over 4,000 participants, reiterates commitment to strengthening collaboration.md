@@ -52,6 +52,13 @@ f.	         Dispute settlement and climate change were also featured, with panel
 {:start="8"}
 8.         Attendees of the SC Week 2022 shared their key takeaways: 
 
+
+a.	         **Mr Shreyas Jayasimha, Co-Founder of Aarna Law (India) and Simha Law (Singapore)**, a speaker . 
+
+b.	         **Mr Shreyas Jayasimha, Co-Founder of Aarna Law (India) and Simha Law (Singapore)**, a speaker . 
+
+c.	         **Singapore's Minister for Culture, Community and Youth and Second Minister for Law, Mr Edwin Tong SC** shared 
+
 {:start="9"}
 9.          The SC Week continues to play a pivotal role in bringing together thought leaders in the dispute resolution field, to share insights and best practices amidst a changing operating landscape.  Videos of the SC Week 2022 highlights, events and panel discussions are available at [https://www.singaporeconventionweek.sg/](https://www.singaporeconventionweek.sg/).
 
