@@ -45,10 +45,12 @@ f.	         Dispute settlement and climate change were also featured, with panel
 6.         The SCM, which entered into force on 12 September 2020, offers a simplified and streamlined procedure to enforce or invoke international mediated settlement agreements. It also serves as an essential instrument in the facilitation of international trade and in the promotion of mediation as an additional and effective dispute resolution option to litigation and arbitration in settling cross-border disputes. To date, there are 10 parties to the SCM – Singapore, Fiji, Qatar, Saudi Arabia, Belarus, Ecuador, Honduras, Turkey, Georgia and Kazakhstan, and 55 signatories.
 
 {:start="7"}
-7.                  
+7.         The second edition of the Singapore Convention on Mediation Commentary Book by SIDRA was also launched during the UNCITRAL Academy Conference by **Mdm Rahayu Mahzam, Singapore’s Senior Parliamentary Secretary, Ministry of Health and Ministry of Law**.         
+
+**Key Takeaways from SC Week 2022 Attendees**
 
 {:start="8"}
-8.                  
+8.         Attendees of the SC Week 2022 shared their key takeaways: 
 
 {:start="9"}
 9.          The SC Week continues to play a pivotal role in bringing together thought leaders in the dispute resolution field, to share insights and best practices amidst a changing operating landscape.  Videos of the SC Week 2022 highlights, events and panel discussions are available at [https://www.singaporeconventionweek.sg/](https://www.singaporeconventionweek.sg/).
