@@ -27,9 +27,9 @@ description: ""
 
 a.	         **Singapore's Minister for Culture, Community and Youth and Second Minister for Law, Mr Edwin Tong SC** shared Singapore’s journey to becoming a leading centre for international commercial dispute resolution in a fireside chat during the UNCITRAL Academy Conference. He expressed optimism about growing opportunities for young practitioners in Asia as new areas and opportunities emerge in this region. He added that Singapore will continue to look for ways to maintain the high standards of the legal industry, and ensure that it remains adaptable and responsive to the economic and technological changes ahead. 
 
-b.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+b.	         On the topic of dispute resolution in a digital economy, panellists noted that with greater use of technology in dispute resolution proceedings, confidentiality and cybersecurity issues have emerged. They shared their views on the need to raise the technology competence and subject matter expertise of practitioners, for instance, in new technologies such as cryptocurrency, and explored innovations that could make dispute resolution more efficient. 
 
-c.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+c.	         On Investor-State Dispute Settlement (ISDS) reforms, panellists discussed reforms to the ISDS system, with perspectives from the Asia-Pacific region. Among the options being developed in UNCITRAL Working Group III, mediation emerged as a key reform option, with panellists discussing how it could play an even greater role in the context of ISDS reforms. The new ICSID Mediation Rules 2022, established by the International Centre for Settlement of Investment Disputes (ICSID), were also discussed. 
 
 d.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
 
