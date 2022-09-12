@@ -54,7 +54,7 @@ f.	         Dispute settlement and climate change were also featured, with panel
 
 a.	         **Mr Shreyas Jayasimha, Co-Founder of Aarna Law (India) and Simha Law (Singapore)**, a speaker at the UNCITRAL Academy Conference, said: “This year’s SC Week has been a refreshing gathering of practitioners and experts from all over the world post-COVID. It has been an amazing interaction and the choice of curated topics is excellent. As a practitioner of mediation, I am very grateful to Singapore – for not only lending its name, but organising events like this, such that the mediation practitioners can come together and grow. This kind of support is critical.” 
 
-b.	         **Mr Shreyas Jayasimha, Co-Founder of Aarna Law (India) and Simha Law (Singapore)**, a speaker . 
+b.	         **Mr Ng Jern-Fei, Co-Founder of Aarna Law (India) and Simha Law (Singapore)**, a speaker . 
 
 c.	         **Singapore's Minister for Culture, Community and Youth and Second Minister for Law, Mr Edwin Tong SC** shared 
 
