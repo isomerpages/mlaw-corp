@@ -29,6 +29,14 @@ a.	         **Singapore's Minister for Culture, Community and Youth and Second M
 
 b.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
 
+c.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+
+d.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+
+e.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+
+f.	         **Partner events by supporting organisations**: The SC Week will also feature a full calendar of legal and dispute resolution-related events organised by partner organisations (see **Annex B**). 
+
 {:start="3"}
 3.                  **Minister for Culture, Community and Youth and Second Minister for Law, Mr Edwin Tong SC**, said: “With global events reshaping the world we live in, the SC Week 2022 will continue to be a key platform bringing together the legal, business and government sectors to empower businesses to be agile and seize new possibilities in the dispute resolution field. More importantly, we hope that it will strengthen partnerships and energise the global legal and dispute resolution communities to tackle emerging challenges.”
 
