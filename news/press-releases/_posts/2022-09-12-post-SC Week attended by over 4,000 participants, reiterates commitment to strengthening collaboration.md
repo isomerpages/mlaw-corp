@@ -9,7 +9,9 @@ description: ""
 12 Sep 2022 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.         The Singapore Convention Week (SC Week) 2022, to be held from 29 August to 2 September, will bring together global experts and thought-leaders to share the latest insights in cross-border dispute resolution amidst a changing operating landscape.
+1.         The Singapore Convention Week (SC Week) 2022 successfully drew to a close on 2 September 2022. Over 5 days, from 29 August to 2 September 2022, SC Week 2022 feature a series of legal and dispute resolution-related events organised by the Singapore Ministry of Law (MinLaw), in collaboration with 21 partner organisations. SC Week 2022 brought together over 4,000 participants from Singapore and more than 100 countries, representing the legal, business and government sectors.
+
+**Key Highlights & Insights from UNCITRAL Academy**
 
 {:start="2"}
 2.                  Organised by the Singapore Ministry of Law (MinLaw), in collaboration with supporting partner organisations, the SC Week 2022 features an exciting line-up of in-person, hybrid and virtual events on dispute resolution and more. It consists of:
