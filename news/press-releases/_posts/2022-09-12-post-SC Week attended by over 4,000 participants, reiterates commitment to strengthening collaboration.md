@@ -14,7 +14,7 @@ description: ""
 **Key Highlights & Insights from UNCITRAL Academy**
 
 {:start="2"}
-2. A key highlight was the second edition of the UNCITRAL Academy, comprising the UNCITRAL Academy Conference and Capacity-Building Workshops. Jointly organised by MinLaw and the United Nations Commission on International Trade Law (UNCITRAL), the UNCITRAL Academy was held at the Shangri-La Hotel in Singapore over three days, from 30 August to 1 September 2022.
+2.         A key highlight was the second edition of the UNCITRAL Academy, comprising the UNCITRAL Academy Conference and Capacity-Building Workshops. Jointly organised by MinLaw and the United Nations Commission on International Trade Law (UNCITRAL), the UNCITRAL Academy was held at the Shangri-La Hotel in Singapore over three days, from 30 August to 1 September 2022.
 
 a.	         **UNCITRAL Academy**: At the heart of the SC Week 2022 is the UNCITRAL Academy which returns for its second edition from 30 August to 1 September 2022. Jointly organised by MinLaw and the United Nations Commission on International Trade Law (UNCITRAL), the UNCITRAL Academy comprises the UNCITRAL Academy Conference and the UNCITRAL Academy Capacity-Building Workshops (see **Annex A**).<br>
 
