@@ -44,9 +44,6 @@ f.	         Dispute settlement and climate change were also featured, with panel
 {:start="6"}
 6.         The SCM, which entered into force on 12 September 2020, offers a simplified and streamlined procedure to enforce or invoke international mediated settlement agreements. It also serves as an essential instrument in the facilitation of international trade and in the promotion of mediation as an additional and effective dispute resolution option to litigation and arbitration in settling cross-border disputes. To date, there are 10 parties to the SCM – Singapore, Fiji, Qatar, Saudi Arabia, Belarus, Ecuador, Honduras, Turkey, Georgia and Kazakhstan, and 55 signatories.
 
-{:start="6"}
-6.                  
-
 {:start="7"}
 7.                  
 
