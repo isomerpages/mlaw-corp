@@ -27,4 +27,5 @@ The above e-Services portals will be undergoing maintenance daily from 7.00am to
 6. [Exemptions (Singapore Bar/FPE)](https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx) 	
 7. [Community Mediation Centre](https://cmc.mlaw.gov.sg/e-services/apply-online/)	
 8. [Legal Aid Bureau](https://eservices.mlaw.gov.sg/labesvc/)	
-9. [Anti-Money Laundering / Countering The Financing Of Terrorism](https://acd.mlaw.gov.sg)
+9. [Divorce Aide – LAB matrimonial asset division estimator](https://eservices.mlaw.gov.sg/labesvc/common/loadDivorceAIDEv2.do)
+10. [Anti-Money Laundering / Countering The Financing Of Terrorism](https://acd.mlaw.gov.sg)
