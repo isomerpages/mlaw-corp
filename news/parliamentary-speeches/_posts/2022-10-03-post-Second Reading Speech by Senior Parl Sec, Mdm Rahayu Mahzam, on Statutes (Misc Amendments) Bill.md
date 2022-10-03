@@ -17,7 +17,7 @@ Mr Speaker,
 **I.**            **Introduction**
 
 {:start="2"}
-2.          Sir, this Bill contains 23 operative clauses. It makes miscellaneous amendments across a number of Acts. Mr Speaker Sir, with your permission, may I ask the clerk to distribute an Annex to my speech. Members may also access this material through the SG PARL MP mobile app. The Annex lists down the amendments to be made via this Bill, which I will take Members through.
+2.          Sir, this Bill contains 23 operative clauses. It makes miscellaneous amendments across a number of Acts. Mr Speaker Sir, with your permission, may I ask the clerk to distribute an [Annex](/files/news/parliamentary-speeches/2022/Annex-Statutes-Miscellaneous-Amendments-Bill.pdf) to my speech. Members may also access this material through the SG PARL MP mobile app. The Annex lists down the amendments to be made via this Bill, which I will take Members through.
 
 **II.**          **Clause 2: Amendment to the Interpretation Act 1965**
 
