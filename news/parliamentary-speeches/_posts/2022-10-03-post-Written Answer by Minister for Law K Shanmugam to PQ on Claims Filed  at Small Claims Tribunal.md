@@ -19,25 +19,15 @@ To ask the Minister for Law since 2019 annually (a) how many claims are filed at
 
 Statistics on the number of claims filed with the Small Claims Tribunals since 2019, are as follows:
 
-
-|                |2019|2020|2021|2022 (Jan to Aug)|
-
+|                ||2019|2020|2021|2022 (Jan to Aug)|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-
-**|Total number of claims filed with the Small Claims Tribunals:|10927|8902|9280|5717|**
-
-**|<i>Claims where party-type data is readily available</i>|**
-
-**|a. Number of claims filed where the claimant and respondent are both natural persons|1361|1476|1635|991|**
-
-**|b. Number of claims filed where the claimant is a natural person, but the respondent is a corporate entity or non-natural person|1592|1647|2144|1320|**
-
-**|c. Number of claims filed where the claimant is a corporate entity or non-natural person, but respondent is natural person |1628|961|1191|734|**
-
-**|d. Number of claims filed where the claimant and respondent are both corporate entities or non-natural persons|4375|3292|2673|1574|**
-
-**|<i>Claims where party-type data is not readily available</i>|**
-
-**|Number of claims:|1971|1526|1637|1098|**
+|Total number of claims filed with the Small Claims Tribunals:||10927|8902|9280|5717|
+|<i>Claims where party-type data is readily available</i>|
+|Number of claims filed where the claimant and respondent are both natural persons||1361|1476|1635|991|
+|Number of claims filed where the claimant is a natural person, but the respondent is a corporate entity or non-natural person||1592|1647|2144|1320|
+|Number of claims filed where the claimant is a corporate entity or non-natural person, but respondent is natural person||1628|961|1191|734|
+|Number of claims filed where the claimant and respondent are both corporate entities or non-natural persons||4375|3292|2673|1574|
+|<i>Claims where party-type data is not readily available</i>|
+|Number of claims:||1971|1526|1637|1098|
 
 **<p class="right-side-updated">Last updated on 03 October 2022</p>**
