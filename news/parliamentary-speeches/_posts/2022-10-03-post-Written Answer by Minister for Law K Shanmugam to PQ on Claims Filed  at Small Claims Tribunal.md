@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Breakdown of Claims Filed Annually at Small Claims Tribunal Since 2019
+title: Written Answer by Minister for Law K Shanmugam to PQ on Breakdown of
+  Claims Filed Annually at Small Claims Tribunal Since 2019
 permalink: /news/parliamentary-speeches/written-pq-claims-filed-annually-small-claims-tribunal-since-2019/
 date: 2022-10-03
 layout: post
@@ -29,4 +30,4 @@ Statistics on the number of claims filed with the Small Claims Tribunals since 2
 |<i>Claims where party-type data is not readily available</i>|
 |Number of claims:||1971|1526|1637|1098|
 
-**<p class="right-side-updated">Last updated on 03 October 2022</p>**
+**<p> class="right-side-updated">Last updated on 03 October 2022</p>**
