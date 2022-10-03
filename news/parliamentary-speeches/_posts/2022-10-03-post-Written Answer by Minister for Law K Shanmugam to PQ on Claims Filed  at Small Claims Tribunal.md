@@ -30,4 +30,4 @@ Statistics on the number of claims filed with the Small Claims Tribunals since 2
 |<i>Claims where party-type data is not readily available</i>|
 |Number of claims:||1971|1526|1637|1098|
 
-**<p> class="right-side-updated">Last updated on 03 October 2022</p>**
+<p class="right-side-updated">Last updated on 03 October 2022</p>
