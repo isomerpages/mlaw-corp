@@ -19,9 +19,8 @@ To ask the Minister for Law since 2019 annually (a) how many claims are filed at
 
 Statistics on the number of claims filed with the Small Claims Tribunals since 2019, are as follows:
 
-**\*\*<b>Table 1: Breakdown of Cases Registered at the Community Mediation Centre</b>\*\***
 
-**|                |2019|2020|2021|2022 (Jan to Aug)|**
+|                |2019|2020|2021|2022 (Jan to Aug)|
 
 **|----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|**
 
