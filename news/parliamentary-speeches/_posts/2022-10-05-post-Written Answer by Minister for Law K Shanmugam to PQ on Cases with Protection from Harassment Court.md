@@ -1,6 +1,6 @@
 ---
 title: Written Answer by Minister for Law K Shanmugam to PQ on Breakdown of Cases Filed with Protection from Harassment Court
-permalink: /news/parliamentary-speeches/breakdown-of-cases-filed-protection-from-harassment-court/
+permalink: /news/parliamentary-speeches/written-pq-breakdown-of-cases-filed-protection-from-harassment-court/
 date: 2022-10-05
 layout: post
 description: ""
