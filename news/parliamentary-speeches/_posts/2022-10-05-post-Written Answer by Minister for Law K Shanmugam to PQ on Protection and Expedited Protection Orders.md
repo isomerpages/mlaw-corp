@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Protection and
-  Expedited Protection Orders
+title: Written Answer by Minister for Law K Shanmugam to PQ on Protection and Expedited Protection Orders Granted under Protection from Harassment Act 2014
 permalink: /news/parliamentary-speeches/written-pq-protection-expedited-and-protection-orders-under-PHC-act/
 date: 2022-10-05
 layout: post
