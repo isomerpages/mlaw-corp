@@ -24,7 +24,7 @@ Statistics on the number of Protection Orders (PO) or Expedited Protection Order
 |No. of Protection Orders granted|64|79|67|155|49|
 |No. of Expedited Protection Orders granted|63|101|73|164|89|
 
-In respect of alleged breaches of PO or EPO, there were 2 applications filed seeking committal orders as of 30 June 2022.
+In respect of alleged breaches of PO or EPO, there were two applications filed seeking committal orders as of 30 June 2022.
 
 Information on the number of cases of alleged breaches of PO or EPO which have been referred to the Public Prosecutor for further investigation and action is not readily available. 
 
