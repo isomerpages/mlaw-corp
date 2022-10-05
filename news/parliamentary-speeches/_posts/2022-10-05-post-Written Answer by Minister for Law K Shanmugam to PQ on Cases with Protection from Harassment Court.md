@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Breakdown of Cases Filed with Protection from Harassment Court
+title: Written Answer by Minister for Law K Shanmugam to PQ on Breakdown of
+  Cases Filed with Protection from Harassment Court
 permalink: /news/parliamentary-speeches/written-pq-breakdown-of-cases-filed-protection-from-harassment-court/
 date: 2022-10-05
 layout: post
@@ -12,7 +13,7 @@ image: ""
 
 **<b><u>Question</u></b>**
 
-To ask the Minister for Law to date, what is the number of cases filed with the Protection from Harassment Court (PHC) broken down into (i) sexual harassment (ii) workplace harassment (iii) cyber-bullying (iv) doxxing and (v) harassment by debt collectors, moneylenders, or creditors.
+To ask the Minister for Law to date, what is the number of cases filed with the Protection from Harassment Court broken down into (i) sexual harassment (ii) workplace harassment (iii) cyber-bullying (iv) doxxing and (v) harassment by debt collectors, moneylenders, or creditors.
 
 **<b><u>Written Answer:</u></b>** 
 
