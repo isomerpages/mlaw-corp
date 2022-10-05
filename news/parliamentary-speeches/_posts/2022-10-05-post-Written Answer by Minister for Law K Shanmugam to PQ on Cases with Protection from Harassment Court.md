@@ -22,7 +22,7 @@ Statistics on the breakdown of harassment cases filed with the Protection from H
 |Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
 |Sexual Harassment||||34|33|
-Workplace Harassment||||78|62|
+|Workplace Harassment||||78|62|
 |Cyber-bullying||||114|90|
 |Doxxing||||121|88|
 |Harassment by debt collectors, moneylenders, or creditors||||38|18|
