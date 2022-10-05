@@ -12,7 +12,7 @@ image: ""
 **Mr Murali Pillai (Member of Parliament for Bukit Batok SMC)** 
 
 **<b><u>Question</u></b>** 
-To ask the Minister for Law whether the Ministry will require overseas entities wanting to buy, sell or transfer properties in Singapore to register with the Accounting and Corporate Regulatory Authority (ACRA) and disclose the beneficial owners and principal officers of the entities along the lines of what has been introduced in United Kingdom in August 2022 as a measure against money laundering.
+<br>To ask the Minister for Law whether the Ministry will require overseas entities wanting to buy, sell or transfer properties in Singapore to register with the Accounting and Corporate Regulatory Authority (ACRA) and disclose the beneficial owners and principal officers of the entities along the lines of what has been introduced in United Kingdom in August 2022 as a measure against money laundering.
 
 **<b><u>Written Answer:</u></b>** 
 
