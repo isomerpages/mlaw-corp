@@ -21,8 +21,11 @@ Statistics on the breakdown of harassment cases filed with the Protection from H
 
 |Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|2018|2019|2020|1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|No. of Protection Orders granted|64|79|67|155|49|
-|No. of Expedited Protection Orders granted|63|101|73|164|89|
+|Sexual Harassment|64|79|67|155|49|
+|Workplace Harassment|63|101|73|164|89|
+|Cyber-bullying|63|101|73|164|89|
+|Doxxing|63|101|73|164|89|
+|Harassment by debt collectors, moneylenders, or creditors|63|101|73|164|89|
 
 |Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
