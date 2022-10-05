@@ -19,7 +19,7 @@ To ask the Minister for Law to date, what is the number of cases filed with the 
 
 Statistics on the breakdown of harassment cases filed with the Protection from Harassment Court from 1 June 2021 to 30 June 2022, are as follows:
 
-|Year|2018|2019|2020|2021|2022 (as at 30 Jun)
+|Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|2018|2019|2020|1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
 |No. of Protection Orders granted|64|79|67|155|49|
 |No. of Expedited Protection Orders granted|63|101|73|164|89|
