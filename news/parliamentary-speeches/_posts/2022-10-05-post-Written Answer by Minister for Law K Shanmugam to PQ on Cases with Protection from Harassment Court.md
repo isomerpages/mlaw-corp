@@ -17,7 +17,7 @@ To ask the Minister for Law to date, what is the number of cases filed with the 
 
 **<b><u>Written Answer:</u></b>** 
 
-Statistics on the  breakdown of harassment cases filed with the Protection from Harassment Court from 1 June 2021 to 30 June 2022, are as follows:
+Statistics on the breakdown of harassment cases filed with the Protection from Harassment Court from 1 June 2021 to 30 June 2022, are as follows:
 
 |Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
