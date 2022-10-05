@@ -19,21 +19,14 @@ To ask the Minister for Law to date, what is the number of cases filed with the 
 
 Statistics on the breakdown of harassment cases filed with the Protection from Harassment Court from 1 June 2021 to 30 June 2022, are as follows:
 
-|Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|
+|Breakdown of harassment cases filed with the Protection from Harassment Court|1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022||||
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|Sexual Harassment|64|79|67|155|49|
-|Workplace Harassment|63|101|73|164|89|
-|Cyber-bullying|63|101|73|164|89|
-|Doxxing|63|101|73|164|89|
-|Harassment by debt collectors, moneylenders, or creditors|63|101|73|164|89|
+|Sexual Harassment|34|33||||
+|Workplace Harassment|78|62||||
+|Cyber-bullying|114|90||||
+|Doxxing|121|88||||
+|Harassment by debt collectors, moneylenders, or creditors|38|18||||
 
-|Breakdown of harassment cases filed with the Protection from Harassment Court||||1 Jun - 31 Dec 2021|1 Jan - 30 Jun 2022|
-|----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|Sexual Harassment||||34|33|
-|Workplace Harassment||||78|62|
-|Cyber-bullying||||114|90|
-|Doxxing||||121|88|
-|Harassment by debt collectors, moneylenders, or creditors||||38|18|
 Note: each case may involve more than 1 type of alleged harassment. 
 
 <p class="right-side-updated">Last updated on 05 October 2022</p>
