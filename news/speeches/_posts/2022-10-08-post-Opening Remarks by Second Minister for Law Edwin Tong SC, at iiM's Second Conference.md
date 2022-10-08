@@ -114,136 +114,136 @@ Ladies and gentlemen
 24. Indeed, beyond the shores of Singapore, mediation has also been promoted as an effective dispute resolution tool.
 
 {:start="25"}
-25.              For example, in Malawi, the United Nations Development Programme and the European Union supported a joint project that trained and deployed village mediators. Not being able to travel around the remote parts of Malawi, you would have to deploy mediators in the community, which itself gives me an idea as to what we can use in Singapore, even though we are well-connected.
+25. For example, in Malawi, the United Nations Development Programme and the European Union supported a joint project that trained and deployed village mediators. Not being able to travel around the remote parts of Malawi, you would have to deploy mediators in the community, which itself gives me an idea as to what we can use in Singapore, even though we are well-connected.
 
 {:start="26"}
-26.              These village mediators assisted to mediate petty offences and disputes, and also help to resolve law enforcement difficulties.
+26. These village mediators assisted to mediate petty offences and disputes, and also help to resolve law enforcement difficulties.
 
 {:start="27"}
-27.              By doing so, they enhanced access to justice by bringing relief to poor and vulnerable members of society, including women and children. The project was so successful that village mediators resolved over 50,000 cases within two years!
+27. By doing so, they enhanced access to justice by bringing relief to poor and vulnerable members of society, including women and children. The project was so successful that village mediators resolved over 50,000 cases within two years!
 
 {:start="28"}
-28.              This has helped strengthen the country’s delivery of justice, and also enhances community relations.
+28. This has helped strengthen the country’s delivery of justice, and also enhances community relations.
  
 **V.           <u>ENCOURAGING MEDIATION IN SINGAPORE</u>**
 
 {:start="29"}
-29.              Similarly in Singapore, we have worked very hard to encourage the take-up of mediation. I quickly learned from the Courts and judges that we should first try mediation. Very often when we went to Court, the judge would ask if we have tried mediation. We would then look at each other and wonder if the judge was asking us not to carry on with the case. After a while, encouraged by the Courts and the judges and the very proactive stance they took, we would sit down and tear down the case, go back and get the clients to talk to each other. Actually, you would be surprised – just at the door as you are looking at trying to resolve a case openly with a lot of conviction, the parties take a step back and they often do come up with a solution. By doing so, they would save lots of time not just for themselves, but also for the Court as it frees up their time to deal with cases that are a lot more impactful.
+29. Similarly in Singapore, we have worked very hard to encourage the take-up of mediation. I quickly learned from the Courts and judges that we should first try mediation. Very often when we went to Court, the judge would ask if we have tried mediation. We would then look at each other and wonder if the judge was asking us not to carry on with the case. After a while, encouraged by the Courts and the judges and the very proactive stance they took, we would sit down and tear down the case, go back and get the clients to talk to each other. Actually, you would be surprised – just at the door as you are looking at trying to resolve a case openly with a lot of conviction, the parties take a step back and they often do come up with a solution. By doing so, they would save lots of time not just for themselves, but also for the Court as it frees up their time to deal with cases that are a lot more impactful.
 
 {:start="30"}
-30.              In 1996, then-Minister for Law Professor S Jayakumar tasked an inter-agency Committee on Alternative Dispute Resolution (ADR) to explore how to promote and advance the use of mediation, in particular, beyond the Courts.
+30. In 1996, then-Minister for Law Professor S Jayakumar tasked an inter-agency Committee on Alternative Dispute Resolution (ADR) to explore how to promote and advance the use of mediation, in particular, beyond the Courts.
 
 {:start="31"}
-31.              The Committee made recommendations to implement mediation, which led to:
+31. The Committee made recommendations to implement mediation, which led to:
 
-(a)               First, the establishment of the Singapore Mediation Centre (SMC) in 1997 as a commercial mediation centre, and
+	(a) <u>First</u>, the establishment of the Singapore Mediation Centre (SMC) in 1997 as a commercial mediation centre, and
 
-(b)               Second, the establishment of the Community Mediation Centre (CMC) in 1998 to promote mediation to resolve social and community disputes.
+	(b) <u>Second</u>, the establishment of the Community Mediation Centre (CMC) in 1998 to promote mediation to resolve social and community disputes.
 
 {:start="32"}
-32.              I understand that many of you here are either past or present CMC volunteers and I want to just take a minute out of my speech to thank you for all the work.
+32. I understand that many of you here are either past or present CMC volunteers and I want to just take a minute out of my speech to thank you for all the work.
 
 **VI.           <u>BUILDING CONSENSUS IN COMMUNITY DISPUTES</u>**
 
 {:start="33"}
-33.              CMC relies a lot on its volunteer mediators. It will not be able to do its work and reach out to the community, if not for your efforts. I want to take a minute to thank you very much for all of this.
+33. CMC relies a lot on its volunteer mediators. It will not be able to do its work and reach out to the community, if not for your efforts. I want to take a minute to thank you very much for all of this.
 
 {:start="34"}
-34.              I know much of the work that you do is often difficult because when you first encounter a problem, the parties are emotional and have a longstanding problem, often for years, and it takes a lot of patience to make that bridge. But each time you make that bridge, it is very effective.
+34. I know much of the work that you do is often difficult because when you first encounter a problem, the parties are emotional and have a longstanding problem, often for years, and it takes a lot of patience to make that bridge. But each time you make that bridge, it is very effective.
 
 {:start="35"}
-35.              I want to give you one statistic to show how effective this has been. Out of 10 cases that end up at CMC, eight cases are resolved. That is a very important, very significant statistic. Eight out of 10 cases that go through the doors of the CMC end up with a mediated settlement agreement. What we now need to do is to find ways to make more people go to the CMC. I will talk about that in a moment about what we want to do. But I want to spend one minute to thank all the volunteers, and to say that the effort that you have put in over the many years have not gone to waste. So thank you very much.
+35. I want to give you one statistic to show how effective this has been. Out of 10 cases that end up at CMC, eight cases are resolved. That is a very important, very significant statistic. Eight out of 10 cases that go through the doors of the CMC end up with a mediated settlement agreement. What we now need to do is to find ways to make more people go to the CMC. I will talk about that in a moment about what we want to do. But I want to spend one minute to thank all the volunteers, and to say that the effort that you have put in over the many years have not gone to waste. So thank you very much.
 
 {:start="36"}
-36.              Let me share one lived example of a mediation case, just to give you a factual scenario. We have two neighbours: Mr A and Mr B.
+36. Let me share one lived example of a mediation case, just to give you a factual scenario. We have two neighbours: Mr A and Mr B.
 
-(a)               Mr A was very upset with the antics of his next-door neighbour, Mr B, who was making a lot of noise, especially in the middle of the night.
+	(a) Mr A was very upset with the antics of his next-door neighbour, Mr B, who was making a lot of noise, especially in the middle of the night.
 
-(b)               Mr A complained of yelling and screaming, and items being dragged or thrown around. All of us who live close to one another, would probably have some experience of that sort, at one point or the other. Lucky enough, after being very exasperated, they decided they would try mediation.
+	(b) Mr A complained of yelling and screaming, and items being dragged or thrown around. All of us who live close to one another, would probably have some experience of that sort, at one point or the other. Lucky enough, after being very exasperated, they decided they would try mediation.
 
-(c)               When they went into mediation, they were very sceptical. Because for so long, they did not know each other, and they did not talk to each other. Mr A was of the view that Mr B was completely unreasonable and not someone he wanted to speak to, let alone resolve this.
+	(c) When they went into mediation, they were very sceptical. Because for so long, they did not know each other, and they did not talk to each other. Mr A was of the view that Mr B was completely unreasonable and not someone he wanted to speak to, let alone resolve this.
 
-(d)               But they had a very understanding CMC mediator. After a while, his impression of Mr B as a person changed entirely. Mr B was actually quite affable and soft-spoken.
+	(d) But they had a very understanding CMC mediator. After a while, his impression of Mr B as a person changed entirely. Mr B was actually quite affable and soft-spoken.
 
-(e)               Mr B explained that he had a job as a security guard, leaving very early and sometimes coming back very late at night. He was the sole breadwinner in his family, comprising his wife, young children and his elderly mother.
+	(e) Mr B explained that he had a job as a security guard, leaving very early and sometimes coming back very late at night. He was the sole breadwinner in his family, comprising his wife, young children and his elderly mother.
 
-(f)                His shift work meant that his wife carried the burden of taking care of the family, the children and his elderly mother. As a result, the relationship got strained, and the couple often quarrelled.
+	(f) His shift work meant that his wife carried the burden of taking care of the family, the children and his elderly mother. As a result, the relationship got strained, and the couple often quarrelled.
 
-(g)               After hearing of Mr B’s background, his job and his predicament, Mr A became more empathetic to Mr B and understood.
+	(g) After hearing of Mr B’s background, his job and his predicament, Mr A became more empathetic to Mr B and understood.
 
-(h)               The mediator then spoke about the problem. When you approach a problem in that fashion, the problem seems to disappear into the background.
+	(h) The mediator then spoke about the problem. When you approach a problem in that fashion, the problem seems to disappear into the background.
 
-(i)                 Mr A now realised these problems Mr B faced, and the problem became far less of a problem. That was how the mediator approached the mediation – let the parties share their frustrations, issues, how to move away through mutual understanding, and ways to control lifestyle, noise and so on.
+	(i) Mr A now realised these problems Mr B faced, and the problem became far less of a problem. That was how the mediator approached the mediation – let the parties share their frustrations, issues, how to move away through mutual understanding, and ways to control lifestyle, noise and so on.
 
-(j)                 I must say this is one of the main successes of mediation, also demonstrated by the fact that Mr A, subsequently realising that Mr B had young children who needed someone to look after in the day when Mr B was not around, offered to look after the children as well.
+	(j) I must say this is one of the main successes of mediation, also demonstrated by the fact that Mr A, subsequently realising that Mr B had young children who needed someone to look after in the day when Mr B was not around, offered to look after the children as well.
 
 {:start="37"}
-37.              You do not just have an outcome that resolves the problem at hand. It is a success story in many ways because it engenders stronger-than-before relationships, before the problem arose.
+37. You do not just have an outcome that resolves the problem at hand. It is a success story in many ways because it engenders stronger-than-before relationships, before the problem arose.
 
 {:start="38"}
-38.              Taking this story I just shared, all of you as mediators play a very crucial role. It is oftentimes not about just solving the problem. It is about understanding the people with the problem. Good mediators have that way to find that bridge into that relation, the personality and the person – it is not about the problem. You will find the solutions are often really much easier.
+38. Taking this story I just shared, all of you as mediators play a very crucial role. It is oftentimes not about just solving the problem. It is about understanding the people with the problem. Good mediators have that way to find that bridge into that relation, the personality and the person – it is not about the problem. You will find the solutions are often really much easier.
 
 **VII.           <u>ENCOURAGING THE UPTAKE OF COMMUNITY MEDIATION</u>**
 
 {:start="39"}
-39.              Despite what I said about CMC’s very high settlement rate, the challenge that we see is how do we get people into CMC? How do we bring them before the mediators so that you can even practice a little bit of that special magic to find that bridge? Why do people not go to mediation? Well, lack of awareness, lack of understanding, maybe it is a deep-seated sense of reluctance because they think it is not going to be useful, or perhaps, just lack of opportunity.
+39. Despite what I said about CMC’s very high settlement rate, the challenge that we see is how do we get people into CMC? How do we bring them before the mediators so that you can even practice a little bit of that special magic to find that bridge? Why do people not go to mediation? Well, lack of awareness, lack of understanding, maybe it is a deep-seated sense of reluctance because they think it is not going to be useful, or perhaps, just lack of opportunity.
 
 {:start="40"}
-40.              If you want mediation, you have to go into the heart of the Central Business District (CBD). You and your neighbour, about two meters from you, take the MRT and the bus to a mediation centre – which is why one of the ideas that we have is what is done in Malawi, to put mediators in the community.
+40. If you want mediation, you have to go into the heart of the Central Business District (CBD). You and your neighbour, about two meters from you, take the MRT and the bus to a mediation centre – which is why one of the ideas that we have is what is done in Malawi, to put mediators in the community.
 
 {:start="41"}
-41.             And really, mediation does not have to be a formal process. It can be done by senior grassroots leaders, community leaders, leaders of organisations, someone respected as an elder, someone looked upon as a senior in the community, so I think the idea is to forward deploy them.
+41. And really, mediation does not have to be a formal process. It can be done by senior grassroots leaders, community leaders, leaders of organisations, someone respected as an elder, someone looked upon as a senior in the community, so I think the idea is to forward deploy them.
 
 {:start="42"}
-42.              Some of the ideas that I thought I will share with you, which is a subject of discussion that involves several ministries, MinLaw, MCCY, and MND.
+42. Some of the ideas that I thought I will share with you, which is a subject of discussion that involves several ministries, MinLaw, MCCY, and MND.
 
 {:start="43"}
-43.              We are looking at the Community Dispute Management Framework (CDMF). Let me give you a little bit of an idea as to what are the issues and solutions we are looking at. 
+43. We are looking at the Community Dispute Management Framework (CDMF). Let me give you a little bit of an idea as to what are the issues and solutions we are looking at. 
 
-(a)               <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation. 
+	(a) <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation. 
 
-(b)               <u>Second</u>, we are also looking at how CMC-mediated settlement agreements can be registered as an order of Court to give it some teeth. In other words, for parties to take CMC more seriously. if you walk out of CMC with a mediated settlement agreement, it can be enforceable – not that we would like to see it breached and have it enforced, but it gives it more standing. I think parties will begin to respect the CMC process a lot more.
+	(b) <u>Second</u>, we are also looking at how CMC-mediated settlement agreements can be registered as an order of Court to give it some teeth. In other words, for parties to take CMC more seriously. if you walk out of CMC with a mediated settlement agreement, it can be enforceable – not that we would like to see it breached and have it enforced, but it gives it more standing. I think parties will begin to respect the CMC process a lot more.
 
-(c)               <u>Third</u>, we are looking at ways to raise awareness for mediation – the value of mediation, and the benefits it can bring. This is where a conference like this, with people coming from different segments and different stakeholders of mediation, whether you are our grassroots leaders, volunteers, or community leaders, wearing double hats or professionals, all of you can help us to raise awareness in the community about the benefits of mediation.
+	(c) <u>Third</u>, we are looking at ways to raise awareness for mediation – the value of mediation, and the benefits it can bring. This is where a conference like this, with people coming from different segments and different stakeholders of mediation, whether you are our grassroots leaders, volunteers, or community leaders, wearing double hats or professionals, all of you can help us to raise awareness in the community about the benefits of mediation.
 
-(i)                CMC has been posting articles and stories on social media to encourage people to step forth and avail themselves to mediation, to take advantage of the process.
+	(i) CMC has been posting articles and stories on social media to encourage people to step forth and avail themselves to mediation, to take advantage of the process.
 
-(ii)               CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online.
+	(ii) CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online.
 
 {:start="44"}
-44.              These measures are part of a broader package of measures that our inter-agency group is looking at:
+44. These measures are part of a broader package of measures that our inter-agency group is looking at:
 
-(a)               First, upstream, when the dispute first arises, what happens – are there community norms, or practices we want to adopt. In fact, my colleague Sim Ann is currently in Seoul, Korea to study what they do there. They have very effective community programmes to tackling noise. She and officers from different ministries have gone to see first-hand and study what are the approaches we can adopt in Singapore.
+(a) First, upstream, when the dispute first arises, what happens – are there community norms, or practices we want to adopt. In fact, my colleague Sim Ann is currently in Seoul, Korea to study what they do there. They have very effective community programmes to tackling noise. She and officers from different ministries have gone to see first-hand and study what are the approaches we can adopt in Singapore.
 
-(b)               We also want to go midstream where we try to mediate the dispute to reach an amicable solution and improve on the success rate of CMC as well.
+(b) We also want to go midstream where we try to mediate the dispute to reach an amicable solution and improve on the success rate of CMC as well.
 
-(c)               Finally, if after all these efforts fail, and we really need to get into the CDRT and the adjudicatory process, we are looking at enhancing the efficiency of the CDRT, improving the processes and ensuring a far more effective and efficient outcome.
+(c) Finally, if after all these efforts fail, and we really need to get into the CDRT and the adjudicatory process, we are looking at enhancing the efficiency of the CDRT, improving the processes and ensuring a far more effective and efficient outcome.
 
 {:start="45"}
-45.              Let me end by saying that we deeply recognise the role of volunteers and community leaders in a successful mediation. I must say that mediation will be far more successful, facilitated by members who are also part of the community.
+45. Let me end by saying that we deeply recognise the role of volunteers and community leaders in a successful mediation. I must say that mediation will be far more successful, facilitated by members who are also part of the community.
 
 {:start="46"}
-46.              That is why in today's conference, I look around and I see members in this room representing different aspects of the community in Singapore. If you run into a dispute with somebody in the community, you want someone who knows the community, who knows the living environment, to be resolving it; you do not want someone from a completely different environment. If you have a dispute over religious practices, for example, you want someone who understands and who can empathise with you.
+46. That is why in today's conference, I look around and I see members in this room representing different aspects of the community in Singapore. If you run into a dispute with somebody in the community, you want someone who knows the community, who knows the living environment, to be resolving it; you do not want someone from a completely different environment. If you have a dispute over religious practices, for example, you want someone who understands and who can empathise with you.
 
 {:start="47"}
-47.              The success of CMC can really only be enhanced if we can have more people coming forth from different parts of the community with a real interest in resolving disputes, in general, lending your expertise, and more importantly, your empathy and your experience to the process. It is not only about skillsets and formalities, but it is about having a heart to want to reach out to parties.
+47. The success of CMC can really only be enhanced if we can have more people coming forth from different parts of the community with a real interest in resolving disputes, in general, lending your expertise, and more importantly, your empathy and your experience to the process. It is not only about skillsets and formalities, but it is about having a heart to want to reach out to parties.
 
 {:start="48"}
-48.              Finally, in this vein, I am heartened that iiM has organised this conference as a platform to:
+48. Finally, in this vein, I am heartened that iiM has organised this conference as a platform to:
 
-(a)               Bring the like-minded together, to talk about your experiences and enhancing that experience. It is often not about the hardware, but how you share ‘heartware’ experiences, and
+(a) Bring the like-minded together, to talk about your experiences and enhancing that experience. It is often not about the hardware, but how you share ‘heartware’ experiences, and
 
-(b)               Promote the use of mediation, including to strengthen the social fabric that all of us so deeply cherish.
+(b) Promote the use of mediation, including to strengthen the social fabric that all of us so deeply cherish.
 
 **VIII.           <u>CONCLUSION</u>**
 
 {:start="49"}
-49.              As grassroot leaders, Harmony Circle leaders, public servants, and members of the community, all of you play a crucial role in fostering social harmony and social resilience.
+49. As grassroot leaders, Harmony Circle leaders, public servants, and members of the community, all of you play a crucial role in fostering social harmony and social resilience.
 
 {:start="50"}
-50.               Thus, I hope more people like yourselves will step forward and that the efforts of iiM will continue to bring mediation awareness to the community, and ensure people understand what is in it for them. You do not often understand mediation until you have a problem. Unfortunately, you do not know when you need it; and when you need it, you do not know where to look. So the more we are able to talk about it, the more awareness we can raise about the success and the benefits of mediation, the better it will be.
+50. Thus, I hope more people like yourselves will step forward and that the efforts of iiM will continue to bring mediation awareness to the community, and ensure people understand what is in it for them. You do not often understand mediation until you have a problem. Unfortunately, you do not know when you need it; and when you need it, you do not know where to look. So the more we are able to talk about it, the more awareness we can raise about the success and the benefits of mediation, the better it will be.
 
 {:start="51"}
-51.              Finally, I want to say that it is such a welcome sight, to not just see all of you out here in person, but also for the majority of you, I can see the bottom half of your faces. It helps in a session like this, that you are able to talk to one another without that barrier and exchange ideas as mediators. I think this is a very useful forum. I thank iiM for setting this up, and encouraging all of you to be here on a Saturday morning, and I also thank you for listening to me. Thank you very much.             
+51. Finally, I want to say that it is such a welcome sight, to not just see all of you out here in person, but also for the majority of you, I can see the bottom half of your faces. It helps in a session like this, that you are able to talk to one another without that barrier and exchange ideas as mediators. I think this is a very useful forum. I thank iiM for setting this up, and encouraging all of you to be here on a Saturday morning, and I also thank you for listening to me. Thank you very much.             
   
 <p class="right-side-updated">Last updated on 08 October 2022</p>
