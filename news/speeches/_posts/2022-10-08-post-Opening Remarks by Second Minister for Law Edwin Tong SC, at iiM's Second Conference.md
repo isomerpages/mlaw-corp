@@ -22,33 +22,33 @@ Ladies and gentlemen
 **I.           <u>INTRODUCTION</u>**
 
 {:start="1"}
-1.                  A very good morning to everyone.
+1. A very good morning to everyone.
 
 {:start="2"}
-2.                  I just heard Dr Lim’s five-minute sharing of what iiM has done, and I think it has been very impressive. It has also been very timely. The period that was blacked out by COVID-19 was a period when we actually realised that we need mediation amongst the community members. Because of work-from-home, home-based learning, stay-at-home, safe management measures (SMMs) and so on, meant that we are in our homes a lot. As a result, there is a little bit more disamenities in the community. Oftentimes, it is unintended as you did not intend to annoy your neighbours. But through your daily lifestyles, you end up having conflicts, and mediation is the best way to resolve this.
+2. I just heard Dr Lim’s five-minute sharing of what iiM has done, and I think it has been very impressive. It has also been very timely. The period that was blacked out by COVID-19 was a period when we actually realised that we need mediation amongst the community members. Because of work-from-home, home-based learning, stay-at-home, safe management measures (SMMs) and so on, meant that we are in our homes a lot. As a result, there is a little bit more disamenities in the community. Oftentimes, it is unintended as you did not intend to annoy your neighbours. But through your daily lifestyles, you end up having conflicts, and mediation is the best way to resolve this.
 
 {:start="3"}
-3.          Let me start by congratulating Dr Lim and the iiM on your 5th anniversary. In a blink of an eye, five years have gone by and we have seen many efforts take place in the community over the last five years.
+3. Let me start by congratulating Dr Lim and the iiM on your 5th anniversary. In a blink of an eye, five years have gone by and we have seen many efforts take place in the community over the last five years.
 
 {:start="4"}
-4.                  Four years ago, I spoke at iiM’s inaugural conference on the Resolution of Neighbour Disputes. I recall that it was held in this very same room.
+4. Four years ago, I spoke at iiM’s inaugural conference on the Resolution of Neighbour Disputes. I recall that it was held in this very same room.
  
 **II.           <u>MANAGING DIFFERENCES</u>**
 
 {:start="5"}
-5.          The theme of this year’s conference is particularly important and necessary given our context – “Resolution of Multi-Racial, Religious and Neighbour Disputes”.
+5. The theme of this year’s conference is particularly important and necessary given our context – “Resolution of Multi-Racial, Religious and Neighbour Disputes”.
 
 {:start="6"}
-6.                  It is often taken for granted that because we are a multi-racial and multi-cultural society, and by and large, a fairly tolerant society, people live in harmony and we can leave it as it is and not be bothered with the relations. I think that is wrong.
+6. It is often taken for granted that because we are a multi-racial and multi-cultural society, and by and large, a fairly tolerant society, people live in harmony and we can leave it as it is and not be bothered with the relations. I think that is wrong.
 
 {:start="7"}
-7.                  We have been a strong multicultural, multi-religious, harmonious and cohesive society because we do not take it for granted and we work hard for it.
+7. We have been a strong multicultural, multi-religious, harmonious and cohesive society because we do not take it for granted and we work hard for it.
 
 {:start="8"}
-8.                  I heard Dr Lim said just now that we have to learn to deal with multicultural and multi-religious differences, learning from the leaders here because there is conflict. Actually, I will take it one step further. I will say regardless of whether there is conflict or not, we do need to understand each other’s faith, background and cultural beliefs a lot more. As we understand better, we will develop a greater sense of shared identity. I think this is regardless of whether there is conflict or not.
+8. I heard Dr Lim said just now that we have to learn to deal with multicultural and multi-religious differences, learning from the leaders here because there is conflict. Actually, I will take it one step further. I will say regardless of whether there is conflict or not, we do need to understand each other’s faith, background and cultural beliefs a lot more. As we understand better, we will develop a greater sense of shared identity. I think this is regardless of whether there is conflict or not.
 
 {:start="9"}
-9.                  We must also understand the concerns of those who may not share the same lived experiences as us. You know what they say – you can choose your friends but you cannot choose your neighbours, and neighbours move in and out. The only solution is to move away, and this is often a painful solution.
+9. We must also understand the concerns of those who may not share the same lived experiences as us. You know what they say – you can choose your friends but you cannot choose your neighbours, and neighbours move in and out. The only solution is to move away, and this is often a painful solution.
 
 {:start="10"}
 10.              We live in a densely populated city, where neighbours live in close proximity. We can certainly do with a lot more harmony between our neighbours.
