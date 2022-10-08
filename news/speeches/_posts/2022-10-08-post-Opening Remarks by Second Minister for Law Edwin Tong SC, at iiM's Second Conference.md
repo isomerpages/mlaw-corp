@@ -57,61 +57,61 @@ Ladies and gentlemen
 11. Sometimes, because of different tolerance levels, our own sense of what is noisy becomes very markedly different. When those tolerance levels are mismatched, we end up with conflicts. There is also the misuse and sometimes the obstruction of common spaces e.g. the shared corridor – where you put your shoes, whether you block the corridor and so on. Again, people’s tidiness, neatness and tolerance levels are also different.
 
 {:start="12"}
-12.              Situations like these require parties to show understanding and compassion.
+12. Situations like these require parties to show understanding and compassion.
 
 {:start="13"}
-13.              Of course, that is very basic. If you know your neighbour and you are friends with your neighbour, not necessarily best pals, but if you just know your neighbour, immediately the tolerance levels will go up.
+13. Of course, that is very basic. If you know your neighbour and you are friends with your neighbour, not necessarily best pals, but if you just know your neighbour, immediately the tolerance levels will go up.
 
 {:start="14"}
-14.              I used to have experiences of people complaining to me all the time about parking. I look after the ward in Joo Chiat where there are many landed properties, and at Telok Kurau, there are very narrow lanes and you can barely squeeze by with one car parked by the side. When you end up with situations where a car blocks your gates and prevents you from opening the gates, or when a car blocks your dustbins, you end up with conflicts. But if you know your neighbours – and that is why I have encouraged street parties along some of these streets – instead of calling the police, you call your neighbour. After a while, you realise that what he does to you, you sometimes do back to your neighbours inadvertently.
+14. I used to have experiences of people complaining to me all the time about parking. I look after the ward in Joo Chiat where there are many landed properties, and at Telok Kurau, there are very narrow lanes and you can barely squeeze by with one car parked by the side. When you end up with situations where a car blocks your gates and prevents you from opening the gates, or when a car blocks your dustbins, you end up with conflicts. But if you know your neighbours – and that is why I have encouraged street parties along some of these streets – instead of calling the police, you call your neighbour. After a while, you realise that what he does to you, you sometimes do back to your neighbours inadvertently.
 
 {:start="15"}
-15.              So the basic foundation of resolving conflict is really the level of empathy and understanding, and it starts from knowing your neighbours.
+15. So the basic foundation of resolving conflict is really the level of empathy and understanding, and it starts from knowing your neighbours.
 
 **III.           <u>WHY MEDIATION?</u>**
 
 {:start="16"}
-16.              But in situations where parties cannot agree – you either do not know your neighbour or after knowing for some time, you realise he is not so nice after all – that is when mediation becomes a very important and powerful tool.
+16. But in situations where parties cannot agree – you either do not know your neighbour or after knowing for some time, you realise he is not so nice after all – that is when mediation becomes a very important and powerful tool.
 
 {:start="17"}
-17.              Mediation is not a new concept, existing for decades, even centuries. We used to resolve our differences in our villages and our own little community by going to the most senior person, i.e. the village headman or head honcho, to get help. Someone, asa respected authority figure, who is able to reach out across the divide between both sides and find a common basis.
+17. Mediation is not a new concept, existing for decades, even centuries. We used to resolve our differences in our villages and our own little community by going to the most senior person, i.e. the village headman or head honcho, to get help. Someone, asa respected authority figure, who is able to reach out across the divide between both sides and find a common basis.
 
 {:start="18"}
-18.              Throughout history, community leaders and village elders resolved disputes through informal mediation between community members.
+18. Throughout history, community leaders and village elders resolved disputes through informal mediation between community members.
 
 {:start="19"}
-19.              But why mediation? Singapore in particular has been at the forefront of promoting mediation, not just domestically in Singapore, but also internationally to ensure Singapore has a branding. Dr Lim mentioned earlier the Singapore Convention on Mediation. We were very proud that the United Nations adopted the Convention and we signed the Convention here in Singapore in 2019 with many world leaders. Today, the Convention is enforced internationally. We have several countries that have signed up at a much faster rate than the New York Convention, about six decades previously. So we will make progress.
+19. But why mediation? Singapore in particular has been at the forefront of promoting mediation, not just domestically in Singapore, but also internationally to ensure Singapore has a branding. Dr Lim mentioned earlier the Singapore Convention on Mediation. We were very proud that the United Nations adopted the Convention and we signed the Convention here in Singapore in 2019 with many world leaders. Today, the Convention is enforced internationally. We have several countries that have signed up at a much faster rate than the New York Convention, about six decades previously. So we will make progress.
 
 {:start="20"}
-20.              Let me recap why mediation is in many ways a superior form of dispute resolution.
+20. Let me recap why mediation is in many ways a superior form of dispute resolution.
 
 {:start="21"}
-21.              <u>First</u>, mediation allows both parties to have more control over the process and outcome that you cannot have in litigation and arbitration.
+21. <u>First</u>, mediation allows both parties to have more control over the process and outcome that you cannot have in litigation and arbitration.
 
-(a)               Mediation is not bound by the rules of any Court and by rules of law. It is devised by common threads, by finding practical solutions. How do we resolve disputes between two parties without resorting to the law? Well, very simple, we look at the problem and the needs. You can solve the problem here and now by finding a solution or you can turn to a solution that requires future cooperation. None of this is possible when it comes to resolving disputes by litigation in the Court.
+	(a) Mediation is not bound by the rules of any Court and by rules of law. It is devised by common threads, by finding practical solutions. How do we resolve disputes between two parties without resorting to the law? Well, very simple, we look at the problem and the needs. You can solve the problem here and now by finding a solution or you can turn to a solution that requires future cooperation. None of this is possible when it comes to resolving disputes by litigation in the Court.
 
 {:start="22"}
-22.              <u>Second</u>, mediation is quick and cost-effective.
+22. <u>Second</u>, mediation is quick and cost-effective.
 
-(a)               I spent many decades in litigation. Some cases need to be resolved in the courts as they are complex, involve multiple parties and complicated issues of law, or when the parties are really unable to find common ground, resulting in litigation. Often, it is lengthy process, also expensive, time-consuming, draining – both financially as well as emotionally.
+	(a) I spent many decades in litigation. Some cases need to be resolved in the courts as they are complex, involve multiple parties and complicated issues of law, or when the parties are really unable to find common ground, resulting in litigation. Often, it is lengthy process, also expensive, time-consuming, draining – both financially as well as emotionally.
 
-(b)               In contrast, much less time and costs are required in mediation. If you have to embark on litigation or arbitration, try mediation. That is always the first port of call. What does it cost you? Not much.
+	(b) In contrast, much less time and costs are required in mediation. If you have to embark on litigation or arbitration, try mediation. That is always the first port of call. What does it cost you? Not much.
 
-(c)               Mediation also enhances access to justice, especially for those who cannot afford to go or be in Court either financially or because of time. Pick mediation – get parties together and in the hands of an experienced mediator, a lot can be done.
+	(c) Mediation also enhances access to justice, especially for those who cannot afford to go or be in Court either financially or because of time. Pick mediation – get parties together and in the hands of an experienced mediator, a lot can be done.
 
 {:start="23"}
-23.              <u>Third</u>, and perhaps most importantly, mediation is advantageous as it allows parties to preserve relationships. It is not a binary, one-size-fits-all solution.
+23. <u>Third</u>, and perhaps most importantly, mediation is advantageous as it allows parties to preserve relationships. It is not a binary, one-size-fits-all solution.
 
-(a)               In litigation and arbitration where you are adjudicating the rights between two parties, you have to find a solution by saying that one side is right and therefore the other side is wrong.
+	(a) In litigation and arbitration where you are adjudicating the rights between two parties, you have to find a solution by saying that one side is right and therefore the other side is wrong.
 
-(b)               In mediation, you would not have to do that. You can completely avoid the problem altogether. You can avoid the problem that gave rise to conflict and avoid focusing on the differences. Instead, we can put the entire emphasis on the mediated agreement on the positive outcomes. What will you do now together? How can you cooperate? How can you take some and I take less on the issue? And perhaps in future I can make up in other ways.
+	(b) In mediation, you would not have to do that. You can completely avoid the problem altogether. You can avoid the problem that gave rise to conflict and avoid focusing on the differences. Instead, we can put the entire emphasis on the mediated agreement on the positive outcomes. What will you do now together? How can you cooperate? How can you take some and I take less on the issue? And perhaps in future I can make up in other ways.
 
-(c)               These are all solutions that help to preserve existing relationships. Of course, in disputes between neighbours, that is what you want. If you go to Court with your neighbour, and you found a solution that gives you all your rights, and your neighbour lose everything, ask yourself. You may be satisfied on the day of when the judgement is out, but will this be a sustainable long-term solution? What happens when you walk past your neighbour every day? What happens the next time you do something marginally wrong, will your neighbour bring you to Court as well? Do you want that to be the enduring definition of your relationship between you and your neighbour? So for many reasons, mediation is particularly useful for community disputes.
+	(c) These are all solutions that help to preserve existing relationships. Of course, in disputes between neighbours, that is what you want. If you go to Court with your neighbour, and you found a solution that gives you all your rights, and your neighbour lose everything, ask yourself. You may be satisfied on the day of when the judgement is out, but will this be a sustainable long-term solution? What happens when you walk past your neighbour every day? What happens the next time you do something marginally wrong, will your neighbour bring you to Court as well? Do you want that to be the enduring definition of your relationship between you and your neighbour? So for many reasons, mediation is particularly useful for community disputes.
 
 **IV.          <u>MEDIATION BEYOND THE SHORES OF SINGAPORE</u>**
 
 {:start="24"}
-24.              Indeed, beyond the shores of Singapore, mediation has also been promoted as an effective dispute resolution tool.
+24. Indeed, beyond the shores of Singapore, mediation has also been promoted as an effective dispute resolution tool.
 
 {:start="25"}
 25.              For example, in Malawi, the United Nations Development Programme and the European Union supported a joint project that trained and deployed village mediators. Not being able to travel around the remote parts of Malawi, you would have to deploy mediators in the community, which itself gives me an idea as to what we can use in Singapore, even though we are well-connected.
