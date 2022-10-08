@@ -200,7 +200,7 @@ Ladies and gentlemen
 {:start="43"}
 43.              We are looking at the Community Dispute Management Framework (CDMF). Let me give you a little bit of an idea as to what are the issues and solutions we are looking at. 
 
-(a)               <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation.  
+(a)               <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation. 
 
 (b)               <u>Second</u>, we are also looking at how CMC-mediated settlement agreements can be registered as an order of Court to give it some teeth. In other words, for parties to take CMC more seriously. if you walk out of CMC with a mediated settlement agreement, it can be enforceable – not that we would like to see it breached and have it enforced, but it gives it more standing. I think parties will begin to respect the CMC process a lot more.
 
