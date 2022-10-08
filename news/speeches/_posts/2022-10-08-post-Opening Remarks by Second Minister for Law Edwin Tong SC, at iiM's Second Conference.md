@@ -1,5 +1,8 @@
 ---
-title: Opening Remarks by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC, at International Institute of Mediators (Singapore)'s Second Conference on the Resolution of Multi-Racial, Religious and Neighbour Disputes
+title: Opening Remarks by Minister for Culture, Community and Youth and Second
+  Minister for Law Edwin Tong SC, at International Institute of Mediators
+  (Singapore)'s Second Conference on the Resolution of Multi-Racial, Religious
+  and Neighbour Disputes
 permalink: /news/speeches/opening-remarks-2M-Edwin-Tong-iiM-second-conference/
 date: 2022-10-08
 layout: post
