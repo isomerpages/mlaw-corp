@@ -88,25 +88,25 @@ Ladies and gentlemen
 {:start="21"}
 21. <u>First</u>, mediation allows both parties to have more control over the process and outcome that you cannot have in litigation and arbitration.
 
-	(a) Mediation is not bound by the rules of any Court and by rules of law. It is devised by common threads, by finding practical solutions. How do we resolve disputes between two parties without resorting to the law? Well, very simple, we look at the problem and the needs. You can solve the problem here and now by finding a solution or you can turn to a solution that requires future cooperation. None of this is possible when it comes to resolving disputes by litigation in the Court.
+(a) Mediation is not bound by the rules of any Court and by rules of law. It is devised by common threads, by finding practical solutions. How do we resolve disputes between two parties without resorting to the law? Well, very simple, we look at the problem and the needs. You can solve the problem here and now by finding a solution or you can turn to a solution that requires future cooperation. None of this is possible when it comes to resolving disputes by litigation in the Court.
 
 {:start="22"}
 22. <u>Second</u>, mediation is quick and cost-effective.
 
-	(a) I spent many decades in litigation. Some cases need to be resolved in the courts as they are complex, involve multiple parties and complicated issues of law, or when the parties are really unable to find common ground, resulting in litigation. Often, it is lengthy process, also expensive, time-consuming, draining – both financially as well as emotionally.
+(a) I spent many decades in litigation. Some cases need to be resolved in the courts as they are complex, involve multiple parties and complicated issues of law, or when the parties are really unable to find common ground, resulting in litigation. Often, it is lengthy process, also expensive, time-consuming, draining – both financially as well as emotionally.
 
-	(b) In contrast, much less time and costs are required in mediation. If you have to embark on litigation or arbitration, try mediation. That is always the first port of call. What does it cost you? Not much.
+(b) In contrast, much less time and costs are required in mediation. If you have to embark on litigation or arbitration, try mediation. That is always the first port of call. What does it cost you? Not much.
 
-	(c) Mediation also enhances access to justice, especially for those who cannot afford to go or be in Court either financially or because of time. Pick mediation – get parties together and in the hands of an experienced mediator, a lot can be done.
+(c) Mediation also enhances access to justice, especially for those who cannot afford to go or be in Court either financially or because of time. Pick mediation – get parties together and in the hands of an experienced mediator, a lot can be done.
 
 {:start="23"}
 23. <u>Third</u>, and perhaps most importantly, mediation is advantageous as it allows parties to preserve relationships. It is not a binary, one-size-fits-all solution.
 
-	(a) In litigation and arbitration where you are adjudicating the rights between two parties, you have to find a solution by saying that one side is right and therefore the other side is wrong.
+(a) In litigation and arbitration where you are adjudicating the rights between two parties, you have to find a solution by saying that one side is right and therefore the other side is wrong.
 
-	(b) In mediation, you would not have to do that. You can completely avoid the problem altogether. You can avoid the problem that gave rise to conflict and avoid focusing on the differences. Instead, we can put the entire emphasis on the mediated agreement on the positive outcomes. What will you do now together? How can you cooperate? How can you take some and I take less on the issue? And perhaps in future I can make up in other ways.
+(b) In mediation, you would not have to do that. You can completely avoid the problem altogether. You can avoid the problem that gave rise to conflict and avoid focusing on the differences. Instead, we can put the entire emphasis on the mediated agreement on the positive outcomes. What will you do now together? How can you cooperate? How can you take some and I take less on the issue? And perhaps in future I can make up in other ways.
 
-	(c) These are all solutions that help to preserve existing relationships. Of course, in disputes between neighbours, that is what you want. If you go to Court with your neighbour, and you found a solution that gives you all your rights, and your neighbour lose everything, ask yourself. You may be satisfied on the day of when the judgement is out, but will this be a sustainable long-term solution? What happens when you walk past your neighbour every day? What happens the next time you do something marginally wrong, will your neighbour bring you to Court as well? Do you want that to be the enduring definition of your relationship between you and your neighbour? So for many reasons, mediation is particularly useful for community disputes.
+(c) These are all solutions that help to preserve existing relationships. Of course, in disputes between neighbours, that is what you want. If you go to Court with your neighbour, and you found a solution that gives you all your rights, and your neighbour lose everything, ask yourself. You may be satisfied on the day of when the judgement is out, but will this be a sustainable long-term solution? What happens when you walk past your neighbour every day? What happens the next time you do something marginally wrong, will your neighbour bring you to Court as well? Do you want that to be the enduring definition of your relationship between you and your neighbour? So for many reasons, mediation is particularly useful for community disputes.
 
 **IV.          <u>MEDIATION BEYOND THE SHORES OF SINGAPORE</u>**
 
@@ -136,9 +136,9 @@ Ladies and gentlemen
 {:start="31"}
 31. The Committee made recommendations to implement mediation, which led to:
 
-	(a) <u>First</u>, the establishment of the Singapore Mediation Centre (SMC) in 1997 as a commercial mediation centre, and
+(a) <u>First</u>, the establishment of the Singapore Mediation Centre (SMC) in 1997 as a commercial mediation centre, and
 
-	(b) <u>Second</u>, the establishment of the Community Mediation Centre (CMC) in 1998 to promote mediation to resolve social and community disputes.
+(b) <u>Second</u>, the establishment of the Community Mediation Centre (CMC) in 1998 to promote mediation to resolve social and community disputes.
 
 {:start="32"}
 32. I understand that many of you here are either past or present CMC volunteers and I want to just take a minute out of my speech to thank you for all the work.
@@ -157,25 +157,25 @@ Ladies and gentlemen
 {:start="36"}
 36. Let me share one lived example of a mediation case, just to give you a factual scenario. We have two neighbours: Mr A and Mr B.
 
-	(a) Mr A was very upset with the antics of his next-door neighbour, Mr B, who was making a lot of noise, especially in the middle of the night.
+(a) Mr A was very upset with the antics of his next-door neighbour, Mr B, who was making a lot of noise, especially in the middle of the night.
 
-	(b) Mr A complained of yelling and screaming, and items being dragged or thrown around. All of us who live close to one another, would probably have some experience of that sort, at one point or the other. Lucky enough, after being very exasperated, they decided they would try mediation.
+(b) Mr A complained of yelling and screaming, and items being dragged or thrown around. All of us who live close to one another, would probably have some experience of that sort, at one point or the other. Lucky enough, after being very exasperated, they decided they would try mediation.
 
-	(c) When they went into mediation, they were very sceptical. Because for so long, they did not know each other, and they did not talk to each other. Mr A was of the view that Mr B was completely unreasonable and not someone he wanted to speak to, let alone resolve this.
+(c) When they went into mediation, they were very sceptical. Because for so long, they did not know each other, and they did not talk to each other. Mr A was of the view that Mr B was completely unreasonable and not someone he wanted to speak to, let alone resolve this.
 
-	(d) But they had a very understanding CMC mediator. After a while, his impression of Mr B as a person changed entirely. Mr B was actually quite affable and soft-spoken.
+(d) But they had a very understanding CMC mediator. After a while, his impression of Mr B as a person changed entirely. Mr B was actually quite affable and soft-spoken.
 
-	(e) Mr B explained that he had a job as a security guard, leaving very early and sometimes coming back very late at night. He was the sole breadwinner in his family, comprising his wife, young children and his elderly mother.
+(e) Mr B explained that he had a job as a security guard, leaving very early and sometimes coming back very late at night. He was the sole breadwinner in his family, comprising his wife, young children and his elderly mother.
 
-	(f) His shift work meant that his wife carried the burden of taking care of the family, the children and his elderly mother. As a result, the relationship got strained, and the couple often quarrelled.
+(f) His shift work meant that his wife carried the burden of taking care of the family, the children and his elderly mother. As a result, the relationship got strained, and the couple often quarrelled.
 
-	(g) After hearing of Mr B’s background, his job and his predicament, Mr A became more empathetic to Mr B and understood.
+(g) After hearing of Mr B’s background, his job and his predicament, Mr A became more empathetic to Mr B and understood.
 
-	(h) The mediator then spoke about the problem. When you approach a problem in that fashion, the problem seems to disappear into the background.
+(h) The mediator then spoke about the problem. When you approach a problem in that fashion, the problem seems to disappear into the background.
 
-	(i) Mr A now realised these problems Mr B faced, and the problem became far less of a problem. That was how the mediator approached the mediation – let the parties share their frustrations, issues, how to move away through mutual understanding, and ways to control lifestyle, noise and so on.
+(i) Mr A now realised these problems Mr B faced, and the problem became far less of a problem. That was how the mediator approached the mediation – let the parties share their frustrations, issues, how to move away through mutual understanding, and ways to control lifestyle, noise and so on.
 
-	(j) I must say this is one of the main successes of mediation, also demonstrated by the fact that Mr A, subsequently realising that Mr B had young children who needed someone to look after in the day when Mr B was not around, offered to look after the children as well.
+(j) I must say this is one of the main successes of mediation, also demonstrated by the fact that Mr A, subsequently realising that Mr B had young children who needed someone to look after in the day when Mr B was not around, offered to look after the children as well.
 
 {:start="37"}
 37. You do not just have an outcome that resolves the problem at hand. It is a success story in many ways because it engenders stronger-than-before relationships, before the problem arose.
@@ -200,15 +200,15 @@ Ladies and gentlemen
 {:start="43"}
 43. We are looking at the Community Dispute Management Framework (CDMF). Let me give you a little bit of an idea as to what are the issues and solutions we are looking at. 
 
-	(a) <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation. 
+(a) <u>First</u>, as I mentioned earlier, we are looking at how we can mandate mediation in certain cases. In other words, before you take the step of filing a claim in Court, or at the Community Dispute Resolution Tribunals (CDRT), how do you require parties to turn up at CMC and have dispute resolved by mandatory mediation. 
 
-	(b) <u>Second</u>, we are also looking at how CMC-mediated settlement agreements can be registered as an order of Court to give it some teeth. In other words, for parties to take CMC more seriously. if you walk out of CMC with a mediated settlement agreement, it can be enforceable – not that we would like to see it breached and have it enforced, but it gives it more standing. I think parties will begin to respect the CMC process a lot more.
+(b) <u>Second</u>, we are also looking at how CMC-mediated settlement agreements can be registered as an order of Court to give it some teeth. In other words, for parties to take CMC more seriously. if you walk out of CMC with a mediated settlement agreement, it can be enforceable – not that we would like to see it breached and have it enforced, but it gives it more standing. I think parties will begin to respect the CMC process a lot more.
 
-	(c) <u>Third</u>, we are looking at ways to raise awareness for mediation – the value of mediation, and the benefits it can bring. This is where a conference like this, with people coming from different segments and different stakeholders of mediation, whether you are our grassroots leaders, volunteers, or community leaders, wearing double hats or professionals, all of you can help us to raise awareness in the community about the benefits of mediation.
+(c) <u>Third</u>, we are looking at ways to raise awareness for mediation – the value of mediation, and the benefits it can bring. This is where a conference like this, with people coming from different segments and different stakeholders of mediation, whether you are our grassroots leaders, volunteers, or community leaders, wearing double hats or professionals, all of you can help us to raise awareness in the community about the benefits of mediation.
 
-	(i) CMC has been posting articles and stories on social media to encourage people to step forth and avail themselves to mediation, to take advantage of the process.
+(i) CMC has been posting articles and stories on social media to encourage people to step forth and avail themselves to mediation, to take advantage of the process.
 
-	(ii) CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online.
+(ii) CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online.
 
 {:start="44"}
 44. These measures are part of a broader package of measures that our inter-agency group is looking at:
