@@ -225,7 +225,7 @@ Ladies and gentlemen
 
 (i)                CMC has been posting articles and stories on social media to encourage people to step forth and avail themselves to mediation, to take advantage of the process.
 
-(ii)               CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online**.**
+(ii)               CMC is also exploring other ways in which we can offer different modes of mediation, including holding mediation sessions online. It is useful if you cannot be present in person, although I must say that having seen mediations for so many years, it is often the face-to-face personal touch that makes the difference. So while online mediation is available, I would say, at the end of the day, a skilled mediator can do a lot more when they are in-person, direct face-to-face, sometimes putting their hand on the shoulder and taking it upon them, explaining things in a personal way, you cannot quite do that online.
 
 {:start="44"}
 44.      This development, in my view, is timely, especially in today’s economic environment.
