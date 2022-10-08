@@ -51,10 +51,10 @@ Ladies and gentlemen
 9. We must also understand the concerns of those who may not share the same lived experiences as us. You know what they say – you can choose your friends but you cannot choose your neighbours, and neighbours move in and out. The only solution is to move away, and this is often a painful solution.
 
 {:start="10"}
-10.              We live in a densely populated city, where neighbours live in close proximity. We can certainly do with a lot more harmony between our neighbours.
+10. We live in a densely populated city, where neighbours live in close proximity. We can certainly do with a lot more harmony between our neighbours.
 
 {:start="11"}
-11.              Sometimes, because of different tolerance levels, our own sense of what is noisy becomes very markedly different. When those tolerance levels are mismatched, we end up with conflicts. There is also the misuse and sometimes the obstruction of common spaces e.g. the shared corridor – where you put your shoes, whether you block the corridor and so on. Again, people’s tidiness, neatness and tolerance levels are also different.
+11. Sometimes, because of different tolerance levels, our own sense of what is noisy becomes very markedly different. When those tolerance levels are mismatched, we end up with conflicts. There is also the misuse and sometimes the obstruction of common spaces e.g. the shared corridor – where you put your shoes, whether you block the corridor and so on. Again, people’s tidiness, neatness and tolerance levels are also different.
 
 {:start="12"}
 12.              Situations like these require parties to show understanding and compassion.
