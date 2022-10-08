@@ -33,7 +33,7 @@ Ladies and gentlemen
 {:start="4"}
 4.                  Four years ago, I spoke at iiM’s inaugural conference on the Resolution of Neighbour Disputes. I recall that it was held in this very same room.
  
-**II.           <u>>MANAGING DIFFERENCES</u>**
+**II.           <u>MANAGING DIFFERENCES</u>**
 
 {:start="5"}
 5.          The theme of this year’s conference is particularly important and necessary given our context – “Resolution of Multi-Racial, Religious and Neighbour Disputes”.
