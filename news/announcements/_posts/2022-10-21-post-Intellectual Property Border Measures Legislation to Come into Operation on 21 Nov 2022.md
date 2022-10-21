@@ -28,10 +28,10 @@ image: ""
 | Registered Designs | [Registered Designs (Border Enforcement Measures) Rules 2022](/files/IPBE_RD(BEM)_2022.pdf) | New subsidiary legislation concerning registered designs border enforcement. |
 |  | [Registered Designs (Border Enforcement Measures Fees) Rules 2022](/files/IPBE_RD(BEM-FEES)_2022.pdf) | New subsidiary legislation concerning the fees for registered designs border enforcement. |
 
-Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
+5. Please note that all current Singapore legislation is available for reference on Singapore Statutes Online at https://sso.agc.gov.sg.
 
 
-5. For queries, please contact Kathryn Tham (Kathryn_tham@mlaw.gov.sg).
+6. For queries, please contact Kathryn Tham (Kathryn_tham@mlaw.gov.sg).
 
 
 <p class="right-side-updated">Last updated on 21 Oct 2022</p>
