@@ -1,8 +1,5 @@
 ---
-title: Opening Remarks by Minister for Culture, Community and Youth and Second
-  Minister for Law Edwin Tong SC, at International Institute of Mediators
-  (Singapore)'s Second Conference on the Resolution of Multi-Racial, Religious
-  and Neighbour Disputes
+title: Opening Remarks by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC, at International Institute of Mediators (Singapore)'s Second Conference on the Resolution of Multi-Racial, Religious and Neighbour Disputes
 permalink: /news/speeches/opening-remarks-2M-Edwin-Tong-iiM-second-conference/
 date: 2022-10-08
 layout: post
@@ -22,7 +19,7 @@ Ladies and gentlemen
 **I.           <u>INTRODUCTION</u>**
 
 {:start="1"}
-1. A very good morning to everyone.
+1. A very good morning to everyone.
 
 {:start="2"}
 2. I just heard Dr Lim’s five-minute sharing of what iiM has done, and I think it has been very impressive. It has also been very timely. The period that was blacked out by COVID-19 was a period when we actually realised that we need mediation amongst the community members. Because of work-from-home, home-based learning, stay-at-home, safe management measures (SMMs) and so on, meant that we are in our homes a lot. As a result, there is a little bit more disamenities in the community. Oftentimes, it is unintended as you did not intend to annoy your neighbours. But through your daily lifestyles, you end up having conflicts, and mediation is the best way to resolve this.
@@ -39,10 +36,10 @@ Ladies and gentlemen
 5. The theme of this year’s conference is particularly important and necessary given our context – “Resolution of Multi-Racial, Religious and Neighbour Disputes”.
 
 {:start="6"}
-6. It is often taken for granted that because we are a multi-racial and multi-cultural society, and by and large, a fairly tolerant society, people live in harmony and we can leave it as it is and not be bothered with the relations. I think that is wrong.
+6. It is often taken for granted that because we are a multi-racial and multi-cultural society, and by and large, a fairly tolerant society, people live in harmony and we can leave it as it is and not be bothered with the relations. I think that is wrong.
 
 {:start="7"}
-7. We have been a strong multicultural, multi-religious, harmonious and cohesive society because we do not take it for granted and we work hard for it.
+7. We have been a strong multicultural, multi-religious, harmonious and cohesive society because we do not take it for granted and we work hard for it.
 
 {:start="8"}
 8. I heard Dr Lim said just now that we have to learn to deal with multicultural and multi-religious differences, learning from the leaders here because there is conflict. Actually, I will take it one step further. I will say regardless of whether there is conflict or not, we do need to understand each other’s faith, background and cultural beliefs a lot more. As we understand better, we will develop a greater sense of shared identity. I think this is regardless of whether there is conflict or not.
@@ -152,7 +149,7 @@ Ladies and gentlemen
 34. I know much of the work that you do is often difficult because when you first encounter a problem, the parties are emotional and have a longstanding problem, often for years, and it takes a lot of patience to make that bridge. But each time you make that bridge, it is very effective.
 
 {:start="35"}
-35. I want to give you one statistic to show how effective this has been. Out of 10 cases that end up at CMC, eight cases are resolved. That is a very important, very significant statistic. Eight out of 10 cases that go through the doors of the CMC end up with a mediated settlement agreement. What we now need to do is to find ways to make more people go to the CMC. I will talk about that in a moment about what we want to do. But I want to spend one minute to thank all the volunteers, and to say that the effort that you have put in over the many years have not gone to waste. So thank you very much.
+35. I want to give you one statistic to show how effective this has been. Out of 10 cases that end up at CMC, eight cases are resolved. That is a very important, very significant statistic. Eight out of 10 cases that go through the doors of the CMC end up with a mediated settlement agreement. What we now need to do is to find ways to make more people go to the CMC. I will talk about that in a moment about what we want to do. But I want to spend one minute to thank all the volunteers, and to say that the effort that you have put in over the many years have not gone to waste. So thank you very much.
 
 {:start="36"}
 36. Let me share one lived example of a mediation case, just to give you a factual scenario. We have two neighbours: Mr A and Mr B.
@@ -241,9 +238,9 @@ Ladies and gentlemen
 49. As grassroot leaders, Harmony Circle leaders, public servants, and members of the community, all of you play a crucial role in fostering social harmony and social resilience.
 
 {:start="50"}
-50. Thus, I hope more people like yourselves will step forward and that the efforts of iiM will continue to bring mediation awareness to the community, and ensure people understand what is in it for them. You do not often understand mediation until you have a problem. Unfortunately, you do not know when you need it; and when you need it, you do not know where to look. So the more we are able to talk about it, the more awareness we can raise about the success and the benefits of mediation, the better it will be.
+50. Thus, I hope more people like yourselves will step forward and that the efforts of iiM will continue to bring mediation awareness to the community, and ensure people understand what is in it for them. You do not often understand mediation until you have a problem. Unfortunately, you do not know when you need it; and when you need it, you do not know where to look. So the more we are able to talk about it, the more awareness we can raise about the success and the benefits of mediation, the better it will be.
 
 {:start="51"}
-51. Finally, I want to say that it is such a welcome sight, to not just see all of you out here in person, but also for the majority of you, I can see the bottom half of your faces. It helps in a session like this, that you are able to talk to one another without that barrier and exchange ideas as mediators. I think this is a very useful forum. I thank iiM for setting this up, and encouraging all of you to be here on a Saturday morning, and I also thank you for listening to me. Thank you very much.             
+51.  Finally, I want to say that it is such a welcome sight, to not just see all of you out here in person, but also for the majority of you, I can see the bottom half of your faces. It helps in a session like this, that you are able to talk to one another without that barrier and exchange ideas as mediators. I think this is a very useful forum. I thank iiM for setting this up, and encouraging all of you to be here on a Saturday morning, and I also thank you for listening to me. Thank you very much.             
   
 <p class="right-side-updated">Last updated on 08 October 2022</p>
