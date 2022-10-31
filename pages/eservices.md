@@ -17,9 +17,9 @@ The following e-Services will be undergoing maintenance and will be unavailable 
 *   MinLaw Online Enquiries
 
 The above e-Services portals will be undergoing maintenance daily from 7.00am to 7.30am. During these periods, you may experience intermittent disruptions while using our eServices. Members of public are advised to avoid using our eServices during the system maintenance periods where possible. Alternatively members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding. 
-<br>
+<br><br>
 Anti-Money Laundering / Countering The Financing Of Terrorism e-Services will not be available from 31 Oct 2022 6.30pm to 1 Nov 2022 12.30am
-<br>
+<br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)	
