@@ -9,7 +9,7 @@ breadcrumb: E-Services
 New Insolvency Office (IO) E-Services: We will be launching our new Debt Repayment Scheme E-Services on 21 June 2022. The new E-Services will have new features and members of the public will have access to guides to navigate the E-Services with ease. The new features include: 1) Online portal for Debtors and Creditors to access DRS E-Services, 2) Singpass login for easy access and secure user authentication, 3) A cleaner, guided and more user-friendly user interface, 4) Dashboard for consolidated views of submissions and statuses, 5) Step-by-step indicator to show your progress in filling up the form, and 6) Draft application form to save your entry and continue later. Things to Note: Because of the transition needed for the launch, the Debt Repayment Scheme E-Services will not be available from 16 June 2022 (Thursday), 6.00 pm to 21 June 2022 (Tuesday), 9.00 am. You need a valid Singpass or Corppass account to access the new E-Services. For foreigners, you are required to register for a Singpass. If you have saved any draft applications, you are required to complete and submit them by 16 June 2022 (Thursday), 6.00 pm. The saved drafts will not be brought over to the new E-Services. Stay tuned for our new E-Services on 21 June 2022.
 
    
-The following e-Services will be undergoing maintenance and will be unavailable on Monday, 31 Oct 2022 from 12.30pm to 1.30pm:
+The following e-Services will be undergoing maintenance and will be unavailable on Monday, 31 Oct 2022 from 6.30pm to Tuesday, 1 Nov 2022 12.30am:
 
 *   Legal Services Regulatory Authority
 *   Exemptions
