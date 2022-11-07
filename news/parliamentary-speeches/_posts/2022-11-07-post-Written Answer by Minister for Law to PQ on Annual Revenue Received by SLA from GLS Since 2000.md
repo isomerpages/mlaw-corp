@@ -1,6 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Annual Revenue Received by
-  SLA from Government Land Sales Since 2000
+title: Written Answer by Minister for Law K Shanmugam to PQ on Annual Revenue
+  Received by SLA from Government Land Sales Since 2000
 permalink: /news/parliamentary-speeches/2022-11-07-written-pq-annual-revenue-received-sla-gls-since-2000/
 date: 2022-11-07
 layout: post
@@ -31,6 +31,8 @@ To ask the Minister for Law for each year since 2000, how much of annual revenue
 
 {:start="5"}
 5.	Sale of State land to HDB for public housing development, does not fall under GLS. The information on proceeds to SLA paid by HDB for the purchase of State land can be found in HDB’s annual financial statements report, which is published on HDB’s website.
+ 
+ * * *
  
  <p><sup id="fn1">1. This includes GLS sites sold through HDB for the Design, Build and Sell Scheme (DBSS). Land sales for the DBSS has been suspended since 2011, and the last DBSS project (Pasir Ris One) was launched in April 2012.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
