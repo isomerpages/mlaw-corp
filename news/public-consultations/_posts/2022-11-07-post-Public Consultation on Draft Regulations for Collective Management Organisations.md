@@ -7,8 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 **Public Consultation on Draft Regulations for Collective Management Organisations**
 ---
 
@@ -51,7 +49,7 @@ The Treasury
 Singapore 179434	
 
 **Email**:   
-MLAW_Consultation@mlaw.gov.sg  
+[MLAW_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
 
 
 
