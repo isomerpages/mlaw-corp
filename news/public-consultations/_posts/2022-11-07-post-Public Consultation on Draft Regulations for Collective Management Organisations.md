@@ -42,16 +42,13 @@ Please provide your feedback by 4 December 2022.
 
 Feedback may be submitted via hard copy or email to: 
 
-
-
-
-Intellectual Property Policy Division, 
-Ministry of Law
-
-100 High Street, #08-02, The Treasury
+**Ministry of Law**  
+Intellectual Property Policy Division  
+100 High Street, #08-02,   
+The Treasury
 Singapore 179434	
 
-Email: 
+**Email**:   
 MLAW_Consultation@mlaw.gov.sg  
 
 
