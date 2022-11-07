@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-05 Oct 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
+07 Nov 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 **Mr Leong Mun Wai (Non-Constituency Member of Parliament)**
 
@@ -35,3 +35,5 @@ To ask the Minister for Law for each year since 2000, how much of annual revenue
  <p><sup id="fn1">1. This includes GLS sites sold through HDB for the Design, Build and Sell Scheme (DBSS). Land sales for the DBSS has been suspended since 2011, and the last DBSS project (Pasir Ris One) was launched in April 2012.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p><sup id="fn2">2. Including sites sold for the development of Executive Condominiums (ECs).<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
+<p class="right-side-updated">Last updated on 7 November 2022</p>
