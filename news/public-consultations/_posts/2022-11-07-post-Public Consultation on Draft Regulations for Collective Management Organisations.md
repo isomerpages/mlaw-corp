@@ -32,7 +32,7 @@ The draft Regulations implement the proposals made at the 2020 Consultation and 
 The public consultation paper and its annexes can be accessed below:
 
 - [Public Consultation on Draft Regulations for Collective Management Organisations](/files/Public%20Consultation%20on%20Draft%20Regulations%20for%20Collective%20Management%20Organisations.pdf) [PDF] 
-- [Annex A - Copyright (Collective Management Organisations) Regulations 2023](/files/Annex%20A_Copyright_(Collective_Management_Organisations)_Regulations_2022.pdf) (public consultation draft) [PDF]
+- [Annex A - Copyright (Collective Management Organisations) Regulations 2023](/files/Annex%20A_Copyright_(Collective_Management_Organisations)_Regulations_2023.pdf) (public consultation draft) [PDF]
 - [Annex B - 2020 Consultation paper](/files/Annex%20B_2020%20Consultation.pdf) [PDF]
 
 
@@ -44,8 +44,10 @@ Feedback may be submitted via hard copy or email to:
 
 
 
+
+Intellectual Property Policy Division, 
 Ministry of Law
-Intellectual Property Policy Division, Ministry of Law
+
 100 High Street, #08-02, The Treasury
 Singapore 179434	
 
