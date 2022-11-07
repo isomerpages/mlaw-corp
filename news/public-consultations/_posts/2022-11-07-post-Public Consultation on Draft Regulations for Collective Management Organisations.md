@@ -1,12 +1,14 @@
 ---
 title: Public Consultation on Draft Regulations for Collective Management
   Organisations
-permalink: /news/public-consultations/permalink/
+permalink: /news/public-consultations/public-consultation-on-draft-regulations-for-cmos/
 date: 2022-11-07
 layout: post
 description: ""
 image: ""
 ---
+
+
 **Public Consultation on Draft Regulations for Collective Management Organisations**
 ---
 
