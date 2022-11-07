@@ -54,11 +54,8 @@ i.	The CA may, on its own motion or upon the application of the Public Prosecuto
 {:start="3"}
 3.	Where appropriate, the procedure for applications to review concluded criminal appeals under Division 1B of Part 20 of the CPC will be aligned with the new procedure for PACC Applications.
  
-{:start="7"}
-7.	The Law Society of Singapore is preparing a Guidance Note on CFAs to guide law practices and practitioners through the new framework. This will be issued in due course. 
 
-
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**<br>
 **MINISTRY OF HOME AFFAIRS**
 <br>**7 NOVEMBER 2022**
 
