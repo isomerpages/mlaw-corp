@@ -1,6 +1,6 @@
 ---
 title: Written Answer by Minister for Law K Shanmugam to PQ on Measures to
-  Ensure Fair Outcomes at SCT
+  Ensure Fair Outcomes When Individual Respondents Face Claim From Corporate Entities At Small Claims Tribunal
 permalink: /news/parliamentary-speeches/measures-to-ensure-fair-outcomes-at-small-claims-tribunal/
 date: 2022-11-09
 layout: post
