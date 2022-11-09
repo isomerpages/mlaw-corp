@@ -1,6 +1,5 @@
 ---
-title: Oral Answer by SPS Rahayu Mahzam to PQ on Providing Caregivers of
-  Individuals Who Have not Made LPA
+title: Oral Answer by SPS Rahayu Mahzam to PQ on Whether the Public Trustee May Be Empowered to Provide Caregivers od Individuals Who Have not Made Lasting Powers of Attorney and Have Become Mentally Disabled, with Access to Government Grants Provided for the Benefit of the Mentally Disabled Individuals
 permalink: /news/parliamentary-speeches/provide-caregivers-of-individuals-without-LPA-access-to-govt-grants/
 date: 2022-11-09
 layout: post
