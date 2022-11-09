@@ -14,7 +14,7 @@ image: ""
 **<b><u>Question</u></b>** 
 <br>To ask the Minister for Law whether the Ministry will require overseas entities wanting to buy, sell or transfer properties in Singapore to register with the Accounting and Corporate Regulatory Authority (ACRA) and disclose the beneficial owners and principal officers of the entities along the lines of what has been introduced in United Kingdom in August 2022 as a measure against money laundering.
 
-**<b><u>Written Answer:</u></b>** 
+**<b><u>Oral Answer:</u></b>** 
 
 {:start="1"} 
 1. The member has asked if there should be a requirement for overseas entities to register with the Accounting and Corporate Regulatory Authority (ACRA) before they can transact in property in Singapore.  
