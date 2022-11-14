@@ -57,7 +57,7 @@ e)	Insolvency and New Technologies.
 {:start="7"}
 7.	This is especially important in today’s fast-changing, and some may say, fragmented landscape – where a well-designed and well-functioning insolvency framework is essential to: rehabilitation and rescue; or orderly winding down of businesses. 
 
-**<u>Changed Global Landscape</u>**
+**<u>II. Changed Global Landscape</u>**
 
 {:start="8"}
 8.	The insolvency community – both locally in Singapore and internationally – is critical, as it undergirds the insolvency framework and enables it to be implemented effectively.
