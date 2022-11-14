@@ -239,6 +239,8 @@ c)	The collaborative efforts and open dialogue amongst members of the community 
 {:start="47"}
 47.	Thank you.
 
+***
+
 <p><sup id="fn1">1. “The swift and silent restructuring of Singapore’s Pacific International Lines” by Stephanie Yeo (WongPartnership) published 23 June 2021 on the SGRI Blog <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p><sup id="fn2">2. Cases from 1996 to 2010.  [4] of Chapter 6: Judicial Management of Report of The Insolvency Law Review Committee 2013<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
