@@ -22,15 +22,15 @@ Ladies and gentlemen
 {:start="2"}
 2.	I regret that I cannot be with you today as I am travelling. 
 
-a)	I am happy that technology has allowed me to share my thoughts on:
+    a)	I am happy that technology has allowed me to share my thoughts on:
 
-(i)	The role of the insolvency community in the global landscape;
+    (i)	The role of the insolvency community in the global landscape;
 
-(ii)	Singapore’s progress and initiatives; 
+    (ii)	Singapore’s progress and initiatives; 
 
-(iii)	Further enhancements that we are looking into, to adapt to the new global reality; and
+    (iii)	Further enhancements that we are looking into, to adapt to the new global reality; and
 
-(iv)	Singapore’s participation in and contributions to the international insolvency landscape. 
+    (iv)	Singapore’s participation in and contributions to the international insolvency landscape. 
 
 {:start="3"}
 3.	At the outset, let me congratulate the organising team behind this conference. I understand that there are participants from at least 16 different jurisdictions; and there will be academic works presented on various topics in insolvency including:
@@ -68,11 +68,11 @@ e)	Insolvency and New Technologies.
 {:start="10"}
 10.	Let me touch on them briefly. 
 
-a)	The world is emerging from the pandemic, though there are stressors still lingering from the socio-political and economic effects of the past couple of years. 
+    a)	The world is emerging from the pandemic, though there are stressors still lingering from the socio-political and economic effects of the past couple of years. 
 
-b)	There are geo-political tensions, such as the conflict between Russia and Ukraine; and the tensions between the US and China. 
+    b)	There are geo-political tensions, such as the conflict between Russia and Ukraine; and the tensions between the US and China. 
 
-c)	And there is rampant inflation, with prices of energy, commodities, and labour, rapidly rising. In response, central banks around the world have turned to monetary tightening, leading to increased funding costs for businesses. 
+    c)	And there is rampant inflation, with prices of energy, commodities, and labour, rapidly rising. In response, central banks around the world have turned to monetary tightening, leading to increased funding costs for businesses. 
 
 {:start="11"}
 11.	In addition to these pressures, there are other trends in the system that impact businesses. For example, climate change, population change, and digitalisation. 
@@ -97,11 +97,11 @@ c)	And there is rampant inflation, with prices of energy, commodities, and labou
 {:start="17"}
 17.	Some of the key changes in our framework include:
 
-a)	The Companies (Amendment) Act in 2017 which enhanced Singapore’s restructuring frameworks through the engrafting of US Chapter 11 features, and enacted domestic legislation based on the UNCITRAL Model Law on Cross-Border Insolvency.
+    a)	The Companies (Amendment) Act in 2017 which enhanced Singapore’s restructuring frameworks through the engrafting of US Chapter 11 features, and enacted domestic legislation based on the UNCITRAL Model Law on Cross-Border Insolvency.
 
-b)	The Insolvency Restructuring and Dissolution Act 2018 - a milestone omnibus legislation that consolidated and also harmonised the approaches across both personal and corporate regimes, and continued the enhancement of the corporate rescue framework. 
+    b)	The Insolvency Restructuring and Dissolution Act 2018 - a milestone omnibus legislation that consolidated and also harmonised the approaches across both personal and corporate regimes, and continued the enhancement of the corporate rescue framework. 
 
-c)	I recently shared another development - the Courts (Civil and Criminal Justice) Reforms Act 2021 and Legal Profession (Amendment) Act 2022, which clarified the jurisdiction of the Singapore International Commercial Court (“SICC”), over international insolvency and restructuring cases, and refined the scope of foreign lawyers’ involvement in such cases. 
+    c)	I recently shared another development - the Courts (Civil and Criminal Justice) Reforms Act 2021 and Legal Profession (Amendment) Act 2022, which clarified the jurisdiction of the Singapore International Commercial Court (“SICC”), over international insolvency and restructuring cases, and refined the scope of foreign lawyers’ involvement in such cases. 
 
 {:start="18"}
 18.	In making these changes, we have focused on offering a balanced and robust framework. One that is practical and responsive to the needs of the users and affected parties; one that is neither pro-debtor nor pro-creditor, but looks at the range of options and interests of the different parties. 
@@ -109,11 +109,11 @@ c)	I recently shared another development - the Courts (Civil and Criminal Justic
 {:start="19"}
 19.	Let me touch on an example that was successfully resolved under this framework. Pacific International Lines (“PIL”), the world’s 12th largest liner company and Southeast Asia’s largest carrier encountered difficulties due to, amongst others, changes in the shipping industry.
 
-a)	The stakeholders of PIL have shared their personal experience - that through collaboration, bold spirit and action of the stakeholder groups and their advisors, the company swiftly completed a pre-negotiated restructuring. 
+    a)	The stakeholders of PIL have shared their personal experience - that through collaboration, bold spirit and action of the stakeholder groups and their advisors, the company swiftly completed a pre-negotiated restructuring. 
 
-b)	In this regard, it has been observed<sup><a href="#fn1" id="ref1">1</a></sup>  that while expediency in resolving the matter was a consideration due to PIL’s position as a debtor in financial distress, the rights of creditors were also protected.
+    b)	In this regard, it has been observed<sup><a href="#fn1" id="ref1">1</a></sup>  that while expediency in resolving the matter was a consideration due to PIL’s position as a debtor in financial distress, the rights of creditors were also protected.
 
-c)	I highlight that PIL made early and full repayment of its scheme debts. Additionally, just recently, to mark its return to financial health. This year, PIL donated $1.7 million to self-help groups in Singapore. 
+    c)	I highlight that PIL made early and full repayment of its scheme debts. Additionally, just recently, to mark its return to financial health. This year, PIL donated $1.7 million to self-help groups in Singapore. 
 
 **<u>IV.	Looking to the Future – Further Refinements and Growth</u>**
 
@@ -128,11 +128,11 @@ c)	I highlight that PIL made early and full repayment of its scheme debts. Addit
 {:start="22"}
 22.	Some areas of reform that we are considering, include: 
 
-a)	Ensuring early clarity on the profile of the companies to be placed under JM and ascertaining whether JM is the most suitable insolvency option in this case; 
+    a)	Ensuring early clarity on the profile of the companies to be placed under JM and ascertaining whether JM is the most suitable insolvency option in this case; 
 
-b)	Tailoring the expertise of the judicial manager to the specific industry sector of the company – especially important in specialised industries; and
+    b)	Tailoring the expertise of the judicial manager to the specific industry sector of the company – especially important in specialised industries; and
 
-c)	Offering different modes of financial incentives for judicial managers.
+    c)	Offering different modes of financial incentives for judicial managers.
 
 {:start="23"}
 23.	We intend to study this and other areas carefully.   
@@ -191,16 +191,16 @@ b)	Moving forward, we are also likely to see more proceedings involving crypto p
 {:start="37"}
 37.	Looking ahead, it is thus timely that in 2021, the UNCITRAL Commission referred two projects to the insolvency working group two projects: 
 
-a)	First, consideration of legal issues arising from civil asset tracing and recovery in insolvency proceedings; and
+    a)	First, consideration of legal issues arising from civil asset tracing and recovery in insolvency proceedings; and
 
-b)	Secondly, the applicable law in insolvency proceedings.
+    b)	Secondly, the applicable law in insolvency proceedings.
 
 {:start="38"}
 38.	These are important projects at the heart of international insolvency. 
 
-a)	The civil asset tracing and recovery project is intended to benefit stakeholders by reducing the time and costs involved in tracing and recovering assets, where assets are located in a foreign jurisdiction.   
+    a)	The civil asset tracing and recovery project is intended to benefit stakeholders by reducing the time and costs involved in tracing and recovering assets, where assets are located in a foreign jurisdiction.   
 
-b)	The project on applicable law is intended to benefit stakeholders as it seeks to provide harmonised principles and rules on insolvency law, which will increase the certainty and predictability of cross-border insolvency cases. 
+    b)	The project on applicable law is intended to benefit stakeholders as it seeks to provide harmonised principles and rules on insolvency law, which will increase the certainty and predictability of cross-border insolvency cases. 
 
 <u>Judicial Insolvency Network</u>
 
@@ -221,11 +221,11 @@ b)	The project on applicable law is intended to benefit stakeholders as it seeks
 {:start="43"}
 43.	As I mentioned earlier, the insolvency community is important in today’s world in so many ways. We see the passion and contribution of the community –
 
-a)	Its initiatives, including ideas brought forth in the papers to be presented at this conference.
+    a)	Its initiatives, including ideas brought forth in the papers to be presented at this conference.
 
-b)	Its lively discussion at panel sessions involving practitioners, academics, and policy-makers; and 
+    b)	Its lively discussion at panel sessions involving practitioners, academics, and policy-makers; and 
 
-c)	The collaborative efforts and open dialogue amongst members of the community in crafting solutions in different areas of insolvency law and practice.
+    c)	The collaborative efforts and open dialogue amongst members of the community in crafting solutions in different areas of insolvency law and practice.
 
 {:start="44"}
 44.	These are part of the wider discourse on strengthening insolvency laws globally. 
