@@ -111,7 +111,7 @@ c)	I recently shared another development - the Courts (Civil and Criminal Justic
 
 a)	The stakeholders of PIL have shared their personal experience - that through collaboration, bold spirit and action of the stakeholder groups and their advisors, the company swiftly completed a pre-negotiated restructuring. 
 
-b)	In this regard, it has been observed  that while expediency in resolving the matter was a consideration due to PIL’s position as a debtor in financial distress, the rights of creditors were also protected.
+b)	In this regard, it has been observed<sup><a href="#fn1" id="ref1">1</a></sup>  that while expediency in resolving the matter was a consideration due to PIL’s position as a debtor in financial distress, the rights of creditors were also protected.
 
 c)	I highlight that PIL made early and full repayment of its scheme debts. Additionally, just recently, to mark its return to financial health. This year, PIL donated $1.7 million to self-help groups in Singapore. 
 
@@ -123,7 +123,7 @@ c)	I highlight that PIL made early and full repayment of its scheme debts. Addit
 <u>Judicial Management</u>
 
 {:start="21"}
-21.	First, we are studying how we can strengthen the corporate insolvency regime. In particular, the judicial management (JM) regime – to ensure that it is not used as an inevitable precursor to winding up. The rate of cases that emerged successful after a JM regime stands at about 27% - 28% . We will be studying potential changes, so that the JM regime will better facilitate effective outcomes based on today’s reality and business practices, whether this be a successful rehabilitation, or quick and orderly winding down.
+21.	First, we are studying how we can strengthen the corporate insolvency regime. In particular, the judicial management (JM) regime – to ensure that it is not used as an inevitable precursor to winding up. The rate of cases that emerged successful after a JM regime stands at about 27% - 28%<sup><a href="#fn1" id="ref1">1</a></sup>. We will be studying potential changes, so that the JM regime will better facilitate effective outcomes based on today’s reality and business practices, whether this be a successful rehabilitation, or quick and orderly winding down.
 
 {:start="22"}
 22.	Some areas of reform that we are considering, include: 
@@ -238,5 +238,10 @@ c)	The collaborative efforts and open dialogue amongst members of the community 
 
 {:start="47"}
 47.	Thank you.
+
+<p><sup id="fn1">1. “The swift and silent restructuring of Singapore’s Pacific International Lines” by Stephanie Yeo (WongPartnership) published 23 June 2021 on the SGRI Blog <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+
+<p><sup id="fn2">2. Cases from 1996 to 2010.  [4] of Chapter 6: Judicial Management of Report of The Insolvency Law Review Committee 2013<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
 
 <p class="right-side-updated">Last updated on 14 November 2022</p>
