@@ -35,13 +35,13 @@ a)	I am happy that technology has allowed me to share my thoughts on:
 {:start="3"}
 3.	At the outset, let me congratulate the organising team behind this conference. I understand that there are participants from at least 16 different jurisdictions; and there will be academic works presented on various topics in insolvency including:
 
-a)	Reinventing insolvency law; 
+   a)	Reinventing insolvency law; 
 
-b)	Insolvency law in emerging economies;
+   b)	Insolvency law in emerging economies;
 
-c)	Remuneration of Insolvency Practitioners;
+   c)	Remuneration of Insolvency Practitioners;
 
-d)	Litigation Funding in Insolvency Proceedings; and also,
+   d)	Litigation Funding in Insolvency Proceedings; and also,
 
 e)	Insolvency and New Technologies. 
 
