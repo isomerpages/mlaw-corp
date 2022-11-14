@@ -123,7 +123,7 @@ c)	I highlight that PIL made early and full repayment of its scheme debts. Addit
 <u>Judicial Management</u>
 
 {:start="21"}
-21.	First, we are studying how we can strengthen the corporate insolvency regime. In particular, the judicial management (JM) regime – to ensure that it is not used as an inevitable precursor to winding up. The rate of cases that emerged successful after a JM regime stands at about 27% - 28%<sup><a href="#fn1" id="ref1">1</a></sup>. We will be studying potential changes, so that the JM regime will better facilitate effective outcomes based on today’s reality and business practices, whether this be a successful rehabilitation, or quick and orderly winding down.
+21.	First, we are studying how we can strengthen the corporate insolvency regime. In particular, the judicial management (JM) regime – to ensure that it is not used as an inevitable precursor to winding up. The rate of cases that emerged successful after a JM regime stands at about 27% - 28%<sup><a href="#fn2" id="ref2">2</a></sup>. We will be studying potential changes, so that the JM regime will better facilitate effective outcomes based on today’s reality and business practices, whether this be a successful rehabilitation, or quick and orderly winding down.
 
 {:start="22"}
 22.	Some areas of reform that we are considering, include: 
