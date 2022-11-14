@@ -1,5 +1,5 @@
 ---
-title: Response by MinLaw and MHA to Open Letter from IBAHRI ICJ
+title: Response by MinLaw & MHA to Open Letter from IBAHRI & ICJ
 permalink: /news/replies/2022-11-14-minlaw-mha-response-to-ibahri-icj-open-letter/
 date: 2022-11-14
 layout: post
@@ -19,7 +19,7 @@ image: ""
 
 * * *
 
-<p><sup id="fn1">1.[https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-ibahri-statement](https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-ibahri-statement); [https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement](https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. [https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-ibahri-statement](https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-ibahri-statement); [https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement](https://www.mlaw.gov.sg/news/replies/2022-09-08-minlaw-mha-statement-on-icj-statement).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 **MINISTRY OF LAW<br>
 MINISTRY OF HOME AFFAIRS<br>
