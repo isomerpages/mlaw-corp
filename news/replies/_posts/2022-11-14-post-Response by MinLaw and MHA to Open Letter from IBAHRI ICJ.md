@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-14 November 2022 Posted in [Replies](/news/replies)  
+15 November 2022 Posted in [Replies](/news/replies)  
 
 {:start="1"}
 1. We refer to the open letter dated 27 October 2022 from the International Bar Association’s Human Rights Institute (“**IBAHRI**”) and the International Commission of Jurists (“**ICJ**”), in reply to our responses dated 8 September 2022 to earlier statements from the IBAHRI and the ICJ on the use of capital punishment and purported punitive cost orders on lawyers in Singapore<sup><a href="#fn1" id="ref1">1</a></sup>.
@@ -23,6 +23,6 @@ image: ""
 
 **MINISTRY OF LAW<br>
 MINISTRY OF HOME AFFAIRS<br>
-14 NOVEMBER 2022**
+15 NOVEMBER 2022**
 
-<p class="right-side-updated">Last updated on 14 November 2022</p>
+<p class="right-side-updated">Last updated on 15 November 2022</p>
