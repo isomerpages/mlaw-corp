@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 15 November 2022 Posted in [Replies](/news/replies)  
 
 {:start="1"}
@@ -16,7 +15,7 @@ image: ""
 2. The open letter has ignored the contents of our earlier responses, which had set out the facts clearly. Instead, it repeats the same false statements alleged in August 2022, which our earlier responses had dealt with.
 
 {:start="3"}
-3. The IBAHRI and the ICJ claim that they are available for constructive dialogue and engagement. However, the repetition of untrue allegations suggest that they are not serious about having a dialogue centred on facts. Their primary objective appears to be to berate Singapore, regardless of the facts.
+3. The IBAHRI and the ICJ claim that they are available for constructive dialogue and engagement. However, the repetition of untrue allegations suggests that they are not serious about having a dialogue centred on facts. Their primary objective appears to be to berate Singapore, regardless of the facts.
 
 * * *
 
