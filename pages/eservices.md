@@ -15,6 +15,7 @@ The following e-Services will be undergoing maintenance:
 *   Exemptions
 *   Community Mediation Centre
 *   MinLaw Online Enquiries
+<br>
 and will be unavailable on:
 *   17 Nov 2022 from 6pm to 10.30pm
 *   18 Nov 2022 from 6pm to 19 Nov 2022 12am
