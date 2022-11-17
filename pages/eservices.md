@@ -17,7 +17,7 @@ The following e-Services will be undergoing maintenance and will be unavailable 
 *   MinLaw Online Enquiries
 <br>
 
-All Ministry of Law's e-Services including the above will be unavailable on:
+All Ministry of Law's e-Services including the above will be undergoing maintenance and will be unavailable on:
 *   18 Nov 2022 from 6pm to 19 Nov 2022 12am
 *   22 Nov 2022 from 6pm to 23 Nov 2022 12am
 
