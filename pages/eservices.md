@@ -18,6 +18,9 @@ The following e-Services will be undergoing maintenance and will be unavailable 
 *   Community Mediation Centre
 *   MinLaw Online Enquiries
 
+Above Services will also be unavailable on:
+*   18 Nov 2022 from 6pm to 19 Nov 2022 12am
+*   22 Nov 2022 from 6pm to 23 Nov 2022 12am
 Members of public are advised to avoid using our eServices during the system maintenance periods where possible. Alternatively members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding. 
 <br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
