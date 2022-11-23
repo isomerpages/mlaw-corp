@@ -33,6 +33,4 @@ The Ministry of Law is the parent ministry of the following Statutory Boards:
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
 
-* Public Defender's Office <i>(coming soon)</i>
-
 <p class="right-side-updated">Last updated on 17 Mar 2020</p>
