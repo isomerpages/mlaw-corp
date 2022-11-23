@@ -18,6 +18,8 @@ Useful Links
 
 * [Legal Aid Bureau](https://lab.mlaw.gov.sg/)
 
+* Public Defender's Office <i>(coming soon)</i>
+
 * [Public Trustee's Office](https://pto.mlaw.gov.sg/)
 
 * [Registry of Moneylenders](https://rom.mlaw.gov.sg/)

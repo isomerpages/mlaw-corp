@@ -1,12 +1,9 @@
 ---
-title: 'What We Do'
+title: What We Do
 permalink: /about-us/what-we-do/
-breadcrumb: 'What We Do'
-third_nav_title: 'What We Do'
-
+breadcrumb: What We Do
+third_nav_title: What We Do
 ---
-
-
 What We Do
 ---
 
