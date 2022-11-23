@@ -1,12 +1,9 @@
 ---
-title: 'What We Do'
+title: What We Do
 permalink: /about-us/what-we-do/
-breadcrumb: 'What We Do'
-third_nav_title: 'What We Do'
-
+breadcrumb: What We Do
+third_nav_title: What We Do
 ---
-
-
 What We Do
 ---
 
@@ -35,5 +32,7 @@ The Ministry of Law is the parent ministry of the following Statutory Boards:
 * [Singapore Land Authority](https://www.sla.gov.sg/){:target="_blank"}
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
+
+* Public Defender's Office <i>(coming soon)</i>
 
 <p class="right-side-updated">Last updated on 17 Mar 2020</p>
