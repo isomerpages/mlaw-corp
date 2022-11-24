@@ -8,7 +8,6 @@ collections:
       - Our Legal System/.keep
       - Our Legal System/our-legal-system.md
       - Our Legal System/queries-under-other-law-related-agencies.md
-      - What We Do/Public Defender's Office.md
       - What We Do/.keep
       - What We Do/what-we-do.md
       - What We Do/legal-policy-group.md
@@ -26,5 +25,6 @@ collections:
       - What We
         Do/anti-money-laundering-countering-the-financing-of-terrorism-division.md
       - What We Do/licensing-regulation-of-insolvency-practitioners-division.md
+      - What We Do/Public Defender's Office.md
       - contact-us.md
       - useful-links.md
