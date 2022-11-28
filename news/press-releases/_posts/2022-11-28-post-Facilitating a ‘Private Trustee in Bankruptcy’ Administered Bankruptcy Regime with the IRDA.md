@@ -1,6 +1,5 @@
 ---
-title: Facilitating a ‘Private Trustee in Bankruptcy’ Administered Bankruptcy
-  Regime with the IRDA
+title: Facilitating a ‘Private Trustee in Bankruptcy’ Administered Bankruptcy Regime with the Insolvency, Restructuring and Dissolution (Amendment) Bill
 permalink: /news/press-releases/facilitating-ptib-administered-bankruptcy-regime-irda/
 date: 2022-11-28
 layout: post
