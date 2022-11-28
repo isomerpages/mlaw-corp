@@ -49,8 +49,8 @@ c.	Improving operational flexibility for determining PTIBs’ remuneration in li
 <br>**28 NOVEMBER 2022**
 
 
-<p><sup id="fn1">1. PTIBs can be: (i) a solicitor; (ii) a public accountant; or (iii) a chartered accountant and have to hold an insolvency practitioner licence from MinLaw’s Insolvency and Public Trustee Office (“**IPTO**”).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. PTIBs can be: (i) a solicitor; (ii) a public accountant; or (iii) a chartered accountant and have to hold an insolvency practitioner licence from MinLaw’s Insolvency and Public Trustee Office (“<b>IPTO</b>”).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p><sup id="fn2">2. Under Section 36(2) of the Insolvency, Restructuring and Dissolution Act (“**IRDA**”), ICs are defined as: (a) a banking corporation; (b) a finance company licensed under the Finance Companies Act; (c) a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act; or (d) a company with annual sales turnover of more than $100 million and with more than 200 employees. ICs, subsidiaries of ICs or a corporation where two or more ICs control more than half of the voting power in total, are required to appoint PTIBs.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Under Section 36(2) of the Insolvency, Restructuring and Dissolution Act (“<b>IRDA</b>”), ICs are defined as: (a) a banking corporation; (b) a finance company licensed under the Finance Companies Act; (c) a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act; or (d) a company with annual sales turnover of more than $100 million and with more than 200 employees. ICs, subsidiaries of ICs or a corporation where two or more ICs control more than half of the voting power in total, are required to appoint PTIBs.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
  
 <p class="right-side-updated">Last updated on 28 November 2022</p>
