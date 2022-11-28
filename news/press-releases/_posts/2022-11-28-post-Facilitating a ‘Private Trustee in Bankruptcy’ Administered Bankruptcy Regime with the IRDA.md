@@ -1,5 +1,6 @@
 ---
-title: Facilitating a ‘Private Trustee in Bankruptcy’ Administered Bankruptcy Regime with the Insolvency, Restructuring and Dissolution (Amendment) Bill
+title: Facilitating a ‘Private Trustee in Bankruptcy’ Administered Bankruptcy
+  Regime with the Insolvency, Restructuring and Dissolution (Amendment) Bill
 permalink: /news/press-releases/facilitating-ptib-administered-bankruptcy-regime-irda/
 date: 2022-11-28
 layout: post
@@ -30,7 +31,7 @@ image: ""
 {:start="6"}
 6.	With this new approach, the OA will take on a more regulatory role to ensure PTIBs’ competencies and legislative compliance in case administration. The OA will continue to administer undischarged bankruptcy cases that were assigned to or handled by the OA before these amendments take effect.
     
-<b><u>Protecting Persons Dealing with Bankrupts and Supporting the PTIB Industry</b></u>
+<b><u>Protecting Persons Dealing with Bankrupts and Supporting the PTIB Industry</u></b>
 
 {:start="7"}
 7.	Miscellaneous amendments are also proposed under the Bill to enhance the protection of persons dealing with bankrupts in commercial transactions and provide continued support to the PTIB industry. These include:
