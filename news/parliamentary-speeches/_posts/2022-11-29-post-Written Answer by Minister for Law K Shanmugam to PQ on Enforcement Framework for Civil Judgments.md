@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Enforcement
-  Framework for Civil Judgments
+title: Written Answer by Minister for Law K Shanmugam to PQ on Update On Review of Enforcement Framework For Civil Judgments
 permalink: /news/parliamentary-speeches/review-streamlined-enforcement-framework-civil-judgments/
 date: 2022-11-29
 layout: post
