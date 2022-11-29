@@ -55,8 +55,10 @@ Singapore 179434
 
 Please include your name, contact number, and, if you are representing an organisation, the name of that organisation. Please also identify the provision and/or issue to which your feedback relates.
 
+Following feedback from the public, the consultation exercise will be extended by one week. It will now close on **4 January 2023** instead. We invite all interested parties to provide responses by then.
+
 **Confidentiality of feedback received**
 
 MinLaw and IPOS reserve the right to make public all or part of any written submission. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked.
 
-<p class="right-side-updated">Last updated on 7 November 2022</p>
+<p class="right-side-updated">Last updated on 29 November 2022</p>
