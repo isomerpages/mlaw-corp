@@ -55,7 +55,7 @@ Singapore 179434
 
 Please include your name, contact number, and, if you are representing an organisation, the name of that organisation. Please also identify the provision and/or issue to which your feedback relates.
 
-Following feedback from the public, the consultation exercise will be extended by one week. It will now close on **4 January 2023** instead. We invite all interested parties to provide responses by then.
+Following feedback from the public, the consultation exercise will be extended. It will now close on **4 January 2023** instead. We invite all interested parties to provide responses by then.
 
 **Confidentiality of feedback received**
 
