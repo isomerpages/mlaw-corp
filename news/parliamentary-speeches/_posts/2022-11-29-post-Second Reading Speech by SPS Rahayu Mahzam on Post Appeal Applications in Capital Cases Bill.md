@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+29 Nov 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+
 Mr Speaker,
 
 {:start="1"}
