@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Vexatious Claims
-  Under Supreme Court Rules
+title: Written Answer by Minister for Law K Shanmugam to PQ on Provision For Summary Determination And Disposal Of Vexatious Claims Under Supreme Court (Protection From Harassment) Rules 2021
 permalink: /news/parliamentary-speeches/vexatious-claims-under-supreme-court-rules-2021/
 date: 2022-11-29
 layout: post
