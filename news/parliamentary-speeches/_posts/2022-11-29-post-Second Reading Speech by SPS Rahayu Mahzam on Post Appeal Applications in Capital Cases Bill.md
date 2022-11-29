@@ -1,6 +1,6 @@
 ---
-title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on Post-Appeal Applications in
-  Capital Cases Bill
+title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on
+  Post-Appeal Applications in Capital Cases Bill
 permalink: /news/parliamentary-speeches/2022-11-29-second-reading-Speech-SPS-on-PACC-bill/
 date: 2022-11-29
 layout: post
@@ -31,13 +31,13 @@ Mr Speaker,
 {:start="6"}
 6.          Today, capital cases are governed by a rigorous process with multiple safeguards. 
 
-	(a)       First, all persons facing capital charges are offered free legal representation under the Legal Assistance Scheme for Capital Offences, at trial and on appeal.
+	a)       First, all persons facing capital charges are offered free legal representation under the Legal Assistance Scheme for Capital Offences, at trial and on appeal.
 
-	(b)       Second, capital trials can only be heard in the General Division of the High Court, or “**HC**”. The accused can only be found guilty of a capital charge if the Prosecution leads evidence and proves its case at trial, even if the accused does not contest the charge.
+	b)       Second, capital trials can only be heard in the General Division of the High Court, or “**HC**”. The accused can only be found guilty of a capital charge if the Prosecution leads evidence and proves its case at trial, even if the accused does not contest the charge.
 
-	(c)       Third, where the HC imposes capital punishment, the accused is entitled to appeal to the Court of Appeal, or “**CA**”, against both the conviction and sentence. Even if the accused does not appeal, or withdraws his appeal, the CA must still review the case, and satisfy itself as to the correctness, legality and propriety of the conviction and sentence.
+	c)       Third, where the HC imposes capital punishment, the accused is entitled to appeal to the Court of Appeal, or “**CA**”, against both the conviction and sentence. Even if the accused does not appeal, or withdraws his appeal, the CA must still review the case, and satisfy itself as to the correctness, legality and propriety of the conviction and sentence.
 
-	(d)       Fourth, even after the CA has confirmed the conviction and sentence, the PACP may apply for the case to be reviewed under Division 1B of Part 20 of the Criminal Procedure Code 2010, or the “**CPC**”, if the strict criteria for reviewing a concluded case are met. 
+	d)       Fourth, even after the CA has confirmed the conviction and sentence, the PACP may apply for the case to be reviewed under Division 1B of Part 20 of the Criminal Procedure Code 2010, or the “**CPC**”, if the strict criteria for reviewing a concluded case are met. 
 
 {:start="7"}
 7.          Under our justice system, a person facing a capital charge has ample opportunity to raise any issues in relation to the charge and the sentence, and to have those issues considered by the courts at the appropriate time. Our system allows justice to be done, where there are genuine issues to be dealt with.
