@@ -31,13 +31,13 @@ Mr Speaker,
 {:start="6"}
 6.          Today, capital cases are governed by a rigorous process with multiple safeguards. 
 
-	a)       First, all persons facing capital charges are offered free legal representation under the Legal Assistance Scheme for Capital Offences, at trial and on appeal.
+   a)       First, all persons facing capital charges are offered free legal representation under the Legal Assistance Scheme for Capital Offences, at trial and on appeal.
 
-	b)       Second, capital trials can only be heard in the General Division of the High Court, or “**HC**”. The accused can only be found guilty of a capital charge if the Prosecution leads evidence and proves its case at trial, even if the accused does not contest the charge.
+   b)       Second, capital trials can only be heard in the General Division of the High Court, or “**HC**”. The accused can only be found guilty of a capital charge if the Prosecution leads evidence and proves its case at trial, even if the accused does not contest the charge.
 
-	c)       Third, where the HC imposes capital punishment, the accused is entitled to appeal to the Court of Appeal, or “**CA**”, against both the conviction and sentence. Even if the accused does not appeal, or withdraws his appeal, the CA must still review the case, and satisfy itself as to the correctness, legality and propriety of the conviction and sentence.
+   c)       Third, where the HC imposes capital punishment, the accused is entitled to appeal to the Court of Appeal, or “**CA**”, against both the conviction and sentence. Even if the accused does not appeal, or withdraws his appeal, the CA must still review the case, and satisfy itself as to the correctness, legality and propriety of the conviction and sentence.
 
-	d)       Fourth, even after the CA has confirmed the conviction and sentence, the PACP may apply for the case to be reviewed under Division 1B of Part 20 of the Criminal Procedure Code 2010, or the “**CPC**”, if the strict criteria for reviewing a concluded case are met. 
+   d)       Fourth, even after the CA has confirmed the conviction and sentence, the PACP may apply for the case to be reviewed under Division 1B of Part 20 of the Criminal Procedure Code 2010, or the “**CPC**”, if the strict criteria for reviewing a concluded case are met. 
 
 {:start="7"}
 7.          Under our justice system, a person facing a capital charge has ample opportunity to raise any issues in relation to the charge and the sentence, and to have those issues considered by the courts at the appropriate time. Our system allows justice to be done, where there are genuine issues to be dealt with.
@@ -80,13 +80,13 @@ Mr Speaker,
 {:start="19"}
 19.      In deciding whether to grant permission, the CA is to consider four matters:
 
-	(a)       First, whether the intended PACC Application is based on material that could not have been adduced in court before the relevant date, even with reasonable diligence.
+   a)       First, whether the intended PACC Application is based on material that could not have been adduced in court before the relevant date, even with reasonable diligence.
 
-	(b)       Second, whether there was any delay in applying for permission after the material was obtained, and the reasons for the delay.
+   b)       Second, whether there was any delay in applying for permission after the material was obtained, and the reasons for the delay.
 
-	(c)       Third, whether the prescribed supporting documents have been filed within the prescribed time. These will include supporting affidavit(s) by the PACP’s counsel, or by the PACP, if he is unrepresented. The affidavit is to state, among others, the grounds for the application and the reasons for not filing the application earlier.
+   c)       Third, whether the prescribed supporting documents have been filed within the prescribed time. These will include supporting affidavit(s) by the PACP’s counsel, or by the PACP, if he is unrepresented. The affidavit is to state, among others, the grounds for the application and the reasons for not filing the application earlier.
 
-	(d)      Fourth, whether the intended PACC Application has a reasonable prospect of success.
+   d)      Fourth, whether the intended PACC Application has a reasonable prospect of success.
 
 {:start="20"}
 20.      Even if these four matters are not satisfied, the CA will have the discretion to grant permission for the application if it thinks fit.
@@ -120,11 +120,11 @@ Mr Speaker,
 {:start="29"}
 29.      Clause 3(a) also provides that a capital sentence may be carried out, unless:
 
-	(a)      The President has ordered a respite;
+   a)      The President has ordered a respite;
 
-	(b)      The CA has granted a stay of execution; or
+   b)      The CA has granted a stay of execution; or
 
-	(c)      There is a pending application for permission to apply for a stay of execution, or an application for a stay of execution, that meets the specified criteria.
+   c)      There is a pending application for permission to apply for a stay of execution, or an application for a stay of execution, that meets the specified criteria.
 
 {:start="30"}
 30.      This amendment will provide clarity for all parties on when the sentence may be carried out. It also provides statutory protection to PACPs by prohibiting the carrying out of the capital sentence – even without a stay of execution – where there is a pending application for permission to apply for a stay of execution, or an application for a stay of execution, that meets the specified criteria.
