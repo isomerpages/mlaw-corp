@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Progress Of
-  Probate EService System
+title: Written Answer by Minister for Law K Shanmugam to PQ on Progress Of Development Of Probate E-Service System
 permalink: /news/parliamentary-speeches/progress-of-development-of-probate-eservice/
 date: 2022-11-30
 layout: post
@@ -27,6 +26,5 @@ image: ""
 
 {:start="4"} 
 4.  The FJC currently intends to launch the system in the first half of 2023, although this  is subject to developmental progress. The system will initially be used for straightforward  probate cases, with capacity progressively ramped up over time.
-
 
 <p class="right-side-updated">Last updated on 30 November 2022</p>
