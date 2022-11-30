@@ -1,5 +1,6 @@
 ---
-title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on State Lands Protection Bill
+title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on State
+  Lands Protection Bill
 permalink: /news/parliamentary-speeches/2022-11-30-2r-speech-sps-rahayu-mahzam-state-lands-protection-bill/
 date: 2022-11-30
 layout: post
@@ -134,6 +135,7 @@ Mr Speaker,
     a.	If there is non-compliance with the notice and no objection is received, the authorised officer can proceed to seize and remove any movable property involved. 
 
     b.	If an objection is received, the authorised officer may then file a complaint to the Magistrate’s Court on the unauthorised activity committed on the State land.
+
 **V.	Resumption of Land**
 
 {:start="26"}
