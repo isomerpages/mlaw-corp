@@ -216,6 +216,6 @@ Mr Speaker,
 42.	These changes will allow SLA and agencies overseeing the management of State land to take effective measures to protect our State land from damage and misuse. 
 
 {:start="43"}
-43.	With that, Mr. Deputy Speaker – on behalf of the Minister for Law, I beg to move.
+43.	With that, Mr Deputy Speaker – on behalf of the Minister for Law, I beg to move.
 
 <p class="right-side-updated">Last updated on 30 November 2022</p>
