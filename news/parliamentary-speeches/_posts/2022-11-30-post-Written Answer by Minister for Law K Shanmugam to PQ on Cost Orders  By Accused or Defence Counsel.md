@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Cost Orders Sought By Accused or Defence Counsel Against Public Prosecutor Between 2018 And 2020
+title: Written Answer by Minister for Law K Shanmugam to PQ on Cost Orders Sought By Accused or Defence Counsel Against Public Prosecutor Between 2018 And 2022
 permalink: /news/parliamentary-speeches/cost-orders-sought-by-accused-defence-counsel/
 date: 2022-11-30
 layout: post
