@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Personal Cost Orders
+title: Written Answer by Minister for Law K Shanmugam to PQ on Personal Cost Orders Sought By Public Prosecutor Against Defence Counsel Between 2018 And 2022
 permalink: /news/parliamentary-speeches/personal-cost-orders-by-public-prosecutor-against-defence-counsel/
 date: 2022-11-30
 layout: post
@@ -23,6 +23,5 @@ image: ""
 
 {:start="3"} 
 3.  Cases where personal costs orders were sought by the Public Prosecutor against a defence counsel are not specifically tracked. These are steps which take place within the  context of Court proceedings.
-
 
 <p class="right-side-updated">Last updated on 30 November 2022</p>
