@@ -1,5 +1,7 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Personal Cost Orders Sought By Public Prosecutor Against Defence Counsel Between 2018 And 2022
+title: Written Answer by Minister for Law K Shanmugam to PQ on Personal Cost
+  Orders Sought By Public Prosecutor Against Defence Counsel Between 2018 And
+  2022
 permalink: /news/parliamentary-speeches/personal-cost-orders-by-public-prosecutor-against-defence-counsel/
 date: 2022-11-30
 layout: post
@@ -16,7 +18,7 @@ image: ""
 **<b><u>Written Answer:</u></b>** 
 
 {:start="1"} 
-1.  The Courts decide on whether costs should be paid by Counsel.  This is so in both civil and criminal cases. This is a power that the Courts have always  had. Costs will generally be ordered against a defence counsel, in criminal cases, where  (a) the defence counsel acted improperly, unreasonably or negligently, (b) the conduct led  to the incurring of unnecessary costs, and (c) it is just, in all the circumstances, to make  the order.
+1.  The Courts decide on whether costs should be paid by Counsel.  This is so in both civil and criminal cases. This is a power that the Courts have always  had. Costs will generally be ordered against a defence counsel, in criminal cases, where  (a) the defence counsel acted improperly, unreasonably or negligently, (b) the conduct led  to the incurring of unnecessary costs, and (c) it is just, in all the circumstances, to make the order.
 
 {:start="2"} 
 2.  There were at least 16 cases between 2018 and 2022 in which the Courts ordered  defence counsel to personally pay costs, including civil cases initiated by accused persons which were related to their criminal cases. The maximum and median quantum of the  personal costs orders imposed in these cases were $20,000 and $3,750, respectively. 
