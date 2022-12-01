@@ -11,7 +11,7 @@ image: ""
 ---
 
 **Consultation Period:**  
-7 November 2022 to 4 December 2022
+7 November 2022 to 4 December 2022*
 
 MinLaw and IPOS are seeking views on the draft Copyright (Collective Management Organisations) Regulations 2023 (“Regulations”). 
 
@@ -38,7 +38,9 @@ The public consultation paper and its annexes can be accessed below:
 
 **Providing feedback**
 
-Please provide your feedback by 4 December 2022. 
+Please provide your feedback by 4 December 2022*. 
+
+*Following feedback from the public, the consultation exercise will be extended. It will now close on **4 January 2023** instead. We invite all interested parties to provide responses by then.
 
 Feedback may be submitted via hard copy or email to: 
 
@@ -55,7 +57,7 @@ Singapore 179434
 
 Please include your name, contact number, and, if you are representing an organisation, the name of that organisation. Please also identify the provision and/or issue to which your feedback relates.
 
-Following feedback from the public, the consultation exercise will be extended. It will now close on **4 January 2023** instead. We invite all interested parties to provide responses by then.
+
 
 **Confidentiality of feedback received**
 
