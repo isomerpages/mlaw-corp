@@ -17,7 +17,7 @@ image: ""
 {:start="3"}
 3.	With the establishment of the PDO, we have also expanded criminal defence aid coverage to benefit more vulnerable Singaporeans. The changes include raising the income limit from the 25th percentile to cover up to the 35th percentile of resident households and widening the scope of coverage to all types of criminal offences, with specific exceptions.
 
-<u>**Appointment of the Chief Public Defender**</u>
+<b><u>Appointment of the Chief Public Defender**</u></b>
 
 {:start="4"}
 4.	The PDO is helmed by Mr Wong Kok Weng. Mr Wong, who is a former Deputy Public Prosecutor in AGC, will oversee the operations and administration of the PDO and ensure that deserving applicants receive aid. As the Chief Public Defender, Mr Wong will also appoint and assign public defenders to represent aided accused persons in court. (See <b><u>Annex</u></b> for Mr Wong’s profile.)
