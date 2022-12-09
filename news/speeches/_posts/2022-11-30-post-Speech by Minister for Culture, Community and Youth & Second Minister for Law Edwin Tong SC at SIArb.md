@@ -44,11 +44,11 @@ Over the years, SIArb has also trained many who are seeking to be arbitrators - 
 
 In fact, SIArb is one of the professional arbitration institutes recognised by the SIAC for empanelment on its panel of arbitrators. This itself demonstrates the high-quality training and accreditation that SIArb provides. 
 
-    b)	Second, SIArb has been helping to enhance our arbitration ecosystem and regime. Another of Singapore’s value proposition is our ability to react quickly, move quickly, respond quickly to the latest developments in the industry, and also best practices. 
+   b)	Second, SIArb has been helping to enhance our arbitration ecosystem and regime. Another of Singapore’s value proposition is our ability to react quickly, move quickly, respond quickly to the latest developments in the industry, and also best practices. 
 
 In the formative years of SIAC, successive generations of SIArb presidents were actively involved, including the working committee set up by the then-AG and of course the first chairman of SIAC, Senior Counsel Tan Boon Teik. SIArb has always been proactive and forthright in providing feedback from the ground on various matters, such as our institutions, how our legislation can come together to support arbitration better, and our products and services. There were many occasions. Just take the International Arbitration Act for example. Since its commencement in 1995, we have amended that piece of legislation 11 times, five of which were major amendments. This has helped us enhance our offering as a top-class arbitration hub, and also honed our system, improving it in response to user needs. Fundamentally, that is the most important aspect of our system. It must be a system that responds to and caters to users’ needs. This allows us to stay ahead of our competition. 
 
-    c)	Third, SIArb has been instrumental in profiling Singapore, as a preferred arbitration forum. SIArb has built strong global alliances and linkages with various industry associations and other professional bodies locally and also overseas. This complements very strongly the promotion efforts by the Ministry of Law, SIAC, SCMA, and also other agencies. In fact, I just got back from Delhi last evening. I met with Delhi lawyers, in-house counsel, business executives, and also many government officials and civil servants from India. I was there together with SIAC, the Singapore International Mediation Centre (SIMC) and Maxwell Chambers to share about and promote Singapore’s dispute resolution offerings. 
+   c)	Third, SIArb has been instrumental in profiling Singapore, as a preferred arbitration forum. SIArb has built strong global alliances and linkages with various industry associations and other professional bodies locally and also overseas. This complements very strongly the promotion efforts by the Ministry of Law, SIAC, SCMA, and also other agencies. In fact, I just got back from Delhi last evening. I met with Delhi lawyers, in-house counsel, business executives, and also many government officials and civil servants from India. I was there together with SIAC, the Singapore International Mediation Centre (SIMC) and Maxwell Chambers to share about and promote Singapore’s dispute resolution offerings. 
 
 I came back with a strong realisation that we have a very strong branding overseas and that is in no small part due to the efforts of SIArb and its outreach globally with other institutions and other organisations. These steps and many more have helped Singapore establish an arbitration hub that we all benefit from, which serves our users and our clients. It ensures there is a strong ecosystem that promotes fair, transparent and open dispute resolution services. 
 
@@ -67,13 +67,13 @@ I came back with a strong realisation that we have a very strong branding overse
 {:start="12"}
 12.	The challenges for SIArb are therefore:
 
-    a)	First, how do we ensure that arbitration remains attractive and remains the go-to port of call? 
+   a)	First, how do we ensure that arbitration remains attractive and remains the go-to port of call? 
 
-    b)	How do we ensure that arbitration law and procedure is kept in lockstep with business development? that, to me, is important. There is no point in having an arbitration when it is out of sync with commercial reality, and with recent developments. 
+   b)	How do we ensure that arbitration law and procedure is kept in lockstep with business development? that, to me, is important. There is no point in having an arbitration when it is out of sync with commercial reality, and with recent developments. 
 
-    c)	Third, how to train and improve the skill and expertise of arbitrators and those involved in arbitration in these new and emerging areas. 
+   c)	Third, how to train and improve the skill and expertise of arbitrators and those involved in arbitration in these new and emerging areas. 
 
-    d)	And finally, how do we grow the pie overall? How do we ensure that there are new novel opportunities for the members of SIArb? 
+   d)	And finally, how do we grow the pie overall? How do we ensure that there are new novel opportunities for the members of SIArb? 
 
 {:start="13"}
 13.	These, I am sure, are questions that the SIArb leadership have been thinking about, grappling with, and I am sure that it will come to terms with. 
