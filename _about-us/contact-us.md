@@ -35,9 +35,8 @@ The live chat will address enquiries on:
 * Criminal Defence Aid <i>(coming soon)</i>
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>The Online Enquiry will be undergoing maintenance and will be unavailable on the following dates:
-* Thursday, 17 Nov 2022 from 6pm to 10.30pm
-* Friday, 18 Nov 2022 from 6pm to 19 Nov 2022 12am
-* Tuesday, 22 Nov 2022 from 6pm to 23 Nov 2022 12am
+* Thursday, 15 Dec 2022 from 6pm to 10.30pm
+* Friday, 16 Dec 2022 from 6pm to 19 Dec 2022 8am
 <br><br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
 
