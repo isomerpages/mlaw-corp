@@ -35,7 +35,7 @@ image: ""
 <br>**15 DECEMBER 2022**
 
 
-<p><sup id="fn1">1. **For more information on the Meetings Orders, refer to MinLaw’s press releases on [31 March 2020](https://www.mlaw.gov.sg/news/press-releases/covid-19-relief-measures-upcoming-legislative-provisions-to-provide-legal-certainty-on-holding-of-meetings), [7 September 2020](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended), [29 September 2020](https://www.mlaw.gov.sg/news/press-releases/Refinements-to-Alternative-Arrangements-for-Meetings) and [6 April 2021](https://www.mlaw.gov.sg/news/press-releases/covid19-relief-measures-further-extension-of-alternative-arrangements-for-meetings).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. **For more information on the Meetings Orders, refer to MinLaw’s press releases on <a href="https://www.mlaw.gov.sg/news/press-releases/covid-19-relief-measures-upcoming-legislative-provisions-to-provide-legal-certainty-on-holding-of-meetings">31 March 2020</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended">7 September 2020</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/Refinements-to-Alternative-Arrangements-for-Meetings">29 September 2020</a> and <a href="https://www.mlaw.gov.sg/news/press-releases/covid19-relief-measures-further-extension-of-alternative-arrangements-for-meetings">6 April 2021</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
  
 <p class="right-side-updated">Last updated on 15 December 2022</p>
