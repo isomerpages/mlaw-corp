@@ -1,24 +1,18 @@
 ---
-title: '4) Alternative Arrangements for Meetings'
-permalink: /covid19-relief/alternative
-breadcrumb: '4) Alternative Arrangements for Meetings'
-
+title: 4) Alternative Arrangements for Meetings
+permalink: /covid19-relief/alternative/
+breadcrumb: 4) Alternative Arrangements for Meetings
 ---
-
 ### Alternative Arrangements for Meetings ###
-With the spread of COVID-19 infections, and the Government’s safe distancing measures to address this, personal attendance at meetings may not be feasible. However, applicable laws or legal instruments may not permit meetings to be held electronically. Difficulties in holding meetings may give rise to problems in transacting usual commercial and governance matters. 
+With the spread of COVID-19 infections, and the Government's Safe Management measures to address this, personal attendance at meetings may not have been feasible. However, applicable laws or legal instruments may not have permitted meetings to be held electronically. Difficulties in holding meetings might have given rise to problems in transacting usual commercial and governance matters.
 
-The Minister was empowered by Section 27 of the COVID-19 (Temporary Measures) Act (the "Act") to make orders to enable meetings to be convened, held and conducted by electronic means if necessary or expedient to limit or prevent the spread of COVID-19. 
+The COVID-19 (Temporary Measures) Act (the "Act") was introduced in April 2020. Section 27 of the Act empowered the Minister to make orders to enable meetings to be convened, held and conducted by electronic means, if necessary or expedient to limit or prevent the spread of COVID-19.
 
-The Orders give entities the option to hold electronic meetings. This will help keep physical interactions and COVID-19 transmission risks to a minimum, amid the continuing COVID-19 situation.
+The Orders give entities the option to hold electronic meetings. Electronic meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements, even if an electronic meeting is otherwise not allowed under other written law or legal instrument.
 
-Electronic meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements, even if an electronic meeting is otherwise not allowed under other written law or legal instrument. 
+Singapore has progressively transitioned towards living with COVID-19, and meetings can now take place physically. On 15 December 2022, MinLaw announced its intention to revoke the Orders with effect from 1 July 2023. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/covid19-relief-measures-further-extension-of-alternative-arrangements-for-meetings) for more information.
 
-The Orders were amended on 6 April 2021 to extend the alternative meeting arrangements beyond 30 June 2021 (their previous expiry date), until revoked or amended by MinLaw. 
-
-It is envisaged that the Orders will continue to be in force for at least as long as safe distancing measures are in force. MinLaw will give at least 6 months' advance notice before the alternative arrangements cease to be available. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/covid19-relief-measures-further-extension-of-alternative-arrangements-for-meetings) for more information.
-
-<!-- These Orders, which have effect from 27 March 2020, currently expire on 30 September 2020. The Ministry of Law plans to extend the duration of these Orders to 30 June 2021, if the President assents to the amendments to the Act permitting the Minister for Law to do so. Please refer to [this press release](https://www.mlaw.gov.sg/news/press-releases/Duration-of-Alternative-Arrangements-for-Meetings-to-be-Extended) for more information. -->
+Entities can continue to rely on the Orders to organise meetings up to 30 June 2023.
 
 <style type="text/css">	
 .tg  {border-collapse:collapse;border-spacing:0;}	
@@ -46,9 +40,13 @@ It is envisaged that the Orders will continue to be in force for at least as lon
       <br><br> 5. Debenture Holders	
     </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
-    <td class="tg-73oq"><a href="https://www.sgx.com/media-centre/20201001-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">Joint Statement by Accounting and Corporate Regulatory Authority (ACRA), Monetary Authority of Singapore (MAS) and Singapore Exchange Regulation (SGXRegco) Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (1 Oct 2020)</a>
+    <td class="tg-73oq"><a href="https://www.acra.gov.sg/announcements/acra's-support-measures-and-guidance-for-businesses-during-covid-19" target="_blank">Joint Press Release by Accounting and Corporate Regulatory Authority (ACRA) and Monetary Authority of Singapore (MAS): "Proposed Alternative Arrangements for Meetings Following the Cessation of the COVID-19 (Temporary Measures) Orders" (15 December 2022) </a>
     <br><br>
     <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 5 Oct 2020)</a> 
+			<br><br>
+    <a href="https://www.sgxgroup.com/media-centre/20220204-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">ACRA's, MAS' and SGX RegCo's Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (updated on 4 February 2022)</a> 
+						 <br><br>
+    <a href="https://www.sgxgroup.com/media-centre/20220523-regulators-column-live-engagement-and-voting-expected-all-agms-fys" target="_blank">SGX RegCo's Regulator's Column (23 May 2022) </a> 
     </td>	
     <td class="tg-73oq">For enquires pertaining to non-listed business trusts and non-listed unit trusts, please email MAS at <a href="mailto:webmaster@mas.gov.sg">webmaster@mas.gov.sg</a>
     <br><br>For enquires pertaining to listed issuers, please email SGX at <a href="mailto:Listingcompliance@sgx.com">Listingcompliance@sgx.com</a>
