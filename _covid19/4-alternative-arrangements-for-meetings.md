@@ -10,7 +10,7 @@ The COVID-19 (Temporary Measures) Act (the "Act") was introduced in April 2020. 
 
 The Orders give entities the option to hold electronic meetings. Electronic meetings carried out in accordance with the alternative meeting arrangements prescribed in the relevant Order shall be deemed to have complied with the relevant requirements, even if an electronic meeting is otherwise not allowed under other written law or legal instrument.
 
-Singapore has progressively transitioned towards living with COVID-19, and meetings can now take place physically. On 15 December 2022, MinLaw announced its intention to revoke the Orders with effect from 1 July 2023. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/covid19-relief-measures-further-extension-of-alternative-arrangements-for-meetings) for more information.
+Singapore has progressively transitioned towards living with COVID-19, and meetings can now take place physically. On 15 December 2022, MinLaw announced its intention to revoke the Orders with effect from 1 July 2023. Please refer to this [press release](https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023/) for more information.
 
 Entities can continue to rely on the Orders to organise meetings up to 30 June 2023.
 
