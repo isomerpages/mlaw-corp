@@ -41,8 +41,10 @@ Entities can continue to rely on the Orders to organise meetings up to 30 June 2
     </td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S269-2020?DocDate=20200413" target="_blank">Covid-19 Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020</a></td>	
     <td class="tg-73oq"><a href="https://www.acra.gov.sg/announcements/acra's-support-measures-and-guidance-for-businesses-during-covid-19" target="_blank">Joint Press Release by Accounting and Corporate Regulatory Authority (ACRA) and Monetary Authority of Singapore (MAS): "Proposed Alternative Arrangements for Meetings Following the Cessation of the COVID-19 (Temporary Measures) Orders" (15 December 2022) </a>
+			<br><br>
+    <a href="https://www.sgxgroup.com/media-centre/20221215-sgx-listed-issuers-return-physical-general-meetings-when-govts" target="_blank">SGX RegCo's News Release: SGX-listed issuers to return to physical general meetings when govt's (Temporary Measures) cease from 1 July 2023 (15 December 2022) </a>
     <br><br>
-    <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 5 Oct 2020)</a> 
+    <a href="https://www.sgx.com/keeping-marketplace-available-and-accessible-you#FAQs" target="_blank">SGX FAQs on the Holding of General Meetings (updated on 23 May 2022)</a> 
 			<br><br>
     <a href="https://www.sgxgroup.com/media-centre/20220204-guidance-conduct-general-meetings-amid-evolving-covid-19-situation" target="_blank">ACRA's, MAS' and SGX RegCo's Guidance on the Conduct of General Meetings Amid Evolving COVID-19 Situation (updated on 4 February 2022)</a> 
 						 <br><br>
