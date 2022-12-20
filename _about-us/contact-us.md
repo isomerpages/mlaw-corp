@@ -27,12 +27,12 @@ Timing: 830am to 1130am ~ 130pm to 430pm<br>
 The live chat will address enquiries on:
 * Individual Insolvency
 * Corporate Insolvency
+* Criminal Defence Aid 
 * Debt Repayment scheme
 * Licensing & Regulation of Insolvency Practitioners
 * Public Trustee
 * Registry of Moneylenders
 * Registry of Pawnbrokers
-* Criminal Defence Aid <i>(coming soon)</i>
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>The Online Enquiry will be undergoing maintenance and will be unavailable on the following dates:
 * Thursday, 15 Dec 2022 from 6pm to 10.30pm
@@ -57,13 +57,13 @@ You can send us your feedback and enquiries on the following issues:
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 * Legal Aid
+* Criminal Defence Aid
 * Community Mediation
 * Legal Services Regulation
 * Exemptions for Admission to the Singapore Bar
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
-* Licensing & Regulation of Insolvency Practitioners Division
-* Criminal Defence Aid <i>(coming soon)</i>
+* Licensing & Regulation of Insolvency Practitioners Division 
 
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
@@ -108,4 +108,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 19 Aug 2021</p>
+<p class="right-side-updated">Last updated on 01 Dec 2022</p>

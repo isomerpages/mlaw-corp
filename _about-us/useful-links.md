@@ -18,7 +18,7 @@ Useful Links
 
 * [Legal Aid Bureau](https://lab.mlaw.gov.sg/)
 
-* Public Defender's Office <i>(coming soon)</i>
+* [Public Defender's Office](https://pdo.mlaw.gov.sg/) 
 
 * [Public Trustee's Office](https://pto.mlaw.gov.sg/)
 
@@ -90,4 +90,4 @@ Useful Links
 
 * [Taking evidence for civil proceedings in Singapore from witnesses located overseas](https://www.singaporelawwatch.sg/About-Singapore-Law/Civil-Practice-ADR/requirements-of-foreign-jurisdictions-on-the-taking-of-evidence-given-voluntarily-by-way-of-live-video-link-from-a-witness-located-in-their-jurisdiction-in-civil-proceedings-before-singapore-courts/)
 
-<p class="right-side-updated">Last updated on 15 Mar 2022</p>
+<p class="right-side-updated">Last updated on 01 Dec 2022</p>
