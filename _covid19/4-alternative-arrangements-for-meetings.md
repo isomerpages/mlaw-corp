@@ -66,6 +66,7 @@ Entities can continue to rely on the Orders to organise meetings up to 30 June 2
     <a href="https://io.mlaw.gov.sg/corporate-insolvency/covid-19-faq/" target="_blank">FAQs on alternative meeting arrangements for corporate insolvency</a></td>	
 			<br><br>
     <a href="https://io.mlaw.gov.sg/files/ORPracticeCircular2of2022.pdf/" target="_blank">Official Receiver Practice Circular No. 2 of 2002 Cessation of Alternative Arrangements for Meetings from 1 July 2023 (15 December 2022) </a>
+	</td>	
     <td class="tg-73oq">For enquiries pertaining to corporate insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a></td>	
   </tr>	
   <tr>	
