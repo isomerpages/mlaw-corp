@@ -10,7 +10,7 @@ image: ""
 20 Dec 2022 Posted in [Announcements](/news/announcements)
 
 {:start="1"}
-1. The Ministry of Law announced on 15 December 2022 that the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders (the “Meetings Orders”), which enable various types of entities (including management corporations) to convene, hold or conduct meetings through electronic means, will cease on 1 July 2023, and that entities can continue to rely on the Meetings Orders to organise meetings up to 30 June 2023. Further information on this may be found at this [link] (https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023).
+1. The Ministry of Law announced on 15 December 2022 that the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders (the “Meetings Orders”), which enable various types of entities (including management corporations) to convene, hold or conduct meetings through electronic means, will cease on 1 July 2023, and that entities can continue to rely on the Meetings Orders to organise meetings up to 30 June 2023. Further information on this may be found at this <a href="https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023">link</a>.
 
 {:start="2"}
 2. For avoidance of doubt, management corporations (“MCSTs”) and collective sale committees (“CSCs”) may continue to hold meetings governed under the Land Titles (Strata) Act (“LTSA”) in-person, by electronic means or partial electronic means (i.e. a hybrid mode where some attendees attend in person while others attend the meeting online) under the Meeting Orders till 30 June 2023.
