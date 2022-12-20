@@ -27,12 +27,12 @@ Timing: 830am to 1130am ~ 130pm to 430pm<br>
 The live chat will address enquiries on:
 * Individual Insolvency
 * Corporate Insolvency
+* Criminal Defence Aid 
 * Debt Repayment scheme
 * Licensing & Regulation of Insolvency Practitioners
 * Public Trustee
 * Registry of Moneylenders
 * Registry of Pawnbrokers
-* Criminal Defence Aid <i>(coming soon)</i>
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>The Online Enquiry will be undergoing maintenance and will be unavailable on the following dates:
 * Thursday, 15 Dec 2022 from 6pm to 10.30pm
