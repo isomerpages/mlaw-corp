@@ -18,7 +18,7 @@ Useful Links
 
 * [Legal Aid Bureau](https://lab.mlaw.gov.sg/)
 
-* Public Defender's Office <i>(coming soon)</i>
+* [Public Defender's Office](https://pdo.mlaw.gov.sg/) 
 
 * [Public Trustee's Office](https://pto.mlaw.gov.sg/)
 
