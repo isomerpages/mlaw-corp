@@ -61,9 +61,11 @@ Entities can continue to rely on the Orders to organise meetings up to 30 June 2
   <tr>	
     <td class="tg-73oq">Corporate Insolvency</td>	
     <td class="tg-73oq"><a href="https://sso.agc.gov.sg/SL/COVID19TMA2020-S326-2020?DocDate=20200427" target="_blank">COVID 19 (Temporary Measures) (Alternative Arrangements for Meetings) (Corporate Insolvency) Order 2020</a></td>	
-    <td class="tg-73oq"><a href="https://io.mlaw.gov.sg/corporate-insolvency/practice-circulars/" target="_blank">Official Assignee / Official Receiver Practice Circular No. 1 of 2020 on Safe Distancing Measures for Meetings</a>	
+    <td class="tg-73oq"><a href="https://io.mlaw.gov.sg/corporate-insolvency/practice-circulars/" target="_blank">Official Assignee / Official Receiver Practice Circular No. 1 of 2020 on Safe Distancing Measures for Meetings (11 May 2020) </a>	
     <br><br>
     <a href="https://io.mlaw.gov.sg/corporate-insolvency/covid-19-faq/" target="_blank">FAQs on alternative meeting arrangements for corporate insolvency</a></td>	
+			<br><br>
+    <a href="https://io.mlaw.gov.sg/files/ORPracticeCircular2of2022.pdf/" target="_blank">Official Receiver Practice Circular No. 2 of 2002 Cessation of Alternative Arrangements for Meetings from 1 July 2023 (15 December 2022) </a>
     <td class="tg-73oq">For enquiries pertaining to corporate insolvency, please contact the Ministry of Law, Insolvency & Public Trustee Office via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a></td>	
   </tr>	
   <tr>	
@@ -118,6 +120,8 @@ For enquiries pertaining to mutual benefit organisations, please contact the Min
     <a href="https://go.gov.sg/bca-circular-agm-alternatives" target="_blank">Building & Construction Authority’s Circular on Convening of General Meeting via Alternative Electronic Means amid COVID-19 Situation (30 Sept 2020)</a>
     <br><br>
     <a href="https://www.mlaw.gov.sg/news/announcements/2020-04-27-guidance-on-convening-of-general-meetings-for-en-bloc-sales-and-meetings-of-collective-sale-committees-covid-19" target="_blank">Ministry of Law’s Guidance on Convening of General Meetings for En Bloc Sales and Meetings of Collective Sale Committees via Alternative Electronic Means amid COVID-19 Situation </a>
+			 <br><br>
+    <a href="https://www.mlaw.gov.sg/news/announcements/2022-12-20-update-on-convening-general-meeting-governed-under-ltsa/" target="_blank">Ministry of Law’s Update on Convening of General Meeting Convened under the Land Titles (Strata) Act (20 December 2022)
     </td>	
     <td class="tg-73oq">
     For enquiries pertaining to general meetings for en bloc sales and meetings of collective sale committees, please contact the Ministry of Law via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/"  target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>
