@@ -57,13 +57,13 @@ You can send us your feedback and enquiries on the following issues:
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 * Legal Aid
+* Criminal Defence Aid
 * Community Mediation
 * Legal Services Regulation
 * Exemptions for Admission to the Singapore Bar
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
-* Licensing & Regulation of Insolvency Practitioners Division
-* Criminal Defence Aid <i>(coming soon)</i>
+* Licensing & Regulation of Insolvency Practitioners Division 
 
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
@@ -108,4 +108,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:00pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 19 Aug 2021</p>
+<p class="right-side-updated">Last updated on 01 Dec 2022</p>
