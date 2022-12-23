@@ -27,7 +27,6 @@ Timing: 830am to 1130am ~ 130pm to 430pm<br>
 The live chat will address enquiries on:
 * Individual Insolvency
 * Corporate Insolvency
-* Criminal Defence Aid 
 * Debt Repayment scheme
 * Licensing & Regulation of Insolvency Practitioners
 * Public Trustee
