@@ -34,9 +34,10 @@ The live chat will address enquiries on:
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 
-If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>The Online Enquiry will be undergoing maintenance and will be unavailable on the following dates:
-* Thursday, 15 Dec 2022 from 6pm to 10.30pm
-* Friday, 16 Dec 2022 from 6pm to Monday, 19 Dec 2022 8am
+If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br><br>
+Minlaw will be conducting maintenance activities on our hotline from 23 Dec 2022, 6 pm to 24 Dec 2022, 10 pm.  
+
+During this period, the voicemail service of our hotline will be unavailable. Please use our online enquiry form to submit your queries.  We apologise for any inconvenience caused.
 <br><br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
 
