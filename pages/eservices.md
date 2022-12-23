@@ -17,7 +17,7 @@ The following e-Services will be undergoing maintenance and will be unavailable 
 *   Individual Insolvency eServices from Insolvency Office
 <br>
 
-Members of public are advised to avoid using our e-Services during the system maintenance periods where possible. Alternatively members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding. 
+Members of public are advised to avoid using our e-Services during the system maintenance periods where possible. Alternatively members of public may reach out to us by submitting the [online enquiry form](https://go.gov.sg/contactminlaw) and we will respond by the next working day. We appreciate your patience and understanding. 
 <br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
