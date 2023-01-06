@@ -1,18 +1,15 @@
 ---
-title: 'Legal Support Resources Available to Members of the Public'
+title: Legal Support Resources Available to Members of the Public
 date: 2020-09-24T00:00:00.000Z
-permalink: /news/announcements/Legal-Support-Resources-Available-to-Members-of-the-Public
-
+permalink: /news/announcements/Legal-Support-Resources-Available-to-Members-of-the-Public/
 ---
-
-
 24 SEP 2020 Posted in [Announcements](/news/announcements)
 
 1.  The Ministry of Law and many of our partners provide legal assistance to those who need it:
  
 a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) for more information on the eligibility criteria and to submit an online application.
  
-b. Law Society Pro Bono Services (LSPBS) provides criminal legal aid to accused persons with limited means, for matters which the Courts continue to hear. Please visit [https://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx#apply](https://www.lawsocprobono.org/Pages/Criminal-Legal-Aid-Scheme.aspx#apply) for further details.
+b. The Public Defender's Office (PDO) and Pro Bono SG (PBSG) provide criminal defence aid to accused persons with limited means who are charged with non-capital offences. Please visit [https://pdo.mlaw.gov.sg](https://pdo.mlaw.gov.sg) for further details.
  
 c. Law Society Pro Bono Services’ Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
  
@@ -37,5 +34,4 @@ f. [The Singapore Legal Advice website](https://singaporelegaladvice.com/) has a
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b>24 SEP 2020</b>
-
+<b><i>Last updated 05 Jan 2023</i></b>
