@@ -11,7 +11,7 @@ a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal
  
 b. The Public Defender's Office (PDO) and Pro Bono SG (PBSG) provide criminal defence aid to accused persons with limited means who are charged with non-capital offences. Please visit [https://pdo.mlaw.gov.sg](https://pdo.mlaw.gov.sg) for further details.
  
-c. Law Society Pro Bono Services’ Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
+c. Law Society’s Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
  
 d. A number of other legal clinics in Singapore provide legal advice. Refer to <u>Annex A</u> for details on the eligibility criteria and how to make an appointment.
  
