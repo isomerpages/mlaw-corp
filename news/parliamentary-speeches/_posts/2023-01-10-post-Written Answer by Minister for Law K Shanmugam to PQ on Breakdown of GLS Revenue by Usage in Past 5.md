@@ -17,10 +17,10 @@ image: ""
 **<b><u>Written Answer:</u></b>** 
 
 {:start="1"} 
-1.  The Family Justice Courts (FJC) have been working on a  probate e-service that will make the probate process easier and simpler, for applicants with straightforward probate applications.
+1.  The sale of State land to the private sector for development is primarily conducted through the Government Land Sales Programme (GLS). The Housing and Development Board (HDB), JTC Corporation, and the Urban Redevelopment Authority (URA) are appointed as the Government's land sales agents.
 
 {:start="2"} 
-2.  As announced in March 2022, key features of the probate e-service will include the automatic population of data through integration with MyInfo, and the use of guided questions. Applicants using the e-service will no longer need to file death certificates if the relevant information can be obtained by the e-service directly from a government agency. The FJC is also studying how the application process can be further streamlined, including by reducing the number of steps that an applicant needs to take before the relevant application is granted. The FJC will also explore whether digital signing  capabilities can be added, in future enhancements.
+2.  From FY2017 to FY2021, sales proceeds of State land from GLS averaged $5.5 billion annually. This includes GLS sites for commercial, industrial1, private residential, mixed-use (such as mixed commercial and residential developments), and other uses. The historical data on tender prices for GLS sites and their specific uses can be found on the HDB, URA, and JTC websites.
 
 {:start="3"} 
 3.  The FJC is engaging stakeholders, including members of the family Bar, on the probate e-service, and will consider their feedback in the final design of the system. 
