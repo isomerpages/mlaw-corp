@@ -9,12 +9,11 @@ breadcrumb: E-Services
 
 
 The following e-Services will be undergoing maintenance and will be unavailable from Friday, 13 Jan 2023, 6pm to Sunday, 15 Jan 2023, 8pm:
-</br>•	Legal Services Regulatory Authority </br>
-•	Exemptions </br>
-•	Community Mediation Centre </br>
-•	Individual Insolvency eServices from Insolvency Office </br>
+- Legal Services Regulatory Authority
+- Exemptions
+- Community Mediation Centre 
+- Individual Insolvency eServices from Insolvency Office
 We apologise for any inconvenience caused.
-
 
 
 New Insolvency Office (IO) E-Services: We have launched our new Debt Repayment Scheme E-Services on 21 June 2022. The new E-Services have new features and members of the public will have access to guides to navigate the E-Services with ease. The new features include: 1) Online portal for Debtors and Creditors to access DRS E-Services, 2) Singpass login for easy access and secure user authentication, 3) A cleaner, guided and more user-friendly user interface, 4) Dashboard for consolidated views of submissions and statuses, 5) Step-by-step indicator to show your progress in filling up the form, and 6) Draft application form to save your entry and continue later. Things to Note:  You need a valid Singpass or Corppass account to access the new E-Services. For foreigners (non PR or FIN holder), you will be required to register for a Singpass for Foreigner.
