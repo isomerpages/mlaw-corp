@@ -23,9 +23,9 @@ image: ""
 2.  From FY2017 to FY2021, sales proceeds of State land from GLS averaged $5.5 billion annually. This includes GLS sites for commercial, industrial1, private residential, mixed-use (such as mixed commercial and residential developments), and other uses. The historical data on tender prices for GLS sites and their specific uses can be found on the HDB, URA, and JTC websites.
 
 {:start="3"} 
-3.  The FJC is engaging stakeholders, including members of the family Bar, on the probate e-service, and will consider their feedback in the final design of the system. 
+3.  Sale of State land to HDB for public residential development does not fall under GLS. For information on proceeds to SLA paid by HDB for the purchase of State land, the Member may refer to HDB's annual financial statements reports, which are published on HDB's website.
 
 {:start="4"} 
-4.  The FJC currently intends to launch the system in the first half of 2023, although this is subject to developmental progress. The system will initially be used for straightforward probate cases, with capacity progressively ramped up over time.
+4.  As explained before in this House2, State land is part of Past Reserves. When land is sold, no wealth is created. The physical land, which is part of the Reserves, is converted into money which goes into the Reserves. The proceeds from the sale of State land thus go to the Past Reserves. The Government cannot use these monies.
 
 <p class="right-side-updated">Last updated on 10 January 2023</p>
