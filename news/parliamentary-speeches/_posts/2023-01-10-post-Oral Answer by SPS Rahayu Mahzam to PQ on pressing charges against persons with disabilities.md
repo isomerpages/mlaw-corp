@@ -1,6 +1,5 @@
 ---
-title: Oral Answer by SPS Rahayu Mahzam to PQ on pressing charges against
-  persons with disabilities
+title: Oral Answer by SPS Rahayu Mahzam to PQ on Factors Taken Into Consideration When Deciding Whether To Press Charges Against Persons With Disabilities
 permalink: /news/parliamentary-speeches/press-charges-against-persons-with-disabilities/
 date: 2023-01-10
 layout: post
