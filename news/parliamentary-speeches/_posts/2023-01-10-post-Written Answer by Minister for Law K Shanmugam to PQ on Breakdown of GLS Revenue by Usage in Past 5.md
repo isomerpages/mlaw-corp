@@ -20,12 +20,12 @@ image: ""
 1.  The sale of State land to the private sector for development is primarily conducted through the Government Land Sales Programme (GLS). The Housing and Development Board (HDB), JTC Corporation, and the Urban Redevelopment Authority (URA) are appointed as the Government's land sales agents.
 
 {:start="2"} 
-2.  From FY2017 to FY2021, sales proceeds of State land from GLS averaged $5.5 billion annually. This includes GLS sites for commercial, industrial1, private residential, mixed-use (such as mixed commercial and residential developments), and other uses. The historical data on tender prices for GLS sites and their specific uses can be found on the HDB, URA, and JTC websites.
+2.  From FY2017 to FY2021, sales proceeds of State land from GLS averaged $5.5 billion annually. This includes GLS sites for commercial, industrial<sup><a href="#fn1" id="ref1">1</a></sup>, private residential, mixed-use (such as mixed commercial and residential developments), and other uses. The historical data on tender prices for GLS sites and their specific uses can be found on the HDB, URA, and JTC websites.
 
 {:start="3"} 
 3.  Sale of State land to HDB for public residential development does not fall under GLS. For information on proceeds to SLA paid by HDB for the purchase of State land, the Member may refer to HDB's annual financial statements reports, which are published on HDB's website.
 
 {:start="4"} 
-4.  As explained before in this House2, State land is part of Past Reserves. When land is sold, no wealth is created. The physical land, which is part of the Reserves, is converted into money which goes into the Reserves. The proceeds from the sale of State land thus go to the Past Reserves. The Government cannot use these monies.
+4.  As explained before in this House<sup><a href="#fn2" id="ref2">2</a></sup>, State land is part of Past Reserves. When land is sold, no wealth is created. The physical land, which is part of the Reserves, is converted into money which goes into the Reserves. The proceeds from the sale of State land thus go to the Past Reserves. The Government cannot use these monies.
 
 <p class="right-side-updated">Last updated on 10 January 2023</p>
