@@ -20,6 +20,8 @@ Have questions?
 <div class="paragraphs">
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
+All Ministry of Law’s e-Services will be undergoing maintenance and will be unavailable on 13 Jan 2023 from 6pm to 15 Jan 2023 8am. 
+
   <b>Our Live Chat Agents are available from:</b><br>
 Days: Mondays to Fridays<br>
 Timing: 830am to 1130am ~ 130pm to 430pm<br>
