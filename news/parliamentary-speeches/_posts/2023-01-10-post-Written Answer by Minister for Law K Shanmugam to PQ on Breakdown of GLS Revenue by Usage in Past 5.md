@@ -28,4 +28,10 @@ image: ""
 {:start="4"} 
 4.  As explained before in this House<sup><a href="#fn2" id="ref2">2</a></sup>, State land is part of Past Reserves. When land is sold, no wealth is created. The physical land, which is part of the Reserves, is converted into money which goes into the Reserves. The proceeds from the sale of State land thus go to the Past Reserves. The Government cannot use these monies.
 
+ * * *
+ 
+ <p><sup id="fn1">1. Refers to sale of State land by JTC under the Industrial GLS programme.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+
+<p><sup id="fn2">2. Refer to Singapore Parl Debates; Vol 95, Sitting No 73; 7 November 2022.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
 <p class="right-side-updated">Last updated on 10 January 2023</p>
