@@ -20,7 +20,7 @@ Have questions?
 <div class="paragraphs">
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
-All Ministry of Law’s e-Services will be undergoing maintenance and will be unavailable on 13 Jan 2023 from 6pm to 15 Jan 2023 8am. 
+
 
   <b>Our Live Chat Agents are available from:</b><br>
 Days: Mondays to Fridays<br>
@@ -67,6 +67,9 @@ You can send us your feedback and enquiries on the following issues:
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
 </div><br>
+
+All Ministry of Law’s e-Services will be undergoing maintenance and will be unavailable on 13 Jan 2023 from 6pm to 15 Jan 2023 8am. 
+
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
