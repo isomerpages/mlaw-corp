@@ -8,10 +8,11 @@ breadcrumb: E-Services
 
 
 
-The following e-Services will be undergoing maintenance and will be unavailable from Friday, 13 Jan 2023, 6pm to 15 Jan 2023 8pm:
+The following e-Services will be undergoing maintenance and will be unavailable from Friday, 13 Jan 2023, 6pm to Sunday, 15 Jan 2023, 8pm:
 </br>•	Legal Services Regulatory Authority </br>
 •	Exemptions </br>
 •	Community Mediation Centre </br>
+•	Individual Insolvency eServices from Insolvency Office </br>
 We apologise for any inconvenience caused.
 
 
