@@ -16,7 +16,6 @@ On 13 Jan 2023 6.00pm to 15 Jan 2023 8pm, the following eServices will be unavai
 *	MinLaw Online Enquiries
 
 During the downtime, members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding.
-
 <br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
