@@ -8,16 +8,16 @@ breadcrumb: E-Services
 
 
 
-The following e-Services will be undergoing maintenance and will be unavailable from Friday, 13 Jan 2023, 6pm to Sunday, 15 Jan 2023, 8pm:
-- Legal Services Regulatory Authority
-- Exemptions
-- Community Mediation Centre 
-- Individual Insolvency eServices from Insolvency Office
-We apologise for any inconvenience caused.
-
 
 New Insolvency Office (IO) E-Services: We have launched our new Debt Repayment Scheme E-Services on 21 June 2022. The new E-Services have new features and members of the public will have access to guides to navigate the E-Services with ease. The new features include: 1) Online portal for Debtors and Creditors to access DRS E-Services, 2) Singpass login for easy access and secure user authentication, 3) A cleaner, guided and more user-friendly user interface, 4) Dashboard for consolidated views of submissions and statuses, 5) Step-by-step indicator to show your progress in filling up the form, and 6) Draft application form to save your entry and continue later. Things to Note:  You need a valid Singpass or Corppass account to access the new E-Services. For foreigners (non PR or FIN holder), you will be required to register for a Singpass for Foreigner.
 
+On 13 Jan 2023 6.00pm to 15 Jan 2023 8pm, the following eServices will be unavailable:
+•	Legal Services Regulatory Authority
+•	Exemptions
+•	Community Mediation Centre
+•	MinLaw Online Enquiries
+
+During the downtime, members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding.
 
 
 Members of public are advised to avoid using our e-Services during the system maintenance periods where possible. Alternatively members of public may reach out to us by submitting the [online enquiry form](https://go.gov.sg/contactminlaw) and we will respond by the next working day. We appreciate your patience and understanding. 
