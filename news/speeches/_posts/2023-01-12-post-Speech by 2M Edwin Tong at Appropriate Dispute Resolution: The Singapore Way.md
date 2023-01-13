@@ -28,7 +28,7 @@ Ladies and Gentlemen
 {:start="2"}
 2.	It is great to be here, to support three of our key dispute resolution institutions – SICC, SIAC, and SIMC. What we regard as the triumvirate of dispute resolution institutions.
 
-** The “International Dispute Resolution” Trilogy**
+**The “International Dispute Resolution” Trilogy**
 
 {:start="3"}
 3.	As the saying goes, “good things come in threes” – from fairytales, such as the Three Little Pigs, Goldilocks and the Three Bears, and Aladdin’s three wishes, to blockbusters, such as The Lord of the Rings, Back to the Future, and The Godfather.
@@ -41,6 +41,7 @@ Ladies and Gentlemen
 
 {:start="6"}
 6.	Therefore, what we strive to offer is really to have a selection of tools in a toolbox – able, ready and willing to meet and deal with situations. We may not be able to have all the tools, but we can have the most essential tools that will resolve majority of disputes, either on its own, or in combination.
+
 **Mixed Mode (Hybrid) Dispute Resolution and Launch of Litigation-Mediation-Litigation Protocol**
 
 {:start="7"}
