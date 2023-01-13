@@ -58,39 +58,39 @@ Ladies and Gentlemen
 {:start="11"}
 11.	Over the years, the firm has produced some of the sharpest legal personalities that we know. 
 
-   a)	Mr Wee Swee Teow was one of the most notable and outstanding Asian lawyers of that era. 
+    a)	Mr Wee Swee Teow was one of the most notable and outstanding Asian lawyers of that era. 
 
-   b)	His son, Mr Wee Eng Lock, was one of the most distinguished conveyancers of his time. 
+    b)	His son, Mr Wee Eng Lock, was one of the most distinguished conveyancers of his time. 
 
-   c)	And of course, Mr Wee Chong Jin – the first Asian Chief Justice of Singapore. 
+    c)	And of course, Mr Wee Chong Jin – the first Asian Chief Justice of Singapore. 
 
-   d)	Mr Giam Chin Toon himself was amongst the first group of lawyers to be appointed Senior Counsel – the first original 12 Senior Counsel.
+    d)	Mr Giam Chin Toon himself was amongst the first group of lawyers to be appointed Senior Counsel – the first original 12 Senior Counsel.
 
 {:start="12"}
 12.	I would like to also give a shout out to Mr T.P.B. Menon. 
 
-   a)	Mr Menon is quiet and unassuming, but he is a legal giant. 
+    a)	Mr Menon is quiet and unassuming, but he is a legal giant. 
 
-   b)	I remember many years ago, when I was a young lawyer, I came up against Mr Menon in a trust case. 
+    b)	I remember many years ago, when I was a young lawyer, I came up against Mr Menon in a trust case. 
 
-   c)	Mr Menon is described by former Chief Justice Chan Sek Keong, as “the most experienced property and trust lawyer in private practice”. And here I was – young lawyer wet behind the ears, up against Mr Menon in court. I was petrified. 
+    c)	Mr Menon is described by former Chief Justice Chan Sek Keong, as “the most experienced property and trust lawyer in private practice”. And here I was – young lawyer wet behind the ears, up against Mr Menon in court. I was petrified. 
 
-   d)	But the moment I got into court, even before we stepped into chambers, he put me at ease. He did not let his experience or seniority overwhelm me. 
+    d)	But the moment I got into court, even before we stepped into chambers, he put me at ease. He did not let his experience or seniority overwhelm me. 
 
-   e)	As a young lawyer, I felt that, even though we were on opposite sides, this was something to be cherished, as part of something special in our fraternity. We had different objectives and different instructions. He was obviously how to win his case, and I was trying my hardest not to lose too badly!
+    e)	As a young lawyer, I felt that, even though we were on opposite sides, this was something to be cherished, as part of something special in our fraternity. We had different objectives and different instructions. He was obviously how to win his case, and I was trying my hardest not to lose too badly!
 
-   f)	But Mr Menon always had a kind word of advice, and that was what struck me for many, many years. I think that was something special, not just about what Mr Menon had done, but certainly in the rich history and cultural heritage of a firm like Wee Swee Teow. So, thank you very much, Mr Menon!
+    f)	But Mr Menon always had a kind word of advice, and that was what struck me for many, many years. I think that was something special, not just about what Mr Menon had done, but certainly in the rich history and cultural heritage of a firm like Wee Swee Teow. So, thank you very much, Mr Menon!
 
 {:start="13"}
 13.	On top of producing the sharpest legal minds in Singapore, what is also very commendable is that many of them have stepped forward to serve in various capacities. 
 
-   a)	Many have served in public offices. Let me just give a few. 
+    a)	Many have served in public offices. Let me just give a few. 
 
 i.	In Parliament (formerly known as the Legislative Council, or the Legislative Assembly), we had Mr Wee Swee Teow, who served multiple terms as a nominated member. There was also Mr George Noel Edward Oehlers, who served as Speaker of Parliament. And of course, today, we have Mr Raj Joshua Thomas, my erstwhile colleague when I was in practice.
 
 ii.	We also had lawyers who sat on government boards, tribunals, panels, committees, commissions, and councils – all ready to stand and answer the call of service to the country. 
 
-   b)	Many have also served in various capacities in educational institutions, professional bodies, non-profit and welfare organisations, clubs, and associations. 
+b)	Many have also served in various capacities in educational institutions, professional bodies, non-profit and welfare organisations, clubs, and associations. 
 
 i.	Mr Lee Soo Chye, for instance, presently serves on various non-profit and welfare organisations, both as a board member, and also lending his skills as a legal adviser.
 
