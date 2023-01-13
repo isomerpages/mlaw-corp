@@ -9,8 +9,6 @@ image: ""
 ---
 11 January 2023 Posted in [[Speeches](/news/speeches)]
 
-Justice Philip Jeyaretnam, President of the Singapore International Commercial Court (SICC)
-
 Mr Giam Chin Toon SC, Chairman of Wee Swee Teow LLP
 
 Mr Lee Soo Chye, Managing Partner of Wee Swee Teow LLP
