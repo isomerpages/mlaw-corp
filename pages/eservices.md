@@ -5,14 +5,6 @@ breadcrumb: E-Services
 ---
 **E-Services**
         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-alt:"Calisto MT"; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:"Arial Rounded MT Bold"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
-On 13 Jan 2023 6.00pm to 15 Jan 2023 8pm, the following eServices will be unavailable:
-*	Legal Services Regulatory Authority
-*	Exemptions
-*	Community Mediation Centre
-*	MinLaw Online Enquiries
-
-During the downtime, members of public may reach out to us by leaving us a voicemail through our hotline at 1800 2255 529 and we will respond by the next working day. We appreciate your patience and understanding.
 <br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)	
