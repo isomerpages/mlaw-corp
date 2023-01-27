@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 26 January 2023 Posted in [[Speeches](/news/speeches)]
 
 <b>Organisers</b> (Singapore Land Authority, and Singapore Space and Technology Limited) 
@@ -22,7 +21,7 @@ image: ""
 {:start="2"}
 2.	First, let me start by thanking all of you for making adjustments to your schedules to accommodate me and allow me to be present here. I am very glad that it worked out so well, for all of us and for me in particular, to be here to see the designs, and to be here for the teams. I think we understand the sense of not just what technology is about, but really, developing technology for local and everyday uses. I think that is what you want to have technology for - not for it to master us, but for us to master technology and apply it for specific purposes to help us in our daily lives.
 
-** GNSS Innovation Challenge **
+**GNSS Innovation Challenge**
 
 {:start="3"}
 3.	I wanted to come here also because I wanted to see what is it that our students have been busy with, in response to SLA’s problem statement, which is to leverage SLA’s <u>S</u>ingapore Satellite Positioning <u>R</u>eference <u>N</u>etwork <u>T</u>echnology (or SiReNT for short), and also to see how they can develop an autonomous solution, that can deliver food and parcels, especially to the elderly, those who have mobility issues, those not so conversant in technology, and how we can use that to bridge the gap.
