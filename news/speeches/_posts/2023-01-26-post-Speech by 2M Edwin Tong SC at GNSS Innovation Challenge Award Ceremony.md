@@ -8,7 +8,9 @@ image: ""
 ---
 26 January 2023 Posted in [[Speeches](/news/speeches)]
 
-<b>Organisers</b> (Singapore Land Authority, and Singapore Space and Technology Limited), <b>judges, participants, and mentors</b> of this year’s Global Navigation Satellite System (GNSS) Innovation Challenge
+<b>Organisers</b> (Singapore Land Authority, and Singapore Space and Technology Limited) 
+
+<b>Judges, participants, and mentors</b> of this year’s Global Navigation Satellite System (GNSS) Innovation Challenge
 
 **Introduction**
 
