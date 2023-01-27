@@ -46,7 +46,7 @@ image: ""
 9.	The GNSS Innovation Challenge, which was introduced in 2021, is part of SLA’s vision to be at the forefront of geospatial development. I think this is a really important area. That is also part of Singapore’s vision to be a smart nation.
 
 {:start="10"}
-9.	SLA’s geospatial efforts focus on 3Ps:
+10.	SLA’s geospatial efforts focus on 3Ps:
 
     a.	The Public sector: How can the public sector leverage geospatial technology to inform policies as we plan, as we think about how to provide services to businesses and individuals in Singapore? For example, it can be used to decide where the Government should build a new hospital, looking at the surrounding areas, analysing it and coming up with detailed plans, or perhaps to locate a community club that should reside at the heart of where people are in the middle of the community. 
 
