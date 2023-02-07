@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on AG's
-  Investigations or Decisions Made in COP
-permalink: /news/parliamentary-speeches/2023-02-07-written-pq-AGC-investigations-decisions-COP/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Updates on Recommendations Made In Report Of Committee Of Privileges, Parliamentary Paper 13 of 2022, Presented on 10 February 2022
+permalink: /news/parliamentary-speeches/2023-02-07-written-pq-updates-recommendations-made-in-report-of-cop/
 date: 2023-02-07
 layout: post
 description: ""
