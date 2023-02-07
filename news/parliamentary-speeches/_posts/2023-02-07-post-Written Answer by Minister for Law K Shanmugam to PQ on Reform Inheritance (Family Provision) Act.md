@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Reform
-  Inheritance (Family Provision) Act
-permalink: /news/parliamentary-speeches/2023-02-07-written-pq-reform-inheritance-family-provision-act-1966/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Reform Inheritance (Family Provision) Act 1966 To Allow Extension Of Legal Duty Of Natural Parent To Maintain An Illegitimate Child After Death
+permalink: /news/parliamentary-speeches/2023-02-07-written-pq-reform-inheritance-family-provision-act-1966-to-allow-extension-of-legal-duty-to-maintain-illegitimate-child
 date: 2023-02-07
 layout: post
 description: ""
