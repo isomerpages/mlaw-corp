@@ -1,5 +1,7 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Transfer of Institutional Knowledge as SLA Takes Over State Land Management Within HDB Estates from HDB
+title: Written Answer by Minister for Law K Shanmugam to PQ on Transfer of
+  Institutional Knowledge as SLA Takes Over State Land Management Within HDB
+  Estates from HDB
 permalink: /news/parliamentary-speeches/2023-02-07-written-pq-transfer-institutional-knowledge-sla-state-land-management-within-hdb-estates/
 date: 2023-02-07
 layout: post
@@ -16,7 +18,7 @@ image: ""
 **<b><u>Written Answer:</u></b>** 
 
 {:start="1"} 
-1.  With effect from 1 March 2023, SLA will take over the management of all State land within HDB estates. With this change, all applications for interim use of vacant State land and properties, within and outside HDB estates, will be handled by SLA. This will allow for greater administrative and operational efficiency. SLA and HDB have worked through the transition process to ensure that the transition will be as seamless as possible for existing users of State land and properties within HDB estates.
+1.  With effect from 1 March 2023, the Singapore Land Authority (SLA) will take over the management of all State land within HDB estates. With this change, all applications for interim use of vacant State land and properties, within and outside HDB estates, will be handled by SLA. This will allow for greater administrative and operational efficiency. SLA and HDB have worked through the transition process to ensure that the transition will be as seamless as possible for existing users of State land and properties within HDB estates.
 
 {:start="2"} 
 2.             SLA and HDB have worked closely to ensure the preservation of data, institutional knowledge and expertise in relation to the management of vacant State land within HDB estates. The existing HDB team managing the State land portfolio will be transferred to SLA and will continue to manage State land matters within HDB estates, such as the issuance of Temporary Occupation Licences (TOLs) and handling of municipal feedback.
