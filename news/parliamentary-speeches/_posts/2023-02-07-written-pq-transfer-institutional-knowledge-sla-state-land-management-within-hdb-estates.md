@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Transfer of
-  Institutional Knowledge
-permalink: /news/parliamentary-speeches/2022-02-07-written-pq-transfer-institutional-knowledge-sla-state-land/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Transfer of Institutional Knowledge as SLA Takes Over State Land Management Within HDB Estates from HDB
+permalink: /news/parliamentary-speeches/2023-02-07-written-pq-transfer-institutional-knowledge-sla-state-land-management-within-hdb-estates/
 date: 2023-02-07
 layout: post
 description: ""
