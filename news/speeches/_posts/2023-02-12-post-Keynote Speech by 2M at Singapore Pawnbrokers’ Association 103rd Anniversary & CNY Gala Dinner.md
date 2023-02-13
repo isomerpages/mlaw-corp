@@ -38,61 +38,53 @@ Ladies and gentlemen
 6.	It has also.
 
 {:start="7"}
-7.	In Singapore, we provide legal aid for those who may not be able to afford legal assistance, but must go to Court to resolve their legal issues.
+7.	Most.
 
 {:start="8"}
-8.	Most.
+8.	SPA's.
 
 {:start="9"}
-9.	All of these measures go towards ensuring that access to justice remains at the forefront of our mission at the Ministry of Law.
+9.	Due to.
 
 {:start="10"}
-10.	We will continue to work with the key stakeholders in our ecosystem to do so, to make refinements to our system and our coverage, to ensure that this access is not just extended to people, but is kept current and meets the current context, norms and demands.
-
-**III. <u>COMMUNITY LAW CENTRES</u>**
+10.	For example, .
 
 {:start="11"}
-11.	One such example is this new initiative by PBSG.
+11.	Pawnbrokers.
 
 {:start="12"}
-12.	Today we are here to talk about the newly established CLCs. The CLCs will further enhance access to justice by making that access accessible, by locating in the heartlands, by being in a place where people feel comfortable going to.
+12.	SPA might be.
 
 {:start="13"}
-13.	Earlier, I had a chat with our law advocates at the CLC. They told us that even before it was opened, people already peered into their window and asked how they can be helped, what services can be performed. I think this is the hallmark and essence of the CLC, to be located in a place which people do not feel uncomfortable or out of place, and they are able to freely walk up to the CLC to ask for assistance.
+13.	These actions.
 
 {:start="14"}
-14.	Also for the first time, there will be full-time community lawyers serving the community through the CLCs. This will be eventually embedded in all five CDC districts.
+14.	On my part, .
 
 {:start="15"}
-15.	These lawyers will be able to provide legal advice and assistance on a whole range of legal issues.  
+15.	In May 2022, .  
 
 {:start="16"}
-16.	For example, individuals who live in Hougang and the surrounding neighbourhoods can now seek legal support at Tian De Temple instead of having to travel downtown to their lawyer’s office, which could be much further away. So it is not just access in the sense of being able to access the legal system and legal assistance, but access from the aspect of convenience, in the heart of where you live.
+16.	We have since.
 
-(a)       Volunteer your time and expertise to the CLCs – they will value it tremendously;
+(a)       For example, .
 
-(b)       Contribute financially to the CLCs; or
+(b)       We also allowed.
 
 {:start="17"}
-17.	The larger aim of this initiative is to be able to provide integrated legal care to residents by addressing both their legal needs and also on issues that go beyond legal issues. Very often, pro bono lawyers who serve in the community will tell you that the problem people face when it comes to a legal problem, is not just the legal issue they are confounded with. Oftentimes, the legal problem is a manifestation and a symptom of a deeper, more important, perhaps social issue.
+17.	On top of that, .
 
 {:start="18"}
-18.	That is why this integrated care is necessary.
+18.	With these combined efforts, .
 
 {:start="19"}
-19.	Often, these individuals, as I said, are not just face legal issues but also financial ones, family difficulties, or social issues. These issues often go beyond the legal realm.
+19.	Before.
 
 {:start="20"}
-20.	So the CLCs help to plug this gap.
+20.	We look forward.
 
 {:start="21"}
-21.	CLC lawyers will work with other organisations and partners within the community to provide a holistic solution, working to provide a network of support, perhaps from:
-
-(a)       Family Service Centres,
-
-(b)       The Ministry of Social and Family Development’s Social Service Offices, and
-
-(c)       Other Social Service Agencies that reside in the community.
+21.	Once again, .
 
 {:start="22"}
 22.	Thank you.
