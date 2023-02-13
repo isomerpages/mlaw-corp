@@ -23,7 +23,7 @@ Ladies and gentlemen
 1.	Good evening, everyone. It is very nice to see that we are still celebrating Chinese New Year, even after the 15 days. I think we deserve it because the last couple of years, we have not been able to celebrate in this way. So we should celebrate well beyond the 15 days! Let me start by wishing everyone a happy Chinese New Year.
 
 {:start="2"}
-2.	让我趁这个机会跟大家拜个年。祝你新年快乐，身体健康，事事平安，国泰民安！.
+2.	让我趁这个机会跟大家拜个年。祝你新年快乐，身体健康，事事平安，国泰民安！
 
 {:start="3"}
 3.	I am very honoured to be here tonight, for the 103rd anniversary celebrated by SPA, with you in person. This is especially since SPA’s last Chinese New Year gathering like this was in 2018. Very glad that we can now celebrate in person, re-acclaim ourselves, and meet our old friends.
