@@ -9,9 +9,9 @@ image: ""
 ---
 12 February 2023 Posted in [[Speeches](/news/speeches)]
 
-**Mr Gregory Vijayendran SC**, Chairman of Pro Bono SG
+**Mr Ivan Ho**,          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:11.0pt; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> President of the Singapore Pawnbrokers’ Association (SPA)
 
-**Mr Richard Siaw**, Managing Director of R S Solomon LLC
+**Mr Lim Biow Chuan**,          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:11.0pt; mso-ansi-font-size:11.0pt; mso-bidi-font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> Honorary Advisory MP
 
 SPA committee members
 
@@ -20,30 +20,28 @@ Distinguished guests
 Ladies and gentlemen
 
 {:start="1"}
-1.	A very good evening to everyone. Let me start by giving all of you very warm wishes and most importantly, a healthy Lunar New Year.
+1.	Good evening.
 
 {:start="2"}
-2.	I am very heartened and so happy to be here for the opening of the Community Law Centre (CLC). I think this is certainly a milestone event and one that we as a community can look forward to. And those who are responsible for setting it up and performing the services at the CLC will look with pride that today, we have set it up.
-
-**II. <u>ENHANCING ACCESS TO JUSTICE</u>**
+2.	I.
 
 {:start="3"}
-3.	The heart of Pro Bono SG’s (PBSG’s) new initiative at the end of the day is about enhancing access to justice.
+3.	I am very honoured.
 
 {:start="4"}
-4.	Access to justice is an important, fundamental pillar in our justice system. What does access to justice mean? Well, put very simply, it means that people who need to seek recourse and remedies from our legal system for their grievances, to service their claims, can find that access when they need to.
+4.	Ever since.
 
 {:start="5"}
-5.	It is one thing to have a first-class legal system, but that first-class legal system must also be accessible to everyone.
+5.	SPA.
 
 {:start="6"}
-6.	My Ministry firmly believes in this mission and we continue to work hard to advance access to justice.
+6.	It has also.
 
 {:start="7"}
 7.	In Singapore, we provide legal aid for those who may not be able to afford legal assistance, but must go to Court to resolve their legal issues.
 
 {:start="8"}
-8.	To provide legal assistance and representation for more needy accused persons, my Ministry recently established the Public Defender’s Office, and also expanded criminal defence aid coverage, so that more people can fall within the scope of coverage and we genuinely enhance access to justice.
+8.	Most.
 
 {:start="9"}
 9.	All of these measures go towards ensuring that access to justice remains at the forefront of our mission at the Ministry of Law.
