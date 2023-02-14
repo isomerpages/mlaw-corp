@@ -31,7 +31,8 @@ health, if there are signs to suggest that the individual may have an underlying
 4.  Depending on the nature of the case, the CDRT can require the attendance of a party’s family member during the court proceedings, and encourage the relevant party to seek treatment for the medical condition..
 
 {:start="5"} 
-5.  If the Public Prosecutor decides to charge the person, the Public Prosecutor’s charging and sentencing position may be calibrated to take into account the person’s mental condition or disability.
+5.  In cases that proceed to trial, the CDRT may issue an order requiring a respondent to cease his or her acts of unreasonable interference. If this order is not complied with, the CDRT may then also issue a Special Direction to the respondent requiring compliance. In addition to issuing a Special Direction, the CDRT can also require a third party to enter into a compliance bond, which may be forfeited if the respondent breaches the Special Direction. A compliance bond may contain conditions, such as requiring the person who put up the bond –
+for example, a family member of the respondent – to ensure that the respondent undergoes medical assessment and treatment.
 
 {:start="6"} 
 6.  To illustrate: In a 2020 case, a 21-year-old offender committed offences of theft of an SCDF vehicle, cheating and causing hurt to another person by performing a rash act. He was diagnosed with Schizoaffective Disorder, a serious form of long-term major mental illness, which contributed to his offending. The Prosecution decided to charge him, considering that the offences were not minor. However, taking into account his mental condition, the Prosecution submitted for a mandatory treatment order to be imposed against the offender, which required the offender to undergo psychiatric treatment in lieu of imprisonment or a fine.
