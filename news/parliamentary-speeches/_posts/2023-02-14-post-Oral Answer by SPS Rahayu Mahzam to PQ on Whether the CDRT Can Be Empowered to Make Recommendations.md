@@ -35,7 +35,8 @@ health, if there are signs to suggest that the individual may have an underlying
 for example, a family member of the respondent – to ensure that the respondent undergoes medical assessment and treatment.
 
 {:start="6"} 
-6.  To illustrate: In a 2020 case, a 21-year-old offender committed offences of theft of an SCDF vehicle, cheating and causing hurt to another person by performing a rash act. He was diagnosed with Schizoaffective Disorder, a serious form of long-term major mental illness, which contributed to his offending. The Prosecution decided to charge him, considering that the offences were not minor. However, taking into account his mental condition, the Prosecution submitted for a mandatory treatment order to be imposed against the offender, which required the offender to undergo psychiatric treatment in lieu of imprisonment or a fine.
+6.  If the respondent continues to engage in acts of unreasonable interference and breaches the Special Direction, then this is an offence. If convicted, the sentencing court may, if appropriate, issue a Mandatory
+Treatment Order to the respondent.
 
 {:start="7"} 
 7.  Ultimately, the Public Prosecutor’s exercise of discretion as to whether to charge a person, including a person with a mental condition or disability, is a fact-dependent exercise.
