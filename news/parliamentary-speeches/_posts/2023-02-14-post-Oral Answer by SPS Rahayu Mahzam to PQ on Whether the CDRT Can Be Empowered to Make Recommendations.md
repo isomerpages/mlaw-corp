@@ -28,7 +28,7 @@ health, if there are signs to suggest that the individual may have an underlying
 3.  The CSS can then provide input to the Judge on whether the individual would benefit from a referral to a psychiatrist from the Institute of Mental Health. In appropriate cases, the CSS may also encourage the individual to approach one of the Family Service Centres or the Agency for Integrated Care to seek referrals for medical care or social services.
  
 {:start="4"} 
-4.  Where appropriate, for example, where the person has no criminal history, the alleged offence is not serious, and the person’s culpability is lowered as a result of his mental condition or disability, the Public Prosecutor may decide to issue a warning, instead of charging the person. This may, in some cases, also involve a referral for treatment at facilities such as the Institute of Mental Health.
+4.  Depending on the nature of the case, the CDRT can require the attendance of a party’s family member during the court proceedings, and encourage the relevant party to seek treatment for the medical condition..
 
 {:start="5"} 
 5.  If the Public Prosecutor decides to charge the person, the Public Prosecutor’s charging and sentencing position may be calibrated to take into account the person’s mental condition or disability.
