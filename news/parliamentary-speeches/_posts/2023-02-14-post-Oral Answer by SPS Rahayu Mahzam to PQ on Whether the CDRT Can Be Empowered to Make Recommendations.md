@@ -39,6 +39,6 @@ for example, a family member of the respondent – to ensure that the respondent
 Treatment Order to the respondent.
 
 {:start="7"} 
-7.  Ultimately, the Public Prosecutor’s exercise of discretion as to whether to charge a person, including a person with a mental condition or disability, is a fact-dependent exercise.
+7.  An inter-agency committee is currently reviewing the Community Dispute Management Framework. As part of this review, the Committee is studying how to better address neighbour disputes that may be due, at least in some part, to the mental health condition of a resident, including whether the Community Disputes Resolution Tribunals should be empowered to make mandatory treatment orders. The Committee will provide more details of the review in due course..
 
 <p class="right-side-updated">Last updated on 14 February 2023</p>
