@@ -21,7 +21,8 @@ medical condition which may lead to harm to themselves or others if left untreat
 1.  The CDRT takes a multi-faceted approach to managing cases where there is reason to believe that a party may be suffering from a medical condition, that may have contributed to a neighbour dispute.
 
 {:start="2"} 
-2.  In deciding whether to charge a person, the Public Prosecutor will consider the facts, the sufficiency of evidence and the public interest. This will involve a careful weighing of a wide range of factors, including the circumstances of the alleged offence and the person.
+2.  In appropriate cases, the CDRT may require court psychologists and counsellors from the State Courts’ Centre for Specialist Services (“CSS”) to make a preliminary assessment of an individual’s mental
+health, if there are signs to suggest that the individual may have an underlying mental health condition. If the individual refuses to attend the counselling session, the CDRT may require the individual to attend counselling.
 
 {:start="3"} 
 3.  Where the person has a mental condition or disability, the Public Prosecutor will consider the nature of the mental condition or disability, its severity, and the connection (if any) between the mental condition or disability and the alleged offence.
