@@ -25,7 +25,7 @@ medical condition which may lead to harm to themselves or others if left untreat
 health, if there are signs to suggest that the individual may have an underlying mental health condition. If the individual refuses to attend the counselling session, the CDRT may require the individual to attend counselling.
 
 {:start="3"} 
-3.  Where the person has a mental condition or disability, the Public Prosecutor will consider the nature of the mental condition or disability, its severity, and the connection (if any) between the mental condition or disability and the alleged offence.
+3.  The CSS can then provide input to the Judge on whether the individual would benefit from a referral to a psychiatrist from the Institute of Mental Health. In appropriate cases, the CSS may also encourage the individual to approach one of the Family Service Centres or the Agency for Integrated Care to seek referrals for medical care or social services.
  
 {:start="4"} 
 4.  Where appropriate, for example, where the person has no criminal history, the alleged offence is not serious, and the person’s culpability is lowered as a result of his mental condition or disability, the Public Prosecutor may decide to issue a warning, instead of charging the person. This may, in some cases, also involve a referral for treatment at facilities such as the Institute of Mental Health.
