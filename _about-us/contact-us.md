@@ -71,6 +71,9 @@ You can send us your feedback and enquiries on the following issues:
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
 </div><br>
 
+Online Enquiry will be under maintenance from 17 Feb 2023 6:00pm to 8:00:pm and will be unavailable.
+We apologise for any inconvenience caused.
+
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/" title="Location" alt="Location"></a>
