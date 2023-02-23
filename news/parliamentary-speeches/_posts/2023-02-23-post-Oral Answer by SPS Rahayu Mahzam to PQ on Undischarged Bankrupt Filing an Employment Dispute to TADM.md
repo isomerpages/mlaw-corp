@@ -1,6 +1,5 @@
 ---
-title: Oral Answer by SPS Rahayu Mahzam to PQ on Undischarged Bankrupt Filing an
-  Employment Dispute to TADM
+title: Oral Answer by SPS Rahayu Mahzam to PQ on Whether an Undischarged Bankrupt is Required to Seek Approval from the Ministry of Law or the Insolvency and Public Trustee’s Office before Filing an Employment Dispute to TADM
 permalink: /news/parliamentary-speeches/oral-pq-sps-rahayu-mahzam-undischarged-bankrupt-employment-dispute-tadm/
 date: 2023-02-23
 layout: post
@@ -12,8 +11,7 @@ image: ""
 **Mr Patrick Tay Teck Guan (Member of Parliament for Pioneer SMC)** 
 
 **<b><u>Question</u></b>** 
-<br>To ask the Minister for Law whether an undischarged bankrupt is required to seek approval from the Ministry of Law or the Insolvency and Public Trustee’s Office before they can file an employment dispute to the Tripartite Alliance for
-Dispute Management.
+<br>To ask the Minister for Law whether an undischarged bankrupt is required to seek approval from the Ministry of Law or the Insolvency and Public Trustee’s Office before they can file an employment dispute to the Tripartite Alliance for Dispute Management.
 
 **<b><u>Oral Answer:</u></b>** 
 
