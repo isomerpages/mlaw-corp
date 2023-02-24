@@ -1,6 +1,6 @@
 ---
-title: Speech by Second Minister for Law Edwin Tong SC at Duane Morris & Selvam LLP's
-  12th Anniversary Celebration
+title: Speech by Second Minister for Law Edwin Tong SC at Duane Morris & Selvam
+  LLP's 12th Anniversary Celebration
 permalink: /news/speeches/2023-02-22-speech-edwin-tong-duane-morris-selvam-12th-anniversary-celebration/
 date: 2023-02-22
 layout: post
@@ -30,7 +30,7 @@ Ladies and Gentlemen
 {:start="3"}
 3.	So, this year, which is the 12th year, marks the completion of the first chapter of Duane Morris & Selvam’s history.
 
-** Duane Morris & Selvam Joint Law Venture**
+**Duane Morris & Selvam Joint Law Venture**
 
 {:start="4"}
 4.	I would like to add to my congratulations to Mrs Arfat Selvam, for being such a sterling example of what it is like to practise in Singapore and to collaborate.
