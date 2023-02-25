@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister K Shanmugam to PQ on Work Permit Holders
-  Charged and Applied to CLAS
+title: Written Answer by Minister for Law K Shanmugam to PQ on Data on Work Permit Holders Charged with Crimes and Applied for Criminal Legal Aid Scheme
 permalink: /news/parliamentary-speeches/written-pq-data-on-work-permit-holders-charged-crimes-applied-to-clas/
 date: 2023-02-24
 layout: post
@@ -14,13 +13,13 @@ Mr Louis Ng Kok Kwang (Member of Parliament for Nee Soon GRC)
 **<b><u>Question</u></b>** 
 
 To ask the Minister for Law in each year for the past five
-years (a) how many work permit holders have been charged with crimes; (b) how many have applied for the Criminal Legal Aid Scheme (CLAS); (c) how many have been offered aid under CLAS; and (d) what are the top three reasons that CLAS applications by work permit holders have been unsuccessful..
+years (a) how many work permit holders have been charged with crimes; (b) how many have applied for the Criminal Legal Aid Scheme (CLAS); (c) how many have been offered aid under CLAS; and (d) what are the top three reasons that CLAS applications by work permit holders have been unsuccessful.
 
 <b><u>Written Answer:</u></b> 
 
 {:start="1"}
 1.  The number of work permit holders (WPHs) charged with crimes for the past five years can be found in Table 1. These figures cover offences charged by the Singapore Police Force (SPF) and the Immigration and Checkpoints
-Authority (ICA) which are under various legislation such as the Penal Code, National Registration Act, Passport Act and Immigration Act..
+Authority (ICA) which are under various legislation such as the Penal Code, National Registration Act, Passport Act and Immigration Act.
 
 **<b>Table 1: Number of WPHs Charged for Offences by SPF and ICA</b>**
 
@@ -30,8 +29,7 @@ Authority (ICA) which are under various legislation such as the Penal Code, Nati
 
 {:start="2"}
 2.  The Member’s questions on the Criminal Legal Aid Scheme (CLAS) should be properly directed to Pro Bono SG (PBSG), which administers CLAS. PBSG is a
-company limited by guarantee, with the Law Society as their sole member. The Government funds 75% of CLAS’ general operating costs, which goes towards staff
-salaries and overheads. The rest of the costs incurred, including to defend foreigners who need criminal legal aid, are supported by private donations. Foreigners who seek legal aid under CLAS must pass their means* and merits tests.
+company limited by guarantee, with the Law Society as their sole member. The Government funds 75% of CLAS’ general operating costs, which goes towards staff salaries and overheads. The rest of the costs incurred, including to defend foreigners who need criminal legal aid, are supported by private donations. Foreigners who seek legal aid under CLAS must pass their means* and merits tests.
 
 {:start="3"}
 3.  CLAS does not track foreigner applications by the type of permit held. Based on what PBSG has told us, the number of foreigners who have applied to and been offered aid under CLAS, for the past five years, can be found in Table 2.
