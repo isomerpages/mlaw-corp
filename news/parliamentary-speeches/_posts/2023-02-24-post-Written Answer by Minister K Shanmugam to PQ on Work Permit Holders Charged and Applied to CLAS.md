@@ -43,25 +43,18 @@ salaries and overheads. The rest of the costs incurred, including to defend fore
 |Number of applications by foreigners|371|307|243|173|163|
 |Number of foreigners granted legal aid|189|126|122|79|55|
 
-<u>Notes</u>:
+{:start="4"}
+4.  According to PBSG, the top three reasons for CLAS applications by foreigners being unsuccessful are: (a) the applicant failed the means test criteria; (b) the offence was not covered under CLAS; and (c) CLAS was unable to contact the applicant / the applicant’s family members to complete means / merits testing.
+
+{:start="5"}
+5.  Foreign applicants who do not qualify for legal aid may also seek help from the Community Justice Centre and other legal clinics run by various community, religious and voluntary welfare organisations.
+
+<u>Note(s) to Question No(s) 5</u>:
 <br>*Voluntary referrals refer to cases referred to the CMC from public agencies and other organisations.
 <br>^There are other reasons why parties did not undergo mediation including parties withdrawing from mediation, settling on their own, etc. 
 
-{:start="4"}
-4.  Cases are also referred to the CMC by the Magistrate’s Courts and Community Disputes Resolution Tribunals. Attendance for such mediation is mandatory. Such cases make up about 14% of registered cases.
-
-{:start="5"}
-
-5.  Whilst 88% of neighbour dispute cases mediated at the CMC were settled in 2021, the overall settlement rate at the CMC over the last five years was about 80%.
 
 
-
-{:start="7"}
-
-7.  As the Government has stated several times, there has been a low take-up rate for community mediation. This is due to several factors, including the fact that community mediation is voluntary, and parties are not obliged to proceed to mediation, particularly if they are the ones whose conduct is in question. The Government had said earlier this year that it is considering what can be done to increase the participation in mediation.
-
-{:start="8"}
-
-8.  The CMC encourages residents who face relational disputes to attempt mediation at the CMC, so that they would have an opportunity to discuss mutually acceptable solutions.
-
+1 The applicant’s disposable income and disposable capital should each not exceed $10,000 over the last 12
+months.
 <p class="right-side-updated">Last updated on 24 February 2023</p>
