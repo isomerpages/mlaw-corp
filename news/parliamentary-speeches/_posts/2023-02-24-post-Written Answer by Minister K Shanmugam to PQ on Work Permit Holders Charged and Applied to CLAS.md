@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Data on Work Permit Holders Charged with Crimes and Applied for Criminal Legal Aid Scheme
+title: Written Answer by Minister for Law K Shanmugam to PQ on Data on Work
+  Permit Holders Charged with Crimes and Applied for Criminal Legal Aid Scheme
 permalink: /news/parliamentary-speeches/written-pq-data-on-work-permit-holders-charged-crimes-applied-to-clas/
 date: 2023-02-24
 layout: post
