@@ -36,18 +36,12 @@ salaries and overheads. The rest of the costs incurred, including to defend fore
 {:start="3"}
 3.  CLAS does not track foreigner applications by the type of permit held. Based on what PBSG has told us, the number of foreigners who have applied to and been offered aid under CLAS, for the past five years, can be found in Table 2.
 
-**<b>Table 1: Breakdown of Cases Registered at the Community Mediation Centre</b>**
+**<b>Table 2: Number of Applications and Aided Foreigners</b>**
 
-|                |2017|2018|2019|2020|2021|
+|                |2018|2019|2020|2021|2022|
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|-------------------------------|
-|Total number of registered cases|1095|1066|1016|1851|2060|
-|<i>Total number of voluntary cases registered</i>|780|852|799|1710|1954|
-|<i>Total number of voluntary referrals*</i>|325|361|345|585|745|
-|<i>Total number of Court-referred cases registered</i>|315|214|217|141|106|
-|Total number of mediated cases|429|386|395|473|474|
-|<i>Total number of voluntary cases that were mediated</i>|181|216|277|373|417|
-|Settlement rate of mediated cases|78%|81%|79%|85%|84%|
-|Total number of voluntary cases that were not mediated (due to parties declining or failing to respond)^|528|546|486|1082|1345|
+|Number of applications by foreigners|371|307|243|173|163|
+|Number of foreigners granted legal aid|189|126|122|79|55|
 
 <u>Notes</u>:
 <br>*Voluntary referrals refer to cases referred to the CMC from public agencies and other organisations.
