@@ -49,12 +49,8 @@ salaries and overheads. The rest of the costs incurred, including to defend fore
 {:start="5"}
 5.  Foreign applicants who do not qualify for legal aid may also seek help from the Community Justice Centre and other legal clinics run by various community, religious and voluntary welfare organisations.
 
-<u>Note(s) to Question No(s) 5</u>:
-<br>*Voluntary referrals refer to cases referred to the CMC from public agencies and other organisations.
-<br>^There are other reasons why parties did not undergo mediation including parties withdrawing from mediation, settling on their own, etc. 
+<u>Note(s)</u>:
+<br>*The applicant’s disposable income and disposable capital should each not exceed $10,000 over the last 12
+months. 
 
-
-
-1 The applicant’s disposable income and disposable capital should each not exceed $10,000 over the last 12
-months.
 <p class="right-side-updated">Last updated on 24 February 2023</p>
