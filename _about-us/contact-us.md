@@ -8,10 +8,10 @@ breadcrumb: Contact Us
 </style>
 
 The Ministry of Law hotline and Online Enquiry eServices will be undergoing maintenance on the following dates: 
-* 28 February 2023 (Tues) 7:00pm to 1 March 2023(Wed) 1:00:am 
-* 10 March 2023 (Fri) 7:00pm to 11 March 2023(Sat) 1:00:am 
-<br><br>We apologise for any inconvenience caused.
+* 28 February 2023 (Tues) 7:00pm to 1 March 2023(Wed) 1:00am 
+* 10 March 2023 (Fri) 7:00pm to 11 March 2023(Sat) 1:00am 
 
+We apologise for any inconvenience caused.
 FAQ
 ---
 
