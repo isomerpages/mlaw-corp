@@ -7,6 +7,9 @@ The Ministry of Law eServices will be undergoing maintenance on the following da
 * 28 February 2023 (Tue) 7:00pm to 1 March 2023 (Wed) 1:00am 
 * 10 March 2023 (Fri) 7:00pm to 11 March 2023 (Sat) 1:00am 
 
+LSRA eServices will be down for maintenance on 27 Feb 2023 from 6pm to 1030pm.
+
+CMC eServices will be down for maintenance on 28 Feb 2023 from 6pm to 1030pm.
 
 We apologise for any inconvenience caused.
 
