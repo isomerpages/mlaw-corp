@@ -462,11 +462,16 @@ industry.
 done quickly and overnight. There is a lot of stress, whether it is from clients,
 sometimes from judges when you appear in Court, and fellow practitioners. And the
 competition can be intense.
+
+{:start="69"}
 69. As the President of the Law Society, Mr Adrian Tan, noted in his speech at the OLY: in
 2022, it had its first membership reduction in half a decade.
-70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly
-after that, a batch of new lawyers for the year were mass called and introduced to the
+
+{:start="70"}
+70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly before that, a batch of new lawyers for the year were mass called and introduced to the
 Bar.
+
+{:start="71"}
 71. If we take this into account, then there would in fact have been a gradual, small
 increase in the total number of Singapore-qualified practising lawyers over the years.
 To give Members some idea of the numbers: from around 5,400 practitioners in 2017
@@ -475,6 +480,8 @@ a more granular review, it is apparent that the rate of increase in the number o
 Singapore-qualified practising lawyers has come down. It is increasing, but the rate of
 increase has slowed. And in part, this is due to a decrease in the number of returning
 overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
+
+{:start="72"}
 72. But at the same time, I would say attrition from private practice is not new. I think those
 of us who are lawyers and have been in practice for a while would have seen the
 trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today,
@@ -485,36 +492,52 @@ are in-house corporate counsel. And the lawyers who leave practice carry with th
 that experience from practice into these other fields which are adjunct to practice but
 still serving the legal industry. This is not necessarily a bad outcome, because we
 need legal talent to support all aspects of our economy and our society.
+
+{:start="73"}
 73. Ms Nadia referred to young lawyers experiencing burnout. Making private practice
 sustainable is something that the Government cannot alone achieve. It has to work
 with bodies like the Singapore Academy of Law, Law Society, and even the firms. It
 requires effort from all these parties, because the work environment, we know, has a
 direct impact on the well-being of the lawyers.
+
+{:start="74"}
 74. I am heartened to note that on this score, the Law Society has a number of support
 schemes available for mentorship, guidance on career-related issues, or support with
 stress management. One example is the Members’ Assistance &amp; Care Helpline, a one-
 stop referral and information service that Law Society members can turn to when faced
 with issues at work.
-Supporting in-house counsel and paralegals
+
+<u><i>Supporting in-house counsel and paralegals</i></u>
+
+{:start="75"}
 75. Our efforts also extend to other professionals within the legal industry. Mr Tay asked
 how we are supporting them.
+
+{:start="76"}
 76. For in-house counsel, we work closely with the Singapore Corporate Counsel
 Association (SCCA), of which Mr Tay is an honorary member, to promote community
 building and to roll out training and development initiatives. Examples include a
 mentorship programme and courses for targeted upskilling for corporate counsel.
-MinLaw also supports training providers in the development of programmes that build up capabilities of the legal community. These are also made available to in-house
-counsel.
+MinLaw also supports training providers in the development of programmes that build up capabilities of the legal community. These are also made available to in-house counsel.
+
+{:start="77"}
 77. For paralegals, we are studying how paralegals can take on more functions to support
 the work of lawyers and law firms. This is part of the legal education reforms that the
 Working Group, which I had mentioned earlier, is also studying.
 
-Changes to the admission regime
+<u><i>Changes to the admission regime</i></u>
+
+{:start="78"}
 78. Finally, Ms Nadia touched on the upcoming changes to the admission regime, as
 recommended by the Committee for the Professional Training of Lawyers.
+
+{:start="79"}
 79. MinLaw had previously announced the uncoupling of admission to the Bar from the
 completion of a practice training contract, and also the lengthening of the Practice
 Training Period from six months to one year. This was to take effect from the 2023
 session of the Part B of the Singapore Bar Examination onwards.
+
+{:start="80"}
 80. However, MinLaw noted feedback from the industry that the COVID-19 pandemic –
 work from home and other such measures – had caused disruptions to work. With the
 recent resumption of travel and business activities, more time is needed to prepare for
@@ -522,28 +545,47 @@ these changes. Therefore, these changes that were announced previously, will be
 deferred and implemented from the 2024 session of the Part B of the Singapore Bar
 Examination onwards. More information will be available from MinLaw and other
 stakeholders in due course.
-B. Building upon the Singapore IP Strategy (SIPS) 2030 to prepare businesses for the
-future
+
+B. <u>Building upon the Singapore IP Strategy (SIPS) 2030 to prepare businesses for the future</u>
+
+{:start="81"}
 81. I would like to circle back to the point about our changing world, which Members had
 underscored. Our world is evolving, in no small part, because of digitalisation and new
 technologies.
+
+{:start="82"}
 82. This heightens the importance of protecting intangible assets (IA) and intellectual
 property (IP).
+
+{:start="83"}
 83. Therefore, let me share briefly our IP strategy that aims to prepare our businesses as
 they digitalise and innovate in the global economy, which is intrinsically linked with IA.
-Update on SIPS 2030 to support enterprises in their IA/IP needs.
+
+<i><u>Update on SIPS 2030 to support enterprises in their IA/IP needs</u></i>
+
+{:start="84"}
 84. MinLaw, MOF and MTI are driving the Singapore IP Strategy 2030 (SIPS 2030).
+
+{:start="85"}
 85. SIPS 2030 is a ten-year blueprint to strengthen and cement Singapore’s position as a
 global IA, and IP hub.
+
+{:start="86"}
 86. As part of SIPS 2030, we have been working to support businesses to leverage their
 IA and IP for growth.
+
+{:start="87"}
 87. This year, we will be introducing the Intangibles Disclosure Framework. The intention
 is to provide a consistent basis for businesses to disclose and communicate details of
 their intangibles. A framework so that everyone speaks the same language, and can
 understand what that disclosure is meant to describe. This will provide stakeholders with comparable information about the businesses’ intangibles, so that more informed
 assessments of the business and financial prospects can be made.
+
+{:start="88"}
 88. This will in turn facilitate intangible asset commercialisation, transactions and
 financing.
+
+{:start="89"}
 89. In addition, we will launch GoBusiness IP Grow. It is an enterprise-centric online
 platform which will help businesses understand their own IP needs based on their
 business activities; match businesses to appropriate IP services providers based on
