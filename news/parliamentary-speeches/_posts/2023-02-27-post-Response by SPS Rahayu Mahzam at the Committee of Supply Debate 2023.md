@@ -14,7 +14,7 @@ image: ""
 (a)    Enhancing the trust, relevance and accessibility of the legal system; and  
 
 (b)    Optimising land use through greater collaboration and use of technology.
-  
+<br>
 **<u>(I) Enhancing Trust, Relevance and Accessibility of our Legal System</u>**
 
 {:start="2"}
@@ -425,8 +425,8 @@ image: ""
 {:start="89"}
 89.	Through these MOUs, geospatial data and platforms, including OneMap, will be leveraged to benefit their members and customers. These include enhancing building design, operations, and maintenance. 
 
-{:start=90"}
-90.	In the science and environment community, SLA started partnerships with various agencies to deepen the use of geospatial data for weather monitoring, coastal protection, flood mitigation, carbon-sink estimation, and climate studies.
+{:start="90"}
+90.		In the science and environment community, SLA started partnerships with various agencies to deepen the use of geospatial data for weather monitoring, coastal protection, flood mitigation, carbon-sink estimation, and climate studies.
 
 {:start="91"}
 91.	SLA will also be exploring how geospatial elements can be introduced in education curriculum. One such initiative is the Global Navigation Satellite Systems Innovation Challenge. 
