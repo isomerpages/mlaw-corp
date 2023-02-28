@@ -43,7 +43,7 @@ image: ""
 {:start="8"}
 8.	The legal industry has provided feedback that more time is required to adapt to the changes recommended by the CPTL, to take into account the impact of the COVID-19 pandemic. After careful consideration, MinLaw will defer the implementation of the key structural recommendations to apply from the 2024 session of Part B of the Singapore Bar Examinations onwards. 
 
-**MINISTRY OF LAW**<br>
+**MINISTRY OF LAW**
 <br>**28 FEBRUARY 2023**
 
 [Infographic - Key changes to the admission and training of lawyers](/files/news/press-releases/2023/Infographic_on_key_changes_to_admission_training_of_lawyers.pdf)<br>
