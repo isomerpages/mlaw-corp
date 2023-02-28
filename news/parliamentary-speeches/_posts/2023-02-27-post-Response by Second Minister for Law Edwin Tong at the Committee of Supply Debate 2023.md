@@ -293,21 +293,31 @@ necessary to ensure that they meet the caseload. The product teams for each syst
 also track the utilisation rates of the servers, to anticipate necessary hardware and
 software upgrades, and also, the occasional surge in demand. This approach has, by
 and large, served the Courts well.
+
+{:start="44"}
 44. While there are occasional disruptions due to unforeseeable hardware failures,
 software and servers are progressively being shifted to the latest cloud infrastructure
 to reduce such occurrences.
+
+{:start="45"}
 45. Where future challenges are concerned, the Courts have planned various
 enhancements to cater for an increasing need to allow citizens to file applications
 directly, so that they can cut out the intermediary process and be able to do so on their
 own. SPS Rahayu will elaborate on this.
+
+{:start="46"}
 46. Together with other efforts, the Courts are ready to meet future challenges and will
 continue regular dialogue with stakeholders, to better address user needs.
 Enhancement of the Legal Technology Platform
+
+{:start="47"}
 47. For law firms, we recognise that it will be challenging for them, especially the small and
 medium-sized Singapore law practices (SLPs) – More difficult for them to curate,
 customise and perhaps develop their own IT solutions, mainly due to the lack of
 economies of scale. MinLaw has therefore taken on this role, and launched the Legal
 Technology Platform (LTP) in July last year.
+
+{:start="48"}
 48. The LTP is a matter management and collaboration tool, customised for legal
 workflows. In other words, developed to intuitively fit the legal workflow process that
 each firm, particularly a smaller firm, might need and require at the backend and
@@ -316,8 +326,12 @@ manage and collaborate on matters more seamlessly internally and also with their
 clients externally. They can also access data from commonly used practice and
 document management systems, such as Tessaract, Clio, TessaCloud and
 NetDocuments.
+
+{:start="49"}
 49. Mr Thomas asked about the reception of the LTP. As of January 2023, the LTP has
 been adopted by 27 Singapore-based firms, with around 550 Singapore-based users.
+
+{:start="50"}
 50. Let me perhaps illustrate the point with reference to one firm’s example and
 experience. This firm is Albakri LLC, a small SLP. Instead of copying and pasting from
 past MS Word documents, the firm created its own matter templates and listed all the
@@ -332,23 +346,34 @@ is now publicly available through the LTP. Firms, after seeing how it works for 
 can decide that they want to contribute a template which will then be shared across on
 LTP, and so other firms can access this, and eventually level up using these best
 practices that are shared on the LTP.
+
+{:start="51"}
 51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We
 have constantly taken soundings from them, to check on how they have used it, and
 what else they would like to see. For example, come April this year, the LTP will be
 able to process information from systems, such as eLitigation and ACRA, and also
 integrated with Sign with SingPass.
 Legal Industry Digital Plan
+
+{:start="52"}
 52. To complement the LTP, we have worked with IMDA and our industry partners to
 develop the Legal Industry Digital Plan (IDP). This will be an additional resource, to
 guide SLPs on how the LTP and other tools work together complementarily to support
 their digital transformation. It will also provide guidance on how SLPs can shore up
 their cybersecurity and data protection measures.
-Manpower Development
+
+<u><i>Manpower Development</i></u>
+
+{:start="53"}
 53. The second aspect I wish to speak about is manpower development – a point touched
 on by Mr de Souza, Mr Zhulkarnain, Ms Nadia, and Mr Thomas.
+
+{:start="54"}
 54. As Members have recognised, technology is an enabler, which helps our law firms and
 lawyers to work more efficiently and effectively. But it cannot replace human beings. It
 cannot replace the human lawyers.
+
+{:start="55"}
 55. For example, in family and criminal cases, we are dealing with a range of emotions. It
 is not just the legal considerations or what the law might say but what are those
 special peculiar idiosyncrasies and emotions that go behind each decision that might
