@@ -67,29 +67,34 @@ as we faced COVID-19, and its impact on businesses.
 obligations, providing rental relief, and supporting distressed entities through
 insolvency.
 
-9.	xxx
+9.	Many of these steps are unprecedented and novel, but also highly necessary.
 
-Many of these steps are unprecedented and novel, but also highly necessary.
-10. Mr Murali said we should chronicle our efforts as we went through these different
-challenges to deal with the COVID-19 pandemic. We have accumulated that
-experience, and will do so. In fact, we have captured the gains that we have already
-made.
+10.	Mr Murali said we should chronicle our efforts as we went through these different challenges to deal with the COVID-19 pandemic. We have accumulated that experience, and will do so. In fact, we have captured the gains that we have already made.
+
 (a) For example, we have made permanent, the powers of our courts to conduct
 proceedings through electronic means such as video-conferencing.
 (b) We are also considering whether some features of the Simplified Insolvency
 Programme can be adopted permanently – something I spoke about in
 Parliament not long ago.
 
-11. Moving forward, my ministry will work along three broad thrusts:
+11.	Moving forward, my ministry will work along three broad thrusts:
 (a) First, enhancing the trust, relevance and accessibility of our legal system for
 society;
 (b) Second, contributing to and supporting economic activity in Singapore – by
 identifying and seizing new opportunities in the legal and intellectual property
 sectors; and
 (c) Third, optimising and rejuvenating our land and properties for the community.
-12. SPS Rahayu Mahzam and I will address these themes and also address, as far as we
+
+12.	SPS Rahayu Mahzam and I will address these themes and also address, as far as we
 can, the cuts that have been raised by Members.
-I. Enhancing Trust, Relevance and Accessibility of our Legal System
+
+**I. Enhancing Trust, Relevance and Accessibility of our Legal System**
+
+13.	xxxx
+
+
+
+
 13. Last year, we saw the culmination of various initiatives that improved the efficiency,
 effectiveness and also the accessibility of our legal system. This included:
 (a) Establishing the Sentencing Advisory Panel and the Public Defender’s Office;
