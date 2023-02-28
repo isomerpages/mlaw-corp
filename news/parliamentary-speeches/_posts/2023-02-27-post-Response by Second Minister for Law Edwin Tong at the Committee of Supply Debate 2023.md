@@ -390,22 +390,15 @@ can easily replicate.
 times, did pass the law exams, with a C+. It is an apt example. Reports say that
 it may be helpful at producing a first draft for lawyers to consider.
 
-(b) But as I said, it does not deal with the range of emotions that might lie behind
-why a client might choose a certain course of action in a range of cases. And it
-will also struggle with the most classic components of law exams, such as
-spotting the potential legal issues and deep analysis applying the legal rules to
-the particular situation and nuances of a particular case; and also, appreciate the human dynamics and personal idiosyncrasies which may lie behind even the
-most complex of complex corporate transactions.
+(b) But as I said, it does not deal with the range of emotions that might lie behind why a client might choose a certain course of action in a range of cases. And it
+will also struggle with the most classic components of law exams, such as spotting the potential legal issues and deep analysis applying the legal rules to the particular situation and nuances of a particular case; and also, appreciate the human dynamics and personal idiosyncrasies which may lie behind even the most complex of complex corporate transactions.
 
-57. Therefore, what we need to do, and in fact, we have to do, is to re-double our efforts
-on developing our human talent, as much as we need to invest in technology.
+57. Therefore, what we need to do, and in fact, we have to do, is to re-double our efforts on developing our human talent, as much as we need to invest in technology.
 
 <u><i>Legal Secondment Programme and Lawyers Exchange Programme</i></u>
 
 {:start="58"}
-58. We will be launching an industry-wide secondment programme, which aims to deepen
-the capabilities of lawyers in important markets, as well as new or high growth areas,
-such as sustainability, technology and M&amp;A.
+58. We will be launching an industry-wide secondment programme, which aims to deepen the capabilities of lawyers in important markets, as well as new or high growth areas, such as sustainability, technology and M&amp;A.
 
 {:start="59"}
 59. We are targeting to have an intake of 30 lawyers a year, at a steady state.
