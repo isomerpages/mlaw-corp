@@ -8,7 +8,7 @@ image: ""
 ---
 28 Feb 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-**Leon Perera (Member of Parliament for Aljunied)** 
+**Mr Leon Perera (Member of Parliament for Aljunied)** 
 
 **<b><u>Question</u></b>** 
 <br>To ask the Minister for Law (a) what is the average timespan of a manually-handled court case as compared to one managed under the Integrated Case Management System (ICMS); (b) what is the number of State Courts cases that have been adjourned over the ICMS system failure on 7 February 2023; and (c) what is the typical frequency and duration of ICMS maintenance.
