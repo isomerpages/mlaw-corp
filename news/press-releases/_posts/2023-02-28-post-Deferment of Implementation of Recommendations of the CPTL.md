@@ -45,7 +45,7 @@ image: ""
 **MINISTRY OF LAW**<br>
 <br>**28 FEBRUARY 2023**
 
-[Infographic](/files/news/press-releases/2023/Infographic_on_key_changes_to_admission_training_of_lawyers.pdf)<br>
+[Infographic - Key changes to the admission and training of lawyers](/files/news/press-releases/2023/Infographic_on_key_changes_to_admission_training_of_lawyers.pdf)<br>
 [Annex – FAQs on the Recommendations of the Committee for the Professional Training of Lawyers](/files/news/press-releases/2023/Annex_FAQs_Recommendations_of_CPTL.pdf)
 
 <p><sup id="fn1">1. The full report by the Committee for the Professional Training of Lawyers (CPTL) is available <a href="http://www.judiciary.gov.sg/docs/default-source/default-document-library/law_reports.pdf?sfvrsn=eeea2aa9_0" target="new">here</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
