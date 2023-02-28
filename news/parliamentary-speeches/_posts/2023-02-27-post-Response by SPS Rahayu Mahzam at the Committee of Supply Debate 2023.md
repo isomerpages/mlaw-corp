@@ -15,7 +15,7 @@ image: ""
 
 (b)    Optimising land use through greater collaboration and use of technology.
 <br>
-<br>
+
 **<u>(I) Enhancing Trust, Relevance and Accessibility of our Legal System</u>**
 
 {:start="2"}
