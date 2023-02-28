@@ -42,27 +42,27 @@ Members have been speaking about:
 {:start="4"}
 4.	To ensure that Singapore continues to thrive amidst these changes, the Ministry of Law (MinLaw) is working on various fronts.
 
+{:start="5"}
+5.	The scope, as I think you can see from the breadth of topics raised by Members, is diverse:
 
-6.	The 
+a) Increasing access to justice;
 
-
-4. To ensure .
-5. The scope, as I think you can see from the breadth of topics raised by Members, is
-diverse:
-(a) Increasing access to justice;
 (b) Enhancing the legal processes;
+
 (c) Optimising land utilisation and promoting land data; and
-(d) Assisting businesses with protecting their intangible assets and intellectual
-property, and finding a platform for these to be commercialised and leveraged,
-for the industry to grow.
 
-6. While the work is wide-ranging, our vision is singular: Bettering people’s lives, creating
-value jobs, and advancing our economy and society, through laws and policies. That
-ultimately is the bottomline and the topline of what we do at MinLaw.
-7. This is perhaps best encapsulated by our response to the COVID-19 pandemic, which
-Mr Murali Pillai commended.
+(d) Assisting businesses with protecting their intangible assets and intellectual property, and finding a platform for these to be commercialised and leveraged, for the industry to grow.
 
-**I. Introduction**
+6.	While the work is wide-ranging, our vision is singular: Bettering people’s lives, creating value jobs, and advancing our economy and society, through laws and policies. That ultimately is the bottomline and the topline of what we do at MinLaw
+
+7.	This is perhaps best encapsulated by our response to the COVID-19 pandemic, which Mr Murali Pillai commended.
+
+
+8.	sss
+
+
+
+
 
 {:start="2"}
 2.	Sir, State land is currently put to various uses for the benefit of Singaporeans. These include residential, commercial, institutional, and utility uses, amongst others. 
