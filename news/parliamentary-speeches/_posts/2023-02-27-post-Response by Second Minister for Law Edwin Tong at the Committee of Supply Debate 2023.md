@@ -90,21 +90,63 @@ can, the cuts that have been raised by Members.
 
 **I. Enhancing Trust, Relevance and Accessibility of our Legal System**
 
-13.	xxxx
-
-
-
-
-13. Last year, we saw the culmination of various initiatives that improved the efficiency,
+13.	Last year, we saw the culmination of various initiatives that improved the efficiency,
 effectiveness and also the accessibility of our legal system. This included:
 (a) Establishing the Sentencing Advisory Panel and the Public Defender’s Office;
 and
 (b) Passing the Post-appeal Applications in Capital Cases Bill 2022.
-14. We will continue in this vein to drive reforms, and SPS Rahayu will elaborate on these
-programmes.
-Community Dispute Management Framework (CDMF)
 
-11.	xx
+14.	We will continue in this vein to drive reforms, and SPS Rahayu will elaborate on these programmes.
+
+<u><i>Community Dispute Management Framework (CDMF)</i></u>
+
+15.	Let me start by addressing the queries on the Community Dispute Management Framework (CDMF) which various Members have raised, including Mr Pillai, Mr Patrick Tay, Mr Derrick Goh, and Mr Dennis Tan, amongst others, about the framework and its role in resolving community disputes.
+
+16. As Members are aware, an inter-agency committee led by MCCY, together with MND, is conducting a comprehensive review of the CDMF.
+
+17. The goal is threefold: to encourage pro-social behaviour, facilitate amicable resolution
+of disputes between neighbours and third, to deal with this, as far as possible, at an early stage.
+
+18. To achieve this, we are looking at enhancements in three broad areas.
+
+(a) First, early intervention – by building consensus through community norms.
+(i) This will set shared expectations on acceptable community behaviour; set
+out standards, to help shape normative behaviour in the community.
+(ii) SMS Sim Ann will share more details of this when she speaks at MND’s
+COS.
+
+(b) Second, and we all know this, despite setting these norms, having these norms
+in the community – nuisance might and would still likely occur, but perhaps at a
+reduced rate. The overall aim is to encourage conciliation between neighbours,
+as much as possible. We live in an environment where we are close to one
+another. The best solution to dealing with neighbour disputes is to find an
+amicable, mediated position.
+(i) We are therefore going to be looking at setting up a team of dedicated
+personnel to leverage stronger laws and more active facilitation to help
+neighbours resolve issues upstream, before matters escalate and
+relationships deteriorate to such an extent that matters become
+intransigent or deadlocked.
+(ii) In appropriate cases, these personnel from this team may conduct
+investigations to understand the nature and root cause of the problem, and
+require, in the right cases, residents to attend a mandatory mediation, or
+require them to stop the actions that are causing the nuisance, pending
+mediation or resolution downstream.
+(iii) More details for this process will be shared in MND’s and MCCY’s COS in
+due course.
+
+(c) But let me explain MinLaw’s work in the third area, which is in enhancing and
+improving the dispute resolution framework.
+(i) As I said, even as we look at steps to enhance and improve this process,
+we intend to channel as much of these disputes as possible through the
+mediated conciliatory route – that I think, we all accept is the best way of
+resolving a neighbour dispute.
+(ii) But given that there will be a number of these intransigent cases, we will
+work towards strengthening the powers and processes of the Community
+Disputes Resolution Tribunal (CDRT), which some Members spoke about
+
+
+
+
 
 
 
