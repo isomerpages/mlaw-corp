@@ -429,43 +429,29 @@ members of the Judiciary, the profession, law schools, and legal education provi
 has been formed to conduct a holistic review of our legal education system.
 
 {:start="63"}
-63. This will take into account the evolving needs of our society and economy – very much
-the various points raised by Members earlier about taking on board today’s context,
-evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
-profession. This will include areas of practice which are new, emerging or growing, for
-example, in technology and civil law; and applies to law schools and also to continuing
-professional development.
+63. This will take into account the evolving needs of our society and economy – very much the various points raised by Members earlier about taking on board today’s context, evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
+profession. This will include areas of practice which are new, emerging or growing, for example, in technology and civil law; and applies to law schools and also to continuing professional development.
 
 {:start="64"}
-64. Mr Thomas suggested reviewing the Bar exam syllabus to incorporate harnessing
-technology. Based on feedback from the industry, the current generation of law
+64. Mr Thomas suggested reviewing the Bar exam syllabus to incorporate harnessing technology. Based on feedback from the industry, the current generation of law
 students are generally technologically-savvy.
 
 {:start="65"}
-65. Nonetheless, as part of the Singapore Institute of Legal Education’s recent review of
-the Part B Syllabus, contemporary legal issues, such as law and technology, and the
-use of technology in practice, have also been incorporated to better prepare
-candidates for practice.
+65. Nonetheless, as part of the Singapore Institute of Legal Education’s recent review of the Part B Syllabus, contemporary legal issues, such as law and technology, and the use of technology in practice, have also been incorporated to better prepare candidates for practice.
 
 {:start="66"}
-66. This will no doubt equip law students and lawyers with the knowledge and skills they
-need for practice, and prepare them for the challenges ahead.
+66. This will no doubt equip law students and lawyers with the knowledge and skills they need for practice, and prepare them for the challenges ahead.
 
 {:start="67"}
-67. This will also hopefully allow them to develop a more sustainable career in the legal
-industry.
+67. This will also hopefully allow them to develop a more sustainable career in the legal industry.
 
 <u><i>Attrition</i></u>
 
 {:start="68"}
-68. Legal practice is tough. Long hours, demanding clients, transactions that need to be
-done quickly and overnight. There is a lot of stress, whether it is from clients,
-sometimes from judges when you appear in Court, and fellow practitioners. And the
-competition can be intense.
+68. Legal practice is tough. Long hours, demanding clients, transactions that need to be done quickly and overnight. There is a lot of stress, whether it is from clients, sometimes from judges when you appear in Court, and fellow practitioners. And the competition can be intense.
 
 {:start="69"}
-69. As the President of the Law Society, Mr Adrian Tan, noted in his speech at the OLY: in
-2022, it had its first membership reduction in half a decade.
+69. As the President of the Law Society, Mr Adrian Tan, noted in his speech at the OLY: in 2022, it had its first membership reduction in half a decade.
 
 {:start="70"}
 70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly before that, a batch of new lawyers for the year were mass called and introduced to the
