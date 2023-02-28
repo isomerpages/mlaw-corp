@@ -142,7 +142,7 @@ mediated conciliatory route – that I think, we all accept is the best way of
 resolving a neighbour dispute.
 (ii) But given that there will be a number of these intransigent cases, we will
 work towards strengthening the powers and processes of the Community
-Disputes Resolution Tribunal (CDRT), which some Members spoke about
+Disputes Resolution Tribunal (CDRT), which some Members spoke about 
 
 
 
