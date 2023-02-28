@@ -1,5 +1,6 @@
 ---
-title: Deferment of Implementation of Recommendations of the Committee for the Professional Training of Lawyers
+title: Deferment of Implementation of Recommendations of the Committee for the
+  Professional Training of Lawyers
 permalink: /news/press-releases/2023-02-28-deferment-of-implementation-recommendations-cptl/
 date: 2023-02-28
 layout: post
@@ -17,7 +18,7 @@ image: ""
 2.	The CPTL was set up by the Honourable the Chief Justice Sundaresh Menon in 2016 to conduct a root-and-branch review of the professional training regime and to make recommendations on how it might be modified to raise the quality and consistency of training standards across law practices.
     
 {:start="3"}
-3.	The CPTL made three key structural recommendations : 
+3.	The CPTL made three key structural recommendations<sup><a href="#fn1" id="ref1">1</a></sup>: 
 
     a.	Uncouple the call to the Bar from the right to practice as a lawyer; 
 		
@@ -26,13 +27,13 @@ image: ""
 	c.	Raise the standard and stringency of the Part B examinations. 
 
 {:start="4"}
-4.	In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations  and that implementation of the key changes would take place from the 2023 session of Part B of the Singapore Bar Examinations onwards. 
+4.	In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations<sup><a href="#fn2" id="ref2">2</a></sup>  and that implementation of the key changes would take place from the 2023 session of Part B of the Singapore Bar Examinations onwards. 
 
 {:start="5"}
 5.	A Working Group, comprising representatives from MinLaw, the Singapore Institute of Legal Education, the Supreme Court of Singapore, and the Law Society of Singapore, was set up to implement and operationalise the CPTL’s recommendations.  
     
 {:start="6"}
-6.	In 2019, MinLaw also conducted a public consultation  on the proposals to implement the recommendations of the CPTL. The majority of respondents, comprising a good mix of practitioners, in-house counsel, law students and members of the public, agreed with the various recommendations on implementation put forward by the Working Group.  
+6.	In 2019, MinLaw also conducted a public consultation<sup><a href="#fn3" id="ref3">3</a></sup> on the proposals to implement the recommendations of the CPTL. The majority of respondents, comprising a good mix of practitioners, in-house counsel, law students and members of the public, agreed with the various recommendations on implementation put forward by the Working Group.  
 
 {:start="7"}
 7.	MinLaw has considered the suggestions received, and where appropriate, worked with the CPTL Working Group to incorporate the feedback into the Legal Profession Act Amendment Bill, which will be tabled for First Reading in Parliament later this year. 
