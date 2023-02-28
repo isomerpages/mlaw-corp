@@ -348,11 +348,7 @@ LTP, and so other firms can access this, and eventually level up using these bes
 practices that are shared on the LTP.
 
 {:start="51"}
-51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We
-have constantly taken soundings from them, to check on how they have used it, and
-what else they would like to see. For example, come April this year, the LTP will be
-able to process information from systems, such as eLitigation and ACRA, and also
-integrated with Sign with SingPass.
+51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We have constantly taken soundings from them, to check on how they have used it, and what else they would like to see. For example, come April this year, the LTP will be able to process information from systems, such as eLitigation and ACRA, and also integrated with Sign with SingPass.
 
 <u><i>Legal Industry Digital Plan</i></u>
 
