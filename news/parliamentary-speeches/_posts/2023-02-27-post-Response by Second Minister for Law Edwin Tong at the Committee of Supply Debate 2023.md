@@ -353,7 +353,8 @@ have constantly taken soundings from them, to check on how they have used it, an
 what else they would like to see. For example, come April this year, the LTP will be
 able to process information from systems, such as eLitigation and ACRA, and also
 integrated with Sign with SingPass.
-Legal Industry Digital Plan
+
+<u><i>Legal Industry Digital Plan</i></u>
 
 {:start="52"}
 52. To complement the LTP, we have worked with IMDA and our industry partners to develop the Legal Industry Digital Plan (IDP). This will be an additional resource, to
