@@ -21,9 +21,9 @@ image: ""
 
     a.	Uncouple the call to the Bar from the right to practice as a lawyer; 
 		
-		b. Lengthen the practice training period from six months to one year; and 
+	b. Lengthen the practice training period from six months to one year; and 
 		
-		c.	Raise the standard and stringency of the Part B examinations. 
+	c.	Raise the standard and stringency of the Part B examinations. 
 
 {:start="4"}
 4.	In August 2018, MinLaw announced that it had accepted in-principle the CPTL’s recommendations  and that implementation of the key changes would take place from the 2023 session of Part B of the Singapore Bar Examinations onwards. 
