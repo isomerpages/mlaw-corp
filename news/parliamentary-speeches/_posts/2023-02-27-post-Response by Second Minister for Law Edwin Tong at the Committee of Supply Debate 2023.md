@@ -414,19 +414,13 @@ such as sustainability, technology and M&amp;A.
 60. We are also exploring exchange programmes with foreign bar associations.
 
 {:start="61"}
-61. The objective being to help Singapore lawyers build networks externally. Because of
-globalisation, transactions are now very much cross-border, and relations that we
-develop with other lawyers from other jurisdictions will give our lawyers a leg-up. They
-will also gain a deeper understanding of the work in priority markets through overseas
-attachments or study visit opportunities.
+61. The objective being to help Singapore lawyers build networks externally. Because of globalisation, transactions are now very much cross-border, and relations that we develop with other lawyers from other jurisdictions will give our lawyers a leg-up. They
+will also gain a deeper understanding of the work in priority markets through overseas attachments or study visit opportunities.
 
 <u><i>Legal Education Reforms</i></u>
 
 {:start="62"}
-62. Next, let me touch on legal education reforms. As the Chief Justice announced, at the
-Opening of the Legal Year (OLY) this year, a Working Group, comprising: MinLaw,
-members of the Judiciary, the profession, law schools, and legal education providers,
-has been formed to conduct a holistic review of our legal education system.
+62. Next, let me touch on legal education reforms. As the Chief Justice announced, at the Opening of the Legal Year (OLY) this year, a Working Group, comprising: MinLaw, members of the Judiciary, the profession, law schools, and legal education providers, has been formed to conduct a holistic review of our legal education system.
 
 {:start="63"}
 63. This will take into account the evolving needs of our society and economy – very much the various points raised by Members earlier about taking on board today’s context, evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
