@@ -142,7 +142,308 @@ mediated conciliatory route – that I think, we all accept is the best way of
 resolving a neighbour dispute.
 (ii) But given that there will be a number of these intransigent cases, we will
 work towards strengthening the powers and processes of the Community
-Disputes Resolution Tribunal (CDRT), which some Members spoke about 
+Disputes Resolution Tribunal (CDRT), which some Members spoke about – so that it can provide faster and more effective relief in appropriate
+cases.
+
+Mediation can preserve, and even strengthen the relationship between neighbours, by
+providing them with a platform, in the hands of a trained mediator, to resolve their
+disputes amicably, in very much a win-win-fashion.
+20. Our experience has shown that mediation is not just effective, but also quicker and
+cheaper.
+21. And data has shown that mediation has been by and large successful.
+22. We believe that most community dispute cases will benefit from mediation.
+(a) More than 80% of the voluntary mediation cases handled at the Community
+Mediation Centre (CMC) were successfully settled.
+(b) Now, this number, of course, has to be taken in context – it is for parties who
+voluntarily go to mediation. So they might perhaps be more predisposed to
+having amicable resolution between themselves. But nonetheless, this statistic
+tells us putting mediation as the first port of call will likely yield effective results.
+Part of the problem is that these voluntary cases handled at the CMC represent
+a minority of cases, as many neighbours do not make this attempt at mediation.
+To provide specific figures, less than 30% of such voluntary cases proceed to
+mediation.
+(c) In other words, of all cases that give rise to neighbour disputes, usually on noise,
+that proceed to mediation – 30% go to voluntary CMC mediation and of this 30%,
+80% of that number of cases are resolved amicably.
+(d) This, as I said earlier, could be, in part that mediation is currently voluntary.
+(e) In addition, parties may:
+(i) Think that there is no issue to mediate, or
+(ii) Believe that mediation would not be effective in resolving their dispute, or
+(iii) They might decide to escalate the matter to the CDRT without first
+attempting mediation.
+
+23. To improve the take up of mediation at an early stage, we plan to mandate mediation
+for three categories of cases.  
+(a) First, mediation will be mandatory for certain types of community disputes.
+Penalties will be imposed for not attending mandatory mediation. So, for
+instance, if you are required to go through mandatory mediation and you do not,
+then the case at CDRT will not proceed.
+(b) Second, for voluntary mediation cases previously mediated and settled at the
+CMC, but the mediated issues have resurfaced or there was a new dispute
+related to what was mediated previously, the CMC will be able to mandate re-
+mediation.
+
+(c) Third, we will, in general, require disputing neighbours to undergo mediation
+before they can file a claim to the CDRT. This will prevent disputes from
+escalating unnecessarily to a court process. 
+
+24. After we make mediation mandatory, the 80% settlement rate I mentioned earlier may
+well come down because now will be included in this group, cases where parties do
+not want to find a solution amongst themselves.
+25. Nonetheless, it is important to provide parties a platform to seek an amicable
+resolution; and it can still be highly effective in the hands of a good mediator, with
+some good public education. And I think many Members in this House, like Mr Dennis
+Tan said earlier, have seen many of such cases in the course of your rounds when you
+visit residents. Your encouragement to refer these to mediation will help.
+26. To give mediation more standing and teeth, we will also create a mechanism for
+settlement agreements mediated by the CMC to be registered and enforced as a
+CDRT Order, provided certain conditions are met. We will set out those conditions
+after we have studied this.
+27. To Mr Pillai’s query on forward deploying mediation services:
+(a) We believe that in the hands of a very good mediator, many of these disputes
+can be resolved amicably. And in many cases, part of the reluctance is because
+you have a dispute with a neighbour who lives three feet away, and you do not
+want to travel all the way down to the CBD area about 45 minutes away to do
+mediation.
+(b) I am pleased to share that the CMC has begun offering mediation services at six
+satellite locations at selected ServiceSG Centres and Community Clubs, some
+placed within the precinct where the two neighbours live, or at least close by.
+(c) We will also offer online mediation for suitable voluntary neighbour dispute cases
+in two GRCs as a pilot to start with and we will decide if it works, and perhaps
+look at scaling that up. That removes the geographical difficulties that they might
+face in going down to mediation when the party they should be speaking to is
+only three feet away.
+
+28. To support these efforts, the CMC has begun to increase the number of mediators on
+its panel of accredited community mediators and will look at growing this pool as
+quickly as possible.
+29. Despite what I said, some disputes will remain unresolved despite early intervention,
+best efforts at mediation and all the efforts we make at making mediation more
+accessible.
+30. For these cases, the CDRT will continue to serve as an avenue of last resort.
+(a) We will make improvements to address feedback that laypeople face difficulties
+in collecting evidence, and navigating the CDRT’s process and procedures.
+MND’s initiatives, which SMS Sim Ann will talk about later, will complement the
+mediation and the CDRT process.
+(b) In addition, we are studying how best to address cases where a person’s acts of
+nuisance may be linked to an underlying mental health condition.
+
+(c) Furthermore, there will also be stronger measures to deter non-compliance with
+the CDRT’s orders.
+
+31. Lastly, we are also taking steps to ensure that residents are, in fact, aware of and have
+the resources to help them utilise these tools to help themselves resolve these
+disputes.
+32. Residents may have questions such as:
+(a) What is mediation?
+(b) Or how do I explain my concerns to the mediator?
+(c) And perhaps, how do I prepare for a CDRT hearing?
+33. We are, thus, working with partners in our community to provide residents facing such
+disputes with advice and guidance, and possibly also, legal representation in the more
+complex cases.
+34. One example is what Mr Raj Joshua Thomas spoke about: the new Community Law
+Centre (CLC) run by Pro Bono SG. It was launched in January 2023, and this effort
+brings legal services right into the heartlands. For the first time, full-time community
+lawyers will serve the community through the CLCs, providing legal advice and
+assistance on a whole range of different issues.
+35. To Mr Thomas’ point on the CLCs, Pro Bono SG does indeed have plans to expand
+the CLCs beyond the pilot that is currently at Tian De Temple. We are supportive of
+the work that they do, and the Government will assess at an appropriate juncture how
+best to support this expansion.
+II. Boosting Singapore’s Economy with a Forward-Looking Legal Services &amp; IP Hub
+36. Madam, I turn now to how we are strengthening Singapore as a legal services and
+intellectual property (IP) hub.
+37. We continue to push ahead in enhancing Singapore’s hard-earned position and
+reputation as a leading legal services and IP hub. This, I think Members will
+appreciate, is necessary, not just to grow the legal and IP sectors, but also to support
+Singapore’s broader status as a centre for commerce, banking, and finance.
+A. Expanding legal technology capabilities and equipping our legal workforce to meet
+today’s and tomorrow’s needs
+38. But as Members have noted, there will be challenges ahead.
+39. As Mr Zhulkarnain, Mr de Souza, and Ms Nadia Ahmad Samdin pointed out, our
+society and our economy are evolving. This will have an impact on our legal needs,
+and consequently, on law firms and lawyers. As Mr Thomas noted, law firms are being
+disrupted by technology and innovation.
+40. Mr Thomas asked about the progress of the initiatives under the Professional Services
+Industry Transformation Map (ITM). MTI will be providing more details of the refreshed
+ITM during their COS.
+41. Let me share what MinLaw is working on. I will touch briefly on two aspects: One, on
+infrastructure; and two, on manpower development.
+
+Infrastructure
+42. First, on infrastructure. Technology has changed how judicial and legal services are
+delivered and consumed. Our courts and law firms need to equip themselves with the
+necessary tools.
+Courts and Technology
+43. The Courts have in place measures, to ensure the case management systems can
+deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts
+have various electronic filing systems to deal with different types of cases. Each of
+these case management systems are constantly reviewed and enhanced when
+necessary to ensure that they meet the caseload. The product teams for each system
+also track the utilisation rates of the servers, to anticipate necessary hardware and
+software upgrades, and also, the occasional surge in demand. This approach has, by
+and large, served the Courts well.
+44. While there are occasional disruptions due to unforeseeable hardware failures,
+software and servers are progressively being shifted to the latest cloud infrastructure
+to reduce such occurrences.
+45. Where future challenges are concerned, the Courts have planned various
+enhancements to cater for an increasing need to allow citizens to file applications
+directly, so that they can cut out the intermediary process and be able to do so on their
+own. SPS Rahayu will elaborate on this.
+46. Together with other efforts, the Courts are ready to meet future challenges and will
+continue regular dialogue with stakeholders, to better address user needs.
+Enhancement of the Legal Technology Platform
+47. For law firms, we recognise that it will be challenging for them, especially the small and
+medium-sized Singapore law practices (SLPs) – More difficult for them to curate,
+customise and perhaps develop their own IT solutions, mainly due to the lack of
+economies of scale. MinLaw has therefore taken on this role, and launched the Legal
+Technology Platform (LTP) in July last year.
+48. The LTP is a matter management and collaboration tool, customised for legal
+workflows. In other words, developed to intuitively fit the legal workflow process that
+each firm, particularly a smaller firm, might need and require at the backend and
+progressively also, deal with needs at the front end. Through the LTP, SLPs can
+manage and collaborate on matters more seamlessly internally and also with their
+clients externally. They can also access data from commonly used practice and
+document management systems, such as Tessaract, Clio, TessaCloud and
+NetDocuments.
+49. Mr Thomas asked about the reception of the LTP. As of January 2023, the LTP has
+been adopted by 27 Singapore-based firms, with around 550 Singapore-based users.
+50. Let me perhaps illustrate the point with reference to one firm’s example and
+experience. This firm is Albakri LLC, a small SLP. Instead of copying and pasting from
+past MS Word documents, the firm created its own matter templates and listed all the
+tasks relevant to a particular matter on the LTP. This enables its new associates to
+familiarise themselves independently with the firm’s processes and workflow. It not only frees up the partners’ time to supervise and train the associates, but also helps to
+institutionalise the firm’s know-how and knowledge bank. The firm’s templates are now
+in a cloud-based repository, instead of the email archives of the individual lawyers, so
+that there is more institutional knowledge even when lawyers might leave the firm and
+new ones come in. This has saved 50% of the onboarding time for new matters.
+Seeing its usefulness, the firm has also contributed a matter template on probate. This
+is now publicly available through the LTP. Firms, after seeing how it works for them,
+can decide that they want to contribute a template which will then be shared across on
+LTP, and so other firms can access this, and eventually level up using these best
+practices that are shared on the LTP.
+51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We
+have constantly taken soundings from them, to check on how they have used it, and
+what else they would like to see. For example, come April this year, the LTP will be
+able to process information from systems, such as eLitigation and ACRA, and also
+integrated with Sign with SingPass.
+Legal Industry Digital Plan
+52. To complement the LTP, we have worked with IMDA and our industry partners to
+develop the Legal Industry Digital Plan (IDP). This will be an additional resource, to
+guide SLPs on how the LTP and other tools work together complementarily to support
+their digital transformation. It will also provide guidance on how SLPs can shore up
+their cybersecurity and data protection measures.
+Manpower Development
+53. The second aspect I wish to speak about is manpower development – a point touched
+on by Mr de Souza, Mr Zhulkarnain, Ms Nadia, and Mr Thomas.
+54. As Members have recognised, technology is an enabler, which helps our law firms and
+lawyers to work more efficiently and effectively. But it cannot replace human beings. It
+cannot replace the human lawyers.
+55. For example, in family and criminal cases, we are dealing with a range of emotions. It
+is not just the legal considerations or what the law might say but what are those
+special peculiar idiosyncrasies and emotions that go behind each decision that might
+be made, particularly in family and criminal matters.
+56. In complex cases, we are dealing with different contexts, different nuances, and
+perhaps also, the context of business done in Singapore or through Singapore. This
+business context, the Asian way of doing business, and the particular experience that
+a lawyer has with his or her client – all that is not something that an AI, like a chatbot,
+can easily replicate.
+(a) Indeed, ChatGPT, the most invoked chatbot tool that we have seen in recent
+times, did pass the law exams, with a C+. It is an apt example. Reports say that
+it may be helpful at producing a first draft for lawyers to consider.
+(b) But as I said, it does not deal with the range of emotions that might lie behind
+why a client might choose a certain course of action in a range of cases. And it
+will also struggle with the most classic components of law exams, such as
+spotting the potential legal issues and deep analysis applying the legal rules to
+the particular situation and nuances of a particular case; and also, appreciate the human dynamics and personal idiosyncrasies which may lie behind even the
+most complex of complex corporate transactions.
+
+57. Therefore, what we need to do, and in fact, we have to do, is to re-double our efforts
+on developing our human talent, as much as we need to invest in technology.
+
+Legal Secondment Programme and Lawyers Exchange Programme
+58. We will be launching an industry-wide secondment programme, which aims to deepen
+the capabilities of lawyers in important markets, as well as new or high growth areas,
+such as sustainability, technology and M&amp;A.
+59. We are targeting to have an intake of 30 lawyers a year, at a steady state.
+60. We are also exploring exchange programmes with foreign bar associations.
+61. The objective being to help Singapore lawyers build networks externally. Because of
+globalisation, transactions are now very much cross-border, and relations that we
+develop with other lawyers from other jurisdictions will give our lawyers a leg-up. They
+will also gain a deeper understanding of the work in priority markets through overseas
+attachments or study visit opportunities.
+Legal Education Reforms
+62. Next, let me touch on legal education reforms. As the Chief Justice announced, at the
+Opening of the Legal Year (OLY) this year, a Working Group, comprising: MinLaw,
+members of the Judiciary, the profession, law schools, and legal education providers,
+has been formed to conduct a holistic review of our legal education system.
+63. This will take into account the evolving needs of our society and economy – very much
+the various points raised by Members earlier about taking on board today’s context,
+evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
+profession. This will include areas of practice which are new, emerging or growing, for
+example, in technology and civil law; and applies to law schools and also to continuing
+professional development.
+64. Mr Thomas suggested reviewing the Bar exam syllabus to incorporate harnessing
+technology. Based on feedback from the industry, the current generation of law
+students are generally technologically-savvy.
+65. Nonetheless, as part of the Singapore Institute of Legal Education’s recent review of
+the Part B Syllabus, contemporary legal issues, such as law and technology, and the
+use of technology in practice, have also been incorporated to better prepare
+candidates for practice.
+66. This will no doubt equip law students and lawyers with the knowledge and skills they
+need for practice, and prepare them for the challenges ahead.
+67. This will also hopefully allow them to develop a more sustainable career in the legal
+industry.
+
+Attrition
+
+Legal practice is tough. Long hours, demanding clients, transactions that need to be
+done quickly and overnight. There is a lot of stress, whether it is from clients,
+sometimes from judges when you appear in Court, and fellow practitioners. And the
+competition can be intense.
+69. As the President of the Law Society, Mr Adrian Tan, noted in his speech at the OLY: in
+2022, it had its first membership reduction in half a decade.
+70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly
+after that, a batch of new lawyers for the year were mass called and introduced to the
+Bar.
+71. If we take this into account, then there would in fact have been a gradual, small
+increase in the total number of Singapore-qualified practising lawyers over the years.
+To give Members some idea of the numbers: from around 5,400 practitioners in 2017
+to around 6,400 practitioners in 2022. That said, when we looked at the trends and did
+a more granular review, it is apparent that the rate of increase in the number of
+Singapore-qualified practising lawyers has come down. It is increasing, but the rate of
+increase has slowed. And in part, this is due to a decrease in the number of returning
+overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
+72. But at the same time, I would say attrition from private practice is not new. I think those
+of us who are lawyers and have been in practice for a while would have seen the
+trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today,
+have more options than in the past and can leave private practice, but still contribute
+within the legal sector. They can join the government, legal tech companies. They can
+enter academia. And like Mr Patrick Tay said earlier, greatly boosting legal services
+are in-house corporate counsel. And the lawyers who leave practice carry with them
+that experience from practice into these other fields which are adjunct to practice but
+still serving the legal industry. This is not necessarily a bad outcome, because we
+need legal talent to support all aspects of our economy and our society.
+73. Ms Nadia referred to young lawyers experiencing burnout. Making private practice
+sustainable is something that the Government cannot alone achieve. It has to work
+with bodies like the Singapore Academy of Law, Law Society, and even the firms. It
+requires effort from all these parties, because the work environment, we know, has a
+direct impact on the well-being of the lawyers.
+74. I am heartened to note that on this score, the Law Society has a number of support
+schemes available for mentorship, guidance on career-related issues, or support with
+stress management. One example is the Members’ Assistance &amp; Care Helpline, a one-
+stop referral and information service that Law Society members can turn to when faced
+with issues at work.
+Supporting in-house counsel and paralegals
+75. Our efforts also extend to other professionals within the legal industry. Mr Tay asked
+how we are supporting them.
+76. For in-house counsel, we work closely with the Singapore Corporate Counsel
+Association (SCCA), of which Mr Tay is an honorary member, to promote community
+building and to roll out training and development initiatives. Examples include a
+mentorship programme and courses for targeted upskilling for corporate counsel.
+MinLaw also supports training providers in the development of programmes that build 
+
+
 
 
 
