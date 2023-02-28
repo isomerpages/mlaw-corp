@@ -538,28 +538,18 @@ Training Period from six months to one year. This was to take effect from the 20
 session of the Part B of the Singapore Bar Examination onwards.
 
 {:start="80"}
-80. However, MinLaw noted feedback from the industry that the COVID-19 pandemic –
-work from home and other such measures – had caused disruptions to work. With the
-recent resumption of travel and business activities, more time is needed to prepare for
-these changes. Therefore, these changes that were announced previously, will be
-deferred and implemented from the 2024 session of the Part B of the Singapore Bar
-Examination onwards. More information will be available from MinLaw and other
-stakeholders in due course.
+80. However, MinLaw noted feedback from the industry that the COVID-19 pandemic – work from home and other such measures – had caused disruptions to work. With the recent resumption of travel and business activities, more time is needed to prepare for these changes. Therefore, these changes that were announced previously, will be deferred and implemented from the 2024 session of the Part B of the Singapore Bar Examination onwards. More information will be available from MinLaw and other stakeholders in due course.
 
 B. <u>Building upon the Singapore IP Strategy (SIPS) 2030 to prepare businesses for the future</u>
 
 {:start="81"}
-81. I would like to circle back to the point about our changing world, which Members had
-underscored. Our world is evolving, in no small part, because of digitalisation and new
-technologies.
+81. I would like to circle back to the point about our changing world, which Members had underscored. Our world is evolving, in no small part, because of digitalisation and new technologies.
 
 {:start="82"}
-82. This heightens the importance of protecting intangible assets (IA) and intellectual
-property (IP).
+82. This heightens the importance of protecting intangible assets (IA) and intellectual property (IP).
 
 {:start="83"}
-83. Therefore, let me share briefly our IP strategy that aims to prepare our businesses as
-they digitalise and innovate in the global economy, which is intrinsically linked with IA.
+83. Therefore, let me share briefly our IP strategy that aims to prepare our businesses as they digitalise and innovate in the global economy, which is intrinsically linked with IA.
 
 <i><u>Update on SIPS 2030 to support enterprises in their IA/IP needs</u></i>
 
@@ -567,36 +557,24 @@ they digitalise and innovate in the global economy, which is intrinsically linke
 84. MinLaw, MOF and MTI are driving the Singapore IP Strategy 2030 (SIPS 2030).
 
 {:start="85"}
-85. SIPS 2030 is a ten-year blueprint to strengthen and cement Singapore’s position as a
-global IA, and IP hub.
+85. SIPS 2030 is a ten-year blueprint to strengthen and cement Singapore’s position as a global IA, and IP hub.
 
 {:start="86"}
-86. As part of SIPS 2030, we have been working to support businesses to leverage their
-IA and IP for growth.
+86. As part of SIPS 2030, we have been working to support businesses to leverage their IA and IP for growth.
 
 {:start="87"}
-87. This year, we will be introducing the Intangibles Disclosure Framework. The intention
-is to provide a consistent basis for businesses to disclose and communicate details of
-their intangibles. A framework so that everyone speaks the same language, and can
-understand what that disclosure is meant to describe. This will provide stakeholders with comparable information about the businesses’ intangibles, so that more informed
-assessments of the business and financial prospects can be made.
+87. This year, we will be introducing the Intangibles Disclosure Framework. The intention is to provide a consistent basis for businesses to disclose and communicate details of their intangibles. A framework so that everyone speaks the same language, and can understand what that disclosure is meant to describe. This will provide stakeholders with comparable information about the businesses’ intangibles, so that more informed assessments of the business and financial prospects can be made.
 
 {:start="88"}
-88. This will in turn facilitate intangible asset commercialisation, transactions and
-financing.
+88. This will in turn facilitate intangible asset commercialisation, transactions and financing.
 
 {:start="89"}
-89. In addition, we will launch GoBusiness IP Grow. It is an enterprise-centric online
-platform which will help businesses understand their own IP needs based on their
-business activities; match businesses to appropriate IP services providers based on
-the particular business model they are practising and using; and also provide one-stop
-access to enterprise IA and IP-related resources.
+89. In addition, we will launch GoBusiness IP Grow. It is an enterprise-centric online platform which will help businesses understand their own IP needs based on their business activities; match businesses to appropriate IP services providers based on the particular business model they are practising and using; and also provide one-stop access to enterprise IA and IP-related resources.
 
 <u><i>Review of land allocation &amp; pricing framework for Places of Worship</i></u>
 
 {:start="90"}
-90. Finally, let me turn to address the review of the land allocation and pricing framework
-for Places of Worship, raised by Ms Sylvia Lim and Mr Jamus Lim.
+90. Finally, let me turn to address the review of the land allocation and pricing framework for Places of Worship, raised by Ms Sylvia Lim and Mr Jamus Lim.
 
 {:start="91"}
 91. The Government is aware of these issues, as Ms Lim had noted in her speech.
