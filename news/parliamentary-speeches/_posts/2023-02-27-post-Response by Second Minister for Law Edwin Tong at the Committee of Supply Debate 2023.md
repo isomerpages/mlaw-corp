@@ -231,29 +231,21 @@ only three feet away.
 33. We are, thus, working with partners in our community to provide residents facing such disputes with advice and guidance, and possibly also, legal representation in the more complex cases.
 
 {:start="34"}
-34. One example is what Mr Raj Joshua Thomas spoke about: the new Community Law
-Centre (CLC) run by Pro Bono SG. It was launched in January 2023, and this effort
-brings legal services right into the heartlands. For the first time, full-time community
-lawyers will serve the community through the CLCs, providing legal advice and
+34. One example is what Mr Raj Joshua Thomas spoke about: the new Community Law Centre (CLC) run by Pro Bono SG. It was launched in January 2023, and this effort
+brings legal services right into the heartlands. For the first time, full-time community lawyers will serve the community through the CLCs, providing legal advice and
 assistance on a whole range of different issues.
 
 {:start="35"}
-35. To Mr Thomas’ point on the CLCs, Pro Bono SG does indeed have plans to expand
-the CLCs beyond the pilot that is currently at Tian De Temple. We are supportive of
-the work that they do, and the Government will assess at an appropriate juncture how
-best to support this expansion.
+35. To Mr Thomas’ point on the CLCs, Pro Bono SG does indeed have plans to expand the CLCs beyond the pilot that is currently at Tian De Temple. We are supportive of
+the work that they do, and the Government will assess at an appropriate juncture how best to support this expansion.
 
 <b>II. <u>Boosting Singapore’s Economy with a Forward-Looking Legal Services & IP Hub</u></b>
 
 {:start="36"}
-36. Madam, I turn now to how we are strengthening Singapore as a legal services and
-intellectual property (IP) hub.
+36. Madam, I turn now to how we are strengthening Singapore as a legal services and intellectual property (IP) hub.
 
 {:start="37"}
-37. We continue to push ahead in enhancing Singapore’s hard-earned position and
-reputation as a leading legal services and IP hub. This, I think Members will
-appreciate, is necessary, not just to grow the legal and IP sectors, but also to support
-Singapore’s broader status as a centre for commerce, banking, and finance.
+37. We continue to push ahead in enhancing Singapore’s hard-earned position and reputation as a leading legal services and IP hub. This, I think Members will appreciate, is necessary, not just to grow the legal and IP sectors, but also to support Singapore’s broader status as a centre for commerce, banking, and finance.
 
 A. <u>Expanding legal technology capabilities and equipping our legal workforce to meet today’s and tomorrow’s needs</u>
 
