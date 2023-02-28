@@ -356,22 +356,17 @@ integrated with Sign with SingPass.
 Legal Industry Digital Plan
 
 {:start="52"}
-52. To complement the LTP, we have worked with IMDA and our industry partners to
-develop the Legal Industry Digital Plan (IDP). This will be an additional resource, to
-guide SLPs on how the LTP and other tools work together complementarily to support
-their digital transformation. It will also provide guidance on how SLPs can shore up
+52. To complement the LTP, we have worked with IMDA and our industry partners to develop the Legal Industry Digital Plan (IDP). This will be an additional resource, to
+guide SLPs on how the LTP and other tools work together complementarily to support their digital transformation. It will also provide guidance on how SLPs can shore up
 their cybersecurity and data protection measures.
 
 <u><i>Manpower Development</i></u>
 
 {:start="53"}
-53. The second aspect I wish to speak about is manpower development – a point touched
-on by Mr de Souza, Mr Zhulkarnain, Ms Nadia, and Mr Thomas.
+53. The second aspect I wish to speak about is manpower development – a point touched on by Mr de Souza, Mr Zhulkarnain, Ms Nadia, and Mr Thomas.
 
 {:start="54"}
-54. As Members have recognised, technology is an enabler, which helps our law firms and
-lawyers to work more efficiently and effectively. But it cannot replace human beings. It
-cannot replace the human lawyers.
+54. As Members have recognised, technology is an enabler, which helps our law firms and lawyers to work more efficiently and effectively. But it cannot replace human beings. It cannot replace the human lawyers.
 
 {:start="55"}
 55. For example, in family and criminal cases, we are dealing with a range of emotions. It is not just the legal considerations or what the law might say but what are those special peculiar idiosyncrasies and emotions that go behind each decision that might be made, particularly in family and criminal matters.
