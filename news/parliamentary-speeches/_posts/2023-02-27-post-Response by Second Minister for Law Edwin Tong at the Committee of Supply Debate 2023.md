@@ -602,27 +602,16 @@ for Places of Worship, raised by Ms Sylvia Lim and Mr Jamus Lim.
 91. The Government is aware of these issues, as Ms Lim had noted in her speech.
 
 {:start="92"}
-92. We had in fact given a previous Parliamentary reply which Ms Lim also noted, and it
-was noted then, and let me just reiterate, that we have been reviewing the land
-allocation and pricing framework for Places of Worship, to see how the prices can be
-mitigated, bearing in mind the concerns that you have raised. We have given our
-response previously, and we have been looking at this.
+92. We had in fact given a previous Parliamentary reply which Ms Lim also noted, and it was noted then, and let me just reiterate, that we have been reviewing the land allocation and pricing framework for Places of Worship, to see how the prices can be mitigated, bearing in mind the concerns that you have raised. We have given our response previously, and we have been looking at this.
 
 {:start="93"}
-93. As Members would appreciate, this has been the subject of careful study, given its
-implications on land allocation and pricing framework.
+93. As Members would appreciate, this has been the subject of careful study, given its implications on land allocation and pricing framework.
 
 {:start="94"}
-94. This study is still ongoing and details will be released when we have completed the
-study.
+94. This study is still ongoing and details will be released when we have completed the study.
 
 {:start="95"}
-95. In the meantime, the Government has been working with affected religious
-organisations to assist them in mitigating the increase in land prices. For instance, this
-would include offering the religious organisations a short-term tenancy extension or
-renewal, pending the outcome of this review that we are undertaking. This is so that
-these organisations would not be compromised by entering into a long-term lease
-arrangement on the present framework before the review is completed.
+95. In the meantime, the Government has been working with affected religious organisations to assist them in mitigating the increase in land prices. For instance, this would include offering the religious organisations a short-term tenancy extension or renewal, pending the outcome of this review that we are undertaking. This is so that these organisations would not be compromised by entering into a long-term lease arrangement on the present framework before the review is completed.
 
 <b><u>Conclusion</u></b>
 
@@ -630,7 +619,6 @@ arrangement on the present framework before the review is completed.
 96. Madam, SPS Rahayu will cover the other cuts.
 
 {:start="97"}
-97. I thank Members for support of MinLaw’s work, for their speeches, and look forward to
-their continued cooperation, support and also for their continued feedback that they give to MinLaw that helps us to sharpen each of our policies, and ensure that the last-mile delivery is carried out in the way it is intended.
+97. I thank Members for support of MinLaw’s work, for their speeches, and look forward to their continued cooperation, support and also for their continued feedback that they give to MinLaw that helps us to sharpen each of our policies, and ensure that the last-mile delivery is carried out in the way it is intended.
 
 <p class="right-side-updated">Last updated on 27 February 2023</p>
