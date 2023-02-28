@@ -261,91 +261,51 @@ A. <u>Expanding legal technology capabilities and equipping our legal workforce 
 38. But as Members have noted, there will be challenges ahead.
 
 {:start="39"}
-39. As Mr Zhulkarnain, Mr de Souza, and Ms Nadia Ahmad Samdin pointed out, our
-society and our economy are evolving. This will have an impact on our legal needs,
-and consequently, on law firms and lawyers. As Mr Thomas noted, law firms are being
-disrupted by technology and innovation.
+39. As Mr Zhulkarnain, Mr de Souza, and Ms Nadia Ahmad Samdin pointed out, our society and our economy are evolving. This will have an impact on our legal needs,
+and consequently, on law firms and lawyers. As Mr Thomas noted, law firms are being disrupted by technology and innovation.
 
 {:start="40"}
-40. Mr Thomas asked about the progress of the initiatives under the Professional Services
-Industry Transformation Map (ITM). MTI will be providing more details of the refreshed
-ITM during their COS.
+40. Mr Thomas asked about the progress of the initiatives under the Professional Services Industry Transformation Map (ITM). MTI will be providing more details of the refreshed ITM during their COS.
 
 {:start="41"}
-41. Let me share what MinLaw is working on. I will touch briefly on two aspects: One, on
-infrastructure; and two, on manpower development.
+41. Let me share what MinLaw is working on. I will touch briefly on two aspects: One, on infrastructure; and two, on manpower development.
 
 <i><u>Infrastructure</u></i>
 
 {:start="42"}
-42. First, on infrastructure. Technology has changed how judicial and legal services are
-delivered and consumed. Our courts and law firms need to equip themselves with the
-necessary tools.
+42. First, on infrastructure. Technology has changed how judicial and legal services are delivered and consumed. Our courts and law firms need to equip themselves with the necessary tools.
 
 <i><u>Courts and Technology</u></i>
 
 {:start="43"}
-43. The Courts have in place measures, to ensure the case management systems can
-deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts
-have various electronic filing systems to deal with different types of cases. Each of
-these case management systems are constantly reviewed and enhanced when
-necessary to ensure that they meet the caseload. The product teams for each system
-also track the utilisation rates of the servers, to anticipate necessary hardware and
-software upgrades, and also, the occasional surge in demand. This approach has, by
-and large, served the Courts well.
+43. The Courts have in place measures, to ensure the case management systems can deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts have various electronic filing systems to deal with different types of cases. Each of
+these case management systems are constantly reviewed and enhanced when necessary to ensure that they meet the caseload. The product teams for each system also track the utilisation rates of the servers, to anticipate necessary hardware and software upgrades, and also, the occasional surge in demand. This approach has, by and large, served the Courts well.
 
 {:start="44"}
-44. While there are occasional disruptions due to unforeseeable hardware failures,
-software and servers are progressively being shifted to the latest cloud infrastructure
-to reduce such occurrences.
+44. While there are occasional disruptions due to unforeseeable hardware failures, software and servers are progressively being shifted to the latest cloud infrastructure to reduce such occurrences.
 
 {:start="45"}
-45. Where future challenges are concerned, the Courts have planned various
-enhancements to cater for an increasing need to allow citizens to file applications
-directly, so that they can cut out the intermediary process and be able to do so on their
-own. SPS Rahayu will elaborate on this.
+45. Where future challenges are concerned, the Courts have planned various enhancements to cater for an increasing need to allow citizens to file applications
+directly, so that they can cut out the intermediary process and be able to do so on their own. SPS Rahayu will elaborate on this.
 
 {:start="46"}
-46. Together with other efforts, the Courts are ready to meet future challenges and will
-continue regular dialogue with stakeholders, to better address user needs.
-Enhancement of the Legal Technology Platform
+46. Together with other efforts, the Courts are ready to meet future challenges and will continue regular dialogue with stakeholders, to better address user needs. 
+
+<u><i>Enhancement of the Legal Technology Platform</i></u>
 
 {:start="47"}
-47. For law firms, we recognise that it will be challenging for them, especially the small and
-medium-sized Singapore law practices (SLPs) – More difficult for them to curate,
-customise and perhaps develop their own IT solutions, mainly due to the lack of
-economies of scale. MinLaw has therefore taken on this role, and launched the Legal
-Technology Platform (LTP) in July last year.
+47. For law firms, we recognise that it will be challenging for them, especially the small and medium-sized Singapore law practices (SLPs) – More difficult for them to curate, customise and perhaps develop their own IT solutions, mainly due to the lack of economies of scale. MinLaw has therefore taken on this role, and launched the Legal Technology Platform (LTP) in July last year.
 
 {:start="48"}
-48. The LTP is a matter management and collaboration tool, customised for legal
-workflows. In other words, developed to intuitively fit the legal workflow process that
-each firm, particularly a smaller firm, might need and require at the backend and
-progressively also, deal with needs at the front end. Through the LTP, SLPs can
-manage and collaborate on matters more seamlessly internally and also with their
-clients externally. They can also access data from commonly used practice and
-document management systems, such as Tessaract, Clio, TessaCloud and
-NetDocuments.
+48. The LTP is a matter management and collaboration tool, customised for legal workflows. In other words, developed to intuitively fit the legal workflow process that each firm, particularly a smaller firm, might need and require at the backend and progressively also, deal with needs at the front end. Through the LTP, SLPs can manage and collaborate on matters more seamlessly internally and also with their clients externally. They can also access data from commonly used practice and document management systems, such as Tessaract, Clio, TessaCloud and NetDocuments.
 
 {:start="49"}
-49. Mr Thomas asked about the reception of the LTP. As of January 2023, the LTP has
-been adopted by 27 Singapore-based firms, with around 550 Singapore-based users.
+49. Mr Thomas asked about the reception of the LTP. As of January 2023, the LTP has been adopted by 27 Singapore-based firms, with around 550 Singapore-based users.
 
 {:start="50"}
-50. Let me perhaps illustrate the point with reference to one firm’s example and
-experience. This firm is Albakri LLC, a small SLP. Instead of copying and pasting from
-past MS Word documents, the firm created its own matter templates and listed all the
-tasks relevant to a particular matter on the LTP. This enables its new associates to
-familiarise themselves independently with the firm’s processes and workflow. It not only frees up the partners’ time to supervise and train the associates, but also helps to
-institutionalise the firm’s know-how and knowledge bank. The firm’s templates are now
-in a cloud-based repository, instead of the email archives of the individual lawyers, so
-that there is more institutional knowledge even when lawyers might leave the firm and
-new ones come in. This has saved 50% of the onboarding time for new matters.
-Seeing its usefulness, the firm has also contributed a matter template on probate. This
-is now publicly available through the LTP. Firms, after seeing how it works for them,
-can decide that they want to contribute a template which will then be shared across on
-LTP, and so other firms can access this, and eventually level up using these best
-practices that are shared on the LTP.
+50. Let me perhaps illustrate the point with reference to one firm’s example and experience. This firm is Albakri LLC, a small SLP. Instead of copying and pasting from
+past MS Word documents, the firm created its own matter templates and listed all the tasks relevant to a particular matter on the LTP. This enables its new associates to familiarise themselves independently with the firm’s processes and workflow. It not only frees up the partners’ time to supervise and train the associates, but also helps to institutionalise the firm’s know-how and knowledge bank. The firm’s templates are now
+in a cloud-based repository, instead of the email archives of the individual lawyers, so that there is more institutional knowledge even when lawyers might leave the firm and new ones come in. This has saved 50% of the onboarding time for new matters. Seeing its usefulness, the firm has also contributed a matter template on probate. This is now publicly available through the LTP. Firms, after seeing how it works for them, can decide that they want to contribute a template which will then be shared across on LTP, and so other firms can access this, and eventually level up using these best practices that are shared on the LTP.
 
 {:start="51"}
 51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We have constantly taken soundings from them, to check on how they have used it, and what else they would like to see. For example, come April this year, the LTP will be able to process information from systems, such as eLitigation and ACRA, and also integrated with Sign with SingPass.
