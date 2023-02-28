@@ -133,37 +133,30 @@ amicable, mediated position.
 
 (iii) More details for this process will be shared in MND’s and MCCY’s COS in due course.
 
-(c) But let me explain MinLaw’s work in the third area, which is in enhancing and
-improving the dispute resolution framework.
-(i) As I said, even as we look at steps to enhance and improve this process,
-we intend to channel as much of these disputes as possible through the
-mediated conciliatory route – that I think, we all accept is the best way of
-resolving a neighbour dispute.
-(ii) But given that there will be a number of these intransigent cases, we will
-work towards strengthening the powers and processes of the Community
-Disputes Resolution Tribunal (CDRT), which some Members spoke about – so that it can provide faster and more effective relief in appropriate
-cases.
+(c) But let me explain MinLaw’s work in the third area, which is in enhancing and improving the dispute resolution framework.
 
-Mediation can preserve, and even strengthen the relationship between neighbours, by
-providing them with a platform, in the hands of a trained mediator, to resolve their
-disputes amicably, in very much a win-win-fashion.
-20. Our experience has shown that mediation is not just effective, but also quicker and
-cheaper.
+(i) As I said, even as we look at steps to enhance and improve this process, we intend to channel as much of these disputes as possible through the mediated conciliatory route – that I think, we all accept is the best way of resolving a neighbour dispute.
+
+(ii) But given that there will be a number of these intransigent cases, we will work towards strengthening the powers and processes of the Community Disputes Resolution Tribunal (CDRT), which some Members spoke about – so that it can provide faster and more effective relief in appropriate cases.
+
+{:start="19"}
+19. Mediation can preserve, and even strengthen the relationship between neighbours, by providing them with a platform, in the hands of a trained mediator, to resolve their disputes amicably, in very much a win-win-fashion.
+
+{:start="20"}
+20. Our experience has shown that mediation is not just effective, but also quicker and cheaper.
+
+{:start="21"}
 21. And data has shown that mediation has been by and large successful.
+
+{:start="22"}
 22. We believe that most community dispute cases will benefit from mediation.
-(a) More than 80% of the voluntary mediation cases handled at the Community
-Mediation Centre (CMC) were successfully settled.
-(b) Now, this number, of course, has to be taken in context – it is for parties who
-voluntarily go to mediation. So they might perhaps be more predisposed to
-having amicable resolution between themselves. But nonetheless, this statistic
-tells us putting mediation as the first port of call will likely yield effective results.
-Part of the problem is that these voluntary cases handled at the CMC represent
-a minority of cases, as many neighbours do not make this attempt at mediation.
-To provide specific figures, less than 30% of such voluntary cases proceed to
-mediation.
-(c) In other words, of all cases that give rise to neighbour disputes, usually on noise,
-that proceed to mediation – 30% go to voluntary CMC mediation and of this 30%,
-80% of that number of cases are resolved amicably.
+
+(a) More than 80% of the voluntary mediation cases handled at the Community Mediation Centre (CMC) were successfully settled.
+
+(b) Now, this number, of course, has to be taken in context – it is for parties who voluntarily go to mediation. So they might perhaps be more predisposed to having amicable resolution between themselves. But nonetheless, this statistic tells us putting mediation as the first port of call will likely yield effective results. Part of the problem is that these voluntary cases handled at the CMC represent a minority of cases, as many neighbours do not make this attempt at mediation. To provide specific figures, less than 30% of such voluntary cases proceed to mediation.
+
+(c) In other words, of all cases that give rise to neighbour disputes, usually on noise, that proceed to mediation - 30% go to voluntary CMC mediation and of this 30%, 80% of that number of cases are resolved amicably.
+
 (d) This, as I said earlier, could be, in part that mediation is currently voluntary.
 (e) In addition, parties may:
 (i) Think that there is no issue to mediate, or
