@@ -254,24 +254,37 @@ intellectual property (IP) hub.
 reputation as a leading legal services and IP hub. This, I think Members will
 appreciate, is necessary, not just to grow the legal and IP sectors, but also to support
 Singapore’s broader status as a centre for commerce, banking, and finance.
-A. Expanding legal technology capabilities and equipping our legal workforce to meet
-today’s and tomorrow’s needs
+
+A. <u>Expanding legal technology capabilities and equipping our legal workforce to meet today’s and tomorrow’s needs</u>
+
+{:start="38"}
 38. But as Members have noted, there will be challenges ahead.
+
+{:start="39"}
 39. As Mr Zhulkarnain, Mr de Souza, and Ms Nadia Ahmad Samdin pointed out, our
 society and our economy are evolving. This will have an impact on our legal needs,
 and consequently, on law firms and lawyers. As Mr Thomas noted, law firms are being
 disrupted by technology and innovation.
+
+{:start="40"}
 40. Mr Thomas asked about the progress of the initiatives under the Professional Services
 Industry Transformation Map (ITM). MTI will be providing more details of the refreshed
 ITM during their COS.
+
+{:start="41"}
 41. Let me share what MinLaw is working on. I will touch briefly on two aspects: One, on
 infrastructure; and two, on manpower development.
 
-Infrastructure
+<i><u>Infrastructure</u></i>
+
+{:start="42"}
 42. First, on infrastructure. Technology has changed how judicial and legal services are
 delivered and consumed. Our courts and law firms need to equip themselves with the
 necessary tools.
-Courts and Technology
+
+<i><u>Courts and Technology</u></i>
+
+{:start="43"}
 43. The Courts have in place measures, to ensure the case management systems can
 deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts
 have various electronic filing systems to deal with different types of cases. Each of
