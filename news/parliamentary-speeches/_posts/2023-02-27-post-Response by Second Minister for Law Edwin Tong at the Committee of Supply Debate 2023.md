@@ -178,36 +178,32 @@ attempting mediation.
 (c) Third, we will, in general, require disputing neighbours to undergo mediation before they can file a claim to the CDRT. This will prevent disputes from escalating unnecessarily to a court process. 
 
 {:start="24"}
-24. After we make mediation mandatory, the 80% settlement rate I mentioned earlier may
-well come down because now will be included in this group, cases where parties do
-not want to find a solution amongst themselves.
-25. Nonetheless, it is important to provide parties a platform to seek an amicable
-resolution; and it can still be highly effective in the hands of a good mediator, with
-some good public education. And I think many Members in this House, like Mr Dennis
-Tan said earlier, have seen many of such cases in the course of your rounds when you
-visit residents. Your encouragement to refer these to mediation will help.
-26. To give mediation more standing and teeth, we will also create a mechanism for
-settlement agreements mediated by the CMC to be registered and enforced as a
-CDRT Order, provided certain conditions are met. We will set out those conditions
-after we have studied this.
+24. After we make mediation mandatory, the 80% settlement rate I mentioned earlier may well come down because now will be included in this group, cases where parties do not want to find a solution amongst themselves.
+
+{:start="25"}
+25. Nonetheless, it is important to provide parties a platform to seek an amicable resolution; and it can still be highly effective in the hands of a good mediator, with
+some good public education. And I think many Members in this House, like Mr Dennis Tan said earlier, have seen many of such cases in the course of your rounds when you visit residents. Your encouragement to refer these to mediation will help.
+
+{:start="26"}
+26. To give mediation more standing and teeth, we will also create a mechanism for settlement agreements mediated by the CMC to be registered and enforced as a
+CDRT Order, provided certain conditions are met. We will set out those conditions after we have studied this.
+
+{:start="27"}
 27. To Mr Pillai’s query on forward deploying mediation services:
-(a) We believe that in the hands of a very good mediator, many of these disputes
-can be resolved amicably. And in many cases, part of the reluctance is because
-you have a dispute with a neighbour who lives three feet away, and you do not
-want to travel all the way down to the CBD area about 45 minutes away to do
-mediation.
-(b) I am pleased to share that the CMC has begun offering mediation services at six
-satellite locations at selected ServiceSG Centres and Community Clubs, some
+
+(a) We believe that in the hands of a very good mediator, many of these disputes can be resolved amicably. And in many cases, part of the reluctance is because you have a dispute with a neighbour who lives three feet away, and you do not want to travel all the way down to the CBD area about 45 minutes away to do mediation.
+
+(b) I am pleased to share that the CMC has begun offering mediation services at six satellite locations at selected ServiceSG Centres and Community Clubs, some
 placed within the precinct where the two neighbours live, or at least close by.
-(c) We will also offer online mediation for suitable voluntary neighbour dispute cases
-in two GRCs as a pilot to start with and we will decide if it works, and perhaps
-look at scaling that up. That removes the geographical difficulties that they might
-face in going down to mediation when the party they should be speaking to is
+
+(c) We will also offer online mediation for suitable voluntary neighbour dispute cases in two GRCs as a pilot to start with and we will decide if it works, and perhaps
+look at scaling that up. That removes the geographical difficulties that they might face in going down to mediation when the party they should be speaking to is
 only three feet away.
 
-28. To support these efforts, the CMC has begun to increase the number of mediators on
-its panel of accredited community mediators and will look at growing this pool as
-quickly as possible.
+{:start="28"}
+28. To support these efforts, the CMC has begun to increase the number of mediators on its panel of accredited community mediators and will look at growing this pool as quickly as possible.
+
+{:start="29"}
 29. Despite what I said, some disputes will remain unresolved despite early intervention,
 best efforts at mediation and all the efforts we make at making mediation more
 accessible.
