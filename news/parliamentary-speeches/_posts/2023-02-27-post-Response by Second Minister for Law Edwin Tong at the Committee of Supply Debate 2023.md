@@ -204,42 +204,52 @@ only three feet away.
 28. To support these efforts, the CMC has begun to increase the number of mediators on its panel of accredited community mediators and will look at growing this pool as quickly as possible.
 
 {:start="29"}
-29. Despite what I said, some disputes will remain unresolved despite early intervention,
-best efforts at mediation and all the efforts we make at making mediation more
-accessible.
+29. Despite what I said, some disputes will remain unresolved despite early intervention, best efforts at mediation and all the efforts we make at making mediation more accessible.
+
+{:start="30"}
 30. For these cases, the CDRT will continue to serve as an avenue of last resort.
-(a) We will make improvements to address feedback that laypeople face difficulties
-in collecting evidence, and navigating the CDRT’s process and procedures.
-MND’s initiatives, which SMS Sim Ann will talk about later, will complement the
-mediation and the CDRT process.
-(b) In addition, we are studying how best to address cases where a person’s acts of
-nuisance may be linked to an underlying mental health condition.
 
-(c) Furthermore, there will also be stronger measures to deter non-compliance with
-the CDRT’s orders.
+(a) We will make improvements to address feedback that laypeople face difficulties in collecting evidence, and navigating the CDRT’s process and procedures. MND’s initiatives, which SMS Sim Ann will talk about later, will complement the mediation and the CDRT process.
 
-31. Lastly, we are also taking steps to ensure that residents are, in fact, aware of and have
-the resources to help them utilise these tools to help themselves resolve these
-disputes.
+(b) In addition, we are studying how best to address cases where a person’s acts of nuisance may be linked to an underlying mental health condition.
+
+(c) Furthermore, there will also be stronger measures to deter non-compliance with the CDRT’s orders.
+
+{:start="31"}
+31. Lastly, we are also taking steps to ensure that residents are, in fact, aware of and have the resources to help them utilise these tools to help themselves resolve these disputes.
+
+{:start="32"}
 32. Residents may have questions such as:
+
 (a) What is mediation?
+
 (b) Or how do I explain my concerns to the mediator?
+
 (c) And perhaps, how do I prepare for a CDRT hearing?
-33. We are, thus, working with partners in our community to provide residents facing such
-disputes with advice and guidance, and possibly also, legal representation in the more
-complex cases.
+
+{:start="33"}
+33. We are, thus, working with partners in our community to provide residents facing such disputes with advice and guidance, and possibly also, legal representation in the more complex cases.
+
+{:start="34"}
 34. One example is what Mr Raj Joshua Thomas spoke about: the new Community Law
 Centre (CLC) run by Pro Bono SG. It was launched in January 2023, and this effort
 brings legal services right into the heartlands. For the first time, full-time community
 lawyers will serve the community through the CLCs, providing legal advice and
 assistance on a whole range of different issues.
+
+{:start="35"}
 35. To Mr Thomas’ point on the CLCs, Pro Bono SG does indeed have plans to expand
 the CLCs beyond the pilot that is currently at Tian De Temple. We are supportive of
 the work that they do, and the Government will assess at an appropriate juncture how
 best to support this expansion.
-II. Boosting Singapore’s Economy with a Forward-Looking Legal Services &amp; IP Hub
+
+<b>II. <u>Boosting Singapore’s Economy with a Forward-Looking Legal Services & IP Hub</u></b>
+
+{:start="36"}
 36. Madam, I turn now to how we are strengthening Singapore as a legal services and
 intellectual property (IP) hub.
+
+{:start="37"}
 37. We continue to push ahead in enhancing Singapore’s hard-earned position and
 reputation as a leading legal services and IP hub. This, I think Members will
 appreciate, is necessary, not just to grow the legal and IP sectors, but also to support
