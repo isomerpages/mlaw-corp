@@ -472,33 +472,17 @@ competition can be intense.
 Bar.
 
 {:start="71"}
-71. If we take this into account, then there would in fact have been a gradual, small
-increase in the total number of Singapore-qualified practising lawyers over the years.
-To give Members some idea of the numbers: from around 5,400 practitioners in 2017
-to around 6,400 practitioners in 2022. That said, when we looked at the trends and did
-a more granular review, it is apparent that the rate of increase in the number of
-Singapore-qualified practising lawyers has come down. It is increasing, but the rate of
-increase has slowed. And in part, this is due to a decrease in the number of returning
-overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
+71. If we take this into account, then there would in fact have been a gradual, small increase in the total number of Singapore-qualified practising lawyers over the years. To give Members some idea of the numbers: from around 5,400 practitioners in 2017 to around 6,400 practitioners in 2022. That said, when we looked at the trends and did
+a more granular review, it is apparent that the rate of increase in the number of Singapore-qualified practising lawyers has come down. It is increasing, but the rate of
+increase has slowed. And in part, this is due to a decrease in the number of returning overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
 
 {:start="72"}
-72. But at the same time, I would say attrition from private practice is not new. I think those
-of us who are lawyers and have been in practice for a while would have seen the
-trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today,
-have more options than in the past and can leave private practice, but still contribute
-within the legal sector. They can join the government, legal tech companies. They can
-enter academia. And like Mr Patrick Tay said earlier, greatly boosting legal services
-are in-house corporate counsel. And the lawyers who leave practice carry with them
-that experience from practice into these other fields which are adjunct to practice but
-still serving the legal industry. This is not necessarily a bad outcome, because we
-need legal talent to support all aspects of our economy and our society.
+72. But at the same time, I would say attrition from private practice is not new. I think those of us who are lawyers and have been in practice for a while would have seen the trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today, have more options than in the past and can leave private practice, but still contribute within the legal sector. They can join the government, legal tech companies. They can enter academia. And like Mr Patrick Tay said earlier, greatly boosting legal services are in-house corporate counsel. And the lawyers who leave practice carry with them
+that experience from practice into these other fields which are adjunct to practice but still serving the legal industry. This is not necessarily a bad outcome, because we need legal talent to support all aspects of our economy and our society.
 
 {:start="73"}
-73. Ms Nadia referred to young lawyers experiencing burnout. Making private practice
-sustainable is something that the Government cannot alone achieve. It has to work
-with bodies like the Singapore Academy of Law, Law Society, and even the firms. It
-requires effort from all these parties, because the work environment, we know, has a
-direct impact on the well-being of the lawyers.
+73. Ms Nadia referred to young lawyers experiencing burnout. Making private practice sustainable is something that the Government cannot alone achieve. It has to work
+with bodies like the Singapore Academy of Law, Law Society, and even the firms. It requires effort from all these parties, because the work environment, we know, has a direct impact on the well-being of the lawyers.
 
 {:start="74"}
 74. I am heartened to note that on this score, the Law Society has a number of support schemes available for mentorship, guidance on career-related issues, or support with stress management. One example is the Members’ Assistance & Care Helpline, a one-stop referral and information service that Law Society members can turn to when faced with issues at work.
