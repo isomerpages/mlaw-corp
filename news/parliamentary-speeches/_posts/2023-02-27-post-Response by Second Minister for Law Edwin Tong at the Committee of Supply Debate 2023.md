@@ -155,30 +155,29 @@ amicable, mediated position.
 
 (b) Now, this number, of course, has to be taken in context – it is for parties who voluntarily go to mediation. So they might perhaps be more predisposed to having amicable resolution between themselves. But nonetheless, this statistic tells us putting mediation as the first port of call will likely yield effective results. Part of the problem is that these voluntary cases handled at the CMC represent a minority of cases, as many neighbours do not make this attempt at mediation. To provide specific figures, less than 30% of such voluntary cases proceed to mediation.
 
-(c) In other words, of all cases that give rise to neighbour disputes, usually on noise, that proceed to mediation - 30% go to voluntary CMC mediation and of this 30%, 80% of that number of cases are resolved amicably.
+(c) In other words, of all cases that give rise to neighbour disputes, usually on noise, that proceed to mediation – 30% go to voluntary CMC mediation and of this 30%, 80% of that number of cases are resolved amicably.
 
 (d) This, as I said earlier, could be, in part that mediation is currently voluntary.
+
 (e) In addition, parties may:
+
 (i) Think that there is no issue to mediate, or
+
 (ii) Believe that mediation would not be effective in resolving their dispute, or
+
 (iii) They might decide to escalate the matter to the CDRT without first
 attempting mediation.
 
-23. To improve the take up of mediation at an early stage, we plan to mandate mediation
-for three categories of cases.  
-(a) First, mediation will be mandatory for certain types of community disputes.
-Penalties will be imposed for not attending mandatory mediation. So, for
-instance, if you are required to go through mandatory mediation and you do not,
-then the case at CDRT will not proceed.
-(b) Second, for voluntary mediation cases previously mediated and settled at the
-CMC, but the mediated issues have resurfaced or there was a new dispute
-related to what was mediated previously, the CMC will be able to mandate re-
-mediation.
+{:start="23"}
+23. To improve the take up of mediation at an early stage, we plan to mandate mediation for three categories of cases.  
 
-(c) Third, we will, in general, require disputing neighbours to undergo mediation
-before they can file a claim to the CDRT. This will prevent disputes from
-escalating unnecessarily to a court process. 
+(a) First, mediation will be mandatory for certain types of community disputes. Penalties will be imposed for not attending mandatory mediation. So, for instance, if you are required to go through mandatory mediation and you do not, then the case at CDRT will not proceed.
 
+(b) Second, for voluntary mediation cases previously mediated and settled at the CMC, but the mediated issues have resurfaced or there was a new dispute related to what was mediated previously, the CMC will be able to mandate re-mediation.
+
+(c) Third, we will, in general, require disputing neighbours to undergo mediation before they can file a claim to the CDRT. This will prevent disputes from escalating unnecessarily to a court process. 
+
+{:start="24"}
 24. After we make mediation mandatory, the 80% settlement rate I mentioned earlier may
 well come down because now will be included in this group, cases where parties do
 not want to find a solution amongst themselves.
