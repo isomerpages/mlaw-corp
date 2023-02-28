@@ -378,14 +378,18 @@ cannot replace the human lawyers.
 is not just the legal considerations or what the law might say but what are those
 special peculiar idiosyncrasies and emotions that go behind each decision that might
 be made, particularly in family and criminal matters.
+
+{:start="56"}
 56. In complex cases, we are dealing with different contexts, different nuances, and
 perhaps also, the context of business done in Singapore or through Singapore. This
 business context, the Asian way of doing business, and the particular experience that
 a lawyer has with his or her client – all that is not something that an AI, like a chatbot,
 can easily replicate.
+
 (a) Indeed, ChatGPT, the most invoked chatbot tool that we have seen in recent
 times, did pass the law exams, with a C+. It is an apt example. Reports say that
 it may be helpful at producing a first draft for lawyers to consider.
+
 (b) But as I said, it does not deal with the range of emotions that might lie behind
 why a client might choose a certain course of action in a range of cases. And it
 will also struggle with the most classic components of law exams, such as
@@ -396,18 +400,29 @@ most complex of complex corporate transactions.
 57. Therefore, what we need to do, and in fact, we have to do, is to re-double our efforts
 on developing our human talent, as much as we need to invest in technology.
 
-Legal Secondment Programme and Lawyers Exchange Programme
+<u><i>Legal Secondment Programme and Lawyers Exchange Programme</i></u>
+
+{:start="58"}
 58. We will be launching an industry-wide secondment programme, which aims to deepen
 the capabilities of lawyers in important markets, as well as new or high growth areas,
 such as sustainability, technology and M&amp;A.
+
+{:start="59"}
 59. We are targeting to have an intake of 30 lawyers a year, at a steady state.
+
+{:start="60"}
 60. We are also exploring exchange programmes with foreign bar associations.
+
+{:start="61"}
 61. The objective being to help Singapore lawyers build networks externally. Because of
 globalisation, transactions are now very much cross-border, and relations that we
 develop with other lawyers from other jurisdictions will give our lawyers a leg-up. They
 will also gain a deeper understanding of the work in priority markets through overseas
 attachments or study visit opportunities.
-Legal Education Reforms
+
+<u><i>Legal Education Reforms</i></u>
+
+{:start="62"}
 62. Next, let me touch on legal education reforms. As the Chief Justice announced, at the
 Opening of the Legal Year (OLY) this year, a Working Group, comprising: MinLaw,
 members of the Judiciary, the profession, law schools, and legal education providers,
