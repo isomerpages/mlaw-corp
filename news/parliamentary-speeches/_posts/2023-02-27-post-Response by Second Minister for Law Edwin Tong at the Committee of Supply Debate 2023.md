@@ -441,17 +441,77 @@ how we are supporting them.
 Association (SCCA), of which Mr Tay is an honorary member, to promote community
 building and to roll out training and development initiatives. Examples include a
 mentorship programme and courses for targeted upskilling for corporate counsel.
-MinLaw also supports training providers in the development of programmes that build 
+MinLaw also supports training providers in the development of programmes that build up capabilities of the legal community. These are also made available to in-house
+counsel.
+77. For paralegals, we are studying how paralegals can take on more functions to support
+the work of lawyers and law firms. This is part of the legal education reforms that the
+Working Group, which I had mentioned earlier, is also studying.
 
-
-
-
-
-
-
-
-
-
-
+Changes to the admission regime
+78. Finally, Ms Nadia touched on the upcoming changes to the admission regime, as
+recommended by the Committee for the Professional Training of Lawyers.
+79. MinLaw had previously announced the uncoupling of admission to the Bar from the
+completion of a practice training contract, and also the lengthening of the Practice
+Training Period from six months to one year. This was to take effect from the 2023
+session of the Part B of the Singapore Bar Examination onwards.
+80. However, MinLaw noted feedback from the industry that the COVID-19 pandemic –
+work from home and other such measures – had caused disruptions to work. With the
+recent resumption of travel and business activities, more time is needed to prepare for
+these changes. Therefore, these changes that were announced previously, will be
+deferred and implemented from the 2024 session of the Part B of the Singapore Bar
+Examination onwards. More information will be available from MinLaw and other
+stakeholders in due course.
+B. Building upon the Singapore IP Strategy (SIPS) 2030 to prepare businesses for the
+future
+81. I would like to circle back to the point about our changing world, which Members had
+underscored. Our world is evolving, in no small part, because of digitalisation and new
+technologies.
+82. This heightens the importance of protecting intangible assets (IA) and intellectual
+property (IP).
+83. Therefore, let me share briefly our IP strategy that aims to prepare our businesses as
+they digitalise and innovate in the global economy, which is intrinsically linked with IA.
+Update on SIPS 2030 to support enterprises in their IA/IP needs.
+84. MinLaw, MOF and MTI are driving the Singapore IP Strategy 2030 (SIPS 2030).
+85. SIPS 2030 is a ten-year blueprint to strengthen and cement Singapore’s position as a
+global IA, and IP hub.
+86. As part of SIPS 2030, we have been working to support businesses to leverage their
+IA and IP for growth.
+87. This year, we will be introducing the Intangibles Disclosure Framework. The intention
+is to provide a consistent basis for businesses to disclose and communicate details of
+their intangibles. A framework so that everyone speaks the same language, and can
+understand what that disclosure is meant to describe. This will provide stakeholders with comparable information about the businesses’ intangibles, so that more informed
+assessments of the business and financial prospects can be made.
+88. This will in turn facilitate intangible asset commercialisation, transactions and
+financing.
+89. In addition, we will launch GoBusiness IP Grow. It is an enterprise-centric online
+platform which will help businesses understand their own IP needs based on their
+business activities; match businesses to appropriate IP services providers based on
+the particular business model they are practising and using; and also provide one-stop
+access to enterprise IA and IP-related resources.
+Review of land allocation &amp; pricing framework for Places of Worship
+90. Finally, let me turn to address the review of the land allocation and pricing framework
+for Places of Worship, raised by Ms Sylvia Lim and Mr Jamus Lim.
+91. The Government is aware of these issues, as Ms Lim had noted in her speech.
+92. We had in fact given a previous Parliamentary reply which Ms Lim also noted, and it
+was noted then, and let me just reiterate, that we have been reviewing the land
+allocation and pricing framework for Places of Worship, to see how the prices can be
+mitigated, bearing in mind the concerns that you have raised. We have given our
+response previously, and we have been looking at this.
+93. As Members would appreciate, this has been the subject of careful study, given its
+implications on land allocation and pricing framework.
+94. This study is still ongoing and details will be released when we have completed the
+study.
+95. In the meantime, the Government has been working with affected religious
+organisations to assist them in mitigating the increase in land prices. For instance, this
+would include offering the religious organisations a short-term tenancy extension or
+renewal, pending the outcome of this review that we are undertaking. This is so that
+these organisations would not be compromised by entering into a long-term lease
+arrangement on the present framework before the review is completed.
+Conclusion
+96. Madam, SPS Rahayu will cover the other cuts.
+97. I thank Members for support of MinLaw’s work, for their speeches, and look forward to
+their continued cooperation, support and also for their continued feedback that they
+give to MinLaw that helps us to sharpen each of our policies, and ensure that the last-
+mile delivery is carried out in the way it is intended.
 
 <p class="right-side-updated">Last updated on 27 February 2023</p>
