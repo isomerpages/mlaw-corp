@@ -501,41 +501,28 @@ requires effort from all these parties, because the work environment, we know, h
 direct impact on the well-being of the lawyers.
 
 {:start="74"}
-74. I am heartened to note that on this score, the Law Society has a number of support
-schemes available for mentorship, guidance on career-related issues, or support with
-stress management. One example is the Members’ Assistance &amp; Care Helpline, a one-
-stop referral and information service that Law Society members can turn to when faced
-with issues at work.
+74. I am heartened to note that on this score, the Law Society has a number of support schemes available for mentorship, guidance on career-related issues, or support with stress management. One example is the Members’ Assistance & Care Helpline, a one-stop referral and information service that Law Society members can turn to when faced with issues at work.
 
 <u><i>Supporting in-house counsel and paralegals</i></u>
 
 {:start="75"}
-75. Our efforts also extend to other professionals within the legal industry. Mr Tay asked
-how we are supporting them.
+75. Our efforts also extend to other professionals within the legal industry. Mr Tay asked how we are supporting them.
 
 {:start="76"}
-76. For in-house counsel, we work closely with the Singapore Corporate Counsel
-Association (SCCA), of which Mr Tay is an honorary member, to promote community
-building and to roll out training and development initiatives. Examples include a
-mentorship programme and courses for targeted upskilling for corporate counsel.
-MinLaw also supports training providers in the development of programmes that build up capabilities of the legal community. These are also made available to in-house counsel.
+76. For in-house counsel, we work closely with the Singapore Corporate Counsel Association (SCCA), of which Mr Tay is an honorary member, to promote community building and to roll out training and development initiatives. Examples include a
+mentorship programme and courses for targeted upskilling for corporate counsel. MinLaw also supports training providers in the development of programmes that build up capabilities of the legal community. These are also made available to in-house counsel.
 
 {:start="77"}
-77. For paralegals, we are studying how paralegals can take on more functions to support
-the work of lawyers and law firms. This is part of the legal education reforms that the
-Working Group, which I had mentioned earlier, is also studying.
+77. For paralegals, we are studying how paralegals can take on more functions to support the work of lawyers and law firms. This is part of the legal education reforms that the Working Group, which I had mentioned earlier, is also studying.
 
 <u><i>Changes to the admission regime</i></u>
 
 {:start="78"}
-78. Finally, Ms Nadia touched on the upcoming changes to the admission regime, as
-recommended by the Committee for the Professional Training of Lawyers.
+78. Finally, Ms Nadia touched on the upcoming changes to the admission regime, as recommended by the Committee for the Professional Training of Lawyers.
 
 {:start="79"}
-79. MinLaw had previously announced the uncoupling of admission to the Bar from the
-completion of a practice training contract, and also the lengthening of the Practice
-Training Period from six months to one year. This was to take effect from the 2023
-session of the Part B of the Singapore Bar Examination onwards.
+79. MinLaw had previously announced the uncoupling of admission to the Bar from the completion of a practice training contract, and also the lengthening of the Practice
+Training Period from six months to one year. This was to take effect from the 2023 session of the Part B of the Singapore Bar Examination onwards.
 
 {:start="80"}
 80. However, MinLaw noted feedback from the industry that the COVID-19 pandemic – work from home and other such measures – had caused disruptions to work. With the recent resumption of travel and business activities, more time is needed to prepare for these changes. Therefore, these changes that were announced previously, will be deferred and implemented from the 2024 session of the Part B of the Singapore Bar Examination onwards. More information will be available from MinLaw and other stakeholders in due course.
