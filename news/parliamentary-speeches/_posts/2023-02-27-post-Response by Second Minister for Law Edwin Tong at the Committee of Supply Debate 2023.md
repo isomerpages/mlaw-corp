@@ -374,21 +374,13 @@ lawyers to work more efficiently and effectively. But it cannot replace human be
 cannot replace the human lawyers.
 
 {:start="55"}
-55. For example, in family and criminal cases, we are dealing with a range of emotions. It
-is not just the legal considerations or what the law might say but what are those
-special peculiar idiosyncrasies and emotions that go behind each decision that might
-be made, particularly in family and criminal matters.
+55. For example, in family and criminal cases, we are dealing with a range of emotions. It is not just the legal considerations or what the law might say but what are those special peculiar idiosyncrasies and emotions that go behind each decision that might be made, particularly in family and criminal matters.
 
 {:start="56"}
-56. In complex cases, we are dealing with different contexts, different nuances, and
-perhaps also, the context of business done in Singapore or through Singapore. This
-business context, the Asian way of doing business, and the particular experience that
-a lawyer has with his or her client – all that is not something that an AI, like a chatbot,
-can easily replicate.
+56. In complex cases, we are dealing with different contexts, different nuances, and perhaps also, the context of business done in Singapore or through Singapore. This business context, the Asian way of doing business, and the particular experience that
+a lawyer has with his or her client – all that is not something that an AI, like a chatbot, can easily replicate.
 
-(a) Indeed, ChatGPT, the most invoked chatbot tool that we have seen in recent
-times, did pass the law exams, with a C+. It is an apt example. Reports say that
-it may be helpful at producing a first draft for lawyers to consider.
+(a) Indeed, ChatGPT, the most invoked chatbot tool that we have seen in recent times, did pass the law exams, with a C+. It is an apt example. Reports say that it may be helpful at producing a first draft for lawyers to consider.
 
 (b) But as I said, it does not deal with the range of emotions that might lie behind why a client might choose a certain course of action in a range of cases. And it
 will also struggle with the most classic components of law exams, such as spotting the potential legal issues and deep analysis applying the legal rules to the particular situation and nuances of a particular case; and also, appreciate the human dynamics and personal idiosyncrasies which may lie behind even the most complex of complex corporate transactions.
