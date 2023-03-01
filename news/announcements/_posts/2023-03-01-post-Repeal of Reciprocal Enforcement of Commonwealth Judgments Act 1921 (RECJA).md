@@ -19,7 +19,7 @@ image: ""
 3. Final money judgments from the superior courts of Brunei, Australia, India, Malaysia, New Zealand, Pakistan, Papua New Guinea, Sri Lanka, and the United Kingdom which were previously registrable under the RECJA are now registrable under the REFJA.
 
 {:start="4"}
-4. Please view past [Press Release](/news/announcements/2021-09-16-apostille-convention-enters-into-force-for-singapore) and the [Second Reading Speech on The Reciprocal Enforcement of Foreign Judgements (Amendment) Bill](/news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law-mr-edwin-tong-on-refj-amendment-bill) for more information.
+4. Please view past [Press Release](/news/press-releases/enhancing-the-regime) and the [Second Reading Speech on The Reciprocal Enforcement of Foreign Judgements (Amendment) Bill](/news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law-mr-edwin-tong-on-refj-amendment-bill) for more information.
 
 **MINISTRY OF LAW**
 <br>**1 MARCH 2023**
