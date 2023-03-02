@@ -186,27 +186,27 @@ CDRT Order, provided certain conditions are met. We will set out those condition
 {:start="27"}
 27. To Mr Pillai’s query on forward deploying mediation services:
 
-(a) We believe that in the hands of a very good mediator, many of these disputes can be resolved amicably. And in many cases, part of the reluctance is because you have a dispute with a neighbour who lives three feet away, and you do not want to travel all the way down to the CBD area about 45 minutes away to do mediation.
+(a) We believe that in the hands of a very good mediator, many of these disputes can be resolved very amicably. In many cases, part of the reluctance to go to mediation is because you have a dispute with a neighbour who lives three feet away and you do not want to get into a bus, all the way down to the CBD area about 45 minutes away,to do mediation.
 
 (b) I am pleased to share that the CMC has begun offering mediation services at six satellite locations at selected ServiceSG Centres and Community Clubs, some
 placed within the precinct where the two neighbours live, or at least close by.
 
-(c) We will also offer online mediation for suitable voluntary neighbour dispute cases in two GRCs as a pilot to start with and we will decide if it works, and perhaps
-look at scaling that up. That removes the geographical difficulties that they might face in going down to mediation when the party they should be speaking to is
+(c) We will also offer online mediation for suitable voluntary neighbour dispute cases in two GRCs, as a pilot to start with and we will decide if it works, and perhaps
+look at scaling that up. So, it removes the geographical difficulties that they might face in going down to mediation when the party they should be speaking to is
 only three feet away.
 
 {:start="28"}
 28. To support these efforts, the CMC has begun to increase the number of mediators on its panel of accredited community mediators and will look at growing this pool as quickly as possible.
 
 {:start="29"}
-29. Despite what I said, some disputes will remain unresolved despite early intervention, best efforts at mediation and all the efforts we make at making mediation more accessible.
+29. Despite what I said, some disputes will remain unresolved despite early intervention, best efforts at mediation, and all the efforts we make at making mediation more accessible.
 
 {:start="30"}
 30. For these cases, the CDRT will continue to serve as an avenue of last resort.
 
-(a) We will make improvements to address feedback that laypeople face difficulties in collecting evidence, and navigating the CDRT’s process and procedures. MND’s initiatives, which SMS Sim Ann will talk about later, will complement the mediation and the CDRT process.
+(a) We will make improvements to address feedback that laypeople face difficulties in collecting evidence, and navigating the CDRT’s process and procedures. MND’s initiatives, which SMS Sim Ann will speak about later, will complement the mediation and the CDRT process.
 
-(b) In addition, we are studying how best to address cases where a person’s acts of nuisance may be linked to an underlying mental health condition.
+(b) In addition, we are studying how best to address cases where a person’s act of nuisance may be linked to an underlying mental health condition.
 
 (c) Furthermore, there will also be stronger measures to deter non-compliance with the CDRT’s orders.
 
@@ -226,9 +226,7 @@ only three feet away.
 33. We are, thus, working with partners in our community to provide residents facing such disputes with advice and guidance, and possibly also, legal representation in the more complex cases.
 
 {:start="34"}
-34. One example is what Mr Raj Joshua Thomas spoke about: the new Community Law Centre (CLC) run by Pro Bono SG. It was launched in January 2023, and this effort
-brings legal services right into the heartlands. For the first time, full-time community lawyers will serve the community through the CLCs, providing legal advice and
-assistance on a whole range of different issues.
+34. One example is what Mr Raj Joshua Thomas spoke about, the new Community Law Centre (CLC) run by Pro Bono SG. It was launched recently in January 2023, and this effort brings legal services right into the heartlands. For the first time, full-time community lawyers will serve the community through the CLCs, providing legal advice and assistance on a whole range of different issues.
 
 {:start="35"}
 35. To Mr Thomas’ point on the CLCs, Pro Bono SG does indeed have plans to expand the CLCs beyond the pilot that is currently at Tian De Temple. We are supportive of
@@ -240,7 +238,7 @@ the work that they do, and the Government will assess at an appropriate juncture
 36. Madam, I turn now to how we are strengthening Singapore as a legal services and intellectual property (IP) hub.
 
 {:start="37"}
-37. We continue to push ahead in enhancing Singapore’s hard-earned position and reputation as a leading legal services and IP hub. This, I think Members will appreciate, is necessary, not just to grow the legal and IP sectors, but also to support Singapore’s broader status as a centre for commerce, banking, and finance.
+37. We continue to push ahead in enhancing Singapore’s hard-earned position and reputation as a leading legal services and IP hub. This, I think Members will appreciate is necessary, not just to grow the legal and IP sectors, but also to support Singapore’s broader status as a centre for commerce, banking, and finance.
 
 A. <u>Expanding legal technology capabilities and equipping our legal workforce to meet today’s and tomorrow’s needs</u>
 
@@ -265,8 +263,7 @@ and consequently, on law firms and lawyers. As Mr Thomas noted, law firms are be
 <i><u>Courts and Technology</u></i>
 
 {:start="43"}
-43. The Courts have in place measures, to ensure the case management systems can deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts have various electronic filing systems to deal with different types of cases. Each of
-these case management systems are constantly reviewed and enhanced when necessary to ensure that they meet the caseload. The product teams for each system also track the utilisation rates of the servers, to anticipate necessary hardware and software upgrades, and also, the occasional surge in demand. This approach has, by and large, served the Courts well.
+43. The Courts have in place measures, to ensure the case management systems can deal with an increasing caseload – a comment raised by Mr Zhulkarnain. The Courts have various electronic filing systems to deal with different types of cases. Each of these case management systems are constantly reviewed and enhanced, where necessary, to ensure that they meet the caseload. The product teams for each system also track the utilisation rates of the servers, to anticipate necessary hardware and software upgrades, and also, the occasional surge in demand. This approach has, by and large, served the Courts well.
 
 {:start="44"}
 44. While there are occasional disruptions due to unforeseeable hardware failures, software and servers are progressively being shifted to the latest cloud infrastructure to reduce such occurrences.
