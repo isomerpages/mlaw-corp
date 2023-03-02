@@ -137,7 +137,7 @@ image: ""
 27.	There are various forms of support for self-represented persons (SRPs) who commence, or wish to commence, proceedings. 
 
 {:start="28"}
-28.	Dr Tan Wu Meng shared how his resident, an SRP, had to approach CrimsonLogic and VITAL. He asked what is the role of these intermediaries, and if they complicate the process for SRPs. Let me explain. 
+28.	Dr Tan Wu Meng shared how his resident, an SRP, had to approach CrimsonLogic and VITAL. He asked about the role of these intermediaries, and if they complicate the process for SRPs. Let me explain. 
 
 {:start="29"}
 29.	First, the Judiciary’s case filing system, eLitigation, enables lawyers with a subscription to e-file documents and pay filing fees. SRPs can approach the CrimsonLogic Service Bureau, who will assist them with their e-filing and collect the filing fees. 
@@ -217,7 +217,7 @@ image: ""
 {:start="48"}
 48.	There has been a significant increase in the number of PO applications, as well as orders granted.
 
-(a)       From 2019 to 2020, 319 PO applications were filed. 146 POs were granted in that period.
+(a)       From 2019 to 2020, 319 PO applications were filed; 146 POs were granted in that period.
 
 (b)       From 2021 to 2022, there were 924 PO applications filed – 866 applications were filed from the operationalisation of the PHC on 1 June 2021 to 31 December 2022.
 
@@ -232,7 +232,7 @@ image: ""
 (iv)       Where urgent relief is sought, the PHC generally hears the application within two to three working days from the date of application.
 
 {:start="49"}
-49.	Mr Tay asked for a breakdown of the types of cases. Members should note that one case may involve more than one type of harassment. So, out of the 866 PO applications filed from 1 June 2021 to 31 December 2022:
+49.	Mr Tay asked for a breakdown of the types of cases. Members should note that one case may involve more than one type of harassment. Out of the 866 PO applications filed from 1 June 2021 to 31 December 2022,
 
 (a)       304 cases involved cyberbullying;
 
@@ -303,7 +303,7 @@ image: ""
 {:start="60"}
 60.	Possible changes include: 
 
-(a)       Giving the Court more powers to identify the assets and means of a non-compliant judgment debtor. With more information, the successful party can better decide whether and how to enforce the judgment. 
+(a)       Giving the Court more powers to identify the assets and means of a non-compliant judgment debtor – with more information, the successful party can better decide whether and how to enforce the judgment; and 
 
 (b)       Introducing new powers to deter and punish non-compliance with Court orders. 
 
@@ -322,7 +322,7 @@ image: ""
 64.	I would highlight technology is an integral aspect in many of our initiatives, as it strengthens access to the legal system – a perspective mentioned by Mr Zhulkarnain Abdul Rahim.
 
 {:start="65"}
-65.	We are taking steps in this direction. I will, in a short while, mention how we are using technology to optimise state land. 
+65.	We are taking steps in this direction. I will, in a short while, mention how we are using technology to optimise State land. 
 
 {:start="66"}
 66.	At this juncture, I will share our intention to make clear that legal acts and instruments such as statutory declarations and notarisations can be done remotely through video-conferencing and electronic signing. We will introduce legislation, in due course. This will provide greater convenience to lawyers and their clients. 
@@ -407,7 +407,7 @@ image: ""
 83.	Responding to Mr Zhulkarnain, SLA had extensively engaged stakeholders since 2019, and will continue to do so at each stage of the DCP’s development to ensure that the end product meets the needs of all parties. SLA will continue to raise awareness on the use and benefits of the DCP through these engagements. 
 
 {:start="84"}
-84.	We announced in January that we have appointed the vendor for the development of the DCP. We target to implement the first phase, which will comprise the Option to Purchase stage for developer sale, resale and sub-sale transactions, by 2024. We are working towards full implementation by 2026.
+84.	We announced in January that we have appointed the vendor for the development of the DCP. We target to implement the first phase, which will comprise the Option to Purchase stage for developer sale, resale, and sub-sale transactions, by 2024. We are working towards full implementation by 2026.
 
 {:start="85"}
 85.	Mr Lim and Mr Zhulkarnain asked about the DCP’s potential impact on jobs. We expect most individuals will continue to engage lawyers. Given the high value nature of property transactions, this serves as a safeguard of the individual’s interests. Nevertheless, such digitalisation projects will naturally, over time, result in less emphasis being placed on certain processes or skillsets. The developments bring value to the larger community by making processes simpler and faster. Hence, we encourage conveyancing practices to adapt to, innovate and leverage on the DCP to deliver better service to their clients. 
