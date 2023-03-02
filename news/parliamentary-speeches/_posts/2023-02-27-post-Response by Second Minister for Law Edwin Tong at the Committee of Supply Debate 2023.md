@@ -142,16 +142,16 @@ COS.
 20. Our experience has shown us that mediation is not just effective, but also quicker and cheaper.
 
 {:start="21"}
-21. And data has shown that mediation has been by and large successful.
+21. The data shows that mediation has been, by and large, successful.
 
 {:start="22"}
-22. We believe that most community dispute cases will benefit from mediation.
+22. We therefore believe that most community dispute cases will benefit from mediation.
 
 (a) More than 80% of the voluntary mediation cases handled at the Community Mediation Centre (CMC) were successfully settled.
 
-(b) Now, this number, of course, has to be taken in context – it is for parties who voluntarily go to mediation. So they might perhaps be more predisposed to having amicable resolution between themselves. But nonetheless, this statistic tells us putting mediation as the first port of call will likely yield effective results. Part of the problem is that these voluntary cases handled at the CMC represent a minority of cases, as many neighbours do not make this attempt at mediation. To provide specific figures, less than 30% of such voluntary cases proceed to mediation.
+(b) Now, this number of course, has got to be taken in context. It is for parties who voluntarily go to mediation. So they might perhaps be more predisposed to having amicable resolution between themselves. But nonetheless, this statistic tells us putting mediation, as the first port of call, will likely yield effective results. 
 
-(c) In other words, of all cases that give rise to neighbour disputes, usually on noise, that proceed to mediation – 30% go to voluntary CMC mediation and of this 30%, 80% of that number of cases are resolved amicably.
+(c) Part of the problem is that these voluntary cases handled at the CMC represent a minority of cases, as many neighbours do not make this attempt at mediation. To provide specific figures, less than 30% of such voluntary cases proceed to mediation. In other words, of all cases that give rise to neighbour disputes, usually on noise, that proceed to mediation – 30% go to voluntary CMC mediation and of this 30%, 80% of that number of cases are resolved amicably.
 
 (d) This, as I said earlier, could be, in part that mediation is currently voluntary.
 
