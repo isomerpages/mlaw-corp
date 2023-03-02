@@ -17,8 +17,7 @@ Mr Speaker,
 {:start="2"}
 2.	We are living in a time of change. 
 
-(a) Spurred by profound developments in the world, including all the experiences
-Members have been speaking about:
+(a) Spurred by profound developments in the world, including all the experiences Members have been speaking about:
 
 (i) Geopolitical tensions;
 
@@ -45,7 +44,7 @@ Members have been speaking about:
 {:start="5"}
 5.	The scope, as I think you can see from the breadth of topics raised by Members, is diverse:
 
-a) Increasing access to justice;
+(a) Increasing access to justice;
 
 (b) Enhancing the legal processes;
 
@@ -57,13 +56,12 @@ a) Increasing access to justice;
 6.	While the work is wide-ranging, our vision is singular: Bettering people’s lives, creating value jobs, and advancing our economy and society, through laws and policies. That ultimately is the bottomline and the topline of what we do at MinLaw
 
 {:start="7"}
-7.	This is perhaps best encapsulated by our response to the COVID-19 pandemic, which Mr Murali Pillai commended.
+7.	This perhaps is best encapsulated by our response to the COVID-19 pandemic, which Mr Murali Pillai – thank you very much – commended.
 
 {:start="8"}
 8.	Our efforts provided reprieve to the affected businesses and individuals.
 
-(a) We amended various pieces of legislation and also enacted the COVID-19 (Temporary Measures) Act, which itself was amended eight times since it was
-passed, to refine Singapore’s response to the evolving and developing situation as we faced COVID-19, and its impact on businesses.
+(a) We amended various pieces of legislation and also enacted the COVID-19 (Temporary Measures) Act, which itself was amended eight times since it was passed, to refine Singapore’s response to the evolving and developing situation as we faced COVID-19, and its impact on businesses.
 
 (b) These measures covered a broad range of issues, such as adjusting contractual obligations, providing rental relief, and supporting distressed entities through insolvency.
 
@@ -71,9 +69,9 @@ passed, to refine Singapore’s response to the evolving and developing situatio
 9.	Many of these steps are unprecedented and novel, but also highly necessary.
 
 {:start="10"}
-10.	Mr Murali said we should chronicle our efforts as we went through these different challenges to deal with the COVID-19 pandemic. We have accumulated that experience, and will do so. In fact, we have captured the gains that we have already made.
+10.	Mr Pillai said we could chronicle our efforts as we went through these different challenges to deal with the COVID-19 pandemic. We have accumulated that experience, and will do so, and In fact, we will capture the gains that we have already made.
 
-(a) For example, we have made permanent, the powers of our courts to conduct proceedings through electronic means such as video-conferencing.
+(a) For example, we have made permanent, the powers of the Courts to conduct proceedings through electronic means such as video-conferencing in a variety of fashion, as Mr Pillai knows.
 
 (b) We are also considering whether some features of the Simplified Insolvency Programme can be adopted permanently – something I spoke about in
 Parliament not long ago.
