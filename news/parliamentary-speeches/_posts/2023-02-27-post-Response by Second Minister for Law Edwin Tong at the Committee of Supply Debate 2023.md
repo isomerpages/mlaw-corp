@@ -77,7 +77,7 @@ Mr Speaker,
 Parliament not long ago.
 
 {:start="11"}
-11.	Moving forward, my ministry will work along three broad thrusts:
+11.	Moving forward, my Ministry will work along three broad thrusts:
 
 (a) First, enhancing the trust, relevance and accessibility of our legal system for society;
 
@@ -86,7 +86,7 @@ Parliament not long ago.
 (c) Third, optimising and rejuvenating our land and properties for the community.
 
 {:start="12"}
-12.	SPS Rahayu Mahzam and I will address these themes and also address, as far as we can, the cuts that have been raised by Members.
+12.	Senior Parliamentary Secretary Rahayu Mahzam and I will address these themes and also address, as far as we can, the cuts that have been raised by Members.
 
 **I. Enhancing Trust, Relevance and Accessibility of our Legal System**
 
@@ -106,10 +106,10 @@ Parliament not long ago.
 15.	Let me start by addressing the queries on the Community Dispute Management Framework (CDMF) which various Members have raised, including Mr Pillai, Mr Patrick Tay, Mr Derrick Goh, and Mr Dennis Tan, amongst others, about the framework and its role in resolving community disputes.
 
 {:start="16"}
-16. As Members are aware, an inter-agency committee led by MCCY, together with MND, is conducting a comprehensive review of the CDMF.
+16. As Members are aware, an inter-agency committee led by the Ministry of Culture, Community and Youth (MCCY), together with the Ministry of National Development (MND), is conducting a comprehensive review of the CDMF.
 
 {:start="17"}
-17. The goal is threefold: to encourage pro-social behaviour, facilitate amicable resolution of disputes between neighbours and third, to deal with this, as far as possible, at an early stage.
+17. The goal is threefold: first, to encourage pro-social behaviour; second, to facilitate amicable resolution of disputes between neighbours; and third, to deal with this, as far as possible, at an early stage.
 
 {:start="18"}
 18. To achieve this, we are looking at enhancements in three broad areas.
@@ -121,8 +121,7 @@ Parliament not long ago.
 (ii) SMS Sim Ann will share more details of this when she speaks at MND’s
 COS.
 
-(b) Second, and we all know this, despite setting these norms, having these norms in the community – nuisance might and would still likely occur, but perhaps at a
-reduced rate. The overall aim is to encourage conciliation between neighbours, as much as possible. We live in an environment where we are close to one another. The best solution to dealing with neighbour disputes is to find an
+(b) Second, and I think we all know this; despite setting these norms and having these norms in the community, nuisance might and would still likely occur. Perhaps at a reduced rate. The overall aim is to encourage conciliation between neighbours, as much as possible. We live in an environment where we are close to one another. The best solution to dealing with neighbour disputes is to find an
 amicable, mediated position.
 
 (i) We are therefore going to be looking at setting up a team of dedicated personnel to leverage stronger laws and more active facilitation to help neighbours resolve issues upstream, before matters escalate and relationships deteriorate to such an extent that matters become intransigent or deadlocked.
