@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on State Courts'
-  Case Management System
+title: Written Answer by Minister for Law K Shanmugam to PQ on Cause of Hardware Failure Leading to Breakdown of State Courts' Online Case Management System
 permalink: /news/parliamentary-speeches/written-pq-data-on-state-courts-case-management-system/
 date: 2023-03-02
 layout: post
