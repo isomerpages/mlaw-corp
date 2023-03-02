@@ -176,8 +176,8 @@ COS.
 24. After we make mediation mandatory, the 80% figure that I said earlier may well come down, it may not be as high because you will now be including in this group of mediated cases, those cases where parties do not want or do not wish to find a solution amongst themselves.
 
 {:start="25"}
-25. Nonetheless, it is important to provide parties a platform to seek an amicable resolution; and it can still be highly effective in the hands of a good mediator, with
-some good public education. And I think many Members in this House, like Mr Dennis Tan said earlier, have seen many of such cases in the course of your rounds when you visit residents. Your encouragement to refer these to mediation will help.
+25. Nonetheless, it is important to provide parties a platform to seek an amicable resolution; and it can still be highly effective in the hands of a good mediator, and with
+some public education. Many Members in this House, as Mr Dennis Tan said earlier, see many of these cases in the course of their rounds when they visit their residents and their encouragement to refer these to mediation will help.
 
 {:start="26"}
 26. To give mediation more standing and teeth, we will also create a mechanism for settlement agreements mediated by the CMC to be registered and enforced as a
