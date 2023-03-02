@@ -67,7 +67,7 @@ image: ""
 13.	Last year, the Government decided to do more – establishing the Public Defender’s Office (PDO). The PDO, set up in December 2022, increases access to justice. The coverage of criminal defence aid has been expanded to the bottom 35% of resident households, and covers offences in all but 10 Acts.
 
 {:start="14"}
-14.	Responding to Mr Vikram Nair, Mr Sitoh Yih Pin and Mr Thomas, I am glad to share that the PDO started off smoothly. 13 public defenders have been hired. As of 31 January 2023, more than 250 applications have been received. Of about 130 applications which have completed assessment, about 60 applications have been assessed to be eligible for criminal defence aid.
+14.	Responding to Mr Vikram Nair, Mr Sitoh Yih Pin and Mr Thomas, I am glad to share that the PDO has started off smoothly. 13 public defenders have been hired. As of 31 January 2023, more than 250 applications have been received. Of about 130 applications which have completed assessment, about 60 applications have been assessed to be eligible for criminal defence aid.
 
 {:start="15"}
 15.	The PDO also collaborates closely with Pro Bono SG to co-deliver criminal defence aid, ensuring it is administered efficiently and that we minimise duplication. For example, all applications for criminal defence aid by Singaporeans and Permanent Residents are assessed by PDO. 
