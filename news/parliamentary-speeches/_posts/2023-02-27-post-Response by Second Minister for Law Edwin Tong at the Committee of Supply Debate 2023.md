@@ -281,7 +281,7 @@ directly, so that they can cut out the intermediary process and be able to do so
 47. For law firms, we recognise that it will be challenging for them, especially the small and medium-sized Singapore law practices (SLPs) – More difficult for them to curate, customise and perhaps develop their own IT solutions, mainly due to the lack of economies of scale. MinLaw has therefore taken on this role, and launched the Legal Technology Platform (LTP) in July last year.
 
 {:start="48"}
-48. The LTP is a matter management and collaboration tool, customised for legal workflows. In other words, developed to intuitively fit the legal workflow process that each firm, particularly a smaller firm, might need and require at the backend and progressively also, deal with needs at the front end. Through the LTP, SLPs can manage and collaborate on matters more seamlessly internally and also with their clients externally. They can also access data from commonly used practice and document management systems, such as Tessaract, Clio, TessaCloud and NetDocuments.
+48. The LTP is a matter management and collaboration tool, customised for legal workflows. In other words, developed to intuitively fit the legal workflow process that each firm, particularly a smaller firm, might need and require at the backend and it progressively also deals with needs at the front end. Through the LTP, SLPs can manage and collaborate on matters more seamlessly internally and also with their clients externally. They can also access data from commonly used practice and document management systems, such as Tessaract, Clio, TessaCloud and NetDocuments.
 
 {:start="49"}
 49. Mr Thomas asked about the reception of the LTP. As of January 2023, the LTP has been adopted by 27 Singapore-based firms, with around 550 Singapore-based users.
@@ -289,10 +289,10 @@ directly, so that they can cut out the intermediary process and be able to do so
 {:start="50"}
 50. Let me perhaps illustrate the point with reference to one firm’s example and experience. This firm is Albakri LLC, a small SLP. Instead of copying and pasting from
 past MS Word documents, the firm created its own matter templates and listed all the tasks relevant to a particular matter on the LTP. This enables its new associates to familiarise themselves independently with the firm’s processes and workflow. It not only frees up the partners’ time to supervise and train the associates, but also helps to institutionalise the firm’s know-how and knowledge bank. The firm’s templates are now
-in a cloud-based repository, instead of the email archives of the individual lawyers, so that there is more institutional knowledge even when lawyers might leave the firm and new ones come in. This has saved 50% of the onboarding time for new matters. Seeing its usefulness, the firm has also contributed a matter template on probate. This is now publicly available through the LTP. Firms, after seeing how it works for them, can decide that they want to contribute a template which will then be shared across on LTP, and so other firms can access this, and eventually level up using these best practices that are shared on the LTP.
+in a cloud-based repository, instead of the email archives of the individual lawyers, so that there is more institutional knowledge even when lawyers leave the firm and new ones come in. This has saved 50% of the onboarding time for new matters. Seeing its usefulness, the firm has also contributed a matter template on probate. This is now publicly available through the LTP. So, firms after seeing how it works for them, can decide that they want to contribute a template which will then be shared across on LTP. Other firms can access this, and eventually level up using these best practices that are shared on the LTP.
 
 {:start="51"}
-51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We have constantly taken soundings from them, to check on how they have used it, and what else they would like to see. For example, come April this year, the LTP will be able to process information from systems, such as eLitigation and ACRA, and also integrated with Sign with SingPass.
+51. Moving forward, we plan to enhance the LTP with more features desired by SLPs. We have constantly taken soundings from them, to check on how they have used it, and what else they would like to see. For example, come April this year, the LTP will be able to process information from systems, such as eLitigation and ACRA; and also integrated with Sign with SingPass.
 
 <u><i>Legal Industry Digital Plan</i></u>
 
@@ -307,7 +307,7 @@ their cybersecurity and data protection measures.
 53. The second aspect I wish to speak about is manpower development – a point touched on by Mr de Souza, Mr Zhulkarnain, Ms Nadia, and Mr Thomas.
 
 {:start="54"}
-54. As Members have recognised, technology is an enabler, which helps our law firms and lawyers to work more efficiently and effectively. But it cannot replace human beings. It cannot replace the human lawyers.
+54. As Members have recognised, technology is an enabler, which helps our law firms and lawyers to work more efficiently and effectively. But it cannot replace human beings; it cannot replace the human lawyers.
 
 {:start="55"}
 55. For example, in family and criminal cases, we are dealing with a range of emotions. It is not just the legal considerations or what the law might say but what are those special peculiar idiosyncrasies and emotions that go behind each decision that might be made, particularly in family and criminal matters.
@@ -332,7 +332,7 @@ will also struggle with the most classic components of law exams, such as spotti
 59. We are targeting to have an intake of 30 lawyers a year, at a steady state.
 
 {:start="60"}
-60. We are also exploring exchange programmes with foreign bar associations.
+60. We are also exploring exchange programmes with foreign Bar associations.
 
 {:start="61"}
 61. The objective being to help Singapore lawyers build networks externally. Because of globalisation, transactions are now very much cross-border, and relations that we develop with other lawyers from other jurisdictions will give our lawyers a leg-up. They
@@ -344,7 +344,7 @@ will also gain a deeper understanding of the work in priority markets through ov
 62. Next, let me touch on legal education reforms. As the Chief Justice announced, at the Opening of the Legal Year (OLY) this year, a Working Group, comprising: MinLaw, members of the Judiciary, the profession, law schools, and legal education providers, has been formed to conduct a holistic review of our legal education system.
 
 {:start="63"}
-63. This will take into account the evolving needs of our society and economy – very much the various points raised by Members earlier about taking on board today’s context, evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
+63. This will take into account the evolving needs of our society and economy, very much the various points raised by Members earlier about taking on board today’s context, evolving needs, what we foreshadow and forecast that we might need for tomorrow’s
 profession. This will include areas of practice which are new, emerging or growing, for example, in technology and civil law; and applies to law schools and also to continuing professional development.
 
 {:start="64"}
@@ -363,22 +363,20 @@ students are generally technologically-savvy.
 <u><i>Attrition</i></u>
 
 {:start="68"}
-68. Legal practice is tough. Long hours, demanding clients, transactions that need to be done quickly and overnight. There is a lot of stress, whether it is from clients, sometimes from judges when you appear in Court, and fellow practitioners. And the competition can be intense.
+68. Legal practice is tough. Long hours, demanding clients, transactions that need to be done quickly and overnight. There is a lot of stress, whether it is from clients, sometimes from judges when you appear in Court, and fellow practitioners. The competition can be intense.
 
 {:start="69"}
 69. As the President of the Law Society, Mr Adrian Tan, noted in his speech at the OLY: in 2022, it had its first membership reduction in half a decade.
 
 {:start="70"}
-70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly before that, a batch of new lawyers for the year were mass called and introduced to the
-Bar.
+70. I looked at the numbers that Mr Tan cited. He cited them as of 31 August 2022. Shortly before that, a batch of new lawyers for the year were mass called and introduced to the Bar.
 
 {:start="71"}
-71. If we take this into account, then there would in fact have been a gradual, small increase in the total number of Singapore-qualified practising lawyers over the years. To give Members some idea of the numbers: from around 5,400 practitioners in 2017 to around 6,400 practitioners in 2022. That said, when we looked at the trends and did
-a more granular review, it is apparent that the rate of increase in the number of Singapore-qualified practising lawyers has come down. It is increasing, but the rate of
-increase has slowed. And in part, this is due to a decrease in the number of returning overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
+71. If we take this into account, then there would, in fact, have been a gradual, small increase in the total number of Singapore-qualified practising lawyers over the years. To give Members some idea of the numbers: from around 5,400 practitioners in 2017 to around 6,400 practitioners in 2022. That said, when we looked at the trends and did
+a more granular review, it is apparent that although it is increasing, but the rate of increase of the number of qualified practising lawyers has come down. So, it is increasing, but the rate of increase has slowed. And in part, this is due to a decrease in the number of returning overseas law graduates, and also, as Mr Tan pointed out, an increase in attrition.
 
 {:start="72"}
-72. But at the same time, I would say attrition from private practice is not new. I think those of us who are lawyers and have been in practice for a while would have seen the trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today, have more options than in the past and can leave private practice, but still contribute within the legal sector. They can join the government, legal tech companies. They can enter academia. And like Mr Patrick Tay said earlier, greatly boosting legal services are in-house corporate counsel. And the lawyers who leave practice carry with them
+72. But at the same time, I would say attrition from private practice is not new. I think those of us who are lawyers and have been in practice for a while would have seen the trend, even from before. It is not a new phenomenon. Lawyers now, in fact, today, have more options than in the past and can leave private practice, but still contribute within the legal sector. They can join the government, legal tech companies. They can enter academia. And like Mr Patrick Tay said earlier, greatly boosting legal services as in-house corporate counsel. And the lawyers who leave practice carry with them
 that experience from practice into these other fields which are adjunct to practice but still serving the legal industry. This is not necessarily a bad outcome, because we need legal talent to support all aspects of our economy and our society.
 
 {:start="73"}
@@ -403,7 +401,7 @@ mentorship programme and courses for targeted upskilling for corporate counsel. 
 <u><i>Changes to the admission regime</i></u>
 
 {:start="78"}
-78. Finally, Ms Nadia touched on the upcoming changes to the admission regime, as recommended by the Committee for the Professional Training of Lawyers.
+78. Finally, Ms Nadia Samdin touched on the upcoming changes to the admission regime, as recommended by the Committee for the Professional Training of Lawyers.
 
 {:start="79"}
 79. MinLaw had previously announced the uncoupling of admission to the Bar from the completion of a practice training contract, and also the lengthening of the Practice
