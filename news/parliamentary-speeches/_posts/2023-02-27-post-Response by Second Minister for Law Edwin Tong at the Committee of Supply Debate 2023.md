@@ -173,7 +173,7 @@ COS.
 (c) Third, we will, in general, require disputing neighbours to undergo mediation before they can file a claim to the CDRT. This will prevent disputes from escalating unnecessarily to a court process. 
 
 {:start="24"}
-24. After we make mediation mandatory, the 80% settlement rate I mentioned earlier may well come down because now will be included in this group, cases where parties do not want to find a solution amongst themselves.
+24. After we make mediation mandatory, the 80% figure that I said earlier may well come down, it may not be as high because you will now be including in this group of mediated cases, those cases where parties do not want or do not wish to find a solution amongst themselves.
 
 {:start="25"}
 25. Nonetheless, it is important to provide parties a platform to seek an amicable resolution; and it can still be highly effective in the hands of a good mediator, with
