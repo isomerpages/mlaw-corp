@@ -121,26 +121,25 @@ Parliament not long ago.
 (ii) SMS Sim Ann will share more details of this when she speaks at MND’s
 COS.
 
-(b) Second, and I think we all know this; despite setting these norms and having these norms in the community, nuisance might and would still likely occur. Perhaps at a reduced rate. The overall aim is to encourage conciliation between neighbours, as much as possible. We live in an environment where we are close to one another. The best solution to dealing with neighbour disputes is to find an
-amicable, mediated position.
+(b) Second, and I think we all know this; despite setting these norms and having these norms in the community, nuisance might and would still likely occur. Perhaps at a reduced rate. The overall aim is to encourage conciliation between neighbours, as much as possible. We live in an environment where we are close to one another and the best solution to dealing with neighbour disputes, is to find an amicable, mediated position.
 
 (i) We are therefore going to be looking at setting up a team of dedicated personnel to leverage stronger laws and more active facilitation to help neighbours resolve issues upstream, before matters escalate and relationships deteriorate to such an extent that matters become intransigent or deadlocked.
 
-(ii) In appropriate cases, these personnel from this team may conduct investigations to understand the nature and root cause of the problem, and require, in the right cases, residents to attend a mandatory mediation, or require them to stop the actions that are causing the nuisance, pending mediation or resolution downstream.
+(ii) In the appropriate cases, personnel from this team may conduct investigations to understand the nature and root cause of the problem, and might require, in the right cases, residents to attend a mandatory mediation, or require them to stop the actions that are causing the nuisance, pending mediation or resolution downstream by the Community Disputes Resolution Tribunal (CDRT).
 
-(iii) More details for this process will be shared in MND’s and MCCY’s COS in due course.
+(iii) More details for this process will be shared in MND’s and MCCY’s Committee of Supply in due course.
 
 (c) But let me explain MinLaw’s work in the third area, which is in enhancing and improving the dispute resolution framework.
 
-(i) As I said, even as we look at steps to enhance and improve this process, we intend to channel as much of these disputes as possible through the mediated conciliatory route – that I think, we all accept is the best way of resolving a neighbour dispute.
+(i) Even as we look at steps to enhance and improve this process, we intend to channel as much of these disputes as possible through the mediated conciliatory route – that I think, we all accept is the best way of resolving a neighbour dispute.
 
-(ii) But given that there will be a number of these intransigent cases, we will work towards strengthening the powers and processes of the Community Disputes Resolution Tribunal (CDRT), which some Members spoke about – so that it can provide faster and more effective relief in appropriate cases.
+(ii) But given that there will be a number of these intransigent cases, we will work towards strengthening the powers and processes of the CDRT, which some Members spoke about – so that it can provide faster and more effective relief in appropriate cases.
 
 {:start="19"}
 19. Mediation can preserve, and even strengthen the relationship between neighbours, by providing them with a platform, in the hands of a trained mediator, to resolve their disputes amicably, in very much a win-win-fashion.
 
 {:start="20"}
-20. Our experience has shown that mediation is not just effective, but also quicker and cheaper.
+20. Our experience has shown us that mediation is not just effective, but also quicker and cheaper.
 
 {:start="21"}
 21. And data has shown that mediation has been by and large successful.
