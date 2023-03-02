@@ -410,7 +410,7 @@ image: ""
 84.	We announced in January that we have appointed the vendor for the development of the DCP. We target to implement the first phase, which will comprise the Option to Purchase stage for developer sale, resale, and sub-sale transactions, by 2024. We are working towards full implementation by 2026.
 
 {:start="85"}
-85.	Mr Lim and Mr Zhulkarnain asked about the DCP’s potential impact on jobs. We expect most individuals will continue to engage lawyers. Given the high value nature of property transactions, this serves as a safeguard of the individual’s interests. Nevertheless, such digitalisation projects will naturally, over time, result in less emphasis being placed on certain processes or skillsets. The developments bring value to the larger community by making processes simpler and faster. Hence, we encourage conveyancing practices to adapt to, innovate and leverage on the DCP to deliver better service to their clients. 
+85.	Mr Lim and Mr Zhulkarnain asked about the DCP’s potential impact on jobs. We expect most individuals will continue to engage lawyers. Given the high value nature of property transactions, this serves as a safeguard of the individual’s interests. Nevertheless, such digitalisation projects will naturally, over time, result in less emphasis being placed on certain processes or skillsets. The developments bring value to the larger community by making processes simpler and faster. Hence, we encourage conveyancing practices to adapt to, innovate, and leverage on the DCP to deliver better service to their clients. 
 
 <u><i>Geospatial</i></u>
 
@@ -418,7 +418,7 @@ image: ""
 86.	Geospatial technology has transformative potential on the way we live, work and play. This can unlock opportunities to benefit businesses and citizens, and enable sustainability efforts. 
 
 {:start="87"}
-87.	Prof Koh Lian Pin will be happy to hear that SLA has been actively engaging the industry, institutions, and community to mainstream use of geospatial capabilities, and promote greater awareness and understanding of their potential. 
+87.	Prof Koh Lian Pin will be happy to hear that SLA has been actively engaging the industry, institutions, and community to mainstream the use of geospatial capabilities, and promote greater awareness and understanding of their potential. 
 
 {:start="88"}
 88.	Last year, SLA signed Memorandums of Understanding (MOUs) with key real estate and industry players, such as the Real Estate Developers’ Association of Singapore, Singapore Business Federation, and real estate agencies. 
@@ -457,7 +457,7 @@ image: ""
 97.	Through SLA’s sustained efforts over the years, we have developed the Dempsey cluster into a lifestyle destination and a place for communities to gather. 
 
 {:start="98"}
-98.	To retain its attractiveness, SLA improved the infrastructure to make it better. SLA and Sport Singapore launched a tender for a playfield, to offer more spaces to the community to bond through sports.
+98.	And to retain its attractiveness, SLA improved the infrastructure to make it better. SLA and Sport Singapore launched a tender for a playfield, to offer more spaces to the community to bond through sports.
 
 {:start="99"}
 99.	SLA will continue to enhance Dempsey and expand it into a sustainable lifestyle destination that has many offerings.
@@ -468,7 +468,7 @@ image: ""
 <i><u>Southern Islands</i></u>
 
 {:start="101"}
-101.	Even as SLA rolls out new plans, we must balance the impact on nature and the environment – a point raised by Ms Nadia. 
+101.	Even as SLA rolls out new plans, we must balance the impact on nature and the environment – a point raised by Ms Nadia Samdin. 
 
 {:start="102"}
 102.	SLA is cognisant of the need for this balance, and has upheld the rustic nature of the Southern Islands, and in general, only low intensity development has been carried out. 
