@@ -7,12 +7,15 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
-The Ministry of Law hotline and Online Enquiry eServices will be undergoing maintenance on the following dates: 
-* 28 February 2023 (Tues) 7:00pm to 1 March 2023(Wed) 1:00am 
-* 10 March 2023 (Fri) 7:00pm to 11 March 2023(Sat) 1:00am 
+The Ministry of Law Services Centre will close on the following dates for staff events:
+
+| Closure Date | Resumption Date |
+| -------- | -------- |
+| 9 Mar 2023 (Thursday) from 12pm to 5pm | 10 Mar 2023     |
+| 20 Mar 2023 (Monday) from 12pm to 5pm | 21 Mar 2023 |    
 
 
-We apologise for any inconvenience caused.
+The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
 
 FAQ
 ---
