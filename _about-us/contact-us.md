@@ -17,6 +17,12 @@ The Ministry of Law Services Centre will close on the following dates for staff 
 
 The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
 
+The Ministry of Law eServices will be undergoing maintenance on the following dates:
+
+*   10 March 2023 (Fri) 7:00pm to 11 March 2023 (Sat) 1:00am
+
+We apologise for any inconvenience caused.
+
 FAQ
 ---
 
