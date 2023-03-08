@@ -18,7 +18,7 @@ Distinguished guests,
 {:start="2"}
 2.	In the past two days, you have heard about the impact of this war in Europe, its effect on the global rules-based order, the economic impacts, what it means for ASEAN and other regional structures in Southeast Asia, and in the realm of defence, what it means including against hybrid threats.
 
-** I. INTRODUCTION **
+**I. INTRODUCTION**
 
 {:start="3"}
 3.	In my speech, I want to take a step back to look at the broader history on what happened and try to draw some learning points.
@@ -169,7 +169,7 @@ Distinguished guests,
 {:start="48"}
 48.	When you look at these competing viewpoints, then you have to go back to the facts and cross-check.
 
-<u>III. FACTS / CHRONOLOGY</u>
+**III. FACTS / CHRONOLOGY**
 
 {:start="49"}
 49.	What are the facts?
@@ -209,19 +209,228 @@ Distinguished guests,
 {:start="60"}
 60.	In separate discussions between Mr Gorbachev, German Chancellor Helmut Kohland, and French President Francois Mitterran, both acknowledged that NATO expansion would be a problem for the USSR, which would need to be addressed.
 
-{:start="60"}
+{:start="61"}
+61.	However, notwithstanding these discussions, non-expansion – both as it applied to East Germany, and Eastern Europe as a whole – was not set out into the Treaty on the Final Settlement which the USSR signed in September 1990 with East and West Germany, France, the UK, and the US.
+
+{:start="62"}
+62.	Nothing was in writing, but the historical records suggest that Russia was given basis to believe that there would be no eastward expansion of NATO.
+
+{:start="63"}
+63.	I quote an extract from the memoirs of the current Director of CIA William Burns, who was then a Political Officer in the US Embassy in Moscow. Burns said Yeltsin and the Russians assumed, with considerable justification, that the US’s assurances of non-expansion would continue to apply, post USSR.
+
+{:start="64"}
+64.	So, if you look at what the Americans themselves at a very senior level have said, together with what the Chancellor in Germany and the President in France said.
 
 
-{:start="60"}
+{:start="65"}
+65.	But the Clinton Administration, which came after the Bush Administration, saw the not one inch eastward as “fairly ambiguous” because it had not been precisely defined.
 
+{:start="66"}
+66.	And so, the year after the USSR collapsed – in 1992 – Poland, Czechoslovakia, and Hungary jointly declared their long-term objective to attain full-fledged membership in NATO.
 
-{:start="60"}
+{:start="67"}
+67.	In the decade or so after that, there were two rounds of NATO enlargement. The first round in 1999 – which is Poland, the Czech Republic, and Hungary. The second round, in 2004 with seven other Eastern European countries – Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia.
 
+{:start="68"}
+68.	Russia protested these expansions. Before the first round of enlargement, Yeltsin told Clinton in 1995, that this would be a new form of encirclement and Russians feared this. Russia’s legislature also voiced concern in 2004 that NATO expansion was damaging to stability and security in Europe.
 
-{:start="60"}
+{:start="69"}
+69.	If we pause there and reflect: Could Russian concerns have been better handled? If you lived in the Baltics, Poland, or any of these countries, it is entirely understandable that you might want to be part of NATO. They have bitter history which justified their fears. But I think it is also fair to say that there was a significant responsibility to deal with Russia’s security concerns, even as NATO decided on enlargement.
 
+{:start="70"}
+70.	Should such concerns be taken seriously by others?
 
-{:start="60"}
+{:start="71"}
+71.	In April of last year, when China signed a security agreement with the Solomon Islands, there was considerable alarm in Australia about a possible Chinese military presence in the Pacific islands – 2,000km away from Australia. I think Kiev is about 500km away from Moscow.   
 
+{:start="72"}
+72.	60 years ago, during the Cuban Missile Crisis, the US ordered a “naval quarantine” around Cuba on 22 October 1962, to intercept “all offensive military equipment under shipment to Cuba”.
+
+{:start="73"}
+73.	America wasn’t keen on Russia’s military at its doorstep, notwithstanding that Cuba had the sovereign power to decide.
+
+{:start="74"}
+74.	And Australia wasn’t – and isn’t – keen on Chinese military presence in the Pacific Islands.
+
+{:start="75"}
+75.	But NATO’s presence in all of these countries is much closer or much less than 2,000 km.
+
+{:start="76"}
+76.	This is not an argument that NATO should not expand. But it is a point that Russian concerns need to have been dealt with. It cannot simply be dismissed. Otherwise, it will look like double standards are being applied.
+
+{:start="77"}
+77.	In February 2008, Mr Burns – who was by then, the US Ambassador in Moscow – wrote to his Secretary of State, Condoleezza Rice. He said that Ukraine joining NATO is the “brightest of all redlines” for Russia. Not just for President Putin, but for all Russian elites. Ukraine in NATO would be nothing but a “direct challenge to Russian interests”.
+
+{:start="78"}
+78.	Mr Burns is now the Director of the CIA, and a serious man. The implications of his views don’t seem to get discussed much in the current discussions.
+
+{:start="79"}
+79.	What did he mean? That Russian concerns are real, and that these concerns are shared by a significant elite in Russia.
+
+{:start="80"}
+80.	How were the Russian concerns dealt with? We don’t know.
+
+{:start="81"}
+81.	But two months later, in April 2008, NATO held a summit in Bucharest, welcoming Ukraine’s and Georgia’s Euro-Atlantic aspirations and for NATO membership, and they agreed that “these countries will become members of NATO”.
+
+{:start="82"}
+82.	The next day, President Putin responded quite bluntly. He said that the appearance of NATO at Russia’s borders is a “direct threat to the security” of Russia.
+
+{:start="83"}
+83.	We may agree or disagree with what he said, but Russia made its position quite clear that the expansion or further expansion of NATO was seen as a direct threat to Russia.
+
+{:start="84"}
+84.	After that, from 2009 to 2020, NATO continued to expand – Albania, Croatia, Montenegro, North Macedonia. But, not yet Ukraine.
+
+<u>B. Russia and Ukraine</u>
+
+{:start="85"}
+85.	In February 2014, we had the Maidan Revolution in Ukraine.
+
+{:start="86"}
+86.	Ukraine’s pro-Russian President, Viktor Yanukovych, was ousted.
+
+{:start="87"}
+87.	The Russian view, and they made this public, was that this was orchestrated by the US and the EU.
+
+{:start="88"}
+88.	Their point, the Russian point, was – You say you support elections. This man (Yanukovych) was elected, and you helped to overthrow him in an unconstitutional way.
+
+{:start="89"}
+89.	The next month, Russia annexed Crimea and supported pro-Russian separatists in armed conflict in the Donbas region.
+
+{:start="90"}
+90.	Shortly after, separatists in the Donbas proclaimed the independent Donetsk and Luhansk People’s Republics.  
+
+{:start="91"}
+91.	President Putin explained his motivations. He said Russia had to take some steps in response to NATO, as a military bloc moving towards Russia’s borders.
+
+{:start="92"}
+92.	So, Ukraine was left with Russian occupation in Crimea, and in the meantime, Ukraine tried, but failed to take back control of the Donbas, where conflict continued.
+
+{:start="93"}
+93.	Eventually, in an attempt to stop the fighting, in late 2014 and early 2015, the Minsk Agreements were brokered between the pro-Russia Ukrainian separatists and the Ukrainian government; and the Agreements were mediated by France and Germany.
+
+{:start="94"}
+94.	As part of the Agreements, there was to be a re-instatement of full control over the Donbas region by the Ukrainian government. In exchange, Ukraine would implement constitutional reforms, to decentralise, and give greater autonomy to these regions.
+
+{:start="95"}
+95.	Some hoped that this would be a pathway to a long-lasting resolution.
+
+{:start="96"}
+96.	But in the years after, neither side seems to have kept to the deal. Russia protested that Ukraine was never intending to fulfil its commitments to give autonomy to the Donbas region. The Agreements were not fully implemented.
+
+{:start="97"}
+97.	But many of you might also be aware, that in December of last year, Merkel and Hollande, who were the leaders when the Agreement was brokered – the leaders of Germany and France respectively – made some interesting statements. They were both negotiating the Minsk Agreement. They said in separate interviews that Minsk was an attempt to give Ukraine time to become stronger; Minsk gave the Ukrainian army the opportunity to strengthen its military posture.
+
+{:start="98"}
+98.	Now, what does Russia take away from these statements from the leaders? Agreements cannot be negotiated between these countries. 2014, 2015 – Russians say these comments show that the West had been duplicitous. They never intended for Ukraine to uphold the Minsk Agreements to grant greater autonomy to the people of the Donbas region, and that the Agreements were just intended to buy time for Ukraine to strengthen itself militarily.
+
+{:start="99"}
+99.	It should be noted though that Merkel and Hollande made their comments after the Russian invasion.
+
+{:start="100"}
+100.	In February 2022, Russia declared the Minsk Agreements null and on 24 February 2022, it invaded Ukraine.
+
+{:start="101"}
+101.	So, you can see, the facts are a little bit more involved than what you read daily from much of the Western media. The facts are a little bit more nuanced. So I said, nothing justifies the Russian invasion of Ukraine – I made that clear. Nothing can justify the horrors that the Ukrainian people are going through. The picture that is presented is a little bit more nuanced than the media portrays it.
+
+**IV. LESSONS**
+
+<u>A. Responsibilities</u>
+
+{:start="102"}
+102.	I mentioned at the start, there are different views on how we got here and to what extent those countries are responsible for the current situation.
+
+{:start="103"}
+103.	Whatever the case, Ukraine is the unfortunate victim, and its people are paying a terrible price.
+
+{:start="104"}
+104.	Minsk, NATO enlargement, how NATO enlargement was done – swiftly, in spite of Russia’s repeated and consistent protests – can in no way justify an invasion.
+
+{:start="105"}
+105.	But we also have to understand why a not insignificant number of Russians are fully convinced that Russia’s invasion is justified, and that Russia has been the victim of Western aggression.
+
+{:start="106"}
+106.	The West has to reflect on whether Russia’s concerns were adequately dealt with, even as NATO expanded.
+{:start="107"}
+107.	The West and NATO, in my view, were not uninvolved bystanders who had no role to play in the current situation.
+
+<u> B. Lessons for Small Countries</u>
+
+{:start="108"}
+108.	In the chessboard of Great Power Rivalry, what is the lesson for small countries, like Singapore?
+
+{:start="109"}
+109.	Entangled in these historical events, are two important principles of international law.
+
+{:start="110"}
+110.	First, Indivisible Security: A state should not enhance its security at the expense of another’s. Because one state’s security is inseparably linked to another’s.
+
+{:start="111"}
+111.	The second principle, Self-Determination. In this context, the right of a state to choose its own military and political alliances.
+
+{:start="112"}
+112.	Now, I make three observations on these two principles.
+
+{:start="113"}
+113.	First, the two principles can contradict each other. One country’s self-determined source of security can be another country’s source of insecurity.
+
+{:start="114"}
+114.	Second, you can argue from an international law perspective, on the inviolability of a country’s sovereignty. But, given a contradiction, each Power will pick one of these principles best suited for their interests, in that particular geopolitical context.
+
+{:start="115"}
+115.	In the context of today’s conflict, Russian Foreign Minister Lavrov has referred frequently to the indivisibility of security. He insists that Ukraine should not strengthen its security (by joining NATO) at the expense of Russia’s security. On the other hand, the US Secretary of State Antony Blinken has repeatedly affirmed that the right of Ukraine to choose its own security arrangements and alliances is a core principle that the US is committed to defend. So, the United States asserts Ukraine’s right to self-determination, while Russia asserts the principle of indivisible security. Ukraine’s security should not be at the expense of Russia’s security.
+
+{:start="116"}
+116.	Let’s go back to the 1962 Cuban Missile Crisis. We see the reverse.
+
+{:start="117"}
+117.	Back then, when it was Cuba that was potentially posing a threat to the US, US President John F Kennedy spoke about halting Cuba’s offensive build-up of weapons in, I quote, “defense of our own security”, as they were, “a threat to world peace”.
+
+{:start="118"}
+118.	In response, Soviet President Nikita Khrushchev dismissed America’s actions as, “undisguised interference” in the internal affairs of Cuba. In other words, Cuba is sovereign, and Cuba should be allowed to decide for itself.
+
+{:start="119"}
+119.	So, when it came to Cuba, America emphasised the principle of indivisible security, and Russia emphasised the principle of sovereignty. The complete reversal is happening today. Both then, and now, neither Great Power accepted a potential threat at its doorstep.
+
+{:start="120"}
+120.	I think it’s fair to say that in the future, these sorts of dynamics will continue. And both Great Powers cited the relevant principle that best suited them, to the position they wished to take.
+
+{:start="121"}
+121.	Big countries do that frequently.
+
+{:start="122"}
+122.	A third and final observation – Small countries often pay a disproportionate price in geopolitical conflicts among Great Powers.
+
+{:start="123"}
+123.	Depending on how you look at it, smaller countries can be said to have been either wilfully used as pawns, or just inadvertently caught between the powers, as collateral damage.
+
+{:start="124"}
+124.	But there is no mistake that they are often the ones who pay the price.
+
+{:start="125"}
+125.	Looking at the past few decades of conflict and tension between Russia and the West, it is the Ukrainians who are paying the price.
+
+{:start="126"}
+126.	One thing about Ukraine is clear though. Its defence has been nothing short of heroic against a vastly superior power.  A war that many thought would be over in days, has stretched to more than a year. Ukraine’s sense of national identity, purpose, and independence have now been forged in steel and blood. Whoever might have queried the artificiality of Ukraine as a state before the war, will have no doubts today that Ukraine’s sense of nationalism and statehood is completely formed. Ukraine’s spirit has become immeasurably stronger, and it is unlikely to be rolled over. There is a lot to admire about the way Ukraine has defended itself.
+
+{:start="127"}
+127.	For small countries like Singapore, it is in our interest to have regional structures that promote cooperation rather than rivalry in our region.
+
+{:start="128"}
+128.	And understand that ultimately, we have to have the military means ourselves, and the social resilience, so that we can defend ourselves. Because others may help only if it suits their interests.
+
+{:start="129"}
+129.	It is also critical for us to have a keen eye, keep a sober mind, and maintain a sharp analysis towards competitive geopolitical trends.
+
+{:start="130"}
+130.	We have to look beyond the bluster, the headlines, and the ideologically-driven narratives, to understand the facts.
+
+{:start="131"}
+131.	And finally, we must continue, as we always have, to act only and always in Singapore’s own interests, and stand up for the principles on which our interests are based. But it cannot just be self-interest. There must be basis in international law for these interests.
+
+{:start="132"}
+132.	Thank you very much.  
 
 <p class="right-side-updated">Last updated on 8 March 2023</p>
