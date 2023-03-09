@@ -37,7 +37,7 @@ Distinguished guests,
 6.	One, Russia’s invasion of Ukraine is a clear and gross violation of international law and the principles enshrined in the UN Charter.
 
 {:start="7"}
-7.	We, Singapore, have taken a firm stand. We co-sponsored and voted in favour of several resolutions at the United Nations (UN) condemning Russia’s aggression against Ukraine. We imposed sanctions against Russia, and blocked some Russian banks and financial transactions connected to Russia.
+7.	Singapore has taken a firm stand. We co-sponsored and voted in favour of several resolutions at the United Nations (UN) condemning Russia’s aggression against Ukraine. We imposed sanctions against Russia, and blocked some Russian banks and financial transactions connected to Russia.
 
 {:start="8"}
 8.	In fact, we were the only Southeast Asian country to sanction Russia, and one of just a small handful of Asian countries to have done so.
@@ -95,7 +95,7 @@ Distinguished guests,
 24.	Ukraine, in particular was a particularly painful loss, because the President believes that since Russia and Ukraine share a long and common history. In spite of the fact that both had evolved into different countries, Ukraine has to be in Russia’s sphere of influence.
 
 {:start="25"}
-25.	The President’s speech shortly before Russia invaded Ukraine, is often referred to, that: 
+25.	The President’s speech shortly before Russia invaded Ukraine, is often referred to, where he said that: 
   
     a.	Modern Ukraine was just a creation by Communist Russia; 
     
@@ -223,11 +223,10 @@ Distinguished guests,
 63.	I quote an extract from the memoirs of the current Director of CIA William Burns, who was then a Political Officer in the US Embassy in Moscow. Burns said Yeltsin and the Russians assumed, with considerable justification, that the US’s assurances of non-expansion would continue to apply, post USSR.
 
 {:start="64"}
-64.	So, if you look at what the Americans themselves at a very senior level have said, together with what the Chancellor in Germany and the President in France said.
-
+64.	So, you can look at what the Americans themselves have said at a very senior level, together with what the Chancellor in Germany and the President in France said.
 
 {:start="65"}
-65.	But the Clinton Administration, which came after the Bush Administration, saw the not one inch eastward as “fairly ambiguous” because it had not been precisely defined.
+65.	But the Clinton Administration, which came after the Bush Administration, saw the "not one inch eastward" as “fairly ambiguous” because it had not been precisely defined.
 
 {:start="66"}
 66.	And so, the year after the USSR collapsed – in 1992 – Poland, Czechoslovakia, and Hungary jointly declared their long-term objective to attain full-fledged membership in NATO.
@@ -298,7 +297,7 @@ Distinguished guests,
 87.	The Russian view, and they made this public, was that this was orchestrated by the US and the EU.
 
 {:start="88"}
-88.	Their point, the Russian point, was – You say you support elections. This man (Yanukovych) was elected, and you helped to overthrow him in an unconstitutional way.
+88.	Their point, the Russian point, was – You say you support elections. This man, Yanukovych, was elected, and you helped to overthrow him in an unconstitutional way.
 
 {:start="89"}
 89.	The next month, Russia annexed Crimea and supported pro-Russian separatists in armed conflict in the Donbas region.
@@ -328,7 +327,7 @@ Distinguished guests,
 97.	But many of you might also be aware, that in December of last year, Merkel and Hollande, who were the leaders when the Agreement was brokered – the leaders of Germany and France respectively – made some interesting statements. They were both negotiating the Minsk Agreement. They said in separate interviews that Minsk was an attempt to give Ukraine time to become stronger; Minsk gave the Ukrainian army the opportunity to strengthen its military posture.
 
 {:start="98"}
-98.	Now, what does Russia take away from these statements from the leaders? Agreements cannot be negotiated between these countries. 2014, 2015 – Russians say these comments show that the West had been duplicitous. They never intended for Ukraine to uphold the Minsk Agreements to grant greater autonomy to the people of the Donbas region, and that the Agreements were just intended to buy time for Ukraine to strengthen itself militarily.
+98.	Now, what does Russia take away from these statements from the leaders? Agreements were negotiated between these countries. In 2014, 2015. Russians say these comments show that the West had been duplicitous. They never intended for Ukraine to uphold the Minsk Agreements to grant greater autonomy to the people of the Donbas region, and that the Agreements were just intended to buy time for Ukraine to strengthen itself militarily.
 
 {:start="99"}
 99.	It should be noted though that Merkel and Hollande made their comments after the Russian invasion.
@@ -337,7 +336,7 @@ Distinguished guests,
 100.	In February 2022, Russia declared the Minsk Agreements null and on 24 February 2022, it invaded Ukraine.
 
 {:start="101"}
-101.	So, you can see, the facts are a little bit more involved than what you read daily from much of the Western media. The facts are a little bit more nuanced. So I said, nothing justifies the Russian invasion of Ukraine – I made that clear. Nothing can justify the horrors that the Ukrainian people are going through. The picture that is presented is a little bit more nuanced than the media portrays it.
+101.	So, you can see, the facts are a little bit more involved than what you read daily from much of the Western media. The facts are a little bit more nuanced. So I said, nothing justifies the Russian invasion of Ukraine – I made that clear. Nothing can justify the horrors that the Ukrainian people are going through. But, the picture that is presented is a little bit more nuanced than the media portrays it.
 
 **IV. LESSONS**
 
