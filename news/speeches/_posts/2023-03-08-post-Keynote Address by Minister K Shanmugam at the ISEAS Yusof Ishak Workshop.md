@@ -336,7 +336,7 @@ Distinguished guests,
 100.	In February 2022, Russia declared the Minsk Agreements null and on 24 February 2022, it invaded Ukraine.
 
 {:start="101"}
-101.	So, you can see, the facts are a little bit more involved than what you read daily from much of the Western media. The facts are a little bit more nuanced. So I said, nothing justifies the Russian invasion of Ukraine – I made that clear. Nothing can justify the horrors that the Ukrainian people are going through. But the picture that is presented is a little bit more nuanced than the media portrays it.
+101.	So, you can see, the facts are a little bit more involved than what you read daily from much of the Western media. The facts are a little bit more nuanced. So I said, nothing justifies the Russian invasion of Ukraine – I made that clear. Nothing can justify the horrors that the Ukrainian people are going through. But, the picture that is presented is a little bit more nuanced than the media portrays it.
 
 **IV. LESSONS**
 
