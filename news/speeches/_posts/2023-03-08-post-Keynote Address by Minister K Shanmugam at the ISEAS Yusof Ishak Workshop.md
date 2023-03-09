@@ -1,6 +1,7 @@
 ---
-title: Closing Keynote Address by Minister for Home Affairs and Law K Shanmugam at the
-  ISEAS-Yusof Ishak Workshop on The Russia-Ukraine War and Southeast Asia One Year On - Implications and Outlook
+title: Closing Keynote Address by Minister for Home Affairs and Law K Shanmugam
+  at the ISEAS-Yusof Ishak Workshop on The Russia-Ukraine War and Southeast Asia
+  One Year On - Implications and Outlook
 permalink: /news/speeches/2023-03-08-keynote-address-k-shanmugam-iseas-yusof-ishak-workshop/
 date: 2023-03-08
 layout: post
@@ -36,7 +37,7 @@ Distinguished guests,
 6.	One, Russia’s invasion of Ukraine is a clear and gross violation of international law and the principles enshrined in the UN Charter.
 
 {:start="7"}
-7.	We, Singapore, has taken a firm stand. We co-sponsored and voted in favour of several resolutions at the United Nations (UN) condemning Russia’s aggression against Ukraine. We imposed sanctions against Russia, and blocked some Russian banks and financial transactions connected to Russia.
+7.	We, Singapore, have taken a firm stand. We co-sponsored and voted in favour of several resolutions at the United Nations (UN) condemning Russia’s aggression against Ukraine. We imposed sanctions against Russia, and blocked some Russian banks and financial transactions connected to Russia.
 
 {:start="8"}
 8.	In fact, we were the only Southeast Asian country to sanction Russia, and one of just a small handful of Asian countries to have done so.
