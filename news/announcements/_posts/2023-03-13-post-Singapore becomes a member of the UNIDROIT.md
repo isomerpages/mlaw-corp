@@ -9,7 +9,7 @@ image: ""
 13 March 2023 Posted in [Announcements](/news/announcements)
 
 {:start="1"}
-1. Singapore has formally become a member of the [International Institute for the Unification of Private Law (UNIDROIT)](http://www.unidroit.org) on 1 March 2023. The Ministry of Law is now Singapore’s National Authority and contact point with UNIDROIT.
+1. Singapore has formally become a member of the [International Institute for the Unification of Private Law (UNIDROIT)](http://www.unidroit.org) on 13 March 2023. The Ministry of Law is now Singapore’s National Authority and contact point with UNIDROIT.
 
 {:start="2"}
 2. Founded in 1926 as part of the League of Nations, UNIDROIT is one of the world’s main organisations tasked with the development of international treaties and modern standards in private law, with special relevance in the areas of secured transactions, contract law, capital markets, digital economy, banking law, and agriculture.
