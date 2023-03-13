@@ -1,7 +1,7 @@
 ---
-title: Singapore becomes a member of the UNIDROIT
+title: Singapore becomes a member of the International Institute for the Unification of Private Law (UNIDROIT)
 permalink: /news/announcements/13-03-2023-singapore-member-of-unidroit/
-date: 2023-03-12
+date: 2023-03-13
 layout: post
 description: ""
 image: ""
