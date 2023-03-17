@@ -7,7 +7,7 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
-The Ministry of Law Services Centre will be closed on  20 Mar 2023 (Monday) from 12 p.m. to 5 p.m for staff events and will resume on 21 Mar 2023
+The Ministry of Law Services Centre will be closed on  20 Mar 2023 (Monday) from 12 p.m. to 5 p.m for staff events and will resume on 21 Mar 2023.  The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
 
 
 FAQ
