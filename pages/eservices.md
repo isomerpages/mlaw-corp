@@ -3,9 +3,13 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-The Ministry of Law eServices will be undergoing maintenance on the following dates: 
+The following e-Services will be undergoing maintenance and will be intermittantly inaccessible on Friday, 17 Mar 2023 from 6 p.m. to 8 p.m.:
 
-* 10 March 2023 (Fri) 7:00pm to 11 March 2023 (Sat) 1:00am 
+•	Legal Services Regulatory Authority
+
+•	Exemptions
+
+•	Community Mediation Centre
 
 We apologise for any inconvenience caused.
 
