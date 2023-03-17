@@ -9,19 +9,15 @@ breadcrumb: Contact Us
 
 The Ministry of Law Services Centre will close on the following dates for staff events:
 
-| Closure Date | Resumption Date |
-| -------- | -------- |
-| 9 Mar 2023 (Thursday) from 12pm to 5pm | 10 Mar 2023     |
-| 20 Mar 2023 (Monday) from 12pm to 5pm | 21 Mar 2023 |    
+| Closure Date / Resumption Date |
+----------------------------
+
+ 20 Mar 2023 (Monday) from 12 p.m. to 5 p.m / 21 Mar 2023     
 
 The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
 
 
-The Ministry of Law eServices will be undergoing maintenance on the following dates:
 
-*   10 March 2023 (Fri) 7:00pm to 11 March 2023 (Sat) 1:00am
-
-We apologise for any inconvenience caused.
 
 FAQ
 ---
@@ -57,6 +53,12 @@ If you are unable to get through to us via the live chat, please use our enquiry
 
 <!-- End Live chat -->
 
+The Online Enquiry will be undergoing maintenance and will be unavailable on 17 Mar 2023, from 6 p.m. to 8 p.m. 
+
+During this period, the voicemail service of our hotline will be available and Please leave the voice message to submit queries.  We apologise for any inconvenience caused.
+
+
+
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
@@ -84,8 +86,8 @@ You can send us your feedback and enquiries on the following issues:
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
 </div><br>
 
-Online Enquiry will be under maintenance from 17 Feb 2023 6:00pm to 8:00:pm and will be unavailable.
-We apologise for any inconvenience caused.
+
+
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
