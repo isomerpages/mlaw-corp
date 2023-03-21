@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on land valuation
+title: Written Answer by Minister for Law K Shanmugam to PQ on Land Valuation for Community Centres and Community Clubs
 permalink: /news/parliamentary-speeches/written-pq-on-land-valuation-for-ccs/
 date: 2023-03-21
 layout: post
