@@ -7,7 +7,7 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
-
+The Ministry of Law Services Centre will be closed on  20 Mar 2023 (Monday) from 12 p.m. to 5 p.m for staff events and will resume on 21 Mar 2023.  The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
 
 
 FAQ
@@ -44,9 +44,9 @@ If you are unable to get through to us via the live chat, please use our enquiry
 
 <!-- End Live chat -->
 
-The Online Enquiry and MinLaw Hotline will be undergoing maintenance and will be unavailable on 24 Mar 2023, from 6 p.m. to 25 Mar 2023, 8 p.m. 
+The Online Enquiry will be undergoing maintenance and will be unavailable on 17 Mar 2023, from 6 p.m. to 8 p.m. 
 
-We apologise for any inconvenience caused.
+During this period, the voicemail service of our hotline will be available and Please leave the voice message to submit queries.  We apologise for any inconvenience caused.
 
 
 
