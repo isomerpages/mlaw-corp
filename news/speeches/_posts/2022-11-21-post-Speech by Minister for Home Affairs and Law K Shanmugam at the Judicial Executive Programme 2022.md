@@ -69,9 +69,9 @@ Ladies and Gentlemen,
 
     d.	Population comprised of migrants from China, India, Peninsula Malaya, and various other places. Most of them saw Singapore as a transient place to come, make money, and then go back home. 
 
-    e.	And you see some pictures of the kind of people we have. Different ancestries, skin colours, languages, cultural backgrounds, religious beliefs, at that time in 580 sq km of land. Today we are about 760 sq km through land reclamation.
+    e.	And you see some pictures of the kind of people we have (<i>See slide 2 in Annex</i>). Different ancestries, skin colours, languages, cultural backgrounds, religious beliefs, at that time in 580 sq km of land. Today we are about 760 sq km through land reclamation.
 
-    f.	Our social indicators were poor: Literacy rates were low. Industrial strife was common. Unemployment was high. Housing was overcrowded, unhygienic and unsafe. Crime, disorder and subversion were common. 
+    f.	Our social indicators were poor: Literacy rates were low. Industrial strife was common. Unemployment was high. Housing was overcrowded, unhygienic and unsafe. Crime, disorder and subversion were common. You can see some of the types of housing and buildings we had in the 1950s and 60s (<i>See slide 3 in Annex</i>).
 
 {:start="11"}
 11.	The diversity of the racial and religious mix meant that racial tensions were easy to stoke up. And they were stoked up: racial riots, violent ones, happened in 1950, 1964 and 1969.
@@ -80,23 +80,23 @@ Ladies and Gentlemen,
 12.	If I can quote, our founding Prime Minister, Mr Lee Kuan Yew, he had once said – the idea of an independent Singapore was “a political, economic and geographical absurdity”.  
 
 {:start="13"}
-13.	Can such a place survive – let alone build a new national identity and prosper? The answer is what you see today. The improbable was made to happen. 57 years after independence, Singapore is now a modern, thriving, cosmopolitan city – see some of the pictures – with a clear national identity. 
+13.	Can such a place survive – let alone build a new national identity and prosper? The answer is what you see today. The improbable was made to happen. 57 years after independence, Singapore is now a modern, thriving, cosmopolitan city – see some of the pictures – with a clear national identity (<i>See slide 4 in Annex</i>).
 
 {:start="14"}
-14.	Our gross GDP per capita has grown by almost 150 times – from around US$500 in 1965 to more than US$72,000 in 2021. The best way of illustrating this is in some graphics comparing population and land size. The balloons on this slide compares GDP and population in ASEAN. you will see that Singapore has the second smallest population in ASEAN, but our GDP is quite out of proportion – it is the third largest. If you look at GDP versus land area, we can hardly be seen; we are smaller than every country in ASEAN. But again, our GDP is out of proportion. Our GDP has to depend on fundamentally our population and our resources including land. It shows you what a good understanding of Rule of Law, good governance and human ingenuity can create from nothing. And if you compare, say to the Philippines, 110 million population, 300,000 sq km, the economy is about the same size as ours. Or Malaysia, which has every resource you can think of, oil, palm oil, rubber, timber etc. 330,000 sq km of land, 30 million population. But again, the economy is slightly smaller than ours. 
+14.	Our gross GDP per capita has grown by almost 150 times – from around US$500 in 1965 to more than US$72,000 in 2021. The best way of illustrating this is in some graphics comparing population and land size (<i>See slides 5-6 in Annex</i>). The balloons on this slide compares GDP and population in ASEAN. you will see that Singapore has the second smallest population in ASEAN, but our GDP is quite out of proportion – it is the third largest. If you look at GDP versus land area, we can hardly be seen; we are smaller than every country in ASEAN. But again, our GDP is out of proportion. Our GDP has to depend on fundamentally our population and our resources including land. It shows you what a good understanding of Rule of Law, good governance and human ingenuity can create from nothing. And if you compare, say to the Philippines, 110 million population, 300,000 sq km, the economy is about the same size as ours. Or Malaysia, which has every resource you can think of, oil, palm oil, rubber, timber etc. 330,000 sq km of land, 30 million population. But again, the economy is slightly smaller than ours. 
 
 {:start="15"}
 15.	There is no reason why we got an economy so big, except that we managed to make things work by using the one resource we have, which is human capital. Our social and structural indicators are also quite different now.
 
-    a.	First is human development. For me, this is the most important indicator. It really marks what value the state has to a child born in the country. According to World Bank, we are the best place in the world for a child to grow up. A child born in Singapore will get the maximum compared to a child born anywhere else in the world. Some parents may not agree, but that is what the World Bank says.
+    a.	First is human development. For me, this is the most important indicator. It really marks what value the state has to a child born in the country. According to World Bank, we are the best place in the world for a child to grow up (<i>See slide 7 in Annex</i>). A child born in Singapore will get the maximum compared to a child born anywhere else in the world. Some parents may not agree, but that is what the World Bank says.
 
     b.	Public housing is one of the highest home ownership rates in the world – at nearly 90%.
 
-    c.	The education system produces students who generally outperform their peers around the world. This slide tells you what you spend, and what the outcomes are. The idea really is to keep the x-axis as low as possible to the left, and the y-axis as high as possible. You want to be in the upper left quadrant. If you look at education, we are stingy, and spend comparatively little.   But if you look at the outcomes, we are pretty much above every other country. 
+    c.	The education system produces students who generally outperform their peers around the world. This slide (<i>See slide 8 in Annex</i>) tells you what you spend, and what the outcomes are. The idea really is to keep the x-axis as low as possible to the left, and the y-axis as high as possible. You want to be in the upper left quadrant. If you look at education, we are stingy, and spend comparatively little.   But if you look at the outcomes, we are pretty much above every other country. 
 
     d.	Likewise, healthcare. Japan has a slightly better outcome than us. But in terms of spending, no one spends as little as we do. We get bang for the buck. Again, I think Singaporeans will understand. The Government is not known for spending a lot of money. But the real question is the results. And it is public money, it is not an individual’s money.   
 
-    e.	In terms of law and order: The crime rate here is very low. 95% of our people feel safe walking home alone at night, compared to the global average of 71%. We have ranked first in the Gallup’s Law and Order Index since 2015. We also perform well on various Rule of Law indices.
+    e.	In terms of law and order: The crime rate here is very low. 95% of our people feel safe walking home alone at night, compared to the global average of 71%. We have ranked first in the Gallup’s Law and Order Index since 2015. We also perform well on various Rule of Law indices. (<i>See slide 9 in Annex</i>)
 
 **III. Importance of the Rule of Law to Singapore and our Adaptations of the Rule of Law**
 
@@ -135,7 +135,7 @@ Ladies and Gentlemen,
 21.	Individuals and businesses must know what to expect, in their dealings inter se, and in their dealings with the Government. If the dispute comes before the Courts, they must know that the Courts would adjudicate based on the law. No one can come, knock on your door, illegally take away your money, or your assets, or your businesses. That transparency, stability, has led to a very high level of confidence among investors. 
 
 {:start="22"}
-22.	One result is that the total stock of FDI in Singapore is more than $2 trillion as at 2020. More than 4,000 American companies, and more than 10,000 European companies, Japanese, Korean, Chinese, others, in large numbers, are here. That is what you saw in the previous slide. Singapore is a place to do business. It is a place where people get best paid compared to most places in the world.
+22.	One result is that the total stock of FDI in Singapore is more than $2 trillion as at 2020. More than 4,000 American companies, and more than 10,000 European companies, Japanese, Korean, Chinese, others, in large numbers, are here (<i>See slide 10 in Annex</i>). Singapore is a place to do business. It is a place where people get best paid compared to most places in the world.
 
 {:start="23"}
 23.	We have also made significant efforts in the last few years to position Singapore as a thought leader on International Commercial Law. We interact a lot in the Hague, and in many other international forums.
@@ -316,5 +316,7 @@ Ladies and Gentlemen,
 
 {:start="70"}
 70.	Thank you.
+
+[Annex - Accompanying Slides](/files/news/speeches/2022/Accompanying%20Slides%20For%20Minister%20Shanmugam%20Speech%20At%20Judicial%20Executive%20Programme%202022.pdf)
 
 <p class="right-side-updated">Last updated on 24 March 2023</p>
