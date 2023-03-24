@@ -96,7 +96,7 @@ Ladies and Gentlemen,
 
     d.	Likewise, healthcare. Japan has a slightly better outcome than us. But in terms of spending, no one spends as little as we do. We get bang for the buck. Again, I think Singaporeans will understand. The Government is not known for spending a lot of money. But the real question is the results. And it is public money, it is not an individual’s money.   
 
-    e.	In terms of law and order: The crime rate here is very low. 95% of our people feel safe walking home alone at night, compared to the global average of 71%. We have ranked first in the Gallup’s Law and Order Index since 2015. We also perform well on various Rule of Law indices. (<i>See slide 9 in Annex</i>)
+    e.	In terms of law and order: The crime rate here is very low. 95% of our people feel safe walking home alone at night, compared to the global average of 71%. We have ranked first in the Gallup’s Law and Order Index since 2015. We also perform well on various Rule of Law indices (<i>See slide 9 in Annex</i>).
 
 **III. Importance of the Rule of Law to Singapore and our Adaptations of the Rule of Law**
 
