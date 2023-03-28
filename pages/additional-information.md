@@ -1,12 +1,9 @@
 ---
-title: 'Additional Information'
+title: Additional Information
 permalink: /about-us/what-we-do/additional-information/
-breadcrumb: 'Additional Information'
-third_nav_title: 'What We Do'
-
+breadcrumb: Additional Information
+third_nav_title: What We Do
 ---
-
-
 Additional information
 ---
 
@@ -27,7 +24,7 @@ A pamphlet which summarises the key impacts of the new measures on buyers and se
 * <a href="/files/linkclick998f.pdf/">Stakeholder Contact Numbers</a> (262KB)
 A list of stakeholder contact numbers (Law Society, SAL, CPF, HDB, SLA etc.) can be found here.
  
-* <a href="/files/Opening-of-Conveyancing-Accounts-and-Conveyancing-CPF-Accounts_20190307.pdf/">List of Appointed Banks</a> (156KB) <i>[Updated 7 Mar 2019]</i>
+* <a href="/files/AppointedBanks2023.pdf/">List of Appointed Banks</a> (39.5KB) <i>[Updated 28 Mar 2023]</i>
 This is a listing of banks with which law practices can open Conveyancing or Conveyancing (CPF) Accounts.
  
 * <a href="/files/AnnexB-AppointedBanksthatprovideescrowaccounts.pdf/">List of Appointed Banks with escrow services</a> (16KB) <i>[Updated 5 February 2018]</i>
