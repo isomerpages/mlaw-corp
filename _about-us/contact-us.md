@@ -39,8 +39,6 @@ If you are unable to get through to us via the live chat, please use our enquiry
 <br>
 <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
 
-
-
 The Online Enquiry and Hotline will be undergoing maintenance and will be unavailable from 1 Apr 2023,  2 p.m. to 2 Apr 2023, 8 p.m. 
 
 We apologise for any inconvenience caused.
