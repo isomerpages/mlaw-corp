@@ -44,7 +44,7 @@ If you are unable to get through to us via the live chat, please use our enquiry
 
 
 
-The Online Enquiry and Hotline will be undergoing maintenance and will be unavailable on 1 Apr 2023, from 2 p.m. to 2 Apr 2023, 8 p.m. 
+The Online Enquiry and Hotline will be undergoing maintenance and will be unavailable from 1 Apr 2023,  2 p.m. to 2 Apr 2023, 8 p.m. 
 
 We apologise for any inconvenience caused.
 
