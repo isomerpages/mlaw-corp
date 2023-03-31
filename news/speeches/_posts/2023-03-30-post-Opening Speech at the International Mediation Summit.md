@@ -1,5 +1,5 @@
 ---
-title: Opening Speech at the International Mediation Summit
+title: Opening Ceremony Speech by Minister for Culture, Community and Youth, and Second Minister of Law Edwin Tong SC, at the International Mediation Summit
 permalink: /news/speeches/2m-edwin-tong-at-international-mediation-summit-2023/
 date: 2023-03-30
 layout: post
