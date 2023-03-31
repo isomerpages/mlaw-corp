@@ -3,7 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-The following e-Services will be undergoing maintenance and will be inaccessible from 1 Apr 2023 from 2 p.m. to 2  Apr 2023 8 p.m:
+The following e-Services will be undergoing maintenance and will be inaccessible from 1 Apr 2023 2 p.m. to 2  Apr 2023 8 p.m:
 
 •	Legal Services Regulatory Authority
 
