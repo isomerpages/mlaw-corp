@@ -7,7 +7,7 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
-The Ministry of Law Services Centre will be closed on  20 Mar 2023 (Monday) from 12 p.m. to 5 p.m for staff events and will resume on 21 Mar 2023.  The Crimsonlogic E-helpers’ services and Document Submission Counter are available on these days. 
+
 
 
 FAQ
@@ -19,7 +19,7 @@ Have questions?
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
 </div><br>
 
-<!-- Live chat -->
+
 <div class="paragraphs">
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
 </div>
@@ -33,18 +33,18 @@ The live chat will address enquiries on:
 * Individual Insolvency
 * Corporate Insolvency
 * Debt Repayment scheme
-* Licensing & Regulation of Insolvency Practitioners
+* Licensing &amp; Regulation of Insolvency Practitioners
 * Public Trustee
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br>
 <br>
-<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&title=MinLaw%20Live%20Chat" target="_blank" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
+<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
 
-<!-- End Live chat -->
 
-The Online Enquiry and Hotline will be undergoing maintenance and will be unavailable on 25 Mar 2023, from 2 p.m. to 26 Mar 2023, 8 p.m. 
+
+The Online Enquiry and Hotline will be undergoing maintenance and will be unavailable on 1 Apr 2023, from 2 p.m. to 2 Apr 2023, 8 p.m. 
 
 We apologise for any inconvenience caused.
 
@@ -61,7 +61,7 @@ We apologise for any inconvenience caused.
 You can send us your feedback and enquiries on the following issues: 
 
 * Bankruptcy Matters
-* Public Trustee's Office & Motor Accident Compensation
+* Public Trustee's Office &amp; Motor Accident Compensation
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 * Legal Aid
@@ -71,7 +71,7 @@ You can send us your feedback and enquiries on the following issues:
 * Exemptions for Admission to the Singapore Bar
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
-* Licensing & Regulation of Insolvency Practitioners Division 
+* Licensing &amp; Regulation of Insolvency Practitioners Division 
 
 <div class="image">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
@@ -101,7 +101,7 @@ Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm
 Closed on Weekends and Public Holidays<br>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" title="URA Workers Map" alt="URA Workers Map" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+<br>
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
@@ -117,6 +117,6 @@ For overseas callers, please use +65 62255 529
 Enquiry Line Operating Hours
 
 Monday to Friday: 8:30am to 5:00pm<br>
-(Closed on Weekends & Public Holidays)
+(Closed on Weekends &amp; Public Holidays)
 
 <p class="right-side-updated">Last updated on 01 Dec 2022</p>
