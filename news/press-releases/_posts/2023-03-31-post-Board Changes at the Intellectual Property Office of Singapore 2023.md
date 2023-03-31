@@ -9,50 +9,50 @@ image: ""
 31 March 2023 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law (MinLaw) today announced board appointment changes at the Intellectual Property Office of Singapore (IPOS). These appointments will take effect from 1 April 2023.
+1. The Ministry of Law (MinLaw) today announced board appointment changes at the Intellectual Property Office of Singapore (IPOS). These appointments will take effect from 1 April 2023.
 
 **Appointment of New Board Members**
 
 {:start="2"}
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MinLaw has appointed the following new members to the Board of IPOS.
+2. MinLaw has appointed the following new members to the Board of IPOS.
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Harsha Basnayake, Asia-Pacific Deputy Area Managing Partner, Ernst &amp; Young
+	· Mr Harsha Basnayake, Asia-Pacific Deputy Area Managing Partner, Ernst &amp; Young
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Oliver Tan, CEO and Co-Founder, Visenze Pte Ltd
+	· Mr Oliver Tan, CEO and Co-Founder, Visenze Pte Ltd
 
 **Reappointment of Chairman and Existing Members**
 
 {:start="3"}
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following individuals have been reappointed.
+3. The following individuals have been reappointed.
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Stanley Lai, Partner and Head of Intellectual Property Practice, Allen &amp; Gledhill LLP – as Chairman of the Board
+	· Mr Stanley Lai, Partner and Head of Intellectual Property Practice, Allen &amp; Gledhill LLP – as Chairman of the Board
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Nicky Tan, Chief Executive Officer, nTan Corporate Advisory Pte Ltd
+	· Mr Nicky Tan, Chief Executive Officer, nTan Corporate Advisory Pte Ltd
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Tan Pei-En, Divisional Director (Planning), Ministry of Education
+	· Mr Tan Pei-En, Divisional Director (Planning), Ministry of Education
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ted Tan, Enterprise Fellow, Enterprise Singapore
+	· Mr Ted Tan, Enterprise Fellow, Enterprise Singapore
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Calvin Phua, Deputy Secretary, Ministry of Law
+	· Mr Calvin Phua, Deputy Secretary, Ministry of Law
 
 **Out-going Board Members**
 
 {:start="4"}
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following members will be stepping down on 31 March 2023, upon the completion of their current term of office. MinLaw and IPOS would like to extend our appreciation to them for their dedication, contribution and service.
+4. The following members will be stepping down on 31 March 2023, upon the completion of their current term of office. MinLaw and IPOS would like to extend our appreciation to them for their dedication, contribution and service.
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ali Ijaz Ahmad, Co-Founder and Chief Executive Officer, Makara Capital Partners Pte Ltd
+	· Mr Ali Ijaz Ahmad, Co-Founder and Chief Executive Officer, Makara Capital Partners Pte Ltd
 
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Eric Teo, Adjunct Associate Professor, Nanyang Business School, Nanyang Technological University
+	· Mr Eric Teo, Adjunct Associate Professor, Nanyang Business School, Nanyang Technological University
 
 {:start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A brief write-up on the new members and the full list of IPOS board members are available in **Annex A** and **Annex B** respectively.
+5. A brief write-up on the new members and the full list of IPOS board members are available in **Annex A** and **Annex B** respectively.
 
 
 **MINISTRY OF LAW**
 <br>**31 MARCH 2023**
 
 
-**Annex A: New Board Members** &nbsp;
+**Annex A: New Board Members** 
 
 **Mr Harsha Basnayake**
 
