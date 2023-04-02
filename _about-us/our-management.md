@@ -42,17 +42,15 @@ Our Management
 ### **Senior Management**
 
 <div class="img-gallery">
-  <img src="/images/Mr_Loh_Khum_Yean.jpg" title="Mr Loh Khum Yean" alt="Mr Loh Khum Yean">
+  <img src="/images/ps luke goh.jpg" title="Mr Luke Goh" alt="Mr Luke Goh">
 </div>
-  <p><strong>Mr Loh Khum Yean</strong>
-  <br>Permanent Secretary,
-	<br>Public Service Division and Ministry of Law</p>
+  <p><strong>Mr Luke Goh</strong>
+  <br>Permanent Secretary</p>
 
 <div class="img-gallery">
     <img src="/images/Mr_Calvin_Phua.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
 </div>
   <p><strong>Mr Calvin Phua</strong>
-  <br>Deputy Secretary,
-	<br>Ministry of Law</p>
+  <br>Deputy Secretary</p>
 
-<p class="right-side-updated">Last updated on 13 Jun 2022</p>
+<p class="right-side-updated">Last updated on 3 Apr 2023</p>
