@@ -3,18 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-The following e-Services will be undergoing maintenance and will be inaccessible from 1 Apr 2023 2 p.m. to 2  Apr 2023 8 p.m:
 
-•	Legal Services Regulatory Authority
-
-•	Exemptions
-
-•	Community Mediation Centre
-
-•	Anti-Money Laundering / Countering the Financing of Terrorism
-
-
-We apologise for any inconvenience caused.
 
 
 **E-Services**
