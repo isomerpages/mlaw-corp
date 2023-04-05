@@ -16,12 +16,12 @@ We apologise for any inconvenience caused.
 We will be launching our new Corporate Insolvency E-Services on 24 April 2023.
 
 The new E-Services will have new features and members of the public will have access to guides to navigate the E-Services with ease. The new features include:
-•Online portal for Corporate Insolvency, Creditors and Private Liquidators to access Corporate Insolvency E-Services
-•Singpass login for easy access and secure user authentication
-•A cleaner, guided and more user-friendly user interface
-•Dashboard for consolidated views of submissions and statuses
-•Step-by-step indicator to show your progress in filling up the form
-•Draft application form to save your entry and continue later
+* Online portal for Corporate Insolvency, Creditors and Private Liquidators to access Corporate Insolvency E-Services
+* Singpass login for easy access and secure user authentication
+* A cleaner, guided and more user-friendly user interface
+* Dashboard for consolidated views of submissions and statuses
+* Step-by-step indicator to show your progress in filling up the form
+* Draft application form to save your entry and continue later
 
 The Corporate Insolvency E-Services will not be available from 19 April 2023 (Wednesday), 6.00 pm to 23 April 2023 (Sunday), 11.59 pm.
 
