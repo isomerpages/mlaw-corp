@@ -20,9 +20,9 @@ The Corporate Insolvency E-Services will not be available from **19 April 2023 (
 
 You need a valid Singpass or Corppass account to access the new E-Services. For foreigners, you are required to register for a Singpass.
 
-To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
+To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this application.**
 
-If you have saved any draft applications, you are required to complete and submit them before **19 April 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services.
+If you have saved any draft submissions, you are required to complete and submit them before **19 April 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services.
 
 Stay tuned for our new E-Services on **24 April 2023**.
 <hr>
