@@ -11,7 +11,7 @@ We apologise for any inconvenience caused.
 <hr>
 
 <div class="paragraphs">
-	**New Insolvency Office (IO) E-Services *(new!)***
+	New Insolvency Office (IO) E-Services *(new!)*
 </div>
 
 We will be launching our new Corporate Insolvency E-Services on **24 April 2023**.
