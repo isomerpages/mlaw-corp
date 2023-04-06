@@ -10,6 +10,23 @@ The Ministry of Law Services Centre opens from Monday to Friday, 8.30am to 5.00p
 We apologise for any inconvenience caused.
 <hr>
 
+**New Insolvency Office (IO) E-Services (new!)**
+
+We will be launching our new Corporate Insolvency E-Services on **24 April 2023**.
+
+The new E-Services will have new features and members of the public will have access to guides to navigate the E-Services with ease. 
+
+The Corporate Insolvency E-Services will not be available from **19 April 2023 (Wednesday), 6.00 pm to 23 April 2023 (Sunday), 11.59 pm**.
+
+You need a valid Singpass or Corppass account to access the new E-Services. For foreigners, you are required to register for a Singpass.
+
+To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
+
+If you have saved any draft applications, you are required to complete and submit them before **19 April 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services.
+
+Stay tuned for our new E-Services on **24 April 2023**.
+<hr>
+
 **E-Services**
   <br><br>
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
