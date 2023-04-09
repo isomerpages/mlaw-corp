@@ -3,11 +3,16 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-MinLaw's eServices will be undergoing scheduled maintenance from 8 Apr 2023, 10am to 9 Apr 2023, 11pm and will not be available during this period. 
+Our eServices - *my*Pal on Anti-Money Laundering / Countering The Financing Of Terrorism is temporarily unavailable. 
 
-The Ministry of Law Services Centre opens from Monday to Friday, 8.30am to 5.00pm. Alternatively, please contact MinLaw hotline @ 1800-2255 529 for assistance, or leave a voicemail outside of the operating hours, and we will get back to you as soon as we can.
+We are working to resolve the issue.
 
-We apologise for any inconvenience caused.
+For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
+
+Alternatively, you can call us at 1800-2255 529 for assistance, or leave a voicemail outside of our operating hours, and we will get back to you as soon as we can. Our operating hours are from Mondays to Fridays, 8.30 am to 5.00pm. 
+
+We apologise for any inconvenience caused and thank you for your patience.
+
 <hr>
 
 #### New Insolvency Office (IO) E-Services *(new!)*
