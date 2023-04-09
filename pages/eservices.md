@@ -3,17 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-Our eServices - *my*Pal on Anti-Money Laundering / Countering The Financing Of Terrorism is temporarily unavailable. 
 
-We are working to resolve the issue.
-
-For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
-
-Alternatively, you can call us at 1800-2255 529 for assistance, or leave a voicemail outside of our operating hours, and we will get back to you as soon as we can. Our operating hours are from Mondays to Fridays, 8.30 am to 5.00pm. 
-
-We apologise for any inconvenience caused and thank you for your patience.
-
-<hr>
 
 #### New Insolvency Office (IO) E-Services *(new!)*
 
