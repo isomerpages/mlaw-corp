@@ -85,12 +85,17 @@ You can send us your feedback and enquiries on the following issues:
 #07-11 The URA Centre (East Wing)<br>
 Singapore 069118
 
-**Counter Operating Hours:**
+**Counter Operating Hours**
 
 Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
-Closed on Weekends and Public Holidays<br>
+Closed on weekends and public holidays<br>
 
+**List of Community Centres with videoconferencing facilities with the Ministry of Law**<br>
+
+Appointments are available every Friday, 10am to 4.30pm via [LifeSG](https://go.gov.sg/mlawvc).<br>
+Hours may differ on eves of public holidays. Closed on public holidays. <br>
+Click [here](/files/minlaw%20community%20touchpoints.pdf) for more information.
 
 <br>
 
