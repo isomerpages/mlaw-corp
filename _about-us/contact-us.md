@@ -91,8 +91,10 @@ Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on Weekends and Public Holidays<br>
 
-** List of Community Centres with Videoconferencing facilities with the Ministry of Law**<br>
-Click [here]() for list
+**List of Community Centres with Videoconferencing facilities with the Ministry of Law**<br>
+Appointments are available every Friday, 10am to 4.30pm. <br>
+Hours may differ on eves of Public holidays. Closed on Public Holidays. <br>
+Click [here]() for more information.
 
 <br>
 
