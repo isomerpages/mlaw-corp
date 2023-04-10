@@ -95,7 +95,7 @@ Closed on weekends and public holidays<br>
 
 Appointments are available every Friday, 10am to 4.30pm via [LifeSG](https://go.gov.sg/mlawvc).<br>
 Hours may differ on eves of public holidays. Closed on public holidays. <br>
-Click [here]() for more information.
+Click [here](/files/minlaw%20community%20touchpoints.pdf) for more information.
 
 <br>
 
