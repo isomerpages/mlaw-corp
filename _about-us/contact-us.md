@@ -91,7 +91,7 @@ Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on weekends and public holidays<br>
 
-**List of Community Centres with Videoconferencing facilities with the Ministry of Law**<br>
+**List of Community Centres with videoconferencing facilities with the Ministry of Law**<br>
 
 Appointments are available every Friday, 10am to 4.30pm via [LifeSG](https://go.gov.sg/mlawvc).<br>
 Hours may differ on eves of public holidays. Closed on public holidays. <br>
