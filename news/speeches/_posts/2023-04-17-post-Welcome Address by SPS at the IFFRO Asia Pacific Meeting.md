@@ -1,6 +1,6 @@
 ---
-title: Welcome Address by SPS at the IFFRO Asia Pacific Meeting
-permalink: /news/speeches/sps-iffro-asia-pacific-meeting/
+title: Welcome Address By Ms Rahayu Mahzam, Senior Parliamentary Secretary, Ministry Of Health And Ministry Of Law At the International Federation of Reproduction Rights Organisations (IFRRO) Asia-Pacific Regional Meeting
+permalink: /news/speeches/sps-ifrro-asia-pacific-meeting/
 date: 2023-04-17
 layout: post
 description: ""
