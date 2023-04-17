@@ -6,10 +6,10 @@ breadcrumb: E-Services
 **Maintenance Notice**<br>
 The following eServices will be undergoing scheduled maintenance from 17 April 2023 (Monday) 5:00pm to 17 April 2023 (Monday) 9:00pm and will not be available during this period. 
 
-Insolvency Office
-Public Trustee's Office
-Registry of Moneylenders
-Registry of Pawnbroker
+Insolvency Office<br>
+Public Trustee's Office<br>
+Registry of Moneylenders<br>
+Registry of Pawnbroker<br>
 
 
 For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
