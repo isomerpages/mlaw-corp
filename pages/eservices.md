@@ -3,7 +3,22 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+**Maintenance Notice**<br>
+The following eServices will be undergoing scheduled maintenance from 17 April 2023 (Monday) 5:00pm to 17 April 2023 (Monday) 9:00pm and will not be available during this period. 
 
+Insolvency Office
+Public Trustee's Office
+Registry of Moneylenders
+Registry of Pawnbroker
+
+
+For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
+
+The Ministry of Law Services Centre opens from Monday to Friday, 8.30am to 5.00pm. Alternatively, please contact MinLaw hotline @ 1800-2255 529 for assistance, or leave a voicemail outside of the operating hours, and we will get back to you as soon as we can.
+
+We apologise for any inconvenience caused.
+
+<br>
 
 **E-Services**
   <br>
