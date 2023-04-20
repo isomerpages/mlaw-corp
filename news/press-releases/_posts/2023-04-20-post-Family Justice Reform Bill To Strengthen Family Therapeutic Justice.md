@@ -87,7 +87,7 @@ image: ""
 {:start="17"}
 17.	Please refer to the <u>Annex A</u> for a workflow of the MEP process.
 
-<b><i>Other enhancements to facilitate more sustainable maintenance outcomes</i></b>
+<b><i>B. Other enhancements to facilitate more sustainable maintenance outcomes</i></b>
 
 {:start="18"}
 18.	The other changes that will be introduced in the MEP to facilitate more sustainable maintenance outcomes include the following: 
