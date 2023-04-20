@@ -94,11 +94,11 @@ image: ""
 
 <p style="margin-left: 40px">a. To effectively deter respondents from continuing refusal to pay maintenance despite having the means to do so, the Bill provides that the court, where satisfied that the maintenance order has been breached, must:</p> 
 
-<p style="margin-left: 44px">i. Make a Show-Payment Order, which requires a respondent to prove that payment has been made by specified dates; and</p> 
+<p style="margin-left: 50px">i. Make a Show-Payment Order, which requires a respondent to prove that payment has been made by specified dates; and</p> 
 
-<p style="margin-left: 44px">ii. Specify a term of imprisonment that the respondent will be liable for if he or she fails to comply with the Show-Payment Order<sup><a href="#fn7" id="ref7">7</a></sup>. The court will not make an imprisonment order if there are special circumstances which would make imprisonment inappropriate, considering circumstances such as the respondent’s state of health or advanced age.</p> 
+<p style="margin-left: 50px">ii. Specify a term of imprisonment that the respondent will be liable for if he or she fails to comply with the Show-Payment Order<sup><a href="#fn7" id="ref7">7</a></sup>. The court will not make an imprisonment order if there are special circumstances which would make imprisonment inappropriate, considering circumstances such as the respondent’s state of health or advanced age.</p> 
 
-<p style="margin-left: 44px">iii. After conciliation, the parties may reach an agreement and the court may record a consent order based on the parties’ agreement. The Bill will empower the court to make additional orders such as a Show-Payment Order to deter the respondent from not complying with the consent order.</p>
+<p style="margin-left: 50px">iii. After conciliation, the parties may reach an agreement and the court may record a consent order based on the parties’ agreement. The Bill will empower the court to make additional orders such as a Show-Payment Order to deter the respondent from not complying with the consent order.</p>
 
 <p style="margin-left: 40px">b. For respondents who have genuine difficulties paying maintenance, the aim is to work towards more sustainable maintenance payments. Further, if certain conditions are met, the court hearing the enforcement proceedings may vary a maintenance order without parties having to make a formal application.</p> 
 
