@@ -1,5 +1,6 @@
 ---
-title: Singapore and Shanghai sign a MOU to deepen legal cooperation through exchange programmes for lawyers
+title: Singapore and Shanghai sign a MOU to deepen legal cooperation through
+  exchange programmes for lawyers
 permalink: /news/press-releases/2023-04-24-sg-shanghai-sign-mou-to-deepen-legal-cooperation/
 date: 2023-04-24
 layout: post
@@ -16,6 +17,7 @@ image: ""
 
 {:start="3"}
 3.	The MOU on Singapore-Shanghai Lawyers Exchange Programmes was signed by the following representatives in a virtual signing ceremony on 19 April 2023:
+
 · Ms Sharon Ong, Director-General (International &amp; Advisory), MinLaw;
 
 · Mr Wu Jianyong, Director-General, Shanghai Municipal Bureau of Justice;
