@@ -17,8 +17,8 @@ image: ""
 
 {:start="3"}
 3.	The MOU on Singapore-Shanghai Lawyers Exchange Programmes was signed by the following representatives in a virtual signing ceremony on 19 April 2023:
-<br>
-· Ms Sharon Ong, Director-General (International &amp; Advisory), MinLaw;
+
+<br>· Ms Sharon Ong, Director-General (International &amp; Advisory), MinLaw;
 
 · Mr Wu Jianyong, Director-General, Shanghai Municipal Bureau of Justice;
 
