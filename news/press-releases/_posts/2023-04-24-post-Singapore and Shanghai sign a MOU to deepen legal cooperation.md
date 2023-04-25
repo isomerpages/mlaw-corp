@@ -33,7 +33,7 @@ image: ""
 5.	Mr Wu said, “The signing of this MOU is an important move to deepen the cooperation and exchange in the area of legal services between Shanghai and Singapore. We hope that colleagues in the legal profession in Shanghai and Singapore will seize this opportunity to actively promote the mutual promotion of legal services, legal systems and rule of law experience in the two places.”
 
 **MINISTRY OF LAW**
-<br>**24 APRIL 2023**
+<br>**24 APRIL 20233**
 
 
 <p class="right-side-updated">Last updated on 24 April 2023</p>
