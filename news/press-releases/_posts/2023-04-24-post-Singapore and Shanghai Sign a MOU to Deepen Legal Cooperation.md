@@ -1,5 +1,6 @@
 ---
-title: Singapore and Shanghai Sign a MOU to Deepen Legal Cooperation through Exchange Programmes for Lawyers
+title: Singapore and Shanghai Sign a MOU to Deepen Legal Cooperation through
+  Exchange Programmes for Lawyers
 permalink: /news/press-releases/2023-04-24-sg-shanghai-sign-mou-to-deepen-legal-cooperation/
 date: 2023-04-24
 layout: post
