@@ -4,7 +4,7 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 **Maintenance Notice**<br>
-The following eServices will be undergoing scheduled maintenance from 27 April 2023 (Tuesday) 6:00pm to 10:00pm and will not be available during this period. 
+The following eServices will be undergoing scheduled maintenance from 27 April 2023 (Thursday) 6:00pm to 10:00pm and will not be available during this period. 
 
 Legal Services Authority<br>
 Exemptions(Singapore Bar/FPE)<br>
