@@ -4,20 +4,10 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 **Maintenance Notice**<br>
-The following eServices will be undergoing scheduled maintenance from 27 April 2023 (Thursday) 6:00pm to 10:00pm and will not be available during this period. 
+The following eServices will be undergoing scheduled maintenance from 30 April 2023 (Saturday) 4:00pm to 1 May 2023 2:00pm and will not be available during this period. 
 
-Legal Services Authority<br>
-Exemptions(Singapore Bar/FPE)<br>
-Community Mediation Centre<br>
-MinLaw Online Enquiries<br>
+Anti-Money Laundering / Countering The Financing Of Terrorism<br>
 
-
-The following eServices will be undergoing scheduled maintenance from 28 April 2023 (Friday) 6:00pm to 11:00pm and will not be available during this period. 
-
-Insolvency Office<br>
-Public Trustee's Office<br>
-Registry of Moneylenders<br>
-Registry of Pawnbroker<br>
 
 For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
 
