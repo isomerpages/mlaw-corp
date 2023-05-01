@@ -4,7 +4,7 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 **Maintenance Notice**<br>
-The following eServices will be undergoing scheduled maintenance from 30 April 2023 (Sunday) 4:00pm to 1 May 2023 (Monday) 2:00pm and will not be available during this period. 
+The following eServices will be undergoing scheduled maintenance from 30 April 2023 (Sunday) 4:00pm to 1 May 2023 (Monday) 8:00pm and will not be available during this period. 
 
 Anti-Money Laundering / Countering The Financing Of Terrorism<br>
 
