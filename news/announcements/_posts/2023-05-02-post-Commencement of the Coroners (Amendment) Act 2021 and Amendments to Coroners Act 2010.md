@@ -43,7 +43,7 @@ image: ""
 
 {:start="9"}
 9. The amended Act provides flexibility for Singapore to accede to such requests, if Singapore does not have a significant interest in having our own Coroner conduct investigations. If certain conditions (refer to the <u>Annex</u>) are met, the Minister for Law may exercise discretion to issue a certificate to exempt the death from certain provisions of the Coroners Act. The Minister will only exempt a death from the Coroners Act if it is in the public interest to do so.
-<br>
+
 <b><u>(III) Amendments to the Third Schedule of the Coroners Act</u></b>
 
 {:start="10"}
