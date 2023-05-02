@@ -1,5 +1,6 @@
 ---
-title: Commencement of the Coroners (Amendment) Act 2021 and Amendments to the Third Schedule of the Coroners Act 2010
+title: Commencement of the Coroners (Amendment) Act 2021 and Amendments to the
+  Third Schedule of the Coroners Act 2010
 permalink: /news/announcements/02-05-2023-commencement-coroners-amendment-act-and-amendments-to-third-schedule-coroners-act-2010/
 date: 2023-05-02
 layout: post
@@ -60,6 +61,6 @@ image: ""
 
 [Annex- Conditions Allowing the Minister for Law to Exempt a Reportable Death](/files/news/announcements/2023/annex%20–%20conditions%20allowing%20the%20minister%20for%20law%20to%20exempt%20a%20reportable%20death.pdf)
 
-<p><sup id="fn1">1. The Bill was introduced for First Reading in Parliament on 13 September 2021. It was passed by Parliament on 5 October 2021. The press release issued by the Ministry of Law during the First Reading is available [here](https://www.mlaw.gov.sg/news/press-releases/amendments-to-coroners-act-2021), and the Second Reading Speech by Second Minister For Law, Edwin Tong SC, is available [here](https://www.mlaw.gov.sg/news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill), for reference.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. The Bill was introduced for First Reading in Parliament on 13 September 2021. It was passed by Parliament on 5 October 2021. The press release issued by the Ministry of Law during the First Reading is available <a href="https://www.mlaw.gov.sg/news/press-releases/amendments-to-coroners-act-2021">here</a>, and the Second Reading Speech by Second Minister For Law, Edwin Tong SC, is available <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill">here</a>, for reference.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 2 May 2023</p>
