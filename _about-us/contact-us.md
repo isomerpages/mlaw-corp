@@ -7,7 +7,7 @@ breadcrumb: Contact Us
   .image {margin-bottom: 1em;}
 </style>
 
-The Ministry of Law Services Centre will close on Wednesday, 10 May 2023 from 12:00pm to 2:00pm for a staff event. The Crimsonlogic E-helpers and document submission services remain available. Our counter services will resume at 2:00pm.
+The Ministry of Law Services Centre will close on Wednesday, 10 May 2023 from 12:00pm to 2:00pm for a staff event. The Crimsonlogic E-helpers and document submission services remain available. Our counter services will resume at 2:00pm. <br>
 We apologise for any inconvenience caused. 
 
 FAQ
