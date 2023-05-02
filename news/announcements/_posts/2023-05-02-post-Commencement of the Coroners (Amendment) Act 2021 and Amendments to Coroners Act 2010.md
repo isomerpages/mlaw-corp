@@ -42,7 +42,8 @@ image: ""
 8. However, there may be circumstances where a foreign State requests that Singapore not conduct a post-mortem examination. For instance, they may wish to conduct their own post-mortem examination on their citizen or resident who happened to die in Singapore after sustaining an injury, contracting a disease, or suffering a condition outside Singapore.  
 
 {:start="9"}
-9. The amended Act provides flexibility for Singapore to accede to such requests, if Singapore does not have a significant interest in having our own Coroner conduct investigations. If certain conditions (refer to the <u>Annex</u>) are met, the Minister for Law may exercise discretion to issue a certificate to exempt the death from certain provisions of the Coroners Act. The Minister will only exempt a death from the Coroners Act if it is in the public interest to do so.  
+9. The amended Act provides flexibility for Singapore to accede to such requests, if Singapore does not have a significant interest in having our own Coroner conduct investigations. If certain conditions (refer to the <u>Annex</u>) are met, the Minister for Law may exercise discretion to issue a certificate to exempt the death from certain provisions of the Coroners Act. The Minister will only exempt a death from the Coroners Act if it is in the public interest to do so.
+<br>
 <b><u>(III) Amendments to the Third Schedule of the Coroners Act</u></b>
 
 {:start="10"}
