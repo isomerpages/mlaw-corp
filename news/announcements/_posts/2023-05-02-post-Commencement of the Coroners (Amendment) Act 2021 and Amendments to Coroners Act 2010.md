@@ -36,7 +36,7 @@ image: ""
 <b><u>(II) Flexibility to Exempt a Death from Certain Provisions of the Coroners Act</u></b>
 
 {:start="7"}
-7. Previously, the Coroner was required to conduct a post-mortem examination to determine the cause of death in certain circumstances, e.g. if there are no external signs of injury or disease.
+7. Previously, the Coroner was required to order a post-mortem examination to be conducted to determine the cause of death in certain circumstances, e.g. if there are no external signs of injury or disease.
 
 {:start="8"}
 8. However, there may be circumstances where a foreign State requests that Singapore not conduct a post-mortem examination. For instance, they may wish to conduct their own post-mortem examination on their citizen or resident who happened to die in Singapore after sustaining an injury, contracting a disease, or suffering a condition outside Singapore.  
