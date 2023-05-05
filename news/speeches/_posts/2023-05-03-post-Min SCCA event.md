@@ -1,5 +1,5 @@
 ---
-title: Min SCCA event
+title: Speech by Minister for Home Affairs and Law K Shanmugam, Singapore Corporate Counsel Association Asia Pacific Legal Congress 2023 
 permalink: /news/speeches/min-speech-scca-apac-2023/
 date: 2023-05-03
 layout: post
