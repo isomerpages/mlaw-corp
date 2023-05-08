@@ -1,5 +1,6 @@
 ---
-title: Oral Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the reasons for not pressing charges against Mr Liew Kai Lung Karl 
+title: Oral Answer by Minister for Law, Mr K Shanmugam, to Parliamentary
+  Question on the reasons for not pressing charges against Mr Liew Kai Lung Karl
 permalink: /news/parliamentary-speeches/min-shan-response-to-pq-on-karl-liew/
 date: 2023-05-08
 layout: post
@@ -32,8 +33,7 @@ To ask the Minister for Law (a) what are the reasons for not pressing charges ag
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was the AGC which decided to prefer charges against Mr Liew in the first place, and they carefully considered the facts. In assessing the charges to proceed on and to take into consideration in a plea of guilt, factors which are generally taken into account by the AGC include the strength of the Prosecution’s case, the accused person’s level of co-operation with the investigation authorities and any relevant personal mitigating circumstances.&nbsp;&nbsp;
 
 {:start="6"}
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;In Mr Liew’s case, the Prosecution considered these same general factors in deciding to accede to the representations made by  
-Mr Liew’s lawyers and accept the guilty plea by Mr Liew.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;In Mr Liew’s case, the Prosecution considered these same general factors in deciding to accede to the representations made by Mr Liew’s lawyers and accept the guilty plea by Mr Liew.
 
 
 <p class="right-side-updated">Last updated on 08 May 2023</p>
