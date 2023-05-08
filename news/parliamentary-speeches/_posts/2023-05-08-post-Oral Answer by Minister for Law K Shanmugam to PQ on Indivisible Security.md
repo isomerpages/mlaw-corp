@@ -50,20 +50,15 @@ d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Article 2(7)</
 
 {:start="7"}
 
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russia has invoked Indivisible Security as among the reasons for
-the invasion of Ukraine. And as I have said, Indivisible Security
-cannot give grounds for the Russian invasion.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russia has invoked Indivisible Security as among the reasons for the invasion of Ukraine. And as I have said, Indivisible Security cannot give grounds for the Russian invasion.
 
 {:start="8"}
 
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indivisible Security is not of the same status as self-determination,
-sovereignty, or territorial integrity and the non-recourse to the use
-of force.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indivisible Security is not of the same status as self-determination, sovereignty, or territorial integrity and the non-recourse to use of force.
 
 {:start="9"}
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indivisible Security is, I think, best characterised as a concept that
-is invoked in international relations.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indivisible Security is, I think, best characterised as a concept that is invoked in international relations.
 
 {:start="10"}
 
@@ -71,18 +66,14 @@ is invoked in international relations.
 
 {:start="11"}
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But that does not make it a principle of international law. And it is
-not set out in the UN Charter.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But that does not make it a principle of international law. And it is not set out in the UN Charter.
 
 {:start="12"}
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, in my speech, I shared diverse views on how the
-situation in Ukraine unfolded, and the roles of the West, NATO,
-and the Russian Federation.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, in my speech, I shared diverse views on how the situation in Ukraine unfolded, and the roles of the West, NATO, and the Russian Federation.
 
 {:start="13"}
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The result is that Ukraine is the unfortunate victim, and its people
-are paying a terrible price.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The result is that Ukraine is the unfortunate victim, and its people are paying a terrible price.
 
 <p class="right-side-updated">Last updated on 08 May 2023</p>
