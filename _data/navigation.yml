@@ -80,17 +80,3 @@ links:
       - title: Anti-Money Laundering / Countering The Financing Of Terrorism
         url: https://acd.mlaw.gov.sg/
         external: true
-  - title: Join Us
-    false_collection: true
-    url: /join-us/why-join-minlaw/
-    sublinks:
-      - title: Why Join MinLaw
-        url: /join-us/why-join-minlaw/
-      - title: Career Opportunities
-        url: /join-us/career-opportunities/
-      - title: Meet Our Colleagues
-        url: /join-us/meet-our-colleagues/
-      - title: MinLaw Internship Programme
-        url: /join-us/minlaw-internship/
-      - title: Meet Our Interns
-        url: /join-us/meet-our-interns/
