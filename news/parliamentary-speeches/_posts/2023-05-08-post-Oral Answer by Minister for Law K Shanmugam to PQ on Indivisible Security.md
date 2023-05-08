@@ -32,40 +32,40 @@ To ask the Minister for Law whether he can elaborate on the concept of “indivi
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="5"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="6"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="7"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="8"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="9"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="10"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="11"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="12"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
-{:start="2"}
+{:start="13"}
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-determination, sovereignty and territorial integrity, as well as the non-recourse to the use of force are fundamental principles of international law.
 
 <p class="right-side-updated">Last updated on 08 May 2023</p>
