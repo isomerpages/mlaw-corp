@@ -27,6 +27,6 @@ image: ""
 
 &nbsp;* * *
 
-<p><sup id="fn1">1. Please refer to “Victim Impact Statement Adduced by Prosecution to Address Sentencing Court in Sexual Offences Cases in Past Five Years and Plans to Review Criminal Sentencing for Sexual Offences”, Official Report, 4 January 2021, Vol 95, Written Answers to Questions section.<a href="#ref1" title="Jump back to footnote 1 in the text."></a></sup></p>
+<p><sup id="fn1">1. Please refer to “Victim Impact Statement Adduced by Prosecution to Address Sentencing Court in Sexual Offences Cases in Past Five Years and Plans to Review Criminal Sentencing for Sexual Offences”, Official Report, 4 January 2021, Vol 95, Written Answers to Questions section.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 08 May 2023</p>
