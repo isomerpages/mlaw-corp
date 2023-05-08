@@ -23,7 +23,7 @@ image: ""
     
 {:start="5"}
 5.  The amendments will:
-    
+
 (a) Strengthen protection for children and other vulnerable parties, including victims of family violence;
     
 (b) Make family proceedings simpler and more efficient, thereby enhancing access to justice for all court users of the FJC;
