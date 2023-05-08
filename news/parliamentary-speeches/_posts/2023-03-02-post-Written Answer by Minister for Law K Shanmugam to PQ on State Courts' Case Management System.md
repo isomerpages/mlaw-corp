@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Cause of Hardware Failure Leading to Breakdown of State Courts' Online Case Management System
+title: Written Answer by Minister for Law K Shanmugam to PQ on Cause of Hardware
+  Failure Leading to Breakdown of State Courts' Online Case Management System
 permalink: /news/parliamentary-speeches/written-pq-data-on-state-courts-case-management-system/
 date: 2023-03-02
 layout: post
@@ -8,7 +9,7 @@ image: ""
 ---
 02 Mar 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-**Zhulkarnain Abdul Rahim (Member of Parliament for Chua Chu Kang)**
+**Mr Zhulkarnain Abdul Rahim (Member of Parliament for Chua Chu Kang)**
 
 **<b><u>Question</u></b>** 
 <br>To ask the Minister for Law what is the cause behind the hardware failure which led to the breakdown of the State Courts' online case management system for more than two days and what are the steps taken to ensure that such issues do not recur again.
