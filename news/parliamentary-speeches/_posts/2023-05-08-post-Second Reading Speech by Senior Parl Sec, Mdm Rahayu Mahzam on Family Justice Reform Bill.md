@@ -174,8 +174,7 @@ image: ""
 {:start="33"}
 33.  I will explain each provision in turn.
     
- 
-**New section 11B of the Family Justice Act - The Court may make orders of a substantive nature on its own motion**
+ **New section 11B of the Family Justice Act - The Court may make orders of a substantive nature on its own motion**
     
 {:start="34"}
 34.  For the first key provision, the RERF Committee recommended that the court be expressly empowered to make substantive orders on its own motion.
