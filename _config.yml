@@ -1,6 +1,6 @@
-title: 'Ministry of Law'
+title: Ministry of Law
 description: Description
-url: 'https://www.mlaw.gov.sg'
+url: https://www.mlaw.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
@@ -29,16 +29,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#a40935'
-  secondary-color: '#a40935'
+  primary-color: "#a40935"
+  secondary-color: "#a40935"
   media-colors:
     - title: media-color-one
-      color: '#696969'
+      color: "#696969"
     - title: media-color-two
-      color: '#800000'
+      color: "#800000"
     - title: media-color-three
-      color: '#A0522D'
+      color: "#A0522D"
     - title: media-color-four
-      color: '#866633'
+      color: "#866633"
     - title: media-color-five
-      color: '#505050'
+      color: "#505050"
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
