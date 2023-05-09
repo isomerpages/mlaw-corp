@@ -20,8 +20,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://staging-isomer-mlaw.netlify.app
-prod: https://prod-isomer-mlaw.netlify.app
+staging: https://staging.d3txmprwlgxy68.amplifyapp.com/
+prod: https://master.d3txmprwlgxy68.amplifyapp.com
 plugins:
   - jekyll-feed
   - jekyll-assets
