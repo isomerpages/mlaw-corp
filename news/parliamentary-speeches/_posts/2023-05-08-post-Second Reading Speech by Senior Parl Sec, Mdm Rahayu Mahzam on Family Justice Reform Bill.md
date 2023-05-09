@@ -141,7 +141,7 @@ image: ""
 (b) As the Mother exhibited physical and emotionally abusive behaviour, the Court granted protection orders against the Mother after the divorce, in favour of the Father and the two children;
  
 (c) After the protection orders were granted, over a period of 3 years, the Mother filed close to 15 applications in Court against Ms C, her father and her sibling. This includes more than 5 applications to revoke the protection orders granted in favour of Ms C, her father and her sibling. In the case of the protection order obtained by Ms C, the Mother’s applications to revoke the protection order were dismissed.
- 
+
 {:start="26"}
 26.  Ms C conveyed that each of the applications filed has taken a huge emotional toll on her family. With each application filed by her Mother, they ended up having to take time off work to spend time on court proceedings, and be subject to the mental stress of facing the Mother for an extended period of time.
     
