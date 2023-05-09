@@ -3,6 +3,7 @@ title: Legal Aid Bureau
 permalink: /about-us/what-we-do/legal-aid-bureau/
 breadcrumb: Legal Aid Bureau
 third_nav_title: What We Do
+description: ""
 ---
 <style> 
  .image {width: 600px;} 

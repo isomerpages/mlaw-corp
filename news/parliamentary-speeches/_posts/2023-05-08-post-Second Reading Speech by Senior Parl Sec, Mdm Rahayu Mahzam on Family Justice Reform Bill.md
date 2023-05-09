@@ -11,7 +11,8 @@ image: ""
  
 **INTRODUCTION**    
  
-{:start="1"} 1.  We have come a long way in bringing this vision of the family justice system informed by the principles of Therapeutic Justice to life, but the task of ensuring that our family justice system meets the needs of families is a continuing one.
+{:start="1"}
+1.  We have come a long way in bringing this vision of the family justice system informed by the principles of Therapeutic Justice to life, but the task of ensuring that our family justice system meets the needs of families is a continuing one.
  
 {:start="2"}
 2.  This Bill represents another step forward in this journey.
