@@ -11,8 +11,7 @@ image: ""
  
 **INTRODUCTION**    
  
-{:start="1"} 
-1.  We have come a long way in bringing this vision of the family justice system informed by the principles of Therapeutic Justice to life, but the task of ensuring that our family justice system meets the needs of families is a continuing one.
+{:start="1"} 1.  We have come a long way in bringing this vision of the family justice system informed by the principles of Therapeutic Justice to life, but the task of ensuring that our family justice system meets the needs of families is a continuing one.
  
 {:start="2"}
 2.  This Bill represents another step forward in this journey.
@@ -144,6 +143,8 @@ image: ""
 
 {:start="26"}
 26.  Ms C conveyed that each of the applications filed has taken a huge emotional toll on her family. With each application filed by her Mother, they ended up having to take time off work to spend time on court proceedings, and be subject to the mental stress of facing the Mother for an extended period of time. <br>
+
+{:start="27"}
 27.  Applying the new Section 11A to Ms C’s situation, the court will be empowered to make an order prohibiting the Mother from filing any further applications to revoke the protection orders in favour of Ms C, her father and her sibling without the court’s permission, if the court is satisfied that the filing of any application to revoke the protection orders will be without merit, having regard to the Mother’s conduct in past proceedings including the Mother’s series of unmeritorious applications to revoke the protection orders in the past.
 
 {:start="28"}
