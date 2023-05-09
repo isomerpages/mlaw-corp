@@ -6,7 +6,7 @@ safe: false
 future: true
 paginate: 12
 custom_css_path: /misc/custom.css
-facebook-pixel: 2270612979901608
+facebook-pixel: "2270612979901608"
 google-tag-manager: GTM-WBM6PL5
 include:
   - _redirects
