@@ -46,5 +46,4 @@ sections:
       button: More Resources
       url: /news/
 description: Description
-image: /images/isomer-logo.svg
 ---
