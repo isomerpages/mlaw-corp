@@ -143,7 +143,7 @@ image: ""
 (c) After the protection orders were granted, over a period of 3 years, the Mother filed close to 15 applications in Court against Ms C, her father and her sibling. This includes more than 5 applications to revoke the protection orders granted in favour of Ms C, her father and her sibling. In the case of the protection order obtained by Ms C, the Mother’s applications to revoke the protection order were dismissed.
  
 {:start="26"}
-26. Ms C conveyed that each of the applications filed has taken a huge emotional toll on her family. With each application filed by her Mother, they ended up having to take time off work to spend time on court proceedings, and be subject to the mental stress of facing the Mother for an extended period of time.
+26.  Ms C conveyed that each of the applications filed has taken a huge emotional toll on her family. With each application filed by her Mother, they ended up having to take time off work to spend time on court proceedings, and be subject to the mental stress of facing the Mother for an extended period of time.
     
 {:start="27}
 27.  Applying the new Section 11A to Ms C’s situation, the court will be empowered to make an order prohibiting the Mother from filing any further applications to revoke the protection orders in favour of Ms C, her father and her sibling without the court’s permission, if the court is satisfied that the filing of any application to revoke the protection orders will be without merit, having regard to the Mother’s conduct in past proceedings including the Mother’s series of unmeritorious applications to revoke the protection orders in the past.
@@ -180,10 +180,10 @@ image: ""
 {:start="34"}
 34.  For the first key provision, the RERF Committee recommended that the court be expressly empowered to make substantive orders on its own motion.
     
-{:start=35"}
+{:start="35"}
 35.  The new section 11B of the Family Justice Act will implement the Committee’s recommendation.
     
-{:start=36"}
+{:start="36"}
 36.  Family proceedings often involve litigants-in-person, or self-represented parties. They may not be aware of the variety of orders or directions available, or which ones are needed to address their particular issues, or which may be made to safeguard the interests and well-being of their children.
     
 {:start="37"}
