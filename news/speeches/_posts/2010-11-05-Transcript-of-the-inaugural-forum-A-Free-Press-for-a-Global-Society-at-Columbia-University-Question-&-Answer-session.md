@@ -1,6 +1,6 @@
 ---
 title: 'Transcript of the inaugural forum, “A Free Press for a Global Society” at Columbia University - Question & Answer session'
-permalink: /news/speeches/transcript-of-the-inaugural-forum-a-free-press-for-a-global-society-at-columbia-university
+permalink: /news/speeches/transcript-of-the-inaugural-forum-a-free-press-for-a-global-society-at-columbia-university/
 breadcrumb: Speeches
 
 ---

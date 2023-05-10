@@ -1,6 +1,6 @@
 ---
 title: 'Singapore Ministry of Law and International Chamber of Commerce sign MOU to boost arbitration'
-permalink: /news/press-releases/singapore-ministry-of-law-and-international-chamber-of-commerce-
+permalink: /news/press-releases/singapore-ministry-of-law-and-international-chamber-of-commerce-/
 breadcrumb: 'Press Releases'
 
 ---

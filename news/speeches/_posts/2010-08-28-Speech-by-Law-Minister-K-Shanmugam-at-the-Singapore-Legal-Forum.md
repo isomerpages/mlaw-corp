@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Singapore Legal Forum'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-legal-forum
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-legal-forum/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Response by the Ministry of Law to Voice of America'
 date: 2020-05-05T00:00:00.000Z
-permalink: /news/replies/Ministry-of-Law-Response-to-Voice-of-America
+permalink: /news/replies/ministry-of-law-response-to-voice-of-america/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Public consultation on Proposed Amendments to the Evidence Act'
-permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-evidence-act
+permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-evidence-act/
 breadcrumb: 'Press Releases'
 
 ---

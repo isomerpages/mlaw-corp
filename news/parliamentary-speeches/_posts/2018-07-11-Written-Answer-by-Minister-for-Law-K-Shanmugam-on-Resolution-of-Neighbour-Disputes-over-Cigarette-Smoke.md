@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, on Resolution of Neighbour Disputes over Cigarette Smoke'
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Resolution-of-Neighbour-Disputes-over-Cigarette-Smoke
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-on-resolution-of-neighbour-disputes-over-cigarette-smoke/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

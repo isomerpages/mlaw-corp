@@ -4,7 +4,7 @@ title:  Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the 
 date:   2020-10-05
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the International Arbitration (Amendment) Bill'
 date: 2020-10-05
-permalink: /news/parliamentary-speeches/2020-10-05-Second-Reading-Speech-by-2M-Edwin-Tong-on-International-Arbitration-Amendment-Bill
+permalink: /news/parliamentary-speeches/2020-10-05-second-reading-speech-by-2m-edwin-tong-on-international-arbitration-amendment-bill/
 
 ---
 

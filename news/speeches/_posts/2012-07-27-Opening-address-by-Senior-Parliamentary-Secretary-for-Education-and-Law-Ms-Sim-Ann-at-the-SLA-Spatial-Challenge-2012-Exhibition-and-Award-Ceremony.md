@@ -1,6 +1,6 @@
 ---
 title: 'Opening address by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the SLA Spatial Challenge 2012 Exhibition and Award Ceremony'
-permalink: /news/speeches/opening-address-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-sla
+permalink: /news/speeches/opening-address-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-sla/
 breadcrumb: Speeches
 
 ---

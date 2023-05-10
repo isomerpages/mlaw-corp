@@ -2,7 +2,7 @@
 layout: post
 title: Extension to Temporary Relief Measures for Property Sector due to Coronavirus Disease 2019 (COVID-19) Pandemic
 date: 2021-06-28
-permalink: /news/press-releases/2021-06-28-Extension-to-Temporary-Relief-Measures-Property-Sector-due-to-COVID19 
+permalink: /news/press-releases/2021-06-28-extension-to-temporary-relief-measures-property-sector-due-to-covid19/ 
 ---
 
 28 Jun 2021 Posted in [Press releases](/news/press-releases)

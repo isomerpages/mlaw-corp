@@ -1,7 +1,7 @@
 ---
 title: 'Note on Rental Relief Framework'
 date: 2020-07-07T00:00:00.000Z
-permalink: /news/others/Note-on-Rental-Relief-Framework
+permalink: /news/others/note-on-rental-relief-framework/
 
 ---
 

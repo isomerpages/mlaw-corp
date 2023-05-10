@@ -2,7 +2,7 @@
 layout: post
 title:  Nine Qualifying Foreign Law Practice Licences Renewed
 date: 2020-12-29
-permalink: /news/press-releases/2020-12-28-Nine-Qualifying-Foreign-Law-Practice-Licences-Renewed
+permalink: /news/press-releases/2020-12-28-nine-qualifying-foreign-law-practice-licences-renewed/
 ---
 
 29 Dec 2020 Posted in [Press releases](/news/press-releases)

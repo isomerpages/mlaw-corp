@@ -1,7 +1,7 @@
 ---
 title: 'Guidelines to PMFT Rules'
 date: 2007-11-05T00:00:00.000Z
-permalink: /news/announcements/guidelines-to-pmft-rules
+permalink: /news/announcements/guidelines-to-pmft-rules/
 
 ---
 

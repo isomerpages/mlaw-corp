@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at SCMA Webinar - Hybrid Dispute Resolution Mechanisms as the Wave of the Future: Perspectives from Singapore as a Maritime Hub'
 date: 2021-09-09
-permalink: /news/speeches/2021-09-09-Speech-by-Edwin-Tong-at-SCMA-webinar
+permalink: /news/speeches/2021-09-09-speech-by-edwin-tong-at-scma-webinar/
 ---
 
 9 Sep 2021 Posted in [[Speeches](/news/speeches)]

@@ -2,7 +2,7 @@
 layout: post
 title:  Commencement of the Rental Waiver Framework
 date: 2021-10-05
-permalink: /news/press-releases/Commencement-of-the-Rental-Waiver-Framework
+permalink: /news/press-releases/commencement-of-the-rental-waiver-framework/
 ---
 
 05 Oct 2021 Posted in [Press releases](/news/press-releases)

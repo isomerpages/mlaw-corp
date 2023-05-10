@@ -1,6 +1,6 @@
 ---
 title: 'Singapore, Japan Holds First High-Level Joint Legal Conference'
-permalink: /news/press-releases/singapore--japan-holds-first-high-level-joint-legal-conference
+permalink: /news/press-releases/singapore--japan-holds-first-high-level-joint-legal-conference/
 breadcrumb: 'Press Releases'
 
 ---

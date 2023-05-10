@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Prosecution Action Taken Against Non-Compliance With Assessors'Directions Under COVID-19 Temporary Measures Act
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Prosecution-Action-Taken-Against-Non-Compliance-With-Assessors-Directions-Under-COVID19-Temporary-Measures-Act
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-prosecution-action-taken-against-non-compliance-with-assessors-directions-under-covid19-temporary-measures-act/
 ---
 
 01 Feb 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

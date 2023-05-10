@@ -1,6 +1,6 @@
 ---
 title: 'Response to IBA Human Rights Institute''s Report'
-permalink: /news/press-releases/response-to-iba-human-rights-institute-s-report
+permalink: /news/press-releases/response-to-iba-human-rights-institute-s-report/
 breadcrumb: 'Press Releases'
 
 ---

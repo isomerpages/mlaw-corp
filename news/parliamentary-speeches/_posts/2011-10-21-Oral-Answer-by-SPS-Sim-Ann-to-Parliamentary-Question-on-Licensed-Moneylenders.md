@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by SPS Sim Ann to Parliamentary Question on Licensed Moneylenders'
 date: 2011-10-21T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-licensed-moneylenders
+permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-licensed-moneylenders/
 
 ---
 

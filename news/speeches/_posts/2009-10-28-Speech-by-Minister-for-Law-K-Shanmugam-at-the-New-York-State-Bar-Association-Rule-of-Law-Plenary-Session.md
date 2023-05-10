@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law K Shanmugam at the New York State Bar Association Rule of Law Plenary Session'
-permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-new-york-state-bar-association-rule-of-law-plenary
+permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-new-york-state-bar-association-rule-of-law-plenary/
 breadcrumb: Speeches
 
 ---

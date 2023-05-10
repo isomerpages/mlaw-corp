@@ -1,6 +1,6 @@
 ---
 title: 'New Study Award to Help Defray Fees for UniSIM School of Law Students'
-permalink: /news/press-releases/new-study-award-to-help-defray-fees-for-unisim-school-of-law-stu
+permalink: /news/press-releases/new-study-award-to-help-defray-fees-for-unisim-school-of-law-stu/
 breadcrumb: 'Press Releases'
 
 ---

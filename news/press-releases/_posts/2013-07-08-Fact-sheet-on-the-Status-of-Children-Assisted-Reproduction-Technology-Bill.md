@@ -1,6 +1,6 @@
 ---
 title: 'Fact sheet on the Status of Children (Assisted Reproduction Technology) Bill'
-permalink: /news/press-releases/fact-sheet-soc-bill-2013
+permalink: /news/press-releases/fact-sheet-soc-bill-2013/
 breadcrumb: 'Press Releases'
 
 ---

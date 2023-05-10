@@ -1,6 +1,6 @@
 ---
 title: 'Strengthening Access to Justice through the Legal Aid and Advice (Amendment) Bill'
-permalink: /news/press-releases/Strengthening-Access-to-Justice-through-the-Legal-Aid-and-Advice-Amendment-Bill
+permalink: /news/press-releases/strengthening-access-to-justice-through-the-legal-aid-and-advice-amendment-bill/
 breadcrumb: 'Press Releases'
 
 ---

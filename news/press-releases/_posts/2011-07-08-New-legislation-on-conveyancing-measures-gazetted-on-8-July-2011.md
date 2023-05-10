@@ -1,6 +1,6 @@
 ---
 title: 'New legislation on conveyancing measures gazetted on 8 July 2011'
-permalink: /news/press-releases/new-legislation-on-conveyancing-measures-gazetted-on-8-july-2011
+permalink: /news/press-releases/new-legislation-on-conveyancing-measures-gazetted-on-8-july-2011/
 breadcrumb: 'Press Releases'
 
 ---

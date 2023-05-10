@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah SC, to Parliamentary Question on the Family Justice Committee''s Reforms'
-permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--ms-indranee-raj
+permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law--ms-indranee-raj/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

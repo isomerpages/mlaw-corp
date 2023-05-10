@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on victim compensation orders granted under section 359 of the Criminal Procedure Code'
 date: 2016-07-11T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-min-cpc
+permalink: /news/parliamentary-speeches/written-answer-by-min-cpc/
 
 ---
 

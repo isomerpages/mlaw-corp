@@ -1,6 +1,6 @@
 ---
 title: 'Errant licensed moneylender convicted and sentenced - Ng Gim Li (JXM Investment Pte Ltd) - Press release'
-permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-ng-gim-li-jxm-investment-pte-ltd-press
+permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-ng-gim-li-jxm-investment-pte-ltd-press/
 breadcrumb: 'Press Releases'
 
 ---

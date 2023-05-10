@@ -1,7 +1,7 @@
 ---
 title: '46 States Signed New International Treaty on Mediation'
 date: 2019-08-07T00:00:00.000Z
-permalink: /news/press-releases/46-States-Signed-New-International-Treaty-on-Mediation
+permalink: /news/press-releases/46-states-signed-new-international-treaty-on-mediation/
 
 ---
 

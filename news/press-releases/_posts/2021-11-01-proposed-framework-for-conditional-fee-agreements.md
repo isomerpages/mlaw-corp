@@ -2,7 +2,7 @@
 layout: post
 title:  Proposed Framework for Conditional Fee Agreements
 date: 2021-11-01
-permalink: /news/press-releases/2021-11-01-proposed-framework-for-conditional-fee-agreements
+permalink: /news/press-releases/2021-11-01-proposed-framework-for-conditional-fee-agreements/
 ---
 
 01 Nov 2021 Posted in [Press releases](/news/press-releases)

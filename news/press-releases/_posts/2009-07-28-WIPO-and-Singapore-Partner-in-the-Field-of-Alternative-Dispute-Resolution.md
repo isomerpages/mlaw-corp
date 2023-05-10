@@ -1,6 +1,6 @@
 ---
 title: 'WIPO and Singapore Partner in the Field of Alternative Dispute Resolution'
-permalink: /news/press-releases/wipo-and-singapore-partner-in-the-field-of-alternative-dispute-resolution
+permalink: /news/press-releases/wipo-and-singapore-partner-in-the-field-of-alternative-dispute-resolution/
 breadcrumb: 'Press Releases'
 
 ---

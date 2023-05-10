@@ -1,6 +1,6 @@
 ---
 title: 'Appointment of new Chief Executive, Intellectual Property Office of Singapore'
-permalink: /news/press-releases/new-ipos-chief-executive
+permalink: /news/press-releases/new-ipos-chief-executive/
 breadcrumb: 'Press Releases'
 
 ---

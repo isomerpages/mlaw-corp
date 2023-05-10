@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at the Launch of Law Awareness Weeks (LAW)@CDC 2021'
 date: 2021-09-25
-permalink: /news/speeches/2021-09-25-Speech-by-Edwin-Tong-at-Launch-of-LAW-CDC-2021
+permalink: /news/speeches/2021-09-25-speech-by-edwin-tong-at-launch-of-law-cdc-2021/
 ---
 
 25 Sep 2021 Posted in [[Speeches](/news/speeches)]

@@ -1,6 +1,6 @@
 ---
 title: 'Six Firms to Pilot New Business Models for Moneylending'
-permalink: /news/press-releases/six-firms-to-pilot-new-business-models-for-moneylending
+permalink: /news/press-releases/six-firms-to-pilot-new-business-models-for-moneylending/
 breadcrumb: 'Press Releases'
 
 ---

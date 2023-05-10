@@ -1,7 +1,7 @@
 ---
 title: 'GUEST-OF-HONOUR SPEECH BY MR EDWIN TONG SC MINISTER FOR CULTURE, COMMUNITY AND YOUTH, AND SECOND MINISTER FOR LAW AT IP WEEK @ SG 2021'
 date: 2021-08-24
-permalink: /news/speeches/2021-08-24-Speech-by-Mr-Edwin-Tong-at-IP-week-2021
+permalink: /news/speeches/2021-08-24-speech-by-mr-edwin-tong-at-ip-week-2021/
 ---
 
 

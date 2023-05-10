@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Calvin Phua, Deputy Secretary, Singapore Ministry of Law, at the International Commercial & Legal Cooperation Forum in Changsha, China'
 date: 2019-11-27T00:00:00.000Z
-permalink: /news/speeches/Speech-by-Mr-Calvin-Phua-Deputy-Secretary-Ministry-of-Law-at-the-ICLP-Forum-2019
+permalink: /news/speeches/speech-by-mr-calvin-phua-deputy-secretary-ministry-of-law-at-the-iclp-forum-2019/
 
 ---
 

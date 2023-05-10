@@ -1,6 +1,6 @@
 ---
 title: 'Address by Minister for Law & Second Minister for Home Affairs K Shanmugam on the role of Muslim NGOs in Asia and the Pacific Region'
-permalink: /news/speeches/address-by-minister-for-law-second-minister-for-home-affairs-k-shanmugam-on-the-role-of-muslim
+permalink: /news/speeches/address-by-minister-for-law-second-minister-for-home-affairs-k-shanmugam-on-the-role-of-muslim/
 breadcrumb: Speeches
 
 ---

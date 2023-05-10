@@ -1,7 +1,7 @@
 ---
 title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Questions on licensed moneylenders'
 date: 2014-01-20T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-licensed-moneylenders
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-licensed-moneylenders/
 
 ---
 

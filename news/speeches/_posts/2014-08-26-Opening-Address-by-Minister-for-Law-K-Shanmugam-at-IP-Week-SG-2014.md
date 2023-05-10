@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Minister for Law, K Shanmugam, at IP Week @ SG 2014'
-permalink: /news/speeches/opening-address-by-min-for-ipweek-2014
+permalink: /news/speeches/opening-address-by-min-for-ipweek-2014/
 breadcrumb: Speeches
 
 ---

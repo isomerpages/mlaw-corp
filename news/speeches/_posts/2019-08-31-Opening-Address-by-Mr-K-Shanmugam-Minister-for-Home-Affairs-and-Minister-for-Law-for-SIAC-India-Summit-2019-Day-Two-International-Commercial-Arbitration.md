@@ -1,7 +1,7 @@
 ---
 title: 'Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, for SIAC India Summit 2019 Day Two: International Commercial Arbitration'
 date: 2019-08-31T00:00:00.000Z
-permalink: /news/speeches/Opening-Address-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Minister-for-Law-for-SIAC-Investment-Arbitration-Conference-Day-2
+permalink: /news/speeches/opening-address-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law-for-siac-investment-arbitration-conference-day-2/
 
 ---
 

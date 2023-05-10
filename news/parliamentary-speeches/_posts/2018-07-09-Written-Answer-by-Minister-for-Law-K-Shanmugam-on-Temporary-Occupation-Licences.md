@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, on Temporary Occupation Licences'
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Temporary-Occupation-Licences
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-on-temporary-occupation-licences/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

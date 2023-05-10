@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on Proposed Draft Subsidiary Legislation Under Section 440 of the Insolvency, Restructuring and Dissolution Act'
 date: 2020-03-23T00:00:00.000Z
-permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Insolvency-Restructuring-Dissolution-Act
+permalink: /news/public-consultations/public-consultation-on-section-440-of-insolvency-restructuring-dissolution-act/
 
 ---
 

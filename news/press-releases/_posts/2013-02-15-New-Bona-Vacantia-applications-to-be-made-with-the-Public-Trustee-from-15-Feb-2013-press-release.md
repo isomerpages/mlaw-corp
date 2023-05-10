@@ -1,6 +1,6 @@
 ---
 title: 'New Bona Vacantia applications to be made with the Public Trustee from 15 Feb 2013 - Press release'
-permalink: /news/press-releases/new-bona-vacantia-applications-to-be-made-with-the-public-truste
+permalink: /news/press-releases/new-bona-vacantia-applications-to-be-made-with-the-public-truste/
 breadcrumb: 'Press Releases'
 
 ---

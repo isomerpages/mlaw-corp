@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the 4th Annual Event of the Attorney-General''s Chamber of Brunei Darussalam, Malaysia and Singapore'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-4th-annual-event-of-the-attorney-general-s-chamber-of
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-4th-annual-event-of-the-attorney-general-s-chamber-of/
 breadcrumb: Speeches
 
 ---

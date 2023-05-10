@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debate 2018'
-permalink: /news/parliamentary-speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--duri1
+permalink: /news/parliamentary-speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--duri1/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

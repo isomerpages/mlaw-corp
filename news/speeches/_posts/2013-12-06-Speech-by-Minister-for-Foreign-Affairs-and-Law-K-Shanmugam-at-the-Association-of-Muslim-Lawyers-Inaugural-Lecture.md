@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, K Shanmugam, at the Association of Muslim Lawyers’ Inaugural Lecture'
-permalink: /news/speeches/speech-by-min-at-aml-lecture
+permalink: /news/speeches/speech-by-min-at-aml-lecture/
 breadcrumb: Speeches
 
 ---

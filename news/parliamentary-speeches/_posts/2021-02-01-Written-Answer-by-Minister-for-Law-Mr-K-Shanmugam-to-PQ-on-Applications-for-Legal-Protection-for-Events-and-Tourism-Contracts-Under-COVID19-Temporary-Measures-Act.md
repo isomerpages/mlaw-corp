@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Applications for Legal Protection for Events and Tourism Contracts Under COVID-19 Temporary Measures Act
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Applications-for-Legal-Protection-for-Events-and-Tourism-Contracts-Under-COVID19-Temporary-Measures-Act
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-applications-for-legal-protection-for-events-and-tourism-contracts-under-covid19-temporary-measures-act/
 
 ---
 

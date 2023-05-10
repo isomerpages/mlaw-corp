@@ -1,7 +1,7 @@
 ---
 title: 'SPEECH BY MINISTER FOR CULTURE, COMMUNITY & YOUTH, AND SECOND MINISTER FOR LAW EDWIN TONG SC AT THE SINGAPORE INSOLVENCY CONFERENCE 2021'
 date: 2021-10-13
-permalink: /news/speeches/2021-10-13-Speech-by-Edwin-Tong-Singapore-Insolvency-Conference-2021
+permalink: /news/speeches/2021-10-13-speech-by-edwin-tong-singapore-insolvency-conference-2021/
 ---
 
 13 Oct 2021 Posted in [[Speeches](/news/speeches)]

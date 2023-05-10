@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Address by Mr Edwin Tong SC, Minister for Community, Culture and Youth and Second Minister for Law at the Litigation Conference Workshop on 22 Apr 2021'
 date: 2021-04-22
-permalink: /news/speeches/2021-04-22-Keynote-by-Second-Minister-Edwin-Tong-at-LawSoc-Litigation-Conference-Workshop-2021
+permalink: /news/speeches/2021-04-22-keynote-by-second-minister-edwin-tong-at-lawsoc-litigation-conference-workshop-2021/
 ---
 
 

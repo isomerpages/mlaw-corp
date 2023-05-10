@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 (Temporary Measures) Act Enhanced to Extend Relief to an Inability to Vacate Business Premises and to Cap Late Payment Interest and Charges'
 date: 2020-07-30T00:00:00.000Z
-permalink: /news/press-releases/COVID-19-Temporary-Measures-Act-Enhanced-Inability-to-Vacate-Cap-Late-Payment-Interest-and-Charges
+permalink: /news/press-releases/covid-19-temporary-measures-act-enhanced-inability-to-vacate-cap-late-payment-interest-and-charges/
 
 ---
 

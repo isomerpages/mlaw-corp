@@ -1,6 +1,6 @@
 ---
 title: 'Eminent local and international arbitration practitioners meet for MinLaw''s Arbitration Dialogue 2011'
-permalink: /news/press-releases/eminent-local-and-international-arbitration-practitioners-meet-for-minlaw-s-arbitration-dialogue
+permalink: /news/press-releases/eminent-local-and-international-arbitration-practitioners-meet-for-minlaw-s-arbitration-dialogue/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Press Statement'
-permalink: /news/press-releases/press-statement
+permalink: /news/press-releases/press-statement/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'New Credit Bureau to Support Prudence in Borrowing and Lending'
-permalink: /news/press-releases/new-credit-bureau-to-support-prudence-in-borrowing-and-lending
+permalink: /news/press-releases/new-credit-bureau-to-support-prudence-in-borrowing-and-lending/
 breadcrumb: 'Press Releases'
 
 ---

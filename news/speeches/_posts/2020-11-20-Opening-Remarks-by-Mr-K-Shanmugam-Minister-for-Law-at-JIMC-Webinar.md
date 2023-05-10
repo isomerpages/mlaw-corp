@@ -1,7 +1,7 @@
 ---
 title: 'Opening Remarks by Mr K Shanmugam, Minister For Law, at the Webinar Celebrating the 2nd Anniversary of JIMC and JIMC-SIMC Joint COVID-19 Protocol'
 date: 2020-11-20
-permalink: /news/speeches/Opening-Remarks-by-Mr-K-Shanmugam-Minister-for-Law-at-JIMC-Webinar
+permalink: /news/speeches/opening-remarks-by-mr-k-shanmugam-minister-for-law-at-jimc-webinar/
 
 ---
 

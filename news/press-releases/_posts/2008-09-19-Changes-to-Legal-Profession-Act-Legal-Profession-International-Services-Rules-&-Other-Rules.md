@@ -1,6 +1,6 @@
 ---
 title: 'Changes to Legal Profession Act, Legal Profession (International Services) Rules & Other Rules'
-permalink: /news/press-releases/press-releases/changes-to-legal-profession-act-legal-profession-international-services-rules-other-rules
+permalink: /news/press-releases/press-releases/changes-to-legal-profession-act-legal-profession-international-services-rules-other-rules/
 breadcrumb: 'Press Releases'
 
 ---

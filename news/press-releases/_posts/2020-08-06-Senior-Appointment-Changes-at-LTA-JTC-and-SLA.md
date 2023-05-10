@@ -1,7 +1,7 @@
 ---
 title: 'Senior Appointment Changes at Land Transport Authority, JTC Corporation and Singapore Land Authority'
 date: 2020-08-06T00:00:00.000Z
-permalink: /news/press-releases/Senior-Appointment-Changes-at-LTA-JTC-and-SLA
+permalink: /news/press-releases/senior-appointment-changes-at-lta-jtc-and-sla/
 
 ---
 

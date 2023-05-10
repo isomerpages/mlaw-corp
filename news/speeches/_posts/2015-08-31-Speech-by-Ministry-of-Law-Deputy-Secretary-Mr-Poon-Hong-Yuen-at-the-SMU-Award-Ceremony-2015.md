@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Ministry of Law Deputy Secretary, Mr Poon Hong Yuen, at the SMU Award Ceremony 2015'
-permalink: /news/speeches/smu-award-ceremony-2015--including-the-law-reform-essay-competit
+permalink: /news/speeches/smu-award-ceremony-2015--including-the-law-reform-essay-competit/
 breadcrumb: Speeches
 
 ---

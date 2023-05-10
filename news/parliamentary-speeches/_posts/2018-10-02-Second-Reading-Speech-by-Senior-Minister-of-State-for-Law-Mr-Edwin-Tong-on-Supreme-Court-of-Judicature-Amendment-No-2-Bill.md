@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on Supreme Court of Judicature (Amendment No.2) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-SCJA-amendment-number-2-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-scja-amendment-number-2-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

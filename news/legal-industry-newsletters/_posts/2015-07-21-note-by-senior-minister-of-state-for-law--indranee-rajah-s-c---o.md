@@ -1,6 +1,6 @@
 ---
 title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on A More Rehabilitative Framework for Bankrupts'
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c/
 
 ---
 o/

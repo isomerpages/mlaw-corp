@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Drafting of Wills'
 date: 2019-10-07T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-on-the-drafting-of-wills
+permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-on-the-drafting-of-wills/
 
 ---
 

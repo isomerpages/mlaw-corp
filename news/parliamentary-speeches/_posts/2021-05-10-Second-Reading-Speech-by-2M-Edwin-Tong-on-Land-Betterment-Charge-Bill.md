@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Land Betterment Charge Bill'
 date: 2021-05-10
-permalink: /news/parliamentary-speeches/2021-05-10-Second-Reading-Speech-by-2M-Edwin-Tong-on-Land-Betterment-Charge-Bill
+permalink: /news/parliamentary-speeches/2021-05-10-second-reading-speech-by-2m-edwin-tong-on-land-betterment-charge-bill/
 
 ---
 

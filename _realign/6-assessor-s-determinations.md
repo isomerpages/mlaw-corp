@@ -1,6 +1,6 @@
 ---
 title: 6. Assessor’s Determinations
-permalink: /realign/Assessor-Determinations
+permalink: /realign/assessor-determinations/
 breadcrumb: 6. Assessor’s Determinations
 ---
 

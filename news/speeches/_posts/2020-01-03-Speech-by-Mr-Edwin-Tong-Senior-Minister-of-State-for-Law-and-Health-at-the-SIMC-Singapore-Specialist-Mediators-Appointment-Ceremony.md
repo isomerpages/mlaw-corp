@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the SIMC Singapore Specialist Mediators Appointment Ceremony, 3 January 2020'
 date: 2020-01-03T00:00:00.000Z
-permalink: /news/speeches/Speech-by-Mr-Edwin-Tong-Senior-Minister-of-State-for-Law-and-Health-at-the-SIMC-Singapore-Specialist-Mediators-Appointment-Ceremony
+permalink: /news/speeches/speech-by-mr-edwin-tong-senior-minister-of-state-for-law-and-health-at-the-simc-singapore-specialist-mediators-appointment-ceremony/
 
 ---
 

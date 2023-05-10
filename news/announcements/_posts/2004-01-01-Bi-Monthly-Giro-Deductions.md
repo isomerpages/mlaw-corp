@@ -1,7 +1,7 @@
 ---
 title: 'Bi-Monthly Giro Deductions'
 date: 2004-01-01T00:00:00.000Z
-permalink: /news/announcements/bi-monthly-giro-deductions
+permalink: /news/announcements/bi-monthly-giro-deductions/
 
 ---
 

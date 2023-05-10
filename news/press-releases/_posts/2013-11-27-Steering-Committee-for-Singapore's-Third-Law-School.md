@@ -1,6 +1,6 @@
 ---
 title: 'Steering Committee for Singapore''s Third Law School'
-permalink: /news/press-releases/steering-comm-for-tls
+permalink: /news/press-releases/steering-comm-for-tls/
 breadcrumb: 'Press Releases'
 
 ---

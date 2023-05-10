@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender Company, Hong Yang Credit, Fined $48,000 - Press Release'
-permalink: /news/press-releases/errant-licensed-moneylender-company--hong-yang-credit--fined--48
+permalink: /news/press-releases/errant-licensed-moneylender-company--hong-yang-credit--fined--48/
 breadcrumb: 'Press Releases'
 
 ---

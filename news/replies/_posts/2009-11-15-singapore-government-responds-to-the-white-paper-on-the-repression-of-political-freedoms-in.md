@@ -210,8 +210,8 @@ Singapore government responds to the "White Paper on the Repression of Political
 {:start="51"}
 51. Singapore has grown and prospered because of its adherence to the rule of law and its robust legal framework. In a world of competing interests and priorities, Singaporeans must choose for themselves the kind of government they want, and the appropriate balance to be struck between societal interests and the individual.  Singapore does not seek to prescribe or impose its values on others, but simply for an open dialogue on these issues untainted by misrepresentation. This response clarifies facts which the Paper chose to ignore.
 
-[Annex 1: Dr Chee's convictions for criminal offences and contempt of court](/files/linkclick38e4.pdf/)  
-[Annex 2: Opposition politicians mentioned by Amsterdam & Peroff](/files/linkclickc457.pdf/)
+[Annex 1: Dr Chee's convictions for criminal offences and contempt of court](/files/linkclick38e4.pdf)  
+[Annex 2: Opposition politicians mentioned by Amsterdam & Peroff](/files/linkclickc457.pdf)
 
 
 

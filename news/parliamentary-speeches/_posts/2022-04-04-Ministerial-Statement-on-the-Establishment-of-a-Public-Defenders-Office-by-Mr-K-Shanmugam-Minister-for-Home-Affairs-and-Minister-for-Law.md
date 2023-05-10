@@ -2,7 +2,7 @@
 layout: post
 title: Ministerial Statement on the Establishment of a Public Defender’s Office by Mr K Shanmugam, Minister for Home Affairs and Minister for Law
 date: 2022-04-04
-permalink: /news/parliamentary-speeches/2022-04-04-Ministerial-Statement-on-the-Establishment-of-a-Public-Defenders-Office-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Minister-for-Law
+permalink: /news/parliamentary-speeches/2022-04-04-ministerial-statement-on-the-establishment-of-a-public-defenders-office-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/
 ---
 
 04 Apr 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 

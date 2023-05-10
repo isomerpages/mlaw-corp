@@ -1,6 +1,6 @@
 ---
 title: 2. Process for Renegotiation of Contract Terms and Termination of Contract
-permalink: /realign/process-renegotiation
+permalink: /realign/process-renegotiation/
 breadcrumb: 2. Process for Renegotiation of Contract Terms and Termination of Contract
 ---
 <style>

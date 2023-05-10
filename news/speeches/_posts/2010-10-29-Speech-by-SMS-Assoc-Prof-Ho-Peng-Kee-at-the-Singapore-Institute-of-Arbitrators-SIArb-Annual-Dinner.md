@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Singapore Institute of Arbitrators (SIArb) Annual Dinner'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-singapore-institute-of-arbitrators-siarb-annual-dinner
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-singapore-institute-of-arbitrators-siarb-annual-dinner/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Parliamentary Secretary for Education and Law, Ms Sim Ann, at the OneMap Challenge Awards Ceremony'
-permalink: /news/speeches/speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-onemap-challenge
+permalink: /news/speeches/speech-by-senior-parliamentary-secretary-for-education-and-law-ms-sim-ann-at-the-onemap-challenge/
 breadcrumb: Speeches
 
 ---

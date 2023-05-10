@@ -1,7 +1,7 @@
 ---
 title: 'Wills Registry to be managed by Singapore Academy of Law from 4 May 2020'
 date: 2020-03-31T00:00:00.000Z
-permalink: /news/press-releases/Wills-Registry-to-be-managed-by-Singapore-Academy-of-Law-from-4-May-2020
+permalink: /news/press-releases/wills-registry-to-be-managed-by-singapore-academy-of-law-from-4-may-2020/
 
 ---
 

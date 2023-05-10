@@ -1,7 +1,7 @@
 ---
 title: 'Singapore a member of the Hague Conference on Private International Law'
 date: 2014-04-14T00:00:00.000Z
-permalink: /news/announcements/singapore-member-of-hague-conference-on-pte-intl-law
+permalink: /news/announcements/singapore-member-of-hague-conference-on-pte-intl-law/
 
 ---
 

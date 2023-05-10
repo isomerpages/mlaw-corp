@@ -1,6 +1,6 @@
 ---
 title: 'Board Changes at the Intellectual Property Office of Singapore'
-permalink: /news/press-releases/board-changes-at-the-intellectual-property-office-of-singapore
+permalink: /news/press-releases/board-changes-at-the-intellectual-property-office-of-singapore/
 breadcrumb: 'Press Releases'
 
 ---

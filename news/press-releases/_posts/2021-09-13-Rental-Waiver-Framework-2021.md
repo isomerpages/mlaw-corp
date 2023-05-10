@@ -2,7 +2,7 @@
 layout: post
 title:  Rental Waiver Framework for Businesses Impacted by Phase 2 (Heightened Alert)
 date: 2021-09-13
-permalink: /news/press-releases/Rental-Waiver-Framework-2021
+permalink: /news/press-releases/rental-waiver-framework-2021/
 ---
 
 13 Sep 2021 Posted in [Press releases](/news/press-releases)

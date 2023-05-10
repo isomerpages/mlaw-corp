@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at the Official Launch of OneMap3D'
 date: 2021-09-15
-permalink: /news/speeches/2021-09-15-Speech-by-Edwin-Tong-at-Official-Launch-of-OneMap3D
+permalink: /news/speeches/2021-09-15-speech-by-edwin-tong-at-official-launch-of-onemap3d/
 ---
 
 15 Sep 2021 Posted in [[Speeches](/news/speeches)]

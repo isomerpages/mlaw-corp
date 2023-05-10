@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer on behalf of the Minister for Law by Senior Parliamentary Secretary for Home Affairs, Ms Sun Xueling, to Parliamentary Question on the Protection from Harassment Act'
 date: 2019-08-06T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Oral-Answer-on-behalf-of-the-Minister-for-Law-by-SPS-for-Home-Affairs-Sun-Xueling-PQ-POHA
+permalink: /news/parliamentary-speeches/oral-answer-on-behalf-of-the-minister-for-law-by-sps-for-home-affairs-sun-xueling-pq-poha/
 
 ---
 

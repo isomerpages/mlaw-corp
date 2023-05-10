@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Pawnbrokers Bill 2015'
 date: 2015-01-19T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-speech-SMS-pawnbrokers-bill-2015
+permalink: /news/parliamentary-speeches/2r-speech-sms-pawnbrokers-bill-2015/
 
 ---
 

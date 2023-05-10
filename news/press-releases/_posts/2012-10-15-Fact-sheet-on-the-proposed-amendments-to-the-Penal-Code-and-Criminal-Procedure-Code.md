@@ -1,6 +1,6 @@
 ---
 title: 'Fact sheet on the proposed amendments to the Penal Code and Criminal Procedure Code'
-permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code
+permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code/
 breadcrumb: 'Press Releases'
 
 ---

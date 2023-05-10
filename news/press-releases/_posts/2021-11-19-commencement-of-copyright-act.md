@@ -2,7 +2,7 @@
 layout: post
 title:  Commencement of the Copyright Act
 date: 2021-11-19
-permalink: /news/press-releases/2021-11-19-commencement-of-copyright-act
+permalink: /news/press-releases/2021-11-19-commencement-of-copyright-act/
 ---
 
 19 Nov 2021 Posted in [Press releases](/news/press-releases)

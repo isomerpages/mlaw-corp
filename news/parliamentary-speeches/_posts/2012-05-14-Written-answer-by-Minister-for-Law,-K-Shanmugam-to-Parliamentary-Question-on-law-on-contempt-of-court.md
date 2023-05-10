@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on law on contempt of court'
 date: 2012-05-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-law-on-contempt-of
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-law-on-contempt-of/
 
 ---
 

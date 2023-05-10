@@ -15,7 +15,7 @@ The Ministry of Law issued a response on 21 May 2009 to the International Bar As
 
 **Attachment**
 
-[Ministry of Law's response to IBAHRI's letter](/files/linkclick6b35.pdf/){:target="_blank"}
+[Ministry of Law's response to IBAHRI's letter](/files/linkclick6b35.pdf){:target="_blank"}
 
 <p class="right-side-updated">
   Last Updated on 27 Nov 2012

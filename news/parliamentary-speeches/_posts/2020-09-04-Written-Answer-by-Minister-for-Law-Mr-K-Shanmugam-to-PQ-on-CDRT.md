@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Neighbour Disputes Arising from Second-Hand Cigarette Smoke Mediated Successfully in Past Two Years'
 date: 2020-09-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-CDRT-smoke
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-cdrt-smoke/
 
 ---
 

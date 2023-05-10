@@ -1,6 +1,6 @@
 ---
 title: 'Committee to Recommend Reforms to Enhance Access to Justice'
-permalink: /news/press-releases/committee-to-recommend-reforms-to-enhance-access-to-justice
+permalink: /news/press-releases/committee-to-recommend-reforms-to-enhance-access-to-justice/
 breadcrumb: 'Press Releases'
 
 ---

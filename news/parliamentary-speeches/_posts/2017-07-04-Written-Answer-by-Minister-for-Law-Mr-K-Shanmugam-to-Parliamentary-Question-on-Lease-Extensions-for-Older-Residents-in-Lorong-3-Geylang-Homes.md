@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Lease Extensions for Older Residents in Lorong 3 Geylang Homes'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen7
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen7/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

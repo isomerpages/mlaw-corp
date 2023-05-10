@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the International Arbitration Act and the new Foreign Limitation Periods Act'
-permalink: /news/press-releases/proposed-amendments-to-the-international-arbitration-act-and-the-new-foreign-limitation-periods-act
+permalink: /news/press-releases/proposed-amendments-to-the-international-arbitration-act-and-the-new-foreign-limitation-periods-act/
 breadcrumb: 'Press Releases'
 
 ---

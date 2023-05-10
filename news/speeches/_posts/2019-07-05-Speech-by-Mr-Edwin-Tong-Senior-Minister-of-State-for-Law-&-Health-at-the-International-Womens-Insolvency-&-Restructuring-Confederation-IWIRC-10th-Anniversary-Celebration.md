@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the International Women’s Insolvency & Restructuring Confederation (IWIRC) 10th Anniversary Celebration'
 date: 2019-07-05T00:00:00.000Z
-permalink: /news/speeches/speech-by-sms-edwin-tong-IWIRC-10th-anniversary-celebration
+permalink: /news/speeches/speech-by-sms-edwin-tong-iwirc-10th-anniversary-celebration/
 
 ---
 

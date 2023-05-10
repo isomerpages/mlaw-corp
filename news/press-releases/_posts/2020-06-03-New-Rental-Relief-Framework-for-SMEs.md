@@ -1,7 +1,7 @@
 ---
 title: 'New Rental Relief Framework for SMEs'
 date: 2020-06-03T00:00:00.000Z
-permalink: /news/press-releases/New-Rental-Relief-Framework-for-SMEs
+permalink: /news/press-releases/new-rental-relief-framework-for-smes/
 
 ---
 

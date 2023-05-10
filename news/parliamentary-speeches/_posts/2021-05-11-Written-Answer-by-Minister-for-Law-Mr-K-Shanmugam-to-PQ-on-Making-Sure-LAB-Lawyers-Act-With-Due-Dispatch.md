@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Making Sure Lawyers Appointed by Legal Aid Bureau Act with Due Dispatch
 date: 2021-05-11
-permalink: /news/parliamentary-speeches/2021-05-11-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Making-Sure-LAB-Lawyers-Act-With-Due-Dispatch
+permalink: /news/parliamentary-speeches/2021-05-11-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-making-sure-lab-lawyers-act-with-due-dispatch/
 ---
 
 11 May 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,6 +1,6 @@
 ---
 title: 'MinLaw Accepts Committee Recommendations to Strengthen Singapore’s Debt Restructuring Framework'
-permalink: /news/press-releases/minlaw-accepts-committee-recommendations-to-strengthen-singapore
+permalink: /news/press-releases/minlaw-accepts-committee-recommendations-to-strengthen-singapore/
 breadcrumb: 'Press Releases'
 
 ---

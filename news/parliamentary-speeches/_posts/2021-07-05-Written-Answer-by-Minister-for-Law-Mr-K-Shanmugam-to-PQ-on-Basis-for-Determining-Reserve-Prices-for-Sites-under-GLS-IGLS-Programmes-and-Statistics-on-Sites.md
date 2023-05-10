@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Basis for Determining Reserve Prices for Sites Under GLS and IGLS Programmes and Statistics on Sites Awarded in Last Five Years
 date: 2021-07-05
-permalink: /news/parliamentary-speeches/2021-07-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Basis-for-Determining-Reserve-Prices-for-Sites-under-GLS-IGLS-Programmes-and-Statistics-on-Sites
+permalink: /news/parliamentary-speeches/2021-07-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-basis-for-determining-reserve-prices-for-sites-under-gls-igls-programmes-and-statistics-on-sites/
 ---
 
 5 July 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

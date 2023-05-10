@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law'
-permalink: /content/minlaw/en
+permalink: /content/minlaw/en/
 breadcrumb: 'Ministry of Law'
 
 ---

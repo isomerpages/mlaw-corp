@@ -2,7 +2,7 @@
 layout: post
 title: Extended Coverage of MinLaw COVID-19 (Wedding) Mediation Programme
 date: 2021-07-29
-permalink: /news/press-releases/2021-07-29-Extended-Coverage-of-MinLaw-COVID-19-Wedding-Mediation-Programme
+permalink: /news/press-releases/2021-07-29-extended-coverage-of-minlaw-covid-19-wedding-mediation-programme/
 ---
 
 29 Jul 2021 Posted in [Press releases](/news/press-releases)

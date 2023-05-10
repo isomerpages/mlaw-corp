@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Courts (Civil and Criminal Justice) Reform Bill'
 date: 2021-09-13
-permalink: /news/parliamentary-speeches/2021-09-13-Second-Reading-Speech-by-2M-Edwin-Tong-on-Courts-Civil-and-Criminal-Justice-Reform-Bill
+permalink: /news/parliamentary-speeches/2021-09-13-second-reading-speech-by-2m-edwin-tong-on-courts-civil-and-criminal-justice-reform-bill/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Note by 2M Edwin Tong on advancing Singapore''s status as a dispute resolution and IP hub'
-permalink: '/news/legal-industry-newsletter/Note-by-2M-Edwin-Tong-on-advancing-Singapore-status-as-DR-IP-hub/'
+permalink: '/news/legal-industry-newsletter/note-by-2m-edwin-tong-on-advancing-singapore-status-as-dr-ip-hub/'/
 breadcrumb: 'Note by 2M Edwin Tong on advancing Singapore''s status as a dispute resolution and IP hub'
 
 ---
@@ -23,7 +23,7 @@ Click below to read a Note by Second Minister for Law Edwin Tong as he shares mo
 
 
 <div class="image">
-  <a href="/files/18Jan2022_Note_by_2M_Edwin_Tong.pdf/"><img src="/images/Noteby2M.JPG/"></a>
+  <a href="/files/18Jan2022_Note_by_2M_Edwin_Tong.pdf"><img src="/images/Noteby2M.JPG/"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 18 Jan 2022</p>

@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on Providing Psychological and Counselling Support and Legal Advice for Bankrupts 
 date: 2021-02-24
-permalink: /news/parliamentary-speeches/2021-02-24-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-psychological-and-counselling-support-and-legal-advice-for-bankrupts
+permalink: /news/parliamentary-speeches/2021-02-24-oral-answer-by-2m-edwin-tong-to-pq-on-psychological-and-counselling-support-and-legal-advice-for-bankrupts/
 
 ---
  

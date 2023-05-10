@@ -1,6 +1,6 @@
 ---
 title: 'New Mediator Management Framework to be rolled out by the Community Mediation Unit'
-permalink: /news/press-releases/new-mediator-management-framework-to-be-rolled-out-by-the-community-mediation-unit
+permalink: /news/press-releases/new-mediator-management-framework-to-be-rolled-out-by-the-community-mediation-unit/
 breadcrumb: 'Press Releases'
 
 ---

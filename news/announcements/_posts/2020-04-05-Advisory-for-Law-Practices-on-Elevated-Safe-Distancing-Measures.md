@@ -1,7 +1,7 @@
 ---
 title: 'Advisory for Law Practices on Elevated Safe Distancing Measures'
 date: 2020-04-05T00:00:00.000Z
-permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Distancing-Measures
+permalink: /news/announcements/advisory-for-law-practices-on-elevated-safe-distancing-measures/
 
 ---
 

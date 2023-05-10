@@ -1,7 +1,7 @@
 ---
 title: 'Public Trustee notice dated 15 Feb 2013'
 date: 2013-02-15T00:00:00.000Z
-permalink: /news/announcements/public-trustee-notice-dated-15-feb-2013
+permalink: /news/announcements/public-trustee-notice-dated-15-feb-2013/
 
 ---
 

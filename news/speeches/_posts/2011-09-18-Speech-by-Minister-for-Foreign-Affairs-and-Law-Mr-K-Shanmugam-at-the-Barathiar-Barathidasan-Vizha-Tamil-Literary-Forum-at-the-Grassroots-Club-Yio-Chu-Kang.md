@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam at the Barathiar Barathidasan Vizha (Tamil Literary Forum) at the Grassroots Club, Yio Chu Kang'
-permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-barathiar-barathidasan-vizha
+permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-barathiar-barathidasan-vizha/
 breadcrumb: Speeches
 
 ---

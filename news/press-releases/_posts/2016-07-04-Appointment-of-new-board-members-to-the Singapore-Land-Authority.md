@@ -1,6 +1,6 @@
 ---
 title: 'Appointment of new board members to the Singapore Land Authority'
-permalink: /news/press-releases/appointment-of-new-board-members-to-the--singapore-land-authorit
+permalink: /news/press-releases/appointment-of-new-board-members-to-the--singapore-land-authorit/
 breadcrumb: 'Press Releases'
 
 ---

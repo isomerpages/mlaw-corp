@@ -1,6 +1,6 @@
 ---
 title: 'Successful Launch of the Inaugural ASEAN Law Academy'
-permalink: /news/press-releases/Successful-Launch-of-the-Inaugural-ASEAN-Law-Academy
+permalink: /news/press-releases/successful-launch-of-the-inaugural-asean-law-academy/
 breadcrumb: 'Press Releases'
 
 ---

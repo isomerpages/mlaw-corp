@@ -1,7 +1,7 @@
 ---
 title: 'Oral answer by Minister for Law, K Shanmugam, to Parliamentary Questions on the Woffles Wu case'
 date: 2012-08-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-k-shanmugam-to-parliamentary-questions-on-the-woffles-wu-case
+permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law-k-shanmugam-to-parliamentary-questions-on-the-woffles-wu-case/
 
 ---
 

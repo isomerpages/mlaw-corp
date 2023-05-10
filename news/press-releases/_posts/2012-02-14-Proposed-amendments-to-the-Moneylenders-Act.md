@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Moneylenders Act'
-permalink: /news/press-releases/proposed-amendments-to-the-moneylenders-act
+permalink: /news/press-releases/proposed-amendments-to-the-moneylenders-act/
 breadcrumb: 'Press Releases'
 
 ---

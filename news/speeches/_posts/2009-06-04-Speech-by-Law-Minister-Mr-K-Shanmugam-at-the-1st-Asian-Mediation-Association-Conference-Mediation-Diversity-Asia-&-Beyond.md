@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister, Mr K Shanmugam, at the 1st Asian Mediation Association Conference, “Mediation Diversity - Asia & Beyond”'
-permalink: /news/speeches/speech-by-law-minister-mr-k-shanmugam-at-the-1st-asian-mediation-association-conference
+permalink: /news/speeches/speech-by-law-minister-mr-k-shanmugam-at-the-1st-asian-mediation-association-conference/
 breadcrumb: Speeches
 
 ---

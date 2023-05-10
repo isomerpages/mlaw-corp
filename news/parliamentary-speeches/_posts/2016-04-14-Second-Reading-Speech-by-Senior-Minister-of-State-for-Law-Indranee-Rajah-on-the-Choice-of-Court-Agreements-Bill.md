@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah, on the Choice of Court Agreements Bill'
 date: 2016-04-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra0
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra0/
 
 ---
 

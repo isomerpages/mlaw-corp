@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on un-nominated CPF monies'
 date: 2013-11-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-pq-cpf-un-nominated-monies
+permalink: /news/parliamentary-speeches/written-answer-by-minister-pq-cpf-un-nominated-monies/
 
 ---
 

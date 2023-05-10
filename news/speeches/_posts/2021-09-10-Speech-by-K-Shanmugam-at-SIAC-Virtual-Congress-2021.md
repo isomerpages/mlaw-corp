@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Home Affairs and Minister for Law K Shanmugam SC at SIAC Virtual Congress 2021'
 date: 2021-09-10
-permalink: /news/speeches/2021-09-10-Speech-by-K-Shanmugam-at-SIAC-Virtual-Congress-2021
+permalink: /news/speeches/2021-09-10-speech-by-k-shanmugam-at-siac-virtual-congress-2021/
 ---
 
 10 Sep 2021 Posted in [[Speeches](/news/speeches)]

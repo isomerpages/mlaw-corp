@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Trade Marks (Amendment) Bill by DPM Prof S Jayakumar, 22 Jan 2007'
 date: 2007-03-02T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-trade-marks-amendment-bill-by-dpm-prof-s-jayakumar-22-jan-2007
+permalink: /news/parliamentary-speeches/second-reading-speech-on-trade-marks-amendment-bill-by-dpm-prof-s-jayakumar-22-jan-2007/
 
 ---
 

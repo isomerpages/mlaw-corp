@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on income of bankrupt persons'
 date: 2019-09-02T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-income-of-bankrupt-persons
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-income-of-bankrupt-persons/
 
 ---
 

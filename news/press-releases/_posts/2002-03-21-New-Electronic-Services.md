@@ -1,6 +1,6 @@
 ---
 title: 'New Electronic Services'
-permalink: /news/press-releases/new-electronic-services
+permalink: /news/press-releases/new-electronic-services/
 breadcrumb: 'Press Releases'
 
 ---

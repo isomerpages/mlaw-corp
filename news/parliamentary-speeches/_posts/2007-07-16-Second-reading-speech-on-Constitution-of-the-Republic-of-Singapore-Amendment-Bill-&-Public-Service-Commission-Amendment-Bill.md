@@ -1,7 +1,7 @@
 ---
 title: 'Second reading speech on Constitution of the Republic of Singapore (Amendment) Bill & Public Service Commission (Amendment) Bill'
 date: 2007-07-16T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-constitution-of-the-republic-of-singapore-amendment-bill-public
+permalink: /news/parliamentary-speeches/second-reading-speech-on-constitution-of-the-republic-of-singapore-amendment-bill-public/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr K Shanmugam, Minister for Home Affairs and Law at the Official Book Launch of Mr Subhas Anandan''s It''s Easy to Cry'
-permalink: /news/speeches/speech-by-minister-at-book-launch
+permalink: /news/speeches/speech-by-minister-at-book-launch/
 breadcrumb: Speeches
 
 ---

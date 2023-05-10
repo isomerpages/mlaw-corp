@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law and Education, Indranee Rajah at the launch of IP Expedition 2013'
-permalink: /news/speeches/IP-Expedition2013
+permalink: /news/speeches/ip-expedition2013/
 breadcrumb: Speeches
 
 ---

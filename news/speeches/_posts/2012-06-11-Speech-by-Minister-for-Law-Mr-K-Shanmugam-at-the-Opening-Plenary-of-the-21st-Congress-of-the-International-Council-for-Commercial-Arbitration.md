@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law, Mr K Shanmugam, at the Opening Plenary of the 21st Congress of the International Council for Commercial Arbitration'
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-opening-plenary-of-the-21st-congress-of-the
+permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-opening-plenary-of-the-21st-congress-of-the/
 breadcrumb: Speeches
 
 ---

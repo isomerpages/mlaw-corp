@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Litigation Conference 2015'
-permalink: /news/speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--at-t
+permalink: /news/speeches/speech-by-senior-minister-of-state-for-law--indranee-rajah--at-t/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Manager Of Errant Licensed Moneylending Company, Sapphire Credit And Investments Pte Ltd, Fined $20,000 - Press Release'
-permalink: /news/press-releases/manager-of-errant-licensed-moneylending-company-fined--20-000
+permalink: /news/press-releases/manager-of-errant-licensed-moneylending-company-fined--20-000/
 
 ---
 

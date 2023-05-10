@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of the Permanent Court of Arbitration (PCA) Singapore Office'
 date: 2019-11-19T00:00:00.000Z
-permalink: /news/speeches/Speech-by-Senior-Minister-of-State-for-Law-and-Health-Mr-Edwin-Tong-at-the-Launch-of-the-PCA-Singapore-Office
+permalink: /news/speeches/speech-by-senior-minister-of-state-for-law-and-health-mr-edwin-tong-at-the-launch-of-the-pca-singapore-office/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Work pass exemption for foreigners involved in arbitration and mediation activities in Singapore'
-permalink: /news/press-releases/work-pass-exemption-for-foreigners-involved-in-arbitration-and-mediation-activities-in-singapore
+permalink: /news/press-releases/work-pass-exemption-for-foreigners-involved-in-arbitration-and-mediation-activities-in-singapore/
 breadcrumb: 'Press Releases'
 
 ---

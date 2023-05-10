@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law - Addendum to the President''s Address Nov 2006'
-permalink: /news/speeches/ministry-of-law-addendum-to-the-president-s-address-nov-2006
+permalink: /news/speeches/ministry-of-law-addendum-to-the-president-s-address-nov-2006/
 breadcrumb: Speeches
 
 ---

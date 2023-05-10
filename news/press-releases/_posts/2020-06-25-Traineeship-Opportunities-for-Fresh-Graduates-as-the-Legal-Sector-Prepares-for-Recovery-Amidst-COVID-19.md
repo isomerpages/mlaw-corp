@@ -1,7 +1,7 @@
 ---
 title: 'Traineeship Opportunities for Fresh Graduates as the Legal Sector Prepares for Recovery Amidst COVID-19'
 date: 2020-06-25T00:00:00.000Z
-permalink: /news/press-releases/Traineeship-Opportunities-for-Fresh-Graduates-as-the-Legal-Sector-Prepares-for-Recovery-Amidst-COVID-19
+permalink: /news/press-releases/traineeship-opportunities-for-fresh-graduates-as-the-legal-sector-prepares-for-recovery-amidst-covid-19/
 
 ---
 

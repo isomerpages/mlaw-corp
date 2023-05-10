@@ -1,6 +1,6 @@
 ---
 title: 'Law Ministry Announces Proposed Amendments to the Legal Profession Act'
-permalink: /news/press-releases/law-ministry-announces-proposed-amendments-to-the-legal-profession-act_1
+permalink: /news/press-releases/law-ministry-announces-proposed-amendments-to-the-legal-profession-act_1/
 
 ---
 

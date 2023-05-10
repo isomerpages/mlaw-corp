@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on helping Singaporeans who do not meet means test for pro bono legal aid services
 date: 2021-07-06
-permalink: /news/parliamentary-speeches/2021-07-06-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-helping-singaporeans-who-not-meet-means-test-for-pro-bono-legal-aid-services
+permalink: /news/parliamentary-speeches/2021-07-06-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-helping-singaporeans-who-not-meet-means-test-for-pro-bono-legal-aid-services/
 ---
 
 06 July 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

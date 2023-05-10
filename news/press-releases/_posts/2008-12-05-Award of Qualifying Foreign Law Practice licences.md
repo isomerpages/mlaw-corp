@@ -1,6 +1,6 @@
 ---
 title: 'Award of Qualifying Foreign Law Practice licences'
-permalink: /news/press-releases/award-of-qualifying-foreign-law-practice-licences
+permalink: /news/press-releases/award-of-qualifying-foreign-law-practice-licences/
 breadcrumb: 'Press Releases'
 
 ---

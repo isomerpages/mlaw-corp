@@ -1,6 +1,6 @@
 ---
 title: Tips
-permalink: /covid19-relief/tips
+permalink: /covid19-relief/tips/
 breadcrumb: Tips
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Maintenance of Black and White Bungalows'
 date: 2016-08-16T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen0
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen0/
 
 ---
 

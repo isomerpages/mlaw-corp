@@ -1,6 +1,6 @@
 ---
 title: 'Factsheet on Intellectual Property (Border Enforcement) Bill'
-permalink: /news/press-releases/factsheet-on-intellectual-property--border-enforcement--bill
+permalink: /news/press-releases/factsheet-on-intellectual-property--border-enforcement--bill/
 breadcrumb: 'Press Releases'
 
 ---

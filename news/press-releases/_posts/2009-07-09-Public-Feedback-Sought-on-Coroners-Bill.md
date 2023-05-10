@@ -1,6 +1,6 @@
 ---
 title: 'Public Feedback Sought on Coroners Bill'
-permalink: /news/press-releases/public-feedback-sought-on-coroners-bill
+permalink: /news/press-releases/public-feedback-sought-on-coroners-bill/
 breadcrumb: 'Press Releases'
 
 ---

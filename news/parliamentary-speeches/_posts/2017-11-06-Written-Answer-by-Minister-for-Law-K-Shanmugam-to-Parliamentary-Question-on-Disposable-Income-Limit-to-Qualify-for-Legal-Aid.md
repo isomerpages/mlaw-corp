@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Disposable Income Limit to Qualify for Legal Aid'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar8
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar8/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

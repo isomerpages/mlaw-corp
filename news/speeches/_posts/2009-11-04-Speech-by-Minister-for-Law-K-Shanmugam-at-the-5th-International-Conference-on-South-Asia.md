@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law K Shanmugam at the 5th International Conference on South Asia'
-permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-5th-international-conference-on-south-asia
+permalink: /news/speeches/speech-by-minister-for-law-k-shanmugam-at-the-5th-international-conference-on-south-asia/
 breadcrumb: Speeches
 
 ---

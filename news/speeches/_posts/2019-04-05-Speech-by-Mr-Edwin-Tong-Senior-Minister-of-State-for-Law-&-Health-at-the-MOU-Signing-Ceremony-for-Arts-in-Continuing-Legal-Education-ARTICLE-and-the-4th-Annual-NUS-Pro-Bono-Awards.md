@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the MOU Signing Ceremony for Arts in Continuing Legal Education (“ARTICLE”) and the 4th Annual NUS Pro Bono Awards'
-permalink: /news/speeches/speech-by-sms-edwin-tong-mou-signing-ceremony-for-article-and-fourth-nus-pro-bono-awards
+permalink: /news/speeches/speech-by-sms-edwin-tong-mou-signing-ceremony-for-article-and-fourth-nus-pro-bono-awards/
 breadcrumb: Speeches
 
 ---

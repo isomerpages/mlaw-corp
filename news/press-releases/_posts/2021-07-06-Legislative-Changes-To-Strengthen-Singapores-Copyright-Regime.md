@@ -2,7 +2,7 @@
 layout: post
 title: Legislative Changes to Strengthen Singapore's Copyright Regime
 date: 2021-07-06
-permalink: /news/press-releases/2021-07-06-Legislative-Changes-To-Strengthen-Singapores-Copyright-Regime
+permalink: /news/press-releases/2021-07-06-legislative-changes-to-strengthen-singapores-copyright-regime/
 ---
 
 06 Jul 2021 Posted in [Press releases](/news/press-releases)

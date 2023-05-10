@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Rajadanran s/o Suppiah, Fined $29,000'
-permalink: /news/press-releases/errant-licensed-moneylender--rajadanran-s-o-suppiah--fined--29-0
+permalink: /news/press-releases/errant-licensed-moneylender--rajadanran-s-o-suppiah--fined--29-0/
 breadcrumb: 'Press Releases'
 
 ---

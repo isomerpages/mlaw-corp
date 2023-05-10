@@ -1,6 +1,6 @@
 ---
 title: 'News and Media'
-permalink: /events/event_1/news-media
+permalink: /events/event_1/news-media/
 breadcrumb: 'News and Media'
 
 ---

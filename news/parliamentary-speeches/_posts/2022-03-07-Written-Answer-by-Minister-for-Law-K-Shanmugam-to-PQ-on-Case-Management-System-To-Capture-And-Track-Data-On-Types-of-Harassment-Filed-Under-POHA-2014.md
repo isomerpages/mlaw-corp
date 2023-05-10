@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Study To Enhance Case Management System By State Courts To Capture And Track Data On Types Of Harassment Filed Under Protection from Harassment Act 2014
 date: 2022-03-07
-permalink: /news/parliamentary-speeches/2022-03-07-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Case-Management-System-To-Capture-And-Track-Data-On-Types-of-Harassment-Filed-Under-POHA-2014
+permalink: /news/parliamentary-speeches/2022-03-07-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-case-management-system-to-capture-and-track-data-on-types-of-harassment-filed-under-poha-2014/
 ---
 
 07 March 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

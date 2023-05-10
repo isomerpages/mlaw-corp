@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on Geographical Indications (Amendments) Bill'
 date: 2020-02-03T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-Geographical-Indications-Amendments-Bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law-mr-edwin-tong-on-geographical-indications-amendments-bill/
 
 ---
 

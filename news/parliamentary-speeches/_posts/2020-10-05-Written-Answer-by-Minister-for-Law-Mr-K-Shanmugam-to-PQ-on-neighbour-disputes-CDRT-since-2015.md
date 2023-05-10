@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Cases of Neighbour Disputes in HDB Flats Lodged with Community Disputes Resolution Tribunal Since 2015
 date: 2020-10-05
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-neighbour-disputes-CDRT-2015
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-neighbour-disputes-cdrt-2015/
 
 ---
 

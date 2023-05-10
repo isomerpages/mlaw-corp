@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender Phua Chin Meng Fined $50,000 - Press Release'
-permalink: /news/press-releases/errant-licensed-moneylender-phua-chin-meng-fined--50-000
+permalink: /news/press-releases/errant-licensed-moneylender-phua-chin-meng-fined--50-000/
 
 ---
 press

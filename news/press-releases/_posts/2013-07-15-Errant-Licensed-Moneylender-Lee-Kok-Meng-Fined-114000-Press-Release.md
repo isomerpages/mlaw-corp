@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender Lee Kong Meng Fined $114,000-Press Release'
-permalink: /news/press-releases/errant-licensed-moneylender-lee-kong-meng-fined--114-000
+permalink: /news/press-releases/errant-licensed-moneylender-lee-kong-meng-fined--114-000/
 
 ---
 press

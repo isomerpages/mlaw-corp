@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Law, K Shanmugam, during the Committee of Supply Debate 2014'
 date: 2014-03-05T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-minister-during-cos-2014
+permalink: /news/parliamentary-speeches/speech-by-minister-during-cos-2014/
 
 ---
 

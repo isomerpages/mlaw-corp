@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law and Education, Indranee Rajah at the inaugural Singapore Institute of Arbitrators (SIArb) National Arbitration Conference'
-permalink: /news/speeches/speech-by-sms-at-siarb-event
+permalink: /news/speeches/speech-by-sms-at-siarb-event/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on call for new tenders for nursery land at Bah Soon Pah area'
 date: 2013-05-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-to-PQ-on-Bah-Soon-Pah-area
+permalink: /news/parliamentary-speeches/written-answer-to-pq-on-bah-soon-pah-area/
 
 ---
 

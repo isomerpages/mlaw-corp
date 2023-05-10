@@ -1,7 +1,7 @@
 ---
 title: 'Appointment of new Chief Executive, Intellectual Property Office of Singapore'
 date: 2020-06-19T00:00:00.000Z
-permalink: /news/press-releases/Appointment-of-new-Chief-Executive-Intellectual-Property-Office-of-Singapore-2020
+permalink: /news/press-releases/appointment-of-new-chief-executive-intellectual-property-office-of-singapore-2020/
 
 ---
 

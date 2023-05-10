@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Reviewing Sustainability of Convictions and Sentences After Amendment to Legislation
 date: 2020-11-02
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-reviewing-sustainability-of-convictions-and-sentences-after-amendment-to-legislation
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-reviewing-sustainability-of-convictions-and-sentences-after-amendment-to-legislation/
 
 ---
 

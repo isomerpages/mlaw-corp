@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law and Minister for Foreign Affairs, K Shanmugam, at the Association of Muslim Lawyers Annual Lecture 2014'
-permalink: /news/speeches/Speech-by-Minister-at-the-AML-Annual-Lecture-2014
+permalink: /news/speeches/speech-by-minister-at-the-aml-annual-lecture-2014/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Legal Technology Platform Initiative
 date: 2022-02-14
-permalink: /news/parliamentary-speeches/2022-02-14-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Legal-Technology-Platform-Initiative
+permalink: /news/parliamentary-speeches/2022-02-14-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-legal-technology-platform-initiative/
 ---
 
 14 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

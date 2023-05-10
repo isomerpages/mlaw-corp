@@ -1,6 +1,6 @@
 ---
 title: 'Opening address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law at IP Week@SG 2017'
-permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and3
+permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and3/
 breadcrumb: Speeches
 
 ---

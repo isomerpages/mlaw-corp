@@ -1,6 +1,6 @@
 ---
 title: 'Eminent International Arbitration Practitioners attend the Ministry of Law''s Arbitration Dialogue 2012'
-permalink: /news/press-releases/eminent-international-arbitration-practitioners-attend-the-ministry-of-law-s-arbitration-dialogue
+permalink: /news/press-releases/eminent-international-arbitration-practitioners-attend-the-ministry-of-law-s-arbitration-dialogue/
 breadcrumb: 'Press Releases'
 
 ---

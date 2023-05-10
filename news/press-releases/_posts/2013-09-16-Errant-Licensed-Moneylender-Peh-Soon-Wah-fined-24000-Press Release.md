@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Peh Soon Wah, fined $24,000 - Press Release'
-permalink: /news/press-releases/-errant-licensed-moneylender--peh-soon-wah--fined--24-000
+permalink: /news/press-releases/-errant-licensed-moneylender--peh-soon-wah--fined--24-000/
 
 ---
 pres

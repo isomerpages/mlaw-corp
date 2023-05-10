@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Land Titles (Strata) Act'
-permalink: /news/press-releases/proposed-amendments-to-the-land-titles-strata-act
+permalink: /news/press-releases/proposed-amendments-to-the-land-titles-strata-act/
 breadcrumb: 'Press Releases'
 
 ---

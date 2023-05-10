@@ -2,7 +2,7 @@
 layout: post
 title: Legislative Amendments for Future-Ready Courts
 date: 2021-07-26
-permalink: /news/press-releases/2021-07-26-Legislative-Amendments-for-Future-Ready-Courts
+permalink: /news/press-releases/2021-07-26-legislative-amendments-for-future-ready-courts/
 ---
 
 26 Jul 2021 Posted in [Press releases](/news/press-releases)

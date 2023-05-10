@@ -1,6 +1,6 @@
 ---
 title: 'Press Release on Public Consultation on Interim Recommendations of Committee for Family Justice'
-permalink: /news/press-releases/press-release-on-public-consultation-on-interim-recommendations-
+permalink: /news/press-releases/press-release-on-public-consultation-on-interim-recommendations-/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Second Minister for Finance announces International Arbitration Tax Incentive'
 date: 2007-02-15T00:00:00.000Z
-permalink: /news/announcements/second-minister-for-finance-announces-international-arbitration-tax-incentive
+permalink: /news/announcements/second-minister-for-finance-announces-international-arbitration-tax-incentive/
 
 ---
 

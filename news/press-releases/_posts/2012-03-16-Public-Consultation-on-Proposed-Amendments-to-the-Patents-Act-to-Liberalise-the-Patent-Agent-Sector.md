@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the Patents Act to Liberalise the Patent Agent Sector'
-permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-patents-act-to-liberalise-the-patent-agent-sector
+permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-patents-act-to-liberalise-the-patent-agent-sector/
 breadcrumb: 'Press Releases'
 
 ---

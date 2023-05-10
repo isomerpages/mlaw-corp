@@ -1,6 +1,6 @@
 ---
 title: 'Intellectual Property Steering Committee to Develop Singapore into an Asian IP Hub'
-permalink: /news/press-releases/intellectual-property-steering-committee-to-develop-singapore-into-an-asian-ip-hub
+permalink: /news/press-releases/intellectual-property-steering-committee-to-develop-singapore-into-an-asian-ip-hub/
 breadcrumb: 'Press Releases'
 
 ---

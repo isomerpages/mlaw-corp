@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Singapore Institute of Arbitrators'' 37th Anniversary Annual Dinner'
-permalink: /news/speeches/speech-by-sms-edwin-tong-siarb-37th-anniversary-annual-dinner
+permalink: /news/speeches/speech-by-sms-edwin-tong-siarb-37th-anniversary-annual-dinner/
 breadcrumb: Speeches
 
 ---

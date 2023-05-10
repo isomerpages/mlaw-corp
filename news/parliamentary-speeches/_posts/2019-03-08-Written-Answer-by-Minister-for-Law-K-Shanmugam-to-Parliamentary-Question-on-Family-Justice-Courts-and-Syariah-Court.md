@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Family Justice Courts and Syariah Court'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-family-justice-courts
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-family-justice-courts/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

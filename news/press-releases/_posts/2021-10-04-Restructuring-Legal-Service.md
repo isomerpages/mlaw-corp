@@ -2,7 +2,7 @@
 layout: post
 title: Structural Changes to the Legal Service to Deepen Capabilities and Better Meet Evolving Demands  
 date: 2021-10-04
-permalink: /news/press-releases/2021-10-04-Restructuring-Legal-Service
+permalink: /news/press-releases/2021-10-04-restructuring-legal-service/
 ---
 
 04 Oct 2021 Posted in [Press releases](/news/press-releases)

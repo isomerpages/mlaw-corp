@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law’s Response to Workers’ Party’s Statement on Protection from Harassment Act'
-permalink: /news/press-releases/ministry-of-law_s-response-to-workers-partys-statement-on-protec
+permalink: /news/press-releases/ministry-of-law_s-response-to-workers-partys-statement-on-protec/
 breadcrumb: 'Press Releases'
 
 ---

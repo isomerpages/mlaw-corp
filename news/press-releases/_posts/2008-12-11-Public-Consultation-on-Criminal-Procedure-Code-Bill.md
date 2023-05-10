@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Criminal Procedure Code Bill'
-permalink: /news/press-releases/public-consultation-on-criminal-procedure-code-bill
+permalink: /news/press-releases/public-consultation-on-criminal-procedure-code-bill/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Enhancing the Regime for International Arbitration through the International Arbitration (Amendment) Bill'
 date: 2020-09-01T00:00:00.000Z
-permalink: /news/press-releases/international-arbitration-amendment-bill
+permalink: /news/press-releases/international-arbitration-amendment-bill/
 
 ---
 

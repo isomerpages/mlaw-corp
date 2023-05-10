@@ -1,6 +1,6 @@
 ---
 title: 'Proposed Changes to Unsecured Credit Rules, Similar Rules to Apply to Moneylenders'
-permalink: /news/press-releases/proposed-changes-to-unsecured-credit-rules-similar-rules-to-apply-to-moneylenders_1
+permalink: /news/press-releases/proposed-changes-to-unsecured-credit-rules-similar-rules-to-apply-to-moneylenders_1/
 breadcrumb: 'Press Releases'
 
 ---

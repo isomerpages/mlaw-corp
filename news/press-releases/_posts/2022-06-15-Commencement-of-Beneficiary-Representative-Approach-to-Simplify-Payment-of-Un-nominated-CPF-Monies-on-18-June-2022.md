@@ -2,7 +2,7 @@
 layout: post
 title: Commencement of Beneficiary Representative Approach to Simplify Payment of Un-nominated CPF Monies on 18 June 2022
 date: 2022-06-15
-permalink: /news/press-releases/Commencement-of-Beneficiary-Representative-Approach-to-Simplify-Payment-of-Un-nominated-CPF-Monies-on-18-June-2022 
+permalink: /news/press-releases/commencement-of-beneficiary-representative-approach-to-simplify-payment-of-un-nominated-cpf-monies-on-18-june-2022/ 
 
 ---
 

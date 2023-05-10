@@ -1,7 +1,7 @@
 ---
 title: 'Second reading speech by DPM Wong Kan Seng on the Constitution of the Republic of Singapore (Amendment) Bill'
 date: 2010-04-26T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-dpm-wong-kan-seng-on-the-constitution-of-the-republic-of-singapore
+permalink: /news/parliamentary-speeches/second-reading-speech-by-dpm-wong-kan-seng-on-the-constitution-of-the-republic-of-singapore/
 
 ---
 

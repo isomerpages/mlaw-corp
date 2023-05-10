@@ -1,7 +1,7 @@
 ---
 title: 'Plenary Speech by Minister for Home Affairs and Minister for Law K Shanmugam SC at Tashkent Law Spring 2021'
 date: 2021-04-22
-permalink: /news/speeches/2021-04-22-Plenary-Speech-by-K-Shanmugam-at-Tashkent-Law-Spring-2021
+permalink: /news/speeches/2021-04-22-plenary-speech-by-k-shanmugam-at-tashkent-law-spring-2021/
 
 ---
 

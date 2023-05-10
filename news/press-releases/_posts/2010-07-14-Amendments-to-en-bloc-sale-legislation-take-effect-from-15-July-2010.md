@@ -1,6 +1,6 @@
 ---
 title: 'Amendments to en bloc sale legislation take effect from 15 July 2010'
-permalink: /news/press-releases/amendments-to-en-bloc-sale-legislation-take-effect-from-15-july-2010
+permalink: /news/press-releases/amendments-to-en-bloc-sale-legislation-take-effect-from-15-july-2010/
 breadcrumb: 'Press Releases'
 
 ---

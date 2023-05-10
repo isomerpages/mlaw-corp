@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Lee Wee Gee, Fined $40,000'
-permalink: /news/press-releases/errant-licensed-ML-lee-wee-gee-fined
+permalink: /news/press-releases/errant-licensed-ml-lee-wee-gee-fined/
 breadcrumb: 'Press Releases'
 
 ---

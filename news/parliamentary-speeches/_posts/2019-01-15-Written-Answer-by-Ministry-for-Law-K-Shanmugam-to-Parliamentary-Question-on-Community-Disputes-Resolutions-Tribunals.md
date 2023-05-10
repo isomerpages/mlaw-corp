@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Question on Community Disputes Resolutions Tribunals'
-permalink: /news/parliamentary-speeches/written-answer-by-Minister-for-Law-KShanmugam-to-Parliamentary-Question-on-CDRT
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-kshanmugam-to-parliamentary-question-on-cdrt/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

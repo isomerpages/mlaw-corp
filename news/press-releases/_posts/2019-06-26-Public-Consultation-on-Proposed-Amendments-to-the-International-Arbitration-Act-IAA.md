@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the International Arbitration Act (“IAA”)'
 date: 2019-06-26T00:00:00.000Z
-permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendments-to-the-International-Arbitration-Act
+permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-the-international-arbitration-act/
 
 ---
 

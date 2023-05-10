@@ -1,6 +1,6 @@
 ---
 title: 'Proposal to introduce a new Moneylenders Bill 2008'
-permalink: /news/press-releases/proposal-to-introduce-a-new-moneylenders-bill-2008
+permalink: /news/press-releases/proposal-to-introduce-a-new-moneylenders-bill-2008/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Skyline Credit, Fined'
-permalink: /news/press-releases/errant-licensed-moneylender--skyline-credit--fined
+permalink: /news/press-releases/errant-licensed-moneylender--skyline-credit--fined/
 breadcrumb: 'Press Releases'
 
 ---

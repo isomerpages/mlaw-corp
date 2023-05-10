@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Streamlining Process of Making Simple Wills
 date: 2021-05-11
-permalink: /news/parliamentary-speeches/2021-05-11-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Streamlining-Process-of-Making-Simple-Wills
+permalink: /news/parliamentary-speeches/2021-05-11-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-streamlining-process-of-making-simple-wills/
 ---
 
 11 May 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

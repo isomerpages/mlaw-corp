@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on TOLs 
 date: 2021-03-03
-permalink: /news/parliamentary-speeches/2021-03-03-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-TOLs
+permalink: /news/parliamentary-speeches/2021-03-03-oral-answer-by-2m-edwin-tong-to-pq-on-tols/
 
 ---
  

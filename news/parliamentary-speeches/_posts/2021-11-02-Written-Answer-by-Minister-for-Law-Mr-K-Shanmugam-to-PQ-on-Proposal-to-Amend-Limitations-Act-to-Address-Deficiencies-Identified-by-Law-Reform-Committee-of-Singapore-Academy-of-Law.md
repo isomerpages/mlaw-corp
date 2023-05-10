@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Proposal to Amend Limitation Act to Address Deficiencies Identified by Law Reform Committee of Singapore Academy of Law
 date: 2021-11-02
-permalink: /news/parliamentary-speeches/2021-11-02-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Proposal-to-Amend-Limitations-Act-to-Address-Deficiencies-Identified-by-Law-Reform-Committee-of-Singapore-Academy-of-Law
+permalink: /news/parliamentary-speeches/2021-11-02-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-proposal-to-amend-limitations-act-to-address-deficiencies-identified-by-law-reform-committee-of-singapore-academy-of-law/
 ---
 
 02 November 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Overseas Scheduled Universities Review'
 date: 2015-03-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-to-pq-on-osu-review
+permalink: /news/parliamentary-speeches/written-answer-by-minister-to-pq-on-osu-review/
 
 ---
 

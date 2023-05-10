@@ -1,6 +1,6 @@
 ---
 title: 'Errant Moneylenders Prosecuted - Press release'
-permalink: /news/press-releases/errant-moneylenders-prosecuted-press-release
+permalink: /news/press-releases/errant-moneylenders-prosecuted-press-release/
 breadcrumb: 'Press Releases'
 
 ---

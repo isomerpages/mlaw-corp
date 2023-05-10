@@ -1,6 +1,6 @@
 ---
 title: 'Anti-Counterfeiting Trade Agreement Signing Ceremony'
-permalink: /news/press-releases/anti-counterfeiting-trade-agreement-signing-ceremony
+permalink: /news/press-releases/anti-counterfeiting-trade-agreement-signing-ceremony/
 breadcrumb: 'Press Releases'
 
 ---

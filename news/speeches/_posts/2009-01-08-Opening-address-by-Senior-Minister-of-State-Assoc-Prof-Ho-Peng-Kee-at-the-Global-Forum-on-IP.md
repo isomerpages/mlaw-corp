@@ -1,6 +1,6 @@
 ---
 title: 'Opening address by Senior Minister of State Assoc Prof Ho Peng Kee at the Global Forum on IP'
-permalink: /news/speeches/opening-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-global-forum-on-ip
+permalink: /news/speeches/opening-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-global-forum-on-ip/
 breadcrumb: Speeches
 
 ---

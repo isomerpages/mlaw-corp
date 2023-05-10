@@ -1,6 +1,6 @@
 ---
 title: 'Information on applications for second round of Qualifying Foreign Law Practice (QFLP) licences'
-permalink: /news/press-releases/information-on-applications-for-second-round-of-qualifying-foreign-law-practice-qflp-licences
+permalink: /news/press-releases/information-on-applications-for-second-round-of-qualifying-foreign-law-practice-qflp-licences/
 breadcrumb: 'Press Releases'
 
 ---

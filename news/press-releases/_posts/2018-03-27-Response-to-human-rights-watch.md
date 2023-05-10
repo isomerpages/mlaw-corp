@@ -1,6 +1,6 @@
 ---
 title: 'Response to Human Rights Watch'
-permalink: /news/press-releases/minlaw-response-to-human-rights-watch
+permalink: /news/press-releases/minlaw-response-to-human-rights-watch/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Law Minister K Shanmugam on the Legal Profession (Amendment) Bill 2009'
 date: 2009-08-18T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-the-legal-profession-amendment-bill-2009
+permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-the-legal-profession-amendment-bill-2009/
 
 ---
 

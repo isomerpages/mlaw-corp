@@ -1,6 +1,6 @@
 ---
 title: 'Developing Singapore as an Asian IP Hub: Formation of Sub-Committees & call for feedback and suggestions'
-permalink: /news/press-releases/developing-singapore-as-an-asian-ip-hub-formation-of-sub-committees-call-for-feedback-and
+permalink: /news/press-releases/developing-singapore-as-an-asian-ip-hub-formation-of-sub-committees-call-for-feedback-and/
 breadcrumb: 'Press Releases'
 
 ---

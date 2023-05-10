@@ -1,6 +1,6 @@
 ---
 title: 'Speech By Senior Minister Of State for Law and Education, Indranee Rajah, at the Community Mediation Centre’s 15th Year Anniversary Celebrations, Mediators’ Appointment Ceremony And Appreciation Dinner'
-permalink: /news/speeches/speech-by-sms-at-cmc-anniversary-dinner
+permalink: /news/speeches/speech-by-sms-at-cmc-anniversary-dinner/
 breadcrumb: Speeches
 
 ---

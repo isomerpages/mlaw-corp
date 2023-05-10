@@ -1,6 +1,6 @@
 ---
 title: 'Remarks by DPM Prof S Jayakumar at Press Conference on Award of Integrated Resort at Sentosa, 8 Dec'
-permalink: /news/speeches/remarks-by-dpm-prof-s-jayakumar-at-press-conference-on-award-of-integrated-resort-at-sentosa-8-dec
+permalink: /news/speeches/remarks-by-dpm-prof-s-jayakumar-at-press-conference-on-award-of-integrated-resort-at-sentosa-8-dec/
 breadcrumb: Speeches
 
 ---

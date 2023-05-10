@@ -1,6 +1,6 @@
 ---
 title: 'Controls on Costs to Offer Borrowers More Protection Now in Force'
-permalink: /news/press-releases/controls-on-costs-to-offer-borrowers-more-protection-now-in-forc
+permalink: /news/press-releases/controls-on-costs-to-offer-borrowers-more-protection-now-in-forc/
 breadcrumbs: 'Press Releases'
 
 ---

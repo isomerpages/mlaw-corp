@@ -2,7 +2,7 @@
 layout: post
 title: Response to Public Feedback on the Civil Justice Reforms 
 date: 2021-06-11
-permalink: /news/press-releases/2021-06-11-Response-to-Public-Feedback-on-the-Civil-Justice-Reforms 
+permalink: /news/press-releases/2021-06-11-response-to-public-feedback-on-the-civil-justice-reforms/ 
 ---
 
 11 Jun 2021 Posted in [Press releases](/news/press-releases)

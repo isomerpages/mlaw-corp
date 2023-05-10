@@ -1,6 +1,6 @@
 ---
 title: 'Launch of Enhanced Online Information Platform on Bankruptcy Matters for Bankrupts and Creditors - Press Release'
-permalink: /news/press-releases/launch-of-enhanced-online-information-platform-on-bankruptcy-matters-for-bankrupts-and-creditors
+permalink: /news/press-releases/launch-of-enhanced-online-information-platform-on-bankruptcy-matters-for-bankrupts-and-creditors/
 breadcrumb: 'Press Releases'
 
 ---

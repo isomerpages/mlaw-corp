@@ -1,7 +1,7 @@
 ---
 title: 'Alert: Suspicious Emails received by law firms'
 date: 2017-03-06T00:00:00.000Z
-permalink: /news/announcements/alert--suspicious-emails-received-by-law-firms
+permalink: /news/announcements/alert--suspicious-emails-received-by-law-firms/
 
 ---
 

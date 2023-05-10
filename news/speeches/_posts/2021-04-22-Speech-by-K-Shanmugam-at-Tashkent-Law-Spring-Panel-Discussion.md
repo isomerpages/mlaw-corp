@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Home Affairs and Minister for Law K Shanmugam SC at Tashkent Law Spring Panel Discussion'
 date: 2021-04-22
-permalink: /news/speeches/2021-04-22-Speech-by-K-Shanmugam-at-Tashkent-Law-Spring-Panel-Discussion
+permalink: /news/speeches/2021-04-22-speech-by-k-shanmugam-at-tashkent-law-spring-panel-discussion/
 
 ---
 

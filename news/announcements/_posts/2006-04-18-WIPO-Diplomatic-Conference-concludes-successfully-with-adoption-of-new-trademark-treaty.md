@@ -1,7 +1,7 @@
 ---
 title: 'WIPO Diplomatic Conference concludes successfully with adoption of new trademark treaty'
 date: 2006-04-18T00:00:00.000Z
-permalink: /news/announcements/wipo-diplomatic-conference-concludes-successfully-with-adoption-of-new-trademark-treaty-named-after
+permalink: /news/announcements/wipo-diplomatic-conference-concludes-successfully-with-adoption-of-new-trademark-treaty-named-after/
 
 ---
 

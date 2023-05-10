@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Proposed Reforms to Investor-state Arbitration Regime'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar9
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar9/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Closing Speech by Ms Lai Wei Lin, Permanent Secretary for Law and 2nd Permanent Secretary for Education, at the Closing Ceremony of SMU Legal Innovation and Technology (LIT) Hackathon'
 date: 2021-08-15
-permalink: /news/speeches/2021-08-15-Closing-Speech-by-Ms-Lai-Wei-Lin-at-the-closing-ceremony-of-SMU-LIT-Hackathon
+permalink: /news/speeches/2021-08-15-closing-speech-by-ms-lai-wei-lin-at-the-closing-ceremony-of-smu-lit-hackathon/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Singapore Treaty on the Law of Trademarks to enter into force in 2009'
-permalink: /news/press-releases/singapore-treaty-on-the-law-of-trademarks-to-enter-into-force-in-2009
+permalink: /news/press-releases/singapore-treaty-on-the-law-of-trademarks-to-enter-into-force-in-2009/
 breadcrumb: 'Press Releases'
 
 ---

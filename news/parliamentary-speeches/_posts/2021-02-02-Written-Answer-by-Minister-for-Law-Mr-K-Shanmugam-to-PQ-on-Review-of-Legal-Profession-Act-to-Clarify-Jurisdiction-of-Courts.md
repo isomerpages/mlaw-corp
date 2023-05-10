@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Review of Legal Profession Act to Clarify Jurisdiction of the Courts and Routes of Reviews and Appeals
 date: 2021-02-02
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Review-of-Legal-Profession-Act-to-Clarify-Jurisdiction-of-Courts
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-review-of-legal-profession-act-to-clarify-jurisdiction-of-courts/
 
 ---
 

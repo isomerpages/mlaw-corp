@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah S.C., to Parliamentary Question on Investigation of Keppel Offshore and Marine Ltd (KOM)'
-permalink: /news/parliamentary-speeches/oral-answer-sms-indranee-parliamentary-question-KOM-investigation
+permalink: /news/parliamentary-speeches/oral-answer-sms-indranee-parliamentary-question-kom-investigation/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

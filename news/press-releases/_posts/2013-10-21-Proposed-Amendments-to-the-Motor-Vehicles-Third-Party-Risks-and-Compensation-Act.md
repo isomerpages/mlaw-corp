@@ -1,6 +1,6 @@
 ---
 title: 'Proposed Amendments to the Motor Vehicles (Third-Party Risks and Compensation) Act'
-permalink: /news/press-releases/amendments-mv-act
+permalink: /news/press-releases/amendments-mv-act/
 breadcrumb: 'Press Releases'
 
 ---

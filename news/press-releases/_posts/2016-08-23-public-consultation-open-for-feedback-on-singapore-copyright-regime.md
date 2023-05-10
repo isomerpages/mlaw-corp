@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation Open for Feedback on Singapore’s Copyright Regime'
-permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-re
+permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-re/
 breadcrumb: 'Press Releases'
 
 ---

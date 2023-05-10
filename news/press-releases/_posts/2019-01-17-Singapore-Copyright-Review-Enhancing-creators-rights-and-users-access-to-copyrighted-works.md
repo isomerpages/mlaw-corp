@@ -1,7 +1,7 @@
 ---
 title: 'Singapore Copyright Review – Enhancing Creators’ Rights and Users’ Access to Copyrighted Works'
 date: 2019-01-17T00:00:00.000Z
-permalink: /news/press-releases/singapore-copyright-review-report-2019
+permalink: /news/press-releases/singapore-copyright-review-report-2019/
 breadcrumb: 'Press Releases'
 
 ---

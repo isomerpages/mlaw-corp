@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Recourse for Companies Whose Payments are Withheld
 date: 2020-10-06
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Recourse-for-Companies-Whose-Payments-are-Withheld
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-recourse-for-companies-whose-payments-are-withheld/
 ---
 
 06 Oct 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

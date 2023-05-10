@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Permanent Secretary Mr Pang Kin Keong at the “Alternatives to Litigation in a Civil Society” conference in Dublin, Ireland'
-permalink: /news/speeches/speech-by-permanent-secretary-mr-pang-kin-keong-at-the-alternatives-to-litigation-in-a-civil
+permalink: /news/speeches/speech-by-permanent-secretary-mr-pang-kin-keong-at-the-alternatives-to-litigation-in-a-civil/
 breadcrumb: Speeches
 
 ---

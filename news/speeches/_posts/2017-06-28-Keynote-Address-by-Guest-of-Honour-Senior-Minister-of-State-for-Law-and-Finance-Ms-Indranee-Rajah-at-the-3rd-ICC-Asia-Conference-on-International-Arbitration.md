@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Guest of Honour Senior Minister of State for Law and Finance Ms Indranee Rajah at the 3rd ICC Asia Conference on International Arbitration'
-permalink: /news/speeches/keynote-address-by-guest-of-honour-senior-minister-of-state-for-
+permalink: /news/speeches/keynote-address-by-guest-of-honour-senior-minister-of-state-for-/
 breadcrumb: Speeches
 
 ---

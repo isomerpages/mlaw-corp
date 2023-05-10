@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation Open for Feedback on Proposed Changes to the Trustees Act'
-permalink: /news/press-releases/public-consultation-open-for-feedback-on-proposed-changes-to-the
+permalink: /news/press-releases/public-consultation-open-for-feedback-on-proposed-changes-to-the/
 breadcrumb: 'Press Releases'
 
 ---

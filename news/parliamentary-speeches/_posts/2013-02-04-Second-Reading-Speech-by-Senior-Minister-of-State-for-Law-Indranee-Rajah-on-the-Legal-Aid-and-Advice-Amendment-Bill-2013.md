@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah, on the Legal Aid and Advice (Amendment) Bill 2013'
 date: 2013-02-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--ms-in
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--ms-in/
 
 ---
 

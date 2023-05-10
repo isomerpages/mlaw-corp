@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Land Acquisition (Amendment) Bill by DPM Prof S Jayakumar, 11 Apr 2007'
 date: 2007-04-11T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-land-acquisition-amendment-bill-by-dpm-prof-s-jayakumar-11-apr-2007
+permalink: /news/parliamentary-speeches/second-reading-speech-on-land-acquisition-amendment-bill-by-dpm-prof-s-jayakumar-11-apr-2007/
 
 ---
 

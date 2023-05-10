@@ -1,6 +1,6 @@
 ---
 title: 'Volunteers recognised for their contributions at the Ministry of Law''s Appreciation Dinner 2012'
-permalink: /news/press-releases/volunteers-recognised-for-their-contributions-at-the-ministry-of-law-s-appreciation-dinner-2012
+permalink: /news/press-releases/volunteers-recognised-for-their-contributions-at-the-ministry-of-law-s-appreciation-dinner-2012/
 breadcrumb: 'Press Releases'
 
 ---

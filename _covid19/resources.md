@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /covid19-relief/resources
+permalink: /covid19-relief/resources/
 breadcrumb: Resources
 
 ---
@@ -34,7 +34,7 @@ For the full text of the relevant legislation, please click on the following lin
 
 #### COVID-19 (Temporary Measures) (Amendment) Act 2020 ####
 
-For an overview of the Rental Relief Framework, please click [here](/covid19-relief/rental-relief-framework-for-SMEs).
+For an overview of the Rental Relief Framework, please click [here](/covid19-relief/rental-relief-framework-for-smes).
 
 For an overview of the relief for tenants who are unable to vacate their business premises, please click [here](/covid19-relief/relief-for-tenants-unable-to-vacate-premises).
 

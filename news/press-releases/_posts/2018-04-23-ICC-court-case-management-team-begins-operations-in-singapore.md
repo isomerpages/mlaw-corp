@@ -1,6 +1,6 @@
 ---
 title: 'ICC Court Case Management Team Begins Operations in Singapore'
-permalink: /news/press-releases/icc-court-case-management-team-begins-operations-in-singapore
+permalink: /news/press-releases/icc-court-case-management-team-begins-operations-in-singapore/
 breadcrumb: 'Press Releases'
 
 ---

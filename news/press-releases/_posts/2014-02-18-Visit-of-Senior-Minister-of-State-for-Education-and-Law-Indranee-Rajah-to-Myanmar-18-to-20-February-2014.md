@@ -1,6 +1,6 @@
 ---
 title: 'Visit of Senior Minister of State for Education and Law Indranee Rajah to Myanmar, 18 to 20 February 2014'
-permalink: /news/press-releases/visit-of-SMS-to-myanmar-2014
+permalink: /news/press-releases/visit-of-sms-to-myanmar-2014/
 breadcrumb: 'Press Releases'
 
 ---

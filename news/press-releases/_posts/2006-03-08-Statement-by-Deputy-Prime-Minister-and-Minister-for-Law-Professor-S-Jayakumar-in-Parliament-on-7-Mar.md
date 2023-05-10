@@ -1,6 +1,6 @@
 ---
 title: 'Statement by Deputy Prime Minister and Minister for Law Professor S Jayakumar in Parliament on 7 Mar'
-permalink: /news/press-releases/statement-by-deputy-prime-minister-and-minister-for-law-professor-s-jayakumar-in-parliament-on-7-mar
+permalink: /news/press-releases/statement-by-deputy-prime-minister-and-minister-for-law-professor-s-jayakumar-in-parliament-on-7-mar/
 breadcrumb: 'Press Releases'
 
 ---

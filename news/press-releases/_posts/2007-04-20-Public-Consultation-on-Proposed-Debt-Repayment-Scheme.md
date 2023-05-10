@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Debt Repayment Scheme'
-permalink: /news/press-releases/public-consultation-on-proposed-debt-repayment-scheme
+permalink: /news/press-releases/public-consultation-on-proposed-debt-repayment-scheme/
 breadcrumb: 'Press Releases'
 
 ---

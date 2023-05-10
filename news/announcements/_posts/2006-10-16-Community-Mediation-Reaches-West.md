@@ -1,7 +1,7 @@
 ---
 title: 'Community Mediation Reaches West'
 date: 2006-10-16T00:00:00.000Z
-permalink: /news/announcements/community-mediation-reaches-west
+permalink: /news/announcements/community-mediation-reaches-west/
 
 ---
 

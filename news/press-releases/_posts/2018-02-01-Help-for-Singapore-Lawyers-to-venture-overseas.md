@@ -1,6 +1,6 @@
 ---
 title: 'Help for Singapore Lawyers to Venture Overseas'
-permalink: /news/press-releases/help-for-singapore-lawyers-to-venture-overseas
+permalink: /news/press-releases/help-for-singapore-lawyers-to-venture-overseas/
 breadcrumb: 'Press Releases'
 
 ---

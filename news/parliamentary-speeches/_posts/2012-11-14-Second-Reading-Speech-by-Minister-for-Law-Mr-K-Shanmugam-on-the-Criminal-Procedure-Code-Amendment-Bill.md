@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Minister for Law, Mr K Shanmugam, on the Criminal Procedure Code (Amendment) Bill'
 date: 2012-11-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law--mr-k-shanmugam--on-th0
+permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law--mr-k-shanmugam--on-th0/
 
 ---
 

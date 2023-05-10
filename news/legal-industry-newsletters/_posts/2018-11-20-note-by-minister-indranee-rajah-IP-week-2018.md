@@ -1,6 +1,6 @@
 ---
 title: 'Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018'
-permalink: /news/legal-industry-newsletter/note-by-minister-indranee-rajah-IP-week-2018/
+permalink: /news/legal-industry-newsletter/note-by-minister-indranee-rajah-ip-week-2018/
 breadcrumb: 'Note by Minister Indranee Rajah on Opening Address at IP Week @ SG 2018'
 
 ---
@@ -21,7 +21,7 @@ In today’s economy, the success of companies is increasingly built on intangib
 Second Minister for Finance and Education, Indranee Rajah, S.C.spoke about the importance of intangible assets at IP Week @ SG 2018. This Note highlights the key points of her speech, as well as schemes available to support companies looking to better use their IP and intangible assets in order to grow and maintain their competitive edge.
 
 <div class="image">
-  <a href="/files/NoteonOpeningAddressatIPWeekSG2018.pdf/"><img src="/images/1543300470682.jpg/" title="Opening address on IP weeks" alt="Opening address on IP weeks"></a>
+  <a href="/files/NoteonOpeningAddressatIPWeekSG2018.pdf"><img src="/images/1543300470682.jpg/" title="Opening address on IP weeks" alt="Opening address on IP weeks"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 27 Nov 2018</p>

@@ -1,7 +1,7 @@
 ---
 title: 'Maxwell Chambers Suites Officially Opens Today Giving Yet Another Boost to Singapore’s Legal Hub Position'
 date: 2019-08-08T00:00:00.000Z
-permalink: /news/press-releases/Maxwell-Chambers-Suites-Officially-Opens-Today-Giving-Yet-Another-Boost-to-Singapore-Legal-Hub-Position
+permalink: /news/press-releases/maxwell-chambers-suites-officially-opens-today-giving-yet-another-boost-to-singapore-legal-hub-position/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Moneylenders Act 2008 - Press Release'
-permalink: /news/press-releases/moneylenders-act-2008-press-release
+permalink: /news/press-releases/moneylenders-act-2008-press-release/
 breadcrumb: 'Press Releases'
 
 ---

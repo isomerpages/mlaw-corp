@@ -1,6 +1,6 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the International Arbitration Act'
-permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-international-arbitration-act
+permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-international-arbitration-act/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the International Commercial and Legal Cooperation Forum 2021'
 date: 2021-12-15
-permalink: /news/speeches/2021-12-15-Speech-by-Edwin-Tong-International-Commercial-and-Legal-Cooperation-Forum-2021
+permalink: /news/speeches/2021-12-15-speech-by-edwin-tong-international-commercial-and-legal-cooperation-forum-2021/
 ---
 
 15 Dec 2021 Posted in [[Speeches](/news/speeches)]

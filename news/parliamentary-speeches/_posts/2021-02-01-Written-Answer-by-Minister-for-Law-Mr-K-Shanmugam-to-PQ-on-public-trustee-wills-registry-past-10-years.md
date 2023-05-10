@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Number of Wills Registered with Public Trustee’s Wills Registry Annually for Past 10 Years Before and After Implementation of Registration Fees 
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-public-trustee-wills-registry-past-10-years
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-public-trustee-wills-registry-past-10-years/
 
 ---
 

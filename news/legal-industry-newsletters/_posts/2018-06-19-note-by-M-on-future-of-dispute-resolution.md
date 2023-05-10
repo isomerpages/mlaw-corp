@@ -1,6 +1,6 @@
 ---
 title: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Future of Dispute Resolution'
-permalink: /news/legal-industry-newsletter/note-by-M-on-future-of-dispute-resolution/
+permalink: /news/legal-industry-newsletter/note-by-m-on-future-of-dispute-resolution/
 breadcrumb: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Future of Dispute Resolution'
 
 ---
@@ -25,7 +25,7 @@ With the growth of Asia, there are many more opportunities for Singapore and the
 This Note outlines the key messages of the Opening Address, including how Singapore and the dispute resolution community can position themselves to seize new opportunities in the future, and work together to take dispute resolution in Singapore to even greater heights.
 
 <div class="image">
-  <a href="/files/NoteonFutureofDisputeResolution.pdf/"><img src="/images/1529391755383.jpg/" title="note on future of dispute resolution" alt="note on future of dispute resolution"></a>
+  <a href="/files/NoteonFutureofDisputeResolution.pdf"><img src="/images/1529391755383.jpg/" title="note on future of dispute resolution" alt="note on future of dispute resolution"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 19 Jun 2018</p>

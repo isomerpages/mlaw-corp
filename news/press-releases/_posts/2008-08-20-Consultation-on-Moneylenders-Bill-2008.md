@@ -1,6 +1,6 @@
 ---
 title: 'Consultation on Moneylenders Bill 2008'
-permalink: /news/press-releases/consultation-on-moneylenders-bill-2008
+permalink: /news/press-releases/consultation-on-moneylenders-bill-2008/
 breadcrumb: 'Press Releases'
 
 ---

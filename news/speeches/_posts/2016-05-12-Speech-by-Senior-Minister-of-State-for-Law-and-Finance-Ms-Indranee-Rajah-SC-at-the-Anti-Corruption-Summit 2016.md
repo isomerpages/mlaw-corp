@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law and Finance, Ms Indranee Rajah S.C., at the Anti-Corruption Summit 2016'
-permalink: /news/speeches/speech-by-senior-minister-of-state-for-law-and-finance--ms-indra
+permalink: /news/speeches/speech-by-senior-minister-of-state-for-law-and-finance--ms-indra/
 breadcrumb: Speeches
 
 ---

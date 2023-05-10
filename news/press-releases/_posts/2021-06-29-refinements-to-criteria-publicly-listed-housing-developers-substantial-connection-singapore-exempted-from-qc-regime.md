@@ -2,7 +2,7 @@
 layout: post
 title: Refinements to Criteria for Publicly Listed Housing Developers with Substantial Connection to Singapore to be Exempted from Qualifying Certificate Regime
 date: 2021-06-29
-permalink: /news/press-releases/2021-06-29-refinements-to-criteria-publicly-listed-housing-developers-substantial-connection-singapore-exempted-from-qc-regime
+permalink: /news/press-releases/2021-06-29-refinements-to-criteria-publicly-listed-housing-developers-substantial-connection-singapore-exempted-from-qc-regime/
 ---
 
 29 Jun 2021 Posted in [Press releases](/news/press-releases)

@@ -1,6 +1,6 @@
 ---
 title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on Riding The Winds of Change The Future of Singapore’s Lawyers and the Law'
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c/
 
 ---
 o1/

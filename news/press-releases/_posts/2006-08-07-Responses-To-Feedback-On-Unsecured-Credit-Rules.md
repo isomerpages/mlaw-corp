@@ -1,6 +1,6 @@
 ---
 title: 'Responses To Feedback On Unsecured Credit Rules'
-permalink: /news/press-releases/responses-to-feedback-on-unsecured-credit-rules
+permalink: /news/press-releases/responses-to-feedback-on-unsecured-credit-rules/
 
 ---
 

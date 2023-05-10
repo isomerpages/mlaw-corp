@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, at the Singapore Institute of Arbitrators'' 35th Anniversary Annual Dinner'
-permalink: /news/speeches/opening-address-by-indranee-rajah-s-c
+permalink: /news/speeches/opening-address-by-indranee-rajah-s-c/
 
 ---
 senior-minister-of-state

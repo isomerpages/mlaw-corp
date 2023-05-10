@@ -1,6 +1,6 @@
 ---
 title: 'Factsheet on Singapore’s Participation in Belt and Road Initiative (BRI) Forum in Xi’an'
-permalink: /news/press-releases/factsheet-on-SG-participation-in-BRI-Forum-Xian
+permalink: /news/press-releases/factsheet-on-sg-participation-in-bri-forum-xian/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Opening address by Permanent Secretary Dr Beh Swan Gin at the Regional Insolvency Conference 2012'
-permalink: /news/speeches/opening-address-by-permanent-secretary-dr-beh-swan-gin-at-the-regional-insolvency-conference-2012
+permalink: /news/speeches/opening-address-by-permanent-secretary-dr-beh-swan-gin-at-the-regional-insolvency-conference-2012/
 breadcrumb: Speeches
 
 ---

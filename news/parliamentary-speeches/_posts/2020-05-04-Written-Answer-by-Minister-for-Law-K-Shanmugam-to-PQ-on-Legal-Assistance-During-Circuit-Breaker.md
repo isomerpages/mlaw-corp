@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Legal Assistance Available During Circuit Breaker'
 date: 2020-05-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Legal-Assistance-During-Circuit-Breaker
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-legal-assistance-during-circuit-breaker/
 
 ---
 

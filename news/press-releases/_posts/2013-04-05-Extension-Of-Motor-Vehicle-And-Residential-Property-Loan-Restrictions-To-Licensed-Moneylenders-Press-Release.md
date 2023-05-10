@@ -1,6 +1,6 @@
 ---
 title: 'Extension Of Motor Vehicle And Residential Property Loan Restrictions To Licensed Moneylenders - Press Release'
-permalink: /news/press-releases/extension-of-motor-vehicle-and-residential-property-loan-restric
+permalink: /news/press-releases/extension-of-motor-vehicle-and-residential-property-loan-restric/
 breadcrumb: 'Press Releases'
 
 ---

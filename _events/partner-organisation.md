@@ -1,6 +1,6 @@
 ---
 title: 'Partner Organisation'
-permalink: /events/event_1/partner-organisation
+permalink: /events/event_1/partner-organisation/
 breadcrumb: 'Partner Organisation'
 
 ---

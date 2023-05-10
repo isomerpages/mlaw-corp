@@ -1,6 +1,6 @@
 ---
 title: 'Responses to feedback received from the second public consultation on safeguarding conveyancing money'
-permalink: /news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing
+permalink: /news/announcements/responses-to-feedback-received-from-the-second-public-consultation-on-safeguarding-conveyancing/
 breadcrumb: Announcements
 
 ---

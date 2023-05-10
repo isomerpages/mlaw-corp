@@ -1,7 +1,7 @@
 ---
 title: 'Statement on the High Court (Admiralty Jurisdiction) (Amendment) Bill'
 date: 2020-05-04T00:00:00.000Z
-permalink: /news/press-releases/statement-on-the-high-court-admiralty-jurisdiction-amendment-bill
+permalink: /news/press-releases/statement-on-the-high-court-admiralty-jurisdiction-amendment-bill/
 
 ---
 

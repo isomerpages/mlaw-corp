@@ -1,7 +1,7 @@
 ---
 title: Response to Public Feedback on the Civil Justice Reforms
 date: 2021-06-11
-permalink: /news/public-consultations/Response-to-Public-Feedback-on-the-Civil-Justice-Reforms
+permalink: /news/public-consultations/response-to-public-feedback-on-the-civil-justice-reforms/
 ---
 
 {:start="1"}

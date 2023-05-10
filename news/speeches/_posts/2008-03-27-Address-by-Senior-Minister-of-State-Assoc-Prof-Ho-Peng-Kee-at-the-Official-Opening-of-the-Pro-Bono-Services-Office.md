@@ -1,6 +1,6 @@
 ---
 title: 'Address by Senior Minister of State Assoc Prof Ho Peng Kee at the Official Opening of the Pro Bono Services Office'
-permalink: /news/speeches/address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-official-opening-of-the-pro-bono
+permalink: /news/speeches/address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-the-official-opening-of-the-pro-bono/
 breadcrumb: Speeches
 
 ---

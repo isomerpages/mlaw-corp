@@ -1,6 +1,6 @@
 ---
 title: 'Appointment of new Chief Executive, Singapore Land Authority'
-permalink: /news/press-releases/new-sla-chief-executive
+permalink: /news/press-releases/new-sla-chief-executive/
 breadcrumb: 'Press Releases'
 
 ---

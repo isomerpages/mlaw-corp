@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Statistics on Successful Applications for Simplified Debt Restructuring Programme and Simplified Winding Up Programme as at 28 July 2021
 date: 2021-09-13
-permalink: /news/parliamentary-speeches/2021-09-13-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Statistics-on-Successful-Applications-for-Simplified-Debt-Restructuring-Programme-and-Simplified-Winding-Up-Programme-as-at-28-July-2021
+permalink: /news/parliamentary-speeches/2021-09-13-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-statistics-on-successful-applications-for-simplified-debt-restructuring-programme-and-simplified-winding-up-programme-as-at-28-july-2021/
 ---
 
 13 September 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation On Community Dispute Resolution Tribunals'
-permalink: /news/press-releases/public-consultation-on-community-dispute-resolution-tribunals
+permalink: /news/press-releases/public-consultation-on-community-dispute-resolution-tribunals/
 breadcrumb: 'Press Releases'
 
 ---

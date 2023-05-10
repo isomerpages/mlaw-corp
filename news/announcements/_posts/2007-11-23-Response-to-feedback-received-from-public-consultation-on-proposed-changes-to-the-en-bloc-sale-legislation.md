@@ -1,6 +1,6 @@
 ---
 title: 'Response to feedback received from public consultation on proposed changes to the en bloc sale legislation'
-permalink: /news/announcements/response-to-feedback-received-from-public-consultation-on-proposed-changes-to-the-en-bloc-sale
+permalink: /news/announcements/response-to-feedback-received-from-public-consultation-on-proposed-changes-to-the-en-bloc-sale/
 breadcrumb: Announcements
 
 ---

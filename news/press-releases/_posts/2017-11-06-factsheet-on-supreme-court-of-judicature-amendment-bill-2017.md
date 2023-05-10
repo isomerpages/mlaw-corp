@@ -1,6 +1,6 @@
 ---
 title: 'Factsheet on Supreme Court of Judicature (Amendment) Bill 2017'
-permalink: /news/press-releases/factsheet-supreme-court-judicature-bill-2017
+permalink: /news/press-releases/factsheet-supreme-court-judicature-bill-2017/
 breadcrumb: 'Press Releases'
 
 ---

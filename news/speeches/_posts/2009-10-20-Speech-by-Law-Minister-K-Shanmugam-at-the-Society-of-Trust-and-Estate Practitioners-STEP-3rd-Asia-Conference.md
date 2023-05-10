@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Society of Trust and Estate Practitioners'' (STEP) 3rd Asia Conference'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-society-of-trust-and-estate-practitioners-step-3rd
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-society-of-trust-and-estate-practitioners-step-3rd/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Commencement of Legislative Amendments Relating to Debt Restructuring and Corporate Rescue in the Companies Act'
-permalink: /news/press-releases/commencement-of-legislative-amendments-relating-to-debt-restruct
+permalink: /news/press-releases/commencement-of-legislative-amendments-relating-to-debt-restruct/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: MinLaw & IPOS Seek Feedback on Subsidiary Legislation on Regulation of CMOs
-permalink: /news/press-releases/MinLaw-IPOS-Seek-Feedback-on-Subsidiary-Legislation-on-Regulation-of-CMOs/
+permalink: /news/press-releases/minlaw-ipos-seek-feedback-on-subsidiary-legislation-on-regulation-of-cmos/
 date: 2022-11-07
 layout: post
 description: ""

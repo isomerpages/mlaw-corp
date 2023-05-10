@@ -1,7 +1,7 @@
 ---
 title: 'Singapore and Fiji are the First Two Countries to Deposit the Instrument of Ratification of the Singapore Convention on Mediation'
 date: 2020-02-26T00:00:00.000Z
-permalink: /news/press-releases/Singapore-and-Fiji-are-the-First-Two-Countries-to-Deposit-the-Instrument-of-Ratification-of-the-Singapore-Convention-on-Mediation
+permalink: /news/press-releases/singapore-and-fiji-are-the-first-two-countries-to-deposit-the-instrument-of-ratification-of-the-singapore-convention-on-mediation/
 
 ---
 

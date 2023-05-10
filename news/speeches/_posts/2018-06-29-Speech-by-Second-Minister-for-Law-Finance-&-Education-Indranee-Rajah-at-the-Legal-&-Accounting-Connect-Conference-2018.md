@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Second Minister for Law, Finance & Education, Indranee Rajah, at the Legal & Accounting Connect Conference 2018'
-permalink: /news/speeches/speech-by-2M-indranee-rajah-legal-accounting-connect-conference-2018
+permalink: /news/speeches/speech-by-2m-indranee-rajah-legal-accounting-connect-conference-2018/
 breadcrumb: Speeches
 
 ---

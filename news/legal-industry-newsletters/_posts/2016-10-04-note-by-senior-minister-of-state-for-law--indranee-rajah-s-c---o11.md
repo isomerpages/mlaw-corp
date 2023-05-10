@@ -1,6 +1,6 @@
 ---
 title: 'Note by Senior Minister of State for Law, Indranee Rajah S.C., on the Choice of Court Agreements Act - Commencement'
-permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c
+permalink: /news/legal-industry-newsletter/note-by-senior-minister-of-state-for-law--indranee-rajah-s-c/
 
 ---
 o11/

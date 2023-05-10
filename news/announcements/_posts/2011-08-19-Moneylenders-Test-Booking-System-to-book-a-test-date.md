@@ -1,7 +1,7 @@
 ---
 title: 'Moneylenders Test Booking System to book a test date'
 date: 2011-08-19T00:00:00.000Z
-permalink: /news/announcements/moneylenders-test-booking-system-to-book-a-test-date
+permalink: /news/announcements/moneylenders-test-booking-system-to-book-a-test-date/
 
 ---
 

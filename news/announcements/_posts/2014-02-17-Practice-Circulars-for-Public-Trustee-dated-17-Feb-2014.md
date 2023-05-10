@@ -1,7 +1,7 @@
 ---
 title: 'Practice Circulars for Public Trustee dated 17 Feb 2014'
 date: 2014-02-17T00:00:00.000Z
-permalink: /news/announcements/practice-circulars-for-public-trustee-dated-17-feb-2014
+permalink: /news/announcements/practice-circulars-for-public-trustee-dated-17-feb-2014/
 
 ---
 

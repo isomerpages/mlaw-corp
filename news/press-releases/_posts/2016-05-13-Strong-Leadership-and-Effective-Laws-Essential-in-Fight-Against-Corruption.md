@@ -1,6 +1,6 @@
 ---
 title: 'Strong Leadership and Effective Laws Essential in Fight Against Corruption'
-permalink: /news/press-releases/strong-leadership-and-effective-laws-essential-in-fight-against-
+permalink: /news/press-releases/strong-leadership-and-effective-laws-essential-in-fight-against-/
 breadcrumb: 'Press Releases'
 
 ---

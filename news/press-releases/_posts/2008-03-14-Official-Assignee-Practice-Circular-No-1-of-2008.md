@@ -1,6 +1,6 @@
 ---
 title: 'Official Assignee Practice Circular No. 1 of 2008'
-permalink: /news/press-releases/official-assignee-practice-circular-no-1-of-2008
+permalink: /news/press-releases/official-assignee-practice-circular-no-1-of-2008/
 breadcrumb: 'Press Releases'
 
 ---

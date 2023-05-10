@@ -1,6 +1,6 @@
 ---
 title: 'Press Release on the Moneylenders (Amendment) Bill 2006'
-permalink: /news/press-releases/press-release-on-the-moneylenders-amendment-bill-2006
+permalink: /news/press-releases/press-release-on-the-moneylenders-amendment-bill-2006/
 breadcrumb: 'Press Releases'
 
 ---

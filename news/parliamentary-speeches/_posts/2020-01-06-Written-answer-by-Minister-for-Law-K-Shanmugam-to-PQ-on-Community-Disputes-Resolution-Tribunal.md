@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on the Community Disputes Resolution Tribunal'
 date: 2020-01-06T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Community-Disputes-Resolution-Tribunal
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-community-disputes-resolution-tribunal/
 
 ---
 

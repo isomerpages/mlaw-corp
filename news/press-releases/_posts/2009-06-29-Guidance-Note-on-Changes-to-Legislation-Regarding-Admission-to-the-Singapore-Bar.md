@@ -1,6 +1,6 @@
 ---
 title: 'Guidance Note on Changes to Legislation Regarding Admission to the Singapore Bar'
-permalink: /news/press-releases/guidance-note-on-changes-to-legislation-regarding-admission-to-the-singapore-bar
+permalink: /news/press-releases/guidance-note-on-changes-to-legislation-regarding-admission-to-the-singapore-bar/
 breadcrumb: 'Press Releases'
 
 ---

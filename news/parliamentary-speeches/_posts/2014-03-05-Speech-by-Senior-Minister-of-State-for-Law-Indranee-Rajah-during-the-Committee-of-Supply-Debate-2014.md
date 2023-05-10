@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, during the Committee of Supply Debate 2014'
 date: 2014-03-05T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-sms-cos-debates-20140
+permalink: /news/parliamentary-speeches/speech-sms-cos-debates-20140/
 
 ---
 

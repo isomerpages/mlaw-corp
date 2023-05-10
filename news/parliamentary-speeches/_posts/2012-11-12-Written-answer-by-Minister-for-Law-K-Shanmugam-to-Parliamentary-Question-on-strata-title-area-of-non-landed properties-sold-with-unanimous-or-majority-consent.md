@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on strata title area of non-landed properties sold with unanimous or majority consent'
 date: 2012-11-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar0
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar0/
 
 ---
 

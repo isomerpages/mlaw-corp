@@ -2,7 +2,7 @@
 layout: post
 title:  Re-Align Framework to Renegotiate Contracts For Businesses Significantly Impacted by COVID-19
 date: 2020-11-02
-permalink: /news/press-releases/2020-11-02-re-align-framework
+permalink: /news/press-releases/2020-11-02-re-align-framework/
 ---
 
 02 Nov 2020 Posted in [Press releases](/news/press-releases)

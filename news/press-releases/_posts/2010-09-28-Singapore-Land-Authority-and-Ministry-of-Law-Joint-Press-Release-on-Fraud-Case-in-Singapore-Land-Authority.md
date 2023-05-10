@@ -1,6 +1,6 @@
 ---
 title: 'Singapore Land Authority and Ministry of Law Joint Press Release on Fraud Case in Singapore Land Authority'
-permalink: /news/press-releases/singapore-land-authority-and-ministry-of-law-joint-press-release-on-fraud-case-in-singapore-land
+permalink: /news/press-releases/singapore-land-authority-and-ministry-of-law-joint-press-release-on-fraud-case-in-singapore-land/
 breadcrumb: 'Press Releases'
 
 ---

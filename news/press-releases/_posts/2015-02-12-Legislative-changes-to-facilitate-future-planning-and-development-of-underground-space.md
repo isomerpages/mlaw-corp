@@ -1,6 +1,6 @@
 ---
 title: 'Legislative changes to facilitate future planning and development of underground space'
-permalink: /news/press-releases/legislative-changes-planning-development-underground-space
+permalink: /news/press-releases/legislative-changes-planning-development-underground-space/
 breadcrumb: 'Press Releases'
 
 ---

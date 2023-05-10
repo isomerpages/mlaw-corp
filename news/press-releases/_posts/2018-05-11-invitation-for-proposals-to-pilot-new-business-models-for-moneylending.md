@@ -1,6 +1,6 @@
 ---
 title: 'Invitation for Proposals to Pilot New Business Models for Moneylending'
-permalink: /news/press-releases/invitation-proposal-pilot-new-moneylending-business-models
+permalink: /news/press-releases/invitation-proposal-pilot-new-moneylending-business-models/
 breadcrumb: 'Press Releases'
 
 ---

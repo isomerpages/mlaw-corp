@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the Penal Code'
-permalink: /news/press-releases/Public-Consultation-on-Proposed-Amendements-to-the-Penal-Code
+permalink: /news/press-releases/public-consultation-on-proposed-amendements-to-the-penal-code/
 breadcrumb: 'Press Releases'
 
 ---

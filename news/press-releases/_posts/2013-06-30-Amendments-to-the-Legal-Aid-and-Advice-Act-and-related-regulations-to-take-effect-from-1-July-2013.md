@@ -1,6 +1,6 @@
 ---
 title: 'Amendments to the Legal Aid and Advice Act and related regulations to take effect from 1 July 2013'
-permalink: /news/press-releases/laaa-implementation-2013
+permalink: /news/press-releases/laaa-implementation-2013/
 breadcrumb: 'Press Releases'
 
 ---

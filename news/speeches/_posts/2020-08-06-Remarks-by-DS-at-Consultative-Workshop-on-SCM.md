@@ -1,7 +1,7 @@
 ---
 title: 'Remarks by DS Calvin Phua at the Consultative Workshop on Singapore Convention on Mediation on 6 August 2020'
 date: 2020-08-06T00:00:00.000Z
-permalink: /news/speeches/2020-08-06-Remarks-by-DS-at-Consultative-Workshop-on-SCM
+permalink: /news/speeches/2020-08-06-remarks-by-ds-at-consultative-workshop-on-scm/
 
 ---
 

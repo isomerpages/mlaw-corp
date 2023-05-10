@@ -1,7 +1,7 @@
 ---
 title: 'Opening Remarks by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at the International Mediation Summit 2021'
 date: 2021-09-29
-permalink: /news/speeches/2021-09-29-Opening-Remarks-by-Edwin-Tong-International-Mediation-Summit-2021
+permalink: /news/speeches/2021-09-29-opening-remarks-by-edwin-tong-international-mediation-summit-2021/
 ---
 
 29 Sep 2021 Posted in [[Speeches](/news/speeches)]

@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Mr Ng How Yue, Permanent Secretary for Law, At the 2nd National Insolvency Conference 2015'
-permalink: /news/speeches/opening-address-by-mr-ng-how-yue--permanent-secretary-for-law--a
+permalink: /news/speeches/opening-address-by-mr-ng-how-yue--permanent-secretary-for-law--a/
 breadcrumb: Speeches
 
 ---

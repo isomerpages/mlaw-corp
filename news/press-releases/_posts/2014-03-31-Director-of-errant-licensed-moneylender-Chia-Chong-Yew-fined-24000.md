@@ -1,6 +1,6 @@
 ---
 title: 'Director of errant licensed moneylender, Chia Chong Yew, fined $24,000'
-permalink: /news/press-releases/director-of-errant-licensed-moneylender--chia-chong-yew--fined--
+permalink: /news/press-releases/director-of-errant-licensed-moneylender--chia-chong-yew--fined--/
 breadcrumb: 'Press Releases'
 
 ---

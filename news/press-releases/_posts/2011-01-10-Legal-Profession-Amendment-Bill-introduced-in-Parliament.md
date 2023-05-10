@@ -1,6 +1,6 @@
 ---
 title: 'Legal Profession (Amendment) Bill introduced in Parliament'
-permalink: /news/press-releases/legal-profession-amendment-bill-introduced-in-parliament
+permalink: /news/press-releases/legal-profession-amendment-bill-introduced-in-parliament/
 breadcrumb: 'Press Releases'
 
 ---

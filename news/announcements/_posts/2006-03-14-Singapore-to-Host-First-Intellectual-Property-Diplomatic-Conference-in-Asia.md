@@ -1,7 +1,7 @@
 ---
 title: 'Singapore to Host First Intellectual Property Diplomatic Conference in Asia'
 date: 2006-03-14T00:00:00.000Z
-permalink: /news/announcements/singapore-to-host-first-intellectual-property-diplomatic-conference-in-asia
+permalink: /news/announcements/singapore-to-host-first-intellectual-property-diplomatic-conference-in-asia/
 
 ---
 

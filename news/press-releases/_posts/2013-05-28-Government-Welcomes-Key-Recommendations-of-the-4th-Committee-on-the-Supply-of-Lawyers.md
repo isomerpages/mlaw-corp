@@ -1,6 +1,6 @@
 ---
 title: 'Government Welcomes Key Recommendations of the 4th Committee on the Supply of Lawyers'
-permalink: /news/press-releases/government-welcomes-key-recommendations-of-the-4th-committee-on-the-supply-of-lawyers
+permalink: /news/press-releases/government-welcomes-key-recommendations-of-the-4th-committee-on-the-supply-of-lawyers/
 breadcrumb: 'Press Releases'
 
 ---

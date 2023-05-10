@@ -1,7 +1,7 @@
 ---
 title: 'Commencement of MV (TPRC) Act on 1 August 2014'
 date: 2014-07-31T00:00:00.000Z
-permalink: /news/announcements/commencement-of-mv--tprc--act-on-1-august-2014
+permalink: /news/announcements/commencement-of-mv--tprc--act-on-1-august-2014/
 
 ---
 

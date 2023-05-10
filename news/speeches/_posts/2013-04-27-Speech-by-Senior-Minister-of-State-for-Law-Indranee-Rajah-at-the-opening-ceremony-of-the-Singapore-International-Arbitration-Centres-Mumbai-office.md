@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the opening ceremony of the Singapore International Arbitration Centre''s Mumbai office'
-permalink: /news/speeches/Speech-by-SMS-at-SIAC-Mumbai-opening
+permalink: /news/speeches/speech-by-sms-at-siac-mumbai-opening/
 breadcrumb: Speeches
 
 ---

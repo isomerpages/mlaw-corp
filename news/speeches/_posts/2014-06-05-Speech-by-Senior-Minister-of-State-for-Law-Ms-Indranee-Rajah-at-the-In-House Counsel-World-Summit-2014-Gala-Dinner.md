@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law Ms Indranee Rajah at the In-House Counsel World Summit 2014 Gala Dinner'
-permalink: /news/speeches/speech-by-sms-at-the-in-house-counsel-world-summit-2014-gala-din
+permalink: /news/speeches/speech-by-sms-at-the-in-house-counsel-world-summit-2014-gala-din/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Data on Annual Number of People Placed under Pre-bankruptcy Debt Repayment Scheme in Last Five Years
 date: 2022-03-01
-permalink: /news/parliamentary-speeches/2022-03-01-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Data-on-Annual-Number-of-People-Placed-under-Pre-bankruptcy-Debt-Repayment-Scheme-in-Last-Five-Years
+permalink: /news/parliamentary-speeches/2022-03-01-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-data-on-annual-number-of-people-placed-under-pre-bankruptcy-debt-repayment-scheme-in-last-five-years/
 ---
 
 01 March 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Minister for Law, K Shanmugam, at SIAC Congress 2016'
-permalink: /news/speeches/opening-address-by-minister-for-law--k-shanmugam--at-siac-congre
+permalink: /news/speeches/opening-address-by-minister-for-law--k-shanmugam--at-siac-congre/
 breadcrumb: Speeches
 
 ---

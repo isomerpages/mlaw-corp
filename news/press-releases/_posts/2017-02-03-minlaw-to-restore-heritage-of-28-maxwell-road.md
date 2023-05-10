@@ -1,6 +1,6 @@
 ---
 title: 'MinLaw to Restore Heritage of 28 Maxwell Road'
-permalink: /news/press-releases/minlaw-to-restore-heritage-of-28-maxwell-road
+permalink: /news/press-releases/minlaw-to-restore-heritage-of-28-maxwell-road/
 breadcrumb: 'Press Releases'
 
 ---

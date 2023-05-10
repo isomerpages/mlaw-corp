@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Question on Pro-bono Legal Services'
 date: 2019-09-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Oral-Answer-by-SMS-for-Law-Mr-Edwin-Tong-to-PQ-on-Pro-bono-Legal-Service
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-for-law-mr-edwin-tong-to-pq-on-pro-bono-legal-service/
 
 ---
 

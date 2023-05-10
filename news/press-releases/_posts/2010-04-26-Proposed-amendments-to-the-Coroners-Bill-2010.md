@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Coroners Bill 2010'
-permalink: /news/press-releases/proposed-amendments-to-the-coroners-bill-2010
+permalink: /news/press-releases/proposed-amendments-to-the-coroners-bill-2010/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Inaugration ceremony of the Construction Industry Arbitration Association in India'
 date: 2007-02-01T00:00:00.000Z
-permalink: /news/announcements/inaugration-ceremony-of-the-construction-industry-arbitration-association-in-india
+permalink: /news/announcements/inaugration-ceremony-of-the-construction-industry-arbitration-association-in-india/
 
 ---
 

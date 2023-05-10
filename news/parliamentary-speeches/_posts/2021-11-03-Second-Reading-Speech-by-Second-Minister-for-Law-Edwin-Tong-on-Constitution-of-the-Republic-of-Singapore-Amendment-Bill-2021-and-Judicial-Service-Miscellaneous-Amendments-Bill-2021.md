@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Constitution of the Republic of Singapore (Amendment) Bill 2021 and Judicial Service (Miscellaneous Amendments) Bill'
 date: 2021-11-03
-permalink: /news/parliamentary-speeches/2021-11-03-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Constitution-of-the-Republic-of-Singapore-Amendment-Bill-2021-and-Judicial-Service-Miscellaneous-Amendments-Bill-2021
+permalink: /news/parliamentary-speeches/2021-11-03-second-reading-speech-by-second-minister-for-law-edwin-tong-on-constitution-of-the-republic-of-singapore-amendment-bill-2021-and-judicial-service-miscellaneous-amendments-bill-2021/
 
 ---
 

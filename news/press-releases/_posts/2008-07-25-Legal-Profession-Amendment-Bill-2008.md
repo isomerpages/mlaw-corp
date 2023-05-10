@@ -1,6 +1,6 @@
 ---
 title: 'Legal Profession (Amendment) Bill 2008'
-permalink: /news/press-releases/legal-profession-amendment-bill-2008
+permalink: /news/press-releases/legal-profession-amendment-bill-2008/
 breadcrumb: 'Press Releases'
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  QUICKER, MORE EFFECTIVE REMEDIES AGAINST HARASSMENT WITH NEW PROTECTION FROM HARASSMENT COURT FROM 1 JUNE 2021
 date: 2021-05-31
-permalink: /news/press-releases/2021-05-31-QUICKER-MORE-EFFECTIVE-REMEDIES-AGAINST-HARASSMENT-WITH-NEW-PROTECTION-FROM-HARASSMENT-COURT-FROM-1-JUNE-2021
+permalink: /news/press-releases/2021-05-31-quicker-more-effective-remedies-against-harassment-with-new-protection-from-harassment-court-from-1-june-2021/
 ---
 
 31 May 2021 Posted in [Press releases](/news/press-releases)

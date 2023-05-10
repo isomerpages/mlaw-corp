@@ -2,7 +2,7 @@
 layout: post
 title: Modernising our Extradition Regime through the Extradition (Amendment) Bill
 date: 2022-03-07
-permalink: /news/press-releases/2022-03-07- Modernising-our-Extradition-Regime-through-the-Extradition-Amendment-Bill
+permalink: /news/press-releases/2022-03-07- modernising-our-extradition-regime-through-the-extradition-amendment-bill/
 ---
 
 07 Mar 2022 Posted in [Press releases](/news/press-releases)

@@ -1,6 +1,6 @@
 ---
 title: 'Legislative changes to bankruptcy regime to create a more rehabilitative environment and facilitate risk assessment'
-permalink: /news/press-releases/legislative-changes-to-bankruptcy-regime-to-create-a-more-rehabi
+permalink: /news/press-releases/legislative-changes-to-bankruptcy-regime-to-create-a-more-rehabi/
 breadcrumbs: 'Press Releases'
 
 ---

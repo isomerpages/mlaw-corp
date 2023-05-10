@@ -1,7 +1,7 @@
 ---
 title: 'Payment Collections By Sing Post'
 date: 2008-05-16T00:00:00.000Z
-permalink: /news/announcements/payment-collections-by-sing-post
+permalink: /news/announcements/payment-collections-by-sing-post/
 
 ---
 

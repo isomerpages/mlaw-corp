@@ -1,6 +1,6 @@
 ---
 title: 'Opening address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the OneMap IdeaWorks! exhibition and award ceremony'
-permalink: /news/speeches/opening-address-minister-shanmugam-onemap-ideaworks-121017
+permalink: /news/speeches/opening-address-minister-shanmugam-onemap-ideaworks-121017/
 breadcrumb: Speeches
 
 ---

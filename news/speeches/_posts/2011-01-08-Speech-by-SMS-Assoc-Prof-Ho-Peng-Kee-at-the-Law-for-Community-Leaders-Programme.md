@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Law for Community Leaders Programme'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-law-for-community-leaders-programme
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-law-for-community-leaders-programme/
 breadcrumb: Speeches
 
 ---

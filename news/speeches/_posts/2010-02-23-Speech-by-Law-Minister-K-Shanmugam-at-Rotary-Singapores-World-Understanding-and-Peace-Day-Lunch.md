@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at Rotary Singapore''s World Understanding and Peace Day Lunch'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-rotary-singapore-s-world-understanding-and-peace-day-lunch
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-rotary-singapore-s-world-understanding-and-peace-day-lunch/
 breadcrumb: Speeches
 
 ---

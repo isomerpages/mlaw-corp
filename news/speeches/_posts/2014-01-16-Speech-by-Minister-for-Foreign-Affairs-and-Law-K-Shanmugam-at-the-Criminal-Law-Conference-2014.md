@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, K Shanmugam, at the Criminal Law Conference 2014'
-permalink: /news/speeches/speech-by-min-at-criminal-law-conference-2014
+permalink: /news/speeches/speech-by-min-at-criminal-law-conference-2014/
 breadcrumb: Speeches
 
 ---

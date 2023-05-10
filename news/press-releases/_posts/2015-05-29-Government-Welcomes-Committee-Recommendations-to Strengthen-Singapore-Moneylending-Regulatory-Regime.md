@@ -1,6 +1,6 @@
 ---
 title: 'Government Welcomes Committee Recommendations to Strengthen Singapore’s Moneylending Regulatory Regime'
-permalink: /news/press-releases/government-welcomes-committee-recommendations-to-strengthen-sing
+permalink: /news/press-releases/government-welcomes-committee-recommendations-to-strengthen-sing/
 breadcrumbs: 'Press Releases'
 
 ---

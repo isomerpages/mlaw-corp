@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr K. Shanmugam, Minister of Law and Home Affairs, at the Opening Ceremony of the Global Lawyers Forum, 9 December 2019, Guangzhou, China'
 date: 2019-12-09T00:00:00.000Z
-permalink: /news/speeches/Speech-by-Minister-of-Law-and-Home-Affairs-Mr-K-Shanmugam-at-the-Opening-Ceremony-of-the-Global-Lawyers-Forum
+permalink: /news/speeches/speech-by-minister-of-law-and-home-affairs-mr-k-shanmugam-at-the-opening-ceremony-of-the-global-lawyers-forum/
 
 ---
 

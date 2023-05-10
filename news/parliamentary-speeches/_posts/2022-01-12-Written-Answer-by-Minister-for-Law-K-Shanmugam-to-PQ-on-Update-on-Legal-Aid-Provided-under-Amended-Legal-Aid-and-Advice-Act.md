@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Update on Legal Aid Provided under Amended Legal Aid and Advice Act
 date: 2022-01-12
-permalink: /news/parliamentary-speeches/2022-01-12-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Update-on-Legal-Aid-Provided-under-Amended-Legal-Aid-and-Advice-Act
+permalink: /news/parliamentary-speeches/2022-01-12-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-update-on-legal-aid-provided-under-amended-legal-aid-and-advice-act/
 ---
 
 12 January 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

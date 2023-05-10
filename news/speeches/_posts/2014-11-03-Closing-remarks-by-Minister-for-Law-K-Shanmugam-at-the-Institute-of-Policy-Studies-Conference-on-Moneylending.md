@@ -1,6 +1,6 @@
 ---
 title: 'Closing remarks by Minister for Law, K Shanmugam, at the Institute of Policy Studies Conference on Moneylending'
-permalink: /news/speeches/minister-closing-remarks-IPS-moneylending-conference
+permalink: /news/speeches/minister-closing-remarks-ips-moneylending-conference/
 breadcrumb: Speeches
 
 ---

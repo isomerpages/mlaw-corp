@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the Institute of Surveyors and Valuers Annual Dinner 2014'
-permalink: /news/speeches/speech-by-sms-at-SISV-dinner-2014
+permalink: /news/speeches/speech-by-sms-at-sisv-dinner-2014/
 breadcrumb: Speeches
 
 ---

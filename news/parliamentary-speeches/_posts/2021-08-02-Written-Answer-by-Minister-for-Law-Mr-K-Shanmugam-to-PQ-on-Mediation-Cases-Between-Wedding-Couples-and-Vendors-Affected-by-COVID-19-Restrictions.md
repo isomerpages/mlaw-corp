@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Mediation Cases Between Wedding Couples and Vendors Affected by COVID-19 Restrictions
 date: 2021-08-02
-permalink: /news/parliamentary-speeches/2021-08-02-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Mediation-Cases-Between-Wedding-Couples-and-Vendors-Affected-by-COVID-19-Restrictions
+permalink: /news/parliamentary-speeches/2021-08-02-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-mediation-cases-between-wedding-couples-and-vendors-affected-by-covid-19-restrictions/
 ---
 
 02 August 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

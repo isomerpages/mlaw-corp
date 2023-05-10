@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /covid19-relief/forms
+permalink: /covid19-relief/forms/
 breadcrumb: Forms
 
 ---

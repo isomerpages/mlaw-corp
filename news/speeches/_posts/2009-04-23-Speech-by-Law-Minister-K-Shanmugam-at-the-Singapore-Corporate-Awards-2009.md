@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Singapore Corporate Awards 2009'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-corporate-awards-2009
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-corporate-awards-2009/
 breadcrumb: Speeches
 
 ---

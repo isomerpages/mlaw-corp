@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Assoc Prof Ho Peng Kee on the Community Court''s Sentencing Powers, 27 August 2007'
 date: 2007-08-27T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-assoc-prof-ho-peng-kee-on-the-community-court-s-sentencing-powers-27-august-2007
+permalink: /news/parliamentary-speeches/oral-answer-by-assoc-prof-ho-peng-kee-on-the-community-court-s-sentencing-powers-27-august-2007/
 
 ---
 

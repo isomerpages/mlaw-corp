@@ -1,7 +1,7 @@
 ---
 title: 'Use CorpPass to log in for business transactions with the Government'
 date: 2018-08-24T00:00:00.000Z
-permalink: /news/announcements/CorpPass
+permalink: /news/announcements/corppass/
 
 ---
 

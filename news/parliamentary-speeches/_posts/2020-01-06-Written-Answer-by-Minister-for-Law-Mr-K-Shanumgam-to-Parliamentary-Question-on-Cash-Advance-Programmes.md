@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Cash Advance Programmes'
 date: 2020-01-06T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanumgam-to-Parliamentary-Question-on-Cash-Advance-Programmes
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanumgam-to-parliamentary-question-on-cash-advance-programmes/
 
 ---
  

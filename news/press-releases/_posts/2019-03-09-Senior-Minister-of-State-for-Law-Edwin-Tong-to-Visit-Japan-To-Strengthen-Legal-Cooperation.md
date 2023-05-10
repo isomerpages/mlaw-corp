@@ -1,6 +1,6 @@
 ---
 title: 'Senior Minister of State for Law Edwin Tong to Visit Japan To Strengthen Legal Cooperation'
-permalink: /news/press-releases/sms-edwin-tong-to-visit-japan-strengthen-legal-cooperation
+permalink: /news/press-releases/sms-edwin-tong-to-visit-japan-strengthen-legal-cooperation/
 breadcrumb: 'Press Releases'
 
 ---

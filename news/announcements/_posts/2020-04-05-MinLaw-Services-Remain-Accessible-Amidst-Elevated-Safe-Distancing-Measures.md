@@ -1,7 +1,7 @@
 ---
 title: 'MinLaw’s Services Remain Accessible Amidst Elevated Safe Distancing Measures'
 date: 2020-04-05T00:00:00.000Z
-permalink: /news/announcements/MinLaw-Services-Remain-Accessible-Amidst-Elevated-Safe-Distancing-Measures
+permalink: /news/announcements/minlaw-services-remain-accessible-amidst-elevated-safe-distancing-measures/
 
 ---
 

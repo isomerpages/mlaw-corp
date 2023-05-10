@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the Litigation Conference 2017'
-permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and0
+permalink: /news/speeches/opening-address-by-mr-k-shanmugam--minister-for-home-affairs-and0/
 breadcrumb: Speeches
 
 ---

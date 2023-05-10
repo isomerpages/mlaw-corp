@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law Calls Construction Tender for Restoration Project'
-permalink: /news/press-releases/ministry-of-law-calls-construction-tender-for-restoration-projec
+permalink: /news/press-releases/ministry-of-law-calls-construction-tender-for-restoration-projec/
 breadcrumb: 'Press Releases'
 
 ---

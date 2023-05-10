@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Pre-Trial Remandees Offered Bail But Declined'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen10
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen10/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Test page'
-permalink: null
+permalink: null/
 breadcrumb: 'Test'
 
 ---

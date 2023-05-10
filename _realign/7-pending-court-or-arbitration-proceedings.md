@@ -1,6 +1,6 @@
 ---
 title: 7. Pending Court or Arbitration Proceedings 
-permalink: /realign/pending-court-arbitration
+permalink: /realign/pending-court-arbitration/
 breadcrumb: 7. Pending Court or Arbitration Proceedings
 ---
 ## Pending Court or Arbitration Proceedings ##

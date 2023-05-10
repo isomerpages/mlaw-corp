@@ -1,7 +1,7 @@
 ---
 title: 'Temporary Relief for Inability to Perform Contractual Obligations due to Coronavirus Disease 2019 (COVID-19) Situation'
 date: 2020-04-01T00:00:00.000Z
-permalink: /news/press-releases/Temporary-Relief-for-Inability-to-Perform-Contractual-Obligations-due-to-Coronavirus-Disease-2019-COVID-19-Situation
+permalink: /news/press-releases/temporary-relief-for-inability-to-perform-contractual-obligations-due-to-coronavirus-disease-2019-covid-19-situation/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Fact sheet on the proposed amendments to the Legal Aid and Advice Act'
-permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-legal-aid-and-advic
+permalink: /news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-legal-aid-and-advic/
 breadcrumb: 'Press Releases'
 
 ---

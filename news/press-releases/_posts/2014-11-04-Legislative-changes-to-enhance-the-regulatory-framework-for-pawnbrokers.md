@@ -1,6 +1,6 @@
 ---
 title: 'Legislative changes to enhance the regulatory framework for pawnbrokers'
-permalink: /news/press-releases/changes-to-enhance-pawnbrokers-reg-framework
+permalink: /news/press-releases/changes-to-enhance-pawnbrokers-reg-framework/
 breadcrumb: 'Press Releases'
 
 ---

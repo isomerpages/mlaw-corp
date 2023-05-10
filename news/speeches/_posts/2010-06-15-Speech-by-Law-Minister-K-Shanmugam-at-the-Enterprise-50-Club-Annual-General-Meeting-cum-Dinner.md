@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Enterprise 50 Club Annual General Meeting cum Dinner'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-enterprise-50-club-annual-general-meeting-cum-dinner
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-enterprise-50-club-annual-general-meeting-cum-dinner/
 breadcrumb: Speeches
 
 ---

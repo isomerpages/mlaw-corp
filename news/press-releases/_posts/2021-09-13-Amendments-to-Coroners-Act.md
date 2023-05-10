@@ -2,7 +2,7 @@
 layout: post
 title:  Amendments to the Coroners Act
 date: 2021-09-13
-permalink: /news/press-releases/amendments-to-coroners-act-2021
+permalink: /news/press-releases/amendments-to-coroners-act-2021/
 ---
 
 13 Sep 2021 Posted in [Press releases](/news/press-releases)

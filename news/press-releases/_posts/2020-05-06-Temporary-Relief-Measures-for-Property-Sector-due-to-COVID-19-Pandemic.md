@@ -1,7 +1,7 @@
 ---
 title: 'Temporary Relief Measures for Property Sector due to Coronavirus Disease 2019 (COVID-19) Pandemic'
 date: 2020-05-06T00:00:00.000Z
-permalink: /news/press-releases/Temporary-Relief-Measures-for-Property-Sector-due-to-COVID-19-Pandemic
+permalink: /news/press-releases/temporary-relief-measures-for-property-sector-due-to-covid-19-pandemic/
 
 ---
 

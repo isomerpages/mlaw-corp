@@ -1,6 +1,6 @@
 ---
 title: 'MAS And MinLaw Issue Responses To Feedback On Proposed Changes To Unsecured Credit Rules'
-permalink: /news/press-releases/mas-and-minlaw-issue-responses-to-feedback-on-proposed-changes-to-unsecured-credit-rules
+permalink: /news/press-releases/mas-and-minlaw-issue-responses-to-feedback-on-proposed-changes-to-unsecured-credit-rules/
 
 ---
 

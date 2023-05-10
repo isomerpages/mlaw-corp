@@ -1,6 +1,6 @@
 ---
 title: 'New Bill to Enhance IP Dispute Resolution in Singapore'
-permalink: /news/press-releases/new-bill-to-enhance-ip-dispute-resolution-in-singapore
+permalink: /news/press-releases/new-bill-to-enhance-ip-dispute-resolution-in-singapore/
 breadcrumb: 'Press Releases'
 
 ---

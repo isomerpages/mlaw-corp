@@ -1,6 +1,6 @@
 ---
 title: 'Errant Moneylender Convicted and Sentenced - Goh Siong Kiat (Bez One Credit) - Press release'
-permalink: /news/press-releases/errant-moneylender-convicted-and-sentenced-goh-siong-kiat-bez-one-credit-press-release
+permalink: /news/press-releases/errant-moneylender-convicted-and-sentenced-goh-siong-kiat-bez-one-credit-press-release/
 breadcrumb: 'Press Releases'
 
 ---

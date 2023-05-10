@@ -1,7 +1,7 @@
 ---
 title: 'Apostille Convention Enters into Force for Singapore'
 date: 2021-09-16T00:00:00.000Z
-permalink: /news/announcements/2021-09-16-Apostille-Convention-enters-into-force-for-Singapore
+permalink: /news/announcements/2021-09-16-apostille-convention-enters-into-force-for-singapore/
 
 ---
 

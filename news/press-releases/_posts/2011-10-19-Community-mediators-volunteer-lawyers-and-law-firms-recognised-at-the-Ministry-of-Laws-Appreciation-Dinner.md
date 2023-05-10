@@ -1,6 +1,6 @@
 ---
 title: 'Community mediators, volunteer lawyers and law firms recognised at the Ministry of Law''s Appreciation Dinner'
-permalink: /news/press-releases/community-mediators-volunteer-lawyers-and-law-firms-recognised-at-the-ministry-of-law-s
+permalink: /news/press-releases/community-mediators-volunteer-lawyers-and-law-firms-recognised-at-the-ministry-of-law-s/
 breadcrumb: 'Press Releases'
 
 ---

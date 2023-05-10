@@ -1,7 +1,7 @@
 ---
 title: 'Ministerial Statement on the Changes to the Legal Service Commission and Legal Service Personnel'
 date: 2006-04-03T00:00:00.000Z
-permalink: /news/parliamentary-speeches/ministerial-statement-on-the-changes-to-the-legal-service-commission-and-legal-service-personnel-
+permalink: /news/parliamentary-speeches/ministerial-statement-on-the-changes-to-the-legal-service-commission-and-legal-service-personnel-/
 
 ---
 

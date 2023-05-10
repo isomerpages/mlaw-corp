@@ -1,6 +1,6 @@
 ---
 title: 'Legislative Changes to Enhance Singapore as an International Hub for Commercial Dispute Resolution'
-permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as--an-international-hu
+permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as--an-international-hu/
 breadcrumb: 'Press Releases'
 
 ---

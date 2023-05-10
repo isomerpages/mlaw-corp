@@ -1,6 +1,6 @@
 ---
 title: Keynote Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at Singapore Pawnbrokers’ Association 103rd Anniversary & CNY Gala Dinner
-permalink: /news/speeches/keynote-speech-by-2M-at-SPA-103rd-anniversary-cny-gala-dinner/
+permalink: /news/speeches/keynote-speech-by-2m-at-spa-103rd-anniversary-cny-gala-dinner/
 date: 2023-02-12
 layout: post
 description: ""

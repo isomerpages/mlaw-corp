@@ -1,6 +1,6 @@
 ---
 title: 'Allowing Singapore Law Practices more flexibility to grow and enhance international competitiveness'
-permalink: /news/press-releases/allowing-singapore-law-practices-more-flexibility-to-grow-and-enhance-international-competitiveness
+permalink: /news/press-releases/allowing-singapore-law-practices-more-flexibility-to-grow-and-enhance-international-competitiveness/
 breadcrumb: 'Press Releases'
 
 ---

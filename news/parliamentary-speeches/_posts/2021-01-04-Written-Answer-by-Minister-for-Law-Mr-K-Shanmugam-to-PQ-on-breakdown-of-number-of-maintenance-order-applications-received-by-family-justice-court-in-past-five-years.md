@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Breakdown of Number of Maintenance Order Applications Received by Family Justice Court in Past Five Years
 date: 2021-01-04
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-breakdown-of-number-of-maintenance-order-applications-received-by-family-justice-court-in-past-five-years
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-breakdown-of-number-of-maintenance-order-applications-received-by-family-justice-court-in-past-five-years/
 
 ---
 

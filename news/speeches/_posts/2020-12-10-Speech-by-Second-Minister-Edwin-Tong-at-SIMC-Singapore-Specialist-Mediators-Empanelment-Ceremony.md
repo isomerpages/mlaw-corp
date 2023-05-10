@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Minister for Community, Culture and Youth and Second Minister for Law at the SIMC Singapore Specialist Mediators Empanelment Ceremony'
 date: 2020-12-10
-permalink: /news/speeches/2020-12-10-Speech-by-Second-Minister-Edwin-Tong-at-SIMC-Singapore-Specialist-Mediators-Empanelment-Ceremony
+permalink: /news/speeches/2020-12-10-speech-by-second-minister-edwin-tong-at-simc-singapore-specialist-mediators-empanelment-ceremony/
 ---
 
 

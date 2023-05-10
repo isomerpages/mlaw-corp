@@ -1,6 +1,6 @@
 ---
 title: 'ACTA successfuly concludes - Singapore to be part of multilateral agreement on IPR enforcement'
-permalink: /news/press-releases/acta-successfuly-concludes-singapore-to-be-part-of-multilateral-agreement-on-ipr-enforcement
+permalink: /news/press-releases/acta-successfuly-concludes-singapore-to-be-part-of-multilateral-agreement-on-ipr-enforcement/
 breadcrumb: 'Press Releases'
 
 ---

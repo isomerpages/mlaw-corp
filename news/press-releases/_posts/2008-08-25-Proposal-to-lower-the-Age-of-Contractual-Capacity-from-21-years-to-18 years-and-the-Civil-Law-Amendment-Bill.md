@@ -1,6 +1,6 @@
 ---
 title: 'Proposal to lower the Age of Contractual Capacity from 21 years to 18 years, and the Civil Law (Amendment) Bill'
-permalink: /news/press-releases/proposal-to-lower-the-age-of-contractual-capacity-from-21-years-to-18-years-and-the-civil-law
+permalink: /news/press-releases/proposal-to-lower-the-age-of-contractual-capacity-from-21-years-to-18-years-and-the-civil-law/
 breadcrumb: 'Press Releases'
 
 ---

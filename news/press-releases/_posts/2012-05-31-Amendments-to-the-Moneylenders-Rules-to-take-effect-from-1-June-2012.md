@@ -1,6 +1,6 @@
 ---
 title: 'Amendments to the Moneylenders Rules to take effect from 1 June 2012'
-permalink: /news/press-releases/amendments-to-the-moneylenders-rules-to-take-effect-from-1-june-2012
+permalink: /news/press-releases/amendments-to-the-moneylenders-rules-to-take-effect-from-1-june-2012/
 breadcrumb: 'Press Releases'
 
 ---

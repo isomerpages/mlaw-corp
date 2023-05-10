@@ -1,6 +1,6 @@
 ---
 title: 'Fact Sheet - Amendments to the Moneylenders Rules'
-permalink: /news/press-releases/fact-sheet-amendments-to-the-moneylenders-rules
+permalink: /news/press-releases/fact-sheet-amendments-to-the-moneylenders-rules/
 breadcrumb: 'Press Releases'
 
 ---

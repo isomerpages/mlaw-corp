@@ -1,6 +1,6 @@
 ---
 title: 'Government accepts Singapore Institute of Legal Education’s recommendations on Overseas Scheduled Universities list'
-permalink: /news/press-releases/govt-accepts-SILE-recommendations-on-OSU-list
+permalink: /news/press-releases/govt-accepts-sile-recommendations-on-osu-list/
 breadcrumbs: 'Press Releases'
 
 ---

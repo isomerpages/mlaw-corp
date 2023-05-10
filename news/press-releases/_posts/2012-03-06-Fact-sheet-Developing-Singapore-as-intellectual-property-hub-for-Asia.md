@@ -1,6 +1,6 @@
 ---
 title: 'Fact sheet: Developing Singapore as intellectual property hub for Asia'
-permalink: /news/press-releases/fact-sheet-developing-singapore-as-intellectual-property-hub-for-asia
+permalink: /news/press-releases/fact-sheet-developing-singapore-as-intellectual-property-hub-for-asia/
 breadcrumb: 'Press Releases'
 
 ---

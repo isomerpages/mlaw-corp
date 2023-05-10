@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender And Company Fined A Total Of $17,000 - Press Release'
-permalink: /news/press-releases/errant-licensed-moneylender-and-company-fined-a-total-of--17-000
+permalink: /news/press-releases/errant-licensed-moneylender-and-company-fined-a-total-of--17-000/
 breadcrumb: 'Press Releases'
 
 ---

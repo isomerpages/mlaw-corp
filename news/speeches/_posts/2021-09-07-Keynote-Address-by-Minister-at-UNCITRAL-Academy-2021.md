@@ -1,7 +1,7 @@
 ---
 title: Keynote Address by Minister for Home Affairs and Minister for Law K Shanmugam SC at UNCITRAL Academy 2021
 date: 2021-09-07
-permalink: /news/speeches/2021-09-07-Keynote-Address-by-Minister-at-UNCITRAL-Academy-2021
+permalink: /news/speeches/2021-09-07-keynote-address-by-minister-at-uncitral-academy-2021/
 ---
 
 Honourable judges,<br>

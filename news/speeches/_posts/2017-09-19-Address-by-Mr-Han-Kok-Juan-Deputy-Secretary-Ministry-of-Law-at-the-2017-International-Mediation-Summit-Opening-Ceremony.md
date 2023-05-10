@@ -1,6 +1,6 @@
 ---
 title: 'Address by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the 2017 International Mediation Summit Opening Ceremony'
-permalink: /news/speeches/address-by-mr-han-kok-juan--deputy-secretary--ministry-of-law--a0
+permalink: /news/speeches/address-by-mr-han-kok-juan--deputy-secretary--ministry-of-law--a0/
 breadcrumb: Speeches
 
 ---

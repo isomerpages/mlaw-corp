@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on SMRT Bus Drivers'
 date: 2013-07-08T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-ans-to-smrt-pq
+permalink: /news/parliamentary-speeches/written-ans-to-smrt-pq/
 
 ---
 

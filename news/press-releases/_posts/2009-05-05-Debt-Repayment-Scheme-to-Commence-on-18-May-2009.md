@@ -1,6 +1,6 @@
 ---
 title: 'Debt Repayment Scheme to Commence on 18 May 2009'
-permalink: /news/press-releases/debt-repayment-scheme-to-commence-on-18-may-2009
+permalink: /news/press-releases/debt-repayment-scheme-to-commence-on-18-may-2009/
 breadcrumb: 'Press Releases'
 
 ---

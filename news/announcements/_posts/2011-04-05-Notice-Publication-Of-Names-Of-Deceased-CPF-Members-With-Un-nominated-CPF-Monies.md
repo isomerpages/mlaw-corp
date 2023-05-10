@@ -1,7 +1,7 @@
 ---
 title: 'Notice - Publication Of Names Of Deceased CPF Members With Un-nominated CPF Monies'
 date: 2011-04-05T00:00:00.000Z
-permalink: /news/announcements/notice-publication-of-names-of-deceased-cpf-members-with-un-nominated-cpf-monies
+permalink: /news/announcements/notice-publication-of-names-of-deceased-cpf-members-with-un-nominated-cpf-monies/
 
 ---
 

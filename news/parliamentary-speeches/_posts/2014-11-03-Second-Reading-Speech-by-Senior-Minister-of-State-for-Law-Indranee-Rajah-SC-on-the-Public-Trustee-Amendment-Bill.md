@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Public Trustee (Amendment) Bill'
 date: 2014-11-03T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-speech-SMS-PT-bill-2014
+permalink: /news/parliamentary-speeches/2r-speech-sms-pt-bill-2014/
 
 ---
 

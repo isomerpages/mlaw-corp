@@ -1,6 +1,6 @@
 ---
 title: 'Registry of Moneylenders Takes Action to Address Abuses by Licensed Moneylenders'
-permalink: /news/press-releases/registry-of-moneylenders-takes-action-to-address-abuses-by-licen
+permalink: /news/press-releases/registry-of-moneylenders-takes-action-to-address-abuses-by-licen/
 breadcrumb: 'Press Releases'
 
 ---

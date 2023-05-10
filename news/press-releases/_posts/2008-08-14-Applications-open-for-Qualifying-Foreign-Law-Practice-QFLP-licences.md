@@ -1,6 +1,6 @@
 ---
 title: 'Applications open for Qualifying Foreign Law Practice (QFLP) licences'
-permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-qflp-licences
+permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-qflp-licences/
 breadcrumb: 'Press Releases'
 
 ---

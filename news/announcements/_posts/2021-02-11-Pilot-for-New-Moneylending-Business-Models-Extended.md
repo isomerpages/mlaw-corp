@@ -1,7 +1,7 @@
 ---
 title: 'Pilot for New Moneylending Business Models Extended by One Year'
 date: 2021-02-11T00:00:00.000Z
-permalink: /news/announcements/Pilot-for-New-Moneylending-Business-Models-Extended
+permalink: /news/announcements/pilot-for-new-moneylending-business-models-extended/
 
 ---
 

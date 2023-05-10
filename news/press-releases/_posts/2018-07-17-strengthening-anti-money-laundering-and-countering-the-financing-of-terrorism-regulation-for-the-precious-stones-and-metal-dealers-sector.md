@@ -1,6 +1,6 @@
 ---
 title: 'Strengthening Anti-Money Laundering and Countering the Financing of Terrorism Regulation for the Precious Stones and Metals Dealers Sector'
-permalink: /news/press-releases//strengthening-aml-cft-regulation-for-psmd-sector
+permalink: /news/press-releases//strengthening-aml-cft-regulation-for-psmd-sector/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Legal Support Resources Available to Members of the Public
 date: 2020-09-24T00:00:00.000Z
-permalink: /news/announcements/Legal-Support-Resources-Available-to-Members-of-the-Public/
+permalink: /news/announcements/legal-support-resources-available-to-members-of-the-public/
 ---
 24 SEP 2020 Posted in [Announcements](/news/announcements)
 

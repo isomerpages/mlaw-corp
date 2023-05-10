@@ -1,6 +1,6 @@
 ---
 title: 'New Regulatory Framework for legal practice in Singapore'
-permalink: /news/press-releases/new-regulatory-framework-for-legal-practice-in-Singapore
+permalink: /news/press-releases/new-regulatory-framework-for-legal-practice-in-singapore/
 breadcrumb: 'Press Releases'
 
 ---

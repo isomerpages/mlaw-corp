@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on the Insolvency Law Review Committee''s Report'
 date: 2013-10-07T00:00:00.000Z
-permalink: /news/announcements/public-consultation-on-the-insolvency-law-review-committee-s-rep
+permalink: /news/announcements/public-consultation-on-the-insolvency-law-review-committee-s-rep/
 
 ---
 

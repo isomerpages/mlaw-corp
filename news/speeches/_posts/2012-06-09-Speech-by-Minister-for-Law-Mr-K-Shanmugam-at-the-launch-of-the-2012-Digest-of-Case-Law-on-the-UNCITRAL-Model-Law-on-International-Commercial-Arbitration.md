@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law, Mr K Shanmugam, at the launch of the 2012 Digest of Case Law on the UNCITRAL Model Law on International Commercial Arbitration'
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-launch-of-the-2012-digest-of-case-law-on-the
+permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-launch-of-the-2012-digest-of-case-law-on-the/
 breadcrumb: Speeches
 
 ---

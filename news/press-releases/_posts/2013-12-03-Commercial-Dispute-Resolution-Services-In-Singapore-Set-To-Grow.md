@@ -1,6 +1,6 @@
 ---
 title: 'Commercial Dispute Resolution Services In Singapore Set To Grow'
-permalink: /news/press-releases/icmwg-recommendations
+permalink: /news/press-releases/icmwg-recommendations/
 breadcrumb: 'Press Releases'
 
 ---

@@ -4,7 +4,7 @@ title:  RESPONSE BY SECOND MINISTER FOR LAW, MR EDWIN TONG SC AT THE COMMITTEE O
 date:   2021-03-02
 title: 'RESPONSE BY SECOND MINISTER FOR LAW, MR EDWIN TONG SC AT THE COMMITTEE OF SUPPLY DEBATE 2021 (JUDICATURE)'
 date: 2021-03-02
-permalink: /news/parliamentary-speeches/2021-03-02-Response-Speech-by-Mr-Edwin-Tong-at-the-Committee-of-Supply-2021-Judicature
+permalink: /news/parliamentary-speeches/2021-03-02-response-speech-by-mr-edwin-tong-at-the-committee-of-supply-2021-judicature/
 
 ---
 

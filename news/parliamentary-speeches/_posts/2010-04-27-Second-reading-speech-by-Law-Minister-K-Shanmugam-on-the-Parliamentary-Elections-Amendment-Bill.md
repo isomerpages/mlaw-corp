@@ -1,7 +1,7 @@
 ---
 title: 'Second reading speech by Law Minister K Shanmugam on the Parliamentary Elections (Amendment) Bill'
 date: 2010-04-27T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-parliamentary-elections-amendment-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-parliamentary-elections-amendment-bill/
 
 ---
 

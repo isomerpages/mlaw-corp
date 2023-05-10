@@ -1,6 +1,6 @@
 ---
 title: Further Extension of Relief Period under the COVID-19 (Temporary Measures) Act for Event and Tourism-related Contracts
-permalink: /news/press-releases/Further-Extension-of-Relief-Period-under-the-COVID-19-Temporary-Measures-Act-for-Event-and-Tourism-related-Contracts
+permalink: /news/press-releases/further-extension-of-relief-period-under-the-covid-19-temporary-measures-act-for-event-and-tourism-related-contracts/
 ---
 
 31 Dec 2020 Posted in [Press releases](/news/press-releases)

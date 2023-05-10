@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Ministry of Law Appreciation Dinner 2011'
-permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-ministry-of-law-appreciation
+permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-ministry-of-law-appreciation/
 breadcrumb: Speeches
 
 ---

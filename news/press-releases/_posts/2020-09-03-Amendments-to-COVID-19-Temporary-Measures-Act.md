@@ -1,7 +1,7 @@
 ---
 title: 'Amendments to COVID-19 (Temporary Measures) Act'
 date: 2020-09-03T00:00:00.000Z
-permalink: /news/press-releases/2020-09-03-Amendments-to-COVID-19-Temporary-Measures-Act
+permalink: /news/press-releases/2020-09-03-amendments-to-covid-19-temporary-measures-act/
 
 ---
 

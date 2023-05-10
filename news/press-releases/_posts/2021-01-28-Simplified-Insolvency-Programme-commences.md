@@ -2,7 +2,7 @@
 layout: post
 title:  Financially Distressed Micro and Small Companies May Apply for Simplified Insolvency Programme From 29 January 2021
 date: 2021-01-28
-permalink: /news/press-releases/simplified-insolvency-programme-commences
+permalink: /news/press-releases/simplified-insolvency-programme-commences/
 ---
 
 28 Jan 2021 Posted in [Press releases](/news/press-releases)

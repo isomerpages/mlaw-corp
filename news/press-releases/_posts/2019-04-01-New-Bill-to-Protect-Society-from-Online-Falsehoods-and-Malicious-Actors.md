@@ -1,6 +1,6 @@
 ---
 title: 'New Bill to Protect Society from Online Falsehoods and Malicious Actors'
-permalink: /news/press-releases/New-Bill-to-Protect-society-from-Online-Falsehoods-and-Malicious-Actors
+permalink: /news/press-releases/new-bill-to-protect-society-from-online-falsehoods-and-malicious-actors/
 breadcrumbs: 'Press Releases'
 
 ---

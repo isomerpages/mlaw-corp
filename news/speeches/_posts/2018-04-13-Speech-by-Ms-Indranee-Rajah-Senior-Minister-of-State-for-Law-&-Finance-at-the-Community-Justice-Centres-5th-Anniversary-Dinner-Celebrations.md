@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law & Finance, at the Community Justice Centre''s 5th Anniversary Dinner Celebrations'
-permalink: /news/speeches/speech-by-sms-indranee-CJC-fifth-anniversary-dinner
+permalink: /news/speeches/speech-by-sms-indranee-cjc-fifth-anniversary-dinner/
 breadcrumb: Speeches
 
 ---

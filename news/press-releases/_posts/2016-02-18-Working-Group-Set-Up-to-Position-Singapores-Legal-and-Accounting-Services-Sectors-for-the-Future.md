@@ -1,6 +1,6 @@
 ---
 title: 'Working Group Set Up to Position Singapore’s Legal and Accounting Services Sectors for the Future'
-permalink: /news/press-releases/working-group-set-up-to-position-singapores-legal-and-accounting
+permalink: /news/press-releases/working-group-set-up-to-position-singapores-legal-and-accounting/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Law, K Shanmugam, during the Committee of Supply Debate 2017'
 date: 2017-03-03T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-minister-for-law--k-shanmugam--during-the-committee-of0
+permalink: /news/parliamentary-speeches/speech-by-minister-for-law--k-shanmugam--during-the-committee-of0/
 
 ---
 

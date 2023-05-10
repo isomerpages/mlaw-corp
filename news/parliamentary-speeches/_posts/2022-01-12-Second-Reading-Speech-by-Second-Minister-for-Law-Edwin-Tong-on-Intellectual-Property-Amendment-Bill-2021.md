@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Intellectual Property (Amendment) Bill 2021'
 date: 2022-01-12
-permalink: /news/parliamentary-speeches/2022-01-12-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Intellectual-Property-Amendment-Bill-2021
+permalink: /news/parliamentary-speeches/2022-01-12-second-reading-speech-by-second-minister-for-law-edwin-tong-on-intellectual-property-amendment-bill-2021/
 
 ---
 

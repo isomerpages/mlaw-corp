@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on Proposed Licensing Scheme for Independent Counsel'
 date: 2011-05-30T00:00:00.000Z
-permalink: /news/announcements/public-consultation-on-proposed-licensing-scheme-for-independent-counsel
+permalink: /news/announcements/public-consultation-on-proposed-licensing-scheme-for-independent-counsel/
 
 ---
 

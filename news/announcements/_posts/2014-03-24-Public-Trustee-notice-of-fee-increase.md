@@ -1,7 +1,7 @@
 ---
 title: 'Public Trustee notice of fee increase'
 date: 2014-03-24T00:00:00.000Z
-permalink: /news/announcements/notice-of-fee-increase
+permalink: /news/announcements/notice-of-fee-increase/
 
 ---
 
