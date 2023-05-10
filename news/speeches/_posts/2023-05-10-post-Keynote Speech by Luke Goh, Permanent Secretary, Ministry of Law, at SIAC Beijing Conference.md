@@ -34,28 +34,46 @@ Ladies and Gentlemen
 
 
 {:start="4"}
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But these numbers don’t show the full picture. They don’t capture the contribution of local writers and the enabling impact of local publishers; and they don’t reflect the ways in which Singaporeans make use of and benefit from printed matter.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The story is told of how King Solomon’s arbitration skills extended to resolving claims of ownership by two parties over a same baby child. He resolved it by, quite fairly, first offering to cut the baby in half, so each party could have 50:50. This would, of course, have greatly devalued what was precious about the child. One of the claimants nonetheless agreed, while the other, by offering to give up her claim and therefore saving the child’s life, proved her connection. We know how the rest of the story goes. With the baby’s parentage proven, King Solomon awarded custody to the real mother who had prioritised the child’s well-being. 
+
 
 {:start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This value is not easy to capture on a balance sheet: how do you quantify the value of having books and stories about our home? Or the value of being able to share and distribute reading materials to a classroom of children?
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have no doubt that arbitrators in all the centuries since, continue to provide creative solutions to disputes and conflicts.  
+
 
 {:start="6"}
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Likewise, these numbers also don’t illustrate the impact of collective management organisations such as CLASS, or of IFRRO’s contribution to Singapore and to the region.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In today’s world, disputes are becoming more complex. This represents increased need, and also challenges, for arbitration.
 
-    (a) CLASS helps ensure users can obtain licences to suit their needs, while providing creators and rights-holders with new sources of revenue. They help pay authors and provide funds to reinvest in new works.
+* First, with cross-border trade, arbitrators have to develop expertise in the laws of different jurisdictions, as well as sensitivity in cross-cultural communications.
 
-    (b) And by facilitating international linkages between national CMOs, IFRRO helps ensure that this system crosses borders, and that works can be used and paid for all over the world.
+* Second, specialised rules have advanced to cater for different categories of disputes: investor-state disputes, intellectual property disputes, cases that arise in construction space, disputes in rapidly developing carbon markets and so on. 
+
+* The advancement in technology has added another level of complexity to dispute resolution. The opportunity that technology brings to improving processes and analysis, and also new ethical considerations that may emerge.
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLASS and IFRRO enable and monetise a wide range of possible uses of copyrighted works and materials. You and your colleagues here today play an important role in making the copyright system work, for both rights-holders and users alike.
-
-**II.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; HOW THE GOVERNMENT IS SUPPORTING THE SECTOR**
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent months, we have seen rapid developments in AI technology related to Large Language Models. ChatGPT is one such well-known model; China’s 通义千问is another. 
 
 {:start="8"}
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MinLaw and IPOS have long recognised the crucial role played by collective management organisations, and the need for them to function transparently, accountably, and efficiently for the sake of both rights-holders and users.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, my colleague Angeline, who is also at the conference, put this question to ChatGPT: “Will AI replace lawyers, arbitrators, mediators and judges one day?” The answer: 
+
+* Well, on the one hand, AI and language models such as ChatGPT have the potential to change the practice of law in the areas of:
+
+		a.	Legal research: ChatGPT and other language models can search vast amounts of legal information, including statutes, case law and legal articles, within a short time. This can help lawyers save time, increase efficiency, and allow us to focus on higher-value tasks. 
+
+		b.	Predictive analysis: The language models can help to analyse large volumes of legal information and data, identify relevant cases, provide suggestions for legal arguments, and even predict likely outcome of cases. 
+
+		c.	Document automation: The language models can automate the drafting of legal documents, such as contracts and legal briefs. 
+
+* On the other hand, ChatGPT’s answer provides the view that AI cannot replace our arbitrators, mediators or judges. 
+
+* Its reasoning is that legal disputes often involve complex issues that require the judgment in assessing the credibility of witnesses, to understand the nuances of complex legal arguments, and to provide advice and guidance in a way the parties can understand both intellectually and intuitively. 
+
+* Disputes, as with the case King Solomon had to deal with, involved emotional, personal and ethical elements that require empathy and sensitivity, which AI tools currently lack. 
+
 
 {:start="9"}
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have received feedback over the years, from both rights-holders and users, that regulation is needed — for instance, to improve transparency over what works are administered, how rates are set, and how royalties are distributed.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What I have just described, is ChatGPT’s self-assessment of its strengths and current limitations. The full potential of AI and Large Language Models remains to be seen. 
+
 
 {:start="10"}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To support our creative industries and user groups, MinLaw and IPOS have been working for some time on a new class licensing scheme for CMOs to strengthen their internal governance and their relations with both rights-holders and users of copyrighted works.
