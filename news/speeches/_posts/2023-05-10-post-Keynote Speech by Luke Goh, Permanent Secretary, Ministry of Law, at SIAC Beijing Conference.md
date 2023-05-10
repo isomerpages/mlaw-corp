@@ -76,15 +76,16 @@ Ladies and Gentlemen
 
 
 {:start="10"}
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To support our creative industries and user groups, MinLaw and IPOS have been working for some time on a new class licensing scheme for CMOs to strengthen their internal governance and their relations with both rights-holders and users of copyrighted works.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meanwhile, we are already seeing transformative technological developments, including in the legal and judicial services in China. I understand that in Suzhou, a court uses AI to examine evidence and write verdicts for disputes over traffic accidents. Another court in Hangzhou has deployed AI to take over simple financial disputes. 
+
 
 {:start="11"}
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In devising our proposed licensing scheme, we considered the experience of other countries and took reference from the World Intellectual Property Organisation Good Practice Toolkit for CMOs, and its many examples of legislation, regulation, and codes of conduct for collective management of copyright.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Conference is an excellent opportunity to network with counterparts, legal experts from both China and Singapore, and to explore the opportunities and challenges we all face. 
+
+&nbsp;**&nbsp; &nbsp;&nbsp;&nbsp; Acknowledgement of SIAC's achievements**
 
 {:start="12"}
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The most recent round of public consultations was just held in November 2022, and we will continue this work together with all stakeholders.
-
-&nbsp;**III.&nbsp; &nbsp;&nbsp;&nbsp; CHALLENGES AND OPPORTUNITIES IN NEW TECHNOLOGIES**
 
 {:start="13"}
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the past three decades, digital technologies have radically changed and are continuing to change how works are created, distributed, and used.
