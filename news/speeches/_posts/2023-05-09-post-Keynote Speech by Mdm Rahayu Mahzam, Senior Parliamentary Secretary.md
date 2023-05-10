@@ -1,5 +1,5 @@
 ---
-title: Keynote Speech by Mdm Rahayu Mahzam, Senior Parliamentary Secretary
+title: Keynote Speech By Mdm Rahayu Mahzam, Senior Parliamentary Secretary, Ministry Of Health And Ministry Of Law, At Rajah And Tann Asia’s Data And Digital Economy Revolution: Reengineering Business For Success Conference
 permalink: /news/speeches/speech-by-sps-at-rta-conference/
 date: 2023-05-09
 layout: post
