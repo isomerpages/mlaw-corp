@@ -37,6 +37,6 @@ Public Consultation on the Report of the Singapore International Commercial Cour
   Email: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
 
-* [Annex A: SICC Committee Report](/files/Annex-A-SICC-Committee-Report.pdf/){:target="_blank"}(754KB)
+* [Annex A: SICC Committee Report](/files/Annex-A-SICC-Committee-Report.pdf){:target="_blank"}(754KB)
 
 <p class="right-side-updated">Last updated on 3 Dec 2013</p>

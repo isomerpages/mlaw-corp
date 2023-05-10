@@ -31,7 +31,7 @@ Public Consultation on the Proposed Amendments to the Pawnbrokers Act
 
 6. MinLaw is also proposing other amendments to update the PBA, to enhance the licensing regime, simplify the business of pawnbroking, improve pawnbroking operations, enhance Registrar’s regulation of pawnbroker, refine the provisions governing the discontinuance of pawnbroking operations, prevent illicit activities, as well as make technical changes. 
 
-7. The full list of amendments is contained in the [Annex](/files/Public_consultation_brief_for_Proposed _Amendments_to_Pawnbrokers_Act_2013.pdf/), where they are set out under 8 categories.
+7. The full list of amendments is contained in the [Annex](/files/Public_consultation_brief_for_Proposed _Amendments_to_Pawnbrokers_Act_2013.pdf), where they are set out under 8 categories.
 
 <b><u>(D) Feedback sought</u></b>
 
@@ -47,7 +47,7 @@ Public Consultation on the Proposed Amendments to the Pawnbrokers Act
   Email: MLAW_Consultation@mlaw.gov.sg
 </p>
 
-[Annex: Proposed Amendments to the Pawnbrokers Act](/files/PublicconsultationbriefforProposedAmendmentstoPawnbrokersAct2013.pdf/)(190KB)
+[Annex: Proposed Amendments to the Pawnbrokers Act](/files/PublicconsultationbriefforProposedAmendmentstoPawnbrokersAct2013.pdf)(190KB)
 
 <sup>[1]</sup> The pawner will be given a grace period of up to 30 days from the notice to redeem the pledge.
 

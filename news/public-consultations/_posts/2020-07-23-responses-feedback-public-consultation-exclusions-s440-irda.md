@@ -17,6 +17,6 @@ Responses to Feedback received from Public Consultation on the Exclusions under 
 
 3. We have carefully considered all the suggestions received in detail and have incorporated much of the feedback into the Insolvency, Restructuring and Dissolution (Prescribed Contracts Under Section 440) Regulations 2020.
 
-4. The Ministry of Law’s detailed responses (in the [Annex](/files/IRDA-Govt-Response-s440-Feedback.pdf/)) only address the feedback relevant to key substantive policy matters.
+4. The Ministry of Law’s detailed responses (in the [Annex](/files/IRDA-Govt-Response-s440-Feedback.pdf)) only address the feedback relevant to key substantive policy matters.
 
 <p class="right-side-updated">Last updated on 23 Jul 2020</p>

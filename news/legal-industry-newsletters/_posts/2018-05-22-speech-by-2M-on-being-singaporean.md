@@ -21,7 +21,7 @@ Minister in Prime Minister's Office, Second Minister of Finance, Education and L
 Read the Minister’s speech which is particularly pertinent in a time of change with political and economic uncertainty, where we are confronted by social issues and undergoing a leadership transition.
 
 <div class="image">
-  <a href="/files/SpecialEditionNoteonBeingSingaporean.pdf/"><img src="/images/1527047602195.jpg/" title="special edition note on being singaporean" alt="special edition note on being singaporean"></a>
+  <a href="/files/SpecialEditionNoteonBeingSingaporean.pdf"><img src="/images/1527047602195.jpg/" title="special edition note on being singaporean" alt="special edition note on being singaporean"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 23 May 2018</p>

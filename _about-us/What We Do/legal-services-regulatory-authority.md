@@ -10,7 +10,7 @@ third_nav_title: 'What We Do'
 Legal Services Regulatory Authority
 ---
 
-The Legal Services Regulatory Authority (“LSRA”) was established as a department under the Ministry of Law on 18 November 2015, following recommendations made by the Committee to Review the Regulatory Framework of the Singapore Legal Services Sector ("Regulatory Committee”) in January 2014 (click [here](/files/Final-Report-of-the-Committee-to-Review-the-Reg-Framework-of-the-Spore-Legal-Sector.pdf/){:target="_blank"} for the Committee’s report).
+The Legal Services Regulatory Authority (“LSRA”) was established as a department under the Ministry of Law on 18 November 2015, following recommendations made by the Committee to Review the Regulatory Framework of the Singapore Legal Services Sector ("Regulatory Committee”) in January 2014 (click [here](/files/Final-Report-of-the-Committee-to-Review-the-Reg-Framework-of-the-Spore-Legal-Sector.pdf){:target="_blank"} for the Committee’s report).
 
 The LSRA is helmed by the Director of Legal Services (“DLS”), who oversees the regulation of all law practice entities and the registration of foreign lawyers in Singapore.
 

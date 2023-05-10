@@ -143,7 +143,7 @@ Singapore 329560<br>
 22. The Penal Code Amendment Bill is targeted to be tabled in Parliament in November this year.
 
 The Penal Code Review Committee Report is available here:<br>
-[Penal Code Review Committee Report](/files/PCRC_Report_Public_Consult_9_Sept.pdf/){:target="_blank"}(3.09MB)
+[Penal Code Review Committee Report](/files/PCRC_Report_Public_Consult_9_Sept.pdf){:target="_blank"}(3.09MB)
 
 <b>Ministry of Home Affairs & Ministry of Law<br>
 9 September 2018</b>

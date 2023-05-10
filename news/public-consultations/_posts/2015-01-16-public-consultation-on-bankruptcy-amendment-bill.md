@@ -16,7 +16,7 @@ Public Consultation on the Bankruptcy (Amendment) Bill
 
 2. In October 2013, the Insolvency Law Review Committee also submitted its report (“ILRC Report”) to MinLaw, which included recommendations on reforms to the bankruptcy regime. 
 
-3. Pursuant to the above, MinLaw intends to introduce reforms to the bankruptcy regime by way of a Bankruptcy (Amendment) Bill (the “Bill”), a copy of which is attached at [**Annex A**](/files/Annex-A-Draft-Bankruptcy-Amendment-Bill-160115.pdf/). These reforms include: 
+3. Pursuant to the above, MinLaw intends to introduce reforms to the bankruptcy regime by way of a Bankruptcy (Amendment) Bill (the “Bill”), a copy of which is attached at [**Annex A**](/files/Annex-A-Draft-Bankruptcy-Amendment-Bill-160115.pdf). These reforms include: 
 
 <ol style="list-style-type: lower-alpha">
   <li>Increasing the debt threshold for bankruptcy from $10,000 to $15,000; </li>
@@ -26,7 +26,7 @@ Public Consultation on the Bankruptcy (Amendment) Bill
 </ol>
 
 {:start="4"}
-4. This public consultation seeks the public’s views on the reforms that will be introduced by the Bill.  A summary of the key reforms is attached at [**Annex B**](/files/Annex-B-Summary-of-Key-Reforms.pdf/)(324KB).
+4. This public consultation seeks the public’s views on the reforms that will be introduced by the Bill.  A summary of the key reforms is attached at [**Annex B**](/files/Annex-B-Summary-of-Key-Reforms.pdf)(324KB).
 
 5. MinLaw invites interested parties to provide views and feedback on the proposed reforms to Singapore’s bankruptcy regime. The consultation period is from 16 January 2015 to 24 February 2015. The feedback may be sent in electronic form or hard copy form to:
 

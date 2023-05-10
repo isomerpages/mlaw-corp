@@ -23,7 +23,7 @@ India’s arbitration awakening was one of the topics addressed by Senior Minist
 This Note outlines the key messages of the speeches, including how Singapore and Indian arbitration professionals can work together for mutual benefit, and how Singapore has kept up with the evolving dispute resolution landscape, by developing a full suite of international dispute resolution services for parties to select from depending on their needs and preferences.
 
 <div class="image">
-  <a href="/files/NoteonIndiaArbitraionAwakening.pdf/"><img src="/images/1514961833041.jpg/" alt="image of pdf: india's arbitration awakening"></a>
+  <a href="/files/NoteonIndiaArbitraionAwakening.pdf"><img src="/images/1514961833041.jpg/" alt="image of pdf: india's arbitration awakening"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 03 Jan 2018</p>

@@ -14,7 +14,7 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 
 <b>A <u>Background</u></b>
 
-1. The Singapore International Commercial Court (“SICC”) Committee was appointed in May 2013 to study the viability of developing a framework to establish the SICC. The SICC Committee released its [Report](/files/Annex_A-SICC_Committee_Report.pdf/){:target="_blank"} on 29 November 2013 and public consultation on the Report was conducted between 3 December 2013 and 31 January 2014. The feedback received was supportive of the initiative and included suggestions on how to make the SICC attractive to potential users. 
+1. The Singapore International Commercial Court (“SICC”) Committee was appointed in May 2013 to study the viability of developing a framework to establish the SICC. The SICC Committee released its [Report](/files/Annex_A-SICC_Committee_Report.pdf){:target="_blank"} on 29 November 2013 and public consultation on the Report was conducted between 3 December 2013 and 31 January 2014. The feedback received was supportive of the initiative and included suggestions on how to make the SICC attractive to potential users. 
 
 2. The Government welcomes the SICC Committee’s recommendation to establish the SICC and thanks all parties who have provided feedback. For the next stage, it will be necessary to pass relevant legislation to advance this new initiative. The Ministry of Law proposes to table four Bills to make the following changes:
 
@@ -34,21 +34,21 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 
 4. The proposed Constitution of the Republic of Singapore (Amendment) Bill adopts the abovementioned recommendations made by the SICC Committee, save that “Associate Judges” will be named “International Judges”. The Bill seeks to empower the President to appoint, on the advice of the Prime Minister, a person who, in the opinion of the Chief Justice, has the necessary qualifications, experience and professional standing to be an International Judge. In addition, the Bill seeks to update provisions relating to the Judiciary, in the form of certain miscellaneous and technical amendments (e.g. to align the definition of a “Judge of the Supreme Court” with the proposed judiciary framework).
 
-5. The proposed Constitution of the Republic of Singapore (Amendment) Bill is found at [Annex A](/files/140407_SICC_Annex_A.PDF/){:target="_blank"}.
+5. The proposed Constitution of the Republic of Singapore (Amendment) Bill is found at [Annex A](/files/140407_SICC_Annex_A.pdf){:target="_blank"}.
 
 <u><i>Supreme Court of Judicature (Amendment) Bill</i></b>
 
 {:start="6"}
 6. The SICC Committee recommended (see Report at para [17]) that the SICC must be a superior court of law to maximise the international enforceability of its decisions. The proposed Supreme Court of Judicature (Amendment) Bill provides for the establishment of the SICC as a division of the High Court with jurisdiction to hear and try actions of an international and commercial nature. The Bill also contains provisions defining the powers of the SICC, the role of International Judges and addresses other consequential and technical matters.
 
-7. The proposed Supreme Court of Judicature (Amendment) Bill is found at [Annex B](/files/140407_SICC_Annex_B.PDF/){:target="_blank"}.
+7. The proposed Supreme Court of Judicature (Amendment) Bill is found at [Annex B](/files/140407_SICC_Annex_B.pdf){:target="_blank"}.
 
 <u><i>Evidence (Amendment) Bill</i></b>
 
 {:start="8"}
 8. The SICC Committee recommended (see Report at para [34]) that in line with the international character of the SICC, foreign law need not be pleaded and proved as fact in SICC proceedings. The proposed Evidence (Amendment) Bill 2014 proposes to allow judges to take judicial notice of foreign law, and dispense with proof of foreign law in certain situations in accordance with the Rules of Court. In addition, the Bill seeks to make a number of ancillary or consequential amendments.
 
-9. The proposed Evidence (Amendment) Bill is found at [Annex C](/files/140407_SICC_Annex_C.PDF/){:target="_blank"}.
+9. The proposed Evidence (Amendment) Bill is found at [Annex C](/files/140407_SICC_Annex_C.pdf){:target="_blank"}.
 
 <u><i>Legal Profession (Amendment) Bill</i></b>
 
@@ -73,10 +73,10 @@ Public Consultation on drafts of the Constitution (Amendment) Bill, Supreme Cour
 
 <sup>[1]</sup> Please note that the numbering and placement of provisions in this consultation draft will be subject to technical changes and re-organisation. The final format and placement of the provisions may therefore differ in the final Bills. The final Bills will also contain other amendments that are not the subject of this public consultation.
 
-[Annex A: Constitution of the Republic of Singapore (Amendment) Bill 2014](/files/140407_SICC_Annex_A.PDF/){:target="_blank"}(212KB)<br>
-[Annex B: Supreme Court of Judicature (Amendment) Bill 2014](/files/140407_SICC_Annex_B.PDF/){:target="_blank"}(230KB)<br>
-[Annex C: Evidence (Amendment) Bill 2014](/files/140407_SICC_Annex_C.PDF/){:target="_blank"}(127KB)<br>
-[Annex D: Legal Profession (Amendment) Bill 2014](/files/140407_SICC_Annex_D.PDF/){:target="_blank"}(710KB)<br>
+[Annex A: Constitution of the Republic of Singapore (Amendment) Bill 2014](/files/140407_SICC_Annex_A.pdf){:target="_blank"}(212KB)<br>
+[Annex B: Supreme Court of Judicature (Amendment) Bill 2014](/files/140407_SICC_Annex_B.pdf){:target="_blank"}(230KB)<br>
+[Annex C: Evidence (Amendment) Bill 2014](/files/140407_SICC_Annex_C.pdf){:target="_blank"}(127KB)<br>
+[Annex D: Legal Profession (Amendment) Bill 2014](/files/140407_SICC_Annex_D.pdf){:target="_blank"}(710KB)<br>
 
 <p class="right-side-updated">Last updated on 14 Apr 2014
 </p>

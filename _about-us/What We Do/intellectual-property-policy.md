@@ -23,13 +23,13 @@ MinLaw oversees various aspects of IP policy, including those relating to patent
 
 The implementation of IP policies also involves the [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"} (IPOS), a statutory board under MinLaw. IPOS is the lead government agency that advises on IP laws, maintains the IP Registers, and engages businesses on their IP needs.
 
-This [infographic](/files/Singapore-Intellectual-Property-Regime-2018.pdf/){:target="_blank"} provides an overview of Singapore’s IP regime, and the services available to help businesses maximise their competitive edge using IP.
+This [infographic](/files/Singapore-Intellectual-Property-Regime-2018.pdf){:target="_blank"} provides an overview of Singapore’s IP regime, and the services available to help businesses maximise their competitive edge using IP.
 
 **Developing Singapore as a Global IP Hub in Asia**
 
 Singapore’s IP regime is recognised as one of the world’s best. Since 2014, Singapore has been ranked among the top five in the world by the World Economic Forum’s Global Competitiveness Index for the strength of our IP protection.
 
-In 2013, the Government released the [IP Hub Master Plan](/files/IP-HUB-MASTER-PLAN-REPORT-2-APR-2013.pdf/){:target="_blank"} to leverage Singapore’s key strengths and guide our development as a Global IP Hub in Asia. It is envisaged that Singapore will strengthen our position as a hub for (i.) IP transactions and management, (ii.) quality IP filings, and (iii.) IP dispute resolution.
+In 2013, the Government released the [IP Hub Master Plan](/files/IP-HUB-MASTER-PLAN-REPORT-2-APR-2013.pdf){:target="_blank"} to leverage Singapore’s key strengths and guide our development as a Global IP Hub in Asia. It is envisaged that Singapore will strengthen our position as a hub for (i.) IP transactions and management, (ii.) quality IP filings, and (iii.) IP dispute resolution.
 
 *Quality Patent Search and Examination Services, a Gateway to the Region and Beyond*
 
@@ -51,7 +51,7 @@ IPOS has developed an IP Competency Framework (IPCF) in consultation with indust
 
 **Updating the IP Hub Master Plan to Support Singapore’s Future Economy**
 
-In February 2017, the Committee on the Future Economy (CFE) released its recommendations on economic strategies for the next decade. IPOS and MinLaw released an [Update to the IP Hub Master Plan](/files/Update-to-IP-Hub-Master-Plan.pdf/){:target="_blank"} to support the CFE’s recommendation to strengthen Singapore’s innovation ecosystem and help achieve better economic outcomes in the future economy.
+In February 2017, the Committee on the Future Economy (CFE) released its recommendations on economic strategies for the next decade. IPOS and MinLaw released an [Update to the IP Hub Master Plan](/files/Update-to-IP-Hub-Master-Plan.pdf){:target="_blank"} to support the CFE’s recommendation to strengthen Singapore’s innovation ecosystem and help achieve better economic outcomes in the future economy.
 
 The Update builds upon the progress achieved and focuses on helping innovative enterprises harness IP for growth, particularly through the active commercialisation and monetisation of their IP.
 

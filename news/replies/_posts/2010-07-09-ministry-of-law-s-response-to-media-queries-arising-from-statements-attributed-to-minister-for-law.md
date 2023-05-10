@@ -31,6 +31,6 @@ Ministry of Law's response to media queries arising from statements attributed t
 
 8. A detailed summary of the relevant facts is at the Annex.
 
-[Annex (108KB)](/files/linkclickeaca.pdf/)
+[Annex (108KB)](/files/linkclickeaca.pdf)
 
 <p class="right-side-updated">Last updated on 25 Nov 2012</p>

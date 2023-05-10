@@ -74,11 +74,11 @@ Some consequential changes will also need to be made to the Legal Profession (So
 
 <b><u>Attachments</u></b>
 
-A: [Press release](/files/linkclickbadf.pdf/)(30.2KB)<br>
-B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf/)(180KB)<br>
-C: [Overview of changes to legislation](/files/linkclick6f06.pdf/)(618KB)<br>
-D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf/)(62.9KB)<br>
+A: [Press release](/files/linkclickbadf.pdf)(30.2KB)<br>
+B: [Second public consultation paper on proposed measures to safeguard conveyancing moneys](/files/linkclick0623.pdf)(180KB)<br>
+C: [Overview of changes to legislation](/files/linkclick6f06.pdf)(618KB)<br>
+D: [Response to feedback from first public consultation](/files/linkclick73ae.pdf)(62.9KB)<br>
 
-***Note**: Please follow this link for the  [response to feedback from second public consultation](/files/linkclickde7f.pdf/)(46.8KB)*
+***Note**: Please follow this link for the  [response to feedback from second public consultation](/files/linkclickde7f.pdf)(46.8KB)*
 
 <p class="right-side-updated">Last updated on 26 Sep 2013</p>
