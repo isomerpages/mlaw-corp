@@ -1,6 +1,6 @@
 ---
 title: 'Public to be consulted on proposed changes to the en bloc sale legislation'
-permalink: /news/press-releases/public-to-be-consulted-on-proposed-changes-to-the-en-bloc-sale-legislation
+permalink: /news/press-releases/public-to-be-consulted-on-proposed-changes-to-the-en-bloc-sale-legislation/
 breadcrumb: 'Press Releases'
 
 ---

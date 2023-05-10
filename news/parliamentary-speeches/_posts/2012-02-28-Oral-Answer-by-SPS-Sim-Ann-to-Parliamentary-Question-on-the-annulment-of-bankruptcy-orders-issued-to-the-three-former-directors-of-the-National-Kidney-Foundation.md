@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by SPS Sim Ann to Parliamentary Question on the annulment of bankruptcy orders issued to the three former directors of the National Kidney Foundation'
 date: 2012-02-28T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-the-annulment-of-bankruptcy-orders-issued
+permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-the-annulment-of-bankruptcy-orders-issued/
 
 ---
 

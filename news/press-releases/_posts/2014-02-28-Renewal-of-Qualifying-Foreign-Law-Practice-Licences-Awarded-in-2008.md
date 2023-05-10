@@ -1,6 +1,6 @@
 ---
 title: 'Renewal of Qualifying Foreign Law Practice Licences Awarded in 2008'
-permalink: /news/press-releases/renewal-of-qualifying-foreign-law-practice-licences-awarded-in-2
+permalink: /news/press-releases/renewal-of-qualifying-foreign-law-practice-licences-awarded-in-2/
 breadcrumb: 'Press Releases'
 
 ---

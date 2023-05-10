@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Grab''s Upfront Cash Programme'
 date: 2020-01-06T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Grab-Upfront-Cash-Programme
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-grab-upfront-cash-programme/
 
 ---
 

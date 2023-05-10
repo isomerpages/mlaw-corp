@@ -1,6 +1,6 @@
 ---
 title: 'Re-Align Framework to Renegotiate Contracts for Businesses Significantly Impacted by COVID-19'
-permalink: /realign/re-align-framework
+permalink: /realign/re-align-framework/
 breadcrumb: 'Re-Align Framework to Renegotiate Contracts for Businesses Significantly Impacted by COVID-19'
 
 ---

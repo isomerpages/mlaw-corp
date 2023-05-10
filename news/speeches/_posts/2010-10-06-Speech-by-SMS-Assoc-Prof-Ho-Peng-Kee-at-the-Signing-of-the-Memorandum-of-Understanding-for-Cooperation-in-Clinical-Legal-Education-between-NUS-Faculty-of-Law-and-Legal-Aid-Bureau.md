@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Signing of the Memorandum of Understanding for Cooperation in Clinical Legal Education between NUS Faculty of Law and Legal Aid Bureau'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-signing-of-the-memorandum-of-understanding-for
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-signing-of-the-memorandum-of-understanding-for/
 breadcrumb: Speeches
 
 ---

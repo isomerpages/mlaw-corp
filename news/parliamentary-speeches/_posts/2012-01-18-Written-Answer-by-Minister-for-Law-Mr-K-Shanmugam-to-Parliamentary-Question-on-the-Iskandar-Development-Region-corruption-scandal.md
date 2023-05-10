@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Iskandar Development Region corruption scandal'
 date: 2012-01-18T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-parliamentary-question-on-the-iskandar
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-parliamentary-question-on-the-iskandar/
 
 ---
 

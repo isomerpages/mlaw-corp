@@ -1,6 +1,6 @@
 ---
 title: 'Advisory Committee on Moneylending to provide recommendations on regulatory regime'
-permalink: /news/press-releases/advisory-committee-on-moneylending-to-provide-recommendations-on
+permalink: /news/press-releases/advisory-committee-on-moneylending-to-provide-recommendations-on/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Notice - Licence Conditions'
 date: 2011-10-13T00:00:00.000Z
-permalink: /news/announcements/notice-licence-conditions
+permalink: /news/announcements/notice-licence-conditions/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  MinLaw and IPOS Seek Feedback on Draft Copyright Bill
 date: 2021-02-05
-permalink: /news/press-releases/2021-02-05-MinLaw-IPOS-Seek-Feedback-on-Draft-Copyright-Bill
+permalink: /news/press-releases/2021-02-05-minlaw-ipos-seek-feedback-on-draft-copyright-bill/
 ---
 
 5 Feb 2021 Posted in [Press releases](/news/press-releases)

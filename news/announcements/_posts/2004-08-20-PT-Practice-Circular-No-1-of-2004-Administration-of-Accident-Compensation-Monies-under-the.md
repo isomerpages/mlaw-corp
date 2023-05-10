@@ -1,7 +1,7 @@
 ---
 title: 'PT Practice Circular No.1 of 2004 Administration of Accident Compensation Monies under the...'
 date: 2004-08-20T00:00:00.000Z
-permalink: /news/announcements/pt-practice-circular-no-1-of-2004-administration-of-accident-compensation-monies-under-the
+permalink: /news/announcements/pt-practice-circular-no-1-of-2004-administration-of-accident-compensation-monies-under-the/
 
 ---
 

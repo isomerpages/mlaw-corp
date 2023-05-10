@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Senior Minister of State Indranee Rajah, Ministry of Law and Ministry of Finance, at the Future Lawyering Conference 2017'
-permalink: /news/speeches/keynote-address-by-senior-minister-of-state-indranee-rajah--mini
+permalink: /news/speeches/keynote-address-by-senior-minister-of-state-indranee-rajah--mini/
 breadcrumb: Speeches
 
 ---

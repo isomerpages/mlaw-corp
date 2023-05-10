@@ -2,7 +2,7 @@
 layout: post
 title: First Reading Of Criminal Law (Miscellaneous Amendments) Bill
 date: 2021-08-02
-permalink: /news/press-releases/2021-08-02-First-Reading-Of-Criminal-Law-Miscellaneous-Amendments-Bill
+permalink: /news/press-releases/2021-08-02-first-reading-of-criminal-law-miscellaneous-amendments-bill/
 ---
 
 02 Aug 2021 Posted in [Press releases](/news/press-releases)

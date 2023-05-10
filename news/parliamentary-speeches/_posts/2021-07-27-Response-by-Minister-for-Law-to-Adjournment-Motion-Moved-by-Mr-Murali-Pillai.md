@@ -1,7 +1,7 @@
 ---
 title: Response by Minister for Law, Mr K Shanmugam, to Adjournment Motion Moved by Mr Murali Pillai
 date: 2021-07-27
-permalink: /news/parliamentary-speeches/2021-07-27-Response-by-Minister-for-Law-to-Adjournment-Motion-Moved-by-Mr-Murali-Pillai
+permalink: /news/parliamentary-speeches/2021-07-27-response-by-minister-for-law-to-adjournment-motion-moved-by-mr-murali-pillai/
 ---
 
 27 July 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

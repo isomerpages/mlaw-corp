@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law''s Addendum to the President''s Address'
-permalink: /news/press-releases/ministry-of-law-s-addendum-to-the-president-s-address
+permalink: /news/press-releases/ministry-of-law-s-addendum-to-the-president-s-address/
 breadcrumb: 'Press Releases'
 
 ---

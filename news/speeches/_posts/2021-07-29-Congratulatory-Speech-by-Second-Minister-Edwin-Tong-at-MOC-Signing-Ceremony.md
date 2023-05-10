@@ -1,7 +1,7 @@
 ---
 title: 'Congratulatory Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law at the Signing Ceremony of Memorandum of Cooperation in Tokyo, Japan'
 date: 2021-07-29
-permalink: /news/speeches/2021-07-29-Congratulatory-Speech-by-Second-Minister-Edwin-Tong-at-MOC-Signing-Ceremony
+permalink: /news/speeches/2021-07-29-congratulatory-speech-by-second-minister-edwin-tong-at-moc-signing-ceremony/
 
 ---
 

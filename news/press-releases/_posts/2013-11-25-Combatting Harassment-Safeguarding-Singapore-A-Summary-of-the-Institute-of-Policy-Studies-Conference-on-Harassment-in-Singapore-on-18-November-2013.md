@@ -1,6 +1,6 @@
 ---
 title: 'Combatting Harassment, Safeguarding Singapore - A Summary of the Institute of Policy Studies'' Conference on Harassment in Singapore on 18 November 2013'
-permalink: /news/press-releases/ips-conf-summary
+permalink: /news/press-releases/ips-conf-summary/
 breadcrumb: 'Press Releases'
 
 ---

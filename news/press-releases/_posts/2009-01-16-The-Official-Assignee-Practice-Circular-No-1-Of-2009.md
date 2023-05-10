@@ -1,6 +1,6 @@
 ---
 title: 'The Official Assignee - Practice Circular No.1 Of 2009'
-permalink: /news/press-releases/the-official-assignee-practice-circular-no-1-of-2009
+permalink: /news/press-releases/the-official-assignee-practice-circular-no-1-of-2009/
 breadcrumb: 'Press Releases'
 
 ---

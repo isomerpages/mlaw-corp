@@ -1,7 +1,7 @@
 ---
 title: 'The Official Receiver - Practice Circular No.1 Of 2007'
 date: 2007-01-01T00:00:00.000Z
-permalink: /news/announcements/the-official-receiver-practice-circular-no-1-of-2007
+permalink: /news/announcements/the-official-receiver-practice-circular-no-1-of-2007/
 
 ---
 

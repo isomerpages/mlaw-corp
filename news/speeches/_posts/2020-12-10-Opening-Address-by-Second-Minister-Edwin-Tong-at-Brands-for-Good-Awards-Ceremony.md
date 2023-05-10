@@ -1,7 +1,7 @@
 ---
 title: 'Opening Address by Mr Edwin Tong, Minister for Community, Culture and Youth and Second Minister for Law at the Brands for Good Awards Ceremony'
 date: 2020-12-10
-permalink: /news/speeches/2020-12-10-Opening-Address-by-Second-Minister-Edwin-Tong-at-Brands-for-Good-Awards-Ceremony
+permalink: /news/speeches/2020-12-10-opening-address-by-second-minister-edwin-tong-at-brands-for-good-awards-ceremony/
 ---
 
 

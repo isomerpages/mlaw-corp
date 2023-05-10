@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law, Mr K Shanmugam, at the Latin American Investment Summit'
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-latin-american-investment-summit
+permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-latin-american-investment-summit/
 breadcrumb: Speeches
 
 ---

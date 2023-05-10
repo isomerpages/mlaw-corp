@@ -1,6 +1,6 @@
 ---
 title: 'Enhancements to the Protection from Harassment Act (“POHA”)'
-permalink: /news/press-releases/Enhancements-to-the-Protection-from-Harassment-Act-POHA
+permalink: /news/press-releases/enhancements-to-the-protection-from-harassment-act-poha/
 
 ---
 

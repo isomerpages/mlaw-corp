@@ -1,6 +1,6 @@
 ---
 title: 'Recommendations Released on Strengthening Singapore as an International Centre for Debt Restructuring'
-permalink: /news/press-releases/recommendations-released-on-strengthening-singapore-as-an-intern
+permalink: /news/press-releases/recommendations-released-on-strengthening-singapore-as-an-intern/
 breadcrumb: 'Press Releases'
 
 ---

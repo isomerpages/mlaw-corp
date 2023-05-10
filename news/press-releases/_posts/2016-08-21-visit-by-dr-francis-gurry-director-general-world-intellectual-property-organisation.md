@@ -1,6 +1,6 @@
 ---
 title: 'Visit by Dr Francis Gurry, Director General, World Intellectual Property Organization'
-permalink: /news/press-releases/visit-by-dr-francis-gurry--director-general--world-intellectual-
+permalink: /news/press-releases/visit-by-dr-francis-gurry--director-general--world-intellectual-/
 breadcrumb: 'Press Releases'
 
 ---

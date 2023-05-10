@@ -1,7 +1,7 @@
 ---
 title: 'Opening Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, for TechLaw.Fest 2019'
 date: 2019-09-05T00:00:00.000Z
-permalink: /news/speeches/Opening-Address-by-Mr-K-Shanmugam-Minister-for-Home-Affairs-and-Minister-for-TechLawFest
+permalink: /news/speeches/opening-address-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-techlawfest/
 
 ---
 

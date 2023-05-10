@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Criminal Procedure Code Bill'
-permalink: /news/press-releases/proposed-amendments-to-the-criminal-procedure-code-bill
+permalink: /news/press-releases/proposed-amendments-to-the-criminal-procedure-code-bill/
 breadcrumb: 'Press Releases'
 
 ---

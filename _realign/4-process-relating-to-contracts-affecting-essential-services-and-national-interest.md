@@ -1,6 +1,6 @@
 ---
 title: 4. Process relating to contracts affecting Essential Services and National Interest
-permalink: /realign/process-essential-services
+permalink: /realign/process-essential-services/
 breadcrumb: 4. Process relating to contracts affecting Essential Services and National Interest
 ---
 

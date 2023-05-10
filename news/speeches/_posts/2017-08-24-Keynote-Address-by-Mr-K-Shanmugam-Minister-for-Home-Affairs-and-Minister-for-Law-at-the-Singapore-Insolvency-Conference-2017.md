@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the Singapore Insolvency Conference 2017'
-permalink: /news/speeches/keynote-address-by-mr-k-shanumgam--minister-for-home-affairs-and
+permalink: /news/speeches/keynote-address-by-mr-k-shanumgam--minister-for-home-affairs-and/
 breadcrumb: Speeches
 
 ---

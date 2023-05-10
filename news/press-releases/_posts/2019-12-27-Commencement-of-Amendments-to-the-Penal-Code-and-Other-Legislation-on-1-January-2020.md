@@ -1,7 +1,7 @@
 ---
 title: 'Commencement of Amendments to the Penal Code and Other Legislation on 1 January 2020'
 date: 2019-12-27T00:00:00.000Z
-permalink: /news/press-releases/Commencement-of-Amendments-to-the-Penal-Code-and-Other-Legislation-on-1-January-2020
+permalink: /news/press-releases/commencement-of-amendments-to-the-penal-code-and-other-legislation-on-1-january-2020/
 
 ---
 

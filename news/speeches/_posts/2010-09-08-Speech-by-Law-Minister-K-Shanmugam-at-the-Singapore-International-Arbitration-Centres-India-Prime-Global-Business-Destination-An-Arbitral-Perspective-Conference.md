@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Singapore International Arbitration Centre''s ''India: Prime Global Business Destination - An Arbitral Perspective'' Conference'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-international-arbitration-centre-s-india
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-singapore-international-arbitration-centre-s-india/
 breadcrumb: Speeches
 
 ---

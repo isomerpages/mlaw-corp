@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Changes to Singapore’s Registered Designs Regime'
-permalink: /news/press-releases/public-consultation-on-proposed-changes-to--singapores-registere
+permalink: /news/press-releases/public-consultation-on-proposed-changes-to--singapores-registere/
 breadcrumbs: 'Press Releases'
 
 ---

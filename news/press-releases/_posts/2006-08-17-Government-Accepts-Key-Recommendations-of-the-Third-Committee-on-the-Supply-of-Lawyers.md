@@ -1,6 +1,6 @@
 ---
 title: 'Government Accepts Key Recommendations of the Third Committee on the Supply of Lawyers'
-permalink: /news/press-releases/government-accepts-key-recommendations-of-the-third-committee-on-the-supply-of-lawyers-and-
+permalink: /news/press-releases/government-accepts-key-recommendations-of-the-third-committee-on-the-supply-of-lawyers-and-/
 
 ---
 

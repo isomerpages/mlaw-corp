@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Harvard Club Dinner'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-harvard-club-dinner
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-harvard-club-dinner/
 breadcrumb: Speeches
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Appointment of new Chief Executive, Singapore Land Authority
 date: 2021-03-24
-permalink: /news/press-releases/appointment-of-new-chief-executive-singapore-land-authority
+permalink: /news/press-releases/appointment-of-new-chief-executive-singapore-land-authority/
 ---
 
 24 Mar 2021 Posted in [Press releases](/news/press-releases)

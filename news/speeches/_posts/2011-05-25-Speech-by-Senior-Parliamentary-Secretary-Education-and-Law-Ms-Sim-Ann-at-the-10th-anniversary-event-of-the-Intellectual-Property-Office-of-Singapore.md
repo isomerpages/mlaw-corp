@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Parliamentary Secretary (Education and Law) Ms Sim Ann at the 10th anniversary event of the Intellectual Property Office of Singapore'
-permalink: /news/speeches/speech-by-senior-parliamentary-secretary-education-and-law-ms-sim-ann-at-the-10th-anniversary
+permalink: /news/speeches/speech-by-senior-parliamentary-secretary-education-and-law-ms-sim-ann-at-the-10th-anniversary/
 breadcrumb: Speeches
 
 ---

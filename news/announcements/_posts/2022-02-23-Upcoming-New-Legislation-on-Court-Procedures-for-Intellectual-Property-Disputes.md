@@ -1,7 +1,7 @@
 ---
 title: 'Upcoming New Legislation on Court Procedures for Intellectual Property Disputes'
 date: 2022-02-23T00:00:00.000Z
-permalink: /news/announcements/Upcoming-New-Legislation-on-Court-Procedures-for-Intellectual-Property-Disputes
+permalink: /news/announcements/upcoming-new-legislation-on-court-procedures-for-intellectual-property-disputes/
 ---
 
 23 Feb 2022 Posted in [Announcements](/news/announcements)

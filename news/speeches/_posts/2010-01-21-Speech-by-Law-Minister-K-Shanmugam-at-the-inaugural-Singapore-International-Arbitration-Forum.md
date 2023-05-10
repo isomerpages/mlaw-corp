@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the inaugural Singapore International Arbitration Forum'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-inaugural-singapore-international-arbitration-forum
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-inaugural-singapore-international-arbitration-forum/
 breadcrumb: Speeches
 
 ---

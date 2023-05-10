@@ -1,6 +1,6 @@
 ---
 title: 'FB’s response to false article'
-permalink: /news/press-releases/fb-response-to-false-article
+permalink: /news/press-releases/fb-response-to-false-article/
 breadcrumb: 'Press Releases'
 
 ---

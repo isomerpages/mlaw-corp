@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Law Minister K Shanmugam at NUS-SMU Criminal Justice Conference'
-permalink: /news/speeches/minister-keynote-nus-smu-criminal-justice-conference
+permalink: /news/speeches/minister-keynote-nus-smu-criminal-justice-conference/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'The Registry of Moneylenders notice dated 12 Mar 2012'
-permalink: /news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html
+permalink: /news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html/
 breadcrumb: Announcements
 
 ---

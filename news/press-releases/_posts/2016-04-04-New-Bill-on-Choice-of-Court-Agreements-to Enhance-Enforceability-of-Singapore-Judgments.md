@@ -1,6 +1,6 @@
 ---
 title: 'New Bill on Choice of Court Agreements to Enhance Enforceability of Singapore Judgments'
-permalink: /news/press-releases/new-bill-on-choice-of-court-agreements--to-enhance-enforceabilit
+permalink: /news/press-releases/new-bill-on-choice-of-court-agreements--to-enhance-enforceabilit/
 breadcrumb: 'Press Releases'
 
 ---

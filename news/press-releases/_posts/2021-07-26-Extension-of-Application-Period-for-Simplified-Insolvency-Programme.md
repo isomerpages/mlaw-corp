@@ -2,7 +2,7 @@
 layout: post
 title:  Extension of Application Period for the Simplified Insolvency Programme
 date: 2021-07-26
-permalink: /news/press-releases/Extension-of-Application-Period-for-Simplified-Insolvency-Programme
+permalink: /news/press-releases/extension-of-application-period-for-simplified-insolvency-programme/
 ---
 
 26 Jul 2021 Posted in [Press releases](/news/press-releases)

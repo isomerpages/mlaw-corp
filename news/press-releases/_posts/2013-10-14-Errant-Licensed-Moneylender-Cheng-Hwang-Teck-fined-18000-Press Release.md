@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Cheng Hwang Teck, fined $18,000 - Press Release'
-permalink: /news/press-releases/errant-licensed-moneylender--cheng-hwang-teck--fined--18-000
+permalink: /news/press-releases/errant-licensed-moneylender--cheng-hwang-teck--fined--18-000/
 
 ---
 p

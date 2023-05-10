@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Moneylenders (Amendment) Bill 2008 by Senior Minister of State Assoc Prof Ho Peng Kee'
 date: 2008-11-17T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-statutes-misc-amendments-bill-2008-by-senior-minister-of-state-assoc
+permalink: /news/parliamentary-speeches/second-reading-speech-on-statutes-misc-amendments-bill-2008-by-senior-minister-of-state-assoc/
 
 ---
 

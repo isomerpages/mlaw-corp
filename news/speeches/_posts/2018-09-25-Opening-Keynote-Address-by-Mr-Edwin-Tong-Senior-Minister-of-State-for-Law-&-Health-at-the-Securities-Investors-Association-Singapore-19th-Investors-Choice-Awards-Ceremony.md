@@ -1,6 +1,6 @@
 ---
 title: 'Opening Keynote Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Securities Investors Association (Singapore) 19th Investors'' Choice Awards Ceremony'
-permalink: /news/speeches/keynote-address-sms-edwin-tong-SIAS-19th-choice-awards-dinner-ceremony
+permalink: /news/speeches/keynote-address-sms-edwin-tong-sias-19th-choice-awards-dinner-ceremony/
 breadcrumb: Speeches
 
 ---

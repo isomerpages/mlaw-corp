@@ -1,6 +1,6 @@
 ---
 title: Extension of Relief Periods under the COVID-19 (Temporary Measures) Act for Specified Categories of Contracts 
-permalink: /news/press-releases/Extension-of-Relief-Periods-under-the-COVID-19-Temporary-Measures-Act-for-Specified-Categories-of-Contracts 
+permalink: /news/press-releases/extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-categories-of-contracts/ 
 ---
 
 12 Oct 2020 Posted in [Press releases](/news/press-releases)

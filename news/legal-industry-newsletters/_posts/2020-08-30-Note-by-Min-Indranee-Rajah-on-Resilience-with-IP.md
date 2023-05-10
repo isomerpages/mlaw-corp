@@ -1,6 +1,6 @@
 ---
 title: 'Note by Minister Indranee Rajah on Resilience with IP'
-permalink: /news/legal-industry-newsletter/Note-by-Min-Indranee-Rajah-on-Resilience-with-IP/
+permalink: /news/legal-industry-newsletter/note-by-min-indranee-rajah-on-resilience-with-ip/
 breadcrumb: 'Note by Minister Indranee Rajah on Resilience with IP'
 
 ---

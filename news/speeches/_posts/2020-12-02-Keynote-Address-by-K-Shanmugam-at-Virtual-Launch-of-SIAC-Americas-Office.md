@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Address by Minister for Home Affairs and Minister for Law K Shanmugam SC at the Virtual Launch of the Singapore International Arbitration Centre Americas Office'
 date: 2020-12-02
-permalink: /news/speeches/2020-12-02-Keynote-Address-by-K-Shanmugam-at-Virtual-Launch-of-SIAC-Americas-Office
+permalink: /news/speeches/2020-12-02-keynote-address-by-k-shanmugam-at-virtual-launch-of-siac-americas-office/
 
 ---
 

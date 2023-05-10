@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Second Minister for Law, Mr Edwin Tong, on the Statute Law Reform Bill'
 date: 2020-01-05
-permalink: /news/parliamentary-speeches/2021-01-05-Second-Reading-Speech-by-2M-Edwin-Tong-on-the-Statute-Law-Reform-Bill
+permalink: /news/parliamentary-speeches/2021-01-05-second-reading-speech-by-2m-edwin-tong-on-the-statute-law-reform-bill/
 
 ---
 

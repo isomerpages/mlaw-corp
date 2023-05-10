@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Number of Legal Service Officers of the Singapore Legal Service Serving in the Judicial Branch and the Legal Branch 
 date: 2021-04-05
-permalink: /news/parliamentary-speeches/2021-04-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-On-The-Number-Of-Legal-Service-Officers-Of-The-Singapore-Legal-Service-Serving-In-The-Judicial-Branch-And-The-Legal-Branch 
+permalink: /news/parliamentary-speeches/2021-04-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-the-number-of-legal-service-officers-of-the-singapore-legal-service-serving-in-the-judicial-branch-and-the-legal-branch/ 
 ---
 
 05 Apr 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

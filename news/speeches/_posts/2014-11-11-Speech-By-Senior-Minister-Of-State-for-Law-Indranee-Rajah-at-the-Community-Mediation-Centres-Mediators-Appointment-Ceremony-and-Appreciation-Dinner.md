@@ -1,6 +1,6 @@
 ---
 title: 'Speech By Senior Minister Of State for Law, Indranee Rajah, at the Community Mediation Centre’s Mediators Appointment Ceremony and Appreciation Dinner'
-permalink: /news/speeches/speech-by-SMS-MACAD-2014
+permalink: /news/speeches/speech-by-sms-macad-2014/
 breadcrumb: Speeches
 
 ---

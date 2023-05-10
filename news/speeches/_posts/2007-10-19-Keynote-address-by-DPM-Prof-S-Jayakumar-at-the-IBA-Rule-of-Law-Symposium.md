@@ -1,6 +1,6 @@
 ---
 title: 'Keynote address by DPM Prof S Jayakumar at the IBA Rule of Law Symposium'
-permalink: /news/speeches/keynote-address-by-dpm-prof-s-jayakumar-at-the-iba-rule-of-law-symposium
+permalink: /news/speeches/keynote-address-by-dpm-prof-s-jayakumar-at-the-iba-rule-of-law-symposium/
 breadcrumb: Speeches
 
 ---

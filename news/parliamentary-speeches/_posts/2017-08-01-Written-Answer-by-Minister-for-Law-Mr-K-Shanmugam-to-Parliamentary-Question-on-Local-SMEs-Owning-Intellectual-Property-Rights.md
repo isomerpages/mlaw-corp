@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Local SMEs Owning Intellectual Property Rights'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen8
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--mr-k-shanmugam--to-parliamen8/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

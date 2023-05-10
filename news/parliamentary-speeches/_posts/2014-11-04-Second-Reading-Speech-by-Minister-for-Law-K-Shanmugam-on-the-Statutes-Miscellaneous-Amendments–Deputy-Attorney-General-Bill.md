@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Minister for Law, K Shanmugam, on the Statutes (Miscellaneous Amendments – Deputy Attorney-General) Bill'
 date: 2014-11-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-speech-Min-SMAB-2014
+permalink: /news/parliamentary-speeches/2r-speech-min-smab-2014/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on the Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers'
 date: 2019-11-15T00:00:00.000Z
-permalink: /news/press-releases/Public-Consultation-on-the-Proposals-to-Implement-the-Recommendations-of-the-CPTL
+permalink: /news/press-releases/public-consultation-on-the-proposals-to-implement-the-recommendations-of-the-cptl/
 
 ---
 

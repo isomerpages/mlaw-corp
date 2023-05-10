@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on International Arbitration Act'
 date: 2019-06-26T00:00:00.000Z
-permalink: /news/public-consultations/public-consultation-on-international-arbitration-act
+permalink: /news/public-consultations/public-consultation-on-international-arbitration-act/
 
 ---
 

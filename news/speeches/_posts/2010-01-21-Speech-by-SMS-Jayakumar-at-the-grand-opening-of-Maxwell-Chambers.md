@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SM S Jayakumar at the grand opening of Maxwell Chambers'
-permalink: /news/speeches/speech-by-sm-s-jayakumar-at-the-grand-opening-of-maxwell-chambers
+permalink: /news/speeches/speech-by-sm-s-jayakumar-at-the-grand-opening-of-maxwell-chambers/
 breadcrumb: Speeches
 
 ---

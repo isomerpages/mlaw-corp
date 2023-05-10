@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Assoc Prof Ho Peng Kee at the Asian Legal Business Asia Law Awards 2007'
-permalink: /news/speeches/speech-by-assoc-prof-ho-peng-kee-at-the-asian-legal-business-asia-law-awards-2007
+permalink: /news/speeches/speech-by-assoc-prof-ho-peng-kee-at-the-asian-legal-business-asia-law-awards-2007/
 breadcrumb: Speeches
 
 ---

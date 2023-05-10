@@ -2,7 +2,7 @@
 layout: post
 title:  Additional Temporary Relief Measures for Property Sector due to Coronavirus  Disease 2019 (COVID-19) Pandemic
 date: 2020-10-08
-permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-for-property-sector-due-to-covid19
+permalink: /news/press-releases/2020-10-08-additional-temporary-relief-measures-for-property-sector-due-to-covid19/
 ---
 
 08 Oct 2020 Posted in [Press releases](/news/press-releases)

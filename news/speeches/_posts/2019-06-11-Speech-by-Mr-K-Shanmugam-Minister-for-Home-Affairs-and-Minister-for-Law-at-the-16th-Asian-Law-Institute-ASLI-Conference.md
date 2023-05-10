@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr K.Shanmugam, Minister for Home Affairs and Minister for Law, at the 16th Asian Law Institute (ASLI) Conference'
 date: 2019-06-11T00:00:00.000Z
-permalink: /news/speeches/Speech-by-law-minister-ASLI-Conf
+permalink: /news/speeches/speech-by-law-minister-asli-conf/
 
 ---
 

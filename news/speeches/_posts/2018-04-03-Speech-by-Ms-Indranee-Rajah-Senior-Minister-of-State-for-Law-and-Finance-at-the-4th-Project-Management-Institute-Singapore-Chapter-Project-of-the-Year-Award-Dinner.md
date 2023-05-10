@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the 4th Project Management Institute Singapore Chapter Project of the Year Award Dinner'
-permalink: /news/speeches/speech-by-sms-indranee-fourth-project-management-institute-SG-chapter-project-of-the-year-award-dinner
+permalink: /news/speeches/speech-by-sms-indranee-fourth-project-management-institute-sg-chapter-project-of-the-year-award-dinner/
 breadcrumb: Speeches
 
 ---

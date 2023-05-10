@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Plans to regulate alternative legal service providers in Singapore
 date: 2021-07-05
-permalink: /news/parliamentary-speeches/2021-07-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Plans-to-regulate-alternative-legal-service-providers-in-Singapore
+permalink: /news/parliamentary-speeches/2021-07-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-plans-to-regulate-alternative-legal-service-providers-in-singapore/
 ---
 
 05 July 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

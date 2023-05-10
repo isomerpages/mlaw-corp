@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on the Report of the Singapore International Commercial Court Committee'
-permalink: /news/public-consultations/public-consultation-on-SICC-committee-report/
+permalink: /news/public-consultations/public-consultation-on-sicc-committee-report/
 breadcrumb: 'Public Consultation on the Report of the Singapore International Commercial Court Committee'
 
 ---
@@ -20,7 +20,7 @@ Public Consultation on the Report of the Singapore International Commercial Cour
 
 3. The SICC Committee submitted its report to the Ministry of Law (MinLaw) on 29 November 2013.
 
-4. The Government welcomes the recommendations made by the SICC Committee. MinLaw and the Supreme Court will carefully consider the recommendations as well as the issues raised within. The SICC Committee’s report can be found at [Annex A](/files/Annex-A-SICC-Committee-Report.pdf)(754KB). MinLaw has also issued a press release, which may be found [here](/news/press-releases/government-welcomes-recommendation-to-establish-SICC).  
+4. The Government welcomes the recommendations made by the SICC Committee. MinLaw and the Supreme Court will carefully consider the recommendations as well as the issues raised within. The SICC Committee’s report can be found at [Annex A](/files/Annex-A-SICC-Committee-Report.pdf)(754KB). MinLaw has also issued a press release, which may be found [here](/news/press-releases/government-welcomes-recommendation-to-establish-sicc).  
 
 **Public Consultation**
 

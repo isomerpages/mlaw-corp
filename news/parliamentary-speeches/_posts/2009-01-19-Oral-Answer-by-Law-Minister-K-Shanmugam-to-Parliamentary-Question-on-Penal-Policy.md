@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Law Minister K Shanmugam to Parliamentary Question on Penal Policy'
 date: 2009-01-19T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-penal-policy
+permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-penal-policy/
 
 ---
 

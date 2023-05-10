@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Questions on Moneylending'
-permalink: /news/parliamentary-speeches/written-answer-by-Minister-for-Law-KShanmugam-to-Parliamentary-questions-on-moneylending
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-kshanmugam-to-parliamentary-questions-on-moneylending/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

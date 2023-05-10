@@ -1,6 +1,6 @@
 ---
 title: 'Errant licensed moneylender convicted and sentenced - Tan Wee Teck (Swift De Credit Pte Ltd) - Press release'
-permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-tan-wee-teck-swift-de-credit-pte-ltd
+permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-tan-wee-teck-swift-de-credit-pte-ltd/
 breadcrumb: 'Press Releases'
 
 ---

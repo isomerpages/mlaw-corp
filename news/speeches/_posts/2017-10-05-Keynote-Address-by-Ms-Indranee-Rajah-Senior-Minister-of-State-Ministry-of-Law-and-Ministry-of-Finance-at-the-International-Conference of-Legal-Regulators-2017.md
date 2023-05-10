@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law and Ministry of Finance, at the International Conference of Legal Regulators 2017'
-permalink: /news/speeches/keynote-address-by-sms-indranee-international-conference-of-legal-regulators-2017
+permalink: /news/speeches/keynote-address-by-sms-indranee-international-conference-of-legal-regulators-2017/
 breadcrumb: Speeches
 
 ---

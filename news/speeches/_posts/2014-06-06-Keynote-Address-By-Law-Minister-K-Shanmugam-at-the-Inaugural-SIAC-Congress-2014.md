@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address By Law Minister K Shanmugam at the Inaugural SIAC Congress 2014'
-permalink: /news/speeches/keynote-address-by-law-minister-k-shanmugam-at-the-inaugural-sia
+permalink: /news/speeches/keynote-address-by-law-minister-k-shanmugam-at-the-inaugural-sia/
 breadcrumb: Speeches
 
 ---

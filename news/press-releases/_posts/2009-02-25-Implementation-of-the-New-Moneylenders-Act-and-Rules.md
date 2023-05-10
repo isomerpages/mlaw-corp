@@ -1,6 +1,6 @@
 ---
 title: 'Implementation of the New Moneylenders Act and Rules'
-permalink: /news/press-releases/implementation-of-the-new-moneylenders-act-and-rules
+permalink: /news/press-releases/implementation-of-the-new-moneylenders-act-and-rules/
 breadcrumb: 'Press Releases'
 
 ---

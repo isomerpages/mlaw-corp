@@ -1,6 +1,6 @@
 ---
 title: 'Award of the second round of Qualifying Foreign Law Practice licences'
-permalink: /news/press-releases/award-of-second-round-qflp-licences
+permalink: /news/press-releases/award-of-second-round-qflp-licences/
 breadcrumb: 'Press Releases'
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech by Minister for Law, Mr K Shanmugam, on the COVID-19 (Temporary Measures) (Amendment No. 4) Bill'
 date: 2021-09-14
-permalink: /news/parliamentary-speeches/2021-09-14-Second-Reading-Speech-by-Minister-for-Law-Mr-K-Shanmugam-on-COVID-19-Temporary-Measures-Amendment-No-4-Bill
+permalink: /news/parliamentary-speeches/2021-09-14-second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-covid-19-temporary-measures-amendment-no-4-bill/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'DPM Jayakumar announces recommendations of the Committee to review the legal services sector'
 date: 2007-12-07T00:00:00.000Z
-permalink: /news/announcements/dpm-jayakumar-announces-recommendations-of-the-committee-to-review-the-legal-services-sector
+permalink: /news/announcements/dpm-jayakumar-announces-recommendations-of-the-committee-to-review-the-legal-services-sector/
 
 ---
 

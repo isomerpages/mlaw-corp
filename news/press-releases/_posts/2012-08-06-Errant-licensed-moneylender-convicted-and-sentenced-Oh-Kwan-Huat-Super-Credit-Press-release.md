@@ -1,6 +1,6 @@
 ---
 title: 'Errant licensed moneylender convicted and sentenced - Oh Kwan Huat (Super Credit) - Press release'
-permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-oh-kwan-huat-super-credit-press-release
+permalink: /news/press-releases/errant-licensed-moneylender-convicted-and-sentenced-oh-kwan-huat-super-credit-press-release/
 breadcrumb: 'Press Releases'
 
 ---

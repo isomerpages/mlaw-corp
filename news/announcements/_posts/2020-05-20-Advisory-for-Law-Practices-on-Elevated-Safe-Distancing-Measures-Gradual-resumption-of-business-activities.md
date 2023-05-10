@@ -1,7 +1,7 @@
 ---
 title: 'Advisory for Law Practices on Elevated Safe Distancing Measures - Gradual Resumption of Business Activities'
 date: 2020-05-20T00:00:00.000Z
-permalink: /news/announcements/Advisory-for-Law-Practices-on-Elevated-Safe-Distancing-Measures-Gradual-resumption-of-business-activities
+permalink: /news/announcements/advisory-for-law-practices-on-elevated-safe-distancing-measures-gradual-resumption-of-business-activities/
 
 ---
 

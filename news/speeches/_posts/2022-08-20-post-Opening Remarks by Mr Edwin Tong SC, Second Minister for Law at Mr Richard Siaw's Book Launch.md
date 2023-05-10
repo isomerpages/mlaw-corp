@@ -1,7 +1,7 @@
 ---
 title: Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community and
   Youth and Second Minister for Law at Mr Richard Siaw's Book Launch
-permalink: /news/speeches/Opening-remarks-by-2M-at-Mr-Richard-Siaw-book-launch
+permalink: /news/speeches/opening-remarks-by-2m-at-mr-richard-siaw-book-launch/
 date: 2022-08-20
 layout: post
 description: ""

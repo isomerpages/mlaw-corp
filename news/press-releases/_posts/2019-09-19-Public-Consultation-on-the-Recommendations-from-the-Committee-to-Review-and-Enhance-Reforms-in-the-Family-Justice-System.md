@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on the Recommendations from the Committee to Review and Enhance Reforms in the Family Justice System'
 date: 2019-09-19T00:00:00.000Z
-permalink: /news/press-releases/Public-Consultation-on-recommendations-from-committee-to-review-and-enhance-reforms-in-family-justice-system
+permalink: /news/press-releases/public-consultation-on-recommendations-from-committee-to-review-and-enhance-reforms-in-family-justice-system/
 
 ---
 

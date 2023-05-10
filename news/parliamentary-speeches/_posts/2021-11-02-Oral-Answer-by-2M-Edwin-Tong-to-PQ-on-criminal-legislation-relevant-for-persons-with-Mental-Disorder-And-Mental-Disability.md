@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on Review on Criminal Legislation Relevant to Persons with Mental Disorder and Mental Disability
 date: 2021-11-02
-permalink: /news/parliamentary-speeches/2021-11-02-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-criminal-legislation-relevant-for-persons-with-Mental-Disorder-And-Mental-Disability
+permalink: /news/parliamentary-speeches/2021-11-02-oral-answer-by-2m-edwin-tong-to-pq-on-criminal-legislation-relevant-for-persons-with-mental-disorder-and-mental-disability/
 
 ---
  

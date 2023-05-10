@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at SIIA Conference on Governance and Anti-corruption'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-siia-conference-on-governance-and-anti-corruption
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-siia-conference-on-governance-and-anti-corruption/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Legal Support Resources Available During the Circuit Breaker'
 date: 2020-04-24T00:00:00.000Z
-permalink: /news/announcements/Legal-Support-Resources-Available-During-the-Circuit-Breaker
+permalink: /news/announcements/legal-support-resources-available-during-the-circuit-breaker/
 
 ---
 

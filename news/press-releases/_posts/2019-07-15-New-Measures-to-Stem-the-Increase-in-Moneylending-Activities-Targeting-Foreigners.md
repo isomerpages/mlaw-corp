@@ -1,7 +1,7 @@
 ---
 title: 'New Measures to Stem the Increase in Moneylending Activities Targeting Foreigners'
 date: 2019-07-15T00:00:00.000Z
-permalink: /news/press-releases/Press-Release-New-Measures-to-Stem-the-Increase-in-Moneylending-Activities-Targeting-Foreigners
+permalink: /news/press-releases/press-release-new-measures-to-stem-the-increase-in-moneylending-activities-targeting-foreigners/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by Minister of State for Home Affairs, Mr Desmond Tan, to Parliamentary Questions on Parti Liyani v Public Prosecutor
 date: 2020-10-05
-permalink: /news/parliamentary-speeches/Oral-Answer-by-Minister-of-State-for-Home-Affairs-Desmond-Tan-to-PQs-on-Parti-Liyani-v-Public-Prosecutor
+permalink: /news/parliamentary-speeches/oral-answer-by-minister-of-state-for-home-affairs-desmond-tan-to-pqs-on-parti-liyani-v-public-prosecutor/
 ---
  
 05 Oct 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

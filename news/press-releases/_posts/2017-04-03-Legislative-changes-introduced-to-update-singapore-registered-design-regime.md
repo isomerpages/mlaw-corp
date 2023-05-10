@@ -1,6 +1,6 @@
 ---
 title: 'Legislative Changes Introduced to Update Singapore’s Registered Designs Regime'
-permalink: /news/press-releases/legislative-changes-introduced-to-update-singapores-registered-d
+permalink: /news/press-releases/legislative-changes-introduced-to-update-singapores-registered-d/
 breadcrumb: 'Press Releases'
 
 ---

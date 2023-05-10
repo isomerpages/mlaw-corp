@@ -2,7 +2,7 @@
 layout: post
 title:  STRATEGY TO BOOST SINGAPORE’S POSITION AS A GLOBAL INTANGIBLE ASSETS & IP HUB UNVEILED
 date: 2021-04-26
-permalink: /news/press-releases/2021-04-26-STRATEGY-TO-BOOST-SINGAPORES-POSITION-AS-A-GLOBAL-INTANGIBLE-ASSETS-n-IP-HUB-UNVEILED
+permalink: /news/press-releases/2021-04-26-strategy-to-boost-singapores-position-as-a-global-intangible-assets-n-ip-hub-unveiled/
 ---
 
 26 Apr 2021 Posted in [Press releases](/news/press-releases)

@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Accused Persons Who Applied for Legal Representation Under the Criminal Legal Aid Scheme (CLAS) 
 date: 2021-02-24
-permalink: /news/parliamentary-speeches/2021-02-24-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-legal-representation-for-accused-persons-under-CLAS
+permalink: /news/parliamentary-speeches/2021-02-24-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-legal-representation-for-accused-persons-under-clas/
 ---
 
 24 Feb 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

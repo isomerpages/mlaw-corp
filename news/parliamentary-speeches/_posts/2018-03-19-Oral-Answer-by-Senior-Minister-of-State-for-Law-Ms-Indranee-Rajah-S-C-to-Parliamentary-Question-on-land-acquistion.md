@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Ms Indranee Rajah S.C., to Parliamentary Question on land acquistion'
-permalink: /news/parliamentary-speeches/oral-answer-by-sms-indranee-rajah-to-parliamentary-question-on-land-acqusition
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-indranee-rajah-to-parliamentary-question-on-land-acqusition/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

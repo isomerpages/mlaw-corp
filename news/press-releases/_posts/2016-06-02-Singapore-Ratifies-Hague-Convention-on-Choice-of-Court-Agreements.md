@@ -1,6 +1,6 @@
 ---
 title: 'Singapore Ratifies Hague Convention on Choice of Court Agreements'
-permalink: /news/press-releases/singapore-ratifies-hague-convention-on-choice-of-court-agreement
+permalink: /news/press-releases/singapore-ratifies-hague-convention-on-choice-of-court-agreement/
 breadcrumb: 'Press Releases'
 
 ---

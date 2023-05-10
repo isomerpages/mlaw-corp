@@ -1,6 +1,6 @@
 ---
 title: 'Additional findings on Koh Seah Wee''s fraudulent activities'
-permalink: /news/press-releases/additional-findings-on-koh-seah-wee-s-fraudulent-activities
+permalink: /news/press-releases/additional-findings-on-koh-seah-wee-s-fraudulent-activities/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Simpler and More Efficient Civil Legal Aid Application Process with Greater Flexibility to Grant Aid'
 date: 2019-10-09T00:00:00.000Z
-permalink: /news/press-releases/Simpler-and-More-Efficient-Civil-Legal-Aid-Application-Process
+permalink: /news/press-releases/simpler-and-more-efficient-civil-legal-aid-application-process/
 
 ---
 

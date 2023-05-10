@@ -1,7 +1,7 @@
 ---
 title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on
   Post-Appeal Applications in Capital Cases Bill
-permalink: /news/parliamentary-speeches/2022-11-29-second-reading-Speech-SPS-on-PACC-bill/
+permalink: /news/parliamentary-speeches/2022-11-29-second-reading-speech-sps-on-pacc-bill/
 date: 2022-11-29
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Jones Day Professorship of Commercial Law Lecture'
-permalink: /news/speeches/opening-address-sms-edwin-tong-jones-day-professorship-commercial-law-lecture
+permalink: /news/speeches/opening-address-sms-edwin-tong-jones-day-professorship-commercial-law-lecture/
 breadcrumb: Speeches
 
 ---

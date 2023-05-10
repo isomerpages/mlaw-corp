@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law K Shanmugam to PQ on Ownership of
   Landed Properties
-permalink: /news/parliamentary-speeches/2022-05-09-written-answer-pq-ownership-landed-properties
+permalink: /news/parliamentary-speeches/2022-05-09-written-answer-pq-ownership-landed-properties/
 date: 2022-05-09
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: 'Signing Ceremony for the Agreement on Mutual Legal Assistance in Criminal Matters between the Government of the Republic of Singapore and the Government of the French Republic'
 date: 2020-07-22T00:00:00.000Z
-permalink: /news/press-releases/Singapore-and-France-Sign-Agreement-on-Mutual-Legal-Assistance-in-Criminal-Matters
+permalink: /news/press-releases/singapore-and-france-sign-agreement-on-mutual-legal-assistance-in-criminal-matters/
 
 ---
 

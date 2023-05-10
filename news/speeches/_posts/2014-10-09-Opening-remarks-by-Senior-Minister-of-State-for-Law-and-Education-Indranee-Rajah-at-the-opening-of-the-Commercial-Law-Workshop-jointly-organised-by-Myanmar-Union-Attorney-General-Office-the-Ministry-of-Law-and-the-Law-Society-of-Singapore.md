@@ -1,6 +1,6 @@
 ---
 title: 'Opening remarks by Senior Minister of State for Law and Education, Indranee Rajah, at the opening of the Commercial Law Workshop jointly organised by Myanmar''s Union Attorney General''s Office, the Ministry of Law and the Law Society of Singapore'
-permalink: /news/speeches/SMS-opening-speech-at-commercial-law-workshop
+permalink: /news/speeches/sms-opening-speech-at-commercial-law-workshop/
 breadcrumb: Speeches
 
 ---

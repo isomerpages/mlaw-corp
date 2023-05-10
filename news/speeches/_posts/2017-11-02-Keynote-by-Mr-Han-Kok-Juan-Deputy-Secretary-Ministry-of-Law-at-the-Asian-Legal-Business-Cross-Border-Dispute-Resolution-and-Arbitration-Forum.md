@@ -1,6 +1,6 @@
 ---
 title: 'Keynote by Mr Han Kok Juan, Deputy Secretary, Ministry of Law, at the Asian Legal Business Cross-Border Dispute Resolution and Arbitration Forum'
-permalink: /news/speeches/keynote-by-mr-han-kok-juan--deputy-secretary--ministry-of-law--a
+permalink: /news/speeches/keynote-by-mr-han-kok-juan--deputy-secretary--ministry-of-law--a/
 breadcrumb: Speeches
 
 ---

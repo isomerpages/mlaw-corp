@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on bankruptcy'
 date: 2014-03-03T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-to-PQ-on-bankruptcy
+permalink: /news/parliamentary-speeches/written-answer-by-minister-to-pq-on-bankruptcy/
 
 ---
 

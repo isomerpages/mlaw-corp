@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Law Society Pro Bono Services’ Fundraising Dinner “Just Makan”'
-permalink: /news/speeches/speech-by-sms-edwin-tong-LSPBS-Just-Makan-fundraising-dinner
+permalink: /news/speeches/speech-by-sms-edwin-tong-lspbs-just-makan-fundraising-dinner/
 breadcrumb: Speeches
 
 ---

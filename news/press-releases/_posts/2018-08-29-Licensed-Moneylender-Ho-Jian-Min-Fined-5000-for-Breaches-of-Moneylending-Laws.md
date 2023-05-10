@@ -1,7 +1,7 @@
 ---
 title: 'Licensed Moneylender, Ho Jian Min, Fined $5,000 for Breaches of Moneylending Laws'
 date: 2018-08-29T00:00:00.000Z
-permalink: /news/press-releases/Licensed-Moneylender-Ho-Jian-Min-Fined-5000-For-Breaches-Of-Moneylending-Laws
+permalink: /news/press-releases/licensed-moneylender-ho-jian-min-fined-5000-for-breaches-of-moneylending-laws/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Final Extension of Application Period for the Simplified Insolvency Programme
-permalink: /news/press-releases/Final-Extension-of-Application-Period-for-the-Simplified-Insolvency-Programme
+permalink: /news/press-releases/final-extension-of-application-period-for-the-simplified-insolvency-programme/
 date: 2022-07-28
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: 'Appointment of New Deputy Chairman and Board Members to the Singapore Land Authority'
-permalink: /news/press-releases/appointment-of-new-deputy-chairman-and-board-members-to-the--sin
+permalink: /news/press-releases/appointment-of-new-deputy-chairman-and-board-members-to-the--sin/
 breadcrumb: 'Press Releases'
 
 ---

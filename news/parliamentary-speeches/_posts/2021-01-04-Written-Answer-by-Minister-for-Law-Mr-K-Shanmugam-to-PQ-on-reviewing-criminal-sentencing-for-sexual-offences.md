@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Reviewing Criminal Sentencing for Sexual Offences
 date: 2021-01-04
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-reviewing-criminal-sentencing-for-sexual-offences
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-reviewing-criminal-sentencing-for-sexual-offences/
 
 ---
 

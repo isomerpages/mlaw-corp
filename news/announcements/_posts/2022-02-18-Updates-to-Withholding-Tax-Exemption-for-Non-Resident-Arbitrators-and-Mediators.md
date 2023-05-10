@@ -1,7 +1,7 @@
 ---
 title: 'Updates to Withholding Tax Exemption for Non-Resident Arbitrators and Mediators'
 date: 2022-02-18T00:00:00.000Z
-permalink: /news/announcements/Updates-to-Withholding-Tax-Exemption-for-Non-Resident-Arbitrators-and-Mediators
+permalink: /news/announcements/updates-to-withholding-tax-exemption-for-non-resident-arbitrators-and-mediators/
 
 ---
 

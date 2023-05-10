@@ -1,6 +1,6 @@
 ---
 title: 'Singapore and China Mediation Centres Work Together to Help Businesses Resolve Disputes along Belt and Road'
-permalink: /news/press-releases/singapore-and-china-mediation-centres-work-together-to-help-busi
+permalink: /news/press-releases/singapore-and-china-mediation-centres-work-together-to-help-busi/
 breadcrumb: 'Press Releases'
 
 ---

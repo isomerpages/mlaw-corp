@@ -1,6 +1,6 @@
 ---
 title: 'Follow Up Statement by Ministry of Law on Essex Court Chambers Duxton (Singapore Group Practice)'
-permalink: /news/press-releases/follow-up-statement-by-ministry-of-law-on-essex-court-chambers-d
+permalink: /news/press-releases/follow-up-statement-by-ministry-of-law-on-essex-court-chambers-d/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on freehold land'
-permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-freehold-land
+permalink: /news/parliamentary-speeches/written-answer-parliamentary-question-freehold-land/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law and Foreign Affairs, K Shanmugam, at at the International Bar Association 4th Asia Pacific Regional Forum Conference'
-permalink: /news/speeches/speech-by-minister-shanmugam-IBA-4th-AP-regional-forum-conference
+permalink: /news/speeches/speech-by-minister-shanmugam-iba-4th-ap-regional-forum-conference/
 breadcrumb: Speeches
 
 ---

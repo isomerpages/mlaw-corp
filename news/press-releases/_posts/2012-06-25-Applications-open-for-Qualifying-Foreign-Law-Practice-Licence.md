@@ -1,6 +1,6 @@
 ---
 title: 'Applications open for Qualifying Foreign Law Practice Licence'
-permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-licence
+permalink: /news/press-releases/applications-open-for-qualifying-foreign-law-practice-licence/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Status of Writ of Seizure and Sale (WSS) Proceedings Currently on Hold
 date: 2020-11-02
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-status-of-writ-of-seizure-and-sale-proceedings-currently-on-hold
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-status-of-writ-of-seizure-and-sale-proceedings-currently-on-hold/
 
 ---
 

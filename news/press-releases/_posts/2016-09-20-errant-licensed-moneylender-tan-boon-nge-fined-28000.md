@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Tan Boon Nge, Fined $28,000'
-permalink: /news/press-releases/errant-licensed-moneylender--tan-boon-nge--fined--28-000
+permalink: /news/press-releases/errant-licensed-moneylender--tan-boon-nge--fined--28-000/
 breadcrumb: 'Press Releases'
 
 ---

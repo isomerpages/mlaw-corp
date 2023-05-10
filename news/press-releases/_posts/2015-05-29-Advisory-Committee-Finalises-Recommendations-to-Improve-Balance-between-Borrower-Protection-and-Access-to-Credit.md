@@ -1,6 +1,6 @@
 ---
 title: 'Advisory Committee Finalises Recommendations to Improve Balance between Borrower Protection and Access to Credit'
-permalink: /news/press-releases/advisory-committee-finalises-recommendations-to-improve-balance-
+permalink: /news/press-releases/advisory-committee-finalises-recommendations-to-improve-balance-/
 breadcrumbs: 'Press Releases'
 
 ---

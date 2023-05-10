@@ -1,6 +1,6 @@
 ---
 title: 'WIPO Director General Concludes Official Visit to Singapore'
-permalink: /news/press-releases/wipo-director-general-concludes-official-visit-to-singapore
+permalink: /news/press-releases/wipo-director-general-concludes-official-visit-to-singapore/
 breadcrumb: 'Press Releases'
 
 ---

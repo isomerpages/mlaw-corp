@@ -1,6 +1,6 @@
 ---
 title: 'Detailed Response to IBAHRI''s Report'
-permalink: /news/press-releases/detailed-response-to-ibahri-s-report
+permalink: /news/press-releases/detailed-response-to-ibahri-s-report/
 breadcrumb: 'Press Releases'
 
 ---

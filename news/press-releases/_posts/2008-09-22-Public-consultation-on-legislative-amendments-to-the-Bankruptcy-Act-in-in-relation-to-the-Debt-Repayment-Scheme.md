@@ -1,6 +1,6 @@
 ---
 title: 'Public consultation on legislative amendments to the Bankruptcy Act in in relation to the Debt Repayment Scheme'
-permalink: /news/press-releases/press-releases/public-consultation-on-legislative-amendments-to-the-bankruptcy-act-in-in-relation-to-the-debt
+permalink: /news/press-releases/press-releases/public-consultation-on-legislative-amendments-to-the-bankruptcy-act-in-in-relation-to-the-debt/
 breadcrumb: 'Press Releases'
 
 ---

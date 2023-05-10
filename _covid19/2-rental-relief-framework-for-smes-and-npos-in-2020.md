@@ -1,6 +1,6 @@
 ---
 title: 2) Rental Relief Framework for SMEs and NPOs in 2020
-permalink: /covid19-relief/rental-relief-framework-for-SMEs
+permalink: /covid19-relief/rental-relief-framework-for-smes/
 breadcrumb: 2) Rental Relief Framework for SMEs and NPOs in 2020
 
 ---

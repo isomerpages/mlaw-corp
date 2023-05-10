@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law, Mr K Shanmugam, at the Asia Pacific Legal Executive Briefing'
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-asia-pacific-legal-executive-briefing
+permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-asia-pacific-legal-executive-briefing/
 breadcrumb: Speeches
 
 ---

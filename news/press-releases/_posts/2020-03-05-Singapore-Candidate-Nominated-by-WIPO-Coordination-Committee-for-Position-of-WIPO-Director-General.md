@@ -1,7 +1,7 @@
 ---
 title: 'Singapore’s Candidate Nominated by WIPO Coordination Committee (CoCo) for Position of WIPO Director General'
 date: 2020-03-05T00:00:00.000Z
-permalink: /news/press-releases/Singapore-Candidate-Nominated-by-WIPO-Coordination-Committee-for-Position-of-WIPO-Director-General
+permalink: /news/press-releases/singapore-candidate-nominated-by-wipo-coordination-committee-for-position-of-wipo-director-general/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the COVID-19 (Temporary Measures) Bill 2020'
 date: 2020-04-07T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Senior-Minister-of-State-for-Law-Mr-Edwin-Tong-on-the-COVID-19-Temporary-Measures-Bill-2020
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law-mr-edwin-tong-on-the-covid-19-temporary-measures-bill-2020/
 
 ---
 

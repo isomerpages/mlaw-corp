@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Litigants-in-Person in Family Law Cases Annually From 2019 to 2021
 date: 2022-02-15
-permalink: /news/parliamentary-speeches/2022-02-15-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Litigants-in-Person-in-Family-Law-Cases-Annually-From-2019-to-2021
+permalink: /news/parliamentary-speeches/2022-02-15-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-litigants-in-person-in-family-law-cases-annually-from-2019-to-2021/
 ---
 
 15 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Changes to Copyright Regime in Singapore'
-permalink: /news/public-consultations/public-consultation-on-proposed-changes-to-copyright-regime-in-s
+permalink: /news/public-consultations/public-consultation-on-proposed-changes-to-copyright-regime-in-s/
 
 ---
 

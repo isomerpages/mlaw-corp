@@ -1,6 +1,6 @@
 ---
 title: 'Designation of Credit Bureau under the Revised Moneylenders Act'
-permalink: /news/press-releases/designation-of-credit-bureau-under-the-revised-moneylenders-act
+permalink: /news/press-releases/designation-of-credit-bureau-under-the-revised-moneylenders-act/
 breadcrumb: 'Press Releases'
 
 ---

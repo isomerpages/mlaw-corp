@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean'
-permalink: /news/legal-industry-newsletter/speech-by-2M-on-being-singaporean/
+permalink: /news/legal-industry-newsletter/speech-by-2m-on-being-singaporean/
 breadcrumb: 'Speech by Second Minister for Law, Finance and Education, Indranee Rajah, on Being Singaporean'
 
 ---

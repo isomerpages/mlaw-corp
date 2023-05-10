@@ -1,6 +1,6 @@
 ---
 title: 'Closing Remarks by Senior Minister of State for Law and Education Ms Indranee Rajah SC at the Singapore Legal Futures Conference'
-permalink: /news/speeches/SMS-closing-remarks-LF-conference-2015
+permalink: /news/speeches/sms-closing-remarks-lf-conference-2015/
 breadcrumb: Speeches
 
 ---

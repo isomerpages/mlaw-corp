@@ -1,7 +1,7 @@
 ---
 title: 'Singapore Convention on Mediation Enters into Force'
 date: 2020-09-12T00:00:00.000Z
-permalink: /news/press-releases/2020-09-12-singapore-convention-on-mediation-enters-into-force
+permalink: /news/press-releases/2020-09-12-singapore-convention-on-mediation-enters-into-force/
 
 ---
 

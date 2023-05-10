@@ -1,6 +1,6 @@
 ---
 title: 'Legislative Changes to Enhance Singapore as a Trusted International Financial Centre'
-permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as-a-trusted-internatio
+permalink: /news/press-releases/legislative-changes-to-enhance-singapore-as-a-trusted-internatio/
 breadcrumb: 'Press Releases'
 
 ---

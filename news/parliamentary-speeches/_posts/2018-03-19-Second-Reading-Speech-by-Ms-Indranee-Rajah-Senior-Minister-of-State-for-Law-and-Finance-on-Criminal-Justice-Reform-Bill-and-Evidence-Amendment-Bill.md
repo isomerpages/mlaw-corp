@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, on Criminal Justice Reform Bill and Evidence (Amendment) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-criminal-justice-reform-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-criminal-justice-reform-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

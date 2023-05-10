@@ -1,7 +1,7 @@
 ---
 title: 'IMPORTANT NOTE: From 1 September 2002, we will not accept any manual submission of the travel...'
 date: 2002-09-01T00:00:00.000Z
-permalink: /news/announcements/important-note-from-1-september-2002-we-will-not-accept-any-manual-submission-of-the-travel
+permalink: /news/announcements/important-note-from-1-september-2002-we-will-not-accept-any-manual-submission-of-the-travel/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Speech by Mr K.Shanmugam, Minister for Home Affairs and Minister for Law, at the 5th ICC Asia Conference on International Arbitration'
 date: 2019-06-26T00:00:00.000Z
-permalink: /news/speeches/Keynote-Speech-at-5th-ICC-Asia-Conference-on-International-Arbitration-by-Minister-K-Shanmugam
+permalink: /news/speeches/keynote-speech-at-5th-icc-asia-conference-on-international-arbitration-by-minister-k-shanmugam/
 
 ---
 

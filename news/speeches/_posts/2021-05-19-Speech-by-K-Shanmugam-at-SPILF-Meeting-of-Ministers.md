@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Minister for Home Affairs and Minister for Law K Shanmugam SC at the St Petersburg International Legal Forum (SPILF) Meeting of Ministers'
 date: 2021-05-19
-permalink: /news/speeches/2021-05-19-Speech-by-K-Shanmugam-at-SPILF-Meeting-of-Ministers
+permalink: /news/speeches/2021-05-19-speech-by-k-shanmugam-at-spilf-meeting-of-ministers/
 
 ---
 

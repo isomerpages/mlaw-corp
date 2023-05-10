@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at the Singapore Land Authority Spatial Challenge 2011 Award Ceremony at The Plaza, National Library Building'
-permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-singapore-land-authority
+permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-singapore-land-authority/
 breadcrumb: Speeches
 
 ---

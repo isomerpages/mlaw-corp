@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Community Sentences Imposed since Enhancement of Community Sentencing Regime under Criminal Procedure Code
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Community-Sentences-Imposed-since-Enhancement-of-Community-Sentencing-Regime-under-Criminal-Procedure-Code
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-community-sentences-imposed-since-enhancement-of-community-sentencing-regime-under-criminal-procedure-code/
 
 ---
 

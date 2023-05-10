@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Statutes (Miscellaneous Amendments) Bill'
 date: 2014-01-21T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-by-sms-on-statutes-misc-amendments-bill-2014
+permalink: /news/parliamentary-speeches/second-reading-by-sms-on-statutes-misc-amendments-bill-2014/
 
 ---
 

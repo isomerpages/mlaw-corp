@@ -1,6 +1,6 @@
 ---
 title: 'Singapore and Vietnam sign agreement on legal and judicial cooperation'
-permalink: /news/press-releases/singapore-and-vietnam-sign-agreement-on-legal-and-judicial-cooperation
+permalink: /news/press-releases/singapore-and-vietnam-sign-agreement-on-legal-and-judicial-cooperation/
 breadcrumb: 'Press Releases'
 
 ---

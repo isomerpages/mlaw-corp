@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation Open For Feedback On Singapore’s Copyright Collective Rights Management Ecosystem'
-permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-co
+permalink: /news/press-releases/public-consultation-open-for-feedback-on-singapores-copyright-co/
 breadcrumb: 'Press Releases'
 
 ---

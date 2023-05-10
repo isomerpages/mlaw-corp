@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by SMS Indranee Rajah at South Asian Diaspora Convention 2016'
-permalink: /news/speeches/keynote-address-by-sms-indranee-rajah-at-south-asian-diaspora-co
+permalink: /news/speeches/keynote-address-by-sms-indranee-rajah-at-south-asian-diaspora-co/
 breadcrumb: Speeches
 
 ---

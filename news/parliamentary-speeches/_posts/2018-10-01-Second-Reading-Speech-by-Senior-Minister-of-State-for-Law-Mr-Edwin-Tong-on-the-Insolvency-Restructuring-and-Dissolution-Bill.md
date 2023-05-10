@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the Insolvency, Restructuring and Dissolution Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-insolvency-omnibus-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-insolvency-omnibus-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

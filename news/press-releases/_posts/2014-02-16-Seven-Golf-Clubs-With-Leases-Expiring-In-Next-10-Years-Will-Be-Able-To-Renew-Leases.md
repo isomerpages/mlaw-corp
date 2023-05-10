@@ -1,6 +1,6 @@
 ---
 title: 'Seven Golf Clubs With Leases Expiring In Next 10 Years Will Be Able To Renew Leases'
-permalink: /news/press-releases/golf-club-announcement
+permalink: /news/press-releases/golf-club-announcement/
 breadcrumb: 'Press Releases'
 
 ---

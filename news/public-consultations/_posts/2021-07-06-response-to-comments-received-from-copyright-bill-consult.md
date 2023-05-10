@@ -1,6 +1,6 @@
 ---
 title: 'Response to Comments Received from the Public Consultation on the Proposed Copyright Bill'
-permalink: /news/public-consultations/response-to-comments-received-from-copyright-bill-consult
+permalink: /news/public-consultations/response-to-comments-received-from-copyright-bill-consult/
 ---
 
 

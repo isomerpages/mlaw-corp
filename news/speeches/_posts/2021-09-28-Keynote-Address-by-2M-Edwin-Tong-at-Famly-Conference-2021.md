@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Address by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at Family Conference 2021'
 date: 2021-09-28
-permalink: /news/speeches/2021-09-28-Keynote-Address-by-2M-Edwin-Tong-at-Famly-Conference-2021
+permalink: /news/speeches/2021-09-28-keynote-address-by-2m-edwin-tong-at-famly-conference-2021/
 ---
 
 28 Sep 2021 Posted in [[Speeches](/news/speeches)]

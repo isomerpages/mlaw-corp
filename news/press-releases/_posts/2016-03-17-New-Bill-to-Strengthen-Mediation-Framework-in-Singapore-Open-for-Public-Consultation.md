@@ -1,6 +1,6 @@
 ---
 title: 'New Bill to Strengthen Mediation Framework in Singapore Open for Public Consultation'
-permalink: /news/press-releases/new-bill-to-strengthen-mediation-framework-in-singapore--open-fo
+permalink: /news/press-releases/new-bill-to-strengthen-mediation-framework-in-singapore--open-fo/
 breadcrumb: 'Press Releases'
 
 ---

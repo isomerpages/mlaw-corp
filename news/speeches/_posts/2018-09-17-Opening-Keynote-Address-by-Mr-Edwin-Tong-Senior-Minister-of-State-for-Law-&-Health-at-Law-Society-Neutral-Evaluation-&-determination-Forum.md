@@ -1,6 +1,6 @@
 ---
 title: 'Opening Keynote Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at Law Society Neutral Evaluation & Determination Forum'
-permalink: /news/speeches/keynote-address-sms-edwin-tong-lawsoc-neutral-evaluation-determination-forum
+permalink: /news/speeches/keynote-address-sms-edwin-tong-lawsoc-neutral-evaluation-determination-forum/
 breadcrumb: Speeches
 
 ---

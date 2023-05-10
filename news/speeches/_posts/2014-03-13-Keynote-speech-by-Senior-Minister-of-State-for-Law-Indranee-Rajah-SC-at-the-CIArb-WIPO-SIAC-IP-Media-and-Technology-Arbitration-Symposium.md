@@ -1,6 +1,6 @@
 ---
 title: 'Keynote speech by Senior Minister of State for Law, Indranee Rajah SC, at the CIArb-WIPO-SIAC IP Media and Technology Arbitration Symposium'
-permalink: /news/speeches/sms_-keynote-speech-for-ciarb-wipo-siac-ip-media-and-technology-
+permalink: /news/speeches/sms_-keynote-speech-for-ciarb-wipo-siac-ip-media-and-technology-/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Borrower Of Licensed Moneylender Sentenced - Press Release'
-permalink: /news/press-releases/Borrower-Of-Licensed-Moneylender-Sentenced-Press-Release
+permalink: /news/press-releases/borrower-of-licensed-moneylender-sentenced-press-release/
 breadcrumb: 'Press Releases'
 
 ---

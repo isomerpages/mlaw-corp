@@ -1,7 +1,7 @@
 ---
 title: 'Debt Repayment Scheme (DRS) notice dated 13 Aug 2014'
 date: 2014-08-13T00:00:00.000Z
-permalink: /news/announcements/debt-repayment-scheme--drs--notice-dated-13-aug-2014
+permalink: /news/announcements/debt-repayment-scheme--drs--notice-dated-13-aug-2014/
 
 ---
 

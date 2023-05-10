@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Minister for Law, K Shanmugam on The Protection from Online Falsehoods and Manipulation Bill'
 date: 2019-05-07T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Second-Reading-Speech-by-Minister-for-Law-K-Shanmugam-on-The-Protection-from-Online-Falsehoods-and-Manipulation-Bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-minister-for-law-k-shanmugam-on-the-protection-from-online-falsehoods-and-manipulation-bill/
 
 ---
 

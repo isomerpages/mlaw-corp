@@ -1,6 +1,6 @@
 ---
 title: 'Errant Licensed Moneylender, Yap Boon Keng, Fined $7,000'
-permalink: /news/press-releases/errant-licensed-moneylender--yap-boon-keng--fined--7-000
+permalink: /news/press-releases/errant-licensed-moneylender--yap-boon-keng--fined--7-000/
 breadcrumb: 'Press Releases'
 
 ---

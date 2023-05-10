@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Singapore Convention on Mediation and Plans to Promote Singapore as an International Dispute Resolution Hub
 date: 2021-02-16
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Singapore-Convention-on-Mediation-and-Plans-to-Promote-Singapore-as-an-International-Dispute-Resolution-Hub
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-singapore-convention-on-mediation-and-plans-to-promote-singapore-as-an-international-dispute-resolution-hub/
 
 ---
 

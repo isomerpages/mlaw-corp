@@ -1,7 +1,7 @@
 ---
 title: 'First Reading of Criminal Law Reform Bill and the Government''s Response to Feedback on it'
 date: 2019-02-11T00:00:00.000Z
-permalink: /news/press-releases/First-reading-of-criminal-law-reform-bill-and-the-Governments-response
+permalink: /news/press-releases/first-reading-of-criminal-law-reform-bill-and-the-governments-response/
 breadcrumb: 'Press Releases'
 
 ---

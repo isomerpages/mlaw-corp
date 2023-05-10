@@ -1,7 +1,7 @@
 ---
 title: 'Response to Queries arising from Mr Thum Ping Tjin''s Comment on Facebook'
 date: 2020-05-14T00:00:00.000Z
-permalink: /news/replies/Response-to-Queries-arising-from-Mr-Thum-Ping-Tjin-Comment-on-Facebook
+permalink: /news/replies/response-to-queries-arising-from-mr-thum-ping-tjin-comment-on-facebook/
 
 ---
 

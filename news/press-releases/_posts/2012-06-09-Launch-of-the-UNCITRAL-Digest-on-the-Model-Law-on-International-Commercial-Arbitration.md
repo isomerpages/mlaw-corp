@@ -1,6 +1,6 @@
 ---
 title: 'Launch of the UNCITRAL Digest on the Model Law on International Commercial Arbitration'
-permalink: /news/press-releases/launch-of-the-uncitral-digest-on-the-model-law-on-international-commercial-arbitration
+permalink: /news/press-releases/launch-of-the-uncitral-digest-on-the-model-law-on-international-commercial-arbitration/
 breadcrumb: 'Press Releases'
 
 ---

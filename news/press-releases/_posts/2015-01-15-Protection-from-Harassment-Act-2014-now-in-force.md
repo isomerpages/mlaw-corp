@@ -1,6 +1,6 @@
 ---
 title: 'Protection from Harassment Act 2014 now in force'
-permalink: /news/press-releases/protection-from-harassment-act-in-force
+permalink: /news/press-releases/protection-from-harassment-act-in-force/
 breadcrumb: 'Press Releases'
 
 ---

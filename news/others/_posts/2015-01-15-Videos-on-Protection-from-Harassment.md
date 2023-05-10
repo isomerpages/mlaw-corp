@@ -1,6 +1,6 @@
 ---
 title: 'Videos on Protection from Harassment'
-permalink: /news/others/protection-from-harassment
+permalink: /news/others/protection-from-harassment/
 breadcrumb: Others
 
 ---

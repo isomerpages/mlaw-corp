@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Speech at Grand Opening of Maxwell Chambers Suites by Minister K Shanmugam'
 date: 2019-08-08T00:00:00.000Z
-permalink: /news/speeches/Keynote-Speech-at-Grand-Opening-of-Maxwell-Chambers-Suites-by-Minister-K-Shanmugam
+permalink: /news/speeches/keynote-speech-at-grand-opening-of-maxwell-chambers-suites-by-minister-k-shanmugam/
 
 ---
 

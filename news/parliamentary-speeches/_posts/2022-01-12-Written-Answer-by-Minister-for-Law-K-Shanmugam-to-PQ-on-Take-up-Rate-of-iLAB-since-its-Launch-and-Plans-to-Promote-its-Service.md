@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Take-up Rate of iLAB since its Launch and Plans to Promote its Service
 date: 2022-01-12
-permalink: /news/parliamentary-speeches/2022-01-12-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Take-up-Rate-of-iLAB-since-its-Launch-and-Plans-to-Promote-its-Service
+permalink: /news/parliamentary-speeches/2022-01-12-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-take-up-rate-of-ilab-since-its-launch-and-plans-to-promote-its-service/
 ---
 
 12 January 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

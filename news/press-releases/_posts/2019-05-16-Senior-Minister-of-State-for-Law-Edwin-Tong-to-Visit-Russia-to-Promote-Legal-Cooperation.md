@@ -1,7 +1,7 @@
 ---
 title: 'Senior Minister of State for Law Edwin Tong to Visit Russia to Promote Legal Cooperation'
 date: 2019-05-16T00:00:00.000Z
-permalink: /news/press-releases/sms-edwin-tong-to-visit-russia-to-promote-legal-cooperation
+permalink: /news/press-releases/sms-edwin-tong-to-visit-russia-to-promote-legal-cooperation/
 
 ---
 

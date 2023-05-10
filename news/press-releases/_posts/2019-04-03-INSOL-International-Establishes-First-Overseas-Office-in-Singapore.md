@@ -1,6 +1,6 @@
 ---
 title: 'INSOL International Establishes First Overseas Office in Singapore'
-permalink: /news/press-releases/insol-international-establishes-first-overseas-office-in-singapo
+permalink: /news/press-releases/insol-international-establishes-first-overseas-office-in-singapo/
 breadcrumbs: 'Press Releases'
 
 ---

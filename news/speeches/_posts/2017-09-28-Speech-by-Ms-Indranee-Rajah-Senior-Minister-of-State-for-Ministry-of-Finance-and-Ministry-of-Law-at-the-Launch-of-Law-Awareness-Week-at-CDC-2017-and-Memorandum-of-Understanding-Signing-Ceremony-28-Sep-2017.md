@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Ministry of Finance and Ministry of Law, at the Launch of Law Awareness Week @CDC 2017 and Memorandum of Understanding Signing Ceremony, 28 Sep 2017'
-permalink: /news/speeches/speech-by-ms-indranee-rajah--senior-minister-of-state-for-minist
+permalink: /news/speeches/speech-by-ms-indranee-rajah--senior-minister-of-state-for-minist/
 breadcrumb: Speeches
 
 ---

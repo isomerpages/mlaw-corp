@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on Court Applications Relating to Sale of Matrimonial Homes'
 date: 2020-03-05T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Court-Applications-Relating-to-Sale-of-Matrimonial-Homes
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-court-applications-relating-to-sale-of-matrimonial-homes/
 
 ---
 

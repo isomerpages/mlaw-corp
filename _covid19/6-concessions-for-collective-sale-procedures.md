@@ -1,6 +1,6 @@
 ---
 title: '6) Concessions for Collective Sale Procedures'
-permalink: /covid19-relief/collective-sale
+permalink: /covid19-relief/collective-sale/
 breadcrumb: '6) Concessions for Collective Sale Procedures'
 
 ---

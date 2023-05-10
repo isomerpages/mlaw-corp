@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the OneMap Public Launch'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-onemap-public-launch
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-onemap-public-launch/
 breadcrumb: Speeches
 
 ---

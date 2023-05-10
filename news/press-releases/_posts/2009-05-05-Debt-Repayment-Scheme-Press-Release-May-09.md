@@ -1,6 +1,6 @@
 ---
 title: 'Debt Repayment Scheme - Press Release (May 09)'
-permalink: /news/press-releases/debt-repayment-scheme-press-release-may-09-
+permalink: /news/press-releases/debt-repayment-scheme-press-release-may-09-/
 breadcrumb: 'Press Releases'
 
 ---

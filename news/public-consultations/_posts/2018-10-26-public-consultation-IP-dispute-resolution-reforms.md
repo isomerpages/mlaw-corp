@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms'
-permalink: /news/public-consultations/public-consultation-IP-dispute-resolution-reforms/
+permalink: /news/public-consultations/public-consultation-ip-dispute-resolution-reforms/
 breadcrumb: 'Public Consultation on Intellectual Property (“IP”) Dispute Resolution Reforms'
 
 ---

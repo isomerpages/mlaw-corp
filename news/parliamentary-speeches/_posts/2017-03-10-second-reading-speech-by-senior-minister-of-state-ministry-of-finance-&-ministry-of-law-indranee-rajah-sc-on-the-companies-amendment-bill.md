@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State, Ministry of Finance & Ministry of Law, Indranee Rajah SC, on the Companies (Amendment) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state--ministry-of-f
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state--ministry-of-f/
 breadcrumb: 'Parliamentary speeches and responses'
 
 ---

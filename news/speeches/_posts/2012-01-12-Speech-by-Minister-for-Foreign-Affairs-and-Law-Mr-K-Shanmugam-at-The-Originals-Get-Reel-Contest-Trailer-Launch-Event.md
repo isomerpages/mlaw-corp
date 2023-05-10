@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Foreign Affairs and Law, Mr K Shanmugam, at The Originals Get Reel Contest - Trailer Launch Event'
-permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-originals-get-reel-contest
+permalink: /news/speeches/speech-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-at-the-originals-get-reel-contest/
 breadcrumb: Speeches
 
 ---

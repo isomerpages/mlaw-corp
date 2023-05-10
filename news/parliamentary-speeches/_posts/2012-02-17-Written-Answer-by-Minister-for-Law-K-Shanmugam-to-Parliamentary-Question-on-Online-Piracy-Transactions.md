@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Online Piracy Transactions'
 date: 2012-02-17T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-online-piracy
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-online-piracy/
 
 ---
 

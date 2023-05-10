@@ -1,7 +1,7 @@
 ---
 title: Strengthening Singapore China Legal Cooperation with a MOC and a Joint
   Experts Team
-permalink: /news/press-releases/2022-04-07-Strengthening-SG-China-Legal-Cooperation-MOC-Joint-Experts-Team
+permalink: /news/press-releases/2022-04-07-strengthening-sg-china-legal-cooperation-moc-joint-experts-team/
 date: 2022-04-07
 layout: post
 description: ""

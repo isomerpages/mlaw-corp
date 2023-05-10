@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister Shanmugam at Valedictory Reference in honour of Justice Chao Hick Tin'
-permalink: /news/speeches/minister-shanmugam-speech-in-honour-justice-chao-hick-tin
+permalink: /news/speeches/minister-shanmugam-speech-in-honour-justice-chao-hick-tin/
 breadcrumb: Speeches
 
 ---

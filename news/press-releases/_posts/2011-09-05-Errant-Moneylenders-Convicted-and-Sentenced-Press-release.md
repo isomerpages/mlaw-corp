@@ -1,6 +1,6 @@
 ---
 title: 'Errant Moneylenders Convicted and Sentenced - Press release'
-permalink: /news/press-releases/errant-moneylenders-convicted-and-sentenced-press-release
+permalink: /news/press-releases/errant-moneylenders-convicted-and-sentenced-press-release/
 breadcrumb: 'Press Releases'
 
 ---

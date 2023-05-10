@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Breakdown on Number of Persons of Unsound Mind Detained under Section 252 of Criminal Procedure Code
 date: 2021-01-05
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Breakdown-on-Number-of-Persons-of-Unsound-Mind-Detained-under-Section-252-of-Criminal-Procedure-Code
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-breakdown-on-number-of-persons-of-unsound-mind-detained-under-section-252-of-criminal-procedure-code/
 
 ---
 

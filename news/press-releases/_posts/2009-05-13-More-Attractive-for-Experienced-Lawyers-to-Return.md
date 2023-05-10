@@ -1,6 +1,6 @@
 ---
 title: 'More Attractive for Experienced Lawyers to Return'
-permalink: /news/press-releases/more-attractive-for-experienced-lawyers-to-return
+permalink: /news/press-releases/more-attractive-for-experienced-lawyers-to-return/
 breadcrumb: 'Press Releases'
 
 ---

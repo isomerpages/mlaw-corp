@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by SMS Assoc Prof Ho Peng Kee to Parliamentary Question on interest rate caps for licensed moneylenders'
 date: 2011-02-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sms-assoc-prof-ho-peng-kee-to-parliamentary-question-on-interest-rate-caps-for
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-assoc-prof-ho-peng-kee-to-parliamentary-question-on-interest-rate-caps-for/
 
 ---
 

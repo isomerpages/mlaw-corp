@@ -1,7 +1,7 @@
 ---
 title: 'Heritage And Photography Groups First To Preview Maxwell Chambers Suites'
 date: 2019-07-18T00:00:00.000Z
-permalink: /news/press-releases/Press-Release-Heritage-Tour-at-Maxwell-Chambers-Suites
+permalink: /news/press-releases/press-release-heritage-tour-at-maxwell-chambers-suites/
 
 ---
 

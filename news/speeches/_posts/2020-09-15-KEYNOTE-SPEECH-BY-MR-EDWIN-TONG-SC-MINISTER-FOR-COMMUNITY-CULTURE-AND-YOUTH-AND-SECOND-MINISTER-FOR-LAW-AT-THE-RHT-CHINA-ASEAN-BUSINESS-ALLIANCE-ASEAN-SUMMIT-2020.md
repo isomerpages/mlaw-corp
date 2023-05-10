@@ -1,7 +1,7 @@
 ---
 title: 'KEYNOTE SPEECH BY MR EDWIN TONG SC, MINISTER FOR COMMUNITY, CULTURE AND YOUTH AND SECOND MINISTER FOR LAW AT THE RHT CHINA-ASEAN BUSINESS ALLIANCE ASEAN SUMMIT 2020'
 date: 2020-09-15T00:00:00.000Z
-permalink: /news/speeches/KEYNOTE-SPEECH-BY-MR-EDWIN-TONG-SC-MINISTER-FOR-COMMUNITY-CULTURE-AND-YOUTH-AND-SECOND-MINISTER-FOR-LAW-AT-THE-RHT-CHINA-ASEAN-BUSINESS-ALLIANCE-ASEAN-SUMMIT-2020
+permalink: /news/speeches/keynote-speech-by-mr-edwin-tong-sc-minister-for-community-culture-and-youth-and-second-minister-for-law-at-the-rht-china-asean-business-alliance-asean-summit-2020/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Litigation Conference 2019'
-permalink: /news/speeches/Keynote-Address-by-Mr-Edwin-Tong-Senior-Minister-of-State-for-Law-Health-Litigation-Conference-2019
+permalink: /news/speeches/keynote-address-by-mr-edwin-tong-senior-minister-of-state-for-law-health-litigation-conference-2019/
 breadcrumb: Speeches
 
 ---

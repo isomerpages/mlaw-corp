@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Claims Made Against Home Renovation Firms That Failed To Deliver After Accepting A Deposit
 date: 2021-04-05
-permalink: /news/parliamentary-speeches/2021-04-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-Claims-Made-Against-Home-Renovation-Firms-That-Failed-To-Deliver-After-Accepting-A-Deposit
+permalink: /news/parliamentary-speeches/2021-04-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-claims-made-against-home-renovation-firms-that-failed-to-deliver-after-accepting-a-deposit/
 ---
 
 05 Apr 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

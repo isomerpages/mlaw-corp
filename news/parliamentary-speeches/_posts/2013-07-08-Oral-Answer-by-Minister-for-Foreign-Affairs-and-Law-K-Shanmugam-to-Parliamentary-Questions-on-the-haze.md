@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Minister for Foreign Affairs and Law, K Shanmugam to Parliamentary Questions on the haze'
 date: 2013-07-08T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-pqs-on-haze
+permalink: /news/parliamentary-speeches/oral-answer-pqs-on-haze/
 
 ---
 

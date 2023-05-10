@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr K Shanmugam, Minister for Foreign Affairs and Law, at the Official Launch of the Enhanced Criminal Legal Aid Scheme'
-permalink: /news/speeches/speech-by-mr-k-shanmugam--minister-for-foreign-affairs-and-law--
+permalink: /news/speeches/speech-by-mr-k-shanmugam--minister-for-foreign-affairs-and-law--/
 breadcrumb: Speeches
 
 ---

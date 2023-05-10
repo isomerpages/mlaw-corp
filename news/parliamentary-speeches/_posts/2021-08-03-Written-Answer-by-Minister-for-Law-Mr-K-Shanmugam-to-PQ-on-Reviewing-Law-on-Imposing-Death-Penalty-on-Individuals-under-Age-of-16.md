@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Reviewing Law on Imposing Death Penalty on Individuals under Age of 16
 date: 2021-08-03
-permalink: /news/parliamentary-speeches/2021-08-03-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Reviewing-Law-on-Imposing-Death-Penalty-on-Individuals-under-Age-of-16
+permalink: /news/parliamentary-speeches/2021-08-03-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-reviewing-law-on-imposing-death-penalty-on-individuals-under-age-of-16/
 ---
 
 03 August 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

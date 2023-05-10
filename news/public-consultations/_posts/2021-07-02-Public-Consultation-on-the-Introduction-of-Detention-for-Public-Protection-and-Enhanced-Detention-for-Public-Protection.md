@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on the Introduction of (i) Detention for Public Protection and (ii) Enhanced Detention for Public Protection'
-permalink: /news/Public-Consultation-on-the-Introduction-of-Detention-for-Public-Protection-and-Enhanced-Detention-for-Public-Protection
+permalink: /news/public-consultation-on-the-introduction-of-detention-for-public-protection-and-enhanced-detention-for-public-protection/
 
 ---
 

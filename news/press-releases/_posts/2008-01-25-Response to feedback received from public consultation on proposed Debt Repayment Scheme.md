@@ -1,6 +1,6 @@
 ---
 title: 'Response to feedback received from public consultation on proposed Debt Repayment Scheme'
-permalink: /news/press-releases/response-to-feedback-received-from-public-consultation-on-proposed-debt-repayment-scheme
+permalink: /news/press-releases/response-to-feedback-received-from-public-consultation-on-proposed-debt-repayment-scheme/
 breadcrumb: 'Press Releases'
 
 ---

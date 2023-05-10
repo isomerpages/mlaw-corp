@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on Copyright (Excluded Works) Order'
 date: 2020-09-07T00:00:00.000Z
-permalink: /news/Public-Consultation-on-Copyright-Excluded-Works-Order2020
+permalink: /news/public-consultation-on-copyright-excluded-works-order2020/
 
 ---
 

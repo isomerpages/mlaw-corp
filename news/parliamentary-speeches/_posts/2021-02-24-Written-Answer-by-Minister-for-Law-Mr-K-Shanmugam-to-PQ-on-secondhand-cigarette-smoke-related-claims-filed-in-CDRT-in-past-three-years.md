@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Outcomes Of Secondhand Cigarette Smoke-related Claims Filed With the Community Disputes Resolution Tribunal in the Past Three Years
 date: 2021-02-24
-permalink: /news/parliamentary-speeches/2021-02-24-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-secondhand-cigarette-smoke-related-claims-filed-in-CDRT-in-past-three-years
+permalink: /news/parliamentary-speeches/2021-02-24-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-secondhand-cigarette-smoke-related-claims-filed-in-cdrt-in-past-three-years/
 ---
 
 24 Feb 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

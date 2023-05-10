@@ -1,6 +1,6 @@
 ---
 title: 'Inaugural Address by Senior Minister of State Assoc Prof Ho Peng Kee at Map Asia 2009'
-permalink: /news/speeches/inaugural-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-map-asia-2009
+permalink: /news/speeches/inaugural-address-by-senior-minister-of-state-assoc-prof-ho-peng-kee-at-map-asia-2009/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Revision of Means Test for Legal Aid'
-permalink: /news/parliamentary-speeches/written-answer-to-parliamentary-question-revision-of-means-test-for-legal-aid
+permalink: /news/parliamentary-speeches/written-answer-to-parliamentary-question-revision-of-means-test-for-legal-aid/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

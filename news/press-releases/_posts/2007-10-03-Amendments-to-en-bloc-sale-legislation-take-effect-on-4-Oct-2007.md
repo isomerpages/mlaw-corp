@@ -1,6 +1,6 @@
 ---
 title: 'Amendments to en bloc sale legislation take effect on 4 Oct 2007'
-permalink: /news/press-releases/amendments-to-en-bloc-sale-legislation-take-effect-on-4-oct-2007
+permalink: /news/press-releases/amendments-to-en-bloc-sale-legislation-take-effect-on-4-oct-2007/
 breadcrumb: 'Press Releases'
 
 ---

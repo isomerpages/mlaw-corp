@@ -1,7 +1,7 @@
 ---
 title: 'Singapore Convention Week Kicks Off Today With International Mediation Competition'
 date: 2019-08-02T00:00:00.000Z
-permalink: /news/press-releases/Singapore-Convention-Week-Kicks-Off-Today-With-International-Mediation-Competition
+permalink: /news/press-releases/singapore-convention-week-kicks-off-today-with-international-mediation-competition/
 
 ---
 

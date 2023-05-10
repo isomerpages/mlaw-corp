@@ -1,7 +1,7 @@
 ---
 title: 'Update on DEI Legal'
 date: 2017-06-23T00:00:00.000Z
-permalink: /news/announcements/update-on-dei-legal
+permalink: /news/announcements/update-on-dei-legal/
 
 ---
 

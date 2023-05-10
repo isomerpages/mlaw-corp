@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Investigating Into Deaths Due To Unnatural or Unknown Causes in Last Two Years
 date: 2021-01-04
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-investigating-into-deaths-due-to-unnatural-or-unknown-causes-in-last-two-years
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-investigating-into-deaths-due-to-unnatural-or-unknown-causes-in-last-two-years/
 
 ---
 

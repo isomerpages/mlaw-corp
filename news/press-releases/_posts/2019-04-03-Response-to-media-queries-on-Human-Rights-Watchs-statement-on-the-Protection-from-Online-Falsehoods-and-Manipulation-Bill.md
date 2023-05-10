@@ -1,6 +1,6 @@
 ---
 title: 'Response to media queries on Human Rights Watch’s statement on the Protection from Online Falsehoods and Manipulation Bill'
-permalink: /news/press-releases/Response-to-media-queries-on-Human-Rights-Watch-statement-on-the-Protection-from-Online-Falsehoods-and-Manipulation-Bill
+permalink: /news/press-releases/response-to-media-queries-on-human-rights-watch-statement-on-the-protection-from-online-falsehoods-and-manipulation-bill/
 breadcrumbs: 'Press Releases'
 
 ---

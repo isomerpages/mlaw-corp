@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation on Conditional Fee Agreements in Singapore'
 date: 2019-08-27T00:00:00.000Z
-permalink: /news/public-consultations/Public-Consultation-on-Conditional-Fee-Agreements-in-Singapore
+permalink: /news/public-consultations/public-consultation-on-conditional-fee-agreements-in-singapore/
 
 ---
 

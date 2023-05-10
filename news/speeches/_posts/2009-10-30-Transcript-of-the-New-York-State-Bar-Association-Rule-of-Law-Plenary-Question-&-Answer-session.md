@@ -1,6 +1,6 @@
 ---
 title: 'Transcript of the New York State Bar Association Rule of Law Plenary - Question & Answer session'
-permalink: /news/speeches/transcript-of-the-new-york-state-bar-association-rule-of-law-plenary-question-answer-session
+permalink: /news/speeches/transcript-of-the-new-york-state-bar-association-rule-of-law-plenary-question-answer-session/
 breadcrumb: Speeches
 
 ---

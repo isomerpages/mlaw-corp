@@ -1,6 +1,6 @@
 ---
 title: 'Recommendations to transform the Family Justice System'
-permalink: /news/press-releases/recommendations-to-transform-family-justice-system
+permalink: /news/press-releases/recommendations-to-transform-family-justice-system/
 breadcrumb: 'Press Releases'
 
 ---

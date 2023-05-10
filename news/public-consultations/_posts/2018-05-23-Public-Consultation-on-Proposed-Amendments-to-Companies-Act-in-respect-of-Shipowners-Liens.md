@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the Companies Act in respect of Shipowner’s Liens'
-permalink: /news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-Companies-Act-in-respect-of-Shipowners-Liens/
+permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-companies-act-in-respect-of-shipowners-liens/
 breadcrumb: 'Public Consultation on Proposed Amendments to the Companies Act in respect of Shipowner’s Liens'
 
 ---

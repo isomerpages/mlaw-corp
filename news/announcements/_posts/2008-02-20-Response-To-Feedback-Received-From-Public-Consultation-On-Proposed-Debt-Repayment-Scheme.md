@@ -1,7 +1,7 @@
 ---
 title: 'Response To Feedback Received From Public Consultation On Proposed Debt Repayment Scheme (Apr-Jun07)'
 date: 2008-02-20T00:00:00.000Z
-permalink: /news/announcements/response-to-feedback-received-from-public-consultation-on-proposed-debt-repayment-scheme-apr-jun07
+permalink: /news/announcements/response-to-feedback-received-from-public-consultation-on-proposed-debt-repayment-scheme-apr-jun07/
 
 ---
 

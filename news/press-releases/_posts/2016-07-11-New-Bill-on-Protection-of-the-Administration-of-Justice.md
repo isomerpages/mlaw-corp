@@ -1,6 +1,6 @@
 ---
 title: 'New Bill on Protection of the Administration of Justice'
-permalink: /news/press-releases/new-bill-on-protection-of-the-administration-of-justice
+permalink: /news/press-releases/new-bill-on-protection-of-the-administration-of-justice/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Response Speech by Second Minister for Law Edwin Tong to Adjournment Motion on Rule of Law, Judicial Review and the Sunlight of Scrutiny
 date: 2021-03-04
-permalink: /news/parliamentary-speeches/Response-Speech-by-2M-Edwin-Tong-to-Adjournment-Motion-Rule-of-Law-Judicial-Review
+permalink: /news/parliamentary-speeches/response-speech-by-2m-edwin-tong-to-adjournment-motion-rule-of-law-judicial-review/
 ---
 
 **I. Introduction**

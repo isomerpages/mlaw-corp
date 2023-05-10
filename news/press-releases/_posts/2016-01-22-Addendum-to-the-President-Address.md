@@ -1,6 +1,6 @@
 ---
 title: 'Addendum to the President''s Address'
-permalink: /news/press-releases/addendum-to-the-president-s-address-
+permalink: /news/press-releases/addendum-to-the-president-s-address-/
 breadcrumb: 'Press Releases'
 
 ---

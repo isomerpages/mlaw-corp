@@ -1,7 +1,7 @@
 ---
 title: 'Opening Remarks by Mr Edwin Tong SC, Minister for Culture, Community And Youth & Second Minister For Law, At IP Week @ SG 2020, 25 August 2020, 2PM'
 date: 2020-08-25T00:00:00.000Z
-permalink: /news/speeches/Opening-Remarks-by-Mr-Edwin-Tong-SC-Minister-for-Culture-Community-And-Youth-and-Second-Minister-For-Law-at-IP-Week-Sg-2020
+permalink: /news/speeches/opening-remarks-by-mr-edwin-tong-sc-minister-for-culture-community-and-youth-and-second-minister-for-law-at-ip-week-sg-2020/
 
 ---
 

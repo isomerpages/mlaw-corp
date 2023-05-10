@@ -1,6 +1,6 @@
 ---
 title: 'Biannual Meeting of the ICC Commission on Arbitration'
-permalink: /news/speeches/biannual-meeting-of-the-icc-commission-on-arbitration
+permalink: /news/speeches/biannual-meeting-of-the-icc-commission-on-arbitration/
 breadcrumb: Speeches
 
 ---

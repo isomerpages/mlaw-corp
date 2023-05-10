@@ -1,6 +1,6 @@
 ---
 title: Keynote Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law at the 7th International Chamber of Commerce (ICC) Asia-Pacific Conference on International Arbitration
-permalink: /news/speeches/2022-06-22-Keynote-Speech-by-Mr-Edwin-Tong-SC-Minister-for-Culture-Community-and-Youth-and-Second-Minister-for-Law-at-the-7th-ICC-Asia-Pacific-Conference-on-International-Arbitration
+permalink: /news/speeches/2022-06-22-keynote-speech-by-mr-edwin-tong-sc-minister-for-culture-community-and-youth-and-second-minister-for-law-at-the-7th-icc-asia-pacific-conference-on-international-arbitration/
 date: 2022-06-22
 layout: post
 description: ""

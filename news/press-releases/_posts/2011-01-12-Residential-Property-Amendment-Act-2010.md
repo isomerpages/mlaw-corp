@@ -1,6 +1,6 @@
 ---
 title: 'Residential Property (Amendment) Act 2010'
-permalink: /news/press-releases/residential-property-amendment-act-2010
+permalink: /news/press-releases/residential-property-amendment-act-2010/
 breadcrumb: 'Press Releases'
 
 ---

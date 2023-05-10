@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Second Minister for Law, Ms Indranee Rajah, at the SIAC Congress 2018 Gala Dinner'
-permalink: /news/speeches/2M-opening-address-SIAC-congress-2018-gala-dinner
+permalink: /news/speeches/2m-opening-address-siac-congress-2018-gala-dinner/
 breadcrumb: Speeches
 
 ---

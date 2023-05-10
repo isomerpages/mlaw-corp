@@ -1,6 +1,6 @@
 ---
 title: 'YB Dato’ Seri Mohamed Nazri Abdul Aziz, Minister in the Malaysian Prime Minister’s Department, visits Singapore'
-permalink: /news/press-releases/yb-dato-seri-mohamed-nazri-abdul-aziz-minister-in-the-malaysian-prime-minister-s-department
+permalink: /news/press-releases/yb-dato-seri-mohamed-nazri-abdul-aziz-minister-in-the-malaysian-prime-minister-s-department/
 breadcrumb: 'Press Releases'
 
 ---

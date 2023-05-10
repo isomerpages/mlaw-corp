@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Annual Number of Applications to Legal Aid Bureau on Grants of Probate or Letters of Administration and Success Rate for Past Five Years
 date: 2022-03-02
-permalink: /news/parliamentary-speeches/2022-03-02-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Annual-Number-of-Applications-to-Legal-Aid-Bureau-on-Grants-of-Probate-or-Letters-of-Administration-and-Success-Rate-for-Past-Five-Years
+permalink: /news/parliamentary-speeches/2022-03-02-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-annual-number-of-applications-to-legal-aid-bureau-on-grants-of-probate-or-letters-of-administration-and-success-rate-for-past-five-years/
 ---
 
 02 March 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

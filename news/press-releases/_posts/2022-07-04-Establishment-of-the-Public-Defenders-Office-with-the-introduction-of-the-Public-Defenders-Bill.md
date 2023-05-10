@@ -2,7 +2,7 @@
 layout: post
 title: Establishment of the Public Defender’s Office with the introduction of the Public Defenders Bill
 date: 2022-07-04
-permalink: /news/press-releases/Establishment-of-the-Public-Defenders-Office-with-the-introduction-of-the-Public-Defenders-Bill 
+permalink: /news/press-releases/establishment-of-the-public-defenders-office-with-the-introduction-of-the-public-defenders-bill/ 
 
 ---
 

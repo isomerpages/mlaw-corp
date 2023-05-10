@@ -1,7 +1,7 @@
 ---
 title: 'Employee of Licensed Moneylender, Tan Teck Leng, Fined $8,000 for Breach of the Moneylenders Act'
 date: 2019-08-29T00:00:00.000Z
-permalink: /news/press-releases/press-releases-employee-of-licensed-moneylender-fined-8000-for-breach-of-moneylenders-act
+permalink: /news/press-releases/press-releases-employee-of-licensed-moneylender-fined-8000-for-breach-of-moneylenders-act/
 
 ---
 

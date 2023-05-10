@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on the Proposed Copyright Bill'
-permalink: /news/Public-Consultation-on-Proposed-Copyright-Bill
+permalink: /news/public-consultation-on-proposed-copyright-bill/
 
 ---
 

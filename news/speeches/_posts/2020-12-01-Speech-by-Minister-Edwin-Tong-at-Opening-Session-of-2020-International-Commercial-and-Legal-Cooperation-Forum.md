@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Minister for Community, Culture and Youth and Second Minister for Law at the Opening Session of the 2020 International Commercial and Legal Cooperation Forum'
 date: 2020-12-01
-permalink: /news/speeches/2020-12-01-Speech-by-Minister-Edwin-Tong-at-Opening-Session-of-2020-International-Commercial-and-Legal-Cooperation-Forum
+permalink: /news/speeches/2020-12-01-speech-by-minister-edwin-tong-at-opening-session-of-2020-international-commercial-and-legal-cooperation-forum/
 
 ---
 

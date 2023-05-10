@@ -2,7 +2,7 @@
 layout: post
 title:  Businesses May Seek Assistance Under Re-Align Framework from 15 January 2021
 date: 2020-12-10
-permalink: /news/press-releases/2020-12-10-re-align-framework-commencement
+permalink: /news/press-releases/2020-12-10-re-align-framework-commencement/
 ---
 
 10 Dec 2020 Posted in [Press releases](/news/press-releases)

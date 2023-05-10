@@ -1,7 +1,7 @@
 ---
 title: 'Submission of Statements of Moneylending Transactions (Quarterly & Monthly Returns) online'
 date: 2011-03-15T00:00:00.000Z
-permalink: /news/announcements/submission-of-statements-of-moneylending-transactions-quarterly-monthly-returns-online
+permalink: /news/announcements/submission-of-statements-of-moneylending-transactions-quarterly-monthly-returns-online/
 
 ---
 

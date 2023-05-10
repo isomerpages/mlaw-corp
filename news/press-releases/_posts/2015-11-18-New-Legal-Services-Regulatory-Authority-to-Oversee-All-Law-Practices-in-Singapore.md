@@ -1,6 +1,6 @@
 ---
 title: 'New Legal Services Regulatory Authority to Oversee All Law Practices in Singapore'
-permalink: /news/press-releases/new-legal-services-regulatory-authority-to-oversee-all-law-pract
+permalink: /news/press-releases/new-legal-services-regulatory-authority-to-oversee-all-law-pract/
 breadcrumb: 'Press Releases'
 
 ---

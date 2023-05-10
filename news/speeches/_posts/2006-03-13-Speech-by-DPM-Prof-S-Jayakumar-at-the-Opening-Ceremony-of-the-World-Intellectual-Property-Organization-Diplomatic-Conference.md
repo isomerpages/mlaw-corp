@@ -1,6 +1,6 @@
 ---
 title: 'Speech by DPM Prof S Jayakumar at the Opening Ceremony of the World Intellectual Property Organization Diplomatic Conference'
-permalink: /news/speeches/speech-by-dpm-prof-s-jayakumar-at-the-opening-ceremony-of-the-world-intellectual-property-
+permalink: /news/speeches/speech-by-dpm-prof-s-jayakumar-at-the-opening-ceremony-of-the-world-intellectual-property-/
 breadcrumb: Speeches
 
 ---

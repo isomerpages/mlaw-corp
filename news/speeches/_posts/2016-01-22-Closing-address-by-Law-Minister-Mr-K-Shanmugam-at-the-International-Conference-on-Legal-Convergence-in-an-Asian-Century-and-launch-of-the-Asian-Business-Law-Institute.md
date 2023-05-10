@@ -1,6 +1,6 @@
 ---
 title: 'Closing address by Law Minister, Mr K Shanmugam, at the International Conference on “Legal Convergence in an Asian Century” and launch of the Asian Business Law Institute'
-permalink: /news/speeches/closing-address-by-law-minister--mr-k-shanmugam--at-the-internat
+permalink: /news/speeches/closing-address-by-law-minister--mr-k-shanmugam--at-the-internat/
 breadcrumb: Speeches
 
 ---

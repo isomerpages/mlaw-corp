@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Minister for Law, K Shanmugam, on the Protection from Harassment Bill'
 date: 2014-03-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-by-minister-on-protection-from-harassment-act
+permalink: /news/parliamentary-speeches/2r-by-minister-on-protection-from-harassment-act/
 
 ---
 

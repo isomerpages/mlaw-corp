@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law & Health, at the Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course'
-permalink: /news/speeches/speech-sms-edwin-tong-nus-graduate-certificate-criminal-justice-course
+permalink: /news/speeches/speech-sms-edwin-tong-nus-graduate-certificate-criminal-justice-course/
 breadcrumb: Speeches
 
 ---

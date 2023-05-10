@@ -1,6 +1,6 @@
 ---
 title: 'Responses to feedback received from public consultation on the International Arbitration (Amendment) Bill'
-permalink: /news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment
+permalink: /news/announcements/responses-to-feedback-received-from-public-consultation-on-the-international-arbitration-amendment/
 breadcrumb: Announcements
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Singapore and Japan to Strengthen Legal Cooperation
 date: 2021-07-29
-permalink: /news/press-releases/2021-07-29-Singapore-and-Japan-to-Strengthen-Legal-Cooperation
+permalink: /news/press-releases/2021-07-29-singapore-and-japan-to-strengthen-legal-cooperation/
 ---
 
 29 Jul 2021 Posted in [Press releases](/news/press-releases)

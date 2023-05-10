@@ -1,6 +1,6 @@
 ---
 title: 'Remarks by DPM Jayakumar at Signing Ceremony of MOU between Singapore and Vietnam on Legal and Judicial Cooperation'
-permalink: /news/speeches/remarks-by-dpm-jayakumar-at-signing-ceremony-of-mou-between-singapore-and-vietnam-on-legal-and
+permalink: /news/speeches/remarks-by-dpm-jayakumar-at-signing-ceremony-of-mou-between-singapore-and-vietnam-on-legal-and/
 breadcrumb: Speeches
 
 ---

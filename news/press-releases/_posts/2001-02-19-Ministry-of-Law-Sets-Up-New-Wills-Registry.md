@@ -1,6 +1,6 @@
 ---
 title: 'Ministry of Law Sets Up New Wills Registry'
-permalink: /news/press-releases/ministry-of-law-sets-up-new-wills-registry
+permalink: /news/press-releases/ministry-of-law-sets-up-new-wills-registry/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Legislative Measures to Assist in Resolution of Neighbourly Disputes
 date: 2021-03-02
-permalink: /news/parliamentary-speeches/2021-03-02-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-other-legislative-measures-to-resolve-community-disputes
+permalink: /news/parliamentary-speeches/2021-03-02-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-other-legislative-measures-to-resolve-community-disputes/
 ---
 
 02 Mar 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

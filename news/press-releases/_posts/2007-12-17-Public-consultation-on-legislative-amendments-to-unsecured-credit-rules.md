@@ -1,6 +1,6 @@
 ---
 title: 'Public consultation on legislative amendments to unsecured credit rules'
-permalink: /news/press-releases/public-consultation-on-legislative-amendments-to-unsecured-credit-rules
+permalink: /news/press-releases/public-consultation-on-legislative-amendments-to-unsecured-credit-rules/
 breadcrumb: 'Press Releases'
 
 ---

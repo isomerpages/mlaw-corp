@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah, at the launch of the Singapore International Mediation Institute'
-permalink: /news/speeches/SMS-speech-at-SIMI-launch
+permalink: /news/speeches/sms-speech-at-simi-launch/
 breadcrumb: Speeches
 
 ---

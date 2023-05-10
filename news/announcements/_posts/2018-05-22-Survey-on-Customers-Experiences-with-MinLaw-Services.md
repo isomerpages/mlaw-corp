@@ -1,7 +1,7 @@
 ---
 title: 'Survey on Customers'' Experiences with MinLaw Services'
 date: 2018-05-22T00:00:00.000Z
-permalink: /news/announcements/survey-on-customers-experiences-with-minlaw-services
+permalink: /news/announcements/survey-on-customers-experiences-with-minlaw-services/
 
 ---
 

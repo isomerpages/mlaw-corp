@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Singapore Land Authority Spatial Challenge 2010 Award Ceremony'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-singapore-land-authority-spatial-challenge-2010-award
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-singapore-land-authority-spatial-challenge-2010-award/
 breadcrumb: Speeches
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Opening Remarks by Minister for Culture, Community and Youth, and Second Minister of Law, Edwin Tong SC, at REDAS Spring Festival 2022'
 date: 2022-02-09
-permalink: /news/speeches/2022-02-09-Speech-by-Edwin-Tong-REDAS-Spring-Festival-2022
+permalink: /news/speeches/2022-02-09-speech-by-edwin-tong-redas-spring-festival-2022/
 ---
 
 9 Feb 2022 Posted in [[Speeches](/news/speeches)]

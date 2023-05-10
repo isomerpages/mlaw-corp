@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee during the Committee of Supply Debate 2010'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-during-the-committee-of-supply-debate-2010
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-during-the-committee-of-supply-debate-2010/
 breadcrumb: Speeches
 
 ---

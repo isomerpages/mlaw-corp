@@ -1,7 +1,7 @@
 ---
 title: 'Public Trustee notice dated 16 Apr 2014'
 date: 2014-04-16T00:00:00.000Z
-permalink: /news/announcements/public-trustee-notice-dated-16-apr-2014
+permalink: /news/announcements/public-trustee-notice-dated-16-apr-2014/
 
 ---
 

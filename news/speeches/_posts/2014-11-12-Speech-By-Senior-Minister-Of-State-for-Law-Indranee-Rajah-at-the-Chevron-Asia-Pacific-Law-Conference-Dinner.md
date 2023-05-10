@@ -1,6 +1,6 @@
 ---
 title: 'Speech By Senior Minister Of State for Law, Indranee Rajah, at the Chevron Asia-Pacific Law Conference Dinner'
-permalink: /news/speeches/speech-by-SMS-chevron-law-conf-dinner
+permalink: /news/speeches/speech-by-sms-chevron-law-conf-dinner/
 breadcrumb: Speeches
 
 ---

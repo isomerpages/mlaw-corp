@@ -1,6 +1,6 @@
 ---
 title: 'Manager Of Errant Licensed Moneylending Company, 77 Moneylender Pte Ltd, Fined $15,000'
-permalink: /news/press-releases/manager-of-errant-licensed-moneylending-company--77-moneylender-
+permalink: /news/press-releases/manager-of-errant-licensed-moneylending-company--77-moneylender-/
 breadcrumb: 'Press Releases'
 
 ---

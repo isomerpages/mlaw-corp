@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Plans for SLA Land at Wan Tho Avenue'
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar7
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law--k-shanmugam--to-parliamentar7/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

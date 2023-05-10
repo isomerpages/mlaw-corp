@@ -1,7 +1,7 @@
 ---
 title: 'Opening Speech by Ms Lai Wei Lin, Permanent Secretary for Law and 2nd Permanent Secretary for Education, at the Opening Ceremony of SMU Legal Innovation and Technology (LIT) Hackathon'
 date: 2021-08-13
-permalink: /news/speeches/2021-08-13-Opening-Speech-by-Ms-Lai-Wei-Lin-at-the-opening-ceremony-of-SMU-LIT-Hackathon
+permalink: /news/speeches/2021-08-13-opening-speech-by-ms-lai-wei-lin-at-the-opening-ceremony-of-smu-lit-hackathon/
 ---
 
 

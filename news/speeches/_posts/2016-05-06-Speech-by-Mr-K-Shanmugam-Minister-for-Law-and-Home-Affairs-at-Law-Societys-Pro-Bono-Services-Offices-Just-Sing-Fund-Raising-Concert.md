@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr K Shanmugam, Minister for Law and Home Affairs, at Law Society’s Pro Bono Services Office’s “Just Sing” Fund Raising Concert'
-permalink: /news/speeches/speech-by-mr-k-shanmugam--minister-for-law-and-home-affairs--at-
+permalink: /news/speeches/speech-by-mr-k-shanmugam--minister-for-law-and-home-affairs--at-/
 breadcrumb: Speeches
 
 ---

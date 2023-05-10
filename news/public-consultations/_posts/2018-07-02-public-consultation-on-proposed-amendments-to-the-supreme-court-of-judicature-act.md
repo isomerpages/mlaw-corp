@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the Supreme Court of Judicature Act'
-permalink: /news/public-consultations/Public-Consultation-on-Proposed-Amendments-to-the-Supreme-Court-of-Judicature-Act
+permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-supreme-court-of-judicature-act/
 breadcrumb: 'Public Consultations'
 
 ---

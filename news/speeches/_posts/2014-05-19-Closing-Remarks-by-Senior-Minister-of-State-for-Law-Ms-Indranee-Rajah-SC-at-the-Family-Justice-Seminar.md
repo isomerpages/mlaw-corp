@@ -1,6 +1,6 @@
 ---
 title: 'Closing Remarks by Senior Minister of State for Law Ms Indranee Rajah SC at the Family Justice Seminar'
-permalink: /news/speeches/closing-remarks-by-sms-at-family-justice-seminar
+permalink: /news/speeches/closing-remarks-by-sms-at-family-justice-seminar/
 breadcrumb: Speeches
 
 ---

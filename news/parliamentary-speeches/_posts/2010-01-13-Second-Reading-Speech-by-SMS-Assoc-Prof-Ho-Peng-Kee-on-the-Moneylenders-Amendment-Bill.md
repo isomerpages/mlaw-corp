@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by SMS Assoc Prof Ho Peng Kee on the Moneylenders (Amendment) Bill'
 date: 2010-01-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-assoc-prof-ho-peng-kee-on-the-moneylenders-amendment-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-sms-assoc-prof-ho-peng-kee-on-the-moneylenders-amendment-bill/
 
 ---
 

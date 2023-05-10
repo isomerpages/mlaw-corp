@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Singapore Senior Minister of State for Law and Health Edwin Tong at the China-Singapore International Commercial Dispute Resolution Conference'
-permalink: /news/speeches/SMS-speech-at-China-Singapore-International-Commercial-Dispute-Resolution-Conference
+permalink: /news/speeches/sms-speech-at-china-singapore-international-commercial-dispute-resolution-conference/
 breadcrumb: Speeches
 
 ---

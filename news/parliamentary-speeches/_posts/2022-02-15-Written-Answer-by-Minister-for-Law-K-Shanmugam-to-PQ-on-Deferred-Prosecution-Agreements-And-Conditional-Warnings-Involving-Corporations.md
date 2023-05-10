@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Number of Prosecution Agreements and Conditional Warnings Involving Corporations
 date: 2022-02-15
-permalink: /news/parliamentary-speeches/2022-02-15-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Deferred-Prosecution-Agreements-And-Conditional-Warnings-Involving-Corporations
+permalink: /news/parliamentary-speeches/2022-02-15-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-deferred-prosecution-agreements-and-conditional-warnings-involving-corporations/
 ---
 
 15 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

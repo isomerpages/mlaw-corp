@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Ministry of Manpower to Parliamentary Questions on FDWs and Moneylending'
-permalink: /news/parliamentary-speeches/written-answer-by-ministry-of-manpower-on-fdws-and-moneylending
+permalink: /news/parliamentary-speeches/written-answer-by-ministry-of-manpower-on-fdws-and-moneylending/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

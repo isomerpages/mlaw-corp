@@ -1,6 +1,6 @@
 ---
 title: 'SMS Assoc Prof Ho Peng Kee’s Opening Address for the 4th China-Singapore Intellectual Property Conference'
-permalink: /news/speeches/sms-assoc-prof-ho-peng-kee-s-opening-address-for-the-4th-china-singapore-intellectual-property
+permalink: /news/speeches/sms-assoc-prof-ho-peng-kee-s-opening-address-for-the-4th-china-singapore-intellectual-property/
 breadcrumb: Speeches
 
 ---

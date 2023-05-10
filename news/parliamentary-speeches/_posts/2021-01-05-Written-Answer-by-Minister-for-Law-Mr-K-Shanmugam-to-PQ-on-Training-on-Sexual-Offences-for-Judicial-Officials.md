@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Training on Sexual Offences for Judicial Officials
 date: 2021-01-05
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Training-on-Sexual-Offences-for-Judicial-Officials
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-training-on-sexual-offences-for-judicial-officials/
 
 ---
 

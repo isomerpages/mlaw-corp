@@ -1,7 +1,7 @@
 ---
 title: 'Written reply by Minister for Law, K Shanmugam, to Parliamentary Question on pawnshops and amount of loans'
 date: 2013-08-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-reply-to-pq-on-pawnshops
+permalink: /news/parliamentary-speeches/written-reply-to-pq-on-pawnshops/
 
 ---
 

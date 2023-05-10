@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on the number of exemptions granted to external degree holders'
 date: 2012-02-28T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-the-number-of
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-parliamentary-question-on-the-number-of/
 
 ---
 

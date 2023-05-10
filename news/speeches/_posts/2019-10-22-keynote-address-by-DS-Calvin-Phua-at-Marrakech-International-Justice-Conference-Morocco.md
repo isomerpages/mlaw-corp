@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Address By Mr Calvin Phua, Deputy Secretary, Singapore Ministry of Law at Marrakech International Justice Conference, Morocco'
 date: 2019-10-22T00:00:00.000Z
-permalink: /news/speeches/keynote-address-by-DS-Calvin-Phua-at-Marrakech-International-Justice-Conference-Morocco
+permalink: /news/speeches/keynote-address-by-ds-calvin-phua-at-marrakech-international-justice-conference-morocco/
 
 ---
 

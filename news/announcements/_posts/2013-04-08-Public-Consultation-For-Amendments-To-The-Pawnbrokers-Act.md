@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation For Amendments To The Pawnbrokers Act'
 date: 2013-04-08T00:00:00.000Z
-permalink: /news/announcements/public-consultation-for-amendments-to-the-pawnbrokers-act
+permalink: /news/announcements/public-consultation-for-amendments-to-the-pawnbrokers-act/
 
 ---
 

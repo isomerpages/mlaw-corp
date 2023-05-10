@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech By Second Minister For Law, Mr Edwin Tong SC, On Copyright Bill'
 date: 2021-09-13
-permalink: /news/parliamentary-speeches/2021-09-13-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Copyright-Bill
+permalink: /news/parliamentary-speeches/2021-09-13-second-reading-speech-by-second-minister-for-law-edwin-tong-on-copyright-bill/
 
 ---
 

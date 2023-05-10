@@ -1,6 +1,6 @@
 ---
 title: 'Ratification of the Singapore Treaty on the Law Of Trademarks'
-permalink: /news/press-releases/ratification-of-the-singapore-treaty-on-the-law-of-trademarks
+permalink: /news/press-releases/ratification-of-the-singapore-treaty-on-the-law-of-trademarks/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Response to feedback-received Consultation on proposed-unsecured credit legislation'
-permalink: /news/press-releases/response-to-feedback-received-consultation-on-proposed-unsecured-credit-legislation
+permalink: /news/press-releases/response-to-feedback-received-consultation-on-proposed-unsecured-credit-legislation/
 breadcrumb: 'Press Releases'
 
 ---

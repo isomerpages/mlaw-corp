@@ -1,7 +1,7 @@
 ---
 title: 'Commencement of Rental Relief Framework'
 date: 2020-07-30T00:00:00.000Z
-permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framework
+permalink: /news/press-releases/2020-07-30-commencement-of-rental-relief-framework/
 
 ---
 

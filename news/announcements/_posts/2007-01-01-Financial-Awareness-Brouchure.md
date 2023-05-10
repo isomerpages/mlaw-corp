@@ -1,7 +1,7 @@
 ---
 title: 'Financial Awareness Brouchure'
 date: 2007-01-01T00:00:00.000Z
-permalink: /news/announcements/financial-awareness-brouchure
+permalink: /news/announcements/financial-awareness-brouchure/
 
 ---
 

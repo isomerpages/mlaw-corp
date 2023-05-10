@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Residential Property (Amendment) Bill by SMS A/P Ho Peng Kee, 14 Feb 2006'
 date: 2006-02-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-residential-property-amendment-bill-by-sms-a-p-ho-peng-kee-14-feb-2006
+permalink: /news/parliamentary-speeches/second-reading-speech-on-residential-property-amendment-bill-by-sms-a-p-ho-peng-kee-14-feb-2006/
 
 ---
 

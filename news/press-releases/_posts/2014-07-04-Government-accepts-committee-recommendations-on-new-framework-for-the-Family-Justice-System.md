@@ -1,6 +1,6 @@
 ---
 title: 'Government accepts committee recommendations on new framework for the Family Justice System'
-permalink: /news/press-releases/govt-accepts-recommendations-for-family-justice-system
+permalink: /news/press-releases/govt-accepts-recommendations-for-family-justice-system/
 breadcrumb: 'Press Releases'
 
 ---

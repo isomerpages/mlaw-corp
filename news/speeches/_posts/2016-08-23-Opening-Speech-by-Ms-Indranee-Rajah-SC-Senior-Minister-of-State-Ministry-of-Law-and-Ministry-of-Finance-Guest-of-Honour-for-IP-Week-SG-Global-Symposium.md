@@ -1,6 +1,6 @@
 ---
 title: 'Opening Speech by Ms Indranee Rajah, SC Senior Minister of State, Ministry of Law and Ministry of Finance Guest of Honour for IP Week @ SG: Global Symposium'
-permalink: /news/speeches/opening-speech-by-ms-indranee-rajah--sc-senior-minister-of-state
+permalink: /news/speeches/opening-speech-by-ms-indranee-rajah--sc-senior-minister-of-state/
 breadcrumb: Speeches
 
 ---

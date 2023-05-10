@@ -1,6 +1,6 @@
 ---
 title: 'Address by Ms Indranee Rajah S.C., Senior Minister of State, Ministry of Law and Ministry of Finance, at Heritage@Maxwell'
-permalink: /news/speeches/address-by-ms-indranee-rajah-s-c
+permalink: /news/speeches/address-by-ms-indranee-rajah-s-c/
 
 ---
 senior-minister-of-state--min0

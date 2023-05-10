@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by 2M for Law, Mr Edwin Tong, to Parliamentary Question on the Measures Protecting Sole Proprietors of Micro SMEs from Rogue Landlords 
 date: 2021-02-02
-permalink: /news/parliamentary-speeches/Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-Measures-Protecting-Sole-Proprietors-of-Micro-SMEs-from-Rogue-Landlords 
+permalink: /news/parliamentary-speeches/oral-answer-by-2m-edwin-tong-to-pq-on-measures-protecting-sole-proprietors-of-micro-smes-from-rogue-landlords/ 
 
 ---
  

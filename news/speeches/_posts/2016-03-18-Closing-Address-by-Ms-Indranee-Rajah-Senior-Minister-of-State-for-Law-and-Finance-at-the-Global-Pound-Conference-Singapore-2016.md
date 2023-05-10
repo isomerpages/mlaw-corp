@@ -1,6 +1,6 @@
 ---
 title: 'Closing Address by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Global Pound Conference Singapore 2016'
-permalink: /news/speeches/closing-address-by-ms-indranee-rajah--senior-minister-of-state-f
+permalink: /news/speeches/closing-address-by-ms-indranee-rajah--senior-minister-of-state-f/
 breadcrumb: Speeches
 
 ---

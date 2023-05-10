@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Law Minister K Shanmugam on the International Arbitration (Amendment) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-international-arbitration-amendment-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

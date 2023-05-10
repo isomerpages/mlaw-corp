@@ -1,6 +1,6 @@
 ---
 title: 'Further enhancements to the conveyancing workflow from 1 January 2012'
-permalink: /news/press-releases/further-enhancements-to-the-conveyancing-workflow-from-1-january-2012
+permalink: /news/press-releases/further-enhancements-to-the-conveyancing-workflow-from-1-january-2012/
 breadcrumb: 'Press Releases'
 
 ---

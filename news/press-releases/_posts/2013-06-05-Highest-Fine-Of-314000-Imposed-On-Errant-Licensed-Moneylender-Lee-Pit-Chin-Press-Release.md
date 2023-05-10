@@ -1,6 +1,6 @@
 ---
 title: 'Highest Fine Of $314,000 Imposed On Errant Licensed Moneylender, Lee Pit Chin - Press Release'
-permalink: /news/press-releases/Highest-fine-of-314000-imposed-on-errant-licensed-moneylender-Lee-Pit-Chin
+permalink: /news/press-releases/highest-fine-of-314000-imposed-on-errant-licensed-moneylender-lee-pit-chin/
 breadcrumb: 'Press Releases'
 
 ---

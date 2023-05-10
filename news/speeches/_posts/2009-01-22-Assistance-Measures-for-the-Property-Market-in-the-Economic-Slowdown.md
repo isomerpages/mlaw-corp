@@ -1,6 +1,6 @@
 ---
 title: 'Assistance Measures for the Property Market in the Economic Slowdown'
-permalink: /news/speeches/assistance-measures-for-the-property-market-in-the-economic-slowdown
+permalink: /news/speeches/assistance-measures-for-the-property-market-in-the-economic-slowdown/
 breadcrumb: Speeches
 
 ---

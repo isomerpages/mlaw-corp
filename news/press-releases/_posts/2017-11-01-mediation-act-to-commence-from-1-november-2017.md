@@ -1,6 +1,6 @@
 ---
 title: 'Mediation Act to commence from 1 November 2017'
-permalink: /news/press-releases/mediation-act-to-commence-from-1-november-2017
+permalink: /news/press-releases/mediation-act-to-commence-from-1-november-2017/
 breadcrumb: 'Press Releases'
 
 ---

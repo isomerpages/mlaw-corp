@@ -1,7 +1,7 @@
 ---
 title: 'Moneylenders (Prevention of Money Laundering and Financing of Terrorism) Rules 2007 (“PMFT Rules”)'
 date: 2007-11-01T00:00:00.000Z
-permalink: /news/announcements/moneylenders-prevention-of-money-laundering-and-financing-of-terrorism-rules-2007-pmft-rules
+permalink: /news/announcements/moneylenders-prevention-of-money-laundering-and-financing-of-terrorism-rules-2007-pmft-rules/
 
 ---
 

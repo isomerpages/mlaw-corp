@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Indranee Rajah SC, to Parliamentary Question on revocation of patents'
 date: 2015-01-29T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-revocation-of-patents
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-revocation-of-patents/
 
 ---
 

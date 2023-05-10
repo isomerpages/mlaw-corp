@@ -1,6 +1,6 @@
 ---
 title: 'Enhanced Criminal Legal Aid Scheme set to provide greater access to justice'
-permalink: /news/press-releases/Enhanced-CLAS-to-provide-greater-access-to-justice
+permalink: /news/press-releases/enhanced-clas-to-provide-greater-access-to-justice/
 breadcrumbs: 'Press Releases'
 
 ---

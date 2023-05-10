@@ -1,7 +1,7 @@
 ---
 title: 'Written answer by Minister for Law, K Shanmugam, to Parliamentary Question on landed residential property owned by permanent residents'
 date: 2019-09-02T00:00:00.000Z
-permalink: /news/parliamentary-speeches/Written-answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-anded-residential-property-owned-by-PR
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-anded-residential-property-owned-by-pr/
 
 ---
 

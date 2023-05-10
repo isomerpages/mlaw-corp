@@ -1,6 +1,6 @@
 ---
 title: 'Licensed Moneylending Director, Teh Chee Wee, Fined $6,800 for Breaches of Moneylending Laws'
-permalink: /news/press-releases/licensed-moneylending-director-fined-for-breaches-of-moneylending-laws
+permalink: /news/press-releases/licensed-moneylending-director-fined-for-breaches-of-moneylending-laws/
 breadcrumb: 'Press Releases'
 
 ---

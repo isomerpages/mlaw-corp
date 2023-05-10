@@ -1,6 +1,6 @@
 ---
 title: 'Human Rights Watch’s Refusal to Publicly Defend its Report'
-permalink: /news/press-releases/human-rights-watchs-refusal-to-publicly-defend-its-report
+permalink: /news/press-releases/human-rights-watchs-refusal-to-publicly-defend-its-report/
 breadcrumb: 'Press Releases'
 
 ---

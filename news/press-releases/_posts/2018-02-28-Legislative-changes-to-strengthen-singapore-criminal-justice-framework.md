@@ -1,6 +1,6 @@
 ---
 title: 'Legislative Changes to Strengthen Singapore’s Criminal Justice Framework'
-permalink: /news/press-releases/legislative-changes-to-strengthen-singapores-criminal-justice-fr
+permalink: /news/press-releases/legislative-changes-to-strengthen-singapores-criminal-justice-fr/
 breadcrumb: 'Press Releases'
 
 ---

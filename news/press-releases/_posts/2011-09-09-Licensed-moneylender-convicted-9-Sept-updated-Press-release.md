@@ -1,6 +1,6 @@
 ---
 title: 'Licensed moneylender convicted - 9 Sept updated - Press release'
-permalink: /news/press-releases/licensed-moneylender-convicted-9-sept-updated-press-release
+permalink: /news/press-releases/licensed-moneylender-convicted-9-sept-updated-press-release/
 breadcrumb: 'Press Releases'
 
 ---

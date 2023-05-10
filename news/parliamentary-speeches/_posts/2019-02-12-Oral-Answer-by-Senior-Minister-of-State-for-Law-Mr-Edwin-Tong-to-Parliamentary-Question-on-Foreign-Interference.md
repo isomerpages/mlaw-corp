@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Question on Foreign Interference'
-permalink: /news/parliamentary-speeches/Oral-Answer-by-Senior-Minister-of-State-for-Law-Edwin-Tong-to-Parliamentary-Question-on-Foreign-Interference
+permalink: /news/parliamentary-speeches/oral-answer-by-senior-minister-of-state-for-law-edwin-tong-to-parliamentary-question-on-foreign-interference/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

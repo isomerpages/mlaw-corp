@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Cases Handled by Protection from Harassment Courts
 date: 2020-10-06
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Cases-Handled-by-Protection-from-Harassment-Courts
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-cases-handled-by-protection-from-harassment-courts/
 ---
 
 06 Oct 2020 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

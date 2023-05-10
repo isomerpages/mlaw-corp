@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by DPM Jayakumar to Parliamentary Question on caning'
 date: 2008-02-15T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-dpm-jayakumar-to-parliamentary-question-on-caning
+permalink: /news/parliamentary-speeches/oral-answer-by-dpm-jayakumar-to-parliamentary-question-on-caning/
 
 ---
 

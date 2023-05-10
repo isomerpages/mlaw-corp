@@ -1,6 +1,6 @@
 ---
 title: 'New Measures to Safeguard Conveyancing Money from 1 August 2011'
-permalink: /news/press-releases/new-measures-to-safeguard-conveyancing-money-from-1-august-2011
+permalink: /news/press-releases/new-measures-to-safeguard-conveyancing-money-from-1-august-2011/
 breadcrumb: 'Press Releases'
 
 ---

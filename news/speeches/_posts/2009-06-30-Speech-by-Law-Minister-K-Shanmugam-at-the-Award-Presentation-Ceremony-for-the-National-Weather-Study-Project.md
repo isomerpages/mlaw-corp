@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Law Minister K Shanmugam at the Award Presentation Ceremony for the National Weather Study Project'
-permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-award-presentation-ceremony-for-the-national-weather
+permalink: /news/speeches/speech-by-law-minister-k-shanmugam-at-the-award-presentation-ceremony-for-the-national-weather/
 breadcrumb: Speeches
 
 ---

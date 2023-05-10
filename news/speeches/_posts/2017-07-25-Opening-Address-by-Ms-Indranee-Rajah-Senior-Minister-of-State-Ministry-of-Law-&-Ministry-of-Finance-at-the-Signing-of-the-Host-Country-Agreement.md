@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Ms Indranee Rajah, Senior Minister of State, Ministry of Law & Ministry of Finance, at the Signing of the Host Country Agreement Between Singapore and the Permanent Court of Arbitration'
-permalink: /news/speeches/sms-indranee-rajah-pca-host-country-agreement-signing
+permalink: /news/speeches/sms-indranee-rajah-pca-host-country-agreement-signing/
 breadcrumb: Speeches
 
 ---

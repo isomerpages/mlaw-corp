@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Second Minister for Law, Finance & Education, Indranee Rajah at the Debate on President''s Address'
-permalink: /news/parliamentary-speeches/speech-by-2M-indranee-rajah-debate-on-president-address
+permalink: /news/parliamentary-speeches/speech-by-2m-indranee-rajah-debate-on-president-address/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

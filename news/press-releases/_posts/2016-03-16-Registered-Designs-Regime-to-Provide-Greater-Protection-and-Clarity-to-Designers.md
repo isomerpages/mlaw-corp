@@ -1,6 +1,6 @@
 ---
 title: 'Registered Designs Regime to Provide Greater Protection and Clarity to Designers'
-permalink: /news/press-releases/registered-designs-regime--to-provide-greater-protection-and-cla
+permalink: /news/press-releases/registered-designs-regime--to-provide-greater-protection-and-cla/
 breadcrumb: 'Press Releases'
 
 ---

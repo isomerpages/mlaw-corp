@@ -1,6 +1,6 @@
 ---
 title: 'Errant licensed moneylender, Liew Hwai Shen, fined $27,000'
-permalink: /news/press-releases/errant-licensed-moneylender--liew-hwai-shen--fined--27-000
+permalink: /news/press-releases/errant-licensed-moneylender--liew-hwai-shen--fined--27-000/
 breadcrumb: 'Press Releases'
 
 ---

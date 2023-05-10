@@ -1,6 +1,6 @@
 ---
 title: 'Bankruptcy (Amendment) Bill 2009 To Introduce Debt Repayment Scheme'
-permalink: /news/press-releases/bankruptcy-amendment-bill-2009-to-introduce-debt-repayment-scheme
+permalink: /news/press-releases/bankruptcy-amendment-bill-2009-to-introduce-debt-repayment-scheme/
 breadcrumb: 'Press Releases'
 
 ---

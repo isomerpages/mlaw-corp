@@ -1,6 +1,6 @@
 ---
 title: 'First public consultation to seek feedback on proposed measures to safeguard conveyancing moneys'
-permalink: /news/press-releases/first-public-consultation-to-seek-feedback-on-proposed-measures-to-safeguard-conveyancing-moneys
+permalink: /news/press-releases/first-public-consultation-to-seek-feedback-on-proposed-measures-to-safeguard-conveyancing-moneys/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Dialogue with Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at the Institute of Policy Studies Forum on the Reserved Presidential Election'
-permalink: /news/speeches/dialogue-with-mr-k-shanmugam--minister-for-home-affairs-and-mini
+permalink: /news/speeches/dialogue-with-mr-k-shanmugam--minister-for-home-affairs-and-mini/
 breadcrumb: Speeches
 
 ---

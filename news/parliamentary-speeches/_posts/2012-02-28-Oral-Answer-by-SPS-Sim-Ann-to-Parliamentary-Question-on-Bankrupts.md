@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by SPS Sim Ann to Parliamentary Question on Bankrupts'
 date: 2012-02-28T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-bankrupts
+permalink: /news/parliamentary-speeches/oral-answer-by-sps-sim-ann-to-parliamentary-question-on-bankrupts/
 
 ---
 

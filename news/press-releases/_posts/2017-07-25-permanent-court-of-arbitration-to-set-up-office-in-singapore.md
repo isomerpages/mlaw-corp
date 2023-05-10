@@ -1,6 +1,6 @@
 ---
 title: 'Permanent Court of Arbitration to set up office in Singapore'
-permalink: /news/press-releases/permanent-court-of-arbitration-to-set-up-office-in-singapore-
+permalink: /news/press-releases/permanent-court-of-arbitration-to-set-up-office-in-singapore-/
 breadcrumb: 'Press Releases'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Law Minister, K Shanmugam, on the Statutes (Miscellaneous Amendments) Bill'
 date: 2012-01-18T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-statutes-miscellaneous-amendments-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-statutes-miscellaneous-amendments-bill/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Law Minister K Shanmugam on Legal Services & Education during the Committee of Supply Debate'
 date: 2009-02-13T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-legal-services-education-during-the-committee-of-supply
+permalink: /news/parliamentary-speeches/speech-by-law-minister-k-shanmugam-on-legal-services-education-during-the-committee-of-supply/
 
 ---
 

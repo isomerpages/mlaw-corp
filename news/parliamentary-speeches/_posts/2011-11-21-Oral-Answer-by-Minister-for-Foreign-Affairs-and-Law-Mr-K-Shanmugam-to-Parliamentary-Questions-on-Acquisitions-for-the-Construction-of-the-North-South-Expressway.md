@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by Minister for Foreign Affairs and Law, Mr K Shanmugam, to Parliamentary Questions on Acquisitions for the Construction of the North-South Expressway'
 date: 2011-11-21T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-to-parliamentary-questions-on
+permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-foreign-affairs-and-law-mr-k-shanmugam-to-parliamentary-questions-on/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on the Constitution'
 date: 2014-04-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-by-sms-on-constitution
+permalink: /news/parliamentary-speeches/written-answer-by-sms-on-constitution/
 
 ---
 

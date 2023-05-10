@@ -1,6 +1,6 @@
 ---
 title: 'Opening Remarks by Ministry of Law Permanent Secretary, Dr Beh Swan Gin, at ICC Mediation Rules 2014 Launch Conference'
-permalink: /news/speeches/opening-remarks-by-ps-at-icc-mediation-rules-2014-launch-conf
+permalink: /news/speeches/opening-remarks-by-ps-at-icc-mediation-rules-2014-launch-conf/
 breadcrumb: Speeches
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Speech by SMS Assoc Prof Ho Peng Kee at the Strata Titles Board Annual Dinner'
-permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-strata-titles-board-annual-dinner
+permalink: /news/speeches/speech-by-sms-assoc-prof-ho-peng-kee-at-the-strata-titles-board-annual-dinner/
 breadcrumb: Speeches
 
 ---

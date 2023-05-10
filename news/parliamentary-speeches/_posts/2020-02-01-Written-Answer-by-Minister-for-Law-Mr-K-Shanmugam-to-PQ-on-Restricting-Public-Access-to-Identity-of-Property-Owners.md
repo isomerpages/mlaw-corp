@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Restricting Public Access to Identity of Property Owners in Singapore
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Restricting-Public-Access-to-Identity-of-Property-Owners
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-restricting-public-access-to-identity-of-property-owners/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'The Registry of Moneylenders issued a direction on 27 May 2011'
 date: 2011-07-26T00:00:00.000Z
-permalink: /news/announcements/the-registry-of-moneylenders-issued-a-direction-on-27-may-2011
+permalink: /news/announcements/the-registry-of-moneylenders-issued-a-direction-on-27-may-2011/
 
 ---
 

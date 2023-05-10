@@ -1,6 +1,6 @@
 ---
 title: 'Remarks by Senior Minister Of State For Law, Indranee Rajah, at MOU signing ceremonies in Myanmar universities'
-permalink: /news/speeches/remarks-by-sms-at-mou-signing-ceremonies-in-myanmar-universities
+permalink: /news/speeches/remarks-by-sms-at-mou-signing-ceremonies-in-myanmar-universities/
 breadcrumb: Speeches
 
 ---

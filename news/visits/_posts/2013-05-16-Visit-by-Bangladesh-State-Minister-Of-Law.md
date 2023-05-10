@@ -1,6 +1,6 @@
 ---
 title: 'Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam'
-permalink: /news/visits/Visit-by-Bangladesh-State-Minister-Of-Law/
+permalink: /news/visits/visit-by-bangladesh-state-minister-of-law/
 breadcrumb: 'Visit by Bangladesh State Minister of Law, Justice and Parliamentary Affairs, Md Qamrul Islam'
 
 ---

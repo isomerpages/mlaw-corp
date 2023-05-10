@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Patents Act and other Intellectual Property related Acts'
-permalink: /news/press-releases/proposed-amendments-to-the-patents-act-and-other-intellectual-property-related-acts
+permalink: /news/press-releases/proposed-amendments-to-the-patents-act-and-other-intellectual-property-related-acts/
 breadcrumb: 'Press Releases'
 
 ---

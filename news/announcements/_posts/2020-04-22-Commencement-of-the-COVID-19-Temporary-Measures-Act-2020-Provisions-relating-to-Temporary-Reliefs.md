@@ -1,7 +1,7 @@
 ---
 title: 'MinLaw-BCA Information Note - Commencement of the COVID-19 (Temporary Measures) Act 2020 - Provisions relating to Temporary Reliefs'
 date: 2020-04-22T00:00:00.000Z
-permalink: /news/announcements/2020-04-22-Commencement-of-the-COVID-19-Temporary-Measures-Act-2020-Provisions-relating-to-Temporary-Reliefs
+permalink: /news/announcements/2020-04-22-commencement-of-the-covid-19-temporary-measures-act-2020-provisions-relating-to-temporary-reliefs/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Oral answer by Minister for Law, K Shanmugam, to Parliamentary Question on a legal framework to deal with neighbour disputes'
 date: 2012-11-14T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law--k-shanmugam--to-parliamentary-q
+permalink: /news/parliamentary-speeches/oral-answer-by-minister-for-law--k-shanmugam--to-parliamentary-q/
 
 ---
 

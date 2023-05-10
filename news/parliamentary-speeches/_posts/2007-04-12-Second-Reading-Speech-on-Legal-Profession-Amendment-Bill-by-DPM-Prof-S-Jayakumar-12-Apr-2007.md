@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Legal Profession (Amendment) Bill by DPM Prof S Jayakumar, 12 Apr 2007'
 date: 2007-04-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-legal-profession-amendment-bill-by-dpm-prof-s-jayakumar-12-apr-2007
+permalink: /news/parliamentary-speeches/second-reading-speech-on-legal-profession-amendment-bill-by-dpm-prof-s-jayakumar-12-apr-2007/
 
 ---
 

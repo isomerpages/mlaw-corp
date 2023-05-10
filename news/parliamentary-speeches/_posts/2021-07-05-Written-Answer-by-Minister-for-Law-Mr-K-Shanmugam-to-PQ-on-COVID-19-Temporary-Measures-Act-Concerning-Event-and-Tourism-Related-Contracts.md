@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on COVID-19 (Temporary Measures) Act concerning event and tourism related contracts 
 date: 2021-07-05
-permalink: /news/parliamentary-speeches/2021-07-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-COVID-19-Temporary-Measures-Act-Concerning-Event-and-Tourism-Related-Contracts 
+permalink: /news/parliamentary-speeches/2021-07-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-covid-19-temporary-measures-act-concerning-event-and-tourism-related-contracts/ 
 ---
 
 5 July 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

@@ -1,6 +1,6 @@
 ---
 title: 'Public feedback sought on the International Arbitration (Amendment) Bill'
-permalink: /news/press-releases/public-feedback-sought-on-the-international-arbitration-amendment-bill
+permalink: /news/press-releases/public-feedback-sought-on-the-international-arbitration-amendment-bill/
 breadcrumb: 'Press Releases'
 
 ---

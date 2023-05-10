@@ -1,7 +1,7 @@
 ---
 title: 'MinLaw and IPOS Seek Feedback on Proposed Licensing Scheme for Collective Management Organisations in Singapore'
 date: 2020-06-03T00:00:00.000Z
-permalink: /news/press-releases/Public-Consultation-on-Proposed-Licensing-Scheme-for-Collective-Management-Organisations-in-Singapore
+permalink: /news/press-releases/public-consultation-on-proposed-licensing-scheme-for-collective-management-organisations-in-singapore/
 
 ---
 

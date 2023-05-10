@@ -1,6 +1,6 @@
 ---
 title: 'Proposed Amendments to the Copyright Act'
-permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-copyright-act
+permalink: /news/press-releases/public-consultation-on-proposed-amendments-to-copyright-act/
 breadcrumb: 'Press Releases'
 
 ---

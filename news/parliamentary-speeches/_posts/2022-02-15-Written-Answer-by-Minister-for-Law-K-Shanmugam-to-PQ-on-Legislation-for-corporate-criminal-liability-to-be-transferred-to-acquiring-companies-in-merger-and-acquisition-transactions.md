@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Proposed Legislation for Corporate Criminal Liability To Be Transferred to Acquiring Companies in Merger And Acquisition Transactions
 date: 2022-02-15
-permalink: /news/parliamentary-speeches/2022-02-15-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Legislation-for-corporate-criminal-liability-to-be-transferred-to-acquiring-companies-in-merger-and-acquisition-transactions
+permalink: /news/parliamentary-speeches/2022-02-15-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-legislation-for-corporate-criminal-liability-to-be-transferred-to-acquiring-companies-in-merger-and-acquisition-transactions/
 ---
 
 15 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

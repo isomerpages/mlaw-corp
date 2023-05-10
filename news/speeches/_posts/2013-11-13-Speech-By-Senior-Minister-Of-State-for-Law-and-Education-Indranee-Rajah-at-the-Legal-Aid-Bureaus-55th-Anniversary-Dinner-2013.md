@@ -1,6 +1,6 @@
 ---
 title: 'Speech By Senior Minister Of State for Law and Education, Indranee Rajah, at the Legal Aid Bureau''s 55th Anniversary Dinner 2013'
-permalink: /news/speeches/speech-by-sms-at-lab-55th-dinner
+permalink: /news/speeches/speech-by-sms-at-lab-55th-dinner/
 breadcrumb: Speeches
 
 ---

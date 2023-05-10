@@ -1,7 +1,7 @@
 ---
 title: 'SMS Alert on Monthly Instalment Arrears'
 date: 2014-03-07T00:00:00.000Z
-permalink: /news/announcements/sms-alert-on-monthly-instalment-arrears
+permalink: /news/announcements/sms-alert-on-monthly-instalment-arrears/
 
 ---
 

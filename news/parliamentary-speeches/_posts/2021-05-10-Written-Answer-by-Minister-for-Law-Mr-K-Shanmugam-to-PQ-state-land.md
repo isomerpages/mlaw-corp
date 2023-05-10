@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on State Land
 date: 2021-05-10
-permalink: /news/parliamentary-speeches/2021-05-10-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-state-land
+permalink: /news/parliamentary-speeches/2021-05-10-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-state-land/
 ---
 
 10 May 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

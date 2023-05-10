@@ -1,6 +1,6 @@
 ---
 title: 'First Time Conviction Of A Shareholder Of A Licensed Moneylender'
-permalink: /news/press-releases/first-time-conviction-of-a-shareholder-of-a-licensed-moneylender
+permalink: /news/press-releases/first-time-conviction-of-a-shareholder-of-a-licensed-moneylender/
 breadcrumb: 'Press Releases'
 
 ---

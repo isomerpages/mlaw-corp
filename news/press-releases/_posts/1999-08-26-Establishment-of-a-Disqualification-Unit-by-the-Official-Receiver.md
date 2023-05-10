@@ -1,6 +1,6 @@
 ---
 title: 'Establishment of a Disqualification Unit by the Official Receiver'
-permalink: /news/press-releases/establishment-of-a-disqualification-unit-by-the-official-receiver
+permalink: /news/press-releases/establishment-of-a-disqualification-unit-by-the-official-receiver/
 breadcrumb: 'Press Releases'
 
 ---

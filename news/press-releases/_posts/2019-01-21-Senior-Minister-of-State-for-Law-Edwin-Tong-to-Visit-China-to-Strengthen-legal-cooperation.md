@@ -1,7 +1,7 @@
 ---
 title: 'Senior Minister of State for Law Edwin Tong to Visit China to Strengthen Legal Cooperation'
 date: 2019-01-21T00:00:00.000Z
-permalink: /news/press-releases/SMS-Edwin-Tong-to-visit-China-to-strengthen-legal-cooperation
+permalink: /news/press-releases/sms-edwin-tong-to-visit-china-to-strengthen-legal-cooperation/
 breadcrumb: 'Press Releases'
 
 ---

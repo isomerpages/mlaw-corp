@@ -2,7 +2,7 @@
 layout: post
 title:  Simplified Insolvency Programme 
 date: 2020-10-05
-permalink: /news/press-releases/simplified-insolvency-programme 
+permalink: /news/press-releases/simplified-insolvency-programme/ 
 ---
 
 05 Oct 2020 Posted in [Press releases](/news/press-releases)

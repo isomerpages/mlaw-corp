@@ -1,6 +1,6 @@
 ---
 title: 'Singapore as a venue for proceedings in cases before the International Tribunal for the Law of the Sea'
-permalink: /news/press-releases/MinLaw-ITLOS-joint-declaration-signing
+permalink: /news/press-releases/minlaw-itlos-joint-declaration-signing/
 breadcrumb: 'Press Releases'
 
 ---

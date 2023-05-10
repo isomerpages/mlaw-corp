@@ -1,7 +1,7 @@
 ---
 title: 'Oral answer by Senior Minister of State for Law, Indranee Rajah, to Parliamentary Question on QFLPs'
 date: 2013-11-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-QFLPs
+permalink: /news/parliamentary-speeches/oral-answer-by-sms-on-qflps/
 
 ---
 

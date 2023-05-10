@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /events/event_1/speakers
+permalink: /events/event_1/speakers/
 breadcrumb: Speakers
 
 ---

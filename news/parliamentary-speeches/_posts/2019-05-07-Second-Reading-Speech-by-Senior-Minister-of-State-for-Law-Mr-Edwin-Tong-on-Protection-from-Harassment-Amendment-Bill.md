@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Protection from Harassment (Amendment) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-poha-amendments
+permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-poha-amendments/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

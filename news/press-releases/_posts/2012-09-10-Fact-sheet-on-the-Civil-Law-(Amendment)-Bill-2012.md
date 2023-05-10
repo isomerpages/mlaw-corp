@@ -1,6 +1,6 @@
 ---
 title: 'Fact sheet on the Civil Law (Amendment) Bill 2012'
-permalink: /news/press-releases/fact-sheet-on-the-civil-law-amendment-bill-2012
+permalink: /news/press-releases/fact-sheet-on-the-civil-law-amendment-bill-2012/
 breadcrumb: 'Press Releases'
 
 ---

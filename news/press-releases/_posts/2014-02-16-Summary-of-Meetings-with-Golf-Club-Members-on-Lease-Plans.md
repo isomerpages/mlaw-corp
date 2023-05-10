@@ -1,6 +1,6 @@
 ---
 title: 'Summary of Meetings with Golf Club Members on Lease Plans'
-permalink: /news/press-releases/summary-meetings-golf-members
+permalink: /news/press-releases/summary-meetings-golf-members/
 breadcrumb: 'Press Releases'
 
 ---

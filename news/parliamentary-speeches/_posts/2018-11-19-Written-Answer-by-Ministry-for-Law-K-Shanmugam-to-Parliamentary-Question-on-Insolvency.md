@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Ministry for Law, K Shanmugam, to Parliamentary Question on Insolvency'
-permalink: /news/parliamentary-speeches/written-answer-by-Minister-for-Law-KShanmugam-to-Parliamentary-Question-on-insolvency
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-kshanmugam-to-parliamentary-question-on-insolvency/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

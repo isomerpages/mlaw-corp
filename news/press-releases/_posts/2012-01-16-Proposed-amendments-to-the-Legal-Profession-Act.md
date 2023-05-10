@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Legal Profession Act'
-permalink: /news/press-releases/proposed-amendments-to-the-legal-profession-act
+permalink: /news/press-releases/proposed-amendments-to-the-legal-profession-act/
 breadcrumb: 'Press Releases'
 
 ---

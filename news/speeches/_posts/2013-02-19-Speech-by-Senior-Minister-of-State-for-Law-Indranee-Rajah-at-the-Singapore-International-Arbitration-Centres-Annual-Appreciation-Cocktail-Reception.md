@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law, Indranee Rajah at the Singapore International Arbitration Centre''s Annual Appreciation Cocktail Reception'
-permalink: /news/speeches/speech-by-sms-at-siac-annual-appreciation-cocktail
+permalink: /news/speeches/speech-by-sms-at-siac-annual-appreciation-cocktail/
 breadcrumb: Speeches
 
 ---

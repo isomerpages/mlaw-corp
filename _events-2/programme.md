@@ -1,6 +1,6 @@
 ---
 title: Programme
-permalink: /events/event_2/programme
+permalink: /events/event_2/programme/
 breadcrumb: Programme
 
 ---

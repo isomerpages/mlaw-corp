@@ -2,7 +2,7 @@
 layout: post
 title: Third-Party Funding to be Permitted for More Categories of Legal Proceedings in Singapore
 date: 2021-06-21
-permalink: /news/press-releases/2021-06-21-Third-party-funding-framework-permitted-for-more-categories-of-legal-preceedings-in-Singapore 
+permalink: /news/press-releases/2021-06-21-third-party-funding-framework-permitted-for-more-categories-of-legal-preceedings-in-singapore/ 
 ---
 
 21 Jun 2021 Posted in [Press releases](/news/press-releases)

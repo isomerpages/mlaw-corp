@@ -1,6 +1,6 @@
 ---
 title: 'Keynote Address by Ms Indranee Rajah S.C.,Second Minister for Law, at the Family Conference 2018'
-permalink: /news/speeches/keynote-address-by-indranee-rajah-sc-second-minister-for-law-family-conference-2018
+permalink: /news/speeches/keynote-address-by-indranee-rajah-sc-second-minister-for-law-family-conference-2018/
 breadcrumb: Speeches
 
 ---

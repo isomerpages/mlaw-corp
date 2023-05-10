@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Breakdown of Businesses Taking On Re-Align Framework to Terminate Existing Rental Contracts Ahead of Schedule
 date: 2021-02-01
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-breakdown-of-businesses-taking-on-realign-framework
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-breakdown-of-businesses-taking-on-realign-framework/
 
 ---
 

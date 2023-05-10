@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Indranee Rajah SC, on the Civil (Amendment) Bill 2016'
 date: 2017-01-10T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra3
+permalink: /news/parliamentary-speeches/second-reading-speech-by-senior-minister-of-state-for-law--indra3/
 
 ---
 

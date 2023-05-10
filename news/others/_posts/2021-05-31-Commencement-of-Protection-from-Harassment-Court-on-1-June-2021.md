@@ -1,7 +1,7 @@
 ---
 title: 'Commencement of Protection from Harassment Court on 1 June 2021'
 date: 2021-05-31
-permalink: /news/others/Commencement-of-Protection-from-Harassment-Court-on-1-June-2021
+permalink: /news/others/commencement-of-protection-from-harassment-court-on-1-june-2021/
 
 ---
 

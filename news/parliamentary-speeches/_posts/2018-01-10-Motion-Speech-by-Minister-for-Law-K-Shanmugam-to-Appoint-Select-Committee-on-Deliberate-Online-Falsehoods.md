@@ -1,6 +1,6 @@
 ---
 title: 'Motion Speech by Minister for Law, K Shanmugam, to Appoint Select Committee on Deliberate Online Falsehoods'
-permalink: /news/parliamentary-speeches/motion-speech-select-committee-deliberate-falsehoods
+permalink: /news/parliamentary-speeches/motion-speech-select-committee-deliberate-falsehoods/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

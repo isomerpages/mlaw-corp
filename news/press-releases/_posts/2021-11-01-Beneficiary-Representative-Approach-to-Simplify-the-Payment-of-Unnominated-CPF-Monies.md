@@ -2,7 +2,7 @@
 layout: post
 title: Beneficiary Representative Approach to Simplify the Payment of Un-nominated CPF Monies
 date: 2021-11-01
-permalink: /news/press-releases/2021-11-01-Beneficiary-Representative-Approach-to-Simplify-the-Payment-of-Unnominated-CPF-Monies
+permalink: /news/press-releases/2021-11-01-beneficiary-representative-approach-to-simplify-the-payment-of-unnominated-cpf-monies/
 ---
 
 01 Nov 2021 Posted in [Press releases](/news/press-releases)

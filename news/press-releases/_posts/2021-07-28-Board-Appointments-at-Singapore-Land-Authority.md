@@ -2,7 +2,7 @@
 layout: post
 title: Board Appointments at the Singapore Land Authority
 date: 2021-07-28
-permalink: /news/press-releases/2021-07-28-Board-Appointments-at-Singapore-Land-Authority
+permalink: /news/press-releases/2021-07-28-board-appointments-at-singapore-land-authority/
 ---
 
 28 Jul 2021 Posted in [Press releases](/news/press-releases)

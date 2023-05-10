@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the 70th Anniversary of the Geneva Conventions'
 date: 2019-09-25T00:00:00.000Z
-permalink: /news/speeches/Speech-by-Mr-Edwin-Tong-Senior-Minister-of-State-For-Law-and-Health-at-the-70th-Anniversary-of-the-Geneva-Conventions
+permalink: /news/speeches/speech-by-mr-edwin-tong-senior-minister-of-state-for-law-and-health-at-the-70th-anniversary-of-the-geneva-conventions/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Factsheet on the Family Justice Act 2014'
-permalink: /news/press-releases/factsheet-family-justice-act-2014
+permalink: /news/press-releases/factsheet-family-justice-act-2014/
 breadcrumb: 'Press Releases'
 
 ---

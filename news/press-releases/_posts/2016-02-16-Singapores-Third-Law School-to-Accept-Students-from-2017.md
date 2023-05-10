@@ -1,6 +1,6 @@
 ---
 title: 'Singapore’s Third Law School to Accept Students from 2017'
-permalink: /news/press-releases/singapore_s-third-law-school-to-accept-students-from-2017
+permalink: /news/press-releases/singapore_s-third-law-school-to-accept-students-from-2017/
 breadcrumb: 'Press Releases'
 
 ---

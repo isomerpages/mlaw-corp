@@ -2,7 +2,7 @@
 layout: post
 title:  Singapore Accedes to the Apostille Convention
 date: 2021-01-19
-permalink: /news/press-releases/2021-01-19-Singapore-Accedes-to-the-Apostille-Convention
+permalink: /news/press-releases/2021-01-19-singapore-accedes-to-the-apostille-convention/
 ---
 
 19 Jan 2021 Posted in [Press releases](/news/press-releases)

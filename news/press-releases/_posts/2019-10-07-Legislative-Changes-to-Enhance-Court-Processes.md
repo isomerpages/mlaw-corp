@@ -1,7 +1,7 @@
 ---
 title: 'Legislative Changes to Enhance Court Processes'
 date: 2019-10-07T00:00:00.000Z
-permalink: /news/press-releases/Legislative-Changes-to-Enhance-Court-Processes
+permalink: /news/press-releases/legislative-changes-to-enhance-court-processes/
 
 ---
 

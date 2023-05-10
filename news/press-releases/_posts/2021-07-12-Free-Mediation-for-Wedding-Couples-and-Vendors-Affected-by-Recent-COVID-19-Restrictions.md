@@ -2,7 +2,7 @@
 layout: post
 title: Free Mediation for Wedding Couples and Vendors Affected by Recent COVID-19 Restrictions
 date: 2021-07-12
-permalink: /news/press-releases/2021-07-12-Free-Mediation-for-Wedding-Couples-and-Vendors-Affected-by-Recent-COVID-19-Restrictions
+permalink: /news/press-releases/2021-07-12-free-mediation-for-wedding-couples-and-vendors-affected-by-recent-covid-19-restrictions/
 ---
 
 12 Jul 2021 Posted in [Press releases](/news/press-releases)

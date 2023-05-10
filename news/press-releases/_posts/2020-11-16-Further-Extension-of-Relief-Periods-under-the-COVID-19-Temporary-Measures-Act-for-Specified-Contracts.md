@@ -1,6 +1,6 @@
 ---
 title: Further Extension of Relief Periods under the COVID-19 (Temporary Measures) Act for Specified Contracts 
-permalink: /news/press-releases/Further-Extension-of-Relief-Periods-under-the-COVID-19-Temporary-Measures-Act-for-Specified-Contracts
+permalink: /news/press-releases/further-extension-of-relief-periods-under-the-covid-19-temporary-measures-act-for-specified-contracts/
 ---
 
 16 Nov 2020 Posted in [Press releases](/news/press-releases)

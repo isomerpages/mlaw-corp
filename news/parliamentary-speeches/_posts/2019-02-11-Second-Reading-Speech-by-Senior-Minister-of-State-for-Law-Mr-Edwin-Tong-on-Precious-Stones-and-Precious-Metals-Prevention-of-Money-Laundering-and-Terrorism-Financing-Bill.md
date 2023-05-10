@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong on Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

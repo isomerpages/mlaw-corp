@@ -2,7 +2,7 @@
 layout: post
 title:  Singapore Convention Week 2021 Concludes
 date: 2021-09-15
-permalink: /news/press-releases/2021-09-15-Singapore-Convention-Week-2021-Concludes
+permalink: /news/press-releases/2021-09-15-singapore-convention-week-2021-concludes/
 ---
 
 15 Sep 2021 Posted in [Press releases](/news/press-releases)

@@ -1,6 +1,6 @@
 ---
 title: 'Note by 2M Edwin Tong on advancing Singapore''s status as a dispute resolution and IP hub'
-permalink: '/news/legal-industry-newsletter/Note-by-2M-Edwin-Tong-on-advancing-Singapore-status-as-DR-IP-hub/'
+permalink: '/news/legal-industry-newsletter/note-by-2m-edwin-tong-on-advancing-singapore-status-as-dr-ip-hub/'/
 breadcrumb: 'Note by 2M Edwin Tong on advancing Singapore''s status as a dispute resolution and IP hub'
 
 ---

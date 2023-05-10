@@ -1,6 +1,6 @@
 ---
 title: 'Amendments to the Copyright Act'
-permalink: /news/press-releases/amendments-to-the-copyright-act-2014
+permalink: /news/press-releases/amendments-to-the-copyright-act-2014/
 breadcrumb: 'Press Releases'
 
 ---

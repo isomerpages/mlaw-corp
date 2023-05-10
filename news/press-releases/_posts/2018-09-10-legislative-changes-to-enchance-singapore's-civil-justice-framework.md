@@ -1,6 +1,6 @@
 ---
 title: 'Legislative Changes to Enhance Singapore’s Civil Justice Framework'
-permalink: /news/press-releases/Legislative-Changes-to-Enhance-Singapore-Civil-Justice-Framework
+permalink: /news/press-releases/legislative-changes-to-enhance-singapore-civil-justice-framework/
 breadcrumb: 'Press Releases'
 
 ---

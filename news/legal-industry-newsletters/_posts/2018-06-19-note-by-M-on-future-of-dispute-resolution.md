@@ -1,6 +1,6 @@
 ---
 title: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Future of Dispute Resolution'
-permalink: /news/legal-industry-newsletter/note-by-M-on-future-of-dispute-resolution/
+permalink: /news/legal-industry-newsletter/note-by-m-on-future-of-dispute-resolution/
 breadcrumb: 'Note by Second Minister for Law, Finance and Education, Indranee Rajah, on Future of Dispute Resolution'
 
 ---

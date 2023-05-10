@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Senior Minister of State for Law and Finance Ms Indranee Rajah SC at the STEP Asia Conference 2015'
-permalink: /news/speeches/Speech-by-SMS-Indranee-Rajah-SC-at-STEP-Asia-Conference-2015
+permalink: /news/speeches/speech-by-sms-indranee-rajah-sc-at-step-asia-conference-2015/
 breadcrumb: Speeches
 
 ---

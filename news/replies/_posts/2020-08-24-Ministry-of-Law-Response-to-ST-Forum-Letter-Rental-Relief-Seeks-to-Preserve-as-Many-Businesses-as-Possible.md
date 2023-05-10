@@ -1,7 +1,7 @@
 ---
 title: 'Ministry of Law''s Response to ST Forum Letter: Rental relief seeks to preserve as many businesses as possible'
 date: 2020-08-24T00:00:00.000Z
-permalink: /news/replies/Ministry-of-Law-Response-to-ST-Forum-Letter-Rental-Relief-Seeks-to-Preserve-as-Many-Businesses-as-Possible
+permalink: /news/replies/ministry-of-law-response-to-st-forum-letter-rental-relief-seeks-to-preserve-as-many-businesses-as-possible/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Singapore and Uzbekistan Sign MOU to Strengthen Legal Cooperation
 date: 2021-04-22
-permalink: /news/press-releases/2021-04-22-Singapore-and-Uzbekistan-sign-MOU-to-Strengthen-Legal-Cooperation
+permalink: /news/press-releases/2021-04-22-singapore-and-uzbekistan-sign-mou-to-strengthen-legal-cooperation/
 ---
 
 22 Apr 2021 Posted in [Press releases](/news/press-releases)

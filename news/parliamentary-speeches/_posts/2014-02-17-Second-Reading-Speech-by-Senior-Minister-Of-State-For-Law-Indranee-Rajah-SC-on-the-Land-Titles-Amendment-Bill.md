@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Senior Minister Of State For Law, Indranee Rajah SC, on the Land Titles (Amendment) Bill'
 date: 2014-02-17T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-speech-by-SMS-on-land-titles-amendment-bill-2014
+permalink: /news/parliamentary-speeches/2r-speech-by-sms-on-land-titles-amendment-bill-2014/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Convention Week 2021 Brings Together Global Legal and Business Community 
 date: 2021-08-31
-permalink: /news/press-releases/2021-08-31-Singapore-Convention-Week-2021-brings-together-global-legal-business-community
+permalink: /news/press-releases/2021-08-31-singapore-convention-week-2021-brings-together-global-legal-business-community/
 ---
 
 31 Aug 2021 Posted in [Press releases](/news/press-releases)

@@ -1,6 +1,6 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, on Singapore Convention on Mediation'
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-K-Shanmugam-on-Singapore-Convention-on-Mediation
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-on-singapore-convention-on-mediation/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

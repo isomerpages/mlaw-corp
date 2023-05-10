@@ -1,7 +1,7 @@
 ---
 title: 'Public Trustee notice dated 09 Jul 2014'
 date: 2014-07-09T00:00:00.000Z
-permalink: /news/announcements/public-trustee-notice-dated-09-jul-2014
+permalink: /news/announcements/public-trustee-notice-dated-09-jul-2014/
 
 ---
 

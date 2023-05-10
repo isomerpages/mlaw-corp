@@ -1,6 +1,6 @@
 ---
 title: 'Proposed amendments to the Evidence Act'
-permalink: /news/press-releases/proposed-amendments-to-the-evidence-act
+permalink: /news/press-releases/proposed-amendments-to-the-evidence-act/
 breadcrumb: 'Press Releases'
 
 ---

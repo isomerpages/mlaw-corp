@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill'
-permalink: /news/public-consultations/public-consultation-on-the-proposed-SOC-Bill/
+permalink: /news/public-consultations/public-consultation-on-the-proposed-soc-bill/
 breadcrumb: 'Public Consultation on the Proposed Status of Children (Assisted Reproduction Technology) Bill'
 
 ---

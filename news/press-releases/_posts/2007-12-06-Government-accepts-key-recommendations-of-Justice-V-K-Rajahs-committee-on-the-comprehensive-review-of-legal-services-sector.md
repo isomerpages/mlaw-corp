@@ -1,6 +1,6 @@
 ---
 title: 'Government accepts key recommendations of Justice V K Rajah''s committee on the comprehensive review of legal services sector'
-permalink: /news/press-releases/government-accepts-key-recommendations-of-justice-v-k-rajah-s-committee-on-the-comprehensive-review
+permalink: /news/press-releases/government-accepts-key-recommendations-of-justice-v-k-rajah-s-committee-on-the-comprehensive-review/
 breadcrumb: 'Press Releases'
 
 ---

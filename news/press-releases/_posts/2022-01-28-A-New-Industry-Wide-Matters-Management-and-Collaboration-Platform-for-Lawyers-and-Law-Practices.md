@@ -2,7 +2,7 @@
 layout: post
 title:  A New Industry-Wide Matters Management & Collaboration Platform for Lawyers and Law Practices
 date: 2022-01-28
-permalink: /news/press-releases/2022-01-28-A-New-Industry-Wide-Matters-Management-and-Collaboration-Platform-for-Lawyers-and-Law-Practices
+permalink: /news/press-releases/2022-01-28-a-new-industry-wide-matters-management-and-collaboration-platform-for-lawyers-and-law-practices/
 ---
 
 28 Jan 2022 Posted in [Press releases](/news/press-releases)

@@ -1,6 +1,6 @@
 ---
 title: 'Top Officials to Open Diplomatic Conference to Revise Key Trademark Treaty in Singapore'
-permalink: /news/press-releases/top-officials-to-open-diplomatic-conference-to-revise-key-trademark-treaty-in-singapore_1
+permalink: /news/press-releases/top-officials-to-open-diplomatic-conference-to-revise-key-trademark-treaty-in-singapore_1/
 breadcrumb: 'Press Releases'
 
 ---

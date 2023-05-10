@@ -1,7 +1,7 @@
 ---
 title: Second Reading Speech by Senior Parl Sec, Mdm Rahayu Mahzam, on Statutes
   (Misc Amendments) Bill
-permalink: /news/parliamentary-speeches/2R-Speech-by-Senior-Parl-Sec-Mdm-Rahayu-Mahzam-on-SMAB/
+permalink: /news/parliamentary-speeches/2r-speech-by-senior-parl-sec-mdm-rahayu-mahzam-on-smab/
 date: 2022-10-03
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act'
-permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-criminal-proce
+permalink: /news/public-consultations/public-consultation-on-proposed-amendments-to-the-criminal-proce/
 breadcrumb: 'Public Consultations'
 
 ---

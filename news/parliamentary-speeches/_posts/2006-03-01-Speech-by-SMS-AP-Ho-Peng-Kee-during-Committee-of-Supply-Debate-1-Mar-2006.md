@@ -1,7 +1,7 @@
 ---
 title: 'Speech by SMS A/P Ho Peng Kee during Committee of Supply Debate, 1 Mar 2006'
 date: 2006-03-01T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-sms-a-p-ho-peng-kee-during-committee-of-supply-debate-1-mar-2006
+permalink: /news/parliamentary-speeches/speech-by-sms-a-p-ho-peng-kee-during-committee-of-supply-debate-1-mar-2006/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation on the Insolvency Law Review Committee''s Report'
-permalink: /news/public-consultations/public-consultation-on-ILRC-report
+permalink: /news/public-consultations/public-consultation-on-ilrc-report/
 breadcrumb: 'Public Consultations'
 
 ---

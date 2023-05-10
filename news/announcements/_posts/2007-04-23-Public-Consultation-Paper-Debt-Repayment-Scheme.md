@@ -1,7 +1,7 @@
 ---
 title: 'Public Consultation Paper - Debt Repayment Scheme'
 date: 2007-04-23T00:00:00.000Z
-permalink: /news/announcements/public-consultation-paper-debt-repayment-scheme
+permalink: /news/announcements/public-consultation-paper-debt-repayment-scheme/
 
 ---
 

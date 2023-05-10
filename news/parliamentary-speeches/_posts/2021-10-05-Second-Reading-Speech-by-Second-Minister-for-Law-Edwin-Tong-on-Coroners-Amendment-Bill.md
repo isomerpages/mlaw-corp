@@ -2,7 +2,7 @@
 layout: post
 title: 'Second Reading Speech By Second Minister For Law, Mr Edwin Tong, on Coroners (Amendment) Bill'
 date: 2021-10-05
-permalink: /news/parliamentary-speeches/2021-10-05-Second-Reading-Speech-by-Second-Minister-for-Law-Edwin-Tong-on-Coroners-Amendment-Bill
+permalink: /news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill/
 
 ---
 

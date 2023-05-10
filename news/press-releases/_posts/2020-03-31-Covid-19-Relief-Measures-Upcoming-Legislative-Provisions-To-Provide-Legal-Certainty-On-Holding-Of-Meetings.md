@@ -1,7 +1,7 @@
 ---
 title: 'Covid-19 Relief Measures - Upcoming Legislative Provisions To Provide Legal Certainty On Holding Of Meetings'
 date: 2020-03-31T00:00:00.000Z
-permalink: /news/press-releases/Covid-19-Relief-Measures-Upcoming-Legislative-Provisions-To-Provide-Legal-Certainty-On-Holding-Of-Meetings
+permalink: /news/press-releases/covid-19-relief-measures-upcoming-legislative-provisions-to-provide-legal-certainty-on-holding-of-meetings/
 
 ---
 

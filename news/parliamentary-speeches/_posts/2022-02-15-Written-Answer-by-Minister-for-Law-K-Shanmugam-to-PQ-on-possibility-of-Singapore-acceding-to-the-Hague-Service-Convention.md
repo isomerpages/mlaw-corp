@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on the Possibility of Singapore Acceding to the Hague Service Convention
 date: 2022-02-15
-permalink: /news/parliamentary-speeches/2022-02-15-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-possibility-of-Singapore-acceding-to-the-Hague-Service-Convention
+permalink: /news/parliamentary-speeches/2022-02-15-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-possibility-of-singapore-acceding-to-the-hague-service-convention/
 ---
 
 15 February 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

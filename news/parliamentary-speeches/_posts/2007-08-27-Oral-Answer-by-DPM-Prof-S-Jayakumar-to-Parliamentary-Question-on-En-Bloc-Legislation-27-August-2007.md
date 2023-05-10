@@ -1,7 +1,7 @@
 ---
 title: 'Oral Answer by DPM Prof S Jayakumar to Parliamentary Question on En Bloc Legislation, 27 August 2007'
 date: 2007-08-27T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-dpm-prof-s-jayakumar-to-parliamentary-question-on-en-bloc-legislation-27-august-2007
+permalink: /news/parliamentary-speeches/oral-answer-by-dpm-prof-s-jayakumar-to-parliamentary-question-on-en-bloc-legislation-27-august-2007/
 
 ---
 

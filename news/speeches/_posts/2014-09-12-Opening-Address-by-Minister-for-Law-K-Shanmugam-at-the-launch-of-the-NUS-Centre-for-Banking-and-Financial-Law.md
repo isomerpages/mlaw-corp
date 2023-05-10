@@ -1,6 +1,6 @@
 ---
 title: 'Opening Address by Minister for Law, K Shanmugam, at the launch of the NUS Centre for Banking and Financial Law'
-permalink: /news/speeches/opening-add-nus-centre-banking-and-financial-law
+permalink: /news/speeches/opening-add-nus-centre-banking-and-financial-law/
 breadcrumb: Speeches
 
 ---

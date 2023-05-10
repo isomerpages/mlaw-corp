@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by Second Minister for Law, Mr Edwin Tong, to Parliamentary Question on Claims against Second-hand Smoke under the Community Disputes Resolution Act
 date: 2022-02-18
-permalink: /news/parliamentary-speeches/2022-02-18-Oral-Answer-by-2M-Edwin-Tong-to-PQ-on-claims-against-second-hand-smoke-under-the-Community-Disputes-Resolution-Act
+permalink: /news/parliamentary-speeches/2022-02-18-oral-answer-by-2m-edwin-tong-to-pq-on-claims-against-second-hand-smoke-under-the-community-disputes-resolution-act/
 
 ---
  

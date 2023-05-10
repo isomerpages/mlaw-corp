@@ -1,6 +1,6 @@
 ---
 title: 'Statement by Ministry of Law on Essex Court Chambers Duxton (Singapore Group Practice)'
-permalink: /news/press-releases/statement-minlaw-essex-court-chambers-duxton-singapore-group-practice
+permalink: /news/press-releases/statement-minlaw-essex-court-chambers-duxton-singapore-group-practice/
 breadcrumb: 'Press Releases'
 
 ---

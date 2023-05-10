@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Number of Expedited Orders, Personal Protection Orders and Domestic Orders Obtained since Circuit Breaker
 date: 2021-01-05
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Number-of-Expedited-Orders-Personal-Protection-Orders-and-Domestic-Orders-Obtained-since-Circuit-Breaker
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-number-of-expedited-orders-personal-protection-orders-and-domestic-orders-obtained-since-circuit-breaker/
 ---
 
 05 Jan 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

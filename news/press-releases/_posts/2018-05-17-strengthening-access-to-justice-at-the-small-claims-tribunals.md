@@ -1,6 +1,6 @@
 ---
 title: 'Strengthening Access to Justice at the Small Claims Tribunals'
-permalink: /news/press-releases/strengthening-access-justice-small-claims-tribunal
+permalink: /news/press-releases/strengthening-access-justice-small-claims-tribunal/
 breadcrumb: 'Press Releases'
 
 ---

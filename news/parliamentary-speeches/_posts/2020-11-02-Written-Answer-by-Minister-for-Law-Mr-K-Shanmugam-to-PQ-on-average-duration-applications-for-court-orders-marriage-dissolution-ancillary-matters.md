@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Average Duration Taken for Dissolution of Marriage & Ancillary Matters Stage & Applications Made for Court Orders for Enforcement for Maintenance, Custody & Settlement
 date: 2020-11-02
-permalink: /news/parliamentary-speeches/Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-average-duration-and-applications-for-court-orders-marriage-dissolution-ancillary-matters
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-average-duration-and-applications-for-court-orders-marriage-dissolution-ancillary-matters/
 
 ---
 

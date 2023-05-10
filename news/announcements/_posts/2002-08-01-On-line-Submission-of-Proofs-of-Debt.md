@@ -1,7 +1,7 @@
 ---
 title: 'On-line Submission of Proofs of Debt'
 date: 2002-08-01T00:00:00.000Z
-permalink: /news/announcements/on-line-submission-of-proofs-of-debt
+permalink: /news/announcements/on-line-submission-of-proofs-of-debt/
 
 ---
 

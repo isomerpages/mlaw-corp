@@ -1,6 +1,6 @@
 ---
 title: 'Second Reading Speech by Senior Minister of State for Law, Mr Edwin Tong, on the Intellectual Property (Border Enforcement) Bill'
-permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-ip-border-enforcement-bill
+permalink: /news/parliamentary-speeches/second-reading-speech-sms-edwin-tong-ip-border-enforcement-bill/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

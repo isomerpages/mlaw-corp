@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech by Minister for Law, K Shanmugam, on the Judges'' Remuneration (Amendment) Bill'
 date: 2014-11-04T00:00:00.000Z
-permalink: /news/parliamentary-speeches/2R-speech-Min-JRAB-2014
+permalink: /news/parliamentary-speeches/2r-speech-min-jrab-2014/
 
 ---
 

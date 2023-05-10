@@ -1,7 +1,7 @@
 ---
 title: 'Keynote Address By Mr Ng How Yue, Permanent Secretary, Ministry Of Law for 2019 Singapore Summit On Commercial Dispute Resolution In China By Beijing International Arbitration Center (BIAC)'
 date: 2019-10-15T00:00:00.000Z
-permalink: /news/speeches/keynote-address-by-ps-ng-how-yue-2019-Singapore-Summit-on-CDR-China-by-BIAC
+permalink: /news/speeches/keynote-address-by-ps-ng-how-yue-2019-singapore-summit-on-cdr-china-by-biac/
 
 ---
 

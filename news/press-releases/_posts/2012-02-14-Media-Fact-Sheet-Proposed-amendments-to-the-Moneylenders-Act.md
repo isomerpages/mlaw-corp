@@ -1,6 +1,6 @@
 ---
 title: 'Media Fact Sheet - Proposed amendments to the Moneylenders Act'
-permalink: /news/press-releases/media-fact-sheet-proposed-amendments-to-the-moneylenders-act
+permalink: /news/press-releases/media-fact-sheet-proposed-amendments-to-the-moneylenders-act/
 breadcrumb: 'Press Releases'
 
 ---

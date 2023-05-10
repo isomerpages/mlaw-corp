@@ -1,7 +1,7 @@
 ---
 title: 'Written Answer by Minister for Law, K Shanmugam, to Parliamentary Question on Singapore Statutes Online'
 date: 2013-11-12T00:00:00.000Z
-permalink: /news/parliamentary-speeches/written-answer-statutes
+permalink: /news/parliamentary-speeches/written-answer-statutes/
 
 ---
 

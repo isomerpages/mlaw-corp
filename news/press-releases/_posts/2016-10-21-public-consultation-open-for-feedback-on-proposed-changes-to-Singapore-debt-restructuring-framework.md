@@ -1,6 +1,6 @@
 ---
 title: 'Public Consultation Open for Feedback on Proposed Changes to Singapore’s Debt Restructuring Framework'
-permalink: /news/press-releases/public-consultation-open-for-feedback-on-proposed-changes-to-sin
+permalink: /news/press-releases/public-consultation-open-for-feedback-on-proposed-changes-to-sin/
 breadcrumb: 'Press Releases'
 
 ---

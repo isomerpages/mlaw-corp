@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, at PAVE’s Dating Violence Awareness Week Event at *SCAPE'
-permalink: /news/speeches/speech-by-minister-for-law-kshanmugam-pave-dating-violence-awareness-week
+permalink: /news/speeches/speech-by-minister-for-law-kshanmugam-pave-dating-violence-awareness-week/
 breadcrumb: Speeches
 
 ---

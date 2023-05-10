@@ -1,7 +1,7 @@
 ---
 title: 'Enhancing the Regime for the Enforcement of Foreign Judgments through the Reciprocal Enforcement of Foreign Judgments (Amendment) Bill and the Reciprocal Enforcement of Commonwealth Judgments (Repeal) Bill'
 date: 2019-08-05T00:00:00.000Z
-permalink: /news/press-releases/Enhancing-the-Regime
+permalink: /news/press-releases/enhancing-the-regime/
 
 ---
 

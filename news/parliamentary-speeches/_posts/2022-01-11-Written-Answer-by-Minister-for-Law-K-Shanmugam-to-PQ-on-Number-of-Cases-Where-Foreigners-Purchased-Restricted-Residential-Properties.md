@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Number of Cases Where Foreigners Purchased Restricted Residential Properties Through Singaporeans
 date: 2022-01-11
-permalink: /news/parliamentary-speeches/2022-01-11-Written-Answer-by-Minister-for-Law-K-Shanmugam-to-PQ-on-Number-of-Cases-Where-Foreigners-Purchased-Restricted-Residential-Properties
+permalink: /news/parliamentary-speeches/2022-01-11-written-answer-by-minister-for-law-k-shanmugam-to-pq-on-number-of-cases-where-foreigners-purchased-restricted-residential-properties/
 ---
 
 11 January 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

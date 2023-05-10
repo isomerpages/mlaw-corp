@@ -1,7 +1,7 @@
 ---
 title: 'First Reading of Criminal Procedure Code(Amendment) Bill'
 date: 2019-02-11T00:00:00.000Z
-permalink: /news/press-releases/First-Reading-of-Criminal-Procedure-Code-Amendment-Bill
+permalink: /news/press-releases/first-reading-of-criminal-procedure-code-amendment-bill/
 breadcrumb: 'Press Releases'
 
 ---

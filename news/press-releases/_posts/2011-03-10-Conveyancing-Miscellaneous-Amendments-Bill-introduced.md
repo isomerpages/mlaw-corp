@@ -1,6 +1,6 @@
 ---
 title: 'Conveyancing (Miscellaneous Amendments) Bill introduced'
-permalink: /news/press-releases/conveyancing-miscellaneous-amendments-bill-introduced
+permalink: /news/press-releases/conveyancing-miscellaneous-amendments-bill-introduced/
 breadcrumb: 'Press Releases'
 
 ---

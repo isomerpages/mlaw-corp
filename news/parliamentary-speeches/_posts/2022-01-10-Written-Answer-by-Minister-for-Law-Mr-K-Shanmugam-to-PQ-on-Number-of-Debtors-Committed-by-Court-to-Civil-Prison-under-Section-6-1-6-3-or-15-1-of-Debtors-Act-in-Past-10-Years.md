@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Number of Debtors Committed by Court to Civil Prison under Section 6(1), 6(3) or 15(1) of Debtors Act in Past 10 Years
 date: 2022-01-10
-permalink: /news/parliamentary-speeches/2022-01-10-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-on-Number-of-Debtors-Committed-by-Court-to-Civil-Prison-under-Section-6-1-6-3-or-15-1-of-Debtors-Act-in-Past-10-Years
+permalink: /news/parliamentary-speeches/2022-01-10-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-on-number-of-debtors-committed-by-court-to-civil-prison-under-section-6-1-6-3-or-15-1-of-debtors-act-in-past-10-years/
 ---
 
 10 January 2022 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

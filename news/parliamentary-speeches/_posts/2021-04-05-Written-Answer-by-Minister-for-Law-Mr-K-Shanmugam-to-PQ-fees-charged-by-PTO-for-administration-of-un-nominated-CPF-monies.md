@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Factors to Determine Fees Charged for Administration of Un-nominated CPF Monies by Public Trustee
 date: 2021-04-05
-permalink: /news/parliamentary-speeches/2021-04-05-Written-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-PQ-fees-charged-by-PTO-for-administration-of-un-nominated-CPF-monies
+permalink: /news/parliamentary-speeches/2021-04-05-written-answer-by-minister-for-law-mr-k-shanmugam-to-pq-fees-charged-by-pto-for-administration-of-un-nominated-cpf-monies/
 ---
 
 05 Apr 2021 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)

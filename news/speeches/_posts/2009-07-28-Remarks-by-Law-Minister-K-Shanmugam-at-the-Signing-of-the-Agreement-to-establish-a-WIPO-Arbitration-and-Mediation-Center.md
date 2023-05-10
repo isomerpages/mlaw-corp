@@ -1,6 +1,6 @@
 ---
 title: 'Remarks by Law Minister K Shanmugam at the Signing of the Agreement to establish a WIPO Arbitration and Mediation Center'
-permalink: /news/speeches/remarks-by-law-minister-k-shanmugam-at-the-signing-of-the-agreement-to-establish-a-wipo-arbitration
+permalink: /news/speeches/remarks-by-law-minister-k-shanmugam-at-the-signing-of-the-agreement-to-establish-a-wipo-arbitration/
 breadcrumb: Speeches
 
 ---

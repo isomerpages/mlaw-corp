@@ -1,7 +1,7 @@
 ---
 title: 'Second Reading Speech on Civil Law (Amendment) Bill by Senior Minister of State Assoc Prof Ho Peng Kee'
 date: 2009-01-19T00:00:00.000Z
-permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amendment-bill-by-senior-minister-of-state-assoc-prof-ho-peng
+permalink: /news/parliamentary-speeches/second-reading-speech-on-civil-law-amendment-bill-by-senior-minister-of-state-assoc-prof-ho-peng/
 
 ---
 

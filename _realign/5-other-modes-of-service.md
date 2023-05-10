@@ -1,6 +1,6 @@
 ---
 title: 5. Other Modes of Service
-permalink: /realign/other-modes-service
+permalink: /realign/other-modes-service/
 breadcrumb: 5. Other Modes of Service
 ---
 

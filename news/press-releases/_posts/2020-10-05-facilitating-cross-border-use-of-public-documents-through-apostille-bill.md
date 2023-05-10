@@ -2,7 +2,7 @@
 layout: post
 title: Facilitating Cross-Border Use of Public Documents through the Apostille Bill 
 date: 2020-10-05
-permalink: /news/press-releases/2020-10-05-facilitating-cross-border-use-of-public-documents-through-apostille-bill
+permalink: /news/press-releases/2020-10-05-facilitating-cross-border-use-of-public-documents-through-apostille-bill/
 ---
 
 5 Oct 2020 Posted in [Press releases](/news/press-releases)

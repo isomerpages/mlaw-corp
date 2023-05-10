@@ -1,6 +1,6 @@
 ---
 title: 'Conference Overview'
-permalink: /events/event_2/conference-overview
+permalink: /events/event_2/conference-overview/
 breadcrumb: 'Conference Overview'
 
 ---

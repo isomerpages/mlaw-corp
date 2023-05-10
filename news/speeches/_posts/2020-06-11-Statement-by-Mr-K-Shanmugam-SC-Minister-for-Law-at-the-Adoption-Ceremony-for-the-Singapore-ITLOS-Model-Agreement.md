@@ -1,7 +1,7 @@
 ---
 title: 'Statement by Mr K Shanmugam SC, Minister for Law, at the Adoption Ceremony for the Singapore-ITLOS Model Agreement'
 date: 2020-06-11T00:00:00.000Z
-permalink: /news/speeches/Statement-by-Mr-K-Shanmugam-SC-Minister-for-Law-at-the-Adoption-Ceremony-for-the-Singapore-ITLOS-Model-Agreement
+permalink: /news/speeches/statement-by-mr-k-shanmugam-sc-minister-for-law-at-the-adoption-ceremony-for-the-singapore-itlos-model-agreement/
 
 ---
 

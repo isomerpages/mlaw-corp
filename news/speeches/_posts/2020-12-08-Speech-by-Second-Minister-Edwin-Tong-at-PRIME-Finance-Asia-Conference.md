@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Edwin Tong, Minister for Community, Culture and Youth and Second Minister for Law at the PRIME Finance Asia Conference'
 date: 2020-12-08
-permalink: /news/speeches/2020-12-08-Speech-by-Second-Minister-Edwin-Tong-at-PRIME-Finance-Asia-Conference
+permalink: /news/speeches/2020-12-08-speech-by-second-minister-edwin-tong-at-prime-finance-asia-conference/
 
 ---
 

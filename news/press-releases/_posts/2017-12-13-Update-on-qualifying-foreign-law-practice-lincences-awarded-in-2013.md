@@ -1,6 +1,6 @@
 ---
 title: 'Update on Qualifying Foreign Law Practice Licences Awarded in 2013'
-permalink: /news/press-releases/update-on-qualifying-foreign-law-practice-licences-awarded-in-20
+permalink: /news/press-releases/update-on-qualifying-foreign-law-practice-licences-awarded-in-20/
 breadcrumb: 'Press Releases'
 
 ---

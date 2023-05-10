@@ -1,7 +1,7 @@
 ---
 title: 'SPEECH BY MINISTER FOR CULTURE, COMMUNITY & YOUTH, AND SECOND MINISTER FOR LAW EDWIN TONG SC AT SINGAPORE UNIVERSITY OF SOCIAL SCIENCES (SUSS) CONVOCATION CLASS OF 2021 (SESSION 1)'
 date: 2021-10-05
-permalink: /news/speeches/2021-10-05-Speech-by-Edwin-Tong-SUSS-Convocation-Session1-2021
+permalink: /news/speeches/2021-10-05-speech-by-edwin-tong-suss-convocation-session1-2021/
 ---
 
 05 Oct 2021 Posted in [[Speeches](/news/speeches)]

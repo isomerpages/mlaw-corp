@@ -1,7 +1,7 @@
 ---
 title: 'Singaporean Daren Tang Officially Appointed as the next WIPO Director General'
 date: 2020-05-08T00:00:00.000Z
-permalink: /news/press-releases/Singaporean-Daren-Tang-Officially-Appointed-as-the-next-WIPO-Director-General
+permalink: /news/press-releases/singaporean-daren-tang-officially-appointed-as-the-next-wipo-director-general/
 
 ---
 

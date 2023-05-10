@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Questions on Moneylending'
-permalink: /news/parliamentary-speeches/written-answer-by-senior-minister-of-state-edwin-tong-to-parliamentary-questions-on-moneylending
+permalink: /news/parliamentary-speeches/written-answer-by-senior-minister-of-state-edwin-tong-to-parliamentary-questions-on-moneylending/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

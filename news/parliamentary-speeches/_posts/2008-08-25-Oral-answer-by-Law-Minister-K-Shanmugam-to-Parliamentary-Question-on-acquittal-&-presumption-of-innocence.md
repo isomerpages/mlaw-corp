@@ -1,7 +1,7 @@
 ---
 title: 'Oral answer by Law Minister K Shanmugam to Parliamentary Question on acquittal & presumption of innocence'
 date: 2008-08-25T00:00:00.000Z
-permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-acquittal-presumption-of
+permalink: /news/parliamentary-speeches/oral-answer-by-law-minister-k-shanmugam-to-parliamentary-question-on-acquittal-presumption-of/
 
 ---
 

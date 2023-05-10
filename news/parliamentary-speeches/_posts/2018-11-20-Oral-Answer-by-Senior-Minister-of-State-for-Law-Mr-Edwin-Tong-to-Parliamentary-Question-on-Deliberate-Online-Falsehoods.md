@@ -1,6 +1,6 @@
 ---
 title: 'Oral Answer by Senior Minister of State for Law, Mr Edwin Tong to Parliamentary Question on Deliberate Online Falsehoods'
-permalink: /news/parliamentary-speeches/written-answer-by-senior-minister-of-state-edwin-tong-to-parliamentary-question-on-dof
+permalink: /news/parliamentary-speeches/written-answer-by-senior-minister-of-state-edwin-tong-to-parliamentary-question-on-dof/
 breadcrumb: 'Parliamentary Speeches'
 
 ---

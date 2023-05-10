@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Minister for Law, Mr K Shanmugam, at the Arbitration Dialogue'
-permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-arbitration-dialogue
+permalink: /news/speeches/speech-by-minister-for-law-mr-k-shanmugam-at-the-arbitration-dialogue/
 breadcrumb: Speeches
 
 ---

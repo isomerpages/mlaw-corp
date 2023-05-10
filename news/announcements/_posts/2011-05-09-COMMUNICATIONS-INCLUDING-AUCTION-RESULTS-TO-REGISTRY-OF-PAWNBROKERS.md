@@ -1,7 +1,7 @@
 ---
 title: 'COMMUNICATIONS (INCLUDING AUCTION RESULTS ) TO REGISTRY OF PAWNBROKERS'
 date: 2011-05-09T00:00:00.000Z
-permalink: /news/announcements/communications-including-auction-results-to-registry-of-pawnbrokers
+permalink: /news/announcements/communications-including-auction-results-to-registry-of-pawnbrokers/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by Minister for Law, Mr K Shanmugam, to Parliamentary Question on Publishing Names of Accused Persons
 date: 2021-05-10
-permalink: /news/parliamentary-speeches/2021-05-10-Oral-Answer-by-Minister-for-Law-Mr-K-Shanmugam-to-Publishing-Names-Of-Accused-Persons
+permalink: /news/parliamentary-speeches/2021-05-10-oral-answer-by-minister-for-law-mr-k-shanmugam-to-publishing-names-of-accused-persons/
 
 ---
  

@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Second Minister for Law, Finance & Education, Indranee Rajah, at the Workshop on Private Trustees in Bankruptcy'
-permalink: /news/speeches/speech-by-2M-indranee-rajah-workshop-on-private-trustees-in-bankruptcy
+permalink: /news/speeches/speech-by-2m-indranee-rajah-workshop-on-private-trustees-in-bankruptcy/
 breadcrumb: Speeches
 
 ---

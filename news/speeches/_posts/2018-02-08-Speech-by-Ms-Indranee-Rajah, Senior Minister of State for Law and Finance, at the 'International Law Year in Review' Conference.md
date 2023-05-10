@@ -1,6 +1,6 @@
 ---
 title: 'Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the ''International Law Year in Review'' Conference'
-permalink: /news/speeches/speech-by-sms-indranee-rajah-at-international-law-year-in-review
+permalink: /news/speeches/speech-by-sms-indranee-rajah-at-international-law-year-in-review/
 breadcrumb: Speeches
 
 ---

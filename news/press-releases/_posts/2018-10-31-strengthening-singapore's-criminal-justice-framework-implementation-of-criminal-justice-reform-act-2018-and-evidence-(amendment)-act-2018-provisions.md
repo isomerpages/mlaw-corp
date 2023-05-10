@@ -1,6 +1,6 @@
 ---
 title: 'Strengthening Singapore’s Criminal Justice Framework – Implementation of Criminal Justice Reform Act 2018 and Evidence (Amendment) Act 2018 Provisions'
-permalink: /news/press-releases/Strengthening-Singapore-Criminal-Justice-Framework-Implementation-of-Criminal-Justice-Reform-Act-2018-and-Evidence-Amendment-Act-2018-Provisions
+permalink: /news/press-releases/strengthening-singapore-criminal-justice-framework-implementation-of-criminal-justice-reform-act-2018-and-evidence-amendment-act-2018-provisions/
 breadcrumb: 'Press Releases'
 
 ---

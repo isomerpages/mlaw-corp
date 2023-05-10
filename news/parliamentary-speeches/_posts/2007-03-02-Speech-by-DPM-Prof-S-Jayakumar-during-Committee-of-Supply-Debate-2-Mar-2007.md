@@ -1,7 +1,7 @@
 ---
 title: 'Speech by DPM Prof S Jayakumar during Committee of Supply Debate, 2 Mar 2007'
 date: 2007-03-02T00:00:00.000Z
-permalink: /news/parliamentary-speeches/speech-by-dpm-prof-s-jayakumar-during-committee-of-supply-debate-2-mar-2007
+permalink: /news/parliamentary-speeches/speech-by-dpm-prof-s-jayakumar-during-committee-of-supply-debate-2-mar-2007/
 
 ---
 
