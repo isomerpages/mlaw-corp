@@ -168,6 +168,45 @@ Ladies and Gentlemen
 {:start="26"}
 26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that Singapore is a common law jurisdiction; while many of our neighbours including China and Indonesia are civil law jurisdictions – give us even more opportunities to work together. 
 
+{:start="27"}
+27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example:
+
+* our lawyers can package clients’ needs across jurisdictions, and start by understanding each other’s legal system through courses, study visits, and attachments, to build stronger networks.
+
+* academics and practitioners can study the commonalities and differences including the respective strengths between the common law and civil law systems, and identify ways to overcome challenges, such as ensuring enforceability across borders.
+
+* Perhaps, our experts could explore a joint dispute resolution mechanism that brings together the strengths of both systems, and propose rules and processes which are efficient and cost-effective, in supporting the region’s dispute resolution needs.
+
+{:start="28"}
+28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More broadly, we can expect demand for legal solutions to increase even further, as promising new growth areas develop. The trends and drivers are not new to us but are continuing to power on - in the digital economy, sustainability and the green economy, renewable energy, and so on.   I hope the Conference allows us to explore these and other collaboration topics. 
 
 
-<p class="right-side-updated">Last updated on 13 Apr 2023</p>
+**Conclusion**
+{:start="29"}
+29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please allow me to conclude with some remarks in Mandarin.
+
+{:start="30"}
+30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 新加坡与中国享有持久友好的关系。我们两国的高层互访频密，合作领域也不断拓展。这些年来，新中合作不断与时俱进，发挥互补优势，相互借鉴，相互支持共同发展。
+
+{:start="31"}
+31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017年，法律与司法合作被列为新中合作的新发展 领域，为两国在这方面的更紧密合作铺路。
+
+{:start="32"}
+32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上个月，新加坡总理李显龙对中国进行正式访问，两国借此机会发表 联合声明，将双边合作关系提升至“全方位高质量的前瞻性伙伴关系”。
+这体现了两国对于继续扩展各方面的合作以及在新进领域如绿色和数字经济进行高质量合作的意愿。
+
+{:start="33"}
+33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在联合声明中，双方也回顾了两国在“一带一路”倡议方面的合作成果。
+
+{:start="34"}
+34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 今年是“一带一路”10周年。期待我们两国能够持续扩大和深化高质量合作，维护开放、包容 的 世界经济，确保全球供应链的稳定畅通，推动互利互惠的合作。
+
+{:start="35"}
+35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我希望我今天的演讲能达到 “抛砖引玉”的作用，促进新中两国的合作。
+谢谢。 
+
+{:start="36"}
+36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wish everyone a fruitful conference.
+
+
+<p class="right-side-updated">Last updated on 10 May 2023</p>
