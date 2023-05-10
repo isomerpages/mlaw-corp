@@ -126,11 +126,47 @@ Ladies and Gentlemen
 {:start="18"}
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The improvements are consistent with the latest International Arbitration Survey by the Queen Mary University of London and White &amp; Case: SIAC is the most preferred arbitral institution in the Asia-Pacific and second globally.
 
-
-**IV.&nbsp; &nbsp;&nbsp;&nbsp; CONCLUSION**
-
 {:start="19"}
-19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wish all of you an enjoyable and productive meeting, and we look forward to seeing the fruits of these discussions within the industry and beyond.
+19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As our international business environment undergoes changes and shifts, with pressures on supply chain amongst other challenges, we can expect arbitration needs to rise; and consequently, the need for sound, trusted and efficient arbitration platforms like SIAC.
+
+**Singapore-China Bilateral and Legal Relations**
+
+{:start="20"}
+20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In today’s interconnected markets and global networks, it is no longer sufficient or effective for individual institutions to strive for success on our own. Transactions and businesses have become larger and more cross-border, often with high specialised needs. This makes collaboration with partners from other jurisdictions even more important, to form networks and help one another succeed.
+
+{:start="21"}
+21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is true too at the national level, in our bilateral relations between Singapore and China, at the government-to-government level, business-to-business level, and people-to-people level.
+
+{:start="22"}
+22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And our bilateral relationship at these multiple levels has indeed become stronger and deeper over the years. 
+
+{:start="23"}
+23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore and China have progressed from working to help each other’s development, to working jointly with others.
+
+{:start="24"}
+24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have progressed from collaboration in economic development, to sharing experiences in governance and social development. Our collaboration also includes legal and judicial cooperation. 
+
+{:start="25"}
+25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We now have:
+
+* a sub-pillar on legal and judicial cooperation at the Joint Council for Bilateral Cooperation (JCBC);
+
+* the Legal and Judicial Roundtable between Singapore’s Supreme Court and China’s Supreme People’s Court;
+
+* the Legal Cooperation Council between Singapore’s Ministry of Law and China’s Ministry of Justice;
+
+* an annual conference on international commercial dispute resolution co-organised by Ministry of Law and the CCPIT;  
+
+* a Joint Experts Team to explore the feasibility of developing a Joint Dispute Resolution Mechanism; and
+
+* many MOUs and partnerships that Singapore International Arbitration Centre, Singapore International Mediation Centre, Singapore International Commercial Court, Intellectual Property Office of Singapore and our Law Schools have embarked with their counterparts in China.
+
+* All these show the strength and closeness between us. 
+
+**Further Cooperation**
+
+{:start="26"}
+26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that Singapore is a common law jurisdiction; while many of our neighbours including China and Indonesia are civil law jurisdictions – give us even more opportunities to work together. 
 
 
 
