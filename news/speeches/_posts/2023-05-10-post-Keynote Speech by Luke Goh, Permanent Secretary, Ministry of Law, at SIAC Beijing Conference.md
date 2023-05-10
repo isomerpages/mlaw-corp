@@ -82,51 +82,50 @@ Ladies and Gentlemen
 {:start="11"}
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Conference is an excellent opportunity to network with counterparts, legal experts from both China and Singapore, and to explore the opportunities and challenges we all face. 
 
-&nbsp;**&nbsp; &nbsp;&nbsp;&nbsp; Acknowledgement of SIAC's achievements**
+**Acknowledgement of SIAC's achievements**
 
 {:start="12"}
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The most recent round of public consultations was just held in November 2022, and we will continue this work together with all stakeholders.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Once again, I thank SIAC for inviting me to this gathering.  It is significant for me in several ways. 
+
+* It is the first SIAC conference I am attending since joining Singapore’s Ministry of Law one month ago.
+
+* For some of us, it is also the first time that we are visiting China after Covid-19 travel restrictions were lifted. 
+
+* Today’s SIAC Beijing Conference is also the first in-person large conference that SIAC is organising in China, coming after the joint events that SIAC has previously co-organised with its partners in China.  
+
 
 {:start="13"}
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the past three decades, digital technologies have radically changed and are continuing to change how works are created, distributed, and used.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is an honour for me to meet and hear from top practitioners and international experts with us today, including renowned names: 
+
+* Ms Lucy Reed, President of SIAC Court, 
+
+* Mr Yu Jianlong, Vice President of CCPIT, 
+
+* Mr Chen Fuyong, Deputy Secretary-General of the Beijing Arbitration Centre and Beijing International Arbitration Centre, 
+
+* Ms Jessica Fei, Member of SIAC Court and International Partner at King &amp; Wood Mallesons, 
+
+* Mr Cao Lijun, Member of SIAC Court and Partner of Zhong Lun Law Firm,  
+
+* and many others.
+
 
 {:start="14"}
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These technologies have been immensely beneficial but have been confronted by copyright rules that never anticipated them.
-
-    (a) For instance, search tools such as Google Books have been immensely useful, but because they require the making of digital copies, they cannot legally exist without some sort of accommodation from rights-holders and from the copyright system. And it took a decade before the US courts eventually ruled that Google Books’ uses of copyrighted works were non-infringing fair uses.
-
-    (b) Other areas, such as digital lending, are still developing today, and the framework to licence and enable these uses is still being fought over abroad.
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two of the engagements that I attended in my first week in the Singapore Ministry of Law were also organised by the SIAC.  They were the Annual Appreciation Event and the SIAC Visitors Programme. These events left a very deep impression. 
 
 {:start="15"}
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As each new way of using copyright works emerges, it presents a challenge, but also an opportunity, for rights-holders and CMOs.
-
-    (a) Fair, practical, and reasonable licensing terms can accommodate and unlock the value of these new technologies and uses, while delivering revenue to rights-holders.
-
-    (b) Conversely, a failure to do so can lead to these new possibilities withering on the vine, to everyone’s detriment.
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was struck by the trust that many businesses and top legal practitioners place in the international commercial dispute resolution services in Singapore, and in our dispute resolution institutions.
 
 {:start="16"}
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It’s worth learning from the experience of the music industry, which faced its own challenges and opportunities with digital copies, piracy, and changing business models.
-
-    (a) In 1998, the Recording Industry Association of America sought to prevent the sale of one of the first commercially successful MP3 player devices, the Rio. The lawsuit did not succeed.
-
-    (b) At the time, global recorded music industry revenues stood at US$22.3bn, entirely due to the sale of physical copies. Since the industry relied entirely on and was built around the sale of physical copies, it was all too easy for the industry to see digital as an existential threat to its business.
-
-    (c) Compare this to 2022, when the recorded music industry reported global revenues of US$26.2bn.
-
-									i. US$17.6bn, or two-thirds of all revenue, comes from music streaming alone.
-                 ii. An additional US$2.5bn, or just under 10%, came from performance rights.
-
-                iii. Physical sales now only account for US$4.6bn, or under 20%.
-
-    (d) This transformation was not easy. It took years for the initial resistance to be overcome, for the industry to figure out new business models that worked, and for things to turn around and for revenues to grow again. But the industry is now benefiting from it, and even seeing double-digit gains as it capitalises on new markets and new licensing opportunities.
-
-    (e) And with today’s music streaming offers, the public now has access to a much wider range of music, on much better terms, than ever before. It’s quite possible that the world would have had none of this if the RIAA had succeeded in blocking the sale of the Rio and other hardware MP3 players back in 1998.
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIAC has a wealth of experience in managing many kinds of disputes from different jurisdictions. Its users came from more than 100 jurisdictions in the last 5 years. This speaks to the international recognition and draw of the SIAC. The cases are supported by a strong secretariat team who are qualified in more than 12 jurisdictions.
 
 {:start="17"}
-17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Change is often threatening and uncomfortable, but it brings new opportunities as well – opportunities to innovate, to do things better, and sometimes even to do something completely new.
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIAC also recently reported the achievement that since the start of the year, scrutiny of arbitral awards has been kept to less than 3 weeks. So, clients not only get a quality outcome, but also a fast award.
+
 
 {:start="18"}
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Print media is not recorded music, and the publishing sector faces its own unique challenges. But I hope that all stakeholders in the copyright ecosystem will be able to work together and capture these opportunities.
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The improvements are consistent with the latest International Arbitration Survey by the Queen Mary University of London and White &amp; Case: SIAC is the most preferred arbitral institution in the Asia-Pacific and second globally.
+
 
 **IV.&nbsp; &nbsp;&nbsp;&nbsp; CONCLUSION**
 
