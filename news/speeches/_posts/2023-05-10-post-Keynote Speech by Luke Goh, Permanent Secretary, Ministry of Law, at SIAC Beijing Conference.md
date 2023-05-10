@@ -51,7 +51,7 @@ Ladies and Gentlemen
 * The advancement in technology has added another level of complexity to dispute resolution. The opportunity that technology brings to improving processes and analysis, and also new ethical considerations that may emerge.
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent months, we have seen rapid developments in AI technology related to Large Language Models. ChatGPT is one such well-known model; China’s 通义千问is another. 
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent months, we have seen rapid developments in AI technology related to Large Language Models. ChatGPT is one such well-known model; China’s 通义千问 is another. 
 
 {:start="8"}
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, my colleague Angeline, who is also at the conference, put this question to ChatGPT: “Will AI replace lawyers, arbitrators, mediators and judges one day?” The answer: 
