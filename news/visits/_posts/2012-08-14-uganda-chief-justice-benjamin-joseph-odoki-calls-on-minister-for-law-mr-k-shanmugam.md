@@ -17,7 +17,7 @@ Uganda Chief Justice Benjamin Joseph Odoki calls on Minister for Law, Mr K Shanm
 14 Aug 2012 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/uganda-cj-cc-140812-amended.jpg/" alt="uc visit" title="uc visit">
+  <img src="/images/uganda-cj-cc-140812-amended.jpg" alt="uc visit" title="uc visit">
   <i>Chief Justice of Uganda, Mr. Benjamin J. Odoki, speaking to Minister for Law, Mr K Shanmugam</i>
 </div>
 

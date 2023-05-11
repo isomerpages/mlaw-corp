@@ -21,11 +21,11 @@ The Mutual Assistance in Criminal Matters Act (MACMA) was enacted 14 years ago a
 In the attached note below, Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the recent legislative amendments aimed at enhancing the mutual legal assistance and international cooperation framework between Singapore and foreign states in the fight against transnational crime.
 
 <div class="image">
-  <a href="/files/MACMA_2014_Newsletter.pdf/">
-    <img src="/images/1412049820721.jpg/" alt="article" title="article">
+  <a href="/files/MACMA_2014_Newsletter.pdf">
+    <img src="/images/1412049820721.jpg" alt="article" title="article">
   </a>
 </div>
 
-<a href="/files/MACMA_2014_Newsletter.pdf/">Note on Combating Transnational Crime</a>(1.5MB)
+<a href="/files/MACMA_2014_Newsletter.pdf">Note on Combating Transnational Crime</a>(1.5MB)
 
 <p class="right-side-updated">Last updated on 30 Sep 2014</p>

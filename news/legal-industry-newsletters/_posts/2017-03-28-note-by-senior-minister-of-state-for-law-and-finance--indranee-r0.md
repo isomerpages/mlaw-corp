@@ -21,9 +21,9 @@ On 28 February 2017, Parliament passed the Patents (Amendment) Bill. The Bill in
 This Note summarises the key amendments in the Patents (Amendment) Bill and its implications for practitioners.
 
 <div class="image">
-  <a href="/files/NoteonPatentsAmendmentBill.pdf/"><img src="/images/1530863920373.jpg/" alt="image of pdf: driving the future economy with innovation and ip"></a>
+  <a href="/files/NoteonPatentsAmendmentBill.pdf"><img src="/images/1530863920373.jpg" alt="image of pdf: driving the future economy with innovation and ip"></a>
 </div>
 
-<a href="/files/NoteonPatentsAmendmentBill.pdf/">Note on Patents (Amendment) Bill</a>(475KB)
+<a href="/files/NoteonPatentsAmendmentBill.pdf">Note on Patents (Amendment) Bill</a>(475KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>

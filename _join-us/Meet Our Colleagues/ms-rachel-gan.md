@@ -14,7 +14,7 @@ third_nav_title: 'Meet Our Colleagues'
 Having a heart for the needy
 ---
 
-<div class="image"><img src="/images/1458223822886.png/" title="Ms Rachel Gan" alt="Ms Rachel Gan"></div>
+<div class="image"><img src="/images/1458223822886.png" title="Ms Rachel Gan" alt="Ms Rachel Gan"></div>
 
 **AS** a legal officer, Ms Rachel Gan manages an average of 200 cases at any given time.
 

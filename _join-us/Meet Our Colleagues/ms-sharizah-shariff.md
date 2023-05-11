@@ -14,7 +14,7 @@ third_nav_title: 'Meet Our Colleagues'
 Helping People Start Anew
 ---
 
-<div class="image"><img src="/images/1456122154676.jpg/" title="Ms Sharizah Shariff" alt="Ms Sharizah Shariff"></div>
+<div class="image"><img src="/images/1456122154676.jpg" title="Ms Sharizah Shariff" alt="Ms Sharizah Shariff"></div>
 
 **AS** a Senior Corporate Insolvency Executive with the Ministry of Law’s (Min- Law) Corporate Insolvency Division (CID), Ms Sharizah Shariff, 37, has seen former millionaires break down in front of her.
 

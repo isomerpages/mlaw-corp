@@ -21,9 +21,9 @@ On 10 March 2017, Parliament passed the Trustees (Amendment) Bill. The Bill intr
 This Note summarises the key amendments in the Trustees (Amendment) Bill.
 
 <div class="image">
-  <a href="/files/NoteonTrusteesAmendmentBill.pdf/"><img src="/images/1530863993117.jpg/" alt="image of PDF: transparency in trust"></a>
+  <a href="/files/NoteonTrusteesAmendmentBill.pdf"><img src="/images/1530863993117.jpg" alt="image of PDF: transparency in trust"></a>
 </div>
 
-<a href="/files/NoteonTrusteesAmendmentBill.pdf/">Note on Trustees (Amendment) Bill</a>(557KB)
+<a href="/files/NoteonTrusteesAmendmentBill.pdf">Note on Trustees (Amendment) Bill</a>(557KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>

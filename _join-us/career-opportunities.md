@@ -15,7 +15,7 @@ Career Opportunities
 ---
 
 <div class="image">
-  <img src="/images/1435818880055.jpg/" title="Career Opportunities" alt="Career Opportunities">
+  <img src="/images/1435818880055.jpg" title="Career Opportunities" alt="Career Opportunities">
 </div>
 
 Be a witness to an inspiring work culture. Join us!

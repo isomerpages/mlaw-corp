@@ -21,9 +21,9 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on IP Week 2016
 Innovation and creativity are the engines of change. Companies that use innovation and intellectual property (IP) effectively will gain a strong competitive edge. In the attached note, Senior Minister of State for Law, Ms Indranee Rajah S.C. looks at how MinLaw and IPOS aim to help businesses by shaping and administering a robust IP regime, building a vibrant IP ecosystem and marketplace as well as growing Singapore’s pool of innovation and IP management expertise.  
 
 <div class="image">
-  <a href="/files/NoteonIPWeek.pdf/"><img src="/images/1530861299630.jpg/" alt="image of pdf: powering the innovation cycle through intellectual property"></a>
+  <a href="/files/NoteonIPWeek.pdf"><img src="/images/1530861299630.jpg" alt="image of pdf: powering the innovation cycle through intellectual property"></a>
 </div>
 
-<a href="/files/NoteonIPWeek.pdf/">Note on IP Week 2016</a>(672KB)
+<a href="/files/NoteonIPWeek.pdf">Note on IP Week 2016</a>(672KB)
 
 <p class="right-side-updated">Last updated on 06 Jul 2018</p>

@@ -14,7 +14,7 @@ Why Join MinLaw
 ---
 
 <div class="image">
-  <img src="/images/1399988832257.jpg/" title="Why Join MinLaw" alt="Why Join MinLaw">
+  <img src="/images/1399988832257.jpg" title="Why Join MinLaw" alt="Why Join MinLaw">
 </div>
 
 **Diverse opportunities for dynamic individuals**

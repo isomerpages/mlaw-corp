@@ -21,9 +21,9 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Designing the 
 The Ministry of Law and the Intellectual Property Office of Singapore will be reforming the Registered Designs regime and amending the Registered Designs Act (RDA). The proposed changes will support the growth of the design industry by making it easier for designers to protect their creative works, while allowing sufficient freedom for others to innovate and build on existing creations. In the attached note, Senior Minister of State for Law, Ms Indranee Rajah S.C., outlines the proposed amendments to the RDA which will present opportunities for IP lawyers.
 
 <div class="image">
-  <a href="/files/DesignsRegimeNewsletter.pdf/"><img src="/images/1530697269659.jpg/" alt="image of pdf: designing the future"></a>
+  <a href="/files/DesignsRegimeNewsletter.pdf"><img src="/images/1530697269659.jpg" alt="image of pdf: designing the future"></a>
 </div>
 
-<a href="/files/DesignsRegimeNewsletter.pdf/">Note on Designing the Future</a>(483KB)
+<a href="/files/DesignsRegimeNewsletter.pdf">Note on Designing the Future</a>(483KB)
 
 <p class="right-side-updated">Last updated on 4 Jul 2018</p>

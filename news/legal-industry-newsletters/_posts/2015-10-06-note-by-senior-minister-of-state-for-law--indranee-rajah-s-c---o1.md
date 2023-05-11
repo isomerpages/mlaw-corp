@@ -21,9 +21,9 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Riding The Win
 Senior Minister of State for Law, Ms Indranee Rajah S.C., shares the possibilities and opportunities that await the legal industry in the future, and how all stakeholders can prepare for this future to further Singapore’s position as a premier legal hub.
 
 <div class="image">
-  <a href="/files/NoteonLegalFutures.pdf/"><img src="/images/1444120239904.jpg/" alt="image of pdf: riding the winds of change: the future of singapore's lawyers and the law"></a>
+  <a href="/files/NoteonLegalFutures.pdf"><img src="/images/1444120239904.jpg" alt="image of pdf: riding the winds of change: the future of singapore's lawyers and the law"></a>
 </div>
 
-<a href="/files/NoteonLegalFutures.pdf/">Note on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law</a>(1.1MB)
+<a href="/files/NoteonLegalFutures.pdf">Note on Riding The Winds of Change: The Future of Singapore’s Lawyers and the Law</a>(1.1MB)
 
 <p class="right-side-updated">Last updated on 06 Oct 2015</p>

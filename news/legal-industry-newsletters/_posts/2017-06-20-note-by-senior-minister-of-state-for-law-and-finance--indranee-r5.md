@@ -20,10 +20,10 @@ From now until 2030, Asia is expected to require US$20 trillion of additional in
 
 Senior Minister of State for Law and Finance, Ms Indranee Rajah, outlines how Singapore is gearing up to be Asia’s Infrastructure Exchange.
 
-<a href="/files/NoteonDebtRestructuring.pdf/">Note on Debt Restructuring</a>(840KB)
+<a href="/files/NoteonDebtRestructuring.pdf">Note on Debt Restructuring</a>(840KB)
 
 <div class="image">
-  <a href="/files/NoteonDebtRestructuring.pdf/"><img src="/images/1507866827078.jpg/" alt="image of pdf: enhancing singapore as an international debt restructuring centre for asia and beyond"></a>
+  <a href="/files/NoteonDebtRestructuring.pdf"><img src="/images/1507866827078.jpg" alt="image of pdf: enhancing singapore as an international debt restructuring centre for asia and beyond"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 13 Oct 2017</p>

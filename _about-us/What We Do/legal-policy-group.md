@@ -13,7 +13,7 @@ Legal Policy Group
 ---
 
 <div class="image">
-  <img src="/images/1399988831399.jpg/" title="Legal Policy Group" alt="Legal Policy Group">
+  <img src="/images/1399988831399.jpg" title="Legal Policy Group" alt="Legal Policy Group">
 </div>
 
 MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.

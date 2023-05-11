@@ -17,7 +17,7 @@ Visit by delegation from Saudi Arabia
 5 Aug 2008 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/visit-by-delegation-from-saudi.jpg/" alt="SA visit" title="SA visit">
+  <img src="/images/visit-by-delegation-from-saudi.jpg" alt="SA visit" title="SA visit">
   <i>Minister Shanmugam receiving an official gift from Sheikh Saud Al Askar</i>
 </div>
 

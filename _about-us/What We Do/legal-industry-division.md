@@ -16,7 +16,7 @@ Legal Industry Division
 ---
 
 <div class="image">
-  <img src="/images/Maxwell-Chambers.jpg/" title="Legal Industry Division" alt="Legal Industry Division"></div>
+  <img src="/images/Maxwell-Chambers.jpg" title="Legal Industry Division" alt="Legal Industry Division"></div>
 
 MinLaw develops the legal services sector to meet local, regional and international demands.
 

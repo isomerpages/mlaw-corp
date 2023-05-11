@@ -15,7 +15,7 @@ third_nav_title: 'What We Do'
 Insolvency Office
 ---
 
-<div class="image"><img src="/images/1422440339540.jpg/" title="Insolvency Office" alt="Insolvency Office"></div>
+<div class="image"><img src="/images/1422440339540.jpg" title="Insolvency Office" alt="Insolvency Office"></div>
 
 The Official Assignee administers the affairs of bankrupts and the Official Receiver administers the affairs of wound-up companies. Both seek to recover assets from the insolvent to satisfy the debts owed to creditors while ensuring that the insolvent is treated fairly.
 

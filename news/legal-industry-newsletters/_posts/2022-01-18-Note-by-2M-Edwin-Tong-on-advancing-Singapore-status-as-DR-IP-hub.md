@@ -23,7 +23,7 @@ Click below to read a Note by Second Minister for Law Edwin Tong as he shares mo
 
 
 <div class="image">
-  <a href="/files/18Jan2022_Note_by_2M_Edwin_Tong.pdf"><img src="/images/Noteby2M.JPG/"></a>
+  <a href="/files/18Jan2022_Note_by_2M_Edwin_Tong.pdf"><img src="/images/Noteby2M.jpg"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 18 Jan 2022</p>

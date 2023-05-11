@@ -21,7 +21,7 @@ The Criminal Justice Reform and Evidence (Amendment) Bills were passed in Parlia
 This Note summarises the key amendments.
 
 <div class="image">
-  <a href="/files/NoteonCPC.pdf"><img src="/images/1523589963117.jpg/" alt="note on cpc"></a>
+  <a href="/files/NoteonCPC.pdf"><img src="/images/1523589963117.jpg" alt="note on cpc"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 13 Apr 2018</p>

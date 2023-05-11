@@ -17,7 +17,7 @@ Visit by Deputy Commissioner of the State Intellectual Property Office, Peopleâ€
 16 Sep 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/imgp0373-cropped-.jpg/" alt="dc visit" title="dc visit">
+  <img src="/images/imgp0373-cropped-.jpg" alt="dc visit" title="dc visit">
   <i>Deputy Commissioner of the State Intellectual Property Office, Peopleâ€™s Republic of China, Gan Shaoning exchanging gifts with Senior Minister of State for Law and Home Affairs Assoc Prof Ho Peng Kee</i>
 </div>
 

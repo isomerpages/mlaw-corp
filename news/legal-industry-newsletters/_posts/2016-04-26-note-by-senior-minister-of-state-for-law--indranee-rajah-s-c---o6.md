@@ -25,9 +25,9 @@ This is a significant step forward in extending the enforceability of Singapore 
 Attached is a Note by Senior Minister of State for Law, Ms Indranee Rajah S.C., on the CCAA and the Hague Convention which it implements.
 
 <div class="image">
-  <a href="/files/ChoiceofCourtAgreementsAct2016.pdf/"><img src="/images/1461649953656.jpg/" alt="image of pdf: enhancing the international enforceability of singapore judgements"></a>
+  <a href="/files/ChoiceofCourtAgreementsAct2016.pdf"><img src="/images/1461649953656.jpg" alt="image of pdf: enhancing the international enforceability of singapore judgements"></a>
 </div>
 
-<a href="/files/ChoiceofCourtAgreementsAct2016.pdf/">Note on the Choice of Court Agreements Act 2016</a>(573KB)
+<a href="/files/ChoiceofCourtAgreementsAct2016.pdf">Note on the Choice of Court Agreements Act 2016</a>(573KB)
 
 <p class="right-side-updated">Last updated on 26 Apr 2016</p>
