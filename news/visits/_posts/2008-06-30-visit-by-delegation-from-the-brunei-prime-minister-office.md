@@ -17,7 +17,7 @@ Visit by delegation from the Brunei Prime Minister Office
 30 Jun 2008 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/brunei-2.jpg/" alt="brunei visit" title="brunei visit">
+  <img src="/images/brunei-2.jpg" alt="brunei visit" title="brunei visit">
   <i>The Bruneian delegation, together with MinLaw Deputy Secretary BG(NS) Yap Ong Heng and General Manager (CMU) Ms Gloria Lim at the Community Mediation Centre.</i>
  </div>
 

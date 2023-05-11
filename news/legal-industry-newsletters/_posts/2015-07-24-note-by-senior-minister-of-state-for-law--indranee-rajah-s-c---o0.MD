@@ -19,9 +19,9 @@ Note by Senior Minister of State for Law, Indranee Rajah S.C., on Breaking New G
 The Singapore Police Force and the Central Narcotics Bureau intend to start a pilot of Video Recording of Interviews (VRI) during investigations, from 1Q’ 2016. Further information on the pilot can be found in the attached Note by Senior Minister of State for Law, Ms Indranee Rajah S.C..
 
 <div class="image">
-  <a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/"><img src="/images/1437730103972.jpg/" alt="image of PDF: breaking new ground in criminal investigations"></a>
+  <a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf"><img src="/images/1437730103972.jpg" alt="image of PDF: breaking new ground in criminal investigations"></a>
 </div>
 
-<a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf/">Note on Breaking New Ground in Criminal Investigations</a>(340KB)
+<a href="/files/NoteonBreakingNewGroundinCriminalInvestigations.pdf">Note on Breaking New Ground in Criminal Investigations</a>(340KB)
 
 <p class="right-side-updated">Last updated on 24 Jul 2015</p>

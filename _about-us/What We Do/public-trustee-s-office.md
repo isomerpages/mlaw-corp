@@ -15,7 +15,7 @@ third_nav_title: 'What We Do'
 Public Trustee's Office
 ---
 
-<div class="image"><img src="/images/1422440450128.jpg/" title="Public Trustee's Office" alt="Public Trustee's Office"></div>
+<div class="image"><img src="/images/1422440450128.jpg" title="Public Trustee's Office" alt="Public Trustee's Office"></div>
 
 The Public Trustee has discretion to administer the estates of deceased persons, where the value of the estate does not exceed $50,000, as well as compensation in motor accident cases. For more information on the Public Trustee's Office, please click [here](https://pto.mlaw.gov.sg/).
 

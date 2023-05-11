@@ -25,7 +25,7 @@ In addition to the safeguards already in place, sitting Judges of the Supreme Co
 Find out more in the Note by SMS Indranee on the Criminal Law (Temporary Provisions) (Amendment) Bill.
 
 <div class="image">
-  <a href="/files/NoteonCLPTA.pdf"><img src="/images/1523589992445.jpg/" title="Criminal Justice Reform and Evidence" alt="Criminal Justice Reform and Evidence"></a>
+  <a href="/files/NoteonCLPTA.pdf"><img src="/images/1523589992445.jpg" title="Criminal Justice Reform and Evidence" alt="Criminal Justice Reform and Evidence"></a>
 </div>
 
 <p class="right-side-updated">Last updated on 13 Apr 2018</p>

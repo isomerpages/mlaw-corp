@@ -43,7 +43,7 @@ table.highlight { background-color: #add8e6 ;font-size: 24px; }
 <a href="#faq" id="f1">FAQs</a>
 
 
-<img src="/files/ReAlign/realign_repayment.jpg/" title="Repayment" alt="Repayment">
+<img src="/files/ReAlign/realign_repayment.jpg" title="Repayment" alt="Repayment">
 
 #### <a name="step1">Step 1: Hirer/Renter serves Notice of Revision</a> <a href="#s1" title="Return to top">↩</a> ####
 The following [eligible parties](key-features) (“the Hirer/Renter”) who wish to take up a Statutory Repayment Scheme under Division 4 of Part 10 of the Act must serve a Notice of Revision.

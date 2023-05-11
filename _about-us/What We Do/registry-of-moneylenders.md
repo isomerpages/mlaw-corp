@@ -15,7 +15,7 @@ third_nav_title: 'What We Do'
 Registry of Moneylenders
 ---
 
-<div class="image"><img src="/images/1422440619653.jpg/" title="Registry of Moneylenders" alt="Registry of Moneylenders"></div>
+<div class="image"><img src="/images/1422440619653.jpg" title="Registry of Moneylenders" alt="Registry of Moneylenders"></div>
 
 The Registry of Moneylenders oversees the registration and regulation of moneylenders in Singapore. For more information on the Registry of Moneylenders, please click [here](https://rom.mlaw.gov.sg).
 

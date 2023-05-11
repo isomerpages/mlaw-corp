@@ -21,10 +21,10 @@ On 7 April 2017, the Committee on the Future Economy Working Group on Legal and 
 This Note summarises the key recommendations of the Working Group.
 
 <div class="image">
-  <a href="/files/NoteonCFELegalandAccountingServices.pdf"><img src="/images/1493714260603.jpg/" alt="image of pdf: raising the bar, accounting for the future."></a>
+  <a href="/files/NoteonCFELegalandAccountingServices.pdf"><img src="/images/1493714260603.jpg" alt="image of pdf: raising the bar, accounting for the future."></a>
 </div>
 
-<a href="/files/NoteonCFELegalandAccountingServices.pdf/">Note on CFE Legal and Accounting Services</a>(614KB)
+<a href="/files/NoteonCFELegalandAccountingServices.pdf">Note on CFE Legal and Accounting Services</a>(614KB)
 
 <p class="right-side-updated">Last updated on 02 May 2017</p>
 

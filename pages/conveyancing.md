@@ -20,11 +20,11 @@ In addition, we have incorporated feedback received during two pilot trials, inv
 
 **Important Update: Amendments to the Conveyancing Rules effective 25 November 2011**
 
-The Conveyancing and Law of Property (Conveyancing) Rules 2011 have been amended on 25 November 2011 [by the Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011](/files/linkclick2ffc.pdf/){:target="_blank"}.
+The Conveyancing and Law of Property (Conveyancing) Rules 2011 have been amended on 25 November 2011 [by the Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011](/files/linkclick2ffc.pdf){:target="_blank"}.
 
 These amendments are based on further feedback and suggestions received from the conveyancing community. In particular, the new amendments also provide lawyers with the option to continue to hold any unclaimed conveyancing money in their clients account after the end of the transition period, i.e. from 1 January 2012 onwards.
 
-An overview of the amendments is outlined in the "[Brief Overview of the Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011](/files/linkclick9205.pdf/){:target="_blank"}". The [Legislative Guide](/files/linkclickfe3c.pdf/){:target="_blank"} has also been updated.
+An overview of the amendments is outlined in the "[Brief Overview of the Conveyancing and Law of Property (Conveyancing) (Amendment No. 2) Rules 2011](/files/linkclick9205.pdf){:target="_blank"}". The [Legislative Guide](/files/linkclickfe3c.pdf){:target="_blank"} has also been updated.
 
 **Related Links**
 

@@ -15,7 +15,7 @@ third_nav_title: 'What We Do'
 Registry of Pawnbrokers
 ---
 
-<div class="image"><img src="/images/1422440196035.jpg/" title="Registry of Pawnbrokers" alt="Registry of Pawnbrokers"></div>
+<div class="image"><img src="/images/1422440196035.jpg" title="Registry of Pawnbrokers" alt="Registry of Pawnbrokers"></div>
 
 The Registry of Pawnbrokers oversees the registration and regulation of pawnbrokers in Singapore. For more information on the Registry of Pawnbrokers, please click [here](https://rop.mlaw.gov.sg/).
 

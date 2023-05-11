@@ -17,7 +17,7 @@ People's Republic of China Ambassador to Singapore, H.E. Wei Wei calls on Home A
 24 Nov 2010 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/prc-amb-he-wei-wei-calls-on-minister.jpg/" alt="rpc visit" title="rpc visit">
+  <img src="/images/prc-amb-he-wei-wei-calls-on-minister.jpg" alt="rpc visit" title="rpc visit">
   <i>People's Republic of China Ambassador to Singapore, H.E. Wei Wei with Minister for Home Affairs and Minister for Law, K Shanmugam</i>
 </div>
 

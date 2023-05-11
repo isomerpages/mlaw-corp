@@ -17,7 +17,7 @@ Japanese Ambassador to Singapore, H.E. Yoichi Suzuki calls on Home Affairs and L
 25 Jan 2011 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/jap-amb-2.jpg/" alt="ja visit" title="ja visit">
+  <img src="/images/jap-amb-2.jpg" alt="ja visit" title="ja visit">
   <i>Japanese Ambassador to Singapore, H.E. Yoichi Suzuki, with Minister for Home Affairs and Minister for Law, K Shanmugam</i>
 </div>
 

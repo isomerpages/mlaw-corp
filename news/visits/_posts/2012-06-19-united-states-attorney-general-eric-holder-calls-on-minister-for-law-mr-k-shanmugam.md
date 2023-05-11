@@ -17,7 +17,7 @@ United States Attorney General Eric Holder calls on Minister for Law, Mr K Shanm
 19 Jul 2012 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/190712-us-ag-eric-holder-and-min.jpg/" alt="us visit" title="us visit">
+  <img src="/images/190712-us-ag-eric-holder-and-min.jpg" alt="us visit" title="us visit">
   <i>United States Attorney General, Eric Holder, shaking hands with Minister for Foreign Affairs and Law, Mr K Shanmugam (Photo: MFA Singapore)</i>
 </div>
 

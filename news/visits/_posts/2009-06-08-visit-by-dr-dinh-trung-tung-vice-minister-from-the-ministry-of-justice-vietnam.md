@@ -17,7 +17,7 @@ Visit by Dr Dinh Trung Tung, Vice Minister from the Ministry of Justice, Vietnam
 8 Jul 2009 Posted in [Visits](/news/visits/)
 
 <div class="image">
-  <img src="/images/visit-by-dr-dinh-trung-tung.jpg/" alt="dr visit" title="dr visit">
+  <img src="/images/visit-by-dr-dinh-trung-tung.jpg" alt="dr visit" title="dr visit">
   <i>Ms Chan exchanging gifts with Dr Dinh</i>
 </div>
 

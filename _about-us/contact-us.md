@@ -16,7 +16,7 @@ FAQ
 Have questions?
 
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
 </div><br>
 
 
@@ -46,7 +46,7 @@ If you are unable to get through to us via the live chat, please use our enquiry
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/enq.png/" title="Contact Us" alt="Contact Us"></a>
+   <img style="float:left; width: 40px;" src="/images/enq.png" title="Contact Us" alt="Contact Us"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
   </div>
@@ -68,7 +68,7 @@ You can send us your feedback and enquiries on the following issues:
 * Licensing &amp; Regulation of Insolvency Practitioners Division 
 
 <div class="image">
-  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
+  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
 </div><br>
 
 
@@ -76,7 +76,7 @@ You can send us your feedback and enquiries on the following issues:
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/loc.png/" title="Location" alt="Location"></a>
+   <img style="float:left; width: 40px;" src="/images/loc.png" title="Location" alt="Location"></a>
    <div class="content-heading">
    <h3>Location</h3>
   </div>
@@ -104,7 +104,7 @@ Click [here](/files/minlaw%20community%20touchpoints.pdf) for more information.
 
 <div class="paragraphs">
    <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/call.png/" title="Call Us" alt="Call Us"></a>
+   <img style="float:left; width: 40px;" src="/images/call.png" title="Call Us" alt="Call Us"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
   </div>
