@@ -1,6 +1,5 @@
 ---
-title: Speech by Senior Parliamentary Secretary, Ministry of Health and Ministry
-  of Law,
+title: Speech by Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Mdm Rahayu Mahzam, at the 3rd Annual France-Singapore Symposium on Law and Business
 permalink: /news/speeches/speech-by-sps-at-france-sg-symposium-2023/
 date: 2023-05-11
 layout: post
