@@ -1,5 +1,7 @@
 ---
-title: Speech by Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Mdm Rahayu Mahzam, at the 3rd Annual France-Singapore Symposium on Law and Business
+title: Speech by Senior Parliamentary Secretary, Ministry of Health and Ministry
+  of Law, Mdm Rahayu Mahzam, at the 3rd Annual France-Singapore Symposium on Law
+  and Business
 permalink: /news/speeches/speech-by-sps-at-france-sg-symposium-2023/
 date: 2023-05-11
 layout: post
@@ -72,9 +74,9 @@ Ladies and Gentlemen
 
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practices which were previously unthinkable in the past are now widely acceptable.
 
-	(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Virtual client meetings provide lawyers and clients with the ease of dialling in from their own homes or from anywhere in the world. &nbsp;
+	(i) Virtual client meetings provide lawyers and clients with the ease of dialling in from their own homes or from anywhere in the world. &nbsp;
 
-	(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judiciary implemented virtual hearings to ensure access to justice even at the height of the pandemic when safe-distancing restrictions were in place.
+	(ii) The judiciary implemented virtual hearings to ensure access to justice even at the height of the pandemic when safe-distancing restrictions were in place.
 
 {:start="11"}
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As we emerge from the pandemic, it is now up to us to not forget the strong moves towards digital transformation that were made during the pandemic and continue to take strides in embracing technology. &nbsp;
