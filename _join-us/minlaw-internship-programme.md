@@ -1,11 +1,8 @@
 ---
-title: 'Minlaw Internship Programme'
+title: Minlaw Internship Programme
 permalink: /join-us/minlaw-internship/
-breadcrumb: 'Minlaw Internship Programme'
-
+breadcrumb: Minlaw Internship Programme
 ---
-
-
 <style>
   .image {width: 400px;}
   .image img {max-width: 100%;}
@@ -28,7 +25,7 @@ The MinLaw Internship Programme (MLIP) enables students to better understand Min
 The key divisions at MinLaw are as follows:
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>
       Legal Group
     </th>
@@ -58,26 +55,32 @@ The key divisions at MinLaw are as follows:
     <td>Policy Advisory</td>
     <td>Intellectual Property Policy</td>
     <td>Insolvency Office</td>
-    <td>Finance & Office Admin</td>
+    <td>Finance &amp; Office Admin</td>
   </tr>
   <tr>
     <td>Special Projects</td>
     <td>Community Legal Services</td>
-    <td>Public Trustee’s Office</td>
+    <td>Public Defender’s Office</td>
     <td>Human Resource</td>
   </tr>
   <tr>
     <td rowspan="2"></td>
     <td>Professional Services Programme Office</td>
-    <td>Registry of Moneylenders & Pawnbrokers</td>
+    <td>Public Trustee’s Office</td>
     <td>Information Technology</td>
   </tr>
   <tr>
     <td></td>
-    <td>Legal Advisory & Prosecution</td>
+    <td>Registry of Moneylenders &amp; Pawnbrokers</td>
     <td></td>
   </tr>
-</table>
+		 <tr><td></td>
+    <td></td>
+    <td>Legal Advisory &amp; Prosecution</td>
+    <td></td>
+	 <td></td>
+    <td></td>
+</tr></tbody></table>
 
 **Requirements**
 
@@ -87,8 +90,8 @@ Successful candidates will be assigned to one of the preferred divisions and tak
 
 **Application**
 
-Please submit your application via the [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=ministry%20of%20law&job-mail-subscribe-privacy=agree){:target="_blank"} portal. Alternatively, you may write-in to <a href="mailto:recruitment@mlaw.gov.sg">Human Resource Department</a> along with a cover letter indicating your preferred division(s).
+Please submit your application via the [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&amp;search-keyword=&amp;brand=ministry%20of%20law&amp;job-mail-subscribe-privacy=agree){:target="_blank"} portal. Alternatively, you may write-in to <a href="mailto:recruitment@mlaw.gov.sg">Human Resource Department</a> along with a cover letter indicating your preferred division(s).
  
 Please [click here](/join-us/meet-our-interns/) to read more about what our interns have to say!
 
-<p class="right-side-updated">Last updated on 11 Aug 2017</p> 
+<p class="right-side-updated">Last updated on 11 Aug 2017</p>
