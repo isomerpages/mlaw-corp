@@ -8,7 +8,7 @@ Please be informed that a weekly maintenance downtime on our E-Services is sched
 
 | E-Services | Maintenance Schedules |
 | -------- | -------- |
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Thu, 1800 hrs to 2359 hrs     |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Fri, 1800 hrs to 2359 hrs     |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Public Defender's Office    | Fri, 1800 hrs to Sun, 2359 hrs     |
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
