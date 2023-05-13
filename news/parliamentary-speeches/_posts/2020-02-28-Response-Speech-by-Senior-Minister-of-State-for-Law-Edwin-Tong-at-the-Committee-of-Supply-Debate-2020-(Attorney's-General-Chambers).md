@@ -1,7 +1,7 @@
 ---
 title: 'Response Speech by Senior Minister of State for Law Edwin Tong at the Committee of Supply Debate 2020 (Attorney General''s Chambers)'
 date: 2020-02-28T00:00:00.000Z
-permalink: '/news/parliamentary-speeches/response-speech-by-senior-minister-of-state-for-law-edwin-tong-at-the-committee-of-supply-debate-2020-(attorney-general''s-chambers)'/
+permalink: /news/parliamentary-speeches/response-speech-by-senior-minister-of-state-for-law-edwin-tong-at-the-committee-of-supply-debate-2020-(attorney-general's-chambers)/
 
 ---
 
