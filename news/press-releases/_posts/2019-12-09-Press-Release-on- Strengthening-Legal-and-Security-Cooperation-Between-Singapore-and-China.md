@@ -1,7 +1,7 @@
 ---
 title: 'Press Release on Strengthening Legal and Security Cooperation Between Singapore and China'
 date: 2019-12-09T00:00:00.000Z
-permalink: '/news/press-releases/press-release-on- strengthening-legal-and-security-cooperation-between-singapore-and-china'/
+permalink: /news/press-releases/press-release-on-strengthening-legal-and-security-cooperation-between-singapore-and-china/
 
 ---
 

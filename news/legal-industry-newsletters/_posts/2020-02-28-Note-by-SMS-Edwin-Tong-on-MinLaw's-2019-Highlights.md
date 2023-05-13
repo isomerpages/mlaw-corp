@@ -1,6 +1,6 @@
 ---
 title: 'Note by SMS Edwin Tong on MinLaw''s 2019 Highlights'
-permalink: '/news/legal-industry-newsletter/note-by-sms-edwin-tong-on-minlaw''s-2019-highlights/'/
+permalink: /news/legal-industry-newsletter/note-by-sms-edwin-tong-on-minlaw's-2019-highlights/
 breadcrumb: 'Note by SMS Edwin Tong on MinLaw''s 2019 Highlights'
 
 ---
