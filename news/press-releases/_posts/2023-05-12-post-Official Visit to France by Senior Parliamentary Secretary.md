@@ -1,6 +1,6 @@
 ---
 title: Official Visit to France by Senior Parliamentary Secretary, Ministry Of Health and Ministry Of Law, Mdm Rahayu Mahzam
-permalink: /news/press-releases/sps-official-visit-france/
+permalink: /news/press-releases/2023-05-12-sps-official-visit-france/
 date: 2023-05-12
 layout: post
 description: ""
