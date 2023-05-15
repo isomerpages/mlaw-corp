@@ -43,6 +43,6 @@ colors:
     - title: media-color-five
       color: "#505050"
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
