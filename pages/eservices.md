@@ -4,11 +4,29 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 # E-Services
+   
+##### **New Insolvency E-Services (new!)**
+
+We will be launching our new **Corporate Insolvency E-Services** on **29 May 2023**.
+
+The new E-Services will have new features and members of the public will have access to guides to navigate the E-Services with ease. 
+
+The **Corporate Insolvency E-Services** will not be available from **24 May 2023 (Wednesday), 6.00 pm to 28 May 2023 (Sunday), 11.59 pm**.
+
+You need a valid Singpass or Corppass account to access the new E-Services. For foreigners, you are required to register for a Singpass.
+
+To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
+
+If you have saved any draft applications, you are required to complete and submit them before **24 May 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services.
+
+Stay tuned for our new E-Services on **29 May 2023**.
+<hr>
+
 Please be informed that a weekly maintenance downtime on our E-Services is scheduled as follows: 
 
 | E-Services | Maintenance Schedules |
 | -------- | -------- |
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Fri, 1800 hrs to 2359 hrs     |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Thu, 1800 hrs to 2359 hrs     |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Public Defender's Office    | Fri, 1800 hrs to Sun, 2359 hrs     |
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
