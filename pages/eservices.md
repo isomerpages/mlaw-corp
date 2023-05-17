@@ -3,8 +3,6 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-# E-Services
-   
 ##### **New Insolvency E-Services (new!)**
 
 We will be launching our new **Corporate Insolvency E-Services** on **29 May 2023**.
@@ -22,12 +20,19 @@ If you have saved any draft applications, you are required to complete and submi
 Stay tuned for our new E-Services on **29 May 2023**.
 <hr>
 
-Please be informed that a weekly maintenance downtime on our E-Services is scheduled as follows: 
+#### **Maintenance Notices**
+Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
 
-| E-Services | Maintenance Schedules |
+| E-Services | Maintenance Schedule |
 | -------- | -------- |
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Thu, 1800 hrs to 2359 hrs     |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Public Defender's Office    | Fri, 1800 hrs to Sun, 2359 hrs     |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Every Thu, 1800 hrs to 2359 hrs     |
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Public Defender's Office    | Every Fri, 1800 hrs to Sat, 1300 hrs     |
+| Insolvency Office - Individual Insolvency &amp; Debt Repayment Scheme, Public Trustee's Office, Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Sat, 20 May 2023, 0900 hrs to Sun, 21 May 2023, 2000 hrs     |
+| Insolvency Office, Public Trustee's Office | Wed, 24 May 2023, 1800 hrs to Thu, 25 May 2023, 0800 hrs|
+| Insolvency Office, Public Trustee's Office | Thu, 25 May 2023, 1800 hrs to Fri, 26 May 2023, 0800 hrs|
+| Insolvency Office, Public Trustee's Office | Fri, 26 May 2023, 1800 hrs to Mon, 28 May 2023, 0800 hrs|
+ 
+<br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)
