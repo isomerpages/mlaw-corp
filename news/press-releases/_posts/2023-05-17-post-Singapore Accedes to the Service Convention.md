@@ -8,7 +8,7 @@ image: ""
 ---
 17 May 2023 Posted in [Press releases](/news/press-releases)
 
-1.  Singapore on 16 May deposited its instrument of accession to the Hague Convention of 15 
+{:start="1"} 1. Singapore on 16 May deposited its instrument of accession to the Hague Convention of 15 
 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters (“**Service Convention**”), making us a Contracting Party to the Service Convention. The accession will facilitate and streamline the process for service of court and related documents in civil and commercial matters overseas. This provides greater legal certainty in cross-border litigation, which enhances business confidence, including for companies operating overseas, and reduces costs and delays for Singapore litigants.
 
 {:start="2"} 
