@@ -27,7 +27,9 @@ Please be informed that the following eServices will be scheduled for  maintenan
 | -------- | -------- |
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, Anti-Money Laundering / Countering The Financing Of Terrorism, MinLaw Online Enquiries     | Every Thu, 1800 hrs to 2359 hrs     |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Public Defender's Office    | Every Fri, 1800 hrs to Sat, 1300 hrs     |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Sat, 20 May 2023, 0900 hrs to Sun, 21 May 2023, 2000 hrs     |
+| Insolvency Office - Individual Insolvency &amp; Debt Repayment Scheme, Public Trustee's Office, Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Sat, 20 May 2023, 0900 hrs to Sun, 21 May 2023, 2000 hrs     |
+| Insolvency Office, Public Trustee's Office | Wed, 24 May 2023, 1800 hrs to Mon, 28 May 2023, 0900 hrs     |
+<br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)
