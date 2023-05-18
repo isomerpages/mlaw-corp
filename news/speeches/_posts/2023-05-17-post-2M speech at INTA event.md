@@ -48,9 +48,9 @@ Ladies and Gentlemen
 {:start="6"}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, I would like to speak on two areas:
 
-    (1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trademark developments globally, and also specifically, in Asia.
+    (1) Trademark developments globally, and also specifically, in Asia.
 
-    (2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And how Singapore is playing a part to support these developments.
+    (2) And how Singapore is playing a part to support these developments.
 
 **Trademark Developments Globally and in Asia**
 
@@ -63,11 +63,11 @@ Ladies and Gentlemen
 {:start="9"}
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is therefore not surprising that trademark filings follow trade consumption activities. “Everywhere you want to be”, you file a trademark to protect yourself, and you “just do it”, because:
 
-    (1)&nbsp; You want to sell your products and services in those markets.
+    (1) You want to sell your products and services in those markets.
 
-    (2)&nbsp; You want the right to able to use your mark uninhibited and protected.
+    (2) You want the right to able to use your mark uninhibited and protected.
 
-    (3)&nbsp; You want to guard against counterfeit and fraud, which will of course damage your reputation.
+    (3) You want to guard against counterfeit and fraud, which will of course damage your reputation.
 
 {:start="10"}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, as trade increases, particularly where we have a significant amount of cross border trade today, involving multinational companies in different jurisdictions, as our population grows, as income and purchasing power around the region and the world rise, as consumers become more discerning, trademark filings increase. “The ultimate driving machine” is the markets and the consumers.
@@ -75,11 +75,11 @@ Ladies and Gentlemen
 {:start="11"}
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You see this trend happen not just globally, but I think you see this trend happen specifically in Asia. Let me say a little bit about that.
 
-    (1)&nbsp; Globally, trademark filings grew for the 12th year running, with a whopping 18.1 million trademark classes filed in 2021, and that was in the middle of the COVID-19 pandemic.
+    (1) Globally, trademark filings grew for the 12th year running, with a whopping 18.1 million trademark classes filed in 2021, and that was in the middle of the COVID-19 pandemic.
 
-    (2)&nbsp; Offices located in Asia accounted for almost 70% of the trademark filing activity that year.
+    (2) Offices located in Asia accounted for almost 70% of the trademark filing activity that year.
 
-    (3)&nbsp; And if you bear in mind, that just about a decade ago&nbsp; in 2011, these same offices accounted for about 45% – not even half. That has grown, significantly, to 70%. That tells me that not only are trademark filings growing in Asia, but the rate of growth is tremendous.
+    (3) And if you bear in mind, that just about a decade ago&nbsp; in 2011, these same offices accounted for about 45% – not even half. That has grown, significantly, to 70%. That tells me that not only are trademark filings growing in Asia, but the rate of growth is tremendous.
 
 {:start="12"}
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I expect this trend to continue, in this part of the world. If you look at the other markers for example, foreign direct investments coming into this part of the world, has continued unabated despite COVID-19. In fact it has risen over the years. The head room for growth in both infrastructure projects and social development projects has been significant.
@@ -89,9 +89,9 @@ _Emerging areas – Metaverse and Non-fungible Tokens_
 {:start="13"}
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This also extends to trademarks related to the metaverse and non-fungible tokens (NFT), two very quickly emerging areas. Asia in particular, is emerging as a frontrunner.
 
-    (1)&nbsp; &nbsp;Earlier this year, the Nice Classification – the international classification system for trademark applications – was updated to address such new digital assets.
+    (1) Earlier this year, the Nice Classification – the international classification system for trademark applications – was updated to address such new digital assets.
 
-    (2)&nbsp; INTA has also published two white papers on “Trademarks in the Metaverse” and “Non-Fungible Tokens” in April 2023.
+    (2) INTA has also published two white papers on “Trademarks in the Metaverse” and “Non-Fungible Tokens” in April 2023.
 
 {:start="14"}
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think many of you out here, in the audience at this conference – being IP owners, practitioners, and advocates – would be very much aware of the value that trademarks, and IP in general, can bring to a firm. Indeed, when I say this, I am certainly preaching to the converted.
@@ -112,20 +112,20 @@ _Progress of the Singapore IP Strategy (SIPS)_
 {:start="18"}
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For that, we have the Singapore IP Strategy (SIPS), launched in 2021, with the aspiration to position Singapore as a global hub for IP and also intangible assets (IA).
 
-    (1)&nbsp; Whilst we may ourselves not be the key market for businesses, we can still support them in their IP and their IA aspirations in other countries, including by contributing to the establishment of common international standards. For example, the Singapore Treaty on the Law of Trademarks, which aims to harmonise the administrative trademark registration procedures.
+    (1) Whilst we may ourselves not be the key market for businesses, we can still support them in their IP and their IA aspirations in other countries, including by contributing to the establishment of common international standards. For example, the Singapore Treaty on the Law of Trademarks, which aims to harmonise the administrative trademark registration procedures.
 
-    (2)&nbsp; By developing a credible and trusted valuation standard, to support the raising of capital; providing the IP talent, the skillsets and the expertise to advise the firms on how to manage their IP; and also helping to resolve IP disputes, when they arise. We want to tell businesses that “you’re in good hands” if you come to Singapore.
+    (2) By developing a credible and trusted valuation standard, to support the raising of capital; providing the IP talent, the skillsets and the expertise to advise the firms on how to manage their IP; and also helping to resolve IP disputes, when they arise. We want to tell businesses that “you’re in good hands” if you come to Singapore.
 
 {:start="19"}
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To give you a few concrete examples of what we have done recently, or which we will be embarking on in our SIPS 2030 programme, let me share a few of these topline examples:
 
-    (1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, we will launch the Intangibles Disclosure Framework later this year. It is something we have been working at very closely, co-developed with the industry, and which will enable businesses to disclose their own IP and IA, in a consistent and comparable manner. We want people to be speaking the same language when they speak about disclosures of IA and IP, so that they can understand each other, and there can be a commonality of standards across the board. This in turn, will support them in monetising their IA and their IP.
+    (1) First, we will launch the Intangibles Disclosure Framework later this year. It is something we have been working at very closely, co-developed with the industry, and which will enable businesses to disclose their own IP and IA, in a consistent and comparable manner. We want people to be speaking the same language when they speak about disclosures of IA and IP, so that they can understand each other, and there can be a commonality of standards across the board. This in turn, will support them in monetising their IA and their IP.
 
-    (2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, the International Valuation Standards Council (IVSC) Asia Office and IPOS will launch a study on the importance of IA to the value of companies. The study looks to provide insights and actionable steps on how we can strengthen the valuation of IA. For example, it will look at how companies can monetise and extract value from IA, through a more consistent IA valuation practice, or guidance on valuing emerging types of IA.
+    (2) Second, the International Valuation Standards Council (IVSC) Asia Office and IPOS will launch a study on the importance of IA to the value of companies. The study looks to provide insights and actionable steps on how we can strengthen the valuation of IA. For example, it will look at how companies can monetise and extract value from IA, through a more consistent IA valuation practice, or guidance on valuing emerging types of IA.
 
-    (3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, IPOS and WIPO Singapore Office will be launching the ASEAN Mediation Programme. From time to time, disputes in IP will arise. The Programme aims to help parties in ASEAN to resolve their technology and IP disputes in a more cost-effective manner, through the use of WIPO mediation services in Singapore. Mediation is something which Singapore has been deeply advocating, because it is a dispute resolution mechanism that can truly offer win-win solutions, and help to preserve hard-fought, hard-earned and longstanding relationships, which have been painstakingly built over many years.
+    (3) Third, IPOS and WIPO Singapore Office will be launching the ASEAN Mediation Programme. From time to time, disputes in IP will arise. The Programme aims to help parties in ASEAN to resolve their technology and IP disputes in a more cost-effective manner, through the use of WIPO mediation services in Singapore. Mediation is something which Singapore has been deeply advocating, because it is a dispute resolution mechanism that can truly offer win-win solutions, and help to preserve hard-fought, hard-earned and longstanding relationships, which have been painstakingly built over many years.
 
-    (4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lastly, IPOS has collaborated with the WIPO Arbitration and Mediation Center, to put together a list of experts specialising in IP valuation. Parties can tap on these experts, to support the dispute resolution process, for example to act on the occasional case as expert witnesses.
+    (4) Lastly, IPOS has collaborated with the WIPO Arbitration and Mediation Center, to put together a list of experts specialising in IP valuation. Parties can tap on these experts, to support the dispute resolution process, for example to act on the occasional case as expert witnesses.
 
 {:start="20"}
 20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So you can see from these and other measures, Singapore is constantly trying to keep ahead, to evolve, to try and track what the industry needs, so that we can constantly look at improving the quality of our services. After all, we have not much to offer as a small country, limited hinterland, limited natural resources, but the value proposition we constantly tell ourselves that we must live up to, is how do we remain relevant, and how do we provide service, and be of value to others. So, you can feel assured when you use Singapore’s IP offerings. After all, as they say, “quality never goes out of style.”
@@ -141,25 +141,25 @@ _Progress of the Singapore IP Strategy (SIPS)_
 {:start="23"}
 23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So there you are:
 
-    (1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Gotta catch ‘em all!” – Pokemon.
+    (1) “Gotta catch ‘em all!” – Pokemon.
 
-    (2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Everywhere you want to be” – Visa.
+    (2) “Everywhere you want to be” – Visa.
 
-    (3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Just do it” – Nike.
+    (3) “Just do it” – Nike.
 
-    (4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “The ultimate driving machine” – BMW.
+    (4) “The ultimate driving machine” – BMW.
 
-    (5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Go further” – Ford.
+    (5) “Go further” – Ford.
 
-    (6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Think different” – Apple.
+    (6) “Think different” – Apple.
 
-    (7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Think big” – Imax.
+    (7) “Think big” – Imax.
 
-    (8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Impossible is nothing” – Adidas.
+    (8) “Impossible is nothing” – Adidas.
 
-    (9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “You’re in good hands” – Allstate Insurance Company.
+    (9) “You’re in good hands” – Allstate Insurance Company.
 
-    (10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Quality never goes out of style.” – Levi’s.
+    (10) “Quality never goes out of style.” – Levi’s.
 
 {:start="24"}
 24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So thank you very much, all of you, for humouring me, and for listening to my speech with these taglines. The real message that I want to give to all of you, is that we are so glad to be able to welcome all of you, guests from overseas, from different climates to Singapore. We have managed to turn down the temperature a little bit this week for you. We want to make you feel as welcome and as at home here as if you were at home. We want you to also be here, not just to listen to speeches, and to gain knowledge, but most importantly, to build networks. Because after all, through the use of IP, we can really push in the development of our own economies, and make a big difference to the progress of our own societies. It will be a gamechanger if we use IP correctly. As we rely on the thought leadership that all of you bring to the table, as we make these connections, and as we have these discussions and little exchanges at the exhibition booths, over coffee or over a meal, they will level up in our understanding, our know-how, and help us to understand each other across different jurisdictions, and indeed, across different cultures.
