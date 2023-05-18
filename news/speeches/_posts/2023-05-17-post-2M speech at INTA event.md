@@ -1,5 +1,5 @@
 ---
-title: 2M speech at INTA event
+title: Keynote Speech by Minister for Culture, Community and Youth, and Second Minister of Law Edwin Tong SC, at 145th International Trademark Association (INTA) Annual Meeting
 permalink: /news/speeches/2m-speech-at-inta-145-annual-meeting/
 date: 2023-05-17
 layout: post
