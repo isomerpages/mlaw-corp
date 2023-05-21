@@ -3,6 +3,13 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+
+#### **Urgent Maintenance Notice**
+Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
+
+| E-Services | Maintenance Schedule |
+| -------- | -------- |
+| Insolvency Office (except for Individual Insolvency), Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     | May 22, Mon, 0700 hrs to 2359 hrs     |
 ##### **New Insolvency E-Services (new!)**
 
 We will be launching our new **Corporate Insolvency E-Services** on **29 May 2023**.
