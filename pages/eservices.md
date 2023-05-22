@@ -9,7 +9,7 @@ Please be informed that the following eServices will be unavailable for urgent m
 
 | eServices | Maintenance Schedule | <br>
 | -------- | -------- | -------- |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     |  May 22, Mon 0800 hrs to 2359 hrs
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     |  22 May, Mon 0800 hrs to 23 May, Tue 0900 hrs
 
 
 ##### **New Insolvency E-Services (new!)**
