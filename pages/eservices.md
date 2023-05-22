@@ -3,6 +3,15 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+#### **Urgent Maintenance Notice**
+Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
+
+
+| eServices | Maintenance Schedule | <br>
+| -------- | -------- | -------- |
+| Insolvency Office (except for Individual Insolvency), Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     |  May 22, Mon 0800 hrs to 2359 hrs
+
+
 ##### **New Insolvency E-Services (new!)**
 
 We will be launching our new **Corporate Insolvency E-Services** on **29 May 2023**.
@@ -25,7 +34,6 @@ Please be informed that the following eServices will be scheduled for  maintenan
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
-| Insolvency Office (except for Individual Insolvency), Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     | May 21, Sun, 1800 hrs to May 22, Mon 0800 hrs     |
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | Every Thu, 1800 hrs to 2359 hrs     |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to Sat, 1300 hrs     |
  
