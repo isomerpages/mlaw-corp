@@ -6,28 +6,10 @@ breadcrumb: E-Services
 <!--#### **Urgent Maintenance Notice**
 Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
 
-
 | eServices | Maintenance Schedule | <br>
 | -------- | -------- | -------- |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     |  22 May, Mon 0800 hrs to 24 May, Wed 0900 hrs -->
 
-
-##### **New Insolvency E-Services (new!)**
-
-We will be launching our new **Corporate Insolvency E-Services** on **29 May 2023**.
-
-The new E-Services will have new features and members of the public will have access to guides to navigate the E-Services with ease. 
-
-The **Corporate Insolvency E-Services** will not be available from **24 May 2023 (Wednesday), 6.00 pm to 28 May 2023 (Sunday), 11.59 pm**.
-
-You need a valid Singpass or Corppass account to access the new E-Services. For foreigners, you are required to register for a Singpass.
-
-To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
-
-If you have saved any draft applications, you are required to complete and submit them before **24 May 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services.
-
-Stay tuned for our new E-Services on **29 May 2023**.
-<hr>
 
 #### **Maintenance Notices**
 Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
@@ -36,7 +18,7 @@ Please be informed that the following eServices will be scheduled for  maintenan
 | -------- | -------- |
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | Every Thu, 1800 hrs to 2359 hrs     |
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to Sat, 1300 hrs     |
- 
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker    | Tue, 1800 hrs to 2359 hrs     | 
 
  
 <br>
