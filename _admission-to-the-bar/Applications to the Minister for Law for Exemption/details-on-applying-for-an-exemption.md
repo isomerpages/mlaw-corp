@@ -61,7 +61,7 @@ Details on Applying for an Exemption
 <p style="text-align: justify">All applications for exemption (including repeat applications and approvals in advance of embarking on a course), must be made using the Application for Exemption Form. We do not accept hardcopy applications.</p><br>
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx">
+  <a href="https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx">
     <img src="/images/1520231210724.png" title="Application for Exemption Form" alt="Application for Exemption Form" style="width: 300px">
   </a>
 </div><br>
