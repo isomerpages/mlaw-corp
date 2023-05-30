@@ -3,6 +3,17 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+##### **New Insolvency Office (IO) E-Services (new!)**
+We will be launching our new Corporate Insolvency E-Services on **19 June 2023**. 
+
+The Corporate Insolvency E-Services will not be available from **14 June 2023 (Wednesday), 6.00 pm to 19 June 2023 (Monday), 8.00 am**.
+
+To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission**.
+
+If you have saved any draft applications, you are required to complete and submit them before **14 June 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. 
+
+<hr>
+
 <!--#### **Urgent Maintenance Notice**
 Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
 
