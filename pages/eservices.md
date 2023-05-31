@@ -27,8 +27,7 @@ Please be informed that the following eServices will be scheduled for  maintenan
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
- | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | Every Thu, 1800 hrs to 2359 hrs     |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to Sat, 1300 hrs     | 
+ | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 1 Jun, Thur, 1800 hrs to 3 Jun, Sat, 2359 hrs     | 
 
 <br>
 
