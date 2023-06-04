@@ -21,14 +21,14 @@ Please be informed that the following eServices will be unavailable for urgent m
 | -------- | -------- | -------- |
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     |  29 May, Mon 1000 hrs to 29 May, Mon 0200 hrs  -->
 
-
+<!--
 #### **Maintenance Notices**
 Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
  | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 1 Jun, Thur, 1800 hrs to 3 Jun, Sat, 2359 hrs     | 
-
+-->
 <br>
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
