@@ -22,14 +22,16 @@ Please be informed that the following eServices will be unavailable for urgent m
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     |  29 May, Mon 1000 hrs to 29 May, Mon 0200 hrs  -->
 
 
+<!--below notice is prepared for regular maintenance-->
 <!--#### **Maintenance Notices**
 Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
  | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs     | 
- | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, Thur, 1800 hrs to 2359 hrs     | 
+ | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs     | 
 -->
+
 
 <!--below notice is prepared for CIMS Go-Live-->
 <!--#### **Maintenance Notices**
@@ -41,6 +43,7 @@ Please be informed that the following eServices will be scheduled for  maintenan
 | Insolvency Office, Public Trustee's Office    | 14 Jun, Wed, 1800 hrs to 15 Jun, Thu, 0800 hrs     | 
 | Insolvency Office - Debt Repayment Scheme, Public Trustee's Office    | 15 Jun, Thu, 1800 hrs to 16 Jun, Fri, 0800 hrs     | 
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker    | 16 Jun, Fri, 1800 hrs to 19 Jun, Mon, 0800 hrs     | 
+<hr>
 -->
 <br>
 
