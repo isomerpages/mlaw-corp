@@ -14,6 +14,16 @@ If you have saved any draft applications, you are required to complete and submi
 
 <hr>
 
+
+#### **Maintenance Notices**
+Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
+
+| E-Services | Maintenance Schedule |
+| -------- | -------- |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 5 Jun, Tue, 1730 hrs to 6 Jun, Wed, 0600hrs
+
+<hr>
+
 <!--#### **Urgent Maintenance Notice**
 Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
 
