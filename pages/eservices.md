@@ -17,7 +17,7 @@ If you have saved any draft applications, you are required to complete and submi
 <!--#### **Urgent Maintenance Notice**
 Please be informed that the following eServices will be unavailable for urgent maintenance on the following date, and access will not be available during this period: 
 
-| eServices | Maintenance Schedule | <br>
+| E-Services | Maintenance Schedule | <br>
 | -------- | -------- | -------- |
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     |  29 May, Mon 1000 hrs to 29 May, Mon 0200 hrs  -->
 
