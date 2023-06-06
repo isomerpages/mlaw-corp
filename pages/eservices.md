@@ -24,7 +24,7 @@ If you have saved any draft applications, you are required to complete and submi
 
 <!--
 #### **Maintenance Notices**
-Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
+Please be informed that the following eServices are unavailable during this period: 
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
