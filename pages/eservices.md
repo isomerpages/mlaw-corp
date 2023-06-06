@@ -8,7 +8,7 @@ Please be informed that the following eServices are unavailable during this peri
 
 | E-Services | Maintenance Schedule | <br>
 | -------- | -------- | -------- |
-| Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism   |  06 Jun, Tue 0800 hrs to 07 Jun, Wed 0900 hrs 
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker  |  07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs 
 
 
 ##### **New Insolvency Office (IO) E-Services (new!)**
