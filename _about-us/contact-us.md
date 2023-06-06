@@ -3,10 +3,11 @@ title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
-<!--#### **Urgent Maintenance Notice**
-Please be informed that we are having urgent maintenance activities 6 June 2023 8 am to 7 June 2023 9am. 
+#### **Urgent Maintenance Notice**
+We are conducting urgent maintenance activities for all our e-services from 6 June 2023, 8 am to 7 June 2023, 9am. 
 
-During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual.  -->
+During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual.
+
 
 <style>
   .image {margin-bottom: 1em;}
