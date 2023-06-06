@@ -3,6 +3,14 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+#### **Urgent Maintenance Notice**
+Please be informed that the following eServices are unavailable during this period: 
+
+| E-Services | Maintenance Schedule | <br>
+| -------- | -------- | -------- |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office   |  06 Jun, Tue 0800 hrs to 07 Jun, Wed 0900 hrs 
+
+
 ##### **New Insolvency Office (IO) E-Services (new!)**
 We will be launching our new Corporate Insolvency E-Services on **19 June 2023**. 
 
@@ -14,13 +22,13 @@ If you have saved any draft applications, you are required to complete and submi
 
 <hr>
 
-
+<!--
 #### **Maintenance Notices**
-Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
+Please be informed that the following eServices are unavailable during this period: 
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 5 Jun, Tue, 1800 hrs to 9 Jun, Thu, 0900hrs |
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 5 Jun, Tue, 1800 hrs to 9 Jun, Thu, 0900hrs | -->
 
 <hr>
 
