@@ -4,7 +4,7 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
 #### **Urgent Maintenance Notice**
-We are experiencing technical issues with all our services across all our public touchpoints. We are actively working to address this disruption in our services. Urgent maintenance activities will take place from 6 June 2023 8 am to 7 June 2023 9am. 
+Please be informed that we are having urgent maintenance activities 6 June 2023 8 am to 7 June 2023 9am. 
 
 During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual.  
 
