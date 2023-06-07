@@ -59,7 +59,7 @@ Please be informed that the following eServices will be scheduled for  maintenan
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)	
 4. [Registry of Pawnbroker](https://eservices.mlaw.gov.sg/rop/)	
-5. [Legal Regulatory Services Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)	
+5. [Legal Services Regulatory Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)	
 6. [Exemptions (Singapore Bar/FPE)](https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx) 	
 7. [Community Mediation Centre](https://cmc.mlaw.gov.sg/e-services/apply-online/)
 8. [MinLaw Online Enquiries](https://go.gov.sg/contactminlaw)
