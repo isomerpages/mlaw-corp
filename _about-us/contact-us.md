@@ -10,7 +10,7 @@ We are conducting urgent maintenance activities for following eServices
 
 | E-Services | Maintenance Schedule  |<br>
 | -------- | -------- | -------- |
-| nsolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     | 07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs       |
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     | 07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs       |
 
 
 During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual. 
