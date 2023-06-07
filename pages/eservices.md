@@ -11,16 +11,6 @@ Please be informed that the following eServices are unavailable during this peri
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, eCollection  |  07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs 
 
 
-##### **New Insolvency Office (IO) E-Services (new!)**
-We will be launching our new Corporate Insolvency E-Services on **19 June 2023**. 
-
-The Corporate Insolvency E-Services will not be available from **14 June 2023 (Wednesday), 6.00 pm to 19 June 2023 (Monday), 8.00 am**.
-
-To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission**.
-
-If you have saved any draft applications, you are required to complete and submit them before **14 June 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. 
-
-<hr>
 
 <!--
 #### **Maintenance Notices**
@@ -69,7 +59,7 @@ Please be informed that the following eServices will be scheduled for  maintenan
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)
 3. [Registry of Moneylenders](https://eservices.mlaw.gov.sg/rom/)	
 4. [Registry of Pawnbroker](https://eservices.mlaw.gov.sg/rop/)	
-5. [Legal Services Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)	
+5. [Legal Regulatory Services Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)	
 6. [Exemptions (Singapore Bar/FPE)](https://eservices.mlaw.gov.sg/li/ems/application/exemption.aspx) 	
 7. [Community Mediation Centre](https://cmc.mlaw.gov.sg/e-services/apply-online/)
 8. [MinLaw Online Enquiries](https://go.gov.sg/contactminlaw)
