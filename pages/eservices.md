@@ -8,7 +8,7 @@ Please be informed that the following eServices are unavailable during this peri
 
 | E-Services | Maintenance Schedule | <br>
 | -------- | -------- | -------- |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, eCollection  |  07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs 
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, eCollection  |  07 Jun, Wed 0800 hrs to 08 Jun, Thu 2359 hrs 
 
 
 
