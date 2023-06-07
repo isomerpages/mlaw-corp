@@ -4,8 +4,14 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
 #### **Urgent Maintenance Notice**
-We are conducting urgent maintenance activities for all our e-services from 
-6 June 2023, 8 am to 7 June 2023, 9am. 
+We are conducting urgent maintenance activities for following eServices
+
+
+
+| E-Services | Maintenance Schedule  |<br>
+| -------- | -------- | -------- |
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker     | 07 Jun, Wed 0800 hrs to 08 Jun, Thu 0800 hrs       |
+
 
 During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual. 
 
