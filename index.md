@@ -3,11 +3,11 @@ layout: homepage
 title: Ministry of Law
 permalink: /
 notification: "The following e-services are unavailable until Mon, 12 Jun 2023
-  0900hrs  due to maintenance works: <ul><li>Insolvency Office</li><li>Special
-  Needs Trust Company (SNTC)</li><li>eCollection Portal</li></ul><br><br>During
-  this period, waiting times at our Ministry of Law Services Centre and our
-  hotline may also be longer than usual.<br><br>We seek your understanding and
-  apologise for any inconvenience caused."
+  0900hrs  due to maintenance works: (1) Insolvency Office (2) Special Needs
+  Trust Company (SNTC) (3) eCollection Portal<br>During this period, waiting
+  times at our Ministry of Law Services Centre and our hotline may also be
+  longer than usual.<br>We seek your understanding and apologise for any
+  inconvenience caused."
 sections:
   - hero:
       title: Ministry of Law Singapore
