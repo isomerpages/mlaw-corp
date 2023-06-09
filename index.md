@@ -2,12 +2,17 @@
 layout: homepage
 title: Ministry of Law
 permalink: /
-notification: The following e-services are unavailable until Mon, 12 Jun 2023
-  0900hrs due to maintenance works:<br>(1) Insolvency Office (2) Special Needs
-  Trust Company (SNTC) (3) eCollection Portal<br>During this period, waiting
-  times at our Ministry of Law Services Centre and our hotline may also be
-  longer than usual.<br>We seek your understanding and apologise for any
-  inconvenience caused.
+notification: "Some of our e-services are unavailable till 12 June 2023 due to
+  urgent maintenance works. During this period, waiting times at our Ministry of
+  Law Services Centre and our hotline may also be longer than
+  usual.   <br><br>The following e-services are still accessible via the links
+  provided:   <br><br><u>Insolvency Search:</u>
+  https://eservices.mlaw.gov.sg/credportal/#/generic/isearch/  <br><u>Insolvency
+  Person’s Portal:</u> https://eservices.mlaw.gov.sg/insolportal/
+  <br><u>Creditor’s Portal:</u> https://eservices.mlaw.gov.sg/credportal/
+  <br><u>Private Trustees in Bankruptcy Portal:</u>
+  https://eservices.mlaw.gov.sg/ptib/  <br><br>We seek your understanding and
+  apologise for any inconvenience caused. "
 sections:
   - hero:
       title: Ministry of Law Singapore
