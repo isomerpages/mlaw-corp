@@ -4,14 +4,13 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 #### **Urgent Maintenance Notice**
-The following e-services are unavailable until Mon, 12 Jun 2023 0900hrs due to maintenance works:
-<br>(1) Insolvency Office
-<br>(2) Special Needs Trust Company (SNTC)
-<br>(3) eCollection Portal
-
-During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.
-
-We seek your understanding and apologise for any inconvenience caused.
+Some of our e-services are unavailable till 12 June 2023 0900hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+<br><br>The following e-services are still accessible via the links provided: 
+<br><br><u>Insolvency Search:</u> https://eservices.mlaw.gov.sg/credportal/#/generic/isearch/ 
+<br><u>Insolvency Person’s Portal:</u> https://eservices.mlaw.gov.sg/insolportal/
+<br><u>Creditor’s Portal:</u> https://eservices.mlaw.gov.sg/credportal/
+<br><u>Private Trustees in Bankruptcy Portal:</u> https://eservices.mlaw.gov.sg/ptib/
+<br><br>We seek your understanding and apologise for any inconvenience caused. 
 
 <!--Notice for Regular Maintenance Schedule-->
 <!--
