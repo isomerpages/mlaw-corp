@@ -4,16 +4,14 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
 #### **Urgent Maintenance Notice**
-We are conducting urgent maintenance activities for following eServices
+The following e-services are unavailable until Mon, 12 Jun 2023 0900hrs due to maintenance works:
+<br>(1) Insolvency Office
+<br>(2) Special Needs Trust Company (SNTC)
+<br>(3) eCollection Portal
 
+During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.
 
-
-| E-Services | Maintenance Schedule  |<br>
-| -------- | -------- | -------- |
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker,, eCollection     | 07 Jun, Wed 0800 hrs to 08 Jun, Thu 2359 hrs       |
-
-
-During this period, we seek your understanding and apologise for any inconvenience caused. Waiting times at our Ministry of Law Services Centre and our hotline will be longer than usual. 
+We seek your understanding and apologise for any inconvenience caused.
 
 
 <style>
