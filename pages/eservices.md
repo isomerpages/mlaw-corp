@@ -3,7 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-#### **Urgent Maintenance Notice**
+<!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 12 June 2023 0900hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 <br><br>The following e-services are still accessible via the links provided: 
 <br><br><u>Insolvency Search:</u> https://eservices.mlaw.gov.sg/credportal/#/generic/isearch/ 
@@ -11,7 +11,7 @@ Some of our e-services are unavailable till 12 June 2023 0900hrs due to urgent m
 <br><u>Creditor’s Portal:</u> https://eservices.mlaw.gov.sg/credportal/
 <br><u>Private Trustees in Bankruptcy Portal:</u> https://eservices.mlaw.gov.sg/ptib/
 <br><br>We seek your understanding and apologise for any inconvenience caused. 
-
+-->
 <!--Notice for Regular Maintenance Schedule-->
 <!--
 #### **Maintenance Notices**
