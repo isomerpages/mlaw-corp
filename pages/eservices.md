@@ -4,7 +4,7 @@ permalink: /e-services/
 breadcrumb: E-Services
 ---
 #### **Urgent Maintenance Notice**
-Some of our e-services are unavailable till 13 June 2023 2359hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+Some of our e-services are unavailable till 13 June 2023, 2359 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 <br><br>The following e-services are still accessible via the links provided: 
 <br><br><u>Insolvency Search:</u> 
 https://go.gov.sg/insolvencysearch
@@ -15,7 +15,8 @@ https://go.gov.sg/creditorsportal
 <br><u>Private Trustees in Bankruptcy Portal:</u> 
 https://go.gov.sg/ptibportal 
 <br><br>We seek your understanding and apologise for any inconvenience caused. 
---&gt;
+<hr>
+
 <!--Notice for Regular Maintenance Schedule-->
 <!--
 #### **Maintenance Notices**
