@@ -3,7 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-#### **Urgent Maintenance Notice**
+<!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 13 June 2023, 2359 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 <br><br>The following e-services are still accessible via the links provided: 
 <br><br><u>Insolvency Search:</u> 
@@ -15,21 +15,18 @@ https://go.gov.sg/creditorsportal
 <br><u>Private Trustees in Bankruptcy Portal:</u> 
 https://go.gov.sg/ptibportal 
 <br><br>We seek your understanding and apologise for any inconvenience caused. 
-<hr>
-
+-->
 <!--Notice for Regular Maintenance Schedule-->
-<!--
+
 #### **Maintenance Notices**
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
- | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs     | 
- | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs     | 
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs     | 
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs| 
 
 We seek your understanding and apologise for any inconvenience caused.
--->
-
 
 <!--below notice is prepared for CIMS Go-Live-->
 <!--#### **Maintenance Notices**
