@@ -20,7 +20,7 @@ sections:
           description: Find out more about the Act
           url: /covid19-relief/
           external: false
-        - title: Singapore Convention Week 2022
+        - title: Singapore Convention Week 2023
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
           external: false
