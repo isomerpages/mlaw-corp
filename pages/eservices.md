@@ -3,7 +3,7 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-<!--Hi Team, CIMS launch notice to be uncommented once CIMS go-live on 10 Jul 2023 is confirmed. Tentatively need to publish 2 weeks before go-live. 
+<!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. 
 #### **New Insolvency Office (IO) E-Services (new!)**
 We will be launching our new Corporate Insolvency E-Services on **10 July 2023**. 
 
