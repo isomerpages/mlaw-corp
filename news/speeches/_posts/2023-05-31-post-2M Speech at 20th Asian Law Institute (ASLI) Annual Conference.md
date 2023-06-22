@@ -1,5 +1,5 @@
 ---
-title: 2M Speech at 20th Asian Law Institute (ASLI) Annual Conference
+title: Keynote Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at 20th Asian Law Institute (ASLI) Annual Conference
 permalink: /news/speeches/2m-edwin-tong-speech-20th-asli-conference/
 date: 2023-05-31
 layout: post
