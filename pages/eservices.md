@@ -31,12 +31,9 @@ https://go.gov.sg/ptibportal
 <!--Notice for Regular Maintenance Schedule-->
 
 #### **Urgent Maintenance Notice**
-The following e-services are unavailable till 23 June 2023, 0900 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+The all Minlaw e-services are unavailable till 23 June 2023, 0900 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 
-* Insolvency Office<br>
-* Registry of Moneylenders<br>
-* Registry of Pawnbroker<br>
-* Public Trustee's Office<br>
+
 
 #### **Maintenance Notices**
 The following eServices are unavailable due to scheduled maintenance on the following dates:
