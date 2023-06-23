@@ -30,8 +30,8 @@ https://go.gov.sg/ptibportal
 -->
 <!--Notice for Regular Maintenance Schedule-->
 
-#### **Urgent Maintenance Notice**
-The all Minlaw e-services and Online enquiries are unavailable till 23 June 2023, 0900 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+<!--#### **Urgent Maintenance Notice**
+The all Minlaw e-services and Online enquiries are unavailable till 23 June 2023, 0900 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.--> 
 
 
 
@@ -40,7 +40,8 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
-| Anti-Money Laundering / Countering The Financing Of Terrorism  | 22 June 2023 Thu, 1800 hrs to 2359 hrs     | 
+| Anti-Money Laundering / Countering The Financing Of Terrorism  | 23 June 2023 Fri, 1800 hrs to 25 June 2023 Sun, 2359 hrs     | 
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 24 June 2023 Sat, 1400 hrs to 25 June 2023, 2359 hrs| 
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs     | 
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs| 
 
