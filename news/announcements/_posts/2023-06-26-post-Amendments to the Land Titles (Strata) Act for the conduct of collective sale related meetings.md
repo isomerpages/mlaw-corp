@@ -12,12 +12,15 @@ image: ""
 {:start="1"}
 1. The COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders (the “Meetings Orders”), which enable entities (including management corporations) to convene, hold or conduct meetings through virtual means, will cease on 1 July 2023 <sup><a href="#fn1" id="ref1">1</a></sup>.
 
-{:start="2"} 2. The Ministry of Law has since amended the Second and Third Schedules to the Land Titles (Strata) Act (“LTSA”) to facilitate the conduct of general meetings for the purpose of a collective sale and meetings of the collective sale committee (“CSCs”) by virtual means from 1 July 2023 onwards.
+{:start="2"} 
+2. The Ministry of Law has since amended the Second and Third Schedules to the Land Titles (Strata) Act (“LTSA”) to facilitate the conduct of general meetings for the purpose of a collective sale and meetings of the collective sale committee (“CSCs”) by virtual means from 1 July 2023 onwards.
 
 
-{:start="3"} 3. The amendments will provide more flexibility to the management corporations (“MCSTs”) and CSCs in conducting such meetings to facilitate greater participation by the owners. It will provide guidelines for MCSTs and CSCs on how to hold the meetings governed by these schedules through partial or wholly virtual means, including matters such as the modes of meeting allowed, how attendance and quorum will be determined, guidance on electronic voting systems and the electronic submission of proxy forms.
+{:start="3"} 
+3. The amendments will provide more flexibility to the management corporations (“MCSTs”) and CSCs in conducting such meetings to facilitate greater participation by the owners. It will provide guidelines for MCSTs and CSCs on how to hold the meetings governed by these schedules through partial or wholly virtual means, including matters such as the modes of meeting allowed, how attendance and quorum will be determined, guidance on electronic voting systems and the electronic submission of proxy forms.
 
-{:start="4"} 4. When deciding the preferred mode for conducting these meetings, MCSTs and CSCs should consider the needs and circumstances of the owners or subsidiary proprietors (“SPs”). MCSTs and CSCs may wish to solicit feedback or conduct a survey among the owners or SPs, before deciding the most appropriate mode of conducting the meeting. MCSTs and CSCs should conduct meetings using a mode that would enable as many participants to attend the meeting as practicable.
+{:start="4"} 
+4. When deciding the preferred mode for conducting these meetings, MCSTs and CSCs should consider the needs and circumstances of the owners or subsidiary proprietors (“SPs”). MCSTs and CSCs may wish to solicit feedback or conduct a survey among the owners or SPs, before deciding the most appropriate mode of conducting the meeting. MCSTs and CSCs should conduct meetings using a mode that would enable as many participants to attend the meeting as practicable.
 
 <b>Key Changes</b>
 
