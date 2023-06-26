@@ -53,9 +53,10 @@ image: ""
 **MINISTRY OF LAW**
 <br>**26 JUNE 2023**
 
-[Annnex A- Requirements for general meetings for the purpose of collective sale](/files/mediaDirectory/files/editMediaSettings/annex%20a-%20requirements%20for%20general%20meetings%20for%20the%20purpose%20of%20collective%20sale.pdf)
 
-[Annnex B- Requirements for meetings of CSCs](/files/mediaDirectory/files/editMediaSettings/annex%20b-%20requirements%20for%20meetings%20of%20cscs.pdf)
+[Annex A- Requirements for general meetings for the purpose of collective sale](/files/annex%20a-%20requirements%20for%20general%20meetings%20for%20the%20purpose%20of%20collective%20sale.pdf)
+
+[Annex B- Requirements for meetings of CSCs](/files/annex%20b-%20requirements%20for%20meetings%20of%20cscs.pdf)
 <p><sup id="fn1">1. Further information on this may be found at this <a href="https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023">link</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 26 June 2023</p>
