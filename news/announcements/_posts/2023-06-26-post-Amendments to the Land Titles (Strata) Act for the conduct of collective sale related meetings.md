@@ -55,4 +55,4 @@ image: ""
 [Annnex B- Requirements for meetings of CSCs](/files/mediaDirectory/files/editMediaSettings/annex%20b-%20requirements%20for%20meetings%20of%20cscs.pdf)
 <p><sup id="fn1">1. Further information on this may be found at this <a href="https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023">link</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
-<p class="right-side-updated">Last updated on 2 May 2023</p>
+<p class="right-side-updated">Last updated on 26 June 2023</p>
