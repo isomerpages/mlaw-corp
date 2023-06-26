@@ -50,8 +50,9 @@ image: ""
 **MINISTRY OF LAW**
 <br>**26 JUNE 2023**
 
-[Annex- Conditions Allowing the Minister for Law to Exempt a Reportable Death](/files/news/announcements/2023/annex%20–%20conditions%20allowing%20the%20minister%20for%20law%20to%20exempt%20a%20reportable%20death.pdf)
+[Annnex A- Requirements for general meetings for the purpose of collective sale](/files/mediaDirectory/files/editMediaSettings/annex%20a-%20requirements%20for%20general%20meetings%20for%20the%20purpose%20of%20collective%20sale.pdf)
 
+[Annnex B- Requirements for meetings of CSCs](/files/mediaDirectory/files/editMediaSettings/annex%20b-%20requirements%20for%20meetings%20of%20cscs.pdf)
 <p><sup id="fn1">1. Further information on this may be found at this <a href="https://www.mlaw.gov.sg/news/press-releases/cessation-alternative-arrangements-for-meetings-1jul2023">link</a>. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 2 May 2023</p>
