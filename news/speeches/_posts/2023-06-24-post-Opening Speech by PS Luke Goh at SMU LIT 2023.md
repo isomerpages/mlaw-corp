@@ -1,5 +1,5 @@
 ---
-title: Opening Speech by PS Luke Goh at SMU LIT 2023
+title: Opening Speech by Permanent Secretary (Law) and 2nd Permanent Secretary (Foreign Affairs) Luke Goh at the SMU Legal Innovation and Technology (LIT) Hackathon 2023
 permalink: /news/speeches/speech-by-ps-luke-smu-lit-2023/
 date: 2023-06-24
 layout: post
