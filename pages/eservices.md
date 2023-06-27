@@ -3,7 +3,8 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-<!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. 
+<!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. -->
+
 #### **New Insolvency Office (IO) E-Services (new!)**
 We will be launching our new Corporate Insolvency E-Services on **10 July 2023**. 
 
@@ -13,8 +14,6 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 
 If you have saved any draft applications, you are required to complete and submit them before **5 July 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. 
 <hr>
-Uncomment for CIMS go-live notice -->
-
 <!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 13 June 2023, 2359 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 <br><br>The following e-services are still accessible via the links provided: 
