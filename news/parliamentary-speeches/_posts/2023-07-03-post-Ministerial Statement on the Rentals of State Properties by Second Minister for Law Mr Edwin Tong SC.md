@@ -121,7 +121,7 @@ b. And also address SLA’s approach in undertaking these transactions.
 12. These bungalows are a part of Singapore’s history.
 
 (1) Some are located in areas where the British naval and air bases used to be:&nbsp;&nbsp;
-		a. For example, Sembawang and Seletar.
+a. For example, Sembawang and Seletar.
     
 {:start="13"}
 13.  At present, there are 36 conserved Black and Whites, and a further 235 State-owned Black and Whites are marked for study for conservation and hence in the meantime, they are protected.
@@ -159,8 +159,8 @@ b. And also address SLA’s approach in undertaking these transactions.
 
 (2) The planning parameters determine how such land can be used, and for what purpose:
 
-		a. For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
-		b. Or alternatively, whether it is zoned only for low intensity, landed properties only.
+a. For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
+b. Or alternatively, whether it is zoned only for low intensity, landed properties only.
 
 (3) Where possible, we will also consider if these properties can be modified for other uses or be integrated as part of new developments, with a view to rejuvenating and revitalising the area. This allows for modernisation of the estate while preserving the property’s core heritage value.
 
@@ -201,19 +201,19 @@ b. And also address SLA’s approach in undertaking these transactions.
 
 (3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
     
-		a. The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
-		b. Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+a. The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
+b. Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
 		
 (4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
 
 (5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
 
-		a. For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
+a. For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
 	
 (6) As I said, one has to bear in mind the specific context in which the estate is found, and also the Master Plan. If the Black and Whites are located amidst or amongst a landed enclave, such as in Ridout Road or perhaps Nassim Road, an area that is zoned for landed properties, removing the Black and Whites, or redeveloping them and the land around it, will not change the area much:
 
-		a. The cleared land can only then be similarly used for low intensity development.
-		b. It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
+a. The cleared land can only then be similarly used for low intensity development.
+b. It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
 	
 {:start="26"}
 26.  Accordingly, to Mr Gerald Giam’s and Ms He Ting Ru’s questions about the Government’s development plans for Black and Whites:
