@@ -1,7 +1,7 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Tenancies of
+title: Written Answer by Minister for Law K Shanmugam to PQ on Tenancies of Religious Organisations
   Religious Organisations
-permalink: /news/parliamentary-speeches/written-answer/
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-to-pq-on-tenancies-of-religious-organisations/
 date: 2023-07-03
 layout: post
 description: ""
