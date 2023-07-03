@@ -303,16 +303,16 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (2) In such cases, there is therefore a need to find a tenant prepared to:
 
-		a. Invest capital to upgrade the unit to meet modern day amenities.
-		b. Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
-		c. And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
+a. Invest capital to upgrade the unit to meet modern day amenities.
+b. Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
+c. And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
 			
 {:start="40"}
 40.  This limits the pool of prospective tenants for Black and Whites:
 
 (1) Most tenants would prefer a ready-to move in property:
 
-		a. Which they can furnish and almost immediately occupy.
+a. Which they can furnish and almost immediately occupy.
 		
 (2) And not have to fork out capital expenditure.
      
@@ -338,7 +338,7 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
 
-		a. GFA represents the available live-in space for the tenant.
+a. GFA represents the available live-in space for the tenant.
 		
 (2) As between GFA and land area, the former usually has a larger impact on the marketability of the property.
 
@@ -360,11 +360,11 @@ b. It would not be possible to put the site to other uses, for example, some of 
     
 (5) This trend has a direct correlation to the occupancy rates at the Ridout properties:
 
-		a. In January 2018, the occupancy at Ridout Road estate was 71%.
-		b. This increased to 100% occupancy in January 2022.
-		c. And has stayed at 100% since that time.
-		d. In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
-		e. Since 2020, no tenant has requested pre-termination.
+a. In January 2018, the occupancy at Ridout Road estate was 71%.
+b. This increased to 100% occupancy in January 2022.
+c. And has stayed at 100% since that time.
+d. In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
+e. Since 2020, no tenant has requested pre-termination.
 		
 {:start="47"}
 47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
@@ -400,11 +400,11 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
-		a. It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
-		b. E.g. when there are requests beyond the scope of an MA’s mandate:
-			* 		e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
-		c. or where discussions arise on issues that an MA does not usually handle:
-			* 		e.g., privacy, security and other issues.
+a. It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
+b. E.g. when there are requests beyond the scope of an MA’s mandate:
+* e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
+c. or where discussions arise on issues that an MA does not usually handle:
+* e.g., privacy, security and other issues.
 		
 (5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
 		
@@ -449,8 +449,8 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (2) Later, the market softened. The success rate of residential State properties allocated through open bidding dropped. SLA then adjusted its policy to allow direct letting for specified estates, particularly for those with less than 80% occupancy:
 
-		a. SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
-		b. In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
+a. SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
+b. In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
 		
 (3) I should add that these are operational concerns decided by SLA.
     
@@ -501,13 +501,13 @@ Valuation
 
 (2) The valuation team uses established industry principles and methods for valuation:
 
-		a. Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
+a. Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
 		
 (3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
 
-		a. The leasing team would submit a request for valuation of a particular property.
-		b. Setting out the parameters of the proposed lease of the property, and
-		c. The valuation team will then determine the guide rent for the property.
+a. The leasing team would submit a request for valuation of a particular property.
+b. Setting out the parameters of the proposed lease of the property, and
+c. The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
 65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
@@ -549,23 +549,23 @@ Valuation
 
 (1) Today, under an open bidding allocation:
 
-		a. The property would be listed on SPIO for at least 14 days.
-		b. This is called the notice period.
-		c. Thereafter, there is a 5-day bidding window.
+a. The property would be listed on SPIO for at least 14 days.
+b. This is called the notice period.
+c. Thereafter, there is a 5-day bidding window.
 		
 (2) During the notice period, either SLA or the MA, depending on which property is being asked about and whether it is under their portfolio, will also organise open houses for the property in question.
 
 (3) Once the bidding window closes, the tenancy is offered to the highest bidder:
 
-		a. This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
+a. This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
 
 (4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
 
 (5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
 
-		a. Ms Hazel Poa asked about the reason for this 6-month period.
-		b. The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
-		c. Therefore, it is no longer listed on SPIO after 6 months.
+a. Ms Hazel Poa asked about the reason for this 6-month period.
+b. The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
+c. Therefore, it is no longer listed on SPIO after 6 months.
 
 {:start="73"}
 73. The second modality is direct letting:
@@ -584,9 +584,9 @@ Valuation
 
 (1) Estates identified for direct letting are generally one of two categories:
 
-		a. Those with low occupancy rates.
-		b. Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
-		c. An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
+a. Those with low occupancy rates.
+b. Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
+c. An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
 76. Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
@@ -696,7 +696,7 @@ Valuation
 
 (2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
 
-		a. The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
+a. The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
 		
 (3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
 
@@ -704,10 +704,10 @@ Valuation
 
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
-		a. These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-		b. The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
-		c. NParks also conducted site visits to inspect the trees in person, where necessary.
-		d. And it was only thereafter that the trees were removed.
+a. These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
+b. The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
+c. NParks also conducted site visits to inspect the trees in person, where necessary.
+d. And it was only thereafter that the trees were removed.
 
 (6) The one tree which did not require an arborist report had failed in bad weather. NParks’ approval was obtained to fell or remove the rest of the tree that had already failed.
 
@@ -715,6 +715,7 @@ Valuation
 99. The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
 
 *No. 31 Ridout Road*
+
 {:start="100"}
 100. 31 Ridout Road was also in the Tree Conservation Area.
 
