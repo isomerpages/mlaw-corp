@@ -1,6 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on
-permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Feedback on Rules of Court 2021
+permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-k-shanmugam-to-pq-on-feedback-on-rules-of-court-2021/
 date: 2023-07-03
 layout: post
 description: ""
