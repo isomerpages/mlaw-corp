@@ -17,7 +17,7 @@ image: ""
 **<b><u>Written Answer:</u></b>** 
 
 {:start="1"} 
-1.  The Rules of Court 2021 (“ROC 2021”) were made by the Rules Committee, which is chaired by the Chief Justice and comprises the Attorney-General, Supreme Court and State Court Judges, and two practicing advocates and solicitors appointed by the Chief Justice. 
+1.  The Rules of Court 2021 (“ROC 2021”) were made by the Rules Committee, which is chaired by the Chief Justice and comprises the Attorney-General, Supreme Court and State Court Judges, and two practicing advocates and solicitors appointed by the Chief Justice.
 
 {:start="2"} 
 2.  The Ministry of Law conducts routine engagements with the Bar on matters concerning the legal profession as a whole. Any feedback received on the ROC 2021 will be relayed to the Rules Committee accordingly.
