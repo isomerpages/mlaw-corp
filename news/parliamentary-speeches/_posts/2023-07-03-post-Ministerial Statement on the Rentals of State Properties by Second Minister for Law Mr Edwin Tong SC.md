@@ -131,22 +131,48 @@ It would also be useful, as we deal with these commercial questions, to have reg
     
 {:start="15"}
 15.  In assessing No. 26 and 31 Ridout Road for conservation, URA took into account the following:
-    
+
+(1) First, these are two intact remaining historic bungalows built in the early 1900s.
+
+(2) Second, they are good examples of the “Black and White” architectural style which had been built by the Public Works Department of the colonial British government, which was responsible for building infrastructure – such as roads, bridges, irrigation works, reservoirs and so on – as well as providing accommodation for Government servants who oversaw such works.
+
+*Development Plans for heritage bungalows*
+
 {:start="16"}
-16.  To ensure that unmeritorious applications which detract from important issues are weeded out at an early stage, the Committee recommended that in appropriate circumstances, the permission of the court must be sought before a further application can be filed.
-    
+16.  In managing the older, heritage properties, SLA aims to optimise their usage.&nbsp; At the same time, however, SLA also has to be responsible and mindful of maintaining these properties to meet their conservation and protection status:
+
+(1) These bungalows were built around the early 1900s, and so are about 100 years old today, maintained in their original condition.
+
+(2) They are located in a wide range of neighbourhoods, both in the central as well as in other areas.
+
+(3) Some of them are found in dedicated estates for Black and Whites (for example: Malcolm Road)
+
+(4) Others are interspersed with other private residential properties that are non-Black and Whites – for example, in the Ridout Road Estate.
+
 {:start="17"}
-17.  The new section 11A of the Family Justice Act will implement the Committee’s recommendation. There are two parts to the new section 11A.
+17.  The development plans for these properties are ultimately guided by a few factors.
     
 {:start="18"}
-18.  The first part of Section 11A deals with certain applications by a party in relation to an order already made in previous proceedings. For example, an application to vary, suspend or set aside a previous order. For ease of explaining the first part of section 11A, I shall call an application which falls into this category a “variation application”.
-    
-{:start="19"}
-19.  Section 11A provides that where (a) the filing of any variation application or supporting document, or (b) any variation application or supporting document which has been filed by a party, will or is likely to:
- 
-(a) be without merit, having regard to the applicant’s past conduct in previous proceedings; or
+18.  We must first have regard to URA’s Master Plan which takes into account the intrinsic heritage value of the properties, amongst other factors:
+
+(1) Specifically, the planning parameters assigned to areas with Black and Whites, are important considerations.
+
+(2) The planning parameters determine how such land can be used, and for what purpose:
+
+		a. For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
+		b. Or alternatively, whether it is zoned only for low intensity, landed properties only.
+
+(3) Where possible, we will also consider if these properties can be modified for other uses or be integrated as part of new developments, with a view to rejuvenating and revitalising the area. This allows for modernisation of the estate while preserving the property’s core heritage value.
+
+(4) In addition, we also take into account that these properties, which are dated to begin with, will require more maintenance and upkeep, and this will cost more.
    
-(b) has an adverse effect of the welfare of a child.
+{:start="19"}
+19.  Second, these lands are part of our reserves:
+ 
+(1) Singapore’s overall portfolio of State assets comprises financial and physical assets.
+
+(2) Our physical assets include State lands.
+
     
 {:start="20"}
 20.  FJC may make, among other things, the following orders:
