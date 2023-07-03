@@ -22,8 +22,8 @@ image: ""
 
 **Key Amendments**
 
-{:start="4"}
-<br> 4. The legislative framework has two key features: 
+{:start="4"} 
+4. The legislative framework has two key features: 
 <ul> a. <u>Electronic meetings:</u> Clients who need to make a SD or OA, or notarise documents, may appear before an authorised service provider using video conferencing platforms, or other electronic means that meet certain minimum requirements. <sup><a href="#fn3" id="ref3">3</a></sup> </ul>
 <ul> b. <u> Electronic signing: </u> Signature requirements can be satisfied electronically. In order to enhance the reliability of the electronic document and safeguard against fraud, the framework will require that specified modes of electronic signatures must be used in certain circumstances. These requirements will be set out in subsidiary legislation.<sup><a href="#fn4" id="ref4">4</a></sup></ul>
 
