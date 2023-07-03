@@ -99,41 +99,38 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) One of its key roles is to optimise land resources for Singapore’s economic and social development.
 
-(2)
+(2) SLA oversees the management of about 2,600 State properties in total.
+
+(3) These include landed and non-landed residential properties, former schools, former army camps and shophouses, for example.
+
+(4) Within this portfolio of properties are older, heritage bungalows, and this includes the Black and Whites.
+
+(5) Some Black and Whites are also gazetted as Conservation properties under the Planning Act, and consequently, carry the obligations which are imposed on Conservation Properties.&nbsp; There are other properties which are accorded “protected” status, whilst they are evaluated for conservation.
+
+(6) No. 26 and 31 Ridout Road were designated on 29 November 1991 as Conservation Properties (and they were subsequently gazetted in 1992), as they are two rare and intact remaining historic bungalows built in the early 1900s, whose outstanding architectural quality represents the culture and lifestyle of a period in Singapore’s history.
+
+*URA’s requirements of conservation and protection*
     
 {:start="10"}
-10.  I will now turn to the key reforms in this Bill which enhance proceedings and procedure in the FJC.
-    
-**FOUR BUCKETS OF REFORMS**
+10.  Ms He Ting Ru had asked about parameters and guidelines for the grant of conservation status. As Singapore’s conservation authority, the Urban Redevelopment Authority (URA) is mandated to identify for protection and conservation properties in Singapore which are of heritage value.
  
 {:start="11"}
-11.  The amendments which I will be speaking about can be grouped into four buckets:
-    
-(a) One, promoting efficiency in court proceedings;
- 
-(b) Two, enhancing and clarifying the judge-led approach;
-    
-(c) Three, simplifying court terminology; and
- 
-(d) Four, other miscellaneous and technical amendments to clarify, enhance and streamline FJC processes.
-    
-**PROMOTING EFFICIENCY IN COURT PROCEEDINGS**
+11.  URA conserves various categories of pre-war bungalows, amongst which the Black and Whites is one category.&nbsp; These are characterised by a particular architectural style from the early 1900s and are visibly recognisable by the black timber structural frame with white infill plastered walls.&nbsp; Hipped tiled roofs with wide overhangs and extensive verandas are also common features.
     
 {:start="12"}
-12.  In its report, the RERF Committee observed that the filing of unnecessary applications in family proceedings prolongs proceedings, promotes acrimony and strains judicial resources.
+12. These bungalows are a part of Singapore’s history.
+
+(1) Some are located in areas where the British naval and air bases used to be:&nbsp;&nbsp;
+		a. For example, Sembawang and Seletar.
     
 {:start="13"}
-13.  This is a particularly pertinent issue in family proceedings, which are emotionally charged. Such strong emotions can hinder rational thinking and cloud judgment.
- 
-(a) There are cases where parties who are caught up in the heat of the litigation resort to taking out unnecessary and unmeritorious applications in court to vex the other party or to paint the other party in a bad light. Such applications may also be made repeatedly;
-    
-(b) For example, one party may make repeated applications against the other party for discovery of documents which have little relevance or evidential value to the issue at hand.
+13.  At present, there are 36 conserved Black and Whites, and a further 235 State-owned Black and Whites are marked for study for conservation and hence in the meantime, they are protected.
  
 {:start="14"}
-14. Not only are such applications a waste of the parties’ time and the court’s resources, but such conduct can also harm the relationship of the parties and their family.
+14. Both categories, whether conserved or protected, impose obligations on the property owner, such as respecting the key elements of the bungalows in the use of the bungalow – namely, the roofs, the structural members, facades of the building, doors and windows and significant interior features including staircases, decorative mouldings, double volume spaces.
     
 {:start="15"}
-15.  The RERF Committee acknowledged that not every case involving the filing of multiple applications is necessarily an abuse of process, and in any event, the ability to strike out or dismiss an application on the ground of abuse of process should be exercised with caution.
+15.  In assessing No. 26 and 31 Ridout Road for conservation, URA took into account the following:
     
 {:start="16"}
 16.  To ensure that unmeritorious applications which detract from important issues are weeded out at an early stage, the Committee recommended that in appropriate circumstances, the permission of the court must be sought before a further application can be filed.
