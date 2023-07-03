@@ -790,4 +790,3 @@ d. And it was only thereafter that the trees were removed.
 
 <p class="right-side-updated">Last updated on 
 	 3 July 2023 </p>
-	
