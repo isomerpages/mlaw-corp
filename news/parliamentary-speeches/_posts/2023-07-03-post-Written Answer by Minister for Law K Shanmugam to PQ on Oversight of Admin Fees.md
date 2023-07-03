@@ -16,7 +16,7 @@ the public subjected to such fees have.
 
 <b><u>Written Answer:</u></b>
 <br> {:start="1"}
-1.&nbsp; Mr Speaker, pawnbrokers and licensed moneylenders operate under different regulatory regimes. They have different frameworks applicable to the regulation of administrative fees charged.
+1.&nbsp; Pawnbrokers and licensed moneylenders operate under different regulatory regimes. They have different frameworks applicable to the regulation of administrative fees charged.
 
 {:start="2"}
 2.&nbsp; Pawnbrokers offering cashless payment methods to pawners may impose an administrative fee of up to $2 for each pawn ticket issued when a new pledge is made, or when the redemption period is extended.
