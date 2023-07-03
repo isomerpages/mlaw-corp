@@ -14,11 +14,11 @@ image: ""
 {:start="1"}
 1.  Mr Deputy Speaker,
 
-		(1) I will respond to the remaining questions by Members relating to the rentals of Black and Whites managed by the Singapore Land Authority (SLA).
+(1) I will respond to the remaining questions by Members relating to the rentals of Black and Whites managed by the Singapore Land Authority (SLA).
 
-		(2) Specifically, I will address Members’ questions raised in relation to SLA’s management of Black and Whites.
+(2) Specifically, I will address Members’ questions raised in relation to SLA’s management of Black and Whites.
 
-		(3) And I will refer to the various Parliamentary Questions which I will address in the course of this speech.
+(3) And I will refer to the various Parliamentary Questions which I will address in the course of this speech.
  
 {:start="2"}
 2.  Sir, the main issues raised in these remaining PQs are as follows:
@@ -173,130 +173,190 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) Our physical assets include State lands.
 
+(3) The State should be able to keep land parcels, as a block, where appropriate. This will give URA sufficient planning latitude.
+
+(4) So these are the considered decisions that take into account a balance of factors, including the URA Masterplan.
     
 {:start="20"}
-20.  FJC may make, among other things, the following orders:
- 
-(a) an order prohibiting the filing of the variation application or any other variation application, or any document in support of such applications, without the permission of the court; and
-    
-(b) an order that any variation application or any supporting document which has been filed be treated as dismissed or expunged on a specified date, unless the party complies with one or more conditions imposed by the court by that date.
-    
+20.  Specifically, for a heritage bungalow, there is the building itself – which has heritage and historical value.
+     
 {:start="21"}
-21.  The second part of Section 11A deals with applications in proceedings which are pending before the FJC. I shall call an application which falls into this category an “interlocutory application”.
+21.  There is also the land on which the building sits and the areas adjacent to the building.&nbsp; How this land is utilised is also considered in the context of the URA Masterplan, which sets out a suite of planning parameters to guide our land use to meet our nation’s needs.&nbsp; In addition to preserving land, which is part of our reserves, we also manage the land use to cater to Singapore’s land needs in areas such as housing, education, and commercial uses.
     
 {:start="22"}
-22.  Section 11A provides that where (a) the filing of any interlocutory application or supporting document, or (b) any interlocutory application or supporting document which has been filed, will, or is likely to:
-    
-(a) impede the just, expeditious or economical resolution or disposal of the matter; or
- 
-(b) have an adverse effect on a child’s welfare.
-    
+22.  Accordingly, over time, SLA has carefully broadened the usage and deployment of these properties to meet the evolving needs of Singapore. A judicious balance is necessary, particularly between protecting heritage properties in Singapore and redeveloping them altogether.
+   
 {:start="23"}
-23.  The FJC may make, among other things, the following orders:
+23.  Hence, while we continue to retain some of the heritage bungalows for their original residential use on the rental market, some others have been demolished as a cluster to make way for newer developments. Others have been re-purposed for different uses, such as commercial and retail spaces or for example, F&amp;B.
  
-(a) an order prohibiting the filing of the interlocutory application or any other interlocutory application, or any document in support of such applications, without the permission of the court; and
-    
-(b) an order that any interlocutory application or any supporting document which has been filed be treated as dismissed or expunged on a specified date, unless the party complies with one or more conditions imposed by the court by that date.
-    
 {:start="24"}
-24.  Section 11A will promote a more efficient resolution of family proceedings, and also reduce the acrimony and stresses which may be inflicted on the parties’ relationship through the filing of unnecessary applications and documents.
+24.  With these parameters in mind, the Government has sought to re-purpose our heritage bungalows for various alternative uses.
     
 {:start="25"}
-25.  I would like to share the story of Ms C, who has written to us on her family’s experiences.
+25. And I thought it would be illustrative for me to cite some examples in this House for Members to appreciate:
     
-(a) Ms C’s Father and Mother are divorced. Ms C has a younger sibling;
-    
-(b) As the Mother exhibited physical and emotionally abusive behaviour, the Court granted protection orders against the Mother after the divorce, in favour of the Father and the two children;
- 
-(c) After the protection orders were granted, over a period of 3 years, the Mother filed close to 15 applications in Court against Ms C, her father and her sibling. This includes more than 5 applications to revoke the protection orders granted in favour of Ms C, her father and her sibling. In the case of the protection order obtained by Ms C, the Mother’s applications to revoke the protection order were dismissed.
+(1) At the Gallop Extension to the Singapore Botanic Gardens, the bungalow at 5 Gallop Road has been repurposed as a Forest Discovery Centre. This is a public space, and serves as a picturesque backdrop to popular picnic grounds for the public. I’m sure some members, have visited the Centre.
 
+(2) A standalone Black and White at Bah Soon Pah Road, which used to house an executive of a rubber estate, is under study to be conserved and integrated within a new HDB residential area. This was reported in the media in August 2022.
+
+(3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
+    
+		a. The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
+		b. Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+		
+(4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
+
+(5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
+
+		a. For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
+	
+(6) As I said, one has to bear in mind the specific context in which the estate is found, and also the Master Plan. If the Black and Whites are located amidst or amongst a landed enclave, such as in Ridout Road or perhaps Nassim Road, an area that is zoned for landed properties, removing the Black and Whites, or redeveloping them and the land around it, will not change the area much:
+
+		a. The cleared land can only then be similarly used for low intensity development.
+		b. It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
+	
 {:start="26"}
-26.  Ms C conveyed that each of the applications filed has taken a huge emotional toll on her family. With each application filed by her Mother, they ended up having to take time off work to spend time on court proceedings, and be subject to the mental stress of facing the Mother for an extended period of time. 
+26.  Accordingly, to Mr Gerald Giam’s and Ms He Ting Ru’s questions about the Government’s development plans for Black and Whites:
+
+(1) These plans are driven by master-planning considerations.
+
+(2) Taking into account specific circumstances of each set of properties where they are located, but also bearing in mind the intrinsic heritage value, and the possible uses that might be made of not just the building, but of the location and the site.
+
+(3) One also has to be sensitive to the surrounding vicinity. As I mentioned, you cannot intersperse commercial activities amidst low-intensity housing developments.
+
+(4) And within that entire framework, SLA seeks to optimise social outcomes and occupancy, and ultimately, to generate revenue where possible.
 
 {:start="27"}
-27.  Applying the new Section 11A to Ms C’s situation, the court will be empowered to make an order prohibiting the Mother from filing any further applications to revoke the protection orders in favour of Ms C, her father and her sibling without the court’s permission, if the court is satisfied that the filing of any application to revoke the protection orders will be without merit, having regard to the Mother’s conduct in past proceedings including the Mother’s series of unmeritorious applications to revoke the protection orders in the past.
+27.  These plans also seek to strike a balance between the preservation of heritage and the need to reallocate land for other uses.
 
 {:start="28"}
-28.  With greater judicial control over the filing of unnecessary applications, we hope that circumstances where parties like Ms C and her family live in fear of having to be dragged back into proceedings by estranged family members involuntarily, will be reduced. Instead, families will be given the space to heal and move on, without having to return to court repeatedly.
+28.  Another related question raised is: why not break down a large plot of land and sell it in smaller parcels?
+
+(1) Singapore’s approach to land sales is primarily based on planning and development needs, and not mainly to maximise land sales proceeds.
+
+(2) This is a considered decision that takes into account various factors.
+
+(3) URA, through the Master Plan, assesses the best uses of the land, in the overall context of land allocation in Singapore.
+
+(4) The planning considerations I have spent some time outlining are also relevant.&nbsp; It is not always tenable to break up land into smaller parcels, situated side by side but then each having a different land use. It will not place-make and in some cases, the uses may conflict with one another.
+
+(5) In addition, the State should be able to keep land parcels as a block, where appropriate, as part of its land bank. This gives URA maximum planning latitude when it comes to future masterplans.
+
+*Maintenance and upkeep of conserved Black and Whites*
     
 {:start="29"}
-29.  The new powers in Section 11A will also help to enhance the efficiency of family proceedings by giving FJC the powers to weed out unmeritorious applications which unnecessarily protract proceedings.
-    
-**ENHANCING AND CLARIFYING THE JUDGE-LED APPROACH**
+29.  Mr Leong Mun Wai and Mr Leon Perera asked about the maintenance of Black and Whites.&nbsp; As I have explained above, a portfolio of such Black and Whites are kept as residential housing. They are leased out, they are not sold, on a rental basis. They are also subject to conservation and protection requirements.
     
 {:start="30"}
-30.  Minister Shanmugam had earlier explained that the judge-led approach was introduced in 2014 to allow FJC to proactively manage the manner in which cases are run in family proceedings.
+30.  I would add that, particularly for conserved Black and Whites, and those which are protected whilst being studied for conservation, SLA invests a significant amount in upkeeping and maintaining the properties.
     
 {:start="31"}
-31.  The RERF Committee had recommended that there be greater clarity and guidance to family judges on how the judge-led approach is to be applied.
+31.  A key reason for the cost is the nature of the conservation requirements for such properties:
+
+(1) They are much older than the average property in Singapore, and require a lot more care, by way of renovation and maintenance.
+
+(2) This is consistent with other similar conserved buildings in Singapore which have to comply with the relevant guidelines imposed on them as a result of either their conservation or their protected status.
     
 {:start="32"}
-32.  This Bill will therefore clarify and strengthen the judge-led approach through three key provisions:
-    
-(a) First, providing that judges may make orders of a substantive nature on their own motion;
-    
-(b) Second, empowering judges to impose restrictions on cross-examination in circumstances prescribed in subsidiary legislation;
-    
-(c) Third, providing that the Family Justice Rules (“FJR”) may set out the modes by which a child’s wishes may be determined by the court, and this may include judicial interviews.
-    
-{:start="33"}
-33.  I will explain each provision in turn.
-    
- **New section 11B of the Family Justice Act - The Court may make orders of a substantive nature on its own motion**
+32.  The requirements to maintain a conservation property apply to many aspects of the property and are very specific:
+
+(1) For example, the guidelines will spell out the restoration requirements for the conserved building, and the alteration works that can be considered.
+
+(2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
+
+{:start="33}
+33  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
+
+(1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
+
+(2) When renovating a conserved or protected building, there is significant prescription on how the works and renovations are to be done.
+
+(3) Features such as the beams and roof of the property must remain unaffected to the extent that they reflect the architectural value of the property, which was the reason it was identified for conservation in the first place.
+
+*Limitations on upgrading Black and White*
     
 {:start="34"}
-34.  For the first key provision, the RERF Committee recommended that the court be expressly empowered to make substantive orders on its own motion.
+34.  Besides the renovations required under conservation obligations, the interior and facilities of most Black and Whites also require upgrading.
     
 {:start="35"}
-35.  The new section 11B of the Family Justice Act will implement the Committee’s recommendation.
+35.  Many Black and Whites are more than a hundred years old.
     
 {:start="36"}
-36.  Family proceedings often involve litigants-in-person, or self-represented parties. They may not be aware of the variety of orders or directions available, or which ones are needed to address their particular issues, or which may be made to safeguard the interests and well-being of their children.
+36.  And they are not like modern detached houses. Most Black and Whites lack modern amenities which we often taken for granted, and require significant effort to retrofit:
+
+(1) For example, some may lack air-conditioning, water heaters or even cooking hobs.
     
 {:start="37"}
-37.  In such situations, the new Section 11B allows the court to make the necessary orders to deal with the issues effectively, even if neither party has asked for the order specifically.
+37.  Members have seen pictures of some Black and Whites over the last couple of weeks in the press:
+
+(1) And you will see that the condition of these properties prior to tenancy, especially if they have been vacant for prolonged periods, is fairly obvious from the pictures.
     
 {:start="38"}
-38.  For instance, the court may, in the course of conducting a case conference, make interim access orders to ensure that the child continues to have contact time with a parent until the matter can be resolved through mediation or determined in a formal hearing. The court may do so even if none of the parties makes an application for an interim access order.
+38.  Therefore, quite often, incoming tenants have to undertake capital expenditure to upgrade the unit to raise it to modern standards.
+
+(1) But the conservation requirements that I just outlined, often impose constraints on how far a tenant can retrofit the properties in question.
     
 {:start="39"}
-39.  The rules of natural justice will be preserved. The court’s power to make an order of a substantive nature under section 11B may only be exercised if:
- 
-(a) Every person likely to be affected by the order is first given an opportunity to be heard concerning the order; and
-    
-(b) The court is satisfied that it is in the interests of justice to make the order.
-    
- 
-**New section 11C of the Family Justice Act - The court may impose restrictions on cross-examination in prescribed circumstances**
-    
+39.  Also, unlike owners of a property, tenants can only enjoy the benefits of retrofitting for the duration of the tenancy:
+
+(1) It is a standard term in such leases that when the tenancy lapses, the property, and everything that is upgraded by the tenant at his cost, will be returned to SLA, if SLA wishes to keep the upgrade. This clause also appears in the tenancies of both No. 26 and 31 Ridout Road.
+
+(2) In such cases, there is therefore a need to find a tenant prepared to:
+
+		a. Invest capital to upgrade the unit to meet modern day amenities.
+		b. Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
+		c. And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
+			
 {:start="40"}
-40.  The second key provision is the new section 11C of the Family Justice Act, which will empower FJC to, on its own motion, or upon the application of any party, make the following orders:
- 
-(a) An order that cross-examination of a witness be restricted in scope or duration;
-    
-(b) An order that cross-examination be conducted in any manner prescribed by the FJR.
-    
+40.  This limits the pool of prospective tenants for Black and Whites:
+
+(1) Most tenants would prefer a ready-to move in property:
+
+		a. Which they can furnish and almost immediately occupy.
+		
+(2) And not have to fork out capital expenditure.
+     
 {:start="41"}
-41.  At present, Rule 101A of the FJR already allows the Court to limit the scope and duration of cross-examination, or to disallow direct cross-examination in two situations:
-    
-(a) A family violence trial in proceedings under Part 7 of the Women’s Charter;
-    
-(b) An application under section 67(1) of the Women’s Charter to vary, suspend or revoke a protection order or an expedited order.
-    
+41.  To address this challenge, SLA has been adjusting the structure of tenancies to provide more flexibility:
+
+(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years, instead of&nbsp; 3+3+3 years so that there is a longer lead time in the initial tenancy period to recover the amortized costs of the capital expenditure.
+
+(2) This ties in with the larger goal of maximising occupancy while ensuring that the tenants are able to keep up and maintain the properties, and, where possible, also enhance and add to the property through the tenants’ capital expenditure.
+
+(3) In addition, SLA is also studying the feasibility of extending even longer leasehold periods (e.g., 30 or 60 years) in an estate en\-bloc so that a private developer can come in as the master-leaseholder and rejuvenate the entire estate and be able to upkeep the properties in the meantime, as well as reap the benefits over the longer lease period.
+
 {:start="42"}
-42.  The direct cross-examination of a victim of family violence by their alleged perpetrator can expose the victim to significant re-traumatisation. Subjecting the victims to the usual cross-examination may also affect their ability to give clear and cogent evidence in support of their case. After what has happened between them, victims may also find it challenging to effectively cross-examine their alleged perpetrator.
+42.  These are various measures which SLA is taking, amongst others, to manage the category of bungalows that are within its management portfolio to maximise the opportunities for the State to benefit from these properties.
     
+*Rental benchmark against the private residential market*
+		
 {:start="43"}
-43.  That being said, cross-examination is fundamental in testing and challenging the evidence of a witness, and to accurately determine the facts on which the court decides the matter.
+43.  Mr Don Wee had asked about the rental rate of State-owned heritage properties benchmarked against the private residential market.
     
 {:start="44"}
-44.  A balance therefore has to be struck.
+44.  Sir, the valuation of residential Black and White properties for rental is dependent on various factors:
+
+(1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
+
+		a. GFA represents the available live-in space for the tenant.
+		
+(2) As between GFA and land area, the former usually has a larger impact on the marketability of the property.
+
+(3) Other factors, such as condition of the property and location are also relevant.
     
 {:start="45"}
-45.  The RERF Committee considered the approaches in England and Australia on prohibiting cross-examination in family violence cases, and recommended that the courts should be empowered to restrict cross-examination in specified circumstances.
+45.  In his report, SM Teo has set out the comparable rental and occupancy rates for both State-owned Black and Whites as well as private properties.
     
 {:start="46"}
-46.  The new section 11C therefore provides that the court may only make the orders restricting cross-examination in circumstances to be prescribed in the FJR, for example, in circumstances where the questioning of a vulnerable witness is or is likely to be unduly intimidating and oppressive.
+46.  The following additional points can also be gleaned:
+
+(1) Rental trends of Black and Whites tend to follow the general rental market trends.&nbsp; For the relevant period in 2017-2019, market conditions were weak and generally on a downward trajectory.
+
+(2) This is evident from URA’s rental index for landed properties which showed a consistent softening of the rental market from 2015 to 2020.
+
+(3) The demand for leasing generally, and Black and Whites specifically, was much lower at that time, in the period 2017 to 2019, compared to today. The occupancy rates of State properties have generally moved in tandem with market conditions.
+
+(4) Rents of private detached homes and Black and Whites typically trended in the same direction from 2012 to 2019, though the former plunged more severely from 2020 to Q32022 and recovered more aggressively from late 2022 to 2023.
     
 {:start="47"}
 47.  The court’s powers under the new section 11C will complement its existing powers under the Evidence Act to, among others, forbid any question which appears to the court to be intended to insult or annoy or appears to be needlessly offensive.
