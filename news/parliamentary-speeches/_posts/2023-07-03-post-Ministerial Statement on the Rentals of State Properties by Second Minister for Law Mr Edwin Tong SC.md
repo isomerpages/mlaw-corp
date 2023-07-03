@@ -373,7 +373,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
 
-	**C. MANAGEMENT OF BLACK AND WHITES**
+	**C.  MANAGEMENT OF BLACK AND WHITES**
     
 {:start="48"}
 48.  So with that background, let me turn now to the various questions raised on SLA’s management of Black and Whites.
@@ -455,55 +455,238 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) I should add that these are operational concerns decided by SLA.
     
 {:start="60"}
-60.  In the new Family Justice Rules to be introduced, the simplified terminology will also be adopted. These changes will make it easier for court users and members of the public to understand family proceedings.
+60.  The usual methods employed by MAs to market the properties include:
+
+(1) Listing available properties on property portals.
+
+(2) Circulating the relevant information through its own network of agents.
+
+(3) Listing on social media as appropriate.
+
+(4) Placing “To Lease” signages on the properties itself.
     
 {:start="61"}
-61.  This will amplify the existing efforts by the Government and Judiciary to enhance access to justice, especially for persons who cannot afford legal representation, by simplifying court processes.
-    
-**MISCELLANEOUS AND TECHNICAL AMENDMENTS**
-    
+61.  The Ridout Road Estate was managed by two professional MAs at the relevant time.
+        
 {:start="62"}
-62.  The last bucket of reforms relates to various miscellaneous and technical amendments to clarify, enhance and streamline processes in the FJC.
+62.  No. 26 and 31 Ridout Road were managed by the same MA –DTZ Facilities &amp; Engineering (S) Limited up to 31 Mar 2018, and Colliers International Consultancy &amp; Valuation (Singapore) Pte. Ltd. from 1 Apr 2018:
+
+(1) The MAs decided how the properties would be marketed.
+
+(2) They could tap into their network of private agents; advertise on social media, and allow for there to be this exchange of information between agents who might, for example in some cases, choose to co-broke the marketing of a property.
     
 {:start="63"}
-63.  I will elaborate on two of the amendments.
+63. Mr Zhulkarnain had asked what steps were taken by SLA to market the two properties to be leased:
+
+(1) As highlighted, both properties were under the same MA at that time, who decided on the best way to market them.
+
+(2) For No. 26 Ridout Road, it was marketed by the MA from the time the previous tenant pre-terminated, in December 2013. The usual methods as I have outlined above would have been carried out. However, there were no offers.
+
+(3) The MA then decided to undertake some minor works to make the property more presentable to prospective tenants. This was done around late 2016. Thereafter, the property was marketed by the MA again and the usual methods of marketing would have been deployed.
+
+(4) The MA had also broadcast the property to their network of private agents who deal with and transact in such properties.
+
+(5) For No. 31 Ridout Road, the MA undertook the usual methods of marketing, as above. In this case, it chose to list the property on SPIO.
+
+(6) In addition, it also granted a local film company access to film an interactive arts performance at the property. This was then used as an opportunity to showcase the property.
+
+(7) This process was consistent with the approach taken by SLA to all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
     
+Valuation
+		
 {:start="64"}
-64.  First, on mediation and other alternative dispute resolution process or “ADR process” for short:
-    
-(a) Currently, the Family Justice Act provides that a Family Court or Youth Court, respectively, may, on its own motion or upon the application of any party, order any party or any child who is the subject of proceedings, to undergo mediation or counselling, or to participate in any family support programme or activity.
- 
-(b) The court also has powers to order a party or child to undergo other ADR processes, or to attend professional clinical or therapeutic intervention sessions. The Bill will clarify in the FJA that a Family Court or Youth Court has such powers.
-    
-(c) The Bill will also clarify in legislation the existing powers of the Court to appoint Judicial officers, officers of the FJC or any other persons (such as volunteer lawyers), to conduct mediations or other ADR processes.
-    
-(d) Amendments will also be made to provide that a Family Court or Youth Court may make the appropriate and necessary orders where a person fails to comply with the court’s orders to attend mediation or other ADR process, such as an order staying proceedings until the orders are complied with.
+64.  Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
+
+(1) These valuations are conducted by professional valuers within the MA or SLA respectively.
+
+(2) The valuation team uses established industry principles and methods for valuation:
+
+		a. Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
+		
+(3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
+
+		a. The leasing team would submit a request for valuation of a particular property.
+		b. Setting out the parameters of the proposed lease of the property, and
+		c. The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
-65.  Second, the Bill will adopt section 43 of the State Courts Act which applies to a District Court, by expressly providing that the Family Court may order that a judgment sum be paid in a lump sum or by instalments, and may order that a judgment be suspended or stayed if the judgment debtor is unable to pay the sum.
-    
-(a) The amendments will align the position under the FJA with that in section 43 of the State Courts Act.
- 
-(b) Depending on the circumstances of the case, in certain situations, instead of incurring time and costs in enforcement or bankruptcy proceedings, it may be more sensible, and in the interests of both parties, for the court to grant a short reprieve to the judgment debtor, or to allow the judgment debtor to pay the judgment creditor by way of instalments. This is especially important in family proceedings where further litigation would put an additional strain on the fractured relationship, and adversely impact children involved in the proceedings.
-    
+65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
+
+(1) The premise is that a potential tenant would be willing to pay similar rent to a comparable property that is available for rental, and this gives a good gauge of the market.
+
+(2) Hence, when valuing a Black and White bungalow, a comparable property is considered which takes into account the factors identified earlier –location, floor area, condition and so on.
+        
 {:start="66"}
-66.  I will not go into details on all the other amendments under the Bill, but members are free to raise any questions that they may have on those amendments.
-    
-**CONCLUSION**
-    
+66.  The valuation team also has regard to the prevailing market conditions and other contextual factors:
+
+(1) For instance, in a falling market such as in 2018, the valuer takes into account the trends in the neighbouring comparable properties, making adjustments for outliers where appropriate.
+       
 {:start="67"}
-67.  To conclude, I would like to express our gratitude to the members of the RERF Committee for their recommendations, and the stakeholders and members of the public who have taken the time to give us feedback on the family justice system.
+67.  The valuation is for the purpose of determining the Guide Rent for a given property.
     
 {:start="68"}
-68.  With your feedback and suggestions, we were better able to shape the reforms in this Bill to resolve the real issues faced by families and children in family proceedings and to better protect, restore and heal families and children.
+68.  The independent SLA Valuation team which looks at valuation for Black and Whites will assess the market value and give the Leasing division a baseline that must be achieved for the property in question. They do not know the identities of the prospective tenants or the actual rent negotiated with them.
+
+*Leasing*
     
 {:start="69"}
-69.  Time will be required, and work will need to be put in to operationalize some of the changes in this Bill, including the Maintenance Enforcement Process.
+69.  I turn to the final aspect in managing Black and White, the leasing process.
     
 {:start="70"}
-70.  We hope you will continue to give us support and feedback, to operationalize the reforms.
+70.  Mr Leong Mun Wai, Mr Murali Pillai and Mr Leon Perera have raised specific questions on SLA’s bidding process, including how long the bidding was open for 26 Ridout Road after Minister Shanmugam’s bid was received.
     
 {:start="71"}
-71.  Thank you.
+71.  In general, there are two modalities for leasing of all residential state properties, and that includes Black and Whites:
+
+(1) The first is open bidding.
+
+(2) The other is direct letting.
+
+(3) In this case, both 26 and 31 Ridout Road were allocated on the basis of direct letting.
+
+{:start="72"}
+72. Let me explain these two modalities:
+
+(1) Today, under an open bidding allocation:
+
+		a. The property would be listed on SPIO for at least 14 days.
+		b. This is called the notice period.
+		c. Thereafter, there is a 5-day bidding window.
+		
+(2) During the notice period, either SLA or the MA, depending on which property is being asked about and whether it is under their portfolio, will also organise open houses for the property in question.
+
+(3) Once the bidding window closes, the tenancy is offered to the highest bidder:
+
+		a. This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
+
+(4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
+
+(5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
+
+		a. Ms Hazel Poa asked about the reason for this 6-month period.
+		b. The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
+		c. Therefore, it is no longer listed on SPIO after 6 months.
+
+{:start="73"}
+73. The second modality is direct letting:
+
+(1) Under direct letting, the MA or SLA receive offers directly.
+
+(2) Their offers can be accepted if the bids meet or exceed the prevailing guide rent.
+
+(3) These offers are not published.
+
+{:start="74"}
+74. The decision as to whether to allocate specific properties to direct letting or open bidding, within an estate for which direct letting is permitted, is left to the discretion of the relevant MA or the SLA portfolio manager.
+
+{:start="75"}
+75. In making this decision, the following general trend is considered:
+
+(1) Estates identified for direct letting are generally one of two categories:
+
+		a. Those with low occupancy rates.
+		b. Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
+		c. An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
+		
+{:start="76"}
+76. Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
+
+{:start="77"}
+77. Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
+
+(1) For State land and State properties, the President’s agreement is required if such land or properties are to be disposed of below Fair Market Value such that there would be a draw on Past Reserves.
+
+(2) 2.  The grant of tenancies of State properties by SLA is not a disposal of State properties.
+
+**D.  WORKS ON THE PROPERTIES**
+
+{:start="78"}
+78. Next, let me turn to the works on the properties. Mr Leong Mun Wai and Mr Leon Perera have asked about the improvement and maintenance works carried out at both properties.&nbsp; Let me explain this.
+
+{:start="79"}
+79. For context, Members will recall that both these properties have been gazetted for conservation, and SLA is responsible for the maintenance works based on the conservation and restoration guidelines that I mentioned earlier.
+
+{:start="80"}
+80. Let me illustrate what this means, with a few examples relevant to the two properties:
+
+(1) For the Main Roof, the original profile, pitch, height and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
+
+(2) Structural strengthening or supports like steel or reinforced concrete roof beams, if required to be added, have to be done in a way that is sensitively designed to minimise visual impact on the traditional timber system to be retained.
+
+(3) Another example is the architectural features of the building facades.&nbsp; The original fanlights, windows, doors and vents are to be retained and restored. Internally, owners may be required to keep such original finishes of the internal ceiling/wall/floor that give a distinctive character to the building.
+
+(4) Thus, all works have to be done in a manner which preserves the architectural style and features of the Black and White bungalows as defined by URA.
+
+(5) All of this has a significant impact on the costs of the repairs.
+
+{:start="81"}
+81. Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
+
+{:start="82"}
+82. While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
+
+{:start="83"}
+83. For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
+
+{:start="84"}
+84. The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
+ 
+ {:start="85"}
+85. A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
+
+ {:start="86"}
+86. This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
+
+ {:start="87"}
+87. For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
+
+ {:start="88"}
+88. In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
+
+(1) These are the usual works done shortly before the property is handed over to a new tenant, to ensure that the property is habitable.
+
+(2) For No. 26 Ridout Road, the works included painting, pest control and removal of mould. All this cost around $140,000.
+
+(3) For No. 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of these sprucing up works cost around $118,000.
+
+ {:start="89"}
+89. The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
+ 
+ {:start="90"}
+90. On the clearance of the additional land for 26 Ridout Road, as I mentioned, the costs were fully recovered from the tenant by amortising it through the rental collected over the period of tenancy.
+
+ {:start="91"}
+91. Turning to the works done by the tenants themselves, Minister Shanmugam offered to and did invest in substantial improvement works to the property.
+
+ {:start="92"}
+92. This included a new air\-conditioning system, building a new carpark shelter, constructing a swimming pool, installing garden lights, and upgrading the toilets as well as adding trees and other planting.
+
+ {:start="93"}
+93. Minister Shanmugam spent in excess of $400,000 on these improvement works:
+
+(1) All improvement works undertaken by the tenant become the property of the landlord.
+
+(2) And revert to State ownership when the property is returned to SLA.
+
+(3) This, as I mentioned earlier, is established practice, for all tenancies requiring capital expenditure.
+
+(4) These works are in the nature of capital expenditure and they seek to enhance the value of the properties.
+
+ {:start="94"}
+94. Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
+
+**E.  TREE CLEARANCE**
+ {:start="95"}
+95. Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
+
+{:start="96"}
+96. Both properties are located within the Tree Conservation Area:
+
+(1) Any tree within a Tree Conservation Area with more than a 1 metre girth would require NParks’ approval to be felled.
+
+*No. 26 Ridout Road*
+
+{:start="97"}
+97. Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
  
 <p class="right-side-updated">Last updated on 08 May 2023</p>
