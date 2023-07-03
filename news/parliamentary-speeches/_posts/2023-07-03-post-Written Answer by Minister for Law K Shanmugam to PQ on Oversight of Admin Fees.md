@@ -15,7 +15,8 @@ image: ""
 the public subjected to such fees have.
 
 <b><u>Written Answer:</u></b>
-<br> {:start="1"}
+
+{:start="1"}
 1. Pawnbrokers and licensed moneylenders operate under different regulatory regimes. They have different frameworks applicable to the regulation of administrative fees charged.
 
 {:start="2"}
