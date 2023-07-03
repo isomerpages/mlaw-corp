@@ -38,9 +38,9 @@ image: ""
 
 (3) SLA acted properly:
 			
-			a. It sought at all times to achieve a commercially viable outcome.
-			b. Which would secure its interests, as Landlord, and also as manager of the State properties.
-			c. In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
+a. It sought at all times to achieve a commercially viable outcome.
+b. Which would secure its interests, as Landlord, and also as manager of the State properties.
+c. In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
     
 {:start="4"}
 4.  This is validated by the findings of the independent review conducted by Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, which you heard earlier, and the investigation by the Corrupt Practices Investigation Bureau (CPIB).&nbsp; Members would have heard SM’s speech in this House.
@@ -54,26 +54,26 @@ image: ""
 
 (3) Following this investigation, CPIB found that the rules were applied fairly for both rental transactions.&nbsp; It was established that:
 
-			a. There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
-			b. The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
-			c. No preferential treatment was given to the Ministers and their spouses.
-			d. There was no disclosure of privileged information in the process.
-			e. There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
+a. There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
+b. The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
+c. No preferential treatment was given to the Ministers and their spouses.
+d. There was no disclosure of privileged information in the process.
+e. There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
     
 {:start="6"}
 6.  Sir, to address the remaining PQs, I will organise my speech as follows:
 
 (1) First, I will set out the contextual background against which Members’ questions arise:
 
-			a. Starting with a brief outline of the nature of Black and Whites.
-			b. And explain the value which they have in Singapore as heritage properties, having historical and architectural significance.
-			c. I will then set out SLA’s management strategy concerning these older, heritage properties, including Black and Whites.
+a. Starting with a brief outline of the nature of Black and Whites.
+b. And explain the value which they have in Singapore as heritage properties, having historical and architectural significance.
+c. I will then set out SLA’s management strategy concerning these older, heritage properties, including Black and Whites.
 
 (2) Next, I will outline SLA’s management approach to these properties, covering the questions of:
 
-			a. Marketing;
-			b. Valuation; and
-			c. Leasing
+a. Marketing;
+b. Valuation; and
+c. Leasing
 			
 Which members have raised.&nbsp;&nbsp;&nbsp;
 
@@ -81,8 +81,8 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) Finally, I will deal with some specific queries raised in relation to:
 
-			a. The two leases, for 26 and 31 Ridout Road.
-			b. And also address SLA’s approach in undertaking these transactions.
+a. The two leases, for 26 and 31 Ridout Road.
+b. And also address SLA’s approach in undertaking these transactions.
     
 **B.   SLA’S MANAGEMENT OF BLACK AND WHITE**    
 
