@@ -10,7 +10,7 @@ image: ""
 3 July 2023 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1. MinLaw has introduced two Bills <sup><a href="#fn1" id="ref1">1</a></sup> in Parliament to provide individuals and businesses in Singapore the option to make statutory declarations (“SDs”), oaths and affirmations (“OAs”), and to notarise documents through remote means. This is in line with the Government’s ongoing efforts to facilitate electronic transactions, so as to bring greater convenience and efficiency for individuals and businesses in Singapore. 
+1. MinLaw has introduced two Bills <sup><a href="#fn1" id="ref1">1</a></sup> in Parliament to provide individuals and businesses in Singapore the option to make statutory declarations (“**SDs**”), oaths and affirmations (“**OAs**”), and to notarise documents through remote means. This is in line with the Government’s ongoing efforts to facilitate electronic transactions, so as to bring greater convenience and efficiency for individuals and businesses in Singapore. 
 
 **Background and Overview**
 
@@ -24,8 +24,8 @@ image: ""
 
 {:start="4"} 
 4. The legislative framework has two key features: 
-<ul> a. <u>Electronic meetings:</u> Clients who need to make a SD or OA, or notarise documents, may appear before an authorised service provider using video conferencing platforms, or other electronic means that meet certain minimum requirements. <sup><a href="#fn3" id="ref3">3</a></sup> </ul>
-<ul> b. <u> Electronic signing: </u> Signature requirements can be satisfied electronically. In order to enhance the reliability of the electronic document and safeguard against fraud, the framework will require that specified modes of electronic signatures must be used in certain circumstances. These requirements will be set out in subsidiary legislation.<sup><a href="#fn4" id="ref4">4</a></sup></ul>
+<br> a. <u>Electronic meetings:</u> Clients who need to make a SD or OA, or notarise documents, may appear before an authorised service provider using video conferencing platforms, or other electronic means that meet certain minimum requirements. <sup><a href="#fn3" id="ref3">3</a></sup>
+<br> b. <u> Electronic signing: </u> Signature requirements can be satisfied electronically. In order to enhance the reliability of the electronic document and safeguard against fraud, the framework will require that specified modes of electronic signatures must be used in certain circumstances. These requirements will be set out in subsidiary legislation.<sup><a href="#fn4" id="ref4">4</a></sup>
 
 {:start="5"}
 5. Existing in-person and paper-based processes remain available.
