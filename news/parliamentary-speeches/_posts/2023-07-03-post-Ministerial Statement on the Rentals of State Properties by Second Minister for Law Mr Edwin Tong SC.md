@@ -358,68 +358,101 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) Rents of private detached homes and Black and Whites typically trended in the same direction from 2012 to 2019, though the former plunged more severely from 2020 to Q32022 and recovered more aggressively from late 2022 to 2023.
     
+(5) This trend has a direct correlation to the occupancy rates at the Ridout properties:
+
+		a. In January 2018, the occupancy at Ridout Road estate was 71%.
+		b. This increased to 100% occupancy in January 2022.
+		c. And has stayed at 100% since that time.
+		d. In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
+		e. Since 2020, no tenant has requested pre-termination.
+		
 {:start="47"}
-47.  The court’s powers under the new section 11C will complement its existing powers under the Evidence Act to, among others, forbid any question which appears to the court to be intended to insult or annoy or appears to be needlessly offensive.
-    
-**New section 46(ha) of the Women’s Charter - The FJR may set out the modes by which a child’s wishes may be determined by the court**
+47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
+
+(1) The average land area rent per square foot per month for private detached homes in GCB areas is between 3 to 5 times higher compared to the comparable rent for land area for Black and Whites.
+
+(2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
+
+	**C. MANAGEMENT OF BLACK AND WHITES**
     
 {:start="48"}
-48.  The third key provision in the Bill provides that the FJR may set out the modes by which the wishes of a child may be determined by the court. The intention is for the prescribed modes to expressly include interviews conducted by a judge with a child, in addition to the variety of other methods which may be used to hear a child’s voice such as through the Child Representatives or an assessment by a mental health professional.
+48.  So with that background, let me turn now to the various questions raised on SLA’s management of Black and Whites.
     
 {:start="49"}
-49.  In the context of matrimonial proceedings under the Women’s Charter, section 125 of the Women’s Charter provides that in deciding in whose custody a child should be placed, the paramount consideration shall be the welfare of the child.
+49.  Various Members of this House – including Mr Louis Chua, Mr Murali Pillai, Mr Don Wee, Ms Hazel Poa and Mr Leon Perera – have asked about aspects of the process by which SLA manages such leases. Mr Sitoh Yih Pin also asked about SLA’s standard tenancy operating procedures.
     
 {:start="50"}
-50.  Section 125 also specifically requires the court to have regard to:
-    
-(a) The wishes of the parents; and
-    
-(b) The wishes of a child where he or she is of an age to express an independent opinion.
+50.  SLA manages land resources for Singapore’s economic and social development:
+
+(1) Therefore, SLA supports social uses, even whilst it seeks to maximise occupancy of Black and Whites.
     
 {:start="51"}
-51.  However, section 125 does not provide for the modes by which the child’s wishes may be determined.
+51.  Managing Black and Whites like any portfolio of real estate assets, requires an appreciation of market conditions and its dynamics, and being adaptable to the demands of the market.
     
 {:start="52"}
-52.  The RERF Committee, in its report, discussed the benefits of judges conducting interviews with children and noted that in Singapore, there have been cases where judges have conducted interviews with children to reach outcomes that serve the interests of the child.
+52.  In respect of its portfolio of Black and Whites:
+
+(1) Some properties are managed directly by SLA, and others are managed by Managing Agents (“MAs").
+
+(2) SLA diversifies the management of its portfolio to include private sector MAs as they are professional organisations, experienced in managing properties in the public and private markets.
+
+(3) In addition to their expertise, they have their own networks and portals through which they can market the properties that they are managing. This allows SLA to access a wider market.
+
+(4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
+		a. It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
+		b. E.g. when there are requests beyond the scope of an MA’s mandate:
+			* 		e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
+		c. or where discussions arise on issues that an MA does not usually handle:
+			* 		e.g., privacy, security and other issues.
+		
+(5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
+		
+*Marketing*
+		
 {:start="53"}
-53.  An example of such a case is AZB v AZC \[2016\] SGHCF 1. In that case:
-    
-(a) The High Court Judge interviewed three children between the ages of 11 to 13 in a dispute between their parents on care and control and access arrangements.
-    
-(b) The Judge noted that:
- 
-* There were indications that the children wished to speak with her;
- 
-* The children were mature enough to express their views on matters that impacted their lives.
- 
-(c) In deciding that it would be in the children’s welfare to increase the access time with their mother, the Judge relied on, among other things, the Judge’s conversations with the children which corroborated the finding that the children enjoyed access time with their mother.
-    
+53.  When marketing a property, the aim is to maximise occupancy, which the MAs are incentivised to do under the terms of their agreement with SLA.
+
 {:start="54"}
-54.  The Committee mentioned that there has been research highlighting children’s wishes to be more involved in the decisions that may affect their lives profoundly, and their dissatisfaction with the indirect processes that are available to them.
+54.  As with all forms of marketing and advertising, it is necessary to adapt the strategy to match prevailing market conditions.
     
 {:start="55"}
-55.  The Committee recommended therefore that it should be made clear that the judge-led approach allows for a judge to interview a child.
+55.  The general market practice in the real estate industry is that when market conditions are good and demand exceeds supply, almost all vacant properties will be posted on public platforms:
+
+(1) In the case of State properties, this will be the State Property Information Online portal (“SPIO”).
+
+(2) This is because in a buoyant market, with strong interest, take up would be likely.
     
 {:start="56"}
-56.  It should be noted that each case is unique, with different considerations applying to each family and each child. It is not in every case that a judicial interview of children is suitable. In some cases, the court may assess that it would be more appropriate to appoint a Child Representative, who is a trained professional appointed by the court to represent the voice of a child and present an objective assessment of care arrangements which are in the child’s best interest, or other professional, to hear from the child.
-    
-**SIMPLIFYING COURT TERMINOLOGY**
+56.  When property market conditions are poor, however, and supply exceeds demand, or if occupancy in certain estates is low, SLA and its MAs would avoid listing all vacant properties online:
+
+(1) Listing all properties would result in them visibly competing for the limited demand.
+
+(2) This runs the risk of driving the price down, depressing outcomes for the landlord.
     
 {:start="57"}
-57.  Moving on to the next bucket of reforms, the Bill will amend various pieces of legislation to modernise and simplify nomenclature for family proceedings.
+57.  In respect of property marketing:
+
+(1) Today, all residential State properties available for rent are listed SPIO.
+
+(2) They are listed for at least 14 days.
+
+(3) This practice was implemented following a review in Aug 2022, taking into account prevailing market conditions at that time.
     
 {:start="58"}
-58.  For example:
-    
-(a) “Plaintiff” will be replaced by “Applicant”;
+58.  At the material time, in 2018/2019, there was no requirement to list all the properties on SPIO. SLA and its MA had the discretion on whether to list the properties they managed on SPIO.
  
-(b) “Defendant” will be replaced by “Respondent”; and
- 
-(c) “Writ for divorce” will be replaced by “originating application for divorce”.
-    
 {:start="59"}
-59.  This will be in line with the amendments made to court terminology in civil court proceedings under the Courts (Civil and Criminal Justice) Reform Act 2021 and the Rules of Court 2021.
+59.  For completeness and context, let me explain SLA’s policy and thinking on whether to list its properties on SPIO driven by prevailing market conditions:
+
+(1) In 2007, experiencing high demand, SLA required open bidding, which in turn necessitated all residential properties managed by its MAs to be put on the SPIO.
+
+(2) Later, the market softened. The success rate of residential State properties allocated through open bidding dropped. SLA then adjusted its policy to allow direct letting for specified estates, particularly for those with less than 80% occupancy:
+
+		a. SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
+		b. In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
+		
+(3) I should add that these are operational concerns decided by SLA.
     
 {:start="60"}
 60.  In the new Family Justice Rules to be introduced, the simplified terminology will also be adopted. These changes will make it easier for court users and members of the public to understand family proceedings.
