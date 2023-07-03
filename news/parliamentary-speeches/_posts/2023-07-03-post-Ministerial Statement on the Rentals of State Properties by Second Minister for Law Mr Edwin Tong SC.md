@@ -264,7 +264,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
 
-{:start="33}
+{:start="33"}
 33  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
 
 (1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
@@ -688,5 +688,103 @@ Valuation
 
 {:start="97"}
 97. Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
+
+{:start="98"}
+98. After the tenancy commenced:
+
+(1) The tenant periodically raised concerns about the structural and health conditions of the older trees, including in one instance after a neighbour expressed concerns about safety.
+
+(2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
+
+		a. The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
+		
+(3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
+
+(4) 19 trees of girth size more than 1 metre were removed on various occasions since the tenancy commenced about 4.5 years ago, each time upon feedback that the trees may pose safety issues.
+
+(5) For 18 of the 19 trees, there were independent arborist reports:
+
+		a. These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
+		b. The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
+		c. NParks also conducted site visits to inspect the trees in person, where necessary.
+		d. And it was only thereafter that the trees were removed.
+
+(6) The one tree which did not require an arborist report had failed in bad weather. NParks’ approval was obtained to fell or remove the rest of the tree that had already failed.
+
+{:start="99"}
+99. The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
+
+*No. 31 Ridout Road*
+{:start="100"}
+100. 31 Ridout Road was also in the Tree Conservation Area.
+
+{:start="101"}
+101. Likewise, felling of any trees with more than a 1 metre girth needs NParks’ approval.
+
+{:start="102"}
+102. Approval was granted by NParks to remove 24 such trees after an independent arborist assessment showed that these trees were at risk of failure and posed safety concerns.
+
+{:start="103"}
+103. Likewise, the trees were felled after NParks gave the approvals. And this was done prior to the start of the tenancy.
+
+**F.  THE TENANCIES OF NO. 26 AND 31 RIDOUT ROAD**
+
+{:start="104"}
+104. Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
+
+{:start="105"}
+105. Mr Murali Pillai also asked if the process was fair, transparent and competitive.
+
+{:start="106"}
+106. Sir, let me go back to CPIB’s conclusions. It found no evidence of corruption or wrongdoing in either of the two rental transactions. It had examined the direct letting of the properties to Ministers Shanmugam and Vivian, and found that they were applied fairly.
+
+{:start="107"}
+107. The internal processes and standards as regards marketing, valuation and leasing were adhered to scrupulously by SLA, with no preferential treatment being given to either Minister. The Ministers had access only to publicly available information concerning the leases.
+
+{:start="108"}
+108. I have described in detail how SLA handled the process:
+
+(1) For both properties, offers of rental were made which met the Guide Rent.
+
+(2) In addition, both tenants would be making substantial capital expenditure to renovate and enhance the properties.
+
+(3) SLA would then be able to retain these enhancements at the end of the tenancy period.&nbsp; This would add value to any subsequent tenancy, for SLA, and also be set off against the works which SLA had to undertake to renovate and refurbish the properties which I have taken Members through.
+
+(4) It should also be borne in mind that both these offers were made at a time when the rental market in Singapore was depressed.&nbsp; The previous tenant of No. 26 Ridout Road had pre-terminated their lease, and no viable offers were received in the intervening period for either property.
+
+(5) In addition, in the case of No. 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
+
+{:start="109"}
+109. In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
+
+(1) The specific valuer handling the request for valuation of No. 26 Ridout Road did not know who the potential tenant was.
+
+(2) And SM Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
+
+*AGO audits*
+{:start="110"}
+110. Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
+
+{:start="111"}
+111. AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
+
+{:start="112"}
+112. However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
+
+**G.  CONCLUSION**
+{:start="113"}
+113. Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
+
+{:start="114"}
+114. I thank Members for their questions.
+
+{:start="115"}
+115. It has provided me with an opportunity to lay out the facts clearly, fully, relating to these two tenancies.
  
+{:start="116"} 
+116. I welcome any further clarifications which Members may have subsequently.
+
+{:start="117"} 
+117. Thank you, Sir.
+
 <p class="right-side-updated">Last updated on 08 May 2023</p>
