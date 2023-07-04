@@ -81,8 +81,8 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) Finally, I will deal with some specific queries raised in relation to:
 
-a. The two leases, for 26 and 31 Ridout Road.
-b. And also address SLA’s approach in undertaking these transactions.
+* The two leases, for 26 and 31 Ridout Road.
+* And also address SLA’s approach in undertaking these transactions.
     
 **B.   SLA’S MANAGEMENT OF BLACK AND WHITE**    
 
@@ -159,8 +159,8 @@ a. For example, Sembawang and Seletar.
 
 (2) The planning parameters determine how such land can be used, and for what purpose:
 
-a. For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
-b. Or alternatively, whether it is zoned only for low intensity, landed properties only.
+* For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
+* Or alternatively, whether it is zoned only for low intensity, landed properties only.
 
 (3) Where possible, we will also consider if these properties can be modified for other uses or be integrated as part of new developments, with a view to rejuvenating and revitalising the area. This allows for modernisation of the estate while preserving the property’s core heritage value.
 
@@ -201,19 +201,19 @@ b. Or alternatively, whether it is zoned only for low intensity, landed properti
 
 (3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
     
-a. The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
-b. Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
+* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
 		
 (4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
 
 (5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
 
-a. For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
+* For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
 	
 (6) As I said, one has to bear in mind the specific context in which the estate is found, and also the Master Plan. If the Black and Whites are located amidst or amongst a landed enclave, such as in Ridout Road or perhaps Nassim Road, an area that is zoned for landed properties, removing the Black and Whites, or redeveloping them and the land around it, will not change the area much:
 
-a. The cleared land can only then be similarly used for low intensity development.
-b. It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
+* The cleared land can only then be similarly used for low intensity development.
+* It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
 	
 {:start="26"}
 26.  Accordingly, to Mr Gerald Giam’s and Ms He Ting Ru’s questions about the Government’s development plans for Black and Whites:
@@ -303,16 +303,16 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (2) In such cases, there is therefore a need to find a tenant prepared to:
 
-a. Invest capital to upgrade the unit to meet modern day amenities.
-b. Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
-c. And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
+* Invest capital to upgrade the unit to meet modern day amenities.
+* Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
+* And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
 			
 {:start="40"}
 40.  This limits the pool of prospective tenants for Black and Whites:
 
 (1) Most tenants would prefer a ready-to move in property:
 
-a. Which they can furnish and almost immediately occupy.
+* Which they can furnish and almost immediately occupy.
 		
 (2) And not have to fork out capital expenditure.
      
@@ -338,7 +338,7 @@ a. Which they can furnish and almost immediately occupy.
 
 (1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
 
-a. GFA represents the available live-in space for the tenant.
+* GFA represents the available live-in space for the tenant.
 		
 (2) As between GFA and land area, the former usually has a larger impact on the marketability of the property.
 
@@ -360,11 +360,11 @@ a. GFA represents the available live-in space for the tenant.
     
 (5) This trend has a direct correlation to the occupancy rates at the Ridout properties:
 
-a. In January 2018, the occupancy at Ridout Road estate was 71%.
-b. This increased to 100% occupancy in January 2022.
-c. And has stayed at 100% since that time.
-d. In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
-e. Since 2020, no tenant has requested pre-termination.
+* In January 2018, the occupancy at Ridout Road estate was 71%.
+* This increased to 100% occupancy in January 2022.
+* And has stayed at 100% since that time.
+* In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
+* Since 2020, no tenant has requested pre-termination.
 		
 {:start="47"}
 47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
@@ -373,7 +373,7 @@ e. Since 2020, no tenant has requested pre-termination.
 
 (2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
 
-	**C.  MANAGEMENT OF BLACK AND WHITES**
+**C.  MANAGEMENT OF BLACK AND WHITES**
     
 {:start="48"}
 48.  So with that background, let me turn now to the various questions raised on SLA’s management of Black and Whites.
@@ -400,11 +400,11 @@ e. Since 2020, no tenant has requested pre-termination.
 
 (4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
-a. It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
-b. E.g. when there are requests beyond the scope of an MA’s mandate:
-* e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
-c. or where discussions arise on issues that an MA does not usually handle:
-* e.g., privacy, security and other issues.
+* It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
+* E.g. when there are requests beyond the scope of an MA’s mandate:
+		* e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
+* or where discussions arise on issues that an MA does not usually handle:
+		* e.g., privacy, security and other issues.
 		
 (5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
 		
