@@ -401,10 +401,8 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
 * It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
-* E.g. when there are requests beyond the scope of an MA’s mandate:
-		* e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
-* or where discussions arise on issues that an MA does not usually handle:
-		* e.g., privacy, security and other issues.
+* E.g. when there are requests beyond the scope of an MA’s mandate: e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
+* or where discussions arise on issues that an MA does not usually handle: e.g., privacy, security and other issues.
 		
 (5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
 		
