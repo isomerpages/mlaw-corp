@@ -121,7 +121,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 12. These bungalows are a part of Singapore’s history.
 
 (1) Some are located in areas where the British naval and air bases used to be:&nbsp;&nbsp;
-a. For example, Sembawang and Seletar.
+* For example, Sembawang and Seletar.
     
 {:start="13"}
 13.  At present, there are 36 conserved Black and Whites, and a further 235 State-owned Black and Whites are marked for study for conservation and hence in the meantime, they are protected.
