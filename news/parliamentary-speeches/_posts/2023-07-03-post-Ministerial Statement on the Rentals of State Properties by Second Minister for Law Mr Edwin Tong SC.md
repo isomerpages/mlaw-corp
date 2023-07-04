@@ -594,7 +594,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) For State land and State properties, the President’s agreement is required if such land or properties are to be disposed of below Fair Market Value such that there would be a draw on Past Reserves.
 
-(2) 2.  The grant of tenancies of State properties by SLA is not a disposal of State properties.
+(2) The grant of tenancies of State properties by SLA is not a disposal of State properties.
 
 **D.  WORKS ON THE PROPERTIES**
 
