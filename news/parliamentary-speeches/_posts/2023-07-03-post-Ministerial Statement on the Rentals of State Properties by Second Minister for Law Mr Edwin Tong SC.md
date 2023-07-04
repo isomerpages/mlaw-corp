@@ -474,7 +474,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (2) They could tap into their network of private agents; advertise on social media, and allow for there to be this exchange of information between agents who might, for example in some cases, choose to co-broke the marketing of a property.
     
 {:start="63"}
-63. Mr Zhulkarnain had asked what steps were taken by SLA to market the two properties to be leased:
+63.  Mr Zhulkarnain had asked what steps were taken by SLA to market the two properties to be leased:
 
 (1) As highlighted, both properties were under the same MA at that time, who decided on the best way to market them.
 
@@ -543,7 +543,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) In this case, both 26 and 31 Ridout Road were allocated on the basis of direct letting.
 
 {:start="72"}
-72. Let me explain these two modalities:
+72.  Let me explain these two modalities:
 
 (1) Today, under an open bidding allocation:
 
@@ -566,7 +566,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * Therefore, it is no longer listed on SPIO after 6 months.
 
 {:start="73"}
-73. The second modality is direct letting:
+73.  The second modality is direct letting:
 
 (1) Under direct letting, the MA or SLA receive offers directly.
 
@@ -575,10 +575,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) These offers are not published.
 
 {:start="74"}
-74. The decision as to whether to allocate specific properties to direct letting or open bidding, within an estate for which direct letting is permitted, is left to the discretion of the relevant MA or the SLA portfolio manager.
+74.  The decision as to whether to allocate specific properties to direct letting or open bidding, within an estate for which direct letting is permitted, is left to the discretion of the relevant MA or the SLA portfolio manager.
 
 {:start="75"}
-75. In making this decision, the following general trend is considered:
+75.  In making this decision, the following general trend is considered:
 
 (1) Estates identified for direct letting are generally one of two categories:
 
@@ -587,10 +587,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
-76. Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
+76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
 
 {:start="77"}
-77. Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
+77.  Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
 
 (1) For State land and State properties, the President’s agreement is required if such land or properties are to be disposed of below Fair Market Value such that there would be a draw on Past Reserves.
 
@@ -599,13 +599,13 @@ It would also be useful, as we deal with these commercial questions, to have reg
 **D.  WORKS ON THE PROPERTIES**
 
 {:start="78"}
-78. Next, let me turn to the works on the properties. Mr Leong Mun Wai and Mr Leon Perera have asked about the improvement and maintenance works carried out at both properties.&nbsp; Let me explain this.
+78.  Next, let me turn to the works on the properties. Mr Leong Mun Wai and Mr Leon Perera have asked about the improvement and maintenance works carried out at both properties.&nbsp; Let me explain this.
 
 {:start="79"}
-79. For context, Members will recall that both these properties have been gazetted for conservation, and SLA is responsible for the maintenance works based on the conservation and restoration guidelines that I mentioned earlier.
+79.  For context, Members will recall that both these properties have been gazetted for conservation, and SLA is responsible for the maintenance works based on the conservation and restoration guidelines that I mentioned earlier.
 
 {:start="80"}
-80. Let me illustrate what this means, with a few examples relevant to the two properties:
+80.  Let me illustrate what this means, with a few examples relevant to the two properties:
 
 (1) For the Main Roof, the original profile, pitch, height and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
 
@@ -618,28 +618,28 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (5) All of this has a significant impact on the costs of the repairs.
 
 {:start="81"}
-81. Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
+81.  Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
 
 {:start="82"}
-82. While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
+82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
 
 {:start="83"}
-83. For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
+83.  For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
 
 {:start="84"}
-84. The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
+84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
  
  {:start="85"}
-85. A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
+85.  A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
 
  {:start="86"}
-86. This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
+86.  This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
 
  {:start="87"}
-87. For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
+87.  For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
 
  {:start="88"}
-88. In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
+88.  In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
 
 (1) These are the usual works done shortly before the property is handed over to a new tenant, to ensure that the property is habitable.
 
@@ -648,19 +648,19 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) For No. 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of these sprucing up works cost around $118,000.
 
  {:start="89"}
-89. The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
+89.  The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
  
  {:start="90"}
-90. On the clearance of the additional land for 26 Ridout Road, as I mentioned, the costs were fully recovered from the tenant by amortising it through the rental collected over the period of tenancy.
+90.  On the clearance of the additional land for 26 Ridout Road, as I mentioned, the costs were fully recovered from the tenant by amortising it through the rental collected over the period of tenancy.
 
  {:start="91"}
-91. Turning to the works done by the tenants themselves, Minister Shanmugam offered to and did invest in substantial improvement works to the property.
+91.  Turning to the works done by the tenants themselves, Minister Shanmugam offered to and did invest in substantial improvement works to the property.
 
  {:start="92"}
-92. This included a new air\-conditioning system, building a new carpark shelter, constructing a swimming pool, installing garden lights, and upgrading the toilets as well as adding trees and other planting.
+92.  This included a new air\-conditioning system, building a new carpark shelter, constructing a swimming pool, installing garden lights, and upgrading the toilets as well as adding trees and other planting.
 
  {:start="93"}
-93. Minister Shanmugam spent in excess of $400,000 on these improvement works:
+93.  Minister Shanmugam spent in excess of $400,000 on these improvement works:
 
 (1) All improvement works undertaken by the tenant become the property of the landlord.
 
@@ -671,24 +671,24 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (4) These works are in the nature of capital expenditure and they seek to enhance the value of the properties.
 
  {:start="94"}
-94. Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
+94.  Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
 
 **E.  TREE CLEARANCE**
  {:start="95"}
-95. Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
+95.  Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
 
 {:start="96"}
-96. Both properties are located within the Tree Conservation Area:
+96.  Both properties are located within the Tree Conservation Area:
 
 (1) Any tree within a Tree Conservation Area with more than a 1 metre girth would require NParks’ approval to be felled.
 
 *No. 26 Ridout Road*
 
 {:start="97"}
-97. Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
+97.  Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
 
 {:start="98"}
-98. After the tenancy commenced:
+98.  After the tenancy commenced:
 
 (1) The tenant periodically raised concerns about the structural and health conditions of the older trees, including in one instance after a neighbour expressed concerns about safety.
 
@@ -710,38 +710,38 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (6) The one tree which did not require an arborist report had failed in bad weather. NParks’ approval was obtained to fell or remove the rest of the tree that had already failed.
 
 {:start="99"}
-99. The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
+99.  The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
 
 *No. 31 Ridout Road*
 
 {:start="100"}
-100. 31 Ridout Road was also in the Tree Conservation Area.
+100.  31 Ridout Road was also in the Tree Conservation Area.
 
 {:start="101"}
-101. Likewise, felling of any trees with more than a 1 metre girth needs NParks’ approval.
+101.  Likewise, felling of any trees with more than a 1 metre girth needs NParks’ approval.
 
 {:start="102"}
-102. Approval was granted by NParks to remove 24 such trees after an independent arborist assessment showed that these trees were at risk of failure and posed safety concerns.
+102.  Approval was granted by NParks to remove 24 such trees after an independent arborist assessment showed that these trees were at risk of failure and posed safety concerns.
 
 {:start="103"}
-103. Likewise, the trees were felled after NParks gave the approvals. And this was done prior to the start of the tenancy.
+103.  Likewise, the trees were felled after NParks gave the approvals. And this was done prior to the start of the tenancy.
 
 **F.  THE TENANCIES OF NO. 26 AND 31 RIDOUT ROAD**
 
 {:start="104"}
-104. Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
+104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
 
 {:start="105"}
-105. Mr Murali Pillai also asked if the process was fair, transparent and competitive.
+105.  Mr Murali Pillai also asked if the process was fair, transparent and competitive.
 
 {:start="106"}
-106. Sir, let me go back to CPIB’s conclusions. It found no evidence of corruption or wrongdoing in either of the two rental transactions. It had examined the direct letting of the properties to Ministers Shanmugam and Vivian, and found that they were applied fairly.
+106.  Sir, let me go back to CPIB’s conclusions. It found no evidence of corruption or wrongdoing in either of the two rental transactions. It had examined the direct letting of the properties to Ministers Shanmugam and Vivian, and found that they were applied fairly.
 
 {:start="107"}
-107. The internal processes and standards as regards marketing, valuation and leasing were adhered to scrupulously by SLA, with no preferential treatment being given to either Minister. The Ministers had access only to publicly available information concerning the leases.
+107.  The internal processes and standards as regards marketing, valuation and leasing were adhered to scrupulously by SLA, with no preferential treatment being given to either Minister. The Ministers had access only to publicly available information concerning the leases.
 
 {:start="108"}
-108. I have described in detail how SLA handled the process:
+108.  I have described in detail how SLA handled the process:
 
 (1) For both properties, offers of rental were made which met the Guide Rent.
 
@@ -754,7 +754,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (5) In addition, in the case of No. 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
 
 {:start="109"}
-109. In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
+109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
 
 (1) The specific valuer handling the request for valuation of No. 26 Ridout Road did not know who the potential tenant was.
 
@@ -762,29 +762,29 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 *AGO audits*
 {:start="110"}
-110. Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
+110.  Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
 
 {:start="111"}
-111. AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
+111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
 
 {:start="112"}
-112. However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
+112.  However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
 
 **G.  CONCLUSION**
 {:start="113"}
-113. Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
+113.  Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
 
 {:start="114"}
-114. I thank Members for their questions.
+114.  I thank Members for their questions.
 
 {:start="115"}
-115. It has provided me with an opportunity to lay out the facts clearly, fully, relating to these two tenancies.
+115.  It has provided me with an opportunity to lay out the facts clearly, fully, relating to these two tenancies.
  
 {:start="116"} 
-116. I welcome any further clarifications which Members may have subsequently.
+116.  I welcome any further clarifications which Members may have subsequently.
 
 {:start="117"} 
-117. Thank you, Sir.
+117.  Thank you, Sir.
 
 <p class="right-side-updated">Last updated on 
 	 3 July 2023 </p>
