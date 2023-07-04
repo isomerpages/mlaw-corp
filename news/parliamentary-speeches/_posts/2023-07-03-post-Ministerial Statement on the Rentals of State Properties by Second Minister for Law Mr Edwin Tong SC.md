@@ -38,9 +38,9 @@ image: ""
 
 (3) SLA acted properly:
 			
-a. It sought at all times to achieve a commercially viable outcome.
-b. Which would secure its interests, as Landlord, and also as manager of the State properties.
-c. In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
+* It sought at all times to achieve a commercially viable outcome.
+* Which would secure its interests, as Landlord, and also as manager of the State properties.
+* In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
     
 {:start="4"}
 4.  This is validated by the findings of the independent review conducted by Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, which you heard earlier, and the investigation by the Corrupt Practices Investigation Bureau (CPIB).&nbsp; Members would have heard SM’s speech in this House.
@@ -54,26 +54,26 @@ c. In addition, Minister Shanmugam recused himself, as Minister for Law, from an
 
 (3) Following this investigation, CPIB found that the rules were applied fairly for both rental transactions.&nbsp; It was established that:
 
-a. There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
-b. The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
-c. No preferential treatment was given to the Ministers and their spouses.
-d. There was no disclosure of privileged information in the process.
-e. There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
+* There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
+* The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
+* No preferential treatment was given to the Ministers and their spouses.
+* There was no disclosure of privileged information in the process.
+* There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
     
 {:start="6"}
 6.  Sir, to address the remaining PQs, I will organise my speech as follows:
 
 (1) First, I will set out the contextual background against which Members’ questions arise:
 
-a. Starting with a brief outline of the nature of Black and Whites.
-b. And explain the value which they have in Singapore as heritage properties, having historical and architectural significance.
-c. I will then set out SLA’s management strategy concerning these older, heritage properties, including Black and Whites.
+* Starting with a brief outline of the nature of Black and Whites.
+* And explain the value which they have in Singapore as heritage properties, having historical and architectural significance.
+* I will then set out SLA’s management strategy concerning these older, heritage properties, including Black and Whites.
 
 (2) Next, I will outline SLA’s management approach to these properties, covering the questions of:
 
-a. Marketing;
-b. Valuation; and
-c. Leasing
+* Marketing;
+* Valuation; and
+* Leasing
 			
 Which members have raised.&nbsp;&nbsp;&nbsp;
 
@@ -81,8 +81,8 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) Finally, I will deal with some specific queries raised in relation to:
 
-a. The two leases, for 26 and 31 Ridout Road.
-b. And also address SLA’s approach in undertaking these transactions.
+* The two leases, for 26 and 31 Ridout Road.
+* And also address SLA’s approach in undertaking these transactions.
     
 **B.   SLA’S MANAGEMENT OF BLACK AND WHITE**    
 
@@ -121,7 +121,7 @@ b. And also address SLA’s approach in undertaking these transactions.
 12. These bungalows are a part of Singapore’s history.
 
 (1) Some are located in areas where the British naval and air bases used to be:&nbsp;&nbsp;
-a. For example, Sembawang and Seletar.
+* For example, Sembawang and Seletar.
     
 {:start="13"}
 13.  At present, there are 36 conserved Black and Whites, and a further 235 State-owned Black and Whites are marked for study for conservation and hence in the meantime, they are protected.
@@ -159,8 +159,8 @@ a. For example, Sembawang and Seletar.
 
 (2) The planning parameters determine how such land can be used, and for what purpose:
 
-a. For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
-b. Or alternatively, whether it is zoned only for low intensity, landed properties only.
+* For example, whether it can sustain high intensity development (such as high-rise buildings, commercial developments and so on).
+* Or alternatively, whether it is zoned only for low intensity, landed properties only.
 
 (3) Where possible, we will also consider if these properties can be modified for other uses or be integrated as part of new developments, with a view to rejuvenating and revitalising the area. This allows for modernisation of the estate while preserving the property’s core heritage value.
 
@@ -201,19 +201,19 @@ b. Or alternatively, whether it is zoned only for low intensity, landed properti
 
 (3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
     
-a. The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
-b. Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
+* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
 		
 (4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
 
 (5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
 
-a. For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
+* For instance, a cluster of 174 Black and Whites in Seletar Camp were previously demolished to make way for an industrial park.
 	
 (6) As I said, one has to bear in mind the specific context in which the estate is found, and also the Master Plan. If the Black and Whites are located amidst or amongst a landed enclave, such as in Ridout Road or perhaps Nassim Road, an area that is zoned for landed properties, removing the Black and Whites, or redeveloping them and the land around it, will not change the area much:
 
-a. The cleared land can only then be similarly used for low intensity development.
-b. It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
+* The cleared land can only then be similarly used for low intensity development.
+* It would not be possible to put the site to other uses, for example, some of those examples and occasions which I cited earlier.
 	
 {:start="26"}
 26.  Accordingly, to Mr Gerald Giam’s and Ms He Ting Ru’s questions about the Government’s development plans for Black and Whites:
@@ -265,7 +265,7 @@ b. It would not be possible to put the site to other uses, for example, some of 
 (2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
 
 {:start="33"}
-33  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
+33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
 
 (1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
 
@@ -303,16 +303,16 @@ b. It would not be possible to put the site to other uses, for example, some of 
 
 (2) In such cases, there is therefore a need to find a tenant prepared to:
 
-a. Invest capital to upgrade the unit to meet modern day amenities.
-b. Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
-c. And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
+* Invest capital to upgrade the unit to meet modern day amenities.
+* Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
+* And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
 			
 {:start="40"}
 40.  This limits the pool of prospective tenants for Black and Whites:
 
 (1) Most tenants would prefer a ready-to move in property:
 
-a. Which they can furnish and almost immediately occupy.
+* Which they can furnish and almost immediately occupy.
 		
 (2) And not have to fork out capital expenditure.
      
@@ -338,7 +338,7 @@ a. Which they can furnish and almost immediately occupy.
 
 (1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
 
-a. GFA represents the available live-in space for the tenant.
+* GFA represents the available live-in space for the tenant.
 		
 (2) As between GFA and land area, the former usually has a larger impact on the marketability of the property.
 
@@ -360,11 +360,11 @@ a. GFA represents the available live-in space for the tenant.
     
 (5) This trend has a direct correlation to the occupancy rates at the Ridout properties:
 
-a. In January 2018, the occupancy at Ridout Road estate was 71%.
-b. This increased to 100% occupancy in January 2022.
-c. And has stayed at 100% since that time.
-d. In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
-e. Since 2020, no tenant has requested pre-termination.
+* In January 2018, the occupancy at Ridout Road estate was 71%.
+* This increased to 100% occupancy in January 2022.
+* And has stayed at 100% since that time.
+* In 2019, 4 tenants (out of 14 Black and Whites) requested to pre-terminate their tenancies.
+* Since 2020, no tenant has requested pre-termination.
 		
 {:start="47"}
 47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
@@ -373,7 +373,7 @@ e. Since 2020, no tenant has requested pre-termination.
 
 (2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
 
-	**C.  MANAGEMENT OF BLACK AND WHITES**
+**C.  MANAGEMENT OF BLACK AND WHITES**
     
 {:start="48"}
 48.  So with that background, let me turn now to the various questions raised on SLA’s management of Black and Whites.
@@ -400,11 +400,9 @@ e. Since 2020, no tenant has requested pre-termination.
 
 (4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
-a. It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
-b. E.g. when there are requests beyond the scope of an MA’s mandate:
-* e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
-c. or where discussions arise on issues that an MA does not usually handle:
-* e.g., privacy, security and other issues.
+* It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
+* E.g. when there are requests beyond the scope of an MA’s mandate: e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
+* or where discussions arise on issues that an MA does not usually handle: e.g., privacy, security and other issues.
 		
 (5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
 		
@@ -449,8 +447,8 @@ c. or where discussions arise on issues that an MA does not usually handle:
 
 (2) Later, the market softened. The success rate of residential State properties allocated through open bidding dropped. SLA then adjusted its policy to allow direct letting for specified estates, particularly for those with less than 80% occupancy:
 
-a. SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
-b. In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
+* SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
+* In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
 		
 (3) I should add that these are operational concerns decided by SLA.
     
@@ -476,7 +474,7 @@ b. In Aug 2022, as the market revived, SLA reverted to requiring all properties 
 (2) They could tap into their network of private agents; advertise on social media, and allow for there to be this exchange of information between agents who might, for example in some cases, choose to co-broke the marketing of a property.
     
 {:start="63"}
-63. Mr Zhulkarnain had asked what steps were taken by SLA to market the two properties to be leased:
+63.  Mr Zhulkarnain had asked what steps were taken by SLA to market the two properties to be leased:
 
 (1) As highlighted, both properties were under the same MA at that time, who decided on the best way to market them.
 
@@ -492,7 +490,7 @@ b. In Aug 2022, as the market revived, SLA reverted to requiring all properties 
 
 (7) This process was consistent with the approach taken by SLA to all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
     
-Valuation
+*Valuation*
 		
 {:start="64"}
 64.  Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
@@ -501,13 +499,13 @@ Valuation
 
 (2) The valuation team uses established industry principles and methods for valuation:
 
-a. Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
+* Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
 		
 (3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
 
-a. The leasing team would submit a request for valuation of a particular property.
-b. Setting out the parameters of the proposed lease of the property, and
-c. The valuation team will then determine the guide rent for the property.
+* The leasing team would submit a request for valuation of a particular property.
+* Setting out the parameters of the proposed lease of the property, and
+* The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
 65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
@@ -545,30 +543,30 @@ c. The valuation team will then determine the guide rent for the property.
 (3) In this case, both 26 and 31 Ridout Road were allocated on the basis of direct letting.
 
 {:start="72"}
-72. Let me explain these two modalities:
+72.  Let me explain these two modalities:
 
 (1) Today, under an open bidding allocation:
 
-a. The property would be listed on SPIO for at least 14 days.
-b. This is called the notice period.
-c. Thereafter, there is a 5-day bidding window.
+* The property would be listed on SPIO for at least 14 days.
+* This is called the notice period.
+* Thereafter, there is a 5-day bidding window.
 		
 (2) During the notice period, either SLA or the MA, depending on which property is being asked about and whether it is under their portfolio, will also organise open houses for the property in question.
 
 (3) Once the bidding window closes, the tenancy is offered to the highest bidder:
 
-a. This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
+* This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
 
 (4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
 
 (5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
 
-a. Ms Hazel Poa asked about the reason for this 6-month period.
-b. The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
-c. Therefore, it is no longer listed on SPIO after 6 months.
+* Ms Hazel Poa asked about the reason for this 6-month period.
+* The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
+* Therefore, it is no longer listed on SPIO after 6 months.
 
 {:start="73"}
-73. The second modality is direct letting:
+73.  The second modality is direct letting:
 
 (1) Under direct letting, the MA or SLA receive offers directly.
 
@@ -577,37 +575,37 @@ c. Therefore, it is no longer listed on SPIO after 6 months.
 (3) These offers are not published.
 
 {:start="74"}
-74. The decision as to whether to allocate specific properties to direct letting or open bidding, within an estate for which direct letting is permitted, is left to the discretion of the relevant MA or the SLA portfolio manager.
+74.  The decision as to whether to allocate specific properties to direct letting or open bidding, within an estate for which direct letting is permitted, is left to the discretion of the relevant MA or the SLA portfolio manager.
 
 {:start="75"}
-75. In making this decision, the following general trend is considered:
+75.  In making this decision, the following general trend is considered:
 
 (1) Estates identified for direct letting are generally one of two categories:
 
-a. Those with low occupancy rates.
-b. Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
-c. An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
+* Those with low occupancy rates.
+* Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
+* An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
-76. Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
+76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
 
 {:start="77"}
-77. Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
+77.  Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
 
 (1) For State land and State properties, the President’s agreement is required if such land or properties are to be disposed of below Fair Market Value such that there would be a draw on Past Reserves.
 
-(2) 2.  The grant of tenancies of State properties by SLA is not a disposal of State properties.
+(2) The grant of tenancies of State properties by SLA is not a disposal of State properties.
 
 **D.  WORKS ON THE PROPERTIES**
 
 {:start="78"}
-78. Next, let me turn to the works on the properties. Mr Leong Mun Wai and Mr Leon Perera have asked about the improvement and maintenance works carried out at both properties.&nbsp; Let me explain this.
+78.  Next, let me turn to the works on the properties. Mr Leong Mun Wai and Mr Leon Perera have asked about the improvement and maintenance works carried out at both properties.&nbsp; Let me explain this.
 
 {:start="79"}
-79. For context, Members will recall that both these properties have been gazetted for conservation, and SLA is responsible for the maintenance works based on the conservation and restoration guidelines that I mentioned earlier.
+79.  For context, Members will recall that both these properties have been gazetted for conservation, and SLA is responsible for the maintenance works based on the conservation and restoration guidelines that I mentioned earlier.
 
 {:start="80"}
-80. Let me illustrate what this means, with a few examples relevant to the two properties:
+80.  Let me illustrate what this means, with a few examples relevant to the two properties:
 
 (1) For the Main Roof, the original profile, pitch, height and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
 
@@ -620,28 +618,28 @@ c. An example is estates where many units have become available together, such t
 (5) All of this has a significant impact on the costs of the repairs.
 
 {:start="81"}
-81. Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
+81.  Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
 
 {:start="82"}
-82. While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
+82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
 
 {:start="83"}
-83. For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
+83.  For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
 
 {:start="84"}
-84. The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
+84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
  
  {:start="85"}
-85. A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
+85.  A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
 
  {:start="86"}
-86. This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
+86.  This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
 
  {:start="87"}
-87. For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
+87.  For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
 
  {:start="88"}
-88. In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
+88.  In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
 
 (1) These are the usual works done shortly before the property is handed over to a new tenant, to ensure that the property is habitable.
 
@@ -650,19 +648,19 @@ c. An example is estates where many units have become available together, such t
 (3) For No. 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of these sprucing up works cost around $118,000.
 
  {:start="89"}
-89. The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
+89.  The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
  
  {:start="90"}
-90. On the clearance of the additional land for 26 Ridout Road, as I mentioned, the costs were fully recovered from the tenant by amortising it through the rental collected over the period of tenancy.
+90.  On the clearance of the additional land for 26 Ridout Road, as I mentioned, the costs were fully recovered from the tenant by amortising it through the rental collected over the period of tenancy.
 
  {:start="91"}
-91. Turning to the works done by the tenants themselves, Minister Shanmugam offered to and did invest in substantial improvement works to the property.
+91.  Turning to the works done by the tenants themselves, Minister Shanmugam offered to and did invest in substantial improvement works to the property.
 
  {:start="92"}
-92. This included a new air\-conditioning system, building a new carpark shelter, constructing a swimming pool, installing garden lights, and upgrading the toilets as well as adding trees and other planting.
+92.  This included a new air\-conditioning system, building a new carpark shelter, constructing a swimming pool, installing garden lights, and upgrading the toilets as well as adding trees and other planting.
 
  {:start="93"}
-93. Minister Shanmugam spent in excess of $400,000 on these improvement works:
+93.  Minister Shanmugam spent in excess of $400,000 on these improvement works:
 
 (1) All improvement works undertaken by the tenant become the property of the landlord.
 
@@ -673,30 +671,31 @@ c. An example is estates where many units have become available together, such t
 (4) These works are in the nature of capital expenditure and they seek to enhance the value of the properties.
 
  {:start="94"}
-94. Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
+94.  Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
 
 **E.  TREE CLEARANCE**
+
  {:start="95"}
-95. Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
+95.  Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
 
 {:start="96"}
-96. Both properties are located within the Tree Conservation Area:
+96.  Both properties are located within the Tree Conservation Area:
 
 (1) Any tree within a Tree Conservation Area with more than a 1 metre girth would require NParks’ approval to be felled.
 
 *No. 26 Ridout Road*
 
 {:start="97"}
-97. Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
+97.  Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
 
 {:start="98"}
-98. After the tenancy commenced:
+98.  After the tenancy commenced:
 
 (1) The tenant periodically raised concerns about the structural and health conditions of the older trees, including in one instance after a neighbour expressed concerns about safety.
 
 (2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
 
-a. The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
+* The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
 		
 (3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
 
@@ -704,46 +703,46 @@ a. The legal obligations arising from any mishaps or failure to maintain the lan
 
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
-a. These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-b. The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
-c. NParks also conducted site visits to inspect the trees in person, where necessary.
-d. And it was only thereafter that the trees were removed.
+* These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
+* The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
+* NParks also conducted site visits to inspect the trees in person, where necessary.
+* And it was only thereafter that the trees were removed.
 
 (6) The one tree which did not require an arborist report had failed in bad weather. NParks’ approval was obtained to fell or remove the rest of the tree that had already failed.
 
 {:start="99"}
-99. The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
+99.  The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
 
 *No. 31 Ridout Road*
 
 {:start="100"}
-100. 31 Ridout Road was also in the Tree Conservation Area.
+100.  31 Ridout Road was also in the Tree Conservation Area.
 
 {:start="101"}
-101. Likewise, felling of any trees with more than a 1 metre girth needs NParks’ approval.
+101.  Likewise, felling of any trees with more than a 1 metre girth needs NParks’ approval.
 
 {:start="102"}
-102. Approval was granted by NParks to remove 24 such trees after an independent arborist assessment showed that these trees were at risk of failure and posed safety concerns.
+102.  Approval was granted by NParks to remove 24 such trees after an independent arborist assessment showed that these trees were at risk of failure and posed safety concerns.
 
 {:start="103"}
-103. Likewise, the trees were felled after NParks gave the approvals. And this was done prior to the start of the tenancy.
+103.  Likewise, the trees were felled after NParks gave the approvals. And this was done prior to the start of the tenancy.
 
 **F.  THE TENANCIES OF NO. 26 AND 31 RIDOUT ROAD**
 
 {:start="104"}
-104. Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
+104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
 
 {:start="105"}
-105. Mr Murali Pillai also asked if the process was fair, transparent and competitive.
+105.  Mr Murali Pillai also asked if the process was fair, transparent and competitive.
 
 {:start="106"}
-106. Sir, let me go back to CPIB’s conclusions. It found no evidence of corruption or wrongdoing in either of the two rental transactions. It had examined the direct letting of the properties to Ministers Shanmugam and Vivian, and found that they were applied fairly.
+106.  Sir, let me go back to CPIB’s conclusions. It found no evidence of corruption or wrongdoing in either of the two rental transactions. It had examined the direct letting of the properties to Ministers Shanmugam and Vivian, and found that they were applied fairly.
 
 {:start="107"}
-107. The internal processes and standards as regards marketing, valuation and leasing were adhered to scrupulously by SLA, with no preferential treatment being given to either Minister. The Ministers had access only to publicly available information concerning the leases.
+107.  The internal processes and standards as regards marketing, valuation and leasing were adhered to scrupulously by SLA, with no preferential treatment being given to either Minister. The Ministers had access only to publicly available information concerning the leases.
 
 {:start="108"}
-108. I have described in detail how SLA handled the process:
+108.  I have described in detail how SLA handled the process:
 
 (1) For both properties, offers of rental were made which met the Guide Rent.
 
@@ -756,37 +755,39 @@ d. And it was only thereafter that the trees were removed.
 (5) In addition, in the case of No. 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
 
 {:start="109"}
-109. In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
+109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
 
 (1) The specific valuer handling the request for valuation of No. 26 Ridout Road did not know who the potential tenant was.
 
 (2) And SM Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
 
 *AGO audits*
+
 {:start="110"}
-110. Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
+110.  Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
 
 {:start="111"}
-111. AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
+111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
 
 {:start="112"}
-112. However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
+112.  However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
 
 **G.  CONCLUSION**
+
 {:start="113"}
-113. Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
+113.  Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
 
 {:start="114"}
-114. I thank Members for their questions.
+114.  I thank Members for their questions.
 
 {:start="115"}
-115. It has provided me with an opportunity to lay out the facts clearly, fully, relating to these two tenancies.
+115.  It has provided me with an opportunity to lay out the facts clearly, fully, relating to these two tenancies.
  
 {:start="116"} 
-116. I welcome any further clarifications which Members may have subsequently.
+116.  I welcome any further clarifications which Members may have subsequently.
 
 {:start="117"} 
-117. Thank you, Sir.
+117.  Thank you, Sir.
 
 <p class="right-side-updated">Last updated on 
 	 3 July 2023 </p>
