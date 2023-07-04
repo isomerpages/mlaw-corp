@@ -54,11 +54,11 @@ image: ""
 
 (3) Following this investigation, CPIB found that the rules were applied fairly for both rental transactions.&nbsp; It was established that:
 
-	a. There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
-	b. The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
-	c. No preferential treatment was given to the Ministers and their spouses.
-	d. There was no disclosure of privileged information in the process.
-e. There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
+* There was no evidence of corruption or wrongdoing in the two rental transactions of the Ridout Road State properties.
+* The Direct Tenancy rules were applied fairly for both rental transactions.&nbsp; There was no corrupt intent on the part of any person, or any inducement given to any individual involved in the processing of rentals.
+* No preferential treatment was given to the Ministers and their spouses.
+* There was no disclosure of privileged information in the process.
+* There was also no evidence to suggest any abuse of position by the Ministers for personal gain.
     
 {:start="6"}
 6.  Sir, to address the remaining PQs, I will organise my speech as follows:
@@ -71,9 +71,9 @@ e. There was also no evidence to suggest any abuse of position by the Ministers 
 
 (2) Next, I will outline SLA’s management approach to these properties, covering the questions of:
 
-a. Marketing;
-b. Valuation; and
-c. Leasing
+* Marketing;
+* Valuation; and
+* Leasing
 			
 Which members have raised.&nbsp;&nbsp;&nbsp;
 
