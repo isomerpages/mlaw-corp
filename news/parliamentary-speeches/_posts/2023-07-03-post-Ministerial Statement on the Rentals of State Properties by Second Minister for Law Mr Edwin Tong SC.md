@@ -265,7 +265,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
 
 {:start="33"}
-33  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
+33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
 
 (1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
 
