@@ -66,7 +66,9 @@ e. There was also no evidence to suggest any abuse of position by the Ministers 
 (1) First, I will set out the contextual background against which Members’ questions arise:
 
 a. Starting with a brief outline of the nature of Black and Whites.
+
 b. And explain the value which they have in Singapore as heritage properties, having historical and architectural significance.
+
 c. I will then set out SLA’s management strategy concerning these older, heritage properties, including Black and Whites.
 
 (2) Next, I will outline SLA’s management approach to these properties, covering the questions of:
