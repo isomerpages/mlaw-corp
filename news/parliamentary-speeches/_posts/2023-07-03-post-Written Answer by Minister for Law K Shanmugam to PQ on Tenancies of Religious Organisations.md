@@ -16,7 +16,7 @@ image: ""
 
 <b><u>Written Answer:</u></b>
 
-{:start="1"} 
+{:start="1"}
 1.&nbsp; The Government had earlier advised Religious Organisations ("**ROs**") with expiring leases to consider taking up short-term tenancies as the review of the Place of Worship ("**PW**") land allocation and pricing framework was on-going. This was to allow these ROs to benefit from the revised framework once the review was completed.
 
 {:start="2"}
