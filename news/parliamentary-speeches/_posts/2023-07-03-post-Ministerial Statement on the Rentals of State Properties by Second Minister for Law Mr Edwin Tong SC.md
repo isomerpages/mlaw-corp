@@ -674,6 +674,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 94.  Dr Balakrishnan similarly undertook improvement works with a cost of around $200,000, including installing air-conditioning, upgrading the toilets and building a pavilion as an extension of the property’s garage.&nbsp; Many trees were also planted.&nbsp; URA approved the retention of the pavilion, as it did not affect the façade of the conserved building.
 
 **E.  TREE CLEARANCE**
+
  {:start="95"}
 95.  Next, Ms Hazel Poa and Mr Leon Perera have asked about the trees within the two properties, that were felled.
 
