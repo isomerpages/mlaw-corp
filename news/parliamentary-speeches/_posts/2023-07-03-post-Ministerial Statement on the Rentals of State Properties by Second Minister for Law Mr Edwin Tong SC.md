@@ -449,8 +449,8 @@ a. For example, Sembawang and Seletar.
 
 (2) Later, the market softened. The success rate of residential State properties allocated through open bidding dropped. SLA then adjusted its policy to allow direct letting for specified estates, particularly for those with less than 80% occupancy:
 
-a. SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
-b. In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
+* SLA’s MAs had the discretion to decide how to market the properties, which were under their portfolio, to maximise outcomes.
+* In Aug 2022, as the market revived, SLA reverted to requiring all properties to be listed on SPIO.
 		
 (3) I should add that these are operational concerns decided by SLA.
     
@@ -501,13 +501,13 @@ Valuation
 
 (2) The valuation team uses established industry principles and methods for valuation:
 
-a. Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
+* Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
 		
 (3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
 
-a. The leasing team would submit a request for valuation of a particular property.
-b. Setting out the parameters of the proposed lease of the property, and
-c. The valuation team will then determine the guide rent for the property.
+* The leasing team would submit a request for valuation of a particular property.
+* Setting out the parameters of the proposed lease of the property, and
+* The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
 65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
@@ -549,23 +549,23 @@ c. The valuation team will then determine the guide rent for the property.
 
 (1) Today, under an open bidding allocation:
 
-a. The property would be listed on SPIO for at least 14 days.
-b. This is called the notice period.
-c. Thereafter, there is a 5-day bidding window.
+* The property would be listed on SPIO for at least 14 days.
+* This is called the notice period.
+* Thereafter, there is a 5-day bidding window.
 		
 (2) During the notice period, either SLA or the MA, depending on which property is being asked about and whether it is under their portfolio, will also organise open houses for the property in question.
 
 (3) Once the bidding window closes, the tenancy is offered to the highest bidder:
 
-a. This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
+* This is subject to the bid meeting the guide rent and satisfying other due diligence checks on the bidder.
 
 (4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
 
 (5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
 
-a. Ms Hazel Poa asked about the reason for this 6-month period.
-b. The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
-c. Therefore, it is no longer listed on SPIO after 6 months.
+* Ms Hazel Poa asked about the reason for this 6-month period.
+* The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
+* Therefore, it is no longer listed on SPIO after 6 months.
 
 {:start="73"}
 73. The second modality is direct letting:
@@ -584,9 +584,9 @@ c. Therefore, it is no longer listed on SPIO after 6 months.
 
 (1) Estates identified for direct letting are generally one of two categories:
 
-a. Those with low occupancy rates.
-b. Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
-c. An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
+* Those with low occupancy rates.
+* Or which have otherwise been assessed to benefit from direct letting due to their specific circumstances.
+* An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
 76. Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
@@ -696,7 +696,7 @@ c. An example is estates where many units have become available together, such t
 
 (2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
 
-a. The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
+* The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
 		
 (3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
 
@@ -704,10 +704,10 @@ a. The legal obligations arising from any mishaps or failure to maintain the lan
 
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
-a. These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-b. The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
-c. NParks also conducted site visits to inspect the trees in person, where necessary.
-d. And it was only thereafter that the trees were removed.
+* These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
+* The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
+* NParks also conducted site visits to inspect the trees in person, where necessary.
+* And it was only thereafter that the trees were removed.
 
 (6) The one tree which did not require an arborist report had failed in bad weather. NParks’ approval was obtained to fell or remove the rest of the tree that had already failed.
 
