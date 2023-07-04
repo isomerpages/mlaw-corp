@@ -16,7 +16,8 @@ image: ""
 
 <b><u>Written Answer:</u></b>
 
-{:start="1"} 1.&nbsp; The Government had earlier advised Religious Organisations ("**ROs**") with expiring leases to consider taking up short-term tenancies as the review of the Place of Worship ("**PW**") land allocation and pricing framework was on-going. This was to allow these ROs to benefit from the revised framework once the review was completed.
+{:start="1"} 
+1.&nbsp; The Government had earlier advised Religious Organisations ("**ROs**") with expiring leases to consider taking up short-term tenancies as the review of the Place of Worship ("**PW**") land allocation and pricing framework was on-going. This was to allow these ROs to benefit from the revised framework once the review was completed.
 
 {:start="2"}
 2.&nbsp; Now that the revised framework has been announced, ROs on these short-term tenancies can terminate the tenancy at any time by giving a 1-month termination notice, and transit to a long-term lease for their existing site right after the tenancy is terminated. They would not be subject to a balloting system for lease renewal.
