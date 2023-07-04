@@ -1,6 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Feedback on Rules of Court 2021
-  of Court 2021
+title: Written Answer by Minister for Law K Shanmugam to PQ on Feedback on Rules
+  of Court 2021 of Court 2021
 permalink: /news/parliamentary-speeches/written-answer-by-minister-for-law-to-pq-on-feedback-on-rules-of-court-2021/
 date: 2023-07-03
 layout: post
@@ -15,7 +15,9 @@ image: ""
 <br>To ask the Minister for Law since the Rules of Court 2021 came into effect on 1 April 2022 (a) whether the Ministry has engaged legal practitioners to gather feedback; and (b) whether the Ministry will consider consolidating the learnings from the application of the Rules thus far into a report and sharing it with legal practitioners.
 
 <b><u>Written Answer:</u></b>
-<br> {:start="1"} 1. The Rules of Court 2021 (“**ROC 2021**”) were made by the Rules Committee, which is chaired by the Chief Justice and comprises the Attorney-General, Supreme Court and State Court Judges, and two practicing advocates and solicitors appointed by the Chief Justice.
+
+{:start="1"} 
+1. The Rules of Court 2021 (“**ROC 2021**”) were made by the Rules Committee, which is chaired by the Chief Justice and comprises the Attorney-General, Supreme Court and State Court Judges, and two practicing advocates and solicitors appointed by the Chief Justice.
 
 {:start="2"}
 2. The Ministry of Law conducts routine engagements with the Bar on matters concerning the legal profession as a whole. Any feedback received on the ROC 2021 will be relayed to the Rules Committee accordingly.
