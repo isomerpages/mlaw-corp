@@ -38,9 +38,9 @@ image: ""
 
 (3) SLA acted properly:
 			
-a. It sought at all times to achieve a commercially viable outcome.
-b. Which would secure its interests, as Landlord, and also as manager of the State properties.
-c. In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
+* It sought at all times to achieve a commercially viable outcome.
+* Which would secure its interests, as Landlord, and also as manager of the State properties.
+* In addition, Minister Shanmugam recused himself, as Minister for Law, from any decisions and discussions related to the issue of his own tenancy, should any matter arise.
     
 {:start="4"}
 4.  This is validated by the findings of the independent review conducted by Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, which you heard earlier, and the investigation by the Corrupt Practices Investigation Bureau (CPIB).&nbsp; Members would have heard SM’s speech in this House.
