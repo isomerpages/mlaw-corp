@@ -761,6 +761,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (2) And SM Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
 
 *AGO audits*
+
 {:start="110"}
 110.  Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
 
@@ -771,6 +772,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 112.  However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
 
 **G.  CONCLUSION**
+
 {:start="113"}
 113.  Sir, I have sketched out how all parties concerned operated in accordance with their usual processes and procedures.
 
