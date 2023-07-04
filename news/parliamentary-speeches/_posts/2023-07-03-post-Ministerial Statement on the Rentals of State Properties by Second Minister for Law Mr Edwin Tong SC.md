@@ -490,7 +490,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (7) This process was consistent with the approach taken by SLA to all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
     
-Valuation
+*Valuation*
 		
 {:start="64"}
 64.  Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
