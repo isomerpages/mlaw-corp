@@ -704,7 +704,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
 * These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-* The reports were the basis upon which approval was then sought and obtained from NParks for every one of these 19 trees.
+* The reports were the basis upon which approval was then sought and obtained from NParks for every one of those trees.
 * NParks also conducted site visits to inspect the trees in person, where necessary.
 * And it was only thereafter that the trees were removed.
 
