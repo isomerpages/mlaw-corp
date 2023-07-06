@@ -12,7 +12,7 @@ The Corporate Insolvency E-Services will not be available from **5 July 2023 (We
 
 To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
 
-If you have saved any draft applications, you are required to complete and submit them before **5 July 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. 
+<!-- user requested to remove as it has past. If you have saved any draft applications, you are required to complete and submit them before **5 July 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. -->
 <hr>
 <!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 13 June 2023, 2359 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
