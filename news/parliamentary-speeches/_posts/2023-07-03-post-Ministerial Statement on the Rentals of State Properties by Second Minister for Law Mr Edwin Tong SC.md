@@ -478,13 +478,13 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) As highlighted, both properties were under the same MA at that time, who decided on the best way to market them.
 
-(2) For No. 26 Ridout Road, it was marketed by the MA from the time the previous tenant pre-terminated, in December 2013. The usual methods as I have outlined above would have been carried out. However, there were no offers.
+(2) For 26 Ridout Road, it was marketed by the MA from the time the previous tenant pre-terminated, in December 2013. The usual methods as I have outlined above would have been carried out. However, there were no offers.
 
 (3) The MA then decided to undertake some minor works to make the property more presentable to prospective tenants. This was done around late 2016. Thereafter, the property was marketed by the MA again and the usual methods of marketing would have been deployed.
 
 (4) The MA had also broadcast the property to their network of private agents who deal with and transact in such properties.
 
-(5) For No. 31 Ridout Road, the MA undertook the usual methods of marketing, as above. In this case, it chose to list the property on SPIO.
+(5) For 31 Ridout Road, the MA undertook the usual methods of marketing, as above. In this case, it chose to list the property on SPIO.
 
 (6) In addition, it also granted a local film company access to film an interactive arts performance at the property. This was then used as an opportunity to showcase the property.
 
