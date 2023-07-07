@@ -96,7 +96,7 @@ Singapore 069118
 
 **Counter Operating Hours**
 
-Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
+Monday to Friday, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on weekends and public holidays<br>
 
