@@ -201,10 +201,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
     
-* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
-* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. On this location, SLA also works and partners with private sector partners to develop the space and to place-make Rochester Commons.
+* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in their form, the bungalows themselves, with F&amp;B and office uses.
 		
-(4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
+(4) Such heritage properties are not only being used - "such" meaning heritage properties - are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
 
 (5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
 
