@@ -222,7 +222,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) Taking into account specific circumstances of each set of properties where they are located, but also bearing in mind the intrinsic heritage value, and the possible uses that might be made of not just the building, but of the location and the site.
 
-(3) One also has to be sensitive to the surrounding vicinity. As I mentioned, you cannot intersperse commercial activities amidst low-intensity housing developments.
+(3) One also has to be sensitive to the surrounding vicinity. As I mentioned, we cannot intersperse commercial activities amidst low-intensity development spots.
 
 (4) And within that entire framework, SLA seeks to optimise social outcomes and occupancy, and ultimately, to generate revenue where possible.
 
