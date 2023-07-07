@@ -607,13 +607,13 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="80"}
 80.  Let me illustrate what this means, with a few examples relevant to the two properties:
 
-(1) For the Main Roof, the original profile, pitch, height and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
+(1) For the main roof, the original profile, pitch, height, and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
 
 (2) Structural strengthening or supports like steel or reinforced concrete roof beams, if required to be added, have to be done in a way that is sensitively designed to minimise visual impact on the traditional timber system to be retained.
 
 (3) Another example is the architectural features of the building facades.&nbsp; The original fanlights, windows, doors and vents are to be retained and restored. Internally, owners may be required to keep such original finishes of the internal ceiling/wall/floor that give a distinctive character to the building.
 
-(4) Thus, all works have to be done in a manner which preserves the architectural style and features of the Black and White bungalows as defined by URA.
+(4) Thus, all works have to be done in a manner which preserves the architectural style and features of the "black and white" bungalows as defined by URA.
 
 (5) All of this has a significant impact on the costs of the repairs.
 
@@ -621,10 +621,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 81.  Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
 
 {:start="82"}
-82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
+82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy, to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant.
 
 {:start="83"}
-83.  For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
+83.  For 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for 26 Ridout Road.
 
 {:start="84"}
 84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
