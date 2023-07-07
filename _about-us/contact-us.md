@@ -31,8 +31,9 @@ Have questions?
 
 
   <b>Our Live Chat Agents are available from:</b><br>
-Days: Mondays to Fridays<br>
-Timing: 830am to 1130am ~ 130pm to 430pm<br>
+Monday to Friday<br>
+8.30am to 11.30am<br>
+1.30pm to 4.30pm<br>
 
 The live chat will address enquiries on:
 * Individual Insolvency
