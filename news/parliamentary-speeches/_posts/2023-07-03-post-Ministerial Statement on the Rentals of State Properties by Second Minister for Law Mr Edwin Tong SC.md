@@ -319,7 +319,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="41"}
 41.  To address this challenge, SLA has been adjusting the structure of tenancies to provide more flexibility:
 
-(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years, instead of&nbsp; 3+3+3 years so that there is a longer lead time in the initial tenancy period to recover the amortized costs of the capital expenditure.
+(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years. So, 5+4, instead of the 3+3+3 years, so that there is a longer lead time in the initial tenancy period to recover the amortized costs of the capital expenditure.
 
 (2) This ties in with the larger goal of maximising occupancy while ensuring that the tenants are able to keep up and maintain the properties, and, where possible, also enhance and add to the property through the tenants’ capital expenditure.
 
