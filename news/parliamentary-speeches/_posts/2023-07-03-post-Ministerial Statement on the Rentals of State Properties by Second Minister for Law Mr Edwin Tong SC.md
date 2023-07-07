@@ -453,7 +453,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) I should add that these are operational concerns decided by SLA.
     
 {:start="60"}
-60.  The usual methods employed by MAs to market the properties include:
+60.  The usual methods employed by the MAs to market the properties include:
 
 (1) Listing available properties on property portals.
 
@@ -467,9 +467,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 61.  The Ridout Road Estate was managed by two professional MAs at the relevant time.
         
 {:start="62"}
-62.  No. 26 and 31 Ridout Road were managed by the same MA –DTZ Facilities &amp; Engineering (S) Limited up to 31 Mar 2018, and Colliers International Consultancy &amp; Valuation (Singapore) Pte. Ltd. from 1 Apr 2018:
+62.  26 and 31 Ridout Road were managed by the same MA and that was DTZ Facilities &amp; Engineering (S) Limited. They were managing them up to 31 March 2018. Subsequently, from 1 April, Colliers International Consultancy &amp; Valuation (Singapore) Pte Ltd took over as the MA.
 
-(1) The MAs decided how the properties would be marketed.
+(1) In both these cases, as was the case for the entire Ridout Road estate, the MAs decided how the properties would be marketed.
 
 (2) They could tap into their network of private agents; advertise on social media, and allow for there to be this exchange of information between agents who might, for example in some cases, choose to co-broke the marketing of a property.
     
