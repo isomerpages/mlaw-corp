@@ -14,7 +14,7 @@ image: ""
 {:start="1"}
 1.  Mr Deputy Speaker,
 
-(1) I will respond to the remaining questions by Members relating to the rentals of Black and Whites managed by the Singapore Land Authority (SLA).
+(1) I will respond to the remaining questions by Members relating to the rentals of black and white bungalows (Black and Whites) managed by the Singapore Land Authority (SLA).
 
 (2) Specifically, I will address Members’ questions raised in relation to SLA’s management of Black and Whites.
 
@@ -25,16 +25,16 @@ image: ""
 
 (1) First, what is SLA’s policy mandate and objectives in managing State properties, including Black and Whites?&nbsp; Why do we continue to maintain such a portfolio of older, historical properties, and what is SLA’s management strategy for such properties?
 
-(2) Specifically, what is the process by which residential Black and Whites are leased out? And
+(2) Specifically, what is the process by which residential Black and Whites are leased out?
 
-(3) Finally, whether, in the case of No. 26 and 31 Ridout Road, SLA took any unusual steps or measures that deviated from its usual process?
+(3) And finally, whether, in the case of No. 26 and 31 Ridout Road, SLA took any unusual steps or measures that deviated from its usual process?
     
 {:start="3"}
 3. On this last point, the short answer is that SLA complied with all its procedures and requirements in these transactions:
 
 (1) SLA adhered to its internal processes, guidelines and requirements in leasing both properties.
 
-(2) The properties were rented at market value, determined by an independent team of valuers who, as you heard from SM earlier, were not aware of the identities of the prospective tenants at the time of the transaction.
+(2) The properties were rented at market value, determined by an independent team of valuers who, as you heard from the Senior Minister earlier, were not aware of the identities of the prospective tenants at the time of the transaction.
 
 (3) SLA acted properly:
 			
