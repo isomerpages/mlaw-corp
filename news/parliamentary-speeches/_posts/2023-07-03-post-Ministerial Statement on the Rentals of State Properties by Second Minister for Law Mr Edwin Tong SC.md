@@ -501,18 +501,18 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 * Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
 		
-(3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
+(3) The SLA valuation team operates separately and independently from the team in charge of leasing. Typically:
 
 * The leasing team would submit a request for valuation of a particular property.
 * Setting out the parameters of the proposed lease of the property, and
 * The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
-65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
+65.  SLA’s Valuation team uses the direct comparison method when undertaking valuations. This is an accepted industry methodology for rental valuation:
 
 (1) The premise is that a potential tenant would be willing to pay similar rent to a comparable property that is available for rental, and this gives a good gauge of the market.
 
-(2) Hence, when valuing a Black and White bungalow, a comparable property is considered which takes into account the factors identified earlier –location, floor area, condition and so on.
+(2) Hence, when valuing a Black and White, a comparable property is considered which takes into account the factors identified earlier –location, floor area, condition and so on.
         
 {:start="66"}
 66.  The valuation team also has regard to the prevailing market conditions and other contextual factors:
@@ -523,12 +523,12 @@ It would also be useful, as we deal with these commercial questions, to have reg
 67.  The valuation is for the purpose of determining the Guide Rent for a given property.
     
 {:start="68"}
-68.  The independent SLA Valuation team which looks at valuation for Black and Whites will assess the market value and give the Leasing division a baseline that must be achieved for the property in question. They do not know the identities of the prospective tenants or the actual rent negotiated with them.
+68.  The independent SLA valuation team which looks at valuation for Black and Whites will assess the market value and give the leasing division a baseline that must be achieved for the property in question. They, meaning the SLA valuation team, do not know the identities of the prospective tenants or the actual rents negotiated by the parties.
 
 *Leasing*
     
 {:start="69"}
-69.  I turn to the final aspect in managing Black and White, the leasing process.
+69.  I turn to the final aspect in managing Black and Whites - the leasing process.
     
 {:start="70"}
 70.  Mr Leong Mun Wai, Mr Murali Pillai and Mr Leon Perera have raised specific questions on SLA’s bidding process, including how long the bidding was open for 26 Ridout Road after Minister Shanmugam’s bid was received.
@@ -559,7 +559,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
 
-(5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
+(5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in the tender and tender results are published on SPIO for 6 months:
 
 * Ms Hazel Poa asked about the reason for this 6-month period.
 * The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
@@ -587,7 +587,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
-76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
+76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA valuation department and the SLA valuer who assessed the guide rent on 26 Ridout Road, did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed the guide rent not knowing the identity of the prospective tenant or the rent he had already agreed to pay.
 
 {:start="77"}
 77.  Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
