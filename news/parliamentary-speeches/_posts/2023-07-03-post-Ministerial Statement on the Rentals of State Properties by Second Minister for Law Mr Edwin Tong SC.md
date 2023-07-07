@@ -14,7 +14,7 @@ image: ""
 {:start="1"}
 1.  Mr Deputy Speaker,
 
-(1) I will respond to the remaining questions by Members relating to the rentals of Black and Whites managed by the Singapore Land Authority (SLA).
+(1) I will respond to the remaining questions by Members relating to the rentals of black and white bungalows (Black and Whites) managed by the Singapore Land Authority (SLA).
 
 (2) Specifically, I will address Members’ questions raised in relation to SLA’s management of Black and Whites.
 
@@ -25,16 +25,16 @@ image: ""
 
 (1) First, what is SLA’s policy mandate and objectives in managing State properties, including Black and Whites?&nbsp; Why do we continue to maintain such a portfolio of older, historical properties, and what is SLA’s management strategy for such properties?
 
-(2) Specifically, what is the process by which residential Black and Whites are leased out? And
+(2) Specifically, what is the process by which residential Black and Whites are leased out?
 
-(3) Finally, whether, in the case of No. 26 and 31 Ridout Road, SLA took any unusual steps or measures that deviated from its usual process?
+(3) And finally, whether, in the case of No. 26 and 31 Ridout Road, SLA took any unusual steps or measures that deviated from its usual process?
     
 {:start="3"}
 3. On this last point, the short answer is that SLA complied with all its procedures and requirements in these transactions:
 
 (1) SLA adhered to its internal processes, guidelines and requirements in leasing both properties.
 
-(2) The properties were rented at market value, determined by an independent team of valuers who, as you heard from SM earlier, were not aware of the identities of the prospective tenants at the time of the transaction.
+(2) The properties were rented at market value, determined by an independent team of valuers who, as you heard from the Senior Minister earlier, were not aware of the identities of the prospective tenants at the time of the transaction.
 
 (3) SLA acted properly:
 			
@@ -89,7 +89,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 *SLA’s role in management of State properties*
 
 {:start="7"}
-7.  Mr Leong Mun Wai, Mr Don Wee, Mr Gerald Giam and Ms He Ting Ru have asked about SLA’s management of Black and White bungalows (“Black and Whites”), including its plans for such Black and Whites and the context in which they are maintained, including broader development plans.
+7.  Mr Leong Mun Wai, Mr Don Wee, Mr Gerald Giam and Ms He Ting Ru have asked about SLA’s management of Black and Whites, including its plans for such Black and Whites and the context in which they are maintained, including broader development plans.
     
 {:start="8"}
 8.  Let me start with some background.
@@ -105,9 +105,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) Within this portfolio of properties are older, heritage bungalows, and this includes the Black and Whites.
 
-(5) Some Black and Whites are also gazetted as Conservation properties under the Planning Act, and consequently, carry the obligations which are imposed on Conservation Properties.&nbsp; There are other properties which are accorded “protected” status, whilst they are evaluated for conservation.
+(5) Some Black and Whites are also gazetted as conservation properties under the Planning Act, and consequently, carry the obligations which are imposed on conservation properties.&nbsp; There are other properties which are accorded “protected” status, whilst they are evaluated for conservation.
 
-(6) No. 26 and 31 Ridout Road were designated on 29 November 1991 as Conservation Properties (and they were subsequently gazetted in 1992), as they are two rare and intact remaining historic bungalows built in the early 1900s, whose outstanding architectural quality represents the culture and lifestyle of a period in Singapore’s history.
+(6) 26 and 31 Ridout Road were designated on 29 November 1991 as conservation properties (and they were subsequently gazetted in 1992), as they are two rare and intact remaining historic bungalows built in the early 1900s, whose outstanding architectural quality represents the culture and lifestyle of a period in Singapore’s history.
 
 *URA’s requirements of conservation and protection*
     
@@ -145,9 +145,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) They are located in a wide range of neighbourhoods, both in the central as well as in other areas.
 
-(3) Some of them are found in dedicated estates for Black and Whites (for example: Malcolm Road)
+(3) Some of them are found in dedicated estates for Black and Whites, for example, Malcolm Road.
 
-(4) Others are interspersed with other private residential properties that are non-Black and Whites – for example, in the Ridout Road Estate.
+(4) Others are interspersed with other private residential properties that are non-Black and Whites, for example, in the Ridout Road estate.
 
 {:start="17"}
 17.  The development plans for these properties are ultimately guided by a few factors.
@@ -187,7 +187,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 22.  Accordingly, over time, SLA has carefully broadened the usage and deployment of these properties to meet the evolving needs of Singapore. A judicious balance is necessary, particularly between protecting heritage properties in Singapore and redeveloping them altogether.
    
 {:start="23"}
-23.  Hence, while we continue to retain some of the heritage bungalows for their original residential use on the rental market, some others have been demolished as a cluster to make way for newer developments. Others have been re-purposed for different uses, such as commercial and retail spaces or for example, F&amp;B.
+23.  Hence, while we continue to retain some of the heritage bungalows for their original residential use on the rental market, some others have been demolished as a cluster to make way for newer developments. Others have been re-purposed for different uses, such as commercial and retail, or for example, food and beverage (F&amp;B).
  
 {:start="24"}
 24.  With these parameters in mind, the Government has sought to re-purpose our heritage bungalows for various alternative uses.
@@ -201,10 +201,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) Rochester Park and Nepal Park were developed by the British in the early 1950s to house officers and their families:
     
-* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. And on this location, SLA also works with private sector partners, to develop the space, and to place-make Rochester Commons.
-* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in its form, the bungalows itself, with F&amp;B and office uses.
+* The area was given conservation status in 2010. 12 conserved bungalows at Rochester Park have been put to new uses at Rochester Commons – a new integrated campus-style development in one-north by CapitaLand. On this location, SLA also works and partners with private sector partners to develop the space and to place-make Rochester Commons.
+* Standing on a 2.4ha site, the mixed development will have an office tower, hotel, as well as 12 conserved bungalows which are retained in their form, the bungalows themselves, with F&amp;B and office uses.
 		
-(4) Such heritage properties are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
+(4) Such heritage properties are not only being used - "such" meaning heritage properties - are not only being used for purely commercial purposes. For instance, bungalows have been also converted to kindergartens and also in some cases, serves as a shelter for women undergoing unsupported pregnancies. So we look at a broad range of uses, F&amp;B, commercial, and in some cases, social as well.
 
 (5) In other cases, where possible, bearing in mind the circumstances and the location in the Masterplan, a larger site comprising more properties might well be suitable for a wider scale redevelopment:
 
@@ -222,7 +222,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) Taking into account specific circumstances of each set of properties where they are located, but also bearing in mind the intrinsic heritage value, and the possible uses that might be made of not just the building, but of the location and the site.
 
-(3) One also has to be sensitive to the surrounding vicinity. As I mentioned, you cannot intersperse commercial activities amidst low-intensity housing developments.
+(3) One also has to be sensitive to the surrounding vicinity. As I mentioned, we cannot intersperse commercial activities amidst low-intensity development spots.
 
 (4) And within that entire framework, SLA seeks to optimise social outcomes and occupancy, and ultimately, to generate revenue where possible.
 
@@ -238,14 +238,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) URA, through the Master Plan, assesses the best uses of the land, in the overall context of land allocation in Singapore.
 
-(4) The planning considerations I have spent some time outlining are also relevant.&nbsp; It is not always tenable to break up land into smaller parcels, situated side by side but then each having a different land use. It will not place-make and in some cases, the uses may conflict with one another.
+(4) The planning considerations I have spent some time outlining are also relevant.&nbsp; It is not always tenable to break up land into smaller parcels, situated side by side but then each having a different land use. It would not place-make and in some cases, the uses may conflict with one another.
 
-(5) In addition, the State should be able to keep land parcels as a block, where appropriate, as part of its land bank. This gives URA maximum planning latitude when it comes to future masterplans.
+(5) In addition, the State should be able to keep land parcels as a block, where appropriate, as part of its land bank. This gives URA maximum planning latitude when it comes to future master plans.
 
 *Maintenance and upkeep of conserved Black and Whites*
     
 {:start="29"}
-29.  Mr Leong Mun Wai and Mr Leon Perera asked about the maintenance of Black and Whites.&nbsp; As I have explained above, a portfolio of such Black and Whites are kept as residential housing. They are leased out, they are not sold, on a rental basis. They are also subject to conservation and protection requirements.
+29.  Mr Leong Mun Wai and Mr Leon Perera asked about the maintenance of Black and Whites.&nbsp; As I have explained above, a portfolio of such Black and Whites are kept as residential housing. They are leased out - they are not sold - on a rental basis. They are also subject to conservation and protection requirements.
     
 {:start="30"}
 30.  I would add that, particularly for conserved Black and Whites, and those which are protected whilst being studied for conservation, SLA invests a significant amount in upkeeping and maintaining the properties.
@@ -260,14 +260,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="32"}
 32.  The requirements to maintain a conservation property apply to many aspects of the property and are very specific:
 
-(1) For example, the guidelines will spell out the restoration requirements for the conserved building, and the alteration works that can be considered.
+(1) For example, the guidelines will spell out the restoration requirements for the conserved building, the alteration works that can be considered,
 
 (2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
 
 {:start="33"}
-33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
+33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the roofs, building facades, outhouse, floors, staircases, internal finishes, building colours and even in the context of air-conditioning and exhaust fans.
 
-(1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
+(1) Renovation and refurbishment of a conserved residential property put up for rent is, thus, not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
 
 (2) When renovating a conserved or protected building, there is significant prescription on how the works and renovations are to be done.
 
@@ -279,10 +279,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 34.  Besides the renovations required under conservation obligations, the interior and facilities of most Black and Whites also require upgrading.
     
 {:start="35"}
-35.  Many Black and Whites are more than a hundred years old.
+35.  Many Black and Whites are more than a hundred years old and they are not like modern detached houses.
     
 {:start="36"}
-36.  And they are not like modern detached houses. Most Black and Whites lack modern amenities which we often taken for granted, and require significant effort to retrofit:
+36.  Most Black and Whites lack modern amenities which we often taken for granted, and require significant effort to retrofit:
 
 (1) For example, some may lack air-conditioning, water heaters or even cooking hobs.
     
@@ -301,14 +301,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) It is a standard term in such leases that when the tenancy lapses, the property, and everything that is upgraded by the tenant at his cost, will be returned to SLA, if SLA wishes to keep the upgrade. This clause also appears in the tenancies of both No. 26 and 31 Ridout Road.
 
-(2) In such cases, there is therefore a need to find a tenant prepared to:
+(2) In such cases, there is therefore a need to find a tenant who is prepared to:
 
 * Invest capital to upgrade the unit to meet modern day amenities.
 * Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
 * And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
 			
 {:start="40"}
-40.  This limits the pool of prospective tenants for Black and Whites:
+40.  This limits the pool of prospective tenants for Black and Whites.
 
 (1) Most tenants would prefer a ready-to move in property:
 
@@ -319,7 +319,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="41"}
 41.  To address this challenge, SLA has been adjusting the structure of tenancies to provide more flexibility:
 
-(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years, instead of&nbsp; 3+3+3 years so that there is a longer lead time in the initial tenancy period to recover the amortized costs of the capital expenditure.
+(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years. So, 5+4, instead of the 3+3+3 years, so that there is a longer lead time in the initial tenancy period to recover the amortised cost of the capital expenditure.
 
 (2) This ties in with the larger goal of maximising occupancy while ensuring that the tenants are able to keep up and maintain the properties, and, where possible, also enhance and add to the property through the tenants’ capital expenditure.
 
@@ -334,9 +334,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 43.  Mr Don Wee had asked about the rental rate of State-owned heritage properties benchmarked against the private residential market.
     
 {:start="44"}
-44.  Sir, the valuation of residential Black and White properties for rental is dependent on various factors:
+44.  Sir, the valuation of residential Black and Whites for rental is dependent on various factors.
 
-(1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
+(1) First, the Gross Floor Area (GFA) is the guiding component in determining the rent.
 
 * GFA represents the available live-in space for the tenant.
 		
@@ -367,11 +367,11 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * Since 2020, no tenant has requested pre-termination.
 		
 {:start="47"}
-47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
+47.  When the rents by land area rent of private detached homes in Good Class Bungalow (GCB) areas is compared against Black and Whites, there is also a significant divergence.
 
-(1) The average land area rent per square foot per month for private detached homes in GCB areas is between 3 to 5 times higher compared to the comparable rent for land area for Black and Whites.
+(1) The average land area rent per square foot per month for private detached homes in GCB areas is between 3 to 5 times higher compared to the comparable rent by land area for Black and Whites.
 
-(2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
+(2) One reason for this is, of course, the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
 
 **C.  MANAGEMENT OF BLACK AND WHITES**
     
@@ -400,11 +400,11 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) SLA works closely with its MAs, who are incentivised by the terms of the arrangement to maximise occupancy and drive rentals, as well as to reduce costs. The MAs are given a broad discretion to manage the properties, consulting SLA from time to time as may be necessary, depending on the particular circumstances of each case:
     
-* It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview.
-* E.g. when there are requests beyond the scope of an MA’s mandate: e.g., where scope of works to be done exceeds the usual works that would be done by the MA,
-* or where discussions arise on issues that an MA does not usually handle: e.g., privacy, security and other issues.
+* It is not uncommon for SLA to become involved in handling the management of a property under an MA’s purview, for example, when there are requests beyond the scope of an MA's mandate.
+* For example, when the scope of works to be done exceeds the usual works that would be done by the MA,
+* or where discussions arise on issues that the MA does not usually handle: e.g., privacy, security and other issues.
 		
-(5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
+(5) This is when the MA, which serves as the agent, goes back to the principal - in this case, SLA - for directions.
 		
 *Marketing*
 		
@@ -453,7 +453,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 (3) I should add that these are operational concerns decided by SLA.
     
 {:start="60"}
-60.  The usual methods employed by MAs to market the properties include:
+60.  The usual methods employed by the MAs to market the properties include:
 
 (1) Listing available properties on property portals.
 
@@ -467,9 +467,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 61.  The Ridout Road Estate was managed by two professional MAs at the relevant time.
         
 {:start="62"}
-62.  No. 26 and 31 Ridout Road were managed by the same MA –DTZ Facilities &amp; Engineering (S) Limited up to 31 Mar 2018, and Colliers International Consultancy &amp; Valuation (Singapore) Pte. Ltd. from 1 Apr 2018:
+62.  26 and 31 Ridout Road were managed by the same MA and that was DTZ Facilities &amp; Engineering (S) Limited. They were managing them up to 31 March 2018. Subsequently, from 1 April, Colliers International Consultancy &amp; Valuation (Singapore) Pte Ltd took over as the MA.
 
-(1) The MAs decided how the properties would be marketed.
+(1) In both these cases, as was the case for the entire Ridout Road estate, the MAs decided how the properties would be marketed.
 
 (2) They could tap into their network of private agents; advertise on social media, and allow for there to be this exchange of information between agents who might, for example in some cases, choose to co-broke the marketing of a property.
     
@@ -478,22 +478,22 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) As highlighted, both properties were under the same MA at that time, who decided on the best way to market them.
 
-(2) For No. 26 Ridout Road, it was marketed by the MA from the time the previous tenant pre-terminated, in December 2013. The usual methods as I have outlined above would have been carried out. However, there were no offers.
+(2) For 26 Ridout Road, it was marketed by the MA from the time the previous tenant pre-terminated, in December 2013. The usual methods as I have outlined above would have been carried out. However, there were no offers.
 
 (3) The MA then decided to undertake some minor works to make the property more presentable to prospective tenants. This was done around late 2016. Thereafter, the property was marketed by the MA again and the usual methods of marketing would have been deployed.
 
 (4) The MA had also broadcast the property to their network of private agents who deal with and transact in such properties.
 
-(5) For No. 31 Ridout Road, the MA undertook the usual methods of marketing, as above. In this case, it chose to list the property on SPIO.
+(5) For 31 Ridout Road, the MA undertook the usual methods of marketing, as above. In this case, it chose to list the property on SPIO.
 
 (6) In addition, it also granted a local film company access to film an interactive arts performance at the property. This was then used as an opportunity to showcase the property.
 
-(7) This process was consistent with the approach taken by SLA to all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
+(7) This process, for both properties, was consistent with the approach taken by SLA, in all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
     
 *Valuation*
 		
 {:start="64"}
-64.  Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
+64.  Sir, let me now turn to valuation. Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
 
 (1) These valuations are conducted by professional valuers within the MA or SLA respectively.
 
@@ -501,18 +501,18 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 * Factors such as location, use, floor area, physical condition of the property and prevailing market conditions will be taken into account.
 		
-(3) The SLA Valuation team operates separately and independently from the team in charge of leasing. Typically:
+(3) The SLA valuation team operates separately and independently from the team in charge of leasing. Typically:
 
 * The leasing team would submit a request for valuation of a particular property.
 * Setting out the parameters of the proposed lease of the property, and
 * The valuation team will then determine the guide rent for the property.
     
 {:start="65"}
-65.  SLA’s Valuation team uses the Direct Comparison Method when undertaking valuations. This is an accepted industry methodology for rental valuation:
+65.  SLA’s Valuation team uses the direct comparison method when undertaking valuations. This is an accepted industry methodology for rental valuation:
 
 (1) The premise is that a potential tenant would be willing to pay similar rent to a comparable property that is available for rental, and this gives a good gauge of the market.
 
-(2) Hence, when valuing a Black and White bungalow, a comparable property is considered which takes into account the factors identified earlier –location, floor area, condition and so on.
+(2) Hence, when valuing a Black and White, a comparable property is considered which takes into account the factors identified earlier –location, floor area, condition and so on.
         
 {:start="66"}
 66.  The valuation team also has regard to the prevailing market conditions and other contextual factors:
@@ -523,12 +523,12 @@ It would also be useful, as we deal with these commercial questions, to have reg
 67.  The valuation is for the purpose of determining the Guide Rent for a given property.
     
 {:start="68"}
-68.  The independent SLA Valuation team which looks at valuation for Black and Whites will assess the market value and give the Leasing division a baseline that must be achieved for the property in question. They do not know the identities of the prospective tenants or the actual rent negotiated with them.
+68.  The independent SLA valuation team which looks at valuation for Black and Whites will assess the market value and give the leasing division a baseline that must be achieved for the property in question. They, meaning the SLA valuation team, do not know the identities of the prospective tenants or the actual rents negotiated by the parties.
 
 *Leasing*
     
 {:start="69"}
-69.  I turn to the final aspect in managing Black and White, the leasing process.
+69.  I turn to the final aspect in managing Black and Whites - the leasing process.
     
 {:start="70"}
 70.  Mr Leong Mun Wai, Mr Murali Pillai and Mr Leon Perera have raised specific questions on SLA’s bidding process, including how long the bidding was open for 26 Ridout Road after Minister Shanmugam’s bid was received.
@@ -559,7 +559,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) The Guide Rent is not revealed to the bidders (or their agents) in this process.
 
-(5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in tender and tender results are published on SPIO for 6 months:
+(5) On Mr Louis Chua’s question as to the publication of tender awards on SLA’s website – the highest bid rent in the tender and tender results are published on SPIO for 6 months:
 
 * Ms Hazel Poa asked about the reason for this 6-month period.
 * The short answer is that after 6 months, valuations would be outdated as the market might have shifted, and the information is less market relevant.
@@ -587,7 +587,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * An example is estates where many units have become available together, such that there is bidding fatigue from the earlier batches of units that were released.
 		
 {:start="76"}
-76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of No. 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA Valuation Department and the SLA Valuer who assessed the Guide Rent on No. 26 Ridout Road did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the Valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed a Guide Rent not knowing the identity of the prospective tenant or what was the rent he had already agreed to pay.
+76.  Ms Hazel Poa asked if SLA was aware of the identity behind the bid for the leasing of 26 Ridout Road. The answer is yes. SLA has to know the identity of the prospective tenant in order to process and assess the bid. But the SLA valuation department and the SLA valuer who assessed the guide rent on 26 Ridout Road, did not know that the prospective tenant was Minister Shanmugam. As CPIB has established, the valuer did not even know that Minister Shanmugam and SLA had settled on a rent of $26,500. She had assessed the guide rent not knowing the identity of the prospective tenant or the rent he had already agreed to pay.
 
 {:start="77"}
 77.  Mr Leong Mun Wai asked whether President’s agreement is required when not awarding State properties to the highest bidder.&nbsp;This issue does not arise in the context of the rental of State properties that I have outlined:
@@ -607,13 +607,13 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="80"}
 80.  Let me illustrate what this means, with a few examples relevant to the two properties:
 
-(1) For the Main Roof, the original profile, pitch, height and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
+(1) For the main roof, the original profile, pitch, height, and eaves projection have to be retained and restored.&nbsp; Owners are required to keep the original roof tile material, colour and profile if it is a unique feature of the building.
 
 (2) Structural strengthening or supports like steel or reinforced concrete roof beams, if required to be added, have to be done in a way that is sensitively designed to minimise visual impact on the traditional timber system to be retained.
 
 (3) Another example is the architectural features of the building facades.&nbsp; The original fanlights, windows, doors and vents are to be retained and restored. Internally, owners may be required to keep such original finishes of the internal ceiling/wall/floor that give a distinctive character to the building.
 
-(4) Thus, all works have to be done in a manner which preserves the architectural style and features of the Black and White bungalows as defined by URA.
+(4) Thus, all works have to be done in a manner which preserves the architectural style and features of the "black and white" bungalows as defined by URA.
 
 (5) All of this has a significant impact on the costs of the repairs.
 
@@ -621,31 +621,31 @@ It would also be useful, as we deal with these commercial questions, to have reg
 81.  Therefore, SLA’s practice is to engage an external consultant to assess the state of the property, and determine the works which have to be done, bearing in mind the relevant conservation guidelines.
 
 {:start="82"}
-82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy (to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant).
+82.  While these works are done in periodic cycles, where practical, SLA tries to do them in the lead up to a confirmed tenancy, to avoid disrupting existing tenants and also to ensure that the costs of these works can be recovered from a prospective tenant.
 
 {:start="83"}
-83.  For No. 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for No. 26 Ridout Road.
+83.  For 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for 26 Ridout Road.
 
 {:start="84"}
-84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
+84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for 26 Ridout Road.
  
  {:start="85"}
-85.  A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
+85.  A similar building management inspection was also undertaken by an external consultant for 31 Ridout Road and the works to be done were identified and proposed by the consultant.
 
  {:start="86"}
 86.  This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
 
  {:start="87"}
-87.  For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
+87.  For 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
 
  {:start="88"}
 88.  In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
 
 (1) These are the usual works done shortly before the property is handed over to a new tenant, to ensure that the property is habitable.
 
-(2) For No. 26 Ridout Road, the works included painting, pest control and removal of mould. All this cost around $140,000.
+(2) For 26 Ridout Road, the works included painting, pest control and removal of mould. All this cost around $140,000.
 
-(3) For No. 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of these sprucing up works cost around $118,000.
+(3) For 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of the sprucing up works for 31 Ridout Road cost around $118,000.
 
  {:start="89"}
 89.  The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
@@ -683,28 +683,28 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) Any tree within a Tree Conservation Area with more than a 1 metre girth would require NParks’ approval to be felled.
 
-*No. 26 Ridout Road*
+*26 Ridout Road*
 
 {:start="97"}
-97.  Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
+97.  Prior to the tenancy of 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
 
 {:start="98"}
 98.  After the tenancy commenced:
 
 (1) The tenant periodically raised concerns about the structural and health conditions of the older trees, including in one instance after a neighbour expressed concerns about safety.
 
-(2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
+(2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects, would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
 
 * The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
 		
-(3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
+(3) On each occasion, before any decision about the tree - any of the trees felled - was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
 
-(4) 19 trees of girth size more than 1 metre were removed on various occasions since the tenancy commenced about 4.5 years ago, each time upon feedback that the trees may pose safety issues.
+(4) Nineteen trees of girth size more than 1 metre were removed on various occasions since the tenancy commenced about 4.5 years ago, each time upon feedback that the trees may pose safety issues.
 
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
 * These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-* The reports were the basis upon which approval was then sought and obtained from NParks for every one of those trees.
+* The reports were the basis upon which approval was then sought and obtained from NParks for every one of these trees.
 * NParks also conducted site visits to inspect the trees in person, where necessary.
 * And it was only thereafter that the trees were removed.
 
@@ -713,7 +713,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="99"}
 99.  The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
 
-*No. 31 Ridout Road*
+*31 Ridout Road*
 
 {:start="100"}
 100.  31 Ridout Road was also in the Tree Conservation Area.
@@ -730,7 +730,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 **F.  THE TENANCIES OF NO. 26 AND 31 RIDOUT ROAD**
 
 {:start="104"}
-104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
+104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin's and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
 
 {:start="105"}
 105.  Mr Murali Pillai also asked if the process was fair, transparent and competitive.
@@ -750,16 +750,16 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) SLA would then be able to retain these enhancements at the end of the tenancy period.&nbsp; This would add value to any subsequent tenancy, for SLA, and also be set off against the works which SLA had to undertake to renovate and refurbish the properties which I have taken Members through.
 
-(4) It should also be borne in mind that both these offers were made at a time when the rental market in Singapore was depressed.&nbsp; The previous tenant of No. 26 Ridout Road had pre-terminated their lease, and no viable offers were received in the intervening period for either property.
+(4) It should also be borne in mind that both these offers were made at a time when the rental market in Singapore was depressed.&nbsp; The previous tenant of 26 Ridout Road had pre-terminated their lease, and no viable offers were received in the intervening period for either property.
 
-(5) In addition, in the case of No. 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
+(5) In addition, in the case of 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
 
 {:start="109"}
-109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
+109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms-length, and did not deviate from usual processes:
 
-(1) The specific valuer handling the request for valuation of No. 26 Ridout Road did not know who the potential tenant was.
+(1) The specific valuer handling the request for valuation did not know the potential tenant.
 
-(2) And SM Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
+(2) And Senior Minister Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
 
 *AGO audits*
 
@@ -767,7 +767,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 110.  Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
 
 {:start="111"}
-111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
+111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on the Ministry of Law (MinLaw)’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
 
 {:start="112"}
 112.  However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
