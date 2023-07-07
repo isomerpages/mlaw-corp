@@ -89,7 +89,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 *SLA’s role in management of State properties*
 
 {:start="7"}
-7.  Mr Leong Mun Wai, Mr Don Wee, Mr Gerald Giam and Ms He Ting Ru have asked about SLA’s management of Black and White bungalows (“Black and Whites”), including its plans for such Black and Whites and the context in which they are maintained, including broader development plans.
+7.  Mr Leong Mun Wai, Mr Don Wee, Mr Gerald Giam and Ms He Ting Ru have asked about SLA’s management of Black and Whites, including its plans for such Black and Whites and the context in which they are maintained, including broader development plans.
     
 {:start="8"}
 8.  Let me start with some background.
