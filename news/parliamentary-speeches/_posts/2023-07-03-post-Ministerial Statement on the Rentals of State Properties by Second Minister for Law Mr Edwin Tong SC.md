@@ -238,14 +238,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) URA, through the Master Plan, assesses the best uses of the land, in the overall context of land allocation in Singapore.
 
-(4) The planning considerations I have spent some time outlining are also relevant.&nbsp; It is not always tenable to break up land into smaller parcels, situated side by side but then each having a different land use. It will not place-make and in some cases, the uses may conflict with one another.
+(4) The planning considerations I have spent some time outlining are also relevant.&nbsp; It is not always tenable to break up land into smaller parcels, situated side by side but then each having a different land use. It would not place-make and in some cases, the uses may conflict with one another.
 
-(5) In addition, the State should be able to keep land parcels as a block, where appropriate, as part of its land bank. This gives URA maximum planning latitude when it comes to future masterplans.
+(5) In addition, the State should be able to keep land parcels as a block, where appropriate, as part of its land bank. This gives URA maximum planning latitude when it comes to future master plans.
 
 *Maintenance and upkeep of conserved Black and Whites*
     
 {:start="29"}
-29.  Mr Leong Mun Wai and Mr Leon Perera asked about the maintenance of Black and Whites.&nbsp; As I have explained above, a portfolio of such Black and Whites are kept as residential housing. They are leased out, they are not sold, on a rental basis. They are also subject to conservation and protection requirements.
+29.  Mr Leong Mun Wai and Mr Leon Perera asked about the maintenance of Black and Whites.&nbsp; As I have explained above, a portfolio of such Black and Whites are kept as residential housing. They are leased out - they are not sold - on a rental basis. They are also subject to conservation and protection requirements.
     
 {:start="30"}
 30.  I would add that, particularly for conserved Black and Whites, and those which are protected whilst being studied for conservation, SLA invests a significant amount in upkeeping and maintaining the properties.
@@ -260,14 +260,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="32"}
 32.  The requirements to maintain a conservation property apply to many aspects of the property and are very specific:
 
-(1) For example, the guidelines will spell out the restoration requirements for the conserved building, and the alteration works that can be considered.
+(1) For example, the guidelines will spell out the restoration requirements for the conserved building, the alteration works that can be considered,
 
 (2) And the interfacing zone between the conserved building and the new additions, if any, around the area.
 
 {:start="33"}
-33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the Roofs, Building Facades, Outhouse, Floors, Staircases, Internal Finishes, Building Colours and even in the context of air-conditioning and exhaust fans:
+33.  The restoration guidelines will specify details such as the design, location and material that can be used for all key elements such as the roofs, building facades, outhouse, floors, staircases, internal finishes, building colours and even in the context of air-conditioning and exhaust fans.
 
-(1) Renovation and refurbishment of a conserved residential property put up for rent is thus not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
+(1) Renovation and refurbishment of a conserved residential property put up for rent is, thus, not just to ensure that it is in a tenantable condition, but also to comply with the relevant guidelines which protect the heritage value of the property.
 
 (2) When renovating a conserved or protected building, there is significant prescription on how the works and renovations are to be done.
 
@@ -279,10 +279,10 @@ It would also be useful, as we deal with these commercial questions, to have reg
 34.  Besides the renovations required under conservation obligations, the interior and facilities of most Black and Whites also require upgrading.
     
 {:start="35"}
-35.  Many Black and Whites are more than a hundred years old.
+35.  Many Black and Whites are more than a hundred years old and they are not like modern detached houses.
     
 {:start="36"}
-36.  And they are not like modern detached houses. Most Black and Whites lack modern amenities which we often taken for granted, and require significant effort to retrofit:
+36.  Most Black and Whites lack modern amenities which we often taken for granted, and require significant effort to retrofit:
 
 (1) For example, some may lack air-conditioning, water heaters or even cooking hobs.
     
@@ -301,14 +301,14 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) It is a standard term in such leases that when the tenancy lapses, the property, and everything that is upgraded by the tenant at his cost, will be returned to SLA, if SLA wishes to keep the upgrade. This clause also appears in the tenancies of both No. 26 and 31 Ridout Road.
 
-(2) In such cases, there is therefore a need to find a tenant prepared to:
+(2) In such cases, there is therefore a need to find a tenant who is prepared to:
 
 * Invest capital to upgrade the unit to meet modern day amenities.
 * Accept that the benefits of investment can only be enjoyed for the duration of the tenancy.
 * And take on the risk of a higher rental price to renew, or not renewing and writing off the cost of the capital expenditure altogether.
 			
 {:start="40"}
-40.  This limits the pool of prospective tenants for Black and Whites:
+40.  This limits the pool of prospective tenants for Black and Whites.
 
 (1) Most tenants would prefer a ready-to move in property:
 
