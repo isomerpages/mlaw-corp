@@ -627,25 +627,25 @@ It would also be useful, as we deal with these commercial questions, to have reg
 83.  For 26 Ridout Road, SLA engaged a consultant who had experience in dealing with heritage properties, to survey the property and identify the necessary works to be done. And I will add that this consultant was engaged before a bid was made for 26 Ridout Road.
 
 {:start="84"}
-84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for No. 26 Ridout Road.
+84.  The works identified by the external consultant were in the nature of structural items such as timber beams, rafters and columns, and other heritage features. Together, these aspects, as assessed by the external consultant, cost about $375,000, out of the total amount of $515,400 incurred for 26 Ridout Road.
  
  {:start="85"}
-85.  A similar building management inspection was also undertaken by an external consultant for No. 31 Ridout Road and the works to be done were identified and proposed by the consultant.
+85.  A similar building management inspection was also undertaken by an external consultant for 31 Ridout Road and the works to be done were identified and proposed by the consultant.
 
  {:start="86"}
 86.  This included extensive works to the roof which was assessed to be in a bad state as well as for other heritage features.
 
  {:start="87"}
-87.  For No. 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
+87.  For 31 Ridout Road, these works as recommended by the consultant, cost around $452,000 out of the total of $570,500 spent on No. 31 Ridout Road.
 
  {:start="88"}
 88.  In addition, SLA also did the usual sprucing up works prior to the commencement of a tenancy:
 
 (1) These are the usual works done shortly before the property is handed over to a new tenant, to ensure that the property is habitable.
 
-(2) For No. 26 Ridout Road, the works included painting, pest control and removal of mould. All this cost around $140,000.
+(2) For 26 Ridout Road, the works included painting, pest control and removal of mould. All this cost around $140,000.
 
-(3) For No. 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of these sprucing up works cost around $118,000.
+(3) For 31 Ridout Road, the works included general repairs to the staircase, the perimeter of the house, fixing windows, painting and pest control (and in this case, also snake combing). The total cost of the sprucing up works for 31 Ridout Road cost around $118,000.
 
  {:start="89"}
 89.  The works done by SLA were in keeping with SLA’s general practices, as I described earlier in my speech.
@@ -683,28 +683,28 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (1) Any tree within a Tree Conservation Area with more than a 1 metre girth would require NParks’ approval to be felled.
 
-*No. 26 Ridout Road*
+*26 Ridout Road*
 
 {:start="97"}
-97.  Prior to the tenancy of No. 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
+97.  Prior to the tenancy of 26 Ridout Road, trees of less than 1 metre girth were removed by SLA as part of clearing the additional land. NParks’ approval was not required for these trees.
 
 {:start="98"}
 98.  After the tenancy commenced:
 
 (1) The tenant periodically raised concerns about the structural and health conditions of the older trees, including in one instance after a neighbour expressed concerns about safety.
 
-(2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
+(2) There were legitimate concerns that some trees, such as decayed trees and those with poor vigour or structural defects, would pose safety issues. This in fact, was the specific issue that Minister Shanmugam was concerned with, and which explained why he was not keen to have the additional vegetated land fenced into his tenancy:
 
 * The legal obligations arising from any mishaps or failure to maintain the land properly within the tenancy boundary fall on the tenant.
 		
-(3) On each occasion, before any decision about any of the trees felled was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
+(3) On each occasion, before any decision about the tree - any of the trees felled - was made, an arborist was brought in for a tree inspection. For the trees that were removed, the reports found evidence of various problems that posed safety concerns such as wound decay on main trunks and on buttress roots.
 
-(4) 19 trees of girth size more than 1 metre were removed on various occasions since the tenancy commenced about 4.5 years ago, each time upon feedback that the trees may pose safety issues.
+(4) Nineteen trees of girth size more than 1 metre were removed on various occasions since the tenancy commenced about 4.5 years ago, each time upon feedback that the trees may pose safety issues.
 
 (5) For 18 of the 19 trees, there were independent arborist reports:
 
 * These reports set out the condition of the trees in detail, and found either decayed buttress roots, structural defects, termite infestations, poor structural form and vigour, or severe leaning resulting in high potential for failure.
-* The reports were the basis upon which approval was then sought and obtained from NParks for every one of those trees.
+* The reports were the basis upon which approval was then sought and obtained from NParks for every one of these trees.
 * NParks also conducted site visits to inspect the trees in person, where necessary.
 * And it was only thereafter that the trees were removed.
 
@@ -713,7 +713,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="99"}
 99.  The MA has also replaced 17 trees in the property, over the last 5 years.&nbsp; And the tenant has also replanted trees in the property in addition to those replaced by the MA at his cost.
 
-*No. 31 Ridout Road*
+*31 Ridout Road*
 
 {:start="100"}
 100.  31 Ridout Road was also in the Tree Conservation Area.
@@ -730,7 +730,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 **F.  THE TENANCIES OF NO. 26 AND 31 RIDOUT ROAD**
 
 {:start="104"}
-104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
+104.  Sir, as I wrap up, I would like to address Members Mr Sitoh Yih Pin's and Ms Hazel Poa’s questions about whether SLA had deviated from its usual processes, in the rental of the two properties.
 
 {:start="105"}
 105.  Mr Murali Pillai also asked if the process was fair, transparent and competitive.
@@ -750,16 +750,16 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (3) SLA would then be able to retain these enhancements at the end of the tenancy period.&nbsp; This would add value to any subsequent tenancy, for SLA, and also be set off against the works which SLA had to undertake to renovate and refurbish the properties which I have taken Members through.
 
-(4) It should also be borne in mind that both these offers were made at a time when the rental market in Singapore was depressed.&nbsp; The previous tenant of No. 26 Ridout Road had pre-terminated their lease, and no viable offers were received in the intervening period for either property.
+(4) It should also be borne in mind that both these offers were made at a time when the rental market in Singapore was depressed.&nbsp; The previous tenant of 26 Ridout Road had pre-terminated their lease, and no viable offers were received in the intervening period for either property.
 
-(5) In addition, in the case of No. 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
+(5) In addition, in the case of 26 Ridout Road, the cost of maintaining the additional heavily vegetated area would then fall on the tenant. And this would have been in the order of $25,000 a year.
 
 {:start="109"}
-109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms\-length, and did not deviate from usual processes:
+109.  In these circumstances, there was every reasonable, commercial basis for SLA to have entered into those transactions.&nbsp; The terms of both leases were standard and did not contain any unusual clauses. They were entirely at arms-length, and did not deviate from usual processes:
 
-(1) The specific valuer handling the request for valuation of No. 26 Ridout Road did not know who the potential tenant was.
+(1) The specific valuer handling the request for valuation did not know the potential tenant.
 
-(2) And SM Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
+(2) And Senior Minister Teo has explained how Minister Shanmugam had removed himself from the chain of command and decision-making process.
 
 *AGO audits*
 
@@ -767,7 +767,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 110.  Sir, one last question to address, and that is Mr Gerald Giam’s question on whether the bidding process at SLA is audited by AGO.
 
 {:start="111"}
-111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on MinLaw’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
+111.  AGO conducts annual audits of the Government Financial Statements and this includes receipts collected by SLA on the Ministry of Law (MinLaw)’s behalf.&nbsp; These receipts include rental income from State land and buildings. The Government Financial Statements audit does not cover the revenue tendering process of State properties (as the audit objective in that case is to ascertain whether the receipts reported are accurate).
 
 {:start="112"}
 112.  However, in addition to the annual audits, AGO also carries out selective audits of statutory boards in rotation. AGO last audited SLA in FY 2018/19. This covered the period April 2016 through to June 2018. In a selective audit, AGO has the discretion to decide what areas they choose to audit using a risk-based approach and also decide on the specific timing and timeframe of such audits.
