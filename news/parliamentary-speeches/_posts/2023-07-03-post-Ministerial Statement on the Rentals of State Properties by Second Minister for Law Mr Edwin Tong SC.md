@@ -319,7 +319,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 {:start="41"}
 41.  To address this challenge, SLA has been adjusting the structure of tenancies to provide more flexibility:
 
-(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years. So, 5+4, instead of the 3+3+3 years, so that there is a longer lead time in the initial tenancy period to recover the amortized costs of the capital expenditure.
+(1) For example, in suitable cases, where tenants are prepared to commit larger sums of capital expenditure to enhance the properties, SLA has been prepared to grant tenancies of 5+4 years. So, 5+4, instead of the 3+3+3 years, so that there is a longer lead time in the initial tenancy period to recover the amortised cost of the capital expenditure.
 
 (2) This ties in with the larger goal of maximising occupancy while ensuring that the tenants are able to keep up and maintain the properties, and, where possible, also enhance and add to the property through the tenants’ capital expenditure.
 
@@ -334,9 +334,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 43.  Mr Don Wee had asked about the rental rate of State-owned heritage properties benchmarked against the private residential market.
     
 {:start="44"}
-44.  Sir, the valuation of residential Black and White properties for rental is dependent on various factors:
+44.  Sir, the valuation of residential Black and Whites for rental is dependent on various factors.
 
-(1) First, the Gross Floor Area (“GFA”) is the guiding component in determining the rent:
+(1) First, the Gross Floor Area (GFA) is the guiding component in determining the rent.
 
 * GFA represents the available live-in space for the tenant.
 		
@@ -367,11 +367,11 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * Since 2020, no tenant has requested pre-termination.
 		
 {:start="47"}
-47.  When land area rent of private detached homes in Good Class Bungalow (“GCB”) areas is compared against Black and Whites, there is also a significant divergence:
+47.  When the rents by land area rent of private detached homes in Good Class Bungalow (GCB) areas is compared against Black and Whites, there is also a significant divergence.
 
-(1) The average land area rent per square foot per month for private detached homes in GCB areas is between 3 to 5 times higher compared to the comparable rent for land area for Black and Whites.
+(1) The average land area rent per square foot per month for private detached homes in GCB areas is between 3 to 5 times higher compared to the comparable rent by land area for Black and Whites.
 
-(2) One reason for this is of course the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
+(2) One reason for this is, of course, the average land area for Black and Whites are usually larger than private detached homes in GCB areas.
 
 **C.  MANAGEMENT OF BLACK AND WHITES**
     
