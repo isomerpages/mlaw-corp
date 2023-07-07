@@ -404,7 +404,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 * For example, when the scope of works to be done exceeds the usual works that would be done by the MA,
 * or where discussions arise on issues that the MA does not usually handle: e.g., privacy, security and other issues.
 		
-(5) This is when the MA, which serves as the agent, goes back to the principal, in this case SLA, for directions when marketing a property.
+(5) This is when the MA, which serves as the agent, goes back to the principal - in this case, SLA - for directions.
 		
 *Marketing*
 		
