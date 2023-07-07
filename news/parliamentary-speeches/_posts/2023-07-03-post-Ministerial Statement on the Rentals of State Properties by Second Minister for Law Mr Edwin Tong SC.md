@@ -488,12 +488,12 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (6) In addition, it also granted a local film company access to film an interactive arts performance at the property. This was then used as an opportunity to showcase the property.
 
-(7) This process was consistent with the approach taken by SLA to all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
+(7) This process, for both properties, was consistent with the approach taken by SLA, in all other properties marketed by MAs, with the MAs exercising discretion on how to market the property.
     
 *Valuation*
 		
 {:start="64"}
-64.  Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
+64.  Sir, let me now turn to valuation. Upon successful marketing, when a prospective tenant makes an inquiry, it would be necessary to conduct a valuation, to ascertain the valuation of the property being considered for leasing:
 
 (1) These valuations are conducted by professional valuers within the MA or SLA respectively.
 
