@@ -105,9 +105,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (4) Within this portfolio of properties are older, heritage bungalows, and this includes the Black and Whites.
 
-(5) Some Black and Whites are also gazetted as Conservation properties under the Planning Act, and consequently, carry the obligations which are imposed on Conservation Properties.&nbsp; There are other properties which are accorded “protected” status, whilst they are evaluated for conservation.
+(5) Some Black and Whites are also gazetted as conservation properties under the Planning Act, and consequently, carry the obligations which are imposed on conservation properties.&nbsp; There are other properties which are accorded “protected” status, whilst they are evaluated for conservation.
 
-(6) No. 26 and 31 Ridout Road were designated on 29 November 1991 as Conservation Properties (and they were subsequently gazetted in 1992), as they are two rare and intact remaining historic bungalows built in the early 1900s, whose outstanding architectural quality represents the culture and lifestyle of a period in Singapore’s history.
+(6) 26 and 31 Ridout Road were designated on 29 November 1991 as conservation properties (and they were subsequently gazetted in 1992), as they are two rare and intact remaining historic bungalows built in the early 1900s, whose outstanding architectural quality represents the culture and lifestyle of a period in Singapore’s history.
 
 *URA’s requirements of conservation and protection*
     
@@ -145,9 +145,9 @@ It would also be useful, as we deal with these commercial questions, to have reg
 
 (2) They are located in a wide range of neighbourhoods, both in the central as well as in other areas.
 
-(3) Some of them are found in dedicated estates for Black and Whites (for example: Malcolm Road)
+(3) Some of them are found in dedicated estates for Black and Whites, for example, Malcolm Road.
 
-(4) Others are interspersed with other private residential properties that are non-Black and Whites – for example, in the Ridout Road Estate.
+(4) Others are interspersed with other private residential properties that are non-Black and Whites, for example, in the Ridout Road estate.
 
 {:start="17"}
 17.  The development plans for these properties are ultimately guided by a few factors.
@@ -187,7 +187,7 @@ It would also be useful, as we deal with these commercial questions, to have reg
 22.  Accordingly, over time, SLA has carefully broadened the usage and deployment of these properties to meet the evolving needs of Singapore. A judicious balance is necessary, particularly between protecting heritage properties in Singapore and redeveloping them altogether.
    
 {:start="23"}
-23.  Hence, while we continue to retain some of the heritage bungalows for their original residential use on the rental market, some others have been demolished as a cluster to make way for newer developments. Others have been re-purposed for different uses, such as commercial and retail spaces or for example, F&amp;B.
+23.  Hence, while we continue to retain some of the heritage bungalows for their original residential use on the rental market, some others have been demolished as a cluster to make way for newer developments. Others have been re-purposed for different uses, such as commercial and retail, or for example, food and beverage (F&amp;B).
  
 {:start="24"}
 24.  With these parameters in mind, the Government has sought to re-purpose our heritage bungalows for various alternative uses.
