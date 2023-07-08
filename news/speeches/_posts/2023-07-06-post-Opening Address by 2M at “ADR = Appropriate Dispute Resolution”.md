@@ -1,5 +1,5 @@
 ---
-title: Opening Address by 2M at “ADR = Appropriate Dispute Resolution”
+title: Opening Address by Minister for Culture, Community and Youth, and Second Minister for Law, Edwin Tong SC at “ADR = Appropriate Dispute Resolution” – The Singapore Experience and Japan Perspective
 permalink: /news/speeches/2m-edwin-tong-speech-adr-japan-sg/
 date: 2023-07-06
 layout: post
