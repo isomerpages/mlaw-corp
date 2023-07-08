@@ -31,8 +31,9 @@ Have questions?
 
 
   <b>Our Live Chat Agents are available from:</b><br>
-Days: Mondays to Fridays<br>
-Timing: 830am to 1130am ~ 130pm to 430pm<br>
+Monday to Friday<br>
+8.30am to 11.30am<br>
+1.30pm to 4.30pm<br>
 
 The live chat will address enquiries on:
 * Individual Insolvency
@@ -95,7 +96,7 @@ Singapore 069118
 
 **Counter Operating Hours**
 
-Mondays to Fridays, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
+Monday to Friday, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
 (To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
 Closed on weekends and public holidays<br>
 
