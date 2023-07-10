@@ -3,6 +3,31 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
+#### **Urgent Maintenance Notice**
+Some of our e-services are unavailable due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+<br><br>The following e-services are still accessible via the links provided: 
+
+| E-Services | Maintenance Schedule | 
+| -------- | -------- | 
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | 10 July 2023, 0800 hrs to 2359 hrs     | 
+
+
+
+<br><br>We seek your understanding and apologise for any inconvenience caused.
+
+<!--
+<br><br><u>Insolvency Search:</u> 
+https://go.gov.sg/insolvencysearch
+<br><u>Insolvency Person’s Portal:</u> 
+https://go.gov.sg/insolventpersonsportal
+<br><u>Creditor’s Portal:</u> 
+https://go.gov.sg/creditorsportal
+<br><u>Private Trustees in Bankruptcy Portal:</u> 
+https://go.gov.sg/ptibportal 
+<br><br>We seek your understanding and apologise for any inconvenience caused. 
+-->
+
+
 <!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. -->
 
 #### **New Insolvency Office (IO) E-Services (new!)**
@@ -45,7 +70,7 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs| 
 | Insolvency Office - Debt Repayment Scheme, Public Trustee's Office    | 6 Jul, Thu, 1800 hrs to 7 Jul, Fri, 0800 hrs  <br> 7 Jul, Fri, 1800 hrs to 10 Jul, Mon, 0800 hrs     | 
 | Registry of Moneylenders, Registry of Pawnbroker    | 7 Jul, Fri, 1800 hrs to 10 Jul, Mon, 0800 hrs  | 
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 8th July Sat, 1400 hrs to 9th July Sun, 1400 hrs 
+
 
 <br>
 We seek your understanding and apologise for any inconvenience caused.
