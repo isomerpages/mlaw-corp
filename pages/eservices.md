@@ -15,9 +15,6 @@ Some of our e-services are unavailable due to urgent maintenance works. During t
 
 
 
-| E-Services | Maintenance Schedule |
-| --- | --- |
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries | 10 July 2023, 0800 hrs to 2359 hrs |
 <br><br>We seek your understanding and apologise for any inconvenience caused.
 
 <!--
