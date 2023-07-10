@@ -94,7 +94,7 @@ You can send us your feedback and enquiries on the following issues:
 #07-11 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 
-Click [here](/files/ura%20east%20wing%20entrance.pdf) to view the entrance of The URA (East Wing).
+Click [here](/files/ura%20east%20wing%20entrance.pdf) to view the entrance of The URA Centre (East Wing).
 
 Nearest MRT station: Maxwell (Thomson - East Coast Line)<br>
 We are located opposite Maxwell Food Centre.<br>
