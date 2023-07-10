@@ -1,5 +1,5 @@
 ---
-title: Statement by 2M at the AJSMJ Plenary Session 1
+title: Statement by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the ASEAN-Japan Special Meeting of Justice Ministers Plenary Session 1
 permalink: /news/speeches/statement-by-2m-asjmj-plenary-1/
 date: 2023-07-06
 layout: post
