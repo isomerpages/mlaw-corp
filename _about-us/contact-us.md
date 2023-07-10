@@ -92,7 +92,18 @@ You can send us your feedback and enquiries on the following issues:
 
 45 Maxwell Road<br>
 #07-11 The URA Centre (East Wing)<br>
-Singapore 069118
+Singapore 069118<br>
+
+Click [here](/files/ura%20east%20wing%20entrance.pdf) to view the entrance of The URA (East Wing).
+
+Nearest MRT station: Maxwell (Thomson - East Coast Line)<br>
+We are located opposite Maxwell Food Centre.<br>
+
+<u>Wheelchair access / by private transport</u>
+
+There is a drop-off/pick-up point near the entrance of the CPF Maxwell Services Centre. Once you alight, you will see the entrance to The URA Centre (East Wing), which leads to the lift lobby of The URA Centre (East Wing).<br>
+
+If you are coming from the drop-off area in front of the Singapore City Gallery (where the Samsui women statues are located), enter the Singapore City Gallery and take the lift up to Level 3. From there, turn right and look for the sign that points to The URA Centre (East Wing). This will bring you to the link bridge that connects the Singapore City Gallery to the adjourning URA Centre (East Wing) building. Take the lift at The URA Centre (East Wing) to Level 7.<br>
 
 **Counter Operating Hours**
 
