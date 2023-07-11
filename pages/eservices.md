@@ -33,8 +33,6 @@ https://go.gov.sg/ptibportal
 #### **New Insolvency Office (IO) E-Services (new!)**
 We will be launching our new Corporate Insolvency E-Services on **10 July 2023**. 
 
-The Corporate Insolvency E-Services will not be available from **5 July 2023 (Wednesday), 6.00 pm to 10 July 2023 (Monday), 8.00 am**.
-
 To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
 
 <!-- user requested to remove as it has past. If you have saved any draft applications, you are required to complete and submit them before **5 July 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. -->
@@ -69,8 +67,6 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs|
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs| 
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 11 Jul, Thu, 1800 hrs to 2359 hrs|
-| Insolvency Office - Debt Repayment Scheme, Public Trustee's Office    | 6 Jul, Thu, 1800 hrs to 7 Jul, Fri, 0800 hrs  <br> 7 Jul, Fri, 1800 hrs to 10 Jul, Mon, 0800 hrs     | 
-| Registry of Moneylenders, Registry of Pawnbroker    | 7 Jul, Fri, 1800 hrs to 10 Jul, Mon, 0800 hrs  | 
 
 
 <br>
@@ -83,8 +79,8 @@ Please be informed that the following eServices will be scheduled for  maintenan
 | E-Services | Maintenance Schedule |
 | -------- | -------- |
 | Insolvency Office, Public Trustee's Office    | 14 Jun, Thu, 1800 hrs to 15 Jun, Thu, 0800 hrs     | 
-| Insolvency Office - Debt Repayment Scheme, Public Trustee's Office    | 15 Jun, Thu, 1800 hrs to 16 Jun, Fri, 0800 hrs     | 
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker    | 16 Jun, Fri, 1800 hrs to 19 Jun, Mon, 0800 hrs     | 
+
+
 <hr>
 -->
 <br>
