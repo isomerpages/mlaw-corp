@@ -49,7 +49,7 @@ image: ""
 **Publication of Correction Notices**
 
 {:start="6"}
-6. As required by the Correction Directions, <i>Jom</i> must publish correction notices on the said posts on its website and social media pages. The correction notices will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually150723-b">https://www.gov.sg/article/factually150723-b</a>.
+6. As required by the Correction Directions, <i>Jom</i> must publish correction notices on the said posts on its website and social media pages. The correction notices will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually150723-b">https://www.gov.sg/article/factually160723-b</a>.
 
 **MINISTRY OF LAW**
 **MINISTRY OF COMMUNICATIONS AND INFORMATION**
