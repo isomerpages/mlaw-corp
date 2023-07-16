@@ -28,7 +28,7 @@ image: ""
 
   
 
-\*\*Clarifications on the False Statement\*\*
+**Clarifications on the False Statements**
 
   
 
@@ -40,7 +40,7 @@ image: ""
 
 {:start="4"}
 
-4. TAs with its approach for other State properties, SLA had engaged an external consultant to assess the works needed to be carried out for the two properties. Thereafter, contracts to carry out the works were awarded to separate contractors through open tenders. SLA did not award any contract to Livspace to carry out works to 26 Ridout Road or 31 Ridout Road. SLA has not had any transactions with Livspace for these or other properties.
+4. As with its approach for other State properties, SLA had engaged an external consultant to assess the works needed to be carried out for the two properties. Thereafter, contracts to carry out the works were awarded to separate contractors through open tenders. SLA did not award any contract to Livspace to carry out works to 26 Ridout Road or 31 Ridout Road. SLA has not had any transactions with Livspace for these or other properties.
 
   
 
