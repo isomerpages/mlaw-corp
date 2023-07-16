@@ -51,7 +51,7 @@ image: ""
 {:start="6"}
 6. As required by the Correction Directions, <i>Jom</i> must publish correction notices on the said posts on its website and social media pages. The correction notices will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually160723-b">https://www.gov.sg/article/factually160723-b</a>.
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**<br>
 **MINISTRY OF COMMUNICATIONS AND INFORMATION**
 
 <p><sup id="fn1">1. SM Teo's Ministerial Statement is available <a href="https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road">here</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
