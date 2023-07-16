@@ -10,11 +10,11 @@ image: ""
 15 July 2023 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1. During the Parliamentary sitting on 3 July 2023, four Ministerial Statements relating to the rentals of State properties at 26 and 31 Ridout Road were delivered. On 7 July 2023, <i>Jom</i>, an online publication, published an article (“<i>Singapore This Week</i>”) which made the statements that:	
+1. During the Parliamentary sitting on 3 July 2023, four Ministerial Statements relating to the rentals of State properties at 26 Ridout Road and 31 Ridout Road were delivered. On 7 July 2023, <i>Jom</i>, an online publication, published an article (“<i>Singapore This Week</i>”) which made the statements that:	
     
 <p style="margin-left: 40px">a) Senior Minister Teo Chee Hean did not respond to questions concerning the issue of actual or apparent conflicts of interest and possible breach of the Code of Conduct for Ministers beyond replying that it is more important to observe the spirit rather than just the letter of the Code.</p>
 
-<p style="margin-left: 40px">b) The Singapore Land Authority (SLA) spent more than $1 million on the renovation for 26 and 31 Ridout Road because the Ministers were to be the tenants.</p>
+<p style="margin-left: 40px">b) The Singapore Land Authority (SLA) spent more than $1 million on the renovation for 26 Ridout Road and 31 Ridout Road because the Ministers were to be the tenants.</p>
 
 <p style="margin-left: 40px">c) The Government caused Instagram to geo-block a post by Charles Yeo.</p>
 
