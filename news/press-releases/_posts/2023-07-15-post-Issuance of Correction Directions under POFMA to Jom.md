@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-15 July 2023 Posted in [Press releases](/news/press-releases)
+16 July 2023 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
 1. During the Parliamentary sitting on 3 July 2023, four Ministerial Statements relating to the rentals of State properties at 26 Ridout Road and 31 Ridout Road were delivered. On 7 July 2023, <i>Jom</i>, an online publication, published an article (“<i>Singapore This Week</i>”) which made the statements that:	
@@ -57,4 +57,4 @@ image: ""
 <p><sup id="fn1">1. SM Teo's Ministerial Statement is available <a href="https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road">here</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 
-<p class="right-side-updated">Last updated on 15 July 2023</p>
+<p class="right-side-updated">Last updated on 16 July 2023</p>
