@@ -1,5 +1,6 @@
 ---
-title: Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to Jom
+title: Issuance of Correction Directions under the Protection from Online
+  Falsehoods and Manipulation Act to Jom
 permalink: /news/press-releases/issuance-correction-directions-under-pofma-to-jom/
 date: 2023-07-16
 layout: post
@@ -52,6 +53,7 @@ image: ""
 
 **MINISTRY OF LAW**<br>
 **MINISTRY OF COMMUNICATIONS AND INFORMATION**
+<br>**16 JULY 2023**
 
 <p><sup id="fn1">1. SM Teo's Ministerial Statement is available <a href="https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road">here</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
