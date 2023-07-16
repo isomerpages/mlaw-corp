@@ -50,7 +50,7 @@ image: ""
 
 {:start="5"}
 
-5. As required by the Correction Directions, Mr Kenneth Jeyaretnam and Mr Thamil Selvan must publish a correction notice on the said posts on their website, Twitter page, and Facebook page respectively. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually150723-a" target="new">https://https://www.gov.sg/article/factually160723-a</a>
+5. As required by the Correction Directions, Mr Kenneth Jeyaretnam and Mr Thamil Selvan must publish a correction notice on the said posts on their website, Twitter page, and Facebook page respectively. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually160723-a" target="new">https://https://www.gov.sg/article/factually160723-a</a>
 
   
 
