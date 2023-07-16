@@ -28,7 +28,7 @@ image: ""
 
   
 
-**Clarifications on the False Statements**
+<b>Clarifications on the False Statements<b>
 
   
 
@@ -58,4 +58,4 @@ image: ""
 **MINISTRY OF LAW**
 <br>**16 JULY 2023**
 
-<p class="right-side-updated">Last updated on 16 Jul 2023</p>
+<p class="right-side-updated">Last updated on 16 Jul 2023</p></b></b>
