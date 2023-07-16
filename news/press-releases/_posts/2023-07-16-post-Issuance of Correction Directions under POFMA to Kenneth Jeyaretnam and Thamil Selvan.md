@@ -16,7 +16,7 @@ image: ""
 
   
 
-&nbsp; &nbsp; (a) The article published by Kenneth Jeyaretnam, “Will SLA issue a statement denying the rumours that they have awarded contracts to Shanmugam’s son’s company?” dated 2 July 2023 on his website The Ricebowl Singapore. The article was also shared on Mr Kenneth Jeyaretnam’s Twitter page.<br>
+&nbsp; &nbsp; (a) The article published by Kenneth Jeyaretnam, “Will SLA issue a statement denying the rumours that they have awarded any contracts to Shanmugam’s son’s company?” dated 2 July 2023 on his website The Ricebowl Singapore. The article was also shared on Mr Kenneth Jeyaretnam’s Twitter page.<br>
 
 &nbsp; &nbsp; (b) Mr Thamil Selvan’s Facebook post dated 1 July 2023.<br>
 
