@@ -1,5 +1,5 @@
 ---
-title: Issuance of Correction Directions under POFMA to Jom
+title: Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to Jom
 permalink: /news/press-releases/issuance-correction-directions-under-pofma-to-jom/
 date: 2023-07-16
 layout: post
