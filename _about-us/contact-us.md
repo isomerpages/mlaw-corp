@@ -116,8 +116,7 @@ Closed on weekends and public holidays<br>
 **List of community touch points with videoconferencing facilities with the Ministry of Law**<br>
 
 Appointments are available every Friday, 10am to 4.30pm via [LifeSG](https://go.gov.sg/mlawvc).<br>
-Hours may differ on eves of public holidays. Closed on public holidays. <br>
-Click [here](/files/minlaw%20community%20touchpoint.pdf) for more information.
+Hours may differ on eves of public holidays. Closed on public holidays. <br> Click [here]() for more information.
 
 <br>
 
