@@ -58,4 +58,5 @@ image: ""
 **MINISTRY OF LAW**
 <br>**16 JULY 2023**
 
-<p class="right-side-updated">Last updated on 16 July 2023</p></b></b>
+<p class="right-side-updated">Last updated on 16 July 2023</p>
+	</b></b>
