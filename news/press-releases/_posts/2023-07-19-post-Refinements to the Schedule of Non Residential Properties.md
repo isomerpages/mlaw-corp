@@ -45,7 +45,7 @@ vii. ‘Special Use’
 
 {:start="4"}
 
-4. With the removal of ‘Commercial &amp; Residential’ zone from the Schedule, any foreign persons (includes both individuals and entities) defined under the RPA who intend to purchase or acquire an interest in a land zoned or property permitted for ‘Commercial &amp; Residential’ would need to apply for approval under the RPA. The application can be submitted online at <a href="https://www.sla.gov.sg/ldau" target="new">https://www.sla.gov.sg/ldau</a>
+4. With the removal of ‘Commercial &amp; Residential’ zone from the Schedule, any foreign persons (includes both individuals and entities) defined under the RPA who intend to purchase or acquire an interest in a land zoned or property permitted for ‘Commercial &amp; Residential’ would need to apply for approval under the RPA. The application can be submitted online at <a href="https://www.sla.gov.sg/ldau" target="new">www.sla.gov.sg/ldau</a>
 
 {:start="5"}
 
@@ -64,7 +64,7 @@ vii. ‘Special Use’
   
 {:start="7"}
 
-7. For more information on the application procedures and FAQs, please visit SLA’s website at <a href="https://www.sla.gov.sg" target="new">https://www.sla.gov.sg or contact SLA at [SLA_Enquiry@sla.gov.sg](mailto:SLA_Enquiry@sla.gov.sg) or 1800-323-9829.
+7. For more information on the application procedures and FAQs, please visit SLA’s website at <a href="https://www.sla.gov.sg" target="new"> www.sla.gov.sg or contact SLA at [SLA_Enquiry@sla.gov.sg](mailto:SLA_Enquiry@sla.gov.sg) or 1800-323-9829.
 
   
 
