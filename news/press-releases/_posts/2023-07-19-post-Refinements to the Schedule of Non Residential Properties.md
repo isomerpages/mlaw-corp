@@ -64,7 +64,7 @@ vii. ‘Special Use’
   
 {:start="7"}
 
-7. For more information on the application procedures and FAQs, please visit SLA’s website at www.sla.gov.sg or contact SLA at [SLA\_Enquiry@sla.gov.sg](mailto:SLA\_Enquiry@sla.gov.sg) or 1800-323-9829.
+7. For more information on the application procedures and FAQs, please visit SLA’s website at www.sla.gov.sg or contact SLA at [SLA_Enquiry@sla.gov.sg](mailto:SLA_Enquiry@sla.gov.sg) or 1800-323-9829.
 
   
 
