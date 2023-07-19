@@ -68,7 +68,8 @@ vii. ‘Special Use’
 
   
 
-**MINISTRY OF LAW**
+**MINISTRY OF LAW**<br>
+**SINGAPORE LAND AUTHORITY**
 <br>**19 JULY 2023**
 
   
