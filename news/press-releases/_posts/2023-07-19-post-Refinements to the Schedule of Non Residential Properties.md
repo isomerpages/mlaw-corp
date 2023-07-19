@@ -68,11 +68,8 @@ vii. ‘Special Use’
 
   
 
-\*\*MINISTRY OF LAW\*\*
-
-<br>\*\*19 JULY 2023\*\*
-
-  
+**MINISTRY OF LAW**
+<br>**19 JULY 2023**
 
   
 
