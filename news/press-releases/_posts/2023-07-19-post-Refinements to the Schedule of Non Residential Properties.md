@@ -51,7 +51,7 @@ vii. ‘Special Use’
 
 5. Foreign persons who are existing owners of land zoned or property permitted for ‘Commercial &amp; Residential’ use are exempted from obtaining approval under the RPA if the intention is to retain the property as-is. However, they will need to seek approval under the RPA, should they wish to retain and redevelop the property.
 
-{:start=“6”}
+{:start="6"}
 
 6. In addition, foreign persons intending to purchase or acquire interest in land zoned or property permitted for ‘Commercial &amp; Residential’ use, can be exempted from obtaining approval under the RPA if all of the following conditions are met:
 
@@ -62,7 +62,7 @@ vii. ‘Special Use’
 &nbsp; &nbsp; (c) This OTP has not been varied on or after 20 July 2023.<br>
 
   
-{:start=“7”}
+{:start="7"}
 
 7. For more information on the application procedures and FAQs, please visit SLA’s website at www.sla.gov.sg or contact SLA at [SLA\_Enquiry@sla.gov.sg](mailto:SLA\_Enquiry@sla.gov.sg) or 1800-323-9829.
 
