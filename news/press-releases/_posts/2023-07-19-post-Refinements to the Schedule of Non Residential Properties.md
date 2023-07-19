@@ -1,5 +1,6 @@
 ---
-title: Refinements to the 'Schedule of Non-Residential Properties' under the Residential Property (RP) Notification
+title: Refinements to the 'Schedule of Non-Residential Properties' under the
+  Residential Property (RP) Notification
 permalink: /news/press-releases/2023-07-19-refinements-to-the-schedule-of-non-residential-properties/
 date: 2023-07-19
 layout: post
@@ -64,7 +65,7 @@ vii. ‘Special Use’
   
 {:start="7"}
 
-7. For more information on the application procedures and FAQs, please visit SLA’s website at [www.sla.gov.sg](www.sla.gov.sg) or contact SLA at [SLA_Enquiry@sla.gov.sg](mailto:SLA_Enquiry@sla.gov.sg) or 1800-323-9829.
+7. For more information on the application procedures and FAQs, please visit SLA’s website at <a href="https://www.sla.gov.sg" target="new">www.sla.gov.sg</a> or contact SLA at [SLA_Enquiry@sla.gov.sg](mailto:SLA_Enquiry@sla.gov.sg) or 1800-323-9829.
 
   
 
