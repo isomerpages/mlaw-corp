@@ -94,30 +94,30 @@ Good morning.
 24.  With our changes to the law, women like Cindy can now apply for a Protection Order under POHA, and people like her abuser will face twice the maximum penalties that are normally prescribed for such offences. But if I may add, it is not the law but often women in such situations are well-educated. They can be lawyers, doctors, and they can know their rights, but they still do not seem to be able to get out of that situation. So that, you will find, is the most difficult, and they need to be given encouragement. We need to empower our NGOs and the officers to move in and give them moral support to step out of it, and move out of the influence of the abuser so that they can then be told of their rights and perhaps be persuaded to get out of the abusive relationship once and for all.
 
 {:start="25"}
-25.  In 2020, we abolished marital immunity for rape in the Penal Code. A woman’s body is her own and that should not change, when she marries. No still means no. The law now makes that clear.&nbsp;
+25.  In 2020, we abolished marital immunity for rape in the Penal Code. A woman’s body is her own and that should not change, when she marries. No still means no. The law now makes that clear.
 
 {:start="26"}
-26.  Most recently, a few weeks ago, the Ministry of Social and Family Development (MSF) passed amendments to the Women’s Charter, to strengthen protection for victims of family violence. These are usually women and the proportion is roughly three to one currently. For example, the definition of family violence was updated to make clear that it includes physical, sexual, emotional and psychological abuse.&nbsp;
+26.  Most recently, a few weeks ago, the Ministry of Social and Family Development (MSF) passed amendments to the Women’s Charter, to strengthen protection for victims of family violence. These are usually women and the proportion is roughly three to one currently. For example, the definition of family violence was updated to make clear that it includes physical, sexual, emotional and psychological abuse.
 
 {:start="27"}
 27.  Emotional and psychological abuse can arise from controlling behaviours, such as when perpetrators threaten to withhold monthly allowances from their spouses; or constantly call their spouses to check on their whereabouts and isolate them from their family and friends.
 
 {:start="28"}
-28.  Again, I emphasise that even though this is the law, it does not mean that all the women understand it and will take advantage of it, so bringing it to the ground is going to be extremely important. We need to educate and get the women to understand that there are these rights. We need to have touch points within the community so that they know.&nbsp;
+28.  Again, I emphasise that even though this is the law, it does not mean that all the women understand it and will take advantage of it, so bringing it to the ground is going to be extremely important. We need to educate and get the women to understand that there are these rights. We need to have touch points within the community so that they know.
 
 {:start="29"}
 29.  I do not want to increase the number of divorces, but I think it is important that people recognise when they are being abused and know that there are ways in which they can take care of themselves. That is important and help needs to be nearby.
 
 {:start="30"}
-30.  The amendments also allow the Court to make additional rehabilitative orders, raise penalties, and strengthen enforcement against breaches of Court orders. This framework is to make clear – we have zero tolerance against violence or harm of any kind against women. That is a fundamental value for us, and those who act contrary to this fundamental value, they will be held to account.&nbsp;
+30.  The amendments also allow the Court to make additional rehabilitative orders, raise penalties, and strengthen enforcement against breaches of Court orders. This framework is to make clear – we have zero tolerance against violence or harm of any kind against women. That is a fundamental value for us, and those who act contrary to this fundamental value, they will be held to account.
 
 {:start="31"}
-31.  And to support these laws, we also continually explore new ways at the operational level, to facilitate the reporting of sexual crimes and family violence. These are some recent examples. We have online reporting channels, as well as a new Sexual Crime and Family Violence Command set up by the Police. You also have the “Sexual Crime Report” option at the NPCs’ kiosks. When you go to the police station, you do not want to be in a queue and talk in public about what happened, while in line with everybody else who might be there.&nbsp; The One-Stop Abuse Forensic Examination Centre (OneSAFE Centre), this I talked about previously. In the past, you go to report to the police, then you have to go to the hospital for forensic medical examination after waiting at the common queue, and then to the police for interviews. We try and make it a one stop centre where forensic medical examination by doctors and interviews by police officers are done at the same place so it is more convenient for the victim.
+31.  And to support these laws, we also continually explore new ways at the operational level, to facilitate the reporting of sexual crimes and family violence. These are some recent examples. We have online reporting channels, as well as a new Sexual Crime and Family Violence Command set up by the Police. You also have the “Sexual Crime Report” option at the NPCs’ kiosks. When you go to the police station, you do not want to be in a queue and talk in public about what happened, while in line with everybody else who might be there. The One-Stop Abuse Forensic Examination Centre (OneSAFE Centre), this I talked about previously. In the past, you go to report to the police, then you have to go to the hospital for forensic medical examination after waiting at the common queue, and then to the police for interviews. We try and make it a one stop centre where forensic medical examination by doctors and interviews by police officers are done at the same place so it is more convenient for the victim.
 
 **LAWS SUPPORTING WOMEN &amp; FAMILIES IN THE CONTEXT OF MARITAL BREAKDOWN**
 
 {:start="32"}
-32.  Let me now turn to the second area – supporting women and families in the context of marital breakdown.&nbsp;
+32.  Let me now turn to the second area – supporting women and families in the context of marital breakdown.
 
 {:start="33"}
 33.  In 2015, we introduced the Simplified Divorce Track, for cases where parties agree on the ground for divorce and all ancillary matters. Cases on this track can proceed more quickly, with less cost, and also less friction for the parties and their children. Many couples have benefitted from this. In 2022, two-thirds of all divorce cases were decided on the Simplified Track. Let me explain why I decided on this.
@@ -141,25 +141,25 @@ Good morning.
 39.  The further change is to allow married couples to divorce by mutual agreement. There was some concern as ours is a conservative society in general. I am one of those who believe that maybe we ought to make marriage difficult so that people understand what they are getting into. However, if they really want to get out of it, we should not make it too difficult, especially if they really cannot get along, but that does not mean that you can just walk away. Of course, you will still need processes to try for reconciliation.
 
 {:start="40"}
-40.  This is intended to reduce acrimony for husbands and wives and allow them to take joint responsibility for the breakdown of marriage. It can also help to make divorce a less traumatic experience for the children.&nbsp;
+40.  This is intended to reduce acrimony for husbands and wives and allow them to take joint responsibility for the breakdown of marriage. It can also help to make divorce a less traumatic experience for the children.
 
 {:start="41"}
 41.  More recently, in May, MinLaw and MSF jointly passed the Family Justice Reform Act. One of the key issues which the Act seeks to address is the Enforcement of Maintenance Orders. What does it all mean? I am a very practical person. That is the bottomline of all of this, you simplify all of this into what women want. They want to go away, they want to be paid on time, and they want to be able to look after their children.
 
 {:start="42"}
-42.  The difficulty is usually about being paid on time. If the husband does not have money, he does not have money. However, even with men that have money, they might find a variety of excuses.&nbsp;
+42.  The difficulty is usually about being paid on time. If the husband does not have money, he does not have money. However, even with men that have money, they might find a variety of excuses.
 
 {:start="43"}
-43.  So you get all this and what happens is that you would use the traditional court process and I was a litigator so I know what that is like. The woman will have to get a lawyer, and she will have to apply to court. The lawyer will then have to apply to a variety of institutions based on the court order. Sometimes the court order is clear, sometimes it is not. Then you serve the court order and the man has to file an affidavit. How do you know what assets he has? What bank accounts he has, which ones belong to him, and which ones belong to his family? Suddenly everything is being held on trust for the family. Houses and assets get sold as well, so it is an impossible task to put on a single woman.&nbsp;
+43.  So you get all this and what happens is that you would use the traditional court process and I was a litigator so I know what that is like. The woman will have to get a lawyer, and she will have to apply to court. The lawyer will then have to apply to a variety of institutions based on the court order. Sometimes the court order is clear, sometimes it is not. Then you serve the court order and the man has to file an affidavit. How do you know what assets he has? What bank accounts he has, which ones belong to him, and which ones belong to his family? Suddenly everything is being held on trust for the family. Houses and assets get sold as well, so it is an impossible task to put on a single woman.
 
 {:start="44"}
 44.  If you put it on her, it just fractures the relationship or what is left of it. The parties will just start weaponising their children and the children will grow up in a very toxic atmosphere. It is not good for the man, for the woman and for the children.
 
 {:start="45"}
-45.  If you look at the statistics between 2017 to 2019, there was an annual average of about 2,700 applications to enforce maintenance orders. One-third were repeat applications made within the same year. Three to four applications within the same year is not unusual.&nbsp;
+45.  If you look at the statistics between 2017 to 2019, there was an annual average of about 2,700 applications to enforce maintenance orders. One-third were repeat applications made within the same year. Three to four applications within the same year is not unusual.
 
 {:start="46"}
-46.  Majority of the applicants were women applying for themselves or for their minor children. Single mothers struggling to juggle work, children and other responsibilities. Outstanding maintenance issues usually means that they have to engage their ex-husbands, seek legal advice and attend enforcement hearings in the court. You have to take leave and go for all these things. So your bills are adding up, you have no money, you are holding a job sometimes if you are lucky, and your children need attention. Courts are usually kind to recalcitrant, whether they are women or men, because they do not want to send people to jail. So the man comes and says “Well, I did not have the money. I did not pay her. I know the court said to pay but I did not as I did not have the money.” The court will say “Okay, do not be a naughty boy and go back.” And then three months later, the guy still has not paid and then another application is raised, and it goes on and on.&nbsp;
+46.  Majority of the applicants were women applying for themselves or for their minor children. Single mothers struggling to juggle work, children and other responsibilities. Outstanding maintenance issues usually means that they have to engage their ex-husbands, seek legal advice and attend enforcement hearings in the court. You have to take leave and go for all these things. So your bills are adding up, you have no money, you are holding a job sometimes if you are lucky, and your children need attention. Courts are usually kind to recalcitrant, whether they are women or men, because they do not want to send people to jail. So the man comes and says “Well, I did not have the money. I did not pay her. I know the court said to pay but I did not as I did not have the money.” The court will say “Okay, do not be a naughty boy and go back.” And then three months later, the guy still has not paid and then another application is raised, and it goes on and on.
 
 {:start="47"}
 47.  It is not the Court’s fault because they do not want to send people to jail unnecessarily. You do not know who is telling the truth. For every eight guys who are lying, there are two who might be telling the truth, and then you would be sending an innocent man to jail. The court sitting there does not have the resources to know what assets the man has or does not have.
@@ -180,7 +180,7 @@ Good morning.
 52.  For those who cannot pay, I think we ought to treat them sympathetically, even if the woman and children are suffering. If he cannot pay then he cannot pay, what would you want to do? Send him to jail? You can go and ask him to work but beyond that, for those who refuse to pay, I think you can take tougher action. This facilitates a more sustainable maintenance outcome and for those who refuse to pay, I think it strengthens deterrence.
 
 {:start="53"}
-53.  Once you file the report, I think people can agree there can be conciliation by being sensible and indicating the amount that ought to be paid. However, if it cannot be settled, then the Court will make a Show-Payment Order (SPO). The SPO will require the respondent to come back to court at specified intervals and show proof that he has complied with his maintenance obligations.&nbsp;&nbsp;
+53.  Once you file the report, I think people can agree there can be conciliation by being sensible and indicating the amount that ought to be paid. However, if it cannot be settled, then the Court will make a Show-Payment Order (SPO). The SPO will require the respondent to come back to court at specified intervals and show proof that he has complied with his maintenance obligations.
 
 {:start="54"}
 54.  The SPO will typically last for six months. If the respondent does not show proof of payment, he will be imprisoned unless he can show good reasons for non-payment. Sounds a bit harsh but I am sure the court will approach this in a sensible way.
@@ -197,7 +197,7 @@ Good morning.
 57.  This I am hoping would continuously change in our norms and behaviour, so that divorce becomes more administrative and less emotional, and the children and the parties can go on to lead their lives afresh.
 
 {:start="58"}
-58.  That must be the purpose of divorce. For whatever reason that the marriage does not work, both parties should be able to go off, start their new lives and deal with the obligations in a sensible way.&nbsp;
+58.  That must be the purpose of divorce. For whatever reason that the marriage does not work, both parties should be able to go off, start their new lives and deal with the obligations in a sensible way.
 
 {:start="59"}
 59.  We are taking care of the violence and the maintenance in a way that removes a large amount of the burden. I should touch also on something that we had worked with MSF. In fact, MOS Sun and MOS Faishal were heading this committee – often in a marriage situation, say there is a threat of violence or anger, the woman feels threatened, the children are fearful, but nothing has happened, so what do you do?
@@ -212,10 +212,10 @@ Good morning.
 62.  In conclusion, we have continually reviewed and adapted our laws to help create a fairer and more equitable society. Because women are primarily the “weaker” partners, they are the ones who will benefit more from this framework of laws, but having good laws is just one facet. It has to be matched by a willingness on the ground, in our own daily lives, to really make a difference to the lived experiences of women.
 
 {:start="63"}
-63.  In that context, I am very pleased to see many groups here today which are dedicated to making this kind of positive change including AWARE, Casa Raudha, PAVE, SCWO, Society Against Family Violence and, of course, the organiser – SHE.&nbsp;
+63.  In that context, I am very pleased to see many groups here today which are dedicated to making this kind of positive change including AWARE, Casa Raudha, PAVE, SCWO, Society Against Family Violence and, of course, the organiser – SHE.
 
 {:start="64"}
-64.  I look forward to seeing these organisations do more good work.&nbsp;
+64.  I look forward to seeing these organisations do more good work.
 
 {:start="65"}
 65.  Thank you very much.
