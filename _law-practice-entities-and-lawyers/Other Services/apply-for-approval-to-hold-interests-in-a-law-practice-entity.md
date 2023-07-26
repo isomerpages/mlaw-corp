@@ -36,7 +36,7 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   <li style="text-align: justify"><b>Terminate the appointment or interests held by any of the above individuals.</b></li>
 </ul>
 
-<p style="text-align: justify"><b>Please also refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for a detailed step-by-step procedure.</b></p>
+<p style="text-align: justify"><b>Please also refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for a detailed step-by-step procedure.</b></p>
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://www.singpass.gov.sg/main/" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
