@@ -57,7 +57,7 @@ Terminate the Registration of an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://www.singpass.gov.sg/main/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
+        <li style="text-align: justify">Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
         <li>No fees will be charged for the termination.</li>
         <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li style="text-align: justify"><b>Please also note that the termination of the CoR may not necessarily terminate the obligations of the regulated legal practitioners and regulated non-practitioners under the Legal Profession Act (Cap. 161) and the rules made thereunder (such as, but not limited to, the Legal Profession (Professional Conduct) Rules 2015, Legal Profession (Accountant’s Report) Rules, Legal Profession (Solicitors’ Accounts) Rules and Legal Profession (Regulated Individuals) Rules 2015).</b></li>
