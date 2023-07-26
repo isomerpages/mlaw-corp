@@ -16,7 +16,7 @@ Register an Individual
 
 <p style="text-align: justify">To register a lawyer under Section 36B, 36C, 36D or 36E of the Legal Profession Act or a regulated non-practitioner under Section 36G of the Legal Profession Act, please follow the steps below.</p>
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
@@ -38,7 +38,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://www.singpass.gov.sg/main/" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -56,7 +56,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
+        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
         <li style="text-align: justify">The completed application form must be signed by the Registrant and the Managing Partner / Managing Director or Partner / Director (or equivalent) with the requisite authority of the applicant law practice entity.</li>
         <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the Second Schedule of the Legal Profession (Regulated Individuals) Rules 2015.</li>
         <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
@@ -133,7 +133,7 @@ Register an Individual
     <td>
       <ul>
         <li style="text-align: justify">All foreigners who intend to work in Singapore must have a valid work pass before they commence employment. To find out which pass is suitable, whether the foreigner is eligible, and how to apply, please visit the Ministry of Manpower’s (“MOM”) <a href="https://www.mom.gov.sg/passes-and-permits" target="_blank">website</a>.</li>
-        <li style="text-align: justify">You may also wish to use MOM's <a href="https://service1.mom.gov.sg/workpass/sat" target="_blank">Self Assessment Tool (SAT)</a> to check if the candidate qualifies for the work pass. While the SAT gives you an indication of eligibility, it does not guarantee the actual outcome of the application. This is because there are checks such as employer's quota (for S Pass) or candidate's antecedents that are not considered in the SAT.</li>
+        <li style="text-align: justify">You may also wish to use MOM's <a href="https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool" target="_blank">Self Assessment Tool (SAT)</a> to check if the candidate qualifies for the work pass. While the SAT gives you an indication of eligibility, it does not guarantee the actual outcome of the application. This is because there are checks such as employer's quota (for S Pass) or candidate's antecedents that are not considered in the SAT.</li>
       </ul>
     </td>
     <td>

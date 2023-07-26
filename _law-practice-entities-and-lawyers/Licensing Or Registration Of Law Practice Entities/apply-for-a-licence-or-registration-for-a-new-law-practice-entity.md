@@ -17,7 +17,7 @@ Apply for a Licence or Registration for a New Law Practice Entity
 
 <p style="text-align: justify">To apply for a licence for a new Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or register a new Group Practice ("GP") or Representative Office ("RO"), please follow the steps below.</p>
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
@@ -38,11 +38,8 @@ Apply for a Licence or Registration for a New Law Practice Entity
         <li style="text-align: justify">The person whose SingPass is used to login to LSRA e-Services will be the Main Contact for the Application.</li>
         <li style="text-align: justify">All Singapore citizens and permanent residents, passholders (Employment Pass, EntrePass, S-Pass, Dependent Pass, and Long Term Visit Pass Plus) and selected Work Permit holders are eligible for SingPass.</li>
         <li style="text-align: justify">
-If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login" target="_blank">SingPass website</a>.</li>
-        <li>If you are not eligible for SingPass, you can approach:
-          <ul>
-             <li style="text-align: justify"><a href="https://www.mlaw.gov.sg/about-us/contact-us/" target="_blank">Ministry of Law Services Centre</a> (if you are based in Singapore); or</li>
-             <li style="text-align: justify">A third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/index.php/practitioners-directory/" target="_blank">a corporate services provider</a></li>
+If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/main/" target="_blank">SingPass website</a>.</li>
+        <li>If you are not eligible for SingPass, you can approach a third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/index.php/practitioners-directory/" target="_blank">a corporate services provider.</a></li>
           </ul>
         </li>
       </ul>
@@ -60,7 +57,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://eservices.mlaw.gov.sg/lsra/lsra-home" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
+        <li style="text-align: justify">Before completing the application form, you may wish to refer to the User Guide and applicable sample forms on the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA.</b></li>
         <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity and, if applicable, its constituent / member law practices. For new FLPs and ROs, it must also be signed by the Managing Partner / Managing Director (or equivalent) of the parent law practice.</li>
          <li style="text-align: justify">The application fee, which is non-refundable regardless of the outcome of the application, can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
        <li style="text-align: justify">The application fee must be paid online using a valid credit/debit card.</li>
