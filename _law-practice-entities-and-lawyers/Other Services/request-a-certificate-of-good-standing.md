@@ -14,7 +14,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 
 <p style="text-align: justify">[Note: Singapore solicitors, including those currently or previously registered under section 36E (previously section 130N) of the Legal Profession Act, should apply to the <a href="https://www.judiciary.gov.sg/legal-professionals/certificates-of-good-standing" target="_blank">Supreme Court of Singapore </a>for a Certificate of Good Standing or the <a href="https://www.lawsociety.org.sg/for-lawyers/certificate-of-standing/" target="_blank">Law Society of Singapore </a>for a Certificate of Standing.]</p> 
   
-<p style="text-align: justify">To request for a Certificate of Good Standing from the LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
+<p style="text-align: justify">To request for a Certificate of Good Standing from the LSRA, the law practice entity should submit the request on the foreign lawyer's behalf via <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services.</a> A fee of SGD150.00 is payable before the issuance of the Certificate of Good Standing. <b>If the foreign lawyer is no longer registered with the LSRA, please submit the request via <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
 
 * Full name
 * Identification number (as reflected in the individual's identification document)<br>[Note: NRIC is preferred, followed by FIN, then passport.] 
@@ -27,7 +27,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 
 <p style="text-align: justify">Law practice entities currently or previously licensed with the LSRA (or the AGC LPS or the Law Society of Singapore prior to 18 November 2015) may apply to the LSRA for a <b>Letter of Confirmation</b> to certify their registration or licence with the LSRA. </p> 
 
-<p style="text-align: justify">To request for a Letter of Confirmation, the law practice entity should submit the request via <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services.</a> <b>If the law practice entity is no longer licensed with the LSRA, please submit the request via <a href="https://www.mlaw.gov.sg/eservices/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
+<p style="text-align: justify">To request for a Letter of Confirmation, the law practice entity should submit the request via <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services.</a> <b>If the law practice entity is no longer licensed with the LSRA, please submit the request via <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">Contact Us @ OneMinLaw</a> with the following information:</b></p> 
 
 * Name of law practice
 * Unique Entity Number (UEN)
@@ -36,7 +36,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 * Date by which the Letter of Confirmation is required
 * Purpose of request
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
@@ -58,7 +58,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://www.singpass.gov.sg/main/" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
