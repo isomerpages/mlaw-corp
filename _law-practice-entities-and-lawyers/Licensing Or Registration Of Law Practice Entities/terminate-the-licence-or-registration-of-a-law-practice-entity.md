@@ -16,7 +16,7 @@ Terminate the Licence or Registration of a Law Practice Entity
 
 <p style="text-align: justify">To terminate the licence of a Singapore Law Practice ("SLP"), Foreign Law Practice ("FLP"), Qualifying Foreign Law Practice ("QFLP"), Joint Law Venture ("JLV") or Formal Law Alliance ("FLA"), or the registration of a Group Practice ("GP") or Representative Office ("RO"), please follow the steps below.</p>
 
-<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">User Guide</a> for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
+<p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
@@ -38,7 +38,7 @@ Terminate the Licence or Registration of a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://go.gov.sg/corporate-login" target="_blank">here</a>.</li>
+        <li style="text-align: justify">Please login to Government-to-Business (G2B) digital services in Singapore using SingPass. For more information, please visit <a href="https://www.singpass.gov.sg/main/" target="_blank">here</a>.</li>
       </ul>
     </td>
     <td>
@@ -55,7 +55,7 @@ Terminate the Licence or Registration of a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://www.mlaw.gov.sg/eservices/lsra/lsra-home/" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
+        <li style="text-align: justify">Before completing the termination form, you may wish to refer to the User Guide on the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">LSRA e-Services portal</a>. <b>Please note that the sample forms are provided for reference only and cannot be used for submission to the LSRA</b>.</li>
         <li style="text-align: justify">No fees will be charged for the termination.</li>
         <li style="text-align: justify">The completed application form must be signed by the Managing Partner / Managing Director / Manager (or equivalent) of the proposed law practice entity, and if applicable, its constituent / member law practices.</li>
         <li style="text-align: justify">If you are terminating the licence because you are converting to a different legal structure, please ensure that you first apply via LSRA e-Services for a licence for a new entity.  After the licence has been issued, you should applying for new Certificates of Registration for all the individuals under the new law practice.  </li>
