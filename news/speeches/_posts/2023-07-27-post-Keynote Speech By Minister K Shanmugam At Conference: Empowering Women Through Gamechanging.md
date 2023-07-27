@@ -1,7 +1,7 @@
 ---
-title: "Keynote Speech By Minister K Shanmugam At Conference: Empowering Women
+title: "Keynote Speech By Minister K Shanmugam At Conference: Empowering Women Through Gamechanging Legal Reforms
   Through Gamechanging"
-permalink: /news/speeches/keynote-speech-by-minister-k-shanmugam-at-conference-empowering-women-through/
+permalink: /news/speeches/keynote-speech-by-minister-k-shanmugam-at-conference-empowering-women-through-gamechanging-legal-reforms/
 date: 2023-07-27
 layout: post
 description: ""
