@@ -3,17 +3,17 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-<!--#### **Urgent Maintenance Notice**
-Some of our e-services are unavailable due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
-<br><br>The following e-services are still accessible via the links provided: 
+#### **Urgent Maintenance Notice**
+Some of our e-services may be unavailable due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+<br><br>
+<!--The following e-services are still accessible via the links provided: 
 
 | E-Services | Maintenance Schedule | 
 | -------- | -------- | 
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | 10 July 2023 Mon, 0800 hrs to 11 July 2023 Tue 0900 hrs     |  
-
-
-
-<br><br>We seek your understanding and apologise for any inconvenience caused.   -->
+<br><br>
+-->
+We seek your understanding and apologise for any inconvenience caused.  
 
 <!--
 <br><br><u>Insolvency Search:</u> 
