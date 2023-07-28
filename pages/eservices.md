@@ -3,38 +3,11 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-<!--#### **Urgent Maintenance Notice**
-Some of our e-services may be unavailable due to urgent maintenance works from 28 July 2023 12am to 29 July 2023 9am. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.  -->
-<br>
-<!--<br> The following e-services are still accessible via the links provided: 
-
-| E-Services | Maintenance Schedule | 
-| -------- | -------- | 
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries     | 10 July 2023 Mon, 0800 hrs to 11 July 2023 Tue 0900 hrs     |  
-<br><br>
--->
-We seek your understanding and apologise for any inconvenience caused. 
-<!--
-<br><br><u>Insolvency Search:</u> 
-https://go.gov.sg/insolvencysearch
-<br><u>Insolvency Person’s Portal:</u> 
-https://go.gov.sg/insolventpersonsportal
-<br><u>Creditor’s Portal:</u> 
-https://go.gov.sg/creditorsportal
-<br><u>Private Trustees in Bankruptcy Portal:</u> 
-https://go.gov.sg/ptibportal 
-<br><br>We seek your understanding and apologise for any inconvenience caused. 
--->
-
-
-<!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. -->
-
 #### **New Insolvency Office (IO) E-Services (new!)**
  
 
 To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
 
-<!-- user requested to remove as it has past. If you have saved any draft applications, you are required to complete and submit them before **5 July 2023 (Wednesday), 6.00 pm**. The saved drafts will not be brought over to the new E-Services. -->
 <hr>
 <!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 13 June 2023, 2359 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
@@ -47,19 +20,16 @@ https://go.gov.sg/insolventpersonsportal
 https://go.gov.sg/creditorsportal
 <br><u>Private Trustees in Bankruptcy Portal:</u> 
 https://go.gov.sg/ptibportal 
-<br><br>We seek your understanding and apologise for any inconvenience caused. 
--->
-<!--Notice for Regular Maintenance Schedule-->
+<br><br>We seek your understanding and apologise for any inconvenience caused. -->
 
 <!--#### **Urgent Maintenance Notice**
 The all Minlaw e-services and Online enquiries are unavailable till 23 June 2023, 0900 hrs, due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.--> 
 
 
+<!--Notice for Regular Maintenance Schedule-->
 
 #### **Maintenance Notices**
 The following eServices are unavailable due to scheduled maintenance on the following dates:
-
-<!--|  All Minlaw eServices  | 1 July 2023 Sat, 1400 hrs to 2 July 2023 Sun, 2359 hrs| -->
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
@@ -67,23 +37,12 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 <!--| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu, 1800 hrs to 2359 hrs|
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs| -->
 
-
-
 <br>
 We seek your understanding and apologise for any inconvenience caused.
 
-<!--below notice is prepared for CIMS Go-Live-->
-<!--#### **Maintenance Notices**
-Please be informed that the following eServices will be scheduled for  maintenance on the following dates, and access will not be available during this period: 
-
-| E-Services | Maintenance Schedule |
-| -------- | -------- |
-| Insolvency Office, Public Trustee's Office    | 14 Jun, Thu, 1800 hrs to 15 Jun, Thu, 0800 hrs     | 
 
 
-<hr>
--->
-<br>
+
 
 1. [Insolvency Office](https://eservices.mlaw.gov.sg/io/)	
 2. [Public Trustee's Office](https://eservices.mlaw.gov.sg/pto/)
