@@ -3,8 +3,8 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-#### **Urgent Maintenance Notice**
-Some of our e-services may be unavailable due to urgent maintenance works from 28 July 2023 12am to 29 July 2023 9am. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+<!--#### **Urgent Maintenance Notice**
+Some of our e-services may be unavailable due to urgent maintenance works from 28 July 2023 12am to 29 July 2023 9am. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual.  -->
 <br>
 <!--<br> The following e-services are still accessible via the links provided: 
 
