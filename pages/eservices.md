@@ -31,7 +31,7 @@ https://go.gov.sg/ptibportal
 <!--Hi Team, CIMS launch notice to be uncommented once confirmed CIMS go-live on 10 Jul 2023. Tentatively need to publish 2 weeks before go-live. -->
 
 #### **New Insolvency Office (IO) E-Services (new!)**
-We will be launching our new Corporate Insolvency E-Services on **10 July 2023**. 
+ 
 
 To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
 
