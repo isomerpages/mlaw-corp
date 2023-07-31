@@ -53,6 +53,7 @@ image: ""
 - Ms Marina Chin (Joint Managing Partner, Tan Kok Quan Partnership)
 - Mr Jerry Koh (Managing Partner, Allen &amp; Gledhill)
 - Mr Lim Soon Chong (Group Head, Global Transaction Services, Institutional Banking Group, DBS)
+- Mr Colin Low (Chief Executive, SLA)
 - Mr Kenny Tan (Deputy Secretary (Workforce), Ministry of Manpower)
 
 **ANNEX**
