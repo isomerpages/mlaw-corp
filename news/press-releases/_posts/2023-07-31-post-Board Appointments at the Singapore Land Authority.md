@@ -32,6 +32,7 @@ image: ""
 
 
 **Out-going Members**
+
 {:start="4"}
 4.	The following members will complete their current term of office on 31 July 2023:
 
