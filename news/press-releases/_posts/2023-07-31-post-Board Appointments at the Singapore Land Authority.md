@@ -13,7 +13,7 @@ image: ""
 
 **New Members**
 
-{:start=""}
+{:start="2"}
 2.	The following two new members will be appointed for a term of two years commencing on 1 August 2023:
 
 - Ms Jaelle Ang (Chief Executive Officer and Co-Founder, The Great Room)
