@@ -9,16 +9,16 @@ image: ""
 02 August 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 {:start="1"}
-1.  Mr Speaker, on behalf of the Minister for Law, I beg to move, "That the Bill be now read a Second time".&nbsp;
+1.  Mr Speaker, on behalf of the Minister for Law, I beg to move, "That the Bill be now read a Second time".
 
 {:start="2"}
-2.  Sir, this Constitution (Amendment) Bill is linked to the next Bill on the Order Paper, the Oaths, Declarations and Notarisations (Remote Methods) Bill.&nbsp;
+2.  Sir, this Constitution (Amendment) Bill is linked to the next Bill on the Order Paper, the Oaths, Declarations and Notarisations (Remote Methods) Bill.
 
 {:start="3"}
-3.  May I therefore propose, with your permission, that the substantive debate on both Bills takes place now.&nbsp;
+3.  May I therefore propose, with your permission, that the substantive debate on both Bills takes place now.
 
 {:start="4"}
-4.  Members are welcome to raise questions or express their views on both Bills during the debate. We will still have the formal Second Reading of the Oaths, Declarations and Notarisations (Remote Methods) Bill to ensure that the procedural requirements are satisfied.&nbsp;
+4.  Members are welcome to raise questions or express their views on both Bills during the debate. We will still have the formal Second Reading of the Oaths, Declarations and Notarisations (Remote Methods) Bill to ensure that the procedural requirements are satisfied.
 
 {:start="5"}
 5.  Thank you, Sir.
@@ -26,11 +26,10 @@ image: ""
 **I.  INTRODUCTION**
 
 {:start="6"}
-6.  Sir, this Constitution (Amendment) Bill, and the Oaths, Declarations and Notarisations (Remote Methods) Bill, concern the way in which a statutory declaration, oath and affirmation, or notarial act is to be made or done in Singapore.&nbsp;
+6.  Sir, this Constitution (Amendment) Bill, and the Oaths, Declarations and Notarisations (Remote Methods) Bill, concern the way in which a statutory declaration, oath and affirmation, or notarial act is to be made or done in Singapore.
 
 {:start="7"}
 7.  Let me first briefly explain what a statutory declaration, oath and affirmation, and notarial act is, before I take Members through the key aspects of these Bills.
-
 <ul>a. In brief, a statutory declaration is a written statement that a person signs, and solemnly declares to be true.
 <ul> i. Making a false statutory declaration is a serious criminal offence. For example, producing a false statutory declaration to a Court can result in a jail term of up to 7 years.</ul>
 <ul>ii. Apart from use in court proceedings, statutory declarations may also be taken for a myriad of commercial or regulatory purposes such as registering a ship, declaring that a company is solvent, transferring a bill of sale, or affirming that contractual obligations have been complied with.</ul>
@@ -39,19 +38,19 @@ image: ""
 <br> For instance, applications to the Registrar of Titles for a replacement Certificate of Title must be accompanied by a statutory declaration setting out the circumstances leading to the loss of the original Certificate.</ul>
 <ul> iv. Given the weight that can be placed on facts set out in a sworn statutory declaration, and the serious consequences associated with making a false statutory declaration, the law today requires a statutory declaration to be made in a specific form and manner.</ul>
 <ul> v. Therefore, a statutory declaration must take the form that is set out in the Oaths and Declarations Act.</ul> 
-<ul> vi. And it must also be made before an authorised person such as a Commissioner for Oaths, or CFO for short, who will check the identity of the declarant, and ensure that the declarant is aware of what he is doing; and aware of the consequences of making a false declaration.</ul>
-<br> b. Next, an oath or affirmation is a solemn declaration by which a person swears or affirms that what he says is the truth, or that he will do as he has promised to do.
+<ul> vi. And it must also be made before an authorised person such as a Commissioner for Oaths, or CFO for short, who will check the identity of the declarant, and ensure that the declarant is aware of what he is doing; and aware of the consequences of making a false declaration.</ul></ul>
+b. Next, an oath or affirmation is a solemn declaration by which a person swears or affirms that what he says is the truth, or that he will do as he has promised to do.
 <ul> i. There is a wide range of circumstances in which a person may be required to take an oath. But most oaths fall within two broad categories.</ul>
 <ul> ii. First, a person – such as a witness – may be required to take an oath before giving evidence, for example, to a court or tribunal.</ul>
-<ul> iii. Second, a person may also be required to take an oath if he or she is appointed to an office such as that of a Judge. For example, before assuming office, Supreme Court Judges are required under the Constitution to solemnly swear to faithfully discharge their judicial duties, and do right without fear or favour.</ul>&nbsp;
-<br> c. Last, I come to notarial functions that are performed by a Notary Public in Singapore, or NP for short.&nbsp;&nbsp;
+<ul> iii. Second, a person may also be required to take an oath if he or she is appointed to an office such as that of a Judge. For example, before assuming office, Supreme Court Judges are required under the Constitution to solemnly swear to faithfully discharge their judicial duties, and do right without fear or favour.</ul>
+c. Last, I come to notarial functions that are performed by a Notary Public in Singapore, or NP for short.
 <ul> i. From time to time, individuals or businesses may need to obtain a notarial act from a Notary Public.&nbsp; For example –</ul>
 <ul><ul> 1. An individual may need a certified true copy of an original document such as his identity card or academic certificate to apply to a foreign educational institution for further studies; or </ul></ul>
 <ul><ul> 2. A business may need a Notary Public to witness the due execution of a document that is meant for use overseas.</ul></ul>
 <ul> ii. The process of obtaining a notarial act is a stringent one:</ul>
 <ul><ul> 1. Notaries must keep a full and accurate record of the whole procedure.</ul></ul>
 <ul><ul>2.  Further, each notarial certificate issued by the Notary Public is serialised, and must be presented to the Singapore Academy of Law for authentication.</ul></ul>
-<ul> iii. This mitigates the risk of forgery, safeguards the integrity of the process, and provides foreign recipients with the assurance that they need in order to rely on documents that are notarised by a Notary Public in Singapore.</ul></ul>
+<ul> iii. This mitigates the risk of forgery, safeguards the integrity of the process, and provides foreign recipients with the assurance that they need in order to rely on documents that are notarised by a Notary Public in Singapore.</ul>
 
 {:start="8"}
 8.  As members will have gathered from the brief explanation that I have given, historically, and today, the process for –&nbsp;
