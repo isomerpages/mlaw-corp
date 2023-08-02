@@ -43,7 +43,7 @@ image: ""
 **Publication of Correction Notice**
 
 {:start="6"}
-6.	As required by the Correction Direction, Mr Lee Hsien Yang must publish correction notice on the said post on his Facebook page. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link:  <a href="https://www.gov.sg/article/factually250723" target="new">https://www.gov.sg/article/factually250723.</a>
+6.	As required by the Correction Direction, Mr Lee Hsien Yang must publish a correction notice on the said post on his Facebook page. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link:  <a href="https://www.gov.sg/article/factually250723" target="new">https://www.gov.sg/article/factually250723.</a>
 
 
 
