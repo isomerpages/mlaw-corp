@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister to PQ on Authenticity of Quotations for Star
-  Rate Items in Devt Project
+title: Written Answer by Minister for Law K Shanmugam to PQ on Authenticity of Quotations for Star Rate Items in Development Project under State Courts
 permalink: /news/parliamentary-speeches/written-pq-authenticity-of-quotations-star-rate-items/
 date: 2023-08-02
 layout: post
