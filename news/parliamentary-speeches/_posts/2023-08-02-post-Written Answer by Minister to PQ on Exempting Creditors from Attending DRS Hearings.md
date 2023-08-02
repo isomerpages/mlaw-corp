@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister to PQ on Exempting Creditors from Attending
-  DRS Hearings
+title: Written Answer by Minister for Law K Shanmugam to PQ on Justification for Exempting Creditors from Attending Debt Repayment Scheme Hearings
 permalink: /news/parliamentary-speeches/written-pq-justifications-exempting-creditors-drs-hearings/
 date: 2023-08-02
 layout: post
