@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister on Cases of Disputes Between Neighbours over
-  Secondhand Smoke
+title: Written Answer by Minister for Law K Shanmugam on Cases of Disputes Between Neighbours Over Second-hand Smoke and Enforcement Orders Sought and Successful
 permalink: /news/parliamentary-speeches/written-pq-dispute-between-neighbours-secondhand-smoke/
 date: 2023-08-02
 layout: post
