@@ -31,7 +31,24 @@ image: ""
 
 {:start="7"}
 7.  Let me first briefly explain what a statutory declaration, oath and affirmation, and notarial act is, before I take Members through the key aspects of these Bills.
-* In brief, a statutory declaration is a written statement that a person signs, and solemnly declares to be true.
+
+{:start="7"}
+7.	Let me first briefly explain what a statutory declaration, oath and affirmation, and notarial act is, before I take Members through the key aspects of these Bills.
+
+    a.	In brief, a statutory declaration is a written statement that a person signs, and solemnly declares to be true.
+			i. Making a false statutory declaration is a serious criminal offence. For example, producing a false statutory declaration to a Court can result in a jail term of up to 7 years.
+			ii. Apart from use in court proceedings, statutory declarations may also be taken for a myriad of commercial or regulatory purposes such as registering a ship, declaring that a company is solvent, transferring a bill of sale, or affirming that contractual obligations have been complied with.
+			iii. Some public agencies may also require certain applications to be supported by a statutory declaration.
+<br>For instance, applications to the Registrar of Titles for a replacement Certificate of Title must be accompanied by a statutory declaration setting out the circumstances leading to the loss of the original Certificate.
+	* Given the weight that can be placed on facts set out in a sworn statutory declaration, and the serious consequences associated with making a false statutory declaration, the law today requires a statutory declaration to be made in a specific form and manner.
+	* Therefore, a statutory declaration must take the form that is set out in the Oaths and Declarations Act.
+	* And it must also be made before an authorised person such as a Commissioner for Oaths, or CFO for short, who will check the identity of the declarant, and ensure that the declarant is aware of what he is doing; and aware of the consequences of making a false declaration.
+
+    b.	Next, an oath or affirmation is a solemn declaration by which a person swears or affirms that what he says is the truth, or that he will do as he has promised to do.
+
+    c.	Last, I come to notarial functions that are performed by a Notary Public in Singapore, or NP for short.
+
+
 	* Making a false statutory declaration is a serious criminal offence. For example, producing a false statutory declaration to a Court can result in a jail term of up to 7 years.
 	* Apart from use in court proceedings, statutory declarations may also be taken for a myriad of commercial or regulatory purposes such as registering a ship, declaring that a company is solvent, transferring a bill of sale, or affirming that contractual obligations have been complied with.
 	* Some public agencies may also require certain applications to be supported by a statutory declaration.
@@ -39,11 +56,11 @@ image: ""
 	* Given the weight that can be placed on facts set out in a sworn statutory declaration, and the serious consequences associated with making a false statutory declaration, the law today requires a statutory declaration to be made in a specific form and manner.
 	* Therefore, a statutory declaration must take the form that is set out in the Oaths and Declarations Act.
 	* And it must also be made before an authorised person such as a Commissioner for Oaths, or CFO for short, who will check the identity of the declarant, and ensure that the declarant is aware of what he is doing; and aware of the consequences of making a false declaration.
-* Next, an oath or affirmation is a solemn declaration by which a person swears or affirms that what he says is the truth, or that he will do as he has promised to do.
+
 	* There is a wide range of circumstances in which a person may be required to take an oath. But most oaths fall within two broad categories.
 	* First, a person – such as a witness – may be required to take an oath before giving evidence, for example, to a court or tribunal.
 	* Second, a person may also be required to take an oath if he or she is appointed to an office such as that of a Judge. For example, before assuming office, Supreme Court Judges are required under the Constitution to solemnly swear to faithfully discharge their judicial duties, and do right without fear or favour.
-* Last, I come to notarial functions that are performed by a Notary Public in Singapore, or NP for short.
+
 	* From time to time, individuals or businesses may need to obtain a notarial act from a Notary Public. For example –
 		* An individual may need a certified true copy of an original document such as his identity card or academic certificate to apply to a foreign educational institution for further studies; or
 		* A business may need a Notary Public to witness the due execution of a document that is meant for use overseas.
