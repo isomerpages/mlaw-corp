@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-3 July 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+2 August 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <b>Mr Murali Pillai (Bukit Batok SMC)</b>
 
