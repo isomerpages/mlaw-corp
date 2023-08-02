@@ -1,5 +1,6 @@
 ---
-title: Issuance of Correction Direction under the Protection from Online Falsehoods and Manipulation Act to Lee Hsien Yang
+title: Issuance of Correction Direction under the Protection from Online
+  Falsehoods and Manipulation Act to Lee Hsien Yang
 permalink: /news/press-releases/2023-07-25-pofma-correction-directions-to-lee-hsien-yang/
 date: 2023-07-25
 layout: post
@@ -15,7 +16,7 @@ image: ""
     
 <p style="margin-left: 40px">(b)	Trees at 26 Ridout Road and 31 Ridout Road were allowed to be felled because the properties were leased by Ministers Shanmugam and Balakrishnan.</p>
 
-<p style="margin-left: 40px">(c)	SPH Media Trust fraudulently inflated its circulation numbers.&lt;</p>
+<p style="margin-left: 40px">(c)	SPH Media Trust fraudulently inflated its circulation numbers.</p>
 
 {:start="2"}
 2.	The Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong has instructed for a Correction Direction, under the Protection from Online Falsehoods and Manipulation Act (POFMA), to be issued to Mr Lee Hsien Yang. Mr Lee Hsien Yang will be required to carry the correction notice, stating that the Facebook post contains false statements of fact.
@@ -42,7 +43,7 @@ image: ""
 **Publication of Correction Notice**
 
 {:start="6"}
-6.	As required by the Correction Direction, Mr Lee Hsien Yang must publish correction notice on the said post on his Facebook page. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link:  <a href="https://www.gov.sg/article/factually250723" target="new">https://www.gov.sg/article/factually250723.</a>
+6.	As required by the Correction Direction, Mr Lee Hsien Yang must publish a correction notice on the said post on his Facebook page. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter, at the following link:  <a href="https://www.gov.sg/article/factually250723" target="new">https://www.gov.sg/article/factually250723.</a>
 
 
 
