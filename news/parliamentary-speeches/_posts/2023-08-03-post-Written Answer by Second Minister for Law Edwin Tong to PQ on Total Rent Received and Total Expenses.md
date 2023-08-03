@@ -12,7 +12,7 @@ image: ""
 <b>Ms Hazel Poa (Non-Constituency Member of Parliament)</b>
 
 <b><u>Question</u></b>
-<br>To ask the Minister for Law (a) what is the total rent received by the Government from black-and-white bungalows in 2022; and (b) what are the total 6 expenses incurred by the Government on maintaining and marketing black-and-white bungalows in 2022.
+<br>To ask the Minister for Law (a) what is the total rent received by the Government from black-and-white bungalows in 2022; and (b) what are the total expenses incurred by the Government on maintaining and marketing black-and-white bungalows in 2022.
 
 <b><u>Written Answer:</u></b>
 
