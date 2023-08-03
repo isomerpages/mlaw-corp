@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Undeveloped
-  State Land Adjacent
-permalink: /news/parliamentary-speeches/written-answer-pq-on-undeveloped-state-land-adjacent/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Black-and-White Properties Managed By SLA With Undeveloped State Land Adjacent To Property
+permalink: /news/parliamentary-speeches/written-answer-pq-on-bw-properties-managed-by-sla-with-undeveloped-state-land-adjacent
 date: 2023-08-03
 layout: post
 description: ""
