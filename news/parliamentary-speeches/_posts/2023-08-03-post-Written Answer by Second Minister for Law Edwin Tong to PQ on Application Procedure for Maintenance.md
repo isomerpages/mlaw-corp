@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Application
-  Procedure for Maintenance
-permalink: /news/parliamentary-speeches/written-answer-pq-on-application-process-state-land/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Application Procedure for Maintenance Of State Land Adjacent To Black-and-White And Landed Properties
+permalink: /news/parliamentary-speeches/written-answer-pq-on-application-proccedure-for-maintenance-of-state-land-adjacent-to-bw-landed-properties
 date: 2023-08-03
 layout: post
 description: ""
