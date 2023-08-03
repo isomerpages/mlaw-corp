@@ -1,5 +1,5 @@
 ---
-title: Second Reading Speech by SPS on the Constitution (Amendment No. 2) Bill, and the Oaths, Declarations and Notarisations (Remote Methods) Bill
+title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on the Constitution (Amendment No. 2) Bill, and the Oaths, Declarations and Notarisations (Remote Methods) Bill
 permalink: /news/parliamentary-speeches/2023-08-02-2r-speech-constitution-amendment-no2-by-rahayu-mahzam/
 date: 2023-08-02
 layout: post
