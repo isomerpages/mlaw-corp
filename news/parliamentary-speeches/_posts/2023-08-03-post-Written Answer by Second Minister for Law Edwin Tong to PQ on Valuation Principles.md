@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Valuation
-  Principles
-permalink: /news/parliamentary-speeches/written-answer-pq-on-valuation-principles-for-sla-managed-properties/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Valuation Principles Used For SLA-Managed Properties And Sale Of Land For Public Housing
+permalink: /news/parliamentary-speeches/written-answer-pq-on-valuation-principles-for-sla-managed-properties-and-sale-of-land-for-public-housing
 date: 2023-08-03
 layout: post
 description: ""
