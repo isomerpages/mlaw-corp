@@ -1,7 +1,7 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Size of
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Size of State Land Around Black-and-White Bungalows Cleared for Safety or Health Reasons Since 2013
   State Land Around Black and
-permalink: /news/parliamentary-speeches/written-answer-pq-on-size-of-state-land-cleared-around-black-and-white/
+permalink: /news/parliamentary-speeches/written-answer-pq-on-size-of-state-land-cleared-around-black-and-white-bungalows/
 date: 2023-08-03
 layout: post
 description: ""
