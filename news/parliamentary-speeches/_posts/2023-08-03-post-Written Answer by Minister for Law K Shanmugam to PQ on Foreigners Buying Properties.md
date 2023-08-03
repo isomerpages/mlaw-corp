@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Foreigners Buying
+title: Written Answer by Minister for Law K Shanmugam to PQ on Foreigners Buying Properties Zoned "Commercial" but Approved for Mixed Commercial and Residential Development
   Properties
 permalink: /news/parliamentary-speeches/written-answer-pq-on-foreigners-buying-properties-under-rpa/
 date: 2023-08-03
