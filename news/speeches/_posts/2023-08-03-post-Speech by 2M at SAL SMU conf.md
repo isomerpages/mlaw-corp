@@ -1,5 +1,5 @@
 ---
-title: Opening Speech by Deputy Secretary of Law, Mr Calvin Phua, on behalf of Minister for Culture, Community and Youth, and Second Minister for Law Mr Edwin Tong SC, at The Next Frontier of Lawyering: From ESG to GPT Conference
+title: Opening Speech by Deputy Secretary of Law, Mr Calvin Phua, on behalf of Minister for Culture, Community and Youth, and Second Minister for Law Mr Edwin Tong SC, at The Next Frontier of Lawyering - From ESG to GPT Conference
 permalink: /news/speeches/2m-speech-at-sal-smu-conf-2023/
 date: 2023-08-03
 layout: post
