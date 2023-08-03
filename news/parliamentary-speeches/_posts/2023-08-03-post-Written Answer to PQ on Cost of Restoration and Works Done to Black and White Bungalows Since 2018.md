@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Cost of Restoration and Additional Works Done to Black-and-White Bungalows Since 2018
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Cost of
+  Restoration and Additional Works Done to Black-and-White Bungalows Since 2018
 permalink: /news/parliamentary-speeches/written-pq-cost-of-restoration-additional-works-bw-bungalows-since-2018/
 date: 2023-08-03
 layout: post
@@ -16,10 +17,10 @@ image: ""
 <b><u>Written Answer:</u></b>
 
 {:start="1"}
-1.&nbsp; 1.	The Singapore Land Authority (SLA) does not specifically track the number of cases involving residential heritage bungalows managed by SLA, which fall into the categories set out by the Member.
+1.&nbsp; The Singapore Land Authority (SLA) does not specifically track the number of cases involving residential heritage bungalows managed by SLA, which fall into the categories set out by the Member.
 
 {:start="2"}
-2.&nbsp; 2.	SLA’s approach with regard to the management of State properties was explained in detail in Parliament on 3 July 2023. The Member can refer to the speeches as well as to the various clarifications addressed in Parliament. We highlight the following two points:
+2.&nbsp; SLA’s approach with regard to the management of State properties was explained in detail in Parliament on 3 July 2023. The Member can refer to the speeches as well as to the various clarifications addressed in Parliament. We highlight the following two points:
 
 a.	On the rental of properties at exactly the guide rent – as explained in Parliament on 3 July 2023, SLA’s practice for its residential State properties is that these properties can be rented out if the offered rent is equal to or above the guide rent. Thus, there would have been cases where residential heritage bungalows were rented out exactly at the guide rent. 
 
