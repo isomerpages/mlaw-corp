@@ -64,11 +64,11 @@ Ladies and Gentlemen
 {:start="10"}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What kind of world do we live in now? All of us will have our own take. For me, I call it the three ‘Bs’:
 
-	(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ‘broken’ world.
+	(a) The ‘broken’ world.
 
-	(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ‘balanced’ world.
+	(b) The ‘balanced’ world.
 
-	(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ‘borderless’ world.
+	(c) The ‘borderless’ world.
 
 **The ‘Broken’ World**
 
@@ -81,29 +81,29 @@ Ladies and Gentlemen
 {:start="13"}
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are wars around us.
 
-	(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Russia’s invasion of Ukraine.
+	(1) Russia’s invasion of Ukraine.
 
-	(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trade wars between:
+	(2) Trade wars between:
 
-				(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US and China
+				(a) US and China
 
-				(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US and EU
+				(b) US and EU
 
-				(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US and Canada
+				(c) US and Canada
 
-				(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US and India
+				(d) US and India
 
-				(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Japan and South Korea
+				(e) Japan and South Korea
 
-				(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Australia and China
+				(f) Australia and China
 
-	(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These are all major economies in the world.
+	(3) These are all major economies in the world.
 
-	(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have heard the phrase:
+	(4) You have heard the phrase:
 
-				(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “When the elephant sneezes, everyone catches a cold.”
+				(a) “When the elephant sneezes, everyone catches a cold.”
 
-				(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What’s more, a few elephants sneezing at around the same time.
+				(b) What’s more, a few elephants sneezing at around the same time.
 
 {:start="14"}
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has led to spiralling commodity prices, disrupted global supply chains, greater global food insecurity, skyrocketing interest rates, and rising inflation.
@@ -148,13 +148,13 @@ Ladies and Gentlemen
 {:start="26"}
 26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world has become more interconnected, due to:
 
-	(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International cooperation, which removes barriers between countries, e.g. EU, FTAs.
+	(1) International cooperation, which removes barriers between countries, e.g. EU, FTAs.
 
-	(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advances in transportation, which facilitate the flow of trade and investment.
+	(2) Advances in transportation, which facilitate the flow of trade and investment.
 
-	(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital connectivity, which enables people from different parts of the world to connect and exchange information with ease.
+	(3) Digital connectivity, which enables people from different parts of the world to connect and exchange information with ease.
 
-	(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increased mobility, with people increasingly moving across borders to live, work, and study. This mobility has been taken one step further, with digital nomads gaining popularity in recent years. Thanks to the rapid improvements in technology, we are no longer tethered to a physical office. We have the freedom to work from anywhere in the world. It has been estimated that there are 35 million digital nomads worldwide. I do not know how many lawyers there are amongst them, but I will not be surprised if there is more than a handful.
+	(4) Increased mobility, with people increasingly moving across borders to live, work, and study. This mobility has been taken one step further, with digital nomads gaining popularity in recent years. Thanks to the rapid improvements in technology, we are no longer tethered to a physical office. We have the freedom to work from anywhere in the world. It has been estimated that there are 35 million digital nomads worldwide. I do not know how many lawyers there are amongst them, but I will not be surprised if there is more than a handful.
 
 {:start="27"}
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This ‘borderless’ world has a few implications on lawyering. More international business. And along with it, different legal systems, regulations, practices, and cultures, to understand. New legal challenges, such as jurisdictional disputes, IP infringement across borders, conflicts involving international laws, and even practice areas that were once considered domestic have become more complex, due to inter-marriages, transnational crimes, and cybercrimes.
@@ -199,26 +199,26 @@ Ladies and Gentlemen
 {:start="39"}
 39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There continues to be headwinds ahead of us, which may blow us away, if we are not careful.
 
-	(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increased competition, as mentioned earlier, from talents around the world, and from robots.
+	(1) Increased competition, as mentioned earlier, from talents around the world, and from robots.
 
-	(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rising inflation, which makes Singapore less cost competitive – both for businesses to procure legal services from, and for foreign lawyers to work in.
+	(2) Rising inflation, which makes Singapore less cost competitive – both for businesses to procure legal services from, and for foreign lawyers to work in.
 
-	(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talent retention, coupled with aging population.
+	(3) Talent retention, coupled with aging population.
 
-				(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lawyering is notoriously hard work – long hours, demanding clients.
+				(a) Lawyering is notoriously hard work – long hours, demanding clients.
 
-				(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is not easy to keep young lawyers in the profession, when they have so many more choices, compared to in the past.
+				(b) It is not easy to keep young lawyers in the profession, when they have so many more choices, compared to in the past.
 
 {:start="40"}
 40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are very mindful of these issues, and are looking to address them. For example:
 
-	(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developing a legal technology platform, and equipping our local law firms with technology tools, so that they can be more productive, and provide higher quality service to their clients.
+	(1) Developing a legal technology platform, and equipping our local law firms with technology tools, so that they can be more productive, and provide higher quality service to their clients.
 
-	(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introducing secondment and attachment programmes for our lawyers, to help them grow capabilities in key markets and domains.
+	(2) Introducing secondment and attachment programmes for our lawyers, to help them grow capabilities in key markets and domains.
 
-	(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundamentally reviewing our legal education, to ensure that we are nurturing people who are equipped to face future challenges.
+	(3) Fundamentally reviewing our legal education, to ensure that we are nurturing people who are equipped to face future challenges.
 
-	(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Just to name a few.
+	(4) Just to name a few.
 
 **Conclusion**
 
