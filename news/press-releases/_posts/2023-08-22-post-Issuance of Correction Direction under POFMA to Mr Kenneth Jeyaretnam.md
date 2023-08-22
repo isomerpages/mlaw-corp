@@ -18,7 +18,7 @@ image: ""
 <p style="margin-left: 40px">(c)	The rental rates paid by Minister K Shanmugam and Minister Vivian Balakrishnan for 26 and 31 Ridout Road, respectively, are locked in over nine years.</p>
 
 {:start="2"}
-2.	The Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong has instructed the Protection from Online Falsehoods and Manipulation Act (POFMA) Office to issue a Correction Direction to Mr Kenneth Jeyaretnam in respect to his posts. Mr Kenneth Jeyaretnam will be required to carry the correction notice, stating that the Facebook and X posts contain false statements of fact.
+2.	The Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong has instructed the Protection from Online Falsehoods and Manipulation Act (POFMA) Office to issue a Correction Direction to Mr Kenneth Jeyaretnam in respect of his posts. Mr Kenneth Jeyaretnam will be required to carry the correction notice, stating that the Facebook and X posts contain false statements of fact.
 
 
 **Clarifications on the False Statements**
@@ -33,7 +33,7 @@ image: ""
 {:start="5"}
 5.	Third, Mr Kenneth Jeyaretnam’s Facebook post made an untrue statement that the rental rates paid by Minister K Shanmugam and Minister Vivian Balakrishnan for 26 and 31 Ridout Road, respectively, are locked in over nine years. The rental rates paid by the Ministers for the Ridout properties were not locked in over nine years. The tenancies are renewable every two/three years, and the rentals are likewise to be reviewed, based on prevailing market value. When the tenancies of the two properties were up for renewal after the initial three years, a revaluation was carried out by professional valuers to peg the rentals to the prevailing market rate. This valuation was based on market comparables.
 
-· The property at 26 Ridout Road was renewed in June 2021, during the COVID-19 pandemic, for three years with the rent maintained at $26,500 per month.
+· The property at 26 Ridout Road was renewed in June 2021, during the COVID-19 pandemic, for three years with the rent maintained at $26,500 per month.<br>
 · The property at 31 Ridout Road was renewed in October 2022 for three years with the rent increased to $20,000 per month, from $19,000 per month.
 
 These facts were stated in publicly available materials, including the CPIB report dated 23 June 2023, Senior Minister Teo Chee Hean’s review report dated 26 June 2023, as subsequently reiterated and explained at the 3 July 2023 Parliament sitting during the Ministerial Statements and subsequent clarifications.
