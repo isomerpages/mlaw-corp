@@ -42,7 +42,7 @@ These facts were stated in publicly available materials, including the CPIB repo
 **Publication of Correction Notice**
 
 {:start="6"}
-6.	Mr Kenneth Jeyaretnam will be required by the Correction Direction to carry a correction notice alongside the said posts on his Facebook page and X page, so that readers can read both versions and draw their own conclusions. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter. For facts of the case, please refer to the Factually article “Corrections regarding false statements of fact in posts published by Mr Kenneth Jeyaretnam on 18 August 2023” at: <a href="www.gov.sg/factually220823-a" target="new">www.gov.sg/factually220823-a</a>
+6.	Mr Kenneth Jeyaretnam will be required by the Correction Direction to carry a correction notice alongside the said posts on his Facebook page and X page, so that readers can read both versions and draw their own conclusions. The correction notice will provide a link to the Factually article, which lays out the facts and clarifications on the matter. For facts of the case, please refer to the Factually article “Corrections regarding false statements of fact in posts published by Mr Kenneth Jeyaretnam on 18 August 2023” at: <a href="https://www.gov.sg/article/factually220823-a" target="new">https://www.gov.sg/article/factually220823-a</a>
 
 
 **MINISTRY OF LAW**
