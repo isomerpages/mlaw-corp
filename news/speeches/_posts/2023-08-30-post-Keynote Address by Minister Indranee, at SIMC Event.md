@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister Indranee, at SIMC Event
+title: Keynote Address by Minister Indranee, at SIMC Signature Event - MNCs For Mediation – From Disputes To Deal-Making
 permalink: /news/speeches/keynote-address-min-indranee-simc-event/
 date: 2023-08-30
 layout: post
