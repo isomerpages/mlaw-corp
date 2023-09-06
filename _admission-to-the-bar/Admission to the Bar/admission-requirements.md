@@ -1,14 +1,12 @@
 ---
-title: 'Admission Requirements'
+title: Admission Requirements
 permalink: /admission-to-the-bar/admission-requirements/
-breadcrumb: 'Admission Requirements'
-third_nav_title: 'Admission to the Bar'
-
+breadcrumb: Admission Requirements
+third_nav_title: Admission to the Bar
 ---
-
-
 **Admission Requirements**
 ---
+<p style="text-align: justify"><b>[ANNOUNCEMENT (27 February 2023): The Ministry of Law has announced that the implementation of the new professional training regime for lawyers, as recommended by the Committee for the Professional Training of Lawyers, will be deferred and will apply from the 2024 session of Part B of the Singapore Bar Examinations onwards. For more information about this, please refer to our <a href="https://www.mlaw.gov.sg/news/press-releases/2023-02-28-deferment-of-implementation-recommendations-cptl/#:~:text=The%20Ministry%20of%20Law%20(%E2%80%9CMinLaw,of%20the%20Singapore%20Bar%20Examinations" target="_blank">press release</a>.]</b></p>
 
 <p style="text-align: justify"><b>[ANNOUNCEMENT (30 August 2018): The Ministry of Law has accepted in principle the recommendations of the Committee for the Professional Training of Lawyers, and will work with stakeholders, including the Law Society of Singapore and the Singapore Institute of Legal Education, on the implementation of the recommendations. Under the new regime, qualified persons who pass Part B of the Singapore Bar Examinations from the 2023 session onwards will be called to the Bar after passing Part B; if they wish to practise law, they will need to complete a 12-month training contract before they can obtain a practising certificate.  For more information about this and the other recommendations, please refer to the <a href="https://www.supremecourt.gov.sg/publications/commemorative-and-other-publications" target="_blank">Committee’s report</a> and our <a href="/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional" target="_blank">press release</a>.]</b></p>
 
@@ -29,3 +27,4 @@ Individuals who wish to be admitted to the Singapore Bar must:
 </li>
 
 <p class="right-side-updated">Last updated on 15 Aug 2023</p> 
+</ol>
