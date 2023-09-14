@@ -1,6 +1,5 @@
 ---
-title: Singapore Convention Week 2023 Provides Insights into the  Future of
-  Dispute Resolution
+title: Singapore Convention Week 2023 Provides Insights into the  Future of Dispute Resolution, Attended by More Than 4500 participants 
 permalink: /news/press-releases/scweek2023-postevent/
 date: 2023-09-12
 layout: post
