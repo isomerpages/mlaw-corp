@@ -1,6 +1,5 @@
 ---
-title: Official Visit to India by Senior Parliamentary Secretary of Ministry of
-  Health and Ministry of Law
+title: Official Visit to India by Senior Parliamentary Secretary of Ministry of Health and Ministry of Law Mdm Rahayu Mahzam
 permalink: /news/press-releases/sps-official-trip-to-india/
 date: 2023-09-18
 layout: post
