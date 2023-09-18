@@ -1,6 +1,5 @@
 ---
-title: Opening Address by Mdm Rahayu Mahzam, Senior Parliamentary Secretary of
-  Ministry of Health and
+title: Opening Address by Mdm Rahayu Mahzam, Senior Parliamentary Secretary of Ministry of Health and Ministry of Law, at SIAC Annual India (Delhi) Conference
 permalink: /news/speeches/sps-siac-delhi-conference/
 date: 2023-09-16
 layout: post
