@@ -12,6 +12,17 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 
 
 #### **Maintenance Notices**
+
+MinLaw eService - Exemptions is undergoing maintenance from 13 Sep 2023 to 20 Sep 2023.  during this time, you may experience intermittent service disruptions.  
+
+For assistance, please reach out to us via our online enquiry form at: https://eservices.mlaw.gov.sg/enquiry/
+<br>The Ministry of Law Services Centre opens from Monday to Friday, 8.30am to 5.00pm. Alternatively, please contact MinLaw hotline @ 1800-2255 529 for assistance, or leave a voicemail outside of the operating hours, and we will get back to you as soon as we can. <br>
+
+We apologise for any inconvenience caused and thank you for your patience.
+
+<br>
+
+
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
 | E-Services | Maintenance Schedule |
