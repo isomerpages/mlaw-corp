@@ -1,6 +1,5 @@
 ---
-title: Written PQ on Increasing Powers of Public Officers in New Mandatory
-  Mediation Framework
+title: Written Answer by Minister for Law K Shanmugam to PQ on Increasing Powers of Public Officers in New Mandatory Mediation Framework to Include Resolving Secondhand Smoke Cases
 permalink: /news/parliamentary-speeches/written-pq-mandatory-mediation-include-secondhand-smoke-cases/
 date: 2023-09-19
 layout: post
