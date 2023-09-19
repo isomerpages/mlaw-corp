@@ -18,9 +18,9 @@ Legal Policy Group
 
 MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
 
-The Legal Policy Group (LPG) comprises the Civil &amp; Legislative Policy Division and the Criminal Policy Division. The LPG regularly reviews laws and drives reforms in civil, criminal, family, and community justice, and governance matters. Under the Criminal Policy Division, the Criminology Unit conducts empirical criminology research.
+The Legal Policy Group (LPG) comprises the Civil &amp; Legislative Policy Division and the Criminal Policy Division. The LPG regularly reviews laws and drives reforms in civil, criminal, family, and community justice, and governance matters. Under the Criminal Policy Division, the Criminology Unit conducts empirical criminological research.
 
-Some of MinLaw’s recent law reform projects include legislative amendments to [facilitate electronic statutory declarations, oaths and affirmations](/news/parliamentary-speeches/2023-08-02-2r-speech-constitution-amendment-no2-by-rahayu-mahzam/), [suitable maintenance outcomes for families](/news/parliamentary-speeches/2023-05-08-2r-speech-family-justice-reform-bill-by-k-shanmugam/), and amendments to [improve our criminal justice system as well as coronial process](/news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill/).
+Some of MinLaw’s recent law reform projects include legislative amendments to [facilitate electronic statutory declarations, oaths and affirmations, and notarisations](/news/parliamentary-speeches/2023-08-02-2r-speech-constitution-amendment-no2-by-rahayu-mahzam/), [family justice reforms to streamline family proceedings and facilitate more sustainable maintenance outcomes for families](/news/parliamentary-speeches/2023-05-08-2r-speech-family-justice-reform-bill-by-k-shanmugam/), and amendments to [improve our criminal justice system as well as coronial process](/news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill/).
 
 Where necessary, MinLaw conducts legal policy assessments of Government Bills to ensure that they reflect sound legal policy principles and are consistent with Singapore’s Constitution. 
 
