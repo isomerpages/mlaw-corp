@@ -1,6 +1,5 @@
 ---
-title: Written PQ on Measures to Prevent Criminals from Getting Away with
-  Lighter Sentences
+title: Written Answer by Minister for Law K Shanmugam to PQ on Measures to Prevent Criminals from Getting Away with Lighter Sentences by Exploiting Maximum Amount of Mitigation Options Available to Them
 permalink: /news/parliamentary-speeches/written-pq-guidelines-sentencing-advisory-panel-measures-in-place/
 date: 2023-09-19
 layout: post
