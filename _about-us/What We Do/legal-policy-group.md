@@ -18,17 +18,17 @@ Legal Policy Group
 
 MinLaw ensures a sound and progressive legal framework that is relevant and modern, provides access to justice, and upholds the rule of law.
 
-The Legal Policy Group, comprising the Civil and Legislative Policy Division and the Criminal Policy Division, regularly reviews laws, proposes reforms, to civil, family, community-related and criminal related laws, and pursues new initiatives to strengthen the legal infrastructure. Under the Criminal Policy Division, The Criminology Unit conducts emprical criminalogy research.
+The Legal Policy Group (LPG) comprises the Civil &amp; Legislative Policy Division and the Criminal Policy Division. The LPG regularly reviews laws and drives reforms in civil, criminal, family, and community justice, and governance matters. Under the Criminal Policy Division, the Criminology Unit conducts empirical criminology research.
 
-Some of MinLaw’s recent law reform projects include the legislation [mandatory death penalty reforms](/news/press-releases/fact-sheet-on-the-proposed-amendments-to-the-penal-code-and-criminal-procedure-code){:target="_blank"}, amendments to the [Criminal Procedure Code 2010](/news/parliamentary-speeches/second-reading-speech-by-law-minister-k-shanmugam-on-the-criminal-procedure-code-bill){:target="_blank"}, and the [Civil Law Act](/news/parliamentary-speeches/second-reading-speech-by-minister-for-law-mr-k-shanmugam-on-the-civil-law-amendment-bill){:target="_blank"}. MinLaw has also introduced new measures to [safeguard conveyancing money](/about-us/what-we-do/conveyancing/).
+Some of MinLaw’s recent law reform projects include legislative amendments to [facilitate electronic statutory declarations, oaths and affirmations](/news/parliamentary-speeches/2023-08-02-2r-speech-constitution-amendment-no2-by-rahayu-mahzam/), [suitable maintenance outcomes for families](/news/parliamentary-speeches/2023-05-08-2r-speech-family-justice-reform-bill-by-k-shanmugam/), and amendments to [improve our criminal justice system as well as coronial process](/news/parliamentary-speeches/2021-10-05-second-reading-speech-by-second-minister-for-law-edwin-tong-on-coroners-amendment-bill/).
 
-MinLaw vets all Government Bills to ensure that they reflect sound legal policy principles and are consistent with Singapore’s Constitution. MinLaw also plays a pivotal role in inter-ministry efforts in public policy formulation, particularly where legal policy considerations have a dominant role, and in matters relating to international law.
+Where necessary, MinLaw conducts legal policy assessments of Government Bills to ensure that they reflect sound legal policy principles and are consistent with Singapore’s Constitution. 
 
-MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and State Courts, which adjudicate on matters brought before the Courts. MinLaw is also separate from AGC. The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
+MinLaw’s functions are distinct from the Judiciary (which comprises the Supreme Court, State Courts and the Family Justice Courts), which adjudicates on matters brought before the Courts. MinLaw is also separate from the Attorney-General's Chambers (AGC). The Attorney-General serves as the legal adviser to the Government and is also the Public Prosecutor.
 
 **Video: Legal Group and Legal Industry Division**
 
-<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/0wJ9lvFkUXs?rel=0" title="Legal Group" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/0wJ9lvFkUXs?rel=0" title="Legal Group" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 **Related Links**
@@ -46,4 +46,4 @@ MinLaw’s functions are distinct from the Judiciary, comprising the Supreme and
   </ul>
 </ul>
 
-<p class="right-side-updated">Last updated on 20 Mar 2018</p>
+<p class="right-side-updated">Last updated on 19 Sep 2023</p>
