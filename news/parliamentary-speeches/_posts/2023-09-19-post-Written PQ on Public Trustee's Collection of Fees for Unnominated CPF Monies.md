@@ -16,7 +16,7 @@ Mr Leong Mun Wai (Non-Constituency Member of Parliament)
 <b><u>Written Answer:</u></b>
 
 {:start="1"}
-1.	The Public Trustee (“PT”) receives from the Central Provident Fund (“CPF”) Board the CPF monies of CPF members who pass on without nominating any beneficiaries, and distributes the un-nominated CPF monies in accordance with the provisions of either the Intestate Succession Act 1967 or the Administration of Muslim Law Act 1966, whichever applies.
+1.	The Public Trustee (PT) receives from the Central Provident Fund (CPF) Board the CPF monies of CPF members who pass on without nominating any beneficiaries, and distributes the un-nominated CPF monies in accordance with the provisions of either the Intestate Succession Act 1967 or the Administration of Muslim Law Act 1966, whichever applies.
 
 {:start="2"}
 2.	The work done to administer these CPF monies includes tracing and identifying the next-of-kin of a deceased CPF member, determining all eligible beneficiaries by confirming the familial relationships between the next-of-kin and the deceased CPF member, and making distributions.
