@@ -19,7 +19,8 @@ Distinguished guests
 
 Ladies and Gentlemen
 
-{:start="1"} 1. Good morning. Thank you all for joining this Symposium. You have heard the Dean explain how important this topic is.
+{:start="1"} 
+1. Good morning. Thank you all for joining this Symposium. You have heard the Dean explain how important this topic is.
 
 **I. INTRODUCTION**
 
@@ -134,6 +135,7 @@ Ladies and Gentlemen
 	* Fourth, online harms can have a very serious impact. For some, the impact can be quite severe, especially for their mental and emotional well-being. 18% said that they have feared for their own safety, or that of others. 15% said that they have suffered from mental health issues, like depression. A number (6%) have attempted self-harm or suicide. Online harms seem to also lead people to withdraw from public discourse.&nbsp;
 
 		3 in 4 (76%) said they are not comfortable sharing their personal views online on potentially controversial topics. So, when we advocate for free online space, the free speech rights of 76% are affected when you do not provide a safe environment. So, it is the reverse, because they get shouted down. Actually, in the way that it is evolving, free speech has been seriously affected. Many fear that others will target them, cause harm to those who know them, or harm them in real life. This is bad for society.
+		
 **IV.  DESIRED REMEDIES FOR ONLINE HARMS**
 
 {:start="28"}
