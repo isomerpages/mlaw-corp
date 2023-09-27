@@ -16,6 +16,7 @@ image: ""
 1. A very good afternoon to all.
 
 {:start="2"}
+
 2. First off, I would like to thank everyone who has contributed in one way or another to this Symposium –
 
 *   Speakers and panelists;
