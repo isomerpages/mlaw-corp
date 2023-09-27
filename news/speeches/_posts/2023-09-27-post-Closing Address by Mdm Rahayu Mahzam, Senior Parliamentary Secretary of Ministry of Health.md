@@ -39,12 +39,7 @@ image: ""
 {:start="6"} 
 6.  I will start by highlighting some matters that have been shared during this Symposium:
 
-(a) On the first day, you may have heard Ms. Lorraine Lim 
-	share about some of the cases seen by 
-	SHECARES@SCWO (“**SHECARES**”), which is 
-	Singapore’s first one-stop support centre for victims of 
-	online harms, and two of their clients who bravely came 
-	forward to share their stories:
+	(a) On the first day, you may have heard Ms. Lorraine Lim share about some of the cases seen by SHECARES@SCWO (“**SHECARES**”), which is Singapore’s first one-stop support centre for victims of online harms, and two of their clients who bravely came forward to share their stories:
 	
 <u>Impact can be severe</u><br>
 * “Andrew” (not his real name) shared about how he had contemplated suicide, after becoming a victim of sextortion. The threats to distribute his intimate videos, which he had provided in the context of a romantic relationship, caused such grave distress that he suffered from bad anxiety attacks, and the fear of having to face the shame, guilt and disappointment of those around him, and this drove him to consider ending his life. This shadow of fear may never dissipate as long as these videos remain in the wrong hands, and this is something that Andrew, just like countless other victims of intimate image abuse, has to live with.
