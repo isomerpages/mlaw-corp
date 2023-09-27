@@ -39,306 +39,103 @@ image: ""
 {:start="6"} 
 6.  I will start by highlighting some matters that have been shared during this Symposium:
 
-	(a) On the first day, you may have heard Ms. Lorraine Lim share about some of the cases seen by SHECARES@SCWO (“**SHECARES**”), which is Singapore’s first one-stop support centre for victims of online harms, and two of their clients who bravely came forward to share their stories:
-
-<u>Impact can be severe</u>
-
-	*  “Andrew” (not his real name) shared about how he had contemplated suicide, after becoming a victim of sextortion. The threats to distribute his intimate videos, which he had provided in the context of a romantic relationship, caused such grave distress that he suffered from bad anxiety attacks, and the fear of having to face the shame, guilt and disappointment of those around him, and this drove him to consider ending his life. This shadow of fear may never dissipate as long as these videos remain in the wrong hands, and this is something that Andrew, just like countless other victims of intimate image abuse, has to live with.
-
-<u>Impact can be long-lasting</u>
-
-	* “Eve” also shared how she was a victim of a malicious harassment campaign. It has been close to 1.5 years since the harassment first started, but the impact has stuck with her. There are victims who end up carrying the pain and trauma for a lifetime, but I hope dearly, in Eve’s case,&nbsp; she will continue to heal and move forward with SHECARES’ help.
-
-* In both cases, the perpetrators hid behind the veil of anonymity. Professor Lim Sun Sun and Justice Philip Jeyeratnam, have warned of how online anonymity emboldens bad actors, while shielding them from liability. The earlier panel on anonymity also discussed this quite extensively. It was a panel wonderfully moderated by Professor Yip Man.
-
-	Professor Eugene Tan, and this was a point raised by Mr Ben Chua, acknowledged that there are benefits of anonymity because it helps victims to seek help and to get the support they need, but they also spoke about the challenges with anonymity such as greater disinhibition, a point that Dr Tracy Loh also raised. The panel spoke about how platforms should be held accountable in relation to harm enabled by online anonymity, while Ben contemplated the role of a code of conduct for end users, similar to the Highway Code.
+(a) On the first day, you may have heard Ms. Lorraine Lim 
+	share about some of the cases seen by 
+	SHECARES@SCWO (“**SHECARES**”), which is 
+	Singapore’s first one-stop support centre for victims of 
+	online harms, and two of their clients who bravely came 
+	forward to share their stories:
 	
-	Dr Loh, you spoke about traceability and how we can overcome this issue. The point is though, that anonymity remains a big challenge for all of us.&nbsp;
+<u>Impact can be severe</u><br>
+* “Andrew” (not his real name) shared about how he had contemplated suicide, after becoming a victim of sextortion. The threats to distribute his intimate videos, which he had provided in the context of a romantic relationship, caused such grave distress that he suffered from bad anxiety attacks, and the fear of having to face the shame, guilt and disappointment of those around him, and this drove him to consider ending his life. This shadow of fear may never dissipate as long as these videos remain in the wrong hands, and this is something that Andrew, just like countless other victims of intimate image abuse, has to live with.
 
-* Turning to statistics, we have also seen from SHE’s survey, which Dr Chew Han Ei had explained in great detail, that:
-    
+<u>Impact can be long-lasting</u><br>
+* “Eve” also shared how she was a victim of a malicious harassment campaign. It has been close to 1.5 years since the harassment first started, but the impact has stuck with her. There are victims who end up carrying the pain and trauma for a lifetime, but I hope dearly, in Eve’s case,&nbsp; she will continue to heal and move forward with SHECARES’ help.
 
-  
+(b) In both cases, the perpetrators hid behind the veil of anonymity. Professor Lim Sun Sun and Justice Philip Jeyeratnam, have warned of how online anonymity emboldens bad actors, while shielding them from liability. The earlier panel on anonymity also discussed this quite extensively. It was a panel wonderfully moderated by Professor Yip Man.
 
-1.  A significant segment of victims (43%) reported some form of emotional or psychological impact, with 2 in 5 reporting at least 1 form of severe impact such as fearing for one’s safety, mental health issues, self-harm and suicide.&nbsp;
-    
+Professor Eugene Tan, and this was a point raised by Mr Ben Chua, acknowledged that there are benefits of anonymity because it helps victims to seek help and to get the support they need, but they also spoke about the challenges with anonymity such as greater disinhibition, a point that Dr Tracy Loh also raised. The panel spoke about how platforms should be held accountable in relation to harm enabled by online anonymity, while Ben contemplated the role of a code of conduct for end users, similar to the Highway Code.
+	
+Dr Loh, you spoke about traceability and how we can overcome this issue. The point is though, that anonymity remains a big challenge for all of us.
 
-  
+(c) Turning to statistics, we have also seen from SHE’s survey, which Dr Chew Han Ei had explained in great detail, that:
+* A significant segment of victims (43%) reported some form of emotional or psychological impact, with 2 in 5 reporting at least 1 form of severe impact such as fearing for one’s safety, mental health issues, self-harm and suicide.
+* Our young are digital natives whose lives are tied significantly to their online existence. They are at a higher risk of being exposed to online harms. This is a serious concern, because the young may have less maturity, resources or knowledge to cope with the fallout of online harms and may resort to extreme measures to escape the pain.
 
-2.  Our young are digital natives whose lives are tied significantly to their online existence. They are at a higher risk of being exposed to online harms. This is a serious concern, because the young may have less maturity, resources or knowledge to cope with the fallout of online harms and may resort to extreme measures to escape the pain.&nbsp;
-    
-
-  
-
+{:start="7"} 
 7.  This is not the first time such information has been surfaced.
-    
+* The survey conducted by the Sunlight AfA last year found that respondents subjected to gendered online harms were most likely to report suffering from psychological impact such as sadness, fear and anxiety (i.e. 33.5% felt “sad, anxious or depressed”, and 20.2% reported having to “fear for [their] safety”), with similar results being reported among youth respondents (i.e. 53% reporting having “feelings of stress and anxiety”) in a Youth Sentiment Poll conducted by the National Youth Council in 2021.
+* These are not just numbers on paper – but real people being hurt in very real ways. For instance:
+	* As Commissioner Inman Grant shared in her keynote speech, it took Charlotte Dawson’s death to bring about the establishment of the eSafety Commission. Unfortunately, Charlotte is just one example of those who have been driven to suicide by online harms.
+	* Earlier this year, some of you may have read about how Zheng Ling Hua, a 23-year-old student from Eastern China tragically took her life, after being cyberbullied for colouring her hair pink. This young lady had her whole life ahead of her, having just been accepted into graduate school, and no one could have imagined that an innocuous picture of her and her grandfather could have devolved into a horrific harassment campaign, with online users accusing her of being a “prostitute” and “bar escort”. She eventually ended her life after a six-month-long battle with depression.
 
-  
+		That was such a needless loss of a young and aspiring life – which I think, also forces us to confront the question of whether this is the type of society that we want for ourselves, and if this is the Internet that we want our young to grow up with.
+	* Even as I speak, harmful acts are occurring online, and continuing to cause severe or even irreversible damage to those around us.
+* It should not have to take more unnecessary tragedies before society sits up and does something to address the problem of online harms – we can, and must, do better.
 
-1.  The survey conducted by the Sunlight AfA last year found that respondents subjected to gendered online harms were most likely to report suffering from psychological impact such as sadness, fear and anxiety (i.e. 33.5% felt “sad, anxious or depressed”, and 20.2% reported having to “fear for \[their\] safety”), with similar results being reported among youth respondents (i.e. 53% reporting having “feelings of stress and anxiety”) in a Youth Sentiment Poll conducted by the National Youth Council in 2021.
-    
+**III. Reflections on the issue of online harms**
 
-  
-
-2.  These are not just numbers on paper – but real people being hurt in very real ways. For instance:
-    
-
-  
-
-1.  As Commissioner Inman Grant shared in her keynote speech, it took Charlotte Dawson’s death to bring about the establishment of the eSafety Commission. Unfortunately, Charlotte is just one example of those who have been driven to suicide by online harms.&nbsp;
-    
-
-  
-
-2.  Earlier this year, some of you may have read about how Zheng Ling Hua, a 23-year-old student from Eastern China tragically took her life, after being cyberbullied for colouring her hair pink. This young lady had her whole life ahead of her, having just been accepted into graduate school, and no one could have imagined that an innocuous picture of her and her grandfather could have devolved into a horrific harassment campaign, with online users accusing her of being a “prostitute” and “bar escort”. She eventually ended her life after a six-month-long battle with depression.
-    
-
-  
-
-That was such a needless loss of a young and aspiring life – which I think, also forces us to confront the question of whether this is the type of society that we want for ourselves, and if this is the Internet that we want our young to grow up with.
-
-  
-
-3.  Even as I speak, harmful acts are occurring online, and continuing to cause severe or even irreversible damage to those around us.
-    
-
-  
-
-4.  It should not have to take more unnecessary tragedies before society sits up and does something to address the problem of online harms – we can, and must, do better.
-    
-
-  
-
-3.  Reflections on the issue of online harms
-    
-
-  
-
+{:start="8"} 
 8.  If I may share some reflections on the current situation from the perspective of a (i) member of the legal fraternity, (ii) member of society, (iii) woman and (iv) parent, perspectives which I trust many of you in the audience may relate to:
-    
 
-  
+{:start="9"} 
+9.  As a member of the legal fraternity, some thoughts come to mind:
+* It is a well-established principle that psychiatric harm sounds in damages if a cause of action is made out.
+	* We know from the SHE survey that many victims have reported suffering psychological harm, some of which may cross the threshold of psychiatric harm.
+	* But anecdotally, we are not seeing these cases in court.
+	* So, there are people who have cause to claim damages but are not receiving it.
+	* Further, people who suffer psychological harm often require mental health treatment.
+	* If they are not receiving damages to pay for such treatment, we should be concerned that they are perhaps not getting the treatment they need either.
+	* Question is: What can we do to enable people who have suffered harms to receive the damages, so that they are able to get the necessary help and treatment?
 
-9.  As a member of the legal fraternity, some thoughts come to mind:&nbsp;
-    
-
-  
-
-1.  It is a well-established principle that psychiatric harm sounds in damages if a cause of action is made out.
-    
-
-  
-
-1.  We know from the SHE survey that many victims have reported suffering psychological harm, some of which may cross the threshold of psychiatric harm.
-    
-
-  
-
-2.  But anecdotally, we are not seeing these cases in court.
-    
-
-  
-
-3.  So, there are people who have cause to claim damages but are not receiving it.
-    
-
-  
-
-4.  Further, people who suffer psychological harm often require mental health treatment.&nbsp;
-    
-
-  
-
-5.  If they are not receiving damages to pay for such treatment, we should be concerned that they are perhaps not getting the treatment they need either.
-    
-
-  
-
-6.  Question is: What can we do to enable people who have suffered harms to receive the damages, so that they are able to get the necessary help and treatment?
-    
-
-  
-
+{:start="10"} 
 10.  I would go further. The SHE survey found that 31% of victims reported some form of emotional impact – they felt “angry, sad, anxious, embarrassed, ashamed or helpless”. Mr. Ramesh Selvaraj has also seen this happening in practice, where victims of defamation often suffer psychological and emotional harm, in addition to reputational harm.
-    
+* It is also trite law that there is generally no liability for causing emotional distress alone. In this regard, Judicial Commissioner Goh Yihan highlighted that many victims of online harms suffer from “annoyance, embarrassment and distress that is serious” that do not rise to the level of actionable psychiatric illness.
+* But given the prevalence of this response among youths and adults alike, perhaps we should seriously consider whether we should recognise emotional distress as a 
 
-  
-
-1.  It is also trite law that there is generally no liability for causing emotional distress alone. In this regard, Judicial Commissioner Goh Yihan highlighted that many victims of online harms suffer from “annoyance, embarrassment and distress that is serious” that do not rise to the level of actionable psychiatric illness.
-    
-
-  
-
-2.  But given the prevalence of this response among youths and adults alike, perhaps we should seriously consider whether we should recognise emotional distress as a recoverable loss, at least in the context of online harms.&nbsp;
-    
-
-  
-
+{:start="11"} 
 11.  Next, as a member of society:
-    
+* Mental health issues are not just the burden of the individual to bear.
+* I mean this in two respects:
+	* First, it is a matter of responsibility. As a community, we have an obligation to prevent or reduce harm where this is possible, and to assist those who are unfortunate enough to nevertheless be afflicted.
+	* Second, where so many people are affected, we must reckon with the cost of their suffering as a whole, compounded as it ripples through society in the form of diminished productivity, impoverished relationships and reduced civic participation. The cost is often hidden but is very real.
+* This underscores the need for urgent action to tackle online harms.
 
-  
-
-1.  Mental health issues are not just the burden of the individual to bear.
-    
-
-  
-
-2.  I mean this in two respects:
-    
-
-  
-
-1.  First, it is a matter of responsibility. As a community, we have an obligation to prevent or reduce harm where this is possible, and to assist those who are unfortunate enough to nevertheless be afflicted.
-    
-
-  
-
-2.  Second, where so many people are affected, we must reckon with the cost of their suffering as a whole, compounded as it ripples through society in the form of diminished productivity, impoverished relationships and reduced civic participation. The cost is often hidden but is very real.
-    
-
-  
-
-3.  This underscores the need for urgent action to tackle online harms.
-    
-
-  
-
+{:start="12"} 
 12.  As a woman:
-    
+* I am not surprised that women tend to feel less safe online than men.
+* This sense of fear and unease is backed up by data – the SHE and Sunlight AfA surveys both found that women and girls are particularly at risk of gendered online harms such as sexual harassment and intimate image abuse.
+* Exposure aside, online harms are also affecting women in profound ways, with the harm capable of permeating all aspects of our personal and professional lives.
+	* For instance, a thoughtless act of circulating a woman’s intimate images or even a false rumour of a woman’s promiscuity, regardless of intentions, can destroy a woman’s sense of self or life as she knows it, as Mr. Adam Massey pointed out as he recounted his client’s experience.
+* Singapore has come a long way in advancing the position of women in society, and we ought not stop here:
+* If we do not, as a society, make a stand against online harassment targeted at women now, this could risk reversing all the hard-won norms achieved in the physical world.
+	* We are already seeing this happen in the UK, where female parliamentarians are reportedly disproportionately exposed to vile online abuse. This is not only preventing women from taking on a career in politics, but also cutting short the careers of female parliamentarians, as compared to their male counterparts.
 
-  
-
-1.  I am not surprised that women tend to feel less safe online than men.
-    
-
-  
-
-2.  This sense of fear and unease is backed up by data – the SHE and Sunlight AfA surveys both found that women and girls are particularly at risk of gendered online harms such as sexual harassment and intimate image abuse.
-    
-
-  
-
-3.  Exposure aside, online harms are also affecting women in profound ways, with the harm capable of permeating all aspects of our personal and professional lives.&nbsp;
-    
-
-  
-
-1.  For instance, a thoughtless act of circulating a woman’s intimate images or even a false rumour of a woman’s promiscuity, regardless of intentions, can destroy a woman’s sense of self or life as she knows it, as Mr. Adam Massey pointed out as he recounted his client’s experience.
-    
-
-  
-
-4.  Singapore has come a long way in advancing the position of women in society, and we ought not stop here:
-    
-
-  
-
-5.  If we do not, as a society, make a stand against online harassment targeted at women now, this could risk reversing all the hard-won norms achieved in the physical world.
-    
-
-  
-
-1.  We are already seeing this happen in the UK, where female parliamentarians are reportedly disproportionately exposed to vile online abuse. This is not only preventing women from taking on a career in politics, but also cutting short the careers of female parliamentarians, as compared to their male counterparts.
-    
-
-  
-
+{:start="13"} 
 13.  As parents, we naturally worry about our children:
-    
+* The SHE survey shows that youths between the age of 15 to 24 are at the highest risk of online harms.
+	* I note that the age profile of respondents starts at 15 years old, but we all know that it is more and more common for younger adolescents and children to have ready access to the Internet, so we can hazard a guess that the problem is also experienced by those younger than 15.
+	* It is an understatement to say that I worry about the severity of the impact of online harms on the young, given their formative age.
+		* There is research suggesting that cyberbullying is positively associated with suicidal ideation in Korean adolescents, and in the longer term, associated with long-lasting negative impacts on psychological, physical, and behavioral adjustment.
+		* We have heard Mr. Xavier Low share the story of 17-year-old Jordan Demay who took his life due to image-based sexual abuse, and I, myself have read of cases of child victims as young as 12 years old in the US, who committed suicide as a result of cyberbullying and other online harms.
+	* The trauma suffered by young victims can scar them permanently and follow them into adulthood.
+		* There is established research that adverse childhood experiences (which include bullying) are associated with deleterious consequences throughout the lifespan of an individual, such as an increased risk of mental disorders (e.g. depression, anxiety, alcohol use disorders and suicidality) in adulthood.
+		* Similarly, there has also been research linking mental health problems in childhood to adverse outcomes in adulthood, such as impairment of general health, mental health or physical health.
+* Worryingly, young victims, as affected as they are, may not be seeking help. Some may simply not know how to, while others may be reluctant to do so for various reasons, and this is an experience shared by children and teens across the world.
+	* The Microsoft’s Global Online Safety Survey 2023 found that globally, 40% of teens did not tell anyone after experiencing an online risk. The question then is: how are these children coping, and if they are not, how can we help them?
+	* The same survey found that parents in the APAC region (which includes Singapore) significantly underestimate their teenage children’s exposure to online risks, which suggests that many children are not going to their parents for help. Given that mental health issues may not always be visible and noticeable by parents, I would imagine that many children are not receiving the help they need. Mr. Ben Chua had also affirmed some of these points and highlighted the disappointment of some victims with their experience with platform reporting.
+	* This also appears to be the experience on the ground here, with SHECARES seeing few victims from this demographic group.
+* I think you will agree that the only thing worse than a child in distress is a child suffering alone.
 
-  
-
-1.  The SHE survey shows that youths between the age of 15 to 24 are at the highest risk of online harms.
-    
-
-  
-
-1.  I note that the age profile of respondents starts at 15 years old, but we all know that it is more and more common for younger adolescents and children to have ready access to the Internet, so we can hazard a guess that the problem is also experienced by those younger than 15.
-    
-
-  
-
-2.  It is an understatement to say that I worry about the severity of the impact of online harms on the young, given their formative age.&nbsp;
-    
-
-  
-
-*   There is research suggesting that cyberbullying is positively associated with suicidal ideation in Korean adolescents, and in the longer term, associated with long-lasting negative impacts on psychological, physical, and behavioral adjustment.
-    
-
-  
-
-*   We have heard Mr. Xavier Low share the story of 17-year-old Jordan Demay who took his life due to image-based sexual abuse, and I, myself have read of cases of child victims as young as 12 years old in the US, who committed suicide as a result of cyberbullying and other online harms.
-    
-
-  
-
-3.  The trauma suffered by young victims can scar them permanently and follow them into adulthood.
-    
-
-  
-
-*   There is established research that adverse childhood experiences (which include bullying) are associated with deleterious consequences throughout the lifespan of an individual, such as an increased risk of mental disorders (e.g. depression, anxiety, alcohol use disorders and suicidality) in adulthood.
-    
-
-  
-
-*   Similarly, there has also been research linking mental health problems in childhood to adverse outcomes in adulthood, such as impairment of general health, mental health or physical health.
-    
-
-  
-
-2.  Worryingly, young victims, as affected as they are, may not be seeking help. Some may simply not know how to, while others may be reluctant to do so for various reasons, and this is an experience shared by children and teens across the world.
-    
-
-  
-
-1.  The Microsoft’s Global Online Safety Survey 2023 found that globally, 40% of teens did not tell anyone after experiencing an online risk. The question then is: how are these children coping, and if they are not, how can we help them?
-    
-
-  
-
-2.  The same survey found that parents in the APAC region (which includes Singapore) significantly underestimate their teenage children’s exposure to online risks, which suggests that many children are not going to their parents for help. Given that mental health issues may not always be visible and noticeable by parents, I would imagine that many children are not receiving the help they need. Mr. Ben Chua had also affirmed some of these points and highlighted the disappointment of some victims with their experience with platform reporting.&nbsp;
-    
-
-  
-
-3.  This also appears to be the experience on the ground here, with SHECARES seeing few victims from this demographic group.&nbsp;
-    
-
-  
-
-3.  I think you will agree that the only thing worse than a child in distress is a child suffering alone.
-    
-
-  
-
+{:start="14"} 
 14.  So, while all of this sounds distressing and daunting, at the same time, thankfully, I see much cause for hope:
-    
+* I’ve heard that Andrew and Eve – the two SHECARES’ clients I mentioned earlier – are on the mend with support from SHECARES. This shows the importance of community organisations such as SHE and the Singapore Council of Women’s Organisations, and the importance of seeking counselling and psychological support early.
+* I am also heartened by the contributions of representatives from Cyber Youth Singapore to this Symposium. They help inspire faith that youth are taking charge of their future and leaves me assured about future generations.
+* I am also energised to see so many of you participating in this Symposium – we may all come from a broad range of backgrounds, but what we do share in common is the interest in making things better, and I sincerely thank you for that. As Ambassador Chan Heng Chee and Professor David Ardia observed, a whole-of-society effort is the best approach, and having all of you here today, as experts, lawyers, industry players, practitioners or someone who is concerned about online safety, is already a step in the right direction.
 
-  
+**IV.  Potential legal reform**
 
-1.  I’ve heard that Andrew and Eve – the two SHECARES’ clients I mentioned earlier – are on the mend with support from SHECARES. This shows the importance of community organisations such as SHE and the Singapore Council of Women’s Organisations, and the importance of seeking counselling and psychological support early.
-    
-
-  
-
-2.  I am also heartened by the contributions of representatives from Cyber Youth Singapore to this Symposium. They help inspire faith that youth are taking charge of their future and leaves me assured about future generations.
-    
-
-  
-
-3.  I am also energised to see so many of you participating in this Symposium – we may all come from a broad range of backgrounds, but what we do share in common is the interest in making things better, and I sincerely thank you for that. As Ambassador Chan Heng Chee and Professor David Ardia observed, a whole-of-society effort is the best approach, and having all of you here today, as experts, lawyers, industry players, practitioners or someone who is concerned about online safety, is already a step in the right direction.
-    
-
-  
-
-4.  Potential legal reform
-    
-
-  
-
+{:start="15"} 
 15.  The discussions over the past few days have made clear the scale and severity of the issues we are facing. It is equally clear that we cannot expect tech companies to solve the problem for us. Ms. Frances Haugen has stressed the need for an ecosystem of accountability in the digital sphere to reduce the risks of harm. Similarly, Commissioner Inman Grant and Ms. Danielle Citron echoed this. This is no different from how countries regulate the automotive industry, or as Mr. Damian Collins pointed out, any other industry that has proven capable of causing harm to people. He, so eloquently, provided a timely reminder that tech companies, like so many other companies today, should take responsibility for the systems they create to make money for themselves.
     
 
