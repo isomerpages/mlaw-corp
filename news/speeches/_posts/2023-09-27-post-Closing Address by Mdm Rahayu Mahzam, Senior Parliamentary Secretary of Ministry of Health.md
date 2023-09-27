@@ -75,7 +75,7 @@ Dr Loh, you spoke about traceability and how we can overcome this issue. The poi
 
 {:start="9"} 
 9.  As a member of the legal fraternity, some thoughts come to mind:
-* It is a well-established principle that psychiatric harm sounds in damages if a cause of action is made out.
+* It is a well-established principle that psychiatric harm sounds in damages if a cause of action is made out.<br>
 	* We know from the SHE survey that many victims have reported suffering psychological harm, some of which may cross the threshold of psychiatric harm.
 	* But anecdotally, we are not seeing these cases in court.
 	* So, there are people who have cause to claim damages but are not receiving it.
