@@ -137,133 +137,46 @@ Dr Loh, you spoke about traceability and how we can overcome this issue. The poi
 
 {:start="15"} 
 15.  The discussions over the past few days have made clear the scale and severity of the issues we are facing. It is equally clear that we cannot expect tech companies to solve the problem for us. Ms. Frances Haugen has stressed the need for an ecosystem of accountability in the digital sphere to reduce the risks of harm. Similarly, Commissioner Inman Grant and Ms. Danielle Citron echoed this. This is no different from how countries regulate the automotive industry, or as Mr. Damian Collins pointed out, any other industry that has proven capable of causing harm to people. He, so eloquently, provided a timely reminder that tech companies, like so many other companies today, should take responsibility for the systems they create to make money for themselves.
-    
 
-  
-
+{:start="16"} 
 16.  What then can we, as the Government, do to help make things better?
-    
 
-  
-
+{:start="17"} 
 17.  We have heard from Minister Shanmugam during his opening remarks that Singapore has already taken steps on many fronts to address the issue of online harms over the past decade:
-    
+* We have a framework of regulations, such as the Broadcasting Act and the Online Criminal Harms Act, to ensure that proper systems and processes are in place to minimise the risk of online harms occurring.
+* We also have criminal laws targeted at online harms such as sexual offences facilitated by technology, to deter and punish harmful conduct.
+* These are complemented by public education initiatives, driven by the public, private and people sectors, to help educate people on what online harms are, and equip them with the knowledge and skills to stay safe online.
 
-  
-
-1.  We have a framework of regulations, such as the Broadcasting Act and the Online Criminal Harms Act, to ensure that proper systems and processes are in place to minimise the risk of online harms occurring.
-    
-
-  
-
-2.  We also have criminal laws targeted at online harms such as sexual offences facilitated by technology, to deter and punish harmful conduct.
-    
-
-  
-
-3.  These are complemented by public education initiatives, driven by the public, private and people sectors, to help educate people on what online harms are, and equip them with the knowledge and skills to stay safe online.
-    
-
-  
-
+{:start="18"} 
 18.  Based on our review, one area that we realise has been lagging behind is the role of civil law, as I had briefly alluded to earlier.
-    
+* JC Goh gave a comprehensive summary of the functions of the existing civil remedies and their limitations.
+* Civil remedies provide an injured party with a vindication of their rights as well as remedies for the harms suffered, which typically come in the form of injunctions (to put a stop to the harm) or damages (to compensate the victim).
+* There have been legal reforms to ensure that civil remedies are available to victims of online harms. For instance, there is the statutory tort of harassment under the Protection from Harassment Act (“POHA”). Victims are also free to pursue common law claims against perpetrators of online harms, although that has been largely untested territory in Singapore.
+* The feedback we are getting, however, suggests that we need to go further.
+	* Our own review of the existing civil legal framework reveals limitations in terms of the scope of online harms covered, for instance, the harmful activities associated with cancel culture as Mr. Alexander Woon mentioned, and the types of remedies that may be ordered by the Court.
+	* Further, the lack of certainty and clarity as to when common law causes of action may be applicable is not helpful and can deter victims from pursuing vindication of their rights.
+* We have also heard the wishes – as expressed through the SHE survey – for online harms to be removed/stopped swiftly and permanently where they occur, and to be able to obtain a legally enforceable order where wrongdoers/platforms fail to ensure that happens.
+* We heard from Dr. Carol Soon about how countries worldwide have responded to the issue of online harms. Of note are the positive experiences of jurisdictions such as Australia and Germany, as shared by Commissioner Inman Grant and Assistant Professor Karsten Müller, where a regime that allows the quick takedown of harmful content has been effective in combating online harms, and in Germany’s case, also contributed to the reduction of offline hate crimes.
+	* In this regard, I note that Ms. Stefanie Yuen-Thio and Ms. Simran Toor from SHE have also lauded the success of the eSafety Commissioner, and recommended that Singapore consider a similar agency which can respond swiftly to users’ complaints and put a stop to online harms.
+* As we consider our next move to address online harms, the experiences of these jurisdictions are also instructive in guiding our study of the issues. For instance:
+	* Commissioner Inman Grant shared that despite eSafety’s powers to obtain information from platforms, the issue of anonymity of perpetrators remains a problem as many platforms do not record much information about the identities of their users.
+	* We have also heard from Mr. Collins this morning about the Online Safety Bill, which was just passed in the UK last week. The Bill innovates in a number of key areas – from imposing a duty of care on platforms, providing for criminal liability on platforms for failure to comply with regulations, to requiring platforms to give adult users more options to curate their own experiences online.
 
-  
-
-1.  JC Goh gave a comprehensive summary of the functions of the existing civil remedies and their limitations.&nbsp;
-    
-
-  
-
-2.  Civil remedies provide an injured party with a vindication of their rights as well as remedies for the harms suffered, which typically come in the form of injunctions (to put a stop to the harm) or damages (to compensate the victim).&nbsp;
-    
-
-  
-
-3.  There have been legal reforms to ensure that civil remedies are available to victims of online harms. For instance, there is the statutory tort of harassment under the Protection from Harassment Act (“POHA”). Victims are also free to pursue common law claims against perpetrators of online harms, although that has been largely untested territory in Singapore.
-    
-
-  
-
-4.  The feedback we are getting, however, suggests that we need to go further.&nbsp;
-    
-
-  
-
-1.  Our own review of the existing civil legal framework reveals limitations in terms of the scope of online harms covered, for instance, the harmful activities associated with cancel culture as Mr. Alexander Woon mentioned, and the types of remedies that may be ordered by the Court.&nbsp;
-    
-
-  
-
-2.  Further, the lack of certainty and clarity as to when common law causes of action may be applicable is not helpful and can deter victims from pursuing vindication of their rights.&nbsp;
-    
-
-  
-
-5.  We have also heard the wishes – as expressed through the SHE survey – for online harms to be removed/stopped swiftly and permanently where they occur, and to be able to obtain a legally enforceable order where wrongdoers/platforms fail to ensure that happens.
-    
-
-  
-
-6.  We heard from Dr. Carol Soon about how countries worldwide have responded to the issue of online harms. Of note are the positive experiences of jurisdictions such as Australia and Germany, as shared by Commissioner Inman Grant and Assistant Professor Karsten Müller, where a regime that allows the quick takedown of harmful content has been effective in combating online harms, and in Germany’s case, also contributed to the reduction of offline hate crimes.
-    
-
-  
-
-1.  In this regard, I note that Ms. Stefanie Yuen-Thio and Ms. Simran Toor from SHE have also lauded the success of the eSafety Commissioner, and recommended that Singapore consider a similar agency which can respond swiftly to users’ complaints and put a stop to online harms.
-    
-
-  
-
-7.  As we consider our next move to address online harms, the experiences of these jurisdictions are also instructive in guiding our study of the issues. For instance:&nbsp;
-    
-
-  
-
-1.  Commissioner Inman Grant shared that despite eSafety’s powers to obtain information from platforms, the issue of anonymity of perpetrators remains a problem as many platforms do not record much information about the identities of their users.
-    
-
-  
-
-2.  We have also heard from Mr. Collins this morning about the Online Safety Bill, which was just passed in the UK last week. The Bill innovates in a number of key areas – from imposing a duty of care on platforms, providing for criminal liability on platforms for failure to comply with regulations, to requiring platforms to give adult users more options to curate their own experiences online.&nbsp;
-    
-
-  
-
+{:start="19"} 
 19.  We value and treat such insights, suggestions and feedback seriously. We will certainly take them into account when considering what legislative changes are required to address the gap in civil law, and how to enhance deterrence and promote accountability on the part of all stakeholders in the online ecosystem.
-    
 
-  
+**V.  Conclusion**
 
-5.  Conclusion
-    
+{:start="20"} 
+20.  To conclude – there is still much work to be done to rebuild trust and safety in the online world and ensure a ‘Better Internet’ for generations to come. Let us not wait until the hidden costs of a mental health crisis becomes apparent before we act, or it may be well too late. And if there is anyone in the room who may have any lingering doubts over the severity of online harms, I cannot emphasise enough that there is more to such harms than meets the eye. As I had mentioned earlier, mental health struggles are often invisible, and we know from experience that it is not always easy to take the first step to seek help.
 
-  
-
-20.  To conclude – there is still much work to be done to rebuild trust and safety in the online world and ensure a ‘Better Internet’ for generations to come. Let us not wait until the hidden costs of a mental health crisis becomes apparent before we act, or it may be well too late. And if there is anyone in the room who may have any lingering doubts over the severity of online harms, I cannot emphasise enough that there is more to such harms than meets the eye. As I had mentioned earlier, mental health struggles are often invisible, and we know from experience that it is not always easy to take the first step to seek help.&nbsp;
-    
-
-  
-
+{:start="21"} 
 21.  Together we can, however, change things for the better. So let’s:
-    
+* Consider how to help those around us who may be struggling;
+* Put the learnings from the Symposium into practice, and as yesterday’s panel on “Rebooting Online Behaviour” encouraged, engage constructively online; and
+* Continue in this conversation about how to address online harms to minimise the damage to victims and mental health in society.
 
-  
-
-1.  Consider how to help those around us who may be struggling;&nbsp;
-    
-
-  
-
-2.  Put the learnings from the Symposium into practice, and as yesterday’s panel on “Rebooting Online Behaviour” encouraged, engage constructively online; and
-    
-
-  
-
-3.  Continue in this conversation about how to address online harms to minimise the damage to victims and mental health in society.
-    
-
-  
-
+{:start="22"} 
 22.  I thank you once again for your participation, and I look forward to continued involvement and engagement from the participants here today, as we walk through this journey. Thank you very much for your time.
+
+<p></p><p class="right-side-updated">Last updated on 27 September 2023</p>
