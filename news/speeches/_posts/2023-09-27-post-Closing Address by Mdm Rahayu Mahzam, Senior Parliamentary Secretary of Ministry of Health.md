@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-27 Sep 2023 Posted in \[\[Speeches\](/news/speeches)\]
+27 Sep 2023 Posted in [[Speeches](/news/speeches)]
 
 **I. Introduction**
 
