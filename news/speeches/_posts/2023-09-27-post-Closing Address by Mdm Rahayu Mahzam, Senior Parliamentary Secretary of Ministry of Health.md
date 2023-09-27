@@ -60,7 +60,7 @@ Dr Loh, you spoke about traceability and how we can overcome this issue. The poi
 {:start="7"} 
 7.  This is not the first time such information has been surfaced.
 * The survey conducted by the Sunlight AfA last year found that respondents subjected to gendered online harms were most likely to report suffering from psychological impact such as sadness, fear and anxiety (i.e. 33.5% felt “sad, anxious or depressed”, and 20.2% reported having to “fear for [their] safety”), with similar results being reported among youth respondents (i.e. 53% reporting having “feelings of stress and anxiety”) in a Youth Sentiment Poll conducted by the National Youth Council in 2021.
-* These are not just numbers on paper – but real people being hurt in very real ways. For instance:
+* These are not just numbers on paper – but real people being hurt in very real ways. For instance:<br>
 	* As Commissioner Inman Grant shared in her keynote speech, it took Charlotte Dawson’s death to bring about the establishment of the eSafety Commission. Unfortunately, Charlotte is just one example of those who have been driven to suicide by online harms.
 	* Earlier this year, some of you may have read about how Zheng Ling Hua, a 23-year-old student from Eastern China tragically took her life, after being cyberbullied for colouring her hair pink. This young lady had her whole life ahead of her, having just been accepted into graduate school, and no one could have imagined that an innocuous picture of her and her grandfather could have devolved into a horrific harassment campaign, with online users accusing her of being a “prostitute” and “bar escort”. She eventually ended her life after a six-month-long battle with depression.
 
