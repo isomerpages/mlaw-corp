@@ -56,7 +56,7 @@ image: ""
 ![](/images/news/press-releases/2023/comparison.png)
 
 
-<p><sup id="fn1">1. For more information on the CPTL’s recommendations, refer to the <a href="http://www.judiciary.gov.sg/docs/default-source/default-document-library/law_reports.pdf?sfvrsn=eeea2aa9_0">ful report</a> by CPTL and MinLaw’s press releases (“<a href="https://www.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">In-principle acceptance by MinLaw of the recommendations by the CPTL</a>”, August 2018; “<a href="https://www.mlaw.gov.sg/news/press-releases/2023-02-28-deferment-of-implementation-recommendations-cptl/">Deferment of Implementation of Recommendations of the Committee for the Professional Training of Lawyers</a>”, February 2023).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. For more information on the CPTL’s recommendations, refer to the <a href="http://www.judiciary.gov.sg/docs/default-source/default-document-library/law_reports.pdf?sfvrsn=eeea2aa9_0">full report</a> by CPTL and MinLaw’s press releases (“<a href="https://www.mlaw.gov.sg/news/press-releases/law-ministry-accepts-recommendations-to-strengthen-professional">In-principle acceptance by MinLaw of the recommendations by the CPTL</a>”, August 2018; “<a href="https://www.mlaw.gov.sg/news/press-releases/2023-02-28-deferment-of-implementation-recommendations-cptl/">Deferment of Implementation of Recommendations of the Committee for the Professional Training of Lawyers</a>”, February 2023).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 
 <p class="right-side-updated">Last updated on 3 October 2023</p>
