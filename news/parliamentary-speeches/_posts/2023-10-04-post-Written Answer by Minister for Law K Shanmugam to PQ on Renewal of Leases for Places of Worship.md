@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Renewal of Leases
-  for Places of Worship
+title: Written Answer by Minister for Law K Shanmugam to PQ on Renewal of Existing Leases for Places of Worship under Revised Land and Pricing Allocation Framework
 permalink: /news/parliamentary-speeches/written-pq-renewal-leases-places-of-worship/
 date: 2023-10-04
 layout: post
