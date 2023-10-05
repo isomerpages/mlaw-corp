@@ -37,7 +37,7 @@ image: ""
 
 <p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp; As a lawyer (NP) does not have a right to practise, a qualified person may be admitted as a lawyer (NP) after passing Part B of the Singapore Bar Examinations but without undergoing practice training.</p>
 
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp; Practice training will only be compulsory for a lawyer (NP) who wishes to be subsequently admitted as an advocate and solicitor. Please see **Annex** for a comparison between the old and new admission regimes.</p>
+<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp; Practice training will only be compulsory for a lawyer (NP) who wishes to be subsequently admitted as an advocate and solicitor. Please see <b>Annex</b> for a comparison between the old and new admission regimes.</p>
 
 {:start="6"}
 6.&nbsp;&nbsp;&nbsp; To give effect to 4(iii), the Bill repeals the LPA’s current “part-call” provisions and replaces them with a new framework for provisional practising certificates (“Provisional PCs”). After completing a prescribed period of six months of practice training out of the required total of 12 months, a lawyer (NP) who is a practice trainee may apply for a Provisional PC to practise provisionally under the supervision of a solicitor.
