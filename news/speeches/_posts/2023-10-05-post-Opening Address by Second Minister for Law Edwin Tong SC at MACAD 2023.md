@@ -16,10 +16,10 @@ Distinguished guests
 
 Ladies and gentlemen
 
-<b><u>Introduction</u></b><u>
+<b><u>Introduction</u></b>
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning, everyone. Thank you for joining us.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good evening, everyone.
 
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to start by thanking Justice Aedit, Chief Executive of Singapore Academy of Law (SAL), Yeong Zee Kin, and so many at SAL, who made today happened – in some ways against some odds, as we have not had a fully in-person conference for some time.
@@ -581,4 +581,4 @@ Social interaction and Online Harms
 {:start="161"}
 161.&nbsp;&nbsp; Thank you very much.
 
-<p></p><p class="right-side-updated">Last updated on 05 October 2023</p></u>
+<p></p><p class="right-side-updated">Last updated on 05 October 2023</p>
