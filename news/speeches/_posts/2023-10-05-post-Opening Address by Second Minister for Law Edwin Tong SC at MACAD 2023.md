@@ -272,47 +272,36 @@ the way in which you treat your neighbours as you deal with noise, and disamenit
 68.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To do that, we go upstream by working with Singapore Kindness Movement to try to instil certain community norms, to try to educate people. It is also about raising awareness in a nice, gentle, kind way.
 
 {:start="69"}
-69.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So we are not just putting the rules in place, we go upstream and try to foster a
-positive behaviour and change societal norms.
+69.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So we are not just putting the rules in place, we go upstream and try to foster a positive behaviour and change societal norms.
 
 {:start="70"}
-70.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The package as a whole, is not just about resolving conflicts, it is about building a
-kinder, more compassionate, more caring, and more understanding society.
+70.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The package as a whole, is not just about resolving conflicts, it is about building a kinder, more compassionate, more caring, and more understanding society.
 
 <b><u>Significance of Community Mediation in Singapore</u></b>
 
 {:start="71"}
-71.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UThe continued success of mediation is really a testament to our shared commitment to
-social and community harmony. It takes all these people in the mediation ecosystem to
-make it work.
+71.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The continued success of mediation is really a testament to our shared commitment to social and community harmony. It takes all these people in the mediation ecosystem to make it work.
 
 {:start="72"}
 72.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am very confident and positive about mediation.
 
 {:start="73"}
-73.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every 10 cases that walk into the CMC, eight succeed in a settlement agreement.
-That is a very high statistic.
+73.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every 10 cases that walk into the CMC, eight succeed in a settlement agreement. That is a very high statistic.
 
 {:start="74"}
-74.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is testament to the success of the system. It is also testament to the success and
-value each of you as mediators bring to the table.
+74.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is testament to the success of the system. It is also testament to the success and value each of you as mediators bring to the table.
 
 {:start="75"}
-75.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know it is not easy, because to bridge the gap, you do not just use your training, but
-you have to use your EQ to try to reach into the dispute and the disputing parties, and
-find that common ground, find that bridge.
+75.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know it is not easy, because to bridge the gap, you do not just use your training, but you have to use your EQ to try to reach into the dispute and the disputing parties, and find that common ground, find that bridge.
 
 {:start="76"}
-76.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sometimes, it takes a long time. Sometimes, it is quick. Sometimes, it needs you to
-find a solution that exists outside of the problem itself.
+76.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sometimes, it takes a long time. Sometimes, it is quick. Sometimes, it needs you to find a solution that exists outside of the problem itself.
 
 {:start="77"}
-77.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know all of you have been very effective, very innovative, and in many ways, very
-persistent in what you do.
+77.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know all of you have been very effective, very innovative, and in many ways, very persistent in what you do.
 
 {:start="78"}
-78.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should rest assured that the value of what you do is not underestimated. For
-every case you resolved, you preserve harmony – and all of you here are volunteer
+78.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should rest assured that the value of what you do is not underestimated. For every case you resolved, you preserve harmony – and all of you here are volunteer
 community mediators.
 
 {:start="79"}
@@ -321,79 +310,55 @@ community mediators.
 <b><u>The Evolution of Mediators' Responsibilities</u></b>
 
 {:start="80"}
-80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every one of you started out as volunteer mediators. Over the years, some of you
-have progressed and transformed to becoming more than mediators.
+80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every one of you started out as volunteer mediators. Over the years, some of you have progressed and transformed to becoming more than mediators.
 
 {:start="81"}
-81.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am pleased to know that as the scope of the mediators’ responsibilities grew, and
-sometimes the disputes became more and more complex, more and more parties,
-harder to resolve, you did not shy away.
+81.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am pleased to know that as the scope of the mediators’ responsibilities grew, and sometimes the disputes became more and more complex, more and more parties, harder to resolve, you did not shy away.
 
 {:start="82"}
-82.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, many of you stepped forward and began to take on new roles. From mentors,
-to trainers, assessors, media ambassadors – many of you made sacrifices, family
-time, and doing so without compensation, without pay, because you believe in the
-value of mediation, exemplifying your commitment to serving the community. And really, as I said just now, growing the care in Singapore, so that we become a kinder,
-and far gentler, and more compassionate society.
+82.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, many of you stepped forward and began to take on new roles. From mentors, to trainers, assessors, media ambassadors – many of you made sacrifices, family time, and doing so without compensation, without pay, because you believe in the value of mediation, exemplifying your commitment to serving the community. And really, as I said just now, growing the care in Singapore, so that we become a kinder, and far gentler, and more compassionate society.
 
 {:start="83"}
-83.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, today, we have a pool of senior experienced mediators who mentor new
-mediators.
+83.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, today, we have a pool of senior experienced mediators who mentor new mediators.
 
 {:start="84"}
-84.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is important because as you step in and qualify immediately, you may have gone
-through the training, you still ask yourself, how do I actually do it? You sit in front of
-two very quarrelsome persons entrenched in their ways, and you sometimes need a
-guiding process.
+84.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is important because as you step in and qualify immediately, you may have gone through the training, you still ask yourself, how do I actually do it? You sit in front of two very quarrelsome persons entrenched in their ways, and you sometimes need a guiding process.
 
 {:start="85"}
-85.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is the value of the mentor mediators coming forward to share their experience
-with you, and give you some guidance.
+85.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is the value of the mentor mediators coming forward to share their experience with you, and give you some guidance.
 
 {:start="86"}
-86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall, it underscores our commitment to learning and growth, bridging gaps between
-experienced mediators and those who are relatively new.
+86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall, it underscores our commitment to learning and growth, bridging gaps between experienced mediators and those who are relatively new.
 
 {:start="87"}
-87.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In line with our commitment to staying abreast of trends, specialised training led by
-accomplished professionals ensured our mediators’ ongoing relevance.
+87.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In line with our commitment to staying abreast of trends, specialised training led by accomplished professionals ensured our mediators’ ongoing relevance.
 
 {:start="88"}
 88.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We recently expanded our training pool.
 
 {:start="89"}
-89.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where once all training and workshops would be conducted solely by Dr Lim Lan
-Yuan, the CMC’s Advisor, he is now assisted by several fellow mediators.
+89.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where once all training and workshops would be conducted solely by Dr Lim Lan Yuan, the CMC’s Advisor, he is now assisted by several fellow mediators.
 
 {:start="90"}
 90.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They include:
 
-a. Mr Tan Lam Siong, a practising lawyer, who helps to train our mediators on
-drafting settlement terms that can be registered as an Order of Court;
+a. Mr Tan Lam Siong, a practising lawyer, who helps to train our mediators on drafting settlement terms that can be registered as an Order of Court;
 
 b. Ms Grace Wong, a professional consultant; and
 
-c. Mdm Diane Kum, a full-time professional mediator, whose expertise lie with the
-topics on Effective Communication and Collaboration.
+c. Mdm Diane Kum, a full-time professional mediator, whose expertise lie with the topics on Effective Communication and Collaboration.
 
 {:start="91"}
-91.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few of you have also agreed to assist the CMC as media ambassadors. As media
-ambassadors, you represent the CMC in media interviews of various medium, further
-spreading the awareness of mediation.
+91.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few of you have also agreed to assist the CMC as media ambassadors. As media ambassadors, you represent the CMC in media interviews of various medium, further spreading the awareness of mediation.
 
 {:start="92"}
-92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I spoke earlier about how important it is that people know about mediation, know how it
-can be done, and know that they can get help.
+92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I spoke earlier about how important it is that people know about mediation, know how it can be done, and know that they can get help.
 
 {:start="93"}
-93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The media ambassadors have done a big part of that. These volunteers undertake
-more than the roles that they have been identified for, and they did not decline or turn
-them away, when approached by the team.
+93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The media ambassadors have done a big part of that. These volunteers undertake more than the roles that they have been identified for, and they did not decline or turn them away, when approached by the team.
 
 {:start="94"}
-94.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What this demonstrates to me and heartens me considerably, is the warm and close
-relationship that the CMC has established over the years, a strong rapport with the
-mediators.
+94.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What this demonstrates to me and heartens me considerably, is the warm and close relationship that the CMC has established over the years, a strong rapport with the mediators.
 
 {:start="95"}
 95.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you very much to our mediators.
@@ -401,57 +366,41 @@ mediators.
 <b><u>Recognising Long-Serving Mediators</u></b>
 
 {:start="96"}
-96.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, we want to affirm and appreciate the dedication of our long-serving
-mediators who have been instrumental in shaping the CMC’s legacy.
+96.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, we want to affirm and appreciate the dedication of our long-serving mediators who have been instrumental in shaping the CMC’s legacy.
 
 {:start="97"}
-97.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are in many ways, the forerunner of what has been the hard work for good thought
-leadership and dedication of many of our predecessors.
+97.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are in many ways, the forerunner of what has been the hard work for good thought leadership and dedication of many of our predecessors.
 
 {:start="98"}
-98.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is also the first time that we are presenting the 25 th Year Appreciation Awards to
-the eight pioneer mediators.
+98.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is also the first time that we are presenting the 25 th Year Appreciation Awards to the eight pioneer mediators.
 
 {:start="99"}
-99.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am told that amongst the recipients, sadly, is one whose family will be receiving the
-award posthumously.
+99.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am told that amongst the recipients, sadly, is one whose family will be receiving the award posthumously.
 
-a. His son, Mr Eugene Lim is here to receive the award for his father Mr Francis
-Lim, who passed away earlier this year.
+a. His son, Mr Eugene Lim is here to receive the award for his father Mr Francis Lim, who passed away earlier this year.
 
-b. Mr Lim was from the pioneer batch of volunteers who had stepped forward
-selflessly to serve as a community mediator way back in 1998.
+b. Mr Lim was from the pioneer batch of volunteers who had stepped forward selflessly to serve as a community mediator way back in 1998.
 
-c. Having mediated over 300 cases, this year would have been his 25th year of
-volunteer service with us.
+c. Having mediated over 300 cases, this year would have been his 25th year of volunteer service with us.
 
-d. Those who knew Mr Lim would remember he always carried a kind smile and
-cheerful disposition, always caring for others, always thinking of how he can
-make a difference in the lives of others.
+d. Those who knew Mr Lim would remember he always carried a kind smile and cheerful disposition, always caring for others, always thinking of how he can make a difference in the lives of others.
 
 {:start="100"}
-100.&nbsp;&nbsp; To the recipients of these awards, your tireless dedication has been an inspiration. It
-has also paved the way for unity and understanding in our community.
+100.&nbsp;&nbsp; To the recipients of these awards, your tireless dedication has been an inspiration. It has also paved the way for unity and understanding in our community.
 
 <b><u>The Community Mediation Luminary Award</u></b>
 
 {:start="101"}
-101.&nbsp;&nbsp; Beyond appreciation, we have an individual whose contributions have transcended the
-CMC’s legacy.
+101.&nbsp;&nbsp; Beyond appreciation, we have an individual whose contributions have transcended the CMC’s legacy.
 
 {:start="102}
 102.&nbsp;&nbsp; He is none other than Dr Lim Lan Yuan.
 
-a. Dr Lim’s journey began in 1998 as a volunteer mediator, which paved the way for
-his extensive and truly transformative contributions.
+a. Dr Lim’s journey began in 1998 as a volunteer mediator, which paved the way for his extensive and truly transformative contributions.
 
-b. From a mediator to Advisor (a title that only belongs to him), trainer to coach,
-mentor to media ambassador, a member of the Advisory Committee on
-Community Mediation – he has undoubtedly been instrumental to the growth of
-the CMC in so many ways.
+b. From a mediator to Advisor (a title that only belongs to him), trainer to coach, mentor to media ambassador, a member of the Advisory Committee on Community Mediation – he has undoubtedly been instrumental to the growth of the CMC in so many ways.
 
-c. Dr Lim’s legacy is one of leadership and selfless commitment, making him a
-deserving recipient of this inaugural award, the Community Mediation Luminary
+c. Dr Lim’s legacy is one of leadership and selfless commitment, making him a deserving recipient of this inaugural award, the Community Mediation Luminary
 Award.
 
 d. Congratulations!
@@ -459,21 +408,16 @@ d. Congratulations!
 <b><u>Conclusion</u></b>
 
 {:start="103"}
-103.&nbsp;&nbsp; Tonight, the time is priceless. I want to dedicate this evening of our 25 th anniversary
-celebration to all of you – as a token of gratitude and appreciation that you have in all the work that you do, all the sacrifices that you have made – helped us to achieve the
-CMC’s vision, which is ‘Building Bridges through Reconciliation’.
+103.&nbsp;&nbsp; Tonight, the time is priceless. I want to dedicate this evening of our 25th anniversary celebration to all of you – as a token of gratitude and appreciation that you have in all the work that you do, all the sacrifices that you have made – helped us to achieve the CMC’s vision, which is ‘Building Bridges through Reconciliation’.
 
 {:start="104"}
-104.&nbsp; Resolving disputes peacefully is not just about resolving a dispute. It is actually
-causative, and is not really about elimination.
+104.&nbsp; Resolving disputes peacefully is not just about resolving a dispute. It is actually causative, and is not really about elimination.
 
 {:start="105"}
-105.&nbsp; It is not just resolving the problem. It is the steps all of you take one by one, to build a
-more positive, kinder, and understanding Singapore.
+105.&nbsp; It is not just resolving the problem. It is the steps all of you take one by one, to build a more positive, kinder, and understanding Singapore.
 
 {:start="106"}
-106.&nbsp;&nbsp; So I wish all of you a very enjoyable evening, celebrate this big anniversary like never
-before. Let your hair down.
+106.&nbsp;&nbsp; So I wish all of you a very enjoyable evening, celebrate this big anniversary like never before. Let your hair down.
 
 {:start="107"}
 107.&nbsp;&nbsp; Enjoy the evening, and thank you very much.
