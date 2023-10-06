@@ -373,51 +373,72 @@ b. And also the users – the different residents who had encountered problems i
 the past.
 
 {:start="65"}
-65.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is really a difficult challenge in many jurisdictions.
-
-Legal developments
+65.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We got all their views, studied them closely, before we start to finetune the
+framework.
 
 {:start="66"}
-66.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, the impact on developments in law. The legal profession is actually an ancient trade. We have had to deal with many changes.
+66.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As we distil the feedback and the insights we obtained – and they have all been very
+valuable, we remain very determined and steadfast in our view that these CDMF
+enhancements will take us to the next level, and will really help not just to resolve
+disputes, but in a more formal way, to maintain the peace.
 
 {:start="67"}
-67.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Because it is an ancient trade, it has been around for so long, I think it is no stranger to change. Change really is nothing.
+67.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Once people know that there is a framework and there is mandatory mediation, I think
+that has an impact on the way you behave, or the way you look at your neighbours, or
+the way in which you treat your neighbours as you deal with noise, and disamenities
+like smell, sound, and so on. I think it helps to condition people.
 
 {:start="68"}
-68.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Just take for example, a very simple basic, broad principle, _Donoghue v Stevenson_ decided in 1932, less than a hundred years ago.
+68.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To do that, we go upstream by working with Singapore Kindness Movement to try to
+instil certain community norms, to try to educate people. It is also about raising
+awareness in a nice, gentle, kind way.
 
 {:start="69"}
-69.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There was no principle that said that if you see a “snail in a bottle”, there will be foreseeable harm, they can make a claim.
+69.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So we are not just putting the rules in place, we go upstream and try to foster a
+positive behaviour and change societal norms.
 
 {:start="70"}
-70.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So what were people doing a few hundred years prior to that?
+70.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The package as a whole, is not just about resolving conflicts, it is about building a
+kinder, more compassionate, more caring, and more understanding society.
+
+<b><u>Significance of Community Mediation in Singapore</u></b>
 
 {:start="71"}
-71.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Until that came along that settled the position, even then it continues to move.
+71.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UThe continued success of mediation is really a testament to our shared commitment to
+social and community harmony. It takes all these people in the mediation ecosystem to
+make it work.
 
 {:start="72"}
-72.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2007, Singapore Court of Appeal had our own enunciation of what it meant and what the principles of this area of law called the tort of negligence and duty of care in _Spandeck_, 75 years or so, after _Donoghue v Stevenson_.
+72.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am very confident and positive about mediation.
 
 {:start="73"}
-73.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So it continues to evolve with change. With each change, there is evolution and the law takes it in its stride.
+73.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every 10 cases that walk into the CMC, eight succeed in a settlement agreement.
+That is a very high statistic.
 
 {:start="74"}
-74.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the practice of common law over time, eventually we come to grip with – I do not know if we have the same amount of time, dealing with AI and technology – but that in principle is how we in the legal industry accept and contend with change in the environment, and how we reflect it.
+74.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is testament to the success of the system. It is also testament to the success and
+value each of you as mediators bring to the table.
 
 {:start="75"}
-75.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take generative AI as one example. It took the world by storm not so long ago, we have heard concerns about the reliability and the accuracy of the output that it generates. Judge Aedit himself has spoken publicly about this as well.
+75.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know it is not easy, because to bridge the gap, you do not just use your training, but
+you have to use your EQ to try to reach into the dispute and the disputing parties, and
+find that common ground, find that bridge.
 
 {:start="76"}
-76.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So the question is, to what extent should a person relying on such an output be responsible for checking its accuracy? You rely on it, you use it, but who is ultimately responsible for Scott’s or Harvey’s mistakes, if any? How should “hallucinations” by GenAI models be addressed when you go completely out of whack?
+76.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sometimes, it takes a long time. Sometimes, it is quick. Sometimes, it needs you to
+find a solution that exists outside of the problem itself.
 
 {:start="77"}
-77.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Soon enough, we also heard concerns about the intellectual property rights over the data on which the GenAI model is trained, and over training the output generated.
+77.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I know all of you have been very effective, very innovative, and in many ways, very
+persistent in what you do.
 
 {:start="78"}
-78.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example in March this year, the US Copyright Office released a statement that if a work’s traditional elements of authorship were produced by a machine, the work lacks human authorship, and that Office will not recognise it.
+78.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should rest assured that the value of what you do is not underestimated. For
+every case you resolved, you preserve harmony – and all of you here are volunteer
+community mediators.
 
 {:start="79"}
-79.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is one approach – not saying it will be our approach, but that is one approach to take when it comes to generative AI producing intellectual property, not human authorship – so far recognisable, and therefore not copyrighted.
+79.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to end tonight's speech by really giving you a shout out.
 
 {:start="80"}
 80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This position was later affirmed by a federal district court in the US and explained that human authorship – and I quote – is a “bedrock requirement of copyright”.
