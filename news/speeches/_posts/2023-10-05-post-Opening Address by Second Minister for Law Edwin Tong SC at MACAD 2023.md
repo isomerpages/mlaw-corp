@@ -104,16 +104,42 @@ Community Dispute Management Framework (CDMF), this is one of the core
 principles of trying to maintain the ability to resolve disputes.
 
 {:start="19"}
-19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the younger lawyers who do not know what a dictaphone is, it is a gadget that you speak into when you are alone in your office. To the outside world, you look a little mad as you are speaking to a device, sometimes quite animatedly. You had to give it to a secretary to transcribe. Unlike today where you can dictate and straightaway, it is transcribed. We did not have any of that.
+19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are having a dispute with your neighbour who lives three feet from you, it does
+not make sense for both of you to get onto the bus, travel for 45 minutes to resolve the
+dispute somewhere else farther. So we wanted to make sure that it is accessible,
+convenient, and somewhere which you can actually associate with, in the
+neighbourhood.
 
 {:start="20"}
-20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then the Lexis digital library in the 1970s, fax machines in 1980s, and computers and emails in 1990s.
+20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our very first cohort of volunteer community mediators who started out with the CMC
+were all grassroot leaders. Today, eight mediators from that first cohort, the pioneer
+batch, are with us here today. May I invite all of you to stand up, to get acknowledged
+by everyone?
 
 {:start="21"}
-21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I came into practice, it was the tail-end of the fax machines. It was one of those devices, if you left it long enough in the sun, it would fade away. Then the instructions you get from the clients will disappear and you are left scratching your head as to what exactly you were required to do.
+21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is not just your vision and foresight, but your perseverance and resilience in
+continuing to be a mediator. So I thank you very much for your unwavering
+commitment, dedication and your belief in what you do, because what you do over the
+years have inspired others. If you look around the room today, many of these
+mediators have come on board this journey because of what you have done. So, thank
+you very much.
 
 {:start="22"}
-22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the 2000s, there was a stronger push for technology. We started seeing “enabler technology”, such as document management systems (DMS) that facilitate the digitalisation of a firm’s operations.
+22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the early days, residents would go to the Centre to register cases. That time was still
+a bit low tech.
+
+a. We still used a telephone to make an appointment.
+
+b. The CMC officers who were there would very much persuade the parties, or if
+there was only one party who was coming forward, to persuade the other party to
+come to the CMC for mediation.
+
+c. All the processes were manual.
+
+d. All the case notes were by hand, files were physical, and the process was a bit
+slow.
+
+e. But that did not deter our mediators.
 
 {:start="23"}
 23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I remember that it was around the late 1990s or early 2000s that we had some technology in the courts. But this technology was mainly used as a bookshelf by many lawyers – we would come in, fold our screens down, and put our files on it. That was the way in which we did not embrace technology.
