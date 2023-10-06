@@ -185,61 +185,78 @@ port of call. We try mediation first, and thanks to the mediators for their assi
 perseverance, and lending a kind, sympathetic listening ear, it has made all the
 difference.
 
-**Appetite for legaltech**
-
 {:start="28"}
-28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, we see a varying level of adoption of these enabler, back-office and front-office technology tools globally.
+28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But a small percentage of these cases, for all the efforts that we put in, parties are still
+intransigent. The problem still happens – can be noise or some other kinds of
+nuisance. So we started the CDRT for this reason.
 
 {:start="29"}
-29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall, there is healthy and growing appetite for these tools among the legal service providers and clients. The COVID-19 pandemic has dramatically changed the mindset, philosophy, and even the acceptance levels of lawyers and technology.
+29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More recently, when the COVID-19 pandemic hit, we faced unprecedented challenges.
+Our homes are not designed for everyone to be at home all the time. So when that
+happened, it caused some friction.
 
 {:start="30"}
-30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the UK, a recent survey of around 1,300 law firms by the Legal Services Board showed that 92% of law firms agree that Covid-19 has increased not just their use, but also their trust in technology.
+30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In many ways, the lessons that we have learned from the pandemic were just like any
+other sector.
+
+a. We embraced virtual training via platforms like Webex and Zoom. We did not do
+this before. These are new ways of learning, new ways of connecting.
+
+b. We learned the good habits from COVID-19, we adopted them and made these
+practices mainstream. The pandemic has been a catalyst to accelerate the
+transition to virtual mediation.
+
+<b><u>Increasing Access to Mediation</u></b>
 
 {:start="31"}
-31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Hong Kong, a 2022 survey by Opus2 and Conventus Law, a legal-focused digital media platform, showed that 78% of the respondents adopted legaltech, since the pandemic. This includes tools like e-discovery, signature tools, DMS, PMS and so on.
+31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not all mediation can be done virtually or should be done virtually. Sometimes you
+need to look the person in the eye and be in-person.
 
 {:start="32"}
-32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Singapore, and this is a pre-COVID survey in 2018, 82% of decision makers in Singapore law firms considered legaltech to be crucial for them to stay competitive. I suspect that if you were asked that question in 2018, you will say “Yes, it is crucial.” But actually, what does it really mean? Not so much until COVID really happened.
+32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But on the occasion where it is not possible, virtual mediation is now something that
+can be used to settle disputes remotely.
 
 {:start="33"}
-33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But we should also look at how the users in the legal industry or clients, particularly the in-house counsel, look at the same question.
+33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, you can choose face-to-face or virtual mediation. You can use Zoom, or some
+other platforms, expanding accessibility and convenience.
 
 {:start="34"}
-34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I thought I will share two questions with you which were posed to in-house counsel.
+34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So what more do we do? Let me just give you a sneak peek of what else we are going
+to be doing.
 
 {:start="35"}
-35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, are in-house legal teams themselves adopting legaltech? The answer, I think you can see from the survey, is a clear yes.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A survey by PwC on Chief Legal Officers in 2023 found that close to half of the general counsel have earmarked “legal operations” and “legal process optimisation” as a priority for broader business growth, amid shrinking budgets and of course, increasing workload, and there’s increasingly a headcount pressure downwards. All that, I think, is driving the move towards technology.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Further, a 2022 Gartner survey showed that by 2024, in-house legal teams will have automated 50% of their legal work related to major corporate transactions, and by 2025, increase their legaltech spend threefold.</p>
+35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Residents have been asking for mediation outlets closer to their homes.
 
 {:start="36"}
-36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These are some of the questions that were posed, of course, in general terms to in-house counsel, but you can see the direction that this is taking, both in terms of their usage, as well as the expectation of external usage of technology.
+36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last year, I had shared with you about the collaboration with the Public Service
+Division and the People’s Association that resulted in six satellite mediation venues
+being set up in the heartlands, using our partnership with the People’s Association.
 
 {:start="37"}
-37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, perhaps an interesting question, do in-house legal teams expect or require their external counsel to adopt technology? The answer, again, is a resounding yes.
+37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We embedded these satellite venues in the heartlands, as far as possible, within the
+estates and precincts where our residents live.
 
 {:start="38"}
-38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the UK’s Legal Service Board 2023 survey, 60% of the firms surveyed agreed that their clients expect them to use technology to deliver legal services.
+38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These satellite mediation venues, strategically placed within ServiceSG Centres and
+Community Clubs, aim to extend our reach to all residents, making it a lot more
+convenient, and much harder to say no to mediation.
 
 {:start="39"}
-39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I was a practitioner, we used to do beauty parades, show off who you are, your associates, and so on. Before long, you may also have to beauty parade your bots at these sessions and tell the clients who your bots are, how responsive they are, can they speak to you in a nice soft tone, and so on.
+39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am really happy to say that this year, we have set up four more locations where
+residents can practically go downstairs, walk a few more steps and get into mediation.
+These include Ace the Place Community Club, Clementi Community Centre, Paya
+Lebar Kovan Community Club, and ServiceSG @ Keat Hong Community Club.
 
 {:start="40"}
-40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indeed, these findings are consistent with MinLaw’s own observations and interactions with the major US firms, particularly, those coming from New York and Chicago.&nbsp;
+40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, we have extended it to different parts of Singapore. If we find that this has traction,
+people will come to mediation, we will look at expanding our partnership with the
+People’s Association.
 
 {:start="41"}
-41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But what is most striking to me is the LexisNexis International Legal Generative AI Survey in 2023 – a recent survey focusing specifically on generative AI. This covered close to 8,000 respondents across the US, UK, France and Canada.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the survey, 60% of in-house legal teams expect law firms to use cutting-edge tools like generative AI tools when delivering services to them.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Law firms agree, with 52% affirming that their clients will expect them to do so.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The survey also showed that this was where the levels were today, in 2023, but both in house and general counsel, expect these numbers to grow over time.</p>
-
-**Cutting-edge technologies**
+41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Along with the main mediation Centre at The URA Centre East Wing and ten satellite
+mediation venues all around the island, I would say that mediation today has become
+far more accessible than it ever has been, and we will aim to enhance that in the near
+future.
 
 {:start="42"}
 42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So let me turn now to speak briefly about these cutting-edge technologies, using generative AI and smart contract as examples of how they automate knowledge work.
