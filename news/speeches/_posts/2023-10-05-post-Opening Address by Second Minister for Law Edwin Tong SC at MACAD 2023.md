@@ -22,61 +22,86 @@ Ladies and gentlemen
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good evening, everyone.
 
 {:start="2"}
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to start by thanking Justice Aedit, Chief Executive of Singapore Academy of Law (SAL), Yeong Zee Kin, and so many at SAL, who made today happened – in some ways against some odds, as we have not had a fully in-person conference for some time.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It It took me a while to make my way from the foyer into the ballroom. Even as I was
+coming in, I saw people going out to take photographs, share happy moments, catch
+up with old friends, and see each other put on funny costumes for the photographs.
 
 {:start="3"}
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As you have heard from Justice Aedit earlier, the world has vastly changed since the last TechLaw.Fest.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am so glad to see that, because this evening is all about celebrating all of you –
+celebrating your volunteerism, your ‘never say die’ attitude, your ability to come
+forward and serve year after year, and make the Community Mediation Centre (CMC)
+25 years this year.
 
 {:start="4"}
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The theme of this year’s TechLaw.Fest is “This is What’s Next”. I thought this is very apt in the realm of law and technology. Both are forward-looking, and multi-faceted that we constantly, even in practice, ask ourselves "what's next". &nbsp;
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, I want to start by asking all of you, to please give yourselves a tremendous round
+of applause.
 
 {:start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bill Gates, in a 2001 interview, said “the advance of technology is based on making it fit in, so that you don’t really even notice it, and it becomes part of everyday life”.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, as we celebrate 25 years of community mediation, it is a chance for us,
+as we go forward into the next 25 years and beyond, to take a moment to look back on
+how we have come here collectively.
 
 {:start="6"}
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think many of us can resonate with this in many ways. In fact, if we think how we conduct ourselves today, how we move around, how we communicate, how we socialise, without the internet, WiFi and smartphones, which have become so integral to our lives, we feel almost unequipped without them.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25 years is not a small milestone. It is a major milestone, a significant achievement.
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But when it comes to the practice of law, I am not yet convinced that that is where we are.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must have been quite a journey, particularly for the first cohort of our mediators who
+stepped up and took that journey way back in 1998. I want to thank them for being one
+of the pioneers, and for believing in mediation.
 
 {:start="8"}
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some people said that law and technology are like oil and water for lawyers. They do not quite mix. But I think COVID-19 has somewhat changed this perspective.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That belief is very much appreciated. Because today, more than ever, especially as we
+live so close to each other, you realise that there is more we can do to preserve the
+harmony and the peace in our own community. And many of you here have been
+pioneers in doing that.
+
+<b><u>Evolution of the CMC</u></b>
 
 {:start="9"}
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As of now, technology does apply to some aspects of legal practice – online legal research, virtual hearings – and some lawyers do use legaltech tools to manage their office, manage their work and portfolio of clients.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me first briefly touch on the rich history of the CMC.
 
 {:start="10"}
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But in general, my sense is that technology has not fully pervaded into the workstreams and into the way in which we interact with one another as practitioners in the legal industry as well as the clients.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was in May 1996, that our Committee on Alternative Dispute Resolution (ADR) was
+appointed by then Minister for Law, Professor S Jayakumar.
 
 {:start="11"}
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MinLaw recently engaged around 50 law firms as part of our ongoing outreach. We regularly speak to law firms, to get a dipstick sense of the sentiments in the legal industry.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Committee was tasked to study how ADR, in particular mediation, could be
+promoted in Singapore. The intent was very clear – to provide a less acrimonious
+means for people to resolve conflicts without having to go to court.
 
 {:start="12"}
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We asked these 50 law firms what is their sense of legal technology?
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The study was completed in July 1997. It basically confirmed what the Committee first
+suspected, when they set it up, which is that it was important for us in Singapore to
+have less expensive, and perhaps more importantly, non-adversarial ways of resolving
+disputes.
 
 {:start="13"}
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We found that besides using legaltech to manage their documents and firm matters, many still however, use, store and refer to their documents manually, producing their first draft of documents from scratch, sometimes literally by cutting and pasting from their previous precedents. I think that has been the way in which a lot of transactions work have been done, not so much with AI, let alone generative AI.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you can resolve disputes in a non-adversarial way, it helps to promote the peace,
+and helps keep good relations. Those are qualities that are particularly important if you
+are having a dispute with your neighbour. Because you can choose many things, but
+you cannot choose your neighbour. So you have to preserve the peace.
 
 {:start="14"}
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But I am convinced that this will change over time, because, as I said earlier, technology touches every aspect of our lives. Over time, it will touch almost every aspect of our practice.
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One of the recommendations, in the context of resolving disputes in the community,
+was to establish a network of CMCs to serve as a platform for parties to come, where
+there will be a neutral, trained expert mediator to resolve the conflict.
 
 {:start="15"}
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There will be a point in time when the meld of technology and law becomes so profound that they will interact and shape the development of one another. As Justice Aedit said earlier, the technology of law and the law of technology, I think soon, will become amorphous. For this to happen, the legaltech ecosystem will have a key role to play.
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With that thinking, the CMC was conceived.
 
 {:start="16"}
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, given the theme of this year’s TechLaw.Fest, I would like to share with you two main points.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, my perspective of how legaltech has developed to date.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, and perhaps more importantly, my views on how these developments will impact the law and law reforms, human capital development and societal interactions.</p>
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 1998, the very first CMC opened its doors in Marine Parade, which some of you
+here may still remember.
 
 {:start="17"}
-17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I hope this will give you some food for thought on the role that each of you, in your different sectors, as thought leaders, can play in the legal ecosystem.
-
-**Evolution of legaltech**
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Between 1999 and 2001, three other CMCs were established at other locations within
+our neighbourhoods. It was important that we do it in the neighbourhood because that
+is precisely where the conflicts take place.
 
 {:start="18"}
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It may come as a surprise that the legal sector started embracing technology in the 1950s when dictation machines became very popular and commonplace.
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IIn fact, today, as we look at revising and improving on the CMCs, through our
+Community Dispute Management Framework (CDMF), this is one of the core
+principles of trying to maintain the ability to resolve disputes.
 
 {:start="19"}
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the younger lawyers who do not know what a dictaphone is, it is a gadget that you speak into when you are alone in your office. To the outside world, you look a little mad as you are speaking to a device, sometimes quite animatedly. You had to give it to a secretary to transcribe. Unlike today where you can dictate and straightaway, it is transcribed. We did not have any of that.
