@@ -440,41 +440,68 @@ community mediators.
 {:start="79"}
 79.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to end tonight's speech by really giving you a shout out.
 
+<b><u>The Evolution of Mediators' Responsibilities</u></b>
+
 {:start="80"}
-80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This position was later affirmed by a federal district court in the US and explained that human authorship – and I quote – is a “bedrock requirement of copyright”.
+80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every one of you started out as volunteer mediators. Over the years, some of you
+have progressed and transformed to becoming more than mediators.
 
 {:start="81"}
-81.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is today’s pronouncement in an established field of law – but applying old legal principles to evolving changes in technology today.
+81.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am pleased to know that as the scope of the mediators’ responsibilities grew, and
+sometimes the disputes became more and more complex, more and more parties,
+harder to resolve, you did not shy away.
 
 {:start="82"}
-82.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But I would say, this discourse is far from over – that is far from the final word on this topic. Even in the US, let alone in other jurisdictions, and the law will continue to be scrutinised, tested and refined as more factual scenarios arise, as more different iterations of the generative AI and of Scott and Harvey arise, there will be evolution.
+82.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, many of you stepped forward and began to take on new roles. From mentors,
+to trainers, assessors, media ambassadors – many of you made sacrifices, family
+time, and doing so without compensation, without pay, because you believe in the
+value of mediation, exemplifying your commitment to serving the community. And really, as I said just now, growing the care in Singapore, so that we become a kinder,
+and far gentler, and more compassionate society.
 
 {:start="83"}
-83.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But by looking at these two examples, we can draw some lessons on how developments in law could take place in the face of legal technology changes.
+83.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, today, we have a pool of senior experienced mediators who mentor new
+mediators.
 
 {:start="84"}
-84.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, the discussions on human authorship in AI-generated work began well before 2022.
+84.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is important because as you step in and qualify immediately, you may have gone
+through the training, you still ask yourself, how do I actually do it? You sit in front of
+two very quarrelsome persons entrenched in their ways, and you sometimes need a
+guiding process.
 
 {:start="85"}
-85.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2018, the US Copyright Office had already received an application for visual work that was described as _“autonomously created by a computer algorithm running on a machine”._ Not sure what it means, but it is a very high-level AI.
+85.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is the value of the mentor mediators coming forward to share their experience
+with you, and give you some guidance.
 
 {:start="86"}
-86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A couple of days ago, over the weekend, you saw what Dick Lee said in the papers.
+86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall, it underscores our commitment to learning and growth, bridging gaps between
+experienced mediators and those who are relatively new.
 
 {:start="87"}
-87.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; He said AI-generated music is not music. He makes a strong case – even though he was one of the early adopters of technology. He spoke about this, he was pretty advanced in the use of technology in his music. But he saw the distinction between using technology to help the human authorship and ownership of music, as opposed to devolving it entirely to an AI to write the music itself.
+87.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In line with our commitment to staying abreast of trends, specialised training led by
+accomplished professionals ensured our mediators’ ongoing relevance.
 
 {:start="88"}
-88.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will constantly see these, not just legal struggles, but also artistic struggles, over how we construe and how we look at the work product of AI.
+88.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We recently expanded our training pool.
 
 {:start="89"}
-89.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think these illustrations show how a breakthrough in technology could also quickly impact developments in the law.
+89.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where once all training and workshops would be conducted solely by Dr Lim Lan
+Yuan, the CMC’s Advisor, he is now assisted by several fellow mediators.
 
 {:start="90"}
-90.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My view is that this trajectory may be similar for other technologies, such as blockchain technologies and also quantum computing.
+90.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They include:
+
+a. Mr Tan Lam Siong, a practising lawyer, who helps to train our mediators on
+drafting settlement terms that can be registered as an Order of Court;
+
+b. Ms Grace Wong, a professional consultant; and
+
+c. Mdm Diane Kum, a full-time professional mediator, whose expertise lie with the
+topics on Effective Communication and Collaboration.
 
 {:start="91"}
-91.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coming back to the broad theme of today’s event, how should we adapt and prepare ourselves for what might come next? I think we know the landscape, or rather we know it is evolving quickly, what do we do?
+91.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A few of you have also agreed to assist the CMC as media ambassadors. As media
+ambassadors, you represent the CMC in media interviews of various medium, further
+spreading the awareness of mediation.
 
 Human Capital
 
