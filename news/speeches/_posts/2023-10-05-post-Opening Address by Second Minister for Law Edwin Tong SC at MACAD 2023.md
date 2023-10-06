@@ -22,43 +22,30 @@ Ladies and gentlemen
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good evening, everyone.
 
 {:start="2"}
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It It took me a while to make my way from the foyer into the ballroom. Even as I was
-coming in, I saw people going out to take photographs, share happy moments, catch
-up with old friends, and see each other put on funny costumes for the photographs.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It It took me a while to make my way from the foyer into the ballroom. Even as I was coming in, I saw people going out to take photographs, share happy moments, catch up with old friends, and see each other put on funny costumes for the photographs.
 
 {:start="3"}
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am so glad to see that, because this evening is all about celebrating all of you –
-celebrating your volunteerism, your ‘never say die’ attitude, your ability to come
-forward and serve year after year, and make the Community Mediation Centre (CMC)
-25 years this year.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am so glad to see that, because this evening is all about celebrating all of you – celebrating your volunteerism, your ‘never say die’ attitude, your ability to come forward and serve year after year, and make the Community Mediation Centre (CMC) 25 years this year.
 
 {:start="4"}
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, I want to start by asking all of you, to please give yourselves a tremendous round
-of applause.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, I want to start by asking all of you, to please give yourselves a tremendous round of applause.
 
 {:start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, as we celebrate 25 years of community mediation, it is a chance for us,
-as we go forward into the next 25 years and beyond, to take a moment to look back on
-how we have come here collectively.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, as we celebrate 25 years of community mediation, it is a chance for us, as we go forward into the next 25 years and beyond, to take a moment to look back on how we have come here collectively.
 
 {:start="6"}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25 years is not a small milestone. It is a major milestone, a significant achievement.
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must have been quite a journey, particularly for the first cohort of our mediators who
-stepped up and took that journey way back in 1998. I want to thank them for being one
-of the pioneers, and for believing in mediation.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must have been quite a journey, particularly for the first cohort of our mediators who stepped up and took that journey way back in 1998. I want to thank them for being one of the pioneers, and for believing in mediation.
 
 {:start="8"}
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That belief is very much appreciated. Because today, more than ever, especially as we
-live so close to each other, you realise that there is more we can do to preserve the
-harmony and the peace in our own community. And many of you here have been
-pioneers in doing that.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That belief is very much appreciated. Because today, more than ever, especially as we live so close to each other, you realise that there is more we can do to preserve the harmony and the peace in our own community. And many of you here have been pioneers in doing that.
 
 <b><u>Evolution of the CMC</u></b>
 
 {:start="9"}
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me first briefly touch on the rich history of the CMC.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me first briefly touch on the rich history of the CMC.
 
 {:start="10"}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was in May 1996, that our Committee on Alternative Dispute Resolution (ADR) was
