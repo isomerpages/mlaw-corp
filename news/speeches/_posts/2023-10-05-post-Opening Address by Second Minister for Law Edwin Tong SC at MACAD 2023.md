@@ -503,242 +503,101 @@ topics on Effective Communication and Collaboration.
 ambassadors, you represent the CMC in media interviews of various medium, further
 spreading the awareness of mediation.
 
-Human Capital
-
 {:start="92"}
-92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One point I will touch on very briefly is the impact that technology will have on our human capital.
+92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I spoke earlier about how important it is that people know about mediation, know how it
+can be done, and know that they can get help.
 
 {:start="93"}
-93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a constant question that I get asked when I engage with young lawyers – Will there come a day when lawyers, especially young lawyers, will no longer be needed?
+93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The media ambassadors have done a big part of that. These volunteers undertake
+more than the roles that they have been identified for, and they did not decline or turn
+them away, when approached by the team.
 
 {:start="94"}
-94.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, if we do not have young lawyers, how will we have old lawyers? So I say young lawyers will always be needed because we still need old lawyers.
+94.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What this demonstrates to me and heartens me considerably, is the warm and close
+relationship that the CMC has established over the years, a strong rapport with the
+mediators.
 
 {:start="95"}
-95.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But more seriously, I think the question that we are really grappling with, is that with this kind of breakthrough in technology, we wonder whether the legal profession, in the way we know it, will be phased out or changed dramatically? Whether lawyers, at least for the certain functions of lawyers, will be phased out?
+95.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you very much to our mediators.
+
+<b><u>Recognising Long-Serving Mediators</u></b>
 
 {:start="96"}
-96.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think the reality is that technology is both a threat, and I can see where these lawyers are coming from, but also a tool that we can use and harness.
+96.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This evening, we want to affirm and appreciate the dedication of our long-serving
+mediators who have been instrumental in shaping the CMC’s legacy.
 
 {:start="97"}
-97.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As individual lawyers, we must invest in our own capabilities and constantly equip ourselves with new skills.
+97.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are in many ways, the forerunner of what has been the hard work for good thought
+leadership and dedication of many of our predecessors.
 
 {:start="98"}
-98.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On this note, I echo the sentiments shared by our Chief Justice when he addressed new entrants to the Singapore Bar last month – he said that you have to prepare for lawyering in the age of AI, and we must therefore commit to lifelong learning.
+98.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is also the first time that we are presenting the 25 th Year Appreciation Awards to
+the eight pioneer mediators.
 
 {:start="99"}
-99.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well quite simply, because the AI that you know last year will not be the AI you know this year, just like the law has also evolved.
+99.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am told that amongst the recipients, sadly, is one whose family will be receiving the
+award posthumously.
+
+a. His son, Mr Eugene Lim is here to receive the award for his father Mr Francis
+Lim, who passed away earlier this year.
+
+b. Mr Lim was from the pioneer batch of volunteers who had stepped forward
+selflessly to serve as a community mediator way back in 1998.
+
+c. Having mediated over 300 cases, this year would have been his 25th year of
+volunteer service with us.
+
+d. Those who knew Mr Lim would remember he always carried a kind smile and
+cheerful disposition, always caring for others, always thinking of how he can
+make a difference in the lives of others.
 
 {:start="100"}
-100.&nbsp;&nbsp; I believe that this must be the underlying mindset and the headspace that we have, as we approach not just legal work but all work in this new age. Because we will be constantly challenged with developments and technologies, not just within the legal space.
+100.&nbsp;&nbsp; To the recipients of these awards, your tireless dedication has been an inspiration. It
+has also paved the way for unity and understanding in our community.
+
+<b><u>The Community Mediation Luminary Award</u></b>
 
 {:start="101"}
-101.&nbsp;&nbsp; In some ways, this might require us, as lawyers, as we look at trainings, as we look at preparing our young lawyers for entry into the Bar. It might require more than just a law degree. You may have to round off your experience with other facets depending on your practice areas.
+101.&nbsp;&nbsp; Beyond appreciation, we have an individual whose contributions have transcended the
+CMC’s legacy.
 
 {:start="102}
-102.&nbsp;&nbsp; So again, to pick up on the IP theme that I started with, it might be common to see lawyers obtain data privacy certifications, such as those by the International Association of Privacy Professionals (IAPP).
+102.&nbsp;&nbsp; He is none other than Dr Lim Lan Yuan.
+
+a. Dr Lim’s journey began in 1998 as a volunteer mediator, which paved the way for
+his extensive and truly transformative contributions.
+
+b. From a mediator to Advisor (a title that only belongs to him), trainer to coach,
+mentor to media ambassador, a member of the Advisory Committee on
+Community Mediation – he has undoubtedly been instrumental to the growth of
+the CMC in so many ways.
+
+c. Dr Lim’s legacy is one of leadership and selfless commitment, making him a
+deserving recipient of this inaugural award, the Community Mediation Luminary
+Award.
+
+d. Congratulations!
+
+<b><u>Conclusion</u></b>
 
 {:start="103"}
-103.&nbsp;&nbsp; In Singapore, we could also consider obtaining a practitioner certificate in Personal Data Protection developed by the Personal Data Protection Commission, which could equip us with practical knowledge to advise clients on data protection practices and services.
+103.&nbsp;&nbsp; Tonight, the time is priceless. I want to dedicate this evening of our 25 th anniversary
+celebration to all of you – as a token of gratitude and appreciation that you have in all the work that you do, all the sacrifices that you have made – helped us to achieve the
+CMC’s vision, which is ‘Building Bridges through Reconciliation’.
 
 {:start="104"}
-104.&nbsp; Those looking for a career change in the legal industry may also need to be on the lookout for emerging career paths.
+104.&nbsp; Resolving disputes peacefully is not just about resolving a dispute. It is actually
+causative, and is not really about elimination.
 
 {:start="105"}
-105.&nbsp; I think there are new opportunities, just as perhaps you shut the door in some areas, but it also opens up fresh ones.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, we have increasingly heard of a job role called the Legal Engineer or Legal Technologist.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you pick up any Classifieds today, you will see a couple of advertisements for this role. It envisages functions such as developing and implementing systems to navigate legal processes and law firm operations.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is not the skills set that a law degree coming out of any law school will naturally equip you with.</p>
+105.&nbsp; It is not just resolving the problem. It is the steps all of you take one by one, to build a
+more positive, kinder, and understanding Singapore.
 
 {:start="106"}
-106.&nbsp;&nbsp; At a broader level, we also need stakeholders in the legal ecosystem to adapt to evolving needs.
+106.&nbsp;&nbsp; So I wish all of you a very enjoyable evening, celebrate this big anniversary like never
+before. Let your hair down.
 
 {:start="107"}
-107.&nbsp;&nbsp; I have observed leading universities increasingly offer joint programmes for law and computer science. Globally, we have seen universities such as Stanford, Harvard and MIT. And in Singapore, we have the SMU Centre for Computation Law and NUS Centre for Technology, Robotics, Artificial Intelligence and the Law, or TRAIL for short.
-
-{:start="108"}
-108.&nbsp;&nbsp; This is a trend that will continue, at this same pace. It represents a growing recognition that our knowledge of the law needs to be paired with functional competencies to adapt effectively to changes in technology.
-
-{:start="109"}
-109.&nbsp;&nbsp; As an industry, we also support capability-building by creating key platforms to facilitate connections and discuss key issues that impact different parts of the ecosystem.
-
-{:start="110"}
-110.&nbsp;&nbsp; We just concluded the Singapore Convention Week earlier this month, where experts from around the world came together on a common platform with a lot of knowledge and leadership, sharing information on the newest iterations and developments in dispute resolution, and how it could adapt to the digital economy.
-
-{:start="111"}
-111.&nbsp;&nbsp; TechLaw.Fest is also one such event that draws together law firms and legal tech players, as well as academics and researchers, and even those who exist outside of the legal industry, to come together to brainstorm, network, socialise, think of ideas, collaborate.
-
-{:start="112"}
-112.&nbsp;&nbsp; I think this is one key purpose of the TechLaw Fest – it is to bring people together. When you look at the spaces outside, there are lots of common spaces for you to sit down, brainstorm and come up with collaborations.
-
-{:start="113"}
-113.&nbsp;&nbsp; These are all crucial opportunities and critical networking platforms for professionals in the legal sector to grow our knowledge and competencies in the intersection of law and technology.
-
-Social interaction and Online Harms
-
-{:start="114"}
-114.&nbsp;&nbsp; Finally, before I close off, I would like to say a few things about technology’s impact on social interaction, one of the points that Judge touched on as well.
-
-{:start="115"}
-115.&nbsp;&nbsp; It is not just lawyers who have embraced the use of technology. Technology, especially internet technology, has become as I said earlier an integral part of our daily life in Singapore.
-
-{:start="116"}
-116.&nbsp;&nbsp; To give you some statistics, which when I went to check and research, I found quite staggering. As of last year:
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There were almost 13 million broadband internet subscriptions in Singapore, that’s more than double our population.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There were more than 9.5 million subscriptions to 3G, 4G or 5G mobile services, which means that taken together, this is an internet or mobile penetration rate of almost 170% of our population.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a consequence, 99% of our households have access to the internet.</p>
-
-<p style="margin-left: 40px">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The exception, the 1%, when we took a deeper dive, is in households comprising only seniors above the age of 60. Even for these households, 93% have access to the internet.</p>
-
-<p style="margin-left: 40px">e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So we are very much internet-savvy or at least internet-connected as a country.</p>
-
-{:start="117"}
-117.&nbsp;&nbsp; Singaporeans of all ages and backgrounds use the internet to seek knowledge and express themselves. We know all this when we look at social media. The internet has become indispensable for almost every sphere of life. It is not just work, play or social, but also professional and private.
-
-{:start="118"}
-118.&nbsp;&nbsp; Yet at the same time, the internet also presents us new ways in which people might cause harm to one another.
-
-{:start="119"}
-119.&nbsp;&nbsp; Study after study have shown just how prevalent online harms have become, not just in Singapore, but also around the world, especially affecting and afflicting for the young.
-
-{:start="120"}
-120.&nbsp;&nbsp; A 2021 sentiment poll by the National Youth Council in Singapore showed that 67% of younger persons, aged 16 to 34, have experienced an online harm. These include being insulted online or being subjected to repeated unwanted and abusive contact online.
-
-{:start="121"}
-121.&nbsp;&nbsp; A 2022 survey by Sunlight Alliance for Action in Singapore showed that 47% of respondents had personally experienced one or more types of online harms. Younger persons aged 15 to 35 formed the majority of these victims.
-
-{:start="122"}
-122.&nbsp;&nbsp; So in our view, there is a digital safety gap in Singapore that needs to be addressed. And I think it needs to be addressed urgently.
-
-{:start="123"}
-123.&nbsp;&nbsp; Singapore at this point in time is still, at least based on rankings, the safest country in the world in Gallup’s Law and Order Index of 2022.
-
-{:start="124"}
-124.&nbsp;&nbsp; But we are also placed among the top five countries where people are most likely to experience online risks, in Microsoft’s Global Safety Survey in 2023.
-
-{:start="125"}
-125.&nbsp;&nbsp; So, when you look at Gallup, safest country in the world but when you look at Microsoft Global Safety study on online risks, we are one of the top five countries where you are likely to experience online harm or online risk. So there is a gap that we need to address.
-
-{:start="126"}
-126.&nbsp;&nbsp; While the 2022 survey by Sunlight Alliance for Action showed that 92% of respondents felt safe walking alone at night in Singapore, only 66% of respondents reported feeling safe from online harm. Again, another gap that we have to address.
-
-{:start="127"}
-127.&nbsp;&nbsp; We have to recognise, as a government, as a country, that what we have grown quite accustomed to and used to, we can have our women, children walk home late at night in the streets safe, unlike many other countries but we must also recognise that harm to society can come in other forms.
-
-{:start="128"}
-128.&nbsp;&nbsp; Given our mobile capability in Singapore, I think we know where the likely trajectory is going to take us to, if we don’t do something about this.
-
-{:start="129"}
-129.&nbsp;&nbsp; The features of online harms have to be properly understood, as these can cause damage of different nature and degree from offline harm.
-
-{:start="130"}
-130.&nbsp;&nbsp; For instance, technology enables the viral, non-consensual dissemination of intimate images, causing harm at a speed and scale unprecedented in the physical world.
-
-{:start="131"}
-131.&nbsp;&nbsp; An egregious local example was the SG Nasi Lemak Telegram chat group, I think you might have read about this in the press, which had more than 44,000 members sharing obscene videos and pictures of women completely without their consent.
-
-{:start="132"}
-132.&nbsp;&nbsp; It is completely unacceptable but these are the things that have traction and have leaks on the internet. We have to do something about this.
-
-{:start="133"}
-133.&nbsp;&nbsp; Technology also enables new forms of harm that would not be possible offline. Deep fake technology that has been abused to create non-consensual pornography of women, with one study estimating that 90% of deepfakes circulating online involves such material.
-
-{:start="134"}
-134.&nbsp;&nbsp; Similarly, internet technology makes impersonation a simple matter of cut-and-paste. It becomes very real and very believable as well.
-
-{:start="135"}
-135.&nbsp;&nbsp; One perpetrator impersonated a former colleague for two years, simply by creating a social media account using her name and photographs. He used the online account to send sexual messages to the victim’s name, causing her much distress and a lot of sleepless nights, and you can imagine that it sounds somewhat simple, maybe even trivial, but if you are the victim of this, subject to this torment, it is not a laughing matter.
-
-{:start="136"}
-136.&nbsp;&nbsp; The mechanisms which encourage and enable online harms also have to be properly understood, as these can differ from offline harms.
-
-{:start="137"}
-137.&nbsp;&nbsp; For instance, internet technology allows perpetrators to act under a cloak of anonymity, and that is one of the serious problems.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you are under a cloak of anonymity, you behave in a way which you will not do when you’re offline and in person.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This emboldens them to bully, to denigrate and to spread hate. They feel invisible and sometimes as a result of that, invincible.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social norms of civility and respect that would be observed offline, are not fully replicated in the online space.</p>
-
-{:start="138"}
-138.&nbsp;&nbsp; Furthermore, offline harms typically just involve a perpetrator and a victim, online harms often involve an important third party, which is the internet platform, and the proliferation of information on that internet platform.
-
-{:start="139"}
-139.&nbsp;&nbsp; In the context of online harms, these platforms enable perpetrators, a new way, a very efficient way I might add, to reach their victims.
-
-{:start="140"}
-140.&nbsp;&nbsp; How these platforms have been designed, and the algorithms which determine what their users see, have been found to contribute to the prevalence of online harms. You all know that these platforms do use AI, very advanced AI and algorithms to chart and plan what you expect to see on your social media feeds.
-
-{:start="141"}
-141.&nbsp;&nbsp; The use of online harms is currently a very weighty issue, one that is being debated, talked about on many global platforms with a lot of traction.
-
-{:start="142"}
-142.&nbsp;&nbsp; Countries around the world have acted to address online harms, and this includes Australia, Germany, the UK and the EU, in various degrees and at varying stages of maturity.
-
-{:start="143"}
-143.&nbsp;&nbsp; This indicates a recognition amongst governments around the world that online harms are indeed a pressing problem, and they must be addressed.
-
-{:start="144"}
-144.&nbsp;&nbsp; Singapore will be no exception. We continue to review our laws and keep pace with the phenomenon of online harms. We amended the Protection from Harassment Act in 2019, couple of years ago, as well as the Broadcasting Act last year. We passed the Online Criminal Harms Act this year.
-
-{:start="145"}
-145.&nbsp;&nbsp; But understanding and addressing online harms is really a continuous process, just as we continue to deal with an evolving technology, it is also something that we must keep pace with very tightly.
-
-{:start="146"}
-146.&nbsp;&nbsp; As technology constantly progresses, we must be vigilant and in fact, like the theme of this year’s TechLaw Fest says, we must be confident of knowing this is what’s next, so that we can stay one step ahead of the proliferators of these harms. &nbsp;
-
-{:start="147"}
-147.&nbsp;&nbsp; To that end, and here I make a small plug, we are organising a symposium next week, on online harms with SMU (25 to 27 September).
-
-{:start="148"}
-148.&nbsp;&nbsp; This Symposium will bring together the world’s leading experts in this field, to come and share their knowledge, talk to us on an open platform, identity the gaps in existing levers that we need to address online harms, and to really kickstart and catalyse the discussion on what the solutions of dealing with these harms might look like.
-
-{:start="149"}
-149.&nbsp;&nbsp; I would encourage everyone in this audience to maybe put a placeholder in your calendar to see if you are able to attend this.
-
-{:start="150"}
-150.&nbsp;&nbsp; It has very encouraging take-up. I think this also reflects the interest that the public has in this area.
-
-{:start="151"}
-151.&nbsp;&nbsp; I am very sure that this symposium will give us a lot of credible information, and a lot of suggestions, ideas as to how to grapple with, deal with, and move quickly against online harms. &nbsp;
-
-**Conclusion**
-
-{:start="152"}
-152.&nbsp;&nbsp; So let me summarise and pull the different facts together in just one minute.
-
-{:start="153"}
-153.&nbsp;&nbsp; As we embark on this year’s TechLaw.Fest and look at the topics for discussions here, one thing that will strike us is how novel it is, even though we have had one online session last year, 14 months ago, how burgeoning, how developing, how quickly evolving these areas are.&nbsp; But we will also know that come next year, this all may well be out of date, or at least, old-fashioned. &nbsp;
-
-{:start="154"}
-154.&nbsp;&nbsp; We can all look forward to growing debates and also sharing thought leadership and literature on how we should and need to equip ourselves to respond to these changes.
-
-{:start="155"}
-155.&nbsp;&nbsp; Some, on one end of the spectrum might call for more stringent regulation, tighter, as compared to previously.
-
-{:start="156"}
-156.&nbsp;&nbsp; When there were cryptocurrency crashes, I am sure we will be discussing this, and Bitcoin crashes – can the government do more to protect the consumer?
-
-{:start="157"}
-157.&nbsp;&nbsp; You can look at that but there is always a balance because when you do more of that, you regulate more, you keep a tighter control, innovation will be stifled.&nbsp; Capital may not flow to come in to develop, to innovate. So we got to strike a right balance on how we do this.
-
-{:start="158"}
-158.&nbsp;&nbsp; Some, on the other hand, prefer a more facilitative approach. Can we do more, can we have more sandboxes? Can we do a bit more experimentation to learn a bit more about the industry before we decide in what direction we want to go.
-
-{:start="159"}
-159.&nbsp;&nbsp; I think the answer lies somewhere in between, that we have got to strike a balance as a government, as a regulator to protect the industry, the consumers but at the same time, very facilitative of innovation developments and attracting investments into Singapore that help us to move the needle on the evolving technology space.
-
-{:start="160"}
-160.&nbsp;&nbsp; I am sure all of these will be topics that you will be discussing and canvassing, not just in formal sessions like this, but I encourage you to also exchange ideas in the informal sessions, over lunch, over coffee, share ideas and perhaps most importantly, build collaboration and networks because ultimately, you cannot be doing this alone and that’s why this is not a Tech Fest or a Law Fest but a TechLaw.Fest.
-
-{:start="161"}
-161.&nbsp;&nbsp; Thank you very much.
+107.&nbsp;&nbsp; Enjoy the evening, and thank you very much.
 
 <p></p><p class="right-side-updated">Last updated on 05 October 2023</p>
