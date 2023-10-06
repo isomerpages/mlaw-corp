@@ -325,51 +325,52 @@ significant.
 55.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why do I say that? Why did we develop this thinking?
 
 {:start="56"}
-56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The use of this has really become very pervasive and will only grow.
+56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In many cases, mediation can only be successful if both parties are prepared to come
+forward. It takes two hands.
 
 {:start="57"}
-57.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you just pick up today's Straits Times, for example, there is a full page on generative AI. Two points that jumped out at me.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40% of Singaporeans now use generative AI in their day-to-day work.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the other point that struck me on the same page in Straits Times today, was Oracle.</p>
+57.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So if we have two neighbours and one refuses to go into mediation, it is very difficult to
+find an amicable solution.
 
 {:start="58"}
-58.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oracle is a very established customer solution using computers, using technology.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A firm that has been well-placed, well established, they have now said and committed that they will not do any more coding themselves.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They will just use AI generated codes moving forward.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They said the aim was to make it more efficient, and they went on to say that they measure their efficiency by the number of clicks it takes for you to get a solution.</p>
-
-<p style="margin-left: 40px">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So it moved from twelve to ten to seven clicks. But they say that with generative AI, we move from seven to zero clicks. That is going to be a game changer.</p>
-
-<p style="margin-left: 40px">e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that Oracle, well-established, long history, big customer base, has decided that it will move into a system which will use generative AI to auto generate their codes, I think tells us something about the future of generative AI adoption.</p>
+58.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next step would be to file a claim, either at the CDRT or in the court. That
+becomes adversarial, and acrimonious. Even if you find a solution by having an order
+from the court, it leaves a sour aftertaste.
 
 {:start="59"}
-59.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However, as the applications of AI and smart contracts proliferate, they also raised novel issues which the legal professionals, our academics, have to grapple with – jurisdiction, conflict of law, liability, and many will ask – will they disintermediate or replace lawyers?
+59.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So we decided to look at the whole framework and the success of mediation. Quite
+frankly, we took the view also with the quality of the mediators that we have at our
+disposal, that was growing.
 
 {:start="60"}
-60.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Just as it has become pervasive, very commonplace, there are also questions on how we can have the law keep up with the use of AI and spark technology.
+60.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We felt that it was time for us to mandate mediation, to require parties to go to
+mediation compulsorily. If you do not, then there will be certain consequences, like for
+example, you cannot proceed with the claim to the court.
 
 {:start="61"}
-61.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications of AI and smart contracts, as they proliferate, they also raise global legal issues which legal professionals, academics, regulators have to grapple with; questions of jurisdiction, conflict of law and liability.
+61.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think that is fair. Because in our society, especially for neighbour disputes, we want to
+try mediation first. If you do not come forward to try an amicable solution, and the court
+rules will not allow you to file a claim at the CDRT.
 
 {:start="62"}
-62.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I was in school, conflicts of law was already difficult then, when we had not much technology.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But you imagine if today in Singapore, you use a US-based generative AI tool or smart contract provider to make a contract between two parties, one in Asia, one in Europe, for delivery in Africa.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So you can imagine the issues that will arise in usual jurisdictional conflicts of laws, and the types of challenges.</p>
-
-**Impact of Advancements in Technology**
+62.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This gives the mediation process that much more standing in the teeth, to invite parties
+to go through mandatory mediation.
 
 {:start="63"}
-63.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So for the next part of my remarks, I thought I will share some thoughts on how advancements in technology will likely impact the legal industry. I say likely impact, because I know with each change, it is so quick, it will evolve so quickly and in some ways, so much more exponentially.
+63.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The combination of these efforts, I think, will be a game changer when we eventually
+implement them.
 
 {:start="64"}
-64.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will have to spend some time really looking at how we can look at the entire framework, not stifle innovation and development, because that is important. But at the same time, have a fair degree of regulation, so that the industry and consumers are protected.
+64.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What we did was, we had a very broad public consultation exercise because we
+wanted to get the views of not just the mediators, but also the different types of
+neighbours who encountered different types of problems.
+
+a. We also sought the views of the frontline public agency officers – those from
+NEA who look after noise pollution, those from HDB and the town councils who
+look after neighbour disputes, in the close quarters of the HDB precincts.
+
+b. And also the users – the different residents who had encountered problems in
+the past.
 
 {:start="65"}
 65.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is really a difficult challenge in many jurisdictions.
