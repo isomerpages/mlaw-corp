@@ -319,16 +319,10 @@ a look. I am sure you will enjoy it.
 significant.
 
 {:start="54"}
-54.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industries like insurance and logistics have started using them. They reduce or eliminate intermediaries such as brokers, agents and notaries.
+54.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Earlier this year, we announced that one of the key enhancements under the inter-agency CDMF is to mandate mediation in certain categories of cases.
 
 {:start="55"}
-55.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One collaboration in this area is that between SMU, AXA, and Codex of Stanford University.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These three parties examined how legal domain-specific programming language can be harnessed to build a set of smart insurance contracts for AXA’s use.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The aim is to address the issues which we all face, I am sure, from time to time, of slow or inaccurate payouts, that is largely due to the reliance on human third parties or central operators to sift through the contracts, look at the facts of the case, and decide whether the exclusion clauses apply, and whether the facts apply to the particular insurance claim.</p>
-
-<p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I understand that substantive engineering work is already underway to develop this model so that claims can be processed much faster.</p>
+55.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why do I say that? Why did we develop this thinking?
 
 {:start="56"}
 56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The use of this has really become very pervasive and will only grow.
