@@ -258,45 +258,65 @@ mediation venues all around the island, I would say that mediation today has bec
 far more accessible than it ever has been, and we will aim to enhance that in the near
 future.
 
+<b><u>Increasing Awareness of Mediation</u></b>
+
 {:start="42"}
-42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So let me turn now to speak briefly about these cutting-edge technologies, using generative AI and smart contract as examples of how they automate knowledge work.
+42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attending mediation can only take place when people know about mediation, which is
+the challenge.
 
 {:start="43"}
-43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI actually has been in the marketplace for some time now, if we just look at the tools that we are perhaps so used to already.
+43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can build many other centres; you can have many other portals available by zoom
+or in person. But actually one of the key fights we face is to bring awareness of
+mediation to the people who need mediation.
 
 {:start="44"}
-44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, I used Google maps on the way here, It was supposed to tell me the quickest way to come here, but I got into several traffic jams.
+44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The CMC has been working very hard on this part, to spread the awareness of
+mediation into the everyday life of people.
 
 {:start="45"}
-45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facial recognition is increasingly very commonplace, and how Amazon suggests more things for us to buy, are all examples of AI in our daily lives being very pervasive.
+45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quite frankly, most of the time, when you are going through your daily life in the
+workplace, in school, and you do not have a dispute, you do not need to know about
+mediation or the CMC.
 
 {:start="46"}
-46.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a new word, more fashionable today, and maybe you term it as generative AI. It is a new feature today, but it has been here for some time.
+46.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But on the occasion when it happens, you need to know where to look, how to find
+resources, and how to get help to resolve them.
 
 {:start="47"}
-47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But generative AI, of which ChatGPT was perhaps the first iteration, really represents a paradigm shift.
+47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What the CMC has been doing is to try to find places in everyday life where you go to,
+constantly all the time. They engaged residents at the lift lobbies, and tried it in nine
+different towns, through informative infographics – using cartoons, sometimes using a
+little bit of humour, to convey messages in a soft way.
 
 {:start="48"}
-48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It took us by surprise because of how fast it matured and how it allowed direct user interactions to generate multimodal content – whether it is text, images, videos, codes, or media.
+48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also use social media to help increase public awareness of how common
+neighbour disputes can be resolved using mediation – in a more creative and light-
+hearted manner, such as through hand drawn comic strips and light-hearted videos on
+platforms like Facebook, Instagram, LinkedIn and X (formerly known as Twitter).
 
 {:start="49"}
-49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14 months ago, at the last TechLaw.Fest, we were not confronted with these issues, with this kind of development, or certainly at the pace of this development.
+49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So you cannot run away – you see it at the lift lobby, you see it online, on any of the
+social media platforms.
 
 {:start="50"}
-50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the legal sphere, Allen &amp; Overy, has started using Harvey, a generative AI tool, which can answer legal questions, summarise information and prepare and analyse document drafts. Sounds like what a second\-, third\-, fourth\-, fifth\-year lawyer might be doing.
+50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC has been working very hard to make sure that this becomes accessible, and we
+raise awareness through all of these things.
 
 {:start="51"}
-51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Singapore, Intelllex, a homegrown legaltech firm, has rolled out Scott, a generative AI-based litigation research assistant.
-
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scott can answer a lawyer’s legal research queries in natural language – so remember I said, it speaks to you nicely, in natural language and not unnatural Boolean language, or Boolean search parameters, recommend case authorities with relevant annotations, and cover as many legal principles as possible before zooming into the specifics.</p>
-
-<p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am told that to date, Scott already has around 1,000 users globally, even though it was only launched a couple of months ago in June this year.</p>
+51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The CMC has also ventured further in reaching out to different demographic groups,
+collaborating with online content platforms like SGAG to deliver a TikTok video to
+capture the attention of our younger audience.
 
 {:start="52"}
-52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scott and Harvey, as I said, we have got to make the name sound like your everyday associates, so they sound very approachable, friendly, and interactable.
+52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nowadays, you need to cater your message to different demographics on different
+platforms. But do not worry, even those who are senior can still go to TikTok and have
+a look. I am sure you will enjoy it.
+
+<b><u>Update on the Progress of CDMF</u></b>
 
 {:start="53"}
-53.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smart contracts are programs on the other side of the equation, that can automate the actions required in an agreement. Once completed, the transactions are trackable.
+53.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As I reflect on the progress of the CMC, I think the past couple of years has been very
+significant.
 
 {:start="54"}
 54.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industries like insurance and logistics have started using them. They reduce or eliminate intermediaries such as brokers, agents and notaries.
