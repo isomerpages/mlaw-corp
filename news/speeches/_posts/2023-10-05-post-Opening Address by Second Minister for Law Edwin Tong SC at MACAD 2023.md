@@ -142,19 +142,48 @@ slow.
 e. But that did not deter our mediators.
 
 {:start="23"}
-23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I remember that it was around the late 1990s or early 2000s that we had some technology in the courts. But this technology was mainly used as a bookshelf by many lawyers – we would come in, fold our screens down, and put our files on it. That was the way in which we did not embrace technology.
+23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, I am glad to say that we have improved on at least that part of the process, and
+made significant improvements by leaps and bounds.
+
+a. Residents can now initiate mediation, not by calling up or queueing up, but by
+going online with a few clicks.
+
+b. Applications can be submitted at any time of the day or night, at their
+convenience.
+
+c. Pre-mediation administration, like making payment, filling up forms, can all be
+done online very conveniently, even before the start of a mediation session.
+
+d. Even the settlement agreements that you reach after mediation can be signed
+digitally.
+
+e. In other words, you can do everything at the convenience of where you are,
+aided by technology.
+
+f. Case notes can be submitted through the Mediators Portal, helping the
+mediators as well.
 
 {:start="24"}
-24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also in the 2000s, we had a lot of development tools, software and “back-office technology”, such as practice management system for accounting, billing and time-keeping. These allowed for a lot more efficient back-end production. I think many of you would be familiar with these technologies by now.
+24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As the CMC journey unfolded over the years, we expanded our footprint from Marine
+Parade to Ang Mo Kio, Woodlands, the former Subordinate Courts and back to
+Maxwell. Each of these moves symbolised our commitment to be very much at the
+focal touchpoints in our community.
 
 {:start="25"}
-25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since the late 2000s especially in the last 5-10 years before COVID-19, we started seeing a lot more “front-office technology” developing. These tools support practitioners in executing the front-end legal tasks. These include matter management and collaboration tools, knowledge management solutions, document assembly and review software, and also, more recently, e-discovery software.
+25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2015, another chapter opened with the establishment of the Community Disputes
+Resolution Tribunals (CDRT). This broadened our horizons to encompass Court-
+referred mandatory mediation in neighbour disputes.
 
 {:start="26"}
-26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One example is the Legal Technology Platform (LTP) which the Ministry of Law and our technology partner, Lupl, launched in July 2022 for the Singapore legal sector. It is really trying to democratise technology so that it is made accessible and available to all firms for a very low fee, even if you are a small firm with very low headcount, and therefore lower economies of scale – but it still remains accessible.
+26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some among you here underwent comprehensive training to become Tribunal
+Mediators, guiding parties towards Consent Orders, transforming mediations into Court
+recognised solutions.
 
 {:start="27"}
-27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The idea was to really tech-up, as it were, so that our legal industry will be familiar and equipped with technology. The LTP allows lawyers to track legal matters, manage and share legal documents and communicate with internal and external teams amongst other features.
+27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, of course, as we do this, we know that it is really as far as we can help it, as the
+port of call. We try mediation first, and thanks to the mediators for their assistance and
+perseverance, and lending a kind, sympathetic listening ear, it has made all the
+difference.
 
 **Appetite for legaltech**
 
