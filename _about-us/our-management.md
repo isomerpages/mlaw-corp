@@ -3,6 +3,7 @@ title: Our Management
 permalink: /about-us/our-management/
 breadcrumb: Our Management
 ---
+
 <style>
   .img-gallery {
   width: 200px;
@@ -51,6 +52,12 @@ Our Management
     <img src="/images/Mr_Calvin_Phua.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
 </div>
   <p><strong>Mr Calvin Phua</strong>
-  <br>Deputy Secretary</p>
+  <br>Deputy Secretary (Policy)</p>
 
-<p class="right-side-updated">Last updated on 3 Apr 2023</p>
+<div class="img-gallery">
+    <img src="/images/charlene_chang.jpg" title="Mr Calvin Phua" alt="Mr Calvin Phua">
+</div>
+  <p><strong>Ms Charlene Chang</strong>
+  <br>Deputy Secretary (Development)</p>
+
+<p class="right-side-updated"><small>Last updated on 9 Oct 2023</small></p>

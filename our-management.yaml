@@ -1,0 +1,23 @@
+# Political Office Holders
+political-office-holders:
+  - name: Mr K Shanmugam
+    title: Minister for Home Affairs and Minister for Law
+    image-url: /images/1510806764644.jpg
+  - name: Mr Edwin Tong
+    title: Minister for Culture, Community and Youth and Second Minister for Law
+    image-url: /images/1532069362285.jpg
+  - name: Ms Rahayu Mahzam
+    title: Senior Parliamentary Secretary, Ministry of Health and Ministry of Law
+    image-url: /images/Ms_Rahayu_Mahzam.jpg
+      
+# Senior Management
+senior-management:
+  - name: Mr Luke Goh
+    title: Permanent Secretary
+    image-url: /images/ps luke goh.jpg
+  - name: Mr Calvin Phua
+    title: Deputy Secretary (Policy)
+    image-url: /images/Mr_Calvin_Phua.jpg
+  - name: Ms Charlene CHANG
+    title: Deputy Secretary Development
+    image-url: /images/charlene_chang.jpg
