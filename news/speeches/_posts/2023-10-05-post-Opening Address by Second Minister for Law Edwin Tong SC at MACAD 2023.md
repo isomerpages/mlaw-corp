@@ -1,5 +1,5 @@
 ---
-title: Opening Address by Second Minister for Law Edwin Tong SC at MACAD 2023
+title: Opening Address by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at the Mediators' Appointment Ceremony and Appreciation Dinner 2023
 permalink: /news/speeches/opening-address-2m-edwin-tong-macad2023/
 date: 2023-10-05
 layout: post
