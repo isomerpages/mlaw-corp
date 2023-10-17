@@ -26,11 +26,11 @@ Useful Links
 
 * [Registry of Pawnbrokers](https://rop.mlaw.gov.sg/)
 
-* [Singapore Land Authority](https://www1.sla.gov.sg/)
+* [Singapore Land Authority](https://www.sla.gov.sg/)
 
 * [Anti-Money Laundering/ Countering the Financing of Terrorism Division](https://acd.mlaw.gov.sg/)
 
-* [Licensing & Regulation of Insolvency Practitioners Division](https://lripd.mlaw.gov.sg)
+* [Licensing &amp; Regulation of Insolvency Practitioners Division](https://lripd.mlaw.gov.sg)
 
 
 **Other Agencies**
@@ -67,6 +67,8 @@ Useful Links
 
 * [Singapore Academy of Law](https://www.sal.org.sg/#)
 
+* [Singapore Courts](https://www.judiciary.gov.sg/){:target="_blank"}
+
 * [Singapore International Arbitration Centre](http://www.siac.org.sg/)
 
 * [Singapore International Commercial Court](https://www.sicc.gov.sg/)
@@ -77,11 +79,7 @@ Useful Links
 
 * [Singapore Mediation Centre](http://www.mediation.com.sg/)
 
-* [State Courts of Singapore](https://www.statecourts.gov.sg/){:target="_blank"}
-
 * [Strata Titles Board](https://www.stratatb.gov.sg/)
-
-* [Supreme Court of Singapore](https://www.supremecourt.gov.sg/)
 
 * [Urban Redevelopment Authority](https://www.ura.gov.sg/Corporate/)
  
@@ -90,4 +88,4 @@ Useful Links
 
 * [Taking evidence for civil proceedings in Singapore from witnesses located overseas](https://www.singaporelawwatch.sg/About-Singapore-Law/Civil-Practice-ADR/requirements-of-foreign-jurisdictions-on-the-taking-of-evidence-given-voluntarily-by-way-of-live-video-link-from-a-witness-located-in-their-jurisdiction-in-civil-proceedings-before-singapore-courts/)
 
-<p class="right-side-updated">Last updated on 01 Dec 2022</p>
+<p class="right-side-updated">Last updated on 17 Oct 2023</p>
