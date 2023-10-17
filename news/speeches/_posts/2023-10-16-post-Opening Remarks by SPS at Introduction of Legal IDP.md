@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by SPS at Introduction of Legal IDP
+title: Opening Remarks at the Introduction of the Legal Industry Digital Plan and LegalTech Adoption Guide by Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Mdm Rahayu Mahzam
 permalink: /news/speeches/opening-remarks-sps-introduction-legal-idp/
 date: 2023-10-16
 layout: post
