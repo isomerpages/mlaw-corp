@@ -1,12 +1,14 @@
 ---
-title: Opening Remarks by Minister for Culture, Community and Youth, and Second Minister for Law Mr Edwin Tong SC, at Singapore-China International Commercial Dispute Resolution Conference 2023
+title: Opening Remarks by Minister for Culture, Community and Youth, and Second
+  Minister for Law Mr Edwin Tong SC, at Singapore-China International Commercial
+  Dispute Resolution Conference 2023
 permalink: /news/speeches/permalink/2m-speech-singapore-china-icdrc-2023/
 date: 2023-10-21
 layout: post
 description: ""
 image: ""
 ---
-21 Oct 2023 Posted in [[Speeches](/news/speeches)]
+20 Oct 2023 Posted in [[Speeches](/news/speeches)]
 
 Dr Yu Jianlong, Vice Chairman of the China Council for the Promotion of International Trade (CCPIT)
 
