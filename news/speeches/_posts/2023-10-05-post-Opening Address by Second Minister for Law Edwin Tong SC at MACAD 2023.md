@@ -22,7 +22,7 @@ Ladies and gentlemen
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good evening, everyone.
 
 {:start="2"}
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It It took me a while to make my way from the foyer into the ballroom. Even as I was coming in, I saw people going out to take photographs, share happy moments, catch up with old friends, and see each other put on funny costumes for the photographs.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It took me a while to make my way from the foyer into the ballroom. Even as I was coming in, I saw people going out to take photographs, share happy moments, catch up with old friends, and see each other put on funny costumes for the photographs.
 
 {:start="3"}
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am so glad to see that, because this evening is all about celebrating all of you – celebrating your volunteerism, your ‘never say die’ attitude, your ability to come forward and serve year after year, and make the Community Mediation Centre (CMC) 25 years this year.
@@ -73,7 +73,7 @@ promoted in Singapore. The intent was very clear – to provide a less acrimonio
 17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Between 1999 and 2001, three other CMCs were established at other locations within our neighbourhoods. It was important that we do it in the neighbourhood because that is precisely where the conflicts take place.
 
 {:start="18"}
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IIn fact, today, as we look at revising and improving on the CMCs, through our Community Dispute Management Framework (CDMF), this is one of the core principles of trying to maintain the ability to resolve disputes.
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact, today, as we look at revising and improving on the CMCs, through our Community Dispute Management Framework (CDMF), this is one of the core principles of trying to maintain the ability to resolve disputes.
 
 {:start="19"}
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are having a dispute with your neighbour who lives three feet from you, it does not make sense for both of you to get onto the bus, travel for 45 minutes to resolve the dispute somewhere else farther. So we wanted to make sure that it is accessible, convenient, and somewhere which you can actually associate with, in the neighbourhood.
