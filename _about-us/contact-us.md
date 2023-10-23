@@ -3,6 +3,15 @@ title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
+#### **Urgent Maintenance Notice**
+
+Minlaw will be conducting urgent maintenance activities on our hotline on 23 Oct 2023, from 0800 hrs to 2359hrs.  
+
+During this period, the voicemail service of our hotline will be unavailable.
+
+Please use our online enquiry form to submit your queries.  We apologise for any inconvenience caused.
+
+
 <!--#### **Urgent Maintenance Notice**
 Some of our e-services are unavailable till 12 June 2023 0900hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 <br><br>The following e-services are still accessible via the links provided: 
