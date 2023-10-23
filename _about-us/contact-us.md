@@ -3,13 +3,13 @@ title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 ---
-#### **Urgent Maintenance Notice**
+<!--#### **Urgent Maintenance Notice**
 
 Minlaw will be conducting urgent maintenance activities on our hotline on 23 Oct 2023, from 0800 hrs to 2359hrs.  
 
 During this period, the voicemail service of our hotline will be unavailable.
 
-Please use our online enquiry form to submit your queries.  We apologise for any inconvenience caused.
+Please use our online enquiry form to submit your queries.  We apologise for any inconvenience caused.  -->
 
 
 <!--#### **Urgent Maintenance Notice**
