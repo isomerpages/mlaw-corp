@@ -3,14 +3,14 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-#### **Urgent Maintenance Notice**
+<!--#### **Urgent Maintenance Notice**
  
 
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023, 1600 hrs to 26 Oct 2023, 0800 hrs|
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023, 1600 hrs to 26 Oct 2023, 0800 hrs| -->
 
 
 #### **New Insolvency Office (IO) E-Services (new!)**
