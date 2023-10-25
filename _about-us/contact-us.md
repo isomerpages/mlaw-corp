@@ -53,7 +53,7 @@ The live chat will address enquiries on:
 * Registry of Moneylenders
 * Registry of Pawnbrokers
 
-Some of our e-services are unavailable till 25 October 2023 2359hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
+Our Online Enquiry e-services is unavailable till 25 October 2023 2359hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br>
 <br>
