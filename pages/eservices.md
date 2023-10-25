@@ -13,8 +13,10 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 
 #### **Maintenance Notices**
 
-
-Online Enquiry is under urgent maintenance and will be unavailable until 25 October 2023 2359hrs. 
+Urgent maintenance
+| E-Services | Maintenance Schedule |
+| -------- | -------- |  
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023 Wed, from now to 2359 hrs|
 
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
