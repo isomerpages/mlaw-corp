@@ -3,8 +3,6 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-
-
 #### **New Insolvency Office (IO) E-Services (new!)**
  
 
@@ -16,7 +14,7 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 #### **Maintenance Notices**
 
 
-
+Online Enquiry is under urgent maintenance and will be unavailable until 25 October 2023 2359hrs. 
 
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
