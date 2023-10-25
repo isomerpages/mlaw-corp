@@ -65,4 +65,4 @@ Please include your name, contact number, and, if you are representing an organi
 
 MinLaw and IPOS reserve the right to make public all or part of any written submission. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked.
 
-<p class="right-side-updated">Last updated on 29 November 2022</p>
+<p class="right-side-updated">Last updated on 25 October 2023</p>
