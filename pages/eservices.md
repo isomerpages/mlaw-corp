@@ -6,7 +6,7 @@ breadcrumb: E-Services
 <!--#### **Urgent Maintenance Notice**
  
 
-The following eServices are unavailable due to scheduled maintenance on the following dates:
+The following eServices are unavailable due to  maintenance on the following dates:
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
