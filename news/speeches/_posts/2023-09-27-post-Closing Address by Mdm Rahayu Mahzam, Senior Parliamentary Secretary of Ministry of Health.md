@@ -1,6 +1,6 @@
 ---
 title: Closing Address by Mdm Rahayu Mahzam, Senior Parliamentary Secretary of
-  Ministry of Health nd Ministry of Law, at the Online Harms Symposium 2023
+  Ministry of Health and Ministry of Law, at the Online Harms Symposium 2023
 permalink: /news/speeches/closing-address-by-mdm-rahayu-mahzam-at-online-harms-symposium-2023/
 date: 2023-09-27
 layout: post
