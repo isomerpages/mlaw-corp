@@ -3,14 +3,14 @@ title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
 ---
-#### **Urgent Maintenance Notice**
+<!--#### **Urgent Maintenance Notice**
  
 
-The following eServices are unavailable due to scheduled maintenance on the following dates:
+The following eServices are unavailable due to  maintenance on the following dates:
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023, 1600 hrs to 26 Oct 2023, 0800 hrs|
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023, 1600 hrs to 26 Oct 2023, 0800 hrs| -->
 
 
 #### **New Insolvency Office (IO) E-Services (new!)**
@@ -28,8 +28,8 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 25 Oct 2023, 1730 hrs to 26 Oct 2023 0800 hrs|
-| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | 25 Oct 2023, 1730 hrs to 26 Oct 2023 0800 hrs|
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu,  1800 hrs to 2359 hrs|
+| Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs|
 
 <br>
 We seek your understanding and apologise for any inconvenience caused.
