@@ -10,7 +10,7 @@ image: ""
 **Public Consultation on Draft Regulations for Collective Management Organisations**
 ---
 
-\[Update\]: MinLaw and IPOS conducted a public consultation on the draft Copyright (Collective Management Organisations) Regulations 2023 (“Regulations”) for the period of 7 November 2022 to 4 January 2023.&nbsp; A summary of the key changes&nbsp;made to the consultation draft of the Regulations (Annex A below) can be found [h[cmosummary](/files/news/public-consultations/2022/cmosummary.pdf)ere](/files/news/public-consultations/2022/cmosummary.pdf).
+\[Update\]: MinLaw and IPOS conducted a public consultation on the draft Copyright (Collective Management Organisations) Regulations 2023 (“Regulations”) for the period of 7 November 2022 to 4 January 2023.&nbsp; A summary of the key changes&nbsp;made to the consultation draft of the Regulations (Annex A below) can be found [here](/files/news/public-consultations/2022/cmosummary.pdf).
 
 **Consultation Period:**  
 7 November 2022 to 4 December 2022*
