@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister for Culture
+title: Keynote Address by Minister for Culture, Community and Youth, and Second Minister for Law Mr Edwin Tong SC, at 20th Anniversary Celebration of Rajah & Tann Shanghai Representative Office
 permalink: /news/speeches/2m-keynote-address-rajah-and-tann-shanghai-anniversary/
 date: 2023-10-24
 layout: post
