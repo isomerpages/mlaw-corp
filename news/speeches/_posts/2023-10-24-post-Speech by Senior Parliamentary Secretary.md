@@ -81,7 +81,7 @@ Ladies and gentlemen
 (d) For the students, you can contribute by bringing your fresh perspectives on mediation, like how you did in this CIIM publication.
 
 {:start="15"}
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All of us can play a role and personally for me it is really wonderful to see the evolution of mediation over time.
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All of us can play a role and personally for me, it is really wonderful to see the evolution of mediation over time.
 
 {:start="16"}
 16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I had to say yes to this invitation because Joel was my lecturer in school who taught me mediation. I think it’s amazing how at that time as a student I was very amazed at the functions of mediation and how I continued to take courses with you even after I graduated. And now to be able to see the effort that is being put in by the government and legal institutions to build this mechanism and offer it as a part of our slew of dispute resolution services in Singapore heartens me.
