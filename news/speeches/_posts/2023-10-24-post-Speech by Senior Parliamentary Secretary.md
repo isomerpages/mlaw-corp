@@ -1,5 +1,5 @@
 ---
-title: Speech by Senior Parliamentary Secretary
+title: Speech by Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Mdm Rahayu Mahzam, at the Launch of Volume 8 of the Contemporary Issues in Mediation
 permalink: /news/speeches/sps-speech-launch-of-volume-8-of-ciim/
 date: 2023-10-24
 layout: post
