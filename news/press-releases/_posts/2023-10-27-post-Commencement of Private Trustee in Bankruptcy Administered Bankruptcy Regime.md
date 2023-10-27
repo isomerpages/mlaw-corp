@@ -37,7 +37,7 @@ image: ""
 {:start="7"}
 7.&nbsp;&nbsp;&nbsp; For more information on the PTIB-administered regime and miscellaneous amendments, please visit the Insolvency Office website at <a target="new" href="https://go.gov.sg/bkcyfiling">https://go.gov.sg/bkcyfiling</a>.
 
-**MINISTRY OF LAW**<br>
+**MINISTRY OF LAW**
 <br>**27 OCTOBER 2023**
 
 
