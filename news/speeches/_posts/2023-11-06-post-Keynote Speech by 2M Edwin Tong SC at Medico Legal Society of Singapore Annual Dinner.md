@@ -63,11 +63,11 @@ Ladies and Gentlemen
 13. Speaking of lawyers and doctors, I chanced upon a cartoon that I thought best illustrated the relationship between lawyers and doctors. Take a moment and read it for a while. 
 
 {:start="14"}
-14. A: “Hey Tom, I just saw a patient who thought she had every condition known to medicine.”
-B: “Yeah, I’ve had a few of those before.”
-A: “I ended up ordering all kinds of unnecessary labs and imaging studies for her.”
-B: “What made you do that?”
-A: “She’s a LAWYER.”
+14. A: “Hey Tom, I just saw a patient who thought she had every condition known to medicine.”<p>
+B: “Yeah, I’ve had a few of those before.”</p><p>
+A: “I ended up ordering all kinds of unnecessary labs and imaging studies for her.”</p><p>
+B: “What made you do that?”</p><p>
+A: “She’s a LAWYER.”</p><p>
 B: “Yep. I’ve DEFINTELY had a few of those before.”
 
 {:start="15"}
@@ -241,4 +241,4 @@ B: “Yep. I’ve DEFINTELY had a few of those before.”
 68. Thank you very much once again for having me here, and for listening to me.
 
 
-<p></p><p class="right-side-updated">Last updated on 11 November 2023</p>
+</p><p></p><p class="right-side-updated">Last updated on 11 November 2023</p>
