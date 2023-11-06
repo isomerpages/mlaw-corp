@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-11 Nov 2023 Posted in [[Speeches](/news/speeches)]
+06 Nov 2023 Posted in [[Speeches](/news/speeches)]
 
-Dr Lai Siang Hui, President of the Medio-Legal Society of Singapore (MLSS)
+Dr Lai Siang Hui, President of the Medico-Legal Society of Singapore (MLSS)
 
 Dr Devanand Anantham, Vice-President of MLSS (Medical)
 
@@ -42,7 +42,7 @@ Ladies and Gentlemen
 6. I spent many years in practice, and of that period in practice, I spent many years in medico-legal practice.
 
 {:start="7"}
-7. Some of my early cases, when I started, were very memorable. I once acted for an obstetrics and gynaecology (O&amp;G) specialist. I remember that case very well, because it involved studying reams and reams of cardiotocography (CTG) scans. In fact, I became quite an expert on CTG scans, because I had to cross-examine an expert on them. So, when my wife was expecting and went into labour, I found myself scrutinising the CTG scans, to the annoyance of her doctor.
+7. Some of my early cases, when I started, were very memorable. I once acted for an obstetrics and gynaecology (O&G) specialist. I remember that case very well, because it involved studying reams and reams of cardiotocography (CTG) scans. In fact, I became quite an expert on CTG scans, because I had to cross-examine an expert on them. So, when my wife was expecting and went into labour, I found myself scrutinising the CTG scans, to the annoyance of her doctor.
 
 {:start="8"}
 8. I also saw many other cases in the areas of orthopaedics, coronary artery bypass grafting (CABG).
@@ -51,7 +51,7 @@ Ladies and Gentlemen
 9. There was one other memorable case. We had a laparoscopic donor nephrectomy, and it was a case on the hem-o-lok clips. We were wondering how to tell the judge what this case was all about. So, we decided to do a video of a procedure. We played it, and the judge was following very well, but her Justices’ Law Clerk, who was completely afraid of blood, looked faint initially, and then disappeared after five minutes. I was very happy to see that the judge was following, as we showed all the different clips, and the procedure. Eventually, we did succeed in that case.
 
 {:start="10"}
-10. I also saw a couple of Singapore Medical Council (SMC) cases, which were memorable, only because it lasted so long! Once we ended an SMC hearing 5am!
+10. I also saw a couple of Singapore Medical Council (SMC) cases, which were memorable, only because it lasted so long! Once we ended an SMC hearing at 5am!
 
 {:start="11"}
 11. I also spent some time with the Singapore Medical Association (SMA) and the Colleges, getting to know the doctors, and doing trainings for the doctors as well. The plans for MLSS that Edmund talked about – that is something that I am very familiar with. I support them fully, because I think those training sessions were really very useful.
@@ -68,7 +68,7 @@ B: “Yeah, I’ve had a few of those before.”<br>
 A: “I ended up ordering all kinds of unnecessary labs and imaging studies for her.”<br>
 B: “What made you do that?”<br>
 A: “She’s a LAWYER.”<br>
-B: “Yep. I’ve DEFINTELY had a few of those before.”
+B: “Yep. I’ve DEFINITELY had a few of those before.”
 
 {:start="15"}
 15. I certainly hope this does not reflect the relationship between the lawyers and doctors too much!
@@ -88,7 +88,7 @@ B: “Yep. I’ve DEFINTELY had a few of those before.”
 19. In the US for instance, you end up with huge amounts wasted because of the consequences. The estimates are roughly about US$50 billion to US$65 billion in wasted costs, because of defensive medicine.
 
 {:start="20"}
-20. Singapore is no different.  Not to the same scale, but there was a period of time when defensive medicine practice was on the rise. Anecdotally, and also when you look at the numbers, it seems to suggest that that is true.
+20. Singapore is no different. Not to the same scale, but there was a period of time when defensive medicine practice was on the rise. Anecdotally, and also when you look at the numbers, it seems to suggest that that is true.
 
 {:start="21"}
 21. I spent some years at the Ministry of Health (MOH) when I was first in government. I spent about two years in MOH, from 2018 to 2020.
@@ -106,10 +106,10 @@ B: “Yep. I’ve DEFINTELY had a few of those before.”
 25. We all know that we have an ageing population in Singapore. Those above 65 years old today represent about 1 in 5 in our population. By 2030, it will become 1 in 4. It is not only a rising number, but a sharply rising number. So, we can understand that healthcare costs will go up. 
 
 {:start="26"}
-26. But this survey was alarming for me, because the cause of the healthcare costs going up was not so much because of the ageing population, but because of the use of defensive medicine. Wasted costs, wasted treatments, and unnecessary prescriptions. We cannot let that seep into our system – a system that is founded based on trust and understanding.
+26. But this survey was alarming for me because the cause of the healthcare costs going up was not so much because of the ageing population, but because of the use of defensive medicine. Wasted costs, wasted treatments, and unnecessary prescriptions. We cannot let that seep into our system – a system that is founded based on trust and understanding.
 
 {:start="27"}
-27. In Japan, out-of-pocket medical expenses for seniors have recently increased from 10% to 20-30%. Japan is a little bit of a window into our own future, because they are like Singapore – they also have an ageing demographic profile. What they are experiencing today is what we might expect to see in 10, 20 years or so.
+27. In Japan, out-of-pocket medical expenses for seniors have recently increased from 10% to 20-30%. Japan is a little bit of a window into our own future because they are like Singapore – they also have an ageing demographic profile. What they are experiencing today is what we might expect to see in 10, 20 years or so.
 
 {:start="28"}
 28. So, one way of dealing with this, is to develop a system that has trust as the fundamental foundation of that relationship.
@@ -241,4 +241,4 @@ B: “Yep. I’ve DEFINTELY had a few of those before.”
 68. Thank you very much once again for having me here, and for listening to me.
 
 
-<p></p><p></p><p class="right-side-updated">Last updated on 11 November 2023</p>
+<p></p><p></p><p class="right-side-updated">Last updated on 06 November 2023</p>
