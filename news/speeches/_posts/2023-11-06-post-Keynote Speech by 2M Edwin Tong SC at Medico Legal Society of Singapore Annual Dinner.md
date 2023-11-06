@@ -1,13 +1,13 @@
 ---
 title: Keynote Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC at Medico-Legal Society of Singapore Annual Dinner
 permalink: /news/speeches/2m-keynote-speech-at-medico-legal-society-annual-dinner/
-date: 2023-11-06
+date: 2023-10-28
 layout: post
 description: ""
 image: ""
 variant: markdown
 ---
-06 Nov 2023 Posted in [[Speeches](/news/speeches)]
+28 Oct 2023 Posted in [[Speeches](/news/speeches)]
 
 Dr Lai Siang Hui, President of the Medico-Legal Society of Singapore (MLSS)
 
@@ -241,4 +241,4 @@ B: “Yep. I’ve DEFINITELY had a few of those before.”
 68. Thank you very much once again for having me here, and for listening to me.
 
 
-<p></p><p></p><p class="right-side-updated">Last updated on 06 November 2023</p>
+<p></p><p></p><p class="right-side-updated">Last updated on 28 October 2023</p>
