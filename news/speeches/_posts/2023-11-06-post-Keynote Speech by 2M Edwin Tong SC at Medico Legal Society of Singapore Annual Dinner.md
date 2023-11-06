@@ -1,7 +1,6 @@
 ---
-title: Keynote Speech by 2M Edwin Tong SC at Medico Legal Society of Singapore
-  Annual Dinner
-permalink: /news/speeches/keynote-speech-by-2m-edwin-tong-sc/
+title: Keynote Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC at Medico-Legal Society of Singapore Annual Dinner
+permalink: /news/speeches/2m-keynote-speech-at-medico-legal-society-annual-dinner/
 date: 2023-11-06
 layout: post
 description: ""
