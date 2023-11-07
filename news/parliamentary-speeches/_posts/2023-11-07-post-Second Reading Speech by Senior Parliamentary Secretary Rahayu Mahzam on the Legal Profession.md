@@ -1,7 +1,7 @@
 ---
 title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on
-  the Legal Profession
-permalink: /news/parliamentary-speeches/permalink/
+  the Legal Profession (Amendment) Bill 2023
+permalink: /news/parliamentary-speeches/2023-11-07-2r-speech-by-sps-rahayu-mahzam-legal-profession-amendment-bill
 date: 2023-11-07
 layout: post
 description: ""
