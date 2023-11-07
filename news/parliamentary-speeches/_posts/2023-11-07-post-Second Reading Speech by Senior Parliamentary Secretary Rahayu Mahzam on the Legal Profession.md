@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-07 Nov 2023 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)
+07 Nov 2023 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 Mr. Speaker,
 
@@ -20,15 +20,15 @@ Mr. Speaker,
 <br><br>
 (a) lift the overall standards of the professional training regime for lawyers, following the work of the Committee for the Professional Training of Lawyers (“<b>the Committee</b>”); and
 <br>
-(b) to make other miscellaneous and technical amendments.&nbsp;&nbsp;
+(b) to make other miscellaneous and technical amendments.
 
 <b><u>The Committee for the Professional Training of Lawyers</u></b>
 
-{:start="3"}&nbsp;
-3.&nbsp; The Committee was set up by the Honourable Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime for lawyers. This review was aimed at raising the quality and consistency of training standards across the industry.
+{:start="3"}
+3. The Committee was set up by the Honourable Chief Justice Sundaresh Menon in August 2016 to conduct a root-and-branch review of the professional training regime for lawyers. This review was aimed at raising the quality and consistency of training standards across the industry.
 
-{:start="4"}&nbsp;
-4.&nbsp; The Committee was chaired by Justice Quentin Loh, and comprised 14 other members including representatives from:
+{:start="4"}
+4. The Committee was chaired by Justice Quentin Loh, and comprised 14 other members including representatives from:
 <br><br>
 (a) the Supreme Court,<br>
 (b) the Attorney-General’s Chambers,<br>
@@ -37,148 +37,148 @@ Mr. Speaker,
 (e) the Singapore Corporate Counsel Association, and<br>
 (f) various Singapore law practices.
 
-{:start="5"}&nbsp;
-5.&nbsp; A Working Group comprising representatives from –
+{:start="5"}
+5. A Working Group comprising representatives from –
 <br><br>
 (a) MinLaw,<br>
 (b) the Singapore Institute of Legal Education (“<b>SILE</b>”),<br>
 (c) the Supreme Court, and <br>
-(d) the Law Society of Singapore,&nbsp;
-<br><br> was subsequently set up to implement and operationalise the Committee’s recommendations, which my Ministry had accepted in-principle.&nbsp;&nbsp;
+(d) the Law Society of Singapore,
+<br><br> was subsequently set up to implement and operationalise the Committee’s recommendations, which my Ministry had accepted in-principle.
 
-{:start="6"}&nbsp;
-6.&nbsp; A separate working group was established by the SILE to implement the Committee’s recommendations on Part B and practice training.&nbsp;
+{:start="6"}
+6. A separate working group was established by the SILE to implement the Committee’s recommendations on Part B and practice training.
 <br><br>
 (a) This working group comprises representatives from:
-* the SILE's Board,&nbsp;
-* Singapore law practices,&nbsp;
-* the 3 local law schools,&nbsp;
-* the Law Society,&nbsp;
-* the Singapore Academy of Law,&nbsp;
-* the Singapore Corporate Counsel Association,&nbsp;
-* the Attorney-General’s Chambers, and&nbsp;
+* the SILE's Board,
+* Singapore law practices,
+* the 3 local law schools,
+* the Law Society,
+* the Singapore Academy of Law,
+* the Singapore Corporate Counsel Association,
+* the Attorney-General’s Chambers, and
 * MinLaw.
 
-{:start="7"}&nbsp;
-7.&nbsp; In 2019, MinLaw conducted a public consultation on the Working Group’s proposals for implementing the Committee’s recommendations. The respondents comprised a good mix of practitioners, in-house counsel, law students, young lawyers and members of the public. The majority supported the Working Group’s proposals.&nbsp;
+{:start="7"}
+7. In 2019, MinLaw conducted a public consultation on the Working Group’s proposals for implementing the Committee’s recommendations. The respondents comprised a good mix of practitioners, in-house counsel, law students, young lawyers and members of the public. The majority supported the Working Group’s proposals.
 
-{:start="8"}&nbsp;
-8.&nbsp; This Bill contains amendments to implement these recommendations by the Committee:&nbsp;
+{:start="8"}
+8. This Bill contains amendments to implement these recommendations by the Committee:
 <br><br>
 (a) Decouple admission to the Singapore Bar from the completion of practice training contracts;
 <br>
-(b) Lengthen the practice training period from six months to one year;&nbsp;
+(b) Lengthen the practice training period from six months to one year;
 <br>
-(c) Confer on practice trainees limited rights to practise after six months of training;&nbsp;
+(c) Confer on practice trainees limited rights to practise after six months of training;
 <br>
 (d) Permit up to three months of the practice training period to be completed at approved in-house legal departments of approved corporations; and
 <br>
-(e) Introduce a moratorium for practice training contract applications.&nbsp;
+(e) Introduce a moratorium for practice training contract applications.
 
-{:start="9"}&nbsp;
-9.&nbsp; I will now cover each of the key amendments in turn.&nbsp;&nbsp;
+{:start="9"}
+9. I will now cover each of the key amendments in turn.
 
-{:start="10"}&nbsp;
-10.&nbsp; The rest of the Committee’s recommendations will be implemented progressively via guidance notes and industry announcements, in consultation with the relevant stakeholders from the Working Group.&nbsp;&nbsp;&nbsp;
+{:start="10"}
+10. The rest of the Committee’s recommendations will be implemented progressively via guidance notes and industry announcements, in consultation with the relevant stakeholders from the Working Group.
 
-<b><u>Decoupling Admission to the Singapore Bar from the Completion of Practice Training Contracts</u></b>&nbsp;&nbsp;
+<b><u>Decoupling Admission to the Singapore Bar from the Completion of Practice Training Contracts</u></b>
 
-{:start="11"}&nbsp;
-11.&nbsp; I will start with the amendment in relation to decoupling admission to the Singapore Bar from the completion of practice training contracts.&nbsp;
+{:start="11"}
+11. I will start with the amendment in relation to decoupling admission to the Singapore Bar from the completion of practice training contracts.
 
-{:start="12"}&nbsp;
-12.&nbsp; The existing framework for admission to the Singapore Bar as an Advocate and Solicitor (“<b>A&amp;S</b>”) requires law graduates to, amongst other requirements, pass Part B of the Singapore Bar Examinations (the “<b>Part B examinations</b>”) and complete a prescribed practice training period.&nbsp;
+{:start="12"}
+12. The existing framework for admission to the Singapore Bar as an Advocate and Solicitor (“<b>A&amp;S</b>”) requires law graduates to, amongst other requirements, pass Part B of the Singapore Bar Examinations (the “<b>Part B examinations</b>”) and complete a prescribed practice training period.
 <br><br>
-(a) During the practice training period, the law graduate receives supervised training in relation to the practice of Singapore law, under a formal training arrangement.&nbsp;
+(a) During the practice training period, the law graduate receives supervised training in relation to the practice of Singapore law, under a formal training arrangement.
 <br>
-(b) This formal training arrangement between a law graduate and a Singapore law practice,&nbsp; is known as a “practice training contract”.&nbsp;
+(b) This formal training arrangement between a law graduate and a Singapore law practice, is known as a “practice training contract”.
 
-{:start="13"}&nbsp;
-13.&nbsp; Clause 6 of the Bill introduces a new category of individuals.&nbsp;
+{:start="13"}
+13. Clause 6 of the Bill introduces a new category of individuals.
 <br><br>
-(a) Law graduates who pass the Part B examinations, can now be admitted to the Singapore Bar as a lawyer (non-practitioner) (“<b>lawyer (NP)</b>”) without needing to complete the prescribed practice training period.&nbsp;
+(a) Law graduates who pass the Part B examinations, can now be admitted to the Singapore Bar as a lawyer (non-practitioner) (“<b>lawyer (NP)</b>”) without needing to complete the prescribed practice training period.
 <br>
-(b) A lawyer (NP) will not be able to practise in law firms and similar entities; instead a lawyer (NP) can embark on alternative pathways, such as becoming in-house counsel or academia.&nbsp;
+(b) A lawyer (NP) will not be able to practise in law firms and similar entities; instead a lawyer (NP) can embark on alternative pathways, such as becoming in-house counsel or academia.
 
-{:start="14"}&nbsp;
-14.&nbsp; The prescribed practice training period remains compulsory for a lawyer (NP) who wishes to practise law in a law firm or similar entity. Such a lawyer (NP) may be admitted as an A&amp;S and will have the rights and obligations of one, after completion of the prescribed practice training period.&nbsp;
+{:start="14"}
+14. The prescribed practice training period remains compulsory for a lawyer (NP) who wishes to practise law in a law firm or similar entity. Such a lawyer (NP) may be admitted as an A&amp;S and will have the rights and obligations of one, after completion of the prescribed practice training period.
 
-{:start="15"}&nbsp;
-15.&nbsp; This enhancement to the admission framework recognises that a legal education can lead to different legal career pathways.&nbsp;
+{:start="15"}
+15.&nbsp; This enhancement to the admission framework recognises that a legal education can lead to different legal career pathways.
 
-{:start="16"}&nbsp;
-16.&nbsp; MinLaw remains focused on developing a strong core of practising lawyers to serve Singapore’s society; and to provide high-quality legal services to enhance our business environment.&nbsp;&nbsp;
+{:start="16"}
+16. MinLaw remains focused on developing a strong core of practising lawyers to serve Singapore’s society; and to provide high-quality legal services to enhance our business environment.
 
-{:start="17"}&nbsp;
-17.&nbsp; However, our reality is one of a fast-changing operating environment and we need legal talent to support all aspects of our economy and society.&nbsp;
+{:start="17"}
+17. However, our reality is one of a fast-changing operating environment and we need legal talent to support all aspects of our economy and society.
 <br><br>
-(a) Law graduates can join in-house counsel teams, legal tech companies or enter academia.&nbsp;
+(a) Law graduates can join in-house counsel teams, legal tech companies or enter academia.
 <br>
-(b) They can contribute to the legal services sector, and in other sectors which may benefit from legal expertise, in a variety of roles and functions.&nbsp;&nbsp;
+(b) They can contribute to the legal services sector, and in other sectors which may benefit from legal expertise, in a variety of roles and functions.
 <br>
-(c) For those who do not intend to practise, this change allows them to be admitted to the Singapore Bar earlier, since they do not need to complete practice training.&nbsp;
+(c) For those who do not intend to practise, this change allows them to be admitted to the Singapore Bar earlier, since they do not need to complete practice training.
 <br>
 (d) This also frees up more practice training contracts for those who intend to practise law.
 
 {:start="18"}
-18.&nbsp; As highlighted in the Forward SG Report, one of our shared visions is to embrace a wider variety of career pathways. We are committed to recognising that there are diverse pathways that are available for our lawyers to develop to their full potential. Hence, this change will allow law graduates who do not wish to practise, to embark on their chosen career pathways sooner.
+18. As highlighted in the Forward SG Report, one of our shared visions is to embrace a wider variety of career pathways. We are committed to recognising that there are diverse pathways that are available for our lawyers to develop to their full potential. Hence, this change will allow law graduates who do not wish to practise, to embark on their chosen career pathways sooner.
 
 {:start="19"}
-19.&nbsp; A lawyer (NP)’s rights and obligations will be similar to a non-practising A&amp;S who does not have in force a Practice Certificate (PC).&nbsp;
+19. A lawyer (NP)’s rights and obligations will be similar to a non-practising A&amp;S who does not have in force a Practice Certificate (PC).
 <br><br>
-(a) For example, lawyers (NP) may work as in-house counsel and may provide pro bono (i.e. free) legal advice.&nbsp;
+(a) For example, lawyers (NP) may work as in-house counsel and may provide pro bono (i.e. free) legal advice.
 <br>
 (b) They will also be members of the Singapore Academy of Law and can be members of the Law Society of Singapore.
 <br>
-(c) Lawyers (NP) will also be officers of the court, like A&amp;Ses today, and subject to the disciplinary oversight of the Courts.&nbsp;
+(c) Lawyers (NP) will also be officers of the court, like A&amp;Ses today, and subject to the disciplinary oversight of the Courts.
 
 {:start="20"}
-20.&nbsp; Furthermore, under Clause 16 of the Bill, a lawyer (NP) who is employed by a law practice, but is not a practice trainee and who does not have a provisional PC, may be registered as a regulated non-practitioner under section 36G of the Act.&nbsp;
+20. Furthermore, under Clause 16 of the Bill, a lawyer (NP) who is employed by a law practice, but is not a practice trainee and who does not have a provisional PC, may be registered as a regulated non-practitioner under section 36G of the Act.
 <br><br>
-(a) Such registration will be subject to the prevailing framework for regulated non-practitioners, including being entitled to to be a director, partner or shareholder of a law firm or similar entity.&nbsp;
+(a) Such registration will be subject to the prevailing framework for regulated non-practitioners, including being entitled to to be a director, partner or shareholder of a law firm or similar entity.
 <br>
-(b) I will elaborate on provisional PCs later on.&nbsp;
+(b) I will elaborate on provisional PCs later on.
 
 {:start="21"}
-21.&nbsp; Similarly, the Bill will also permit non-practising A&amp;Ses to be registered as regulated non-practitioners, subject to the prevailing requirements.
+21. Similarly, the Bill will also permit non-practising A&amp;Ses to be registered as regulated non-practitioners, subject to the prevailing requirements.
 
 {:start="22"}
-22.&nbsp; This acknowledges that an individual who is admitted to the Singapore Bar, can contribute to a law practice even if he or she does not practise.&nbsp;
+22. This acknowledges that an individual who is admitted to the Singapore Bar, can contribute to a law practice even if he or she does not practise.
 
-<b><u>Lengthening the Practice Training Period</u></b>&nbsp;
+<b><u>Lengthening the Practice Training Period</u></b>
 
 {:start="23"}
-23.&nbsp; Moving on, I also wish to highlight that the Committee also recommended lengthening the practice training period, which is currently a minimum of six months, to one year. While this change will be given effect to via upcoming amendments to the subsidiary legislation, I would like to mention this briefly, so that Members have an overall picture of the changes.
+23. Moving on, I also wish to highlight that the Committee also recommended lengthening the practice training period, which is currently a minimum of six months, to one year. While this change will be given effect to via upcoming amendments to the subsidiary legislation, I would like to mention this briefly, so that Members have an overall picture of the changes.
 
 {:start="24"}
-24.&nbsp; This change is only one example of consistent efforts to holistically lift the standards of the legal industry. My Ministry is also involved in ongoing reviews in other aspects covering areas such as legal education, and ethics and professional standards of lawyers.&nbsp;
+24. This change is only one example of consistent efforts to holistically lift the standards of the legal industry. My Ministry is also involved in ongoing reviews in other aspects covering areas such as legal education, and ethics and professional standards of lawyers.;
 <br><br>
 (a) These reviews aim to enhance the quality of the legal workforce and complement the Committee’s recommendations.
 <br>
-(b) In an increasingly complex and competitive operating environment, there is greater demand for legal professionals that provide high-quality advice and solutions to clients with multi-faceted problems.&nbsp;
+(b) In an increasingly complex and competitive operating environment, there is greater demand for legal professionals that provide high-quality advice and solutions to clients with multi-faceted problems.
 <br>
 (c) One key objective is to produce law graduates who will be equipped with the necessary skill sets, and be better prepared to enter into the legal workforce.
 
 {:start="25"}
-25.&nbsp; In conjunction with these efforts, the lengthened practice training period will:&nbsp;
+25. In conjunction with these efforts, the lengthened practice training period will:
 <br><br>
-(a) Give practice trainees a longer period of direct mentorship to develop a strong foundation for a sustainable and fulfilling career in legal practice;&nbsp;
+(a) Give practice trainees a longer period of direct mentorship to develop a strong foundation for a sustainable and fulfilling career in legal practice;
 <br>
-(b) Better equip practice trainees for entry into private practice through greater exposure to a range of practice areas; and&nbsp;
+(b) Better equip practice trainees for entry into private practice through greater exposure to a range of practice areas; and
 <br>
-(c) Allow law practices to make a more holistic assessment of trainees’ performance.&nbsp;
+(c) Allow law practices to make a more holistic assessment of trainees’ performance.
 
 {:start="26"}
-26.&nbsp; In other jurisdictions like France, Germany and Hong Kong, there is also emphasis on the practice training to complement formal education where solicitors are required to undergo two years of training.&nbsp;
+26. In other jurisdictions like France, Germany and Hong Kong, there is also emphasis on the practice training to complement formal education where solicitors are required to undergo two years of training.
 
 {:start="27"}
-27.&nbsp; The SILE has published a detailed Notice on New Admission Regime on their website. The Notice captures the proposals from the multi-stakeholder working groups. It outlines the new training requirements and options available to law graduates seeking to complete their practice training period.
+27. The SILE has published a detailed Notice on New Admission Regime on their website. The Notice captures the proposals from the multi-stakeholder working groups. It outlines the new training requirements and options available to law graduates seeking to complete their practice training period.
 
 {:start="28"}
-28.&nbsp; MinLaw is aware of industry concerns surrounding the lengthened practice training period, including the additional strain this may place on both future practice trainees and law practices seeking to offer practice training contracts.&nbsp;
+28. MinLaw is aware of industry concerns surrounding the lengthened practice training period, including the additional strain this may place on both future practice trainees and law practices seeking to offer practice training contracts.
 
 {:start="29"}
-29.&nbsp; MinLaw is working closely with the SILE and the Law Society on these concerns. Areas that we are looking into include arrangements for leave days and medical leave, and renumeration for practice trainees commensurate with their contributions during their training period.&nbsp;
+29. MinLaw is working closely with the SILE and the Law Society on these concerns. Areas that we are looking into include arrangements for leave days and medical leave, and renumeration for practice trainees commensurate with their contributions during their training period.&nbsp;
 
 <b><u>Providing Practice Trainees the Option to Practise Provisionally Under Supervision</u></b>&nbsp;
 
