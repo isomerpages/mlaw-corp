@@ -8,15 +8,15 @@ description: ""
 image: ""
 variant: markdown
 ---
-07 Nov 2023 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)&nbsp;
+07 Nov 2023 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)
 
-Mr. Speaker,&nbsp;
+Mr. Speaker,
 
-{:start="1"}&nbsp;
-1.&nbsp; On behalf of the Minister for Law, I beg to move, “That the Bill be now read a Second time.”&nbsp;
+{:start="1"}
+1. On behalf of the Minister for Law, I beg to move, “That the Bill be now read a Second time.”
 
-{:start="2"}&nbsp;
-2.&nbsp; Sir, this Bill contains amendments to the Legal Profession Act 1966 to:
+{:start="2"}
+2. Sir, this Bill contains amendments to the Legal Profession Act 1966 to:
 <br><br>
 (a) lift the overall standards of the professional training regime for lawyers, following the work of the Committee for the Professional Training of Lawyers (“<b>the Committee</b>”); and
 <br>
