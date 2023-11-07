@@ -1,6 +1,6 @@
 ---
 title: Speech by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at the Opening Ceremony of the 20th General Assembly and 74th & 75th Council Meetings of the Asian Patents Attorney Association
-permalink: /news/speeches/speech-2m-edwin-tong-opening-ceremony-20th-ga-appa-council-meetings/
+permalink: /news/speeches/speech-2m-edwin-tong-opening-ceremony-20th-ga-apaa-council-meetings/
 date: 2023-11-04
 layout: post
 description: ""
