@@ -14,7 +14,7 @@ The Ministry of Law (MinLaw) Services Centre will close on the following dates f
 | Closure date | Closure time | Resumption date |
 | -------- | -------- | -------- |
 | 24 November 2023, Friday     | 12pm - 5pm     | 27 November 2023     |
-| 28 November 2023, Tuesday     | 12pm - 2pm     | 28 November 2023, 2pm     |
+| 28 November 2023, Tuesday     | 12pm - 2pm     | 28 November 2023     |
 
 Thank you for your understanding. 
 
