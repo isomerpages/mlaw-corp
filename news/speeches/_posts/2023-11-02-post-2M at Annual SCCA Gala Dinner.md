@@ -1,5 +1,5 @@
 ---
-title: 2M at Annual SCCA Gala Dinner
+title: Opening Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at SCCA Annual Gala Dinner and 7th Chief Legal Officer Awards
 permalink: /news/speeches/2m-annual-scca-gala-dinner-2023/
 date: 2023-11-02
 layout: post
