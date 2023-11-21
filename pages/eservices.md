@@ -25,7 +25,7 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 #### **Maintenance Notices**
 
 
-Currently the Insolvency Office's digital services are facing some intermittent issues. Our office is working on the resumption of the services and we apologised for any inconvenience caused.
+Currently the Insolvency Office's (Bankruptcy) digital services are facing some intermittent issues. Our office is working on the resumption of the services and we apologise for any inconvenience caused.
 
 The following eServices are unavailable due to scheduled maintenance on the following dates:
 
