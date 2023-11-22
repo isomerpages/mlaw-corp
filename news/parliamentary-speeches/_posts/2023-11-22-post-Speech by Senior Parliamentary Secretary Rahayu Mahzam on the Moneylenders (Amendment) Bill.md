@@ -1,5 +1,6 @@
 ---
-title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on the Moneylenders (Amendment) Bill
+title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on
+  the Moneylenders (Amendment) Bill
 permalink: /news/parliamentary-speeches/2r-speech-by-sps-rahayu-mahzam-on-moneylenders-amd-bill/
 date: 2023-11-22
 layout: post
@@ -38,9 +39,9 @@ Mdm Deputy Speaker,
 {:start="9"}
 9. This Bill seeks to do three main things:
 <br>
-(a) First, improve data sharing and usage policies;
-(b) Second, enhance MLCB’s functions through the sharing and use of data maintained by the MLCB; and
-(c) Third, facilitate digitalisation in the licensed moneylending industry.
+<br>(a) First, improve data sharing and usage policies;
+<br>(b) Second, enhance MLCB’s functions through the sharing and use of data maintained by the MLCB; and
+<br>(c) Third, facilitate digitalisation in the licensed moneylending industry.
 
 {:start="10"}
 10. The Bill also contains technical amendments to reduce ambiguity and increase operational efficiency for licensed moneylenders.
