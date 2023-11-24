@@ -62,7 +62,7 @@ Ladies and Gentlemen,
 8. Over the years, the SYC has continued its efforts to support the preservation of family relationships, where possible.
 
 <p style="margin-left: 40px">
-(a) Addressing divorces upstream, the SYC formalised pre-divorce counselling in the form of the Marriage Counselling Programme (“**MCP**”) in 2004. Under the MCP, couples are referred to community partners for counselling on their marital issues, to explore if the marriage can be salvaged.</p>
+(a) Addressing divorces upstream, the SYC formalised pre-divorce counselling in the form of the Marriage Counselling Programme (“<b>MCP</b>”) in 2004. Under the MCP, couples are referred to community partners for counselling on their marital issues, to explore if the marriage can be salvaged.</p>
 
 <p style="margin-left: 40px">
 (b) The MCP was enhanced in 2015 to include a Parenting Program for couples with minor children. If the parties decide to proceed with divorce, the counsellor will facilitate discussions on the post-divorce care and living arrangements for the children. This upfront discussion outside the court setting helps the parties to focus on their children’s welfare and encourages them to avoid taking adversarial positions during the divorce proceedings.</p>
@@ -71,7 +71,7 @@ Ladies and Gentlemen,
 (c) The MCP counsellors are specifically trained to help divorcing spouses resolve their issues. Amongst other things, the SYC organises regular Community of Practice sessions, where the counsellors receiving training, and also share about their experiences and learning points.</p>
 
 <p style="margin-left: 40px">
-(d) The MCP has been a very meaningful and significant effort. From 2004 to 2016, over 33,000 couples were counselled, and almost half of the marriages were saved. The Administration of Muslim Law Act (“**AMLA**”) was amended in 2017 to make attending the MCP a legal requirement before filing for divorce.</p>
+(d) The MCP has been a very meaningful and significant effort. From 2004 to 2016, over 33,000 couples were counselled, and almost half of the marriages were saved. The Administration of Muslim Law Act (“<b>AMLA</b>”) was amended in 2017 to make attending the MCP a legal requirement before filing for divorce.</p>
 
 {:start="9"}
 9. Where a divorce cannot be avoided, the SYC strives to help parties move on in the least acrimonious way possible, while paying special attention to protecting vulnerable parties in the process. This is in line with the more recent philosophy of both the Family Justice Courts (“**FJC**”) and the SYC to deliver therapeutic justice.
@@ -98,7 +98,7 @@ Ladies and Gentlemen,
 (a) After the divorce application is filed, one of the first events that parties will be directed to attend is mediation. Mediation was introduced in the SYC in 1999. It has been helpful in encouraging parties to reach amicable settlements, thus saving parties time and cost, and helping the family move on with less acrimony.</p>
 
 <p style="margin-left: 40px">
-(b) If the divorce is contested the Court may appoint hakam, or marital conciliators. The hakam are asatizah, or religious scholars, who will help parties explore reconciliation. If reconciliation is not possible, the hakam encourages parties to part amicably in accordance with the principles of Islam. These efforts help to preserve a harmonious relationship between parties post-divorce, so that they can co-parent effectively and preserve the strong parent-child relationship. The hakam process has been practised since SYC’s inception and strengthened over the years. For example, SYC launched the Hakam’s Ideals – Knowledge, Methodology, Application, Heart (“**H.I.K.M.A.H.**”) training and assessment framework in March 2023. Under this framework, hakam undergo regular training on legal, social science and substantive Muslim law topics, as well as practical modules such as role-play sessions.</p>
+(b) If the divorce is contested the Court may appoint hakam, or marital conciliators. The hakam are asatizah, or religious scholars, who will help parties explore reconciliation. If reconciliation is not possible, the hakam encourages parties to part amicably in accordance with the principles of Islam. These efforts help to preserve a harmonious relationship between parties post-divorce, so that they can co-parent effectively and preserve the strong parent-child relationship. The hakam process has been practised since SYC’s inception and strengthened over the years. For example, SYC launched the Hakam’s Ideals – Knowledge, Methodology, Application, Heart (“<b>H.I.K.M.A.H.</b>**”) training and assessment framework in March 2023. Under this framework, hakam undergo regular training on legal, social science and substantive Muslim law topics, as well as practical modules such as role-play sessions.</p>
 
 <p style="margin-left: 40px">
 (c) There are also programmes to help parties and the minor children deal with the emotional fallout of the divorce. One such example is the Children-in-Between Programme, which is run by trained counsellors. The program helps parents understand more about what their children are going through and equips the children with skills to cope with their parents’ divorce.</p>
