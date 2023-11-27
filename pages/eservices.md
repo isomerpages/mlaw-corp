@@ -24,6 +24,7 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 
 #### **Maintenance Notices**
 
+The Payment services for Insolvency Office and Public Trustee's Office is temporarily unavailable. We are working to resolve the issue.
 
 Currently the Insolvency Office's (Bankruptcy) digital services are facing some intermittent issues. Our office is working on the resumption of the services and we apologise for any inconvenience caused.
 
@@ -31,7 +32,7 @@ The following eServices are unavailable due to scheduled maintenance on the foll
 
 | E-Services | Maintenance Schedule |
 | -------- | -------- |  
-| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker  | 24 Nov 2023, Fri,  1800 hrs to 27 Nov 2023, Mon, 0800 hrs|
+| Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker  | 02 Dec 2023, Sat,  1400 hrs to 03 Dec 2023, Mon, 2359 hrs|
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | Every Thu,  1800 hrs to 2359 hrs|
 | Insolvency Office, Public Trustee's Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide,  Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's Office    | Every Fri, 1800 hrs to 2359 hrs|
 
