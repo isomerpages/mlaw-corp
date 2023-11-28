@@ -24,7 +24,7 @@ To apply for the Simplified Insolvency Programme, please refer to the instructio
 
 #### **Maintenance Notices**
 
-The Payment services for Insolvency Office and Public Trustee's Office is temporarily unavailable. We are working to resolve the issue.
+
 
 Currently the Insolvency Office's (Bankruptcy) digital services are facing some intermittent issues. Our office is working on the resumption of the services and we apologise for any inconvenience caused.
 
