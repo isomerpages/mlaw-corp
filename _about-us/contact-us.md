@@ -7,17 +7,6 @@ variant: markdown
 <style>
   .image {margin-bottom: 1em;}
 </style>
-Closure of MinLaw Services Centre
----
-The Ministry of Law (MinLaw) Services Centre will close on the following dates for staff events:
-
-| Closure date | Closure time | Resumption date |
-| -------- | -------- | -------- |
-| 24 November 2023, Friday     | 12pm - 5pm     | 27 November 2023     |
-| 28 November 2023, Tuesday     | 12pm - 2pm     | 28 November 2023     |
-
-Thank you for your understanding. 
-
 
 <!--#### **Urgent Maintenance Notice**
 
@@ -68,8 +57,6 @@ The live chat will address enquiries on:
 * Public Trustee
 * Registry of Moneylenders
 * Registry of Pawnbrokers
-
-Our Online Enquiry e-services is unavailable till 26 October 2023 0800 hrs due to urgent maintenance works. During this period, waiting times at our Ministry of Law Services Centre and our hotline may also be longer than usual. 
 
 If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br>
 <br>
