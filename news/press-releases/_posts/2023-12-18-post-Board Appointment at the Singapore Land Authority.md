@@ -38,7 +38,7 @@ variant: tiptap
 - Mr Melvyn Yeo (Founder and Managing Partner, TRIREC)
 
 **ANNEX**
-<a href="/files/news/press-releases/2023/annex___board_appointment_at_the_singapore_land_authority.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex - Board Appointment at the Singapore Land Authority</a></p><p></p><p>
+<a href="/files/news/press-releases/2023/annex___board_appointment_at_the_singapore_land_authority.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex - Board Appointment at the Singapore Land Authority</a>
 
 **MINISTRY OF LAW**
 <br>**18 DECEMBER 2023**
