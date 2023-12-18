@@ -8,8 +8,11 @@ image: ""
 variant: tiptap
 ---
 18 December 2023 Posted in [Press releases](/news/press-releases)
+
 {:start="1"} 
-1. The Minister for Law has appointed a member to the Board of the Singapore Land Authority (SLA).</p><p><strong>New Member</strong>&lt;br&gt;</p><p>
+1. The Minister for Law has appointed a member to the Board of the Singapore Land Authority (SLA).
+
+</p><p><strong>New Member</strong>&lt;br&gt;</p><p>
 
 {:start="2"} 
 2. Ms Chong Siak Ching, Chief Executive Officer of the National Gallery Singapore, will be appointed for a term commencing on 1 January 2024 and ending on 31 July 2025.</p><p><strong>Existing Members</strong>&lt;br&gt;</p><p>
