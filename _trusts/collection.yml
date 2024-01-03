@@ -2,5 +2,5 @@ collections:
   trusts:
     output: true
     order:
-      - Express Trusts.md
       - Trusts and Trust Like Arrangements in Singapore.md
+      - Express Trusts.md
