@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /about-us/useful-links/
 breadcrumb: Useful Links
+variant: markdown
 ---
 Useful Links
 ---
@@ -87,5 +88,6 @@ Useful Links
 **Useful Information**
 
 * [Taking evidence for civil proceedings in Singapore from witnesses located overseas](https://www.singaporelawwatch.sg/About-Singapore-Law/Civil-Practice-ADR/requirements-of-foreign-jurisdictions-on-the-taking-of-evidence-given-voluntarily-by-way-of-live-video-link-from-a-witness-located-in-their-jurisdiction-in-civil-proceedings-before-singapore-courts/)
+* [Information regarding Trusts under Singapore Law](https://www.mlaw.gov.sg/trusts/trusts-and-trust-like-arrangements-in-singapore/) 
 
 <p class="right-side-updated">Last updated on 17 Oct 2023</p>
