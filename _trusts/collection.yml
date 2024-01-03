@@ -1,0 +1,4 @@
+collections:
+  trusts:
+    output: true
+    order: []
