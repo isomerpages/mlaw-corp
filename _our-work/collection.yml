@@ -1,0 +1,12 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - legal-group.md
+      - legal-industry-division.md
+      - legal-services-regulatory-authority.md
+      - land-policy-and-administration.md
+      - intellectual-property-policy.md
+      - community-legal-services-group.md
+      - our-legal-system.md
+      - land-policy-and-administration.md

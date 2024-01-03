@@ -1,0 +1,5 @@
+collections:
+  why-copyright-matters:
+    output: true
+    order:
+      - relevant-legislation.md
