@@ -2,6 +2,6 @@ collections:
   trusts:
     output: true
     order:
-      - Charitable Purpose Trust.md
       - Trusts and Trust Like Arrangements in Singapore.md
       - Express Trusts.md
+      - Charitable Purpose Trust.md
