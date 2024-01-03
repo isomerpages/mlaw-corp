@@ -1,4 +1,5 @@
 collections:
   trusts:
     output: true
-    order: []
+    order:
+      - Trusts and Trust Like Arrangements in Singapore.md
