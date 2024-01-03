@@ -2,6 +2,7 @@ collections:
   trusts:
     output: true
     order:
+      - Wakafs.md
       - Trusts and Trust Like Arrangements in Singapore.md
       - Express Trusts.md
       - Charitable Purpose Trust.md
