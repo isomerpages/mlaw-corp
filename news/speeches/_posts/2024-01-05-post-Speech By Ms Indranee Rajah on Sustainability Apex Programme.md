@@ -38,45 +38,66 @@ d.&nbsp;&nbsp;&nbsp;&nbsp; Green economy; and</p><p>
 e.&nbsp;&nbsp;&nbsp;&nbsp; Resilient future.</p><p></p><p>
 </p>
 
+{:start="10"}
 10.&nbsp; The details on the SG Green Plan are set out on the SG Green Plan website. However, the main point that I wanted to make here is that the SG Green Plan is a whole of country effort. It's not just something for the ministries and the government agencies to do, but it is a plan in which everyone has a role to play, including the professional services.
 
+{:start="11"}
 11.&nbsp; So further, while the SG Green Plan outlines Singapore's goals and objectives, Singapore's hub status, connectivity and ecosystem mean that the activities we undertake have regional and international relevance. So for example, green urban solutions, green finance and sustainable infrastructure. This again, has implications for professional services, because your work in the sustainability space has the potential to meet regional and international demand.
 
+{:start="12"}
 12.&nbsp; What I have outlined is the big picture and the macro strategy. But we all know that to achieve this, and to make ambition a reality, it must be enabled and operationalised through policy and people who can make it happen. And this includes lawyers, accountants, and other professional services.
 
+{:start="13"}
 13.&nbsp; Given that the work of making the planet greener and more sustainable cuts across almost every area and sector, the universe of what needs to be done is vast, and it is not possible for me to list everything. However, let me touch on a few key areas in which accountants and lawyers, as advisors to businesses, can make a difference.
 
+{:start="14"}
 14.&nbsp; First, ESG reporting and disclosure. To enable climate-aligned businesses and investment decision-making, we need better information in the form of better sustainability reporting. Businesses and clients will need advice on sustainability reporting requirements. This is one area in which you can make a difference by providing good advice and deterring greenwashing. On this note, the public consultation on the Sustainability Reporting Advisory Committee (SRAC)’s recommendations to advance mandatory climate reporting by Singapore companies has garnered over 180 responses, a testament of the strong interest on this topic.
 
+{:start="15"}
 15.&nbsp; SRAC’s key recommendations include introducing mandatory climate reporting on all listed issuers from financial year 2025 and large non-listed companies with an annual revenue of at least $1 billion from FY2027. The government will deliberate on SRAC’s representations, based on the feedback received and issued a summary of responses later this year, so do look out because it will be relevant to your work.
 
+{:start="16"}
 16.&nbsp; Second, green and transition financing. To reduce greenhouse gases, investment into sustainable and low carbon projects is critical. In this transition stage, such projects might be more expensive than projects which rely on fossil fuel. To remain relevant and cutting-edge, our professional services need to continuously innovate alongside Singapore’s growth as a green and transition finance hub. The more sustainable and low carbon projects that we can catalyse through green finance, the sooner we can reach our target of net zero. One way in which we aim to catalyse credible and green transition solutions and markets is through MAS’ Finance for Net Zero Action (FiNZ) plan.
 
+{:start="17"}
 17.&nbsp; To mobilise more capital for green and transition objects that are most pertinent in Asia, Singapore has been putting together a blended finance platform called financing Asia's transition partnership, or Fast-P with a target fund size of US$5 billion. You can find more details on the MAS website. Please make sure that your clients are aware of this. I think it will be of interest to them, and of course, it means work for you.
 
+{:start="18"}
 18.&nbsp; This blended finance platform pools concessional capital from the Singapore government and funds from multilateral development banks, development finance institutions, and philanthropies together with commercial capital for investment into projects relating to energy transition acceleration, green investments and clean technology in the region.
 
+{:start="19"}
 19.&nbsp; Blended finance can be complex, as it brings together parties with different risk and return objectives. The advisory work in this area will relate to appropriately structuring the transactions to manage such tensions. And this is where your expertise will come in.
 
+{:start="20"}
 20.&nbsp; Third, carbon management. To reduce the amount of greenhouse gases in the atmosphere, we need to decarbonise. This means disincentivising carbon emissions and incentivising alternatives. With effect from 2019, Singapore has imposed a progressive carbon tax on companies to provide a financial impetus to reduce emissions and rethink strategies. In parallel, Singapore has also introduced various measures to support companies on decarbonisation. So for instance, from 2024, companies in Singapore can tap on eligible international carbon credits to fulfil part of their carbon tax liability.
 
+{:start="21"}
 21.&nbsp; Singapore has entered into carbon credit collaborations with at least 13 countries to expand its network for acquiring international carbon credits. This is another area for advisory work, as clients will need advice on how to re-orientate their businesses and leverage government's support to decarbonise.
 
+{:start="22"}
 22.&nbsp; Fourth, stamping out greenwashing. Greenwashing is a pernicious problem. With the emphasis on sustainability, there will inevitably be the temptation to greenwash. However, this presents a false and misleading picture to investors and consumers and undermines the efforts to reach our climate goals.
 
+{:start="23"}
 23.&nbsp; Recently, the Advertising Standards Authority of Singapore banned an air-con advertisement for greenwashing. This is the first such case, but it won't be the last. Professional services can help by advising your clients and helping them to keep on the right side of true and accurate reporting.
 
+{:start="24"}
 24.&nbsp; These trends and developments which I have outlined above will mean an increase in compliance, transactional, and advisory work for accountants, lawyers and other professional services. And this is but a very small snapshot of the work that needs to be done, and the opportunities for professional services in the sustainability space.
 
+{:start="25"}
 25.&nbsp; To take full advantage of these opportunities, I urge professional services to build capabilities and collaborate with each other, to capitalise on each other's strengths and to expand your networks and reach for mutual benefit.
 
+{:start="26"}
 26.&nbsp; That brings me to today's launch of the Sustainability Apex Programme or SAP, which I am very excited about. The SAP is an excellent platform to facilitate such collaborations. It brings together accounting and law firms to participate in activities such as masterclasses, business trips, roundtables and workshops to develop their capabilities in servicing the sustainability needs of companies.
 
+{:start="27"}
 27.&nbsp; So to the accounting and law firms which have an existing sustainability practice, or are interested in setting up one, do consider joining the SAP as a way to broaden your knowledge in sustainability and strengthen your networks.
 
+{:start="28"}
 28.&nbsp; I would like to commend ISCA and the Law Society in jointly launching this program. It’s an excellent example of cross-sectoral collaboration that is led by industry, for the industry. I would also like to encourage you to consider involving professional services from the built environment in the SAP initiatives and events where suitable and at the appropriate time. So don't leave out the architects, the engineers, they are your friends too in this space. And let me end by congratulating once again ISCA and Lawsoc on the launch of SAP.
 
+{:start="29"}
 29.&nbsp; Thank you very much.
+
 
 
 Last updated on 5 January 2024
