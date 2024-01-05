@@ -26,17 +26,15 @@ variant: tiptap
 
 9.&nbsp;&nbsp;&nbsp;&nbsp; It's not possible to achieve such critical climate ambitions without a strategic plan. Singapore's strategic plan is contained in the SG Green Plan, the key pillars of which are as follows:       
 
-<p style="margin-left: 40px">
-a.&nbsp;&nbsp;&nbsp;&nbsp; City in nature;</p><p>        
-<p style="margin-left: 40px">
-b.&nbsp;&nbsp;&nbsp;&nbsp; Energy reset;</p><p>        
-<p style="margin-left: 40px">
-c.&nbsp;&nbsp;&nbsp;&nbsp; Sustainable living;</p><p>        
-<p style="margin-left: 40px">
-d.&nbsp;&nbsp;&nbsp;&nbsp; Green economy; and</p><p>        
-<p style="margin-left: 40px">
-e.&nbsp;&nbsp;&nbsp;&nbsp; Resilient future.</p><p></p><p>
-</p>
+  a.&nbsp;&nbsp;&nbsp;&nbsp; City in nature;     
+
+  b.&nbsp;&nbsp;&nbsp;&nbsp; Energy reset;     
+
+  c.&nbsp;&nbsp;&nbsp;&nbsp; Sustainable living;      
+
+  d.&nbsp;&nbsp;&nbsp;&nbsp; Green economy; and        
+
+  e.&nbsp;&nbsp;&nbsp;&nbsp; Resilient future.
 
 10.&nbsp; The details on the SG Green Plan are set out on the SG Green Plan website. However, the main point that I wanted to make here is that the SG Green Plan is a whole of country effort. It's not just something for the ministries and the government agencies to do, but it is a plan in which everyone has a role to play, including the professional services.
 
@@ -77,6 +75,7 @@ e.&nbsp;&nbsp;&nbsp;&nbsp; Resilient future.</p><p></p><p>
 28.&nbsp; I would like to commend ISCA and the Law Society in jointly launching this program. It’s an excellent example of cross-sectoral collaboration that is led by industry, for the industry. I would also like to encourage you to consider involving professional services from the built environment in the SAP initiatives and events where suitable and at the appropriate time. So don't leave out the architects, the engineers, they are your friends too in this space. And let me end by congratulating once again ISCA and Lawsoc on the launch of SAP.
 
 29.&nbsp; Thank you very much.
+
 
 
 Last updated on 5 January 2024
