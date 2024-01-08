@@ -66,7 +66,7 @@ variant: markdown
 (ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Refresh the Continuing Professional Development (“CPD”) system</b> to focus on upskilling and achieving the identified competencies, by harmonising the CPD requirements for all categories of practising lawyers to a 16-point requirement. In recognition of the need for greater commitment of resources, this requirement will be phased in for lawyers in the middle and senior categories. The relevant agencies and providers will enhance the suite of courses available and consider online options to facilitate attendance.</p>
 
 <p style="margin-left: 60px">
-(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Introduce specially curated milestone cohort training programmes for newly qualified lawyers</b> to provide structured training to develop competencies most critical for their development early in their careers.</p><b>
+(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Introduce specially curated milestone cohort training programmes for newly qualified lawyers</b> to provide structured training to develop competencies most critical for their development early in their careers.</p>
 
 <p style="margin-left: 40px">
 (c)&nbsp;&nbsp; Recommendations relating to Allied Legal Professionals (“ALPs”) as professionals that complement lawyers in the legal profession:</p>
@@ -91,7 +91,7 @@ variant: markdown
 
 * * *
 
-<p><sup id="fn1">Visit <a target="new" href="https://go.gov.sg/legal-education-reform-report">https://www.mlaw.gov.sg/files/news/press-releases/legal-education-reform-report.pdf</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">Visit <a target="new" href="https://www.mlaw.gov.sg/files/news/press-releases/legal-education-reform-report.pdf">https://go.gov.sg/legal-education-reform-report</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
     
 
 **MINISTRY OF LAW**  
