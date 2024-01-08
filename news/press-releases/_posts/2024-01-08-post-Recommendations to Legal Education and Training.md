@@ -1,5 +1,5 @@
 ---
-title: Recommendations to Legal Education and Training
+title: Recommendations to Legal Education and Training in Singapore to Keep Pace with Evolving Industry Needs
 permalink: /news/press-releases/recommendations-to-legal-education-and-training/
 date: 2024-01-08
 layout: post
