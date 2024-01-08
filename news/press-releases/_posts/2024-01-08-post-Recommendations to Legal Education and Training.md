@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-18 December 2023 Posted in [Press releases](/news/press-releases)
+8 January 2024 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A report<sup><a id="ref1" href="#fn1">1</a></sup> by a Working Group for the Reform of Legal Education (“the Working Group”) has put forth recommendations following a review of legal education and the training regime for lawyers in Singapore.
