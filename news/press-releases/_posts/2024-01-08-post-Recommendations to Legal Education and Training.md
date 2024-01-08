@@ -45,7 +45,7 @@ variant: markdown
 (i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Reinforce professional ethics and conduct standards</b> content to strengthen the core of compulsory subjects taught at law schools.</p>
 
 <p style="margin-left: 60px">
-(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Enhance the coverage of substantive civil law concepts</b> to enable Singapore lawyers to deal with cross-border jurisdictional matters and give Singapore’s legal industry a competitive edge.</p> &nbsp;
+(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Enhance the coverage of substantive civil law concepts</b> to enable Singapore lawyers to deal with cross-border jurisdictional matters and give Singapore’s legal industry a competitive edge.</p>
 
 <p style="margin-left: 60px">
 (iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Strengthen essential skills to bridge and meet client requirements</b> such as by infusing technology and data literacy skills, introducing elements of fundamental accounting and financial concepts, and emphasising communication skills, contextualised for lawyers, within the mandatory law school curriculum.</p>
@@ -91,11 +91,11 @@ variant: markdown
 
 * * *
 
-<p><sup id="fn1">Visit <a target="new" href="https://www.mlaw.gov.sg/files/news/press-releases/legal-education-reform-report.pdf">https://go.gov.sg/legal-education-reform-report</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">Visit <a target="new" href="https://www.mlaw.gov.sg/files/news/press-releases/2024/legal-education-reform-report.pdf">https://go.gov.sg/legal-education-reform-report</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
     
 
 **MINISTRY OF LAW**  
 **SG COURTS**  
 **8 JANUARY 2024**
 
-Last updated on 8 January 2024</b>
+Last updated on 8 January 2024
