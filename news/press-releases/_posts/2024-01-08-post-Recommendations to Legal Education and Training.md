@@ -91,7 +91,7 @@ variant: markdown
 
 * * *
 
-<p><sup id="fn1">Visit <a target="new" href="https://go.gov.sg/legal-education-reform-report">https://www.mlaw.gov.sg/files/news/press-releases/legal-education-reform-report.pdf</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">Visit <a target="new" href="https://www.mlaw.gov.sg/files/news/press-releases/legal-education-reform-report.pdf">https://go.gov.sg/legal-education-reform-report</a> to view the full report by the Working Group.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
     
 
 **MINISTRY OF LAW**  
