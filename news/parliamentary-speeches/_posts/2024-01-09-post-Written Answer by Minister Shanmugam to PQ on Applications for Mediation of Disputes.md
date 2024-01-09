@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister Shanmugam to PQ on Applications for Mediation
-  of Disputes
+title: Written Answer by Minister for Law K Shanmugam to PQ on Applications for Mediation of Disputes Between Neighbours that Reached CMC
 permalink: /news/parliamentary-speeches/written-pq-applications-to-cmc-mediation-neighbour-disputes/
 date: 2024-01-09
 layout: post
