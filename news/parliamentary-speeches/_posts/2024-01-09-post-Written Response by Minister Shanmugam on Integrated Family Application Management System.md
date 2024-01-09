@@ -1,7 +1,6 @@
 ---
-title: Written Response by Minister Shanmugam on Integrated Family Application
-  Management System
-permalink: /news/parliamentary-speeches/written-pq-integrated-family-application-management-system/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Assistance for Non-Native English Speakers Filing Court Applications Via Integrated Family Application Management System
+permalink: /news/parliamentary-speeches/written-pq-assistance-for-non-native-english-speakers-filing-court-applications-via-integrated-family-application-management-system
 date: 2024-01-09
 layout: post
 description: ""
