@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Applications for Mediation of Disputes Between Neighbours that Reached CMC
+title: Written Answer by Minister for Law K Shanmugam to PQ on Applications for
+  Mediation of Disputes Between Neighbours that Reached CMC
 permalink: /news/parliamentary-speeches/written-pq-applications-to-cmc-mediation-neighbour-disputes/
 date: 2024-01-09
 layout: post
@@ -14,7 +15,7 @@ variant: markdown
 **Ms Ng Ling Ling (Member of Parliament for Ang Mo Kio GRC):** 
 
 <b><u>Question</u></b>
-To ask the Minister for Law (a) in each of the past three years, how many applications for mediation of disputes between neighbours have been made to the Community Mediation Centre; (b) how many of such applications have led to actual
+<br>To ask the Minister for Law (a) in each of the past three years, how many applications for mediation of disputes between neighbours have been made to the Community Mediation Centre; (b) how many of such applications have led to actual
 mediations being conducted; and (c) what percentage of the mediations conducted led to amicable resolutions between the neighbours.
 
 <b><u>Written Answer:</u></b>
