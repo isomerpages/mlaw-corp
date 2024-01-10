@@ -108,7 +108,7 @@ variant: markdown
 (a) An offender sentenced to SEPP will not be automatically released at any point but will only be released if found suitable. If sentenced to SEPP, the offender will be detained for a minimum term of between 5 and 20 years (as determined by the court). At the end of the minimum term, the offender will only be released if assessed by the Minister of Home Affairs to no longer pose a threat to the public, instead of being automatically released. This is unlike an imprisonment sentence or corrective training/preventive detention where the offender must be released after serving the sentence imposed by the court.</p> 
 
 <p style="margin-left: 60px">
-(i) If found not suitable for release, the offender may continue to be detained up to life. However, there will be regularly reviews to assess his or her suitability for release.</p>
+(i) If found not suitable for release, the offender may continue to be detained up to life. However, there will be regular reviews to assess his or her suitability for release.</p>
 
 <p style="margin-left: 60px">
 (ii) If found not suitable for release, the offender may continue to be detained up to life. However, there will be regularly reviews to assess his or her suitability for release.</p>
