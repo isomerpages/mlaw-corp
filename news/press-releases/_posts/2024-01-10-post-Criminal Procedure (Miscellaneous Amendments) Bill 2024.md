@@ -10,15 +10,15 @@ variant: markdown
 10 January 2024 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.The Ministry of Law (“**MinLaw**”) and the Ministry of Home Affairs (“**MHA**”) introduced the Criminal Procedure (Miscellaneous Amendments) Bill 2024 for First Reading in Parliament today. The Bill advances our criminal justice system and contains significant proposals aimed at: (A) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (B) enhancing transparency, fairness and coherence in our criminal court processes.
+1. The Ministry of Law (“**MinLaw**”) and the Ministry of Home Affairs (“**MHA**”) introduced the Criminal Procedure (Miscellaneous Amendments) Bill 2024 for First Reading in Parliament today. The Bill advances our criminal justice system and contains significant proposals aimed at: (A) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (B) enhancing transparency, fairness and coherence in our criminal court processes.
 
 **Background**
 
 {:start="2"}
-2.The Criminal Procedure Code (“**CPC**”) is the key legislation governing our criminal justice process. It covers arrests, investigations, trials and appeals, and sentencing matters, among others.
+2. The Criminal Procedure Code (“**CPC**”) is the key legislation governing our criminal justice process. It covers arrests, investigations, trials and appeals, and sentencing matters, among others.
 
 {:start="3"}
-3.The Government regularly reviews our criminal justice laws, including the CPC, to ensure that they are up-to-date and fit for purpose. The last major amendment of the CPC was in 2018 via the Criminal Justice Reform Act 2018 (“**CJRA**”)<sup><a id="ref1" href="#fn1">1</a></sup>. The CPC was further amended in 2019 to improve and refine the laws introduced or amended by the CJRA.<sup><a id="ref2" href="#fn2">2</a></sup> 
+3. The Government regularly reviews our criminal justice laws, including the CPC, to ensure that they are up-to-date and fit for purpose. The last major amendment of the CPC was in 2018 via the Criminal Justice Reform Act 2018 (“**CJRA**”)<sup><a id="ref1" href="#fn1">1</a></sup>. The CPC was further amended in 2019 to improve and refine the laws introduced or amended by the CJRA.<sup><a id="ref2" href="#fn2">2</a></sup> 
 
 **Key Amendments**
 
@@ -50,13 +50,13 @@ variant: markdown
 <i>New legislative framework on forensic medical examinations (“**FME**”)</i>
 
 {:start="6"}
-6.The Bill also proposes to set out a clear legislative framework on FME, which will provide clarity and allow more effective criminal investigations. 
+6. The Bill also proposes to set out a clear legislative framework on FME, which will provide clarity and allow more effective criminal investigations. 
 
 {:start="7"}
-7.FME is conducted to obtain forensic evidence (e.g. taking blood samples or DNA swabs), which is critical for investigations, particularly those pertaining to serious sexual offences such as rape. 
+7. FME is conducted to obtain forensic evidence (e.g. taking blood samples or DNA swabs), which is critical for investigations, particularly those pertaining to serious sexual offences such as rape. 
 
 <p style="margin-left: 40px">
-(a) FME evidence is an important modern tool for bringing criminals to justice (see **Annex** for examples).</p>
+	(a) FME evidence is an important modern tool for bringing criminals to justice (see <b>Annex</b> for examples).</p>
 
 <p style="margin-left: 40px">
 (b) There are no substitutes for certain specific types of FME. For example, penile swabs need to be taken from accused persons in sexual assault cases to show proof of contact.</p> 
