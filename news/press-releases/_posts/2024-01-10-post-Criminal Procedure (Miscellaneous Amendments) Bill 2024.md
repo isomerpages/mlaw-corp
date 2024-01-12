@@ -111,13 +111,13 @@ variant: markdown
 (i) If found not suitable for release, the offender may continue to be detained up to life. However, there will be regular reviews to assess his or her suitability for release.</p>
 
 <p style="margin-left: 60px">
-(ii) If found not suitable for release, the offender may continue to be detained up to life. However, there will be regularly reviews to assess his or her suitability for release.</p>
+(ii) If found suitable for release, the offender will be released on license and subject to certain conditions. The offender may be unconditionally discharged thereafter, if appropriate.</p>
 
 <p style="margin-left: 40px">
-(a) As SEPP is a severe sentence, it will be limited to offenders who have been convicted of serious violent or sexual offences such as culpable homicide, rape and sexual penetration of minors. It will also only apply to offenders aged 21 and above at the time of the offence.</p> 
+(b) As SEPP is a severe sentence, it will be limited to offenders who have been convicted of serious violent or sexual offences such as culpable homicide, rape and sexual penetration of minors. It will also only apply to offenders aged 21 and above at the time of the offence.</p> 
 
 <p style="margin-left: 40px">
-(b) Safeguards will be put in place to ensure that the sentence is fair.</p> 
+(c) Safeguards will be put in place to ensure that the sentence is fair.</p> 
 
 <p style="margin-left: 60px">
 (i) It is the court which will decide whether SEPP is appropriate, generally after considering risk assessment reports by IMH and (if additional reports are submitted) other experts.</p> 
