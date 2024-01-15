@@ -14,10 +14,12 @@ The following eServices are unavailable due to  maintenance on the following dat
 | Legal Services Authority, Exemptions (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries  | 24 Oct 2023, 1600 hrs to 26 Oct 2023, 0800 hrs| -->
 
 
-#### **New Insolvency Office (IO) E-Services (new!)**
+#### **Insolvency Office (IO) E-Services**
  
 
 To apply for the Simplified Insolvency Programme, please refer to the instructions in [SIP FAQ](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) (hyperlink: [https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/)) page. **No E-Service is available for this submission.**
+<br><br>
+Corporate Insolvency e-Services will be under-going maintenance from **25 Jan 2024 6pm to 29 Jan 2024 8am**. Services will not be available during this period. We apologize for any inconvenience caused.
 
 <hr>
 
