@@ -1,6 +1,6 @@
 ---
-title: Keynote Address by Minister for Home Affairs and Law Mr K Shanmugam at the CIL
-permalink: /news/speeches/keynote-address-by-minister-shanmugam-cil/
+title: Keynote Address by Minister for Home Affairs and Law Mr K Shanmugam at the CIL International Law Year In Review 2024 Conference
+permalink: /news/speeches/keynote-address-by-minister-shanmugam-cil-international-law-year-in-review-2024-conference
 date: 2024-01-15
 layout: post
 description: ""
