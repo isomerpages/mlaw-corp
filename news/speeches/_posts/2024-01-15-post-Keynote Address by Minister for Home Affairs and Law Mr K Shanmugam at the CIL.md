@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Emeritus Professor S Jayakumar</p><p>Emeritus Professor Tommy Koh&nbsp;</p><p>Members of the International Advisory Panel</p><p>Lionel Yee, Chairman, CIL</p><p>Nilufer Oral, Director, CIL</p><p>Your Excellencies,&nbsp;</p><p>Ladies and Gentlemen<br></p><ol><li><p>Good morning to everyone.</p></li></ol><ol><li><p>Thank you for inviting me here to speak at this Conference.</p></li></ol><p></p>
