@@ -1,6 +1,7 @@
 ---
-title: Keynote Address by Minister for Home Affairs and Law Mr K Shanmugam at the CIL International Law Year In Review 2024 Conference
-permalink: /news/speeches/keynote-address-by-minister-shanmugam-cil-international-law-year-in-review-2024-conference
+title: Keynote Address by Minister for Home Affairs and Law Mr K Shanmugam at
+  the CIL International Law Year In Review 2024 Conference
+permalink: /news/speeches/keynote-address-by-minister-shanmugam-cil-international-law-year-in-review-2024-conference/
 date: 2024-01-15
 layout: post
 description: ""
@@ -56,43 +57,43 @@ Ladies and Gentlemen
 <p style="margin-left: 40px">
 - The US has not been able to contain the scope of Israel’s military offensive in Gaza.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The US has also failed to tame the Houthis, despite deploying carriers to the eastern Mediterranean Sea.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Actions of the US in sending the Carrier Groups to the Mediterranean may in fact have emboldened Israel, which seems to be broadening its military campaign. Two weeks ago, Israel allegedly carried out a strike on Hamas’ number two leader in Beirut.</p>
 
 {:start="11"}
 11. You also read that:
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The Houthis have been attacking vessels in the Red Sea.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The UN Security Council has adopted a resolution last week condemning the attacks and demanding that they cease.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The US and UK, with the support from a few other countries, have since launched strikes against targets in Houthi-controlled areas of Yemen. </p>
 
 {:start="12"}
 12. Turning to Europe, the authors note that Russia will likely press its advantage in Ukraine, which will create further security challenges. 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - On the one hand, support for Ukraine is a little wobbly. The US has failed to pass a Ukraine support bill, despite President Zelensky’s visit to Washington in December. Europe has also failed to agree to deliver financial assistance to Ukraine, at their December European Council meeting. Some estimate that US and European aid to Ukraine has fallen by almost 90% between August and October 2023, compared to the same period in 2022.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - At the same time, Russia’s war economy is said to be “roaring”, with a capacity to supply weapons that “far outpaces” Western capacity through to 2025. </p>
 
 {:start="13"}
 13. It is also pointed out that multilateral institutions are losing credibility, as they are often “used and abused” by advanced economies to serve their own interests. For example:  
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Efforts to reform the IMF, such as by increasing the voting shares of emerging countries like India and China have not made headway in the last 15 years, because the US and Europe want to preserve their privileges. </p>
 	
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The WTO dispute settlement mechanism and reforms have been hampered by the US, which has adopted a more unilateral trade policy. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - And, the UN has suffered a further blow in the eyes of developing countries who perceive that double standards are being shown by some Western countries, which have supported Ukraine against Russia, but blocked or abstained from resolutions on an immediate humanitarian ceasefire in the Gaza strip. </p>
 
 {:start="14"}
@@ -119,10 +120,10 @@ Ladies and Gentlemen
 {:start="21"}
 21. That must include having a clear and present interest in: 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Strong Deterrence, that will allow us to act in our national interests without being influenced by external pressures; and </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - It has to include Effective Diplomacy, which will enable us to improve mutual trust and understanding with other countries. So, I see the Ministry of Foreign Affairs as a key part of the arsenal of small countries certainly, and facilitate multilateral efforts to promote stability and common prosperity. </p>
 
 {:start="22"}
@@ -131,13 +132,13 @@ Ladies and Gentlemen
 {:start="23"}
 23. Let me explain this by touching on three points: 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - <u>One</u>: the importance of International Law;</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - <u>Two</u>: the reality of international power dynamics; and </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - <u>Three</u>: what Small States can do when Big Powers breach International Law. </p>
 
 {:start="24"}
@@ -163,16 +164,16 @@ Ladies and Gentlemen
 {:start="30"}
 30. The rules-based international order:
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Recognises the sovereign equality of all States, big and small.</p>   
  
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - It enshrines fundamental principles that promote peace and order – for example, the territorial integrity of all nations; the peaceful settlement of disputes in accordance with International Law.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - It gives all States a stake in the global commons. It provides a predictable set of rules to advance as well as defend their interests.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - It seeks to provide a stable environment for international trade and investment, which in turn promotes common prosperity.  </p>
 
 {:start="31"}
@@ -222,13 +223,13 @@ Ladies and Gentlemen
 {:start="45"}
 45. But Russia is a Big Power.
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Lots of Natural Resources. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - As a Permanent Member of the Security Council, it has vetoed resolutions condemning the invasion. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - So far, it has also withstood international backlash and economic sanctions. </p>
 
 {:start="46"}
@@ -270,16 +271,16 @@ Ladies and Gentlemen
 {:start="58"}
 58. It has generally been a benign power – and its pre-eminence and playing the role of Global Policeman post-WW II, has, in a large measure, helped inject a considerable measure of stability to the World. 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - As a result, many, especially smaller countries, including Singapore, have benefitted. And I will underline that Singapore’s prosperity or stability in the last 50-60 years, a large measure goes to the way the US has been a chief anchor of stability and international order in this region, and the actions that it has taken. So, let’s not mistake that. Many of us, including in Europe, owe our current state to the way the US has been a very responsible international power.</p>
 
 {:start="59"}
 59. But the US in the past has been willing to act contrary to its international obligations, to protect its interests. And any such lists, depending on who you ask, could take a long time to enumerate, but I will just mention two.
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - One example, in 1983, the US invaded Grenada. This was condemned by many States at the UN, including Singapore, as a violation of International Law.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - In the 1980s, the US supported military and paramilitary activities against the Nicaraguan government, and refused to participate in a case brought by Nicaragua before the International Court of Justice (ICJ). The ICJ held that the US’ actions were in breach of International Law.</p>
 
 {:start="60"}
@@ -299,10 +300,10 @@ Ladies and Gentlemen
 {:start="64"}
 64. Thus, it is important that we should come together to stand up for International Law.
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Call out when the Big States act contrary to International Law for their violations and their double standards. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Try and restore confidence in a rules-based international order. </p>
 
 {:start="65"}
@@ -320,23 +321,23 @@ Ladies and Gentlemen
 {:start="69"}
 69. For example, we have taken a firm stand against Russia’s invasion of Ukraine. 
 
-</p><p style="margin-left: 40px">
-- We co-sponsored and voted in favour of several UN resolutions condemning Russia’s aggression against Ukraine. </p>
+<p style="margin-left: 40px">
+ - We co-sponsored and voted in favour of several UN resolutions condemning Russia’s aggression against Ukraine. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - We imposed sanctions to constrain Russia’s capacity to conduct war against Ukraine. And everybody understands that sanctions Singapore imposes have a limited impact, but it is the point of principle.</p>
 
 {:start="70"}
 70. In the context of the Israel-Hamas war:
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Singapore has condemned the 7 October Hamas attacks as acts of terror. They are gross violations of International Law, and cannot be justified by any reason. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - At the same time, we have also co-sponsored and voted in favour of resolutions 
 that were overwhelmingly adopted by the UN General Assembly (GA), including the resolution calling for an immediate humanitarian ceasefire in Gaza.</p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - And we have repeatedly called on all parties to comply with their obligations under International Law, including International Humanitarian Law. </p>
 
 **(E) International Law At Work**
@@ -377,28 +378,28 @@ that were overwhelmingly adopted by the UN General Assembly (GA), including the 
 {:start="82"}
 82. It is an acknowledgement: 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - That International Law matters.  </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - That a poor track record of compliance can lead to a loss of legitimacy and credibility, and isolation on the world stage, even for a Big Power, like Russia.</p>
 
 {:start="83"}
 83. Second, the rules-based international order can be said to be functioning well in a number of areas. For example: 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The International Maritime Organization, and the International Civil Aviation Organization provide strong leadership on international cooperation in maritime &amp; civil aviation matters, in accordance with International Law.  </p> 
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - Last year, a treaty was concluded under UNCLOS, concerning Marine Biodiversity of Areas Beyond National Jurisdiction (BBNJ). This provides an international legal framework for the conservation and sustainable use of our ocean’s resources. This is quite important because “land grab”, as it were, could have continued without effective framework. The negotiations were presided over by Singapore’s Ambassador for International Law, Rena Lee. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - The recently concluded COP28 also made important strides in global climate action. Singapore co-facilitated negotiations on mitigation and the first Global Stocktake that contributed to the successful outcomes at COP28. </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - There are also ongoing efforts to shape international norms regarding the use of cyberspace. For example, our Permanent Representative to the UN, Ambassador Burhan Gafoor, is chairing a UN Open-ended Working Group, that is looking into this area.  </p>
 
-</p><p style="margin-left: 40px">
+<p style="margin-left: 40px">
 - States are also working on a pandemic treaty to better manage future transnational health threats. </p>
 
 {:start="84"}
@@ -422,4 +423,4 @@ that were overwhelmingly adopted by the UN General Assembly (GA), including the 
 89. Thank you.
 
 
-</p><p class="right-side-updated">Last updated on 17 January 2024</p>
+<p class="right-side-updated">Last updated on 17 January 2024</p>
