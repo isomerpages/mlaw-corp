@@ -14,7 +14,7 @@ variant: markdown
 1. Dear Ms. Almudena Arpón de Mendívil Aldama, President, International Bar Association,
 
 {:start="2"}
-2. We refer to your article dated 2 November 2023 titled, “Singapore: Ravi&nbsp; Madasamy receives IBA Human Rights Award 2023” published at [https://www.ibanet.org/Ravi-Madasamy-receives-IBA-Human-Rights-Award 2023](https://www.ibanet.org/Ravi-Madasamy-receives-IBA-Human-Rights-Award).
+2. We refer to your article dated 2 November 2023 titled, “Singapore: Ravi&nbsp; Madasamy receives IBA Human Rights Award 2023” published at [https://www.ibanet.org/Ravi-Madasamy-receives-IBA-Human-Rights-Award 2023](https://www.ibanet.org/Ravi-Madasamy-receives-IBA-Human-Rights-Award-2023).
 
 {:start="3"}
 3. Your article alleges, among other things, that “Mr Madasamy’s challenging&nbsp; of the Singaporean government has led to periodic restrictions on his license to practise law, including the imposition of personal cost orders” and that he was “suspended from practising law for five years in Singapore courts for criticising the prosecution’s conduct”.
