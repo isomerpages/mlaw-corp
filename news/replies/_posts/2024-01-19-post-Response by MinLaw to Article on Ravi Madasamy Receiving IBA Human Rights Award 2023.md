@@ -23,12 +23,12 @@ variant: markdown
 4. These allegations are untrue. Various costs orders and suspensions against Mr Madasamy were imposed by the courts consequent to Mr Madasamy’s repeated instances of professional misconduct. A list of these instances is set out in Annex A of this letter. These include:
 
 <p style="margin-left: 40px">
-(a) In 2016, Mr Madasamy was sanctioned by a Disciplinary Tribunal for mishandling client monies and making inappropriate statements about&nbsp; his client on video. In the same year, he was found by the Court of Three Judges to have conducted himself deplorably in relation to the judiciary,&nbsp; his clients and the legal profession as a whole following an incident recorded on video where he made inappropriate and racially-charged statements at the Law Society of Singapore’s premises. Due to his repeated misconduct, Mr Madasamy was prohibited by the Court of Three Judges from applying for a practicing certificate for two years (<b>paras 3 and 4 of Annex A</b>).</p>&nbsp;
+(a) In 2016, Mr Madasamy was sanctioned by a Disciplinary Tribunal for mishandling client monies and making inappropriate statements about&nbsp; his client on video. In the same year, he was found by the Court of Three Judges to have conducted himself deplorably in relation to the judiciary,&nbsp; his clients and the legal profession as a whole following an incident recorded on video where he made inappropriate and racially-charged statements at the Law Society of Singapore’s premises. Due to his repeated misconduct, Mr Madasamy was prohibited by the Court of Three Judges from applying for a practicing certificate for two years (<b>paras 3 and 4 of Annex A</b>).
 
-<p style="margin-left: 40px">
-(b) Mr Madasamy was subsequently allowed to return to legal practice under a conditional practicing certificate in 2019 which, among other&nbsp; things, mandated that he had to attend regular medical appointments to monitor his fitness to practice and act under the personal supervision of a supervising solicitor (<b>para 4 of Annex A</b>).</p>&nbsp;
+</p><p style="margin-left: 40px">
+(b) Mr Madasamy was subsequently allowed to return to legal practice under a conditional practicing certificate in 2019 which, among other&nbsp; things, mandated that he had to attend regular medical appointments to monitor his fitness to practice and act under the personal supervision of a supervising solicitor (<b>para 4 of Annex A</b>).
 
-<p style="margin-left: 40px">
+</p><p style="margin-left: 40px">
 (c) In disregard of these conditions, Mr Madasamy continued to engage in&nbsp; professional misconduct on multiple occasions from 2020 to 2023, including: repeatedly abusing the courts’ processes; making baseless allegations of improper conduct against the Attorney General’s Chambers and the Law Society of Singapore; and making unfounded allegations of bias against Judges, in contempt of court (<b>paras 5 to 9 of Annex A</b>).</p>
 
 {:start="5"}
@@ -42,9 +42,6 @@ Director-General (International &amp; Advisory)<br>
 Ministry of Law<br></b>
 
 19 January 2024
-
-  
-  
 
 <b><u>Annex A: Examples of improper and unprofessional conduct by Ravi Madasamy</u></b>
 
