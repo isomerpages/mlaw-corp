@@ -20,7 +20,7 @@ variant: markdown
 3. Your article alleges, among other things, that “Mr Madasamy’s challenging&nbsp; of the Singaporean government has led to periodic restrictions on his license to practise law, including the imposition of personal cost orders” and that he was “suspended from practising law for five years in Singapore courts for criticising the prosecution’s conduct”.
 
 {:start="4"}
-4. These allegations are untrue. Various costs orders and suspensions against Mr Madasamy were imposed by the courts consequent to Mr Madasamy’s repeated instances of professional misconduct. A list of these instances is set out in Annex A of this letter. These include:
+4. These allegations are untrue. Various costs orders and suspensions against Mr Madasamy were imposed by the courts consequent to Mr Madasamy’s repeated instances of professional misconduct. A list of these instances is set out in <b><u>Annex A</u></b> of this letter. These include:
 
 <p style="margin-left: 40px">
 (a) In 2016, Mr Madasamy was sanctioned by a Disciplinary Tribunal for mishandling client monies and making inappropriate statements about&nbsp; his client on video. In the same year, he was found by the Court of Three Judges to have conducted himself deplorably in relation to the judiciary,&nbsp; his clients and the legal profession as a whole following an incident recorded on video where he made inappropriate and racially-charged statements at the Law Society of Singapore’s premises. Due to his repeated misconduct, Mr Madasamy was prohibited by the Court of Three Judges from applying for a practicing certificate for two years (<b>paras 3 and 4 of Annex A</b>).
