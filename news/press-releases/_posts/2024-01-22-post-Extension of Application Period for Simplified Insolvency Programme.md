@@ -35,7 +35,7 @@ variant: markdown
 
  * * *
 
-<p><sup id="fn1">1. For more information on the SIP, refer to MinLaw’s press releases on <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme">5 October 2020</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme-commences">28 Jan 2021</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/extension-of-application-period-for-simplified-insolvency-programme">26 July 2021</a>,  and <a href="https://www.mlaw.gov.sg/news/press-releases/final-extension-of-application-period-for-the-simplified-insolvency-programme">28 July 2022</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn1">1. For more information on the SIP, refer to MinLaw’s press releases on <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme">5 October 2020</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/simplified-insolvency-programme-commences">28 January 2021</a>, <a href="https://www.mlaw.gov.sg/news/press-releases/extension-of-application-period-for-simplified-insolvency-programme">26 July 2021</a>,  and <a href="https://www.mlaw.gov.sg/news/press-releases/final-extension-of-application-period-for-the-simplified-insolvency-programme">28 July 2022</a>.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <p><sup id="fn2">2. For the purposes of the SIP, MSCs are defined as micro and small companies with an annual sales turnover not exceeding $1 million and $10 million, respectively.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
