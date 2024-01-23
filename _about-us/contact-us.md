@@ -4,11 +4,6 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 variant: markdown
 ---
-# **Closure of MinLaw Counter Services**
-
-The counter services for Ministry of Law Services Centre will close on 29 December 2023 (Friday), from 2:00pm for a staff event. Our services will resume on 2 January 2024 (Tuesday). 
-Thank you for your understanding.
-
 <style>
   .image {margin-bottom: 1em;}
 </style>
