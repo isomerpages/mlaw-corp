@@ -72,7 +72,7 @@ If you are unable to get through to us via the live chat, please use our enquiry
   </div>
 </div>
 
-Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every Thursday from 1800 hrs to 2359 hrs. Please also refer to [this page](https://www.mlaw.gov.sg/e-services/) for information regarding ad hoc maintenance.<br>
+Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every Thursday from 1800 hrs to 2359 hrs. Please also refer to [this page](https://www.mlaw.gov.sg/e-services/) for information regarding all system maintenance activities.<br>
 
 You can send us your feedback and enquiries on the following issues: 
 
