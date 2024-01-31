@@ -60,7 +60,7 @@ b. Second, we also encourage our law firms in Singapore to internationalise – 
 10. In as much as Shanghai represents a gateway into Greater China, Singapore also represents a gateway into ASEAN. I think there is a lot of mutual benefit that can come out of this relationship. I believe that the stronger we push on mutual responsibilities, mutual cooperation, the stronger we will be from mutual benefits for Singapore and China.
 
 {:start="11"}
-11. Indeed, we are very fortunate that both our legal as well as business community in Shanghai has been very welcoming of Singapore law firms – generously extending friendship to them, placing their trust in them, and working collaboratively with them.
+11. Indeed, we are very fortunate that both our legal as well as business communities in Shanghai have been very welcoming of Singapore law firms – generously extending friendship to them, placing their trust in them, and working collaboratively with them.
 
 {:start="12"}
 12. Indeed, in Singapore, we do the same for Chinese and also other foreign law firms. We make friends with them. We introduce them to other friends. We welcome them as part of our legal fraternity in Singapore. They are part of our events. Very often, at MinLaw, when we invite feedback from the practitioners and lawyers, we include foreign law practices, because they are a very important part of the legal ecosystem in Singapore.
