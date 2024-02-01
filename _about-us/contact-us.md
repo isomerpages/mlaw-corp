@@ -17,7 +17,7 @@ The Ministry of Law Services Centre will close on the following dates:
 | 9 February 2024, Friday     | 12pm     | 13 February 2024     |
 | 21 February 2023, Wednesday     | 12pm - 2pm     | 21 February 2024     |
 
-Kindly note that the last queue ticket will be issued 30 minutes before closure time.
+Kindly note that the last queue ticket will be issued at 11:30am.
 
 
 <!--#### **Urgent Maintenance Notice**
