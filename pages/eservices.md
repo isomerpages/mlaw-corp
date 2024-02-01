@@ -11,8 +11,7 @@ instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" r
 </p>
 <hr>
 <h4><strong>Maintenance Notices</strong></h4>
-<p>
-<br>Currently the Insolvency Office's (Bankruptcy) digital services are facing
+<p>Currently the Insolvency Office's (Bankruptcy) digital services are facing
 some intermittent issues. Our office is working on the resumption of the
 services and we apologise for any inconvenience caused.</p>
 <p>The following eServices are unavailable due to scheduled maintenance on
