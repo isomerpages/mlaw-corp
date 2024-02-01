@@ -8,6 +8,19 @@ variant: markdown
   .image {margin-bottom: 1em;}
 </style>
 
+## **Closure of the Ministry of Law Services Centre**
+The Ministry of Law Services Centre will close on the following dates: 
+
+
+| Closure Date | Closure Time | Resumption Date |
+| -------- | -------- | -------- |
+| 9 February 2024, Friday     | 12pm     | 13 February 2024     |
+| 21 February 2023, Wednesday     | 12pm - 2pm     | 21 February 2024     |
+
+Kindly note that the last queue ticket will be issued at 11:30am.
+<br>Thank you for your understanding. 
+
+
 <!--#### **Urgent Maintenance Notice**
 
 Minlaw will be conducting urgent maintenance activities on our hotline on 23 Oct 2023, from 0800 hrs to 2359hrs.  
