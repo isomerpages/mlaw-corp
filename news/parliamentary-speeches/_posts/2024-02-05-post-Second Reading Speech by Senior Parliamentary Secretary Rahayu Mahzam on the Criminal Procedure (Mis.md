@@ -18,16 +18,16 @@ variant: markdown
 {:start="2"}
 2.  Matlamat Pemerintah bagi sistem keadilan jenayah kita adalah memastikan keselamatan masyarakat terjamin; agar orang ramai boleh menjalani kehidupan mereka tanpa rasa bimbang tentang keselamatan diri masing-masing.
 
-<ul>(a) Singapura adalah antara negara paling selamat di dunia, dengan kadar jenayah yang rendah, sistem perundangan yang adil dan berkesan, dan pasukan polis yang boleh dipercayai. Ini penting demi kesejahteraan masyarakat dan ekonomi kita.</ul>
+<p style="margin-left: 40px">(a) Singapura adalah antara negara paling selamat di dunia, dengan kadar jenayah yang rendah, sistem perundangan yang adil dan berkesan, dan pasukan polis yang boleh dipercayai. Ini penting demi kesejahteraan masyarakat dan ekonomi kita.</p>
 
-<ul>(b) Kita sentiasa meraih kedudukan yang baik dalam bidang undang-undang serta ketenteraman dan keselamatan, dalam kajian dan tinjauan antarabangsa.</ul>
+<p style="margin-left: 40px">(b) Kita sentiasa meraih kedudukan yang baik dalam bidang undang-undang serta ketenteraman dan keselamatan, dalam kajian dan tinjauan antarabangsa.</p>
 
 {:start="3"}
 3.  Ini telah kita kecapi melalui:
 
-<ul>(a) Undang-undang jenayah yang keras;</ul>
-<ul>(b) Penguatkuasaan undang-undang yang berkesan oleh pihak Polis dan agensi penguatkuasaan undang-undang lain; dan</ul>
-<ul>(c) Prosedur jenayah yang adil dan berkesan.</ul>
+<p style="margin-left: 40px">(a) Undang-undang jenayah yang keras;</p>
+<p style="margin-left: 60px">(b) Penguatkuasaan undang-undang yang berkesan oleh pihak Polis dan agensi penguatkuasaan undang-undang lain; dan</p>
+<p style="margin-left: 40px">(c) Prosedur jenayah yang adil dan berkesan.</p>
 
 {:start="4"}
 4.  Kita perlu mengimbangi keinginan untuk melindungi hak individu, dan menjaga kepentingan masyarakat. Kita juga perlu sentiasa menyemak dan mengemaskinikan perundangan kita.
@@ -40,9 +40,9 @@ variant: markdown
 {:start="6"}
 6.  Tiga perubahan utama dicadangkan:
 
-<ul>(a) Pertama, kita akan menetapkan satu rangka kerja perundangan untuk pemeriksaan perubatan forensik (“FME”);</ul>
-<ul> (b) Kedua, kita akan memperkenalkan Hukuman untuk Perlindungan Awam Dipertingkat (“SEPP”) yang baru; dan</ul>
-<ul> (c) Ketiga, kita akan membuat pindaan kepada rejim pendedahan untuk kes jenayah kita.</ul>
+<p style="margin-left: 40px">(a) Pertama, kita akan menetapkan satu rangka kerja perundangan untuk pemeriksaan perubatan forensik (“FME”);</p>
+<p style="margin-left: 40px">(b) Kedua, kita akan memperkenalkan Hukuman untuk Perlindungan Awam Dipertingkat (“SEPP”) yang baru; dan</p>
+<p style="margin-left: 40px">(c) Ketiga, kita akan membuat pindaan kepada rejim pendedahan untuk kes jenayah kita.</p>
 
 <b>C. Rangka kerja perundangan bagi FME</b>
 
@@ -64,12 +64,12 @@ variant: markdown
 {:start="12"}
 12.  Kedua, kita adakan pendekatan yang berbeza untuk yang tertuduh dan mangsa.
     
-<ul>(a) Bagi yang tertuduh, Polis akan mempunyai kuasa untuk menghendaki mereka menjalani FME, walaupun mereka tidak memberi persetujuan.</ul>
+<p style="margin-left: 40px">(a) Bagi yang tertuduh, Polis akan mempunyai kuasa untuk menghendaki mereka menjalani FME, walaupun mereka tidak memberi persetujuan.</p>
 <ul><ul>(i) Ini kerana jika seseorang itu bersalah, orang itu berkemungkinan besar akan menolak untuk diperiksa, jika diberi pilihan.</ul></ul>
 <ul><ul>(ii) Kekerasan yang sewajarnya boleh digunakan untuk menjalankan FME, selagi ia tidak melibatkan bahagian badan yang sulit atau prosedur invasif.</ul></ul>
 <ul><ul>(iii) Adalah menjadi satu kesalahan untuk menolak menjalani FME tanpa alasan yang munasabah, dan yang tertuduh boleh dipenjarakan atau didenda, atau kedua-duanya.</ul></ul>
 <ul><ul>(iv) Mahkamah juga boleh membuat kesimpulan negatif daripada keengganan pihak tertuduh untuk menjalani FME.</ul></ul>
-<ul>(b) Bagi pihak mangsa, persetujuan biasanya diperlukan. Adalah penting untuk memastikan mangsa, terutamanya mereka yang telah mengalami serangan seksual, ditangani secara sensitif, untuk mengelakkan mereka daripada mengalami trauma semula.</ul>
+<p style="margin-left: 40px">(b) Bagi pihak mangsa, persetujuan biasanya diperlukan. Adalah penting untuk memastikan mangsa, terutamanya mereka yang telah mengalami serangan seksual, ditangani secara sensitif, untuk mengelakkan mereka daripada mengalami trauma semula.</p>
 <ul>(c) Jika tiada persetujuan, Polis secara amnya tidak akan meneruskan FME.</ul>
 <ul><ul>(i) Walau bagaimanapun, terdapat beberapa pengecualian, contohnya, jika mangsa berada dalam keadaan koma selepas serangan seksual dan bukti DNA akan hilang jika tidak dikumpulkan secepat mungkin.</ul></ul>
 <ul><ul>(ii) Skop pengecualian kepada persetujuan adalah ketat dan pihak Polis akan melaksanakan pengecualian tersebut secara bijaksana.</ul></ul>
