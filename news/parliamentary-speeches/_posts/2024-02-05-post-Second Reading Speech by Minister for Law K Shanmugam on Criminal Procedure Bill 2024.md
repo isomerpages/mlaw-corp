@@ -64,6 +64,7 @@ variant: markdown
 
 {:start="13"}
 13. The results are the safe and secure Singapore we have today.	
+
 {:start="14"}
 14. Whenever we talk about criminal law, every country will say they are trying to find the right balance between the interests of society, on the one hand, and the individual’s rights, on the other. But I think as we look around the world, there are serious questions as to whether the balance is being struck right. 	
 
@@ -182,7 +183,8 @@ variant: markdown
 36. This kind of conduct is highly reprehensible. Our society will not accept it. No society will accept it, but our society takes a very serious view of it. And the impact on the young girls is very devastating. Their lives – shattered. 	
 
 {:start="37"}
-37. We have to deal with this kind of menace. Protect our society.	
+37. We have to deal with this kind of menace and protect our society.	
+
 {:start="38"}
 38. Let me give you another example:	
 
@@ -272,6 +274,7 @@ variant: markdown
 
 {:start="51"}
 51. This is intended to replace and streamline the current Corrective Training (CT); and Preventive Detention (PD) regimes. 	
+
 {:start="52"}
 52. CT and PD were introduced in 1954, to deal with recalcitrant offenders.	
 
@@ -322,6 +325,7 @@ variant: markdown
 
 {:start="67"}
 67. In the case of victims, consent is generally required for FMEs.	 
+
 {:start="68"}
 68. However, there can be exceptions. 
 
