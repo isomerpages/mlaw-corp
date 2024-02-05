@@ -10,8 +10,7 @@ variant: markdown
 ---
 5 Feb 2024 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-**A.  Taklimat dan gambaran keseluruhan
-**    
+<b>A.  Taklimat dan gambaran keseluruhan</b>    
 
 {:start="1"}
 1.  Izinkan saya menyingkap semula apa yang telah disebutkan oleh Menteri Shanmugam tadi dan menggariskan prinsip utama yang menyokong sistem keadilan jenayah Singapura.&nbsp;
@@ -33,8 +32,7 @@ variant: markdown
 {:start="4"}
 4.  Kita perlu mengimbangi keinginan untuk melindungi hak individu, dan menjaga kepentingan masyarakat. Kita juga perlu sentiasa menyemak dan mengemaskinikan perundangan kita.
 
-**B. Cadangan pindaan di bawah Rang Undang-undang
-**
+<b>B. Cadangan pindaan di bawah Rang Undang-undang</b>
 
 {:start="5"}
 5.  Terdapat sekitar 20 set pindaan di bawah Rang Undang-undang ini, meliputi pelbagai aspek proses keadilan jenayah.
@@ -46,8 +44,7 @@ variant: markdown
 <ul> (b) Kedua, kita akan memperkenalkan Hukuman untuk Perlindungan Awam Dipertingkat (“SEPP”) yang baru; dan</ul>
 <ul> (c) Ketiga, kita akan membuat pindaan kepada rejim pendedahan untuk kes jenayah kita.</ul>
 
-**C. Rangka kerja perundangan bagi FME
-**    
+<b>C. Rangka kerja perundangan bagi FME</b>
 
 {:start="7"}
 7.  Saya akan menjelaskan sedikit tentang rangka kerja FME. FME secara amnya terdiri daripada pemeriksaan perubatan fizikal, pengumpulan sampel badan, dan pengambilan gambar bahagian tubuh badan. Melalui proses sedemikian, pihak Polis dapat mengumpul bukti forensik untuk siasatan.
@@ -78,8 +75,7 @@ variant: markdown
 <ul><ul>(ii) Skop pengecualian kepada persetujuan adalah ketat dan pihak Polis akan melaksanakan pengecualian tersebut secara bijaksana.</ul></ul>
 <ul><ul>(iii) Pihak Polis juga akan menunggu, sejauh mungkin, untuk mangsa pulih sebelum mendapatkan persetujuan.</ul></ul>
 
-**D. SEPP
-**    
+<b>D. SEPP</b>
 
 {:start="13"}
 13.  Beralih kepada SEPP. SEPP adalah perubahan ketara kepada landskap hukuman kita.
@@ -98,8 +94,7 @@ variant: markdown
 {:start="16"}
 16.  SEPP adalah respons kami.
     
-**Gambaran keseluruhan rejim dan pelindung SEPP
-**
+<b>Gambaran keseluruhan rejim dan pelindung SEPP</b>
 
 {:start="17"}
 17.  Terdapat keperluan ketat yang mesti dipenuhi sebelum Mahkamah boleh mengenakan SEPP.
@@ -118,8 +113,7 @@ variant: markdown
 {:start="19"}
 19.  Apabila mengenakan SEPP, Mahkamah akan menetapkan tempoh minimum tahanan antara 5 dan 20 tahun. Pesalah akan ditahan di penjara selama tempoh minimum ini, yang tidak boleh dipendekkan.
 
-**Bidang kuasa Menteri
-**
+<b>Bidang kuasa Menteri</b>
 
 {:start="20"}
 20.  Pada akhir tempoh minimum tersebut, pesalah akan dinilai semula dan hanya dibebaskan jika dinilai sesuai untuk dibebaskan oleh Menteri Ehwal Dalam Negeri, atas nasihat Lembaga Semakan Tahanan.
@@ -130,8 +124,7 @@ variant: markdown
 {:start="22"}
 22.  Kuasa Menteri tertakluk kepada pelindungan. Jika Menteri memutuskan untuk tidak melepaskan pesalah, Menteri mesti menyemak semula keputusan itu dalam tempoh setahun. Kesannya, kuasa Menteri hanya untuk menahan seseorang selama satu tahun lagi, sebelum status itu disemak lagi. Tambahan pula, keputusan Menteri tertakluk kepada semakan kehakiman atau judicial review.
 
-**Proses semakan
-**
+<b>Proses semakan</b>
 
 {:start="23"}
 23.  Proses semakan juga akan bersifat adil.
@@ -141,8 +134,7 @@ variant: markdown
 <ul>(b) Pesalah atau wakilnya, termasuk anggota keluarga atau penasihat undang-undang, akan dibenarkan membuat perwakilan.</ul>
 <ul>(c) Semua maklumat yang berkaitan akan diberikan kepada lembaga semakan dan, seterusnya, kepada Menteri, termasuk mengenai kelakuan dan kemajuan pesalah, dan penilaian risiko oleh seorang pakar psikiatri yang dilakukan secara bebas atau independen.</ul>
 
-**Penilaian risiko berasaskan bukti
-**
+<b>Penilaian risiko berasaskan bukti</b>
 
 {:start="24"}
 24.  Satu pelindung utama, baik di peringkat hukuman mahupun semakan, adalah penilaian pakar yang dilakukan secara bebas.
@@ -152,8 +144,7 @@ variant: markdown
 
 <ul>(a) Mereka akan menilai dengan teliti pelbagai faktor risiko, termasuk: keganasan masa lalu; tahap kefahaman pesalah tentang kelakuannya dan responsnya terhadap rawatan; dan sokongan yang sedia ada kepada pesalah apabila dibebaskan.</ul>
 
-**Pembebasan
-**
+<b>Pembebasan</b>
 
 {:start="26"}
 26.  Sekiranya Menteri mendapati pesalah sesuai untuk dibebaskan, pesalah akan dilepaskan dengan lesen dan tertakluk kepada syarat. Ini boleh termasuk kaunseling wajib, pemantauan elektronik atau perintah berkurung.
@@ -167,8 +158,7 @@ variant: markdown
 {:start="28"}
 28.  Sebaik sahaja dilepaskan dengan lesen, pesalah tersebut akan disemak sekurang-kurangnya setiap dua tahun, untuk memantau kemajuannya. Jika sesuai, pesalah boleh dibebaskan tanpa syarat dan hukuman diakhiri.
 
-**Manfaat SEPP
-**
+<b>Manfaat SEPP</b>
 
 {:start="29"}
 29.  Tuan Speaker, SEPP mempunyai banyak kebaikan, termasuk meningkatkan perlindungan masyarakat daripada bahaya, menggalakkan pemulihan kerana pesalah punya insentif yang kuat untuk memperbaiki diri dan ketetapan hukuman yang adil berdasarkan risiko.
@@ -176,8 +166,7 @@ variant: markdown
 {:start="30"}
 30.  Kita memperkenalkan rejim ini selepas mengkaji dengan teliti isu ini dan membuat kesimpulan bahawa ianya perlu demi melindungi orang ramai dengan lebih baik. Kita juga telah membincangkan pindaan ini secara meluas, termasuk mengadakan perundingan awam pada tahun 2021, dan telah mengambil cadangan yang dikemukakan.
 
-**E.  Introduction    
-**
+<b>E.  Introduction</b>
 
 {:start="31"}
 31.  I will now speak about the amendments to law enforcement powers, the proposed provisions on criminal disclosure regime, and other amendments to improve our court processes.&nbsp;
@@ -185,8 +174,7 @@ variant: markdown
 {:start="32"}
 32.  These proposed amendments aim to strengthen our levers to tackle crime and enhance transparency, fairness and coherence in our criminal procedure laws.&nbsp;
 
-**F.  Law enforcement powers amendments
-**    
+<b>F.  Law enforcement powers amendments</b> 
 
 {:start="33"}
 33.  Let me begin with law enforcement powers. Broadly, these amendments are intended to strengthen operational efficiency and investigative capabilities.&nbsp;
@@ -213,11 +201,9 @@ variant: markdown
 <ul>(b) To give another example, Clause 7 empowers non-Police LEAs to investigate bail and absconding offences arising from the predicate offences under their purview. Currently, such officers have to seek the Police’s assistance to investigate such offences.</ul>
 <ul><ul>(i) For greater efficiency, the relevant LEA, which is more familiar with the details of the case, will have the powers to investigate the bail and absconding offences committed by the same accused person and arising from the case which they are investigating.</ul></ul>
 
-**G.  Disclosure provisions
-**    
+<b>G.  Disclosure provisions</b> 
 
-**I. Overview
-**    
+<ul><b>I. Overview</b></ul>
 
 {:start="36"}
 36.  Moving on to the amendments on criminal disclosure, let me begin by providing an overview of our criminal disclosure laws.&nbsp;
@@ -247,8 +233,7 @@ variant: markdown
 <ul>(b) It was necessary for us to study how the existing common law regime interfaced with the CCD regime, as well as the overall aims of disclosure. We also considered how some areas of the common law regime, which had been left open by the Courts, should be addressed.</ul>
 <ul>(c) Even though it was working well, we also considered improvements to the statutory disclosure framework, after having observed it in practice for several years.</ul>
 
-**II.  Stakeholder consultations&nbsp;&nbsp;
-**    
+<ul><b>II.  Stakeholder consultations</b><ul>
 
 {:start="40"}
 40.  Disclosure is an important aspect of the criminal trial process, and has significant implications on the pre-trial and trial process. It was especially important for us to study the practical aspects, including the possible implications on prosecutors, defence counsel, the Courts and law enforcement agencies.&nbsp;&nbsp;
@@ -263,7 +248,7 @@ variant: markdown
 {:start="43"}
 43.  Ultimately, the regime requires all stakeholders to play their part to ensure procedural fairness. Prosecutors are expected to discharge their disclosure obligations dutifully. The AG has also said publicly that prosecutors take great care to comply with their disclosure obligations, in fairness to the Defence.&nbsp;
 
-**III.  Provisions to place the common law disclosure rules on a statutory footing&nbsp;**
+	<ul><b>III.  Provisions to place the common law disclosure rules on a statutory footing</b></ul>
 
 {:start="44"}
 44.  I will now take you through the proposed disclosure provisions. There are two key aspects.&nbsp;
@@ -291,8 +276,7 @@ variant: markdown
 <ul><ul>(i) Accused statements come from the accused,&nbsp; and are hence different from other types of unused material which the accused may not know about.</ul></ul>
 <ul><ul>(ii) The proposed rules are also consistent with the CCD regime, where accused statements which the Prosecution is not seeking to adduce as part of its case are required to be disclosed only after the accused has set out his defence in the CFD.</ul></ul>
 
-**IV.  Provisions to fine-tune the CCD regime
-**    
+	<ul><b>IV.  Provisions to fine-tune the CCD regime</b></ul>
 
 {:start="48"}
 48.  The second aspect of the disclosure provisions, in clauses 14, 15, 18, 19 and 22, involves fine-tuning aspects of the CCD regime.
@@ -322,8 +306,7 @@ variant: markdown
 {:start="53"}
 53.  As Members can see, the CCD regime ensures that the Defence receives material from the Prosecution before the trial commences. On the whole, the proposed disclosure provisions reflect our commitment to ensuring transparency and fairness in criminal proceedings.&nbsp;&nbsp;&nbsp;
 
-**H.  Other amendments to improve court processes
-**    
+<b>H.  Other amendments to improve court processes</b> 
 
 {:start="54"}
 54.  Now, moving on to the last set of amendments under the Bill, which are the amendments to improve efficiency in our court processes.&nbsp;
@@ -336,10 +319,9 @@ variant: markdown
 {:start="56"}
 56.  Finally, there are also amendments to smoothen and clarify the processes for several new regimes introduced previously, such as the dispensation of oral hearings in certain cases, the new unsoundness of mind regime, the Panel of Psychiatrists and the enhanced victim compensation regime.
 
-**I.  Conclusion
-**    
+<b>I.  Conclusion</b> 
 
 {:start="57"}
 57.  Mr Speaker, the Bill is a significant milestone in our criminal justice framework. The proposed amendments build on past reforms, and demonstrate our commitment towards building a fair and effective criminal justice system that protects society from crime.
 
-<p class="right-side-updated">Last updated on 5 February 2024</p>
+<p class="right-side-updated">Last updated on 5 February 2024</p></ul></ul>
