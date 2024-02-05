@@ -26,7 +26,7 @@ variant: markdown
 3.  Ini telah kita kecapi melalui:
 
 <p style="margin-left: 40px">(a) Undang-undang jenayah yang keras;</p>
-<p style="margin-left: 60px">(b) Penguatkuasaan undang-undang yang berkesan oleh pihak Polis dan agensi penguatkuasaan undang-undang lain; dan</p>
+<p style="margin-left: 40px">(b) Penguatkuasaan undang-undang yang berkesan oleh pihak Polis dan agensi penguatkuasaan undang-undang lain; dan</p>
 <p style="margin-left: 40px">(c) Prosedur jenayah yang adil dan berkesan.</p>
 
 {:start="4"}
