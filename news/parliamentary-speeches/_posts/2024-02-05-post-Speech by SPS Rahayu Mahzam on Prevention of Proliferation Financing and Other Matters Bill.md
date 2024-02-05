@@ -1,5 +1,6 @@
 ---
-title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on Prevention of Proliferation Financing and Other Matters Bill
+title: Second Reading Speech by Senior Parliamentary Secretary Rahayu Mahzam on
+  Prevention of Proliferation Financing and Other Matters Bill
 permalink: /news/parliamentary-speeches/2r-speech-sps-rahayu-mahzam-prevention-of-proliferation-financing-bill/
 date: 2024-02-05
 layout: post
@@ -34,7 +35,6 @@ Mr Speaker,
 
 {:start="8"}
 8. This would include the following sectors which come under the Ministry of Law, or MinLaw’s purview:
-
 <br>(a) Precious stones and precious metals dealers, or PSMDs;
 <br>(b) Moneylending;
 <br>(c) Pawnbroking; and
@@ -54,7 +54,6 @@ Mr Speaker,
 
 {:start="13"}
 13. This will be achieved through proposed amendments to four Acts, namely:
-
 <br>(a) The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act (“<b>PSPM Act</b>”);
 <br>(b) The Moneylenders Act;
 <br>(c) The Pawnbrokers Act; and
@@ -65,7 +64,6 @@ Mr Speaker,
 
 {:start="15"}
 15. As a brief background:
-
 <br>(a) The PSPM Act was enacted in 2019 to provide a comprehensive regulatory and supervisory regime to prevent dealings in precious stones and precious metals from being used to facilitate money laundering or terrorism financing.
 <br>(b) Since its enactment, MinLaw has continued to engage the PSMD sector for feedback, and to review our measures and practices, emerging risks, global trends and developments, and international standards.
 <br>(c) The proposed amendments today are the culmination of these engagements and reviews.
@@ -79,13 +77,11 @@ Mr Speaker,
 
 {:start="17"}
 17. First, the Bill updates the PSPM Act, Moneylenders Act, Pawnbrokers Act, and Legal Profession Act to:
-
 <br>(a) Clearly align the regulatory regime for the PSMD, moneylending, pawnbroking, and legal services sectors with the updated FATF standards; and
 <br>(b) Require businesses or persons covered by these Acts to implement adequate measures to counter proliferation financing.
 
 {:start="18"}
 18. Examples of required measures include:
-
 <br>(a) Performing risk assessment; and
 <br>(b) Developing and implementing internal policies, procedures, and controls to counter proliferation financing.
 
@@ -97,7 +93,6 @@ Mr Speaker,
 
 {:start="21"}
 21. In particular, the Bill includes amendments to prevent persons convicted of offences relating to the prevention of financial crimes from:
-
 <br>(a) Obtaining relevant licenses, or
 <br>(b) Holding management functions in moneylending and pawnbroking businesses.
 
@@ -116,7 +111,6 @@ Mr Speaker,
 
 {:start="25"}
 25. Under the current definition, “precious product” means any jewellery, watch, apparel, accessory, ornament, or other finished product —
-
 <br>(a) Made up of, containing, or having attached to it, any PSPM; and
 <br>(b) Where at least 50% of the value of the product is attributable to the PSPM.
 
@@ -169,7 +163,6 @@ Mr Speaker,
 
 {:start="39"}
 39. For instance, the Registrar may order them to pay financial penalties:
-
 <br>(a) If they had failed to comply with the registration conditions, or
 <br>(b) If their registration was obtained through fraud or misrepresentation.
 
@@ -183,13 +176,11 @@ Mr Speaker,
 
 {:start="42"}
 42. This will mitigate the risk of PSMDs misusing their registration status:
-
 <br>(a) To gain access to the financial system to conduct illicit transactions, or
 <br>(b) To create an erroneous impression that their businesses are regulated by MinLaw, for any purpose other than the prevention of financial crimes.
 
 {:start="43"}
 43. Clause 7 of the Bill introduces a new section 9A to provide that the registration of a registered PSMD lapses:
-
 <br>(a) If the PSMD, as an entity, is wound up or otherwise dissolved, or
 <br>(b) If the PSMD, as a sole proprietor, dies.
 
@@ -206,7 +197,6 @@ Mr Speaker,
 
 {:start="47"}
 47. Sir, in conclusion, the Bill will
-
 <br>(a) Allow clear alignment of the regulatory regimes for the PSMD, moneylending, pawnbroking, and legal services sectors with updated FATF requirements;
 <br>(b) Strengthen the regulatory regime for PSMDs; and
 <br>(c) Improve operational effectiveness in regulating PSMDs.
