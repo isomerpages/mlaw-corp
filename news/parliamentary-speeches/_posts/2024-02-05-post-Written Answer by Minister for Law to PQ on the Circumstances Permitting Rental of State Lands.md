@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-5 February 2024 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)&nbsp;
+5 February 2024 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 Mr Leong Mun Wai (Non-Constituency Member of Parliament)
 
