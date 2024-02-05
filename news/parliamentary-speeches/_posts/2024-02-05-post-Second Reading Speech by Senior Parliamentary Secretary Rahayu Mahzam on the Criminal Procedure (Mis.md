@@ -233,7 +233,6 @@ variant: markdown
 <ul>(b) It was necessary for us to study how the existing common law regime interfaced with the CCD regime, as well as the overall aims of disclosure. We also considered how some areas of the common law regime, which had been left open by the Courts, should be addressed.</ul>
 <ul>(c) Even though it was working well, we also considered improvements to the statutory disclosure framework, after having observed it in practice for several years.</ul>
 
-<br>
 <ul><b>II.  Stakeholder consultations</b></ul>
 
 {:start="40"}
@@ -278,7 +277,6 @@ variant: markdown
 <ul><ul>(i) Accused statements come from the accused,&nbsp; and are hence different from other types of unused material which the accused may not know about.</ul></ul>
 <ul><ul>(ii) The proposed rules are also consistent with the CCD regime, where accused statements which the Prosecution is not seeking to adduce as part of its case are required to be disclosed only after the accused has set out his defence in the CFD.</ul></ul>
 
-<br>
 <ul><b>IV.  Provisions to fine-tune the CCD regime</b></ul>
 	
 {:start="48"}
