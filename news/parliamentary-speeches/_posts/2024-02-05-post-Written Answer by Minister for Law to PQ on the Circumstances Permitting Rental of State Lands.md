@@ -9,7 +9,7 @@ variant: markdown
 ---
 5 February 2024 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-Mr Leong Mun Wai (Non-Constituency Member of Parliament)
+**Mr Leong Mun Wai (Non-Constituency Member of Parliament)**
 
 <b><u>Question</u></b>
 <br>To ask the Minister for Law (a) other than temporary hawker centres, what other circumstances are state lands allowed to be rented to private individuals at zero cost or below market cost; and (b) what are the justifications for doing so.
