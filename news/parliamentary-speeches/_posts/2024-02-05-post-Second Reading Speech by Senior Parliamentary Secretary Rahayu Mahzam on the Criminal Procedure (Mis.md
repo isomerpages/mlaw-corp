@@ -184,13 +184,13 @@ variant: markdown
 {:start="34"}
 34.  The first category of the amendments will update, enhance and clarify Police powers.
 
-<p style="margin-left: 40px">(a) Clause 10 empowers the Police to search suspects at the point of arrest to detect and remove dangerous items from them. This is to prevent arrested persons from possibly using these items to harm themselves or others (such as the arresting officers and passers-by).</p>
-<p style="margin-left: 40px">(b) Clause 3 removes the requirement for the Police to physically proceed to the crime scene when investigating arrestable offences, which, with advancements in technology and changes in the profile of crimes, is no longer always necessary or relevant. To be clear, the CPC currently already provides for circumstances where the Police need not investigate into arrestable offences and there is no change to this with the proposed amendments.</p>
+<p style="margin-left: 40px">(a) Clause 10 empowers the Police to search suspects at the point of arrest to detect and remove dangerous items from them. This is to prevent arrested persons from possibly using these items to harm themselves or others, such as the arresting officers and passers-by.</p>
+<p style="margin-left: 40px">(b) Clause 3 removes the requirements for the Police to physically proceed to the crime scene when investigating arrestable offences, which, with advancements in technology and changes in the profile of crimes, is no longer always necessary or relevant. To be clear, the CPC currently already provides for circumstances where the Police need not investigate into arrestable offences and there is no change to this with the proposed amendments.</p>
 <p style="margin-left: 40px">(c) Clause 5 allows the Police to conduct a search without warrant at a place when they have reason to believe that the relevant evidence is in the possession or power of a suspect of an arrestable offence.</p>
-<p style="margin-left: 60px">(i) Currently, the Police can already perform a search without warrant for arrestable offences in certain circumstances. For example, if the Police have reason to believe that a suspect would be uncooperative or is likely to destroy the evidence before a search can be conducted.</p>
+<p style="margin-left: 60px">(i) Currently, the Police can already perform a search without warrant for arrestable offences in certain circumstances. For example, the Police have reason to believe that a suspect would be uncooperative or is likely to destroy the evidence before a search can be conducted.</p>
 <p style="margin-left: 60px">(ii) The difficulty is that it is not always straightforward for Police to make such a determination at the onset. Often, Police can only reasonably assess the cooperativeness of a suspect after having engaged him or her or sent the production order. Requiring that the Police do so in all cases is not practicable as that would put the suspects on notice and allow them to tamper or destroy evidence.</p>
 <p style="margin-left: 60px">(iii) The amendment is a practical one that allows for more effective Police investigations.</p>
-<p style="margin-left: 60px">(iv) I would like to highlight that several pre-requisites must be fulfilled before the Police can exercise this power. First, they must be investigating an arrestable offence. Second, the Police must have reason to believe that the document or thing is in the possession or control of a person, reasonably suspected of having committed the offence. This clause does not give the Police carte blanche powers to search anyone or anything. It also does not give the Police powers to frisk and search individuals walking along the streets just because the Police find them suspicious.</p>
+<p style="margin-left: 60px">(iv) I would like to highlight that several pre-requisites must be fulfilled before the Police can exercise this power. First, they must be investigating an arrestable offence. Second, the Police must have reason to believe that the document or thing is in the possession or control of a person, reasonably suspected of having committed the offence. This clause does not give the Police carte blanche powers to search anyone or anything. It also does not give the Police powers to frisk or search individuals walking along the streets just because the Police find them suspicious.</p>
 
 {:start="35"}
 35.  The second category of the amendments will expand the powers of certain non-Police LEAs.
@@ -198,9 +198,9 @@ variant: markdown
 <p style="margin-left: 40px">(a) Clause 11 empowers CNB officers, immigration officers and prison officers to pursue and arrest a person who has escaped from the lawful custody of their respective agency, another specified LEA, or a prescribed LEA.</p>
 <p style="margin-left: 60px">(i) Currently, only the Police and the officer from whose custody a person has escaped are empowered to pursue and arrest him.</p>
 <p style="margin-left: 60px">(ii) However, officers from CNB, ICA and Prisons can also play significant roles in arrest operations. For instance, ICA officers may come across the person at the checkpoint and can arrest him.</p>
-<p style="margin-left: 60px">(iii) This amendment will enhance joint Home Team operations and allow the Home Team Departments to operate more effectively together.</p>
+<p style="margin-left: 60px">(iii) This amendment will enhance the joint Home Team operations and allow the Home Team Departments to operate more effectively together.</p>
     
-<p style="margin-left: 40px">(b) To give another example, Clause 7 empowers non-Police LEAs to investigate bail and absconding offences arising from the predicate offences under their purview. Currently, such officers have to seek the Police’s assistance to investigate such offences.</p>
+<p style="margin-left: 40px">(b) To give another example, Clause 7 empowers non-Police LEAs to investigate bail and absconding offences arising from the predicate offences under their purview. Currently, such officers will have to seek the Police’s assistance to investigate such offences.</p>
 <p style="margin-left: 60px">(i) For greater efficiency, the relevant LEA, which is more familiar with the details of the case, will have the powers to investigate the bail and absconding offences committed by the same accused person and arising from the case which they are investigating.</p>
 
 <b>G.  Disclosure provisions</b> 
@@ -221,7 +221,7 @@ variant: markdown
     
 <p style="margin-left: 40px">(a) First, under the Kadar disclosure obligations (“KDO”), the Prosecution must disclose unused material that tends to undermine the Prosecution’s case or strengthen the Defence’s case, and is likely to be either:</p>
 <p style="margin-left: 60px">(i) Admissible, and that might reasonably be regarded as credible and relevant to the guilt or innocence of the accused; or</p>
-<p style="margin-left: 60px">(ii) Inadmissible, but would provide a real (not fanciful) chance of pursuing a line of inquiry that leads to material that is likely to be admissible, and that might reasonably be regarded as credible and relevant to the guilt or innocence of the accused.</p>
+<p style="margin-left: 60px">(ii) Inadmissible, but would provide a real, not fanciful chance of pursuing a line of inquiry that leads to material that is likely to be admissible, and might reasonably be regarded as credible and relevant to the guilt or innocence of the accused.</p>
 <p style="margin-left: 40px">Put simply, the Prosecution must disclose to the Defence unused material that may be helpful to the accused.</p>
 
 <p style="margin-left: 40px">(b) Second, under the Additional Disclosure Obligations (“ADO”), the Prosecution must disclose statements of material witnesses who are not called as Prosecution witnesses.</p>
@@ -242,13 +242,13 @@ variant: markdown
 <p style="margin-left: 40px">(a) While the initial set of disclosure proposals were ready in early 2021, we took time to finalise them because of our extensive consultations with the various stakeholders, including the Defence Bar, AGC, and the Courts.</p>
 
 {:start="41"}
-41.  As Minister Shanmugam had stated earlier, these proposals were arrived at after extensive discussions with the Defence Bar. We presented the proposals to criminal practitioners and members of the Law Society in 2021, and they provided extensive feedback over multiple consultation sessions through to late 2023. Some of the proposals were adjusted significantly, following the feedback received.
+41.  These proposals were arrived at after extensive discussions with the Defence Bar. We presented the proposals to criminal practitioners and members of the Law Society in 2021, and they provided extensive feedback over multiple consultation sessions through to late 2023. Some of the proposals were adjusted significantly, following the feedback received.
 
 {:start="42"}
 42.  While we did not agree with the Bar on every point, we explained the rationale for the proposals, and had candid and robust discussions. Through this process, we were assured that the viewpoints and implications on the various stakeholders, including the Defence and the Prosecution, have been considered, to ensure that our proposed amendments are fair.
 
 {:start="43"}
-43.  Ultimately, the regime requires all stakeholders to play their part to ensure procedural fairness. Prosecutors are expected to discharge their disclosure obligations dutifully. The AG has also said publicly that prosecutors take great care to comply with their disclosure obligations, in fairness to the Defence.
+43.  Ultimately, the regime requires all stakeholders to play their part to ensure procedural fairness. Prosecutors are expected to discharge their disclosure obligations dutifully. The AG has also publicly said that prosecutors take great care to comply with their disclosure obligations, in fairness to the Defence.
 <br>
 <p style="margin-left: 40px"><b>III.  Provisions to place the common law disclosure rules on a statutory footing</b></p>
 
@@ -270,12 +270,12 @@ variant: markdown
 <p style="margin-left: 60px">(i) Moving the ADO to after the accused has committed to a defence either in the CFD or in his testimony is more consistent with the sequential and reciprocal nature of the CCD regime, where the accused will generally only receive material after filing the CFD.</p>
 <p style="margin-left: 60px">(ii) I would also highlight that statements of material witnesses that are helpful to the accused will be disclosed earlier, pursuant to the KDO. This would take place when the Case for the Prosecution (“CFP”) is filed, in CCD cases; or, in non-CCD cases, before the trial commences.</p>
 <p style="margin-left: 60px">(iii) Accused persons are expected to state their defence honestly. Generally, they would be able to do so, based on what they know.</p>
-<p style="margin-left: 60px">(iv) However, we also considered feedback that there may be cases where accused persons decide to change their defence after obtaining new material disclosed under the ADO. There were concerns that in cases where the new defence is a genuine one which the accused could not have known about earlier, an adverse inference could be unfairly drawn against the accused.</p>
+<p style="margin-left: 60px">(iv) However, we have also considered feedback that there may be cases where accused persons decide to change their defence after obtaining new material disclosed under the ADO. There were concerns that in cases where the new defence is a genuine one which the accused could not have known about earlier, an adverse inference could be unfairly drawn against the accused.</p>
 <p style="margin-left: 60px">(v) We want to be clear that accused persons will not be prevented from running a new or different defence, which was genuinely uncovered after the Defence obtained new material disclosed under the ADO.</p>
 <p style="margin-left: 60px">(vi) If the accused decides to run a new or different defence based on new material disclosed under the ADO, he can explain his reasons for the change. The Court will consider the accused’s explanation for changing his defence, and accordingly assess what, if any, inference should be drawn.</p>
     
 <p style="margin-left: 40px">(b) Next, we will also provide rules for the disclosure of unused accused statements, specifically, that (a) unused accused statements are outside the scope of KDO; and&nbsp;(b) in non-CCD cases or CCD cases where the CFD is not filed, unused accused statements relevant to the charge are required to be disclosed only after the accused has testified or elected not to testify.</p>
-<p style="margin-left: 60px">(i) Accused statements come from the accused,&nbsp; and are hence different from other types of unused material which the accused may not know about.</p>
+<p style="margin-left: 60px">(i) Accused statements come from the accused, and are hence different from other types of unused material which the accused may not know about.</p>
 <p style="margin-left: 60px">(ii) The proposed rules are also consistent with the CCD regime, where accused statements which the Prosecution is not seeking to adduce as part of its case are required to be disclosed only after the accused has set out his defence in the CFD.</p>
 
 <p style="margin-left: 40px"><b>IV.  Provisions to fine-tune the CCD regime</b></p>
@@ -293,14 +293,14 @@ variant: markdown
     
 <p style="margin-left: 40px">(b) Second, we will make it compulsory for the accused to file a CFD after receiving the CFP, in High Court cases.</p>
 <p style="margin-left: 60px">(i) As the CCD regime was novel when it was introduced in 2011, we took an incremental approach.</p>
-<p style="margin-left: 60px">(ii) Today, CFDs are regularly filed for most State Court CCD trials, and this has contributed to a more efficient criminal justice system. When parties file the CFP and the CFD, this facilitates a clearer identification of the disputed issues, which in turn makes the trial more focused and efficient.</p>
+<p style="margin-left: 60px">(ii) Today, CFDs are regularly filed for most State Court CCD trials, and this has contributed to a more efficient criminal justice system. When parties file the CFP and the CFD, this facilitates clearer identification of the disputed issues, which in turn makes the trial more focused and efficient.</p>
 <p style="margin-left: 60px">(iii) Requiring the Defence to file a CFD also avoids potential delays that may arise from the belated disclosure of the Defence’s case, which may arise due to a need for further investigations to verify the accused’s claims or having to recall witnesses.</p>
-<p style="margin-left: 60px">(iv) The proposed changes will align the position in High Court cases with that for State Court cases. Given the complexity of trials in the High Court and the severe consequences involved, it is essential that parties can prepare for trial and assess their cases more fully.</p>
+<p style="margin-left: 60px">(iv) The proposed changes will align the position in High Court cases with that of State Court cases. Given the complexity of trials in the High Court and the severe consequences involved, it is essential that parties can prepare for trial and assess their cases more fully.</p>
 <p style="margin-left: 60px">(v) Finally, a clear articulation of the accused’s defence in the CFD will help the Prosecution to identify relevant evidence, including evidence that may be helpful to the Defence, and better comply with its KDO and ADO.</p>
 
 {:start="51"}
 51.  The proposed provisions will also further fine-tune other aspects of the CCD regime:
-<p style="margin-left: 40px">(a) For example, we will enhance consistency between the Prosecution’s CCD obligations in State Courts cases and High Court cases, by requiring the Prosecution to file a summary of facts in support of the charge in High Court CCD cases, similar to State Court cases.</p>
+<p style="margin-left: 40px">(a) For example, we will enhance consistency between the Prosecution’s CCD obligations in the State Courts cases and High Court cases, by requiring the Prosecution to file a summary of facts in support of the charge in High Court CCD cases, similar to State Court cases.</p>
 
 {:start="52"}
 52.  With your permission, Mr Speaker, may I ask the Clerks to distribute a handout detailing an overview of the post-amendment disclosure framework in CCD cases? Members may also access these materials through the MP@SGPARL App.
