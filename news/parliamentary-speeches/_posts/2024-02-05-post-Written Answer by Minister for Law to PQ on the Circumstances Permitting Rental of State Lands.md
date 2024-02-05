@@ -12,7 +12,6 @@ variant: markdown
 Mr Leong Mun Wai (Non-Constituency Member of Parliament)
 
 <b><u>Question</u></b>
-
 <br>To ask the Minister for Law (a) other than temporary hawker centres, what other circumstances are state lands allowed to be rented to private individuals at zero cost or below market cost; and (b) what are the justifications for doing so.
 
 <b><u>Written Answer:</u></b>
