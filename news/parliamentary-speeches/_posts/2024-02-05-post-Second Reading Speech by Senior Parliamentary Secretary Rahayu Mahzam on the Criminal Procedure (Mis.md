@@ -70,7 +70,7 @@ variant: markdown
 <ul><ul>(iii) Adalah menjadi satu kesalahan untuk menolak menjalani FME tanpa alasan yang munasabah, dan yang tertuduh boleh dipenjarakan atau didenda, atau kedua-duanya.</ul></ul>
 <ul><ul>(iv) Mahkamah juga boleh membuat kesimpulan negatif daripada keengganan pihak tertuduh untuk menjalani FME.</ul></ul>
 <p style="margin-left: 40px">(b) Bagi pihak mangsa, persetujuan biasanya diperlukan. Adalah penting untuk memastikan mangsa, terutamanya mereka yang telah mengalami serangan seksual, ditangani secara sensitif, untuk mengelakkan mereka daripada mengalami trauma semula.</p>
-<ul>(c) Jika tiada persetujuan, Polis secara amnya tidak akan meneruskan FME.</ul>
+<p style="margin-left: 40px">(c) Jika tiada persetujuan, Polis secara amnya tidak akan meneruskan FME.</p>
 <ul><ul>(i) Walau bagaimanapun, terdapat beberapa pengecualian, contohnya, jika mangsa berada dalam keadaan koma selepas serangan seksual dan bukti DNA akan hilang jika tidak dikumpulkan secepat mungkin.</ul></ul>
 <ul><ul>(ii) Skop pengecualian kepada persetujuan adalah ketat dan pihak Polis akan melaksanakan pengecualian tersebut secara bijaksana.</ul></ul>
 <ul><ul>(iii) Pihak Polis juga akan menunggu, sejauh mungkin, untuk mangsa pulih sebelum mendapatkan persetujuan.</ul></ul>
@@ -79,14 +79,14 @@ variant: markdown
 
 {:start="13"}
 13.  Beralih kepada SEPP. SEPP adalah perubahan ketara kepada landskap hukuman kita.
-<ul>(a) Kini, seseorang pesalah yang dijatuhkan hukuman penjara, dipenjarakan selama satu tempoh tetap yang ditentukan oleh Mahkamah, dan mesti dibebaskan tanpa syarat selepas tempoh itu.</ul>
-<ul>(b) Walau bagaimanapun, terdapat sekumpulan kecil pesalah berisiko tinggi yang masih menimbulkan bahaya kepada orang ramai pada masa dibebaskan, seperti pesalah seksual bersiri.</ul>
-<ul>(c) Undang-undang pada masa ini tidak membolehkan kita menahan pesalah sebegini dari keluar penjara atau mengenakan sebarang syarat untuk pembebasan mereka, walaupun mereka berkemungkinan mengulangi kesalahan mereka.</ul>
+<p style="margin-left: 40px">(a) Kini, seseorang pesalah yang dijatuhkan hukuman penjara, dipenjarakan selama satu tempoh tetap yang ditentukan oleh Mahkamah, dan mesti dibebaskan tanpa syarat selepas tempoh itu.</p>
+<p style="margin-left: 40px">(b) Walau bagaimanapun, terdapat sekumpulan kecil pesalah berisiko tinggi yang masih menimbulkan bahaya kepada orang ramai pada masa dibebaskan, seperti pesalah seksual bersiri.</p>
+<p style="margin-left: 40px">(c) Undang-undang pada masa ini tidak membolehkan kita menahan pesalah sebegini dari keluar penjara atau mengenakan sebarang syarat untuk pembebasan mereka, walaupun mereka berkemungkinan mengulangi kesalahan mereka.</p>
 
 {:start="14"}
 14.  Sebentar tadi, Menteri Shanmugam memberi contoh beberapa kes yang tragis dan mengerikan di mana pesalah melakukan jenayah yang serius sejurus selepas dibebaskan dari penjara dan juga merujuk kepada senarai kes-kes sedemikian. Izinkan saya berkongsi satu lagi contoh.&nbsp;
 
-<ul>(a) Pada tahun 2020, seorang pesalah telah disabitkan kerana melakukan penderaan seksual terhadap anak perempuan teman wanitanya yang berumur lapan tahun dan anak lelaki berusia sembilan tahun; kedua-duanya mempunyai IQ rendah. Pesalah tersebut telah menyerang mereka secara seksual, memaksa mereka menonton video yang memaparkan kelakuan seksual, dan melakukan perbuatan tidak senonoh sambil merakam mereka. Kanak-kanak tersebut menurut perintahnya kerana mereka tidak berdaya dan takut kepada pesalah. Pesalah telah mula melakukan kesalahan yang serius ini hanya dua tahun selepas dia dibebaskan dari penjara. Beliau asalnya dipenjarakan kerana melakukan penderaan seksual terhadap anak perempuannya sendiri yang berusia empat tahun.</ul>
+<p style="margin-left: 40px">(a) Pada tahun 2020, seorang pesalah telah disabitkan kerana melakukan penderaan seksual terhadap anak perempuan teman wanitanya yang berumur lapan tahun dan anak lelaki berusia sembilan tahun; kedua-duanya mempunyai IQ rendah. Pesalah tersebut telah menyerang mereka secara seksual, memaksa mereka menonton video yang memaparkan kelakuan seksual, dan melakukan perbuatan tidak senonoh sambil merakam mereka. Kanak-kanak tersebut menurut perintahnya kerana mereka tidak berdaya dan takut kepada pesalah. Pesalah telah mula melakukan kesalahan yang serius ini hanya dua tahun selepas dia dibebaskan dari penjara. Beliau asalnya dipenjarakan kerana melakukan penderaan seksual terhadap anak perempuannya sendiri yang berusia empat tahun.</p>
 
 {:start="15"}
 15.  Berbangkit daripada kes-kes sebegini, Pemerintah telah meninjau cara-cara untuk melindungi orang ramai dengan lebih baik daripada pesalah berbahaya sedemikian.
@@ -99,16 +99,16 @@ variant: markdown
 {:start="17"}
 17.  Terdapat keperluan ketat yang mesti dipenuhi sebelum Mahkamah boleh mengenakan SEPP.
 
-<ul>(a) Pertama, SEPP hanya boleh dikenakan bagi kesalahan yang sangat serius, yang akan dinyatakan dalam perundangan. Kesalahan-kesalahan ini termasuk homisid atau pembunuhan, percubaan membunuh, rogol dan penetrasi seksual kanak-kanak bawah umur.</ul>
-<ul>(b) Kedua, terdapat prasyarat ketat yang perlu dipenuhi sebelum SEPP boleh dikenakan.</ul>
-<ul>(c) Ketiga, SEPP hanya digunakan untuk pesalah dewasa berumur 21 tahun dan ke atas pada masa kesalahan berlaku.</ul>
+<p style="margin-left: 40px">(a) Pertama, SEPP hanya boleh dikenakan bagi kesalahan yang sangat serius, yang akan dinyatakan dalam perundangan. Kesalahan-kesalahan ini termasuk homisid atau pembunuhan, percubaan membunuh, rogol dan penetrasi seksual kanak-kanak bawah umur.</p>
+<p style="margin-left: 40px">(b) Kedua, terdapat prasyarat ketat yang perlu dipenuhi sebelum SEPP boleh dikenakan.</p>
+<p style="margin-left: 40px">(c) Ketiga, SEPP hanya digunakan untuk pesalah dewasa berumur 21 tahun dan ke atas pada masa kesalahan berlaku.</p>
 <ul><ul>(i) Ini adalah selaras dengan pendekatan umum kita berkenaan hukuman terhadap pesalah muda, di mana tumpuan utama adalah pada pemulihan.</ul></ul>
 
 {:start="18"}
 18.  Memandangkan SEPP adalah bentuk hukuman, Mahkamahlah yang akan memutuskan sama ada untuk mengenakan SEPP.
 
-<ul>(a) Ini biasanya dilakukan selepas mempertimbangkan laporan penilaian risiko oleh Institut Kesihatan Mental (IMH) yang dilakukan secara bebas. Pihak Pembela juga boleh mengemukakan laporan pakarnya sendiri. Prosedur mahkamah akan digunakan pada peringkat ini. Rayuan juga boleh difailkan jika pihak Pendakwa atau Pembela tidak berpuas hati dengan keputusan Mahkamah.</ul>
-<ul>(b) Mahkamah akan kekal punya budi bicara untuk tidak mengenakan SEPP, contohnya, jika hukuman yang kurang berat masih dapat mencapai matlamat perlindungan awam.</ul>
+<p style="margin-left: 40px">(a) Ini biasanya dilakukan selepas mempertimbangkan laporan penilaian risiko oleh Institut Kesihatan Mental (IMH) yang dilakukan secara bebas. Pihak Pembela juga boleh mengemukakan laporan pakarnya sendiri. Prosedur mahkamah akan digunakan pada peringkat ini. Rayuan juga boleh difailkan jika pihak Pendakwa atau Pembela tidak berpuas hati dengan keputusan Mahkamah.</p>
+<p style="margin-left: 40px">(b) Mahkamah akan kekal punya budi bicara untuk tidak mengenakan SEPP, contohnya, jika hukuman yang kurang berat masih dapat mencapai matlamat perlindungan awam.</p>
 
 {:start="19"}
 19.  Apabila mengenakan SEPP, Mahkamah akan menetapkan tempoh minimum tahanan antara 5 dan 20 tahun. Pesalah akan ditahan di penjara selama tempoh minimum ini, yang tidak boleh dipendekkan.
@@ -129,10 +129,10 @@ variant: markdown
 {:start="23"}
 23.  Proses semakan juga akan bersifat adil.
     
-<ul>(a) Akan ada Lembaga Semakan Tahanan yang akan menilai setiap pesalah di bawah SEPP.</ul>
+<p style="margin-left: 40px">(a) Akan ada Lembaga Semakan Tahanan yang akan menilai setiap pesalah di bawah SEPP.</p>
 <ul><ul>(i) Lembaga semakan akan terdiri daripada mereka yang berpengalaman dalam bidang psikiatri atau psikologi forensik, atau pengalaman dengan sistem keadilan jenayah. Ini mungkin termasuk hakim bersara dan pesuruhjaya kehakiman bersara, peguam kanan atau pakar psikologi dan psikiatri.</ul></ul>
-<ul>(b) Pesalah atau wakilnya, termasuk anggota keluarga atau penasihat undang-undang, akan dibenarkan membuat perwakilan.</ul>
-<ul>(c) Semua maklumat yang berkaitan akan diberikan kepada lembaga semakan dan, seterusnya, kepada Menteri, termasuk mengenai kelakuan dan kemajuan pesalah, dan penilaian risiko oleh seorang pakar psikiatri yang dilakukan secara bebas atau independen.</ul>
+<p style="margin-left: 40px">(b) Pesalah atau wakilnya, termasuk anggota keluarga atau penasihat undang-undang, akan dibenarkan membuat perwakilan.</p>
+<p style="margin-left: 40px">(c) Semua maklumat yang berkaitan akan diberikan kepada lembaga semakan dan, seterusnya, kepada Menteri, termasuk mengenai kelakuan dan kemajuan pesalah, dan penilaian risiko oleh seorang pakar psikiatri yang dilakukan secara bebas atau independen.</p>
 
 <b>Penilaian risiko berasaskan bukti</b>
 
@@ -142,7 +142,7 @@ variant: markdown
 {:start="25"}
 25.  Penilaian sedemikian akan dilakukan oleh pakar psikiatri menggunakan wadah saintifik berasaskan bukti, yang diiktiraf di peringkat antarabangsa.
 
-<ul>(a) Mereka akan menilai dengan teliti pelbagai faktor risiko, termasuk: keganasan masa lalu; tahap kefahaman pesalah tentang kelakuannya dan responsnya terhadap rawatan; dan sokongan yang sedia ada kepada pesalah apabila dibebaskan.</ul>
+<p style="margin-left: 40px">(a) Mereka akan menilai dengan teliti pelbagai faktor risiko, termasuk: keganasan masa lalu; tahap kefahaman pesalah tentang kelakuannya dan responsnya terhadap rawatan; dan sokongan yang sedia ada kepada pesalah apabila dibebaskan.</p>
 
 <b>Pembebasan</b>
 
@@ -152,8 +152,8 @@ variant: markdown
 {:start="27"}
 27.  Tempoh pelepasan berlesen ini mengimbangi keperluan untuk membenarkan pesalah sebegini kembali kepada kehidupan dalam masyarakat, dengan keperluan untuk mengurangkan ancaman kepada orang ramai.
     
-<ul>(a) Kami akan membantu pesalah yang dilepaskan secara berlesen, kembali ke dalam masyarakat.</ul>
-<ul>(b) Tetapi sekiranya seseorang pesalah melanggar syarat lesennya atau melakukan kesalahan semula, dia boleh dipenjarakan semula dan Menteri boleh membatalkan perintah pembebasannya.</ul>
+<p style="margin-left: 40px">(a) Kami akan membantu pesalah yang dilepaskan secara berlesen, kembali ke dalam masyarakat.</p>
+<p style="margin-left: 40px">(b) Tetapi sekiranya seseorang pesalah melanggar syarat lesennya atau melakukan kesalahan semula, dia boleh dipenjarakan semula dan Menteri boleh membatalkan perintah pembebasannya.</p>
 
 {:start="28"}
 28.  Sebaik sahaja dilepaskan dengan lesen, pesalah tersebut akan disemak sekurang-kurangnya setiap dua tahun, untuk memantau kemajuannya. Jika sesuai, pesalah boleh dibebaskan tanpa syarat dan hukuman diakhiri.
@@ -182,9 +182,9 @@ variant: markdown
 {:start="34"}
 34.  The first category of the amendments will update, enhance and clarify Police powers.
 
-<ul>(a) Clause 10 empowers the Police to search suspects at the point of arrest to detect and remove dangerous items from them. This is to prevent arrested persons from possibly using these items to harm themselves or others (such as the arresting officers and passers-by).</ul>
-<ul>(b) Clause 3 removes the requirement for the Police to physically proceed to the crime scene when investigating arrestable offences, which, with advancements in technology and changes in the profile of crimes, is no longer always necessary or relevant. To be clear, the CPC currently already provides for circumstances where the Police need not investigate into arrestable offences and there is no change to this with the proposed amendments.</ul>
-<ul>(c) Clause 5 allows the Police to conduct a search without warrant at a place when they have reason to believe that the relevant evidence is in the possession or power of a suspect of an arrestable offence.</ul>
+<p style="margin-left: 40px">(a) Clause 10 empowers the Police to search suspects at the point of arrest to detect and remove dangerous items from them. This is to prevent arrested persons from possibly using these items to harm themselves or others (such as the arresting officers and passers-by).</p>
+<p style="margin-left: 40px">(b) Clause 3 removes the requirement for the Police to physically proceed to the crime scene when investigating arrestable offences, which, with advancements in technology and changes in the profile of crimes, is no longer always necessary or relevant. To be clear, the CPC currently already provides for circumstances where the Police need not investigate into arrestable offences and there is no change to this with the proposed amendments.</p>
+<p style="margin-left: 40px">(c) Clause 5 allows the Police to conduct a search without warrant at a place when they have reason to believe that the relevant evidence is in the possession or power of a suspect of an arrestable offence.</p>
 <ul><ul>(i) Currently, the Police can already perform a search without warrant for arrestable offences in certain circumstances. For example, if the Police have reason to believe that a suspect would be uncooperative or is likely to destroy the evidence before a search can be conducted.</ul></ul>
 <ul><ul>(ii) The difficulty is that it is not always straightforward for Police to make such a determination at the onset. Often, Police can only reasonably assess the cooperativeness of a suspect after having engaged him or her or sent the production order. Requiring that the Police do so in all cases is not practicable as that would put the suspects on notice and allow them to tamper or destroy evidence.</ul></ul>
 <ul><ul>(iii) The amendment is a practical one that allows for more effective Police investigations.</ul></ul>
@@ -193,17 +193,17 @@ variant: markdown
 {:start="35"}
 35.  The second category of the amendments will expand the powers of certain non-Police LEAs.&nbsp;&nbsp;
 
-<ul>(a) Clause 11 empowers CNB officers, immigration officers and prison officers to pursue and arrest a person who has escaped from the lawful custody of their respective agency, another specified LEA, or a prescribed LEA.</ul>
+<p style="margin-left: 40px">(a) Clause 11 empowers CNB officers, immigration officers and prison officers to pursue and arrest a person who has escaped from the lawful custody of their respective agency, another specified LEA, or a prescribed LEA.</p>
 <ul><ul>(i) Currently, only the Police and the officer from whose custody a person has escaped are empowered to pursue and arrest him.</ul></ul>
 <ul><ul>(ii) However, officers from CNB, ICA and Prisons can also play significant roles in arrest operations. For instance, ICA officers may come across the person at the checkpoint and can arrest him.</ul></ul>
 <ul><ul>(iii) This amendment will enhance joint Home Team operations and allow the Home Team Departments to operate more effectively together.</ul></ul>
     
-<ul>(b) To give another example, Clause 7 empowers non-Police LEAs to investigate bail and absconding offences arising from the predicate offences under their purview. Currently, such officers have to seek the Police’s assistance to investigate such offences.</ul>
+<p style="margin-left: 40px">(b) To give another example, Clause 7 empowers non-Police LEAs to investigate bail and absconding offences arising from the predicate offences under their purview. Currently, such officers have to seek the Police’s assistance to investigate such offences.</p>
 <ul><ul>(i) For greater efficiency, the relevant LEA, which is more familiar with the details of the case, will have the powers to investigate the bail and absconding offences committed by the same accused person and arising from the case which they are investigating.</ul></ul>
 
 <b>G.  Disclosure provisions</b> 
 
-<ul><b>I. Overview</b></ul>
+<p style="margin-left: 40px"><b>I. Overview</b></p>
 
 {:start="36"}
 36.  Moving on to the amendments on criminal disclosure, let me begin by providing an overview of our criminal disclosure laws.&nbsp;
@@ -211,7 +211,7 @@ variant: markdown
 {:start="37"}
 37.  In 2010, we introduced a framework for pre-trial disclosure in the CPC, namely the Criminal Case Disclosure Regime, which is commonly referred to as the “CCD regime”.
 
-<ul>(a) The CCD regime formalised a framework for the Prosecution and Defence to sequentially disclose and exchange relevant information about their respective cases before trial.</ul>
+<p style="margin-left: 40px">(a) The CCD regime formalised a framework for the Prosecution and Defence to sequentially disclose and exchange relevant information about their respective cases before trial.</p>
 <ul>(b) This has led to greater transparency and consistency, and has been welcomed by all sides – the Judiciary, the Defence and the Prosecution.</ul>
 
 {:start="38"}
