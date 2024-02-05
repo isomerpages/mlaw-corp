@@ -233,7 +233,8 @@ variant: markdown
 <ul>(b) It was necessary for us to study how the existing common law regime interfaced with the CCD regime, as well as the overall aims of disclosure. We also considered how some areas of the common law regime, which had been left open by the Courts, should be addressed.</ul>
 <ul>(c) Even though it was working well, we also considered improvements to the statutory disclosure framework, after having observed it in practice for several years.</ul>
 
-<ul><b>II.  Stakeholder consultations</b><ul>
+<br>
+<ul><b>II.  Stakeholder consultations</b></ul>
 
 {:start="40"}
 40.  Disclosure is an important aspect of the criminal trial process, and has significant implications on the pre-trial and trial process. It was especially important for us to study the practical aspects, including the possible implications on prosecutors, defence counsel, the Courts and law enforcement agencies.&nbsp;&nbsp;
@@ -246,9 +247,10 @@ variant: markdown
 42.  While we did not agree with the Bar on every point, we explained the rationale for the proposals, and had candid and robust discussions. Through this process, we were assured that the viewpoints and implications on the various stakeholders, including the Defence and the Prosecution, have been considered, to ensure that our proposed amendments are fair.&nbsp;
 
 {:start="43"}
-43.  Ultimately, the regime requires all stakeholders to play their part to ensure procedural fairness. Prosecutors are expected to discharge their disclosure obligations dutifully. The AG has also said publicly that prosecutors take great care to comply with their disclosure obligations, in fairness to the Defence.&nbsp;
-
-	<ul><b>III.  Provisions to place the common law disclosure rules on a statutory footing</b></ul>
+43.  Ultimately, the regime requires all stakeholders to play their part to ensure procedural fairness. Prosecutors are expected to discharge their disclosure obligations dutifully. The AG has also said publicly that prosecutors take great care to comply with their disclosure obligations, in fairness to the Defence.
+&nbsp;
+<br>
+<ul><b>III.  Provisions to place the common law disclosure rules on a statutory footing</b></ul>
 
 {:start="44"}
 44.  I will now take you through the proposed disclosure provisions. There are two key aspects.&nbsp;
@@ -276,8 +278,9 @@ variant: markdown
 <ul><ul>(i) Accused statements come from the accused,&nbsp; and are hence different from other types of unused material which the accused may not know about.</ul></ul>
 <ul><ul>(ii) The proposed rules are also consistent with the CCD regime, where accused statements which the Prosecution is not seeking to adduce as part of its case are required to be disclosed only after the accused has set out his defence in the CFD.</ul></ul>
 
-	<ul><b>IV.  Provisions to fine-tune the CCD regime</b></ul>
-
+<br>
+<ul><b>IV.  Provisions to fine-tune the CCD regime</b></ul>
+	
 {:start="48"}
 48.  The second aspect of the disclosure provisions, in clauses 14, 15, 18, 19 and 22, involves fine-tuning aspects of the CCD regime.
 
@@ -324,4 +327,4 @@ variant: markdown
 {:start="57"}
 57.  Mr Speaker, the Bill is a significant milestone in our criminal justice framework. The proposed amendments build on past reforms, and demonstrate our commitment towards building a fair and effective criminal justice system that protects society from crime.
 
-<p class="right-side-updated">Last updated on 5 February 2024</p></ul></ul>
+<p class="right-side-updated">Last updated on 5 February 2024</p>
