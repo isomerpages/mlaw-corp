@@ -36,10 +36,10 @@ Mr Speaker,
 {:start="8"}
 8. This would include the following sectors which come under the Ministry of Law, or MinLaw’s purview:
 
-(a) Precious stones and precious metals dealers, or PSMDs;
-(b) Moneylending;
-(c) Pawnbroking; and
-(d) Legal services.
+<br>(a) Precious stones and precious metals dealers, or PSMDs;
+<br>(b) Moneylending;
+<br>(c) Pawnbroking; and
+<br>(d) Legal services.
 
 {:start="9"}
 9. As the regulator of these sectors, MinLaw regularly reviews our laws to ensure that they remain relevant, effective, and fully in line with the latest international standards set by the FATF.
@@ -56,10 +56,10 @@ Mr Speaker,
 {:start="13"}
 13. This will be achieved through proposed amendments to four Acts, namely:
 
-(a) The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act (“<b>PSPM Act</b>”);
-(b) The Moneylenders Act;
-(c) The Pawnbrokers Act; and
-(d) The Legal Profession Act. 
+<br>(a) The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act (“<b>PSPM Act</b>”);
+<br>(b) The Moneylenders Act;
+<br>(c) The Pawnbrokers Act; and
+<br>(d) The Legal Profession Act. 
 
 {:start="14"}
 14. In addition, this Bill proposes amendments to the PSPM Act to strengthen the regulatory regime and enhance operational effectiveness in regulating PSMDs.
@@ -67,9 +67,9 @@ Mr Speaker,
 {:start="15"}
 15. As a brief background:
 
-(a) The PSPM Act was enacted in 2019 to provide a comprehensive regulatory and supervisory regime to prevent dealings in precious stones and precious metals from being used to facilitate money laundering or terrorism financing.
-(b) Since its enactment, MinLaw has continued to engage the PSMD sector for feedback, and to review our measures and practices, emerging risks, global trends and developments, and international standards.
-(c) The proposed amendments today are the culmination of these engagements and reviews.
+<br>(a) The PSPM Act was enacted in 2019 to provide a comprehensive regulatory and supervisory regime to prevent dealings in precious stones and precious metals from being used to facilitate money laundering or terrorism financing.
+<br>(b) Since its enactment, MinLaw has continued to engage the PSMD sector for feedback, and to review our measures and practices, emerging risks, global trends and developments, and international standards.
+<br>(c) The proposed amendments today are the culmination of these engagements and reviews.
 
 {:start="16"}
 16. Let me now elaborate on the key amendments in this Bill.
@@ -79,17 +79,16 @@ Mr Speaker,
 **(A) Alignment with Updated FATF Standards**
 
 {:start="17"}
-17. First, the Bill updates the PSPM Act, Moneylenders Act, Pawnbrokers Act, and
-Legal Profession Act to:
+17. First, the Bill updates the PSPM Act, Moneylenders Act, Pawnbrokers Act, and Legal Profession Act to:
 
-(a) Clearly align the regulatory regime for the PSMD, moneylending, pawnbroking, and legal services sectors with the updated FATF standards; and
-(b) Require businesses or persons covered by these Acts to implement adequate measures to counter proliferation financing.
+<br>(a) Clearly align the regulatory regime for the PSMD, moneylending, pawnbroking, and legal services sectors with the updated FATF standards; and
+<br>(b) Require businesses or persons covered by these Acts to implement adequate measures to counter proliferation financing.
 
 {:start="18"}
 18. Examples of required measures include:
 
-(a) Performing risk assessment; and
-(b) Developing and implementing internal policies, procedures, and controls to counter proliferation financing.
+<br>(a) Performing risk assessment; and
+<br>(b) Developing and implementing internal policies, procedures, and controls to counter proliferation financing.
 
 {:start="19"}
 19. Such measures are not new to these businesses or persons. For many entities, such measures are already part of their existing anti-money laundering controls as the underlying proliferation financing offences are also money laundering predicate offences.
@@ -100,8 +99,8 @@ Legal Profession Act to:
 {:start="21"}
 21. In particular, the Bill includes amendments to prevent persons convicted of offences relating to the prevention of financial crimes from:
 
-(a) Obtaining relevant licenses, or
-(b) Holding management functions in moneylending and pawnbroking businesses.
+<br>(a) Obtaining relevant licenses, or
+<br>(b) Holding management functions in moneylending and pawnbroking businesses.
 
 **(B) Strengthening the Regulatory Regime for PSMDs**
 
@@ -119,8 +118,8 @@ Legal Profession Act to:
 {:start="25"}
 25. Under the current definition, “precious product” means any jewellery, watch, apparel, accessory, ornament, or other finished product —
 
-(a) Made up of, containing, or having attached to it, any PSPM; and
-(b) Where at least 50% of the value of the product is attributable to the PSPM.
+<br>(a) Made up of, containing, or having attached to it, any PSPM; and
+<br>(b) Where at least 50% of the value of the product is attributable to the PSPM.
 
 {:start="26"}
 26. Based on the current definition, products with majority of value attributed to other factors, such as branding or workmanship, are not captured.
@@ -172,8 +171,8 @@ Legal Profession Act to:
 {:start="39"}
 39. For instance, the Registrar may order them to pay financial penalties:
 
-(a) If they had failed to comply with the registration conditions, or
-(b) If their registration was obtained through fraud or misrepresentation.
+<br>(a) If they had failed to comply with the registration conditions, or
+<br>(b) If their registration was obtained through fraud or misrepresentation.
 
 **(C) Improving Operational Effectiveness in Regulating PSMDs**
 
@@ -186,14 +185,14 @@ Legal Profession Act to:
 {:start="42"}
 42. This will mitigate the risk of PSMDs misusing their registration status:
 
-(a) To gain access to the financial system to conduct illicit transactions, or
-(b) To create an erroneous impression that their businesses are regulated by MinLaw, for any purpose other than the prevention of financial crimes.
+<br>(a) To gain access to the financial system to conduct illicit transactions, or
+<br>(b) To create an erroneous impression that their businesses are regulated by MinLaw, for any purpose other than the prevention of financial crimes.
 
 {:start="43"}
 43. Clause 7 of the Bill introduces a new section 9A to provide that the registration of a registered PSMD lapses:
 
-(a) If the PSMD, as an entity, is wound up or otherwise dissolved, or
-(b) If the PSMD, as a sole proprietor, dies.
+<br>(a) If the PSMD, as an entity, is wound up or otherwise dissolved, or
+<br>(b) If the PSMD, as a sole proprietor, dies.
 
 {:start="44"}
 44. This will enable the Registrar to update the register more expeditiously.
@@ -209,9 +208,9 @@ Legal Profession Act to:
 {:start="47"}
 47. Sir, in conclusion, the Bill will
 
-(a) Allow clear alignment of the regulatory regimes for the PSMD, moneylending, pawnbroking, and legal services sectors with updated FATF requirements;
-(b) Strengthen the regulatory regime for PSMDs; and
-(c) Improve operational effectiveness in regulating PSMDs.
+<br>(a) Allow clear alignment of the regulatory regimes for the PSMD, moneylending, pawnbroking, and legal services sectors with updated FATF requirements;
+<br>(b) Strengthen the regulatory regime for PSMDs; and
+<br>(c) Improve operational effectiveness in regulating PSMDs.
 
 {:start="48"}
 48. It will also reaffirm our strong commitment to be a responsible member of the international community.
