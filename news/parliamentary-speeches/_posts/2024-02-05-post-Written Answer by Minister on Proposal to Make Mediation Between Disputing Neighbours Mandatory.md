@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister for Law K on Proposal to Make Mediation Between Disputing Neighbours Mandatory Given Success Rate
+title: Written Answer by Minister for Law K Shanmugam on Proposal to Make Mediation Between Disputing Neighbours Mandatory Given Success Rate
 permalink: /news/parliamentary-speeches/written-pq-making-mediation-between-disputing-neighbours-mandatory/
 date: 2024-02-05
 layout: post
