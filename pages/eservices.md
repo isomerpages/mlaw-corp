@@ -32,7 +32,7 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Thu, 1800 hrs to 2</p>
+<p>Every Thu, 1800 hrs to 2359</p>
 </td>
 </tr>
 <tr>
