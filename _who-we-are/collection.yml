@@ -1,6 +1,0 @@
-collections:
-  who-we-are:
-    output: true
-    order:
-      - overview.md
-      - organisation-structure.md
