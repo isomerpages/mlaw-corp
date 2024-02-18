@@ -1,6 +1,5 @@
 ---
-title: Issuance of Correction Direction under the POFMA to Mr Kenneth
-  Jeyaretnam, GA and TOCA
+title: Issuance of Correction Direction under the Protection from Online Falsehoods and Manipulation Act to Mr Kenneth Jeyaretnam, Gutzy Asia and The Online Citizen Asia
 permalink: /news/press-releases/issuance-of-cds-under-pofma-to-kj-ga-toca/
 date: 2024-02-18
 layout: post
