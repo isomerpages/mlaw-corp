@@ -1,5 +1,7 @@
 ---
-title: Issuance of Correction Direction under the Protection from Online Falsehoods and Manipulation Act to Mr Kenneth Jeyaretnam, Gutzy Asia and The Online Citizen Asia
+title: Issuance of Correction Direction under the Protection from Online
+  Falsehoods and Manipulation Act to Mr Kenneth Jeyaretnam, Gutzy Asia and The
+  Online Citizen Asia
 permalink: /news/press-releases/issuance-of-cds-under-pofma-to-kj-ga-toca/
 date: 2024-02-18
 layout: post
@@ -16,7 +18,7 @@ variant: markdown
 a.&nbsp;&nbsp;&nbsp;&nbsp; Mr Kenneth Jeyaretnam in respect of his article on The Ricebowl Singapore (TRS) website, Facebook post, X post and LinkedIn post on 16 February 2024;</p>
 
 <p style="margin-left: 40px">
-b.&nbsp;&nbsp;&nbsp;&nbsp; Gutzy Asia, for an article on its website and Facebook post on 16 February 2024; and</p>
+b.&nbsp;&nbsp;&nbsp;&nbsp; Gutzy Asia, for an article on its website, Facebook post and X post on 16 February 2024; and</p>
 
 <p style="margin-left: 40px">
 c.&nbsp;&nbsp;&nbsp;&nbsp; The Online Citizen Asia, for its Facebook post on 16 February 2024.</p>
