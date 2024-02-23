@@ -4,9 +4,7 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 variant: markdown
 ---
-<style>
-  .image {margin-bottom: 1em;}
-</style>
+
 FAQ
 ---
 
