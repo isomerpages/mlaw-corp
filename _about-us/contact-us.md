@@ -5,7 +5,7 @@ breadcrumb: Contact Us
 variant: markdown
 ---
 ## Closure of MinLaw Services Centre
-The Ministry of Law Services Centre will close at 12:00pm on Thursday, 7 March 2024 for a staff event. The last ticket will be issued at 11:30am. Our counter services will resume on Friday, 8 March 2024.
+The Ministry of Law Services Centre will close at 12:00pm on Thursday, 7 March 2024 for a staff event. The last queue ticket will be issued at 11:30am. Our counter services will resume on Friday, 8 March 2024.
 
 Thank you for your understanding.
 
