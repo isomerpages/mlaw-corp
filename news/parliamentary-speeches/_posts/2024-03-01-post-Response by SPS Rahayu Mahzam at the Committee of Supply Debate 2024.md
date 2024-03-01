@@ -24,6 +24,7 @@ variant: markdown
 4. A few examples of SLA’s innovations and curation of new uses include:
 
 (a) The former St Andrew’s Mission Hospital in Tanjong Pagar which will be transformed into a creative lifestyle space.
+
 (b) SLA has also made available State properties such as 79 to 95 Hindoo Road and 26 Evans Road to meet the emergent demand for co-living spaces.
 
 {:start="5"}
