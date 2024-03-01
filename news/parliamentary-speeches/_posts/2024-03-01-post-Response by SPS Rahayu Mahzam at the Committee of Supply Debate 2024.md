@@ -158,9 +158,9 @@ information and technologies to address climate change challenges, such as coast
 
 (a) The PCHI thresholds will be increased,
 
-(i) for civil legal aid from $950 to $1,050, and
+	(i) for civil legal aid from $950 to $1,050, and
 
-(ii) for criminal defence aid from $1,500 to $1,650.
+	(ii) for criminal defence aid from $1,500 to $1,650.
 
 (b) The AV threshold for both types of aid will also be increased from $13,000 to $21,000, in line with MOF’s revision of the AV threshold for social assistance schemes. This will cover all HDB flats.
 
