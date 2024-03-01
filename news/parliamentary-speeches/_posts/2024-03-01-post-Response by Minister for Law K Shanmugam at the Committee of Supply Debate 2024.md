@@ -165,7 +165,7 @@ the other key areas in MinLaw’s work.
 (a) With more accurate and clear information, the MEO and Courts will be better able to distinguish between respondents who cannot pay, and respondents who refuse to pay. For those who refuse to pay, the system – the MEP strengthens deterrence against them. The Court will monitor payments, typically for around 6 months, and failure to pay can lead to imprisonment. This system should hopefully help reduce repeated defaulters. </p>
 
 {:start="37"}
-37.  Ms Hany Soh asked about the implementation of the Family Justice Reform Act. Some of the technical amendments were commenced in January this year; the other reforms will be implemented in stages. In particular, we are targeting to operationalise the MEP in phases starting from the second half of this year. 
+37. Ms Hany Soh asked about the implementation of the Family Justice Reform Act. Some of the technical amendments were commenced in January this year; the other reforms will be implemented in stages. In particular, we are targeting to operationalise the MEP in phases starting from the second half of this year. <br>
  
 {:start="38"}
 38. Ms Soh also asked about collaborations with stakeholders. MinLaw works closely with MSF and FJC to improve the family justice system. Between us, we have regular conversations with the family bar, counsellors, mental health experts, and community partners about how best to support families in distress. We also conduct regular outreach to various segments of the public to share about family justice initiatives and therapeutic justice.   
