@@ -1,5 +1,5 @@
 ---
-title: Welcome Remarks by Rahayu Mahzam, at Muslimah Conference 2024
+title: Welcome Remarks by Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Mdm Rahayu Mahzam, at Muslimah Conference 2024
 permalink: /news/speeches/sps-speech-muslimah-conference-2024/
 date: 2024-03-03
 layout: post
