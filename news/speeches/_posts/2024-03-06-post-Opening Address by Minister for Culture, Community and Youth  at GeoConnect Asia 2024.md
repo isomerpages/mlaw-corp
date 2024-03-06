@@ -1,5 +1,5 @@
 ---
-title: Opening Address by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at GeoConnect Asia 2024
+title: Opening Address by Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC at Geo Connect Asia 2024
 permalink: /news/speeches/2m-opening-address-geoconnect-asia-2024/
 date: 2024-03-06
 layout: post
@@ -28,7 +28,7 @@ Ladies and gentlemen
 1. I want to start by welcoming everyone here to Geo Connect Asia 2024. I see so many attendees here, people standing behind, it is a really packed auditorium. I also want to extend a really warm welcome to all our guests from overseas, making a trip here to Singapore, coming to us, networking with us here but also sharing your knowledge and exchanging thought leadership. I share Rupert's point that there is nothing like face-to-face, in-person conversations that really bring the whole industry up together.
 
 {:start="2"}
-2. This year’s conference theme is “Geospatial Driven Impacts: Underground, Land, &amp; Sea to Sky”. I think there is nothing more comprehensive than land, sea and sky. It also aptly encapsulates how advancements in geospatial technologies and applications are becoming more and more connected, more and more intertwined, interdependent and relying on one another, relying on the knowledge and data of one another, infused into everyday life and into our economy.
+2. This year’s conference theme is “Geospatial Driven Impacts: Underground, Land &amp; Sea to Sky”. I think there is nothing more comprehensive than land, sea and sky. It also aptly encapsulates how advancements in geospatial technologies and applications are becoming more and more connected, more and more intertwined, interdependent and relying on one another, relying on the knowledge and data of one another, infused into everyday life and into our economy.
 
 {:start="3"}
 3. It is therefore important that we have a very clear strategy to harness the full potential of this geospatial technology to support both social as well as economic development.
@@ -112,7 +112,7 @@ Ladies and gentlemen
 		(2) PUB, Singapore’s national water agency, also taps on GeoSpace-Sea’s data to support the development of coastal protection plans, and analyses the adequacy of existing coastal protection measures.</p>
 		
 {:start="22"}
-22. Indeed, the marine and maritime domains are exciting new frontiers for geospatial innovation. Therefore, this year’s GeoConnect theme of “Underground, Land, &amp; Sea to Sky”, in my view, really brings this out nicely. Through close collaboration between stakeholders, both from the public and private sectors, we can push boundaries and develop innovative solutions in all of these frontiers, as we push the envelope up, down, across and in the ocean as well.
+22. Indeed, the marine and maritime domains are exciting new frontiers for geospatial innovation. Therefore, this year’s Geo Connect theme of “Underground, Land &amp; Sea to Sky”, in my view, really brings this out nicely. Through close collaboration between stakeholders, both from the public and private sectors, we can push boundaries and develop innovative solutions in all of these frontiers, as we push the envelope up, down, across and in the ocean as well.
 
 {:start="23"}
 23. I am happy to hear that to enhance situational awareness and incident response, our Maritime &amp; Port Authority (MPA) is developing and integrating multi-domain capabilities.
