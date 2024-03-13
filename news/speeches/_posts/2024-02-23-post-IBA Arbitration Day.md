@@ -1,5 +1,5 @@
 ---
-title: IBA Arbitration Day
+title: Welcome Address by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the 25th Annual IBA Arbitration Day
 permalink: /news/speeches/2m-welcome-address-25th-annual-iba-arbitration-day/
 date: 2024-02-23
 layout: post
