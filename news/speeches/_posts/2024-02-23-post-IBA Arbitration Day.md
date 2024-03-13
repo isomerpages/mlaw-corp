@@ -125,7 +125,7 @@ Friends, colleagues, distinguished guests, ladies and gentlemen
 (c) We are now looking at the next round of revisions to the IAA, to take into account current practices from around the world, changes in systems from around the world, learnings from different jurisprudence emerging from leading jurisdictions.</p>
 
 {:start="22"}
-22. Third, we are also looking at strongly developing and advancing our thought leadership. Earlier on, Swee Yen spoke about some leading cases. Anupam is one of the other examples. The jurisprudence of Singapore courts is widely discussed by arbitration practitioners, and has influenced the development of arbitration jurisprudence.
+22. Third, we are also looking at strongly developing and advancing our thought leadership. Earlier on, Swee Yen spoke about some leading cases. *Anupam* is one of the other examples. The jurisprudence of Singapore courts is widely discussed by arbitration practitioners, and has influenced the development of arbitration jurisprudence.
 
 {:start="23"}
 23. As a consequence, we do see more and more parties using Singapore. Not just using Singapore as the arbitration seat, using Singapore as the curial law, but increasingly using Singapore law as the governing law for contracts as well.
