@@ -181,7 +181,7 @@ Friends, colleagues, distinguished guests, ladies and gentlemen
 
 <p style="margin-left: 40px">
 (b) These, amongst others, are delicate issues that can take a complete turn overnight. The survey was released in 2022, which means it was the middle of the COVID-19 pandemic, probably done in 2020 or 2021, before the onset of the Russia-Ukraine troubles. And you can see how dramatically a conflict like that, erupting overnight, can have an impact on supply-chain issues, global trade issues, and as I said earlier, protectionist measures being implemented in trade. So we expect to see a rise in this area of cases as we scan the horizon.</p>
-     
+
 <b>II. AI, cybersecurity and data privacy threats</b>
 
 {:start="38"}
