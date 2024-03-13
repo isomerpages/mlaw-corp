@@ -132,7 +132,7 @@ Friends, colleagues, distinguished guests, ladies and gentlemen
  
 {:start="24"}
 24. We have seen positive experiences in SIAC. We have seen disputes of up to about US$2.5 billion in value. SIMC famously resolved a US$1 billion dispute in 3.5 days.
-        
+
 {:start="25"}
 25. We want to continue to attract these cases, such quality cases, into Singapore. So all of these steps that we had taken, plus a few more, plus what was a secret ingredient for us also was a very stable socio-political climate, a very pro-business outlook environment. All that helped us in the last 30, 35 years or so.
 
