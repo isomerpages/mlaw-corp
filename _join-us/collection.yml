@@ -2,7 +2,6 @@ collections:
   join-us:
     output: true
     order:
-      - career-opportunities.md
       - Meet Our Colleagues/.keep
       - Meet Our Colleagues/meet-our-colleagues.md
       - Meet Our Colleagues/ms-amanda-tan.md
