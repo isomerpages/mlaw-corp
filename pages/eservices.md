@@ -32,7 +32,7 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Mar 2024, 1800 hrs to 2359 hrs</p>
+<p>21 Mar 2024, 1800 hrs to 22 Mar 2024, 0800 hrs</p>
 </td>
 </tr>
 <tr>
