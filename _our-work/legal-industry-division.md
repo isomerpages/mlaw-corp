@@ -10,9 +10,13 @@ One of MinLaw’s key objectives is to ensure that the legal services sector con
   
 Besides developing Singapore as a location of choice for dispute resolution and other international legal services, MinLaw also formulates policies to ensure quality legal manpower to meet local, regional and international demands for legal services.  
   
-The Legal Industry Division is responsible for the growth and development of Singapore’s legal industry. This is achieved through three key aspects:
+##### **The Legal Industry Division is responsible for the growth and development of Singapore’s legal industry.**
 
+`This is achieved through three key aspects:`
 
+* Strengthening our lawyers, law firms and legal institutions through education, training and upskilling.
+* Equipping the industry with tools they need, including opening doors to new markets, providing suitable platforms to promote our legal talent and expertise, identifying key areas of growth, assisting in the adoption of technology and ensuring an adequate pool of talent pipeline.
+* Creating a conducive environment for all in our legal industry.
 
 > Our Structure & Key Responsibilities
 
