@@ -12,10 +12,6 @@ Besides developing Singapore as a location of choice for dispute resolution and 
   
 The Legal Industry Division is responsible for the growth and development of Singapore’s legal industry. This is achieved through three key aspects:
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 
 
 > Our Structure & Key Responsibilities
@@ -53,5 +49,5 @@ Some initiatives that the Legal Industry Division has been involved in through t
 * Deepening engagements and increasing collaborations with various legal industry stakeholders, thereby better informing policy-making across the Ministry of Law.
 
 > Useful Links
-* Singapore Convention on Mediation
-* Singapore Convention Week
+* [Singapore Convention on Mediation](https://www.singaporeconvention.org)
+* [Singapore Convention Week](https://www.singaporeconventionweek.sg)
