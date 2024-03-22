@@ -32,15 +32,6 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Mar 2024, 1800 hrs to 2359 hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
-Mediation Centre, MinLaw Online Enquiries</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Every Thu, 1800 hrs to 2359 hrs</p>
 </td>
 </tr>
