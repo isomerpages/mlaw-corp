@@ -1,6 +1,5 @@
 ---
-title: Speech by Deputy Secretary (Development), at 2024 Conference on
-  International Industrial Cooperation
+title: Keynote Speech by Ms Charlene Chang, Deputy Secretary (Development), Ministry of Law, at 2024 Conference on International Industrial Cooperation
 permalink: /ds-speech-at-2024-conference-on-international-industrial-cooperation/
 date: 2024-03-20
 layout: post
