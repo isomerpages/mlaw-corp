@@ -8,7 +8,7 @@ description: "This webpage sets out:  (a)\tthe different types, forms and basic
   trust-like arrangements; and (ii) the obtaining of basic and beneficial
   ownership information."
 ---
-<p>This microsite sets out :</p>
+<p>This microsite sets out:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The different types, forms and basic features of <a href="https://www.mlaw.gov.sg/trusts/express-trusts/" rel="noopener noreferrer nofollow" target="_blank">express trusts</a> and <em><a href="https://www.mlaw.gov.sg/trusts/wakafs/" rel="noopener noreferrer nofollow" target="_blank">wakafs</a></em>,
@@ -29,6 +29,7 @@ information.</p>
 a Muslim arrangement and not a trust within the meaning of the Trustees
 Act 1967 (<em>Mohamed Shariff Valibhoy v Arif Valibhoy </em>[2016] 2 SLR
 301 at [97]).&nbsp;</p>
+<p></p>
 <p></p>
 </li>
 </ul>
