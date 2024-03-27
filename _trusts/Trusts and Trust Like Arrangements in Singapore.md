@@ -28,6 +28,9 @@ and holding basic and beneficial ownership information (Anti Money Laundering
 / Countering the Financing of Terrorism (“<strong>AML/CFT</strong>”) obligations).</p>
 <p></p>
 <p></p>
+	
+<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none;text-align: center">Chat with us</a><br><br>
+	
 <hr>
 <p></p>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The <em>wakaf </em>is
