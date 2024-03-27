@@ -99,7 +99,7 @@ find a suitable solicitor or law practice in Singapore.</p>
 <p>Alternatively, you may also approach a licensed trust company or other
 professionals for trust-related services. Please refer to the section below.</p>
 <p></p>
-<h4><strong>3. Trustees in Singapore </strong></h4>
+<h4><strong>3. Trustees in Singapore</strong></h4>
 <p>The trustee manages the trust property for the benefit of the beneficiaries,
 and distributes the income and capital of the trust property to them. You
 should hence choose your trustee carefully if you wish to set up a trust.
@@ -123,22 +123,25 @@ or settlors who are connected by blood or legal adoption. The beneficiaries
 to the trusts must also be connected to the settlor by familial ties. Private
 trust companies do not have to obtain a license from MAS, but have to engage
 a licensed trust company to carry out certain trust administration services,
-including AML/CFT checks. You may wish to refer to the Trust Companies
-(Exemption) Regulations for further information. Please seek legal advice
-and/or advice from a licensed trust company if you wish to set up a Private
-Trust Company.</p>
+including AML/CFT checks. You may wish to refer to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
+further information. Please seek legal advice and/or advice from a licensed
+trust company if you wish to set up a Private Trust Company.</p>
+</li>
+<li>
+<p><strong>Lawyers:</strong> Lawyers can also act as trustees. You may wish
+to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s (LSRA) website</a> to
+find a suitable solicitor or law practice in Singapore.</p>
+</li>
+<li>
+<p><strong>Others:</strong> You can also consider choosing family members,
+close friends, or others who you know you can rely on to be a trustee.
+Think carefully about who to approach, and make sure that they are willing
+to take on the responsibility and duties involved in acting as a trustee
+(see next section).</p>
 </li>
 </ul>
-<p>Lawyers: Lawyers can also act as trustees. You may wish to use the Legal
-Services Regulatory Authority’s (LSRA) website to find a suitable solicitor
-or law practice in Singapore.</p>
-<p>Others: You can also consider choosing family members, close friends,
-or others who you know you can rely on to be a trustee. Think carefully
-about who to approach, and make sure that they are willing to take on the
-responsibility and duties involved in acting as a trustee (see next section).</p>
 <p></p>
-<p></p>
-<h4><strong>3.&nbsp;Trustees’ Obligations &amp; Duties</strong></h4>
+<h4><strong>4.&nbsp;Trustees’ Obligations &amp; Duties</strong></h4>
 <p><u>Trustees’ Duties Owed To The Beneficiaries</u>
 </p>
 <p>Trustees manage trust assets for the benefit of beneficiaries. They have
@@ -171,7 +174,7 @@ trustee in Court to seek legal or equitable remedies, such as for compensation
 or to recover profits that the trustee obtained from the breach. As another
 example, a trustee who has misappropriated trust property may have committed
 the offence of criminal breach of trust under the <a href="https://sso.agc.gov.sg/Act/PC1871" rel="noopener noreferrer nofollow" target="_blank">Penal Code 1871</a>.</p>
-<p><u>Trustees’ Obligations With Respect To Obtaining And Holding Basic And Beneficial Ownership Information</u>
+<p><u>Anti Money-Laundering / Countering the Financing of Terrorism ("</u><strong><u>AML/CFT</u></strong><u>") requirements for Trustees</u>
 </p>
 <p>Trustees are also required to comply with the obligations stipulated in
 <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a>(“<strong>Trustees Act</strong>”) and
