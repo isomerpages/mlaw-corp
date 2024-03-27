@@ -26,9 +26,8 @@ information; and</p>
 <p>Trustees’ obligations and duties, including with respect to obtaining
 and holding basic and beneficial ownership information (Anti Money Laundering
 / Countering the Financing of Terrorism (“<strong>AML/CFT</strong>”) obligations).</p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <hr>
 <p></p>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The <em>wakaf </em>is
