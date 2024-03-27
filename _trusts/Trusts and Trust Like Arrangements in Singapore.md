@@ -19,7 +19,13 @@ a trust-like arrangement under Muslim law <a href="#_ftn1" rel="noopener norefer
 <li>
 <p>The processes for (i) the setting up of such express trusts and trust-like
 arrangements; and (ii) the obtaining of basic and beneficial ownership
-information.</p>
+information; and</p>
+<p></p>
+</li>
+<li>
+<p>Trustees’ obligations and duties, including with respect to obtaining
+and holding basic and beneficial ownership information (Anti Money Laundering
+/ Countering the Financing of Terrorism (“<strong>AML/CFT</strong>”) obligations).</p>
 <p>
 <br>
 </p>
