@@ -29,7 +29,7 @@ and holding basic and beneficial ownership information (Anti Money Laundering
 <p></p>
 <p></p>
 	
-<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none;text-align: center">Chat with us</a><br><br>
+<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none;text-align:center">If you suspect a trustee may have breached his AML/CFT obligations, please write to us at this link.</a><br><br>
 	
 <hr>
 <p></p>
