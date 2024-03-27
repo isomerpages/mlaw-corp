@@ -71,7 +71,6 @@ must be identified or identifiable. <a href="#_ftn2" rel="noopener noreferrer no
 </p>
 </li>
 </ul>
-<p></p>
 <p>Certain other formalities may be required. For example:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,7 +93,7 @@ and the purported beneficiaries will not be entitled to benefit from the
 trust property. Instead, ownership of the trust property will remain with
 the settlor.</p>
 <p>It is therefore recommended that you consult a lawyer when setting up
-a trust. You may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s (LSRA) website</a> to
+a trust. You may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s ("LSRA") website</a> to
 find a suitable solicitor or law practice in Singapore.</p>
 <p>Alternatively, you may also approach a licensed trust company or other
 professionals for trust-related services. Please refer to the section below.</p>
@@ -106,30 +105,29 @@ should hence choose your trustee carefully if you wish to set up a trust.
 You may wish to consider the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Licensed Trust Company</strong>: In Singapore, persons who provide
-trust business are licensed and regulated by the Monetary Authority of
-Singapore under the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trust Companies Act 2005</a> unless
-specifically exempted. Licensed trust companies are able to act as trustees
-of express trusts, provide services in relation to the creation of an express
-trust, as well as provide trust administration services. You may wish to
-refer to <a href="https://eservices.mas.gov.sg/fid/institution?sector=Capital%20Markets&amp;category=Licensed%20Trust%20Company" rel="noopener noreferrer nofollow" target="_blank">MAS’ directory of financial institutions</a> for
-a list of licensed trust companies in Singapore.</p>
+<p><strong>Licensed Trust Company ("LTC")</strong>: In Singapore, persons
+who provide trust business are licensed and regulated by the Monetary Authority
+of Singapore ("<strong>MAS</strong>") under the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trust Companies Act 2005</a> unless
+specifically exempted. LTCs are able to act as trustees of express trusts,
+provide services in relation to the creation of an express trust, as well
+as provide trust administration services. You may wish to refer to <a href="https://eservices.mas.gov.sg/fid/institution?sector=Capital%20Markets&amp;category=Licensed%20Trust%20Company" rel="noopener noreferrer nofollow" target="_blank">MAS’ directory of financial institutions</a> for
+a list of LTCs in Singapore.</p>
 </li>
 <li>
-<p><strong>Private Trust Company:</strong> You may wish to consider setting
-up a private trust company. A private trust company is typically established
-to act as a trustee to a trust or a number of trusts created by a settlor
-or settlors who are connected by blood or legal adoption. The beneficiaries
-to the trusts must also be connected to the settlor by familial ties. Private
-trust companies do not have to obtain a license from MAS, but have to engage
-a licensed trust company to carry out certain trust administration services,
-including AML/CFT checks. You may wish to refer to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
-further information. Please seek legal advice and/or advice from a licensed
-trust company if you wish to set up a Private Trust Company.</p>
+<p><strong>Private Trust Company ("PTC"):</strong> You may wish to consider
+setting up a PTC. A PTC is typically established to act as a trustee to
+a trust or a number of trusts created by a settlor or settlors who are
+connected by blood or legal adoption. The beneficiaries of the trusts must
+also be connected to the settlor by familial ties. PTCs do not have to
+obtain a license from MAS, but have to engage a LTC to carry out certain
+trust administration services, including AML/CFT checks. You may wish to
+refer to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
+further information. Please seek legal advice and/or advice from a LTC
+if you wish to set up a PTC.</p>
 </li>
 <li>
 <p><strong>Lawyers:</strong> Lawyers can also act as trustees. You may wish
-to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s (LSRA) website</a> to
+to use <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">LSRA's website</a> to
 find a suitable solicitor or law practice in Singapore.</p>
 </li>
 <li>
@@ -157,7 +155,6 @@ a trustee.</p>
 <p>The trustee has to keep proper accounts of the trust (and the transactions
 made) and be prepared to furnish the accounts for inspection by the beneficiaries
 when requested.</p>
-<p></p>
 </li>
 <li>
 <p>&nbsp;<strong>Fiduciary Duties</strong>: A trustee’s fiduciary duties
@@ -174,7 +171,7 @@ trustee in Court to seek legal or equitable remedies, such as for compensation
 or to recover profits that the trustee obtained from the breach. As another
 example, a trustee who has misappropriated trust property may have committed
 the offence of criminal breach of trust under the <a href="https://sso.agc.gov.sg/Act/PC1871" rel="noopener noreferrer nofollow" target="_blank">Penal Code 1871</a>.</p>
-<p><u>Anti Money-Laundering / Countering the Financing of Terrorism ("</u><strong><u>AML/CFT</u></strong><u>") requirements for Trustees</u>
+<p><u>Transparency and Effective Control Requirements for Trustees (“AML/CFT requirements”)</u>
 </p>
 <p>Trustees are also required to comply with the obligations stipulated in
 <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a>(“<strong>Trustees Act</strong>”) and
@@ -227,7 +224,7 @@ more details, including requesting for a tax reference number.</p>
 </p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> You
-may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company (SNTC)</a> to
+may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company ("SNTC")</a> to
 help you set up a trust for this purpose.</p>
 <p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> There
 are certain exceptions to this, including when a charitable purpose trust
