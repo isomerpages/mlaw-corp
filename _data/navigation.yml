@@ -77,3 +77,21 @@ links:
       - title: Anti-Money Laundering / Countering The Financing Of Terrorism
         url: https://acd.mlaw.gov.sg/
         external: true
+  - title: Trusts
+    url: www.mlaw.gov.sg/trusts/trusts-and-trust-like-arrangements-in-singapore/
+    sublinks:
+      - title: Trusts and Trust Like Arrangements in Singapore
+        url: www.mlaw.gov.sg/trusts/trusts-and-trust-like-arrangements-in-singapore/
+        external: true
+      - title: Express Trusts
+        url: www.mlaw.gov.sg/trusts/express-trusts/
+        external: true
+      - title: Charitable Purpose Trusts
+        url: www.mlaw.gov.sg/trusts/charitable-purpose-trusts/
+        external: true
+      - title: Wakafs
+        url: www.mlaw.gov.sg/trusts/wakafs
+        external: true
+      - title: Report Suspected Breach of Trustees’ AML/CFT Obligations
+        url: www.eservices.mlaw.gov.sg/enquiry/
+        external: true
