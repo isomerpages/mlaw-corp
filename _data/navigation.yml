@@ -1,7 +1,6 @@
 logo: /images/mlaw-logo_2.png
 links:
   - title: About Us
-    false_collection: true
     url: /about-us/ourvision-mission-corevalues/
     sublinks:
       - title: Our Vision, Mission and Core Values
@@ -19,7 +18,6 @@ links:
       - title: Useful Links
         url: /about-us/useful-links/
   - title: News
-    false_collection: true
     url: /news/
     sublinks:
       - title: All
@@ -50,7 +48,6 @@ links:
   - title: Bar Admission
     collection: admission-to-the-bar
   - title: E-Services
-    false_collection: true
     url: /e-services/
     sublinks:
       - title: Insolvency Office
