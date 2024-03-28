@@ -15,9 +15,9 @@ sections:
         - title: What we do
           description: Stat Boards and Departments
           url: /about-us/what-we-do
-        - title: COVID-19 (Temporary Measures)
-          description: Find out more about the Act
-          url: /covid19-relief/
+        - title: Trusts under Singapore Law
+          description: Including Trustees’ AML Duties
+          url: /trusts/trusts-and-trust-like-arrangements-in-singapore/
         - title: Singapore Convention Week 2023
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
