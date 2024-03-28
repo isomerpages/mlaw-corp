@@ -26,6 +26,6 @@ sections:
       title: News and Information
       subtitle: Top Stories
       button: More Resources
-      url: /news/
+      id: resources
 description: Description
 ---
