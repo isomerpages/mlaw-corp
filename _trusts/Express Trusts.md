@@ -171,50 +171,90 @@ trustee in Court to seek legal or equitable remedies, such as for compensation
 or to recover profits that the trustee obtained from the breach. As another
 example, a trustee who has misappropriated trust property may have committed
 the offence of criminal breach of trust under the <a href="https://sso.agc.gov.sg/Act/PC1871" rel="noopener noreferrer nofollow" target="_blank">Penal Code 1871</a>.</p>
-<p><u>Transparency and Effective Control Requirements for Trustees (“AML/CFT requirements”)</u>
+<p><u>Transparency and Effective Control Requirements for Trustees (“</u><strong><u>AML/CFT requirements</u></strong><u>”)</u>
 </p>
-<p>Trustees are also required to comply with the obligations stipulated in
-<a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a>(“<strong>Trustees Act</strong>”) and
-<a href="https://sso.agc.gov.sg/SL/TA1967-S151-2017?DocDate=20210628" rel="noopener noreferrer nofollow" target="_blank">Trustees (Transparency and Effective Control) Regulations 2017</a>(“<strong>Trustees Regulations</strong>”)
-if (i) the trust is governed by Singapore law, (ii) administered in Singapore,
-or (iii) any of the trustees are resident in Singapore, save for the limited
-trusts which are excluded in the First Schedule of the Trustees Regulations
-(e.g. where the trustee is a licensed trust company, private trust company,
-bank or capital market licensee*).</p>
-<p>Amongst other things, trustees are required to:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Obtain and verify information of relevant trust
-parties (i.e. all settlors, trustees, protectors, beneficiaries, and persons
-who have any power over the disposition of the trust);</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Obtain and verify information about the effective
-controllers of relevant trust parties;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Obtain information about persons appointed
-or engaged as a service supplier to the relevant trust (i.e. an agent of,
-or a service provider to, the relevant trust including any investment adviser
-or manager, accountant or tax adviser);</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Update information in (1) – (3) in a timely
-manner and maintain records for at least 5 years after the trustee ceases
-to be a trustee of the relevant trust;</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Inform certain “specified persons” that they
-are acting for a relevant trust before forming a business relationship,
-or entering a transaction of more than $20,000 (whether the transaction
-is carried out in a single operation or in multiple linked operations)
-with that “specified person”. “Specified person” is defined at Regulation
-8(5) of the <a href="https://sso.agc.gov.sg/SL/TA1967-S151-2017?DocDate=20210628" rel="noopener noreferrer nofollow" target="_blank">Trustees Regulations</a>,
-and includes financial institutions, licensed estate agents, and lawyers;
-and</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; Keep accounting records.</p>
-<p></p>
+<p>Singapore is a member of the Financial Action Task Force (“<strong>FATF</strong>”)
+which establishes international standards for Anti-Money Laundering, Countering
+the Financing of Terrorism and Proliferation Financing (“<strong>AML/CFT</strong>”).
+Singapore is also a member of the Global Forum on Transparency and Exchange
+of Information for Tax Purposes.</p>
+<p>In line with these international standards, Singapore requires trustees
+to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Obtain and verify information of relevant trust parties (i.e. all settlors,
+trustees, protectors, beneficiaries, and persons who have any power over
+the disposition of the trust);</p>
+</li>
+<li>
+<p>Obtain and verify information about the effective controllers of relevant
+trust parties;</p>
+</li>
+<li>
+<p>Obtain information about persons appointed or engaged as a service supplier
+to the relevant trust (i.e. an agent of, or a service provider to, the
+relevant trust including any investment adviser or manager, accountant
+or tax adviser);</p>
+</li>
+<li>
+<p>Update information in (1) – (3) in a timely manner and maintain records
+for at least 5 years after the trustee ceases to be a trustee of the relevant
+trust; and</p>
+</li>
+<li>
+<p>Keep accounting records.</p>
+</li>
+</ol>
 <p>Failure to comply with any of the obligations listed above is an offence.</p>
 <p>The police may also require the trustee to produce the abovementioned
 information pursuant to powers of investigation under the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
-where it considers the information to be necessary for desirable for any
+where it considers the information to be necessary or desirable for any
 investigation, inquiry, trial or other proceeding under the CPC.</p>
-<p>&nbsp;*Trusts which are excluded from the Trustees Regulations are subject
-to other regulatory oversight or supervision. For example, Licensed Trust
-Companies <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and
-Private Trust Companies <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> should comply with <a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">MAS’ Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism</a>.<strong>&nbsp;</strong>
+<p>These obligations apply under either:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
+Licensed Trust Companies <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and Private Trust Companies <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>.</p>
+</li>
+<li>
+<p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
+and <a href="https://sso.agc.gov.sg/SL/TA1967-S151-2017" rel="noopener noreferrer nofollow" target="_blank">Trustees (Transparency and Effective Control) Regulations 2017</a> (“<strong>Trustees Regulations</strong>”)
+if (i) the trust is governed by Singapore law, (ii) administered in Singapore,
+or (iii) any of the trustees are resident in Singapore.</p>
+</li>
+</ul>
+<p>For trustees whose obligations are stipulated in the Trustees Act and
+the Trustees Regulations, they are also required to inform certain “specified
+persons” that they are acting for a relevant trust before forming a business
+relationship, or entering a transaction of more than $20,000 (whether the
+transaction is carried out in a single operation or in multiple linked
+operations) with that “specified person”. “Specified person” would include
+financial institutions, licensed estate agents, and lawyers.</p>
+<p><u>Report a Suspected Breach of a Trustee’s AML/CFT Obligations</u>
 </p>
-<h4><strong>4. Filing of Tax Returns</strong></h4>
+<p>If you suspect a trustee may have breached their respective obligations
+above, please write to us at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">this link.</a> Should your
+concerns relate to Licensed Trust Companies or Private Trust Companies,
+please submit the details at <a href="https://www.mas.gov.sg/consumerfeedback-form/" rel="noopener noreferrer nofollow" target="_blank">this link</a> on the
+MAS website.</p>
+<p>As you may be contacted to assist in further investigations, please provide
+your name and contact details. Law enforcement agencies will follow up
+accordingly where it is decided that an investigation is warranted. Please
+be assured that your identity will be protected and kept confidential as
+far as possible. However, under certain circumstances, your identity may
+be revealed to other parties on a need-to-know basis.</p>
+<p>Please note that unless you are contacted to provide further information,
+you will not be updated on how the information is dealt with, including
+on whether investigations are being conducted, and the status or outcome
+of the investigations in the event that the investigations are carried
+out.</p>
+<p>If you suspect that a serious offence has been committed, such as fraud,
+misappropriation or money laundering, please make a police report at
+<a href="https://eservices.police.gov.sg/content/policehubhome/e-services-general/police-report.html" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
+<p>If you suspect that a serious offence has been committed that needs immediate
+action, please make a police report by calling 999 or SMS 71999.</p>
+<p></p>
+<h4><strong>5. Filing of Tax Returns</strong></h4>
 <p>Trusts need to file a tax return with IRAS to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
