@@ -23,7 +23,6 @@ Protector(s), if appointed, typically have the power to veto or authorise
 the trustee in carrying out certain functions. &nbsp;</p>
 <p>Properties that are typically placed in trusts include cash, land, family
 businesses, shares, jewellery, art and more.</p>
-<p></p>
 <p><u>What Trusts Are For</u>
 </p>
 <p>Trusts may be set up for a number of reasons, including:</p>
@@ -79,7 +78,6 @@ in writing, and signed by some person who is able to declare such a trust
 (section 7 of the <a href="https://sso.agc.gov.sg/Act/CLA1909" rel="noopener noreferrer nofollow" target="_blank">Civil Law Act 1909</a>). Further,
 the trust property must also be conveyed to the trustee(s) by deed in the
 English language (section 53 of the <a href="https://sso.agc.gov.sg/Act/CLPA1886" rel="noopener noreferrer nofollow" target="_blank">Conveyancing and Law of Property Act 1886</a>).</p>
-<p></p>
 </li>
 <li>
 <p>A testamentary trust (i.e. a trust that takes effect on the settlor’s
@@ -97,7 +95,6 @@ a trust. You may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/sea
 find a suitable solicitor or law practice in Singapore.</p>
 <p>Alternatively, you may also approach a licensed trust company or other
 professionals for trust-related services. Please refer to the section below.</p>
-<p></p>
 <h4><strong>3. Trustees in Singapore</strong></h4>
 <p>The trustee manages the trust property for the benefit of the beneficiaries,
 and distributes the income and capital of the trust property to them. You
@@ -138,7 +135,6 @@ to take on the responsibility and duties involved in acting as a trustee
 (see next section).</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>4.&nbsp;Trustees’ Obligations &amp; Duties</strong></h4>
 <p><u>Trustees’ Duties Owed To The Beneficiaries</u>
 </p>
@@ -157,10 +153,10 @@ made) and be prepared to furnish the accounts for inspection by the beneficiarie
 when requested.</p>
 </li>
 <li>
-<p>&nbsp;<strong>Fiduciary Duties</strong>: A trustee’s fiduciary duties
-include: (i) a duty to act in good faith and for proper purposes; (ii)
-a duty not to make a profit out of the trust; and (iii) a duty to not place
-himself in a position of conflict.</p>
+<p><strong>Fiduciary Duties</strong>: A trustee’s fiduciary duties include:
+(i) a duty to act in good faith and for proper purposes; (ii) a duty not
+to make a profit out of the trust; and (iii) a duty to not place himself
+in a position of conflict.</p>
 </li>
 </ul>
 <p>Trustees should seek their own legal advice should they require more information
@@ -180,41 +176,31 @@ Singapore is also a member of the Global Forum on Transparency and Exchange
 of Information for Tax Purposes.</p>
 <p>In line with these international standards, Singapore requires trustees
 to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Obtain and verify information of relevant trust parties (i.e. all settlors,
+<p>1. Obtain and verify information of relevant trust parties (i.e. all settlors,
 trustees, protectors, beneficiaries, and persons who have any power over
 the disposition of the trust);</p>
-</li>
-<li>
-<p>Obtain and verify information about the effective controllers of relevant
+<p>2. Obtain and verify information about the effective controllers of relevant
 trust parties;</p>
-</li>
-<li>
-<p>Obtain information about persons appointed or engaged as a service supplier
-to the relevant trust (i.e. an agent of, or a service provider to, the
-relevant trust including any investment adviser or manager, accountant
+<p>3. Obtain information about persons appointed or engaged as a service
+supplier to the relevant trust (i.e. an agent of, or a service provider
+to, the relevant trust including any investment adviser or manager, accountant
 or tax adviser);</p>
-</li>
-<li>
-<p>Update information in (1) – (3) in a timely manner and maintain records
+<p>4. Update information in (1) – (3) in a timely manner and maintain records
 for at least 5 years after the trustee ceases to be a trustee of the relevant
 trust; and</p>
-</li>
-<li>
-<p>Keep accounting records.</p>
-</li>
-</ol>
+<p>5. Keep accounting records.</p>
 <p>Failure to comply with any of the obligations listed above is an offence.</p>
 <p>The police may also require the trustee to produce the abovementioned
-information pursuant to powers of investigation under the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
+information in a timely manner pursuant to powers of investigation under
+the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
 where it considers the information to be necessary or desirable for any
 investigation, inquiry, trial or other proceeding under the CPC.</p>
 <p>These obligations apply under either:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
-Licensed Trust Companies <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and Private Trust Companies <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>.</p>
+LTCs <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and
+PTCs <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>.</p>
 </li>
 <li>
 <p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
@@ -232,11 +218,10 @@ operations) with that “specified person”. “Specified person” would inclu
 financial institutions, licensed estate agents, and lawyers.</p>
 <p><u>Report a Suspected Breach of a Trustee’s AML/CFT Obligations</u>
 </p>
-<p>If you suspect a trustee may have breached their respective obligations
+<p>If you suspect a trustee may have breached its respective obligations
 above, please write to us at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">this link.</a> Should your
-concerns relate to Licensed Trust Companies or Private Trust Companies,
-please submit the details at <a href="https://www.mas.gov.sg/consumerfeedback-form/" rel="noopener noreferrer nofollow" target="_blank">this link</a> on the
-MAS website.</p>
+concerns relate to LTCs or PTCs, please submit the details at <a href="https://www.mas.gov.sg/consumerfeedback-form/" rel="noopener noreferrer nofollow" target="_blank">this link</a> on
+the MAS website.</p>
 <p>As you may be contacted to assist in further investigations, please provide
 your name and contact details. Law enforcement agencies will follow up
 accordingly where it is decided that an investigation is warranted. Please
@@ -253,9 +238,9 @@ misappropriation or money laundering, please make a police report at
 <a href="https://eservices.police.gov.sg/content/policehubhome/e-services-general/police-report.html" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <p>If you suspect that a serious offence has been committed that needs immediate
 action, please make a police report by calling 999 or SMS 71999.</p>
-<p></p>
 <h4><strong>5. Filing of Tax Returns</strong></h4>
-<p>Trusts need to file a tax return with IRAS to declare the amount of Singapore
+<p>Trusts need to file a tax return with the Inland Revenue Authority of
+Singapore ("<strong>IRAS</strong>") to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
 more details, including requesting for a tax reference number.</p>
