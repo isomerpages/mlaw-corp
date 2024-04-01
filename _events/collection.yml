@@ -1,0 +1,9 @@
+collections:
+  events:
+    output: true
+    order:
+      - conference-overview.md
+      - programme.md
+      - speakers.md
+      - partner-organisation.md
+      - news-and-media.md
