@@ -2,8 +2,66 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
-variant: markdown
+variant: tiptap
 ---
+
+<h1><strong>Closure of Counter Services</strong></h1>
+<p>The Ministry of Law Services Centre and the PDO counter at the State Courts
+Help Centre at Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
+for a staff event. The last queue ticket will be issued at 11:15am. Our
+counter services will resume on 25 April 2024 (Thursday).</p>
+<p>Thank you for your understanding.</p>
+<h2>FAQ</h2>
+<p>Have questions?</p>
+<div class="isomer-image-wrapper">
+<img style="width: 300px; float: left;" height="auto" width="100%" title="Have Questions?" alt="Have Questions?" src="/images/mlaw-faq.png">
+</div>
+<p>
+<br>
+</p>
+<h3>Chat Online with us!</h3>
+<p><strong>Our Live Chat Agents are available from:</strong> 
+<br>Monday to Friday
+<br>8:30am to 11:30am
+<br>1:30pm to 4:30pm
+<br>
+</p>
+<p>The live chat will address enquiries on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual Insolvency</p>
+</li>
+<li>
+<p>Corporate Insolvency</p>
+</li>
+<li>
+<p>Debt Repayment scheme</p>
+</li>
+<li>
+<p>Licensing &amp; Regulation of Insolvency Practitioners</p>
+</li>
+<li>
+<p>Public Trustee</p>
+</li>
+<li>
+<p>Registry of Moneylenders</p>
+</li>
+<li>
+<p>Registry of Pawnbrokers</p>
+</li>
+</ul>
+<p>If you are unable to get through to us via the live chat, please use our
+enquiry form at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a> or
+call us at 1800 2255 529. Kindly note that airtime charges may apply for
+mobile calls made to 1800 local toll free numbers.
+<br>
+<br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
+
 
 FAQ
 ---
@@ -17,36 +75,63 @@ Have questions?
 
 <div class="paragraphs">
   <div class="content-heading"><h3>Chat Online with us!</h3></div>
+
 </div>
-
-
-  <b>Our Live Chat Agents are available from:</b><br>
-Monday to Friday<br>
-8.30am to 11.30am<br>
-1.30pm to 4.30pm<br>
-
-The live chat will address enquiries on:
-* Individual Insolvency
-* Corporate Insolvency
-* Debt Repayment scheme
-* Licensing &amp; Regulation of Insolvency Practitioners
-* Public Trustee
-* Registry of Moneylenders
-* Registry of Pawnbrokers
-
-If you are unable to get through to us via the live chat, please use our enquiry form at <a href="https://go.gov.sg/contactminlaw">https://go.gov.sg/contactminlaw</a> or call us at 1800-225 5529.<br>
+<h3>Contact Us @ OneMinLaw</h3>
+<p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
+Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
+information regarding ad hoc maintenance.
 <br>
-<a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" style="display:inline-block;padding:10px;color:#fff;background:#a40935;text-decoration:none">Chat with us</a><br><br>
-
-
-
-<div class="paragraphs">
-   <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/enq.png" title="Contact Us" alt="Contact Us"></a>
-   <div class="content-heading">
-   <h3> Contact Us @ OneMinLaw</h3>
-  </div>
+</p>
+<p>You can send us your feedback and enquiries on the following issues:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bankruptcy Matters</p>
+</li>
+<li>
+<p>Public Trustee's Office &amp; Motor Accident Compensation</p>
+</li>
+<li>
+<p>Registry of Moneylenders</p>
+</li>
+<li>
+<p>Registry of Pawnbrokers</p>
+</li>
+<li>
+<p>Legal Aid</p>
+</li>
+<li>
+<p>Criminal Defence Aid</p>
+</li>
+<li>
+<p>Community Mediation</p>
+</li>
+<li>
+<p>Legal Services Regulation</p>
+</li>
+<li>
+<p>Exemptions for Admission to the Singapore Bar</p>
+</li>
+<li>
+<p>General Enquiries</p>
+</li>
+<li>
+<p>Anti-Money Laundering/ Countering the Financing of Terrorism</p>
+</li>
+<li>
+<p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
+
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
+
 
 Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every Thursday from 1800 hrs to 2359 hrs. Please also refer to [this page](https://www.mlaw.gov.sg/e-services/) for information regarding all system maintenance activities.<br>
 
@@ -78,52 +163,68 @@ You can send us your feedback and enquiries on the following issues:
    <div class="content-heading">
    <h3>Location</h3>
   </div>
+
 </div>
-
-**Ministry of Law Services Centre**
-
-45 Maxwell Road<br>
-#07-11 The URA Centre (East Wing)<br>
-Singapore 069118<br>
-
-Click [here](/files/ura%20east%20wing%20entrance.pdf) to view the entrance of The URA Centre (East Wing).
-
-Nearest MRT station: Maxwell (Thomson - East Coast Line)<br>
-We are located opposite Maxwell Food Centre.<br>
-
-<u>Wheelchair access / by private transport</u>
-
-There is a drop-off/pick-up point near the entrance of the CPF Maxwell Services Centre. Once you alight, you will see the entrance to The URA Centre (East Wing), which leads to the lift lobby of The URA Centre (East Wing).<br>
-
-If you are coming from the drop-off area in front of the Singapore City Gallery (where the Samsui women statues are located), enter the Singapore City Gallery and take the lift up to Level 3. From there, turn right and look for the sign that points to The URA Centre (East Wing). This will bring you to the link bridge that connects the Singapore City Gallery to the adjourning URA Centre (East Wing) building. Take the lift at The URA Centre (East Wing) to Level 7.<br>
-
-**Counter Operating Hours**
-
-Monday to Friday, 8.30am to 5.00pm (Last queue ticket will be issued at 4.30pm)<br>
-(To avoid the crowd, members of public are advised to visit the Services Centre between 8.30am to 11.00am.)<br>
-Closed on weekends and public holidays<br>
-
-**List of community touch points with videoconferencing facilities with the Ministry of Law**<br>
-
-Appointments are available every Friday, 10am to 4.30pm via [LifeSG](https://go.gov.sg/mlawvc).<br>
-Hours may differ on eves of public holidays. Closed on public holidays. <br> Click [here](/files/minlaw%20community%20touch%20points.pdf) for more information.
-
+<h3>Location</h3>
+<p><strong>Ministry of Law Services Centre</strong>
+</p>
+<p>45 Maxwell Road
+<br>#07-11 The URA Centre (East Wing)
+<br>Singapore 069118
 <br>
-
-<div class="paragraphs">
-   <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/call.png" title="Call Us" alt="Call Us"></a>
-   <div class="content-heading">
-   <h3> Call Us</h3>
-  </div>
+</p>
+<p>Click <a href="/files/ura%20east%20wing%20entrance.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the entrance of The URA Centre (East Wing).</p>
+<p>Nearest MRT station: Maxwell (Thomson - East Coast Line)
+<br>We are located opposite Maxwell Food Centre.
+<br>
+</p>
+<p><u>Wheelchair access / by private transport</u>
+</p>
+<p>There is a drop-off/pick-up point near the entrance of the CPF Maxwell
+Services Centre. Once you alight, you will see the entrance to The URA
+Centre (East Wing), which leads to the lift lobby of The URA Centre (East
+Wing).
+<br>
+</p>
+<p>If you are coming from the drop-off area in front of the Singapore City
+Gallery (where the Samsui women statues are located), enter the Singapore
+City Gallery and take the lift up to Level 3. From there, turn right and
+look for the sign that points to The URA Centre (East Wing). This will
+bring you to the link bridge that connects the Singapore City Gallery to
+the adjourning URA Centre (East Wing) building. Take the lift at The URA
+Centre (East Wing) to Level 7.
+<br>
+</p>
+<p><strong>Counter Operating Hours</strong>
+</p>
+<p>Monday to Friday, 8:30am to 5:00pm (Last queue ticket will be issued at
+4:30pm).
+<br>To avoid the crowd, members of the public are advised to visit the Services
+Centre between 8:30am to 11:00am.
+<br>Closed on weekends and public holidays.
+<br>
+</p>
+<p><strong>List of community touch points with videoconferencing facilities with the Ministry of Law</strong> 
+<br>
+</p>
+<p>Appointments are available every Friday, 10am to 4:30pm via <a href="https://go.gov.sg/mlawvc" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>.
+<br>Hours may differ on eves of public holidays. Closed on public holidays.
+<br>Click <a href="/files/minlaw%20community%20touch%20points.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
 </div>
-
-Tel: 1800 2255 529<br>
-For overseas callers, please use +65 62255 529
-
-Enquiry Line Operating Hours
-
-Monday to Friday: 8:30am to 5:00pm<br>
-(Closed on Weekends &amp; Public Holidays)
-
-<p class="right-side-updated">Last updated on 01 Dec 2022</p>
+<h3>Call Us</h3>
+<p>Tel: 1800 2255 529
+<br>For overseas callers, please use +65 6225 5529
+<br>Kindly note that airtime charges may apply for mobile calls made to 1800
+local toll free numbers.</p>
+<p><u>Enquiry Line Operating Hours</u> 
+<br>Monday to Friday: 8:30am to 5:00pm
+<br>Closed on Weekends &amp; Public Holidays.</p>
+<p></p>
+<p>Last updated on 2 April 2024</p>
