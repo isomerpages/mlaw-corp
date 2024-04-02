@@ -143,8 +143,9 @@ Centre (East Wing) to Level 7.
 <p><strong>Counter Operating Hours</strong>
 </p>
 <p>Monday to Friday, 8:30am to 5:00pm (Last queue ticket will be issued at
-4:30pm). To avoid the crowd, members of the public are advised to visit
-the Services Centre between 8:30am to 11:00am.
+4:30pm).
+<br>To avoid the crowd, members of the public are advised to visit the Services
+Centre between 8:30am to 11:00am.
 <br>Closed on weekends and public holidays.
 <br>
 </p>
