@@ -4,6 +4,12 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 variant: tiptap
 ---
+<h1><strong>Closure of Counter Services</strong></h1>
+<p>The Ministry of Law Services Centre and the PDO counter at the State Courts
+Help Centre at Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
+for a staff event. The last queue ticket will be issued at 11:15am. Our
+counter services will resume on 25 April 2024 (Thursday).</p>
+<p>Thank you for your understanding.</p>
 <h2>FAQ</h2>
 <p>Have questions?</p>
 <div class="isomer-image-wrapper">
