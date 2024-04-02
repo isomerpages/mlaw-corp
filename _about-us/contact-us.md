@@ -45,8 +45,8 @@ variant: tiptap
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
 enquiry form at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a> or
-call us at 1800-225 5529. Kindly note that airtime charges apply for mobile
-calls made to “1800” service lines.
+call us at 1800 2255 529. Kindly note that airtime charges may apply for
+mobile calls made to 1800 local toll free numbers.
 <br>
 <br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
@@ -164,9 +164,9 @@ more information.</p>
 </div>
 <h3>Call Us</h3>
 <p>Tel: 1800 2255 529
-<br>For overseas callers, please use +65 62255 529
-<br>Kindly note that airtime charges apply for mobile calls made to “1800”
-service lines.</p>
+<br>For overseas callers, please use +65 6225 5529
+<br>Kindly note that airtime charges may apply for mobile calls made to 1800
+local toll free numbers.</p>
 <p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>Closed on Weekends &amp; Public Holidays.</p>
