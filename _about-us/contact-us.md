@@ -4,6 +4,7 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 variant: tiptap
 ---
+
 <h1><strong>Closure of Counter Services</strong></h1>
 <p>The Ministry of Law Services Centre and the PDO counter at the State Courts
 Help Centre at Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
@@ -60,6 +61,21 @@ mobile calls made to 1800 local toll free numbers.
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
+
+
+FAQ
+---
+
+Have questions?
+
+<div class="image">
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
+</div><br>
+
+
+<div class="paragraphs">
+  <div class="content-heading"><h3>Chat Online with us!</h3></div>
+
 </div>
 <h3>Contact Us @ OneMinLaw</h3>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
@@ -109,11 +125,45 @@ information regarding ad hoc maintenance.
 <div class="isomer-image-wrapper">
 <img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
+
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
+
+
+Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every Thursday from 1800 hrs to 2359 hrs. Please also refer to [this page](https://www.mlaw.gov.sg/e-services/) for information regarding all system maintenance activities.<br>
+
+You can send us your feedback and enquiries on the following issues: 
+
+* Bankruptcy Matters
+* Public Trustee's Office &amp; Motor Accident Compensation
+* Registry of Moneylenders
+* Registry of Pawnbrokers
+* Legal Aid
+* Criminal Defence Aid
+* Community Mediation
+* Legal Services Regulation
+* Exemptions for Admission to the Singapore Bar
+* General Enquiries
+* Anti-Money Laundering/ Countering the Financing of Terrorism
+* Licensing &amp; Regulation of Insolvency Practitioners Division 
+
+<div class="image">
+  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
+</div><br>
+
+
+
+
+<div class="paragraphs">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
+   <img style="float:left; width: 40px;" src="/images/loc.png" title="Location" alt="Location"></a>
+   <div class="content-heading">
+   <h3>Location</h3>
+  </div>
+
 </div>
 <h3>Location</h3>
 <p><strong>Ministry of Law Services Centre</strong>

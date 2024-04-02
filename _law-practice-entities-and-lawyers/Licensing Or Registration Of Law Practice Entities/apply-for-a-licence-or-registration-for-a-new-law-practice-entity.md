@@ -1,12 +1,10 @@
 ---
-title: 'Apply for a Licence or Registration for a New Law Practice Entity'
+title: Apply for a Licence or Registration for a New Law Practice Entity
 permalink: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity/
-breadcrumb: 'Apply for a Licence or Registration for a New Law Practice Entity'
-third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
-
+breadcrumb: Apply for a Licence or Registration for a New Law Practice Entity
+third_nav_title: Licensing Or Registration Of Law Practice Entities
+variant: markdown
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
   table tr td p {font-size: 1rem;}
@@ -22,7 +20,7 @@ Apply for a Licence or Registration for a New Law Practice Entity
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Step</th>
     <th>Exceptions</th>
   </tr>
@@ -41,8 +39,8 @@ Apply for a Licence or Registration for a New Law Practice Entity
 If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/main/" target="_blank">SingPass website</a>.</li>
         <li>If you are not eligible for SingPass, you can approach a third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/index.php/practitioners-directory/" target="_blank">a corporate services provider.</a></li>
           </ul>
-        </li>
-      </ul>
+        
+      
     </td>
     <td>
       <ul>
@@ -96,7 +94,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify">If the application is approved, the LSRA will issue you an in-principle approval letter.  You will then need to register the business entity with the Accounting and Corporate Regulatory Authority (“ACRA”) via <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=12873816544343619&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D12873816544343619%26_afrWindowMode%3D0%26_adf.ctrl-state%3D12uks2andg_4" target="_blank">BizFile</a>.</li>
+        <li style="text-align:justify">If the application is approved, the LSRA will issue you an in-principle approval letter.  You will then need to register the business entity with the Accounting and Corporate Regulatory Authority (“ACRA”) via <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=12873816544343619&amp;_afrWindowMode=0&amp;_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D12873816544343619%26_afrWindowMode%3D0%26_adf.ctrl-state%3D12uks2andg_4" target="_blank">BizFile</a>.</li>
       </ul>
     </td>
     <td>
@@ -114,7 +112,6 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify">Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
         <li style="text-align:justify">Once ACRA approves the business entity and issues the UEN, you should login to LSRA e-Services using SingPass, retrieve the application from myDashboard, update the UEN, upload the professional indemnity insurance document (if available), and pay the licence/registration fee. The professional indemnity insurance document can also be uploaded via an update application via myDashboard.</li>
         <li style="text-align:justify">If you are applying for a licence for a new law practice entity because you are changing the legal structure of an existing law practice entity, please ensure that you also submit an application via LSRA e-Services to terminate the existing law practice entity. To ensure continuity of operations, the requested start date of the new law practice entity should be the day after the requested last day of operations of the existing law practice entity. Please note that the lawyers in your law practice will also need to submit a Notice of Change via eLitigation (for Singapore solicitors) or apply to LSRA for new Certificates of Registration (for Singapore solicitors in foreign law practice entities or foreign-qualified lawyers). After the termination application is approved, the Certificates of Registration of all individuals registered under the existing law practice will be automatically terminated on the last day of operations of the existing law practice</li>
         <li style="text-align:justify">The licence/registration fee can be found in the First Schedule of the Legal Profession (Law Practice Entities) Rules 2015.</li>
@@ -146,6 +143,6 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
-</table>
+</tbody></table>
 
 <p class="right-side-updated">Last updated on 06 Jun 2018</p>
