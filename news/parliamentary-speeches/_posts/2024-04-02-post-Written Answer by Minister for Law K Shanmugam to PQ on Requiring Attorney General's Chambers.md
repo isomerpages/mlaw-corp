@@ -14,7 +14,7 @@ variant: markdown
 
 <b>Ms Hany Soh (Member of Parliament for Marsiling-Yew Tee GRC)</b>
 
-<b><u>Question</u></b>
+<b><u>Question:</u></b>
 <br>To ask the Minister for Law in respect of the Guidelines on Reduction in Sentencing for Guilty Pleas, whether the Ministry will consider (i) requiring the Attorney-General's Chambers (AGC) to indicate its plea offer and sentencing position by Stage 1 of court proceedings and (ii) for the 12-week timeline to commence only upon AGC’s indication, to better assist accused persons in making decisions and defence counsel in advising their clients.
 
 <b><u>Written Answer:</u></b>
