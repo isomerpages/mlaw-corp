@@ -13,10 +13,10 @@ variant: tiptap
 <br>
 </p>
 <h3>Chat Online with us!</h3>
-<p><strong>Our Live Chat Agents are available from:</strong>
+<p><strong>Our Live Chat Agents are available from:</strong> 
 <br>Monday to Friday
-<br>8.30am to 11.30am
-<br>1.30pm to 4.30pm
+<br>8:30am to 11:30am
+<br>1:30pm to 4:30pm
 <br>
 </p>
 <p>The live chat will address enquiries on:</p>
@@ -48,7 +48,7 @@ enquiry form at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferr
 call us at 1800-225 5529. Kindly note that airtime charges apply for mobile
 calls made to “1800” service lines.
 <br>
-<br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a>
+<br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
 <br>
 </p>
@@ -57,7 +57,7 @@ calls made to “1800” service lines.
 </div>
 <h3>Contact Us @ OneMinLaw</h3>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
-Thursday from 1800 hrs to 2359 hrs. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
+Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
 <br>
 </p>
@@ -142,16 +142,16 @@ Centre (East Wing) to Level 7.
 </p>
 <p><strong>Counter Operating Hours</strong>
 </p>
-<p>Monday to Friday, 8.30am to 5.00pm (Last queue ticket will be issued at
-4.30pm). To avoid the crowd, members of the public are advised to visit
-the Services Centre between 8.30am to 11.00am.
+<p>Monday to Friday, 8:30am to 5:00pm (Last queue ticket will be issued at
+4:30pm). To avoid the crowd, members of the public are advised to visit
+the Services Centre between 8:30am to 11:00am.
 <br>Closed on weekends and public holidays.
 <br>
 </p>
-<p><strong>List of community touch points with videoconferencing facilities with the Ministry of Law</strong>
+<p><strong>List of community touch points with videoconferencing facilities with the Ministry of Law</strong> 
 <br>
 </p>
-<p>Appointments are available every Friday, 10am to 4.30pm via <a href="https://go.gov.sg/mlawvc" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>.
+<p>Appointments are available every Friday, 10am to 4:30pm via <a href="https://go.gov.sg/mlawvc" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>.
 <br>Hours may differ on eves of public holidays. Closed on public holidays.
 <br>Click <a href="/files/minlaw%20community%20touch%20points.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
@@ -166,7 +166,7 @@ more information.</p>
 <br>For overseas callers, please use +65 62255 529
 <br>Kindly note that airtime charges apply for mobile calls made to “1800”
 service lines.</p>
-<p><u>Enquiry Line Operating Hours</u>
+<p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>(Closed on Weekends &amp; Public Holidays)</p>
 <p></p>
