@@ -47,19 +47,15 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </li>
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
-enquiry form at https://go.gov.sg/contactminlaw or call us at 1800 2255
-529<sup>*</sup>.
-<br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
-to ‘1800’ local toll-free numbers.
-<br>
+enquiry form w or call us.
 <br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
+<br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
 </div>
-<h2><br>Contact Us @ OneMinLaw</h2>
+<h2>Contact Us @ OneMinLaw</h2>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
