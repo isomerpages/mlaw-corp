@@ -46,10 +46,9 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Registry of Pawnbrokers</p>
 </li>
 </ul>
-<p>If you are unable to get through to us via the live chat, please use our
+<p><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
+<br>If you are unable to get through to us via the live chat, please use our
 enquiry form or call us.
-<br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
