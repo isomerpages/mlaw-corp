@@ -48,9 +48,9 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
 enquiry form at https://go.gov.sg/contactminlaw or call us at 1800 2255
-529*.
-<br>*Airtime charges may apply to calls made from mobile phones to ‘1800’
-local toll-free numbers.
+529<sup>*</sup>.
+<br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
+to ‘1800’ local toll-free numbers.
 <br>
 <br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
@@ -59,7 +59,7 @@ local toll-free numbers.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
 </div>
-<h3><br>Contact Us @ OneMinLaw</h3>
+<h2><br>Contact Us @ OneMinLaw</h2>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
@@ -115,7 +115,7 @@ information regarding ad hoc maintenance.
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
 </div>
 <h2>Location</h2>
-<p><strong>Ministry of Law Services Centre</strong>
+<p><strong>Ministry of Law Services Centre</strong> 
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
 <br>Singapore 069118
@@ -127,7 +127,7 @@ view the entrance of The URA Centre (East Wing).</p>
 <br>We are located opposite Maxwell Food Centre.
 <br>
 </p>
-<p><u>Wheelchair access / by private transport</u>
+<p><u>Wheelchair access / by private transport</u> 
 <br>There is a drop-off/pick-up point near the entrance of the CPF Maxwell
 Services Centre. Once you alight, you will see the entrance to The URA
 Centre (East Wing), which leads to the lift lobby of The URA Centre (East
@@ -143,7 +143,7 @@ the adjourning URA Centre (East Wing) building. Take the lift at The URA
 Centre (East Wing) to Level 7.
 <br>
 </p>
-<p><strong>Counter Operating Hours</strong>
+<p><strong>Counter Operating Hours</strong> 
 <br>Monday to Friday, 8:30am to 5:00pm (Last queue ticket will be issued at
 4:30pm).
 <br>To avoid the crowd, members of the public are advised to visit the Services
@@ -163,8 +163,9 @@ more information.</p>
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
 </div>
 <h2>Call Us</h2>
-<p>Tel: 1800 2255 529*
-<br>
+<p>Tel: 1800 2255 529<sup>*</sup> 
+<br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
+to ‘1800’ local toll-free numbers.
 <br>For overseas callers, please use +65 6225 5529
 <br>
 </p>
