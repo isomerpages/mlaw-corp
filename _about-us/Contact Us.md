@@ -163,5 +163,3 @@ to ‘1800’ local toll-free numbers.
 <p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>Closed on Weekends &amp; Public Holidays.</p>
-<p></p>
-<p>Last updated on 2 April 2024</p>
