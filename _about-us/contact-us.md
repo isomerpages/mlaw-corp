@@ -50,8 +50,8 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </li>
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
-enquiry form at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a> or
-call us at 1800 2255 529*.
+enquiry form at https://go.gov.sg/contactminlaw or call us at 1800 2255
+529*.
 <br>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers.
 <br>
@@ -234,13 +234,12 @@ more information.</p>
 </div>
 <h3>Call Us</h3>
 <p>Tel: 1800 2255 529*
-<br>*Airtime charges may apply to calls made from mobile phones to ‘1800’
-local toll-free numbers.*
 <br>For overseas callers, please use +65 6225 5529
 <br>
 </p>
 <p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>Closed on Weekends &amp; Public Holidays.</p>
-<p></p>
+<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers.</p>
 <p>Last updated on 2 April 2024</p>
