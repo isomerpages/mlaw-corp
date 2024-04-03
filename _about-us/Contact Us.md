@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong>Closure of Counter Services</strong></h2>
@@ -44,15 +44,15 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Registry of Pawnbrokers</p>
 </li>
 </ul>
-<p><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
-<br>
+<p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+chat with us.
 <br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
 </div>
-<h2>Contact Us @ OneMinLaw</h2>
+<h3><strong>Contact Us @ OneMinLaw</strong></h3>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
@@ -98,17 +98,14 @@ information regarding ad hoc maintenance.
 </li>
 </ul>
 <p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-contact us.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/contactminlaw"><img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png"></a>
-<p>
+contact us.
 <br>
-</p>
-<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
 </div>
-<h2>Location</h2>
+<h3><strong>Location</strong></h3>
 <p><strong>Ministry of Law Services Centre</strong> 
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
@@ -156,7 +153,7 @@ more information.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
 </div>
-<h2>Call Us</h2>
+<h3><strong>Call Us</strong></h3>
 <p>Tel: 1800 2255 529<sup>*</sup> 
 <br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
 to ‘1800’ local toll-free numbers.
