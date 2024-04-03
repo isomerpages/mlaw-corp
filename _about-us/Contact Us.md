@@ -2,7 +2,8 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
-variant: tiptap
+variant: markdown
+description: ""
 ---
 <h1><strong>Closure of Counter Services</strong></h1>
 <p>The Ministry of Law Services Centre and the PDO counter at the State Courts
@@ -100,8 +101,9 @@ information regarding ad hoc maintenance.
 <p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
 </li>
 </ul>
+<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to contact us.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
+<img href="https://go.gov.sg/contactminlaw/" style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
 <p>
 <br>
