@@ -4,10 +4,9 @@ permalink: /about-us/contact-us/
 breadcrumb: Contact Us
 variant: tiptap
 ---
-
 <h1><strong>Closure of Counter Services</strong></h1>
 <p>The Ministry of Law Services Centre and the PDO counter at the State Courts
-Help Centre at Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
+Help Centre, Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
 for a staff event. The last queue ticket will be issued at 11:15am. Our
 counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Thank you for your understanding.</p>
@@ -51,9 +50,10 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </li>
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
-enquiry form at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a> or
-call us at 1800 2255 529. Kindly note that airtime charges may apply for
-mobile calls made to 1800 local toll free numbers.
+enquiry form at https://go.gov.sg/contactminlaw or call us at 1800 2255
+529*.
+<br>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers.
 <br>
 <br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
@@ -61,22 +61,16 @@ mobile calls made to 1800 local toll free numbers.
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
-
-
-FAQ
----
-
-Have questions?
-
-<div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png" title="Have Questions?" alt="Have Questions?" style="width: 300px; float: left;"></a>
-</div><br>
-
-
-<div class="paragraphs">
-  <div class="content-heading"><h3>Chat Online with us!</h3></div>
-
 </div>
+<h2>FAQ</h2>
+<p>Have questions?</p>
+<div class="isomer-image-wrapper">
+<img style="width: 300px; float: left;" height="auto" width="100%" title="Have Questions?" alt="Have Questions?" src="/images/mlaw-faq.png">
+</div>
+<p>
+<br>
+</p>
+<h3>Chat Online with us!</h3>
 <h3>Contact Us @ OneMinLaw</h3>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
@@ -125,46 +119,66 @@ information regarding ad hoc maintenance.
 <div class="isomer-image-wrapper">
 <img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
-
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
-
-
-Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every Thursday from 1800 hrs to 2359 hrs. Please also refer to [this page](https://www.mlaw.gov.sg/e-services/) for information regarding all system maintenance activities.<br>
-
-You can send us your feedback and enquiries on the following issues: 
-
-* Bankruptcy Matters
-* Public Trustee's Office &amp; Motor Accident Compensation
-* Registry of Moneylenders
-* Registry of Pawnbrokers
-* Legal Aid
-* Criminal Defence Aid
-* Community Mediation
-* Legal Services Regulation
-* Exemptions for Admission to the Singapore Bar
-* General Enquiries
-* Anti-Money Laundering/ Countering the Financing of Terrorism
-* Licensing &amp; Regulation of Insolvency Practitioners Division 
-
-<div class="image">
-  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png" title="Contact Us" alt="Contact Us" style="width: 300px; float: left;"></a>
-</div><br>
-
-
-
-
-<div class="paragraphs">
-   <a href="https://eservices.mlaw.gov.sg/enquiry/">
-   <img style="float:left; width: 40px;" src="/images/loc.png" title="Location" alt="Location"></a>
-   <div class="content-heading">
-   <h3>Location</h3>
-  </div>
-
 </div>
+<p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
+Thursday from 1800 hrs to 2359 hrs. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
+information regarding all system maintenance activities.
+<br>
+</p>
+<p>You can send us your feedback and enquiries on the following issues:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bankruptcy Matters</p>
+</li>
+<li>
+<p>Public Trustee's Office &amp; Motor Accident Compensation</p>
+</li>
+<li>
+<p>Registry of Moneylenders</p>
+</li>
+<li>
+<p>Registry of Pawnbrokers</p>
+</li>
+<li>
+<p>Legal Aid</p>
+</li>
+<li>
+<p>Criminal Defence Aid</p>
+</li>
+<li>
+<p>Community Mediation</p>
+</li>
+<li>
+<p>Legal Services Regulation</p>
+</li>
+<li>
+<p>Exemptions for Admission to the Singapore Bar</p>
+</li>
+<li>
+<p>General Enquiries</p>
+</li>
+<li>
+<p>Anti-Money Laundering/ Countering the Financing of Terrorism</p>
+</li>
+<li>
+<p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
+</div>
+<h3>Location</h3>
 <h3>Location</h3>
 <p><strong>Ministry of Law Services Centre</strong>
 </p>
@@ -219,12 +233,13 @@ more information.</p>
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
 </div>
 <h3>Call Us</h3>
-<p>Tel: 1800 2255 529
+<p>Tel: 1800 2255 529*
 <br>For overseas callers, please use +65 6225 5529
-<br>Kindly note that airtime charges may apply for mobile calls made to 1800
-local toll free numbers.</p>
+<br>
+</p>
 <p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>Closed on Weekends &amp; Public Holidays.</p>
-<p></p>
+<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers.</p>
 <p>Last updated on 2 April 2024</p>
