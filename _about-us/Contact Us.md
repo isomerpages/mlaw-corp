@@ -101,7 +101,7 @@ information regarding ad hoc maintenance.
 <p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
 </li>
 </ul>
-<p>Click [here](https://go.gov.sg/contactminlaw) to contact us</p>
+<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to contact us.</p>
 <div class="isomer-image-wrapper">
 <img href="https://go.gov.sg/contactminlaw/" style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
