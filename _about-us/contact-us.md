@@ -47,7 +47,7 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </li>
 </ul>
 <p>If you are unable to get through to us via the live chat, please use our
-enquiry form w or call us.
+enquiry form or call us.
 <br><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
 <br>
 <br>
