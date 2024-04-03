@@ -1,7 +1,7 @@
 ---
 title: Written Answer by Minister for Law K Shanmugam to PQ on Continued
-  Availability of Plea Bargains
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-continued-availability-of-plea-bargains/
+  Availability of Plea Bargains After Published Guidelines on Reduction in Sentences for Guilty Pleas
+permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-continued-availability-of-plea-bargains-after-published-guidelines-reduction-in-sentences-for-guilty-pleas/
 date: 2024-04-03
 layout: post
 description: ""
