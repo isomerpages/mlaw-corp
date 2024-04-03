@@ -2,21 +2,21 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 breadcrumb: Contact Us
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h1><strong>Closure of Counter Services</strong></h1>
+<h2><strong>Closure of Counter Services</strong></h2>
 <p>The Ministry of Law Services Centre and the PDO counter at the State Courts
 Help Centre, Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
 for a staff event. The last queue ticket will be issued at 11:15am. Our
-counter services will resume on 25 April 2024 (Thursday).</p>
-<p>Thank you for your understanding.</p>
-<h2>FAQ</h2>
-<p>Have questions?</p>
-<div class="isomer-image-wrapper">
-<img style="width: 300px; float: left;" height="auto" width="100%" title="Have Questions?" alt="Have Questions?" src="/images/mlaw-faq.png">
-</div>
-<h2><br>Chat Online with us!</h2>
+counter services will resume on 25 April 2024 (Thursday).
+<br>
+<br>Thank you for your understanding.</p>
+<p></p>
+<p></p>
+<blockquote>
+<h3><strong>Chat Online with Us!</strong></h3>
+</blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
 <br>Monday to Friday
 <br>8:30am to 11:30am
@@ -47,16 +47,13 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Registry of Pawnbrokers</p>
 </li>
 </ul>
-<p><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us</a> 
-<br>If you are unable to get through to us via the live chat, please use our
-enquiry form or call us.
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
-</div>
-<h2>Contact Us @ OneMinLaw</h2>
+<p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+chat with us.</p>
+<p></p>
+<p></p>
+<blockquote>
+<h3><strong>Contact Us @ OneMinLaw</strong></h3>
+</blockquote>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
@@ -101,18 +98,14 @@ information regarding ad hoc maintenance.
 <p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
 </li>
 </ul>
-<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to contact us.</p>
-<div class="isomer-image-wrapper">
-<img href="https://go.gov.sg/contactminlaw/" style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
-</div>
-<p>
+<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+contact us.
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
-</div>
-<h2>Location</h2>
+<blockquote>
+<h3><strong>Location</strong></h3>
+</blockquote>
 <p><strong>Ministry of Law Services Centre</strong> 
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
@@ -157,10 +150,9 @@ more information.
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
-</div>
-<h2>Call Us</h2>
+<blockquote>
+<h3><strong>Call Us</strong></h3>
+</blockquote>
 <p>Tel: 1800 2255 529<sup>*</sup> 
 <br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
 to ‘1800’ local toll-free numbers.
@@ -170,5 +162,3 @@ to ‘1800’ local toll-free numbers.
 <p><u>Enquiry Line Operating Hours</u> 
 <br>Monday to Friday: 8:30am to 5:00pm
 <br>Closed on Weekends &amp; Public Holidays.</p>
-<p></p>
-<p>Last updated on 2 April 2024</p>
