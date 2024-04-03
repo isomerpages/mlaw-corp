@@ -11,10 +11,9 @@ Help Centre, Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
 for a staff event. The last queue ticket will be issued at 11:15am. Our
 counter services will resume on 25 April 2024 (Thursday).
 <br>
-<br>Thank you for your understanding.
-<br>
-<br>
-</p>
+<br>Thank you for your understanding.</p>
+<p></p>
+<p></p>
 <blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
@@ -49,10 +48,9 @@ counter services will resume on 25 April 2024 (Thursday).
 </li>
 </ul>
 <p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-chat with us.
-<br>
-<br>
-</p>
+chat with us.</p>
+<p></p>
+<p></p>
 <blockquote>
 <h3><strong>Contact Us @ OneMinLaw</strong></h3>
 </blockquote>
