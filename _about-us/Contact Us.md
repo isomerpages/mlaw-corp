@@ -49,11 +49,7 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 chat with us.
 <br>
-<br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
-</div>
 <blockquote>
 <h3><strong>Contact Us @ OneMinLaw</strong></h3>
 </blockquote>
@@ -106,9 +102,6 @@ contact us.
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
-</div>
 <blockquote>
 <h3><strong>Location</strong></h3>
 </blockquote>
@@ -156,9 +149,6 @@ more information.
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
-</div>
 <blockquote>
 <h3><strong>Call Us</strong></h3>
 </blockquote>
