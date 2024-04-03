@@ -50,6 +50,7 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <br>If you are unable to get through to us via the live chat, please use our
 enquiry form or call us.
 <br>
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
