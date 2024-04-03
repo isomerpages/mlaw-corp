@@ -102,7 +102,7 @@ information regarding ad hoc maintenance.
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
+<img href="https://go.gov.sg/contactminlaw/" style="width: 300px; float: left;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/mlaw-contactus.png">
 </div>
 <p>
 <br>
