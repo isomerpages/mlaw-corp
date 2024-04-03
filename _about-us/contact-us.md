@@ -151,8 +151,8 @@ Centre between 8:30am to 11:00am.
 <br>Appointments are available every Friday, 10am to 4:30pm via <a href="https://go.gov.sg/mlawvc" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>.
 <br>Hours may differ on eves of public holidays. Closed on public holidays.
 <br>Click <a href="/files/minlaw%20community%20touch%20points.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information.</p>
-<p>
+more information.
+<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
