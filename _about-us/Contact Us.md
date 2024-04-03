@@ -13,7 +13,9 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 <p>Thank you for your understanding.
 <br>
 </p>
+<blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
+</blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
 <br>Monday to Friday
 <br>8:30am to 11:30am
@@ -52,7 +54,9 @@ chat with us.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Contact Us" alt="Contact Us" src="/images/enq.png">
 </div>
+<blockquote>
 <h3><strong>Contact Us @ OneMinLaw</strong></h3>
+</blockquote>
 <p>Note: Contact Us @ OneMinLaw will undergo scheduled maintenance every
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
@@ -105,7 +109,9 @@ contact us.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Location" alt="Location" src="/images/loc.png">
 </div>
+<blockquote>
 <h3><strong>Location</strong></h3>
+</blockquote>
 <p><strong>Ministry of Law Services Centre</strong> 
 <br>45 Maxwell Road
 <br>#07-11 The URA Centre (East Wing)
@@ -153,7 +159,9 @@ more information.
 <div class="isomer-image-wrapper">
 <img style="float:left; width: 40px;" height="auto" width="100%" title="Call Us" alt="Call Us" src="/images/call.png">
 </div>
+<blockquote>
 <h3><strong>Call Us</strong></h3>
+</blockquote>
 <p>Tel: 1800 2255 529<sup>*</sup> 
 <br><sup>*</sup>Airtime charges may apply to calls made from mobile phones
 to ‘1800’ local toll-free numbers.
