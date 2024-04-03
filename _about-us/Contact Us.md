@@ -9,8 +9,10 @@ description: ""
 <p>The Ministry of Law Services Centre and the PDO counter at the State Courts
 Help Centre, Basement 1 will close at 11:30am on 24 April 2024 (Wednesday)
 for a staff event. The last queue ticket will be issued at 11:15am. Our
-counter services will resume on 25 April 2024 (Thursday).</p>
-<p>Thank you for your understanding.
+counter services will resume on 25 April 2024 (Thursday).
+<br>
+<br>Thank you for your understanding.
+<br>
 <br>
 </p>
 <blockquote>
@@ -48,6 +50,7 @@ counter services will resume on 25 April 2024 (Thursday).</p>
 </ul>
 <p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 chat with us.
+<br>
 <br>
 </p>
 <blockquote>
