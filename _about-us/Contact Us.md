@@ -59,7 +59,8 @@ Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.
 information regarding ad hoc maintenance.
 <br>
 </p>
-<p>You can send us your feedback and enquiries <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+send us your feedback and enquiries.
 <br>
 <br>
 </p>
