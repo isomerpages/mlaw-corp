@@ -59,47 +59,7 @@ Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.
 information regarding ad hoc maintenance.
 <br>
 </p>
-<p>You can send us your feedback and enquiries on the following issues:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bankruptcy Matters</p>
-</li>
-<li>
-<p>Public Trustee's Office &amp; Motor Accident Compensation</p>
-</li>
-<li>
-<p>Registry of Moneylenders</p>
-</li>
-<li>
-<p>Registry of Pawnbrokers</p>
-</li>
-<li>
-<p>Legal Aid</p>
-</li>
-<li>
-<p>Criminal Defence Aid</p>
-</li>
-<li>
-<p>Community Mediation</p>
-</li>
-<li>
-<p>Legal Services Regulation</p>
-</li>
-<li>
-<p>Exemptions for Admission to the Singapore Bar</p>
-</li>
-<li>
-<p>General Enquiries</p>
-</li>
-<li>
-<p>Anti-Money Laundering/ Countering the Financing of Terrorism</p>
-</li>
-<li>
-<p>Licensing &amp; Regulation of Insolvency Practitioners Division</p>
-</li>
-</ul>
-<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-contact us.
+<p>You can send us your feedback and enquiries <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>
 </p>
