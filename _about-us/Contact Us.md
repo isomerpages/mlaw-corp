@@ -13,7 +13,6 @@ counter services will resume on 25 April 2024 (Thursday).
 <br>
 <br>Thank you for your understanding.</p>
 <p></p>
-<p></p>
 <blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
@@ -46,8 +45,12 @@ counter services will resume on 25 April 2024 (Thursday).
 <li>
 <p>Registry of Pawnbrokers</p>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mlaw_livechat_new.png"></a>
-<p></p>
+</ul>
+<p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+chat with us.
+<br>
+<br>
+</p>
 <blockquote>
 <h3><strong>Contact Us @ OneMinLaw</strong></h3>
 </blockquote>
@@ -55,8 +58,12 @@ counter services will resume on 25 April 2024 (Thursday).
 Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.gov.sg/e-services/" rel="noopener noreferrer nofollow" target="_blank">this page</a> for
 information regarding ad hoc maintenance.
 <br>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/contactminlaw"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mlaw_contactus_new.png"></a>
-<p></p>
+</p>
+<p>Click <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+send us your feedback and enquiries.
+<br>
+<br>
+</p>
 <blockquote>
 <h3><strong>Location</strong></h3>
 </blockquote>
