@@ -58,10 +58,7 @@ information regarding ad hoc maintenance.
 <br>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/contactminlaw"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mlaw_contactus_new.png"></a>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <blockquote>
 <h3><strong>Location</strong></h3>
 </blockquote>
