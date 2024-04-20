@@ -24,7 +24,7 @@ Access control measures are technologies, devices, or components that are akin t
 
 The public consultation paper can be accessed below:
 
-- Public Consultation on Prescribed Exceptions in Part 6, Division 1 of the Copyright Act Regulations \[PDF\] 
+- [](/files/2024_Public_Consultation_on_Prescribed_Exceptions_in_Part_6__Division_1_of_the_Copyright_Regulations_2021.pdf)Public Consultation on Prescribed Exceptions in Part 6, Division 1 of the Copyright Act Regulations \[PDF\] 
 
 
 **Providing feedback**
