@@ -24,7 +24,7 @@ Access control measures are technologies, devices, or components that are akin t
 
 The public consultation paper can be accessed below:
 
-- [](/files/2024_Public_Consultation_on_Prescribed_Exceptions_in_Part_6__Division_1_of_the_Copyright_Regulations_2021.pdf)Public Consultation on Prescribed Exceptions in Part 6, Division 1 of the Copyright Act Regulations \[PDF\] 
+- [Public Consultation on Prescribed Exceptions in Part 6, Division 1 of the Copyright Act Regulations]
 
 
 **Providing feedback**
@@ -33,9 +33,10 @@ Please provide your feedback by 19 May 2024.
 
 Feedback may be submitted via our feedback website (http://go.gov.sg/prescribedexceptions-consult2024), hard copy or email to: 
 
-Ministry of Law
-Intellectual Property Policy Division, Ministry of Law
-100 High Street, #08-02, The Treasury
+Post:
+ <br>
+Intellectual Property Policy Division<br>
+Ministry of Law <br>100 High Street, #08-02 <br> The Treasury<br>
 Singapore 179434	
 
 Email: 
