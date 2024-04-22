@@ -13,7 +13,6 @@ counter services will resume on 25 April 2024 (Thursday).
 <br>
 <br>Thank you for your understanding.</p>
 <p></p>
-<p></p>
 <blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
@@ -48,9 +47,10 @@ counter services will resume on 25 April 2024 (Thursday).
 </li>
 </ul>
 <p>Click <a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-chat with us.</p>
-<p></p>
-<p></p>
+chat with us.
+<br>
+<br>
+</p>
 <blockquote>
 <h3><strong>Contact Us @ OneMinLaw</strong></h3>
 </blockquote>
@@ -59,7 +59,7 @@ Thursday from 6:00pm to 11:59pm. Please also refer to <a href="https://www.mlaw.
 information regarding ad hoc maintenance.
 <br>
 </p>
-<p>Click <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<p>Click <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 send us your feedback and enquiries.
 <br>
 <br>

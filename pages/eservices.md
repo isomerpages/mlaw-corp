@@ -29,18 +29,13 @@ the following dates:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
-Mediation Centre, MinLaw Online Enquiries</p>
+Mediation Centre, MinLaw Online Enquiries,Insolvency Office, Public Trustee's
+Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
+Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
+Public Defender's Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar 2024, 1800 hrs to 29 Mar 2024, 2359 hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Legal Aid Bureau, Divorce Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Mar 2024, 1800 hrs to 1 Apr 2024, 0800 hrs</p>
+<p>06 Apr 2024, 1400 hrs to 08 Apr 2024, 0800 hrs</p>
 </td>
 </tr>
 <tr>
