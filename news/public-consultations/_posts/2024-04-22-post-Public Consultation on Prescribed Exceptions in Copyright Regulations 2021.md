@@ -34,7 +34,7 @@ Please provide your feedback by 19 May 2024.
 Feedback may be submitted via the following channels: <br>
 
 Our feedback website: <br>
-http://go.gov.sg/prescribedexceptions-consult2024 
+[http://go.gov.sg/prescribedexceptions-consult2024](http://go.gov.sg/prescribedexceptions-consult2024)
 
 
 Hard Copy via Post: <br>
