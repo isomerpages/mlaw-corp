@@ -31,11 +31,16 @@ The public consultation paper can be accessed below:
 
 Please provide your feedback by 19 May 2024.
 
-Feedback may be submitted via our feedback website (http://go.gov.sg/prescribedexceptions-consult2024), hard copy or email to: 
+Feedback may be submitted via rhe following channels: <br>
 
-Ministry of Law
-Intellectual Property Policy Division, Ministry of Law
-100 High Street, #08-02, The Treasury
+Our feedback website: <br>
+http://go.gov.sg/prescribedexceptions-consult2024 
+
+
+Hard Copy via Post: <br>
+Intellectual Property Policy Division, Ministry of Law <br>
+100 High Street, #08-02, <br>
+The Treasury
 Singapore 179434	
 
 Email: 
