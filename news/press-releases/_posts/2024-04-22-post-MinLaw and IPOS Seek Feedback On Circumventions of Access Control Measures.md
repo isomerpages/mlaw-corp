@@ -1,5 +1,6 @@
 ---
-title: MinLaw and IPOS Seek Feedback On Situations Where Circumventions of Access Control Measures Should be Allowed
+title: MinLaw and IPOS Seek Feedback On Situations Where Circumventions of
+  Access Control Measures Should be Allowed
 permalink: /minlaw-and-ipos-seek-feedback-on-circumventions-of-access-control-measures/
 date: 2024-04-22
 layout: post
@@ -42,12 +43,12 @@ ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether new exceptions should be introdu
 {:start="7"}
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members of the public are invited to submit their views by 19 May 2024.&nbsp; They may submit feedback via MinLaw’s feedback website at [http://go.gov.sg/prescribedexceptions-consult2024](http://go.gov.sg/prescribedexceptions-consult2024), email or in hard copy, with the subject or header “**2024 Public Consultation on Prescribed Exceptions in Part 6, Division 1 of the Copyright Regulations 2021**” to the following:
 
-										MinLaw
-										Intellectual Property Policy Division, Ministry of Law
-										100 High Street, #08-02, The Treasury
-										Singapore 179434
+		MinLaw
+		Intellectual Property Policy Division, Ministry of Law
+		100 High Street, #08-02, The Treasury
+		Singapore 179434
 
-										Email: MLAW_Consultation@mlaw.gov.sg
+		Email: MLAW_Consultation@mlaw.gov.sg
 
 * * *
 
