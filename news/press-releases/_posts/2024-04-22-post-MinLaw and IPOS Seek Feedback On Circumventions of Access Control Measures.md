@@ -1,5 +1,5 @@
 ---
-title: MinLaw and IPOS Seek Feedback On Circumventions of Access Control Measures
+title: MinLaw and IPOS Seek Feedback On Situations Where Circumventions of Access Control Measures Should be Allowed
 permalink: /minlaw-and-ipos-seek-feedback-on-circumventions-of-access-control-measures/
 date: 2024-04-22
 layout: post
