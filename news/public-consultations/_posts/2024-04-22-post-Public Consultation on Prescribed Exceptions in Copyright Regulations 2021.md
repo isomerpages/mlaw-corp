@@ -31,7 +31,7 @@ The public consultation paper can be accessed below:
 
 Please provide your feedback by 19 May 2024.
 
-Feedback may be submitted via rhe following channels: <br>
+Feedback may be submitted via the following channels: <br>
 
 Our feedback website: <br>
 http://go.gov.sg/prescribedexceptions-consult2024 
