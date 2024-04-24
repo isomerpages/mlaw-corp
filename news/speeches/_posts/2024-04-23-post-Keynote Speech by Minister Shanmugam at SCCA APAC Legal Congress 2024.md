@@ -1,5 +1,5 @@
 ---
-title: Keynote Speech by Minister Shanmugam at SCCA APAC Legal Congress 2024
+title: Keynote Speech by Mr K Shanmugam SC, Minister for Home Affairs and Minister for Law, at the APAC Legal Congress 2024
 permalink: /keynote-speech-by-minister-shanmugam-at-scca-apac-legal-congress-2024/
 date: 2024-04-23
 layout: post
