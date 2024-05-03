@@ -1,7 +1,6 @@
 ---
-title: Remarks by Minister for Culture, Community and Youth, and Second Minister
-  for Law Edwin Tong SC at
-permalink: /remarks-by-minister-for-culture-community-and-youth-and-second-minister-for-law-edwin-tong-sc-at/
+title: Remarks by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC at Singapore International Arbitration Centre (SIAC) Annual Appreciation Event
+permalink: /2M-remarks-SIAC-annual-appreciation-event-2024/
 date: 2024-04-29
 layout: post
 description: ""
