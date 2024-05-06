@@ -1,5 +1,6 @@
 ---
-title: Precious Stones and Precious Metals Regulated Dealer to Be Charged for Failure to Perform the Prescribed Customer Due Diligence Measures
+title: Precious Stones and Precious Metals Regulated Dealer to Be Charged for
+  Failure to Perform the Prescribed Customer Due Diligence Measures
 permalink: /pspm-regulated-dealer-to-be-charged-for-failure-to-perform-prescribed-cdd-measures/
 date: 2024-05-06
 layout: post
@@ -17,7 +18,7 @@ variant: markdown
 
 {:start="3"}
 3.	The PSMD will be charged in court on 7 May 2024 with failure to perform the prescribed CDD measures under Section 16(1) of the Precious
-Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019, punishable under Section 16(6) of the Act. The offence carries a fine of up to $100,000
+Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019, punishable under Section 16(6) of the Act. The offence carries a fine of up to $100,000.
 
 {:start="4"}
 4. The Police takes a serious view against persons who allow themselves or their businesses to facilitate fraud, scams, or money laundering. Perpetrators will be dealt with in accordance with the law.
