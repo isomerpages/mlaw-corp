@@ -8,7 +8,7 @@ variant: markdown
 What We Do
 ---
 
-The mission of the Singapore Ministry of Law’s (MinLaw) is to advance access to justice, the rule of law, the economy and society through policy, law and services. 
+The mission of the Singapore Ministry of Law (MinLaw) is to advance access to justice, the rule of law, the economy and society through policy, law and services. 
 <br><br>
 MinLaw plays the following key roles:
 
@@ -24,7 +24,7 @@ MinLaw plays the following key roles:
 
 * Regulates moneylending and pawnbroking, and supervises precious stones and metal dealers.
 
-* Oversees land policy and administration, and the development of Singapore’s intellectual property sector, supported by  its Statutory Boards 
+* Oversees land policy and administration, and the development of Singapore’s intellectual property sector, supported by  its Statutory Boards. 
 <br><br>
 The Ministry of Law is the parent ministry of the following Statutory Boards:
 
@@ -34,4 +34,4 @@ The Ministry of Law is the parent ministry of the following Statutory Boards:
 
 * [Land Surveyors Board](https://www.mlaw.gov.sg/content/lsb/en.html){:target="_blank"}
 
-<p class="right-side-updated">Last updated on 17 Mar 2020</p>
+<p class="right-side-updated">Last updated on 06 May 2024</p>
