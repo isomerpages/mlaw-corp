@@ -3,6 +3,7 @@ title: What We Do
 permalink: /about-us/what-we-do/
 breadcrumb: What We Do
 third_nav_title: What We Do
+variant: markdown
 ---
 What We Do
 ---
@@ -19,7 +20,7 @@ MinLaw plays the following key roles:
 
 * Promotes and protects Singapore’s interests through cooperation and engagement with key international and regional organisations, and bilateral partners on a range of international legal policy issues, including transnational criminal and civil justice. 
 
-* Provides community legal services such as legal aid, community mediation, insolvency administration, and public trustee services.
+* Provides community legal services such as legal aid, criminal defence aid, community mediation, insolvency administration, and public trustee services.
 
 * Regulates moneylending and pawnbroking, and supervises precious stones and metal dealers.
 
