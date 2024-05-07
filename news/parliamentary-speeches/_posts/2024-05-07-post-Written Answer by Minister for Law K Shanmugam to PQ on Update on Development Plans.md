@@ -11,7 +11,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-<b>Mr Lim Biow Chuan (Member of Parliament for Mountbatten SM)</b>
+<b>Mr Lim Biow Chuan (Member of Parliament for Mountbatten SMC)</b>
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law (a) whether development plans for the Marina Bay Golf Course have been finalised; and (b) if not, whether SLA will consider offering an extension of its lease until development plans for the land site are finalised and the site is required for further development.
