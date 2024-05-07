@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam on Proposal to Make Mediation Between Disputing Neighbours Mandatory Given Success Rate
+title: Written Answer by Minister for Law K Shanmugam on Proposal to Make
+  Mediation Between Disputing Neighbours Mandatory Given Success Rate
 permalink: /news/parliamentary-speeches/written-pq-making-mediation-between-disputing-neighbours-mandatory/
 date: 2024-02-05
 layout: post
@@ -13,7 +14,7 @@ variant: markdown
 
 **Ms Ng Ling Ling (Member of Parliament for Ang Mo Kio GRC):** 
 
-<b><u>Question</u></b>
+<b><u>Question:</u></b>
 To ask the Minister for Law in view that less than 30% of applications at the Community Mediation Centre involving disputes between neighbours had proceeded to mediation in the last three years and the high success rate of the amicable resolution of more than 80% of such mediated cases, whether the Ministry will consider making such mediation compulsory upon an application to reduce any long-drawn or escalated disputes between neighbours.
 
 <b><u>Written Answer:</u></b>
