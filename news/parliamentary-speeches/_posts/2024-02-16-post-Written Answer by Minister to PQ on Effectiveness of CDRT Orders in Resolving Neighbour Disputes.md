@@ -1,5 +1,7 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Effectiveness of Community Dispute Resolution Tribunal Orders in Resolving Neighbour Disputes
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on
+  Effectiveness of Community Dispute Resolution Tribunal Orders in Resolving
+  Neighbour Disputes
 permalink: /news/parliamentary-speeches/written-pq-effectiveness-of-cdrt-orders-neighbour-disputes/
 date: 2024-02-16
 layout: post
@@ -13,7 +15,7 @@ variant: markdown
 
 **Mr Louis Ng Kok Kwang (Member of Parliament for Nee Soon GRC):** 
 
-<b><u>Question</u></b>
+<b><u>Question:</u></b>
 To ask the Minister for Law (a) whether the Ministry continues to monitor the effectiveness of Community Dispute Resolution Tribunal (CDRT) orders issued in resolving neighbour disputes; and (b) if yes, how does the Ministry determine whether a CDRT order has been effective in resolving a dispute.
 
 <b><u>Written Answer:</u></b>
