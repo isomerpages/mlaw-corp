@@ -29,7 +29,7 @@ To ask the Minister for Law whether the Ministry will consider amending legislat
 3.	The Ministry has instead encouraged licensed moneylenders to, as set out in the Professional Service Handbook for Licensed Moneylenders, assist borrowers with financial difficulties by:
 
 <p style="margin-left: 40px"> 
-(a) restructuring the loan repayment to suit the borrower’s financial situation, or</p> 
+(a) restructuring the loan repayment to suit the borrower’s financial situation; or</p> 
 
 <p style="margin-left: 40px"> 
 (b) referring the borrower to a Social Service Agency for assistance in restructuring the loan repayment, or for consideration to be placed on a debt consolidation scheme.</p>
