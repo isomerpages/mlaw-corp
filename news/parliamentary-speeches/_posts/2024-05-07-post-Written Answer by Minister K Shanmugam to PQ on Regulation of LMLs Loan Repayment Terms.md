@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister K Shanmugam to PQ on Regulation of LMLs Loan
-  Repayment Terms
+title: Written Answer by Minister for Law K Shanmugam to PQ on Regulation of Licensed Money Lenders' Loan Repayment Terms for Low-income Borrowers
 permalink: /written-answer-by-minister-k-shanmugam-to-pq-on-regulation-of-lmls-loan-repayment-terms/
 date: 2024-05-07
 layout: post
