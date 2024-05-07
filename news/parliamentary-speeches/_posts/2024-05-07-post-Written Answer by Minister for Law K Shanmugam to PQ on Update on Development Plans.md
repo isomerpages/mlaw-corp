@@ -1,6 +1,6 @@
 ---
 title: Written Answer by Minister for Law K Shanmugam to PQ on Update on Development Plans for Marina Bay Golf Course
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-update-on-development-plans/
+permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-update-on-development-plans-for-marina-bay-golf-course/
 date: 2024-05-07
 layout: post
 description: ""
