@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Regulation of Licensed Moneylenders' Loan Repayment Terms for Low-income Borrowers
+title: Written Answer by Minister for Law K Shanmugam to PQ on Regulation of
+  Licensed Moneylenders' Loan Repayment Terms for Low-income Borrowers
 permalink: /written-answer-by-minister-k-shanmugam-to-pq-on-regulation-of-lmls-loan-repayment-terms/
 date: 2024-05-07
 layout: post
@@ -13,7 +14,7 @@ variant: markdown
 
 **Mr Kwek Hian Chuan Henry (Member of Parliament for Kebun Baru SMC):** 
 
-<b><u>Question</u></b>
+<b><u>Question:</u></b>
 To ask the Minister for Law whether the Ministry will consider amending legislation and mandate licensed moneylenders to allow borrowers from low-income backgrounds and who have borrowed unsecured loans of less than SGD15,000 opt for partial repayment at any point during the loan duration, so as to facilitate repayment and avoid recurring interest and late payment fees.
 
 <b><u>Written Answer:</u></b>
