@@ -1,6 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Rent Collected from
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-rent-collected-from/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Rent Collected from Properties Managed by Singapore Land Authority Spent on Maintenance and Safety Inspections
+permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-rent-collected-from-SLA-properties-spent-on-maintenance/
 date: 2024-05-08
 layout: post
 description: ""
