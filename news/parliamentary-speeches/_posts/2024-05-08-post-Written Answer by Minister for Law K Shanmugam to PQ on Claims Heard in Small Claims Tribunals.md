@@ -20,7 +20,7 @@ variant: markdown
 <b><u>Written Answer:</u></b>
 
 {:start="1"}
-1.  We do not track the information that the member has requested. We will explore with the Courts if they are able to collect such data.
+1.	We do not track the information that the member has requested. We will explore with the Courts if they are able to collect such data.
 
 
 <p class="right-side-updated">Last updated on 8 May 2024</p>
