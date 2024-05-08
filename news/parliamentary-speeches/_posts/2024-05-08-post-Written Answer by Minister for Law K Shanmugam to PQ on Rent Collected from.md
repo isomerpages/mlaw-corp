@@ -11,7 +11,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-<b>Ms Hazel Poa (Non-Constituency Member of Parliament</b>
+<b>Ms Hazel Poa (Non-Constituency Member of Parliament)</b>
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law in each year of the past five years (a) what proportion of rent collected from residential properties managed by the Singapore Land Authority was spent on maintenance and safety inspections; (b) what safety incidents were there; and (c) how regularly are safety inspections conducted.
