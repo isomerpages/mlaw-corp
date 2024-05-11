@@ -32,7 +32,16 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>egal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
+<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
+Mediation Centre, MinLaw Online Enquiries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 May 2024, Mon, 0600 hrs to 13 May 2024 0800 hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
