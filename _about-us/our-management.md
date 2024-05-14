@@ -2,8 +2,8 @@
 title: Our Management
 permalink: /about-us/our-management/
 breadcrumb: Our Management
+variant: markdown
 ---
-
 <style>
   .img-gallery {
   width: 200px;
@@ -33,13 +33,6 @@ Our Management
   <br>Minister for Culture, Community and Youth and
 	<br>Second Minister for Law</p>
   
-  <div class="img-gallery">
-  <img src="/images/Ms_Rahayu_Mahzam.jpg" title="Ms Rahayu Mahzam" alt="Ms Rahayu Mahzam">
-</div>
-  <p><strong>Ms Rahayu Mahzam</strong>
-  <br>Senior Parliamentary Secretary,
-	<br>Ministry of Health and Ministry of Law</p>
-
 ### **Senior Management**
 
 <div class="img-gallery">
