@@ -34,7 +34,7 @@ The public consultation paper can be accessed below:
 
 Please provide your feedback by 19 May 2024*.
 
-\*Following feedback from the public, the consultation exercise will be extended. It will now close on&nbsp;**26 May 2024**&nbsp;instead. We invite all interested parties to provide responses by then.
+\*Following feedback from the public, the consultation exercise will be extended. It will now close on&nbsp;**2 June 2024**&nbsp;instead. We invite all interested parties to provide responses by then.
 
 Feedback may be submitted via the following channels: <br>
 
