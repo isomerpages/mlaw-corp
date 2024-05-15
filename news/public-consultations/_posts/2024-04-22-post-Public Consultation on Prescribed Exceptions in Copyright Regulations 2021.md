@@ -11,7 +11,10 @@ variant: markdown
 ---
 
 **Consultation Period:**  
-22 April 2024 to 19 May 2024
+22 April 2024 to 19 May 2024*  
+
+
+
 
 MinLaw and IPOS are seeking comments on situations in which users should be permitted to circumvent technological measures that control access to copyright works or protected performances (“access control measures”).
 
@@ -29,7 +32,9 @@ The public consultation paper can be accessed below:
 
 **Providing feedback**
 
-Please provide your feedback by 19 May 2024.
+Please provide your feedback by 19 May 2024*.
+
+\*Following feedback from the public, the consultation exercise will be extended. It will now close on&nbsp;**2 June 2024**&nbsp;instead. We invite all interested parties to provide responses by then.
 
 Feedback may be submitted via the following channels: <br>
 
@@ -51,4 +56,4 @@ Please include your name, contact number, and email address in your submission, 
 **Confidentiality of feedback received**
 
 MinLaw and IPOS reserve the right to make public all or parts of any written submission and disclose the identity of the source. Commenting parties may request for confidentiality for any part of the submission that is believed to be proprietary, confidential or commercially sensitive. Any such information should be clearly marked and placed in a separate annex. If we grant confidential treatment, we will consider, but will not publicly disclose, the information. If we reject the request for confidential treatment, the information will be returned to the party that submitted it and will not be considered as part of this review. As far as possible, parties should limit any request for confidential treatment of information submitted. We will not accept any submission that requests confidential treatment of all, or a substantial part, of the submission.
-<p class="right-side-updated">Last updated on 22 April 2024</p>
+<p class="right-side-updated">Last updated on 14 May 2024</p>
