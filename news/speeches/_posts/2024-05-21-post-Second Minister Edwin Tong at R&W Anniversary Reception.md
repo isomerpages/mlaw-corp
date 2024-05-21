@@ -1,5 +1,5 @@
 ---
-title: Second Minister Edwin Tong at R&W Anniversary Reception
+title: Speech by Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong SC, at Ramdas & Wong’s 50th Anniversary Reception, Held in Conjunction with ALFA International Asia Regional Meeting 2024
 permalink: /second-minister-edwin-tong-at-r-w-anniversary-reception/
 date: 2024-05-21
 layout: post
