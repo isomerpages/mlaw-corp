@@ -1,7 +1,6 @@
 ---
-title: Speech by Minister for Culture, Community and Youth, Mr Edwin Tong SC, at
-  Tri AGC event
-permalink: /speech-by-minister-for-culture-community-and-youth-mr-edwin-tong-sc-at-tri-agc-event/
+title: Keynote Address by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the 10th Tri-AGC Event of the Attorney-General’s Chambers of Brunei Darussalam, Malaysia, and Singapore
+permalink: /keynote-address-by-2m-edwin-tong-sc-at-10th-tri-agc-event/
 date: 2024-05-24
 layout: post
 description: ""
