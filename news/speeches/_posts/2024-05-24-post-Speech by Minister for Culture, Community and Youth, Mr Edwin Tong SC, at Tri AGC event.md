@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-Keynote Address by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the 10th Tri-AGC Event of the Attorney-General’s Chambers of Brunei Darussalam, Malaysia, and Singapore
-
 
 Your Excellencies, the Attorneys-General of Brunei Darussalam, Malaysia, and Singapore,
 
