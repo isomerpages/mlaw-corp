@@ -46,7 +46,7 @@ Ladies and Gentlemen,
 {:start="7"}
 7. One enduring fundamental value we share is adherence to the rule of law. Our Attorneys-General, with their dual role as the principal legal advisor to the Government as well as the Public Prosecutor, are uniquely placed to serve as Custodians of the rule of law.
 
-{:start=“8”}
+{:start="8"}
 8. For Singapore, the rule of law is very much in everything that we do. How we build our fundamental legal rules, how we develop new rules, how we look at emerging threats and counter them with new legal principles. All of that is underpinned by the adherence to the rule of law.
 
 {:start="9"}
@@ -69,24 +69,24 @@ Ladies and Gentlemen,
 
 <b><u>IV. Challenges and new opportunities for collaboration</u></b>
 
-{:start="15”}
+{:start="15"}
 15. Multilateral cooperation is vital, especially today. If you look around the world today, I think you will see why. This is a world where multilateralism and the international rule of law are becoming more fragile. People are becoming more inward looking, sometimes trying to reshore or friend-shore, which prevents multilateralism.
 
-{:start="16”}
+{:start="16"}
 16. For the international rule of law to remain strong and effective, the governing international legal frameworks need to be fit-for-purpose, trusted, and respected.
 
 **A. Investor-state dispute settlement reform**
 
-{:start="17”}
+{:start="17"}
 17. I will speak briefly on investor-State dispute settlement.
 
-{:start="18”}
+{:start="18"}
 18. Today, the international framework for investor-State dispute settlement (“ISDS”) has suffered from some criticism, such as, its perceived lack of transparency, conflict of interest, perceived biasness of arbitrators, and the inconsistency across different decisions.
 
-{:start="19”}
+{:start="19"}
 19. There is concern that the ISDS framework, which was designed to protect foreign investors from unfair treatment by host States, can sometimes also undermine a State’s sovereign right to act in the public interest of its own country. This balance is fragile but really important. To benefit and continue to benefit from foreign direct investments, we need a system in the country to receive that investment, and adjudicate disputes over the investment, in a clear, transparent manner, based on the rule of law.
 
-{:start=“20”}
+{:start="20"}
 20. Singapore takes these issues seriously and we have been proactive in our stance at the international level.
 
 (a) By way of example, at the multilateral level, ISDS reforms are being developed by one of the Working Groups in the UNCITRAL, or United Nations Commission on International Trade Law. Singapore is actively participating in that Working Group.
@@ -95,30 +95,30 @@ Ladies and Gentlemen,
 
 **B. Global disruptions: The digital revolution and climate change**
 
-{:start=“21"}
+{:start="21"}
 21. Second, there have been global disruptions and emerging trends. These include, new technologies, new developments, new concerns such as climate change, the advancement of AI, which has infused into work, into our everyday life, in almost all spheres of human activity.
 
-{:start=“22”}
+{:start="22"}
 22. Addressing this diverse range of complex issues on an international level is important, so that traders, contracting parties, don’t arbitrage between the different laws of different countries. It is therefore important to take a collaborative, multilateral approach.
 
-{:start=“23"}
+{:start="23"}
 23. I am therefore very heartened by the proactive stance taken by various international institutions in trying to understand, address and respond to these emerging challenges. These institutions span both the public as well as the private international law spheres. In the international private law sphere, which governs cross-border civil and commercial relationships, we have international institutions such as, UNCITRAL, the Hague Conference on Private International Law, and the International Institute for the Unification of Private Law. These are international law bodies actively studying private law aspects of emerging global issues and global disruptions.
 
-{:start=“24”}
+{:start="24"}
 24. Through such multilateral fora, there is great potential and scope for countries to contribute for convergence on these global issues and strengthen collaboration.
 
-{:start=“25”}
+{:start="25"}
 25. Singapore is actively participating in these efforts. We hope that through such engagement, we can build better, deeper, mindshare, and understand the problem on a global scale. This afternoon, when you discuss topics like online falsehoods, protection from cybercrime, and looking at new ways in which cybercrime is perpetuated, all of these are aspects of multilateral collaboration which we can benefit from.
 
-{:start=“26”}
+{:start="26"}
 26. Through these international settings, our international community can remain strong. It is important that our three jurisdictions lend our collective wisdom and mindshare to this so that the thought leadership on this can grow, and we can develop the norms that will guide our laws. Of course, each country may then nuance and contextualise these norms, but that international baseline has to be established. Participation at these international fora is therefore very important.
 
 <b><u>V. Closing remarks</u></b>
 
-{:start=“27”}
+{:start="27"}
 27. In closing, I would like to reiterate how important this event has been and continues to be. As I said, beyond just exchanging know-how, it is also about building contacts, and I hope that over the course of the remaining day and at this evening’s dinner, you will not just learn about each other’s legal practices, laws, and legal advancements, but that you leave Singapore with new contacts, reconnect with old friends, and use these contacts in the coming years to the betterment of all three jurisdictions, improving our laws, enhancing our legal systems, and fundamentally working towards the betterment of society and our citizens’ lives.
 
-{:start=“28”}
+{:start="28"}
 28. Thank you very much.
 
 <p class="right-side-updated">Last updated on 24 May 2024</p>
