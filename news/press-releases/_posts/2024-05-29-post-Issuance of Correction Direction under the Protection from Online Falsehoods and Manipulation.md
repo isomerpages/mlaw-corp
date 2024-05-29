@@ -1,7 +1,7 @@
 ---
 title: Issuance of Correction Direction under the Protection from Online
-  Falsehoods and Manipulation
-permalink: /issuance-of-correction-direction-under-the-protection-from-online-falsehoods-and-manipulation/
+  Falsehoods and Manipulation Act (POFMA) to Mr Kenneth Jeyaretnam
+permalink: /issuance-of-correction-direction-under-the-pofma-to-kenneth-jeyaretnam/
 date: 2024-05-29
 layout: post
 description: ""
