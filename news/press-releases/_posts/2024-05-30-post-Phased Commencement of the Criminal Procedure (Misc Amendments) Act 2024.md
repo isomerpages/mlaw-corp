@@ -10,7 +10,7 @@ variant: markdown
 30 May 2024 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.&nbsp; The Criminal Procedure (Miscellaneous Amendments) Act 2024 was passed in Parliament on 5 February 2024. The Act advances our criminal justice system and contains various amendments aimed at (i) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (ii) enhancing transparency, fairness and coherence in our criminal court processes.
+1.&nbsp; The Criminal Procedure (Miscellaneous Amendments) Act 2024 was passed in Parliament on 5 February 2024.<sup><a href="#fn1" id="ref1">1</a></sup> The Act advances our criminal justice system and contains various amendments aimed at (i) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (ii) enhancing transparency, fairness and coherence in our criminal court processes.
 
 {:start="2"}
 2.&nbsp; The amendments will be rolled out in phases, with six of these amendments coming into effect on 31 May 2024.
@@ -39,8 +39,19 @@ f. &nbsp; <b>Clarifying that where the court decides that it does not need to he
 {:start="4"}
 4.&nbsp; The remaining amendments will come into force at a later stage.
 
+* * *
+
+<p><sup id="fn1">1. For more information on the Act, please see the following: 
+</sup></p><ul><li><p style="font-size: 12px"><a href="https://www.mlaw.gov.sg/news/press-releases/criminal-procedure-miscellaneous-amendments-bill-2024/">Press release on First Reading of the Bill</a></p></li>
+<li><p style="font-size: 12px"><a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/2024-02-05-2r-speech-criminal-procedure-miscellaneous-amendments-bill-2024/">Second Reading Speech on the Bill by Minister for Home Affairs and Minister for Law K Shanmugam</a></p></li>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-in-chinese-of-the-criminal-procedure-miscellaneous-amendments">Second Reading Speech (in Chinese) on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-the-criminal-procedure-miscellaneous-amendments/">[Translated] Second Reading Speech on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-in-malay-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">Second Reading Speech (in Malay) on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p></li>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">[Translated] Second Reading Speech on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p></li></ul><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a><p></p>
+
 **MINISTRY OF LAW**
 <br>**30 MAY 2024**
+
 
  
 <p class="right-side-updated">Last updated on 30 May 2024</p>
