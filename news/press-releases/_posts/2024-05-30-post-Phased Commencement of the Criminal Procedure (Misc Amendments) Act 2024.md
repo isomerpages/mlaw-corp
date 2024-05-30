@@ -19,7 +19,7 @@ variant: markdown
 3.&nbsp; These six amendments include:
 
 <p style="margin-left: 40px">
-a. &nbsp; <b>Empowering the Police to order suspects of non-arrestable offences to provide their Universal Identification Number (UIN) (e.g. NRIC, FIN, birth certificate number). The Police may arrest a person who refuses to provide their name, residential address or UIN, or if the Police has reason to believe that the information given is false.</b> This improves identity verification of suspects by the Police.</p>
+a. &nbsp; <b>Empowering the Police to order suspects of non-arrestable offences to provide their Unique Identification Number (UIN) (e.g. NRIC, FIN, birth certificate number). The Police may arrest a person who refuses to provide their name, residential address or UIN, or if the Police has reason to believe that the information given is false.</b> This improves identity verification of suspects by the Police.</p>
 
 <p style="margin-left: 40px">
 b. &nbsp; <b>Empowering the Police to search arrested persons at the point of arrest and remove dangerous items from the person.</b> This enables the Police to prevent arrested persons from causing harm to themselves or others.</p>
@@ -47,11 +47,10 @@ f. &nbsp; <b>Clarifying that where the court decides that it does not need to he
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-in-chinese-of-the-criminal-procedure-miscellaneous-amendments">Second Reading Speech (in Chinese) on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-the-criminal-procedure-miscellaneous-amendments/">[Translated] Second Reading Speech on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-in-malay-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">Second Reading Speech (in Malay) on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p></li>
-<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">[Translated] Second Reading Speech on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p></li></ul><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a><p></p>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">[Translated] Second Reading Speech on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p>	</li></ul>
+<p style="font-size: 12px"><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
 
 **MINISTRY OF LAW**
 <br>**30 MAY 2024**
 
-
- 
-<p class="right-side-updated">Last updated on 30 May 2024</p>
+</p><p class="right-side-updated">Last updated on 30 May 2024</p>
