@@ -17,7 +17,7 @@ variant: markdown
 
 {:start="3"} 3.&nbsp; As explained previously, pursuant to the Act, the Minister established a framework for the remuneration of Supreme Court Judges <i>as a class</i>. It is the Chief Justice who then determines the salary and bonuses to be paid to each Supreme Court Judge within the framework.
 
-{:start="4"} 4.&nbsp; As explained in Parliament on 10 January 2023<sup><a href="#fn1" id="ref1">1</a></sup> , the framework determined under the Act is that the annual salary package of Supreme Court Judges consists of six components:
+{:start="4"} 4.&nbsp; As explained in Parliament on 10 January 2023<sup><a href="#fn1" id="ref1">1</a></sup>, the annual salary package of Supreme Court Judges consists of six components:
 
 * &nbsp; Gross monthly salary,
 * &nbsp; Annual Variable Component,
@@ -26,11 +26,11 @@ variant: markdown
 * &nbsp; National Bonus, and
 * &nbsp; Judiciary Allowance.
 
-{:start="5"} 5.&nbsp; Except for the Judiciary Allowance and components of the gross monthly salary which are fixed, the other components may vary depending on economic conditions and individual performance.
+{:start="5"} 5.&nbsp; Except for the Judiciary Allowance and components of the gross monthly salary which are fixed, the other components may vary depending on economic conditions and individual performance. The effect of economic conditions applies uniformly to Judges in their class.
 
-{:start="6"} 6.&nbsp; The effect of economic conditions applies uniformly to Judges in their class. With regards to individual performance, it is the Chief Justice who assesses each Judge’s performance and determines the performance aspects of the components that are paid to each Judge.
+{:start="6"} 6.&nbsp; With regards to individual performance, it is the Chief Justice who assesses each Supreme Court Judge’s performance and determines the performance bonus that is paid to each Judge.
 
-{:start="7"} 7.&nbsp; Ministers have no role whatsoever in the determination of discretionary performance payments for individual Supreme Court Judges. The insinuation that Ministers can influence the outcome of cases by controlling the salaries and benefits of individual Supreme Court judges is therefore false.
+{:start="7"} 7.&nbsp; Ministers have no role whatsoever in the determination of discretionary bonuses paid to individual Supreme Court Judges. The insinuation that Ministers can influence the outcome of cases by controlling the salaries and benefits of individual Supreme Court judges is therefore false.
 
 <p><sup id="fn1">1. See: <a href="https://www.psd.gov.sg/newsroom/pq-replies/renumeration-of-judges-under-the-judges-renumeration-act-1994/">https://www.psd.gov.sg/newsroom/pq-replies/renumeration-of-judges-under-the-judges-renumeration-act-1994/</a>&nbsp;&nbsp;<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
