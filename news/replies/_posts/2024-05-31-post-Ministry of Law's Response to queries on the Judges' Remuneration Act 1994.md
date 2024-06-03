@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-2 June 2024 Posted in [Replies](/news/replies)  
+3 June 2024 Posted in [Replies](/news/replies)  
 
 {:start="1"} 1.&nbsp; In response to queries, the following statement is issued to make clarifications on the Judges’ Remuneration Act 1994 (the ‘Act’).
 
@@ -35,6 +35,6 @@ variant: markdown
 <p><sup id="fn1">1. See: <a href="https://www.psd.gov.sg/newsroom/pq-replies/renumeration-of-judges-under-the-judges-renumeration-act-1994/">https://www.psd.gov.sg/newsroom/pq-replies/renumeration-of-judges-under-the-judges-renumeration-act-1994/</a>&nbsp;&nbsp;<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
 
 <b>MINISTRY OF LAW</b>
-<br><b>2 JUNE 2024</b>
+<br><b>3 JUNE 2024</b>
 
-<p class="right-side-updated">Last updated on 2 June 2024</p>
+<p class="right-side-updated">Last updated on 3 June 2024</p>
