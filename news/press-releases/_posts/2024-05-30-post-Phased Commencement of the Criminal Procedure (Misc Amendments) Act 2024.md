@@ -47,10 +47,9 @@ f. &nbsp; <b>Clarifying that where the court decides that it does not need to he
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-in-chinese-of-the-criminal-procedure-miscellaneous-amendments">Second Reading Speech (in Chinese) on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-the-criminal-procedure-miscellaneous-amendments/">[Translated] Second Reading Speech on the Bill by Minister of State (Home Affairs) Sun Xueling</a></p></li>
 <li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-in-malay-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">Second Reading Speech (in Malay) on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p></li>
-<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">[Translated] Second Reading Speech on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam</a></p>	</li></ul>
-<p style="font-size: 12px"><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
+<li><p style="font-size: 12px"><a href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-speech-on-the-criminal-procedure-miscellaneous-amendments-bill-2024">[Translated] Second Reading Speech on the Bill by Senior Parliamentary Secretary (Law) Rahayu Mahzam &nbsp;&nbsp;</a><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></p></li></ul><p></p>
 
-**MINISTRY OF LAW**
-<br>**30 MAY 2024**
+<b>MINISTRY OF LAW</b>
+<br><b>30 MAY 2024</b>
 
-</p><p class="right-side-updated">Last updated on 30 May 2024</p>
+<p></p><p class="right-side-updated">Last updated on 30 May 2024</p>

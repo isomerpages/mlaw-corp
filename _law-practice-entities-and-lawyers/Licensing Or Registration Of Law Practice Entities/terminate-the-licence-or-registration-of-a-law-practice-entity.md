@@ -18,7 +18,7 @@ Terminate the Licence or Registration of a Law Practice Entity
 
 <p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-<p style="text-align: justify"><b>For more information, please refer to our <a href="https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx" target="_blank">FAQs</a>.</b></p>
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
 
 <table>
   <tr>
