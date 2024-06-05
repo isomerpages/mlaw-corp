@@ -17,13 +17,16 @@ description: ""
 <p>The live chat will address enquiries on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Individual Insolvency</p>
-</li>
-<li>
 <p>Corporate Insolvency</p>
 </li>
 <li>
 <p>Debt Repayment scheme</p>
+</li>
+<li>
+<p>Individual Insolvency</p>
+</li>
+<li>
+<p>Legal Aid Bureau</p>
 </li>
 <li>
 <p>Licensing &amp; Regulation of Insolvency Practitioners</p>
