@@ -9,10 +9,7 @@ variant: tiptap
 instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">SIP FAQ</a> (hyperlink:
 <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/</a>) page. <strong>No E-Service is available for this submission.</strong>
 <br>
-<br><strong>Announcement</strong>
-<br>There may be intermittent access to the eServices. We are working to resolve
-this.
-<br>We apologise for any inconvenience caused and thank you for your patience.</p>
+</p>
 <hr>
 <h4><strong>Maintenance Notices</strong></h4>
 <p></p>
