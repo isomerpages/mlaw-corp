@@ -8,10 +8,16 @@ variant: tiptap
 <p>To apply for the Simplified Insolvency Programme, please refer to the
 instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">SIP FAQ</a> (hyperlink:
 <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/</a>) page. <strong>No E-Service is available for this submission.</strong>
+<br>
 </p>
 <hr>
 <h4><strong>Maintenance Notices</strong></h4>
-<p></p>
+<p>
+<br>There may be intermittent access to the eServices. We are working to resolve
+this. We apologise for any inconvenience caused and thank you for your
+patience.
+<br>
+</p>
 <p>The following eServices are unavailable due to scheduled maintenance on
 the following dates:</p>
 <table style="minWidth: 50px">
