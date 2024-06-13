@@ -255,7 +255,7 @@ are certain exceptions to this, including when a charitable purpose trust
 is set up.<em>&nbsp;&nbsp;</em>
 </p>
 <p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> See
-Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a> 
+Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
 </p>
 <p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> See
 Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
