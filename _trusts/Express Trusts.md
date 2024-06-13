@@ -124,7 +124,7 @@ you wish to set up a PTC.</p>
 <li>
 <p><strong>Lawyers and Law Firms:</strong> Lawyers and law firms can act as
 trustees if they are an LTC, or if they fall within an exemption in the
-<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>.</p>
+<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a><a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[3]</sup></a>.</p>
 </li>
 <li>
 <p><strong>Others:</strong> You can also consider choosing family members,
@@ -193,8 +193,8 @@ trust; and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
-LTCs <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and
-PTCs <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>.</p>
+LTCs <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> and
+PTCs <a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank">[5]</a>.</p>
 </li>
 <li>
 <p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
@@ -255,8 +255,11 @@ are certain exceptions to this, including when a charitable purpose trust
 is set up.<em>&nbsp;&nbsp;</em>
 </p>
 <p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> See
-Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005</a>
+Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a> 
 </p>
 <p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> See
-Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>
+Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
+</p>
+<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> See
+Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
 </p>
