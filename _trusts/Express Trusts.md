@@ -14,15 +14,16 @@ himself to be a trustee for the beneficiaries.</p>
 <p>The trustee is the legal owner of the property held under the trust. He
 holds and manages the trust property for the benefit of the beneficiaries,
 and distributes the income and capital of the trust property to them, according
-to the express terms as set out by the settlor.</p>
+to the terms of the trust set out by the settlor.</p>
 <p>The beneficiaries have a beneficial interest in the trust property. This
-means that they are entitled to benefit from the trust property.</p>
+means that they, rather than the settlor or trustee, are entitled to benefit
+from the trust property.</p>
 <p>The settlor also has the option to appoint a <strong>protector</strong> to
 supervise the trustee and prevent the trustee from abusing his powers.
 Protector(s), if appointed, typically have the power to veto or authorise
 the trustee in carrying out certain functions. &nbsp;</p>
-<p>Properties that are typically placed in trusts include cash, land, family
-businesses, shares, jewellery, art and more.</p>
+<p>Properties that are typically placed in trusts include cash, real property,
+family businesses, shares, jewellery, art and more.</p>
 <p><u>What Trusts Are For</u>
 </p>
 <p>Trusts may be set up for a number of reasons, including:</p>
@@ -37,7 +38,7 @@ businesses, shares, jewellery, art and more.</p>
 <p>Tax planning</p>
 </li>
 <li>
-<p>Provide for a dependent with special needs <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
+<p>Provide for a dependent with special needs<sup>[1]</sup>
 </p>
 </li>
 <li>
@@ -48,12 +49,11 @@ businesses, shares, jewellery, art and more.</p>
 <p>Commercial purposes, such as collective investment schemes (regulated
 under the <a href="https://sso.agc.gov.sg/act/sfa2001" rel="noopener noreferrer nofollow" target="_blank">Securities and Futures Act 2001</a>)
 and business trusts (governed by the <a href="https://sso.agc.gov.sg/Act/BTA2004" rel="noopener noreferrer nofollow" target="_blank">Business Trusts Act 2004</a>).</p>
-<p></p>
 </li>
 </ul>
+<p><sup>[1]</sup> You may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company ("SNTC")</a> to
+help you set up a trust for this purpose.</p>
 <h4><strong>2. Setting Up An Express Trust</strong></h4>
-<p>An express trust is typically, though not always, set up by way of a trust
-deed, which specifies the terms of a trust.</p>
 <p>For a trust to be valid, it has to fulfil the “three certainties”, namely:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -66,11 +66,17 @@ identified.</p>
 </li>
 <li>
 <p><strong>Certainty of objects</strong>: The beneficiary or beneficiaries
-must be identified or identifiable. <a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+must be identified or identifiable.<sup>[2]</sup>
 </p>
 </li>
 </ul>
-<p>Certain other formalities may be required. For example:</p>
+<p>If the above-mentioned requirements are not met, the trust is invalid,
+and the purported beneficiaries will not be entitled to benefit from the
+trust property. Instead, ownership of the trust property will remain with
+the settlor.</p>
+<p>An express trust can be created orally and without formalities, or in
+writing through a trust deed which specifies the terms of the trust.</p>
+<p>In specific circumstances, certain formalities may be required. For example:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;A trust over immovable property has to be manifested and proved
@@ -85,26 +91,24 @@ death) is typically declared by a testator in his will or codicil. Such
 a testamentary trust has to comply with the formalities in the <a href="https://sso.agc.gov.sg/Act/WA1838" rel="noopener noreferrer nofollow" target="_blank">Wills Act 1838</a>.</p>
 </li>
 </ul>
-<p>The legal wording of a trust needs to be precise.</p>
-<p>If the above-mentioned requirements are not met, the trust is invalid,
-and the purported beneficiaries will not be entitled to benefit from the
-trust property. Instead, ownership of the trust property will remain with
-the settlor.</p>
-<p>It is therefore recommended that you consult a lawyer when setting up
-a trust. You may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s ("LSRA") website</a> to
+<p>It is recommended that you consult a lawyer when setting up a trust. You
+may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">Legal Services Regulatory Authority’s ("LSRA") website</a> to
 find a suitable solicitor or law practice in Singapore.</p>
 <p>Alternatively, you may also approach a licensed trust company or other
 professionals for trust-related services. Please refer to the section below.</p>
+<p><sup>[2]</sup> There are certain exceptions to this, including when a charitable
+purpose trust is set up.<em>&nbsp;&nbsp;</em>
+</p>
 <h4><strong>3. Trustees in Singapore</strong></h4>
 <p>The trustee manages the trust property for the benefit of the beneficiaries,
 and distributes the income and capital of the trust property to them. You
-should hence choose your trustee carefully if you wish to set up a trust.
-You may wish to consider the following:</p>
+should choose your trustee carefully if you wish to set up a trust. You
+may wish to consider the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Licensed Trust Company ("LTC")</strong>: In Singapore, persons
-who provide trust business are licensed and regulated by the Monetary Authority
-of Singapore ("<strong>MAS</strong>") under the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trust Companies Act 2005</a> unless
+who carry on a trust business are licensed and regulated by the Monetary
+Authority of Singapore ("<strong>MAS</strong>") under the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trust Companies Act 2005</a> unless
 specifically exempted. LTCs are able to act as trustees of express trusts,
 provide services in relation to the creation of an express trust, as well
 as provide trust administration services. You may wish to refer to <a href="https://eservices.mas.gov.sg/fid/institution?sector=Capital%20Markets&amp;category=Licensed%20Trust%20Company" rel="noopener noreferrer nofollow" target="_blank">MAS’ directory of financial institutions</a> for
@@ -112,20 +116,20 @@ a list of LTCs in Singapore.</p>
 </li>
 <li>
 <p><strong>Private Trust Company ("PTC"):</strong> You may wish to consider
-setting up a PTC. A PTC is typically established to act as a trustee to
-a trust or a number of trusts created by a settlor or settlors who are
-connected by blood or legal adoption. The beneficiaries of the trusts must
-also be connected to the settlor by familial ties. PTCs do not have to
-obtain a license from MAS, but have to engage a LTC to carry out certain
-trust administration services, including AML/CFT checks. You may wish to
-refer to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
-further information. Please seek legal advice and/or advice from a LTC
-if you wish to set up a PTC.</p>
+setting up a PTC. A PTC is established to act as a trustee to a trust or
+a number of trusts created by a settlor or settlors who are connected to
+the beneficiaries by blood or legal adoption. PTCs do not have to obtain
+a license from MAS, but have to engage an LTC to carry out certain trust
+administration services, including AML/CFT checks. You may wish to refer
+to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
+further information. Please seek legal advice and/or approach an LTC if
+you wish to set up a PTC.</p>
 </li>
 <li>
-<p><strong>Lawyers:</strong> Lawyers can also act as trustees. You may wish
-to use <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" rel="noopener noreferrer nofollow" target="_blank">LSRA's website</a> to
-find a suitable solicitor or law practice in Singapore.</p>
+<p><strong>Lawyers and Law Firms:</strong> Lawyers and law firms can act as
+trustees if they are an LTC, or if they fall within an exemption in the
+<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>.<sup>[3]</sup>
+</p>
 </li>
 <li>
 <p><strong>Others:</strong> You can also consider choosing family members,
@@ -135,6 +139,8 @@ to take on the responsibility and duties involved in acting as a trustee
 (see next section).</p>
 </li>
 </ul>
+<p><sup>[3] </sup>See Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
+</p>
 <h4><strong>4.&nbsp;Trustees’ Obligations &amp; Duties</strong></h4>
 <p><u>Trustees’ Duties Owed To The Beneficiaries</u>
 </p>
@@ -167,13 +173,13 @@ trustee in Court to seek legal or equitable remedies, such as for compensation
 or to recover profits that the trustee obtained from the breach. As another
 example, a trustee who has misappropriated trust property may have committed
 the offence of criminal breach of trust under the <a href="https://sso.agc.gov.sg/Act/PC1871" rel="noopener noreferrer nofollow" target="_blank">Penal Code 1871</a>.</p>
-<p><u>Transparency and Effective Control Requirements for Trustees (“</u><strong><u>AML/CFT requirements</u></strong><u>”)</u>
+<p><strong><u>AML/CFT obligations</u></strong>
 </p>
 <p>Singapore is a member of the Financial Action Task Force (“<strong>FATF</strong>”)
 which establishes international standards for Anti-Money Laundering, Countering
-the Financing of Terrorism and Proliferation Financing (“<strong>AML/CFT</strong>”).
-Singapore is also a member of the Global Forum on Transparency and Exchange
-of Information for Tax Purposes.</p>
+the Financing of Terrorism and Proliferation Financing. Singapore is also
+a member of the Global Forum on Transparency and Exchange of Information
+for Tax Purposes.</p>
 <p>In line with these international standards, Singapore requires trustees
 to:</p>
 <p>1. Obtain and verify information of relevant trust parties (i.e. all settlors,
@@ -190,17 +196,11 @@ for at least 5 years after the trustee ceases to be a trustee of the relevant
 trust; and</p>
 <p>5. Keep accounting records.</p>
 <p>Failure to comply with any of the obligations listed above is an offence.</p>
-<p>The police may also require the trustee to produce the abovementioned
-information in a timely manner pursuant to powers of investigation under
-the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
-where it considers the information to be necessary or desirable for any
-investigation, inquiry, trial or other proceeding under the CPC.</p>
-<p>These obligations apply under either:</p>
+<p>These obligations are set out in either:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
-LTCs <a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> and
-PTCs <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>.</p>
+LTCs<sup>[4]</sup> and PTCs<sup>[5]</sup>.</p>
 </li>
 <li>
 <p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
@@ -209,6 +209,11 @@ if (i) the trust is governed by Singapore law, (ii) administered in Singapore,
 or (iii) any of the trustees are resident in Singapore.</p>
 </li>
 </ul>
+<p>The police may also require the trustee to produce the abovementioned
+information in a timely manner pursuant to powers of investigation under
+the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
+where it considers the information to be necessary or desirable for any
+investigation, inquiry, trial or other proceeding under the CPC.</p>
 <p>For trustees whose obligations are stipulated in the Trustees Act and
 the Trustees Regulations, they are also required to inform certain “specified
 persons” that they are acting for a relevant trust before forming a business
@@ -238,26 +243,13 @@ misappropriation or money laundering, please make a police report at
 <a href="https://eservices.police.gov.sg/content/policehubhome/e-services-general/police-report.html" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <p>If you suspect that a serious offence has been committed that needs immediate
 action, please make a police report by calling 999 or SMS 71999.</p>
+<p><sup>[4] </sup>See Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
+</p>
+<p><sup>[5] </sup>See Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
+</p>
 <h4><strong>5. Filing of Tax Returns</strong></h4>
 <p>Trusts need to file a tax return with the Inland Revenue Authority of
 Singapore ("<strong>IRAS</strong>") to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
 more details, including requesting for a tax reference number.</p>
-<p>
-<br>
-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> You
-may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company ("SNTC")</a> to
-help you set up a trust for this purpose.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> There
-are certain exceptions to this, including when a charitable purpose trust
-is set up.<em>&nbsp;&nbsp;</em>
-</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> See
-Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005</a>
-</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> See
-Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>
-</p>
