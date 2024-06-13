@@ -38,7 +38,7 @@ family businesses, shares, jewellery, art and more.</p>
 <p>Tax planning</p>
 </li>
 <li>
-<p>Provide for a dependent with special needs <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
+<p>Provide for a dependent with special needs<sup>[1]</sup>
 </p>
 </li>
 <li>
@@ -49,9 +49,10 @@ family businesses, shares, jewellery, art and more.</p>
 <p>Commercial purposes, such as collective investment schemes (regulated
 under the <a href="https://sso.agc.gov.sg/act/sfa2001" rel="noopener noreferrer nofollow" target="_blank">Securities and Futures Act 2001</a>)
 and business trusts (governed by the <a href="https://sso.agc.gov.sg/Act/BTA2004" rel="noopener noreferrer nofollow" target="_blank">Business Trusts Act 2004</a>).</p>
-<p></p>
 </li>
 </ul>
+<p><sup>[1]</sup> You may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company ("SNTC")</a> to
+help you set up a trust for this purpose.</p>
 <h4><strong>2. Setting Up An Express Trust</strong></h4>
 <p>For a trust to be valid, it has to fulfil the “three certainties”, namely:</p>
 <ul data-tight="true" class="tight">
@@ -65,7 +66,7 @@ identified.</p>
 </li>
 <li>
 <p><strong>Certainty of objects</strong>: The beneficiary or beneficiaries
-must be identified or identifiable. <a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+must be identified or identifiable.<sup>[2]</sup>
 </p>
 </li>
 </ul>
@@ -95,6 +96,9 @@ may wish to use the <a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or
 find a suitable solicitor or law practice in Singapore.</p>
 <p>Alternatively, you may also approach a licensed trust company or other
 professionals for trust-related services. Please refer to the section below.</p>
+<p><sup>[2]</sup> There are certain exceptions to this, including when a charitable
+purpose trust is set up.<em>&nbsp;&nbsp;</em>
+</p>
 <h4><strong>3. Trustees in Singapore</strong></h4>
 <p>The trustee manages the trust property for the benefit of the beneficiaries,
 and distributes the income and capital of the trust property to them. You
@@ -124,7 +128,8 @@ you wish to set up a PTC.</p>
 <li>
 <p><strong>Lawyers and Law Firms:</strong> Lawyers and law firms can act as
 trustees if they are an LTC, or if they fall within an exemption in the
-<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a><a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[3]</sup></a>.</p>
+<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>.<sup>[3]</sup>
+</p>
 </li>
 <li>
 <p><strong>Others:</strong> You can also consider choosing family members,
@@ -134,6 +139,8 @@ to take on the responsibility and duties involved in acting as a trustee
 (see next section).</p>
 </li>
 </ul>
+<p><sup>[3] </sup>See Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
+</p>
 <h4><strong>4.&nbsp;Trustees’ Obligations &amp; Duties</strong></h4>
 <p><u>Trustees’ Duties Owed To The Beneficiaries</u>
 </p>
@@ -193,8 +200,7 @@ trust; and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
-LTCs <a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> and
-PTCs <a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank">[5]</a>.</p>
+LTCs<sup>[4]</sup> and PTCs<sup>[5]</sup>.</p>
 </li>
 <li>
 <p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
@@ -237,29 +243,13 @@ misappropriation or money laundering, please make a police report at
 <a href="https://eservices.police.gov.sg/content/policehubhome/e-services-general/police-report.html" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <p>If you suspect that a serious offence has been committed that needs immediate
 action, please make a police report by calling 999 or SMS 71999.</p>
+<p><sup>[4] </sup>See Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
+</p>
+<p><sup>[5] </sup>See Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
+</p>
 <h4><strong>5. Filing of Tax Returns</strong></h4>
 <p>Trusts need to file a tax return with the Inland Revenue Authority of
 Singapore ("<strong>IRAS</strong>") to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
 more details, including requesting for a tax reference number.</p>
-<p>
-<br>
-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> You
-may wish to approach the <a href="https://www.sntc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Special Needs Trust Company ("SNTC")</a> to
-help you set up a trust for this purpose.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> There
-are certain exceptions to this, including when a charitable purpose trust
-is set up.<em>&nbsp;&nbsp;</em>
-</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> See
-Reg 4(1)(b)(iv) of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
-</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> See
-Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
-</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> See
-Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
-</p>
