@@ -12,7 +12,7 @@ description: "This webpage sets out:  (a)\tthe different types, forms and basic
 <ul data-tight="true" class="tight">
 <li>
 <p>The different types, forms and basic features of <a href="https://www.mlaw.gov.sg/trusts/express-trusts/" rel="noopener noreferrer nofollow" target="_blank">express trusts</a> and <em><a href="https://www.mlaw.gov.sg/trusts/wakafs/" rel="noopener noreferrer nofollow" target="_blank">wakafs</a></em>,
-a trust-like arrangement under Muslim law <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> ; and</p>
+	a trust-like arrangement under Muslim law,<sup>[1]</sup>; and</p>
 <p></p>
 <p></p>
 </li>
@@ -31,7 +31,7 @@ information regarding them; and</p>
 	
 <hr>
 <p></p>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The <em>wakaf </em>is
+<p><sup>[1]</sup> The <em>wakaf </em>is
 a Muslim arrangement and not a trust within the meaning of the Trustees
 Act 1967 (<em>Mohamed Shariff Valibhoy v Arif Valibhoy </em>[2016] 2 SLR
 301 at [97]).&nbsp;</p>
