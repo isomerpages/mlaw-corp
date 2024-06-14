@@ -29,6 +29,9 @@ description: ""
 <p>Legal Aid Bureau</p>
 </li>
 <li>
+<p>Legal Servies Regulatory Authority</p>
+</li>
+<li>
 <p>Licensing &amp; Regulation of Insolvency Practitioners</p>
 </li>
 <li>
