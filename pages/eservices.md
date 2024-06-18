@@ -13,12 +13,7 @@ instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" r
 <hr>
 <h4><strong>Maintenance Notices</strong></h4>
 <p>
-<br>There may be intermittent access to the eServices. We are working to resolve
-this. We apologise for any inconvenience caused and thank you for your
-patience.
-<br>
-</p>
-<p>The following eServices are unavailable due to scheduled maintenance on
+<br>The following eServices are unavailable due to scheduled maintenance on
 the following dates:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -33,15 +28,6 @@ the following dates:</p>
 <th rowspan="1" colspan="1">
 <p>Maintenance Schedule</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Insolvency Office, Public Trustee's Office, Registry of Moneylenders,
-Registry of Pawnbroker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 June 2024, 0800 hrs to 17 June 2024, 0800 hrs</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
