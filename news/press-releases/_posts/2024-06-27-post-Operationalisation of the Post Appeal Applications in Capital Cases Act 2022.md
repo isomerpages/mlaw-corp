@@ -58,7 +58,7 @@ e. &nbsp; If permission is granted, the PACC Application must be made to the CA 
 6.&nbsp; This provides clarity on when the sentence may be carried out. It also provides statutory protection to PACPs by prohibiting the carrying out of the capital sentence, even without a stay of execution, where there is a pending application for permission to apply for a stay of execution, or an application for a stay of execution, that meets certain criteria.
 
 {:start="7"}
-7.&nbsp; An overview of the post-appeal process can be found in the [Annex](/files/Overview_of_Post_Appeal_Processes.pdf).
+7.&nbsp; An overview of the post-appeal process can be found in the [Annex](/files/overview%20of%20post-appeal%20processes.pdf).
 
 ***
 
