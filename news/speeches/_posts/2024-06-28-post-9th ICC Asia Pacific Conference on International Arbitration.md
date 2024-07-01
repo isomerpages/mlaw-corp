@@ -125,7 +125,7 @@ Ladies and Gentlemen
 20. To do that effectively, I think we need to be very much aware and be a hub that acknowledges the cultural nuances and diversities in the way in which business are transacted today. And the way in which businesses are transacted today will be different from in the past. And the way it is done in Asia will also be different in other parts of the world.
 
 {:start="21"}
-21. TAll of these are nuances that we, as a jurisdiction, if we want to be a hub and continue to play a role in the world, we have to be very mindful of. I will come back to this point in a moment, when I touch on cultural complexities and nuances.
+21. All of these are nuances that we, as a jurisdiction, if we want to be a hub and continue to play a role in the world, we have to be very mindful of. I will come back to this point in a moment, when I touch on cultural complexities and nuances.
 
 **B. Climate Change**
 
