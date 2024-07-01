@@ -7,13 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Ms Claudia Salomon**
+**Ms Claudia Salomon,**
 President of the ICC International Court of Arbitration
 
-**Mr Alexander Fessas**
+**Mr Alexander Fessas,**,
 Secretary-General of the ICC International Court of Arbitration
 
-**Mr Tejus Chauhan**
+**Mr Tejus Chauhan,**
 Director (South Asia) of the ICC International Court of Arbitration
 
 Friends and Colleagues
