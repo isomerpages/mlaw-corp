@@ -316,7 +316,7 @@ Ladies and Gentlemen
 65. It is not about staying away from an arbitration. It is really about respecting party autonomy. If the party has chosen arbitration, they have received an award as a result, then full respect and autonomy must be given to that choice.
 
 <p style="margin-left: 40px">
-(1) In one recent case in Singapore, you will find that it is anonymised because of the parties, but you will find a 2023 case *CZT*. The SICC upheld the protection of confidentiality of deliberations in an arbitration. It is a crucial element of arbitration that is indisputably valued by users. So, when you go back to the greenwashing case that I spoke about, or the new and emerging technology case that I spoke about, the value of arbitration and the protection of confidentiality in the deliberations will be particularly valued.</p>
+(1) In one recent case in Singapore, you will find that it is anonymised because of the parties, but you will find a 2023 case <i>CZT</i>C. The SICC upheld the protection of confidentiality of deliberations in an arbitration. It is a crucial element of arbitration that is indisputably valued by users. So, when you go back to the greenwashing case that I spoke about, or the new and emerging technology case that I spoke about, the value of arbitration and the protection of confidentiality in the deliberations will be particularly valued.</p>
 
 {:start="66"}
 66. I also believe that the jurisprudence plays an important role in fostering trust, consistency and reliability in the arbitration ecosystem. A strong pro-arbitration jurisprudential framework to uphold party autonomy will be necessary.
