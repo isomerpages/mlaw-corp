@@ -1,5 +1,5 @@
 ---
-title: Speech by Mr Edwin Tong at CLASS 25th Anniversary Dinner
+title: Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law, At the CLASS 25th Anniversary Silver Jubilee Dinner
 permalink: /speech-by-mr-edwin-tong-at-class-25th-anniversary-dinner/
 date: 2024-06-28
 layout: post
