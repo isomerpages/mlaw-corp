@@ -43,13 +43,13 @@ Ladies and Gentlemen
 6. So this morning, I thought I would share:
 
 <p style="margin-left: 40px">
-(1) Three global developments that have impacted arbitration, and are likely to continue to do so in the short term;.</p>
+(1) Three global developments that have impacted arbitration, and are likely to continue to do so in the short term;</p>
 
 <p style="margin-left: 40px">
 (2) How Singapore is responding to these developments; and</p>
 
 <p style="margin-left: 40px">
-(3) What are some of the things that we can do, collectively as an international arbitration community, which is the theme of today’s conference..</p>
+(3) What are some of the things that we can do, collectively as an international arbitration community, which is the theme of today’s conference.</p>
 
 **Global Developments Impacting International Arbitration**
 
