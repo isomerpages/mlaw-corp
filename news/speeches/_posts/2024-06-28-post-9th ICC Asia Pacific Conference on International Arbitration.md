@@ -1,6 +1,6 @@
 ---
-title: 9th ICC Asia Pacific Conference on International Arbitration
-permalink: /9th-icc-asia-pacific-conference-on-international-arbitration/
+title: Keynote Address by Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law, at the 9th ICC Asia-Pacific Conference on International Arbitration
+permalink: /2m-keynote-speech-9th-icc-apac-conference-on-international-arbitration/
 date: 2024-06-28
 layout: post
 description: ""
