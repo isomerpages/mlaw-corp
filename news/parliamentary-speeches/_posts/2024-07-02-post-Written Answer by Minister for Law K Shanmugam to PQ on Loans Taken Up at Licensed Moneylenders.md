@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Loans Taken Up at
-  Licensed Moneylenders
+title: Written Answer by Minister for Law K Shanmugam to PQ on Loans Taken Up at Licensed Moneylenders by Singaporeans Aged 18 to 25 and Above 65
 permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-loans-taken-up-at-licensed-moneylenders/
 date: 2024-07-02
 layout: post
