@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Complaints
-  Against Judicial Officers
+title: Written Answer by Minister for Law K Shanmugam to PQ on Complaints Against Judicial Officers in State Courts and Supreme Court for Breach of Judicial Code of Conduct
 permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-complaints-against-judicial-officers/
 date: 2024-07-02
 layout: post
