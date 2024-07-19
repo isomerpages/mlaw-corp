@@ -1,5 +1,5 @@
 ---
-title: Speech by Ms Indranee Rajah at Withers Khattarwong’s anniversary celebrations
+title: Speech by Ms Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister for Finance and National Development at Withers Khattarwong’s 50th anniversary celebrations
 permalink: /speech-by-ms-indranee-rajah-at-withers-khattarwong-s-anniversary-celebrations/
 date: 2024-07-19
 layout: post
