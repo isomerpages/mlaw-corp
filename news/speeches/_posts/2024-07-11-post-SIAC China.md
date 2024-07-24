@@ -1,6 +1,6 @@
 ---
-title: SIAC China
-permalink: /siac-china/
+title: Opening Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law, at SIAC China Conference 2024
+permalink: /2m-opening-speech-siac-china-conference-2024/
 date: 2024-07-11
 layout: post
 description: ""
