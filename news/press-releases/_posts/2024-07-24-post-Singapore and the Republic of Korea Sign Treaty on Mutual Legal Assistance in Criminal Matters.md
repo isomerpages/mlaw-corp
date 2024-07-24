@@ -26,7 +26,7 @@ variant: markdown
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior to the ceremony, Minister Shanmugam and Minister Park also exchanged views on several topics, including other possible areas of cooperation.
 
 {:start="6"}
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two Ministers reaffirmed the Treaty’s role in enhancing the strong relationship between Singapore and the Republic of Korea, and looked forward to greater cooperation between both countries
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two Ministers reaffirmed the Treaty’s role in enhancing the strong relationship between Singapore and the Republic of Korea, and looked forward to greater cooperation between both countries.
 
 
 * * *
