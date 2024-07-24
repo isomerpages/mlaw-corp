@@ -201,4 +201,3 @@ Ladies and Gentlemen
 
 <p class="right-side-updated">Last updated on 11 July 2024</p>
 
-<p class="right-side-updated">Last updated on 11 July 2024</p>
