@@ -1,6 +1,6 @@
 ---
-title: Statement by MinLaw on a Data Breach Involving the System of a Third-Party IT Vendor Engaged by 20 Licensed Moneylenders
-permalink: /statement-by-minlaw-on-a-data-breach-involving-a-third-party-it-vendor-engaged-by-20-lmls/
+title: Statement by MinLaw on a Data Breach Involving the System of a Third-Party IT Vendor Engaged by Licensed Moneylenders
+permalink: /statement-by-minlaw-on-a-data-breach-involving-system-of-third-party-it-vendor-engaged-by-lmls/
 date: 2024-07-25
 layout: post
 description: ""
