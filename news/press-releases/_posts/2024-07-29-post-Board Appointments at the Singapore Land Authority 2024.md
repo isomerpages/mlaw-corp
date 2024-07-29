@@ -57,7 +57,7 @@ variant: markdown
 
 **Existing Members**
 {:start=“9”}
-9.&nbsp;&nbsp;&nbsp; 1.	The following members will continue to serve on the SLA Board:
+9.&nbsp;&nbsp;&nbsp; The following members will continue to serve on the SLA Board:
 
 <p style="margin-left: 40px">
 •&nbsp; Ms Jaelle Ang (Chief Executive Officer and Co-Founder, The Great Room)
