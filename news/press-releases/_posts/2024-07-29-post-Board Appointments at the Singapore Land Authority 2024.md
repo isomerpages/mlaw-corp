@@ -85,6 +85,7 @@ variant: markdown
 •&nbsp; Mr Calvin Phua (Deputy Secretary (Policy), Ministry of Law)
 </p>
 
+**ANNEX**[Annex- Board Appointments at the Singapore Land Authority](/files/news/press-releases/2024/Annex_Board_Appointments_at_the_Singapore_Land_Authority.pdf)
 
 **MINISTRY OF LAW**
 <br>**29 JULY 2024**
