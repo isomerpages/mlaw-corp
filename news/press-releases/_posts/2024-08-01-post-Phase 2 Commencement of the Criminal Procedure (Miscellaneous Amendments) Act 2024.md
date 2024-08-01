@@ -20,7 +20,7 @@ variant: markdown
 a. &nbsp; <b>Expanding and clarifying the circumstances under which a search can be conducted without a warrant issued by the courts.</b> This amendment allows the Police to search for a document or a thing if the Police consider it necessary for investigations, and believe that it is in the possession or control of a person suspected of having committed an arrestable offence. Obstruction of such searches will be an arrestable offence.</p>
 
 <p style="margin-left: 40px">
-b. &nbsp; <b>Clarifying that the Police may order all financial institutions (e.g., banks, merchant banks, finance companies) to provide customer information for investigations.</b></p>
+	b. &nbsp; <b>Clarifying that the Police may order <u>all</u> financial institutions (e.g., banks, merchant banks, finance companies) to provide customer information for investigations.</b></p>
 
 <p style="margin-left: 40px">
 c. &nbsp; <b>Enhancing the powers of specific non-Police Home Team Departments (i.e. the Central Narcotics Bureau, the Immigration and Checkpoints Authority and Singapore Prisons Services) to pursue and arrest persons who have escaped from lawful custody.</b> This enhances the Home Team’s operations.</p>
@@ -59,6 +59,3 @@ g. &nbsp; <b>Improvements to the victim compensation regime.</b> Under the CPC, 
 <br><b>1 AUGUST 2024</b>
 
 <p></p><p class="right-side-updated">Last updated on 1 August 2024</p>
-
-
-
