@@ -1,5 +1,5 @@
 ---
-title: Speech by Mr Murali Pillai, Minister of State, Ministry of Law & Ministry of Transport, at the Tan Kah Kee Foundation Scholarship Award Ceremony 2024, ITE College Central, 31 July 2024
+title: Speech by Mr Murali Pillai, Minister of State, Ministry of Law & Ministry of Transport, at the Tan Kah Kee Foundation Scholarship Award Ceremony 2024, ITE College Central
 permalink: /speech-by-mr-murali-pillai-at-tan-kah-kee-award-ceremony/
 date: 2024-07-31
 layout: post
