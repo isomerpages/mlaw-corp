@@ -1,6 +1,5 @@
 ---
-title: Welcome Address by Mr Edwin Tong SC, at the 125th Anniversary of the PCA
-  in Singapore
+title: Welcome Address by Mr Edwin Tong SC, Minister for Culture, Community and Youth and Second Minister for Law, at the Commemorative Event of the 125th Anniversary of the Permanent Court of Arbitration in Singapore
 permalink: /welcome-address-by-mr-edwin-tong-sc-at-the-125th-anniversary-of-the-pca-in-singapore/
 date: 2024-07-25
 layout: post
