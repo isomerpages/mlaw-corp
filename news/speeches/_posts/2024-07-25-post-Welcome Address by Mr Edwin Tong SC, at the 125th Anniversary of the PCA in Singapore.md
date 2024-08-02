@@ -173,5 +173,3 @@ Good morning, everyone.
 40. Thank you very much.
 
 <p class="right-side-updated">Last updated on 25 July 2024</p>
-
-
