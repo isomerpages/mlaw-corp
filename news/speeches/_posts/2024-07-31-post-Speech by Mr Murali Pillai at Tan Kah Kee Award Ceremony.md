@@ -1,5 +1,7 @@
 ---
-title: Speech by Mr Murali Pillai, Minister of State, Ministry of Law & Ministry of Transport, at the Tan Kah Kee Foundation Scholarship Award Ceremony 2024, ITE College Central
+title: Speech by Mr Murali Pillai, Minister of State, Ministry of Law & Ministry
+  of Transport, at the Tan Kah Kee Foundation Scholarship Award Ceremony 2024,
+  ITE College Central
 permalink: /speech-by-mr-murali-pillai-at-tan-kah-kee-award-ceremony/
 date: 2024-07-31
 layout: post
@@ -24,7 +26,7 @@ Distinguished guests, donors, family and friends of the scholarship recipients, 
 1.              A very good evening to all of you.
 
 {:start="2"}
-2.              Before I start on my speech, I thought I should make a few prefatory remarks. Firstly, in response to Professor Eugene Tan's comments about me, he has been very kind to limit his observations to the fact that I welcomed him when he joined Raffles Hall and my purported progress in the hockey pitch.  So thank you for your kindness, Eugene. Second, and on a more serious note, I found the video on the life of the late Mr Tan Kah Kee extremely instructive.
+2.              Before I start on my speech, I thought I should make a few prefatory remarks. Firstly, in response to Professor Eugene Tan's comments about me, he has been very kind to limit his observations to the fact that I welcomed him when he joined Raffles Hall and my purported prowess in the hockey pitch.  So thank you for your kindness, Eugene, in leaving out the rest as I would not be electable otherwise! Second, and on a more serious note, I found the video on the life of the late Mr Tan Kah Kee extremely instructive.
 
 {:start="3"}
 3.              I recall a friend of mine sharing with me a Chinese idiom. As you know, it is all very pithy, four characters. One of the idioms conveyed this message, which is that ‘if you want to know about the greatness of a man, don't hear of him while he's alive, hear of him when he's passed on’. The late Mr Tan passed away in 1961. The fact that we remember him fondly, attests to the fact that he is a giant, not just during his lifetime, but well beyond too.
