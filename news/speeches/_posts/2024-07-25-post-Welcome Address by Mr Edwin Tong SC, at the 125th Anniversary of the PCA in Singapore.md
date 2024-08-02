@@ -17,7 +17,8 @@ Good morning, everyone.
 
 **Introduction**
 
-{:start="1"} 1. It is such an honour for us to have so many distinguished guests join us this morning in celebrating the 125th anniversary of the Permanent Court of Arbitration (PCA).
+{:start="1"} 
+1. It is such an honour for us to have so many distinguished guests join us this morning in celebrating the 125th anniversary of the Permanent Court of Arbitration (PCA).
 
 {:start="2"}
 2. To those who have travelled from overseas, let me wish you a really warm welcome to Singapore – in all senses: warm weather and hopefully warmer hospitality.
