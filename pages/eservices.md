@@ -48,6 +48,26 @@ Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering
 <p>Every Fri, 1800 hrs to 2359 hrs</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Insolvency Office, Public Trustee's Office, Registry of Moneylenders,
+Registry of Pawnbroker, Legal Services Regulatory Authority, Exemptions
+(Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries,
+Anti-Money Laundering / Countering The Financing Of Terrorism, Public Defender's
+Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Aug 2024, 1400 hrs to 5 Aug 2024, 0800 hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Legal Aid Bureau, Divorce Aide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Aug 2024, 1800 hrs to 5 Aug 2024, 0800 hrs</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
