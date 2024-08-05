@@ -12,8 +12,6 @@ variant: markdown
 {:start="1"}
 1.&nbsp;&nbsp;&nbsp; The Government of Singapore and the Kingdom of Saudi Arabia signed a Memorandum of Understanding (MOU) today, to enhance the legal and judicial cooperation between the two countries.
 
-**Reappointed Members**
-
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp; The MOU was signed by Singapore’s Minister for Home Affairs and Minister for Law Mr K Shanmugam SC, and Saudi Arabia’s Minister of Justice H.E. Dr Waleed Mohammed bin Al-Smani. Also in attendance to witness the signing of the MOU were Minister of State, Ministry of Law and Ministry of Transport Mr Murali Pillai SC, Saudi Arabia’s Ambassador to Singapore H.E. Abdullah Mohammed AlMadhi, and Saudi Arabia’s Deputy Justice Minister for Laws and International Cooperation Dr Bashar Omar Al-Mofadda.
 
