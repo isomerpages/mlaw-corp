@@ -44,7 +44,7 @@ g. &nbsp; <b>Improvements to the victim compensation regime.</b> Under the CPC, 
 (ii) &nbsp; Victims will be able to participate in the compensation order process by making submissions or giving evidence.</p>
 
 <p style="margin-left: 60px">
-(iii) &nbsp; The Court must give reasons if it does not make a compensation order, where it has the power to do so.</p>
+(iii) &nbsp; The Court will be empowered to order compensation for bereavement and funeral expenses to be paid to the dependants of a victim whose death was caused by the offence.</p>
 
 {:start="3"}
 3.&nbsp; The remaining amendments will come into force at a later stage.
