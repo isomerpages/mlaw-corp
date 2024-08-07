@@ -63,7 +63,7 @@ variant: markdown
 8. Under our current framework, individuals (regardless of nationality) can only engage in land survey work in Singapore, if they are:
 
 <p style="margin-left: 40px">
-(a) Registered surveyors, who have a valid practising certificate issued by the LSB; </p>  
+(a) Registered surveyors, who have a valid practising certificate issued by the LSB; </p>
 
 <p style="margin-left: 40px">
 (b) Authorised surveyors; or</p>
