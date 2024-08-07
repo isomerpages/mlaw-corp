@@ -1,6 +1,6 @@
 ---
-title: Second Reading Speech by Minister of State, Ministry of Law &
-permalink: /second-reading-speech-by-minister-of-state-ministry-of-law/
+title: Second Reading Speech by Minister of State, Ministry of Law & Ministry of Transport Murali Pillai on Land Surveyors (Amendment) Bill 2024
+permalink: /2r-speech-mos-murali-pillai-land-surveyors-amendment-bill-2024/
 date: 2024-08-06
 layout: post
 description: ""
