@@ -21,7 +21,7 @@ variant: markdown
 3. Land surveyors conduct land, building or property surveys in Singapore.
 
 <p style="margin-left: 40px">
-(a) Such surveys are necessary to demarcate property boundaries required for the issuance of titles and land development works. </p>  
+(a) Such surveys are necessary to demarcate property boundaries required for the issuance of titles and land development works.</p>
 
 <p style="margin-left: 40px">
 (b) They also have the expertise to conduct other types of survey work, such as as-built, topographical and setting-out surveys.</p>
@@ -30,7 +30,7 @@ variant: markdown
 4. Land surveyors play an important role in the built environment sector.
 
 <p style="margin-left: 40px">
-(a) By depicting accurate boundaries and areas in their cadastral surveys, land surveyors contribute to a stable and reliable property ownership framework, which gives certainty to individuals and businesses alike in their dealings. </p>  
+(a) By depicting accurate boundaries and areas in their cadastral surveys, land surveyors contribute to a stable and reliable property ownership framework, which gives certainty to individuals and businesses alike in their dealings.</p>
 
 <p style="margin-left: 40px">
 (b) Land surveyors also work with other professionals within the sector, including architects and professional engineers, throughout the lifecycle of a development project.</p>
@@ -42,7 +42,7 @@ variant: markdown
 5. Conversely, any errors by land surveyors, such as in the determination of property boundaries in a cadastral survey, can have significant downstream consequences.
 
 <p style="margin-left: 40px">
-(a) For example, discrepancies in the surveyed land area occupied by a property could affect the property’s valuation.</p>  
+(a) For example, discrepancies in the surveyed land area occupied by a property could affect the property’s valuation.</p>
 
 <p style="margin-left: 40px">
 (b) Errors could also lead to inaccurately demarcated boundaries, resulting in encroachments onto neighbouring plots of land owned by different parties. </p>
@@ -54,7 +54,7 @@ variant: markdown
 
 7. Under the Act:
 <p style="margin-left: 40px">
-(a) The Land Surveyors Board (“LSB”) oversees the registration of land surveyors, regulation of the qualifications and practice of land surveyors, as well as related matters.</p>  
+(a) The Land Surveyors Board (“LSB”) oversees the registration of land surveyors, regulation of the qualifications and practice of land surveyors, as well as related matters.</p>
 
 <p style="margin-left: 40px">
 (b) The LSB is also empowered by the Act to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession. </p>
@@ -75,7 +75,7 @@ variant: markdown
 9. Registered surveyors are individuals who are registered as land surveyors under section 12 of the Act.
 
 <p style="margin-left: 40px">
-(a) These individuals must meet the LSB’s eligibility criteria, such as passing of examinations and a professional interview conducted by the LSB. </p>  
+(a) These individuals must meet the LSB’s eligibility criteria, such as passing of examinations and a professional interview conducted by the LSB.</p>
 
 {:start="10"}
 10. Authorised surveyors refer to land surveyors employed by the Singapore Land Authority, regardless of whether they are registered under section 12 of the Act.
@@ -98,7 +98,7 @@ variant: markdown
 14. The broad proposals in this Bill are:
 
 <p style="margin-left: 40px">
-(a) Facilitating the implementation of Mutual Recognition Arrangements (“MRAs”) between Singapore and other countries or territories, and/or between the LSB and its foreign counterparts in other countries or territories; </p>  
+(a) Facilitating the implementation of Mutual Recognition Arrangements (“MRAs”) between Singapore and other countries or territories, and/or between the LSB and its foreign counterparts in other countries or territories; </p>
 
 <p style="margin-left: 40px">
 (b) Granting registered surveyors greater professional recognition; and</p>
@@ -124,7 +124,8 @@ variant: markdown
 19. MRAs will also allow us to build up and strengthen new capabilities within the local surveying profession, through the mutual exchange of knowledge, expertise and best practices.
 
 <p style="margin-left: 40px">
-(a) For example, registered foreign surveyors may be able to share their experience or expertise with specialised equipment in emerging areas like aerial Light Detection and Ranging (LIDAR) scanning, underground survey and large-scale mapping.</p>  
+(a) For example, registered foreign surveyors may be able to share their experience or expertise with specialised equipment in emerging areas like aerial Light Detection and Ranging (LIDAR) scanning, underground survey and large-scale mapping.</p>
+
 <p style="margin-left: 40px">
 (b) Our local registered surveyors can also benefit by collaborating with registered foreign surveyors who have access to specialised equipment, such as cameras used to conduct aerial mapping.</p>
 
@@ -138,7 +139,7 @@ variant: markdown
 21. Meanwhile for foreign surveyors who wish to carry out survey work in Singapore, Clauses 3 to 6, and 9 of the Bill will amend the Act to:
 
 <p style="margin-left: 40px">
-(a) Require the LSB and its Registrar to administer and maintain a register of foreign surveyors who have successfully registered with the LSB; and</p>  
+(a) Require the LSB and its Registrar to administer and maintain a register of foreign surveyors who have successfully registered with the LSB; and</p>
 
 <p style="margin-left: 40px">
 (b) Allow registered foreign surveyors to carry out survey work in Singapore, in a manner permitted by the LSB pursuant to an MRA.</p>
@@ -161,7 +162,7 @@ variant: markdown
 26. Currently, a local registered surveyor who wishes to engage in land survey work overseas is likely to have to go through the full qualification process to be registered to practise in that jurisdiction.
 
 <p style="margin-left: 40px">
-(a) The surveyor will have to meet that jurisdiction’s requirements, including residency or citizenship-based restrictions, if applicable.</p>  
+(a) The surveyor will have to meet that jurisdiction’s requirements, including residency or citizenship-based restrictions, if applicable.</p>
 
 <p style="margin-left: 40px">
 (b) The application process may also involve steps such as passing exams or professional interviews conducted by the overseas Board/Authority. </p>
@@ -173,7 +174,7 @@ variant: markdown
 28. One example is the ASEAN Framework Arrangement for the Mutual Recognition of Surveying Qualifications (“ASEAN MRA”) which was signed in 2007.
 
 <p style="margin-left: 40px">
-(a) After the ASEAN MRA is implemented, the ASEAN Registered Surveyor Scheme (“the Scheme”) will be introduced.</p>  
+(a) After the ASEAN MRA is implemented, the ASEAN Registered Surveyor Scheme (“the Scheme”) will be introduced.</p>
 
 <p style="margin-left: 40px">
 (b) Eligible land surveyors can apply through their local survey authorities to the ASEAN Competent Authority Committee on Surveying (“ACACS”) to be recognised as ASEAN Registered Surveyors. </p>
@@ -191,7 +192,7 @@ variant: markdown
 31. Such MRAs will also introduce a new way for foreign land surveyors to contribute to land survey work in Singapore.
 
 <p style="margin-left: 40px">
-(a) Aside from the three existing pathways through which individuals can engage in survey work in Singapore, which I touched on earlier, foreign land surveyors will be able to apply to the LSB to be registered foreign surveyors.</p>  
+(a) Aside from the three existing pathways through which individuals can engage in survey work in Singapore, which I touched on earlier, foreign land surveyors will be able to apply to the LSB to be registered foreign surveyors.</p>
 
 <p style="margin-left: 40px">
 (b) This will allow them to engage in survey work in Singapore, in a manner permitted by the LSB pursuant to an MRA. </p>
@@ -208,7 +209,7 @@ variant: markdown
 32. On the matter of safeguards in the implementation of MRAs, I wish to highlight that foreign land surveyors will need to meet certain requirements, before they can provide land surveying services in Singapore in accordance with the terms of an MRA.
 
 <p style="margin-left: 40px">
-(a) For example, under the Scheme, there will be binding minimum requirements in terms of qualifications and work experience, which individuals must meet before they can be recognised as ASEAN Registered Surveyors.</p>  
+(a) For example, under the Scheme, there will be binding minimum requirements in terms of qualifications and work experience, which individuals must meet before they can be recognised as ASEAN Registered Surveyors.</p>
 
 <p style="margin-left: 40px">
 (b) The new section 12A(4) inserted by Clause 9 of the Bill also allows the LSB to impose additional conditions on foreign land surveyors as part of their registration as registered foreign surveyors. </p>
@@ -296,7 +297,7 @@ variant: markdown
 (a) These will make clear that the term “registered surveyor”, when used in these other Acts, only applies to the land surveyors registered under section 12 of the Land Surveyors Act, i.e., to local registered surveyors.</p>
 
 <p style="margin-left: 40px">
-(b) This will avoid any confusion with the introduction of registered foreign surveyors into the local land surveying landscape.<p></p>
+(b) This will avoid any confusion with the introduction of registered foreign surveyors into the local land surveying landscape.</p>
 
 <b><u>Conclusion</u></b>
 
