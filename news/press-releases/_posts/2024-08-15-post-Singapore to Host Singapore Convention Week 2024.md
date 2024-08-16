@@ -55,10 +55,10 @@ b)&nbsp; **Partner events by supporting organisations:** A series of legal and d
 5.&nbsp;&nbsp;&nbsp; **Secretary of UNCITRAL, Ms Anna Joubin-Bret**, said: “UNCITRAL is proud to once again partner with MinLaw for SC Week 2024. As our world undergoes rapid transformation, our collaboration remains more crucial than ever. By discerning between disruptions and distractions, we can harness innovation to build a resilient and effective dispute resolution framework. Together, we hope that SC Week will provide an invaluable platform to exchange knowledge, build capacity, and address emerging challenges, ultimately strengthening the rule of law on a global scale.”
 
 {:start="6"}
-6.&nbsp;&nbsp;&nbsp; Visit https://www.singaporeconventionweek.sg to register for SC Week 2024 and get the latest updates.
+6.&nbsp;&nbsp;&nbsp; Visit [https://www.singaporeconventionweek.sg](https://www.singaporeconventionweek.sg) to register for SC Week 2024 and get the latest updates.
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp; Visit https://www.singaporeconventionweek.sg/sc-weeks-events.html for SC Week 2024 UNCITRAL Academy Programme and Supporting Partner Organisations Events.
+7.&nbsp;&nbsp;&nbsp; Visit [https://www.singaporeconventionweek.sg/sc-weeks-events.html ](https://www.singaporeconventionweek.sg/sc-weeks-events.html )for SC Week 2024 UNCITRAL Academy Programme and Supporting Partner Organisations Events.
 
 **MINISTRY OF LAW**
 
