@@ -61,7 +61,6 @@ b)&nbsp; **Partner events by supporting organisations:** A series of legal and d
 7.&nbsp;&nbsp;&nbsp; Visit [https://www.singaporeconventionweek.sg/sc-weeks-events.html ](https://www.singaporeconventionweek.sg/sc-weeks-events.html )for SC Week 2024 UNCITRAL Academy Programme and Supporting Partner Organisations Events.
 
 **MINISTRY OF LAW**
-
 <br>**15 AUGUST 2024**
 
 <p class="right-side-updated">Last updated on 15 August 2024</p>
