@@ -1,0 +1,8 @@
+collections:
+  trusts:
+    output: true
+    order:
+      - Trusts and Trust Like Arrangements in Singapore.md
+      - Express Trusts.md
+      - Charitable Purpose Trusts.md
+      - Wakafs.md
