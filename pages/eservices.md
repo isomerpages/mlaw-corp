@@ -12,7 +12,7 @@ instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" r
 </p>
 <hr>
 <h4><strong>Maintenance Notices</strong></h4>
-<p>test
+<p>
 <br>The following eServices are unavailable due to scheduled maintenance on
 the following dates:</p>
 <table style="minWidth: 50px">
