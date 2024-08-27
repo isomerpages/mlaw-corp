@@ -1,6 +1,6 @@
 ---
 title: Welcome Address by Minister for Home Affairs and Law K Shanmugam SC at
-  the UNCITRAL Academy
+  the UNCITRAL Academy Conference, Singapore Convention Week
 permalink: /welcome-address-by-minister-for-home-affairs-and-law-k-shanmugam-sc-at-the-uncitral-academy/
 date: 2024-08-27
 layout: post
