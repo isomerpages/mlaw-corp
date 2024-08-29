@@ -1,6 +1,5 @@
 ---
-title: Opening Address by Second Minister for Law Mr Edwin Tong at Global Forum
-  in Intellectual Property
+title: Opening Address by Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong SC, at the Opening Ceremony of the Global Forum in Intellectual Property
 permalink: /opening-address-by-second-minister-for-law-mr-edwin-tong-at-global-forum-in-intellectual-property/
 date: 2024-08-27
 layout: post
