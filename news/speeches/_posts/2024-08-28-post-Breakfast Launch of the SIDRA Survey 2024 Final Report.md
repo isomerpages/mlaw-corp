@@ -14,7 +14,9 @@ variant: markdown
 **Justice Japar Dimaampao**, Associate Justice of the Supreme Court of the Philippines
 
 Friends and Colleagues
+
 Our Distinguished Guests
+
 Ladies and Gentlemen
 
 **Introduction**
