@@ -111,7 +111,7 @@ Ladies and Gentlemen
 {:start="15"}
 15. We all know that it is not easy to conduct a survey, especially one such as the heavy duty SIDRA survey that goes in depth, as this requires time and effort on the part of the respondents. Frankly, more often than not, when you get a survey in your inbox, the first instinct is to delete it immediately.
 
-{:start="16”}
+{:start="16"}
 16. So, kudos to SIDRA for managing to get a sizeable number of respondents, to make the findings robust. And also many thanks to those amongst the audience, who may have responded to the survey, and resisted your first instinct. Your support means a lot to SIDRA, and to us.
 
 {:start="17"}
