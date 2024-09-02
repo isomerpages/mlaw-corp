@@ -1,5 +1,5 @@
 ---
-title: Breakfast Launch of the SIDRA Survey 2024 Final Report
+title: Speech by Minister of State, Ministry of Law and Ministry of Transport, Mr Murali Pillai SC, at Breakfast Launch of the SIDRA Survey 2024 Final Report
 permalink: /breakfast-launch-of-the-sidra-survey-2024-final-report/
 date: 2024-08-28
 layout: post
