@@ -31,6 +31,14 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Insolvency Office, Public Trustee's Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Sep 2024 (Fri) 1700 hrs to 9 Sep 2024 (Mon) 0800 hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
@@ -45,8 +53,6 @@ Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering
 / Countering The Financing Of Terrorism, Public Defender's Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Sep 2024 (Fri) 1700 hrs to 9 Sep 2024 (Mon) 0800 hrs</p>
-<p></p>
 <p>Every Fri, 1800 hrs to 2359 hrs</p>
 </td>
 </tr>
