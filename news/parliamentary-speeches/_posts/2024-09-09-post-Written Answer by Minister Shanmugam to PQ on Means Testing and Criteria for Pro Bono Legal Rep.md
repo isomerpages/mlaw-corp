@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister Shanmugam to PQ on Means Testing and Criteria
-  for Pro Bono Legal Rep
+title: Written Answer by Minister for Law K Shanmugam to PQ on Means-testing and Qualifying Criteria for Pro Bono Legal Representation from Legal Aid Bureau
 permalink: /written-answer-by-minister-shanmugam-to-pq-on-means-testing-and-criteria-for-pro-bono-legal-rep/
 date: 2024-09-09
 layout: post
