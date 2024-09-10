@@ -39,8 +39,6 @@ Apply for a Licence or Registration for a New Law Practice Entity
 If you do not have a SingPass account or have forgotten your SingPass, you may apply for one or reset it via the <a href="https://www.singpass.gov.sg/main/" target="_blank">SingPass website</a>.</li>
         <li>If you are not eligible for SingPass, you can approach a third party service provider in Singapore, e.g. a Singapore Law Practice or <a href="http://csis.org.sg/index.php/practitioners-directory/" target="_blank">a corporate services provider.</a></li>
           </ul>
-        
-      
     </td>
     <td>
       <ul>
@@ -143,6 +141,20 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+  <tr>
+     <td><b>Note<b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li style="text-align:justify">SLP applicants who wish to explore a matter management and collaboration tool to kickstart your firm's legal technology journey can visit the <a href="ltpi.mlaw.gov.sg" target="_blank">Legal Technology Platform</a> for more information on the initiative and funding programme.</li>
+
+  
+   </ul>
+   </td>
+ </tr>
+ <tr>
 </tbody></table>
 
 <p class="right-side-updated">Last updated on 06 Jun 2018</p>
