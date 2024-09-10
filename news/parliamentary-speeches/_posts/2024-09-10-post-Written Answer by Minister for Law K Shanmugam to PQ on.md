@@ -1,6 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Effectiveness of Small Claims Tribunal in Resolving Contractual Disputes and Plans to Raise Claim Limits and Reduce Cost
+permalink: /written-answer-by-minister-for-law-k-shanmugam-pq-effectiveness-small-claims-tribunal/
 date: 2024-09-10
 layout: post
 description: ""
