@@ -148,7 +148,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
   <tr>
     <td>
       <ul>
-        <li style="text-align:justify">SLP applicants who wish to explore a matter management and collaboration tool to kickstart your firm's legal technology journey can visit the <a href="ltpi.mlaw.gov.sg" target="_blank">Legal Technology Platform</a> for more information on the initiative and funding programme.</li>
+        <li style="text-align:justify">SLP applicants who wish to explore a matter management and collaboration tool to kickstart your firm's legal technology journey can visit the <a href="ltpi.mlaw.gov.sg" target="_blank"/>Legal Technology Platform</a> for more information on the initiative and funding programme.</li>
 
   
    </ul>
