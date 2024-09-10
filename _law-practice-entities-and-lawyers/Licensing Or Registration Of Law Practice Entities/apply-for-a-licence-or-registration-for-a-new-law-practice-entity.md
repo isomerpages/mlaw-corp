@@ -142,7 +142,7 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
     </td>
   </tr>
   <tr>
-     <td><b>Note</b>b></td>
+     <td><b>Note</b></td>
     <td></td>
   </tr>
   <tr>
