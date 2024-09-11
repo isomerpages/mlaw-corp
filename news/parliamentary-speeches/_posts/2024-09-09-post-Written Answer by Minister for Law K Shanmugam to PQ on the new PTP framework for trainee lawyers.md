@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on the new Practice Training Period framework for trainee lawyers
+title: Written Answer by Minister for Law K Shanmugam to PQ on the new Practice
+  Training Period framework for trainee lawyers
 permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-the-new-ptp-framework-for-trainee-lawyers/
 date: 2024-09-09
 layout: post
@@ -37,7 +38,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As the new training framework has more st
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will now address the issue of trainee honoraria and benefits. MinLaw has mentioned on previous occasions that honoraria would be determined between trainees and law firms.
 
 <p style="margin-left: 40px">
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandating a minimum honorarium quantum would be “prescriptive, \[introduce\] rigidity and would need to be constantly reviewed to account for prevailing conditions”.[\[1\]](#_ftn1)</p>
+a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mandating a minimum honorarium quantum would be “prescriptive, \[introduce\] rigidity and would need to be constantly reviewed to account for prevailing conditions”.<sup><a href="#fn1" id="ref1">1</a></sup></p>
 
 <p style="margin-left: 40px">
 b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This could also inadvertently reduce the number of available training places if smaller law firms cannot afford the mandated amount or benefits.</p>
@@ -75,6 +76,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is reiterated in the same Law Societ
 
 * * *
 
-[\[1\]](#_ftnref1) Second Reading Closing Speech on the Legal Profession (Amendment) Bill 2023 on 7 November 2023.
+<p><sup id="fn1">1. Second Reading Closing Speech on the Legal Profession (Amendment) Bill 2023 on 7 November 2023.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
 <p class="right-side-updated">Last updated on 09 September 2024</p>
