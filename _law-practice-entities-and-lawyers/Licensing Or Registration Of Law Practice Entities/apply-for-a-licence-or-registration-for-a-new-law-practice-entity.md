@@ -24,12 +24,14 @@ Apply for a Licence or Registration for a New Law Practice Entity
     <th>Step</th>
     <th>Exceptions</th>
   </tr>
+		
   <tr>
     <td>
       <b>STEP 1: Login to LSRA e-Services using SingPass</b>
     </td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -46,10 +48,12 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
     <td><b>STEP 2: Complete and submit application form and pay application fee</b></td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -65,12 +69,14 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
     <td>
       <b>STEP 3: Receive outcome of application</b>
     </td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -85,10 +91,12 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
     <td><b>STEP 4: Register entity with ACRA</b></td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -103,10 +111,12 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
     <td><b>STEP 5: Update UEN and pay licence/registration fee</b></td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -123,10 +133,12 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
     <td><b>STEP 6: Receive licence/certificate</b></td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
@@ -141,18 +153,19 @@ If you do not have a SingPass account or have forgotten your SingPass, you may a
       </ul>
     </td>
   </tr>
+		
   <tr>
      <td><b>Note</b></td>
     <td></td>
   </tr>
+		
   <tr>
     <td>
       <ul>
         <li style="text-align:justify">SLP applicants who wish to explore a matter management and collaboration tool to kickstart your firm's legal technology journey can visit the <a href="https://ltpi.mlaw.gov.sg" target="_blank">Legal Technology Platform</a> for more information on the initiative and funding programme.</li>
-
-  
    </ul>
    </td>
+		<td></td>
  </tr>
 </tbody></table>
 
