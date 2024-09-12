@@ -34,7 +34,7 @@ the following dates:</p>
 <p>Insolvency Office, Public Trustee's Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Sep 2024 (Fri) 1700 hrs to 9 Sep 2024 (Mon) 0800 hrs</p>
+<p>14 Sep 2024 (Sat) 1400 hrs to 16 Sep 2024 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
