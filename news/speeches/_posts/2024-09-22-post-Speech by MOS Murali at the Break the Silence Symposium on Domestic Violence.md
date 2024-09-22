@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by MOS Murali Pillai SC at the Break the Silence: Empowering the Indian Community Symposium on Domestic Violence
+title: Opening Remarks by MOS Murali Pillai SC at the Break the Silence: Empowering the Indian
 permalink: /speech-by-mos-murali-at-the-break-the-silence-symposium-on-domestic-violence/
 date: 2024-09-22
 layout: post
