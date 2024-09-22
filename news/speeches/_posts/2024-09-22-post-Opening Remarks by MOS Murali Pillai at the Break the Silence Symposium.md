@@ -66,3 +66,5 @@ Ladies and Gentlemen,
 {:start="22"} 22. In conclusion, I would like to extend my heartfelt appreciation to the organisers, MSF, SINDA, the Hindu Endowment Board, Thye Hua Kwan and Casa Raudha for making today’s event possible. I hope that today will spark a series of meaningful dialogues, sharing of insights, and collaborative strategies to combat domestic violence. Together, we can make a meaningful difference in the lives of those affected, and I look forward to the positive impact that our collective efforts will bring.
 
 {:start="23"} 23. Thank you.
+
+<p class="right-side-updated">Last updated on 22 September 2024</p>
