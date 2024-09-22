@@ -13,7 +13,7 @@ Distinguished guests,
 
 Ladies and Gentlemen,
 
-{:start="1"}&nbsp;1. I am happy to be here amongst friends, and I would like to acknowledge the presence of Mdm Susila Ganesan, retired judge Mr Bala Reddy and Associate Professor Narayanan Ganapathy, amongst others. Really happy to be amongst friends to discuss this very important topic. I am very encouraged to see quite a couple of you here today for the “Break the Silence” symposium, united against the scourge of domestic violence. Your presence here this morning is a resounding affirmation of the idea that every individual has the right to live a life free from violence, especially from those closest to them. As PM Lawrence Wong has said, families are the cornerstone and bedrock of our society. Families are our primary support system. When our families flourish, so too does our community and, our nation too.
+{:start="1"} 1. I am happy to be here amongst friends, and I would like to acknowledge the presence of Mdm Susila Ganesan, retired judge Mr Bala Reddy and Associate Professor Narayanan Ganapathy, amongst others. Really happy to be amongst friends to discuss this very important topic. I am very encouraged to see quite a couple of you here today for the “Break the Silence” symposium, united against the scourge of domestic violence. Your presence here this morning is a resounding affirmation of the idea that every individual has the right to live a life free from violence, especially from those closest to them. As PM Lawrence Wong has said, families are the cornerstone and bedrock of our society. Families are our primary support system. When our families flourish, so too does our community and, our nation too.
 
 <b>Domestic Violence is No Private Matter</b>
 
