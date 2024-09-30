@@ -46,10 +46,15 @@ Ladies and Gentlemen,
 9.&nbsp; Whilst global economic growth is expected to continue being weak and subdued in the coming years by historic standards, the Asia-Pacific region is projected to continue growing at a faster pace than the rest of the world.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 <p style="margin-left: 60px">
-(a)&nbsp; The International Monetary Fund forecasts that the global economy will grow by 3.2% in 2024; Asia and the Pacific regions will grow at a greater pace of 4.5%.
+(a)&nbsp; The International Monetary Fund forecasts that the global economy will grow by 3.2% in 2024; Asia and the Pacific regions will grow at a greater pace of 4.5%.<sup><a href="#fn2" id="ref2">2</a></sup></p>
 
-</p><p style="margin-left: 60px">
-(b)&nbsp; You have in the Middle East, another war which threatens repeatedly to escalate into a broader, all-out conflict.</p>
+<p></p><p style="margin-left: 60px">
+(b)&nbsp; This is further underscored by the fact that these regions are expected to contribute 60% of global economic growth in 2024.<sup><a href="#fn3" id="ref3">3</a></sup></p>
+
+{:start="10"}
+10.&nbsp; In our immediate vicinity, ASEAN economies continue to grow rapidly.
+
+
 
 
 <b>Singapore’s Approach</b>
@@ -60,8 +65,7 @@ Ladies and Gentlemen,
 
 
 
-{:start="10"}
-10.&nbsp; Today, there are 57 signatories, which is quite significant within five years given that we had lost a couple of years to the pandemic. That includes some of the world’s major economies, like the United States, China and India. 14 countries have ratified the Convention, including Japan, Saudi Arabia, and most recently, Sri Lanka.&nbsp;
+
 
 {:start="11"}
 11.&nbsp; We hope to build on this momentum to have more countries come on board.&nbsp;
