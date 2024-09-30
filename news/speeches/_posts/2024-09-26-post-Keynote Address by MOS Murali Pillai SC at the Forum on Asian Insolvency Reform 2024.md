@@ -58,10 +58,20 @@ Ladies and Gentlemen,
 (a)&nbsp; Based on ASEAN’s total GDP of US$ 3.6 trillion in 2022, ASEAN was the world’s fifth-largest economy.<sup><a href="#fn4" id="ref4">4</a></sup></p>
 
 <p></p><p style="margin-left: 60px">
-(b)&nbsp; Looking ahead, there are estimates that project ASEAN’s GDP to grow to US$ 4.5 trillion by 2030</p>
+(b)&nbsp; Looking ahead, there are estimates that project ASEAN’s GDP to grow to US$ 4.5 trillion by 2030.</p>
 
 <p></p><p style="margin-left: 60px">
-(b)&nbsp; This is further underscored by the fact that these regions are expected to contribute 60% of global economic growth in 2024.<sup><a href="#fn3" id="ref3">3</a></sup></p>
+(c)&nbsp; This would propel ASEAN to become the world’s fourth-largest economy in just six more years.<sup><a href="#fn5" id="ref5">5</a></sup></p>
+
+{:start="11"}
+11.&nbsp; While the long-term trajectory is positive, there are challenges and uncertainties in the road ahead.
+
+<p style="margin-left: 60px">
+(a)&nbsp; Ongoing geopolitical tensions such as the conflicts in the Middle East and in Europe; and</p>
+
+<p style="margin-left: 60px">
+(b)&nbsp; Based on ASEAN’s total GDP of US$ 3.6 trillion in 2022, ASEAN was the world’s fifth-largest economy.<sup><a href="#fn4" id="ref4">4</a></sup></p>
+
 
 
 
@@ -75,8 +85,7 @@ Ladies and Gentlemen,
 
 
 
-{:start="11"}
-11.&nbsp; We hope to build on this momentum to have more countries come on board.&nbsp;
+
 
 {:start="12"}
 12.&nbsp; The Convention is just one example of trying to encourage that. But it shows you what we can do, working together, coming together, and exchanging viewpoints.&nbsp;
