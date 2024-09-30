@@ -42,15 +42,23 @@ Ladies and Gentlemen,
 {:start="8"}
 8.&nbsp; On the latter part of this theme – transforming Asia – it is an undoubted fact that Asia’s economy is growing and transforming rapidly. Sometimes it goes down in the near term, but in the long-term, the trend is up.
 
+{:start="9"}
+9.&nbsp; Whilst global economic growth is expected to continue being weak and subdued in the coming years by historic standards, the Asia\-Pacific region is projected to continue growing at a faster pace than the rest of the world.[\[1\]](#_ftn1)
 
 <p style="margin-left: 60px">
-(i)&nbsp; You have the war continuing in Europe - two years and no end in sight.</p>
+(a)&nbsp; The International Monetary Fund forecasts that the global economy will grow by 3.2% in 2024; Asia and the Pacific regions will grow at a greater pace of 4.5%.
 
-<p style="margin-left: 60px">
-(ii)&nbsp; You have in the Middle East, another war which threatens repeatedly to escalate into a broader, all-out conflict.</p>
+</p><p style="margin-left: 60px">
+(b)&nbsp; You have in the Middle East, another war which threatens repeatedly to escalate into a broader, all-out conflict.</p>
 
-<p style="margin-left: 60px">
-(iii)&nbsp; You have the continuing tensions between the two largest economies in the world, with a number of potential flashpoints in the Southeast Asia and East Asia regions.</p>
+
+
+* * *
+
+[\[1\]](#_ftnref1) Projections by the World Bank.
+
+
+
 
 
 <b>Singapore’s Approach</b>
@@ -59,8 +67,7 @@ Ladies and Gentlemen,
 
 <b>Singapore Convention On Mediation</b>
 
-{:start="9"}
-9.&nbsp; Five years ago, we gathered here for the signing of the Singapore Convention on Mediation. The Convention typifies and illustrates the approach Singapore takes to try and encourage discussion, build consensus, and take practical steps to benefit and create a framework for the international community and for increased trade flows. The Convention provides a framework to enforce mediated settlement agreements. So you do not have to just go for litigation or for arbitration. And if you go for mediation, the agreement that comes out of any such mediation can now be enforced across borders, provided the countries are parties to the treaty. This would certainly encourage, in our view, cross-border business.&nbsp;&nbsp;&nbsp;
+
 
 {:start="10"}
 10.&nbsp; Today, there are 57 signatories, which is quite significant within five years given that we had lost a couple of years to the pandemic. That includes some of the world’s major economies, like the United States, China and India. 14 countries have ratified the Convention, including Japan, Saudi Arabia, and most recently, Sri Lanka.&nbsp;
