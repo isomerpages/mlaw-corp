@@ -90,8 +90,49 @@ Ladies and Gentlemen,
 <p style="margin-left: 60px">
 (b)&nbsp; Businesses, in particular the smaller ones, are now better able to expand their outreach across borders, by using technology and online platforms.</p>
 
-<b>Singapore Convention On Mediation</b>
+{:start="15"}
+15.&nbsp; The green transformation will likely be one of the deepest and broadest transformations in the coming years.
 
+<p style="margin-left: 60px">
+(a)&nbsp; Climate change has resulted in an increase in extreme weather events, which have far-reaching implications.</p>
+
+<p style="margin-left: 140px">
+(i)&nbsp; In a 2024 Climate and Catastrophe Insight report by AON, flooding remains a recurring threat in the Asia-Pacific - which annual losses having exceeded US$30 billion every year since 2010.<sup><a href="#fn8" id="ref8">8</a></sup> That is a lot of money lost through floods.</p>
+
+<p style="margin-left: 140px">
+(ii)&nbsp; Many countries saw significant flooding and rainfall events last year, including Hong Kong, South Korea, India, and Pakistan.</p>
+
+<p style="margin-left: 60px">
+(b)&nbsp; Most pertinently for the insolvency community, climate change can adversely impact the financial performance of businesses. According to an Asian Development Bank Institute working paper<sup><a href="#fn9" id="ref9">9</a></sup>, such adverse impact can occur directly and indirectly:</p>
+
+<p style="margin-left: 140px">
+(i)&nbsp; The direct impact includes implications for the core operations of businesses, such as damage to production materials and infrastructure. Further challenges include potential disruptions to the value chain, such as the supply of raw materials.</p>
+
+<p style="margin-left: 140px">
+(ii)&nbsp; The indirect impact is equally significant. These include climate-related financing constraints, such as carbon pricing and other climate-related policies, that could impose additional regulatory costs and financial burdens on companies.</p>
+
+<p style="margin-left: 60px">
+(c)&nbsp; As concerns about climate action become more urgent and the shift towards a sustainable economy gains momentum, we expect to see businesses, impacted by transitional pains, relying on the restructuring and insolvency (“<b>R&amp;I</b>”) regime to transform, restructure or wind up.</p>
+
+<b>C. Impact and Importance of R&amp;I Regimes and the Need to Innovate R&amp;I Regimes</b>
+
+{:start="16"}
+16.&nbsp; As the operating environment is reshaped by such transformations, it behooves us to innovate the R&amp;I regime, which is an important component of the business ecosystem.
+
+{:start="17"}
+17.&nbsp; The economic benefits of a strong and effective R&amp;I regime are widely recognised, especially by today's audience. In this regard, allow me to highlight two points regarding the impact and importance of R&amp;I regimes and the need to innovate our R&amp;I regimes.
+
+{:start="18"}
+18.&nbsp; First, R&amp;I regimes will assist economies in their growth trajectories. This was a point alluded to by Ms. Fraser just now.
+
+<p style="margin-left: 60px">
+(a)&nbsp; It helps viable businesses that have fallen into difficult times to rehabilitate and get back to their feet - better and stronger. This, in turn, helps to promote entrepreneurship, access to finance and encourage foreign investment.</p>
+
+<p style="margin-left: 140px">
+(i)&nbsp; For example, we have seen Southeast Asian carriers - Garuda Indonesia, Malaysia Airlines and Thai Airways - go through restructuring exercises which enabled them to survive the impact of the COVID-19 pandemic on the aviation industry.</p>
+
+<p style="margin-left: 60px">
+(b)&nbsp; At the same time, for businesses that are no longer viable, the R&amp;I regime facilitates the recycling of capital back into the economy.</p>
 
 
 <b>Conclusion</b>
