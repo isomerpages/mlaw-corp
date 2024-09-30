@@ -70,30 +70,33 @@ Ladies and Gentlemen,
 (a)&nbsp; Ongoing geopolitical tensions such as the conflicts in the Middle East and in Europe; and</p>
 
 <p style="margin-left: 60px">
-(b)&nbsp; Based on ASEAN’s total GDP of US$ 3.6 trillion in 2022, ASEAN was the world’s fifth-largest economy.<sup><a href="#fn4" id="ref4">4</a></sup></p>
+(b)&nbsp; Geoeconomic fragmentation, including trade tensions.<sup><a href="#fn6" id="ref6">6</a></sup></p>
 
+{:start="12"}
+12.&nbsp; Besides these near-term risks, economies will also have to grapple with major transformative shifts that will fundamentally alter the business landscape.
 
+{:start="13"}
+13.&nbsp; I will briefly mention the digital and green transformations.
 
+{:start="14"}
+14.&nbsp; Globally, the digital transformation has accelerated in recent years, driven in part by the Covid-19 pandemic. This has changed, and will continue to shape, the way we live and work, including how we do business.
 
-<b>Singapore’s Approach</b>
+<p style="margin-left: 60px">
+(a)&nbsp; Businesses are increasingly using new technologies in their operations to drive productivity and growth.</p>
 
+<p style="margin-left: 140px">
+(i)&nbsp; For instance, artificial intelligence tools can assist finance professionals with crunching and analysing large amounts of data to spot credit risks or other issues of concern, which would have otherwise required significant manual effort.<sup><a href="#fn7" id="ref7">7</a></sup></p>
 
+<p style="margin-left: 60px">
+(b)&nbsp; Businesses, in particular the smaller ones, are now better able to expand their outreach across borders, by using technology and online platforms.</p>
 
 <b>Singapore Convention On Mediation</b>
 
 
 
-
-
-
-
-{:start="12"}
-12.&nbsp; The Convention is just one example of trying to encourage that. But it shows you what we can do, working together, coming together, and exchanging viewpoints.&nbsp;
-
 <b>Conclusion</b>
 
-{:start="13"}
-13.&nbsp; On that note, let me thank:
+
 
 <p style="margin-left: 60px">
 (i)&nbsp; UNCITRAL and our partner organisations for working with the Ministry of Law to put together the very impressive lineup of events for this Conference, and the rest of the week.</p>
@@ -104,8 +107,7 @@ Ladies and Gentlemen,
 <p style="margin-left: 60px">
 (iii)&nbsp; All participants for taking time to be with us, especially those who have come from afar.</p>
 
-{:start="14"}
-14.&nbsp; Thank you very much.
+
 
 ***
 
