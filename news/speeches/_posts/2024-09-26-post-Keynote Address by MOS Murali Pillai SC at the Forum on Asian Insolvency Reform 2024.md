@@ -134,6 +134,46 @@ Ladies and Gentlemen,
 <p style="margin-left: 60px">
 (b)&nbsp; At the same time, for businesses that are no longer viable, the R&amp;I regime facilitates the recycling of capital back into the economy.</p>
 
+{:start="19"}
+19.&nbsp; Second, there is an increasing need to innovate the international aspects of R&amp;I regimes.
+
+{:start="20"}
+20.&nbsp; The simple reason is that law follows business and law follows trade.
+
+{:start="21"}
+21.&nbsp; It is clear that there is major cross-border commercial activity in Asia:
+
+<p style="margin-left: 60px">
+(a)&nbsp; In 2022, foreign direct investment in Southeast Asia reached a record high of US$224 billion.<sup><a href="#fn10" id="ref10">10</a></sup></p>
+
+<p style="margin-left: 60px">
+(b)&nbsp; Asia-Pacific's 50 largest consumer product companies saw overseas revenue grow three times faster than domestic revenue between 2012 and 2021 - engaging in cross-border M&amp;A to accelerate growth<sup><a href="#fn11" id="ref11">11</a></sup></p>
+
+{:start="22"}
+22.&nbsp; When such enterprises face financial distress, different laws and stakeholders will be engaged across different countries. This will be a topic of much interest over these two days. To preserve value and ensure cost-effectiveness of the proceedings, it is important for R&amp;I regimes of the different countries to be able to operate seamlessly with each other.
+
+{:start="23"}
+23.&nbsp; For instance, in the recent wave of cryptocurrency-related insolvencies, such as FTX, Babel Finance and Zipmex, there have been insolvency proceedings opened across multiple jurisdictions with different insolvency frameworks.
+
+<p style="margin-left: 60px">
+(a)&nbsp; On this note, I understand that there is a panel tomorrow that will take you on an in-depth discussion on this topic.<sup><a href="#fn12" id="ref12">12</a></sup> I am sure that you will benefit from the attendance.</p>
+
+<b>D. How to Innovate in Insolvency?</b>
+
+{:start="24"}
+24.&nbsp; Turning to the first part of today's theme - innovating insolvency - such innovations can take many forms.
+
+{:start="25"}
+25.&nbsp; I would like to offer my perspectives on two key categories of innovations that may have substantial impact.
+
+{:start="26"}
+26.&nbsp; First, 'hard' frameworks, through the implementation of legislation.
+
+<p style="margin-left: 60px">
+(a)&nbsp; We are observing an increasing pace of insolvency reform.</p>
+
+<p style="margin-left: 60px">
+(b)&nbsp; For instance, recent reforms include:</p>
 
 <b>Conclusion</b>
 
