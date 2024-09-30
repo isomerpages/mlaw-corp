@@ -54,6 +54,14 @@ Ladies and Gentlemen,
 {:start="10"}
 10.&nbsp; In our immediate vicinity, ASEAN economies continue to grow rapidly.
 
+<p style="margin-left: 60px">
+(a)&nbsp; Based on ASEAN’s total GDP of US$ 3.6 trillion in 2022, ASEAN was the world’s fifth-largest economy.<sup><a href="#fn4" id="ref4">4</a></sup></p>
+
+<p></p><p style="margin-left: 60px">
+(b)&nbsp; Looking ahead, there are estimates that project ASEAN’s GDP to grow to US$ 4.5 trillion by 2030</p>
+
+<p></p><p style="margin-left: 60px">
+(b)&nbsp; This is further underscored by the fact that these regions are expected to contribute 60% of global economic growth in 2024.<sup><a href="#fn3" id="ref3">3</a></sup></p>
 
 
 
