@@ -184,23 +184,55 @@ Ladies and Gentlemen,
 <p style="margin-left: 60px">
 (c)&nbsp; On the international aspects, there remains room for greater harmonisation and inter-operability between jurisdictions. I hope this forum can contribute to that.</p>
 
+<p style="margin-left: 140px">
+(i)&nbsp; In this regard, jurisdictions may consider adopting model insolvency legislation or guiding instruments, adopted by international harmonisation bodies, such as UNCITRAL, which I understand will be covered in detail on a panel tomorrow.</p>
 
-<b>Conclusion</b>
-
-
-
-<p style="margin-left: 60px">
-(i)&nbsp; UNCITRAL and our partner organisations for working with the Ministry of Law to put together the very impressive lineup of events for this Conference, and the rest of the week.</p>
+{:start="27"}
+27.&nbsp; On building up institutions, besides having the laws on the statute books, it is important to have well-functioning institutions, including Government officials, policymakers and judicial officers as well as practitioners that can effectively apply such laws.
 
 <p style="margin-left: 60px">
-(ii)&nbsp; Speakers for coming to share your experiences and expertise; and</p>
+(a)&nbsp; For example, from the Singapore perspective, we have clarified the jurisdiction of the Singapore International Commercial Court (“<b>SICC</b>”) to hear cross-border R&amp;I matters.<sup><a href="#fn15" id="ref15">15</a></sup> This Court allows International Judges and foreign counsel from different jurisdictions and different legal systems to play a role in such cases.</p>
 
 <p style="margin-left: 60px">
-(iii)&nbsp; All participants for taking time to be with us, especially those who have come from afar.</p>
+(b)&nbsp; It is hoped that institutions such as the SICC will serve as trusted, neutral forums within Asia with the relevant expertise where distressed multi-national businesses can seek a restructuring. As an example, the SICC recently approved a pre-pack scheme that was proposed by Vietnamese property developer No Va Land.</p>
 
+<b>E. Importance of Cooperation and Coordination Between Jurisdictions Moving Forward</b>
 
+{:start="28"}
+28.&nbsp; In concluding, I am very glad to be here with you today, particularly as many of tomorrow's insolvency problems will have to be resolved through cross-border communication and cooperation.
+
+{:start="29"}
+29.&nbsp; As mentioned earlier, there remains room for greater harmonisation and inter-operability between jurisdictions. This can only be achieved by fostering cooperation, communication and coordination at all levels and across various platforms.
+
+{:start="30"}
+30.&nbsp; In this regard, FAIR is an excellent opportunity for people-to-people exchanges. This complements other initiatives, such as:
+
+<p style="margin-left: 60px">
+	(a)&nbsp; The Judicial Insolvency Network ("<b>JIN</b>") which facilitates communication and cooperation within a network of insolvency judges across the world. The JIN held its 5th JIN Conference in Singapore in June this year, with a record attendance of 32 participants.<sup><a href="#fn16" id="ref16">16</a></sup></p>
+
+<p style="margin-left: 60px">
+	(b)&nbsp; The Regional Restructuring and Insolvency Institutes Forum (“<b>RRIOF</b>”). The RRIOF gathers various representatives of national insolvency associations in the Asia-Pacific. Its inaugural meeting was held last year, in conjunction with the Singapore Insolvency Conference, and included representatives from China, Japan, India, and Indonesia. The RRIOF is scheduled to meet again at the upcoming Singapore Insolvency Conference 2024, to be held in October this year</p>
+	
+<p style="margin-left: 60px">
+	(c)&nbsp; Conferences and seminars – for example, those regularly organised by INSOL – that provide frequent opportunities for the R&amp;I community to gather. We are grateful for that</p>
+
+{:start="31"}
+31.&nbsp; Collectively, these platforms provide valuable opportunities to:
+
+<p style="margin-left: 60px">
+	(a)&nbsp; Share knowledge and experiences amongst jurisdictions that are keen to move R&amp;I reforms.</p>
+
+<p style="margin-left: 60px">
+	(b)&nbsp; Foster strong collaborative networks in the R&amp;I space, built on common understandings and relationships; and</p>
+
+<p style="margin-left: 60px">
+	(c)&nbsp; Promote and establish R&amp;I best-practices and frameworks.</p>
+
+{:start="32"}
+32.&nbsp; On that note, I wish everyone a very fruitful two days at the FAIR. As Ms. Fraser earlier said, I hope the weather clears so that you can enjoy the beauty of Singapore. Thank you.
 
 ***
+<p><sup id="fn1">1. Projections by the World Bank.<a href="#ref1" title="Jump back to footnote 1 in the text."> x </a></sup></p>
 
 
-<p class="right-side-updated">Last updated on 27 Aug 2024</p>
+<p class="right-side-updated">Last updated on 26 Sep 2024</p>
