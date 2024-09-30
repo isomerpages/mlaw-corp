@@ -232,7 +232,7 @@ Ladies and Gentlemen,
 32.&nbsp; On that note, I wish everyone a very fruitful two days at the FAIR. As Ms. Fraser earlier said, I hope the weather clears so that you can enjoy the beauty of Singapore. Thank you.
 
 ***
-<p><sup id="fn1">1. Projections by the World Bank.<a href="#ref1" title="Jump back to footnote 1 in the text."> x </a></sup></p>
-
+<p><sup id="fn1">1. Projections by the World Bank.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup></p>
+<p><sup id="fn2">2. Refer to the IMF’s World Economic Outlook Update (July 2024) ([https://www.imf.org/en/Publications/WEO/Issues/2024/07/16/world-economic-outlook-update-july-2024](https://www.imf.org/en/Publications/WEO/Issues/2024/07/16/world-economic-outlook-update-july-2024)) and the IMF’s April 2024 publication on “Regional Economic Outlook: Asia and Pacific” (https://www.imf.org/en/Publications/REO/APAC/Issues/2024/04/30/regional-economic-outlook-for-asia-and-pacific-April-2024](https://www.imf.org/en/Publications/REO/APAC/Issues/2024/04/30/regional-economic-outlook-for-asia-and-pacific-April-2024)).<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
 
 <p class="right-side-updated">Last updated on 26 Sep 2024</p>
