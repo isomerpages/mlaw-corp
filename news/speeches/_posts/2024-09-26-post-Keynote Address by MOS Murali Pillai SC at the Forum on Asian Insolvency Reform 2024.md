@@ -175,6 +175,16 @@ Ladies and Gentlemen,
 <p style="margin-left: 60px">
 (b)&nbsp; For instance, recent reforms include:</p>
 
+<p style="margin-left: 140px">
+(i)&nbsp; Myanmar in 2020 - which introduced more cost-effective insolvency procedures for the rehabilitation and liquidation of MSEs.<sup><a href="#fn13" id="ref13">13</a></sup> Similarly, there are reforms for small business insolvency procedures as well. Such reforms have also been adopted in Singapore and Australia.<sup><a href="#fn14" id="ref14">14</a></sup></p>
+
+<p style="margin-left: 140px">
+(ii)&nbsp; Malaysia earlier this year - which introduced new corporate rescue features to assist financially distressed businesses.</p>
+
+<p style="margin-left: 60px">
+(c)&nbsp; On the international aspects, there remains room for greater harmonisation and inter-operability between jurisdictions. I hope this forum can contribute to that.</p>
+
+
 <b>Conclusion</b>
 
 
