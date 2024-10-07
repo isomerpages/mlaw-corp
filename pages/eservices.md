@@ -38,7 +38,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Oct 2024 (Fri) 2000 hrs to 2359 hrs</p>
+<p>12 Oct 2024 (Sat) 1400 hrs to 14 Oct 2024 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
