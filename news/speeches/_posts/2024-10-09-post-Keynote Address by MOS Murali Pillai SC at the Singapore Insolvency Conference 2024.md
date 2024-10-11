@@ -242,5 +242,4 @@ Ladies and Gentlemen
 <p><sup id="fn7">7. The Sustainability Apex Programme is a joint initiative by the Institute of Singapore Chartered Accountants and The Law Society of Singapore, supported by Enterprise Singapore.<a href="#ref7" title="Jump back to footnote 7 in the text.">↩</a></sup></p>
 
 
-
 <p class="right-side-updated">Last updated on 9 Oct 2024</p>
