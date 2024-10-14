@@ -15,9 +15,11 @@ variant: markdown
 
 **Rationale**
 
-{:start="2"} 2.&nbsp;The Administration of Justice (Protection) Act 2016 (“**AOJPA**”) provides that any act that interferes with, or obstructs the administration of justice, is punishable as contempt of court.<sup><a href="#fn1" id="ref1">1</a></sup>
+{:start="2"}
+2.&nbsp;The Administration of Justice (Protection) Act 2016 (“**AOJPA**”) provides that any act that interferes with, or obstructs the administration of justice, is punishable as contempt of court.<sup><a href="#fn1" id="ref1">1</a></sup>
 
-{:start="3"}3.&nbsp;Cases of abuse of court processes are becoming more common in Singapore and overseas, as parties engage in “lawfare” – commencing unmeritorious claims to oppress others and/or for ulterior purposes. Examples of such conduct include:
+{:start="3"}
+3.&nbsp;Cases of abuse of court processes are becoming more common in Singapore and overseas, as parties engage in “lawfare” – commencing unmeritorious claims to oppress others and/or for ulterior purposes. Examples of such conduct include:
 
 <p style="margin-left: 40px">
 a)&nbsp;Commencing civil proceedings to seek financial damages, despite knowing that the claim is without foundation, for the purpose of oppressing the defendant.</p>
