@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Good Class
-  Bungalows
-permalink: /written-answer-by-second-minister-for-law-edwin-tong-to-pq-on-good-class-bungalows/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Good Class Bungalows Sold to Trust Companies with Foreign Beneficiaries
+permalink: /written-answer-by-2M-edwin-tong-to-pq-on-good-class-bungalows-sold-to-trust-companies/
 date: 2024-10-14
 layout: post
 description: ""
