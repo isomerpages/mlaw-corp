@@ -11,7 +11,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-<b>Mr Leong Mun Wai (Non-Constituency Member of Parliament</b>
+<b>Mr Leong Mun Wai (Non-Constituency Member of Parliament)</b>
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law in each year of the last five years (a) what percentage of Good Class Bungalows are sold to trust companies; (b) what percentage of these trust companies have foreign beneficiaries; and (c) what percentage of Clearance Certificate applications by trust companies to purchase Good Class Bungalows are rejected.
