@@ -1,7 +1,7 @@
 ---
 title: Oral Answer by Minister for Law K Shanmugam to PQ on Compliance on Orders
-  Issued by Small Claims
-permalink: /oral-answer-by-minister-for-law-k-shanmugam-to-pq-on-compliance-on-orders-issued-by-small-claims/
+  Issued by Small Claims Tribunal and Failure to Comply due to Lack of Resources
+permalink: /oral-answer-by-minister-for-law-k-shanmugam-to-pq-on-compliance-on-orders-issued-by-small-claims-tribunal-failure-to-comply-due-to-lack-of-resources/
 date: 2024-10-14
 layout: post
 description: ""
