@@ -37,7 +37,7 @@ variant: markdown
 6. Thus in summary,
 
 <p style="margin-left: 40px">
-(a) Since 2021, there have been no approvals given to any foreigners to purchase any GCB
+(a) Since 2021, there have been no approvals given to any foreigners to purchase any GCB;
 
 </p><p style="margin-left: 40px">
 (b) Since 2019, there have been no approvals given, to any licensed trust company where the beneficiaries are foreign, to purchase any GCB.
