@@ -1,7 +1,7 @@
 ---
 title: Safeguarding the Administration of Justice through the Administration of
-  Justice (Protection)
-permalink: /safeguarding-the-administration-of-justice-through-the-administration-of-justice-protection/
+  Justice (Protection) (Amendment) Bill 2024
+permalink: /safeguarding-the-administration-of-justice-through-the-administration-of-justice-protection-amendment-bill-2024/
 date: 2024-10-14
 layout: post
 description: ""
