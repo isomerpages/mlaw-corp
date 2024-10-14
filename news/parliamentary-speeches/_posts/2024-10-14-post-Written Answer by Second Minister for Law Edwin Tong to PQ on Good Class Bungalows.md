@@ -27,13 +27,13 @@ variant: markdown
 {:start="3"}
 3. The Singapore Land Authority (SLA) tracks all cases where approval is required under the RPA (where the purchaser is foreign, and in the case of licensed trust companies, where the beneficiaries are foreign). Beyond that, SLA does not collect general data on landed residential property that are acquired through trust companies.
 
-{:start=“4”}
+{:start="4"}
 4. Based on SLA’s records over the last five years from 2019 to date, no approvals were granted under the RPA for a trust company to acquire a Good Class Bungalow (GCB) to hold on trust for foreign beneficiaries. As such, any GCBs acquired during this time through a trust company were for Singaporean beneficiaries.
 
-{:start=“5”}
+{:start="5"}
 5. As has been made clear in Parliament, the Government takes a very strict approach when granting approvals for foreigners to own landed residential properties within mainland Singapore.&nbsp; Only PRs are allowed to purchase with approval and applicants are assessed on a case by case basis, taking into consideration factors such as their economic contribution to Singapore and whether they have strong Singapore nexus. There have been no approvals given to any foreign purchasers to acquire any GCBs since 2021, in any capacity whether personal or otherwise. For the period from 2012 to 2021, there were five approvals given under the RPA for acquisition of GCBs by foreigners (PRs), and of those five GCBs, two were inheritance cases. This was stated in Parliament on 2 August 2022.
 
-{:start=“6”}
+{:start="6"}
 6. Thus in summary,
 
 <p style="margin-left: 40px">
