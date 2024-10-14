@@ -1,5 +1,6 @@
 ---
-title: Second Reading Speech by Mnister of State, MinLaw & MOT, Murali Pillai on Statutes (Miscellaneous Amendments) (No. 2) Bill
+title: Second Reading Speech by Mnister of State, MinLaw & MOT, Murali Pillai on
+  Statutes (Miscellaneous Amendments) (No. 2) Bill
 permalink: /second-reading-speech-by-mos-minlaw-mot-murali-pillai-on-statutes-misc-amendments-bill/
 date: 2024-10-14
 layout: post
@@ -293,7 +294,7 @@ iv. the Town Councils Act 1988; and</p>
 <b>XII. <u>Amendments to the Women’s Charter 1961</u></b>
 
 {:start="57"}
-57. Finally, Sir, I come to the amendment relating to the Women’s Charter 1961 (“WC”).
+57. Finally, Sir, I come to the amendment relating to the Women’s Charter 1961 (“<b>WC</b>”).
 
 {:start="58"}
 58. Clause 13 amends the WC to make a minor drafting adjustment to the new section 126B, which was inserted by section 35 of the Women’s Charter (Amendment) Act 2022, and is yet to be commenced.
