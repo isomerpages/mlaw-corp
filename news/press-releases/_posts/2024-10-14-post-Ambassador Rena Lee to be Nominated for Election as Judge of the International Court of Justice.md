@@ -49,9 +49,9 @@ variant: markdown
 
 ***
 
-[Annex A - Statement of Minister for Foreign Affair Dr Vivian Balakrishnan]
+[Annex A - Statement of Minister for Foreign Affairs Dr Vivian Balakrishnan](/files/news/press-releases/2024/Annex_A___Statement_of_Minister_for_Foreign_Affairs_Dr_Vivian_Balakrishnan.pdf)
 
-[Annex B - Statement of Minister for Home Affairs and Minister for Law Mr K Shanmugam SC]  
+[Annex B - Statement of Minister for Home Affairs and Minister for Law Mr K Shanmugam SC](/files/news/press-releases/2024/Annex_B___Statement_of_Minister_for_Home_Affairs_and_Minister_for_Law_Mr_K_Shanmugam_SC.pdf)
 
 
 <p class="right-side-updated">Last updated on 14 October 2024</p>
