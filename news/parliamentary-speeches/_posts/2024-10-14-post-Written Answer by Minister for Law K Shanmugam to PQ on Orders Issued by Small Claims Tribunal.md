@@ -8,15 +8,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-**
-14 October 2024 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)&nbsp;
+14 October 2024 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <b><u>Question for Written Answer</u></b>
 
 <b>Mr Melvin Yong Yik Chye (Member of Parliament for Radin Mas SMC)</b>
 
 <b><u>Question:</u></b>
-
 <br>To ask the Minister for Law for the past five years (a) what is the annual percentage of orders issued by the Small Claims Tribunals (SCT) that required enforcement; and (b) of these, what is the average cost for consumers to enforce the SCT order.
 
 <b><u>Written Answer:</u></b>
@@ -30,7 +28,7 @@ variant: markdown
 {:start="3"}
 3.&nbsp;The costs for enforcement are prescribed under the Rules of Court. We do not track the legal fees that consumers may incur in enforcing the SCT order – this is case specific, depends on the scope of work to be performed, and is a matter to be agreed between the consumer and his lawyer.
 
-{:start=“4”}
+{:start="4"}
 4.&nbsp;Parties who require legal advice on the enforcement of SCT orders may approach the State Courts’ Community Justice Centre for free on-site legal advice, or seek assistance from other legal clinics, such as those organised by the Law Society Pro Bono Services, or community centres.
 
 <p></p><p class="right-side-updated">Last updated on 14 October 2024</p>
