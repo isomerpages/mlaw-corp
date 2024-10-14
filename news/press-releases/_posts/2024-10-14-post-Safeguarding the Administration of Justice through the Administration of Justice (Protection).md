@@ -45,8 +45,7 @@ a)&nbsp;Conducting or commencing a court proceeding, which the person knows or o
 <p style="margin-left: 60px">
 (i)&nbsp;involves a deception on the court, or is fictitious, or constitutes a mere sham; or</p>
 
-<p style="margin-left: 70px">
-(ii)&nbsp;is manifestly groundless or without foundation, and involves the process of the court being employed for some ulterior or improper purpose.</p>
+<p style="margin-left: 60px">(ii)&nbsp;is manifestly groundless or without foundation, and involves the process of the court being employed for some ulterior or improper purpose.</p>
 
 <p style="margin-left: 40px">
 b)&nbsp;Conducting or commencing multiple or successive court proceedings, which the person knows or ought to have known are manifestly groundless or without foundation.</p>
@@ -70,8 +69,6 @@ c)&nbsp;Ultimately, the court will be able to examine the circumstances of the c
 **MINISTRY OF LAW**
 
 **14 OCTOBER 2024**
-
-  
 
 ***
 
