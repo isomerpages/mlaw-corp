@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Minister Shanmugam to PQ on Lawyers in Performing
-  Checks on Foreign Clients
+title: Written Answer by Minister for Law K Shanmugam to PQ on Accountability of Lawyers in Performing Background Checks on Foreign Clients Setting Up Companies in Singapore
 permalink: /written-answer-by-minister-shanmugam-to-pq-on-lawyers-in-performing-checks-on-foreign-clients/
 date: 2024-10-15
 layout: post
