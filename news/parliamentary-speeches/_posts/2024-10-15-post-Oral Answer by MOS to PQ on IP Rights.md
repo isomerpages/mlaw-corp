@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by MOS to PQ on IP Rights
+title: Oral Answer by Minister of State for Law Murali Pillai to PQ on Intellectual Property Rights
 permalink: /oral-answer-by-mos-to-pq-on-ip-rights/
 date: 2024-10-15
 layout: post
