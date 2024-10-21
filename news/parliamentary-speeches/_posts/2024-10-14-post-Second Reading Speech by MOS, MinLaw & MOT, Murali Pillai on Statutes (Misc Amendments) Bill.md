@@ -1,5 +1,7 @@
 ---
-title: Second Reading Speech by Minister of State, Ministry of Law and Ministry of Transport, Murali Pillai on Statutes (Miscellaneous Amendments) (No. 2) Bill
+title: Second Reading Speech by Minister of State, Ministry of Law and Ministry
+  of Transport, Murali Pillai on Statutes (Miscellaneous Amendments) (No. 2)
+  Bill
 permalink: /second-reading-speech-by-mos-minlaw-mot-murali-pillai-on-statutes-misc-amendments-bill/
 date: 2024-10-14
 layout: post
@@ -46,7 +48,7 @@ variant: markdown
 7. First, it makes typographical corrections to sections 61(1)(c) and 313 of the CA.
 
 {:start="8"}
-8. USecond, it splits the offence on causing protected performances to be seen or heard in public, under the current section 450(2) of the CA, into two separate offences:
+8. Second, it splits the offence on causing protected performances to be seen or heard in public, under the current section 450(2) of the CA, into two separate offences:
 
 <p style="margin-left: 40px">
 (a) one in relation to live performances; and</p>
@@ -98,7 +100,7 @@ variant: markdown
 17. The second amendment is to section 327(4)(a) of the IRDA, to extend the period within which a secured creditor has to notify the Official Assignee of the secured creditor’s intention to claim interest on the secured debt, from 30 days after a bankruptcy order is made against the debtor to 60 days. This would give secured creditors more time to consider whether to and make a claim.
 
 {:start="18"}
-18. TFinally, the proposed amendment to section 368(4) of the IRDA will make clear that the 14-day time limit mentioned in section 368(3) only applies to serving the Sheriff with notice of a bankruptcy application made against or by the debtor, and not to the making of a bankruptcy order.
+18. Finally, the proposed amendment to section 368(4) of the IRDA will make clear that the 14-day time limit mentioned in section 368(3) only applies to serving the Sheriff with notice of a bankruptcy application made against or by the debtor, and not to the making of a bankruptcy order.
 
 <b>VI. <u>Amendments to the Interpretation Act 1965</u></b>
 
