@@ -199,7 +199,7 @@ variant: markdown
 40. The second amendment is to section 2(1) of the PBA, to allow the use of an individual’s foreign identification number, or “FIN”, as an alternative to their foreign passport number, for identification purposes.
 
 <p style="margin-left: 40px">
-(a) TAs the FIN does not change over time, permitting pawnbrokers to collect the FIN as an alternative identification information will better meet their operational needs.</p>
+(a) As the FIN does not change over time, permitting pawnbrokers to collect the FIN as an alternative identification information will better meet their operational needs.</p>
 
 {:start="41"}
 41. Third, proposed amendments to sections 10 and 13 of the PBA will provide that the Registrar of Pawnbrokers may refuse to grant or renew a licence, or approve substantial shareholding, on the ground that a substantial shareholder of the applicant or licensee is not of good character or is not a fit and proper person.
