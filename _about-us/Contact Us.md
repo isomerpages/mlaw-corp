@@ -163,7 +163,7 @@ videoconferencing at the following ServiceSG Centres and Community Clubs
 <p>ServiceSG Centre Bukit Canberra</p>
 </li>
 <li>
-<p>ServiceSG@Nee Soon Central Community Club</p>
+<p>ServiceSG@Nee Soon Central CC</p>
 </li>
 <li>
 <p>ServiceSG Centre Woodlands</p>
@@ -175,16 +175,16 @@ videoconferencing at the following ServiceSG Centres and Community Clubs
 <p>ServiceSG Centre Our Tampines Hub</p>
 </li>
 <li>
-<p>ServiceSG@Kampong Chai Chee Community Club</p>
+<p>ServiceSG@Kampong Chai Chee CC</p>
 </li>
 <li>
 <p>ServiceSG Centre Bukit Merah</p>
 </li>
 <li>
-<p>ServiceSG@The Frontier Community Club</p>
+<p>ServiceSG@The Frontier CC</p>
 </li>
 <li>
-<p>ServiceSG@Keat Hong Community Club</p>
+<p>ServiceSG@Keat Hong CC</p>
 </li>
 </ul>
 <p>To see the list of selected services offered at the locations and make
