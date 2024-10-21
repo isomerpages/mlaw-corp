@@ -6,6 +6,59 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<h3><strong>Closure of the Ministry of Law Services Centre</strong></h3>
+</blockquote>
+<p>The Ministry of Law Services Centre and the video conferencing counter
+at the State Courts, Help Centre at Basement 1, will close on the following
+dates for staff events: &nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closure Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Last Queue Ticket Issued</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Resumption date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 November 2024 (Thursday) from 12pm - 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;7 November 2024 at 2pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 November 2024 (Tuesday) from 1pm - 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;13 November 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you for your understanding.</p>
+<p></p>
+<blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
@@ -101,12 +154,47 @@ Centre between 8:30am to 11:00am.
 <br>Closed on weekends and public holidays.
 <br>
 </p>
-<p><strong>List of community touch points with videoconferencing facilities with the Ministry of Law</strong> 
-<br>Appointments are available every Friday, 10am to 4:30pm via <a href="https://go.gov.sg/mlawvc" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>.
-<br>Hours may differ on eves of public holidays. Closed on public holidays.
-<br>Click <a href="/files/minlaw%20community%20touch%20points.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information.
-<br>
+<p><strong>Make an Appointment to be Served via Videoconference</strong> 
+<br>In partnership with PSD, MinLaw services are available every Friday through
+videoconferencing at the following ServiceSG Centres and Community Clubs
+(CC):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ServiceSG Centre Bukit Canberra</p>
+</li>
+<li>
+<p>ServiceSG@Nee Soon Central CC</p>
+</li>
+<li>
+<p>ServiceSG Centre Woodlands</p>
+</li>
+<li>
+<p>ServiceSG Centre One Punggol</p>
+</li>
+<li>
+<p>ServiceSG Centre Our Tampines Hub</p>
+</li>
+<li>
+<p>ServiceSG@Kampong Chai Chee CC</p>
+</li>
+<li>
+<p>ServiceSG Centre Bukit Merah</p>
+</li>
+<li>
+<p>ServiceSG@The Frontier CC</p>
+</li>
+<li>
+<p>ServiceSG@Keat Hong CC</p>
+</li>
+</ul>
+<p>To see the list of selected services offered at the locations and make
+an appointment, visit <a href="https://go.gov.sg/mlawvc" rel="noopener nofollow" target="_blank">https://go.gov.sg/mlawvc</a>.
+Appointments are available every Friday, 9:30am to 4pm (hours may differ
+on eves of public holidays).</p>
+<p>If you need help to make an appointment, please seek assistance directly
+at the above locations. You may refer to <a href="https://www.psd.gov.sg/servicesg/" rel="noopener nofollow" target="_blank">https://www.psd.gov.sg/servicesg/</a> for
+information on their addresses and operating hours.</p>
+<p>
 <br>
 </p>
 <blockquote>
