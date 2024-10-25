@@ -1,5 +1,7 @@
 ---
-title: Speech by Minister for Culture, Community and Youth, and Second Minister for Law Edwin Tong SC, at the Legal Aid Bureau’s 66th Anniversary and Award Ceremony
+title: Speech by Minister for Culture, Community and Youth, and Second Minister
+  for Law Edwin Tong SC, at the Legal Aid Bureau’s 66th Anniversary and Award
+  Ceremony
 permalink: /speech-by-second-minister-for-law-edwin-tong-sc-at-lab-s-66th-anniversary-and-award-ceremony/
 date: 2024-10-24
 layout: post
@@ -80,7 +82,7 @@ help our applicants in different ways, help them in ways such as housing, family
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We thank you very much for always being welcoming, always taking on these cases, and for also looking at these cases not just from a lens of ‘how do I help them within my domain’, but apply the whole-of-society and therefore the whole-of-government approach to the way in which we solve their problems.
 
 {:start="15"} 
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AOne such successful collaboration is the “Building Bridges” initiative. Under this programme, the Bureau partners with Montfort Care, a social service agency, to provide an avenue for applicants seeking to vary their court orders for child-related
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One such successful collaboration is the “Building Bridges” initiative. Under this programme, the Bureau partners with Montfort Care, a social service agency, to provide an avenue for applicants seeking to vary their court orders for child-related
 matters to undergo counselling and mediation, so that they can, through this process, talk it out and hopefully settle matters amicably instead of going to court. This encourages parties to try and find long-term, consensual, amicable solutions, through collaboration instead of conflict.
 
 {:start="16"} 
@@ -130,7 +132,6 @@ i. iLAB is a chatbot that provides information on various legal topics, tailored
 ii. Divorce AIDE is a matrimonial assets division calculator.</p>
 <p style="margin-left: 40px">
 iii. eBantu (Bantu in Malay is “help”, so eBantu is “e-help”) guides users on how to fill Syariah Court divorce documents and provides information on Syariah Court divorce issues tailored to the user’s circumstances.</p>
-<p style="margin-left: 40px">
 
 {:start="24"} 
 24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LAB officers played a major role in designing and developing these tools, based on their own user experience and their experience in dealing with clients and interfacing
@@ -150,4 +151,4 @@ themselves, because much as we might want to call ourselves a first-class legal 
 {:start="27"} 
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So thank you very much. Enjoy the 66 th anniversary. Thank you.
 
-</p><p class="right-side-updated">Last updated on 24 October 2024</p>
+<p></p><p class="right-side-updated">Last updated on 24 October 2024</p>
