@@ -33,7 +33,7 @@ information regarding them; and</p>
 <strong>Useful Links:</strong>
 <ul data-tight="true" class="tight">
 <li>
-	<p><strong>Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements:</strong></p> The document is in PDF format, to view please click <a href="/files/1-Tenants.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.<p></p>
+	<p><strong>Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements:</strong></p> The document is in PDF format, to view please click <a href="/files/MONEY_LAUNDERING_AND_TERRORISM_FINANCING_RISK_ASSESSMENT_OF_LEGAL_ARRANGEMENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.<p></p>
 </li>
 <li>
 	<p><strong>Other Money Laundering, Terrorism Financing and Proliferation Financing Risk Assessments:</strong></p> Please click <a href="https://www.mas.gov.sg/regulation/anti-money-laundering/ml-tf-pf-risk-assessments" rel="noopener noreferrer nofollow" target="_blank">here</a>.<p></p>
