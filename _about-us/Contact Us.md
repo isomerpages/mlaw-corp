@@ -88,6 +88,9 @@ dates for staff events: &nbsp;</p>
 <p>Licensing &amp; Regulation of Insolvency Practitioners</p>
 </li>
 <li>
+<p>Precious Stones and Precious Metals Dealers</p>
+</li>
+<li>
 <p>Public Trustee</p>
 </li>
 <li>
