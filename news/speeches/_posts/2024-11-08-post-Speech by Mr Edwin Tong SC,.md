@@ -7,16 +7,16 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Mr Li Mingzheng**
+**Mr Li Mingzheng**<br>
 Vice Minister of Justice of the People’s Republic of China
 
-**Mr Zhu Zhongming**
+**Mr Zhu Zhongming**<br>
 Deputy Secretary-General of the CPC Shanghai Municipal Committee
 
-**Mr David Yu**
+**Mr David Yu**<br>
 President of the Shanghai Arbitration Association
 
-Distinguished guests
+Distinguished guests<br>
 Ladies and gentlemen
 
 **Introduction**
