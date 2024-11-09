@@ -71,10 +71,10 @@ Ladies and gentlemen
 {:start="14"}
 14. For example, to serve Chinese parties better, the Singapore International Arbitration Centre (SIAC) has Chinese nationals on their Board, Court, as well as panel of arbitrators and Secretariat. All of them understand the Chinese legal system, the Chinese way of doing business, and understand better the needs of Chinese parties. SIAC can also do arbitrations in Chinese, if the parties wish, and they also have an office right here in Shanghai, so that parties can reach out to them more effectively.
 
+**Collaborations with Shanghai**
+
 {:start="15"}
 15. I think our thinking in Singapore is very similar to that in Shanghai. We both believe in helping businesses resolve their disputes fairly, efficiently, and effectively, so that parties can get on with their business relations. We both believe in collaborating with other countries, to provide comprehensive support. In fact, this is very much also aligned to today’s theme of “Openness, Cooperation, Shared Benefits”.
-
-**Collaborations with Shanghai**
 
 {:start="16"}
 16. When I met the Chairman of Shanghai International Arbitration Centre (SHIAC) Mr Zhou Minhao in July this year, he shared with me that he was looking to raise awareness of arbitration and mediation amongst Chinese enterprises. He also welcomed closer collaborations between Singapore and Shanghai. And he thought that perhaps one day, SHIAC could also set up an office in Singapore. I told him that I completely agree with him, and that we welcome SHIAC in Singapore.
