@@ -1,7 +1,6 @@
 ---
-title: Second Minister for Law Edwin Tong SC 6th Shanghai International
-  Arbitration Forum
-permalink: /second-minister-for-law-edwin-tong-sc-6th-shanghai-international-arbitration-forum/
+title: Speech by Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law, at the 6th Shanghai International Arbitration Forum and the Opening Ceremony of Shanghai Arbitration Week 2024
+permalink: /speech-by-second-minister-for-law-edwin-tong-sc-shanghai-arbitration-week-2024/
 date: 2024-11-08
 layout: post
 description: ""
