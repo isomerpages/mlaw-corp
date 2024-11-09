@@ -88,16 +88,16 @@ undoubtedly be competition, I think this competition can be a healthy competitio
 
 **Conclusion**
 
-{:start="19”}
+{:start="19"}
 19. I heard that that there are now more than 70 arbitration or disputes weeks around the world. So many different weeks like this, with conventions, collaborations, and conferences. The fact that today, here, we see a very healthy attendance, shows that Shanghai is indeed one of the leading centres for dispute resolution in the world today, as you have heard the earlier speakers say. This is a result of many years of hard work, building up rapport, building up trust with the business industry. It is also the collective efforts of the Shanghai government, as well as the legal community right here. So, my congratulations to all of you.
 
-{:start=“20”}
+{:start=“20"}
 20. I wish all of you a very good week ahead, not just in discussing trends, discussing latest know-how, but perhaps more importantly, also building relationships between Singapore and Shanghai, and between the different industries that we have, so that all of us can learn from one another and level up.
 
-{:start=“21”}
+{:start=“21"}
 21. Once again, thank you very much for the honour of inviting me here to speak to you. I wish all of you a very fruitful conference ahead.
 
-{:start=“22”}
+{:start=“22"}
 22. Thank you.
 
 <p class="right-side-updated">Last updated on 8 November 2024</p>
