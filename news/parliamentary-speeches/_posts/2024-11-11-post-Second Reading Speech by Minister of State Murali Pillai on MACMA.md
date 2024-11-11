@@ -1,5 +1,5 @@
 ---
-title: Second Reading Speech by Minister of State Murali Pillai on MACMA
+title: Speech by Minister of State, Ministry of Law and Ministry of Transport, Mr Murali Pillai SC, on the Second Reading of the Mutual Assistance in Criminal Matters (Amendment) and Other Matters Bill
 permalink: /second-reading-speech-by-minister-of-state-murali-pillai-on-macma/
 date: 2024-11-11
 layout: post
