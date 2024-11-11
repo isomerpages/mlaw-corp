@@ -12,7 +12,7 @@ variant: markdown
 <b><u>Introduction</u></b>&nbsp;
 
 {:start="1"}
-1.&nbsp;Good morning, ladies and gentlemen. It is an honour for Singapore to host the IBA Anti-Corruption Asia Conference.&nbsp; Before I start, I want to make mention of the co-chairpersons of this conference and invite you to show our appreciation to them; Mr Wendell Wong, Mr Leopoldo Pagotto, Ms Jeena Kim and Mr Prashant Mara. I want to also make special mention of the presence of Justice Kevin Zervos. It is such a pleasure to see you here in Singapore. Thank you for making the time. A very warm welcome, Justice Zervos. Now, let me start my speech. I am privileged to speak on this very important topic. Mr Leopoldo Pagotto and Mr Wendell Wong have set the stage on the importance of this topic, of us discussing together how we can deal with this scourge of corruption, and building the networks to enable us to have the resources to deal with this effectively.
+1.&nbsp;Good morning, ladies and gentlemen. It is an honour for Singapore to host the IBA Anti-Corruption Asia Conference. Before I start, I want to make mention of the co-chairpersons of this conference and invite you to show our appreciation to them; Mr Wendell Wong, Mr Leopoldo Pagotto, Ms Jeena Kim and Mr Prashant Mara. I want to also make special mention of the presence of Justice Kevin Zervos. It is such a pleasure to see you here in Singapore. Thank you for making the time. A very warm welcome, Justice Zervos. Now, let me start my speech. I am privileged to speak on this very important topic. Mr Leopoldo Pagotto and Mr Wendell Wong have set the stage on the importance of this topic, of us discussing together how we can deal with this scourge of corruption, and building the networks to enable us to have the resources to deal with this effectively.
 
 {:start="2"}
 2.&nbsp;Now, this scourge has far-reaching implications. It concerns not only the giver and the recipient of a bribe, but also carries detrimental effects on individuals, communities, institutions, countries, and the world. In 2023, the United Nations Economic and Social Council reported that corruption drains more than 5% of the global GDP and of the approximately $13 trillion in global public spending, up to 25%, or at least $3 trillion, is lost to corruption.&nbsp; What is not reflected in the numbers is the impact on lives and livelihoods on the part of millions of individuals and their families.
@@ -93,7 +93,7 @@ variant: markdown
 {:start="18"}
 18.&nbsp;Today, CPIB plays a pivotal role in combating corruption, and has a formidable reputation for its thorough and fearless investigations. Those practising law in Singapore would second that point. Several factors have contributed to this. First is the structural safeguards that are enshrined in the Singapore Constitution, which set the building blocks for CPIB to carry out its functions independently. Under our Constitution:
 
-<p style="margin-left: 40px">a. The Director of CPIB reports only to the Prime Minister, and not any other Minister.</p>&nbsp;
+<p style="margin-left: 40px">a. The Director of CPIB reports only to the Prime Minister, and not any other Minister.</p>
 
 <p style="margin-left: 40px">b. If the Prime Minister refuses to give consent for CPIB to investigate a case, the Director can go directly to the President of Singapore for his concurrence to proceed with the investigation.</p>
 
