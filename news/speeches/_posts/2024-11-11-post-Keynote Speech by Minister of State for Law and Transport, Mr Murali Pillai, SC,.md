@@ -1,6 +1,7 @@
 ---
 title: Keynote Speech by Minister of State for Law and Transport, Mr Murali
-  Pillai, SC,at the International Bar Association Anti-Corruption Committee Asia Conference 2024
+  Pillai, SC,at the International Bar Association Anti-Corruption Committee Asia
+  Conference 2024
 permalink: /keynote-speech-by-minister-of-state-for-law-and-transport-mr-murali-pillai-sc/
 date: 2024-11-11
 layout: post
@@ -135,9 +136,9 @@ variant: markdown
 {:start="29"}
 29.&nbsp;In the public service, we have strict rules and ethos against corruption, so our public officers are not tempted by corrupt practices.&nbsp;
 
-<p style="margin-left: 40px">a. The Singapore Public Service is guided by a Code of Conduct, which sets out high standards of behaviour expected of public officers based on the principles of integrity, incorruptibility and transparency.</p>&nbsp;
+<p style="margin-left: 40px">a. The Singapore Public Service is guided by a Code of Conduct, which sets out high standards of behaviour expected of public officers based on the principles of integrity, incorruptibility and transparency.</p>
 
-<p style="margin-left: 40px">b. In the course of its investigations involving government agencies, CPIB will conduct procedural reviews to point out work areas or procedures that can be exploited for corrupt practices.</p>&nbsp;
+<p style="margin-left: 40px">b. In the course of its investigations involving government agencies, CPIB will conduct procedural reviews to point out work areas or procedures that can be exploited for corrupt practices.</p>
 
 {:start="30"}
 30.&nbsp;The Government also has ongoing partnerships with the private sector to encourage good governance and a strong willingness to report instances of corruption. In fact, we regularly leverage our partnerships with the private sector and wider community to get new ideas, tap on their expertise and co-create initiatives to better combat corruption.&nbsp;&nbsp;&nbsp;
@@ -180,7 +181,7 @@ variant: markdown
 {:start="40"}
 40.&nbsp;This is why international cooperation is an indispensable part of the fight against corruption, and an important pillar in Singapore’s anti-corruption strategy. That is why I am very pleased to join IBA in speaking at this conference too. We are committed to contributing to this global effort through active participation in various international fora and by strengthening our international criminal cooperation regime.&nbsp;
 
-<p style="margin-left: 40px">a. First, Singapore is a party to the United Nations Convention against Corruption, which provides an international framework for international cooperation and mutual legal assistance. We also have a wide network of partners, established through regional and bilateral treaties, as well as through other mechanisms, such as the South East Asia Justice Network known as SEAJust.</p>&nbsp;
+<p style="margin-left: 40px">a. First, Singapore is a party to the United Nations Convention against Corruption, which provides an international framework for international cooperation and mutual legal assistance. We also have a wide network of partners, established through regional and bilateral treaties, as well as through other mechanisms, such as the South East Asia Justice Network known as SEAJust.</p>
 
 <p style="margin-left: 40px">b. On the enforcement front, CPIB is an active member of various international fora, such as the International Association of Anti-Corruption Authorities, the International Anti-Corruption Coordination Centre and the APEC Network of Anti-Corruption Authorities and Law Enforcement Agencies or ACT-NET for short. These fora facilitate the sharing of information and best practices among member economies, and enhance our collective ability to combat corruption.</p>
 
