@@ -1,6 +1,6 @@
 ---
-title: Singapore International Mediation Institute’s 10th Anniversary Celebration
-permalink: /singapore-international-mediation-institute-s-10th-anniversary-celebration/
+title: Speech by Mr Murali Pillai SC, Minister of State, Ministry of Law and Ministry of Transport, at the Singapore International Mediation Institute’s 10th Anniversary Celebration
+permalink: /speech-by-mos-murali-at-the-simi-10th-anniversary-celebration/
 date: 2024-11-08
 layout: post
 description: ""
