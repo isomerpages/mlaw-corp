@@ -1,6 +1,6 @@
 ---
-title: Simplified Insolvency Programme to be Revamped and Made Permanent to Support
-permalink: /simplified-insolvency-programme-to-be-revamped-and-made-permanent-to-support/
+title: Simplified Insolvency Programme to be Revamped and Made Permanent to Support Financially Distressed Companies
+permalink: /simplified-insolvency-programme-revamped-and-made-permanent-to-support-financially-distressed-companies/
 date: 2024-11-11
 layout: post
 description: ""
