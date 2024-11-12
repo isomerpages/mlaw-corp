@@ -40,7 +40,7 @@ Mr. Speaker,
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, international litigation, through the Singapore International Commercial Court (“<b>SICC</b>”); and</p>
 
 <p style="margin-left: 40px">
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, international mediation, facilitated by our mediation centres like the Singapore International Mediation Centre (“<b>SIMC</b>**”).</p>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, international mediation, facilitated by our mediation centres like the Singapore International Mediation Centre (“<b>SIMC</b>”).</p>
 
 {:start="7"}
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These three pillars work in harmony to offer a holistic, three-part approach to dispute resolution for commercial disputes.
