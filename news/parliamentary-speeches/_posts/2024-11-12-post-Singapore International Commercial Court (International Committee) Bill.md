@@ -34,13 +34,13 @@ Mr. Speaker,
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition to our domestic courts, we have an ecosystem built on three pillars:
 
 <p style="margin-left: 40px">
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, international arbitration. In addition to the Singapore International Arbitration Centre (“**SIAC**”), there are also other leading international arbitration centres that have established a presence here, including the Permanent Court of Arbitration, the ICC International Court of Arbitration, the World Intellectual Property Organization (WIPO) Arbitration and Mediation Center, and the American Arbitration Association’s International Centre for Dispute Resolution.</p>
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, international arbitration. In addition to the Singapore International Arbitration Centre (“<b>SIAC</b>”), there are also other leading international arbitration centres that have established a presence here, including the Permanent Court of Arbitration, the ICC International Court of Arbitration, the World Intellectual Property Organization (WIPO) Arbitration and Mediation Center, and the American Arbitration Association’s International Centre for Dispute Resolution.</p>
 
 <p style="margin-left: 40px">
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, international litigation, through the Singapore International Commercial Court (“**SICC**”); and</p>
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, international litigation, through the Singapore International Commercial Court (“<b>SICC</b>”); and</p>
 
 <p style="margin-left: 40px">
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, international mediation, facilitated by our mediation centres like the Singapore International Mediation Centre (“**SIMC**”).</p>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, international mediation, facilitated by our mediation centres like the Singapore International Mediation Centre (“<b>SIMC</b>**”).</p>
 
 {:start="7"}
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These three pillars work in harmony to offer a holistic, three-part approach to dispute resolution for commercial disputes.
@@ -153,7 +153,8 @@ Mr. Speaker,
 {:start="24"}
 24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Minister for Law will be empowered to make such regulations concerning:
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the type of cases that can be appealed to the International Committee from a prescribed foreign jurisdiction;<p></p>
+<p style="margin-left: 40px">
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the type of cases that can be appealed to the International Committee from a prescribed foreign jurisdiction;</p>
 
 <p style="margin-left: 40px">
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the powers of the International Committee; and</p>
