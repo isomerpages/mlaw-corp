@@ -1,5 +1,7 @@
 ---
-title: Speech by Minister of State, Ministry of Law and Ministry of Transport, Mr Murali Pillai SC, on the Second Reading of the Singapore International Commercial Court (International Committee) Bill
+title: Speech by Minister of State, Ministry of Law and Ministry of Transport,
+  Mr Murali Pillai SC, on the Second Reading of the Singapore International
+  Commercial Court (International Committee) Bill
 permalink: /second-reading-speech-by-minister-of-state-murali-pillai-on-sicc-bill/
 date: 2024-11-12
 layout: post
@@ -217,7 +219,7 @@ Mr. Speaker,
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Singapore to designate a body to hear appeals from the BICC.</p>
 
 {:start="32"}
-32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The International Committee will be the body to hear these appeals. As mentioned earlier, details of the collaboration, like the type of cases that would be heard on appeal by the International Committee, will be set out in the relevant legislations made by the Minister for Law.
+32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The International Committee will be the body to hear these appeals. As mentioned earlier, details of the collaboration, like the type of cases that would be heard on appeal by the International Committee, will be set out in the relevant regulations made by the Minister for Law.
 
 {:start="33"}
 33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This collaboration has three main features:
