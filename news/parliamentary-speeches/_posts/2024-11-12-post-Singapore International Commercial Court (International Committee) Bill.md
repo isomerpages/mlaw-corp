@@ -1,5 +1,5 @@
 ---
-title: Singapore International Commercial Court (International Committee) Bill
+title: Speech by Minister of State, Ministry of Law and Ministry of Transport, Mr Murali Pillai SC, on the Second Reading of the Singapore International Commercial Court (International Committee) Bill
 permalink: /singapore-international-commercial-court-international-committee-bill/
 date: 2024-11-12
 layout: post
