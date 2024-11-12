@@ -74,7 +74,7 @@ Mr. Speaker,
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, the SICC was voted the most used international commercial court globally in 2024 in the Singapore International Dispute Resolution Academy International Dispute Resolution Survey 2024.</p>
 
 <p style="margin-left: 40px">
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users who voted include dispute resolution mechanisms, including businesses, in-house and external counsel, from 26 countries.</p>
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users who voted include users of dispute resolution mechanisms, including businesses, in-house and external counsel, from 26 countries.</p>
 
 {:start="12"}
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the establishment of the International Committee and the availability of a transnational appeal mechanism as set out in this Bill, we will:
