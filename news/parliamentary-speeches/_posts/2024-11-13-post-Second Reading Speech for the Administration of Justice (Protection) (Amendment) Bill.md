@@ -13,7 +13,7 @@ variant: markdown
 {:start="1"}
 1.&nbsp;Mr Speaker, Sir, on behalf of the Minister for Law, I beg to move, “That the Bill be now read a Second time”.
 
-<b><u>INTRODUCTION</u></b>&nbsp;
+<b><u>I. INTRODUCTION</u></b>
 
 {:start="2"}
 2.&nbsp;This Bill is intended to safeguard the administration of justice in Singapore by clarifying that egregious abuse of the court process will amount to contempt of court.
@@ -24,13 +24,13 @@ variant: markdown
 {:start="4"}
 4.&nbsp;I will then take Members through the details of the proposed amendments. In doing so, I will share how we carefully scoped the proposals to achieve a balance between the public interest in guarding against abuse of process and the rights of litigants to ventilate genuine claims before the courts.
 
-<p style="margin-left: 40px"><b><u>(A) Importance of our justice system</u></b></p>&nbsp;
+<p style="margin-left: 40px"><b><u>(A) Importance of our justice system</u></b></p>
 
 {:start="5"}
 5.&nbsp;Starting with the background, in 2016, this House passed the Administration of Justice (Protection) Act or “<b>AOJPA</b>”. The AOJPA consolidated the law of contempt of court, which was previously set out in multiple cases, in a single piece of legislation.
 
 {:start="6"}
-6.&nbsp;The fundamental aim of our contempt of court laws is to protect our courts and our justice system.&nbsp;
+6.&nbsp;The fundamental aim of our contempt of court laws is to protect our courts and our justice system.
 
 {:start="7"}
 7.&nbsp;The justice system is critical to Singapore’s continued success. It benefits all of us in various ways. For example:
@@ -44,18 +44,18 @@ variant: markdown
 <p style="margin-left: 40px">(d) Our family justice system aims to find timely and enduring solutions to family disputes by applying therapeutic justice.</p>
 
 {:start="8"}
-8.&nbsp;The AOJPA protects the justice system across all these spheres.&nbsp;
+8.&nbsp;The AOJPA protects the justice system across all these spheres.
 
-<p style="margin-left: 40px"><b><u>(B) Balancing access to justice and the risk of abuse of process</u></b></p>&nbsp;
+<p style="margin-left: 40px"><b><u>(B) Balancing access to justice and the risk of abuse of process</u></b></p>
 
 {:start="9"}
-9.&nbsp;The AOJPA has become even more important in recent years as we have taken significant steps to improve access to justice. These steps include setting up the Protection from Harassment Court and the Community Disputes Resolution Tribunal. These reforms provide simplified processes intended to allow Singaporeans to enforce their rights more easily.&nbsp;
+9.&nbsp;The AOJPA has become even more important in recent years as we have taken significant steps to improve access to justice. These steps include setting up the Protection from Harassment Court and the Community Disputes Resolution Tribunal. These reforms provide simplified processes intended to allow Singaporeans to enforce their rights more easily.
 
 {:start="10"}
-10.&nbsp;Promoting access to justice is part of the Government’s mission. We need to have good laws on our statute books, and the public must be able to enforce their legal rights in practice. However, improving access to justice does not mean enabling vexatious litigants to mount abusive and unmeritorious legal claims.&nbsp;&nbsp;&nbsp;
+10.&nbsp;Promoting access to justice is part of the Government’s mission. We need to have good laws on our statute books, and the public must be able to enforce their legal rights in practice. However, improving access to justice does not mean enabling vexatious litigants to mount abusive and unmeritorious legal claims.
 
 {:start="11"}
-11.&nbsp;There are existing levers to address the risk of abuse of process in specific contexts, which we regularly review:&nbsp;
+11.&nbsp;There are existing levers to address the risk of abuse of process in specific contexts, which we regularly review:
 
 <p style="margin-left: 40px">(a) For criminal proceedings, we passed legislation in 2018 and 2022, to provide clear procedures for applications filed after a concluded criminal appeal, including post-appeal applications in capital cases. Thresholds were included to make clear that such late-stage applications must be premised on persuasive, new material to guard against persistent delays and the constant re-litigation of issues in criminal matters.</p>
 
@@ -69,7 +69,7 @@ variant: markdown
 12.&nbsp;More broadly, the AOJPA provides that interference with court proceedings or the administration of justice may amount to contempt of court and attract criminal sanctions. This is a general protection that applies to all court proceedings in Singapore.
 
 {:start="13"}
-13.&nbsp;Contempt by interference with the administration of justice may be committed in various ways, including by abusing the process of the court in an egregious manner. Examples of such egregious abuse include:&nbsp;
+13.&nbsp;Contempt by interference with the administration of justice may be committed in various ways, including by abusing the process of the court in an egregious manner. Examples of such egregious abuse include:
 
 <p style="margin-left: 40px">(a) Commencing civil proceedings to seek financial damages, despite knowing that the claim is without foundation, for the ulterior motive of oppressing the defendant;</p>
 
@@ -102,22 +102,22 @@ variant: markdown
 <p style="margin-left: 40px"><b><u>(E) Amendments are clarificatory</u></b></p>
 
 {:start="16"}
-16.&nbsp;Having observed these trends, we have decided that it is time to proactively act to safeguard the administration of justice in Singapore. It is the Government’s responsibility to act to protect the judicial system, especially when we have repeated pronouncements from our courts on the abuse of their processes.&nbsp;
+16.&nbsp;Having observed these trends, we have decided that it is time to proactively act to safeguard the administration of justice in Singapore. It is the Government’s responsibility to act to protect the judicial system, especially when we have repeated pronouncements from our courts on the abuse of their processes.
 
 {:start="17"}
-17.&nbsp;The current provisions of the AOJPA, in principle, already cover egregious abuse of process. Specifically, section 3(1)(e) of the AOJPA, which relates to contempt by interference with the administration of justice, captures: “Any person who … intentionally does any … act that interferes with, obstructs or poses a real risk of interference with or obstruction of the administration of justice … if the person knows or ought to have known that the act would interfere with, obstruct or pose a real risk of interference with or obstruction of the administration of justice.”&nbsp;
+17.&nbsp;The current provisions of the AOJPA, in principle, already cover egregious abuse of process. Specifically, section 3(1)(e) of the AOJPA, which relates to contempt by interference with the administration of justice, captures: “Any person who … intentionally does any … act that interferes with, obstructs or poses a real risk of interference with or obstruction of the administration of justice … if the person knows or ought to have known that the act would interfere with, obstruct or pose a real risk of interference with or obstruction of the administration of justice.”
 
 {:start="18"}
-18.&nbsp;However, the language of the current provision, which I have just read, is broad. We have decided that the legal position can be made clearer on how the general standard set out in section 3(1)(e) applies to the context of abuse of process.&nbsp;
+18.&nbsp;However, the language of the current provision, which I have just read, is broad. We have decided that the legal position can be made clearer on how the general standard set out in section 3(1)(e) applies to the context of abuse of process.
 
 {:start="19"}
-19.&nbsp;The amendments which we are proposing are therefore clarificatory in nature. They do not lower the current threshold for contempt of court.&nbsp;
+19.&nbsp;The amendments which we are proposing are therefore clarificatory in nature. They do not lower the current threshold for contempt of court.
 
 {:start="20"}
-20.&nbsp;Besides providing legal clarity, our intent is also to send a clear signal to deter abuse of the court process. The amendments will make it clear to the public and potential court users that egregious cases of abuse of process will amount to contempt of court and that such conduct can attract criminal sanctions.&nbsp;&nbsp;
+20.&nbsp;Besides providing legal clarity, our intent is also to send a clear signal to deter abuse of the court process. The amendments will make it clear to the public and potential court users that egregious cases of abuse of process will amount to contempt of court and that such conduct can attract criminal sanctions.
 
 {:start="21"}
-21.&nbsp;This is also in line with established legal position in other jurisdictions.&nbsp;
+21.&nbsp;This is also in line with established legal position in other jurisdictions.
 
 <p style="margin-left: 40px">(a) In the UK, the Supreme Court has emphasised that serious cases of abuse of process involving false claims ought to be sanctioned as contempt of court. The court noted that such claims undermine the system in a number of serious ways, including imposing a burden upon honest claimants and damaging the system of adversarial justice which depends upon openness, transparency and honesty.</p>
 
@@ -143,18 +143,18 @@ variant: markdown
 <p style="margin-left: 40px">(c) Third, the conducting or commencing of multiple or successive court proceedings, which the person knows or ought to have known are manifestly groundless or without foundation.</p>
 
 {:start="25"}
-25.&nbsp;Deceiving the court, abusing the court process by filing baseless claims for an improper purpose, or launching multiple baseless court proceedings – these are acts of abuse that are clearly egregious, and which cannot be condoned. These are also acts which would already fall within the current section 3(1)(e) of the AOJPA, as acts which interfere with the administration of justice. Our amendments therefore do not change the current legal standard. Rather, they provide clearer signposting in setting out the types of conduct that would amount to contempt of court.&nbsp;
+25.&nbsp;Deceiving the court, abusing the court process by filing baseless claims for an improper purpose, or launching multiple baseless court proceedings – these are acts of abuse that are clearly egregious, and which cannot be condoned. These are also acts which would already fall within the current section 3(1)(e) of the AOJPA, as acts which interfere with the administration of justice. Our amendments therefore do not change the current legal standard. Rather, they provide clearer signposting in setting out the types of conduct that would amount to contempt of court.
 
 <p style="margin-left: 40px"><b><u>(B) New Section 3(7): Persons who cause or abet such conduct will also be liable for contempt of court</u></b></p>
 
 {:start="26"}
-26.&nbsp;We have also considered that there may also be persons who are causing or abetting others to engage in the contemptuous conduct before our courts.&nbsp;
+26.&nbsp;We have also considered that there may also be persons who are causing or abetting others to engage in the contemptuous conduct before our courts.
 
 {:start="27"}
-27.&nbsp;The usual levers of striking out and costs orders will not deter them, as they are not involved in the court proceedings.&nbsp;
+27.&nbsp;The usual levers of striking out and costs orders will not deter them, as they are not involved in the court proceedings.
 
 {:start="28"}
-28.&nbsp;To deter such behaviour, Clause 2(d) of the Bill provides that persons who cause or abet egregious abuse of our court process as provided for under the new section 3(1)(da) and (db) will also be liable for contempt.&nbsp;
+28.&nbsp;To deter such behaviour, Clause 2(d) of the Bill provides that persons who cause or abet egregious abuse of our court process as provided for under the new section 3(1)(da) and (db) will also be liable for contempt.
 
 <p style="margin-left: 40px"><b><u>(C) Proposals have been carefully scoped</u></b></p>
 
@@ -162,10 +162,10 @@ variant: markdown
 29.&nbsp;In developing these proposals, we are keenly aware of the need to strike a balance between the need to guard against abuse of process and the rights of litigants to ventilate genuine claims before the courts.&nbsp;
 
 {:start="30"}
-30.&nbsp;Our policy intent is that the litigants and lawyers who act with reasonable care and in good faith should not be penalised.&nbsp;
+30.&nbsp;Our policy intent is that the litigants and lawyers who act with reasonable care and in good faith should not be penalised.
 
 {:start="31"}
-31.&nbsp;We looked at past examples of conduct which amounted to abuse of process. We also examined the leading case of <i>Chee Siok Chin v MHA</i>,where the court had set out the categories of abuse of process at common law. To ensure that we only capture egregious cases as contempt, the provisions in the Bill specify narrower categories than what was set out in <i>Chee Siok Chin</i>.&nbsp;
+31.&nbsp;We looked at past examples of conduct which amounted to abuse of process. We also examined the leading case of <i>Chee Siok Chin v MHA</i>,where the court had set out the categories of abuse of process at common law. To ensure that we only capture egregious cases as contempt, the provisions in the Bill specify narrower categories than what was set out in <i>Chee Siok Chin</i>.
 
 {:start="32"}
 32.&nbsp;The approach we have taken ensures that the amendments will not cover the typical case of a civil matter that is struck out for the sole reason that it has no merit. Such cases can continue to be adequately dealt with by striking out and costs orders.
@@ -174,16 +174,16 @@ variant: markdown
 33.&nbsp;The court will be able to examine the circumstances of the case, when considering whether the conduct constitutes contempt.
 
 {:start="34"}
-34.&nbsp;In scoping the proposals, we spoke to key stakeholders, including the Judiciary, to ensure that we have achieved the right balance.&nbsp;
+34.&nbsp;In scoping the proposals, we spoke to key stakeholders, including the Judiciary, to ensure that we have achieved the right balance.
 
 {:start="35"}
-35.&nbsp;We also spoke to members of the Bar on these amendments. There is consensus that lawyers must be held to high standards. At the same time, some members of the Bar have expressed concern whether these amendments may discourage lawyers from taking up difficult cases and arguments, where the merits of the case or the evidence may be borderline or unclear. They ask whether the amendments will prevent them from robustly representing the interests of their clients.&nbsp;&nbsp;&nbsp;
+35.&nbsp;We also spoke to members of the Bar on these amendments. There is consensus that lawyers must be held to high standards. At the same time, some members of the Bar have expressed concern whether these amendments may discourage lawyers from taking up difficult cases and arguments, where the merits of the case or the evidence may be borderline or unclear. They ask whether the amendments will prevent them from robustly representing the interests of their clients.
 
 {:start="36"}
-36.&nbsp;Let me make a few points to directly address these concerns.&nbsp;
+36.&nbsp;Let me make a few points to directly address these concerns.
 
 {:start="37"}
-37.&nbsp;First, I reiterate that the amendments are clarificatory in nature and do not lower the current threshold for contempt of court.&nbsp;
+37.&nbsp;First, I reiterate that the amendments are clarificatory in nature and do not lower the current threshold for contempt of court.
 
 <p style="margin-left: 40px">(a) The elements of the new provisions, particularly the mental element that the person must have “known or ought to have known” that the proceeding would amount to contempt, are consistent with the current section 3(1)(e) of the AOJPA.</p>
   
@@ -192,24 +192,24 @@ variant: markdown
 <p style="margin-left: 40px">(c) The new provisions do not affect the procedural protections under the existing AOJPA. The standard of proof remains that of proof beyond a reasonable doubt under section 28 of the AOJPA. Consent of the Attorney-General is also required under section 30 of the AOJPA before contempt proceedings are instituted.</p>
 
 {:start="38"}
-38.&nbsp;Second, lawyers and litigants are already held to high standards. To re-iterate, those who exercise reasonable care and act in good faith will not be caught and have nothing to fear.&nbsp;
+38.&nbsp;Second, lawyers and litigants are already held to high standards. To re-iterate, those who exercise reasonable care and act in good faith will not be caught and have nothing to fear.
 
 {:start="39"}
-39.&nbsp;Let me illustrate this with an example:&nbsp;
+39.&nbsp;Let me illustrate this with an example:
 
 <p style="margin-left: 40px">(a) An accused person who has been convicted and had his appeal dismissed approaches a lawyer, shortly before the accused is to start serving his sentence. The accused presents new evidence that the lawyer is unsure whether is genuine. The lawyer needs more time to investigate the matter and makes an urgent court application so that the accused does not have to immediately start serving sentence. Eventually, after due investigation, it transpires that the allegedly new evidence is not genuine and the application is duly withdrawn.</p>
 
 <p style="margin-left: 40px">(b) In such a circumstance, if the lawyer had acted in good faith and had taken reasonable steps before filing the court application, considering the limited time available to him, the lawyer will not be caught by the elements of the proposed amendments.</p>
 
-<p style="margin-left: 40px">(c) This is because the standard of what the lawyer knew or ought to have known is contextual, and the court will have to examine carefully the factual matrix of each case. The standard also allows the court to take into account the practical challenges faced by lawyers.</p>&nbsp;
+<p style="margin-left: 40px">(c) This is because the standard of what the lawyer knew or ought to have known is contextual, and the court will have to examine carefully the factual matrix of each case. The standard also allows the court to take into account the practical challenges faced by lawyers.</p>
 
 <p style="margin-left: 40px">(d) However, in the same scenario, if the lawyer had failed to take reasonable steps – for example, by ignoring obvious red flags, or had carried on conducting the application even after discovering that the new evidence was fabricated – then he may well be caught by the amendments. Rightly so, as we expect high standards from lawyers who owe paramount duties as officers of the court. Again, much will depend on the particular context of each case.</p>
 
 {:start="40"}
-40.&nbsp;This is why I say that lawyers and litigants who act with reasonable care and in good faith have nothing to fear.&nbsp;
+40.&nbsp;This is why I say that lawyers and litigants who act with reasonable care and in good faith have nothing to fear.
 
 {:start="41"}
-41.&nbsp;On this point, as Honourable Members sitting in this House, we are ultimately concerned with the public good and must act in the best interest of all Singaporeans. As I mentioned at the start of my speech, our justice system is a key pillar of what has made our country successful. It is precious and must be protected.&nbsp;
+41.&nbsp;On this point, as Honourable Members sitting in this House, we are ultimately concerned with the public good and must act in the best interest of all Singaporeans. As I mentioned at the start of my speech, our justice system is a key pillar of what has made our country successful. It is precious and must be protected.
 
 {:start="42"}
 42.&nbsp;All of us – the courts, lawyers, lawmakers and members of the public – have an interest in ensuring that we have an effective justice system that is focused on enforcing our laws and resolving genuine disputes. We also have a duty to ensure that our processes are not weaponised or abused.
@@ -217,7 +217,7 @@ variant: markdown
 <b><u>III. CONCLUSION</u></b>
 
 {:start="43"}
-43.&nbsp;The proposed amendments will help us deter egregious cases of abuse of process, and safeguard our justice system so that it continues to benefit and serve all of us.&nbsp;
+43.&nbsp;The proposed amendments will help us deter egregious cases of abuse of process, and safeguard our justice system so that it continues to benefit and serve all of us.
 
 {:start="44"}
 44.&nbsp;As I have elaborated in some detail in going through the amendments, they are clarificatory, and are not intended to lower the threshold for contempt. I have also taken some time to explain the rationale behind the amendments.
