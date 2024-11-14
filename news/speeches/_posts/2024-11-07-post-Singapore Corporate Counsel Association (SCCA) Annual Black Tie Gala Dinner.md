@@ -1,6 +1,6 @@
 ---
-title: Singapore Corporate Counsel Association (SCCA) Annual Black Tie Gala Dinner
-permalink: /singapore-corporate-counsel-association-scca-annual-black-tie-gala-dinner/
+title: Opening Speech by Ms Rahayu Mahzam, Minister of State, Ministry of Digital Development and Information & Ministry of Health at SCCA Annual Gala Dinner and 8th Chief Legal Officer Awards
+permalink: /speech-by-mos-rahayu-scca-annual-black-tie-gala-dinner-8th-chief-legal-officer-awards-2024/
 date: 2024-11-07
 layout: post
 description: ""
