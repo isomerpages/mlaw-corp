@@ -22,7 +22,7 @@ Ladies and Gentlemen
 <b><u>Introduction</u></b>
 
 {:start="1"}
-1.&nbsp;e A very good evening to everyone. I am delighted to be here at the SCCA’s Gala Dinner and Chief Legal Officer (CLO) Awards ceremony.
+1.&nbsp; A very good evening to everyone. I am delighted to be here at the SCCA’s Gala Dinner and Chief Legal Officer (CLO) Awards ceremony.
 
 {:start="2"}
 2.&nbsp; This evening marks SCCA’s 22nd anniversary, and we are gathered here to celebrate and honour Singapore’s leading in-house counsel at the 8th CLO Awards.
