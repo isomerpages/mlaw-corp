@@ -19,7 +19,7 @@ Distinguished Guests
 
 Ladies and Gentlemen
 
-<b><u>Introduction</u></b>
+**Introduction**
 
 {:start="1"}
 1.&nbsp; A very good evening to everyone. I am delighted to be here at the SCCA’s Gala Dinner and Chief Legal Officer (CLO) Awards ceremony.
