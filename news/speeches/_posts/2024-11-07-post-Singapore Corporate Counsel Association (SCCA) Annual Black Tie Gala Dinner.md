@@ -47,7 +47,7 @@ Ladies and Gentlemen
 <p style="margin-left: 40px">(4) For those of you involved in Environmental, Social and Governance (ESG) matters, you would know that 2024 marked a <u>major shift towards the rapid uptake of mandatory ESG disclosures</u>, particularly in Europe, with stricter enforcement of ESG regulations and increased scrutiny on legitimacy of ESG claims to combat greenwashing. Sustainability, once considered an aspirational goal, has become a non-negotiable business priority in 2024.</p>
 
 {:start="6"}
-6.&nbsp;6\. Some of these shifts are anticipated, whilst others completely unexpected. Whichever the case, businesses have had to adapt to the changes, navigate the uncertainty, and pursue growth with agility.
+6.&nbsp; Some of these shifts are anticipated, whilst others completely unexpected. Whichever the case, businesses have had to adapt to the changes, navigate the uncertainty, and pursue growth with agility.
 
 {:start="7"}
 7.&nbsp; And CLOs and legal departments play an extremely important role to help companies achieve that.
