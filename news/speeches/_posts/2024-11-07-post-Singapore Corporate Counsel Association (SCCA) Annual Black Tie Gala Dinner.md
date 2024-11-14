@@ -154,4 +154,3 @@ Ladies and Gentlemen
 18.&nbsp; Thank you!
 
 <p class="right-side-updated">Last updated on 7 November 2024</p>
-<p class="right-side-updated">Last updated on 11 November 2024</p>
