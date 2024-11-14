@@ -19,7 +19,7 @@ Distinguished Guests
 
 Ladies and Gentlemen
 
-<b><u>Introduction</u></b>
+**Introduction**
 
 {:start="1"}
 1.&nbsp; A very good evening to everyone. I am delighted to be here at the SCCA’s Gala Dinner and Chief Legal Officer (CLO) Awards ceremony.
@@ -47,7 +47,7 @@ Ladies and Gentlemen
 <p style="margin-left: 40px">(4) For those of you involved in Environmental, Social and Governance (ESG) matters, you would know that 2024 marked a <u>major shift towards the rapid uptake of mandatory ESG disclosures</u>, particularly in Europe, with stricter enforcement of ESG regulations and increased scrutiny on legitimacy of ESG claims to combat greenwashing. Sustainability, once considered an aspirational goal, has become a non-negotiable business priority in 2024.</p>
 
 {:start="6"}
-6.&nbsp;6\. Some of these shifts are anticipated, whilst others completely unexpected. Whichever the case, businesses have had to adapt to the changes, navigate the uncertainty, and pursue growth with agility.
+6.&nbsp; Some of these shifts are anticipated, whilst others completely unexpected. Whichever the case, businesses have had to adapt to the changes, navigate the uncertainty, and pursue growth with agility.
 
 {:start="7"}
 7.&nbsp; And CLOs and legal departments play an extremely important role to help companies achieve that.
@@ -89,7 +89,7 @@ Ladies and Gentlemen
 
 <p style="margin-left: 60px">(c) As CLOs, you play an increasingly important role in steering digital transformation within your organisations. Your unique perspective - one that combines legal expertise with an understanding of enterprise-wide risks and opportunities – is highly valued as companies face cybersecurity challenges, data privacy requirements, and the need for agile adaptation in a rapidly evolving digital landscape.</p>
 
-<p style="margin-left: 60px">(d) Of course, many of you are leading the charge by being part of the change yourselves. Globally, many CLOs are adopting Generative AI. A Deloitte Legal survey reports that almost all CLOs are utilising some form of legal tech solutions to automate legal work, whilst 95% of CLOs as having engaged with various forms of GenAI4 in 2024.</p>
+<p style="margin-left: 60px">(d) Of course, many of you are leading the charge by being part of the change yourselves. Globally, many CLOs are adopting Generative AI. A Deloitte Legal survey reports that almost all CLOs are utilising some form of legal tech solutions to automate legal work, whilst 95% of CLOs as having engaged with various forms of GenAI in 2024.</p>
 
 <p style="margin-left: 60px">(e) In Singapore, I believe that many of you are also trialling various legal tech and GenAI solutions.</p>
 
@@ -132,7 +132,7 @@ Ladies and Gentlemen
 
 <p style="margin-left: 40px">(1) <u>Provide a safe space</u> for the in-house counsel community to share experiences, exchange ideas and offer mutual support.</p>
 
-<p style="margin-left: 40px">(2) Serve as <u>a valuable vehicle for leadership and professional development</u>, and the nurturing and mentoring of in-house counsel as you rise through the ranks; and</p>
+<p style="margin-left: 40px">(2) Serve as a <u>valuable vehicle for leadership and professional development</u>, and the nurturing and mentoring of in-house counsel as you rise through the ranks; and</p>
 
 <p style="margin-left: 40px">(3) Be an <u>essential conduit for intellectual discourse on emerging topics</u>, with members playing an active role in chapter meetings, workshops and events to explore cutting-edge issues such as technology, ESG and regulatory changes.</p>
 
