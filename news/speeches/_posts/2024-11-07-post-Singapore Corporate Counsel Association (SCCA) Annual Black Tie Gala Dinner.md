@@ -132,7 +132,7 @@ Ladies and Gentlemen
 
 <p style="margin-left: 40px">(1) <u>Provide a safe space</u> for the in-house counsel community to share experiences, exchange ideas and offer mutual support.</p>
 
-<p style="margin-left: 40px">(2) Serve as <u>a valuable vehicle for leadership and professional development</u>, and the nurturing and mentoring of in-house counsel as you rise through the ranks; and</p>
+<p style="margin-left: 40px">(2) Serve as a <u>valuable vehicle for leadership and professional development</u>, and the nurturing and mentoring of in-house counsel as you rise through the ranks; and</p>
 
 <p style="margin-left: 40px">(3) Be an <u>essential conduit for intellectual discourse on emerging topics</u>, with members playing an active role in chapter meetings, workshops and events to explore cutting-edge issues such as technology, ESG and regulatory changes.</p>
 
