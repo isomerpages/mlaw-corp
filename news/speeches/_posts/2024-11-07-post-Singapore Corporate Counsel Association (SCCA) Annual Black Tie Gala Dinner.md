@@ -89,7 +89,7 @@ Ladies and Gentlemen
 
 <p style="margin-left: 60px">(c) As CLOs, you play an increasingly important role in steering digital transformation within your organisations. Your unique perspective - one that combines legal expertise with an understanding of enterprise-wide risks and opportunities – is highly valued as companies face cybersecurity challenges, data privacy requirements, and the need for agile adaptation in a rapidly evolving digital landscape.</p>
 
-<p style="margin-left: 60px">(d) Of course, many of you are leading the charge by being part of the change yourselves. Globally, many CLOs are adopting Generative AI. A Deloitte Legal survey reports that almost all CLOs are utilising some form of legal tech solutions to automate legal work, whilst 95% of CLOs as having engaged with various forms of GenAI4 in 2024.</p>
+<p style="margin-left: 60px">(d) Of course, many of you are leading the charge by being part of the change yourselves. Globally, many CLOs are adopting Generative AI. A Deloitte Legal survey reports that almost all CLOs are utilising some form of legal tech solutions to automate legal work, whilst 95% of CLOs as having engaged with various forms of GenAI in 2024.</p>
 
 <p style="margin-left: 60px">(e) In Singapore, I believe that many of you are also trialling various legal tech and GenAI solutions.</p>
 
