@@ -11,8 +11,6 @@ variant: markdown
 ---
 12 November 2024 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-Mr. Speaker,
-
 {:start="1"}
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Speaker, Sir, on behalf of the Minister for Law, I beg to move, “That the Bill be now read a Second time.”
 
