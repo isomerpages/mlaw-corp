@@ -31,18 +31,10 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
-Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
-Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
-Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
-Public Defender's Office</p>
+<p>Registry of Moneylenders, Registry of Pawnbroker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Nov 2024 (Fri) 1800 hrs to 2359 hrs</p>
-<p></p>
-<p>2 Nov 2024 (Sat) 1400 hrs to 4 Nov 2024 (Mon), 0800 hrs
-<br>
-<br>16 Nov 2024 (Sat) 0700 hrs to 18 Nov 2024 (Mon), 0800 hrs</p>
+<p>15 Nov 2024 (Fri) 1800 hrs to 25 Nov 2024 (Mon), 0800 hrs</p>
 </td>
 </tr>
 <tr>
