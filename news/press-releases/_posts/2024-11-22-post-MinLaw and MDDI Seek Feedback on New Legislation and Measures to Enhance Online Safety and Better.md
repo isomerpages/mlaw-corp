@@ -1,7 +1,7 @@
 ---
 title: MinLaw and MDDI Seek Feedback on New Legislation and Measures to Enhance
-  Online Safety and Better
-permalink: /minlaw-and-mddi-seek-feedback-on-new-legislation-and-measures-to-enhance-online-safety-and-better/
+  Online Safety and Better Protect Singaporeans from Harmful Online Content
+permalink: /minlaw-and-mddi-seek-feedback-on-new-legislation-and-measures-to-enhance-online-safety/
 date: 2024-11-22
 layout: post
 description: ""
