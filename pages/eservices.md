@@ -31,10 +31,10 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registry of Moneylenders, Registry of Pawnbroker</p>
+<p>SNTC portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Nov 2024 (Fri) 1800 hrs to 25 Nov 2024 (Mon), 0800 hrs</p>
+<p>25 Nov 2024 (Mon) 0800 hrs to 25 Nov 2024 (Mon), 2359 hrs</p>
 </td>
 </tr>
 <tr>
