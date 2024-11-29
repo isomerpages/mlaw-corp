@@ -1,5 +1,5 @@
 ---
-title: Speech by 2M at the 4th Singapore China ICDRC
+title: Speech by Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong SC, at the 4th Singapore-China International Commercial Dispute Resolution Conference
 permalink: /speech-by-2m-at-the-4th-singapore-china-icdrc/
 date: 2024-11-27
 layout: post
@@ -160,4 +160,3 @@ Ladies and Gentlemen
 27. Thank you.
 
 <p class="right-side-updated">Last updated on 27 November 2024</p>
-<p class="right-side-updated">Last updated on 8 November 2024</p>
