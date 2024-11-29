@@ -28,4 +28,4 @@ variant: markdown
 5.&nbsp;&nbsp;&nbsp; Minister Tong was accompanied by officials from the Ministry of Law.
 
 **MINISTRY OF LAW**
-<br>**9 NOVEMBER 2024**
+<br>**29 NOVEMBER 2024**
