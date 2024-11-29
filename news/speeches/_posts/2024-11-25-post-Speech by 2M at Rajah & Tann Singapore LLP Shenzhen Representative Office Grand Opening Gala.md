@@ -1,6 +1,5 @@
 ---
-title: Speech by 2M at Rajah & Tann Singapore LLP Shenzhen Representative Office
-  Grand Opening Gala
+title: Speech by Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong SC, at Rajah & Tann Singapore LLP Shenzhen Representative Office Grand Opening Gala
 permalink: /speech-by-2m-at-rajah-tann-singapore-llp-shenzhen-representative-office-grand-opening-gala/
 date: 2024-11-25
 layout: post
@@ -141,4 +140,3 @@ Ladies and Gentlemen
 
 
 <p class="right-side-updated">Last updated on 25 November 2024</p>
-<p class="right-side-updated">Last updated on 8 November 2024</p>
