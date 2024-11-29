@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Mr Lee Ee Beng SC, Chairman of Rajah &amp; Tann Asia
+Mr Lee Eng Beng SC, Chairman of Rajah &amp; Tann Asia
 
 Mr Patrick Ang, Managing Partner of Rajah &amp; Tann Singapore LLP, and Vice Chairman of Rajah &amp; Tann Asia
 
