@@ -1,5 +1,6 @@
 ---
-title: Official Visit to Shanghai by Minister for Culture, Community and Youth and Second Minister of Law Edwin Tong SC
+title: Official Visit to Shanghai by Minister for Culture, Community and Youth
+  and Second Minister of Law Edwin Tong SC
 permalink: /official-visit-to-shanghai-by-second-minister-of-law-edwin-tong-sc/
 date: 2024-11-09
 layout: post
@@ -10,7 +11,7 @@ variant: markdown
 9 November 2024 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp; Minister for Culture, Community and Youth and Second Minister of Law Edwin Tong SC made an official visit to Shanghai, China, from 7 to 9 November 2024.
+1.&nbsp;&nbsp;&nbsp; Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong SC made an official visit to Shanghai, China, from 7 to 9 November 2024.
 
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp; During the visit, Minister Tong attended the 6th Shanghai International Arbitration Forum and the Opening Ceremony of Shanghai Arbitration Week 2024 on 8 November, where he delivered an address. The Shanghai Arbitration Week 2024 is organised by the Shanghai Municipal Bureau of Justice, the Council for the Promotion of International Trade Shanghai, and the Shanghai Arbitration Association.
