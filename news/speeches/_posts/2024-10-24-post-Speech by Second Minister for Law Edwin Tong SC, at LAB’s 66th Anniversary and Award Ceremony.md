@@ -45,8 +45,6 @@ claims were satisfied. That is how effective the Bureau was, in arresting the sh
 {:start="5"} 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me also share a more recent, and perhaps, a more common story, but nonetheless one that reflects the Bureau’s real impact that they make on people’s lives. This story, amongst others that we saw in the video earlier, tells you that whilst its name is the Legal Aid Bureau, it goes well beyond providing just legal aid.
 
-**Congratulate and Welcome Fangda Partners**
-
 {:start="6"} 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 21-year-old girl came to the Bureau, saying that she had been sexually abused by her father since she was 11 years old. She had suffered in silence for almost a decade, as she feared her father tremendously. But when she finally plucked up the courage to confide this to the rest of her family, they called her a liar and did not believe her. Things got so unpleasant that she was forced to move out of the family home and into
 a crisis shelter. The Bureau helped the applicant to apply for a Personal Protection Order (PPO) and Domestic Exclusion Order against her father. Eventually, her father consented to the PPO and agreed to move out of the family home. The applicant could finally return home after this. If you thought that the father moved out consensually and easily, I think we got to think again. It was down to the determination of the officer at the Bureau pushing the case, making arguments and persuading the court and the
