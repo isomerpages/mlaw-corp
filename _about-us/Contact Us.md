@@ -6,6 +6,65 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<h3><strong>Closure of MinLaw Counter and Services Centre</strong></h3>
+</blockquote>
+<p>The Ministry of Law Services Centre and the video conferencing counter
+at the State Courts, Help Centre at Basement 1, will close on the following
+dates: &nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closure Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Last Queue Ticket Issued</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Resumption date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>24 December 2024 (Tuesday), 1pm - 5pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12:30pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;26 December 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>31 December 2024 (Tuesday), 1pm - 5pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12:30pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;2 January 2025</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you for your understanding.</p>
+<p></p>
+<blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
