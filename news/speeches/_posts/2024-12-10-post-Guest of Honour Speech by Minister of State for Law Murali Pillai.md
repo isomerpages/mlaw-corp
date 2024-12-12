@@ -21,12 +21,11 @@ variant: markdown
 Ladies and gentlemen<br>
 A very good evening to you.<br>
 
-{:start=“1”} 1. Thank you for inviting me to this evening’s event to commemorate the launch of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law.
+{:start="1"} 1. Thank you for inviting me to this evening’s event to commemorate the launch of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law.
 
 **<u>II. Celebrating Jones Day’s endowment to NUS Law</u>**
 
-{:start=“2”} 
-2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
+{:start="2"} 2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
 
 <p style="margin-left: 40px">a) Mr Brogan has been a strong advocate for the strengthening of legal systems and advancement of the rule of law in Asia. In fact, he has written quite prolifically in this area, and I have seen some articles that he has written as well. He recognises the critical role that the rule of law plays in economic integration and human development.</p>
 
