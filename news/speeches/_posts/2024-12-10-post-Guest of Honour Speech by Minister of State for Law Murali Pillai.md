@@ -1,5 +1,6 @@
 ---
-title: Guest of Honour Speech by Minister of State for Law Murali Pillai at the Launch of the “Stephen Brogan-Jones Day Legal Fellowship on the Rule of Law”
+title: Guest of Honour Speech by Minister of State for Law Murali Pillai at the
+  Launch of the “Stephen Brogan-Jones Day Legal Fellowship on the Rule of Law”
 permalink: /guest-of-honour-speech-minister-of-state-for-law-murali-pillai-launch-stephen-brogan-jones-day-legal-fellowship/
 date: 2024-12-10
 layout: post
