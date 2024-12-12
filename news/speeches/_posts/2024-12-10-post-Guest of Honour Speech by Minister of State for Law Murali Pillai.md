@@ -25,13 +25,15 @@ A very good evening to you.<br>
 
 **<u>II. Celebrating Jones Day’s endowment to NUS Law</u>**
 
-{:start=“2”} 2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
+{:start=“2”} 
+2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
 
 <p style="margin-left: 40px">a) Mr Brogan has been a strong advocate for the strengthening of legal systems and advancement of the rule of law in Asia. In fact, he has written quite prolifically in this area, and I have seen some articles that he has written as well. He recognises the critical role that the rule of law plays in economic integration and human development.</p>
 
 <p style="margin-left: 40px">b) I commend the Jones Day Foundation for celebrating his remarkable legacy through this endowment.</p>
 
-{:start=“3”} 3. My congratulations to NUS Law, the Centre for Asian Legal Studies (CALS), and CALS’s leadership for bringing CALS to where it is today.
+{:start="3"}
+3. My congratulations to NUS Law, the Centre for Asian Legal Studies (CALS), and CALS’s leadership for bringing CALS to where it is today.
 
 <p style="margin-left: 40px">a) CALS has made remarkable strides in cementing its reputation as a leading centre for research and thought leadership in Asian legal systems.</p>
 
