@@ -21,17 +21,17 @@ variant: markdown
 Ladies and gentlemen<br>
 A very good evening to you.<br>
 
-{:start="1"} 1. Thank you for inviting me to this evening’s event to commemorate the launch of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law.
+{:start=“1”} 1. Thank you for inviting me to this evening’s event to commemorate the launch of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law.
 
 **<u>II. Celebrating Jones Day’s endowment to NUS Law</u>**
 
-{:start="2"} 2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
+{:start=“2”} 2. I warmly welcome Jones Day’s endowment to NUS Law, in honour of former Managing Partner Mr Stephen Brogan.
 
 <p style="margin-left: 40px">a) Mr Brogan has been a strong advocate for the strengthening of legal systems and advancement of the rule of law in Asia. In fact, he has written quite prolifically in this area, and I have seen some articles that he has written as well. He recognises the critical role that the rule of law plays in economic integration and human development.</p>
 
 <p style="margin-left: 40px">b) I commend the Jones Day Foundation for celebrating his remarkable legacy through this endowment.</p>
 
-{:start="3"} 3. My congratulations to NUS Law, the Centre for Asian Legal Studies (CALS), and CALS’s leadership for bringing CALS to where it is today.
+{:start=“3”} 3. My congratulations to NUS Law, the Centre for Asian Legal Studies (CALS), and CALS’s leadership for bringing CALS to where it is today.
 
 <p style="margin-left: 40px">a) CALS has made remarkable strides in cementing its reputation as a leading centre for research and thought leadership in Asian legal systems.</p>
 
@@ -41,15 +41,15 @@ A very good evening to you.<br>
 
 **<u>III. Singapore’s approach to the rule of law</u>**
 
-{:start="4"} 4. I would like to take this occasion to share some reflections on Singapore’s approach to the rule of law.
+{:start=“4”} 4. I would like to take this occasion to share some reflections on Singapore’s approach to the rule of law.
 
-{:start="5"} 5. Many countries say they adhere to the rule of law. However, the true test lies in upholding it during the most challenging times. For Singapore, adherence to the rule of law is not merely aspirational, but a necessity borne out of the exigencies of our history.
+{:start=“5”} 5. Many countries say they adhere to the rule of law. However, the true test lies in upholding it during the most challenging times. For Singapore, adherence to the rule of law is not merely aspirational, but a necessity borne out of the exigencies of our history.
 
 <p style="margin-left: 40px">a) We are a young nation, having celebrated 59 years of independence recently. Those familiar with the turbulent times which led to Singapore being thrust with independence will agree that Singapore was and will always remain an “improbable nation”.</p>
 
 <p style="margin-left: 40px">b) We are a small State with only about 700 square kilometres in land size, we have few natural resources, and a diverse population that lives together almost cheek by jowl.</p>
 
-{:start="6"} 6. Our shared values have defined and made Singapore the nation it is today:
+{:start=“6”} 6. Our shared values have defined and made Singapore the nation it is today:
 
 <p style="margin-left: 40px">a) Equal opportunities for all,</p>
 
@@ -61,15 +61,15 @@ A very good evening to you.<br>
 
 <p style="margin-left: 40px">e) Developing our primary natural resource – our people – who form the foundation of the country.</p>
 
-{:start="7"} 7. Our nation building effort continues. However, we have made tangible progress. A big part of this reason is that we have installed the rule of law as the bedrock of our governance and dealings; be it between people or with Government.
+{:start=“7”} 7. Our nation building effort continues. However, we have made tangible progress. A big part of this reason is that we have installed the rule of law as the bedrock of our governance and dealings; be it between people or with Government.
 
 **<i>The separation of powers in Singapore</i>**
 
-{:start="8"} 8. Our system is based on the Westminster model of government and the separation of powers.
+{:start=“8”} 8. Our system is based on the Westminster model of government and the separation of powers.
 
-{:start="9"} 9. We have three branches of government, each operating independently within its sphere of power and responsibility.
+{:start=“9”} 9. We have three branches of government, each operating independently within its sphere of power and responsibility.
 
-{:start="10"} 10. Our Constitution, which is enshrined as the supreme law of our land, defines the responsibilities of each branch of government:
+{:start=“10”} 10. Our Constitution, which is enshrined as the supreme law of our land, defines the responsibilities of each branch of government:
 
 <p style="margin-left: 40px">a) The Parliament – which consists primarily of elected members – <u>passes</u> laws for our country. It has the power to amend the Constitution, and thus decides on the overarching framework for our system.</p>
 
@@ -79,9 +79,9 @@ A very good evening to you.<br>
 
 **<i>Interplay between the different pillars of government</i>**
 
-{:start="11"} 11. For our system of governance to work, there must be mutual trust and respect for each branch’s expertise and competence.
+{:start=“11”} 11. For our system of governance to work, there must be mutual trust and respect for each branch’s expertise and competence.
 
-{:start="12"} 12. To illustrate how the Singapore model works for us, let me say a few words about the repeal of section 377A of the Penal Code in 2022.
+{:start=“12”} 12. To illustrate how the Singapore model works for us, let me say a few words about the repeal of section 377A of the Penal Code in 2022.
 
 <p style="margin-left: 40px">a) There had been several challenges over the years to the constitutionality of S377A – a law from colonial times that criminalised sex between men.</p>
 
@@ -99,11 +99,11 @@ A very good evening to you.<br>
 
 <p style="margin-left: 40px">h) S377A was repealed later that year, and was accompanied by a significant compromise, where the definition of marriage as a union between a man and a woman – as defined in the Women’s Charter – was constitutionally safeguarded. This <i>quid pro quo</i> sought to provide clarity and assurance to different segments of society, while advancing inclusivity.</p>
 
-{:start="13"} 13. Although the repeal of 377A would not satisfy all segments of society, it has been met with calm and normalcy. This has reflected a collective respect for the rule of law and the stability it underpins.
+{:start=“13”} 13. Although the repeal of 377A would not satisfy all segments of society, it has been met with calm and normalcy. This has reflected a collective respect for the rule of law and the stability it underpins.
 
 **<i>Checks and balances</i>**
 
-{:start="14"} 14. As a matter of policy, the conferment of power is balanced by an accountability process, so that no power is unfettered. Let me illustrate this with our Internal Security Act (“<b>ISA</b>”):
+{:start=“14”} 14. As a matter of policy, the conferment of power is balanced by an accountability process, so that no power is unfettered. Let me illustrate this with our Internal Security Act (“<b>ISA</b>”):
 
 <p style="margin-left: 40px">a) Under the ISA, the Minister for Home Affairs is empowered to order detention without trial, on the grounds of national security. This allows us to detain, for example, persons who have become radicalised as terrorists. However, before an Order for Detention is made, the President must be satisfied that doing so is necessary.</p>
 
@@ -117,13 +117,13 @@ A very good evening to you.<br>
 
 <p style="margin-left: 60px">ii) A 17-year-old Singaporean was recently detained after investigations found that he was a staunch ISIS supporter and planned to conduct a terrorist attack in Singapore. He also planned to travel to Syria to engage in armed violence.</p>
 
-{:start="15"} 15. Our approach is recognised by some countries as draconian, but because of it, Singaporeans are able to go about their lives with peace of mind.
+{:start=“15”} 15. Our approach is recognised by some countries as draconian, but because of it, Singaporeans are able to go about their lives with peace of mind.
 
-{:start="16"} 16. It is the people’s vote that serves as the ultimate check and balance. Our highly educated electorate will decide for itself on the policies, and decide on the Government’s performance, with a scorecard at the end of each term.
+{:start=“16”} 16. It is the people’s vote that serves as the ultimate check and balance. Our highly educated electorate will decide for itself on the policies, and decide on the Government’s performance, with a scorecard at the end of each term.
 
 **<i>Outcomes-based approach to governance and rule of law</i>**
 
-{:start="17"} 17. Singapore’s approach to the rule of law is focused on tangible outcomes. That is to say, our citizens’ lives must be improved and there must be socio-economic stability. Here, I give 3 key indicators of this stability:
+{:start=“17”} 17. Singapore’s approach to the rule of law is focused on tangible outcomes. That is to say, our citizens’ lives must be improved and there must be socio-economic stability. Here, I give 3 key indicators of this stability:
 
 <p style="margin-left: 40px">a) <u>First, absence of corruption:</u> In our early years of independence, Singapore faced significant corruption challenges, and our political leaders decided to prioritise the eradication of corruption.</p>
 
@@ -153,20 +153,20 @@ A very good evening to you.<br>
 
 **<i>Singapore’s approach to the international rule of law</i>**
 
-{:start="18"} 18. Internationally, Singapore champions a rules-based approach and strives to promote a global order governed by the international rule of law. In a system where “might is right”, small States like us would stand little chance of survival.
+{:start=“18”} 18. Internationally, Singapore champions a rules-based approach and strives to promote a global order governed by the international rule of law. In a system where “might is right”, small States like us would stand little chance of survival.
 
-{:start="19"} 19. Singapore therefore actively participates in regional and international fora, including ASEAN and the United Nations, to contribute to the development of international law and advocate for principles that ensure fairness and stability for all.
+{:start=“19”} 19. Singapore therefore actively participates in regional and international fora, including ASEAN and the United Nations, to contribute to the development of international law and advocate for principles that ensure fairness and stability for all.
 
-{:start="20"} 20. Singapore plays a significant role in legal harmonisation efforts taking place in multilateral institutions, such as the UN Commission on International Trade Law; the Hague Conference on Private International Law; and the International Institute for the Unification of Private Law. Such efforts uphold the principle that laws – not power – govern relations between nations. This fosters trust, predictability, and cooperation in the international community.
+{:start=“20”} 20. Singapore plays a significant role in legal harmonisation efforts taking place in multilateral institutions, such as the UN Commission on International Trade Law; the Hague Conference on Private International Law; and the International Institute for the Unification of Private Law. Such efforts uphold the principle that laws – not power – govern relations between nations. This fosters trust, predictability, and cooperation in the international community.
 
 **<u>IV. Closing remarks</u>**
 
-{:start="21"} 21. In closing, I extend my heartfelt congratulations to Jones Day and CALS on the establishment of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law at NUS Law.
+{:start=“21”} 21. In closing, I extend my heartfelt congratulations to Jones Day and CALS on the establishment of the Stephen Brogan – Jones Day Legal Fellowship on the Rule of Law at NUS Law.
 
-{:start="22"} 22. Singapore is a steadfast champion of the rule of law, and we recognise that scholarly research and education play a critical role in its promotion. This Fellowship will help address pressing challenges facing our region and reaffirm the centrality of the rule of law as a cornerstone of peace, stability, and progress. It will help foster fresh perspectives, nurture future leaders, and deepen engagement on issues that matter to the region and the world.
+{:start=“22”} 22. Singapore is a steadfast champion of the rule of law, and we recognise that scholarly research and education play a critical role in its promotion. This Fellowship will help address pressing challenges facing our region and reaffirm the centrality of the rule of law as a cornerstone of peace, stability, and progress. It will help foster fresh perspectives, nurture future leaders, and deepen engagement on issues that matter to the region and the world.
 
-{:start="23"} 23. I look forward to continued partnerships between the legal profession, academia, and government to foster dialogue on building understanding and upholding the rule of law in Asia.
+{:start=“23”} 23. I look forward to continued partnerships between the legal profession, academia, and government to foster dialogue on building understanding and upholding the rule of law in Asia.
 
-{:start="24"} 24. Thank you very much.
+{:start=“24”} 24. Thank you very much.
 
 <p class="right-side-updated">Last updated on 10 December 2024</p>
