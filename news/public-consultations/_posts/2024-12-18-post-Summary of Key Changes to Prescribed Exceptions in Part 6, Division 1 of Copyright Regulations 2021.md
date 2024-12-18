@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 The Ministry of Law (“MinLaw”) and Intellectual Property Office of Singapore (“IPOS”) held a public consultation to seek feedback on prescribed exceptions allowing users to circumvent access control measures for non-infringing uses. This took place from 22 April 2024 to 2 June 2024. 
 
 We received a total of 19 responses, with representation from rights owners and users, as well as Government agencies. We have reviewed and assessed all the feedback provided. A summary of the key changes to the prescribed exceptions subsidiary legislation is appended at the end of the page. The original public consultation paper is also available, as Annex A. 
