@@ -2,7 +2,7 @@
 title: Summary of Key Changes to Prescribed Exceptions in Part 6, Division 1 of
   Copyright Regulations 2021
 permalink: /summary-of-key-changes-pe-copyright-regulations-2021/
-date: 2024-12-18
+date: 2024-12-19
 layout: post
 description: ""
 image: ""
@@ -13,5 +13,9 @@ The Ministry of Law (“MinLaw”) and Intellectual Property Office of Singapore
 We received a total of 19 responses, with representation from rights owners and users, as well as Government agencies. We have reviewed and assessed all the feedback provided. A summary of the key changes to the prescribed exceptions subsidiary legislation is appended at the end of the page. The original public consultation paper is also available, as Annex A. 
 
 MinLaw and IPOS would like to thank all respondents for their feedback. 
+
+[Summary of Key Changes to Prescribed Exceptions in Part 6, Division 1 of Copyright Regulations 2021](/files/Summary_of_Key_Changes_to_Prescribed_Exceptions_in_Part_6__Division_1_of_the_Copyright_Regulations_2021.pdf)
+
+[Annex A](/files/Annex_A___2024_Public_Consultation_on_Prescribed_Exceptions_in_Part_6__Division_1_of_the_Copyright_Regulations_2021.pdf)
 
 <p class="right-side-updated">Last updated on 19 December 2024</p>
