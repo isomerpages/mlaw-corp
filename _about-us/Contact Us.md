@@ -34,30 +34,24 @@ dates: &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 December 2024 (Tuesday), 1pm - 5pm</strong>
-</p>
+<p>24 December 2024 (Tuesday), 1pm - 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12:30pm</strong>
-</p>
+<p>12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;26 December 2024</strong>
-</p>
+<p>&nbsp;26 December 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>31 December 2024 (Tuesday), 1pm - 5pm</strong>
-</p>
+<p>31 December 2024 (Tuesday), 1pm - 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12:30pm</strong>
-</p>
+<p>12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;2 January 2025</strong>
-</p>
+<p>&nbsp;2 January 2025</p>
 </td>
 </tr>
 </tbody>
