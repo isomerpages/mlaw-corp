@@ -55,7 +55,7 @@ variant: markdown
 11.&nbsp;The MEP will be expanded to more categories of maintenance enforcement applications in later phases.
 
 {:start="12"}
-12.&nbsp;More information on the new MEP and MED can be found on the MED’s website at <a href="https://go.gov.sg/meo">https://go.gov.sg/meo,</a> as well as in the Annex.
+12.&nbsp;More information on the new MEP and MED can be found on the MED’s website at <a href="https://go.gov.sg/meo">https://go.gov.sg/meo,</a> as well as in the [Annex](/files/Annex___Infographic_on_Phase_1_of_the_Maintenance_Enforcement_Process.pdf).
 
 <b>MINISTRY OF LAW</b>
 
