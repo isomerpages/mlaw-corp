@@ -1,7 +1,6 @@
 ---
-title: Issuance of Correction Directions under POFMA to Bloomberg LP, The Edge
-  Singapore, TISG and TOC
-permalink: /issuance-of-correction-directions-under-pofma-to-bloomberg-lp-the-edge-singapore-tisg-and-toc/
+title: Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to Bloomberg L.P., The Edge Singapore, The Independent Singapore and The Online Citizen
+permalink: /issuance-of-correction-directions-under-pofma-to-bloomberg-the-edge-singapore-tisg-and-toc/
 date: 2024-12-23
 layout: post
 description: ""
