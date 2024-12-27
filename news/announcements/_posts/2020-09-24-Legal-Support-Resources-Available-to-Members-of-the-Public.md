@@ -2,6 +2,7 @@
 title: Legal Support Resources Available to Members of the Public
 date: 2020-09-24T00:00:00.000Z
 permalink: /news/announcements/legal-support-resources-available-to-members-of-the-public/
+variant: markdown
 ---
 24 SEP 2020 Posted in [Announcements](/news/announcements)
 
@@ -11,16 +12,18 @@ a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal
  
 b. The Public Defender's Office (PDO) and Pro Bono SG (PBSG) provide criminal defence aid to accused persons with limited means who are charged with non-capital offences. Please visit [https://pdo.mlaw.gov.sg](https://pdo.mlaw.gov.sg) for further details.
  
-c. Law Society’s Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.lawsocprobono.org/pages/community-legal-clinic.aspx](https://www.lawsocprobono.org/pages/community-legal-clinic.aspx) for more information.
+c. Pro Bono SG’s Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore](https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore) for more information. This website also includes information on legal clinics in Singapore run by other organisations.
  
-d. A number of other legal clinics in Singapore provide legal advice. Refer to <u>Annex A</u> for details on the eligibility criteria and how to make an appointment.
- 
+d. Pro Bono SG's Community Law Centres bring legal assistance closer to the heartlands. For more information, please visit [https://www.probono.sg/contact-us](https://www.probono.sg/contact-us). 
+
+e. Pro Bono SG's LawGoWhere Community Law Centres [https://www.lawgowhere.sg](https://www.lawgowhere.sg) is a first-stop portal for individuals facing legal crises to get basic information and be directed to holistic help.
+
 {:start="2"}
 2.  The public may also continue to access online tools and websites that provide useful information:
  
 a. The iLAB chatbot on the [Legal Aid Bureau’s website](https://lab.mlaw.gov.sg/) provides tailored legal information on divorce, family violence, and issues related to COVID-19; it is also able to generate simple legal documents.
  
-b. The Community Justice Centre’s [Automated Court Document Assembly and Generation (ACDA)](https://www.cjc.org.sg/automated-court-documents-assembly/) provides step-by-step guidance on filing certain court forms.
+b. The Community Justice Centre’s [Automated Court Document Assembly and Generation (ACDA)](https://cjc.org.sg/automated-court-documents-assembly/) provides step-by-step guidance on filing certain court forms.
  
 c. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
  
@@ -34,4 +37,4 @@ f. [The Singapore Legal Advice website](https://singaporelegaladvice.com/) has a
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b><i>Last updated 05 Jan 2023</i></b>
+<b><i>Last updated 27 Dec 2024</i></b>
