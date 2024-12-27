@@ -27,13 +27,11 @@ b. The Community Justice Centre’s [Automated Court Document Assembly and Gener
  
 c. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
  
-d. [The Law Society of Singapore website](https://www.lawsociety.org.sg/) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
+d. [The Law Society of Singapore website](https://www.lawsociety.org.sg/find-a-lawyer-2024) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
  
 e. [The Asia Law Network (ALN) website](https://www.asialawnetwork.com/) has a directory of practicing lawyers in Singapore and Asia, sorted by area of practice, language and country of practice.
  
 f. [The Singapore Legal Advice website](https://singaporelegaladvice.com/) has a directory of practicing lawyers and their contact details, sorted by area of practice.
-
-[Annex A (608KB)](/files/news/announcements/2020/01/Annex_A–Directory_of_Legal_Clinics_in_Singapore.pdf)
 
 <b>MINISTRY OF LAW</b>
 <br>
