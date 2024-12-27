@@ -1,12 +1,10 @@
 ---
-title: 'Community Legal Services Group'
+title: Community Legal Services Group
 permalink: /about-us/what-we-do/community-legal-service-group/
-breadcrumb: 'Community Legal Services Group'
-third_nav_title: 'What We Do'
-
+breadcrumb: Community Legal Services Group
+third_nav_title: What We Do
+variant: markdown
 ---
-
-
 Community Legal Services Group
 ---
 
@@ -34,7 +32,9 @@ For more information on the Community Legal Services Group and the services avai
 
 * [Insolvency Office](/about-us/what-we-do/insolvency-office/)
 
-* [Licensing & Regulation of Insolvency Practitioners Division](/about-us/what-we-do/licensing-and-regulation-of-insolvency-practitioners-division/)
+* [Licensing &amp; Regulation of Insolvency Practitioners Division](/about-us/what-we-do/licensing-and-regulation-of-insolvency-practitioners-division/)
+
+* [Public Defender’s Office](/about-us/what-we-do/public-defenders-office/)
 
 * [Public Trustee’s Office](/about-us/what-we-do/public-trustee-office/)
 
