@@ -42,4 +42,4 @@ For more information on the Community Legal Services Group and the services avai
 
 * [Registry of Pawnbrokers](/about-us/what-we-do/registry-of-pawnbrokers/)
 
-<p class="right-side-updated">Last updated on 23 July 2020</p>
+<p class="right-side-updated">Last updated on 27 Dec 2024</p>
