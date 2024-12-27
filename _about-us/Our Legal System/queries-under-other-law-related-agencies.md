@@ -3,6 +3,7 @@ title: Queries under other law-related agencies
 permalink: /about-us/our-legal-system/queries-under-other-law-related-agencies/
 breadcrumb: Queries under other law-related agencies
 third_nav_title: Our Legal System
+variant: markdown
 ---
 Queries under other law-related agencies
 ---
@@ -55,30 +56,31 @@ The Small Claims Tribunals are part of the Subordinate Courts of Singapore. The 
 
   <b>Free Legal Advice</b>
 
-The Pro Bono Services Office coordinates and administers all pro bono initiatives of the Law Society, including the following:
+Pro Bono SG, a wholly owned subsidiary of The Law Society of Singapore, is a registered charity that administers pro bono legal aid through legal representation, guidance, and awareness. Their initiatives include the following:
 
 <ul>
   <li>the Criminal Legal Aid Scheme;</li>
   <li>the Project Law Help initiative;</li>
   <li>the Law Awareness initiative (a public education initiative to raise public awareness of the law by way of conducting public education seminars and exhibitions regularly and publication of educational information)</li>
-  <li>the Community Legal Clinics.</li>
+  <li>the Community Legal Clinics; and</li>
+	  <li>the Community Law Centres.</li>
 </ul>
 
-If you wish to seek assistance for any of our pro bono initiatives, please contact:
+If you wish to seek assistance, please contact:
 
 <p class="address-centered">
   <b>
-  <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">The Law Society of Singapore</a><br>
-    <a href="http://probono.lawsociety.org.sg/Pages/default.aspx" target="_blank">Pro Bono Services Office</a><br>
-1 Havelock Square<br>
+  <a href="https://probono.sg" target="_blank">Pro Bono SG</a><br>
+    1 Havelock Square<br>
 #B1-18 State Courts<br> 
 Singapore 059724<br>
 Tel: 6536 0650<br>
+Email: help@probono.sg<br>
     
-<p class="address-centered">
+</b></p><p class="address-centered"><b>
   <b>Operating Hours:</b><br>
-    9 am to 5.45 pm, Mondays to Fridays<br>
-    Closed on Saturdays, Sundays and Public Holidays
-    </p>
+    9am to 5.45pm, Mondays to Fridays<br>
+    Closed on Weekends and Public Holidays
+    </b></p><b>
 
-<p class="right-side-updated">Last updated on 27 Feb 2017</p>
+<p class="right-side-updated">Last updated on 27 Dec 2024</p></b>
