@@ -33,55 +33,53 @@ variant: markdown
 <p><b>(B) Successes of current SIP</b></p>
 
 {:start="5"}
-5.&nbsp;We have found in the time that we have introduced  the SIP, that it was by and large useful in assisting MSCs in severe financial distress.
+5.&nbsp;We have found in the time that we have introduced the SIP, that it was by and large useful in assisting MSCs in severe financial distress.
 
 <p style="margin-left: 40px">(a)	To give members some indication of the numbers, as at 31 December 2024, a total of 116 applications for the existing SIP had been submitted, and 77 of them were accepted. Of these, 61 MSCs in severe financial distress were successfully assisted. </p>
 
-<p style="margin-left: 40px">(b)</p>
+<p style="margin-left: 40px">(b)	For simplified winding up, the completion of cases was done within an average of nine months, and some as quickly as a few months. This compares very favourably to a typical process, which could take anywhere between three to four years, especially where there is a longer tail of transactions and contracts to resolve.</p>
 
-<p style="margin-left: 40px">(c)</p>
+<p style="margin-left: 40px">(c)	This shorter process allowed non-viable companies to be liquidated quickly. The expedited process saves time and costs, and lessens the impact on the principals behind the business while preserving the value of the insolvency estate for distribution to creditors.</p>
+
+<p style="margin-left: 40px">(d) For simplified debt restructuring, there are fewer cases compared to simplified winding up. A successful case was the restructuring of the Axis Group Asia Private Limited. This was done with court sanction in under six months, which was a very short period of time.</p>
+
+<b><u>II. OBJECTIVE OF THE BILL</u></b>
 
 {:start="6"}
-6.&nbsp;
+6.&nbsp;With the success of the SIP, this Bill now seeks to introduce a refined SIP – one which I shall call the SIP 2.0 – to make it a permanent feature of our corporate debt restructuring and insolvency regime in the Insolvency, Restructuring and Dissolution Act 2018 (“<b>IRDA</b>”).
+
+<p style="margin-left: 40px">•	As there was merit in making the SIP permanent as part of the insolvency and restructuring ecosystem, we explored further over the course of the last couple of months how the current SIP could be suitably modified to allow companies that are not MSCs to also benefit from it. </p>
 
 {:start="7"}
-7.&nbsp;The justice system is critical to Singapore’s continued success. It benefits all of us in various ways. For example:
-
-<p style="margin-left: 40px">(a) Our criminal justice system ensures law and order, and a safe Singapore.</p>
-
-<p style="margin-left: 40px">(b) Our commercial law regime provides a stable platform for investment and economic growth, and allows for the expedient resolution of commercial disputes.</p>
-
-<p style="margin-left: 40px">(c) In the community sphere, we have set up specialised tribunals, and introduced simplified Judge-led processes, that allow for the effective resolution of community disputes.</p>
-
-<p style="margin-left: 40px">(d) Our family justice system aims to find timely and enduring solutions to family disputes by applying therapeutic justice.</p>
+7.&nbsp;We consulted with public agencies and stakeholders from the private sector, and the industry was generally supportive of having the SIP as a permanent programme and provided helpful feedback for us to refine the framework. We have taken this on board where possible to improve the current SIP.
 
 {:start="8"}
-8.&nbsp;The AOJPA protects the justice system across all these spheres.
-
-<p style="margin-left: 40px"><b><u>(B) Balancing access to justice and the risk of abuse of process</u></b></p>
+8.&nbsp;SIP 2.0 seeks to provide a simpler and more cost-effective insolvency process, to benefit more companies.
 
 {:start="9"}
-9.&nbsp;The AOJPA has become even more important in recent years as we have taken significant steps to improve access to justice. These steps include setting up the Protection from Harassment Court and the Community Disputes Resolution Tribunal. These reforms provide simplified processes intended to allow Singaporeans to enforce their rights more easily.
+9.&nbsp;The Bill will therefore modify two existing processes under the SIP, namely the Simplified Debt Restructuring Programme (“<b>SDRP</b>”) and the Simplified Winding Up Programme (“<b>SWUP</b>”). 
 
 {:start="10"}
-10.&nbsp;Promoting access to justice is part of the Government’s mission. We need to have good laws on our statute books, and the public must be able to enforce their legal rights in practice. However, improving access to justice does not mean enabling vexatious litigants to mount abusive and unmeritorious legal claims.
+10.&nbsp;Unlike the current SIP, the processes in SIP 2.0 will be fully administered by licensed insolvency practitioners in the private sector who are experienced and have the relevant expertise.
+
+<p style="margin-left: 40px">(a)	This approach, Members may know, is consistent with other corporate insolvency processes, such as Court-ordered winding up and creditors’ voluntary winding up, which are administered by private liquidators who are also licensed insolvency practitioners.</p>
+
+<p style="margin-left: 40px">(b)	Members will also recall how our companies winding up regime became fully administered by private liquidators when the IRDA came into force in July 2020.</p>
+
+<p style="margin-left: 40px">(c)	The approach for the SIP is thus consistent with existing debt restructuring and insolvency processes where the private sector currently already takes the lead.</p>
 
 {:start="11"}
-11.&nbsp;There are existing levers to address the risk of abuse of process in specific contexts, which we regularly review:
+11.&nbsp;With that, Mr Speaker, let me take Members through the key changes to the SIP which this Bill proposes to implement.
 
-<p style="margin-left: 40px">(a) For criminal proceedings, we passed legislation in 2018 and 2022, to provide clear procedures for applications filed after a concluded criminal appeal, including post-appeal applications in capital cases. Thresholds were included to make clear that such late-stage applications must be premised on persuasive, new material to guard against persistent delays and the constant re-litigation of issues in criminal matters.</p>
-
-<p style="margin-left: 40px">(b) There are also existing levers available in other proceedings. For instance, the Protection from Harassment Court has powers to deal with unmeritorious or frivolous cases by striking out such claims, and imposing costs consequences. However, we have received feedback that there is still a risk of harassment proceedings being misused for collateral purposes. As such, this is an area we continue to monitor and review.</p>
-
-<p style="margin-left: 40px">(c) Similarly, for community disputes, the Community Disputes Resolution Tribunal may award costs in cases involving an abuse of process. Under the Community Disputes Resolution (Amendment) Bill, which was passed yesterday, the Tribunal will further be empowered to issue civil restraint orders to curb claims or applications that are an abuse of process.</p>
-
-<p style="margin-left: 40px"><b><u>(C) Egregious abuse of process may amount to contempt by interference with the administration of justice</u></b></p>
+<b><u>III. KEY CHANGES TO THE SIP</u></b>
 
 {:start="12"}
-12.&nbsp;More broadly, the AOJPA provides that interference with court proceedings or the administration of justice may amount to contempt of court and attract criminal sanctions. This is a general protection that applies to all court proceedings in Singapore.
+12.&nbsp;Let me start with the changes relating to the eligibility criteria for the two programmes under the SIP, before explaining the key changes to each of the programmes. So the eligibility criteria apply to both the SDRP as well as the SWUP. 
+
+<b>(A) Simpler eligibility criteria</b>
 
 {:start="13"}
-13.&nbsp;Contempt by interference with the administration of justice may be committed in various ways, including by abusing the process of the court in an egregious manner. Examples of such egregious abuse include:
+13.&nbsp;Under Clauses 7 and 32 of the Bill, which amend sections 72F(2) and 250F(2) of the IRDA, the current list of five criteria will be streamlined to just one, which is the general eligibility requirement that the company’s total liabilities must not exceed $2 million.
 
 <p style="margin-left: 40px">(a) Commencing civil proceedings to seek financial damages, despite knowing that the claim is without foundation, for the ulterior motive of oppressing the defendant;</p>
 
