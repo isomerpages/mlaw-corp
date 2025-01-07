@@ -49,7 +49,6 @@ dates:</p>
 <p>11:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>31 January 2025</p>
 </td>
 </tr>
