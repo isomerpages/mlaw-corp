@@ -1,5 +1,5 @@
 ---
-title: Second Reading Speech for the Insolvency, Restructuring and Dissolution
+title: Speech by Minister for Culture, Community and Youth & Second Minister for Law, Mr Edwin Tong SC, on the Second Reading of the the Insolvency, Restructuring and Dissolution
   (Amendment) Bill
 permalink: /second-reading-speech-for-the-insolvency-restructuring-and-dissolution-amendment-bill/
 date: 2025-01-07
