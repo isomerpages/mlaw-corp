@@ -28,9 +28,10 @@ variant: markdown
 3. After they have made a Will, seniors can deposit information on their Will with the Singapore Academy of Law Wills Registry (wills.sal.sg). This will facilitate access to the Will after they have passed on. 
 
 {:start="4"}
-4. Those who wish to write their Will themselves may refer to My Legacy@LifeSG (mylegacy.life.gov.sg), which is a one-stop Government platform that assists individuals with legacy planning and end-of-life matters. My Legacy provides step-by-step information on how to make and deposit information on their Will.  
-<p>{:start="5"}
-5. Seniors can also approach Pro Bono SG’s Community Law Centres and Community Legal Clinics for legal advice and assistance with Wills. They can also obtain assistance from the Legal Aid Bureau to draft their Will and deposit information on the Will, if they pass the means test. 
+4. Those who wish to write their Will themselves may refer to My Legacy@LifeSG (mylegacy.life.gov.sg), which is a one-stop Government platform that assists individuals with legacy planning and end-of-life matters. My Legacy provides step-by-step information on how to make and deposit information on their Will.
+
+{:start="5"}
+5.  Seniors can also approach Pro Bono SG’s Community Law Centres and Community Legal Clinics for legal advice and assistance with Wills. They can also obtain assistance from the Legal Aid Bureau to draft their Will and deposit information on the Will, if they pass the means test. 
 
 {:start="6"}
 6.  To ensure that their assets will be dealt with in accordance with their Will, seniors should appoint one or more executors that meet the legal requirements and are able and willing to carry out their wishes. If necessary, a professional executor such as a lawyer may be appointed.
@@ -41,4 +42,4 @@ variant: markdown
 {:start="8"}
 8.  As regards safeguards, it is a matter between the beneficiaries, and the executor. If the beneficiaries believe that the executor is not carrying out his duties properly, they can seek recourse in the Courts. For example, the beneficiaries of the Will may apply to the Court for relief, such as an order directing the executor to do or abstain from doing a particular act in the executor’s capacity as an executor. Dishonest executors may also face criminal consequences.
 
-</p><p></p><p class="right-side-updated">Last updated on 7 January 2025</p>
+<p></p><p></p><p class="right-side-updated">Last updated on 7 January 2025</p>
