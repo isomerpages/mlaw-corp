@@ -153,79 +153,76 @@ variant: markdown
 
 <p style="margin-left: 80px">-	there is a material procedural irregularity in relation to the meeting of the company and its creditors to approve the proposal or in relation to the approval of the creditors at the meeting;</p>
 
-{:start="28"}
-28.&nbsp;To deter such behaviour, Clause 2(d) of the Bill provides that persons who cause or abet egregious abuse of our court process as provided for under the new section 3(1)(da) and (db) will also be liable for contempt.
+<p style="margin-left: 80px">-	for the proposal to be fair and equitable to all creditors bound by it, a substitution or splitting of classification of creditors is necessary; or</p>
 
-<p style="margin-left: 40px"><b><u>(C) Proposals have been carefully scoped</u></b></p>
+<p style="margin-left: 80px">-	the approved proposal is contrary to the interests of the creditors of the company as a whole.</p>
+
+<p style="margin-left: 40px">•	The Court hearing this application may make any order it thinks fit, including —</p>
+
+<p style="margin-left: 80px">-	revoking or suspending the compromise or arrangement in the proposal,</p>
+
+<p style="margin-left: 80px">-	and giving directions to the Restructuring Adviser, including a direction to put to the creditors for consideration any modifications to the compromise or arrangement, except the material commercial terms of the proposal may not be modified.</p>
+
+<b>(C) Simplified Winding Up Programme</b>
+
+{:start="28"}
+28.&nbsp;So that speaks to the SDRP. I will now touch on the key proposals for the simplified winding up programme or SWUP in short. This Bill modifies the existing SWUP in the following key aspects.
 
 {:start="29"}
-29.&nbsp;In developing these proposals, we are keenly aware of the need to strike a balance between the need to guard against abuse of process and the rights of litigants to ventilate genuine claims before the courts.&nbsp;
+29.&nbsp;First, Clause 30 provides that if the company resolves to enter into the SWUP but has insufficient or incomplete financial records, the company may submit a Directors’ statement to the nominated liquidator that the eligibility criterion has been met. This new feature simplifies the application process, and encourages non-viable companies to be wound up instead of remaining dormant.
 
 {:start="30"}
-30.&nbsp;Our policy intent is that the litigants and lawyers who act with reasonable care and in good faith should not be penalised.
+30.&nbsp;There may be situations where the members of the company are uncontactable or the company is thereby unable to pass a special resolution to enter into the SWUP.
+
+<p style="margin-left: 40px">•	In these situations, a directors’ resolution can be accepted as long as the company satisfies that –</p>
+
+<p style="margin-left: 80px">-	despite exercising reasonable diligence, the company is unable to contact enough members who together hold the majority in value of its shares for at least 3 years prior to the date of the directors’ resolution;</p>
+
+<p style="margin-left: 80px">-	consequently, the company is unable to obtain the necessary quorum for the extraordinary general meeting to resolve to wind up the company; and</p>
+
+<p style="margin-left: 80px">-	finally, the company’s operations have been dormant for at least 3 years prior to the date of the directors’ resolution. All these are factors which speak to the company’s dormancy, and we believe it is in the interest to have these companies wound up, rather than remain on the books.</p>
 
 {:start="31"}
-31.&nbsp;We looked at past examples of conduct which amounted to abuse of process. We also examined the leading case of <i>Chee Siok Chin v MHA</i>,where the court had set out the categories of abuse of process at common law. To ensure that we only capture egregious cases as contempt, the provisions in the Bill specify narrower categories than what was set out in <i>Chee Siok Chin</i>.
+31.&nbsp;In the current SWUP, there are 4 platforms on which notices are published.
+
+<p style="margin-left: 40px">(a)	The Official Receiver’s website;</p>
+
+<p style="margin-left: 40px">(b)	The Government e-Gazette;</p>
+
+<p style="margin-left: 40px">(c)	A local newspaper; and</p>
+
+<p style="margin-left: 40px">(d)	The Registrar of Companies’s Bizfile under the Accounting, Corporate and Regulatory Authority (“<b>ACRA</b>”). </p>
 
 {:start="32"}
-32.&nbsp;The approach we have taken ensures that the amendments will not cover the typical case of a civil matter that is struck out for the sole reason that it has no merit. Such cases can continue to be adequately dealt with by striking out and costs orders.
+32.&nbsp;To reduce the cost of administration, only two platforms will be used in the new SWUP for the publication of notices, namely, the OR’s website and Bizfile.
 
 {:start="33"}
-33.&nbsp;The court will be able to examine the circumstances of the case, when considering whether the conduct constitutes contempt.
+33.&nbsp;Clause 38 modifies sections 180 and section 210 of the IRDA to streamline the final or early dissolution processes of a company respectively,
+
+<p style="margin-left: 40px">•	by requiring only one lodgment with ACRA to effect the dissolution of the company,</p>
+<p style="margin-left: 40px">•	and this will save time and costs.</p>
 
 {:start="34"}
-34.&nbsp;In scoping the proposals, we spoke to key stakeholders, including the Judiciary, to ensure that we have achieved the right balance.
+34.&nbsp;Clause 42 provides that the liquidator may switch to other liquidation processes such as a Court-ordered winding up or a creditors’ voluntary liquidation if the liquidator’s assessment is that the company is unsuitable for simplified winding up.
 
 {:start="35"}
-35.&nbsp;We also spoke to members of the Bar on these amendments. There is consensus that lawyers must be held to high standards. At the same time, some members of the Bar have expressed concern whether these amendments may discourage lawyers from taking up difficult cases and arguments, where the merits of the case or the evidence may be borderline or unclear. They ask whether the amendments will prevent them from robustly representing the interests of their clients.
+35.&nbsp;Additionally, where a liquidator requires funding from creditors to conduct investigations to recover assets but no such funding is forthcoming, the liquidator may complete the simplified winding up of the company and dissolve the company without taking further investigative steps. 
+
+<p style="margin-left: 40px">•	This ensures that unviable companies, which will have no other assets and sometimes no other identifiable members, can be liquidated and dissolved efficiently without having to restart or unnecessarily protract the liquidation process.</p>
+
+<b><u>IV. CONCLUSION</u></b>
 
 {:start="36"}
-36.&nbsp;Let me make a few points to directly address these concerns.
+36.&nbsp;Sir, these are the key changes proposed to the SIP. The rest of the SIP, as I said at the outset, will remain unchanged. Sir, let me now conclude.
 
 {:start="37"}
-37.&nbsp;First, I reiterate that the amendments are clarificatory in nature and do not lower the current threshold for contempt of court.
-
-<p style="margin-left: 40px">(a) The elements of the new provisions, particularly the mental element that the person must have “known or ought to have known” that the proceeding would amount to contempt, are consistent with the current section 3(1)(e) of the AOJPA.</p>
-  
-<p style="margin-left: 40px">(b) The new provisions are also consistent with the pre-AOJPA case law on other forms of contempt of court under which it was not necessary to prove an intention to undermine public confidence in the administration of justice.</p>
-  
-<p style="margin-left: 40px">(c) The new provisions do not affect the procedural protections under the existing AOJPA. The standard of proof remains that of proof beyond a reasonable doubt under section 28 of the AOJPA. Consent of the Attorney-General is also required under section 30 of the AOJPA before contempt proceedings are instituted.</p>
+37.&nbsp;This Bill aims to modify the SIP and make it a permanent feature of our current insolvency regime in the IRDA, and modifying the existing processes in the current SIP.
 
 {:start="38"}
-38.&nbsp;Second, lawyers and litigants are already held to high standards. To re-iterate, those who exercise reasonable care and act in good faith will not be caught and have nothing to fear.
+38.&nbsp;This will make the SIP permanent, or the SIP 2.0, one which is simpler, more cost effective, and will also facilitate better access to insolvency processes, and with these changes benefit a larger group of companies.
 
 {:start="39"}
-39.&nbsp;Let me illustrate this with an example:
+39.&nbsp;With that, Mr Speaker, I beg to move.
 
-<p style="margin-left: 40px">(a) An accused person who has been convicted and had his appeal dismissed approaches a lawyer, shortly before the accused is to start serving his sentence. The accused presents new evidence that the lawyer is unsure whether is genuine. The lawyer needs more time to investigate the matter and makes an urgent court application so that the accused does not have to immediately start serving sentence. Eventually, after due investigation, it transpires that the allegedly new evidence is not genuine and the application is duly withdrawn.</p>
 
-<p style="margin-left: 40px">(b) In such a circumstance, if the lawyer had acted in good faith and had taken reasonable steps before filing the court application, considering the limited time available to him, the lawyer will not be caught by the elements of the proposed amendments.</p>
-
-<p style="margin-left: 40px">(c) This is because the standard of what the lawyer knew or ought to have known is contextual, and the court will have to examine carefully the factual matrix of each case. The standard also allows the court to take into account the practical challenges faced by lawyers.</p>
-
-<p style="margin-left: 40px">(d) However, in the same scenario, if the lawyer had failed to take reasonable steps – for example, by ignoring obvious red flags, or had carried on conducting the application even after discovering that the new evidence was fabricated – then he may well be caught by the amendments. Rightly so, as we expect high standards from lawyers who owe paramount duties as officers of the court. Again, much will depend on the particular context of each case.</p>
-
-{:start="40"}
-40.&nbsp;This is why I say that lawyers and litigants who act with reasonable care and in good faith have nothing to fear.
-
-{:start="41"}
-41.&nbsp;On this point, as Honourable Members sitting in this House, we are ultimately concerned with the public good and must act in the best interest of all Singaporeans. As I mentioned at the start of my speech, our justice system is a key pillar of what has made our country successful. It is precious and must be protected.
-
-{:start="42"}
-42.&nbsp;All of us – the courts, lawyers, lawmakers and members of the public – have an interest in ensuring that we have an effective justice system that is focused on enforcing our laws and resolving genuine disputes. We also have a duty to ensure that our processes are not weaponised or abused.
-
-<b><u>III. CONCLUSION</u></b>
-
-{:start="43"}
-43.&nbsp;The proposed amendments will help us deter egregious cases of abuse of process, and safeguard our justice system so that it continues to benefit and serve all of us.
-
-{:start="44"}
-44.&nbsp;As I have elaborated in some detail in going through the amendments, they are clarificatory, and are not intended to lower the threshold for contempt. I have also taken some time to explain the rationale behind the amendments.
-
-{:start="45"}
-45.&nbsp;So, while Honourable Members may have brought prepared speeches, I would ask that you may want to consider the explanations that I have already given, so that the response that I may provide later can be more efficient.
-
-{:start="46"}
-46.&nbsp;Sir, on behalf of the Minister for Law, I beg to move.
-
-<p class="right-side-updated">Last updated on 13 November 2024</p>
+<p class="right-side-updated">Last updated on 7 January 2025</p>
