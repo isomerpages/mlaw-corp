@@ -43,7 +43,7 @@ dates:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>28 January 2025 (Tuesday), 12pm - 5pm
-<br>(Chinese New Year's eve)</p>
+<br>(Chinese New Year's Eve)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:30am</p>
