@@ -81,87 +81,77 @@ variant: markdown
 {:start="13"}
 13.&nbsp;Under Clauses 7 and 32 of the Bill, which amend sections 72F(2) and 250F(2) of the IRDA, the current list of five criteria will be streamlined to just one, which is the general eligibility requirement that the company’s total liabilities must not exceed $2 million.
 
-<p style="margin-left: 40px">(a) Commencing civil proceedings to seek financial damages, despite knowing that the claim is without foundation, for the ulterior motive of oppressing the defendant;</p>
+<p style="margin-left: 40px">(a)	This will make it much easier for companies that are not MSCs to also benefit from the SIP. </p>
 
-<p style="margin-left: 40px">(b) Filing fictitious claims for the improper purpose of delaying criminal proceedings; and</p>
-
-<p style="margin-left: 40px">(c) Persistently commencing actions and making applications that are totally without merit.</p>
+<b>(B) Simplified Debt Restructuring Programme (SDRP)</b>
 
 {:start="14"}
-14.&nbsp;The impact of egregious abuse of our court system can be very serious.
-
-<p style="margin-left: 40px">(a) Individuals are forced to bear the financial and psychological burden of undergoing court proceedings for matters that should not be going to court.</p>
-
-<p style="margin-left: 40px">(b) Limited public and court resources are diverted away from other deserving, meritorious cases, and our court system is strained and weakened as a result.</p>
-
-<p style="margin-left: 40px">(c) If we do not act, over time, trust in Singapore’s justice system will be eroded.</p>
-
-<p style="margin-left: 40px"><b><u>(D) Phenomenon of “lawfare” and trend of abuse of court processes</u></b></p>
+14.&nbsp;Under the SDRP, a company will draw up a debt restructuring proposal for its creditors, which provides for a compromise or otherwise an arrangement to resolve its debts.
 
 {:start="15"}
-15.&nbsp;We have observed notable examples of abuse of the court process, in Singapore and overseas, as parties engage in what is referred to as “lawfare” – commencing unmeritorious claims to oppress others or for ulterior purposes. With your permission, Mr Speaker Sir, may I ask the Clerks to distribute a handout with some examples? Members may also access these materials through the MP@SGPARL App. In the handout, you would see:
-
-<p style="margin-left: 40px">(a) In the <b>United States</b>, lawfare has taken various forms. This includes misuse of court proceedings by individuals against their intimate partners, who may be survivors of domestic violence or sexual abuse, as a means of controlling, harassing or intimidating them long after the relationship has ended. It also includes unscrupulous lawyers and litigants commencing abusive or bogus claims with the main incentive of forcing a monetary settlement or to “make a quick buck”.</p>
-
-<p style="margin-left: 40px">(b) In <b>Europe</b>, the EU Parliament is studying the rising phenomenon of strategic lawsuits against public participation, also known as “<b>SLAPPs</b>”. SLAPPs are legal actions typically brought with the intention of harassing or intimidating opponents via improper use of the legal system for purposes other than genuinely vindicating a legal right. The <b>UK government</b> also proposed&nbsp; legislative action in this area earlier this year in March 2024.</p>
-
-<p style="margin-left: 40px">(c) In <b>Singapore</b>, we have also observed notable cases of egregious abuse of process. In an extra-judicial lecture delivered in 2023, our Chief Justice spoke about the phenomenon of truth decay: the proliferation of disinformation and devaluation of truth in our societies. He observed that “a number of recent examples suggest that truth decay is spreading into court proceedings”. He cited “the conduct of some advocates, who have in some cases attempted to conceal facts from the courts, or to delay proceedings on spurious grounds”.
-
-</p><p style="margin-left: 40px">(d) One example of such conduct is the 2022 case of <i>Mohammad Farid bin Batra v Attorney-General</i>. The applicant had been sentenced to life imprisonment and caning for possessing drugs for the purposes of trafficking. After his appeal had been dealt with, he filed two subsequent applications to the Court of Appeal which were dismissed. Thereafter, the applicant filed another application to the General Division of the High Court on an urgent basis. The court dismissed the application. In doing so, the court found that the claim was completely baseless and brought to delay, and ultimately avoid, caning. The court also noted that it “would have to leave it to the executive and the legislature to consider whether and what action can be taken in future instances of abusive applications by litigants and those advising, assisting or egging them on”.</p>
-
-<p style="margin-left: 40px"><b><u>(E) Amendments are clarificatory</u></b></p>
+15.&nbsp;The Bill will modify the existing SDRP in several key aspects.
 
 {:start="16"}
-16.&nbsp;Having observed these trends, we have decided that it is time to proactively act to safeguard the administration of justice in Singapore. It is the Government’s responsibility to act to protect the judicial system, especially when we have repeated pronouncements from our courts on the abuse of their processes.
+16.&nbsp;To begin with, we will reduce the number of supporting documents accompanying the SDRP application to require only key supporting documents.
+
+<p style="margin-left: 40px">(a)	A Restructuring Adviser, who is a licensed insolvency practitioner appointed by the company to advise the company in matters relating to its entry into the SDRP will assess whether the company reaches or matches the requirements for the SDRP, and request for further documents from the company if necessary.</p>
+
+<p style="margin-left: 40px">(b)  This simplifies the entry process.</p>
 
 {:start="17"}
-17.&nbsp;The current provisions of the AOJPA, in principle, already cover egregious abuse of process. Specifically, section 3(1)(e) of the AOJPA, which relates to contempt by interference with the administration of justice, captures: “Any person who … intentionally does any … act that interferes with, obstructs or poses a real risk of interference with or obstruction of the administration of justice … if the person knows or ought to have known that the act would interfere with, obstruct or pose a real risk of interference with or obstruction of the administration of justice.”
+17.&nbsp;Companies failing to successfully complete the SDRP (including the current SDRP) will be barred for five years before they can again apply for the SDRP. This serves to protect the interests of creditors, and also prevents errant companies from abusing the SDRP by making repeated entry applications to avoid its obligations to creditors.
 
 {:start="18"}
-18.&nbsp;However, the language of the current provision, which I have just read, is broad. We have decided that the legal position can be made clearer on how the general standard set out in section 3(1)(e) applies to the context of abuse of process.
+18.&nbsp;Under Clause 6, the Restructuring Adviser has the discretion to assess whether the company meets both the requirements under section 72F(1) for entry into the SDRP. This refers to the general eligibility criterion that the company’s total liabilities must not exceed $2 million and that there is no circumstance in existence that would render the company unsuitable for acceptance into the SDRP.
 
 {:start="19"}
-19.&nbsp;The amendments which we are proposing are therefore clarificatory in nature. They do not lower the current threshold for contempt of court.
+19.&nbsp;To give members some colour into the second criterion, one such circumstance is prescribed in the amended section 72F(3)(h), which is when the company is unlikely to be able to formulate a proposed compromise with its creditors, or to obtain the agreement of two thirds majority (by value) of its creditors to the proposed compromise or arrangement, within the moratorium period after the company’s entry into the SDRP.
 
 {:start="20"}
-20.&nbsp;Besides providing legal clarity, our intent is also to send a clear signal to deter abuse of the court process. The amendments will make it clear to the public and potential court users that egregious cases of abuse of process will amount to contempt of court and that such conduct can attract criminal sanctions.
+20.&nbsp;While the company is in the SDRP the company enjoys a statutory moratorium under the amended section 72K(1) of a period of 30 days, which is extendable once for a period of up to 30 days. So you get 30 plus 30 – a maximum of 60 days for a moratorium within which to frame the restructuring proposal.
 
 {:start="21"}
-21.&nbsp;This is also in line with established legal position in other jurisdictions.
-
-<p style="margin-left: 40px">(a) In the UK, the Supreme Court has emphasised that serious cases of abuse of process involving false claims ought to be sanctioned as contempt of court. The court noted that such claims undermine the system in a number of serious ways, including imposing a burden upon honest claimants and damaging the system of adversarial justice which depends upon openness, transparency and honesty.</p>
-
-<p style="margin-left: 40px">(b) The Indian Supreme Court has also recognised that abuse of process that is calculated to hamper the due course of judicial proceedings or the orderly administration of justice amounts to contempt of court. The Court noted that such conduct extends its influence beyond the parties to the action, and affects the public’s interest in the administration of justice.</p>
-
-<b><u>II. KEY AMENDMENTS TO THE ACT</u></b>
+21.&nbsp;This, Sir, balances the interests of the various stakeholders by providing reasonable breathing room to the company to propose a debt restructuring plan, whilst at the same time protecting the interests of the creditors. Members will know that during the moratorium period, there will be no enforcement against the corporate entity.
 
 {:start="22"}
-22.&nbsp;Having set out the background and the policy rationale, I will now take Honourable Members through the details of the proposed amendments. The key point to note is that the provisions reflect what is already the current law.
-
-<p style="margin-left: 40px"><b><u>(A) New Section 3(1)(da) and (db)</u></b></p>
+22.&nbsp;Once the company has entered into the SDRP, its Restructuring Adviser will provide assistance in drawing up the debt restructuring proposal to its creditors. 
 
 {:start="23"}
-23.&nbsp;Under Clause 2 of the Bill, the proposed new sections 3(1)(da) and (db) of the Act clarify what kinds of conduct would amount to contempt by interference with the administration of justice.
+23.&nbsp;Unlike the current programme where the proposal requires Court sanction, Clause 16 of the Bill provides that the proposal will be approved out-of-court and by the company’s creditors at a meeting summoned by the Restructuring Adviser under the new section 72M.
 
 {:start="24"}
-24.&nbsp;The new provisions apply to all court proceedings in Singapore, whether conducted by a self-represented person or a lawyer. Three categories of egregious abuse of process are set out:
+24.&nbsp;The notice to summon the meeting must contain such information as is set out in section 72M(3) and I will just quickly summarise what they are.
 
-<p style="margin-left: 40px">(a) First, the conduct or commencement of a court proceeding, which the person knows or ought to have known involves a deception on the court, is fictitious or constitutes a mere sham.</p>
+<p style="margin-left: 40px">•	It must include —</p>
+<p style="margin-left: 80px">-	the details of the proposal;</p>
+<p style="margin-left: 80px">-	a statement of the effects of the proposal on creditors’ rights;</p>
+<p style="margin-left: 80px">-	a comparison of what the creditors will receive in the proposal and the most likely scenario if the compromise or arrangement pursuant to the proposal does not become binding on the company and its creditors; and</p>
+<p style="margin-left: 80px">-	it must also contain information on the Restructuring Adviser’s remuneration.</p>
 
-<p style="margin-left: 40px">(b) Second, the conduct or commencement of a court proceeding, which the person knows or ought to have known is manifestly groundless or without foundation and involves the process of the court being used for an ulterior or improper purpose. These requirements are cumulative. Under this category, it is not sufficient to just have a manifestly groundless claim, or to have found an improper purpose. You must have both.</p>
+<p style="margin-left: 40px">•	This notice must be given to every creditor of the company.</p>
 
-<p style="margin-left: 40px">(c) Third, the conducting or commencing of multiple or successive court proceedings, which the person knows or ought to have known are manifestly groundless or without foundation.</p>
+<p style="margin-left: 40px">•	In practice, as Members would know how such restructurings take place, the Restructuring Adviser would have engaged in informal discussions and talks with the creditors prior to the meeting, and depending on the outcome of these discussions, the Restructuring Adviser would by then already have a keen sense of how the creditors would expect to receive the proposal, and whether any changes might need to be made, while the creditors would also have heard about the proposal’s terms before formally receiving the notice.</p>
+
+<p style="margin-left: 40px">•	Nevertheless, we believe that this is essential as the notice is a formal measure to provide substantive fairness to all creditors so that they are apprised of the terms of the proposal, and know ahead of the meeting what they are going in for prior to the meeting.</p>
 
 {:start="25"}
-25.&nbsp;Deceiving the court, abusing the court process by filing baseless claims for an improper purpose, or launching multiple baseless court proceedings – these are acts of abuse that are clearly egregious, and which cannot be condoned. These are also acts which would already fall within the current section 3(1)(e) of the AOJPA, as acts which interfere with the administration of justice. Our amendments therefore do not change the current legal standard. Rather, they provide clearer signposting in setting out the types of conduct that would amount to contempt of court.
-
-<p style="margin-left: 40px"><b><u>(B) New Section 3(7): Persons who cause or abet such conduct will also be liable for contempt of court</u></b></p>
+25.&nbsp;The proposal is approved by a majority of at least two-thirds in value of creditors present and voting at the meeting. This threshold remains unchanged from the existing programme.
 
 {:start="26"}
-26.&nbsp;We have also considered that there may also be persons who are causing or abetting others to engage in the contemptuous conduct before our courts.
+26.&nbsp;There will be one voting class consisting of all unsecured creditors, ordinary and preferential (if applicable).
+
+<p style="margin-left: 40px">•	Secured creditors will only be bound by the proposal if the value of the security interest is less than the value of the secured creditor’s admissible debts or claims, only to the extent of the difference between the values, and that means the undersecured portion. In other words, for Members’ clarity, the difference between the value of the security for a secured creditor and the unsecured portion. So the differential is the only portion that will apply; and</p>
+
+<p style="margin-left: 40px">•	Secured creditors will also be bound by the proposal if the value of the secured interest is equal to or more than the value of the secured creditor’s admissible debts or claims — but only to the extent that the creditor consents to be bound. So in some cases, the creditor might well have sufficient security, but might decide that the restructuring proposal makes sense and wants to participate and take part, in which case, the creditor can support the restructuring arrangement.</p>
+
+<p style="margin-left: 40px">•	This means, therefore, that a secured creditor is free to realise or deal with his security interest unless he has voted in favour of the proposal and consented to be bound, and the proposal’s terms prevent him from realising or otherwise dealing with his security interest.</p>
 
 {:start="27"}
-27.&nbsp;The usual levers of striking out and costs orders will not deter them, as they are not involved in the court proceedings.
+27.&nbsp;Sir, there are judicial safeguards for creditors with legitimate concerns arising from the approved proposal.
+
+<p style="margin-left: 40px">•	A creditor who is bound by the proposal can apply to Court to object to the proposal on specified grounds under section 72N(3), where —</p>
+
+<p style="margin-left: 80px">-	there is a material procedural irregularity in relation to the meeting of the company and its creditors to approve the proposal or in relation to the approval of the creditors at the meeting;</p>
 
 {:start="28"}
 28.&nbsp;To deter such behaviour, Clause 2(d) of the Bill provides that persons who cause or abet egregious abuse of our court process as provided for under the new section 3(1)(da) and (db) will also be liable for contempt.
