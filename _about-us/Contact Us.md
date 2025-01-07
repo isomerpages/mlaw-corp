@@ -6,7 +6,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h3><strong>Closure of MinLaw Counter Services and Services Centre</strong></h3>
+<h3><strong>Closure of MinLaw Services Centre and Counter Services</strong></h3>
 </blockquote>
 <p>The Ministry of Law Services Centre and video conferencing counter at
 the State Courts, Help Centre at Basement 1, will close on the following
