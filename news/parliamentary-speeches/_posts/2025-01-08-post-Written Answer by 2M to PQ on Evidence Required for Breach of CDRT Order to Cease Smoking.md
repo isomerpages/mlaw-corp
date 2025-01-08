@@ -1,5 +1,7 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Evidence Required for Breach of Disputes Resolution Tribunal Order to Cease Smoking at Home
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Evidence
+  Required for Breach of Disputes Resolution Tribunal Order to Cease Smoking at
+  Home
 permalink: /written-answer-by-2m-to-pq-on-evidence-required-for-breach-of-cdrt-order-to-cease-smoking-at-home/
 date: 2025-01-08
 layout: post
@@ -14,7 +16,7 @@ variant: markdown
 <b>Mr Louis Ng Kok Kwang (Member of Parliament for Nee Soon GRC)</b>
 
 <b><u>Question:</u></b>
-<br>To ask the Minister for Law hat kind of evidence needs to be presented to the Community Disputes Resolution Tribunals (CDRT) to demonstrate that there is a breach of the CDRT order for a neighbour to stop smoking at home.
+<br>To ask the Minister for Law what kind of evidence needs to be presented to the Community Disputes Resolution Tribunals (CDRT) to demonstrate that there is a breach of the CDRT order for a neighbour to stop smoking at home.
 
 <b><u>Written Answer:</u></b>
 
