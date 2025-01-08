@@ -1,7 +1,6 @@
 ---
-title: Written Answer by 2M to PQ on Evidence Required for Breach of CDRT Order
-  to Cease Smoking
-permalink: /written-answer-by-2m-to-pq-on-evidence-required-for-breach-of-cdrt-order-to-cease-smoking/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Evidence Required for Breach of Disputes Resolution Tribunal Order to Cease Smoking at Home
+permalink: /written-answer-by-2m-to-pq-on-evidence-required-for-breach-of-cdrt-order-to-cease-smoking-at-home/
 date: 2025-01-08
 layout: post
 description: ""
