@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by Minister of State for Law Murali Pillai to PQ on the Legal Aid Bureau Has Made Provisions to Offer Non-Digital Access to Its Services
+title: Oral Answer by Minister of State for Law Murali Pillai to PQ on How the Legal Aid Bureau Has Made Provisions to Offer Non-Digital Access to Its Services
 permalink: /oral-answer-by-mos-murali-pillai-to-pq-on-lab-making-provisions-to-offer-non-digital-access/
 date: 2025-01-08
 layout: post
