@@ -1,7 +1,7 @@
 ---
 title: Closing Speech by Second Minister, Ministry of Law, Mr Edwin Tong on the
-  Second Reading
-permalink: /closing-speech-by-second-minister-ministry-of-law-mr-edwin-tong-on-the-second-reading/
+  Second Reading of the Insolvency, Restructuring and Dissolution (Amendment) Bill
+permalink: /closing-speech-second-minister-ministry-of-law-edwin-tong-on-second-reading-insolvency-restructuring-dissolution-amendment-bill/
 date: 2025-01-07
 layout: post
 description: ""
