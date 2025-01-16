@@ -35,10 +35,10 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
 Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
 Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
-Public Defender's Office</p>
+Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>04 Jan 2025 (Sat) 1400 hrs to 06 Jan 2025 (Mon), 0800 hrs</p>
+<p>17 Jan 2025 (Fri) 1900 hrs to 17 Jan 2025 (Fri), 2359 hrs</p>
 </td>
 </tr>
 <tr>
