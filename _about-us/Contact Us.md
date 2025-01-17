@@ -9,8 +9,7 @@ description: ""
 <h3><strong>Closure of MinLaw Services Centre and Counter Services</strong></h3>
 </blockquote>
 <p>The Ministry of Law Services Centre and video conferencing counter at
-the State Courts, Help Centre at Basement 1, will close on the following
-dates:</p>
+the State Courts, Help Centre at Basement 1, will close on:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,17 +27,6 @@ dates:</p>
 <th rowspan="1" colspan="1">
 <p>Resumption Date</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 January 2025 (Friday), 12pm - 5pm (Staff event)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 January 2025</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
