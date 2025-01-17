@@ -31,17 +31,6 @@ dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 January 2025 (Friday), 12pm - 5pm (Staff event)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 January 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>28 January 2025 (Tuesday), 12pm - 5pm
 <br>(Chinese New Year's Eve)</p>
 </td>
