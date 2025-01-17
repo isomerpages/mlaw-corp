@@ -54,7 +54,7 @@ variant: markdown
 <b>MINISTRY OF LAW</b>
 <p><b>17 JANUARY 2025</b>
 
-***
+
 
 </p><p><sup id="fn1">1.&nbsp;The Act advances our criminal justice system and contains various amendments aimed at (i) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (ii) enhancing transparency, fairness and coherence in our criminal court processes.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
