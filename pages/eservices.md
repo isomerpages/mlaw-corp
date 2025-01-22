@@ -38,7 +38,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan 2025 (Fri) 1900 hrs to 17 Jan 2025 (Fri), 2359 hrs</p>
+<p>24 Jan 2025 (Fri) 1900 hrs to 24 Jan 2025 (Fri), 2359 hrs</p>
 </td>
 </tr>
 <tr>
