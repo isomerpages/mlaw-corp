@@ -74,6 +74,9 @@ the State Courts, Help Centre at Basement 1, will close on:</p>
 <p>Licensing &amp; Regulation of Insolvency Practitioners</p>
 </li>
 <li>
+<p>Maintenance Enforcement Division</p>
+</li>
+<li>
 <p>Precious Stones and Precious Metals Dealers</p>
 </li>
 <li>
