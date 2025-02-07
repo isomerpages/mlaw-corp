@@ -31,10 +31,13 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maintenance Enforcement Division</p>
+<p>Insolvency Office, Public Trustee's Office, Registry of Moneylenders,
+Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering
+/ Countering The Financing Of Terrorism, Public Defender's Office, Maintenance
+Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Feb 2025 (Sat) 1400 hrs to 3 Feb 2025 (Mon), 0800 hrs</p>
+<p>8 Feb 2025 (Sat) 1400 hrs to 10 Feb 2025 (Mon), 0800 hrs</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +53,8 @@ Mediation Centre, MinLaw Online Enquiries</p>
 <td rowspan="1" colspan="1">
 <p>Insolvency Office, Public Trustee's Office, Registry of Moneylenders,
 Registry of Pawnbroker, Legal Aid Bureau, Divorce Aide, Anti-Money Laundering
-/ Countering The Financing Of Terrorism, Public Defender's Office</p>
+/ Countering The Financing Of Terrorism, Public Defender's Office, Maintenance
+Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every Fri, 1800 hrs to 2359 hrs</p>
