@@ -31,14 +31,11 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insolvency Office, Public Trustee's Office, Registry of Moneylenders,
-Registry of Pawnbroker, Legal Services Regulatory Authority, Exemptions
-(Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries,
-Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The
-Financing Of Terrorism, Maintenance Enforcement Division</p>
+<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
+Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Feb 2025 (Sat) 1400 hrs to 10 Feb 2025 (Mon), 0800 hrs</p>
+<p>10 Feb 2025 (Mon) 1800 hrs to 10 Feb 2025 (Mon), 2359 hrs</p>
 </td>
 </tr>
 <tr>
