@@ -35,7 +35,7 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Feb 2025 (Mon) 1800 hrs to 10 Feb 2025 (Mon), 2359 hrs</p>
+<p>21 Feb 2025 (Fri) 1800 hrs to 21 Feb 2025 (Fri) 2359 hrs</p>
 </td>
 </tr>
 <tr>
