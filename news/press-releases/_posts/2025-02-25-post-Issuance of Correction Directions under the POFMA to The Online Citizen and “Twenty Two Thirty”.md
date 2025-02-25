@@ -1,7 +1,6 @@
 ---
-title: Issuance of Correction Directions under the POFMA to The Online Citizen
-  and “Twenty Two Thirty”
-permalink: /issuance-of-correction-directions-under-the-pofma-to-the-online-citizen-and-twenty-two-thirty/
+title: Issuance of Correction Directions under the Protection from Online Falsehoods and Manipulation Act to The Online Citizen and “Twenty Two Thirty”
+permalink: /issuance-of-correction-directions-under-pofma-to-the-online-citizen-and-twenty-two-thirty/
 date: 2025-02-25
 layout: post
 description: ""
@@ -26,6 +25,6 @@ ii. &nbsp; “Twenty Two Thirty”, for its video posted on YouTube on 16 Februa
 3. &nbsp; For the facts of the case, please refer to the Factually article on the rental of and works carried out at 26 Ridout Road at the following link: [https://www.factually.gov.sg/corrections-and-clarifications/250225](https://www.factually.gov.sg/corrections-and-clarifications/250225).
 
 **MINISTRY OF LAW**
-<br>**23 FEBRUARY 2025**
+<br>**25 FEBRUARY 2025**
 
 <p class="right-side-updated">Last updated on 25 February 2025</p>
