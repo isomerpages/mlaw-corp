@@ -15,21 +15,21 @@ variant: markdown
 {:start="2"}
 2. What a pleasure to start the week with a very meaningful event. I would like to thank SHE for inviting me to this occasion, which highlights the important issues that women and girls face.&nbsp;
 
-{:start=“3”}
+{:start="3"}
 3.&nbsp;It is good to see so many familiar faces in the audience today. With your support, I have great confidence that we can make further progress on the challenges that women in Singapore face. By coming together on a common agenda, we will be better able to seize the opportunities to further advance women’s development in Singapore.&nbsp;
 
 <b><u>II. Online Harms</u></b>
 
-{:start=“4”}
+{:start="4"}
 4.&nbsp;Stefanie mentioned this earlier - one area indeed, that we have all been watching with great interest and concern, is the new frontiers in Internet and technology. While they have brought great benefits to society and the economy, they have also presented risks, including the safety and wellbeing of many, especially women and girls.&nbsp; International and local studies, including SHE’s study on online harms in 2023 and Sunlight Alliance for Action’s survey in 2022, have found that, compared to males, women and girls feel less safe online, and are more vulnerable to gender-based online harms such as sexual harassment and intimate image abuse.
 
-{:start=“5”}
+{:start="5"}
 5.&nbsp;This needs to change.&nbsp; Women should feel safe both in the real world and online. As I will share more later, the Government has been taking steps on various fronts to foster a safer and more responsible online space for all Singaporeans.
 
-{:start=“6”}
+{:start="6"}
 6.&nbsp;This Symposium is particularly timely, because it addresses <b>deepfake nudes</b>, a pressing and very real danger in today’s online landscape that disproportionately affects women and girls.
 
-{:start=“7”}
+{:start="7"}
 7.&nbsp;“Generative AI”, or “GenAI” has rapidly become part of our daily lives, transforming how we live, work and interact. However, GenAI also enables increasingly convincing deepfakes. For those of you who have tried, you would know that anyone can generate an extremely realistic photo within seconds with just a few text prompts. The technology is only set to get better, cheaper and faster, which is all well and good, until it is misused for harmful purposes. Let me share a few examples.
 
 <p style="margin-left: 40px">a) First, GenAI has been used to create deepfake nudes of people without their consent. Many of you may still recall reading about the deepfake pornographic images of Taylor Swift that went viral last year.</p>
@@ -38,16 +38,16 @@ variant: markdown
 
 <p style="margin-left: 40px">c) Third, the technology has been used to create deepfakes that depict people doing or saying things that they have not said or done, with the intention to mislead, deceive or distort. Just a few months ago, more than 100 recipients across 31 government agencies were blackmailed with deepfake images of them depicted in compromising situations.</p>
 
-{:start=“8”}
+{:start="8"}
 8.&nbsp;These are just a few examples of what will no doubt be an increasingly prevalent problem.&nbsp;
 
-{:start=“9”}
+{:start="9"}
 9.&nbsp;In past speeches, I shared how children can be <i>both</i> victims and perpetrators. I cited a 2023 case in Spain where schoolgirls as young as 11 had deepfake nudes suspected to have been created by their male classmates circulated on social media. It is deeply concerning that this conduct has crept into our local schools as well. I was dismayed when the news broke last November about the police investigating students from a local school for generating and circulating deepfake nudes of their female schoolmates.&nbsp;
 
-{:start=“10”}
+{:start="10"}
 10.&nbsp;It will come as no surprise that women are more often the victims of harmful deepfakes. It is estimated that around 95% of non-consensual deepfake pornography features women.
 
-{:start=“11”}
+{:start="11"}
 11.&nbsp;We need to take a strong stand against such deepfakes, because they can have a severe and long-lasting impact on the girls and women involved. Victims may suffer emotional, physical, reputational or even financial harm. For instance, they may be shamed and ostracised, or find it untenable to continue in their jobs.&nbsp;
 
 {:start=“12”}
