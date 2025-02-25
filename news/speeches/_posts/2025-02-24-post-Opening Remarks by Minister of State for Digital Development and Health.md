@@ -1,6 +1,6 @@
 ---
-title: Opening Remarks by Minister of State for Digital Development and Health
-permalink: /opening-remarks-by-minister-of-state-for-digital-development-and-health/
+title: Opening Remarks by Minister of State for Digital Development and Health, Mdm Rahayu Mahzam, at the 2025 SG Her Empowerment Annual Symposium
+permalink: /opening-remarks-by-minister-of-state-for-digital-development-and-health-rahayu-mahzam-2025-she-annual-symposium/
 date: 2025-02-24
 layout: post
 description: ""
