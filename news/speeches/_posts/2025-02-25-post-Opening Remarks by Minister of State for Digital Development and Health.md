@@ -50,63 +50,63 @@ variant: markdown
 {:start="11"}
 11.&nbsp;We need to take a strong stand against such deepfakes, because they can have a severe and long-lasting impact on the girls and women involved. Victims may suffer emotional, physical, reputational or even financial harm. For instance, they may be shamed and ostracised, or find it untenable to continue in their jobs.&nbsp;
 
-{:start=“12”}
+{:start="12"}
 12.&nbsp;How deeply violating it must be of one’s dignity and privacy, to see your face on an obscene image that is published publicly. How distressing must be the thought that your school, employer or family members might see it?&nbsp; And how helpless one must feel, being unable to control how these pictures might spread and lurk on the Internet forever.
 
-{:start=“13”}
+{:start="13"}
 13.&nbsp;Unless we wholeheartedly reject deepfake nudes as a society, they can also erode our social norms. Deepfake nudes undermine the value of consent, perpetuate harmful gender stereotypes, and contribute to the sexualisation and objectification of women.&nbsp;
 
-{:start=“14”}
+{:start="14"}
 14.&nbsp;Deepfakes are only the latest form of online harms that women and girls face. We are all familiar with harassment, stalking and intimate image abuse. Other similarly egregious online harms such as cyberbullying and sexual harassment are by now familiar. And no wonder: research has found that some of these harms disproportionately target women and girls as well. According to a survey conducted by SHE in 2023, female youths are more at risk for harms of a sexual nature, with female youths almost twice as likely to experience sexual harassment.&nbsp;
 
-{:start=“15”}
+{:start="15"}
 15.&nbsp;So what have we been doing about the situation?
 
-{:start=“16”}
+{:start="16"}
 16.&nbsp;The Government has been working to enhance the relevant legal frameworks to better regulate the online space and protect victims from online harms. Amongst other efforts:
 
 <p style="margin-left: 40px">a) We amended the Broadcasting Act in 2023 to regulate Online Communication Services (OCSs), such as social media services and app stores. The IMDA can issue directions to disable access by Singapore users to egregious content found on such services. IMDA has also introduced two Codes of Practice for Online Safety, ensuring that designated social media services and app stores have systems and processes in place to tackle harmful online content, including sexual content. Notably, the Code of Practice for Online Safety for App Distribution Services will require designated app stores to implement age assurance measures. As a start, they should ensure that those under 18 are restricted from accessing and downloading age-inappropriate apps.</p>
 
 <p style="margin-left: 40px">b) We also introduced the Online Criminal Harms Act in 2023 to deal more effectively with online criminal content and activity. This includes empowering the authorities to issue directions to online platforms to restrict the exposure of Singapore users to criminal activities on these platforms.</p>
 
-{:start=“17”}
+{:start="17"}
 17.&nbsp;However, we realised that more needs to be done as online harms remain prevalent despite these efforts. Existing measures should be further strengthened to better protect victims and provide them with more timely and effective relief.
 
-{:start=“18”}
+{:start="18"}
 18.&nbsp;As Prime Minister Lawrence Wong had announced at the launch of Smart Nation 2.0, the Government will introduce new legislation and measures to provide stronger assurance to victims, including the establishment of a dedicated agency to support victims of online harms. Examples of the online harms to be covered include sexual harassment and the non-consensual sharing of intimate images, which could include deepfake nudes.&nbsp;
 
-{:start=“19”}
+{:start="19"}
 19.&nbsp;Details on the proposed legislation and measures, which were developed in consultation with industry and stakeholders, were shared during the public consultation conducted by the Ministry of Law and the Ministry of Digital Development and Information late last year. The public consultation findings will be shared in due course.
 
 <b><u>III. Operationalisation of the new Maintenance Enforcement Process</u></b>
 
-{:start=“20”}
+{:start="20"}
 20.&nbsp;Before I wrap up, let me take this opportunity to turn to another domain where we have made good progress on women’s development. This is really a bit of a report card, because we have been working on many different aspects of women’s development, and I thought it is just a good occasion to share some of this. It is on the implementation of the Maintenance Enforcement Process. I have colleagues from the new Maintenance Enforcement Division here with a booth today, and I would like to take this opportunity to introduce their work.&nbsp;
 
-{:start=“21”}
+{:start="21"}
 21.&nbsp;We discussed this at the last Symposium, and I think it is of interest to those present today. Many of you would know that a key challenge some women face after divorce is to enforce the maintenance they are owed. Not only can it take significant time and effort, it is also not uncommon to hear of women who found this a futile exercise.&nbsp;
 
-{:start=“22”}
+{:start="22"}
 22.&nbsp;This is why the Government has made major changes to the process for enforcing maintenance orders. We changed the law in 2023, and I am happy to update that we commenced the first phase of implementation last month.&nbsp;
 
-{:start=“23”}
+{:start="23"}
 23.&nbsp;Under the new process, Maintenance Enforcement Officers – or “<b>MEOs</b>” in short – will conduct conciliation between the parties and refer them for financial assistance if appropriate. Crucially, they are also empowered to conduct fact-finding on the parties’ financial circumstances. The information gathered by the MEOs will help the parties consider the prospects of a settlement, or help the Court make more targeted and effective enforcement orders.
 
-{:start=“24”}
+{:start="24"}
 24.&nbsp;It will take time for results to show, but we believe this new approach will facilitate more sustainable maintenance outcomes for parties. This will in turn reduce the need for repeated enforcement, and allow parties to heal and move on with their lives.
 
-{:start=“25”}
+{:start="25"}
 25.&nbsp;I encourage those of you who are interested to head over to the booth, and our friendly MEOs will be happy to share more details with you.
 
 <b><u>IV. Operationalisation of the new Maintenance Enforcement Process</u></b>
 
-{:start=“26”}
+{:start="26"}
 26.&nbsp;I think this is really a representation of what can happen when people come together, when issues are raised, and when the Government looks into the issue and suggests and builds the framework. But it needs to have support from everyone, and it needs an ongoing effort to make sure that there are meaningful outcomes from the efforts that we take.
 
-{:start=“27”}
+{:start="27"}
 27.&nbsp;So in conclusion, I would like to again extend my appreciation to SHE for this invaluable support for some of the initiatives that I have shared about today. I hope everyone enjoys the exciting lineup of events, and that you will continue to be part of this effort of the important conversation of empowering, protecting and uplifting women in Singapore.
 
-{:start=“28”}
+{:start="28"}
 28.&nbsp;Thank you very much.
 
 
