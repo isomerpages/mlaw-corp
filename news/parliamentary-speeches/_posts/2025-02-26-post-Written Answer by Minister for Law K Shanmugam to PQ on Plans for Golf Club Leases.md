@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Plans for Golf
-  Club Leases
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-plans-for-golf-club-leases/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Plans for Golf Club Leases Expiring Before or In 2030
+permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-plans-for-golf-club-leases-expiring-before-or-in-2030/
 date: 2025-02-26
 layout: post
 description: ""
