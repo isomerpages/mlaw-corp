@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Minister for Law K Shanmugam to PQ on Current
-  Proportion of Landed Properties
-permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-current-proportion-of-landed-properties/
+title: Written Answer by Minister for Law K Shanmugam to PQ on Current Proportion of Landed Properties in Singapore on Freehold, 999-year Leases and on Leases Shorter Than 999 Years
+permalink: /written-answer-by-minister-for-law-k-shanmugam-to-pq-on-proportion-of-landed-properties-on-different-lease-types/
 date: 2025-02-27
 layout: post
 description: ""
