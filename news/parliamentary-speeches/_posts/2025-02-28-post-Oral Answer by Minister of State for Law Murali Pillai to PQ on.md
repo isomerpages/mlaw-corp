@@ -1,6 +1,6 @@
 ---
-title: Oral Answer by Minister of State for Law Murali Pillai to PQ on
-permalink: /oral-answer-by-minister-of-state-for-law-murali-pillai-to-pq-on/
+title: Oral Answer by Minister of State for Law Murali Pillai to PQ on public awareness of Magistrate's Complaints
+permalink: /oral-answer-by-minister-of-state-for-law-murali-pillai-to-pq-on-public-awareness-magistrates-complaints/
 date: 2025-02-28
 layout: post
 description: ""
