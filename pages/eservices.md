@@ -38,7 +38,7 @@ Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The
 Financing Of Terrorism, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Feb 2025 (Fri) 1800 hrs to 22 Feb 2025 (Sat) 0600hrs</p>
+<p>01 Mar 2025 (Sat) 1400 hrs to 03 Mar 2025 (Mon) 0800hrs</p>
 </td>
 </tr>
 <tr>
