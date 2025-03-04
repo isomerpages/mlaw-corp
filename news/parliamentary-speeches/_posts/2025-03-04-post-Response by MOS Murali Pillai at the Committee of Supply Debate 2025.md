@@ -1,6 +1,6 @@
 ---
-title: Response by MOS Murali Pillai at the Committee of Supply Debate 2025
-permalink: /response-by-mos-murali-pillai-at-the-committee-of-supply-debate-2025/
+title: Response Speech by MOS Murali Pillai at the Committee of Supply Debate 2025
+permalink: /response-speech-by-mos-murali-pillai-at-the-committee-of-supply-debate-2025/
 date: 2025-03-04
 layout: post
 description: ""
@@ -12,7 +12,7 @@ variant: markdown
 {:start="1"}
 1. Sir, I would like to start off by adding my appreciation to honourable members for their cuts, as well as their speeches in this debate. I would cover three broad areas: first, the prudent and imaginative use of state assets, second, safeguarding our society from concerns posed by emerging technologies, and third, access to justice.
 
-<b><u>I. STATE ASSETS AND HARNESSING TECHNOLOGY**</u></b>
+<b><u>I. STATE ASSETS AND HARNESSING TECHNOLOGY</u></b>
 
 **A. Prudent and Imaginative Use of State properties to support multi-generational living and community hubs**
 
@@ -156,7 +156,7 @@ variant: markdown
 {:start="25"}
 25. We have consulted stakeholders such as the Singapore Courts, Law Society and IMDA, and will consult the industry in due course.
 
-	<b><u>III. ENHANCING PROTECTIONS FOR THE VICTIMS OF ONLINE HARM</u></b>
+<b><u>III. ENHANCING PROTECTIONS FOR THE VICTIMS OF ONLINE HARM</u></b>
 
 {:start="26"}
 26. Another facet of digitalisation is the emerging threats to users and our community.
@@ -229,7 +229,7 @@ variant: markdown
 {:start="33"}
 33. The Government is committed to ensuring that victims have accessible and effective remedies when they suffer online harms.
 
-	<b><u>IV. UPDATE ON THE PROTECTION FROM HARASSMENT COURT</u></b>
+<b><u>IV. UPDATE ON THE PROTECTION FROM HARASSMENT COURT</u></b>
 
 {:start="34"}
 34. Mr Patrick Tay has asked for the figures relating to Protection from Harassment Court (PHC).
@@ -270,7 +270,7 @@ variant: markdown
 {:start="37"}
 37. The total number is 2,339 though there were 2,023 applications. This is because a single application can contain complaints for more than one type of harassment.
 
-	<b><u>V. IMPLEMENTATION OF AMENDMENTS TO THE CRIMINAL PROCEDURE CODE RELATING TO PERSONAL BOND</u></b>
+<b><u>V. IMPLEMENTATION OF AMENDMENTS TO THE CRIMINAL PROCEDURE CODE RELATING TO PERSONAL BOND</u></b>
 	
 {:start="38"}
 38. I now turn to Ms Sylvia Lim’s query on the personal bond in criminal cases – an amendment in the Criminal Procedure (Miscellaneous Amendments) Act 2024.
@@ -298,35 +298,35 @@ variant: markdown
 42. Lastly, I turn to our work on: Ensuring access to justice.
 
 {:start="43"}
-43.	The Honourable Second Minister for Law Mr Edwin Tong mentioned about the good work of the Public Defender’s Office and the Legal Aid Bureau.
+43. The Honourable Second Minister for Law Mr Edwin Tong mentioned about the good work of the Public Defender’s Office and the Legal Aid Bureau.
 
 {:start="44"}
-44.	MinLaw is also working with various partners to increase access to justice, including through technology.
+44. MinLaw is also working with various partners to increase access to justice, including through technology.
 	
 {:start="45"}
-45.	Notably, we have collaborated with Pro Bono SG (PBSG) to develop LawGoWhere. Launched in March last year, this is a first-stop portal that consolidates access to legal information, legal services and law awareness resources. This year, a legal help finder will be integrated, to make it easier for users to seek legal information. Users may key in information such as their postal code and legal issue, and receive legal assistance options, such as their nearest legal clinics.
+45. Notably, we have collaborated with Pro Bono SG (PBSG) to develop LawGoWhere. Launched in March last year, this is a first-stop portal that consolidates access to legal information, legal services and law awareness resources. This year, a legal help finder will be integrated, to make it easier for users to seek legal information. Users may key in information such as their postal code and legal issue, and receive legal assistance options, such as their nearest legal clinics.
 
 {:start="46"}
-46.	Even as the use of technology increases, we are mindful of the digital divide, a point that Dr Tan Wu Meng made.
+46. Even as the use of technology increases, we are mindful of the digital divide, a point that Dr Tan Wu Meng made.
 
 {:start="47"}
-47.	On his query, measures have been taken to ensure that justice remains accessible to everyone, regardless of their level of familiarity with technology. For example: Individuals who have difficulties with court e-services like CJTS, can contact the State Courts by calling their hotline. They may also visit the State Courts Business Centre to access digital terminals or approach the State Courts Service Hub if they require assistance.
+47. On his query, measures have been taken to ensure that justice remains accessible to everyone, regardless of their level of familiarity with technology. For example: Individuals who have difficulties with court e-services like CJTS, can contact the State Courts by calling their hotline. They may also visit the State Courts Business Centre to access digital terminals or approach the State Courts Service Hub if they require assistance.
 
 **B. Other Law Reforms**
 	
 {:start="48"}
-48.	Before I conclude, Mr Chairman, I would like to thank Honourable Members for their comments.
+48. Before I conclude, Mr Chairman, I would like to thank Honourable Members for their comments.
 	
 {:start="49"}
-49.	Ms Usha Chandradas spoke about possible areas for law reform. Given the full slate of work outlined, some of these reviews will require more time for careful consideration. I understand from MSF that the same also applies to the 2000 Protection of Adults Convention.
+49. Ms Usha Chandradas spoke about possible areas for law reform. Given the full slate of work outlined, some of these reviews will require more time for careful consideration. I understand from MSF that the same also applies to the 2000 Protection of Adults Convention.
 	
 {:start="50"}
-50.	Prof Razwana also spoke about recidivism. This was covered by MHA in their COS.
+50. Prof Razwana also spoke about recidivism. This was covered by MHA in their COS.
 	
 <b><u>VII. CONCLUSION</u></b>
 
 {:start="51"}
-51.	Mr Chairman Sir, in conclusion:
+51. Mr Chairman Sir, in conclusion:
 
 </p><p style="margin-left: 40px">
 (a) 2M spoke about the importance of the law and legal processes on achieving good outcomes for Singapore – underpinned by the rule of law.
@@ -347,6 +347,6 @@ variant: markdown
 (f) I have covered SLA’s efforts to optimise the use of State assets to meet changing needs and developments on the Digital Conveyancing Portal; our efforts to maintain a robust and balanced IP regime that supports creativity and innovation, as well as ensuring that the legal profession uses GenAI safely and responsibly; new legislation to enhance protection for the vulnerable online; updates on the Protection from Harassment Court; implementation of reforms on Personal Bond; and leveraging technology for access to justice while preventing a digital divide.
 
 {:start="52"}
-52.	Together, these form the foundations of our shared public life. Laws are made together, and made legitimate, in this House, but it is only in the living and working out of these rules, that we as a country, give them life. Thank you.
+52. Together, these form the foundations of our shared public life. Laws are made together, and made legitimate, in this House, but it is only in the living and working out of these rules, that we as a country, give them life. Thank you.
 	
-</p><p class="right-side-updated">Last updated on 4 March 2024</p>
+</p><p class="right-side-updated">Last updated on 4 March 2025</p>
