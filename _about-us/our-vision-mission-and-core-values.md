@@ -1,11 +1,9 @@
 ---
-title: 'Our Vision, Mission and Core Values'
+title: Our Vision, Mission and Core Values
 permalink: /about-us/ourvision-mission-corevalues/
-breadcrumb: 'Our Vision, Mission and Core Values'
-
+breadcrumb: Our Vision, Mission and Core Values
+variant: markdown
 ---
-
-
 <style>
  .image {width: 600px;}
  .image img {max-width: 100%;}
@@ -18,7 +16,7 @@ Our Vision, Mission and Core Values
 
 **Vision**
 
-A Trusted Legal System; A Trusted Singapore.<br><br>
+A Trusted Legal System; A Trusted Singapore<br><br>
 
 **Mission**
 
@@ -41,4 +39,4 @@ Advancing access to justice, the rule of law, the economy and society through po
 *We work together for the best results, and to bring out the best in one another.*<br>
 *We learn and innovate to do things better.*
 
-<p class="right-side-updated">Last updated on 27 Jul 2017</p> 
+<p class="right-side-updated">Last updated on 27 Jul 2017</p>
