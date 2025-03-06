@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Vision</strong>
 </p>
-<p>A Trusted Legal System; A Trusted Singapore
+<p>A Trusted Legal System; A Trusted Singapore.
 <br>
 <br>
 </p>
