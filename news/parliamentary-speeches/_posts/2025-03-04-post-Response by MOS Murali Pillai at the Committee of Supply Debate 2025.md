@@ -10,7 +10,7 @@ variant: markdown
 4 Mar 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 {:start="1"}
-1. Sir, I would like to start off by adding my appreciation to honourable members for their cuts, as well as their speeches in this debate. I would cover three broad areas: first, the prudent and imaginative use of state assets, second, safeguarding our society from concerns posed by emerging technologies, and third, access to justice.
+1. Sir, I would like to start off by adding my appreciation to honourable members for their cuts, as well as their speeches in this debate. I would cover three broad areas: first, the prudent and imaginative use of State assets, second, safeguarding our society from concerns posed by emerging technologies, and third, access to justice.
 
 <b><u>I. STATE ASSETS AND HARNESSING TECHNOLOGY</u></b>
 
