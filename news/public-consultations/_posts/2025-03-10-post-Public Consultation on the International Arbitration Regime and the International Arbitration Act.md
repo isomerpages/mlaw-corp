@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Public Consultation on the International Arbitration Regime and the International Arbitration Act </h2>
+<h2>Public Consultation on the International Arbitration Regime and the International Arbitration Act</h2>
 <p><strong>Consultation Period</strong>: [17 March 2025 to 28 April 2025]</p>
 <p>1. The Ministry of Law is seeking feedback on Singapore's international
 arbitration regime and the International Arbitration Act 1994 ("IAA").</p>
