@@ -44,7 +44,7 @@ should be set out in the IAA.</p>
 <p>5. The public consultation paper can be accessed below:</p>
 <p><strong>Invitation to Provide Feedback</strong>
 </p>
-<p>6. Please submit your feedback by 2 August 2024 via FormSG using the link
+<p>6. Please submit your feedback by 28 April 2025 via FormSG using the link
 ( ) or the following QR Code: ( )</p>
 <p>7. Your feedback is important to us. All comments received will be considered.
 However, we seek your understanding that we will not be able to individually
