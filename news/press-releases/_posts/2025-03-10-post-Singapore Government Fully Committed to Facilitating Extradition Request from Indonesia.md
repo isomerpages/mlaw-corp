@@ -53,6 +53,6 @@ variant: markdown
 
 </p><p><sup id="fn1">1.&nbsp;The Treaty aims to strengthen our countries’ bilateral cooperation to combat crime, and was entered into force on 22 March 2024.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-**ANNEX: Timeline**
+**Annex: Timeline**
 ![](/images/Annex___Timeline_for_Extradition_Request_from_Indonesia.jpg)
 
