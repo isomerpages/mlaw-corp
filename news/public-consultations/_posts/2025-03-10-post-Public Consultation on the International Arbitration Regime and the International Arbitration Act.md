@@ -25,20 +25,20 @@ arbitration regime in Singapore and the IAA.</p>
 <p>4. To assist in our assessment of SIDRA’s study, we invite members of
 the public to provide views on SIDRA’s report, with a focus on the following
 eight (8) issues:</p>
-<p>a. Issue 1: Whether to confer the power to make cost orders for arbitral
-proceedings following a successful setting aside of an award on the court;</p>
-<p>b. Issue 2: Whether separate cost principles should be applied in respect
-of unsuccessful setting aside applications;</p>
-<p>c. Issue 3: Whether to introduce a leave requirement for appeals to the
-Court of Appeal arising from a High Court decision in a setting aside application;</p>
-<p>d. Issue 4: Whether the time limit to file a setting aside application
-should be reduced;</p>
-<p>e. Issue 5: Whether a right of appeal on questions of law is desirable;</p>
-<p>f. Issue 6: How to ascertain the governing law of the arbitration agreement;</p>
-<p>g. Issue 7: Whether the review of the tribunal’s jurisdiction should be
-conducted by way of an appeal or a rehearing; and</p>
-<p>h. Issue 8: Whether the summary disposal powers of arbitral tribunals
-should be set out in the IAA.</p>
+<p>a. Whether to confer the power to make cost orders for arbitral proceedings
+following a successful setting aside of an award on the court;</p>
+<p>b. Whether separate cost principles should be applied in respect of unsuccessful
+setting aside applications;</p>
+<p>c. Whether to introduce a leave requirement for appeals to the Court of
+Appeal arising from a High Court decision in a setting aside application;</p>
+<p>d. Whether the time limit to file a setting aside application should be
+reduced;</p>
+<p>e. Whether a right of appeal on questions of law is desirable;</p>
+<p>f. How to ascertain the governing law of the arbitration agreement;</p>
+<p>g. Whether the review of the tribunal’s jurisdiction should be conducted
+by way of an appeal or a rehearing; and</p>
+<p>h. Whether the summary disposal powers of arbitral tribunals should be
+set out in the IAA.</p>
 <p><strong>Public Consultation Paper</strong>
 </p>
 <p>5. The public consultation paper can be accessed below:</p>
