@@ -34,4 +34,4 @@ variant: markdown
 **Public Consultation**
 
 {:start="6"}
-6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report ([Academic Calendar](/files/Academic_Calendar_Sem___AY2024_25_LAW_Weekly_Calendar_Sem_2.pdf)) and submit feedback in electronic form:   (go.gov.sg/public-consultation-on-the-rni-committee-report-feedback)
+6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report ([Academic Calendar](/files/Academic_Calendar_Sem___AY2024_25_LAW_Weekly_Calendar_Sem_2.pdf)) and submit feedback in electronic form:   [Public Consultation Feedback](go.gov.sg/public-consultation-on-the-rni-committee-report-feedback)
