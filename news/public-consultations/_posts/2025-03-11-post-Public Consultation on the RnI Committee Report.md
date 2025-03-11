@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 {:start="1"}
 1.  The Committee to Enhance Singapore’s Corporate Restructuring and Insolvency Regime (the “**Committee**”) has on 11 March 2025 published its report (the “**Report**”), detailing its views, perspectives and recommendations on proposed amendments to further enhance Singapore's corporate debt restructuring and insolvency (“**R&I**”) framework.
 
@@ -35,4 +34,4 @@ variant: markdown
 **Public Consultation**
 
 {:start="6"}
-6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report \[link here\] and submit feedback in electronic form:   (go.gov.sg/public-consultation-on-the-rni-committee-report-feedback)
+6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report ([Academic Calendar](/files/Academic_Calendar_Sem___AY2024_25_LAW_Weekly_Calendar_Sem_2.pdf)) and submit feedback in electronic form:   (go.gov.sg/public-consultation-on-the-rni-committee-report-feedback)
