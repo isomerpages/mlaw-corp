@@ -1,5 +1,6 @@
 ---
-title: MinLaw Seeks Feedback on Recommendations to Enhance Singapore's Corporate Restructuring & Insolvency Regime
+title: MinLaw Seeks Feedback on Recommendations to Enhance Singapore's Corporate
+  Restructuring & Insolvency Regime
 permalink: /minlaw-seeks-feedback-on-recommendations-to-enhance-sg-s-corporate-r-i-regime/
 date: 2025-03-11
 layout: post
@@ -27,9 +28,9 @@ variant: markdown
 
 <p style="margin-left: 40px">b) Refining the cross-class cramdown in schemes of arrangements;</p>
 
-<p style="margin-left: 60px">c) Refining the framework and tools for efficient debt restructurings; and</p>
+<p style="margin-left: 40px">c) Refining the framework and tools for efficient debt restructurings; and</p>
 
-<p style="margin-left: 60px">d) Adopting the UNCITRAL Model Law on Enterprise Group Insolvency and the UNCITRAL Model Law on Recognition and Enforcement of Insolvency-Related Judgments.</p>
+<p style="margin-left: 40px">d) Adopting the UNCITRAL Model Law on Enterprise Group Insolvency and the UNCITRAL Model Law on Recognition and Enforcement of Insolvency-Related Judgments.</p>
 
 **Public Consultation**
 
