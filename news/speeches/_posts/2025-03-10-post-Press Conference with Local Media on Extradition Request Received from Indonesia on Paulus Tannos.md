@@ -127,3 +127,4 @@ far has been that we are working well with our Indonesian counterparts,
 for over a couple of years, not just in the context of this case of extradition,
 but also for cases of mutual legal assistance.</p>
 <p><strong>Minister: </strong>Thank you.</p>
+<p></p>
