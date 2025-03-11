@@ -35,4 +35,4 @@ variant: markdown
 **Public Consultation**
 
 {:start="6"}
-6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report ([Committee report](/files/RI_Committee_Report__11_Mar_25_.pdf)) and submit feedback in electronic form: <a href="https://go.gov.sg/public-consultation-on-the-rni-committee-report-feedback">Public Consultation Feedback</a>.
+6.  Members of the public are invited to share their views on the Committee’s report. Interested parties may view the Committee’s report ([Committee report](/files/RI_Committee_Report__11Mar2025_.pdf)) and submit feedback in electronic form: <a href="https://go.gov.sg/public-consultation-on-the-rni-committee-report-feedback">Public Consultation Feedback</a>.
