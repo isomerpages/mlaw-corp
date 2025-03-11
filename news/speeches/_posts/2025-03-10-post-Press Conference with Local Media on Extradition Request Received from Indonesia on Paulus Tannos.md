@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Minister: </strong>We want to talk about an extradition matter.
+<p><strong>Minister for Home Affairs and Law K Shanmugam (Minister): </strong>We want to talk about an extradition matter.
 On 19 December 2024, Singapore received a request from Indonesia to arrest
 Paulus Tannos. His Chinese name is Tjhin Thian Po. Tannos is wanted by
 Indonesia for his involvement in an alleged corruption matter, relating
