@@ -19,7 +19,7 @@ variant: markdown
 **Recommendations by the Committee**
 
 {:start="3"}
-3.&nbsp;Convened by MinLaw, the Committee<sup><a href="#fn1" id="ref1">1</a></sup> was tasked to consider measures to further enhance Singapore’s corporate debt restructuring and insolvency (“R&amp;I”) framework, and to attract even more international users to utilise Singapore's R&amp;I regime.
+3.&nbsp;Convened by MinLaw, the Committee<sup><a href="#fn1" id="ref1">1</a></sup> was tasked to consider measures to further enhance Singapore’s corporate debt restructuring and insolvency (“<b>R&amp;I</b>”) framework, and to attract even more international users to utilise Singapore's R&amp;I regime.
 
 {:start="4"}
 4.&nbsp;The Committee has completed its work and has published its report<sup><a href="#fn2" id="ref2">2</a></sup> detailing its views, perspectives and recommendations on proposed amendments. The Committee has made a total of nine recommendations, which fall into four broad categories:
