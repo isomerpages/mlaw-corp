@@ -1,5 +1,6 @@
 ---
-title: Public Consultation on the Report of The Committee to Enhance Singapore's Corporate Restructuring and Insolvency Regime
+title: Public Consultation on the Report of The Committee to Enhance Singapore's
+  Corporate Restructuring and Insolvency Regime
 permalink: /public-consultation-on-the-rni-committee-report/
 date: 2025-03-11
 layout: post
