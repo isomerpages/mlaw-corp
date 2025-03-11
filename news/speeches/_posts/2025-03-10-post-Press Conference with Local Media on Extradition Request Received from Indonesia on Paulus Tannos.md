@@ -1,7 +1,7 @@
 ---
-title: Press Conference with Local Media on Extradition Request Received from
+title: Transcript of Press Conference with Local Media on Extradition Request Received from
   Indonesia on Paulus Tannos
-permalink: /press-conference-with-local-media-on-extradition-request-received-from-indonesia-on-paulus-tannos/
+permalink: /transcript-of-press-conference-with-local-media-on-extradition-request-received-from-indonesia-on-paulus-tannos/
 date: 2025-03-10
 layout: post
 description: ""
@@ -128,3 +128,5 @@ for over a couple of years, not just in the context of this case of extradition,
 but also for cases of mutual legal assistance.</p>
 <p><strong>Minister: </strong>Thank you.</p>
 <p></p>
+
+<p class="right-side-updated">Last updated on 24 February 2025</p>
