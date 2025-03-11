@@ -1,5 +1,5 @@
 ---
-title: MinLaw Seeks Feedback on Recommendations to Enhance SG's Corporate R&I Regime
+title: MinLaw Seeks Feedback on Recommendations to Enhance Singapore's Corporate Restructuring & Insolvency Regime
 permalink: /minlaw-seeks-feedback-on-recommendations-to-enhance-sg-s-corporate-r-i-regime/
 date: 2025-03-11
 layout: post
