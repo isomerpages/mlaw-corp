@@ -129,4 +129,4 @@ but also for cases of mutual legal assistance.</p>
 <p><strong>Minister: </strong>Thank you.</p>
 <p></p>
 
-<p class="right-side-updated">Last updated on 24 February 2025</p>
+<p class="right-side-updated">Last updated on 10 March 2025</p>
