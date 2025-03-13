@@ -12,7 +12,7 @@ variant: markdown
 1.  The Committee to Enhance Singapore’s Corporate Restructuring and Insolvency Regime (the “**Committee**”) has on 11 March 2025 published its report (the “**Report**”), detailing its views, perspectives and recommendations on proposed amendments to further enhance Singapore's corporate debt restructuring and insolvency (“**R&amp;I**”) framework.
 
 {:start="2"}
-2.  The Ministry of Law welcomes the Report and will be carefully reviewing the recommendations. To assist with this review, the Ministry will be conducting a 4-week public consultation on the Committee’s recommendations.
+2.  The Ministry of Law welcomes the Report and will be carefully reviewing the recommendations. To assist with this review, the Ministry will be conducting a 4-week public consultation on the Committee’s recommendations that will run from 11 March to 8 April 2025.
 
 **Singapore’s Corporate Debt Restructuring and Insolvency Regime**
 
