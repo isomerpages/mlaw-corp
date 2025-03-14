@@ -1,6 +1,6 @@
 ---
 title: Official Trip to Hong Kong by Minister for Culture, Community and Youth
-  and Second Minister for Law
+  and Second Minister for Law Edwin Tong SC
 permalink: /official-trip-to-hong-kong-by-minister-for-culture-community-and-youth-and-second-minister-for-law/
 date: 2025-03-14
 layout: post
