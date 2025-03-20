@@ -7,5 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Consultation Period**: 20 March 2025 to 2 May 2025 
+**Consultation Period**: 20 March 2025 to 2 May 2025
+
+{:start="1"}
+1. The Ministry of Law is seeking feedback on Singapore’s international arbitration regime and the International Arbitration Act 1994 (“**IAA**”)
 
