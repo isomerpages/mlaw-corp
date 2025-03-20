@@ -15,7 +15,7 @@ variant: markdown
 **Background**
 
 {:start="2"}
-2.  This year marks the 30th anniversary of the IAA coming into force on 1 January 1995, pursuant to which Singapore adopted the UNCITRAL Model Law on International Commercial Arbitration (1985) (“**Model Law**”) to provide a legal framework for international arbitration proceedings.
+2.  This year marks the 30th anniversary of the IAA which came into force on 1 January 1995, pursuant to which Singapore adopted the UNCITRAL Model Law on International Commercial Arbitration (1985) (“**Model Law**”) to provide a legal framework for international arbitration proceedings.
 
 {:start="3"}
 3.  As part of our continual review to ensure that Singapore remains attractive as an arbitration forum, MinLaw commissioned the Singapore International Dispute Resolution Academy (“**SIDRA**”) to conduct a study on the international arbitration regime in Singapore and the IAA.
