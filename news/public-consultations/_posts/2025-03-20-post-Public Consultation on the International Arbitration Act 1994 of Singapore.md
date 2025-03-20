@@ -14,3 +14,6 @@ variant: markdown
 
 **Background**
 
+{:start="2"}
+2.  This year marks the 30th anniversary of the IAA coming into force on 1 January 1995, where Singapore adopted the UNCITRAL Model Law on International Commercial Arbitration (1985) (“**Model Law**”) to provide a legal framework for international arbitration proceedings. 
+
