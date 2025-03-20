@@ -44,4 +44,4 @@ variant: markdown
 {:start="5"}
 5.  The public consultation paper can be accessed below: 
 
-*[Public Consultation on the IAA ](/files/Arbitration/IAA_Consultation_Paper.pdf)
+*[Consultation Paper on the International Arbitration Act 1994 of Singapore](/files/Arbitration/IAA_Consultation_Paper.pdf)
