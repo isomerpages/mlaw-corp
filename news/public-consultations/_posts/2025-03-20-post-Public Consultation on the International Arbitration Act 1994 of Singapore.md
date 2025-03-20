@@ -38,3 +38,6 @@ variant: markdown
 (g) Whether the review of the tribunal’s jurisdiction should be conducted by way of an appeal or a rehearing; and
 
 (h) Whether the summary disposal powers of arbitral tribunals should be set out in the IAA.
+
+**Public consultation paper**
+
