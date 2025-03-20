@@ -21,7 +21,7 @@ variant: markdown
 3.  As part of our continual review to ensure that Singapore remains attractive as an arbitration forum, MinLaw commissioned the Singapore International Dispute Resolution Academy (“**SIDRA**”) to conduct a study on the international arbitration regime in Singapore and the IAA.
 
 {:start="4"}
-4.  To assist in our assessment of SIDRA’s study, we invite members of the public to provide views on SIDRA’s report, with a focus on the following eight (8) issues:
+4.  To assist in our assessment of SIDRA’s study and feedback received from various stakeholders, we invite members of the public to provide views on SIDRA’s report, with a focus on the following eight (8) issues:
 
 (a) Whether to confer the power to make cost orders for arbitral proceedings following a successful setting aside of an award on the court;
 
