@@ -23,21 +23,29 @@ variant: markdown
 {:start="4"}
 4.  To assist in our assessment of SIDRA’s study and feedback received from various stakeholders, we invite members of the public to provide views on SIDRA’s report, with a focus on the following eight (8) issues:
 
-(a) Whether to confer the power to make cost orders for arbitral proceedings following a successful setting aside of an award on the court;
+<p style="margin-left: 40px">
+(a) Whether to confer the power to make cost orders for arbitral proceedings following a successful setting aside of an award on the court;</p>
 
-(b) Whether separate cost principles should be applied in respect of unsuccessful setting aside applications;
+<p style="margin-left: 40px">
+(b) Whether separate cost principles should be applied in respect of unsuccessful setting aside applications;</p>
 
-(c) Whether to introduce a leave requirement for appeals to the Court of Appeal arising from a High Court decision in a setting aside application;
+<p style="margin-left: 40px">
+(c) Whether to introduce a leave requirement for appeals to the Court of Appeal arising from a High Court decision in a setting aside application;</p>
 
-(d) Whether the time limit to file a setting aside application should be reduced;
+<p style="margin-left: 40px">
+(d) Whether the time limit to file a setting aside application should be reduced;</p>
 
-(e) Whether a right of appeal on questions of law is desirable;
+<p style="margin-left: 40px">
+(e) Whether a right of appeal on questions of law is desirable;</p>
 
-(f) How to ascertain the governing law of the arbitration agreement;
+<p style="margin-left: 40px">
+(f) How to ascertain the governing law of the arbitration agreement;</p>
 
-(g) Whether the review of the tribunal’s jurisdiction should be conducted by way of an appeal or a rehearing; and
+<p style="margin-left: 40px">
+(g) Whether the review of the tribunal’s jurisdiction should be conducted by way of an appeal or a rehearing; and</p>
 
-(h) Whether the summary disposal powers of arbitral tribunals should be set out in the IAA.
+<p style="margin-left: 40px">
+(h) Whether the summary disposal powers of arbitral tribunals should be set out in the IAA.</p>
 
 **Public consultation paper**
 
