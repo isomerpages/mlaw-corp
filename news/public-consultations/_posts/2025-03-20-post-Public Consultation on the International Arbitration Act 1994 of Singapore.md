@@ -21,4 +21,20 @@ variant: markdown
 3.  As part of our continual review to ensure that Singapore remains attractive as an arbitration forum, MinLaw commissioned the Singapore International Dispute Resolution Academy (“**SIDRA**”) to conduct a study on the international arbitration regime in Singapore and the IAA.
 
 {:start="4"}
-4.  To assist in our assessment of SIDRA’s study, we invite members of the public to provide views on SIDRA’s report, with a focus on the following eight (8) issues: 
+4.  To assist in our assessment of SIDRA’s study, we invite members of the public to provide views on SIDRA’s report, with a focus on the following eight (8) issues:
+
+(a) Whether to confer the power to make cost orders for arbitral proceedings following a successful setting aside of an award on the court;
+
+(b) Whether separate cost principles should be applied in respect of unsuccessful setting aside applications;
+
+(c) Whether to introduce a leave requirement for appeals to the Court of Appeal arising from a High Court decision in a setting aside application;
+
+(d) Whether the time limit to file a setting aside application should be reduced;
+
+(e) Whether a right of appeal on questions of law is desirable;
+
+(f) How to ascertain the governing law of the arbitration agreement;
+
+(g) Whether the review of the tribunal’s jurisdiction should be conducted by way of an appeal or a rehearing; and
+
+(h) Whether the summary disposal powers of arbitral tribunals should be set out in the IAA.
