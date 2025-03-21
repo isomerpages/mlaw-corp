@@ -22,7 +22,7 @@ a legal framework for international arbitration proceedings. Singapore
 regularly reviews the IAA, and introduces revisions to update the legislation
 where necessary.</p>
 <p></p>
-<p>Study on Singapore’s international arbitration regime and the IAA</p>
+<p><strong>Study on Singapore’s international arbitration regime and the IAA</strong>
 <p></p>
 <p>4. Singapore is widely regarded as a global legal hub and one of the world’s
 leading international arbitration hubs. To strengthen our international
@@ -58,5 +58,5 @@ views and feedback may be submitted at the following link by 2 May 2025:
 <p></p>
 **MINISTRY OF LAW**
 <br>**21 MARCH 2025**
-</p>
+
 <p class="right-side-updated">Last updated on 21 March 2025</p>
