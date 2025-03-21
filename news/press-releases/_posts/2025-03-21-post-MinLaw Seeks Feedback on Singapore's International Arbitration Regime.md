@@ -59,5 +59,3 @@ views and feedback may be submitted at the following link by 2 May 2025:
 <p><strong>MINISTRY OF LAW</strong>
 </p>
 <p class="right-side-updated">Last updated on 21 March 2025</p>
-<p class="right-side-updated">Last updated on 25 February 2025</p><p><strong>21 MARCH 2025</strong>
-</p>
