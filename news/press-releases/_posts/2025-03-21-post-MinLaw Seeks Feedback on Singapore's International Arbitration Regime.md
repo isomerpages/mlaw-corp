@@ -53,7 +53,7 @@ be viewed online at <a href="https://www.mlaw.gov.sg/public-consultation-on-the-
 above as well as any other feedback on how Singapore’s international arbitration
 framework can be improved to better support the needs of the users. All
 views and feedback may be submitted at the following link by 2 May 2025:
-<a href="https://go.gov.sg/singapore-international-arbitration-regime" rel="noopener nofollow" target="_blank">https://go.gov.sg/singapore-international-arbitration-regime.</a>
+<a href="https://go.gov.sg/singapore-international-arbitration-regime" rel="noopener nofollow" target="_blank">https://go.gov.sg/singapore-international-arbitration-regime</a>.
 </p>
 <p></p>
 <p><strong>MINISTRY OF LAW</strong>
