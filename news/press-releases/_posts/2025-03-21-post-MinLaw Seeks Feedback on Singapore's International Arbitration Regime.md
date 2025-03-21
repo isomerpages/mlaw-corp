@@ -1,6 +1,6 @@
 ---
-title: MinLaw Seeks Feedback on Singapore's International Arbitration Regime
-permalink: /minlaw-seeks-feedback-on-singapore-s-international-arbitration-regime/
+title: MinLaw Seeks Feedback on Singapore's International Arbitration Regime and the International Arbitration Act 1994
+permalink: /minlaw-seeks-feedback-on-singapore-international-arbitration-regime-IAA/
 date: 2025-03-21
 layout: post
 description: ""
@@ -58,5 +58,6 @@ views and feedback may be submitted at the following link by 2 May 2025:
 <p></p>
 <p><strong>MINISTRY OF LAW</strong>
 </p>
-<p><strong>21 MARCH 2025</strong>
+<p class="right-side-updated">Last updated on 21 March 2025</p>
+<p class="right-side-updated">Last updated on 25 February 2025</p><p><strong>21 MARCH 2025</strong>
 </p>
