@@ -56,6 +56,7 @@ views and feedback may be submitted at the following link by 2 May 2025:
 <a href="https://go.gov.sg/singapore-international-arbitration-regime" rel="noopener nofollow" target="_blank">https://go.gov.sg/singapore-international-arbitration-regime.</a>
 </p>
 <p></p>
-<p><strong>MINISTRY OF LAW</strong>
+**MINISTRY OF LAW**
+<br>**21 MARCH 2025**
 </p>
 <p class="right-side-updated">Last updated on 21 March 2025</p>
