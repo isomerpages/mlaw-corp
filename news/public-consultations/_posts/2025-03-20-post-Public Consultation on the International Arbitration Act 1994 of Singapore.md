@@ -59,7 +59,7 @@ variant: markdown
 {:start="6"}
 6.  Please submit your feedback by 2 May 2025 via FormSG using this link: 
 
-* https://go.gov.sg/singapore-international-arbitration-regime 
+* [https://go.gov.sg/singapore-international-arbitration-regime ](https://go.gov.sg/singapore-international-arbitration-regime )
 
 {:start="7"}
 7.  Your feedback is important to us. All comments received will be considered. However, we seek your understanding that we will not be able to individually acknowledge or address every comment. To maintain confidentiality, we will anonymise and aggregate the results of this engagement exercise in any public disclosure.
