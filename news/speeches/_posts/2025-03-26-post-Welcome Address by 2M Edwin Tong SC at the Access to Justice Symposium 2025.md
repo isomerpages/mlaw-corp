@@ -1,5 +1,6 @@
 ---
-title: Welcome Address by Minister for Culture, Community and Youth, and Second Minister for Law, Edwin Tong SC at the Access to Justice Symposium 2025
+title: Welcome Address by Minister for Culture, Community and Youth, and Second
+  Minister for Law, Edwin Tong SC at the Access to Justice Symposium 2025
 permalink: /welcome-address-by-2m-edwin-tong-sc-at-the-access-to-justice-symposium-2025/
 date: 2025-03-26
 layout: post
@@ -67,11 +68,11 @@ disabilities, is, I would say, long overdue.
 {:start="11"}
 11. Ultimately, the justice system that we all create as a society is meant for everyday people as well.
 
-<p style="margin-left: 40px">(1) We foster public trust in our legal system.
+<p style="margin-left: 40px">(1) We foster public trust in our legal system.</p>
 
-</p><p style="margin-left: 40px">(2) It reinforces social stability by ensuring that people can solve disagreements and address their difficulties through the law, and not by shows of strength.
+<p style="margin-left: 40px">(2) It reinforces social stability by ensuring that people can solve disagreements and address their difficulties through the law, and not by shows of strength.</p>
 
-</p><p style="margin-left: 40px">(3) This safeguards our reputation as a just and orderly society.
+<p style="margin-left: 40px">(3) This safeguards our reputation as a just and orderly society.</p>
 
 **III. Measures taken to enhance access to justice**
 
@@ -87,9 +88,9 @@ disabilities, is, I would say, long overdue.
 {:start="15"}
 15. In 2019:
 	
-</p><p style="margin-left: 40px">(1) We introduced greater flexibility to grant civil legal aid to applicants who might not come within the means test criteria, but are nonetheless, despite not coming within the means test criteria, unable to afford basic legal services, sometimes due to extenuating circumstances. So, we granted greater flexibility to try to encompass these people within the legal aid framework.
+<p style="margin-left: 40px">(1) We introduced greater flexibility to grant civil legal aid to applicants who might not come within the means test criteria, but are nonetheless, despite not coming within the means test criteria, unable to afford basic legal services, sometimes due to extenuating circumstances. So, we granted greater flexibility to try to encompass these people within the legal aid framework.</p>
 
-</p><p style="margin-left: 40px">(2) We also simplified the application process for civil legal aid, and reduced the amount of paperwork that applicants must submit.
+<p style="margin-left: 40px">(2) We also simplified the application process for civil legal aid, and reduced the amount of paperwork that applicants must submit.</p>
 
 {:start="16"}
 16. Today, partly as a consequence of these adjustments, LAB handles more than 7,000 cases each year.
@@ -97,9 +98,9 @@ disabilities, is, I would say, long overdue.
 {:start="17"}	
 17. We have also expanded criminal legal aid, through the Criminal Legal Aid Scheme (CLAS), which is administered by PBSG.
 
-</p><p style="margin-left: 40px">(1) In 2015, MinLaw started to fund CLAS directly, which enabled even more to qualify for legal aid.
+<p style="margin-left: 40px">(1) In 2015, MinLaw started to fund CLAS directly, which enabled even more to qualify for legal aid.</p>
 
-</p><p style="margin-left: 40px">(2) In 2022, we took a further step – we set up the Public Defender’s Office (PDO) to provide criminal legal aid to needy Singaporeans and permanent residents (PRs). Last year, PDO received almost 1,900 applications – in its second year of running – with about 1,000 applications assessed to be eligible. A part of these applications was then referred to CLAS. Between PDO and CLAS, there is a system that is worked out to serve the needy applicants in the criminal legal aid system.
+<p style="margin-left: 40px">(2) In 2022, we took a further step – we set up the Public Defender’s Office (PDO) to provide criminal legal aid to needy Singaporeans and permanent residents (PRs). Last year, PDO received almost 1,900 applications – in its second year of running – with about 1,000 applications assessed to be eligible. A part of these applications was then referred to CLAS. Between PDO and CLAS, there is a system that is worked out to serve the needy applicants in the criminal legal aid system.</p>
 
 {:start="18"}
 18. We also updated the means thresholds for both civil as well as criminal legal aid last year. We do so regularly, and we did it last year to keep pace with the increase in household income and property value in recent years. This is to ensure that we keep a fairly clear eye on the group of Singaporeans, as well as PRs, who would be able to qualify for legal aid, and ensure that despite the growth in real income levels, the same group will remain eligible for assistance.
@@ -107,9 +108,9 @@ disabilities, is, I would say, long overdue.
 {:start="19"}
 19. LAB has also used technology to improve access to legal resources:
 
-</p><p style="margin-left: 40px">(1) In 2020, we launched the LAB chatbot, iLAB, which provides customised legal information on simple topics we come across everyday, such as divorce, employment issues, and family violence in a simple, easy to understand manner. iLAB is also able to generate simple legal documents.
+<p style="margin-left: 40px">(1) In 2020, we launched the LAB chatbot, iLAB, which provides customised legal information on simple topics we come across everyday, such as divorce, employment issues, and family violence in a simple, easy to understand manner. iLAB is also able to generate simple legal documents.</p>
 
-</p><p style="margin-left: 40px">(2) In 2022, we took one step further in matrimonial proceedings by launching the Divorce Assets Informative Division Estimator (Divorce AIDE). It uses an algorithm to estimate the share of matrimonial assets that each party can potentially receive, post-divorce. What this does is to help parties have a clear framework upfront, have an idea as to what that division might look like before they even enter into court. In most cases, once you have a framework like this that is reliable, you might decide you might not need to invoke the court process, which sometimes can be lengthy, and in the context of family and divorce proceedings, sometimes also very acrimonious.
+<p style="margin-left: 40px">(2) In 2022, we took one step further in matrimonial proceedings by launching the Divorce Assets Informative Division Estimator (Divorce AIDE). It uses an algorithm to estimate the share of matrimonial assets that each party can potentially receive, post-divorce. What this does is to help parties have a clear framework upfront, have an idea as to what that division might look like before they even enter into court. In most cases, once you have a framework like this that is reliable, you might decide you might not need to invoke the court process, which sometimes can be lengthy, and in the context of family and divorce proceedings, sometimes also very acrimonious.</p>
 
 {:start="20"}
 20. My Ministry also works closely with the Judiciary as well as other agencies, to ensure that legal processes are kept simple and efficient. Sometimes, we as lawyers, underestimate the extent to which legal jargon, documentation, hurdles such as form filling, which we take for granted, can really be a barrier to access. It can also be intimidating, so we try to lower the procedural hurdles as much as possible, and make the process as friendly and as accessible as possible.
@@ -138,13 +139,13 @@ disabilities, is, I would say, long overdue.
 {:start="28"}	
 28. Partly as a result of these efforts, in 2024:
 
-</p><p style="margin-left: 40px">(1) more than 10,000 individuals were assisted with essential legal knowledge, through more than 80 events organised by PBSG;
+<p style="margin-left: 40px">(1) more than 10,000 individuals were assisted with essential legal knowledge, through more than 80 events organised by PBSG;</p>
 
-</p><p style="margin-left: 40px">(2) more than 1,500 clients received legal support at the two Community Law Centres that I spoke about;
+<p style="margin-left: 40px">(2) more than 1,500 clients received legal support at the two Community Law Centres that I spoke about;</p>
 	
-</p><p style="margin-left: 40px">(3) another 1,500 residents attended PBSG’s Legal Clinics at the Community Development Councils; and
+<p style="margin-left: 40px">(3) another 1,500 residents attended PBSG’s Legal Clinics at the Community Development Councils; and</p>
 
-</p><p style="margin-left: 40px">(4) over 800 individuals received legal representation.
+<p style="margin-left: 40px">(4) over 800 individuals received legal representation.</p>
 
 {:start="29"}	
 29. These achievements would not be possible without PBSG’s pool of 660 active volunteer lawyers. This number, I am very happy and proud to say, has been growing over the years, which shows that access to justice is not just a policy directive or a policy intent, or not even just an effort by PBSG. It is a movement that is shared by all members of the Bar, as well as people who serve outside of the Bar as well.
@@ -207,23 +208,23 @@ disabilities, is, I would say, long overdue.
 {:start="47"}	
 47. One of whom was a lady who suffered from schizophrenia.
 
-</p><p style="margin-left: 40px">(1) She was diagnosed in her mid-twenties and resisted treatment for over 10 years. Those who work in this space will know very often they are in denial and through denial, stigma or otherwise, they resist treatment. They resist people even knowing about the condition.
+<p style="margin-left: 40px">(1) She was diagnosed in her mid-twenties and resisted treatment for over 10 years. Those who work in this space will know very often they are in denial and through denial, stigma or otherwise, they resist treatment. They resist people even knowing about the condition.</p>
 
-</p><p style="margin-left: 40px">(2) Because of this, her condition deteriorated, causing her to develop a fear of strangers.
+<p style="margin-left: 40px">(2) Because of this, her condition deteriorated, causing her to develop a fear of strangers.</p>
 
-</p><p style="margin-left: 40px">(3) She was unable to hold onto a job.
+<p style="margin-left: 40px">(3) She was unable to hold onto a job.</p>
 
-</p><p style="margin-left: 40px">(4) She was convinced that her neighbour was spying on her.
+<p style="margin-left: 40px">(4) She was convinced that her neighbour was spying on her.</p>
 
-</p><p style="margin-left: 40px">(5) She confronted him quite aggressively, and smashed the flowerpots that were outside his house.
+<p style="margin-left: 40px">(5) She confronted him quite aggressively, and smashed the flowerpots that were outside his house.</p>
 
-</p><p style="margin-left: 40px">(6) She was charged with public nuisance. But because of this scheme, she was diagnosed and received a MTO.
+<p style="margin-left: 40px">(6) She was charged with public nuisance. But because of this scheme, she was diagnosed and received a MTO.</p>
 
-</p><p style="margin-left: 40px">(7) After undergoing 2 years of mandatory treatment, she now acknowledges her condition, and her schizophrenia is currently in remission.
+<p style="margin-left: 40px">(7) After undergoing 2 years of mandatory treatment, she now acknowledges her condition, and her schizophrenia is currently in remission.</p>
 
-</p><p style="margin-left: 40px">(8) She holds on to her job, and voluntarily returns for treatment.
+<p style="margin-left: 40px">(8) She holds on to her job, and voluntarily returns for treatment.</p>
 
-</p><p style="margin-left: 40px">(9) This in turn, since then at least, keeps her away from re-offending, and better ensures public safety and community relations with her neighbour.
+<p style="margin-left: 40px">(9) This in turn, since then at least, keeps her away from re-offending, and better ensures public safety and community relations with her neighbour.</p>
 
 {:start="48"}	
 48. So we can see how we have introduced a stronger rehabilitative element in the system for offenders, particularly for those with mental conditions.
@@ -234,17 +235,17 @@ disabilities, is, I would say, long overdue.
 {:start="50"}	
 50. Let me illustrate this with another a real-life case:
 
-</p><p style="margin-left: 40px">(1) A is an inmate who is housed in the Prisons’ Psychiatric Correctional Unit (PCU).
+<p style="margin-left: 40px">(1) A is an inmate who is housed in the Prisons’ Psychiatric Correctional Unit (PCU).</p>
 
-</p><p style="margin-left: 40px">(2) He suffers from several mental conditions, including intellectual disability and anti-social personality disorder.
+<p style="margin-left: 40px">(2) He suffers from several mental conditions, including intellectual disability and anti-social personality disorder.</p>
 
-</p><p style="margin-left: 40px">(3) In prison, he is supported by a multi-disciplinary team, including prison officers, IMH specialists, correctional rehabilitation specialists, psychologists, as well as aftercare partners. A whole team, multi-disciplinary, assigned to assist persons like him.
+<p style="margin-left: 40px">(3) In prison, he is supported by a multi-disciplinary team, including prison officers, IMH specialists, correctional rehabilitation specialists, psychologists, as well as aftercare partners. A whole team, multi-disciplinary, assigned to assist persons like him.</p>
 
-</p><p style="margin-left: 40px">(4) He attends classes designed for inmates with mental disabilities, conducted by IMH occupational therapists, to improve his functioning skills, and help him gain insight into his mental condition. Very often, we take the approach that once you start acknowledging and understanding your own condition, the path to rehabilitation is much smoother. So a lot of the effort is spent upstream trying to ensure that the individual acknowledges it and accepts help from the outside.
+<p style="margin-left: 40px">(4) He attends classes designed for inmates with mental disabilities, conducted by IMH occupational therapists, to improve his functioning skills, and help him gain insight into his mental condition. Very often, we take the approach that once you start acknowledging and understanding your own condition, the path to rehabilitation is much smoother. So a lot of the effort is spent upstream trying to ensure that the individual acknowledges it and accepts help from the outside.</p>
 
-</p><p style="margin-left: 40px">5) Whenever he experiences emotional outbursts, the PCU officers are trained to give him space, while at the same time ensuring his safety as well as that of the other inmates.
+<p style="margin-left: 40px">5) Whenever he experiences emotional outbursts, the PCU officers are trained to give him space, while at the same time ensuring his safety as well as that of the other inmates.</p>
 
-</p><p style="margin-left: 40px">(6) As his caretaker is unable to care for him upon release, Prisons has referred him to aftercare agencies like MINDS to continue with his outpatient medical needs, and his employment and reintegration needs.
+<p style="margin-left: 40px">(6) As his caretaker is unable to care for him upon release, Prisons has referred him to aftercare agencies like MINDS to continue with his outpatient medical needs, and his employment and reintegration needs.</p>
 
 {:start="51"}	
 51. Before stepping in, we had a short chat and Ms Denise Phua, my Parliamentary colleague, was saying that we do need to go further upstream and look at these resources. In her own words, the lawyers do a great job, judges understand the nature of the offender, we send them for MTOs, we rehabilitate them in prison, but when they are released from prison, back into society, there is no support system. What happens then?
@@ -276,4 +277,4 @@ disabilities, is, I would say, long overdue.
 59. So, thank you very much. Enjoy the symposium and have a great day, not just understanding and listening to the great speeches and panels that you have. What is important and special about today is that we are doing this in person, across a spectrum of different stakeholders in this space, whether you are lawyers, or from the healthcare or social service agencies. I think what is needed is for us to come together, brainstorm ideas and collectively take it up one or two notches. So in as much as it is important to pay attention to the symposium, it is also important over the coffee breaks and the lunch breaks to make contacts, build networks and to
 make new friends in this space, because we need to do this all collectively. Thank you very much.
 
-</p><p class="right-side-updated">Last updated on 26 March 2025</p>
+<p></p><p class="right-side-updated">Last updated on 26 March 2025</p>
