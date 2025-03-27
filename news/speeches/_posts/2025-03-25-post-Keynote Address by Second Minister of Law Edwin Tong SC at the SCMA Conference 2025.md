@@ -14,7 +14,7 @@ variant: tiptap
 <p>Distinguished guests&nbsp;</p>
 <p>Ladies and gentlemen&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>I. Introduction&nbsp;</u></strong>
+<p><strong><u>I. Introduction</u></strong>&nbsp;</p>
 </p>
 <ol>
 <li>
@@ -38,7 +38,6 @@ really the theme of today’s conference – Charting the future of maritime
 arbitration in a fast-changing and complex world, and what happens with
 geopolitics, innovation and sustainability, impacting the work that we
 do.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><u>II. Focus of Speech</u></strong>&nbsp;</p>
 </li>
 <li>
