@@ -17,7 +17,6 @@ variant: tiptap
 <p>Ladies and gentlemen&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>I. Introduction</u></strong>&nbsp;</p>
-<p></p>
 <ol>
 <li>
 <p>A very good morning to all of you. It is a real pleasure to join you here
@@ -40,8 +39,11 @@ really the theme of today’s conference – Charting the future of maritime
 arbitration in a fast-changing and complex world, and what happens with
 geopolitics, innovation and sustainability, impacting the work that we
 do.&nbsp;</p>
-<p><strong><u>II. Focus of Speech</u></strong>&nbsp;</p>
+<p></p>
 </li>
+</ol>
+<p><strong><u>II. Focus of Speech</u></strong>&nbsp;</p>
+<ol>
 <li>
 <p>This theme also resonates with me, having sat through Budget debates,
 where it was a constant refrain to talk about the geopolitical climate,
@@ -80,9 +82,9 @@ disputes and the resolution of these disputes;&nbsp;</p>
 <p></p>
 <p>(d) And <u>finally</u>, Singapore’s approach and response to supporting
 the maritime industry in this area.&nbsp;&nbsp;</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong><u>III. Global Trends and Developments Affecting Maritime Industry</u></strong>&nbsp;</p>
 <ol start="8">
 <li>
@@ -191,16 +193,15 @@ future development.&nbsp;&nbsp;</p>
 proceed long- term. But these disruptions are causing companies to hesitate
 to commit to long-term investments today. Investments are needed in shipbuilding
 and port infrastructure, all of which need a long gestation period, but
-companies are reluctant to do it because of rising costs and uncertainty.
-&nbsp;</p>
+companies are reluctant to do it because of rising costs and uncertainty.</p>
 <p></p>
-</li>
-</ol>
 <p>(b) This reluctance to invest has created a bottleneck effect, with existing
 facilities struggling to handle trade volumes, resulting in a vicious cycle
 of congestion, infrastructure limitations, and escalating costs around
 the maritime supply chain.&nbsp;</p>
 <p></p>
+</li>
+</ol>
 <p><em>(C) Stricter sustainability and environmental regulations</em>&nbsp;</p>
 <ol start="16">
 <li>
