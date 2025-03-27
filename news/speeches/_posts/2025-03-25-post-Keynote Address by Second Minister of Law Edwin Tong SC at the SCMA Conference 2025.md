@@ -1,6 +1,5 @@
 ---
-title: Keynote Address by Second Minister of Law Edwin Tong SC at the SCMA
-  Conference 2025
+title: Keynote Address by Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong SC, at the Singapore Chamber of Maritime Arbitration (SCMA) Conference 2025  
 permalink: /keynote-address-by-second-minister-of-law-edwin-tong-sc-at-the-scma-conference-2025/
 date: 2025-03-25
 layout: post
@@ -9,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p><strong>Mr Chao Hick Tin SC</strong>, Chairman of SCMA&nbsp;</p>
-<p><strong>Ms Corina Song</strong>, Vice Chairman of SCMA&nbsp;</p>
+<p><strong>Ms Corina Song</strong>, Vice Chairperson of SCMA&nbsp;</p>
 <p>SCMA Board Members&nbsp;</p>
 <p>Friends and colleagues&nbsp;</p>
 <p>Distinguished guests&nbsp;</p>
