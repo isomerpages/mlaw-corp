@@ -67,17 +67,17 @@ and dispute resolution in general.&nbsp;</p>
 <li>
 <p>So, in my speech today, I will focus on four areas:&nbsp;&nbsp;</p>
 <p></p>
-<p>(a) <u>First</u>, outlining some of the global trends and developments
+<p style="margin-left: 40px">(a) <u>First</u>, outlining some of the global trends and developments
 affecting the maritime industry around the world and in Singapore;&nbsp;</p>
 <p></p>
-<p>(b) <u>Second</u>, what has been and will be Singapore’s position in navigating
+<p style="margin-left: 40px">(b) <u>Second</u>, what has been and will be Singapore’s position in navigating
 these trends and developments;&nbsp;</p>
 <p></p>
-<p>(c) <u>Third</u>, focusing a little bit more on arbitration, or more broadly
+<p style="margin-left: 40px">(c) <u>Third</u>, focusing a little bit more on arbitration, or more broadly
 dispute resolution, the impact of these trends and developments on maritime
 disputes and the resolution of these disputes;&nbsp;</p>
 <p></p>
-<p>(d) And <u>finally</u>, Singapore’s approach and response to supporting
+<p style="margin-left: 40px">(d) And <u>finally</u>, Singapore’s approach and response to supporting
 the maritime industry in this area.&nbsp;&nbsp;</p>
 </li>
 </ol>
