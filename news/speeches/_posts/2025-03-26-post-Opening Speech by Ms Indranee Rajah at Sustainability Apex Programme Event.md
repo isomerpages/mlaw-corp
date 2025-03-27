@@ -1,5 +1,5 @@
 ---
-title: Opening Speech by Ms Indranee Rajah at Sustainability Apex Programme Event
+title: Opening Remarks By Ms Indranee Rajah, Minister In The Prime Minister's Office,  Second Minister For Finance And National Development At The Sustainability Apex Programme Event On Opportunities In Sustainability For Professional Services In Singapore
 permalink: /opening-speech-by-ms-indranee-rajah-at-sustainability-apex-programme-event/
 date: 2025-03-26
 layout: post
