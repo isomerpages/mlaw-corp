@@ -1,5 +1,7 @@
 ---
-title: Keynote Address by Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong SC, at the Singapore Chamber of Maritime Arbitration (SCMA) Conference 2025  
+title: Keynote Address by Minister for Culture, Community and Youth, and Second
+  Minister for Law, Mr Edwin Tong SC, at the Singapore Chamber of Maritime
+  Arbitration (SCMA) Conference 2025
 permalink: /keynote-address-by-second-minister-of-law-edwin-tong-sc-at-the-scma-conference-2025/
 date: 2025-03-25
 layout: post
@@ -15,7 +17,7 @@ variant: tiptap
 <p>Ladies and gentlemen&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>I. Introduction</u></strong>&nbsp;</p>
-</p>
+<p></p>
 <ol>
 <li>
 <p>A very good morning to all of you. It is a real pleasure to join you here
@@ -66,17 +68,17 @@ and dispute resolution in general.&nbsp;</p>
 <li>
 <p>So, in my speech today, I will focus on four areas:&nbsp;&nbsp;</p>
 <p></p>
-<p style="margin-left: 40px">(a) <u>First</u>, outlining some of the global trends and developments
+<p>(a) <u>First</u>, outlining some of the global trends and developments
 affecting the maritime industry around the world and in Singapore;&nbsp;</p>
 <p></p>
-<p style="margin-left: 40px">(b) <u>Second</u>, what has been and will be Singapore’s position in navigating
+<p>(b) <u>Second</u>, what has been and will be Singapore’s position in navigating
 these trends and developments;&nbsp;</p>
 <p></p>
-<p style="margin-left: 40px">(c) <u>Third</u>, focusing a little bit more on arbitration, or more broadly
+<p>(c) <u>Third</u>, focusing a little bit more on arbitration, or more broadly
 dispute resolution, the impact of these trends and developments on maritime
 disputes and the resolution of these disputes;&nbsp;</p>
 <p></p>
-<p style="margin-left: 40px">(d) And <u>finally</u>, Singapore’s approach and response to supporting
+<p>(d) And <u>finally</u>, Singapore’s approach and response to supporting
 the maritime industry in this area.&nbsp;&nbsp;</p>
 </li>
 </ol>
