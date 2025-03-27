@@ -38,7 +38,7 @@ really the theme of today’s conference – Charting the future of maritime
 arbitration in a fast-changing and complex world, and what happens with
 geopolitics, innovation and sustainability, impacting the work that we
 do.&nbsp;</p>
-<p></p>
+<p>&nbsp;</p>
 <p><strong><u>II. Focus of Speech</u></strong>&nbsp;</p>
 </li>
 <li>
