@@ -61,8 +61,7 @@ variant: markdown
 
 **Annex A: Profiles of Newly Appointed Chairman and** **Members of IPOS Board**
 
-**Mr Nicky Tan (Chairman)**
-
+**Mr Nicky Tan (Chairman)**<br>
 **Chief Executive Officer, nTan Corporate Advisory Pte Ltd**
 
 Mr Nicky Tan joined the IPOS Board on 1 April 2019 and has served as the Deputy Chairman of IPOS since 1 April 2020. Mr Nicky Tan currently runs nTan Corporate Advisory, a boutique corporate finance and corporate restructuring firm. He is a Qualified Chartered Accountant with many years of Asia-wide, extensive hands-on experience in auditing, corporate finance, corporate advisory and restructuring and forensic investigations.&nbsp;
@@ -75,87 +74,83 @@ Mr Tan previously served as an independent director and chairman of both the Aud
 
 He also served as a director of National University Health System (NUHS) and a member of its Executive Board Committee and Chairman of Audit and Risk Committee, and as a board member of the National Cancer Centre Research Fund and a member of MOH Holdings Pte Ltd (Ministry of Health) Audit &amp; Risk Committee.&nbsp; For his contributions to healthcare, Mr Tan was awarded The Public Service Medal by the President of Singapore in 2021.&nbsp;
 
-**Mr Tan Kong Hwee**
-
+**Mr Tan Kong Hwee**<br>
 **Chief Executive, Intellectual Property Office of Singapore**
 
 Mr Tan Kong Hwee was appointed Chief Executive of IPOS from 1 March 2025. Prior to his current role, he was a member of the Economic Development Board (EDB)’s Executive Committee, and the Executive Vice President (EVP) overseeing the Global Enterprises and Marketing Group, where he was responsible for efforts to brand and market Singapore as an international business location, and to facilitate business activities of enterprises with investment interests in Singapore. He also had responsibilities for the DesignSingapore Council and the Office for Space Technology and Industry. Mr Tan began his career in the public service with the Ministry of Home Affairs in 2002. He joined the EDB’s Infocomms and Media Division in 2006 and was subsequently posted to Japan and Europe.&nbsp;
 
-**Mr Kok Ping Soon**
-
+**Mr Kok Ping Soon**<br>
 **Chief Executive Officer, Singapore Business Federation**
 
 Mr Kok Ping Soon is the CEO of the Singapore Business Federation (SBF), the apex business chamber championing the interests of Singapore’s business community in trade, investment and industrial relations matters. Prior to his current appointment, Mr Kok was the Chief Executive of the Government Technology Agency of Singapore. He also held various positions in the Ministry of Manpower, the National Security Co-ordination Secretariat, the Ministry of Trade &amp; Industry, the Singapore Tourism Board, Contact Singapore (CS) and the Singapore Economic Development Board (EDB). Mr Kok also serves on the Board of SBF Holdings, SBF Connect, SBF Foundation, the Accounting and Corporate Regulatory Authority, the Global Compact Network Singapore and Singapore Pools. He is also a member of Singapore International Arbitration Centre, Singapore International Mediation Centre, NUS Institute of Systems Sciences, National Integration Council and a fellow member of Singapore Computer Society.
 
-**Ms Cindy Khoo**
-
+**Ms Cindy Khoo**<br>
 **Managing Director, Enterprise Singapore**
 
 Ms Cindy Khoo is the Managing Director of Enterprise Singapore (EnterpriseSG). Prior to her appointment at EnterpriseSG, she had been with the Strategy Group in the Prime Minister’s Office (PMO) since 2019, where she oversaw functions such as Strategic Planning and Futures, before taking on the role of Deputy Secretary in September 2021. Ms Khoo has also handled a variety of policy portfolios in the Ministry of Health, the Public Service Division and the Ministry of Education. She has in-depth knowledge of sustainability, social and economic issues, drawn from her work experiences.
 
-**Mr Timothy Chin**
-
+**Mr Timothy Chin**<br>
 **Senior Director (Americas), Ministry of Trade and Industry**
 
 Mr Timothy Chin joined the Ministry of Trade and Industry in July 2022 as Senior Director (Americas). In this capacity, he formulates and executes strategies, policies and programmes related to Singapore’s economic engagement of economies in North and Latin America. Mr Chin also oversees Government-to-Government agreements and platforms, such as the US-Singapore Free Trade Agreement, and is the Deputy Chief Negotiator for the Indo-Pacific Economic Framework. He previously assumed various roles at the Ministry of Culture, Community and Youth, the Ministry of Foreign Affairs, and the Ministry of Education.
 
 **Annex B: List of IPOS** **Board Members (as of 1 April 2025)**
 
-Mr Nicky Tan (Chairman)
-Chief Executive Officer
-nTan Corporate Advisory Pte Ltd
+Mr Nicky Tan (Chairman)<br>
+Chief Executive Officer<br>
+nTan Corporate Advisory Pte Ltd<br>
 
-Ms Usha Chandradas
-Co-Founder
-(Plu)ral Art LLP
+Ms Usha Chandradas<br>
+Co-Founder<br>
+(Plu)ral Art LLP<br>
 
-Ms Charlene Chang
-Deputy Secretary (Development)
-Ministry of Law
+Ms Charlene Chang<br>
+Deputy Secretary (Development)<br>
+Ministry of Law<br>
 
-Mr Timothy Chin
-Senior Director (Americas)
-Ministry of Trade and Industry
+Mr Timothy Chin<br>
+Senior Director (Americas)<br>
+Ministry of Trade and Industry<br>
 
-Mr Edgar Hardless
-Chief Executive Officer
-Singtel Innov8
+Mr Edgar Hardless<br>
+Chief Executive Officer<br>
+Singtel Innov8<br>
 
-Ms Cindy Khoo
-Managing Director
-Enterprise Singapore
+Ms Cindy Khoo<br>
+Managing Director<br>
+Enterprise Singapore<br>
 
-Mr Kok Ping Soon
-Chief Executive Officer
-Singapore Business Federation
+Mr Kok Ping Soon<br>
+Chief Executive Officer<br>
+Singapore Business Federation<br>
 
-Professor Susanna Leong
-Vice Provost (Masters’ Programmes &amp; Lifelong Education) and
-Dean (School of Continuing &amp; Lifelong Education)
+Professor Susanna Leong<br>
+Vice Provost (Masters’ Programmes &amp; Lifelong Education) and<br>
+Dean (School of Continuing &amp; Lifelong Education)<br>
 
-National University of Singapore
-Mr Lim Der Shing
-Co-Founder and Partner
-AngelCentral Pte Ltd
+National University of Singapore<br>
+Mr Lim Der Shing<br>
+Co-Founder and Partner<br>
+AngelCentral Pte Ltd<br>
 
-Dr Lim Jui
-Chief Executive Officer
-Singapore Innovate Pte Ltd
+Dr Lim Jui<br>
+Chief Executive Officer<br>
+Singapore Innovate Pte Ltd<br>
    
-Mr Tan Kong Hwee
-Chief Executive
-Intellectual Property Office of Singapore
+Mr Tan Kong Hwee<br>
+Chief Executive<br>
+Intellectual Property Office of Singapore<br>
 
-Mr Oliver Tan
-CEO and Co-Founder
-ViSenze Pte Ltd
+Mr Oliver Tan<br>
+CEO and Co-Founder<br>
+ViSenze Pte Ltd<br>
 
-Ms Lorraine Tay
-Head of Intellectual Property Group
-Bird &amp; Bird ATMD LLP
+Ms Lorraine Tay<br>
+Head of Intellectual Property Group<br>
+Bird &amp; Bird ATMD LLP<br>
 
-Ms Winnie Tham
-Director
-Amica Law LLC
+Ms Winnie Tham<br>
+Director<br>
+Amica Law LLC<br>
 
 <p class="right-side-updated">Last updated on 28 March 2025</p>
