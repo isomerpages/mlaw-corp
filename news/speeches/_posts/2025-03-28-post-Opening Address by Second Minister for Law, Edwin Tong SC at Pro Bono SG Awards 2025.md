@@ -108,7 +108,7 @@ Distinguished guests
 {:start="26"}	
 26. Indeed, we all know from seeing the many cases, that when individuals and families encounter legal problems, they might not start as a legal problem. Often, they do not. We find ourselves having to go beyond providing legal aid and assistance. Sometimes, they help seekers who come to us, they require financial assistance.
 
-{:start="27}	
+{:start="27"}	
 27. Very often, they require a stronger social support network, and this is where our pro bono volunteers sometimes offer counselling, oftentimes also mental health interventions. And both lawyers, as well as those from other professions, including the social service professionals, have been contributing their time, talent, their own expertise to provide more holistic support to those in need.
 
 {:start="28"}	
