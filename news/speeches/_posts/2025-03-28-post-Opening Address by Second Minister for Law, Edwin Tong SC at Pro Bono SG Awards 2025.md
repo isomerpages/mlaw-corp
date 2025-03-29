@@ -1,5 +1,6 @@
 ---
-title: Opening Address by Minister for Culture, Community and Youth, and Second Minister for Law, Edwin Tong SC at Pro Bono SG Awards 2025
+title: Opening Address by Minister for Culture, Community and Youth, and Second
+  Minister for Law, Edwin Tong SC at Pro Bono SG Awards 2025
 permalink: /opening-address-by-second-minister-for-law-edwin-tong-sc-at-pro-bono-sg-awards-2025/
 date: 2025-03-28
 layout: post
@@ -65,9 +66,9 @@ Distinguished guests
 {:start="14"}	
 14. In 2015, we took this a little further.
 
-<p style="margin-left: 40px">(1) As you all know, the Criminal Legal Aid Scheme (CLAS) has been something that has been championed by the Bar for many years. In 2015, we decided, as a Government, to support CLAS even further. CLAS was set up forty years ago, to provide criminal defence aid, to vulnerable persons facing non-capital charges in Singapore.
+<p style="margin-left: 40px">(1) As you all know, the Criminal Legal Aid Scheme (CLAS) has been something that has been championed by the Bar for many years. In 2015, we decided, as a Government, to support CLAS even further. CLAS was set up forty years ago, to provide criminal defence aid, to vulnerable persons facing non-capital charges in Singapore.</p>
 
-</p><p style="margin-left: 40px">(2) The scheme was then privately funded by the Law Society of Singapore, as well as the vagaries of goodwill donations. But we decided that we should institutionalise the availability of CLAS, and we supported CLAS to ensure more volunteer lawyers could provide a broader representation to support even more in the community.
+<p style="margin-left: 40px">(2) The scheme was then privately funded by the Law Society of Singapore, as well as the vagaries of goodwill donations. But we decided that we should institutionalise the availability of CLAS, and we supported CLAS to ensure more volunteer lawyers could provide a broader representation to support even more in the community.</p>
 
 {:start="15"}	
 15. More recently, we thought we could expand this a little bit more. So, in December 2022, the Government institutionalised criminal defence aid for accused persons, by setting up the Public Defender’s Office (PDO).
@@ -150,5 +151,4 @@ repair tears in their communities.”
 {:start="39"}	
 39. Thank you very much.
 
-</p><p></p><p class="right-side-updated">Last updated on 28 March 2025</p>
-
+<p></p><p></p><p class="right-side-updated">Last updated on 28 March 2025</p>
