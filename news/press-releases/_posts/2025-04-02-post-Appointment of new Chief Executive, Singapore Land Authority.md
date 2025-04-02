@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>1. Mr Calvin Phua (潘家煌) will be appointed as the Chief Executive of the
+<p>1. Mr Calvin Phua will be appointed as the Chief Executive of the
 Singapore Land Authority (SLA) from 1 May 2025. He will succeed Mr Colin
-Low (刘显扬), who has been SLA’s Chief Executive since 2021.
+Low, who has been SLA’s Chief Executive since 2021.
 <br>
 </p>
 <p><strong><u>Outgoing Chief Executive, Mr Colin Low</u></strong>
