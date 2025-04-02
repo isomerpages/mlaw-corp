@@ -35,10 +35,11 @@ the following dates:</p>
 Registry of Pawnbroker, Legal Services Regulatory Authority, Exemptions
 (Singapore Bar/FPE), Community Mediation Centre, MinLaw Online Enquiries,
 Legal Aid Bureau, Divorce Aide, Anti-Money Laundering / Countering The
-Financing Of Terrorism, Maintenance Enforcement Division</p>
+Financing Of Terrorism, Public Defender's Office, Maintenance Enforcement
+Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01 Mar 2025 (Sat) 1400 hrs to 03 Mar 2025 (Mon) 0800hrs</p>
+<p>05 Apr 2025 (Sat) 0000 hrs to 06 Apr 2025 (Sun) 1800 hrs</p>
 </td>
 </tr>
 <tr>
