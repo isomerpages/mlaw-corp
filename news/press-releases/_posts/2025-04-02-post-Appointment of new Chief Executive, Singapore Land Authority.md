@@ -79,3 +79,7 @@ we warmly welcome Calvin as SLA’s incoming Chief Executive, whose strategic
 insights and proven expertise will provide seamless continuity in vision
 and execution that will lead SLA’s next chapter of growth and contributions
 to the nation.”</p>
+<p></p>
+<p><strong>MINISTRY OF LAW</strong>
+<br><strong>2 APRIL 2025</strong>
+</p>
