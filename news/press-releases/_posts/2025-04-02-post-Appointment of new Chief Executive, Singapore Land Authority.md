@@ -83,3 +83,4 @@ to the nation.”</p>
 <p><strong>MINISTRY OF LAW</strong>
 <br><strong>2 APRIL 2025</strong>
 </p>
+<p class="right-side-updated">Last updated on 21 March 2025</p>
