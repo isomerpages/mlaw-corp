@@ -1,5 +1,5 @@
 ---
-title: Written Answer by Minister on Misappropriation
+title: Written Answer by Minister for Law K Shanmugam on Timeline between Discovery of Corporate Misappropriation and Securing of Asset Freezing Orders
 permalink: /written-answer-by-minister-on-misappropriation/
 date: 2025-04-08
 layout: post
