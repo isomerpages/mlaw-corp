@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
- 8 April 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
+8 April 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
 <b><u>Question for Oral Answer</u></b>
 
@@ -27,6 +27,17 @@ variant: markdown
 {:start="3"}
 3. Claimants who wish to enforce an order of the SCT also have the following means of assistance:
 
+<p style="margin-left: 40px">
+(a) Individuals with limited means may apply for legal advice and legal aid from the Legal Aid Bureau (LAB). More information on the eligibility criteria can be found at the LAB E-Services Portal on the Ministry of Law’s website.</p>
 
+<p style="margin-left: 40px">
+(b) Parties who are unclear about the process can also seek advice from the Community Justice Centre, which is located on-site at the State Courts.</p>
 
-<p class="right-side-updated">Last updated on 28 January 2025</p>
+{:start="4"}
+4. There are also legal clinics (like those organised by the Law Society Pro Bono SG and supported by the Ministry of Law) which provide assistance and advice in specific cases. More information on legal assistance can be found on the Ministry of Law’s website link to “Legal Support Resources Available to Members of the Public”.
+
+{:start="5"}
+5. The Ministry of Law is working with stakeholders on further changes to make enforcement of civil judgments, including SCT orders, easier, as was mentioned by the Honourable Second Minister for Law at the COS debate earlier this year.
+
+<p class="right-side-updated">Last updated on 8 April 2025</p>
+
