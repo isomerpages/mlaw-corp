@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister on Wills
+title: Written Reply by Minister for Law K Shanmugam on Number of Singaporeans Registering Wills with Singapore Academy of Law
 permalink: /written-reply-by-minister-on-wills/
 date: 2025-04-08
 layout: post
