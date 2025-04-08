@@ -1,7 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Renovation
-  26 and 31 Ridout Road
-permalink: /written-answer-by-second-minister-for-law-edwin-tong-to-pq-on-renovation-26-and-31-ridout-road/
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Further Renovation Works and Felling of Trees at 26 and 31 Ridout Road
+permalink: /written-answer-by-second-minister-for-law-edwin-tong-to-pq-on-further-renovation-felling-trees-26-and-31-ridout-road/
 date: 2025-04-08
 layout: post
 description: ""
