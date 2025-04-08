@@ -40,4 +40,3 @@ variant: markdown
 5. The Ministry of Law is working with stakeholders on further changes to make enforcement of civil judgments, including SCT orders, easier, as was mentioned by the Honourable Second Minister for Law at the COS debate earlier this year.
 
 <p class="right-side-updated">Last updated on 8 April 2025</p>
-
