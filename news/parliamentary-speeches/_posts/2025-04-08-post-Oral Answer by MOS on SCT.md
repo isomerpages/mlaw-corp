@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by MOS on SCT
+title: Oral Answer by Minister of State for Law Murali Pillai to PQ on Enforcing Orders of the Small Claims Tribunal
 permalink: /oral-answer-by-mos-on-sct/
 date: 2025-04-08
 layout: post
