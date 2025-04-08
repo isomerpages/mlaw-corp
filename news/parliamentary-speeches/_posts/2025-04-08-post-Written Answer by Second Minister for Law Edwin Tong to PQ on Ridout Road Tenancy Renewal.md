@@ -1,6 +1,5 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Tenancy
-  Renewal and Agreements for 26 and 31 Ridout Road
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Status and Terms of Tenancy Renewal and Agreements for 26 and 31 Ridout Road
 permalink: /written-answer-by-second-minister-for-law-edwin-tong-to-pq-on-26-and-31-ridout-road-tenancy-renewal-and-agreements/
 date: 2025-04-08
 layout: post
