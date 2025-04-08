@@ -11,7 +11,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-<b>**Assoc Prof Jamus Jerome Lim(Member of Parliament for Sengkang GRC)**</b>
+<b>**Assoc Prof Jamus Jerome Lim (Member of Parliament for Sengkang GRC)**</b>
 
 <b><u>Question:</u></b>
 <br> To ask the Minister for Law (a) what is the average duration between discovery of corporate misappropriation exceeding $5 million and the securing of worldwide freezing orders; (b) whether the Government is concerned that the current civil procedure timeline allows sophisticated actors to dissipate assets; (c) what specific measures have been implemented to expedite ex-parte freezing applications involving cross-border transactions; and (d) whether the Ministry will introduce legislative amendments to lower the evidentiary threshold for proprietary injunctions in cases involving prima facie financial fraud.
@@ -34,5 +34,3 @@ variant: markdown
 5.	Implicit in the Member’s question is the suggestion that the evidentiary threshold for obtaining such orders should be lowered. The Member can perhaps explain which aspects of the evidentiary threshold should be lowered, and why he thinks the current balance the Courts have arrived at are wrong – so that we can better consider his suggestions. In any such exercise, it must be borne in mind that lowering the threshold may also widen the scope for abuse by applicants. This can cause legitimate businesses to be unable to access their assets (local and overseas) and payments until the order can be set aside.
 
 <p></p><p></p><p class="right-side-updated">Last updated on 8 April 2025</p>
-
-
