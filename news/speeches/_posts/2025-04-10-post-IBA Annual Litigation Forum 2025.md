@@ -22,7 +22,7 @@ Ladies and gentlemen
 **I. Introduction**
 
 {:start="1"}
-1.  A really good morning to all of you. We are very privileged to host all of you in Singapore. I would like to echo what the previous speakers have said about how, despite this being held in Asia for the first time, we have such a diverse attendance of 320 members from 48 different jurisdictions. I am told that we have representation from all continents of the world, except Antarctica!.
+1.  A really good morning to all of you. We are very privileged to host all of you in Singapore. I would like to echo what the previous speakers have said about how, despite this being held in Asia for the first time, we have such a diverse attendance of 320 members from 48 different jurisdictions. I am told that we have representation from all continents of the world, except Antarctica!
 
 {:start="2"}
 2. I am really heartened by this strong, diverse turnout, because I really believe that we do need to come together regularly to exchange ideas, share best practices, and on occasions like this, to make new connections and refresh old ones. I call this “de-Zoomification”. We used to, in the COVID era, rely on the efficiency of being able to see each other across continents on Zoom. But whilst it might make for good educational or academic connections, I think it does not make for relational or social connections, which are really so important in our practice as fellow litigators at the Bar.
