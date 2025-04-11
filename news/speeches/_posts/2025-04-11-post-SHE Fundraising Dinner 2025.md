@@ -96,97 +96,111 @@ Ladies and Gentlemen
 {:start="23"}	
 23. <u>First</u>, we have managed the issue of gender inequality relatively well. Over the years, we have done, as a country, reasonably well.
 
-<p style="margin-left: 40px">(1) The International Centre for Settlement of Investment Disputes (ICSID), which all of us will be familiar with. The decade beginning 1993 saw 86 new cases. The next decade, from 2003 to 2012, saw 305 cases. And in the last decade, that has doubled to 603.</p>
+<p style="margin-left: 40px">(1) When you look at the rankings, which of course, it is just one decade, Singapore is ranked 1st in Asia Pacific, and 8th globally in the 2023/2024 United Nations Human Development Report’s Gender Inequality Index.</p>
 
-<p style="margin-left: 40px">(1) The International Centre for Settlement of Investment Disputes (ICSID), which all of us will be familiar with. The decade beginning 1993 saw 86 new cases. The next decade, from 2003 to 2012, saw 305 cases. And in the last decade, that has doubled to 603.</p>
+<p style="margin-left: 40px">(2) On the ground, the gender pay gap has continued to shrink, whilst women’s representation in leadership roles has increased.</p>
 
-<p style="margin-left: 40px">(1) The International Centre for Settlement of Investment Disputes (ICSID), which all of us will be familiar with. The decade beginning 1993 saw 86 new cases. The next decade, from 2003 to 2012, saw 305 cases. And in the last decade, that has doubled to 603.</p>
+<p style="margin-left: 40px">(3) Of course, there is lot more work to be done, but I think we have come quite far, and we are now quite well-established.</p>
 
 {:start="24"}	
-24. Hence, the increased global trade in the last few decades has corresponded to a rise in the internationalisation of commercial disputes. This is evidenced by the upward trend in the volume of cross-border investment and commercial disputes handled by international institutions right around the world. I think we will need our dispute resolution institutions to serve more and more of the international community.
+24. <u>Second</u>, on digital inclusion, something that perhaps all of us might almost intuitively take for granted because we can operate on digital devices, and we do not sometimes see that as a gap or as a divide. But it sometimes can be.
+
+<p style="margin-left: 40px">(1) Because we live in an increasingly digitalised world today, where technology permeates into almost everything that we do, from banking transactions, which we expect, but even to socialising and getting to know one another, meeting friends, get to know your neighbours. It is a very digital world.</p>
+
+<p style="margin-left: 40px">(2) If you are familiar, or not au fait with it, it can be a dividing and often a divisive line between those who can and those who are unable to operate in a digital space.</p>
+
+<p style="margin-left: 40px">(3) So to ensure that all Singaporeans can benefit from digital opportunities, the Government has introduced, amongst others, the DigitalAccess@Home scheme. This is a scheme to provide subsidised broadband and digital devices for lower-income households.</p>
+
+<p style="margin-left: 40px">(4) We have also made special efforts to bring our seniors on board, by rolling out programmes such as Seniors Go Digital, to help them to look at the online space as not something that is treacherous and difficult, but something they can use to engage with their grandchildren, with their friends and fellow seniors.</p>
 
 {:start="25"}	
-25. Let me give you some examples:
+25. <u>Third, deliberately uplifting our vulnerable groups with special programmes</u>.
 
-<p style="margin-left: 40px">(1) The International Centre for Settlement of Investment Disputes (ICSID), which all of us will be familiar with. The decade beginning 1993 saw 86 new cases. The next decade, from 2003 to 2012, saw 305 cases. And in the last decade, that has doubled to 603.</p>
+<p style="margin-left: 40px">(1) We work very hard to provide comprehensive support for vulnerable groups, for instance, support for persons with disabilities – not just to live, but to work well in the community.</p>
 
-<p style="margin-left: 40px">(2) The number of claims filed in the Dubai International Financial Centre (DIFC) has also grown – 39 cases in 2006, 111 cases in 2012, and last year in 2024, a 10-fold increase to 1,056 cases. I think this underscores two points. First, the increasing importance and relevance of the Middle Eastern economy and as a jurisdiction, and second, reflecting the way in which business is done and disputes are resolved internationally.</p>
+<p style="margin-left: 40px">(2) In 2014, we launched SG Enable’s Open Door Programme, providing grants and employment support services to organisations that hire persons with disabilities. In other words, encouraging employers, through grants, through assistance, through programmes and government support, to hire persons with disabilities. Each year, about 630 people are successfully placed into jobs through this programme, and we hope to grow this even more with the support of the industry and our community.</p>
 
-<p style="margin-left: 40px">(3) The English Commercial Court has also seen an increase in its caseload over time, with about 75% of its cases involving one or more parties outside the UK.</p>
+<p style="margin-left: 40px">(3) Since 2021, we have also provided directly a wage offset to eligible employers under the Enabling Employment Credit scheme. What does it do? Well, it directly goes towards hiring persons with disabilities, to help offset the wage for employers and therefore incentivise them to hire persons with disabilities. This scheme is expected to benefit about 10,000 people annually, and has been extended till 2028. We know that some employers might see this as a financial incentive, and there will be some who are hired because of the financial incentive. But overall, the exposure of persons with disabilities in these jobs, being able to prove themselves, show that they can manage, they can do it – I think it makes a big difference. Over time, I hope to shape society’s mindset shift.</p>
+
+**III. Progress on White Paper on Singapore's Women's Development**
 
 {:start="26"}	
-26. It was in this context that, 10 years ago, we decided to set up the Singapore International Commercial Court (SICC). We recognised the increasing prominence of international disputes in Singapore. Earlier on, you heard Dinesh talk about Singapore – in the context of Southeast Asia and Asia – as a hub, as a node, in, from and through which parties are encouraged to do business.
+26. Let me also highlight a significant milestone in 2022. Stefanie spoke about the White Paper on Singapore’s Women’s Development, and yes we did approach some people to help us with it – not so much with the White Paper itself, but to put the White Paper into action. The White Paper provided 25 collective action plans to advance women’s development.
 
 {:start="27"}	
-27. We grew the SICC over the years to meet the increasing demands of the international community. Since then, we have seen an increase in the internationalisation of the dispute resolution cases that come through Singapore. I know tomorrow’s programme will bring you to the SICC, so I thought I’ll say a few things about the SICC.
+27. But as I said, it is not just a paper. Since its publication, we have taken actual and real tangible steps in various areas, such as equal opportunities in the workplace, and strengthening protection against violence and harms. For example:
+
+<p style="margin-left: 40px">(1) Last December, we put in place guidelines on Flexible Work Arrangement Requests, which allow employees to better manage their work, personal and family commitments.</p>
+
+<p style="margin-left: 40px">(2) More recently, we introduced the Workplace Fairness Act in January this year, which strengthens protections against workplace discrimination, based on specified protected characteristics, such as age and sex.</p>
 
 {:start="28"}	
-28. When the SICC started in 2015, it had two transferred cases in its inaugural year, i.e. cases transferred from the Supreme Court of Singapore to the SICC. In 2024, the total number of cases heard by the SICC stood at 28, with 18 of them being fresh filings. Cases before the SICC involved parties coming from 62 different nationalities, reflecting, and as I said, underscoring the “international-ness” of the forum.
+28. Moving forward, we will also be introducing legislation to better protect Singaporeans from online harms, many of which disproportionately target girls and women. The new measures include the establishment of a dedicated agency to provide support for victims of online harms, to clarify the roles and duties of stakeholders in the online ecosystem, and taking steps to tackle the challenges posed by online anonymity, which is a real scourge.
 
 {:start="29"}	
-29. The Singapore International Arbitration Centre (SIAC), has also seen a similar trend – a rise in caseload from around 200 cases a decade ago, to more than 600 cases today. Last year, SIAC received 625 cases from 72 different jurisdictions, of which 91% of those cases were international in nature.
+29. I am glad to know that organisations, such as SHE, stand ready to work with the new agency, to ensure that victims are able to receive the holistic care and support that they need.
 
 {:start="30"}	
-30. It is, I believe, important for dispute resolution institutions to be able to handle cross border disputes, and to be increasingly open to the fact that users of their system might not come from within its own domicile and its own jurisdiction. In this way, we designed the SICC quite deliberately to be able to handle cases that have a different genre and come from a different origin than what we are used to in Singapore.
+30. Even as we tackle harms in the online sphere, let me also assure everyone that we remain committed to reviewing and improving our laws, systems and processes, to ensure they are sufficient and effective in keeping our women and children safe in the offline world as well.
 
 {:start="31"}	
-31. Earlier, we heard speeches of the development of the common law by great jurists like Lord Denning, but we have decided that in Singapore, where more than half of our trading partners that we do business with come from civil law jurisdictions, we do need to embrace civil law concepts, understand civil law practices, and also, in many ways, understand not just the legal background, but the cultural context and nuances that exist in these countries.
+31. Over the years, we have set up legislative and other frameworks to protect the vulnerable amongst us, including women and children. We have also strengthened our protocols in preschools and increased the channels to make it easier to report abuse, amongst others.
 
 {:start="32"}	
-32. So we have deliberately designed the SICC to have an international panel comprising eminent jurists from both common law, as well as civil law jurisdictions.
+32. Let me be clear, violence and abuse, online or offline, will not be tolerated in our system.
 
 {:start="33"}	
-33. We allow foreign lawyers and legal experts a right of audience directly before the Court, for example, in large international restructuring cases, many of which are deeply cross-border in nature. Having been in practice in this space, we may see some arbitrage being taken advantage of between different jurisdictions. You might have a case that is in Singapore on a restructuring, but you might have corresponding proceedings elsewhere, and we want to reduce that arbitrage as much as possible. So we allow for foreign lawyers and experts to have right of audience at the SICC.
+33. We continually review our systems and processes thoroughly, with a view to enhancing and strengthening where necessary. Where there are gaps, they will be studied carefully and addressed proactively.
 
 {:start="34"}	
-34. We have also allowed procedural flexibility in how parties may conduct their cases.
+34. As I have shared, the Government is working hard on multiple fronts to bring our vision of building a safe and inclusive society to fruition.
 
 {:start="35"}	
-35. We now have 24 International Judges who serve alongside our local judges on the SICC Bench. Our International Judges complement our Singapore Judges by being able to hear disputes governed by foreign law, with their deep experience, having specialist knowledge in specialised areas of commercial law, allowing us to enhance the reputation of the SICC, levelling up its thought leadership, and by and large, attracting foreign parties to litigate or to have their cases heard here in Singapore.
-
-**IV. What Lies Ahead - Singapore's Approach**
+35. It takes a whole-of-society effort – it is not just about laws, regulations, grants and systems. But it is about what we do from a ground up perspective, it is about what we do in different communities, and for different societies. Many of them are curated differently. It will take this whole-of-society effort to entrench the positive changes because it is not about individual efforts. It is about changing the whole approach and the whole mindset that I spoke about earlier.
 
 {:start="36"}	
-36. With this, it brings me to conclude with some observations of what Singapore’s approach has been over the years, and what we see in light of today’s geopolitical situation, economic climate, as well as the trading relations and the disruption to the rules-based order. I thought I would share, having moved from practice into policy-making over the last few years, Singapore’s perspective on how we see the legal industry in Singapore.
+36. The success we have already seen with these initiatives has been made possible because of our shared values, aspirations and a collective sense of ideals – how do we want to define our society, and what do we want to see in Singapore for our future generations.
 
 {:start="37"}	
-37. <u>First</u>, as we look at an increasingly insular and protectionist world, protecting themselves with tariffs and barriers, we think that we need to go the opposite direction. We need to be completely open, or as open as possible. We need to maintain an open approach, not just in our economy, but particularly relevant to all of you, in our legal industry.
+37. It is because of our belief in fairness, equality, and respect for each other, and our unique ability to celebrate this diversity – the multiculturalism and multiethnicity; the fact that we are all different but same – that has enabled Singapore to grow from strength to strength.
 
 {:start="38"}	
-38. We do this in a number of ways. We recognise that parties, litigants, their counsel want a choice.
+38. But I feel that this is something that we cannot take for granted, not at all.
 
 {:start="39"}	
-39. As I mentioned earlier, we have a broad, diverse panel on the SICC, and foreign counsel can appear before the SICC on matters of foreign law.
+39. This Government remains committed to promoting equality, equity, and inclusion. But as you heard Stefanie said earlier, we will come under increasing pressure.
 
 {:start="40"}	
-40. We also have a broad range of different arbitrators and mediators on SIAC and SIMC. We resolve to bring in the best arbitrators onto the panel on SIAC, and are agnostic to their nationality. As long as they can bring value, have stature, be selected by parties, and give good awards, efficient, timely, we invite them onto the SIAC panel.
+40. We have seen how international norms and consensus around ideas of equality and equity have come under attack in the recent past couple months.
 
 {:start="41"}	
-41. We have also allowed, over the years, foreign lawyers and foreign law firms to be set up in Singapore to actively practise foreign law, and they can now directly participate in arbitration proceedings, even those involving Singapore law. The number of foreign lawyers practising in Singapore has grown over the decades. We started various schemes, more formally in 2000 so it has been 25 years, and we have seen the number of foreign lawyers grow in Singapore – four-fold since 2000.
+41. As a result of shifts in the political leadership in the United States (“US”), we are now witnessing a massive rollback of diversity, equity and inclusion programmes (“DEI”) in the US federal government, and this has spilled over into the private sector. Because of the scale of the US and the reach of its corporate institutions, this can have cross-border effects, where such US companies have presence overseas.
 
 {:start="42"}	
-42. Our <u>second</u> approach is to continue to maintain a very fleet-footed approach, to be nimble, to be able to move fast in response to international changes, and more importantly, mercantile and commercial changes. That also comes in the form of how we look at setting up legal institutions, dispute resolution institutions, as well as the changes involved.
+42. According to a Financial Times report, 90% of the top 400 companies in the S&amp;P index that have filed an annual report since President Trump’s re-election have already reduced references to DEI, with many of them dropping the term, concept, programme altogether.
 
 {:start="43"}	
-43. The first example is the SICC. I mentioned that we set it up in 2015, but it was barely two years prior when it was first mooted by our Chief Justice Sundaresh Menon at the Opening of the Legal Year in 2013. We saw a gap, and we understood that it needed to be done quickly. And within two years, the legislation, the framework, the structure, and the personalities were in place to set up the SICC.
+43. While some companies have made adjustments in form but not substance, what remains troubling to me is that these companies readily axed the DEI programmes because of the change in political culture and mindset. That suggests to me that the DEI programmes existed only because they were good optics. I do not think that it is acceptable.
 
 {:start="44"}	
-44. Another example is in the passing of legislation. One of the advantages we have in Singapore is it is a small community and, I guess comparatively, a small Parliament, and one which allows us to move and respond very quickly. In the immediate aftermath of COVID-19, we realised that we had to protect lives and livelihoods. So we passed, on an emergency basis, COVID-19 legislation to effect changes, to change the ways in which contracts can be varied, to change the ways in which landlords and tenants could vary their arrangements, because there were many, particularly food and beverage offerings, that were unable to open by reason of legal imposition. So we passed the first legislation in Parliament in just 9 days.
+44. The rollback of DEI has been justified, on the basis that DEI itself is in fact discriminatory, and should be scrapped in favour of a “colour blind and merit-based” society. Sounds good but what  is it really in practice?
 
 {:start="45"}	
-45. More importantly, in response to the tariff announcements on Liberation Day, we set up quickly a multi-agency taskforce, to study the impact of tariffs on our commercial entities, both large and small ones, and to help businesses respond and adapt, in the wake of these tariffs.
+45. I think this misses the point of DEI completely.
 
 {:start="46"}	
-46. <u>Third</u>, I think we need to continue to take a collaborative approach, looking at valued partners like the IBA, like many other thought leader institutions that are based in Singapore. Those of you who are familiar with the Maxwell Chambers will know that besides being a venue for dispute resolution, whether it is an arbitration or mediation, it also houses some of the world’s top legal thought leaders – WIPO, PCA, ICC, AAA-ICDR, INSOL. They all have offices at Maxwell Chambers. We believe in them, we support many of these organisations in setting up, sometimes subventing the office space. Because we believe in the value of having thought leaders from around the world in Singapore collaborate with us, think of ideas, and also come to speak to us about changes that they see on the horizon that might impact the way in which we organise ourselves and develop our policies.
+46. In Singapore, we recognise that there are invisible biases and institutional discrimination that inhibit the development of a truly fair and meritocratic society.
 
 {:start="47"}	
-47. It is also important that Singapore looks at the multilateral world and continue to play our part in supporting the rules-based model on a global scale. So we have played a part in the Singapore Convention on Mediation in 2018, the Biodiversity Beyond National Jurisdiction (or BBNJ) Agreement in 2023 that was signed after many years of negotiation, and more recently, the WIPO Treaty on Intellectual Property, Genetic Resources, and Associated Traditional Knowledge. These and other examples demonstrate and underscore Singapore’s commitment to a rules-based order, as well as to the international legal community.
+47. By assuming that the playing field is level to start with, which may often not be the case, this ignores the lived experiences of those which DEI was designed to serve and benefit.
 
 {:start="48"}	
-48. This international outlook is also seen in our courts. We continue to engage our foreign counterparts. We continue to be engaged in dialogue. We look at collaborative measures to ensure that our judicial system is also plugged into developments and advancements around the rest of the world.
+48. So to now dismiss DEI, and push a divisive rhetoric of “us” vs “them” will only serve to deepen those divisions, exacerbate inequality, and risk undoing decades of hard-fought gains.
 
 {:start="49"}	
-49. To give you one example, we are a proud member of the Judicial Insolvency Network (JIN). This helps to facilitate cross-border insolvency disputes, by allowing insolvency courts, even if you might not have rights of audience for foreign counsel in all jurisdictions, it allows the insolvency courts, to share documents, to share information, and on some occasion, through the use of technology, have joint hearings. So you might have a hearing in Singapore, and you might have a foreign court dial in by electronic means, on Zoom or Skype, and conduct the hearing jointly. So that, on common issues, as I said, we do not allow parties to arbitrage against one another.
+49. It also risks sending the wrong signal to the rest of the world at a time already characterised by heightened emotions and increasing polarisation, casting doubt over gender equality and equity as an international priority, I think it is the last thing we should see.
+
+**IV. Conclusion**
 
 {:start="50"}	
 50. Last year, our Parliament passed legislation to establish the International Committee of the SICC, a designated body in Singapore, comprising local and international judges that will hear appeals of international commercial cases from prescribed foreign courts. The first collaboration under this model is between Singapore and Bahrain, as a model for future partnerships, which we are open to exploring.
