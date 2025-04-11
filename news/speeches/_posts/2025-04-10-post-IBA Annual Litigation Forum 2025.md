@@ -178,5 +178,44 @@ Ladies and gentlemen
 {:start="43"}	
 43. The first example is the SICC. I mentioned that we set it up in 2015, but it was barely two years prior when it was first mooted by our Chief Justice Sundaresh Menon at the Opening of the Legal Year in 2013. We saw a gap, and we understood that it needed to be done quickly. And within two years, the legislation, the framework, the structure, and the personalities were in place to set up the SICC.
 
-<p></p><p></p><p class="right-side-updated">Last updated on 10 April 2025</p>
+{:start="44"}	
+44. Another example is in the passing of legislation. One of the advantages we have in Singapore is it is a small community and, I guess comparatively, a small Parliament, and one which allows us to move and respond very quickly. In the immediate aftermath of COVID-19, we realised that we had to protect lives and livelihoods. So we passed, on an emergency basis, COVID-19 legislation to effect changes, to change the ways in which contracts can be varied, to change the ways in which landlords and tenants could vary their arrangements, because there were many, particularly food and beverage offerings, that were unable to open by reason of legal imposition. So we passed the first legislation in Parliament in just 9 days.
 
+{:start="45"}	
+45. More importantly, in response to the tariff announcements on Liberation Day, we set up quickly a multi-agency taskforce, to study the impact of tariffs on our commercial entities, both large and small ones, and to help businesses respond and adapt, in the wake of these tariffs.
+
+{:start="46"}	
+46. <u>Third</u>, I think we need to continue to take a collaborative approach, looking at valued partners like the IBA, like many other thought leader institutions that are based in Singapore. Those of you who are familiar with the Maxwell Chambers will know that besides being a venue for dispute resolution, whether it is an arbitration or mediation, it also houses some of the world’s top legal thought leaders – WIPO, PCA, ICC, AAA-ICDR, INSOL. They all have offices at Maxwell Chambers. We believe in them, we support many of these organisations in setting up, sometimes subventing the office space. Because we believe in the value of having thought leaders from around the world in Singapore collaborate with us, think of ideas, and also come to speak to us about changes that they see on the horizon that might impact the way in which we organise ourselves and develop our policies.
+
+{:start="47"}	
+47. It is also important that Singapore looks at the multilateral world and continue to play our part in supporting the rules-based model on a global scale. So we have played a part in the Singapore Convention on Mediation in 2018, the Biodiversity Beyond National Jurisdiction (or BBNJ) Agreement in 2023 that was signed after many years of negotiation, and more recently, the WIPO Treaty on Intellectual Property, Genetic Resources, and Associated Traditional Knowledge. These and other examples demonstrate and underscore Singapore’s commitment to a rules-based order, as well as to the international legal community.
+
+{:start="48"}	
+48. This international outlook is also seen in our courts. We continue to engage our foreign counterparts. We continue to be engaged in dialogue. We look at collaborative measures to ensure that our judicial system is also plugged into developments and advancements around the rest of the world.
+
+{:start="49"}	
+49. To give you one example, we are a proud member of the Judicial Insolvency Network (JIN). This helps to facilitate cross-border insolvency disputes, by allowing insolvency courts, even if you might not have rights of audience for foreign counsel in all jurisdictions, it allows the insolvency courts, to share documents, to share information, and on some occasion, through the use of technology, have joint hearings. So you might have a hearing in Singapore, and you might have a foreign court dial in by electronic means, on Zoom or Skype, and conduct the hearing jointly. So that, on common issues, as I said, we do not allow parties to arbitrage against one another.
+
+{:start="50"}	
+50. Last year, our Parliament passed legislation to establish the International Committee of the SICC, a designated body in Singapore, comprising local and international judges that will hear appeals of international commercial cases from prescribed foreign courts. The first collaboration under this model is between Singapore and Bahrain, as a model for future partnerships, which we are open to exploring.
+
+**V. Conclusion**
+
+{:start="51"}	
+51. As I wrap up, let me just make a few comments on what I see as the future of litigation. Previously coming from the litigation community, I guess I am somewhat biased, but I believe in the resilience and adaptability of the litigation community.
+
+{:start="52"}	
+52. We have seen the 1997 Asian Financial Crisis, the 2009 Lehman crisis, the 2020 COVID-19, and I just outlined, in the last decade, a series of significant global disruptors. We have adapted, we have adjusted, and we have taken on new work in a new paradigm in new jurisdictions. There might be technology and AI in dispute resolution. There might be newer modalities. There might be new areas like the green economy and green financing, which perhaps were not present 10, 15 years ago. But the litigation community has taken them on board.
+
+{:start="53"}	
+53. The one secret sauce to all of this, I believe, is in networking. That is why a session like today is so important. An old friend once told me this – knowledge is good, know-how is better, but “know who” is best. Today’s session is really about the “know who”. As you network, you make friends and develop contacts from different parts of the world, practising different areas of law. I think that is all so important.
+
+{:start="54"}	
+54. Besides what Dinesh said earlier, I encourage you to take some time outside of the formal programme to make friends, to build contacts and to expand those networks. I think you will become truly invaluable in a world that is oftentimes fragmented by very insular and very navel-gazing perspectives. I wish all of you the very best.
+
+{:start="55"}	
+55. Wearing now my culture and art ministry hat, take some time to enjoy the cultural enclave that is literally a short hop away from this hotel, which itself has deep significant cultural and heritage history. Thank you very much.
+
+
+
+<p></p><p></p><p class="right-side-updated">Last updated on 10 April 2025</p>
