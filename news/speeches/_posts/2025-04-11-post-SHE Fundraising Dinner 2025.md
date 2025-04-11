@@ -203,25 +203,19 @@ Ladies and Gentlemen
 **IV. Conclusion**
 
 {:start="50"}	
-50. Last year, our Parliament passed legislation to establish the International Committee of the SICC, a designated body in Singapore, comprising local and international judges that will hear appeals of international commercial cases from prescribed foreign courts. The first collaboration under this model is between Singapore and Bahrain, as a model for future partnerships, which we are open to exploring.
-
-**V. Conclusion**
+50. Given these uncertainties, it is more important than ever for Singapore to take the lead and stay on this course, to support organisations like SHE on the ground through its programmes.
 
 {:start="51"}	
-51. As I wrap up, let me just make a few comments on what I see as the future of litigation. Previously coming from the litigation community, I guess I am somewhat biased, but I believe in the resilience and adaptability of the litigation community.
+51. Your support and partnership, standing behind SHE tonight, for our policies and organisations such as SHE, will be become critical or highly essential to keeping this goal within our reach.
 
 {:start="52"}	
-52. We have seen the 1997 Asian Financial Crisis, the 2009 Lehman crisis, the 2020 COVID-19, and I just outlined, in the last decade, a series of significant global disruptors. We have adapted, we have adjusted, and we have taken on new work in a new paradigm in new jurisdictions. There might be technology and AI in dispute resolution. There might be newer modalities. There might be new areas like the green economy and green financing, which perhaps were not present 10, 15 years ago. But the litigation community has taken them on board.
+52. Let me again thank Stefanie, her team at SHE, its staff and the many volunteers for the hard work you do – much of it is not that glamorous like this event tonight, but behind the scenes where no one is looking. I thank you very much for all that you do. This has translated into real tangible impact for girls and women in Singapore. I know tonight’s theme is glittery. But I want to say to SHE staff and all those who had helped SHE, that even without a glittery outfit, each of you has been shining bright like a star tonight in all of the work that you have been doing.
 
 {:start="53"}	
-53. The one secret sauce to all of this, I believe, is in networking. That is why a session like today is so important. An old friend once told me this – knowledge is good, know-how is better, but “know who” is best. Today’s session is really about the “know who”. As you network, you make friends and develop contacts from different parts of the world, practising different areas of law. I think that is all so important.
-
-{:start="54"}	
-54. Besides what Dinesh said earlier, I encourage you to take some time outside of the formal programme to make friends, to build contacts and to expand those networks. I think you will become truly invaluable in a world that is oftentimes fragmented by very insular and very navel-gazing perspectives. I wish all of you the very best.
-
-{:start="55"}	
-55. Wearing now my culture and art ministry hat, take some time to enjoy the cultural enclave that is literally a short hop away from this hotel, which itself has deep significant cultural and heritage history. Thank you very much.
+53. Thank you, and I wish everyone a dazzling evening ahead.
 
 
 
-<p></p><p></p><p class="right-side-updated">Last updated on 10 April 2025</p>
+<p></p><p></p><p class="right-side-updated">Last updated on 11 April 2025</p>
+
+
