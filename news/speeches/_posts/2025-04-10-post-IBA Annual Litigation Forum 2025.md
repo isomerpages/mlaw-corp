@@ -116,56 +116,67 @@ Ladies and gentlemen
 {:start="25"}	
 25. Let me give you some examples:
 
-<p style="margin-left: 40px">(1) I am sure similar conversations are happening right around the world.</p>
+<p style="margin-left: 40px">(1) The International Centre for Settlement of Investment Disputes (ICSID), which all of us will be familiar with. The decade beginning 1993 saw 86 new cases. The next decade, from 2003 to 2012, saw 305 cases. And in the last decade, that has doubled to 603.</p>
 
-<p style="margin-left: 40px">(2) I am sure similar conversations are happening right around the world.</p>
+<p style="margin-left: 40px">(2) The number of claims filed in the Dubai International Financial Centre (DIFC) has also grown – 39 cases in 2006, 111 cases in 2012, and last year in 2024, a 10-fold increase to 1,056 cases. I think this underscores two points. First, the increasing importance and relevance of the Middle Eastern economy and as a jurisdiction, and second, reflecting the way in which business is done and disputes are resolved internationally.</p>
 
-<p style="margin-left: 40px">(3) I am sure similar conversations are happening right around the world.</p>
+<p style="margin-left: 40px">(3) The English Commercial Court has also seen an increase in its caseload over time, with about 75% of its cases involving one or more parties outside the UK.</p>
 
 {:start="26"}	
-26. Indeed, we all know from seeing the many cases, that when individuals and families encounter legal problems, they might not start as a legal problem. Often, they do not. We find ourselves having to go beyond providing legal aid and assistance. Sometimes, they help seekers who come to us, they require financial assistance.
+26. It was in this context that, 10 years ago, we decided to set up the Singapore International Commercial Court (SICC). We recognised the increasing prominence of international disputes in Singapore. Earlier on, you heard Dinesh talk about Singapore – in the context of Southeast Asia and Asia – as a hub, as a node, in, from and through which parties are encouraged to do business.
 
 {:start="27"}	
-27. Very often, they require a stronger social support network, and this is where our pro bono volunteers sometimes offer counselling, oftentimes also mental health interventions. And both lawyers, as well as those from other professions, including the social service professionals, have been contributing their time, talent, their own expertise to provide more holistic support to those in need.
+27. We grew the SICC over the years to meet the increasing demands of the international community. Since then, we have seen an increase in the internationalisation of the dispute resolution cases that come through Singapore. I know tomorrow’s programme will bring you to the SICC, so I thought I’ll say a few things about the SICC.
 
 {:start="28"}	
-28. If we were to ask any of the pro bono lawyers here this evening, I am sure that all of them will be able to share how much they have touched the lives of the individuals and families, showing that our volunteers go the extra mile to journey with the clients – not just through legal challenges, but also life’s challenges, showing empathy and providing care, as any counsellor or friend would.
+28. When the SICC started in 2015, it had two transferred cases in its inaugural year, i.e. cases transferred from the Supreme Court of Singapore to the SICC. In 2024, the total number of cases heard by the SICC stood at 28, with 18 of them being fresh filings. Cases before the SICC involved parties coming from 62 different nationalities, reflecting, and as I said, underscoring the “international-ness” of the forum.
 
 {:start="29"}	
-29. I am very glad that all of us present here today share this ethos of compassion and service for all, especially for the most vulnerable amongst us in our society.
+29. The Singapore International Arbitration Centre (SIAC), has also seen a similar trend – a rise in caseload from around 200 cases a decade ago, to more than 600 cases today. Last year, SIAC received 625 cases from 72 different jurisdictions, of which 91% of those cases were international in nature.
 
 {:start="30"}	
-30. Pro Bono SG organised the inaugural Pro Bono Weeks earlier this year, which culminated in the Just Jalan charity walk. Just Jalan means just walk. But I understand some of you have that competitive spirit in you and the walk turned into jogs and runs. This is a great way to rally the legal fraternity and other partners for a good cause. I want to say that it is not just the local Bar, but also our foreign law firms, who have played a big part in Just Jalan as well as the other related programmes.
+30. It is, I believe, important for dispute resolution institutions to be able to handle cross border disputes, and to be increasingly open to the fact that users of their system might not come from within its own domicile and its own jurisdiction. In this way, we designed the SICC quite deliberately to be able to handle cases that have a different genre and come from a different origin than what we are used to in Singapore.
 
 {:start="31"}	
-31. Recently, I attended the opening of Freshfields’ new and expanded office in Singapore. As you know, with every office opening, there tends to be fanfare and oftentimes, the guests at these openings walk away with a door gift. But this time round, they decided that in lieu of door gifts, they donated $45 per guest who attended to Pro Bono SG – to represent 45 years since Freshfields first set up in Singapore in 1980. I thought this
-was a very wonderful gesture – so thank you, Freshfields.
+31. Earlier, we heard speeches of the development of the common law by great jurists like Lord Denning, but we have decided that in Singapore, where more than half of our trading partners that we do business with come from civil law jurisdictions, we do need to embrace civil law concepts, understand civil law practices, and also, in many ways, understand not just the legal background, but the cultural context and nuances that exist in these countries.
 
 {:start="32"}	
-32. Pro Bono SG has also worked with DLA Piper and the Singapore Corporate Counsel Association to develop the Singapore In-House Legal Counsel Pro Bono Guide, which was released earlier this year. I hope it will inspire and empower even more in-house counsels to integrate pro bono work into their practice.
-
-**V. Conclusion**
+32. So we have deliberately designed the SICC to have an international panel comprising eminent jurists from both common law, as well as civil law jurisdictions.
 
 {:start="33"}	
-33. Finally, I thought I would conclude with a quote from Ruth Bader Ginsburg, a leading legal jurist, who is also activist, who was on the United States’ Supreme Court bench. She said, “Lawyers have a license to practice law for monopoly on certain services. But for that privilege and status, lawyers have an obligation to provide legal services to those without the wherewithal to pay, to respond to needs outside themselves, to help
-repair tears in their communities.”
+33. We allow foreign lawyers and legal experts a right of audience directly before the Court, for example, in large international restructuring cases, many of which are deeply cross-border in nature. Having been in practice in this space, we may see some arbitrage being taken advantage of between different jurisdictions. You might have a case that is in Singapore on a restructuring, but you might have corresponding proceedings elsewhere, and we want to reduce that arbitrage as much as possible. So we allow for foreign lawyers and experts to have right of audience at the SICC.
 
 {:start="34"}	
-34. I thought this was a very meaningful quote because it reflects what we do, and more importantly, why we do it.
+34. We have also allowed procedural flexibility in how parties may conduct their cases.
 
 {:start="35"}	
-35. As we commemorate 60 years of independence (SG60) this year, I think we can all reflect on the spirit of community and care that lies at the heart of our nation.
+35. We now have 24 International Judges who serve alongside our local judges on the SICC Bench. Our International Judges complement our Singapore Judges by being able to hear disputes governed by foreign law, with their deep experience, having specialist knowledge in specialised areas of commercial law, allowing us to enhance the reputation of the SICC, levelling up its thought leadership, and by and large, attracting foreign parties to litigate or to have their cases heard here in Singapore.
+
+**IV. What Lies Ahead - Singapore's Approach**
 
 {:start="36"}	
-36. I think in this regard, the work that has been done by Pro Bono SG, as well as all the constituents, organisations, really deserves a special mention.
+36. With this, it brings me to conclude with some observations of what Singapore’s approach has been over the years, and what we see in light of today’s geopolitical situation, economic climate, as well as the trading relations and the disruption to the rules-based order. I thought I would share, having moved from practice into policy-making over the last few years, Singapore’s perspective on how we see the legal industry in Singapore.
 
 {:start="37"}	
-37. This evening, we will honour the invaluable contributions of the many volunteers, donors and partners, who have played a crucial role in helping us strengthen our justice system and help us to continue to anchor delivery of pro bono services and most importantly, to ensure our legal system remains open and accessible to all. This dedication and compassion ensure that justice is not just a privilege for some.
+37. <u>First</u>, as we look at an increasingly insular and protectionist world, protecting themselves with tariffs and barriers, we think that we need to go the opposite direction. We need to be completely open, or as open as possible. We need to maintain an open approach, not just in our economy, but particularly relevant to all of you, in our legal industry.
 
 {:start="38"}	
-38. So I thank all of you very much for being here, for being a big part of Pro Bono SG’s work, and for your generous contributions.
+38. We do this in a number of ways. We recognise that parties, litigants, their counsel want a choice.
 
 {:start="39"}	
-39. Thank you very much.
+39. As I mentioned earlier, we have a broad, diverse panel on the SICC, and foreign counsel can appear before the SICC on matters of foreign law.
 
-<p></p><p></p><p class="right-side-updated">Last updated on 28 March 2025</p>
+{:start="40"}	
+40. We also have a broad range of different arbitrators and mediators on SIAC and SIMC. We resolve to bring in the best arbitrators onto the panel on SIAC, and are agnostic to their nationality. As long as they can bring value, have stature, be selected by parties, and give good awards, efficient, timely, we invite them onto the SIAC panel.
+
+{:start="41"}	
+41. We have also allowed, over the years, foreign lawyers and foreign law firms to be set up in Singapore to actively practise foreign law, and they can now directly participate in arbitration proceedings, even those involving Singapore law. The number of foreign lawyers practising in Singapore has grown over the decades. We started various schemes, more formally in 2000 so it has been 25 years, and we have seen the number of foreign lawyers grow in Singapore – four-fold since 2000.
+
+{:start="42"}	
+42. Our <u>second</u> approach is to continue to maintain a very fleet-footed approach, to be nimble, to be able to move fast in response to international changes, and more importantly, mercantile and commercial changes. That also comes in the form of how we look at setting up legal institutions, dispute resolution institutions, as well as the changes involved.
+
+{:start="43"}	
+43. The first example is the SICC. I mentioned that we set it up in 2015, but it was barely two years prior when it was first mooted by our Chief Justice Sundaresh Menon at the Opening of the Legal Year in 2013. We saw a gap, and we understood that it needed to be done quickly. And within two years, the legislation, the framework, the structure, and the personalities were in place to set up the SICC.
+
+<p></p><p></p><p class="right-side-updated">Last updated on 10 April 2025</p>
+
