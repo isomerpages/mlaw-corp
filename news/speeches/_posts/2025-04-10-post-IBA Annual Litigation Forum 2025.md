@@ -36,75 +36,91 @@ Ladies and gentlemen
 4. I was a litigator at Allen &amp; Gledhill for 25 years. The topic that I was asked to speak on this morning – the future of litigation – is tantalisingly simple. What is the future like? But I think it is also complex, given what we have seen around the world today.
 
 {:start="5"}	
-5. By ensuring access to justice and ensuring it is a cornerstone of our legal system, we will be able to maintain and foster trust in this system.
+5. We have known for some time now that the world is in a state of flux – increasingly uncertain, unsettled, unstable. The rules-based multilateral trading system, which has allowed so many countries to prosper and progress for the last 80 years, in fact since the end of the second World War, is quickly being eroded.
 
 {:start="6"}	
-6. Pro bono work expands our understanding of what justice entails.
+6. In the last decade alone, we have seen many global events, which have disrupted the world order, divided the world, and changed the way in which we see practice. For example, Brexit in 2016; the US-China trade war, which started growing at a quick pace from 2018; the COVID-19 pandemic, which struck the world in 2020; the Russia-Ukraine war in 2022; and the Gaza war between Israel and Hamas-led Palestinian militant groups in 2023 – some of these man-made, others are not.
 
 {:start="7"}	
-7. In fact, it challenges us as legal professionals to think beyond traditional client relationships, to consider the broader social implications of the work we do, and also encourages us to use our expertise for the greater good.
+7. Many international organisations have sounded the alert on rising geopolitical tensions, and the resulting fragmentation of the global economy. This includes the World Trade Organisation (WTO), the World Economic Forum (WEF), the International Monetary Fund (IMF), the Organisation for Economic Co-operation and Development (OECD), as well as the United Nations Conference on Trade and Development (UNCTAD).
 
 {:start="8"}	
-8. Indeed, the profession has a responsibility to ensure that the law serves everyone, not just the privileged few. I would say it is our collective duty to uphold this responsibility.
-
-**III. MinLaw’s Access to Justice Efforts**
+8. Their messages have, over the last few years, been very consistent. The declining support for free trade and open market will shrink global GDP, and we have seen the impact of some of this on the smaller economies in particular. It will also reduce global output, impact the flow of trade, investment and capital, fuel inflation, and hinder progress and development.
 
 {:start="9"}	
-9. Access to justice is therefore a very key part of my Ministry’s work.
+9. We have seen this bear out in the last few years. For example, just take the US-China trade war since 2018. This has contributed, in real terms, to a lowered aggregate real income in both the US and China. It has increased prices for US households by an average of US$1,200 per year. And it has also contributed, in no small means, to China’s slower GDP growth. So, it is a lose-lose situation for both, and in fact, more than both sides, with related parties like Singapore being caught in the crossfire.
 
 {:start="10"}	
-10. Internationally, we are ranked amongst the top in the world and we ticked almost every other legal-related indicators. For example, Singapore’s Rule of Law was ranked 3rd in IMD’s World Competitiveness Yearbook 2024.
+10. We also begin to see countries shift away from a rules-based response to such challenges.
+
+<p style="margin-left: 40px">(1) For example, the WTO dispute settlement system has been suspended since 2019, when its Appellate Body ceased to function. I think it is a serious sign when a rules-based system that is adjudicating disputes based on the rule of law has decided that it ought not or cannot function.</p>
+
+<p style="margin-left: 40px">(2) Countries like Indonesia, Bolivia, Venezuela, South Africa have taken steps to either terminate their bilateral investment treaties (BITs), or reject the dispute settlement mechanisms in such agreements.</p>
 
 {:start="11"}	
-11. So I think we all agree that we have first-class legal system, first-class and well-respected judiciary. But having a first-class legal system is one thing, having it being made accessible to everyone in our system and society is quite something else.
+11. Businesses operating across borders thus find themselves without access to immediate legal recourse, whilst facing increasing number of trade restrictions imposed by parties.
 
 {:start="12"}	
-12. The Government has been delivering civil legal aid through the Legal Aid Bureau (LAB) to deserving cases since 1958. In fact, we were the very first state in Southeast Asia to have a legal aid scheme.
+12. As all of you would be aware, the sheer scope and scale of trade restrictions have increased exponentially recently, with “Liberation Day” tariffs on all trading partners. Of course, we all woke up this morning to a 90-day pause, literally within hours of the tariffs coming into effect.
 
 {:start="13"}	
-13. To date, LAB has received almost 420,000 applications for legal aid and advice, for civil matters. These range from matrimonial and family issues to estate matters and civil claims. LAB, together with over 161 active Assigned Solicitors, has been one of the bedrock anchors of our legal system.
+13. Economists have calculated the average effective tariff rate to be over 23%. If you look at the original tariff announcements which have been suspended, these range from a minimum of 10% tariff on countries like Singapore, which was put on us, despite us having a trade deficit relationship with the US, to steep and perhaps intolerable levels for countries like China, which is the exception to the suspension that was announced overnight. We now look at tariffs at 125%. If you look at the volume of trade between the US and China, you can begin to calculate the consequential impact it will have on suppliers downstream, upstream, and related parties.
 
 {:start="14"}	
-14. In 2015, we took this a little further.
-
-<p style="margin-left: 40px">(1) As you all know, the Criminal Legal Aid Scheme (CLAS) has been something that has been championed by the Bar for many years. In 2015, we decided, as a Government, to support CLAS even further. CLAS was set up forty years ago, to provide criminal defence aid, to vulnerable persons facing non-capital charges in Singapore.</p>
-
-<p style="margin-left: 40px">(2) The scheme was then privately funded by the Law Society of Singapore, as well as the vagaries of goodwill donations. But we decided that we should institutionalise the availability of CLAS, and we supported CLAS to ensure more volunteer lawyers could provide a broader representation to support even more in the community.</p>
+14. Earlier this year, the IMF estimated that a universal rise of just 10% in US tariffs, accompanied by some measure of retaliation from China and from the EU, could reduce global GDP by about 0.5% through 2026. That was the impact of tariffs alone, excluding other inflationary trends.
 
 {:start="15"}	
-15. More recently, we thought we could expand this a little bit more. So, in December 2022, the Government institutionalised criminal defence aid for accused persons, by setting up the Public Defender’s Office (PDO).
+15. We have already begun to see the impact, although it has been less than a week since the “Liberation Day” announcements.
+
+<p style="margin-left: 40px">(1) Stock and equity markets have collapsed sharply after the 2nd April announcements. Of course, overnight, they have now soared – S&amp;P500, Dow. But the question that we have to ask ourselves is, is this rise back in value really based on value? Or was it based on volatile announcements that have been made? Uncertainty and unpredictability are concepts that the business community does not want or like. You can have bad news, you can understand down the road that there are changes in regulations or laws that affect the way in which you might do business. But volatility and unpredictability are completely anathema to open business concepts.</p>
+
+<p style="margin-left: 40px">(2) China has now responded with its own reciprocal tariffs. It remains to be seen whether other countries will follow suit.</p>
+
+<p style="margin-left: 40px">(3) Researchers from J.P. Morgan have increased their forecast of the risk of a global recession to 40%, up from 30% at the start of 2025.</p>
 
 {:start="16"}	
-16. At the same time, we also took some steps to expand the means test criteria from the 25 th income percentile to the 35 th income percentile, an increase of 10 percentage points to ensure that more people in our society and community will fall within the means test criteria. We also expanded the coverage of the different types of offences – those who worked with CLAS before PDO will know that we used to have a narrow definition what class of offences could receive assistance – we have expanded that. So, eligible Singaporeans as well as Permanent Residents are now able to avail themselves of this after they pass the merits test.
+16. What does this all mean for us?
+
+<p style="margin-left: 40px">(1) In the short to medium term, we can expect a significant global decline in economic activity.</p>
+
+<p style="margin-left: 40px">(2) Some of the multinational corporations and local businesses in Singapore – we keep in touch with the Singapore businesses in a very tight way, because they are on the pulse, they feel the ground, they feel the movements – and they tell us that they have put new projects on hold. They are assessing the full implications of the tariffs.</p>
+
+<p style="margin-left: 40px">(3) I am sure similar conversations are happening right around the world.</p>
 
 {:start="17"}	
-17. Over the last two and a half years or so, the PDO has built up a very good team of 20 defence lawyers, led by the Chief Public Defender. Their task, even though they sit within the Government system, is to ensure the best defence is afforded to every individual that comes their way. I hear from the Chief Public Defender that he and his officers had received good feedback from the Judges, on the quality of work done, and this is a measure by which we judge the PDO, that for every case, they put their best foot forward and put their best case forward, and get the best outcome for every client that comes their way.
+17. That said, I believe, coming back to this topic today, that globalisation will survive. We are too advanced down that road on multilateralism, globalisation, having an open economy for this not to survive.
 
 {:start="18"}	
-18. Today, PDO co-delivers criminal defence aid with Pro Bono SG and CLAS lawyers. I am very proud to say that PDO has received around 3,600 applications in the 2.5 years it has been operating, with about 1,800 of them found to be eligible for aid.
+18. It will have an impact on the future of litigation.
 
 {:start="19"}	
-19. In the same way, I am also very proud of PDO’s partnership with Pro Bono SG and CLAS. This shows that the Government coming in has not dampened the spirit in wanting to continue to serve, to help, to step forward. Whether through CLAS, or as an Assigned Solicitor for LAB, I believe there is always merit in lawyers being involved and committed, to support the needs of ordinary citizens.
+19. Trade will no longer be guided by principles of economic efficiency and comparative advantage. Rather, issues such as political alignment and strategic considerations will begin to drive business considerations. There will be, in the near term, more “friend-shoring” and “near-shoring”. This, of course, will have impact on the contracts that we need to enforce.
 
 {:start="20"}	
-20. So let me, this evening, extend my deepest gratitude to every single CLAS volunteer lawyer, as we celebrate this year the 40th anniversary of CLAS. As a further mark of the Government’s commitment to pro bono and CLAS, this evening, I am very happy to share that MinLaw has committed about $3 million over the next two years, to support Pro Bono SG’s key programmes, including CLAS. We want to do our part to continue to institutionalise access to justice in a firm way in Singapore so that this remains a bedrock of our legal system.
-
-**IV. Pro Bono is a Whole-of-Society Effort**
+20. Businesses will react by seeking new and emerging markets, and will have to find a way to adapt to this new equilibrium. The new businesses may end up re-ordering around nodes and trusted business hubs, where networks of like-minded countries, bound together by political ideology and political support – rather than economic efficiency – might then drive trade behaviour.
 
 {:start="21"}	
-21. On this note, let me also take the opportunity to applaud Pro Bono SG, as well as the many partners within the legal fraternity and outside. We have come together this evening in a spectacular way. I am so glad to see so many of you here, friends of the Bar, and many of my ex-colleagues that I recognise as well.
+21. Therefore, while the shape of the new global system is still in a state of flux, still uncertain and still finding its level, there will, I believe, continue to be international commercial transactions within this new order. There will still be cross-border legal work and disputes.
 
 {:start="22"}	
-22. I want to say a big thank you to your strong fundraising capabilities. This has helped a lot – to give engine to the programmes that Pro Bono SG has. Tonight, we have almost doubled from around $1.5 million three years ago to about almost $3 million in the latest financial year – this is the largest amount that has been raised to date.
+22. This brings me to the topic of the day – the future of litigation.
+
+**III. The Future of Litigation**
 
 {:start="23"}	
-23. My warmest congratulations to the fundraising team, and an even bigger thank you to all those out there who supported the programmes so generously.
+23. All of us as practitioners, I think we know law does not exist in a vacuum. It exists because there are commercial transactions. Law follows businesses.
 
 {:start="24"}	
-24. In doing so, over the last year, we have helped about 15,000 individuals and social impact organisations.
+24. Hence, the increased global trade in the last few decades has corresponded to a rise in the internationalisation of commercial disputes. This is evidenced by the upward trend in the volume of cross-border investment and commercial disputes handled by international institutions right around the world. I think we will need our dispute resolution institutions to serve more and more of the international community.
 
 {:start="25"}	
-25. There have been 660 and counting active volunteer lawyers stepping forward to support the programmes. To go further upstream, whilst law students are still in school, we see about 230 law school undergraduates, as well as another 200 non-legal volunteers stepping forward to play a part in the many programmes. I want to thank our non-legal volunteers, whose role is to make sure that the problems we encounter are not just solved by legal analysis or legal representation.
+25. Let me give you some examples:
+
+<p style="margin-left: 40px">(1) I am sure similar conversations are happening right around the world.</p>
+
+<p style="margin-left: 40px">(2) I am sure similar conversations are happening right around the world.</p>
+
+<p style="margin-left: 40px">(3) I am sure similar conversations are happening right around the world.</p>
 
 {:start="26"}	
 26. Indeed, we all know from seeing the many cases, that when individuals and families encounter legal problems, they might not start as a legal problem. Often, they do not. We find ourselves having to go beyond providing legal aid and assistance. Sometimes, they help seekers who come to us, they require financial assistance.
