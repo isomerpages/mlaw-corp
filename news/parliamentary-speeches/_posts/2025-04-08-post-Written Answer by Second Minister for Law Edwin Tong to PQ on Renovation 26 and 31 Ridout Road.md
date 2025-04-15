@@ -1,5 +1,6 @@
 ---
-title: Written Answer by Second Minister for Law Edwin Tong to PQ on Further Renovation Works and Felling of Trees at 26 and 31 Ridout Road
+title: Written Answer by Second Minister for Law Edwin Tong to PQ on Further
+  Renovation Works and Felling of Trees at 26 and 31 Ridout Road
 permalink: /written-answer-by-second-minister-for-law-edwin-tong-to-pq-on-further-renovation-felling-trees-26-and-31-ridout-road/
 date: 2025-04-08
 layout: post
@@ -31,7 +32,7 @@ variant: markdown
 4.	In addition, in line with an established framework, SLA also carries out maintenance and other works as it is legally required, as landlord, to do. This is done for all its tenantable properties including those at 26 Ridout Road and 31 Ridout Road.
 
 {:start="5"}
-5.	During the tenancy term, tenants are responsible for the general day-to-day maintenance of the building and facilities, and for all land within the tenancy boundary. 22 Tenants are also generally allowed by SLA to carry out improvement works on their property during the tenancy.	
+5.	During the tenancy term, tenants are responsible for the general day-to-day maintenance of the building and facilities, and for all land within the tenancy boundary. Tenants are also generally allowed by SLA to carry out improvement works on their property during the tenancy.	
 
 {:start="6"}
 6.	In this case, since July 2023, the tenant of 26 Ridout Road has carried out various substantial improvement works on the property. These were done with all the necessary regulatory approvals obtained, and at the tenant’s own cost. These improvements will become part of the property, and can be retained for the benefit of the landlord upon the termination of the lease.
