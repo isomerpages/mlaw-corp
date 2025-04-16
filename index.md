@@ -2,10 +2,7 @@
 layout: homepage
 title: Ministry of Law
 permalink: /
-notification: The Ministry of Law Services Centre and the video conferencing
-  counter at the State Courts, Help Centre at Basement 1, will close on 8 April
-  2025 (Tues) and 15 April 2025 (Tues). For more information and closure
-  timings, please visit https://www.mlaw.gov.sg/about-us/contact-us/.
+notification: ""
 sections:
   - hero:
       title: Ministry of Law Singapore
