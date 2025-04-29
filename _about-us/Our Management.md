@@ -21,26 +21,20 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/Minister.jpg">
-</div>
+<img height="250" alt="" src="/images/1510806764644.jpg">
 <h4><strong>Mr K Shanmugam</strong></h4>
 <p>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/2M.jpg">
-</div>
+<img height="250" alt="" src="/images/1532069362285.jpg">
 <h4><strong>Mr Edwin Tong</strong></h4>
 <p>Minister for Culture, Community and Youth and
 <br>Second Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/MOS.jpg">
-</div>
+<img height="250" alt="" src="/images/MOS_Murali_Pillai.jpg">
 <h4><strong>Mr Murali Pillai</strong></h4>
 <p>Minister of State for Ministry of Law and
 <br>Ministry of Transport</p>
@@ -53,23 +47,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/PS.jpg">
-</div>
+<img height="250" alt="" src="/images/ps luke goh.jpg">
 <h4><strong>Mr Luke Goh</strong></h4>
 <p>Permanent Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/DS_P.jpg">
-</div>
+<img height="250" alt="" src="/images/colin_chow.jpg">
 <h4><strong>Mr Colin Chow</strong></h4>
 <p>Deputy Secretary (Policy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/DS_D.jpg">
-</div>
+<img height="250" alt="" src="/images/charlene_chang.jpg">
 <h4><strong>Ms Charlene Chang</strong></h4>
 <p>Deputy Secretary (Development)</p>
 </td>
