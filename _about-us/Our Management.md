@@ -6,7 +6,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Our Management</h2>
-<h3><strong>Political Appointees</strong></h3>
+<h3></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -15,11 +15,16 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Political Appointees</strong></h3>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/Minister.jpg">
 </div>
-<h4><strong>Mr K Shanmugam</strong> </h4>
+<h4><strong>Mr K Shanmugam</strong></h4>
 <p>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
@@ -27,7 +32,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/2M.jpg">
 </div>
-<h4><strong>Mr Edwin Tong</strong> </h4>
+<h4><strong>Mr Edwin Tong</strong></h4>
 <p>Minister for Culture, Community and Youth and
 <br>Second Minister for Law</p>
 </th>
@@ -36,14 +41,43 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/MOS.jpg">
 </div>
-<h4><strong>Mr Murali Pillai</strong> </h4>
+<h4><strong>Mr Murali Pillai</strong></h4>
 <p>Minister of State for Ministry of Law and
 <br>Ministry of Transport</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Senior Management</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/PS.jpg">
+</div>
+<h4><strong>Mr Luke Goh</strong></h4>
+<p>Permanent Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/DS_P.jpg">
+</div>
+<h4><strong>Mr Colin Chow</strong></h4>
+<p>Deputy Secretary (Policy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Management/DS_D.jpg">
+</div>
+<h4><strong>Ms Charlene Chang</strong></h4>
+<p>Deputy Secretary (Development)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
+<h3><strong>Political Appointees</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Mr K Shanmugam" alt="Mr K Shanmugam" src="/images/1510806764644.jpg">
 </div>
