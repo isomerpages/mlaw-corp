@@ -25,7 +25,7 @@ description: ""
 <th rowspan="1" colspan="1">
 	<div class="img-gallery">
 <img src="/images/1510806764644.jpg"></div>
-	<p><strong>Mr K Shanmugam</strong>
+<p><strong>Mr K Shanmugam</strong>
 <br>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
