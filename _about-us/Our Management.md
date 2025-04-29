@@ -22,21 +22,21 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/1510806764644.jpg">
-<h4><strong>Mr K Shanmugam</strong></h4>
-<p>Minister for Home Affairs and
+<p><strong>Mr K Shanmugam</strong>
+<br>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/1532069362285.jpg">
-<h4><strong>Mr Edwin Tong</strong></h4>
-<p>Minister for Culture, Community and Youth and
+<p><strong>Mr Edwin Tong</strong>
+<br>Minister for Culture, Community and Youth and
 <br>Second Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <img height="250" alt="" src="/images/MOS_Murali_Pillai.jpg">
-<h4><strong>Mr Murali Pillai</strong></h4>
-<p>Minister of State for Ministry of Law and
+<p><strong>Mr Murali Pillai</strong>
+<br>Minister of State for Ministry of Law and
 <br>Ministry of Transport</p>
 </th>
 </tr>
@@ -48,18 +48,18 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/ps luke goh.jpg">
-<h4><strong>Mr Luke Goh</strong></h4>
-<p>Permanent Secretary</p>
+<p><strong>Mr Luke Goh</strong>
+<br>Permanent Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/colin_chow.jpg">
-<h4><strong>Mr Colin Chow</strong></h4>
-<p>Deputy Secretary (Policy)</p>
+<p><strong>Mr Colin Chow</strong>
+<br>Deputy Secretary (Policy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/charlene_chang.jpg">
-<h4><strong>Ms Charlene Chang</strong></h4>
-<p>Deputy Secretary (Development)</p>
+<p><strong>Ms Charlene Chang</strong>
+<br>Deputy Secretary (Development)</p>
 </td>
 </tr>
 </tbody>
