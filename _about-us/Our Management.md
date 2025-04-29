@@ -22,7 +22,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <img height="250" alt="" src="/images/1510806764644.jpg">
-<p><strong>Mr K Shanmugam</strong>
+	<p><strong>Mr K Shanmugam</strong>
 <br>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
