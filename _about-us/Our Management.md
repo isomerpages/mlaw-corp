@@ -5,6 +5,8 @@ breadcrumb: Our Management
 variant: markdown
 description: ""
 ---
+<style> .img-gallery { width: 200px; height: 250px; } .img-gallery img { max-width: 100%; } </style>
+
 <h2>Our Management</h2>
 <h3></h3>
 <table style="minWidth: 75px">
@@ -21,20 +23,22 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<img height="250" alt="" src="/images/1510806764644.jpg">
+	<div class="img-gallery">
+<img src="/images/1510806764644.jpg"></div>
 	<p><strong>Mr K Shanmugam</strong>
 <br>Minister for Home Affairs and
 <br>Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
-<img height="250" alt="" src="/images/1532069362285.jpg">
+	<div class="img-gallery">
+<img src="/images/1532069362285.jpg"></div>
 <p><strong>Mr Edwin Tong</strong>
 <br>Minister for Culture, Community and Youth and
 <br>Second Minister for Law</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<img height="250" alt="" src="/images/MOS_Murali_Pillai.jpg">
+<div class="img-gallery">
+<img src="/images/MOS_Murali_Pillai.jpg"></div>
 <p><strong>Mr Murali Pillai</strong>
 <br>Minister of State for Ministry of Law and
 <br>Ministry of Transport</p>
@@ -47,17 +51,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<img height="250" alt="" src="/images/ps luke goh.jpg">
+	<div class="img-gallery">
+<img src="/images/ps luke goh.jpg"></div>
 <p><strong>Mr Luke Goh</strong>
 <br>Permanent Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<img height="250" alt="" src="/images/colin_chow.jpg">
+	<div class="img-gallery">
+<img src="/images/colin_chow.jpg"></div>
 <p><strong>Mr Colin Chow</strong>
 <br>Deputy Secretary (Policy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<img height="250" alt="" src="/images/charlene_chang.jpg">
+	<div class="img-gallery">
+<img src="/images/charlene_chang.jpg"></div>
 <p><strong>Ms Charlene Chang</strong>
 <br>Deputy Secretary (Development)</p>
 </td>
