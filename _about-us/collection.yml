@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - our-vision-mission-and-core-values.md
-      - our-management.md
+      - Our Management.md
       - organisation-structure.md
       - Our Legal System/.keep
       - Our Legal System/our-legal-system.md
