@@ -159,10 +159,10 @@ Ladies and gentlemen
 (e) Because of the international nature of the disputes, we recognise that we cannot operate in isolation. Just as Singapore is integrated into the global trading system, our ADR ecosystem must also be globally connected. To this end, we have liberalised our dispute resolution regime. Parties can appoint counsel, arbitrators and mediators of any nationality. Our ADR institutions boast an international Board, Court and panel from both common law and civil law jurisdictions. We have welcomed leading international ADR institutions, such as the Permanent Court of Arbitration, the International Chamber of Commerce International Court of Arbitration, American Arbitration Association International Centre for Dispute Resolution, WIPO Arbitration and Mediation Centre, to Singapore. These institutions work alongside our Singapore ADR institutions to offer businesses a broad range of options.</p>
 
 <p style="margin-left: 40px">
-(f) f. We also cooperate with international partners at multiple levels, to jointly raise awareness of ADR, and share experience and expertise.</p>
+(f) We also cooperate with international partners at multiple levels, to jointly raise awareness of ADR, and share experience and expertise.</p>
 
 <p style="margin-left: 70px">
-(i) i. At the government-to-government level, I mentioned that the Ministry of Law has signed MOUs with our counterparts across the world, and one area of cooperation is often international commercial dispute resolution.</p>
+(i) At the government-to-government level, I mentioned that the Ministry of Law has signed MOUs with our counterparts across the world, and one area of cooperation is often international commercial dispute resolution.</p>
 
 <p style="margin-left: 70px">
 (ii) At the institutional-to-institutional level, our ADR institutions also collaborate with foreign ADR institutions, trade bodies, bar associations, hearing centres and law schools, to exchange knowledge and best practices.</p>
@@ -208,10 +208,7 @@ Ladies and gentlemen
 **Conclusion**
 
 {:start="26"}
-25. Before I conclude, I would like to thank the organisers – LAWASIA and Law Society – for the kind invitation to speak today.
-
-{:start="26"}
-26. The move to renewable energy will also mean that we can expect to see more disputes arising out of licensing, supply chain, and transitional issues. Last year, Wood Mackenzie estimated that the APAC region is expected to invest US$3.3 trillion in power generation over the next decade. India and China, in particular, are expected to have significant opportunities for renewables development for solar and for wind power.
+26. Before I conclude, I would like to thank the organisers – LAWASIA and Law Society – for the kind invitation to speak today.
 
 {:start="27"}
 27. I leave you with this message: When the world becomes more fragmented and polarised, it is even more critical that we – the people – stand united. While we may be competitors, it can, and should, be a friendly competition, grounded in mutual respect. If the specific excellence of the law is the rule of law, the specific excellence of a globalised world is our work here – the building of a community across borders, grounded in our common humanity, working towards our common good.
