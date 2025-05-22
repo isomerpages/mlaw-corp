@@ -10,38 +10,39 @@ description: ""
 <h2>Our Management</h2>
 
 <h3><strong>Political Appointees</strong></h3>
+
 <div class="img-gallery">
-<img src="/images/1510806764644.jpg">
-</div>
-<p><strong>Mr K Shanmugam</strong> 
-<br>Minister for Home Affairs and
-<br>Minister for Law</p>
-<div class="img-gallery">
-<img src="/images/1532069362285.jpg">
+<img src="/images/Management/Minister.jpg">
 </div>
 <p><strong>Mr Edwin Tong</strong> 
-<br>Minister for Culture, Community and Youth and
-<br>Second Minister for Law</p>
+<br>Minister for Law and Second Minister for Home Affairs</p>
+
 <div class="img-gallery">
-<img src="/images/MOS_Murali_Pillai.jpg">
+<img src="/images/Management/SMS.jpg">
 </div>
 <p><strong>Mr Murali Pillai</strong> 
-<br>Minister of State for Ministry of Law and
-<br>Ministry of Transport</p>
+<br>Senior Minister of State, Ministry of Law and Ministry of Transport</p>
+
+<div class="img-gallery">
+<img src="/images/Management/SPS.jpg">
+</div>
+<p><strong>Mr Eric Chua</strong> 
+<br>Senior Parliamentary Secretary, Ministry of Law and Ministry of Social and Family Development</p>
+
+
 <h3><strong>Senior Management</strong></h3>
 <div class="img-gallery">
-<img src="/images/ps luke goh.jpg">
+<img src="/images/Management/PS.jpg">
 </div>
 <p><strong>Mr Luke Goh</strong> 
 <br>Permanent Secretary</p>
 <div class="img-gallery">
-<img src="/images/colin_chow.jpg">
+<img src="/images/Management/DS_P.jpg">
 </div>
 <p><strong>Mr Colin Chow</strong> 
 <br>Deputy Secretary (Policy)</p>
 <div class="img-gallery">
-<img src="/images/charlene_chang.jpg">
+<img src="/images/Management/DS_D.jpg">
 </div>
 <p><strong>Ms Charlene Chang</strong> 
 <br>Deputy Secretary (Development)</p>
-<p>Last updated 1 May 2025</p>
