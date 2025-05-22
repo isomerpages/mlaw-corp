@@ -5,7 +5,7 @@ breadcrumb: Our Management
 variant: markdown
 description: ""
 ---
-<style> .img-gallery { width: 200px; height: 250px; } .img-gallery img { max-width: 100%; } </style>
+<style> .img-gallery { width: 200px; } .img-gallery img { max-width: 100%; } </style>
 
 <h2>Our Management</h2>
 
