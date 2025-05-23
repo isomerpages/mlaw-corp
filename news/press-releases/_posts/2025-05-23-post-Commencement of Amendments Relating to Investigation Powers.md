@@ -43,6 +43,6 @@ variant: markdown
 
 <p></p><p><sup id="fn1">1.&nbsp;The Act advances our criminal justice system and contains various amendments aimed at (i) protecting the public by strengthening our levers to tackle crime, including serious sexual crime, and (ii) enhancing transparency, fairness and coherence in our criminal court processes. </sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p></p><p><sup id="fn2">2.&nbsp;For more information on the amendments that have already come into force, please see&nbsp; <a href="[https://go.gov.sg/cpcphase1]">Phase 1</a>, <a href="[https://go.gov.sg/cpcphase2]">Phase 2</a> and <a href="[https://go.gov.sg/cpcphase3]">Phase 3</a>.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
+<p></p><p><sup id="fn2">2.&nbsp;For more information on the amendments that have already come into force, please see&nbsp; <a href="https://go.gov.sg/cpcphase1">Phase 1</a>, <a href="https://go.gov.sg/cpcphase2">Phase 2</a> and <a href="https://go.gov.sg/cpcphase3">Phase 3</a>.</sup><a href="#ref2" title="Jump back to footnote 2 in the text." style="font-size: 12px">↩</a></p>
 
 <p class="right-side-updated">Last updated on 23 May 2025</p>
