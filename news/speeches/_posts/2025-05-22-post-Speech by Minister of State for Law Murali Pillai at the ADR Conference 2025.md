@@ -1,6 +1,6 @@
 ---
-title: Speech by Minister of State for Law Murali Pillai at the Alternative Dispute Resolution Conference 2025
-permalink: /speech-by-minister-of-state-for-law-murali-pillai-at-ADR-conference-2025/
+title: Speech by Minister of State for Law Murali Pillai SC at the Alternative Dispute Resolution Conference 2025
+permalink: /speech-by-minister-of-state-for-law-murali-pillai-sc-at-ADR-conference-2025/
 date: 2025-05-22
 layout: post
 description: ""
