@@ -1,6 +1,6 @@
 ---
-title: Commencement of Amendments Relating to Investigation Powers
-permalink: /commencement-of-amendments-relating-to-investigation-powers/
+title: Commencement of Amendments Relating to Investigation Powers under the Criminal Procedure (Miscellaneous Amendments) Act 2024
+permalink: /commencement-of-amendments-relating-to-investigation-powers-under-criminal-procedure-miscellaneous-amendments-act-2024/
 date: 2025-05-23
 layout: post
 description: ""
