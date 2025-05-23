@@ -43,7 +43,7 @@ do.&nbsp;</p>
 </li>
 </ol>
 <p><strong><u>II. Focus of Speech</u></strong>&nbsp;</p>
-<ol>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>This theme also resonates with me, having sat through Budget debates,
 where it was a constant refrain to talk about the geopolitical climate,
@@ -798,5 +798,4 @@ in this difficult, turbulent, troubled world. &nbsp;</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-
-<p class="right-side-updated">Last updated on 25 March 2025</p>
+<p>Last updated on 25 March 2025</p>
