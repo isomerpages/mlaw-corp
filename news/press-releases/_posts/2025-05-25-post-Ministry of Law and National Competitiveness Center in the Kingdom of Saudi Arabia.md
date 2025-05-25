@@ -1,7 +1,6 @@
 ---
-title: Ministry of Law and National Competitiveness Center in the Kingdom of
-  Saudi Arabia
-permalink: /ministry-of-law-and-national-competitiveness-center-in-the-kingdom-of-saudi-arabia/
+title: Ministry of Law and National Competitiveness Center in the Kingdom of Saudi Arabia Sign MOU for Cooperation to Enhance Competitiveness and Capacity Building in Various Sectors
+permalink: /minlaw-and-national-competitiveness-center-in-saudi-arabia-mou-signing/
 date: 2025-05-25
 layout: post
 description: ""
