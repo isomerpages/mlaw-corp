@@ -1,6 +1,6 @@
 ---
-title: Extradition Agreement between the Government of the Republic of Singapore
-permalink: /extradition-agreement-between-the-government-of-the-republic-of-singapore/
+title: Extradition Agreement between the Government of the Republic of Singapore and the Government of the French Republic
+permalink: /extradition-agreement-between-government-of-republic-of-singapore-and-government-of-french-republic/
 date: 2025-05-30
 layout: post
 description: ""
