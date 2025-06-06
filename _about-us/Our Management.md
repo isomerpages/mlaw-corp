@@ -12,7 +12,7 @@ description: ""
 <h3><strong>Political Appointees</strong></h3>
 
 <div class="img-gallery">
-<img src="/images/Management/Minister.jpg">
+<img src="/images/Management/Minister_Edwin_Tong.jpg">
 </div>
 <p><strong>Mr Edwin Tong</strong> 
 <br>Minister for Law and Second Minister for Home Affairs</p>
