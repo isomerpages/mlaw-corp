@@ -118,3 +118,5 @@ variant: markdown
 
 {:start="23"}
 23.&nbsp;MinLaw invites members of the public to provide their feedback on the above proposals by 27 June 2025 via the online feedback form which may be accessed via <a href="https://go.gov.sg/drs-proposed-legis-consult">https://go.gov.sg/drs-proposed-legis-consult</a>.
+
+![](/images/horizontal_drs_pc.png)
