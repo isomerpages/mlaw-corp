@@ -38,10 +38,10 @@ variant: markdown
 <b>Public Consultation</b>
 
 {:start="6"}
-6.&nbsp;MinLaw invites members of the public to provide their feedback on the proposed key amendments to the IRDA, in relation to the DRS. The full consultation paper can be viewed online at: <a href="”https://www.mlaw.gov.sg/public-consultation-on-the-proposed-legislative-amendments-to-the-debt-repayment-scheme/”">https://www.mlaw.gov.sg/public-consultation-on-the-proposed-legislative-amendments-to-the-debt-repayment-scheme</a>.
+6.&nbsp;MinLaw invites members of the public to provide their feedback on the proposed key amendments to the IRDA, in relation to the DRS. The full consultation paper can be viewed online at: <a href="https://go.gov.sg/public-consult-drs">https://go.gov.sg/public-consult-drs</a>.
 
 {:start="7"}
-7.&nbsp;Those who wish to submit their views and feedback may do so by 27 June 2025 at the following link: <a href="”https://go.gov.sg/drs-proposed-legis-consult”">https://go.gov.sg/drs-proposed-legis-consult</a>.
+7.&nbsp;Those who wish to submit their views and feedback may do so by 27 June 2025 at the following link: <a href="https://go.gov.sg/drs-proposed-legis-consult">https://go.gov.sg/drs-proposed-legis-consult</a>.
 
 <b>MINISTRY OF LAW</b><br>
 <b>9 JUNE 2025</b>
