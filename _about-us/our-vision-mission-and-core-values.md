@@ -5,8 +5,9 @@ breadcrumb: Our Vision, Mission and Core Values
 variant: tiptap
 ---
 <h2>Our Vision, Mission and Core Values</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Our Vision, Mission and Core Values" alt="Our Vision, Mission and Core Values" src="/images/about_us.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLAW_Treasury.jpg">
 </div>
 <p><strong>Vision</strong>
 </p>
