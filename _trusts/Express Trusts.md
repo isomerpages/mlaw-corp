@@ -211,7 +211,7 @@ under:</p>
 <li>
 <p><strong><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank"><u>For LTCs<sup>[4]</sup> and PTCs<sup>[5]</sup></u></a></strong>
 <a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">: MAS' Notice TCA-N03 on the Prevention of Money Laundering and Countering
-the Financing of Terrorism - Trust Companies.<sup>[6]</sup> 
+the Financing of Terrorism - Trust Companies.<sup>[6]</sup>
 </a>
 </p>
 </li>
@@ -298,7 +298,7 @@ Singapore ("<strong>IRAS</strong>") to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
 more details, including requesting for a tax reference number.</p>
-<h4><strong>6. Guidance Notes </strong></h4>
+<h4><strong>6. Guidance Notes</strong></h4>
 <p>MinLaw issues Guidance Notes from time to time for trustees whose obligations
 are stipulated in the Trustees Act and the Trustees Regulations. These
 Notes are also distributed to Financial Institutions and Designated Non-Financial
@@ -307,7 +307,7 @@ be issued by the respective supervisors.</p>
 <p>The Guidance Notes that MinLaw has issued are linked below. Trustees may
 wish to refer to these Guidance Notes, to stay abreast of AML/CFT related
 developments.</p>
-<p><a href="/files/Guidance_Note_for_Financial_Institutions_and_Designated_Non_Financial_Businesses_and_Professions.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note 12 August 2024 </a>
+<p><a href="/files/Guidance_Note_for_Financial_Institutions_and_Designated_Non_Financial_Businesses_and_Professions.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note 12 August 2024</a>
 </p>
 <p><a href="/files/2025_0613_Guidance_Note_for_FIs__DNFBPs.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note 13 June 2025</a>
 </p>
