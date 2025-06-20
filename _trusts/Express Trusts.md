@@ -110,25 +110,26 @@ may wish to consider the following:</p>
 who carry on a trust business are licensed and regulated by the Monetary
 Authority of Singapore ("<strong>MAS</strong>") under the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trust Companies Act 2005</a> unless
 specifically exempted. LTCs are able to act as trustees of express trusts,
+arrange for any person to act as trustee in respect of an express trust,
 provide services in relation to the creation of an express trust, as well
-as provide trust administration services. You may wish to refer to <a href="https://eservices.mas.gov.sg/fid/institution?sector=Capital%20Markets&amp;category=Licensed%20Trust%20Company" rel="noopener noreferrer nofollow" target="_blank">MAS’ directory of financial institutions</a> for
+as provide trust administration services for express trusts as part of
+their business activities. You may wish to refer to <a href="https://eservices.mas.gov.sg/fid/institution?sector=Capital%20Markets&amp;category=Licensed%20Trust%20Company" rel="noopener noreferrer nofollow" target="_blank">MAS’ directory of financial institutions</a> for
 a list of LTCs in Singapore.</p>
 </li>
 <li>
-<p><strong>Private Trust Company ("PTC"):</strong> You may wish to consider
-setting up a PTC. A PTC is established to act as a trustee to a trust or
-a number of trusts created by a settlor or settlors who are connected to
-the beneficiaries by blood or legal adoption. PTCs do not have to obtain
-a license from MAS, but have to engage an LTC to carry out certain trust
-administration services, including AML/CFT checks. You may wish to refer
-to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
+<p><strong>Private Trust Company ("PTC"):</strong> A PTC is established to
+act as a trustee to a trust or a number of trusts created by a settlor
+or settlors who are connected to the beneficiaries by blood or legal adoption.
+PTCs do not have to obtain a license from MAS, but have to engage an LTC
+to carry out certain trust administration services, including the full
+range of AML/CFT checks. You may wish to refer to the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a> for
 further information. Please seek legal advice and/or approach an LTC if
 you wish to set up a PTC.</p>
 </li>
 <li>
 <p><strong>Lawyers and Law Firms:</strong> Lawyers and law firms can act as
-trustees if they are an LTC, or if they fall within an exemption in the
-<a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>.<sup>[3]</sup>
+trustees by way of business if they are an LTC, or if they fall within
+an exemption in the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations</a>.<sup>[3]</sup>
 </p>
 </li>
 <li>
@@ -173,42 +174,72 @@ trustee in Court to seek legal or equitable remedies, such as for compensation
 or to recover profits that the trustee obtained from the breach. As another
 example, a trustee who has misappropriated trust property may have committed
 the offence of criminal breach of trust under the <a href="https://sso.agc.gov.sg/Act/PC1871" rel="noopener noreferrer nofollow" target="_blank">Penal Code 1871</a>.</p>
-<p><strong><u>AML/CFT obligations</u></strong>
+<p><strong><u>AML/CFT/CPF obligations</u></strong>
 </p>
 <p>Singapore is a member of the Financial Action Task Force (“<strong>FATF</strong>”)
 which establishes international standards for Anti-Money Laundering, Countering
 the Financing of Terrorism and Proliferation Financing. Singapore is also
-a member of the Global Forum on Transparency and Exchange of Information
+a founding member of the Asia Pacific Group on Money Laundering, as well
+as a member of the Global Forum on Transparency and Exchange of Information
 for Tax Purposes.</p>
 <p>In line with these international standards, Singapore requires trustees
 to:</p>
-<p>1. Obtain and verify information of relevant trust parties (i.e. all settlors,
-trustees, protectors, beneficiaries, and persons who have any power over
-the disposition of the trust);</p>
-<p>2. Obtain and verify information about the effective controllers of relevant
+<p>1. Obtain and verify information relating to the administration of the
+trust, such as the full name of the trust, the date it was set up, its
+tax reference number (if any) and the place to which that tax reference
+number relates, its place of administration, its governing law, and the
+purpose for which the trust was set up;</p>
+<p>2. Retain certain documents relating to a trust, including the trust instrument
+and any letter of wishes;</p>
+<p>3. Obtain and verify information of relevant trust parties (i.e. all settlors,
+trustees, protectors, beneficiaries, class of beneficiaries, objects of
+a power, and persons who have any power over the disposition of the trust)</p>
+<p>4. Obtain and verify information about the effective controllers of relevant
 trust parties;</p>
-<p>3. Obtain information about persons appointed or engaged as a service
+<p>5. Obtain information about persons appointed or engaged as a service
 supplier to the relevant trust (i.e. an agent of, or a service provider
 to, the relevant trust including any investment adviser or manager, accountant
 or tax adviser);</p>
-<p>4. Update information in (1) – (3) in a timely manner and maintain records
+<p>6. Update information in (1) – (3) in a timely manner and maintain records
 for at least 5 years after the trustee ceases to be a trustee of the relevant
 trust; and</p>
-<p>5. Keep accounting records.</p>
+<p>7. Keep accounting records.</p>
 <p>Failure to comply with any of the obligations listed above is an offence.</p>
-<p>These obligations are set out in either:</p>
+<p>For the following groups of FIs, the AML/CFT/CPF obligations are set out
+under:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">Notice TCA-N03 on the Prevention of Money Laundering and Countering the Financing of Terrorism </a>for
-LTCs<sup>[4]</sup> and PTCs<sup>[5]</sup>.</p>
+<p><strong><a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank"><u>For LTCs<sup>[4]</sup> and PTCs<sup>[5]</sup></u></a></strong>
+<a href="https://www.mas.gov.sg/regulation/notices/notice-tca-n03" rel="noopener noreferrer nofollow" target="_blank">: MAS' Notice TCA-N03 on the Prevention of Money Laundering and Countering
+the Financing of Terrorism - Trust Companies.<sup>[6]</sup> 
+</a>
+</p>
 </li>
 <li>
-<p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener noreferrer nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
-and <a href="https://sso.agc.gov.sg/SL/TA1967-S151-2017" rel="noopener noreferrer nofollow" target="_blank">Trustees (Transparency and Effective Control) Regulations 2017</a> (“<strong>Trustees Regulations</strong>”)
-if (i) the trust is governed by Singapore law, (ii) administered in Singapore,
-or (iii) any of the trustees are resident in Singapore.</p>
+<p><strong><u>For Trustee-Managers of Registered Business Trusts</u></strong>:
+Business Trusts Act 2004; Part 7 of the Securities and Futures Act 2001
+and Part IV of the Securities and Futures (Disclosure of Interests) Regulations
+2012.<sup>[7]</sup>
+</p>
+</li>
+<li>
+<p><strong><u>For The Central Depository</u></strong>: MAS’s Notice SFA 03AA-N01
+to the Depository on Prevention of Money Laundering and Countering the
+Financing of Terrorism.<sup>[8]</sup>
+</p>
+</li>
+<li>
+<p><strong><u>For Approved Trustees of Collective Investment Schemes</u></strong>:
+MAS’ Notice SFA 13-N01 to Approved Trustees on Prevention of Money Laundering
+and Countering the Financing of Terrorism.<sup>[9]</sup>
+</p>
 </li>
 </ul>
+<p>For most other trustees, the obligations are stipulated in <a href="https://sso.agc.gov.sg/Act/TA1967" rel="noopener nofollow" target="_blank">Part 7 of the Trustees Act 1967</a> (“<strong>Trustees Act</strong>”)
+and <a href="https://sso.agc.gov.sg/SL/TA1967-S151-2017" rel="noopener nofollow" target="_blank">Trustees (Transparency and Effective Control) Regulations 2017</a> (“<strong>Trustees Regulations</strong>”)
+if (i) the trust is governed by Singapore law, (ii) administered in Singapore,
+or (iii) any of the trustees are resident in Singapore.<sup>[10]</sup>
+</p>
 <p>The police may also require the trustee to produce the abovementioned
 information in a timely manner pursuant to powers of investigation under
 the <a href="https://sso.agc.gov.sg/Act/CPC2010" rel="noopener noreferrer nofollow" target="_blank">Criminal Procedure Code 2010</a> (“<strong>CPC</strong>”),
@@ -220,7 +251,7 @@ persons” that they are acting for a relevant trust before forming a business
 relationship, or entering a transaction of more than $20,000 (whether the
 transaction is carried out in a single operation or in multiple linked
 operations) with that “specified person”. “Specified person” would include
-financial institutions, licensed estate agents, and lawyers.</p>
+financial institutions, licensed estate agents, lawyers, and property developers.</p>
 <p><u>Report a Suspected Breach of a Trustee’s AML/CFT Obligations</u>
 </p>
 <p>If you suspect a trustee may have breached its respective obligations
@@ -247,9 +278,37 @@ action, please make a police report by calling 999 or SMS 71999.</p>
 </p>
 <p><sup>[5] </sup>See Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
 </p>
+<p><sup>[6] </sup>See Paras 1.1, 2.1, 3.1(d) – (e), 6.4 – 6.6, 6.8 – 6.9,
+6.13 – 6.15, 6.24 and 10.3 of Notice TCA-N03, and Regs 19 and 20 of the
+<a href="https://sso.agc.gov.sg/SL/TCA2005-RG4?DocDate=20250123" rel="noopener nofollow" target="_blank">Trust Companies Regulations.</a>
+</p>
+<p><sup>[7] </sup>See section 5 (read with regulation 8 of the Business Trusts
+Regulations), 13, 23, 69, 75(2), 107 and 108 of the Business Trusts Act
+2004, section 137K and 137M of the Securities and Futures Act 2001 and
+regulation 18 and 21 of the Securities and Futures (Disclosure of Interests)
+Regulations 2012.</p>
+<p><sup>[8] </sup>See Paras 6.4 – 6.6, 6.8, 6.12 – 6.14, 6.23 and 11.3 of
+Notice SFA 03AA-N01</p>
+<p><sup>[9] </sup>See Paras 3.1(d) – (e), 6.4 – 6.5, 6.8 – 6.9, 6.13, 6.23
+and 10.3 of Notice SFA 13-N01</p>
+<p><sup>[10] </sup>See Regs 4 – 9 of the Trustees Regulations.</p>
 <h4><strong>5. Filing of Tax Returns</strong></h4>
 <p>Trusts need to file a tax return with the Inland Revenue Authority of
 Singapore ("<strong>IRAS</strong>") to declare the amount of Singapore
 taxable income that was derived in the year preceding the year of assessment.
 Failure to do so may result in penalties. Please refer to <a href="https://www.iras.gov.sg/taxes/other-taxes/trusts" rel="noopener noreferrer nofollow" target="_blank">IRAS’ website</a> for
 more details, including requesting for a tax reference number.</p>
+<h4><strong>6. Guidance Notes </strong></h4>
+<p>MinLaw issues Guidance Notes from time to time for trustees whose obligations
+are stipulated in the Trustees Act and the Trustees Regulations. These
+Notes are also distributed to Financial Institutions and Designated Non-Financial
+Businesses and Professions and complement existing guidance that may also
+be issued by the respective supervisors.</p>
+<p>The Guidance Notes that MinLaw has issued are linked below. Trustees may
+wish to refer to these Guidance Notes, to stay abreast of AML/CFT related
+developments.</p>
+<p><a href="/files/Guidance_Note_for_Financial_Institutions_and_Designated_Non_Financial_Businesses_and_Professions.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note 12 August 2024 </a>
+</p>
+<p><a href="/files/2025_0613_Guidance_Note_for_FIs__DNFBPs.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note 13 June 2025</a>
+</p>
+<p></p>
