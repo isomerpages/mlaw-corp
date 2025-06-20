@@ -23,7 +23,7 @@ information regarding them; and</p>
 </li>
 <li>
 <p>Trustees’ obligations and duties, including with respect to Anti Money Laundering
-/ Countering the Financing of Terrorism (“<strong>AML/CFT</strong>”).</p>
+/ Countering the Financing of Terrorism / Countering Proliferation Financing (“<strong>AML/CFT/CPF</strong>”).</p>
 <p></p>
 <p></p>
 	
