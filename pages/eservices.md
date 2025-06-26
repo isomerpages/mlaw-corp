@@ -32,6 +32,15 @@ the following dates:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
+Mediation Centre, MinLaw Online Enquiries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 June 2025 (Fri) 0800 hrs to 27 June 2025 (Fri) 1200 hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
 Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
 Office</p>
 </td>
