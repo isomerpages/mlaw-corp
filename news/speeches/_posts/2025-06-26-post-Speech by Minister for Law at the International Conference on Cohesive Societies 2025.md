@@ -39,9 +39,9 @@ speed. And even faster with each iteration of social media and technology.</p>
 <p>(3) And social fissures deepen within and between nations. Sometimes people
 take very emotive fault lines, because they are the weakest link in society,
 and they press them hard, and use those as weapons.</p>
-<p>(4) So the challenge to peace and harmony is real — and pressing.9. Yet,
-despite all of this, standing up here and seeing all of you present at
-ICCS, with a strong showing this year – with the many thought-provoking
+<p>(4) So the challenge to peace and harmony is real — and pressing.</p>
+<p>9. Yet, despite all of this, standing up here and seeing all of you present
+at ICCS, with a strong showing this year – with the many thought-provoking
 speeches, the lively plenary sessions, and more importantly, with all the
 networks that you built, all of these demonstrate our collective determination.</p>
 <p>10. All of this demonstrates our collective determination. Despite what
