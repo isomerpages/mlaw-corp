@@ -43,7 +43,7 @@ Mediation Centre, MinLaw Online Enquiries</p>
 <p>Insolvency Office, Public Trustee's Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 June 2025 (Sat) 0000 hrs to 30 June 2025 (Mon) 0800 hrs</p>
+<p>28 June 2025 (Sat) 0000 hrs to 30 June 2025 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
