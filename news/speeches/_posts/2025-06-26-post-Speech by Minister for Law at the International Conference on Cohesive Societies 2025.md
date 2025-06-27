@@ -255,9 +255,9 @@ generations.</p>
 <p>54. Trust me – one day, you will get there when you are the senior generation
 and you think, “what is this music they are listening to, what is this
 language that they’re speaking, I don’t understand it. I look it up on
-Google and it doesn’t really help me.</p>
-<p>So I use my children to help me translate”, but one day you will be there.
-So that intergenerational bonding and cohesion is equally important.</p>
+Google and it doesn’t really help me. So I use my children to help me translate”,
+but one day you will be there. So that intergenerational bonding and cohesion
+is equally important.</p>
 <p>55. While I’m here, I want to cite some inspiring examples of ICCS alumni
 – from our young people.</p>
 <p>(1) I’m told that Win Wen from Malaysia founded Jelajah Harmoni Seberang
