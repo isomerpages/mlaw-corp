@@ -277,4 +277,4 @@ variant: markdown
 {:start="70"}
 70. Thank you very much.
 
-<p class="right-side-updated">Last updated on 27 June 2025</p>
+<p class="right-side-updated">Last updated on 26 June 2025</p>
