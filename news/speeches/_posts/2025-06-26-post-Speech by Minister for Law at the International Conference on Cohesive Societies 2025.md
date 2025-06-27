@@ -1,7 +1,6 @@
 ---
-title: Speech by Minister for Law at the International Conference on Cohesive
-  Societies 2025
-permalink: /speech-by-minister-for-law-at-the-international-conference-on-cohesive-societies-2025/
+title: Closing Remarks by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC at the International Conference on Cohesive Societies 2025
+permalink: /closing-remarks-by-minister-for-law-edwin-tong-at-iccs-2025/
 date: 2025-06-26
 layout: post
 description: ""
