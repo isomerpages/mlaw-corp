@@ -1,5 +1,7 @@
 ---
-title: Driving the Next Stage of the Singapore Legal Industry’s Digitalisation Journey Through the Legal Innovation and Future-Readiness Transformation (LIFT) Initiative
+title: Driving the Next Stage of the Singapore Legal Industry’s Digitalisation
+  Journey Through the Legal Innovation and Future-Readiness Transformation
+  (LIFT) Initiative
 permalink: /driving-the-next-stage-of-digitalisation-through-lift/
 date: 2025-06-30
 layout: post
@@ -56,6 +58,7 @@ variant: markdown
 10.&nbsp; Beyond the LTP, MinLaw will focus efforts through LIFT to provide broader support to lawyers and law firms to adopt legaltech, as part of our efforts to ensure the continued advancement and competitiveness of our legal industry.
 
 **MINISTRY OF LAW**
+
 **30 JUNE 2025**
 
 <p class="right-side-updated">Last updated on 30 June 2025</p>
