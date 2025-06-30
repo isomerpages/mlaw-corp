@@ -1,5 +1,5 @@
 ---
-title: Driving the Next Stage of Digitalisation Through LIFT
+title: Driving the Next Stage of the Singapore Legal Industry’s Digitalisation Journey Through the Legal Innovation and Future-Readiness Transformation (LIFT) Initiative
 permalink: /driving-the-next-stage-of-digitalisation-through-lift/
 date: 2025-06-30
 layout: post
