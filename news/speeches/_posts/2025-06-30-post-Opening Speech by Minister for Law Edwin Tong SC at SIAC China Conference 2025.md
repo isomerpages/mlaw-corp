@@ -66,7 +66,7 @@ c. It attracts around 40% of the world’s foreign direct investments (FDI), and
 7. So, if you look at this, given the economic heft, it is really no surprise that international arbitration has become more “Asianised”, because after all, law follows business. It is because there is a growth in business that opportunities in dispute resolution arise. I believe that this trend is not just anecdotal, but evidenced by very clear, measurable indicators.
 
 {:start="8"}
-8. First, there is growing participation by Asian parties in international disputes.
+8. <u>First</u>, there is growing participation by Asian parties in international disputes.
 
 <p style="margin-left: 40px">
 a. To make this trend clearer, let us just look at the data from non-Asian institutions.</p>
@@ -75,7 +75,7 @@ a. To make this trend clearer, let us just look at the data from non-Asian insti
 b. You take the International Chamber of Commerce (ICC) for example. Parties from Asia-Pacific now make up 25% of the caseload, compared to about 12-15% just about two decades ago. So, the growth is about double over the last two decades, and it is picking up speed and momentum at a rate, which I believe, will become very material.</p>
 
 {:start="9"}
-9. Second, Asian cities are now among the most preferred seats of arbitration.
+9. <u>Second</u>, Asian cities are now among the most preferred seats of arbitration.
 
 <p style="margin-left: 40px">
 a. Gloria alluded to the Queen Mary University of London and White &amp; Case’s International Arbitration Survey, just done earlier this year. 5 of the top 10 seats globally are in Asia – Singapore, Hong Kong, Beijing, Shenzhen, and Shanghai, and the 11th is actually Guangzhou so they sit just outside the top 10.</p>
@@ -87,7 +87,7 @@ b. In contrast, if you dial back 10 years, only 2 Asian cities were in the top 7
 c. Although Asian seats have perhaps, more recently, and more lately come into the mix, I believe they are rapidly closing the gap, which itself reflects the desire and the demand of the commercial sectors.</p>
 
 {:start="10"}
-10. Third, Asian arbitral institutions are not just rising in caseload, but I believe in global stature and standing, and also overall thought leadership.
+10. <u>Third</u>, Asian arbitral institutions are not just rising in caseload, but I believe in global stature and standing, and also overall thought leadership.
 
 <p style="margin-left: 40px">
 a. The same survey ranks six Asian institutions among the global top 10 (or top 13, considering joint rankings) – Singapore International Arbitration Centre (SIAC), Hong Kong International Arbitration Centre (HKIAC), China International Economic and Trade Arbitration Commission (CIETAC), Shenzhen Court of International Arbitration (SCIA), Beijing International Arbitration Centre (BIAC), and Guangzhou Arbitration Commission (GZAC). In 2015, there were just two amongst the top 7 – Singapore and Hong Kong.</p>
@@ -96,7 +96,7 @@ a. The same survey ranks six Asian institutions among the global top 10 (or top 
 b. These institutions are being chosen even in contracts involving non-Asian parties. At SIAC, for example, cases filed in 2024 came from 72 different jurisdictions, two-thirds of those 72 came from outside Asia.</p>
 
 {:start="11"}
-11. Finally, Asian arbitrators are being appointed with increasing frequency, not only by both Asian institutions but also by non-Asian ones.
+11. <u>Finally</u>, Asian arbitrators are being appointed with increasing frequency, not only by both Asian institutions but also by non-Asian ones.
 
 <p style="margin-left: 40px">
 a. Their reputation for skills, expertise, competence, impartiality, and efficient case management is increasingly recognised globally, even in very complex investor-state disputes.</p>
@@ -119,7 +119,7 @@ a. Their reputation for skills, expertise, competence, impartiality, and efficie
 16. That brings me to the second theme that I would like to address.
 
 {:start="17"}
-17. First, a few micro challenges.
+17. <u>First</u>, a few micro challenges.
 
 {:start="18"}
 18. Parties in any arbitration simply want a process that ultimately delivers justice - fairly efficiently, cost effectively. Bottom line is, for all the things that we say about multilateralism, globalisation, rule of law, what parties want is for their case to be resolved quickly, expeditiously, transparently, and predictably.
@@ -134,13 +134,13 @@ a. Their reputation for skills, expertise, competence, impartiality, and efficie
 21. SIAC recently introduced a streamlined procedure designed to be even faster than the expedited procedure for low value and less complex disputes. So again, not a one-size-fits-all, but one that is curated, one that looks at the nature of the dispute, size of the dispute, and attenuates the process to reflect them. These innovations, I believe, make arbitration more responsive ultimately to commercial and mercantile needs.
 
 {:start="22"}
-22. Second, another age-old challenge – cost. Rising cost remains a concern. Arbitration users often point to increasing expenses across the board, whether it is from institutions, legal counsel, arbitrators, or sometimes the process itself being in different jurisdictions, in different countries.
+22. <u>Second</u>, another age-old challenge – cost. Rising cost remains a concern. Arbitration users often point to increasing expenses across the board, whether it is from institutions, legal counsel, arbitrators, or sometimes the process itself being in different jurisdictions, in different countries.
 
 {:start="23"}
 23. Whilst inflation, no doubt, is one key factor, I think the key solution lies in improving productivity. Faster processes will mean fewer man hours, reduced arbitral time, reducing overall expenditure. Ultimately, I think we all know if we want to stay attractive to business users, then if arbitration becomes too costly, businesses will look elsewhere. I believe that will be a missed opportunity, because arbitration remains one of the most effective, open and transparent manner in which a serious complex dispute can be resolved.
 
 {:start="24"}
-24. Third, neutrality. If you look at the first name of any institution, it will reflect the geographical location at which they are anchored. Sometimes, there is a temptation to try to be nationalistic about it, to try to protect the institution – this institution is anchored in my home jurisdiction, let's see what we can do to protect it, to enhance it. But I think that would be a mistake. If institutions are seen as favouring national interest only, they risk losing the trust of the very users that they seek to attract.
+24. <u>Third</u>, neutrality. If you look at the first name of any institution, it will reflect the geographical location at which they are anchored. Sometimes, there is a temptation to try to be nationalistic about it, to try to protect the institution – this institution is anchored in my home jurisdiction, let's see what we can do to protect it, to enhance it. But I think that would be a mistake. If institutions are seen as favouring national interest only, they risk losing the trust of the very users that they seek to attract.
 
 {:start="25"}
 25. In this way, SIAC has taken very careful steps to maintain an open and very international character. Its panel includes more than 700 arbitrators from over 40 jurisdictions, with different legal systems - common law, which we are used to, and civil law, which Singapore is less used to, but we know that our users come from many civil law jurisdictions.
