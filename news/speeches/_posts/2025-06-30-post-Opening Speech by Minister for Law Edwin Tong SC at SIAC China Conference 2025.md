@@ -110,7 +110,7 @@ a. Their reputation for skills, expertise, competence, impartiality, and efficie
 {:start="14"}
 14. We both want to attract FDI inflows, and all investors will be concerned about the stability of the jurisdiction. They will know that with every investment, disputes become part and parcel of the investment. How you resolve those disputes become the key.
 
-{:start="15”}
+{:start="15"}
 15. But at the same time with opportunity comes responsibility. If Asian institutions are to meet the rising global business expectations, and indeed opportunity, then there must be several key challenges that will have to be overcome.
 
 **Exploring Challenges**
