@@ -52,6 +52,8 @@ variant: markdown
 **Table 1: Future use of land for golf courses with leases expiring by 2035**
 ![](/images/Table_for_golf_press_release_2025.png)
 
+**Ensuring Public Access to the Sport and Developing Golf Talents**
+
 {:start="12"}
 12.&nbsp; In addition to a dedicated 18-hole public course, the Government will continue to ensure the provision of access to golf facilities for the public in the long term. To provide more training opportunities for our national team as well as promote golf among youth, the National Service Resort &amp; Country Club will set up a Centre of Excellence (COE) in partnership with the Singapore Golf Association (SGA). This would be in addition to the COE that is already set up in Keppel Club (Sime) to develop youth golfers in Singapore. This will provide dedicated weekly slots for the SGA to facilitate national and youth team training, to expose our athletes to different types of golf courses. This new COE will complement the existing weekly trainings conducted by SGA in other clubs. More details will be shared when ready.
 
