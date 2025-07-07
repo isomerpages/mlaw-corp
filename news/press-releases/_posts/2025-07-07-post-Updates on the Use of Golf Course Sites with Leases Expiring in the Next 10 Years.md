@@ -61,7 +61,7 @@ variant: markdown
 13.&nbsp;Dr Su Chun Wei, Chief of the High Performance Sport Institute said, "Sport Singapore (SportSG) works closely with the Singapore Golf Association (SGA) to develop the sport of golf and support our elite golfers to excel on the international stage. Our collaboration with them focuses on identifying and developing promising junior golfers through initiatives like the SGA Future Squad, which provides a structured pathway into SGA's High Performance Programmes, as well as organising tournaments such as the SGA Junior Inter-Club League and SGA BFG Junior Golf Series that are hosted across various golf courses and clubs in Singapore throughout the year. SportSG also supports our promising and elite golfers through our spexPotential and spexScholarship programme, including Ryan Ang, Hiroshi Tai, Aloysa Atienza, James Leow and Shannon Tan."
 
 
-**ANNEX: ** [LIST OF GOLF COURSES IN SINGAPORE (7 JULY 2025)](/files/Annex__List_of_Golf_Courses_in_Singapore__7_July_2025_.pdf)<br>
+**ANNEX:** [LIST OF GOLF COURSES IN SINGAPORE (7 JULY 2025)](/files/Annex__List_of_Golf_Courses_in_Singapore__7_July_2025_.pdf)<br>
 **INFOGRAPHIC:** [Infographic on Golf Course Leases (2025)](/files/news/press-releases/Infographic_on_golf_course_leases__2025_.pdf)
 
 <b>MINISTRY OF LAW</b><br>
