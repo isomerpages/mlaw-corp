@@ -74,7 +74,7 @@ Singapore Law Gazette. Reproduced with permission.]</p>
 <p><a href="/files/LSRA_Guidelines_on_Financial_Arrangements_between_SLPs_and_FLPs_in_Collaborations_December_2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on Financial Arrangements between Singapore Law Practices and Foreign Law Practices in Collaborations</a> (634KB)[12/2019]</p>
 </li>
 <li>
-<p><a href="/files/Guidance_on_Analysis_of_Client_Risk__Material_Red_Flags__SOW__Ongoing_Monitoring_and_STR_Filing_Timeline.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Analysis of Client Risk, Material Red Flags, SOW, Ongoing Monitoring and STR Filing Timeline</a> (199KB)[07/2025]</p>
+<p><a href="/files/Guidance_on_Analysis_of_Client_Risk__Material_Red_Flags__SOW__Ongoing_Monitoring_and_STR_Filing_Timeline.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Analysis of Client Risk, Identification of Material Red Flags, Source of Wealth (‘SOW’) Establishment, Ongoing Monitoring of Clients and their Transactions, and Suspicious Transaction Report (‘STR’) Filing Timeline</a> (199KB)[07/2025]</p>
 </li>
 </ul>
 </td>
