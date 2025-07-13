@@ -1,5 +1,5 @@
 ---
-title: Speech by Mr Edwin Tong SC at ACMI Charity Golf and Dinner 2025
+title: Speech by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at Swing and Soirée for the Migrant Cause, ACMI Charity Golf and Dinner 2025
 permalink: /speech-by-mr-edwin-tong-sc-at-acmi-charity-golf-and-dinner-2025/
 date: 2025-07-09
 layout: post
