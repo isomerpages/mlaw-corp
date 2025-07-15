@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Ministry of Law Singapore
       subtitle: Advancing access to justice, the rule of law, the economy and society
-        through policy, law and services
+        through policy, law and services.
       background: /images/Hero-Banner-Minlaw.jpg
       button: Learn More
       url: /about-us/ourvision-mission-corevalues/
