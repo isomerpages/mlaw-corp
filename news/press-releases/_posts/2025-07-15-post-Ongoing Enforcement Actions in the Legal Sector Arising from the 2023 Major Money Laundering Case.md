@@ -23,7 +23,7 @@ variant: markdown
 
 <p style="margin-left: 40px">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; performing an adequate analysis of the risks of money laundering in relation to each client;</p>
 
-<p style="margin-left: 40px">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; performing customer due diligence (“**CDD**”) measures that are commensurate with that client’s risk profile;</p>
+<p style="margin-left: 40px">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; performing customer due diligence (“<b>CDD</b>”) measures that are commensurate with that client’s risk profile;</p>
 
 <p style="margin-left: 40px">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; filing a Suspicious Transaction Report with the police if the law practice or lawyer has reasonable grounds to suspect that the client may be engaged in money laundering;</p>
 
