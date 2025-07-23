@@ -1,12 +1,10 @@
 ---
-title: 'Register an Individual'
+title: Register an Individual
 permalink: /law-practice-entities-and-lawyers/registration-of-individuals/register-an-individual/
-breadcrumb: 'Register an Individual'
-third_nav_title: 'Registration of Individuals'
-
+breadcrumb: Register an Individual
+third_nav_title: Registration of Individuals
+variant: markdown
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
 </style>
@@ -21,7 +19,7 @@ Register an Individual
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>
       Step
     </th>
@@ -78,7 +76,7 @@ Register an Individual
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The application may take <b>about 3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
+        <li style="text-align: justify">The application may take <b>about 3-6 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (e.g. involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process. Therefore, you may wish to submit your application at least 6 weeks in advance.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
         <li style="text-align: justify">If the application is rejected, the process will end here.</li>
       </ul>
@@ -142,7 +140,7 @@ Register an Individual
       </ul>
     </td>
   </tr>
-</table>
+</tbody></table>
 
 
-<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
+<p class="right-side-updated">Last updated on 23 Jul 2025</p>
