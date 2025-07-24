@@ -1,12 +1,10 @@
 ---
-title: 'Request a Certificate of Good Standing'
+title: Request a Certificate of Good Standing
 permalink: /law-practice-entities-and-lawyers/other-services/request-for-a-certificate-of-good-standing/
-breadcrumb: 'Request a Certificate of Good Standing'
-third_nav_title: 'Other Services'
-
+breadcrumb: Request a Certificate of Good Standing
+third_nav_title: Other Services
+variant: markdown
 ---
-
-
 Request a Certificate of Good Standing or a Letter of Confirmation
 ---
 
@@ -41,7 +39,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>
       Step
     </th>
@@ -96,7 +94,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">Requests for a Certificate of Good Standing or a Letter of Confirmation may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process.</li>
+        <li style="text-align: justify">Requests for a Certificate of Good Standing or a Letter of Confirmation may take around 3 to 6 weeks to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (e.g. involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process.</li>
         <li style="text-align: justify">Please also note that the LSRA only issues electronic Certificates of Good Standing or Letters of Confirmation.</li>
       </ul>
     </td>
@@ -106,7 +104,7 @@ Request a Certificate of Good Standing or a Letter of Confirmation
       </ul>
     </td>
   </tr>
-</table>
+</tbody></table>
 
 
-<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
+<p class="right-side-updated">Last updated on 23 Jul 2025</p>

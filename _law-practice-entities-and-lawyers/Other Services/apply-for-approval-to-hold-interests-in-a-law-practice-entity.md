@@ -1,12 +1,10 @@
 ---
-title: 'Apply for Approval to Hold Interests in a Law Practice Entity'
+title: Apply for Approval to Hold Interests in a Law Practice Entity
 permalink: /law-practice-entities-and-lawyers/other-services/apply-for-approval-to-hold-interests-in-a-law-practice-entity/
-breadcrumb: 'Apply for Approval to Hold Interests in a Law Practice Entity'
-third_nav_title: 'Other Services'
-
+breadcrumb: Apply for Approval to Hold Interests in a Law Practice Entity
+third_nav_title: Other Services
+variant: markdown
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
 </style>
@@ -39,7 +37,7 @@ Apply for Approval to Hold Interests in a Law Practice Entity
 <p style="text-align: justify"><b>Please also refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for a detailed step-by-step procedure.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>
       Step
     </th>
@@ -90,12 +88,12 @@ Apply for Approval to Hold Interests in a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
+        <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (e.g. involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
       </ul>
     </td>
     <td><ul><li>Nil.</li></ul></td>
   </tr>
-</table>
+</tbody></table>
 
-<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
+<p class="right-side-updated">Last updated on 23 Jul 2025</p>

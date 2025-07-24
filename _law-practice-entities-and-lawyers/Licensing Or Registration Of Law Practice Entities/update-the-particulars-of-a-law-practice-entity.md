@@ -1,12 +1,10 @@
 ---
-title: 'Update the Particulars of a Law Practice Entity'
+title: Update the Particulars of a Law Practice Entity
 permalink: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/update-the-particulars-of-a-law-practice-entity/
-breadcrumb: 'Update the Particulars of a Law Practice Entity'
-third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
-
+breadcrumb: Update the Particulars of a Law Practice Entity
+third_nav_title: Licensing Or Registration Of Law Practice Entities
+variant: markdown
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
 </style>
@@ -21,7 +19,7 @@ Update the Particulars of a Law Practice Entity
 <p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Step</th>
     <th>Exceptions</th>
   </tr>
@@ -75,11 +73,11 @@ Update the Particulars of a Law Practice Entity
   <tr>
     <td>
       <ul>
-        <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex or submitted during the peak period from January to March may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
+        <li style="text-align: justify">The application may take <b>about 3-16 weeks</b> to process, commencing when all required supporting documents and information have been received. Applications that are incomplete, complex (involving concurrent appointments in more than one law practice entity, foreign interests in Singapore law practices and/or collaborations between Singapore and foreign law practice entities) or submitted during the peak period from December to April may require more time to process. Therefore, you may wish to submit your application at least 16 weeks in advance.</li>
         <li style="text-align: justify">The LSRA will seek clarification or further information from the Main Contact for the Application.</li>
         <li style="text-align: justify">Changes made to a law practice's particulars (e.g. name, address, telephone/fax number and/or email address) will be transmitted to the Supreme Court's eLitigation system, within 1-2 working days. For more details on eLitigation, please refer to Supreme Court’s <a href="https://www.judiciary.gov.sg/" target="_blank">website</a>.</li>
         <li style="text-align: justify">If the re-issuance of the licence/certificate is requested, a copy of the new licence/certificate will be emailed to the Main Contact for the Application.</li>
-        <li style="text-align: justify">After LSRA has issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
+        <li style="text-align: justify">After LSRA has re-issued the licence/certificate, it can also be downloaded anytime from myDashboard.</li>
       </ul>
     </td>
     <td>
@@ -88,6 +86,6 @@ Update the Particulars of a Law Practice Entity
       </ul>
     </td>
   </tr>
-</table>
+</tbody></table>
 
-<p class="right-side-updated">Last updated on 12 Apr 2021</p>
+<p class="right-side-updated">Last updated on 23 Jul 2025</p>
