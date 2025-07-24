@@ -77,4 +77,6 @@ Yours sincerely
 
 DR VIVIAN BALAKRISHNAN
 
+[Mr Daren Tang's CV](/files/WIPO_DG_2026_Campaign_DarenTangCV.pdf)
+
 <p class="right-side-updated">Last updated on 24 July 2025</p>
