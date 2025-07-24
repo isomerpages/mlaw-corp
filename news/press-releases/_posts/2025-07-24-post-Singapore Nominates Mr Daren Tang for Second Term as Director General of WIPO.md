@@ -1,5 +1,5 @@
 ---
-title: Singapore Nominates Mr Daren Tang for Second Term as Director General of WIPO
+title: Singapore Nominates Mr Daren Tang for a Second Term as Director General of the World Intellectual Property Organization
 permalink: /singapore-nominates-mr-daren-tang-for-second-term-as-director-general-of-wipo/
 date: 2025-07-24
 layout: post
