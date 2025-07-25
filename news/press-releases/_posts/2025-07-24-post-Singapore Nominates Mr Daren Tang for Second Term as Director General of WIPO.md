@@ -1,5 +1,6 @@
 ---
-title: Singapore Nominates Mr Daren Tang for a Second Term as Director General of the World Intellectual Property Organization
+title: Singapore Nominates Mr Daren Tang for a Second Term as Director General
+  of the World Intellectual Property Organization
 permalink: /singapore-nominates-mr-daren-tang-for-second-term-as-director-general-of-wipo/
 date: 2025-07-24
 layout: post
@@ -20,7 +21,7 @@ variant: markdown
 
 <p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Transforming the IP Ecosystem:</u> During his first term, Mr Tang refreshed WIPO’s approach to IP, going beyond its legal and technical focus, to position IP as a catalyst for economic growth and social progress. In this regard, WIPO has helped many developing Member States modernise their national IP strategies and transform their IP offices into innovation agencies. WIPO also actively fosters understanding and alignment in emerging areas of work such as artificial intelligence (AI), IP financing, innovation economics, and Standard Essential Patents (SEPs).</p>
 
-<p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Leading with Impact:</u> WIPO’s programmes today focus on impactful, tangible support for innovators and creators around the world. Beyond supporting national IP strategies, WIPO has extended its reach to a wide spectrum of stakeholders, ranging from Micro, Small, and Medium Enterprises (MSMEs) to women and youths. WIPO has supported over 200,000 MSMEs through tailored projects leading to significant job creation and socio-economic development. The transformed WIPO Academy has since trained over 600,00 persons, of which 400,000 were youths, and 300,000 women.</p> &nbsp;
+<p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Leading with Impact:</u> WIPO’s programmes today focus on impactful, tangible support for innovators and creators around the world. Beyond supporting national IP strategies, WIPO has extended its reach to a wide spectrum of stakeholders, ranging from Micro, Small, and Medium Enterprises (MSMEs) to women and youths. WIPO has supported over 200,000 MSMEs through tailored projects leading to significant job creation and socio-economic development. The transformed WIPO Academy has since trained over 600,00 persons, of which 400,000 were youths, and 300,000 women.</p> 
 
 <p style="margin-left: 40px">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Strengthening Multilateralism:</u> Mr Tang has re-energised WIPO as a platform for open, collaborative and impactful multilateralism. Under his leadership, WIPO successfully concluded two landmark multilateral treaties in 2024 – the WIPO Treaty on IP, Genetic Resources and associated Traditional Knowledge (GRATK), and the Riyadh Design Law Treaty (RDLT) – the first treaties that WIPO has concluded in more than a decade.</p>
 
@@ -51,15 +52,11 @@ variant: markdown
 
 24 July 2025
 
-His Excellency Mr James Baxter
-
-Chair, WIPO Coordination Committee
-
-34 Chemin des Colombettes
-
-CH 1211 Geneva 20
-
-SWITZERLAND
+His Excellency Mr James Baxter<br>
+Chair, WIPO Coordination Committee<br>
+34 Chemin des Colombettes<br>
+CH 1211 Geneva 20<br>
+SWITZERLAND<br>
 
 Your Excellency,
 
