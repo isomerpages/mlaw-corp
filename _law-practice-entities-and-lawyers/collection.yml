@@ -1,0 +1,26 @@
+collections:
+  law-practice-entities-and-lawyers:
+    output: true
+    order:
+      - Licensing Or Registration Of Law Practice Entities/.keep
+      - Licensing Or Registration Of Law Practice Entities/types-of-licence-or-registration.md
+      - Licensing Or Registration Of Law Practice Entities/apply-for-a-licence-or-registration-for-a-new-law-practice-entity.md
+      - Licensing Or Registration Of Law Practice Entities/update-the-particulars-of-a-law-practice-entity.md
+      - Licensing Or Registration Of Law Practice Entities/renew-the-licence-of-a-law-practice-entity.md
+      - Licensing Or Registration Of Law Practice Entities/terminate-the-licence-or-registration-of-a-law-practice-entity.md
+      - Licensing Or Registration Of Law Practice Entities/approval-to-share-premises.md
+      - Registration of Individuals/.keep
+      - Registration of Individuals/types-of-individual-registration.md
+      - Registration of Individuals/register-an-individual.md
+      - Registration of Individuals/update-the-particulars-of-an-individual.md
+      - Registration of Individuals/renew-the-registration-of-an-individual.md
+      - Registration of Individuals/terminate-the-registration-of-an-individual.md
+      - Other Services/.keep
+      - Other Services/apply-for-approval-to-hold-interests-in-a-law-practice-entity.md
+      - Other Services/request-a-certificate-of-good-standing.md
+      - Other Services/report-a-breach-by-a-law-practice-entity.md
+      - Resources for Law Practice Entities/.keep
+      - Resources for Law Practice Entities/relevant-legislation-and-communications.md
+      - Resources for Law Practice Entities/useful-templates.md
+      - Resources for Law Practice Entities/relevant-organisations.md
+      - incentive-and-exemption-schemes.md
