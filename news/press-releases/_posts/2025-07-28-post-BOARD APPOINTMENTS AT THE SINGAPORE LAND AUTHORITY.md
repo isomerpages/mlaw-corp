@@ -1,5 +1,5 @@
 ---
-title: BOARD APPOINTMENTS AT THE SINGAPORE LAND AUTHORITY
+title: Board Appointments at the Singapore Land Authority
 permalink: /board-appointments-at-the-singapore-land-authority/
 date: 2025-07-28
 layout: post
