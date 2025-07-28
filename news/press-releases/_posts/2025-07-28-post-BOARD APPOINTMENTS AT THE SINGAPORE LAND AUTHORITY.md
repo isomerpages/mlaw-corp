@@ -83,8 +83,8 @@ variant: markdown
 
 
 <b>MINISTRY OF LAW</b><br>
-<b>24 JULY 2025</b>
+<b>28 JULY 2025</b>
 
 [ANNEX](/files/news/press-releases/Annex___2025_Board_Appointments_at_the_Singapore_Land_Authority.pdf)
 
-<p class="right-side-updated">Last updated on 24 July 2025</p>
+<p class="right-side-updated">Last updated on 28 July 2025</p>
