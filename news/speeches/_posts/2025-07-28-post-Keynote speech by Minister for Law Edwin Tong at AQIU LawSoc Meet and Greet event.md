@@ -1,6 +1,5 @@
 ---
-title: Keynote speech by Minister for Law Edwin Tong at AQIU LawSoc Meet and
-  Greet event
+title: Keynote Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC, at the Aquatics Integrity Unit and the Law Society of Singapore Meet-and-Greet Event
 permalink: /keynote-speech-by-minister-for-law-edwin-tong-at-aqiu-lawsoc-meet-and-greet-event/
 date: 2025-07-28
 layout: post
