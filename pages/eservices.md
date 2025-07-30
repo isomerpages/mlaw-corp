@@ -32,10 +32,13 @@ the following dates:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
-Mediation Centre, MinLaw Online Enquiries</p>
+Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
+Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
+Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
+Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 July 2025 (Fri) 1800 hrs to 18 July 2025 (Fri) 2100 hrs</p>
+<p>02 August 2025 (Sat) 0000 hrs to 03 August 2025 (Sun) 1800 hrs</p>
 </td>
 </tr>
 <tr>
