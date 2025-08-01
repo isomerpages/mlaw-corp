@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by Minister Edwin Tong, at WIPO Reception
+title: Opening Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the Reception in Honour of Director General of the World Intellectual Property Organization (WIPO) Mr Daren Tang
 permalink: /opening-remarks-by-minister-edwin-tong-at-wipo-reception/
 date: 2025-08-01
 layout: post
