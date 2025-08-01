@@ -1,12 +1,10 @@
 ---
-title: 'Renew the Registration of an Individual'
+title: Renew the Registration of an Individual
 permalink: /law-practice-entities-and-lawyers/registration-of-individuals/renew-the-registration-of-an-individual/
-breadcrumb: 'Renew the Registration of an Individual'
-third_nav_title: 'Registration of Individuals'
-
+breadcrumb: Renew the Registration of an Individual
+third_nav_title: Registration of Individuals
+variant: markdown
 ---
-
-
 <style>
 table tr td ul li {font-size: 1rem;}
 </style>
@@ -18,10 +16,10 @@ Renew the Registration of an Individual
 
 <p style="text-align: justify"><b>You may also wish to refer to the <a href="https://eservices.mlaw.gov.sg/LSRA/lsra-home" target="_blank">User Guide</a> (under Quick Links) for step-by-step instructions on how to submit an application via LSRA e-Services.</b></p>
 
-<p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://ask.gov.sg/mlaw" target="_blank">FAQs</a>.</b></p>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>
       Step
     </th>
@@ -127,6 +125,6 @@ Renew the Registration of an Individual
       </ul>
     </td>
   </tr>
-</table>
+</tbody></table>
 
-<p class="right-side-updated">Last updated on 12 Apr 2021</p> 
+<p class="right-side-updated">Last updated on 12 Apr 2021</p>
