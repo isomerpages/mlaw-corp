@@ -54,8 +54,8 @@ variant: markdown
 
 <p style="margin-left: 40px">This took into consideration that M&amp;M had acted for one client to convey one property valued at around $40 million. The inquiries revealed that while M&amp;M conducted checks into the client’s source of funds, its independent checks were not sufficiently in-depth. Instead, it relied unduly on checks which it assumed that third parties would have done on its client.</p>
 
-<p style="margin-left: 40px"><b>(5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; William Poh &amp; Louis Lim (“WPLL”),</b> now Louis Lim &amp; Partners; and</p><br>
-<p style="margin-left: 40px"><b>(6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Templars Law LLC (“TL”)</b></p>
+<p style="margin-left: 40px"><b>(5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; William Poh &amp; Louis Lim (“WPLL”),</b> now Louis Lim &amp; Partners; and<br>
+<b>(6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Templars Law LLC (“TL”)</b></p>
 
 <p style="margin-left: 40px">Mr Poh Tian Hock William was the managing partner and sole partner-in-charge of conveyancing matters at WPLL until around May 2023. During that time, he had commenced transactions for six clients to convey 32 properties valued at around $246.7 million in total. 26 of these property transactions concluded while Mr Poh was practising in WPLL.</p>
 
