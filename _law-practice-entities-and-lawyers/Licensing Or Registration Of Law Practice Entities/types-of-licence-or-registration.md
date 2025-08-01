@@ -16,7 +16,7 @@ Types of Licence or Registration
 
 <p style="text-align: justify">The table below provides an overview of the key features of each type of licence or registration. For full details of the applicable requirements, privileges and conditions, please read the <a href="/law-practice-entities-and-lawyers/resources-for-law-practice-entities/relevant-legislation-and-communications/" target="_blank">Legal Profession Act (Cap. 161), Legal Profession (Law Practice Entities) Rules 2015, and other relevant subsidiary legislation</a>. Please note that the LSRA does not give legal or commercial advice. You should seek independent legal advice if required.</p>
 
-<p style="text-align: justify"><b>For more information, please refer to our <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" target="_blank">FAQs</a>.</b></p>
+<p style="text-align: justify"><b>For more information, please refer to our <a href="https://ask.gov.sg/mlaw" target="_blank">FAQs</a>.</b></p>
 <table>
   <tbody><tr>
     <th>
