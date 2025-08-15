@@ -50,6 +50,8 @@ links:
   - title: E-Services
     url: /e-services/
     sublinks:
+      - title: OneMinLaw Portal
+        url: https://eservices.mlaw.gov.sg/OMP
       - title: Insolvency Office
         url: https://eservices.mlaw.gov.sg/io/
         external: true
