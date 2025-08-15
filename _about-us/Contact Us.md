@@ -6,6 +6,55 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<h3><strong>Closure of the Ministry of Law Services Centre</strong></h3>
+</blockquote>
+<p>The Ministry of Law Services Centre and the video conferencing counter
+at the State Courts, Help Centre at Basement 1, will close on the following
+date for staff training:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Closure Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Last Queue Ticket Issued</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resumption Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 August 2025, Friday from 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 August 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p></p>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
