@@ -53,8 +53,9 @@ date for staff training:</p>
 </tr>
 </tbody>
 </table>
-<blockquote>
+<p>Thank you for your understanding.</p>
 <p></p>
+<blockquote>
 <h3><strong>Chat Online with Us!</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
