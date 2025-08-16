@@ -22,7 +22,8 @@ visiting us. This will help to reduce waiting time.]</p>
 <p>Live chat support for immediate asstance</p>
 </li>
 </ul>
-<p>Visit the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> to get started.</p>
+<p>Visit the <a href="https://eservices.mlaw.gov.sg/OMP" rel="noopener nofollow" target="_blank">OneMinLaw Portal</a> to
+get started.</p>
 <p>Stay tuned - more features coming soon!</p>
 <hr>
 <h4><strong>Insolvency Office (IO) E-Services</strong></h4>
