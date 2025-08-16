@@ -23,8 +23,8 @@ visiting us. This will help to reduce waiting time.]</p>
 </li>
 </ul>
 <p>Visit the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> to get started.</p>
-<p></p>
 <p>Stay tuned - more features coming soon!</p>
+<hr>
 <h4><strong>Insolvency Office (IO) E-Services</strong></h4>
 <p>To apply for the Simplified Insolvency Programme, please refer to the
 instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">SIP FAQ</a> (hyperlink:
