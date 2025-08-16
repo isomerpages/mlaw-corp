@@ -27,7 +27,7 @@ sections:
           url: https://www.singaporeconventionweek.sg/
         - title: ONEMINLAW PORTAL [NEW!!]
           description: Make an appointment with us
-          url: https://eservices.mlaw.gov.sg/OMP/index.html
+          url: https://eservices.mlaw.gov.sg/OMP/
   - resources:
       title: News and Information
       subtitle: Top Stories
