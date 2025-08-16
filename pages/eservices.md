@@ -4,6 +4,27 @@ permalink: /e-services/
 breadcrumb: E-Services
 variant: tiptap
 ---
+<h4><strong>OneMinLaw Portal</strong></h4>
+<p>A centralised digital concierge for MinLaw's services. The OneMinLaw Portal
+offers:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appointment booking and management for counter services at the Ministry
+of Law Services Centre and selected ServiceSG centres.
+<br>[Note: For a smoother experience, please make an appointment via the OneMinLaw
+Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before
+visiting us. This will help to reduce waiting time.]</p>
+</li>
+<li>
+<p>Manage and update your personal profile</p>
+</li>
+<li>
+<p>Live chat support for immediate asstance</p>
+</li>
+</ul>
+<p>Visit the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> to get started.</p>
+<p></p>
+<p>Stay tuned - more features coming soon!</p>
 <h4><strong>Insolvency Office (IO) E-Services</strong></h4>
 <p>To apply for the Simplified Insolvency Programme, please refer to the
 instructions in <a href="https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/" rel="noopener noreferrer nofollow" target="_blank">SIP FAQ</a> (hyperlink:
