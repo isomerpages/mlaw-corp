@@ -32,9 +32,8 @@ from 6:00 PM to 11:59 PM. For any ad hoc maintenance, please check <a href="http
 <h3><strong>Visit Us</strong></h3>
 </blockquote>
 <p><strong>Ministry of Law Services Centre</strong> 
-<br>For a smoother experience, please make an appointment via the OneMinLaw
-Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before
-visiting us. This will help to reduce waiting time.</p>
+<br>To reduce waiting time for a smoother experience, please make an appointment
+via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us.</p>
 <p><strong>Operating Hours</strong>
 <br>Monday to Friday, 8:30 AM to 5:00 PM (Last queue ticket will be issued
 at 4:30 PM)
