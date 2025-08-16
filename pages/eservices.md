@@ -12,8 +12,7 @@ offers:</p>
 <p>Appointment booking and management for counter services at the Ministry
 of Law Services Centre and selected ServiceSG centres.
 <br>[Note: To reduce waiting time for a smoother experience, please make an
-appointment via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us. This will
-help to reduce waiting time.]</p>
+appointment via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us.]</p>
 </li>
 <li>
 <p>Manage and update your personal profile</p>
