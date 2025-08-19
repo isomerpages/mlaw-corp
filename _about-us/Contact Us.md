@@ -6,25 +6,6 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h3><strong>Important Service Update</strong></h3>
-<p></p>
-</blockquote>
-<p>We are experiencing intermittent issues with our Contact Centre phone
-lines (Hotline) and are working to resolve them. In the meantime, please
-contact us through:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://static.zdassets.com/web_widget/latest/liveChat.html?v=10#key=flexanswer1659.zendesk.com&amp;title=MinLaw%20Live%20Chat" rel="noopener nofollow" target="_blank">Live chat</a>
-</p>
-</li>
-<li>
-<p><a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">Online enquiry form</a>
-</p>
-</li>
-</ul>
-<p>We apologise for any inconvenience caused and thank you for your patience.</p>
-<p></p>
-<blockquote>
 <h3><strong>Chat with Us</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
