@@ -310,7 +310,7 @@ Mediation Centre (AMC), the ICC Court of Arbitration, and the Permanent Court of
 75. In the global international arbitration system, ethical values are the common language that binds us. What allows arbitration to function across these divides is the shared assurance that proceedings will be conducted by all concerned with integrity.
 
 {:start="76"}
-76. They did not sign up to a process that is unfair, that is not transparent. They signed up and agreed to be bound by a process that has transparency and fairness and integrity at the bedrock of the entire process. In the global international arbitration system, whether it is common law or civil law, you have one rule or another. You have different governing rules. But I believe that the ethical values are the common language that binds us across all genres of arbitratio
+76. They did not sign up to a process that is unfair, that is not transparent. They signed up and agreed to be bound by a process that has transparency and fairness and integrity at the bedrock of the entire process. In the global international arbitration system, whether it is common law or civil law, you have one rule or another. You have different governing rules. But I believe that the ethical values are the common language that binds us across all genres of arbitration.
 
 {:start="77"}
 77. What allows arbitration to function across these divides is the shared assurance that proceedings will be conducted by all concerned with utmost integrity.
