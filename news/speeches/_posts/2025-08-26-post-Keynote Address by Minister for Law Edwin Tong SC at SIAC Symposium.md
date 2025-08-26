@@ -1,6 +1,6 @@
 ---
-title: Keynote Address by Minister for Law Edwin Tong SC at SIAC Symposium
-permalink: /keynote-address-by-minister-for-law-edwin-tong-sc-at-siac-symposium/
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC, at the SIAC Symposium
+permalink: /keynote-address-by-minister-for-law-edwin-tong-sc-siac-symposium/
 date: 2025-08-26
 layout: post
 description: ""
