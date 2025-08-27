@@ -1,5 +1,5 @@
 ---
-title: Welcome Remarks by Minister Edwin Tong at ADR TIPS
+title: Welcome Remarks by Mr Edwin Tong SC, Minister For Law and Second Minister for Home Affairs, at the ADR TIPS (Appropriate Dispute Resolution for Technology and Intellectual Property in Singapore) event
 permalink: /welcome-remarks-by-minister-edwin-tong-at-adr-tips/
 date: 2025-08-27
 layout: post
