@@ -52,6 +52,14 @@ the following dates:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>OneMinLaw Portal (OMP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 August 2025 (Fri) 1800 hrs to 29 August 20205 (Fri) 2359 hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Legal Services Regulatory Authority, Exemptions (Singapore Bar/FPE), Community
 Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
 Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
