@@ -69,7 +69,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 August 2025 (Sat) 1400 hrs to 25 August 2025 (Mon) 0800 hrs</p>
+<p>30 August 2025 (Sat) 1400 hrs to 1 September 2025 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
