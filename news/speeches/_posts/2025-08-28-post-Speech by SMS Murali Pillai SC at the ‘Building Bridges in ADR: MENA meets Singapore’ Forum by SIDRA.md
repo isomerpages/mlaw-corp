@@ -1,6 +1,6 @@
 ---
-title: "Speech by SMS Murali Pillai SC at the ‘Building Bridges in ADR: MENA
-  meets Singapore’ Forum by SIDRA"
+title: Speech by Senior Minister of State for Law Murali Pillai SC at the ‘Building Bridges in ADR: MENA
+  meets Singapore’ Forum by SIDRA
 permalink: /speech-by-sms-murali-pillai-sc-at-the-building-bridges-in-adr-mena-meets-singapore-forum-by-sidra/
 date: 2025-08-28
 layout: post
