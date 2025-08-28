@@ -1,6 +1,6 @@
 ---
-title: SMS speech at SIDRA
-permalink: /sms-speech-at-sidra/
+title: Speech by Senior Minister of State Murali Pillai SC at the ‘Building Bridges in ADR: MENA meets Singapore’ Forum by SIDRA
+permalink: /speech-sms-murali-pillai-sc-at-sidra-forum/
 date: 2025-08-27
 layout: post
 description: ""
