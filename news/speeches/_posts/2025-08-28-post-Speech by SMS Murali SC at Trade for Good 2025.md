@@ -7,10 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Mr Alvin Lee
-<br>Country Chief Executive Officer,<br> 
-<br>Chief Executive Officer, Maybank Singapore Limited and <br>
-<br>Chief Executive Officer, Malayan Banking Berhad Singapore<br>
+Mr Alvin Lee<br>Country Chief Executive Officer, <br>Chief Executive Officer, Maybank Singapore Limited and <br>Chief Executive Officer, Malayan Banking Berhad Singapore<br>
 
 <p>Mr Aditya Laroia </p>
 Chief Executive Officer, Maybank Securities Singapore
