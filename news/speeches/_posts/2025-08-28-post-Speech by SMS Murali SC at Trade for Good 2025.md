@@ -9,8 +9,7 @@ variant: markdown
 ---
 Mr Alvin Lee<br>Country Chief Executive Officer, <br>Chief Executive Officer, Maybank Singapore Limited and <br>Chief Executive Officer, Malayan Banking Berhad Singapore<br>
 
-<p>Mr Aditya Laroia </p>
-Chief Executive Officer, Maybank Securities Singapore
+<p>Mr Aditya Laroia <br>Chief Executive Officer, Maybank Securities Singapore</p>
 
 Distinguished guests, ladies and gentlemen. 
 
