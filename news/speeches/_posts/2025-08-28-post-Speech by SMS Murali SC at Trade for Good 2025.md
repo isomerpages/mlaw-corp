@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Mr Alvin Lee</p>
+Mr Alvin Lee
 <br>Country Chief Executive Officer,<br> 
 <br>Chief Executive Officer, Maybank Singapore Limited and <br>
 <br>Chief Executive Officer, Malayan Banking Berhad Singapore<br>
