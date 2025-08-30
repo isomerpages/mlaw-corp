@@ -1,5 +1,5 @@
 ---
-title: Minister Edwin Tong at YWCA's 150th Anniversary Commemoration Dinner
+title: Speech by Minister Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at YWCA's 150th Anniversary Commemoration Dinner
 permalink: /minister-edwin-tong-at-ywca-s-150th-anniversary-commemoration-dinner/
 date: 2025-08-29
 layout: post
