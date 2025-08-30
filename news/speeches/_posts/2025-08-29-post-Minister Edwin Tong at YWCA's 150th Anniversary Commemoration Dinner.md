@@ -1,5 +1,6 @@
 ---
-title: Speech by Minister Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at YWCA's 150th Anniversary Commemoration Dinner
+title: Speech by Minister Edwin Tong SC, Minister for Law and Second Minister
+  for Home Affairs, at YWCA's 150th Anniversary Commemoration Dinner
 permalink: /minister-edwin-tong-at-ywca-s-150th-anniversary-commemoration-dinner/
 date: 2025-08-29
 layout: post
@@ -144,7 +145,7 @@ Ladies and gentlemen
 28. With the OSC, no longer will victims be entirely dependent on online service providers to do the right thing. We intend to put the legislation in the coming months, and this will be operational by the first half of 2026.
 
 {:start="29"}
-29. But at the same time, laws cannot solve difficult social problems such as online harms. We are fortunate, therefore, that we have other community organisations that have acted in the spirit of YWCA’s example of community service.
+29. But at the same time, laws alone cannot solve difficult social problems such as online harms. We are fortunate, therefore, that we have other community organisations that have acted in the spirit of YWCA’s example of community service.
 
 {:start="30"}
 30. SHECARES@SCWO is Singapore’s – and Asia’s - first one-stop support centre for survivors of online harms. Operated by SG Her Empowerment (or SHE for short) in collaboration with the Singapore Council of Women’s Organisations, the centre provides holistic victim support, including free counselling, and it will be, and has been, a safe space for victims and survivors to turn to when they encounter online harms.
