@@ -1,5 +1,5 @@
 ---
-title: "Senior Parliamentary Secretary, Ministry of Law and Ministry of Social and Family Development Eric Chua ‘Walking the Line: Ethics, Advocacy and Integrity in Mediation Practice’ Seminar by the Singapore International Mediation Institute & The Law Society of Singapore"
+title: "Speech by Senior Parliamentary Secretary, Ministry of Law and Ministry of Social and Family Development Eric Chua at the ‘Walking the Line: Ethics, Advocacy and Integrity in Mediation Practice’ Seminar by the Singapore International Mediation Institute & The Law Society of Singapore"
 permalink: /sps-eric-chua-at-the-walking-the-line-seminar-by-simi-lawsoc/
 date: 2025-08-29
 layout: post
