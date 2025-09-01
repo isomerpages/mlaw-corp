@@ -66,35 +66,11 @@ variant: markdown
 {:start="10"}
 10.&nbsp; Members of the public are invited to submit their views by **30 September 2025**, via email or in hard copy, with the subject or header “**2025 Public Consultation on Guide for Using GenAI in the Legal Sector**” to the following:
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-border-alt:solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="284" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
-  height:64.95pt"><td style="width:213.1pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:64.95pt" valign="top" width="284"><p style="margin-bottom:0cm;margin-top:0cm;mso-margin-bottom-alt:
-  10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;text-align:justify;
-  line-height:120%;mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">MinLaw</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"></span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-US" lang="EN-US">Legal Technology Transformation Office</span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-US" lang="EN-US">100 High Street, #08-02, The Treasury</span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-ansi-language:EN-US" lang="EN-US">Singapore 179434</span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Email: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"><a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a><span style="color:black"></span></span></p><p style="margin-bottom:0cm;margin-bottom:0cm;margin-top:
-  0cm;mso-margin-bottom-alt:10.0pt;mso-margin-top-alt:0cm;mso-add-space:auto;
-  text-align:justify;line-height:120%;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
-
+**MinLaw**
+Legal Technology Transformation Office
+100 High Street, #08-02, The Treasury
+Singapore 179434
+**Email:** [MLAW\_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
 
 <b>MINISTRY OF LAW</b><br>
 <b>1 SEPTEMBER 2025</b>
