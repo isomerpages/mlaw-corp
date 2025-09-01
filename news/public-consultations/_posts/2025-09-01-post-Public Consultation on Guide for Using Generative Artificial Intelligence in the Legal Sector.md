@@ -176,7 +176,6 @@ to the following:</p>
 <p>Legal Technology Transformation Office</p>
 <p>100 High Street, #08-02, The Treasury</p>
 <p>Singapore 179434</p>
-<p>&nbsp;</p>
 <p>Email:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">MLAW_Consultation@mlaw.gov.sg</a>
 </p>
