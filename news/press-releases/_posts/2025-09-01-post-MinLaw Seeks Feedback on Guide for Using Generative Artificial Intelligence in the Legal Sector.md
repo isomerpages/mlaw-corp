@@ -66,11 +66,14 @@ variant: markdown
 {:start="10"}
 10.&nbsp; Members of the public are invited to submit their views by **30 September 2025**, via email or in hard copy, with the subject or header “**2025 Public Consultation on Guide for Using GenAI in the Legal Sector**” to the following:
 
-**MinLaw**
-Legal Technology Transformation Office
-100 High Street, #08-02, The Treasury
-Singapore 179434
-**Email:** [MLAW\_Consultation@mlaw.gov.sg](mailto:MLAW_Consultation@mlaw.gov.sg)
+<p style="margin-left: 40px">
+<b>MinLaw</b><br>
+Legal Technology Transformation Office<br>
+100 High Street, #08-02, The Treasury<br>
+Singapore 179434<br>
+<b>Email:</b><br>
+<a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a>
+</p>
 
 <b>MINISTRY OF LAW</b><br>
 <b>1 SEPTEMBER 2025</b>
