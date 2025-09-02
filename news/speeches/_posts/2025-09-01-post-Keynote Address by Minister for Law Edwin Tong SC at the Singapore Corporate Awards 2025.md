@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister for Law Edwin Tong SC at the Singapore
+title: Keynote Address by Minister for Law and Second Minster for Home Affairs Mr Edwin Tong SC at the Singapore
   Corporate Awards 2025
 permalink: /keynote-address-by-minister-for-law-edwin-tong-sc-at-the-singapore-corporate-awards-2025/
 date: 2025-09-01
