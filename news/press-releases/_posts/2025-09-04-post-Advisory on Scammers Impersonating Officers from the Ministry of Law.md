@@ -10,7 +10,7 @@ variant: markdown
 4 September 2025 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law ("<b>MinLaw</b>") and the Singapore Police Force (“<b>SPF</b>”) would like to alert members of the public to scammers impersonating officers from MinLaw. There have been multiple calls received by victims from such scammers, including from a caller falsely identifying himself as a Ministry of Law officer by the name of “Jason Lam” or “Lam Teck Yong, Jason”. There is no such officer in MinLaw..
+1.&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law ("<b>MinLaw</b>") and the Singapore Police Force (“<b>SPF</b>”) would like to alert members of the public to scammers impersonating officers from MinLaw. There have been multiple calls received by victims from such scammers, including from a caller falsely identifying himself as a Ministry of Law officer by the name of “Jason Lam” or “Lam Teck Yong, Jason”. There is no such officer in MinLaw.
 
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp; In this scam variant, victims would receive unsolicited calls from local numbers, from an individual posing as a MinLaw officer. The scammer would claim to be investigating the victim for their involvement in money laundering and ask for pictures of the victim’s NRIC to be sent for verification. In some instances, following the call, the victim may receive falsified documents resembling official documents from the authorities and a doctored image of a MinLaw staff pass, via WhatsApp message or video call, to enhance the scammer’s credibility and deceive the victims into believing that the scammer is from MinLaw.
