@@ -120,7 +120,7 @@ Enforcement Division</p>
 </p>
 </li>
 <li>
-<p><a href="https://cmc.mlaw.gov.sg/e-services/apply-online/" rel="noopener noreferrer nofollow" target="_blank">Community Mediation Centre</a>
+<p><a href="https://cmc.mlaw.gov.sg/apply-for-mediation/" rel="noopener noreferrer nofollow" target="_blank">Community Mediation Centre</a>
 </p>
 </li>
 <li>
