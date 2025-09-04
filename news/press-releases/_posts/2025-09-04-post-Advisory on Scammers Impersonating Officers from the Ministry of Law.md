@@ -50,3 +50,5 @@ variant: markdown
 <b>MINISTRY OF LAW</b><br>
 <b>SINGAPORE POLICE FORCE</b><br>
 <b>4 SEPTEMBER 2025</b>
+
+<p class="right-side-updated">Last updated on 4 September 2025</p>
