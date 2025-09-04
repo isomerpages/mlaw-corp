@@ -21,7 +21,7 @@ variant: markdown
 {:start="4"}
 4.&nbsp;&nbsp;&nbsp;&nbsp; The Police have observed that besides cash and valuables, victims may be asked to hand over pre-signed cheques. These cheques would subsequently be encashed, with funds being withdrawn. Victims would realise they had been scammed when the scammers become uncontactable. The Police would also like to remind members of the public to remain vigilant against Government Official Impersonation Scams involving the use of WhatsApp calls and to activate the “silence unknown callers” function on WhatsApp.
 
-:start="5"}
+{:start="5"}
 5.&nbsp;&nbsp;&nbsp;&nbsp; Singapore Government officers, including MinLaw officers, will <b>never</b> ask members of the public to do the following over the phone: 
 
 <p style="margin-left: 40px">(a)&nbsp;&nbsp; Ask you to transfer money</p>
@@ -37,17 +37,15 @@ variant: markdown
 
 <p style="margin-left: 40px">(a)&nbsp;&nbsp; <b>ADD</b> – Add the ScamShield App to block calls and filter SMSes. Set transaction limits that are adequate for daily expenses, and lower transaction notification thresholds. Alert the bank immediately of any suspicious activity in your bank account. Activate the Money Lock feature of your bank to “lock up” a portion of your money so that it cannot be transferred out digitally by anyone. Change any passwords you have that contain your NRIC immediately.</p>
 
-<p style="margin-left: 40px">(b)&nbsp;&nbsp; <b>CHECK</b> – Do not use the website or telephone number that the scammer gives you. If in doubt, check for scam signs with official sources such as the ScamShield App. Call and check with the 24/7 ScamShield Helpline at 1799. Government SMSes will only be sent from the gov.sg SMS Sender ID.
-g details</p>
+<p style="margin-left: 40px">(b)&nbsp;&nbsp; <b>CHECK</b> – Do not use the website or telephone number that the scammer gives you. If in doubt, check for scam signs with official sources such as the ScamShield App. Call and check with the 24/7 ScamShield Helpline at 1799. Government SMSes will only be sent from the gov.sg SMS Sender ID.</p>
 
-<p style="margin-left: 40px">(c)&nbsp;&nbsp; <b>TELL</b> – Tell the authorities, family, and friends if or when you encounter scams. If you suspect that you have fallen victim to a scam, call your bank immediately to block any fraudulent transactions and make a police report.
-</p>
+<p style="margin-left: 40px">(c)&nbsp;&nbsp; <b>TELL</b> – Tell the authorities, family, and friends if or when you encounter scams. If you suspect that you have fallen victim to a scam, call your bank immediately to block any fraudulent transactions and make a police report.</p>
 
 {:start="7"}
-7.&nbsp;&nbsp;&nbsp;&nbsp; If in doubt about the authenticity of any calls from MinLaw officers, please contact MinLaw via the online enquiry form at https://eservices.mlaw.gov.sg/enquiry/ or call the MinLaw hotline at 1800 2255 529.
+7.&nbsp;&nbsp;&nbsp;&nbsp; If in doubt about the authenticity of any calls from MinLaw officers, please contact MinLaw via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a> or call the MinLaw hotline at 1800 2255 529.
 
 {:start="8"}
-8.&nbsp;&nbsp;&nbsp;&nbsp; For scam-related advice, please call the National Crime Prevention Council’s ScamShield helpline at 1799 or visit https://www.scamshield.gov.sg.
+8.&nbsp;&nbsp;&nbsp;&nbsp; For scam-related advice, please call the National Crime Prevention Council’s ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg">https://www.scamshield.gov.sg</a>.
 
 <b>MINISTRY OF LAW</b><br>
 <b>SINGAPORE POLICE FORCE</b><br>
