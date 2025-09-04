@@ -22,7 +22,7 @@ variant: markdown
 4.&nbsp;&nbsp;&nbsp;&nbsp; The Police have observed that besides cash and valuables, victims may be asked to hand over pre-signed cheques. These cheques would subsequently be encashed, with funds being withdrawn. Victims would realise they had been scammed when the scammers become uncontactable. The Police would also like to remind members of the public to remain vigilant against Government Official Impersonation Scams involving the use of WhatsApp calls and to activate the “silence unknown callers” function on WhatsApp.
 
 :start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp; Singapore Government officers, including MinLaw officers, will never ask members of the public to do the following over the phone: 
+5.&nbsp;&nbsp;&nbsp;&nbsp; Singapore Government officers, including MinLaw officers, will <b>never</b> ask members of the public to do the following over the phone: 
 
 <p style="margin-left: 40px">(a)&nbsp;&nbsp; Ask you to transfer money</p>
 
@@ -52,4 +52,3 @@ g details</p>
 <b>MINISTRY OF LAW</b><br>
 <b>SINGAPORE POLICE FORCE</b><br>
 <b>4 SEPTEMBER 2025</b>
-
