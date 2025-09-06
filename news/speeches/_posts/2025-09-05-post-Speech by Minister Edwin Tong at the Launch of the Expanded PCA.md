@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister Edwin Tong at the Launch of the Expanded PCA
+title: Speech by Minister Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at the Launch Event of the Expanded Permanent Court of Arbitration Singapore Office
 permalink: /speech-by-minister-edwin-tong-at-the-launch-of-the-expanded-pca/
 date: 2025-09-05
 layout: post
