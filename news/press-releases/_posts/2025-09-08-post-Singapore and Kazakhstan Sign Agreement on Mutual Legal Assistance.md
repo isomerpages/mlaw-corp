@@ -1,5 +1,5 @@
 ---
-title: Singapore and Kazakhstan Sign Agreement on Mutual Legal Assistance
+title: The Republic of Singapore and the Republic of Kazakhstan Sign Agreement on Mutual Legal Assistance in Criminal Matters
 permalink: /singapore-and-kazakhstan-sign-agreement-on-mutual-legal-assistance/
 date: 2025-09-08
 layout: post
