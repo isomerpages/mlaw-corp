@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-8 September 2025 Posted in
+8 September 2025 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
 1.&nbsp;The Government of the Republic of Singapore and the Republic of Kazakhstan signed the Agreement on Mutual Legal Assistance in Criminal Matters (the “<b>Treaty</b>”) today.
