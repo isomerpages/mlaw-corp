@@ -27,7 +27,7 @@ Many Distinguished Guests.
 
 {:start="2"} 2.&nbsp;And to all of those who have joined us from overseas, an especially warm welcome to Singapore. I know the weather is warm, but I hope our hospitality is even warmer.
 
-{:start="3"} 3.&nbsp;I am very honoured to be invited this morning to deliver the keynote speech for the 30th Annual Conference and General Meeting of the International Association of Prosecutors (IAP 2025).
+3.&nbsp;I am very honoured to be invited this morning to deliver the keynote speech for the 30th Annual Conference and General Meeting of the International Association of Prosecutors (IAP 2025).
 
 {:start="4"} 4.&nbsp;The IAP is a very important platform for prosecutors. It has grown to have immense global reach; provides thought leadership on best practices and guidelines; and most importantly, I believe, it brings together prosecutors across different legal systems who engage in the common endeavour of criminal justice.
 
