@@ -141,7 +141,7 @@ Many Distinguished Guests.
 
 39.&nbsp;Increasingly, prosecutors also need to work closely with policymakers and other criminal justice stakeholders to share their valuable experience and expertise from practice, and to help find effective legal and policy solutions. To go upstream, to look at the cause and nature of the crime; and to go downstream, to look at what we can do, for example, in the space of rehabilitation.
 
-{:start="40"} 40.&nbsp;Some other examples: stakeholders can give us very good feedback on laws and policies because these policies and laws impact them; and as they experience them, they can give us views on which areas might require reform.
+40.&nbsp;Some other examples: stakeholders can give us very good feedback on laws and policies because these policies and laws impact them; and as they experience them, they can give us views on which areas might require reform.
 
 <p style="margin-left: 40px">(a) In Singapore, AGC’s Policy and Advisory Unit works closely with the Ministry of Law and the Ministry of Home Affairs on law reform to improve our criminal justice system.</p>
 
