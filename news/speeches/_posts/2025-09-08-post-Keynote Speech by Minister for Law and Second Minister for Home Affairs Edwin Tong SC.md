@@ -23,7 +23,7 @@ Many Distinguished Guests.
 
 <b>Introduction</b>
 
-{:start="1"} 1.&nbsp;A very good morning to all of you.&nbsp;
+{:start="1"} 1.&nbsp;A very good morning to all of you.
 
 {:start="2"} 2.&nbsp;And to all of those who have joined us from overseas, an especially warm welcome to Singapore. I know the weather is warm, but I hope our hospitality is even warmer.
 
