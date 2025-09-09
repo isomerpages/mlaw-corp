@@ -67,7 +67,7 @@ Many Distinguished Guests.
 
 14.&nbsp;The Singapore Police Force’s (SPF) Annual Scams and Cybercrime Brief noted that there were 51,101 scam cases, with at least S$1.1 billion lost in 2024. SPF also recently reported that in the first half of 2025, S$456.4 million was lost in Singapore to scams. That includes investment scams, impersonation scams and, increasingly, phishing scams as well.
 
-15.&nbsp;And because we live in an interconnected world, online crimes spill over to the real world in intangible ways. For example, the proceeds of online crimes are often funnelled into other serious criminal activity such as drug trafficking, human trafficking by transnational criminal syndicates.
+15.&nbsp;And because we live in an interconnected world, online crimes spill over to the real world in tangible ways. For example, the proceeds of online crimes are often funnelled into other serious criminal activity such as drug trafficking, human trafficking by transnational criminal syndicates.
 
 16.&nbsp;The Interpol has also warned of a global crisis in human trafficking-fuelled scam centres, where hundreds of thousands of human trafficking victims are detained in compounds, and forced to carry out online scams.
 
