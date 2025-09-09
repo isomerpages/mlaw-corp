@@ -1,7 +1,6 @@
 ---
-title: Keynote Speech by Minister for Law and Second Minister for Home Affairs
-  Edwin Tong SC
-permalink: /keynote-speech-by-minister-for-law-and-second-minister-for-home-affairs-edwin-tong-sc/
+title: Keynote Speech by Minister Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at the 30th Annual Conference and General Meeting of the International Association of Prosecutors
+permalink: /keynote-speech-minister-law-second-minister-home-affairs-edwin-tong-30th-annual-conference-general-meeting-international-association-prosecutors/
 date: 2025-09-08
 layout: post
 description: ""
