@@ -1,5 +1,5 @@
 ---
-title: Welcome Remarks by SPS at TechLawFest 2025
+title: Welcome Remarks by Mr Eric Chua, Senior Parliamentary Secretary of Ministry of Law, and Ministry of Social and Family Development, at TechLawFest 2025
 permalink: /welcome-remarks-by-sps-at-techlawfest-2025/
 date: 2025-09-10
 layout: post
