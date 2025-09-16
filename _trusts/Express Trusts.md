@@ -273,7 +273,7 @@ out.</p>
 misappropriation or money laundering, please make a police report at
 <a href="https://eservices.police.gov.sg/content/policehubhome/e-services-general/police-report.html" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <p>If you suspect that a serious offence has been committed that needs immediate
-action, please make a police report by calling 999 or SMS 71999.</p>
+action, please make a police report by calling 999 or SMS 70999.</p>
 <p><sup>[4] </sup>See Section 3 of the <a href="https://sso.agc.gov.sg/Act/TCA2005" rel="noopener noreferrer nofollow" target="_blank">Trusts Companies Act 2005.</a>
 </p>
 <p><sup>[5] </sup>See Reg 2 of the <a href="https://sso.agc.gov.sg/SL/TCA2005-RG1?DocDate=20230425#top" rel="noopener noreferrer nofollow" target="_blank">Trust Companies (Exemption) Regulations.</a>
