@@ -18,7 +18,7 @@ appointment via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noop
 <p>Manage and update your personal profile</p>
 </li>
 <li>
-<p>Live chat support for immediate asstance</p>
+<p>Live chat support for immediate assistance</p>
 </li>
 </ul>
 <p>Visit the <a href="https://eservices.mlaw.gov.sg/OMP" rel="noopener nofollow" target="_blank">OneMinLaw Portal</a> to
