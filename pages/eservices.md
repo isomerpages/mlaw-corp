@@ -55,9 +55,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 September 2025 (Sat) 0000 hrs to 6 September 2025 (Sat) 0900 hrs</p>
-<p></p>
-<p>12 September 2025 (Fri) 1800 hrs to 12 September 2025 (Fri) 2359 hrs</p>
+<p>20 September 2025 (Sat) 0700 hrs to 22 September 2025 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
