@@ -12,7 +12,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-**Mr Patrick Tay Teck Guan (MP of Pioneer SMC)** 
+**Mr Patrick Tay Teck Guan (Member of Parliament for Pioneer SMC)** 
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law whether Singapore is studying Denmark’s decision to use copyright law to strengthen protection against deepfakes, by providing individuals with a legal basis to demand illegal digital imitations be removed from tech platforms.
