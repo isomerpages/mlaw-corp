@@ -12,7 +12,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-**Mr Lee Hong Chuan (MP of Jurong East-Bukit Bakok GRC)** 
+**Mr Lee Hong Chuan (Member of Parliament for Jurong East-Bukit Bakok GRC)** 
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law whether the Ministry can consider expanding or introducing new legal support schemes specifically for citizens who do not qualify for existing pro bono legal services but face potential financial difficulties in obtaining legal representation for civil or family related matters.
