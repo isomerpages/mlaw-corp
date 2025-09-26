@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Credit Facilities
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Imposing Limits to Credit Facilities and Charges by Platform Operators to Platform Workers under Financing Programme
   and Charges
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-credit-facilities-and-charges/
 date: 2025-09-26
