@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Studying the Use of Copyright Law
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Studying the Use of
+  Copyright Law
 permalink: /written-reply-by-minister-for-law-edwin-tong-on-studying-use-of-copyright-law/
 date: 2025-09-24
 layout: post
@@ -11,7 +12,7 @@ variant: markdown
 
 <b><u>Question for Written Answer</u></b>
 
-**Mr Patrick Tay Teck Guan** 
+**Mr Patrick Tay Teck Guan (MP of Pioneer SMC)** 
 
 <b><u>Question:</u></b>
 <br>To ask the Minister for Law whether Singapore is studying Denmark’s decision to use copyright law to strengthen protection against deepfakes, by providing individuals with a legal basis to demand illegal digital imitations be removed from tech platforms.
