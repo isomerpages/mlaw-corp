@@ -319,7 +319,7 @@ Mediation Centre (AMC), the ICC Court of Arbitration, and the Permanent Court of
 78. In this regard, Singapore’s core values are known globally. We stand by and we stand for the rule of law, neutrality and integrity. We are consistently ranked among the least corrupt of jurisdictions in the world. So it is time to really rethink and put back ethics as the core, at the very basic foundation of arbitration.
 
 {:start="79"}
-79. I am therefore very pleased to announce that the SIAC will be establishing an Institute for Ethics in International Arbitration. It will be established for targeted training, for research, and engagement in ethics in arbitration.
+79. I am therefore very pleased to announce that the SIAC will be establishing an Institute of Ethics in International Arbitration. It will be established for targeted training, for research, and engagement in ethics in arbitration.
 
 {:start="80"}
 80. I believe that platforms like these will be crucial, because it allows SIAC to take the lead in thought leadership in ethics. It is also crucial to advance the entire discourse, that is going to be so valuable, on ethical practices and ethical values in international arbitration. It is also important for us to preserve the essential conditions for the legitimacy of international arbitration.
