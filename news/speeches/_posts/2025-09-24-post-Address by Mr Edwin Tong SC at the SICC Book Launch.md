@@ -1,5 +1,5 @@
 ---
-title: Address by Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at the Book Launch of “Charting New Waters: The Singapore International Commercial Court after 10 years”
+title: Address by Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at the Book Launch of “Charting New Waters - The Singapore International Commercial Court after 10 years”
 permalink: /address-by-mr-edwin-tong-sc-at-the-sicc-book-launch/
 date: 2025-09-24
 layout: post
