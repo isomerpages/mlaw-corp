@@ -1,5 +1,5 @@
 ---
-title: Official Visit to Switzerland by Minister Edwin Tong
+title: Official Visit to Switzerland by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC
 permalink: /official-visit-to-switzerland-by-minister-edwin-tong/
 date: 2025-09-30
 layout: post
