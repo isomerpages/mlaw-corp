@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the Diplomatic Reception for WIPO DG Daren Tang Re Election Campaign
+title: Opening Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the Diplomatic Reception for WIPO DG Daren Tang's Re-Election Campaign
 permalink: /opening-remarks-by-minister-edwin-tong-at-diplomatic-reception-for-wipo-dg-re-election-in-geneva/
 date: 2025-09-29
 layout: post
