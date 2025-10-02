@@ -55,7 +55,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 September 2025 (Sat) 0700 hrs to 22 September 2025 (Mon) 0800 hrs</p>
+<p>4 October 2025 (Sat) 0000 hrs to 5 October 2025 (Sun) 1159 hrs</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 September 2025 (Sat) 0700 hrs to 22 September 2025 (Mon) 0800 hrs</p>
+<p>4 October 2025 (Sat) 0000 hrs to 5 October 2025 (Sun) 1159 hrs</p>
 </td>
 </tr>
 <tr>
