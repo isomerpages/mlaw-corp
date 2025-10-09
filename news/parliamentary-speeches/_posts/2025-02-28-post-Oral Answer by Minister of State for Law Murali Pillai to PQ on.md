@@ -1,5 +1,6 @@
 ---
-title: Oral Answer by Minister of State for Law Murali Pillai to PQ on public awareness of Magistrate's Complaints
+title: Oral Answer by Minister of State for Law Murali Pillai to PQ on public
+  awareness of Magistrate's Complaints
 permalink: /oral-answer-by-minister-of-state-for-law-murali-pillai-to-pq-on-public-awareness-magistrates-complaints/
 date: 2025-02-28
 layout: post
@@ -7,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-28 January 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
+28 February 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
 <b><u>Question for Oral Answer</u></b>
 
@@ -27,4 +28,4 @@ variant: markdown
 {:start="3"}
 3. The Honourable Member also referred to the relationship between Magistrate’s Complaints and Police investigations. I should clarify that the Magistrate’s Complaint process provides a framework for private prosecutions by any person, subject to the assessment of the Magistrate of whether there is sufficient reason for the complaint to proceed. The process is distinct from criminal investigations conducted by the Police following the filing of a police report, which do not require the filing of a Magistrate’s Complaint. 
 
-<p class="right-side-updated">Last updated on 28 January 2025</p>
+<p class="right-side-updated">Last updated on 28 February 2025</p>
