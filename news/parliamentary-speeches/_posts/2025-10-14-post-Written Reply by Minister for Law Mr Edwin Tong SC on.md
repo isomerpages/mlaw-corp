@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Financial Assistance for Next-of-Kin Without Lasting Power of Attorney
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on/
 date: 2025-10-14
 layout: post
@@ -9,15 +9,13 @@ variant: markdown
 ---
 14 October 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<b><u>Question for Written Answer</u></b>
-
+<b><u>Question for Written Answer</u></b><br>
 <b>Dr Charlene Chen (Member of Parliament for Tampines GRC)</b>
 
 <b><u>Question</u></b><br>
 To ask the Minister for Law what assistance is available to families, particularly those facing financial hardship in cases where the next-of-kin are unable to manage essential matters on behalf of their loved ones due to the absence of a Lasting Power of Attorney.
 
-<b><u>Written Answer:</u></b>
-
+<b><u>Written Answer:</u></b><br>
 {:start=“1”}
 1.&nbsp;The Legal Aid Bureau (LAB), a department in the Ministry of Law, provides legal aid to Singapore Citizens and Permanent Residents who satisfy a means test and a merits test. This legal aid covers civil matters including deputyship applications for cases where there is an absence of a Lasting Power of Attorney.
 
