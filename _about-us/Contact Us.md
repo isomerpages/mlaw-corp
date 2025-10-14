@@ -45,7 +45,6 @@ closed for a staff event on the following date and time:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Thank you for your understanding.</p>
 <p></p>
 <blockquote>
