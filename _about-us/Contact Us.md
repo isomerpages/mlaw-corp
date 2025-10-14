@@ -39,7 +39,7 @@ closed for a staff event on the following date and time:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;30 October 2025</strong>
+<p><strong>30 October 2025</strong>
 </p>
 </td>
 </tr>
