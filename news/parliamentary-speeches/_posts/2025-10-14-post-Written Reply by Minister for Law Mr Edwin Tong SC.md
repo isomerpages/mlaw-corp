@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Trends on Duration to Exit Bankruptcy from 2010 to 2025, and Possible Review of Bankruptcy Laws
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc/
 date: 2025-10-14
 layout: post
@@ -20,27 +20,7 @@ To ask the Minister for Law (a) what is the average and median time taken for Si
 {:start=“1”}
 1.&nbsp;The mean and median times taken for Singaporeans and Singapore Permanent Residents to be annulled and discharged from bankruptcy between (i) 2010 and 2015, (ii) 2016 and 2020 and (iii) 2020 and 2025 are tabulated below. The median and mean durations in bankruptcy have come down in the latest 5-year period.
 
-
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<table><tbody><tr><th colspan="4"><b>Both first-time and repeat bankrupts</b></th>
+<table><tbody><tr><th colspan="4"><b>Both first-time and repeat bankrupts</b></th>
 	</tr><tr><th scope="row"><b>Year of annulment or discharge</b></th><td><b>2010 - 2015</b></td><td><b>2016 - 2020</b></td><td><b>2021 - 2025 Sep</b></td></tr><tr><th scope="row"><b>Mean duration</b></th><td>9 years</td><td>10 years</td><td>7 years</td></tr><tr><th scope="row"><b>Median duration</b></th><td>8 years</td><td>9 years</td><td>6 years</td></tr>
 </tbody></table>
 
