@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Target
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Target Contribution Payment Rates among Discharged Bankrupts from 2010 to 2020
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-target/
 date: 2025-10-14
 layout: post
