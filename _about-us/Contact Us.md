@@ -25,7 +25,7 @@ closed for a staff event on the following date and time:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Resumption Date</strong>
+<p><strong>Resumption Date</strong>
 </p>
 </td>
 </tr>
