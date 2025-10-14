@@ -5,6 +5,49 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
+<p>The Ministry of Law Services Centre (MSC) and the Video Conferencing Counter
+at the Help Centre, Basement 1 of the State Courts, will be temporarily
+closed for a staff event on the following date and time:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Closure Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Last Queue Ticket Issued</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Resumption Date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30 October 2025 (Thursday) from 12 PM to 2:30 PM&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11:30 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;30 October 2025</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Thank you for your understanding.</p>
+<p></p>
 <blockquote>
 <h3><strong>Chat with Us</strong></h3>
 </blockquote>
