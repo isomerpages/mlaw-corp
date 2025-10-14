@@ -79,7 +79,7 @@ orders for neighbour disputes and (ii) direct intervention by agencies
 such as the Police or Institute of Mental Health when early signs of aggression
 or mental illness are detected, to prevent escalation and safeguard the
 community.</p>
-<p><strong><u>Oral Answer</u></strong> 
+<p><strong><u>Oral Answer</u></strong>
 </p>
 <p>1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and
 9 in today’s Order Paper together?</p>
@@ -298,8 +298,6 @@ practise self-moderation, and to engage with each other when disputes arise.
 It is a multi-pronged approach in building a harmonious community together.</p>
 <p>35. Thank you.</p>
 <p><em>Last updated on 14 October 2025</em>
-</p>
-<p><em>Last updated on 8 April 2025</em>
 </p>
 <p></p>
 <p></p>
