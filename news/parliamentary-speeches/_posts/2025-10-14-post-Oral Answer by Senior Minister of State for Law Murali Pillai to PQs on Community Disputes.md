@@ -117,6 +117,7 @@ community.</p>
 {:start="9"}
 9. Now and then, disputes between some neighbours do arise. It is best for these to be settled amicably.
  
+{:start="10"} 
 10. So, whenever community leaders or HDB officers become aware of a dispute - 
 
 <p style="margin-left: 40px">a. They attempt to mediate informally, particularly at an early stage, before relationships break down.</p>
@@ -263,7 +264,7 @@ officers.
 <p style="margin-left: 40px">c. For some conditions, treatment may not be possible. In such cases, frontline officers partner with agencies such as the Agency for Integrated Care, so that professionals can be brought in to assess how best to support the resident and manage the condition.</p>
 
 {:start="29"}
-29. Ms Elysa Chen asked for data on the CDRT’s caseload. She also asked about support for claimants in preparing evidence for CDRT hearings.<p></p>
+29. Ms Elysa Chen asked for data on the CDRT’s caseload. She also asked about support for claimants in preparing evidence for CDRT hearings.
 
 <p style="margin-left: 40px">a. The top 3 CDRT disputes for the last 5 years are claims for excessive noise, excessive vibration, and littering. A party may include multiple types of disputes in a single claim.</p>
 
@@ -302,9 +303,7 @@ officers.
 <p style="margin-left: 40px">a. Agencies are prepared to and will expand the application of the enhanced CDMF as soon as practicable, so that more cases can benefit from mediation, and the direct intervention tools of the CRU.
 
 {:start="34"}
-34. However, no framework will be able to address all manner of neighbor disputes or curb specific individual behaviour, especially violence. No
-one should resort to violence to deal with a neighbour dispute. That is a personal responsibility. It is therefore necessary for us all to press
-ahead with the important work of building up the community’s capacity to practise self-moderation, and to engage with each other when disputes arise. It is a multi-pronged approach in building a harmonious community together.
+34. However, no framework will be able to address all manner of neighbor disputes or curb specific individual behaviour, especially violence. No one should resort to violence to deal with a neighbour dispute. That is a personal responsibility. It is therefore necessary for us all to press ahead with the important work of building up the community’s capacity to practise self-moderation, and to engage with each other when disputes arise. It is a multi-pronged approach in building a harmonious community together.
 
 {:start="35"}
 35. Thank you.
