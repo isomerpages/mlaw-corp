@@ -300,7 +300,7 @@ officers.
 {:start="33"}
 33. For the more difficult cases, we are now piloting a Directed Mediation framework, and the CRU in Tampines.
 
-<p style="margin-left: 40px">a. Agencies are prepared to and will expand the application of the enhanced CDMF as soon as practicable, so that more cases can benefit from mediation, and the direct intervention tools of the CRU.
+<p style="margin-left: 40px">a. Agencies are prepared to and will expand the application of the enhanced CDMF as soon as practicable, so that more cases can benefit from mediation, and the direct intervention tools of the CRU.</p>
 
 {:start="34"}
 34. However, no framework will be able to address all manner of neighbor disputes or curb specific individual behaviour, especially violence. No one should resort to violence to deal with a neighbour dispute. That is a personal responsibility. It is therefore necessary for us all to press ahead with the important work of building up the community’s capacity to practise self-moderation, and to engage with each other when disputes arise. It is a multi-pronged approach in building a harmonious community together.
@@ -308,7 +308,7 @@ officers.
 {:start="35"}
 35. Thank you.
 
-</p><p><em>Last updated on 14 October 2025</em>
+<p></p><p><em>Last updated on 14 October 2025</em>
 </p>
 <p></p>
 <p></p>
