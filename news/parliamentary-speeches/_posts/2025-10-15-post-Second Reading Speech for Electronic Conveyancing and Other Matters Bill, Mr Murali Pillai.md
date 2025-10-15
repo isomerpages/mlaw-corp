@@ -1,6 +1,6 @@
 ---
 title: Second Reading Speech for Electronic Conveyancing and Other Matters Bill,
-  Mr Murali Pillai
+  Mr Murali Pillai, Senior Minister of State for Law
 permalink: /second-reading-speech-for-electronic-conveyancing-and-other-matters-bill-mr-murali-pillai/
 date: 2025-10-15
 layout: post
