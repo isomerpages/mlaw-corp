@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+15 October 2025 Posted in [Press releases](/news/press-releases)
+
 {:start="1"}
 1.&nbsp;The Ministry of Digital Development and Information (MDDI) and Ministry of Law (MinLaw) introduced the Online Safety (Relief and Accountability) (“<b>OSRA</b>”) Bill (the “<b>Bill</b>”) for First Reading in Parliament today.
 
@@ -60,7 +62,7 @@ A. <u>Establishment of a new Online Safety Commission</u>
 13.&nbsp;Affected parties may seek a reconsideration of the OSC’s decision, and thereafter make an appeal to an independent appeal panel appointed by the Minister for Digital Development and Information. The appeal panel will comprise representatives from across various sectors with relevant domain knowledge.
 
 {:start="14"}
-14.&nbsp;The 13 categories of online harms that will be addressed by the OSC and the directions that may be issued can be found in <b><u>[Annex](/files/Annex___Proposed_New_Law_to_Empower_Victims_of_Online_Harms_to_Seek_Timely_Relief_and_Obtain_Redress.pdf)</u></b>. These categories will be implemented in phases, starting with harms that are most serious and prevalent.&nbsp;&nbsp;
+14.&nbsp;The 13 categories of online harms that will be addressed by the OSC and the directions that may be issued can be found in [Annex](/files/Annex___Proposed_New_Law_to_Empower_Victims_of_Online_Harms_to_Seek_Timely_Relief_and_Obtain_Redress.pdf). These categories will be implemented in phases, starting with harms that are most serious and prevalent.
 
 B. <u>Statutory Torts</u>
 
@@ -77,7 +79,7 @@ B. <u>Statutory Torts</u>
 16.&nbsp;Overall, the statutory torts will provide victims with a clear cause of action against the above-mentioned parties, and allow victims to seek redress from the Court. The Court will be able to grant remedies such as compensatory damages and injunctions.&nbsp;
 
 {:start="17"}
-17.&nbsp;The nine categories of online harms that will be covered under the statutory torts can be found in <b><u>[Annex](/files/Annex___Proposed_New_Law_to_Empower_Victims_of_Online_Harms_to_Seek_Timely_Relief_and_Obtain_Redress.pdf)</u></b>.
+17.&nbsp;The nine categories of online harms that will be covered under the statutory torts can be found in [Annex](/files/Annex___Proposed_New_Law_to_Empower_Victims_of_Online_Harms_to_Seek_Timely_Relief_and_Obtain_Redress.pdf).
 
 C. <u>Enhancing accountability of communicators of online harms</u>
 
