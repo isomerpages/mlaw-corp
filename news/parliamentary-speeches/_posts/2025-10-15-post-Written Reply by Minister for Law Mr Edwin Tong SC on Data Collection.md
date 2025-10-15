@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Data Collection
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-collection/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Data Collection and Categorisation of Causes of Individual Bankruptcies in Last 10 Years
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-collection-categorisation-causes-individual-bankruptcies-last-ten-years/
 date: 2025-10-15
 layout: post
 description: ""
