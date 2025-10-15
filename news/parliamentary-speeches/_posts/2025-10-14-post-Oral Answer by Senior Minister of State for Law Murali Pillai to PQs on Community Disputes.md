@@ -81,122 +81,137 @@ or mental illness are detected, to prevent escalation and safeguard the
 community.</p>
 <p><strong><u>Oral Answer</u></strong>
 </p>
-<p>1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and
-9 in today’s Order Paper together?</p>
-<p>[Speaker: Yes, please]</p>
-<p>2. Thank you, Sir.</p>
-<p>3. Sir, my response will also address related questions [423], [444],
+
+{:start="1"}
+1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and
+9 in today’s Order Paper together?
+
+Speaker: Yes, please
+
+{:start="2"}
+2. Thank you, Sir.
+ 
+{:start="3"}
+3. Sir, my response will also address related questions [423], [444],
 [615], [631], [634], [635], [639], [640], and [735] by honourable Members
 Mr Gabriel Lam, Mr Yip Hon Weng, Mr Xie Yao Quan, Mr Ng Chee Meng, Ms Valerie
 Lee, Ms Elysa Chen, and Ms Gho Sze Kee, which are scheduled for subsequent
 sittings. Thereafter, MOS Alvin Tan will, with your permission Sir, address
-Question Nos 10 and 11 in today's Order Paper.</p>
-<p>4. Mr Speaker, may I request that we deliver our replies, which pertain
+Question Nos 10 and 11 in today's Order Paper.
+
+{:start="4"}
+4. Mr Speaker, may I request that we deliver our replies, which pertain
 to neighbour disputes, and then, for us to take supplementary questions
-together thereafter, please?</p>
-<p>[Speaker: Yes, please We will take any SQs after we have addressed Question
-11.].</p>
-<p>5. First, I will briefly recap the Government’s overall approach for managing
-community disputes, before addressing Members’ questions on difficult neighbour
-disputes; and how we intend to address these more effectively.</p>
-<p>6. My colleague, MOS Alvin Tan, will respond to questions on the Community
-Relations Unit, or CRU in short.</p>
-<p>7. Last year, we enhanced our Community Disputes Management Framework
-when this House passed the Community Disputes Resolution (Amendment) Act
-2024.</p>
-<p>8. As Minister Edwin Tong explained during the Second Reading of the Act
-–</p>
-<p>a. Our aim is to strengthen our community so that neighbours can constructively
-engage with one another, even when disagreements arise.</p>
-<p>b. This starts by fostering positive neighbourly relations.</p>
-<p>9. Now and then, disputes between some neighbours do arise. It is best
-for these to be settled amicably.</p>
-<p>10. So, whenever community leaders or HDB officers become aware of a dispute
-–</p>
-<p>a. They attempt to mediate informally, particularly at an early stage,
-before relationships break down.</p>
-<p>b. They will also encourage residents to attempt formal mediation at the
-Community Mediation Centre, or CMC, in short.</p>
-<p>c. When both neighbours participate, mediation has proven effective in
-resolving community disputes. It is free, and it preserves neighbourly
-relations in the longer term.</p>
-<p>11. Our experience shows that neighbour disputes become harder to resolve
-when they become personal, emotionally charged, or if they are prolonged.</p>
-<p>12. For these cases, where suitable, the recent CDMF enhancements will
-empower public officers – such as HDB officers – to issue a Mediation Direction,
-or MD in short.</p>
-<p>a. MDs are legally backed orders that require recipients to attend mediation
-at the CMC.</p>
-<p>b. Non-compliance without reasonable excuse, is an offence.</p>
-<p>c. This allows us to require disputing neighbours to attend a mandatory
-mediation, which Members have asked about.</p>
-<p>13. Now, we have established a Community Relations Unit, and empowered
-its officers to take decisive action in a neighbour dispute.</p>
-<p>a. CRU officers are empowered to investigate, collect evidence, and if
-need be, intervene quickly through levers like advisories, warnings, and
-abatement orders.</p>
-<p>b. Since 7 April 2025, the CRU and the MD framework have been piloted
-in the HDB estates of Tampines town. We have previously explained why we
-have chosen to start with a pilot.</p>
-<p>14. Generally, most cases should be addressed through mediation or by
-the CRU.</p>
-<p>15. For the remaining intransigent cases, affected residents can consider
-the CDRT as a last resort. We have enhanced the CDRT’s processes under
-the amendments last year, and are working to operationalise them as soon
-as practicable.</p>
-<p>16. Having set the context, let me now address the questions that honourable
-Members have filed in relation to our community mediation framework and
-the CDRT.</p>
-<p>17. Honourable Member Mr Yip Hon Weng asked about the number of neighbour
-disputes where parties refused mediation.</p>
-<p>a. As I mentioned earlier, it is best for neighbour disputes to be settled
-amicably between neighbours or via informal mediation by community leaders
-or HDB officers. And many are indeed resolved in this way.</p>
-<p>b. For disputes that proceed to formal mediation, from November 2024 to
-August 2025, about 1,300 neighbour disputes were registered with the CMC
-for voluntary mediation.</p>
-<p>c. In about 50% of these cases, one party did not respond. In another
-20%, at least one party declined outright.</p>
-<p>18. Honourable Members Mr Ng Chee Meng and Mr Gabriel Lam asked how we
-can refer more disputes to mediation.</p>
-<p>a. As mentioned, directed mediation is now being piloted in Tampines.</p>
-<p>b. In suitable cases, authorised officers – such as HDB or CRU officers
-– can issue an MD to direct disputing parties to attend mediation at the
-CMC.</p>
-<p>c. MinLaw will continue to work with MND and HDB to ensure that more suitable
-disputes are directed to the CMC for mandatory mediation. An early intervention,
-with mediation, will give parties a better opportunity to resolve their
-disputes before it becomes entrenched.</p>
-<p>19. Ms Gho Sze Kee asked whether we will consider empowering the CMC to
-issue Mediation Directions. This is already the case for what we call ‘re-mediation
-cases’.</p>
-<p>a. These are cases where residents previously attempted voluntary mediation
-and arrived at a settlement, but the same disputes resurfaced subsequently.</p>
-<p>b. So, there is value in directing re-mediation in such cases since both
-parties were willing to attempt voluntary mediation at the first instance.</p>
-<p>20. In a similar vein, honourable Member Mr Kenneth Tiong asked whether
-residents may appeal to the Ministry to compel mediation.</p>
-<p>a. Beyond re-mediation cases, it will not be appropriate for the CMC to
-issue MDs to parties directly.</p>
-<p>b. The CMC cannot be seen as taking sides and compelling mediation because
-of an appeal by one party.</p>
-<p>c. The CMC cannot rely on the representation of one party to enforce mandatory
-mediation on the other. A proper assessment of the circumstances must be
-made. In this regard, the CMC has to rely on triage by ground agencies
-such as HDB and CRU, to determine the situation on the ground. For example,
-cases involving physical threats will not be suitable for mediation.</p>
-<p>d. Residents who are unable to obtain their neighbour’s agreement to attend
-mediation, can approach the HDB or CRU for assistance.</p>
-<p>e. Also, if a CDRT claim is subsequently filed, it is possible for the
-Judge to direct parties to attend mediation.</p>
-<p>21. Honourable Member Mr Gabriel Lam asked about the expansion of the
-MD pilot, which started about 6 months ago on 7 April 2025.</p>
+together thereafter, please?
+
+Speaker: Yes, please We will take any SQs after we have addressed Question
+11.
+
+{:start="5"}
+5. First, I will briefly recap the Government’s overall approach for managing community disputes, before addressing Members’ questions on difficult neighbour disputes; and how we intend to address these more effectively.
+
+{:start="6"}
+6. My colleague, MOS Alvin Tan, will respond to questions on the Community Relations Unit, or CRU in short.
+
+{:start="7"}
+7. Last year, we enhanced our Community Disputes Management Framework when this House passed the Community Disputes Resolution (Amendment) Act 2024.
+
+{:start="8"}
+8. As Minister Edwin Tong explained during the Second Reading of the Act -
+
+a. Our aim is to strengthen our community so that neighbours can constructively engage with one another, even when disagreements arise.
+
+b. This starts by fostering positive neighbourly relations.
+
+{:start="9"}
+9. Now and then, disputes between some neighbours do arise. It is best for these to be settled amicably.
+ 
+10. So, whenever community leaders or HDB officers become aware of a dispute - 
+
+a. They attempt to mediate informally, particularly at an early stage, before relationships break down.
+
+b. They will also encourage residents to attempt formal mediation at the Community Mediation Centre, or CMC, in short.
+
+c. When both neighbours participate, mediation has proven effective in resolving community disputes. It is free, and it preserves neighbourly relations in the longer term.
+
+{:start="11"}
+11. Our experience shows that neighbour disputes become harder to resolve when they become personal, emotionally charged, or if they are prolonged.
+
+{:start="12"}
+12. For these cases, where suitable, the recent CDMF enhancements will empower public officers – such as HDB officers – to issue a Mediation Direction, or MD in short.
+
+a. MDs are legally backed orders that require recipients to attend mediation at the CMC.
+
+b. Non-compliance without reasonable excuse, is an offence.
+
+c. This allows us to require disputing neighbours to attend a mandatory mediation, which Members have asked about.
+
+{:start="13"}
+13. Now, we have established a Community Relations Unit, and empowered its officers to take decisive action in a neighbour dispute.
+
+a. CRU officers are empowered to investigate, collect evidence, and if need be, intervene quickly through levers like advisories, warnings, and abatement orders.
+
+b. Since 7 April 2025, the CRU and the MD framework have been piloted in the HDB estates of Tampines town. We have previously explained why we have chosen to start with a pilot.
+
+{:start="14"}
+14. Generally, most cases should be addressed through mediation or by the CRU.
+
+{:start="15"}
+15. For the remaining intransigent cases, affected residents can consider the CDRT as a last resort. We have enhanced the CDRT’s processes under the amendments last year, and are working to operationalise them as soon as practicable.
+
+{:start="16"}
+16. Having set the context, let me now address the questions that honourable Members have filed in relation to our community mediation framework and the CDRT.
+
+{:start="17"}
+17. Honourable Member Mr Yip Hon Weng asked about the number of neighbour disputes where parties refused mediation.
+
+a. As I mentioned earlier, it is best for neighbour disputes to be settled amicably between neighbours or via informal mediation by community leaders or HDB officers. And many are indeed resolved in this way.
+
+b. For disputes that proceed to formal mediation, from November 2024 to August 2025, about 1,300 neighbour disputes were registered with the CMC for voluntary mediation.
+
+c. In about 50% of these cases, one party did not respond. In another 20%, at least one party declined outright.
+
+{:start="18"}
+18. Honourable Members Mr Ng Chee Meng and Mr Gabriel Lam asked how we can refer more disputes to mediation.
+
+a. As mentioned, directed mediation is now being piloted in Tampines.
+
+b. In suitable cases, authorised officers – such as HDB or CRU officers – can issue an MD to direct disputing parties to attend mediation at the CMC.
+
+c. MinLaw will continue to work with MND and HDB to ensure that more suitable disputes are directed to the CMC for mandatory mediation. An early intervention, with mediation, will give parties a better opportunity to resolve their disputes before it becomes entrenched.
+
+{:start="19"}
+19. Ms Gho Sze Kee asked whether we will consider empowering the CMC to issue Mediation Directions. This is already the case for what we call ‘re-mediation cases’.
+
+a. These are cases where residents previously attempted voluntary mediation and arrived at a settlement, but the same disputes resurfaced subsequently.
+
+b. So, there is value in directing re-mediation in such cases since both parties were willing to attempt voluntary mediation at the first instance.
+
+{:start="20"}
+20. In a similar vein, honourable Member Mr Kenneth Tiong asked whether residents may appeal to the Ministry to compel mediation.
+
+a. Beyond re-mediation cases, it will not be appropriate for the CMC to issue MDs to parties directly.
+
+b. The CMC cannot be seen as taking sides and compelling mediation because of an appeal by one party.
+
+c. The CMC cannot rely on the representation of one party to enforce mandatory mediation on the other. A proper assessment of the circumstances must be made. In this regard, the CMC has to rely on triage by ground agencies such as HDB and CRU, to determine the situation on the ground. For example, cases involving physical threats will not be suitable for mediation.
+
+d. Residents who are unable to obtain their neighbour’s agreement to attend mediation, can approach the HDB or CRU for assistance.
+
+e. Also, if a CDRT claim is subsequently filed, it is possible for the
+Judge to direct parties to attend mediation.
+
+{:start="21"}
+21. Honourable Member Mr Gabriel Lam asked about the expansion of the
+MD pilot, which started about 6 months ago on 7 April 2025.<p></p>
 <p>a. Agencies are actively reviewing the learnings from the pilot and will
 continually refine operational protocols.</p>
 <p>b. I will come back to this again in my concluding remarks.</p>
 <p>c. MOS Alvin Tan will also speak more on the CRU framework in his response.</p>
-<p>22. Honourable Member Mr Xie Yao Quan asked whether stakeholders, such
-as Grassroots Advisers, can be empowered to issue Mediation Directions.</p>
+
+{:start="22"}
+22. Honourable Member Mr Xie Yao Quan asked whether stakeholders, such
+as Grassroots Advisers, can be empowered to issue Mediation Directions.<p></p>
 <p>a. We have scoped the legislative power to issue an MD to public officers
 and officers of statutory boards.</p>
 <p>b. Given the nature of MDs, and that non-compliance can result in a fine
