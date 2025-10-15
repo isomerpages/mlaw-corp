@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Data on Debts Repaid
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-on-debts-repaid/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Data on Debts Repaid to Creditors of Bankruptcy Estates in the Last 10 Years and Plans to Enhance Creditor Recovery
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-data-on-debts-repaid-to-creditors-bankruptcy-estates-in-last-ten-years-plans-enhance-creditor-recovery/
 date: 2025-10-15
 layout: post
 description: ""
