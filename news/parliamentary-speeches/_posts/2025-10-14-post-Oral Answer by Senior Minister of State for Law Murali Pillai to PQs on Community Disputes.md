@@ -85,20 +85,18 @@ community.</p>
 {:start="1"}
 1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and 9 in today’s Order Paper together?
 
-Speaker: Yes, please
+[Speaker: Yes, please]
 
 {:start="2"}
 2. Thank you, Sir.
  
 {:start="3"}
-3. Sir, my response will also address related questions [423], [444], [615], [631], [634], [635], [639], [640], and [735] by honourable Members
-Mr Gabriel Lam, Mr Yip Hon Weng, Mr Xie Yao Quan, Mr Ng Chee Meng, Ms Valerie Lee, Ms Elysa Chen, and Ms Gho Sze Kee, which are scheduled for subsequent sittings. Thereafter, MOS Alvin Tan will, with your permission Sir, address Question Nos 10 and 11 in today's Order Paper.
+3. Sir, my response will also address related questions [423], [444], [615], [631], [634], [635], [639], [640], and [735] by honourable Members Mr Gabriel Lam, Mr Yip Hon Weng, Mr Xie Yao Quan, Mr Ng Chee Meng, Ms Valerie Lee, Ms Elysa Chen, and Ms Gho Sze Kee, which are scheduled for subsequent sittings. Thereafter, MOS Alvin Tan will, with your permission Sir, address Question Nos 10 and 11 in today's Order Paper.
 
 {:start="4"}
-4. Mr Speaker, may I request that we deliver our replies, which pertain to neighbour disputes, and then, for us to take supplementary questions
-together thereafter, please?
+4. Mr Speaker, may I request that we deliver our replies, which pertain to neighbour disputes, and then, for us to take supplementary questions together thereafter, please?
 
-Speaker: Yes, please We will take any SQs after we have addressed Question 11.
+[Speaker: Yes, please We will take any SQs after we have addressed Question 11.]
 
 {:start="5"}
 5. First, I will briefly recap the Government’s overall approach for managing community disputes, before addressing Members’ questions on difficult neighbour disputes; and how we intend to address these more effectively.
@@ -315,4 +313,3 @@ ahead with the important work of building up the community’s capacity to pract
 </p>
 <p></p>
 <p></p>
-
