@@ -6,7 +6,7 @@ date: 2025-10-14
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong><u>Questions</u></strong>
 </p>
