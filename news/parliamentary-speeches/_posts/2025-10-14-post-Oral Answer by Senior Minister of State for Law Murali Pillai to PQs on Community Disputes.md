@@ -206,8 +206,7 @@ community.</p>
 
 <p style="margin-left: 40px">a. We have scoped the legislative power to issue an MD to public officers and officers of statutory boards.</p>
 
-<p style="margin-left: 40px">b. Given the nature of MDs, and that non-compliance can result in a fine of up to $1,500, we have not expanded this power to include non-public</p>
-officers.
+<p style="margin-left: 40px">b. Given the nature of MDs, and that non-compliance can result in a fine of up to $1,500, we have not expanded this power to include non-public officers.</p>
 
 <p style="margin-left: 40px">c. We will appoint more public officers as needed.</p>
 
