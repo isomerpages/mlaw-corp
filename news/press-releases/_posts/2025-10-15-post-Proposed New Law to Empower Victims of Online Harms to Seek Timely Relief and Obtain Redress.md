@@ -116,4 +116,4 @@ C. <u>Enhancing accountability of communicators of online harms</u>
 
 <p></p><p><sup id="fn3">3.&nbsp;For the full summary of responses to the public consultation, please refer to <a href="https://www.reach.gov.sg/latest-happenings/public-consultation-pages/2024/public-consultation-on-enhancing-online-safety#1eed26825d3eb4b5ab0bc550fe83c999">https://www.reach.gov.sg/latest-happenings/public-consultation-pages/2024/public-consultation-on-enhancing-online-safety#1eed26825d3eb4b5ab0bc550fe83c999</a>.</sup><a href="#ref3" title="Jump back to footnote 3 in the text." style="font-size: 12px">↩</a></p>
 
-<p class="right-side-updated">Last updated on 15 October 2025</p>**
+<p class="right-side-updated">Last updated on 15 October 2025</p>
