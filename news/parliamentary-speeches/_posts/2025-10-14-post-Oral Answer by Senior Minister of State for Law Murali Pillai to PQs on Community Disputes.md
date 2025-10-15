@@ -83,8 +83,7 @@ community.</p>
 </p>
 
 {:start="1"}
-1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and
-9 in today’s Order Paper together?
+1. Mr Speaker, Sir, may I have your permission to answer Questions 8 and 9 in today’s Order Paper together?
 
 Speaker: Yes, please
 
@@ -92,20 +91,14 @@ Speaker: Yes, please
 2. Thank you, Sir.
  
 {:start="3"}
-3. Sir, my response will also address related questions [423], [444],
-[615], [631], [634], [635], [639], [640], and [735] by honourable Members
-Mr Gabriel Lam, Mr Yip Hon Weng, Mr Xie Yao Quan, Mr Ng Chee Meng, Ms Valerie
-Lee, Ms Elysa Chen, and Ms Gho Sze Kee, which are scheduled for subsequent
-sittings. Thereafter, MOS Alvin Tan will, with your permission Sir, address
-Question Nos 10 and 11 in today's Order Paper.
+3. Sir, my response will also address related questions [423], [444], [615], [631], [634], [635], [639], [640], and [735] by honourable Members
+Mr Gabriel Lam, Mr Yip Hon Weng, Mr Xie Yao Quan, Mr Ng Chee Meng, Ms Valerie Lee, Ms Elysa Chen, and Ms Gho Sze Kee, which are scheduled for subsequent sittings. Thereafter, MOS Alvin Tan will, with your permission Sir, address Question Nos 10 and 11 in today's Order Paper.
 
 {:start="4"}
-4. Mr Speaker, may I request that we deliver our replies, which pertain
-to neighbour disputes, and then, for us to take supplementary questions
+4. Mr Speaker, may I request that we deliver our replies, which pertain to neighbour disputes, and then, for us to take supplementary questions
 together thereafter, please?
 
-Speaker: Yes, please We will take any SQs after we have addressed Question
-11.
+Speaker: Yes, please We will take any SQs after we have addressed Question 11.
 
 {:start="5"}
 5. First, I will briefly recap the Government’s overall approach for managing community disputes, before addressing Members’ questions on difficult neighbour disputes; and how we intend to address these more effectively.
@@ -119,20 +112,20 @@ Speaker: Yes, please We will take any SQs after we have addressed Question
 {:start="8"}
 8. As Minister Edwin Tong explained during the Second Reading of the Act -
 
-a. Our aim is to strengthen our community so that neighbours can constructively engage with one another, even when disagreements arise.
+<p style="margin-left: 40px">a. Our aim is to strengthen our community so that neighbours can constructively engage with one another, even when disagreements arise.</p>
 
-b. This starts by fostering positive neighbourly relations.
+<p style="margin-left: 40px">b. This starts by fostering positive neighbourly relations.</p>
 
 {:start="9"}
 9. Now and then, disputes between some neighbours do arise. It is best for these to be settled amicably.
  
 10. So, whenever community leaders or HDB officers become aware of a dispute - 
 
-a. They attempt to mediate informally, particularly at an early stage, before relationships break down.
+<p style="margin-left: 40px">a. They attempt to mediate informally, particularly at an early stage, before relationships break down.</p>
 
-b. They will also encourage residents to attempt formal mediation at the Community Mediation Centre, or CMC, in short.
+<p style="margin-left: 40px">b. They will also encourage residents to attempt formal mediation at the Community Mediation Centre, or CMC, in short.</p>
 
-c. When both neighbours participate, mediation has proven effective in resolving community disputes. It is free, and it preserves neighbourly relations in the longer term.
+<p style="margin-left: 40px">c. When both neighbours participate, mediation has proven effective in resolving community disputes. It is free, and it preserves neighbourly relations in the longer term.</p>
 
 {:start="11"}
 11. Our experience shows that neighbour disputes become harder to resolve when they become personal, emotionally charged, or if they are prolonged.
@@ -140,18 +133,18 @@ c. When both neighbours participate, mediation has proven effective in resolving
 {:start="12"}
 12. For these cases, where suitable, the recent CDMF enhancements will empower public officers – such as HDB officers – to issue a Mediation Direction, or MD in short.
 
-a. MDs are legally backed orders that require recipients to attend mediation at the CMC.
+<p style="margin-left: 40px">a. MDs are legally backed orders that require recipients to attend mediation at the CMC.</p>
 
-b. Non-compliance without reasonable excuse, is an offence.
+<p style="margin-left: 40px">b. Non-compliance without reasonable excuse, is an offence.</p>
 
-c. This allows us to require disputing neighbours to attend a mandatory mediation, which Members have asked about.
+<p style="margin-left: 40px">c. This allows us to require disputing neighbours to attend a mandatory mediation, which Members have asked about.</p>
 
 {:start="13"}
 13. Now, we have established a Community Relations Unit, and empowered its officers to take decisive action in a neighbour dispute.
 
-a. CRU officers are empowered to investigate, collect evidence, and if need be, intervene quickly through levers like advisories, warnings, and abatement orders.
+<p style="margin-left: 40px">a. CRU officers are empowered to investigate, collect evidence, and if need be, intervene quickly through levers like advisories, warnings, and abatement orders.</p>
 
-b. Since 7 April 2025, the CRU and the MD framework have been piloted in the HDB estates of Tampines town. We have previously explained why we have chosen to start with a pilot.
+<p style="margin-left: 40px">b. Since 7 April 2025, the CRU and the MD framework have been piloted in the HDB estates of Tampines town. We have previously explained why we have chosen to start with a pilot.</p>
 
 {:start="14"}
 14. Generally, most cases should be addressed through mediation or by the CRU.
@@ -165,154 +158,161 @@ b. Since 7 April 2025, the CRU and the MD framework have been piloted in the HDB
 {:start="17"}
 17. Honourable Member Mr Yip Hon Weng asked about the number of neighbour disputes where parties refused mediation.
 
-a. As I mentioned earlier, it is best for neighbour disputes to be settled amicably between neighbours or via informal mediation by community leaders or HDB officers. And many are indeed resolved in this way.
+<p style="margin-left: 40px">a. As I mentioned earlier, it is best for neighbour disputes to be settled amicably between neighbours or via informal mediation by community leaders or HDB officers. And many are indeed resolved in this way.</p>
 
-b. For disputes that proceed to formal mediation, from November 2024 to August 2025, about 1,300 neighbour disputes were registered with the CMC for voluntary mediation.
+<p style="margin-left: 40px">b. For disputes that proceed to formal mediation, from November 2024 to August 2025, about 1,300 neighbour disputes were registered with the CMC for voluntary mediation.</p>
 
-c. In about 50% of these cases, one party did not respond. In another 20%, at least one party declined outright.
+<p style="margin-left: 40px">c. In about 50% of these cases, one party did not respond. In another 20%, at least one party declined outright.</p>
 
 {:start="18"}
 18. Honourable Members Mr Ng Chee Meng and Mr Gabriel Lam asked how we can refer more disputes to mediation.
 
-a. As mentioned, directed mediation is now being piloted in Tampines.
+<p style="margin-left: 40px">a. As mentioned, directed mediation is now being piloted in Tampines.</p>
 
-b. In suitable cases, authorised officers – such as HDB or CRU officers – can issue an MD to direct disputing parties to attend mediation at the CMC.
+<p style="margin-left: 40px">b. In suitable cases, authorised officers – such as HDB or CRU officers – can issue an MD to direct disputing parties to attend mediation at the CMC.</p>
 
-c. MinLaw will continue to work with MND and HDB to ensure that more suitable disputes are directed to the CMC for mandatory mediation. An early intervention, with mediation, will give parties a better opportunity to resolve their disputes before it becomes entrenched.
+<p style="margin-left: 40px">c. MinLaw will continue to work with MND and HDB to ensure that more suitable disputes are directed to the CMC for mandatory mediation. An early intervention, with mediation, will give parties a better opportunity to resolve their disputes before it becomes entrenched.</p>
 
 {:start="19"}
 19. Ms Gho Sze Kee asked whether we will consider empowering the CMC to issue Mediation Directions. This is already the case for what we call ‘re-mediation cases’.
 
-a. These are cases where residents previously attempted voluntary mediation and arrived at a settlement, but the same disputes resurfaced subsequently.
+<p style="margin-left: 40px">a. These are cases where residents previously attempted voluntary mediation and arrived at a settlement, but the same disputes resurfaced subsequently.</p>
 
-b. So, there is value in directing re-mediation in such cases since both parties were willing to attempt voluntary mediation at the first instance.
+<p style="margin-left: 40px">b. So, there is value in directing re-mediation in such cases since both parties were willing to attempt voluntary mediation at the first instance.</p>
 
 {:start="20"}
 20. In a similar vein, honourable Member Mr Kenneth Tiong asked whether residents may appeal to the Ministry to compel mediation.
 
-a. Beyond re-mediation cases, it will not be appropriate for the CMC to issue MDs to parties directly.
+<p style="margin-left: 40px">a. Beyond re-mediation cases, it will not be appropriate for the CMC to issue MDs to parties directly.</p>
 
-b. The CMC cannot be seen as taking sides and compelling mediation because of an appeal by one party.
+<p style="margin-left: 40px">b. The CMC cannot be seen as taking sides and compelling mediation because of an appeal by one party.</p>
 
-c. The CMC cannot rely on the representation of one party to enforce mandatory mediation on the other. A proper assessment of the circumstances must be made. In this regard, the CMC has to rely on triage by ground agencies such as HDB and CRU, to determine the situation on the ground. For example, cases involving physical threats will not be suitable for mediation.
+<p style="margin-left: 40px">c. The CMC cannot rely on the representation of one party to enforce mandatory mediation on the other. A proper assessment of the circumstances must be made. In this regard, the CMC has to rely on triage by ground agencies such as HDB and CRU, to determine the situation on the ground. For example, cases involving physical threats will not be suitable for mediation.</p>
 
-d. Residents who are unable to obtain their neighbour’s agreement to attend mediation, can approach the HDB or CRU for assistance.
+<p style="margin-left: 40px">d. Residents who are unable to obtain their neighbour’s agreement to attend mediation, can approach the HDB or CRU for assistance.</p>
 
-e. Also, if a CDRT claim is subsequently filed, it is possible for the
-Judge to direct parties to attend mediation.
+<p style="margin-left: 40px">e. Also, if a CDRT claim is subsequently filed, it is possible for the Judge to direct parties to attend mediation.</p>
 
 {:start="21"}
-21. Honourable Member Mr Gabriel Lam asked about the expansion of the
-MD pilot, which started about 6 months ago on 7 April 2025.<p></p>
-<p>a. Agencies are actively reviewing the learnings from the pilot and will
-continually refine operational protocols.</p>
-<p>b. I will come back to this again in my concluding remarks.</p>
-<p>c. MOS Alvin Tan will also speak more on the CRU framework in his response.</p>
+21. Honourable Member Mr Gabriel Lam asked about the expansion of the MD pilot, which started about 6 months ago on 7 April 2025.
+
+<p style="margin-left: 40px">a. Agencies are actively reviewing the learnings from the pilot and will continually refine operational protocols.</p>
+
+<p style="margin-left: 40px">b. I will come back to this again in my concluding remarks.</p>
+
+<p style="margin-left: 40px">c. MOS Alvin Tan will also speak more on the CRU framework in his response.</p>
 
 {:start="22"}
-22. Honourable Member Mr Xie Yao Quan asked whether stakeholders, such
-as Grassroots Advisers, can be empowered to issue Mediation Directions.<p></p>
-<p>a. We have scoped the legislative power to issue an MD to public officers
-and officers of statutory boards.</p>
-<p>b. Given the nature of MDs, and that non-compliance can result in a fine
-of up to $1,500, we have not expanded this power to include non-public
-officers.</p>
-<p>c. We will appoint more public officers as needed.</p>
-<p>23. Mr Kenneth Tiong asked about the number of compulsory mediations for
-neighbour disputes at the CMC for each of the last three years.</p>
-<p>a. For court-mandated mediation, from 2022 to 2024, the CDRT and the Magistrates’
-Court referred about 90 and 80 cases to the CMC respectively.</p>
-<p>b. Since 7 April 2025:</p>
-<p>i. The CRU has issued 1 MD.</p>
-<p>ii. The HDB has not issued any MDs.</p>
-<p>iii. The CMC has not issued any re-mediation directions under the MD framework.</p>
-<p>c. The police do not direct any party to attend mediation.</p>
-<p>24. Next, honourable Member Ms Valerie Lee asked about penalties for parties
-who fail to comply with a Mediation Direction.</p>
-<p>a. First, apart from the fine mentioned earlier, once the CDRT enhancements
-are fully operationalised, complainants who fail to comply with a Mediation
-Direction will not be allowed to file a CDRT claim against their neighbours.</p>
-<p>b. Next, where a respondent fails to comply, and a case is subsequently
-filed with the CDRT, the CDRT may make an adverse costs order against the
-respondent. This is because the respondent has failed to make reasonable
-efforts at amicable resolution.</p>
-<p>25. Mr Xie Yao Quan asked about the CMC’s plans to appoint more mediators
-and extend its services into the community.</p>
-<p>a. The CMC has increased accessibility to voluntary mediation by establishing
-18 satellite mediation locations at various ServiceSG Centres, Community
-Clubs, and Neighbourhood Police Posts. Where suitable, virtual mediation
-is also offered.</p>
-<p>b. The CMC continues to expand its pool of trained volunteer mediators,
-which has grown from about 140 at the start of 2022 to around 170 as at
-October 2025.</p>
-<p>26. Mr Yip Hon Weng asked about the immediate intervention measures when
-parties show aggression. In a similar vein, Dr Choo Pei Ling asked about
-preventive measures and statistics on disputes that escalate to aggression.</p>
-<p>a. To Dr Choo’s query, we have checked with the relevant agencies. Such
-statistics are not specifically tracked.</p>
-<p>b. Any resident who feels threatened by his neighbour should immediately
-call the police.</p>
-<p>c. The police will intervene when there are law and order concerns, taking
-proportionate action based on threat severity.</p>
-<p>d. More broadly, agencies will look at how we can strengthen our enforcement
-posture, particularly in cases that may involve threats of physical aggression.</p>
-<p>27. Ms Valerie Lee , Mr Gabriel Lam , and Ms Gho Sze Kee asked about neighbour
-disputes where one or more parties may have underlying mental health conditions.</p>
-<p>28. The framework remains as Minister Edwin Tong and Senior Minister of
-State Sim Ann had explained during the Second Reading in November 2024.</p>
-<p>a. Our guiding principle is to persuade the resident to voluntarily go
-for assessment and treatment. Here, the assistance and involvement of the
-family and caregiver can be crucial.</p>
-<p>b. If frontline officers are unable to persuade the individual to seek
-treatment, then they will consider guiding the case towards a Mandatory
-Treatment Order – which we expect to operationalise by the end of this
-year.</p>
-<p>c. For some conditions, treatment may not be possible. In such cases,
-frontline officers partner with agencies such as the Agency for Integrated
-Care, so that professionals can be brought in to assess how best to support
-the resident and manage the condition.</p>
-<p>29. Ms Elysa Chen asked for data on the CDRT’s caseload. She also asked
-about support for claimants in preparing evidence for CDRT hearings.</p>
-<p>a. The top 3 CDRT disputes for the last 5 years are claims for excessive
-noise, excessive vibration, and littering. A party may include multiple
-types of disputes in a single claim.</p>
-<p>b. Between 2020 and 2024:</p>
-<p>i. A total of 1,031 CDRT claims were filed. About 65% – or 2 out of 3
-claims – involved excessive noise.</p>
-<p>ii. Of these CDRT claims–</p>
-<p>1. The CDRT issued 233 CDRT orders, and dismissed or struck off 145 cases.
-Another 651 claims were withdrawn or discontinued.</p>
-<p>2. The CDRT made 26 enforcement orders, comprising 24 Special Directions
-and 2 Exclusion Orders.</p>
-<p>c. For cases that involve alleged breaches of CDRT orders to cease smoking,
-any evidence that points to the fact that the respondent was smoking in
-breach of the CDRT order, would be relevant. Some examples include:</p>
-<p>i. Letters or contemporaneous messages exchanged between neighbours; and</p>
-<p>ii. Written records with specific timestamps of the acts in question.</p>
-<p>d. Residents who require more information on the CDRT process can refer
-to the “Guide to Neighbour Dispute Claims”, which is available on the Judiciary’s
-website.</p>
-<p>e. Residents may also seek legal help from Pro Bono SG's Community Law
-Centres and Community Legal Clinics.</p>
-<p>30. Mr Speaker, Sir, let me say a few words in conclusion.</p>
-<p>31. Some Singaporeans are understandably concerned after the incident
-in Yishun last month.</p>
-<p>32. The Government will continue its existing efforts to strengthen the
-CDMF. This is a continuous ongoing process.</p>
-<p>33. For the more difficult cases, we are now piloting a Directed Mediation
-framework, and the CRU in Tampines.</p>
-<p>a. Agencies are prepared to and will expand the application of the enhanced
-CDMF as soon as practicable, so that more cases can benefit from mediation,
-and the direct intervention tools of the CRU.</p>
-<p>34. However, no framework will be able to address all manner of neighbour
-disputes or curb specific individual behaviour, especially violence. No
-one should resort to violence to deal with a neighbour dispute. That is
-a personal responsibility. It is therefore necessary for us all to press
-ahead with the important work of building up the community’s capacity to
-practise self-moderation, and to engage with each other when disputes arise.
-It is a multi-pronged approach in building a harmonious community together.</p>
-<p>35. Thank you.</p>
-<p><em>Last updated on 14 October 2025</em>
+22. Honourable Member Mr Xie Yao Quan asked whether stakeholders, such as Grassroots Advisers, can be empowered to issue Mediation Directions.
+
+<p style="margin-left: 40px">a. We have scoped the legislative power to issue an MD to public officers and officers of statutory boards.</p>
+
+<p style="margin-left: 40px">b. Given the nature of MDs, and that non-compliance can result in a fine of up to $1,500, we have not expanded this power to include non-public</p>
+officers.
+
+<p style="margin-left: 40px">c. We will appoint more public officers as needed.</p>
+
+{:start="23"}
+23. Mr Kenneth Tiong asked about the number of compulsory mediations for neighbour disputes at the CMC for each of the last three years.
+
+<p style="margin-left: 40px">a. For court-mandated mediation, from 2022 to 2024, the CDRT and the Magistrates’ Court referred about 90 and 80 cases to the CMC respectively.</p>
+
+<p style="margin-left: 40px">b. Since 7 April 2025:</p>
+
+<p style="margin-left: 60px">i. The CRU has issued 1 MD.</p>
+
+<p style="margin-left: 60px">ii. The HDB has not issued any MDs.</p>
+
+<p style="margin-left: 60px">iii. The CMC has not issued any re-mediation directions under the MD framework.</p>
+
+<p style="margin-left: 40px">c. The police do not direct any party to attend mediation.</p>
+
+{:start="24"}
+24. Next, honourable Member Ms Valerie Lee asked about penalties for parties who fail to comply with a Mediation Direction.
+
+<p style="margin-left: 40px">a. First, apart from the fine mentioned earlier, once the CDRT enhancements are fully operationalised, complainants who fail to comply with a Mediation Direction will not be allowed to file a CDRT claim against their neighbours.</p>
+
+<p style="margin-left: 40px">b. Next, where a respondent fails to comply, and a case is subsequently filed with the CDRT, the CDRT may make an adverse costs order against the respondent. This is because the respondent has failed to make reasonable efforts at amicable resolution.</p>
+
+{:start="25"}
+25. Mr Xie Yao Quan asked about the CMC’s plans to appoint more mediators and extend its services into the community.
+
+<p style="margin-left: 40px">a. The CMC has increased accessibility to voluntary mediation by establishing 18 satellite mediation locations at various ServiceSG Centres, Community Clubs, and Neighbourhood Police Posts. Where suitable, virtual mediation is also offered.</p>
+
+<p style="margin-left: 40px">b. The CMC continues to expand its pool of trained volunteer mediators, which has grown from about 140 at the start of 2022 to around 170 as at October 2025.</p>
+
+{:start="26"}
+26. Mr Yip Hon Weng asked about the immediate intervention measures when parties show aggression. In a similar vein, Dr Choo Pei Ling asked about preventive measures and statistics on disputes that escalate to aggression.
+
+<p style="margin-left: 40px">a. To Dr Choo’s query, we have checked with the relevant agencies. Such statistics are not specifically tracked.</p>
+
+<p style="margin-left: 40px">b. Any resident who feels threatened by his neighbour should immediately call the police.</p>
+
+<p style="margin-left: 40px">c. The police will intervene when there are law and order concerns, taking proportionate action based on threat severity.</p>
+
+<p style="margin-left: 40px">d. More broadly, agencies will look at how we can strengthen our enforcement posture, particularly in cases that may involve threats of physical aggression.</p>
+
+{:start="27"}
+27. Ms Valerie Lee , Mr Gabriel Lam , and Ms Gho Sze Kee asked about neighbor disputes where one or more parties may have underlying mental health conditions.
+
+{:start="28"}
+28. The framework remains as Minister Edwin Tong and Senior Minister of State Sim Ann had explained during the Second Reading in November 2024.
+
+<p style="margin-left: 40px">a. Our guiding principle is to persuade the resident to voluntarily go for assessment and treatment. Here, the assistance and involvement of the family and caregiver can be crucial.</p>
+
+<p style="margin-left: 40px">b. If frontline officers are unable to persuade the individual to seek treatment, then they will consider guiding the case towards a Mandatory Treatment Order – which we expect to operationalise by the end of this year.</p>
+
+<p style="margin-left: 40px">c. For some conditions, treatment may not be possible. In such cases, frontline officers partner with agencies such as the Agency for Integrated Care, so that professionals can be brought in to assess how best to support the resident and manage the condition.</p>
+
+{:start="29"}
+29. Ms Elysa Chen asked for data on the CDRT’s caseload. She also asked about support for claimants in preparing evidence for CDRT hearings.<p></p>
+
+<p style="margin-left: 40px">a. The top 3 CDRT disputes for the last 5 years are claims for excessive noise, excessive vibration, and littering. A party may include multiple types of disputes in a single claim.</p>
+
+<p style="margin-left: 40px">b. Between 2020 and 2024:</p>
+
+<p style="margin-left: 60px">i. A total of 1,031 CDRT claims were filed. About 65% – or 2 out of 3 claims – involved excessive noise.</p>
+
+<p style="margin-left: 60px">ii. Of these CDRT claims–</p>
+
+<p style="margin-left: 80px">1. The CDRT issued 233 CDRT orders, and dismissed or struck off 145 cases. Another 651 claims were withdrawn or discontinued.</p>
+
+<p style="margin-left: 80px">2. The CDRT made 26 enforcement orders, comprising 24 Special Directions and 2 Exclusion Orders.</p>
+
+<p style="margin-left: 40px">c. For cases that involve alleged breaches of CDRT orders to cease smoking, any evidence that points to the fact that the respondent was smoking in breach of the CDRT order, would be relevant. Some examples include:</p>
+
+<p style="margin-left: 60px">i. Letters or contemporaneous messages exchanged between neighbours; and</p>
+
+<p style="margin-left: 60px">ii. Written records with specific timestamps of the acts in question.</p>
+
+<p style="margin-left: 40px">d. Residents who require more information on the CDRT process can refer to the “Guide to Neighbour Dispute Claims”, which is available on the Judiciary’s website.</p>
+
+<p style="margin-left: 40px">e. Residents may also seek legal help from Pro Bono SG's Community Law Centres and Community Legal Clinics.</p>
+
+{:start="30"}
+30. Mr Speaker, Sir, let me say a few words in conclusion.
+
+{:start="31"}
+31. Some Singaporeans are understandably concerned after the incident in Yishun last month.
+
+{:start="32"}
+32. The Government will continue its existing efforts to strengthen the CDMF. This is a continuous ongoing process.
+
+{:start="33"}
+33. For the more difficult cases, we are now piloting a Directed Mediation framework, and the CRU in Tampines.
+
+<p style="margin-left: 40px">a. Agencies are prepared to and will expand the application of the enhanced CDMF as soon as practicable, so that more cases can benefit from mediation, and the direct intervention tools of the CRU.
+
+{:start="34"}
+34. However, no framework will be able to address all manner of neighbor disputes or curb specific individual behaviour, especially violence. No
+one should resort to violence to deal with a neighbour dispute. That is a personal responsibility. It is therefore necessary for us all to press
+ahead with the important work of building up the community’s capacity to practise self-moderation, and to engage with each other when disputes arise. It is a multi-pronged approach in building a harmonious community together.
+
+{:start="35"}
+35. Thank you.
+
+</p><p><em>Last updated on 14 October 2025</em>
 </p>
 <p></p>
 <p></p>
+
