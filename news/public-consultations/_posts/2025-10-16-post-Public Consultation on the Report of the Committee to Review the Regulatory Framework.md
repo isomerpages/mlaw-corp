@@ -63,5 +63,3 @@ views on the Committee’s recommendations. Interested parties may view the
 Committee’s report (<a href="/files/committeereport16oct2025.pdf" rel="noopener nofollow" target="_blank">Committee Report</a>)
 and submit feedback in electronic form: <a href="https://go.gov.sg/regcomm2025" rel="noopener noreferrer nofollow" target="_blank">Public Consultation Feedback</a>.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
