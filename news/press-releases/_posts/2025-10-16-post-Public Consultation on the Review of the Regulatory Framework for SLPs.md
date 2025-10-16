@@ -1,5 +1,5 @@
 ---
-title: Public Consultation on the Review of the Regulatory Framework for SLPs
+title: Public Consultation on the Review of the Regulatory Framework for Law Practices and Collaborations in Singapore
 permalink: /public-consultation-on-the-review-of-the-regulatory-framework-for-slps/
 date: 2025-10-16
 layout: post
