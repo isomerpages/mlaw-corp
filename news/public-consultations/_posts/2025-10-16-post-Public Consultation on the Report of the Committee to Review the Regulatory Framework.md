@@ -38,28 +38,38 @@ and established Singapore as an international legal services hub.</p>
 was last reviewed in 2014. It is timely to conduct a review to evaluate
 the efficacy of the current regulatory framework. The Committee was given
 the following terms of reference:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review
-the extent to which the current regulatory framework for law practices
+<ul data-tight="true" class="tight">
+<li>
+<p>Review the extent to which the current regulatory framework for law practices
 in Singapore and collaborations among them has met its original objectives;
 and</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recommend
-any changes to the regulatory framework, taking into account developments
-and trends in legal services and the future needs of Singapore.</p>
+</li>
+<li>
+<p>Recommend any changes to the regulatory framework, taking into account
+developments and trends in legal services and the future needs of Singapore.</p>
+</li>
+</ul>
 <p>6.&nbsp;&nbsp;&nbsp; The Committee has made a total of 10 recommendations,
 which fall into four broad areas:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Criteria
-to enter into collaboration arrangements;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requirements
-for foreign law practice entities and foreign-qualified lawyers to hold
-interests in Singapore law practices;</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lawyer
-composition in foreign law practice entities; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permitted
-areas of legal practice for licensed foreign law practices.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Criteria to enter into collaboration arrangements;</p>
+</li>
+<li>
+<p>Requirements for foreign law practice entities and foreign-qualified lawyers
+to hold interests in Singapore law practices;</p>
+</li>
+<li>
+<p>Lawyer composition in foreign law practice entities; and</p>
+</li>
+<li>
+<p>Permitted areas of legal practice for licensed foreign law practices.</p>
+</li>
+</ul>
 <p><strong>Public Consultation</strong>
 </p>
 <p>7.&nbsp;&nbsp;&nbsp; Members of the public are invited to share their
 views on the Committee’s recommendations. Interested parties may view the
 Committee’s report (<a href="/files/committeereport16oct2025.pdf" rel="noopener nofollow" target="_blank">Committee Report</a>)
 and submit feedback in electronic form: <a href="https://go.gov.sg/regcomm2025" rel="noopener noreferrer nofollow" target="_blank">Public Consultation Feedback</a>.</p>
-<p>&nbsp;</p>
+<p></p>
