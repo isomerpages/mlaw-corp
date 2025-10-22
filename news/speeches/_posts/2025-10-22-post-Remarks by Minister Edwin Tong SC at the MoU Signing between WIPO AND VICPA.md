@@ -1,5 +1,5 @@
 ---
-title: Remarks by Minister Edwin Tong SC at the MoU Signing between WIPO AND VICPA
+title: Remarks by Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs, at the MoU Signing between WIPO AND VICPA
 permalink: /remarks-by-minister-edwin-tong-sc-at-the-mou-signing-between-wipo-and-vicpa/
 date: 2025-10-22
 layout: post
