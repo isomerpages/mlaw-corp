@@ -43,6 +43,20 @@ closed for a staff event on the following date and time:</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>28 November 2025 (Friday) from 11:30 AM onwards</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11:00 AM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 December 2025</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Thank you for your understanding.</p>
