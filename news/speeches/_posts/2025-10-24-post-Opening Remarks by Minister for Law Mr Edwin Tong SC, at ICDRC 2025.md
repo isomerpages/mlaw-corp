@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**任鸿斌会长Mr Ren Hongbin**, Chairman of the China Council for the Promotion of International Trade (CCPIT). I am very delighted to have the opportunity to host you in Singapore.
+**任鸿斌会长 Mr Ren Hongbin**, Chairman of the China Council for the Promotion of International Trade (CCPIT). I am very delighted to have the opportunity to host you in Singapore.
 
 To our many friends from China and Singapore
 
@@ -27,16 +27,16 @@ Ladies and gentlemen
 3. Let me tell you why it is special. It is special because this year’s conference is significant for not one, two, or even three reasons, but for four very important milestones, and let me share them with you.
 
 <p style="margin-left: 40px">
-(1) First, this is the 5th&nbsp;edition of the conference. As Chairman Ren reminded me when I met him in Beijing earlier this year and also this morning, there is a Chinese tradition, every 5th&nbsp;anniversary deserves a small celebration, and every 10th, a grander one.&nbsp;五年一小庆，十年一大庆。我很期待和大家一起庆祝十周年纪念日。Today is a smaller celebration — I would say modest in scale, but I believe it will be very rich in meaning.</p>
+(1) <u>>First</u>, this is the 5th&nbsp;edition of the conference. As Chairman Ren reminded me when I met him in Beijing earlier this year and also this morning, there is a Chinese tradition, every 5th&nbsp;anniversary deserves a small celebration, and every 10th, a grander one.&nbsp;五年一小庆，十年一大庆。我很期待和大家一起庆祝十周年纪念日。Today is a smaller celebration — I would say modest in scale, but I believe it will be very rich in meaning.</p>
 
 <p style="margin-left: 40px">
-(2) Second, we celebrate the 35th&nbsp;anniversary of the establishment of diplomatic relations between Singapore and China – the relationship is the foundation of many partnerships in different fields, including law and dispute resolution. That foundation has been strong, and we continue to build on it. Since 1990, Singapore and China have collaborated on many key Government-to-Government (G-to-G) projects, namely the Suzhou Industrial Park, the Tianjin Eco-city, and the Chongqing Connectivity Initiative. And through these regular G-to-G platforms, such as the Joint Council for Bilateral Cooperation (JCBC), which is happening later this year, as well as the eight Provincial Business Councils, we have been really able to foster a deeper and closer collaboration. We drive economic growth, we identify new opportunities for joint development, but all of that rests on strong people-to-people relations, mutual trust, as well as a strong and deep understanding.</p>
+(2) <u>Second</u>, we celebrate the 35th&nbsp;anniversary of the establishment of diplomatic relations between Singapore and China – the relationship is the foundation of many partnerships in different fields, including law and dispute resolution. That foundation has been strong, and we continue to build on it. Since 1990, Singapore and China have collaborated on many key Government-to-Government (G-to-G) projects, namely the Suzhou Industrial Park, the Tianjin Eco-city, and the Chongqing Connectivity Initiative. And through these regular G-to-G platforms, such as the Joint Council for Bilateral Cooperation (JCBC), which is happening later this year, as well as the eight Provincial Business Councils, we have been really able to foster a deeper and closer collaboration. We drive economic growth, we identify new opportunities for joint development, but all of that rests on strong people-to-people relations, mutual trust, as well as a strong and deep understanding.</p>
 
 <p style="margin-left: 40px">
-(3) Third, this conference also coincides with the official visit of His Excellency Premier Li Qiang to Singapore – we will warmly welcome him shortly, his first visit here in his capacity as Premier.</p>
+(3) <u>Third</u>, this conference also coincides with the official visit of His Excellency Premier Li Qiang to Singapore – we will warmly welcome him shortly, his first visit here in his capacity as Premier.</p>
 
 <p style="margin-left: 40px">
-(4) And&nbsp;finally, the fourth reason, for all of us in Singapore at least, this year is SG60. In Chinese tradition, turning 60 signifies the completion of a full cycle of the traditional calendar – perhaps even more meaningful than turning 50. I believe that we are starting this conference this morning, in a moment where we can look back with a lot of gratitude, but also look forward with renewed purpose. Indeed, this year is a year worthy of reflection, of celebration, and recommitment.</p>
+(4) And <u>finally</u>, the fourth reason, for all of us in Singapore at least, this year is SG60. In Chinese tradition, turning 60 signifies the completion of a full cycle of the traditional calendar – perhaps even more meaningful than turning 50. I believe that we are starting this conference this morning, in a moment where we can look back with a lot of gratitude, but also look forward with renewed purpose. Indeed, this year is a year worthy of reflection, of celebration, and recommitment.</p>
 
 **Special features of this year’s conference**
 
