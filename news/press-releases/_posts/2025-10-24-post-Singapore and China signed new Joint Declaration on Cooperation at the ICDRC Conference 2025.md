@@ -10,7 +10,7 @@ variant: markdown
 24 October 2025 Posted in [Press releases](/news/press-releases)
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp;&nbsp; Singapore and China reaffirmed their commitment to legal cooperation at the 5th Singapore-China International Commercial Dispute Resolution Conference, held on 24 October 2025 in Singapore. Jointly organised by Singapore’s Ministry of Law (“MinLaw”), the China Council for the Promotion of International Trade (“CCPIT”), and the International Commercial Dispute Prevention and Settlement Organization (“ICDPASO”), this year’s Conference celebrates 35 years of diplomatic relations between Singapore and China.
+1.&nbsp;&nbsp;&nbsp;&nbsp; Singapore and China reaffirmed their commitment to legal cooperation at the 5th Singapore-China International Commercial Dispute Resolution Conference, held on 24 October 2025 in Singapore. Jointly organised by Singapore’s Ministry of Law (MinLaw), the China Council for the Promotion of International Trade (CCPIT), and the International Commercial Dispute Prevention and Settlement Organization (ICDPASO), this year’s Conference celebrates 35 years of diplomatic relations between Singapore and China.
 
 {:start="2"}
 2.&nbsp;&nbsp;&nbsp;&nbsp; This year’s Conference gathers distinguished speakers from the government, legal and business sectors in Singapore and China, to discuss emerging topics that are increasingly pressing in today’s world. Through speeches, panel discussions and a fireside chat, attendees can gain new insights on key topics such as disputes arising from the use of Artificial Intelligence (AI) in dispute resolution proceedings, ethics in dispute resolution and enhancing efficiency through procedural innovation in dispute resolution.
