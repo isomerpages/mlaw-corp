@@ -1,6 +1,5 @@
 ---
-title: Public Consultation on the Report of the Committee to Review the
-  Regulatory Framework
+title: Public Consultation on the Report of the Committee to Review the Regulatory Framework for Law Practices and Collaborations in Singapore 
 permalink: /public-consultation-on-the-report-of-the-committee-to-review-the-regulatory-framework/
 date: 2025-10-16
 layout: post
