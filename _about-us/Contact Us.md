@@ -31,20 +31,6 @@ closed for a staff event on the following date and time:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 October 2025 (Thursday) from 12 PM to 2:30 PM&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>11:30 AM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30 October 2025</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>28 November 2025 (Friday) from 11:30 AM onwards</strong>
 </p>
 </td>
