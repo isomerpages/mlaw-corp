@@ -1,7 +1,7 @@
 ---
-title: Speech by Minister Edwin Tong SC at IFRRO IWC 2025
+title: Guest of Honour Speech by Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs at IFRRO World Congress 2025 General Assembly
 permalink: /speech-by-minister-edwin-tong-sc-at-ifrro-iwc-2025/
-date: 2025-10-30
+date: 2025-10-28
 layout: post
 description: ""
 image: ""
