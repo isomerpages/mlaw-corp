@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-16 October 2025 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)
+4 November 2025 Posted in \[Parliamentary speeches and responses\](/news/parliamentary-speeches)
 
 <b><u>Question for Written Answer</u></b><br>
 <b>Mr Saktiandi Supaat (Member of Parliament for Bishan-Toa Payoh GRC) </b>
@@ -28,4 +28,4 @@ To ask the Minister for Law (a) for each of the past 10 years, what number and p
 
 {:start=“5”} 5.&nbsp;Any proposal to mandate a new requirement in the bankruptcy process needs to be studied carefully to ensure that the administration of bankruptcies remains cost-efficient. MinLaw will continue to review the bankruptcy regime and make adjustments as necessary to balance the interests of debtors and creditors.
 
-<p class="right-side-updated">Last updated on 16 October 2025</p>
+<p class="right-side-updated">Last updated on 4 November 2025</p>
