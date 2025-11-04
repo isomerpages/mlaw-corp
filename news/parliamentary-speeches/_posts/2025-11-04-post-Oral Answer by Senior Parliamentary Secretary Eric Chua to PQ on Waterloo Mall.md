@@ -1,5 +1,5 @@
 ---
-title: Oral Answer by Senior Parliamentary Secretary Eric Chua to PQ on Waterloo Mall
+title: Oral Answer by Senior Parliamentary Secretary Eric Chua to PQ on SLA's Coordination Efforts to Preserve Orderliness at Waterloo Mall
 permalink: /oral-answer-by-senior-parliamentary-secretary-eric-chua-to-pq-on-waterloo-mall/
 date: 2025-11-04
 layout: post
