@@ -1,5 +1,7 @@
 ---
-title: Written Reply by Minister for Law Edwin Tong on data on outcomes of bankruptcy applications and mandating mediation between petitioning creditor and bankruptcy respondent
+title: Written Reply by Minister for Law Edwin Tong on data on outcomes of
+  bankruptcy applications and mandating mediation between petitioning creditor
+  and bankruptcy respondent
 permalink: /written-reply-by-minister-for-law-on-data-on-outcomes-of-bankruptcy-applications-and-mandating-mediation-between-petitioning-creditor/
 date: 2025-11-04
 layout: post
@@ -17,8 +19,7 @@ To ask the Minister for Law (a) for each of the past 10 years, what number and p
 
 <b><u>Written Answer:</u></b><br>
 
-{:start="1"} 
-1. The Ministry of Law (MinLaw) does not capture data on bankruptcy applications that were terminated for want of prosecution.
+{:start="1"} 1. The Ministry of Law (MinLaw) does not capture data on bankruptcy applications that were terminated for want of prosecution.
 
 {:start="2"} 
 2. For the period from 2016 to 2022, 3,741 bankruptcy applications were withdrawn by the petitioning creditor. This was about 17% of all bankruptcy applications made during this period.
