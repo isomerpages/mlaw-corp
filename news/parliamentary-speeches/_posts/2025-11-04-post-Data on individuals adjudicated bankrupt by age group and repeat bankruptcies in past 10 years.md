@@ -1,7 +1,6 @@
 ---
-title: Data on individuals adjudicated bankrupt by age group and repeat
-  bankruptcies in past 10 years
-permalink: /data-on-individuals-adjudicated-bankrupt-by-age-group-and-repeat-bankruptcies-in-past-10-years/
+title: Written Reply by Minister for Law Edwin Tong on data on individuals adjudicated bankrupt by age group and repeat bankruptcies in past 10 years
+permalink: /written-reply-by-minister-for-law-on-data-on-individuals-adjudicated-bankrupt-by-age-group-and-repeat-bankruptcies-in-past-10-years/
 date: 2025-11-04
 layout: post
 description: ""
