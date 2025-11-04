@@ -41,4 +41,4 @@ To ask the Minister for Law (a) for each of the past 10 years, what number and p
 
 </tbody></table>
 
-<p class="right-side-updated">Last updated on 16 October 2025</p>
+<p class="right-side-updated">Last updated on 4 November 2025</p>
