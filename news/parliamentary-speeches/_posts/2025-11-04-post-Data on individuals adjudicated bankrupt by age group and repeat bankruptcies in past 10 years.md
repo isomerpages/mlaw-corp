@@ -17,7 +17,7 @@ variant: markdown
 To ask the Minister for Law (a) for each of the past 10 years, what number and percentage of individuals adjudicated bankrupt were aged (i) 24 and below, (ii) 25 to 40, (iii) 40 to 54 and (iv) 55 and above; and (b) within each of those age bands, how many were not first-time bankrupts.
 
 <b><u>Written Answer:</u></b><br>
-{:start=“1”} 1.&nbsp;For the period from 2016 to September 2025, the number of individuals adjudicated bankrupt aged (i) 24 and below, (ii) 25 to 39, (iii) 40 to 54 and (iv) 55 and above are tabulated below.
+{:start=“1”} 1. For the period from 2016 to September 2025, the number of individuals adjudicated bankrupt aged (i) 24 and below, (ii) 25 to 39, (iii) 40 to 54 and (iv) 55 and above are tabulated below.
 
 <table><tbody><tr><th colspan="4"><b>Both first-time and repeat bankrupts</b></th></tr><tr><th scope="row"><b>Age of bankrupt at bankruptcy</b></th>
 
