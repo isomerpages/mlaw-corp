@@ -1,5 +1,7 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on review limit of non-training days for trainee lawyers and enforcement measures against non-compliant law firms
+title: Written Reply by Minister for Law Mr Edwin Tong SC on review limit of
+  non-training days for trainee lawyers and enforcement measures against
+  non-compliant law firms
 permalink: /written-reply-by-minster-for-law-edwin-tong-on-review-limit-of-non-training-days-for-trainee-lawyers-and-enforcement-measures-against-non-compliant-law-firms/
 date: 2025-11-05
 layout: post
@@ -9,7 +11,7 @@ variant: markdown
 ---
 5 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Ms Valerie Lee (Member for Parliament for Pasir Ris-Changi GRC)</b>
 
 <b><u>Question</u></b><br>
