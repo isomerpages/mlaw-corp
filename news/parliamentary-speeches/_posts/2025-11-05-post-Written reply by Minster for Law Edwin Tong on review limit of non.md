@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on the Practice Training Period for Trainee Lawyers
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the Practice
+  Training Period for Trainee Lawyers
 permalink: /written-reply-by-minster-for-law-edwin-tong-on-ptp-for-trainee-lawyers/
 date: 2025-11-05
 layout: post
@@ -9,7 +10,7 @@ variant: markdown
 ---
 5 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<b><u>Name and Constituency of Member of Parliament</u></b><br>
+<b><u>Question for Written Answer</u></b><br>
 <b>Ms Valerie Lee (Member for Parliament for Pasir Ris-Changi GRC)</b>
 
 <b><u>Question</u></b><br>
