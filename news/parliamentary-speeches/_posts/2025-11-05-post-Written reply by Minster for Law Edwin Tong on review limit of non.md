@@ -1,8 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on review limit of
-  non-training days for trainee lawyers and enforcement measures against
-  non-compliant law firms
-permalink: /written-reply-by-minster-for-law-edwin-tong-on-review-limit-of-non-training-days-for-trainee-lawyers-and-enforcement-measures-against-non-compliant-law-firms/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the Practice Training Period for Trainee Lawyers
+permalink: /written-reply-by-minster-for-law-edwin-tong-on-ptp-for-trainee-lawyers/
 date: 2025-11-05
 layout: post
 description: ""
