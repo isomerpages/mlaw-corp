@@ -1,5 +1,5 @@
 ---
-title: decision making authority for prosecution of suspected offences
+title: Written Reply by Minister for Law Mr Edwin Tong SC on decision-making authority for prosecution of suspected offences under part 9 of administration of muslim law act
 permalink: /decision-making-authority-for-prosecution-of-suspected-offences/
 date: 2025-11-06
 layout: post
