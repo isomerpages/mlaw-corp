@@ -11,7 +11,7 @@ variant: markdown
 ---
 4 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Mr Saktiandi Supaat (Member of Parliament for Bishan-Toa Payoh GRC) </b>
 
 <b><u>Question</u></b><br>
