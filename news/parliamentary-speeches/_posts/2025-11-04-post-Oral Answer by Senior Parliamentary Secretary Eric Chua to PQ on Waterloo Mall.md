@@ -1,5 +1,6 @@
 ---
-title: Oral Answer by Senior Parliamentary Secretary Eric Chua to PQ on SLA's Coordination Efforts to Preserve Orderliness at Waterloo Mall
+title: Oral Answer by Senior Parliamentary Secretary Eric Chua to PQ on SLA's
+  Coordination Efforts to Preserve Orderliness at Waterloo Mall
 permalink: /oral-answer-by-senior-parliamentary-secretary-eric-chua-to-pq-on-waterloo-mall/
 date: 2025-11-04
 layout: post
@@ -9,7 +10,7 @@ variant: markdown
 ---
 4 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<b><u>Question for Oral Answer</u></b>
+<b><u>Name and Constituency of Member of Parliament</u></b>
 
 <b>Ms Denise Phua Lay Peng (Member of Parliament for Jalan Besar GRC)</b>
 
