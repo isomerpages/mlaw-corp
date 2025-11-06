@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on the average profile of Singaporeans in bankruptcy
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the average profile
+  of Singaporeans in bankruptcy
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-the-profile-of-singaporeans-in-bankruptcy/
 date: 2025-11-05
 layout: post
@@ -7,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Ms Nadia Ahmad Samdin (Member for Parliament for Ang Mo Kio GRC)</b>
 
 <b><u>Question</u></b><br>
