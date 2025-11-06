@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Regulating Businesses Providing Will and Probate Courses
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Regulating
+  Businesses Providing Will and Probate Courses
 permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-regulating-businesses-providing-will-and-probate-courses/
 date: 2025-10-15
 layout: post
@@ -9,7 +10,7 @@ variant: markdown
 ---
 15 October 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Ms Hany Soh (Member of Parliament for Marsiling-Yew Tee GRC) </b>
 
 <b><u>Question</u></b><br>
