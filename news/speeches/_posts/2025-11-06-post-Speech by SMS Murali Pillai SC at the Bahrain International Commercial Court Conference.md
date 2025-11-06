@@ -7,21 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-His Excellency Shaikh Khalid bin Ali Al Khalifa
+His Excellency Shaikh Khalid bin Ali Al Khalifa, Deputy Chair, Supreme Judicial Council, and President, Court of Cassation, Bahrain
 
-Deputy Chair, Supreme Judicial Council, and President, Court of Cassation, Bahrain
+The Honourable Chief Justice Sundaresh Menon, Supreme Court, Singapore
 
-The Honourable Chief Justice Sundaresh Menon
+Professor Jan Paulsson, President, Bahrain International Commercial Court (BICC)
 
-Supreme Court, Singapore
-
-Professor Jan Paulsson
-
-President, Bahrain International Commercial Court (BICC)
-
-The Honourable Justice Philip Jeyaretnam
-
-President, Singapore International Commercial Court (SICC)
+The Honourable Justice Philip Jeyaretnam, President, Singapore International Commercial Court (SICC)
 
 Your Excellencies, Honourable Justices
 
