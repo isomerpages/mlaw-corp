@@ -10,7 +10,7 @@ variant: markdown
 ---
 5 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Ms Valerie Lee (Member for Parliament for Pasir Ris-Changi GRC)</b>
 
 <b><u>Question</u></b><br>

@@ -1,5 +1,6 @@
 ---
-title: Written Reply by Minister for Law Edwin Tong on data on individuals adjudicated bankrupt by age group and repeat bankruptcies in past 10 years
+title: Written Reply by Minister for Law Edwin Tong on data on individuals
+  adjudicated bankrupt by age group and repeat bankruptcies in past 10 years
 permalink: /written-reply-by-minister-for-law-on-data-on-individuals-adjudicated-bankrupt-by-age-group-and-repeat-bankruptcies-in-past-10-years/
 date: 2025-11-04
 layout: post
@@ -9,7 +10,7 @@ variant: markdown
 ---
 4 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Mr Saktiandi Supaat (Member of Parliament for Bishan-Toa Payoh GRC)</b>
 
 <b><u>Question</u></b><br>
