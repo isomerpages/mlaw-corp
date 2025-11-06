@@ -10,7 +10,7 @@ variant: markdown
 ---
 5 November 2025 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches)
 
-<b><u>Question for Written Answer</u></b><br>
+<b><u>Name and Constituency of Member of Parliament</u></b><br>
 <b>Mr Kenneth Tiong Boon Kiat (Member for Parliament for Aljunied GRC)</b>
 
 <b><u>Question</u></b><br>
