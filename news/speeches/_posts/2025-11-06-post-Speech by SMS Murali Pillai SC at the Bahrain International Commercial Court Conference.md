@@ -112,7 +112,7 @@ Ministers, distinguished speakers, guests, ladies and gentlemen.
 {:start="26"}
 26. Over four decades, our ties have expanded far beyond the political realm, into a multifaceted economic collaboration bridging the regions of Southeast Asia and the Arabian Gulf.
 
-<i>Anchoring trade and investment</i>
+<b><i>Anchoring trade and investment</i></b>
 
 {:start="27"}
 27. The bedrock of our strong economic relations lies in the institutions we have built together.
@@ -126,7 +126,7 @@ Ministers, distinguished speakers, guests, ladies and gentlemen.
 {:start="30"}
 30. These agreements signal our shared commitment to creating a stable, secure, and predictable environment where our companies can plan for the long term.
 
-<i>Judicial Cooperation</i>
+<b><i>Judicial Cooperation</i></b>
 
 {:start="31"}
 31. In the judicial sphere, our respective Judiciaries have also engaged in bilateral judicial cooperation.
@@ -143,7 +143,7 @@ Ministers, distinguished speakers, guests, ladies and gentlemen.
 {:start="35"}
 35. Ultimately, it was against this backdrop of trust, friendship, and shared common interests that our countries were able to lay the foundation for developing the framework of the SICC-BICC collaboration.
 
-<i>Shared commitment to advance the rule of law</i>
+<b><i>Shared commitment to advance the rule of law</i></b>
 
 {:start="36"}
 36. What catalysed the development of the BICC, and framework of appeals to the International Committee of the SICC, was our shared commitment to advancing the rule of transnational commercial law.
