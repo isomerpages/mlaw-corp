@@ -41,7 +41,7 @@ Mr Speaker, Sir,
 8.&nbsp;She based her self-esteem on how many ‘likes’ and ‘followers’ she had. She would ask her friends to ‘like’ her photos or ‘follow’ her account to appear popular. If a photo did not receive over 100 ‘likes’, she would delete them.
 
 {:start="9"}
-9.&nbsp;She began receiving comments about her appearance and hurtful messages from those who were supposedly her friends.&nbsp;
+9.&nbsp;She began receiving comments about her appearance and hurtful messages from those who were supposedly her friends.
 
 {:start="10"}
 10.&nbsp;Her mental health worsened. She self-harmed and she was later diagnosed with PTSD when she eventually sought help at IMH. She was on medical leave from school for most of the year.
