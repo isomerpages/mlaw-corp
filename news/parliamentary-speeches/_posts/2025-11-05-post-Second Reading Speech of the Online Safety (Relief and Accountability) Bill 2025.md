@@ -21,10 +21,10 @@ Mr Speaker, Sir,
 2.&nbsp;The Bill before this House clarifies duties, provides relief, and also strengthens accountability across the online ecosystem to deal with online harms.
 
 {:start="3"}
-3.&nbsp;My colleagues have earlier taken Members through the key aspects of the Bill.&nbsp;
+3.&nbsp;My colleagues have earlier taken Members through the key aspects of the Bill.
 
 {:start="4"}
-4.&nbsp;I will focus on outlining the new Statutory Torts framework, as well as the End-User Identification measures in this Bill.&nbsp;
+4.&nbsp;I will focus on outlining the new Statutory Torts framework, as well as the End-User Identification measures in this Bill.
 
 <b>II. Stories of victims of online harms</b>
 
@@ -32,7 +32,7 @@ Mr Speaker, Sir,
 5.&nbsp;Let me start by reiterating why we saw a need for this Bill.
 
 {:start="6"}
-6.&nbsp;The victims of online harms are not just statistics. They may be our children, classmates, colleagues or neighbours. Their confidence, studies, and indeed, their livelihoods can be shaken and seriously affected.&nbsp;&nbsp;
+6.&nbsp;The victims of online harms are not just statistics. They may be our children, classmates, colleagues or neighbours. Their confidence, studies, and indeed, their livelihoods can be shaken and seriously affected.
 
 {:start="7"}
 7.&nbsp;For one Primary 4 student, cyberbullying reared its ugly head when she started using Instagram.
@@ -105,7 +105,7 @@ Mr Speaker, Sir,
 24.&nbsp;This lack of accountability is exacerbated by the structural features of the Internet. There is a misalignment between Tech Companies’ profit motive and the need and desire to enhance online safety.
 
 {:start="25"}
-25.&nbsp;At the Online Harms Symposium co-organised by MinLaw and the SMU Yong Pung How School of Law in 2023, former Facebook employee turned whistleblower, Frances Haugen, spoke about how Tech Companies do have solutions to address online harms but implementing them will eat into their profits and hurt their bottom line.&nbsp;
+25.&nbsp;At the Online Harms Symposium co-organised by MinLaw and the SMU Yong Pung How School of Law in 2023, former Facebook employee turned whistleblower, Frances Haugen, spoke about how Tech Companies do have solutions to address online harms but implementing them will eat into their profits and hurt their bottom line.
 
 {:start="26"}
 26.&nbsp;Social media platforms profit from the amplification of sensational and inflammatory content. Viral, harmful content draw engagement, higher engagements draw eyeballs, so their removal will impact revenue.
@@ -119,7 +119,7 @@ Mr Speaker, Sir,
 28.&nbsp;This, we believe, is far from ideal, as victims are reliant on Platforms to stop online harms.
 
 {:start="29"}
-29.&nbsp;At present, there is no framework which can give redress to victims for harms that happen at the speed and the extent to which they happen online. While victims may try and seek relief in Court, there is a limit to how fast Court proceedings can be, and may also be costly. We all know that in these types of cases, speed of redress is crucial. Most victims of such harms do not want to have to seek relief in Court, through the Court process.&nbsp;&nbsp;
+29.&nbsp;At present, there is no framework which can give redress to victims for harms that happen at the speed and the extent to which they happen online. While victims may try and seek relief in Court, there is a limit to how fast Court proceedings can be, and may also be costly. We all know that in these types of cases, speed of redress is crucial. Most victims of such harms do not want to have to seek relief in Court, through the Court process.
 
 {:start="30"}
 30.&nbsp;It is also clear that online users behave on the Internet differently from the offline world. Perpetrators are emboldened to act with impunity, especially when they can remain anonymous.
@@ -172,7 +172,7 @@ Mr Speaker, Sir,
 41.&nbsp;At the outset, our focus and the intent is to empower victims. It is a very victim-centric approach. Today, if you look at the example of the one victim who tried to speak to the platform – you heard the stats that Minister Josephine cited earlier, it is very difficult, and they are pretty much powerless today.
 
 {:start="42"}
-42.&nbsp;At the Government level, we have the Broadcasting Act, the Protection from Online Falsehoods and Manipulation Act, and the Online Criminal Harms Act that empower the Government to act in a variety of ways. OSRA provisions will empower private persons to obtain relief, and Members might therefore be aware that Clause 4 makes it clear that a public agency cannot commence claims under the Statutory Torts framework. This is a private citizen’s private remedy.&nbsp;
+42.&nbsp;At the Government level, we have the Broadcasting Act, the Protection from Online Falsehoods and Manipulation Act, and the Online Criminal Harms Act that empower the Government to act in a variety of ways. OSRA provisions will empower private persons to obtain relief, and Members might therefore be aware that Clause 4 makes it clear that a public agency cannot commence claims under the Statutory Torts framework. This is a private citizen’s private remedy.
 
 {:start="43"}
 43.&nbsp;I will now explain the types of online harms covered by the Statutory Torts.
@@ -183,15 +183,15 @@ Mr Speaker, Sir,
 {:start="45"}
 45.&nbsp;Clauses 83 to 88 cover the following harmful online activities:
 
-</p><p style="margin-left: 40px">a) Intimate Image Abuse;&nbsp;
+</p><p style="margin-left: 40px">a) Intimate Image Abuse;
 
-</p><p style="margin-left: 40px">b) Image-based Child Abuse;&nbsp;
+</p><p style="margin-left: 40px">b) Image-based Child Abuse;
 
 </p><p style="margin-left: 40px">c) Online Impersonation;
 
-</p><p style="margin-left: 40px">d) Inauthentic Material Abuse;&nbsp;
+</p><p style="margin-left: 40px">d) Inauthentic Material Abuse;
 
-</p><p style="margin-left: 40px">e) Online Instigation of Disproportionate Harm; and&nbsp;
+</p><p style="margin-left: 40px">e) Online Instigation of Disproportionate Harm; and
 
 </p><p style="margin-left: 40px">f) Incitement of Violence.
 
@@ -219,11 +219,11 @@ Mr Speaker, Sir,
 {:start="53"}
 53.&nbsp;Clauses 90 and 91 impose two duties on Administrators.
 
-</p><p style="margin-left: 40px">a) First, they must not develop or maintain an online location in a manner that facilitates or permits online harm to take place – with the intention or knowledge that online harm is likely to take place.&nbsp;
+</p><p style="margin-left: 40px">a) First, they must not develop or maintain an online location in a manner that facilitates or permits online harm to take place – with the intention or knowledge that online harm is likely to take place.
 
 </p><p style="margin-left: 60px">(i) This duty covers Administrators that are complicit in the online harms, and Members might be aware of the infamous chat group “SG Nasi Lemak” previously. This will cover the administrators of such a chat group.
 
-</p><p style="margin-left: 40px">b) Second, when notified of harm, they must act reasonably – more specifically, they must take reasonable care to assess if there is harm and if so, to take reasonable steps to address it.&nbsp;
+</p><p style="margin-left: 40px">b) Second, when notified of harm, they must act reasonably – more specifically, they must take reasonable care to assess if there is harm and if so, to take reasonable steps to address it.
 
 {:start="54"}
 54.&nbsp;Clause 94 therefore imposes a similar duty on Platforms to act reasonably when notified of harm. I want to make clear to Members that the duty to take “reasonable steps” does NOT require the platform to do constant surveillance and monitoring.
@@ -232,14 +232,14 @@ Mr Speaker, Sir,
 55.&nbsp;Their liability arises <u>only</u> when an actor fails to act reasonably after receiving proper notice. They are not liable, if through no fault of their own, they did not receive the notice sent by the victim.
 
 {:start="56"}
-56.&nbsp;In assessing reasonableness, the Court will consider the circumstances of the case – including the seriousness as well as the persistence of the harm.&nbsp;
+56.&nbsp;In assessing reasonableness, the Court will consider the circumstances of the case – including the seriousness as well as the persistence of the harm.
 
 {:start="57"}
-57.&nbsp;Let me illustrate this:&nbsp;
+57.&nbsp;Let me illustrate this:
 
-</p><p style="margin-left: 40px">a) An Administrator or Platform that receives notice of a harmful post for the first time may act reasonably by simply removing the post, if that is the appropriate remedy under the framework.&nbsp;&nbsp;
+</p><p style="margin-left: 40px">a) An Administrator or Platform that receives notice of a harmful post for the first time may act reasonably by simply removing the post, if that is the appropriate remedy under the framework.
 
-</p><p style="margin-left: 40px">b) But if the same account repeatedly causes harm in the same way, simply taking down each time the post is put up may no longer suffice.&nbsp;
+</p><p style="margin-left: 40px">b) But if the same account repeatedly causes harm in the same way, simply taking down each time the post is put up may no longer suffice.
 
 </p><p style="margin-left: 40px">c) In such cases, taking stronger action – such as suspending or disabling the offending account – may be the reasonable steps required under Clauses 91 and 94.
 
@@ -249,7 +249,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 58.&nbsp;What is “reasonable” will therefore depend on the facts.&nbsp; The Courts can take into account factors such as the nature of the conduct, the context in which it occurred, and the effect and impact on the victim.
 
 {:start="59"}
-59.&nbsp;For example, putting up a post or creating a website to whistleblow on serious misconduct may well be “reasonable” if done for a legitimate purpose and in a proportionate manner, even if it might cause harassment, or might be considered as online instigation.&nbsp;&nbsp;
+59.&nbsp;For example, putting up a post or creating a website to whistleblow on serious misconduct may well be “reasonable” if done for a legitimate purpose and in a proportionate manner, even if it might cause harassment, or might be considered as online instigation.
 
 {:start="60"}
 60.&nbsp;There are also safeguards to address concerns that Administrators and Platforms may be inundated with frivolous notices or notices with insufficient information. The Bill provides that the particulars, which an online harm notice must contain, are to be prescribed. We set it out clearly in a prescribed form, so that the categories of information are known upfront, and this ensures that only genuine, properly documented cases trigger the duty to act, and the Administrators and Platforms have enough information to take “reasonable steps”.
@@ -276,7 +276,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 </p><p style="margin-left: 40px">b) other heads of damages that the Minister may prescribe in regulations – such as compensation for loss of earnings or an account of profits where perpetrators benefitted from the harm.
 
 {:start="66"}
-66.&nbsp;The intent is to ensure that victims are properly compensated, and wrongdoers are not allowed to benefit from their behaviour. For some harms, therefore, the victim’s earning capacity or livelihood may be affected, and they should be compensated for loss of future earnings or loss of earning capacity, as the case&nbsp; may be or as may be appropriate.&nbsp;
+66.&nbsp;The intent is to ensure that victims are properly compensated, and wrongdoers are not allowed to benefit from their behaviour. For some harms, therefore, the victim’s earning capacity or livelihood may be affected, and they should be compensated for loss of future earnings or loss of earning capacity, as the case may be or as may be appropriate.
 
 {:start="67"}
 67.&nbsp;In other cases, such as where intimate images have been put online and for sale, and perpetrators profit from this harm –&nbsp; then in those cases, an account of profits may be ordered so that the wrong-doer does not get to retain the benefits of the harm caused.
@@ -303,7 +303,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 74.&nbsp;These injunctions operate independently of any direction from the OSC, giving victims complementary routes to relief. The OSC and the Courts operate independently of each other, and neither is bound by the decision of each other.
 	
 {:start="75"}
-75.&nbsp;The OSC seeks to act quickly, and takes public interest into account in making its decisions. The Court decides any claim for Statutory Tort relief based on the applicable legal principles, and a framework for remedies.&nbsp;
+75.&nbsp;The OSC seeks to act quickly, and takes public interest into account in making its decisions. The Court decides any claim for Statutory Tort relief based on the applicable legal principles, and a framework for remedies.
 
 {:start="76"}
 76.&nbsp;Taken together, Sir, we believe that we have fashioned a suite of remedies that strikes the right balance:
@@ -320,10 +320,10 @@ That is what I meant when I said you assess the entire factual matrix and situat
 77.&nbsp;The Statutory Torts are designed to change and strengthen norms – to make self-responsibility a default in our online space.
 
 {:start="78"}
-78.&nbsp;I come back to the time when the first motor-safety laws were introduced in the 1960s. There was an American publication – Automotive News – which lamented the passing of these laws with the headline and I quote: “<i>Tough safety law strips auto industry of freedom</i>”.&nbsp;
+78.&nbsp;I come back to the time when the first motor-safety laws were introduced in the 1960s. There was an American publication – Automotive News – which lamented the passing of these laws with the headline and I quote: “<i>Tough safety law strips auto industry of freedom</i>”.
 
 {:start="79"}
-79.&nbsp;There was fear. There was resistance in the industry.&nbsp;
+79.&nbsp;There was fear. There was resistance in the industry.
 
 {:start="80"}
 80.&nbsp;But, with the passage of time, history has proved those laws right – they made cars safer, saved countless lives, changed attitudes and mindsets, and re-shaped how the industry designed every vehicle thereafter.
@@ -351,14 +351,14 @@ That is what I meant when I said you assess the entire factual matrix and situat
 86.&nbsp;Unfortunately, many online users abuse the power and privacy which online anonymity affords them.
 
 {:start="87"}
-87.&nbsp;I had earlier covered how online anonymity is a driver of online harms and leads to the Online Disinhibition Effect.&nbsp;
+87.&nbsp;I had earlier covered how online anonymity is a driver of online harms and leads to the Online Disinhibition Effect.
 
 {:start="88"}
 88.&nbsp;Anonymity also exacerbates the impact of harm on victims.
 	
 </p><p style="margin-left: 40px">a) First, victims may become more distrustful of those around them. They wonder who it is posting on their social media sites. They do not know if the perpetrator is indeed someone they might know.
 
-</p><p style="margin-left: 40px">b) Second, victims will not be able to obtain legal recourse from perpetrators. By definition, they cannot commence legal proceedings, or enforce Court judgements, against an unknown person.&nbsp;
+</p><p style="margin-left: 40px">b) Second, victims will not be able to obtain legal recourse from perpetrators. By definition, they cannot commence legal proceedings, or enforce Court judgements, against an unknown person.
 
 <i>B. Limitations of existing options</i>
 	
@@ -369,12 +369,12 @@ That is what I meant when I said you assess the entire factual matrix and situat
 90.&nbsp;But victims will still need to commence Court proceedings which may be costly and time-consuming.
 
 {:start="91"}
-91.&nbsp;So, we believe the Bill’s proposed End-User Identification measures offer an accessible option.&nbsp;
+91.&nbsp;So, we believe the Bill’s proposed End-User Identification measures offer an accessible option.
 
 <i>C. How the end-user identification measures will work</i>
 
 {:start="92"}
-92.&nbsp;To start with, Clause 49 empowers the OSC to obtain information and documents for the discharge of its functions. This includes identity information of an end-user which is in the possession of Platforms. This is akin to how law enforcement agencies are empowered to obtain such information for investigative purposes. Akin but not similar.&nbsp;
+92.&nbsp;To start with, Clause 49 empowers the OSC to obtain information and documents for the discharge of its functions. This includes identity information of an end-user which is in the possession of Platforms. This is akin to how law enforcement agencies are empowered to obtain such information for investigative purposes. Akin but not similar.
 
 {:start="93"}
 93.&nbsp;Second, Clause 52 empowers the OSC, where it reasonably suspects a user of committing an online harm, to require Prescribed Platforms to take reasonable steps to obtain specified information that may identify the user. This can take the form of the user’s name, or perhaps verified phone numbers or credit card information, which can then be used to make further inquiries with telcos or the banks.
@@ -383,7 +383,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 94.&nbsp;This obligation to collect information is carefully scoped to target those users who are suspected of carrying out online harms. This is following close consultations that we had with industry partners who expressed difficulty with a general obligation upfront for Platforms to collect information of all their Singapore users.
 
 {:start="95"}
-95.&nbsp;Third, Clause 53 empowers the OSC to disclose the perpetrator’s identity information to a victim or to their authorised representatives, upon receiving an application from the said victim. At the initial stage, disclosure will be limited to the purpose of enabling victims to bring their claim. We intend to eventually extend this for other purposes as well, such as allowing victims to safeguard themselves from the perpetrator, and to take proactive future measures.&nbsp;
+95.&nbsp;Third, Clause 53 empowers the OSC to disclose the perpetrator’s identity information to a victim or to their authorised representatives, upon receiving an application from the said victim. At the initial stage, disclosure will be limited to the purpose of enabling victims to bring their claim. We intend to eventually extend this for other purposes as well, such as allowing victims to safeguard themselves from the perpetrator, and to take proactive future measures.
 
 <i>D. Addressing concerns about end-user identification</i>
 
@@ -399,12 +399,12 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="99"}
 99.&nbsp;Additionally, when the OSC discloses a perpetrator’s identity to a victim – there will be safeguards to ensure that the information is protected and not misused.
 
-</p><p style="margin-left: 40px">a) First, the OSC may impose strict conditions on how the information can be used – such as limiting the use of the information to seeking protection or pursuing legal remedies.&nbsp;&nbsp;
+</p><p style="margin-left: 40px">a) First, the OSC may impose strict conditions on how the information can be used – such as limiting the use of the information to seeking protection or pursuing legal remedies.
 
 </p><p style="margin-left: 40px">b) Any breach of those conditions will be a criminal offence.
 
 {:start="100"}
-100.&nbsp;Second, the misuse of the information may itself attract legal consequences. For example, if a victim were to use the information obtained from the OSC to dox the perpetrator – that could itself be an offence under the POHA or under an online harm under this Bill.&nbsp;
+100.&nbsp;Second, the misuse of the information may itself attract legal consequences. For example, if a victim were to use the information obtained from the OSC to dox the perpetrator – that could itself be an offence under the POHA or under an online harm under this Bill.
 
 {:start="101"}
 101.&nbsp;In short, the Bill has in-built safeguards. They balance and protect both the victim’s right to know, as well as the perpetrator’s right against misuse.
@@ -415,19 +415,19 @@ That is what I meant when I said you assess the entire factual matrix and situat
 102.&nbsp;Sir, this Bill is designed above all, as Members can see from how I have articulated the framework and the schema of this Bill, to be as victim-centric as possible, and to give swift accessible relief to those who have suffered real harm online. The provisions have been drafted with that goal in mind.
 
 {:start="103"}
-103.&nbsp;Minister Josephine spoke about how the OSC will be empowered to issue directions quickly to address harmful content, and MOS Rahayu explained the appeal mechanisms available.&nbsp;
+103.&nbsp;Minister Josephine spoke about how the OSC will be empowered to issue directions quickly to address harmful content, and MOS Rahayu explained the appeal mechanisms available.
 
 {:start="104"}
-104.&nbsp;Sir, the Honourable Member Ms He Ting Ru has proposed two amendments which I would like to address. Her amendments speak to the removal of finality of an Appeal Committee’s decision, and second, to add a right of appeal to the General Division of the High Court.&nbsp;
+104.&nbsp;Sir, the Honourable Member Ms He Ting Ru has proposed two amendments which I would like to address. Her amendments speak to the removal of finality of an Appeal Committee’s decision, and second, to add a right of appeal to the General Division of the High Court.
 
 {:start="105"}
-105.&nbsp;Sir, I would like the House to know that both the MinLaw and MDDI teams had carefully considered the appeal process, and it includes options similar to Ms He’s proposals. However, we felt that we could not support them in this Bill, and let me explain why.&nbsp;
+105.&nbsp;Sir, I would like the House to know that both the MinLaw and MDDI teams had carefully considered the appeal process, and it includes options similar to Ms He’s proposals. However, we felt that we could not support them in this Bill, and let me explain why.
 
 {:start="106"}
 106.&nbsp;These mechanisms will make the process slower, with less finality to the proceedings. It will make it more complex, and ultimately, less accessible for victims.
 
 {:start="107"}
-107.&nbsp;Let me reiterate that the purpose of the OSC is to deliver speedy, practical relief to give redress to what has objectively been determined to be an online harm. Allowing repeated appeals would prolong litigation. Each new appeal means fresh rounds of arguments, delay and also uncertainty in dealing with harmful content, as well as renewed anxiety for those already hurt, who quite likely will have to remain engaged throughout the appeal process.&nbsp;
+107.&nbsp;Let me reiterate that the purpose of the OSC is to deliver speedy, practical relief to give redress to what has objectively been determined to be an online harm. Allowing repeated appeals would prolong litigation. Each new appeal means fresh rounds of arguments, delay and also uncertainty in dealing with harmful content, as well as renewed anxiety for those already hurt, who quite likely will have to remain engaged throughout the appeal process.
 
 {:start="108"}
 108.&nbsp;We expect that there will be likely higher case volume in OSRA cases, which also adds to the administrative load of the OSC. Sir, the further point is this – if a case goes on appeal to the High Court, lawyers will probably be instructed. In such an instance, will there be equality in how this might play out?
@@ -445,7 +445,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 112.&nbsp;Sir, at its heart, this Bill is as I said at the outset, is about empowering victims. The OSC’s process is deliberately designed to be straightforward – fast, simple, focused on stopping harm quickly, and hopefully not spending time arguing about it.
 
 {:start="113"}
-113.&nbsp;We think that Ms He’s proposed amendments, though well-intentioned, would probably make that journey harder, and not easier.&nbsp;&nbsp;&nbsp;
+113.&nbsp;We think that Ms He’s proposed amendments, though well-intentioned, would probably make that journey harder, and not easier.
 	
 <b>VII. Conclusion</b>
 
@@ -462,10 +462,10 @@ That is what I meant when I said you assess the entire factual matrix and situat
 117.&nbsp;As technology evolves, new harms will emerge. Our laws must therefore remain future-ready. We must be bold and innovative to stay ahead, but also compassionate in how we protect those who are most vulnerable.
 
 {:start="118"}
-118.&nbsp;This Bill gives victims a clear and practical framework to seek relief when harm occurs. It also sends a clear, unambiguous signal – that everyone who shapes our digital spaces in Singapore must act responsibly.&nbsp;
+118.&nbsp;This Bill gives victims a clear and practical framework to seek relief when harm occurs. It also sends a clear, unambiguous signal – that everyone who shapes our digital spaces in Singapore must act responsibly.
 
 {:start="119"}
-119.&nbsp;Through the OSC, the Statutory Torts framework, as well as the End-User Identification provisions, we are building a coherent system of protection and accountability.&nbsp;&nbsp;
+119.&nbsp;Through the OSC, the Statutory Torts framework, as well as the End-User Identification provisions, we are building a coherent system of protection and accountability.
 
 {:start="120"}
 120.&nbsp;Each prong complements the others:
@@ -498,7 +498,7 @@ That is what I meant when I said you assess the entire factual matrix and situat
 125.&nbsp;In addition to the Public Consultation exercise, we also met and consulted extensively with over 100 different stakeholders over the years. This includes local and foreign experts, foreign regulators, victims of online harms, social service agencies, lawyers and the Judiciary, and the MOE and other educational institutions.
 
 {:start="126"}
-126.&nbsp;We recognise that the impact of online harms may be felt and experienced differently across different communities. We have heard from various segments of society, including the youths, disability and the community groups. We learnt much from their experiences, their insights and their stories.&nbsp;
+126.&nbsp;We recognise that the impact of online harms may be felt and experienced differently across different communities. We have heard from various segments of society, including the youths, disability and the community groups. We learnt much from their experiences, their insights and their stories.
 
 {:start="127"}
 127.&nbsp;We also conducted over 20 engagement sessions with Tech Companies in the past two years to ensure that the provisions in the Bill are robust, workable, feasible and can be carried out when the OSC issues directions.
@@ -507,13 +507,13 @@ That is what I meant when I said you assess the entire factual matrix and situat
 128.&nbsp;We discovered, through these extensive engagements, a shared belief that the online world should reflect the same values of respect, decency and fairness that we all know and often assume, and which guides us in the offline space.
 
 {:start="129"}
-129.&nbsp;Around the world, societies are grappling with similar challenges – in Europe, the United Kingdom, Australia and the United States. We are moving in step with these global efforts, but shaping our own paths, our own course, contextualised and nuanced to what Singapore needs.&nbsp;
+129.&nbsp;Around the world, societies are grappling with similar challenges – in Europe, the United Kingdom, Australia and the United States. We are moving in step with these global efforts, but shaping our own paths, our own course, contextualised and nuanced to what Singapore needs.
 
 {:start="130"}
-130.&nbsp;Sir, ultimately, law and regulation alone cannot keep our people safe. We will require a whole-of-society effort. Public education must teach users to protect themselves, and every user must take ownership of their safety and behaviour online.&nbsp;
+130.&nbsp;Sir, ultimately, law and regulation alone cannot keep our people safe. We will require a whole-of-society effort. Public education must teach users to protect themselves, and every user must take ownership of their safety and behaviour online.
 
 {:start="131"}
-131.&nbsp;But if we can do this together – build sound laws, responsible platforms, and a thoughtful public – we will strengthen not only our digital safety, but over time our social fabric.&nbsp;
+131.&nbsp;But if we can do this together – build sound laws, responsible platforms, and a thoughtful public – we will strengthen not only our digital safety, but over time our social fabric.
 
 {:start="132"}
 132.&nbsp;And in time, our online norms will not erode, but endure – grounded in respect, anchored in responsibility and guided by the same values that make Singapore strong.
@@ -525,19 +525,19 @@ That is what I meant when I said you assess the entire factual matrix and situat
 134.&nbsp;In addition, SMU Yong Pung How School of Law partnered us to organise our Online Harms Symposium. The sharing from the experts and survivors at the Symposium informed much of our thinking on this matter.
 
 {:start="135"}
-135.&nbsp;SHE’s surveys and research on online harms, and their experience in running SHECARES@SCWO, Singapore’s first support centre for targets of online harms, provided us with data and insights to refine our policy.&nbsp;
+135.&nbsp;SHE’s surveys and research on online harms, and their experience in running SHECARES@SCWO, Singapore’s first support centre for targets of online harms, provided us with data and insights to refine our policy.
 
 {:start="136"}
-136.&nbsp;Finally, all those, many from the public, who responded to our Public Consultation or who have engaged with us with very constructive comments and suggestions, or written to my Ministry to share their stories. Every story helped us to shape the contours of this Bill. We thank them for their suggestions over the years.&nbsp;
+136.&nbsp;Finally, all those, many from the public, who responded to our Public Consultation or who have engaged with us with very constructive comments and suggestions, or written to my Ministry to share their stories. Every story helped us to shape the contours of this Bill. We thank them for their suggestions over the years.
 
 {:start="137"}
-137.&nbsp;Mr Speaker, we have in the audience today – in the gallery above – a&nbsp; few who have contributed deeply to our work and gave valuable feedback in developing our proposals. We have members from SHE and SHECARES@SCWO – Natalie, Hemavalli, Lorraine, Saira, and Si Han, who together with their team, served as vital pillars of support for those experiencing online harms today.&nbsp;
+137.&nbsp;Mr Speaker, we have in the audience today – in the gallery above – a&nbsp; few who have contributed deeply to our work and gave valuable feedback in developing our proposals. We have members from SHE and SHECARES@SCWO – Natalie, Hemavalli, Lorraine, Saira, and Si Han, who together with their team, served as vital pillars of support for those experiencing online harms today.
 
 {:start="138"}
-138.&nbsp;We also have representatives from YouthTechSG – Ben, Zoe, Beatrice and Kok Thong, who together with many others shared their perspectives of young Singaporeans with us.&nbsp;
+138.&nbsp;We also have representatives from YouthTechSG – Ben, Zoe, Beatrice and Kok Thong, who together with many others shared their perspectives of young Singaporeans with us.
 
 {:start="139"}
-139.&nbsp;We are very deeply grateful for their partnership and commitment to making our digital spaces safer for all. and we record our thanks and gratitude to the time that they had taken and the experiences they have so generously shared.&nbsp;
+139.&nbsp;We are very deeply grateful for their partnership and commitment to making our digital spaces safer for all. and we record our thanks and gratitude to the time that they had taken and the experiences they have so generously shared.
 
 {:start="140"}
 140.&nbsp;Thank you, Sir.
