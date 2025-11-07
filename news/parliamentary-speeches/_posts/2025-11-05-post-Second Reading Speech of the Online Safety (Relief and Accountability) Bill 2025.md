@@ -50,7 +50,7 @@ Mr Speaker, Sir,
 11.&nbsp;Sir, this is a sad story. But what is worse is that it is not an isolated case.
 
 {:start="12"}
-12.&nbsp;With your permission, Mr Speaker, may I ask the Clerks to distribute a handout? Sir, Members may also access these materials through the portal, MP@SGPARL App. Sir, Handout 6 sets out several other accounts - Students, women, working adults, and their loved ones.&nbsp;
+12.&nbsp;With your permission, Mr Speaker, may I ask the Clerks to distribute a handout? Sir, Members may also access these materials through the portal, MP@SGPARL App. Sir, [Handout 6](/files/MinLaw_Handout___Real_Life_Stories_of_Online_Harms_and_Community_Guidelines__1_.pdf)sets out several other accounts - Students, women, working adults, and their loved ones.&nbsp;
 
 {:start="13"}
 13.&nbsp;Online harms affect not only individuals and their families, but also the confidence and the trust of our society as a whole.
@@ -111,7 +111,7 @@ Mr Speaker, Sir,
 26.&nbsp;Social media platforms profit from the amplification of sensational and inflammatory content. Viral, harmful content draw engagement, higher engagements draw eyeballs, so their removal will impact revenue.
 
 {:start="27"}
-27.&nbsp;We have some basis to believe that online safety considerations might well yield to profit generation if left unregulated. Today, Tech Companies have community standards which ostensibly address online harms. Members can see some examples of these standards which are set out in Handout 7.&nbsp; However, most Platforms do not necessarily adhere to their own community standards.
+27.&nbsp;We have some basis to believe that online safety considerations might well yield to profit generation if left unregulated. Today, Tech Companies have community standards which ostensibly address online harms. Members can see some examples of these standards which are set out in [Handout 7](/files/MinLaw_Handout___Real_Life_Stories_of_Online_Harms_and_Community_Guidelines__1_.pdf). However, most Platforms do not necessarily adhere to their own community standards.
 
 </p><p style="margin-left: 40px">a) Indeed, in the IMDA study cited by Minister for Digital Development and Information Josephine Teo a short while ago, over 50% of legitimate user complaints were not addressed in the first instance.
 
