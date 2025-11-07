@@ -50,7 +50,7 @@ Mr Speaker, Sir,
 11.&nbsp;Sir, this is a sad story. But what is worse is that it is not an isolated case.
 
 {:start="12"}
-12.&nbsp;With your permission, Mr Speaker, may I ask the Clerks to distribute a handout? Sir, Members may also access these materials through the portal, MP@SGPARL App. Sir, [Handout 6](/files/MinLaw_Handout___Real_Life_Stories_of_Online_Harms_and_Community_Guidelines__1_.pdf)sets out several other accounts - Students, women, working adults, and their loved ones.
+12.&nbsp;With your permission, Mr Speaker, may I ask the Clerks to distribute a handout? Sir, Members may also access these materials through the portal, MP@SGPARL App. Sir, [Handout 6](/files/MinLaw_Handout___Real_Life_Stories_of_Online_Harms_and_Community_Guidelines__1_.pdf) sets out several other accounts - Students, women, working adults, and their loved ones.
 
 {:start="13"}
 13.&nbsp;Online harms affect not only individuals and their families, but also the confidence and the trust of our society as a whole.
