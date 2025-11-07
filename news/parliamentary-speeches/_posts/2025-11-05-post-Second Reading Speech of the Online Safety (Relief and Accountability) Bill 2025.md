@@ -1,6 +1,7 @@
 ---
 title: Second Reading Speech of the Online Safety (Relief and Accountability)
-  Bill 2025, Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs
+  Bill 2025, Mr Edwin Tong SC, Minister for Law and Second Minister for Home
+  Affairs
 permalink: /second-reading-speech-of-the-online-safety-relief-and-accountability-bill-2025-by-minister-of-law-edwin-tong/
 date: 2025-11-05
 layout: post
@@ -58,11 +59,11 @@ Mr Speaker, Sir,
 {:start="14"}
 14.&nbsp;In the SHE 2023 Study on Online Harms cited by Minister of State (Health and Digital Development and Information) Rahayu Mahzam a short while ago, 76% of respondents were NOT comfortable expressing their personal views on potentially controversial issues and topics online.
 
-<p style="margin-left: 40px">a) Women, youths and minorities are especially vulnerable. 22% of female youths experienced sexual harassment, compared to 14% across all respondents.
+<p style="margin-left: 40px">a) Women, youths and minorities are especially vulnerable. 22% of female youths experienced sexual harassment, compared to 14% across all respondents.</p>
 
-</p><p style="margin-left: 40px">b) 52% of respondents aged 15 – 24 years old personally experienced online harms, compared to 38% across all respondents.
+<p style="margin-left: 40px">b) 52% of respondents aged 15 – 24 years old personally experienced online harms, compared to 38% across all respondents.</p>
 
-</p><p style="margin-left: 40px">c) 14 – 21% of respondents believed they experienced harms because of their identity, such as race and religion.
+<p style="margin-left: 40px">c) 14 – 21% of respondents believed they experienced harms because of their identity, such as race and religion.</p>
 
 {:start="15"}
 15.&nbsp;As a result, victims exit from public life or they choose to stay offline. Their voices – and their representation – are lost. Proper discourse in the community becomes weaker.
@@ -81,16 +82,16 @@ Mr Speaker, Sir,
 {:start="19"}
 19.&nbsp;But when it comes to the online world, these norms are not quite observed in the same way. The sense of safety we have offline does not translate into the online space.
 
-</p><p style="margin-left: 40px">a) The SHE 2023 study found that 58% of respondents reported personally experiencing and/or knowing others who faced online harms.
+<p style="margin-left: 40px">a) The SHE 2023 study found that 58% of respondents reported personally experiencing and/or knowing others who faced online harms.</p>
 	
 {:start="20"}
 20.&nbsp;We studied why this might be so, and in the course of our study, three issues stood out:
 
-</p><p style="margin-left: 40px">a) First, fragmented standards and weak accountability in the online harms regulation space.
+<p style="margin-left: 40px">a) First, fragmented standards and weak accountability in the online harms regulation space.</p>
 
-</p><p style="margin-left: 40px">b) Second, economic incentives that unfortunately reward sensational content.
+<p style="margin-left: 40px">b) Second, economic incentives that unfortunately reward sensational content.</p>
 
-</p><p style="margin-left: 40px">c) Third, online anonymity that emboldens misbehaviour.
+<p style="margin-left: 40px">c) Third, online anonymity that emboldens misbehaviour.</p>
 
 {:start="21"}
 21.&nbsp;These three issues have very much shaped the thinking behind the construct and the framework of this current Bill, and let me elaborate that for Members.
@@ -113,7 +114,7 @@ Mr Speaker, Sir,
 {:start="27"}
 27.&nbsp;We have some basis to believe that online safety considerations might well yield to profit generation if left unregulated. Today, Tech Companies have community standards which ostensibly address online harms. Members can see some examples of these standards which are set out in [Handout 7](/files/MinLaw_Handout___Real_Life_Stories_of_Online_Harms_and_Community_Guidelines__1_.pdf). However, most Platforms do not necessarily adhere to their own community standards.
 
-</p><p style="margin-left: 40px">a) Indeed, in the IMDA study cited by Minister for Digital Development and Information Josephine Teo a short while ago, over 50% of legitimate user complaints were not addressed in the first instance.
+<p style="margin-left: 40px">a) Indeed, in the IMDA study cited by Minister for Digital Development and Information Josephine Teo a short while ago, over 50% of legitimate user complaints were not addressed in the first instance.</p>
 
 {:start="28"}
 28.&nbsp;This, we believe, is far from ideal, as victims are reliant on Platforms to stop online harms.
@@ -148,11 +149,11 @@ Mr Speaker, Sir,
 {:start="36"}
 36.&nbsp;The Bill therefore seeks to introduce a framework to close those gaps.
 
-</p><p style="margin-left: 40px">a) It will introduce clear statutory duties for online actors – defining what responsible conduct and therefore what the standard of duty that is expected of them ought to be;
+<p style="margin-left: 40px">a) It will introduce clear statutory duties for online actors – defining what responsible conduct and therefore what the standard of duty that is expected of them ought to be;</p>
 
-</p><p style="margin-left: 40px">b) It provides civil remedies for breaches of those duties – giving victims the right to seek justice in Court; and
+<p style="margin-left: 40px">b) It provides civil remedies for breaches of those duties – giving victims the right to seek justice in Court; and</p>
 
-</p><p style="margin-left: 40px">c) It creates an additional avenue of relief – complementing the quick administrative recourse that can be obtained through the OSC – so that victims can choose the path that best suits their needs.
+<p style="margin-left: 40px">c) It creates an additional avenue of relief – complementing the quick administrative recourse that can be obtained through the OSC – so that victims can choose the path that best suits their needs.</p>
 
 {:start="37"}
 37.&nbsp;During the Online Harms Symposium that I referred to a short while ago, Ms Haugen likened internet and social media regulation today to the evolution of road safety, something that happened several decades ago. In the 1960s, US car manufacturers vigorously resisted safety reforms. But informed legislators persisted with greater regulation, coupled with a push, a very determined push, from concerned citizens, as well as investors.
@@ -183,17 +184,17 @@ Mr Speaker, Sir,
 {:start="45"}
 45.&nbsp;Clauses 83 to 88 cover the following harmful online activities:
 
-</p><p style="margin-left: 40px">a) Intimate Image Abuse;
+<p style="margin-left: 40px">a) Intimate Image Abuse;</p>
 
-</p><p style="margin-left: 40px">b) Image-based Child Abuse;
+<p style="margin-left: 40px">b) Image-based Child Abuse;</p>
 
-</p><p style="margin-left: 40px">c) Online Impersonation;
+<p style="margin-left: 40px">c) Online Impersonation;</p>
 
-</p><p style="margin-left: 40px">d) Inauthentic Material Abuse;
+<p style="margin-left: 40px">d) Inauthentic Material Abuse;</p>
 
-</p><p style="margin-left: 40px">e) Online Instigation of Disproportionate Harm; and
+<p style="margin-left: 40px">e) Online Instigation of Disproportionate Harm; and</p>
 
-</p><p style="margin-left: 40px">f) Incitement of Violence.
+<p style="margin-left: 40px">f) Incitement of Violence.</p>
 
 {:start="46"}
 46.&nbsp;Harassment, Doxxing and Stalking will continue to be dealt with under the Protection from Harassment Act (<b>POHA</b>) for <u>Communicators</u>, but the new statutory duties for these harms will extend to <u>Administrators</u> and to <u>Platforms</u> under this Bill, since POHA does not cover them.
@@ -219,11 +220,11 @@ Mr Speaker, Sir,
 {:start="53"}
 53.&nbsp;Clauses 90 and 91 impose two duties on Administrators.
 
-</p><p style="margin-left: 40px">a) First, they must not develop or maintain an online location in a manner that facilitates or permits online harm to take place – with the intention or knowledge that online harm is likely to take place.
+<p style="margin-left: 40px">a) First, they must not develop or maintain an online location in a manner that facilitates or permits online harm to take place – with the intention or knowledge that online harm is likely to take place.</p>
 
-</p><p style="margin-left: 60px">(i) This duty covers Administrators that are complicit in the online harms, and Members might be aware of the infamous chat group “SG Nasi Lemak” previously. This will cover the administrators of such a chat group.
+<p style="margin-left: 60px">(i) This duty covers Administrators that are complicit in the online harms, and Members might be aware of the infamous chat group “SG Nasi Lemak” previously. This will cover the administrators of such a chat group.</p>
 
-</p><p style="margin-left: 40px">b) Second, when notified of harm, they must act reasonably – more specifically, they must take reasonable care to assess if there is harm and if so, to take reasonable steps to address it.
+<p style="margin-left: 40px">b) Second, when notified of harm, they must act reasonably – more specifically, they must take reasonable care to assess if there is harm and if so, to take reasonable steps to address it.</p>
 
 {:start="54"}
 54.&nbsp;Clause 94 therefore imposes a similar duty on Platforms to act reasonably when notified of harm. I want to make clear to Members that the duty to take “reasonable steps” does NOT require the platform to do constant surveillance and monitoring.
@@ -237,11 +238,11 @@ Mr Speaker, Sir,
 {:start="57"}
 57.&nbsp;Let me illustrate this:
 
-</p><p style="margin-left: 40px">a) An Administrator or Platform that receives notice of a harmful post for the first time may act reasonably by simply removing the post, if that is the appropriate remedy under the framework.
+<p style="margin-left: 40px">a) An Administrator or Platform that receives notice of a harmful post for the first time may act reasonably by simply removing the post, if that is the appropriate remedy under the framework.</p>
 
-</p><p style="margin-left: 40px">b) But if the same account repeatedly causes harm in the same way, simply taking down each time the post is put up may no longer suffice.
+<p style="margin-left: 40px">b) But if the same account repeatedly causes harm in the same way, simply taking down each time the post is put up may no longer suffice.</p>
 
-</p><p style="margin-left: 40px">c) In such cases, taking stronger action – such as suspending or disabling the offending account – may be the reasonable steps required under Clauses 91 and 94.
+<p style="margin-left: 40px">c) In such cases, taking stronger action – such as suspending or disabling the offending account – may be the reasonable steps required under Clauses 91 and 94.</p>
 
 That is what I meant when I said you assess the entire factual matrix and situation holistically.
 
@@ -271,9 +272,9 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="65"}
 65.&nbsp;Under Clause 96, victims may seek
 
-</p><p style="margin-left: 40px">a) damages that the Court finds just and equitable; and
+<p style="margin-left: 40px">a) damages that the Court finds just and equitable; and</p>
 
-</p><p style="margin-left: 40px">b) other heads of damages that the Minister may prescribe in regulations – such as compensation for loss of earnings or an account of profits where perpetrators benefitted from the harm.
+<p style="margin-left: 40px">b) other heads of damages that the Minister may prescribe in regulations – such as compensation for loss of earnings or an account of profits where perpetrators benefitted from the harm.</p>
 
 {:start="66"}
 66.&nbsp;The intent is to ensure that victims are properly compensated, and wrongdoers are not allowed to benefit from their behaviour. For some harms, therefore, the victim’s earning capacity or livelihood may be affected, and they should be compensated for loss of future earnings or loss of earning capacity, as the case may be or as may be appropriate.
@@ -308,11 +309,11 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="76"}
 76.&nbsp;Taken together, Sir, we believe that we have fashioned a suite of remedies that strikes the right balance:
 
-</p><p style="margin-left: 40px">a) Accountability for wrongdoers;
+<p style="margin-left: 40px">a) Accountability for wrongdoers;</p>
 
-</p><p style="margin-left: 40px">b) Fair recourse for victims; and
+<p style="margin-left: 40px">b) Fair recourse for victims; and</p>
 
-</p><p style="margin-left: 40px">c) Flexibility for the Courts.
+<p style="margin-left: 40px">c) Flexibility for the Courts.</p>
 
 <i>E. Summary</i>
 
@@ -356,9 +357,9 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="88"}
 88.&nbsp;Anonymity also exacerbates the impact of harm on victims.
 	
-</p><p style="margin-left: 40px">a) First, victims may become more distrustful of those around them. They wonder who it is posting on their social media sites. They do not know if the perpetrator is indeed someone they might know.
+<p style="margin-left: 40px">a) First, victims may become more distrustful of those around them. They wonder who it is posting on their social media sites. They do not know if the perpetrator is indeed someone they might know.</p>
 
-</p><p style="margin-left: 40px">b) Second, victims will not be able to obtain legal recourse from perpetrators. By definition, they cannot commence legal proceedings, or enforce Court judgements, against an unknown person.
+<p style="margin-left: 40px">b) Second, victims will not be able to obtain legal recourse from perpetrators. By definition, they cannot commence legal proceedings, or enforce Court judgements, against an unknown person.</p>
 
 <i>B. Limitations of existing options</i>
 	
@@ -399,9 +400,9 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="99"}
 99.&nbsp;Additionally, when the OSC discloses a perpetrator’s identity to a victim – there will be safeguards to ensure that the information is protected and not misused.
 
-</p><p style="margin-left: 40px">a) First, the OSC may impose strict conditions on how the information can be used – such as limiting the use of the information to seeking protection or pursuing legal remedies.
+<p style="margin-left: 40px">a) First, the OSC may impose strict conditions on how the information can be used – such as limiting the use of the information to seeking protection or pursuing legal remedies.</p>
 
-</p><p style="margin-left: 40px">b) Any breach of those conditions will be a criminal offence.
+<p style="margin-left: 40px">b) Any breach of those conditions will be a criminal offence.</p>
 
 {:start="100"}
 100.&nbsp;Second, the misuse of the information may itself attract legal consequences. For example, if a victim were to use the information obtained from the OSC to dox the perpetrator – that could itself be an offence under the POHA or under an online harm under this Bill.
@@ -470,11 +471,11 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="120"}
 120.&nbsp;Each prong complements the others:
 
-</p><p style="margin-left: 40px">a) The OSC is a safety net, providing rapid relief to victims of online harms.
+<p style="margin-left: 40px">a) The OSC is a safety net, providing rapid relief to victims of online harms.</p>
 
-</p><p style="margin-left: 40px">b) The Statutory Torts framework provides private remedies, and it also is the standard-setter, encouraging all actors to play their part; and
+<p style="margin-left: 40px">b) The Statutory Torts framework provides private remedies, and it also is the standard-setter, encouraging all actors to play their part; and</p>
 	
-</p><p style="margin-left: 40px">c) The End-User Identification measures ensure that no one can cause harm from behind a mask.
+<p style="margin-left: 40px">c) The End-User Identification measures ensure that no one can cause harm from behind a mask.</p>
 
 {:start="121"}
 121.&nbsp;Sir, public support for these measures has been strong – across communities, professions and also generations.
@@ -482,11 +483,11 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="122"}
 122.&nbsp;In the Public Consultation launched by MinLaw and MDDI in 2024, respondents expressed strong support.
 
-</p><p style="margin-left: 40px">a) For establishing a dedicated agency to address online harms – over 90% in support.
+<p style="margin-left: 40px">a) For establishing a dedicated agency to address online harms – over 90% in support.</p>
 
-</p><p style="margin-left: 40px">b) Allowing victims to take legal action, such as seeking compensation in Court for private remedies on top of the OSC’s framework – over 95%.
+<p style="margin-left: 40px">b) Allowing victims to take legal action, such as seeking compensation in Court for private remedies on top of the OSC’s framework – over 95%.</p>
 
-</p><p style="margin-left: 40px">c) Disclosing a perpetrator’s user information to the victim for certain specified purposes – over 80%.
+<p style="margin-left: 40px">c) Disclosing a perpetrator’s user information to the victim for certain specified purposes – over 80%.</p>
 
 {:start="123"}
 123.&nbsp;Sir, the Government started this work a long time ago. We started looking at developing this Bill as far back as 2021, even as the amendments to the Broadcasting Act and the Online Criminal Harms Act were being worked on.
@@ -542,4 +543,4 @@ That is what I meant when I said you assess the entire factual matrix and situat
 {:start="140"}
 140.&nbsp;Thank you, Sir.
 
-</p><p class="right-side-updated">Last updated on 5 November 2025</p>
+<p></p><p class="right-side-updated">Last updated on 5 November 2025</p>
