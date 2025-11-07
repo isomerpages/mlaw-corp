@@ -1,7 +1,7 @@
 ---
 title: Second Reading Speech of the Online Safety (Relief and Accountability)
-  Bill 2025
-permalink: /second-reading-speech-of-the-online-safety-relief-and-accountability-bill-2025/
+  Bill 2025, Mr Edwin Tong SC, Minister for Law and Second Minister for Home Affairs
+permalink: /second-reading-speech-of-the-online-safety-relief-and-accountability-bill-2025-by-minister-of-law-edwin-tong/
 date: 2025-11-05
 layout: post
 description: ""
