@@ -1,5 +1,7 @@
 ---
-title: Speech by Minister for Culture, Community and Youth & Second Minister for Law, Mr Edwin Tong SC, on the Second Reading of the Community Disputes Resolution (Amendment) Bill
+title: Speech by Minister for Culture, Community and Youth & Second Minister for
+  Law, Mr Edwin Tong SC, on the Second Reading of the Community Disputes
+  Resolution (Amendment) Bill
 permalink: /speech-by-second-minister-for-law-mr-edwin-tong-sc-on-2r-community-disputes-resolution-amd-bill/
 date: 2024-11-12
 layout: post
@@ -41,7 +43,7 @@ First, the Bill will strengthen the community mediation framework. It will empow
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Speaker, Sir, Singapore is a densely populated city-state. When individuals, most of us, live close to one another, some degree of friction will inevitably arise. Over the past three years, public agencies have received more than 90,000 pieces of feedback on neighbour noise alone. Let me just say that again – 90,000 pieces of feedback on neighbour noise alone! On average, that is around 2,500 complaints every month, or over 80 complaints every day.
 
 {:start="11"}
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noise complaints, by far, form the vast majority of all neighbour disputes feedback received by agencies. Most complaints, not surprisingly, come from Housing and Development Board (HDB) estates – since around 80% of our population reside in HDB estates. But having said that, we are not unique in having this problem. Other cities around the world face similar issues. In the United Kingdom (UK), for example, it has been reported that at least two in five people have had disagreements with their neighbours. And, like in Singapore, noise disamenity is the top cause of disputes in the UK.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Noise complaints, by far, form the vast majority of all neighbour disputes feedback received by agencies. Most complaints, not surprisingly, come from Housing and Development Board (HDB) estates – since around 80% of our population* reside in HDB estates. But having said that, we are not unique in having this problem. Other cities around the world face similar issues. In the United Kingdom (UK), for example, it has been reported that at least two in five people have had disagreements with their neighbours. And, like in Singapore, noise disamenity is the top cause of disputes in the UK.
 
 {:start="12"}
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2014, we formalised our approach for managing neighbour disputes under the umbrella of the CDMF. That was when we first set up the CDMF. The CDMF seeks to promote good relations among neighbours to minimise the occurrence of disputes. So, it is not just a question of dealing with the disamenity, but how do we go upstream to manage the conflict at an early stage. It also seeks to encourage neighbours to resolve issues amicably among themselves when such disputes arise. It helps to promote community mediation as the primary source of assistance if neighbours need to resolve their differences, and it provides for the CDRT, as an avenue of last resort.
@@ -326,5 +328,6 @@ We do this, because when we look back at our cases, in the last five years, more
 {:start="104"}
 104.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ultimately, I call on all Members to help us, through our interactions with our residents, to build a gracious society, where neighbours are conscious of their roles in the community, to exercise mutual consideration for one another, and where differences are best bridged through discussion and compromise, and not necessarily by direction or order. Sir, with that, I beg to move.
 
+*This refers to 80% of the *resident* population.
 
 <p class="right-side-updated">Last updated on 12 November 2024</p>
