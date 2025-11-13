@@ -10,7 +10,8 @@ variant: markdown
 ---
 13 November 2025 Posted in [Press releases](/news/press-releases)
 
-{:start=“1”} 1.&nbsp;Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC will be making&nbsp; an official visit to Manila, the Philippines from 13 to 15 November 2025, where he will attend the&nbsp; 13th ASEAN Law Ministers Meeting (“<b>ALAWMM</b>”) as Singapore’s Head of Delegation.
+{:start=“1”}
+1.&nbsp;Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC will be making&nbsp; an official visit to Manila, the Philippines from 13 to 15 November 2025, where he will attend the&nbsp; 13th ASEAN Law Ministers Meeting (“<b>ALAWMM</b>”) as Singapore’s Head of Delegation.
 
 {:start=“2”} 2.&nbsp;The ALAWMM is a key forum for legal cooperation initiatives that promote ASEAN’s objectives. The ALAWMM takes place every two years and is tasked to, among other things, implement agreements and decisions of the ASEAN Summit and submit reports and recommendations to the ASEAN Political Security Community Council.
 
