@@ -30,7 +30,7 @@ variant: markdown
 <b>Bilateral Meetings</b>
 
 {:start=“6”} 
-6.&nbsp;During his trip, Minister Tong will also be calling on the Officer-in-Charge of the Department of Justice of the Philippines Mr Fredderick A. Vida, and the Philippines Secretary of Foreign Affairs Ms Ma. Theresa P. Lazaro.
+6.&nbsp;During his trip, Minister Tong will also be calling on the Acting Secretary of the Department of Justice of the Philippines Mr Fredderick A. Vida, and the Philippines Secretary of Foreign Affairs Ms Ma. Theresa P. Lazaro.
 
 {:start=“7”} 
 7.&nbsp;Minister Tong will also meet with the Japanese Minister of Justice, Mr Hiroshi Hiraguchi, the Laos Vice-Minister of Justice, Mr Ketsana Phommachanh, the Timor Leste Minister of Justice, Mr Sérgio de Jesus Fernandes da Costa Hornai, and the Vietnam Minister of Justice, Mr Ngyuen Hai Ninh.
