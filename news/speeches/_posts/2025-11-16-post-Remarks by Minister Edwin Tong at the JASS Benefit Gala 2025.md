@@ -42,11 +42,11 @@ Ladies and gentlemen<br>
 {:start="7"}
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When people think of jazz and law, sometimes they say, well, they cannot be more different.
 
-(1)&nbsp;&nbsp;&nbsp; Jazz is expressive - it is colourful, it is emotional, it is full of personality. It has got vibe, verve, it has got intuition, it is spontaneous, and all of what the law is not. The law, on the other hand, is structured, it is precise, it is often meticulously reasoned - full of footnotes and cross-references.
+<p style="margin-left: 40px">(1)&nbsp;&nbsp;&nbsp; Jazz is expressive - it is colourful, it is emotional, it is full of personality. It has got vibe, verve, it has got intuition, it is spontaneous, and all of what the law is not. The law, on the other hand, is structured, it is precise, it is often meticulously reasoned - full of footnotes and cross-references.</p>
 
-(2)&nbsp;&nbsp;&nbsp; In jazz, you can often bend a note, stretch a phrase, and let the music breathe. I learnt all these from Jeremy. In law, if you bend anything, you will be in trouble very quickly.
+<p style="margin-left: 40px">(2)&nbsp;&nbsp;&nbsp; In jazz, you can often bend a note, stretch a phrase, and let the music breathe. I learnt all these from Jeremy. In law, if you bend anything, you will be in trouble very quickly.</p>
 
-(3)&nbsp;&nbsp;&nbsp; In jazz, there are famously no wrong notes, only unexpected ones you turn into something even more interesting. They call it improvisation. In the law, every wrong note becomes an appeal.
+<p style="margin-left: 40px">(3)&nbsp;&nbsp;&nbsp; In jazz, there are famously no wrong notes, only unexpected ones you turn into something even more interesting. They call it improvisation. In the law, every wrong note becomes an appeal.</p>
 
 {:start="8"}
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So yes, on the surface, law and jazz seem worlds apart and a bit like oil and water, never meeting one another.
@@ -79,14 +79,17 @@ Ladies and gentlemen<br>
 
 {:start="17"}
 17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is why we made significant amendments to our copyright framework and our regime over the last couple of years, and we will continue to monitor and review them to keep up with GenAI and other advancements. Our goal is simple – to continue to empower the creators. Artists must know that there are rights and that they have rights over the works that they produce. When we can do that well, then we will continue to incentivise our artists to find new forms of innovation and new platforms for creation.
-{:start="1"}
 
+{:start="18"}
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indeed, the work of the Jazz Association is very integral to this vision. You nurture talent and I think we saw the best of that on stage earlier, and we will see more later.&nbsp; I was just telling Jeremy earlier this evening that what I found really refreshing about the Jazz Association, Jeremy, in particular, and all your musicians, is that you bring onboard young musicians, to take the stage, to share the stage with you. That generosity and spirit, allowing young musicians the platform to experience, to grow, and to have that confidence to be on this stage, is really wonderful. The Jazz Association also builds community. You can just look around this room, you will see this very special community, people from all walks of life coming together to support Jazz Association, because we believe that we must keep jazz music, the arts, thriving and growing in Singapore.
 
+{:start="19"}
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to say a big thank you to the Jazz Association. The work that you do is invaluable. I know this is just your ninth year, but it feels that you have been here for ages, having a wonderful gala this evening, and celebrating your 10th anniversary next year. I want to say that the work that you do is invaluable, important. One day, when we have a first-class thriving jazz music ecosystem, where we have performers and entertainers and musicians, freelancers, performing all over the world, we will look back at the efforts that the Jazz Association has put in over many years, to build this entire ecosystem and platform. I thank you very much for that.
 
 **Conclusion**
 
-I want to just end by thanking all the partners and donors of the Jazz Association. It is not possible to do this alone. It is important that we also have occasions like this where we have partners, donors and sponsors to come together to support the work done. I think the contributions and the donations that you make, come to life in a very tangible way on stage, when you see young musicians perform well, when you see those with disabilities express themselves so well on the camera. I think all of that makes that donation, that sponsorship, and that partnership come to life. &nbsp;
+{:start="20"}
+20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to just end by thanking all the partners and donors of the Jazz Association. It is not possible to do this alone. It is important that we also have occasions like this where we have partners, donors and sponsors to come together to support the work done. I think the contributions and the donations that you make, come to life in a very tangible way on stage, when you see young musicians perform well, when you see those with disabilities express themselves so well on the camera. I think all of that makes that donation, that sponsorship, and that partnership come to life. &nbsp;
 
-20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to thank all of you for supporting the Jazz Association. May you continue to thrive, may you continue to punch above your weight, and one day, we would like to see Singapore thrive as a real, buzzing, vibrant, full of verve, arts ecosystem. Thank you very much.
+{:start="21"}
+21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to thank all of you for supporting the Jazz Association. May you continue to thrive, may you continue to punch above your weight, and one day, we would like to see Singapore thrive as a real, buzzing, vibrant, full of verve, arts ecosystem. Thank you very much.
