@@ -93,3 +93,6 @@ Ladies and gentlemen<br>
 
 {:start="21"}
 21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I want to thank all of you for supporting the Jazz Association. May you continue to thrive, may you continue to punch above your weight, and one day, we would like to see Singapore thrive as a real, buzzing, vibrant, full of verve, arts ecosystem. Thank you very much.
+
+
+<p class="right-side-updated">Last updated on 16 November 2025</p>
