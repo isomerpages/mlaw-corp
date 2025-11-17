@@ -1,5 +1,5 @@
 ---
-title: Remarks by Minister Edwin Tong at the JASS Benefit Gala 2025
+title: Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the Jazz Association (Singapore) (JASS) Benefit Gala 2025
 permalink: /remarks-by-minister-edwin-tong-at-the-jass-benefit-gala-2025/
 date: 2025-11-16
 layout: post
