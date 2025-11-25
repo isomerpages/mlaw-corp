@@ -1,5 +1,6 @@
 ---
-title: Public Consultation on the Report of the Committee to Review the Regulatory Framework for Law Practices and Collaborations in Singapore 
+title: Public Consultation on the Report of the Committee to Review the
+  Regulatory Framework for Law Practices and Collaborations in Singapore
 permalink: /public-consultation-on-the-report-of-the-committee-to-review-the-regulatory-framework/
 date: 2025-10-16
 layout: post
@@ -14,8 +15,10 @@ views, perspectives and recommendations to further enhance Singapore’s
 regulatory framework for law practices and collaborations between them.</p>
 <p>2.&nbsp;&nbsp;&nbsp; The Ministry of Law welcomes the Report and will
 be carefully reviewing the recommendations. To assist with this review,
-the Ministry will be conducting an 8-week public consultation on the Committee’s
-recommendations that will run from 16 October 2025 to 10 December 2025.</p>
+the Ministry will be conducting a 13-week public consultation on the Committee’s
+recommendations that will run from 16 October 2025 to 14 January 2026.
+[The duration of the public consultation was <a href="https://www.mlaw.gov.sg/extension-of-public-consultation-period-for-regulatory-framework/" rel="noopener nofollow" target="_blank">updated</a> on
+24 November 2025].</p>
 <p><strong>Singapore’s Legal Services Sector</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp; Singapore’s legal services sector has achieved significant
