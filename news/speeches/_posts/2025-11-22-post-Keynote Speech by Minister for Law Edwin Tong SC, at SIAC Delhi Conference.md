@@ -13,7 +13,6 @@ Mr Davinder Singh SC, Chairman of the Singapore International Arbitration Centre
 Ms Lucy Reed, President of SIAC Court of Arbitration<br>
 Mr V.P Singh, Member of SIAC Court<br>
 Ms Gloria Lim, CEO of SIAC<br>
-
 To our many distinguished guests<br>
 Ladies and gentlemen
 
