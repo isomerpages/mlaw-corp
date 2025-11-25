@@ -7,14 +7,14 @@ description: ""
 image: ""
 variant: markdown
 ---
-Your Excellency, Arjun Ram Meghwal, Minister of Law and Justice of India
-Honourable Justice Tejas Karia, Judge of the High Court of Delhi
-Mr Davinder Singh SC, Chairman of the Singapore International Arbitration Centre (SIAC)
-Ms Lucy Reed, President of SIAC Court of Arbitration
-Mr V.P Singh, Member of SIAC Court
-Ms Gloria Lim, CEO of SIAC
+Your Excellency, Arjun Ram Meghwal, Minister of Law and Justice of India<br>
+Honourable Justice Tejas Karia, Judge of the High Court of Delhi<br>
+Mr Davinder Singh SC, Chairman of the Singapore International Arbitration Centre (SIAC)<br>
+Ms Lucy Reed, President of SIAC Court of Arbitration<br>
+Mr V.P Singh, Member of SIAC Court<br>
+Ms Gloria Lim, CEO of SIAC<br>
 
-To our many distinguished guests
+To our many distinguished guests<br>
 Ladies and gentlemen
 
 <b>Introduction</b>
