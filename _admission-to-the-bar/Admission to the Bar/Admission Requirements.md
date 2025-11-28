@@ -7,6 +7,13 @@ variant: markdown
 description: ""
 ---
 <h2><strong>Admission Requirements</strong></h2>
+<p><strong>[Announcement (1 December 2025): The Ministry of Law, Judicial Service Commission Secretariat, Legal Service Commission Secretariat, &amp; the Singapore Institute of Legal Education have released a [joint guidance note](/files/Joint_Guidance_Note_to_Public_Service_Trainees__1_December_2025_.pdf)on the practice training framework for Judicial Service Officers, Legal Service Officers, and Legal Officers undergoing supervised training in the public service.
+
+This guidance note supersedes the earlier guidance note dated May 2023 and encloses the General Practice Training Checklist applicable to legal officers completing their practice training under the supervision of a Qualifying Relevant Legal Officer in the public service. Judicial Service Officers and Legal Service Officers may reach out to the Judicial Service Commission Secretariat and the Legal Service Commission Secretariat, respectively, for information on the checklists applicable to them. 
+
+The guidance note applies to all public service trainees commencing their practice training period from 1 January 2026 onwards.]
+</strong>
+</p>
 <p><strong>[Announcement (11 July 2024): The Ministry of Law, in consultation with the members of the Working Group for the Implementation of the Recommendations of the Committee for the Professional Training of Lawyers, has prepared <a href="/files/New_Admission_Framework_INFG_4Jul24B.pdf" rel="noopener noreferrer nofollow" target="_blank">infographics</a> to provide guidance on the savings and transitional arrangements available and the various deadlines required to be met in order to seek admission under the old law. Affected candidates may also wish to refer to section 48 of the Legal Profession (Amendment) Act 2023 and the Legal Profession (Amendment) (Transitional Provisions for Admission) Regulations 2024 for more details.]</strong>
 </p>
 <p><strong>[Announcement (3 October 2023): The Singapore Institute of Legal Education (SILE) has published a <a href="https://www.sile.edu.sg/pdf/Notice_on_New_Admission_Regime.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a>&nbsp;setting out information on the implementation of the changes to the admission regime as recommended by the Committee for the Professional Training of Lawyers. Please refer to <a href="https://www.sile.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SILE's website</a>&nbsp;for more information.]</strong>
