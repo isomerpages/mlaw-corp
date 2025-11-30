@@ -2,8 +2,6 @@ collections:
   law-practice-entities-and-lawyers:
     output: true
     order:
-      - Programmes/ESG Legal Secondment Programme.md
-      - Programmes/.keep
       - Licensing Or Registration Of Law Practice Entities/.keep
       - Licensing Or Registration Of Law Practice
         Entities/types-of-licence-or-registration.md
@@ -35,3 +33,5 @@ collections:
       - Resources for Law Practice Entities/useful-templates.md
       - Resources for Law Practice Entities/relevant-organisations.md
       - incentive-and-exemption-schemes.md
+      - Programmes/.keep
+      - Programmes/ESG Legal Secondment Programme.md
