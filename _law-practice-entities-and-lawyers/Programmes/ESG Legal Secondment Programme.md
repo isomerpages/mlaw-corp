@@ -56,7 +56,7 @@ legal, compliance, procurement)</p>
 overseas exposure if relevant</p>
 </li>
 </ul>
-<p><strong>Secondees (lawyers)</strong>
+<p><strong>Secondees (lawyers):</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
