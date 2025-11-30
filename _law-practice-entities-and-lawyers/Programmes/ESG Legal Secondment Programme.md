@@ -10,7 +10,7 @@ a secondment initiative by the Ministry of Law. <strong>It places Singapore-qual
 gain practical ESG experience, sharpen commercial acumen, and return ready
 to strengthen their law firms’ ESG practice. The full programme factsheet
 can be accessed <a href="/files/ESG_Legal_Secondment_Programme__Programme_Factsheet_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>Interested participants can fill in the <a href="https://go.gov.sg/esg-lsp-eoi" rel="noopener nofollow" target="_blank">Expression of Interest Form</a>.</p>
+<p>Interested participants can fill in this <a href="https://go.gov.sg/esg-lsp-eoi" rel="noopener nofollow" target="_blank">Expression of Interest Form</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_highlights.png">
