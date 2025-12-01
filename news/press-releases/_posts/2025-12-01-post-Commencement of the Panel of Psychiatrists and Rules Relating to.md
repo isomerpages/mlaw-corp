@@ -21,15 +21,13 @@ variant: markdown
 {:start=“2”}
 2.&nbsp;Expert evidence from psychiatrists plays a critical role in the criminal process, especially with the rise in the use of psychiatric expert evidence in criminal cases. It is crucial to ensure that the standards of objectivity and competence expected of expert witnesses are met consistently.
 
-  
-
 {:start=“3”}
 3.&nbsp;The establishment of the Panel will better safeguard the objectivity and quality of such evidence.
 
 {:start=“4”}
 4.&nbsp;The key features of the Panel are as follows:
 
-<p style="margin-left: 40px">a) A Selection Committee comprising a Judge of the Supreme Court, District Judge and an officer from the Ministry of Health will decide on the appointment of psychiatrists to the Panel. The full list of eligibility criteria is available in the <strong><a href="/files/Annex\_Eligibility\_Criteria.pdf" rel="noopener nofollow" target="\_blank">Annex</a></strong>.</p>
+<p style="margin-left: 40px">a) A Selection Committee comprising a Judge of the Supreme Court, District Judge and an officer from the Ministry of Health will decide on the appointment of psychiatrists to the Panel. The full list of eligibility criteria is available in the.</p>
 
 <p style="margin-left: 40px">b) Psychiatrists must be admitted to the Panel before they can give psychiatric expert evidence in criminal proceedings.</p>
 
