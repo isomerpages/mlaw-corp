@@ -1,6 +1,6 @@
 ---
-title: Commencement of the Panel of Psychiatrists and Rules Relating to
-permalink: /commencement-of-the-panel-of-psychiatrists-and-rules-relating-to/
+title: Commencement of the Panel of Psychiatrists and Rules Relating to Expert Evidence and Reports in Criminal Proceedings
+permalink: /commencement-of-panel-of-psychiatrists-rules-relating-to-expert-evidence-reports-in-criminal-proceedings/
 date: 2025-12-01
 layout: post
 description: ""
