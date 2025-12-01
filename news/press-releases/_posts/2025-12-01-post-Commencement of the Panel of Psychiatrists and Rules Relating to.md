@@ -27,7 +27,7 @@ variant: markdown
 {:start=“4”}
 4.&nbsp;The key features of the Panel are as follows:
 
-<p style="margin-left: 40px">a) A Selection Committee comprising a Judge of the Supreme Court, District Judge and an officer from the Ministry of Health will decide on the appointment of psychiatrists to the Panel. The full list of eligibility criteria is available in the <b><u>Annex</u></b>.</p>
+<p style="margin-left: 40px">a) A Selection Committee comprising a Judge of the Supreme Court, District Judge and an officer from the Ministry of Health will decide on the appointment of psychiatrists to the Panel. The full list of eligibility criteria is available in the <b><u>[Annex](/files/Annex_Eligibility_Criteria.pdf)</u></b>.</p>
 
 <p style="margin-left: 40px">b) Psychiatrists must be admitted to the Panel before they can give psychiatric expert evidence in criminal proceedings.</p>
 
