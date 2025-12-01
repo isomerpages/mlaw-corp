@@ -57,16 +57,16 @@ variant: markdown
 <b>1 DECEMBER 2025</b>
 
 <table>
-<tbody><tr>
-<th>Annex: Eligibility Criteria</th></tr>
+<tbody>
+<tr><th>Annex: Eligibility Criteria</th></tr>
 <tr><td>An applicant is eligible to be appointed if he or she meets both criteria (i) and (ii) below:<br>
 <p style="margin-left: 40px">i. The applicant must fall within one of the three categories below:</p>
 <p style="margin-left: 60px">a) The applicant is registered as a psychiatrist in the Register of Specialists in Singapore;</p>
 <p style="margin-left: 60px">b) The applicant has completed 3 years of psychiatry residency training in Singapore and is receiving formal training and ongoing supervision by a medical practitioner who is registered as a psychiatrist in the Register of Specialists; or</p>
 <p style="margin-left: 60px">c) The applicant is a foreign-registered psychiatrist with a certificate of good standing issued by the foreign licensing authority.</p>
-<p style="margin-left: 40px">ii. The Selection Committee must be satisfied that there are no reasonable grounds to believe that the applicant has displayed, or is likely to display, a clear lack of objectivity or competence as an expert witness.</p>
-</td></tr>  
-</tbody></table>
+<p style="margin-left: 40px">ii. The Selection Committee must be satisfied that there are no reasonable grounds to believe that the applicant has displayed, or is likely to display, a clear lack of objectivity or competence as an expert witness.</p></td></tr>  
+</tbody>
+</table>
 
 <p></p><p><sup id="fn1">1. The Criminal Procedure (Expert Opinion) Rules 2025 were made by the Criminal Procedure Rules Committee, which comprises members from the Judiciary, the Attorney-General’s Chambers, the Ministry of Home Affairs, the Singapore Police Force and the Defence Bar.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
