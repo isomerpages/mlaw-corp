@@ -8,7 +8,7 @@ description: ""
 ---
 <h2><strong>Admission Requirements</strong></h2>
 <p><strong>[Announcement (1 December 2025): The Ministry of Law, Judicial Service Commission Secretariat, Legal Service Commission Secretariat, &amp; the Singapore Institute of Legal Education have released a </strong>
-<a href="/files/Joint_Guidance_Note_to_Public_Service_Trainees__1_December_2025_.pdf" rel="noopener nofollow" target="_blank">joint guidance note</a><strong> on the practice training framework for Judicial Service Officers, Legal Service Officers, and Legal Officers undergoing supervised training in the public service.</strong>
+<a href="/files/Joint_Guidance_Note_to_Public_Service_Trainees__2_December_2025_.pdf" rel="noopener nofollow" target="_blank">joint guidance note</a><strong> on the practice training framework for Judicial Service Officers, Legal Service Officers, and Legal Officers undergoing supervised training in the public service.</strong>
 </p>
 <p><strong>This guidance note supersedes the earlier guidance note dated May 2023 and encloses the General Practice Training Checklist applicable to legal officers completing their practice training under the supervision of a Qualifying Relevant Legal Officer in the public service. Judicial Service Officers and Legal Service Officers may reach out to the Judicial Service Commission Secretariat and the Legal Service Commission Secretariat, respectively, for information on the checklists applicable to them.</strong>
 </p>
