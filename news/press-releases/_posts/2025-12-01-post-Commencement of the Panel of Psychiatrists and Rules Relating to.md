@@ -1,5 +1,6 @@
 ---
-title: Commencement of the Panel of Psychiatrists and Rules Relating to Expert Evidence and Reports in Criminal Proceedings
+title: Commencement of the Panel of Psychiatrists and Rules Relating to Expert
+  Evidence and Reports in Criminal Proceedings
 permalink: /commencement-panel-of-psychiatrists-rules-relating-to-expert-evidence-and-reports-criminal-proceedings/
 date: 2025-12-01
 layout: post
@@ -51,7 +52,7 @@ variant: markdown
 <p style="margin-left: 40px">c) <b>The Court’s power to order concurrent expert evidence or “hot-tubbing” with the consent of the parties</b>, which will allow more than one expert witness to testify before the Court at the same time, even if they are engaged by different parties. This will assist the Court to assess expert evidence more effectively and focus on areas of disagreement, especially in cases involving complex technical issues.</p>
 
 {:start=“8”}
-8.&nbsp;More details on the Panel and the Criminal Procedure (Expert Opinion) Rules 2025 can be found at <a href="www.psychpanel.gov.sg">www.psychpanel.gov.sg</a> and <a href="https://go.gov.sg/criminal-procedure-expert-opinion-rules">https://go.gov.sg/criminal-procedure-expert-opinion-rules</a>.
+8.&nbsp;More details on the Panel and the Criminal Procedure (Expert Opinion) Rules 2025 can be found at <a href="https://www.psychpanel.gov.sg">www.psychpanel.gov.sg</a> and <a href="https://go.gov.sg/criminal-procedure-expert-opinion-rules">go.gov.sg/criminal-procedure-expert-opinion-rules</a>.
 
 <b>MINISTRY OF LAW</b><br>
 <b>1 DECEMBER 2025</b>
