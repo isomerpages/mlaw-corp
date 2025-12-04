@@ -1,5 +1,5 @@
 ---
-title: Official Visit to China by SPS Eric Chua
+title: Official Visit to China by Senior Parliamentary Secretary of Ministry of Law and Ministry of Social and Family Development Eric Chua
 permalink: /official-visit-to-china-by-sps-eric-chua/
 date: 2025-12-04
 layout: post
