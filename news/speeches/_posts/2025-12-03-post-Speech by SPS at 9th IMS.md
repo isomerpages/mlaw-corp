@@ -1,5 +1,5 @@
 ---
-title: Speech by SPS at 9th IMS
+title: Opening Speech by Senior Parliamentary Secretary, Ministry of Law and Ministry of Social and Family Development, Mr Eric Chua at the 9th International Mediation Summit in Haikou
 permalink: /speech-by-sps-at-9th-ims/
 date: 2025-12-03
 layout: post
