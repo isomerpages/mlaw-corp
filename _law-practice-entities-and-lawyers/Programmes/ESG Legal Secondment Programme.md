@@ -16,8 +16,7 @@ to strengthen their law firms’ ESG practice.</p>
 operate, invest, and report. Across the world, businesses face increasing
 scrutiny from regulators, investors, and customers on their ESG performance.</p>
 <p><strong>Singapore is positioning itself as a regional leader in sustainable finance, carbon markets, and green infrastructure.</strong> According
-to PwC, sustainability-related legal work in Singapore is projected to
-grow from S$180M in 2023 to S$500M by 2033.</p>
+to PwC, <a href="https://www.pwc.com/sg/en/publications/sustainability-linked-opportunities-the-new-frontier-for-singapores-legal-sector.html" rel="noopener nofollow" target="_blank">sustainability-related legal work in Singapore is projected to grow from S$180M in 2023 to S$500M by 2033</a>.</p>
 <p>For the legal sector, this represents a major growth opportunity. Law
 firms with <strong>practical ESG expertise</strong> will be better positioned
 to capture high-value mandates and advise clients with confidence.</p>
