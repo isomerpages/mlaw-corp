@@ -68,8 +68,8 @@ by a Singapore Law Practice</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_highlights.png">
 </div>
 <p></p>
-<p>The full programme factsheet can be accessed <a href="/files/ESG_Legal_Secondment_Programme__Programme_Factsheet_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The full programme factsheet can be accessed <a href="/files/Updated_ESG_Legal_Secondment_Programme__Programme_Factsheet_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Interested participants can fill in this <a href="https://go.gov.sg/esg-lsp-eoi" rel="noopener nofollow" target="_blank">Expression of Interest Form</a>. If
-you have any queries, you can write to us at MLAW_IndustryEngagements@mlaw.gov.sg.</p>
+you have any queries, you can write to us at <a href="MLAW_IndustryEngagements@mlaw.gov.sg" rel="noopener nofollow" target="_blank">MLAW_IndustryEngagements@mlaw.gov.sg</a>.</p>
 <p></p>
 <p></p>
