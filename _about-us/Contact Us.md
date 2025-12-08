@@ -6,6 +6,12 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<h3><strong>Have Questions for Us?</strong></h3>
+</blockquote>
+<p>Check if it has already been answered at <a href="https://ask.gov.sg/mlaw" rel="noopener noreferrer nofollow" target="_blank"><u>www.ask.gov.sg/mlaw</u></a>.</p>
+<p></p>
+<p></p>
+<blockquote>
 <h3><strong>Chat with Us</strong></h3>
 </blockquote>
 <p><strong>Our Live Chat Agents are available from:</strong> 
