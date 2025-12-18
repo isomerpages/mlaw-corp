@@ -5,6 +5,90 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
+<p>The Ministry of Law Services Centre (MSC) and the Video Conferencing Counter
+at the Help Centre, Basement 1 of the State Courts, will be closed on the
+following dates and times:</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closure Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Last Queue Ticket Issued</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Resumption Date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christmas Eve</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 December 2025 (Wednesday) Closed at 1:00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:30 PM</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>26 December 2025 (Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christmas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 December 2025 (Thursday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>New Year’s Eve</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2025 (Wednesday) Closed at 1:00 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:30 PM</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2 January 2026 (Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>New Year’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 January 2026 (Thursday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you for your understanding.</p>
+<p></p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
