@@ -55,7 +55,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 December 2025 (Sat) 0000 hrs to 7 December 2025 (Sun) 2359 hrs</p>
+<p>3 January 2026 (Sat) 0000 hrs to 4 January 2026 (Sun) 2359 hrs</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 December 2025 (Sat) 0000 hrs to 7 December 2025 (Sun) 2359 hrs</p>
+<p>3 January 2026 (Sat) 0000 hrs to 4 January 2026 (Sun) 2359 hrs</p>
 </td>
 </tr>
 <tr>
