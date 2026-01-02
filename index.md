@@ -9,7 +9,7 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br><br>The
   Ministry of Law (MinLaw) has commissioned Nexus Link Pte Ltd to conduct a
   survey on the legal needs and experiences of Singapore residents from Aug to
-  Nov 2025. The survey does not require respondents to transfer money or
+  Mar 2026. The survey does not require respondents to transfer money or
   disclose any bank details. If in doubt, please contact MinLaw at 1800 2255
   529.
 sections:
