@@ -5,39 +5,6 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>CLOSURE NOTICE</u></strong></h3>
-<p><strong>Ministry of Law Services Centre (MSC) at Maxwell Road, URA (East Wing) and PDO Video Conferencing Counter (PDO-VCC) at State Courts, Help Centre, Basement 1</strong>
-</p>
-<p>Please be informed that MSC and PDO-VCC will be closed on the following
-dates:</p>
-<p><strong>Christmas Eve – 24 December 2025 (Wednesday)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MSC will close at 1:00 PM (last queue ticket issued at 12:30 PM).</p>
-</li>
-<li>
-<p>PDO-VCC will be closed for the whole day.</p>
-</li>
-<li>
-<p>Both venues will resume operations on 26 December 2025 (Friday).</p>
-</li>
-</ul>
-<p><strong>New Year's Eve – 31 December 2025 (Wednesday)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MSC will close at 1:00 PM (last queue ticket issued at 12:30 PM).</p>
-</li>
-<li>
-<p>PDO-VCC will be closed for the whole day.</p>
-</li>
-<li>
-<p>Both venues will resume operations on 2 January 2026 (Friday).</p>
-</li>
-</ul>
-<p>Thank you for your understanding.</p>
-<p></p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
