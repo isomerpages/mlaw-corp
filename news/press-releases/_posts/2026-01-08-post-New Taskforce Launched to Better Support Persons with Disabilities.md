@@ -1,6 +1,6 @@
 ---
-title: New Taskforce Launched to Better Support Persons with Disabilities
-permalink: /new-taskforce-launched-to-better-support-persons-with-disabilities/
+title: New Taskforce Launched to Better Support Persons with Disabilities and Mental Health Conditions in Criminal Justice System
+permalink: /new-taskforce-launched-to-better-support-persons-with-disabilities-and-mental-health-conditions-in-criminal-justice-system/
 date: 2026-01-08
 layout: post
 description: ""
