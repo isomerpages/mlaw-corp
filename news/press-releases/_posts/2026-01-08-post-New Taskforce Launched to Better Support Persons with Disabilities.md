@@ -37,8 +37,8 @@ variant: markdown
 9.&nbsp;The Taskforce reflects the Government’s commitment to partner with individuals from the private sector and the community to co-create solutions to benefit our society, including better support for vulnerable individuals with disabilities and mental health conditions. This initiative aligns with the spirit of SGLAW 200, as Singapore continues to strengthen its legal system and ensure justice remains accessible to all members of society.
 
 <b>MINISTRY OF LAW</b><br>
-<b>6 JANUARY 2026</b>
+<b>8 JANUARY 2026</b>
 
 <p></p><p><sup id="fn1">1. <a href="https://www.mlaw.gov.sg/welcome-address-by-2m-edwin-tong-sc-at-the-access-to-justice-symposium-2025/">Welcome Address by then-Minister for Culture, Community and Youth, and Second Minister for Law, Edwin Tong SC at the Access to Justice Symposium 2025</a></sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p class="right-side-updated">Last updated on 6 January 2026</p>
+<p class="right-side-updated">Last updated on 8 January 2026</p>
