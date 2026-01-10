@@ -1,5 +1,5 @@
 ---
-title: “The Point of Law – A Reflection on 200 years of Singapore’s Modern Legal System” 37th Singapore Law Review Annual Lecture by Mr Murali Pillai SC, Senior Minister of State for Law and Transport, At the National University of Singapore Auditorium 1, University Town
+title: “The Point of Law – A Reflection on 200 years of Singapore’s Modern Legal System” 37th Singapore Law Review Annual Lecture by Mr Murali Pillai SC, Senior Minister of State for Law and Transport, at the National University of Singapore Auditorium 1, University Town
 permalink: /speech-by-sms-murali-at-the-37th-slr-annual-lecture/
 date: 2026-01-09
 layout: post
