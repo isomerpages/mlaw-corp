@@ -14,7 +14,7 @@ variant: markdown
 <b>Ms Valerie Lee (Member for Parliament for Pasir Ris-Changi GRC)</b>
 
 <b><u>Question</u></b><br>
-To ask the Minister of Law whether the current limit of 18 non-training days during the Practice Training Period for trainee lawyers remains appropriate; (b) what measures the Ministry intends to take against law firms that impose stricter limits; and (c) whether the Ministry will consider reviewing or increasing the permissible absence limit to better align with practices in other Commonwealth jurisdictions.
+To ask the Minister for Law whether the current limit of 18 non-training days during the Practice Training Period for trainee lawyers remains appropriate; (b) what measures the Ministry intends to take against law firms that impose stricter limits; and (c) whether the Ministry will consider reviewing or increasing the permissible absence limit to better align with practices in other Commonwealth jurisdictions.
 
 <b><u>Written Answer:</u></b><br>
 
