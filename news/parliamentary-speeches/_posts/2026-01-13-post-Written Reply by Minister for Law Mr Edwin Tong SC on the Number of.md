@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on the Number of
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-the-number-of/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the Number of Family Justice Court Applications for Divorce Maintenance Compliance over the Past Three Years
+permalink: /written-reply-by-minister-law-edwin-tong-on-number-of-family-justice-court-applications-for-divorce-maintenance-compliance-past-three-years/
 date: 2026-01-13
 layout: post
 description: ""
