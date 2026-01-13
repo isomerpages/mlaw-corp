@@ -24,27 +24,10 @@ To ask the Minister for Law over the past three years, how many applications hav
 2.&nbsp;A maintenance enforcement application refers to an application to enforce an existing maintenance order, if the party who is required to make payment under the order fails to do so.
 
 {:start="3"}
-3.&nbsp;The number of maintenance enforcement applications filed with the Family Justice Courts ("FJC") via the Integrated Family Application Management System ("iFAMS")<sup><a href="#fn1" id="ref1">1</a></sup> from 2023 to 2025 in respect of (a) maintenance orders made under the WC and (b) SYC maintenance orders is set out in Table 1. This represents the number of applications to enforce maintenance orders made during marriage and during divorce, as the breakdown is not available.
+3.&nbsp;The number of maintenance enforcement applications filed with the Family Justice Courts ("FJC") via the Integrated Family Application Management System ("iFAMS")<sup><a href="#fn1" id="ref1">1</a></sup> from 2023 to 2025 in respect of (a) maintenance orders made under the WC and (b) SYC maintenance orders is set out in <b><u>Table 1</u></b>. This represents the number of applications to enforce maintenance orders made during marriage and during divorce, as the breakdown is not available.
 
 <b><u>Table 1</u></b>
-
-&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
-	&nbsp;
-&nbsp;&nbsp;<table border="1"><tbody><tr><th></th>  
+<table><tbody><tr><th></th>  
 		<th>2023</th><th>2024</th><th>2025</th></tr><tr><td>Applications to enforce maintenance orders made under the WC*</td><td>1,526</td><td>1,535</td>
 		<td>1,565</td></tr><tr><td>Applications to enforce SYC maintenance orders*</td><td>202</td><td>161</td>
 		<td>90</td></tr><tr>  
