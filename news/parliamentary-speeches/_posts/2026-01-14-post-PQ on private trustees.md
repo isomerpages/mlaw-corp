@@ -1,6 +1,6 @@
 ---
-title: PQ on private trustees
-permalink: /pq-on-private-trustees/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the Appeal Avenues for Bankrupt against Decisions Managed by Official Assignee under Private Trustees in Bankruptcy Regime
+permalink: /written-reply-minister-for-law-edwin-tong-on-appeal-avenues-bankrupt-against-decisions-managed-by-official-assignee-under-private-trustees-in-bankruptcy-regime/
 date: 2026-01-14
 layout: post
 description: ""
@@ -17,7 +17,7 @@ To ask the Minister for Law what are the available platforms for a bankrupt to a
 
 <b><u>Written Answer:</u></b><br>
 {:start="1"}
-1.&nbsp;Sir, let me first clarify that when making a bankruptcy order, the High Court appoints a person to be the trustee of the bankrupt’s estate. This trustee can be either a licensed insolvency practitioner from the private sector (“private trustee”) or the Official Assignee (“OA”), a person appointed by the Minister for Law. Private trustees are distinct from the OA and are not part of the Ministry of Law’s Insolvency Office, which supports the work of the OA.&nbsp;
+1.&nbsp;Let me first clarify that when making a bankruptcy order, the High Court appoints a person to be the trustee of the bankrupt’s estate. This trustee can be either a licensed insolvency practitioner from the private sector (“private trustee”) or the Official Assignee (“OA”), a person appointed by the Minister for Law. Private trustees are distinct from the OA and are not part of the Ministry of Law’s Insolvency Office, which supports the work of the OA.&nbsp;
 
 {:start="2"}
 2.&nbsp;A bankrupt whose estate is administered by a private trustee may apply to the High Court to review any act, omission or decision of the private trustee. The bankrupt may also make a complaint to the OA in relation to the private trustee’s conduct in the administration of the estate.
