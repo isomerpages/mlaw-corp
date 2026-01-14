@@ -1,6 +1,6 @@
 ---
-title: PQ on CDRT
-permalink: /pq-on-cdrt/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Enforcement Applications Filed in Respect of Community Disputes Resolution Tribunal Orders Issued between 2020 and 2024
+permalink: /written-reply-minister-for-law-edwin-tong-enforcement-applications-filed-in-respect-of-community-disputes-resolution-tribunal-orders-between-2020-and-2024/
 date: 2026-01-14
 layout: post
 description: ""
