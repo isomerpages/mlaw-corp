@@ -1,5 +1,7 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on the Number of Family Justice Court Applications for Divorce Maintenance Compliance over the Past Three Years
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the Number of
+  Family Justice Court Applications for Divorce Maintenance Compliance over the
+  Past Three Years
 permalink: /written-reply-by-minister-law-edwin-tong-on-number-of-family-justice-court-applications-for-divorce-maintenance-compliance-past-three-years/
 date: 2026-01-13
 layout: post
@@ -40,4 +42,4 @@ To ask the Minister for Law over the past three years, how many applications hav
 
 <p></p><p><sup id="fn1">1. Maintenance enforcement applications may also be filed via eLitigation under the civil enforcement procedure provided for in the Family Justice (General) Rules 2024 or the Family Justice Rules 2014. Civil enforcement applications are filed under summons in eLitigation. While the system tracks the total number of summonses filed, it does not specifically track those filed for maintenance enforcement. Hence, the exact number of maintenance enforcement applications filed via eLitigation is not available.</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
-<p class="right-side-updated">Last updated on 12 January 2026</p>
+<p class="right-side-updated">Last updated on 13 January 2026</p>
