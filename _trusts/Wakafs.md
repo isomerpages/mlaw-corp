@@ -19,7 +19,7 @@ for <em>wakafs</em>.</p>
 <p>Only the income generated from the <em>wakaf</em> asset(s) can be distributed
 to the beneficiaries (<em>muquf’alaih</em>). The capital (i.e., the original <em>wakaf</em> asset(s))
 must be kept intact.</p>
-<p>&nbsp;More details about wakafs can be found on the <a href="https://www.muis.gov.sg/wakaf/Understanding-Wakaf/Overview" rel="noopener noreferrer nofollow" target="_blank">MUIS' website</a>.</p>
+<p>&nbsp;More details about wakafs can be found on the <a href="https://www.muis.gov.sg/community/wakaf-administration/" rel="noopener noreferrer nofollow" target="_blank">MUIS' website</a>.</p>
 <h4><strong>2.&nbsp;Regulation of Wakafs</strong></h4>
 <p>All <em>wakafs</em> must be registered with MUIS, which is also required
 to maintain a register of <em>wakafs</em>. For the purposes of registration,
