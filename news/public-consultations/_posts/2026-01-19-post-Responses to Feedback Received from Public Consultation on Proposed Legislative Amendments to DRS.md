@@ -9,7 +9,8 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>Responses to Feedback Received from Public Consultation on Proposed Legislative Amendments to DRS</strong></h3>
-<p><strong>Consultation Period</strong>
+<p><strong>Consultation Period (</strong>A summary of the Public Consultation
+can found <a href="https://www.mlaw.gov.sg/public-consultation-on-the-proposed-legislative-amendments-to-the-debt-repayment-scheme/" rel="noopener nofollow" target="_blank">here</a><strong>)</strong>
 <br>9 June 2025 to 27 June 2025</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -29,7 +30,7 @@ them, where applicable, in the upcoming Insolvency, Restructuring and Dissolutio
 </li>
 <li>
 <p>The Ministry of Law's detailed responses to the feedback concerning key
-substantive policy matters can be found in the Annex here.</p>
+substantive policy matters can be found in the Annex [].</p>
 </li>
 </ol>
 <p></p>
