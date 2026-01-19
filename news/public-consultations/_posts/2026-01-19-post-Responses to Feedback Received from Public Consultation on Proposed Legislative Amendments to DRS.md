@@ -30,7 +30,7 @@ them, where applicable, in the upcoming Insolvency, Restructuring and Dissolutio
 </li>
 <li>
 <p>The Ministry of Law's detailed responses to the feedback concerning key
-substantive policy matters can be found in the Annex [].</p>
+substantive policy matters can be found in the <a href="" rel="noopener nofollow" target="_blank">Annex</a>.</p>
 </li>
 </ol>
 <p></p>
