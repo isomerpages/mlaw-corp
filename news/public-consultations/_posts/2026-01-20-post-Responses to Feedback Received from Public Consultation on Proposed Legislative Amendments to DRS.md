@@ -18,5 +18,10 @@ provided their feedback in the public consultation on the proposed legislative
 amendments to the DRS, which took place from 9 June 2025 to 27&nbsp;June
 2025. We received feedback from a wide range of stakeholders, including
 creditors such as the financial institutions and licensed moneylenders,
-debtors and social service agencies.&lt;br&gt;</p>
+debtors and social service agencies.&amp;nbsp;
+<br>
+<br>{:start="2"}
+<br>2.&amp;nbsp;We have carefully considered all the feedback received and
+will incorporate them, where applicable, in the upcoming Insolvency, Restructuring
+and Dissolution (Amendment) Bill.&amp;nbsp;</p>
 <p></p>
