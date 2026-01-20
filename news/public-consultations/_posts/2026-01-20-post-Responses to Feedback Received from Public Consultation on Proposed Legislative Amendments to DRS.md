@@ -8,4 +8,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>**Responses to Feedback Received from the Public Consultation on the Proposed Legislative Amendments to the Debt Repayment Scheme (“DRS”)</strong>**&lt;br&gt;</p>
+<p>**Responses to Feedback Received from the Public Consultation on the Proposed
+Legislative Amendments to the Debt Repayment Scheme (“DRS”)**&lt;br&gt;</p>
