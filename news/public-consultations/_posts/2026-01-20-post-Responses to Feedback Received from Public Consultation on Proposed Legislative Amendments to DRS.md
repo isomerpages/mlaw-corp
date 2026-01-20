@@ -19,8 +19,12 @@ amendments to the DRS, which took place from 9 June 2025 to 27&nbsp;June
 2025. We received feedback from a wide range of stakeholders, including
 creditors such as the financial institutions and licensed moneylenders,
 debtors and social service agencies.
+<br>
 <br>{:start="2"}
 <br>2.&amp;nbsp;We have carefully considered all the feedback received and
 will incorporate them, where applicable, in the upcoming Insolvency, Restructuring
-and Dissolution (Amendment) Bill.</p>
-<p></p>
+and Dissolution (Amendment) Bill.
+<br>
+<br>{:start="3"}
+<br>3.&amp;nbsp;The Ministry of Law’s detailed responses to the feedback concerning
+key substantive policy matters can be found in the <a href="/files/news/public-consultations/Annex_Response_to_Feeback_Received.pdf" rel="noopener nofollow" target="_blank">Annex</a>.</p>
