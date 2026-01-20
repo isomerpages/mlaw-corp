@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p>&lt;b&gt;Responses to Feedback Received from the Public Consultation on
 the Proposed Legislative Amendments to the Debt Repayment Scheme (“DRS”)&lt;/b&gt;</p>
-<p>&lt;/b&gt;Consultation Period:&lt;/b&gt;
+<p>&lt;b&gt;Consultation Period:&lt;/b&gt;
 <br>9 June 2025 to 27 June 2025</p>
 <p>{:start="1"}
 <br>1.&amp;nbsp;The Ministry of Law would like to thank all respondents who
