@@ -137,11 +137,11 @@ variant: markdown
 {:start="26"}
 26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the same time, bad actors have taken advantage of this. They have used technology to perpetuate scams, cyber-bullying, the distribution of child abuse material, and to wage disinformation campaigns. I was just sharing with my residents in Queenstown, whatever we consume in social media, if we are able to trace back the information to the source, curiously many do not originate in Singapore. The scale and severity of online harms cannot be underestimated.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MDDI’s surveys found that 84% of Singapore residents encountered harmful online content in the past year, while a third, 33%, experienced harmful online behaviour.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MDDI’s surveys found that 84% of Singapore residents encountered harmful online content in the past year, while a third, 33%, experienced harmful online behaviour.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Such harmful content can have a severe impact on victims. The abuse can take a toll on their mental health.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Such harmful content can have a severe impact on victims. The abuse can take a toll on their mental health.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in fact, in 2020, let me quote one example, a 14-year-old girl in Singapore was bullied by her classmates and was driven to self-harm and attempted suicide. Very unfortunate.
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in fact, in 2020, let me quote one example, a 14-year-old girl in Singapore was bullied by her classmates and was driven to self-harm and attempted suicide. Very unfortunate.
 
 {:start="27"}
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We cannot let such conduct become the societal norm online.
@@ -149,19 +149,19 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Such harmful content ca
 {:start="28"}
 28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is why in the past few years, the Government has been enhancing our laws over the last few years, to better protect Singaporeans from online harms.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This includes online harms such as
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This includes online harms such as
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; online harassment including cyberbullying,
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; online harassment including cyberbullying,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doxxing,
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doxxing,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intimate image abuse, also known as “revenge porn”,
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intimate image abuse, also known as “revenge porn”,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; image-based child abuse, which involves the posting and sharing of images or videos of children being abused, including physical or sexual abuse of children, and
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; image-based child abuse, which involves the posting and sharing of images or videos of children being abused, including physical or sexual abuse of children, and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; online impersonation, among others.
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; online impersonation, among others.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These were amongst the top online harms which victims experienced in a study conducted by SG Her Empowerment or “SHE” in 2023.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These were amongst the top online harms which victims experienced in a study conducted by SG Her Empowerment or “SHE” in 2023.
 
 {:start="29"}
 29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We enacted laws allowing the Government to act firmly against fake news through POFMA in 2019. In 2024, we passed the Online Criminal Harms Act 2024 to target criminal conduct occurring on online platforms.
@@ -169,9 +169,9 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These were amongst the 
 {:start="31"}
 30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also strengthened protections for victims. Besides strengthening our criminal laws, we also empowered victims to obtain timely relief and hold perpetrators accountable. For example:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We set up a specialised Protection from Harassment Court in 2021, which will hear urgent cases within a 48 – 72 hour window.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We set up a specialised Protection from Harassment Court in 2021, which will hear urgent cases within a 48 – 72 hour window.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last month, we passed the Online Safety (Relief and Accountability) Bill 2025, also known as “OSRA”.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last month, we passed the Online Safety (Relief and Accountability) Bill 2025, also known as “OSRA”.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; OSRA will establish the office of the Commissioner of Online Safety. Victims can file a report to the Commissioner about online harm. The Commission can issue directions to stop the online harm, for example, by requiring the removal of the offensive content or by disabling access to it. &nbsp;&nbsp;
 
