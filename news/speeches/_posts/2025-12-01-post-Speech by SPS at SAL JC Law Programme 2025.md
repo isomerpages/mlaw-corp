@@ -185,9 +185,9 @@ variant: markdown
 
 </p><p style="margin-left: 80px">1.&nbsp;&nbsp;&nbsp;&nbsp; OSRA clarifies the duties and liabilities of the parties involved in the online ecosystem, including the persons who communicate or publish the online harm, the administrators of the online location and online platforms. If these online actors breach their duties, victims may bring an action against them to seek monetary compensation.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp; With the passing of OSRA, we are among the first jurisdictions globally, who have taken bold, novel steps to address the concerns that have been raised by online harms.
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp; With the passing of OSRA, we are among the first jurisdictions globally, who have taken bold, novel steps to address the concerns that have been raised by online harms.
 
-c.&nbsp;&nbsp;&nbsp;&nbsp; We will continue to work on legal reforms to strengthen online safety for Singapore and Singaporeans, and work closely with our stakeholders, including tech companies –big tech is not excluded from the equation, going forward.
+</p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp; We will continue to work on legal reforms to strengthen online safety for Singapore and Singaporeans, and work closely with our stakeholders, including tech companies –big tech is not excluded from the equation, going forward.
 
 **Community Disputes**
 
@@ -203,20 +203,20 @@ c.&nbsp;&nbsp;&nbsp;&nbsp; We will continue to work on legal reforms to strength
 {:start="34"}
 34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me elaborate:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, we are continually promoting healthy social norms through public education efforts – so that every one of us is more aware of actions that may disturb our neighbours, and takes steps to practise considerate neighbourly behaviour.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, we are continually promoting healthy social norms through public education efforts – so that every one of us is more aware of actions that may disturb our neighbours, and takes steps to practise considerate neighbourly behaviour.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, when disagreements arise, we encourage neighbours to resolve the issues amicably among themselves first. In many cases, the disagreements are not serious. They usually arise due to differences in lifestyles, schedules, and habits. Communication can go indeed a long way.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, when disagreements arise, we encourage neighbours to resolve the issues amicably among themselves first. In many cases, the disagreements are not serious. They usually arise due to differences in lifestyles, schedules, and habits. Communication can go indeed a long way.
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, neighbours who need some additional help can tap on community mediation. Mediation is a facilitated process where a neutral third party – also known as the mediator – helps parties to communicate the issues that they are facing, and works with parties to find mutually acceptable solutions. Today, about 80% of voluntary mediation cases conducted at the Community Mediation Centre are successfully settled!
+</p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third, neighbours who need some additional help can tap on community mediation. Mediation is a facilitated process where a neutral third party – also known as the mediator – helps parties to communicate the issues that they are facing, and works with parties to find mutually acceptable solutions. Today, about 80% of voluntary mediation cases conducted at the Community Mediation Centre are successfully settled!
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Finally, if all else fails, disputing neighbours can bring their case to the Community Disputes Resolution Tribunals. These Tribunals are specialist courts that we have set up, to handle serious cases that require a more formal legal response.
+</p><p style="margin-left: 40px">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Finally, if all else fails, disputing neighbours can bring their case to the Community Disputes Resolution Tribunals. These Tribunals are specialist courts that we have set up, to handle serious cases that require a more formal legal response.
 
 {:start="35"}
 35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recently, we have updated our laws and legal frameworks to further improve the management of neighbour disputes:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, to address cases where disputing parties refuse to communicate with each other – sometimes it degenerates to that – we have empowered selected public officers to direct disputing parties to attend compulsory mediation.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For instance, to address cases where disputing parties refuse to communicate with each other – sometimes it degenerates to that – we have empowered selected public officers to direct disputing parties to attend compulsory mediation.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also set up a new unit of public officers who have legal powers to investigate and take action in severe neighbour disputes. For instance, these officers may issue warnings and orders to persons who deliberately engage in acts of nuisance. This unit is now being piloted in the HDB estates of Tampines Town, with a focus on noise and hoarding cases. I see some heads turning, maybe you are residents of Tampines.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also set up a new unit of public officers who have legal powers to investigate and take action in severe neighbour disputes. For instance, these officers may issue warnings and orders to persons who deliberately engage in acts of nuisance. This unit is now being piloted in the HDB estates of Tampines Town, with a focus on noise and hoarding cases. I see some heads turning, maybe you are residents of Tampines.
 
 {:start="36"}
 36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From this example, you will see that laws extend beyond maintaining public safety or preventing crime. Laws can be used to encourage pro-social behaviour, to signal how individuals should resolve disputes, and to guide them towards cooperation and mutual respect. So that broadly is the second area of how we live together in the community, and the role that laws play in that respect.
@@ -235,9 +235,9 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also set up a n
 {:start="40"}
 40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Similarly, in the justice system, we have also taken steps over the past several years to recognise the unique profile of such individuals.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, in 2010, we introduced **community based sentences**, including the mandatory treatment order or “MTO”. The MTO allows offenders with mental health conditions who commit less serious offences to be treated in the community rather than being incarcerated. In 2018, we expanded the MTO scheme or regime to benefit more suitable offenders.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, in 2010, we introduced **community based sentences**, including the mandatory treatment order or “MTO”. The MTO allows offenders with mental health conditions who commit less serious offences to be treated in the community rather than being incarcerated. In 2018, we expanded the MTO scheme or regime to benefit more suitable offenders.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also introduced other measures over the years, such as the **Appropriate Adult Scheme**, to better support vulnerable persons through the investigative process.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also introduced other measures over the years, such as the **Appropriate Adult Scheme**, to better support vulnerable persons through the investigative process.
 
 {:start="41"}
 41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;But we definitely recognise that more can be done.
@@ -251,7 +251,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also introduced
 {:start="44"}
 44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This taskforce will bring together legal practitioners, policymakers, social service and healthcare professionals, because there is immense value in partnering with passionate individuals who are also experts in their respective fields.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These experts will look at the entire criminal justice process, from the pre-offending stage and criminal investigations to court processes, sentencing and post-sentencing support measures.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These experts will look at the entire criminal justice process, from the pre-offending stage and criminal investigations to court processes, sentencing and post-sentencing support measures.
 
 b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They will take stock of the existing measures, identify what can be done better, and propose reforms for the Government to consider.
 
