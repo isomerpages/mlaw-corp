@@ -24,4 +24,4 @@ them, where applicable, in the upcoming Insolvency, Restructuring and Dissolutio
 (Amendment) Bill.
 <br>
 <br>3. The Ministry of Law’s detailed responses to the feedback concerning
-key substantive policy matters can be found in the <a href="/files/news/public-consultations/Annex_Response_to_Feeback_Received.pdf" rel="noopener nofollow" target="_blank">Annex</a>.</p>
+key substantive policy matters can be found in the <a href="/files/news/public-consultations/annex-response-to-feedback-received.pdf" rel="noopener nofollow" target="_blank">Annex</a>.</p>
