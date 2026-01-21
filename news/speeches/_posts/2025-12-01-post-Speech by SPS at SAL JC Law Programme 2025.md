@@ -175,15 +175,15 @@ variant: markdown
 
 </p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; OSRA will establish the office of the Commissioner of Online Safety. Victims can file a report to the Commissioner about online harm. The Commission can issue directions to stop the online harm, for example, by requiring the removal of the offensive content or by disabling access to it. &nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp; The online harms covered under OSRA include:
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp; The online harms covered under OSRA include:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; Those I mentioned earlier like online harassment, doxxing, intimate image abuse, image-based child abuse, and online impersonation; and
+</p><p style="margin-left: 80px">1.&nbsp;&nbsp;&nbsp;&nbsp; Those I mentioned earlier like online harassment, doxxing, intimate image abuse, image-based child abuse, and online impersonation; and
 
-2.&nbsp;&nbsp;&nbsp;&nbsp; Others including inauthentic material abuse and incitement of violence.
+</p><p style="margin-left: 80px">2.&nbsp;&nbsp;&nbsp;&nbsp; Others including inauthentic material abuse and incitement of violence.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp; OSRA also empowers victims to pursue remedies in civil proceedings.
+</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp; OSRA also empowers victims to pursue remedies in civil proceedings.
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; OSRA clarifies the duties and liabilities of the parties involved in the online ecosystem, including the persons who communicate or publish the online harm, the administrators of the online location and online platforms. If these online actors breach their duties, victims may bring an action against them to seek monetary compensation.
+</p><p style="margin-left: 80px">1.&nbsp;&nbsp;&nbsp;&nbsp; OSRA clarifies the duties and liabilities of the parties involved in the online ecosystem, including the persons who communicate or publish the online harm, the administrators of the online location and online platforms. If these online actors breach their duties, victims may bring an action against them to seek monetary compensation.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp; With the passing of OSRA, we are among the first jurisdictions globally, who have taken bold, novel steps to address the concerns that have been raised by online harms.
 
