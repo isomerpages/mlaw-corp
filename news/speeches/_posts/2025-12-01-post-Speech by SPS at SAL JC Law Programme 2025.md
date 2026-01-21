@@ -36,9 +36,9 @@ variant: markdown
 {:start="9"}
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is a question worth asking because we stand between two significant milestones in Singapore’s history.
 
-<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First is SG60 – as you know, we celebrated, or are celebrating, the 60th anniversary of Singapore’s independence this year during 2025. &nbsp;&nbsp;&nbsp;
+<p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First is SG60 – as you know, we celebrated, or are celebrating, the 60th anniversary of Singapore’s independence this year during 2025. &nbsp;&nbsp;&nbsp;</p>
 
-</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second milestone, which non-lawyers may not be aware of, is the 200th anniversary of Singapore’s modern legal system. And this happens next year, in 2026. &nbsp;
+<p></p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second milestone, which non-lawyers may not be aware of, is the 200th anniversary of Singapore’s modern legal system. And this happens next year, in 2026. &nbsp;</p>
 
 {:start="10"}
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 1826, almost 200 years ago, the British issued a legal document, which is called the Second Charter of Justice.
@@ -46,13 +46,13 @@ variant: markdown
 {:start="11"}
 11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Second Charter of Justice was significant for two key reasons.&nbsp;
 
-</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, it set up the Singapore courts, which has evolved into a world-class institution that we are proud of, with highly respected Judges as well as an efficient and trusted judicial system.
+<p></p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, it set up the Singapore courts, which has evolved into a world-class institution that we are proud of, with highly respected Judges as well as an efficient and trusted judicial system.</p>
 
-</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, the Second Charter introduced a common set of laws that applied to all residents of Singapore.&nbsp; &nbsp;
+<p></p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, the Second Charter introduced a common set of laws that applied to all residents of Singapore.&nbsp; &nbsp;</p>
 
-</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Before the Second Charter, different communities had different laws. The Chinese had their own laws, administered by the Chinese Kapitans. The Malays had separate rules, overseen by Malay chiefs, and so on.
+<p></p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Before the Second Charter, different communities had different laws. The Chinese had their own laws, administered by the Chinese Kapitans. The Malays had separate rules, overseen by Malay chiefs, and so on.</p>
 
-</p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Charter introduced a common legal system, a common language, for all inhabitants regardless of race, culture or religion. That is the essence of the Rule of Law – that the law applies equally to everyone and that no person is above the law.
+<p></p><p style="margin-left: 60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Charter introduced a common legal system, a common language, for all inhabitants regardless of race, culture or religion. That is the essence of the Rule of Law – that the law applies equally to everyone and that no person is above the law.
 
 {:start="12"}
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Bicentennial celebrations or Anniversary next year therefore provides us with a unique opportunity to commemorate Singapore’s legal system. It allows us to take stock of the critical role that Singapore’s laws and legal system have played in our nation-building and development over the past 200 years – especially since we became an independent nation some 60 years ago.
