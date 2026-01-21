@@ -1,7 +1,7 @@
 ---
 title: The Republic of Singapore and the Swiss Confederation sign Agreement on
-  Mutual Legal Assistance
-permalink: /the-republic-of-singapore-and-the-swiss-confederation-sign-agreement-on-mutual-legal-assistance/
+  Mutual Legal Assistance in Criminal Matters
+permalink: /singapore-and-the-swiss-confederation-sign-agreement-on-mutual-legal-assistance-in-criminal-matters/
 date: 2026-01-21
 layout: post
 description: ""
@@ -35,4 +35,4 @@ variant: markdown
 <b>21 JANUARY 2026</b>
 
 
-<p class="right-side-updated">Last updated on 9 January 2026</p>
+<p class="right-side-updated">Last updated on 21 January 2026</p>
