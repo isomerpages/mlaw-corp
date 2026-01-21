@@ -253,18 +253,18 @@ variant: markdown
 
 </p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These experts will look at the entire criminal justice process, from the pre-offending stage and criminal investigations to court processes, sentencing and post-sentencing support measures.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They will take stock of the existing measures, identify what can be done better, and propose reforms for the Government to consider.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They will take stock of the existing measures, identify what can be done better, and propose reforms for the Government to consider.
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The taskforce is an example of how Ministries partner with individuals and stakeholders from outside of Government to co-create solutions to really benefit Singapore society.
+</p><p style="margin-left: 40px">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The taskforce is an example of how Ministries partner with individuals and stakeholders from outside of Government to co-create solutions to really benefit Singapore society.
 
 **(D)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Conclusion**
 
 {:start="45"}
 45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have touched very broadly on three specific areas – online harms, community disputes and supporting persons with mental health conditions and disabilities in the justice system. These areas collectively illustrate two broad points:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, we must continually refresh our laws and legal frameworks, to meet new problems, and decide the balance that we need to strike. This is something for each generation, including your generation, to decide.
+</p><p style="margin-left: 40px">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, we must continually refresh our laws and legal frameworks, to meet new problems, and decide the balance that we need to strike. This is something for each generation, including your generation, to decide.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, as we evolve our laws, it is important to remember that the law’s ultimate role is to benefit and serve society. If you do decide to study law eventually, bear in mind that the practice of law is more than just a job. You will be a part of our legal heritage – upholding the Rule of Law and enhancing access to justice. These are fundamental to Singapore’s governance and continued success.
+</p><p style="margin-left: 40px">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second, as we evolve our laws, it is important to remember that the law’s ultimate role is to benefit and serve society. If you do decide to study law eventually, bear in mind that the practice of law is more than just a job. You will be a part of our legal heritage – upholding the Rule of Law and enhancing access to justice. These are fundamental to Singapore’s governance and continued success.
 
 {:start="46"}
 46.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So on that note, regardless of which specific area of law you are interested in – or even if you decide not to study law at all – let me encourage you to join the Bicentennial activities next year, to commemorate our Rule of Law, right here in Singapore, our legal system, and the role that they have played in the Singapore story.
