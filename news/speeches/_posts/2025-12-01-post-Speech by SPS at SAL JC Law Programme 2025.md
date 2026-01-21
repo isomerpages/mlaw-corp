@@ -1,5 +1,5 @@
 ---
-title: Speech by SPS at SAL JC Law Programme 2025
+title: Keynote Address by Mr Eric Chua, Senior Parliamentary Secretary for the Ministry of Law and Ministry of Social and Family Development, at the Singapore Academy of Law Junior College Law Programme 2025
 permalink: /speech-by-sps-at-sal-jc-law-programme-2025/
 date: 2025-12-01
 layout: post
