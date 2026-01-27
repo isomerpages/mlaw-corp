@@ -1,11 +1,9 @@
 ---
-title: 'Privacy Statement'
+title: Privacy Statement
 permalink: /privacy/
 breadcrumb: Privacy
-
+variant: markdown
 ---
-
-
 Privacy Statement
 ---
 
@@ -27,10 +25,8 @@ Privacy Statement
 
 6. This digital service may contain links to non-Government digital service whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital service and encourage you to consult the privacy notices of those digital service.
 
-7. Please [contact us](https://www.gov.sg/) if you :
+7. Please [contact us](https://www.mlaw.gov.sg/about-us/contact-us/) if you :
 
    a. have any enquires or feedback on our data protection policies and procedures,
    
    b. need more information on or access to data which you have provided to us in the past.
-
- 
