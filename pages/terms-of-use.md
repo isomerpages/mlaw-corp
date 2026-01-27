@@ -1,11 +1,9 @@
 ---
-title: 'Terms of Use'
+title: Terms of Use
 permalink: /terms-of-use/
-breadcrumb: 'Terms of Use'
-
+breadcrumb: Terms of Use
+variant: markdown
 ---
-
-
 Terms of Use
 ---
 
@@ -45,7 +43,7 @@ Terms of Use
 
     iv. This includes clearing your Internet browser cookies and cache before and after using any services on the Digital Service.
     
-    v. You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.
+    v. You should keep your passwords (including your Singpass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication, other than as an authentication key for entry into the Digital Service and for services offered by MLAW therein.
 
     vi. For infocomm security best practices and tips, you may wish to visit [https://www.gosafeonline.sg](https://www.gosafeonline.sg){:target="blank"}.<br> 
 
@@ -79,7 +77,7 @@ Terms of Use
 
 7. **Privacy Policy**
 
-     i. Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/){:target="_blank"} to review the Digital Service’s Privacy Statement. .<br> 
+     i. Please [click here](https://www.mlaw.gov.sg/privacy/){:target="_blank"} to review the Digital Service’s Privacy Statement. .<br> 
 
 8. **Disclaimers and Limitation of Liability**
 
@@ -95,7 +93,7 @@ Terms of Use
 
    * Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;
   
-   * The access to the Digital Serviceor use of any services offered on the Digital Service;<br>
+   * The access to the Digital Service or use of any services offered on the Digital Service;<br>
             
    * Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;<br> 
 
