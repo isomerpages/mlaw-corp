@@ -1,5 +1,5 @@
 ---
-title: Launch of the Revamped Simplified Insolvency Programme
+title: Launch of the Revamped Simplified Insolvency Programme (SIP 2.0)
 permalink: /launch-of-revamped-sip/
 date: 2026-01-28
 layout: post
