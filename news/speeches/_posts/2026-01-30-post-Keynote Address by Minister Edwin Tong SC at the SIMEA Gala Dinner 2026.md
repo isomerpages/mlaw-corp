@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister Edwin Tong SC at the SIMEA Gala Dinner 2026
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs, Edwin Tong SC, at the Singapore Innovation and Manufacturing Excellence Award (SIMEA) Gala Dinner
 permalink: /keynote-address-by-minister-edwin-tong-sc-at-the-simea-gala-dinner-2026/
 date: 2026-01-30
 layout: post
