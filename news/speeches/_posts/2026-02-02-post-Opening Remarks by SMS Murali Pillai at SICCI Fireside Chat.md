@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by SMS Murali Pillai at SICCI Fireside Chat
+title: Opening Remarks by Murali Pillai SC, Senior Minister of State for Law and Transport, at SICCI Fireside Chat
 permalink: /opening-remarks-by-sms-murali-pillai-at-sicci-fireside-chat/
 date: 2026-02-02
 layout: post
