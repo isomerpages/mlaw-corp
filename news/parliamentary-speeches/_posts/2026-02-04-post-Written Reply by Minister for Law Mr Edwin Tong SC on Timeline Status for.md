@@ -43,6 +43,6 @@ To ask the Minister for Law (a) whether the multi-agency task force to support p
 {:start="9"}
 9.&nbsp;This launch is the latest instalment in the Ministry’s extensive efforts to ensure that our legal system remains effective, accessible and inclusive. These include our efforts to make laws, legal processes and court procedures easier to understand and navigate, the provision of civil legal aid and criminal defence aid to lower-income beneficiaries by the Legal Aid Bureau and the Public Defender’s Office, and our partnerships with Pro Bono SG, the legal fraternity and social service agencies to provide more holistic socio-legal support to those in need.
 
-<p></p><p><sup id="fn1">1. Link to the Ministry of Law’s Press Release on the launch of the Inclusive Justice Taskforce can be found here</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
+<p></p><p><sup id="fn1">1. Link to the Ministry of Law’s Press Release on the launch of the Inclusive Justice Taskforce can be found [here](https://www.mlaw.gov.sg/new-taskforce-launched-to-better-support-persons-with-disabilities-and-mental-health-conditions-in-criminal-justice-system/)</sup><a href="#ref1" title="Jump back to footnote 1 in the text." style="font-size: 12px">↩</a></p>
 
 <p class="right-side-updated">Last updated on 4 February 2026</p>
