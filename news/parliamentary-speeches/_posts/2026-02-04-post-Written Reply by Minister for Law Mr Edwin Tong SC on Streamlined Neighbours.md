@@ -1,6 +1,6 @@
 ---
-title: Written Reply by Minister for Law Mr Edwin Tong SC on Streamlined Neighbours
-permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-streamlined-neighbours/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Streamlined Neighbour Dispute Resolution Outlets for Failed Community Mediation Cases
+permalink: /written-reply-by-minister-for-law-mr-edwin-tong-sc-on-streamlined-neighbour-dispute-resolution-outlets-for-failed-community-mediation-cases/
 date: 2026-02-04
 layout: post
 description: ""
