@@ -42,7 +42,7 @@ a.	We see economic disruptions through protectionism and re-shoring practices, r
 <p style="margin-left: 40px">
 b.	We are also grappling with rapid technological advancements, such as in artificial intelligence, and their accompanying problems and threats, a point raised quite frequently by the honourable speakers who spoke before me.</p>
 
-{:start="1=7"}
+{:start="7"}
 7.	These disruptions make commercial disputes more likely. But we still live in an interconnected and interdependent world. We still rely on exchanges of goods and services, not just to meet our needs, but to flourish and do what we each do best. It is trade and exchange that allows each of us the maximal freedoms to pursue our own ends, and according to our specific and peculiar endowments.
 
 {:start="8"}
