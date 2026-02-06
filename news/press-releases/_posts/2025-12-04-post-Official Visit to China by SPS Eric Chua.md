@@ -22,7 +22,7 @@ variant: markdown
 4.&nbsp;&nbsp;&nbsp; SPS Chua was accompanied by officials from the Ministry of Law.
 
 **MINISTRY OF LAW**<br>
-**4 DECEMBER 2025.**
+**4 DECEMBER 2025**
 
 
 <p class="right-side-updated">Last updated on 4 December 2025</p>
