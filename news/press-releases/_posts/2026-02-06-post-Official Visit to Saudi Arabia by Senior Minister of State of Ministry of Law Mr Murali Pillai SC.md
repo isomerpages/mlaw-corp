@@ -1,6 +1,6 @@
 ---
 title: Official Visit to Saudi Arabia by Senior Minister of State of Ministry of
-  Law and the Ministry of Transport Mr Murali Pillai SC
+  Law and Ministry of Transport Mr Murali Pillai SC
 permalink: /official-visit-to-saudi-arabia-by-sms-murali-pillai-sc/
 date: 2026-02-05
 layout: post
