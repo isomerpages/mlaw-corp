@@ -1,6 +1,6 @@
 ---
-title: Official Visit to the Republic of Fiji  by Minister for Law
-permalink: /official-visit-to-the-republic-of-fiji-by-minister-for-law/
+title: Official Visit to the Republic of Fiji  by Minister for Law and Second Minister for Home Affairs Mr Edwin Tong SC
+permalink: /official-visit-to-the-republic-of-fiji-by-minister-for-law-second-minister-for-home-affairs-mr-edwin-tong-sc/
 date: 2026-02-09
 layout: post
 description: ""
