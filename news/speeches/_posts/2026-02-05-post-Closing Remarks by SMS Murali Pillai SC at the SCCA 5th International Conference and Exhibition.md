@@ -110,7 +110,7 @@ b.	We are also grappling with rapid technological advancements, such as in artif
 27.	Adjudicators will need to be much more adept at understanding issues well so that the right outcome can be reached. They also  need to do so under time pressure so that the proceedings are not overly protracted. 
 
 {:start="28"}
-28.	In this regard, I noted a point made by the moderator, Dr Majed Alrasheed, in this morning’s panel involving the Honourable Ministers, that arbitrators now have to work faster because the courts have been disposing of their cases even faster. 
+28.	In this regard, I noted a point made by the moderator, Dr Majed Alrasheed, in this morning’s panel involving the Honourable Ministers, that arbitrators now have to work faster because the courts have been disposing their cases even faster. 
 
 <b>Fair Consideration: The Power of Inclusiveness</b>
 
