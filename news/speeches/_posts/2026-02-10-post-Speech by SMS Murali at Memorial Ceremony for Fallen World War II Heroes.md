@@ -1,5 +1,5 @@
 ---
-title: Speech by SMS Murali at Memorial Ceremony for Fallen World War II Heroes
+title: Speech by SMS Murali at Memorial Ceremony for Fallen World War II Heroes, Pardesi Khalsa Dharmak Diwan – 100th Anniversary
 permalink: /speech-by-sms-murali-at-memorial-ceremony-for-fallen-world-war-ii-heroes/
 date: 2026-02-10
 layout: post
