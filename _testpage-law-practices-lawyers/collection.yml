@@ -1,4 +1,5 @@
 collections:
   testpage-law-practices-lawyers:
     output: true
-    order: []
+    order:
+      - Growth Areas/.keep
