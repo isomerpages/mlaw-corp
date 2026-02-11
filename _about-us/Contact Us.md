@@ -5,6 +5,57 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
+<p>Please take note of the operating hours for Ministry of Law Services Centre
+and the counter at the Help Centre, Basement 1 of the State Courts on the
+following dates: &nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours – Chinese New Year Period</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Last Queue Ticket Issued</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Resumption Date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Monday, 16 February 2026 (Chinese New Year’s Eve)</strong>
+</p>
+<p><strong>🕣 8:30 AM to 1:00 PM</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Tuesday, 17 February 2026 &amp; Wednesday, 18 February 2026<br>🚫 Closed for Chinese New Year Holidays</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>🕣 12:30pm</strong>
+</p>
+<p><strong>Monday, 16 February 2026 (Chinese New Year’s Eve)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;19 February 2026</strong>
+</p>
+<p><strong>(Thursday)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thank you for your understanding.</p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
