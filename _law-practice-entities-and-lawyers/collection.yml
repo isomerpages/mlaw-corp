@@ -2,7 +2,6 @@ collections:
   law-practice-entities-and-lawyers:
     output: true
     order:
-      - Growth areas/.keep
       - Programmes/.keep
       - Licensing Or Registration Of Law Practice Entities/.keep
       - Licensing Or Registration Of Law Practice
