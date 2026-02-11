@@ -2,9 +2,9 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
-      - Incentive and Exemption Schemes.md
-      - Resources for Law Practice Ent/.keep
-      - Other Services/.keep
-      - Registration of Individuals/.keep
       - Licensing or Registration/.keep
+      - Registration of Individuals/.keep
+      - Other Services/.keep
+      - Resources for Law Practice Ent/.keep
+      - Incentive and Exemption Schemes.md
       - Programmes/.keep
