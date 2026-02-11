@@ -2,6 +2,7 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
+      - Licensing or Registration/Test Types of Licence or Registration.md
       - Licensing or Registration/.keep
       - Registration of Individuals/.keep
       - Other Services/.keep
