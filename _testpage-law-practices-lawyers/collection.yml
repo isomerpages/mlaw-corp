@@ -2,8 +2,8 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
-      - Licensing or Registration/Test Types of Licence or Registration.md
-      - Licensing or Registration/.keep
+      - Test Licensing or Registration/Test Types of Licence or Registration.md
+      - Test Licensing or Registration/.keep
       - Registration of Individuals/Test Types of Individual Registration.md
       - Registration of Individuals/.keep
       - Other Services/Test Apply for Approval to Hold Interests in a Law
