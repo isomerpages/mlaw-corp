@@ -2,6 +2,7 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
+      - Other Services/.keep
       - Registration of Individuals/.keep
       - Licensing or Registration/.keep
       - Programmes/.keep
