@@ -47,9 +47,7 @@ following dates: &nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;19 February 2026</strong>
-</p>
-<p><strong>(Thursday)</strong>
+<p><strong>&nbsp;19 February 2026 (Thursday)</strong>
 </p>
 </td>
 </tr>
