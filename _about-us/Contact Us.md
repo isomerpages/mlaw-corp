@@ -19,7 +19,7 @@ following dates:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Monday, 16 February 2026 (Chinese New Year's Eve)</strong>
 </p>
-<p><strong>🕣</strong>8:30 AM to 1:00PM</p>
+<p><strong>🕣</strong>8:30 AM to 1:00 PM</p>
 <p>Last Queue Ticket Issued (Chinese New Year's Eve)</p>
 <p><strong>🕣</strong>12:30 PM</p>
 </td>
