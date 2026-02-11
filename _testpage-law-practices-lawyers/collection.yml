@@ -2,5 +2,6 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
+      - Programmes/.keep
       - Growth Areas/ESG Legal Secondment Programme.md
       - Growth Areas/.keep
