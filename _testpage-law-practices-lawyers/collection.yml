@@ -2,4 +2,5 @@ collections:
   testpage-law-practices-lawyers:
     output: true
     order:
+      - Licensing or Registration/.keep
       - Programmes/.keep
