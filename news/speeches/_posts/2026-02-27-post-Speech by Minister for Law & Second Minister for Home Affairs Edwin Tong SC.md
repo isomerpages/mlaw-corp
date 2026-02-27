@@ -1,6 +1,6 @@
 ---
-title: Speech by Minister for Law & Second Minister for Home Affairs Edwin Tong SC
-permalink: /speech-by-minister-for-law-second-minister-for-home-affairs-edwin-tong-sc/
+title: Speech by Minister for Law & Second Minister for Home Affairs Edwin Tong SC at the REDAS Spring Festival Lunch
+permalink: /speech-by-minister-edwin-tong-at-redas-spring-festival-lunch/
 date: 2026-02-27
 layout: post
 description: ""
