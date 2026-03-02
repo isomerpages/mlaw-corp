@@ -1,6 +1,6 @@
 ---
-title: "Committee of Supply Debate 2026: Ministry of Law Response by Mr Edwin Tong SC, Minister for Law"
-permalink: /cos-2026-ministry-of-law-response-by-mr-edwin-tong-sc-minister-for-law/
+title: Response Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the Committee of Supply Debate 2026
+permalink: /response-speech-minister-law-second-minister-home-affairs-edwin-tong-sc-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
 description: ""
@@ -12,7 +12,7 @@ variant: markdown
 Mr Chairman, Sir,
 
 {:start="1"}
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I thank the various Members who spoke last week. In particular, for each of their support of MinLaw’s work.
+1.&nbsp;I thank the various Members who spoke last week. In particular, for each of their support of MinLaw’s work.
 
 **History and Context**
 
