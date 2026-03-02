@@ -1,6 +1,6 @@
 ---
-title: S COS 2026 Speech
-permalink: /s-cos-2026-speech/
+title: Response Speech by Senior Parliamentary Secretary for Social and Family Development and Law Eric Chua at the Committee of Supply Debate 2026
+permalink: /response-speech-senior-parliamentary-secretary-social-family-development-law-eric-chua-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
 description: ""
