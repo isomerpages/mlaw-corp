@@ -17,16 +17,16 @@ Mr Chairman, Sir,
 **History and Context**
 
 {:start="2"}
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me begin with history, because context matters.
+2.&nbsp;Let me begin with history, because context matters.
 
 {:start="3"}
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 1826, the Second Charter of Justice formally established the Court of Judicature of Singapore. At that time, a fledgling colonial legal order in a trading post that had barely found its footing.
+3.&nbsp;In 1826, the Second Charter of Justice formally established the Court of Judicature of Singapore. At that time, a fledgling colonial legal order in a trading post that had barely found its footing.
 
 {:start="4"}
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The law then served a different purpose, a different master, and in a very different age.
+4.&nbsp;The law then served a different purpose, a different master, and in a very different age.
 
 {:start="5"}
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nearly two centuries on, what Singapore has built has been nothing short of remarkable. We now rank amongst the top legal and intellectual property systems in the world. Our courts and dispute resolution institutions – like the Singapore International Arbitration Centre (SIAC), the Singapore International Mediation Centre (SIMC) and the Singapore International Commercial Court (SICC) – are globally recognised for excellence.
+5.&nbsp;Nearly two centuries on, what Singapore has built has been nothing short of remarkable. We now rank amongst the top legal and intellectual property systems in the world. Our courts and dispute resolution institutions – like the Singapore International Arbitration Centre ("<b>SIAC</b>"), the Singapore International Mediation Centre ("<b>SIMC</b>") and the Singapore International Commercial Court (SICC) – are globally recognised for excellence.
 
 {:start="6"}
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While our legal beginnings were inherited, we have since moulded and contextualised the rule of law to serve our nation and our people.
