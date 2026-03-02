@@ -1,6 +1,6 @@
 ---
-title: SMS COS 2026 Speech
-permalink: /sms-cos-2026-speech/
+title: Response Speech by Senior Minister of State Law and Transport Murali Pillai SC at the Committee of Supply Debate 2026
+permalink: /response-speech-senior-minister-of-state-law-and-transport-murali-pillai-sc-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
 description: ""
@@ -33,7 +33,7 @@ Mr Chairman,
 <b><u>Empowering Businesses: Ideas as Engines of Growth</u></b>
 
 {:start="4"}
-4.&nbsp;First, intangible assets (“<b>IA</b>”) and intellectual property (“<b>IP</b>”) are critical for enterprises to develop – as mentioned by the Honourable Members <u>Mr Jackson Lam</u> and <u>Mr Mark Lee</u>.&nbsp;
+4.&nbsp;First, intangible assets (“<b>IA</b>”) and intellectual property (“<b>IP</b>”) are critical for enterprises to develop – as mentioned by the Honourable Members <u>Mr Jackson Lam</u> and <u>Mr Mark Lee</u>.
 
 {:start="5"}
 5.&nbsp;The most valuable resources of a business are often intangible.
@@ -75,10 +75,10 @@ Mr Chairman,
 <u>An IP Regime that Supports Creativity and Innovation</u>
 
 {:start="10"}
-10.&nbsp;I now move to <b>AI</b>. Human creativity is the lifeblood of innovation and progress. As we harness AI for growth, we are committed to maintaining a balanced and robust IP regime.&nbsp;&nbsp;
+10.&nbsp;I now move to <b>AI</b>. Human creativity is the lifeblood of innovation and progress. As we harness AI for growth, we are committed to maintaining a balanced and robust IP regime.
 
 {:start="11"}
-11.&nbsp;<u>Ms Goh Hanyan</u> and <u>Mr Jackson Lam</u> spoke about concerns relating to the training and use of GenAI, particularly from the creative sectors.&nbsp;&nbsp;
+11.&nbsp;<u>Ms Goh Hanyan</u> and <u>Mr Jackson Lam</u> spoke about concerns relating to the training and use of GenAI, particularly from the creative sectors.
 
 {:start="12"}
 12.&nbsp;Our approach to developing our IP regime is human-centric. We are working with stakeholders to refine our regime. For example:
@@ -117,7 +117,7 @@ Mr Chairman,
 19.&nbsp;This contributes to Singapore’s standing as a service centre and signals our openness for commerce.
 
 {:start="20"}
-20.&nbsp;However, the landscape is evolving and we must continue to innovate.&nbsp;&nbsp;
+20.&nbsp;However, the landscape is evolving and we must continue to innovate.
 
 <p style="margin-left: 40px">a) Technology is transforming dispute management, from virtual hearings to AI-assisted document review.</p>
 
@@ -155,7 +155,7 @@ Mr Chairman,
 25.&nbsp;Second, harnessing technology.
 
 {:start="26"}
-26.&nbsp;Honourable Members <u>Mr Vikram Nair</u> and <u>Ms Cassandra Lee</u> spoke on AI adoption.&nbsp;&nbsp;
+26.&nbsp;Honourable Members <u>Mr Vikram Nair</u> and <u>Ms Cassandra Lee</u> spoke on AI adoption.
 
 {:start="27"}
 27.&nbsp;MinLaw is committed to supporting our legal professionals adopting AI.
