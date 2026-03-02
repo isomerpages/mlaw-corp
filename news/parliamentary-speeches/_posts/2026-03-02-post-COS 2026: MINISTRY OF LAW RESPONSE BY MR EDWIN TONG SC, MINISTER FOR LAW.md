@@ -1,5 +1,5 @@
 ---
-title: "COMMITTEE OF SUPPLY DEBATE 2026: MINISTRY OF LAW RESPONSE BY MR EDWIN TONG SC, MINISTER FOR LAW"
+title: "Committee of Supply Debate 2026: Ministry of Law Response by Mr Edwin Tong SC, Minister for Law"
 permalink: /cos-2026-ministry-of-law-response-by-mr-edwin-tong-sc-minister-for-law/
 date: 2026-03-02
 layout: post
