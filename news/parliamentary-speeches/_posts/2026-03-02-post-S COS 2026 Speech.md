@@ -1,5 +1,6 @@
 ---
-title: Response Speech by Senior Parliamentary Secretary for Social and Family Development and Law Eric Chua at the Committee of Supply Debate 2026
+title: Response Speech by Senior Parliamentary Secretary for Social and Family
+  Development and Law Eric Chua at the Committee of Supply Debate 2026
 permalink: /response-speech-senior-parliamentary-secretary-social-family-development-law-eric-chua-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
@@ -29,13 +30,13 @@ variant: markdown
 {:start="4"}
 4.&nbsp;Sir, we are committed to optimising State properties to better meet community and business needs. This safeguards land resources for our current and future generations.
 
-<u>Creative Use of State Land and Properties for Sports and Arts</u>&nbsp;
+<u>Creative Use of State Land and Properties for Sports and Arts</u>
 
 {:start="5"}
 5.&nbsp;To this end, The Singapore Land Authority (“<b>SLA</b>”) engages public agencies and industry to better understand market needs and identify opportunities to put State land and properties to good use, in a pro-enterprise manner.&nbsp;&nbsp;
 
 {:start="6"}
-6.&nbsp;<u>Mr Christopher de Souza</u> and <u>Mr Kenneth Goh</u> asked about the use of State land and properties. I will share some examples:&nbsp;&nbsp;
+6.&nbsp;Mr Christopher de Souza and Mr Kenneth Goh asked about the use of State land and properties. I will share some examples:&nbsp;&nbsp;
 
 <p style="margin-left: 40px">a) Responding to arts practitioners’ call for a dedicated space, SLA collaborated with the National Arts Council (“<b>NAC</b>”) to transform State properties at Kampong Java Road, into Flock – an artist-led innovation and creation hub.</p>
 
@@ -50,7 +51,7 @@ variant: markdown
 <u>Making State Properties Available on Longer Tenure</u>
 
 {:start="7"}
-7.&nbsp;<u>Mr Kenneth Goh</u> also asked about a longer tenure for more State properties.
+7.&nbsp;Mr Kenneth Goh also asked about a longer tenure for more State properties.
 
 <p style="margin-left: 40px">a) Currently, State properties are let out for a range of interim uses, typically with tenures of under 10 years, to retain planning flexibility.</p>
 
@@ -63,7 +64,7 @@ variant: markdown
 <u>Enhancements to Land Betterment Charge Regime</u>
 
 {:start="8"}
-8.&nbsp;<u>Ms Goh Han Yan</u> asked about improvements to the Land Betterment Charge (“<b>LBC</b>”) regime.&nbsp;&nbsp;
+8.&nbsp;Ms Goh Han Yan asked about improvements to the Land Betterment Charge (“<b>LBC</b>”) regime.
 
 <p style="margin-left: 40px">a) We have enhanced various aspects of the LBC framework, since it came into force in 2022.</p>
 
@@ -77,7 +78,7 @@ variant: markdown
 {:start="10"}
 10.&nbsp;We continue to review our legal frameworks to adapt to trends and societal needs, so that Singaporeans can seek recourse and resolve frictions whenever they arise.
 
-<u>Community Disputes and Community Justice</u>&nbsp;&nbsp;
+<u>Community Disputes and Community Justice</u>
 
 {:start="11"}
 11.&nbsp;First, in community justice. Legislation was passed in 2024 to enhance the Community Disputes Management Framework (“<b>CDMF</b>”).
@@ -89,7 +90,7 @@ variant: markdown
 <p style="margin-left: 40px">c) Third, we have enhanced the Community Disputes Resolution Tribunal (“<b>CDRT</b>”) to improve the service journey for victims and enable them to obtain relief more quickly.</p>
 
 {:start="12"}
-12.&nbsp;<u>Mr Gerald Giam</u> made several points on the CDRT’s processes.&nbsp;&nbsp;
+12.&nbsp;Mr Gerald Giam made several points on the CDRT’s processes.
 
 <p style="margin-left: 40px">a) Sir, the CDRT is but one component of our broader community disputes framework, which also includes mediation and also the Community Relations Unit.</p>
 
@@ -116,7 +117,7 @@ variant: markdown
 <u>Review of Civil Enforcement Regime</u>
 
 {:start="13"}
-13.&nbsp;Second, we have been studying ways to streamline the enforcement of civil judgments – as mentioned by <u>Mr Vikram Nair</u>, <u>Mr Gabriel Lam</u> and <u>Mr Alex Yeo</u>.
+13.&nbsp;Second, we have been studying ways to streamline the enforcement of civil judgments – as mentioned by Mr Vikram Nair, Mr Gabriel Lam and Mr Alex Yeo.
 
 <p style="margin-left: 40px">a) We received feedback that the time, the effort and the costs of enforcing judgments can be disproportionate to the judgment sum, leaving some judgments unenforced. This is undesirable.</p>
 
@@ -136,7 +137,7 @@ variant: markdown
 <u>Implementation of the Maintenance Enforcement Process</u>
 
 {:start="15"}
-15.&nbsp;Third, in family justice – we have made changes to help families move forward with minimal acrimony, including addressing non-compliance with maintenance orders – as noted by <u>Mr Nair</u> and <u>Mr Yeo</u>.
+15.&nbsp;Third, in family justice – we have made changes to help families move forward with minimal acrimony, including addressing non-compliance with maintenance orders – as noted by Mr Nair and Mr Yeo.
 
 <p style="margin-left: 40px">a) Since establishing the new Maintenance Enforcement Division in January last year, the Family Justice Courts have referred around 1,000 cases to the new Division.</p>
 
@@ -151,7 +152,7 @@ variant: markdown
 17.&nbsp;Singaporeans have a range of options. Depending on complexity, budget, and personal preference, they can write their own wills, engage will making services, or even ask a friend for help.
 
 {:start="18"}
-18.&nbsp;<u>Ms Hany Soh</u> asked if Wills can be registered for free in SAL’s Wills Registry, and suggested regulation or mandatory insurance for non-lawyers.
+18.&nbsp;Ms Hany Soh asked if Wills can be registered for free in SAL’s Wills Registry, and suggested regulation or mandatory insurance for non-lawyers.
 
 <p style="margin-left: 40px">a) On the former, the fee defrays the costs of the service, which includes maintaining records for up to 120 years of the testator’s life.</p>
 
@@ -167,7 +168,7 @@ variant: markdown
 19.&nbsp;Lastly, I turn to access to justice.
 
 {:start="20"}
-20.&nbsp;It is a key pillar that ensures our laws and justice system are not just for those with means – thereby preserving our social fabric – as mentioned by <u>Mr Nair</u>.
+20.&nbsp;It is a key pillar that ensures our laws and justice system are not just for those with means – thereby preserving our social fabric – as mentioned by Mr Nair.
 
 <u>Civil Legal Aid and Criminal Defence Aid</u>
 
@@ -194,7 +195,7 @@ variant: markdown
 24.&nbsp;And additionally, LAB and PDO partner with social service agencies (“<b>SSAs</b>”), Family Service Centres and social services offices to provide holistic assistance and referrals for applicants with social needs such as family violence, addiction, mental health, and housing problems.
 
 {:start="25"}
-25.&nbsp;<u>Dr Wan Rizal</u>, <u>Mr Alex Yeo</u>, <u>Mr Gabriel Lam</u> and <u>Mr Jackson Lam</u> asked about ensuring access to legal aid for lower-income and lower-middle-income Singaporeans.&nbsp;&nbsp;
+25.&nbsp;Dr Wan Rizal, Mr Alex Yeo, Mr Gabriel Lam and Mr Jackson Lam asked about ensuring access to legal aid for lower-income and lower-middle-income Singaporeans.
 
 {:start="26"}
 26.&nbsp;We continue to review the means test thresholds regularly.
@@ -216,7 +217,7 @@ variant: markdown
 28.&nbsp;Beyond Government schemes, we continue to partner with the legal fraternity and key stakeholders, such as Pro Bono SG (“<b>PBSG</b>”), to strengthen the legal-help ecosystem for all Singaporeans.
 
 {:start="29"}
-29.&nbsp;<u>Mr Alex Yeo</u> asked about those facing legal issues arising from loss of mental capacity of family members.
+29.&nbsp;Mr Alex Yeo asked about those facing legal issues arising from loss of mental capacity of family members.
 
 <p style="margin-left: 40px">a) In 2025, we amended the Legal Aid and Advice Act 1995 to allow means testing based on the mentally incapacitated person, and not the volunteers applying to be their deputy.</p>
 
@@ -225,7 +226,7 @@ variant: markdown
 <u>Inclusive Justice Taskforce</u>
 
 {:start="30"}
-30.&nbsp;Finally, we are also examining how our justice system may better serve those with disabilities, or mental health conditions, as needs for these individuals often go beyond legal support – this was mentioned by <u>Mr Vikram Nair</u>.
+30.&nbsp;Finally, we are also examining how our justice system may better serve those with disabilities, or mental health conditions, as needs for these individuals often go beyond legal support – this was mentioned by Mr Vikram Nair.
 
 {:start="31"}
 31.&nbsp;In better serving these individuals, we have in the past made some efforts. 
@@ -252,7 +253,7 @@ variant: markdown
 34.&nbsp;The IJT will examine how society can better support individuals with such conditions and disabilities who risk offending, or who interact with the criminal justice system.
 
 {:start="35"}
-35.&nbsp;Our objective is simple and it is to raise public awareness of what works and recommend tangible improvements.&nbsp;
+35.&nbsp;Our objective is simple and it is to raise public awareness of what works and recommend tangible improvements.
 
 {:start="36"}
 36.&nbsp;The IJT has begun its work, and we will provide updates in due course. I am privileged to co-lead this IJT alongside Ms Peggy Yee, founding director of PY Legal LLC and longtime advocate in this space. I am also grateful for the IJT members across the private and public sectors – lawyers, policymakers, law enforcement officers, social service professionals, healthcare experts, community partners, caregiver representatives.
@@ -263,12 +264,12 @@ variant: markdown
 37.&nbsp;Sir, to be sure, we face both challenges, disruptions, but also tremendous opportunities.
 
 {:start="38"}
-38.&nbsp;Our Ministry's priorities are crystal clear. We will enhance legal services and intellectual property to support the economy, upload the rule of law, and expand access to justice, and at the same time, optimise land to meet our community needs. Together with our partners, we will press on.&nbsp;
+38.&nbsp;Our Ministry's priorities are crystal clear. We will enhance legal services and intellectual property to support the economy, upload the rule of law, and expand access to justice, and at the same time, optimise land to meet our community needs. Together with our partners, we will press on.
 
 {:start="39"}
 39.&nbsp;As we commemorate the bicentennial anniversary of the Second Charter of Justice this year, we look not only to our own history but to the future – one where the law continues to serve Singapore and Singaporeans well.
 
 {:start="40"}
-40.&nbsp;Thank you.&nbsp;
+40.&nbsp;Thank you.
 
 <p></p><p class="right-side-updated">Last updated on 2 March 2026</p>

@@ -1,5 +1,6 @@
 ---
-title: Response Speech by Senior Minister of State Law and Transport Murali Pillai SC at the Committee of Supply Debate 2026
+title: Response Speech by Senior Minister of State Law and Transport Murali
+  Pillai SC at the Committee of Supply Debate 2026
 permalink: /response-speech-senior-minister-of-state-law-and-transport-murali-pillai-sc-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
@@ -9,9 +10,9 @@ variant: markdown
 ---
 2 Mar 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<center><b><u>Giving Value to Ideas, Power to the Law</u></b></center>
+<center><u><b>Giving Value to Ideas, Power to the Law</b></u></center>
 
-<b><u>Introduction</u></b>
+<u><b>Introduction</b></u>
 
 Mr Chairman,
 
@@ -19,7 +20,7 @@ Mr Chairman,
 1.&nbsp;The law cannot generate a single cent in commerce or bring a single idea into market. It powers neither our economy nor our society. It collapses on itself when it stands alone. Yet we will have no peace, no security, no comfort; neither prosperity nor progress – without the law.
 
 {:start="2"}
-2.&nbsp;The law underwrites both the private and the public sectors of our world. Today, I will speak about both, and how they together secure the livelihoods of fellow Singaporeans.&nbsp;
+2.&nbsp;The law underwrites both the private and the public sectors of our world. Today, I will speak about both, and how they together secure the livelihoods of fellow Singaporeans.
 
 {:start="3"}
 3.&nbsp;MinLaw will steward the next bound of our development in three ways:
@@ -30,10 +31,10 @@ Mr Chairman,
 
 <p style="margin-left: 40px">c) Third, the people – to grow the capabilities of our legal profession.</p>
 
-<b><u>Empowering Businesses: Ideas as Engines of Growth</u></b>
+<u><b>Empowering Businesses: Ideas as Engines of Growth</b></u>
 
 {:start="4"}
-4.&nbsp;First, intangible assets (“<b>IA</b>”) and intellectual property (“<b>IP</b>”) are critical for enterprises to develop – as mentioned by the Honourable Members <u>Mr Jackson Lam</u> and <u>Mr Mark Lee</u>.
+4.&nbsp;First, intangible assets (“<b>IA</b>”) and intellectual property (“<b>IP</b>”) are critical for enterprises to develop – as mentioned by the Honourable Members Mr Jackson Lam and Mr Mark Lee.
 
 {:start="5"}
 5.&nbsp;The most valuable resources of a business are often intangible.
@@ -66,9 +67,9 @@ Mr Chairman,
 <p style="margin-left: 60px">ii. IPOS will support our partners in publishing the IA valuation guidelines this year.</p>
 
 {:start="9"}
-9.&nbsp;To <u>Mr Mark Lee</u>’s queries on research attachments, as well as IP financing –
+9.&nbsp;To Mr Mark Lee’s queries on research attachments, as well as IP financing –
 
-<p style="margin-left: 40px">a) On the former, A*Star seconds researchers to SMEs. IPI Singapore, a subsidiary under EnterpriseSG, also assists SMEs with technology matching services and advisory support to develop go-to-market strategies.</p>
+<p style="margin-left: 40px">a) On the former, A*STAR seconds researchers to SMEs. IPI Singapore, a subsidiary under EnterpriseSG, also assists SMEs with technology matching services and advisory support to develop go-to-market strategies.</p>
 
 <p style="margin-left: 40px">b) On the latter, IPOS is studying the market gaps in enterprise financing.</p>
 
@@ -78,7 +79,7 @@ Mr Chairman,
 10.&nbsp;I now move to <b>AI</b>. Human creativity is the lifeblood of innovation and progress. As we harness AI for growth, we are committed to maintaining a balanced and robust IP regime.
 
 {:start="11"}
-11.&nbsp;<u>Ms Goh Hanyan</u> and <u>Mr Jackson Lam</u> spoke about concerns relating to the training and use of GenAI, particularly from the creative sectors.
+11.&nbsp;Ms Goh Hanyan and Mr Jackson Lam spoke about concerns relating to the training and use of GenAI, particularly from the creative sectors.
 
 {:start="12"}
 12.&nbsp;Our approach to developing our IP regime is human-centric. We are working with stakeholders to refine our regime. For example:
@@ -95,7 +96,7 @@ Mr Chairman,
 {:start="14"}
 14.&nbsp;To take our work further, MinLaw and IPOS will conduct a public consultation later this year on potential refinements. This aims to engage broader perspectives and co-create our approach to AI-related IP issues.
 
-<b><u>Supporting Businesses through Effective Dispute Resolution</u></b>
+<u><b>Supporting Businesses through Effective Dispute Resolution</b></u>
 
 {:start="15"}
 15.&nbsp;Next, I turn to dispute resolution.
@@ -104,7 +105,7 @@ Mr Chairman,
 16.&nbsp;Businesses need clear, reliable and impartial pathways to resolution – providing predictability and certainty in their relationships.
 
 {:start="17"}
-17.&nbsp;Singapore has long recognised this, and worked hard to be an international dispute resolution hub – as Honorable Members <u>Mr Christopher de Souza</u> and <u>Mr Vikram Nair</u> said.
+17.&nbsp;Singapore has long recognised this, and worked hard to be an international dispute resolution hub – as Honorable Members Mr Christopher de Souza and Mr Vikram Nair said.
 
 {:start="18"}
 18.&nbsp;Over the past decades, our ecosystem has deepened.
@@ -123,7 +124,7 @@ Mr Chairman,
 
 <p style="margin-left: 40px">b) Our institutions have also deepened offerings in specialist areas.</p>
 
-<b><u>Giving Power to the Law: Growing the Legal Industry</u></b>
+<u><b>Giving Power to the Law: Growing the Legal Industry</b></u>
 
 {:start="21"}
 21.&nbsp;Reinforcing our frameworks and institutions is insufficient without looking at our people.
@@ -155,7 +156,7 @@ Mr Chairman,
 25.&nbsp;Second, harnessing technology.
 
 {:start="26"}
-26.&nbsp;Honourable Members <u>Mr Vikram Nair</u> and <u>Ms Cassandra Lee</u> spoke on AI adoption.
+26.&nbsp;Honourable Members Mr Vikram Nair and Ms Cassandra Lee spoke on AI adoption.
 
 {:start="27"}
 27.&nbsp;MinLaw is committed to supporting our legal professionals adopting AI.
@@ -166,18 +167,18 @@ Mr Chairman,
 
 <p style="margin-left: 60px">ii. To date, seven SLPs have joined the pilot. Their experiences will guide how we will support the broader industry in 2027.</p>
 
-<p style="margin-left: 40px">b) Second, we are ensuring responsible GenAI use – a point raised by <b>Mr Nair</b>. </p>
+<p style="margin-left: 40px">b) Second, we are ensuring responsible GenAI use – a point raised by Mr Nair. </p>
 
 <p style="margin-left: 60px">i. We conducted a public consultation in September 2025 on the draft Guide for Using GenAI in the Legal Sector and received over 20 constructive responses.</p>
 
 <p style="margin-left: 60px">ii. We will be publishing the Guide in the coming weeks.</p>
 
-<p style="margin-left: 40px">c) On <u>Ms Lee</u>’s point about AI skills, we are also partnering IMDA to build AI fluency amongst our lawyers and in-house counsel through upskilling and training initiatives, together with professional bodies including SAL and the Singapore Corporate Counsel Association.</p>
+<p style="margin-left: 40px">c) On Ms Lee’s point about AI skills, we are also partnering IMDA to build AI fluency amongst our lawyers and in-house counsel through upskilling and training initiatives, together with professional bodies including SAL and the Singapore Corporate Counsel Association.</p>
 
 <p style="margin-left: 40px">d) Third, we are creating more avenues for lawyers, including in-house counsel, to discover legaltech, through initiatives such as the LegalTech GoWhere, and the Singapore Open Legal Informatics Database (“<b>SOLID</b>”) with our partner, the Singapore Management University (“<b>SMU</b>”).</p>
 
 {:start="28"}
-28.&nbsp;Besides assisting legal professionals, AI can transform the way our society interacts with the law. This has tremendous potential for good – provided it is harnessed responsibly, as Honourable Member <u>Mr Nair</u> mentioned.
+28.&nbsp;Besides assisting legal professionals, AI can transform the way our society interacts with the law. This has tremendous potential for good – provided it is harnessed responsibly, as Honourable Member Mr Nair mentioned.
 
 <p style="margin-left: 40px">a) Users ultimately remain responsible for how they use these tools and the attendant risks – knowing that the algorithms are incapable of weighing consequences or applying ethical reasoning in the way legal professionals do.</p>
 
@@ -190,7 +191,7 @@ Mr Chairman,
 30.&nbsp;My final point is on capturing opportunities in emerging areas of legal demand.
 
 {:start="31"}
-31.&nbsp;One example is ESG, which <u>Ms Gho Sze Kee</u> spoke on.
+31.&nbsp;One example is ESG, which Ms Gho Sze Kee spoke on.
 
 <p style="margin-left: 40px">a) Sustainability is one of the paradoxes of the business world – even as it is one of the most important and consequential factors in business decisions, it is often overlooked or under-considered.</p>
 
@@ -203,7 +204,7 @@ Mr Chairman,
 
 <p style="margin-left: 60px">ii. The pilot began in February with a small initial cohort, and we will review its outcomes later this year.</p>
 
-<b><u>Conclusion</u></b>
+<u><b>Conclusion</b></u>
 
 {:start="33"}
 33.&nbsp;Mr Chairman, I have spoken today about the importance of the law in giving value to ideas.
