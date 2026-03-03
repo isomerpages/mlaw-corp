@@ -10,9 +10,9 @@ variant: markdown
 ---
 2 Mar 2026 Posted in [Parliamentary speeches and responses](/news/parliamentary-speeches) 
 
-<center><u>**Giving Value to Ideas, Power to the Law**</u></center>
+<center><u><b>Giving Value to Ideas, Power to the Law</b></u></center>
 
-<u>**Introduction**</u>
+<u><b>Introduction</b></u>
 
 Mr Chairman,
 
@@ -31,7 +31,7 @@ Mr Chairman,
 
 <p style="margin-left: 40px">c) Third, the people – to grow the capabilities of our legal profession.</p>
 
-<u>**Empowering Businesses: Ideas as Engines of Growth**</u>
+<u><b>Empowering Businesses: Ideas as Engines of Growth</b></u>
 
 {:start="4"}
 4.&nbsp;First, intangible assets (“<b>IA</b>”) and intellectual property (“<b>IP</b>”) are critical for enterprises to develop – as mentioned by the Honourable Members Mr Jackson Lam and Mr Mark Lee.
@@ -96,7 +96,7 @@ Mr Chairman,
 {:start="14"}
 14.&nbsp;To take our work further, MinLaw and IPOS will conduct a public consultation later this year on potential refinements. This aims to engage broader perspectives and co-create our approach to AI-related IP issues.
 
-<u>**Supporting Businesses through Effective Dispute Resolution**</u>
+<u><b>Supporting Businesses through Effective Dispute Resolution</b></u>
 
 {:start="15"}
 15.&nbsp;Next, I turn to dispute resolution.
@@ -124,7 +124,7 @@ Mr Chairman,
 
 <p style="margin-left: 40px">b) Our institutions have also deepened offerings in specialist areas.</p>
 
-<u>**Giving Power to the Law: Growing the Legal Industry**</u>
+<u><b>Giving Power to the Law: Growing the Legal Industry</b></u>
 
 {:start="21"}
 21.&nbsp;Reinforcing our frameworks and institutions is insufficient without looking at our people.
@@ -204,7 +204,7 @@ Mr Chairman,
 
 <p style="margin-left: 60px">ii. The pilot began in February with a small initial cohort, and we will review its outcomes later this year.</p>
 
-<u>**Conclusion**</u>
+<u><b>Conclusion</b></u>
 
 {:start="33"}
 33.&nbsp;Mr Chairman, I have spoken today about the importance of the law in giving value to ideas.
