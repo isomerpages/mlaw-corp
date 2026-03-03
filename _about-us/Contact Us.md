@@ -5,36 +5,23 @@ breadcrumb: Contact Us
 variant: tiptap
 description: ""
 ---
-<p>Please take note of the operating hours for Ministry of Law Services Centre
-and the counter at the Help Centre, Basement 1 of the State Courts on the
-following dates:</p>
-<p><strong>Operating Hours - Chinese New Year Period</strong>
+<p><strong>Temporary Hotline Disruption</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday, 16 February 2026 (Chinese New Year's Eve)</strong>
+<p>Our hotline at <strong>1800 225 5529</strong> will be unavailable on <strong>6 March 2026</strong>,
+from <strong>3:00 PM to 5:00 PM</strong> due to system maintenance.</p>
+<p><strong>Alternative contact:</strong>
 </p>
-<p><strong>🕣</strong>8:30 AM to 1:00 PM</p>
-<p>Last Queue Ticket Issued (Chinese New Year's Eve)</p>
-<p><strong>🕣</strong>12:30 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday, 17 February 2026 &amp; Wednesday, 18 February 2026</strong>
-</p>
-<p><strong>🚫</strong>Closed for Chinese New Year Holidays</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Resumption Date: Thursday, 19 February 2026&nbsp;</strong>&nbsp;</p>
-<p>Thank you for your understanding.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Live Chat</strong> – Available from <strong>8:30 AM to 11:30 AM</strong> and <strong>1:30 PM to 5:00 PM</strong>.</p>
+</li>
+<li>
+<p><strong>Online Enquiry Form</strong> – Submit online, and we’ll respond
+as soon as possible.</p>
+</li>
+</ul>
+<p>Normal hotline service resumes on <strong>Monday, 10 March 2026</strong>.
+We apologise for any inconvenience.</p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
