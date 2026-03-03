@@ -239,8 +239,7 @@ Mr Chairman, Sir,
 {:start="59"}
 59.&nbsp;SPS Eric will share more details on these efforts.
 
-**<u>Optimising our State Assets</u>
-**
+<b><u>Optimising our State Assets</u></b>
 
 {:start="60"}
 60.&nbsp;Next, I turn to optimising our State assets.
@@ -257,7 +256,7 @@ Mr Chairman, Sir,
 {:start="64"}
 64.&nbsp;SPS Eric will share how SLA continues to support our economic and social needs.
 
-<u>**Attorney-General**</u>
+<b><u>Attorney-General</u></b>
 
 {:start="65"}
 65.&nbsp;At this juncture, let me turn to address Ms Sylvia Lim’s cut on the appointment of the Attorney-General (“<b>AG</b>”).
