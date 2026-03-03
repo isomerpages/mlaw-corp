@@ -1,5 +1,6 @@
 ---
-title: Response Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the Committee of Supply Debate 2026
+title: Response Speech by Minister for Law and Second Minister for Home Affairs
+  Edwin Tong SC at the Committee of Supply Debate 2026
 permalink: /response-speech-minister-law-second-minister-home-affairs-edwin-tong-sc-committee-of-supply-debate-2026/
 date: 2026-03-02
 layout: post
@@ -72,7 +73,7 @@ Mr Chairman, Sir,
 16.&nbsp;We will therefore be reviewing key legislation with a view to updating them to ensure that our laws stay fit for purpose. This will include, this year, reforms in arbitration, corporate insolvency and intellectual property.
 
 {:start="17"}
-17.&nbsp;Beyond reviewing legislation, we will also identify opportunities in emerging areas. This includes supporting the green transition, the digital economy, and major regional infrastructure projects, as well as sports and entertainment dispute resolution that <u>Mr Kenneth Goh</u> mentioned.
+17.&nbsp;Beyond reviewing legislation, we will also identify opportunities in emerging areas. This includes supporting the green transition, the digital economy, and major regional infrastructure projects, as well as sports and entertainment dispute resolution that Mr Kenneth Goh mentioned.
 
 <u>International Thought Leadership</u>
 
@@ -95,7 +96,7 @@ Mr Chairman, Sir,
 23.&nbsp;Besides being the first office outside its Washington D.C. headquarters, ICSID will join the four other World Bank Group organisations already based in Singapore, making Singapore the first country in the world to host local offices for all five World Bank Group organisations.
 
 {:start="24"}
-24.&nbsp;Indeed, Singaporeans also contribute to leadership on the international stage, including – Mr Daren Tang, and Ambassador Rena Lee, as mentioned by <u>Mr Christopher de Souza</u>.
+24.&nbsp;Indeed, Singaporeans also contribute to leadership on the international stage, including – Mr Daren Tang, and Ambassador Rena Lee, as mentioned by Mr Christopher de Souza.
 
 <u>Extradition</u>
 
@@ -106,7 +107,7 @@ Mr Chairman, Sir,
 26.&nbsp;One such example is extradition treaties.
 
 {:start="27"}
-27.&nbsp;To <u>Ms Sylvia Lim</u>’s query on the ASEAN Treaty on Extradition (“<b>AET</b>”). The AET requires at least six ASEAN Members States to complete their respective domestic procedures and notify the ASEAN Secretary-General that they are ready to bring the AET into effect. The Government will also similarly ratify the AET once we have completed our own internal procedures. On the risks to Singaporeans, there are robust safeguards in the AET, which set out the circumstances where extradition will not be granted. One example is if the request is made to prosecute the fugitive based on his race, religion, nationality or political opinion.
+27.&nbsp;To Ms Sylvia Lim’s query on the ASEAN Treaty on Extradition (“<b>AET</b>”). The AET requires at least six ASEAN Members States to complete their respective domestic procedures and notify the ASEAN Secretary-General that they are ready to bring the AET into effect. The Government will also similarly ratify the AET once we have completed our own internal procedures. On the risks to Singaporeans, there are robust safeguards in the AET, which set out the circumstances where extradition will not be granted. One example is if the request is made to prosecute the fugitive based on his race, religion, nationality or political opinion.
 
 <b><u>Cultivating a Strong Legal Profession</u></b>
 
@@ -131,7 +132,7 @@ Mr Chairman, Sir,
 33.&nbsp;At the same time, we recognise the value that foreign law firms and lawyers bring to our industry and the wider economy.
 
 {:start="34"}
-34.&nbsp;<u>Ms Cassandra Lee</u> mentioned balancing between open competitiveness and preserving a Singapore core.
+34.&nbsp;Ms Cassandra Lee mentioned balancing between open competitiveness and preserving a Singapore core.
 
 {:start="35"}
 35.&nbsp;We agree. The two can co-exist.
@@ -146,7 +147,7 @@ Mr Chairman, Sir,
 38.&nbsp;They complement our Singapore lawyers, offering advice and expertise on international and foreign law, which we need as a global business hub. This strengthens Singapore’s value proposition. Indeed, over the same period of time, since the year 2000, our legal services exports have gone up eight-fold, which shows that when we bring together foreign lawyers and Singapore practitioners, we can extract value.
 
 {:start="39"}
-39.&nbsp;We regularly review our frameworks to remain attractive to foreign law firms and lawyers. To <u>Ms Lee</u>’s query, we have studied the recommendations by the Committee to Review the Regulatory Framework for Law Practices and Collaborations, and gathered feedback from a public consultation and our industry engagements. We will share our decision on the Committee’s Report shortly.
+39.&nbsp;We regularly review our frameworks to remain attractive to foreign law firms and lawyers. To Ms Lee’s query, we have studied the recommendations by the Committee to Review the Regulatory Framework for Law Practices and Collaborations, and gathered feedback from a public consultation and our industry engagements. We will share our decision on the Committee’s Report shortly.
 
 <b><u>Developing the Individual Lawyer</u></b>
 
@@ -162,7 +163,7 @@ Mr Chairman, Sir,
 <u>Retaining Legal Talent</u>
 
 {:start="43"}
-43.&nbsp;This also means confronting the sustainability of legal practice – issues which <u>Ms Kuah Boon Theng</u>, <u>Mr Vikram Nair</u> and <u>Ms Cassandra Lee</u> spoke on.
+43.&nbsp;This also means confronting the sustainability of legal practice – issues which Ms Kuah Boon Theng, Mr Vikram Nair and Ms Cassandra Lee spoke on.
 
 {:start="44"}
 44.&nbsp;Let me start by saying that attrition has remained stable so far, and in fact, the number of Singapore lawyers in practice grew 26% over the past decade. So, over the last ten years, the number of lawyers in practice grew 26%.
@@ -171,7 +172,7 @@ Mr Chairman, Sir,
 45.&nbsp;Nonetheless, I agree with the observations made by the Honourable Members, we must continue to explore ways to alleviate pressures on our lawyers in light of the changing environment.
 
 {:start="46"}
-46.&nbsp;There is however no magic bullet. As <u>Ms Kuah</u> has noted, the challenges are multifaceted.
+46.&nbsp;There is however no magic bullet. As Ms Kuah has noted, the challenges are multifaceted.
 
 {:start="47"}
 47.&nbsp;It will require collective effort, including law firms, which will set the conditions for growth, exposure, and mentorship for lawyers, but also lawyers themselves, each of them, who can be stewards of their own careers.
@@ -195,7 +196,7 @@ Mr Chairman, Sir,
 53.&nbsp;In parallel, the Government will also continue to support in-house counsel, who are integral to Singapore’s legal ecosystem and economic competitiveness.
 
 {:start="54"}
-54.&nbsp;As <u>Mr Vikram Nair</u> noted, lawyers joining in-house legal teams are not a loss. MNCs present in Singapore have grown to over 7,000 present in Singapore today, and between 2015 to 2024, the number of Singapore-qualified in-house counsel more than doubled. So in that period of time, while our industry has remained stable, in fact, with a 26% increase, the number of in-house counsel has more than doubled over the last ten years. It reflects growth, in not just the number of lawyers in practice or in in-house counsel roles, but the growth of MNCs in Singapore, which supports the economy – in turn, requiring the in-house counsel legal support. In house counsel help companies navigate regulatory landscapes and invest with confidence in Singapore.
+54.&nbsp;As Mr Vikram Nair noted, lawyers joining in-house legal teams are not a loss. MNCs present in Singapore have grown to over 7,000 present in Singapore today, and between 2015 to 2024, the number of Singapore-qualified in-house counsel more than doubled. So in that period of time, while our industry has remained stable, in fact, with a 26% increase, the number of in-house counsel has more than doubled over the last ten years. It reflects growth, in not just the number of lawyers in practice or in in-house counsel roles, but the growth of MNCs in Singapore, which supports the economy – in turn, requiring the in-house counsel legal support. In house counsel help companies navigate regulatory landscapes and invest with confidence in Singapore.
 
 <b><u>Enhancing Access to Justice</u></b>
 
@@ -238,7 +239,8 @@ Mr Chairman, Sir,
 {:start="59"}
 59.&nbsp;SPS Eric will share more details on these efforts.
 
-<b><u>Optimising our State Assets</b></u>
+**<u>Optimising our State Assets</u>
+**
 
 {:start="60"}
 60.&nbsp;Next, I turn to optimising our State assets.
@@ -255,10 +257,10 @@ Mr Chairman, Sir,
 {:start="64"}
 64.&nbsp;SPS Eric will share how SLA continues to support our economic and social needs.
 
-<b><u>Attorney-General</b></u>
+<u>**Attorney-General**</u>
 
 {:start="65"}
-65.&nbsp;At this juncture, let me turn to address <u>Ms Sylvia Lim</u>’s cut on the appointment of the Attorney-General (“<b>AG</b>”).
+65.&nbsp;At this juncture, let me turn to address Ms Sylvia Lim’s cut on the appointment of the Attorney-General (“<b>AG</b>”).
 
 {:start="66"}
 66.&nbsp;Ms Lim’s cut was originally filed to the PMO. It was redirected to MinLaw, as I will respond on behalf of the Prime Minister.
@@ -273,7 +275,7 @@ Mr Chairman, Sir,
 69.&nbsp;In January this year, Mr Wong’s term was renewed for three years.
 
 {:start="70"}
-70.&nbsp;<u>Ms Lim</u>, in her speech, has described the appointment process for the AG as “thin”, if I heard her correctly. But I would have to disagree and I would instead characterise it quite differently.
+70.&nbsp;Ms Lim, in her speech, has described the appointment process for the AG as “thin”, if I heard her correctly. But I would have to disagree and I would instead characterise it quite differently.
 
 {:start="71"}
 71.&nbsp;Sir, the appointment of the AG, whether the initial appointment or any subsequent renewal, is made in accordance with the Constitution. There is a clear, deliberate and very structured process of the appointment, with the appropriate checks and balances. Let me explain.
@@ -338,7 +340,7 @@ Mr Chairman, Sir,
 {:start="89"}
 89.&nbsp;Having considered all these factors, and after the required consultations, the Prime Minister advised the President to re-appoint Mr Wong for another term based on the constitutional mechanism. The President then exercised his constitutional functions. I believe this is a system of appointment which is careful, structured, and designed to preserve both independence and public trust.
 
-<b><u>A New Era: Disruption and Opportunity</b></u>
+<b><u>A New Era: Disruption and Opportunity</u></b>
 
 {:start="90"}
 90.&nbsp;Sir, I have sketched out our areas of priority in broad terms. My colleagues, SMS Murali and SPS Eric Chua will set out further details in their speeches.
@@ -401,7 +403,7 @@ Mr Chairman, Sir,
 105.&nbsp;But I want to emphasise this point: These are not matters which any single institution can resolve in isolation.
 
 {:start="106"}
-106.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The challenges before us will require a collective response, from practitioners, in-house counsel, academics, regulators, policy-makers, law students, as well as members of the public whose interests the legal system ultimately serves.
+106.&nbsp;The challenges before us will require a collective response, from practitioners, in-house counsel, academics, regulators, policy-makers, law students, as well as members of the public whose interests the legal system ultimately serves.
 
 {:start="107"}
 107.&nbsp;As a first step, MinLaw is organising a gathering of the legal industry later this week – we titled it “The Next Charter: Shaping Singapore's Legal Future Together” – on 6 March.
@@ -409,7 +411,7 @@ Mr Chairman, Sir,
 {:start="108"}
 108.&nbsp;This is an opportunity for an open, frank and candid conversation about the challenges we face, starting with AI and technology, but also understanding the road ahead, and the opportunities that might lie ahead for us, and the future we want to build collectively, for Singapore's legal industry.
 
-<b><u>Conclusion</b></u>
+<b><u>Conclusion</u></b>
 
 {:start="109"}
 109.&nbsp;Sir, as I conclude, I want to close with a direct appeal to every member of Singapore’s legal community.
