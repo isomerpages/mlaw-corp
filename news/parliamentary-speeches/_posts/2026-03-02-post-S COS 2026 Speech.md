@@ -70,7 +70,7 @@ variant: markdown
 
 <p style="margin-left: 40px">b) Minister Edwin spoke about the enhancements just last week at the REDAS Spring Festival Lunch. More details may be found in his speech on the MinLaw website.</p>
 
-<u>**Upholding Justice and Fairness Through a Fair, Accessible and Effective Legal System**</u>
+<b><u>Upholding Justice and Fairness Through a Fair, Accessible and Effective Legal System</u></b>
 
 {:start="9"}
 9.&nbsp;It is also vital that our legal processes and frameworks remain accessible, fair, and effective.
@@ -162,7 +162,7 @@ variant: markdown
 
 <p style="margin-left: 40px">d) If the public is unsure whether their service-provider is a licensed lawyer, they may check the MinLaw webpage. It has a search function that lists lawyers that have valid practising licences at the date of search.</p>
 
-<u>**Expanding Access to Justice and Supporting Vulnerable Groups**</u>
+<b><u>Expanding Access to Justice and Supporting Vulnerable Groups</u></b>
 
 {:start="19"}
 19.&nbsp;Lastly, I turn to access to justice.
@@ -258,7 +258,7 @@ variant: markdown
 {:start="36"}
 36.&nbsp;The IJT has begun its work, and we will provide updates in due course. I am privileged to co-lead this IJT alongside Ms Peggy Yee, founding director of PY Legal LLC and longtime advocate in this space. I am also grateful for the IJT members across the private and public sectors – lawyers, policymakers, law enforcement officers, social service professionals, healthcare experts, community partners, caregiver representatives.
 
-<u>**Conclusion**</u>
+<b><u>Conclusion</u></b>
 
 {:start="37"}
 37.&nbsp;Sir, to be sure, we face both challenges, disruptions, but also tremendous opportunities.
