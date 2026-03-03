@@ -7,21 +7,22 @@ description: ""
 ---
 <p><strong>Temporary Hotline Disruption</strong>
 </p>
-<p>Our hotline at <strong>1800 225 5529</strong> will be unavailable on <strong>6 March 2026</strong>,
-from <strong>3:00 PM to 5:00 PM</strong> due to system maintenance.</p>
-<p><strong>Alternative contact:</strong>
+<p>Our hotline will be unavailable on <strong>Friday, 6 March 2026, from 3:00pm to 5:00pm</strong> due
+to system works. There is no change to the opening hours of the Ministry
+of Law Services Centre.</p>
+<p><strong>Alternative ways to contact us</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Live Chat</strong> – Available from <strong>8:30 AM to 11:30 AM</strong> and <strong>1:30 PM to 5:00 PM</strong>.</p>
+<p><strong>Live Chat</strong> – Available from <strong>8:30am to 11:30am and 1:30 PM to 5:00pm</strong> on
+6 March 2026.</p>
 </li>
 <li>
-<p><strong>Online Enquiry Form</strong> – Submit online, and we’ll respond
-as soon as possible.</p>
+<p><strong>Online Enquiry Form</strong> – You may submit your enquiry online
+and we will get back to you as soon as possible.</p>
 </li>
 </ul>
-<p>Normal hotline service resumes on <strong>Monday, 10 March 2026</strong>.
-We apologise for any inconvenience.</p>
+<p>We apologise for any inconvenience caused and thank you for your understanding.</p>
 <blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
