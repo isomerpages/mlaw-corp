@@ -68,7 +68,7 @@ Mr Chairman,
 {:start="9"}
 9.&nbsp;To <u>Mr Mark Lee</u>’s queries on research attachments, as well as IP financing –
 
-<p style="margin-left: 40px">a) On the former, A\*Star seconds researchers to SMEs. IPI Singapore, a subsidiary under EnterpriseSG, also assists SMEs with technology matching services and advisory support to develop go-to-market strategies.</p>
+<p style="margin-left: 40px">a) On the former, A*Star seconds researchers to SMEs. IPI Singapore, a subsidiary under EnterpriseSG, also assists SMEs with technology matching services and advisory support to develop go-to-market strategies.</p>
 
 <p style="margin-left: 40px">b) On the latter, IPOS is studying the market gaps in enterprise financing.</p>
 
