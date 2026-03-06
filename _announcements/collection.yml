@@ -1,0 +1,6 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Launch of Guide for Using Generative Artificial Intelligence in the
+        Legal Sector.md
