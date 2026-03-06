@@ -1,7 +1,7 @@
 ---
 title: Singapore Ministry of Law and International Institute for the Unification
-  of Private Law
-permalink: /singapore-ministry-of-law-and-international-institute-for-the-unification-of-private-law/
+  of Private Law to Establish Pilot Programme
+permalink: /singapore-ministry-of-law-and-international-institute-for-the-unification-of-private-law-to-establish-pilot-programme/
 date: 2026-03-06
 layout: post
 description: ""
