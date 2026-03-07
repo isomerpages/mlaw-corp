@@ -1,6 +1,5 @@
 ---
-title: "Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the “The Next Charter: Shaping Singapore’s
-  Legal Future Together” event
+title: "Speech by Minister for Law and Second Minister for Home Affairs Edwin Tong SC at the “The Next Charter: Shaping Singapore’s Legal Future Together” event
 permalink: /speech-by-minister-for-law-at-the-the-next-charter-shaping-singapore-s-legal-future-together/
 date: 2026-03-06
 layout: post
