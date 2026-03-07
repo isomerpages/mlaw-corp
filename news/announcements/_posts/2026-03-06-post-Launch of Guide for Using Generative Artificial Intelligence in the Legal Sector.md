@@ -21,7 +21,7 @@ services sector. It sets out three key principles to guide the use of GenAI
 in legal work:</p>
 <p>(1)&nbsp;&nbsp;&nbsp; &nbsp;<strong>Professional Ethics: </strong>Legal
 professionals remain ultimately responsible for all work products. They
-must exercise the requisite knowledge, skill and professional judgment.</p>
+must exercise the requisite knowledge, skill, and professional judgment.</p>
 <p>(2)&nbsp;&nbsp;&nbsp; <strong>Confidentiality</strong>: Users must safeguard
 client data and confidentiality, and remain mindful of the risks associated
 with different GenAI models, including how data may be processed and stored.</p>
