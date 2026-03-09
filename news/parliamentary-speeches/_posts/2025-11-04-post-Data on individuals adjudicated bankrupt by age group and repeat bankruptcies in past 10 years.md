@@ -20,20 +20,21 @@ To ask the Minister for Law (a) for each of the past 10 years, what number and p
 {:start="1"} 
 1. For the period from 2016 to September 2025, the number of individuals adjudicated bankrupt aged (i) 24 and below, (ii) 25 to 39, (iii) 40 to 54 and (iv) 55 and above are tabulated below.
 
-<table><tbody><tr><th colspan="4"><b>Both first-time and repeat bankrupts</b></th></tr><tr><th scope="row"><b>Age of bankrupt at bankruptcy</b></th>
-
+<table>
+	<tbody>
+		<tr>
+			<th colspan="3"><b>Both first-time and repeat bankrupts</b></th>
+		</tr>
+		<tr>
+			<th scope="row"><b>Age of bankrupt at bankruptcy</b></th>
 <td><b>All bankrupts</b></td>
-
-<td><b>Repeat bankrupts only</b></td><td><b>2021 - 2025 Sep</b></td></tr><tr><th scope="row">
-
-<b>24 and below</b></th><td>52</td><td>0</td><td>7 years</td></tr><tr><th scope="row">
-
-<b>25 to 39</b></th><td>3,552</td><td>25</td><td>7 years</td></tr><tr><th scope="row">
-
-<b>40 to 54</b></th><td>5,709</td><td>339</td><td>7 years</td></tr><tr><th scope="row">
-
-<b>55 and above</b></th><td>2,925</td><td>345</td><td>6 years</td></tr>
-
-</tbody></table>
+<td><b>Repeat bankrupts only</b></td></tr>
+	<tr><th scope="row">
+<b>24 and below</b></th><td>52</td><td>0</td></tr><tr><th scope="row">
+<b>25 to 39</b></th><td>3,552</td><td>25</td></tr><tr><th scope="row">
+<b>40 to 54</b></th><td>5,709</td><td>339</td></tr><tr><th scope="row">
+<b>55 and above</b></th><td>2,925</td><td>345</td></tr>
+</tbody>
+</table>
 
 <p class="right-side-updated">Last updated on 4 November 2025</p>
