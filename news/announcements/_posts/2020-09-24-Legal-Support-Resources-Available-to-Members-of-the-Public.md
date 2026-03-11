@@ -18,21 +18,18 @@ d. Pro Bono SG's Community Law Centres bring legal assistance closer to the hear
 
 e. Pro Bono SG's LawGoWhere Community Law Centres [https://www.lawgowhere.sg](https://www.lawgowhere.sg) is a first-stop portal for individuals facing legal crises to get basic information and be directed to holistic help.
 
-{:start="2"}
 2.  The public may also continue to access online tools and websites that provide useful information:
  
 a. The iLAB chatbot on the [Legal Aid Bureau’s website](https://lab.mlaw.gov.sg/) provides tailored legal information on divorce, family violence, and issues related to COVID-19; it is also able to generate simple legal documents.
+  
+b. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
  
-b. The Community Justice Centre’s [Automated Court Document Assembly and Generation (ACDA)](https://cjc.org.sg/automated-court-documents-assembly/) provides step-by-step guidance on filing certain court forms.
+c. [The Law Society of Singapore website](https://www.lawsociety.org.sg/find-a-lawyer-2024) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
  
-c. [The Legal Services Regulatory Authority (LSRA) website](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) has a database of all Singapore solicitors and law practices registered with LSRA. The advanced search function allows searches by area of practice.
+d. [The Asia Law Network (ALN) website](https://www.asialawnetwork.com/) has a directory of practicing lawyers in Singapore and Asia, sorted by area of practice, language and country of practice.
  
-d. [The Law Society of Singapore website](https://www.lawsociety.org.sg/find-a-lawyer-2024) has a directory of law practices, sorted based on area of practice. It is not a complete list of all law practices, only those which have chosen to advertise on the website.
- 
-e. [The Asia Law Network (ALN) website](https://www.asialawnetwork.com/) has a directory of practicing lawyers in Singapore and Asia, sorted by area of practice, language and country of practice.
- 
-f. [The Singapore Legal Advice website](https://singaporelegaladvice.com/) has a directory of practicing lawyers and their contact details, sorted by area of practice.
+e. [The Singapore Legal Advice website](https://singaporelegaladvice.com/) has a directory of practicing lawyers and their contact details, sorted by area of practice.
 
 <b>MINISTRY OF LAW</b>
 <br>
-<b><i>Last updated 27 Dec 2024</i></b>
+<b><i>Last updated 11 Mar 2026</i></b>
