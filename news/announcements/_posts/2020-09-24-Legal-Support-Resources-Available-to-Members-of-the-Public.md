@@ -18,6 +18,7 @@ d. Pro Bono SG's Community Law Centres bring legal assistance closer to the hear
 
 e. Pro Bono SG's LawGoWhere Community Law Centres [https://www.lawgowhere.sg](https://www.lawgowhere.sg) is a first-stop portal for individuals facing legal crises to get basic information and be directed to holistic help.
 
+{:start="2"}
 2.  The public may also continue to access online tools and websites that provide useful information:
  
 a. The iLAB chatbot on the [Legal Aid Bureau’s website](https://lab.mlaw.gov.sg/) provides tailored legal information on divorce, family violence, and issues related to COVID-19; it is also able to generate simple legal documents.
