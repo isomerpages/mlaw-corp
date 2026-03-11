@@ -95,4 +95,4 @@ iii.	A senior navigating estate matters or protecting himself against scams.
 17.	To those who have supported Pro Bono SG, thank you very much. Your contributions have translated into real protection for real people who, if not for your intervention, would have been likely to be helpless. We, through your actions, are able to uphold a fundamental principle that justice does not depend on one’s bank balance. 
 
 {:start="18"}
-18.	Thank you.  
+18.	Thank you.
