@@ -61,7 +61,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 March 2026 (Sat) 0000 hrs to 8 March 2026 (Sun) 2359 hrs</p>
+<p>14 March 2026 (Sat) 1400 hrs to 16 March 2026 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
