@@ -1,5 +1,5 @@
 ---
-title: Speech by SMS Murali at Pro Bono SG’s Donor Engagement Lunch 
+title: Speech by SMS Murali at Pro Bono SG's Engagement Lunch 
 permalink: /speech-by-sms-murali-at-pro-bono-sg-s-donor-engagement-lunch/
 date: 2026-03-09
 layout: post
