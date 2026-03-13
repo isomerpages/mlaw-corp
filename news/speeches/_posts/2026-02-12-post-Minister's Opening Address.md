@@ -1,8 +1,6 @@
 ---
-title: Minister's Opening Address at the Commonwealth Law Ministers Meeting
-  (CLMM) 2026 Side Event “The United Nations Convention on International
-  Settlement Agreements Resulting from Mediation – An Anchor in the Storm”
-permalink: /minister-opening-address-CLMM-2026-side-event-united-nations-convention-international-settlement-agreements-resulting-from-mediation/
+title: Opening Address by Minister for Law and Second Minister for Home Affairs Edwin Tong at the Commonwealth Law Ministers Meeting (CLMM) 2026 Side Event “The United Nations Convention on International Settlement Agreements Resulting from Mediation – An Anchor in the Storm”
+permalink: /minister-for-law-edwin-tong-opening-address-CLMM-2026-side-event-united-nations-convention-international-settlement-agreements-resulting-from-mediation/
 date: 2026-02-12
 layout: post
 description: ""
