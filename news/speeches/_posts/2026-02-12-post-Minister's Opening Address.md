@@ -1,5 +1,7 @@
 ---
-title: Minister's Opening Address at the Commonwealth Law Ministers Meeting (CLMM) 2026 Side Event “The United Nations Convention on International Settlement Agreements Resulting from Mediation – An Anchor in the Storm”
+title: Minister's Opening Address at the Commonwealth Law Ministers Meeting
+  (CLMM) 2026 Side Event “The United Nations Convention on International
+  Settlement Agreements Resulting from Mediation – An Anchor in the Storm”
 permalink: /minister-opening-address-CLMM-2026-side-event-united-nations-convention-international-settlement-agreements-resulting-from-mediation/
 date: 2026-02-12
 layout: post
@@ -22,7 +24,7 @@ variant: markdown
 4.&nbsp;Let me start by saying a few words about Singapore and Fiji, because we share more than just a few common interests. In the interest of time, I'll mention two. First, we love our rugby, but that is where the similarities end, because Fiji is a world champion, Singapore, well, we just love our rugby. In fact, the Flying Fijians – as Fiji's fabled Rugby Sevens team is known – is very well known in Singapore. They had a dominant and commanding performance at the recent HSBC Sevens in Singapore about two weekends ago. They were successful, not just this year, but also the year before that. Theirs is a story of resilience. At the Rugby Sevens, the finals took place between Fiji and France. No disrespect to France, but at halftime, the Fijians were 12 points behind. They caught up in the second half, and won the match to take the championship. That is resilience. I speak a lot about sports, because in my previous hat, before I became the Law Minister, I was the Sports Minister.&nbsp; I enjoy sports, and I can see the qualities and the characteristics of someone who takes part in sport in almost every profession that we see, and it includes the law. My congratulations to Fiji for yet another rugby trophy, putting it in the hands of the Commonwealth. Singapore has also taken the opportunity to offer our Singapore Sports Hub at Kallang to be Fiji's home away from home. We have said to our Fiji counterparts, every time you want to play outside of Fiji, look at Singapore as your home away from home.&nbsp;
 
 {:start="5"}
-5.&nbsp;Our second common interest is that we both embrace mediation as an important form of dispute resolution - a conciliatory, amicable way of resolving disputes which arise, whether it is between neighbours and the community, or in higher value contracts, or even in big scale investor state disputes. An amicable solution is always preferable. Respecting the sanctity of contracts but still preserving the value of relationships - this was the essence and ethos of the foundation and thinking behind the Convention. Hence, Singapore worked on the Mediation Convention for several years. In fact, if you look at this photograph here, this was the very last day of the Singapore Convention on Mediation (SCM) negotiation that took place at the United Nations (“<b>UN</b>”). You can see the smiling faces, because everyone has signed off on the Convention. That eventually culminated in the Singapore Convention on Mediation that then opened for signing in 2019.
+5.&nbsp;Our second common interest is that we both embrace mediation as an important form of dispute resolution - a conciliatory, amicable way of resolving disputes which arise, whether it is between neighbours and the community, or in higher value contracts, or even in big scale investor state disputes. An amicable solution is always preferable. Respecting the sanctity of contracts but still preserving the value of relationships - this was the essence and ethos of the foundation and thinking behind the Convention. Hence, Singapore worked on the Mediation Convention for several years. In fact, if you look at this photograph here, this was the very last day of the Singapore Convention on Mediation (“<b>SCM</b>”) negotiation that took place at the United Nations (“<b>UN</b>”). You can see the smiling faces, because everyone has signed off on the Convention. That eventually culminated in the Singapore Convention on Mediation that then opened for signing in 2019.
 
 ![Conclusion of three-year negotiations on the Singapore Convention on Mediation at the United Nations](/images/CLMM%202026/CLMM_1.jpg)
 <center><i>Conclusion of three-year negotiations on the Singapore Convention on Mediation at the United Nations</i></center>
@@ -98,11 +100,11 @@ variant: markdown
 {:start="22"}
 22.&nbsp;The SIMC has been able to resolve disputes that arbitrations could not. I think it is a similar experience to what ASG has shared earlier. Until now, or at least until the Convention, despite its many advantages – time, speed and cost – mediation faced a critical challenge, and that is the enforceability of cross border settlement agreements. Until the adoption of the SCM, settlement agreements were not automatically enforceable across borders. This is because a mediated agreement, unlike a court judgment or an arbitral award, is only binding contractually between the parties and not directly enforceable in the courts. The lack of an efficient and harmonised framework for cross-border enforcement was often cited as one major impediment or challenge to mediation. The Convention has changed that. In fact, the Singapore Convention is the sister Convention to the New York Convention. What the New York Convention does in arbitration, the Singapore Convention does for mediation – allowing for parties to seek a cross-border enforcement of settlement agreements on time.
 
-{:start="23"}
-23.&nbsp;The second point I will make about why the mediation convention is particularly important, especially in these times, is as follows.
-
 ![SCM was the missing piece in international dispute resolution framework](/images/CLMM%202026/CLMM_6.jpg)
 <center><i>Singapore Convention on Mediation was the missing piece in international dispute resolution framework</i></center>
+
+{:start="23"}
+23.&nbsp;The second point I will make about why the mediation convention is particularly important, especially in these times, is as follows.
 
 {:start="24"}
 24.&nbsp;Over the last few days, we, as Commonwealth Law Ministers, have discussed important papers, and I think we, by and large, reached consensus on a number of important principles, including multilateralism.
@@ -129,7 +131,7 @@ variant: markdown
 30.&nbsp;There is an African proverb, which I like to use because it resonates with me. It is broadly translated into “to go fast, you go alone, but to go far, we go together”. That is why I believe that in the spirit of going together, coming together like this, to discuss our views on mediation, to look at different ways in which we can advance it, is very helpful.
 
 {:start="31"}
-31.&nbsp;In is an African proverb, which I like to use because it resonates with me. It is broadly translated into “to go fast, you go alone, but to go far, we go together”. That is why I believe that in the spirit of going together, coming together like this, to discuss our views on mediation, to look at different ways in which we can advance it, is very helpful. 
+31.&nbsp;In the spirit of going together, let me also end by telling you about the annual Singapore Convention Week that we have hosted every year since the Convention opened for signing in 2019. Of course, 2020 was the COVID-19 year, but subsequent to that, we decided to have a reunion of sorts every year, for all the parties who have an interest in mediation, to gather back in Singapore, to talk about what else we can do. How do we enhance thought leadership? How do we train mediators? How do we bring mediation into contracts? How do we standardise the provisions? How do we develop jurisprudence on mediation? What else can we do?
 
 {:start="32"}
 32.&nbsp;Over time, that has grown into an event that saw more than 60 partner organisations interested in the ADR space, join us on this important global dialogue. In fact, more than 5,000 attendees from over 100 jurisdictions joined us last year in Singapore. We believe that the Singapore Convention offers a timely and innovative solution to problems that we face in international dispute resolution.
