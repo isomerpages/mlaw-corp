@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+16 Mar 2026 Posted in [Speeches](/news/speeches)
+
 Mr Jimmy Budiarto, Chairman of the Rao Family Foundation,
 
 Ms Yohana Limarno, Co-founder of the Rao Family Foundation,
