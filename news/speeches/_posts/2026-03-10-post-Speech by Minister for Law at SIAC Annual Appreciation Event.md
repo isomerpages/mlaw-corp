@@ -1,5 +1,5 @@
 ---
-title: Speech by Minister for Law at SIAC Annual Appreciation Event
+title: Speech by Minister for Law and Second Minister for Home Affairs, Edwin Tong SC, at SIAC Annual Appreciation Event
 permalink: /speech-by-minister-for-law-at-siac-annual-appreciation-event/
 date: 2026-03-10
 layout: post
