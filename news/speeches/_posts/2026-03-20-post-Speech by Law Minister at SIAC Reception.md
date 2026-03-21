@@ -1,5 +1,5 @@
 ---
-title: Speech by Law Minister at SIAC Reception
+title: Opening Remarks by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the SIAC Cocktail Reception held alongside the Vis East Moot
 permalink: /speech-by-law-minister-at-siac-reception/
 date: 2026-03-20
 layout: post
