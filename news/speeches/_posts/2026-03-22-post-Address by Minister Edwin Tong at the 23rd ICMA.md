@@ -1,5 +1,5 @@
 ---
-title: Address by Minister Edwin Tong at the 23rd ICMA
+title: Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at the 23rd International Congress of Maritime Arbitrators
 permalink: /address-by-minister-edwin-tong-at-the-23rd-icma/
 date: 2026-03-22
 layout: post
