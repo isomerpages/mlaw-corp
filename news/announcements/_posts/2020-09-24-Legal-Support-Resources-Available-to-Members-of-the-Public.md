@@ -8,15 +8,13 @@ variant: markdown
 
 1.  The Ministry of Law and many of our partners provide legal assistance to those who need it:
  
-a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://eservices.mlaw.gov.sg/labesvc/](https://eservices.mlaw.gov.sg/labesvc/) for more information on the eligibility criteria and to submit an online application.
+a. The Legal Aid Bureau (LAB) provides legal advice, legal assistance, and legal aid on civil matters, to Singapore citizens and Permanent Residents with limited means. Please visit [https://go.gov.sg/mlawlabesvc](https://go.gov.sg/mlawlabesvc) for more information on the eligibility criteria and to submit an online application.
  
-b. The Public Defender's Office (PDO) and Pro Bono SG (PBSG) provide criminal defence aid to accused persons with limited means who are charged with non-capital offences. Please visit [https://pdo.mlaw.gov.sg](https://pdo.mlaw.gov.sg) for further details.
+b. The [Public Defender's Office (PDO)](https://pdo.mlaw.gov.sg/) and [Pro Bono SG (PBSG)’s Criminal Legal Aid Scheme (CLAS)](https://www.probono.sg/) co-deliver&nbsp;criminal&nbsp;defence&nbsp;aid to accused persons with limited means who are charged with non-capital offences. Please visit&nbsp;PDO’s&nbsp;website&nbsp;for&nbsp;information on&nbsp;the [eligibility criteria](https://pdo.mlaw.gov.sg/criminal-defence-aid/qualifying-for-help/) and [application process](https://pdo.mlaw.gov.sg/criminal-defence-aid/how-to-apply/).
  
-c. Pro Bono SG’s Community Legal Clinics provide general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. Please visit [https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore](https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore) for more information. This website also includes information on legal clinics in Singapore run by other organisations.
+c. Pro Bono SG’s [Community Legal Clinics](https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore) provide&nbsp;general legal guidance on personal issues to those who are unable to afford a lawyer and have not yet obtained legal advice. The [website](https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore) also includes information on legal clinics in Singapore run by other organisations.
  
-d. Pro Bono SG's Community Law Centres bring legal assistance closer to the heartlands. For more information, please visit [https://www.probono.sg/contact-us](https://www.probono.sg/contact-us). 
-
-e. Pro Bono SG's LawGoWhere Community Law Centres [https://www.lawgowhere.sg](https://www.lawgowhere.sg) is a first-stop portal for individuals facing legal crises to get basic information and be directed to holistic help.
+d. Pro Bono SG’s Community Law Centres bring legal assistance closer to the heartlands. For more information, please visit [https://www.probono.sg/contact-us](https://www.probono.sg/contact-us).
 
 {:start="2"}
 2.  The public may also continue to access online tools and websites that provide useful information:
