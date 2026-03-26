@@ -13,7 +13,7 @@ launched the Guide for Using Generative Artificial Intelligence (“<strong>GenA
 in the Legal Sector (the “<strong>Guide</strong>”), at “The Next Charter:
 Shaping Singapore’s Legal Future Together” on 6 March 2026. The launch
 followed a public consultation conducted in September 2025. The Guide may
-be accessed <strong><a href="/files/Guide_for_using_Generative_AI_in_the_Legal_Sector__Published_on_6_Mar_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+be accessed <strong><a href="/files/Guide_for_using_Generative_AI_in_the_Legal_Sector__Published_on_6_Mar_2026_.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;As part of MinLaw’s broader
 efforts to support the legal sector’s transformation and digitalisation,
 the Guide promotes the safe and responsible use of GenAI across the legal
