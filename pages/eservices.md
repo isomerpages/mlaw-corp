@@ -49,7 +49,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 March 2026 (Thu) 2200 hrs to 20 March 2026 (Fri) 0000 hrs</p>
+<p>28 March 2026 (Sat) 1400 hrs to 30 March 2026 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +58,10 @@ the following dates:</p>
 Mediation Centre, MinLaw Online Enquiries, Insolvency Office, Public Trustee's
 Office, Registry of Moneylenders, Registry of Pawnbroker, Legal Aid Bureau,
 Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
-Public Defender's Office</p>
+Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 March 2026 (Sat) 1400 hrs to 16 March 2026 (Mon) 0800 hrs</p>
+<p>28 March 2026 (Sat) 1400 hrs to 30 March 2026 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
