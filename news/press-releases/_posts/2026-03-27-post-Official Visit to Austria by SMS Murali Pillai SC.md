@@ -21,8 +21,7 @@ variant: markdown
 {:start=“4”}
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Minister of State will be accompanied by officials from the Ministry of Law.
 
-**MINISTRY OF LAW**
-
+**MINISTRY OF LAW**<br>
 **27 MARCH 2026**
 
 
