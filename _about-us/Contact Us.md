@@ -54,7 +54,7 @@ closed for staff events on the following dates and times:</p>
 </tbody>
 </table>
 <p>Please make an<strong> </strong>appointment via the OneMinLaw Portal at
-<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/omp</u>
+<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/omp </u>
 </a>before visiting us.
 <br>Thank you for your understanding.</p>
 <p></p>
