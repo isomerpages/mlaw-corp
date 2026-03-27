@@ -6,6 +6,59 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<h3><strong>Closure of Ministry of Law Services Centre</strong></h3>
+</blockquote>
+<p>The Ministry of Law Services Centre video conferencing counters and the
+Help Centre counter at Basement 1 of the State Courts will be temporarily
+closed for staff events on the following dates and times:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Closure Date/Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Last Queue Ticket Issued</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resumption Date/Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 April 2026 (Wednesday), 12 PM to 2 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 April 2026 (Wednesday), 2 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 April 2026 (Monday), 11:30 AM onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 April 2026 (Tuesday), 8:30 AM</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please make an<strong> </strong>appointment via the OneMinLaw Portal at
+<a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/omp </u>
+</a>before visiting us.
+<br>Thank you for your understanding.</p>
+<p></p>
+<blockquote>
 <h3><strong>Have Questions for Us?</strong></h3>
 </blockquote>
 <p>Check if it has already been answered at <a href="https://ask.gov.sg/mlaw" rel="noopener noreferrer nofollow" target="_blank"><u>www.ask.gov.sg/mlaw</u></a>.</p>
