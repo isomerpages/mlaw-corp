@@ -1,8 +1,11 @@
 ---
 title: Legal Support Resources Available to Members of the Public
-date: 2020-09-24T00:00:00.000Z
+date: 2020-09-24
 permalink: /news/announcements/legal-support-resources-available-to-members-of-the-public/
-variant: tiptap
+variant: markdown
+layout: post
+description: ""
+image: ""
 ---
 <p>24 SEP 2020 Posted in <a href="/news/announcements" rel="noopener noreferrer nofollow" target="_blank">Announcements</a>
 </p>
@@ -16,7 +19,7 @@ more information on the eligibility criteria and to submit an online application
 <a href="https://www.probono.sg/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG (PBSG)’s Criminal Legal Aid Scheme (CLAS)</a>co-deliver criminal
 defence aid to accused persons with limited means who are charged with
 non-capital offences. Please visit PDO's website for information on the
-<a href="https://pdo.mlaw.gov.sg/criminal-defence-aid/qualifying-for-help/" rel="noopener noreferrer nofollow" target="_blank">eligibility criteria</a>and <a href="https://pdo.mlaw.gov.sg/criminal-defence-aid/how-to-apply/" rel="noopener noreferrer nofollow" target="_blank">application process</a>.</p>
+<a href="https://pdo.mlaw.gov.sg/criminal-defence-aid/qualifying-for-help/" rel="noopener noreferrer nofollow" target="_blank">eligibility criteria</a> and <a href="https://pdo.mlaw.gov.sg/criminal-defence-aid/how-to-apply/" rel="noopener noreferrer nofollow" target="_blank">application process</a>.</p>
 <p>c. Pro Bono SG’s <a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Community Legal Clinics</a> provide
 general legal guidance on personal issues to those who are unable to afford
 a lawyer and have not yet obtained legal advice. The <a href="https://www.probono.sg/get-legal-help/legal-guidance/the-general-public/legal-clinics-in-singapore" rel="noopener noreferrer nofollow" target="_blank">website</a> also
