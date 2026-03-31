@@ -53,8 +53,8 @@ category, are up for grab!</p>
 </p>
 <p>Competition entries will be judged based on content and creativity. See
 posters below for the competition topics, tasks, and further details.</p>
-<p>For more details, kindly refer to the Frequently Asked Questions (FAQs)
-<a href="/files/SGLaw200/FAQ_for_Why_Law_Matters_Student_competitions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more details, kindly refer to the Frequently Asked Questions (FAQs) <a href="/files/SGLaw200/FAQ_for_Why_Law_Matters_Student_competitions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
