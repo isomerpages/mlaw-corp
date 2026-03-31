@@ -1,5 +1,6 @@
 ---
-title: Opening Address by Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development, Eric Chua at Geo Connect Asia 2026
+title: Opening Address by Senior Parliamentary Secretary, Ministry of Law &
+  Ministry of Social and Family Development, Eric Chua at Geo Connect Asia 2026
 permalink: /opening-address-by-sps-at-gca-2026/
 date: 2026-03-31
 layout: post
@@ -123,7 +124,7 @@ variant: markdown
 
 47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So I call upon everyone, let us work together, through Geo Connect Asia and platforms like this, with partners across government, industry, and the community to translate these capabilities into better social and economic outcomes for everyone in Singapore and beyond..
 
-48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On that note, I thank everyone,, and I wish everyone a fruitful and productive Geo Connect Asia 2026.
+48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On that note, I thank everyone, and I wish everyone a fruitful and productive Geo Connect Asia 2026.
 
 
 <p class="right-side-updated">Last updated on 31 March 2026</p>
