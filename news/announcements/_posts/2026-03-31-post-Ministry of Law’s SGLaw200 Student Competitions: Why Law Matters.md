@@ -14,7 +14,7 @@ variant: markdown
   </colgroup><tbody>
     <tr>
       <td><img src="/images/sglaw200.jpg" alt="sglaw200" title="sglaw200"></td>
-			<td><b>Test</b><br>Test</td>
+			<td><b>Why Law Matters</b><br>Ministry of Law’s SGLaw200 Student Competitions</td>
     </tr>
   </tbody>
 <style>
@@ -29,7 +29,10 @@ variant: markdown
     <col style="width: auto;">
   </colgroup><tbody>
     <tr>
-			<td>Test.<br> <b>Test.</b></td>
+			<td>Open to all Singapore Citizen or Permanent Resident students in upper primary, secondary, and pre-university!<br> <b>Submit your entry by 30 June 2026.</b></td>
     </tr>
   </tbody>
 </table>
+
+
+
