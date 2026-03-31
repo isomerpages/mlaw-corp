@@ -5,38 +5,13 @@ date: 2026-03-31
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
-
-<table style="width: 100%; table-layout: fixed;">
-  <colgroup>
-    <col style="width: 250px;">
-    <col style="width: auto;">
-  </colgroup><tbody>
-    <tr>
-      <td><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGLaw200_formatted.png">
-</div></td>
-			<td><b>Why Law Matters</b><br>Ministry of Law’s SGLaw200 Student Competitions</td>
-    </tr>
-  </tbody>
-<style>
-      .orange {
-        background-color: #FFE4CF;
-		    border: 1px solid black;
-      }
-</style>
-</table>
-<table style="width: 100%; table-layout: fixed;" class="orange">
-  <colgroup>
-    <col style="width: auto;">
-  </colgroup><tbody>
-    <tr>
-			<td>Open to all Singapore Citizen or Permanent Resident students in upper primary, secondary, and pre-university!<br> <b>Submit your entry by 30 June 2026.</b></td>
-    </tr>
-  </tbody>
-</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentcompetition.png">
+</div>
 <p><strong><u>About SGLaw200</u></strong>
 </p>
 <p>The Ministry of Law advances access to justice, the rule of law, the economy
@@ -78,8 +53,8 @@ category, are up for grab!</p>
 </p>
 <p>Competition entries will be judged based on content and creativity. See
 posters below for the competition topics, tasks, and further details.</p>
-<p>For more details, kindly refer to the Frequently Asked Questions (FAQs) <a href="/files/SGLaw200/FAQ_for_Why_Law_Matters_Student_competitions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-</p>
+<p>For more details, kindly refer to the Frequently Asked Questions (FAQs)
+<a href="/files/SGLaw200/FAQ_for_Why_Law_Matters_Student_competitions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
