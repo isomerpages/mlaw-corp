@@ -9,9 +9,7 @@ variant: markdown
 ---
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
-    
     <col style="width: 225px;">
-    
     <col style="width: auto;">
   </colgroup><tbody>
     <tr>
@@ -28,7 +26,6 @@ variant: markdown
 </table>
 <table style="width: 100%; table-layout: fixed;" class="orange">
   <colgroup>
-    
     <col style="width: auto;">
   </colgroup><tbody>
     <tr>
