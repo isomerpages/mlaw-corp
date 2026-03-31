@@ -1,5 +1,6 @@
 ---
-title: Opening Address by SPS at GCA 2026
+title: Opening Address by Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development,
+Eric Chua at Geo Connect Asia 2026
 permalink: /opening-address-by-sps-at-gca-2026/
 date: 2026-03-31
 layout: post
