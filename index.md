@@ -31,7 +31,7 @@ sections:
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
         - title: ONEMINLAW PORTAL
-          description: Make an appointment with us
+          description: Find Out More
           url: https://eservices.mlaw.gov.sg/OMP/
   - resources:
       title: News and Information
