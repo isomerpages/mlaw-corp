@@ -1,6 +1,7 @@
 ---
-title: Written Reply
-permalink: /written-reply/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on the ASEAN Extradition Treaty Ratification Status and Singapore's Preparatory Steps for Implementation of Ratification
+
+permalink: /written-reply-minister-law-edwin-tong-sc-on-asean-extradition-treaty-ratification-status-and-singapores-preparatory-steps-implementation-ratification/
 date: 2026-04-07
 layout: post
 description: ""
