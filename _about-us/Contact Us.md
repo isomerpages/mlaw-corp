@@ -10,10 +10,9 @@ description: ""
 </blockquote>
 <p>The Ministry of Law Services Centre video conferencing counters and the
 Help Centre counter at Basement 1 of the State Courts will be temporarily
-closed for staff events on the following dates and times:</p>
-<table style="minWidth: 75px">
+closed for staff events on the following date and time:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -23,32 +22,15 @@ closed for staff events on the following dates and times:</p>
 <p>Closure Date/Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Last Queue Ticket Issued</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Resumption Date/Time</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 April 2026 (Wednesday), 12 PM to 2 PM</p>
+<p>27 April 2026 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11:30 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 April 2026 (Wednesday), 2 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 April 2026 (Monday), 11:30 AM onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 April 2026 (Tuesday), 8:30 AM</p>
+<p>11:30 AM onwards</p>
 </td>
 </tr>
 </tbody>
