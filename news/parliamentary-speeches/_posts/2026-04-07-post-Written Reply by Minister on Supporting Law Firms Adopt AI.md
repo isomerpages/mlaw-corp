@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister on Supporting Law Firms Adopt AI
+title: Written Reply by Minister on Supporting Local Law Firms in Adopting AI Tools
 permalink: /written-reply-by-minister-on-supporting-law-firms-adopt-ai/
 date: 2026-04-07
 layout: post
