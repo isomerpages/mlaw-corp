@@ -32,7 +32,7 @@ sections:
           url: https://www.singaporeconventionweek.sg/
         - title: ONEMINLAW PORTAL
           description: Find Out More
-          url: https://eservices.mlaw.gov.sg/OMP/
+          url: https://www.mlaw.gov.sg/e-services/
   - resources:
       title: News and Information
       subtitle: Top Stories
