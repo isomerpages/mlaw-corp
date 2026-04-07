@@ -10,7 +10,7 @@ description: ""
 </blockquote>
 <p>The Ministry of Law Services Centre video conferencing counters and the
 Help Centre counter at Basement 1 of the State Courts will be temporarily
-closed for staff events on the following date and time:</p>
+closed for staff event on the following date and time:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
