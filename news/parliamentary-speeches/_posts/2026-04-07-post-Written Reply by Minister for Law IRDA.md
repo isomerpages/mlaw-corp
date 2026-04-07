@@ -1,5 +1,5 @@
 ---
-title: Written Reply by Minister for Law IRDA
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Wrongful Trading Investigated under Insolvency, Restructuring and Dissolution Act 
 permalink: /written-reply-by-minister-for-law-irda/
 date: 2026-04-07
 layout: post
