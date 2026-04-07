@@ -10,10 +10,9 @@ description: ""
 </blockquote>
 <p>The Ministry of Law Services Centre video conferencing counters and the
 Help Centre counter at Basement 1 of the State Courts will be temporarily
-closed for staff events on the following dates and times:</p>
-<table style="minWidth: 75px">
+closed for staff event on the following date and time:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -23,32 +22,15 @@ closed for staff events on the following dates and times:</p>
 <p>Closure Date/Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Last Queue Ticket Issued</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Resumption Date/Time</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 April 2026 (Wednesday), 12 PM to 2 PM</p>
+<p>27 April 2026 (Monday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11:30 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 April 2026 (Wednesday), 2 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 April 2026 (Monday), 11:30 AM onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 April 2026 (Tuesday), 8:30 AM</p>
+<p>11:30 AM onwards</p>
 </td>
 </tr>
 </tbody>
@@ -91,8 +73,9 @@ from 6:00 PM to 11:59 PM. For any ad hoc maintenance, please check <a href="http
 <h3><strong>Visit Us</strong></h3>
 </blockquote>
 <p><strong>Ministry of Law Services Centre</strong> 
-<br>To reduce waiting time for a smoother experience, please make an appointment
-via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us.</p>
+<br>Visits to the Ministry of Law Services Centre are by appointment only.
+Make an appointment via the OneMinLaw Portal at <a href="http://go.gov.sg/omp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/omp</a> before visiting us.</p>
+<p></p>
 <p><strong>Operating Hours</strong>
 <br>Monday to Friday, 8:30 AM to 5:00 PM (Last queue ticket will be issued
 at 4:30 PM)

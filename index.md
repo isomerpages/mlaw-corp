@@ -30,9 +30,9 @@ sections:
         - title: Singapore Convention Week 2025
           description: Find Out More
           url: https://www.singaporeconventionweek.sg/
-        - title: ONEMINLAW PORTAL [NEW!!]
-          description: Make an appointment with us
-          url: https://eservices.mlaw.gov.sg/OMP/
+        - title: ONEMINLAW PORTAL
+          description: Find Out More
+          url: https://www.mlaw.gov.sg/e-services/
   - resources:
       title: News and Information
       subtitle: Top Stories
