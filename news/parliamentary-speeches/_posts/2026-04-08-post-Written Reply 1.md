@@ -1,6 +1,6 @@
 ---
-title: Written Reply 1
-permalink: /written-reply-1/
+title: Written Reply by Minister for Law Mr Edwin Tong SC on Integration of Court Custody Orders with Healthcare, School and Residential Records Systems
+permalink: /written-reply-minister-law-edwin-tong-sc-on-integration-court-custody-orders-healthcare-school-residential-records-systems/
 date: 2026-04-08
 layout: post
 description: ""
