@@ -1,6 +1,5 @@
 ---
-title: Keynote Address by Minister for Law and Second Minister for Home Affairs, 
-Mr Edwin Tong SC at the Opening of the SCCA Asia Pacific (APAC) Legal Congress 2026
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC at the Opening of the SCCA Asia Pacific (APAC) LegalCongress 2026
 permalink: /keynote-by-minister-at-scca-apac-legal-congress-2026/
 date: 2026-04-08
 layout: post
