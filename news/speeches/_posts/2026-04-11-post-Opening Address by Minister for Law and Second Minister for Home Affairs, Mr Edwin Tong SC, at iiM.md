@@ -1,6 +1,6 @@
 ---
 title: Opening Address by Minister for Law and Second Minister for Home Affairs,
-  Mr Edwin Tong SC, at iiM
+  Mr Edwin Tong SC, at the Institute of International Mediators (iiM) Annual Conference 2026
 permalink: /opening-address-by-minister-for-law-and-second-minister-for-home-affairs-mr-edwin-tong-sc-at-iim/
 date: 2026-04-11
 layout: post
