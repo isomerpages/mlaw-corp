@@ -1,5 +1,6 @@
 ---
-title: Opening by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at Singapore Legal Day - The Next Charter 
+title: Opening by Minister for Law and Second Minister for Home Affairs, Mr
+  Edwin Tong SC, at Singapore Legal Day - The Next Charter
 permalink: /opening-by-minister-for-law-mr-edwin-tong-sc-at-singapore-legal-day/
 date: 2026-04-17
 layout: post
@@ -12,7 +13,8 @@ variant: markdown
 {:start="1"} 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A very good evening to all of you.
 
-{:start="2"} 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am just so delighted to be here.
+{:start="2"} 
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am just so delighted to be here.
 
 {:start="3"} 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From where I stand – to be able to see so many of you here gathering together – it really warms my heart, and I want to thank all of you for being here. Even as we were chatting outside, I am sure you felt that familiar sense of connection, even miles and miles away from home.
 
