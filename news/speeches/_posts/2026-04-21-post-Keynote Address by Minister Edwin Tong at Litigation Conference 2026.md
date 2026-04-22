@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister Edwin Tong at Litigation Conference 2026
+title: Keynote Address by by Minister for Law and Second Minister for Home Affairs, Edwin Tong SC, at Litigation Conference 2026 - “The Human Essence of Advocacy in an AI-Enhanced World”
 permalink: /keynote-address-by-minister-edwin-tong-at-litigation-conference-2026/
 date: 2026-04-21
 layout: post
