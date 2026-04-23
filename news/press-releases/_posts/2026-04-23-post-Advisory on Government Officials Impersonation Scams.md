@@ -1,5 +1,5 @@
 ---
-title: Advisory on Government Officials Impersonation Scams
+title: Advisory on Government Officials Impersonation Scams Involving the Impersonation of Officials from the Ministry of Law 
 permalink: /advisory-on-government-officials-impersonation-scams/
 date: 2026-04-23
 layout: post
