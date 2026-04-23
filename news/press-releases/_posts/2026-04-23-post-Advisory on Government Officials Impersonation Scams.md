@@ -41,6 +41,6 @@ variant: markdown
 {:start="7"}
 7.	For more information on scams, members of the public can visit www.scamshield.gov.sg or call the 24/7 ScamShield helpline at 1799.
 
-**MINISTRY OF LAW**
-**SINGAPORE POLICE FORCE**
+**MINISTRY OF LAW**<br>
+**SINGAPORE POLICE FORCE**<br>
 **23 APRIL 2026**
