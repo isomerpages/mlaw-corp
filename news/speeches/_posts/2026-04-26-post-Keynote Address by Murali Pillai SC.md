@@ -1,6 +1,6 @@
 ---
-title: Keynote Address by Murali Pillai SC
-permalink: /keynote-address-by-murali-pillai-sc/
+title :Keynote Address by Senior Minister of State for Law and Transport Mr Murali Pillai SC, at Murasu 360
+permalink: /keynote-address-by-senior-minister-of-state-murali-pillai-sc-murasu-360/
 date: 2026-04-26
 layout: post
 description: ""
