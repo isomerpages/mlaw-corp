@@ -1,5 +1,6 @@
 ---
-title: Keynote Address by Senior Minister of State for Law and Transport Mr Murali Pillai SC, at Murasu 360
+title: Keynote Address by Senior Minister of State for Law and Transport Mr
+  Murali Pillai SC, at Murasu 360
 permalink: /keynote-address-by-senior-minister-of-state-murali-pillai-sc-murasu-360/
 date: 2026-04-26
 layout: post
@@ -7,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+26 Apr 2026 Posted in [Speeches](/news/speeches)
+
 Mr Hamid Razak, Member of Parliament, West Coast-Jurong West GRC and Grassroots Adviser to West Coast-Jurong West GRC GROs,
 
 Dr Haresh Singaraju, Nominated Member of Parliament,
@@ -68,4 +71,6 @@ Ladies and gentlemen,
 16.&nbsp; The engagements and the energy we felt this month must be extended into our homes, our schools, our workplaces, and of course, our communities. 
 
 {:start="17"}
-17.&nbsp; Once again, my heartiest congratulations to the Tamil Language Council, Tamil Murasu, all community organisations, schools, and every participant who made TLF 2026 a resounding success. 
+17.&nbsp; Once again, my heartiest congratulations to the Tamil Language Council, Tamil Murasu, all community organisations, schools, and every participant who made TLF 2026 a resounding success.
+
+<p class="right-side-updated">Last updated on 26 April 2026</p>
