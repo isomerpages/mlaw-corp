@@ -1,5 +1,5 @@
 ---
-title: Speech by Senior Minister of State for Law and Transport Mr Murali Pillai SC, At the Opening of Singapore Prison Service Video Courts
+title: Speech by Senior Minister of State for Law and Transport Mr Murali Pillai SC, at the Opening of Singapore Prison Service Video Courts
 permalink: /speech-by-sms-murali-pillai-at-the-opening-of-singapore-prisons-service-video-courts/
 date: 2026-04-29
 layout: post
