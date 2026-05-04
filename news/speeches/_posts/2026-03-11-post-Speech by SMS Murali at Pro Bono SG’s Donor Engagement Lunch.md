@@ -1,6 +1,6 @@
 ---
-title: Speech by SMS Murali at Pro Bono SG's Engagement Lunch 
-permalink: /speech-by-sms-murali-at-pro-bono-sg-s-donor-engagement-lunch/
+title: Speech by Senior Minister of State Law and Transport Mr Murali Pillai SC at Pro Bono SG's Engagement Lunch 
+permalink: /speech-by-senior-minister-of-state-law-transport-murali-pillai-at-pro-bono-sg-donor-engagement-lunch/
 date: 2026-03-09
 layout: post
 description: ""
