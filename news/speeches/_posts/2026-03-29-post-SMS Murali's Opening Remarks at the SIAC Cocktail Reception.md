@@ -1,6 +1,6 @@
 ---
-title: SMS Murali's Opening Remarks at the SIAC Cocktail Reception
-permalink: /sms-murali-s-opening-remarks-at-the-siac-cocktail-reception/
+title: Opening Remarks by Senior Minister of State Law and Transport Mr Murali Pillai SC, at the SIAC Cocktail Reception
+permalink: /opening-remarks-by-senior-minister-of-state-law-transport-murali-pillai-at-the-siac-cocktail-reception/
 date: 2026-03-29
 layout: post
 description: ""

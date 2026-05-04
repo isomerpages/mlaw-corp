@@ -1,7 +1,7 @@
 ---
-title: Closing Remarks by SMS Murali Pillai SC at the SCCA 5th International
+title: Closing Remarks by Senior Minister of State Law and Transport Mr Murali Pillai SC at the SCCA 5th International
   Conference and Exhibition
-permalink: /closing-remarks-by-sms-murali-pillai-sc-scca-5th-international-conference-and-exhibition/
+permalink: /closing-remarks-by-senior-minister-state-law-transport-murali-pillai-sc-scca-5th-international-conference-and-exhibition/
 date: 2026-02-05
 layout: post
 description: ""
