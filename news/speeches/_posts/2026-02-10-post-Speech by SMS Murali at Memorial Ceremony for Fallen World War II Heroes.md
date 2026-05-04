@@ -1,6 +1,6 @@
 ---
-title: Speech by SMS Murali at Memorial Ceremony for Fallen World War II Heroes, Pardesi Khalsa Dharmak Diwan – 100th Anniversary
-permalink: /speech-by-sms-murali-at-memorial-ceremony-for-fallen-world-war-ii-heroes/
+title: Speech by Senior Minister of State Law and Transport Mr Murali Pillai SC at Memorial Ceremony for Fallen World War II Heroes, Pardesi Khalsa Dharmak Diwan – 100th Anniversary
+permalink: /speech-by-senior-minister-of-state-law-transport-murali-pillai-at-memorial-ceremony-for-fallen-world-war-ii-heroes/
 date: 2026-02-08
 layout: post
 description: ""
