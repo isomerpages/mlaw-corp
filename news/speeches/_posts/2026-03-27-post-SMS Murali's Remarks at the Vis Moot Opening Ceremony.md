@@ -1,6 +1,6 @@
 ---
-title: SMS Murali's Remarks at the Vis Moot Opening Ceremony
-permalink: /sms-murali-s-remarks-at-the-vis-moot-opening-ceremony/
+title: Remarks by Senior Minister of State Law and Transport Mr Murali Pillai SC, at the Vis Moot Opening Ceremony
+permalink: /remarks-by-senior-minister-of-state-law-transport-murali-pillai-at-the-vis-moot-opening-ceremony/
 date: 2026-03-27
 layout: post
 description: ""
