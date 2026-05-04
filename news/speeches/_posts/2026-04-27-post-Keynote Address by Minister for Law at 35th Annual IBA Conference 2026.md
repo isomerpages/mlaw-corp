@@ -1,5 +1,5 @@
 ---
-title: Keynote Address by Minister for Law at 35th Annual IBA Conference 2026
+title: Keynote Address by Minister for Law and Second Minister for Home Affairs, Mr Edwin Tong SC, at 35th Annual IBA Communications and Competition Law Conference 2026 
 permalink: /keynote-address-by-minister-for-law-at-35th-annual-iba-conference-2026/
 date: 2026-04-27
 layout: post
