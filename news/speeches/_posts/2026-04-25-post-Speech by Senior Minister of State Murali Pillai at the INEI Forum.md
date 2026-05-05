@@ -1,5 +1,5 @@
 ---
-title: Opening Address by Senior Minister of State for Law and Transcport Mr Murali Pillai SC, at the INEI Forum
+title: Opening Address by Senior Minister of State for Law and Transport Mr Murali Pillai SC, at the INEI Forum
 permalink: /opening-address-by-senior-minister-of-state-law-transport-murali-pillai-at-the-inei-forum/
 date: 2026-04-25
 layout: post
