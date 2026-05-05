@@ -49,7 +49,7 @@ the following dates:</p>
 <p>OneMinLaw Portal (OMP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 April 2026 (Sat) 1400 hrs to 13 April 2026 (Mon) 0800 hrs</p>
+<p>9 May 2026 (Sat) 1400 hrs to 11 May 2026 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Divorce Aide, Anti-Money Laundering / Countering The Financing Of Terrorism,
 Public Defender's Office, Maintenance Enforcement Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 April 2026 (Sat) 1400 hrs to 13 April 2026 (Mon) 0800 hrs</p>
+<p>9 May 2026 (Sat) 1400 hrs to 11 May 2026 (Mon) 0800 hrs</p>
 </td>
 </tr>
 <tr>
